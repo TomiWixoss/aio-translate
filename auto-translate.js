@@ -40,18 +40,20 @@ function saveProgress(progress) {
     fs.writeFileSync(PROGRESS_FILE, JSON.stringify(progress, null, 2), 'utf-8');
 }
 
-async function translateBatch(lines, batchIndex, retryCount = 0) {
+async function translateBatch(lines, batchIndex, retryCount = 0, messages = null) {
     const startIndex = batchIndex * BATCH_SIZE;
     const batch = lines.slice(startIndex, startIndex + BATCH_SIZE);
     const expectedLineCount = batch.length;
     
     // Conversation history để retry
-    const messages = [
-        { 
-            role: "user", 
-            content: `Dịch ${expectedLineCount} dòng sau sang tiếng Việt. Trả về ĐÚNG ${expectedLineCount} dòng, mỗi dòng gốc = 1 dòng dịch. KHÔNG thêm giải thích hay phân tích.\n\n${batch.join('\n')}` 
-        }
-    ];
+    if (!messages) {
+        messages = [
+            { 
+                role: "user", 
+                content: `Dịch ${expectedLineCount} dòng sau sang tiếng Việt. Trả về ĐÚNG ${expectedLineCount} dòng, mỗi dòng gốc = 1 dòng dịch. KHÔNG thêm giải thích hay phân tích.\n\n${batch.join('\n')}` 
+            }
+        ];
+    }
 
     try {
         const response = await aio.chatCompletion({
@@ -87,27 +89,7 @@ async function translateBatch(lines, batchIndex, retryCount = 0) {
                 await new Promise(resolve => setTimeout(resolve, RETRY_DELAY));
                 
                 // Retry với conversation history
-                const retryResponse = await aio.chatCompletion({
-                    provider: "nvidia",
-                    model: "stepfun-ai/step-3.5-flash",
-                    systemPrompt: `Bạn là chuyên gia dịch The Sims 4 sang tiếng Việt. KHÔNG dịch: "The Sims 4", "Sims", "Sim", "Social Bunny", "EA app", "Gallery". Giữ nguyên thẻ HTML, biến, ký tự đặc biệt. Trả về ĐÚNG số dòng như yêu cầu.`,
-                    messages: messages,
-                    temperature: 0.3,
-                    top_p: 0.9,
-                    max_tokens: 16384,
-                });
-                
-                const retryContent = retryResponse.choices[0].message.content.trim();
-                const retryLines = retryContent.split('\n');
-                
-                if (retryLines.length === expectedLineCount) {
-                    console.log(`✅ Batch ${batchIndex + 1}: Đã fix, nhận đúng ${expectedLineCount} dòng`);
-                    // Tiếp tục check với AI checker
-                    return await checkTranslation(batch, retryLines, batchIndex);
-                } else {
-                    // Tiếp tục retry
-                    return translateBatch(lines, batchIndex, retryCount + 1);
-                }
+                return translateBatch(lines, batchIndex, retryCount + 1, messages);
             } else {
                 console.error(`❌ Batch ${batchIndex + 1}: Đã retry ${MAX_RETRIES} lần, vẫn sai số dòng`);
                 // Lưu bản gốc
@@ -117,9 +99,11 @@ async function translateBatch(lines, batchIndex, retryCount = 0) {
             }
         }
         
-        // Số dòng đúng, gọi AI checker
-        console.log(`✓ Batch ${batchIndex + 1}: Số dòng đúng, đang check chất lượng...`);
-        return await checkTranslation(batch, translatedLines, batchIndex);
+        // Số dòng đúng, lưu file
+        console.log(`✅ Batch ${batchIndex + 1}: Hoàn thành với ${expectedLineCount} dòng`);
+        const tempFile = path.join(TEMP_DIR, `batch-${String(batchIndex).padStart(6, '0')}.txt`);
+        fs.writeFileSync(tempFile, translatedLines.join('\n'), 'utf-8');
+        return { batchIndex, success: true };
         
     } catch (error) {
         // Retry mãi mãi khi gặp lỗi (rate limit, network, etc.)
@@ -130,116 +114,11 @@ async function translateBatch(lines, batchIndex, retryCount = 0) {
         console.log(`🔄 Retry sau ${waitTime/1000}s...`);
         
         await new Promise(resolve => setTimeout(resolve, waitTime));
-        return translateBatch(lines, batchIndex, retryCount + 1);
+        return translateBatch(lines, batchIndex, retryCount + 1, messages);
     }
 }
 
-async function checkTranslation(originalBatch, translatedLines, batchIndex, checkRetryCount = 0, conversationHistory = []) {
-    const expectedLineCount = originalBatch.length;
-    
-    try {
-        // Nếu chưa có conversation history, tạo mới
-        if (conversationHistory.length === 0) {
-            conversationHistory.push({
-                role: "user",
-                content: `Kiểm tra bản dịch sau:
 
-BẢN GỐC (${expectedLineCount} dòng):
-${originalBatch.join('\n')}
-
-BẢN DỊCH (${translatedLines.length} dòng):
-${translatedLines.join('\n')}
-
-NHIỆM VỤ:
-1. Kiểm tra số dòng có đúng ${expectedLineCount} không?
-2. Kiểm tra có giữ nguyên thẻ HTML (&lt;span&gt;, &lt;b&gt;), biến ({0.String}, {0.Number}), ký tự đặc biệt (\\n) không?
-3. Kiểm tra có dịch đúng nghĩa không?
-4. Kiểm tra có thêm giải thích/nhận xét/phân tích không cần thiết không?
-
-QUY TẮC TRẢ LỜI (BẮT BUỘC):
-- Nếu TẤT CẢ đều hoàn hảo → Chỉ trả về 2 chữ: OK
-- Nếu có BẤT KỲ lỗi nào → Trả về bản dịch MỚI đã sửa với ĐÚNG ${expectedLineCount} dòng (không thêm giải thích, không nhận xét, CHỈ bản dịch)
-
-CẢNH BÁO: KHÔNG được trả về nhận xét, phân tích, hay bất kỳ text nào khác ngoài "OK" hoặc bản dịch mới.`
-            });
-        }
-
-        const checkResponse = await aio.chatCompletion({
-            provider: "nvidia",
-            model: "stepfun-ai/step-3.5-flash",
-            systemPrompt: `Bạn là chuyên gia kiểm tra dịch thuật The Sims 4. 
-
-QUY TẮC TUYỆT ĐỐI:
-- Nếu bản dịch hoàn hảo → Chỉ trả về đúng 2 chữ "OK" (không thêm gì khác)
-- Nếu có lỗi → Trả về bản dịch mới đã sửa với đúng số dòng (KHÔNG thêm giải thích, nhận xét, phân tích)
-
-NGHIÊM CẤM: Không được trả về nhận xét, giải thích, hay bất kỳ text nào ngoài "OK" hoặc bản dịch.`,
-            messages: conversationHistory,
-            temperature: 0.3,
-            top_p: 0.9,
-            max_tokens: 16384,
-        });
-
-        const checkResult = checkResponse.choices[0].message.content.trim();
-        
-        // Thêm response vào conversation history
-        conversationHistory.push({
-            role: "assistant",
-            content: checkResult
-        });
-        
-        // Nếu AI trả về OK
-        if (checkResult === 'OK' || checkResult.toUpperCase() === 'OK') {
-            console.log(`✅ Batch ${batchIndex + 1}: AI checker xác nhận OK`);
-            const tempFile = path.join(TEMP_DIR, `batch-${String(batchIndex).padStart(6, '0')}.txt`);
-            fs.writeFileSync(tempFile, translatedLines.join('\n'), 'utf-8');
-            return { batchIndex, success: true };
-        }
-        
-        // AI trả về bản dịch mới
-        console.log(`🔍 Batch ${batchIndex + 1}: AI checker đề xuất sửa`);
-        const newTranslatedLines = checkResult.split('\n');
-        
-        // Kiểm tra số dòng của bản mới
-        if (newTranslatedLines.length !== expectedLineCount) {
-            console.log(`⚠️  Batch ${batchIndex + 1}: Bản mới có ${newTranslatedLines.length} dòng, cần ${expectedLineCount}`);
-            
-            if (checkRetryCount < MAX_RETRIES) {
-                console.log(`🔄 Check retry ${checkRetryCount + 1}/${MAX_RETRIES} - Nhắc AI chỉ trả về OK hoặc bản dịch đúng số dòng...`);
-                
-                // Thêm message nhắc nhở vào conversation history
-                conversationHistory.push({
-                    role: "user",
-                    content: `LỖI: Bạn trả về ${newTranslatedLines.length} dòng nhưng cần ĐÚNG ${expectedLineCount} dòng.
-
-CHỈ CÓ 2 CÁCH TRẢ LỜI HỢP LỆ:
-1. Nếu bản dịch ban đầu hoàn hảo → Chỉ trả về 2 chữ: OK
-2. Nếu cần sửa → Trả về bản dịch mới với ĐÚNG ${expectedLineCount} dòng (KHÔNG thêm bất kỳ text nào khác)
-
-NGHIÊM CẤM: Không giải thích, không nhận xét, không phân tích. Chỉ "OK" hoặc bản dịch ${expectedLineCount} dòng.`
-                });
-                
-                await new Promise(resolve => setTimeout(resolve, RETRY_DELAY));
-                return await checkTranslation(originalBatch, translatedLines, batchIndex, checkRetryCount + 1, conversationHistory);
-            } else {
-                console.log(`⚠️  Batch ${batchIndex + 1}: Dùng bản cũ vì checker không fix được`);
-                const tempFile = path.join(TEMP_DIR, `batch-${String(batchIndex).padStart(6, '0')}.txt`);
-                fs.writeFileSync(tempFile, translatedLines.join('\n'), 'utf-8');
-                return { batchIndex, success: true };
-            }
-        }
-        
-        // Bản mới OK, check lại lần nữa
-        console.log(`✓ Batch ${batchIndex + 1}: Bản mới đúng số dòng, check lại...`);
-        return await checkTranslation(originalBatch, newTranslatedLines, batchIndex, checkRetryCount + 1);
-        
-    } catch (error) {
-        console.error(`❌ Batch ${batchIndex + 1}: Lỗi khi check, dùng bản hiện tại`);
-        const tempFile = path.join(TEMP_DIR, `batch-${String(batchIndex).padStart(6, '0')}.txt`);
-        fs.writeFileSync(tempFile, translatedLines.join('\n'), 'utf-8');
-        return { batchIndex, success: true };
-    }
-}
 
 async function main() {
     console.log('🚀 Dịch The Sims 4 (Song song x10)\n');
