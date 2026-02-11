@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x5471D50D" TextString="Này {0.SimFirstName}, Freezer Bunny đã nói gì ở câu lạc bộ vậy? Nơi này đang sôi động quá!" />
+    <TextStringDefinition InstanceID="0x5571D6BE" TextString="Một con lạc đà và một chú gnome bước vào quán bar... khoan đã, {0.SimFirstName} chuyện đó thế nào nhỉ?" />
+    <TextStringDefinition InstanceID="0x65AC1BE0" TextString="Sul Sul {0.SimFirstName}! Garba nerba ya nabie ster lay." />
+    <TextStringDefinition InstanceID="0x64AC1A77" TextString="{0.SimFirstName} luôn mang lại niềm vui. Không có ai tuyệt vời hơn để cùng chơi đùa." />
+    <TextStringDefinition InstanceID="0x5FAC1216" TextString="Luôn rất vui khi gặp bạn, {0.SimFirstName}. Bạn chưa bao giờ làm tôi thất vọng, luôn khiến tôi mỉm cười." />
+    <TextStringDefinition InstanceID="0x5EAC10E5" TextString="Tôi cảm thấy {0.SimFirstName} đã tính toán mọi thứ! Hỗ trợ tinh thần hay lời khuyên, họ luôn ở phía sau bạn!" />
+    <TextStringDefinition InstanceID="0x61AC152C" TextString="Hãy có một người bạn thân như {0.SimFirstName}. Thực sự không thể sống thiếu họ." />
+    <TextStringDefinition InstanceID="0x60AC1383" TextString="{0.SimFirstName} có phong cách cực ngầu! Mỗi ngày đều là một &quot;lewk&quot;." />
+    <TextStringDefinition InstanceID="0x9320B259" TextString="Câu chuyện buồn" />
+    <TextStringDefinition InstanceID="0x021A2BC6" TextString="Điều thực sự đáng buồn là bỏ lỡ cơ hội chia sẻ nỗi buồn này với cả thế giới." />
+    <TextStringDefinition InstanceID="0x7859F68E" TextString="Câu chuyện tự tin" />
+    <TextStringDefinition InstanceID="0x2C415037" TextString="Đăng bài tự tin về sự kiện này và đảm bảo tất cả người theo dõi của bạn đều biết về nó." />
+    <TextStringDefinition InstanceID="0xD63F723B" TextString="Sao chép Sim thành Hình Thái Thú." />
+    <TextStringDefinition InstanceID="0x7BA1DCB5" TextString="Thêm Người Sói" />
+    <TextStringDefinition InstanceID="0x0587C715" TextString="(Từ nhu cầu cao)" />
+    <TextStringDefinition InstanceID="0x2CCF238B" TextString="Luôn buồn khi một Sim chết. Thậm chí còn buồn hơn khi họ có khoản nợ chưa trả và nó được thu từ quỹ của các thành viên khác trong hộ gia đình." />
+    <TextStringDefinition InstanceID="0x236F2D01" TextString="{1.SimName} đang tự hỏi liệu tôi có muốn đến nhà {M1.his}{F1.her} và chơi đùa không." />
+    <TextStringDefinition InstanceID="0xF7DAAD7F" TextString="{1.SimName} đang gọi đến để trò chuyện. Bạn có muốn trả lời không?" />
+    <TextStringDefinition InstanceID="0x36795024" TextString="Cuộc gọi điện thoại đến" />
+    <TextStringDefinition InstanceID="0xA623C36A" TextString="{1.SimName} muốn đến chơi đùa. Được không?" />
+    <TextStringDefinition InstanceID="0xAD0DFFE1" TextString="Quỹ bán lẻ không đủ cho việc này." />
+    <TextStringDefinition InstanceID="0x0F4CAE5B" TextString="{0.SimFirstName} không đủ tiền để mua." />
+    <TextStringDefinition InstanceID="0x4E420BAB" TextString="Quỹ kinh doanh không đủ cho việc này." />
+    <TextStringDefinition InstanceID="0x556F2FC9" TextString="Mở khóa bằng cách thắng một trận đánh với Sim khác." />
+    <TextStringDefinition InstanceID="0x34D06CFC" TextString="Mở khóa bằng cách không trải qua Moodlet tiêu cực trong 3 ngày." />
+    <TextStringDefinition InstanceID="0x8BD570BE" TextString="Mở khóa khi một Sim phụ huynh chứng kiến con họ trưởng thành." />
+    <TextStringDefinition InstanceID="0xE5581E95" TextString="Mở khóa bằng cách vượt qua một bệnh thông thường." />
+    <TextStringDefinition InstanceID="0xACED1F59" TextString="Tăng tốc độ hoàn thành bài tập về nhà." />
+    <TextStringDefinition InstanceID="0x71054038" TextString="Mở khóa bằng cách trải qua trái tim tan vỡ." />
+    <TextStringDefinition InstanceID="0xAD5AA4A7" TextString="Mở khóa bằng cách nhận được Ưu đãi Tăng cường Kỹ năng." />
+    <TextStringDefinition InstanceID="0x9CE894CC" TextString="Tăng khả năng sinh sản và làm tăng khả năng có sinh đôi hoặc ba trẻ cho Sim từ độ tuổi Thanh niên trở lên." />
+    <TextStringDefinition InstanceID="0xCA6224DA" TextString="Mở khóa bằng cách hoàn thành 50 Mong ước." />
+    <TextStringDefinition InstanceID="0x9E2EEF00" TextString="Tăng cơ hội thành công trong tương tác Ác và tăng hiệu suất trong các cuộc đối đầu thể chất với Sim khác." />
+    <TextStringDefinition InstanceID="0x8DB46191" TextString="Tạm dừng sự giảm của một nhu cầu ngẫu nhiên." />
+    <TextStringDefinition InstanceID="0x1E8D35E2" TextString="Tăng thời gian tồn tại của Moodlet Vui vẻ và Cảm hứng." />
+    <TextStringDefinition InstanceID="0x6168276B" TextString="Làm chậm tốc độ giảm nhu cầu cho Trẻ mới biết đi và Trẻ em." />
+    <TextStringDefinition InstanceID="0xF29558B4" TextString="Giảm thời gian mắc bệnh." />
+    <TextStringDefinition InstanceID="0x9F24E345" TextString="Giảm thời gian tồn tại của Moodlet Tim tan vỡ." />
+    <TextStringDefinition InstanceID="0xFD4DD706" TextString="Làm tươi trẻ lại Sim với một luồng năng lượng và ngăn người lớn tuổi trải qua sự kiệt sức." />
+    <TextStringDefinition InstanceID="0x7CB9B24F" TextString="Sim kiếm được điểm Hài lòng gấp đôi từ việc hoàn thành Mong ước và Khát vọng." />
+    <TextStringDefinition InstanceID="0xF6DB1998" TextString="Giảm thời gian tồn tại của Moodlet Buồn bã và Khó chịu." />
+    <TextStringDefinition InstanceID="0x420F4BC5" TextString="Mở khóa bằng cách trở thành cha mẹ của một đứa trẻ sơ sinh." />
+    <TextStringDefinition InstanceID="0x88BED0D5" TextString="Mở khóa bằng cách có một cuộc trò chuyện thành công với Đường dây Từ bi Buồn bã qua thẻ Xã hội trên Điện thoại khi đang cảm thấy buồn." />
+    <TextStringDefinition InstanceID="0xD2CA5634" TextString="Mở khóa bằng cách tốt nghiệp từ Trường Tiểu học, Trường Trung học, hoặc Đại học." />
+    <TextStringDefinition InstanceID="0x59DFDAC4" TextString="(Từ việc ăn một Công thức Gia đình)" />
+    <TextStringDefinition InstanceID="0x79F9A868" TextString="Thuê Người chăm sóc trẻ" />
+    <TextStringDefinition InstanceID="0xB5F93E7C" TextString="Gửi đến Trông trẻ" />
+    <TextStringDefinition InstanceID="0x5472C57A" TextString="Trẻ sơ sinh và Trẻ mới biết đi không thể để một mình ở nhà! Có nên thuê Người chăm sóc trẻ với giá {0.Money} cộng {1.Money} mỗi giờ?\n\nHọ cũng có thể được gửi đến Trông trẻ miễn phí!" />
+    <TextStringDefinition InstanceID="0x86E49014" TextString="Kỳ học đã kết thúc.\nGPA kỳ: {1.String}\nGPA: {2.String}\n{3.String}" />
+    <TextStringDefinition InstanceID="0x4797E711" TextString="C" />

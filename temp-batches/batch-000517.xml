@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x1E7A6BAA" TextString="Chăm sóc trẻ nhỏ là một phần thưởng tự thân." />
+    <TextStringDefinition InstanceID="0x4DB4D46F" TextString="Tại sao phải mặc quần áo?" />
+    <TextStringDefinition InstanceID="0x7BC25B20" TextString="Quần áo thật ngớ ngẩn. Không mặc gì mới tuyệt!" />
+    <TextStringDefinition InstanceID="0x15E8B4BA" TextString="Mọi người đâu rồi?" />
+    <TextStringDefinition InstanceID="0xCF556BDB" TextString="{0.SimFirstName} đã lâu không nói chuyện với ai! Mọi người đâu rồi?" />
+    <TextStringDefinition InstanceID="0xD6428D89" TextString="Ồ, tã bẩn" />
+    <TextStringDefinition InstanceID="0x389473D6" TextString="Ối! {0.SimFirstName} có tã bẩn. Mùi có tệ thế không?" />
+    <TextStringDefinition InstanceID="0x129A4073" TextString="Vảy da do tã" />
+    <TextStringDefinition InstanceID="0x539AA99C" TextString="Chiếc tã bẩn này làm da tôi ngứa." />
+    <TextStringDefinition InstanceID="0x7146CFE4" TextString="Bị đe dọa!" />
+    <TextStringDefinition InstanceID="0x4B3A4191" TextString="Bị nhục nhã vì sự đe dọa tàn nhẫn của tội phạm!" />
+    <TextStringDefinition InstanceID="0x519A9B91" TextString="Sự hiện diện đe dọa" />
+    <TextStringDefinition InstanceID="0xA3573FEE" TextString="Bắt nạt, đe dọa, đe dọa... là tội phạm, nhưng đó không phải là công việc sao?" />
+    <TextStringDefinition InstanceID="0x102BB6D1" TextString="Lạnh!" />
+    <TextStringDefinition InstanceID="0x6C07042E" TextString="Trời quá lạnh! Hãy thử sưởi ấm {0.SimFirstName} bằng cách thay quần áo ấm hơn hoặc đưa {0.SimPronounObjective} vào trong nhà." />
+    <TextStringDefinition InstanceID="0xCE3C45E9" TextString="Đóng băng!" />
+    <TextStringDefinition InstanceID="0xDDCDFCB6" TextString="Trời ngoài trời quá lạnh đối với {0.SimFirstName}! Đưa {0.SimPronounObjective} vào trong nhà nhanh để sưởi ấm!" />
+    <TextStringDefinition InstanceID="0x73067B26" TextString="Đóng băng" />
+    <TextStringDefinition InstanceID="0xE779E5FF" TextString="Nhân vật đang đóng băng thích được sưởi ấm. Hãy thử thay họ vào Trang phục Thời tiết Lạnh." />
+    <TextStringDefinition InstanceID="0x3BB8091D" TextString="Lạnh cóng" />
+    <TextStringDefinition InstanceID="0xB6D478C6" TextString="Trời bắt đầu lạnh! Nhân vật có thể bắt đầu tự sưởi ấm bằng cách mặc quần áo thời tiết lạnh và đi vào trong nhà. " />
+    <TextStringDefinition InstanceID="0x090E527E" TextString="Lá của Sự Vĩ Đại" />
+    <TextStringDefinition InstanceID="0xA8873BC7" TextString="Trà này có hương vị sâu sắc truyền cảm hứng chỉ có thể đến từ người pha trà có bình lọc." />
+    <TextStringDefinition InstanceID="0x43C16E52" TextString="Trang phục Truyền cảm hứng" />
+    <TextStringDefinition InstanceID="0x69551903" TextString="Một bộ trang phục nổi bật với tông truyền cảm hứng." />
+    <TextStringDefinition InstanceID="0x7DB4AE52" TextString="Trang phục Thả thính" />
+    <TextStringDefinition InstanceID="0xE5D4D903" TextString="Ôi la la! Các đầu sẽ quay và được đón tiếp tốt bởi nhân vật trong bộ trang phục này." />
+    <TextStringDefinition InstanceID="0x846D2FBF" TextString="Trang phục Đầy năng lượng" />
+    <TextStringDefinition InstanceID="0x29D1F990" TextString="Bùm! Chập! Hãy lấy nó vì bộ trang phục này đã sẵn sàng ĐI!" />
+    <TextStringDefinition InstanceID="0xAACA7E84" TextString="Trang phục Tự tin" />
+    <TextStringDefinition InstanceID="0x5FFFD8B1" TextString="Một số trang phục giúp nhân vật đối mặt với thế giới, và đây là một trong số đó." />
+    <TextStringDefinition InstanceID="0x4ED0E63F" TextString="Hãy Ngắm nghía" />
+    <TextStringDefinition InstanceID="0x07ABE910" TextString="Suy ngẫm về những khả năng tiềm năng của trang phục, {0.SimFirstName} được trao quyền để đẩy các tham số của {M0.his}{F0.her} nghề nghiệp." />
+    <TextStringDefinition InstanceID="0xEE7C1DF9" TextString="Sự hiện diện Tội phạm" />
+    <TextStringDefinition InstanceID="0x48EDF3E6" TextString="Liệu nhân vật đó có thực sự là bậc thầy tội phạm? Nhân vật nên làm gì!?" />
+    <TextStringDefinition InstanceID="0xA96A2DDF" TextString="Cảm giác hưng phấn không bị kìm nén!" />
+    <TextStringDefinition InstanceID="0x2C529630" TextString="Một vài trải nghiệm ngang bằng với cảm giác hưng phấn của việc chạy bộ quanh khu phố mà không bị giới hạn bởi quần áo." />
+    <TextStringDefinition InstanceID="0x8F051EB6" TextString="Người ủng hộ Hưng phấn" />
+    <TextStringDefinition InstanceID="0x3C2CC36F" TextString="{0.SimFirstName} vui mừng cho mối tình mới nảy nở của {0.SimPronounPossessiveIndependent} bạn bè!" />
+    <TextStringDefinition InstanceID="0xC63E9E59" TextString="Tôi biết rồi!" />
+    <TextStringDefinition InstanceID="0x3D408FC6" TextString="{0.SimFirstName} vui mừng cho {0.SimPronounPossessiveIndependent} bạn bè đang hàn gắn mối quan hệ trong quá khứ." />
+    <TextStringDefinition InstanceID="0x8F2412E7" TextString="Người ủng hộ Buồn bã" />
+    <TextStringDefinition InstanceID="0x2FF4CA48" TextString="{0.SimFirstName} buồn khi nghe {0.SimPronounPossessiveIndependent} bạn bè chia tay." />
+    <TextStringDefinition InstanceID="0xAC6F59DE" TextString="Càng đông càng vui!" />
+    <TextStringDefinition InstanceID="0xBB7C6AA7" TextString="{0.SimFirstName} vui mừng vì {0.SimPronounPossessiveIndependent} bạn bè có một người bạn mới. Vòng tròn bạn bè trở nên lớn hơn!" />
+    <TextStringDefinition InstanceID="0xFD3E1C5C" TextString="Tại sao có sự ghét bỏ?" />
+    <TextStringDefinition InstanceID="0xEBF295D9" TextString="{0.SimFirstName} cảm thấy buồn bã khi biết {0.SimPronounPossessiveIndependent} bạn bè bị khinh miệt. Tại sao chúng ta không thể sống hòa thuận?" />
+    <TextStringDefinition InstanceID="0x5695FC2E" TextString="Tôi ghét Sản xuất Truyền thông!" />
+    <TextStringDefinition InstanceID="0x678416BB" TextString="Tôi ghét Đan móc!" />
+    <TextStringDefinition InstanceID="0x68C85A46" TextString="Tôi ghét Khả năng Tự làm!" />

@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x7F3BCB07" TextString="{0.String} không còn được gán cho bất kỳ lô đất hợp lệ nào. Để có thể mở, hãy gán một lô đất hợp lệ trong Cài đặt Kinh doanh Nhỏ.\n\nNếu hiện không có lô đất hợp lệ nào, hãy cân nhắc mua một Địa điểm Kinh doanh Nhỏ để vận hành kinh doanh này." />
+    <TextStringDefinition InstanceID="0x528ABE8E" TextString="Không có Khách hàng Tiềm năng!" />
+    <TextStringDefinition InstanceID="0xD2D2BD40" TextString="Tiêu chí Khách hàng Mục tiêu Bắt buộc hiện tại của {0.String} quá khắt khe để chấp nhận bất kỳ Sim nào!\n\nViệc làm cho Tiêu chí không còn Bắt buộc sẽ giúp mời thêm khách hàng." />
+    <TextStringDefinition InstanceID="0xE312EE2F" TextString="Không có Quầy Vé Đang hoạt động!" />
+    <TextStringDefinition InstanceID="0x8CB86B6D" TextString="Không có Quầy Vé nào đang hoạt động! Để thu Doanh số Vé từ khách hàng, hãy đặt một Quầy Vé mới, thay thế bất kỳ Quầy Vé nào bị hỏng, và đảm bảo lô đất được kết nối với lưới điện." />
+    <TextStringDefinition InstanceID="0x0E7BEECD" TextString="Quầy Vé Không thể Truy cập" />
+    <TextStringDefinition InstanceID="0x45526E2F" TextString="Không có Quầy Vé nào có thể truy cập được! Đóng Kinh doanh Nhỏ và đặt một Quầy Vé mới hoặc di chuyển một Quầy Vé hiện có đến một vị trí mà khách hàng có thể với tới." />
+    <TextStringDefinition InstanceID="0xEEBF422C" TextString="Đóng Kinh doanh Nhỏ" />
+    <TextStringDefinition InstanceID="0x16347D94" TextString="Một Lớp Sở thích vẫn đang diễn ra! Nếu bạn đóng Kinh doanh Nhỏ ngay bây giờ, Lớp học sẽ bị hủy mà không có thanh toán." />
+    <TextStringDefinition InstanceID="0x8D693031" TextString="Quản lý Công việc Nhân viên" />
+    <TextStringDefinition InstanceID="0xB6A4B542" TextString="Nhân viên Mới" />
+    <TextStringDefinition InstanceID="0xD01CD904" TextString="{0.SimFirstName} đã thuê {1.SimName} làm nhân viên mới tại {2.String}. {1.SimFirstName} sẽ xuất hiện đi làm lần tiếp theo khi {2.String} được mở." />
+    <TextStringDefinition InstanceID="0x489AF15A" TextString="Có Địa điểm Kinh doanh Nhỏ!" />
+    <TextStringDefinition InstanceID="0x55022EFC" TextString="{0.String} hiện là một Địa điểm Kinh doanh Nhỏ nhưng không có Kinh doanh Nhỏ! {1.SimFirstName} có thể mua lô đất này cho {1.SimPronounPossessiveDependent} Kinh doanh Nhỏ thông qua Điện thoại." />
+    <TextStringDefinition InstanceID="0x5EDBF2A4" TextString="Mở Cài đặt Kinh doanh Nhỏ" />
+    <TextStringDefinition InstanceID="0x85E3F521" TextString="Không có Kinh doanh Được gán!" />
+    <TextStringDefinition InstanceID="0xE535FC93" TextString="{0.String} hiện là một Địa điểm Kinh doanh Nhỏ nhưng không có Kinh doanh Nhỏ! Mở Cài đặt Kinh doanh Nhỏ để gán Kinh doanh Nhỏ của một hộ gia đình Sim cho địa điểm này." />
+    <TextStringDefinition InstanceID="0x481E9A00" TextString="Mở Cài đặt Kinh doanh" />
+    <TextStringDefinition InstanceID="0x954C4A8D" TextString="Không có Khách hàng Hiện có" />
+    <TextStringDefinition InstanceID="0xBDD15BEF" TextString="Tất cả khách hàng đáp ứng tiêu chí Khách hàng Mục tiêu Bắt buộc của {0.String} hoặc đã ở đây rồi hoặc đã đến quá gần đây.\n\nHãy cân nhắc mở rộng Khách hàng Mục tiêu khả thi hoặc làm cho Tiêu chí không còn Bắt buộc để khuyến khích nhiều khách hàng hơn đến thăm {0.String}." />
+    <TextStringDefinition InstanceID="0xE76B9386" TextString="{0.TimeShort} đến {1.TimeShort}" />
+    <TextStringDefinition InstanceID="0xFA65EDB0" TextString="{0.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x92CCA68C" TextString="{0.String}" />
+    <TextStringDefinition InstanceID="0x8F068407" TextString="{0.Number} {S0.{S1.ObjectName}}{P0.{P1.ObjectName}}\n\n{2.String}" />
+    <TextStringDefinition InstanceID="0xD035D3B9" TextString="{0.Number} {S0.{S1.ObjectName}}{P0.{P1.ObjectName}}" />
+    <TextStringDefinition InstanceID="0xB5F493B0" TextString="{0.String}\n{1.String}" />
+    <TextStringDefinition InstanceID="0xD22D3E78" TextString="{0.String}: {1.String}" />
+    <TextStringDefinition InstanceID="0xA795DBC4" TextString="{0.Money}" />
+    <TextStringDefinition InstanceID="0xAC2CA174" TextString="với {0.Money}" />
+    <TextStringDefinition InstanceID="0x847A4379" TextString="{0.String}…" />
+    <TextStringDefinition InstanceID="0x5D808001" TextString="{0.String} {1.String}" />
+    <TextStringDefinition InstanceID="0x4286250B" TextString="{0.String} và {1.String}" />
+    <TextStringDefinition InstanceID="0x1D2033C0" TextString="{0.String}, và {1.String}" />
+    <TextStringDefinition InstanceID="0x40AFB1B6" TextString="{0.String}, {1.String}" />
+    <TextStringDefinition InstanceID="0x1493714C" TextString="&lt;font color='{0.String}'&gt;{1.String}&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xD8DE1CF9" TextString=" • {0.String}" />
+    <TextStringDefinition InstanceID="0xC0033FFC" TextString="Trợ cấp Cư dân" />
+    <TextStringDefinition InstanceID="0x3C0625D6" TextString="Dành cho thanh thiếu niên và thanh niên, nơi họ sống có thể cung cấp các trợ cấp giúp tài chính cho sinh viên trong việc theo đuổi giáo dục đại học. Mỗi địa điểm có số tiền trợ cấp riêng, và sinh viên được khuyến khích nộp đơn và đại diện cho cộng đồng của họ!" />
+    <TextStringDefinition InstanceID="0x146EFCB1" TextString="Học bổng Thể thao &amp; Thể thao Điện tử" />
+    <TextStringDefinition InstanceID="0xCA9EE54B" TextString="Có một vài học bổng yêu cầu Sim tham gia hoạt động ngoại khóa như một phần của yêu cầu. Một học bổng Thể thao yêu cầu Sim phải là Cầu thủ Đội bóng đá, trong khi Học bổng Thể thao Điện tử yêu cầu Sim phải là Đối thủ Thể thao Điện tử. Một Sim không thể được chấp nhận cả hai học bổng này cùng một lúc." />
+    <TextStringDefinition InstanceID="0x8EB4BEB2" TextString="Học bổng Nghề nghiệp" />
+    <TextStringDefinition InstanceID="0x527DDF70" TextString="Các trường đại học muốn khuyến khích những Sim trẻ hơn có thể đã bắt đầu thử sức trong thị trường việc làm. Các học bổng này dành cho Sim thanh thiếu niên và thanh niên đã đạt được một số thành tích trong sự nghiệp, giúp chi trả cho giáo dục đại học có thể thúc đẩy họ trong sự nghiệp mà họ chọn trong tương lai." />
+    <TextStringDefinition InstanceID="0xB7E44067" TextString="Học bổng Kỹ năng" />
+    <TextStringDefinition InstanceID="0x1E4DE1FD" TextString="Những Sim đã phát triển nhiều kỹ năng thực tế đủ điều kiện nộp đơn cho nhiều học bổng dựa trên kỹ năng. Những giờ đồng hồ dành để luyện nấu ăn, câu cá, khéo léo và nhiều kỹ năng khác có thể biến thành quỹ học bổng! Tuy nhiên, các học bổng này nhắm đến học sinh trẻ hơn và do đó không có sẵn cho Sim người lớn hoặc người cao tuổi." />
+    <TextStringDefinition InstanceID="0xC64AFC90" TextString="Học bổng Dựa trên Nhu cầu" />
+    <TextStringDefinition InstanceID="0xFA81D042" TextString="Mỗi Sim đều xứng đáng được giáo dục đại học, và các học bổng Giáo dục Cho Tất cả và Bàn tay Giúp đỡ dựa trên nhu cầu được thiết kế để trao cơ hội cho những Sim từ hộ gia đình có ít hơn. Khuyến khích những Sim có ít tiết kiệm và tài sản nộp đơn!" />
+    <TextStringDefinition InstanceID="0x48380745" TextString="Học bổng Ưu tú" />
+    <TextStringDefinition InstanceID="0x25DC5207" TextString="Những Sim đã được chấp nhận vào các chương trình bằng cấp ưu tú sẽ tự động nhận được học bổng, với số tiền dựa trên số lượng bằng cấp ưu tú họ đã đậu. Làm việc trên điểm số và kỹ năng của Sim trước khi nộp đơn có thể dẫn đến nhiều lần chấp nhận bằng cấp hơn và, do đó, nhiều tiền học bổng hơn!" />
+    <TextStringDefinition InstanceID="0xBA2BC0E5" TextString="{0.SimFirstName} có cơ hội tốt nhất để kiếm được các học bổng này:\n\n{1.String}" />
+    <TextStringDefinition InstanceID="0x1D8C57C2" TextString="Giá trị Học bổng: " />

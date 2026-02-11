@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x8569C3F1" TextString="Phân hoặc Chỉnh sửa Trang phục của Chủ nhà" />
+    <TextStringDefinition InstanceID="0x899BE1B2" TextString="Chủ nhà" />
+    <TextStringDefinition InstanceID="0x9D0E982F" TextString="Thiết kế Đồng phục Nam trong Tạo Sim" />
+    <TextStringDefinition InstanceID="0x8B6E1980" TextString="Thiết kế Đồng phục Nữ trong Tạo Sim" />
+    <TextStringDefinition InstanceID="0x7004339F" TextString="Sử dụng Tùy chỉnh:" />
+    <TextStringDefinition InstanceID="0x746D7BD4" TextString="Bạn có chắc muốn chuyển đến Tạo Sim không?" />
+    <TextStringDefinition InstanceID="0xAA68EFEB" TextString="Phân hoặc Chỉnh sửa Trang phục của Đầu bếp" />
+    <TextStringDefinition InstanceID="0xDE9736B0" TextString="Đầu bếp" />
+    <TextStringDefinition InstanceID="0xE0CB8588" TextString="Chọn quy định trang phục cho thực khách dựa trên phong cách và mức giá của nhà hàng." />
+    <TextStringDefinition InstanceID="0x73113407" TextString="Trang phục Khách hàng" />
+    <TextStringDefinition InstanceID="0x6C5AF5B6" TextString="Phân Đồng phục Nam..." />
+    <TextStringDefinition InstanceID="0x27BBA0ED" TextString="Phân Đồng phục Nữ..." />
+    <TextStringDefinition InstanceID="0x770000CD" TextString="Chỉ dành cho Tầng Trên cùng." />
+    <TextStringDefinition InstanceID="0xADD7DFC3" TextString="Chỉ dành cho Tầng Thứ ba." />
+    <TextStringDefinition InstanceID="0x026F9DAE" TextString="Chỉ dành cho Tầng Thứ hai." />
+    <TextStringDefinition InstanceID="0xBAF4888D" TextString="Chỉ dành cho Tầng Mặt đất." />
+    <TextStringDefinition InstanceID="0x18219662" TextString="Chỉ dành cho Tầng Thứ tư." />
+    <TextStringDefinition InstanceID="0xCE9A0185" TextString="Chỉ dành cho Tầng Dưới cùng." />
+    <TextStringDefinition InstanceID="0xDA79ABE1" TextString="Chỉ dành cho Tầng hầm Thứ tư." />
+    <TextStringDefinition InstanceID="0xDA79ABE6" TextString="Chỉ dành cho Tầng hầm Thứ ba." />
+    <TextStringDefinition InstanceID="0xDA79ABE7" TextString="Chỉ dành cho Tầng hầm Thứ hai." />
+    <TextStringDefinition InstanceID="0xDA79ABE4" TextString="Chỉ dành cho Tầng hầm Thứ nhất." />
+    <TextStringDefinition InstanceID="0x66414FDC" TextString="Căn hộ Chính" />
+    <TextStringDefinition InstanceID="0xB2B30365" TextString="Chủ sở hữu tài sản hiện đang sống trong căn hộ này." />
+    <TextStringDefinition InstanceID="0xACE8ABE2" TextString="Đây sẽ là căn hộ mà hộ gia đình của bạn sống." />
+    <TextStringDefinition InstanceID="0xE4A5A180" TextString="Giá trị Căn hộ:" />
+    <TextStringDefinition InstanceID="0x6ACEC936" TextString="Kích thước Căn hộ:" />
+    <TextStringDefinition InstanceID="0x86BF4C87" TextString="Đánh dấu đây là căn hộ chính của hộ gia đình hiện tại" />
+    <TextStringDefinition InstanceID="0x8E70C3F5" TextString="Căn hộ Chính" />
+    <TextStringDefinition InstanceID="0xB576F648" TextString="Đây là Căn hộ Chính của hộ gia đình hiện tại." />
+    <TextStringDefinition InstanceID="0xCEB54579" TextString="Căn hộ này đã được chiếm bởi một hộ gia đình khác." />
+    <TextStringDefinition InstanceID="0x9F8E08F4" TextString="Căn hộ Chính" />
+    <TextStringDefinition InstanceID="0x27A9AFF0" TextString="Hiện Căn hộ" />
+    <TextStringDefinition InstanceID="0x5E0744BB" TextString="Ẩn Căn hộ" />
+    <TextStringDefinition InstanceID="0xAAD0FA50" TextString="Sim của bạn hiện đang ở trong căn hộ này" />
+    <TextStringDefinition InstanceID="0x748B314E" TextString="Căn hộ này hiện đang được thuê bởi người thuê. Hộ gia đình người thuê phải được di chuyển để hiện hoặc chỉnh sửa căn hộ." />
+    <TextStringDefinition InstanceID="0x189EC577" TextString="Căn hộ này hiện đang được chiếm bởi Chủ sở hữu tài sản. Chủ sở hữu tài sản phải được di chuyển ra trước khi căn hộ này có thể được hiện." />
+    <TextStringDefinition InstanceID="0x33314274" TextString="Thông tin Căn hộ" />
+    <TextStringDefinition InstanceID="0x69CCD4AC" TextString="Xóa Căn hộ" />
+    <TextStringDefinition InstanceID="0x2B82BA6D" TextString="Vui lòng Evict Hộ gia đình trước khi xóa Căn hộ này." />
+    <TextStringDefinition InstanceID="0xF6367299" TextString="Bạn phải có ít nhất một căn hộ trên lô đất này" />
+    <TextStringDefinition InstanceID="0x1113B562" TextString="Bạn không thể xóa Căn hộ Chính đã được chỉ định." />
+    <TextStringDefinition InstanceID="0xD5E5A5F5" TextString="Bạn không thể xóa căn hộ mà Sim của bạn đang thăm." />
+    <TextStringDefinition InstanceID="0x5758F40A" TextString="Xóa Căn hộ?" />
+    <TextStringDefinition InstanceID="0x27614B66" TextString="Bạn có chắc muốn xóa {0.String}?" />
+    <TextStringDefinition InstanceID="0x3BFD2E69" TextString="Phân Tất cả Phòng cho Căn hộ này" />
+    <TextStringDefinition InstanceID="0x6C7E87D7" TextString="Cấu hình Căn hộ" />
+    <TextStringDefinition InstanceID="0x0487FBAF" TextString="Đặc điểm và Thử thách của Căn hộ" />
+    <TextStringDefinition InstanceID="0xBFDE80F1" TextString="Tên Căn hộ" />
+    <TextStringDefinition InstanceID="0xB6692096" TextString="Thông tin Căn hộ" />

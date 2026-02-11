@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xB12296E6" TextString="Dựa trên Sở thích và Sở ghét của họ, những Sim này có &lt;b&gt;khả năng tương tác xã hội kém&lt;/b&gt;. Mức độ thân thiết ban đầu sẽ không cao, nhưng chắc chắn có thể tồi tệ hơn. Mặc dù xây dựng tình bạn sẽ là một thử thách cho họ, điều đó không có nghĩa là không đáng để thử!" />
+    <TextStringDefinition InstanceID="0x17172B28" TextString="Khả năng tương tác Tồi tệ" />
+    <TextStringDefinition InstanceID="0x8FD6C610" TextString="Ôi không! Dựa trên Sở thích và Sở ghét của họ, những Sim này có &lt;b&gt;khả năng tương tác xã hội tồi tệ&lt;/b&gt;. Để phát triển mối quan hệ này, cả hai Sim sẽ cần nỗ lực nhiều hơn bình thường khi họ tìm cách vượt qua những khác biệt nhiều." />
+    <TextStringDefinition InstanceID="0x5C6D27D4" TextString="Mức độ thu hút Không xác định" />
+    <TextStringDefinition InstanceID="0xC8D0BE84" TextString="Cần thêm thông tin để biết Sim này cảm thấy thế nào. Hãy tìm hiểu họ tốt hơn, và bạn có thể hỏi." />
+    <TextStringDefinition InstanceID="0xBEB5BAF8" TextString="{0.SimFirstName} đang chạy trốn!\n\n{M0.He}{F0.She} cuối cùng sẽ tìm đường về nhà, nhưng đăng thông báo qua máy tính hoặc điện thoại có thể giúp tìm thấy {0.SimPronounObjective} sớm hơn." />
+    <TextStringDefinition InstanceID="0x350BBD5A" TextString="{0.SimFirstName} đã chạy trốn và không thể gọi ngay bây giờ." />
+    <TextStringDefinition InstanceID="0x39EE3A9F" TextString="Tím" />
+    <TextStringDefinition InstanceID="0x2EE2538A" TextString="Tím thanh" />
+    <TextStringDefinition InstanceID="0xDC2E5061" TextString="Đỏ thẫm" />
+    <TextStringDefinition InstanceID="0x433C48AC" TextString="Đỏ" />
+    <TextStringDefinition InstanceID="0xD5D912F3" TextString="Trắng ấm hơn" />
+    <TextStringDefinition InstanceID="0x7CDF287E" TextString="Trắng ấm" />
+    <TextStringDefinition InstanceID="0x6577E3B5" TextString="Trắng trung tính" />
+    <TextStringDefinition InstanceID="0x452135C0" TextString="Trắng lạnh" />
+    <TextStringDefinition InstanceID="0x7C98EBEE" TextString="Đỏ cam" />
+    <TextStringDefinition InstanceID="0x749A3B63" TextString="Cam" />
+    <TextStringDefinition InstanceID="0x43956F9C" TextString="Vàng cam" />
+    <TextStringDefinition InstanceID="0x2E3DC351" TextString="Vàng" />
+    <TextStringDefinition InstanceID="0x15741BD2" TextString="Vàng lục" />
+    <TextStringDefinition InstanceID="0x2556E787" TextString="Xanh lá" />
+    <TextStringDefinition InstanceID="0x4D0A59B0" TextString="Xanh ngọc" />
+    <TextStringDefinition InstanceID="0x1F6C8665" TextString="Xanh dương" />
+    <TextStringDefinition InstanceID="0x1D6DC3D7" TextString="Trắng lạnh hơn" />
+    <TextStringDefinition InstanceID="0x8C1FF39E" TextString="Vàng kim" />
+    <TextStringDefinition InstanceID="0x64434029" TextString="Tất cả các mùa" />
+    <TextStringDefinition InstanceID="0xB92C6828" TextString="&lt;font color='#AE3CDE'&gt;Được yểm bùa ({0.TimespanShortCondensed})&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xCCE3719C" TextString="Bị bệnh {0.String}" />
+    <TextStringDefinition InstanceID="0x12DD19DB" TextString="Việc sử dụng tiện ích điện bị vô hiệu hóa" />
+    <TextStringDefinition InstanceID="0xF7B887D4" TextString="Việc sử dụng tiện ích nước bị vô hiệu hóa" />
+    <TextStringDefinition InstanceID="0x69037210" TextString="&lt;font color='#ec262e'&gt;Mục này không thể bán hoặc xóa.&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x89A4A972" TextString="Vị trí ban đầu không nằm trên lô đất này." />
+    <TextStringDefinition InstanceID="0xDB292C9E" TextString="Vị trí ban đầu không thể di chuyển đến." />
+    <TextStringDefinition InstanceID="0x581D4C93" TextString="Được lấy từ: {0.String}" />
+    <TextStringDefinition InstanceID="0x17B2C651" TextString="Được lấy từ hộ gia đình {0.String}" />
+    <TextStringDefinition InstanceID="0x16AE8D41" TextString="Không có người mua" />
+    <TextStringDefinition InstanceID="0x1CFAB532" TextString="Giá bán: Chưa có đề nghị \nThời gian hết hạn: {1.DayOfWeekLong} \nNgười mua: Chưa có người mua" />
+    <TextStringDefinition InstanceID="0xD00EB04F" TextString="Giá bán: {0.Money} \nNgười mua: {2.String} " />
+    <TextStringDefinition InstanceID="0x21D75842" TextString="Không có người mua" />
+    <TextStringDefinition InstanceID="0x956FD3D6" TextString="Độ hiếm" />
+    <TextStringDefinition InstanceID="0xFB6F4F01" TextString="Độ tươi" />
+    <TextStringDefinition InstanceID="0xA28EFA0C" TextString="Chất lượng trồng trọt" />
+    <TextStringDefinition InstanceID="0x9B462BF7" TextString="Chất lượng chế tác" />
+    <TextStringDefinition InstanceID="0xC5B0673E" TextString="Thời trang" />
+    <TextStringDefinition InstanceID="0x6E19D0EC" TextString="Đã bán" />
+    <TextStringDefinition InstanceID="0xAB595985" TextString="Đã niêm yết" />
+    <TextStringDefinition InstanceID="0x1E646B06" TextString="Có sẵn để niêm yết" />
+    <TextStringDefinition InstanceID="0xE4A2B587" TextString="Do Sim chế tác" />
+    <TextStringDefinition InstanceID="0xA52C0339" TextString="Plopsy" />
+    <TextStringDefinition InstanceID="0x4B5C66A9" TextString="Đã bán" />

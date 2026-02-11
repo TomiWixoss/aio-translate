@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x15469364" TextString="Một Sim trưởng thành chuyển sang tuổi già" />
+    <TextStringDefinition InstanceID="0x85A77D5C" TextString="Có rất nhiều thứ hữu ích để mua trong Cửa hàng Phần thưởng! Mở Cửa hàng Phần thưởng trong Bảng Nguyện vọng và mua một phần thưởng bằng Điểm thỏa mãn.\n\nNhấp chuột trái vào mục tiêu này để biết thêm thông tin" />
+    <TextStringDefinition InstanceID="0x624F39BC" TextString="Tiêu xài Điểm thỏa mãn" />
+    <TextStringDefinition InstanceID="0xB71AE95B" TextString="Nhấp vào biểu tượng Nguyện vọng ở góc dưới bên phải hoặc nhấn 'G' để mở Bảng Nguyện vọng.\n\nNhấp chuột trái vào mục tiêu này để biết thêm thông tin" />
+    <TextStringDefinition InstanceID="0xEA1DB769" TextString="Mở Bảng Nguyện vọng" />
+    <TextStringDefinition InstanceID="0x38B53E01" TextString="Khao khát là một cách tuyệt vời để kiếm Điểm thỏa mãn!\n\nBạn có thể xem Khao khát ở góc dưới bên trái phía trên đầu Sim. Di chuột qua bong bóng để xem chi tiết!\n\nNếu bạn không thấy Khao khát nào, hãy mở Tùy chọn Trò chơi và đảm bảo tùy chọn Hiển thị Khao khát &amp; Nỗi sợ được bật trong phần Gameplay.\n\nNhấp chuột trái vào mục tiêu này để biết thêm thông tin" />
+    <TextStringDefinition InstanceID="0xEA5B130F" TextString="Hoàn thành một Khao khát" />
+    <TextStringDefinition InstanceID="0x66241AF0" TextString="Nhiệm vụ nguyện vọng có thể được xem trong Bảng Nguyện vọng. Bạn luôn có thể thay đổi Nguyện vọng nếu muốn.\n\nHoàn thành toàn bộ một Nguyện vọng sẽ trao cho Sim của bạn một Đặc điểm mới!\n\nNhấp chuột trái vào mục tiêu này để biết thêm thông tin" />
+    <TextStringDefinition InstanceID="0x624BB1D0" TextString="Hoàn thành một nhiệm vụ trong bất kỳ Nguyện vọng nào" />
+    <TextStringDefinition InstanceID="0xECC59B2A" TextString="Sim có thể kiếm được Simoleon từ sự nghiệp, bán những thứ họ làm ra, và các tương tác kỹ năng khác nhau.\n\nNhấp chuột trái vào mục tiêu này để biết thêm thông tin" />
+    <TextStringDefinition InstanceID="0xA15A375A" TextString="Pizza tươi có thể được giao tận tay bạn!\n\nĐặt Pizza bằng cách mở Điện thoại, sau đó chọn biểu tượng Nhà và chọn Đặt giao hàng.\n\nNhấp chuột trái vào mục tiêu này để biết thêm thông tin" />
+    <TextStringDefinition InstanceID="0x4E18B782" TextString="Đặt một Pizza" />
+    <TextStringDefinition InstanceID="0x02741D40" TextString="Sim có thể học Kỹ năng Nhiếp ảnh ngay từ Điện thoại của họ!\n\nNhấp vào Chụp ảnh từ phần Máy ảnh trên Điện thoại của bạn.\n\nNhấp chuột trái vào mục tiêu này để biết thêm thông tin" />
+    <TextStringDefinition InstanceID="0x86E2AB28" TextString="Chụp một bức ảnh bằng Điện thoại" />
+    <TextStringDefinition InstanceID="0x5AF9A48F" TextString="Bạn có thể mời những Sim bạn biết đến chơi nếu họ không bận! Chọn Mời đến Lô hiện tại từ ứng dụng Xã hội trên Điện thoại.\n\nNhấp chuột trái vào mục tiêu này để biết thêm thông tin" />
+    <TextStringDefinition InstanceID="0xF8AF8425" TextString="Mời một Sim đến chơi" />
+    <TextStringDefinition InstanceID="0xF35C2C1F" TextString="Có rất nhiều việc có thể làm trên Điện thoại! Trò chuyện với một Sim bằng cách chọn Xã hội hoặc chọn Giải trí để Chơi một trò chơi.\n\nNhấp chuột trái vào mục tiêu này để biết thêm thông tin" />
+    <TextStringDefinition InstanceID="0x861CC575" TextString="Trò chuyện với một Sim hoặc Chơi một trò chơi" />
+    <TextStringDefinition InstanceID="0x64344B4A" TextString="Khi cần phải đi, thì phải đi! Sử dụng Toilet để giúp Sim của bạn thư giãn.\n\nNhấp chuột trái vào mục tiêu này để biết thêm thông tin" />
+    <TextStringDefinition InstanceID="0xB0127EF2" TextString="Sử dụng Toilet" />
+    <TextStringDefinition InstanceID="0xD05A507B" TextString="Sim của bạn có mùi hôi? Thỏa mãn Nhu cầu Vệ sinh của họ bằng cách Tắm hoặc Tắm rửa bằng cách tương tác với Vòi sen hoặc Bồn tắm.\n\nNhấp chuột trái vào mục tiêu này để biết thêm thông tin" />
+    <TextStringDefinition InstanceID="0xBAB4ED09" TextString="Tắm hoặc Tắm rửa" />
+    <TextStringDefinition InstanceID="0x86B110D2" TextString="Không có gì như một giấc ngủ trưa để giúp một Sim cảm thấy sảng khoái! Ngủ trưa trên ghế dài hoặc giường.\n\nNhấp chuột trái vào mục tiêu này để biết thêm thông tin" />
+    <TextStringDefinition InstanceID="0xA5B0A42A" TextString="Ngủ trưa" />
+    <TextStringDefinition InstanceID="0x4879BEF9" TextString="Không có gì như một chút nghỉ ngơi để giúp một Sim cảm thấy sảng khoái! Ngủ trưa trên ghế dài hoặc Ngủ trên giường.\n\nNhấp chuột trái vào mục tiêu này để biết thêm thông tin." />
+    <TextStringDefinition InstanceID="0x0DF930D7" TextString="Ngủ trưa hoặc Ngủ trên giường" />
+    <TextStringDefinition InstanceID="0x37BE0BE1" TextString="Sim đói sẽ trở nên cáu kỉnh! Nấu một bữa ăn hoặc Ăn nhanh bằng cách chọn Tủ lạnh.\n\nNhấp chuột trái vào mục tiêu này để biết thêm thông tin" />
+    <TextStringDefinition InstanceID="0x0A221AEF" TextString="Nấu một bữa ăn hoặc Ăn nhanh" />
+    <TextStringDefinition InstanceID="0x9CDE6CC0" TextString="Luôn có thể học được điều gì đó từ một cuốn sách... hoặc TV! Chọn một Tủ sách để Đọc sách hoặc Chọn TV để xem TV.\n\nNhấp chuột trái vào mục tiêu này để biết thêm thông tin" />
+    <TextStringDefinition InstanceID="0xD28069A8" TextString="Đọc sách hoặc xem TV" />
+    <TextStringDefinition InstanceID="0xFF426EA4" TextString="Bảng Sự nghiệp rất hữu ích để lấy thông tin về Sự nghiệp của Sim.\n\nNhấp vào biểu tượng Sự nghiệp ở góc dưới bên phải hoặc nhấn 'J' để mở Bảng Sự nghiệp.\n\nNhấp chuột trái vào mục tiêu này để biết thêm thông tin" />
+    <TextStringDefinition InstanceID="0x5B9F3214" TextString="Mở Bảng Sự nghiệp" />
+    <TextStringDefinition InstanceID="0x6EEE922F" TextString="(Mục tiêu 6 trong 6)\n\nSử dụng Điện thoại để chọn Nghỉ hưu trong phần Kinh doanh để cho Sim già của bạn nghỉ hưu khỏi sự nghiệp.\n\nPhần thưởng: 500 Simoleon" />
+    <TextStringDefinition InstanceID="0x842A2D45" TextString="Cho một Sim già nghỉ hưu khỏi sự nghiệp" />
+    <TextStringDefinition InstanceID="0xD658B406" TextString="Thay tã cho {2.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xE2C2D8D3" TextString="Nhấp vào em bé hoặc nôi của Sim để tìm tương tác này" />
+    <TextStringDefinition InstanceID="0x24685A47" TextString="Chọn Vẽ kế hoạch trên Bảng hoạt động.\n\nNếu bạn cần một Bảng hoạt động, nó có thể được tìm thấy trong Chế độ Xây dựng dưới mục Trẻ em. Sim lớn tuổi có thể hoàn thành mục tiêu này bằng cách sử dụng Giá vẽ." />
+    <TextStringDefinition InstanceID="0x4496FAAD" TextString="Vẽ kế hoạch" />
+    <TextStringDefinition InstanceID="0xEE847BCA" TextString="Đồ ngọt ngào! Tạo ra phép thuật kẹo ngon của riêng bạn.\n\nChọn Máy chế tạo Kẹo ngon Kate &amp; Berry 3000 và chế tạo một số kẹo ngon!\n\nMục tiêu tùy chọn này yêu cầu &lt;i&gt;Gói mở rộng Kinh doanh &amp; Sở thích&lt;/i&gt; để hoàn thành." />
+    <TextStringDefinition InstanceID="0x83944072" TextString="Chế tạo Kẹo" />
+    <TextStringDefinition InstanceID="0x5143609C" TextString="Chọn một Giá vẽ và tạo một bức tranh mới!\n\nKhông có Giá vẽ? Tìm kiếm Giá vẽ trong Chế độ Xây dựng\n\nGợi ý: Giờ đã có một cái trong kho đồ của bạn!" />
+    <TextStringDefinition InstanceID="0xC8C1B0FC" TextString="Vẽ một bức tranh" />
+    <TextStringDefinition InstanceID="0x1AE34A8E" TextString="Nghe nói Envoy đang tẩu thoát bằng phà và có thể được tìm thấy gần hồ tại Câu lạc bộ đêm Blue Velvet!" />
+    <TextStringDefinition InstanceID="0x9834AF4E" TextString="Bất ngờ Sứ giả Hoàng gia" />
+    <TextStringDefinition InstanceID="0x3418E126" TextString="Khi {0.SimFirstName} gọi cho Envoy về mã số, họ cười khúc khích và nói, &quot;Ồ, mã số đó? Tôi đã dùng nó ở một chiếc ghế rồi. Bạn đến hơi muộn!&quot;" />
+    <TextStringDefinition InstanceID="0xA884B837" TextString="Cuộc gọi của Envoy" />
+    <TextStringDefinition InstanceID="0x3D1831B5" TextString="Chào mừng! Tôi là một sứ giả hoàng gia đại diện cho các vương quốc cao quý của Darong, Capp và gia tộc Thebe. Tôi đã nhận được thông tin về hoạt động đáng ngờ liên quan đến một số kho báu cổ đại được giữ bên ngoài các vương quốc. Tôi đã đến để đảm bảo an toàn và bảo mật cho những vật này. Tôi hy vọng thực hiện điều này nhanh chóng nhất có thể. Tôi không muốn làm phiền bất kỳ công tước nào về vấn đề này. Họ chỉ quá bận, như những người quý tộc thường hay bận. Bạn hiểu chứ, phải không? \nTôi cần một người đáng tin cậy để giúp tôi hoàn thành nhiệm vụ này và bạn đã lọt vào mắt xanh của tôi. Bạn có giúp tôi với kế hoạch chủ - ý là, nhiệm vụ hoàng gia không? Tôi sẽ đảm bảo việc này đáng giá sự giúp đỡ của bạn." />
+    <TextStringDefinition InstanceID="0x672EDDDA" TextString="Mọi thứ đang thực sự mang lại không khí của gia tộc Capp, phải không, đồ quỷ cay?" />
+    <TextStringDefinition InstanceID="0x5763A7D0" TextString="Envoy nên ở Thư viện Willow Creek. Tìm họ, và bất ngờ họ với một câu hỏi!\n\nĐể di chuyển đến thư viện, mở Menu Điện thoại và chọn Di chuyển.\n\nSau đó, tìm Thư viện Lưu trữ Willow Creek ở Willow Creek.\n\nGợi ý: Nếu Envoy không ở quanh đây, bạn có thể dễ dàng gọi họ đến lô hiện tại bằng cách sử dụng tương tác 'Gọi Envoy đến Lô hiện tại'. Không thấy tùy chọn đó? Điều đó có nghĩa là họ đang ở gần! Chỉ cần chọn mục tiêu để định vị Envoy trên lô." />
+    <TextStringDefinition InstanceID="0x0D5B6068" TextString="Hỏi Envoy về Thư viện" />

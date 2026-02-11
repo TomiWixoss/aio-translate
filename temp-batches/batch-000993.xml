@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x8E4C106B" TextString="Nhìn {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x2ED9456C" TextString="Ba hoa với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xA85E934B" TextString="{0.SimFirstName} rất đói. Hãy chắc chắn cho {M0.him}{F0.her} ăn trước khi {M0.he}{F0.she} bị bắt đi!" />
+    <TextStringDefinition InstanceID="0x1FCB82F9" TextString="{0.SimFirstName} rất đói. Hãy cho {M0.him}{F0.her} ăn sớm. Bơi khi đói có thể khiến Sim chết đuối." />
+    <TextStringDefinition InstanceID="0x029F06A0" TextString="Ôm" />
+    <TextStringDefinition InstanceID="0xF3349557" TextString="Bỏ trốn ngay lập tức với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xFEB2653F" TextString="Ôm lấy Số phận và Bỏ trốn" />
+    <TextStringDefinition InstanceID="0xB2E95218" TextString="Thách thức Số phận và Bỏ trốn" />
+    <TextStringDefinition InstanceID="0x7AD46134" TextString="Kết hôn với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xACA81E4D" TextString="Ôm lấy Số phận và Hôn" />
+    <TextStringDefinition InstanceID="0xF84000FE" TextString="Thách thức Số phận và Hôn" />
+    <TextStringDefinition InstanceID="0x38F2AE54" TextString="{0.SimFirstName} còn quá trẻ để kết hôn." />
+    <TextStringDefinition InstanceID="0x453E4931" TextString="{1.SimFirstName} còn quá trẻ để kết hôn!" />
+    <TextStringDefinition InstanceID="0x58555B0A" TextString="Kết hôn ngay tại đây, ngay bây giờ." />
+    <TextStringDefinition InstanceID="0x0A456669" TextString="Bạn có thể để các Sim đã kết hôn chuyển đến sống cùng nhau bằng cách sử dụng nút Split and Merge trong phần Household Management của Edit Neighborhood." />
+    <TextStringDefinition InstanceID="0x3D94DAA4" TextString="Câu chuyện nguy hiểm" />
+    <TextStringDefinition InstanceID="0x64503C2C" TextString="Trong khi nghiên cứu một câu chuyện mới, {0.SimFirstName} có cảm giác rõ rệt là {M0.he}{F0.she} đang bị theo dõi. Dù chết vì một câu chuyện sẽ tốt cho di sản của {M0.his}{F0.her}, {0.SimFirstName} thực sự không muốn vậy. Mặc dù {M0.he}{F0.she} cảm thấy cuộc sống của {M0.him}{F0.her} đang gặp nguy hiểm, {0.SimFirstName} có nên tiếp tục đi sâu, hay nên dừng lại?" />
+    <TextStringDefinition InstanceID="0xF18ED284" TextString="Phát hiện sốc" />
+    <TextStringDefinition InstanceID="0x278DB00C" TextString="Trong khi nghiên cứu cuốn sách tiếp theo của {M0.him}{F0.her}, {0.SimFirstName} phát hiện ra điều gì đó về một nhân vật lịch sử được yêu mến sẽ khiến cả nước sốc. Nếu {M0.he}{F0.she} xuất bản nó, {M0.he}{F0.she} sẽ trở thành huyền thoại, nhưng nó thay đổi mọi thứ mà mọi người nghĩ họ biết về lịch sử. {M0.he}{F0.she} có nên xuất bản nó, hay chôn vùi nó?" />
+    <TextStringDefinition InstanceID="0x10E1CE67" TextString="Chương trình tin tức" />
+    <TextStringDefinition InstanceID="0x1CB70A7F" TextString="Trong khi cố gắng quảng bá cuốn sách mới nhất của {M0.him}{F0.her}, nhà xuất bản của {0.SimFirstName} muốn {0.SimPronounObjective} xuất hiện trên một chương trình tin tức với một người dẫn chương trình mà {M0.he}{F0.she} không thể chịu đựng được. {M0.He}{F0.She} có thể hoặc cười và chịu đựng trên chương trình vì lợi bán hàng, hoặc {M0.he}{F0.she} có thể từ chối thẳng thừng." />
+    <TextStringDefinition InstanceID="0xC1B41F2F" TextString="Vị trí công việc trống" />
+    <TextStringDefinition InstanceID="0xB8ED42B7" TextString="Có một vị trí trống cho một nhà bình luận ý kiến trên trang của {0.SimFirstName}. Số độc giả đang giảm, vì vậy {M0.he}{F0.she} cần đảm bảo thuê người sẽ mang lại số lượng tăng. {M0.he}{F0.she} có nên thuê một nhà văn trẻ nóng bỏng có quan điểm chính trị lớn, hay thuê một người ôn hòa có kinh nghiệm?" />
+    <TextStringDefinition InstanceID="0x2C9B9ED2" TextString="Một Mong ước Nồng nhiệt" />
+    <TextStringDefinition InstanceID="0x916EFF5A" TextString="Mong ước nồng nhiệt nhất của một cô bé bệnh là được gặp {0.SimFirstName}, tác giả yêu thích của cô... và tìm hiểu {0.SimFirstName} đã lên kế hoạch gì cho cuốn sách tiếp theo của {M0.him}{F0.her}. {0.SimFirstName} có nên chia sẻ bí mật của {M0.him}{F0.her}, hay giữ mồm giữ miệng?" />
+    <TextStringDefinition InstanceID="0x1D2EC5D4" TextString="Nguồn tin ẩn danh" />
+    <TextStringDefinition InstanceID="0x5EBEBF5C" TextString="Một trong những câu chuyện của {0.SimFirstName} thu hút sự chú ý của chính phủ, người muốn biết danh tính của nguồn tin ẩn danh của {M0.him}{F0.her}. Họ nghe có vẻ nghiêm túc. {0.SimFirstName} có thể hoặc tiết lộ nguồn tin, mặc dù {M0.he}{F0.she} đã hứa với họ về tính ẩn danh, hoặc {M0.he}{F0.she} có thể giữ im lặng." />
+    <TextStringDefinition InstanceID="0x5DFD34FD" TextString="Lấy ra khỏi ngữ cảnh" />
+    <TextStringDefinition InstanceID="0xBFCE9045" TextString="Nếu {0.SimFirstName} lấy lời tuyên bố của một nhân vật công chúng ra khỏi ngữ cảnh một chút, {M0.he}{F0.she} sẽ có một cột bài tuyệt vời từ đó, mặc dù {M0.he}{F0.she} biết đó là một sự căng thẳng. {M0.He}{F0.She} có thể hoặc chạy theo nó và hy vọng độc giả của {M0.him}{F0.her} đồng ý với {0.SimPronounObjective}, hoặc chờ đợi và hy vọng một thứ có giá trị tin tức hơn sẽ xuất hiện." />
+    <TextStringDefinition InstanceID="0x6264C116" TextString="Trợ lý Tệ hại" />
+    <TextStringDefinition InstanceID="0xD6805DCE" TextString="Trợ lý cũ tệ hại của {0.SimFirstName} tuyên bố rằng anh ta đã viết một phần lớn của cuốn sách mới nhất của {0.SimFirstName}. Trợ lý đó thậm chí còn không thể đặt cà phê đúng, nhưng {0.SimFirstName} không muốn bé nhỏ. {M0.he}{F0.she} có nên nói sự thật hay nói rằng trợ lý “đã giúp đỡ,” chỉ để tử tế?" />
+    <TextStringDefinition InstanceID="0x8FE4E401" TextString="Một Bản thảo Khủng khiếp" />
+    <TextStringDefinition InstanceID="0x1F0D24D9" TextString="Bản thảo cho tập tiếp theo trong loạt của {0.SimFirstName} sắp đến hạn... và nó không chính xác là tác phẩm tốt nhất của {M0.him}{F0.her}. Thực tế, nó khủng khiếp. Một nhà văn khác đã đề nghị giúp viết lại nó, miễn là {0.SimFirstName} chia sẻ tác quyền tác giả. {M0.He}{F0.She} có thể hoặc chấp nhận sự giúp đỡ, hoặc từ chối và xuất bản cuốn sách chỉ với tên của {M0.him}{F0.her} trên bìa." />
+    <TextStringDefinition InstanceID="0xC4845640" TextString="Cùng một Thứ Cũ" />
+    <TextStringDefinition InstanceID="0x902FB748" TextString="Gần đây, tất cả các câu chuyện của {0.SimFirstName} bắt đầu nghe giống nhau. Người ta nói sự đa dạng là gia vị của cuộc sống, vì vậy có lẽ {M0.he}{F0.she} có thể thử pha trộn một chút. {M0.he}{F0.she} có nên thử mở rộng sang một lĩnh vực chuyên môn mới, hay chỉ tiếp tục làm cùng một thứ?" />
+    <TextStringDefinition InstanceID="0x8E5BC45C" TextString="Sự ủng hộ Chính trị" />
+    <TextStringDefinition InstanceID="0x06BAF214" TextString="Tờ báo nên ủng hộ ai cho chức vụ chính trị? Đó là quyết định của {0.SimFirstName}-cô ấy có thể hoặc chọn nhà lý tưởng phổ biến không có cơ hội thắng, hoặc {M0.he}{F0.she} có thể chọn ứng cử viên đương nhiệm tham dự nhiều buổi gây quỹ và tiệc cocktail hơn là các cuộc họp với cử tri." />
+    <TextStringDefinition InstanceID="0xACDF998D" TextString="Công nghệ Mới" />
+    <TextStringDefinition InstanceID="0x8452F095" TextString="Nhà xuất bản của {0.SimFirstName} yêu cầu {0.SimPronounObjective} phát hành cuốn sách tiếp theo của {M0.him}{F0.her} trong một định dạng điện tử mới-100 ký tự được gửi mỗi giờ trong 22 ngày liên tục. {M0.He}{F0.She} sẽ là tác giả đầu tiên làm điều đó! {M0.he}{F0.she} có nên đón nhận công nghệ mới, hay ở lại với những cái cây chết cũ kỹ?" />
+    <TextStringDefinition InstanceID="0x20C05770" TextString="Mặc dù nó đáng sợ, {M0.he}{F0.she} vẫn lấy được câu chuyện, và nó là một cú đánh lớn. Lần tới {0.SimFirstName} sẽ viết câu chuyện về cách {M0.he}{F0.she} LÀM ĐƯỢC câu chuyện, điều đó chắc chắn sẽ là một cú đánh lớn hơn!" />
+    <TextStringDefinition InstanceID="0x91908C97" TextString="Trợ lý của {0.SimFirstName} đần độn đến mức không thể xếp được một câu... bây giờ {0.SimFirstName} đã nói với cả thế giới, trợ lý có lẽ sẽ không bao giờ được làm việc nữa." />
+    <TextStringDefinition InstanceID="0x7496BB00" TextString="Nguồn tin đã gặp rắc rối pháp lý lớn, vì vậy bây giờ {0.SimFirstName} không thể tìm thấy những người khác sẵn sàng nói chuyện với {M0.him}{F0.her} trên hồ sơ! Hơn nữa, các nhà văn khác đang xấu hổ công khai {M0.him}{F0.her} vì không đứng lên vì tính toàn vẹn báo chí. Đó vẫn còn là một điều à?" />
+    <TextStringDefinition InstanceID="0x112C7631" TextString="Một điều gì đó sẽ xuất hiện một ngày. Và nơi duy nhất mà một nhà văn không nên bịa đặt là trên {M0.his}{F0.her} CV." />
+    <TextStringDefinition InstanceID="0xB32CB886" TextString="Sự ủng hộ của một tờ báo danh tiếng như vậy đã mang lại sức sống mới cho chiến dịch của nhà lý tưởng-cô ấy có thể thắng sau tất cả! Có lẽ không, thực sự, nhưng vẫn! Hoan hô cho nguyên tắc!" />
+    <TextStringDefinition InstanceID="0x75F01725" TextString="Đứa trẻ rất vui sướng! Cô bé sáng lên khi nghe những câu chuyện của {0.SimFirstName} theo cách mà cô bé chưa từng trong nhiều tuần. Bố mẹ cô bé rất biết ơn vì lòng tốt của {0.SimFirstName}." />
+    <TextStringDefinition InstanceID="0xA5B3B933" TextString="Người dẫn chương trình là một kẻ ngốc, nhưng xuất hiện trên TV sẽ thực sự tăng doanh số-và bây giờ {0.SimFirstName} thậm chí còn nổi tiếng hơn." />
+    <TextStringDefinition InstanceID="0xFBFCD99D" TextString="Này, tất cả chúng ta đều bận. Người hâm mộ hiểu, và ngay cả một cuộc gặp gỡ nhanh với một người nổi tiếng cũng khá thú vị." />
+    <TextStringDefinition InstanceID="0x46381BDD" TextString="Nhà văn kia có một số ý tưởng tuyệt vời và đã làm một công việc xuất sắc viết lại. {0.SimFirstName} chưa bao giờ có thể làm một mình." />
+    <TextStringDefinition InstanceID="0x9456F88A" TextString="Công việc của {M0.him}{F0.her} không phải là bình luận về lịch sử, chỉ cung cấp sự thật. Đất nước bị sốc. Tên của {0.SimFirstName} sẽ sống mãi mãi như một nhà sử học đột phá." />
+    <TextStringDefinition InstanceID="0xCF63898C" TextString="Độc giả yêu thích góc nhìn kỳ quặc của họ về tin tức địa phương. {0.SimFirstName} thậm chí có thể làm cho tòa án đỗ xe trông thú vị!" />

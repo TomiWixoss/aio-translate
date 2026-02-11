@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x84ADB78B" TextString="Điều đầu tiên tôi làm sau một ngày làm việc dài là gì?" />
+    <TextStringDefinition InstanceID="0x70F0A9C6" TextString="Trong thời gian rảnh, tôi thích..." />
+    <TextStringDefinition InstanceID="0xEEB416C1" TextString="Nếu tôi có thể được nhớ đến vì một điều, đó sẽ là gì?" />
+    <TextStringDefinition InstanceID="0xA79210EC" TextString="Tôi làm gì để tự làm mình vui lên?" />
+    <TextStringDefinition InstanceID="0x1E21CFC4" TextString="Tôi được mời đi hẹn hò, phản ứng của tôi là gì?" />
+    <TextStringDefinition InstanceID="0x400FE879" TextString="Tôi làm gì để giải trí?" />
+    <TextStringDefinition InstanceID="0x29A7062F" TextString="Tôi tìm thấy một chiếc bánh mì chưa ăn, nhưng không biết của ai..." />
+    <TextStringDefinition InstanceID="0x2F2A298E" TextString="Tôi phát hiện một sinh vật hiếm!" />
+    <TextStringDefinition InstanceID="0xF86F7889" TextString="Con tôi có buổi biểu diễn ngày mai, tôi chuẩn bị như thế nào?" />
+    <TextStringDefinition InstanceID="0x19B02E14" TextString="Cách tốt nhất để ăn mừng buổi họp mặt gia đình lớn của tôi là gì?" />
+    <TextStringDefinition InstanceID="0x1BA6AFB7" TextString="Tôi vừa mua sắm quần áo về nhà..." />
+    <TextStringDefinition InstanceID="0xF7431CD2" TextString="Tôi thích làm gì ngoài trời?" />
+    <TextStringDefinition InstanceID="0x0D4206DD" TextString="Nhà đầu tư" />
+    <TextStringDefinition InstanceID="0x3227B27F" TextString="Nhà đầu tư" />
+    <TextStringDefinition InstanceID="0x703FF750" TextString="Cần có Simoleons để tạo ra Simoleons. Tối ưu hóa đầu tư của bạn thông qua nghiên cứu cần mẫn và cố gắng biến những đống Simoleons thành những đống lớn hơn nữa! " />
+    <TextStringDefinition InstanceID="0xB32AAD1F" TextString="Quản lý" />
+    <TextStringDefinition InstanceID="0x20BBF901" TextString="Quản lý" />
+    <TextStringDefinition InstanceID="0x826C837E" TextString="Có nên sa thải mọi người và thay thế bằng robot? Có nên thiết kế lại logo công ty để thêm nhiều lạc đà? Đây là những quyết định quan trọng bạn sẽ phải đưa ra nếu chọn theo đuổi con đường quản lý. " />
+    <TextStringDefinition InstanceID="0xD999B532" TextString="Kinh doanh" />
+    <TextStringDefinition InstanceID="0x4271A1A2" TextString="Kinh doanh" />
+    <TextStringDefinition InstanceID="0x109B4E73" TextString="Cộng hưởng! Hiệu quả! Lập kế hoạch! Nếu chỉ nghe những từ bừa bãi trong ngành này thôi đã khiến bạn hào hứng, thì sự nghiệp kinh doanh có thể là sự phù hợp hoàn hảo cho bạn!" />
+    <TextStringDefinition InstanceID="0x0B1CBB3A" TextString="Vận động viên cơ bắp" />
+    <TextStringDefinition InstanceID="0x23EDAEAA" TextString="Vận động viên cơ bắp" />
+    <TextStringDefinition InstanceID="0x0B1C97AB" TextString="Là bậc thầy cơ bắp, bạn sẽ tham gia vào cuộc sống của thể dục, dinh dưỡng và tập luyện tạc. Huấn luyện các Sim đồng nghiệp, khoe khoang thành tích sức mạnh trước người hâm mộ ngưỡng mộ, và tạo hình cơ thể bạn thành hình dáng của một vị thần." />
+    <TextStringDefinition InstanceID="0x1DBA302C" TextString="Vận động viên chuyên nghiệp" />
+    <TextStringDefinition InstanceID="0xC95FB37C" TextString="Vận động viên chuyên nghiệp" />
+    <TextStringDefinition InstanceID="0x2EB16F79" TextString="Bạn có phải là một tác phẩm thể chất với động lực, khát vọng và tài năng bẩm sinh để cạnh tranh với những người xuất sắc nhất? Muốn kiếm sống bằng cách chơi một trò chơi mà bạn đã chơi khi còn nhỏ? Vậy thì sự nghiệp Vận động viên chuyên nghiệp dành cho bạn! Sống theo lối sống đó và giải trí đám đông với khả năng thể thao của bạn." />
+    <TextStringDefinition InstanceID="0xF309E998" TextString="Vận động viên" />
+    <TextStringDefinition InstanceID="0xA172A0B0" TextString="Vận động viên" />
+    <TextStringDefinition InstanceID="0xE1FBB895" TextString="Một vận động viên cần sức mạnh thể chất, tốc độ, sức bền và trí thông minh. Bắt đầu sự nghiệp nơi những người hâm mộ nhiệt tình sẽ hét lên tên bạn, mặc áo đấu của bạn, và nhớ những thành tích của bạn mãi mãi." />
+    <TextStringDefinition InstanceID="0x9D97B526" TextString="Kẻ buôn lậu liên sao" />
+    <TextStringDefinition InstanceID="0xEDF275A4" TextString="Cảnh sát vũ trụ" />
+    <TextStringDefinition InstanceID="0xFFD27F87" TextString="Phi hành gia" />
+    <TextStringDefinition InstanceID="0x944BAA66" TextString=" Đọc sách ({0.String})" />
+    <TextStringDefinition InstanceID="0x10CB78D9" TextString=" Viết bài báo ({0.String})" />
+    <TextStringDefinition InstanceID="0x101C5EC8" TextString=" Viết sách ({0.String})" />
+    <TextStringDefinition InstanceID="0x9A3CC899" TextString=" Lập trình ({0.String})" />
+    <TextStringDefinition InstanceID="0xE9BBE00F" TextString=" Chơi video game ({0.String})" />
+    <TextStringDefinition InstanceID="0xAFAEEA03" TextString="Sau nhiều năm làm việc, rồi cũng đến lúc này. Trở thành nó, trở thành tốt nhất, tham gia vào mọi thứ, với tư cách là Icon O'Class, buổi họp đã bắt đầu và thế giới này sẽ không bao giờ giống như trước." />
+    <TextStringDefinition InstanceID="0x5477E1D8" TextString="Icon O'Class" />
+    <TextStringDefinition InstanceID="0x4EB65E4C" TextString="Ai? Gì? Không phải những cái đó, mà đơn giản là Nó. Người mà người khác tìm kiếm thông tin, cảm hứng và sự kích thích, một It Sim là THE Sim tất cả về...nó." />
+    <TextStringDefinition InstanceID="0xC3817463" TextString="It Sim" />
+    <TextStringDefinition InstanceID="0xB2E99B25" TextString="Trong trường hợp này, tính từ tối cao được sử dụng một cách thận trọng, vì nhiệm vụ giúp đỡ người khác với sự hướng dẫn rõ ràng, súc tích và thấu hiểu không phải là thứ mà một danh hiệu so sánh thông thường có thể đảm nhận." />
+    <TextStringDefinition InstanceID="0xF56B7A02" TextString="Người Tự Giúp Đỡ Tốt Nhất" />
+    <TextStringDefinition InstanceID="0x473DCC86" TextString="Là người nổi bật trong ngành thời trang tiên phong, các nguyên tắc của thời trang, trước hết và luôn luôn, chưa bao giờ phù hợp hơn. Những xu hướng này bắt đầu và kết thúc bằng những sợi chỉ chất lượng." />
+    <TextStringDefinition InstanceID="0x9A45090D" TextString="Hình Mẫu Thời Trang" />
+    <TextStringDefinition InstanceID="0x59AAE89F" TextString="Chìa khóa là phải hiểu sâu sắc các nguyên tắc cơ bản của sự sang trọng để có thể xây dựng hồ sơ xuất sắc cho vô số khách hàng tiềm năng, nhà bảo trợ và những người yêu thời trang đam mê." />
+    <TextStringDefinition InstanceID="0x43A0C894" TextString="Chuyên Gia Sang Trọng" />
+    <TextStringDefinition InstanceID="0xC3E26D35" TextString="Thu Thập Ấn Tượng ({0.String})" />
+    <TextStringDefinition InstanceID="0x4B6F25D5" TextString="Ai là một ai đó? Có phải tất cả thu về bản chất trang phục của họ? Hay khoảng thời gian suy nghĩ của họ? Tất cả những điều đó cuối cùng sẽ phụ thuộc vào bạn khi bạn tưởng tượng lại nhu cầu tái xuất hiện của một người." />

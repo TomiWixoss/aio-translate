@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x8B5A7CB2" TextString="Không có Máy Bán Vé trên lô đất. Nó có thể được mua trong danh mục Thiết Bị trong Chế độ Xây dựng." />
+    <TextStringDefinition InstanceID="0xFA349B7F" TextString="Phí Vào Cửa" />
+    <TextStringDefinition InstanceID="0x17D2056C" TextString="Chỉnh Sửa Cửa Hàng Nhỏ" />
+    <TextStringDefinition InstanceID="0xBE8FEBF3" TextString="Các lô đất được chỉ định không thể thay đổi khi Cửa Hàng Nhỏ đang mở cửa." />
+    <TextStringDefinition InstanceID="0x4D340E81" TextString="Không có lô đất hợp lệ nào.\nThay đổi loại lô đất hiện tại thành loại hợp lệ, hoặc mua một địa điểm qua bảng Cửa Hàng Nhỏ, Điện thoại hoặc Máy tính." />
+    <TextStringDefinition InstanceID="0x91924CC6" TextString="Người Chăm Sóc Ở Lại Cửa Hàng" />
+    <TextStringDefinition InstanceID="0x2D3CB4BA" TextString="Xóa Hoạt Động" />
+    <TextStringDefinition InstanceID="0xEF285A0B" TextString="Xóa Mẫu" />
+    <TextStringDefinition InstanceID="0xE6462604" TextString="Xóa Mẫu..." />
+    <TextStringDefinition InstanceID="0x998528B4" TextString="Bạn có chắc chắn muốn xóa mẫu {0.String} không?" />
+    <TextStringDefinition InstanceID="0x2E8EAD29" TextString="Xóa Tiêu Chí Khách Hàng Mục Tiêu" />
+    <TextStringDefinition InstanceID="0x4F7692B8" TextString="Tên Cửa Hàng Nhỏ" />
+    <TextStringDefinition InstanceID="0x6BECA8ED" TextString="Nhập Mô Tả..." />
+    <TextStringDefinition InstanceID="0x5DC34ADD" TextString="Danh mục này không hỗ trợ bắt buộc." />
+    <TextStringDefinition InstanceID="0x71ED750D" TextString="Làm Tiêu Chí Đã Chọn Trở Thành Bắt Buộc" />
+    <TextStringDefinition InstanceID="0xC3B0D633" TextString="Thêm Tiêu Chí Khách Hàng Mục Tiêu..." />
+    <TextStringDefinition InstanceID="0xA41473C5" TextString="Danh mục này đã hoạt động." />
+    <TextStringDefinition InstanceID="0x90AA0F67" TextString="Cửa Hàng Nhỏ phải có tên hợp lệ." />
+    <TextStringDefinition InstanceID="0xBA8B9B8C" TextString="Cửa Hàng Nhỏ phải được gán cho một lô đất." />
+    <TextStringDefinition InstanceID="0x30A21DBC" TextString="Chọn tùy chọn này sẽ giữ người chăm sóc của Khách Hàng Được Giám Sát ở lại.\n\nBỏ chọn nghĩa là người chăm sóc sẽ đón Khách Hàng Được Giám Sát rồi rời đi." />
+    <TextStringDefinition InstanceID="0x873E1892" TextString="Khách hàng sẽ bị tính phí theo giờ để ở tại cửa hàng của bạn." />
+    <TextStringDefinition InstanceID="0x5DE8CF45" TextString="Theo Giờ" />
+    <TextStringDefinition InstanceID="0xF5FBE939" TextString="Khách hàng sẽ bị tính phí một lần khi vào cửa hàng của bạn." />
+    <TextStringDefinition InstanceID="0x7E48895A" TextString="Một Lần" />
+    <TextStringDefinition InstanceID="0x98047F8B" TextString="Khách hàng sẽ không bị tính phí để vào cửa hàng của bạn." />
+    <TextStringDefinition InstanceID="0x79375150" TextString="Tắt" />
+    <TextStringDefinition InstanceID="0xC18A5FE4" TextString="&lt;font color='#EC262E'&gt;Không có Máy Bán Vé trên lô đất&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xCC4599F7" TextString="{0.Money}/giờ" />
+    <TextStringDefinition InstanceID="0xE91D17BC" TextString="{0.Money}" />
+    <TextStringDefinition InstanceID="0xDC862B18" TextString="{0.String} &lt;font color='{1.String}'&gt;({2.String} Điều Chỉnh)&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xA59094D8" TextString="Được gán cho {0.Number} trên {1.Number} lô đất" />
+    <TextStringDefinition InstanceID="0x9594F198" TextString="Chọn lô đất sở hữu của hộ gia đình bạn để vận hành cửa hàng này.\n\nCác lô đất Địa Điểm Cửa Hàng Nhỏ bổ sung có thể được mua qua Bảng Cửa Hàng Nhỏ, Điện thoại hoặc Máy tính." />
+    <TextStringDefinition InstanceID="0xAB7B6609" TextString="Phân Bổ Lô Đất Cửa Hàng" />
+    <TextStringDefinition InstanceID="0xEE024C83" TextString="Hoạt Động Cửa Hàng" />
+    <TextStringDefinition InstanceID="0x7BF5C937" TextString="Chọn các hoạt động mà khách hàng của Cửa Hàng Nhỏ này sẽ được khuyến khích thực hiện.\n\nThiết lập một bộ sưu tập hoạt động dễ dàng bằng cách sử dụng &lt;b&gt;Mẫu Cửa Hàng&lt;/b&gt;, hoặc chọn &lt;b&gt;Lưu Mẫu&lt;/b&gt; để tạo các mẫu tùy chỉnh mới có thể được sử dụng lại sau này." />
+    <TextStringDefinition InstanceID="0x58BDBC1A" TextString="Xem Bài Học" />
+    <TextStringDefinition InstanceID="0x160A3215" TextString="Kết Thúc Thăm Khám Thú Y Sớm?" />
+    <TextStringDefinition InstanceID="0xCC547A0E" TextString="Bạn có chắc chắn muốn kết thúc sự kiện Thú Y này sớm không? Thú cưng của bạn có thể không nhận được sự chăm sóc cần thiết nếu bạn làm vậy." />
+    <TextStringDefinition InstanceID="0x510BB0CD" TextString="Thăm Khám Thú Y" />
+    <TextStringDefinition InstanceID="0xF0F095A1" TextString="Đã đóng gói xong chưa?" />
+    <TextStringDefinition InstanceID="0xE242E78D" TextString="Hành động này sẽ ngay lập tức chuyển ra khỏi Ký Túc Xá Đại Học." />
+    <TextStringDefinition InstanceID="0x4E8E2A54" TextString="Từ {0.TimeShort} đến {1.TimeShort}" />
+    <TextStringDefinition InstanceID="0xFDD32E11" TextString="&lt;b&gt;Phần Thưởng&lt;/b&gt;\nPhần thưởng đã được trao." />
+    <TextStringDefinition InstanceID="0x018904E9" TextString="Thời gian còn lại: {0.String}" />
+    <TextStringDefinition InstanceID="0x8DE6859A" TextString="Thời gian còn lại: {0.String}\nNhấn nút này để kết thúc Sự Kiện Xã Hội sớm." />
+    <TextStringDefinition InstanceID="0x5BF9CF24" TextString="{0.String} không tham gia Sự Kiện Xã Hội này." />
+    <TextStringDefinition InstanceID="0x910B1611" TextString="Nhấn nút này để kết thúc sớm hoặc hủy." />
+    <TextStringDefinition InstanceID="0xC9E722DF" TextString="&lt;b&gt;Phần Thưởng&lt;/b&gt;\nPhần thưởng sẽ được trao khi hoàn thành Nhiệm Vụ Khám Phá." />
+    <TextStringDefinition InstanceID="0xC9594535" TextString="Phần Thưởng:" />
+    <TextStringDefinition InstanceID="0xD2C5B90E" TextString="Mở '{0.String}'" />

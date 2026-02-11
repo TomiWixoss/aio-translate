@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x56AC8C06" TextString="&lt;b&gt;Nhấp vào Sim của bạn&lt;/b&gt; để điều chỉnh giao diện của họ!\n\nSim của bạn sẽ giống bạn, một người bạn, hay thậm chí là kẻ thù? &lt;b&gt;Nhấp vào các bộ phận khác nhau trên Sim&lt;/b&gt; để điều chỉnh chi tiết nhỏ và trang phục của họ." />
+    <TextStringDefinition InstanceID="0xDBB9A596" TextString="Tên, Giới tính, Đại từ, Tuổi và Nhiều hơn" />
+    <TextStringDefinition InstanceID="0xC48705D1" TextString="Sử dụng các menu này để chọn &lt;b&gt;tên, giới tính, đại từ, tuổi, giọng nói, phong cách đi,&lt;/b&gt; và nhiều hơn nữa của Sim của bạn! Bạn luôn có thể thay đổi những thứ này sau nếu muốn.\n\nBạn có thể &lt;b&gt;di chuột qua&lt;/b&gt; mỗi biểu tượng để tìm hiểu thêm!" />
+    <TextStringDefinition InstanceID="0x2E66C83D" TextString="Thay đổi tên và tính cách của Sim của bạn" />
+    <TextStringDefinition InstanceID="0xAF081908" TextString="Tuyệt vời! Đã đến lúc tạo một Sim! Thật thú vị!\n\nNhấp vào biểu tượng &lt;b&gt;Plumbob&lt;/b&gt; để thay đổi các khía cạnh của &lt;b&gt;tên, danh tính,&lt;/b&gt; và &lt;b&gt;tính cách.&lt;/b&gt; của Sim của bạn." />
+    <TextStringDefinition InstanceID="0x38E39EF4" TextString="Quay lại Chế độ Sống" />
+    <TextStringDefinition InstanceID="0x8969941B" TextString="Bạn có thể quay lại Chế độ Sống bất cứ lúc nào bằng cách &lt;b&gt;nhấp vào nút&lt;/b&gt; ở trên hoặc &lt;b&gt;nhấn F1.&lt;/b&gt;" />
+    <TextStringDefinition InstanceID="0x11702883" TextString="Công cụ Xây dựng Chính" />
+    <TextStringDefinition InstanceID="0xD7E33A9A" TextString="&lt;b&gt;Di chuyển Nhà (U)&lt;/b&gt; - Thay đổi vị trí ngôi nhà\n\n&lt;b&gt;San ủi&lt;/b&gt; - Làm phẳng địa hình hoặc toàn bộ lô đất\n\n&lt;b&gt;Thời điểm trong ngày (L)&lt;/b&gt; - Thay đổi thời điểm trong ngày trong Chế độ Xây dựng để bạn có thể xem trước lô đất của mình vào các thời điểm khác nhau trong ngày" />
+    <TextStringDefinition InstanceID="0xA2EFA601" TextString="Những công cụ hữu ích nằm ngay đây trên thanh công cụ.\n\n&lt;b&gt;Công cụ Thiết kế (R)&lt;/b&gt; - Thay đổi phong cách của một vật thể." />
+    <TextStringDefinition InstanceID="0x8E6BFCFA" TextString="Công cụ Xây dựng Chính" />
+    <TextStringDefinition InstanceID="0xCA422115" TextString="&lt;b&gt;Hoàn tác/Làm lại (Control và Z/Y)&lt;/b&gt; - Hoàn tác hoặc làm lại các hành động.\n\n&lt;b&gt;Lưu vào Thư viện Cá nhân&lt;/b&gt; - Lưu lô đất của bạn vào Thư viện của bạn." />
+    <TextStringDefinition InstanceID="0xFB7A53D1" TextString="Công cụ Xây dựng Chính" />
+    <TextStringDefinition InstanceID="0x0ADE6EBC" TextString="Đây là những công cụ chính của bạn trong chế độ xây dựng! Từ trái sang phải chúng là:\n\n&lt;b&gt;Chọn (H)&lt;/b&gt; - Kích hoạt một vật thể hoặc thành phần.\n\n&lt;b&gt;Công cụ Lấy mẫu màu (E)&lt;/b&gt; - Sao chép một vật thể.\n\n&lt;b&gt;Công cụ Thiết kế (R)&lt;/b&gt; - Thay đổi màu sắc của vật thể.\n\n&lt;b&gt;Búa đập (K)&lt;/b&gt; - Loại bỏ một thành phần hoặc vật thể." />
+    <TextStringDefinition InstanceID="0xBEEB412F" TextString="Mở Danh mục" />
+    <TextStringDefinition InstanceID="0xB81D57F0" TextString="Chú giải Nhanh" />
+    <TextStringDefinition InstanceID="0x692E9865" TextString="Tại đây bạn có thể chọn một phòng hoặc loại vật thể để duyệt. Cứ thoải mái mở bất kỳ vật thể nào!" />
+    <TextStringDefinition InstanceID="0x5B19A446" TextString="Chú giải nhanh ở góc phải trên cùng có nhiều công cụ hữu ích thay đổi xuyên suốt Chế độ Xây dựng/Mua sắm. Hãy chú ý đến nó để có các điều khiển hữu ích!\n\nBạn có thể truy cập các thứ để mua từ điều hướng Danh mục ở bên trái.\n\nHãy thử chọn &lt;b&gt;Vật thể theo Phòng&lt;/b&gt;" />
+    <TextStringDefinition InstanceID="0xC66157D6" TextString="Bán và lưu trữ vật thể" />
+    <TextStringDefinition InstanceID="0x74451111" TextString="&lt;b&gt;Bán vật thể&lt;/b&gt; bằng cách kéo chúng từ thế giới vào &lt;b&gt;bảng dưới cùng bên trái&lt;/b&gt; có nhãn, &lt;b&gt;&quot;Bán&quot;.&lt;/b&gt; Hoặc nhấn phím &lt;b&gt;Delete&lt;/b&gt;.\n\n&lt;b&gt;Lưu trữ vật thể&lt;/b&gt; để sử dụng sau này bằng cách kéo chúng vào &lt;b&gt;bảng dưới cùng bên trái&lt;/b&gt; có nhãn, &lt;b&gt;&quot;Kho đồ&quot;.&lt;/b&gt; Bạn có thể tìm thấy những vật thể này sau từ Kho đồ Hộ gia đình." />
+    <TextStringDefinition InstanceID="0xD46E556B" TextString="Xoay và Đặt Vật thể" />
+    <TextStringDefinition InstanceID="0xAC0B5202" TextString="&lt;b&gt;Xoay một vật thể bằng cách nhấp chuột phải&lt;/b&gt; khi nó đã được chọn. Hoặc sử dụng &lt;b&gt;phím &quot;,&quot;&lt;/b&gt; và &lt;b&gt;&quot;.&quot;&lt;/b&gt;\n\n&lt;b&gt;Nhấp chuột trái để xác nhận vị trí đặt.&lt;/b&gt; Đừng lo lắng, bạn luôn có thể thay đổi vị trí đặt &amp; xoay sau!" />
+    <TextStringDefinition InstanceID="0x3CDB3E2B" TextString="Chọn vật thể" />
+    <TextStringDefinition InstanceID="0x36F18CC2" TextString="&lt;b&gt;Chọn một vật thể bằng cách nhấp chuột trái.&lt;/b&gt; Nếu bạn &lt;b&gt;di chuột qua&lt;/b&gt; một vật thể, &lt;b&gt;mẫu màu!&lt;/b&gt; sẽ hiện ra bên trái của vật thể. &lt;b&gt;Nhấp&lt;/b&gt; vào &lt;b&gt;Mẫu Màu&lt;/b&gt; để chọn một màu!\n\nMột khi vật thể đã được chọn, &lt;b&gt;di chuyển chuột&lt;/b&gt; và di chuột qua khu vực trên lô đất bạn muốn đặt nó, và &lt;b&gt;Nhấp Chuột Trái&lt;/b&gt; để mua nó!" />
+    <TextStringDefinition InstanceID="0xF16983FC" TextString="Tìm kiếm" />
+    <TextStringDefinition InstanceID="0x1C08D723" TextString="Bạn có thể &lt;b&gt;tìm kiếm vật thể&lt;/b&gt; trong danh mục. Hãy thử gõ &quot;&lt;b&gt;bàn làm việc&lt;/b&gt;&quot; để xem bạn nhận được gì!" />
+    <TextStringDefinition InstanceID="0x87251979" TextString="Điều hướng Danh mục" />
+    <TextStringDefinition InstanceID="0xBB3C1E64" TextString="Sử dụng &lt;b&gt;các nút ở bên trái&lt;/b&gt; để mở các phần khác nhau của &lt;b&gt;Danh mục.&lt;/b&gt; Di chuột qua một nút để tìm hiểu thêm. Nhấp một nút để mở.\n\n&lt;b&gt;Xây dựng&lt;/b&gt; - Duyệt vật thể bằng cách sử dụng hình ảnh trực quan của một ngôi nhà.\n\n&lt;b&gt;Vật thể theo phòng&lt;/b&gt; - Nhấp vào các bộ phận của ngôi nhà bên dưới để xem các mục liên quan.\n\n&lt;b&gt;Vật thể theo chức năng&lt;/b&gt; - Sử dụng menu thả xuống để duyệt vật thể theo chức năng (Trang trí, Thiết bị, Điện tử, v.v.)\n\n&lt;b&gt;Kho đồ Hộ gia đình&lt;/b&gt; - Lưu trữ và lấy lại vật thể để sử dụng sau này." />
+    <TextStringDefinition InstanceID="0xF707CBC9" TextString="Bạn có thể &lt;b&gt;mua, bán, đặt,&lt;/b&gt; và &lt;b&gt;tùy chỉnh vật thể&lt;/b&gt; cho Sim và ngôi nhà của họ bằng cách sử dụng &lt;b&gt;menu Danh mục&lt;/b&gt; bên dưới." />
+    <TextStringDefinition InstanceID="0xD5E052C2" TextString="Mua vật thể" />
+    <TextStringDefinition InstanceID="0x0A7DE696" TextString="Ranh giới Lãng mạn kiểm soát các yếu tố khiến Sim trở nên Ghen tuông và nếu các cơ chế Ghen tuông của họ có thể thay đổi!" />
+    <TextStringDefinition InstanceID="0xE1E3DF7B" TextString="Xác định Ranh giới Lãng mạn của Sim của bạn bằng cách tùy chỉnh chúng trong Bảng Tùy chỉnh Sim." />
+    <TextStringDefinition InstanceID="0x6DD4AC19" TextString="Ranh giới Lãng mạn" />
+    <TextStringDefinition InstanceID="0x0DB93B50" TextString="Đi lại bằng Điện thoại" />
+    <TextStringDefinition InstanceID="0xB17D3DE1" TextString="Về Nhà" />
+    <TextStringDefinition InstanceID="0x617A6404" TextString="Mở Bảng Kỹ năng tại đây" />
+    <TextStringDefinition InstanceID="0x42D07166" TextString="Sử dụng Điện thoại để đặt một chiếc pizza" />
+    <TextStringDefinition InstanceID="0xEAB8B9A4" TextString="Sử dụng Điện thoại để chụp ảnh" />
+    <TextStringDefinition InstanceID="0x43EEFC3C" TextString="Mở Điện thoại tại đây" />
+    <TextStringDefinition InstanceID="0x4FE3C915" TextString="Mời một Sim từ Điện thoại" />
+    <TextStringDefinition InstanceID="0x07CC5F05" TextString="Mở Điện thoại để Trò chuyện hoặc Chơi một trò chơi" />
+    <TextStringDefinition InstanceID="0xF9B5DAEF" TextString="Mở Bảng Nhu cầu tại đây" />
+    <TextStringDefinition InstanceID="0xD776CB83" TextString="Khám phá nội dung" />
+    <TextStringDefinition InstanceID="0x7ECE282B" TextString="Bán một vật thể thông qua Chế độ Xây dựng" />
+    <TextStringDefinition InstanceID="0x86E9E94A" TextString="Mở Bảng Sự nghiệp tại đây" />
+    <TextStringDefinition InstanceID="0x72E9CC4E" TextString="Tham gia một Sự nghiệp thông qua Bảng Sự nghiệp" />
+    <TextStringDefinition InstanceID="0xD88BC6D5" TextString="Kiếm được Simoleon thông qua sự nghiệp của Sim" />
+    <TextStringDefinition InstanceID="0x5C91089E" TextString="Mở Cửa hàng Phần thưởng thông qua Bảng Khao khát" />
+    <TextStringDefinition InstanceID="0x07970EFC" TextString="Mở Bảng Khao khát tại đây" />
+    <TextStringDefinition InstanceID="0x74868B79" TextString="Di chuột qua một Mong muốn" />

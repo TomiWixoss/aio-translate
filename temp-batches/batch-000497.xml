@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x941ACA75" TextString="Có - Tiền là rác!" />
+    <TextStringDefinition InstanceID="0xEA243FD9" TextString="Không - Tôi đã làm việc chăm chỉ để đạt được nó!" />
+    <TextStringDefinition InstanceID="0x78ABBAC4" TextString="Tôi có ý tưởng tuyệt vời nhất rồi! Chúng ta hiểu nhau và làm việc rất tốt như một... đội nhóm, phải không? Giá như chúng ta cùng tạo ra trò chơi hoặc ứng dụng của riêng mình và trở thành nhà phát triển độc lập? Không ai có thể sa thải chúng ta nữa! Nào, {0.SimFirstName}? Hãy chống lại bọn họ! Tôi sẽ chia sẻ với bạn thức uống bí mật tôi dùng để tăng hiệu suất. Nếu bạn bắt đầu lập trình ngay sau khi uống thứ này, bạn sẽ nâng cấp kỹ năng lập trình của mình trong chớp mắt!" />
+    <TextStringDefinition InstanceID="0x2429C975" TextString="Này {0.SimFirstName}, hy vọng bạn không làm việc quá sức! Hãy nhớ dùng một vài ngày nghỉ phép quý giá đó để thư giãn!" />
+    <TextStringDefinition InstanceID="0xAE7EE359" TextString="Cảm ơn vì đã cho tôi ở nhờ, {0.SimFirstName}. Tôi tặng bạn bức in Không gian này như một lời xin lỗi vì đã là một kẻ khó chịu. Nó nhắc tôi nhớ đêm chúng ta đã dành ở đài thiên văn của bố bạn... Không phải tôi thường xuyên nghĩ về nó đâu. Hãy đặt nó gần máy tính của bạn và kích hoạt nó, nó sẽ giúp bạn tăng tốc độ học kỹ năng lập trình! Và một lần nữa, xin lỗi vì tôi là một đầu cá ngừ cạnh tranh khó chịu." />
+    <TextStringDefinition InstanceID="0xA4ED24FD" TextString="Này {0.SimFirstName}! Bạn đoán xem, tôi cũng được thăng chức rồi! Tôi dùng thưởng của mình để mua đồ nội thất và LÀM. NÓ. MƯA. Tôi có rất nhiều món đồ mới lấp lánh sẽ nhanh chóng làm tôi vui vẻ để tôi có THÊM NHIỀU THỜI GIAN cho sự thăng tiến sự nghiệp. Thông minh, hả? Bạn phải chi tiền để kiếm tiền! Tôi phải thừa nhận, tôi ngạc nhiên khi bạn cũng được thăng chức... Chắc là may mắn! Khi tôi là sếp của bạn, tôi sẽ đảm bảo những sai lầm như thế này không xảy ra nữa. &#xD;&#xA;" />
+    <TextStringDefinition InstanceID="0x6AAAA300" TextString="Tôi cũng sẽ mua đồ với thưởng của mình!" />
+    <TextStringDefinition InstanceID="0x4A29959D" TextString="Tôi có nên tin &quot;Lewis Mới&quot; không?" />
+    <TextStringDefinition InstanceID="0x8F7902C1" TextString="Grrr, dừng việc tự mời mình đến!" />
+    <TextStringDefinition InstanceID="0x8C682C19" TextString="Đã học được cách Bò" />
+    <TextStringDefinition InstanceID="0x1A14ED01" TextString="Sau khi học được cách lăn người về cả hai phía, việc tiếp tục luyện tập với &lt;b&gt;Thời gian nằm sấp&lt;/b&gt; sẽ giúp {0.SimFirstName} xây dựng cơ bắp và tăng sự phối hợp để cho phép {0.SimPronounObjective} bắt đầu bò." />
+    <TextStringDefinition InstanceID="0x32386969" TextString="Cẩn thận thế giới ơi, {0.SimFirstName} đã ra ngoài tự do! Sau khi học được cách bò, sẽ không thiếu những trò quậy phá mà {0.SimPronounSubjective} có thể làm được." />
+    <TextStringDefinition InstanceID="0xBE96CBE3" TextString="Đã học được cách Bò" />
+    <TextStringDefinition InstanceID="0xB553BCF8" TextString="Thế giới trở nên tươi sáng hơn một chút với nụ cười đầu tiên của {0.SimFirstName}!" />
+    <TextStringDefinition InstanceID="0xDA04FF22" TextString="Lần đầu Mỉm cười" />
+    <TextStringDefinition InstanceID="0x0D6B25CD" TextString="Ồ, âm thanh ngọt ngào của sự tĩnh lặng. Những người sống cùng {0.SimFirstName} sẽ không bao giờ quên lần đầu tiên {0.SimPronounSubjective} cuối cùng cũng ngủ một giấc trọn vẹn mà không bị gián đoạn." />
+    <TextStringDefinition InstanceID="0xC86C8247" TextString="Ngủ Suốt Đêm" />
+    <TextStringDefinition InstanceID="0x609A3474" TextString="{0.SimFirstName} sẽ không bao giờ biết chuyện đó đã xảy ra, nhưng {1.SimName} chắc chắn sẽ nhớ lần đầu tiên {1.SimPronounSubjective} bị tiểu trên người khi đang thay tã cho {0.SimFirstName}." />
+    <TextStringDefinition InstanceID="0xCBF977B4" TextString="Bị Tiểu Trên Người Người Chăm Sóc" />
+    <TextStringDefinition InstanceID="0x4439B166" TextString="{0.SimFirstName} đã thốt ra từ đầu tiên của {0.SimPronounPossessiveDependent}! Hãy ghi chú lại!" />
+    <TextStringDefinition InstanceID="0xE47276D8" TextString="{0.SimFirstName} đã đi chuyến du lịch đến {3.String} để thăm {0.SimPronounPossessiveDependent} người thân." />
+    <TextStringDefinition InstanceID="0x9F19D228" TextString="Lần đầu Thăm Nhà Người Thân" />
+    <TextStringDefinition InstanceID="0x473D9153" TextString="Một khuôn mặt mới! {0.SimFirstName} đã có cuộc gặp gỡ đầu tiên với một người từ bên ngoài {0.SimPronounPossessiveDependent} hộ gia đình." />
+    <TextStringDefinition InstanceID="0x13906E09" TextString="Lần đầu Có Khách Thăm" />
+    <TextStringDefinition InstanceID="0xFF04CE5F" TextString="{0.SimFirstName} đã du lịch đến {3.String} cho kỳ nghỉ đầu tiên của {0.SimPronounPossessiveDependent}. Hy vọng là cái đầu tiên trong nhiều kỳ nghỉ vì {0.SimFirstName} có thể sẽ quen với lối sống này!" />
+    <TextStringDefinition InstanceID="0xC28D7319" TextString="Kỳ Nghỉ Đầu Tiên" />
+    <TextStringDefinition InstanceID="0x2736E534" TextString="Thế giới trở nên rộng lớn hơn một chút đối với {0.SimFirstName} khi {0.SimPronounSubjective} thăm một công viên lần đầu tiên!" />
+    <TextStringDefinition InstanceID="0xF2BA762A" TextString="{0.SimFirstName} đã đi một chuyến phiêu lưu đến {3.String}." />
+    <TextStringDefinition InstanceID="0x54C4DB1E" TextString="Lần đầu Đến Công Viên" />
+    <TextStringDefinition InstanceID="0x260FEB82" TextString="Thực Phẩm Trẻ Em Đầu Tiên" />
+    <TextStringDefinition InstanceID="0x72345403" TextString="Thực Phẩm Tự Ăn Đầu Tiên" />
+    <TextStringDefinition InstanceID="0x133D3B9B" TextString="Bong bóng bong bóng bong! {0.SimFirstName} đã rất thích bồn tắm bong bóng đầu tiên từ {1.SimName}! " />
+    <TextStringDefinition InstanceID="0xB47ED595" TextString="Lần đầu Tắm Bong Bóng" />
+    <TextStringDefinition InstanceID="0xB7FBD6C6" TextString="{0.SimFirstName} đã trải qua lần tã rách đầu tiên. Mùi hôi thối đó sẽ không bao giờ bị quên bởi những người &lt;i&gt;không may mắn&lt;/i&gt; có mặt." />
+    <TextStringDefinition InstanceID="0x3344C0DC" TextString="Lần đầu Tã Rách" />
+    <TextStringDefinition InstanceID="0x3FCEF435" TextString="{0.SimFirstName} trở nên sạch sẽ sau khi được {1.SimName} tắm lần đầu tiên." />
+    <TextStringDefinition InstanceID="0x134A7F3F" TextString="Lần đầu Tắm" />
+    <TextStringDefinition InstanceID="0x935C9E64" TextString="Sinh tại Bệnh viện" />
+    <TextStringDefinition InstanceID="0x79B95087" TextString="Sinh tại Nhà" />
+    <TextStringDefinition InstanceID="0xDDBB141D" TextString="Sinh ra" />
+    <TextStringDefinition InstanceID="0x4E00DCC4" TextString="Ồ, trông có vẻ {0.SimFirstName} đang bắt đầu mở lòng với các Sim khác! Hãy để mọi người biết rằng {1.SimName} là Sim đầu tiên mà {0.SimFirstName} vẫy tay chào." />
+    <TextStringDefinition InstanceID="0xB9E38444" TextString="Đã học được cách Vẫy Tay" />
+    <TextStringDefinition InstanceID="0x9F4F8EF6" TextString="{0.SimFirstName} ngày càng khỏe mạnh mỗi ngày. Thật là một dịp trọng đại khi {0.SimPronounSubjective} có thể vùng vẫy, cúi người, và thậm chí cho {0.SimPronounPossessiveDependent} ngón chân vào {0.SimPronounPossessiveDependent} miệng. Linh hoạt thật!" />
+    <TextStringDefinition InstanceID="0x32AE9D0C" TextString="Cho Ngón Chân Vào Miệng" />
+    <TextStringDefinition InstanceID="0x32F32086" TextString="Chơi với đồ chơi trong hộp đồ chơi, nhà búp bê, khối xây dựng và Thảm chơi cho Trẻ sơ sinh sẽ giúp {0.SimFirstName} tiến qua các cột mốc Vận động tinh của {0.SimPronounPossessiveDependent}!" />
+    <TextStringDefinition InstanceID="0x59C05787" TextString="Ngẩng cao và với xa! {0.SimFirstName} lần đầu với lấy {2.ObjectName}, nhưng bầu trời là giới hạn! Ai biết được {0.SimPronounSubjective} sẽ với lấy thứ gì tiếp theo?" />
+    <TextStringDefinition InstanceID="0x79783591" TextString="Đã học được cách Với Tay" />
+    <TextStringDefinition InstanceID="0xA2507069" TextString="Sử dụng Thảm chơi cho Trẻ sơ sinh để &lt;b&gt;Nhìn Đồ Chơi&lt;/b&gt; và &lt;b&gt;Chơi Cùng Trẻ sơ sinh&lt;/b&gt; cuối cùng sẽ dẫn đến việc {0.SimFirstName} với lấy mọi thứ một cách tự lập!" />
+    <TextStringDefinition InstanceID="0x7C57644E" TextString="Những ngón tay mạnh mẽ của {0.SimFirstName} bây giờ có thể thực hiện Nắm Ngón Cái và Ngón Trỏ! Không có gì có thể trốn thoát khỏi {0.SimPronounPossessiveDependent} ngón tay trừ khi {0.SimPronounSubjective} muốn!" />
+    <TextStringDefinition InstanceID="0xFA1AD4F4" TextString="Đã học được Nắm Ngón Cái và Ngón Trỏ" />

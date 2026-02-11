@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x4BE5F353" TextString="{0.SimFirstName} là xuất sắc! Đứa trẻ này đã được yêu thương và chăm sóc tốt, điều này sẽ giúp chúng duy trì một tầm nhìn tích cực về cuộc sống! " />
+    <TextStringDefinition InstanceID="0x678084CC" TextString="Trẻ sơ sinh xuất sắc" />
+    <TextStringDefinition InstanceID="0x8062479C" TextString="Trẻ sơ sinh xuất sắc" />
+    <TextStringDefinition InstanceID="0x42777EF6" TextString="Mặc dù không hoàn hảo, {0.SimFirstName} vẫn là một đứa trẻ sơ sinh khá hạnh phúc! {0.SimFirstName} sẽ có xu hướng xây dựng các mối quan hệ tích cực với các Sim xung quanh {0.SimPronounObjective}." />
+    <TextStringDefinition InstanceID="0xA65E09E1" TextString="Trẻ sơ sinh hạnh phúc" />
+    <TextStringDefinition InstanceID="0x7683EC4B" TextString="Trẻ sơ sinh hạnh phúc" />
+    <TextStringDefinition InstanceID="0xA3AE39F7" TextString="(Từ giai đoạn trẻ sơ sinh)" />
+    <TextStringDefinition InstanceID="0x0CBC65B5" TextString="Khi còn là Trẻ, Sim này đã thử thách bản thân để xây dựng hình ảnh thời trang riêng! Khi trưởng thành, họ sẽ thăng tiến nhanh hơn trong Sự nghiệp Ảnh hưởng Thời trang." />
+    <TextStringDefinition InstanceID="0xB822078A" TextString="Đã xây dựng hình ảnh khi còn Trẻ" />
+    <TextStringDefinition InstanceID="0x689399DA" TextString="Đã xây dựng hình ảnh khi còn Trẻ" />
+    <TextStringDefinition InstanceID="0xA48E03DF" TextString="(Từ Khoảnh khắc Hình thành)" />
+    <TextStringDefinition InstanceID="0x485001AD" TextString="Sim này sẽ có phản ứng ghen tuông nếu thấy bạn tình lãng mạn {T0.Mess Around}{DAE0.WooHoo} với các Sim khác." />
+    <TextStringDefinition InstanceID="0xB869E07B" TextString="Sim này sẽ không có phản ứng ghen tuông—hoặc phản ứng nhỏ, tùy thuộc vào Tính cách—nếu thấy bạn tình lãng mạn {T0.Mess Around}{DAE0.WooHoo} với các Sim khác." />
+    <TextStringDefinition InstanceID="0x71F1B23F" TextString="{T0.Mess Around}{DAE0.WooHoo}" />
+    <TextStringDefinition InstanceID="0xC3E8BEA1" TextString="{T0.Mess Around}{DAE0.WooHoo}" />
+    <TextStringDefinition InstanceID="0xA2FC382B" TextString="Sim này sẽ có phản ứng ghen tuông nếu thấy bạn tình tham gia vào Lãng mạn Thể chất &lt;i&gt;(trừ {T0.Mess Around}{DAE0.WooHoo})&lt;/i&gt; với các Sim khác." />
+    <TextStringDefinition InstanceID="0x6DDA9E29" TextString="Sim này sẽ không có phản ứng ghen tuông—hoặc phản ứng nhỏ, tùy thuộc vào Tính cách—nếu thấy bạn tình tham gia vào Lãng mạn Thể chất &lt;i&gt;(trừ {T0.Mess Around}{DAE0.WooHoo})&lt;/i&gt; với các Sim khác." />
+    <TextStringDefinition InstanceID="0xA37CDDE9" TextString="Lãng mạn Thể chất &lt;i&gt;(trừ {T0.Mess Around}{DAE0.WooHoo})&lt;/i&gt;" />
+    <TextStringDefinition InstanceID="0xF62C1D33" TextString="Lãng mạn Thể chất &lt;i&gt;(trừ {T0.Mess Around}{DAE0.WooHoo})&lt;/i&gt;" />
+    <TextStringDefinition InstanceID="0x8624F508" TextString="Sim này sẵn sàng xem xét lại Ranh giới Lãng mạn của họ nếu được một Sim khác hỏi." />
+    <TextStringDefinition InstanceID="0xB494267D" TextString="Đang khám phá" />
+    <TextStringDefinition InstanceID="0xFD42499C" TextString="Sim này kiên định về Ranh giới Lãng mạn và không thể được yêu cầu xem xét lại chúng." />
+    <TextStringDefinition InstanceID="0x802A0499" TextString="Không khám phá" />
+    <TextStringDefinition InstanceID="0x7FB049EE" TextString="Ranh giới Lãng mạn" />
+    <TextStringDefinition InstanceID="0xF6206C66" TextString="Ranh giới Lãng mạn" />
+    <TextStringDefinition InstanceID="0xA74FE976" TextString="Sim này sẽ có phản ứng ghen tuông nếu thấy bạn tình tham gia vào Lãng mạn Phi thể chất với các Sim khác." />
+    <TextStringDefinition InstanceID="0xDBE729EB" TextString="Kích hoạt Ghen tuông" />
+    <TextStringDefinition InstanceID="0xDD482E1A" TextString="Sim này sẽ không có phản ứng ghen tuông—hoặc phản ứng nhỏ, tùy thuộc vào Tính cách—nếu thấy bạn tình tham gia vào Lãng mạn Phi thể chất với các Sim khác." />
+    <TextStringDefinition InstanceID="0xC0BC5847" TextString="Không Kích hoạt Ghen tuông" />
+    <TextStringDefinition InstanceID="0x52ACF2B0" TextString="Lãng mạn Phi thể chất" />
+    <TextStringDefinition InstanceID="0x9A2228A8" TextString="Lãng mạn Phi thể chất" />
+    <TextStringDefinition InstanceID="0xCFF5E050" TextString="Các Sim có Sự tĩnh lặng của Người câu cá sẽ thấy rằng tất cả vấn đề của họ dường như tan biến khi họ đang câu cá." />
+    <TextStringDefinition InstanceID="0xAC7546C9" TextString="Sự tĩnh lặng của Người câu cá" />
+    <TextStringDefinition InstanceID="0x960149ED" TextString="(Từ việc chọn Khát vọng Tri thức)" />
+    <TextStringDefinition InstanceID="0xC84F889A" TextString="Người học nhanh xây dựng mọi kỹ năng nhanh hơn một chút!" />
+    <TextStringDefinition InstanceID="0x05961B25" TextString="Người học nhanh" />
+    <TextStringDefinition InstanceID="0xE1A868E7" TextString="Người học nhanh" />
+    <TextStringDefinition InstanceID="0x1BE3BAD5" TextString="Kẻ lười biếng Chuyên nghiệp không sợ bị giáng chức hoặc sa thải." />
+    <TextStringDefinition InstanceID="0xFDE6542A" TextString="Kẻ lười biếng Chuyên nghiệp" />
+    <TextStringDefinition InstanceID="0x86198C7A" TextString="Kẻ lười biếng Chuyên nghiệp" />
+    <TextStringDefinition InstanceID="0x163C32F4" TextString="Các Sim này học kỹ năng nhanh hơn, ngay cả khi ban đầu chậm hơn một chút. " />
+    <TextStringDefinition InstanceID="0x3EA4243B" TextString="Thực hành làm cho Hoàn hảo" />
+    <TextStringDefinition InstanceID="0xE09F3F15" TextString="Thực hành làm cho Hoàn hảo" />
+    <TextStringDefinition InstanceID="0xE048C37F" TextString="(Từ việc hoàn thành Khát vọng Pha chế Đại sư)" />
+    <TextStringDefinition InstanceID="0xC805BF94" TextString="Các Pháp sư Phép thuật có thể pha những đồ uống mạnh có thể ảnh hưởng đến cảm xúc của người uống." />
+    <TextStringDefinition InstanceID="0xBB82DFDB" TextString="Pháp sư Phép thuật" />
+    <TextStringDefinition InstanceID="0x1376B135" TextString="Pháp sư Phép thuật" />
+    <TextStringDefinition InstanceID="0xB08D6357" TextString="(Từ việc hoàn thành Khát vọng Lãng mạn Liên tục)" />
+    <TextStringDefinition InstanceID="0xE0287DEC" TextString="Người chơi sẽ không bao giờ khiến các Sim khác ghen tuông, bất kể họ làm gì" />
+    <TextStringDefinition InstanceID="0x56DB0883" TextString="Người chơi" />

@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x4A3E3948" TextString="Chụp Ảnh Cùng Nhau" />
+    <TextStringDefinition InstanceID="0x81F58C44" TextString="Hôn {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x8BD7707C" TextString="Tán tỉnh" />
+    <TextStringDefinition InstanceID="0xBB04147A" TextString="Hôn {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x935170CD" TextString="Cố gắng lại gần một cách tôn trọng" />
+    <TextStringDefinition InstanceID="0xEEADD7CF" TextString="Nhìn sâu vào mắt {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x8D3103F1" TextString="Nhìn sâu vào mắt" />
+    <TextStringDefinition InstanceID="0xA2141528" TextString="Nhìn vào mắt một cách miễn cưỡng" />
+    <TextStringDefinition InstanceID="0xC96007DA" TextString="Nhìn sâu vào mắt {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xA8F6CF12" TextString="Nhìn sâu vào mắt" />
+    <TextStringDefinition InstanceID="0x728DE813" TextString="Được {1.SimFirstName} hôn" />
+    <TextStringDefinition InstanceID="0xD609736D" TextString="Nụ hôn không lịch sự" />
+    <TextStringDefinition InstanceID="0x52663792" TextString="Được {1.SimFirstName} hôn" />
+    <TextStringDefinition InstanceID="0x0D6F10A2" TextString="Được {1.SimFirstName} massage" />
+    <TextStringDefinition InstanceID="0x06671406" TextString="Massage không lịch sự" />
+    <TextStringDefinition InstanceID="0xE0C67AB2" TextString="Được {1.SimFirstName} massage" />
+    <TextStringDefinition InstanceID="0x512F67A8" TextString="Massage không nhiệt tình" />
+    <TextStringDefinition InstanceID="0xBF83AF7F" TextString="Cho ăn một miếng" />
+    <TextStringDefinition InstanceID="0xDB74CEC1" TextString="Được {1.SimFirstName} ôm ấp" />
+    <TextStringDefinition InstanceID="0x9AB29DAF" TextString="Được ôm ấp" />
+    <TextStringDefinition InstanceID="0xBAFE3D1B" TextString="Massage cho {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x995642A0" TextString="Yêu cầu massage một cách vụng về" />
+    <TextStringDefinition InstanceID="0x835E38AB" TextString="Được {1.SimFirstName} phỏng vấn" />
+    <TextStringDefinition InstanceID="0xD62671FD" TextString="Phỏng vấn để lấy câu chuyện" />
+    <TextStringDefinition InstanceID="0xC6A88BAE" TextString="Được {1.SimFirstName} phỏng vấn" />
+    <TextStringDefinition InstanceID="0x1A66F796" TextString="Phỏng vấn về cuộc sống" />
+    <TextStringDefinition InstanceID="0xB641094D" TextString="Bị {1.SimFirstName} xúc phạm" />
+    <TextStringDefinition InstanceID="0xD4E9738F" TextString="Xúc phạm sân vườn" />
+    <TextStringDefinition InstanceID="0x8BA34D87" TextString="Bị {1.SimFirstName} xúc phạm" />
+    <TextStringDefinition InstanceID="0x55915709" TextString="Xúc phạm ngôi nhà" />
+    <TextStringDefinition InstanceID="0xC5A03E52" TextString="Xúc phạm tổ ấm" />
+    <TextStringDefinition InstanceID="0x870C274E" TextString="Bị {1.SimFirstName} xúc phạm" />
+    <TextStringDefinition InstanceID="0x487269F6" TextString="Xúc phạm khuôn mặt" />
+    <TextStringDefinition InstanceID="0xF11E6152" TextString="Thực hành khuôn mặt xúc phạm" />
+    <TextStringDefinition InstanceID="0x380419DE" TextString="Bị {1.SimFirstName} xúc phạm" />
+    <TextStringDefinition InstanceID="0xD4BC8966" TextString="Xúc phạm trang phục" />
+    <TextStringDefinition InstanceID="0x1B05B5AF" TextString="Bị {1.SimFirstName} xúc phạm" />
+    <TextStringDefinition InstanceID="0xFD0A8391" TextString="Xúc phạm" />
+    <TextStringDefinition InstanceID="0x90FD0A2A" TextString="Lên án việc sử dụng ma thuật phi tự nhiên" />
+    <TextStringDefinition InstanceID="0xBAAB3984" TextString="Lên án việc sử dụng ma thuật bóng tối" />
+    <TextStringDefinition InstanceID="0x4D46CE87" TextString="Mắng mỏ" />
+    <TextStringDefinition InstanceID="0x1ACF7EE0" TextString="Thực hành lời xúc phạm" />
+    <TextStringDefinition InstanceID="0xEEA18129" TextString="Xúc phạm kẻ cắn bụi" />
+    <TextStringDefinition InstanceID="0xD10F5806" TextString="Được truyền cảm hứng tự tin" />
+    <TextStringDefinition InstanceID="0xD81D2B2E" TextString="Truyền cảm hứng tự tin giả tạo" />
+    <TextStringDefinition InstanceID="0x01B59729" TextString="Nghe câu chuyện đùa riêng" />
+    <TextStringDefinition InstanceID="0x4F9DD4AB" TextString="Câu chuyện đùa riêng" />
+    <TextStringDefinition InstanceID="0xDC4C9F53" TextString="Nghe về khả năng chơi game của {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x935D91E5" TextString="Gây ấn tượng với khả năng chơi game" />
+    <TextStringDefinition InstanceID="0x76CC471C" TextString="Bị {1.SimFirstName} xúc phạm" />

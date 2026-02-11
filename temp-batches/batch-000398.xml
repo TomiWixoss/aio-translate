@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x21F06F46" TextString="Sửa chữa các vật thể bị hỏng hoặc nâng cấp vật thể để cải thiện chúng. Việc nâng cấp có thể được thực hiện bằng cách tăng kỹ năng Khéo léo và thu thập linh kiện từ các vật thể bị hỏng hoặc đống rác." />
+    <TextStringDefinition InstanceID="0x4F1BEE90" TextString="Để tăng kỹ năng Logic, hãy sử dụng Kính hiển vi, Đài quan sát, Bàn cờ vua, hoặc đọc Sách kỹ năng Logic. Sách kỹ năng có thể được mua trực tiếp từ Kệ sách bằng cách sử dụng tương tác Mua Sách!" />
+    <TextStringDefinition InstanceID="0x5E53D6C7" TextString="Một Tàu vũ trụ có thể được mua từ Chế độ Xây dựng trong danh mục Hoạt động và Kỹ năng." />
+    <TextStringDefinition InstanceID="0xCACD7E70" TextString="Nhấp vào một Tàu vũ trụ và chọn Phóng hoặc Nâng cấp để áp dụng. Tàu vũ trụ phải được xây dựng hoàn toàn trước khi phóng, nhưng có thể được mua từ Chế độ Xây dựng trong danh mục Sắp xếp Phòng học." />
+    <TextStringDefinition InstanceID="0x503BEA65" TextString="Để tăng kỹ năng Khoa học vũ trụ, hãy làm việc trên một Tàu vũ trụ hoặc đọc Sách kỹ năng Khoa học vũ trụ. Tàu vũ trụ có thể được mua từ Chế độ Xây dựng trong danh mục Sắp xếp Phòng học." />
+    <TextStringDefinition InstanceID="0xC84308A8" TextString="Đạt Cấp {1.Number} Kỹ năng Khéo léo" />
+    <TextStringDefinition InstanceID="0xDEC8D9E8" TextString="Để tăng kỹ năng Logic, hãy sử dụng Kính hiển vi, Đài quan sát, Bàn cờ vua, hoặc đọc Sách kỹ năng Logic. Sách kỹ năng có thể được mua trực tiếp từ Kệ sách bằng cách sử dụng tương tác Mua Sách!" />
+    <TextStringDefinition InstanceID="0x34AF007F" TextString="Bàn Mộc có thể được mua từ Chế độ Xây dựng trong danh mục Sắp xếp Kỹ năng" />
+    <TextStringDefinition InstanceID="0xA99E4CE6" TextString="Chế tạo một Vật thể trên Bàn Mộc" />
+    <TextStringDefinition InstanceID="0x82CE8919" TextString="Sửa chữa hoặc Nâng cấp một Vật thể" />
+    <TextStringDefinition InstanceID="0xCDD56B43" TextString="Sử dụng máy tính tổng cộng 100 giờ. Máy tính có thể được mua từ Chế độ Xây dựng trong danh mục Sắp xếp Phòng học." />
+    <TextStringDefinition InstanceID="0xD217FB71" TextString="Để tham gia sự nghiệp Chuyên gia Công nghệ, nhấp vào Điện thoại hoặc Máy tính và chọn tương tác Tìm việc. Để được thăng chức, hãy hoàn thành Yêu cầu Thăng chức và đi làm trong Tâm trạng Lý tưởng của Sự nghiệp." />
+    <TextStringDefinition InstanceID="0xCD014E2A" TextString="Nhấp vào Máy tính và chọn Tạo Trò chơi điện tử hoặc Ứng dụng trong danh mục Lập trình. Sim có thể mở khóa tương tác này bằng cách tăng kỹ năng Lập trình của họ." />
+    <TextStringDefinition InstanceID="0xF4557D35" TextString="Tạo một Trò chơi điện tử hoặc một Ứng dụng" />
+    <TextStringDefinition InstanceID="0x19801CD9" TextString="Để tham gia sự nghiệp Chuyên gia Công nghệ, nhấp vào Điện thoại hoặc Máy tính và chọn tương tác Tìm việc. Để được thăng chức, hãy hoàn thành Yêu cầu Thăng chức và đi làm trong Tâm trạng Lý tưởng của Sự nghiệp." />
+    <TextStringDefinition InstanceID="0xF3DFB71C" TextString="Đạt Cấp 3 của Sự nghiệp Chuyên gia Công nghệ" />
+    <TextStringDefinition InstanceID="0xE65FCFF4" TextString="Để Ăn mừng, nhấp vào bếp để chọn Công thức Bánh. Sau đó Sim có thể Thêm Nến sinh nhật và sau đó Ăn mừng khoảnh khắc!" />
+    <TextStringDefinition InstanceID="0xB33A7B12" TextString="Nhấp vào Máy tính và chọn bất kỳ Tương tác nào trong danh mục Lập trình. Máy tính có thể được mua từ Chế độ Xây dựng trong danh mục Sắp xếp Phòng học." />
+    <TextStringDefinition InstanceID="0x962F033D" TextString="Đạt Cấp {1.Number} Kỹ năng Lập trình" />
+    <TextStringDefinition InstanceID="0x9A365A73" TextString="Chơi trò chơi điện tử bằng Điện thoại, Máy tính bảng, Máy tính, hoặc Máy chơi game chuyển động trong hai giờ liên tục mà không dừng lại hoặc rời khỏi trạng thái Tập trung. Để trở nên Tập trung, Hãy sử dụng Kính hiển vi, Đọc Sách, hoặc Chơi Cờ vua." />
+    <TextStringDefinition InstanceID="0xC2A3034F" TextString="Đồ điện tử có thể được mua từ Chế độ Xây dựng trong danh mục Sắp xếp Đồ điện tử." />
+    <TextStringDefinition InstanceID="0xA12AF856" TextString="Sở hữu {1.Money} Giá trị Đồ điện tử" />
+    <TextStringDefinition InstanceID="0xA9B69A78" TextString="Chơi Trò chơi điện tử trong {1.Number} Giờ Tổng cộng" />
+    <TextStringDefinition InstanceID="0x8D57348E" TextString="Nhấp vào Máy tính và chọn Luyện tập Lập trình trong danh mục Lập trình." />
+    <TextStringDefinition InstanceID="0x840F2D09" TextString="Luyện tập Lập trình trong {1.Number} Giờ Tổng cộng" />
+    <TextStringDefinition InstanceID="0xAE71C827" TextString="Để tham gia một Sự nghiệp, nhấp vào Điện thoại hoặc Máy tính và chọn tương tác Tìm việc. Để được thăng chức, hãy hoàn thành Yêu cầu Thăng chức và đi làm trong Tâm trạng Lý tưởng của Sự nghiệp." />
+    <TextStringDefinition InstanceID="0x46740986" TextString="Để tăng kỹ năng của Sim, hãy sử dụng vật thể, thực hiện tương tác xã hội hoặc đọc Sách kỹ năng liên quan đến kỹ năng đó. Sách kỹ năng có thể được mua trực tiếp từ Kệ sách bằng cách sử dụng tương tác Mua Sách!" />
+    <TextStringDefinition InstanceID="0x571C0B96" TextString="Để tham gia một Sự nghiệp, nhấp vào Điện thoại hoặc Máy tính và chọn tương tác Tìm việc. Để được thăng chức, hãy hoàn thành Yêu cầu Thăng chức và đi làm trong Tâm trạng Lý tưởng của Sự nghiệp." />
+    <TextStringDefinition InstanceID="0x99084CB7" TextString="Để tăng kỹ năng của Sim, hãy sử dụng vật thể, thực hiện tương tác xã hội hoặc đọc Sách kỹ năng liên quan đến kỹ năng đó. Sách kỹ năng có thể được mua trực tiếp từ Kệ sách bằng cách sử dụng tương tác Mua Sách!" />
+    <TextStringDefinition InstanceID="0x2F4C816E" TextString="Để tăng kỹ năng của Sim, hãy sử dụng vật thể, thực hiện tương tác xã hội hoặc đọc Sách kỹ năng liên quan đến kỹ năng đó. Sách kỹ năng có thể được mua trực tiếp từ Kệ sách bằng cách sử dụng tương tác Mua Sách!" />
+    <TextStringDefinition InstanceID="0x705619ED" TextString="Để tham gia một Sự nghiệp, nhấp vào Điện thoại hoặc Máy tính và chọn tương tác Tìm việc. Để được thăng chức, hãy hoàn thành Yêu cầu Thăng chức và đi làm trong Tâm trạng Lý tưởng của Sự nghiệp." />
+    <TextStringDefinition InstanceID="0xA6ECB018" TextString="Để ăn mừng, nhấp vào bếp để chọn Công thức Bánh. Sau đó Sim có thể Thêm Nến sinh nhật và sau đó Ăn mừng khoảnh khắc!" />
+    <TextStringDefinition InstanceID="0x7AFC91C4" TextString="Để tăng kỹ năng Logic, hãy sử dụng Kính hiển vi, Đài quan sát, Bàn cờ vua, hoặc đọc Sách kỹ năng Logic. Sách kỹ năng có thể được mua trực tiếp từ Kệ sách bằng cách sử dụng tương tác Mua Sách!" />
+    <TextStringDefinition InstanceID="0x1879ECE3" TextString="Đạt Cấp {1.Number} Kỹ năng Logic" />
+    <TextStringDefinition InstanceID="0xCCC45DA9" TextString="Kệ sách có thể được mua từ Chế độ Xây dựng trong danh mục Sắp xếp Phòng học. Sách mới có thể được mua trực tiếp từ Kệ sách bằng cách sử dụng tương tác Mua Sách!" />
+    <TextStringDefinition InstanceID="0x8FFBE6EA" TextString="Có một Ngôi nhà Giá trị {1.Money}" />
+    <TextStringDefinition InstanceID="0xCE890356" TextString="Có {1.Money} trong Tiền dự trữ" />
+    <TextStringDefinition InstanceID="0xB16D3809" TextString="Đã Kiếm được {1.Money}" />
+    <TextStringDefinition InstanceID="0x90896846" TextString="Mua 20 Cột" />
+    <TextStringDefinition InstanceID="0xB5DDC3F9" TextString="Có một Ngôi nhà Giá trị {1.Money}" />
+    <TextStringDefinition InstanceID="0xE4DDB39A" TextString="Đã Kiếm được {1.Money}" />
+    <TextStringDefinition InstanceID="0x2766E3AB" TextString="Mua {1.Money} Giá trị Cảnh quan" />
+    <TextStringDefinition InstanceID="0x8C5C6214" TextString="Có một Ngôi nhà Giá trị {1.Money}" />
+    <TextStringDefinition InstanceID="0xD3B14C5D" TextString="Sở hữu 30 Cửa sổ" />
+    <TextStringDefinition InstanceID="0x49A9A924" TextString="Sở hữu 15 Tác phẩm Nghệ thuật" />
+    <TextStringDefinition InstanceID="0x06D166FB" TextString="Có một Ngôi nhà Giá trị {1.Money}" />
+    <TextStringDefinition InstanceID="0x09F78027" TextString="Có {1.Money} trong Tiền dự trữ" />
+    <TextStringDefinition InstanceID="0x1BAF6C6A" TextString="Đã Kiếm được {1.Money}" />
+    <TextStringDefinition InstanceID="0x1022355F" TextString="Cột có thể được mua trực tiếp từ Chế độ Xây dựng. " />
+    <TextStringDefinition InstanceID="0xDF387A3E" TextString="Mua một ngôi nhà và vật thể có giá trị ít nhất {1.Money}. Hãy nhớ rằng Giá trị Bất động sản cũng được tính vào con số này!" />

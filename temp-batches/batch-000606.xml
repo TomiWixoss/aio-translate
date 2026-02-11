@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x3A8EC541" TextString="&lt;font color=&quot;#1A81E1&quot;&gt;&lt;b&gt;Chi tiết Thử nghiệm&lt;/b&gt;&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x443751A8" TextString="Bắt đầu Thử nghiệm Game" />
+    <TextStringDefinition InstanceID="0x3D62F39B" TextString="&lt;ul type=&quot;circle&quot;&gt;&lt;li&gt;Thử nghiệm hiện chỉ có sẵn thông qua &lt;b&gt;Origin&lt;/b&gt;.&lt;/li&gt;&lt;li&gt;Thử nghiệm miễn phí. Không có điều kiện hay phí bất ngờ.&lt;/li&gt;&lt;li&gt;Tận hưởng toàn bộ gói trong thời gian thử nghiệm.&lt;/li&gt;&lt;li&gt;Thử nội dung thử nghiệm với bản sao lưu hiện có.&lt;/li&gt;&lt;li&gt;Tất cả thử nghiệm sẽ hết hạn vào {0.DayOfWeekLong}, {1.DateShort} lúc {1.TimeShort}.&lt;/li&gt;&lt;li&gt;Sau khi hết hạn, bản lưu thử nghiệm vẫn có sẵn nhưng chơi tốt nhất với gói yêu cầu.&lt;/li&gt;&lt;/ul&gt;" />
+    <TextStringDefinition InstanceID="0xBD9DB3A6" TextString="Đăng ký {0.String}" />
+    <TextStringDefinition InstanceID="0x3B79EA7B" TextString="{0.String}" />
+    <TextStringDefinition InstanceID="0x1137E7A1" TextString="Tải xuống Thử nghiệm {0.String} của bạn đã dừng lại vì một lý do nào đó. Vui lòng kiểm tra Hàng đợi Tải xuống Origin của bạn, để xem các tải xuống đang tiến hành." />
+    <TextStringDefinition InstanceID="0xAD185103" TextString="Tải xuống Thử nghiệm đã dừng" />
+    <TextStringDefinition InstanceID="0x43494B44" TextString="Tải xuống Thử nghiệm Đang Tiến Hành" />
+    <TextStringDefinition InstanceID="0xCE8DBC2B" TextString="Thử nghiệm {0.String} của bạn đang tải xuống ngay bây giờ. Để xem các tải xuống đang tiến hành, hãy kiểm tra Hàng đợi Tải xuống Origin của bạn.\n\nBạn sẽ nhận được thông báo khi tải xuống hoàn tất." />
+    <TextStringDefinition InstanceID="0x35F74FE3" TextString="Tải xuống Thử nghiệm Hoàn tất!" />
+    <TextStringDefinition InstanceID="0x857BB17A" TextString="Thử nghiệm đã được cài đặt, nhưng sẽ không có sẵn để sử dụng cho đến khi trò chơi được khởi động lại.\n\nBạn có muốn khởi động lại ngay bây giờ không?\n\nMọi dữ liệu chưa lưu sẽ bị mất." />
+    <TextStringDefinition InstanceID="0xF8BEE621" TextString="&lt;font color=&quot;#1A81E1&quot;&gt;&lt;b&gt;Chi tiết Thử nghiệm&lt;/b&gt;&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x153FC732" TextString="Đang Tải xuống Thử nghiệm Của Bạn Ngay Bây Giờ!" />
+    <TextStringDefinition InstanceID="0x62C8E4B1" TextString="Trải nghiệm mọi thứ từ {0.String} sau khi bạn đã cài đặt gói! Thử nghiệm đang tải xuống, chúng tôi sẽ thông báo khi sẵn sàng." />
+    <TextStringDefinition InstanceID="0x4E2DBC84" TextString="Thoát &amp; Cài Đặt" />
+    <TextStringDefinition InstanceID="0xFBBF8E64" TextString="&lt;font color=&quot;#EC262E&quot;&gt;&lt;b&gt;Yêu cầu The Sims 4 &amp; tất cả các bản cập nhật trò chơi. Xem yêu cầu hệ thống tối thiểu cho gói.&lt;/b&gt;&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x9D1C5F85" TextString="Chào mừng đến với {0.String}!" />
+    <TextStringDefinition InstanceID="0xCA4F3C7F" TextString="Gửi Phản Hồi" />
+    <TextStringDefinition InstanceID="0x5CD287F9" TextString="Cảm ơn bạn đã thử dùng thử nghiệm miễn phí! Chúng tôi rất vui vì bạn đã thích gói đến mức mua và tiếp tục chơi! Bây giờ bạn có thể thêm nội dung {0.String} vào tất cả các trò chơi đã lưu của mình.\n    \nBạn có muốn cho chúng tôi biết về trải nghiệm thử nghiệm miễn phí của mình không? Có danh sách ước muốn để làm cho nó tốt hơn nữa? Hãy cho chúng tôi biết trong khảo sát của chúng tôi!" />
+    <TextStringDefinition InstanceID="0x2422462C" TextString="Thử các mục mới!" />
+    <TextStringDefinition InstanceID="0x7F71F21C" TextString="Thử tất cả các mục có sẵn từ thử nghiệm &lt;b&gt;{0.String}&lt;/b&gt;! Tất cả các mục mới được cài đặt đều nằm trong Danh mục Vàng và chúng tôi cũng đã áp dụng bộ lọc để cho bạn thấy trực tiếp tất cả các mục.\n\nNếu bạn không muốn chỉ thấy các Mục Thử nghiệm, hãy bỏ bộ lọc để xem mọi thứ một lần nữa!" />
+    <TextStringDefinition InstanceID="0x7CA0C175" TextString="Thử nghiệm Của Bạn Không Có Sẵn" />
+    <TextStringDefinition InstanceID="0x16CC8AE9" TextString="Sul Sul!\n\nCảm ơn bạn đã chơi thử nghiệm miễn phí {0.String}! Thử nghiệm hiện chỉ có sẵn thông qua Origin. Chúng tôi hy vọng sẽ sớm hỗ trợ EA Desktop!\n\nMuốn tiếp tục chơi với các bản lưu Thử nghiệm của bạn? Quay lại Origin hoặc quay lại khi bạn tải xuống phiên bản đầy đủ của {0.String}." />
+    <TextStringDefinition InstanceID="0xCD22D739" TextString="Chuyển vào {0.String}" />
+    <TextStringDefinition InstanceID="0x53EEB520" TextString="Thử nghiệm Của Bạn Đã Hết Hạn" />
+    <TextStringDefinition InstanceID="0x1D2B8083" TextString="Lưu và Kết Thúc Thử nghiệm" />
+    <TextStringDefinition InstanceID="0x915E5083" TextString="Kết Thúc Thử nghiệm" />
+    <TextStringDefinition InstanceID="0x7768A258" TextString="Cảm ơn bạn đã thử dùng thử nghiệm miễn phí {0.String}! Chúng tôi hy vọng bạn đã tận hưởng trải nghiệm mọi thứ gói có thể mang lại!\n\nMuốn tiếp tục chơi? Chỉ cần mua gói và quay lại!" />
+    <TextStringDefinition InstanceID="0x09D82315" TextString="Những việc cần làm trong Thử nghiệm" />
+    <TextStringDefinition InstanceID="0x3BD40729" TextString="Thử nghiệm Miễn phí {0.String}" />
+    <TextStringDefinition InstanceID="0xB3E0A0BC" TextString="Tiếp Tục Chơi" />
+    <TextStringDefinition InstanceID="0xFEED4583" TextString="Không, Cảm Ơn" />
+    <TextStringDefinition InstanceID="0xB7A2CBCD" TextString="Có" />
+    <TextStringDefinition InstanceID="0xD692DBFA" TextString="Chọn một tùy chọn để tiếp tục" />
+    <TextStringDefinition InstanceID="0xD977B872" TextString="OK" />
+    <TextStringDefinition InstanceID="0xD877B6E9" TextString="Không" />
+    <TextStringDefinition InstanceID="0xFAB7B0FA" TextString="Vui lòng nhập một số tiền bằng hoặc thấp hơn số dư đầy đủ" />
+    <TextStringDefinition InstanceID="0x490AFE45" TextString="Vui lòng nhập một số tiền bằng hoặc cao hơn số tiền tối thiểu" />
+    <TextStringDefinition InstanceID="0xFE7BFA3D" TextString="Vui lòng nhập một tên có ít nhất 1 ký tự" />
+    <TextStringDefinition InstanceID="0xDAA2788A" TextString="Cảnh Báo" />
+    <TextStringDefinition InstanceID="0x887BACCC" TextString="Cảnh Báo" />
+    <TextStringDefinition InstanceID="0x279EB1BF" TextString="Không hiển thị hộp thoại này lần nữa" />
+    <TextStringDefinition InstanceID="0x9B0BF8FF" TextString="Tiếp tục" />
+    <TextStringDefinition InstanceID="0xD078441A" TextString="Hủy" />
+    <TextStringDefinition InstanceID="0xA7B7B56E" TextString="Đặt lại Tỷ lệ Giao diện về Mặc định?" />
+    <TextStringDefinition InstanceID="0x047836C7" TextString="Đặt lại về Mặc định (Khuyến nghị)" />
+    <TextStringDefinition InstanceID="0x047836C4" TextString="Giữ Cài đặt Hiện tại" />
+    <TextStringDefinition InstanceID="0x724E71F7" TextString="Tỷ lệ Giao diện có thể được điều chỉnh trong Tùy chọn Trò chơi dưới mục Tiếp cận." />
+    <TextStringDefinition InstanceID="0x5E5F7AE2" TextString="Tỷ lệ Giao diện hiện tại không được khuyến nghị cho độ phân giải này. Giao diện có thể chồng chéo, tràn ra ngoài màn hình, hoặc trở nên khó đọc." />
+    <TextStringDefinition InstanceID="0x25D39294" TextString="Tắt Tự động Điều chỉnh với cài đặt Hệ điều hành?" />

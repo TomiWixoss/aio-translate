@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x6FD385D2" TextString="Khe lưu bị hỏng, không thể tải." />
+    <TextStringDefinition InstanceID="0x15AFEB31" TextString="Hộ gia đình chơi gần đây:" />
+    <TextStringDefinition InstanceID="0xC9543C2F" TextString="Sao chép đường dẫn tệp lưu vào bảng nhớ tạm:" />
+    <TextStringDefinition InstanceID="0x3645870A" TextString="Tên:" />
+    <TextStringDefinition InstanceID="0x2808E76B" TextString="Trò chơi bạn đang cố tải đã được lưu bằng phiên bản The Sims 4 mới hơn phiên bản hiện tại. Vui lòng cập nhật để tải trò chơi này một cách an toàn." />
+    <TextStringDefinition InstanceID="0x45969C1B" TextString="Tệp lưu phải có tên. Vui lòng nhập tên để tiếp tục lưu trò chơi." />
+    <TextStringDefinition InstanceID="0xF6963E2B" TextString="Phải cung cấp tên lưu hợp lệ." />
+    <TextStringDefinition InstanceID="0xBE6D2769" TextString="Xóa" />
+    <TextStringDefinition InstanceID="0x5E026FD2" TextString="Bạn có chắc không?" />
+    <TextStringDefinition InstanceID="0xEFF23E1C" TextString="Xóa" />
+    <TextStringDefinition InstanceID="0xADB92CB3" TextString="Bạn có chắc muốn xóa {0.String}?\n\nCẢNH BÁO: Đây là tệp lưu hiện tại. Nếu xóa, Trình đơn chính có thể cần được tải lại." />
+    <TextStringDefinition InstanceID="0xD0C66664" TextString="Bạn có chắc muốn xóa {0.String}?" />
+    <TextStringDefinition InstanceID="0x132FC975" TextString="Trò chơi đã lưu của tôi {0.Number}" />
+    <TextStringDefinition InstanceID="0x025AAEF7" TextString="{0.String} (Tự động)" />
+    <TextStringDefinition InstanceID="0x0520FFDD" TextString="Thêm Lưu Kịch bản Mới" />
+    <TextStringDefinition InstanceID="0x9372DDFF" TextString="Thêm Lưu Mới" />
+    <TextStringDefinition InstanceID="0x1526BE9D" TextString="Khôi phục Lưu" />
+    <TextStringDefinition InstanceID="0x6F714D1D" TextString="Khôi phục Lưu?" />
+    <TextStringDefinition InstanceID="0x9B44C768" TextString="Khôi phục lưu này sẽ tạo một khe lưu trò chơi mới, với từ &quot;Recovered&quot; được thêm vào cuối tên." />
+    <TextStringDefinition InstanceID="0xB18E7914" TextString="Khôi phục trò chơi lưu này." />
+    <TextStringDefinition InstanceID="0x1DC912A3" TextString="Khôi phục" />
+    <TextStringDefinition InstanceID="0x47A9FAD7" TextString="Không có lưu khôi phục nào có sẵn." />
+    <TextStringDefinition InstanceID="0x8329E869" TextString="Tăng Cường Bộ Nhớ" />
+    <TextStringDefinition InstanceID="0x6596A487" TextString="Bạn có chắc không?" />
+    <TextStringDefinition InstanceID="0xC59D542E" TextString="Bạn có chắc muốn xóa dữ liệu khôi phục?" />
+    <TextStringDefinition InstanceID="0x5A806C71" TextString="Xóa trò chơi lưu này." />
+    <TextStringDefinition InstanceID="0x63F33632" TextString="Xóa" />
+    <TextStringDefinition InstanceID="0x09F2A87A" TextString="Xem chi tiết cho gói (các gói) yêu cầu" />
+    <TextStringDefinition InstanceID="0xE6ED0E45" TextString="Xem Gói" />
+    <TextStringDefinition InstanceID="0x89CF9F5A" TextString="Sao chép_{0.String}" />
+    <TextStringDefinition InstanceID="0x920D1630" TextString="{0.String}" />
+    <TextStringDefinition InstanceID="0xA6E1D88F" TextString="{0.String}\n&lt;font color=&quot;#EC262E&quot;&gt;Không sở hữu&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xAEAEAC4B" TextString="{0.String}\n&lt;font color=&quot;#EC262E&quot;&gt;Không tải&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x8F896A61" TextString="Điểm Phần thưởng Có sẵn:" />
+    <TextStringDefinition InstanceID="0x21613808" TextString="Phần thưởng Nhà hàng" />
+    <TextStringDefinition InstanceID="0xF3B2E973" TextString="Đổi" />
+    <TextStringDefinition InstanceID="0x150931BB" TextString="Bạn có chắc muốn mua &lt;font color=&quot;{0.String}&quot;&gt;{1.String}&lt;/font&gt; với {2.Points}?" />
+    <TextStringDefinition InstanceID="0xC4691DB8" TextString="Số dư điểm còn lại của bạn sẽ là: &lt;font color=&quot;{0.String}&quot;&gt;{1.Points}&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x8C87026D" TextString="Mua Phần thưởng" />
+    <TextStringDefinition InstanceID="0x63442C4A" TextString="Bạn có chắc muốn mua &lt;font color=&quot;{0.String}&quot;&gt;{1.String}&lt;/font&gt; với {2.PerkPoints}?" />
+    <TextStringDefinition InstanceID="0xA4564DF3" TextString="Số dư còn lại của bạn sẽ là: &lt;font color=&quot;{0.String}&quot;&gt;{1.PerkPoints}&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x567E80C4" TextString="Mua Phần thưởng" />
+    <TextStringDefinition InstanceID="0xDD44BDAB" TextString="Phần thưởng" />
+    <TextStringDefinition InstanceID="0x46DFBE85" TextString="Phần thưởng này yêu cầu một phần thưởng khác phải được mở khóa trước. Để biết phần thưởng nào được yêu cầu, hãy di chuột qua tên của phần thưởng này." />
+    <TextStringDefinition InstanceID="0x67D91493" TextString="Điểm không đủ" />
+    <TextStringDefinition InstanceID="0x6F72DD4B" TextString="Đặc điểm" />
+    <TextStringDefinition InstanceID="0xF1611E98" TextString="Thuốc" />
+    <TextStringDefinition InstanceID="0x27BEB4BB" TextString="Lọc Theo..." />
+    <TextStringDefinition InstanceID="0x734FA5CD" TextString="Tất cả" />
+    <TextStringDefinition InstanceID="0xA3B06FB9" TextString="Chi phí Điểm" />

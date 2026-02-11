@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xD3B774C3" TextString="(Từ Điểm cao Keyboard Commander)" />
+    <TextStringDefinition InstanceID="0x8F679F13" TextString="(Từ Đọc Simpedia)" />
+    <TextStringDefinition InstanceID="0x4470ED85" TextString="(Từ Điểm cao Trò chơi Số học)" />
+    <TextStringDefinition InstanceID="0x4D7E9298" TextString="(Từ Viết một Bài hát Chất lượng)" />
+    <TextStringDefinition InstanceID="0x17655848" TextString="(Từ Uống Cà phê)" />
+    <TextStringDefinition InstanceID="0x7C1218E3" TextString="(Từ Bắt gặp Con đang đánh nhau)" />
+    <TextStringDefinition InstanceID="0x43162356" TextString="(Từ Gặp Anh chị em mới)" />
+    <TextStringDefinition InstanceID="0xB5B02BCD" TextString="(Từ Xem Ly dịch)" />
+    <TextStringDefinition InstanceID="0x2EC72161" TextString="(Từ Thắng một Ván cờ vua)" />
+    <TextStringDefinition InstanceID="0x8D57EEB5" TextString="(Từ Suy nghĩ về Nước đi Cờ vua)" />
+    <TextStringDefinition InstanceID="0x6DA56238" TextString="(Từ Chơi Cờ vua)" />
+    <TextStringDefinition InstanceID="0xAC390EC0" TextString="(Từ Giao xã hội)" />
+    <TextStringDefinition InstanceID="0x7EA49DF8" TextString="(Từ Tăng kỹ năng Trẻ nhỏ đến Cấp 3 hoặc 5)" />
+    <TextStringDefinition InstanceID="0x8D42C18B" TextString="(Từ Công việc)" />
+    <TextStringDefinition InstanceID="0x254DB70B" TextString="(Từ Trường học)" />
+    <TextStringDefinition InstanceID="0xF77743A1" TextString="(Từ Mua sắm trực tuyến)" />
+    <TextStringDefinition InstanceID="0x41EC01B0" TextString="(Từ Quảng bá Thương hiệu)" />
+    <TextStringDefinition InstanceID="0xA31E46E8" TextString="(Từ Nuông chiều)" />
+    <TextStringDefinition InstanceID="0x74B3361D" TextString="(Từ Kết nối)" />
+    <TextStringDefinition InstanceID="0x8C3113C2" TextString="(Từ Nghiên cứu)" />
+    <TextStringDefinition InstanceID="0x4A89AE86" TextString="(Từ Công việc)" />
+    <TextStringDefinition InstanceID="0x530F7298" TextString="(Từ Công việc)" />
+    <TextStringDefinition InstanceID="0x4974C860" TextString="Ghế ăn Gỗ Tái chế" />
+    <TextStringDefinition InstanceID="0xC6CA7AE5" TextString="Gỗ này có nguồn gốc địa phương không?" />
+    <TextStringDefinition InstanceID="0xA3CF96F0" TextString="Chế tác món đồ này bằng cách chọn Craft Furniture trên Bàn làm đồ gỗ.\n\nBạn cũng có thể mua món đồ này trong Chế độ Xây dựng, nhưng chế tác sẽ rẻ hơn!" />
+    <TextStringDefinition InstanceID="0x13C649B7" TextString="Công thức Làm đồ gỗ" />
+    <TextStringDefinition InstanceID="0xAAD78E2D" TextString="Tường Gỗ Tái chế" />
+    <TextStringDefinition InstanceID="0x00FAE312" TextString="Mang phong cách mộc mạc cho không gian sống của bạn với ván tường gỗ đã phai màu này. " />
+    <TextStringDefinition InstanceID="0x27FA9863" TextString="Tìm món đồ này trong Chế độ Xây dựng dưới mục Wall Patterns, hoặc sử dụng bộ lọc Event Rewards." />
+    <TextStringDefinition InstanceID="0x87E7145C" TextString="Mẫu Tường" />
+    <TextStringDefinition InstanceID="0x4CB715D6" TextString="Kính Odonata" />
+    <TextStringDefinition InstanceID="0xBB72EC0F" TextString="Cặp kính này mang ý nghĩa hoàn toàn mới cho cụm từ &quot;mắt côn trùng&quot;. " />
+    <TextStringDefinition InstanceID="0xA4BE3DA3" TextString="Bàn làm đồ gỗ Gỗ tái chế" />
+    <TextStringDefinition InstanceID="0x0538226C" TextString="Bàn làm đồ gỗ được lắp ráp từ nhiều mảnh này là một ví dụ điển hình cho chức năng trên hình thức, nhưng những gì nó thiếu về vẻ đẹp, nó bù đắp bằng trái tim. " />
+    <TextStringDefinition InstanceID="0xB115CCAB" TextString="Relevart Time Walkers" />
+    <TextStringDefinition InstanceID="0xD2D6D864" TextString="Đi bộ trên những sợi thời gian không dễ dàng.\n\nCó một đôi giày bộ hành tốt trong tay thực sự giúp bạn giữ vững khi thời gian bị xé toạc dưới chân bạn." />
+    <TextStringDefinition InstanceID="0x9AEDC115" TextString="Tìm món đồ này trong Tạo Sim dưới mục Giày, hoặc sử dụng bộ lọc Event Rewards." />
+    <TextStringDefinition InstanceID="0x06F0FEC2" TextString="Giày" />
+    <TextStringDefinition InstanceID="0x61477BDC" TextString="Hộp sữa Sim Mất tích" />
+    <TextStringDefinition InstanceID="0x14F53859" TextString="Lý thuyết về đĩa đa vũ trụ, hoặc kỹ thuật số tùy theo kỷ nguyên chuyên môn của bạn, phát biểu &quot;...bất kỳ Sim nào có thể tồn tại, đã tồn tại theo một cách nào đó và tại một thời điểm nào đó.&quot;\n\nBộ sưu tập Hộp sữa Sim Mất tích cố gắng làm sáng tỏ số lượng vô vàn khả năng của Sim khiến tâm trí xoay vòng." />
+    <TextStringDefinition InstanceID="0xD34BEF04" TextString="Tìm món đồ này trong Chế độ Xây dựng dưới mục Đồ trang trí, hoặc sử dụng bộ lọc Event Rewards." />
+    <TextStringDefinition InstanceID="0xBC6C25EE" TextString="Sàn ElectroDance" />
+    <TextStringDefinition InstanceID="0x5CB4B617" TextString="Sàn ElectroDance là cái cớ hoàn hảo để bạn khoe khoang các động tác &quot;Get down and Boogie&quot; của mình!\n\nTập hợp bạn bè, và biến những bữa tiệc vườn bình thường thành những buổi rave hoành tráng!" />
+    <TextStringDefinition InstanceID="0x251D3752" TextString="Tìm món đồ này trong Chế độ Xây dựng dưới mục Hoạt động và Kỹ năng, hoặc sử dụng bộ lọc Event Rewards." />
+    <TextStringDefinition InstanceID="0xA1122E9F" TextString="Bánh sinh nhật Bất ngờ" />
+    <TextStringDefinition InstanceID="0xC56BAAF0" TextString="Món đồ ngọt đầy màu sắc này chắc chắn sẽ mang lại những tiếng 'ooh' và 'aah', và có thể một chút điều bất ngờ thú vị cho buổi lễ!\n\nThắp nến, Đưa ra điều ước, và sẵn sàng cho một chút nhảy múa!" />
+    <TextStringDefinition InstanceID="0x9671BD61" TextString="Tìm món đồ này trong Chế độ Xây dựng dưới mục Hoạt động và Kỹ năng, hoặc sử dụng bộ lọc Event Rewards." />
+    <TextStringDefinition InstanceID="0x313CF546" TextString="Hoạt động và Kỹ năng" />
+    <TextStringDefinition InstanceID="0x362E47B8" TextString="Bài hát Trạm Retro Mới" />
+    <TextStringDefinition InstanceID="0xC0171FED" TextString="Thưởng thức những bản nhạc mới được thêm vào trạm nhạc Retro! Dù là 'naba neen naba neen' hay 'tabwa ee', những giai điệu hoài niệm này chắc chắn sẽ đánh trúng nốt nhạc hoài niệm!" />

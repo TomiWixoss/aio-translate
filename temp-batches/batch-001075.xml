@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x161486D8" TextString="Nghe nói vậy thật buồn." />
+    <TextStringDefinition InstanceID="0x3DA64C03" TextString="Nhớ chúng ta đã nói về {1.SimName} không? Chúng tôi đã có một buổi hẹn hò rất tuyệt!" />
+    <TextStringDefinition InstanceID="0x1E40FB87" TextString="Bạn đoán xem? Buổi hẹn của tôi với {1.SimName} diễn ra rất tốt đẹp!" />
+    <TextStringDefinition InstanceID="0x27131FBE" TextString="Bạn sẽ không tin đâu, {1.SimName} thật là người tuyệt vời! Tôi đã yêu!" />
+    <TextStringDefinition InstanceID="0x55B00C9B" TextString="Chúc mừng!" />
+    <TextStringDefinition InstanceID="0x0BA006BC" TextString="Sau khi nói chuyện với bạn, tôi cảm thấy tốt nhất là {1.SimName} và tôi nên không gặp gỡ nữa. Tôi rất trân trọng sự giúp đỡ!" />
+    <TextStringDefinition InstanceID="0x332B1192" TextString="Tôi chỉ muốn cho bạn biết tôi đã làm theo lời khuyên của bạn và quyết định không dành thêm thời gian với {1.SimName}." />
+    <TextStringDefinition InstanceID="0x692F4ECD" TextString="Xin chào {0.SimFirstName}! Tôi đã suy nghĩ thêm về những gì bạn nói và kết luận rằng {1.SimName} và tôi có lẽ sẽ không hợp nhau." />
+    <TextStringDefinition InstanceID="0xA5C73FCF" TextString="Tôi rất vui vì bạn đã khuyên tôi dành thời gian với {1.SimName}, tôi đã rất vui vẻ suốt buổi!" />
+    <TextStringDefinition InstanceID="0xE9018C8D" TextString="{0.SimFirstName}! Cảm ơn vì đã đề xuất tôi đi chơi với {1.SimName}. Chúng tôi đã có một buổi tối tuyệt vời." />
+    <TextStringDefinition InstanceID="0xD1CC665A" TextString="{1.SimName} và tôi vừa có một khoảng thời gian vui vẻ bên nhau, cảm ơn lời khuyên của bạn!" />
+    <TextStringDefinition InstanceID="0xB0C5A4EE" TextString="Này {0.SimFirstName}, tôi muốn cho bạn biết rằng {1.SimFirstName} và tôi hiện đang hẹn hò! Tôi hoàn toàn mê mẩn {1.SimPronounObjective}." />
+    <TextStringDefinition InstanceID="0x65F943A9" TextString="Này {0.SimFirstName}, tôi muốn cho bạn biết rằng {1.SimFirstName} và tôi đã quay lại với nhau!!" />
+    <TextStringDefinition InstanceID="0xF79116AD" TextString="Này {0.SimFirstName}, tôi muốn cho bạn biết rằng {1.SimFirstName} và tôi đã chia tay..." />
+    <TextStringDefinition InstanceID="0x5DEA0956" TextString="Này {0.SimFirstName}, tôi muốn cho bạn biết rằng {1.SimFirstName} và tôi hiện đã là bạn bè!" />
+    <TextStringDefinition InstanceID="0x571F797C" TextString="Này {0.SimFirstName}, tôi muốn cho bạn biết rằng {1.SimFirstName} và tôi hiện ghét nhau. Tôi không thể chịu đựng {1.SimPronounObjective}." />
+    <TextStringDefinition InstanceID="0x61865C4C" TextString="Này {0.SimFirstName}, tôi muốn cho bạn biết rằng {1.SimFirstName} và tôi hiện đã là bạn thân!" />
+    <TextStringDefinition InstanceID="0x3CEAD1D5" TextString="Kiểm tra Túi đồ để tìm Vé" />
+    <TextStringDefinition InstanceID="0x3C893712" TextString="Lễ hội âm nhạc độc quyền The Sims Sessions đã đến thị trấn trong thời gian giới hạn!\n\nĐặc biệt có Bebe Rexha biểu diễn phiên bản acoustic của bài hát Sabotage!\n\nCùng với các buổi biểu diễn của Glass Animals và Joy Oladokun. Chắc chắn sẽ là hit của mùa hè!\n\nHãy đến Công viên Hoa Mơ ở Willow Creek để tham gia, mỗi Chủ nhật lúc 12h!" />
+    <TextStringDefinition InstanceID="0x6AB47411" TextString="Đi thôi!" />
+    <TextStringDefinition InstanceID="0x5170B323" TextString="Đừng Kể Chuyện Cười cho {0.String}" />
+    <TextStringDefinition InstanceID="0xC85C08FF" TextString="Kể Chuyện Cười cho {0.String}" />
+    <TextStringDefinition InstanceID="0x5E6B6CB0" TextString="Kể Chuyện Cười" />
+    <TextStringDefinition InstanceID="0x49F6B9C8" TextString="Các Sim sẽ kể chuyện cười cho các Sim khác." />
+    <TextStringDefinition InstanceID="0xFF316502" TextString="Đừng Làm {0.String} Sợ" />
+    <TextStringDefinition InstanceID="0xA1AE4DAC" TextString="Làm {0.String} Sợ" />
+    <TextStringDefinition InstanceID="0x667FA143" TextString="Làm Sợ" />
+    <TextStringDefinition InstanceID="0x20AAAE97" TextString="Các Sim sẽ làm các Sim khác sợ." />
+    <TextStringDefinition InstanceID="0x87AB40DB" TextString="(Từ Việc Tham Gia Hoạt động Mix and Mingle)" />
+    <TextStringDefinition InstanceID="0xC781BD8E" TextString="Đừng Hôn {0.String}" />
+    <TextStringDefinition InstanceID="0x56D226B8" TextString="Hôn {0.String}" />
+    <TextStringDefinition InstanceID="0x183061F7" TextString="Hôn" />
+    <TextStringDefinition InstanceID="0xCBAF97D8" TextString="Các Sim sẽ hôn những Sim mà họ đã xây dựng đủ mối quan hệ." />
+    <TextStringDefinition InstanceID="0xAC3A930A" TextString="Đừng Ôm {0.String}" />
+    <TextStringDefinition InstanceID="0x827CD314" TextString="Ôm {0.String}" />
+    <TextStringDefinition InstanceID="0x61707A7B" TextString="Ôm" />
+    <TextStringDefinition InstanceID="0x18383EAF" TextString="Các Sim sẽ ôm những Sim mà họ đã xây dựng đủ mối quan hệ." />
+    <TextStringDefinition InstanceID="0x7FFCBDFC" TextString="Đừng Đánh nhau với {0.String}" />
+    <TextStringDefinition InstanceID="0x333593D2" TextString="Đánh nhau với {0.String}" />
+    <TextStringDefinition InstanceID="0xA8CF5521" TextString="Đánh nhau" />
+    <TextStringDefinition InstanceID="0xF8B9CDB8" TextString="Các Sim sẽ đánh nhau với các Sim khác." />
+    <TextStringDefinition InstanceID="0x9D2E8008" TextString="Chăm Sóc Trẻ Nhỏ" />
+    <TextStringDefinition InstanceID="0xF0FDDAFE" TextString="Các Sim sẽ kiểm tra và chăm sóc các Sim trẻ sơ sinh và tập nói." />
+    <TextStringDefinition InstanceID="0xB5D18B30" TextString="Đừng Mix and Mingle" />
+    <TextStringDefinition InstanceID="0xA873A34D" TextString="Mix and Mingle" />
+    <TextStringDefinition InstanceID="0xE454A242" TextString="Các Sim sẽ gắn bó, ôm ấp và cố gắng xây dựng một mối quan hệ lãng mạn." />
+    <TextStringDefinition InstanceID="0xEFD01F0E" TextString="Đừng Lãng mạn với {0.String}" />
+    <TextStringDefinition InstanceID="0x46669F38" TextString="Lãng mạn với {0.String}" />
+    <TextStringDefinition InstanceID="0x139AC277" TextString="Lãng mạn" />
+    <TextStringDefinition InstanceID="0x044B0CB5" TextString="Các Sim sẽ thực hiện các tương tác lãng mạn với các Sim khác." />

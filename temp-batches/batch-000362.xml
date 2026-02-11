@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x1F846F5C" TextString="Huy hiệu Đã đạt được!" />
+    <TextStringDefinition InstanceID="0x3D18C8A4" TextString="{0.SimFirstName} đã làm chủ kỹ năng {1.String}!" />
+    <TextStringDefinition InstanceID="0xA2FEE513" TextString="Kỹ năng Tối đa" />
+    <TextStringDefinition InstanceID="0xE13FFCA7" TextString="Kịch bản Hoàn thành!" />
+    <TextStringDefinition InstanceID="0xFF87F0CE" TextString="{0.SimFirstName} và {1.SimFirstName} đã có em bé!" />
+    <TextStringDefinition InstanceID="0x977CB46D" TextString="{0.SimFirstName} đã có em bé!" />
+    <TextStringDefinition InstanceID="0x94C7506E" TextString="Tất cả Thử thách Xã hội Đã hoàn thành!" />
+    <TextStringDefinition InstanceID="0x4A96F5BC" TextString="Tất cả Thử thách Tò mò Đã hoàn thành!" />
+    <TextStringDefinition InstanceID="0x9BCBF8AB" TextString="Tất cả Thử thách Độc lập Đã hoàn thành!" />
+    <TextStringDefinition InstanceID="0x618926C5" TextString="Tất cả Thử thách Phiêu lưu Đã hoàn thành!" />
+    <TextStringDefinition InstanceID="0x07441E51" TextString="{0.SimFirstName} đã hoàn thành Nguyện vọng {2.String}!" />
+    <TextStringDefinition InstanceID="0x2FCDF82A" TextString="{0.SimFirstName} đã hoàn thành {1.String} của Nguyện vọng {2.String}!" />
+    <TextStringDefinition InstanceID="0x6D42B2AD" TextString="Thành tích" />
+    <TextStringDefinition InstanceID="0xCD814995" TextString="Kỳ nghỉ" />
+    <TextStringDefinition InstanceID="0xC5B9EC92" TextString="Kỹ năng" />
+    <TextStringDefinition InstanceID="0x51C07ACC" TextString="Đám cưới" />
+    <TextStringDefinition InstanceID="0x4CEFAB0E" TextString="Tình cảm" />
+    <TextStringDefinition InstanceID="0x6D5ECB3E" TextString="Đối thủ" />
+    <TextStringDefinition InstanceID="0xE323C539" TextString="Bạn bè" />
+    <TextStringDefinition InstanceID="0xE1B5CD7F" TextString="Gia đình" />
+    <TextStringDefinition InstanceID="0x81A3AF62" TextString="Bộ sưu tập" />
+    <TextStringDefinition InstanceID="0x3B80A5F0" TextString="Trường học" />
+    <TextStringDefinition InstanceID="0x2ECAAA9E" TextString="Đêm" />
+    <TextStringDefinition InstanceID="0xF9D72D08" TextString="Ngày lễ" />
+    <TextStringDefinition InstanceID="0xB45A8E4B" TextString="Vận may" />
+    <TextStringDefinition InstanceID="0x691F2206" TextString="Cảm xúc" />
+    <TextStringDefinition InstanceID="0x1C4EC625" TextString="Sự nghiệp" />
+    <TextStringDefinition InstanceID="0xEC2DB267" TextString="Nguyện vọng" />
+    <TextStringDefinition InstanceID="0x8F6D76A7" TextString="{0.Number} {S0.Sim}{P0.Sims} {S0.is}{P0.are} nữ và là Thanh niên trở lên" />
+    <TextStringDefinition InstanceID="0x556BEC0C" TextString="{0.Number} {S0.Sim}{P0.Sims} {S0.is}{P0.are} nữ và là Thiếu niên" />
+    <TextStringDefinition InstanceID="0x016FBAEE" TextString="{0.Number} {S0.Sim}{P0.Sims} {S0.is}{P0.are} Thanh niên trở lên" />
+    <TextStringDefinition InstanceID="0x7B48639A" TextString="Nova Curious, một thanh niên đam mê sự nghiệp" />
+    <TextStringDefinition InstanceID="0x4D7A9DD0" TextString="Sofia. Một đứa trẻ nghệ sĩ và nhút nhát. " />
+    <TextStringDefinition InstanceID="0xF0CA2158" TextString="Pablo. Chồng, Cha, và Nghệ sĩ" />
+    <TextStringDefinition InstanceID="0x832C3686" TextString="Leonardo. Một đứa trẻ nghịch ngợm và thông minh." />
+    <TextStringDefinition InstanceID="0x436338AF" TextString="Jennifer. Vợ, Mẹ, và Nhà văn." />
+    <TextStringDefinition InstanceID="0x221E939E" TextString="Farrah Nouvel, một thanh niên hòa đồng" />
+    <TextStringDefinition InstanceID="0xF4FC34F4" TextString="Lila, Cháu gái nhỏ, Tính nóng" />
+    <TextStringDefinition InstanceID="0xFB1C34FD" TextString="Eddie, Cháu trai, Lười biếng" />
+    <TextStringDefinition InstanceID="0x20C1EBDD" TextString="Ava, Cháu gái lớn nhất, Xấu tính" />
+    <TextStringDefinition InstanceID="0x69810445" TextString="Nyssa, Một bà ngoại thất vọng" />
+    <TextStringDefinition InstanceID="0x5FDDE4BD" TextString="{0.Number}-{1.Number} Sims {S0.is}{P0.are} Thanh niên trở lên" />
+    <TextStringDefinition InstanceID="0xB6542A00" TextString="Ít nhất {0.Number} Trẻ mới biết đi {S0.Sim}{P0.Sims}" />
+    <TextStringDefinition InstanceID="0x289C0D12" TextString="{0.Number} Thiếu niên {S0.Sim}{P0.Sims}" />
+    <TextStringDefinition InstanceID="0x52B2F32E" TextString="{0.Number} Trẻ em {S0.Sim}{P0.Sims}" />
+    <TextStringDefinition InstanceID="0x41406834" TextString="Ít nhất {0.Number} Thanh niên trở lên {S0.Sim}{P0.Sims}" />
+    <TextStringDefinition InstanceID="0x47850564" TextString="{0.Number} {S0.Sim}{P0.Sims} {S0.is}{P0.are} Người lớn trở lên" />
+    <TextStringDefinition InstanceID="0x45027C7B" TextString="Hoàn thành tất cả mục tiêu khi sống cuộc đời PlantSim!" />
+    <TextStringDefinition InstanceID="0x16A7B189" TextString="Cạnh tranh hoặc hợp tác để giành được sự ưu ái của bà ngoại - và di sản của bà!" />
+    <TextStringDefinition InstanceID="0x494BC943" TextString="Di sản Gia đình" />

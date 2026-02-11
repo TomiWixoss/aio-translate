@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x9DAAA0F2" TextString="Không thể nâng cấp giường khi tính năng rung đang bật." />
+    <TextStringDefinition InstanceID="0x3489A798" TextString="Nâng Cấp Tức Thời" />
+    <TextStringDefinition InstanceID="0xA46F1491" TextString="Bạn vừa nâng cấp tức thời một vật thể! Hãy thử lại sau." />
+    <TextStringDefinition InstanceID="0xEF1383B0" TextString="Nâng Cấp Tức Thời sẽ nhanh chóng cung cấp tất cả các nâng cấp cho vật thể này cùng một lúc!" />
+    <TextStringDefinition InstanceID="0xE0118015" TextString="Sửa Tức Thời!" />
+    <TextStringDefinition InstanceID="0xF9E120FA" TextString="Một vật thể bị hỏng không thể được nâng cấp." />
+    <TextStringDefinition InstanceID="0x0F88235B" TextString="Triệu Hồi Bánh Mì Phô Mai" />
+    <TextStringDefinition InstanceID="0x9C400A35" TextString="Ngắm Nhìn Các Mảnh Vỡ" />
+    <TextStringDefinition InstanceID="0x83A20449" TextString="Đang Trò Chuyện Với Bạn Bè..." />
+    <TextStringDefinition InstanceID="0x28DF71E7" TextString="Chọn một Sim để thuê." />
+    <TextStringDefinition InstanceID="0x65B2CDD0" TextString="Thuê Pha Chế" />
+    <TextStringDefinition InstanceID="0x3758B1DA" TextString="Thuê Nghệ Sĩ Giải Trí" />
+    <TextStringDefinition InstanceID="0x2692B513" TextString="Thuê Dịch Vụ Ăn Uống" />
+    <TextStringDefinition InstanceID="0xF0BDD5E3" TextString="Sim được {0.SimName} thuê đang trên đường đến!" />
+    <TextStringDefinition InstanceID="0x0931B0BB" TextString="Thuê Nghệ Sĩ Vĩ Cầm" />
+    <TextStringDefinition InstanceID="0xF12E0B19" TextString="Thuê Nghệ Sĩ Đàn Piano" />
+    <TextStringDefinition InstanceID="0xDED90646" TextString="Thuê Diễn Viên Hài" />
+    <TextStringDefinition InstanceID="0x17BE920E" TextString="Thuê Nghệ Sĩ Guitar" />
+    <TextStringDefinition InstanceID="0xE0FCF644" TextString="Thuê Dịch Vụ Ăn Uống" />
+    <TextStringDefinition InstanceID="0x4F87AC0A" TextString="Đã có một người phục vụ ăn uống được thuê trên lô đất này." />
+    <TextStringDefinition InstanceID="0xAD7F1B56" TextString="Thuê Pha Chế" />
+    <TextStringDefinition InstanceID="0x7459AB24" TextString="Đã có một người pha chế được thuê trên lô đất này." />
+    <TextStringDefinition InstanceID="0x6ABE0931" TextString="Một Sim dịch vụ được {0.SimName} thuê đang trên đường đến!" />
+    <TextStringDefinition InstanceID="0x0AC7AB31" TextString="Thuê Dịch Vụ Sửa Chữa Khẩn Cấp" />
+    <TextStringDefinition InstanceID="0x36DE20AC" TextString="Bạn có các hóa đơn người giữ trẻ chưa thanh toán!" />
+    <TextStringDefinition InstanceID="0x938AB4A2" TextString="{0.SimFirstName} đã tạo ra một bản sao của {1.ObjectName}. Vật thể này đã được gửi vào kho đồ của {0.SimFirstName}." />
+    <TextStringDefinition InstanceID="0xD3E17F89" TextString="{0.SimFirstName} đã tạo ra một bản sao của {1.ObjectName}. Vật thể này đã được gửi vào kho đồ của hộ gia đình." />
+    <TextStringDefinition InstanceID="0x60E283F7" TextString="Tạo Bản Sao" />
+    <TextStringDefinition InstanceID="0xC9D68333" TextString="Phá Hoại!" />
+    <TextStringDefinition InstanceID="0xD417D90F" TextString="Vật thể này sắp bị hỏng!" />
+    <TextStringDefinition InstanceID="0xFC89CD3E" TextString="{0.SimName} đã phá hoại vật thể" />
+    <TextStringDefinition InstanceID="0x09AF5BE3" TextString="Mơn Trớn" />
+    <TextStringDefinition InstanceID="0x3FD184D3" TextString="Đề Xuất Tập Luyện" />
+    <TextStringDefinition InstanceID="0xC4498D40" TextString="Lắng Nghe {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x329335B0" TextString="Đề Xuất Hoạt Động Vui Vẻ" />
+    <TextStringDefinition InstanceID="0x2449BD13" TextString="Bị Hạ Bệ Bởi {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x98B10BA5" TextString="Hạ Bệ Tế Nhị" />
+    <TextStringDefinition InstanceID="0xC32A81F0" TextString="Được {1.SimFirstName} Hôn" />
+    <TextStringDefinition InstanceID="0x6B2A9980" TextString="Nụ Hôn Tinh Tế" />
+    <TextStringDefinition InstanceID="0x1128725D" TextString="Kế Hoạch Nhét Các Vận Động Viên Vào Tủ Đồ" />
+    <TextStringDefinition InstanceID="0x716D06B2" TextString="Kế Hoạch Nhét Các Mọt Sách Vào Tủ Đồ" />
+    <TextStringDefinition InstanceID="0xA74B4014" TextString="Bắt Đầu Tin Đồn Vô Lý" />
+    <TextStringDefinition InstanceID="0xC2661537" TextString="Lắng Nghe Tin Đồn" />
+    <TextStringDefinition InstanceID="0x5C95D32F" TextString="Phổ Biến Tin Đồn Xấu Xa" />
+    <TextStringDefinition InstanceID="0x1AD5EBCA" TextString="Chạy Một Kế Hoạch" />
+    <TextStringDefinition InstanceID="0xCD63CA55" TextString="Kế Hoạch Bắt Đầu Trận Chiến Thức Ăn" />
+    <TextStringDefinition InstanceID="0x40A35C45" TextString="Phổ Biến Tin Đồn Về Người Khác" />
+    <TextStringDefinition InstanceID="0x696313E8" TextString="Lắng Nghe {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x383EF238" TextString="Phục Hồi Mượt Mà" />
+    <TextStringDefinition InstanceID="0xE40ED179" TextString="Phục Hồi Thanh Lịch" />

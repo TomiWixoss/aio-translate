@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xD4C00FA3" TextString="{0.SimLastName}" />
+    <TextStringDefinition InstanceID="0x48865E8D" TextString="{0.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x2466A8E3" TextString="Hiện Tất Cả" />
+    <TextStringDefinition InstanceID="0x64C81151" TextString="BÁN" />
+    <TextStringDefinition InstanceID="0x4403A885" TextString="Chọn" />
+    <TextStringDefinition InstanceID="0x7AD12E5E" TextString="Lưu" />
+    <TextStringDefinition InstanceID="0x89ACC20A" TextString="Đặt Lại" />
+    <TextStringDefinition InstanceID="0xC70B1C29" TextString="Làm Lại" />
+    <TextStringDefinition InstanceID="0xC9D94A73" TextString="-{0.RecyclingPieces}" />
+    <TextStringDefinition InstanceID="0xC6A53621" TextString="+{0.RecyclingPieces}" />
+    <TextStringDefinition InstanceID="0xF5F0C50E" TextString="-{0.RecyclingBits}" />
+    <TextStringDefinition InstanceID="0x532649A0" TextString="+{0.RecyclingBits}" />
+    <TextStringDefinition InstanceID="0x9B77E446" TextString="+{0.Number}" />
+    <TextStringDefinition InstanceID="0xB12881E1" TextString="+" />
+    <TextStringDefinition InstanceID="0xFAB66A41" TextString="{0.RecyclingPieces}" />
+    <TextStringDefinition InstanceID="0xCB94C694" TextString="{0.PerkPoints}" />
+    <TextStringDefinition InstanceID="0xE22AFB4D" TextString="{0.Number}%" />
+    <TextStringDefinition InstanceID="0x70122F75" TextString="Tạm Dừng" />
+    <TextStringDefinition InstanceID="0xCC7BA052" TextString="{0.String}, {1.String}" />
+    <TextStringDefinition InstanceID="0xCC7BA04E" TextString="Bật" />
+    <TextStringDefinition InstanceID="0xCC7BA04B" TextString="OK" />
+    <TextStringDefinition InstanceID="0x2C9D4E54" TextString="Tắt" />
+    <TextStringDefinition InstanceID="0xC8278B86" TextString="{0.OccultPoints}" />
+    <TextStringDefinition InstanceID="0x9AA39DD6" TextString="{0.Number} / {1.Number}" />
+    <TextStringDefinition InstanceID="0x2F8909D7" TextString="{0.Number}." />
+    <TextStringDefinition InstanceID="0x768E037A" TextString="{0.Number}" />
+    <TextStringDefinition InstanceID="0x09F53F86" TextString="{0.NobilityPoints}" />
+    <TextStringDefinition InstanceID="0xCD7BA1DC" TextString="Không" />
+    <TextStringDefinition InstanceID="0xF280EB1A" TextString="Tiếp" />
+    <TextStringDefinition InstanceID="0xF048558D" TextString="{0.String}\n" />
+    <TextStringDefinition InstanceID="0xC3A78EBF" TextString="{0.String}\n{1.String}" />
+    <TextStringDefinition InstanceID="0x4F9FC395" TextString="MỚI!" />
+    <TextStringDefinition InstanceID="0xB60FCC2E" TextString="&lt;span class=&quot;positive&quot;&gt;{0.Money}&lt;/span&gt;" />
+    <TextStringDefinition InstanceID="0x4380832E" TextString="&lt;span class=&quot;negative&quot;&gt;{0.Money}&lt;/span&gt;" />
+    <TextStringDefinition InstanceID="0x5BF76BD8" TextString="-{0.Money}" />
+    <TextStringDefinition InstanceID="0x67BBAD9A" TextString="+{0.Money}" />
+    <TextStringDefinition InstanceID="0x6E02E197" TextString="{0.Money}" />
+    <TextStringDefinition InstanceID="0xE5858367" TextString="-" />
+    <TextStringDefinition InstanceID="0xED3CBD78" TextString="-▱{0.Money}" />
+    <TextStringDefinition InstanceID="0xF902923A" TextString="+▱{0.Money}" />
+    <TextStringDefinition InstanceID="0xB4A1E33D" TextString="Tải" />
+    <TextStringDefinition InstanceID="0x34463B33" TextString="{0.Influence}" />
+    <TextStringDefinition InstanceID="0xD02C7325" TextString="-" />
+    <TextStringDefinition InstanceID="0x495B9019" TextString="Đang Diễn Ra" />
+    <TextStringDefinition InstanceID="0x4C75A49D" TextString="{0.GhostPowersPoints}" />
+    <TextStringDefinition InstanceID="0x6BB49991" TextString="Không Có Hạn Chế Giới Tính" />
+    <TextStringDefinition InstanceID="0xF778C193" TextString="♂" />
+    <TextStringDefinition InstanceID="0xF6DFA60C" TextString="Ngựa con đực" />
+    <TextStringDefinition InstanceID="0x27F6881C" TextString="Ngựa đực trưởng thành" />
+    <TextStringDefinition InstanceID="0x1BF63911" TextString="Đực" />

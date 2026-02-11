@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x1EB77E90" TextString="Trầm cảm" />
+    <TextStringDefinition InstanceID="0x8BEB66D3" TextString="Tự tin" />
+    <TextStringDefinition InstanceID="0x22D82975" TextString="Chán" />
+    <TextStringDefinition InstanceID="0x7F1C0702" TextString="Tức giận" />
+    <TextStringDefinition InstanceID="0x6A9688AC" TextString="Người hùng điểm số cao" />
+    <TextStringDefinition InstanceID="0x70838C49" TextString="{0.SimFirstName} đang lên cấp dưới sự hướng dẫn của một game thủ chuyên nghiệp. {0.SimPronounPossessiveDependent|xxUpper} DPS, APM và MMR đã vượt trội!" />
+    <TextStringDefinition InstanceID="0x08C0318B" TextString="Tự hào" />
+    <TextStringDefinition InstanceID="0x642610C4" TextString="Nhìn bó hoa vui sướng kia! Mọi hy vọng cho tương lai đều dành cho chúng, và tương lai trông thật tươi sáng." />
+    <TextStringDefinition InstanceID="0x883FBD23" TextString="Hướng dẫn đi vệ sinh sai" />
+    <TextStringDefinition InstanceID="0xF48224EC" TextString="Không... không, không phải chỗ đó.... trong cái b... ối dào!" />
+    <TextStringDefinition InstanceID="0x425A9E4A" TextString="Giấy làm mẫu" />
+    <TextStringDefinition InstanceID="0x215E77CB" TextString="{0.SimFirstName} đang học cách làm Giấy làm mẫu. Chỉ là một Người học Giấy làm mẫu... một Giấy làm mẫu?" />
+    <TextStringDefinition InstanceID="0xC443A720" TextString="Pha chế kỳ diệu" />
+    <TextStringDefinition InstanceID="0x2DE95CA5" TextString="{0.SimFirstName} đang học những mẹo nghề nghiệp từ một pha chế giàu kinh nghiệm. Những hỗn hợp này ngon đến mức {0.SimPronounSubjective} có thể thề rằng đó là phép màu!" />
+    <TextStringDefinition InstanceID="0x9C1D7302" TextString="Đồng minh chơi khăm" />
+    <TextStringDefinition InstanceID="0x7B862553" TextString="Mặc dù {0.SimFirstName} chắc chắn có thể thực hiện một trò chơi khăm tốt {0.SimPronounReflexive}, {0.SimPronounSubjective} {S0.is}{P0.are} đang học đủ loại thủ đoạn tinh ranh từ một kẻ chơi khăm giàu kinh nghiệm." />
+    <TextStringDefinition InstanceID="0x75493484" TextString="Lời nhắc đau đớn" />
+    <TextStringDefinition InstanceID="0xE1A44AB1" TextString="Khi {0.SimFirstName} cố gắng đến gần một nửa kia của {0.SimPronounPossessiveDependent}, nỗi tội lỗi tràn về. {0.SimPronounSubjective} đang nghĩ gì vậy?" />
+    <TextStringDefinition InstanceID="0x58E97B00" TextString="Tôi phải thú nhận!" />
+    <TextStringDefinition InstanceID="0xA6F74605" TextString="{0.SimFirstName} đang bị ám ảnh bởi nỗi tội lỗi. Chỉ cần nhìn thấy người yêu của {0.SimPronounPossessiveDependent} là sự hối hận lại tràn về!" />
+    <TextStringDefinition InstanceID="0xC73DD3F9" TextString="Sự tiết lộ đau lòng" />
+    <TextStringDefinition InstanceID="0xDA4365E6" TextString="Làm sao họ có thể làm điều này với {0.SimFirstName}? Đôi khi {0.SimPronounSubjective} nghĩ rằng không biết sẽ tốt hơn là nỗi đau..." />
+    <TextStringDefinition InstanceID="0x00468753" TextString="Lòng tin tan vỡ" />
+    <TextStringDefinition InstanceID="0x612517FC" TextString="Giữ bí mật là khó, nhưng nhìn thấy nỗi đau trong mắt người yêu còn khó hơn. Giá như {0.SimFirstName} có thể lấy lại lòng tin {0.SimPronounSubjective} đã mất…" />
+    <TextStringDefinition InstanceID="0x4C40D8F1" TextString="Bị gọi ra..." />
+    <TextStringDefinition InstanceID="0x2922F0CE" TextString="{0.SimFirstName} đã bị gọi ra vì hành vi xấu của {0.SimPronounPossessiveDependent} với một Sim. Xấu hổ cho {0.SimPronounObjective}..." />
+    <TextStringDefinition InstanceID="0xB336E210" TextString="Bị giam trong nhà" />
+    <TextStringDefinition InstanceID="0x52B8FF75" TextString="Sim này cần phải dành thời gian ngoài trời sớm để giảm căng thẳng này!" />
+    <TextStringDefinition InstanceID="0x45F88813" TextString="Tỉnh giấc bình yên" />
+    <TextStringDefinition InstanceID="0x91F5B6BC" TextString="Những Sim yêu thiên nhiên cũng yêu việc tỉnh giấc với cảnh quan và âm thanh của thiên nhiên!" />
+    <TextStringDefinition InstanceID="0xE0BB36C4" TextString="Không khí trong lành!" />
+    <TextStringDefinition InstanceID="0xC1805DF1" TextString="Những Sim yêu thiên nhiên yêu việc ở bên ngoài!" />
+    <TextStringDefinition InstanceID="0xFFA0BBD7" TextString="(Từ Đặc điểm Lô Đại cung điện)" />
+    <TextStringDefinition InstanceID="0xA81B1749" TextString="Tiền mua được hạnh phúc" />
+    <TextStringDefinition InstanceID="0xD2CEB596" TextString="{0.SimFirstName} cảm thấy như ở nhà khi được bao quanh bởi những món đồ đắt tiền!" />
+    <TextStringDefinition InstanceID="0xD391DF1B" TextString="Sự tức giận giảm" />
+    <TextStringDefinition InstanceID="0xADF456B4" TextString="{0.SimFirstName} đang trở nên tức giận vì lô đất của {0.SimPronounPossessiveDependent} đã mất quá nhiều giá trị!" />
+    <TextStringDefinition InstanceID="0x6A9AA125" TextString="Tức giận nhưng sang trọng" />
+    <TextStringDefinition InstanceID="0x6A49997A" TextString="{0.SimFirstName} ghét khi những món đồ hỏng nằm gần trong ngôi nhà quý phái của {0.SimPronounPossessiveDependent}!" />
+    <TextStringDefinition InstanceID="0xEB47A9E8" TextString="Nguy hiểm từ người lạ" />
+    <TextStringDefinition InstanceID="0x012C3F7D" TextString="Những Sim ưa cô lập không thể chịu đựng việc ở xung quanh người lạ. Ai biết họ đang làm gì??" />
+    <TextStringDefinition InstanceID="0x452D1CAE" TextString="Thưởng thức sự cô lập" />
+    <TextStringDefinition InstanceID="0x220612D7" TextString="Những Sim ưa cô lập thích sự cô lập hơn là đám đông người lạ." />
+    <TextStringDefinition InstanceID="0xF902DDB5" TextString="Khoai tây trên ghế sofa" />
+    <TextStringDefinition InstanceID="0x3C13452A" TextString="Có gì đó thật ấm áp về ánh sáng ấm áp, rực rỡ của TV..." />
+    <TextStringDefinition InstanceID="0x9E081532" TextString="Giấc ngủ trưa lười biếng" />
+    <TextStringDefinition InstanceID="0xF0EC7063" TextString="Không ai thích giấc ngủ trưa như một Sim lười biếng!" />
+    <TextStringDefinition InstanceID="0xBE2C5ACC" TextString="Quá nhiều việc nhà!" />
+    <TextStringDefinition InstanceID="0xC53796E9" TextString="Những Sim lười biếng không thể chịu đựng việc làm việc nhà!" />
+    <TextStringDefinition InstanceID="0xE5E571C9" TextString="Đã trả lại vật thể bị đánh cắp" />

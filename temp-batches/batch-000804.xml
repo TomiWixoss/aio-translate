@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xD98882B2" TextString="Ai đó lấy cho {0.SimFirstName} cái quạt đi, vì cuốn sách này đang làm nóng không khí!" />
+    <TextStringDefinition InstanceID="0xC9F15FE0" TextString="Phấn khích" />
+    <TextStringDefinition InstanceID="0x93CBFBDE" TextString="Phấn khích và Sẵn sàng" />
+    <TextStringDefinition InstanceID="0xA78740A7" TextString="Ai ngờ từ ngữ lại có thể khiến {0.SimFirstName} cảm thấy tràn đầy năng lượng như vậy?" />
+    <TextStringDefinition InstanceID="0x4B123101" TextString="Mạnh mẽ" />
+    <TextStringDefinition InstanceID="0xCD491B5D" TextString="Siêu năng lượng" />
+    <TextStringDefinition InstanceID="0xFFFC1DE2" TextString="Cuốn sách truyền cảm hứng đó khiến {0.SimFirstName} cảm thấy tốt về {M0.himself}{F0.herself}." />
+    <TextStringDefinition InstanceID="0x87DEC522" TextString="Bản chất của Sự đau khổ" />
+    <TextStringDefinition InstanceID="0x79008308" TextString="Bản chất của Căng thẳng" />
+    <TextStringDefinition InstanceID="0x1776A4F1" TextString="Bản chất của Sự mơ màng" />
+    <TextStringDefinition InstanceID="0x707D548F" TextString="Bản chất của Nỗi buồn" />
+    <TextStringDefinition InstanceID="0x728299BE" TextString="Bản chất của Sự nghịch ngợm " />
+    <TextStringDefinition InstanceID="0x93DCFBEB" TextString="Bản chất của Sự sống" />
+    <TextStringDefinition InstanceID="0xFA9C28A4" TextString="Có thể đã dẫn đến sự kết thúc của một Sim khác, nhưng trời ơi, sự sống thật ngon lành!" />
+    <TextStringDefinition InstanceID="0x72379F47" TextString="Bản chất của Cảm hứng" />
+    <TextStringDefinition InstanceID="0xDE526981" TextString="Bản chất của Hạnh phúc" />
+    <TextStringDefinition InstanceID="0x5002E9FE" TextString="Bản chất của Sự tập trung" />
+    <TextStringDefinition InstanceID="0x13F797A7" TextString="Bản chất của Lãng mạn" />
+    <TextStringDefinition InstanceID="0xC81D442C" TextString="Bản chất của Năng lượng" />
+    <TextStringDefinition InstanceID="0xF4C0DC42" TextString="Bản chất của Sự xấu hổ " />
+    <TextStringDefinition InstanceID="0xAA4665F7" TextString="Bản chất của Sự tự tin" />
+    <TextStringDefinition InstanceID="0x750C40B9" TextString="Bản chất của Sự chán nản" />
+    <TextStringDefinition InstanceID="0xC678CB3E" TextString="Bản chất của Sự tức giận" />
+    <TextStringDefinition InstanceID="0x0470D62E" TextString="Khó chịu" />
+    <TextStringDefinition InstanceID="0x2C1EF269" TextString="Sợ hãi" />
+    <TextStringDefinition InstanceID="0xFB95B73C" TextString="Căng thẳng" />
+    <TextStringDefinition InstanceID="0x03673894" TextString="Bị căng thẳng" />
+    <TextStringDefinition InstanceID="0x5B283985" TextString="Choáng váng" />
+    <TextStringDefinition InstanceID="0xDF175DF8" TextString="Ngốc nghếch" />
+    <TextStringDefinition InstanceID="0xDFE8A891" TextString="Sợ sệt" />
+    <TextStringDefinition InstanceID="0x0E76F04B" TextString="Buồn bã" />
+    <TextStringDefinition InstanceID="0xCAE630E6" TextString="Hưng phấn" />
+    <TextStringDefinition InstanceID="0xD5642342" TextString="Nghịch ngợm" />
+    <TextStringDefinition InstanceID="0xF09A2756" TextString="Đam mê" />
+    <TextStringDefinition InstanceID="0x2DAAA49E" TextString="Xấu hổ" />
+    <TextStringDefinition InstanceID="0x56B52457" TextString="Khổ sở" />
+    <TextStringDefinition InstanceID="0x8707A47F" TextString="Tập trung cao độ" />
+    <TextStringDefinition InstanceID="0xA3D912FB" TextString="Cảm hứng" />
+    <TextStringDefinition InstanceID="0x07AEDF81" TextString="Sáng tạo" />
+    <TextStringDefinition InstanceID="0xDF14ECFF" TextString="Hốt hoảng" />
+    <TextStringDefinition InstanceID="0x40B16957" TextString="Nhục nhã" />
+    <TextStringDefinition InstanceID="0xD17CAB85" TextString="Hạnh phúc" />
+    <TextStringDefinition InstanceID="0x24EB32B2" TextString="Giận dữ" />
+    <TextStringDefinition InstanceID="0x5447468A" TextString="Tập trung" />
+    <TextStringDefinition InstanceID="0xBD037A9B" TextString="Thích tán tỉnh" />
+    <TextStringDefinition InstanceID="0xF954ECFE" TextString="Không sợ hãi" />
+    <TextStringDefinition InstanceID="0xCB77025D" TextString="Tức giận" />
+    <TextStringDefinition InstanceID="0x24E63780" TextString="Tràn đầy năng lượng" />
+    <TextStringDefinition InstanceID="0x543EA2F6" TextString="Xấu hổ" />
+    <TextStringDefinition InstanceID="0x9B05CA20" TextString="Phấn khởi" />

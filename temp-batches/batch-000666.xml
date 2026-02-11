@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xE38635F8" TextString="Chơi Bài Trong Một Giờ" />
+    <TextStringDefinition InstanceID="0xFA025EB9" TextString="Nhấp vào Bàn Bài và chọn một Sim để Chơi Bài Cùng. Hãy nhớ rằng, bạn phải có một người bạn chơi cùng!" />
+    <TextStringDefinition InstanceID="0x71677828" TextString="Chơi Một Ván Bài" />
+    <TextStringDefinition InstanceID="0xCBD56F78" TextString="Chọn bất kỳ Nhạc cụ nào và chọn bất kỳ tương tác luyện tập hay biểu diễn nào." />
+    <TextStringDefinition InstanceID="0x47815AB0" TextString="Chơi Bất Kỳ Nhạc Cụ Nào" />
+    <TextStringDefinition InstanceID="0xC1DA56AE" TextString="Đặt một Bông hoa, Trái cây, hoặc Rau củ vào thế giới, nhấp vào nó, và chọn Trồng. Chúng có thể được thu thập từ cây trồng và mua trực tiếp từ Chậu Cây hoặc trên Máy Tính." />
+    <TextStringDefinition InstanceID="0x26B5C2FD" TextString="Trồng Một Thứ Gì Đó" />
+    <TextStringDefinition InstanceID="0x01C3BBC6" TextString="Nhấp vào một Sim và chọn Đưa Ra Ý Tưởng Kịch Bản!" />
+    <TextStringDefinition InstanceID="0xF2D0B425" TextString="Đưa Ra Ý Tưởng Kịch Bản Cho Ai Đó" />
+    <TextStringDefinition InstanceID="0x726B5561" TextString="Nhấp vào Đàn Vĩ và chọn Viết Bài Hát. Những Sim có kỹ năng cao hơn có khả năng tạo ra những bài hát chất lượng cao hơn." />
+    <TextStringDefinition InstanceID="0xCDA4E74F" TextString="Viết Một Bài Hát Cho Đàn Vĩ" />
+    <TextStringDefinition InstanceID="0x6349723F" TextString="Nhấp vào Đàn Piano và chọn Viết Bài Hát. Những Sim có kỹ năng cao hơn có khả năng tạo ra những bài hát chất lượng cao hơn." />
+    <TextStringDefinition InstanceID="0xA8DFCF1D" TextString="Viết Một Bài Hát Cho Đàn Piano" />
+    <TextStringDefinition InstanceID="0x047F239A" TextString="Nhấp vào Đàn Guitar và chọn Viết Bài Hát. Những Sim có Kỹ năng Guitar cao hơn có khả năng tạo ra những bài hát chất lượng cao hơn." />
+    <TextStringDefinition InstanceID="0x52AA3FA8" TextString="Viết Một Bài Hát Cho Đàn Guitar" />
+    <TextStringDefinition InstanceID="0x04BE938A" TextString="Nhấp vào một Sim và chọn Làm Phiền Vui Vẻ từ danh mục Hài Hước. Các Sim có thể thực hiện Tương tác Xã hội này khi đang Vui Vẻ." />
+    <TextStringDefinition InstanceID="0x05E0B409" TextString="Làm Phiền Ai Đó" />
+    <TextStringDefinition InstanceID="0x145DCF7F" TextString="Đi đến Lounge bằng cách mở Bản Đồ Thế Giới và nhấp vào Địa Điểm. Khi đến nơi, nhấp vào Microphone để Biểu diễn Một Tiết Mục." />
+    <TextStringDefinition InstanceID="0xF84817C5" TextString="Biểu Diễn Hài Kịch Tại Lounge" />
+    <TextStringDefinition InstanceID="0x05F6E20E" TextString="Nhấp vào Microphone và chọn một Tiết Mục để Biểu diễn. Các Sim có thể mở khóa tương tác này bằng cách tăng Kỹ năng Hài Hước của họ sau khi Soạn thảo Một Tiết Mục trên Máy Tính." />
+    <TextStringDefinition InstanceID="0xFC6F74A1" TextString="Nhấp vào Microphone và chọn một Tiết Mục để Biểu diễn. Các Sim có thể mở khóa tương tác này bằng cách tăng Kỹ năng Hài Hước của họ sau khi Soạn thảo Một Tiết Mục trên Máy Tính." />
+    <TextStringDefinition InstanceID="0xB5512460" TextString="Kiếm được {0.Money} khi Biểu diễn Hài Kịch" />
+    <TextStringDefinition InstanceID="0xD1DF16BB" TextString="Những Người Hoàn Hảo như {1.SimFirstName} thích tạo ra những thứ tuyệt vời, như một Bức Tranh hoặc Bữa Ăn Ngon. Các cấp độ Kỹ năng cao hơn giúp Sim tạo ra những thứ tốt hơn." />
+    <TextStringDefinition InstanceID="0x6B420C1A" TextString="Tạo Ra Một Thứ Gì Đó Chất Lượng Xuất Sắc" />
+    <TextStringDefinition InstanceID="0x8908ED14" TextString="Nhấp vào Gương và chọn Tự Động Viên Bản Thân. Các Sim có thể mở khóa tương tác này khi đang Bối Rối." />
+    <TextStringDefinition InstanceID="0xFB69A946" TextString="Nhấp vào Gương và chọn Tự Động Viên Bản Thân. Các Sim có thể thực hiện tương tác này khi đang Buồn Bã." />
+    <TextStringDefinition InstanceID="0x0F931CA5" TextString="Tự Động Viên Trước Gương" />
+    <TextStringDefinition InstanceID="0x5F2E3F47" TextString="Nhấp vào {2.SimFirstName} và chọn WooHoo Với từ danh mục Lãng Mạn." />
+    <TextStringDefinition InstanceID="0x9DC76CCB" TextString="Nhấp vào {2.SimFirstName} và chọn Thử Cho Em Bé từ danh mục Lãng Mạn." />
+    <TextStringDefinition InstanceID="0x3C55DFB8" TextString="Nhấp vào {2.SimFirstName} và chọn Thử Cho Em Bé từ danh mục Lãng Mạn." />
+    <TextStringDefinition InstanceID="0x118186DB" TextString="Nhấp vào {2.SimFirstName} và chọn Hôn Môi từ danh mục Lãng Mạn." />
+    <TextStringDefinition InstanceID="0x06AF79DA" TextString="Nhấp vào {2.SimFirstName} và chọn Hôn Môi từ danh mục Lãng Mạn." />
+    <TextStringDefinition InstanceID="0xBD1A9931" TextString="Nhấp vào {2.SimFirstName} và chọn Hôn từ danh mục Lãng Mạn." />
+    <TextStringDefinition InstanceID="0x3C93739C" TextString="Nhấp vào {2.SimFirstName} và chọn Hôn từ danh mục Lãng Mạn." />
+    <TextStringDefinition InstanceID="0x88D8C7D9" TextString="Nhấp vào {2.SimFirstName} và chọn Ôm từ danh mục Lãng Mạn." />
+    <TextStringDefinition InstanceID="0x33157874" TextString="Nhấp vào {2.SimFirstName} và chọn Ôm từ danh mục Lãng Mạn." />
+    <TextStringDefinition InstanceID="0x843E8115" TextString="Nhấp vào {2.SimFirstName} và chọn một Tương tác Xã hội từ danh mục Lãng Mạn." />
+    <TextStringDefinition InstanceID="0x0C282FC6" TextString="Nhấp vào {2.SimFirstName} và chọn một Tương tác Xã hội từ danh mục Khó Chịu." />
+    <TextStringDefinition InstanceID="0x67B42EBC" TextString="Nhấp vào {2.SimFirstName} và chọn một Tương tác Xã hội từ danh mục Thân Thiện." />
+    <TextStringDefinition InstanceID="0xCB1EDC08" TextString="Nhấp vào {2.SimFirstName} và chọn Hỏi Thăm Ngày từ danh mục &quot;Thân Thiện&quot;." />
+    <TextStringDefinition InstanceID="0x2E1AD637" TextString="Hỏi {2.SimFirstName} về ngày của {M2.his}{F2.her}" />
+    <TextStringDefinition InstanceID="0xA53E35FD" TextString="Nhấp vào Bản Vẽ, chọn Tranh Siêu Thực, và chọn Kích Thước Tranh." />
+    <TextStringDefinition InstanceID="0x44E5CC0C" TextString="Vẽ Một Bức Tranh Siêu Thực" />
+    <TextStringDefinition InstanceID="0x21571937" TextString="Nhấp vào Bản Vẽ, chọn Phong Cách Tranh, và chọn Kích Thước Tranh." />
+    <TextStringDefinition InstanceID="0x94439706" TextString="Hoàn Thành Một Bức Tranh" />
+    <TextStringDefinition InstanceID="0xF7D1068B" TextString="Nhấp vào Bản Vẽ, chọn Tranh Chân Thực, và chọn Kích Thước Tranh." />
+    <TextStringDefinition InstanceID="0x4A1FDFAA" TextString="Vẽ Một Bức Tranh Chân Thực" />
+    <TextStringDefinition InstanceID="0x2FE8F28F" TextString="Nhấp vào Bản Vẽ, chọn Tranh Pop Art, và chọn Kích Thước Tranh." />
+    <TextStringDefinition InstanceID="0xFA623B6E" TextString="Vẽ Một Bức Tranh Pop Art" />
+    <TextStringDefinition InstanceID="0xEC71FCC7" TextString="Nhấp vào Bản Vẽ, chọn Phong Cách Tranh, và chọn Kích Thước Tranh. Các Sim có Kỹ năng Vẽ cao có khả năng tạo ra những bức tranh chất lượng cao hơn." />

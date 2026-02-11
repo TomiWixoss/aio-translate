@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xFED27919" TextString="Lập trình" />
+    <TextStringDefinition InstanceID="0x0D4C4270" TextString="Đàn ống" />
+    <TextStringDefinition InstanceID="0x998B37E3" TextString="Đàn piano" />
+    <TextStringDefinition InstanceID="0xD5BB5262" TextString="Nhiếp ảnh" />
+    <TextStringDefinition InstanceID="0xB2A78ADD" TextString="Huấn luyện thú cưng" />
+    <TextStringDefinition InstanceID="0xEBE49564" TextString="Làm cha mẹ" />
+    <TextStringDefinition InstanceID="0x2C69C207" TextString="Hội họa" />
+    <TextStringDefinition InstanceID="0x7D887AE6" TextString="Pha chế" />
+    <TextStringDefinition InstanceID="0x87ADCBE1" TextString="Nghịch ngợm" />
+    <TextStringDefinition InstanceID="0x442A0278" TextString="Logic" />
+    <TextStringDefinition InstanceID="0x99DA4018" TextString="Đánh giá đồ chơi" />
+    <TextStringDefinition InstanceID="0x2438EAB8" TextString="Văn hóa Selvadoradia" />
+    <TextStringDefinition InstanceID="0xC305D421" TextString="Thảo dược" />
+    <TextStringDefinition InstanceID="0xA6886F5A" TextString="Khéo léo" />
+    <TextStringDefinition InstanceID="0x44B7759B" TextString="Đàn guitar" />
+    <TextStringDefinition InstanceID="0x52B3C21C" TextString="Trồng trọt" />
+    <TextStringDefinition InstanceID="0xFF2C0CD5" TextString="Cắm hoa" />
+    <TextStringDefinition InstanceID="0x33AECDFE" TextString="Thể dục" />
+    <TextStringDefinition InstanceID="0xB474C5BF" TextString="Câu cá" />
+    <TextStringDefinition InstanceID="0x361C1DB0" TextString="DJ Pha nhạc" />
+    <TextStringDefinition InstanceID="0x70E9A159" TextString="Nhảy múa" />
+    <TextStringDefinition InstanceID="0x1AAAAE27" TextString="Đánh giá công nghệ" />
+    <TextStringDefinition InstanceID="0xCFA96386" TextString="Đánh giá làm đẹp" />
+    <TextStringDefinition InstanceID="0xD2CD3D2F" TextString="Các khách ở lại đã trở về nhà." />
+    <TextStringDefinition InstanceID="0x885B9BE0" TextString="Tìm hiểu thêm..." />
+    <TextStringDefinition InstanceID="0xE4B11BAD" TextString="Chào mừng đến với Kỳ nghỉ của bạn" />
+    <TextStringDefinition InstanceID="0xFF47848F" TextString="Lô đất này là nhà tạm thời cho tất cả các Sim trong Kỳ nghỉ này, hoàn chỉnh với một Lịch trình để dẫn dắt cuộc phiêu lưu phía trước. Mỗi ngày bao gồm các hoạt động chính và hoạt động vai trò, có thể xem hoặc điều chỉnh bất kỳ lúc nào từ bảng phía trên bên trái trong Chế độ Sống. Theo kế hoạch hay thoát ra, kết quả vẫn mang lại phần thưởng đặc biệt dựa trên cách Kỳ nghỉ diễn ra!\n\nChọn &lt;b&gt;Tìm hiểu thêm&lt;/b&gt; bên dưới để có một cái nhìn tổng quan nhanh!" />
+    <TextStringDefinition InstanceID="0x895799E9" TextString="Với một Luật Loại trừ đang hoạt động, một đặc điểm tính cách hoặc vật phẩm phần thưởng đã được trao! Kiểm tra kho đồ của Sim trong hộ gia đình hoặc bảng Simology để tìm hiểu thêm!" />
+    <TextStringDefinition InstanceID="0x5B3B05D4" TextString="Một phần thưởng đặc biệt từ Luật {0.String} đã được mở khóa! Kiểm tra kho đồ của Sim trong hộ gia đình hoặc Tường Thông báo để xem phần thưởng." />
+    <TextStringDefinition InstanceID="0xAAE23397" TextString="{0.SimFirstName} đã nhận được Điểm Thỏa mãn từ Kỳ nghỉ!" />
+    <TextStringDefinition InstanceID="0xCBEF82A2" TextString="Chúc mừng! Kỳ nghỉ đã kết thúc!" />
+    <TextStringDefinition InstanceID="0x9F183F9B" TextString="Kỳ nghỉ đã kết thúc do không đủ tiền cho hộ gia đình!" />
+    <TextStringDefinition InstanceID="0xD9CAF06F" TextString="{1.String}\n{2.String}" />
+    <TextStringDefinition InstanceID="0x15AE43A4" TextString="Kỳ nghỉ Hoàn thành!" />
+    <TextStringDefinition InstanceID="0xE87F5C9F" TextString="Với các Luật Kỳ nghỉ đang áp dụng, bạn đã kiếm được (các) phần thưởng sau:" />
+    <TextStringDefinition InstanceID="0x83FFB3F6" TextString="Tuyệt vời! Bạn đã hoàn thành nhiều Hoạt động Chính trong lịch trình Kỳ nghỉ này và nhận được (các) Đặc điểm Tính cách phần thưởng sau:" />
+    <TextStringDefinition InstanceID="0x1B1E2B45" TextString="Kỳ nghỉ Đã Kết thúc!" />
+    <TextStringDefinition InstanceID="0x5CF6BFC7" TextString="Kỳ nghỉ đã kết thúc vì có thay đổi đối với hộ gia đình hoặc loại lô đất hiện tại. Để lên lịch một Kỳ nghỉ khác, hãy đặt loại lô đất đủ điều kiện trong Chế độ Xây dựng." />
+    <TextStringDefinition InstanceID="0x761DBFDD" TextString="Kỳ nghỉ Sắp Kết thúc" />
+    <TextStringDefinition InstanceID="0x31F5BFBF" TextString="Chỉ còn {0.Number} {S0.hour}{P0.hours} nữa là Kỳ nghỉ này kết thúc. Có thể đã đến lúc chuẩn bị đồ và tạm biệt!" />
+    <TextStringDefinition InstanceID="0xE41B9FC8" TextString="Kỳ nghỉ Đang Kết thúc" />
+    <TextStringDefinition InstanceID="0xD689C8EE" TextString="Còn 1 ngày nữa trong Kỳ nghỉ này. Để gia hạn thời gian lưu trú, hãy sử dụng Điện thoại hoặc Máy tính và chọn Gia hạn Kỳ nghỉ." />
+    <TextStringDefinition InstanceID="0x724BFB13" TextString="Gia hạn Kỳ nghỉ" />
+    <TextStringDefinition InstanceID="0xFCF579E6" TextString="Chào mừng trở lại! Vẫn còn {1.Timespan} trong Kỳ nghỉ. Hãy tận dụng tối đa!" />
+    <TextStringDefinition InstanceID="0xAEC44182" TextString="Kỳ nghỉ kiếm được {1.Money} từ ngày trước. Thu nhập dựa trên:\n\n&lt;ul type=&quot;circle&quot;&gt; &lt;li&gt;Giá trị lô đất = {2.Money}&lt;/li&gt; &lt;li&gt;Số lượng Sim không thuộc hộ gia đình tham dự Kỳ nghỉ = Tổng cộng {3.Number} Sim&lt;/li&gt; &lt;/ul&gt; \nMột số khách đã rời đi sớm, do loại trừ hoặc tự nguyện, làm giảm nhẹ tổng thu nhập. Hãy nhớ: khách có khả năng rời đi và để lại tiền boa cao hơn khi họ cảm thấy được chăm sóc tốt và kết nối xã hội." />
+    <TextStringDefinition InstanceID="0x989DF073" TextString="Một Kỳ nghỉ kiếm được bạn {1.Money} từ ngày trước. Thu nhập dựa trên:\n\n&lt;ul type=&quot;circle&quot;&gt;&lt;li&gt;Giá trị lô đất = {2.Money}&lt;/li&gt;&lt;li&gt;Số lượng Sim không thuộc hộ gia đình tham dự Kỳ nghỉ = Tổng cộng {3.Number} Sim&lt;/li&gt; &lt;/ul&gt;\nHãy nhớ, những khách cảm thấy được chăm sóc tốt và kết nối xã hội có khả năng cao sẽ để lại cho bạn tiền boa!" />
+    <TextStringDefinition InstanceID="0x84FEB3F6" TextString="Một khoản phí Kỳ nghỉ hàng ngày là {1.Money} đã được khấu trừ từ quỹ hộ gia đình của bạn. Phí Kỳ nghỉ được tính dựa trên:\n\nGiá trị Lô đất = {2.Money}\nTổng Số Sim = {3.Number}" />
+    <TextStringDefinition InstanceID="0xD81C2CBA" TextString="Thu Nhập Kỳ nghỉ Giảm" />
+    <TextStringDefinition InstanceID="0xFF02511F" TextString="Thu Nhập Kỳ nghỉ" />
+    <TextStringDefinition InstanceID="0xA55E7E67" TextString="Không đủ Tiền" />

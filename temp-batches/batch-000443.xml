@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x62AF8FB7" TextString="Đi đi" />
+    <TextStringDefinition InstanceID="0x4F02B2D1" TextString="Lắng nghe {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x68DB3B73" TextString="Trò chuyện về WooHoo" />
+    <TextStringDefinition InstanceID="0xFB97E6BD" TextString="Lắng nghe lời khuyên về mối quan hệ" />
+    <TextStringDefinition InstanceID="0xA0F9661F" TextString="Đưa ra lời khuyên về mối quan hệ" />
+    <TextStringDefinition InstanceID="0xCCB713EB" TextString="Đưa ra lời khuyên hẹn hò" />
+    <TextStringDefinition InstanceID="0x59743BC6" TextString="Lắng nghe lời động viên" />
+    <TextStringDefinition InstanceID="0xC44231EE" TextString="Động viên" />
+    <TextStringDefinition InstanceID="0x4D2754A0" TextString="Lắng nghe mẹo đầu tư của {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xF4176050" TextString="Đưa ra mẹo đầu tư giả" />
+    <TextStringDefinition InstanceID="0x57299254" TextString="Nghe tin tức từ {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x6B4FD4A4" TextString="Đưa ra tin tức giả" />
+    <TextStringDefinition InstanceID="0x2A67EF67" TextString="Lừa đảo" />
+    <TextStringDefinition InstanceID="0x1E04B3FD" TextString="Lắng nghe mẹo nấu ăn" />
+    <TextStringDefinition InstanceID="0xCA76065F" TextString="Đưa ra mẹo nấu ăn" />
+    <TextStringDefinition InstanceID="0xF865EDA6" TextString="Bị {1.SimFirstName} xúc phạm" />
+    <TextStringDefinition InstanceID="0x697CD58E" TextString="Lạnh lùng" />
+    <TextStringDefinition InstanceID="0x104D5570" TextString="Mời gia nhập hộ gia đình" />
+    <TextStringDefinition InstanceID="0x7F0F2524" TextString="{0.SimFirstName} cần kết bạn tốt hơn với {1.SimFirstName}." />
+    <TextStringDefinition InstanceID="0xBFFE253F" TextString="Ồ, cảm ơn nhưng không cần đâu, cưng! Tớ đang rất vui với họ hàng Agnes của tớ, không nghĩ đến việc chuyển nhà." />
+    <TextStringDefinition InstanceID="0xA2DDA7F6" TextString="An ủi về cái chết" />
+    <TextStringDefinition InstanceID="0x9EA069E6" TextString="Làm quen với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x18CB8ACE" TextString="Làm quen" />
+    <TextStringDefinition InstanceID="0x5CA8BC36" TextString="Lắng nghe câu chuyện cười" />
+    <TextStringDefinition InstanceID="0x0A3066FE" TextString="Khoe về món bắt lớn nhất" />
+    <TextStringDefinition InstanceID="0x8CED77C0" TextString="Được thổi một nụ hôn" />
+    <TextStringDefinition InstanceID="0xF7ADED30" TextString="Thổi một nụ hôn" />
+    <TextStringDefinition InstanceID="0xE3967BCD" TextString="Thổi một nụ hôn e lệ" />
+    <TextStringDefinition InstanceID="0xBC631FFD" TextString="Lắng nghe {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xC42D8A5F" TextString="Quyến rũ" />
+    <TextStringDefinition InstanceID="0x4537AD65" TextString="Quyến rũ ai đó sẽ khiến họ vào tâm trạng thích thú!" />
+    <TextStringDefinition InstanceID="0x670A254E" TextString="Được xin đồ chơi" />
+    <TextStringDefinition InstanceID="0x8F7003F6" TextString="Xin đồ chơi mới" />
+    <TextStringDefinition InstanceID="0xC28CF3FA" TextString="Được xin tha thứ" />
+    <TextStringDefinition InstanceID="0x6FB80872" TextString="Xin tha thứ" />
+    <TextStringDefinition InstanceID="0x24B83069" TextString="Khuyến khích xin tha thứ" />
+    <TextStringDefinition InstanceID="0x22D171F6" TextString="Thả thính với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x2A19597E" TextString="Trở nên hấp dẫn" />
+    <TextStringDefinition InstanceID="0x189DF507" TextString="Trở nên lịch lãm" />
+    <TextStringDefinition InstanceID="0x7282D430" TextString="Trở thành bạn tội phạm với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xEC8C3FC0" TextString="Trở thành bạn tội phạm" />
+    <TextStringDefinition InstanceID="0x8775FE1E" TextString="{0.SimFirstName} và {1.SimFirstName} giờ là bạn tội phạm! Họ có thể lập kế hoạch chơi khăm cùng nhau và giải phóng sự nghịch ngợm bên trong." />
+    <TextStringDefinition InstanceID="0x0AFE0AE6" TextString="Lập kế hoạch chặn lớp học bằng cốc nước" />
+    <TextStringDefinition InstanceID="0x11822E0D" TextString="{0.SimFirstName} đã thực hiện trò chơi khăm này gần đây, và bạn học {F0.của cô ấy}{M0.của anh ấy} sẽ không ngạc nhiên." />
+    <TextStringDefinition InstanceID="0xC8C76CC8" TextString="Đùa cợt với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xD00668D8" TextString="Đùa cợt với bạn cũ" />
+    <TextStringDefinition InstanceID="0x32D0EBE4" TextString="Đùa cợt với bạn thân" />
+    <TextStringDefinition InstanceID="0x6ECB7828" TextString="Bị {1.SimFirstName} quyến rũ" />
+    <TextStringDefinition InstanceID="0x159A5578" TextString="Cố gắng quyến rũ" />
+    <TextStringDefinition InstanceID="0x552BEDD4" TextString="Bị {1.SimFirstName} quyến rũ" />

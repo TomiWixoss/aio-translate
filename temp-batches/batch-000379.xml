@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xBF331A18" TextString="Mua một Nhà Máy Bánh Kem từ Chế độ Xây dựng. Tìm nó trong danh mục Thiết bị." />
+    <TextStringDefinition InstanceID="0xF073AEC7" TextString="Mua Nhà Máy Bánh Kem" />
+    <TextStringDefinition InstanceID="0x786B9ACC" TextString="Mua một Máy tính từ Chế độ Xây dựng. Tìm nó trong Sắp xếp Phòng học!" />
+    <TextStringDefinition InstanceID="0x0240A21B" TextString="Mua Máy tính" />
+    <TextStringDefinition InstanceID="0x0104AB57" TextString="Mua một Bàn Cờ từ Chế độ Xây dựng. Tìm nó trong Sắp xếp Phòng học!" />
+    <TextStringDefinition InstanceID="0x8BD08A66" TextString="Mua Bàn Cờ" />
+    <TextStringDefinition InstanceID="0x429089B8" TextString="Mua một Ghế sofa hoặc Ghế từ Chế độ Xây dựng. Tìm chúng trong Sắp xếp Phòng khách!" />
+    <TextStringDefinition InstanceID="0xCF9C6521" TextString="Mua một Bàn chơi bài từ Chế độ Xây dựng. Tìm nó trong Sắp xếp Phòng học!" />
+    <TextStringDefinition InstanceID="0xEABFD5E0" TextString="Mua Bàn chơi bài" />
+    <TextStringDefinition InstanceID="0x1DD65A2C" TextString="Mua một Kệ sách từ Chế độ Xây dựng. Tìm nó trong Sắp xếp Phòng học!" />
+    <TextStringDefinition InstanceID="0x8E16AA3B" TextString="Mua Kệ sách" />
+    <TextStringDefinition InstanceID="0x07533F39" TextString="Mua một Cây bonsai  từ Chế độ Xây dựng. Tìm nó trong Sắp xếp Phòng học!" />
+    <TextStringDefinition InstanceID="0x77C5F9A8" TextString="Mua Cây bonsai" />
+    <TextStringDefinition InstanceID="0xF4E4035A" TextString="Mua một Giường từ Chế độ Xây dựng. Tìm nó trong Sắp xếp Phòng ngủ!" />
+    <TextStringDefinition InstanceID="0x8C5C1A0A" TextString="Công viên là một nơi tuyệt vời để phiêu lưu, chơi đùa và tiêu hao năng lượng tuổi trẻ. Nó thậm chí còn thú vị hơn khi có bạn bè! Đi đến một công viên gần đó và tham gia các hoạt động rèn luyện kỹ năng cho Sim Trẻ của bạn như Khu vui chơi, Bàn cờ hoặc Câu cá!" />
+    <TextStringDefinition InstanceID="0x00B93BB2" TextString="Chơi các trò chơi và hoạt động xây dựng kỹ năng khi ở Công viên" />
+    <TextStringDefinition InstanceID="0x124FF26B" TextString="Trẻ em học cách xây dựng các mối quan hệ đầu tiên thông qua thú bông của chúng. Bạn có biết bạn có thể làm đúng điều đó!? Đặt và tương tác với thú bông từ kho đồ của hộ gia đình và xây dựng đủ Tình bạn hoặc Sự ghét để sử dụng các tương tác Chơi tưởng tượng, Kể bí mật hoặc Đe dọa vứt bỏ.\n\nBạn sẽ chọn mang những kỷ niệm đẹp về Tình bạn vào tuổi thiếu niên hay bạn đã quá già cho những thứ như vậy và Ghét sự trẻ con của tất cả?" />
+    <TextStringDefinition InstanceID="0x5D090A39" TextString="Chơi tưởng tượng, Kể bí mật hoặc Đe dọa vứt bỏ Thú bông của bạn" />
+    <TextStringDefinition InstanceID="0xAAE6A984" TextString="Người ta nói một số bạn bè là quái vật. Và một số quái vật là bạn bè. Con quái vật dưới giường của bạn không đáng sợ! Hãy kết bạn với quái vật và sau đó tương tác với nó." />
+    <TextStringDefinition InstanceID="0x66E74774" TextString="Sau khi trở thành bạn bè, trò chuyện với Quái vật dưới giường" />
+    <TextStringDefinition InstanceID="0x096421CF" TextString="Thần Chết thực sự cần một người bạn. Sử dụng các tương tác thân thiện để cải thiện tình bạn với Grim.\n\n&lt;i&gt;(+35 Điểm Sự kiện)&lt;/i&gt;" />
+    <TextStringDefinition InstanceID="0x7D4DC665" TextString="Kết bạn và Giao tiếp với Thần Chết" />
+    <TextStringDefinition InstanceID="0x4AA03912" TextString="Làm cho Người tham dự cùng lúc Vui vẻ" />
+    <TextStringDefinition InstanceID="0xADCDD8CF" TextString="Làm cho Người tham dự cùng lúc Cảm hứng" />
+    <TextStringDefinition InstanceID="0x43A9978A" TextString="Làm cho Người tham dự cùng lúc Tập trung" />
+    <TextStringDefinition InstanceID="0xED3C446F" TextString="Làm cho Người tham dự cùng lúc Thích tán tỉnh" />
+    <TextStringDefinition InstanceID="0x9C014A54" TextString="Làm cho Người tham dự cùng lúc Tràn đầy năng lượng" />
+    <TextStringDefinition InstanceID="0xCB7EC237" TextString="Làm cho Người tham dự cùng lúc Tự tin" />
+    <TextStringDefinition InstanceID="0x36E1D675" TextString="Tâm trạng của người tham dự có thể bị ảnh hưởng theo nhiều cách, ví dụ thông qua Trang trí Cảm xúc, Thuyết trình cho họ, hoặc sử dụng Nhang hoặc Đốt Dầu." />
+    <TextStringDefinition InstanceID="0x0200CDEB" TextString="Chọn Người hướng dẫn trên một Người tham dự đang tham gia hoạt động xây dựng kỹ năng, hoặc Đề nghị Hướng dẫn trên một đối tượng xây dựng kỹ năng và chọn một Người tham dự để hướng dẫn." />
+    <TextStringDefinition InstanceID="0x43809528" TextString="Lắng nghe bài giảng trong 30 Phút" />
+    <TextStringDefinition InstanceID="0x4DA1650A" TextString="Sử dụng tương tác Lắng nghe Bài giảng trên Giảng viên Lớp Sở thích khi họ đang thuyết trình tại Bảng trắng." />
+    <TextStringDefinition InstanceID="0xE32F3CB2" TextString="Lắng nghe bài giảng trong 45 Phút" />
+    <TextStringDefinition InstanceID="0x38D3F568" TextString="Thuyết trình trong 45 Phút" />
+    <TextStringDefinition InstanceID="0x52172DB9" TextString="Thuyết trình trong 60 Phút" />
+    <TextStringDefinition InstanceID="0x9E8A7685" TextString="Chọn tương tác Giữ bài giảng hoặc Giữ bài giảng cho trên Bảng trắng mà Lớp Sở thích đã bắt đầu từ đó." />
+    <TextStringDefinition InstanceID="0xDC10E0A4" TextString="&lt;i&gt;Kỹ năng Trồng trọt đang phát triển, nhưng cần nhiều hơn là trồng vài thứ để thành công. Nuôi dưỡng nó thêm sẽ mở khóa khả năng Nghiên cứu kỹ năng và bón phân cho cây.&lt;/i&gt;\n\nBạn đã hoàn thành mục tiêu Giấc mơ và kiếm được 500 Simoleon làm phần thưởng!\n\nTiếp tục chơi để tiếp tục Giấc mơ!" />
+    <TextStringDefinition InstanceID="0x68DBFB9B" TextString="Bán những thứ bạn sở hữu là một cách nhanh chóng để kiếm Simoleon!\n\nBán thứ gì đó trong Chế độ Xây dựng bằng cách chọn nó và di chuyển đến phần Bán hoặc mở Kho đồ của bạn và kéo một đối tượng đến phần bán.\n\nNhấp chuột trái vào mục tiêu này để biết thêm thông tin" />
+    <TextStringDefinition InstanceID="0x44C153A9" TextString="Bán một Món đồ" />
+    <TextStringDefinition InstanceID="0xF4747B55" TextString="Sự nghiệp là một cách tuyệt vời để kiếm Simoleon!\n\nMở Bảng Sự nghiệp ở góc dưới bên phải hoặc nhấn J và Tham gia một Sự nghiệp!\n\nNhấp chuột trái vào mục tiêu này để biết thêm thông tin" />
+    <TextStringDefinition InstanceID="0x07432C3B" TextString="Có một sự nghiệp" />
+    <TextStringDefinition InstanceID="0x3F348AB5" TextString="Tắm bồn bong bóng, Kể chuyện cười, hoặc đốt Dầu lửa trại hoặc Nhang là những cách tốt để trở nên Vui vẻ." />
+    <TextStringDefinition InstanceID="0xAC30E69B" TextString="Trở nên Vui vẻ" />
+    <TextStringDefinition InstanceID="0x378844C8" TextString="Tắm suy tư, Duyệt nghệ thuật trên Máy tính, hoặc đốt Dầu thông hoặc Nhang là những cách tốt để trở nên Cảm hứng." />
+    <TextStringDefinition InstanceID="0xE5632600" TextString="Trở nên Cảm hứng" />
+    <TextStringDefinition InstanceID="0x7C8BBC99" TextString="Duyệt Simpedia trên Máy tính, Học một Phần tử hoặc Hóa thạch, hoặc đốt Dầu gỗ bạch dương hoặc Nhang là những cách tốt để trở nên Tập trung." />
+    <TextStringDefinition InstanceID="0x50BE58F7" TextString="Trở nên Tập trung" />
+    <TextStringDefinition InstanceID="0x4D0E9034" TextString="Tắm hơi, Tươi mới lại trước gương, hoặc đốt Dầu hoa tigon hoặc Nhang là những cách tốt để trở nên Thích tán tỉnh." />
+    <TextStringDefinition InstanceID="0xC4EA0C24" TextString="Trở nên Thích tán tỉnh" />
+    <TextStringDefinition InstanceID="0x36E3F5A3" TextString="Tắm nhanh, Uống cà phê, hoặc đốt Dầu hoa cúc tây hoặc Nhang là những cách tốt để trở nên Tràn đầy năng lượng." />

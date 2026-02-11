@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xF4780FFA" TextString="Tuyên bố làm Cha/Mẹ" />
+    <TextStringDefinition InstanceID="0xEB69ED5D" TextString="Cha/Mẹ sinh học" />
+    <TextStringDefinition InstanceID="0x322E4B21" TextString="Nếu bạn chọn tùy chọn này, một bí mật sẽ được tạo ra. Nếu nó bị lộ sau này, nó có thể gây ra một scandal!" />
+    <TextStringDefinition InstanceID="0xC0B3D352" TextString="Nếu bạn chọn tùy chọn này, một scandal có thể xảy ra, tiết lộ rằng đứa trẻ &lt;b&gt;không&lt;/b&gt; từ đối tác chính thức của bạn!" />
+    <TextStringDefinition InstanceID="0x708190FF" TextString="{0.String} ({1.String})" />
+    <TextStringDefinition InstanceID="0x13A36533" TextString="Anh chị em họ của Cha/Mẹ" />
+    <TextStringDefinition InstanceID="0xD9358465" TextString="Con của Anh chị em họ" />
+    <TextStringDefinition InstanceID="0x4770D84C" TextString="Con bí mật" />
+    <TextStringDefinition InstanceID="0x2D2A4F43" TextString="Con của Anh chị em họ" />
+    <TextStringDefinition InstanceID="0xBB117948" TextString="{0.SimName} đã học quá nhiều bí mật, {0.SimPronounSubjective} không thể theo dõi thêm nữa! Hãy chôn một số qua Môi giới thông tin trên PC hoặc đợi một số hết hạn để học thêm." />
+    <TextStringDefinition InstanceID="0x00A7D036" TextString="Quá nhiều bí mật" />
+    <TextStringDefinition InstanceID="0x869F1650" TextString="Không có vị trí có sẵn" />
+    <TextStringDefinition InstanceID="0x5362DAE7" TextString="{0.String} Triều đại" />
+    <TextStringDefinition InstanceID="0x27167176" TextString="{0.String} Triều đại\n&lt;font color='#EC262E'&gt;Đối thủ&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x60F2A808" TextString="{0.String} Triều đại\n&lt;font color='#199C2C'&gt;Đồng minh&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xA44E8642" TextString="Người thừa kế Triều đại" />
+    <TextStringDefinition InstanceID="0xAC4E92AC" TextString="Trưởng Triều đại" />
+    <TextStringDefinition InstanceID="0xAF7CA1BC" TextString="Kẻ bị ruồng bỏ của Triều đại" />
+    <TextStringDefinition InstanceID="0xBCE7E225" TextString="Giám đốc Sản xuất - Wonderland Playroom" />
+    <TextStringDefinition InstanceID="0x4509ED9A" TextString="Phó Chủ tịch &amp; Giám đốc Sản xuất" />
+    <TextStringDefinition InstanceID="0x6308C09C" TextString="Nghệ sĩ Concept Chính - Wonderland Playroom" />
+    <TextStringDefinition InstanceID="0x44985B37" TextString="Giám đốc Trải nghiệm Con người" />
+    <TextStringDefinition InstanceID="0x3AAFA493" TextString="Quản lý Thực hành Con người" />
+    <TextStringDefinition InstanceID="0x1FCD10BD" TextString="Bộ Wonderland Playroom cho The Sims™ 4 © 2026 Electronic Arts Inc." />
+    <TextStringDefinition InstanceID="0xBCE7E226" TextString="Giám đốc Sản xuất - Silver Screen Style" />
+    <TextStringDefinition InstanceID="0x6308C09F" TextString="Nghệ sĩ Concept Chính - Silver Screen Style" />
+    <TextStringDefinition InstanceID="0x1FCD10BE" TextString="Bộ Silver Screen Style cho The Sims™ 4 © 2026 Electronic Arts Inc." />
+    <TextStringDefinition InstanceID="0xBCE7E227" TextString="Giám đốc Sản xuất - Tea Time Solarium" />
+    <TextStringDefinition InstanceID="0x6308C09E" TextString="Nghệ sĩ Concept Chính - Tea Time Solarium" />
+    <TextStringDefinition InstanceID="0x1FCD10BF" TextString="Bộ Tea Time Solarium cho The Sims™ 4 © 2026 Electronic Arts Inc." />
+    <TextStringDefinition InstanceID="0xF6E4FAD1" TextString="{1.String}'s Cây gia phả đang được xem từ góc nhìn của {0.SimNameWithPrefix}. Các kết nối bí mật mà {0.SimFirstName} biết sẽ được hiển thị." />
+    <TextStringDefinition InstanceID="0x86072497" TextString="{0.String}'s Cây gia phả đang được xem từ góc nhìn của họ. Các kết nối bí mật mà họ biết sẽ được hiển thị." />
+    <TextStringDefinition InstanceID="0xEAE3FB85" TextString="Áo" />
+    <TextStringDefinition InstanceID="0x8063067F" TextString="Yên ngựa" />
+    <TextStringDefinition InstanceID="0xD9C2C839" TextString="Bề mặt" />
+    <TextStringDefinition InstanceID="0xBE8F615D" TextString="Gọi Sứ giả Hoàng gia" />
+    <TextStringDefinition InstanceID="0xB64E18FA" TextString="Không có cha/mẹ khác" />
+    <TextStringDefinition InstanceID="0xD66A6D77" TextString="Nếu bạn chọn tuyên bố rằng đứa trẻ không có cha/mẹ khác, một bí mật sẽ được tạo ra. Nếu nó bị lộ sau này, nó có thể gây ra một scandal!" />
+    <TextStringDefinition InstanceID="0x207C6BE8" TextString="Nếu bạn chọn tùy chọn này, một scandal có thể xảy ra, tiết lộ rằng đứa trẻ đến từ một Người yêu bí mật!" />
+    <TextStringDefinition InstanceID="0x63979C3F" TextString="Chỉnh sửa" />
+    <TextStringDefinition InstanceID="0x512EFCD0" TextString="Cần che giấu một bí mật? Hãy chôn nó qua Môi giới thông tin trên PC và không ai cần biết..." />
+    <TextStringDefinition InstanceID="0x502EFAA7" TextString="Bạn có biết không? Ở Ondarion, bạn có cơ hội cao hơn tìm thấy Ếch Quý tộc!" />
+    <TextStringDefinition InstanceID="0x4F2EF93A" TextString="Người dân Ondarion nói rằng làm chủ Kiếm thuật có thể cho phép bạn rút thanh Kiếm trong Đá." />
+    <TextStringDefinition InstanceID="0x4E2EF789" TextString="Người Sims kiêu ngạo có thể tránh đấu tay với bạn nếu bạn quá giỏi; tăng Charisma để cải thiện cơ hội của bạn." />
+    <TextStringDefinition InstanceID="0x4D2EF61C" TextString="Kiếm thuật là một nghệ thuật Quý tộc, vì vậy thua một trận đấu trước một Thường dân thật là scandal!" />
+    <TextStringDefinition InstanceID="0x4C2EF4F3" TextString="Các giải đấu Kiếm thuật Ondarion là những sự kiện uy tín với phần thưởng phi thường." />
+    <TextStringDefinition InstanceID="0x4B2EF346" TextString="Có ai đó đang tống tiền bạn? Đối mặt với họ bằng một trận đấu, thuyết phục họ dừng lại, hoặc có lẽ chỉ hy vọng họ chết sớm?" />
+    <TextStringDefinition InstanceID="0x4A2EF1D5" TextString="Môi giới thông tin bí ẩn; bạn có thể tự mình khám phá danh tính thực sự của họ không?" />
+    <TextStringDefinition InstanceID="0x492EEFA8" TextString="Một người Sims tự tin, vui vẻ hoặc tập trung có thể dễ dàng tống tiền một người Sims xấu hổ, căng thẳng hoặc khó chịu." />
+    <TextStringDefinition InstanceID="0x9666CCAD" TextString="Cửa sổ" />

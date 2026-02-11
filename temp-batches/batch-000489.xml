@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x3832AEC0" TextString="bookDisplayGENtantinh_01" />
+    <TextStringDefinition InstanceID="0xDC4ADC85" TextString="bookDisplayGENvientuong_01" />
+    <TextStringDefinition InstanceID="0xB79B6C5A" TextString="bookDisplayGENvientuong_01" />
+    <TextStringDefinition InstanceID="0x9F3A64E8" TextString="bookDisplayGENtrannangluong_01" />
+    <TextStringDefinition InstanceID="0xC25D987D" TextString="bookDisplayGENtrannangluong_01" />
+    <TextStringDefinition InstanceID="0xE695DF47" TextString="bookDisplayGENtutin_01" />
+    <TextStringDefinition InstanceID="0x73F69B28" TextString="bookDisplayGENtutin_01" />
+    <TextStringDefinition InstanceID="0xE8471862" TextString="bookDisplayGENtieusu_01" />
+    <TextStringDefinition InstanceID="0x46652533" TextString="bookDisplayGENtieusu_01" />
+    <TextStringDefinition InstanceID="0x06E25F97" TextString="bookDisplay_GENwerewolf_set3 Tên giữ chỗ" />
+    <TextStringDefinition InstanceID="0xBC9DE418" TextString="bookDisplay_GENwerewolf_set3 Mô tả giữ chỗ" />
+    <TextStringDefinition InstanceID="0x0726EDD2" TextString="bookDisplay_GENwerewolf_set2 Tên giữ chỗ" />
+    <TextStringDefinition InstanceID="0xCD2B1B83" TextString="bookDisplay_GENwerewolf_set2 Mô tả giữ chỗ" />
+    <TextStringDefinition InstanceID="0x649CED95" TextString="bookDisplay_GENwerewolf Tên giữ chỗ" />
+    <TextStringDefinition InstanceID="0xA9A0418A" TextString="bookDisplay_GENwerewolf Mô tả giữ chỗ" />
+    <TextStringDefinition InstanceID="0x060ADE12" TextString="Bộ sưu tập bị mất của Quý cà xanh" />
+    <TextStringDefinition InstanceID="0x8626DBC3" TextString="&lt;font color='#199C2C'&gt;Từ sự kiện Phần thưởng của Thần Chết&lt;/font&gt;\n\nTừng được cho là đã mất trong hỏa hoạn tại Điền trang Von Haunt năm 1898, cuốn luận văn này chứa bí mật chế tạo Ambrosia và dường như được chính Lady Mimsy Alcorn Shallot viết." />
+    <TextStringDefinition InstanceID="0x02D81972" TextString="Tất cả bạn bè của tôi đều là Fred" />
+    <TextStringDefinition InstanceID="0xB626EAA3" TextString="&quot;Vui vẻ và lại đúng như vậy.&quot; -Câu lạc bộ Sách SimTimes" />
+    <TextStringDefinition InstanceID="0x483C36E7" TextString="Kệ sách treo tường Ảo giác Trí tuệ" />
+    <TextStringDefinition InstanceID="0x4B901648" TextString="Tại sao phải chiếm nhiều không gian hơn cần thiết? Bộ kệ sách tối giản thực sự này chỉ bao gồm những món đồ cần thiết nhất. Bạn có thể tưởng tượng phần còn lại, nếu bạn muốn." />
+    <TextStringDefinition InstanceID="0x28BA58F3" TextString="bookcaseWall3x1_bm" />
+    <TextStringDefinition InstanceID="0xB060AF1C" TextString="bookcaseWall3x1_bm" />
+    <TextStringDefinition InstanceID="0xA96DD6CC" TextString="bookcaseWall2x1_bm" />
+    <TextStringDefinition InstanceID="0x22FC2AE9" TextString="bookcaseWall2x1_bm" />
+    <TextStringDefinition InstanceID="0x3512CC3F" TextString="Thư viện đầu tiên của tôi" />
+    <TextStringDefinition InstanceID="0xD6F06B10" TextString="Ồ, những nơi những cuốn sách này sẽ đến! Những kệ này sẽ ở đây để giữ sách của trẻ mới biết đi của bạn nếu chúng chưa bao giờ quay về nơi chúng thuộc về." />
+    <TextStringDefinition InstanceID="0x9941D516" TextString="Kệ LadderCase Sắc nét hơn" />
+    <TextStringDefinition InstanceID="0x35D11C4F" TextString="Kệ lấy cảm hứng, tạo ra vẻ ngoài thời trang có thể mở rộng đến không gian bất kỳ để phù hợp với sách, truyện tranh, chậu cây và đồ trang trí theo phong cách!\n\nPhải gắn vào tường, trừ khi một kệ treo là được, nhưng chúng tôi không nghĩ nó có thể đứng độc lập." />
+    <TextStringDefinition InstanceID="0x96396371" TextString="bookcaseWall1x1_bm" />
+    <TextStringDefinition InstanceID="0xFE18BC4E" TextString="bookcaseWall1x1_bm" />
+    <TextStringDefinition InstanceID="0x8CB6E415" TextString="Kệ sách Đối xứng Đơn giản" />
+    <TextStringDefinition InstanceID="0x282AF10A" TextString="Về hình dạng, hình chữ nhật khá được thờ ơ, nhưng trong trang trí đương đại, nó thực sự là vua. Lưu trữ linh hoạt, tủ không gọn gàng và sự hoàn hảo gọn gàng: tất cả đạt được thông qua hình chữ nhật và hình chữ nhật đơn thuần." />
+    <TextStringDefinition InstanceID="0x1F15EBDE" TextString="Mở khóa ở cấp 10 của sự nghiệp Nhà văn khi ở nhánh Nhà báo." />
+    <TextStringDefinition InstanceID="0x50DD1CD9" TextString="Mở khóa bằng cách đạt cấp 10 của sự nghiệp Nhà văn khi ở nhánh Nhà báo." />
+    <TextStringDefinition InstanceID="0x5229CFE5" TextString="Kệ sách Suy tư Sâu sắc" />
+    <TextStringDefinition InstanceID="0xD73B813A" TextString="Với bốn kệ sâu hơn và không gian cho những cuốn sách lộn xộn hơn trên cùng, kệ sách gỗ sồi chắc chắn này không dành cho người có trí tuệ hời hợt." />
+    <TextStringDefinition InstanceID="0x1E39BCB9" TextString="Mở khóa ở cấp 9 của sự nghiệp Nhà văn khi ở nhánh Tác giả." />
+    <TextStringDefinition InstanceID="0xB16F7522" TextString="Mở khóa bằng cách đạt cấp 9 của sự nghiệp Nhà văn khi ở nhánh Tác giả." />
+    <TextStringDefinition InstanceID="0x6F5A9CF6" TextString="Nguồn cảm hứng" />
+    <TextStringDefinition InstanceID="0x05028AAF" TextString="Cảm hứng đến trong nhiều hình dạng và kích cỡ, và vì vậy chúng tôi đã tạo ra Nguồn cảm hứng. Với bốn kệ sách tiêu chuẩn trên một ngăn cao hơn, Nguồn cảm hứng còn có hai ngăn kéo bí ẩn và hai tủ có cửa che, để che giấu những nguồn cảm hứng kém hơn của một người." />
+    <TextStringDefinition InstanceID="0x0C31A74B" TextString="Kệ sách Công chúa Cordelia" />
+    <TextStringDefinition InstanceID="0xE6CA4B84" TextString="Khi Công chúa Cordelia trốn đến tàu ngầm của mình, cô để lại hầu hết sách phía sau. Nhưng cô không thể chịu đựng việc trông có vẻ không học thức, và vì vậy cô đã cho xây dựng chiếc kệ sách này. Mặc dù có những chân cua tinh tế, nó thực sự được xây dựng chắc chắn để chịu được những xóc dịch thường xuyên trên biển." />
+    <TextStringDefinition InstanceID="0xE65F8105" TextString="Kệ sách Mega" />
+    <TextStringDefinition InstanceID="0xA376B5DA" TextString="Nếu chỉ có chỗ cho một món đồ nội thất cổ trong ngôi nhà của bạn, nó phải là một kệ sách. Có một cái gì đó vốn là cổ điển về chúng! Đó là lý do tại sao đội ngũ robot chính xác của chúng tôi được lập trình để đặt thêm sự chăm sóc vào từng chiếc kệ sách họ lắp ráp mỗi ngày." />
+    <TextStringDefinition InstanceID="0x39921614" TextString="Kệ sách Trẻ em" />
+    <TextStringDefinition InstanceID="0x599D3961" TextString="Thêm vui vẻ và màu sắc vào phòng của trẻ em với chiếc kệ sách thủ công từ Kindermade. Nó cung cấp kho lưu trữ tiện lợi cho thư viện đang phát triển của các bé." />
+    <TextStringDefinition InstanceID="0xC378A047" TextString="Kệ sách RAW" />
+    <TextStringDefinition InstanceID="0x98A5D628" TextString="Chiếc kệ lưu trữ được xây dựng chắc chắn từ PostRustic mang một chút phong cách công nghiệp đến bộ sưu tập sách của bạn." />
+    <TextStringDefinition InstanceID="0x2D0E1190" TextString="Kệ công nghiệp Étagère" />

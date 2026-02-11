@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x4EADE24A" TextString="Yêu cầu kỹ năng làm vườn cao hơn cho tương tác này." />
+    <TextStringDefinition InstanceID="0x56FB5A8A" TextString="Thực vật phân hủy" />
+    <TextStringDefinition InstanceID="0x106D43BC" TextString="Bón phân tất cả" />
+    <TextStringDefinition InstanceID="0x28DC7094" TextString="Bón phân" />
+    <TextStringDefinition InstanceID="0x0F17B3D2" TextString="Cây này đã được bón phân gần đây." />
+    <TextStringDefinition InstanceID="0x94CFE576" TextString="Yêu cầu kỹ năng làm vườn cấp 3" />
+    <TextStringDefinition InstanceID="0x31509285" TextString="{0.SimFirstName} không có phân bón trong túi đồ của {M0.his}{F0.her}! Tìm một số sản phẩm nông nghiệp hoặc cá để bón phân.&#xD;&#xA;" />
+    <TextStringDefinition InstanceID="0x353937E4" TextString="Việc bổ sung dinh dưỡng cho cây sẽ tăng khả năng tiến hóa của nó; phân càng tốt thì mức tăng càng cao." />
+    <TextStringDefinition InstanceID="0x83299D8F" TextString="Đang bón phân cho cây" />
+    <TextStringDefinition InstanceID="0x86E776F8" TextString="(Từ việc ăn nấm cay)" />
+    <TextStringDefinition InstanceID="0x5CAF0B79" TextString="Ăn {1.ObjectName}" />
+    <TextStringDefinition InstanceID="0xFFE25A4B" TextString="Mua hạt giống vườn" />
+    <TextStringDefinition InstanceID="0x81F03986" TextString="Mở túi đồ của Sim" />
+    <TextStringDefinition InstanceID="0xBCE2C8FE" TextString="(Từ việc thích làm vườn)" />
+    <TextStringDefinition InstanceID="0xCB2A2163" TextString="(Từ việc không thích làm vườn)" />
+    <TextStringDefinition InstanceID="0x4C019B2A" TextString="Thẻ bài" />
+    <TextStringDefinition InstanceID="0xB2DC2672" TextString="Thử thách" />
+    <TextStringDefinition InstanceID="0xE4270EA5" TextString="Thách đấu Sim" />
+    <TextStringDefinition InstanceID="0x47390016" TextString="Mắc kẹt trong nhà máy Cube tương lai. Không thể ra ngoài. Hãy gửi giúp đỡ." />
+    <TextStringDefinition InstanceID="0x1D376875" TextString="Không phải hôm nay, nhà vô địch." />
+    <TextStringDefinition InstanceID="0x761FF54F" TextString="Điều đó không quan trọng. Quan trọng là bạn là nhà vô địch! Hãy kiên cường, nhà vô địch." />
+    <TextStringDefinition InstanceID="0x4D95B4DE" TextString="Không chỉ là có, mà là CÓ!" />
+    <TextStringDefinition InstanceID="0x7B52434F" TextString="Chắc chắn là vậy." />
+    <TextStringDefinition InstanceID="0xBABEB7A1" TextString="Nếu tôi nói 'có' thì bạn sẽ đi sao?" />
+    <TextStringDefinition InstanceID="0x050FD514" TextString="Tối tăm. Tất cả trông thật tối tăm từ trong này." />
+    <TextStringDefinition InstanceID="0x3F552658" TextString="Vui quá! Làm lại đi!" />
+    <TextStringDefinition InstanceID="0xF6AAA4C9" TextString="Tôi đoán vậy." />
+    <TextStringDefinition InstanceID="0x00873B5C" TextString="Có thể có... có thể không. Chắc chắn, một cách nào đó, có thể vậy." />
+    <TextStringDefinition InstanceID="0x3195DCE4" TextString="Không. Không. Không." />
+    <TextStringDefinition InstanceID="0xB4C49D5A" TextString="Đừng ngốc. Tất nhiên là không." />
+    <TextStringDefinition InstanceID="0x3BCB8704" TextString="Mọi thứ sẽ ổn thôi. Tôi hứa." />
+    <TextStringDefinition InstanceID="0x0CE6E323" TextString="Ồ! Bạn có nhiều thứ để mong đợi!" />
+    <TextStringDefinition InstanceID="0xCEFC7580" TextString="Mọi thứ trông thật vô vọng. Thôi thì!" />
+    <TextStringDefinition InstanceID="0x29E0EFE1" TextString="Dừng lại! Đừng lắc tôi!" />
+    <TextStringDefinition InstanceID="0x52409029" TextString="Ha ha ha ha! Không." />
+    <TextStringDefinition InstanceID="0xA95DD501" TextString="Khối lập phương tồn tại." />
+    <TextStringDefinition InstanceID="0xCA3EEAE6" TextString="Hỏi về Bí ẩn Khoa học" />
+    <TextStringDefinition InstanceID="0x28E4541E" TextString="Những bí ẩn của vũ trụ sẽ vẫn được giấu kín..." />
+    <TextStringDefinition InstanceID="0x1F5C4FA0" TextString="Những bí ẩn của vũ trụ sẽ được tiết lộ qua nghiên cứu!" />
+    <TextStringDefinition InstanceID="0x526785A4" TextString="Hỏi về Đời tình cảm" />
+    <TextStringDefinition InstanceID="0xCE7B75C4" TextString="Tương lai tình cảm của bạn trông không tươi sáng!" />
+    <TextStringDefinition InstanceID="0x1D9A6455" TextString="Tương lai không chắc chắn, hãy kiểm tra lại sau." />
+    <TextStringDefinition InstanceID="0xBFE2899E" TextString="Tình yêu tương lai của bạn trông sáng chói đến mức chói mắt! Thật sự... ôi đau." />
+    <TextStringDefinition InstanceID="0xFA283E8D" TextString="Hỏi để lấy ý tưởng Sáng tạo" />
+    <TextStringDefinition InstanceID="0xFAD604DE" TextString="Nguồn cảm hứng của bạn không ở đâu cả..." />
+    <TextStringDefinition InstanceID="0xED0D1660" TextString="Cảm hứng sẽ đến với bạn sớm thôi!" />
+    <TextStringDefinition InstanceID="0xDF17D86A" TextString="Dọn dẹp" />
+    <TextStringDefinition InstanceID="0xB2321337" TextString="Dọn đồ ăn hỏng" />
+    <TextStringDefinition InstanceID="0x74C1C862" TextString="Lục lạo" />
+    <TextStringDefinition InstanceID="0x3E508B63" TextString="Nâng cấp hoàn tất!\n\n{0.SimFirstName} đã hoàn thành việc cài đặt nâng cấp khung hình kỹ thuật số." />

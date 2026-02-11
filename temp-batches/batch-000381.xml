@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x9F39E1DC" TextString="Sử dụng nút Về Nhà trên ảnh đại diện của Sim ở góc dưới màn hình" />
+    <TextStringDefinition InstanceID="0xC303173C" TextString="Về Nhà" />
+    <TextStringDefinition InstanceID="0x9E244588" TextString="Foundry Cove là một khu phố ở Willow Creek, gần góc dưới bên phải của Bản đồ. Đi đến một lô đất ở đó." />
+    <TextStringDefinition InstanceID="0xBB880A50" TextString="Kiếm được {0.Money}" />
+    <TextStringDefinition InstanceID="0xFF0C0BAA" TextString="Tìm một cách trung thực (hoặc không) để kiếm 10,000 Simoleon và chứng minh với bà ngoại rằng bạn có thể đóng góp cho gia đình.\n\nSim có thể kiếm tiền từ sự nghiệp, bán đồ tự chế, và các tương tác kỹ năng khác." />
+    <TextStringDefinition InstanceID="0x90B1B7D2" TextString="Kiếm 10,000 Simoleon" />
+    <TextStringDefinition InstanceID="0x3E741EF5" TextString="Có {0.Money}" />
+    <TextStringDefinition InstanceID="0xE9CF5926" TextString="Đôi khi phụ huynh chỉ cần kết nối lại với con tuổi teen. Tăng mối quan hệ bằng cách thực hiện Tương tác Thân thiện và không có tâm trạng tiêu cực." />
+    <TextStringDefinition InstanceID="0xC21EFBD6" TextString="Sửa chữa mối quan hệ với con tuổi teen và trở thành Bạn Thân" />
+    <TextStringDefinition InstanceID="0xFA834E84" TextString="Trở thành Bạn Thân" />
+    <TextStringDefinition InstanceID="0x2A108E37" TextString="Sử dụng tương tác Thân thiện và Hài hước với ai đó cho đến khi trở thành bạn thân" />
+    <TextStringDefinition InstanceID="0x2C38F0BA" TextString="Nói chuyện với Leonardo và Sofia về Trường học" />
+    <TextStringDefinition InstanceID="0xD6239196" TextString="Nhấp vào trẻ em và chọn Hỏi về Trường học " />
+    <TextStringDefinition InstanceID="0x0EF33E29" TextString="Giúp trẻ em với bài tập về nhà" />
+    <TextStringDefinition InstanceID="0x0E17D621" TextString="Trong khi trẻ em đang làm bài tập, nhấp vào chúng và chọn &quot;Giúp với Bài tập&quot;" />
+    <TextStringDefinition InstanceID="0x1FCD99CC" TextString="Nói chuyện với Con cái" />
+    <TextStringDefinition InstanceID="0x51B3E5BC" TextString="Nhấp vào một đứa trẻ và thử tương tác &quot;Thân thiện&quot; hoặc &quot;Hài hước&quot;" />
+    <TextStringDefinition InstanceID="0xF3E236F8" TextString="Cải thiện mối quan hệ lãng mạn với một Sim cho đến khi các tương tác Woohoo xuất hiện, rồi hỏi Sim đó có muốn Woohoo không" />
+    <TextStringDefinition InstanceID="0x9DFCBEA5" TextString="Woohoo với Ai Đó" />
+    <TextStringDefinition InstanceID="0x0ED99EA8" TextString="Tương tác với những Sim bạn đã gặp và sử dụng tương tác đùa cợt trong danh mục Hài hước" />
+    <TextStringDefinition InstanceID="0x0EB89E59" TextString="Kể Chuyện Vui" />
+    <TextStringDefinition InstanceID="0x72BE8675" TextString="Tương tác với một hàng xóm bên cửa và mời họ vào" />
+    <TextStringDefinition InstanceID="0x531EC75D" TextString="Mời Hàng xóm" />
+    <TextStringDefinition InstanceID="0x3ED832F0" TextString="Tìm hiểu về Ai Đó" />
+    <TextStringDefinition InstanceID="0x8EF38A83" TextString="Nấu Nồi Lẩu Ếch Sôi" />
+    <TextStringDefinition InstanceID="0x6DE2A756" TextString="Vẽ tranh khi Tức giận, Tự tin, Thích tán tỉnh, Vui vẻ, hoặc Buồn là một cách giải tỏa cảm xúc tuyệt vời cho Sim của bạn!\n\nĐặt giá vẽ từ kho đồ của Sim và vẽ với cảm xúc!" />
+    <TextStringDefinition InstanceID="0x45D0C1C6" TextString="Tạo ra {0.Number} bức tranh {S0.painting}{P0.paintings} mang cảm xúc" />
+    <TextStringDefinition InstanceID="0x126427BD" TextString="Một món nướng ngon cần có sườn tốt... nhưng Sườn Xuất sắc còn tốt hơn.\n\nYêu cầu: Nấu ăn cấp 7" />
+    <TextStringDefinition InstanceID="0x193DA033" TextString="Làm Món Sườn Nướng BBQ Chất lượng Xuất sắc trên Bếp nướng" />
+    <TextStringDefinition InstanceID="0x6316F379" TextString="Cá xuất sắc quan trọng để khách của bạn có nhiều lựa chọn hơn!\n\nYêu cầu: Nấu ăn cấp 5" />
+    <TextStringDefinition InstanceID="0xEC3B7E57" TextString="Làm Món Cá Chiên Xuất sắc" />
+    <TextStringDefinition InstanceID="0xC230DCF6" TextString="Nhấp vào Tủ lạnh hoặc Bếp, chọn Nấu, và chọn công thức từ danh sách." />
+    <TextStringDefinition InstanceID="0x1C5CBC66" TextString="Nấu Acarajé, Pão de Queijo, hoặc Brigadeiro cùng với ít nhất một Sim khác" />
+    <TextStringDefinition InstanceID="0x02F1C852" TextString="Có §25,000 và Sim đạt cấp 5 trong bất kỳ kỹ năng nào" />
+    <TextStringDefinition InstanceID="0x4876B904" TextString="Sim có thể cố vấn cho người khác hoặc viết Sách Kỹ năng để truyền đạt kiến thức." />
+    <TextStringDefinition InstanceID="0xAE9E45F4" TextString="Sim đạt tối đa một kỹ năng, cố vấn cho teen 5 lần, là BFF với người được cố vấn và viết một cuốn sách kỹ năng." />
+    <TextStringDefinition InstanceID="0x9A3DF8B1" TextString="Sim với Khát vọng Tri thức sẽ học kỹ năng nhanh hơn và tiến độ kỹ năng có thể giúp hoàn thành Khát vọng." />
+    <TextStringDefinition InstanceID="0xF967ED3F" TextString="Sim hoàn thành một Khát vọng, có 5 bạn bè và ở cấp 10 trong 3 kỹ năng" />
+    <TextStringDefinition InstanceID="0xA1918C76" TextString="Sim kiếm được nhiều Simoleon hơn khi được thăng chức! Sim có thể trở thành Kẻ xấu bằng cách chọn nhánh Kẻ xấu khi đủ thăng chức như một Secret Agent." />
+    <TextStringDefinition InstanceID="0xCE819AE6" TextString="Có 500,000 Simoleon khi đang ở nhánh Kẻ xấu của sự nghiệp Secret Agent" />
+    <TextStringDefinition InstanceID="0x92393317" TextString="Một Sim tiến vào nhánh Diễn viên hài và là Đồng tâm hồn với Sim đối tác ban đầu" />
+    <TextStringDefinition InstanceID="0x3EFBAA12" TextString="Tham gia Sự nghiệp Giải trí và tiến vào Nhánh Diễn viên hài" />
+    <TextStringDefinition InstanceID="0xEFA82F6A" TextString="Một Sim tiến vào nhánh Diễn viên hài nhưng đối tác ban đầu của họ đã dọn đi hoặc đã mất" />
+    <TextStringDefinition InstanceID="0xCA927B50" TextString="Một Sim trở thành Diễn viên hài và đưa mối quan hệ lãng mạn ban đầu lên Tình nhân hoặc tốt hơn" />
+    <TextStringDefinition InstanceID="0x65346E97" TextString="Phụ huynh Tự hào" />
+    <TextStringDefinition InstanceID="0x830A2973" TextString="Hoàn thành tất cả mục tiêu khi sống cuộc đời PlantSim! Trồng vườn, duy trì nhu cầu độc nhất, kết nối xã hội với thực vật và quang hợp để thu hoạnh cây hoàn hảo!&#xD;&#xA;" />
+    <TextStringDefinition InstanceID="0x0A7EB551" TextString="Sống Cuộc đời PlantSim" />
+    <TextStringDefinition InstanceID="0x5C3FFD01" TextString="Thỏa thuận với một Sim Gian xảo khác và trở thành Tòng phạm, rồi Lập kế hoạch cho một trò đùa với Tòng phạm của bạn" />
+    <TextStringDefinition InstanceID="0x9DC4F00F" TextString="Teen đã thực hiện ít nhất 1 trò đùa ở trường thành công" />
+    <TextStringDefinition InstanceID="0xB2F0881D" TextString="Bạn Bạn Ếch" />

@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x01D588ED" TextString="Chọn một mẫu in rồi di chuột qua khu vực bạn muốn sơn để xem điểm nổi bật và các mẫu có sẵn dễ dàng!" />
+    <TextStringDefinition InstanceID="0x43AD333C" TextString="Xem trước mẫu in - P" />
+    <TextStringDefinition InstanceID="0xD4638091" TextString="Cỡ cọ - [ và ]" />
+    <TextStringDefinition InstanceID="0x88B7CFDA" TextString="Cỡ cọ" />
+    <TextStringDefinition InstanceID="0x2B014D3E" TextString="Xoay cọ - ; và '" />
+    <TextStringDefinition InstanceID="0x1D8791B9" TextString="Xoay cọ" />
+    <TextStringDefinition InstanceID="0x7B3F924E" TextString="Xoay cọ bị vô hiệu hóa trong thẻ Mẫu in" />
+    <TextStringDefinition InstanceID="0x5928A83C" TextString="Độ trong suốt" />
+    <TextStringDefinition InstanceID="0x8053E478" TextString="Xem bài học Sơn Người sói trong Menu Tùy chọn để biết thêm thông tin về việc sử dụng Chế độ Sơn trên Người sói!" />
+    <TextStringDefinition InstanceID="0x04F21C5A" TextString="Xem bài học Tạo Tiên trong Menu Tùy chọn để biết thêm thông tin về việc sử dụng Chế độ Sơn trên Cánh!" />
+    <TextStringDefinition InstanceID="0x042E510D" TextString="Xem bài học Công cụ Xăm hình Nâng cao trong danh mục Doanh nghiệp &amp; Sở thích trong Menu Tùy chọn để biết thêm thông tin về Chế độ Sơn." />
+    <TextStringDefinition InstanceID="0x16B18E56" TextString="Xem các bài học trong Menu Tùy chọn để biết thêm thông tin về Việc Sơn Thú cưng!" />
+    <TextStringDefinition InstanceID="0x7262A4D9" TextString="Cọ sơn - B" />
+    <TextStringDefinition InstanceID="0xC24713E1" TextString="Sơn Gương - M" />
+    <TextStringDefinition InstanceID="0x137E9F88" TextString="Hiện/Ẩn Mặt nạ Sơn" />
+    <TextStringDefinition InstanceID="0x86D916CD" TextString="Cây lấy màu - E" />
+    <TextStringDefinition InstanceID="0x409EEF4D" TextString="Cạo - R" />
+    <TextStringDefinition InstanceID="0xF0424330" TextString="Đầm ngắn" />
+    <TextStringDefinition InstanceID="0x78515A10" TextString="Đầm dài" />
+    <TextStringDefinition InstanceID="0x432E6E63" TextString="Râu mép" />
+    <TextStringDefinition InstanceID="0x99993AEB" TextString="Râu dê" />
+    <TextStringDefinition InstanceID="0x56F7B75B" TextString="Râu" />
+    <TextStringDefinition InstanceID="0xDABA4E99" TextString="Váy" />
+    <TextStringDefinition InstanceID="0x05481CB4" TextString="Quần đùi" />
+    <TextStringDefinition InstanceID="0xFA2CAC6D" TextString="Quần dài" />
+    <TextStringDefinition InstanceID="0x660787DA" TextString="Quần jean" />
+    <TextStringDefinition InstanceID="0x5117D86C" TextString="Lưu Hình xăm" />
+    <TextStringDefinition InstanceID="0x6EAE57AC" TextString="Không có Hình xăm trong ô đã chọn." />
+    <TextStringDefinition InstanceID="0x3FC3518C" TextString="Xóa lớp" />
+    <TextStringDefinition InstanceID="0xE2B146CC" TextString="Bạn phải giữ ít nhất một lớp." />
+    <TextStringDefinition InstanceID="0x347932AA" TextString="Tùy chỉnh thiết kế của bạn với Công cụ Sơn." />
+    <TextStringDefinition InstanceID="0x09D3FDDB" TextString="Đã đạt giới hạn Hình xăm Tùy chỉnh trong lưu hiện tại. Hãy cân nhắc xóa các Hình xăm Tùy chỉnh hiện có trong lưu." />
+    <TextStringDefinition InstanceID="0x31BE925D" TextString="Di chuyển lên" />
+    <TextStringDefinition InstanceID="0x59D053E5" TextString="Lớp đã chọn đã ở trên cùng." />
+    <TextStringDefinition InstanceID="0x26260F6C" TextString="Di chuyển xuống" />
+    <TextStringDefinition InstanceID="0x02EC6EAC" TextString="Lớp đã chọn đã ở dưới cùng." />
+    <TextStringDefinition InstanceID="0xA1A50A11" TextString="Thêm lớp" />
+    <TextStringDefinition InstanceID="0x478A35B9" TextString="Đã đạt số lớp tối đa" />
+    <TextStringDefinition InstanceID="0x5117ADD6" TextString="Chế độ Sơn" />
+    <TextStringDefinition InstanceID="0xB1389638" TextString="Tìm kiếm Giống" />
+    <TextStringDefinition InstanceID="0x1C8FB396" TextString="Mở Trộn giống" />
+    <TextStringDefinition InstanceID="0xDDB46C00" TextString="Đóng Trộn giống" />
+    <TextStringDefinition InstanceID="0xA2372349" TextString="Trộn giống" />
+    <TextStringDefinition InstanceID="0xDD1A0818" TextString="Ngẫu nhiên Trộn giống" />
+    <TextStringDefinition InstanceID="0xD93AAD4B" TextString="Chọn một Giống" />
+    <TextStringDefinition InstanceID="0x0425D53C" TextString="Ngực" />
+    <TextStringDefinition InstanceID="0xDB87FEAF" TextString="Bụng" />
+    <TextStringDefinition InstanceID="0xF088A7AA" TextString="Lưng trên" />
+    <TextStringDefinition InstanceID="0x81388225" TextString="Lưng dưới" />
+    <TextStringDefinition InstanceID="0x25E87940" TextString="Chân phải" />

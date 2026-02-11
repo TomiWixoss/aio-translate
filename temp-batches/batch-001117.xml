@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x6D285154" TextString="(Từ Đặc điểm Hoạt động)" />
+    <TextStringDefinition InstanceID="0x816ECBB7" TextString="(Từ Thai kỳ)" />
+    <TextStringDefinition InstanceID="0xAAED6ACA" TextString="(Từ Đặc điểm Vui tính)" />
+    <TextStringDefinition InstanceID="0x5B55EA90" TextString="(Từ Đặc điểm Yêu thiên nhiên)" />
+    <TextStringDefinition InstanceID="0x01720E71" TextString="(Từ Đặc điểm Lãng mạn)" />
+    <TextStringDefinition InstanceID="0xE8740883" TextString="(Từ Đặc điểm U ám)" />
+    <TextStringDefinition InstanceID="0xC2AAF3B9" TextString="(Từ Đặc điểm Sáng tạo)" />
+    <TextStringDefinition InstanceID="0x734A370A" TextString="(Từ Đặc điểm Nóng tính)" />
+    <TextStringDefinition InstanceID="0xF2ADAF65" TextString="(Từ Nỗi sợ trượt thi)" />
+    <TextStringDefinition InstanceID="0x91D1923D" TextString="(Từ Xem nghệ thuật)" />
+    <TextStringDefinition InstanceID="0xC38A13A5" TextString="(Từ Chiến thắng Hiệu ứng Mật độ)" />
+    <TextStringDefinition InstanceID="0x4396CE93" TextString="(Từ Chiến thắng Lời Nguyện Thần Dạ)" />
+    <TextStringDefinition InstanceID="0x6806CD5C" TextString="(Từ Là Người Thua Cuộc Khó Chịu)" />
+    <TextStringDefinition InstanceID="0x795A6C40" TextString="(Từ Chiến thắng MySims Racing)" />
+    <TextStringDefinition InstanceID="0xE1FCF8B8" TextString="(Từ Thua MySims Racing)" />
+    <TextStringDefinition InstanceID="0x91AC9E7A" TextString="(Từ Chiến thắng Party Frenzy)" />
+    <TextStringDefinition InstanceID="0x2A2D8522" TextString="(Từ Thua Party Frenzy)" />
+    <TextStringDefinition InstanceID="0xE5490FE2" TextString="{0.SimFirstName} đột nhiên cảm thấy dạ dày khó chịu nghiêm trọng! {M0.Anh ấy}{F0.Cô ấy} có thể đã ăn thứ gì đó làm từ thịt." />
+    <TextStringDefinition InstanceID="0x0FAE3136" TextString="(Từ Ăn Thực phẩm Chay ngon)" />
+    <TextStringDefinition InstanceID="0x1917611D" TextString="(Từ Ăn Thực phẩm có Tỏi)" />
+    <TextStringDefinition InstanceID="0x570CF533" TextString="(Từ Khi Xa Nhà)" />
+    <TextStringDefinition InstanceID="0xDC22AE70" TextString="(Từ Giải thoát Linh hồn)" />
+    <TextStringDefinition InstanceID="0x248A3116" TextString="(Từ Đề nghị Kết hôn)" />
+    <TextStringDefinition InstanceID="0x44EF00E8" TextString="(Từ Đặc điểm Rùng rợn)" />
+    <TextStringDefinition InstanceID="0xDA5456C4" TextString="(Từ Xem TV)" />
+    <TextStringDefinition InstanceID="0xC9D7C5FB" TextString="(Từ Thảo luận Chế độ ăn chay với Người chay)" />
+    <TextStringDefinition InstanceID="0x1C5A0F40" TextString="(Từ Hoang dã)" />
+    <TextStringDefinition InstanceID="0xE5B225D2" TextString="(Từ Hoang dã)" />
+    <TextStringDefinition InstanceID="0xA67B660E" TextString="(Từ Khi Ở gần Trẻ nhỏ Khó chiều)" />
+    <TextStringDefinition InstanceID="0x251AF4C0" TextString="(Từ Được Ôm)" />
+    <TextStringDefinition InstanceID="0x84177832" TextString="(Từ Sử dụng Bụi cây Bẩn)" />
+    <TextStringDefinition InstanceID="0x326B4066" TextString="(Từ Đặc điểm Không ổn định)" />
+    <TextStringDefinition InstanceID="0xDB01B210" TextString="(Từ Giai điệu của Người thổi sáo)" />
+    <TextStringDefinition InstanceID="0x8D70ADC0" TextString="(Từ Công việc Không hoàn hảo)" />
+    <TextStringDefinition InstanceID="0xDCC53578" TextString="(Từ Những Sáng tạo Xuất sắc)" />
+    <TextStringDefinition InstanceID="0x1EADA123" TextString="(Từ Đặc điểm Cú đêm)" />
+    <TextStringDefinition InstanceID="0xEC89C85A" TextString="(Từ Đặc điểm Ngăn nắp)" />
+    <TextStringDefinition InstanceID="0xD3168B1A" TextString="(Từ Chơi Nhạc)" />
+    <TextStringDefinition InstanceID="0x0B853F43" TextString="(Từ Đặc điểm Người dậy sớm)" />
+    <TextStringDefinition InstanceID="0xF7F1CC1F" TextString="(Từ Đặc điểm Trung thành)" />
+    <TextStringDefinition InstanceID="0x4180B67C" TextString="(Từ Đặc điểm Lười biếng)" />
+    <TextStringDefinition InstanceID="0x12B6A686" TextString="(Từ Thực hiện Vụ trộm Cổ v trang trí Thành công)" />
+    <TextStringDefinition InstanceID="0xCC41C228" TextString="(Từ Đặc điểm Trộm cắp Nâng cao)" />
+    <TextStringDefinition InstanceID="0xF0FC46EF" TextString="(Từ Bị Bắt khi Trộm cắp)" />
+    <TextStringDefinition InstanceID="0x188BE991" TextString="(Từ Xem Chương trình Nấu ăn)" />
+    <TextStringDefinition InstanceID="0xA81AC7A4" TextString="(Từ Duyệt Công thức)" />
+    <TextStringDefinition InstanceID="0xDDE56920" TextString="(Từ Đặc điểm Không ổn định)" />
+    <TextStringDefinition InstanceID="0xF3EB6E9E" TextString="(Từ Đặc điểm Vùng đất Quen thuộc)" />
+    <TextStringDefinition InstanceID="0x6ACD732A" TextString="(Từ Trò đùa Vũ khí)" />
+    <TextStringDefinition InstanceID="0x59B8BCCB" TextString="(Từ Bị Bắt khi Phá hoại)" />

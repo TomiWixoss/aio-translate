@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x72327EDA" TextString="Vùng Bóng Tối" />
+    <TextStringDefinition InstanceID="0x4A219BAD" TextString="Tạo Vùng Bóng Tối" />
+    <TextStringDefinition InstanceID="0xD8881003" TextString="Phim Câm" />
+    <TextStringDefinition InstanceID="0xE8183982" TextString="Tạo Phim Câm" />
+    <TextStringDefinition InstanceID="0xAD2BF9D8" TextString="Thuốc Tình Yêu #4" />
+    <TextStringDefinition InstanceID="0x9B2A7981" TextString="Tạo Thuốc Tình Yêu #4" />
+    <TextStringDefinition InstanceID="0x59CD8B19" TextString="Vui Vẻ và Sôi Nổi" />
+    <TextStringDefinition InstanceID="0x1F2F66B4" TextString="Tạo Vui Vẻ và Sôi Nổi" />
+    <TextStringDefinition InstanceID="0x62168DA0" TextString="Mờ Ảo và Gió Lộng" />
+    <TextStringDefinition InstanceID="0x7A185AA9" TextString="Tạo Mờ Ảo và Gió Lộng" />
+    <TextStringDefinition InstanceID="0x50765BB9" TextString="Simsmapolitan" />
+    <TextStringDefinition InstanceID="0x49ACD854" TextString="Tạo Simsmapolitan" />
+    <TextStringDefinition InstanceID="0xA0CD20A3" TextString="Ridgeport" />
+    <TextStringDefinition InstanceID="0x43D7C122" TextString="Tạo Ridgeport" />
+    <TextStringDefinition InstanceID="0x55D710CF" TextString="Granny Smash" />
+    <TextStringDefinition InstanceID="0x6A63B5BE" TextString="Tạo Granny Smash" />
+    <TextStringDefinition InstanceID="0x77ACDDFE" TextString="Bánh Trắng" />
+    <TextStringDefinition InstanceID="0xED5D9C7C" TextString="Mì ống" />
+    <TextStringDefinition InstanceID="0x86A62AEF" TextString="Gà Nướng" />
+    <TextStringDefinition InstanceID="0xC3574DEB" TextString="Nước Cam" />
+    <TextStringDefinition InstanceID="0x9ADBEFB3" TextString="Bánh Phô Mai SimCity" />
+    <TextStringDefinition InstanceID="0x5D8F06A9" TextString="Bánh Nướng Lò Vi Sóng" />
+    <TextStringDefinition InstanceID="0x7547DDE6" TextString="Bữa Ăn Lò Vi Sóng" />
+    <TextStringDefinition InstanceID="0xFEC0EF00" TextString="Bánh Mì Kẹp Thịt Bò" />
+    <TextStringDefinition InstanceID="0x53368121" TextString="Bánh Mì Nướng Phô Mai" />
+    <TextStringDefinition InstanceID="0xD0BACDFF" TextString="Salad Rau Củ" />
+    <TextStringDefinition InstanceID="0x8246BEC8" TextString="Bánh Mì Đánh Trứng" />
+    <TextStringDefinition InstanceID="0x6EBC1884" TextString="Khoai Tây Chiên" />
+    <TextStringDefinition InstanceID="0xB2074807" TextString="Ngũ Cốc" />
+    <TextStringDefinition InstanceID="0x769CF403" TextString="Làm Mì ống" />
+    <TextStringDefinition InstanceID="0xED8A0D44" TextString="Nướng Bánh Phô Mai SimCity" />
+    <TextStringDefinition InstanceID="0xF8A602F3" TextString="Nướng Bánh Mì Kẹp Thịt Bò" />
+    <TextStringDefinition InstanceID="0x04BDF87C" TextString="Nấu Bánh Mì Nướng Phô Mai" />
+    <TextStringDefinition InstanceID="0x27143D6E" TextString="Làm Salad Rau Củ" />
+    <TextStringDefinition InstanceID="0x24B75FC6" TextString="Pha Trà" />
+    <TextStringDefinition InstanceID="0x75E912C2" TextString="Trà Oolong" />
+    <TextStringDefinition InstanceID="0x9ECAACC3" TextString="Ấm Trà Oolong" />
+    <TextStringDefinition InstanceID="0x15FF03CF" TextString="Pha Trà Oolong" />
+    <TextStringDefinition InstanceID="0x2BD55903" TextString="Trà Xanh Lành Mạnh" />
+    <TextStringDefinition InstanceID="0x3BA29A48" TextString="Ấm Trà Xanh Lành Mạnh" />
+    <TextStringDefinition InstanceID="0x79952A82" TextString="Pha Trà Xanh Lành Mạnh" />
+    <TextStringDefinition InstanceID="0x03D8CD3D" TextString="Trà Nhân Sâm Hơi Nóng" />
+    <TextStringDefinition InstanceID="0xA32F2646" TextString="Ấm Trà Nhân Sâm Hơi Nóng" />
+    <TextStringDefinition InstanceID="0x2EBBECE8" TextString="Pha Trà Nhân Sâm Hơi Nóng" />
+    <TextStringDefinition InstanceID="0x29938B3D" TextString="Trà Earl Grey, Nóng" />
+    <TextStringDefinition InstanceID="0x1D1FE046" TextString="Ấm Trà Earl Grey, Nóng" />
+    <TextStringDefinition InstanceID="0x22DFDAE8" TextString="Pha Trà Earl Grey, Nóng" />
+    <TextStringDefinition InstanceID="0x8769271F" TextString="Trà Cúc La Mã Thư Giãn" />
+    <TextStringDefinition InstanceID="0xA2F3D99C" TextString="Ấm Trà Cúc La Mã Thư Giãn" />
+    <TextStringDefinition InstanceID="0xDD866E4E" TextString="Pha Trà Cúc La Mã Thư Giãn" />

@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x9C041F27" TextString="Tránh (Giả định) Bẫy" />
+    <TextStringDefinition InstanceID="0x2A9879A9" TextString="Kết quả cho thấy con tàu này từng thuộc về người Boron, sinh vật thuần Boron. Đây là dữ liệu khoa học hữu ích, vì rất ít thông tin về sinh vật của nguyên tố thứ năm. Các cuộc quét tiếp tục sau khi thấy kết quả, và tên lửa lùi ra khỏi xác tàu. Điều gì đã xảy ra ngay trước đó?" />
+    <TextStringDefinition InstanceID="0x234F5E6D" TextString="Ngay cả trong không gian, bản năng tự nhiên vẫn gọi. {0.SimFirstName} cập bến tại một trạm nghỉ chân giữa các vì sao. Trong đó khá bẩn thỉu... nhưng rồi {0.SimFirstName} nhìn kỹ phần trên bồn cầu và phát hiện nó bị chiếm đóng bởi một nền văn minh người ngoài hành tinh siêu nhỏ!" />
+    <TextStringDefinition InstanceID="0x448F8693" TextString="Với sự giúp đỡ của {0.SimFirstName}, các thuộc địa nhanh chóng tiếp cận các máy sao chép thức ăn của Hiattooine. Họ không chỉ làm ra đồ ăn không phải bánh mì nướng phô mai, mà còn làm chúng nhanh hơn 1.000 lần so với trước! Bị chôn vùi dưới một trận lũ sandwich không ăn được, chính phủ đầu hàng, đồng ý nối lại đàm phán nếu các thuộc địa hủy bỏ công việc của mình. {0.SimFirstName} chiến thắng bay về nhà, phần thưởng trong tay." />
+    <TextStringDefinition InstanceID="0x9EE16263" TextString="{0.SimFirstName} chất một vài hộp vào khoang sau của tàu {M0.his}{F0.her}. Một hộp đang bốc khói, và hộp khác đang rên rỉ, nhưng {0.SimFirstName} không hỏi han. {M0.He}{F0.She} giao hàng đúng giờ và kiếm thêm vài đô la." />
+    <TextStringDefinition InstanceID="0xE84CCA95" TextString="Khi đi qua vành đai tiểu hành tinh, {0.SimFirstName} để ý thấy một vật gì đó trốn sau một tảng đá gần đó. {0.SimFirstName} từ từ điều khiển tàu {M0.his}{F0.her} lại gần để điều tra." />
+    <TextStringDefinition InstanceID="0x488B2967" TextString="Đúng! Đó là điều đã xảy ra! {0.SimFirstName} lao vụt qua vũ trụ, đến một khu vực mảnh vỡ. {F0.she}{M0.he} nên làm gì?!" />
+    <TextStringDefinition InstanceID="0x67583C2B" TextString="{0.SimFirstName} đến trạm dường như không bị hư hại, nhưng nghe thấy tiếng cười lạ lùng vang vọng dọc hành lang. {M0.He}{F0.She} theo những âm thanh kỳ lạ đến phòng ăn, nơi một số phi hành gia rõ ràng điên loạn đang ném gạch kem đông lạnh vào nhau. {0.SimFirstName} nên làm gì?" />
+    <TextStringDefinition InstanceID="0x7097221C" TextString="Này! Hóa ra bắt nạt được chính phủ cho phép có thể khá vui! H悬浮 trên mặt trăng vàng, {0.SimFirstName} tăng âm lượng trên máy liên lạc {M0.his}{F0.her} và đòi nói chuyện với lãnh đạo Phe cách mạng. Một người đàn ông hói đầu trong áo choàng lưu loát bước ra từ một túp lều nhỏ và ngước nhìn {0.SimFirstName} với ánh mắt sợ hãi." />
+    <TextStringDefinition InstanceID="0x6CD36347" TextString="Tại sao không? Điều đó sẽ khiến chính phủ bỏ cuộc theo đuổi {0.SimFirstName} rồi! Có lẽ cái đĩa nóng này sẽ làm được? Không... không, nó chỉ gây ra cơn đau. Rất nhiều cơn đau. {M0.he}{F0.she} có thể làm gì để giải quyết nó?" />
+    <TextStringDefinition InstanceID="0x9F895FEA" TextString="Đúng, đó là điều đã xảy ra! {0.SimFirstName} hét lên một tiếng chiến đấu dữ dội, và một trận không chiến kịch tính bắt đầu! {0.SimFirstName} là người chiến thắng dũng cảm. Lần này tránh được mép thời gian, {F0.she}{M0.he} có thể trở về nhà an toàn." />
+    <TextStringDefinition InstanceID="0xCFDF6553" TextString="Thật sao? Bạn có chắc là-- ý tôi là, {0.SimFirstName} nên xóa tất cả dữ liệu trên máy tính {M0.HIS}{F0.HER}? Mọi dữ liệu sẽ bị xóa vĩnh viễn. Tiếp tục?" />
+    <TextStringDefinition InstanceID="0xF8FDC9C3" TextString="{M0.He}{F0.She} mở nắp bình khí và liếc vào bên trong - không có gì cả! Hoàn toàn trống! Đáng ngờ! {M0.He}{F0.She} đặt nó vào buồng khí và phóng ra ngoài không gian. Vài phút sau {M0.he}{F0.she} thấy một bình khí trống lơ lửng qua cửa sổ {M0.his}{F0.her}. Làm sao nó tới được đó? Có ai đang theo dõi {0.SimPronounObjective} không? Cái bình khí phản bội đó có phải thiết bị nghe lén?" />
+    <TextStringDefinition InstanceID="0xA7FEEB47" TextString="{0.SimFirstName} nhẹ nhàng và yêu thương rưới nước lên các cánh đồng trồng trọt. Các loài thực vật bắt đầu lớn mạnh và người ngoài hành tinh vui mừng! Giờ họ muốn có thêm ánh sáng mặt trời." />
+    <TextStringDefinition InstanceID="0xEDBAF3F8" TextString="Ai đó bắt được tín hiệu cấp cứu của {0.SimFirstName} và tuyên bố ở gần đó. Trong vài phút, một chiến đấu lớn, trông cũ kỹ xuất hiện từ ánh sáng của đám mây sao. “Theo chúng tôi, {M0.Bucko}{F0.Buttercup}!” một giọng nói lạnh lùng, có vẻ như của bò sát vang lên qua máy liên lạc. {0.SimFirstName} có theo không?" />
+    <TextStringDefinition InstanceID="0xC2534B3F" TextString="{0.SimFirstName} không thể để chính phủ thấy hàng hóa {M0.his}{F0.her}, vì rồi HỌ SẼ BIẾT. Nhưng sau khi vứt bỏ tất cả hàng hóa, tàu vẫn quá nặng! Điều duy nhất còn lại là nhiên liệu và thức ăn, vì vậy {0.SimFirstName} bắt đầu ăn hết tất cả thức ăn du hành vũ trụ {M0.he}{F0.she} có thể." />
+    <TextStringDefinition InstanceID="0x80E36573" TextString="{0.SimFirstName} cho họ thêm thức ăn, thêm ánh sáng mặt trời, và thậm chí bắt đầu đưa một số người ngoài hành tinh đi từ đầu này đến đầu kia của thuộc địa. {M0.He's}{F0.She's} về cơ bản đã trở thành nô lệ của họ, tất cả chỉ để khiến họ thích {M0.him}{F0.her}. Trong khi họ đang ngủ, {0.SimFirstName} lén trốn về nhà để suy ngẫm về bản chất của sự phụ thuộc lẫn nhau." />
+    <TextStringDefinition InstanceID="0x195B04C2" TextString="{M0.He}{F0.She} tháo dỡ mọi bộ phận không cần thiết của tàu để lấy thêm tấm kim loại che lỗ thủng, nhưng {0.SimFirstName} từng thấy những mảnh vá tồi tệ hơn trên quần. {0.SimFirstName} thậm chí không chắc nó có thể sống sót khi tái nhập khí quyển! {M0.He}{F0.She} cố định ghế ngồi cho một cú hạ cánh xóc nảy." />
+    <TextStringDefinition InstanceID="0x40D0E8F9" TextString="{0.SimFirstName} kéo bồn cầu đến phần có nhiều nắng hơn của trạm nghỉ. Giờ người ngoài hành tinh có mọi thứ họ từng muốn. &quot;Vị thần của chúng ta thật hào phóng,&quot; người ngoài hành tinh khóc lóc. Nhưng giờ họ hơi hư hỏng, và bắt đầu yêu cầu {0.SimFirstName} trừng phạt kẻ thù của họ." />
+    <TextStringDefinition InstanceID="0x5D98C8A2" TextString="Dù còn non nớt hay không, {0.SimFirstName} biết tốt nhất là không nên đụng chạm một người ngoài hành tinh đang sợ hãi. {M0.He’s}{F0.She’s} gần về đến Chợ Bán Rẻ khi sinh vật đó lộ diện. Đó là một sinh vật non, mà anh trai dám nó lên tàu {M0.his}{F0.her}. Giờ nó muốn một chuyến vui chơi quanh dải ngân hà trước khi về nhà. Nó sẽ tháo còng tay cho {0.SimFirstName} nếu {M0.he}{F0.she} đồng ý...." />
+    <TextStringDefinition InstanceID="0x40BD09A0" TextString="Hy vọng dị ứng {M0.his}{F0.her} được kiểm soát, {0.SimFirstName} lao vào đám đông xì xì và sờ soạn điên cuồng. Cơn đau bùng lên cánh tay {M0.his}{F0.her} khi các ngón tay {M0.his}{F0.her} nắm lấy một sinh vật đang vùng vẫy, mềm mại. Thành công! {M0.He}{F0.She} trói con vật vào tàu và nhét nó vào một cái lồng sắt. {0.SimFirstName} không thể chờ xem họ sẽ làm gì với nó khi về nhà..." />
+    <TextStringDefinition InstanceID="0xE10461AA" TextString="Hừm, điều này hơi đáng lo. {0.SimFirstName} nghĩ rằng sẽ giúp ích. Triệu chứng tiếp theo của Bệnh Điên Không Gian là hoang tưởng và ra quyết định tồi. Tại sao bình khí tươi không giúp được? Chắc chắn là một âm mưu!! {0.SimFirstName} cần xử lý việc này ngay bây giờ." />
+    <TextStringDefinition InstanceID="0xCE4E8BAB" TextString="Rời Đi Nhanh" />
+    <TextStringDefinition InstanceID="0x8C54C3B7" TextString="Tiếp Tục Tìm Kiếm" />
+    <TextStringDefinition InstanceID="0x23E9EEFE" TextString="Phát Thanh Cầu Cứu" />
+    <TextStringDefinition InstanceID="0x75DD1320" TextString="Cố Gắng Sửa Chữa" />
+    <TextStringDefinition InstanceID="0x79FA94F7" TextString="Cố Gắng Giao Tiếp" />
+    <TextStringDefinition InstanceID="0x9BBA867F" TextString="Quan Sát Thầm" />
+    <TextStringDefinition InstanceID="0x3225429C" TextString="Giải Thích Cho Người Ngoài Hành Tinh" />
+    <TextStringDefinition InstanceID="0x7C585201" TextString="Chạy Điên Cuồng" />
+    <TextStringDefinition InstanceID="0xEBDA9553" TextString="Đồng Ý" />
+    <TextStringDefinition InstanceID="0x31CCA488" TextString="Trở Về Nhà" />
+    <TextStringDefinition InstanceID="0x6B032B13" TextString="Tăng Quạt Lên" />
+    <TextStringDefinition InstanceID="0x407A09E1" TextString="Thay Bộ Lọc CO2" />
+    <TextStringDefinition InstanceID="0x84585845" TextString="Bắn Vào Nó" />
+    <TextStringDefinition InstanceID="0x65C0D046" TextString="Cố Gắng Làm Sạch" />
+    <TextStringDefinition InstanceID="0x148C11FA" TextString="Thuyết Phục Người Ngoài Hành Tinh" />
+    <TextStringDefinition InstanceID="0xC21A2D0B" TextString="Đe Dọa Bằng Pháo" />
+    <TextStringDefinition InstanceID="0xA88B55CD" TextString="Đồng Ý" />
+    <TextStringDefinition InstanceID="0xBA56C97A" TextString="Phát Thanh Cầu Cứu" />
+    <TextStringDefinition InstanceID="0xAED168BA" TextString="Cố Gắng Cầm Tàu" />
+    <TextStringDefinition InstanceID="0x761883E3" TextString="Có Lẽ Lần Sau" />
+    <TextStringDefinition InstanceID="0xCF6D87DE" TextString="Bay Về Nhà" />
+    <TextStringDefinition InstanceID="0x30549147" TextString="Cố Gắng Sửa Nó" />
+    <TextStringDefinition InstanceID="0x838B8F2F" TextString="Mang Lên Tàu" />
+    <TextStringDefinition InstanceID="0xD36001E6" TextString="Tháo Dỡ" />
+    <TextStringDefinition InstanceID="0xA3FA3C07" TextString="Đe Dọa Các Thuộc Địa" />
+    <TextStringDefinition InstanceID="0xEDB5A8FF" TextString="Cố Gắng Nói Chuyện Với Họ" />
+    <TextStringDefinition InstanceID="0x30645F24" TextString="Thu Thập Thêm Đồ Phế Thải" />
+    <TextStringDefinition InstanceID="0xBF0BFA8E" TextString="Kiểm Tra Kỹ Bình Khí" />

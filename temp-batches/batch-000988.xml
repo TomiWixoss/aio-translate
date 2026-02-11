@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x23D97DB7" TextString="Dạy về Đồ vật" />
+    <TextStringDefinition InstanceID="0xAEFB9404" TextString="Yêu cầu học về Đồ vật" />
+    <TextStringDefinition InstanceID="0x503A32C0" TextString="Dạy chữ cái" />
+    <TextStringDefinition InstanceID="0x5A258799" TextString="Yêu cầu học chữ cái" />
+    <TextStringDefinition InstanceID="0x3F188820" TextString="Dạy số" />
+    <TextStringDefinition InstanceID="0xB94588F9" TextString="Yêu cầu học số" />
+    <TextStringDefinition InstanceID="0x0605C3D0" TextString="Dạy về Động vật" />
+    <TextStringDefinition InstanceID="0x6815B729" TextString="Yêu cầu học về Động vật" />
+    <TextStringDefinition InstanceID="0x51EED6AE" TextString="Dạy về Nhu cầu cơ bản" />
+    <TextStringDefinition InstanceID="0x2FA9D253" TextString="Yêu cầu học Tư duy" />
+    <TextStringDefinition InstanceID="0xF7929397" TextString="Chơi" />
+    <TextStringDefinition InstanceID="0xAB414FE6" TextString="Yêu cầu chơi" />
+    <TextStringDefinition InstanceID="0x6DF9C661" TextString="Lưng của {0.SimFirstName} quá đau để làm việc này!" />
+    <TextStringDefinition InstanceID="0x4553C87D" TextString="Đọc sách cho Trẻ nhỏ" />
+    <TextStringDefinition InstanceID="0x70CC6A46" TextString="Yêu cầu lắng nghe sách" />
+    <TextStringDefinition InstanceID="0x17BECFBB" TextString="Yêu cầu lắng nghe sách" />
+    <TextStringDefinition InstanceID="0xAAB9270F" TextString="Đưa đi ngủ" />
+    <TextStringDefinition InstanceID="0xDD976B4E" TextString="Cần có Giường trẻ nhỏ." />
+    <TextStringDefinition InstanceID="0x15561D66" TextString="Yêu cầu đi ngủ" />
+    <TextStringDefinition InstanceID="0x2F5BECE8" TextString="Huấn luyện vệ sinh" />
+    <TextStringDefinition InstanceID="0xD345BA95" TextString="Cần có Ghế vệ sinh." />
+    <TextStringDefinition InstanceID="0xC972E105" TextString="Yêu cầu đi vệ sinh" />
+    <TextStringDefinition InstanceID="0x12C316FA" TextString="Loại bỏ trạng thái phụ thuộc chăm sóc" />
+    <TextStringDefinition InstanceID="0x9B827DF9" TextString="Cho ăn" />
+    <TextStringDefinition InstanceID="0x0B4FF51C" TextString="Cần có Ghế ăn dặm." />
+    <TextStringDefinition InstanceID="0x0F7DCA0B" TextString="Cho uống" />
+    <TextStringDefinition InstanceID="0x75815372" TextString="Cần có Ghế ăn dặm." />
+    <TextStringDefinition InstanceID="0xDA8BDEF5" TextString="Dạy nhảy" />
+    <TextStringDefinition InstanceID="0x35CDE0FE" TextString="Yêu cầu nhảy" />
+    <TextStringDefinition InstanceID="0x5608F101" TextString="Thay tã" />
+    <TextStringDefinition InstanceID="0x71017D80" TextString="Yêu cầu thay tã" />
+    <TextStringDefinition InstanceID="0xD8C011FA" TextString="Tã của {1.SimFirstName} không cần thay." />
+    <TextStringDefinition InstanceID="0xE8C1E84B" TextString="Cho tắm bong bóng" />
+    <TextStringDefinition InstanceID="0xE11DCD1A" TextString="Yêu cầu tắm bong bóng" />
+    <TextStringDefinition InstanceID="0xA91E7011" TextString="Cho tắm" />
+    <TextStringDefinition InstanceID="0x3907E4FA" TextString="Yêu cầu tắm" />
+    <TextStringDefinition InstanceID="0x0B46EEC4" TextString="Yêu cầu làm sạch" />
+    <TextStringDefinition InstanceID="0xE98E1814" TextString="Cần có Bồn tắm." />
+    <TextStringDefinition InstanceID="0x649864EE" TextString="Cần có Chậu rửa." />
+    <TextStringDefinition InstanceID="0x868E62CE" TextString="Cho {1.SimFirstName} tắm nhanh và ấm áp" />
+    <TextStringDefinition InstanceID="0xCFF92E59" TextString="Cho {2.SimFirstName} tắm nhanh và ấm áp" />
+    <TextStringDefinition InstanceID="0x688135D9" TextString="Dọn dẹp" />
+    <TextStringDefinition InstanceID="0x81F248BB" TextString="Đọc cho ngủ" />
+    <TextStringDefinition InstanceID="0xE9B82682" TextString="Cần có Giường trẻ nhỏ." />
+    <TextStringDefinition InstanceID="0xCABFF7CC" TextString="Yêu cầu đi ngủ kèm câu chuyện" />
+    <TextStringDefinition InstanceID="0x02629284" TextString="Xin lỗi" />
+    <TextStringDefinition InstanceID="0x21F6A188" TextString="Yêu cầu đu xích với" />
+    <TextStringDefinition InstanceID="0x988C09C0" TextString="Yêu cầu đẩy trên xích đu" />
+    <TextStringDefinition InstanceID="0x39375620" TextString="Chia sẻ phát hiện về Động quên" />
+    <TextStringDefinition InstanceID="0x3C19C757" TextString="Một động quên? Nghe như một cuộc săn lùng vô nghĩa khác. Hãy bám vào thực tế..." />

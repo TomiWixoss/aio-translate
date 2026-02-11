@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x2EA317F1" TextString="Nấu Trứng và Bánh Mì Nướng" />
+    <TextStringDefinition InstanceID="0xA70D623E" TextString="Trứng và Bánh Mì Nướng" />
+    <TextStringDefinition InstanceID="0xC55918F1" TextString="Nấu Thịt Heo Quay Vương Miện" />
+    <TextStringDefinition InstanceID="0x1070FB3E" TextString="Thịt Heo Quay Vương Miện" />
+    <TextStringDefinition InstanceID="0xD57D944F" TextString="Nướng Bánh Quy Trái Tim Lả Lơi" />
+    <TextStringDefinition InstanceID="0x072C239C" TextString="Bánh Quy Trái Tim Lả Lơi" />
+    <TextStringDefinition InstanceID="0x56325A62" TextString="Bánh Quy Trái Tim Lả Lơi" />
+    <TextStringDefinition InstanceID="0xC2CC2457" TextString="Nướng Bánh Quy Sô-cô-la Chip" />
+    <TextStringDefinition InstanceID="0xCE3B7204" TextString="Bánh Quy Sô-cô-la Chip" />
+    <TextStringDefinition InstanceID="0xC0299895" TextString="Phục vụ Bánh Quy Sô-cô-la Chip" />
+    <TextStringDefinition InstanceID="0x86635DEA" TextString="Bánh Quy Sô-cô-la Chip" />
+    <TextStringDefinition InstanceID="0xE9752D5C" TextString="Nấu Cioppino" />
+    <TextStringDefinition InstanceID="0x4D4B8063" TextString="Cioppino" />
+    <TextStringDefinition InstanceID="0x1FE5D8A4" TextString="Churrasco là một phương pháp nướng thịt Brazil, nơi những miếng thịt mọng nước, lát, bít tết và thịt cắt từ bò, bê, cừu, heo và gà được xuyên vào xiên lớn và nướng trên lửa gỗ. Thực hành này bắt đầu vào đầu những năm 1800 khi những người Gaúchos (người định cư ở vùng Rio Grande do Sul) thường tụ tập, nhóm lửa, xuyên các phần lớn thịt lên xiên và nướng thịt từ từ.\n\nNhư một món quà bổ sung, món này Không Lactose!" />
+    <TextStringDefinition InstanceID="0xABFFF3FF" TextString="Nướng Churrasco" />
+    <TextStringDefinition InstanceID="0x6CA0AAEC" TextString="Churrasco" />
+    <TextStringDefinition InstanceID="0xA82474E8" TextString="Nấu Mousse Sô-cô-la Nướng" />
+    <TextStringDefinition InstanceID="0x4DBE5AA6" TextString="&lt;font color='#199C2C'&gt;Thiết kế bởi: icemunmun.&lt;/font&gt;\nMột món tráng miệng xa hoa làm từ sô-cô-la, trứng đánh bông và kem nặng.\n\nPhù hợp với người ăn chay" />
+    <TextStringDefinition InstanceID="0x87483CCA" TextString="Mousse Sô-cô-la Nướng" />
+    <TextStringDefinition InstanceID="0x62658EAA" TextString="Làm Chip và Salsa" />
+    <TextStringDefinition InstanceID="0x1F7EC3C1" TextString="Chip và Salsa" />
+    <TextStringDefinition InstanceID="0xAAD7B976" TextString="Phục vụ Chip và Salsa" />
+    <TextStringDefinition InstanceID="0xB32D7E70" TextString="Nấu Chili" />
+    <TextStringDefinition InstanceID="0x7A0231BC" TextString="Phục vụ Chili" />
+    <TextStringDefinition InstanceID="0xAD984039" TextString="Nấu Gà Xào" />
+    <TextStringDefinition InstanceID="0xCD4DDE2F" TextString="Phục vụ Gà Xào" />
+    <TextStringDefinition InstanceID="0xD5F3ACFD" TextString="Challah là một loại bánh thường được nướng cho các dịp Do Thái như Shabbat. Thông thường, challah được chuẩn bị theo cách pareve, tức là không kết hợp sữa với trứng. Những chiếc bánh được tết và, vào Rosh Hashanah, thường được trình bày dưới dạng &quot;khăn xếp&quot; tròn. Vào Shabbat, hai chiếc bánh challah được che bằng một chiếc khăn có thể được thêu hoặc trang trí khá công phu và các lời chúc Kiddush được đọc trước khi bánh được cắt và ăn.\n\nTùy theo dịp, challah có thể được phục vụ rắc muối hoặc mật ong và trong một số nền văn hóa, nho, chà là hoặc các nguyên liệu khác thậm chí có thể được thêm vào! Bất kể bạn cắt nó như thế nào, chiếc bánh giàu và nhiều trứng này là một món ăn ngon giúp đoàn kết mọi người trên toàn thế giới.\n\nPhù hợp với người ăn chay, Không Lactose" />
+    <TextStringDefinition InstanceID="0x29A4218A" TextString="Nướng Challah" />
+    <TextStringDefinition InstanceID="0x18FFE521" TextString="Challah" />
+    <TextStringDefinition InstanceID="0xBCC039D2" TextString="Làm Casserole Cá Ngừ" />
+    <TextStringDefinition InstanceID="0x72E1FFE9" TextString="Casserole Cá Ngừ" />
+    <TextStringDefinition InstanceID="0xBE03E59E" TextString="Phục vụ Casserole Cá Ngừ" />
+    <TextStringDefinition InstanceID="0x20878541" TextString="Làm Casserole Taco" />
+    <TextStringDefinition InstanceID="0xDB0605E4" TextString="Phục vụ Casserole Taco" />
+    <TextStringDefinition InstanceID="0x2D227D8B" TextString="Casserole Taco" />
+    <TextStringDefinition InstanceID="0xDCB4B6ED" TextString="Bánh Dâu Tây" />
+    <TextStringDefinition InstanceID="0x5F1103F1" TextString="Bánh Đặc Trưng của {0.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x6FBBA046" TextString="Nướng Bánh" />
+    <TextStringDefinition InstanceID="0xFD45B9D2" TextString="Bánh Hamburger" />
+    <TextStringDefinition InstanceID="0xE3AE82D6" TextString="Bánh Sô-cô-la" />
+    <TextStringDefinition InstanceID="0xF85CAD0A" TextString="Bánh Confetti Xanh" />
+    <TextStringDefinition InstanceID="0x27488383" TextString="&lt;font color='#199C2C'&gt;Thiết kế bởi: icemunmun.&lt;/font&gt;\nMột món ăn giàu sô-cô-la với gà trong sốt cà chua, bơ và kem có gia vị. " />
+    <TextStringDefinition InstanceID="0x7906C694" TextString="Nấu Butter Chicken" />
+    <TextStringDefinition InstanceID="0x76073C1B" TextString="Butter Chicken" />
+    <TextStringDefinition InstanceID="0xC5148305" TextString="Làm Brigadeiro" />
+    <TextStringDefinition InstanceID="0xF9E0E086" TextString="Nguồn gốc của món tráng miệng không chắc chắn, nhưng lý thuyết phổ biến nhất là nó được tạo ra bởi một người làm bánh từ Rio de Janeiro, Heloisa Nabuco de Oliveira, để quảng bá cho ứng cử viên tổng thống của Thiếu tá Eduardo Gomes, do đó có tên &quot;Brigadeiro.&quot;\n\nMón tráng miệng được làm từ sữa đặc, bột cacao, bơ và hạt sô-cô-la phủ bên ngoài làm cho nó trở thành món tráng miệng hoàn hảo một miếng. Vì nó rất dễ làm - và thôi nào, tuyệt vời! - nó đã trở thành một phần không thể thiếu trong các bữa tiệc và bất kỳ loại lễ hội nào. Vì vậy, đừng ngạc nhiên khi thấy chúng ở bất kỳ bữa tiệc Brazil nào!\n\nVà đừng quên, đây là một món ăn Phù hợp với người ăn chay!" />
+    <TextStringDefinition InstanceID="0xC22F9315" TextString="Phục vụ Brigadeiro" />
+    <TextStringDefinition InstanceID="0xF296946A" TextString="Brigadeiro" />
+    <TextStringDefinition InstanceID="0x7768D807" TextString="Làm BLT" />
+    <TextStringDefinition InstanceID="0x6035CBA5" TextString="Nướng Bánh Quy Đen Trắng" />

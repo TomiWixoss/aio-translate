@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x51F68D52" TextString="Sử dụng tương tác hài hước" />
+    <TextStringDefinition InstanceID="0x17A81425" TextString="Làm Quen" />
+    <TextStringDefinition InstanceID="0x1F85B5BE" TextString="Kết Bạn" />
+    <TextStringDefinition InstanceID="0xF257D03A" TextString="Mời Nhảy" />
+    <TextStringDefinition InstanceID="0x133E064F" TextString="Lãng Mạn" />
+    <TextStringDefinition InstanceID="0xFCF02B3A" TextString="Thay Đổi Trang Phục" />
+    <TextStringDefinition InstanceID="0x0C069758" TextString="Làn Sóng Não Tăng Cường" />
+    <TextStringDefinition InstanceID="0x2D21F80D" TextString="Mọi thứ dường như đều rất &lt;i&gt;hợp lý&lt;/i&gt; khi được một người cố vấn giàu kinh nghiệm giải thích. {0.SimFirstName} đang học với tốc độ ánh sáng!" />
+    <TextStringDefinition InstanceID="0x0CDBF239" TextString="Huấn Lện Ẩm Thực" />
+    <TextStringDefinition InstanceID="0x7AEEC826" TextString="{0.SimFirstName} đang làm chủ nghệ thuật ẩm thực, nhờ vào sự hướng dẫn của một đầu bếp chuyên nghiệp thực thụ." />
+    <TextStringDefinition InstanceID="0xB479FF29" TextString="Tăng Trưởng Tăng Tốc" />
+    <TextStringDefinition InstanceID="0x8FF775F6" TextString="Giống như một loài cây được bón phân bằng Trái Growfruit, {0.SimFirstName} đang phát triển với tốc độ kỷ lục dưới sự hướng dẫn của một người làm vườn giàu kinh nghiệm." />
+    <TextStringDefinition InstanceID="0x0AD5A4A8" TextString="Câu Cá Như Chuyên Gia" />
+    <TextStringDefinition InstanceID="0xA1BD3A3D" TextString="Học hỏi những mẹo và thủ thuật câu cá từ một người câu cá lâu năm là cách nhanh nhất để trở thành chuyên gia." />
+    <TextStringDefinition InstanceID="0x7B9C26A2" TextString="Mẹo Nấu Ăn" />
+    <TextStringDefinition InstanceID="0x8E17B573" TextString="Những món ăn của {0.SimFirstName} đang đạt đến một mức độ mới, ngon miệng hơn dưới sự hướng dẫn của một đầu bếp gia đình giàu kinh nghiệm." />
+    <TextStringDefinition InstanceID="0x261E1CA8" TextString="Huấn Lện Lôi Cuốn" />
+    <TextStringDefinition InstanceID="0x44EAE23D" TextString="Nắm bắt những sắc thái tinh tế và tìm ra từ ngữ phù hợp trở nên dễ dàng hơn rất nhiều dưới sự hướng dẫn đúng đắn. Lưỡi của {0.SimFirstName} gần như đã sáng bóng như bạc!" />
+    <TextStringDefinition InstanceID="0xAE3DAF34" TextString="Xạ Thủ Được Động Lực" />
+    <TextStringDefinition InstanceID="0x1DCD8E01" TextString="{0.SimFirstName} đang cảm thấy &lt;b&gt;tập trung cao độ&lt;/b&gt; và sẵn sàng bắn những phát bắn tên tuyệt vời với toàn bộ chuyên môn cung thuật dồi dào ở đầu ngón tay {0.SimPronounPossessiveDependent}." />
+    <TextStringDefinition InstanceID="0x2C2A88C6" TextString="Được Ánh Sáng Từ Các Vì Sao" />
+    <TextStringDefinition InstanceID="0x1F89381F" TextString="Nhìn lên bầu trời rộng lớn mang lại cảm hứng rằng mọi thứ đều có thể." />
+    <TextStringDefinition InstanceID="0x7E797ADC" TextString="Khó Chịu!" />
+    <TextStringDefinition InstanceID="0x579E3D59" TextString="Tại sao họ lại bắt nạt tôi?!" />
+    <TextStringDefinition InstanceID="0x936544C4" TextString="Đang Vượt Trội" />
+    <TextStringDefinition InstanceID="0xB14417F1" TextString="Hãy tiếp tục đưa ra những trò đùa!" />
+    <TextStringDefinition InstanceID="0xD132FAB5" TextString="Kết Nối Sâu Sắc" />
+    <TextStringDefinition InstanceID="0x1EABB42A" TextString="Xây dựng những mối quan hệ vững chắc với người khác là điều đáng để hạnh phúc." />
+    <TextStringDefinition InstanceID="0x76324E99" TextString="Nồng Nàn" />
+    <TextStringDefinition InstanceID="0xE4F28F06" TextString="Ôi, cảm giác chạm vào da thịt của một Sim khác thật ngọt ngào!" />
+    <TextStringDefinition InstanceID="0x1EB896D4" TextString="Được Tán Thưởng" />
+    <TextStringDefinition InstanceID="0x5529F921" TextString="Một lời khen chân thành luôn làm tinh thần thêm phấn chấn." />
+    <TextStringDefinition InstanceID="0x36667E65" TextString="Đủ Rồi!" />
+    <TextStringDefinition InstanceID="0x5DF098BA" TextString="Tại sao mọi người lại bắt nạt tôi?" />
+    <TextStringDefinition InstanceID="0xBF1541D1" TextString="Trò Đùa Dở" />
+    <TextStringDefinition InstanceID="0xFFF64D2E" TextString="Không có gì nhàm chán hơn một trò đùa được kể một cách tệ hại." />
+    <TextStringDefinition InstanceID="0x43343C5A" TextString="Bình Luận Khó Xử" />
+    <TextStringDefinition InstanceID="0xA8505EFB" TextString="Sao, ôi, sao {0.SimFirstName} lại nói điều đó?" />
+    <TextStringDefinition InstanceID="0x3C0D71B3" TextString="Từ Trang Trại Đến Bàn Ăn" />
+    <TextStringDefinition InstanceID="0x2DE3A1DC" TextString="Mỗi loài cây được chăm sóc, hay mỗi bữa ăn kiểu gia đình được nấu ra sẽ mang lại cho {0.SimFirstName} nhiều kỹ năng hơn, vì vậy hãy bắt tay vào làm thôi!" />
+    <TextStringDefinition InstanceID="0x431E338E" TextString="Sự Nỗ Lực Nghệ Thuật" />
+    <TextStringDefinition InstanceID="0xC1951F37" TextString="Đã đến lúc vẽ tranh, chụp ảnh và tạc gỗ. Theo đuổi những nỗ lực nghệ thuật này sẽ tạo ra nhiều kỹ năng hơn!" />
+    <TextStringDefinition InstanceID="0x731221FB" TextString="Nâng Cao Kỹ Năng!" />
+    <TextStringDefinition InstanceID="0x88500314" TextString="Học hỏi những kỹ năng trở nên dễ dàng với một chút tăng cường." />
+    <TextStringDefinition InstanceID="0xD3AA3592" TextString="Thật Thỏa Mãn!" />
+    <TextStringDefinition InstanceID="0x7253A643" TextString="Hoàn thành các Mong Ước sẽ mang lại điểm thỏa mãn được trao cho {0.SimFirstName} với tốc độ gấp ba lần bình thường!\n\nHãy ghé Cửa Hàng Phần Thưởng và chọn một món quà nào cho {M0.him}{F0.her} đi?" />
+    <TextStringDefinition InstanceID="0xB68EF518" TextString="Cảm Xúc Thèm Ăn Vệ Sinh" />
+    <TextStringDefinition InstanceID="0x0C9C5ACD" TextString="Với tốc độ mất đói chậm hơn và sự giảm đi của Vệ Sinh ít hơn, đây là thời điểm tốt để lao đầu vào các hoạt động!" />
+    <TextStringDefinition InstanceID="0xE8E514A5" TextString="Ít Cần Hơn" />
+    <TextStringDefinition InstanceID="0x584AD7FA" TextString="Nhờ vào sự tăng cường kỳ diệu này từ Jasmine, {0.SimFirstName} gần như không quan tâm* đến việc đáp ứng nhu cầu của {M0.his}{F0.her}!\n\n*Hãy cẩn thận - trong khi tất cả nhu cầu của {M0.his}{F0.her} vẫn đang giảm, bạn có thể yên tâm rằng chúng đang giảm chậm hơn ba lần so với bình thường." />

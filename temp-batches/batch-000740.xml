@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x656F0804" TextString="Tiếng cười ma quái" />
+    <TextStringDefinition InstanceID="0x499BD635" TextString="Vũng ma" />
+    <TextStringDefinition InstanceID="0x61514FCE" TextString="Sự giận dữ ma quái" />
+    <TextStringDefinition InstanceID="0x5910B3B3" TextString="Hoảng loạn" />
+    <TextStringDefinition InstanceID="0x75914347" TextString="Chúc mừng! {0.SimFirstName} đang mang thai! Sắp có thêm thành viên mới cho hộ gia đình này." />
+    <TextStringDefinition InstanceID="0xF54FFB47" TextString="Thiên thạch ma" />
+    <TextStringDefinition InstanceID="0x938AA0AC" TextString="(Từ việc Sạc lại)" />
+    <TextStringDefinition InstanceID="0x563D12C4" TextString="WooHoo trong Bồn tắm nước nóng cùng" />
+    <TextStringDefinition InstanceID="0x97938F07" TextString="Tiếp tục Làm Bất Khả Xâm Phạm" />
+    <TextStringDefinition InstanceID="0xE918D274" TextString="Sự hoàn hảo không bao giờ vỡ" />
+    <TextStringDefinition InstanceID="0x5BB19E6D" TextString="Làm Bất Khả Xâm Phạm" />
+    <TextStringDefinition InstanceID="0x520322E1" TextString="Tiếp tục Thêm Máy hát" />
+    <TextStringDefinition InstanceID="0xFFA3AA62" TextString="Nghe nhạc khi thư giãn trong Bồn tắm nước nóng" />
+    <TextStringDefinition InstanceID="0xC3F98A3F" TextString="Thêm Máy hát" />
+    <TextStringDefinition InstanceID="0x617B9B32" TextString="Tiếp tục Thêm Bộ lọc Aromatherapy" />
+    <TextStringDefinition InstanceID="0xA7E4887D" TextString="Giúp tạo đúng tâm trạng bằng cách thêm bộ lọc mùi vào Bồn tắm nước nóng." />
+    <TextStringDefinition InstanceID="0x142C733E" TextString="Thêm Bộ lọc Aromatherapy" />
+    <TextStringDefinition InstanceID="0xEB6AD8F0" TextString="Bồn tắm nước nóng này đang được sử dụng." />
+    <TextStringDefinition InstanceID="0x646AC0E8" TextString="Thử đẻ con trong Bồn tắm nước nóng cùng" />
+    <TextStringDefinition InstanceID="0x5D5725AF" TextString="Bị đuổi khỏi Bồn tắm nước nóng" />
+    <TextStringDefinition InstanceID="0x166D7A0F" TextString="Đuổi khỏi Bồn tắm nước nóng" />
+    <TextStringDefinition InstanceID="0x40268B8B" TextString="Chợp mắt" />
+    <TextStringDefinition InstanceID="0xB635FBCD" TextString="Tắm truồng" />
+    <TextStringDefinition InstanceID="0x61489876" TextString="Vào" />
+    <TextStringDefinition InstanceID="0x02AFA66C" TextString="Di chuyển đến đây" />
+    <TextStringDefinition InstanceID="0x00224E9B" TextString="Thư giãn" />
+    <TextStringDefinition InstanceID="0xA0B72FC1" TextString="Sử dụng Dầu Thioacetone" />
+    <TextStringDefinition InstanceID="0x94BCA979" TextString="Cái mùi khó chịu gì thế?! Bộ lọc bồn tắm không chịu nổi chất độc hại như vậy! Nó dường như đang lan ra toàn khu phố... có thể cần phải sơ tán khu vực." />
+    <TextStringDefinition InstanceID="0x5A510A98" TextString="Gần đây bạn đã thêm thioacetone vào bồn tắm với kết quả thảm hại. Thử lại vào ngày mai." />
+    <TextStringDefinition InstanceID="0x040B073B" TextString="Cảnh báo: Đưa Thioacetone vào môi trường có thể tạo ra mùi bạn sẽ thấy khó chịu" />
+    <TextStringDefinition InstanceID="0x77F7F22E" TextString="Sử dụng Dầu Xô thơm" />
+    <TextStringDefinition InstanceID="0x43911D22" TextString="Khiến sim cảm thấy tập trung, giảm thời gian của trạng thái Chán và cung cấp trạng thái Tập trung." />
+    <TextStringDefinition InstanceID="0x5DCEC80E" TextString="Sử dụng Dầu Bạc hà" />
+    <TextStringDefinition InstanceID="0xB381B982" TextString="Khiến sim cảm thấy phấn khởi, giảm thời gian của trạng thái Khó chịu và cung cấp trạng thái Vui vẻ." />
+    <TextStringDefinition InstanceID="0x304E0F20" TextString="Gỡ Dầu Aromatherapy" />
+    <TextStringDefinition InstanceID="0xE9B13289" TextString="Sử dụng Dầu Chanh" />
+    <TextStringDefinition InstanceID="0xD182E243" TextString="Khiến sim cảm thấy tràn đầy năng lượng, giảm thời gian của trạng thái Căng thẳng và cung cấp trạng thái Tràn đầy năng lượng." />
+    <TextStringDefinition InstanceID="0xE6C056FB" TextString="Sử dụng Dầu Hoa lài" />
+    <TextStringDefinition InstanceID="0xEBA2B397" TextString="Bồn tắm nước nóng này đã có bộ lọc này được đặt rồi." />
+    <TextStringDefinition InstanceID="0xB1F89F99" TextString="Khiến sim cảm thấy tươi mới, giảm thời gian của trạng thái Buồn bã và cung cấp trạng thái Hạnh phúc." />
+    <TextStringDefinition InstanceID="0xC3CD6A05" TextString="Xuống" />
+    <TextStringDefinition InstanceID="0xDFCDAA8D" TextString="Trân trọng" />
+    <TextStringDefinition InstanceID="0x10B41FE8" TextString="Mở Pháo hoa Lễ hội" />
+    <TextStringDefinition InstanceID="0x4991B0B6" TextString="VĂN BẢN GIỮ CHỖ: THẤT BẠI. ĐỐI TƯỢNG HỎNG" />
+    <TextStringDefinition InstanceID="0xBC525511" TextString="Thuê Huấn luyện viên Pump It Up" />
+    <TextStringDefinition InstanceID="0xEA927023" TextString="Một Huấn luyện viên Pump It Up được chứng nhận sẽ đến sớm thôi." />
+    <TextStringDefinition InstanceID="0x4EFA0565" TextString="Giúp {1.SimFirstName} Khám phá Đồ ăn" />
+    <TextStringDefinition InstanceID="0x7A2F90B9" TextString="(Từ việc Thử món ăn Ghét)" />
+    <TextStringDefinition InstanceID="0x0698948E" TextString="(Từ việc Thử món ăn Yêu thích)" />
+    <TextStringDefinition InstanceID="0xCA5621D4" TextString="Ẩn" />

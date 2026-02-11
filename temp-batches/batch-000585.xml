@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x8FBFA3E5" TextString="Vai trò Hiện tại" />
+    <TextStringDefinition InstanceID="0x09280806" TextString="Phần &lt;b&gt;Vai trò Hiện tại&lt;/b&gt; hiển thị tất cả các vai trò được bao gồm trong Địa điểm Tùy chỉnh này. Chọn chân dung Sim để tùy chỉnh chi tiết như tiêu chí, trang phục và hoạt động." />
+    <TextStringDefinition InstanceID="0x5798141A" TextString="Phần &lt;b&gt;Vai trò Hiện tại&lt;/b&gt; hiển thị tất cả các vai trò được bao gồm trong Chuyến đi này. Chọn chân dung Sim để gán Sim vào vai trò và tùy chỉnh chi tiết như tiêu chí, trang phục và hoạt động." />
+    <TextStringDefinition InstanceID="0x759E6002" TextString="+ Tạo Mới" />
+    <TextStringDefinition InstanceID="0x387AEE0C" TextString="Thay đổi Lịch trình?" />
+    <TextStringDefinition InstanceID="0xD8EDA8FC" TextString="Bạn có chắc chắn muốn chọn một lịch trình mới không? Mọi thay đổi chưa lưu hoặc quy tắc được gán cho lịch trình hiện tại sẽ bị mất. Thay đổi có thể được lưu bằng cách chọn nút &lt;b&gt;Lưu Preset&lt;/b&gt; bên cạnh hộp thả xuống preset lịch trình." />
+    <TextStringDefinition InstanceID="0x3499BB0C" TextString="Không thể lưu đè lên Preset Lịch trình này." />
+    <TextStringDefinition InstanceID="0xD985C7A8" TextString="Preset lịch trình này không thể bị xóa." />
+    <TextStringDefinition InstanceID="0xC3A27FFA" TextString="Lịch trình phải có tên." />
+    <TextStringDefinition InstanceID="0xD2634223" TextString="Tạo mới hoặc quản lý các vai trò hiện có trong lịch trình. Nhiều vai trò hơn có sẵn dưới thẻ &lt;b&gt;Thư viện Vai trò&lt;/b&gt; và có thể được thêm trực tiếp vào lịch trình.\n\nCác vai trò tùy chỉnh có thể được tạo bằng nút &lt;b&gt;Tạo Vai trò&lt;/b&gt; và lưu vào Thư viện Vai trò để sử dụng lại sau." />
+    <TextStringDefinition InstanceID="0x3026AF4D" TextString="Vai trò" />
+    <TextStringDefinition InstanceID="0xFF824F31" TextString="Tổng số Sim" />
+    <TextStringDefinition InstanceID="0xC7611601" TextString="Gán Sim vào Vai trò" />
+    <TextStringDefinition InstanceID="0x12480A22" TextString="Chọn các Sim cụ thể để gán vào vai trò này. Số lượng Sim được chọn không được vượt quá tổng số được đặt cho vai trò này.\nNếu không đủ Sim được chọn, các vị trí còn lại sẽ được điền bởi các Sim ngẫu nhiên phù hợp với tiêu chí.\n\n&lt;font color='#EC262E'&gt;Lưu ý: Nếu tiêu chí được đặt, chỉ chế độ xem lọc &lt;b&gt;Ưu tiên&lt;/b&gt; hoặc &lt;b&gt;Phù hợp Tiêu chí&lt;/b&gt; sẽ hiển thị các Sim phù hợp. Tuy nhiên, bạn vẫn có thể chọn các Sim không đáp ứng tiêu chí bằng cách chuyển sang các chế độ xem lọc khác.&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x9DB2A89B" TextString="Sim này đã được gán vào một vai trò trong khung thời gian này." />
+    <TextStringDefinition InstanceID="0x7A455959" TextString="Chọn tổng số Sim cho vai trò này và chọn một số Tiêu chí Vai trò. Chúng tôi sẽ tự động điền các Sim phù hợp nhất cho vai trò này!" />
+    <TextStringDefinition InstanceID="0x6315048A" TextString="Không có Sim nào đáp ứng tiêu chí đã chỉ định. Chúng tôi sẽ đảm bảo các Sim đủ điều kiện được điền cho vai trò." />
+    <TextStringDefinition InstanceID="0xEE393F09" TextString="{0.Number}/{1.Number} Tối đa" />
+    <TextStringDefinition InstanceID="0xCF8847C3" TextString="Nếu được chọn, khung thời gian này sẽ sử dụng cùng một bộ Tiêu chí Vai trò cho vai trò này trong Thư viện Vai trò Đã lên lịch." />
+    <TextStringDefinition InstanceID="0xC3C70533" TextString="Kế thừa từ Preset" />
+    <TextStringDefinition InstanceID="0xC3FE4230" TextString="Tăng số lượng" />
+    <TextStringDefinition InstanceID="0xE8F586DF" TextString="Xóa Tiêu chí" />
+    <TextStringDefinition InstanceID="0x5133C120" TextString="Giảm số lượng" />
+    <TextStringDefinition InstanceID="0xB8C883F0" TextString="Tiêu chí Vai trò" />
+    <TextStringDefinition InstanceID="0x4EDC9AF0" TextString="Tiêu chí cho một vai trò chỉ có thể được thay đổi ở cấp độ toàn bộ lịch trình." />
+    <TextStringDefinition InstanceID="0x51C0F2BE" TextString="Thêm Tiêu chí Vai trò..." />
+    <TextStringDefinition InstanceID="0xBF0484CE" TextString="Kiểm tra điều này sẽ yêu cầu tất cả các Sim được tự động điền phải đáp ứng ít nhất một tiêu chí được chọn." />
+    <TextStringDefinition InstanceID="0x7F452E33" TextString="Thêm tiêu chí để lọc các Sim phù hợp với vai trò này. Tiêu chí có thể được đánh dấu là ưu tiên hoặc bắt buộc. Chỉ thẻ &lt;b&gt;Ưu tiên&lt;/b&gt; hoặc &lt;b&gt;Phù hợp Tiêu chí&lt;/b&gt; từ bộ chọn Sim sẽ lọc các Sim phù hợp với tiêu chí. " />
+    <TextStringDefinition InstanceID="0xD12D29E4" TextString="Quần đảo Turks và Caicos" />
+    <TextStringDefinition InstanceID="0xE699DE85" TextString="Cộng hòa Liên bang Tanzania" />
+    <TextStringDefinition InstanceID="0xCD43D671" TextString="Tajikistan" />
+    <TextStringDefinition InstanceID="0xCBC5A34F" TextString="Đài Loan" />
+    <TextStringDefinition InstanceID="0x0F1BD712" TextString="Thụy Sĩ" />
+    <TextStringDefinition InstanceID="0x8B8C5A4B" TextString="Thụy Điển" />
+    <TextStringDefinition InstanceID="0x74DB03BE" TextString="Swaziland" />
+    <TextStringDefinition InstanceID="0x03451357" TextString="Saint Vincent và Grenadines" />
+    <TextStringDefinition InstanceID="0x59351859" TextString="Suriname" />
+    <TextStringDefinition InstanceID="0x3BA9424C" TextString="Sudan" />
+    <TextStringDefinition InstanceID="0x05451626" TextString="São Tomé và Príncipe" />
+    <TextStringDefinition InstanceID="0x09451CCF" TextString="Saint Pierre và Miquelon" />
+    <TextStringDefinition InstanceID="0x7F9314DE" TextString="Tây Ban Nha" />
+    <TextStringDefinition InstanceID="0xA4A9CFA3" TextString="Somalia" />
+    <TextStringDefinition InstanceID="0xFE450B37" TextString="Saint Martin [phần Pháp]" />
+    <TextStringDefinition InstanceID="0xF52B5E0B" TextString="San Marino" />
+    <TextStringDefinition InstanceID="0xC89F177A" TextString="Slovenia" />
+    <TextStringDefinition InstanceID="0x80E4158F" TextString="Slovakia" />
+    <TextStringDefinition InstanceID="0xFD4509D2" TextString="Sierra Leone" />
+    <TextStringDefinition InstanceID="0xFD4509DF" TextString="Saint Lucia" />
+    <TextStringDefinition InstanceID="0xF52B5E0A" TextString="Sri Lanka" />
+    <TextStringDefinition InstanceID="0x00450E19" TextString="Saint Kitts và Nevis" />

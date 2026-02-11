@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xF0DDBFD1" TextString="Gói Đồ Dùng" />
+    <TextStringDefinition InstanceID="0xC5D3414A" TextString="Đặc biệt" />
+    <TextStringDefinition InstanceID="0x04654EB9" TextString="Gói" />
+    <TextStringDefinition InstanceID="0xEBA8A62E" TextString="Đã mua" />
+    <TextStringDefinition InstanceID="0x1E67C42E" TextString="Nội dung tùy chỉnh" />
+    <TextStringDefinition InstanceID="0x90B77A53" TextString="Đã khóa" />
+    <TextStringDefinition InstanceID="0x09A123BF" TextString="Bộ dụng cụ" />
+    <TextStringDefinition InstanceID="0x779DEF53" TextString="Gói Trò chơi" />
+    <TextStringDefinition InstanceID="0xE38D887A" TextString="Gói Mở rộng" />
+    <TextStringDefinition InstanceID="0x08783439" TextString="Xong" />
+    <TextStringDefinition InstanceID="0x46AE54E8" TextString="Nội dung" />
+    <TextStringDefinition InstanceID="0x04CC1BCD" TextString="Màu sắc" />
+    <TextStringDefinition InstanceID="0x9D0F5874" TextString="Xóa tất cả" />
+    <TextStringDefinition InstanceID="0x651B81A4" TextString="Sân Hiên Hoàn Hảo" />
+    <TextStringDefinition InstanceID="0x651B81A7" TextString="Tiệc Sang Trọng" />
+    <TextStringDefinition InstanceID="0xA675CDE9" TextString="Đồ Miễn phí" />
+    <TextStringDefinition InstanceID="0x0FC79B0D" TextString="Đi Làm" />
+    <TextStringDefinition InstanceID="0xD479E0F4" TextString="Bạn không có nội dung này." />
+    <TextStringDefinition InstanceID="0xEB8987BC" TextString="Mở bảng lọc" />
+    <TextStringDefinition InstanceID="0x2B4DD678" TextString="Đóng bảng lọc" />
+    <TextStringDefinition InstanceID="0xDCEB9257" TextString="Lọc giống..." />
+    <TextStringDefinition InstanceID="0x7A5BD652" TextString="Lọc vật phẩm..." />
+    <TextStringDefinition InstanceID="0xE49C8EC1" TextString="{0.String} {1.Number}" />
+    <TextStringDefinition InstanceID="0x0F69371A" TextString="Chọn Mẫu Lịch trình" />
+    <TextStringDefinition InstanceID="0x6C18E47B" TextString="Thiết lập một bộ sưu tập vai trò và hoạt động theo lịch dễ dàng bằng cách chọn một trong các &lt;b&gt;Mẫu Lịch trình&lt;/b&gt;, hoặc chọn &lt;b&gt;Lưu Mẫu&lt;/b&gt; để tạo mẫu lịch trình tùy chỉnh có thể sử dụng lại trong các Địa điểm Tùy chỉnh trong tương lai!" />
+    <TextStringDefinition InstanceID="0x06E9105B" TextString="Thiết lập một bộ sưu tập vai trò và hoạt động theo lịch dễ dàng bằng cách chọn một trong các &lt;b&gt;Mẫu Lịch trình&lt;/b&gt;, hoặc chọn &lt;b&gt;Lưu Mẫu&lt;/b&gt; để tạo Mẫu Lịch trình tùy chỉnh có thể sử dụng lại sau này." />
+    <TextStringDefinition InstanceID="0x7BC6D955" TextString="Lịch trình" />
+    <TextStringDefinition InstanceID="0x1CCE1BFA" TextString="Lưu đè lên mẫu hiện có." />
+    <TextStringDefinition InstanceID="0x2BEBEB1D" TextString="Ghi đè {0.String}" />
+    <TextStringDefinition InstanceID="0x87C96D71" TextString="Bạn có chắc chắn muốn ghi đè {0.String} trong Thư viện bằng phiên bản mới này không? Bất kỳ lô đất hiện có hoặc Kỳ nghỉ dự định nào sử dụng lịch trình cũ sẽ không thay đổi." />
+    <TextStringDefinition InstanceID="0xF9758C76" TextString="Lưu Mẫu Mới" />
+    <TextStringDefinition InstanceID="0x25EF6347" TextString="Một Mẫu Lịch trình với tên này đã tồn tại. Vui lòng chọn tên khác để lưu làm mới." />
+    <TextStringDefinition InstanceID="0xC350436A" TextString="Không có gì để lưu đè, không có Mẫu Lịch trình nào trong Thư viện có cùng tên này." />
+    <TextStringDefinition InstanceID="0x2616105A" TextString="Không có Mẫu Lịch trình nào với tên này trong Thư viện để xóa." />
+    <TextStringDefinition InstanceID="0xDEEE295F" TextString="Phải tạo mới hoặc chọn một Mẫu Lịch trình hiện có." />
+    <TextStringDefinition InstanceID="0x9EA60A08" TextString="Tên đang được chỉnh sửa" />
+    <TextStringDefinition InstanceID="0x5C400F26" TextString="Chọn để hiển thị các vai trò đã lên lịch." />
+    <TextStringDefinition InstanceID="0xEDFE97C9" TextString="Quản lý Vai trò Đã lên lịch" />
+    <TextStringDefinition InstanceID="0xA62750CB" TextString="Thư viện Vai trò" />
+    <TextStringDefinition InstanceID="0x053A8374" TextString="Thư viện &lt;b&gt;Vai trò&lt;/b&gt; chứa các vai trò đã lưu có thể sử dụng lại sau này. Những thay đổi đối với vai trò từ thư viện này không thể thực hiện trực tiếp nhưng có thể thực hiện dưới mục Vai trò Hiện tại. Chọn &lt;b&gt;Xem Vai trò&lt;/b&gt; của vai trò bạn muốn chỉnh sửa rồi &lt;b&gt;Thêm vào Vai trò Hiện tại&lt;/b&gt;." />
+    <TextStringDefinition InstanceID="0xD26568C9" TextString="Một hoặc nhiều khung giờ đã phát hiện lỗi. Di chuột qua biểu tượng lỗi để tìm hiểu thêm." />
+    <TextStringDefinition InstanceID="0xDE127ECD" TextString="Lịch trình hiện tại không hợp lệ:\n" />
+    <TextStringDefinition InstanceID="0x1D369E04" TextString="Xóa mẫu này" />
+    <TextStringDefinition InstanceID="0x1C67DF5F" TextString="Xóa {0.String}?" />
+    <TextStringDefinition InstanceID="0xB8FB4A67" TextString="Bạn có chắc chắn muốn xóa {0.String} khỏi thư viện không? Bất kỳ lô đất hiện có hoặc Kỳ nghỉ dự định nào sử dụng lịch trình đó sẽ không bị ảnh hưởng." />
+    <TextStringDefinition InstanceID="0xC8366D0B" TextString="Mẫu Tùy chỉnh" />
+    <TextStringDefinition InstanceID="0x17AC91F7" TextString="Vai trò Tùy chỉnh" />
+    <TextStringDefinition InstanceID="0xA1D8E2B5" TextString="(Lịch trình Đã gán cho Lô đất)" />
+    <TextStringDefinition InstanceID="0xDE70380C" TextString="Chọn để hiển thị thư viện vai trò." />
+    <TextStringDefinition InstanceID="0x0DD15C4F" TextString="Quản lý Thư viện Vai trò" />

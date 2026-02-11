@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x621AD062" TextString="Thần tượng tuổi teen" />
+    <TextStringDefinition InstanceID="0x9C872E4A" TextString="Nhà bếp Deluxe HBD" />
+    <TextStringDefinition InstanceID="0x5900475E" TextString="Đơn giản" />
+    <TextStringDefinition InstanceID="0xB0D21A02" TextString="Sống đương đại" />
+    <TextStringDefinition InstanceID="0x77FFF2C7" TextString="Ảo tưởng về đồ ăn" />
+    <TextStringDefinition InstanceID="0x0B997722" TextString="Hương vị của hiệu quả" />
+    <TextStringDefinition InstanceID="0x398095FE" TextString="Ngủ đơn giản" />
+    <TextStringDefinition InstanceID="0x0A3BBAF6" TextString="Trần truồng đến mức tối đa" />
+    <TextStringDefinition InstanceID="0x3C0EEEEA" TextString="Vinh quang sâu sắc" />
+    <TextStringDefinition InstanceID="0xA0509B0E" TextString="Hoài niệm hoàng gia" />
+    <TextStringDefinition InstanceID="0xA4A20253" TextString="Ẩm thực thời Victoria" />
+    <TextStringDefinition InstanceID="0x645E9B5E" TextString="Đại sảnh" />
+    <TextStringDefinition InstanceID="0xB32E7737" TextString="Tiếp tục nâng cấp Cột thu lôi" />
+    <TextStringDefinition InstanceID="0x94F1A6E1" TextString="Thu hút tia sét và siêu năng lượng điện khi bị trúng, tạo ra nhiều năng lượng hơn." />
+    <TextStringDefinition InstanceID="0xC34A6D64" TextString="Cho phép tuabin gió thu hút tia sét và sau đó siêu năng lượng điện khi bị trúng, tạo ra nhiều năng lượng hơn." />
+    <TextStringDefinition InstanceID="0xE65B60FD" TextString="Cột thu lôi" />
+    <TextStringDefinition InstanceID="0xCBB94638" TextString="Bạn phải chờ cô dâu chú rể cắt miếng đầu tiên." />
+    <TextStringDefinition InstanceID="0x498A5C24" TextString="Tiếp tục nâng cấp Vòi phun xung" />
+    <TextStringDefinition InstanceID="0x7F862D40" TextString="Vòi phun xung" />
+    <TextStringDefinition InstanceID="0xE80A3C4D" TextString="Tiếp tục nâng cấp Vòi phun thư giãn" />
+    <TextStringDefinition InstanceID="0x3A92882B" TextString="Vòi phun thư giãn" />
+    <TextStringDefinition InstanceID="0x894BE8FC" TextString="Cần sạch sẽ nhanh hơn? Nếu bạn không muốn tắm, việc lắp đặt vòi phun là một cách tốt." />
+    <TextStringDefinition InstanceID="0x99B4FC19" TextString="Vòi phun thư giãn...chìa khóa cho sự thư giãn trong bồn tắm." />
+    <TextStringDefinition InstanceID="0x3C46B02D" TextString="Nâng cấp hoàn tất!\n\n{0.SimFirstName} đã hoàn thành việc lắp đặt các nâng cấp cho bồn tắm vòi phun." />
+    <TextStringDefinition InstanceID="0xDC0F2304" TextString="Tháo bỏ Trang trí bánh cưới" />
+    <TextStringDefinition InstanceID="0xAEF20798" TextString="Cắt bánh cưới" />
+    <TextStringDefinition InstanceID="0x2E78128B" TextString="Thêm Trang trí bánh cưới" />
+    <TextStringDefinition InstanceID="0x04FF8D14" TextString="Lập kế hoạch Sự kiện Cưới hỏi" />
+    <TextStringDefinition InstanceID="0xC3E7F15F" TextString="Kết hôn với một Sim đang làm việc cho bạn sẽ không phù hợp. Sa thải họ khỏi vai trò để theo đuổi mối quan hệ hơn." />
+    <TextStringDefinition InstanceID="0xDE412691" TextString="Mơ mộng về đám cưới" />
+    <TextStringDefinition InstanceID="0x97F0D44B" TextString="Bạn đang quá căng thẳng để làm điều này ngay bây giờ." />
+    <TextStringDefinition InstanceID="0x0F9992D0" TextString="Bạn đang quá tức giận để làm điều này ngay bây giờ." />
+    <TextStringDefinition InstanceID="0x86F1CE38" TextString="Bạn đang quá buồn để làm điều này ngay bây giờ." />
+    <TextStringDefinition InstanceID="0xBD138156" TextString="Bạn đang quá khó chịu để làm điều này ngay bây giờ." />
+    <TextStringDefinition InstanceID="0xE968BD77" TextString="Bạn đang quá tức giận để làm điều này ngay bây giờ." />
+    <TextStringDefinition InstanceID="0x25EA649E" TextString="Lo lắng về đám cưới" />
+    <TextStringDefinition InstanceID="0xFA4607C4" TextString="Chụp ảnh" />
+    <TextStringDefinition InstanceID="0x0351D9B9" TextString="Kiểm tra Địa điểm" />
+    <TextStringDefinition InstanceID="0x7AE9650C" TextString="Kết hôn với" />
+    <TextStringDefinition InstanceID="0x3F01CE7C" TextString="Xem" />
+    <TextStringDefinition InstanceID="0x217946E8" TextString="Gửi tin nhắn cưới hỏi tán tỉnh" />
+    <TextStringDefinition InstanceID="0x301E3D49" TextString="Chế giễu {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x54E43315" TextString="Chế giễu" />
+    <TextStringDefinition InstanceID="0x0E3BF9E6" TextString="Cổ vũ cho {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x37548DF2" TextString="Bạn đang quá xấu hổ để làm điều này ngay bây giờ." />
+    <TextStringDefinition InstanceID="0x2511A7D2" TextString="Vỗ tay" />
+    <TextStringDefinition InstanceID="0xA5C2DDE4" TextString="Chúc mừng cuộc hôn nhân mới! Bạn có muốn chuyển đến sống cùng nhau ngay bây giờ không?" />
+    <TextStringDefinition InstanceID="0xB4666CD3" TextString="Mới kết hôn!" />
+    <TextStringDefinition InstanceID="0x97E24596" TextString="Tập hợp để nâng ly" />
+    <TextStringDefinition InstanceID="0xB25189C7" TextString="Không có Xô nước mừng trên lô đất." />

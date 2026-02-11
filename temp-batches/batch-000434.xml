@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x0CA2D043" TextString="Đọc Như Cuốn Sách Mở" />
+    <TextStringDefinition InstanceID="0x2388C2E9" TextString="Đừng Vứt Rác (Làm Ơn)" />
+    <TextStringDefinition InstanceID="0xF590DCA8" TextString="Tìm Thấy Kho Báu (Lại Một Lần Nữa)" />
+    <TextStringDefinition InstanceID="0x3189BA11" TextString="Đang Rút Lui" />
+    <TextStringDefinition InstanceID="0xED6EC326" TextString="Nhiều Đồ Rác Quá!" />
+    <TextStringDefinition InstanceID="0xF0ECC1E1" TextString="Quay Trở Lại Tàu" />
+    <TextStringDefinition InstanceID="0xCC886E64" TextString="Quay Lại Lối Vào Cây" />
+    <TextStringDefinition InstanceID="0xADB9C176" TextString="Theo Dõi Dòng Chảy Ngược Lên" />
+    <TextStringDefinition InstanceID="0xB238070E" TextString="Theo Dõi Ánh Sáng" />
+    <TextStringDefinition InstanceID="0x9D4F43DC" TextString="Đi Đến Đồng Cỏ" />
+    <TextStringDefinition InstanceID="0x88EF24FC" TextString="Theo Dõi Dòng Chảy Xuống" />
+    <TextStringDefinition InstanceID="0x7BE78F13" TextString="Tránh Sương Mù" />
+    <TextStringDefinition InstanceID="0x94FDDA0A" TextString="Theo Dõi Âm Thanh" />
+    <TextStringDefinition InstanceID="0xD2B24536" TextString="Bước Vào Sương Mù" />
+    <TextStringDefinition InstanceID="0xE39ACC92" TextString="Cuộc Phiêu Lưu Trên Cây" />
+    <TextStringDefinition InstanceID="0xA49BF214" TextString="Thân cây này to hơn nhiều so với dự đoán! Trời tối... nhưng không hề đáng sợ. Một ánh sáng mờ nhỏ là nguồn sáng duy nhất, tiếng nước chảy ùng ục là âm thanh duy nhất." />
+    <TextStringDefinition InstanceID="0x062BE074" TextString="Sương mù ấm áp và thân thiện, xét về mặt sương mù. Không báo trước, {0.SimFirstName} cảm thấy mình bị xoay quanh, một lối ra khỏi hang động hiện ra ngay trước mặt {M0.him}{F0.her}." />
+    <TextStringDefinition InstanceID="0x42A36C7D" TextString="May mắn tránh được sương mù, {0.SimFirstName} đã an toàn, nhưng hoàn toàn bị mất phương hướng. {M0.He}{F0.She} loay hoay, cuối cùng bò về phía cửa vào thân cây hang động rộng lớn." />
+    <TextStringDefinition InstanceID="0xEB461155" TextString="{0.SimFirstName} đi sâu hơn một chút, và nơi đó tối hơn. Một tiếng splash nhỏ cho {M0.him}{F0.her} biết rằng {M0.he}{F0.she} vừa bước vào một dòng suối nông." />
+    <TextStringDefinition InstanceID="0xA8290E7A" TextString="Chọn con đường ít khó khăn nhất, và hy vọng nó không dẫn đến cống thoát nước chính, {0.SimFirstName} bị phân tâm bởi một làn sương mù huyền ảo, phát sáng đầy ám ảnh." />
+    <TextStringDefinition InstanceID="0xA913EBA1" TextString="{0.SimFirstName} theo ánh sáng, và sớm nhận ra nó đến từ chính nơi {M0.he}{F0.she} đã bước vào." />
+    <TextStringDefinition InstanceID="0xA9231410" TextString="{0.SimFirstName} bước lên một con dốc nhẹ, với chỉ sự chống trả nhẹ nhàng của dòng chảy để dẫn lối cho {M0.him}{F0.her}. Tuy nhiên, sớm thôi mọi thứ khô cằn. Không có ánh sáng hay định hướng, {M0.he}{F0.she} đi lạc trong bóng tối." />
+    <TextStringDefinition InstanceID="0x5CA9CCD3" TextString="Quyên Góp §50" />
+    <TextStringDefinition InstanceID="0xCF6AFB6F" TextString="Quyên Góp §100" />
+    <TextStringDefinition InstanceID="0xBC945D07" TextString="Quyên Góp §10" />
+    <TextStringDefinition InstanceID="0xC5A060B6" TextString="Khám Phá Cây Cổng Thần Kỳ Đậu Thần" />
+    <TextStringDefinition InstanceID="0xADD56AD0" TextString="{0.SimFirstName} bước vào cổng, mong đợi bóng tối, nhưng thay vào đó được chào đón bởi một đồng cỏ nắng sáng rực rỡ, tràn ngập mọi loại thực vật.\n\nMột cái cây đứng ở một bên, phát sáng và trĩu quả.\n\n{0.SimFirstName} hái một quả từ cây, và ngay lập tức thấy cảnh quan nắng sáng tan rã thành bóng tối. Trước khi {M0.he}{F0.she} kịp biết, {M0.he}{F0.she} đã bước ra khỏi cổng của cây với thứ gì đó trong túi {M0.his}{F0.her}." />
+    <TextStringDefinition InstanceID="0x6C26EEF5" TextString="Chúng tôi rất tiếc, nhưng cổng hiện đang đóng. Vui lòng thử lại lúc 10h sáng khi chúng tôi sẽ mở cửa đón khách công chúng lần nữa. Chúng tôi rất trân trọng sự quan tâm của bạn, và hy vọng được gặp bạn trong các cành cây của chúng tôi sớm.\n\n-Dịch Vụ Quản Lý Cổng" />
+    <TextStringDefinition InstanceID="0x14293EFF" TextString="Gặp Khách Hàng" />
+    <TextStringDefinition InstanceID="0xD8ABEB84" TextString="Gặp Lớp Học" />
+    <TextStringDefinition InstanceID="0xD8E468DA" TextString="Tạo Bức Tranh Theo Yêu Cầu Của Khách Hàng" />
+    <TextStringDefinition InstanceID="0x2B62F82C" TextString="Đi Đến Hang Đá Bị Lãng Quên" />
+    <TextStringDefinition InstanceID="0xFEF7523D" TextString="Tiếp Tục Leo" />
+    <TextStringDefinition InstanceID="0x0BBA3953" TextString="Đi Theo Đường Zigzag" />
+    <TextStringDefinition InstanceID="0x84907954" TextString="Đi Theo Lối Đường Rộng" />
+    <TextStringDefinition InstanceID="0x41CB73F8" TextString="Leo Thang" />
+    <TextStringDefinition InstanceID="0xF80A0714" TextString="Đi Theo Lối Đường Hẹp" />
+    <TextStringDefinition InstanceID="0x7AE43FDC" TextString="Đi Đến Hang Đá" />
+    <TextStringDefinition InstanceID="0xBFC1131E" TextString="Quay Lại Lối Vào Hang" />
+    <TextStringDefinition InstanceID="0xEC2A6D0F" TextString="Bước Lên Mỏm Đá" />
+    <TextStringDefinition InstanceID="0x1F1BC759" TextString="Đường zigzag dẫn {0.SimFirstName} lên và xuống một hành lang ẩm ướt, quanh một khúc cua, và qua một đường hầm đặc biệt hẹp. {0.SimFirstName} đã quay lại lối vào!" />
+    <TextStringDefinition InstanceID="0x1F931247" TextString="Không cần thử điều gì nguy hiểm! {0.SimFirstName} rình rập xuống nhánh chính, và nhìn qua ánh sáng mờ còn lại thấy một đường zigzag dần dần lên cao, và một cái thang gỗ ọp ẹp dẫn xuống." />
+    <TextStringDefinition InstanceID="0xCCDC5F5E" TextString="Đang Khám Phá Hang Đá" />
+    <TextStringDefinition InstanceID="0x1E5E12D0" TextString="{0.SimFirstName}, người thám hiểm gan dạ, bắt đầu thám hiểm hang đá. Có hai con đường. Con đường hẹp hơn một chút hơi chật hẹp, nhưng {0.SimFirstName} có thể vừa vặn nếu {M0.he}{F0.she} chen chúc." />
+    <TextStringDefinition InstanceID="0xFC41119A" TextString="Một con đường phủ rêu mềm dẫn {0.SimFirstName} đi tiếp một cách dễ dàng, cho đến khi {M0.he}{F0.she} nhìn thấy lối vào một hang đá tuyệt đẹp." />
+    <TextStringDefinition InstanceID="0x59ED3145" TextString="{0.SimFirstName} thận trọng lao vào một vực thẳm đen kịt, mò mẫm theo những thanh thang gãy gộc. Sau một quãng đường dài xuống, một ánh sáng xanh nhạt bắt đầu lấp đầy khoảng không bên dưới. {M0.He}{F0.She} có thể bước xuống một mỏm đá rêu tối tăm, hoặc tiếp tục đi vào màu xanh." />
+    <TextStringDefinition InstanceID="0x82092651" TextString="Khe nứt tối tăm, quanh co quá khó để đi qua. {0.SimFirstName} nhanh chóng bị bế tắc và bực bội." />
+    <TextStringDefinition InstanceID="0x73A3BA62" TextString="Những thanh thang dường như vô tận dẫn {0.SimFirstName} xuống, xuống, và xuống thêm. Sau một khoảng thời gian mệt mỏi, {M0.he}{F0.she} nhận ra {M0.he}{F0.she} cần phải rút lui, e rằng {M0.he}{F0.she} sẽ bị kẹt ở đó mãi mãi... " />
+    <TextStringDefinition InstanceID="0x12422D4F" TextString="Đập Vỡ Ra" />
+    <TextStringDefinition InstanceID="0xD666E395" TextString="Yêu Cầu Kỹ Năng Khéo Léo Cấp 10." />

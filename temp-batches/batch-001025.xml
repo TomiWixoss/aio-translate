@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xF9ED357A" TextString="Cấm Người Bán Hàng" />
+    <TextStringDefinition InstanceID="0xD1724F86" TextString="Điều này ảnh hưởng đến khả năng của tất cả Chào Đón Tân Binh và tất cả NPC Sự Kiện Thử Thách đến trước cửa nhà của Sim hoặc không." />
+    <TextStringDefinition InstanceID="0x5BB24BFE" TextString="Cho Phép Người Bán Hàng" />
+    <TextStringDefinition InstanceID="0xC43BD0A2" TextString="Cấm Hàng Xóm" />
+    <TextStringDefinition InstanceID="0x69653B2E" TextString="Điều này ảnh hưởng đến khả năng của bất kỳ hàng xóm nào đến trước cửa nhà của Sim hoặc không." />
+    <TextStringDefinition InstanceID="0xF55E976A" TextString="Cho Phép Hàng Xóm" />
+    <TextStringDefinition InstanceID="0x8C9BA920" TextString="Cấm Bạn Bè" />
+    <TextStringDefinition InstanceID="0x6C7ED518" TextString="Điều này ảnh hưởng đến khả năng của bạn bè đến trước cửa nhà của Sim hoặc không." />
+    <TextStringDefinition InstanceID="0x8BE4EEC0" TextString="Cho Phép Bạn Bè" />
+    <TextStringDefinition InstanceID="0x448D6561" TextString="Xem" />
+    <TextStringDefinition InstanceID="0x1C7DFF31" TextString="Đốt Cháy" />
+    <TextStringDefinition InstanceID="0x34E14F27" TextString="Dọn Dẹp Trò Chơi" />
+    <TextStringDefinition InstanceID="0x9CB5BCA5" TextString="Chơi" />
+    <TextStringDefinition InstanceID="0x15AA0395" TextString="Chơi Cùng Nhau" />
+    <TextStringDefinition InstanceID="0xED1AFDD4" TextString="Chơi Với" />
+    <TextStringDefinition InstanceID="0x02F1DD49" TextString="Luyện Tập" />
+    <TextStringDefinition InstanceID="0x778531DB" TextString="Xem Sửa Chữa" />
+    <TextStringDefinition InstanceID="0x2DFA8820" TextString="Tham Gia Chơi với Búp Bê" />
+    <TextStringDefinition InstanceID="0xB0858EE4" TextString="Mời Chơi với Búp Bê" />
+    <TextStringDefinition InstanceID="0xB685016E" TextString="Tham Gia Chơi với Búp Bê" />
+    <TextStringDefinition InstanceID="0x9F2DD452" TextString="Mời Chơi Búp Bê" />
+    <TextStringDefinition InstanceID="0xF5D2E965" TextString="Đập Phá" />
+    <TextStringDefinition InstanceID="0x3E5CE016" TextString="Khuyến Khích Đập Phá Nhà Búp Bê" />
+    <TextStringDefinition InstanceID="0x6425DCDF" TextString="Cấm Đập Phá Nhà Búp Bê" />
+    <TextStringDefinition InstanceID="0x1C3B71A8" TextString="Yêu Cầu Không Đập Phá Nhà Búp Bê" />
+    <TextStringDefinition InstanceID="0xB24FF656" TextString="Mắng Vì Đập Phá Nhà Búp Bê" />
+    <TextStringDefinition InstanceID="0x163FFDE3" TextString="Ôm Ít Về Việc Đập Phá Nhà Búp Bê" />
+    <TextStringDefinition InstanceID="0xD142EC9C" TextString="Thể Hiện Sự Thất Vọng Vì Đập Phá Nhà Búp Bê" />
+    <TextStringDefinition InstanceID="0x2E83F3D9" TextString="Cho Thời Gian Nghỉ Vì Đập Phá Nhà Búp Bê" />
+    <TextStringDefinition InstanceID="0x6FED844A" TextString="Nói Không Đập Phá Nhà Búp Bê" />
+    <TextStringDefinition InstanceID="0xF97BF7AE" TextString="Sửa Chữa" />
+    <TextStringDefinition InstanceID="0xE8E4DAF7" TextString="Đặt Tên Cho Búp Bê" />
+    <TextStringDefinition InstanceID="0xA3E824D6" TextString="{0.SimFirstName} chưa thể làm việc này. Cần đạt Cột Mốc Nắm Bắt." />
+    <TextStringDefinition InstanceID="0x185B5EEF" TextString="(Từ Việc Chơi Với Nhà Búp Bê)" />
+    <TextStringDefinition InstanceID="0xE1981757" TextString="Chơi Búp Bê" />
+    <TextStringDefinition InstanceID="0x8795B9D2" TextString="Tham Gia Chơi với Búp Bê" />
+    <TextStringDefinition InstanceID="0x8CD1AE66" TextString="Mời Chơi với Búp Bê" />
+    <TextStringDefinition InstanceID="0xECCE43FC" TextString="Tham Gia Chơi với Búp Bê" />
+    <TextStringDefinition InstanceID="0xA641EBE0" TextString="Mời Chơi Búp Bê" />
+    <TextStringDefinition InstanceID="0x5CA4761C" TextString="Tham Gia Chơi Búp Bê" />
+    <TextStringDefinition InstanceID="0x063812E0" TextString="Chơi với Nhà của {1.ObjectName}" />
+    <TextStringDefinition InstanceID="0xD9254DD0" TextString="Kể Một Câu Chuyện Về Búp Bê" />
+    <TextStringDefinition InstanceID="0x4F7E4CF2" TextString="(Từ Việc Chơi Với Nhà Búp Bê)" />
+    <TextStringDefinition InstanceID="0xF4C24292" TextString="Chơi Búp Bê Với" />
+    <TextStringDefinition InstanceID="0x6230C3EB" TextString="Yêu Cầu Sửa Chữa" />
+    <TextStringDefinition InstanceID="0xA2AA7C57" TextString="Sửa Giúp" />
+    <TextStringDefinition InstanceID="0x6A297063" TextString="Sửa" />
+    <TextStringDefinition InstanceID="0xF8B1B609" TextString="Khóc Vì Nhà Búp Bê Hư" />
+    <TextStringDefinition InstanceID="0x023BBAA6" TextString="Yêu Cầu Sửa Chữa..." />
+    <TextStringDefinition InstanceID="0xD512BFEA" TextString="Nhảy Vào Bể" />

@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x6348E202" TextString="Chia sẻ hình xăm lên Twitter" />
+    <TextStringDefinition InstanceID="0x503F91D8" TextString="Chia sẻ hộ gia đình lên Twitter" />
+    <TextStringDefinition InstanceID="0x943DDBEE" TextString="Mục này phải được chia sẻ lên Thư viện trước khi có thể chia sẻ lên Twitter." />
+    <TextStringDefinition InstanceID="0xB7D76492" TextString="Chia sẻ lô đất lên Twitter" />
+    <TextStringDefinition InstanceID="0x3062D0A1" TextString="Lưu vào Thư viện Cá nhân trước khi gửi nội dung này." />
+    <TextStringDefinition InstanceID="0xB9371477" TextString="Gửi một bản sao của hộ gia đình này lên {0.String}!" />
+    <TextStringDefinition InstanceID="0x861ABFC5" TextString="Gửi một bản sao của lô đất này lên {0.String}!" />
+    <TextStringDefinition InstanceID="0x20BB0653" TextString="{0.String}'s {1.String}" />
+    <TextStringDefinition InstanceID="0x2B13E1CB" TextString="Sim này có một Khát vọng là một phần của nội dung bạn hiện không sở hữu." />
+    <TextStringDefinition InstanceID="0x115EB398" TextString="Chia sẻ Phòng lên Thư viện" />
+    <TextStringDefinition InstanceID="0xD588A916" TextString="Chia sẻ hình xăm lên Thư viện" />
+    <TextStringDefinition InstanceID="0x6C1BAEFC" TextString="Chia sẻ hộ gia đình lên Thư viện" />
+    <TextStringDefinition InstanceID="0xC0F948A5" TextString="Mục này vượt quá giới hạn vật thể duy nhất. Hãy loại bỏ một số vật thể này để cho phép chia sẻ." />
+    <TextStringDefinition InstanceID="0xB20E2B8E" TextString="Chia sẻ lô đất lên Thư viện" />
+    <TextStringDefinition InstanceID="0xBFDB5328" TextString="Trưng bày Mục trong Hồ sơ Của bạn" />
+    <TextStringDefinition InstanceID="0xADB76260" TextString="Chọn Ảnh" />
+    <TextStringDefinition InstanceID="0x9912A92A" TextString="Đặt lô đất này sẽ vượt quá giới hạn đơn vị hoặc lô đất của tệp lưu. Số đơn vị hiện tại của tệp lưu là {0.Number}/{1.Number}." />
+    <TextStringDefinition InstanceID="0xF142F99A" TextString="Lưu Phòng vào Thư viện Cá nhân" />
+    <TextStringDefinition InstanceID="0x2318F4B8" TextString="Lưu hình xăm vào Thư viện Cá nhân" />
+    <TextStringDefinition InstanceID="0x8E5CE03A" TextString="Lưu hộ gia đình vào Thư viện Cá nhân" />
+    <TextStringDefinition InstanceID="0xF10FE358" TextString="Phòng đã được lưu" />
+    <TextStringDefinition InstanceID="0xB539D8D6" TextString="Hình xăm đã được lưu" />
+    <TextStringDefinition InstanceID="0x6CAA66BC" TextString="Hộ gia đình đã được lưu" />
+    <TextStringDefinition InstanceID="0xAFDB0D4E" TextString="Lô đất đã được lưu" />
+    <TextStringDefinition InstanceID="0x8A9F7B84" TextString="Lưu lô đất vào Thư viện Cá nhân" />
+    <TextStringDefinition InstanceID="0x6B305DDF" TextString="Ngẫu nhiên hóa Chân dung" />
+    <TextStringDefinition InstanceID="0x2A1CA18B" TextString="Yêu thích" />
+    <TextStringDefinition InstanceID="0x52B3FBDF" TextString="Tải xuống" />
+    <TextStringDefinition InstanceID="0xE0F9DC17" TextString="Mục Thư viện này được tạo bằng Nội dung Tùy chỉnh có thể không có sẵn cho bạn. Nội dung Tùy chỉnh không được Maxis sàng lọc trước. Sử dụng theo ý định của bạn." />
+    <TextStringDefinition InstanceID="0x1F70030E" TextString="Lô đất này được xây dựng với một gian lận đã bỏ giới hạn 6 đơn vị cho Thuê nhà Cư dân. Nó có thể không hiển thị như mong đợi." />
+    <TextStringDefinition InstanceID="0x403D56F9" TextString="Phòng Yêu thích" />
+    <TextStringDefinition InstanceID="0x5C3143AF" TextString="Hình xăm Yêu thích" />
+    <TextStringDefinition InstanceID="0xE076B09B" TextString="Hộ gia đình Yêu thích" />
+    <TextStringDefinition InstanceID="0x6D38D8C9" TextString="Không thể yêu thích mục của chính bạn." />
+    <TextStringDefinition InstanceID="0x31AD0869" TextString="Hộ gia đình phải được lưu để thêm vào Yêu thích." />
+    <TextStringDefinition InstanceID="0x1070EEF1" TextString="Lô đất Yêu thích" />
+    <TextStringDefinition InstanceID="0x51C22A26" TextString="Dịch vụ Facebook không khả dụng" />
+    <TextStringDefinition InstanceID="0x65173069" TextString="Chia sẻ Phòng lên Facebook" />
+    <TextStringDefinition InstanceID="0xA109BCDF" TextString="Chia sẻ hình xăm lên Facebook" />
+    <TextStringDefinition InstanceID="0x348EF2CB" TextString="Chia sẻ hộ gia đình lên Facebook" />
+    <TextStringDefinition InstanceID="0xACA2B679" TextString="Mục này phải được chia sẻ lên Thư viện trước khi có thể chia sẻ lên Facebook." />
+    <TextStringDefinition InstanceID="0x46308E21" TextString="Chia sẻ lô đất lên Facebook" />
+    <TextStringDefinition InstanceID="0x84A17A05" TextString="Xóa khỏi Thư viện Cá nhân" />
+    <TextStringDefinition InstanceID="0xF2AF0E3A" TextString="Mục phải được chia sẻ để cho phép bình luận." />
+    <TextStringDefinition InstanceID="0xCEAF3EFC" TextString="Không thể lưu nội dung vì nó được tạo bằng phiên bản game mới hơn. Khởi động lại game để kiểm tra cập nhật." />
+    <TextStringDefinition InstanceID="0x97C9DE48" TextString="Không thể đặt nội dung vì nó được tạo bằng phiên bản game mới hơn. Khởi động lại game để kiểm tra cập nhật." />
+    <TextStringDefinition InstanceID="0x26658699" TextString="Bạn không có nội dung cần thiết cho những hình xăm này." />
+    <TextStringDefinition InstanceID="0x657C685C" TextString="Bạn không có nội dung cần thiết cho những thú cưng này." />
+    <TextStringDefinition InstanceID="0x2CF44D43" TextString="Chia sẻ và Chơi" />
+    <TextStringDefinition InstanceID="0x4ECB6AA5" TextString="Lô đất này không thể chỉnh sửa được khi đang trong kỳ nghỉ" />

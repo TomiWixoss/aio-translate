@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x52E07B9A" TextString="Tổ chức Bài giảng về {2.String} cho" />
+    <TextStringDefinition InstanceID="0x970DB83E" TextString="Lấy đồ uống cho" />
+    <TextStringDefinition InstanceID="0x04F4A1AF" TextString="Lấy đồ ăn cho {2.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xB4BE492C" TextString="Lăng mạ Sim khác" />
+    <TextStringDefinition InstanceID="0x662316D7" TextString="Ai là người mà {1.SimFirstName} không nên thích?" />
+    <TextStringDefinition InstanceID="0xBAAF60DA" TextString="Khen ngợi Sim khác" />
+    <TextStringDefinition InstanceID="0x00FCFEED" TextString="Ai là người mà {1.SimFirstName} nên làm quen?" />
+    <TextStringDefinition InstanceID="0x502AD659" TextString="Hẹn hò với" />
+    <TextStringDefinition InstanceID="0x8BCCE8EE" TextString="Ai là người mà {1.SimFirstName} nên thử hẹn hò?" />
+    <TextStringDefinition InstanceID="0xB6EFFA5A" TextString="Chia tay với" />
+    <TextStringDefinition InstanceID="0xB42CA86D" TextString="Ai là người mà {1.SimFirstName} nên chia tay?" />
+    <TextStringDefinition InstanceID="0x4ECCCCCF" TextString="Nhận Bồn tắm bong bóng từ {2.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xF523B827" TextString="Nhận Bồn tắm bong bóng từ" />
+    <TextStringDefinition InstanceID="0x393C52A1" TextString="Nhận Bồn tắm từ" />
+    <TextStringDefinition InstanceID="0x45D4E040" TextString="Nhận Bồn tắm từ {2.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x25FF657B" TextString="Bong bóng" />
+    <TextStringDefinition InstanceID="0x363B2880" TextString="Yêu cầu {2.SimFirstName} tắm bong bóng" />
+    <TextStringDefinition InstanceID="0x7B28DD5C" TextString="Yêu cầu tắm bong bóng" />
+    <TextStringDefinition InstanceID="0x2142C0F2" TextString="Cho tắm nhanh và ấm áp" />
+    <TextStringDefinition InstanceID="0xA84683DC" TextString="Yêu cầu tắm" />
+    <TextStringDefinition InstanceID="0x7A4DFBCB" TextString="Yêu cầu {2.SimFirstName} tắm" />
+    <TextStringDefinition InstanceID="0xF4B4ABA6" TextString="Cho tắm bong bóng" />
+    <TextStringDefinition InstanceID="0xA01E0F47" TextString="Yêu cầu tắm bong bóng" />
+    <TextStringDefinition InstanceID="0xD5A67184" TextString="Viết bài báo" />
+    <TextStringDefinition InstanceID="0x2541BE3D" TextString="Này, không ai hoàn hảo. Một nửa đúng còn tốt hơn hoàn toàn sai." />
+    <TextStringDefinition InstanceID="0x2C03B2FD" TextString="Ồ. Hóa ra {0.SimFirstName} nên chú ý hơn. Sếp của {M0.his}{F0.her} hét lên: “Bạn được giao nhiệm vụ sửa TẤT CẢ lỗi! Nếu không thì tôi sẽ thể hiện thế nào?”" />
+    <TextStringDefinition InstanceID="0x9D2FCB18" TextString="{M0.He}{F0.She} không thể thuyết phục được, nên studio đã thuê một người viết khác. Bộ phim thất bại tại phòng vé và giờ họ có thể không làm phần tiếp theo nữa!" />
+    <TextStringDefinition InstanceID="0xDBC465CF" TextString="{0.SimFirstName} tự viết kịch bản, và nó thành công rực rỡ. Hợp đồng của {M0.him}{F0.her} thậm chí còn đảm bảo {0.SimPronounObjective} được nhiều tiền hơn lần này!" />
+    <TextStringDefinition InstanceID="0xB62F3180" TextString="{0.SimFirstName} có bằng chứng về tất cả các hành vi sai trái, và chính trị gia không thể phủ nhận. Bài báo gây chấn động." />
+    <TextStringDefinition InstanceID="0xEF40C2DE" TextString="Chính trị gia phủ nhận tất cả, vì vậy là lời nói của ông ta chống lại lời của {0.SimFirstName}. Nhưng vì ông ta là chính trị gia, {0.SimFirstName} mới là người bị coi là xấu." />
+    <TextStringDefinition InstanceID="0xFFC9EB2F" TextString="Nói sự thật" />
+    <TextStringDefinition InstanceID="0x8728279A" TextString="Nói rằng họ đã giúp" />
+    <TextStringDefinition InstanceID="0x69076E81" TextString="Đi một mình" />
+    <TextStringDefinition InstanceID="0x101783BB" TextString="Nhận sự giúp đỡ" />
+    <TextStringDefinition InstanceID="0x23080E85" TextString="Bỏ qua" />
+    <TextStringDefinition InstanceID="0x62F0F155" TextString="Chống lại" />
+    <TextStringDefinition InstanceID="0x90703025" TextString="Dập tắt bài báo" />
+    <TextStringDefinition InstanceID="0x5CE59D62" TextString="Tiết lộ tất cả" />
+    <TextStringDefinition InstanceID="0x47E77E42" TextString="Sau khi {0.SimFirstName} thuyết phục anh ta, cựu người hâm mộ nhận ra mọi thứ không tệ như vậy. Thực tế, anh ta thực sự biết ơn vì được tư vấn thêm!" />
+    <TextStringDefinition InstanceID="0xBC5E109F" TextString="Cựu người hâm mộ không thích lời khuyên của {0.SimFirstName} lần đầu - tại sao anh ta lại muốn thêm?! Anh ta hét lên và gây chuyện cho đến khi bảo vệ kéo đi." />
+    <TextStringDefinition InstanceID="0x249CB0E2" TextString="Làm điều tương tự" />
+    <TextStringDefinition InstanceID="0x9CAAE39E" TextString="Thử điều mới" />
+    <TextStringDefinition InstanceID="0x01B30D83" TextString="Thu hồi quyền" />
+    <TextStringDefinition InstanceID="0x44C79CC8" TextString="Thuyết phục Studio" />
+    <TextStringDefinition InstanceID="0x05ABEB68" TextString="Người lý tưởng" />
+    <TextStringDefinition InstanceID="0x32EFA9E3" TextString="Người đương nhiệm" />
+    <TextStringDefinition InstanceID="0x64B1BCF8" TextString="Mặc dù chính người hâm mộ yêu cầu, họ vẫn ghét nó. Cuốn sách thất bại." />
+    <TextStringDefinition InstanceID="0x09792B42" TextString="Mọi người đều yêu cuốn sách mới! {0.SimFirstName} thậm chí còn tìm ra một cách đáng tin để đưa nhân vật trở về từ cõi chết. Hóa ra cái chết của anh ta được giả mạo để đoàn kết đội ngũ!" />
+    <TextStringDefinition InstanceID="0x0682B965" TextString="Cái này quá sức với {0.SimFirstName}, và {M0.he}{F0.she} đã làm hỏng. Có lẽ {M0.he}{F0.she} sẽ xử lý được khi có thêm kinh nghiệm." />
+    <TextStringDefinition InstanceID="0xB2E82202" TextString="{0.SimFirstName} làm việc chăm chỉ và hoàn thành xuất sắc. Mọi người trong đội ngũ đều ấn tượng, và sự hy sinh là đáng giá." />

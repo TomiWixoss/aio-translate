@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x353963B7" TextString="{0.SimFirstName} giờ đã biết tất cả những gì sắp xảy ra… hoặc ít nhất là họ nghĩ vậy. Đội kia không chơi bất kỳ chiến thuật nào trong sách, và liên tục đánh bại đội của {0.SimFirstName}. Cuốn sách ấy chắc chắn chỉ là một cuốn sách giả!" />
+    <TextStringDefinition InstanceID="0x8054FCAA" TextString="{0.SimFirstName} vật lộn qua trận đấu, nhưng chưa bao giờ thực sự cảm thấy như {M0.chính mình}{F0.chính mình}. Nhìn chung, đây là một nỗ lực khá trung bình." />
+    <TextStringDefinition InstanceID="0xF734756F" TextString="Huấn luyện viên nói chỉ là căng cơ và cung cấp một liệu pháp massage mô sâu. {0.SimFirstName} cảm thấy tuyệt vời và có một màn trình diễn đặc sắc trong nỗ lực chiến thắng!" />
+    <TextStringDefinition InstanceID="0x36637A26" TextString="Huấn luyện viên cảm thấy việc chơi trò chơi sẽ là một lựa chọn tồi, và bắt {0.SimFirstName} ngồi ngoài. Đội thua. Vẫn còn tốt hơn là chịu một chấn thương tồi tệ hơn!" />
+    <TextStringDefinition InstanceID="0x49D04218" TextString="{0.SimFirstName} đã được gửi đến trường mầm non." />
+    <TextStringDefinition InstanceID="0x5EB1AB32" TextString="{0.SimFirstNameList} đã được gửi đến trường mầm non. Họ đang trong những bàn tay tốt!" />
+    <TextStringDefinition InstanceID="0x4AC439C7" TextString="{0.SimFirstName} đã trở về từ trường mầm non!" />
+    <TextStringDefinition InstanceID="0x97CDA123" TextString="{0.SimFirstNameList} đã trở về từ trường mầm non." />
+    <TextStringDefinition InstanceID="0xB90EB981" TextString="{0.SimFirstName} biết được rằng {1.SimFirstName} đang thất nghiệp." />
+    <TextStringDefinition InstanceID="0x8EA2E19E" TextString="{0.SimFirstName} biết được rằng {1.SimFirstName} là một {F1.mẹ}{M1.cha} ở nhà." />
+    <TextStringDefinition InstanceID="0x6E226C8D" TextString="{0.SimFirstName} biết được rằng {1.SimFirstName} là {3.String|enAn} tại {4.String}." />
+    <TextStringDefinition InstanceID="0xF111C04C" TextString="{0.SimFirstName} biết được rằng {1.SimFirstName} đã nghỉ hưu." />
+    <TextStringDefinition InstanceID="0xCDF062BF" TextString="Tôi khá hài lòng. Tôi gần đây đã được đề cử là nhân viên của tháng!" />
+    <TextStringDefinition InstanceID="0x3D414091" TextString="Tôi không thể chờ đến lần thăng chức tiếp theo. Nó đi kèm với &lt;i&gt;hai&lt;/i&gt; liềm!" />
+    <TextStringDefinition InstanceID="0x30297DA8" TextString="Tôi thực sự thích những triển vọng tăm tối." />
+    <TextStringDefinition InstanceID="0x16F726CB" TextString="Tôi thích nơi này rất nhiều. Phúc lợi ở đây thật sự là cứu cánh!" />
+    <TextStringDefinition InstanceID="0x3364BFAF" TextString="Hãy cho tôi biết nếu bạn quan tâm đến chương trình giới thiệu khách hàng của chúng tôi." />
+    <TextStringDefinition InstanceID="0xFE66456B" TextString="À, tôi bận không lối thoát. Với tất cả các hồ bơi đang được xây dựng, tôi đã chìm ngập trong giấy tờ." />
+    <TextStringDefinition InstanceID="0xF0C1506B" TextString="Gì? Tôi là Thần Chết!" />
+    <TextStringDefinition InstanceID="0x27770651" TextString="Nó vừa phải. Chương trình trung thành của khách hàng tôi thực sự chưa thực sự phát triển." />
+    <TextStringDefinition InstanceID="0x0DF9C953" TextString="Bạn có chút nào quan tâm đến ưu đãi mua 1 tặng 1 của tôi không?" />
+    <TextStringDefinition InstanceID="0x0FB404BA" TextString="Tôi ghét cà rốt. Đừng bao giờ nói với tôi về cà rốt. Nhưng tôi thực sự yêu công việc của mình." />
+    <TextStringDefinition InstanceID="0x2F0C8424" TextString="Ảnh hồ sơ nhân viên của tôi rất không thời trang. Tôi sẽ phải chụp một tấm mới." />
+    <TextStringDefinition InstanceID="0xB90C581A" TextString="Bạn sẽ sớm biết thôi." />
+    <TextStringDefinition InstanceID="0xA3843331" TextString="Ồ, bạn sẽ sớm biết thôi-- chờ đã! Tôi đã nói quá nhiều." />
+    <TextStringDefinition InstanceID="0x441C6C94" TextString="Công việc của tôi đòi hỏi phải đi lại nhiều, nhưng việc vượt qua kiểm tra an ninh sân bay đang trở nên ngày càng phiền toái." />
+    <TextStringDefinition InstanceID="0x412F6EB4" TextString="Tôi không thể nhớ lần cuối cùng tôi có thời gian nghỉ ngơi. Con người đôi khi có thể rất ích kỷ." />
+    <TextStringDefinition InstanceID="0xBA09C5D6" TextString="Điều này thực sự chỉ là một sở thích. Hầu hết thời gian, bạn sẽ thấy tôi trên các diễn đàn." />
+    <TextStringDefinition InstanceID="0xF6826E6B" TextString="Bạn biết người ta nói gì không: nếu bạn yêu công việc mình làm, bạn sẽ không làm việc một ngày nào trong đời. Hoặc sau đời." />
+    <TextStringDefinition InstanceID="0x77259D59" TextString="Tôi ước chúng ta có Thứ Sáu Thường Trực. Chiếc quần jean của tôi đang tích tụ khá nhiều bụi." />
+    <TextStringDefinition InstanceID="0xFB17E41A" TextString="Vấn đề Chính trị" />
+    <TextStringDefinition InstanceID="0x80B13DBC" TextString="{0.SimFirstName} học được rằng chính phủ đang lập kế hoạch ban hành các quy định mới sẽ làm giảm lợi nhuận của công ty. {M0.Anh ấy}{F0.Cô ấy} nên bỏ công sức chiến đấu chống lại luật mới hay soạn thảo một bản cải tổ lớn cho mô hình kinh doanh của công ty để giảm thiểu tác động của các quy định mới này?" />
+    <TextStringDefinition InstanceID="0x3864E112" TextString="Chiến đấu chống Luật" />
+    <TextStringDefinition InstanceID="0x10FE643A" TextString="Cải tổ Kinh doanh" />
+    <TextStringDefinition InstanceID="0xF5B8A50D" TextString="Mua lại" />
+    <TextStringDefinition InstanceID="0xBEA6926F" TextString="Một công ty đối thủ đề nghị mua lại công ty của {0.SimFirstName} với một mức giá thấp hơn giá thị trường. Ưu đãi này không có nhiều cơ hội tăng trưởng cho {M0.anh ấy}{F0.cô ấy} nhưng lại cung cấp một gói bồi thường khá tốt. {M0.Anh ấy}{F0.Cô ấy} nên chấp nhận ưu đãi không?" />
+    <TextStringDefinition InstanceID="0xC469A149" TextString="Chấp nhận Ưu đãi" />
+    <TextStringDefinition InstanceID="0xD87ECB39" TextString="Từ chối Ưu đãi" />
+    <TextStringDefinition InstanceID="0xCB11DC98" TextString="Hài hước Không phù hợp" />
+    <TextStringDefinition InstanceID="0xC423BBBE" TextString="Trong một cuộc họp nhóm với CEO, một trong những Phó chủ tịch khác đã đưa ra một bình luận không phù hợp và kết quả là phần còn lại của cuộc họp khá khó xử. Sau khi cuộc họp kết thúc, {0.SimFirstName} thấy {M0.chính mình}{F0.chính mình} ở một mình với CEO. {M0.Anh ấy}{F0.Cô ấy} sẽ dùng bình luận của Phó chủ tịch để {M0.lợi cho mình}{F0.lợi cho mình} hay sẽ {M0.anh ấy}{F0.cô ấy} để mặc nó?" />
+    <TextStringDefinition InstanceID="0xEC2D305C" TextString="Cố gắng Trông Tốt" />
+    <TextStringDefinition InstanceID="0x73CA2928" TextString="Để mặc nó" />
+    <TextStringDefinition InstanceID="0x396488A3" TextString="Miệng Rau Củ" />
+    <TextStringDefinition InstanceID="0x18628F31" TextString="Trước một cuộc họp nhóm, {0.SimFirstName} nhận thấy {M0.chủ nhà}{F0.chủ nhà} của mình có một mảnh rau bina to kẹt trong răng. {M0.Anh ấy}{F0.Cô ấy} có nên nói gì không?" />
+    <TextStringDefinition InstanceID="0xD22A2693" TextString="Nói Gì Đó" />
+    <TextStringDefinition InstanceID="0x402ADDD7" TextString="Không Nói Gì" />
+    <TextStringDefinition InstanceID="0x63E9DEBE" TextString="Cơ hội Đầu tư" />
+    <TextStringDefinition InstanceID="0x83198030" TextString="{0.SimFirstName} nghe nói về một công ty khởi nghiệp mới với một thuật toán nén tuyệt vời có tiềm năng trở thành cơn sốt công nghệ tiếp theo. {M0.Anh ấy}{F0.Cô ấy} sẽ đầu tư ngay bây giờ hay chờ một chút nữa để xem liệu công ty khởi nghiệp có thể thực hiện được những gì họ tuyên bố không?" />
+    <TextStringDefinition InstanceID="0x632911C6" TextString="Đầu tư" />
+    <TextStringDefinition InstanceID="0xBDA3E2DE" TextString="Chờ đợi" />

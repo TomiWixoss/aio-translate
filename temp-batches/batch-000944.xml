@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x5825C09B" TextString="Phải đã đính hôn." />
+    <TextStringDefinition InstanceID="0x85DCDDC4" TextString="Các Sim này sắp kết hôn!" />
+    <TextStringDefinition InstanceID="0x3F046BD6" TextString="Cô dâu hoặc chú rể" />
+    <TextStringDefinition InstanceID="0x9ECE70E2" TextString="Nếu có một điều mà người ta mong đợi từ một đám cưới, đó là... bánh. Còn nhảy. Nhưng chắc chắn phải có thức ăn ở đâu đó, phải không?" />
+    <TextStringDefinition InstanceID="0x69B62686" TextString="{M0.Groom}{F0.Bride}" />
+    <TextStringDefinition InstanceID="0x9D219F96" TextString="Phải đã đính hôn." />
+    <TextStringDefinition InstanceID="0xD10661A5" TextString="Đám cưới cần có bánh và khung cưới." />
+    <TextStringDefinition InstanceID="0x5EFBE9AD" TextString="Không ai thích đám cưới khô khan! Hãy giữ những đồ uống -- và niềm vui -- chảy!" />
+    <TextStringDefinition InstanceID="0x6E6708BE" TextString="Cô dâu hoặc chú rể" />
+    <TextStringDefinition InstanceID="0xCE88B481" TextString="Tôi nên đi thôi. Cảm ơn vì đã ở lại với tôi. Hẹn gặp lại." />
+    <TextStringDefinition InstanceID="0x4C24CA7A" TextString="Người chạy bộ" />
+    <TextStringDefinition InstanceID="0x04861071" TextString="Người đi biển" />
+    <TextStringDefinition InstanceID="0x692935D6" TextString="Nhà sưu tập thiếu niên xuất sắc" />
+    <TextStringDefinition InstanceID="0x175457C3" TextString="Dịch vụ sửa chữa" />
+    <TextStringDefinition InstanceID="0x259E4C3A" TextString="Cảnh sát" />
+    <TextStringDefinition InstanceID="0x2072AEC0" TextString="Phụ huynh" />
+    <TextStringDefinition InstanceID="0x3A97F4A7" TextString="{M0.Play Friend}{F0.Play Friend}" />
+    <TextStringDefinition InstanceID="0x4A277ACE" TextString="Bạn chơi" />
+    <TextStringDefinition InstanceID="0x2063A077" TextString="{M0.Host}{F0.Host}" />
+    <TextStringDefinition InstanceID="0xD73F4BAC" TextString="Đây là bữa tiệc của Hộ gia đình bạn -- có lẽ bạn sẽ quyết định tham gia vào niềm vui." />
+    <TextStringDefinition InstanceID="0xC3201F1E" TextString="Cư dân" />
+    <TextStringDefinition InstanceID="0x571A3281" TextString="Phải là thành viên hộ gia đình; thiếu niên trở lên." />
+    <TextStringDefinition InstanceID="0x3507AE02" TextString="Đây là bữa tiệc của bạn -- hãy đảm bảo mọi người có một thời gian vui vẻ." />
+    <TextStringDefinition InstanceID="0xD2A6AE00" TextString="Chủ tiệc" />
+    <TextStringDefinition InstanceID="0xD510B196" TextString="Bạn sẽ cần một micro để chế giễu Khách mời danh dự." />
+    <TextStringDefinition InstanceID="0x1C311B7A" TextString="Bạn đã được mời để trở thành linh hồn của bữa tiệc... hoặc ít nhất là không làm mọi người khác buồn." />
+    <TextStringDefinition InstanceID="0xABCD55D8" TextString="Khách" />
+    <TextStringDefinition InstanceID="0xE822D8AE" TextString="Người giám sát" />
+    <TextStringDefinition InstanceID="0x6B7119E4" TextString="{M0.Host}{F0.Host}" />
+    <TextStringDefinition InstanceID="0x2A10909F" TextString="Chủ tiệc cần tủ lạnh, bàn làm việc và lò nướng." />
+    <TextStringDefinition InstanceID="0xBE2BFEE7" TextString="Người tham dự buổi gặp gỡ" />
+    <TextStringDefinition InstanceID="0x2840AD3A" TextString="Giảng viên lớp sở thích" />
+    <TextStringDefinition InstanceID="0xA38FA017" TextString="Người tham dự lớp sở thích" />
+    <TextStringDefinition InstanceID="0x7BB80106" TextString="Khách cần chỗ ngồi." />
+    <TextStringDefinition InstanceID="0xB595C276" TextString="Không có bữa tiệc nào như bữa tiệc hóa trang... trang phục tùy chọn." />
+    <TextStringDefinition InstanceID="0xB1A84807" TextString="Mặc những bộ đồ đen trắng đẹp nhất của bạn... đã đến lúc có một bữa tiệc." />
+    <TextStringDefinition InstanceID="0x8408551E" TextString="Trở thành linh hồn của bữa tiệc sinh nhật." />
+    <TextStringDefinition InstanceID="0x87DE358C" TextString="Khách" />
+    <TextStringDefinition InstanceID="0x2CF47E02" TextString="Người làm vườn chuyên nghiệp" />
+    <TextStringDefinition InstanceID="0xBFB9C642" TextString="{M0.Musician}{F0.Musician}" />
+    <TextStringDefinition InstanceID="0xBA393BC7" TextString="Một chút âm nhạc trực tiếp làm cho mọi sự kiện xã hội trở nên tốt hơn!" />
+    <TextStringDefinition InstanceID="0x51171BB7" TextString="Nhạc công" />
+    <TextStringDefinition InstanceID="0xD92DD3C7" TextString="Phải có kỹ năng Hài kịch từ 5 trở lên." />
+    <TextStringDefinition InstanceID="0xFEB28E8A" TextString="Diễn viên hài" />
+    <TextStringDefinition InstanceID="0x08B1C9E4" TextString="Diễn viên hài cần micro." />
+    <TextStringDefinition InstanceID="0xC82FE8FC" TextString="Có lẽ nên giữ phong cách lần này... để thay đổi." />
+    <TextStringDefinition InstanceID="0xAC86EA8C" TextString="{M0.Entertainer}{F0.Entertainer}" />
+    <TextStringDefinition InstanceID="0x14C1C81C" TextString="Yêu cầu Kỹ năng Piano cấp 3 trở lên." />
+    <TextStringDefinition InstanceID="0x3F400E41" TextString="Một số người làm nhẹ nhàng, một số người đập phím dữ dội. Dù sao đi nữa, công việc của bạn là đảm bảo mọi người có một thời gian vui vẻ." />
+    <TextStringDefinition InstanceID="0x0F5672BE" TextString="Nhấp vào {2.SimFirstName} và chọn một trong các tùy chọn Trò chuyện từ Danh mục Thân thiện." />

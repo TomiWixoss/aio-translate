@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x69103EB3" TextString="(Từ việc ghét câu cá)" />
+    <TextStringDefinition InstanceID="0x1548F419" TextString="(Từ việc thích câu cá)" />
+    <TextStringDefinition InstanceID="0xA7EFB353" TextString="Do một quy định môi trường, câu cá là bất hợp pháp tại thời điểm này. Bị bắt có thể dẫn đến một khoản phạt nặng." />
+    <TextStringDefinition InstanceID="0x2E635ED4" TextString="Câu Cá M lớn" />
+    <TextStringDefinition InstanceID="0x0C82D110" TextString="Câu cá khi tập trung sẽ tăng khả năng bắt được cá hiếm." />
+    <TextStringDefinition InstanceID="0x04A395F6" TextString="Câu Cá M lớn" />
+    <TextStringDefinition InstanceID="0x5AA293E9" TextString="Đi Câu Cá" />
+    <TextStringDefinition InstanceID="0xE719446D" TextString="Kiểm Tra Nước" />
+    <TextStringDefinition InstanceID="0x0DFA93ED" TextString="{0.SimFirstName} dường như không thể đọc được ý tưởng của những con cá này. Có thể thử lại sau." />
+    <TextStringDefinition InstanceID="0x27864B01" TextString="Chưa có gì mới. Quay lại sau." />
+    <TextStringDefinition InstanceID="0xCAF36616" TextString="Kiểm Tra Nước Một Cách Cẩn Thận" />
+    <TextStringDefinition InstanceID="0x6D166B30" TextString="Đi Câu Cá Bằng Cung" />
+    <TextStringDefinition InstanceID="0x1497611D" TextString="Câu Cá Bằng Mồi" />
+    <TextStringDefinition InstanceID="0x66B9107A" TextString="Chọn mồi ngon nhất của bạn!" />
+    <TextStringDefinition InstanceID="0xE57695EF" TextString="Thử nghiệm với các loại mồi khác nhau và bắt được những con cá to và đẹp hơn!" />
+    <TextStringDefinition InstanceID="0x9B8124BF" TextString="Đặt {1.ObjectName} vào Hành Trang" />
+    <TextStringDefinition InstanceID="0x7731359C" TextString="Thêm Cá" />
+    <TextStringDefinition InstanceID="0x9771EC33" TextString="Treo" />
+    <TextStringDefinition InstanceID="0x14091110" TextString="Tự Sưởi Ấm" />
+    <TextStringDefinition InstanceID="0xD77ABC14" TextString="Tiếp Tục Lắp Đặt Lưới Bảo Vệ Lửa" />
+    <TextStringDefinition InstanceID="0x975708DC" TextString="Tiếp Tục Lắp Đặt Đèn Tự Động" />
+    <TextStringDefinition InstanceID="0x7212EE35" TextString="Làm Cho Bài Tập Về Nhà Có Sẵn" />
+    <TextStringDefinition InstanceID="0x04ED2B5F" TextString="Đặt Đèn Nhấp Nháy: Bật" />
+    <TextStringDefinition InstanceID="0x81C9DB89" TextString="Đặt Đèn Nhấp Nháy: Tắt" />
+    <TextStringDefinition InstanceID="0x2C9A8F48" TextString="Sinh Trái Cây (Gỡ Lỗi)" />
+    <TextStringDefinition InstanceID="0xE6849E39" TextString="GỠ LỖI: Buộc Ngoại Lệ" />
+    <TextStringDefinition InstanceID="0x9CA4CA90" TextString="GỠ LỖI: Buộc Lỗi" />
+    <TextStringDefinition InstanceID="0x18090A22" TextString="GỠ LỖI: Buộc Khẳng Định" />
+    <TextStringDefinition InstanceID="0x2CC79E93" TextString="Gỡ Lỗi - Tạo Rác" />
+    <TextStringDefinition InstanceID="0x4D7B14E9" TextString="Gỡ Lỗi - Tạo Vũng Nước" />
+    <TextStringDefinition InstanceID="0xF9034690" TextString="Tạo Bạn Bè (Mẹo)" />
+    <TextStringDefinition InstanceID="0x6C9705D7" TextString="Làm Đói (Gỡ Lỗi)" />
+    <TextStringDefinition InstanceID="0x80ACC7C4" TextString="Cho Tất Cả Đậu Ma Thuật (Gỡ Lỗi)" />
+    <TextStringDefinition InstanceID="0x71D3D31E" TextString="Thêm Đồ Vào Hành Trang Sim (Gỡ Lỗi)" />
+    <TextStringDefinition InstanceID="0xE341141C" TextString="Thêm Thức Ăn Hư Vào Hành Trang Sim (Gỡ Lỗi)" />
+    <TextStringDefinition InstanceID="0xD889A371" TextString="Xây Tên Lửa (GỠ LỖI)" />
+    <TextStringDefinition InstanceID="0x5129C95D" TextString="Phá Đồ Vật (GỠ LỖI)" />
+    <TextStringDefinition InstanceID="0x3E78C986" TextString="Đặt Tình Bạn Tối Thiểu" />
+    <TextStringDefinition InstanceID="0x33B33590" TextString="Đặt Tình Bạn Tối Đa" />
+    <TextStringDefinition InstanceID="0xAFF7A3F2" TextString="Đặt Mối Quan Hệ Gần Bạn" />
+    <TextStringDefinition InstanceID="0x12F10E8C" TextString="Làm Thành Bạn" />
+    <TextStringDefinition InstanceID="0xAB130FE3" TextString="Thêm Hiệu Ứng Đặc Tính Gỡ Lỗi" />
+    <TextStringDefinition InstanceID="0xC89ED438" TextString="Thêm Hiệu Ứng Tương Tác Gỡ Lỗi" />
+    <TextStringDefinition InstanceID="0xB17DC6D0" TextString="Thêm Hiệu Ứng Kết Quả Thất Bại Gỡ Lỗi" />
+    <TextStringDefinition InstanceID="0x62D2C648" TextString="Hiệu Ứng này chỉ sẽ buộc Thất Bại nếu được điều chỉnh trong tương tác. Hỏi Nhà Thiết Kế của bạn để kết nối nó nếu cần cho việc kiểm tra. Mặc định nó nên làm bất kỳ tương tác Kết Quả Kép nào thất bại nhưng điều đó không còn được sử dụng thường xuyên nữa." />
+    <TextStringDefinition InstanceID="0x7AEC4D3E" TextString="Phàn Nàn Về Hoạt Động Vất Vả" />
+    <TextStringDefinition InstanceID="0x659D98BA" TextString="Bị Nén Chết Bởi Máy Bán Hàng" />
+    <TextStringDefinition InstanceID="0x323CBB2F" TextString="Chết Vì Quá Nóng" />
+    <TextStringDefinition InstanceID="0x04DD6156" TextString="{0.SimName} đã sống một cuộc đời tốt đẹp, nhưng {M0.his}{F0.her} thời gian cuối cùng đã đến. {M0.He}{F0.She} đang chết vì quá nóng trong phòng tắm hơi." />
+    <TextStringDefinition InstanceID="0x623FC01F" TextString="Tuổi Già" />

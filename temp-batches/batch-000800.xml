@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x3B754A98" TextString="Là Đầu bếp rửa bát, {0.SimFirstName} có thể chọn những chiếc đĩa nào {M0.he}{F0.she} muốn rửa. Những chiếc nồi và chảo khó chùi không còn là vấn đề, trừ khi {0.SimFirstName} muốn chúng là vấn đề. Chỉ những chiếc đĩa đẹp nhất mới được đặt trong tay {0.SimFirstName}." />
+    <TextStringDefinition InstanceID="0xB358AA1F" TextString="Đầu bếp rửa bát" />
+    <TextStringDefinition InstanceID="0xDF833A55" TextString="Đã đến lúc làm việc của một thiết bị gia đình thông thường! {0.SimFirstName} sẽ chà xát đĩa, đảm bảo ly pha lê không còn dấu son môi, và bắt chuyện với các Sim không thể trả tiền!" />
+    <TextStringDefinition InstanceID="0x52D6FA12" TextString="Phụ tá rửa bát" />
+    <TextStringDefinition InstanceID="0x21149530" TextString="Một số người có thể nói {0.SimFirstName} đã bán đứng để đạt được vị thế chính thống, nhưng {0.SimFirstName} không thể nghe thấy họ. {M0.He}{F0.She} đang thư giãn trong văn phòng riêng của {M0.him}{F0.her}, ăn khai vị trước lò sưởi, và xem xét hợp đồng mới nhất cho chương trình truyền hình, sách nấu ăn và dòng dụng cụ phục vụ." />
+    <TextStringDefinition InstanceID="0xE225DB07" TextString="Đầu bếp nổi tiếng" />
+    <TextStringDefinition InstanceID="0xC58E30E7" TextString="Chúc mừng {0.SimFirstName}! {M0.He}{F0.She} giờ đây là chủ nhân của căn bếp. Chửi bới cấp dưới, đòi hỏi món ăn được nấu lại, hét lên với cấp dưới, quở trách cấp dưới -- tất cả đều có thể làm ngay bây giờ!" />
+    <TextStringDefinition InstanceID="0x19DC64EC" TextString="Đầu bếp điều hành" />
+    <TextStringDefinition InstanceID="0xF9259512" TextString="Thứ hai chỉ huy không tệ chút nào! Giờ đây {0.SimFirstName} có thể làm một số công việc THẬT SỰ mà không nhận được bất kỳ sự công nhận nào. Nhưng này, với một chút thời gian và rất nhiều nỗ lực, {0.SimFirstName} sẽ là người điều hành mọi thứ ở đây!" />
+    <TextStringDefinition InstanceID="0xB0D1FAC9" TextString="Phó đầu bếp" />
+    <TextStringDefinition InstanceID="0xB19452F1" TextString="Bánh ngọt là thứ khó làm chủ. Chúng phải đủ ngon để biện minh cho lượng calo, nhưng cũng phải đủ đẹp để thu hút mắt khách hàng. {0.SimFirstName} đang mở rộng sang nghệ thuật ẩm thực thực sự!" />
+    <TextStringDefinition InstanceID="0x9EA2DD4E" TextString="Đầu bếp làm bánh" />
+    <TextStringDefinition InstanceID="0x6DF993B4" TextString="Thế giới của các bữa tiệc riêng tư giờ thuộc về {0.SimFirstName}! Quên những sự kiện nhỏ lẻ đi, giờ đây {M0.he}{F0.she} được thưởng thức các sự kiện doanh nghiệp với thời hạn ngắn, những bữa tiệc sinh nhật cho trẻ em có nhiều tiền hơn {M0.he}{F0.she} có, và những cô dâu vô cùng kén chọn!" />
+    <TextStringDefinition InstanceID="0xCF03709B" TextString="Đầu bếp phục vụ" />
+    <TextStringDefinition InstanceID="0x2C202601" TextString="Một số người có thể nói {0.SimFirstName} đã bán đứng để đạt được vị thế chính thống, nhưng {0.SimFirstName} không thể nghe thấy họ. {M0.He}{F0.She} đang thư giãn trong văn phòng riêng của {M0.him}{F0.her}, nhấp một ly đồ uống tuyệt vời trước lò sưởi, và xem xét hợp đồng mới nhất cho chương trình truyền hình, sách nấu ăn và dòng thủy tinh." />
+    <TextStringDefinition InstanceID="0x6155AE7E" TextString="Pha chế nổi tiếng" />
+    <TextStringDefinition InstanceID="0xB9B09C22" TextString="{0.SimFirstName} đã thực sự chứng minh bản thân khi pha chế những đồ uống tuyệt vời. Sinh viên từ khắp nơi trên thế giới sẽ đổ xô đến bên {M0.him}{F0.her}, háo hức học từ Đại Sư Pha Chế! Sẽ có phép màu. Ồ vâng.\nSẽ có phép màu." />
+    <TextStringDefinition InstanceID="0xCADCF339" TextString="Đại sư pha chế" />
+    <TextStringDefinition InstanceID="0x87E21D77" TextString="Phối hợp đơn hàng ở cấp độ doanh nghiệp không phải là việc dễ dàng, nhưng {0.SimFirstName} sẵn sàng trở thành CDO tiếp theo. Những đồ uống được săn đón của {M0.Him}{F0.Her} giờ được sản xuất hàng loạt và sau đó được vận chuyển đến các nhà hàng khác nhau." />
+    <TextStringDefinition InstanceID="0x1289E49C" TextString="Trưởng điều hành đồ uống" />
+    <TextStringDefinition InstanceID="0xB3040100" TextString="Một chuyên gia đồ uống ở cấp độ gần như thần thánh, {0.SimFirstName} sẽ giúp khách hàng kết hợp đồ uống pha với nhiều bữa ăn và món tráng miệng. Họ có thể say sưa khi vị giác bị bao phủ bởi một sự kết hợp hương vị ẩm thực WooHoo." />
+    <TextStringDefinition InstanceID="0xF9963FB7" TextString="Chủ tịch nước ép" />
+    <TextStringDefinition InstanceID="0xED7D48BD" TextString="Một bậc thầy trong việc đưa ra lời khuyên và một bậc thầy trong việc pha chế đồ uống trái cây, {0.SimFirstName} giờ là Đầu bếp pha chế! Có lẽ đã đến lúc bắt đầu tính phí như nhà trị liệu..." />
+    <TextStringDefinition InstanceID="0x24303C8A" TextString="Đầu bếp pha chế" />
+    <TextStringDefinition InstanceID="0x4511F7B8" TextString="Quyết tâm hạ gục trật tự cũ, một đội ngũ hacker hàng đầu, ma và quỷ lấy ý tưởng từ một nguồn duy nhất. {0.SimFirstName} đã trở thành người được chọn. Đạo quân của {M0.Him}{F0.Her} gồm những thiếu niên bất mãn và những người hướng nội bất mãn đã đặt ngón tay lên nút đỏ điều khiển tất cả." />
+    <TextStringDefinition InstanceID="0x4952A7FF" TextString="Đấng Tiên Tri" />
+    <TextStringDefinition InstanceID="0x1AEB58EF" TextString="{0.SimFirstName} đã thực sự nâng cấp trò chơi của {M0.him}{F0.her}. {M0.He}{F0.She} tạo ra virus hạ gục các tập đoàn quốc tế và kích động nội chiến bằng cách phát tán tài liệu nhạy cảm của chính phủ (được rồi, cái thứ hai có thể là một tai nạn)." />
+    <TextStringDefinition InstanceID="0x5B97B4C4" TextString="Quỷ mạng" />
+    <TextStringDefinition InstanceID="0x0E120D3A" TextString="Giờ ẩn sau vô số bí danh, không ai thực sự biết {0.SimFirstName}. {M0.He}{F0.She} ngồi một mình, trong một văn phòng sang trọng, giám sát việc chuyển hướng quỹ ngoài khơi bởi một đội hacker ưu tú, trong khi vuốt ve một con mèo đen." />
+    <TextStringDefinition InstanceID="0xAE9845A1" TextString="Ma ẩn danh" />
+    <TextStringDefinition InstanceID="0x7BBBCC39" TextString="{0.SimFirstName} đã kiếm được sự tôn trọng của những hacker khác, một nhóm không được đánh giá cao vì sự tôn trọng quá mức! Họ tìm đến {M0.him}{F0.her} để xin lời khuyên về cách vượt qua các biện pháp bảo mật khó khăn nhất trong khi che giấu dấu vết." />
+    <TextStringDefinition InstanceID="0x71363966" TextString="Hacker ưu tú" />
+    <TextStringDefinition InstanceID="0x0B5A661C" TextString="{0.SimFirstName} giờ có thể phạm tội mạng từ sự thoải mái của ngôi nhà, qua email. &quot;Chú yêu quý, cháu là vua quan trọng ở nước khác. Chú đã thắng gia tài. Xin gửi mật khẩu tài khoản ngân hàng để nhận vương miện của cháu.&quot;" />
+    <TextStringDefinition InstanceID="0x50002FD3" TextString="Kẻ trộm kỹ thuật số" />
+    <TextStringDefinition InstanceID="0x8D593223" TextString="Muốn làm ăn trong khu này? Cậu phải đi qua {0.SimFirstName}. {M0.He}{F0.She} đã leo lên từng bước để điều hành việc kinh doanh bất hợp pháp trên lãnh thổ này, từ khu vườn thực vật ở kia, cho đến tận cửa hàng thực phẩm hữu cơ mới." />
+    <TextStringDefinition InstanceID="0xCEF453B8" TextString="Tội phạm nhỏ" />
+    <TextStringDefinition InstanceID="0x3CA527EC" TextString="Đã đến lúc {0.SimFirstName} từ bỏ những tội nhẹ. {M0.he}{F0.she} là trẻ con à? Đã đến lúc mặc chiếc quần {M0.boy}{F0.girl} lớn và thực hiện những tội {M0.boy}{F0.girl} lớn: tội nghiêm trọng. Có lẽ {M0.he'll}{F0.she'll} thậm chí còn lên kế hoạch cho một vụ cướp!" />
+    <TextStringDefinition InstanceID="0x3042A6C3" TextString="Tu sĩ tội phạm" />
+    <TextStringDefinition InstanceID="0x9357DF45" TextString="Chuyển sang quản lý không bao giờ dễ dàng. Băng nhóm của cậu có nhớ cướp ngân hàng trước khi nó đóng cửa không? Kẻ côn đồ có thể nghỉ ốm khi lịch trình yêu cầu họ tham gia bạo loạn không? May mắn thay, {0.SimFirstName} biết cách dẫn dắt một nhóm tội phạm vào rắc rối, như một ông chủ thực thụ." />
+    <TextStringDefinition InstanceID="0xD7D44762" TextString="Thủ lĩnh" />
+    <TextStringDefinition InstanceID="0xED8037A6" TextString="Những thanh kẹo trong túi cậu là gì? Cậu lấy chiếc túi phong cách bà già đẹp đó từ đâu? {0.SimFirstName} giờ phụ trách trang bị các ông chủ với đồ ăn nhẹ cho phòng thẩm vấn và quà sinh nhật cho mẹ vợ của họ, sử dụng chiếc túi giảm giá năm ngón của {M0.him}{F0.her}." />
+    <TextStringDefinition InstanceID="0x427CFB6D" TextString="Kẻ trộm vặt" />
+    <TextStringDefinition InstanceID="0xCA9EA9BF" TextString="Mỗi bậc thầy tội phạm đều cần một vệ sĩ cấp độ vào với vấn đề cơn giận vô lý. {0.SimFirstName} sẽ gia cố cửa vào và xông xáo qua các ngõ tối, giữ các đối thủ ở xa bằng ba từ nhỏ, &quot;Mày đang nhìn cái gì?&quot;" />
+    <TextStringDefinition InstanceID="0x11C11CF4" TextString="{M0.Guy}{F0.Gal} cứng rắn" />
+    <TextStringDefinition InstanceID="0xDEF8D109" TextString="Còn gì tuyệt hơn là làm Bộ Não của tổ chức? Làm sếp của Bộ Não! Giờ đây đội ngũ của {0.SimFirstName} có thể làm tất cả công việc, trong khi {M0.he}{F0.she} tắm trong những tờ §1000. Ai quan tâm nếu đó là tiền bẩn khi có quá nhiều?" />
+    <TextStringDefinition InstanceID="0xC7E30F56" TextString="Ông chủ" />
+    <TextStringDefinition InstanceID="0x32ABB88A" TextString="{0.SimFirstName} cuối cùng cũng đã kiếm được bằng tiến sĩ... từ CON ĐƯỜNG. Là bộ não của tổ chức của {M0.him}{F0.her}, {0.SimFirstName} sẽ lên kế hoạch cho những vụ lớn, thực hiện những vụ cướp lớn, và mang về những đồng Simoleon lớn." />
+    <TextStringDefinition InstanceID="0x952E9911" TextString="Bộ Não" />
+    <TextStringDefinition InstanceID="0xF43020BF" TextString="{0.SimFirstName} đã chứng minh sức mạnh và sự khéo léo của {M0.him}{F0.her}. Giờ đây, những ông chủ lớn đã tặng {0.SimPronounObjective} một ống nghe, một cái khoan và bản đồ các ngân hàng mục tiêu. Cánh cửa cuối cùng cũng đang mở ra cho {0.SimFirstName}. Theo nghĩa đen." />
+    <TextStringDefinition InstanceID="0xD50C3F93" TextString="Được tăng lương" />

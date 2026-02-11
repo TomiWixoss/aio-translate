@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x82E686BD" TextString="Doanh Nghiệp Nhỏ" />
+    <TextStringDefinition InstanceID="0x042293C9" TextString="Ngủ" />
+    <TextStringDefinition InstanceID="0xDA09971F" TextString="Ngủ" />
+    <TextStringDefinition InstanceID="0x058EB383" TextString="Đi Xe" />
+    <TextStringDefinition InstanceID="0x30A69A29" TextString="Đi Xe" />
+    <TextStringDefinition InstanceID="0x1718AD42" TextString="Tiệc" />
+    <TextStringDefinition InstanceID="0x7BF47392" TextString="Tiệc" />
+    <TextStringDefinition InstanceID="0xBAF9E673" TextString="Thời Tiết Nóng" />
+    <TextStringDefinition InstanceID="0x38F58399" TextString="Thời Tiết Nóng" />
+    <TextStringDefinition InstanceID="0x5831193D" TextString="Trang Trọng" />
+    <TextStringDefinition InstanceID="0xB920C22B" TextString="Trang Trọng" />
+    <TextStringDefinition InstanceID="0x5EB5D5CD" TextString="Hàng Ngày" />
+    <TextStringDefinition InstanceID="0x1662AF3B" TextString="Hàng Ngày" />
+    <TextStringDefinition InstanceID="0xE6C6FD60" TextString="Thời Tiết Lạnh" />
+    <TextStringDefinition InstanceID="0xEB814840" TextString="Thời Tiết Lạnh" />
+    <TextStringDefinition InstanceID="0x290C5E90" TextString="Sự Nghiệp" />
+    <TextStringDefinition InstanceID="0x90CA0430" TextString="Sự Nghiệp" />
+    <TextStringDefinition InstanceID="0xBA0CD3AF" TextString="Batuu" />
+    <TextStringDefinition InstanceID="0x0F08064D" TextString="Batuu" />
+    <TextStringDefinition InstanceID="0x827BC47A" TextString="Thể Thao" />
+    <TextStringDefinition InstanceID="0x5EBB5B9A" TextString="Thể Thao" />
+    <TextStringDefinition InstanceID="0x6D58AACE" TextString="Hoàn Tác/Làm Lại" />
+    <TextStringDefinition InstanceID="0xE5443766" TextString="Hoàn Tác" />
+    <TextStringDefinition InstanceID="0xCA1FC285" TextString="Không thể đặt cái này cho Robot." />
+    <TextStringDefinition InstanceID="0x6AE775E0" TextString="Bạn có muốn bắt đầu một Hộ Gia Đình mới không?" />
+    <TextStringDefinition InstanceID="0xBB19A506" TextString="Con Đường Tái Sinh" />
+    <TextStringDefinition InstanceID="0x5BC06D81" TextString="Bạn có tự do tùy chỉnh Sim mới tái sinh và có thể tạo Sims mới để gia nhập hộ gia đình. Tuy nhiên, nếu có thành viên hộ gia đình hiện có, một số hạn chế tùy chỉnh có thể áp dụng." />
+    <TextStringDefinition InstanceID="0x9AC94881" TextString="Hiển Thị Bài Học" />
+    <TextStringDefinition InstanceID="0xDFDD84DC" TextString="Làm Lại" />
+    <TextStringDefinition InstanceID="0x98F85557" TextString="Mọi tiến độ trên hộ gia đình hiện tại của bạn sẽ bị mất." />
+    <TextStringDefinition InstanceID="0x22220B3A" TextString="Chơi" />
+    <TextStringDefinition InstanceID="0xF52D527A" TextString="Đồng Ý" />
+    <TextStringDefinition InstanceID="0x23C60A92" TextString="Trình Đơn Chính" />
+    <TextStringDefinition InstanceID="0xDEB455F3" TextString="Đi Sớm Vậy?" />
+    <TextStringDefinition InstanceID="0xF8CF6E22" TextString="Thư Viện không khả dụng trong khi Hướng Dẫn." />
+    <TextStringDefinition InstanceID="0xE62A8368" TextString="Ngẫu Nhiên từ Thư Viện không khả dụng cho Sims được tạo thông qua câu chuyện." />
+    <TextStringDefinition InstanceID="0x89D799CE" TextString="Ngẫu Nhiên từ Thư Viện" />
+    <TextStringDefinition InstanceID="0x257D508F" TextString="Thoát Tạo Sim" />
+    <TextStringDefinition InstanceID="0x2418F7BA" TextString="Đặt Lại Hộ Gia Đình Hiện Tại" />
+    <TextStringDefinition InstanceID="0x7BC4DA10" TextString="Hủy" />
+    <TextStringDefinition InstanceID="0x1B03312E" TextString="Hủy Câu Chuyện của Sim" />
+    <TextStringDefinition InstanceID="0x4B28F224" TextString="Bạn có chắc chắn muốn thoát CAS? Bạn sẽ mất mọi thay đổi đang chờ xử lý." />
+    <TextStringDefinition InstanceID="0xC199A03D" TextString="Bạn có chắc chắn muốn hủy?" />
+    <TextStringDefinition InstanceID="0x45B22E22" TextString="Hủy" />
+    <TextStringDefinition InstanceID="0xFE14340B" TextString="Một hoặc nhiều mục Tạo Sim đã bị xóa. Các mục này có thể không được cài đặt trên máy tính của bạn hoặc Tài Khoản EA hiện đang đăng nhập không sở hữu các mục này." />
+    <TextStringDefinition InstanceID="0xE37BD38C" TextString="Mục Đã Bị Xóa" />
+    <TextStringDefinition InstanceID="0x0FBD9387" TextString="Một hoặc nhiều Sims đã bị xóa kỳ vọng của họ. Các kỳ vọng có thể không được cài đặt trên hệ thống của bạn hoặc Tài Khoản EA hiện đang đăng nhập không sở hữu các kỳ vọng này. Vui lòng đặt kỳ vọng mới cho các Sims này." />
+    <TextStringDefinition InstanceID="0x40833DFC" TextString="Kỳ Vọng Đã Bị Xóa" />
+    <TextStringDefinition InstanceID="0x65065F39" TextString="Vui lòng Chọn Một Đặc Điểm!" />
+    <TextStringDefinition InstanceID="0x905D1B6B" TextString="Vui lòng Nhập Họ!" />

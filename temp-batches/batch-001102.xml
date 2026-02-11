@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x0237FC41" TextString="{0.SimFirstName} đã làm việc chăm chỉ và đang bắt đầu đơm hoa kết trái... và {M0.he}{F0.she} có thể thấy điều đó trong hình dạng mới của {M0.his}{F0.her}!" />
+    <TextStringDefinition InstanceID="0x2E466C2E" TextString="Buồn vì Sự Ác" />
+    <TextStringDefinition InstanceID="0x2BE90557" TextString="Tương tác với một Sim Ác thực sự khiến một Sim Thiện xuống dốc. Thật đáng buồn khi họ đã chọn một cuộc sống bóng tối." />
+    <TextStringDefinition InstanceID="0xDF87D252" TextString="Phe đã được chọn" />
+    <TextStringDefinition InstanceID="0x9FA0276B" TextString="Những lời động viên sẽ thực sự tăng sự tự tin của Sim." />
+    <TextStringDefinition InstanceID="0x02389589" TextString="Tự tin từ Thuốc" />
+    <TextStringDefinition InstanceID="0x65AE4BD6" TextString="Ồ! Thuốc đó thực sự làm tăng sự tự tin của Sim!" />
+    <TextStringDefinition InstanceID="0x46079AE1" TextString="Đã lấy ví!" />
+    <TextStringDefinition InstanceID="0xE992A2DE" TextString="Không có gì bằng cảm giác hồi hộp khi lén lút đến gần một Sim và lấy đi đồ có giá trị của họ." />
+    <TextStringDefinition InstanceID="0x3A243893" TextString="Khoe khoang về Kỹ năng" />
+    <TextStringDefinition InstanceID="0x46B9C43C" TextString="Không ai quan tâm đến kỹ năng chơi game video của một Sim... trừ khi họ kiếm sống bằng nó!" />
+    <TextStringDefinition InstanceID="0x2DB86B45" TextString="Khoe khoang về Chiến công" />
+    <TextStringDefinition InstanceID="0x6B729E1A" TextString="Một bậc thầy WooHoo thực thụ không hôn và kể chuyện... trừ khi có ai đó sẵn sàng lắng nghe, thì đúng vậy." />
+    <TextStringDefinition InstanceID="0x27E97246" TextString="Khoe khoang về Startup" />
+    <TextStringDefinition InstanceID="0x1722289F" TextString="Chỉ một doanh nhân thực sự tài ba mới có thể đưa ra những tuyên bố như vậy về startup của họ." />
+    <TextStringDefinition InstanceID="0x265E8763" TextString="Ác mộng chứng sợ không gian chật hẹp" />
+    <TextStringDefinition InstanceID="0x493E522C" TextString="Eeeeck! Ra ngoài! Ra ngoài! Ra ngoài! Ra ngoài! Ra ngoài! *Thở phào* Ngủ trong một quan tài kín khí chắc chắn không dành cho người yếu tim." />
+    <TextStringDefinition InstanceID="0x8F281272" TextString="Cà phê thông minh" />
+    <TextStringDefinition InstanceID="0xB30C0DA3" TextString="Hương vị sâu của cà phê này dường như đã tập trung tâm trí và chỉ có thể đến từ một loại cà phê được pha với nguyên liệu đặc biệt." />
+    <TextStringDefinition InstanceID="0xED36DBAE" TextString="Nước mắt của chú hề" />
+    <TextStringDefinition InstanceID="0xCF3857D7" TextString="Thế giới của {0.SimFirstName} là thế giới của một chú hề buồn bã và bi thảm. Thế giới thực đã cố gắng bao quanh {M0.him}{F0.her} bằng tiếng cười, nhưng sự ảm đạm bao phủ lên tâm hồn bất hạnh này." />
+    <TextStringDefinition InstanceID="0x39B519A1" TextString="Nỗi đau thích có bạn bè" />
+    <TextStringDefinition InstanceID="0x9B634B9E" TextString="{0.SimFirstName} nghĩ rằng đã đến lúc phải đeo một khuôn mặt vui vẻ. Có những Sim khác xung quanh và nỗi buồn phải được chôn sâu bên trong." />
+    <TextStringDefinition InstanceID="0xEF4C503A" TextString="Lấp lánh và Cơ bắp" />
+    <TextStringDefinition InstanceID="0x6160E25B" TextString="Lấp lánh trong ánh sáng của mọi ly đồ uống bừng cháy với bộ đồ hai mảnh tiki-rific của riêng bạn! Bộ quần áo ngắn và áo yếm lòe loè này được kết hợp với một chiếc áo sơ mi nhiệt đới và điểm xuyến bằng những chiếc vòng tay sáng chói, để bạn lấp lánh suốt đêm." />
+    <TextStringDefinition InstanceID="0xF4582992" TextString="Ánh sáng rực rỡ cho Bộ vest Nam" />
+    <TextStringDefinition InstanceID="0x0491E243" TextString="Tiến lại gần mỗi ly đồ uống bừng cháy và tỏa ra ánh sáng của nó cho cả thế giới chiêm ngưỡng. Được làm từ vật liệu phản chiếu đáng kinh ngạc, bộ vest này vừa đóng vai trò như tấm gương cộng đồng vừa bảo vệ khỏi lửa, phòng trường hợp ai đó đổ." />
+    <TextStringDefinition InstanceID="0x1E9DDFB8" TextString="Kính Có Hình Ngôi sao" />
+    <TextStringDefinition InstanceID="0x382127ED" TextString="Ngắm nhìn thế giới qua đôi kính có hình ngôi sao và kinh ngạc về cách thế giới ngưỡng mộ bạn." />
+    <TextStringDefinition InstanceID="0xACB889C2" TextString="Gấu Trúc Buồn" />
+    <TextStringDefinition InstanceID="0x83370713" TextString="Có ai từng thấy một con gấu trúc vui vẻ chưa?" />
+    <TextStringDefinition InstanceID="0x7B8F90F7" TextString="Gà Có cảm hứng" />
+    <TextStringDefinition InstanceID="0x4C1E95F8" TextString="Lắc cái mào đó! Chải chuốt những chiếc lông và vẫy những chiếc cánh!" />
+    <TextStringDefinition InstanceID="0xAA7FFB0B" TextString="Hổ Cười té ghế" />
+    <TextStringDefinition InstanceID="0xCF1AA144" TextString="Hoa văn sọc tạo ra lớp ngụy trang hoàn hảo! Thảm lông giả hoàn toàn thời thượng." />
+    <TextStringDefinition InstanceID="0xA5FAA8EA" TextString="Mũ của Sự Xấu hổ" />
+    <TextStringDefinition InstanceID="0x9EE454EB" TextString="Có một ranh giới mong manh giữa điên rồ tuyệt vời và hoàn toàn kỳ quặc. Chiếc mũ này chắc chắn đã vượt qua ranh giới đó." />
+    <TextStringDefinition InstanceID="0xD3D74697" TextString="Bò Lả lơi" />
+    <TextStringDefinition InstanceID="0x66C06118" TextString="Bò đực cẩn thận! Con bò này hoàn toàn tuyệt vời." />
+    <TextStringDefinition InstanceID="0x49075D99" TextString="Cú Đầy năng lượng" />
+    <TextStringDefinition InstanceID="0x283C4406" TextString="Caffeine có thể độc hại với chim! May mắn là những con cú không thuộc trường hợp đó." />
+    <TextStringDefinition InstanceID="0x77384132" TextString="Gấu Mơ màng" />
+    <TextStringDefinition InstanceID="0xCEF79463" TextString="Trong khi những cây nói chuyện là dụng cụ gãi lưng hoàn hảo, những tiếng kêu cứu than khóc của chúng thực sự gây khó chịu." />
+    <TextStringDefinition InstanceID="0x9A9CF151" TextString="Sư Tử Giận dữ" />
+    <TextStringDefinition InstanceID="0x46915FAE" TextString="Săn mồi! Tàn phá kẻ thù! Gầm lên đủ to để cả khu phố nghe thấy!" />
+    <TextStringDefinition InstanceID="0xB745A65E" TextString="Giờ Làm Bẩn" />
+    <TextStringDefinition InstanceID="0xC5976C27" TextString="Đồ đạc của {0.SimFirstName} có thể sạch hơn một chút, nhưng {M0.he's}{F0.she's} cảm thấy hơi mệt mỏi." />
+    <TextStringDefinition InstanceID="0x816190B4" TextString="Sạch sẽ Vui vẻ" />
+    <TextStringDefinition InstanceID="0xE685A681" TextString="Sim Sạch sẽ là hạnh phúc nhất khi dọn dẹp!" />
+    <TextStringDefinition InstanceID="0x470EC5D2" TextString="Hoàn hảo như Sứ" />

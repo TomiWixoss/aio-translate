@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xAA1A2421" TextString="Làm ồn" />
+    <TextStringDefinition InstanceID="0xDDA824AF" TextString="Hót" />
+    <TextStringDefinition InstanceID="0x88E98E16" TextString="Khóc" />
+    <TextStringDefinition InstanceID="0x73A5048C" TextString="Ẩn mối quan hệ" />
+    <TextStringDefinition InstanceID="0xA2646648" TextString="Bạn có chắc chắn muốn ẩn mối quan hệ giữa {0.SimName} và {1.SimName}? Người này sẽ không còn xuất hiện trong bảng mối quan hệ, nhưng mối quan hệ của họ vẫn giữ nguyên. Một người bị ẩn sẽ xuất hiện lại trong bảng mối quan hệ nếu người của bạn tương tác với họ lần nữa." />
+    <TextStringDefinition InstanceID="0xDA4FBF7A" TextString="Đọc di chúc của bà" />
+    <TextStringDefinition InstanceID="0x3632641A" TextString="{0.SimFirstName} đã nhận được thừa kế của {M0.his}{F0.her} rồi!" />
+    <TextStringDefinition InstanceID="0x29008C73" TextString="Đi đến Willow Creek" />
+    <TextStringDefinition InstanceID="0xDFFB44EB" TextString="Đi đến Foundry Cove" />
+    <TextStringDefinition InstanceID="0xFB964688" TextString="Đi đến Magnolia Blossom Park" />
+    <TextStringDefinition InstanceID="0xCAA53FAE" TextString="Đi đến Desert Bloom Park" />
+    <TextStringDefinition InstanceID="0x5A95E107" TextString="Chọn &lt;b&gt;Trang trại gia đình&lt;/b&gt;" />
+    <TextStringDefinition InstanceID="0xBA394153" TextString="Chọn &lt;b&gt;Hàng xóm thân thiện&lt;/b&gt;" />
+    <TextStringDefinition InstanceID="0x334D777E" TextString="Chọn một &lt;b&gt;Giấc mơ&lt;/b&gt; để thực hiện các mục tiêu lâu dài cho người của bạn.\n\n&lt;b&gt;Người thành công&lt;/b&gt; - Hoàn thành &lt;b&gt;bất kỳ Khát vọng nào, làm chủ một Sự nghiệp&lt;/b&gt; và &lt;b&gt;phát triển gia đình.&lt;/b&gt;\n\n&lt;b&gt;Thế hệ&lt;/b&gt; - Xây dựng một &lt;b&gt;hộ gia đình đa thế hệ&lt;/b&gt; có thể đặt nền móng cho sự thành công của gia đình người của bạn." />
+    <TextStringDefinition InstanceID="0x161E39A7" TextString="Chọn một Giấc mơ!" />
+    <TextStringDefinition InstanceID="0xE84EA421" TextString="Hủy bỏ" />
+    <TextStringDefinition InstanceID="0x012D68FC" TextString="Xóa thời gian hồi trị liệu" />
+    <TextStringDefinition InstanceID="0x2D7E4299" TextString="Giao gia súc" />
+    <TextStringDefinition InstanceID="0x2E240002" TextString="Người cần biết nhau trước. Hãy thử giới thiệu!" />
+    <TextStringDefinition InstanceID="0x3A83ECDE" TextString="{2.SimFirstName} đang bận ngay bây giờ." />
+    <TextStringDefinition InstanceID="0x912882FC" TextString="Nhận nuôi với tư cách người chăm sóc" />
+    <TextStringDefinition InstanceID="0x0500C3B9" TextString="Viền trắng" />
+    <TextStringDefinition InstanceID="0x6FC05865" TextString="Ấm áp" />
+    <TextStringDefinition InstanceID="0xAE97255A" TextString="Viền" />
+    <TextStringDefinition InstanceID="0xB67BE3D0" TextString="Nâu đỏ" />
+    <TextStringDefinition InstanceID="0x4D8E8FF6" TextString="Không có bộ lọc" />
+    <TextStringDefinition InstanceID="0xDF39DE38" TextString="Đảo ngược màu" />
+    <TextStringDefinition InstanceID="0x09509DFC" TextString="Tối" />
+    <TextStringDefinition InstanceID="0xCB2DAEE9" TextString="Mát mẻ" />
+    <TextStringDefinition InstanceID="0x19927354" TextString="Sáng" />
+    <TextStringDefinition InstanceID="0x91DCFD78" TextString="Đen trắng" />
+    <TextStringDefinition InstanceID="0x58118E12" TextString="Bạn không thể thay đổi bộ lọc trên ảnh chất lượng kém." />
+    <TextStringDefinition InstanceID="0xED5D1312" TextString="Xóa khung" />
+    <TextStringDefinition InstanceID="0x03F56406" TextString="Chân dung" />
+    <TextStringDefinition InstanceID="0x1043A270" TextString="Phong cảnh" />
+    <TextStringDefinition InstanceID="0x8578ABA3" TextString="Đen" />
+    <TextStringDefinition InstanceID="0x7D17CAD8" TextString="Xanh" />
+    <TextStringDefinition InstanceID="0x1BBD24B9" TextString="Đỏ" />
+    <TextStringDefinition InstanceID="0xB91D098E" TextString="Vàng" />
+    <TextStringDefinition InstanceID="0xC138EEEF" TextString="Gỗ tối" />
+    <TextStringDefinition InstanceID="0xA56643FC" TextString="Trắng" />
+    <TextStringDefinition InstanceID="0xEAF42C7D" TextString="Gỗ sáng" />
+    <TextStringDefinition InstanceID="0x652553A2" TextString="Bạc" />
+    <TextStringDefinition InstanceID="0x33428C4D" TextString="Tắt tự động chuyển đổi" />
+    <TextStringDefinition InstanceID="0xF98E705F" TextString="Chuyển đổi thay đổi hình ảnh tự động cho bình và bia mộ. Tắt tính năng này cho phép đặt bia mộ trong nhà/bình ngoài trời mà không tự động chuyển đổi." />
+    <TextStringDefinition InstanceID="0x2AE8B69C" TextString="Bật tự động chuyển đổi" />
+    <TextStringDefinition InstanceID="0xA37CF451" TextString="Kiểm tra câu chuyện hàng xóm gần đây" />
+    <TextStringDefinition InstanceID="0xBFF8735B" TextString="Nhà bếp" />
+    <TextStringDefinition InstanceID="0xF21F3315" TextString="Bạn cần một Đậu thần tình ái được đặt trong gốc cây." />
+    <TextStringDefinition InstanceID="0x56E905F6" TextString="Trồng Đậu thần" />

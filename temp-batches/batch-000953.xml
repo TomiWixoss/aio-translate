@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x6FE94F61" TextString="Xem Kênh Trẻ Em trên TV" />
+    <TextStringDefinition InstanceID="0xFBBF88EB" TextString="*bíp*" />
+    <TextStringDefinition InstanceID="0x494CFB55" TextString="Ngay cả những nhà thám hiểm gan dạ nhất đôi khi cũng cần một chút nghỉ ngơi!" />
+    <TextStringDefinition InstanceID="0x05FCAC3B" TextString="Dùng Toilet" />
+    <TextStringDefinition InstanceID="0xFEB31A16" TextString="Có một cái cây lớn ở Foundry Cove. Hãy tìm nó và chọn Xem nó sáu lần.\n\nCó những bí mật đang chờ đón!" />
+    <TextStringDefinition InstanceID="0xBA57AF86" TextString="Xem Cái Cây 6 Lần" />
+    <TextStringDefinition InstanceID="0x621068EA" TextString="Chọn Khám phá cái cây bằng cách theo dõi âm thanh dòng chảy và bước vào làn sương mù.\n\nSau đó bạn có thể di chuyển đến Sylvan Glade." />
+    <TextStringDefinition InstanceID="0x50D7F112" TextString="Khám Phá Cái Cây" />
+    <TextStringDefinition InstanceID="0x4BB80B55" TextString="Có hay không, cây cối cũng có thể nói chuyện!\n\nTìm một cái cây lớn trong khu phố Foundry Cove ở Willow Creek, gần góc dưới bên phải bản đồ khi bạn di chuyển đến. Sau đó chọn nói chuyện với nó.\n\nBạn có thể khen ngợi lá cây hoặc thảo luận về thiên nhiên hoặc các chủ đề khác!" />
+    <TextStringDefinition InstanceID="0xBB43DC3B" TextString="Trò Chuyện với Cái Cây 2 Lần" />
+    <TextStringDefinition InstanceID="0xB9388421" TextString="Bạn bè gấu bông của bạn xứng đáng được biết rằng những cuộc phiêu lưu của chúng đang được kể khắp nơi.\n\nChọn một Gấu Bông và cho chúng biết về điều này!" />
+    <TextStringDefinition InstanceID="0xC640C2E2" TextString="Cho Một Gấu Bông Biết Bạn Đã Chia Sẻ Câu Chuyện Của Chúng" />
+    <TextStringDefinition InstanceID="0x1210864D" TextString="Mỗi từ được chia sẻ cảm giác như đang khâu thêm một kỷ niệm vào tình bạn của họ." />
+    <TextStringDefinition InstanceID="0x1678EF5B" TextString="Bạn bè gấu bông của bạn thích một câu chuyện hay.\n\nChọn một Gấu Bông và chọn Kể Chuyện." />
+    <TextStringDefinition InstanceID="0x31EE0969" TextString="Kể Chuyện cho Gấu Bông" />
+    <TextStringDefinition InstanceID="0xAF2F6F30" TextString="{0.SimFirstName} đã kể cho một Sim khác về lần xem TV cùng {0.SimPronounPossessiveDependent} Gấu Bông.\n\nHọ mỉm cười đáp lại, như thể đang nhớ về quá khứ của chính họ." />
+    <TextStringDefinition InstanceID="0x70548D89" TextString="Đã có rất nhiều thời gian xem các chương trình TV cùng nhau!\n\nHãy kể cho một Sim về thời gian họ đã chia sẻ." />
+    <TextStringDefinition InstanceID="0x0A83F00E" TextString="Kể cho Một Sim Về Việc Xem TV" />
+    <TextStringDefinition InstanceID="0xCECC3EB6" TextString="{0.SimFirstName} đã chia sẻ tất cả các trò chơi chơi gần đây.\n\nCâu trả lời là &quot;có lẽ chúng ta cũng có thể chơi những trò chơi mới trong tương lai.&quot;" />
+    <TextStringDefinition InstanceID="0x397764AB" TextString="Trò chơi... ôi trò chơi! Thắng hay thua—điều đó không quan trọng.\n\nHãy kể cho một Sim về thời gian chơi game cùng nhau." />
+    <TextStringDefinition InstanceID="0x71AFF8D3" TextString="Kể cho Một Sim Về Việc Chơi Game" />
+    <TextStringDefinition InstanceID="0x691E27F7" TextString="Chọn một Gấu Bông và chia sẻ tất cả những điều tò mò bạn đã khám phá được cho đến nay. Họ là người lắng nghe tốt nhất, rốt cuộc." />
+    <TextStringDefinition InstanceID="0x9CA0302B" TextString="Kể cho Gấu Bông Về Những Phát Hiện Của Bạn" />
+    <TextStringDefinition InstanceID="0xE7D13852" TextString="{0.SimFirstName} nghe thấy một gợi ý nghe thật tuyệt. Những bức ảnh chụp có thể được giữ gần Giường, hoặc trên Kệ gần đó để mỗi lần {0.SimFirstName} đi ngang qua, {0.SimPronounSubjective} có thể nhìn thấy chúng." />
+    <TextStringDefinition InstanceID="0xCBC90A51" TextString="Đã có rất nhiều cuộc phiêu lưu mà chỉ có cặp đôi này biết!\n\nHãy kể cho một Sim khác về những cuộc phiêu lưu họ đã có." />
+    <TextStringDefinition InstanceID="0xBE26F3F4" TextString="Kể cho Một Sim Về Những Cuộc Phiêu Lưu Của Bạn" />
+    <TextStringDefinition InstanceID="0x095BB2EF" TextString="Tại sao thời gian của Gấu Bông có thể bị giới hạn? Chắc chắn một người lớn sẽ biết.\n\nChọn một người lớn và kể về vấn đề này." />
+    <TextStringDefinition InstanceID="0x78F17305" TextString="Kể cho Một Người Lớn Về Vấn Đề" />
+    <TextStringDefinition InstanceID="0xFFC6893F" TextString="Một bức ảnh về một nơi xa xôi, có thể cho Thỏ Bunny, có thể để treo trên tường. Nhưng một điều chắc chắn, một bức ả tự sướng luôn là xu hướng!\n\nKhi đang ở công viên, chọn Gấu Bông và chọn Chụp Ảnh Tự Sáng Tạo." />
+    <TextStringDefinition InstanceID="0x91899715" TextString="Chụp Ảnh Tự Sáng Tạo Cùng Gấu Bông Ở Công Viên" />
+    <TextStringDefinition InstanceID="0xE8DEA8BE" TextString="Chụp Ảnh Tưởng Tượng Của Gấu Bông Ở Sylvan Glade" />
+    <TextStringDefinition InstanceID="0xD5E587AC" TextString="Đây là nơi tuyệt nhất, và một cơ hội khác để chụp ảnh!\n\nỞ Sylvan Glade, chọn Chụp Ảnh Tưởng Tượng trên Gấu Bông." />
+    <TextStringDefinition InstanceID="0x4D0726D2" TextString="Bắt gọn tinh thần tình bạn thời thơ ấu bằng cách sử dụng tương tác Ảnh Tưởng Tượng. Bức ảnh đặc biệt này sẽ bảo tồn sự kỳ diệu của tình bạn.\n\nDùng máy ảnh để Chụp Ảnh Tưởng Tượng." />
+    <TextStringDefinition InstanceID="0x3C9C33FD" TextString="Chụp Ảnh Tưởng Tượng Của Gấu Bông Khi Ở Nhà" />
+    <TextStringDefinition InstanceID="0xAE591C56" TextString="Với người bảo vệ Gấu Bông canh giữ, đã đến lúc đứa trẻ chìm vào giấc mộng. Được kéo chăn ấm áp, chúng có thể tận hưởng giấc ngủ nghỉ ngơi hoặc chập chờn ấm áp, biết rằng bạn bè lông xù của chúng ở đó để bảo vệ chúng.\n\nChọn một Giường hoặc Ghế Bành và Ngủ hoặc Chập Chờn." />
+    <TextStringDefinition InstanceID="0x277600C6" TextString="Để Trẻ Em Ngủ hoặc Chập Chờn" />
+    <TextStringDefinition InstanceID="0xAF00235E" TextString="Ngay cả kế hoạch tốt nhất cũng cần một ý kiến đáng tin cậy thứ hai!\n\nChọn một Gấu Bông và chia sẻ kế hoạch của bạn!" />
+    <TextStringDefinition InstanceID="0x1073DE9E" TextString="Chia Sẻ Kế Hoạch với Gấu Bông Cùng với Trẻ Em" />
+    <TextStringDefinition InstanceID="0xEC9942E0" TextString="Đúng thật! À... đại loại. Có vẻ như trí tưởng tượng thời thơ ấu mà {0.SimFirstName} vẫn giữ là điều làm cho ống kính có thể xảy ra.\n\nNó có đề cập rằng có thể có những cách khác để giữ cho kỷ niệm của {0.SimPronounPossessiveDependent} sống động!" />
+    <TextStringDefinition InstanceID="0x115D8350" TextString="Đọc Sách Về Ống Kính Ảnh Ma Thuật" />
+    <TextStringDefinition InstanceID="0xE4220E3F" TextString="Hoài bão có thể được thay đổi bất cứ lúc nào trong Bảng Hoài Bão của Sim bằng cách chọn &quot;Chọn Một Hoài Bão Mới&quot;. Hoàn thành các Hoài bão được liệt kê bên dưới sẽ thúc đẩy Sims lên cấp độ tiếp theo của hoài bão." />
+    <TextStringDefinition InstanceID="0x26A40615" TextString="Chọn Một Lộ Trình Hoài Bão Mới cho Sofia và Leonardo và Hoàn Thành Cấp Độ Đầu Tiên" />
+    <TextStringDefinition InstanceID="0xCF8DB90C" TextString="Cải thiện điểm số của Leonardo lên trung bình &quot;B&quot;" />
+    <TextStringDefinition InstanceID="0x98B6BB44" TextString="Tiếp tục đi học trong khi tập trung, làm bài tập hàng ngày và phát triển kỹ năng sẽ cải thiện điểm số của trẻ em. " />
+    <TextStringDefinition InstanceID="0xF8CF1E34" TextString="Cải thiện điểm số của Sofia lên trung bình &quot;B&quot;" />
+    <TextStringDefinition InstanceID="0x6E6602B6" TextString="Tâm trạng Tập Trung có thể đạt được bằng cách thực hiện các hoạt động kích thích trí tuệ như chơi cờ vua, lướt Simpedia, hoặc mua đồ trang trí Tập Trung" />
+    <TextStringDefinition InstanceID="0x67888826" TextString="Đưa Leonardo và Sofia vào Tâm Trạng Tập Trung" />
+    <TextStringDefinition InstanceID="0x1C178FD2" TextString="Cải thiện mối quan hệ lãng mạn của bạn với một Sim khác cho đến khi các tương tác Hỏi Để Trở Thành Bạn Đời xuất hiện và sử dụng nó" />
+    <TextStringDefinition InstanceID="0x3995C12A" TextString="Có Một Bạn Đời" />
+    <TextStringDefinition InstanceID="0x32A2614A" TextString="Hoàn thành các mục tiêu Tiệc tùng cho đến khi bạn đạt Điểm Đồng" />

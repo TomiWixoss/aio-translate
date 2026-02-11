@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x50C9AC3C" TextString="Bảo vệ quyền lãnh đạo triều đại" />
+    <TextStringDefinition InstanceID="0xED0D4E1D" TextString="Thực hành Khai cuộc Rồng Siêu Tăng tốc" />
+    <TextStringDefinition InstanceID="0x6AF8BBC2" TextString="Thách thức quyền lãnh đạo triều đại" />
+    <TextStringDefinition InstanceID="0x28223DF6" TextString="Tập trung giúp chơi cờ vua!" />
+    <TextStringDefinition InstanceID="0xE4DAA793" TextString="Suy nghĩ về nước cờ vua có thể giúp tinh thần tập trung!" />
+    <TextStringDefinition InstanceID="0x15123EEA" TextString="Chơi cùng" />
+    <TextStringDefinition InstanceID="0x89203C66" TextString="Chơi cùng" />
+    <TextStringDefinition InstanceID="0xDF97D5CE" TextString="Tập trung giúp chơi cờ vua!" />
+    <TextStringDefinition InstanceID="0xE7CF9E8A" TextString="Mở khóa tất cả nhà cho thú cưng (Debug)" />
+    <TextStringDefinition InstanceID="0x647DA6E8" TextString="Mở khóa tất cả công thức thức ăn thú cưng (DEBUG)" />
+    <TextStringDefinition InstanceID="0x6AC8268A" TextString="Tạo tất cả nguyên liệu công thức thức ăn trong kho đồ (DEBUG)" />
+    <TextStringDefinition InstanceID="0x0C2DB4B8" TextString="Tạo tất cả công thức thức ăn trong kho đồ (DEBUG)" />
+    <TextStringDefinition InstanceID="0x561FC058" TextString="Đặt trạng thái thu hoạch sẵn sàng" />
+    <TextStringDefinition InstanceID="0xDD49B9AD" TextString="{0.SimFirstName} đã bật mã lừa này." />
+    <TextStringDefinition InstanceID="0x4F10A656" TextString="Tạo trứng (Debug)" />
+    <TextStringDefinition InstanceID="0xC38AA25A" TextString="Nhận phần nâng cấp đặc biệt (Debug)" />
+    <TextStringDefinition InstanceID="0x010F546D" TextString="Nhận tất cả quần áo thú cưng (Debug)" />
+    <TextStringDefinition InstanceID="0xF6C1B565" TextString="Thống kê" />
+    <TextStringDefinition InstanceID="0xF2E62A97" TextString="Đặt giữa {3.Number} và {4.Number}" />
+    <TextStringDefinition InstanceID="0xD6C1DE17" TextString="Đặt kỹ năng gần như" />
+    <TextStringDefinition InstanceID="0x035E408F" TextString="Đặt chất lượng: Kém" />
+    <TextStringDefinition InstanceID="0xA3E4CA77" TextString="Đặt chất lượng: Xuất sắc" />
+    <TextStringDefinition InstanceID="0x8A695D9A" TextString="Đặt chất lượng: Bình thường" />
+    <TextStringDefinition InstanceID="0x1ED8EE89" TextString="Đặt làm trưởng" />
+    <TextStringDefinition InstanceID="0x121946A0" TextString="Xóa khỏi gia đình" />
+    <TextStringDefinition InstanceID="0x514ED898" TextString="Thử hệ số mất mối quan hệ" />
+    <TextStringDefinition InstanceID="0xFDE32A18" TextString="Thử hệ số tăng mối quan hệ" />
+    <TextStringDefinition InstanceID="0xF81E8EC9" TextString="Đổ đầy" />
+    <TextStringDefinition InstanceID="0x427B597F" TextString="Mở cây (Debug)" />
+    <TextStringDefinition InstanceID="0x40AEAA4B" TextString="Làm hỏng" />
+    <TextStringDefinition InstanceID="0x95AD3C4F" TextString="Làm tươi" />
+    <TextStringDefinition InstanceID="0x2E5ADB97" TextString="Vô hiệu hóa nhu cầu" />
+    <TextStringDefinition InstanceID="0x0D15C2ED" TextString="Kích hoạt nhu cầu" />
+    <TextStringDefinition InstanceID="0xAF059C83" TextString="Làm trống" />
+    <TextStringDefinition InstanceID="0xBE0F26CC" TextString="Xóa nghề nghiệp" />
+    <TextStringDefinition InstanceID="0x06687FD2" TextString="Thăng chức nghề nghiệp" />
+    <TextStringDefinition InstanceID="0xA31CCFB0" TextString="Thăng chức nghề nghiệp: {2.String}" />
+    <TextStringDefinition InstanceID="0x459BE5D8" TextString="Hạ chức nghề nghiệp" />
+    <TextStringDefinition InstanceID="0x8EBD9242" TextString="Hạ chức nghề nghiệp: {2.String}" />
+    <TextStringDefinition InstanceID="0x418B8867" TextString="Thêm nghề nghiệp" />
+    <TextStringDefinition InstanceID="0x1EED960E" TextString="Thêm ma vào hộ gia đình" />
+    <TextStringDefinition InstanceID="0x3DC73C24" TextString="Thêm ma vào hộ gia đình" />
+    <TextStringDefinition InstanceID="0xF7B75D5D" TextString="Thay đồ cho {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x7180C175" TextString="Thay đồ cho {2.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x31793B91" TextString="Cởi quần áo" />
+    <TextStringDefinition InstanceID="0x7005F932" TextString="Thay đồ" />
+    <TextStringDefinition InstanceID="0x2F951AC3" TextString="(Từ việc khỏa thân tại Tiệc Trăng Tròn)" />
+    <TextStringDefinition InstanceID="0xA0DCDAE3" TextString="Thay đồ khỏa thân" />
+    <TextStringDefinition InstanceID="0x76C1A438" TextString="Thay đồ của {2.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xF0B0AE38" TextString="Đặt màu đèn" />

@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x5959BD2E" TextString="Đừng dừng lại, hãy tiếp tục hành trình của gia đình Sim theo cách bạn thích!" />
+    <TextStringDefinition InstanceID="0x5CFC5B1B" TextString="Chúc mừng bạn đã hoàn thành giấc mơ này!" />
+    <TextStringDefinition InstanceID="0x42903F4A" TextString="Cảm ơn bạn đã chơi!" />
+    <TextStringDefinition InstanceID="0x0E21CA77" TextString="Bạn đã hoàn thành nhiệm vụ!" />
+    <TextStringDefinition InstanceID="0xBAA11653" TextString="&lt;b&gt;Phần thưởng&lt;/b&gt;\nPhần thưởng sẽ được trao sau khi hoàn thành nhiệm vụ Giấc mơ." />
+    <TextStringDefinition InstanceID="0x2BA4ABC1" TextString="Chúc mừng! Bạn đã hoàn thành &lt;b&gt;TẤT CẢ&lt;/b&gt; Nhiệm vụ Khám phá!" />
+    <TextStringDefinition InstanceID="0x4B1CE620" TextString="Điểm Hài lòng của bạn có thể được dùng trong Cửa hàng Phần thưởng, được tìm thấy trong Bảng Nguyện vọng." />
+    <TextStringDefinition InstanceID="0xA1D2206D" TextString="Chúc mừng, bạn đã hoàn thành Nhiệm vụ Khám phá Nguyện vọng Suốt đời!" />
+    <TextStringDefinition InstanceID="0xA819BC72" TextString="5/5 Sao" />
+    <TextStringDefinition InstanceID="0x7CCA0061" TextString="4/5 Sao" />
+    <TextStringDefinition InstanceID="0x4A8EAE10" TextString="3/5 Sao" />
+    <TextStringDefinition InstanceID="0x48C4E8D7" TextString="2/5 Sao" />
+    <TextStringDefinition InstanceID="0x51E93648" TextString="Xếp hạng Tăng" />
+    <TextStringDefinition InstanceID="0xB7BD2EE1" TextString="{0.SimFirstName} đã có số lượng trang phục Đồ bơi tối đa. Hãy chọn một bộ Đồ bơi để loại bỏ trước khi mua bộ mới." />
+    <TextStringDefinition InstanceID="0xAEB0ACCB" TextString="{0.SimFirstName} đã có số lượng trang phục Đồ ngủ tối đa. Hãy chọn một bộ Đồ ngủ để loại bỏ trước khi mua bộ mới." />
+    <TextStringDefinition InstanceID="0xA789C23C" TextString="{0.SimFirstName} đã có số lượng trang phục Dự tiệc tối đa. Hãy chọn một bộ Dự tiệc để loại bỏ trước khi mua bộ mới." />
+    <TextStringDefinition InstanceID="0x5AAE85EE" TextString="{0.SimFirstName} đã có số lượng trang phục Thời tiết nóng tối đa. Hãy chọn một bộ Thời tiết nóng để loại bỏ trước khi mua bộ mới." />
+    <TextStringDefinition InstanceID="0x0BFE0B49" TextString="{0.SimFirstName} đã có số lượng trang phục Trang trọng tối đa. Hãy chọn một bộ Trang trọng để loại bỏ trước khi mua bộ mới." />
+    <TextStringDefinition InstanceID="0x9E64FA79" TextString="{0.SimFirstName} đã có số lượng trang phục Hàng ngày tối đa. Hãy chọn một bộ Hàng ngày để loại bỏ trước khi mua bộ mới." />
+    <TextStringDefinition InstanceID="0x8246EAFF" TextString="{0.SimFirstName} đã có số lượng trang phục Thời tiết lạnh tối đa. Hãy chọn một bộ Thời tiết lạnh để loại bỏ trước khi mua bộ mới." />
+    <TextStringDefinition InstanceID="0x4B5A883E" TextString="{0.SimFirstName} đã có số lượng trang phục Thể thao tối đa. Hãy chọn một bộ Thể thao để loại bỏ trước khi mua bộ mới." />
+    <TextStringDefinition InstanceID="0x9DB3DC2E" TextString="Loại bỏ Trang phục" />
+    <TextStringDefinition InstanceID="0x45D6E518" TextString="Tìm hiểu tất cả về sự thăng tiến nghề nghiệp và xây dựng kỹ năng trong kịch bản đầy cạnh tranh này!" />
+    <TextStringDefinition InstanceID="0xBC23BB44" TextString="Mắc kẹt trong Bóng của Người ta" />
+    <TextStringDefinition InstanceID="0x6F184771" TextString="Nova Curious là một trong những lập trình viên giỏi nhất đại học, và không có gì có thể ngăn cản cô ấy tỏa sáng ở công việc mới! À, có thể có người. Lewis: lập trình viên hàng đầu trong lớp, người đã che khuất cô ấy trong những năm đại học. Bây giờ khi cô ấy muốn bắt đầu cuộc sống chuyên nghiệp, chắc chắn sẽ không gặp lại anh ta nữa... phải không?" />
+    <TextStringDefinition InstanceID="0x1FE6C9D5" TextString="Lô đất này không được kết nối với lưới tiện ích, và hầu hết các vật thể sử dụng Điện hoặc Nước sẽ không hoạt động như mong đợi. Liệu Sim của bạn có thể tồn tại mà không có tiện nghi về đường ống và điện? Sống tự nhiên cũng có những lợi ích—như không có hóa đơn tiện ích!\n\nCó sẵn trong The Sims 4." />
+    <TextStringDefinition InstanceID="0x0F9759EF" TextString="Hộ gia đình này đang ngoài lưới tiện ích. Các vật thể yêu cầu Điện hoặc Nước sẽ không hoạt động, trừ khi chúng được hỗ trợ Ngoài lưới.\n\nNước bổ trợ có thể được thu thập xung quanh thế giới. Ngoài ra, hãy xem danh mục Ngoài lưới trong Xây dựng/Mua sắm để có các vật thể và hoạt động hữu ích!" />
+    <TextStringDefinition InstanceID="0x59DFF15C" TextString="Không có Hóa đơn Nước khi Ngoài lưới" />
+    <TextStringDefinition InstanceID="0xA19E00F2" TextString="Không có Hóa đơn Điện khi Ngoài lưới" />
+    <TextStringDefinition InstanceID="0x6AC140A0" TextString="Hóa đơn vừa được gửi đến hộp thư của bạn. Vì hộ gia đình bạn nằm ngoài lưới tiện ích, bạn chỉ phải trả thuế tài sản và phí.\n\n•Thuế Lô đất: {3.String}\n•Điện: {4.String}\n•Nước: {5.String}\n•Thuế Khác: {6.String}\n•Tổng cộng: {1.String}\n\nBạn có thể thanh toán bằng điện thoại, máy tính, hoặc hộp thư." />
+    <TextStringDefinition InstanceID="0x4290CD52" TextString="{0.SimFirstName} thấy rượu nectars trắng kết hợp khá ngon với bữa ăn của {M0.anh ấy}{F0.cô ấy}." />
+    <TextStringDefinition InstanceID="0xF2847CFF" TextString="{0.SimFirstName} vẫn đang trong kỳ nghỉ và {M0.anh ấy}{F0.cô ấy} chỉ đang nghỉ ngơi để thăm {1.SimFirstName}. Nếu bạn muốn tiếp tục chơi với tư cách là {0.SimFirstName}, bạn có thể chọn {M0.anh ấy}{F0.cô ấy} từ Quản lý Thế giới." />
+    <TextStringDefinition InstanceID="0xE95A7008" TextString="{0.SimFirstName} chỉ đang thăm {1.SimFirstName} đang trong kỳ nghỉ. Nếu bạn muốn {0.SimFirstName} tham gia vui vẻ, {1.SimFirstName} có thể mời {0.SimFirstName} tham gia kỳ nghỉ từ Bảng Quan hệ hoặc danh mục &quot;Hành động&quot; của menu hình tròn." />
+    <TextStringDefinition InstanceID="0xE6B45B04" TextString="Nâng cấp hoàn tất!\n\n{0.SimFirstName} đã hoàn thành việc làm cho bồn tắm nước nóng không thể vỡ.\n\nMột bồn tắm nước nóng không bao giờ vỡ? Tiện lợi thật! Chỉ cần đề phòng những Sim nghịch ngợm mang theo dầu thioacetone..." />
+    <TextStringDefinition InstanceID="0x73D9EFF0" TextString="Nâng cấp hoàn tất!\n\n{0.SimFirstName} đã hoàn thành việc lắp đặt dàn âm thanh trên bồn tắm nước nóng.\n\nMột dàn âm thanh là điểm trang trí hoàn hảo cho Sim muốn thư giãn với âm nhạc yêu thích." />
+    <TextStringDefinition InstanceID="0xFBE72FA6" TextString="Nâng cấp hoàn tất!\n\n{0.SimFirstName} đã hoàn thành việc lắp đặt Bộ lọc Aromatherapy trên bồn tắm nước nóng.\n\nAromatherapy cho phép bạn chọn từ nhiều loại dầu thư giãn để Sim thưởng thức khi họ ngâm mình trong bồn." />
+    <TextStringDefinition InstanceID="0x48B834BF" TextString="Chào {1.SimFirstName}! Chúng tôi sẽ ra ngoài lưới! Chúng tôi sẽ dọn đi và từ bỏ mọi công nghệ, bao gồm cả điện thoại. Cảm ơn vì tất cả kỷ niệm. Tôi sẽ nhớ bạn khi tôi đi kiếm ăn trong rừng sâu." />
+    <TextStringDefinition InstanceID="0xE2A41D71" TextString="Xin lỗi, không cảm ơn! Có thể {0.SimFirstName} sẽ quan tâm đến một số Thùng Rác của Trashley thay vì Trashley?" />
+    <TextStringDefinition InstanceID="0x786B511E" TextString="Xin lỗi, Trashley bận với công việc. Thay vì nghĩ về Trashley, {0.SimFirstName} nên nghĩ về việc mua từ cửa hàng!" />
+    <TextStringDefinition InstanceID="0x04F30E2C" TextString="Vấn đề của tôi là gì?! Vấn đề của tôi là BẠN! Tôi vẫn rất tức giận với bạn, &lt;i&gt;nếu bạn chưa rõ&lt;/i&gt;." />
+    <TextStringDefinition InstanceID="0x30F7A590" TextString="Tôi đã chán ngấy với sự ngớ ngẩn của bạn. Bạn có gan hỏi tại sao tôi vẫn tức giận... Không thể tin nổi!" />
+    <TextStringDefinition InstanceID="0xAD821C87" TextString="Tại sao bạn không để tôi yên? Tôi đã đủ tức giận với bạn rồi! Kết thúc cuộc trò chuyện?" />
+    <TextStringDefinition InstanceID="0x843A9F86" TextString="Vấn đề của tôi là tôi đang đối mặt với những câu hỏi thụ động từ một người mà tôi thấy khó chịu sau tất cả những gì họ đã làm. Bây giờ bạn nghĩ đó là ai?" />
+    <TextStringDefinition InstanceID="0xA2E4D58B" TextString="Hãy để tôi ngâm mình trong sự đắng cay của tôi một cách yên tĩnh. Một số thứ khó quên hoặc tha thứ, &lt;i&gt;được chứ&lt;/i&gt;?" />
+    <TextStringDefinition InstanceID="0x972EB244" TextString="Bạn không nên &lt;i&gt;phải&lt;/i&gt; hỏi. Bạn có thể nói tôi &lt;i&gt;hơi&lt;/i&gt; đắng cay." />
+    <TextStringDefinition InstanceID="0xECD28E3F" TextString="Tôi thực sự không thích bạn lúc này. Chỉ cảm thấy đắng cay về vài điều mà tôi sẽ vượt qua sớm thôi... Hoặc không." />
+    <TextStringDefinition InstanceID="0x87DD0601" TextString="Này, kịch bản này không hoàn toàn do lỗi tôi... Tôi được phép cảm thấy đắng cay về những gì đã xảy ra giữa chúng ta." />
+    <TextStringDefinition InstanceID="0xB2262C9D" TextString="Tôi rất biết ơn vì chúng ta đã giải quyết được vấn đề! Tôi biết điều đó khó khăn để cho cơ hội thứ hai, nhưng tôi sẽ không làm bạn thất vọng. Tôi hứa." />
+    <TextStringDefinition InstanceID="0xF15785BF" TextString="Cảm xúc Đạt được" />
+    <TextStringDefinition InstanceID="0x10E5F352" TextString="Tôi thực sự trân trọng thời gian chúng ta bên nhau. Tôi nghĩ rằng nó đã khiến chúng ta gần gũi hơn bao giờ hết!" />

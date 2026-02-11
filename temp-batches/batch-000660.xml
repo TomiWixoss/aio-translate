@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x87D8E84B" TextString="Màu sắc" />
+    <TextStringDefinition InstanceID="0x1E7F219E" TextString="Nghiên cứu đã ghi chép nhiều truyền thống từ các nền văn hóa khác nhau. Giờ là lúc tận hưởng những truyền thống hiện có và tạo ra những truyền thống mới." />
+    <TextStringDefinition InstanceID="0x0E58710B" TextString="Bạn đã làm được! Công việc tuyệt vời trong vài tuần qua. Bạn đã chia sẻ những khoảnh khắc tuyệt vời với người khác, tạo ra kỷ niệm và đón nhận tinh thần lễ hội từ nhiều góc nhìn khác nhau. Cảm ơn vì đã ghi lại những trải nghiệm. Tôi hy vọng bạn đã tận hưởng nghiên cứu của chúng tôi, và tôi không thể chờ để hợp tác với bạn một lần nữa!" />
+    <TextStringDefinition InstanceID="0x6A054EDC" TextString="Ăn mừng có thể thực sự kiệt sức. Hãy dành thời gian thư giãn và xem một chút TV." />
+    <TextStringDefinition InstanceID="0x2F2A6FCF" TextString="Hãy sẵn sàng ăn mừng ngày lễ theo cách đúng đắn, với bạn bè thân thiết và gia đình, trò chơi điện tử và cacao nóng. Giá như có chiếc Khay Cacao Nóng Ấm Cúng." />
+    <TextStringDefinition InstanceID="0xCCBABFBC" TextString="Buổi lễ này thật đẹp. Tôi chắc chắn rằng bạn đã mang lại niềm vui cho những người đó với những món quà và bằng cách chia sẻ những khoảnh khắc ngọt ngào này. Phần cuối cùng của nghiên cứu chúng tôi sắp đến, và tôi không thể chờ để xem tất cả những gì bạn đã ghi lại." />
+    <TextStringDefinition InstanceID="0x0D0AA739" TextString="Được ở bên những người quan trọng nhất khiến ngày lễ trở nên đặc biệt!" />
+    <TextStringDefinition InstanceID="0x8621B459" TextString="Hãy ra ngoài và gặp gỡ các Sim khác. Càng nhiều bạn bè một Sim có, cuộc ăn mừng càng lớn!" />
+    <TextStringDefinition InstanceID="0x57DFD91E" TextString="Có vẻ như chúng ta luôn có thể học được điều mới từ mọi người, đúng không? Âm nhạc là linh hồn của nhiều khoảnh khắc đặc biệt và ngọt ngào. Học về nó làm phong phú nghiên cứu của chúng ta. Công việc tuyệt vời! Tuần sau là phần cuối cùng của nghiên cứu, vì vậy hãy cố gắng hết sức để lan tỏa tinh thần lễ hội và ăn mừng!" />
+    <TextStringDefinition InstanceID="0xC0292A1B" TextString="Có cả một thế giới truyền thống để nghiên cứu trực tuyến, hãy làm đi!" />
+    <TextStringDefinition InstanceID="0x959A2048" TextString="Mang âm nhạc của mùa lễ đến Lô Hiện Tại với một Máy Phát Nhạc và nhặt một nhạc cụ để thực sự ấn tượng với khách mời." />
+    <TextStringDefinition InstanceID="0xD059DA55" TextString="Bạn đã làm tuyệt vời! Tôi luôn cảm xúc ở cuối các bộ phim! Những khoảnh khắc này giúp chúng ta tạo ra kết nối mạnh mẽ và tận hưởng ngày lễ trọn vẹn." />
+    <TextStringDefinition InstanceID="0x9C873566" TextString="Thức ăn và đồ uống truyền thống tạo không khí lễ hội, hãy thử thêm một số!" />
+    <TextStringDefinition InstanceID="0x8095AF14" TextString="Tiếp tục phát triển kỹ năng Nấu ăn và có thể thử pha chế để tạo ra một số đồ uống lễ hội truyền thống." />
+    <TextStringDefinition InstanceID="0xCC8202D1" TextString="Công việc tuyệt vời trong việc đón nhận tinh thần lễ hội! Hãy tiếp tục lan tỏa niềm vui và sự ấm áp." />
+    <TextStringDefinition InstanceID="0x3DF85F72" TextString="Trò chuyện với người khác về Ngày Lễ, sau đó báo cáo phát hiện cho Jasmine." />
+    <TextStringDefinition InstanceID="0x87D46BD9" TextString="Tiếp tục Nấu ăn hoặc đọc về nó để tăng kỹ năng." />
+    <TextStringDefinition InstanceID="0x8436B79E" TextString="Công việc tốt! Có vẻ như bạn đang đón nhận tinh thần lễ hội. Sớm thôi, tôi sẽ mang đến cho bạn những tin tức thú vị hơn khi chúng ta tiếp tục nghiên cứu." />
+    <TextStringDefinition InstanceID="0xCCB1A59B" TextString="Jasmine cần giúp đỡ, cô ấy muốn biết về truyền thống lễ hội!" />
+    <TextStringDefinition InstanceID="0xBAEBB218" TextString="Suy tư sâu sắc" />
+    <TextStringDefinition InstanceID="0x4EBD353E" TextString="Buổi tập kết thúc sớm hôm nay nên một số cầu thủ đã lên kế hoạch cùng nhau ăn một ít đồ ăn. {0.SimFirstName} đang ra khỏi phòng thay đồ khi {M0.he}{F0.she} thấy Huấn luyện viên ngồi trong văn phòng và nhìn chằm chằm vào bức tường với vẻ buồn bã. {0.SimFirstName} nên mời huấn luyện viên tham gia hay để mặc ông ấy với những suy nghĩ của mình?" />
+    <TextStringDefinition InstanceID="0x521CAF01" TextString="Để mặc" />
+    <TextStringDefinition InstanceID="0xFD6D8A16" TextString="Mời ra ngoài" />
+    <TextStringDefinition InstanceID="0x293E5E23" TextString="Ủng hộ Tân binh" />
+    <TextStringDefinition InstanceID="0xA2FC08B1" TextString="{0.SimFirstName} đến văn phòng Huấn luyện viên để nói về chiến thuật, nhưng khi đến nơi thấy Huấn luyện viên đang khó xử với tân binh. {0.SimFirstName} nên can thiệp và ủng hộ tân binh hay lặng lẽ bước đi?" />
+    <TextStringDefinition InstanceID="0xE40147C6" TextString="Ủng hộ Tân binh" />
+    <TextStringDefinition InstanceID="0x04E636BD" TextString="Bước đi" />
+    <TextStringDefinition InstanceID="0xEAF1B99A" TextString="Ăn mừng Những Khoảnh khắc Tốt đẹp" />
+    <TextStringDefinition InstanceID="0x0B4AB73C" TextString="{0.SimFirstName} vừa ghi bàn theo cách chắc chắn sẽ được ghi vào sử sách. Đã đến lúc {0.SimFirstName} thể hiện màn ăn mừng quá mức {M0.he}{F0.she} đang giữ kín, hay vẫn giữ nguyên những thứ cũ?" />
+    <TextStringDefinition InstanceID="0x4021B7AF" TextString="Giữ an toàn" />
+    <TextStringDefinition InstanceID="0x96EB165C" TextString="Thả ga" />
+    <TextStringDefinition InstanceID="0xE5927A8D" TextString="Sự cố Đồng phục" />
+    <TextStringDefinition InstanceID="0x49400BEF" TextString="{0.SimFirstName} đang gặp nhiều vấn đề với đồng phục của {M0.him}{F0.her} hôm nay. Vớt thì ngứa và thắt lưng luôn hoặc quá chật hoặc quá lỏng. {M0.he}{F0.she} nên chơi bất chấp, hay thay đổi và chịu rủi ro vi phạm đồng phục?" />
+    <TextStringDefinition InstanceID="0xA6D8BEDC" TextString="Chơi tiếp!" />
+    <TextStringDefinition InstanceID="0x335663EB" TextString="Thay đổi" />
+    <TextStringDefinition InstanceID="0xD80DC5C4" TextString="Thỏa thuận Tiếp thị" />
+    <TextStringDefinition InstanceID="0x0B77A18A" TextString="{0.SimFirstName} được đề nghị các thỏa thuận tiếp thị từ hai công ty cạnh tranh. Lời đề nghị có lợi nhuận hơn là cho sản phẩm rõ ràng kém chất lượng. Họ nên ủng hộ chất lượng, hay lấy tiền?" />
+    <TextStringDefinition InstanceID="0xAFC3596D" TextString="Ủng hộ Sản phẩm Tốt hơn" />
+    <TextStringDefinition InstanceID="0x3B45D6AA" TextString="Lấy Tiền" />
+    <TextStringDefinition InstanceID="0x903BFA3F" TextString="Mở rộng Hợp đồng" />
+    <TextStringDefinition InstanceID="0x5FBE27FD" TextString="Đã đến lúc tái cấu trúc hợp đồng của {0.SimFirstName}! {M0.he}{F0.she} nên chấp nhận lời đề nghị đầu tiên của đội, hay giữ vững để đòi thêm tiền?" />
+    <TextStringDefinition InstanceID="0x15B9D522" TextString="Giữ vững" />
+    <TextStringDefinition InstanceID="0x016EBCB1" TextString="Chấp nhận Lời đề nghị" />
+    <TextStringDefinition InstanceID="0xC6BC23C6" TextString="Phát bóng của Ngày" />
+    <TextStringDefinition InstanceID="0xC88EFED8" TextString="“Đây là lúc. Áp lực đang cao! Đó là hiệp thứ hai mươi, và hai người chạy đang ở vị trí với 10 yard còn lại. {0.SimFirstName} có thể đá qua cột để thắng, hoặc cố gắng ghi bàn gỡ hòa.”" />
+    <TextStringDefinition InstanceID="0xF017539B" TextString="Gỡ hòa" />
+    <TextStringDefinition InstanceID="0x2E36C940" TextString="Đá" />
+    <TextStringDefinition InstanceID="0x9FBF0F99" TextString="Liệu pháp Ngôn ngữ" />
+    <TextStringDefinition InstanceID="0xA74ABFAB" TextString="Đã đến giờ nghỉ giữa hiệp, và đội của {0.SimFirstName} đang thua! Tinh thần đội ở mức thấp nhất. {M0.he}{F0.she} nên cố gắng cổ vũ đội, hay để huấn luyện viên xử lý?" />
+    <TextStringDefinition InstanceID="0x09059B08" TextString="Giữ im lặng" />

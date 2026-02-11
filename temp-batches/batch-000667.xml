@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x7D803BD6" TextString="Tạo một bức tranh xuất sắc" />
+    <TextStringDefinition InstanceID="0x126FD120" TextString="Đi đến Bảo tàng bằng cách mở Bản đồ Thế giới và nhấp vào Địa điểm. Khi đến nơi, nhấp vào giá vẽ, chọn Phong cách Tranh và chọn Kích thước Tranh." />
+    <TextStringDefinition InstanceID="0x942EA9F6" TextString="Vẽ trên giá vẽ tại Bảo tàng" />
+    <TextStringDefinition InstanceID="0x4A06ED85" TextString="Nhấp vào giá vẽ, chọn Phong cách Tranh và chọn Kích thước Tranh." />
+    <TextStringDefinition InstanceID="0x4805E1A3" TextString="Vẽ trên giá vẽ" />
+    <TextStringDefinition InstanceID="0x89AE33A1" TextString="Nhấp vào giá vẽ và chọn Sơ đồ Toán học." />
+    <TextStringDefinition InstanceID="0x4C15A160" TextString="Tạo Sơ đồ Toán học trên giá vẽ" />
+    <TextStringDefinition InstanceID="0xFFDC939B" TextString="Nhấp vào giá vẽ, chọn Phong cách Tranh và chọn Kích thước Tranh. Nhân vật có Kỹ năng Vẽ cao sẽ có khả năng tạo ra những bức tranh chất lượng cao hơn." />
+    <TextStringDefinition InstanceID="0x85E8063A" TextString="Vẽ một kiệt tác" />
+    <TextStringDefinition InstanceID="0x6E2391CE" TextString="Nhấp vào giá vẽ, chọn Tranh Ấn tượng và chọn Kích thước Tranh." />
+    <TextStringDefinition InstanceID="0x5C778EDD" TextString="Vẽ một bức tranh Ấn tượng" />
+    <TextStringDefinition InstanceID="0xC7FCD144" TextString="Nhấp vào giá vẽ, chọn Tranh Cổ điển và chọn Kích thước Tranh." />
+    <TextStringDefinition InstanceID="0x87F1A7A3" TextString="Vẽ một bức tranh Cổ điển" />
+    <TextStringDefinition InstanceID="0xAF7A239C" TextString="Ẩn khỏi Mọi người" />
+    <TextStringDefinition InstanceID="0x36964070" TextString="Nhấp vào Đèn Sưởi ấm và chọn Nâng cấp. Linh kiện Nâng cấp có thể mua từ Máy tính." />
+    <TextStringDefinition InstanceID="0x1DC10D18" TextString="Nâng cấp Đèn Sưởi ấm để chống cháy" />
+    <TextStringDefinition InstanceID="0xBDB70E5E" TextString="Đi đến Phòng chờ bằng cách mở Bản đồ Thế giới và nhấp vào Địa điểm. Khi đến nơi, nhấp vào Quầy bar để lấy một Đồ uống cho {1.SimFirstName}." />
+    <TextStringDefinition InstanceID="0x1C5F066D" TextString="Uống một đồ uống tại Phòng chờ" />
+    <TextStringDefinition InstanceID="0x01E0E541" TextString="Đi đến Phòng chờ bằng cách mở Bản đồ Thế giới và nhấp vào Địa điểm. Khi đến nơi, nhấp vào Quầy bar để lấy một Đồ uống cho {1.SimFirstName}." />
+    <TextStringDefinition InstanceID="0x0F0C0F40" TextString="Uống một đồ uống tại Phòng chờ" />
+    <TextStringDefinition InstanceID="0xD400CCD0" TextString="Đi đến Câu lạc bộ bằng cách mở Bản đồ Thế giới và nhấp vào Địa điểm. Khi đến nơi, nhấp vào Quầy bar để lấy một Đồ uống cho {1.SimFirstName}." />
+    <TextStringDefinition InstanceID="0xC9F1BB0F" TextString="Uống một đồ uống tại Câu lạc bộ" />
+    <TextStringDefinition InstanceID="0xEA46291B" TextString="Đi đến Câu lạc bộ bằng cách mở Bản đồ Thế giới và nhấp vào Địa điểm. Khi đến nơi, nhấp vào Quầy bar để lấy một Đồ uống cho {1.SimFirstName}." />
+    <TextStringDefinition InstanceID="0xE34B66BA" TextString="Uống một đồ uống tại Câu lạc bộ" />
+    <TextStringDefinition InstanceID="0x1E2225D9" TextString="Đi đến Quầy bar bằng cách mở Bản đồ Thế giới và nhấp vào Địa điểm. Khi đến nơi, nhấp vào Quầy bar để lấy một Đồ uống cho {1.SimFirstName}." />
+    <TextStringDefinition InstanceID="0xC184A188" TextString="Uống một đồ uống tại Địa điểm Quầy bar" />
+    <TextStringDefinition InstanceID="0x2C57BBB8" TextString="Đi đến Quầy bar bằng cách mở Bản đồ Thế giới và nhấp vào Địa điểm. Khi đến nơi, nhấp vào Quầy bar để lấy một Đồ uống cho {1.SimFirstName}." />
+    <TextStringDefinition InstanceID="0x60788E27" TextString="Uống một đồ uống tại Địa điểm Quầy bar" />
+    <TextStringDefinition InstanceID="0x41E246F6" TextString="Nhấp vào Quầy bar và chọn Đặt đồ uống" />
+    <TextStringDefinition InstanceID="0xE886731B" TextString="Nhấp vào một Nhân vật khác và chọn Thử cho Trẻ sơ sinh WooHoo Xã hội dưới Danh mục Lãng mạn." />
+    <TextStringDefinition InstanceID="0x9DDE8A29" TextString="Có em bé" />
+    <TextStringDefinition InstanceID="0x53DB0C45" TextString="Nhấp vào Cây Growfruit và chọn Thu hoạch. Tương tác này có sẵn khi cây ra trái." />
+    <TextStringDefinition InstanceID="0xCB11CCAB" TextString="Thu hoạch Growfruit" />
+    <TextStringDefinition InstanceID="0xAFC20324" TextString="Nhấp vào Cây và chọn Thu hoạch. Tương tác này có sẵn khi cây ra trái." />
+    <TextStringDefinition InstanceID="0x99DCEDC3" TextString="Thu hoạch Cây" />
+    <TextStringDefinition InstanceID="0x8B7C26D6" TextString="Nhấp vào Lửa trại và chọn Tụ tập." />
+    <TextStringDefinition InstanceID="0x424E1046" TextString="Tụ tập tại Lửa trại" />
+    <TextStringDefinition InstanceID="0x98C23118" TextString="Nhấp vào Máy tính, chọn Hack dưới Danh mục Chương trình và chọn Hack Điểm học tập. Nhân vật Thiếu niên có thể mở khóa tương tác này bằng cách tăng Kỹ năng Lập trình." />
+    <TextStringDefinition InstanceID="0x58D333C7" TextString="Hack Điểm học tập" />
+    <TextStringDefinition InstanceID="0x984F5B6E" TextString="Hack Thứ gì đó Thành công" />
+    <TextStringDefinition InstanceID="0x5C0B110A" TextString="Nhấp vào Máy tính, chọn Hack dưới Danh mục Chương trình và chọn một nơi để hack. Nhân vật có thể mở khóa tương tác này bằng cách tăng Kỹ năng Lập trình." />
+    <TextStringDefinition InstanceID="0x9A72CC89" TextString="Thử Hack Thứ gì đó" />
+    <TextStringDefinition InstanceID="0x95B02334" TextString="Nướng Xúc xích Đậu phụ" />
+    <TextStringDefinition InstanceID="0x3CD85FC3" TextString="Nướng Bánh mì kẹp Rau" />
+    <TextStringDefinition InstanceID="0x696B33A5" TextString="Nướng Xúc xích Đậu phụ hoặc Bánh mì kẹp Rau" />
+    <TextStringDefinition InstanceID="0x3CB021EC" TextString="Nướng Bít tết" />
+    <TextStringDefinition InstanceID="0x0CF8AE60" TextString="Nướng Cá hồi" />
+    <TextStringDefinition InstanceID="0x7347B7D3" TextString="Nhấp vào Bếp nướng, và chọn một công thức để chuẩn bị." />
+    <TextStringDefinition InstanceID="0x5E4BBF42" TextString="Nướng Xúc xích" />
+    <TextStringDefinition InstanceID="0xFC87CDF6" TextString="Nướng Bánh mì kẹp Thịt băm" />

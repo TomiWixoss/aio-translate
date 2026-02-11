@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xA43192EE" TextString="Các Sim ban đầu là người yêu của nhau" />
+    <TextStringDefinition InstanceID="0xA3C5388F" TextString="Các Sim có thể chia tay với nhau thông qua tương tác Harsh: Chia Tay" />
+    <TextStringDefinition InstanceID="0x1B41C025" TextString="Các Sim ban đầu đã chia tay" />
+    <TextStringDefinition InstanceID="0x30911CEF" TextString="Sim có {0.Number} người bạn" />
+    <TextStringDefinition InstanceID="0x7ADF85C3" TextString="Hãy ra ngoài và gặp gỡ một số Sim khác để kết bạn!" />
+    <TextStringDefinition InstanceID="0x0A8E1761" TextString="Thiếu niên có {0.Number} người bạn" />
+    <TextStringDefinition InstanceID="0xD42002E5" TextString="Chúc mừng bạn đã hoàn thành Kịch bản!\n\nNhư một phần thưởng, mỗi Sim trong hộ gia đình này đã kiếm được Điểm Hài lòng mà bạn có thể chi tiêu tại Cửa hàng Phần thưởng. Bạn có thể mua phần thưởng cho mỗi Sim trong Bảng Khát vọng của họ." />
+    <TextStringDefinition InstanceID="0x27F048D3" TextString="Các Sim có mức độ Bạn bè rất cao có thể yêu cầu trở thành Bạn thân." />
+    <TextStringDefinition InstanceID="0x6E951531" TextString="Một Sim là Bạn thân với người mà họ đã chia tay" />
+    <TextStringDefinition InstanceID="0x05159346" TextString="Một Sim là Bạn thân với học trò của cô ấy" />
+    <TextStringDefinition InstanceID="0xFF950D47" TextString="Hoàn thành Khát vọng là một cách tuyệt vời để mang lại lợi thế cho con bạn khi chúng lớn lên bằng cách kiếm được Đặc điểm Phần thưởng!\n\nXem yêu cầu Khát vọng hoặc chọn Khát vọng mới trong thẻ Khát vọng." />
+    <TextStringDefinition InstanceID="0xF2BA33AD" TextString="Để con bạn hoàn thành một Khát vọng Thời thơ ấu" />
+    <TextStringDefinition InstanceID="0xFC8EDCF8" TextString="Khi cây đạt sức khỏe tối đa, chúng có thể được tiến hóa để cải thiện chất lượng tổng thể. Một khi cây nở hoa đạt Chất lượng: Hoàn hảo, hãy sử dụng tương tác Thu hoạch để hoàn thành mục tiêu này. Yêu cầu: Trồng trọt 2, không có Cây trồng Quá khổ" />
+    <TextStringDefinition InstanceID="0x81FBB330" TextString="Thu hoạch từ cây có Chất lượng Hoàn hảo" />
+    <TextStringDefinition InstanceID="0x15A535B2" TextString="Mở kho đồ của bạn và ăn một &quot;Quả Cấm của PlantSim&quot; đã xuất hiện một cách kỳ diệu. " />
+    <TextStringDefinition InstanceID="0x320A358A" TextString="Ăn &quot;Quả Cấm của PlantSim&quot; từ kho đồ của bạn" />
+    <TextStringDefinition InstanceID="0xF39FD791" TextString="Một Sim cần thiết cho kịch bản đã chuyển đi hoặc đã qua đời" />
+    <TextStringDefinition InstanceID="0x54A44452" TextString="Chọn điện thoại của một anh chị em và quyên góp di sản của bạn. Bắt đầu lại với không có Simoleon, nhưng hy vọng là có karma tốt hơn!" />
+    <TextStringDefinition InstanceID="0xEC768EAA" TextString="Quyên góp Di sản cho Từ thiện" />
+    <TextStringDefinition InstanceID="0xA288E6DC" TextString="Để có ít nhất một anh chị em được thăng chức trong con đường sự nghiệp của họ bằng cách hoàn thành Thăng chức và Nhiệm vụ Hàng ngày trong Bảng Sự nghiệp." />
+    <TextStringDefinition InstanceID="0x8948063C" TextString="Được Thăng chức" />
+    <TextStringDefinition InstanceID="0xD36EEEB4" TextString="Chọn Bà và sử dụng phần Home của Điện thoại để &quot;Đốt Tiền Di sản.&quot; Điều đó sẽ cho họ thấy bạn không đùa đâu!" />
+    <TextStringDefinition InstanceID="0x7AD197A4" TextString="Đốt 50,000 Simoleon của Di sản " />
+    <TextStringDefinition InstanceID="0x39080810" TextString="Hãy thử thân thiện với bà hoặc để bà làm các hoạt động vui vẻ như xem TV hoặc đọc sách cho đến khi bà không còn cảm thấy tức giận hoặc buồn nữa." />
+    <TextStringDefinition InstanceID="0xE19CC838" TextString="Cải thiện Tâm trạng của Bà" />
+    <TextStringDefinition InstanceID="0x456FE1F1" TextString="Chọn Bà và sử dụng phần Home của Điện thoại để &quot;Quyên góp Tiền Di sản cho Từ thiện.&quot; Điều đó sẽ cho họ thấy bạn không đùa đâu!" />
+    <TextStringDefinition InstanceID="0x2479F27F" TextString="Quyên góp 10,000 Simoleon của Di sản cho Từ thiện" />
+    <TextStringDefinition InstanceID="0x067A9EF0" TextString="Tránh sử dụng các tương tác xã hội ác trong bữa tiệc tối. Chỉ đạo các anh chị em đối xử tử tế với nhau và hàn gắn rạn nứt!" />
+    <TextStringDefinition InstanceID="0x750AC9D2" TextString="Vượt qua Bữa tiệc tối mà không cãi nhau" />
+    <TextStringDefinition InstanceID="0xD4A6BD2C" TextString="Sử dụng tính năng &quot;Lập kế hoạch Sự kiện Xã hội&quot; trên Điện thoại dưới mục Xã hội hoặc &quot;Thêm Sự kiện&quot; trên Lịch để lập kế hoạch cho một bữa tiệc tối và mời Bà và tất cả các Anh chị em. Hoàn thành một Bữa tiệc tối mà không cãi nhau sẽ cải thiện tâm trạng của Bà!" />
+    <TextStringDefinition InstanceID="0xEBE2730C" TextString="Tổ chức một Bữa tiệc tối" />
+    <TextStringDefinition InstanceID="0x38F6C3C3" TextString="Kết thúc trò chơi cho hộ gia đình này" />
+    <TextStringDefinition InstanceID="0x4566A5B0" TextString="Thiếu 1 hoặc nhiều Trẻ nhỏ trong nhóm ban đầu" />
+    <TextStringDefinition InstanceID="0x36D479B7" TextString="Thiếu một Sim cần thiết cho Kịch bản này" />
+    <TextStringDefinition InstanceID="0x153092D3" TextString="Một Trẻ nhỏ hoặc Trẻ em bị đưa đi do bỏ bê" />
+    <TextStringDefinition InstanceID="0x2A6A98B3" TextString="Cuối cùng Cô đơn" />
+    <TextStringDefinition InstanceID="0x54AC6FAB" TextString="Bạn đã sẵn sàng để làm chói mắt các vị khách!\n\nTổ chức một Bữa tiệc nướng từ Điện thoại hoặc Lịch của bạn." />
+    <TextStringDefinition InstanceID="0xAE3D7579" TextString="Tổ chức một Bữa tiệc nướng!" />
+    <TextStringDefinition InstanceID="0xCE86AF19" TextString="Nướng thứ gì có mang là quan trọng cho mọi Bữa tiệc nướng!\n\nNhấp vào Biển báo Câu cá để đi Câu cá." />
+    <TextStringDefinition InstanceID="0x61452077" TextString="Bắt Cá để nướng" />
+    <TextStringDefinition InstanceID="0xA4BCBEB4" TextString="Để thực sự hoàn hảo nghệ thuật nướng, bạn cần một số Kỹ năng Nấu ăn thực sự!\n\nNâng cấp Kỹ năng Nấu ăn của bạn bằng cách Nấu ăn tại Bếp nướng, Bếp ga, hoặc Tủ lạnh." />
+    <TextStringDefinition InstanceID="0x3C4907A4" TextString="Nâng cấp Kỹ năng Nấu ăn lên 7" />
+    <TextStringDefinition InstanceID="0xA095C9FA" TextString="Những câu đùa nhàm chán đòi hỏi một số kỹ năng Hài hước để thực hiện, và một Bữa tiệc nướng tốt cần những câu đùa hay.\n\nLuyện tập kỹ năng Hài hước của bạn tại Gương hoặc Microphone, hoặc chỉ cần Kể chuyện cười cho một Sim khác." />
+    <TextStringDefinition InstanceID="0x6CE4DC8C" TextString="(Mục tiêu 3 trong 5)\n\nCác Sim trưởng thành khi họ đến cuối một giai đoạn cuộc sống hoặc bằng cách thổi nến trên bánh. Kiểm tra bảng Simology để xem còn bao nhiêu ngày trong giai đoạn cuộc sống. Để trưởng thành sớm, hãy nướng hoặc mua một chiếc bánh. Sau đó thêm Nến Sinh nhật và để Sim thổi chúng ra!\n\nPhần thưởng: 2500 Simoleon" />
+    <TextStringDefinition InstanceID="0xEE9B0F6C" TextString="Để một Thiếu niên Trưởng thành thành Người trưởng thành trẻ" />
+    <TextStringDefinition InstanceID="0x2C6663A8" TextString="&lt;i&gt;Những năm thiếu niên là then chốt để xác định cách một người sẽ trở thành người lớn, mặc dù không phải lúc nào cũng là giai đoạn dễ dàng cho trẻ em hay người lớn!&lt;/i&gt;\n\nBạn đã hoàn thành một mục tiêu Giấc mơ và kiếm được 2500 Simoleon như một phần thưởng!\n\nTiếp tục chơi để tiếp tục Giấc mơ!" />
+    <TextStringDefinition InstanceID="0x133123C6" TextString="(Mục tiêu 2 trong 5)\n\nCác Sim trưởng thành khi họ đến cuối một giai đoạn cuộc sống hoặc bằng cách thổi nến trên bánh. Kiểm tra bảng Simology để xem còn bao nhiêu ngày trong giai đoạn cuộc sống. Để trưởng thành sớm, hãy nướng hoặc mua một chiếc bánh. Sau đó thêm Nến Sinh nhật và để Sim thổi chúng ra!\n\nNếu bạn cần thêm một Trẻ em vào hộ gia đình, bạn có thể Thử mang thai hoặc Có Em bé khoa học với một người yêu, cũng như Nhận con nuôi từ Điện thoại hoặc Máy tính.\n\nPhần thưởng: 2500 Simoleon" />
+    <TextStringDefinition InstanceID="0x67123FF6" TextString="Để một Trẻ em Trưởng thành thành Thiếu niên" />
+    <TextStringDefinition InstanceID="0x7AE4C182" TextString="&lt;i&gt;Khi các thành viên gia đình đến giai đoạn cuối cùng của cuộc sống, họ đã kiếm được một khoảng nghỉ từ công việc vất vả.&lt;/i&gt;\n\nBạn đã hoàn thành một mục tiêu Giấc mơ và kiếm được 5000 Simoleon như một phần thưởng!\n\nTiếp tục chơi để tiếp tục Giấc mơ!" />
+    <TextStringDefinition InstanceID="0x88FA4574" TextString="(Mục tiêu 4 trong 5)\n\nCác Sim trưởng thành khi họ đến cuối một giai đoạn cuộc sống hoặc bằng cách thổi nến trên bánh. Kiểm tra bảng Simology để xem còn bao nhiêu ngày trong giai đoạn cuộc sống. Để trưởng thành sớm, hãy nướng hoặc mua một chiếc bánh. Sau đó thêm Nến Sinh nhật và để Sim thổi chúng ra!\n\nPhần thưởng: 5000 Simoleon" />

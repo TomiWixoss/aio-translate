@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xB9C3ABC6" TextString="Máy ảnh tự do" />
+    <TextStringDefinition InstanceID="0xED6076AD" TextString="Điều khiển máy ảnh" />
+    <TextStringDefinition InstanceID="0x3208B7A0" TextString="Bắt đầu/Dừng ghi hình - V" />
+    <TextStringDefinition InstanceID="0xCCEB2747" TextString="Chụp ảnh màn hình - C" />
+    <TextStringDefinition InstanceID="0xE1D7C646" TextString="Máy ảnh Sims 3" />
+    <TextStringDefinition InstanceID="0x8590A7DC" TextString="Bán" />
+    <TextStringDefinition InstanceID="0x96C55D0F" TextString="Kho đồ gia đình không khả dụng trên lô khách trang trí." />
+    <TextStringDefinition InstanceID="0xB8F246E8" TextString="Lô này không có kho đồ" />
+    <TextStringDefinition InstanceID="0x2C50A6C1" TextString="Đặt vào kho đồ" />
+    <TextStringDefinition InstanceID="0x56840710" TextString="Kho đồ gia đình" />
+    <TextStringDefinition InstanceID="0x0E139926" TextString="Chiều cao móng" />
+    <TextStringDefinition InstanceID="0x51F53B3F" TextString="Không khả dụng cho: " />
+    <TextStringDefinition InstanceID="0x0F476801" TextString="Chỉ khả dụng cho: " />
+    <TextStringDefinition InstanceID="0xAE6D3EE9" TextString=", " />
+    <TextStringDefinition InstanceID="0xEFC477A4" TextString="Xung đột tính cách: " />
+    <TextStringDefinition InstanceID="0xCFE124D9" TextString="Xung đột thử thách lô: " />
+    <TextStringDefinition InstanceID="0xEFB0137C" TextString="&lt;font color='#EC262E'&gt;Một lô ven nước được khuyến nghị cho địa điểm này.&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x98642FE7" TextString="Xem tiến độ" />
+    <TextStringDefinition InstanceID="0x906CC36F" TextString="Xem loại địa điểm trong thư viện" />
+    <TextStringDefinition InstanceID="0x30657A22" TextString="Loại địa điểm" />
+    <TextStringDefinition InstanceID="0x25992BB3" TextString="Không cho phép thêm ô sàn mới." />
+    <TextStringDefinition InstanceID="0x5364B1B5" TextString="Ô sàn đã thêm:" />
+    <TextStringDefinition InstanceID="0x2F01143C" TextString="Tầng" />
+    <TextStringDefinition InstanceID="0x8FF7E77C" TextString="Gợi ý" />
+    <TextStringDefinition InstanceID="0x58E133DF" TextString="Đây là các hạn chế cho địa điểm." />
+    <TextStringDefinition InstanceID="0xE22D2CD2" TextString="Hạn chế" />
+    <TextStringDefinition InstanceID="0x71B98539" TextString="Yêu cầu:" />
+    <TextStringDefinition InstanceID="0x86F1309B" TextString="Vật thể này được yêu cầu để hoàn thành địa điểm." />
+    <TextStringDefinition InstanceID="0x4165881E" TextString="Yêu cầu" />
+    <TextStringDefinition InstanceID="0x663D3410" TextString="Tùy chọn" />
+    <TextStringDefinition InstanceID="0x7379649C" TextString="Không có yêu cầu cho loại lô này." />
+    <TextStringDefinition InstanceID="0x8A0D14B0" TextString="Bạn chỉ có thể thay đổi thành Thuê Cư nếu lô không có chủ, hoặc khi chơi với tư cách chủ sở hữu hiện tại của lô." />
+    <TextStringDefinition InstanceID="0x8899DAFE" TextString="Vật thể này được yêu cầu để lưu lô." />
+    <TextStringDefinition InstanceID="0xBC441639" TextString="Không thể thay đổi loại lô khi lô đã có chủ." />
+    <TextStringDefinition InstanceID="0xDFD967C1" TextString="Hạn chế sàn:" />
+    <TextStringDefinition InstanceID="0x2BCDD04C" TextString="Bạn không thể rời chế độ xây dựng khi vẫn còn các yêu cầu lô chưa được đáp ứng." />
+    <TextStringDefinition InstanceID="0x4E0FE7E5" TextString="Bàn đầu cuối" />
+    <TextStringDefinition InstanceID="0xB7940482" TextString="Phòng trống" />
+    <TextStringDefinition InstanceID="0x874E39FC" TextString="Tủ quần áo" />
+    <TextStringDefinition InstanceID="0x720AE65C" TextString="Thùng rác &amp; Hộp thư" />
+    <TextStringDefinition InstanceID="0x4C38A258" TextString="Thùng rác" />
+    <TextStringDefinition InstanceID="0x7356CCDE" TextString="Khu trưng bày" />
+    <TextStringDefinition InstanceID="0x6C3A5F57" TextString="Bàn ăn" />
+    <TextStringDefinition InstanceID="0x17FB814E" TextString="Ghế ăn" />
+    <TextStringDefinition InstanceID="0x34C76E00" TextString="Phòng ăn" />
+    <TextStringDefinition InstanceID="0xA5165013" TextString="Bàn làm việc" />
+    <TextStringDefinition InstanceID="0xF7AD8D6E" TextString="Ghế bàn làm việc" />
+    <TextStringDefinition InstanceID="0xCF1490D1" TextString="Rèm cửa" />
+    <TextStringDefinition InstanceID="0x3519EB3B" TextString="Sáng tạo" />
+    <TextStringDefinition InstanceID="0xCACFE9CD" TextString="Chế tạo" />

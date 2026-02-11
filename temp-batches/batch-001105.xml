@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xF8E5A250" TextString="Tính Toán Quá Mức" />
+    <TextStringDefinition InstanceID="0x065EF5B5" TextString="Quá nhiều phép tính nhàm chán ở công việc sẽ dễ làm bất kỳ Sim nào chán." />
+    <TextStringDefinition InstanceID="0x7FB2793B" TextString="Bị Bác Bỏ" />
+    <TextStringDefinition InstanceID="0xB939C554" TextString="Nguy hiểm của việc khoe khoang là bạn có thể đang nói chuyện với ai đó không nghĩ bạn tuyệt vời như bạn tưởng." />
+    <TextStringDefinition InstanceID="0xEFBA08FF" TextString="Trên Đỉnh Thị Trường" />
+    <TextStringDefinition InstanceID="0x9E50C6D0" TextString="Khi bạn đã biết mọi thứ về thị trường, đó là lúc để tấn công!" />
+    <TextStringDefinition InstanceID="0xA9F4B376" TextString="Đã Bán Được" />
+    <TextStringDefinition InstanceID="0x52AC9A2F" TextString="Thế giới kinh doanh yêu những người chiến thắng. Hôm nay, nó yêu bạn!" />
+    <TextStringDefinition InstanceID="0xC3E17865" TextString="Cảm Thấy Quan Trọng" />
+    <TextStringDefinition InstanceID="0x495BB6BA" TextString="Điều tốt nhất khi làm việc ở tập đoàn lớn là có thể thể hiện quyền lực trên người khác." />
+    <TextStringDefinition InstanceID="0x927C9AD6" TextString="Phá Hủy Giao Dịch" />
+    <TextStringDefinition InstanceID="0x48E8530F" TextString="Trong thế giới kinh doanh, bạn phải tận dụng cơ hội được cho. Bỏ lỡ những cơ hội đó thật khó khăn." />
+    <TextStringDefinition InstanceID="0x6891E751" TextString="Khó Chịu Vì Kẻ Huênh Hoang" />
+    <TextStringDefinition InstanceID="0xEC2691AE" TextString="Không có gì tệ hơn là kẻ biết hết mọi thứ nghĩ rằng họ có thể giúp đỡ mọi người." />
+    <TextStringDefinition InstanceID="0xD8CC4E38" TextString="Mang Tai Ương" />
+    <TextStringDefinition InstanceID="0x23DD7F6D" TextString="Thế giới kinh doanh đầy những lựa chọn khó khăn, nhưng điều đó không làm cho việc trở thành kẻ xấu dễ dàng hơn." />
+    <TextStringDefinition InstanceID="0x432FE47A" TextString="Hầu hết mọi người không thích là người mang tin xấu. Một số thích thú với điều đó." />
+    <TextStringDefinition InstanceID="0x37146DB4" TextString="Mang Tai Ương" />
+    <TextStringDefinition InstanceID="0xC5F881D8" TextString="Kẻ Đổ Lỗi" />
+    <TextStringDefinition InstanceID="0x4A18E38D" TextString="&quot;scapegoater&quot; có phải là từ không? {0.SimFirstName} không chắc, nhưng danh hiệu đó chắc chắn không phù hợp với {M0.him}{F0.her}." />
+    <TextStringDefinition InstanceID="0xB07055C5" TextString="Không Đổ Lỗi" />
+    <TextStringDefinition InstanceID="0x8A8B899A" TextString="Tuyệt vời khi có một con dê tế... miễn là không phải bạn!" />
+    <TextStringDefinition InstanceID="0xFCFA7967" TextString="Phấn Khích Từ Bài Phát Biểu" />
+    <TextStringDefinition InstanceID="0xF68149C8" TextString="Sự tăng cường từ một bài phát biểu được đón nhận tốt mất một thời gian để tan biến." />
+    <TextStringDefinition InstanceID="0xC756C17E" TextString="Hào Phóng" />
+    <TextStringDefinition InstanceID="0x1C7010C7" TextString="Sự biết ơn của một nhân viên được nghỉ một ngày có thể làm ai cũng vui vẻ." />
+    <TextStringDefinition InstanceID="0xBD45318D" TextString="Nhà Đổi Mới" />
+    <TextStringDefinition InstanceID="0x92077FF2" TextString="Việc có sếp tôn trọng ý tưởng của bạn thực sự có thể cải thiện lòng tự trọng của bạn." />
+    <TextStringDefinition InstanceID="0xC8C914DE" TextString="Manh Mối Tiềm Năng" />
+    <TextStringDefinition InstanceID="0xDDAAC3A7" TextString="Việc phát hiện ra một số thông tin chưa được tiết lộ có thể giúp ngày làm việc tiếp theo dễ dàng hơn một chút." />
+    <TextStringDefinition InstanceID="0xA11542ED" TextString="Đọc Bí Mật Bảo Mật" />
+    <TextStringDefinition InstanceID="0x1A58A7D2" TextString="{0.SimFirstName} không được phép đọc cái đó. Hãy giả vử như chưa từng xảy ra." />
+    <TextStringDefinition InstanceID="0xF86AEDA2" TextString="Thông Tin Quá Mức" />
+    <TextStringDefinition InstanceID="0x4F58D273" TextString="Có một lượng thông tin khiến mắt mỏi trong cơ sở dữ liệu đó." />
+    <TextStringDefinition InstanceID="0x7A409671" TextString="Sai Lầm Khi Lừa Lọc" />
+    <TextStringDefinition InstanceID="0x167BBD4E" TextString="Một lời lừa bị bóc trần chưa bao giờ đưa ai đi đến đâu." />
+    <TextStringDefinition InstanceID="0xBF1AC9A5" TextString="Người Viết Blog Đạo Văn" />
+    <TextStringDefinition InstanceID="0xA679F44D" TextString="Không có nhà văn nào muốn bị coi là kẻ trộm, và còn là kẻ phòng thủ nữa." />
+    <TextStringDefinition InstanceID="0x6F02D18C" TextString="Người Viết Blog Bị Phản Bác" />
+    <TextStringDefinition InstanceID="0xC857B9A9" TextString="Không bao giờ có gì sai khi nói ra sự thật." />
+    <TextStringDefinition InstanceID="0x7661FADB" TextString="Phân" />
+    <TextStringDefinition InstanceID="0x0C9B9D74" TextString="Chết tiệt! Cái túi đó đầy phân. Thật kinh khủng. " />
+    <TextStringDefinition InstanceID="0x3032AB79" TextString="Tính Toán Sai" />
+    <TextStringDefinition InstanceID="0x4D44B066" TextString="Đó là một lỗi tốn kém--và nguy hiểm." />
+    <TextStringDefinition InstanceID="0x88D77855" TextString="Các Lớp Học Đã Giúp" />
+    <TextStringDefinition InstanceID="0x2643064A" TextString="Việc lấy cộng đồng tham gia vào các lớp học nghệ thuật là một ý tưởng tuyệt vời!" />
+    <TextStringDefinition InstanceID="0x58FF8172" TextString="Thống Kê Gây Tức Giận" />
+    <TextStringDefinition InstanceID="0xE029E2A3" TextString="Cái gì!? Làm sao!? Ai có thể nghĩ rằng Shubby Botswick là cầu thủ tốt nhất từ '09 Llamas?" />
+    <TextStringDefinition InstanceID="0xE8B5984F" TextString="Nhiệt Huyết Thống Kê" />
+    <TextStringDefinition InstanceID="0xF4993C80" TextString="Đó là giấc mơ lớn nhất của mọi người hâm mộ thể thao: đưa ra thống kê hoàn hảo để thắng tranh luận." />

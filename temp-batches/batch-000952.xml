@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xBD1FDECF" TextString="Nhận Con Nuôi" />
+    <TextStringDefinition InstanceID="0xEA19A05B" TextString="Chúc mừng bạn đã hoàn thành Tình huống! Và chúc mừng thêm vì bạn đã vượt qua mọi thử thách!\n\nNhư một phần thưởng, cả hai Sim đã trở thành Bạn Đời đã kiếm được Điểm Hài lòng, bạn có thể dùng chúng tại Cửa hàng Phần thưởng. Bạn có thể mua phần thưởng cho mỗi Sim trong Bảng Lý tưởng của họ." />
+    <TextStringDefinition InstanceID="0x4A48CABF" TextString="Hoàn Thành Tình Huống (qua Kết Quả Bí Mật)!" />
+    <TextStringDefinition InstanceID="0xC3164F35" TextString="Tương tác với các Sim bạn đã gặp và sử dụng các tương tác trong danh mục Lãng mạn" />
+    <TextStringDefinition InstanceID="0xDB7076E1" TextString="Sử dụng Thành công Các Tương Tác Lãng Mạn" />
+    <TextStringDefinition InstanceID="0x3D2CEA51" TextString="Nhấp vào một Cầu trượt trong khi một trẻ nhỏ đang ngồi trên đó và chọn Giúp Trẻ Trượt." />
+    <TextStringDefinition InstanceID="0x1B20BADF" TextString="Giúp Một Trẻ Nhỏ Trượt" />
+    <TextStringDefinition InstanceID="0x1320EBEB" TextString="Nhấp vào một Cầu trượt và chọn Giúp Trẻ Nhỏ Leo" />
+    <TextStringDefinition InstanceID="0x468686B9" TextString="Giúp Một Trẻ Nhỏ Leo" />
+    <TextStringDefinition InstanceID="0x9E1CADC4" TextString="Địa điểm Công cộng là nơi tuyệt vời để gặp gỡ những Sim mới!\n\nCó nhiều cách để di chuyển! Thu phóng chuột và chọn Du lịch, Nhấn 'M', hoặc chọn Du lịch từ Điện thoại và đến bất kỳ Công viên, Thư viện, Phòng tập, hay thậm chí là Quán bar nào!\n\nNhấp chuột trái vào mục tiêu này để biết thêm thông tin" />
+    <TextStringDefinition InstanceID="0xD5B6E5B4" TextString="Đi Du lịch đến Địa điểm Công cộng" />
+    <TextStringDefinition InstanceID="0x654B78D7" TextString="Sử dụng nút Về Nhà trên ảnh đại diện của Sim ở góc dưới màn hình.\n\nNhấp chuột trái vào mục tiêu này để biết thêm thông tin" />
+    <TextStringDefinition InstanceID="0x8FE2F13D" TextString="Về Nhà" />
+    <TextStringDefinition InstanceID="0x4635AC82" TextString="Làm quen với một số người tham dự Lớp Sở thích thông qua các tương tác xã hội Thân thiện." />
+    <TextStringDefinition InstanceID="0x163DF35A" TextString="Thân Thiện với Các Sim" />
+    <TextStringDefinition InstanceID="0x25CFE8DC" TextString="Tìm hiểu về đam mê của một Sim bằng cách Hỏi về Sở thích và Kỹ năng, tìm thấy trong danh mục con Sở thích dưới các tương tác xã hội Thân thiện." />
+    <TextStringDefinition InstanceID="0x9F02FB84" TextString="Tương tác này có thể tìm thấy trong danh mục con Sở thích dưới các tương tác xã hội Thân thiện." />
+    <TextStringDefinition InstanceID="0x7723220C" TextString="Tương tác này có thể tìm thấy trong danh mục con Sở thích dưới các tương tác xã hội Thân thiện." />
+    <TextStringDefinition InstanceID="0x77AE1071" TextString="&lt;i&gt;Đã đến lúc tôn vinh cộng đồng và các mối quan hệ của bạn bằng cách tổ chức những sự kiện tuyệt vời!&lt;/i&gt;\n\nBạn đã hoàn thành một mục tiêu Giấc mơ và kiếm được 1500 Simoleon như một phần thưởng!\n\nTiếp tục chơi để duy trì Giấc mơ!" />
+    <TextStringDefinition InstanceID="0x0D67649D" TextString="Thần Chết trông khá thân thiện... Chọn Thần Chết và chọn lời chào hoặc bất kỳ tương tác xã hội nào.\n\n&lt;i&gt;(+25 Điểm Sự kiện)&lt;/i&gt;" />
+    <TextStringDefinition InstanceID="0x44830B93" TextString="Gặp Gỡ hoặc Giao Xã hội với Thần Chết" />
+    <TextStringDefinition InstanceID="0x9ADAD992" TextString="Triệu hồi Thần Chết bằng cách sử dụng Grimophone và Tán tỉnh hoặc Giao xã hội với Thần Chết.\n\n&lt;i&gt;(+25 Điểm Sự kiện)&lt;/i&gt;" />
+    <TextStringDefinition InstanceID="0x29B88DEA" TextString="Tán Tỉnh hoặc Giao Xã hội với Thần Chết" />
+    <TextStringDefinition InstanceID="0x2252937F" TextString="Đã đến lúc bắt đầu vườn này!\n\nMua gói hạt giống Hoa Khởi đầu từ phần Hoạt động và Kỹ năng trong Chế độ Xây dựng, hoặc sử dụng tương tác Đặt hàng trên Máy tính.\n\n&lt;i&gt;(+25 Điểm Sự kiện)&lt;/i&gt;" />
+    <TextStringDefinition InstanceID="0x760C8B49" TextString="Khung Ảnh Hiện đại đã có sẵn.\n\nHãy đảm bảo kiểm tra Giao diện Sự kiện và nhận nó, nếu bạn chưa làm.\n\nNó cũng có thể được mua trong Chế độ Xây dựng." />
+    <TextStringDefinition InstanceID="0xE6E7E167" TextString="Mua Một Khung Ảnh Hiện Đại" />
+    <TextStringDefinition InstanceID="0x37CAD96D" TextString="Mỗi lần bấm máy ảnh mở ra một cửa sổ ra thế giới, biến nó thành một bức vẽ nơi những kỷ niệm được lưu giữ mãi mãi!" />
+    <TextStringDefinition InstanceID="0x5CBA457B" TextString="Một chiếc máy ảnh đáng tin cậy có thể là chìa khóa để bảo tồn những kỷ niệm vượt thời gian.\n\nBạn có thể tìm thấy nó trong Chế độ Xây dựng dưới mục Điện tử." />
+    <TextStringDefinition InstanceID="0xC4A6AC09" TextString="Mua Máy Ảnh" />
+    <TextStringDefinition InstanceID="0x927C7E12" TextString="Đặt một Gấu bông gần hộp đồ chơi đã có, để đứa trẻ có thể chơi cùng bạn bè Gấu bông." />
+    <TextStringDefinition InstanceID="0xC1A4C9C4" TextString="Bạn có thể mua một Hộp Đồ chơi từ Chế độ Xây dựng dưới mục Trẻ em hoặc Kho chứa." />
+    <TextStringDefinition InstanceID="0x2421B9B4" TextString="Mua Một Hộp Đồ Chơi" />
+    <TextStringDefinition InstanceID="0xA32B94F6" TextString="Cách nào tuyệt hơn để làm một đứa trẻ hạnh phúc và tặng chúng một Bạn bè mới ngoài một Gấu bông mới?\n\nĐặt Gấu bông trên lô đất và Cho Nó Một Cái Ôm." />
+    <TextStringDefinition InstanceID="0xED1674D8" TextString="Càng nhiều bạn bè càng vui!\n\nBạn có thể mua một Gấu bông từ Chế độ Xây dựng dưới mục Trẻ em." />
+    <TextStringDefinition InstanceID="0x5E939410" TextString="Mua Một Gấu Bông Mới" />
+    <TextStringDefinition InstanceID="0xBAA7A543" TextString="Nói chuyện với Cây là một cách tuyệt vời để lấp đầy nhu cầu xã hội trong khi tăng kỹ năng làm vườn! Hơn nữa, bạn còn hiểu rõ cây cối hơn!" />
+    <TextStringDefinition InstanceID="0xF9D345E1" TextString="Hãy để PlantSim Của Bạn Nói Chuyện Với Cây" />
+    <TextStringDefinition InstanceID="0x98EFC1B8" TextString="Tưới, nhổ cỏ, bón phân và phun thuốc trừ sâu đều là cách chăm sóc cây của bạn! Chậu Cây và Hộp Trồng là những cách tuyệt vời để bắt đầu! Bạn có thể sử dụng hạt giống rau khởi đầu có trong túi đồ của mình. Hãy đảm bảo chăm sóc những cây không phải Lúa mì Khổng lồ trong khi bạn là một PlantSim." />
+    <TextStringDefinition InstanceID="0xA5C151F0" TextString="Chăm Sóc Cây với tư cách là Một PlantSim" />
+    <TextStringDefinition InstanceID="0x9795355B" TextString="Thỏa mãn nhu cầu nước của PlantSim bằng cách uống nước, bơi lội, tắm, ngâm mình và vẩy nước trong vũng nước! PlantSim yêu nước cũng nhiều như ánh sáng mặt trời, vốn có thể mang lại hiệu ứng tâm trạng đặc biệt cho hạnh phúc." />
+    <TextStringDefinition InstanceID="0xF9D11B69" TextString="Thỏa Mãn Nhu Cầu Nước" />
+    <TextStringDefinition InstanceID="0x3A7D703D" TextString="Hãy để PlantSim của bạn ra ngoài vào một ngày nắng để bắt đầu chuyển đổi ánh sáng và nước thành thức ăn, nhưng hãy nhớ giữ nước đầy đủ!" />
+    <TextStringDefinition InstanceID="0xA953A9B3" TextString="Quang hợp bằng cách hấp thụ ánh sáng mặt trời" />
+    <TextStringDefinition InstanceID="0x0047B061" TextString="Hấp thụ năng lượng mặt trời từ một cây là một cách tuyệt vời để lấp đầy đói vào những ngày nhiều mây trong khi bạn là một PlantSim. Tuy nhiên, mỗi tương tác sẽ làm cây đó nhỏ hơn. Hãy cẩn thận!" />
+    <TextStringDefinition InstanceID="0xD5F3B86F" TextString="Hấp thụ năng lượng mặt trời từ cây" />
+    <TextStringDefinition InstanceID="0x3B3A01EC" TextString="{0.SimFirstName} đã xem TV mà không có bạn bè Gấu bông {0.SimPronounPossessiveDependent} ở gần. {0.SimPronounSubjective|xxUpper} không để ý cho đến khi chương trình kết thúc nhưng cảm thấy ổn với điều đó. {0.SimPronounSubjective} cảm thấy... độc lập hơn." />
+    <TextStringDefinition InstanceID="0xD32AC899" TextString="Bây giờ là lúc xem TV một mình, hoặc ít nhất là không có Bạn bè Gấu bông nào ở gần.\n\nBật TV và đảm bảo bạn không có bất kỳ Gấu bông nào xung quanh nhưng vẫn được đặt trên lô đất!" />
+    <TextStringDefinition InstanceID="0xE781B98B" TextString="Xem TV mà Không Có Gấu Bông Ở Gần" />
+    <TextStringDefinition InstanceID="0xD0A450D5" TextString="{0.SimFirstName} đã có một khoảng thời gian tuyệt vời xem Mạng lưới Trẻ em và chia sẻ thời gian với bạn bè {0.SimPronounPossessiveDependent}!\n\nHọ còn năng lượng nào cho những cuộc phiêu lưu khác hôm nay không?" />
+    <TextStringDefinition InstanceID="0x44C0EDC3" TextString="Đã đến lúc cho những tiếng cười và nụ cười! Lên sóng Mạng lưới Trẻ em cho một cơn bão các cuộc phiêu lưu mang lại niềm vui cho những trái tim trẻ. Hãy để sự vui vẻ bắt đầu!\n\nBạn có thể tìm thấy Mạng lưới Trẻ em trên TV dưới mục Xem Kênh." />

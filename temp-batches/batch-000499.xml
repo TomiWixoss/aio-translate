@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xA2D5868C" TextString="• Cầu trượt cho trẻ mới biết đi" />
+    <TextStringDefinition InstanceID="0x6DADE5D4" TextString="• Tivi" />
+    <TextStringDefinition InstanceID="0x7DCF1658" TextString="• Kính viễn vọng" />
+    <TextStringDefinition InstanceID="0xF1B0F326" TextString="• Bộ trà" />
+    <TextStringDefinition InstanceID="0xC7501D7F" TextString="• Máy pha trà" />
+    <TextStringDefinition InstanceID="0xE50E80B1" TextString="• Bàn xăm" />
+    <TextStringDefinition InstanceID="0x25CDB014" TextString="• Máy tính bảng" />
+    <TextStringDefinition InstanceID="0x54C66291" TextString="• Xích đu" />
+    <TextStringDefinition InstanceID="0x83B9AF6E" TextString="• Xe đạp quay" />
+    <TextStringDefinition InstanceID="0xA30147A9" TextString="• Tạ tự do" />
+    <TextStringDefinition InstanceID="0x35F397D3" TextString="Tập thể dục" />
+    <TextStringDefinition InstanceID="0xAB7C68CE" TextString="Không câu cá" />
+    <TextStringDefinition InstanceID="0x47D75FF8" TextString="Câu cá" />
+    <TextStringDefinition InstanceID="0x9A912837" TextString="Câu cá" />
+    <TextStringDefinition InstanceID="0x5A3332A6" TextString="Sim sẽ câu cá tại:\n• Bảng câu cá" />
+    <TextStringDefinition InstanceID="0xD813EFDE" TextString="Không biểu diễn hài kịch" />
+    <TextStringDefinition InstanceID="0x6F17F948" TextString="Biểu diễn hài kịch" />
+    <TextStringDefinition InstanceID="0x32DD93E7" TextString="Làm hài kịch" />
+    <TextStringDefinition InstanceID="0xE5051562" TextString="Sim sẽ biểu diễn hài kịch trên:" />
+    <TextStringDefinition InstanceID="0x24EEFA88" TextString="Không nấu ăn" />
+    <TextStringDefinition InstanceID="0x818909DE" TextString="Nấu ăn" />
+    <TextStringDefinition InstanceID="0x321FCED5" TextString="Nấu ăn" />
+    <TextStringDefinition InstanceID="0x62E2D213" TextString="Sim sẽ nấu ăn bằng:" />
+    <TextStringDefinition InstanceID="0x3B4F33AE" TextString="Không luyện nói &amp; kể chuyện" />
+    <TextStringDefinition InstanceID="0xF0FFE717" TextString="Luyện nói &amp; kể chuyện" />
+    <TextStringDefinition InstanceID="0x00D2CB94" TextString="Không tham gia hoạt động nước ngoài trời" />
+    <TextStringDefinition InstanceID="0x5C09AD29" TextString="Tham gia hoạt động nước" />
+    <TextStringDefinition InstanceID="0x751E3C74" TextString="Sim sẽ sử dụng:\n• Bảng câu cá\n• Kayak\n• Bảng nhảy\n• Phương tiện thủy\n• Hồ bơi\n• Nước mở" />
+    <TextStringDefinition InstanceID="0xD5B8FE39" TextString="Không ngắm sao" />
+    <TextStringDefinition InstanceID="0x882111EA" TextString="Ngắm sao" />
+    <TextStringDefinition InstanceID="0x061BFE14" TextString="Sim sẽ ngắm sao ngoài trời." />
+    <TextStringDefinition InstanceID="0xF0583953" TextString="Không tham gia giải trí ngoài trời" />
+    <TextStringDefinition InstanceID="0x616719C0" TextString="Giải trí ngoài trời" />
+    <TextStringDefinition InstanceID="0x91D2D702" TextString="Sim sẽ thực hiện nhiều hoạt động giải trí ngoài trời, sử dụng các vật thể như:\n• Xe đạp\n• Hồ bơi\n• Bảng câu cá\n• Bướm\n• Nước biển\n• Bảng nhảy\n• Ao" />
+    <TextStringDefinition InstanceID="0xA20EFA8C" TextString="Không chạy bộ ngoài trời" />
+    <TextStringDefinition InstanceID="0xB7660951" TextString="Chạy bộ ngoài trời" />
+    <TextStringDefinition InstanceID="0xAEF2E68F" TextString="Sim sẽ đi chạy bộ ngoài trời." />
+    <TextStringDefinition InstanceID="0x415A0644" TextString="Không tận hưởng không khí ngoài trời" />
+    <TextStringDefinition InstanceID="0x4C8112BA" TextString="Tận hưởng không khí ngoài trời" />
+    <TextStringDefinition InstanceID="0xFBF66879" TextString="Tận hưởng không khí ngoài trời" />
+    <TextStringDefinition InstanceID="0xF9E55201" TextString="Sim sẽ thư giãn tận hưởng không khí ngoài trời, khám phá và tìm việc làm. Sim sẽ sử dụng các vật thể như\n• Hồ bơi\n• Bảng câu cá\n• Bướm\n• Cây trồng trong vườn\n• Lửa trại\n• Ao" />
+    <TextStringDefinition InstanceID="0x4EB13DA2" TextString="Không đốt lửa trại" />
+    <TextStringDefinition InstanceID="0x56D7FBE3" TextString="Lửa trại" />
+    <TextStringDefinition InstanceID="0xF17B5020" TextString="Sim sẽ sử dụng:\n• Lửa trại" />
+    <TextStringDefinition InstanceID="0x6CA99CF1" TextString="Không đạp xe" />
+    <TextStringDefinition InstanceID="0xC3FC4CB2" TextString="Đạp xe" />
+    <TextStringDefinition InstanceID="0x13C2BD3F" TextString="Sim sẽ sử dụng:\n• Xe đạp" />
+    <TextStringDefinition InstanceID="0x13BF614C" TextString="Không xem TV" />
+    <TextStringDefinition InstanceID="0xC1BBE462" TextString="Xem TV" />
+    <TextStringDefinition InstanceID="0xF84FD611" TextString="Xem TV" />

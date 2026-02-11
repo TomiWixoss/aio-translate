@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x639D3FC8" TextString="Người đọc cho rằng bài báo của {0.SimFirstName} đã trở thành một bánh răng trong cỗ máy chính phủ. Họ mong đợi {M0.anh ấy}{F0.cô ấy} can đảm hơn." />
+    <TextStringDefinition InstanceID="0xB7E1E544" TextString="Đi Sớm Nhất Có Thể" />
+    <TextStringDefinition InstanceID="0x1E34889B" TextString="Thân Thiện" />
+    <TextStringDefinition InstanceID="0xF98D67B2" TextString="Tập Trung" />
+    <TextStringDefinition InstanceID="0xE03A76E9" TextString="Làm Việc Như Thường Lệ" />
+    <TextStringDefinition InstanceID="0x30DDACEA" TextString="Ép Thêm Nước" />
+    <TextStringDefinition InstanceID="0x993D57DB" TextString="Dựa Vào Sự Thật" />
+    <TextStringDefinition InstanceID="0xDECBD732" TextString="{0.SimFirstName} giữ nguyên tầm nhìn của {M0.anh ấy}{F0.cô ấy} về câu chuyện, và {M0.anh ấy}{F0.cô ấy} hài lòng với quyết định đó. Không còn nghe nói về việc phim điện ảnh dựa trên sách luôn thất vọng nữa." />
+    <TextStringDefinition InstanceID="0x385A4C71" TextString="Trung Thực" />
+    <TextStringDefinition InstanceID="0x4EC94C6D" TextString="Đánh Cắp Ý Tưởng" />
+    <TextStringDefinition InstanceID="0xAC253A13" TextString="Trung Thực" />
+    <TextStringDefinition InstanceID="0x9458D3A6" TextString="Nói Dối" />
+    <TextStringDefinition InstanceID="0x47FABEA3" TextString="Tiếp Tục" />
+    <TextStringDefinition InstanceID="0xADE568E4" TextString="Xin Cứu Cánh" />
+    <TextStringDefinition InstanceID="0xE2E150FC" TextString="Hóa ra đó vẫn là một câu chuyện tuyệt vời, ngay cả khi không có những chi tiết đó. Và giờ {0.SimFirstName} có thêm một ít tiền tiêu vặt!" />
+    <TextStringDefinition InstanceID="0x9E3D932A" TextString="Không có những chi tiết đó, bài báo trở nên nhàm chán, và {M0.anh ấy}{F0.cô ấy} bị sếp ghét. Ít nhất {M0.anh ấy}{F0.cô ấy} có tiền để tự an ủi {0.SimPronounObjective}!" />
+    <TextStringDefinition InstanceID="0xA56FF76B" TextString="Có Gì Vui Thế?" />
+    <TextStringDefinition InstanceID="0x82744046" TextString="Quá Nhiều Email" />
+    <TextStringDefinition InstanceID="0x18D5A274" TextString="Nói Hay Trượt Tuyết?" />
+    <TextStringDefinition InstanceID="0x5A7AFB8E" TextString="Điện Thoại Hỏng" />
+    <TextStringDefinition InstanceID="0xEBFB2DBE" TextString="Sản Phẩm Đối Thủ Đang Được Phát Triển" />
+    <TextStringDefinition InstanceID="0xEB51DE97" TextString="Một Sự Xao Nhãng Bựa" />
+    <TextStringDefinition InstanceID="0x40B319E8" TextString="Đại Lý Chưa Có Kinh Nghiệm" />
+    <TextStringDefinition InstanceID="0xA076F745" TextString="Hai Vụ Án" />
+    <TextStringDefinition InstanceID="0x2188A65E" TextString="Ảnh Khiêu Dâm" />
+    <TextStringDefinition InstanceID="0xAF09E7A5" TextString="Gián Điệp Siêu Anh Hùng Của Thiên Niên Kỷ" />
+    <TextStringDefinition InstanceID="0x1075CFB2" TextString="Chọn Trang Phục Cải Trang" />
+    <TextStringDefinition InstanceID="0x530BF49B" TextString="Đối Tác Mới" />
+    <TextStringDefinition InstanceID="0xDF51BADF" TextString="Bị Bắt Giữ" />
+    <TextStringDefinition InstanceID="0x3564A9A5" TextString="Tiếng Ò Ò Lạ" />
+    <TextStringDefinition InstanceID="0xD9E0CB66" TextString="Chọn Một Đại Lý" />
+    <TextStringDefinition InstanceID="0x2C1DC104" TextString="Đóng Băng Ngân Sách" />
+    <TextStringDefinition InstanceID="0x82098225" TextString="Hành Động Lạ" />
+    <TextStringDefinition InstanceID="0x5A662252" TextString="Nguồn Tin Ẩn Danh" />
+    <TextStringDefinition InstanceID="0x97779964" TextString="Bị Phát Hiện" />
+    <TextStringDefinition InstanceID="0x80ADB0EE" TextString="Hồi Ký" />
+    <TextStringDefinition InstanceID="0x2A83E087" TextString="Báo Cáo Đe Dọa" />
+    <TextStringDefinition InstanceID="0x39F49A0A" TextString="Câu Chuyện Thương Cảm" />
+    <TextStringDefinition InstanceID="0x3AF844AE" TextString="Ổ Cứng Bị Đánh Cắp" />
+    <TextStringDefinition InstanceID="0x915CFD85" TextString="Săn Đuổi Kẻ Mật Vụ" />
+    <TextStringDefinition InstanceID="0x114E69C2" TextString="Khoan đã, bộ đồ gián điệp mèo này không có túi nào cả?! Gián điệp thì làm sao giấu tài liệu và đồ đạc? {0.SimFirstName} vẫn đang cố gắng tìm ra khi những cảnh sát giật tài liệu ngay khỏi tay {M0.anh ấy}{F0.cô ấy}." />
+    <TextStringDefinition InstanceID="0x9F99CB45" TextString="Đôi khi ai cũng cần một bờ vai để khóc. Sau khi kể cho {0.SimFirstName} nghe về cuộc hôn nhân thất bại, những đứa con nghịch ngợm và sự nghiện mua sắm tại nhà, anh ta cảm thấy gần gũi {0.SimFirstName} hơn bao giờ hết, và thề sẽ giúp {M0.anh ấy}{F0.cô ấy} được thăng chức." />
+    <TextStringDefinition InstanceID="0xA7D9D2AF" TextString="Một tội phạm từ danh sách truy nã hàng đầu của cơ quan xuất hiện—mang theo vật thể. {0.SimFirstName} lao vào, và trong cuộc vật lộn, kịp tước vũ khí và khống chế hắn. {M0.Anh ấy}{F0.Cô ấy} lấy được gói hàng và một tên du đãng nguy hiểm khỏi đường phố." />
+    <TextStringDefinition InstanceID="0x528A45F8" TextString="Thật hả? {0.SimFirstName} lên được vị trí này vì có người dạy {M0.anh ấy}{F0.cô ấy} cách làm? Điều dự đoán và đáng ngờ để nói. Bài phát biểu của {0.SimFirstName} biến cả phòng thành một buổi ngủ trưa." />
+    <TextStringDefinition InstanceID="0x7F9ABD24" TextString="Bất kỳ ai cũng có thể tiếp cận những tài liệu đó, nên khi câu chuyện được đăng báo, không ai có thể quy kết sự rò rỉ cho {0.SimFirstName}." />
+    <TextStringDefinition InstanceID="0x46D9A5D7" TextString="Văn phòng được sơ tán và một cuộc quét tìm thiết bị nghe lén toàn diện được thực hiện...chỉ để phát hiện một chiếc đèn hiệu bị hỏng trong ngăn kéo. Giờ mọi người trong cơ quan cười {0.SimFirstName} còn hơn cả gã vẫn còn dùng đèn hiệu!" />
+    <TextStringDefinition InstanceID="0x21D320A6" TextString="{M0.Anh ấy}{F0.Cô ấy} không thể thắng cái này. Cuối cùng {0.SimFirstName} phải thừa nhận thất bại trước sếp {M0.anh ấy}{F0.cô ấy}, và hóa ra {M0.anh ấy}{F0.cô ấy} chỉ có mật khẩu sai. Sếp {M0.anh ấy}{F0.cô ấy} không hài lòng chút nào." />
+    <TextStringDefinition InstanceID="0x494E0F23" TextString="Chỉ vài phút nữa thôi thì đặc vụ đã đi đời. {0.SimFirstName} đã cứu mạng anh ta. Cơ quan và đặc vụ rất biết ơn." />
+    <TextStringDefinition InstanceID="0x7F4AF9B7" TextString="Những bức ảnh đó sẽ hữu ích lần tới {0.SimFirstName} cần ai đó đứng về phía {M0.anh ấy}{F0.cô ấy} hoặc {M0.anh ấy}{F0.cô ấy} muốn đánh lạc hướng sự chú ý khỏi sai lầm của {M0.anh ấy}{F0.cô ấy}. Và nếu {M0.anh ấy}{F0.cô ấy} bắt đầu nghĩ rằng tống tiền không thể bào chữa về đạo đức, {M0.anh ấy}{F0.cô ấy} sẽ tự nhắc {M0.anh ấy}{F0.cô ấy} rằng đây là việc GIÁN ĐIỆP PHẢI LÀM." />
+    <TextStringDefinition InstanceID="0xBD51C853" TextString="Vật thể họ tìm kiếm đã không xuất hiện. Đội an toàn rút lui, nhưng không có thứ họ đến để lấy." />

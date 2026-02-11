@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x518E25A5" TextString="Đi đến nhà hàng có thực phẩm thử nghiệm trong thực đơn và chọn chụp ảnh thực phẩm thử nghiệm." />
+    <TextStringDefinition InstanceID="0x312F8505" TextString="Ảnh Thực Phẩm Thử Nghiệm" />
+    <TextStringDefinition InstanceID="0xEFDBF9C9" TextString="Bạn đã hoàn thành bộ sưu tập ảnh thực phẩm thử nghiệm!" />
+    <TextStringDefinition InstanceID="0x764AD606" TextString="Trứng có thể được tìm thấy ở nhiều nơi ẩn trong một số tháng mùa xuân." />
+    <TextStringDefinition InstanceID="0x7D5C0138" TextString="Trứng Trang Trí" />
+    <TextStringDefinition InstanceID="0xCA70C31B" TextString="Kỹ Năng Lập Trình" />
+    <TextStringDefinition InstanceID="0xE6024CB0" TextString="Lãng Mạn" />
+    <TextStringDefinition InstanceID="0x90B9C07E" TextString="Kỹ Năng Trồng Trọt" />
+    <TextStringDefinition InstanceID="0xB1AEA0E7" TextString="Giả Tưởng" />
+    <TextStringDefinition InstanceID="0xEA91852E" TextString="{0.SimFirstName} không có đủ Tài Nguyên." />
+    <TextStringDefinition InstanceID="0x851094FF" TextString="{0.String} ({1.Number}/{2.Number})" />
+    <TextStringDefinition InstanceID="0x82206C56" TextString="Yêu Cầu:\n{0.String}" />
+    <TextStringDefinition InstanceID="0x67BEA907" TextString="&lt;span class='noIngredients'&gt;{0.String}&lt;/span&gt;" />
+    <TextStringDefinition InstanceID="0x3FEA362E" TextString="&lt;span class='hasIngredients'&gt;{0.String}&lt;/span&gt;" />
+    <TextStringDefinition InstanceID="0xA3EBC677" TextString="Tùy Chọn:\n{0.String}" />
+    <TextStringDefinition InstanceID="0xDF0C3B0C" TextString="Bất Kỳ Ếch Nào" />
+    <TextStringDefinition InstanceID="0x764A9009" TextString="Bất Kỳ Dưa Hấu Nào" />
+    <TextStringDefinition InstanceID="0x5F187158" TextString="Dâu Rừng, Dâu Tây, Cherry, Táo Chanh" />
+    <TextStringDefinition InstanceID="0x4BE84DC2" TextString="Bất Kỳ Bí Ngô Khổng Lồ Nào" />
+    <TextStringDefinition InstanceID="0xD00BF32F" TextString="Bất Kỳ Kim Loại Nào" />
+    <TextStringDefinition InstanceID="0x656E263A" TextString="Bất Kỳ Kim Loại Ngoài Hành Tinh Nào" />
+    <TextStringDefinition InstanceID="0x58D04FC6" TextString="Khối Sáp" />
+    <TextStringDefinition InstanceID="0x2B5F9AEC" TextString="Bất Kỳ Linh Kiện Nâng Cấp Nào" />
+    <TextStringDefinition InstanceID="0x20AF009C" TextString="Bất Kỳ Cây Nào" />
+    <TextStringDefinition InstanceID="0xBB854974" TextString="Bất Kỳ Kim Loại Hiếm Nào" />
+    <TextStringDefinition InstanceID="0xBC97DEBF" TextString="Đường" />
+    <TextStringDefinition InstanceID="0xB6AB17B2" TextString="Lê, Cherry, Dâu Tây, hoặc Dâu Rừng" />
+    <TextStringDefinition InstanceID="0x60C5FB5C" TextString="Len Trắng, Vàng, Xanh Lá, Cam, hoặc Đỏ" />
+    <TextStringDefinition InstanceID="0x84D59296" TextString="Cào Cào" />
+    <TextStringDefinition InstanceID="0x3C70A20E" TextString="Bất Kỳ Trái Cây Nào" />
+    <TextStringDefinition InstanceID="0xAB372353" TextString="Dâu Rừng, Dâu Tây, Cherry hoặc Táo" />
+    <TextStringDefinition InstanceID="0x685DD870" TextString="Bất Kỳ Bánh Mì Nào" />
+    <TextStringDefinition InstanceID="0xE618AD07" TextString="Bất Kỳ Thuốc Cảm Xúc Tiêu Cực Nào" />
+    <TextStringDefinition InstanceID="0xE3CAC208" TextString="Bất Kỳ Kim Loại Thông Thường Nào" />
+    <TextStringDefinition InstanceID="0xAEE4CE2A" TextString="Bất Kỳ Tinh Thể Ngoài Hành Tinh Nào" />
+    <TextStringDefinition InstanceID="0x07968C12" TextString="Bất Kỳ Phô Mai Nào" />
+    <TextStringDefinition InstanceID="0x6723166F" TextString="Dâu Rừng, Cherry, Dâu Tây" />
+    <TextStringDefinition InstanceID="0x348A45F8" TextString="Bất Kỳ Tinh Thể Thông Thường Nào" />
+    <TextStringDefinition InstanceID="0xDE6CBF79" TextString="Bất Kỳ Quả Mọng hoặc Mứt Quả Mọng Nào" />
+    <TextStringDefinition InstanceID="0x92C27B4B" TextString="Chanh, Táo, Cherry, Dâu Tây" />
+    <TextStringDefinition InstanceID="0x9657B4D3" TextString="Bất Kỳ Cá Nào" />
+    <TextStringDefinition InstanceID="0x8AF4F2EB" TextString="Sữa hoặc Trứng" />
+    <TextStringDefinition InstanceID="0xA9780C43" TextString="Bất Kỳ Thuốc Nhuộm Máy Chế Tạo Nào" />
+    <TextStringDefinition InstanceID="0x63208C7C" TextString="Táo, Nho hoặc Lê" />
+    <TextStringDefinition InstanceID="0xDC1440C7" TextString="Bất Kỳ Tinh Thể Hiếm Nào" />
+    <TextStringDefinition InstanceID="0xBF2CAA6E" TextString="Ếch Tử Thần" />
+    <TextStringDefinition InstanceID="0xD6D2677D" TextString="Chuối Tiêu, Chanh, hoặc Lựu" />
+    <TextStringDefinition InstanceID="0x7A430403" TextString="Bất Kỳ Thảo Mộc Nào" />
+    <TextStringDefinition InstanceID="0x1FE8B634" TextString="Bất Kỳ Nguyên Tố Nào" />
+    <TextStringDefinition InstanceID="0xA3C22B7D" TextString="Bất Kỳ Rau Xà Lách Nào" />

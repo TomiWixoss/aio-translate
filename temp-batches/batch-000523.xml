@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xC6FE09E4" TextString="Đang chơi Cướp Biển" />
+    <TextStringDefinition InstanceID="0x70B81F91" TextString="Điềm trên bảy đại dương! Hự! Cẩn thận với quái vật biển mặn mà." />
+    <TextStringDefinition InstanceID="0x834117B4" TextString="Ngủ Trong Bụi Cây Tạm Thời" />
+    <TextStringDefinition InstanceID="0xE4330381" TextString="Bụi cây làm giường tồi. Ngay cả khi là tạm thời." />
+    <TextStringDefinition InstanceID="0xCE120441" TextString="Bụi Cây Ghê Gớm" />
+    <TextStringDefinition InstanceID="0x255A9FBE" TextString="Bụi cây này đã được dùng trước đó, nhưng ai đó không xả." />
+    <TextStringDefinition InstanceID="0xB0F79A08" TextString="WooHoo Trong Bồn Tắm Nóng" />
+    <TextStringDefinition InstanceID="0xB7619D1D" TextString="Trong bồn tắm nóng này nóng hay là do {0.SimFirstName}? Câu hỏi mẹo - cả hai!&#xD;&#xA;" />
+    <TextStringDefinition InstanceID="0x07D55A5A" TextString="Mùi Khó Tưởng Tượng" />
+    <TextStringDefinition InstanceID="0x4F10C8FB" TextString="Thioacetone có thể khó tưởng tượng với bạn, nhưng không phải với {0.SimFirstName} tội nghiệp. Đến nhà vệ sinh. NHANH.&#xD;&#xA;" />
+    <TextStringDefinition InstanceID="0x602BE7D3" TextString="Vung Nước!" />
+    <TextStringDefinition InstanceID="0xE038B57C" TextString="Đây là niềm vui lành mạnh nhất hai Sim có thể có dưới nước về phía Timla Tourno!" />
+    <TextStringDefinition InstanceID="0x981777F6" TextString="Bị Vung Nước Nóng" />
+    <TextStringDefinition InstanceID="0x8BE143AF" TextString="Ồ; Sim đó chắc chắn không thích bị vung nước… Nói về một lỗi phong cách trong bồn tắm nóng!&#xD;&#xA;" />
+    <TextStringDefinition InstanceID="0xC9F44B03" TextString="Bị Vung Nước Nhầm" />
+    <TextStringDefinition InstanceID="0x8D898D4C" TextString="Tất cả đáng lẽ ra chỉ là vui vẻ… Nhưng Sim kia chắc chắn không nghĩ vậy" />
+    <TextStringDefinition InstanceID="0x3732A270" TextString="Làm Bậy Trong Bồn Tắm Nóng" />
+    <TextStringDefinition InstanceID="0x94BAB155" TextString="Có gì quyến rũ hơn cho hai thiếu niên hơn một cuộc tình trong bồn tắm nóng lãng mạn?&#xD;&#xA;" />
+    <TextStringDefinition InstanceID="0x0C70732E" TextString="Chán Vung Nước" />
+    <TextStringDefinition InstanceID="0x6CA1E257" TextString="Có vẻ như cuộc trò chuyện của {0.SimFirstName} đã trở thành một loạt các cú vung nước. Vui thật..." />
+    <TextStringDefinition InstanceID="0xC90E3402" TextString="Mùi Sage Thơm Nức" />
+    <TextStringDefinition InstanceID="0x25EF6053" TextString="Mùi hạt ngọt của sage lơ lửng trong không khí, xoa dịu {0.SimFirstName} với cảm giác tập trung mới mẻ.&#xD;&#xA;" />
+    <TextStringDefinition InstanceID="0xBF43F6B6" TextString="Mùi Bạc Hà" />
+    <TextStringDefinition InstanceID="0xD76A8B6F" TextString="Mùi ngọt ngào của bạc hà lơ lửng trong không khí, lấp đầy {0.SimFirstName} với tinh thần nghịch ngợm.&#xD;&#xA;" />
+    <TextStringDefinition InstanceID="0xF98E8CA1" TextString="Mùi Chanh" />
+    <TextStringDefinition InstanceID="0x09EB0C9E" TextString="Mùi cam quýt sắc sảo của chanh lơ lửng trong không khí, khích lệ {0.SimFirstName} với năng lượng.&#xD;&#xA;" />
+    <TextStringDefinition InstanceID="0xE99AF4C3" TextString="Mùi Hoa Nhài" />
+    <TextStringDefinition InstanceID="0x2DE67F0C" TextString="Mùi hoa nhài quyến rũ phong phú lơ lửng trong không khí, bao bọc {0.SimFirstName} trong hạnh phúc.&#xD;&#xA;" />
+    <TextStringDefinition InstanceID="0x7E2C016E" TextString="Bực Vì Người Vung Nước" />
+    <TextStringDefinition InstanceID="0x2832EC97" TextString="Không có gì tệ hơn một Sim nghĩ họ đang hài hước, khi họ chỉ đang gây khó chịu.&#xD;&#xA;" />
+    <TextStringDefinition InstanceID="0x3B8B9E79" TextString="Nhà Vô Địch Bài Vở" />
+    <TextStringDefinition InstanceID="0x13CEF166" TextString="Không có gì như việc hoàn thành một ít bài tập để tăng cường sự tự tin cũ." />
+    <TextStringDefinition InstanceID="0x6E298127" TextString="Lan tỏa niềm vui với đèn trang trí lễ hội." />
+    <TextStringDefinition InstanceID="0xC341573B" TextString="Niềm Vui Lễ Hội" />
+    <TextStringDefinition InstanceID="0x52D34EB4" TextString="Đèn Trang Trí Lễ Hội" />
+    <TextStringDefinition InstanceID="0x3752F081" TextString="Đèn lễ hội sáng rực!" />
+    <TextStringDefinition InstanceID="0x8D3290C9" TextString="Được Sưởi Ấm" />
+    <TextStringDefinition InstanceID="0x37FCD616" TextString="Thật tuyệt khi ở gần Đèn Sưởi, nhưng còn tuyệt hơn nếu được tiếp cận gần và cá nhân." />
+    <TextStringDefinition InstanceID="0xD134951C" TextString="Không Gian Được Sưởi Ấm" />
+    <TextStringDefinition InstanceID="0x35680299" TextString="Không gì sánh bằng cảm giác ấm áp, dễ chịu." />
+    <TextStringDefinition InstanceID="0x57650B42" TextString="Riff Rực Rỡ" />
+    <TextStringDefinition InstanceID="0xD863FF93" TextString="Những giai điệu đập mạnh nhảy ra từ các dây đàn thật tuyệt!" />
+    <TextStringDefinition InstanceID="0x15758D56" TextString="Riff Chính Trị" />
+    <TextStringDefinition InstanceID="0xAEA4168F" TextString="Không gì làm một người yêu âm nhạc hạnh phúc hơn là khoe kỹ năng của họ!" />
+    <TextStringDefinition InstanceID="0x1265395D" TextString="Một Bạn Xanh" />
+    <TextStringDefinition InstanceID="0xD35587E2" TextString="Thực vật là những người nghe rất tốt!" />
+    <TextStringDefinition InstanceID="0xDEB24CF0" TextString="Tôi Đã Giúp!" />
+    <TextStringDefinition InstanceID="0x4CACDCD5" TextString="{0.SimFirstName} thích giúp đỡ trong vườn." />
+    <TextStringDefinition InstanceID="0x444FFD3C" TextString="Sở Thích Lạ" />
+    <TextStringDefinition InstanceID="0x45596139" TextString="Thứ gì đó {0.SimFirstName} nuốt xuống không đang ổn định." />

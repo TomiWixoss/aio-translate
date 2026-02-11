@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xAB2545BC" TextString="Đạt trình độ Kỹ năng Lập trình cấp 3" />
+    <TextStringDefinition InstanceID="0xAB2545BD" TextString="Đạt trình độ Kỹ năng Lập trình cấp 2" />
+    <TextStringDefinition InstanceID="0x29ACCA2A" TextString="Kỹ năng Lập trình tối đa lên cấp 10" />
+    <TextStringDefinition InstanceID="0x370E0301" TextString="Đạt trình độ Kỹ năng Nấu Ăn Cao Cấp cấp 8" />
+    <TextStringDefinition InstanceID="0x370E030F" TextString="Đạt trình độ Kỹ năng Nấu Ăn Cao Cấp cấp 6" />
+    <TextStringDefinition InstanceID="0x370E030D" TextString="Đạt trình độ Kỹ năng Nấu Ăn Cao Cấp cấp 4" />
+    <TextStringDefinition InstanceID="0x370E030B" TextString="Đạt trình độ Kỹ năng Nấu Ăn Cao Cấp cấp 2" />
+    <TextStringDefinition InstanceID="0xF29E393F" TextString="Đạt trình độ Kỹ năng Thể Dục cấp 9" />
+    <TextStringDefinition InstanceID="0xF29E393E" TextString="Đạt trình độ Kỹ năng Thể Dục cấp 8" />
+    <TextStringDefinition InstanceID="0xF29E3931" TextString="Đạt trình độ Kỹ năng Thể Dục cấp 7" />
+    <TextStringDefinition InstanceID="0xF29E3930" TextString="Đạt trình độ Kỹ năng Thể Dục cấp 6" />
+    <TextStringDefinition InstanceID="0xF29E3933" TextString="Đạt trình độ Kỹ năng Thể Dục cấp 5" />
+    <TextStringDefinition InstanceID="0xF29E3932" TextString="Đạt trình độ Kỹ năng Thể Dục cấp 4" />
+    <TextStringDefinition InstanceID="0xF29E3935" TextString="Đạt trình độ Kỹ năng Thể Dục cấp 3" />
+    <TextStringDefinition InstanceID="0xF29E3934" TextString="Đạt trình độ Kỹ năng Thể Dục cấp 2" />
+    <TextStringDefinition InstanceID="0x261411A5" TextString="Kỹ năng Thể Dục tối đa lên cấp 10" />
+    <TextStringDefinition InstanceID="0xD6A59AB2" TextString="Đạt trình độ Kỹ năng Sức Hút cấp 8" />
+    <TextStringDefinition InstanceID="0xD6A59ABD" TextString="Đạt trình độ Kỹ năng Sức Hút cấp 7" />
+    <TextStringDefinition InstanceID="0xD6A59ABC" TextString="Đạt trình độ Kỹ năng Sức Hút cấp 6" />
+    <TextStringDefinition InstanceID="0xD6A59ABF" TextString="Đạt trình độ Kỹ năng Sức Hút cấp 5" />
+    <TextStringDefinition InstanceID="0xD6A59ABE" TextString="Đạt trình độ Kỹ năng Sức Hút cấp 4" />
+    <TextStringDefinition InstanceID="0xD6A59AB9" TextString="Đạt trình độ Kỹ năng Sức Hút cấp 3" />
+    <TextStringDefinition InstanceID="0xD6A59AB8" TextString="Đạt trình độ Kỹ năng Sức Hút cấp 2" />
+    <TextStringDefinition InstanceID="0xA1B29451" TextString="Kỹ năng Sức Hút tối đa lên cấp 10" />
+    <TextStringDefinition InstanceID="0x08515F84" TextString="Bị bỏ rơi" />
+    <TextStringDefinition InstanceID="0x1FF98C48" TextString="Cực kỳ cần liên lạc với các Sim khác!" />
+    <TextStringDefinition InstanceID="0x81C075DE" TextString="Hoang vắng" />
+    <TextStringDefinition InstanceID="0x89FC556F" TextString="Cô độc" />
+    <TextStringDefinition InstanceID="0x009F6D60" TextString="Cảm thấy buồn vì thiếu thời gian bên các Sim khác!" />
+    <TextStringDefinition InstanceID="0x2CDB9574" TextString="Ghê tởm vì vệ sinh kém. Ôi, mùi hôi!" />
+    <TextStringDefinition InstanceID="0x4FE0475B" TextString="Bẩn thỉu" />
+    <TextStringDefinition InstanceID="0xE7B09C12" TextString="Đói cực kỳ" />
+    <TextStringDefinition InstanceID="0xADF5B8D0" TextString="{0.SimFirstName} cần ăn ngay!" />
+    <TextStringDefinition InstanceID="0xBA2D6E0F" TextString="{0.SimFirstName} đang đói! Hãy ăn một ít đồ ăn trước khi cơn đói trở nên tệ hơn." />
+    <TextStringDefinition InstanceID="0xEC47DDA4" TextString="Đói" />
+    <TextStringDefinition InstanceID="0x96615442" TextString="Mức độ thiếu ngủ này sẽ khiến bất kỳ Sim nào đều trở nên khổ sở!" />
+    <TextStringDefinition InstanceID="0x1692605B" TextString="{0.SimFirstName} đang mệt và sẽ cần nghỉ ngơi sớm." />
+    <TextStringDefinition InstanceID="0x8DF5DF63" TextString="Mệt" />
+    <TextStringDefinition InstanceID="0x6AB2C48F" TextString="Kiệt sức" />
+    <TextStringDefinition InstanceID="0x91B2A01E" TextString="Đái dầm" />
+    <TextStringDefinition InstanceID="0x4B477B01" TextString="Cực kỳ cần một số hoạt động vui vẻ!" />
+    <TextStringDefinition InstanceID="0x86BAB27F" TextString="Khát vui" />
+    <TextStringDefinition InstanceID="0x95EEF72A" TextString="(Từ việc xem đám cưới)" />
+    <TextStringDefinition InstanceID="0xB7E97F7F" TextString="(Từ giao tiếp xã hội)" />
+    <TextStringDefinition InstanceID="0xE6CE72D0" TextString="(Từ đọc sách)" />
+    <TextStringDefinition InstanceID="0x12A2FDDA" TextString="(Từ thực hành thói quen)" />
+    <TextStringDefinition InstanceID="0x98363924" TextString="(Từ trạng thái buồn bã)" />
+    <TextStringDefinition InstanceID="0x6E1BD4A5" TextString="(Từ nhu cầu xã hội thấp)" />
+    <TextStringDefinition InstanceID="0xED5C85CF" TextString="(Từ nhu cầu vui chơi thấp)" />
+    <TextStringDefinition InstanceID="0x1B2DE657" TextString="(Từ năng lượng thấp)" />

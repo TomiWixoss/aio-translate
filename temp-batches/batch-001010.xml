@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x48395DCE" TextString="Tên của Cuốn sách là gì?" />
+    <TextStringDefinition InstanceID="0xD684F939" TextString="Tên Sách" />
+    <TextStringDefinition InstanceID="0x58280A07" TextString="Bạn sẽ mô tả Cuốn sách này như thế nào?" />
+    <TextStringDefinition InstanceID="0x03A3BBE2" TextString="Mô tả Sách" />
+    <TextStringDefinition InstanceID="0xE2F33859" TextString="Đặt tên Lạc đà" />
+    <TextStringDefinition InstanceID="0x4999E86B" TextString="Lạc đà này nên được gọi là gì?" />
+    <TextStringDefinition InstanceID="0x4644C4D7" TextString="Đặt tên {1.ObjectName}" />
+    <TextStringDefinition InstanceID="0x4D50A187" TextString="Đặt tên Bò" />
+    <TextStringDefinition InstanceID="0xB3EAD485" TextString="Con bò này nên được gọi là gì?" />
+    <TextStringDefinition InstanceID="0xF3823860" TextString="Đặt tên Chuồng Gà" />
+    <TextStringDefinition InstanceID="0x2ED55706" TextString="Bạn muốn gọi chuồng gà này là gì?" />
+    <TextStringDefinition InstanceID="0x1C57C173" TextString="Đặt tên Chuồng Động vật" />
+    <TextStringDefinition InstanceID="0xC6AAD881" TextString="Bạn muốn gọi Chuồng Động vật này là gì?" />
+    <TextStringDefinition InstanceID="0x28D0C9F8" TextString="Đặt tên Động vật" />
+    <TextStringDefinition InstanceID="0x30E32C1E" TextString="Đặt một cái tên mới cho con vật này..." />
+    <TextStringDefinition InstanceID="0xB2FAD39F" TextString="Đây là trang phục hiện tại." />
+    <TextStringDefinition InstanceID="0x65B39D8D" TextString="Hồi tưởng một Khoảnh khắc Sợ hãi" />
+    <TextStringDefinition InstanceID="0x5A59B286" TextString="Trẻ em không thể Hồi tưởng về kỷ niệm Lãng mạn" />
+    <TextStringDefinition InstanceID="0xD9421F82" TextString="Hồi tưởng một Khoảnh khắc Lúng túng" />
+    <TextStringDefinition InstanceID="0x9E9BD655" TextString="Sẽ buộc một Sim đến lô đất hiện tại từ khát vọng Chủ nhân của Sự hằn thù." />
+    <TextStringDefinition InstanceID="0x9AB48A56" TextString="Mẹo để Đến chơi" />
+    <TextStringDefinition InstanceID="0xE120E526" TextString="Sẽ buộc một Sim đến lô đất hiện tại từ đặc điểm Vô cảm." />
+    <TextStringDefinition InstanceID="0xDB0D0FD0" TextString="Lấy Thức ăn thừa" />
+    <TextStringDefinition InstanceID="0x34B3B733" TextString="Các món thức ăn thừa khả dụng không phù hợp với khẩu vị ăn uống của {0.SimFirstName}." />
+    <TextStringDefinition InstanceID="0x631D7009" TextString="Lấy Pizza" />
+    <TextStringDefinition InstanceID="0x15C07962" TextString="Cười khúc khích" />
+    <TextStringDefinition InstanceID="0x85764C97" TextString="{0.SimFirstName} đã phát hiện ra rằng có một thứ kỳ lạ đang sống dưới giường {M0.của anh ấy}{F0.của cô ấy}!" />
+    <TextStringDefinition InstanceID="0xE2AC5310" TextString="Chế giễu Sự sạch sẽ" />
+    <TextStringDefinition InstanceID="0x472F5A4E" TextString="Tức giận vì Hành vi Tệ" />
+    <TextStringDefinition InstanceID="0xA012BE6C" TextString="Hằn thù" />
+    <TextStringDefinition InstanceID="0xFC73CE62" TextString="Chế giễu" />
+    <TextStringDefinition InstanceID="0x2DFED989" TextString="Phản ứng với WooHoo" />
+    <TextStringDefinition InstanceID="0x161FF716" TextString="Bị sốc vì Người đi khỏa lấp" />
+    <TextStringDefinition InstanceID="0x0B53FDE4" TextString="Xem Điều gì đang xảy ra" />
+    <TextStringDefinition InstanceID="0x3D9B051B" TextString="Cười khúc khích" />
+    <TextStringDefinition InstanceID="0x47CBC6BE" TextString="Phản ứng với Ma" />
+    <TextStringDefinition InstanceID="0x09F1A30D" TextString="AAAAAAAAAAAAAAAAAAAAH!" />
+    <TextStringDefinition InstanceID="0x1F5B917B" TextString="Tức giận vì Cơn thịnh nộ Ma quỷ" />
+    <TextStringDefinition InstanceID="0x125272F5" TextString="Sợ hãi vì Ma" />
+    <TextStringDefinition InstanceID="0xAA9C2D0B" TextString="Cái gì thế?" />
+    <TextStringDefinition InstanceID="0x3E17AE39" TextString="Có thứ gì đó ghê tởm" />
+    <TextStringDefinition InstanceID="0xEE6AEACE" TextString="(Từ Trở thành Ma)" />
+    <TextStringDefinition InstanceID="0xEFC2D909" TextString="Phản ứng với Ma" />
+    <TextStringDefinition InstanceID="0x2F9CF74C" TextString="Chỉ tay và Cười" />
+    <TextStringDefinition InstanceID="0x40F2F734" TextString="Chạy trốn Trẻ em" />
+    <TextStringDefinition InstanceID="0x7D52DEF7" TextString="Mùi hương Hấp dẫn" />
+    <TextStringDefinition InstanceID="0x529B5807" TextString="Mùi hôi Khó chịu" />
+    <TextStringDefinition InstanceID="0xD6D58BB3" TextString="(Từ Chứng kiến Hành vi Không đúng mực)" />
+    <TextStringDefinition InstanceID="0x59A6FB43" TextString="Hoảng loạn Trước khi Trở thành Cha mẹ" />
+    <TextStringDefinition InstanceID="0x42E02451" TextString="Bị Nước bắn" />

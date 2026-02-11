@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x5F733657" TextString="Hãy ra ngoài và gặp gỡ các Sim khác để kết bạn! Điểm học có thể được nâng lên bằng cách đi học với cảm xúc tích cực hoặc hoàn thành bài tập về nhà." />
+    <TextStringDefinition InstanceID="0x1F6639BD" TextString="Thiếu niên có ít nhất điểm B và có 5 người bạn" />
+    <TextStringDefinition InstanceID="0x8B725A15" TextString="Khám phá Đêm" />
+    <TextStringDefinition InstanceID="0x82C275BE" TextString="Trong Tâm trạng" />
+    <TextStringDefinition InstanceID="0x8B118459" TextString="Hoàn hảo Nghệ thuật Nướng thịt" />
+    <TextStringDefinition InstanceID="0x0585496E" TextString="Người ta nói bạn thân là vĩnh cửu! Tạo dựng mối quan hệ bằng cách có một người bạn thời thơ ấu và trở thành bạn tốt với các Sim trẻ khác. Chơi đùa, Phiêu lưu và tạo nên những mối quan hệ suốt đời trong niềm đam mê của tuổi trẻ, trước khi bước vào những năm Tuổi vị thành niên." />
+    <TextStringDefinition InstanceID="0x983108AE" TextString="Một người bạn tốt biết tất cả câu chuyện của bạn. Một người bạn thân đã giúp bạn viết chúng." />
+    <TextStringDefinition InstanceID="0x09D833A5" TextString="Bắt đầu sự nghiệp của Sim qua Điện thoại hoặc Máy tính, kết bạn bằng cách thân thiện với các Sim khác, và thực hiện các nhiệm vụ trong bảng Nguyện vọng để hoàn thành một Cột mốc" />
+    <TextStringDefinition InstanceID="0xC074538B" TextString="Sim đạt cấp độ 3 trong bất kỳ Sự nghiệp nào, có 3 Người bạn, và hoàn thành 2 Cột mốc của bất kỳ Nguyện vọng nào" />
+    <TextStringDefinition InstanceID="0x5673D99C" TextString="Mối quan hệ Công việc" />
+    <TextStringDefinition InstanceID="0xFE8BD072" TextString="Các Sim có thể trở thành Giám đốc điều hành (CEO) trong Sự nghiệp Kinh doanh bằng cách chọn Lộ quản lý sau khi được thăng chức từ Quản lý Cấp cao, và tiếp tục được thăng chức cao hơn nữa trên thang sự nghiệp. Tư duy, Thuyết phục, và một Tâm trạng Tự tin giúp một Sim xuất sắc trong sự nghiệp này, cũng như đi làm và thực hiện bất kỳ Nhiệm vụ Hàng ngày nào được liệt kê trong Bảng Sự nghiệp." />
+    <TextStringDefinition InstanceID="0x937568E2" TextString="Một người trong cặp đôi trở thành CEO, người kia trở thành Nhà đầu tư Thiên thần (Lộ Nhà đầu tư của Sự nghiệp Kinh doanh)" />
+    <TextStringDefinition InstanceID="0xFCFD319D" TextString="Gây quỹ và Nuôi dưỡng Sim Trẻ trước khi Lớn lên" />
+    <TextStringDefinition InstanceID="0xEFF9D1F0" TextString="Một Sim trở thành Diễn viên hài và đã chia tay với bạn tình ban đầu" />
+    <TextStringDefinition InstanceID="0x7770D55E" TextString="Trẻ em có các Kỹ năng Tư duy, Sáng tạo, Xã hội và Vận động. Chọn một kỹ năng và nâng cấp bằng cách sử dụng các đồ vật xây dựng kỹ năng dành cho Trẻ em" />
+    <TextStringDefinition InstanceID="0xA34E6CD8" TextString="Đạt Cấp độ 5 trong một trong các Kỹ năng của Sofia và Leonardo" />
+    <TextStringDefinition InstanceID="0x0EF91EFE" TextString="Nhấp vào thẻ Nguyện vọng để xem điều các Sim của bạn khao khát nhất. Khi các Sim thực hiện nguyện vọng của mình, họ trưởng thành và kiếm được điểm thưởng." />
+    <TextStringDefinition InstanceID="0x4846ADFF" TextString="Hoàn thành Nguyện vọng Trẻ em" />
+    <TextStringDefinition InstanceID="0xBC3173C3" TextString="Hoàn thành mục tiêu bữa tiệc để tăng điểm bữa tiệc và vui vẻ cho đến khi bữa tiệc kết thúc" />
+    <TextStringDefinition InstanceID="0x41E12161" TextString="Hoàn thành Bữa tiệc" />
+    <TextStringDefinition InstanceID="0x716E43EC" TextString="Chọn Lập kế hoạch Sự kiện Xã hội trong danh mục Xã hội trên điện thoại, chọn Tiệc tại nhà hoặc Tiệc tối, và đảm bảo &lt;b&gt;Mục tiêu và Phần thưởng&lt;/b&gt; được chọn." />
+    <TextStringDefinition InstanceID="0xA90042CC" TextString="Bắt đầu một Tiệc tại nhà hoặc Tiệc tối" />
+    <TextStringDefinition InstanceID="0x6DE70EF3" TextString="Bạn của Farrah sẽ gọi điện cho cô ấy sớm!" />
+    <TextStringDefinition InstanceID="0xEBC075D1" TextString="Trả lời Điện thoại" />
+    <TextStringDefinition InstanceID="0x2210CE4C" TextString="Sử dụng máy chạy bộ, máy tập thể dục, hoặc bao cát đấm quyền trong 1 giờ" />
+    <TextStringDefinition InstanceID="0xCE8C0508" TextString="Tập thể dục trong 1 Giờ" />
+    <TextStringDefinition InstanceID="0x4738993D" TextString="Sử dụng điện thoại và chọn Du lịch trong danh mục Du lịch, và chọn một Phòng tập Gym hoặc Quán bar trong chế độ xem bản đồ" />
+    <TextStringDefinition InstanceID="0xF0CB48DE" TextString="Đi đến Phòng tập Gym hoặc Quán bar" />
+    <TextStringDefinition InstanceID="0x89CCE6F4" TextString="Đảm bảo Bà và tất cả các Anh chị em đều ở nhà bằng cách nhấn nút Về nhà" />
+    <TextStringDefinition InstanceID="0x821807E4" TextString="Đưa Gia đình Về nhà" />
+    <TextStringDefinition InstanceID="0x0CDBE4B0" TextString="Tìm một người yêu quan trọng cho mỗi anh chị em bằng cách thực hiện Tương tác Lãng mạn với một Sim khác và yêu cầu họ trở thành bạn tình lãng mạn của bạn." />
+    <TextStringDefinition InstanceID="0x07442658" TextString="Tìm một Bạn tình Lãng mạn cho Mỗi Anh chị em" />
+    <TextStringDefinition InstanceID="0x6136B7C5" TextString="Đảm bảo mỗi anh chị em đều có việc làm! Sử dụng Mục Kinh doanh của Điện thoại hoặc Máy tính để &quot;Tìm việc làm.&quot; Bạn cũng có thể sử dụng Bảng Sự nghiệp để &quot;Gia nhập Sự nghiệp.&quot;" />
+    <TextStringDefinition InstanceID="0x784E1F2B" TextString="Tìm việc cho Tất cả các Anh chị em" />
+    <TextStringDefinition InstanceID="0x89E2CA6A" TextString="Để Cố vấn, đạt cấp độ 10 trong một kỹ năng và sử dụng tương tác Cố vấn lên Sim thiếu niên trong khi cô ấy đang luyện tập kỹ năng đó." />
+    <TextStringDefinition InstanceID="0x6310A592" TextString="Một Sim Cố vấn cho một Thiếu niên về kỹ năng 5 lần" />
+    <TextStringDefinition InstanceID="0x7CB3D5C5" TextString="Tăng Kỹ năng Trí tưởng tượng bằng cách chơi với Đồ chơi và Búp bê, Vẽ với Llama trên Máy tính bảng Wabbit, nghe nhạc, hoặc xem Sách dành cho Trẻ mới biết đi." />
+    <TextStringDefinition InstanceID="0x0BF4B92B" TextString="Đưa Trẻ mới biết đi của bạn lên Cấp độ 5 Kỹ năng Trí tưởng tượng" />
+    <TextStringDefinition InstanceID="0x5CFBBCAD" TextString="Sách Kỹ năng là một cách hữu ích để các Sim có được Kỹ năng và có thể tìm thấy ở Thư viện hoặc mua từ Máy tính" />
+    <TextStringDefinition InstanceID="0x6D9E5023" TextString="Đạt cấp độ {0.Number} trong bất kỳ Kỹ năng nào" />
+    <TextStringDefinition InstanceID="0x49E83483" TextString="Đạt Cấp độ 10 trong ít nhất 3 Kỹ năng" />
+    <TextStringDefinition InstanceID="0xC7C91FEF" TextString="Các Sim có thể cố vấn trong: Lập trình, Khoa học tên lửa, Hài kịch, Viết, Hội họa, Câu cá, Sửa chữa, Tư duy, Đàn piano, Đàn violin, Đàn guitar, Thể dục, Robot, Chế tạo và Đan móc." />
+    <TextStringDefinition InstanceID="0x35289A05" TextString="Một Sim ở cấp độ 10 trong một Kỹ năng Có thể Cố vấn" />
+    <TextStringDefinition InstanceID="0x5760BC4B" TextString="Lập kế hoạch một Sự kiện Xã hội qua điện thoại của bạn hoặc mở lịch của bạn và lập kế hoạch một Sự kiện" />
+    <TextStringDefinition InstanceID="0x7B926C19" TextString="Tổ chức một Bữa tiệc! Lập kế hoạch một Sự kiện Xã hội qua Điện thoại của bạn." />
+    <TextStringDefinition InstanceID="0x1D2DABDB" TextString="Một Sim là Tri kỷ với ai đó mà họ chưa từng chia tay" />
+    <TextStringDefinition InstanceID="0x6C4E252B" TextString="Các Sim có mức độ Bạn bè và Lãng mạn rất cao là Tri kỷ." />
+    <TextStringDefinition InstanceID="0x01FBA5F9" TextString="Một Sim là Tri kỷ với ai đó mà họ đã từng chia tay" />
+    <TextStringDefinition InstanceID="0x9D395F60" TextString="Các Sim Khởi đầu là Tri kỷ" />
+    <TextStringDefinition InstanceID="0x4FEF5DAE" TextString="Các Sim có mức độ Lãng mạn rất cao và trung lập về Bạn bè là Người tình." />

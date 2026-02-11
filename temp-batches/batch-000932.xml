@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xBF06755A" TextString="Bò" />
+    <TextStringDefinition InstanceID="0x22FD9E4B" TextString="Đường Bowlings" />
+    <TextStringDefinition InstanceID="0x103058F0" TextString="Tường Leo núi" />
+    <TextStringDefinition InstanceID="0x48E75EC3" TextString="Ghế ăn dặm" />
+    <TextStringDefinition InstanceID="0x47DD5C70" TextString="Còi" />
+    <TextStringDefinition InstanceID="0xA0772E7D" TextString="Bục giảng" />
+    <TextStringDefinition InstanceID="0x5C8AF62C" TextString="Que diều mèo" />
+    <TextStringDefinition InstanceID="0xA8822691" TextString="Bàn thay tã" />
+    <TextStringDefinition InstanceID="0x27A4186C" TextString="Tường đá" />
+    <TextStringDefinition InstanceID="0x01FA6F41" TextString="Bàn trang điểm" />
+    <TextStringDefinition InstanceID="0x5A9B084E" TextString="Yoga" />
+    <TextStringDefinition InstanceID="0x1D56B82A" TextString="Chuông gió" />
+    <TextStringDefinition InstanceID="0x76793B98" TextString="Lồng vệ sinh" />
+    <TextStringDefinition InstanceID="0x426F0E1E" TextString="Nhím" />
+    <TextStringDefinition InstanceID="0x6F0A8746" TextString="Máy thổi bong bóng" />
+    <TextStringDefinition InstanceID="0xCCC5ED32" TextString="Gà trống" />
+    <TextStringDefinition InstanceID="0x799A6C3A" TextString="Thư giãn" />
+    <TextStringDefinition InstanceID="0x5210B470" TextString="Bút" />
+    <TextStringDefinition InstanceID="0x79C73534" TextString="Gà mái" />
+    <TextStringDefinition InstanceID="0x534AD6B8" TextString="Trẻ mới biết đi" />
+    <TextStringDefinition InstanceID="0xA15C08AE" TextString="Vượt rào ngựa" />
+    <TextStringDefinition InstanceID="0xB9E206FC" TextString="Cặp tài liệu" />
+    <TextStringDefinition InstanceID="0x53582E5F" TextString="Giá treo áo" />
+    <TextStringDefinition InstanceID="0x09639F58" TextString="Cột cào" />
+    <TextStringDefinition InstanceID="0x6EC1458D" TextString="Cầu trượt" />
+    <TextStringDefinition InstanceID="0xE2553371" TextString="Bàn nhảy" />
+    <TextStringDefinition InstanceID="0x68299308" TextString="Sauna" />
+    <TextStringDefinition InstanceID="0x663BDC7F" TextString="Giếng ước" />
+    <TextStringDefinition InstanceID="0xE8B09904" TextString="Dia De Los Muertos" />
+    <TextStringDefinition InstanceID="0xFB407E9D" TextString="Thiền định" />
+    <TextStringDefinition InstanceID="0xD70D81CA" TextString="Máy hút bụi" />
+    <TextStringDefinition InstanceID="0xA80DC9BE" TextString="Nhà cây" />
+    <TextStringDefinition InstanceID="0x947C8CEC" TextString="Máng uống" />
+    <TextStringDefinition InstanceID="0xBF2878E2" TextString="Ngựa" />
+    <TextStringDefinition InstanceID="0x805B4918" TextString="Phim ảnh" />
+    <TextStringDefinition InstanceID="0xD6D7060E" TextString="Tinh thần" />
+    <TextStringDefinition InstanceID="0x257EE8F9" TextString="{0.SimFirstName} giờ đã có thể hát tình ca cho các Sim khác. Sau khi trưởng thành thành Thiếu niên, {0.SimPronounSubjective} cũng sẽ có thể chơi các bài hát lãng mạn." />
+    <TextStringDefinition InstanceID="0xDCCA197E" TextString="Đạt Cấp độ 5 Viôlông" />
+    <TextStringDefinition InstanceID="0x020E3BAB" TextString="Đạt Cấp độ 3 Viôlông" />
+    <TextStringDefinition InstanceID="0xA19251A1" TextString="{0.SimFirstName} giờ đã có thể chơi các bài hát truyền thống." />
+    <TextStringDefinition InstanceID="0xA3A6EA09" TextString="Đạt Cấp độ 4 Viôlông" />
+    <TextStringDefinition InstanceID="0xB9E09BDB" TextString="{0.SimFirstName} giờ đã có thể chơi Concerto và các bài hát thuộc dòng nhạc Rock." />
+    <TextStringDefinition InstanceID="0x563FE734" TextString="Giỏi chơi game từng chỉ để khoe khoang với anh chị em, nhưng trong thế giới mới mẻ này, tài năng chơi game thực sự có thể kiếm tiền và mang lại danh tiếng! Thời đại thật kỳ quặc chúng ta đang sống.\n\nKỹ năng Chơi game được cải thiện qua máy tính, hệ thống chơi game cảm ứng và máy tính bảng. Tăng kỹ năng này sẽ mở khóa các Tương tác Xã hội Chơi game mới cũng như các Tương tác mới trên Máy tính.\n\nChơi game có thể được dạy ở Cấp độ 5 từ Máy tính, Thảm chơi game, Máy Arcade (&lt;i&gt;Get Together&lt;/i&gt;), hoặc Máy chơi game (&lt;i&gt;City Living&lt;/i&gt;)." />
+    <TextStringDefinition InstanceID="0x1E23CDA7" TextString="Đạt Cấp độ 2 Chơi game" />
+    <TextStringDefinition InstanceID="0x96DA99A5" TextString="{0.SimFirstName} giờ đã có thể Thảo luận Chiến thuật Game với các Sim khác." />
+    <TextStringDefinition InstanceID="0x645F4B6E" TextString="{0.SimFirstName} giờ đã có thể Nghiên cứu Chiến thuật Game Nâng cao. Sau khi trưởng thành thành Thiếu niên, {0.SimPronounSubjective} cũng sẽ có thể Gây ấn tượng với các Sim khác bằng Tài năng Chơi game." />
+    <TextStringDefinition InstanceID="0xD8B9D122" TextString="\n{0.SimPronounSubjective|xxUpper} cũng có thể Dạy người khác Chơi game." />
+    <TextStringDefinition InstanceID="0x782E9E84" TextString="Đạt Cấp độ 6 Chơi game" />
+    <TextStringDefinition InstanceID="0x21F8504A" TextString="{0.SimFirstName} giờ đã có thể Tham gia Giải đấu Game Chuyên nghiệp." />
+    <TextStringDefinition InstanceID="0x39CC0C9C" TextString="Đạt Cấp độ 7 Chơi game" />

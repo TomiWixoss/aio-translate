@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xE831A8BC" TextString="Nhẫn cưới 01" />
+    <TextStringDefinition InstanceID="0x3DA50ABC" TextString="Kệ bán lẻ 2x1" />
+    <TextStringDefinition InstanceID="0xFF167D32" TextString="Kệ bán lẻ 2x1" />
+    <TextStringDefinition InstanceID="0x8FDB645E" TextString="Bổ sung hàng tường" />
+    <TextStringDefinition InstanceID="0x06B0B627" TextString="Bổ sung hàng tường" />
+    <TextStringDefinition InstanceID="0xDCD5867C" TextString="Bổ sung hàng sàn" />
+    <TextStringDefinition InstanceID="0xAA0B5079" TextString="Bổ sung hàng sàn" />
+    <TextStringDefinition InstanceID="0x9403BD3F" TextString="Bổ sung hàng trang trí" />
+    <TextStringDefinition InstanceID="0x88C8B610" TextString="Bổ sung hàng trang trí" />
+    <TextStringDefinition InstanceID="0xA26FF3ED" TextString="Bổ sung hàng trần" />
+    <TextStringDefinition InstanceID="0xCAE032D2" TextString="Bổ sung hàng trần" />
+    <TextStringDefinition InstanceID="0x020A66A9" TextString="Bệ đỡ 2x2" />
+    <TextStringDefinition InstanceID="0xDF3EF076" TextString="Bệ đỡ 2x2" />
+    <TextStringDefinition InstanceID="0xBC2E19BC" TextString="Bệ đỡ 2x1" />
+    <TextStringDefinition InstanceID="0x14DD52B9" TextString="Bệ đỡ 2x1" />
+    <TextStringDefinition InstanceID="0x7B80CE21" TextString="Bệ đỡ 1x1" />
+    <TextStringDefinition InstanceID="0x417B451E" TextString="Bệ đỡ 1x1" />
+    <TextStringDefinition InstanceID="0x6478BDEC" TextString="Tủ đông" />
+    <TextStringDefinition InstanceID="0x66699989" TextString="Tủ đông bán lẻ" />
+    <TextStringDefinition InstanceID="0x5236F877" TextString="Kệ trưng bày 1x1" />
+    <TextStringDefinition InstanceID="0x48F31078" TextString="Kệ trưng bày 1x1" />
+    <TextStringDefinition InstanceID="0xD6B4DEA3" TextString="Quầy bán lẻ" />
+    <TextStringDefinition InstanceID="0x18E3FD6C" TextString="Quầy bán lẻ" />
+    <TextStringDefinition InstanceID="0xB8B1C092" TextString="Kệ trưng bày sách bán lẻ" />
+    <TextStringDefinition InstanceID="0xDDACEF43" TextString="Kệ trưng bày sách bán lẻ" />
+    <TextStringDefinition InstanceID="0xEB1D7E59" TextString="Kệ trưng bày bánh bán lẻ" />
+    <TextStringDefinition InstanceID="0xDC462FC6" TextString="Kệ trưng bày bánh bán lẻ" />
+    <TextStringDefinition InstanceID="0x3B8E9A0E" TextString="Điều khiển TV đa năng 01" />
+    <TextStringDefinition InstanceID="0xC51F9EB7" TextString="Điều khiển TV đa năng 01" />
+    <TextStringDefinition InstanceID="0x894D63E1" TextString="Tên giữ chỗ cho reaper_GEN01" />
+    <TextStringDefinition InstanceID="0xB03AB5DE" TextString="Mô tả giữ chỗ cho reaper_GEN01" />
+    <TextStringDefinition InstanceID="0x4AEB1EF1" TextString="Trạm kiểm lâm" />
+    <TextStringDefinition InstanceID="0x493D92CE" TextString="Trạm kiểm lâm" />
+    <TextStringDefinition InstanceID="0x0A308D59" TextString="Thành phần du hành thời gian" />
+    <TextStringDefinition InstanceID="0x2859E4C6" TextString="Thành phần lý thuyết cần thiết để du hành thời gian trở nên khả thi." />
+    <TextStringDefinition InstanceID="0xB1C1499A" TextString="Quá khứ để lại những tiếng vọng qua thời gian, biểu hiện qua những mảnh vỡ này." />
+    <TextStringDefinition InstanceID="0xC51547C0" TextString="Gửi đi từ nhiều năm trước, như thể bức thư này đã chờ đợi đúng thời điểm." />
+    <TextStringDefinition InstanceID="0xDC864CB0" TextString="Tờ ghi nợ" />
+    <TextStringDefinition InstanceID="0xFC155C95" TextString="Một tờ ghi nợ bí ẩn, được để trong một hộp thời gian." />
+    <TextStringDefinition InstanceID="0x6215C054" TextString="Mảnh thời gian" />
+    <TextStringDefinition InstanceID="0x2D832054" TextString="Mở khóa ở cấp 10 của sự nghiệp Tội phạm khi ở nhánh Boss." />
+    <TextStringDefinition InstanceID="0x5341E89B" TextString="Mở khóa bằng cách đạt cấp 10 của sự nghiệp Tội phạm khi ở nhánh Boss." />
+    <TextStringDefinition InstanceID="0x44FA1E53" TextString="Túi đấm Fisticuffs" />
+    <TextStringDefinition InstanceID="0x6A7E24FC" TextString="Giữ cho các cú đấm và đá vòng của bạn trong hình thức chiến đấu với túi đấm da cổ điển này. Đổ đầy sỏi và mảnh kính để tăng độ phồng rộp nắm đấm." />
+    <TextStringDefinition InstanceID="0xCEE78A99" TextString="Mở khóa ở cấp 9 của sự nghiệp Phi hành gia khi ở nhánh Kẻ buôn lậu liên sao." />
+    <TextStringDefinition InstanceID="0x05063B02" TextString="Mở khóa bằng cách đạt cấp 9 của sự nghiệp Phi hành gia khi ở nhánh Kẻ buôn lậu liên sao." />
+    <TextStringDefinition InstanceID="0x09A855D6" TextString="Túi tập luyện không trọng lực" />
+    <TextStringDefinition InstanceID="0xEEFCAC0F" TextString="Giải tỏa sự hung hăng và căng thẳng! Điều chỉnh cơ tay! Giữ dáng vóc cho việc buôn lậu liên sao bằng cách giáng một vài cú đấm chuẩn vào thân túi này, mà nó chưa bao giờ đánh trả." />
+    <TextStringDefinition InstanceID="0xAAB5E7E8" TextString="Túi đấm" />
+    <TextStringDefinition InstanceID="0xE68B097D" TextString="Một túi nặng, đổ đầy cát, trên một bệ đỡ lắp trên sàn, được thiết kế để chịu được những cú đấm mạnh mẽ và liên tục." />

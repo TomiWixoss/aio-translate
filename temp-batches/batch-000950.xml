@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x6D1A3339" TextString="Nhấp vào Bàn Gỗ, chọn Chế Tạo Nội Thất, và chọn Bồn Tắm." />
+    <TextStringDefinition InstanceID="0x03CDFBD7" TextString="Chế tạo một Bồn Tắm" />
+    <TextStringDefinition InstanceID="0x8DFD2CEF" TextString="Nhấp vào Bàn Gỗ, chọn Chế Tạo Nội Thất, và chọn Toilet." />
+    <TextStringDefinition InstanceID="0x096CED4D" TextString="Chế tạo một Toilet" />
+    <TextStringDefinition InstanceID="0x379237BD" TextString="Nhấp vào Bàn Gỗ, chọn Chế Tạo Tượng, và chọn bất kỳ Tượng nào." />
+    <TextStringDefinition InstanceID="0xA702878B" TextString="Chế tạo một Tượng" />
+    <TextStringDefinition InstanceID="0x89A63949" TextString="Nấu một Bữa Ăn Tuyệt Vời" />
+    <TextStringDefinition InstanceID="0x8BDBA677" TextString="Nấu một Bữa Ăn" />
+    <TextStringDefinition InstanceID="0xABE8F877" TextString="Nhấp vào Bàn Gỗ, chọn Chế Tạo Nhạc Cụ, và chọn bất kỳ Nhạc Cụ nào." />
+    <TextStringDefinition InstanceID="0xABD53185" TextString="Chế tạo một Nhạc Cụ" />
+    <TextStringDefinition InstanceID="0x526CD248" TextString="Nhấp vào Bàn Gỗ, chọn Chế Tạo Nội Thất, và chọn bất kỳ Món Nội Thất nào." />
+    <TextStringDefinition InstanceID="0xBC7265CE" TextString="Chế tạo một Món Nội Thất" />
+    <TextStringDefinition InstanceID="0x4E562BBD" TextString="Nhấp vào Bàn Gỗ, chọn Chế Tạo Nội Thất, và chọn Bàn Nhỏ." />
+    <TextStringDefinition InstanceID="0xE006DB8B" TextString="Chế tạo một Bàn Nhỏ" />
+    <TextStringDefinition InstanceID="0x6BE2B4DE" TextString="Pha một Ly Đồ Uống Tuyệt Vời" />
+    <TextStringDefinition InstanceID="0xA3028A94" TextString="Pha một Ly Đồ Uống tại Lounge" />
+    <TextStringDefinition InstanceID="0x7B6E709E" TextString="Pha một Ly Đồ Uống tại Club" />
+    <TextStringDefinition InstanceID="0x133E6564" TextString="Khi ở tại Lounge, nhấp vào Quầy Bar, chọn Pha Đồ Uống, và chọn một công thức từ danh sách." />
+    <TextStringDefinition InstanceID="0x9344D003" TextString="Pha một Ly Đồ Uống tại Bar Venue" />
+    <TextStringDefinition InstanceID="0xF8B8710C" TextString="Pha 3 Ly Đồ Uống" />
+    <TextStringDefinition InstanceID="0x924909B7" TextString="Nhấp vào Bàn Gỗ, chọn Chế Tạo Nội Thất, và chọn Ghế Ăn." />
+    <TextStringDefinition InstanceID="0xE42991C5" TextString="Chế tạo một Chiếc Ghế" />
+    <TextStringDefinition InstanceID="0x114A09C9" TextString="Tạo ra thứ gì đó tốt hơn chất lượng kém. Trình độ Kỹ Năng cao hơn giúp Sim tạo ra những thứ tốt hơn." />
+    <TextStringDefinition InstanceID="0x6C12CCE7" TextString="Tạo Ra Thứ Gì Tốt Hơn Chất Lượng Kém" />
+    <TextStringDefinition InstanceID="0xEBD74121" TextString="Nấu một Bữa Ăn Chay" />
+    <TextStringDefinition InstanceID="0x1AA4CBCF" TextString="Nhấp vào Tủ Lạnh, chọn Nấu Ăn, và chọn một công thức từ danh sách." />
+    <TextStringDefinition InstanceID="0x77FCE9AD" TextString="Chuẩn Bị Tuna Casserole" />
+    <TextStringDefinition InstanceID="0xE0947B34" TextString="Nhấp vào Tủ Lạnh, chọn Nấu Bữa Ăn Cao Cấp, và chọn công thức từ danh sách." />
+    <TextStringDefinition InstanceID="0x91F9BC2A" TextString="Chuẩn Bị Trout Meunière" />
+    <TextStringDefinition InstanceID="0xC345A9E3" TextString="Nhấp vào Tủ Lạnh, chọn Nấu Ăn, và chọn một công thức từ danh sách." />
+    <TextStringDefinition InstanceID="0xE046F021" TextString="Chuẩn Bị Stirfry" />
+    <TextStringDefinition InstanceID="0xE11CEB45" TextString="Nhấp vào Tủ Lạnh, chọn Nấu Bữa Ăn Cao Cấp, và chọn công thức từ danh sách." />
+    <TextStringDefinition InstanceID="0x0AB08863" TextString="Chuẩn Bị Spinach Frittata" />
+    <TextStringDefinition InstanceID="0x1C5ED34F" TextString="Nhấp vào Tủ Lạnh, chọn Nấu Ăn, và chọn một công thức từ danh sách." />
+    <TextStringDefinition InstanceID="0x20AAB52D" TextString="Chuẩn Bị Spaghetti" />
+    <TextStringDefinition InstanceID="0x0B69E354" TextString="Nhấp vào Tủ Lạnh, chọn Nấu Ăn, và chọn một công thức từ danh sách." />
+    <TextStringDefinition InstanceID="0xEAD71BCA" TextString="Chuẩn Bị Roast Chicken" />
+    <TextStringDefinition InstanceID="0x27885FDA" TextString="Nhấp vào Tủ Lạnh, chọn Nấu Bữa Ăn Cao Cấp, và chọn công thức từ danh sách." />
+    <TextStringDefinition InstanceID="0xA87271E8" TextString="Chuẩn Bị Rack of Lamb" />
+    <TextStringDefinition InstanceID="0x0C06C027" TextString="Nhấp vào Tủ Lạnh, chọn Nấu Bữa Ăn Cao Cấp, và chọn công thức từ danh sách." />
+    <TextStringDefinition InstanceID="0xA5E5DF35" TextString="Chuẩn Bị Prosciutto-wrapped Asparagus" />
+    <TextStringDefinition InstanceID="0x01F6DFF6" TextString="Nhấp vào Tủ Lạnh, chọn Nấu Bữa Ăn Cao Cấp, và chọn công thức từ danh sách." />
+    <TextStringDefinition InstanceID="0xF8257FA4" TextString="Chuẩn Bị Pasta Primavera" />
+    <TextStringDefinition InstanceID="0xE1E8712C" TextString="Nhấp vào Tủ Lạnh, chọn Nấu Bữa Ăn Cao Cấp, và chọn công thức từ danh sách." />
+    <TextStringDefinition InstanceID="0xFD16D552" TextString="Chuẩn Bị Pancakes" />
+    <TextStringDefinition InstanceID="0x70F7F837" TextString="Nhấp vào Tủ Lạnh, chọn Nấu Ăn, và chọn một công thức từ danh sách. Sim có Kỹ Năng Nấu Ăn cao sẽ có khả năng tạo ra đồ ăn chất lượng cao hơn." />
+    <TextStringDefinition InstanceID="0x728EEB22" TextString="Nhấp vào Tủ Lạnh, chọn Nấu Bữa Ăn Cao Cấp, và chọn một công thức từ danh sách." />
+    <TextStringDefinition InstanceID="0xE64A621C" TextString="Nhấp vào Tủ Lạnh, chọn Nấu Ăn, và chọn một công thức từ danh sách." />
+    <TextStringDefinition InstanceID="0xDE622442" TextString="Chuẩn Bị Món Omelet" />
+    <TextStringDefinition InstanceID="0x7525AEC9" TextString="Nhấp vào Tủ Lạnh, chọn Nấu Bữa Ăn Cao Cấp, và chọn công thức từ danh sách." />

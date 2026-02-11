@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x303B8D92" TextString="Chimis" />
+    <TextStringDefinition InstanceID="0xAF6F70B7" TextString="Thịt nướng" />
+    <TextStringDefinition InstanceID="0xA2DEA392" TextString="{S.Cá trôi bùn}{P.Cá trôi bùn}" />
+    <TextStringDefinition InstanceID="0xF542EC28" TextString="{S.Bánh bao rau củ}{P.Bánh bao rau củ}" />
+    <TextStringDefinition InstanceID="0xF8487C04" TextString="{S.Bánh Pan de Muerto}{P.Bánh Pan de Muerto}" />
+    <TextStringDefinition InstanceID="0xCD216531" TextString="Bánh ngọt được nướng truyền thống trong những tuần trước Ngày của Người chết." />
+    <TextStringDefinition InstanceID="0xD5816736" TextString="Một miếng Bánh sinh nhật" />
+    <TextStringDefinition InstanceID="0x1287D79B" TextString="Một miếng Bánh sinh nhật" />
+    <TextStringDefinition InstanceID="0x1D4675D4" TextString="Một miếng Bánh sinh nhật" />
+    <TextStringDefinition InstanceID="0x443A5510" TextString="{S.Một miếng bánh}{P.Nhiều miếng bánh}" />
+    <TextStringDefinition InstanceID="0x6FDE2EF2" TextString="Knafeh" />
+    <TextStringDefinition InstanceID="0xFF514F08" TextString="{S.Bánh gạo}{P.Bánh gạo}" />
+    <TextStringDefinition InstanceID="0x4DABDC0C" TextString="{S.Bánh}{P.Bánh}" />
+    <TextStringDefinition InstanceID="0xD1C671FB" TextString="Bánh sinh nhật" />
+    <TextStringDefinition InstanceID="0x089B4416" TextString="Bánh sinh nhật" />
+    <TextStringDefinition InstanceID="0x73C87DA9" TextString="Bánh sinh nhật" />
+    <TextStringDefinition InstanceID="0x0A717D6D" TextString="Tiệc hóa trang là về sự bất ngờ, và còn gì bất ngờ hơn một chiếc hamburger có vị như bánh? Hoặc một chiếc bánh có vị như... bất cứ gì, bạn hiểu ý tôi." />
+    <TextStringDefinition InstanceID="0x7A72AEB1" TextString="Bánh sinh nhật" />
+    <TextStringDefinition InstanceID="0xA216F83C" TextString="Bánh sinh nhật" />
+    <TextStringDefinition InstanceID="0x15D26023" TextString="Bánh sinh nhật" />
+    <TextStringDefinition InstanceID="0xB9C9C5B6" TextString="Bánh sinh nhật" />
+    <TextStringDefinition InstanceID="0x48EB973D" TextString="Bánh sinh nhật" />
+    <TextStringDefinition InstanceID="0x17FFCD38" TextString="Bánh sinh nhật" />
+    <TextStringDefinition InstanceID="0x90D8340F" TextString="Máy phun nước cỡ Trung" />
+    <TextStringDefinition InstanceID="0xF9FE9640" TextString="Tạo ra parabol! Thấy chưa, môn đại số cuối cùng cũng hữu ích. Phiên bản Trung." />
+    <TextStringDefinition InstanceID="0x6BAAD6F8" TextString="Máy phun nước cỡ Lớn" />
+    <TextStringDefinition InstanceID="0x8976D12D" TextString="Tạo ra parabol! Thấy chưa, môn đại số cuối cùng cũng hữu ích. Phiên bản Lớn." />
+    <TextStringDefinition InstanceID="0xD228104C" TextString="Máy phun nước nhỏ kiểu Skipstone" />
+    <TextStringDefinition InstanceID="0x15BC8B69" TextString="Giống như trò chơi nhảy chồm! Không có trẻ em cáu kỉnh nào ở đây.&#xD;&#xA;" />
+    <TextStringDefinition InstanceID="0xC20E04AA" TextString="Máy phun nước Trung kiểu Skipstone&#xD;&#xA;" />
+    <TextStringDefinition InstanceID="0x41B8E9AB" TextString="Giống như trò chơi nhảy chồm! Không có trẻ em cáu kỉnh nào ở đây. Phiên bản Trung.&#xD;&#xA;" />
+    <TextStringDefinition InstanceID="0x511223F5" TextString="Máy phun nước Lớn kiểu Skipstone &#xD;&#xA;" />
+    <TextStringDefinition InstanceID="0xAF89656A" TextString="Giống như trò chơi nhảy chồm! Không có trẻ em cáu kỉnh nào ở đây. Phiên bản Lớn.&#xD;&#xA;" />
+    <TextStringDefinition InstanceID="0x5A2FD7D6" TextString="Máy phun nước nhỏ kiểu Leaping&#xD;&#xA;" />
+    <TextStringDefinition InstanceID="0xC091220F" TextString="Giống như rồng bay vòng cung trên trời! Rồng được phối hợp. Mặc đồ onesie.&#xD;&#xA;" />
+    <TextStringDefinition InstanceID="0x02C375F0" TextString="Máy phun nước Trung kiểu Leaping&#xD;&#xA;" />
+    <TextStringDefinition InstanceID="0x713C0FD5" TextString="Giống như rồng bay vòng cung trên trời! Rồng được phối hợp. Mặc đồ onesie. Phiên bản Trung.&#xD;&#xA;" />
+    <TextStringDefinition InstanceID="0xF9592F73" TextString="Máy phun nước Lớn kiểu Leaping&#xD;&#xA;" />
+    <TextStringDefinition InstanceID="0x89B2FE9C" TextString="Giống như rồng bay vòng cung trên trời! Rồng được phối hợp. Mặc đồ onesie. Phiên bản Lớn.&#xD;&#xA;" />
+    <TextStringDefinition InstanceID="0xD396E2A2" TextString="Máy phun nước nhỏ kiểu Circular&#xD;&#xA;" />
+    <TextStringDefinition InstanceID="0x587E0973" TextString="Giống như cá chép quay quanh nhau trong điệu nhảy! Chỉ không có màu sắc đẹp mắt.&#xD;&#xA;" />
+    <TextStringDefinition InstanceID="0x37453734" TextString="Máy phun nước Trung kiểu Circular&#xD;&#xA;" />
+    <TextStringDefinition InstanceID="0x550FE601" TextString="Giống như cá chép quay quanh nhau trong điệu nhảy! Chỉ không có màu sắc đẹp mắt. Phiên bản Trung.&#xD;&#xA;" />
+    <TextStringDefinition InstanceID="0x57C0AC4F" TextString="Máy phun nước Lớn kiểu Circular&#xD;&#xA;" />
+    <TextStringDefinition InstanceID="0x73A5D880" TextString="Giống như cá chép quay quanh nhau trong điệu nhảy! Chỉ không có màu sắc đẹp mắt. Phiên bản Lớn.&#xD;&#xA;" />
+    <TextStringDefinition InstanceID="0x4A0ACF5F" TextString="Máy phun nước Jet" />
+    <TextStringDefinition InstanceID="0x035AEEB0" TextString="Giống như vòi nước hỏng, phun xì với lực của nước súc miệng bạc hà mạnh!" />
+    <TextStringDefinition InstanceID="0x4236EDD9" TextString="Máy phun nước Trung kiểu Jet" />
+    <TextStringDefinition InstanceID="0x6BC88246" TextString="Giống như vòi nước hỏng, phun xì với lực của nước súc miệng bạc hà mạnh! Phiên bản Trung." />
+    <TextStringDefinition InstanceID="0x58DDF362" TextString="Máy phun nước Lớn kiểu Jet" />

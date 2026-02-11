@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xF72E5A22" TextString="Mỗi ngày là ngày taco tại Cactus Cantina, tuyên bố tấm biển ngoài trời này." />
+    <TextStringDefinition InstanceID="0x36FAD5DD" TextString="Biển Nhà Ăn Nhanh Ngoài Trời" />
+    <TextStringDefinition InstanceID="0x6CC3F962" TextString="Một tấm biển ngoài trời retro đánh dấu địa điểm cho trải nghiệm nhà ăn cổ điển." />
+    <TextStringDefinition InstanceID="0xC48E1C68" TextString="Biển Quán Darts Ngoài Trời" />
+    <TextStringDefinition InstanceID="0x5EE482FD" TextString="Một tấm biển đơn giản cho một quán khu phố không phô trương." />
+    <TextStringDefinition InstanceID="0x271F0C46" TextString="Biển Công Ty Ngoài Trời" />
+    <TextStringDefinition InstanceID="0xB608269F" TextString="Một tấm biển thể hiện uy quyền mà không thu hút quá nhiều sự chú ý. Phù hợp cho khu văn phòng, phòng khám bác sĩ và khuôn viên công ty." />
+    <TextStringDefinition InstanceID="0xC49290AD" TextString="signOutdoorFloor_bm" />
+    <TextStringDefinition InstanceID="0x44BC5692" TextString="signOutdoorFloor_bm" />
+    <TextStringDefinition InstanceID="0x69ECA53A" TextString="tên giữ chỗ signHeldGEN" />
+    <TextStringDefinition InstanceID="0x7420395B" TextString="mô tả giữ chỗ signHeldGEN" />
+    <TextStringDefinition InstanceID="0x80903DDD" TextString="Biển Phòng Tập Thể Dục Ngoài Trời" />
+    <TextStringDefinition InstanceID="0xCBA0F162" TextString="Một vật thể đang chuyển động có xu hướng tiếp tục chuyển động. Tấm biển này chỉ cho mọi người nơi để bắt đầu chuyển động." />
+    <TextStringDefinition InstanceID="0x85636EF7" TextString="Phòng Tắm Post Modern" />
+    <TextStringDefinition InstanceID="0xC8A13FF8" TextString="Một phòng tắm với tất cả các phụ kiện bạn cần để làm sạch mọi inch cơ thể." />
+    <TextStringDefinition InstanceID="0xF9BD5A19" TextString="Phòng Tắm RAW Walk-In" />
+    <TextStringDefinition InstanceID="0xA7E8D586" TextString="PostRustic mang phong cách kim loại thô đến phòng tắm của bạn. Có nhiều màu gạch rustic, chắc chắn sẽ thêm duyên cho phòng tắm." />
+    <TextStringDefinition InstanceID="0x69BDD73A" TextString="Phòng Tắm Crystal Box" />
+    <TextStringDefinition InstanceID="0x0E343F5B" TextString="Với một chút tưởng tượng, bạn có thể giả vờ rằng phòng tắm đơn giản này cho nhu cầu vệ sinh hàng ngày thực ra là một hộp pha lê mà bạn đang tạm thời bị mắc kẹt." />
+    <TextStringDefinition InstanceID="0xFF7F7F90" TextString="Phòng Tắm Unicorn Dream" />
+    <TextStringDefinition InstanceID="0x82056BF5" TextString="Vòi sen được cài sẵn nhiều chế độ áp lực, bao gồm: Noir Night, Electric Sheep, Acid Rain, và nhiều hơn nữa!" />
+    <TextStringDefinition InstanceID="0x096EA070" TextString="The Peregrine" />
+    <TextStringDefinition InstanceID="0x9AD4BB55" TextString="Dành cho những người muốn kết hợp sự thư giãn của việc tắm nước nóng lâu dài với niềm vui của việc đứng, chúng tôi đã tạo ra The Peregrine. Cảm nhận vòi phun mạnh mẽ! Bạn có thể tưởng tượng mình đang đứng trên bề mặt một thế giới ngoài hành tinh xa xôi, trần truồng trong cơn mưa nóng." />
+    <TextStringDefinition InstanceID="0x4EAC2E44" TextString="Double Delight" />
+    <TextStringDefinition InstanceID="0x53350871" TextString="Sự kết hợp này giữa phòng tắm và bồn tắm có hai cách để làm hài lòng. Tận hưởng chiều sâu phong phú của bồn tắm, hoặc đứng dậy và cảm thấy mình bị cuốn vào dòng chảy mạnh mẽ của vòi sen. Hãy cẩn thận: nếu ở quá lâu dưới sức mạnh hơi nước, kết quả có thể khiến bạn sốc." />
+    <TextStringDefinition InstanceID="0x19D4302D" TextString="Bồn Tắm Clawfoot Dưới Đáy Biển với Phòng Tắm" />
+    <TextStringDefinition InstanceID="0x66E5B912" TextString="Một sự pha trộn quyến rũ giữa phong cách cổ điển và đương đại, bồn tắm clawfoot này tái tạo sự xa hoa đã mất của Công Chúa Cordelia trong khi phòng tắm cung cấp sự tiện lợi di động." />
+    <TextStringDefinition InstanceID="0xE564B1A2" TextString="Tên Giữ Chỗ shellPortal_bm" />
+    <TextStringDefinition InstanceID="0x7EABFE73" TextString="Mô Tả Giữ Chỗ shellPortal_bm" />
+    <TextStringDefinition InstanceID="0x83ABFADE" TextString="Tấm Gỗ Tường Có Nắp Đậy" />
+    <TextStringDefinition InstanceID="0x02CA45A7" TextString="Một kệ lưu trữ đơn giản với một biến tấu: đầu được đậy bằng một giá sách bán nguyệt tích hợp để giữ cho đồ trang trí nhỏ của bạn không trượt ra ngoài một cách vô tình." />
+    <TextStringDefinition InstanceID="0xB9E86D57" TextString="Kệ Dưới Đáy Biển Bị Đánh Giá Thấp" />
+    <TextStringDefinition InstanceID="0x7B53057B" TextString="Tranh Khung Trên Cánh Phantom" />
+    <TextStringDefinition InstanceID="0x7B311194" TextString="Làm hài lòng sở thích của bạn với bản in lấy cảm hứng từ thiên nhiên này. Mềm mại, ảo ảnh và bí ẩn một cách đáng yêu, nó để lại cho bạn cảm giác rung động đến mức bạn sẽ muốn khung nó và giữ trên tủ trang điểm." />
+    <TextStringDefinition InstanceID="0xC35506D2" TextString="Dụng Cụ Nhà Bếp Trên Bàn" />
+    <TextStringDefinition InstanceID="0x2C599E83" TextString="Bắt đầu nấu ăn với bộ dụng cụ nấu ăn trên bàn tiện lợi này. Đảm bảo không trầy xước chảo của bạn - mặc dù chúng cũng có thể dùng làm dụng cụ gãi lưng tiện lợi." />
+    <TextStringDefinition InstanceID="0xBC4BD3D7" TextString="Bát Trái Cây" />
+    <TextStringDefinition InstanceID="0x08B03358" TextString="Giữ những đồ ăn nhẹ lành mạnh trong tầm tay, hoặc ít nhất là nơi người khác có thể nhìn thấy chúng." />
+    <TextStringDefinition InstanceID="0xFEF5AF2F" TextString="Sản Phẩm Chăm Sóc Cơ Thể Cơ Bản Cho Nam" />
+    <TextStringDefinition InstanceID="0xCE1232E0" TextString="Được tạo ra độc quyền cho nam giới, dòng sản phẩm chăm sóc cơ thể cao cấp này để lại làn da mềm mại và ngọt ngào như em bé, trong khi bao bì mạnh mẽ, góc cạnh đảm bảo bạn vẫn là một người đàn ông." />
+    <TextStringDefinition InstanceID="0x7EB2A0F8" TextString="Sản Phẩm Chăm Sóc Cơ Thể Cơ Bản" />
+    <TextStringDefinition InstanceID="0x10B1DF2D" TextString="Bạn muốn làn da cảm thấy và tỏa ra mùi tuyệt vời. Đạt được những mong muốn thân mật nhất của bạn với xà phòng tay thơm, kem dưỡng da giàu và bột thơm có sẵn." />
+    <TextStringDefinition InstanceID="0x1B612D17" TextString="Sách Cổ" />
+    <TextStringDefinition InstanceID="0xA24B6098" TextString="Bạn không chỉ đọc nhiều, bạn còn tự hào về việc sở hữu các ấn bản đầu tiên của tất cả các kiệt tác kinh điển. Trưng bày những phát hiện tuyệt vời này - và sự xuất chúng của bạn cùng với chúng." />
+    <TextStringDefinition InstanceID="0x23818065" TextString="Mở khóa ở cấp 9 của nghề Viết Văn khi ở nhánh Nhà Báo." />
+    <TextStringDefinition InstanceID="0x428C6D2E" TextString="Mở khóa bằng cách đạt cấp 9 của nghề Viết Văn khi ở nhánh Nhà Báo." />
+    <TextStringDefinition InstanceID="0x4280A342" TextString="Máy Đánh Chữ Cổ" />
+    <TextStringDefinition InstanceID="0xBF120793" TextString="Một số tác phẩm xuất sắc nhất mọi thời đại đã được gõ trên máy đánh chữ giống hệt cái này. Tôn vinh các Bậc Vĩ đại, và gia nhập hàng ngũ của họ, với phần thưởng to lớn này." />
+    <TextStringDefinition InstanceID="0x334460F1" TextString="Mở khóa ở cấp 8 của nghề Viết Văn khi ở nhánh Tác Giả." />
+    <TextStringDefinition InstanceID="0xE2C6406A" TextString="Mở khóa bằng cách đạt cấp 8 của nghề Viết Văn khi ở nhánh Tác Giả." />

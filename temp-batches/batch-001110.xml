@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xABDCF132" TextString="Ngôi sao hài hước" />
+    <TextStringDefinition InstanceID="0x90934A7E" TextString="Sim này muốn kể chuyện cười và trở thành một diễn viên hài nổi tiếng!" />
+    <TextStringDefinition InstanceID="0x1C77583A" TextString="Việc mài giũa tài năng, {0.SimFirstName} đã đạt được {M0.his}{F0.her} giấc mơ trở thành siêu sao hài hước--và đó không phải là trò đùa!\n\nĐặc điểm nhận được: Hài hước\nCác tương tác xã hội hài hước mới đã được mở khóa!" />
+    <TextStringDefinition InstanceID="0x46AC94CC" TextString="Người bảo tồn" />
+    <TextStringDefinition InstanceID="0xABDABAA8" TextString="Sim này muốn sưu tập mọi thứ thế giới có thể cung cấp!" />
+    <TextStringDefinition InstanceID="0xF4313E00" TextString="{0.SimFirstName} đã sưu tập đủ để bắt đầu thu phí vào {M0.his}{F0.her} bảo tàng cá nhân!\n\nĐặc điểm nhận được: Thợ đánh giá\nSim có thể bán đồ sưu tập với lợi nhuận tăng đáng kể." />
+    <TextStringDefinition InstanceID="0x610F00E5" TextString="Chuyên gia câu cá" />
+    <TextStringDefinition InstanceID="0xE60D8731" TextString="Sim này muốn biết mọi thứ về việc câu cá!" />
+    <TextStringDefinition InstanceID="0x9E05E1F5" TextString="{0.SimFirstName} đã vật lộn với những sinh vật biển lớn nhất mà Mẹ Thiên nhiên có thể ném vào {M0.him}{F0.her}! Chào mừng đến với danh hiệu Chuyên gia câu cá.\n\nĐặc điểm nhận được: Sự tĩnh lặng của người câu cá\nCâu cá có thể chữa nhiều tâm trạng tiêu cực!" />
+    <TextStringDefinition InstanceID="0x407AD6B2" TextString="Nhà thực vật học tự do" />
+    <TextStringDefinition InstanceID="0xBC8A07FE" TextString="Sim này muốn trồng cây và trở thành một chuyên gia làm vườn!" />
+    <TextStringDefinition InstanceID="0xA51845BA" TextString="{0.SimFirstName} đã trồng và ghép chéo mọi loại có thể tưởng tượng, và cuối cùng {M0.his}{F0.her} giấc mơ trở thành Nhà thực vật học tự do đã hoàn thành!\n\nĐặc điểm nhận được: Nhà tự nhiên\nSim không bị lửa và lập tức dập tắt hỏa hoạn." />
+    <TextStringDefinition InstanceID="0x825DD964" TextString="Sim này muốn vui vẻ và nhanh nhẹn!" />
+    <TextStringDefinition InstanceID="0x538BBA54" TextString="{0.SimFirstName} vừa đạt được {M0.his}{F0.her} giấc mơ thời thơ ấu trở thành một vận động viên nhỏ!\n\nĐặc điểm nhận được: Thiên tài về thể chất\nXây dựng kỹ năng thể chất nhanh hơn!" />
+    <TextStringDefinition InstanceID="0x37B1DBD0" TextString="Thần đồng" />
+    <TextStringDefinition InstanceID="0x9BB526E4" TextString="Sim này muốn trở thành đứa trẻ thông minh nhất trong trường!" />
+    <TextStringDefinition InstanceID="0xDB0F37D4" TextString="{0.SimFirstName} vừa đạt được {M0.his}{F0.her} giấc mơ thời thơ ấu trở thành một đứa trẻ xuất chúng!\n\nĐặc điểm nhận được: Thiên tài về trí tuệ\nXây dựng kỹ năng trí tuệ nhanh hơn!" />
+    <TextStringDefinition InstanceID="0xD31FB4C4" TextString="Người lãng mạn hàng loạt" />
+    <TextStringDefinition InstanceID="0x3B196070" TextString="Sim này muốn chơi trò chơi tình yêu và đi hẹn hò với mọi loại người thú vị!" />
+    <TextStringDefinition InstanceID="0xEA5BFFB8" TextString="{0.SimFirstName} đã tìm kiếm tình yêu ở tất cả những nơi đúng đắn, và đạt được {M0.his}{F0.her} giấc mơ trở thành một người sành sỏi lãng mạn!\n\nĐặc điểm nhận được: Người chơi\nSim sẽ không bao giờ gây ra ghen tuông!" />
+    <TextStringDefinition InstanceID="0xC2F53D9B" TextString="Người bạn đời" />
+    <TextStringDefinition InstanceID="0xCEABD0E7" TextString="Sim này muốn tìm thấy và sống một cuộc sống đáng giá với &quot;Người duy nhất&quot;!" />
+    <TextStringDefinition InstanceID="0xD5F3DBC7" TextString="Mối quan hệ cần sự chăm chỉ và tận tâm. Với một chút cả hai, và rất nhiều tình yêu, {0.SimFirstName} đã đạt được {M0.his}{F0.her} giấc mơ trở thành người phối ngẫu hoàn hảo!\n\nĐặc điểm nhận được: Bạn đồng hành\nCác tương tác xã hội với phối ngẫu mới đã được mở khóa!" />
+    <TextStringDefinition InstanceID="0x80335511" TextString="Bộ não mọt sách" />
+    <TextStringDefinition InstanceID="0xDE603515" TextString="Sim này muốn vừa thông minh sách vở vừa khéo léo!" />
+    <TextStringDefinition InstanceID="0x78332D21" TextString="{0.SimFirstName} vừa đạt được {M0.his}{F0.her} giấc mơ trở thành người học rộng! {M0.He}{F0.She} không chỉ thông minh sách vở mà còn sở hữu trí thông minh thực tế!\n\nĐặc điểm nhận được: Khéo léo\n{0.SimFirstName} có thể sửa chữa và nâng cấp đồ vật ngay lập tức!" />
+    <TextStringDefinition InstanceID="0x50E856D8" TextString="Thần đồng máy tính" />
+    <TextStringDefinition InstanceID="0x13CB9B7C" TextString="Sim này muốn biết mọi thứ về máy tính, từ chơi game đến sự nghiệp!" />
+    <TextStringDefinition InstanceID="0xE562EF1C" TextString="{0.SimFirstName} vừa đạt được {M0.his}{F0.her} giấc mơ trở thành một ông trùm máy tính! Chắc chắn, {M0.he}{F0.she} có thể là một chút mọt sách, nhưng {M0.he's}{F0.she's} là một mọt sách rất thành công!\n\nĐặc điểm nhận được: Chủ web\nCác tương tác máy tính mới đã được mở khóa!" />
+    <TextStringDefinition InstanceID="0xA63B30DF" TextString="Sim thời Phục hưng" />
+    <TextStringDefinition InstanceID="0x61C59683" TextString="Sim này muốn giỏi nhiều thứ cùng một lúc!" />
+    <TextStringDefinition InstanceID="0x7C7B63AB" TextString="Người nào nói &quot;Học đầy đủ nhưng không thành chuyên gia&quot; chưa từng gặp {0.SimFirstName}, người vừa đạt được {M0.his}{F0.her} giấc mơ trở thành một Sim thời Phục hưng thực sự!\n\nĐặc điểm nhận được: Giáo sư\n{0.SimFirstName} có thể viết sách trao kỹ năng!" />
+    <TextStringDefinition InstanceID="0x5347D23F" TextString="Bá tước biệt thự" />
+    <TextStringDefinition InstanceID="0xD5983F63" TextString="Sim này là về việc sở hữu ngôi nhà lớn nhất, sang trọng nhất!" />
+    <TextStringDefinition InstanceID="0x5DD7C04B" TextString="{0.SimFirstName} vừa đạt được {M0.his}{F0.her} giấc mơ xây dựng biệt thự tối thượng! {M0.He}{F0.She} chắc chắn đã kiếm được một vòng chiến thắng (sang trọng)!\n\nĐặc điểm nhận được: Tiết kiệm\nNhận hoàn tiền cho tất cả các mua sắm trong Chế độ xây dựng!" />
+    <TextStringDefinition InstanceID="0xBE65DCB8" TextString="Cực kỳ giàu có" />
+    <TextStringDefinition InstanceID="0x3ED28B5C" TextString="Sim này muốn trở nên giàu có và có một sự nghiệp thành công!" />
+    <TextStringDefinition InstanceID="0x8323083C" TextString="Tiết kiệm, dành dụm và những lựa chọn cuộc sống tốt đã dẫn đến điều này: {0.SimFirstName} đã đạt được {M0.his}{F0.her} giấc mơ trở nên cực kỳ giàu có!\n\nĐặc điểm nhận được: Thông minh\nQuỹ hộ gia đình tích lũy lãi suất hàng tuần!" />
+    <TextStringDefinition InstanceID="0xD7D28EC2" TextString="Sim này muốn ăn, thảo luận, ngủ, mơ và sống với bánh mì kẹp phô mai." />
+    <TextStringDefinition InstanceID="0x73CFD26E" TextString="Bánh mì kẹp phô mai" />
+    <TextStringDefinition InstanceID="0x7860896A" TextString="Qua mồ hôi, máu, nước mắt và một số lượng lớn bánh mì kẹp phô mai, {0.SimFirstName} đã đạt được {M0.his}{F0.her} giấc mơ trở thành Bậc thầy tan chảy!\n\nĐặc điểm nhận được: Bậc thầy tan chảy\nBây giờ có thể triệu hồi bánh mì kẹp phô mai và vẽ tranh bánh mì kẹp phô mai." />
+    <TextStringDefinition InstanceID="0x53808AC9" TextString="Bậc thầy pha chế" />
+    <TextStringDefinition InstanceID="0xA5683150" TextString="Đầu bếp cao cấp" />
+    <TextStringDefinition InstanceID="0x75DB5464" TextString="Sim này muốn làm chủ nghệ thuật ẩm thực!" />
+    <TextStringDefinition InstanceID="0xE25D9554" TextString="{0.SimFirstName} vừa đạt được {M0.his}{F0.her} giấc mơ trở thành một người pha chế được kính trọng! {M0.He}{F0.She} vẫn còn một vài mẹo trong tay áo (và trong {M0.his}{F0.her} bình), nên lên nào!\n\nĐặc điểm nhận được: Bậc thầy phép thuật\nCông thức đồ uống mới đã được mở khóa!" />
+    <TextStringDefinition InstanceID="0x5C65236B" TextString="Sim này muốn biết mọi thứ có thể biết về nghệ thuật pha chế!" />
+    <TextStringDefinition InstanceID="0xD9614863" TextString="Qua sự tập trung, thực hành và một số nguyên liệu tuyệt vời, {0.SimFirstName} đã đạt được {M0.his}{F0.her} giấc mơ trở thành đầu bếp cao cấp!\n\nĐặc điểm nhận được: Đầu bếp tươi\nTất cả thực phẩm đã chuẩn bị có chất lượng cao và không bao giờ hỏng." />
+    <TextStringDefinition InstanceID="0x9C363A0C" TextString="Gia đình lớn hạnh phúc" />
+    <TextStringDefinition InstanceID="0x86E587E8" TextString="Sim này muốn xây dựng một hộ gia đình lớn, đầy tình yêu thương!" />
+    <TextStringDefinition InstanceID="0xAEBA2940" TextString="{0.SimFirstName} vừa đạt được giấc mơ có một Gia đình lớn hạnh phúc! Một gia đình đầy tình yêu và sự ủng hộ có lẽ là món quà lớn nhất của cuộc sống, và {0.SimFirstName} chắc chắn sẽ trân trọng nó.\n\nĐặc điểm nhận được: {M0.Patriarch}{F0.Matriarch}\nSự hiện diện của {0.SimFirstName} giúp các thành viên gia đình xây dựng Kỹ năng nhanh hơn." />

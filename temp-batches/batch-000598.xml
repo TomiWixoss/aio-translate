@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x6C19FFE2" TextString="{0.Number} {S0.Khách Hàng Đã Phục Vụ}{P0.Khách Hàng Đã Phục Vụ}" />
+    <TextStringDefinition InstanceID="0x802192E5" TextString="Lợi Nhuận Bữa Ăn:" />
+    <TextStringDefinition InstanceID="0x78D6256B" TextString="Nhà Hàng" />
+    <TextStringDefinition InstanceID="0x3750DA6C" TextString="Thuế Mỗi Đơn Vị: {0.Money} ({1.Money} mỗi Đơn Vị)" />
+    <TextStringDefinition InstanceID="0x6E54C79B" TextString="Thuế Hàng Ngày Mỗi Đơn Vị: {0.Money}" />
+    <TextStringDefinition InstanceID="0xE770AABF" TextString="Cho Thuê Cư Dân" />
+    <TextStringDefinition InstanceID="0xD32C972C" TextString="Xem Tóm Tắt Ca Làm" />
+    <TextStringDefinition InstanceID="0x8A2BCB05" TextString="Chuyển Tiền Kinh Doanh" />
+    <TextStringDefinition InstanceID="0x9B8C2ECE" TextString="Tài Chính Hôm Nay:" />
+    <TextStringDefinition InstanceID="0x98FE0BB3" TextString="Đã Mở Trên &gt; {0.Number} {S0.giờ}{P0.giờ}." />
+    <TextStringDefinition InstanceID="0x6506A49A" TextString="Đã Mở Trong {0.Number} {S0.giờ}{P0.giờ}." />
+    <TextStringDefinition InstanceID="0xB3E3E3EC" TextString="Hiện Đang Đóng Cửa" />
+    <TextStringDefinition InstanceID="0x2329F229" TextString="Bán Cửa Hàng Này" />
+    <TextStringDefinition InstanceID="0xFAA206A2" TextString="Tiền Kinh Doanh:" />
+    <TextStringDefinition InstanceID="0x478C7F6A" TextString="Giá cửa hàng chỉ có thể được điều chỉnh khi cửa hàng đang đóng." />
+    <TextStringDefinition InstanceID="0x11E362BD" TextString="Tỷ Lệ Tăng Giá:" />
+    <TextStringDefinition InstanceID="0x816F8983" TextString="Tài Chính Trước Đây:" />
+    <TextStringDefinition InstanceID="0xC5688B58" TextString="&lt;span class=&quot;positiveFunds&quot;&gt;{0.Money}&lt;/span&gt;" />
+    <TextStringDefinition InstanceID="0x63A65209" TextString="Quyền Lợi Kinh Doanh" />
+    <TextStringDefinition InstanceID="0x3CA7B6A4" TextString="Chi phí bán hàng bao gồm quảng cáo, tái lập kho, và các mua hàng từ Chế Độ Xây Dựng." />
+    <TextStringDefinition InstanceID="0xE4B6967B" TextString="Chi Phí Ra:" />
+    <TextStringDefinition InstanceID="0x13BFB4B5" TextString="Đồng Phục Nhân Viên..." />
+    <TextStringDefinition InstanceID="0xC6D281F0" TextString="Mở" />
+    <TextStringDefinition InstanceID="0xB28EC5AC" TextString="Bạn không thể làm điều này vì các đối tượng cần thiết bị thiếu. Kiểm tra Bảng Thông Tin Lô đất trong Chế Độ Xây Dựng." />
+    <TextStringDefinition InstanceID="0x7D8FA24D" TextString="Lợi Nhuận Bán Hàng là doanh thu của cửa hàng trừ đi chi phí ra. Kiểm tra Báo Cáo Tài Chính của cửa hàng để xem chi tiết tất cả chi phí bán lẻ và lợi nhuận ròng của cửa hàng." />
+    <TextStringDefinition InstanceID="0x57FF49BE" TextString="Lợi Nhuận Bán Hàng:" />
+    <TextStringDefinition InstanceID="0xDE1F5800" TextString="&lt;span class=&quot;negativeFunds&quot;&gt;{0.Money}&lt;/span&gt;" />
+    <TextStringDefinition InstanceID="0x09E22F37" TextString="+1" />
+    <TextStringDefinition InstanceID="0xB4F02FA2" TextString="Số lượng mặt hàng đã bán. Kiểm tra Báo Cáo Tài Chính của cửa hàng để xem doanh thu thu được trong ca làm." />
+    <TextStringDefinition InstanceID="0x416F9535" TextString="Mặt Hàng Đã Bán:" />
+    <TextStringDefinition InstanceID="0x94ADAD9E" TextString="Quản Lý Nhân Viên" />
+    <TextStringDefinition InstanceID="0x6C79A05E" TextString="Đóng Cửa Hàng" />
+    <TextStringDefinition InstanceID="0xDA15DD68" TextString="Bạn không thể bán cửa hàng khi nó đang mở." />
+    <TextStringDefinition InstanceID="0x4DDD0A5C" TextString="Bạn không thể mở kinh doanh này vì không đủ tiền để trang trải chi phí. Sử dụng nút Chuyển Tiền Kinh Doanh để chuyển tiền từ hộ gia đình của bạn để có thể mở." />
+    <TextStringDefinition InstanceID="0xD390CFFD" TextString="Bạn không thể quản lý nhân viên khi có trẻ em hoặc khi một Sim đang chết." />
+    <TextStringDefinition InstanceID="0x236824F5" TextString="Bạn không thể quản lý trang phục của nhân viên khi một Sim đang chết." />
+    <TextStringDefinition InstanceID="0x66121EBC" TextString="Điểm Quyền Lợi:" />
+    <TextStringDefinition InstanceID="0xFC8D883C" TextString="Chọn Người Được Giao" />
+    <TextStringDefinition InstanceID="0x6C6F0587" TextString="Cuộc Thi Ngựa" />
+    <TextStringDefinition InstanceID="0x28539980" TextString="Trình Độ Kỹ Năng" />
+    <TextStringDefinition InstanceID="0x75BE9E71" TextString="Thay Đổi" />
+    <TextStringDefinition InstanceID="0xE587A565" TextString="Phần Thưởng" />
+    <TextStringDefinition InstanceID="0x2B036E90" TextString="Đề Xuất" />
+    <TextStringDefinition InstanceID="0xF5CF5012" TextString="Không có Sim nào đủ điều kiện hiện diện. Người cưỡi ngựa phải ở trong khu vực, từ tuổi thiếu niên trở lên và không mang thai." />
+    <TextStringDefinition InstanceID="0x2D02BAAC" TextString="Không có Ngựa nào đủ điều kiện hiện diện. Ngựa phải ở trong khu vực và không được là Ngựa Con hoặc mang thai.\n\nĐể mang Ngựa từ khu vực khác, chọn biểu tượng Còi bên cạnh chân dung Ngựa." />
+    <TextStringDefinition InstanceID="0x60DD0076" TextString="Không có Sim hoặc Ngựa nào đủ điều kiện trong khu vực." />
+    <TextStringDefinition InstanceID="0x3B8EB1A7" TextString="Không có Sim nào đủ điều kiện trong khu vực." />
+    <TextStringDefinition InstanceID="0x6675C58D" TextString="Không Có Ngựa Trên Lô Đất" />
+    <TextStringDefinition InstanceID="0x828D4B61" TextString="Chưa Chọn Cuộc Thi" />
+    <TextStringDefinition InstanceID="0xD3F5C908" TextString="Chào mừng đến với Trung Tâm Ngựa Hay Now!\n\nThể hiện Kỹ Năng của bạn bằng cách thi đấu với những người giỏi nhất!\n\nĐể bắt đầu, chọn loại cuộc thi tiếp theo là độ khó. Bạn phải đạt hạng 1, 2, hoặc 3 để đủ điều kiện tham gia các phân độ khó hơn.\n\nMột Ngựa chỉ có thể thi đấu một lần mỗi ngày, nhưng người cưỡi có thể thi đấu nhiều lần mỗi ngày trên các Ngựa khác. Ngựa Con và Ngựa mang thai không đủ điều kiện.\n\nCả Ngựa và người cưỡi phải có mặt để thi đấu. Để mang họ đến, chọn biểu tượng Còi gần chân dung của họ." />

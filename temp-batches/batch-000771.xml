@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x36ACBDF1" TextString="handcuffGEN_01_set1" />
+    <TextStringDefinition InstanceID="0xD03877CE" TextString="handcuffGEN_01_set1" />
+    <TextStringDefinition InstanceID="0x06086AA8" TextString="*** DEBUG ***" />
+    <TextStringDefinition InstanceID="0xE9AD5C3D" TextString="*** DEBUG ***" />
+    <TextStringDefinition InstanceID="0x6078938E" TextString="Thiết bị nướng than Carbonette" />
+    <TextStringDefinition InstanceID="0xE3B13F37" TextString="Một thiết bị nướng kiên cố, không cầu kỳ giống như những cái trong công viên công cộng, nhưng không có tro và dầu mỡ thừa." />
+    <TextStringDefinition InstanceID="0x9A0A35D3" TextString="GrillWise by GrillMania" />
+    <TextStringDefinition InstanceID="0x67372F7C" TextString="Được thiết kế cho những người đam mê ẩm thực nướng lửa, thiết bị nướng này được chế tạo để chịu mọi thứ bạn ném vào lưới háo hức và sẵn sàng của nó." />
+    <TextStringDefinition InstanceID="0x0AFEE904" TextString="The Incendiator by GrillMania" />
+    <TextStringDefinition InstanceID="0xE62A4431" TextString="Tận hưởng công nghệ propane tiên tiến nhất của GrillMania. Thiết bị nướng hàng đầu này chứng tỏ bạn nghiêm túc về thịt và rau nướng cháy." />
+    <TextStringDefinition InstanceID="0x7E7B132B" TextString="Master Del Grill - Thiết bị nướng truyền thống" />
+    <TextStringDefinition InstanceID="0x02F8F7E4" TextString="Dù bạn gọi là Barbacoa, BBQ hay Parrilla, thiết bị nướng này sẽ đưa kỹ năng nấu ăn của bạn lên tầm cao mới. Với kích thước hoàn hảo cho bất kỳ lô đất nào, thiết bị nướng này sẽ đồng hành cùng bạn qua những ngày hè vui vẻ với bạn bè chơi Dominoes trong khi uống vài ly nước có ga. Nó sẽ đưa bạn qua mỗi cuối tuần không mưa, với âm nhạc lớn, điệu nhảy thiếu phối hợp, và đôi khi là một hoặc hai bữa tiệc bể bơi. Một sự bổ sung tuyệt vời cho bất kỳ không gian nào, với thiết kế đầy màu sắc và nhỏ gọn, hoàn hảo để tạo nên kỷ niệm cho các thế hệ tương lai." />
+    <TextStringDefinition InstanceID="0xD713D894" TextString="Mộ chí cổ điển nghiêng" />
+    <TextStringDefinition InstanceID="0xFE3CECE1" TextString="Dù có thể không phải mộ chí thời trang nhất, ít nhất bạn biết phong cách của bạn sẽ kéo dài đến vĩnh cửu." />
+    <TextStringDefinition InstanceID="0xFCF3A05B" TextString="Mộ chí cổ điển thẳng đứng" />
+    <TextStringDefinition InstanceID="0x4862E1F4" TextString="Dù có thể không phải mộ chí thời trang nhất, ít nhất bạn biết phong cách của bạn sẽ kéo dài đến vĩnh cửu." />
+    <TextStringDefinition InstanceID="0x0195DCBE" TextString="glassBarPint PH Name" />
+    <TextStringDefinition InstanceID="0x3BFE9070" TextString="Cổng Tiên" />
+    <TextStringDefinition InstanceID="0x98350B55" TextString="Đầy duyên quê mộc, cổng đơn giản này thêm một chút rừng vào khu vườn của bạn." />
+    <TextStringDefinition InstanceID="0x3CCA0198" TextString="Cổng Vườn" />
+    <TextStringDefinition InstanceID="0x077F9C4D" TextString="Một cổng quê mộc đầy mời gọi cho nhà trại, trang trại hoặc vườn của bạn." />
+    <TextStringDefinition InstanceID="0xCC661394" TextString="Cổng Nhìn Xa Hẹp" />
+    <TextStringDefinition InstanceID="0xAA10C5E1" TextString="Mang lại một cái nhìn thoáng qua ngôi nhà đương đại của bạn trong khi đảm bảo không ai có thể vào." />
+    <TextStringDefinition InstanceID="0x1AB76812" TextString="Cổng Đế chế" />
+    <TextStringDefinition InstanceID="0x9EEA29C3" TextString="Được thiết kế khéo léo để hạ thấp khách mời trong khi đánh lạc hướng ánh mắt tò mò." />
+    <TextStringDefinition InstanceID="0x5FF53899" TextString="Giống như cổng nhà tù, nhưng sang hơn." />
+    <TextStringDefinition InstanceID="0x2774799F" TextString="Đơn giản và An toàn" />
+    <TextStringDefinition InstanceID="0x684F3D0A" TextString="Cổng Nơi Thánh" />
+    <TextStringDefinition InstanceID="0x2BF3638B" TextString="Thiết kế hình học tinh xảo nhắc nhở khách truy cập rằng họ đang bước vào vòng tròn tin cậy của bạn." />
+    <TextStringDefinition InstanceID="0x66E2963E" TextString="{S.Bánh sandwich Monte Cristo}{P.Các bánh sandwich Monte Cristo}" />
+    <TextStringDefinition InstanceID="0xB2ECA675" TextString="Bánh sandwich cá haddock" />
+    <TextStringDefinition InstanceID="0xBF1D37E1" TextString="{S.Bánh sandwich BLT}{P.Các bánh sandwich BLT}" />
+    <TextStringDefinition InstanceID="0xCC5D0539" TextString="{S.Thịt gà Saltimbocca}{P.Các đĩa thịt gà Saltimbocca}" />
+    <TextStringDefinition InstanceID="0x8F90B2C4" TextString="{S.Cá hồi hấp}{P.Các đĩa cá hồi hấp}" />
+    <TextStringDefinition InstanceID="0xA8F4E1C1" TextString="{S.Cá hồi vỏ thảo mộc}{P.Các đĩa cá hồi vỏ thảo mộc}" />
+    <TextStringDefinition InstanceID="0x78A1BA72" TextString="Cá hồi" />
+    <TextStringDefinition InstanceID="0x6C3CFFBA" TextString="{S.Salad khoai tây}{P.Salad khoai tây}" />
+    <TextStringDefinition InstanceID="0xFD9D1AF5" TextString="{S.Salad Nicoise}{P.Các đĩa Salad Nicoise}" />
+    <TextStringDefinition InstanceID="0x33009FBB" TextString="Salad lục lạc" />
+    <TextStringDefinition InstanceID="0xE8DC2E4C" TextString="{S.Salad vườn}{P.Salad vườn}" />
+    <TextStringDefinition InstanceID="0x5DCFEA45" TextString="{S.Salad trái cây}{P.Salad trái cây}" />
+    <TextStringDefinition InstanceID="0x5F53E65C" TextString="{S.Gà nướng}{P.Các đĩa gà nướng}" />
+    <TextStringDefinition InstanceID="0x1E7B1924" TextString="{S.Ravioli nấm}{P.Các đĩa ravioli nấm}" />
+    <TextStringDefinition InstanceID="0x87261292" TextString="{S.Cừu sườn}{P.Các đĩa cừu sườn}" />
+    <TextStringDefinition InstanceID="0xE9C77911" TextString="{S.Đĩa giàu protein}{P.Các đĩa giàu protein}" />
+    <TextStringDefinition InstanceID="0x6AEC1660" TextString="Bánh quế" />
+    <TextStringDefinition InstanceID="0x3B16AB3A" TextString="{S.Khoai tây au gratin}{P.Các đĩa khoai tây au gratin}" />
+    <TextStringDefinition InstanceID="0x7EFC77B2" TextString="{S.Sườn heo}{P.Sườn heo}" />
+    <TextStringDefinition InstanceID="0x662780D2" TextString="{S.Miếng pizza}{P.Miếng pizza}" />
+    <TextStringDefinition InstanceID="0x85C96682" TextString="{S.Miếng bánh táo}{P.Miếng bánh táo}" />

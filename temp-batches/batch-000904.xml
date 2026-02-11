@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x06A5566A" TextString="Giám đốc, EA Create Sản xuất" />
+    <TextStringDefinition InstanceID="0x80424EF5" TextString="Giám đốc, EA Create Vận hành và Chiến lược" />
+    <TextStringDefinition InstanceID="0x16613C18" TextString="Giám đốc - Tiếp thị Thương hiệu Quốc tế" />
+    <TextStringDefinition InstanceID="0xB55AACF9" TextString="Các Giám đốc Phát triển" />
+    <TextStringDefinition InstanceID="0x1E286751" TextString="Giám đốc Phát triển cho EA Music" />
+    <TextStringDefinition InstanceID="0x0AF339EC" TextString="Nhà thiết kế Chính - StrangerVille" />
+    <TextStringDefinition InstanceID="0x39C8C35F" TextString="Giám đốc Thiết kế" />
+    <TextStringDefinition InstanceID="0xD91A0D65" TextString="Các Giám đốc Phát triển" />
+    <TextStringDefinition InstanceID="0xA0DE5E65" TextString="Sản phẩm Tiêu dùng Disney, <i>Star Wars</i>" />
+    <TextStringDefinition InstanceID="0x2A18A1CB" TextString="Phó chủ tịch, Cấp phép" />
+    <TextStringDefinition InstanceID="0xEF4D5EF2" TextString="Phó chủ tịch Cấp cao, Cấp phép và Nhượng quyền" />
+    <TextStringDefinition InstanceID="0x35065AD0" TextString="Giám đốc Nghệ thuật" />
+    <TextStringDefinition InstanceID="0x7B628861" TextString="Dữ liệu và Phân tích (DnA)" />
+    <TextStringDefinition InstanceID="0x0F2A1E5E" TextString="The Sims™ 4 Gói đồ dùng Nifty Knitting © 2020 Electronic Arts Inc." />
+    <TextStringDefinition InstanceID="0xA66CC296" TextString="The Sims™ 4 Gói đồ dùng Tiny Living © 2020 Electronic Arts Inc." />
+    <TextStringDefinition InstanceID="0xD4443654" TextString="The Sims™ 4 Gói đồ dùng Moschino © 2019 Electronic Arts Inc." />
+    <TextStringDefinition InstanceID="0x2C3D33A7" TextString="The Sims™ 4 Gói trò chơi Realm of Magic © 2019 Electronic Arts Inc." />
+    <TextStringDefinition InstanceID="0x6D646C05" TextString="The Sims™ 4 Gói mở rộng Snowy Escape © 2020 Electronic Arts Inc." />
+    <TextStringDefinition InstanceID="0xD872DFD1" TextString="The Sims™ 4 Gói mở rộng Discover University © 2019 Electronic Arts Inc." />
+    <TextStringDefinition InstanceID="0x1ECD0EC4" TextString="The Sims™ 4 Bộ Prairie Dreams © 2025 Electronic Arts Inc." />
+    <TextStringDefinition InstanceID="0x1FCD10BC" TextString="The Sims™ 4 Bộ Garden to Table © 2025 Electronic Arts Inc." />
+    <TextStringDefinition InstanceID="0x1FCD10BB" TextString="The Sims™ 4 Bộ Modern Retreat © 2025 Electronic Arts Inc." />
+    <TextStringDefinition InstanceID="0x1FCD10BA" TextString="The Sims™ 4 Bộ Essential Glam © 2025 Electronic Arts Inc." />
+    <TextStringDefinition InstanceID="0x1FCD10B9" TextString="The Sims™ 4 Bộ Grange Mudroom © 2025 Electronic Arts Inc." />
+    <TextStringDefinition InstanceID="0x1FCD10B8" TextString="The Sims™ 4 Bộ SpongeBob Kid's Room © 2025 Electronic Arts Inc." />
+    <TextStringDefinition InstanceID="0x20CD1222" TextString="The Sims™ 4 Bộ Autumn Apparel © 2025 Electronic Arts Inc." />
+    <TextStringDefinition InstanceID="0x20CD1223" TextString="The Sims™ 4 Bộ SpongeBob's House © 2025 Electronic Arts Inc." />
+    <TextStringDefinition InstanceID="0x20CD122C" TextString="The Sims™ 4 Bộ Kitchen Clutter © 2025 Electronic Arts Inc." />
+    <TextStringDefinition InstanceID="0x20CD122D" TextString="The Sims™ 4 Bộ Golden Years © 2025 Electronic Arts Inc." />
+    <TextStringDefinition InstanceID="0x20CD122E" TextString="The Sims™ 4 Bộ Restoration Workshop © 2025 Electronic Arts Inc." />
+    <TextStringDefinition InstanceID="0x20CD122F" TextString="The Sims™ 4 Bộ Sweet Allure © 2025 Electronic Arts Inc." />
+    <TextStringDefinition InstanceID="0x20CD1228" TextString="The Sims™ 4 Bộ Sleek Bathroom © 2025 Electronic Arts Inc." />
+    <TextStringDefinition InstanceID="0x20CD1229" TextString="The Sims™ 4 Bộ Business Chic © 2024 Electronic Arts Inc." />
+    <TextStringDefinition InstanceID="0x20CD122A" TextString="The Sims™ 4 Bộ Refined Living Room © 2024 Electronic Arts Inc." />
+    <TextStringDefinition InstanceID="0x20CD122B" TextString="The Sims™ 4 Bộ Casanova Cave © 2025 Electronic Arts Inc." />
+    <TextStringDefinition InstanceID="0x21CD1397" TextString="The Sims™ 4 Bộ Secret Sanctuary © 2025 Electronic Arts Inc." />
+    <TextStringDefinition InstanceID="0x21CD1396" TextString="The Sims™ 4 Bộ Comfy Gamer © 2025 Electronic Arts Inc." />
+    <TextStringDefinition InstanceID="0x21CD1399" TextString="The Sims™ 4 Bộ Cozy Kitsch © 2024 Electronic Arts Inc." />
+    <TextStringDefinition InstanceID="0x21CD1398" TextString="The Sims™ 4 Bộ Sweet Slumber Party © 2024 Electronic Arts Inc." />
+    <TextStringDefinition InstanceID="0x21CD139B" TextString="The Sims™ 4 Bộ Storybook Nursery © 2024 Electronic Arts Inc." />
+    <TextStringDefinition InstanceID="0x21CD139A" TextString="The Sims™ 4 Bộ Artist Studio © 2024 Electronic Arts Inc." />
+    <TextStringDefinition InstanceID="0x21CD139D" TextString="The Sims™ 4 Bộ Cozy Bistro © 2024 Electronic Arts Inc." />
+    <TextStringDefinition InstanceID="0x21CD139C" TextString="The Sims™ 4 Bộ Riviera Retreat © 2024 Electronic Arts Inc." />
+    <TextStringDefinition InstanceID="0x21CD139F" TextString="The Sims™ 4 Bộ Party Essentials © 2024 Electronic Arts Inc." />
+    <TextStringDefinition InstanceID="0x21CD139E" TextString="The Sims™ 4 Bộ Urban Homage © 2024 Electronic Arts Inc." />
+    <TextStringDefinition InstanceID="0x22CD1579" TextString="The Sims™ 4 Bộ Goth Galore © 2024 Electronic Arts Inc." />
+    <TextStringDefinition InstanceID="0x22CD1576" TextString="The Sims™ 4 Bộ Castle Estate © 2024 Electronic Arts Inc." />
+    <TextStringDefinition InstanceID="0x22CD1577" TextString="The Sims™ 4 Gói đồ dùng Home Chef Hustle © 2023 Electronic Arts Inc." />
+    <TextStringDefinition InstanceID="0x22CD1574" TextString="The Sims™ 4 Bộ Modern Luxe © 2023 Electronic Arts Inc." />
+    <TextStringDefinition InstanceID="0x22CD1575" TextString="The Sims™ 4 Bộ Poolside Splash © 2023 Electronic Arts Inc." />

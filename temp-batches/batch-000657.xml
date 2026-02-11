@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x67022B4D" TextString="Bạn biết không? Thật tuyệt vời khi dành thời gian với bạn! Chúng ta đã tạo nên những kỷ niệm tuyệt vời, và chúng ta sẽ tạo thêm nhiều nữa. Tôi chắc chắn về điều đó." />
+    <TextStringDefinition InstanceID="0x33CBD589" TextString="Việc bạn dành thời gian cho tôi thực sự rất có ý nghĩa. Chỉ muốn cho bạn biết thôi." />
+    <TextStringDefinition InstanceID="0x329DBF82" TextString="Cảm xúc tăng" />
+    <TextStringDefinition InstanceID="0xC7BBA233" TextString="Bạn làm ngày của tôi tốt hơn nhiều! Cảm ơn vì đã khiến tôi cười." />
+    <TextStringDefinition InstanceID="0x7FDF3318" TextString="Bạn thật vui vẻ khi ở bên! Tôi thực sự thích dành thời gian với bạn, và tôi hy vọng bạn cũng cảm thấy như vậy về tôi." />
+    <TextStringDefinition InstanceID="0x430AB64E" TextString="Tôi rất vui vì bạn không nghĩ những câu đùa về lạc đà của tôi đã cũ. Tôi cảm thấy bạn thực sự hiểu tôi." />
+    <TextStringDefinition InstanceID="0xDB3F7217" TextString="Cảm xúc tăng" />
+    <TextStringDefinition InstanceID="0xBC2BD23C" TextString="Bạn là anh hùng của tôi! Tôi hứa sẽ không quên rằng tôi nợ cuộc đời mình cho hành động anh hùng của bạn." />
+    <TextStringDefinition InstanceID="0x330D7A21" TextString="Ái chà! Tôi vẫn còn... sống ư? Ồ... Tôi sống! Tôi đoán là bạn đã cứu tôi, hả? Cảm ơn rất nhiều! Thật sự. Ôi trời. Suýt thì. Tôi nợ bạn nhiều lắm!" />
+    <TextStringDefinition InstanceID="0x619F6975" TextString="Ồ, bạn vừa mới cứu mạng tôi! Lời nói không thể diễn tả được sự biết ơn của tôi. Thật sự. Tôi sẽ không quên điều này!" />
+    <TextStringDefinition InstanceID="0x091D2514" TextString="{0.SimFirstName} thấy rằng mật đỏ kết hợp rất tốt với bữa ăn của {M0.his}{F0.her}." />
+    <TextStringDefinition InstanceID="0x6DE3CE95" TextString="Dầu gội là thứ cần thiết cho bất kỳ người leo núi nào, và chúng tôi tại Wilderness Digest sẽ hướng dẫn bạn cách chế tạo hỗn hợp yêu thích từ quả mâm xôi và thảo mới! Cà chua biển, dâu tây, và một chút tây làm nên một chất xịt cơ thể thiên đường che giấu cả những mùi hôi nhất." />
+    <TextStringDefinition InstanceID="0xBDDCF266" TextString="Côn trùng có thể trông ghê tởm, nhưng những loài kỳ lạ và bất thường có thể được tìm thấy trong Rừng Sâu. Bắt được Đom đóm Cầu vồng không chỉ cho bạn quyền được khoe khoang, mà bạn còn có thể bán nó để kiếm nhiều Simoleon!" />
+    <TextStringDefinition InstanceID="0xC44FAFB6" TextString="Những trường hợp nhìn thấy Sim bí ẩn sống trong Rừng Sâu! Các Sim vô danh đã nói rằng họ đã học được các công thức bí mật từ bậc thầy thảo dược bí ẩn này." />
+    <TextStringDefinition InstanceID="0xA07574BD" TextString="Xúc xích và đậu là một trong những món ăn phổ biến nhất khi cắm trại. Nhưng hãy cẩn thận! Những thứ này gây đầy hơi!" />
+    <TextStringDefinition InstanceID="0xA3F2D34F" TextString="Kỳ nghỉ là một cách tuyệt vời để giảm căng thẳng và thư giãn. Hãy nghỉ phép có lương để đảm bảo các hóa đơn được thanh toán khi bạn vắng mặt." />
+    <TextStringDefinition InstanceID="0x256A84F8" TextString="Nhớ nhé: ngay cả khi bạn xa nhà, bạn vẫn có thể chết. Hãy đảm bảo bạn có tất cả các vật dụng cần thiết, hoặc tự chế chúng từ những thứ bạn tìm thấy trong thiên nhiên!" />
+    <TextStringDefinition InstanceID="0xE587B40E" TextString="Balsam Dưỡng Da Có Tác Dịu Có thể được sử dụng để loại bỏ ngứa! Làm nó bằng cúc La Mã, húng quế, và bọ chét." />
+    <TextStringDefinition InstanceID="0x25639FBB" TextString="Ăn phải thứ gì đó tồi? Hãy thử làm một liệu pháp dạ dày. Nguyên liệu: Cà chua biển, xạ hương, và mối." />
+    <TextStringDefinition InstanceID="0x089888FD" TextString="Món Walleye Surprise là một công thức cắm trại tuyệt vời! Nếu bạn có kỹ năng nấu ăn cao, bạn có thể làm món này. Nguyên liệu cần một con Walleye, một ít Cà chua biển, và bọ chét. Bạn có thể trở nên cảm hứng từ việc nấu nó!" />
+    <TextStringDefinition InstanceID="0x3BE484EA" TextString="Đừng bỏ lỡ cuộc phỏng vấn độc quyền với Ranger Boyd! Anh ấy chia sẻ kinh nghiệm và bí mật của mình về Will-o-the-Wisp hiếm có được tìm thấy sâu trong rừng Granite Falls." />
+    <TextStringDefinition InstanceID="0x7D26808E" TextString="Cua đất phổ biến trong vùng nước xung quanh Granite Falls, nhưng người câu cá thực thụ sẽ tìm kiếm con Cua Đất Xanh hiếm có. Đọc tiếp để biết các mẹo và thủ thuật câu cá từ chính Angler Bob của Wilderness Digest!" />
+    <TextStringDefinition InstanceID="0x20D805F7" TextString="{0.SimFirstName} đã nhận được các Bộ Phận Nâng Cấp sau:\n{2.String}" />
+    <TextStringDefinition InstanceID="0x69DCDAE2" TextString="Từ những vùng ẩm ướt sâu trong thùng rác {0.SimFirstName} đã thu hồi:\n{2.String}" />
+    <TextStringDefinition InstanceID="0x02B2924A" TextString="Trong khi trốn trong thùng rác, {0.SimFirstName} đã tìm thấy món đồ chơi này:\n{2.String}" />
+    <TextStringDefinition InstanceID="0x00110BC1" TextString="Chúc mừng, một bản in không gian sưu tầm đã được thêm vào Kho đồ của {0.SimFirstName}!" />
+    <TextStringDefinition InstanceID="0xD609644C" TextString="Chúc mừng, một bản in sưu tầm bí ẩn đã được thêm vào Kho đồ của {0.SimFirstName}!" />
+    <TextStringDefinition InstanceID="0x4B6D4A25" TextString="Chúc mừng, một bản in sưu tầm bầu trời đã được thêm vào Kho đồ của {0.SimFirstName}!" />
+    <TextStringDefinition InstanceID="0xBD8E364D" TextString="Người ngoài hành tinh thực sự thích thói quen của {0.SimFirstName} đến mức, một trong số họ đã ném thứ gì đó lên nền tảng không gian:\n{2.String}" />
+    <TextStringDefinition InstanceID="0xC047F924" TextString="{0.SimFirstName} đã tìm thấy kho báu, và đã nhận được:\n{2.String}" />
+    <TextStringDefinition InstanceID="0x0E2196A3" TextString="{0.SimFirstName} đã tìm thấy một số mảnh vỡ không gian." />
+    <TextStringDefinition InstanceID="0x485A600B" TextString="{0.SimFirstName} đã tìm thấy thứ gì đó trong chuyến đi của {M0.his}{F0.her}:\n{2.String}" />
+    <TextStringDefinition InstanceID="0x268D4FA0" TextString="{0.SimFirstName} đã tìm thấy một chiếc cúp MySims hiếm có:\n{2.String}" />
+    <TextStringDefinition InstanceID="0xC6934A79" TextString="{0.SimFirstName} đã tìm thấy một chiếc cúp MySims:\n{2.String}" />
+    <TextStringDefinition InstanceID="0x3FF448DF" TextString="Một mẫu kính hiển vi đã được thêm vào kho đồ của {0.SimFirstName}. {M0.He}{F0.She} có thể sử dụng Món Đồ Kính Hiển Vi để Phân tích nó." />
+    <TextStringDefinition InstanceID="0x04601D11" TextString="Nghiên cứu tỉ mỉ của {0.SimFirstName} cuối cùng đã mang lại kết quả đáng kinh ngạc. Một bản in về phát hiện của {M0.his}{F0.her} đã được thêm vào kho đồ của {M0.his}{F0.her}." />
+    <TextStringDefinition InstanceID="0xBA766616" TextString="{0.SimFirstName} đã tìm thấy một số kim loại. {M0.He}{F0.She} đã nhận được:\n {2.String}" />
+    <TextStringDefinition InstanceID="0x46B94FF2" TextString="Ồ, một bản in mặt trăng sưu tầm đã được thêm vào Kho đồ của {0.SimFirstName}!" />
+    <TextStringDefinition InstanceID="0xE9FB926B" TextString="Thật xui xẻo! {0.SimFirstName} đã tìm thấy một thứ ngẫu nhiên:\n{2.String}" />
+    <TextStringDefinition InstanceID="0x50D61AC7" TextString="{0.SimFirstName} đã tìm thấy thứ gì đó:\n{2.String}" />
+    <TextStringDefinition InstanceID="0x4E8479F9" TextString="{0.SimFirstName} đã tìm thấy một hóa thạch khi đào. Món đồ sau đã được đặt trong Kho đồ Gia đình của {M0.his}{F0.her}:\n{2.String}" />
+    <TextStringDefinition InstanceID="0xD5BB130F" TextString="{0.SimFirstName} đã hoàn thành việc khai quật và tìm thấy món đồ này:\n{2.String}" />
+    <TextStringDefinition InstanceID="0x341AF19B" TextString="{0.SimFirstName} đã tìm thấy viên tinh thể này:\n{2.String}" />
+    <TextStringDefinition InstanceID="0x98E12A67" TextString="{0.SimFirstName} đã ép ra một chất lỏng bí ẩn:\n{2.String}" />
+    <TextStringDefinition InstanceID="0x94C2B53F" TextString="{0.SimFirstName} đã nhận được những thứ sau từ {1.ObjectName}:\n{2.String}" />
+    <TextStringDefinition InstanceID="0x7690544C" TextString="{0.SimFirstName} đã tìm thấy một người ngoài hành tinh!" />
+    <TextStringDefinition InstanceID="0x192B31AA" TextString="{0.SimFirstName} đã nhận được một người ngoài hành tinh được bảo quản!" />
+    <TextStringDefinition InstanceID="0xDCC2381A" TextString="Một Người Nuôi Thú Cưng sẽ chăm sóc {0.SimFirstName} trong kỳ nghỉ. Chúc bạn có chuyến đi vui vẻ!" />
+    <TextStringDefinition InstanceID="0x436BC449" TextString="Một Người Giúp Việc sẽ chăm sóc {0.SimFirstName} trong khi Sim của bạn đi nghỉ! Thưởng thức thời gian nghỉ ngơi!" />
+    <TextStringDefinition InstanceID="0x519D16B2" TextString="Một Người Nuôi Thú Cưng sẽ chăm sóc {0.SimFirstNameList} trong kỳ nghỉ. Chúc bạn có chuyến đi vui vẻ!" />

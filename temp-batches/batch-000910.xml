@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x64EE90C3" TextString="Chọn Màu Đường viền Đơn vị" />
+    <TextStringDefinition InstanceID="0xFF9CA8B9" TextString="Địa điểm" />
+    <TextStringDefinition InstanceID="0x5450AB19" TextString="Điều gì chờ đón trong Nhà Ma" />
+    <TextStringDefinition InstanceID="0xFDA0C383" TextString="Đường viền Đơn vị (O) - Bật/tắt hiển thị Đường viền Đơn vị" />
+    <TextStringDefinition InstanceID="0xC15854B9" TextString="Cấu hình Đơn vị" />
+    <TextStringDefinition InstanceID="0x6F5F0DA7" TextString="Hoàn tác (Ctrl+Z) - Hoàn tác hành động" />
+    <TextStringDefinition InstanceID="0x2437C037" TextString="Bảng Đặc điểm" />
+    <TextStringDefinition InstanceID="0x100E8839" TextString="Phần thưởng Lô Địa điểm Nhà ở Nhỏ (theo Cấp)" />
+    <TextStringDefinition InstanceID="0xF4C27F30" TextString="Doanh nghiệp Nhỏ" />
+    <TextStringDefinition InstanceID="0x80E675AC" TextString="Búa đập (K) - Xóa một thành phần hoặc vật thể" />
+    <TextStringDefinition InstanceID="0x7C5E7D48" TextString="Chọn (H) - Kích hoạt một vật thể hoặc thành phần" />
+    <TextStringDefinition InstanceID="0xBF7E7153" TextString="Lưu Phòng - Không có phòng nào được chọn" />
+    <TextStringDefinition InstanceID="0x8129B913" TextString="Lưu Phòng" />
+    <TextStringDefinition InstanceID="0x3987C4FA" TextString="Lưu Phòng - Bạn có {0.Number} ma-nơ-canh quá nhiều trong phòng này!" />
+    <TextStringDefinition InstanceID="0x46F603C9" TextString="Lưu Lô đất" />
+    <TextStringDefinition InstanceID="0x7C9AB900" TextString="Lưu vào Thư viện Cá nhân - Lưu lô đất của bạn vào Thư viện" />
+    <TextStringDefinition InstanceID="0xCD3F3121" TextString="Làm lại (Ctrl+Y) - Làm lại hành động" />
+    <TextStringDefinition InstanceID="0x3271CEF1" TextString="Di chuyển Nhà - U" />
+    <TextStringDefinition InstanceID="0xD12A61F3" TextString="Thông tin Địa điểm" />
+    <TextStringDefinition InstanceID="0x46629604" TextString="Tên Lô đất" />
+    <TextStringDefinition InstanceID="0x5C9D83B9" TextString="Bảng Thông tin Lô đất" />
+    <TextStringDefinition InstanceID="0x01D94EEB" TextString="Thông tin Công việc" />
+    <TextStringDefinition InstanceID="0xA8068851" TextString="Cây lấy màu (E) - Sao chép Vật thể" />
+    <TextStringDefinition InstanceID="0xE73431D0" TextString="Công cụ Thiết kế (R) - Thay đổi màu vật thể" />
+    <TextStringDefinition InstanceID="0x663E35D0" TextString="Địa điểm Hiện tại" />
+    <TextStringDefinition InstanceID="0x85FE98F6" TextString="San ủi Địa hình" />
+    <TextStringDefinition InstanceID="0x5863C6F4" TextString="San ủi Lô đất" />
+    <TextStringDefinition InstanceID="0x50BDC5DB" TextString="San ủi Nội thất Đơn vị" />
+    <TextStringDefinition InstanceID="0x1D27C782" TextString="Bạn không thể san ủi lô đất này khi các đơn vị đang được người thuê chiếm dụng." />
+    <TextStringDefinition InstanceID="0xE0A1794B" TextString="Ấm đun nước" />
+    <TextStringDefinition InstanceID="0x5D5C33F0" TextString="Tương cà" />
+    <TextStringDefinition InstanceID="0xDAE046D8" TextString="Dầu hỏa" />
+    <TextStringDefinition InstanceID="0x6417BE22" TextString="Thiết bị tập thể" />
+    <TextStringDefinition InstanceID="0x932D6991" TextString="Rừng nhiệt đới" />
+    <TextStringDefinition InstanceID="0xD29BAFB5" TextString="Nhà báo" />
+    <TextStringDefinition InstanceID="0x7707D4AE" TextString="Nhà tù" />
+    <TextStringDefinition InstanceID="0xCC8B7D84" TextString="Nhạc cụ" />
+    <TextStringDefinition InstanceID="0xCB6EE08D" TextString="Nhạc cụ" />
+    <TextStringDefinition InstanceID="0x5A63BAD7" TextString="Nguyên liệu" />
+    <TextStringDefinition InstanceID="0x7B815E3E" TextString="Đồ bay phồng" />
+    <TextStringDefinition InstanceID="0x686CE1AA" TextString="Thùng đá" />
+    <TextStringDefinition InstanceID="0x153F92AB" TextString="Vệ sinh" />
+    <TextStringDefinition InstanceID="0x59112D5D" TextString="Thủy lực" />
+    <TextStringDefinition InstanceID="0xEE9B9D00" TextString="Tủ kính" />
+    <TextStringDefinition InstanceID="0x725DA17F" TextString="Đói" />
+    <TextStringDefinition InstanceID="0x009D954C" TextString="Tương ớt" />
+    <TextStringDefinition InstanceID="0xD6A8396C" TextString="Bệnh viện" />
+    <TextStringDefinition InstanceID="0x4A275414" TextString="Khu vực" />
+    <TextStringDefinition InstanceID="0xC629B64E" TextString="Ngày lễ" />
+    <TextStringDefinition InstanceID="0x05D2EBE6" TextString="Trái tim" />

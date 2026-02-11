@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xA58D4C21" TextString="Yêu cầu giúp đỡ" />
+    <TextStringDefinition InstanceID="0xF49C1422" TextString="Ẩn mình trong tủ" />
+    <TextStringDefinition InstanceID="0x33E2A776" TextString="{0.SimFirstName} hỏi xung quanh để nhờ giúp đỡ, nhưng tất cả đồng nghiệp của {M0.his}{F0.her} đều đang bí việc. {0.SimFirstName} đưa vấn đề này đến sếp của {M0.his}{F0.her}, người đánh giá cao việc báo trước và dời lịch trình lại." />
+    <TextStringDefinition InstanceID="0x00AE061A" TextString="{0.SimFirstName} lao đến một tủ gần đó với máy tính xách tay và hoàn thành công việc một cách nhanh chóng. Có thời gian dư, {0.SimFirstName} bước ra, chiến thắng, và sẵn sàng cho nhiệm vụ tiếp theo." />
+    <TextStringDefinition InstanceID="0x0C16EE75" TextString="{0.SimFirstName} nhờ giúp đỡ từ một đồng nghiệp ưa thích, người vui vẻ nhảy vào giúp vì họ biết {0.SimFirstName} rất có trách nhiệm. Với sự giúp đỡ, công việc hoàn thành, và cả hai đều có vẻ tốt đẹp." />
+    <TextStringDefinition InstanceID="0x923A59B3" TextString="Thời gian rảnh" />
+    <TextStringDefinition InstanceID="0x14BFF0C1" TextString="{0.SimFirstName} hoàn thành một nhiệm vụ sớm hơn {M0.he}{F0.she} dự kiến. {M0.he}{F0.she} nên làm gì?" />
+    <TextStringDefinition InstanceID="0xAC2C203C" TextString="Nghe nhạc" />
+    <TextStringDefinition InstanceID="0x7D7DD84F" TextString="Nghiên cứu nghệ thuật" />
+    <TextStringDefinition InstanceID="0x3E415AF7" TextString="{0.SimFirstName} bắt đầu nghe nhạc và không nghĩ ngợi bắt đầu hát to. Đồng nghiệp của {M0.His}{F0.Her} cùng tham gia và tất cả có một trải nghiệm gắn kết tuyệt vời." />
+    <TextStringDefinition InstanceID="0xA55AD514" TextString="{0.SimFirstName} tìm thấy một số tác phẩm nghệ thuật thú vị, và đặt mua để trang trí văn phòng. Mọi người đánh giá cao tâm trạng tích cực mà nghệ thuật mang lại cho văn phòng!" />
+    <TextStringDefinition InstanceID="0x0751AE2F" TextString="Một cái nhìn thoáng qua vẻ đẹp thẩm mỹ truyền cảm hứng cho {0.SimFirstName} để tích hợp những yếu tố này vào các nhiệm vụ hàng ngày của {M0.his}{F0.her}. Mọi người ngay lập tức nhận thấy sự thay đổi và khen ngợi {0.SimFirstName} vì suy nghĩ &quot;đi khác biệt&quot; của {M0.his}{F0.her}." />
+    <TextStringDefinition InstanceID="0x1B014F8C" TextString="{0.SimFirstName} duyệt tìm một bài hát hay và nhấn &quot;Lặp lại&quot; khi {M0.he}{F0.she} tìm thấy một bài có nhịp điệu tốt. Điều bắt đầu như một sự xao nhãng nhanh chóng trở thành một cơn xung năng lượng, dẫn đến một trong những ngày làm việc năng suất nhất của {M0.his}{F0.her} trong vài tháng!" />
+    <TextStringDefinition InstanceID="0xBD8A4228" TextString="Giúp đồng đội" />
+    <TextStringDefinition InstanceID="0xA6EF4CCE" TextString="Một trong những đồng nghiệp của {0.SimFirstName} cần giúp đỡ với một nhiệm vụ. {M0.he}{F0.she} nên làm gì?" />
+    <TextStringDefinition InstanceID="0x07A04143" TextString="Tập hợp đội nhóm" />
+    <TextStringDefinition InstanceID="0x1342AB6C" TextString="Giúp đỡ" />
+    <TextStringDefinition InstanceID="0x5AE05374" TextString="{0.SimFirstName} cố gắng lấy sự giúp đỡ từ phần còn lại của đội, nhưng chỉ có vài người tình nguyện. Đồng nghiệp vẫn có thể hoàn thành nhiệm vụ đúng hạn, nhưng đó đã là một cơ hội tuyệt vời để xây dựng đội nhóm." />
+    <TextStringDefinition InstanceID="0x189D8027" TextString="{0.SimFirstName} dành vài phút để dạy bảo đồng nghiệp của {M0.his}{F0.her}. Đồng nghiệp cuối cùng làm một công việc đầy đủ, nhưng có lẽ sẽ làm tốt hơn nếu {0.SimFirstName} dành thêm chút thời gian với họ." />
+    <TextStringDefinition InstanceID="0xE5D884B0" TextString="{0.SimFirstName} nhiệt tình đồng ý giúp đồng nghiệp của {M0.his}{F0.her}. Hai người không chỉ cải thiện mối quan hệ, mà nhiệm vụ cũng hoàn thành đến sự hài lòng của sếp chung của họ. Thắng/thắng!" />
+    <TextStringDefinition InstanceID="0x61F74843" TextString="{0.SimFirstName} nói chuyện với các thành viên khác nhau của đội, và tất cả đều đồng ý giúp đồng nghiệp. Mọi người luân phiên hỗ trợ và toàn đội cảm thấy gắn bó hơn sau đó." />
+    <TextStringDefinition InstanceID="0xE4F53721" TextString="Đào tạo bổ sung" />
+    <TextStringDefinition InstanceID="0xC280EE93" TextString="Sếp của {0.SimFirstName} đề nghị {M0.him}{F0.her} cơ hội đào tạo bổ sung. {M0.he}{F0.she} nên làm gì?" />
+    <TextStringDefinition InstanceID="0xBBE17F26" TextString="Cấp cơ hội cho đồng nghiệp" />
+    <TextStringDefinition InstanceID="0x2F3E4079" TextString="Tham gia đào tạo" />
+    <TextStringDefinition InstanceID="0x7C00FD25" TextString="{0.SimFirstName} từ chối đào tạo, cảm thấy tự tin vào kỹ năng của {M0.his}{F0.her}, nhưng cũng biết {M0.his}{F0.her} cần tập trung vào nhiệm vụ hiện tại. Đồng nghiệp của {M0.His}{F0.Her} được tham gia đào tạo thay thế." />
+    <TextStringDefinition InstanceID="0x18EC2CB5" TextString="{0.SimFirstName} tận dụng cơ hội đào tạo được đề nghị và nâng cao kỹ năng làm việc cần thiết." />
+    <TextStringDefinition InstanceID="0xF2E30A42" TextString="{0.SimFirstName} cảm thấy tự tin vào kỹ năng của {M0.his}{F0.her}, và đề xuất một đồng nghiệp thay thế. Sếp đánh giá cao việc {0.SimFirstName} quan tâm đến đội của {M0.his}{F0.her} và xem {0.SimFirstName} như một nhà lãnh đạo." />
+    <TextStringDefinition InstanceID="0xF9FFE3F5" TextString="Đọc blog để lấy lời khuyên nghề nghiệp" />
+    <TextStringDefinition InstanceID="0xB46C3F82" TextString="{0.SimFirstName} duyệt tìm lời khuyên nghề nghiệp tốt, và tìm thấy một số bài viết thú vị, nhưng {M0.he}{F0.she} hơi thất vọng vì {M0.he}{F0.she} không được tận hưởng thời gian rảnh." />
+    <TextStringDefinition InstanceID="0x9D0224D9" TextString="{0.SimFirstName} duyệt tìm lời khuyên nghề nghiệp tốt và tìm thấy một số hiểu biết then chốt từ các chuyên gia hàng đầu để cải thiện hiệu suất làm việc." />
+    <TextStringDefinition InstanceID="0x4E8854AA" TextString="Phản hồi từ sếp" />
+    <TextStringDefinition InstanceID="0x20CCDA4C" TextString="Sếp của {0.SimFirstName} khiển trách {M0.him}{F0.her} vì không hoàn thành nhiệm vụ. {M0.he}{F0.she} nên làm gì để làm hài lòng sếp?" />
+    <TextStringDefinition InstanceID="0x1C23B36E" TextString="Trông bận rộn hơn" />
+    <TextStringDefinition InstanceID="0x41F88C6B" TextString="Làm đẹp số liệu" />
+    <TextStringDefinition InstanceID="0x5869FB65" TextString="{0.SimFirstName} phủ một lớp phủ hào phóng lên một số số liệu làm việc không có lợi để cải thiện đánh giá hiệu suất quý của {M0.his}{F0.her}. Sếp thấy và chấp nhận đó như một sự thật!" />
+    <TextStringDefinition InstanceID="0x983A13E4" TextString="{0.SimFirstName} đang cố gắng khiến sếp không để ý bằng cách trông bận rộn hơn. Vì vậy {0.SimFirstName} bắt đầu liên tục xáo trộn giấy tờ, đi lại giữa các phòng họp, và nhìn chung trông bận rộn hơn. Sếp dường như hài lòng với hiệu suất của {0.SimFirstName}." />
+    <TextStringDefinition InstanceID="0x530D93B2" TextString="{0.SimFirstName} cố gắng trông bận rộn hơn, nhưng tất cả những gì {M0.he}{F0.she} cuối cùng làm là liên tục va chạm vào mọi người và làm phiền đồng nghiệp với tiếng giấy xào xạc. Mánh khóe khá lộ liễu và sếp không hài lòng." />
+    <TextStringDefinition InstanceID="0xD448CC9D" TextString="Khó khăn di chuyển" />
+    <TextStringDefinition InstanceID="0x9E4C0D7F" TextString="{0.SimFirstName} thường xuyên đến muộn công việc do một số sự xao nhãng trên đường đi. Đó ít hơn là vấn đề đến muộn, và nhiều hơn là bị bắt. {M0.he}{F0.she} nên làm gì?" />
+    <TextStringDefinition InstanceID="0x452AE101" TextString="Lén vào từ phía sau" />
+    <TextStringDefinition InstanceID="0x950AB2A4" TextString="Thiết lập một bù nhìn bàn làm việc" />
+    <TextStringDefinition InstanceID="0x4D717DA4" TextString="{0.SimFirstName} dựng một bù nhìn cỡ người thật tại bàn làm việc của {M0.his}{F0.her}, đầy đủ với một bộ tóc giả xấp xỉ và phản âm thanh với các câu hỏi. Không ai biết gì và {0.SimFirstName} tận hưởng chuyến đi muộn của {M0.his}{F0.her}." />
+    <TextStringDefinition InstanceID="0xF33706C7" TextString="Pha chế đồ uống thật tệ" />
+    <TextStringDefinition InstanceID="0xB69CE7C5" TextString="{0.SimFirstName} đã làm vỡ một ly quá nhiều và lắc tất cả các máy lắc mà một người có thể chịu đựng được. {M0.he}{F0.she} có nên tạm gác sở thích này lại và thừa nhận rằng {M0.he}{F0.she} &lt;b&gt;Không thích pha chế&lt;/b&gt;?" />
+    <TextStringDefinition InstanceID="0x251BE1E5" TextString="Hỗn loạn lên ngôi" />
+    <TextStringDefinition InstanceID="0xCB360267" TextString="{0.SimFirstName} dường như phát triển dựa trên sự sốc và giận dữ của người khác. Có phải là lúc thừa nhận rằng {M0.he}{F0.she} &lt;b&gt;Thích phá phách&lt;/b&gt;?" />
+    <TextStringDefinition InstanceID="0xE8070191" TextString="Phá phách? Không nhiều đâu" />
+    <TextStringDefinition InstanceID="0x6346A503" TextString="{0.SimFirstName} không cảm thấy đúng về tất cả những trò lừa gạt và trò chơi này. {M0.he}{F0.she} có nên bắt đầu lại và chấp nhận rằng {M0.he}{F0.she} &lt;b&gt;Không thích phá phách&lt;/b&gt;?" />
+    <TextStringDefinition InstanceID="0x61DFA00A" TextString="Giải quyết vấn đề" />

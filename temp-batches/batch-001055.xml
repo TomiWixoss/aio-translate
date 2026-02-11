@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x2BA7FEEE" TextString="gardenPlantSproutGENLeafy_01 tên giữ chỗ" />
+    <TextStringDefinition InstanceID="0xFB5E7917" TextString="gardenPlantSproutGENLeafy_01 mô tả giữ chỗ" />
+    <TextStringDefinition InstanceID="0xE8C985D3" TextString="Chồi cây bò" />
+    <TextStringDefinition InstanceID="0x399D1E0E" TextString="Một loài cây xanh, có hình dạng xúc tu, rung lên khi chạm." />
+    <TextStringDefinition InstanceID="0x67ABD5DC" TextString="gardenPlantSproutGEN_02PlaceholderName" />
+    <TextStringDefinition InstanceID="0x4BB17659" TextString="gardenPlantSproutGEN_02Placeholder" />
+    <TextStringDefinition InstanceID="0x1889EB43" TextString="gardenPlantSproutGEN_01" />
+    <TextStringDefinition InstanceID="0xAA096872" TextString="gardenPlantSprout_GP04GENwolfsbane tên giữ chỗ" />
+    <TextStringDefinition InstanceID="0x96E35FA3" TextString="gardenPlantSprout_GP04GENwolfsbane mô tả giữ chỗ" />
+    <TextStringDefinition InstanceID="0xC2C13D9F" TextString="Hoa tử thần" />
+    <TextStringDefinition InstanceID="0xB0735FF0" TextString=" Một bông hoa đáng sợ nhưng thanh lịch. Những bông hồng không đủ cho Thần Chết. Hãy thử bông hoa này để xoa dịu nỗi lo của ông ấy và thoát khỏi tình thế chết người.  " />
+    <TextStringDefinition InstanceID="0xB94F0FC0" TextString="Hoa tulip" />
+    <TextStringDefinition InstanceID="0xC64248C5" TextString="Những bông hoa cho mỗi cây tulip lá thường có màu sắc tươi sáng, khiến chúng hấp dẫn để trang trí." />
+    <TextStringDefinition InstanceID="0xEADF77C1" TextString="Hoa mõm chó" />
+    <TextStringDefinition InstanceID="0x91CCDE3E" TextString="Những bông hoa mõm chó hình thành thành các tháp nhọn đặc trưng, tất cả đều sáng sủa và đầy màu sắc." />
+    <TextStringDefinition InstanceID="0x8786DB49" TextString="Cây phong lan" />
+    <TextStringDefinition InstanceID="0xAFE7E196" TextString="Phong lan mọc trên thân dài--như một con rắn duyên dáng sẵn sàng tấn công." />
+    <TextStringDefinition InstanceID="0x09AFDFC0" TextString="Hoa loa kèn" />
+    <TextStringDefinition InstanceID="0x6FEE38C5" TextString="Có gai và cao, hoa loa kèn mọc thành từng cụm năm hoặc nhiều hơn." />
+    <TextStringDefinition InstanceID="0xE29A91E0" TextString="Hoa cúc" />
+    <TextStringDefinition InstanceID="0x6AC10B65" TextString="Với nhiều cánh hoa hơn lá, những bụi cây này gần như sưng lên vì nụ hoa." />
+    <TextStringDefinition InstanceID="0x2B699755" TextString="Cây chim thiên đường" />
+    <TextStringDefinition InstanceID="0xA5E6DE29" TextString="Gà bơ" />
+    <TextStringDefinition InstanceID="0x9C43462B" TextString="Gà nướng than" />
+    <TextStringDefinition InstanceID="0x1F38BC05" TextString="Chuối nướng" />
+    <TextStringDefinition InstanceID="0xEEEA996B" TextString="Elote" />
+    <TextStringDefinition InstanceID="0xF0B460EC" TextString="Choripán" />
+    <TextStringDefinition InstanceID="0x614AF7FF" TextString="Xiên gà chimichurri" />
+    <TextStringDefinition InstanceID="0x3CAAF51B" TextString="Chimi" />
+    <TextStringDefinition InstanceID="0x606539AE" TextString="Asado" />
+    <TextStringDefinition InstanceID="0x282B2973" TextString="Cá trôi bùn" />
+    <TextStringDefinition InstanceID="0xE9C9DB31" TextString="Bánh bao rau củ" />
+    <TextStringDefinition InstanceID="0xFB452555" TextString="Pan De Muerto" />
+    <TextStringDefinition InstanceID="0x32F7A54A" TextString="Một chiếc bánh ngọt thường được nướng trong những tuần trước Ngày của Người chết." />
+    <TextStringDefinition InstanceID="0x57B24BEB" TextString="Bánh mì bơ đậu phộng và nước mứt" />
+    <TextStringDefinition InstanceID="0x181A84E5" TextString="Bánh mì giăm bông và phô mai" />
+    <TextStringDefinition InstanceID="0xF17E7C46" TextString="Miếng gà viên" />
+    <TextStringDefinition InstanceID="0x29CFBB23" TextString="Ambrosia" />
+    <TextStringDefinition InstanceID="0x71F82EEC" TextString="Món ăn huyền thoại ambrosia được biết đến có thể phục hồi sự sống cho người chết và quay ngược thời gian cho người sống." />
+    <TextStringDefinition InstanceID="0xAAE61EBD" TextString="{S.Salmon}{P.Salmon}" />
+    <TextStringDefinition InstanceID="0xE23F0472" TextString="Casserole taco" />
+    <TextStringDefinition InstanceID="0xC38353A3" TextString="Bạn không cần phải quay lại trường tiểu học để có được món ăn căn-tin này. Trước đây được gọi là Tia’s Taco Casserole Surprise, bộ sưu tập dư thừa cay này sẽ khiến mọi người thốt lên khen ngợi." />
+    <TextStringDefinition InstanceID="0x4A2E6827" TextString="{S.Tilapia}{P.Tilapia}" />
+    <TextStringDefinition InstanceID="0x516FCD5A" TextString="{S.Flaming Spaghetti}{P.Flaming Spaghetti}" />
+    <TextStringDefinition InstanceID="0xFD6A8376" TextString="{S.Spaghetti}{P.Spaghetti}" />
+    <TextStringDefinition InstanceID="0x3F4A20D0" TextString="{S.Herb-Crusted Salmon}{P.Herb-Crusted Salmon}" />
+    <TextStringDefinition InstanceID="0xD23827CE" TextString="{S.Protein Plate}{P.Protein Plates}" />
+    <TextStringDefinition InstanceID="0xF7FDC141" TextString="{S.Apple Pie}{P.Apple Pies}" />
+    <TextStringDefinition InstanceID="0xF944C9D9" TextString="Pizza pepperoni" />
+    <TextStringDefinition InstanceID="0xB412E515" TextString="{S.Gummy Bear Pancakes}{P.Gummy Bear Pancakes}" />

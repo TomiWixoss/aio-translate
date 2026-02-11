@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xAF8AFEC8" TextString="Tường Bán Cao Cao (3.0)" />
+    <TextStringDefinition InstanceID="0x58051CA5" TextString="Tường Bán Cao 2.9" />
+    <TextStringDefinition InstanceID="0x99E78EE4" TextString="Gần Tường Bán Cao Cao (2.75)" />
+    <TextStringDefinition InstanceID="0xC21C8FC5" TextString="Kéo để vẽ Tường Bán Cao. Chọn điểm mong muốn trên lưới để tạo hình dạng. Nhấp để hoàn thành hình dạng." />
+    <TextStringDefinition InstanceID="0x18B8FDCB" TextString="Gần Gần Tường Bán Cao Cao (2.5)" />
+    <TextStringDefinition InstanceID="0x20255A96" TextString="Kéo để vẽ Tường Bán Cao. Chọn điểm mong muốn trên lưới để tạo hình dạng. Nhấp để hoàn thành hình dạng." />
+    <TextStringDefinition InstanceID="0x00B09231" TextString="Hơn Mức Trung Bình Tường Bán Cao (2.25)" />
+    <TextStringDefinition InstanceID="0xE55A8314" TextString="Kéo để vẽ Tường Bán Cao. Chọn điểm mong muốn trên lưới để tạo hình dạng. Nhấp để hoàn thành hình dạng." />
+    <TextStringDefinition InstanceID="0x06CC92EC" TextString="Tường Bán Cao Trung Bình (2.0)" />
+    <TextStringDefinition InstanceID="0xA6CD1D6D" TextString="Kéo để vẽ Tường Bán Cao. Chọn điểm mong muốn trên lưới để tạo hình dạng. Nhấp để hoàn thành hình dạng." />
+    <TextStringDefinition InstanceID="0x4186692F" TextString="Gần Tường Bán Cao Trung Bình (1.75)" />
+    <TextStringDefinition InstanceID="0x35E4372A" TextString="Kéo để vẽ Tường Bán Cao. Chọn điểm mong muốn trên lưới để tạo hình dạng. Nhấp để hoàn thành hình dạng." />
+    <TextStringDefinition InstanceID="0x5FEAC3CA" TextString="Hơn Mức Tiêu Chuẩn Tường Bán Cao (1.5)" />
+    <TextStringDefinition InstanceID="0x3855E483" TextString="Kéo để vẽ Tường Bán Cao. Chọn điểm mong muốn trên lưới để tạo hình dạng. Nhấp để hoàn thành hình dạng." />
+    <TextStringDefinition InstanceID="0x42BA23FA" TextString="Tường Bán Cao Tiêu Chuẩn (1.25)" />
+    <TextStringDefinition InstanceID="0x75EBB3D3" TextString="Kéo để vẽ Tường Bán Cao. Chọn điểm mong muốn trên lưới để tạo hình dạng. Nhấp để hoàn thành hình dạng." />
+    <TextStringDefinition InstanceID="0x81EC62C9" TextString="Tường Bán Cao Ngắn (1.0)" />
+    <TextStringDefinition InstanceID="0xF27B3FEC" TextString="Kéo để vẽ Tường Bán Cao. Chọn điểm mong muốn trên lưới để tạo hình dạng. Nhấp để hoàn thành hình dạng." />
+    <TextStringDefinition InstanceID="0x1C00F2EE" TextString="Tường Bán Cao Rất Ngắn (0.75)" />
+    <TextStringDefinition InstanceID="0xA4490ED7" TextString="Kéo để vẽ Tường Bán Cao. Chọn điểm mong muốn trên lưới để tạo hình dạng. Nhấp để hoàn thành hình dạng." />
+    <TextStringDefinition InstanceID="0x9C25D17D" TextString="Tường Bán Cao Nhỏ Xíu (0.5)" />
+    <TextStringDefinition InstanceID="0x4DEF6930" TextString="Kéo để vẽ Tường Bán Cao. Chọn điểm mong muốn trên lưới để tạo hình dạng. Nhấp để hoàn thành hình dạng." />
+    <TextStringDefinition InstanceID="0xC32A10EB" TextString="Tường Bán Cao Cực Kỳ Nhỏ (0.25)" />
+    <TextStringDefinition InstanceID="0x4D84D7B6" TextString="Kéo để vẽ Tường Bán Cao. Chọn điểm mong muốn trên lưới để tạo hình dạng. Nhấp để hoàn thành hình dạng." />
+    <TextStringDefinition InstanceID="0x120E3DD0" TextString="Hoài Cổ Sang Trọng" />
+    <TextStringDefinition InstanceID="0xCD232C50" TextString="Mũi Phải" />
+    <TextStringDefinition InstanceID="0xF12F9B1B" TextString="Vải Sọc Dọc" />
+    <TextStringDefinition InstanceID="0xFCACD61F" TextString="Thủy Triều Tĩnh Lặng" />
+    <TextStringDefinition InstanceID="0x77C16265" TextString="Giữ phím Shift và nhấp để áp dụng phủ tường cho toàn bộ phòng hoặc ngoại thất." />
+    <TextStringDefinition InstanceID="0xC3E6D5BB" TextString="Thỏ Đông Cổ" />
+    <TextStringDefinition InstanceID="0xCE9AA412" TextString="Mọi Sắc Thái" />
+    <TextStringDefinition InstanceID="0x179386EC" TextString="Nghệ Thuật Tinh Tế" />
+    <TextStringDefinition InstanceID="0x77D34FCC" TextString="Tự Tay Vẽ" />
+    <TextStringDefinition InstanceID="0xB46E7EE6" TextString="Cuộc Hành Trình Của Loài Công" />
+    <TextStringDefinition InstanceID="0x20B99E0C" TextString="Leo Lên Đỉnh Cao" />
+    <TextStringDefinition InstanceID="0xC75436C8" TextString="Cỏ Mọc Mọi Nơi" />
+    <TextStringDefinition InstanceID="0x811CA1E6" TextString="Trẻ Con Hoa" />
+    <TextStringDefinition InstanceID="0x4C886E71" TextString="Hoa Học Thảo" />
+    <TextStringDefinition InstanceID="0xF1CC24FC" TextString="Vinh Quang Vườn Ươm" />
+    <TextStringDefinition InstanceID="0x7732D152" TextString="Sư Tử Mùa Thu" />
+    <TextStringDefinition InstanceID="0x3E4C451E" TextString="Tường Thạch Cao" />
+    <TextStringDefinition InstanceID="0xEF58531F" TextString="Khủng Long Dễ Thương" />
+    <TextStringDefinition InstanceID="0xCF923202" TextString="Văn Phòng Của Scully" />
+    <TextStringDefinition InstanceID="0xEAB86A4E" TextString="wall_V_Clapboard02SGBrick_CnrB_GreenRedBrickWhiteWdCnr" />
+    <TextStringDefinition InstanceID="0xBBFA1D40" TextString="Đáng Ngờ Bình Thường" />
+    <TextStringDefinition InstanceID="0xCDC9D849" TextString="Tranh Trẻ Em Little Wing" />
+    <TextStringDefinition InstanceID="0x9F9854DC" TextString="Mặt Tiền Gạch IndustryMatters với Viền Gỗ" />
+    <TextStringDefinition InstanceID="0x59202CA0" TextString="Mặt Tiền Gạch IndustryMatters" />
+    <TextStringDefinition InstanceID="0xE3DD4AB6" TextString="Mặt Tiền Gạch IndustryMatters với Góc Nhấn" />
+    <TextStringDefinition InstanceID="0xD1C4BD9A" TextString="Mặt Tiền Gạch Better Days với Viền Gỗ" />

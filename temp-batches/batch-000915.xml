@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xB8974C88" TextString="Xem bộ trang phục mới này!" />
+    <TextStringDefinition InstanceID="0x2E117198" TextString="Tất cả công việc đó cuối cùng cũng kết thúc và những từ {1.SimFirstName} khéo léo xây dựng đã vút đi hướng xuất bản. Thật là thú vị!" />
+    <TextStringDefinition InstanceID="0xBEFD4E92" TextString="Tài liệu rất quan trọng để duy trì phong cách nhất quán." />
+    <TextStringDefinition InstanceID="0xCD124F69" TextString="{1.SimFirstName} muốn kể cho mọi người về thương hiệu hot mới này." />
+    <TextStringDefinition InstanceID="0xA3066BBE" TextString="{1.SimFirstName} có những câu hỏi!" />
+    <TextStringDefinition InstanceID="0x1CD9C42A" TextString="Hãy tận hưởng trọn vẹn." />
+    <TextStringDefinition InstanceID="0xF049216A" TextString="Xu hướng thời trang tiếp theo đã đến!" />
+    <TextStringDefinition InstanceID="0x62B76A92" TextString="Tìm kiếm phong cách, gấp!" />
+    <TextStringDefinition InstanceID="0xB4434B32" TextString="Chiếm đoạt năm ngón tay dính vào..." />
+    <TextStringDefinition InstanceID="0x159C2567" TextString="Hít thở bầu không khí tươi mát! {1.SimFirstName} sẽ thích được đắm mình trong thiên nhiên." />
+    <TextStringDefinition InstanceID="0x8249A644" TextString="Tại sao phải đi đâu xa? Mọi thứ cần thiết đều có ngay đây." />
+    <TextStringDefinition InstanceID="0xCD1B843F" TextString="Đôi khi {1.SimFirstName} chỉ cần một chút &lt;i&gt;thời gian cho bản thân&lt;/i&gt; để cảm thấy tốt hơn về {1.SimPronounReflexive}. Xã hội hóa thì có gì hay đâu?" />
+    <TextStringDefinition InstanceID="0x689C4E99" TextString="Chứng minh bút mạnh hơn gươm!" />
+    <TextStringDefinition InstanceID="0xBCF701DC" TextString="Nâng cao năng suất cho một công việc đơn giản, một ứng dụng tại một thời điểm. Ô, hoặc một trò chơi dễ thương! Đó sẽ vui lắm." />
+    <TextStringDefinition InstanceID="0x36E61DEA" TextString="Với phạm vi trong tầm mắt và mục tiêu trên đường chân trời, {1.SimFirstName} bắt đầu hành trình đầy thử thách của sản xuất. Hãy sẵn sàng cho những giờ làm việc dài..." />
+    <TextStringDefinition InstanceID="0xC6A35666" TextString="Ngắm nhìn kỳ quan là bầu trời đêm." />
+    <TextStringDefinition InstanceID="0xF1E46D15" TextString="{1.SimFirstName} muốn nhìn vào cuộc sống của người khác. Ai biết được bí mật họ giữ đâu!" />
+    <TextStringDefinition InstanceID="0x6493F0C9" TextString="Cút đi bọ chét! Đây không phải là nơi các người nhai mòn!" />
+    <TextStringDefinition InstanceID="0x2F6433E1" TextString="{1.SimFirstName} muốn tìm ra câu trả lời đúng. Chỉ có một thôi, phải không?" />
+    <TextStringDefinition InstanceID="0x5AD735BC" TextString="Tại sao nhà búp bê lại trông nguyên vẹn và hoàn hảo mãi? Chúng cần bị hạ gục!" />
+    <TextStringDefinition InstanceID="0xBC5273C4" TextString="Bản nháp đầu tiên chưa bao giờ là tốt nhất, hãy tiếp tục!" />
+    <TextStringDefinition InstanceID="0xAC3A2B1F" TextString="Đừng bao giờ quên luyện những cái vảy!" />
+    <TextStringDefinition InstanceID="0x1BD624BE" TextString="Củng cố sự phối hợp tay-mắt." />
+    <TextStringDefinition InstanceID="0xC0C2066E" TextString="Mang khoa học đến những tầm cao mới!" />
+    <TextStringDefinition InstanceID="0xCF923C81" TextString="Câu hỏi thực sự cho {1.SimFirstName} là Ngôn ngữ Lập trình nào {M1.anh ấy}{F1.cô ấy} nên học hôm nay?" />
+    <TextStringDefinition InstanceID="0x9B244789" TextString="Không có cách nào tốt hơn để gây ấn tượng với người khác ngoài việc trở thành một nghệ sĩ dương cầm chuyên nghiệp." />
+    <TextStringDefinition InstanceID="0xD4285606" TextString="Học tập là một phần của nghệ thuật." />
+    <TextStringDefinition InstanceID="0xC6ABAA4E" TextString="Phá hoại là một nghệ thuật, mà {1.SimFirstName} muốn hoàn thiện!" />
+    <TextStringDefinition InstanceID="0xEF12C476" TextString="Kích hoạt những chất lỏng não bộ!" />
+    <TextStringDefinition InstanceID="0x44E158A3" TextString="{1.SimFirstName} sẽ luôn được biết đến là vụng về nhưng có lẽ một chút phối hợp tay-mắt có thể giúp ngăn {M1.anh ấy}{F1.cô ấy} vấp ngã nhiều hơn." />
+    <TextStringDefinition InstanceID="0xBBF26A93" TextString="Phải bên phải, trái lỏng lẻo!" />
+    <TextStringDefinition InstanceID="0xDBE110D8" TextString="Gảy, rock, gõ, đập!" />
+    <TextStringDefinition InstanceID="0x50C1190F" TextString="{1.SimFirstName} muốn làm bẩn tay. Trở thành một với thiên nhiên." />
+    <TextStringDefinition InstanceID="0x5EDCCB6C" TextString="Bơm nó lên!" />
+    <TextStringDefinition InstanceID="0xB4BBCAEE" TextString="{1.SimFirstName} có giỏi câu cá hơn hay là cá giỏi trốn tránh hơn?" />
+    <TextStringDefinition InstanceID="0x21AECDE4" TextString="Thức ăn sẽ không ngon hơn nếu không luyện tập. Đừng là một cái donut, lấy dao và bắt đầu chặt!" />
+    <TextStringDefinition InstanceID="0xB38AC131" TextString="Ngay cả những diễn viên hài xuất sắc nhất cũng phải bắt đầu từ đâu đó!" />
+    <TextStringDefinition InstanceID="0x960028C8" TextString="Làm việc trên kỹ năng con người là thời gian được chi tiêu khôn ngoan." />
+    <TextStringDefinition InstanceID="0x90E07F62" TextString="{1.SimFirstName} muốn trộn lẫn mọi thứ lên và luyện tập tung hứng đồ uống." />
+    <TextStringDefinition InstanceID="0x711A907B" TextString="Không có cách nào khác để giỏi hơn ngoài việc tiếp tục thử!" />
+    <TextStringDefinition InstanceID="0x52B844C2" TextString="{1.SimFirstName} biết rằng yêu thương bản thân cần thời gian. Mọi người đều có những điều họ không hoàn toàn thoải mái và điều đó ổn mà." />
+    <TextStringDefinition InstanceID="0x2F625D57" TextString="{1.SimFirstName} có một ngân hàng não đầy chúng!" />
+    <TextStringDefinition InstanceID="0xDBF7C6AA" TextString="Đã đến lúc đi mang một Sim khác đến nước mắt." />
+    <TextStringDefinition InstanceID="0x4AF28CEA" TextString="Đã đến lúc đi mang một Sim khác đến nước mắt." />
+    <TextStringDefinition InstanceID="0x82713FFD" TextString="Âm nhạc đến từ trái tim. Từ {1.SimFirstName}, đến bạn." />
+    <TextStringDefinition InstanceID="0xD95C4BFC" TextString="Một lời nguyền đã được ban lên cho ngươi! Chuyển tiếp cho mười người bạn hoặc cái chết sẽ gõ cửa." />
+    <TextStringDefinition InstanceID="0xEA83EC74" TextString="Đặt mục tiêu giúp giữ kỳ vọng phù hợp với mức độ sinh lời của một sở thích như thế này." />
+    <TextStringDefinition InstanceID="0x849634CF" TextString="Cuộc sống của một nghệ sĩ chính thức có nghĩa là bán nghệ thuật." />
+    <TextStringDefinition InstanceID="0xA46E643B" TextString="Mang về những đồng tiền lớn." />
+    <TextStringDefinition InstanceID="0xC10857CA" TextString="Nghệ sĩ xứng đáng được đền bù!" />

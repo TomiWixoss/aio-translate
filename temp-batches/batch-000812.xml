@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x6CE05C98" TextString="Bực bội!" />
+    <TextStringDefinition InstanceID="0x6D1ED54D" TextString="Một Sim nóng tính không thể giấu được sự tức giận của mình khi có một cuộc trò chuyện tồi tệ." />
+    <TextStringDefinition InstanceID="0x1D9DD1CF" TextString="Một Bí Mật Được Tiết Lộ!" />
+    <TextStringDefinition InstanceID="0x60739D00" TextString="Nghe được một bí mật hấp dẫn sẽ khiến bất kỳ Sim nào cũng háo hức phấn khích." />
+    <TextStringDefinition InstanceID="0xD14B6EF0" TextString="Đã Nghiên Cứu Vĩ Cầm" />
+    <TextStringDefinition InstanceID="0x7B0932D5" TextString="Với kiến thức mới tìm hiểu, bây giờ là thời điểm tốt để chơi Vĩ Cầm!" />
+    <TextStringDefinition InstanceID="0x5F69EC2A" TextString="Đã Nghiên Cứu Đàn Piano" />
+    <TextStringDefinition InstanceID="0x6F86E42B" TextString="Với kiến thức mới tìm hiểu, bây giờ là thời điểm tốt để chơi Đàn Piano!" />
+    <TextStringDefinition InstanceID="0x48BED47F" TextString="Đã Nghiên Cứu Đàn Guitar" />
+    <TextStringDefinition InstanceID="0x30A64D50" TextString="Với kiến thức mới tìm hiểu, bây giờ là thời điểm tốt để chơi Đàn Guitar!" />
+    <TextStringDefinition InstanceID="0x44996B68" TextString="Đã Nghiên Cứu Trồng Trọt" />
+    <TextStringDefinition InstanceID="0x355EF7FD" TextString="Với những kỹ thuật trồng trọt mới khám phá của {0.SimFirstName}, việc luyện tập sẽ chỉ cải thiện kết quả của {M0.hắn}{F0.cô ấy}!" />
+    <TextStringDefinition InstanceID="0x469D130F" TextString="Kỹ Thuật Nấu Ăn Nâng Cao" />
+    <TextStringDefinition InstanceID="0xFD293B40" TextString="Việc nghiên cứu những kỹ thuật nấu ăn trên internet thực sự đang mang lại kết quả." />
+    <TextStringDefinition InstanceID="0x3564ED65" TextString="Ôi Không! Đồ Đạc Của Tôi..." />
+    <TextStringDefinition InstanceID="0xAC4B6DBA" TextString="{0.SimFirstName} thực sự buồn bã vì mất những vật dụng quý giá. Trả hóa đơn khó khăn, nhưng hậu quả của việc không trả còn tệ hơn. " />
+    <TextStringDefinition InstanceID="0x9AEA8D3A" TextString="Không Thể Thu Hồi Tôi!" />
+    <TextStringDefinition InstanceID="0xC472B15B" TextString="Đúng vậy! Người Thu Hồi Tài Sản không thể chạm vào {0.SimFirstName}... hoặc (quan trọng hơn) đồ đạc của {M0.hắn}{F0.cô ấy}!" />
+    <TextStringDefinition InstanceID="0xFD140C04" TextString="Bị Thu Hồi Tài Sản" />
+    <TextStringDefinition InstanceID="0x78779531" TextString="{0.SimFirstName} có thể đã bắt đầu trận đấu, nhưng Người Thu Hồi Tài Sản đã kết thúc nó... và sau đó họ đã lấy đồ đạc của {M0.hắn}{F0.cô ấy}." />
+    <TextStringDefinition InstanceID="0xAB3D501D" TextString="Đang Cố Gắng Giữ Bình Tĩnh" />
+    <TextStringDefinition InstanceID="0x42373BA2" TextString="Chỉ việc ở gần một người mà {0.SimFirstName} đang tức giận với cũng có thể là nguồn gây căng thẳng. Cố gắng giữ lịch sự không dễ dàng!" />
+    <TextStringDefinition InstanceID="0x17DED702" TextString="Hoàn Toàn Phẫn Nộ" />
+    <TextStringDefinition InstanceID="0x86133153" TextString="Làm sao dám để Sim đó hạnh phúc đến mức khó chịu! Họ không biết {0.SimFirstName} vẫn còn tức giận với họ sao?" />
+    <TextStringDefinition InstanceID="0xC3FF3E1A" TextString="Chính Tráng Phẫn" />
+    <TextStringDefinition InstanceID="0x0CE345BB" TextString="Cảm giác bị oan khuất đã cho {0.SimFirstName} sự tự tin về tính chính tráng của những bức xúc của {M0.hắn}{F0.cô ấy}. {M0.Hắn}{F0.Cô ấy} sẵn sàng đổ lời buộc tội!" />
+    <TextStringDefinition InstanceID="0x4C45277E" TextString="Vẫn Còn Giận Dữ" />
+    <TextStringDefinition InstanceID="0xFCD612C7" TextString="Chỉ nhìn thấy một người cũng có thể khiến một Sim lên cơn điên! Cơn giận dữ của {0.SimFirstName} bùng lên trở lại khi {M0.hắn}{F0.cô ấy} ở quanh một Sim đã làm điều sai trái với {M0.hắn}{F0.cô ấy}." />
+    <TextStringDefinition InstanceID="0xA31426DE" TextString="Người Đặc Biệt" />
+    <TextStringDefinition InstanceID="0xD9BD69A7" TextString="Hạnh phúc tràn ngập trong trái tim {0.SimFirstName} chỉ khi ở quanh một Sim mà {M0.hắn}{F0.cô ấy} say mê." />
+    <TextStringDefinition InstanceID="0x24A713FD" TextString="Cảm Thấy Say Đắm" />
+    <TextStringDefinition InstanceID="0x6AE6EC02" TextString="Chỉ nhìn thấy một Sim cũng có thể khiến tim đập rộn ràng!" />
+    <TextStringDefinition InstanceID="0xDF53BA85" TextString="Quá Tự Ý Thức" />
+    <TextStringDefinition InstanceID="0x55ADD967" TextString="Khám phá thế giới cùng với đội ngũ hoạt hình kỳ quặc yêu thích của mọi người!" />
+    <TextStringDefinition InstanceID="0x15AAB30E" TextString="Kênh hài này thật hài hước! " />
+    <TextStringDefinition InstanceID="0xB91DB465" TextString="Việc đó phải làm nhưng không thể vượt qua mùi hôi và cảm giác bẩn thỉu khi vô tình chạm phải rác." />
+    <TextStringDefinition InstanceID="0x1E19A697" TextString="{M0.Anh Ấy}{F0.Cô Ấy} Chạm Vào Gì?!" />
+    <TextStringDefinition InstanceID="0xF85A0837" TextString="Đồ chơi là tuyệt nhất, đặc biệt khi chúng thật tuyệt vời" />
+    <TextStringDefinition InstanceID="0xF7A29A6B" TextString="Chơi Đồ Chơi" />
+    <TextStringDefinition InstanceID="0x72D49024" TextString="&quot;Từ xe đạp và tàu hỏa đến trò chơi điện tử...&quot;" />
+    <TextStringDefinition InstanceID="0x38F4985A" TextString="Thế Giới Bí Mật" />
+    <TextStringDefinition InstanceID="0x48FA92FB" TextString="Ồ... trời ơi... tâm trí tôi vừa nổ tung từ một cú bùng nổ của trí tưởng tượng!" />
+    <TextStringDefinition InstanceID="0x6707EF56" TextString="Đồ Chơi Đáng Sợ" />
+    <TextStringDefinition InstanceID="0xCE622C8F" TextString="Ồ! Phản ứng của món đồ chơi đó hơi đáng sợ." />
+    <TextStringDefinition InstanceID="0x36D7E205" TextString="Búp Bê Buồn Bã" />
+    <TextStringDefinition InstanceID="0x0159D0DA" TextString="Một số ngày, cảm giác như ngay cả bạn bè vô tri cũng đã quay lưng lại với bạn." />
+    <TextStringDefinition InstanceID="0x15C7F7AC" TextString="Đồ Chơi Hài Hước" />
+    <TextStringDefinition InstanceID="0xE8DF6149" TextString="Đồ chơi nói chuyện thật vui nhộn!" />
+    <TextStringDefinition InstanceID="0x22327823" TextString="Hoan hô! Nó Nói Rồi!" />
+    <TextStringDefinition InstanceID="0x37B37DEC" TextString="Có vẻ như bạn và món đồ chơi sẽ là bạn bè mãi mãi!" />

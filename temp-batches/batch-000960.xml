@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xEF93B355" TextString="Đặt gói hạt giống hoa mới bắt đầu" />
+    <TextStringDefinition InstanceID="0xCF7C7B35" TextString="Lấy một cành lan và ghép vào cây lựu của bạn để tạo cây Hoa Tử Thần, sau đó thu hoạch! Hoặc đặt Hoa Tử Thần từ ứng dụng Home trên điện thoại.\n\n&lt;i&gt;(+65 Điểm Sự Kiện)&lt;/i&gt;" />
+    <TextStringDefinition InstanceID="0x6F01E81B" TextString="Có được Hoa Tử Thần" />
+    <TextStringDefinition InstanceID="0xD04663EB" TextString="Câu Cá Thiên Thần ở khu Crawdad Quarter ở Willow Creek.\n\n(+65 Điểm Sự Kiện)" />
+    <TextStringDefinition InstanceID="0x9313EEB9" TextString="Bắt được Cá Thiên Thần" />
+    <TextStringDefinition InstanceID="0x84C0C0D2" TextString="Đặt Gấu Bông của bạn bằng cách chọn Đặt Trong Thế Giới sau khi chọn nó trong kho đồ của Sim.\n\nNếu bạn không nhớ Sylvan Glade ở đâu, bạn có thể tìm thấy nó qua cái cây lớn trong khu Foundry Cove ở Willow Creek." />
+    <TextStringDefinition InstanceID="0xFA61B42A" TextString="Đặt Gấu Bông ở Sylvan Glade" />
+    <TextStringDefinition InstanceID="0x96344581" TextString="{0.SimFirstName} đã thêm một bức ảnh vào khung ảnh kỹ thuật số. Thật là một cách tuyệt vời để giữ những kỷ niệm sống động!" />
+    <TextStringDefinition InstanceID="0x888BA06F" TextString="Với Khung Ảnh Hiện Đại, chọn Quản Lý Kho Ảnh.\n\nSau đó bạn có thể thêm một bức ảnh từ kho đồ của Sim vào khung." />
+    <TextStringDefinition InstanceID="0x7E3F4B85" TextString="Thêm Ảnh vào Khung Ảnh Hiện Đại" />
+    <TextStringDefinition InstanceID="0xE809BB62" TextString="Mua một ngôi nhà cây để bắt đầu ước mơ lớn, lên cao!\n\nBạn có thể tìm thấy Cơ Sở Nhà Cây Gỗ trong Chế Độ Xây Dựng dưới mục Hoạt Động &amp; Kỹ Năng.\n\nMục tiêu tùy chọn này yêu cầu &lt;i&gt;Gói Mở Rộng Growing Together&lt;/i&gt; để hoàn thành." />
+    <TextStringDefinition InstanceID="0xD6BC463A" TextString="Mua Nhà Cây" />
+    <TextStringDefinition InstanceID="0x1B8EEC18" TextString="Thêm một máy làm kẹo vào nhà và để phép màu bắt đầu.\n\nBạn có thể mua Máy Tạo Kẹo Ngọt Kate &amp; Berry 3000 trong Chế Độ Xây Dựng dưới mục Thiết Bị.\n\nMục tiêu tùy chọn này yêu cầu &lt;i&gt;Gói Mở Rộng Businesses &amp; Hobbies&lt;/i&gt; để hoàn thành." />
+    <TextStringDefinition InstanceID="0x80700450" TextString="Mua Máy Tạo Kẹo Ngọt Kate &amp; Berry 3000" />
+    <TextStringDefinition InstanceID="0x5C068A61" TextString="Sẵn sàng cho những giờ phút vui vẻ! Xây dựng một Sân Chơi BamCo cho những cuộc phiêu lưu không hồi kết.\n\nBạn có thể mua Các Mảnh Sân Chơi BamCo trong Chế Độ Xây Dựng dưới mục Trẻ Em.\n\nMục tiêu tùy chọn này yêu cầu &lt;i&gt;Gói Mở Rộng Adventure Awaits&lt;/i&gt; để hoàn thành." />
+    <TextStringDefinition InstanceID="0xB88E066F" TextString="Xây Dựng Một Mảnh Sân Chơi BamCo" />
+    <TextStringDefinition InstanceID="0x549E60B5" TextString="Hoàn hảo, và luôn luôn xoay vòng! {0.SimFirstName} chắc chắn sẽ mỉm cười mỗi lần {0.SimPronounSubjective} {S0.sees}{P0.see} chúng." />
+    <TextStringDefinition InstanceID="0x8FCB7721" TextString="{0.SimName} có một ý tưởng tuyệt vời! {0.SimPronounSubjective|xxUpper} có thể lưu giữ thời gian {0.SimPronounSubjective} {S0.has}{P0.have} bên nhau qua ảnh. Bằng cách đó, nó sẽ sống mãi.\n\n{0.SimFirstName} thực sự khôn ngoan vượt qua tuổi {0.SimPronounPossessiveDependent}. Hãy để {0.SimPronounObjective} chia sẻ kế hoạch với Gấu Bông." />
+    <TextStringDefinition InstanceID="0x9DE07C10" TextString="Vui Vẻ Cùng Người Hẹn Hò" />
+    <TextStringDefinition InstanceID="0x3A95E84B" TextString="WooHoo Cùng Người Hẹn Hò" />
+    <TextStringDefinition InstanceID="0x709BA083" TextString="Chế Tạo Zebra Fizz" />
+    <TextStringDefinition InstanceID="0xEA0DB3E0" TextString="Làm Món Casserole Taco" />
+    <TextStringDefinition InstanceID="0x6A1CFE8B" TextString="Làm Cocktail Tôm" />
+    <TextStringDefinition InstanceID="0x80661B05" TextString="Nướng Bánh Hamburger" />
+    <TextStringDefinition InstanceID="0xDC3BDF2E" TextString="Nướng Bánh Quy Đen Trắng" />
+    <TextStringDefinition InstanceID="0xC964AC67" TextString="Nướng Bánh Đen &amp; Trắng" />
+    <TextStringDefinition InstanceID="0xAF24D5A9" TextString="Làm Món Đen Trắng Chất Lượng Xuất Sắc" />
+    <TextStringDefinition InstanceID="0x9F81FC6F" TextString="Làm Trà Buffalo Wing" />
+    <TextStringDefinition InstanceID="0x57C1F8B7" TextString="Thảo Luận Về Đồ Ăn Cùng Khách" />
+    <TextStringDefinition InstanceID="0x93944EE4" TextString="Ngồi xuống với bạn bè hoặc gia đình và chỉ đơn giản là Xem TV cùng nhau.\n\n&lt;i&gt;(+45 Điểm Sự Kiện)&lt;/i&gt;" />
+    <TextStringDefinition InstanceID="0xF54E5854" TextString="Khiến Sims xem TV cùng nhau" />
+    <TextStringDefinition InstanceID="0xBE02A938" TextString="Sử dụng Chơi Trò Chơi Nhiều Người Chơi bằng cách chọn một máy chơi game từ Chế Độ Xây Dựng, đối đầu với một Sim khác trong trận chiến game hoành tráng và may mắn cho Sim giỏi nhất!\n\n&lt;i&gt;(+45 Điểm Sự Kiện)&lt;/i&gt;" />
+    <TextStringDefinition InstanceID="0xA961D870" TextString="Khiến Sims Chơi Trò Chơi Nhiều Người Chơi Cùng Nhau" />
+    <TextStringDefinition InstanceID="0x7EBDA7AB" TextString="Đặt TV Khung Lễ Hội từ Chế Độ Xây Dựng và thử nó bằng cách xem một vài kênh một mình hoặc với bạn bè.\n\n&lt;i&gt;(+30 Điểm Sự Kiện)&lt;/i&gt;" />
+    <TextStringDefinition InstanceID="0xD2761D79" TextString="Xem Kênh Trên TV Khung Lễ Hội" />
+    <TextStringDefinition InstanceID="0x47984937" TextString="Nói chuyện với hai Sims về Nhạc Lễ Hội.\n\n&lt;i&gt;(+30 Điểm Sự Kiện)&lt;/i&gt;" />
+    <TextStringDefinition InstanceID="0x65BBDC1D" TextString="Nói Về Nhạc Lễ Hội" />
+    <TextStringDefinition InstanceID="0xF9E3721F" TextString="Hãy một Sim dành một chút thời gian và chỉ đơn giản ngước lên để cảm nhận tất cả bằng cách chọn một Sim rồi Ngắm Mây vào ban ngày hoặc Ngắm Sao vào ban đêm.\n\n&lt;i&gt;(+30 Điểm Sự Kiện)&lt;/i&gt;" />
+    <TextStringDefinition InstanceID="0x5060D775" TextString="Ngắm Mây hoặc Ngắm Sao" />
+    <TextStringDefinition InstanceID="0x5FC004AD" TextString="Sử dụng Máy Tính để Chia Sẻ Những Phát Hiện Về Các Ngày Lễ với Jasmine Holiday.\n\n&lt;i&gt;(+30 Điểm Sự Kiện)&lt;/i&gt;" />
+    <TextStringDefinition InstanceID="0x94F62823" TextString="Chia Sẻ Những Phát Hiện với Jasmine Holiday" />
+    <TextStringDefinition InstanceID="0xCFB7200E" TextString="Hãy xem những gì Sims nói về Truyền Thống Lễ Hội trên máy tính.\n\n&lt;i&gt;(+30 Điểm Sự Kiện)&lt;/i&gt;" />
+    <TextStringDefinition InstanceID="0x8A153FCE" TextString="Nghiên Cứu Về Truyền Thống Lễ Hội Trên Web" />
+    <TextStringDefinition InstanceID="0x41B3E0BD" TextString="Chơi một số bản nhạc trên nhạc cụ và được truyền cảm hứng bởi tinh thần lễ hội.\n\n&lt;i&gt;(+30 Điểm Sự Kiện)&lt;/i&gt;" />
+    <TextStringDefinition InstanceID="0xED602B33" TextString="Hát Nhạc Cùng Nhạc Cụ" />
+    <TextStringDefinition InstanceID="0x5EF9EA19" TextString="Thay Đổi Kênh sang kênh Lễ Hội Đông Trên Máy Hát và để lễ hội bắt đầu.\n\n&lt;i&gt;(+30 Điểm Sự Kiện)&lt;/i&gt;" />
+    <TextStringDefinition InstanceID="0x2A9EF177" TextString="Nghe Kênh Lễ Hội Đông" />
+    <TextStringDefinition InstanceID="0xB8421674" TextString="Mời ba Sims đến Lô Hiện Tại bằng cách sử dụng ứng dụng Xã Hội trên Điện Thoại. Có thể mời họ một số đồ ăn ngon và sự hiện diện tuyệt vời hoặc chỉ để họ tụ tập.\n\n&lt;i&gt;(+30 Điểm Sự Kiện)&lt;/i&gt;" />
+    <TextStringDefinition InstanceID="0x802A6664" TextString="Mời Sims Đến Lô Hiện Tại" />
+    <TextStringDefinition InstanceID="0x27ACC8D2" TextString="Lấy Khay Cacao Nóng Ấm Áp từ Thiết Bị Nhà Bếp trong Chế Độ Xây Dựng và sử dụng nó để chuẩn bị một thức uống ngon và ấm áp để ăn mừng ngày lễ.\n\n&lt;i&gt;(+45 Điểm Sự Kiện)&lt;/i&gt;" />

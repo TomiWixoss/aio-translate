@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x4FFECF3C" TextString="Lập trình viên Tự do" />
+    <TextStringDefinition InstanceID="0x47394739" TextString="&lt;b&gt;Giao dịch: Lập trình viên Tự do&lt;/b&gt;\n\nBạn có muốn biết một bí mật nhỏ? Bạn không cần phải là chuyên gia về máy tính để trở thành một freelancer tuyệt vời! Tất cả những gì bạn cần là một máy tính, một công cụ tìm kiếm, và ý chí sắt để đối mặt với những &quot;người có ý tưởng&quot;. Tuy nhiên, việc là chuyên gia vẫn có giúp ích." />
+    <TextStringDefinition InstanceID="0x29FE0D3A" TextString="Tự làm chủ công việc của chính mình! Tự đặt lịch làm việc cho mình! Nghe hay phải không? Nếu bạn vừa tự kỷ luật vừa kiên quyết, sự nghiệp freelancer có thể là con đường phù hợp với bạn. Có nhiều ngành nghề khác nhau để làm việc; các công ty đang sẵn sàng kết nối bạn với những khách hàng nhiệt tình ngay hôm nay!" />
+    <TextStringDefinition InstanceID="0x606BBDED" TextString="Nghệ sĩ Tự do" />
+    <TextStringDefinition InstanceID="0x3A83756F" TextString="Nghệ sĩ Tự do" />
+    <TextStringDefinition InstanceID="0x61363620" TextString="&lt;b&gt;Giao dịch: Nghệ sĩ Tự do&lt;/b&gt;\n\nMột bức tranh kỹ thuật số có thể khiến bạn khóc không? Ngay bây giờ, không ai biết. Một phần là vì nhiều người sẽ cho rằng ý tưởng đó là hời hợt. Nhưng cũng một phần là vì bất kỳ ai trả lời thành công câu hỏi này trước tiên phải trả lời được một số câu hỏi khác.\n\nTại sao chúng ta khóc? Tại sao chúng ta cười, hay yêu, hay mỉm cười? Những điểm đánh dấu cảm xúc của chúng ta là gì?\n\nCho đến nay, những người đặt ra những câu hỏi như vậy thường không phải là những người tạo ra nghệ thuật kỹ thuật số. Thay vào đó, họ là các nhà văn, nhà làm phim, họa sĩ, nhạc sĩ. Họ là, theo nghĩa truyền thống, những nghệ sĩ.\n\nChúng ta sắp thay đổi truyền thống đó. Tên của công ty chúng tôi là Electrified Artists." />
+    <TextStringDefinition InstanceID="0x2E412183" TextString="Freelancer" />
+    <TextStringDefinition InstanceID="0x510BB3BD" TextString="Freelancer" />
+    <TextStringDefinition InstanceID="0x341B9E79" TextString="{0.SimFirstName} sẽ cần phải đi đến Cuộc họp Thành viên {M0.his}{F0.her} giữa chừng Sự kiện Xã hội này." />
+    <TextStringDefinition InstanceID="0xAC1D43CD" TextString="Tôi phải đi rồi! Gặp lại sau." />
+    <TextStringDefinition InstanceID="0xB25F3C65" TextString="Thất nghiệp" />
+    <TextStringDefinition InstanceID="0x651AE2BA" TextString="Thất nghiệp" />
+    <TextStringDefinition InstanceID="0x8D1592B6" TextString="Khách quen quán bar" />
+    <TextStringDefinition InstanceID="0xCC3D0EA4" TextString="Dịch vụ Sửa chữa" />
+    <TextStringDefinition InstanceID="0xBC8EBE35" TextString="Cảnh sát" />
+    <TextStringDefinition InstanceID="0xDBE6AF57" TextString="Cảnh sát" />
+    <TextStringDefinition InstanceID="0x576B50B5" TextString="Chuyên gia Giao hàng Pizza" />
+    <TextStringDefinition InstanceID="0xF8726ED7" TextString="Chuyên gia Giao hàng Pizza" />
+    <TextStringDefinition InstanceID="0x6FE090A3" TextString="Người giữ trẻ" />
+    <TextStringDefinition InstanceID="0x589EE05D" TextString="Người giữ trẻ" />
+    <TextStringDefinition InstanceID="0x4F36C8A8" TextString="Người vận chuyển Thư" />
+    <TextStringDefinition InstanceID="0xE863CB20" TextString="Người vận chuyển Thư" />
+    <TextStringDefinition InstanceID="0xDF8EC882" TextString="Người giúp việc" />
+    <TextStringDefinition InstanceID="0xBDE77D52" TextString="Người giúp việc" />
+    <TextStringDefinition InstanceID="0x5913AA2B" TextString="Thư viện viên" />
+    <TextStringDefinition InstanceID="0x8F7C31A5" TextString="Thư viện viên" />
+    <TextStringDefinition InstanceID="0xF51EA813" TextString="Huấn luyện viên" />
+    <TextStringDefinition InstanceID="0x2B1E2E28" TextString="Huấn luyện viên" />
+    <TextStringDefinition InstanceID="0xDEBFCAE3" TextString="Thần Chết" />
+    <TextStringDefinition InstanceID="0xEEC9DE9D" TextString="Thần Chết" />
+    <TextStringDefinition InstanceID="0x1C75D8F3" TextString="Người làm vườn Chuyên nghiệp" />
+    <TextStringDefinition InstanceID="0xCB51D6E1" TextString="Người làm vườn Cộng đồng" />
+    <TextStringDefinition InstanceID="0x41E3E34B" TextString="Người làm vườn Cộng đồng" />
+    <TextStringDefinition InstanceID="0x860FC082" TextString="Người đánh bắt cá" />
+    <TextStringDefinition InstanceID="0x2F03E552" TextString="Người đánh bắt cá{M0.man}{F0.woman}" />
+    <TextStringDefinition InstanceID="0xD45943E4" TextString="Lính cứu hỏa" />
+    <TextStringDefinition InstanceID="0xD4DB2474" TextString="Lính cứu hỏa" />
+    <TextStringDefinition InstanceID="0x673E6BDA" TextString="Pha chế rượu" />
+    <TextStringDefinition InstanceID="0xD3B21C4A" TextString="Pha chế rượu" />
+    <TextStringDefinition InstanceID="0xF3BAA2F6" TextString="Clown Bi thảm" />
+    <TextStringDefinition InstanceID="0x1661A64B" TextString="Người giao hàng Thức ăn Zoomers" />
+    <TextStringDefinition InstanceID="0xC669DEC5" TextString="Người giao hàng Thức ăn Zoomers{M0.man}{F0.woman}" />
+    <TextStringDefinition InstanceID="0x51A75CF2" TextString="Học sinh Lớp F Trung học" />
+    <TextStringDefinition InstanceID="0xA68DB46F" TextString="Đó là một khoảnh khắc tự hào trong cuộc đời của bất kỳ đứa trẻ nào khi chúng chuyển từ “học sinh trượt” sang “học sinh vừa đủ điểm”. Với đủ nỗ lực, {0.SimFirstName} sẽ bám sát {M0.his}{F0.her} con đường để lên “trung bình” trong chớp mắt. Và ĐÓ mới là lúc những cánh cửa bắt đầu mở ra..." />
+    <TextStringDefinition InstanceID="0x18106844" TextString="Học sinh Lớp D Trung học" />
+    <TextStringDefinition InstanceID="0x99B468BA" TextString="{0.SimFirstName} giờ đây có thể dễ dàng đạt điểm qua môn trong tất cả các môn học của {M0.his}{F0.her}. Nhưng {M0.he}{F0.she} không muốn dừng lại ở đó! Bây giờ {0.SimFirstName} đã khám phá ra năng khiếu học tập, đã đến lúc xem {M0.he}{F0.she} có thể đi được bao xa!" />
+    <TextStringDefinition InstanceID="0x6B10F921" TextString="Học sinh Lớp C Trung học" />
+    <TextStringDefinition InstanceID="0x075E27B9" TextString="{0.SimFirstName} đã làm việc rất chăm chỉ để đạt được điều này. Giờ đây có thể nói, với sự tự tin, rằng {0.SimFirstName} đang đạt được “điểm tốt”. Nhưng vinh quang không nằm ở đó. Nếu {M0.He}{F0.She} có thể thôi thúc {M0.himself}{F0.herself} thêm chút nữa, {0.SimFirstName} có thể đạt được toàn điểm A!" />
+    <TextStringDefinition InstanceID="0x2DAEECE6" TextString="Học sinh Lớp B Trung học" />
+    <TextStringDefinition InstanceID="0x96FCC19C" TextString="Có rất nhiều công sức, nhưng {0.SimFirstName} đã biến {M0.himself}{F0.herself} thành một cỗ máy đạt danh hiệu, đạt điểm cao, và có thêm điểm A. {M0.He}{F0.She} sẽ quên đi nhiều thứ trong bữa trưa hơn một số học sinh học được trong cả đời. Với {M0.him}{F0.her}, tương lai là vô hạn! " />

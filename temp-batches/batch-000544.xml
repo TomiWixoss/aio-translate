@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xA6A935E3" TextString="(Từ nỗi sợ công việc bế tắc)" />
+    <TextStringDefinition InstanceID="0x1723E935" TextString="{0.SimFirstName} không bao giờ biết điều gì đang rình rập trong bóng tối. Bóng tối chỉ là lớp màn che giấu những sinh vật đêm đáng sợ và kinh khủng nhất. {M0.Anh ấy}{F0.Cô ấy} cảm thấy chúng có thể xuất hiện bất cứ lúc nào! Và dạo này, một người đàn ông tên Vladislaus liên tục gọi!" />
+    <TextStringDefinition InstanceID="0xDF1558E7" TextString="(Từ nỗi sợ bóng tối)" />
+    <TextStringDefinition InstanceID="0x600A2E7D" TextString="(Từ nỗi sợ nơi đông người)" />
+    <TextStringDefinition InstanceID="0x7B9DBC61" TextString="Quá nhiều Sim ở một nơi! Đây đã là sức chứa tối đa chưa? Đây có nguy cơ cháy nổ không?! ĐẤT CÓ THỂ SỤP ĐỔ KHÔNG?! Có lẽ đã đến lúc {0.SimFirstName} lén đi." />
+    <TextStringDefinition InstanceID="0xA7EA0EC9" TextString="(Từ nỗi sợ bò cây)" />
+    <TextStringDefinition InstanceID="0xC7128A8D" TextString="{0.SimFirstName} đã sống sót qua cảm giác kinh khủng khi ở trong miệng bò cây! {M0.Anh ấy}{F0.Cô ấy} không bao giờ muốn cảm thấy nỗi kinh hoàng đó một lần nữa! Lần sau bò cây cắn thì sao?!" />
+    <TextStringDefinition InstanceID="0x8CB694B6" TextString="(Từ việc đối mặt với nỗi sợ)" />
+    <TextStringDefinition InstanceID="0xC1DD9ADB" TextString="Tiến độ nỗi sợ" />
+    <TextStringDefinition InstanceID="0xC5231897" TextString="(Từ nỗi sợ bị phán xét)" />
+    <TextStringDefinition InstanceID="0x29A110AF" TextString="Có thể chỉ là trùng hợp, nhưng {0.SimFirstName} không thể lay chuyển cảm giác rằng người khác liên tục phán xét {0.SimPronounObjective}. Có phải là {M0.mái tóc}{F0.mái tóc} của {M0.anh ấy}{F0.cô ấy}? Tính cách? Bạn bè? Bất cứ điều gì, {0.SimFirstName} sợ rằng đây sẽ không phải là lần cuối." />
+    <TextStringDefinition InstanceID="0x5E900EA7" TextString="Cảm giác như đã từ lâu {0.SimFirstName} chưa có những khoảnh khắc lãng mạn với {M0.người yêu}{F0.người yêu} của {M0.anh ấy}{F0.cô ấy}. Có thể là hoang tưởng, có thể là lo âu, hoặc cảm giác bất an, nhưng {0.SimFirstName} không thể không tự hỏi {M0.người yêu}{F0.người yêu} của {M0.anh ấy}{F0.cô ấy} đang làm gì hoặc gặp ai sau lưng {M0.anh ấy}{F0.cô ấy}!" />
+    <TextStringDefinition InstanceID="0xBFA34367" TextString="(Từ việc bị buộc tội ngoại tình)" />
+    <TextStringDefinition InstanceID="0x90CC2085" TextString="(Từ nỗi sợ bị phản bội)" />
+    <TextStringDefinition InstanceID="0x0EF69AFB" TextString="{0.SimFirstName} đã mở lòng và thiết lập kênh giao tiếp, nhưng vấn đề chưa kết thúc. Có lẽ một ngày giao tiếp thêm về những mối lo của {M0.anh ấy}{F0.cô ấy} sẽ cuối cùng giúp vượt qua nỗi sợ của {M0.anh ấy}{F0.cô ấy}." />
+    <TextStringDefinition InstanceID="0xC6DE0017" TextString="Kể từ khi {0.SimFirstName} nhận ra những đồ vật quý giá của {0.SimPronounPossessiveDependent} có thể bị hút vào túi kẻ trộm bất cứ tối nào, {0.SimPronounSubjective} {S0.đã}{P0.đã} lo lắng về cách {0.SimPronounSubjective} có thể bảo vệ tốt hơn đồ đạc của {0.SimPronounPossessiveDependent} lần sau." />
+    <TextStringDefinition InstanceID="0xFE035ECB" TextString="(Từ nỗi sợ bị trộm)" />
+    <TextStringDefinition InstanceID="0x76F9481B" TextString="(Từ việc xã hội hóa)" />
+    <TextStringDefinition InstanceID="0x5575E438" TextString="(Từ việc xã hội hóa)" />
+    <TextStringDefinition InstanceID="0xDF35BCD2" TextString="(Từ nỗ lực chia tay thất bại)" />
+    <TextStringDefinition InstanceID="0x3228CDF2" TextString="(Từ việc xã hội hóa)" />
+    <TextStringDefinition InstanceID="0xDCD04CBC" TextString="(Từ giải đấu trò chơi)" />
+    <TextStringDefinition InstanceID="0x9B2957CB" TextString="(Từ điện thoại)" />
+    <TextStringDefinition InstanceID="0x7D9629DC" TextString="(Từ việc nghiên cứu tài liệu nghệ thuật)" />
+    <TextStringDefinition InstanceID="0xA9EA8B99" TextString="(Từ trò đùa thất bại)" />
+    <TextStringDefinition InstanceID="0x300C065B" TextString="(Từ việc làm đồ gỗ)" />
+    <TextStringDefinition InstanceID="0xD71F282B" TextString="(Từ việc nâng cấp)" />
+    <TextStringDefinition InstanceID="0x5600CB86" TextString="(Từ việc sửa chữa)" />
+    <TextStringDefinition InstanceID="0xE2DF7F56" TextString="(Từ việc mơ mộng)" />
+    <TextStringDefinition InstanceID="0x3755C5F4" TextString="(Từ việc nấu ăn)" />
+    <TextStringDefinition InstanceID="0x6027D64E" TextString="(Từ việc nấu ăn)" />
+    <TextStringDefinition InstanceID="0x3142FF06" TextString="(Từ việc nấu ăn)" />
+    <TextStringDefinition InstanceID="0x76E003E8" TextString="(Từ việc xem biểu diễn)" />
+    <TextStringDefinition InstanceID="0xE1C316BD" TextString="(Từ gương)" />
+    <TextStringDefinition InstanceID="0x727A963A" TextString="(Từ việc cho lừa đảo trực tuyến)" />
+    <TextStringDefinition InstanceID="0x8A2702C8" TextString="(Từ việc cho từ thiện trực tuyến)" />
+    <TextStringDefinition InstanceID="0xAC4168BE" TextString="(Từ việc bị dính siêu vũ nước)" />
+    <TextStringDefinition InstanceID="0x71CE88C0" TextString="(Từ siêu vũ nước!)" />
+    <TextStringDefinition InstanceID="0x1F091D9E" TextString="(Từ việc bị vẩy nước trên ghế nổi)" />
+    <TextStringDefinition InstanceID="0xB0C785CC" TextString="(Từ bồn rửa đã nâng cấp)" />
+    <TextStringDefinition InstanceID="0x48FECE63" TextString="(Từ việc đánh răng)" />
+    <TextStringDefinition InstanceID="0x70952DF3" TextString="(Từ việc ở gần tia sét)" />
+    <TextStringDefinition InstanceID="0x07C83B04" TextString="(Từ việc bị sét đánh nhiều lần)" />
+    <TextStringDefinition InstanceID="0xD659CA53" TextString="(Từ đặc điểm khó đoán)" />
+    <TextStringDefinition InstanceID="0xA43AEE91" TextString="(Từ việc bị sét đánh)" />
+    <TextStringDefinition InstanceID="0xFAAFBDEA" TextString="(Từ việc ở ngoài trời trong bão tuyết)" />
+    <TextStringDefinition InstanceID="0x1F6A26B1" TextString="(Từ bão tuyết kèm sấm sét)" />
+    <TextStringDefinition InstanceID="0x9C9338EB" TextString="(Từ nôn nao)" />
+    <TextStringDefinition InstanceID="0x7609E331" TextString="(Từ sự hỗ trợ cảm xúc)" />
+    <TextStringDefinition InstanceID="0x49CE9804" TextString="(Từ sự hỗ trợ cảm xúc)" />

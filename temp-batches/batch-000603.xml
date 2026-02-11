@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x212CE44A" TextString="Chuyển Hộ Gia Đình từ Thư Viện" />
+    <TextStringDefinition InstanceID="0x894A7A82" TextString="Tạo Hộ Gia Đình Mới để Chuyển Vào" />
+    <TextStringDefinition InstanceID="0xE96C9053" TextString="Đuổi Hộ Gia Đình" />
+    <TextStringDefinition InstanceID="0x31A73DA4" TextString="Thêm" />
+    <TextStringDefinition InstanceID="0x1299EA39" TextString="Thay Đổi Loại Lô Đất" />
+    <TextStringDefinition InstanceID="0x65F5F238" TextString="Xây Dựng" />
+    <TextStringDefinition InstanceID="0x795A5CCA" TextString="Đang Du Lịch" />
+    <TextStringDefinition InstanceID="0xDB0CF5F6" TextString="Đang Đặt" />
+    <TextStringDefinition InstanceID="0xCCF68774" TextString="Đang Di Chuyển" />
+    <TextStringDefinition InstanceID="0xD393AE60" TextString="Ghi Chú Phát Hành" />
+    <TextStringDefinition InstanceID="0x47F1002E" TextString="Các món đồ mới đã có trong game của bạn!" />
+    <TextStringDefinition InstanceID="0x1B2EFB79" TextString="Để tìm các món đồ của bạn, hãy tìm biểu tượng cờ vàng trong Chế Tạo Nhân Vật hoặc Chế Độ Xây Dựng." />
+    <TextStringDefinition InstanceID="0x054DDA26" TextString="{0.String}" />
+    <TextStringDefinition InstanceID="0xB66D525F" TextString="Xin chào! Tôi là Emily! Chào mừng bạn đến The Sims 4! Tôi sẽ gặp bạn trong game!" />
+    <TextStringDefinition InstanceID="0x81E57AF0" TextString="Khám Phá Ngay!" />
+    <TextStringDefinition InstanceID="0xF90FDC9C" TextString="Bạn muốn khám phá thêm về Cộng Đồng The Sims 4?" />
+    <TextStringDefinition InstanceID="0xE8C8313D" TextString="Điều này sẽ mở một ứng dụng bên ngoài.\nBạn có muốn tiếp tục?" />
+    <TextStringDefinition InstanceID="0x320D73CD" TextString="Điều này sẽ mở một cửa sổ mới trong trình duyệt mặc định của bạn.\nBạn có muốn tiếp tục?" />
+    <TextStringDefinition InstanceID="0x3362D6D0" TextString="Chào mừng đến The Sims 4!" />
+    <TextStringDefinition InstanceID="0x3E81E4E2" TextString="Thức tỉnh\nTrí tưởng tượng của bạn!" />
+    <TextStringDefinition InstanceID="0xFB840F59" TextString="Phiên bản {0.String}" />
+    <TextStringDefinition InstanceID="0x4C8D4CC7" TextString="Xem tin tức &lt;span class=&quot;link&quot;&gt;&lt;a href=&quot;event:patch&quot;&gt;mới nhất và bản cập nhật&lt;/a&gt;&lt;/span&gt; • Thảo luận The Sims 4 và tìm hiểu thêm trên &lt;span class=&quot;link&quot;&gt;&lt;a href=&quot;event:forums&quot;&gt;diễn đàn The Sims 4&lt;/a&gt;&lt;/span&gt;" />
+    <TextStringDefinition InstanceID="0x9CC9620B" TextString="Tin Tức Mới Nhất" />
+    <TextStringDefinition InstanceID="0xA98280F2" TextString="{0.String} • {1.String}" />
+    <TextStringDefinition InstanceID="0x15A0FB14" TextString="Dừng" />
+    <TextStringDefinition InstanceID="0x5337EEB2" TextString="Chơi" />
+    <TextStringDefinition InstanceID="0x4108C264" TextString="Tạm Dừng" />
+    <TextStringDefinition InstanceID="0x75CE5956" TextString="Phóng To" />
+    <TextStringDefinition InstanceID="0x5F5D4F9C" TextString="Tìm Hiểu Thêm!" />
+    <TextStringDefinition InstanceID="0xE853A6F3" TextString="Phát hiện vấn đề với phát video." />
+    <TextStringDefinition InstanceID="0x4B5CFF63" TextString="Video được yêu cầu hiện không khả dụng." />
+    <TextStringDefinition InstanceID="0xE4E1BAE8" TextString="Không thể thiết lập kết nối lúc này." />
+    <TextStringDefinition InstanceID="0xE3B2FF6A" TextString="Đóng" />
+    <TextStringDefinition InstanceID="0x324B1735" TextString="Tạo Stuff Pack: Bỏ Phiếu Đầu Tiên" />
+    <TextStringDefinition InstanceID="0x4003FF6C" TextString="Hãy cho chúng tôi biết ý kiến của bạn!" />
+    <TextStringDefinition InstanceID="0xD910A3E1" TextString="Tham gia Khảo Sát" />
+    <TextStringDefinition InstanceID="0x011B0EC5" TextString="Đừng hỏi tôi về khảo sát nữa. Bật lại trong Menu Tùy Chọn." />
+    <TextStringDefinition InstanceID="0x46F26EE6" TextString="Nếu bạn có thể chịu đựng được, thật tuyệt nếu chúng tôi nghe từ bạn! Hãy cho chúng tôi biết ý kiến của bạn bằng cách tham gia khảo sát." />
+    <TextStringDefinition InstanceID="0x46F26EE5" TextString="Bạn có ý kiến? Bạn thích trả lời câu hỏi? Chúng tôi cần BẢN THÂN BẠN chia sẻ ý kiến!" />
+    <TextStringDefinition InstanceID="0x95D07851" TextString="Với tư cách là người chơi Sims, bạn có thể giúp làm game tốt hơn! Chúng tôi rất muốn nghe ý kiến của bạn khi chúng tôi nỗ lực cải thiện trải nghiệm của bạn." />
+    <TextStringDefinition InstanceID="0xBF81035C" TextString="Miễn Phí" />
+    <TextStringDefinition InstanceID="0x5B4E193B" TextString="Không tìm thấy kết quả. &lt;span class='link'&gt;&lt;a href='event:clickEvent'&gt;Hãy thử Thư Viện.&lt;/a&gt;&lt;/span&gt;" />
+    <TextStringDefinition InstanceID="0xC98D3EB1" TextString="Không tìm thấy kết quả." />
+    <TextStringDefinition InstanceID="0x55DC5ACB" TextString="Báo Cáo" />
+    <TextStringDefinition InstanceID="0xECEA4C52" TextString="Chọn Nội Dung Để Báo Cáo" />
+    <TextStringDefinition InstanceID="0xE312DF23" TextString="Không thể báo cáo món đồ Thư Viện của chính bạn." />
+    <TextStringDefinition InstanceID="0x04360202" TextString="Tất Cả" />
+    <TextStringDefinition InstanceID="0xA077C142" TextString="Nền Tảng" />
+    <TextStringDefinition InstanceID="0x649D5E1F" TextString="Khác" />
+    <TextStringDefinition InstanceID="0xE9B42EF6" TextString="Của Tôi" />

@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xD2025ED9" TextString="Chuẩn bị tham gia tất cả những truyền thống yêu thích của bạn." />
+    <TextStringDefinition InstanceID="0x9C070241" TextString="0" />
+    <TextStringDefinition InstanceID="0x554BE787" TextString="Người mới bắt đầu" />
+    <TextStringDefinition InstanceID="0x2B99B23F" TextString="&lt;font color='#199C2C'&gt;Dễ&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x876483D0" TextString="&lt;font color='#BB932F'&gt;Trung bình&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xB6315278" TextString="&lt;font color='#D32532'&gt;Khó&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x8B1CAA70" TextString="Tình huống câu chuyện" />
+    <TextStringDefinition InstanceID="0x9E108955" TextString="Bắt đầu chơi với một câu chuyện và hộ gia đình độc nhất, và chọn số phận cho Sim của bạn!" />
+    <TextStringDefinition InstanceID="0x57B84812" TextString="Học cách đạt được những điều tuyệt vời từng bước và nắm giữ câu chuyện của Sim!" />
+    <TextStringDefinition InstanceID="0x1F45C9C3" TextString="Tình huống chào mừng" />
+    <TextStringDefinition InstanceID="0xEE4B4538" TextString="Sử dụng sự sáng tạo và kỹ năng Sim của bạn để chiến thắng những hoàn cảnh độc nhất!" />
+    <TextStringDefinition InstanceID="0xDB1DAC6D" TextString="Tình huống thử thách" />
+    <TextStringDefinition InstanceID="0xE311DC61" TextString="{0.SimFirstName} đã hết {2.ObjectCatalogName} để dùng làm mồi. {M0.He}{F0.She} sẽ tiếp tục câu cá không có mồi." />
+    <TextStringDefinition InstanceID="0xEB66100D" TextString="Ở đây có một số con cá sang chỉ nhấp nháy hoa thôi." />
+    <TextStringDefinition InstanceID="0x7E4B04A0" TextString="Cá ở đây thích thức ăn tươi nhất. Hãy thử một ít trái cây trên dây câu." />
+    <TextStringDefinition InstanceID="0x935D9017" TextString="Những con cá hiếm nhất ở đây là ở đỉnh chuỗi thức ăn. Dùng mồi là con cá cỡ vừa có thể dụ chúng ra." />
+    <TextStringDefinition InstanceID="0x4741E769" TextString="Hầu hết cá ở đây sẽ ăn gần như mọi thứ - miễn là hữu cơ, chúng sẽ cắn!" />
+    <TextStringDefinition InstanceID="0x886CDB7A" TextString="Một số cá thực sự cần một mồi mà chúng có thể cắn vào." />
+    <TextStringDefinition InstanceID="0x4DC951EA" TextString="Những con cá quý giá ở đây thích săn mồi là cá nhỏ. Tội nghiệp, cá nhỏ. " />
+    <TextStringDefinition InstanceID="0xED035DB4" TextString="Một số cá ở đây thích nhai lưỡng cư. Hãy thử dùng ếch làm mồi." />
+    <TextStringDefinition InstanceID="0xCCB1A5B3" TextString="Những con cá này cắn bất cứ thứ gì. Miễn là có giá trị, chúng sẽ nhắm vào!" />
+    <TextStringDefinition InstanceID="0x7065D415" TextString="Con {3.String} {2.String} đã bị thu hút bởi {0.SimFirstName} do {0.SimPronounPossessiveDependent} {5.String}. Đúng không?" />
+    <TextStringDefinition InstanceID="0x30BA6E7C" TextString="{0.SimFirstName} bắt được một con {3.String} {2.String} trị giá {4.String}! Còn gì khác có thể ở ngoài đó?" />
+    <TextStringDefinition InstanceID="0x673F66F9" TextString="Loại cá: {0.String}\nLoại mồi: {1.String}" />
+    <TextStringDefinition InstanceID="0xD5EBD9BF" TextString="Liệu {1.String} có giúp {0.SimFirstName} bắt được {2.ObjectName|enAn} hay {0.SimPronounSubjective} chỉ tưởng tượng?" />
+    <TextStringDefinition InstanceID="0xB99F692A" TextString="{0.SimFirstName} vừa bắt được {2.ObjectName|enAn}!" />
+    <TextStringDefinition InstanceID="0x76FFA239" TextString="Kho báu bắt được:" />
+    <TextStringDefinition InstanceID="0x96745B7A" TextString="{0.Number} món đồ rác đã chiếm không gian trong bẫy!" />
+    <TextStringDefinition InstanceID="0xF4C7CA01" TextString="{0.String} {1.String} {2.String}" />
+    <TextStringDefinition InstanceID="0x17179BB4" TextString="Cá bắt được:" />
+    <TextStringDefinition InstanceID="0xB598EE3B" TextString="Bẫy trống!" />
+    <TextStringDefinition InstanceID="0x81F3C80E" TextString="Bạn đã bắt được những thứ sau trong bẫy.\n{0.String}" />
+    <TextStringDefinition InstanceID="0x1015499D" TextString="{0.Number} kg" />
+    <TextStringDefinition InstanceID="0x7EF62F7C" TextString="Hãy đến xem ThrifTea! Chúng tôi vừa có một số mặt hàng độc quyền mới tại cửa hàng đồ second-hand! Nhớ nhé, có hôm nay không có ngày mai! Đừng bỏ lỡ!" />
+    <TextStringDefinition InstanceID="0x5E315F2C" TextString="Chọn Sim để Tạo Kết Nối" />
+    <TextStringDefinition InstanceID="0xF06764BF" TextString="Đồng hành của {0.SimName} cần thêm không gian để đáp lại lời triệu hồi của chủ nhân." />
+    <TextStringDefinition InstanceID="0x685BEDA3" TextString="Biểu tượng nổi bật của phép thuật và tri thức cổ xưa. Chúng có kết nối mạnh mẽ với mặt trăng và kiên định theo đuổi pháp sư đã chọn." />
+    <TextStringDefinition InstanceID="0x2E191311" TextString="Khi bạn cần một người bảo vệ thực sự khiến đối thủ sợ hãi, hãy cân nhắc hộp sọ. Khó mà không bị đe dọa bởi đồng hành lơ lửng, ám ảnh này." />
+    <TextStringDefinition InstanceID="0xC0937743" TextString="Hoàng gia và mạnh mẽ, con rồng này không bao giờ nên bị đánh giá thấp dựa trên kích thước. Nó là một đối thủ đáng gờm cũng như một người bạn được trân trọng." />
+    <TextStringDefinition InstanceID="0xE05FA7A8" TextString="Năng lượng thuần khiết kết hợp thành hình dạng một đồng hành tiên nhỏ, không thể nhận ra bất kỳ đặc điểm nào ngoài đôi cánh phép thuật của nó. Có thể cảm nhận được một tia lửa nhẹ khi ở gần." />
+    <TextStringDefinition InstanceID="0x519FB55A" TextString="Hãy cảnh giác tránh ánh nhìn trực tiếp của ếch phát sáng. Chúng thường là những kẻ khá tinh nghịch mặc dù vô hại khi được để mặc." />
+    <TextStringDefinition InstanceID="0x1074737D" TextString="Lợi ích để thay đổi cách các Sim khác trong thế giới tương tác với các thành viên Triều đại của bạn." />
+    <TextStringDefinition InstanceID="0xAFEFBDCD" TextString="Xã hội" />
+    <TextStringDefinition InstanceID="0x282007E9" TextString="Lợi ích để cải thiện kỹ năng của Sim bạn." />
+    <TextStringDefinition InstanceID="0xE47C4FF1" TextString="Đặc điểm có thể kế thừa" />
+    <TextStringDefinition InstanceID="0xA9D816A6" TextString="Lợi ích để trao cho các Sim trong Triều đại của bạn hiệu suất tốt hơn." />
+    <TextStringDefinition InstanceID="0xBD9A6258" TextString="Thành công" />
+    <TextStringDefinition InstanceID="0x45C1A584" TextString="Ảnh hưởng" />
+    <TextStringDefinition InstanceID="0xE4341B37" TextString="{0.String} ({1.Number} Ảnh hưởng)" />
+    <TextStringDefinition InstanceID="0xD88C5116" TextString="Mảnh" />

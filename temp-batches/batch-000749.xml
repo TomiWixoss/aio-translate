@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x084DF900" TextString="Để {2.SimFirstName} thổi tắt nến" />
+    <TextStringDefinition InstanceID="0x2F567854" TextString="Lên tuổi cho Sim" />
+    <TextStringDefinition InstanceID="0xBAD46240" TextString="Giúp thổi tắt nến" />
+    <TextStringDefinition InstanceID="0x424885D8" TextString="Thêm topping sinh nhật" />
+    <TextStringDefinition InstanceID="0x87BBB837" TextString="WooHoo với" />
+    <TextStringDefinition InstanceID="0x7D95CFAA" TextString="Đề xuất WooHoo liên tục với {2.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x0D32A574" TextString="Làm loạn với" />
+    <TextStringDefinition InstanceID="0xB3FCBF88" TextString="Tiếp tục độ cứng nệm" />
+    <TextStringDefinition InstanceID="0x156CB62F" TextString="Nâng cấp độ cứng nệm và cho phép Sim có giấc ngủ sâu hơn và thức dậy với tâm trạng tích cực." />
+    <TextStringDefinition InstanceID="0x01EA5944" TextString="Độ cứng nệm" />
+    <TextStringDefinition InstanceID="0x3A842282" TextString="Tiếp tục điều khiển massage" />
+    <TextStringDefinition InstanceID="0x1389D88D" TextString="Tăng lượng năng lượng nhận được khi Ngủ và Ngủ trưa." />
+    <TextStringDefinition InstanceID="0xE33D5DEE" TextString="Điều khiển massage" />
+    <TextStringDefinition InstanceID="0x6E808E32" TextString="Nâng cấp hoàn tất!\n\n{0.SimFirstName} đã hoàn thành việc cài đặt nâng cấp Giường." />
+    <TextStringDefinition InstanceID="0xB0E3F5C8" TextString="Trốn dưới chăn!" />
+    <TextStringDefinition InstanceID="0x096B2714" TextString="Đọc dưới chăn" />
+    <TextStringDefinition InstanceID="0x7C0EF9D0" TextString="Trốn khỏi mọi người" />
+    <TextStringDefinition InstanceID="0x4A8AACEE" TextString="Khóc để giải tỏa" />
+    <TextStringDefinition InstanceID="0x3EDD1262" TextString="Khóc một cách kịch tính về cuộc sống" />
+    <TextStringDefinition InstanceID="0x36D7A084" TextString="Đắp chăn" />
+    <TextStringDefinition InstanceID="0x9313083F" TextString="Chỉ Trẻ nhỏ mới có thể sử dụng điều này. " />
+    <TextStringDefinition InstanceID="0x0277D41D" TextString="{0.SimFirstName} cần một Chiếu ngủ cỡ Trẻ nhỏ. " />
+    <TextStringDefinition InstanceID="0xFD21AA93" TextString="Ngủ mãi mãi (Debug)" />
+    <TextStringDefinition InstanceID="0xFC45FB15" TextString="Ngủ" />
+    <TextStringDefinition InstanceID="0x3973BABC" TextString="{0.SimFirstName} quá sợ để ngủ trên giường lúc này." />
+    <TextStringDefinition InstanceID="0xAE6EC606" TextString="{0.SimName} quá sợ giường nên không thể ngủ trên đó!" />
+    <TextStringDefinition InstanceID="0xF7B43B00" TextString="{0.SimFirstName} quá hào hứng để ngủ lúc này." />
+    <TextStringDefinition InstanceID="0xE54D4FDB" TextString="{0.SimFirstName} có ngứa tay sáng tạo quá mạnh nên không thể ngủ lúc này!" />
+    <TextStringDefinition InstanceID="0x536B2339" TextString="{0.SimName} quá sợ để ngủ!" />
+    <TextStringDefinition InstanceID="0x6437657E" TextString="Quá ồn để {0.SimFirstName} ngủ lúc này." />
+    <TextStringDefinition InstanceID="0x56A6725F" TextString="{0.SimFirstName} chỉ có thể ngủ trong quan tài." />
+    <TextStringDefinition InstanceID="0xFEB98B5E" TextString="{0.SimFirstName} đang gặp khó khăn trong việc tin tưởng giường lúc này, {M0.he}{F0.she} cần thời gian để suy ngẫm và chữa lành. " />
+    <TextStringDefinition InstanceID="0xF844144A" TextString="Đi ngủ" />
+    <TextStringDefinition InstanceID="0xE2466F7C" TextString="Giấc ngủ của Ma cà rồng" />
+    <TextStringDefinition InstanceID="0x32D2CECC" TextString="(Từ giấc ngủ)" />
+    <TextStringDefinition InstanceID="0xEC20801E" TextString="Trẻ nhỏ chỉ có thể Ngủ trong Giường trẻ nhỏ." />
+    <TextStringDefinition InstanceID="0x99999747" TextString="Ngủ?" />
+    <TextStringDefinition InstanceID="0x7FDB5061" TextString="Sạc lại" />
+    <TextStringDefinition InstanceID="0xCE71E2A7" TextString="Lô nhà ở gốc từ Willow Creek." />
+    <TextStringDefinition InstanceID="0x9AECD367" TextString="Streamlet Single" />
+    <TextStringDefinition InstanceID="0xCD7787C8" TextString="Lô nhà ở gốc từ Willow Creek." />
+    <TextStringDefinition InstanceID="0x713CE383" TextString="Bargain Bend" />
+    <TextStringDefinition InstanceID="0xCBE6363A" TextString="Riverside Roost" />
+    <TextStringDefinition InstanceID="0xF6274548" TextString="Bánh kếp" />
+    <TextStringDefinition InstanceID="0x3C4FAE5D" TextString="Bob và Eliza tội nghiệp – họ có bao giờ hạnh phúc? Có vẻ như không có gì có thể làm người kia hài lòng. Điều gì giữ cặp đôi này bên nhau? Hoặc ngược lại, tia lửa nào cuối cùng sẽ chia rẽ họ?" />
+    <TextStringDefinition InstanceID="0x528B69D5" TextString="Pique Hearth" />
+    <TextStringDefinition InstanceID="0xC3FACECA" TextString="Lô nhà ở gốc từ Willow Creek." />
+    <TextStringDefinition InstanceID="0xE9E6A1F4" TextString="Rindle Rose" />
+    <TextStringDefinition InstanceID="0x1E913847" TextString="Brook Bungalow" />
+    <TextStringDefinition InstanceID="0x63988BB8" TextString="Potters Splay" />

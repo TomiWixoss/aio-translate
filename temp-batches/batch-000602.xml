@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xB2E8FD36" TextString="Chủ sở hữu" />
+    <TextStringDefinition InstanceID="0x181EAF08" TextString="Lô đất này có hơn 6 đơn vị.\nMở Chế độ xem đơn vị để biết thêm chi tiết." />
+    <TextStringDefinition InstanceID="0xC5B2024E" TextString="Quản lý Hộ gia đình" />
+    <TextStringDefinition InstanceID="0xE905D3D0" TextString="Sim của bạn đang ở đây." />
+    <TextStringDefinition InstanceID="0x9CC3F465" TextString="Lô đất này không có sẵn." />
+    <TextStringDefinition InstanceID="0xB7D28E85" TextString="Sim có thể mua Lô đất Cộng đồng Chưa thuộc sở hữu, Lô đất Nhà ở Chưa có người ở,\nhoặc Địa điểm Kinh doanh Nhỏ Chưa thuộc sở hữu dưới dạng Địa điểm Kinh doanh Nhỏ." />
+    <TextStringDefinition InstanceID="0xF846ED93" TextString="Sim không thể sống trên các lô đất không phải nhà ở." />
+    <TextStringDefinition InstanceID="0x597C5CBD" TextString="Lô đất này là {0.String}. Nó quá nhỏ." />
+    <TextStringDefinition InstanceID="0x0D11D52E" TextString="Vào Chế độ Xây dựng để đặt nó từ Thư viện trên lô đất này." />
+    <TextStringDefinition InstanceID="0x277D550A" TextString="Bạn không thể đặt một lô đất bên trong tòa nhà này." />
+    <TextStringDefinition InstanceID="0x1064A4BC" TextString="Sim không thể sống trên các lô đất không phải nhà ở. Bạn phải trước tiên evict các Sim trước khi đặt bản phác thảo này." />
+    <TextStringDefinition InstanceID="0x3C6AE450" TextString="Không thể đặt bản phác thảo trên các lô Ký túc xá Đại học đã có người ở." />
+    <TextStringDefinition InstanceID="0x92D77937" TextString="Các lô cho Thuê Kỳ nghỉ chỉ có sẵn thông qua kỳ nghỉ" />
+    <TextStringDefinition InstanceID="0x1E3B2DE1" TextString="Ký túc xá Đại học chỉ có sẵn thông qua việc nhập học." />
+    <TextStringDefinition InstanceID="0x82CA5EAE" TextString="Bạn không thể chi trả lô đất này và không có chỗ cho hộ gia đình này chuyển vào đây." />
+    <TextStringDefinition InstanceID="0x705797DF" TextString="Bạn không thể chi trả lô đất này." />
+    <TextStringDefinition InstanceID="0x294090EF" TextString="Nơi cư trú hiện tại của hộ gia đình." />
+    <TextStringDefinition InstanceID="0x3B94BA58" TextString="Bạn phải chọn một Lô đất chưa có người ở cho Hộ gia đình của mình." />
+    <TextStringDefinition InstanceID="0xF1E213EC" TextString="Lô đất này không thể thay đổi." />
+    <TextStringDefinition InstanceID="0x01738D7A" TextString="Tất cả các lô đất trong tòa nhà này đều không có sẵn." />
+    <TextStringDefinition InstanceID="0x17C4B88F" TextString="Quản lý Các Hộ gia đình" />
+    <TextStringDefinition InstanceID="0x0779DCE0" TextString="Thời gian Sự kiện: Mỗi {0.DayOfWeekLong} {1.TimeShort} đến {2.TimeShort}" />
+    <TextStringDefinition InstanceID="0x9FB69EE8" TextString="Thời gian Sự kiện: Mỗi {0.DayOfWeekLong} {1.TimeShort} đến {2.TimeShort}\nKết thúc: {3.DateLong}" />
+    <TextStringDefinition InstanceID="0x2DA3AC07" TextString="Chế độ Dấu chân Môi trường" />
+    <TextStringDefinition InstanceID="0xD8EB088F" TextString="Xem thế giới của bạn đang thay đổi như thế nào!\nBằng cách chuyển đổi Chế độ Dấu chân Môi trường, bạn có thể xem Dấu chân Môi trường của từng khu phố và lô đất." />
+    <TextStringDefinition InstanceID="0xA7397272" TextString="Các Sim đang nghỉ phép không thể ở trên các lô đất không được chỉ định là Thuê Kỳ nghỉ." />
+    <TextStringDefinition InstanceID="0xEF2F4E3D" TextString="Kinh doanh Nhỏ (Nhà ở)" />
+    <TextStringDefinition InstanceID="0xD1E3CA5E" TextString="Không có sẵn trong chế độ này" />
+    <TextStringDefinition InstanceID="0xCFCDDEC4" TextString="Chỉ sinh viên {0.String}" />
+    <TextStringDefinition InstanceID="0x296A3319" TextString="Chỉ sinh viên {0.String}" />
+    <TextStringDefinition InstanceID="0x35AE5254" TextString="Liên kết: {0.String}" />
+    <TextStringDefinition InstanceID="0x7D140B19" TextString="\n&lt;b&gt;Khu phố này không thể chỉnh sửa. Chơi một hộ gia đình và sử dụng điện thoại để nghỉ phép tại đây.&lt;/b&gt;" />
+    <TextStringDefinition InstanceID="0x709A0541" TextString="Chọn một Sim để Chơi" />
+    <TextStringDefinition InstanceID="0x94981704" TextString="Tiền thuê hàng tuần: {0.Money}  -  Tiền đặt cọc: {1.Money}" />
+    <TextStringDefinition InstanceID="0xD0AE381F" TextString="{0.Number}x{1.Number}" />
+    <TextStringDefinition InstanceID="0xDECA80CE" TextString="Quỹ: {0.Money}" />
+    <TextStringDefinition InstanceID="0x12E6F05F" TextString="Nội thất: {0.Money}" />
+    <TextStringDefinition InstanceID="0xBF0FDA66" TextString="{0.Number} trên {1.Number} Đơn vị Có sẵn" />
+    <TextStringDefinition InstanceID="0xAB955FF4" TextString="Dữ liệu Trò chơi Chưa đầy đủ" />
+    <TextStringDefinition InstanceID="0x1CBE546E" TextString="Không thể tải tất cả dữ liệu trò chơi. Trò chơi lưu tham chiếu đến các khu phố đã được gỡ cài đặt hoặc không còn có sẵn. Nếu bạn tiếp tục chơi, bạn sẽ gặp dữ liệu bị thiếu và có thể có kết quả không mong muốn. Nếu bạn lưu trò chơi, sẽ không có cách nào khôi phục dữ liệu bị thiếu." />
+    <TextStringDefinition InstanceID="0x10242572" TextString="Chọn một Thế giới để chuyển vào" />
+    <TextStringDefinition InstanceID="0x30EBE68E" TextString="Chọn một nơi để sống" />
+    <TextStringDefinition InstanceID="0xA5ABADFC" TextString="{0.Number} Kỳ nghỉ {S0.Group}{P0.Groups}" />
+    <TextStringDefinition InstanceID="0xDE06CAA6" TextString="{0.Number} Hộ gia đình Đã chơi{P0.s}" />
+    <TextStringDefinition InstanceID="0xF7BCCF01" TextString="Thăm" />
+    <TextStringDefinition InstanceID="0x96FD4FE4" TextString="Du lịch" />
+    <TextStringDefinition InstanceID="0x6E3F5FCC" TextString="Bán Địa điểm Kinh doanh Nhỏ" />
+    <TextStringDefinition InstanceID="0x7D594FF9" TextString="Tiếp tục Chỉnh sửa Địa điểm" />
+    <TextStringDefinition InstanceID="0x5358CD9E" TextString="Chơi" />
+    <TextStringDefinition InstanceID="0x9EA57AA5" TextString="Chuyển hộ gia đình ra" />

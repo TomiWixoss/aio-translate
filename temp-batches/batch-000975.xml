@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x1C500645" TextString="Để tham gia Sự nghiệp Ẩm thực, nhấp vào Điện thoại hoặc Máy tính và chọn tương tác Tìm việc. Để được thăng chức, hoàn thành Yêu cầu Thăng chức và đi làm trong Tâm trạng Lý tưởng của Sự nghiệp." />
+    <TextStringDefinition InstanceID="0xB5FAF248" TextString="Đạt Cấp 4 của Sự nghiệp Ẩm thực" />
+    <TextStringDefinition InstanceID="0x57CCC2D0" TextString="Để Ăn mừng, nhấp vào bếp để chọn Công thức Bánh. Sau đó, thêm Nến Sinh nhật và sau đó Ăn mừng khoảnh khắc!" />
+    <TextStringDefinition InstanceID="0xAA351D8D" TextString="Nhấp vào Điện thoại để Lập kế hoạch cho Sự kiện Tiệc Tối. Khi Sự kiện bắt đầu, hoàn thành các Mục tiêu xuất hiện để kiếm được điểm số cao hơn!" />
+    <TextStringDefinition InstanceID="0xBA2F3C38" TextString="Để nấu một bữa ăn cao cấp, Sim phải có Kỹ năng Nấu ăn Cấp 5. Nhấp vào Tủ lạnh, chọn Nấu một Bữa ăn Cao cấp, và chọn một công thức từ danh sách." />
+    <TextStringDefinition InstanceID="0xFD0E3589" TextString="Nấu một Bữa ăn Cao cấp" />
+    <TextStringDefinition InstanceID="0x88191E2F" TextString="Để tăng Kỹ năng Nấu ăn của Sim, sử dụng Tủ lạnh hoặc Bếp để làm thức ăn, Xem Kênh Nấu ăn trên TV, hoặc đọc Sách Kỹ năng Nấu ăn. Sách Kỹ năng có thể được mua trực tiếp từ Kệ sách bằng cách sử dụng tương tác Mua Sách!" />
+    <TextStringDefinition InstanceID="0x1A2A00D6" TextString="Đạt Cấp {1.Number} Kỹ năng Nấu ăn" />
+    <TextStringDefinition InstanceID="0x5B741C6B" TextString="Nhấp vào Tủ lạnh, chọn Nấu, và chọn một công thức từ danh sách. Di chuyển con trỏ qua thức ăn để kiểm tra chất lượng của nó!" />
+    <TextStringDefinition InstanceID="0x1EE022C4" TextString="Để tăng Kỹ năng Pha chế, sử dụng Quầy bar để Làm đồ uống, Phục vụ tại Quầy bar, hoặc đọc Sách Kỹ năng Pha chế. Sách Kỹ năng có thể được mua trực tiếp từ Kệ sách bằng cách sử dụng tương tác Mua Sách!" />
+    <TextStringDefinition InstanceID="0x70F4D252" TextString="Để tham gia nhánh Pha chế, trước tiên phát triển qua Sự nghiệp Ẩm thực bằng cách hoàn thành Yêu cầu Thăng chức và đi làm trong Tâm trạng Lý tưởng của Sự nghiệp." />
+    <TextStringDefinition InstanceID="0xBD38ECEC" TextString="Để tham gia một sự nghiệp, nhấp vào Điện thoại hoặc Máy tính và chọn tương tác Tìm việc." />
+    <TextStringDefinition InstanceID="0xFDAA626A" TextString="Nhấp vào Quầy bar, chọn Làm đồ uống, và chọn một công thức từ danh sách. Di chuyển con trỏ qua đồ uống để kiểm tra chất lượng của nó! Sim có Kỹ năng cao có khả năng tạo ra đồ uống chất lượng cao hơn." />
+    <TextStringDefinition InstanceID="0xD1387975" TextString="Tham gia Sự nghiệp Ẩm thực" />
+    <TextStringDefinition InstanceID="0x03FAB319" TextString="Nhấp vào Điện thoại để Lập kế hoạch cho Sự kiện Tiệc Xã hội. Khi Sự kiện bắt đầu, nhấp vào Quầy bar, chọn Làm đồ uống, và chọn một công thức từ danh sách." />
+    <TextStringDefinition InstanceID="0xEDA0FC34" TextString="Để tăng Kỹ năng Pha chế, sử dụng Quầy bar để Làm đồ uống, Phục vụ tại Quầy bar, hoặc đọc Sách Kỹ năng Pha chế. Sách Kỹ năng có thể được mua trực tiếp từ Kệ sách bằng cách sử dụng tương tác Mua Sách!" />
+    <TextStringDefinition InstanceID="0x97B6B5B3" TextString="Đạt Cấp {1.Number} Kỹ năng Pha chế" />
+    <TextStringDefinition InstanceID="0xF4ECCF00" TextString="Quầy bar và Ghế Quầy bar có thể được mua từ Chế độ Xây dựng dưới mục Phòng Ăn." />
+    <TextStringDefinition InstanceID="0x9F4BD31F" TextString="Sở hữu 2 Ghế Quầy bar" />
+    <TextStringDefinition InstanceID="0x07131EB5" TextString="Nhấp vào Quầy bar, chọn Làm đồ uống, và chọn một công thức từ danh sách." />
+    <TextStringDefinition InstanceID="0x1DE73287" TextString="Trở thành Bạn tốt với {1.Number} Con hoặc Cháu" />
+    <TextStringDefinition InstanceID="0x47D74226" TextString="Có {1.Number} Cháu" />
+    <TextStringDefinition InstanceID="0x8D8DD2D4" TextString="Có một Con hoặc Cháu Đạt đỉnh của một Sự nghiệp" />
+    <TextStringDefinition InstanceID="0x7BD641FA" TextString="Có một Con Hoàn thành một Nguyện vọng" />
+    <TextStringDefinition InstanceID="0x2D0087CA" TextString="Có một Con Kết hôn" />
+    <TextStringDefinition InstanceID="0x2BB637B6" TextString="Có một Con Đạt tối đa Bất kỳ Kỹ năng nào" />
+    <TextStringDefinition InstanceID="0x8E5F0769" TextString="Có một Con Đạt điểm &quot;A&quot; ở Trường Trung học" />
+    <TextStringDefinition InstanceID="0xCF6FF326" TextString="Trở thành Phụ huynh" />
+    <TextStringDefinition InstanceID="0x09E7C2BF" TextString="Giúp một Con với Bài tập về nhà {1.Number} lần" />
+    <TextStringDefinition InstanceID="0x4AAB9F21" TextString="Chi 1.000§ cho Đồ dùng Trẻ em" />
+    <TextStringDefinition InstanceID="0x62948C93" TextString="Nhấp vào con hoặc cháu của Sim và thực hiện các Tương tác Xã hội Thân thiện hoặc Hài hước để tăng Mối quan hệ!" />
+    <TextStringDefinition InstanceID="0xEC3EA8FC" TextString="Nhìn thấy con của Sim có ít nhất {1.Number} con của chúng. Điều này có thể được thực hiện thông qua hôn nhân, nhận con nuôi, hoặc các phương pháp &quot;cổ điển&quot; hơn (nói mà nháy mắt)." />
+    <TextStringDefinition InstanceID="0xB5EE3D6B" TextString="Nhấp vào một Đứa trẻ mà bạn là Phụ huynh, Người phụ thuộc chăm sóc, hoặc Ông bà của nó và chọn bất kỳ Tương tác Xã hội nào." />
+    <TextStringDefinition InstanceID="0xF231D564" TextString="Giao xã hội với Con hoặc Cháu của bạn {1.Number} lần" />
+    <TextStringDefinition InstanceID="0x820187BC" TextString="Hãy để con của Sim này kết hôn và bắt đầu một gia đình riêng của chúng!" />
+    <TextStringDefinition InstanceID="0x4C9F5769" TextString="Nhấp vào con của Sim và thực hiện các Tương tác Xã hội Thân thiện hoặc Hài hước để tăng Mối quan hệ!" />
+    <TextStringDefinition InstanceID="0xF2A5D40C" TextString="Trở thành Bạn với 3 trong số Con của bạn" />
+    <TextStringDefinition InstanceID="0x36FD0884" TextString="Nhấp vào một Sim và thực hiện các Tương tác Xã hội Thân thiện hoặc Hài hước để tăng Mối quan hệ và kết bạn!" />
+    <TextStringDefinition InstanceID="0x4DF2ACA3" TextString="Trở thành Phụ huynh của một Đứa trẻ có 3 Bạn" />
+    <TextStringDefinition InstanceID="0xA878ED20" TextString="Có một trong số con hoặc cháu của Sim đạt cấp độ tối đa của một sự nghiệp. Để được thăng chức, hoàn thành Yêu cầu Thăng chức và đi làm trong Tâm trạng Lý tưởng của Sự nghiệp." />
+    <TextStringDefinition InstanceID="0x79796BB7" TextString="Khi đã chọn một Sim trẻ em, hãy chọn một Nguyện vọng từ Bảng Nguyện vọng. Các Nguyện vọng Trẻ em tập trung vào xây dựng các Kỹ năng như Sáng tạo, Tư duy, Vận động, và Xã hội." />
+    <TextStringDefinition InstanceID="0x378D2A96" TextString="Phụ huynh có thể Khuyến khích con cái của họ bằng cách sử dụng Bảng Hoạt động. Họ cũng có thể Hướng dẫn con trong nhiều Kỹ năng một khi chúng đã lớn lên." />
+    <TextStringDefinition InstanceID="0x7BD0A7B1" TextString="Hướng dẫn Con của bạn {1.Number} lần" />
+    <TextStringDefinition InstanceID="0x5EBE4925" TextString="Hãy để con của Sim đạt tối đa bất kỳ kỹ năng trẻ em nào! Nếu chúng đã lớn lên, đạt tối đa bất kỳ kỹ năng người lớn nào cũng được." />
+    <TextStringDefinition InstanceID="0xA9740666" TextString="Để đạt điểm A ở trường trung học, hãy hoàn thành Bài tập về nhà và Yêu cầu Cấp lớp. Đi đến trường khi Tập trung cũng sẽ giúp ích!" />
+    <TextStringDefinition InstanceID="0xAC80BF87" TextString="Nhấp vào một Sim trẻ em đang làm bài tập và chọn tương tác Xã hội Giúp với Bài tập." />
+    <TextStringDefinition InstanceID="0x3FFFEEFC" TextString="Nhấp vào một Đứa trẻ mà bạn là Phụ huynh hoặc Người phụ thuộc chăm sóc của nó và chọn bất kỳ Tương tác Xã hội nào." />
+    <TextStringDefinition InstanceID="0xAB29F009" TextString="Giao xã hội với Con của bạn {1.Number} lần" />
+    <TextStringDefinition InstanceID="0x7813F23E" TextString="Đồ dùng trẻ em có thể được mua từ Chế độ Xây dựng dưới mục Chức năng Trẻ em." />
+    <TextStringDefinition InstanceID="0xEB40C33D" TextString="Nhấp vào một Sim của giới khác và chọn Thử có em bé từ danh mục Lãng mạn. Để có con, Sim phải có Mối quan hệ Lãng mạn cao với Sim mà họ sẽ Thử có em bé với. Hoặc, nhận con nuôi một Sim từ Máy tính!" />

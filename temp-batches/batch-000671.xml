@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x429D6A95" TextString="Nhấp vào Kính hiển vi và chọn Mẫu để Phân tích. Sim có thể mở khóa tương tác này bằng cách tăng Kỹ năng Logic và thu thập Mẫu từ Tinh thể hoặc Kim loại." />
+    <TextStringDefinition InstanceID="0x6C5FB1F4" TextString="Phân tích Mẫu Kính hiển vi" />
+    <TextStringDefinition InstanceID="0x82BFF665" TextString="Nhấp vào Gương và chọn Ngắm Mình. Sim có thể thực hiện tương tác này khi Đang Vui vẻ hoặc Tự tin." />
+    <TextStringDefinition InstanceID="0xB7B40884" TextString="Ngắm Mình trong Gương" />
+    <TextStringDefinition InstanceID="0x673770A1" TextString="Đi đến Bảo tàng bằng cách mở Bản đồ Thế giới và nhấp vào Địa điểm. Khi đến đó, nhấp vào một tác phẩm Nghệ thuật để Xem hoặc Ngắm." />
+    <TextStringDefinition InstanceID="0x4E316D50" TextString="Đi đến Bảo tàng bằng cách mở Bản đồ Thế giới và nhấp vào Địa điểm. Khi đến đó, nhấp vào một tác phẩm Nghệ thuật để Xem hoặc Ngắm." />
+    <TextStringDefinition InstanceID="0x0CFF7C8F" TextString="Xem hoặc Ngắm một Tác phẩm Nghệ thuật tại Bảo tàng" />
+    <TextStringDefinition InstanceID="0xA9CEA902" TextString="Chọn Bảng Hoạt động và Tạo ra thứ gì đó." />
+    <TextStringDefinition InstanceID="0xF44E98DA" TextString="Tạo ra trên Bảng Hoạt động" />
+    <TextStringDefinition InstanceID="0x6FDA629C" TextString="Nhấp vào một Sim ngoài hộ gia đình của bạn và chọn bất kỳ tương tác xã hội nào." />
+    <TextStringDefinition InstanceID="0x3AA376FC" TextString="Trò chuyện với Sim không thuộc Hộ gia đình" />
+    <TextStringDefinition InstanceID="0xF1319C74" TextString="Nhấp vào một Sim khác và chọn tương tác xã hội Khuấy động." />
+    <TextStringDefinition InstanceID="0x683F3864" TextString="Khuấy động một Sim" />
+    <TextStringDefinition InstanceID="0x7B98B066" TextString="Nhấp vào Điện thoại, chọn Danh mục Kinh doanh rồi chọn Nghỉ việc." />
+    <TextStringDefinition InstanceID="0xC8186E16" TextString="Nghỉ việc" />
+    <TextStringDefinition InstanceID="0x8E632DCB" TextString="Nhấp vào điện thoại và chọn Đặt Pizza." />
+    <TextStringDefinition InstanceID="0x69415099" TextString="Đặt Pizza" />
+    <TextStringDefinition InstanceID="0x21B75787" TextString="Cam kết với Sim khác" />
+    <TextStringDefinition InstanceID="0x750215ED" TextString="Bắt đầu một Mối quan hệ mới" />
+    <TextStringDefinition InstanceID="0x5FF88702" TextString="Người chết có thể được thương tiếc bằng cách nhấp vào bia mộ hoặc bình và chọn Thương tiếc." />
+    <TextStringDefinition InstanceID="0x4F4372DA" TextString="Thương tiếc người đã khuất" />
+    <TextStringDefinition InstanceID="0x4A91BBC8" TextString="Tìm hoặc làm bừa bãi một phòng để tạo ra moodlet Môi trường tiêu cực lớn." />
+    <TextStringDefinition InstanceID="0xDB5E2B00" TextString="Ở trong Môi trường Bừa bãi" />
+    <TextStringDefinition InstanceID="0xCD8D5356" TextString="Chọn {1.SimFirstName} và nhấp Nhìn vào Mặt tốt. Điều này có thể được thực hiện khi đang ở trong bất kỳ tâm trạng tiêu cực nào." />
+    <TextStringDefinition InstanceID="0x1C125A11" TextString="Sử dụng tương tác Hiểu biết trong mục Sở thích và Không thích dưới Danh mục Thân thiện trên 3 Sim khác nhau. Đây là một cách tuyệt vời để khám phá những Đặc điểm của họ!" />
+    <TextStringDefinition InstanceID="0xDCC7E8D6" TextString="Giao xã hội với Ai đó" />
+    <TextStringDefinition InstanceID="0x751102E4" TextString="Sử dụng bất kỳ tương tác xã hội nào trên những Sim bạn đã gặp" />
+    <TextStringDefinition InstanceID="0x01B59000" TextString="Mời Sim cùng Nhảy" />
+    <TextStringDefinition InstanceID="0x037B7660" TextString="Trong khi nhảy, sử dụng tương tác Mời Nhảy! trên các Sim khác cho đến khi đủ số Sim đang nhảy" />
+    <TextStringDefinition InstanceID="0x51CD2408" TextString="Tương tác với một Sim bạn chưa gặp và sử dụng tương tác Giới thiệu\n\nNhấp chuột trái vào mục tiêu này để biết thêm thông tin" />
+    <TextStringDefinition InstanceID="0xA2BAFD80" TextString="Giới thiệu Bản thân với Ai đó" />
+    <TextStringDefinition InstanceID="0xD1D48EDF" TextString="Gặp Người mới" />
+    <TextStringDefinition InstanceID="0x10B8829C" TextString="Hôn Ai đó" />
+    <TextStringDefinition InstanceID="0x46AD74C4" TextString="Sử dụng các tương tác lãng mạn với một Sim để xây dựng điểm quan hệ cho đến khi tương tác hôn xuất hiện" />
+    <TextStringDefinition InstanceID="0x51DA1115" TextString="Có lẽ nếu bạn bôi nhọ đủ danh tiếng của anh chị em, bà ngoại sẽ nhìn bạn thiện chí hơn?" />
+    <TextStringDefinition InstanceID="0x54107EFB" TextString="Bôi nhọ Anh chị em với Bà ngoại" />
+    <TextStringDefinition InstanceID="0xB7A01FAC" TextString="Tiếp tục con đường thù hận bằng cách khiến anh chị em đánh nhau! Tiếp tục sử dụng các tương tác xấu tính cho đến khi anh chị em đủ tức giận với nhau để đánh nhau." />
+    <TextStringDefinition InstanceID="0x15EE8A8C" TextString="Khiến Anh chị em Đánh nhau" />
+    <TextStringDefinition InstanceID="0x45681BFF" TextString="Nếu bà ngoại vẫn còn tức giận, hãy thử xin lỗi về hành vi xấu của bạn. Bạn có thể tìm thấy tương tác xin lỗi trong phần Thân thiện, dưới mục Suy nghĩ sâu sắc." />
+    <TextStringDefinition InstanceID="0xA39AA1D5" TextString="Khiến Anh chị em Xin lỗi Bà ngoại" />
+    <TextStringDefinition InstanceID="0xEE259061" TextString="Mua một bàn cờ vua trong Chế tạo/Mua và chơi cờ vua để đạt được tâm trạng Tập trung." />
+    <TextStringDefinition InstanceID="0xFF1104FE" TextString="Mua Bàn Cờ vua" />
+    <TextStringDefinition InstanceID="0x5FF1DBE4" TextString="Mua các đồ vật cho trẻ em trong danh mục &quot;Trẻ em&quot; của Chế độ Xây dựng. Hoặc đơn giản là tìm kiếm &quot;đồ chơi&quot;!" />
+    <TextStringDefinition InstanceID="0x5021BBDE" TextString="Mua Ít nhất Một Đồ chơi Trẻ em" />
+    <TextStringDefinition InstanceID="0x9B1015EA" TextString="Mua Quầy Bar" />
+    <TextStringDefinition InstanceID="0xDA570D22" TextString="Mua Máy hát" />
+    <TextStringDefinition InstanceID="0xE5B0351A" TextString="Mua bất kỳ đồ trang trí nào cho ngôi nhà mới của bạn từ danh mục Trang trí trong Chế độ Xây dựng" />
+    <TextStringDefinition InstanceID="0x646E5242" TextString="Mua Một số Đồ trang trí" />
+    <TextStringDefinition InstanceID="0x5C02862B" TextString="Mua Microphone hoặc Nhạc cụ" />
+    <TextStringDefinition InstanceID="0x1514DA7D" TextString="Mua một micro hoặc một nhạc cụ trong tiểu mục Sáng tạo của danh mục Hoạt động và Kỹ năng trong Chế độ Xây dựng. Các món đồ này rất tuyệt để đáp ứng nhu cầu Vui vẻ của bạn!" />

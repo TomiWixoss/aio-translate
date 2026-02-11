@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x724A1C53" TextString="Phù thủy của Đêm" />
+    <TextStringDefinition InstanceID="0x8A97028D" TextString="Công chúa Dâu tây" />
+    <TextStringDefinition InstanceID="0x453B734E" TextString="Bộ xương Ngà" />
+    <TextStringDefinition InstanceID="0x1761A6D3" TextString="Chú hề" />
+    <TextStringDefinition InstanceID="0xC2CA45C9" TextString="Phi hành gia" />
+    <TextStringDefinition InstanceID="0x3937CE6C" TextString="Lính Hoplite Sparta" />
+    <TextStringDefinition InstanceID="0x9D5188A6" TextString="Kẻ buôn lậu" />
+    <TextStringDefinition InstanceID="0x57D6605B" TextString="Cô cổ vũ" />
+    <TextStringDefinition InstanceID="0x2E45A687" TextString="Tiên của Rừng" />
+    <TextStringDefinition InstanceID="0xA689D68B" TextString="Cướp biển trên Biển cả" />
+    <TextStringDefinition InstanceID="0x05AEA1AD" TextString="Bộ xương Thối rữa" />
+    <TextStringDefinition InstanceID="0xB98E0AA8" TextString="Công chúa" />
+    <TextStringDefinition InstanceID="0x279ADABA" TextString="Linh vật Llamacorn" />
+    <TextStringDefinition InstanceID="0x65E16229" TextString="Công chúa Táo Vàng" />
+    <TextStringDefinition InstanceID="0xBF124818" TextString="Cướp biển" />
+    <TextStringDefinition InstanceID="0x4633D1C3" TextString="Hot Dog" />
+    <TextStringDefinition InstanceID="0x93AA90D0" TextString="Tiên" />
+    <TextStringDefinition InstanceID="0xA88CFC31" TextString="Boba Fett" />
+    <TextStringDefinition InstanceID="0xC92421BB" TextString="Thần Chết" />
+    <TextStringDefinition InstanceID="0xF983EEA9" TextString="Kẻ xấu" />
+    <TextStringDefinition InstanceID="0x59566243" TextString="Darth Vader" />
+    <TextStringDefinition InstanceID="0x10EC4043" TextString="Trung sĩ Bí ngô Xanh" />
+    <TextStringDefinition InstanceID="0x451F1B49" TextString="Tiên của Đồng cỏ" />
+    <TextStringDefinition InstanceID="0xAFA8D7FF" TextString="Đại sư Yoda" />
+    <TextStringDefinition InstanceID="0x133A5966" TextString="Trung sĩ Bí ngô Cam" />
+    <TextStringDefinition InstanceID="0x745C3B6A" TextString="(Từ Món đồ Trang phục)" />
+    <TextStringDefinition InstanceID="0xBA83F650" TextString="Xem Bài học về Bê bối" />
+    <TextStringDefinition InstanceID="0x2C72CE3B" TextString="Khám phá Bí mật" />
+    <TextStringDefinition InstanceID="0x0F85E149" TextString="Bí mật mới được khám phá về {1.SimName}. \n\n{2.String}" />
+    <TextStringDefinition InstanceID="0x5D167CC0" TextString="Một Sim gần đây đang trong Bê bối" />
+    <TextStringDefinition InstanceID="0x490AAE1D" TextString="Bạn có một Bí mật" />
+    <TextStringDefinition InstanceID="0x5A13B2FF" TextString="{0.SimName} đã tạo ra một bí mật mới. {1.String}" />
+    <TextStringDefinition InstanceID="0x4D67EF45" TextString="{0.SimName} đã tạo ra một bí mật mới với {1.SimName}. {2.String}" />
+    <TextStringDefinition InstanceID="0x9C305F82" TextString="Bị bắt quả tang trong Bê bối!" />
+    <TextStringDefinition InstanceID="0xB63729C8" TextString="{0.SimName} đã bị bắt quả tang trong một bê bối.\n\n{1.String} \n\n{0.SimPronounSubjective|xxUpper} sẽ phải đối mặt với sự phản đối từ các Sim khác, hiệu suất giảm ở công việc hoặc trường học, và thậm chí sẽ gặp khó khăn trong việc xây dựng kỹ năng nhanh chóng. \n\n{0.SimFirstName} có thể phát ra một Tuyên bố Xin lỗi hoặc Phủ nhận tại máy tính." />
+    <TextStringDefinition InstanceID="0xA1454B15" TextString="Tôi tin điều đó!" />
+    <TextStringDefinition InstanceID="0x01A90D79" TextString="Đó không phải sự thật!" />
+    <TextStringDefinition InstanceID="0xAE6D5E67" TextString="Một Bê bối Mới Tiềm năng" />
+    <TextStringDefinition InstanceID="0xDA613065" TextString="Có vẻ như {0.SimName} có thể đang che giấu một Bê bối.\n{1.String}\nBạn có muốn chấp nhận bí mật này và thêm nó vào Sổ tay của bạn?" />
+    <TextStringDefinition InstanceID="0x1E95CAFC" TextString="Một Bê bối Mới Tiềm năng" />
+    <TextStringDefinition InstanceID="0xB7C01CE2" TextString="Có vẻ như {0.SimName} có thể đang che giấu một Bê bối.\n{1.String}\nBạn có muốn chấp nhận bí mật này và thêm nó vào Sổ tay của bạn?" />
+    <TextStringDefinition InstanceID="0xDF1C5F59" TextString="{2.String}" />
+    <TextStringDefinition InstanceID="0xE7816714" TextString="Nhỏ" />
+    <TextStringDefinition InstanceID="0x7652B5AC" TextString="Trung bình" />
+    <TextStringDefinition InstanceID="0x80B8E3C0" TextString="Lớn" />
+    <TextStringDefinition InstanceID="0x7F0C46CC" TextString="Mức độ nghiêm trọng: &lt;font color='#1E81E6'&gt;{0.String}&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x63F4C9C0" TextString="Chó Whippet trầm lặng và không hay sủa, nhưng cần tập thể dục thường xuyên. Chúng thường là những con chó dịu dàng và có thể hài lòng khi dành phần lớn ngày để nghỉ ngơi." />
+    <TextStringDefinition InstanceID="0x30A7EB7D" TextString="Chó Greyhound Ý" />
+    <TextStringDefinition InstanceID="0x224A3355" TextString="Chó Greyhound Ý là một con chó bạn tốt và thích sự gần gũi của con người. Tuy nhiên, cơ thể mảnh khảnh và bộ lông ngắn của giống chó này khiến chúng khá dễ vỡ, và chấn thương có thể xảy ra do chơi đùa thô bạo hoặc bất cẩn với trẻ em." />
+    <TextStringDefinition InstanceID="0xD4F5D31A" TextString="Chó Weimaraner" />

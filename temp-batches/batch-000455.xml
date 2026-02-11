@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xD765C230" TextString="Hồi Sinh" />
+    <TextStringDefinition InstanceID="0xAC806F92" TextString="{0.SimFirstName} được tiếp thêm sức mạnh bởi một câu chuyện sử thi." />
+    <TextStringDefinition InstanceID="0x97B6C222" TextString="Đọc Câu Chuyện Sử Thi Của {2.SimName}" />
+    <TextStringDefinition InstanceID="0xBC3F1DC2" TextString="Ghi Lại Sử Thi" />
+    <TextStringDefinition InstanceID="0x206B6660" TextString="Bài Tập Về Nhà Hoàn Thành!" />
+    <TextStringDefinition InstanceID="0x10E2BA12" TextString="{0.SimName} đã hoàn thành bài tập về nhà hôm nay!" />
+    <TextStringDefinition InstanceID="0xF3CB9B00" TextString="Làm Bài Tập Bổ Sung" />
+    <TextStringDefinition InstanceID="0xB7794568" TextString="Làm Bài Tập Thêm" />
+    <TextStringDefinition InstanceID="0xE8CB3FAE" TextString="Bài Tập Về Nhà Hoàn Thành!" />
+    <TextStringDefinition InstanceID="0x15B46423" TextString="{0.SimName} đã hoàn thành bài tập về nhà hôm nay!" />
+    <TextStringDefinition InstanceID="0x76FD38AA" TextString="Làm Chủ Bài Tập" />
+    <TextStringDefinition InstanceID="0x3759A5BA" TextString="Lướt Qua Bài Tập" />
+    <TextStringDefinition InstanceID="0x869CE50D" TextString="Nhân vật này không thể thực hiện tương tác này khi đang trong Scandal." />
+    <TextStringDefinition InstanceID="0x3F7205E5" TextString="Nhận Nuôi {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xC4105FC1" TextString="Chính thức! {1.SimFirstName} đã được nhận vào gia đình {0.SimLastName}.\n\nChào mừng đến với gia đình, {1.SimFirstName}!" />
+    <TextStringDefinition InstanceID="0x00870A17" TextString="Bạn không thể làm điều này khi một cuộc nhận nuôi đang diễn ra." />
+    <TextStringDefinition InstanceID="0xE970D5AF" TextString="Nhận Nuôi Hoàn Tất" />
+    <TextStringDefinition InstanceID="0x155C33D1" TextString="Vẽ" />
+    <TextStringDefinition InstanceID="0x4432BBA2" TextString="Dọn Dẹp" />
+    <TextStringDefinition InstanceID="0x1E00984F" TextString="Gọi Đến Xem" />
+    <TextStringDefinition InstanceID="0xEDF243FE" TextString="Mời Tham Gia Tạo Vật" />
+    <TextStringDefinition InstanceID="0x30743168" TextString="Tạo Vật Cùng Nhau" />
+    <TextStringDefinition InstanceID="0x76A88C5D" TextString="Khuyến Khích" />
+    <TextStringDefinition InstanceID="0xEE9B4780" TextString="Một ngôi nhà colonial rộng lớn với cảnh quan hoàn hảo cho các hoạt động ngoài trời." />
+    <TextStringDefinition InstanceID="0xDA931D65" TextString="Thiết kế mở linh hoạt của ngôi nhà này có nhiều không gian ngoài trời." />
+    <TextStringDefinition InstanceID="0xD8910156" TextString="Ngôi nhà kiểu shotgun nhỏ này hoàn hảo cho một gia đình nhỏ." />
+    <TextStringDefinition InstanceID="0xD28B636B" TextString="Một ngôi nhà khởi đầu đơn giản cho một người độc thân hoặc một cặp đôi." />
+    <TextStringDefinition InstanceID="0xDC5058CC" TextString="Một lô đất Backwater rộng rãi, hoàn hảo để xây dựng ngôi nhà mơ ước của bạn." />
+    <TextStringDefinition InstanceID="0x23592DC2" TextString="Ngôi nhà shotgun kép đã được sửa đổi này có nhiều không gian cho thư giãn và giải trí." />
+    <TextStringDefinition InstanceID="0x352BBBB4" TextString="Một ngôi nhà tranh ấm cúng với hiên nhà đón khách, dường như hét lên, &quot;THẢN THÁI!&quot;" />
+    <TextStringDefinition InstanceID="0xE5834239" TextString="Được xây dựng cho cuộc sống ngoài trời, ngôi nhà colonial này có hiên nhà bao quanh và ban công." />
+    <TextStringDefinition InstanceID="0x1927B47E" TextString="Với lô đất ven nước lớn này, giới hạn duy nhất của bạn là trí tưởng tượng." />
+    <TextStringDefinition InstanceID="0xCB0A78CC" TextString="Công viên Hoa Hồng Magnolia là một công viên lịch sử nơi cư dân Willow Creek từ mọi tầng lớp có thể cùng nhau tận hưởng thiên nhiên trong môi trường xanh mướt." />
+    <TextStringDefinition InstanceID="0x40DD42ED" TextString="Một bất động sản lớn với phong cách cổ điển, đây là ngôi nhà Garden Estates điển hình." />
+    <TextStringDefinition InstanceID="0x3A510EA2" TextString="Hiện đại gặp gỡ truyền thống trong ngôi nhà ba tầng này với cảnh quan rộng lớn." />
+    <TextStringDefinition InstanceID="0x2D469212" TextString="Một ngôi nhà colonial khổng lồ với khuôn viên đẹp, ngôi nhà này chắc chắn sẽ gây ấn tượng." />
+    <TextStringDefinition InstanceID="0xF268EBC9" TextString="Một lô đất rộng lớn trong một khu vực được săn đón, đây là thiên đường tiềm năng của bạn." />
+    <TextStringDefinition InstanceID="0x009A8AC4" TextString="Một ngôi nhà truyền thống lớn với nhiều hiên nhà và ban công." />
+    <TextStringDefinition InstanceID="0x926B2A83" TextString="Lịch sử (và bí ẩn) tỏa ra từ lâu đài Gothic ba tầng này." />
+    <TextStringDefinition InstanceID="0xFBE4818A" TextString="sqeGameplayProfileArea3 Thế Giới Thử Nghiệm" />
+    <TextStringDefinition InstanceID="0xE9F71DCE" TextString="sqeEmptyLotArea Thế Giới Thử Nghiệm" />
+    <TextStringDefinition InstanceID="0x7CBF9F66" TextString="Burners &amp; Builders" />
+    <TextStringDefinition InstanceID="0xC14454F3" TextString="The Solar Flare" />
+    <TextStringDefinition InstanceID="0x823AC31C" TextString="Phòng Khách Ban Đầu từ Oasis Springs." />
+    <TextStringDefinition InstanceID="0x8AC13134" TextString="The Futures Past" />
+    <TextStringDefinition InstanceID="0xBF760401" TextString="Bảo Tàng Ban Đầu từ Oasis Springs." />
+    <TextStringDefinition InstanceID="0x42B22266" TextString="Rattlesnake Juice" />
+    <TextStringDefinition InstanceID="0x54A2C03F" TextString="Quán Bar Ban Đầu từ Oasis Springs." />
+    <TextStringDefinition InstanceID="0x1CE7434F" TextString="Granada Place" />
+    <TextStringDefinition InstanceID="0xE114AB03" TextString="Caliente" />

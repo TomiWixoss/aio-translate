@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xE381B3E0" TextString="Bạn đang gần hết dung lượng đĩa khả dụng và có thể gặp vấn đề với trò chơi trong điều kiện này. Bạn có chắc chắn muốn khởi động trò chơi?" />
+    <TextStringDefinition InstanceID="0x3259D0F5" TextString="Card đồ họa của bạn được phát hiện trong Cơ sở dữ liệu của chúng tôi nhưng không đáp ứng yêu cầu tối thiểu cho The Sims 4. Nếu bạn tiếp tục chơi, bạn có thể gặp phải hiệu năng kém và các vấn đề với phần mềm." />
+    <TextStringDefinition InstanceID="0xF76A12F7" TextString="Card đồ họa của bạn không được nhận diện trong cơ sở dữ liệu của chúng tôi. Chúng tôi đã tối ưu hóa cài đặt đồ họa của bạn để cải thiện hiệu năng. Những thay đổi này sẽ có hiệu lực sau khi bạn khởi động lại trò chơi. Nếu bạn gặp vấn đề về hiệu năng, bạn có thể cần điều chỉnh cài đặt thủ công." />
+    <TextStringDefinition InstanceID="0xD3382CED" TextString="Ứng dụng EA hiện không chạy. Vui lòng đảm bảo rằng ứng dụng EA đang chạy trước khi cố gắng chơi The Sims™ 4." />
+    <TextStringDefinition InstanceID="0x1B80C36A" TextString="Không thể chạy qua Remote Desktop với phiên bản Windows này vì không có hỗ trợ đồ họa 3D accelerated." />
+    <TextStringDefinition InstanceID="0x0E6D1221" TextString="Không thể chạy The Sims 4 với card đồ họa trong hệ thống này. Vui lòng kiểm tra xem card đồ họa có đáp ứng các thông số kỹ thuật tối thiểu và driver đồ họa mới nhất đã được cài đặt chưa." />
+    <TextStringDefinition InstanceID="0x6D1778B8" TextString="Đã xảy ra lỗi khi xử lý tập tin cấu hình khởi động." />
+    <TextStringDefinition InstanceID="0x579BC009" TextString="Đã xảy ra sự cố khi khởi tạo card đồ họa của bạn. Vui lòng thử khởi động The Sims 4 lại.&#xD;&#xA;" />
+    <TextStringDefinition InstanceID="0xED35E0EA" TextString="The Sims™ 4 đã đang chạy." />
+    <TextStringDefinition InstanceID="0x13BCCCBD" TextString="The Sims™ 4 Legacy Edition" />
+    <TextStringDefinition InstanceID="0x36F6B1C6" TextString="The Sims™ 4 Create A Sim Demo" />
+    <TextStringDefinition InstanceID="0x182F3470" TextString="The Sims™ 4" />
+    <TextStringDefinition InstanceID="0xD153C3EA" TextString="The Sims™ 4 - Lỗi Khởi động" />
+    <TextStringDefinition InstanceID="0x69747F0F" TextString="Video Đã Ghi" />
+    <TextStringDefinition InstanceID="0x18994BA0" TextString="The Sims 4 Legacy Edition" />
+    <TextStringDefinition InstanceID="0x8F5EE785" TextString="The Sims 4 BETA" />
+    <TextStringDefinition InstanceID="0xE5955B27" TextString="The Sims 4 Create A Sim Demo" />
+    <TextStringDefinition InstanceID="0xBA0CEB1B" TextString="The Sims 4" />
+    <TextStringDefinition InstanceID="0xD6F91FFB" TextString="Nội dung của thư mục dữ liệu người dùng của bạn được tạo bởi phiên bản The Sims 4 mới hơn và không thể tải được. Vui lòng cập nhật trò chơi để chơi." />
+    <TextStringDefinition InstanceID="0xD17DAD35" TextString="Các phiên bản dữ liệu người dùng The Sims 4 không tương thích đã được phát hiện và không thể di chuyển sang Legacy Edition. The Sims 4 Legacy Edition sẽ tiếp tục với dữ liệu mới. Truy cập help.ea.com để biết thêm thông tin." />
+    <TextStringDefinition InstanceID="0x8F736275" TextString="Không đủ dung lượng đĩa để sao chép thư mục dữ liệu người dùng của bạn sang Legacy Edition. The Sims 4 Legacy Edition sẽ tiếp tục với dữ liệu mới. Truy cập help.ea.com để biết thêm thông tin." />
+    <TextStringDefinition InstanceID="0xECF57210" TextString="Không thể di chuyển thư mục dữ liệu người dùng sang Legacy Edition. The Sims 4 Legacy Edition sẽ tiếp tục với dữ liệu mới. Truy cập help.ea.com để biết thêm thông tin." />
+    <TextStringDefinition InstanceID="0x89306149" TextString="Phần cứng không hỗ trợ chạy The Sims 4." />
+    <TextStringDefinition InstanceID="0xC773E94F" TextString="Ngôn ngữ được chọn trên dòng lệnh với switch -l không được hỗ trợ." />
+    <TextStringDefinition InstanceID="0x559873E5" TextString="Có {1.Number} Sim Đã Kết Hôn" />
+    <TextStringDefinition InstanceID="0x59F79481" TextString="Kiếm được {1.Money}" />
+    <TextStringDefinition InstanceID="0x539FA006" TextString="Pha chế {1.Number} Đồ Uống" />
+    <TextStringDefinition InstanceID="0xFC79F488" TextString="Tài Sản &amp; Sưu Tầm" />
+    <TextStringDefinition InstanceID="0xC6980E62" TextString="Thử nghiệm" />
+    <TextStringDefinition InstanceID="0xD9FB6D28" TextString="Thành Tích Sim" />
+    <TextStringDefinition InstanceID="0x68A8F19F" TextString="Mối Quan Hệ" />
+    <TextStringDefinition InstanceID="0xB933D44A" TextString="Thành Tích Người Chơi" />
+    <TextStringDefinition InstanceID="0xFE983BAD" TextString="Sự Nghiệp" />
+    <TextStringDefinition InstanceID="0xA7F7F21E" TextString="BUG ME!! Cảnh báo từ chối Growing Together" />
+    <TextStringDefinition InstanceID="0x89753F86" TextString="Gói Đã Chọn Bị Thiếu" />
+    <TextStringDefinition InstanceID="0x3360D73A" TextString="Các gói bị thiếu của bạn đã được chọn trước. Xác nhận để kích hoạt chúng." />
+    <TextStringDefinition InstanceID="0xD58240B9" TextString="Gói này không khả dụng." />
+    <TextStringDefinition InstanceID="0xF1D76536" TextString="Chọn Gói Thành Công!" />
+    <TextStringDefinition InstanceID="0x1BBA52AA" TextString="Việc chọn gói đã được áp dụng." />
+    <TextStringDefinition InstanceID="0xF37AE43F" TextString="Bán Bất Động Sản Cho Thuê Cư Này?" />
+    <TextStringDefinition InstanceID="0x1C490BE4" TextString="Bán Bất Động Sản Cho Thuê Cư Này với giá {0.Money}? Hộ gia đình {1.String} sẽ không còn là hộ sở hữu tài sản. Nếu họ hiện đang sống trong một trong các căn hộ, họ sẽ được coi là hộ thuê bình thường sau khi bán." />
+    <TextStringDefinition InstanceID="0x8386AB15" TextString="Trong hộ gia đình này, có một hoặc nhiều Sim trong Sự Nghiệp Quý Tộc. Khi họ chuyển đến Vương Quốc mới, họ sẽ bị giáng chức một cấp độ sự nghiệp, trừ khi ở cấp 1. Bất kỳ Sim nào được Hứa Hưởng Thừa Kế cũng sẽ mất quyền sở hữu, và sẽ cần được hứa hưởng thừa kế lại trong Vương Quốc mới của họ." />
+    <TextStringDefinition InstanceID="0x45C2490C" TextString="Trong hộ gia đình này, có một hoặc nhiều Sim trong Sự Nghiệp Quý Tộc. Buộc các Sim này di chuyển có nghĩa là họ sẽ nhận được sự giáng chức sự nghiệp một hạng, trừ khi họ ở cấp 1." />
+    <TextStringDefinition InstanceID="0x1E8A5630" TextString="Lỗi Khi Đồng Bộ Dữ Liệu Với Máy Chủ" />
+    <TextStringDefinition InstanceID="0x261FAE3B" TextString="OK" />
+    <TextStringDefinition InstanceID="0x7A964D28" TextString="Nhiệm Vụ Sự Kiện Đang Hoạt Động sẽ được xóa và đặt lại về điểm tiến triển cuối cùng đã biết." />
+    <TextStringDefinition InstanceID="0xBE7AE987" TextString="Sự Kiện Đã Kết Thúc" />
+    <TextStringDefinition InstanceID="0xABA51F98" TextString="{0.Number} phút {1.Number} giây" />
+    <TextStringDefinition InstanceID="0xC68CC7D9" TextString="Sự kiện kết thúc trong" />
+    <TextStringDefinition InstanceID="0x80941BBA" TextString="{0.Number} giờ {1.Number} phút" />

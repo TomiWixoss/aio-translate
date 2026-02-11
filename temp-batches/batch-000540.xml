@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x410FB773" TextString="(Từ việc chế giễu cái chết/sự sụp đổ của kẻ thù)" />
+    <TextStringDefinition InstanceID="0x0457D1D8" TextString="Sự Khởi Đầu Ma Quái" />
+    <TextStringDefinition InstanceID="0x3CA800FE" TextString="Chào mừng đến với cuộc sống dưới dạng Ma, {0.SimFirstName}! Khám phá những sức mạnh mới với &lt;b&gt;Sự Thành Thạo Ma&lt;/b&gt; và nâng cấp để trở thành ma mạnh mẽ nhất! Cũng không bao giờ là quá muộn để bắt đầu &lt;b&gt;Hành Trình Linh Hồn&lt;/b&gt; để giải quyết mọi Công Việc Chưa Xong." />
+    <TextStringDefinition InstanceID="0x673995CF" TextString="(Từ đặc điểm Luyện Tập Thành Thạo)" />
+    <TextStringDefinition InstanceID="0xAD60380C" TextString="{0.SimFirstName} đã truyền đặc điểm Hòa Đồng của mình cho {1.SimFirstName}!" />
+    <TextStringDefinition InstanceID="0x0DA62E0A" TextString="{0.SimFirstName} đã truyền đặc điểm Sưu Tầm của mình cho {1.SimFirstName}!" />
+    <TextStringDefinition InstanceID="0x57D5D301" TextString="{0.SimFirstName} đã truyền đặc điểm Quyến Rũ của mình cho {1.SimFirstName}!" />
+    <TextStringDefinition InstanceID="0xEAD845C0" TextString="{0.SimFirstName} đã truyền đặc điểm Vùng Đất Quen Thuộc của mình cho {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xE45BC920" TextString="{0.SimFirstName} đã truyền đặc điểm Học Nhanh của mình cho {1.SimFirstName}!" />
+    <TextStringDefinition InstanceID="0x30395B16" TextString="{0.SimFirstName} đã truyền đặc điểm Tinh Thông Kinh Doanh của mình cho {1.SimFirstName}!" />
+    <TextStringDefinition InstanceID="0x05DF39D9" TextString="{0.SimFirstName} đã truyền đặc điểm Tinh Hoa Hương Vị của mình cho {1.SimFirstName}!" />
+    <TextStringDefinition InstanceID="0x3651A734" TextString="{0.SimFirstName} đã truyền đặc điểm Gia Đình của mình cho {1.SimFirstName}!" />
+    <TextStringDefinition InstanceID="0x6450317E" TextString="{0.SimFirstName} đã truyền đặc điểm Gian Ác của mình cho {1.SimFirstName}!" />
+    <TextStringDefinition InstanceID="0x7D93D2D0" TextString="{0.SimFirstName} đã truyền đặc điểm Người Mơ Mộng của mình cho {1.SimFirstName}!" />
+    <TextStringDefinition InstanceID="0xDEC74167" TextString="Truyền Đi!" />
+    <TextStringDefinition InstanceID="0x02119B65" TextString="{0.SimFirstName} đã truyền đặc điểm Chuyển Hóa Nhanh của mình cho {1.SimFirstName}! Bằng cách nào đó. Tốt nhất là đừng nghĩ về nó." />
+    <TextStringDefinition InstanceID="0xC2808FBD" TextString="(Từ việc thất bại trong việc xây dựng lại lòng tin)" />
+    <TextStringDefinition InstanceID="0x8CF44B96" TextString="(Từ việc thú nhận ngoại tình)" />
+    <TextStringDefinition InstanceID="0xA685AE1C" TextString="(Từ việc bạn đời thú nhận ngoại tình)" />
+    <TextStringDefinition InstanceID="0x83109847" TextString="(Từ việc hẹn hò với một Sim mà {0.SimFirstName} đã phản bội)" />
+    <TextStringDefinition InstanceID="0x5E1FA56F" TextString="{0.SimFirstName} đã lấy trộm một vật thể khi {F0.cô ấy}{M0.anh ấy} đang ở trường." />
+    <TextStringDefinition InstanceID="0xC5EBAE91" TextString="{0.SimFirstName} đã lấy trộm một vật thể khi {F0.cô ấy}{M0.anh ấy} đang ở nơi làm việc." />
+    <TextStringDefinition InstanceID="0xA1C4EFA8" TextString="(Từ đặc điểm Nóng Tính)" />
+    <TextStringDefinition InstanceID="0xFFF24629" TextString="(Từ một thời thơ ấu tốt đẹp)" />
+    <TextStringDefinition InstanceID="0x3804CE26" TextString="(Từ một tiếng thở dài chán nản)" />
+    <TextStringDefinition InstanceID="0xA9E6D7B8" TextString="{0.SimFirstName} đã có một khoảnh khắc Eureka! Vì là Thiên Tài, điều này đã tăng cường một trong những Kỹ Năng họ đã luyện tập nhiều." />
+    <TextStringDefinition InstanceID="0xBB74D9A0" TextString="(Từ khí gây bất tỉnh)" />
+    <TextStringDefinition InstanceID="0xDB2B56C6" TextString="(Từ việc cố gắng học nói)" />
+    <TextStringDefinition InstanceID="0x5BC87727" TextString="(Từ một cầu trượt cho trẻ nhỏ)" />
+    <TextStringDefinition InstanceID="0xED8395E9" TextString="{0.SimFirstName} hiện đang được {1.SimFirstName} chăm sóc. Điều này có nghĩa là {1.SimPronounSubjective} có trách nhiệm với {0.SimFirstName} và sẽ kiểm tra nhu cầu của đứa trẻ sơ sinh đó một cách thường xuyên." />
+    <TextStringDefinition InstanceID="0x94BC0FA0" TextString="{0.SimFirstName} hiện là người chăm sóc của {1.SimFirstName}. Điều này có nghĩa là {0.SimPronounSubjective} có trách nhiệm với {1.SimFirstName} và sẽ kiểm tra nhu cầu của đứa trẻ sơ sinh đó một cách thường xuyên." />
+    <TextStringDefinition InstanceID="0xC067C0EA" TextString="{0.SimFirstName} hiện là người chăm sóc của {1.SimFirstName}. Điều này có nghĩa là {0.SimPronounSubjective} có trách nhiệm với {1.SimFirstName} và sẽ kiểm tra nhu cầu của đứa trẻ sơ sinh đó một cách thường xuyên." />
+    <TextStringDefinition InstanceID="0xE3590E34" TextString="(Từ việc đạt được một kỹ năng)" />
+    <TextStringDefinition InstanceID="0xC370437E" TextString="Cảm ơn bạn đã học về Điều Khiển Cơ Bản trong The Sims 4!\n\nĐây là {2.Money} để giúp bạn bắt đầu!" />
+    <TextStringDefinition InstanceID="0xE327C6B3" TextString="(Từ trang phục được thổi vào)" />
+    <TextStringDefinition InstanceID="0xD11B3508" TextString="(Từ việc tìm thấy cảm hứng)" />
+    <TextStringDefinition InstanceID="0x7234D9B4" TextString="(Từ việc chơi với thú bông khổng lồ)" />
+    <TextStringDefinition InstanceID="0x5BEF7F68" TextString="(Từ việc ôm thú bông khổng lồ)" />
+    <TextStringDefinition InstanceID="0x87E98522" TextString="(Từ việc học một cuốn sách)" />
+    <TextStringDefinition InstanceID="0x118664B2" TextString="(Từ việc bạn bắt đầu một mối quan hệ mới)" />
+    <TextStringDefinition InstanceID="0x1466B2EB" TextString="(Từ việc bạn quay lại với bạn đời)" />
+    <TextStringDefinition InstanceID="0x1AFC347D" TextString="(Từ việc bạn kết thúc một mối quan hệ)" />
+    <TextStringDefinition InstanceID="0x858F5D9C" TextString="(Từ việc bạn kết bạn mới)" />
+    <TextStringDefinition InstanceID="0x6EC10277" TextString="(Từ việc bạn bị khinh miệt)" />
+    <TextStringDefinition InstanceID="0xFE18AEEE" TextString="(Từ việc bạn kết bạn thân mới)" />
+    <TextStringDefinition InstanceID="0xCCC7B3A3" TextString="(Từ việc có một hàng xóm mới)" />
+    <TextStringDefinition InstanceID="0x52D0CC3F" TextString="(Từ việc một hàng xóm nhận nuôi một trẻ nhỏ)" />
+    <TextStringDefinition InstanceID="0xEE1B7524" TextString="(Từ việc một hàng xóm cứu hộ một con ngựa)" />
+    <TextStringDefinition InstanceID="0x6C38CB29" TextString="(Từ việc một hàng xóm nhận nuôi một bạn thân lông)" />
+    <TextStringDefinition InstanceID="0xFDA4BFA5" TextString="(Từ việc một hàng xóm nhận nuôi một đứa trẻ)" />

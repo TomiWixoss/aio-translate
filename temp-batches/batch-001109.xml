@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x91021213" TextString="Đàn piano" />
+    <TextStringDefinition InstanceID="0x08EDBC28" TextString="Luyện Kỹ năng Hội họa" />
+    <TextStringDefinition InstanceID="0x7FA93CAE" TextString="Hội họa" />
+    <TextStringDefinition InstanceID="0x42833C10" TextString="Luyện Kỹ năng Gian lận" />
+    <TextStringDefinition InstanceID="0xCD317A26" TextString="Gian lận" />
+    <TextStringDefinition InstanceID="0x1B623F22" TextString="Luyện Kỹ năng Logic" />
+    <TextStringDefinition InstanceID="0xEBE2E5E0" TextString="Logic" />
+    <TextStringDefinition InstanceID="0x85A3F483" TextString="Luyện Kỹ năng Tay nghề Xây dựng" />
+    <TextStringDefinition InstanceID="0x494FAB41" TextString="Tay nghề" />
+    <TextStringDefinition InstanceID="0xB92768CE" TextString="Luyện Kỹ năng Guitar" />
+    <TextStringDefinition InstanceID="0xAA88558C" TextString="Guitar" />
+    <TextStringDefinition InstanceID="0x6345E2FF" TextString="Luyện Kỹ năng Đầu bếp Cao cấp" />
+    <TextStringDefinition InstanceID="0x501BD0DD" TextString="Đầu bếp Cao cấp" />
+    <TextStringDefinition InstanceID="0xE11B903C" TextString="Luyện Kỹ năng Thể dục" />
+    <TextStringDefinition InstanceID="0xB906C462" TextString="Thể dục" />
+    <TextStringDefinition InstanceID="0xA9E7FC62" TextString="Luyện Kỹ năng Câu cá" />
+    <TextStringDefinition InstanceID="0x6E924620" TextString="Câu cá" />
+    <TextStringDefinition InstanceID="0x712C5F37" TextString="Luyện Kỹ năng Hài kịch" />
+    <TextStringDefinition InstanceID="0x6A463B45" TextString="Hài kịch" />
+    <TextStringDefinition InstanceID="0x7D3FDE35" TextString="Luyện Kỹ năng Giao tiếp Xã hội" />
+    <TextStringDefinition InstanceID="0x96B6C213" TextString="Xã hội" />
+    <TextStringDefinition InstanceID="0x48FD2DE7" TextString="Luyện Kỹ năng Vận động" />
+    <TextStringDefinition InstanceID="0x87549DF5" TextString="Vận động" />
+    <TextStringDefinition InstanceID="0x2D124F6B" TextString="Luyện Kỹ năng Tinh thần" />
+    <TextStringDefinition InstanceID="0x37CAE319" TextString="Tinh thần" />
+    <TextStringDefinition InstanceID="0x5B4867D0" TextString="Luyện Kỹ năng Sáng tạo" />
+    <TextStringDefinition InstanceID="0xC4ECADE6" TextString="Sáng tạo" />
+    <TextStringDefinition InstanceID="0xBF8D3D6A" TextString="Luyện Kỹ năng Sức hút" />
+    <TextStringDefinition InstanceID="0x8AC10DF8" TextString="Sức hút" />
+    <TextStringDefinition InstanceID="0xD4FCF154" TextString="Luyện Kỹ năng Pha chế" />
+    <TextStringDefinition InstanceID="0x8361B9CA" TextString="Pha chế" />
+    <TextStringDefinition InstanceID="0x9D74F57D" TextString="Giao tiếp Xã hội" />
+    <TextStringDefinition InstanceID="0x0A0B404B" TextString="Giao tiếp với..." />
+    <TextStringDefinition InstanceID="0xB7DA5F0E" TextString="Bậc thầy Oán hờn" />
+    <TextStringDefinition InstanceID="0x45FD54F2" TextString="Sim này muốn giải quyết những mối hận thù cay đắng với kẻ thù bằng những hành động nhỏ nhặt nhưng thỏa mãn." />
+    <TextStringDefinition InstanceID="0x46AB6F36" TextString="{0.SimFirstName} đã tìm thấy một cách trả đũa nhỏ nhặt nhưng thú vị với {0.SimPronounPossessiveDependent} kẻ thù.\n\nĐặc điểm Tính cách Đạt được: Không khoan nhượng" />
+    <TextStringDefinition InstanceID="0x2783016A" TextString="Sim này muốn trở thành một bậc thầy mua bán và phân phối hàng hóa, của cải cho chính mình." />
+    <TextStringDefinition InstanceID="0x185BDFDE" TextString="Với đôi bón tinh nhanh và khả năng gian lận, {0.SimFirstName} đã thành công trong việc rinh về của cải! {0.SimPronounPossessiveDependent|xxUpper} sự xảo quyệt và lén lút đã mang lại cho {0.SimPronounObjective} một danh tiếng khét tiếng và một gia tài bất chính.\n\nĐặc điểm Tính cách Đạt được: Kẻ trộm Tăng cường\n\nKhả năng 'Cố ý Trộm cắp' dễ thành công hơn!" />
+    <TextStringDefinition InstanceID="0xF3C76E4E" TextString="Bướm Xã hội" />
+    <TextStringDefinition InstanceID="0xFB102D32" TextString="Sim này muốn nói chuyện với mọi người và kết bạn!" />
+    <TextStringDefinition InstanceID="0x3DD38076" TextString="{0.SimFirstName} vừa đạt được {M0.his}{F0.her} giấc mơ thời thơ ấu là trở nên rất nổi tiếng!\n\nĐặc điểm Tính cách Đạt được: Thiên tài Giao tiếp Xã hội\nLuyện kỹ năng Xã hội nhanh hơn!" />
+    <TextStringDefinition InstanceID="0x2863A4CC" TextString="Người Cố vấn Cộng đồng" />
+    <TextStringDefinition InstanceID="0x75F2CAA8" TextString="Sim này muốn đưa ra mọi lời khuyên, trở thành một ảnh hưởng tích cực trong cuộc sống của hàng xóm." />
+    <TextStringDefinition InstanceID="0xFF3B4E00" TextString="{0.SimFirstName} đã chia sẻ ý kiến của {M0.his}{F0.her} cho nhiều Sim cần giúp đỡ và giờ đây trở thành người mà người khác tin tưởng và cảm thấy thoải mái khi ở bên!\n\n&lt;b&gt;Đặc điểm Tính cách Đạt được:&lt;/b&gt; Người Cố vấn" />
+    <TextStringDefinition InstanceID="0xB20EAF4C" TextString="Thú Vui Tiệc tùng" />
+    <TextStringDefinition InstanceID="0x7FE3FD28" TextString="Sim này muốn tổ chức và tham dự những bữa tiệc tuyệt vời!" />
+    <TextStringDefinition InstanceID="0x6B905080" TextString="{0.SimFirstName} rõ ràng là người chủ tiệc xuất sắc nhất và cuối cùng đã đạt được {M0.his}{F0.her} giấc mơ trở thành kẻ thích tiệc tùng tối thượng!\n\nĐặc điểm Tính cách Đạt được: Chủ nhà Hoàn hảo\nTất các Sự kiện Xã hội do chủ nhà tổ chức đều bắt đầu ở cấp đồng!" />
+    <TextStringDefinition InstanceID="0xCC711B65" TextString="Bạn của Thế giới" />
+    <TextStringDefinition InstanceID="0xBA16C9B1" TextString="Sim này muốn kết bạn và giữ được càng nhiều bạn bè càng tốt!" />
+    <TextStringDefinition InstanceID="0x1564F475" TextString="Có rất nhiều sự kiên nhẫn, nhưng {0.SimFirstName} đã đạt được {M0.his}{F0.her} giấc mơ! {M0.He}{F0.She} không chỉ cực kỳ nổi tiếng, mà còn là một người bạn tuyệt vời nữa!\n\nĐặc điểm Tính cách Đạt được: Được Yêu mến\nCác mối quan hệ Bạn bè không suy giảm." />

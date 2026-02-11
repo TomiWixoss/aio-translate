@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x2B32B85B" TextString="Đen Tuyền" />
+    <TextStringDefinition InstanceID="0x5F814C60" TextString="Nồi Cà Phê Đen Tuyền" />
+    <TextStringDefinition InstanceID="0x73E3BADA" TextString="Pha Cà Phê Đen Tuyền" />
+    <TextStringDefinition InstanceID="0x89BBE491" TextString="Pha Cà Phê" />
+    <TextStringDefinition InstanceID="0xD0AF20CC" TextString="Làm Cà Phê" />
+    <TextStringDefinition InstanceID="0x7E0305DB" TextString="Nồi Cà Phê Americano" />
+    <TextStringDefinition InstanceID="0xF1A594B8" TextString="Đi Cùng" />
+    <TextStringDefinition InstanceID="0xA31FA014" TextString="Đi..." />
+    <TextStringDefinition InstanceID="0x283F6082" TextString="Dịch Chuyển Tới Đây" />
+    <TextStringDefinition InstanceID="0xC75384B0" TextString="Đi Tới Đây" />
+    <TextStringDefinition InstanceID="0x45865C27" TextString="Thiếu Niên" />
+    <TextStringDefinition InstanceID="0xC7594503" TextString="Thiết Lập Lô Đất (Debug)" />
+    <TextStringDefinition InstanceID="0xAD5EEE45" TextString="Thiết Lập Vườn" />
+    <TextStringDefinition InstanceID="0xF7AFE1E1" TextString="Người Già" />
+    <TextStringDefinition InstanceID="0x29F39F48" TextString="Tạo Sim (Debug)" />
+    <TextStringDefinition InstanceID="0x19E792E4" TextString="Nam" />
+    <TextStringDefinition InstanceID="0xAEDC0F87" TextString="Nữ" />
+    <TextStringDefinition InstanceID="0xC48E2DF3" TextString="Trẻ Em" />
+    <TextStringDefinition InstanceID="0x150A4F1F" TextString="Em Bé" />
+    <TextStringDefinition InstanceID="0xA95B08A9" TextString="Người Lớn" />
+    <TextStringDefinition InstanceID="0x36DC9000" TextString="Gọi Tới" />
+    <TextStringDefinition InstanceID="0xC514D1D0" TextString="{0.SimFirstName} không thể làm việc này khi đang mang thai." />
+    <TextStringDefinition InstanceID="0x6BE2C82F" TextString="Xin chào {1.SimFirstName}, đây là {0.SimFirstName}! Tôi muốn cho bạn biết tôi vừa sinh đôi! {2.SimFirstName} và {3.SimFirstName} đều khỏe mạnh!" />
+    <TextStringDefinition InstanceID="0x4565E49D" TextString="Xin chào {1.SimFirstName}, đây là {0.SimFirstName}! Đoán xem? Tôi sinh ba! {2.SimFirstName}, {3.SimFirstName}, và {4.SimFirstName} đều rất khỏe mạnh." />
+    <TextStringDefinition InstanceID="0x0F422008" TextString="Xin chào {1.SimFirstName}, đây là {0.SimFirstName}! Tôi muốn cho bạn biết tôi vừa sinh {2.SimFirstName}, một em bé {M2.boy}{F2.girl} xinh xắn." />
+    <TextStringDefinition InstanceID="0xB46509D0" TextString="Sinh Con" />
+    <TextStringDefinition InstanceID="0x0839D3F7" TextString="Là {M1.Boy}{F1.Girl}!" />
+    <TextStringDefinition InstanceID="0x7A1158DE" TextString="{0.SimFirstName} vừa sinh một em bé {M1.boy}{F1.girl}! Em bé này cần một cái tên. Bạn muốn đặt tên {M1.him}{F1.her} là gì?" />
+    <TextStringDefinition InstanceID="0xF226410E" TextString="Di Chuyển Hộ Gia Đình" />
+    <TextStringDefinition InstanceID="0x382A18AC" TextString="Làm Mang Thai (Debug)" />
+    <TextStringDefinition InstanceID="0x0B2B678B" TextString="Bán" />
+    <TextStringDefinition InstanceID="0x0EF51AAC" TextString="{0.String} ({1.Money})" />
+    <TextStringDefinition InstanceID="0xA5D8E985" TextString="{0.String} &lt;font color='#3AAF69'&gt;(+{1.GalacticCredits})&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x6A1E28DB" TextString="{0.String} ({1.GalacticCredits})" />
+    <TextStringDefinition InstanceID="0x10EC1FE4" TextString="Đặt Lại Đối Tượng (Debug)" />
+    <TextStringDefinition InstanceID="0xC6242068" TextString="Bật Tính Năng Sinh Con (Debug)" />
+    <TextStringDefinition InstanceID="0x9EDB2102" TextString="Phá Hủy Đối Tượng (Debug)" />
+    <TextStringDefinition InstanceID="0xACA0FBAC" TextString="Lừa Dối Thông Tin Sim" />
+    <TextStringDefinition InstanceID="0x44E97C54" TextString="Đặt Kỹ Năng" />
+    <TextStringDefinition InstanceID="0xEDA85F95" TextString="Lừa Nhu Cầu" />
+    <TextStringDefinition InstanceID="0x09D630E7" TextString="Giết" />
+    <TextStringDefinition InstanceID="0xAE957F73" TextString="Đặt Kỹ Năng {1.String} cho {0.SimName}:" />
+    <TextStringDefinition InstanceID="0xD3F1EC1C" TextString="1" />
+    <TextStringDefinition InstanceID="0x4D27A789" TextString="Thằng hề! {0.SimFirstName} đã thực hiện một trò đùa khá thông minh tại nơi làm việc của {M0.his}{F0.her}." />
+    <TextStringDefinition InstanceID="0x9295F37A" TextString="{0.SimFirstName} đã cố gắng thực hiện một trò đùa tại nơi làm việc, nhưng thất bại thảm hại." />
+    <TextStringDefinition InstanceID="0x8D042A8D" TextString="Khuynh hướng lãng mạn mạnh mẽ sau khi xem bộ phim tình cảm nóng bỏng!" />
+    <TextStringDefinition InstanceID="0x31EBB296" TextString="Đã Xem Phim Tình Cảm" />
+    <TextStringDefinition InstanceID="0x32CDF93E" TextString="Những chiếc chăn mềm mại, thoải mái đã mang lại cho bạn hạnh phúc không ai sánh bằng!" />
+    <TextStringDefinition InstanceID="0xE46D1575" TextString="Thư Giãn Trên Giường" />
+    <TextStringDefinition InstanceID="0xACA88BBC" TextString="Tự Động Lưu" />

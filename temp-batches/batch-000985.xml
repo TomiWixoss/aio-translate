@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x78EF0DDF" TextString="Yêu cầu tạo một cuộc hẹn..." />
+    <TextStringDefinition InstanceID="0x569DC8D3" TextString="Mời đi hẹn hò..." />
+    <TextStringDefinition InstanceID="0x797D5546" TextString="Nâng cấp hoàn tất!\n\n{0.SimFirstName} đã hoàn thành nâng cấp ống chứa rác. Ống chứa rác sẽ không bao giờ bị tắc nữa!" />
+    <TextStringDefinition InstanceID="0x60548CBE" TextString="Ngăn rác bị tắc" />
+    <TextStringDefinition InstanceID="0x5E2067F8" TextString="Tiếp tục lắp đặt Máy ép cản trượt thấp" />
+    <TextStringDefinition InstanceID="0x63F86794" TextString="Lắp đặt Máy ép cản trượt thấp" />
+    <TextStringDefinition InstanceID="0xE074BB29" TextString="Đặt nâng cấp: Không bao giờ tắc (Hoàn tất)" />
+    <TextStringDefinition InstanceID="0xE2FC8C3F" TextString="Sửa tắc" />
+    <TextStringDefinition InstanceID="0xBC2D43FB" TextString="Làm không bị hỏng (Trạng thái &amp; Chỉ số)" />
+    <TextStringDefinition InstanceID="0xFF82D58D" TextString="Làm bị tắc (Chỉ số)" />
+    <TextStringDefinition InstanceID="0x3E48DDE6" TextString="Làm bị hỏng (Trạng thái)" />
+    <TextStringDefinition InstanceID="0x273F58E5" TextString="Khuyến khích vứt rác" />
+    <TextStringDefinition InstanceID="0x0890638B" TextString="Đặt {1.SimFirstName} vào bao đựng lưng" />
+    <TextStringDefinition InstanceID="0x8C9CA9BF" TextString="Lấy {1.SimFirstName} ra khỏi bao đựng lưng" />
+    <TextStringDefinition InstanceID="0xA8FF3FB8" TextString="Điện thoại Sim" />
+    <TextStringDefinition InstanceID="0x36666640" TextString="Đặc vụ" />
+    <TextStringDefinition InstanceID="0x163CC6AD" TextString="Nhiễm trùng" />
+    <TextStringDefinition InstanceID="0xFABC9F42" TextString="Giáo sư" />
+    <TextStringDefinition InstanceID="0x378AA0BF" TextString="Lời nguyền" />
+    <TextStringDefinition InstanceID="0xFB4E3D70" TextString="Bằng đại học" />
+    <TextStringDefinition InstanceID="0xD9943922" TextString="Người ngoài hành tinh Batuu" />
+    <TextStringDefinition InstanceID="0x7E8B2DF2" TextString="Giai đoạn" />
+    <TextStringDefinition InstanceID="0xC933DB56" TextString="Module Robot bị khóa" />
+    <TextStringDefinition InstanceID="0xBC37DE46" TextString="Module Robot" />
+    <TextStringDefinition InstanceID="0x7BADD1CE" TextString="Truyền thống" />
+    <TextStringDefinition InstanceID="0x6F475172" TextString="Tính khí" />
+    <TextStringDefinition InstanceID="0xFF9627FF" TextString="Hạn chế thực phẩm" />
+    <TextStringDefinition InstanceID="0x683499B2" TextString="Nỗi sợ" />
+    <TextStringDefinition InstanceID="0x5AC6302F" TextString="{0.SimFirstName} cần có một Nỗi sợ để uống loại thuốc này." />
+    <TextStringDefinition InstanceID="0x01986C01" TextString="Chơi với đồ chơi" />
+    <TextStringDefinition InstanceID="0xE3851817" TextString="Dọn dẹp đồ chơi" />
+    <TextStringDefinition InstanceID="0x07E04ABC" TextString="Xem Trẻ nhỏ chơi đồ chơi" />
+    <TextStringDefinition InstanceID="0xC22E2E06" TextString="Khoe đồ chơi với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x951E79CA" TextString="Xem {1.SimFirstName} khoe đồ chơi" />
+    <TextStringDefinition InstanceID="0x347F8DDE" TextString="Khoe đồ chơi với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xC2BE0CCB" TextString="Chơi với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x3D9BCCE7" TextString="Mời {1.SimFirstName} cùng chơi" />
+    <TextStringDefinition InstanceID="0xE5BC973D" TextString="Xem {1.SimFirstName} chơi" />
+    <TextStringDefinition InstanceID="0x6FAB1264" TextString="Mời {1.SimFirstName} tham gia" />
+    <TextStringDefinition InstanceID="0x91F2ED3D" TextString="Chơi hung hăng" />
+    <TextStringDefinition InstanceID="0x799E6868" TextString="Nhấn để nói chuyện" />
+    <TextStringDefinition InstanceID="0xA8370B12" TextString="LỖI LỖI!" />
+    <TextStringDefinition InstanceID="0xF187F17F" TextString="Cậu là bạn thân nhất của tớ!" />
+    <TextStringDefinition InstanceID="0x85274464" TextString="Này! Đó gây ngứa!" />
+    <TextStringDefinition InstanceID="0x600D0F64" TextString="Xem chơi" />
+    <TextStringDefinition InstanceID="0xEF7BDE85" TextString="Chơi với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x2F8D7381" TextString="Mời {1.SimFirstName} chơi" />
+    <TextStringDefinition InstanceID="0x5F097052" TextString="Xem {1.SimFirstName} chơi" />
+    <TextStringDefinition InstanceID="0xB36A4CE6" TextString="Mời {1.SimFirstName} xem" />
+    <TextStringDefinition InstanceID="0xEB5D4830" TextString="Cách xả tiết kiệm nước" />

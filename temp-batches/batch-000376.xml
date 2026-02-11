@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xA00F4DB5" TextString="Nhấp vào {2.SimFirstName} và chọn một Tương tác Xã hội từ danh mục Ác." />
+    <TextStringDefinition InstanceID="0xABDE0DE0" TextString="Nhấp vào {2.SimFirstName} và chọn một Tương tác Xã hội từ danh mục Ác." />
+    <TextStringDefinition InstanceID="0xE6C0E5DF" TextString="Đánh nhau với {2.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x219AAFD8" TextString="Nhấp vào {2.SimFirstName} và chọn một Tương tác Xã hội từ danh mục Nghịch ngợm." />
+    <TextStringDefinition InstanceID="0x46745834" TextString="Nhấp vào {2.SimFirstName} và chọn một Tương tác Xã hội từ danh mục Ác." />
+    <TextStringDefinition InstanceID="0x5ADCD32A" TextString="Nhấp vào {2.SimFirstName} và chọn một Tương tác Xã hội từ danh mục Thân thiện." />
+    <TextStringDefinition InstanceID="0x35B498E8" TextString="Nhấp vào {2.SimFirstName} và chọn Xin lỗi." />
+    <TextStringDefinition InstanceID="0x58B46857" TextString="Xin lỗi {2.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xCA4D17CE" TextString="Nhấp vào một Tàu vũ trụ và chọn Khám phá không gian. Các Sim có Khoa học Tên lửa cao hơn có cơ hội thành công cao hơn trong nhiệm vụ." />
+    <TextStringDefinition InstanceID="0x7E42A0DD" TextString="Kết thúc Nhiệm vụ Tên lửa một cách an toàn" />
+    <TextStringDefinition InstanceID="0x14F4794A" TextString="Bánh trái cây có thể được làm bởi một Sim có kỹ năng Đầu bếp sang trọng, hoặc được mang qua bởi một hàng xóm chào đón." />
+    <TextStringDefinition InstanceID="0x128848F2" TextString="Ăn Bánh trái cây" />
+    <TextStringDefinition InstanceID="0x422FE091" TextString="Các Sim có thể kiếm tiền từ sự nghiệp, bán những thứ họ tự làm, và các tương tác kỹ năng khác." />
+    <TextStringDefinition InstanceID="0xB96A9110" TextString="Kiếm được {0.Money}" />
+    <TextStringDefinition InstanceID="0x27A85DBE" TextString="Nhấp xuống đất và chọn Làm tạm biệt. Các Sim có thể thực hiện tương tác này khi đang có trạng thái Tràn đầy năng lượng!" />
+    <TextStringDefinition InstanceID="0x9FD1EA0D" TextString="Làm tạm biệt!" />
+    <TextStringDefinition InstanceID="0x821EF4F0" TextString="Nhấp xuống đất và chọn Làm chống đẩy. Các Sim có thể thực hiện tương tác này khi đang có trạng thái Tràn đầy năng lượng!" />
+    <TextStringDefinition InstanceID="0x014E83EF" TextString="Làm chống đẩy!" />
+    <TextStringDefinition InstanceID="0x9AD6D0D1" TextString="Các Sim có thể kiếm tiền từ Lừa đảo, Tạo Plugin và các tương tác khác trên Máy tính. Các Sim mở khóa các tương tác này bằng cách tăng Kỹ năng Lập trình." />
+    <TextStringDefinition InstanceID="0x142F5950" TextString="Kiếm được {0.Money} từ Lập trình" />
+    <TextStringDefinition InstanceID="0x91007A75" TextString="Sử dụng Máy tính và chọn Quyên góp cho Từ thiện trực tuyến. Các Sim có thể mở khóa tương tác này bằng cách tăng Kỹ năng Sức hút." />
+    <TextStringDefinition InstanceID="0xC3096394" TextString="Quyên góp cho Từ thiện" />
+    <TextStringDefinition InstanceID="0xE7D2B42D" TextString="Nhấp vào một Sim và chọn Làm theo phong cách từ danh mục Hài hước." />
+    <TextStringDefinition InstanceID="0x9EA5723C" TextString="Làm theo phong cách cho Ai đó" />
+    <TextStringDefinition InstanceID="0x74BABE96" TextString="Sử dụng thiết bị tập luyện ở bất kỳ đâu hoặc chọn {1.SimFirstName} sau đó tìm tương tác Đi chạy bộ trong menu hình bánh." />
+    <TextStringDefinition InstanceID="0x21E34D06" TextString="Tham gia Hoạt động Thể thao" />
+    <TextStringDefinition InstanceID="0x561FA4B5" TextString="Nhấp vào {2.SimFirstName} và chọn Ly dị dưới danh mục Ác." />
+    <TextStringDefinition InstanceID="0xD84AF2D4" TextString="Ly dị {2.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xA87B2CE2" TextString="Nhấp vào một Sim và chọn Thảo luận về Viết lách. Các Sim có thể mở khóa tương tác này bằng cách tăng Kỹ năng Viết." />
+    <TextStringDefinition InstanceID="0x2A07F2A0" TextString="Thảo luận về Tác giả Yêu thích" />
+    <TextStringDefinition InstanceID="0x1C9C1C55" TextString="Nhấp vào một Sim và chọn Thảo luận về Nhạc công Violin hay nhất. Các Sim có thể mở khóa Tương tác Xã hội này bằng cách tăng Kỹ năng Violin." />
+    <TextStringDefinition InstanceID="0x2481CBB3" TextString="Thảo luận về Nhạc công Violin hay nhất" />
+    <TextStringDefinition InstanceID="0x989436AE" TextString="Thảo luận về Công thức nấu ăn Yêu thích" />
+    <TextStringDefinition InstanceID="0x96B39933" TextString="Nhấp vào một Sim và chọn Ca ngợi Bản giao hưởng Piano dưới danh mục Thân thiện. Các Sim có thể mở khóa tương tác này bằng cách tăng Kỹ năng Piano." />
+    <TextStringDefinition InstanceID="0x9C1886F1" TextString="Say sưa về Bản giao hưởng Piano" />
+    <TextStringDefinition InstanceID="0xAF4ED953" TextString="Nhấp vào một Sim và chọn Thảo luận về Đố vui logic. Các Sim có thể mở khóa tương tác này bằng cách tăng Kỹ năng Logic." />
+    <TextStringDefinition InstanceID="0xEC84C3C2" TextString="Thảo luận về Đố vui logic" />
+    <TextStringDefinition InstanceID="0xBEA653A8" TextString="Nhấp vào một Sim và chọn Hào hứng về Phần đơn Guitar. Các Sim có thể mở khóa tương tác này bằng cách tăng Kỹ năng Guitar." />
+    <TextStringDefinition InstanceID="0xA7E1182E" TextString="Hào hứng về Phần đơn Guitar" />
+    <TextStringDefinition InstanceID="0x1A76A6FA" TextString="Đi đến Phòng tập bằng cách mở Bản đồ Thế giới và nhấp vào Địa điểm. Khi đến nơi, nhấp vào một Sim và chọn Thảo luận về Kỹ thuật Thể dục dưới danh mục Thân thiện. Các Sim có thể mở khóa tương tác xã hội này bằng cách tăng Kỹ năng Thể dục." />
+    <TextStringDefinition InstanceID="0xF75BE61C" TextString="Thảo luận về Kỹ thuật Thể dục tại Phòng tập" />
+    <TextStringDefinition InstanceID="0x76B354B0" TextString="Nhấp vào một Sim và chọn Thảo luận về Kỹ thuật Thể dục dưới danh mục Thân thiện. Các Sim có thể mở khóa tương tác xã hội này bằng cách tăng Kỹ năng Thể dục." />
+    <TextStringDefinition InstanceID="0x29E9D1AF" TextString="Thảo luận về Kỹ thuật Thể dục" />
+    <TextStringDefinition InstanceID="0x5EC16552" TextString="Là một Người đam mê ẩm thực, {1.SimFirstName} muốn nói về đồ ăn ngon với các Sim khác!" />
+    <TextStringDefinition InstanceID="0xFA5C62A1" TextString="Thảo luận về Ẩm thực Tinh tế" />
+    <TextStringDefinition InstanceID="0xFE0C2A95" TextString="Đi đến Bảo tàng bằng cách mở Bản đồ Thế giới và nhấp vào Địa điểm. Khi đến nơi, nhấp vào một Sim và chọn Thảo luận về Lý thuyết Màu sắc dưới danh mục Thân thiện. Các Sim là Người yêu nghệ thuật có thể thực hiện tương tác xã hội này. Ngoài ra, các Sim có thể mở khóa tương tác này bằng cách tăng Kỹ năng Vẽ." />
+    <TextStringDefinition InstanceID="0x6C5C0D60" TextString="Nhấp vào {2.SimFirstName} và chọn một Tương tác Xã hội từ danh mục Thân thiện." />
+    <TextStringDefinition InstanceID="0x92918171" TextString="Nhấp vào một Sim và chọn Thử Thần giao dưới danh mục Thân thiện. Các Sim trẻ có thể mở khóa tương tác xã hội này bằng cách tăng Kỹ năng Tư duy." />
+    <TextStringDefinition InstanceID="0x61D2FF30" TextString="Thử Thần giao" />
+    <TextStringDefinition InstanceID="0x92EEA305" TextString="Nhấp vào Máy tính và chọn Luyện tập gõ phím. Yêu cầu giúp đỡ từ một Sim lớn tuổi có thể hỗ trợ phát triển kỹ năng Vận động thêm." />

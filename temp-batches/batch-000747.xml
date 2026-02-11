@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x09F8D42E" TextString="{0.SimFirstName}, tôi thấy những chỉnh sửa cậu đang làm... Nhìn này; đừng bận tâm. Không thể cứu được thứ đó đâu. Hãy bắt đầu lại, và tạo ra một thứ gì đó tốt ngay từ đầu lần này, được chứ?" />
+    <TextStringDefinition InstanceID="0x1A29B7AD" TextString="Trò Chuyện với Khách Hàng" />
+    <TextStringDefinition InstanceID="0xB35CF30B" TextString="Tìm hiểu về Công Chúa Cordelia" />
+    <TextStringDefinition InstanceID="0x5C0792D6" TextString="Hack Thông Tin Gia Đình Darong" />
+    <TextStringDefinition InstanceID="0x4F1C669C" TextString="Tìm Thông Tin Gia Đình Capp" />
+    <TextStringDefinition InstanceID="0x65A1B3F7" TextString="Hack Thông Tin Gia Đình Darong" />
+    <TextStringDefinition InstanceID="0xBF85B641" TextString="Kiếm Tiền Bằng Turking" />
+    <TextStringDefinition InstanceID="0x7C9D5EBB" TextString="Hoàn thành các nhiệm vụ nhỏ trực tuyến để kiếm thêm tiền" />
+    <TextStringDefinition InstanceID="0x0092B152" TextString="Sáng Kiến Nghiên Cứu Dòng Gót" />
+    <TextStringDefinition InstanceID="0x2840737F" TextString="Lobster Thermidor cho Một Số Người" />
+    <TextStringDefinition InstanceID="0x82EE418A" TextString="Cơ Quan Kiểm Soát Dân Số Thỏ" />
+    <TextStringDefinition InstanceID="0x00AF9E0E" TextString="Quyên góp §1000 cho" />
+    <TextStringDefinition InstanceID="0xE1A4BACA" TextString="Sự quyên góp lớn của {0.SimFirstName} không bị bỏ qua. Tổ chức từ thiện đã thêm tên {M0.his}{F0.her} vào bảng tôn vinh nhà tài trợ." />
+    <TextStringDefinition InstanceID="0x84F59FE5" TextString="Xoa Bóp cho Người Sản Xuất Em Bé" />
+    <TextStringDefinition InstanceID="0xA5C88D8C" TextString="Nhóm Từ Thiện Monte Vista" />
+    <TextStringDefinition InstanceID="0xF4DE3AF1" TextString="Bữa Ăn Di Động" />
+    <TextStringDefinition InstanceID="0x0CA2F8B6" TextString="Quyên góp §100 cho" />
+    <TextStringDefinition InstanceID="0xB1A5E952" TextString="Tổ chức từ thiện rất trân trọng món quà lớn và cảm ơn {0.SimName} trong bản tin tạp chí nhà tài trợ của họ." />
+    <TextStringDefinition InstanceID="0x8D3258A8" TextString="Các Nhà Du Hành Tương Lai của Sunset Valley" />
+    <TextStringDefinition InstanceID="0xEFB68923" TextString="Các Nhà Du Hành Tương Lai của Sunset Valley" />
+    <TextStringDefinition InstanceID="0x2F04BA0E" TextString="Quỹ Rồng Khủng Long" />
+    <TextStringDefinition InstanceID="0xAA9847EE" TextString="Đồ Chơi cho Người Cao Tuổi" />
+    <TextStringDefinition InstanceID="0x27D5F20D" TextString="Llama Quốc Tế" />
+    <TextStringDefinition InstanceID="0xD9F0EA3D" TextString="Đài Phát Thanh Công Cộng Quốc Gia" />
+    <TextStringDefinition InstanceID="0x49AD0670" TextString="Bánh Mì Phô Mai Nướng Cho Tất Cả Mọi Người" />
+    <TextStringDefinition InstanceID="0xB705CF03" TextString="SmartSim Cho Đi" />
+    <TextStringDefinition InstanceID="0xB234B70E" TextString="Quyên góp §10 cho" />
+    <TextStringDefinition InstanceID="0x76E84BCA" TextString="Mặc dù không phải món quà lớn nhất, mọi đồng Simoleon đều được trân trọng!" />
+    <TextStringDefinition InstanceID="0x233C3B0B" TextString="{0.SimFirstName} đã quyên góp gần đây quá." />
+    <TextStringDefinition InstanceID="0xA59BAEA9" TextString="Ôi không! Trang web từ thiện mà {0.SimFirstName} dùng không phải là trang chính thức và có vẻ như số tiền đã bị mất do lừa đảo trực tuyến!" />
+    <TextStringDefinition InstanceID="0xA0808B67" TextString="Chia Sẻ Những Phát Hiện với Jasmine" />
+    <TextStringDefinition InstanceID="0x897C6BEF" TextString="Nghiên Cứu Truyền Thống Lễ Hội" />
+    <TextStringDefinition InstanceID="0x3FE0C55E" TextString="Mặc dù các nền văn hóa khác nhau đã hình thành những truyền thống riêng để ăn mừng mùa lễ hội, những chủ đề chung đã nổi lên: Tụ họp bạn bè và gia đình thân thiết, thức ăn và đồ uống truyền thống, và lắng nghe âm nhạc lễ hội. Tất cả đều được đề cao mặc dù những chi tiết cụ thể và ý nghĩa của chúng thay đổi tùy theo từng nền văn hóa." />
+    <TextStringDefinition InstanceID="0x826607FE" TextString="Khuyến Khích Làm Bài Tập Về Nhà" />
+    <TextStringDefinition InstanceID="0xBD77A4CA" TextString="Bài tập về nhà của {0.SimFirstName} đã xong cho hôm nay." />
+    <TextStringDefinition InstanceID="0xA5853457" TextString="Kiểm Tra Cây Bonsai" />
+    <TextStringDefinition InstanceID="0x47E650C9" TextString="Cắt Bỏ Cây Dại" />
+    <TextStringDefinition InstanceID="0xC37F2743" TextString="Tạo Hình" />
+    <TextStringDefinition InstanceID="0x2724B28B" TextString="Cây Bonsai này đã được Tạo Hình gần đây. Hãy đợi cho đến khi nó mọc lại nhiều hơn để thử lại." />
+    <TextStringDefinition InstanceID="0xB97AF0C1" TextString="Biến cây Bonsai đơn giản này thành một tác phẩm nghệ thuật xanh." />
+    <TextStringDefinition InstanceID="0x1C766233" TextString="Tạo Hình Vui Vẻ" />
+    <TextStringDefinition InstanceID="0x7AD49DD0" TextString="Tạo Hình Đầy Cảm Hứng" />
+    <TextStringDefinition InstanceID="0xC176A990" TextString="Tạo Hình Thân Mật" />
+    <TextStringDefinition InstanceID="0x30C0DB23" TextString="Tạo Hình Tức Giận" />
+    <TextStringDefinition InstanceID="0x4323630B" TextString="Tạo Hình Nhiều Thân" />
+    <TextStringDefinition InstanceID="0x7293B2F2" TextString="Tạo Hình Thác Nước" />
+    <TextStringDefinition InstanceID="0x8383C1DD" TextString="Tạo Hình Gió Cuốn" />
+    <TextStringDefinition InstanceID="0x984F571C" TextString="Tạo Hình Đối Xứng" />
+    <TextStringDefinition InstanceID="0x790F19E7" TextString="Tạo Hình Truyền Thống" />
+    <TextStringDefinition InstanceID="0x6F64338B" TextString="Cây Bonsai này quá bụi để Tạo Hình. Nó phải được Cắt Bỏ trước đã." />

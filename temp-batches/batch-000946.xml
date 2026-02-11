@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x22ECB5D6" TextString="Nhờ {2.SimFirstName} lấy đồ uống" />
+    <TextStringDefinition InstanceID="0x498D283F" TextString="Nhấp vào {2.SimFirstName} và sử dụng mục Hỗ trợ để yêu cầu một chiếc tã sạch." />
+    <TextStringDefinition InstanceID="0xDE5B1415" TextString="Nhờ {2.SimFirstName} lấy tã" />
+    <TextStringDefinition InstanceID="0xF393DAC6" TextString="Nhấp vào {2.SimFirstName} và sử dụng mục Thân thiện để yêu cầu món tráng miệng." />
+    <TextStringDefinition InstanceID="0x441104F6" TextString="Nhờ {2.SimFirstName} lấy tráng miệng" />
+    <TextStringDefinition InstanceID="0x85E42380" TextString="Nhấp vào Máy hát và chọn Yêu cầu Hỗ trợ Nhảy từ {2.SimFirstName}." />
+    <TextStringDefinition InstanceID="0x9DF92268" TextString="Nhờ {2.SimFirstName} hỗ trợ nhảy" />
+    <TextStringDefinition InstanceID="0xF2899E70" TextString="Nhờ {2.SimFirstName} an ủi để cảm thấy khá hơn." />
+    <TextStringDefinition InstanceID="0xC2A26718" TextString="Nhờ {2.SimFirstName} an ủi" />
+    <TextStringDefinition InstanceID="0xDCCE8145" TextString="Nhấp vào một Toilet và chọn Nhảy Vào." />
+    <TextStringDefinition InstanceID="0x7B0E0BAB" TextString="Nhảy Vào Toilet" />
+    <TextStringDefinition InstanceID="0x79F112D6" TextString="Nhấp vào một Sim và chọn một câu đùa từ mục Hài hước. Các Sim có thể mở khóa thêm câu đùa bằng cách tăng Kỹ năng Hài hước của họ." />
+    <TextStringDefinition InstanceID="0xF85BB035" TextString="Kể một Câu đùa Thành công" />
+    <TextStringDefinition InstanceID="0x6F09A62E" TextString="Mỗi Sim đều có một câu chuyện để kể!\n\nChọn một Sim khác và chia sẻ câu chuyện của bạn!" />
+    <TextStringDefinition InstanceID="0x77AA9C6E" TextString="Kể một Câu chuyện" />
+    <TextStringDefinition InstanceID="0xD7806987" TextString="Nhấp vào một Sim và chọn Kể Câu đùa Tự Chê bai từ mục Hài hước. Các Sim có thể thực hiện Tương tác Xã hội này khi Đang Xấu hổ." />
+    <TextStringDefinition InstanceID="0xFFE2C210" TextString="Kể một Câu đùa Tự Chê bai" />
+    <TextStringDefinition InstanceID="0xAF05C6A7" TextString="Nhấp vào Microphone và chọn Kể một Câu đùa." />
+    <TextStringDefinition InstanceID="0xA76615F6" TextString="Kể một Câu đùa trên Microphone" />
+    <TextStringDefinition InstanceID="0x5D77D167" TextString="Nhấp vào một Sim và chọn một Tương tác Xã hội từ mục Hài hước." />
+    <TextStringDefinition InstanceID="0x8E5CE0B6" TextString="Kể một Câu đùa" />
+    <TextStringDefinition InstanceID="0x6A991A5F" TextString="Nhấp vào một Sim và chọn Kể Câu chuyện Không Thể Tin từ mục Thân thiện. Các Sim có thể thực hiện Tương tác Xã hội này khi Tự tin." />
+    <TextStringDefinition InstanceID="0x61F7B97E" TextString="Kể một Câu chuyện Không Thể Tin" />
+    <TextStringDefinition InstanceID="0xBB5B28F4" TextString="Nhấp vào một Sim và chọn Kể Câu đùa Nhạy cảm từ mục Hài hước. Các Sim có thể thực hiện Tương tác Xã hội này khi Đang Thích thú." />
+    <TextStringDefinition InstanceID="0x14909FD3" TextString="Kể một Câu đùa Nhạy cảm cho Người khác" />
+    <TextStringDefinition InstanceID="0x9C297668" TextString="Nhấp vào Máy tính và chọn Phát trực tiếp Game trong mục Chơi Game. Các Sim có thể mở khóa tương tác này bằng cách tiến triển trong Lộ trình Đối thủ eSports của Sự nghiệp Chuyên gia Công nghệ." />
+    <TextStringDefinition InstanceID="0x02A50EEE" TextString="Phát trực tiếp một Game" />
+    <TextStringDefinition InstanceID="0x7A49F107" TextString="Nhấp vào một Cây và chọn Nói chuyện với Cây. Các Sim có thể mở khóa tương tác này bằng cách tăng Kỹ năng Trồng cây và Cắt cành từ một cây khác." />
+    <TextStringDefinition InstanceID="0xC92B4916" TextString="Nói chuyện với một Cây" />
+    <TextStringDefinition InstanceID="0xC1CCE1A3" TextString="Nhấp vào Bạn đời của Sim của bạn và chọn tương tác Thảo luận Vấn đề trong mục Lãng mạn." />
+    <TextStringDefinition InstanceID="0x2FEE4841" TextString="Thảo luận Vấn đề" />
+    <TextStringDefinition InstanceID="0x0FAF0405" TextString="Nhấp vào một Sim và chọn Nói về Giấc mơ từ mục Thân thiện. Các Sim có thể thực hiện Tương tác Xã hội này khi Đang Cảm hứng." />
+    <TextStringDefinition InstanceID="0xDC4C05E4" TextString="Nói về Giấc mơ với Người khác" />
+    <TextStringDefinition InstanceID="0x60421029" TextString="Nhấp vào một Sim và chọn Nói về Nấu ăn trong mục Thân thiện. Các Sim có thể mở khóa tương tác xã hội này bằng cách tăng Kỹ năng Nấu ăn." />
+    <TextStringDefinition InstanceID="0x75A836C7" TextString="Nói về Nấu ăn" />
+    <TextStringDefinition InstanceID="0xDB3F6284" TextString="Nhấp vào Vòi sen và chọn loại vòi sen. Vòi sen và bồn tắm sẽ giúp {1.SimFirstName} bình tĩnh và giảm căng thẳng." />
+    <TextStringDefinition InstanceID="0xD39E17E3" TextString="Tắm một Cách Thư giãn" />
+    <TextStringDefinition InstanceID="0xBD5F75F3" TextString="Nhấp vào Vòi sen và chọn Tắm Nước Lạnh. Các Sim có thể thực hiện tương tác này khi Đang Tức giận hoặc Đang Thích thú." />
+    <TextStringDefinition InstanceID="0x059D1B22" TextString="Tắm Nước Lạnh" />
+    <TextStringDefinition InstanceID="0x5144226C" TextString="Nhấp vào Vòi sen và chọn Tắm Nhanh. Các Sim có thể thực hiện tương tác này khi Đang Tràn đầy Năng lượng." />
+    <TextStringDefinition InstanceID="0x3B2EFC7B" TextString="Tắm Nhanh" />
+    <TextStringDefinition InstanceID="0x186A5622" TextString="Nhấp vào Vòi sen và chọn Tắm Nước Lạnh. Các Sim có thể thực hiện tương tác này khi Đang Tức giận hoặc Đang Thích thú." />
+    <TextStringDefinition InstanceID="0x446E8431" TextString="Tắm Nước Lạnh" />
+    <TextStringDefinition InstanceID="0xCFD4C6C9" TextString="Nhấp vào một Hóa thạch, Tinh thể, Cây trong Vườn, hoặc Kim loại và chọn Thu thập Mẫu Kính hiển vi. Các Sim có thể mở khóa tương tác này bằng cách tăng Kỹ năng Tư duy và khai quật được một trong những vật sưu tập này!" />
+    <TextStringDefinition InstanceID="0xA7897401" TextString="Nhấp vào Bảng vẽ, chọn Tranh Trừu tượng và chọn Kích thước Tranh." />
+    <TextStringDefinition InstanceID="0x78651300" TextString="Vẽ một Tranh Trừu tượng" />
+    <TextStringDefinition InstanceID="0xE1458664" TextString="Nhấp vào Bảng vẽ và chọn Bánh Mì Kẹp Phô Mai Nướng!" />
+    <TextStringDefinition InstanceID="0xBD87CED4" TextString="Vẽ Bánh Mì Kẹp Phô Mai Nướng" />
+    <TextStringDefinition InstanceID="0xE53022CE" TextString="Nhấp vào Bảng vẽ và chọn Tranh Buồn bã." />
+    <TextStringDefinition InstanceID="0x1E4101DD" TextString="Bắt đầu một Tranh Buồn bã" />

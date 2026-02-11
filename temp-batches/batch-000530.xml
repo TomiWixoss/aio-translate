@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x1A502EF1" TextString="Thức ăn Tuyệt vời" />
+    <TextStringDefinition InstanceID="0x431442CE" TextString="Món ăn đó thật tuyệt! Tôi cảm thấy no và hài lòng." />
+    <TextStringDefinition InstanceID="0x67835E88" TextString="Món ăn Ngon" />
+    <TextStringDefinition InstanceID="0x2B89469D" TextString="Bữa ăn rất thỏa mãn! Tôi sẽ no một thời gian." />
+    <TextStringDefinition InstanceID="0xF11024C1" TextString="Bữa ăn Ngon miệng (ẨN)" />
+    <TextStringDefinition InstanceID="0xA94FE0A2" TextString="Xấu hổ vì Công việc" />
+    <TextStringDefinition InstanceID="0xA9C67D56" TextString="Thật là một ngày làm việc khó xử. Hmmm... Ugh." />
+    <TextStringDefinition InstanceID="0x43666E6D" TextString="Tự tin từ những tay sai đáng sợ!" />
+    <TextStringDefinition InstanceID="0x453F760D" TextString="Tự tin từ một cơ hội lớn ở công việc!" />
+    <TextStringDefinition InstanceID="0x0E4A5C47" TextString="Tự tin từ việc khẳng định quyền lực của bạn ở công việc!" />
+    <TextStringDefinition InstanceID="0x59A3367F" TextString="Tự tin từ nhiệm vụ mạo hiểm thành công!" />
+    <TextStringDefinition InstanceID="0x5F4A086F" TextString="Tự tin từ Công việc" />
+    <TextStringDefinition InstanceID="0xC487CF7D" TextString="Sau công việc xuất sắc hôm nay, {0.SimFirstName} cảm thấy như {M0.he}{F0.she} có thể chinh phục cả thế giới." />
+    <TextStringDefinition InstanceID="0xAC165EA5" TextString="Chán từ Công việc" />
+    <TextStringDefinition InstanceID="0xBB9DDE7F" TextString="Hôm nay có lẽ là ngày làm việc chán nhất từ trước đến nay." />
+    <TextStringDefinition InstanceID="0x09CA0E0E" TextString="Vết cắt Đáng giá" />
+    <TextStringDefinition InstanceID="0xDB1A5AB7" TextString="Không có gì mà một ít thuốc mỡ sát khuẩn không thể chữa được." />
+    <TextStringDefinition InstanceID="0x8704F235" TextString="Người Du hành Lỗ sâu" />
+    <TextStringDefinition InstanceID="0x05FB5EAA" TextString="Đôi khi, cỏ ngoài không gian thực sự xanh hơn bên kia." />
+    <TextStringDefinition InstanceID="0x40026BC1" TextString="Cảm giác Bất an" />
+    <TextStringDefinition InstanceID="0x9EC21A3E" TextString="Hy vọng chứng hay quên này chỉ tạm thời." />
+    <TextStringDefinition InstanceID="0x41FEB610" TextString="Kẻ Đánh cắp ý tưởng" />
+    <TextStringDefinition InstanceID="0x84D5DB75" TextString="Không có gì khiêm nhường hơn loại sự nhục nhã công khai này." />
+    <TextStringDefinition InstanceID="0x684E63D3" TextString="Đánh bại Virus" />
+    <TextStringDefinition InstanceID="0x6A98497C" TextString="Cảm thấy tốt khi là bảo vệ virus tốt nhất có thể." />
+    <TextStringDefinition InstanceID="0xF9A4015D" TextString="Thời gian Bị lãng phí" />
+    <TextStringDefinition InstanceID="0x85C39FE2" TextString="Không có gì tức giận hơn một khoảng thời gian lãng phí lớn." />
+    <TextStringDefinition InstanceID="0x80AD7018" TextString="Máy tính Bị tê liệt" />
+    <TextStringDefinition InstanceID="0x03B2F3CD" TextString="Khôi phục tất cả dữ liệu đã mất trên máy này sẽ mất một thời gian...." />
+    <TextStringDefinition InstanceID="0x11A870EA" TextString="Cuộc đuổi theo Virus" />
+    <TextStringDefinition InstanceID="0x0E276CEB" TextString="Ngay cả 15 phút danh vọng cho một công việc được làm tốt cũng là một sự thúc đẩy tốt cho cái tôi." />
+    <TextStringDefinition InstanceID="0xCA457550" TextString="Nhiệm vụ Vô dụng" />
+    <TextStringDefinition InstanceID="0xCE26D6B5" TextString="Lãng phí thời gian và tài nguyên không phải là bước đi sự nghiệp tốt." />
+    <TextStringDefinition InstanceID="0x3722C362" TextString="Chú chó tội nghiệp thậm chí còn không phải là ngôi sao thực sự--chỉ là một diễn viên thay thế." />
+    <TextStringDefinition InstanceID="0xBB38036A" TextString="Phi công Vô ơn" />
+    <TextStringDefinition InstanceID="0x8B12106B" TextString="Bạn không bao giờ có thể làm hài lòng một số người." />
+    <TextStringDefinition InstanceID="0x4854DADE" TextString="Đã Mua được Giá tốt" />
+    <TextStringDefinition InstanceID="0xE4DDE5A7" TextString="Không có gì như mua được nghệ thuật tuyệt vời với một mức giá hợp lý." />
+    <TextStringDefinition InstanceID="0x08FE9ADA" TextString="Giao dịch Bị cản trở" />
+    <TextStringDefinition InstanceID="0xB031067B" TextString="Đấu thầu thấp luôn là một nỗ lực mạo hiểm...." />
+    <TextStringDefinition InstanceID="0x5B84EDDD" TextString="Giá Đã sửa" />
+    <TextStringDefinition InstanceID="0xD8C98162" TextString="Không có gì như được đánh giá cao vì sự trung thực của bạn!" />
+    <TextStringDefinition InstanceID="0xFE565F62" TextString="Dải Ngân hà Không phòng thủ" />
+    <TextStringDefinition InstanceID="0xF7E3C233" TextString="Có lẽ không thông minh khi dành nhiều nguồn lực như vậy cho một thứ tầm thường." />
+    <TextStringDefinition InstanceID="0xDB7886C5" TextString="Ồ, điều đó đã phản tác dụng." />
+    <TextStringDefinition InstanceID="0x62BF3195" TextString="Dạy kèm Đáng giá" />
+    <TextStringDefinition InstanceID="0xB9A8ED8A" TextString="Đáng để thấy tài năng của học sinh thực sự bùng nổ." />
+    <TextStringDefinition InstanceID="0xAE71E9A9" TextString="Dạy kèm Lãng phí Thời gian" />
+    <TextStringDefinition InstanceID="0x9AD06176" TextString="Bài học truyền đạt cho kẻ phạm tội trẻ không có tác dụng. Than ôi, không thể thắng tất cả." />
+    <TextStringDefinition InstanceID="0xE3B9D69D" TextString="Bị từ chối bởi Tam giác" />

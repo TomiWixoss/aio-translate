@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x75AB3D33" TextString="Một người thợ cơ khí tài năng đang chia sẻ những hiểu biết với bạn!" />
+    <TextStringDefinition InstanceID="0x6ABDDE69" TextString="Chơi Như Một Ngôi Sao Nhạc Rock" />
+    <TextStringDefinition InstanceID="0x862C8236" TextString="Với một chút giúp đỡ, bạn đang làm chủ những hợp âm này nhanh hơn!" />
+    <TextStringDefinition InstanceID="0xCFE28F1F" TextString="Vẽ Với Mục Đích" />
+    <TextStringDefinition InstanceID="0x98E84870" TextString="Những mẹo vẽ này đang giúp trình độ kỹ năng của {0.SimFirstName} tăng vọt!" />
+    <TextStringDefinition InstanceID="0x20F0564C" TextString="Bậc Thầy Câu Châm Ngôn" />
+    <TextStringDefinition InstanceID="0x8B412D69" TextString="Được một diễn viên hài kịch lão luyện dẫn dắt là cách nhanh nhất để cải thiện khả năng làm người khác cười!" />
+    <TextStringDefinition InstanceID="0xC79F7152" TextString="Bạn học được nhiều hơn khi có người lớn giúp bạn với bài tập về nhà." />
+    <TextStringDefinition InstanceID="0x0BD85A61" TextString="Chơi Cờ Vua Như Một Nhà Vô Địch" />
+    <TextStringDefinition InstanceID="0x7790655E" TextString="Thêm một chút dẫn dắt nữa và bạn có thể trở thành Đại kiện tướng cờ vua tiếp theo! Có lẽ không, nhưng bạn chưa biết đâu." />
+    <TextStringDefinition InstanceID="0x018E3C96" TextString="Cảm Thấy Được Khuyến Khích" />
+    <TextStringDefinition InstanceID="0x4B6C96CF" TextString="Trái ngược với niềm tin phổ biến, có một người lớn xung quanh để khuyến khích bạn sẽ giúp bạn sáng tạo hơn." />
+    <TextStringDefinition InstanceID="0xF295A063" TextString="Siêu Lạnh Gáy" />
+    <TextStringDefinition InstanceID="0x9D3FD52C" TextString="Đó là một khoảnh khắc đáng sợ! Tại sao tôi lại chụp bức ảnh này?" />
+    <TextStringDefinition InstanceID="0x46491259" TextString="Ký Ức Buồn" />
+    <TextStringDefinition InstanceID="0x0D304BC6" TextString="Không có gì ngạc nhiên khi chỉ tập trung vào mặt tiêu cực thì khá là trầm cảm." />
+    <TextStringDefinition InstanceID="0xADC82B9D" TextString="Ký Ức Động Viên" />
+    <TextStringDefinition InstanceID="0x88BE7222" TextString="Có những trải nghiệm phi thường tiếp tục thúc đẩy chúng ta đến những điều lớn lao và tốt đẹp hơn." />
+    <TextStringDefinition InstanceID="0x02CDC8EF" TextString="Ký Ức Hạnh Phúc" />
+    <TextStringDefinition InstanceID="0x319814A0" TextString="{0.SimFirstName} cảm thấy hài lòng sau khi nhớ lại một trong những ngày tốt nhất của mình." />
+    <TextStringDefinition InstanceID="0x24F7FC89" TextString="Ký Ức Lãng Mạn" />
+    <TextStringDefinition InstanceID="0x735C48D6" TextString="Một ký ức nóng bỏng như vậy nên đi kèm với lưới kiểm duyệt, hoặc ít nhất là ánh sáng tâm trạng và nhạc saxophone." />
+    <TextStringDefinition InstanceID="0x76BC55EC" TextString="Ký Ức Xấu Hổ" />
+    <TextStringDefinition InstanceID="0x114FA189" TextString="Ai biết tại sao ai đó lại muốn sống lại một khoảnh khắc nhục nhã từ quá khứ của họ?&#xD;&#xA;" />
+    <TextStringDefinition InstanceID="0x18F7F7B9" TextString="Ký Ức Tự Tin" />
+    <TextStringDefinition InstanceID="0x3FE22CA6" TextString="Nhắc nhở {M0.himself}{F0.herself} về những thành công trong quá khứ trao quyền cho {0.SimFirstName} để chiến thắng trong tương lai." />
+    <TextStringDefinition InstanceID="0x79AFA720" TextString="Ký Ức Tức Giận" />
+    <TextStringDefinition InstanceID="0xDECD5CA5" TextString="Chỉ nghĩ lại một khoảnh khắc căng thẳng từ quá khứ khiến {0.SimFirstName} thấy đỏ." />
+    <TextStringDefinition InstanceID="0x5A4773CA" TextString="Ngủ Gật" />
+    <TextStringDefinition InstanceID="0x96CDCC4B" TextString="{0.SimFirstName} cần nghỉ ngơi {M0.his}{F0.her} mắt chỉ một chút-" />
+    <TextStringDefinition InstanceID="0x30A708EC" TextString="Thư Giãn Sang Trọng" />
+    <TextStringDefinition InstanceID="0x21C12289" TextString="Trên ghế lounge là nơi {0.SimFirstName} đã dành tất cả {F0.her}{M0.his} ngày.\nThư giãn, tối đa hóa, thư giãn hoàn toàn thư thái.\nSẵn sàng chợp mắt dưới hồ bơi!" />
+    <TextStringDefinition InstanceID="0xA4C92503" TextString="{0.SimFirstName} đã cố gắng hết sức {M0.his}{F0.her} để làm sụp đổ một mối quan hệ, nhưng không thành công." />
+    <TextStringDefinition InstanceID="0xD5F4132F" TextString="Bị Nói Xấu" />
+    <TextStringDefinition InstanceID="0x396E3EE0" TextString="Sao họ dám nói những điều như vậy về tôi!" />
+    <TextStringDefinition InstanceID="0xAAB2C163" TextString="Ý Đồ Xấu Xa" />
+    <TextStringDefinition InstanceID="0x8EAB302C" TextString="Nhìn người khác tranh cãi mang lại một nụ cười mà {0.SimFirstName} không thể giấu." />
+    <TextStringDefinition InstanceID="0x5B7890F0" TextString="Kế Hoạch Bị Dao Động" />
+    <TextStringDefinition InstanceID="0x778188D5" TextString="{0.SimFirstName} nên suy nghĩ lại cách tiếp cận {F0.her}{M0.his} trong cuộc trò chuyện này để tránh cảm giác này." />
+    <TextStringDefinition InstanceID="0x6B8E0E3E" TextString="Họ Thực Sự Thích Tôi!" />
+    <TextStringDefinition InstanceID="0xF0BE5387" TextString="Ai đó đã nói một số điều tuyệt vời về {0.SimFirstName}!" />
+    <TextStringDefinition InstanceID="0x5FD84C98" TextString="Không Rất Thú Vị" />
+    <TextStringDefinition InstanceID="0x7077254D" TextString="Mọi thứ về cuộc trao đổi đó là ảm đạm ít nhất là nói vậy..." />
+    <TextStringDefinition InstanceID="0xD9AB4D6B" TextString="Kết Bạn" />
+    <TextStringDefinition InstanceID="0xA0B01124" TextString="Với một chút giúp đỡ từ người khác, {0.SimFirstName} đã có thể tạo ra những kết nối mới." />
+    <TextStringDefinition InstanceID="0x00D8E37C" TextString="Thảm Họa Thân Thiện" />
+    <TextStringDefinition InstanceID="0x0FC37F79" TextString="Đôi khi mọi thứ tốt hơn nên để nguyên như chúng." />
+    <TextStringDefinition InstanceID="0xF24105FF" TextString="Hai Linh Hồn Tách Biệt" />
+    <TextStringDefinition InstanceID="0x9C96D5D0" TextString="Một số người đơn giản là không được sinh ra để ở bên nhau." />
+    <TextStringDefinition InstanceID="0x78381B8D" TextString="Bác Sĩ Tình Yêu" />

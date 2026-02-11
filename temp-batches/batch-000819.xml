@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xCBD6E9C0" TextString="Ghen tị với em bé" />
+    <TextStringDefinition InstanceID="0x25CD06C5" TextString="Một số người dường như không thể giữ kín... đặc biệt là về đứa con của họ!" />
+    <TextStringDefinition InstanceID="0x4F3ADAA1" TextString="Tỉnh giấc bất ngờ" />
+    <TextStringDefinition InstanceID="0xDBE3869E" TextString="Không có gì giống như bị đánh thức bởi một &lt;b&gt;tiếng khóc&lt;/b&gt; rất to của em bé. Ugh...mấy đứa trẻ." />
+    <TextStringDefinition InstanceID="0x02C654C9" TextString="Bực bội" />
+    <TextStringDefinition InstanceID="0xAE4E0216" TextString="Vui quá? Không có chuyện đó! {0.SimFirstName} có thể chơi mãi mãi!" />
+    <TextStringDefinition InstanceID="0x8E043691" TextString="Lắc lư" />
+    <TextStringDefinition InstanceID="0x499638EE" TextString="Những đồ chơi treo trên thảm chơi là trò vui cho {0.SimFirstName}!" />
+    <TextStringDefinition InstanceID="0x95394D9E" TextString="Ôi dễ thương quá!" />
+    <TextStringDefinition InstanceID="0x11442167" TextString="{0.SimFirstName} có thể vừa nhìn thấy em bé dễ thương nhất thế giới!" />
+    <TextStringDefinition InstanceID="0x0A0EF682" TextString="Tiếng cười của em bé" />
+    <TextStringDefinition InstanceID="0xBC1413D3" TextString="Trái tim {0.SimFirstName} tan chảy khi xem em bé dễ thương nhất chơi đùa. Ôi, dễ thương quá!" />
+    <TextStringDefinition InstanceID="0xCE7C673B" TextString="Đồ ăn. NGAY BÂY GIỜ!" />
+    <TextStringDefinition InstanceID="0x90BE1F54" TextString="{0.SimFirstName} đôi khi có thể hơi mãnh liệt. Đặc biệt khi {0.SimPronounSubjective} đói như vậy. {0.SimPronounSubjective|xxUpper} muốn ăn. NGAY BÂY GIỜ!" />
+    <TextStringDefinition InstanceID="0x29C7068B" TextString="Bẩn thỉu" />
+    <TextStringDefinition InstanceID="0xF364E7C4" TextString="{0.SimFirstName} rất hôi! Tắm cho {0.SimPronounObjective} để sạch bong!" />
+    <TextStringDefinition InstanceID="0xC7C10442" TextString="Hoảng loạn vì bẩn thỉu!" />
+    <TextStringDefinition InstanceID="0xBD0D2293" TextString="Nếu {0.SimFirstName} dường như hơi mãnh liệt hơn bình thường lúc này, có lẽ vì {0.SimPronounSubjective} quá hôi! Đã đến lúc tắm. NGAY BÂY GIỜ!" />
+    <TextStringDefinition InstanceID="0x5D9FDE27" TextString="Bẩn bựa" />
+    <TextStringDefinition InstanceID="0xF4087488" TextString="Em bé này bắt đầu có mùi hôi. Người chăm sóc của {0.SimFirstName} nên tắm cho {0.SimPronounObjective}." />
+    <TextStringDefinition InstanceID="0xDAA1EAD6" TextString="Ghê tởm bẩn bựa!" />
+    <TextStringDefinition InstanceID="0xFE3DC30F" TextString="{0.SimFirstName} bắt đầu có mùi hôi, và vì là một em bé mãnh liệt, {0.SimFirstName} không thích điều đó. Tốt nhất nên tắm cho {0.SimPronounSubjective} trước khi mọi chuyện tệ hơn!" />
+    <TextStringDefinition InstanceID="0x6D84DCA5" TextString="Được mang đi trong: {0.Timespan}" />
+    <TextStringDefinition InstanceID="0xF61437C9" TextString="Đồ ăn, Ngay bây giờ!" />
+    <TextStringDefinition InstanceID="0x983F9316" TextString="{0.SimFirstName} cực kỳ đói và cần ăn ngay!" />
+    <TextStringDefinition InstanceID="0xEDF0F619" TextString="Trở thành Đồ ăn, Ngay bây giờ! trong: {0.Timespan}" />
+    <TextStringDefinition InstanceID="0xB78A5BED" TextString="Giờ ăn?" />
+    <TextStringDefinition InstanceID="0x81242AD2" TextString="{0.SimFirstName} đói rồi! Cho {0.SimPronounObjective} ăn trước khi cơn đói tệ hơn!" />
+    <TextStringDefinition InstanceID="0xC3161D09" TextString="Khát vui" />
+    <TextStringDefinition InstanceID="0x19142656" TextString="{0.SimFirstName} đang rất cần một số hoạt động vui vẻ!" />
+    <TextStringDefinition InstanceID="0x69586059" TextString="Trở nên Khát vui trong: {0.Timespan}" />
+    <TextStringDefinition InstanceID="0x3BA4422D" TextString="Không vui " />
+    <TextStringDefinition InstanceID="0x4E5F5F12" TextString="Sẽ có ai chơi với {0.SimFirstName} không? {0.SimPronounSubjective} thực sự cần một chút vui!" />
+    <TextStringDefinition InstanceID="0x6E1CA43B" TextString="Muốn Ngủ Ngày!" />
+    <TextStringDefinition InstanceID="0xE9C5EE54" TextString="Ồ! Ngủ Ngày! Ngay bây giờ!" />
+    <TextStringDefinition InstanceID="0x6979E73B" TextString="Trở nên Muốn Ngủ Ngày! trong: {0.Timespan}" />
+    <TextStringDefinition InstanceID="0xC8E6E61F" TextString="Buồn ngủ " />
+    <TextStringDefinition InstanceID="0x326D9570" TextString="{0.SimFirstName} đang dễ cáu gắt và cần ngủ sớm!" />
+    <TextStringDefinition InstanceID="0x89F6F5A8" TextString="Đói giận!" />
+    <TextStringDefinition InstanceID="0x2583A53D" TextString="{0.SimFirstName} đói rồi! Cho {0.SimPronounObjective} ăn trước khi cơn đói tệ hơn!" />
+    <TextStringDefinition InstanceID="0xE6EC0F0F" TextString="Kẻ mở khóa tồi" />
+    <TextStringDefinition InstanceID="0xAADD6ECB" TextString="(Từ việc lấy một cuốn sách từ Thư viện Hàng xóm Nhỏ nhất)" />
+    <TextStringDefinition InstanceID="0x874B67B8" TextString="Sự phát hiện bất ngờ!" />
+    <TextStringDefinition InstanceID="0x5F257FED" TextString="{0.SimFirstName} không ngờ tìm thấy một cuốn sách yêu thích mới từ Thư viện Hàng xóm Nhỏ nhất! Nó lấp đầy {0.SimPronounObjective} với cảm giác ngạc nhiên!" />
+    <TextStringDefinition InstanceID="0xB1A1CE4A" TextString="Thành viên cộng đồng tham lam!" />
+    <TextStringDefinition InstanceID="0xC16A87CB" TextString="{0.SimFirstName} bị gọi ra vì lấy quá nhiều sách từ Thư viện Hàng xóm Nhỏ nhất và không trả lại. Phá vỡ quy tắc mang lại cho {0.SimPronounObjective} một cú hích tâm trạng không thể tin nổi." />
+    <TextStringDefinition InstanceID="0xF27E5C95" TextString="Trả lại Tri thức! " />
+    <TextStringDefinition InstanceID="0xA48C168A" TextString="{0.SimFirstName} vui mừng vì có thể đóng góp lại cho hàng xóm {0.SimPronounPossessiveDependent} và đưa ra một giải pháp nhỏ để giúp giảm lãng phí!" />
+    <TextStringDefinition InstanceID="0x8CF95FE8" TextString="(Từ việc vi phạm Bộ Quy tắc Danh dự của Thư viện Hàng xóm Nhỏ nhất)" />
+    <TextStringDefinition InstanceID="0x81F72AFB" TextString="&quot;Bị Gọi Ra&quot;" />

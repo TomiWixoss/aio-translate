@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xB55515C5" TextString="Trang Phục Đầy Đủ" />
+    <TextStringDefinition InstanceID="0x027655A7" TextString="Tính Cách" />
+    <TextStringDefinition InstanceID="0x96B51962" TextString="Bạn có chắc muốn rời chế độ này? Địa điểm của bạn vẫn chưa hoàn thành." />
+    <TextStringDefinition InstanceID="0x8B1083B9" TextString="Yêu Cầu Chưa Đủ" />
+    <TextStringDefinition InstanceID="0xD78B2620" TextString="Ẩn Tiến Độ" />
+    <TextStringDefinition InstanceID="0x82FB2CF5" TextString="Xóa đối tượng này để hoàn thành địa điểm." />
+    <TextStringDefinition InstanceID="0x4DFB79DC" TextString="Bị Cấm" />
+    <TextStringDefinition InstanceID="0xA17C969A" TextString="Không thể thay đổi loại lô khi vẫn còn người thuê đang sống trên lô. Vui lòng chuyển tất cả người thuê ra trước khi thay đổi loại lô." />
+    <TextStringDefinition InstanceID="0xE77D2411" TextString="Không có sẵn cho lô này." />
+    <TextStringDefinition InstanceID="0x91F9E92D" TextString="Không thể thay đổi loại địa điểm khi một Doanh Nghiệp Nhỏ đang mở cửa." />
+    <TextStringDefinition InstanceID="0xBAF9CE77" TextString="Lô sở hữu này không thể thay đổi. Vui lòng bán thuê nhà ở này qua bảng Doanh Nghiệp Sở Hữu trong Chế độ Sống. " />
+    <TextStringDefinition InstanceID="0xD1825BA5" TextString="Bị Tắt Cho Địa Điểm Đặc Biệt" />
+    <TextStringDefinition InstanceID="0x82B2D238" TextString="Thay Đổi Loại Lô?" />
+    <TextStringDefinition InstanceID="0x0C1276CB" TextString="{0.String} (Doanh Nghiệp Nhỏ)" />
+    <TextStringDefinition InstanceID="0xD97324D5" TextString="Căn Hộ" />
+    <TextStringDefinition InstanceID="0xB9C19B76" TextString="Cấu Hình Phòng Khám Thú Y" />
+    <TextStringDefinition InstanceID="0x276AC17D" TextString="Trang Phục Nhân Viên Phòng Khám Thú Y" />
+    <TextStringDefinition InstanceID="0x109B8CC4" TextString="Chọn hoặc Tùy chỉnh trang phục cho Nhân Viên Phòng Khám Thú Y mặc khi họ đang làm việc." />
+    <TextStringDefinition InstanceID="0x3A3B2172" TextString="Tính Năng Lô" />
+    <TextStringDefinition InstanceID="0x43EE4C62" TextString="Cấu Hình Ký Túc Xá Đại Học" />
+    <TextStringDefinition InstanceID="0xC37CB806" TextString="Liên kết lô ký túc xá đại học này với đại học đã chọn." />
+    <TextStringDefinition InstanceID="0xCAAB3987" TextString="Đại Học" />
+    <TextStringDefinition InstanceID="0xE2A5549E" TextString="Không Liên Kết" />
+    <TextStringDefinition InstanceID="0x9A10CFE3" TextString="Điều này sẽ hạn chế lô ký túc xá đại học chỉ cho phép giới tính đã chọn chuyển vào." />
+    <TextStringDefinition InstanceID="0x34608728" TextString="Hạn Chế Giới Tính" />
+    <TextStringDefinition InstanceID="0x7502E2B4" TextString="Điều này sẽ hạn chế lô ký túc xá đại học chỉ cho phép thành viên của tổ chức liên kết đã chọn chuyển vào làm bạn cùng phòng." />
+    <TextStringDefinition InstanceID="0x12141FC5" TextString="Tổ Chức Liên Kết" />
+    <TextStringDefinition InstanceID="0xB8B481B5" TextString="Quyền Lợi Lô" />
+    <TextStringDefinition InstanceID="0xD5035F47" TextString="Cấp Bậc" />
+    <TextStringDefinition InstanceID="0x2E0B6296" TextString="&lt;font color='#EC262E'&gt;Các khu vực này chỉ hoạt động khi một Doanh Nghiệp Nhỏ đang mở cửa trên lô.&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x7CF5E69D" TextString="Khách hàng và nhân viên không thể vào khu vực này." />
+    <TextStringDefinition InstanceID="0x76D33FFE" TextString="Khu Dân Cư" />
+    <TextStringDefinition InstanceID="0x4CA1B02A" TextString="Tất cả khách hàng và nhân viên có thể vào khu vực này tự do." />
+    <TextStringDefinition InstanceID="0xF1BEF27D" TextString="Công Cộng" />
+    <TextStringDefinition InstanceID="0xE4F3DDC0" TextString="Màu này đang được sử dụng cho khu vực khác." />
+    <TextStringDefinition InstanceID="0x582A7890" TextString="Phân Vùng Khu Vực Doanh Nghiệp Nhỏ" />
+    <TextStringDefinition InstanceID="0x24D94FB8" TextString="Khách hàng không thể vào khu vực này, nhưng nhân viên có thể." />
+    <TextStringDefinition InstanceID="0x091BE257" TextString="Chỉ Nhân Viên" />
+    <TextStringDefinition InstanceID="0x2858F432" TextString="Khu vực kinh doanh không được hỗ trợ trên loại lô mới. Thay đổi sang loại lô này sẽ xóa tất cả khu vực kinh doanh trước đó, không thể hoàn tác. Bạn có muốn thay đổi loại lô?" />
+    <TextStringDefinition InstanceID="0xA8604DC6" TextString="Áp Dụng Cho Tất Cả Khu Vực" />
+    <TextStringDefinition InstanceID="0x26F8F1D9" TextString="Phân Công hoặc Chỉnh Sửa Trang Phục Phục Vụ" />
+    <TextStringDefinition InstanceID="0xD05F5CFA" TextString="Nhân Viên Phục Vụ" />
+    <TextStringDefinition InstanceID="0xFD8B6F11" TextString="Nhấp để xem thực đơn." />
+    <TextStringDefinition InstanceID="0x1D6496EC" TextString="Cấu Hình Nhà Hàng" />
+    <TextStringDefinition InstanceID="0xADA30A2D" TextString="Bạn có chắc muốn xóa trang phục này? Thay đổi này không thể hoàn tác." />
+    <TextStringDefinition InstanceID="0x7623FA97" TextString="Sử dụng Mẫu Có Sẵn:" />
+    <TextStringDefinition InstanceID="0x985D07C3" TextString="Trang Phục Nhân Viên Nhà Hàng" />
+    <TextStringDefinition InstanceID="0x39D30612" TextString="Chọn hoặc Tùy chỉnh trang phục cho Nhân Viên Nhà Hàng mặc khi họ đang làm việc." />
+    <TextStringDefinition InstanceID="0xD4AF5DA3" TextString="Thực Đơn" />
+    <TextStringDefinition InstanceID="0xBC881572" TextString="Chọn thực đơn cho nhà hàng! Bạn có thể chọn từ mẫu có sẵn hoặc tạo thực đơn từ đầu." />

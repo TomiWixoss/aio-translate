@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x7AEE8C10" TextString="Một cuộc thảo luận thú vị về những chi tiết tinh tế của việc viết lách với một tác giả thành công thực sự khiến cảm hứng trào dâng!" />
+    <TextStringDefinition InstanceID="0x23EAC072" TextString="Không Thể Ngừng Khóc!" />
+    <TextStringDefinition InstanceID="0x4A74A7A3" TextString="&lt;i&gt;Làm ơn&lt;/i&gt; dừng khóc đi! Cần gì nữa?! Cuộc sống sẽ dễ dàng hơn rất nhiều nếu trẻ sơ sinh có thể nói. " />
+    <TextStringDefinition InstanceID="0x74A2CE7D" TextString="Không Vui. Không Vung Tay!" />
+    <TextStringDefinition InstanceID="0x3A3CC782" TextString="{0.SimFirstName} cảm thấy rất bực bội vì thiếu vui. {0.SimPronounSubjective|xxUpper} thậm chí còn không muốn vung tay nữa! &lt;b&gt;Tệ&lt;/b&gt; đến mức đó!" />
+    <TextStringDefinition InstanceID="0xD97A72FD" TextString="Trở Thành Không Vui. Không Vung Tay! trong: {0.Timespan}" />
+    <TextStringDefinition InstanceID="0xA0892221" TextString="Thời Gian Không Vui" />
+    <TextStringDefinition InstanceID="0x72D5A11E" TextString="{0.SimFirstName} thích vui vẻ! Đó là điều trẻ sơ sinh muốn. Nhưng mọi thứ lúc này không vui chút nào..." />
+    <TextStringDefinition InstanceID="0x6B94E653" TextString="Ugh, &lt;i&gt;Trẻ Sơ Sinh!&lt;/i&gt;" />
+    <TextStringDefinition InstanceID="0x4C203CFC" TextString="Những đứa trẻ quỷ quái nhỏ bé này từ đâu ra?! Thế giới vừa trở nên tàn nhẫn hơn rất nhiều đối với các Sim Ghét Trẻ Em. " />
+    <TextStringDefinition InstanceID="0x7A96E7DD" TextString="Thời Gian Để Vung Tay" />
+    <TextStringDefinition InstanceID="0xC7419F62" TextString="{0.SimFirstName} bị cơn vung tay-vung tay! Phải đi lại thôi. " />
+    <TextStringDefinition InstanceID="0x533989EC" TextString="Quá Kích Thích" />
+    <TextStringDefinition InstanceID="0x82C19D89" TextString="Quá nhiều thứ đang xảy ra! {0.SimFirstName} cảm thấy quá kích thích." />
+    <TextStringDefinition InstanceID="0xB06364BC" TextString="Nơi Lạ" />
+    <TextStringDefinition InstanceID="0x9311DBB9" TextString="{0.SimFirstName} đang ở một địa điểm xa lạ, điều này khiến {0.SimPronounObjective} bực bội! " />
+    <TextStringDefinition InstanceID="0xB115DD3A" TextString="An Toàn" />
+    <TextStringDefinition InstanceID="0xA1AA215B" TextString="{0.SimFirstName} cảm thấy rất an toàn sau khi dành thời gian với một Sim quen thuộc. " />
+    <TextStringDefinition InstanceID="0x1EC25F95" TextString="Cần Mặt Quen Thuộc" />
+    <TextStringDefinition InstanceID="0x7B4F078A" TextString="Trước đó {0.SimFirstName} đang tương tác với ai? Người Sim đó hoàn toàn không quen thuộc &lt;i&gt;chút nào&lt;/i&gt;!" />
+    <TextStringDefinition InstanceID="0xF147F16A" TextString="Không Gian Quen Thuộc" />
+    <TextStringDefinition InstanceID="0x4C386A6B" TextString="{0.SimFirstName} luôn cảm thấy rất thoải mái ở nhà. Đó là một không gian quen thuộc. " />
+    <TextStringDefinition InstanceID="0xCE4AFC29" TextString="Tin Tưởng Vũ Trụ" />
+    <TextStringDefinition InstanceID="0xFBCB84F6" TextString="Thế giới là một nơi tốt đẹp với những người tốt! {0.SimFirstName} rất vui khi gọi một số người trong số họ là gia đình.  " />
+    <TextStringDefinition InstanceID="0xA0A2B571" TextString="ĐỂ! TÔI! RA!" />
+    <TextStringDefinition InstanceID="0x46D4224E" TextString="{0.SimFirstName} muốn được ra ngoài ngay lập tức. Có những nơi để đi và việc để làm!" />
+    <TextStringDefinition InstanceID="0x3B8E3E39" TextString="Tã Bị Bẩn" />
+    <TextStringDefinition InstanceID="0x930F4C26" TextString="Một mùi hôi thối mạnh đang len lỏi từ ai đó gần {0.SimFirstName}... " />
+    <TextStringDefinition InstanceID="0x72ACF0BB" TextString="Những Chiếc Răng Nanh Đó Phải Không?!" />
+    <TextStringDefinition InstanceID="0xA53EEFD4" TextString="Đây là một phần tự nhiên của sự phát triển khi trẻ sơ sinh bắt đầu cắn. Nhưng liệu đó có phải là chiếc răng nanh mà {0.SimFirstName} cảm thấy không?! " />
+    <TextStringDefinition InstanceID="0x0D1C8981" TextString="Ái Chà!" />
+    <TextStringDefinition InstanceID="0xF38830FE" TextString="Đây là một phần tự nhiên của sự phát triển khi trẻ sơ sinh bắt đầu cắn. Nhưng ái chà, điều đó thực sự... thực sự đau!" />
+    <TextStringDefinition InstanceID="0x76DAFEFA" TextString="Lắc Để An Lành" />
+    <TextStringDefinition InstanceID="0x567BCA1B" TextString="Một cái lắc nhẹ nhàng thật sự có tác dụng an lành và nhắc nhở {0.SimFirstName} về những ngày tuyệt vời đã trôi qua trong bụng mẹ." />
+    <TextStringDefinition InstanceID="0x7B805BFC" TextString="Thời Gian Nghỉ Ngơi" />
+    <TextStringDefinition InstanceID="0x83C4A4F9" TextString="Trẻ sơ sinh cần những giấc ngủ trưa đều đặn. {0.SimFirstName} đã thức quá lâu và bắt đầu cáu gắt. Tốt hơn nên đặt {0.SimPronounObjective} lên giường!" />
+    <TextStringDefinition InstanceID="0x96B2F960" TextString="Hát Ru Ngủ" />
+    <TextStringDefinition InstanceID="0x216085E5" TextString="{0.SimFirstName} đã ngủ thiếp đi sau khi {M0.he}{F0.she} được ru ngủ." />
+    <TextStringDefinition InstanceID="0xA2A0CD18" TextString="Được Ru Đến Giấc Ngủ" />
+    <TextStringDefinition InstanceID="0xA3BB22CD" TextString="{0.SimFirstName} đã được ru đến giấc ngủ bởi một bản ru ngủ được phát từ Đồ Chơi Treo Trên Giường Của Bé." />
+    <TextStringDefinition InstanceID="0xF9161A04" TextString="Đi Về Vùng Đất Mơ" />
+    <TextStringDefinition InstanceID="0x7DE1AEB6" TextString="{0.SimFirstName} chìm vào giấc ngủ nhờ một câu chuyện tối được kể hay, ru ngủ {0.SimPronounObjective} đi." />
+    <TextStringDefinition InstanceID="0x79DB685A" TextString="Tỉnh Dậy Và Buồn Bã" />
+    <TextStringDefinition InstanceID="0xEE0882FB" TextString="{0.SimFirstName} đã tỉnh dậy và đang có tâm trạng buồn bã." />
+    <TextStringDefinition InstanceID="0x8F8C1C28" TextString="Tỉnh Dậy Và Vui Vẻ" />
+    <TextStringDefinition InstanceID="0x011664BD" TextString="{0.SimFirstName} đã tỉnh dậy và đang có tâm trạng vui vẻ!" />
+    <TextStringDefinition InstanceID="0x13F3E243" TextString="Tỉnh Dậy Và Giận Dữ" />
+    <TextStringDefinition InstanceID="0x83F15B8C" TextString="{0.SimFirstName} đã tỉnh dậy và đang có tâm trạng giận dữ." />
+    <TextStringDefinition InstanceID="0x580362F7" TextString="Phụ Huynh Tự Hào" />
+    <TextStringDefinition InstanceID="0xCB257BF8" TextString="Không có gì trong cuộc sống tuyệt hơn là trở thành một phụ huynh tự hào! " />

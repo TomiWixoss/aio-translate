@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xC4FC75E1" TextString="Bậc thầy chiến lược" />
+    <TextStringDefinition InstanceID="0x2A91FC2B" TextString="Kẻ hành hạ" />
+    <TextStringDefinition InstanceID="0x13B990E6" TextString="Phần thưởng cấp Bạc bao gồm một vật trang trí mới." />
+    <TextStringDefinition InstanceID="0x4C1430AA" TextString="Sim của bạn đã được thưởng một chiếc bình mới. Nó sẽ được để sẵn trong Kho đồ của hộ gia đình." />
+    <TextStringDefinition InstanceID="0x2AC0253E" TextString="Ngày hẹn hò tuyệt vời! Có một vài bó hoa trong kho đồ của hộ gia đình để Sim nhớ mãi." />
+    <TextStringDefinition InstanceID="0x0FE7808B" TextString="Phần thưởng cấp Vàng bao gồm một vật phẩm mới." />
+    <TextStringDefinition InstanceID="0x0144A231" TextString="Sim của bạn đã được thưởng một vật trang trí mới! Nó sẽ được để sẵn trong Kho đồ của hộ gia đình." />
+    <TextStringDefinition InstanceID="0x3F50D8CF" TextString="Ngày hẹn hò huyền thoại! Có một thứ đặc biệt trong kho đồ của hộ gia đình để giúp Sim nhớ mãi." />
+    <TextStringDefinition InstanceID="0x04112DAD" TextString="Phần thưởng cấp Đồng bao gồm một cuốn sách mới." />
+    <TextStringDefinition InstanceID="0x49FE7273" TextString="Sim của bạn nhận được một cuốn sách Sự quyến rũ cho người mới bắt đầu. Hãy kiểm tra kho đồ của Sim để xem phần thưởng." />
+    <TextStringDefinition InstanceID="0x97CBD225" TextString="Đó là một cuộc hẹn hò... nếu không phải là cuộc hẹn hò thành công nhất từ trước đến nay. Hãy kiểm tra Kho đồ của hộ gia đình của Sim để nhận một phần thưởng an ủi: một cuốn sách." />
+    <TextStringDefinition InstanceID="0x7B52964C" TextString="Thơ mộng" />
+    <TextStringDefinition InstanceID="0xAB9B3D56" TextString="Người thổi sáo" />
+    <TextStringDefinition InstanceID="0x9B66CD44" TextString="Phần thưởng cấp Bạc bao gồm một vật trang trí mới." />
+    <TextStringDefinition InstanceID="0x63C7C408" TextString="Tiệc hóa trang vui vẻ! Các Sim của bạn đã được thưởng một món đồ chơi mới thú vị trong Kho đồ của hộ gia đình." />
+    <TextStringDefinition InstanceID="0x73280895" TextString="Phần thưởng cấp Vàng bao gồm một vật phẩm ngoài trời mới." />
+    <TextStringDefinition InstanceID="0x11FFDBBD" TextString="Thật là một bữa tiệc hóa trang! Hãy tận hưởng phần thưởng là một cấu trúc chơi khổng lồ. Nó nằm trong Kho đồ của hộ gia đình của Sim." />
+    <TextStringDefinition InstanceID="0x69F3DAA3" TextString="Phần thưởng cấp Đồng bao gồm một cuốn sách mới." />
+    <TextStringDefinition InstanceID="0xC26CAA49" TextString="Ừ, mọi người đều mặc đồ hóa trang. À, và có người đã tặng Sim của bạn một cuốn sách. Nó nằm trong Kho đồ của hộ gia đình của Sim." />
+    <TextStringDefinition InstanceID="0xEA1DAC28" TextString="Các Sim của bạn đã được thưởng một Chiếc Bàn Dù mới. Nó sẽ được để sẵn trong Kho đồ của hộ gia đình." />
+    <TextStringDefinition InstanceID="0x757D3040" TextString="Phần thưởng cấp Bạc bao gồm một vật phẩm ngoài trời." />
+    <TextStringDefinition InstanceID="0x82CCC494" TextString="Nướng thịt tuyệt vời! Có một chiếc bàn dù cho Kho đồ của hộ gia đình." />
+    <TextStringDefinition InstanceID="0xC768A3DE" TextString="Các Sim của bạn đã được thưởng một bếp nướng gas hiện đại nhất. Nó có thể được tìm thấy trong Kho đồ của hộ gia đình." />
+    <TextStringDefinition InstanceID="0xC81A5DC9" TextString="Phần thưởng cấp Vàng bao gồm một bếp nướng mới." />
+    <TextStringDefinition InstanceID="0xD365CB15" TextString="Nướng thịt tuyệt vời! Khách mời của Sim đã để lại một bếp nướng gas hiện đại nhất trong Kho đồ của hộ gia đình." />
+    <TextStringDefinition InstanceID="0x583EB056" TextString="Không còn là một nút lặp lại nhàm chán, loại thuốc này sẽ khiến Sim của bạn có một sai lầm nhỏ trong phán đoán và khiến họ suy ngẫm lại những Điều ước trong cuộc đời." />
+    <TextStringDefinition InstanceID="0x8F61F2A5" TextString="Lấp đầy ngay lập tức Nhu cầu Năng lượng!" />
+    <TextStringDefinition InstanceID="0x4FFE019F" TextString="Uống thứ này để quay ngược thời gian cho độ tuổi hiện tại của Sim." />
+    <TextStringDefinition InstanceID="0x44C9C611" TextString="Loại bỏ ngay lập tức tất cả các Tâm trạng tiêu cực khỏi Sim." />
+    <TextStringDefinition InstanceID="0xDB9D4386" TextString="Lấp đầy ngay lập tức Nhu cầu Vệ sinh!" />
+    <TextStringDefinition InstanceID="0xBBBD4568" TextString="Lấp đầy ngay lập tức Nhu cầu Giải trí!" />
+    <TextStringDefinition InstanceID="0xFB2647A9" TextString="Thức uống ăn kiêng hiệu quả nhất trên thị trường." />
+    <TextStringDefinition InstanceID="0x31862A69" TextString="{M1.Con trai riêng}{F1.Con gái riêng}" />
+    <TextStringDefinition InstanceID="0xB104690A" TextString="{M1.Bố vợ/Mẹ chồng}{F1.Mẹ vợ/Bố chồng}" />
+    <TextStringDefinition InstanceID="0x75E91476" TextString="{M1.Anh/Chị cùng cha khác mẹ}{F1.Chị/Anh cùng cha khác mẹ}" />
+    <TextStringDefinition InstanceID="0x88E00150" TextString="{M1.Cụ nội/Cụ ngoại}{F1.Bà nội/Bà ngoại}" />
+    <TextStringDefinition InstanceID="0x2DBE6A66" TextString="{M1.Cháu trai/Cháu gái cấp cháu chắt}{F1.Cháu gái/Cháu trai cấp cháu chắt}" />
+    <TextStringDefinition InstanceID="0x520DC22C" TextString="{M1.Chú/Bác trai}{F1.Cô/Dì}" />
+    <TextStringDefinition InstanceID="0xEDEB2736" TextString="{M1.Cháu trai/Cháu gái cấp cháu chắt}{F1.Cháu gái/Cháu trai cấp cháu chắt}" />
+    <TextStringDefinition InstanceID="0xCB6DFC11" TextString="Anh chị em họ của cha mẹ" />
+    <TextStringDefinition InstanceID="0x7A533FE6" TextString="Họ hàng xa" />
+    <TextStringDefinition InstanceID="0xD9E48FAE" TextString="Hậu duệ" />
+    <TextStringDefinition InstanceID="0xDAC46A8A" TextString="{M1.Con rể}{F1.Con dâu}" />
+    <TextStringDefinition InstanceID="0xD42EFCC6" TextString="{M1.Anh rể/Chú rể}{F1.Chị dâu/Cô dâu}" />
+    <TextStringDefinition InstanceID="0xB007C56C" TextString="Tổ tiên" />
+    <TextStringDefinition InstanceID="0xDD3B351C" TextString="{M1.Anh/Chị cùng cha khác mẹ}{F1.Chị/Anh cùng cha khác mẹ}" />
+    <TextStringDefinition InstanceID="0x0C1A454C" TextString="{M1.Con trai}{F1.Con gái}" />
+    <TextStringDefinition InstanceID="0x3EA3C4B1" TextString="{M1.Cháu trai}{F1.Cháu gái}" />
+    <TextStringDefinition InstanceID="0xEE89F6E4" TextString="{M1.Cháu trai}{F1.Cháu gái}" />
+    <TextStringDefinition InstanceID="0x35BFF20C" TextString="{M1.Ông nội/Bà ngoại}{F1.Bà nội/Ông ngoại}" />

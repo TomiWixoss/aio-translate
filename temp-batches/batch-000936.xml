@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x838C5C8C" TextString="Người lớn có thể thay tã bẩn, dọn dẹp cho trẻ sơ sinh, hoặc tắm cho bé." />
+    <TextStringDefinition InstanceID="0xF78F9BCD" TextString="Người lớn có thể thay tã bẩn, hoặc tắm cho trẻ nhỏ." />
+    <TextStringDefinition InstanceID="0xA8201219" TextString="(Từ Tình trạng Thiếu nước)" />
+    <TextStringDefinition InstanceID="0x674314B1" TextString="Độ ẩm" />
+    <TextStringDefinition InstanceID="0x558E377A" TextString="Sự Duy trì Siêu nhiên" />
+    <TextStringDefinition InstanceID="0x6116E753" TextString="Ma cần ăn năng lượng siêu nhiên từ thức ăn để duy trì sự tồn tại. Hãy ăn một bữa, gọi pizza, hoặc nướng thứ gì đó ngon!" />
+    <TextStringDefinition InstanceID="0xD4ED66E1" TextString="Động cơ Sự Duy trì Siêu nhiên bị khóa vì Ma đạt được Thành thạo &lt;b&gt;Vượt qua Nhu cầu Cư trú&lt;/b&gt;." />
+    <TextStringDefinition InstanceID="0x20474FE5" TextString="Trẻ sơ sinh có thể được cho bú bằng bình hoặc ngực mẹ, nhưng chúng cũng có thể thử các món ăn mới trong ghế ăn dặm!" />
+    <TextStringDefinition InstanceID="0xECA546B4" TextString="Trẻ nhỏ có thể ăn trên sàn, nhưng chúng thích ngồi trong ghế ăn dặm để có một bữa ăn đúng cách hơn." />
+    <TextStringDefinition InstanceID="0x4F55D67B" TextString="Người Cây lấy dinh dưỡng bằng cách ra ngoài ánh nắng! Hãy đảm bảo chúng có đủ nước để quang hợp!" />
+    <TextStringDefinition InstanceID="0xB035C60D" TextString="Sự Giải trí Rùng rợn" />
+    <TextStringDefinition InstanceID="0xA2B83CF6" TextString="Ma cần thư giãn bằng những trò giải trí vui vẻ để giữ tinh thần ma quái ở mức cao. Tìm một tivi, chơi cờ vua, hoặc tất nhiên, bật nhạc lên để nhảy!" />
+    <TextStringDefinition InstanceID="0x25B3D740" TextString="Động cơ &lt;b&gt;Vui vẻ&lt;/b&gt; bị khóa khi Trẻ sơ sinh không thể tự di chuyển. Hoàn thành &lt;b&gt;Cột mốc Ngồi dậy&lt;/b&gt; sẽ cho phép Trẻ sơ sinh bò!" />
+    <TextStringDefinition InstanceID="0x6CD436CC" TextString="Tiên tỏa sáng khi đón nhận một chút vui vẻ trong cuộc sống! Xem TV, vui chơi trong bồn rửa, hoặc tổ chức tiệc như một ngôi sao nhạc rock trong Ngôi nhà Tiên!" />
+    <TextStringDefinition InstanceID="0x11737240" TextString="Mọi người cần một chút vui vẻ trong cuộc sống, đặc biệt là trẻ sơ sinh. Nghe một câu chuyện, chơi với đồ chơi, hoặc tham gia một trò chơi Nhé!" />
+    <TextStringDefinition InstanceID="0x8B2B84D7" TextString="Mọi người cần một chút vui vẻ trong cuộc sống, ngay cả với Servo. Tìm một tivi, chơi cờ vua, hoặc tất nhiên, chơi một trò chơi điện tử!" />
+    <TextStringDefinition InstanceID="0x2BBDB9DE" TextString="Mọi người cần một chút vui vẻ trong cuộc sống, đặc biệt là trẻ nhỏ. Chơi với đồ chơi, xem sách, hoặc chơi một trò chơi trên máy tính bảng." />
+    <TextStringDefinition InstanceID="0x12E71F00" TextString="Giấc ngủ Siêu nhiên" />
+    <TextStringDefinition InstanceID="0x6B0072D1" TextString="Ma cần ngủ để sạc lại năng lượng siêu nhiên để tỉnh táo và hoạt động! " />
+    <TextStringDefinition InstanceID="0x403333C5" TextString="Mặc dù phép thuật và quyền năng, ngay cả Tiên cũng cần nghỉ ngơi để giữ sức sống! Sử dụng Giường, hoặc thu nhỏ để ngủ trong Nhà Búp bê, Đàn piano, hoặc Ngôi nhà Tiên." />
+    <TextStringDefinition InstanceID="0xA98593D8" TextString="Trẻ nhỏ thích ngủ hoặc chập chờn trong một chiếc giường trẻ nhỏ." />
+    <TextStringDefinition InstanceID="0xBAF7E6C9" TextString="Trẻ sơ sinh cần ngủ nhiều hơn hầu hết các Sim. Chúng có thể ngủ trên sàn, nhưng thích sự thoải mái của một nôi hơn!" />
+    <TextStringDefinition InstanceID="0x14B33583" TextString="Lãng phí Nhầy" />
+    <TextStringDefinition InstanceID="0xCC20EB5C" TextString="Ma cần thải bỏ Lãng phí Nhầy. Gửi {0.SimFirstName} đi vệ sinh để ngăn ngừa sự rò rỉ ectoplasm đầy nhục nhã! " />
+    <TextStringDefinition InstanceID="0xE3F57166" TextString="Động cơ Lãng phí Nhầy bị khóa vì Ma đạt được Thành thạo &lt;b&gt;Vượt qua Nhu cầu Cư trú&lt;/b&gt;." />
+    <TextStringDefinition InstanceID="0x736DD9AD" TextString="Cần đi tiểu? Hãy dùng tã để giải quyết nhanh. Cẩn thận - một chiếc tã đầy có thể dẫn đến một mớ bừa bãi lớn!" />
+    <TextStringDefinition InstanceID="0xEC683114" TextString="Cần đi tiểu? Hãy dùng tã để giải quyết nhanh, hoặc rèn luyện vệ sinh trên ghế xí." />
+    <TextStringDefinition InstanceID="0xD25A310F" TextString="(Từ Bàng quang Yếu)" />
+    <TextStringDefinition InstanceID="0xCB372B4E" TextString="Sự chú ý" />
+    <TextStringDefinition InstanceID="0x5A8677B8" TextString="Đi đến Lối sống" />
+    <TextStringDefinition InstanceID="0x5DD3FE62" TextString="Lối sống Đã được Nhận!" />
+    <TextStringDefinition InstanceID="0xF7E9173D" TextString="Lối sống Đã Mất!" />
+    <TextStringDefinition InstanceID="0x40088638" TextString="Lối sống Đang Bị Đe dọa!" />
+    <TextStringDefinition InstanceID="0x9081A8D0" TextString="(Từ Chơi Trò chơi Điện tử)" />
+    <TextStringDefinition InstanceID="0x8EE4B900" TextString="(Từ Ăn Quá Nhiều Bữa Ăn Nhanh hoặc Tráng miệng)" />
+    <TextStringDefinition InstanceID="0x9F997A0C" TextString="(Từ Tính cách Tò mò)" />
+    <TextStringDefinition InstanceID="0x3CF3BB59" TextString="(Từ Tính cách Độc lập)" />
+    <TextStringDefinition InstanceID="0x4294A96A" TextString="(Từ Tính cách Bám víu)" />
+    <TextStringDefinition InstanceID="0x2E852ECE" TextString="(Từ Đặc điểm Tính cách Kén chọn)" />
+    <TextStringDefinition InstanceID="0x252762A6" TextString="Khi âm nhạc chưa được bật lên, {0.SimFirstName} đang rất cần một giai điệu." />
+    <TextStringDefinition InstanceID="0x1CBCC18D" TextString="(Từ Đặc điểm Tính cách Người yêu nhạc)" />
+    <TextStringDefinition InstanceID="0x41E4ECC9" TextString="(Từ Người yêu nhạc Lắng nghe Sâu sắc)" />
+    <TextStringDefinition InstanceID="0x8105EA70" TextString="(Từ Đặc điểm Tính cách Thực dụng)" />
+    <TextStringDefinition InstanceID="0x32DFA906" TextString="(Từ Đặc điểm Tính cách Yêu thiên nhiên)" />
+    <TextStringDefinition InstanceID="0x47C80B95" TextString="Liên kết với Lewis?" />
+    <TextStringDefinition InstanceID="0x645EEA58" TextString="Tạm biệt, Lewis!" />
+    <TextStringDefinition InstanceID="0x3FA781BC" TextString="Giải quyết với Lewis" />
+    <TextStringDefinition InstanceID="0x37DFCCEF" TextString="Thiết lập để Sim của bạn Thành công" />
+    <TextStringDefinition InstanceID="0x56742FBE" TextString="Khởi động Sự nghiệp của Sim" />
+    <TextStringDefinition InstanceID="0xCAE17CB4" TextString="Để đặt laptop của Nova trong nhà, hãy nhấp vào kho đồ của Sim cô ấy. Tìm laptop và chọn Đặt vào Thế giới. Ngoài ra, bạn có thể kéo và thả nó vào bất kỳ bàn làm việc, bàn ăn hoặc quầy đảo nào." />

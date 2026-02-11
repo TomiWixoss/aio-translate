@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x8D713D74" TextString="\n{0.SimPronounSubjective|xxUpper} cũng có thể Huấn luyện người khác về Thể dục." />
+    <TextStringDefinition InstanceID="0x7E37EB00" TextString="Nhờ rất nhiều công sức và mồ hôi, {0.SimFirstName} đã làm chủ nghệ thuật Thể dục. Sức mạnh và sức bền của {0.SimPronounPossessiveDependent|xxUpper} thật đáng kinh ngạc! Ai ngờ cơ thể Sim lại có thể làm được &lt;i&gt;điều đó&lt;/i&gt;?" />
+    <TextStringDefinition InstanceID="0xD4B76EF4" TextString="Đạt được Cấp độ Thể dục 4" />
+    <TextStringDefinition InstanceID="0x81FE6AFA" TextString="{0.SimFirstName} giờ có thể thực hiện Box trên Tú đấm. {M0.He}{F0.She} cũng có thể làm Heavy Lifting trên Máy tập." />
+    <TextStringDefinition InstanceID="0x82CB7652" TextString="Đạt được Cấp độ Thể dục 7" />
+    <TextStringDefinition InstanceID="0xEA459DD4" TextString="{0.SimFirstName} giờ có thể thực hiện Hill Challenge trên Máy chạy bộ." />
+    <TextStringDefinition InstanceID="0x2A0475AC" TextString="Đạt được Cấp độ Thể dục 3" />
+    <TextStringDefinition InstanceID="0x8A4901D2" TextString="{0.SimFirstName} giờ có thể Endurance Run trên Máy chạy bộ. {M0.He}{F0.She} cũng có thể nghiên cứu Mẹo Tập luyện trên Máy tính." />
+    <TextStringDefinition InstanceID="0x695FEB29" TextString="Đạt được Cấp độ Thể dục 9" />
+    <TextStringDefinition InstanceID="0x6434C47B" TextString="{0.SimFirstName} giờ có thể Luyện tập Đánh đấm với các Sim khác; chỉ để vui." />
+    <TextStringDefinition InstanceID="0x9733B922" TextString="Đã có được kỹ năng Thể dục" />
+    <TextStringDefinition InstanceID="0x37686B64" TextString="Kỹ năng Thể dục mới của {0.SimFirstName} sẽ cho phép {0.SimPronounObjective} thực hiện các bài tập khác nhau trên Thiết bị Tập luyện. Khi cấp độ kỹ năng tăng lên, các bài tập nâng cao hơn sẽ trở nên có sẵn." />
+    <TextStringDefinition InstanceID="0xAFCE361C" TextString="Đạt được Cấp độ Thể dục 6" />
+    <TextStringDefinition InstanceID="0x7A85EF02" TextString="{0.SimFirstName} giờ có thể Khoe cơ bắp với các Sim khác." />
+    <TextStringDefinition InstanceID="0x2A880714" TextString="Đạt được Cấp độ Thể dục 5" />
+    <TextStringDefinition InstanceID="0x895EFA1A" TextString="{0.SimFirstName} giờ có thể pha Protein Shakes tại Quầy bar. {M0.He}{F0.She} cũng có thể thực hiện No Sweat Run trên Máy chạy bộ." />
+    <TextStringDefinition InstanceID="0xCFBB794E" TextString="Đạt được Cấp độ Thể dục 8" />
+    <TextStringDefinition InstanceID="0x127F2600" TextString="{0.SimFirstName} giờ có thể thực hiện Epic Workout trên Máy tạ." />
+    <TextStringDefinition InstanceID="0x8E06AA1F" TextString="Cảm xúc say nắng" />
+    <TextStringDefinition InstanceID="0xAE2A1C02" TextString="Cảm xúc thân thiết" />
+    <TextStringDefinition InstanceID="0x2C10D78A" TextString="Cảm xúc ngưỡng mộ" />
+    <TextStringDefinition InstanceID="0x4D03BD7C" TextString="Cảm xúc say nắng" />
+    <TextStringDefinition InstanceID="0xC560025B" TextString="Cảm xúc thân thiết" />
+    <TextStringDefinition InstanceID="0x70FE265B" TextString="Cảm xúc ngưỡng mộ" />
+    <TextStringDefinition InstanceID="0x3D981FAA" TextString="Cảm xúc truyền cảm hứng" />
+    <TextStringDefinition InstanceID="0xC50C1A45" TextString="Cảm xúc bị tổn thương" />
+    <TextStringDefinition InstanceID="0x8489CCF0" TextString="Cảm xúc bị tổn thương" />
+    <TextStringDefinition InstanceID="0x4F9DDCB2" TextString="Cảm xúc có tội" />
+    <TextStringDefinition InstanceID="0x8801C557" TextString="Cảm xúc điên giận" />
+    <TextStringDefinition InstanceID="0x80F72EA2" TextString="Cảm xúc đắng cay" />
+    <TextStringDefinition InstanceID="0x3D50EF4B" TextString="Cảm xúc đắng cay" />
+    <TextStringDefinition InstanceID="0x485494F7" TextString="Bộ đếm Mệt mỏi Mạng xã hội [Chưa dùng]" />
+    <TextStringDefinition InstanceID="0x7E25480C" TextString="(Từ Sự chú ý thấp)" />
+    <TextStringDefinition InstanceID="0x1E93DEB9" TextString="Trẻ nhỏ cần nhiều sự chú ý hơn các Sim lớn và cần được liên tục giám sát và tương tác để hạnh phúc." />
+    <TextStringDefinition InstanceID="0xFE6E2194" TextString="Em bé cần nhiều sự chú ý hơn các Sim lớn và cần được liên tục giám sát và tương tác để hạnh phúc." />
+    <TextStringDefinition InstanceID="0x25B6EEF2" TextString="(Từ Sự chú ý thấp)" />
+    <TextStringDefinition InstanceID="0xD9199FF2" TextString="Sự kết nối hư ảo" />
+    <TextStringDefinition InstanceID="0x6E5D8DDB" TextString="Ma cần kết nối với các Ma khác hoặc giao tiếp với người sống để duy trì kết nối với thế giới. Mời một người bạn đến, trò chuyện với ai đó qua máy tính hoặc điện thoại, hoặc đơn giản là chào một người hàng xóm đi ngang qua trên phố." />
+    <TextStringDefinition InstanceID="0x78FFA719" TextString="Tiên nữ phát triển mạnh mẽ với những cuộc trò chuyện sôi nổi như sinh vật xã hội! Trò chuyện với một người hàng xóm, mời những người bạn Tiên nữ đến để Tổ chức Tiệc nhảy trong Nhà của Tiên nữ, hoặc sử dụng Điện thoại hoặc Máy tính." />
+    <TextStringDefinition InstanceID="0x65767F58" TextString="Servos cần tương tác với người khác để duy trì mạch xã hội của chúng. Mời một người bạn đến, trò chuyện với ai đó qua máy tính hoặc điện thoại, hoặc đơn giản là chào một người hàng xóm đi ngang qua trên phố." />
+    <TextStringDefinition InstanceID="0x6FBF1EE6" TextString="Nước" />
+    <TextStringDefinition InstanceID="0xC0EF41F2" TextString="Hãy đảm bảo cung cấp nước cho PlantSims của bạn bằng cách bơi lội, tắm, hoặc đơn giản là uống một ly nước! Khi đã được cung cấp đủ nước, hãy ra ngoài để tắm nắng và bổ sung năng lượng." />
+    <TextStringDefinition InstanceID="0x6B3546E5" TextString="(Từ Nước thấp)" />
+    <TextStringDefinition InstanceID="0x45E01040" TextString="Ma Người cá không thể khô lâu! Đi bơi, tắm, hoặc thậm chí một ly nước ngon sẽ làm tăng Độ ẩm Ảo ảnh." />
+    <TextStringDefinition InstanceID="0x15715AE1" TextString="Độ ẩm Ảo ảnh" />
+    <TextStringDefinition InstanceID="0xB1F65D86" TextString="Người cá không thể khô lâu! Đi bơi, tắm, hoặc thậm chí một ly nước ngon sẽ làm tăng độ ẩm." />
+    <TextStringDefinition InstanceID="0x5B085822" TextString="Sự thanh tẩy Ảo ảnh" />
+    <TextStringDefinition InstanceID="0x6FDC662B" TextString="Ma Sim cần sử dụng vòi sen hoặc bồn tắm để Thanh tẩy Ảo ảnh. Nghi lễ này thanh lọc hình dạng của họ bằng cách làm mới sự hiện diện ma quái!" />
+    <TextStringDefinition InstanceID="0xA16CAF69" TextString="Động lực Thanh tẩy Ảo ảnh bị khóa vì Sự thành thạo Ma &lt;b&gt;Vượt qua Nhu cầu Sống&lt;/b&gt;." />
+    <TextStringDefinition InstanceID="0x2A886C5D" TextString="Một cái rửa nhanh giúp Tiên nữ giữ được sự tươi mới và sẵn sàng cho mọi cuộc phiêu lưu. Sử dụng Vòi sen, Thanh tẩy trong Thiên nhiên trên những cây bụi đã mọc đầy đủ, hoặc sử dụng Nhà của Tiên nữ!" />

@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x3596D454" TextString="Sim chỉ có thể câu cá ở đây khi hồ đã được thả cá. Đặt biển báo 'Cho phép Câu Cá' từ Chế độ Xây dựng trong nước và sau đó sử dụng nó để thêm cá." />
+    <TextStringDefinition InstanceID="0x7EC09159" TextString="Động tác Suy tư" />
+    <TextStringDefinition InstanceID="0x9192BD68" TextString="Xem {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x15758297" TextString="Chơi với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x047826DF" TextString="Chơi với Đồ chơi" />
+    <TextStringDefinition InstanceID="0xF5750B37" TextString="Nhìn Đồ chơi" />
+    <TextStringDefinition InstanceID="0xB3F40CC1" TextString="Trượt" />
+    <TextStringDefinition InstanceID="0x041AC6D6" TextString="Không thể làm điều này khi đang mang đồ. " />
+    <TextStringDefinition InstanceID="0xAFC76F05" TextString="(Từ việc Trượt xuống Cầu trượt)" />
+    <TextStringDefinition InstanceID="0x6FEAADED" TextString="(Từ việc Trượt với Sim Macabre)" />
+    <TextStringDefinition InstanceID="0xA9CEF4B5" TextString="(Từ việc Trượt với Sim Trẻ con)" />
+    <TextStringDefinition InstanceID="0xA625AFFE" TextString="Đừng làm vậy." />
+    <TextStringDefinition InstanceID="0x8609D4BE" TextString="Trượt xuống Cầu trượt Nóng cháy" />
+    <TextStringDefinition InstanceID="0x5F2F4872" TextString="(Từ việc Xem Trẻ em Trượt)" />
+    <TextStringDefinition InstanceID="0xFBC0B8BF" TextString="Chơi trong" />
+    <TextStringDefinition InstanceID="0xB21A72ED" TextString="Biến thành PlantSim" />
+    <TextStringDefinition InstanceID="0x21279435" TextString="Hấp thụ Năng lượng Mặt trời từ Cây" />
+    <TextStringDefinition InstanceID="0x83FE31E7" TextString="Lập kế hoạch Trang phục" />
+    <TextStringDefinition InstanceID="0x46FE7AFE" TextString="Lập kế hoạch Trang phục" />
+    <TextStringDefinition InstanceID="0x8B14A9D2" TextString="Xây dựng Bảng phong cách trước, bằng cách thu thập Ấn tượng để thêm vào đối tượng." />
+    <TextStringDefinition InstanceID="0x70A5A220" TextString="Nhặt lên" />
+    <TextStringDefinition InstanceID="0x05D07986" TextString="Đặt hàng Giao hàng" />
+    <TextStringDefinition InstanceID="0x65A258C2" TextString="Thuê Dịch vụ" />
+    <TextStringDefinition InstanceID="0x7F13707D" TextString="{2.String}" />
+    <TextStringDefinition InstanceID="0xDE10FE03" TextString="Vai Kéo cho Trẻ sơ sinh Ưa thích " />
+    <TextStringDefinition InstanceID="0x5CE20F26" TextString="Lối chơi Chung" />
+    <TextStringDefinition InstanceID="0x98CAB8F4" TextString="Thành viên Bầy" />
+    <TextStringDefinition InstanceID="0xCCC55E31" TextString="Kiểu đi" />
+    <TextStringDefinition InstanceID="0x57524A0F" TextString="Bạn Bầy" />
+    <TextStringDefinition InstanceID="0x8B3CEEB7" TextString="Sở thích Đối tượng Lối chơi" />
+    <TextStringDefinition InstanceID="0x5F465966" TextString="Tùy chọn Giới tính" />
+    <TextStringDefinition InstanceID="0x2037DD82" TextString="Kiểu đuôi" />
+    <TextStringDefinition InstanceID="0x090465DA" TextString="Đặt Vai Kéo Ưa thích" />
+    <TextStringDefinition InstanceID="0xBC65C423" TextString="Xóa Mối quan hệ" />
+    <TextStringDefinition InstanceID="0x82F891A2" TextString="Thêm Mối quan hệ" />
+    <TextStringDefinition InstanceID="0xDFC9F92F" TextString="Thả Cá vào Hồ" />
+    <TextStringDefinition InstanceID="0xA5EB4DA9" TextString="Sim chỉ có thể thả cá vào hồ với những con cá họ đã khám phá trong Bộ sưu tập Gia đình. {0.SimFirstName} không có cá nào trong bộ sưu tập của {M0.his}{F0.her}! Hãy thử lại sau khi {0.SimFirstName} tìm thấy một số cá." />
+    <TextStringDefinition InstanceID="0x0DE0A084" TextString="Debug: Quản lý Cá" />
+    <TextStringDefinition InstanceID="0x7627D5DF" TextString="Chọn những con cá bạn muốn thả vào hồ này. Khám phá thêm cá trong Bộ sưu tập Gia đình để có thêm tùy chọn!" />
+    <TextStringDefinition InstanceID="0x35D1AFC5" TextString="Quản lý Cá trong Hồ" />
+    <TextStringDefinition InstanceID="0x3BF65A7C" TextString="Mua một Cây trong nhà Sống" />
+    <TextStringDefinition InstanceID="0x82F35344" TextString="Lá" />
+    <TextStringDefinition InstanceID="0x187FC6CE" TextString="Khỏe mạnh" />
+    <TextStringDefinition InstanceID="0xCC93500A" TextString="Nhiệt đới" />
+    <TextStringDefinition InstanceID="0x96399F4F" TextString="Dây leo" />
+    <TextStringDefinition InstanceID="0xD55A24E7" TextString="Yêu cầu Đồ chơi từ Hộp đồ chơi" />
+    <TextStringDefinition InstanceID="0x40112501" TextString="Lấy Đồ chơi từ Hộp cho Trẻ sơ sinh" />
+    <TextStringDefinition InstanceID="0x27520A59" TextString="Ăn Bữa ăn" />
+    <TextStringDefinition InstanceID="0x5CB604AB" TextString="Hiện đã Đặt làm Vai Kéo Ưa thích" />
+    <TextStringDefinition InstanceID="0x80B1EF60" TextString="Xóa Moodlet" />

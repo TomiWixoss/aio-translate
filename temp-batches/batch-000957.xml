@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xB498C796" TextString="Đọc Lịch sử Du hành Thời gian tại Thư viện" />
+    <TextStringDefinition InstanceID="0xA8D5C232" TextString="Đăng bài Suy ngẫm" />
+    <TextStringDefinition InstanceID="0x8464C234" TextString="Điều đó giúp nhìn nhận vấn đề rõ ràng hơn!\n\nCó lẽ nên dành thời gian, và tiếp tục tìm kiếm manh mối sau khi tập hợp lại." />
+    <TextStringDefinition InstanceID="0x00B2A762" TextString="Hôm nay có nhiều chuyện xảy ra. Những hộp thời gian ẩn, một mật thư, những cáo buộc ngẫu nhiên về những điều gần như bất khả thi đối với hàng xóm. Đó là nhiều thứ để suy ngẫm.\n\nTìm một phòng tắm, và chọn Suy ngẫm về Du hành Thời gian. (Bạn cũng có thể dùng bồn tắm hay bồn cầu!)\n\n&lt;i&gt;(+25 Điểm Sự kiện)&lt;/i&gt;" />
+    <TextStringDefinition InstanceID="0x5B378A3A" TextString="Suy ngẫm về Du hành Thời gian" />
+    <TextStringDefinition InstanceID="0xE80C1BF2" TextString="Tên trộm bị phát hiện" />
+    <TextStringDefinition InstanceID="0xE1941AF4" TextString="Khi chơi qua kho lưu trữ, {0.SimFirstName} có cảm giác bất an y hệt như khi mô phỏng các sự kiện khác nhau và đã bắt được tên trộm tại trận!\n\nNhờ vậy, {0.SimFirstName} đã khám phá được địa chỉ email của tên trộm!" />
+    <TextStringDefinition InstanceID="0xA88DF822" TextString="Du hành thời gian là khả thi! Chơi trong tiếng vọng của quá khứ của kho lưu trữ thêm lần nữa để tìm ra tên trộm trong thời gian!\n\nDùng Máy tính, và chọn Chơi Game... rồi chơi The Sims Archives, vol. 4.\n\n&lt;i&gt;(+35 Điểm Sự kiện)&lt;/i&gt;" />
+    <TextStringDefinition InstanceID="0x4D0521FA" TextString="Tìm tên trộm bằng cách chơi trong kho lưu trữ" />
+    <TextStringDefinition InstanceID="0x0D04DFC4" TextString="The Sims Archives, vol. 2" />
+    <TextStringDefinition InstanceID="0x2A4EAB8A" TextString="{0.SimFirstName} nhìn thấy một vật thể kỳ lạ phát sáng bằng pha lê được giữ bởi một nhân vật ẩn. Cảm giác bất an y hệt lần trước {0.SimPronounSubjective} trải nghiệm lại xảy ra.\n\nĐó là tên trộm thời gian! {0.SimFirstName} chắc chắn đang trên đúng đường!" />
+    <TextStringDefinition InstanceID="0x9DD49EFC" TextString="Cuốn sách ở thư viện có một số lý thuyết thú vị về du hành thời gian và trò chơi điện tử.\n\nChọn Chơi Game rồi chơi The Sims Archives, vol. 2 trên Máy tính để khám phá quá khứ.\n\n&lt;i&gt;(+25 Điểm Sự kiện)&lt;/i&gt;" />
+    <TextStringDefinition InstanceID="0x94E90F5C" TextString="Trải nghiệm Quá khứ bằng cách chơi The Sims Archives vol. 2" />
+    <TextStringDefinition InstanceID="0x48AE92D3" TextString="The Sims Archive" />
+    <TextStringDefinition InstanceID="0x546C7461" TextString="Khi ở trong The Sims Archives, sự chú ý của bạn bị thu hút bởi một Sim mặc trang phục kỳ lạ đang chôn một hộp thời gian.\n\nNó dường như phát sáng theo cách xa lạ, và một cảm giác kỳ lạ bao trùm bạn. Gần như... hộp thời gian có thể vẫn còn tồn tại.\n\nBạn không thể xua tan cảm giác đó, và giờ bạn phải tìm nó!" />
+    <TextStringDefinition InstanceID="0xA1C0C04F" TextString="Một số vật phẩm được đề cập nghe quen thuộc, như thể chúng có thể được tìm thấy trong kho lưu trữ của Sims.\n\nChọn Chơi Game rồi chơi The Sims Archives trên Máy tính để làm mới ký ức.\n\n&lt;i&gt;(+25 Điểm Sự kiện)&lt;/i&gt;" />
+    <TextStringDefinition InstanceID="0x9F4211E5" TextString="Làm mới Ký ức trong The Sims Archives" />
+    <TextStringDefinition InstanceID="0x5076F93D" TextString="Tăng xung nhịp hoàn tất" />
+    <TextStringDefinition InstanceID="0x2722449F" TextString="Bộ phận du hành thời gian: xong!\n\nMáy tính đã tăng xung: xong!\n\nMọi thứ đã sẵn sàng cho trải nghiệm du hành thời gian!" />
+    <TextStringDefinition InstanceID="0x3AC9B7D9" TextString="Emit nói rằng không phải quá nhiều năng lượng đã làm hỏng máy tính, mà là không đủ năng lượng!\n\nTìm một Máy tính, và chọn Tăng xung nhịp.\n\n&lt;i&gt;(+25 Điểm Sự kiện)&lt;/i&gt;" />
+    <TextStringDefinition InstanceID="0xFF2EE937" TextString="Tăng xung nhịp Máy tính" />
+    <TextStringDefinition InstanceID="0xC296E78E" TextString="Kỹ năng Logic sẵn sàng" />
+    <TextStringDefinition InstanceID="0x401E7E40" TextString="Kỹ năng logic của {0.SimFirstName} chính xác là thứ {0.SimFirstName} cần để lắp ráp lại tầm nhìn lý thuyết của Nikolai.\n\nDùng kỹ năng này để giúp xây dựng bộ phận du hành thời gian." />
+    <TextStringDefinition InstanceID="0xDD4F531E" TextString="Dành thời gian chuẩn bị để mở rộng tư duy bằng cách thực hiện bất kỳ hoạt động logic nào.\n\nLogic được xây dựng từ những việc như Chơi Cờ vua, Dùng Kính thiên văn hay Kính hiển vi, hoặc Đọc Sách về logic.\n\n&lt;i&gt;(+35 Điểm Sự kiện)&lt;/i&gt;" />
+    <TextStringDefinition InstanceID="0x94D9BB5E" TextString="Rèn luyện Tư duy khi Cấp độ 2 trở lên trong Logic" />
+    <TextStringDefinition InstanceID="0xE6838776" TextString="Lời động viên trước Du hành Thời gian" />
+    <TextStringDefinition InstanceID="0x0979B188" TextString="{0.SimFirstName} cảm thấy tốt hơn về trải nghiệm du hành thời gian sắp tới!\n\nTránh xa bướm và mọi thứ sẽ ổn thôi!" />
+    <TextStringDefinition InstanceID="0x71BA47A6" TextString="Với mọi thứ đã sẵn sàng, có lẽ đã đến lúc tự động viên bản thân trước khi trải nghiệm du hành thời gian.\n\nTìm một gương, và chọn Tự động viên Bản thân.\n\n&lt;i&gt;(+25 Điểm Sự kiện)&lt;/i&gt;" />
+    <TextStringDefinition InstanceID="0xB77C3756" TextString="Tự động viên Bản thân" />
+    <TextStringDefinition InstanceID="0xC58AF4CB" TextString="Kỹ năng Khéo léo sẵn sàng" />
+    <TextStringDefinition InstanceID="0x30A4A599" TextString="Sự khéo léo của {0.SimFirstName} sẽ rất hữu ích khi xây dựng bộ phận du hành thời gian.\n\nTốt hơn nên chuẩn bị sẵn sàng còn hơn là mất kỹ năng." />
+    <TextStringDefinition InstanceID="0x0CF1B8C7" TextString="Xây dựng kỹ năng Khéo léo bằng cách sửa chữa đồ đạc hỏng, nâng cấp các vật thể như Bồn rửa hay Bồn cầu, hoặc đọc sách về Khéo léo.\n\nVới cấp độ kỹ năng 2 trở lên, chọn Sửa chữa trên một vật thể hỏng.\n\n&lt;i&gt;(+35 Điểm Sự kiện)&lt;/i&gt;" />
+    <TextStringDefinition InstanceID="0x5E59862D" TextString="Sửa chữa Đồ đạc khi Cấp độ Khéo léo 2 trở lên" />
+    <TextStringDefinition InstanceID="0xE36253C3" TextString="Thư của Tên trộm được tìm thấy" />
+    <TextStringDefinition InstanceID="0xEBFBA4D1" TextString="Thời gian thật kỳ diệu và phức tạp! Từ hiện tại, đến quá khứ, và quay lại đây ngay lập tức trong tương lai—nó làm cho tâm trí choáng váng!\n\nThư của Tên trộm giờ có thể được tìm thấy trong kho đồ của {0.SimFirstName}." />
+    <TextStringDefinition InstanceID="0x1991477F" TextString="Phản hồi của tên trộm ở trong hộp thư? Và nó đã chờ đợi suốt thời gian qua—đó là bí ẩn của thời gian!\n\nChọn Lấy Thư của Tên trộm từ Hộp thư.\n\n&lt;i&gt;(+35 Điểm Sự kiện)&lt;/i&gt;" />
+    <TextStringDefinition InstanceID="0x374F7455" TextString="Lấy Thư của Tên trộm từ Hộp thư" />
+    <TextStringDefinition InstanceID="0xD24C1FBF" TextString="Hồ sơ Mạng xã hội của Emit" />
+    <TextStringDefinition InstanceID="0x20F1717D" TextString="Yêu khoa học, công nghệ, tin tưởng du hành thời gian, và có mái tóc xanh.\n\nMô tả trên tin tức chắc chắn có sự tương đồng mạnh mẽ với Emit...\n\nChắc chắn là anh ta, phải không?" />
+    <TextStringDefinition InstanceID="0xFC8F180B" TextString="Liệu có thật là Emit?\n\nKiểm tra hồ sơ mạng xã hội của anh ta trên Máy tính có thể xác nhận điều đó. Anh ta có mái tóc xanh, rốt cuộc thì sao?\n\nBạn có thể kiểm tra hồ sơ của anh ta dưới mục Mạng xã hội từ bất kỳ Máy tính nào.\n\n&lt;i&gt;(+15 Điểm Sự kiện)&lt;/i&gt;" />
+    <TextStringDefinition InstanceID="0x53222BD9" TextString="Kiểm tra Hồ sơ Mạng xã hội của Emit" />
+    <TextStringDefinition InstanceID="0x5A6BECD5" TextString="Bụng đầy Tâm trí sáng suốt" />
+    <TextStringDefinition InstanceID="0x4AE3A717" TextString="Khó suy nghĩ rõ ràng khi đói bụng.\n\nGiờ vấn đề đó đã được giải quyết, {0.SimFirstName} sẵn sàng tiếp tục!" />
+    <TextStringDefinition InstanceID="0xE1B02611" TextString="Không kế hoạch nào có thể thực hiện tốt khi đói bụng.\n\nTìm thứ gì đó để ăn!\n\n&lt;i&gt;(+25 Điểm Sự kiện)&lt;/i&gt;" />
+    <TextStringDefinition InstanceID="0xCC5F119F" TextString="Tìm đồ ăn" />
+    <TextStringDefinition InstanceID="0x69ECDCDF" TextString="Để khai quật một hộp thời gian, tìm kiếm đá hoặc đống đất sẵn sàng để đào. Nhớ nhìn kỹ khi và ở đâu chúng xuất hiện.\n\nKhám phá các khu vực như công viên, và tìm kiếm đá có tinh thể hoặc đống đất, và chọn Đào để tìm Hộp thời gian Đặc biệt.\n\n&lt;i&gt;(+35 Điểm Sự kiện)&lt;/i&gt;" />
+    <TextStringDefinition InstanceID="0x8D721D35" TextString="Tìm Hộp thời gian Đặc biệt" />
+    <TextStringDefinition InstanceID="0xB3BEDEF0" TextString="Để tìm Ironyum, tìm kiếm đá hoặc đống đất sẵn sàng để đào. Nhìn kỹ khi chúng xuất hiện, hoặc tăng tốc quá trình hình thành đá bằng cách dùng Tốc độ Cực cao từ điều khiển thời gian.\n\nKhám phá các khu vực như công viên, và tìm kiếm đá có tinh thể hoặc đống đất, và chọn Đào.\n\nMột nơi tuyệt vời để tìm là Công viên Hoa Sa mạc ở Oasis Springs!\n\n&lt;i&gt;(+35 Điểm Sự kiện)&lt;/i&gt;" />
+    <TextStringDefinition InstanceID="0x22995898" TextString="Thu thập Ironyum" />
+    <TextStringDefinition InstanceID="0x8E8C5CD9" TextString="Hơi nước đã bốc hơi" />

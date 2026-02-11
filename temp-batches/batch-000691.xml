@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x5E81BBFE" TextString="Đôi khi Sim cần một cú hích để bắt đầu ngày mới. Pha cà phê bằng Máy Pha Cà Phê để tăng năng lượng." />
+    <TextStringDefinition InstanceID="0x8AFE3F99" TextString="Pha Cà Phê" />
+    <TextStringDefinition InstanceID="0x4DF4759A" TextString="Ít Sim nào thích một ngôi nhà bừa bộn. Dọn dẹp một chút bằng cách vứt rác, nhặt chén đĩa, lau chùi bề mặt hoặc hút nước đọng." />
+    <TextStringDefinition InstanceID="0x4E4C2285" TextString="Dọn Dẹp Nhà Cửa" />
+    <TextStringDefinition InstanceID="0x42905E47" TextString="Làm việc cả ngày khiến ít thời gian để giao tiếp. Hãy dành thời gian để nạp lại nhu cầu Xã Hội của bạn, và trò chuyện với Alex." />
+    <TextStringDefinition InstanceID="0x905A1BAE" TextString="Giao Tiếp với Alex" />
+    <TextStringDefinition InstanceID="0xAF0A05F0" TextString="Có sự nghiệp là trách nhiệm thường xuyên của Sim, một điều có thể rất xứng đáng. Hãy chắc chắn rằng Sim của bạn rời nhà đi làm trong giờ trước khi ca làm việc bắt đầu." />
+    <TextStringDefinition InstanceID="0xFCA2376F" TextString="Đi Làm" />
+    <TextStringDefinition InstanceID="0x347871E5" TextString="Cải thiện các nhu cầu của Sim là một cách tốt để bắt đầu ngày. Vì vậy trước khi đi làm, hãy tắm để khắc phục Vệ sinh thấp và Sử dụng Toilet để giải quyết vấn đề Bàng quang." />
+    <TextStringDefinition InstanceID="0xD072BF28" TextString="Chuẩn Bị Đi Làm" />
+    <TextStringDefinition InstanceID="0x327AC2EF" TextString="Đi Ngủ Vào Ban Đêm" />
+    <TextStringDefinition InstanceID="0x18A86CC7" TextString="Năng lượng rất quan trọng đối với Sim. Nó dần suy giảm trong ngày nhưng có thể được bổ sung bằng cách nhấp vào Giường để Ngủ trọn đêm." />
+    <TextStringDefinition InstanceID="0x240C841A" TextString="Đói là một trong những nhu cầu cốt lõi của Sim và ăn uống đều đặn sẽ giúp giữ cho họ hạnh phúc. Lấy một phần từ bữa ăn đã chuẩn bị, hoặc Nấu ăn tại Tủ Lạnh hoặc Lò Nướng." />
+    <TextStringDefinition InstanceID="0x8424AE05" TextString="Lấy gì đó để Ăn" />
+    <TextStringDefinition InstanceID="0x61355924" TextString="Ngôi nhà của bạn có rất nhiều vật thể mà bạn có thể tương tác. Hãy thử xem một chương trình trên TV, chơi trên Máy Tính, hoặc nghe trên Dàn Âm Thanh để giải trí nhẹ nhàng cho qua thời gian." />
+    <TextStringDefinition InstanceID="0x2A42A325" TextString="Sim thích giao tiếp với người khác. Nhấp vào bạn cùng phòng để xem nhiều loại tương tác từ lời chào ban đầu đến thảo luận về nhiều chủ đề thú vị." />
+    <TextStringDefinition InstanceID="0x2B00B368" TextString="Làm Quen Bạn Cùng Phòng" />
+    <TextStringDefinition InstanceID="0x65F5F8AF" TextString="Tương Tác với Vật Thể Vui Vẻ" />
+    <TextStringDefinition InstanceID="0x738D48B1" TextString="Nhấp vào Thần Chết và chọn tương tác Nói về Bánh Mì Phô Mai Nướng từ mục Xã Hội Thân Thiện." />
+    <TextStringDefinition InstanceID="0x475BAEB4" TextString="Nói Chuyện với Thần Chết Về Bánh Mì Phô Mai Nướng" />
+    <TextStringDefinition InstanceID="0xD6BA7E22" TextString="Nhấp vào Bếp, chọn Nấu ăn, và chọn công thức Bánh Mì Phô Mai Nướng từ danh sách." />
+    <TextStringDefinition InstanceID="0x0D920E2D" TextString="Nấu Một Chiếc Bánh Mì Phô Mai Nướng Chất Lượng Tuyệt Hảo" />
+    <TextStringDefinition InstanceID="0xA4F62483" TextString="Nhấp vào Tàu Vũ Trụ và chọn tương tác Ăn Bánh Mì Phô Mai Nướng Trong Không Gian." />
+    <TextStringDefinition InstanceID="0xF19A4EDA" TextString="Ăn Một Chiếc Bánh Mì Phô Mai Nướng Trong Không Gian" />
+    <TextStringDefinition InstanceID="0x3842ACE9" TextString="Để nấu một phần nhóm, nhấp vào Bếp, chọn Nấu ăn, và chọn công thức bánh mì phô mai gia đình hoặc tiệc từ danh sách." />
+    <TextStringDefinition InstanceID="0x8346748C" TextString="Nấu {1.Number} Phần Nhóm Bánh Mì Phô Mai Nướng" />
+    <TextStringDefinition InstanceID="0x22A05E04" TextString="Nhấp vào Một Chiếc Bánh Mì Phô Mai Nướng Chất Lượng Tuyệt Hảo và chọn Lấy một phần." />
+    <TextStringDefinition InstanceID="0xDE934D23" TextString="Ăn {1.Number} Chiếc Bánh Mì Phô Mai Nướng Chất Lượng Tuyệt Hảo" />
+    <TextStringDefinition InstanceID="0x0C0A9150" TextString="Nhấp vào Một Chiếc Bánh Mì Phô Mai Nướng và chọn Lấy một phần." />
+    <TextStringDefinition InstanceID="0xD9F0A90F" TextString="Ăn {1.Number} Chiếc Bánh Mì Phô Mai Nướng" />
+    <TextStringDefinition InstanceID="0x4FDDAB0D" TextString="Nhấp vào một Sim và chọn Nói về Bánh Mì Phô Mai Nướng từ mục Xã Hội Thân Thiện." />
+    <TextStringDefinition InstanceID="0x939E2290" TextString="Nói Chuyện với {1.Number} Sim Khác Nhau Về Bánh Mì Phô Mai Nướng" />
+    <TextStringDefinition InstanceID="0x5192D251" TextString="Sở Hữu Một Quán Bar" />
+    <TextStringDefinition InstanceID="0x5DEBAAB1" TextString="Làm tin đồn về kẻ thù bằng cách nói chuyện với các Sim khác." />
+    <TextStringDefinition InstanceID="0xE86E54B4" TextString="Làm Tin Đồn Về Một Kẻ Thù" />
+    <TextStringDefinition InstanceID="0x31D393F8" TextString="Ràng buộc một Con Búp Bê Voodoo với kẻ thù, sau đó sử dụng tương tác Tẩm Nước." />
+    <TextStringDefinition InstanceID="0xC4C3C077" TextString="Tẩm Nước Một Kẻ Thù bằng Con Búp Bê Voodoo" />
+    <TextStringDefinition InstanceID="0x5634566F" TextString="Tìm kẻ thù đã tuyên bố của bạn và chế giễu họ!" />
+    <TextStringDefinition InstanceID="0x6DA54816" TextString="Chế Giễu Một Kẻ Thù" />
+    <TextStringDefinition InstanceID="0x1FDD26AA" TextString="Ràng buộc một Con Búp Bê Voodoo với kẻ thù, sau đó sử dụng tương tác Chích." />
+    <TextStringDefinition InstanceID="0x4656E6B5" TextString="Chích một kẻ thù bằng Con Búp Bê Voodoo" />
+    <TextStringDefinition InstanceID="0xDACD415B" TextString="Tìm một kẻ thù, đánh nhau, và thắng!" />
+    <TextStringDefinition InstanceID="0x4D992212" TextString="Thắng Một Trận Đánh Chống Lại Kẻ Thù" />
+    <TextStringDefinition InstanceID="0x30F41F64" TextString="Sử dụng một tương tác thuộc mục Hắc Ám hoặc Trò Đùa trên một kẻ thù." />
+    <TextStringDefinition InstanceID="0xA4A238C3" TextString="Chơi Khăm Một Kẻ Thù" />
+    <TextStringDefinition InstanceID="0x9D64839F" TextString="\n&lt;b&gt;&lt;font color='#2182E6'&gt;Sử dụng Điện Thoại hoặc Quản Lý Thế Giới để di chuyển đến các địa điểm khác với Sim này {1.Number} lần.&lt;/font&gt;&lt;/b&gt;\n\nTôi sẽ đi &lt;i&gt;khắp nơi&lt;/i&gt;! Nhìn thấy &lt;i&gt;mọi thứ&lt;/i&gt;! Tôi sẽ phải rời nhà ít nhất {1.Number} lần để làm điều đó, nhưng tôi khá chắc là sẽ làm được!" />
+    <TextStringDefinition InstanceID="0x167AAFE6" TextString="&quot;Một người &lt;i&gt;thật sự&lt;/i&gt; du lịch đã rời nhà ít nhất {1.Number} lần. Vì vậy tôi sẽ làm điều đó.&quot;" />
+    <TextStringDefinition InstanceID="0x3C4CCCCF" TextString="\n&lt;b&gt;&lt;font color='#2182E6'&gt;Hãy để {0.SimFirstName} có Đặc điểm Tính cách Kẻ Trộm tương tác với {1.Number} Sim khác nhau và chọn Tỏ tình về Cảm giác Hào Hứng của Kẻ Trộm. Mẹo: Điều này có thể tìm thấy trong Trình đơn Xã Hội Thân Thiện, sau đó mục Sở thích.&lt;/font&gt;&lt;/b&gt;\n\nĐiều gì là điểm của việc trở thành tên trộm giỏi nhất từng có nếu không ai thậm chí biết rằng tôi là tên trộm giỏi nhất từng có?!" />
+    <TextStringDefinition InstanceID="0x6E07E536" TextString="&quot;Tôi cần để mọi người biết tôi thực sự là một tên trộm như thế nào!&quot;" />
+    <TextStringDefinition InstanceID="0xE603A52E" TextString="\n&lt;b&gt;&lt;font color='#2182E6'&gt;Hãy để {0.SimFirstName} có Đặc điểm Tính cách Kẻ Trộm di chuyển đến một lô đất khác. Sau đó tìm một vật thể có thể Đánh Cắp và chọn Cố Gắng Đánh Cắp. Làm điều này mà không bị bắt {1.Number} lần.&lt;/font&gt;&lt;/b&gt;\n\nTôi rất tinh tường và rất giỏi ở việc đánh cắp! Tôi tự hỏi tôi có thể chất được bao nhiêu vào túi mình? Có lẽ nhiều hơn bạn nghĩ! Điều này sẽ thật là một cơn sốc!" />

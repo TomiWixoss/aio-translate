@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x5A50BF7B" TextString="Lắng nghe {M0.Mr.}{F0.Ms.} {0.SimLastName}, có lẽ bạn nên dành nhiều thời gian hơn cho công việc thay vì kiểm tra với tôi." />
+    <TextStringDefinition InstanceID="0x6C63D2BC" TextString="Tôi gần như bị cám dỗ để ở lại đây làm thêm giờ. Gần như..." />
+    <TextStringDefinition InstanceID="0x48324084" TextString="Công việc ở đây rất đáng giá. Chúng tôi hòa hợp tốt, và tôi cảm thấy được trân trọng. Tôi hài lòng với điều đó." />
+    <TextStringDefinition InstanceID="0x476520B5" TextString="(Từ việc ở gần đại dương)" />
+    <TextStringDefinition InstanceID="0x0112F55E" TextString="(Từ việc bơi trong đại dương)" />
+    <TextStringDefinition InstanceID="0xE7E948DF" TextString="(Từ việc bị nước biển bắn tung tóe)" />
+    <TextStringDefinition InstanceID="0xD159EBD1" TextString="(Từ việc áo tắm bị hỏng)" />
+    <TextStringDefinition InstanceID="0x5F54C6DB" TextString="(Từ việc ở gần nước)" />
+    <TextStringDefinition InstanceID="0xE8A5D810" TextString="(Từ việc bơi)" />
+    <TextStringDefinition InstanceID="0x6A6EDB78" TextString="(Từ việc bơi sau khi ăn)" />
+    <TextStringDefinition InstanceID="0x6F8754E2" TextString="(Từ việc bị nước hồ bơi bắn tung tóe)" />
+    <TextStringDefinition InstanceID="0xA0935C5E" TextString="Đặc điểm Đã Khám Phá" />
+    <TextStringDefinition InstanceID="0xF8D691F4" TextString="(Từ chiến thắng trong không gian vũ trụ)" />
+    <TextStringDefinition InstanceID="0x170B922D" TextString="Bạn Đã Có Kho Báu!" />
+    <TextStringDefinition InstanceID="0x06ED0807" TextString="(Từ việc quay quanh Mặt Trăng)" />
+    <TextStringDefinition InstanceID="0x5C63B3EF" TextString="(Từ việc dập tắt cuộc nổi dậy trên Mặt Trăng)" />
+    <TextStringDefinition InstanceID="0x40AC7088" TextString="(Từ việc bị bắt giữ với hàng cấm)" />
+    <TextStringDefinition InstanceID="0x65F8F812" TextString="(Từ việc bắt giữ người ngoài hành tinh)" />
+    <TextStringDefinition InstanceID="0x3ABEA30C" TextString="{0.SimFirstName} đã trở về an toàn sau khi khám phá vũ trụ." />
+    <TextStringDefinition InstanceID="0x699E8BD4" TextString="(Từ việc ăn phô mai nướng trong không gian)" />
+    <TextStringDefinition InstanceID="0xF7AE48DB" TextString="{0.SimFirstName} hạ cánh khẩn cấp từ không gian, nhưng bất kỳ cú hạ cánh nào bạn có thể bước đi.... " />
+    <TextStringDefinition InstanceID="0xAD2E27C6" TextString="(Từ tàu vũ trụ)" />
+    <TextStringDefinition InstanceID="0x7D8256D6" TextString="(Từ việc không phải là Người Cây)" />
+    <TextStringDefinition InstanceID="0x451E9225" TextString="{0.SimFirstName} đã tìm thấy một tảng đá vũ trụ!" />
+    <TextStringDefinition InstanceID="0x62AE4E82" TextString="(Từ việc nhận tin tức từ loa thông minh)" />
+    <TextStringDefinition InstanceID="0x83372ACD" TextString="(Từ trò đùa hàng ngày của loa thông minh)" />
+    <TextStringDefinition InstanceID="0x9E32BBA4" TextString="(Từ lời khẳng định hàng ngày của loa thông minh)" />
+    <TextStringDefinition InstanceID="0xD1839D7B" TextString="(Từ một chiếc loa thông minh cư xử sai)" />
+    <TextStringDefinition InstanceID="0x75959C81" TextString="(Từ việc bị một chiếc loa thông minh xúc phạm)" />
+    <TextStringDefinition InstanceID="0xE77A5344" TextString="(Từ việc được một chiếc loa thông minh khen ngợi)" />
+    <TextStringDefinition InstanceID="0xBEA2703C" TextString="Chết cóng" />
+    <TextStringDefinition InstanceID="0xED063822" TextString="{0.SimFirstName} cần tìm một số quần áo ấm trước khi {M0.he}{F0.she} trở nên quá lạnh để sống." />
+    <TextStringDefinition InstanceID="0x37ED4260" TextString="Bia mộ dường như để trống." />
+    <TextStringDefinition InstanceID="0x32D5C859" TextString="Bia mộ dường như ghi:\n\n{0.ObjectDescription}" />
+    <TextStringDefinition InstanceID="0x2E093837" TextString="Nơi đây nằm Dizzy – Chín Đời Sống Trọn Vẹn.\n1912-1927\n1927-1940\n1940-1947\n1947-1958\n1958-1960\n1960-1972\n1972-1989\n1989-2001\n2001-2011" />
+    <TextStringDefinition InstanceID="0x1592D4AA" TextString="Nhớ mãi về Little Buddy và Princess Whisper, những người bạn đến cùng.\n\nCầu mong họ tìm thấy một sự vĩnh cửu những chiếc hộp để trèo, những cánh cửa để gọi, những chiếc ly để uống, và (của con người) những chiếc giường để ngủ." />
+    <TextStringDefinition InstanceID="0xFAECA214" TextString="Dazzler. Đồng Đội Đầu Tiên của Thuyền Trưởng. Một Chú Chó Dũng Cảm Mất Trên Biển.\n\nOmnes canes ad caelum ibunt." />
+    <TextStringDefinition InstanceID="0x0EE78711" TextString="Từng hắt hơi và thở khó, giờ Breezy ngủ yên." />
+    <TextStringDefinition InstanceID="0x99CF599B" TextString="Người Mẹ và Vợ Được Yêu Quý\n\nAnn dành cả đời mình cho giáo dục trẻ em, và bà đã truyền cảm hứng cho rất nhiều người. Bà là người Sim mà tất cả mọi người đều đồng ý." />
+    <TextStringDefinition InstanceID="0x6A46C3C7" TextString="Cửa hàng hiện không có mặt hàng nào để bán. Nhấp vào một số mặt hàng trong Chế độ Sống để đặt chúng là Để Bán, hoặc bổ sung hàng cho những mặt hàng đã bán trước đó. Khách hàng sẽ không đến cho đến khi bạn có mặt hàng để họ mua." />
+    <TextStringDefinition InstanceID="0x112285D9" TextString="Chào bạn! Tên tôi là Bảo Mẫu {0.SimLastName}, rất vui được gặp bạn!\n\nTôi hoàn toàn đủ khả năng trong mọi cách. Tôi có thể chơi, nấu ăn và hướng dẫn!\n\nVà đúng, tôi không phản đối việc thay tã và dọn dẹp bừa bộn, nếu cần. Hãy cùng có một ngày vui vẻ!" />
+    <TextStringDefinition InstanceID="0xE8C412C8" TextString="Xin chào! Hôm nay bạn thế nào? Thật vui được gặp lại bạn!" />
+    <TextStringDefinition InstanceID="0x2713D6E5" TextString="Bạn học rất nhanh {1.SimFirstName}! Tuyệt vời!" />
+    <TextStringDefinition InstanceID="0xD7708D7A" TextString="Đôi khi chia sẻ tâm tư thông qua một loạt những tấm card tiết lộ được gửi cho cả một lớp học thiếu niên không phải là ý tưởng hay. Đây có lẽ là một trong những lúc như vậy. Trong khi {0.SimFirstName} đi theo hướng nhạy cảm hơn, tất cả những người khác lại đi theo hướng hài hước, và giờ {M0.he}{F0.she} trở thành trò cười của cả lớp. Có lẽ sau một tuần mọi người sẽ ngừng nói với {M0.him}{F0.her} bằng giọng điệu trẻ con." />
+    <TextStringDefinition InstanceID="0x3BA0D79E" TextString="Ai thực sự coi {1.String} là nghiêm túc, nhỉ? Những đứa trẻ với những tấm card đầy nước mắt thì, well… là kẻ ngốc! Không phải {0.SimFirstName}. Mọi người mở {M0.his}{F0.her} card đều cười vui vẻ. Giờ {0.SimFirstName} được coi là đứa trẻ hài hước nhất trường. Ai biết {0.SimFirstName} có thể là một diễn viên hài như vậy?" />
+    <TextStringDefinition InstanceID="0xE83DBB83" TextString="Rõ ràng {0.SimFirstName} không hài hước. Giáo viên không nghĩ vậy. {M0.His}{F0.Her} bạn học không nghĩ vậy. Ngay cả bạn bè của {0.SimFirstName} cũng không nghĩ vậy. Từ được nói đến là ‘vô cảm.’ Rõ ràng, {M0.he}{F0.she} cần bắt đầu nghiêm túc hơn với cảm xúc của mọi người và có lẽ không nên chế giễu những ngày lễ mà người khác trân trọng." />
+    <TextStringDefinition InstanceID="0x46A34387" TextString="{0.SimFirstName} quyết định mua hoa cho {M0.himself}{F0.herself} và làm cho người ta nghĩ rằng {M0.he}{F0.she} là người nổi tiếng! Mưu đồ thành công cho đến bữa trưa khi tên bắt nạt ở trường kéo {0.SimFirstName} ra một bên và tuyên bố rằng họ biết…\n\nMay mắn thay, tên bắt nạt nghĩ nó thật hài hước, và {0.SimFirstName} thoát khỏi (và còn có {M0.his}{F0.her} tiền bữa trưa)!" />
+    <TextStringDefinition InstanceID="0x31B6E396" TextString="{0.SimFirstName} quyết định mua hoa cho {M0.himself}{F0.herself} và làm cho người ta nghĩ rằng {M0.he}{F0.she} là người nổi tiếng! Không may, kế hoạch phản tác dụng và {M0.his}{F0.her} bạn học ghen tị. Thay vì trông thật ngầu, {0.SimFirstName} dành phần còn lại của ngày bị bỏ mặc…" />
+    <TextStringDefinition InstanceID="0x7E39C92A" TextString="{0.SimFirstName} quyết định bất ngờ tặng hoa cho cả lớp! Trong khi ngồi trong giờ toán, mỗi bông hoa được trao tay, tốn đủ thời gian để lấy chúng ra khỏi một bài kiểm tra!" />
+    <TextStringDefinition InstanceID="0x693AE45F" TextString="{0.SimFirstName} quyết định bất ngờ tặng hoa cho cả lớp! Không may, {M0.he}{F0.she} quên ký tên vào card và khi hoa được giao, một đứa trẻ khác lấy công. Thật là một {1.String} tồi tệ!" />

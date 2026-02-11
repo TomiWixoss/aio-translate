@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xED2FBC5D" TextString="Hiển thị Khi Khởi Động" />
+    <TextStringDefinition InstanceID="0x00EF6A44" TextString="Mod Script" />
+    <TextStringDefinition InstanceID="0x3C11D3F5" TextString="Nội dung Tùy chỉnh" />
+    <TextStringDefinition InstanceID="0xBC71C513" TextString="Mod script có thể khiến trò chơi của bạn bị crash hoặc dẫn đến các hành vi không mong muốn khác. Sử dụng với rủi ro của chính bạn. Bạn sẽ cần khởi động lại trò chơi để thay đổi cài đặt này có hiệu lực." />
+    <TextStringDefinition InstanceID="0x44662275" TextString="Mod" />
+    <TextStringDefinition InstanceID="0xECB6F1AE" TextString="Maxis không kiểm duyệt trước hoặc hỗ trợ Mod.\nVui lòng sử dụng một cách thận trọng." />
+    <TextStringDefinition InstanceID="0xDF5F3810" TextString="Bật hoặc tắt Hiệu ứng Mặt Trăng cho các Sim trong Chế độ Sống. Các tâm trạng Mặt Trăng hiện tại sẽ duy trì cho đến khi tự nhiên biến mất." />
+    <TextStringDefinition InstanceID="0x6FEEECC7" TextString="Tắt Hiệu ứng Mặt Trăng:" />
+    <TextStringDefinition InstanceID="0xA78EFEF5" TextString="Đặt một Giai đoạn Mặt Trăng cụ thể xuất hiện mỗi đêm.\n\nThay đổi sẽ có hiệu lực vào buổi sáng Sim tiếp theo." />
+    <TextStringDefinition InstanceID="0xC1E9EFB4" TextString="Đã tắt" />
+    <TextStringDefinition InstanceID="0xBD6A4FDC" TextString="Đặt Giai đoạn Vĩnh viễn:" />
+    <TextStringDefinition InstanceID="0x42F60702" TextString="Đặt độ dài của Chu kỳ Mặt Trăng. Chu kỳ Mặt Trăng dài hơn sẽ có các giai đoạn kéo dài hơn, và chu kỳ ngắn hơn sẽ bị loại bỏ một số giai đoạn.\n\nThay đổi sẽ có hiệu lực vào buổi sáng Sim tiếp theo." />
+    <TextStringDefinition InstanceID="0x6B9625CD" TextString="Độ dài Chu kỳ Mặt Trăng:" />
+    <TextStringDefinition InstanceID="0x452A76C3" TextString="2 Ngày" />
+    <TextStringDefinition InstanceID="0x4B9CC19E" TextString="24 Ngày" />
+    <TextStringDefinition InstanceID="0x41BC49A5" TextString="16 Ngày" />
+    <TextStringDefinition InstanceID="0x0BB5536D" TextString="4 Ngày" />
+    <TextStringDefinition InstanceID="0xC6A0C484" TextString="8 Ngày (Mặc định)" />
+    <TextStringDefinition InstanceID="0x29D81823" TextString="Nếu tắt, mụn sẽ không còn xuất hiện hoặc phát triển trên các Sim thông qua Gameplay. Điều này không áp dụng cho chi tiết mặt mụn từ Game Pack: Parenthood." />
+    <TextStringDefinition InstanceID="0x35F18CD8" TextString="Bật Mụn" />
+    <TextStringDefinition InstanceID="0x4423AB84" TextString="Từ chối khám phá các đặc điểm Tính cách mới" />
+    <TextStringDefinition InstanceID="0xD65C585D" TextString="Nếu tắt, các Sim sẽ không còn có những khoảnh khắc Tự Khám phá mang lại các Đặc điểm Tính cách mới hoặc thay đổi." />
+    <TextStringDefinition InstanceID="0xBDFBF042" TextString="Tự Khám phá" />
+    <TextStringDefinition InstanceID="0xD4E44929" TextString="Tắt tùy chọn này sẽ ngăn chặn việc sa thải xảy ra đối với sim của bạn." />
+    <TextStringDefinition InstanceID="0xA0B2DA0E" TextString="Nếu tắt, các Sim sẽ không trải nghiệm việc sa thải trong sự nghiệp của họ.\n\nCác Sim đang trong giai đoạn sa thải sẽ không bị sa thải và giai đoạn sẽ chính thức kết thúc vào cuối ngày làm việc tiếp theo." />
+    <TextStringDefinition InstanceID="0x750352C5" TextString="Sa thải Sự nghiệp" />
+    <TextStringDefinition InstanceID="0x18EDADE4" TextString="Nếu tắt, các Sim sẽ không còn trải nghiệm các mặt tích cực của Vận may Tốt và các mặt tiêu cực của Vận may Xấu. Vận may sẽ không còn xuất hiện trong Bảng Simology." />
+    <TextStringDefinition InstanceID="0x2C8D9849" TextString="Bật tùy chọn này có nghĩa là kết quả của hành động của một Sim có thể bị ảnh hưởng bởi Vận may của họ." />
+    <TextStringDefinition InstanceID="0xB00C4E80" TextString="Bật Vận may:" />
+    <TextStringDefinition InstanceID="0xA4B86FCC" TextString="Nếu được chọn, các Sim Tiên bên ngoài Hộ gia đình Đang hoạt động sẽ không tự động xuất hiện dưới Dạng Tiên ở các Thế giới khác ngoài Innisgreen. Một số hành động do người chơi chỉ định vẫn sẽ khiến các Sim Tiên lộ Dạng Tiên của họ.\n\nThay đổi này sẽ không được áp dụng cho các Sim Tiên đang được tạo ra cho đến sau lần tải tiếp theo." />
+    <TextStringDefinition InstanceID="0x03D4A021" TextString="Bật tùy chọn này có nghĩa là bạn sẽ không thấy các Sim Tiên trong Dạng Tiên của họ bên ngoài Innisgreen, trừ thông qua hành động của người chơi." />
+    <TextStringDefinition InstanceID="0x6DE8F4C8" TextString="Giới hạn Tiên ở Innisgreen" />
+    <TextStringDefinition InstanceID="0xF1CB2D38" TextString="Nếu tắt, các Sim sẽ không trải nghiệm bất kỳ ảnh hưởng nào liên quan đến Cân bằng hoặc Mất cân bằng. Điều này có nghĩa là một Sim có thể trải nghiệm ít Bệnh tật hơn nhưng sẽ không loại bỏ chúng hoàn toàn. Giao diện Cân bằng &amp; Mất cân bằng sẽ không xuất hiện trong Bảng Simology." />
+    <TextStringDefinition InstanceID="0x0EDC9AD5" TextString="Bật tùy chọn này có nghĩa là Tâm trạng sẽ ảnh hưởng đến trạng thái Cân bằng của các Sim theo thời gian, dẫn đến các ảnh hưởng tác động đến Nhu cầu và Bệnh tật." />
+    <TextStringDefinition InstanceID="0x8920AB3C" TextString="Bật Cân bằng &amp; Mất cân bằng:" />
+    <TextStringDefinition InstanceID="0x7CC941F6" TextString="Nếu tắt, Bệnh tật sẽ không còn lây lan một cách có nhiễm. Một khi đã tắt, các Sim đã có Bệnh tật sẽ cần chờ đợi hoặc tìm cách chữa khỏi, nhưng không còn Sim nào sẽ mắc Bệnh tật thông qua sự lây lan tự phát. Việc ở gần hoặc tương tác với các Sim có Bệnh tật sẽ không còn có nguy cơ lây lan nhiễm.\n\nBất kể tùy chọn này có bị tắt hay không, các Sim Tiên trong Hộ gia đình của bạn vẫn có thể truyền Bệnh tật cho các Sim khác nếu họ đã mở khóa Khả năng Tiên Chữa khỏi hoặc Gây Bệnh tật. Các Sim Naturopath chọn làm việc tại nhà vẫn sẽ có thể tiếp nhận khách hàng có Bệnh tật cần được điều trị.\n\n&lt;b&gt;Lưu ý:&lt;/b&gt; Các Sim trở nên Rất Mất cân bằng vẫn sẽ mắc một Bệnh tật. Bỏ chọn cả &lt;i&gt;Bật Cân bằng &amp; Mất cân bằng&lt;/i&gt; và &lt;i&gt;Bật Sự lây lan Bệnh tật&lt;/i&gt; để tắt tất cả các nguồn tự nhiên của Bệnh tật." />
+    <TextStringDefinition InstanceID="0xFF7CDEF7" TextString="Bật tùy chọn này có nghĩa là các Sim có thể phát triển Bệnh tật từ phơi nhiễm hàng ngày, đặc biệt là ở gần các Sim khác đã có Bệnh tật." />
+    <TextStringDefinition InstanceID="0x708FB57A" TextString="Bật Sự lây lan Bệnh tật" />
+    <TextStringDefinition InstanceID="0xF6B0F4ED" TextString="Toàn màn hình Cửa sổ" />
+    <TextStringDefinition InstanceID="0x27C253D1" TextString="Cửa sổ" />
+    <TextStringDefinition InstanceID="0xA09CD3B2" TextString="Cực cao" />
+    <TextStringDefinition InstanceID="0xF872FB91" TextString="Trung bình" />
+    <TextStringDefinition InstanceID="0xE2EB54F7" TextString="Thấp Trung bình" />
+    <TextStringDefinition InstanceID="0x56E8EF4A" TextString="Thấp" />
+    <TextStringDefinition InstanceID="0xDCD7D860" TextString="Cao" />
+    <TextStringDefinition InstanceID="0x9ED6DE5D" TextString="Tùy chỉnh" />
+    <TextStringDefinition InstanceID="0x2BB20265" TextString="Chất lượng Đồ họa:" />
+    <TextStringDefinition InstanceID="0x121769AC" TextString="Hiệu ứng Trực quan:" />
+    <TextStringDefinition InstanceID="0x15CD2518" TextString="Khoảng cách Nhìn:" />
+    <TextStringDefinition InstanceID="0xC7AB686E" TextString="Rất cao" />

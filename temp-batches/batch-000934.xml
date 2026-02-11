@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x2437058E" TextString="Đã học được kỹ năng Lập trình" />
+    <TextStringDefinition InstanceID="0xE20DEC40" TextString="Kỹ năng Lập trình mới của {0.SimFirstName} sẽ cho phép {0.SimPronounObjective} Hack và Thực hành Lập trình. Cấp độ kỹ năng càng cao, cơ hội Hack càng nhiều." />
+    <TextStringDefinition InstanceID="0x463BEE48" TextString="Đạt được Cấp độ Lập trình 4" />
+    <TextStringDefinition InstanceID="0x0C6CD36E" TextString="{0.SimFirstName} giờ đã có thể Tạo Virus. {M0.He}{F0.She} cũng có thể Hack Điểm học (chỉ dành cho thiếu niên)." />
+    <TextStringDefinition InstanceID="0xC3DBD73E" TextString="Đạt được Cấp độ Lập trình 5" />
+    <TextStringDefinition InstanceID="0x40E7A4B0" TextString="{0.SimFirstName} giờ đã có thể thực hiện Công việc phụ." />
+    <TextStringDefinition InstanceID="0x48530E6C" TextString="Đạt được Cấp độ Lập trình 6" />
+    <TextStringDefinition InstanceID="0xE94DF492" TextString="{0.SimFirstName} giờ đã có thể Hack Hiệu suất công việc." />
+    <TextStringDefinition InstanceID="0xF15F24BD" TextString="Đạt được Cấp độ Lập trình 10" />
+    <TextStringDefinition InstanceID="0xC5B0A41F" TextString="{0.SimFirstName} giờ đã có thể Hack Siêu máy tính." />
+    <TextStringDefinition InstanceID="0x4FE63DCC" TextString="Khi những phím đàn cần được gảy và giác quan thính giác cần được thư giãn, một nghệ sĩ dương cầm là Sim duy nhất có thể giúp đỡ. Thực hành, thực hành, thực hành Kỹ năng Piano và dù bạn có thể không bao giờ trở thành ngôi sao rock, bạn sẽ được chơi trong thang máy mãi mãi.&#xD;&#xA;&#xD;&#xA;Kỹ năng Piano được cải thiện trên Đàn piano, và có thể được huấn luyện từ đối tượng đó ở Cấp độ kỹ năng 5." />
+    <TextStringDefinition InstanceID="0x8A29FD6C" TextString="Đạt được Cấp độ Piano 2" />
+    <TextStringDefinition InstanceID="0xC5798B92" TextString="{0.SimFirstName} giờ đã có thể Thả hồn về Bản giao hưởng Piano với các Sim khác. Ngoài ra, {M0.he}{F0.she} có thể Nghiên cứu Piano trên máy tính và Trân trọng Âm nhạc Cổ điển trên máy hát." />
+    <TextStringDefinition InstanceID="0x35319E35" TextString="{0.SimFirstName} giờ đã có thể Lắng nghe và Học hỏi từ các nghệ sĩ dương cầm có kỹ năng hơn. Sau khi trưởng thành thành Thiếu niên, {0.SimPronounSubjective} cũng sẽ có thể Chơi Nhạc Lãng mạn trên Piano." />
+    <TextStringDefinition InstanceID="0xDBECBE87" TextString="&#xD;&#xA;{0.SimPronounSubjective|xxUpper} cũng có thể Huấn luyện người khác Piano." />
+    <TextStringDefinition InstanceID="0xF22EFCD8" TextString="Đạt được Cấp độ Piano 3" />
+    <TextStringDefinition InstanceID="0x6C6FFA30" TextString="{0.SimFirstName} giờ đã có thể chơi Nhạc truyền thống và Đánh đàn để lấy cảm hứng." />
+    <TextStringDefinition InstanceID="0x1CC35A7B" TextString="Đạt được Cấp độ Piano 10" />
+    <TextStringDefinition InstanceID="0xBA309CB9" TextString="Đạt được Cấp độ Piano 5" />
+    <TextStringDefinition InstanceID="0xE114504B" TextString="{0.SimFirstName} giờ đã có thể Chơi Nhạc Lãng mạn trên Piano và có thể Lắng nghe và Học hỏi từ các nghệ sĩ dương cầm có kỹ năng hơn." />
+    <TextStringDefinition InstanceID="0x829F4666" TextString="Đạt được Cấp độ Piano 9" />
+    <TextStringDefinition InstanceID="0x0C124878" TextString="{0.SimFirstName} giờ đã có thể Chơi Nhạc Cổ điển. {M0.He}{F0.She} cũng có thể Cấp phép Bài hát {M0.he}{F0.she} đã viết tại Hộp thư." />
+    <TextStringDefinition InstanceID="0x1324CAB5" TextString="{0.SimFirstName} giờ đã có thể Chơi Nhạc Tiên phong. " />
+    <TextStringDefinition InstanceID="0xDD27D06B" TextString="{0.SimFirstName} giờ đã có thể Viết, Xóa bỏ, và Đặt tên Bài hát. {0.SimPronounObjective} cũng có thể Chơi Nhạc Ragtime. Sau khi trưởng thành thành Thiếu niên, {0.SimPronounObjective} sẽ có thể Biểu diễn Jazz Up the Place." />
+    <TextStringDefinition InstanceID="0xFE6A39D5" TextString="Đạt được Cấp độ Piano 8" />
+    <TextStringDefinition InstanceID="0x5BE3EC17" TextString="{0.SimFirstName} giờ đã có thể Viết, Xóa bỏ, và Đặt tên Bài hát. {M0.He}{F0.She} cũng có thể Chơi Nhạc Ragtime và Biểu diễn Jazz Up the Place." />
+    <TextStringDefinition InstanceID="0x99A749AA" TextString="Đạt được Cấp độ Piano 6" />
+    <TextStringDefinition InstanceID="0x8343874C" TextString="{0.SimFirstName} giờ đã có thể Trìu mến các Sim khác và Chơi Nhạc Post-Bop." />
+    <TextStringDefinition InstanceID="0xD8A4269E" TextString="Đã học được kỹ năng Piano" />
+    <TextStringDefinition InstanceID="0x933A2D10" TextString="Kỹ năng Piano mới của {0.SimFirstName} sẽ cho phép {0.SimPronounObjective} Thực hành nhạc cụ.  Các cấp độ cao hơn sẽ mở khóa các tùy chọn mới.&#xD;&#xA;" />
+    <TextStringDefinition InstanceID="0xD61623A0" TextString="{0.SimFirstName} giờ đã có thể Chơi Nhạc Post-Bop. Sau khi trưởng thành thành Thiếu niên, {0.SimPronounObjective} sẽ có thể Trìu mến các Sim khác." />
+    <TextStringDefinition InstanceID="0x371F5F50" TextString="Đạt được Cấp độ Piano 7" />
+    <TextStringDefinition InstanceID="0xCA77F536" TextString="{0.SimFirstName} có thể Chơi Nhạc Latin. {M0.He}{F0.She} cũng có thể Hứa Dành tặng Bài hát cho các Sim khác." />
+    <TextStringDefinition InstanceID="0xC2791D5A" TextString="Đạt được Cấp độ Piano 4" />
+    <TextStringDefinition InstanceID="0x6F717AFC" TextString="{0.SimFirstName} giờ đã có thể Chơi Bản giao hưởng và Chơi Nhạc Blues." />
+    <TextStringDefinition InstanceID="0x5D358321" TextString="Nhiếp ảnh" />
+    <TextStringDefinition InstanceID="0x5D2C39BD" TextString="Từ điện thoại đến máy ảnh đắt tiền. Các Sim có kỹ năng Nhiếp ảnh sẽ có thành công lớn hơn khi họ mài giũa kỹ năng bằng cách chụp nhiều ảnh, nâng cấp thiết bị, thử nghiệm với cài đặt hình ảnh và sử dụng Studio Ảnh In a Flash. " />
+    <TextStringDefinition InstanceID="0xD10FD93B" TextString="Đạt được Cấp độ Nhiếp ảnh 4" />
+    <TextStringDefinition InstanceID="0xCF6B3449" TextString="{0.SimFirstName} có thể kiếm thêm Simoleon bằng cách chụp ảnh các Sim khác sử dụng Studio Ảnh In a Flash." />
+    <TextStringDefinition InstanceID="0x5590EBDB" TextString="{0.SimFirstName} đã học được công thức Sunset Valley, Granny Smash, và Shadow Realm. {M0.He}{F0.She} cũng giờ có thể Làm tươi đồ uống (đặt lại bộ đếm hư hỏng). Và {M0.he}{F0.she} giờ nhận được Moodlet Mix Master sau khi pha một đồ uống." />
+    <TextStringDefinition InstanceID="0xA5BAAD8C" TextString="Đạt được Cấp độ Pha chế 3" />
+    <TextStringDefinition InstanceID="0xE1782DB2" TextString="{0.SimFirstName} đã học được công thức Ridgeport!" />
+    <TextStringDefinition InstanceID="0x3947E6BA" TextString="Đạt được Cấp độ Pha chế 7" />
+    <TextStringDefinition InstanceID="0xB13F76DC" TextString="{0.SimFirstName} đã học được công thức Sour Punch. {M0.He}{F0.She} cũng học được một động tác Bottle Stack mới! Ngoài ra, đồ uống của {M0.his}{F0.her} giờ có thể cung cấp Moodlets mạnh hơn cho những người uống chúng!" />
+    <TextStringDefinition InstanceID="0x870E134D" TextString="Đạt được Cấp độ Pha chế 8" />
+    <TextStringDefinition InstanceID="0xDA01DEAF" TextString="{0.SimFirstName} đã học được công thức Silent Film. Ngoài ra, {M0.he}{F0.she} giờ có thể Chia sẻ Bí mật Pha chế với các Sim khác." />
+    <TextStringDefinition InstanceID="0xC0EEDBA7" TextString="Đánh giá Sao của Khách hàng" />
+    <TextStringDefinition InstanceID="0xECD3D2F0" TextString="Tiến độ Khối Đất sét" />
+    <TextStringDefinition InstanceID="0xBF632FD0" TextString="Đạt được Cấp độ Thể dục 2" />
+    <TextStringDefinition InstanceID="0x035E31B6" TextString="{0.SimFirstName} giờ đã có thể Thảo luận Kỹ thuật Tập luyện với các Sim khác." />

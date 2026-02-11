@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x27D50A0F" TextString="Lắng nghe câu chuyện cười" />
+    <TextStringDefinition InstanceID="0x7CE3F631" TextString="Câu chuyện cười gây hấn" />
+    <TextStringDefinition InstanceID="0x5745A839" TextString="Lắng nghe {1.SimFirstName} than phiền" />
+    <TextStringDefinition InstanceID="0x6499B09B" TextString="Than phiền" />
+    <TextStringDefinition InstanceID="0x3468BD35" TextString="Kế hoạch Thả Chuột Hamster!" />
+    <TextStringDefinition InstanceID="0x7DE19148" TextString="Để {1.SimFirstName} thử gây gổ" />
+    <TextStringDefinition InstanceID="0x025AAE58" TextString="Thử gây gổ" />
+    <TextStringDefinition InstanceID="0x0306A1FF" TextString="Thử gây gổ" />
+    <TextStringDefinition InstanceID="0x38316291" TextString="Thử trò chuyện với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xF8162133" TextString="Thử trò chuyện" />
+    <TextStringDefinition InstanceID="0x441F82A2" TextString="Khuyến khích thử trò chuyện" />
+    <TextStringDefinition InstanceID="0x95A8875C" TextString="Lắng nghe {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x6F6BF12C" TextString="Thử vật liệu" />
+    <TextStringDefinition InstanceID="0x3A470D6E" TextString="Thử trở thành Hải Tặc mới trong Tàu Vũ Trụ" />
+    <TextStringDefinition InstanceID="0xFF558E6B" TextString="Thử có em bé trong Nhà Vệ Sinh" />
+    <TextStringDefinition InstanceID="0xB75598F6" TextString="Thử trở thành Hải Tặc mới trong Nhà Vệ Sinh" />
+    <TextStringDefinition InstanceID="0x505017AA" TextString="Thử trở thành Hải Tặc mới trong Đài Thiên Văn" />
+    <TextStringDefinition InstanceID="0xA00960D1" TextString="Chưa thể trộm cắp lần nữa. Người ta sẽ nghi ngờ!&#xD;&#xA;" />
+    <TextStringDefinition InstanceID="0x27A82AE3" TextString="Được {1.SimFirstName} hôn" />
+    <TextStringDefinition InstanceID="0x9ABD8395" TextString="Nụ hôn đam mê" />
+    <TextStringDefinition InstanceID="0x244E1064" TextString="Được {1.SimFirstName} tiếp thêm sức" />
+    <TextStringDefinition InstanceID="0x9A68AC14" TextString="Đề nghị tiếp thêm sức" />
+    <TextStringDefinition InstanceID="0x4ABEA58A" TextString="Để {1.SimFirstName} sờ vào bụng bầu" />
+    <TextStringDefinition InstanceID="0x69762DD0" TextString="Được mời sờ vào bụng bầu" />
+    <TextStringDefinition InstanceID="0x8453354F" TextString="Được tặng một bông hồng" />
+    <TextStringDefinition InstanceID="0xB1F30BC4" TextString="Tặng hoa hồng" />
+    <TextStringDefinition InstanceID="0x2911E318" TextString="Tặng hoa hồng" />
+    <TextStringDefinition InstanceID="0x762D35B2" TextString="Được {1.SimFirstName} massage" />
+    <TextStringDefinition InstanceID="0x6F48E2EA" TextString="Đề nghị massage" />
+    <TextStringDefinition InstanceID="0xC4389B84" TextString="Lắng nghe lời khuyên của {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xD4134AF4" TextString="Đưa ra lời khuyên nghề nghiệp" />
+    <TextStringDefinition InstanceID="0xD26248DB" TextString="Đưa ra lời khuyên nghề nghiệp đáng ngờ" />
+    <TextStringDefinition InstanceID="0x817C8F73" TextString="Lắng nghe câu hỏi của {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x35FF3B69" TextString="Được rồi, tôi có thể chơi với bạn một chút." />
+    <TextStringDefinition InstanceID="0x155115BA" TextString="Được {1.SimFirstName} chơi khăm" />
+    <TextStringDefinition InstanceID="0x2D886A32" TextString="Đám mây hôi thối" />
+    <TextStringDefinition InstanceID="0xCBD970E1" TextString="Kế hoạch Chơi Khăm Vẽ Râu" />
+    <TextStringDefinition InstanceID="0xB1C63AD7" TextString="Đùa nghịch với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x42F4A0F9" TextString="Đùa nghịch" />
+    <TextStringDefinition InstanceID="0x2B9483EC" TextString="Được {1.SimFirstName} chế giễu" />
+    <TextStringDefinition InstanceID="0x9318A85C" TextString="Chế giễu tâm trạng" />
+    <TextStringDefinition InstanceID="0xCD1F1881" TextString="Được {1.SimFirstName} chế giễu" />
+    <TextStringDefinition InstanceID="0xFAC16DFA" TextString="Chế giễu trang phục" />
+    <TextStringDefinition InstanceID="0xAFA5A451" TextString="Thử chế giễu trang phục" />
+    <TextStringDefinition InstanceID="0x1040BE29" TextString="Được {1.SimFirstName} chế giễu" />
+    <TextStringDefinition InstanceID="0x6D3899AB" TextString="Chế giễu sở thích âm nhạc" />
+    <TextStringDefinition InstanceID="0x7636C746" TextString="Chế giễu trang phục" />
+    <TextStringDefinition InstanceID="0x612324E6" TextString="Chơi khăm" />
+    <TextStringDefinition InstanceID="0xE5BCDC85" TextString="Được {1.SimFirstName} hướng dẫn" />
+    <TextStringDefinition InstanceID="0x6F502EA7" TextString="Đưa ra mẹo sửa chữa" />

@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x8E7271E7" TextString="Búp bê tẻ nhạtn" />
+    <TextStringDefinition InstanceID="0x36EFEF48" TextString="Lần sau nói gì hay ho chút đi, được không?" />
+    <TextStringDefinition InstanceID="0xFA88DCC4" TextString="Đồ chơi tồi tệ!" />
+    <TextStringDefinition InstanceID="0x13CA1FF1" TextString="Cần phải dạy cho món đồ chơi đó biết thân phận. Có lẽ nên bỏ nó vào góc tối, ẩm ướt của hộp đồ chơi. Như vậy sẽ dạy được nó." />
+    <TextStringDefinition InstanceID="0x0BE6ECB3" TextString="Đồ chơi khó chịu" />
+    <TextStringDefinition InstanceID="0xF7533ADC" TextString="Bạn đã không nghĩ một món đồ chơi vô tri vô cảm lại có thể khiến bạn cảm thấy bị đánh giá như vậy, nhưng nó đang ở đây." />
+    <TextStringDefinition InstanceID="0xDDF6299C" TextString="Ngứa không tha" />
+    <TextStringDefinition InstanceID="0x97129C19" TextString="Cơn ngứa này đơn giản là không chịu buông. Nó không hề xin lỗi, không hề hối hận, không hề dừng lại." />
+    <TextStringDefinition InstanceID="0xE72D2DFF" TextString="Ngứa khó chịu" />
+    <TextStringDefinition InstanceID="0xE6820DD0" TextString="Cảm giác nóng rát thật khó chịu...." />
+    <TextStringDefinition InstanceID="0xF54E30EF" TextString="Ngứa cực độ" />
+    <TextStringDefinition InstanceID="0xA2DE0CA0" TextString="Đôi khi, cơn ngứa nặng đến mức việc lột da nghe có vẻ như là giải pháp hợp lý." />
+    <TextStringDefinition InstanceID="0x30EF6F54" TextString="Sạch sẽ - Không dùng máy tính bảng khi đi vệ sinh (Ẩn)" />
+    <TextStringDefinition InstanceID="0xF2D4EC18" TextString="Bắn tung tóe" />
+    <TextStringDefinition InstanceID="0x4CF987CD" TextString="Toilet rẻ tiền của bạn để lại một ít nước bắn ngược không mong muốn." />
+    <TextStringDefinition InstanceID="0x17092022" TextString="Vừa khóc" />
+    <TextStringDefinition InstanceID="0xF31A55F3" TextString="Đôi khi chẳng có gì như một trận khóc thật to trong buồng vệ sinh để giúp {0.SimFirstName} vượt qua ngày." />
+    <TextStringDefinition InstanceID="0x744CAC23" TextString="Đã dùng bide" />
+    <TextStringDefinition InstanceID="0x661479EC" TextString="Cái bide đó khiến {0.SimFirstName} cảm thấy sạch sẽ, tươi mới và bất ngờ hạnh phúc." />
+    <TextStringDefinition InstanceID="0x286DF363" TextString="Bạn cùng phòng tắm" />
+    <TextStringDefinition InstanceID="0xB52D362C" TextString="Thật ấm áp khi {0.SimFirstName} vừa trò chuyện tâm tình với Sim đang khổ sở {M0.he}{F0.she} tìm thấy trong buồng vệ sinh. {0.SimFirstName} giống như một loại nhà trị liệu phòng tắm." />
+    <TextStringDefinition InstanceID="0x6119655D" TextString="Cầu trượt đáng sợ" />
+    <TextStringDefinition InstanceID="0x59CCABE2" TextString="Quá nhanh, QUÁ NHANH! Cầu trượt đó đáng sợ!" />
+    <TextStringDefinition InstanceID="0x2E00CDEB" TextString="Cầu trượt vui!" />
+    <TextStringDefinition InstanceID="0xB5330EA4" TextString="Ôi trời! Trượt xuống siêu tốc!" />
+    <TextStringDefinition InstanceID="0xF9EFD6F1" TextString="Chơi đùa trong tuyết" />
+    <TextStringDefinition InstanceID="0xACFDFACE" TextString="Chơi đùa trong tuyết khơi dậy đứa trẻ bên trong mỗi người, đặc biệt là khi đánh nhau bằng tuyết!" />
+    <TextStringDefinition InstanceID="0x8CB9275A" TextString="Vui chơi trong tuyết" />
+    <TextStringDefinition InstanceID="0x8916C7FB" TextString="Bạn biết người ta thường nói, &quot;Vui chơi trong tuyết còn hơn là không vui chơi!&quot;" />
+    <TextStringDefinition InstanceID="0x5771F19F" TextString="Bị đập vào mặt!" />
+    <TextStringDefinition InstanceID="0xBE63DBF0" TextString="Bị đánh vào mặt đau đấy. Đừng quên nguyên tắc vàng, &quot;Nếu bạn có thể tránh được một cái cờ lê thì bạn có thể tránh được...&quot;" />
+    <TextStringDefinition InstanceID="0x65D0BEB5" TextString="WooHoo ngoài thiên nhiên" />
+    <TextStringDefinition InstanceID="0x9BCAE02A" TextString="Trở nên kích động và bừa bãi." />
+    <TextStringDefinition InstanceID="0x80D321D7" TextString="Khói" />
+    <TextStringDefinition InstanceID="0x3F61AD58" TextString="Lều khá dễ cháy - nằm trong một cái lều đang cháy là không được khuyến nghị." />
+    <TextStringDefinition InstanceID="0x5DAB7BFF" TextString="Gián điệp thành công" />
+    <TextStringDefinition InstanceID="0x5E6087D0" TextString="Hàng xóm làm những việc ngớ ngẩn? Thật buồn cười." />
+    <TextStringDefinition InstanceID="0x4B39CDEB" TextString="Không nên nhìn thấy điều đó" />
+    <TextStringDefinition InstanceID="0xD8160EA4" TextString="Không không không. Đó là nơi sai để chĩa kính viễn vọng." />
+    <TextStringDefinition InstanceID="0xD0815DC8" TextString="Không có gì để xem" />
+    <TextStringDefinition InstanceID="0xD5F3B3DD" TextString="Có một ít cỏ. Có một tảng đá. Có thêm một ít cỏ nữa." />
+    <TextStringDefinition InstanceID="0xF0DE379B" TextString="Đó không vệ sinh." />
+    <TextStringDefinition InstanceID="0x79E7C6F8" TextString="Hòa nhập với động vật" />
+    <TextStringDefinition InstanceID="0x1576212D" TextString="Không có gì như chơi đùa với những con thú bông khổng lồ để làm cho ngày của bạn thêm vui!" />
+    <TextStringDefinition InstanceID="0x098DB44F" TextString="Bạn có một (khổng lồ) người bạn" />
+    <TextStringDefinition InstanceID="0x1E8CB080" TextString="Đôi khi, tất cả những gì cần là một cái ôm với thú bông để làm cho ngày của bạn sáng sủa hơn một chút." />
+    <TextStringDefinition InstanceID="0x6B34A6E1" TextString="Quản lý nhiệt tốt" />
+    <TextStringDefinition InstanceID="0x890D66DE" TextString="Với cảm biến nhiệt trên bếp này, việc giữ thức ăn ở nhiệt độ phù hợp là một miếng bánh!" />
+    <TextStringDefinition InstanceID="0x263765CD" TextString="Nhạc hay" />
+    <TextStringDefinition InstanceID="0x6E64EE32" TextString="Không có gì khiến một Sim vui lên như một chút âm nhạc tuyệt vời!" />

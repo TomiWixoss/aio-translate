@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x2882A812" TextString="Giống chó này thường được mô tả bằng cụm từ Latin multum in parvo, hay &quot;nhiều trong ít&quot; hoặc &quot;nhiều chó trong một không gian nhỏ&quot;, ám chỉ tính cách đáng chú ý và quyến rũ của chó Pug, bất chấp kích thước nhỏ bé." />
+    <TextStringDefinition InstanceID="0x184A0616" TextString="Whippet" />
+    <TextStringDefinition InstanceID="0x0E7E4897" TextString="Những vật trên bàn đang ngăn cản đơn hàng của bạn được giao. Dọn sạch bàn để nhận đơn hàng." />
+    <TextStringDefinition InstanceID="0xD002D419" TextString="Đây là đơn hàng của bạn. Thưởng thức!" />
+    <TextStringDefinition InstanceID="0xB8073BDD" TextString="Đầu bếp của nhà hàng, {0.SimName}, cần được đào tạo thêm để nấu mọi món trên thực đơn một cách tốt. Để tránh những bữa ăn chất lượng thấp, hãy chọn các món ăn và đồ uống có độ khó thấp hơn!" />
+    <TextStringDefinition InstanceID="0x7BD47FC2" TextString="Bạn sẽ biết thêm thông tin nếu xem từ kho đồ của mình." />
+    <TextStringDefinition InstanceID="0xECA0D5F3" TextString="Chưa khám phá." />
+    <TextStringDefinition InstanceID="0x167C75A5" TextString="Lời nguyện của Ảo Ảnh Yến Tiệc&#xA;" />
+    <TextStringDefinition InstanceID="0x0A7C47BB" TextString="Lời nguyện của Ảo Ảnh Đồ Ăn" />
+    <TextStringDefinition InstanceID="0xCDF0AA41" TextString="Lời chúc của Bông Hoa Tường Le" />
+    <TextStringDefinition InstanceID="0xA89F8A95" TextString="Lời nguyện Ngủ của Người Xưa&#xA;" />
+    <TextStringDefinition InstanceID="0xFCDD8509" TextString="Lời chúc của Mối Quan Hệ Mới" />
+    <TextStringDefinition InstanceID="0xEC6236C1" TextString="Lời nguyện của Đám Mây Gây Sốc&#xA;" />
+    <TextStringDefinition InstanceID="0x9C997D93" TextString="Lời chúc của Trợ Lý Xương Khủng Khiếp&#xA;" />
+    <TextStringDefinition InstanceID="0x4D2DABA9" TextString="Biến Hình Xương" />
+    <TextStringDefinition InstanceID="0x102F2E58" TextString="Đánh Dấu Tử Thần Bởi Điện Giật&#xA;" />
+    <TextStringDefinition InstanceID="0xD146A555" TextString="Lời chúc của Của Cải Chung Chung" />
+    <TextStringDefinition InstanceID="0x7F0DFCC4" TextString="Lời chúc của Biến Hình Xương" />
+    <TextStringDefinition InstanceID="0xF6A10D43" TextString="Đánh Dấu Tử Thần Bởi Cháy Nổ&#xA;" />
+    <TextStringDefinition InstanceID="0x845F2131" TextString="Lời chúc của Trợ Lý Xương&#xA;&#xA;" />
+    <TextStringDefinition InstanceID="0x738582B0" TextString="Lời chúc của Quá Nhiều Của Cải&#xA;" />
+    <TextStringDefinition InstanceID="0x73EC1EAF" TextString="Lời chúc của Trợ Lý Xương" />
+    <TextStringDefinition InstanceID="0x8D6EE783" TextString="Lời nguyện của Nhu Cầu Tham Lam" />
+    <TextStringDefinition InstanceID="0xB4C9001A" TextString="Lời nguyện của Ảo Ảnh Đồ Ăn&#xA;" />
+    <TextStringDefinition InstanceID="0xC22C0B14" TextString="Lời nguyện của Nhu Cầu Tùy Tiện&#xA;" />
+    <TextStringDefinition InstanceID="0x92CE6A1D" TextString="Lời nguyện của Đám Mây Cảm Xúc&#xA;" />
+    <TextStringDefinition InstanceID="0x0D3FBFD2" TextString="Lời chúc của Bạn Bè Đông Đúc&#xA;" />
+    <TextStringDefinition InstanceID="0x2852530D" TextString="Lời nguyện của Nhu Cầu Teo Tóp&#xA;" />
+    <TextStringDefinition InstanceID="0x4C544AD9" TextString="Lời nguyện Hét của Người Xưa&#xA;" />
+    <TextStringDefinition InstanceID="0x32BA486B" TextString="Đánh Dấu Tử Thần Bởi Độc&#xA;" />
+    <TextStringDefinition InstanceID="0x7DADA890" TextString="Biến Hình Xương Dài Hạn&#xA;" />
+    <TextStringDefinition InstanceID="0xBBF8C06E" TextString="Lời nguyện của Nhu Cầu Uể Oải&#xA;" />
+    <TextStringDefinition InstanceID="0xBF052E47" TextString="Lời chúc của Của Cải" />
+    <TextStringDefinition InstanceID="0xA2DDFF3F" TextString="Lời chúc của Trợ Lý Xương Quyến Rũ&#xA;&#xA;" />
+    <TextStringDefinition InstanceID="0xDB8C9FE7" TextString="Lời nguyện của Người Xưa" />
+    <TextStringDefinition InstanceID="0x7DDD8C42" TextString="Đánh Dấu Tử Thần" />
+    <TextStringDefinition InstanceID="0xCFC3142A" TextString="Lời nguyện của Đám Mây Buồn Bã&#xA;" />
+    <TextStringDefinition InstanceID="0x796AB134" TextString="Lời chúc của Nhiều Của Cải&#xA;" />
+    <TextStringDefinition InstanceID="0x71FD7B3D" TextString="Biến Hình Xương Ngắn Hạn&#xA;" />
+    <TextStringDefinition InstanceID="0xC774CD47" TextString="Lời nguyện Hắt Hơi của Người Xưa&#xA;" />
+    <TextStringDefinition InstanceID="0x0CB0FB09" TextString="Lời chúc của Bướm Xã Hội&#xA;" />
+    <TextStringDefinition InstanceID="0x9B467B30" TextString="Lời nguyện của Ảo Ảnh Bánh Kếp&#xA;" />
+    <TextStringDefinition InstanceID="0x8F9BECE3" TextString="Lời nguyện của Đám Mây Mưa Cá Nhân" />
+    <TextStringDefinition InstanceID="0xA54EFAD2" TextString="Sự Hài Lòng Chưa Biết" />
+    <TextStringDefinition InstanceID="0x07A4684E" TextString="Sự hài lòng Lãng mạn của Sim này chưa biết. Điều này có thể được biết bằng cách &quot;Hỏi về Sự hài lòng Lãng mạn&quot; được tìm thấy trong danh mục menu pie &quot;Mối quan hệ&quot; bên dưới tiểu mục &quot;Tìm hiểu thêm&quot;." />
+    <TextStringDefinition InstanceID="0x04477F45" TextString="Sự Tương Thích Tuyệt Vời" />
+    <TextStringDefinition InstanceID="0xDE8F7C75" TextString="Giống như hai mảnh hoàn hảo của một câu đố, những Sim này cực kỳ hợp nhau! Dựa trên Sở thích và Không thích của họ, họ có &lt;b&gt;mức độ tương thích xã hội cao nhất&lt;/b&gt;. Xây dựng một tình bạn mạnh mẽ giữa hai Sim này sẽ mất ít công sức hơn bình thường." />
+    <TextStringDefinition InstanceID="0xD3239A75" TextString="Sự Tương Thích Tốt" />
+    <TextStringDefinition InstanceID="0xB155DE85" TextString="Này, không tệ! Dựa trên Sở thích và Không thích của họ, những Sim này có &lt;b&gt;sự tương thích xã hội khá tốt&lt;/b&gt;. Họ có thể không trở thành bạn thân ngay lập tức, nhưng chắc chắn việc hòa hợp với nhau sẽ không phải là một thử thách." />
+    <TextStringDefinition InstanceID="0x3BFACAD6" TextString="Sự Tương Thích Tệ" />

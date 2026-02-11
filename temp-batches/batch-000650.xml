@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xAC3091D3" TextString="Đạt được Cấp độ 2 Tranh vẽ" />
+    <TextStringDefinition InstanceID="0x4CE89B61" TextString="{0.SimFirstName} giờ đây có thể Thảo luận Lý thuyết Màu sắc với các Sim khác." />
+    <TextStringDefinition InstanceID="0x7F2B2578" TextString="\n{0.SimPronounSubjective|xxUpper} cũng có thể Huấn luyện người khác về Tranh vẽ." />
+    <TextStringDefinition InstanceID="0x8F4DB5A5" TextString="Đạt được Cấp độ 3 Tranh vẽ" />
+    <TextStringDefinition InstanceID="0x9E750227" TextString="{0.SimFirstName} giờ đây có thể tạo ra Nghệ thuật Dân gian (Pop Art) cấp độ thấp." />
+    <TextStringDefinition InstanceID="0xF5EACEF9" TextString="Đạt được Cấp độ 9 Tranh vẽ" />
+    <TextStringDefinition InstanceID="0x9B2B7F8B" TextString="{0.SimFirstName} giờ đây có thể tạo ra tranh Siêu thực (Surrealism) và tranh Ấn tượng (Impressionistic) cấp độ cao." />
+    <TextStringDefinition InstanceID="0x33728715" TextString="Đạt được Cấp độ 7 Tranh vẽ" />
+    <TextStringDefinition InstanceID="0x46AC1E20" TextString="Đạt được Cấp độ 8 Tranh vẽ" />
+    <TextStringDefinition InstanceID="0xD7109FC6" TextString="{0.SimFirstName} giờ đây có thể tạo ra tranh Chân thực (Realism) và tranh Trừu tượng (Abstract) cấp độ cao. {M0.He}{F0.She} cũng có thể Mô tả Thẩm mỹ trong cuộc trò chuyện với các Sim khác. " />
+    <TextStringDefinition InstanceID="0xBA9D8424" TextString="Đạt được Cấp độ 4 Tranh vẽ" />
+    <TextStringDefinition InstanceID="0xE3E80755" TextString="{0.SimFirstName} giờ đây có thể tạo ra Nghệ thuật Dân gian (Pop Art) cấp độ cao, Siêu thực (Surrealism) cấp độ trung bình và Ấn tượng (Impressionistic) cấp độ trung bình." />
+    <TextStringDefinition InstanceID="0xBCD29D97" TextString="{0.SimFirstName} giờ đây có thể tạo ra tranh Chân thực (Realism) cấp độ thấp, tranh Trừu tượng (Abstract) cấp độ thấp và tranh Cổ điển (Classic) cấp độ trung bình." />
+    <TextStringDefinition InstanceID="0xA036A502" TextString="{0.SimFirstName} giờ đây là một Nghệ sĩ Bậc thầy." />
+    <TextStringDefinition InstanceID="0xDAE743E9" TextString="Đã có được kỹ năng Tranh vẽ" />
+    <TextStringDefinition InstanceID="0x7E6A543B" TextString="Kỹ năng Tranh vẽ mới của {0.SimFirstName} sẽ cho phép {0.SimPronounObjective} tạo ra những tác phẩm nghệ thuật canvas đẹp mắt. Cấp độ kỹ năng càng cao, {M0.he}{F0.she} càng có thể vẽ những hình dạng phức tạp hơn.&#xD;&#xA;" />
+    <TextStringDefinition InstanceID="0x5034ECE6" TextString="Đạt được Cấp độ 10 Tranh vẽ" />
+    <TextStringDefinition InstanceID="0x0B572825" TextString="Đạt được Cấp độ 6 Tranh vẽ" />
+    <TextStringDefinition InstanceID="0x096B90A7" TextString="{0.SimFirstName} giờ đây có thể tạo ra tranh Cổ điển (Classic) cấp độ cao, tranh Chân thực (Realism) cấp độ trung bình và tranh Trừu tượng (Abstract) cấp độ trung bình." />
+    <TextStringDefinition InstanceID="0x517053A9" TextString="Đạt được Cấp độ 5 Tranh vẽ" />
+    <TextStringDefinition InstanceID="0x68FFD8FB" TextString="{0.SimFirstName} giờ đây có thể tạo ra Nghệ thuật Dân gian (Pop Art) cấp độ trung bình, Siêu thực (Surrealism) cấp độ thấp và Ấn tượng (Impressionistic) cấp độ thấp." />
+    <TextStringDefinition InstanceID="0x8198B090" TextString="Các Sim hướng đến Sự phá hoại thường là những quỷ sứ xảo quyệt, thích thú với việc lừa gạt, chơi khăm và chế giễu các Sim khác. Cuộc sống là một bữa tiệc, và một Sim phá hoại sẽ đến để phá rối.\n\nSự phá hoại chủ yếu gắn liền với tương tác xã hội và búp bê Voodoo. Tăng kỹ năng này sẽ mở khóa các Tương tác Xã hội Phá hoại mới trên Sim cũng như các Tương tác Phá hoại trên Búp bê Voodoo, Máy tính, Máy tính bảng và Điện thoại.\n\nSự phá hoại có thể được huấn luyện ở Cấp độ kỹ năng 5 từ Máy tính hoặc Máy tính bảng." />
+    <TextStringDefinition InstanceID="0x56F8FFEB" TextString="Đạt được Cấp độ 2 Sự phá hoại" />
+    <TextStringDefinition InstanceID="0x4BE0C6B9" TextString="{0.SimFirstName} giờ đây có thể sử dụng các tương tác Claim to be Criminal Mastermind và Instill With False Confidence. " />
+    <TextStringDefinition InstanceID="0x516B66DF" TextString="{0.SimFirstName} giờ đây có thể thực hiện Noxious Cloud lên các Sim khác. Sau khi trưởng thành thành Thiếu niên, {0.SimPronounSubjective} cũng sẽ có thể Clog Drain trên bồn rửa và bồn tắm." />
+    <TextStringDefinition InstanceID="0xA5DF2B8E" TextString="\n{0.SimPronounSubjective|xxUpper} cũng có thể Huấn luyện người khác về Sự phá hoại." />
+    <TextStringDefinition InstanceID="0xF2BDE835" TextString="Đạt được Cấp độ 9 Sự phá hoại" />
+    <TextStringDefinition InstanceID="0x4B9C15F7" TextString="{0.SimFirstName} giờ đây có thể thực hiện Slap 'Em Silly lên các Sim khác." />
+    <TextStringDefinition InstanceID="0xD11A44CD" TextString="Sau khi trưởng thành thành Thiếu niên, {0.SimFirstName} sẽ có thể thực hiện Slap 'Em Silly lên các Sim khác." />
+    <TextStringDefinition InstanceID="0xC8AA69E4" TextString="Đạt được Cấp độ 6 Sự phá hoại" />
+    <TextStringDefinition InstanceID="0x7A96D32A" TextString="{0.SimFirstName} giờ đây có thể sử dụng Điện thoại để Play Hooky." />
+    <TextStringDefinition InstanceID="0xA1622BBA" TextString="Đạt được Cấp độ 8 Sự phá hoại" />
+    <TextStringDefinition InstanceID="0x744CF3DC" TextString="{0.SimFirstName} giờ đây có thể sử dụng Máy tính để Gửi Yêu cầu Tiền Spam và có thể Nhét Trái cây vào Ống xả của Tàu vũ trụ." />
+    <TextStringDefinition InstanceID="0x8B158280" TextString="Đạt được Cấp độ 10 Sự phá hoại" />
+    <TextStringDefinition InstanceID="0xCADFA2A6" TextString="{0.SimFirstName} giờ đây có thể thực hiện Air Horn lên các Sim khác. " />
+    <TextStringDefinition InstanceID="0x1E8E0C29" TextString="{0.SimFirstName} giờ đây có thể sử dụng Máy tính để Gửi Yêu cầu Tiền Spam.  Sau khi trưởng thành thành Thiếu niên, {0.SimPronounSubjective} cũng sẽ có thể Nhét Trái cây vào Ống xả của Tàu vũ trụ." />
+    <TextStringDefinition InstanceID="0x152D515F" TextString="Đạt được Cấp độ 3 Sự phá hoại" />
+    <TextStringDefinition InstanceID="0x65DB6B1D" TextString="{0.SimFirstName} có thể Hỏi Ngày dự sinh trên các Sim không mang thai và Thách thức Sim đi khỏa thân. {M0.He}{F0.She} giờ đây có thể Đá Đổ Thùng rác, thực hiện Cuộc gọi chế giễu, Giẫm trong Vũng nước và Mua Búp bê Voodoo trên Máy tính. Ngoài ra, {M0.he}{F0.she} cũng có thể Càm Búp bê Voodoo." />
+    <TextStringDefinition InstanceID="0x6D47C7B8" TextString="Sau khi trưởng thành thành Thiếu niên, kỹ năng phá hoại mới của {0.SimFirstName} sẽ cho phép {0.SimPronounObjective} thực hiện Trick with Handbuzzer và một số tương tác xã hội phá hoại khác. Khi cấp độ kỹ năng tăng lên, các tương tác phá hoại mới sẽ được mở khóa." />
+    <TextStringDefinition InstanceID="0x920F2931" TextString="Đã có được kỹ năng Sự phá hoại" />
+    <TextStringDefinition InstanceID="0xB0F081A3" TextString="Kỹ năng phá hoại mới của {0.SimFirstName} sẽ cho phép {0.SimPronounObjective} lừa gạt người khác bằng một cái chuông tay. Khi cấp độ kỹ năng tăng lên, các tương tác phá hoại mới sẽ được mở khóa." />
+    <TextStringDefinition InstanceID="0xE665A587" TextString="Đạt được Cấp độ 7 Sự phá hoại" />
+    <TextStringDefinition InstanceID="0x7A8F3885" TextString="{0.SimFirstName} giờ đây có thể Mô tả Apocalypse cho các Sim khác. " />
+    <TextStringDefinition InstanceID="0x54FF335B" TextString="Sau khi trưởng thành thành Thiếu niên, {0.SimFirstName} sẽ có thể sử dụng Điện thoại để Play Hooky." />
+    <TextStringDefinition InstanceID="0xE9F0471C" TextString="Đạt được Cấp độ 5 Sự phá hoại" />
+    <TextStringDefinition InstanceID="0xC16B5802" TextString="{0.SimFirstName} giờ đây có thể thực hiện Noxious Cloud lên các Sim khác. {M0.He}{F0.She} cũng có thể Clog Drain trên bồn rửa và bồn tắm." />
+    <TextStringDefinition InstanceID="0xFFC10F49" TextString="Đạt được Cấp độ 4 Sự phá hoại" />
+    <TextStringDefinition InstanceID="0x0B19F91B" TextString="{0.SimFirstName} giờ đây có thể Chia sẻ Lý thuyết Âm mưu với các Sim khác. {M0.He}{F0.She} cũng có thể sử dụng Máy tính để Gửi Thư chuỗi hoặc Đài quan sát để Gián điều Hàng xóm.\n \n{0.SimFirstName} cũng có thể trở thành Đồng phạm tội với các Sim khác." />
+    <TextStringDefinition InstanceID="0x5AA9FBC0" TextString="{0.SimFirstName} có thể Giẫm trong Vũng nước. Sau khi trưởng thành thành Thiếu niên, {0.SimPronounObjective} sẽ có thể Hỏi Ngày dự sinh trên các Sim không mang thai và Thách thức Sim đi khỏa thân, Đá Đổ Thùng rác, thực hiện Cuộc gọi chế giễu, và Mua Búp bê Voodoo trên Máy tính. Ngoài ra, {0.SimPronounObjective} sẽ có thể Càm Búp bê Voodoo." />
+    <TextStringDefinition InstanceID="0x62B3C2EC" TextString="Một tư duy đã rèn luyện có thể là một điều tuyệt vời, và các Sim tập trung vào Logic muốn mài giũa tư duy của họ cho đến khi sắc bén hơn sừng của một con Llamacorn.\n\nLogic được xây dựng dựa trên Bàn cờ vua, Kính viễn vọng, Kính hiển vi và Bàn khoa học (Chỉ dành cho Trẻ em). Tăng kỹ năng này sẽ mở khóa các Tương tác mới trên Kính hiển vi, Đài quan sát và các Đồ sưu tập khác nhau.\n\nLogic có thể được huấn luyện ở Cấp độ kỹ năng 5 từ Bàn cờ vua, Kính viễn vọng nhỏ, Kính hiển vi hoặc Bàn khoa học." />

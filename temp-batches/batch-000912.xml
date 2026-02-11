@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x46E14358" TextString="Ghế ăn" />
+    <TextStringDefinition InstanceID="0x85C988AD" TextString="Phòng ăn" />
+    <TextStringDefinition InstanceID="0xE4AD7DEF" TextString="Thám tử" />
+    <TextStringDefinition InstanceID="0x50D54DD8" TextString="Tráng miệng" />
+    <TextStringDefinition InstanceID="0xAF1F65B1" TextString="Hình dán" />
+    <TextStringDefinition InstanceID="0xB61AF3DC" TextString="Cái chết" />
+    <TextStringDefinition InstanceID="0x68AF0CD0" TextString="Rèm" />
+    <TextStringDefinition InstanceID="0x4E217F0E" TextString="Tủ" />
+    <TextStringDefinition InstanceID="0x1668422E" TextString="Cốc" />
+    <TextStringDefinition InstanceID="0x1AA92657" TextString="Ẩm thực" />
+    <TextStringDefinition InstanceID="0x82204411" TextString="Khối" />
+    <TextStringDefinition InstanceID="0x7B984A31" TextString="Tội phạm" />
+    <TextStringDefinition InstanceID="0xC06B53D6" TextString="Thùng" />
+    <TextStringDefinition InstanceID="0x12BF5C58" TextString="Thủ công" />
+    <TextStringDefinition InstanceID="0x8D1DD63C" TextString="Ghế sofa" />
+    <TextStringDefinition InstanceID="0x1C684BA4" TextString="Giường xếp" />
+    <TextStringDefinition InstanceID="0x6A5020F0" TextString="Tủ lạnh mini" />
+    <TextStringDefinition InstanceID="0x6B52091A" TextString="Nấu ăn" />
+    <TextStringDefinition InstanceID="0x772F3DC6" TextString="Đầu bếp" />
+    <TextStringDefinition InstanceID="0xD16B9D7F" TextString="Bê tông" />
+    <TextStringDefinition InstanceID="0x0899A1A9" TextString="Máy tính" />
+    <TextStringDefinition InstanceID="0x7032A27F" TextString="Hài kịch" />
+    <TextStringDefinition InstanceID="0x98FAF072" TextString="Máy pha cà phê" />
+    <TextStringDefinition InstanceID="0x82F4B0CE" TextString="Cà phê" />
+    <TextStringDefinition InstanceID="0xFB131A82" TextString="Quần áo" />
+    <TextStringDefinition InstanceID="0x64888296" TextString="Tủ quần áo" />
+    <TextStringDefinition InstanceID="0x59375D41" TextString="Đất sét" />
+    <TextStringDefinition InstanceID="0xCDB07452" TextString="Giáng sinh" />
+    <TextStringDefinition InstanceID="0x4A358047" TextString="Ống khói" />
+    <TextStringDefinition InstanceID="0x8CC5F809" TextString="Loại móng này yêu cầu một phòng." />
+    <TextStringDefinition InstanceID="0xB1ED1303" TextString="Không thể sử dụng Móng Chân Cột cho Hồ bơi." />
+    <TextStringDefinition InstanceID="0xE0F48482" TextString="Móng phải cao hơn tầng hầm" />
+    <TextStringDefinition InstanceID="0x016DF6C9" TextString="Chiều cao móng là số âm." />
+    <TextStringDefinition InstanceID="0xA53D2A43" TextString="Phải hoàn toàn trên hoặc dưới mực nước." />
+    <TextStringDefinition InstanceID="0xA4C9DEAC" TextString="Diện tích đặt chân giao với địa hình." />
+    <TextStringDefinition InstanceID="0xE4DA8607" TextString="Đối tượng giao với sàn hoặc trần." />
+    <TextStringDefinition InstanceID="0xBD8BA739" TextString="Phải đặt trên sàn." />
+    <TextStringDefinition InstanceID="0x05F8DE0B" TextString="Họa tiết sàn giao với đối tượng cao phía dưới." />
+    <TextStringDefinition InstanceID="0xE62D8F9F" TextString="Phải đặt trên địa hình hoặc sàn." />
+    <TextStringDefinition InstanceID="0x8FCBEF90" TextString="Độ lệch chiều cao sàn ngoài phạm vi" />
+    <TextStringDefinition InstanceID="0xA0CC88E3" TextString="Độ lệch chiều cao sàn xung đột với khối phía dưới" />
+    <TextStringDefinition InstanceID="0x78BC7F97" TextString="Chiều cao tường cố định không hợp lệ cho tầng" />
+    <TextStringDefinition InstanceID="0xF6D09587" TextString="Có quá nhiều đối tượng thuộc về hộ gia đình này." />
+    <TextStringDefinition InstanceID="0xB144CEA0" TextString="Đã có quá nhiều đối tượng trên lô đất." />
+    <TextStringDefinition InstanceID="0x385448C0" TextString="Phải đặt trên hàng rào thấp hơn." />
+    <TextStringDefinition InstanceID="0x7988B8BF" TextString="Không thể cập nhật quỹ." />
+    <TextStringDefinition InstanceID="0xA90376EC" TextString="Không thể giải quyết di chuyển mặt phẳng" />
+    <TextStringDefinition InstanceID="0xD4CDF200" TextString="Không thể giải quyết khối từ đa giác" />
+    <TextStringDefinition InstanceID="0xBAA7808D" TextString="Không thể tải đối tượng lô đất." />
+    <TextStringDefinition InstanceID="0x52987FEB" TextString="Không thể tải dữ liệu lô đất." />

@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x690D9413" TextString="Cơ sở dữ liệu của cơ quan hiện đang lập chỉ mục lại bộ nhớ đệm. Vui lòng chờ." />
+    <TextStringDefinition InstanceID="0x4FF445BF" TextString="Tìm kiếm trên internet - công cụ tốt nhất của Đặc vụ Mật" />
+    <TextStringDefinition InstanceID="0x1DD62210" TextString="Theo dõi trên Internet" />
+    <TextStringDefinition InstanceID="0x88F78C08" TextString="Tìm hiểu tất cả tính cách của ai đó mà không cần bắt chuyện!" />
+    <TextStringDefinition InstanceID="0x716F95B9" TextString="Trò chuyện với {2.SimName}" />
+    <TextStringDefinition InstanceID="0xA6EA2D07" TextString="Gửi Thư Chuỗi Đến" />
+    <TextStringDefinition InstanceID="0x21FB52AF" TextString="Trả Hóa Đơn" />
+    <TextStringDefinition InstanceID="0x55EC24FC" TextString="Trả Hóa Đơn và Tiền Thuê" />
+    <TextStringDefinition InstanceID="0x6F6C9CF1" TextString="Bạn không thể Di Chuyển Hộ Gia Đình khi đang đi làm." />
+    <TextStringDefinition InstanceID="0x193E17C5" TextString="Một phí phá hợp đồng, do di chuyển ngoài Thời Gian Miễn Phí, cùng với bất kỳ tiền thuê nào còn nợ sẽ được tính." />
+    <TextStringDefinition InstanceID="0x06497868" TextString="Một phí phá hợp đồng sẽ được áp dụng nếu di chuyển ngoài Thời Gian Miễn Phí." />
+    <TextStringDefinition InstanceID="0xF4C4586E" TextString="Kết Nối" />
+    <TextStringDefinition InstanceID="0xE5531BE2" TextString="Kết nối trực tuyến có thể giúp cải thiện Hiệu Suất Công Việc!" />
+    <TextStringDefinition InstanceID="0xF56EB409" TextString="Mọi Người Trừ Hộ Gia Đình" />
+    <TextStringDefinition InstanceID="0x8D2E1AB5" TextString="Mọi Người Trừ Nhân Viên" />
+    <TextStringDefinition InstanceID="0xF1366F42" TextString="Mọi Người Trừ Người Quản Gia" />
+    <TextStringDefinition InstanceID="0x0118742D" TextString="Mọi Người Trừ {0.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x7B918A20" TextString="Mọi Người" />
+    <TextStringDefinition InstanceID="0x90B2E8DB" TextString="Phát Trực Tiếp Sims Mãi Mãi" />
+    <TextStringDefinition InstanceID="0x3A55553A" TextString="Phát Trực Tiếp Đối Thủ Đường Alpha" />
+    <TextStringDefinition InstanceID="0x84AD733E" TextString="Phát Trực Tiếp The R.E.F.U.G.E." />
+    <TextStringDefinition InstanceID="0x596A60B7" TextString="Phát Trực Tiếp MySims Go!" />
+    <TextStringDefinition InstanceID="0xBE8260DE" TextString="Phát Trực Tiếp Thể Thao Đáng Ngạc Nhiên" />
+    <TextStringDefinition InstanceID="0x8BDD4CD6" TextString="Phát Trực Tiếp Hillock II" />
+    <TextStringDefinition InstanceID="0x9E1CB5B9" TextString="Phát Trực Tiếp Blicblock" />
+    <TextStringDefinition InstanceID="0xE79E7AC4" TextString="Chơi game giỏi. Kiếm fan. Kiếm tiền!" />
+    <TextStringDefinition InstanceID="0x722FDABE" TextString="{0.SimFirstName} đã kết thúc buổi phát trực tiếp. {M0.Anh ấy}{F0.Cô ấy} đã kiếm được {1.Money} và bây giờ có {2.Number} {S2.fan}{P2.fans}!" />
+    <TextStringDefinition InstanceID="0x9E5E9966" TextString="Nghe Space WooHoo" />
+    <TextStringDefinition InstanceID="0x324DD264" TextString="Điều này sẽ cho phép Sim loại bỏ một Lối Sống đang hoạt động." />
+    <TextStringDefinition InstanceID="0xE3B9DF31" TextString="Bạn không thể Tìm Công Việc khi đang đi làm." />
+    <TextStringDefinition InstanceID="0x8FA5C60D" TextString="Điều Tra {0.SimName}" />
+    <TextStringDefinition InstanceID="0x7D61229F" TextString="Có nhiều lợi thế khi là Đặc vụ Mật. Tìm hiểu về người khác mà không cần nói chuyện với họ là một trong số đó!" />
+    <TextStringDefinition InstanceID="0x5477ECF7" TextString="Theo dõi trên Internet {0.SimName}" />
+    <TextStringDefinition InstanceID="0xC0C667FD" TextString="Có cách nào tốt hơn để tìm hiểu về ai đó ngoài việc nói chuyện với họ? Tìm kiếm họ trên Internet!" />
+    <TextStringDefinition InstanceID="0xFE1AE569" TextString="Nghiên Cứu Trí Thông Minh" />
+    <TextStringDefinition InstanceID="0xB2DFA0FB" TextString="Không có nghiên cứu nào đáng giá hơn để làm cho đến khi {0.SimName} đi làm lại." />
+    <TextStringDefinition InstanceID="0xD6331323" TextString="Làm thêm nghiên cứu ở nhà là một cách tuyệt vời để thăng tiến sự nghiệp!" />
+    <TextStringDefinition InstanceID="0x921D0528" TextString="Mainframe" />
+    <TextStringDefinition InstanceID="0xCCC8B116" TextString="Uplink đã thiết lập! Cuộc hack đã thành công." />
+    <TextStringDefinition InstanceID="0x7F895634" TextString="Kết nối đã bị ngắt khi một vết theo dấu bắt đầu. Có lẽ lần sau." />
+    <TextStringDefinition InstanceID="0x19961FBA" TextString="Một uplink đến mainframe hiện đang hoạt động." />
+    <TextStringDefinition InstanceID="0xF803ED49" TextString="Viết Bản Quảng Cáo" />
+    <TextStringDefinition InstanceID="0x34654F8A" TextString="Tiếp Tục Viết Bản Quảng Cáo" />
+    <TextStringDefinition InstanceID="0x11DD807A" TextString="Chỉnh Sửa Tài Liệu" />
+    <TextStringDefinition InstanceID="0x799F0D85" TextString="Tiếp Tục Chỉnh Sửa Tài Liệu" />
+    <TextStringDefinition InstanceID="0x60D6B2ED" TextString="Tiếp Tục Tạo Báo Cáo" />
+    <TextStringDefinition InstanceID="0xABA56B9E" TextString="Viết Bài Clickbait" />
+    <TextStringDefinition InstanceID="0x73782AB7" TextString="Tiếp Tục Viết Bài Clickbait" />
+    <TextStringDefinition InstanceID="0xC60A3291" TextString="Overclock" />
+    <TextStringDefinition InstanceID="0xD75E8194" TextString="Máy tính này đã được overclock rồi." />

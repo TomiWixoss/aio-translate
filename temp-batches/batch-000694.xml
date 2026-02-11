@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x6B9B5B83" TextString="Để tăng kỹ năng Viết, hãy viết sách trên Máy tính hoặc đọc Sách Kỹ năng Viết. Sách Kỹ năng có thể được mua trực tiếp từ Kệ sách bằng tương tác Mua Sách!" />
+    <TextStringDefinition InstanceID="0x380CBA14" TextString="Nhấp vào Máy tính và chọn thể loại sách để viết trong danh mục Viết. Di chuột qua một cuốn sách để kiểm tra chất lượng của nó." />
+    <TextStringDefinition InstanceID="0x363CF30B" TextString="Nhấp vào Máy tính và chọn thể loại sách để viết trong danh mục Viết. Khi sách hoàn thành, nhấp vào Hộp thư để Xuất bản!" />
+    <TextStringDefinition InstanceID="0x4F9648CA" TextString="Để tăng kỹ năng Viết, hãy viết sách trên Máy tính hoặc đọc Sách Kỹ năng Viết. Sách Kỹ năng có thể được mua trực tiếp từ Kệ sách bằng tương tác Mua Sách!" />
+    <TextStringDefinition InstanceID="0x14DD1913" TextString="Nhấp vào Máy tính và chọn thể loại sách để viết trong danh mục Viết. Di chuột qua một cuốn sách để kiểm tra chất lượng của nó." />
+    <TextStringDefinition InstanceID="0x9E87357C" TextString="Nhấp vào Máy tính và chọn thể loại sách để viết trong danh mục Viết. Máy tính có thể được mua từ Chế độ Xây dựng trong Sắp xếp Phòng học." />
+    <TextStringDefinition InstanceID="0x91903041" TextString="Nhấp vào Máy tính và chọn thể loại sách để viết trong danh mục Viết. Để trở nên Cảm hứng, hãy tắm Suy tư, Đọc sách, hoặc làm việc Sáng tạo." />
+    <TextStringDefinition InstanceID="0xD3890C28" TextString="Viết trong {1.Number} Giờ khi Cảm hứng" />
+    <TextStringDefinition InstanceID="0xD962B4F0" TextString="Nhấp vào Máy tính và chọn thể loại sách để viết trong danh mục Viết. Sim có thể mở khóa nhiều thể loại hơn bằng cách tăng Kỹ năng Viết của họ." />
+    <TextStringDefinition InstanceID="0x5055E071" TextString="Nhấp vào Bảng vẽ, sau đó chọn Phong cách tranh và Kích thước. Di chuột qua một bức tranh để kiểm tra chất lượng của nó." />
+    <TextStringDefinition InstanceID="0xCA980CAC" TextString="Để tăng kỹ năng Vẽ, hãy tạo tranh trên Bảng vẽ hoặc đọc Sách Kỹ năng Vẽ. Sách Kỹ năng có thể được mua trực tiếp từ Kệ sách bằng tương tác Mua Sách!" />
+    <TextStringDefinition InstanceID="0x872911C4" TextString="Nhấp vào Bảng vẽ, sau đó chọn Phong cách tranh và Kích thước. Di chuột qua một bức tranh để kiểm tra chất lượng của nó." />
+    <TextStringDefinition InstanceID="0x2C2CF139" TextString="Đi đến Địa điểm Bảo tàng bằng Bản đồ Thế giới, sau đó nhấp vào các bức tranh để Xem chúng." />
+    <TextStringDefinition InstanceID="0x8A1F494C" TextString="Xem hoặc Ngắm {1.Number} Bức tranh tại Bảo tàng" />
+    <TextStringDefinition InstanceID="0x689452BC" TextString="Sim có thể tạo các bức tranh đặc biệt khi ở trong một số trạng thái cảm xúc nhất định. Nhấp vào Bảng vẽ và chọn Tranh Cảm xúc để bắt đầu." />
+    <TextStringDefinition InstanceID="0x2DCE3A53" TextString="Nhấp vào một bức Tranh đã hoàn thành để Sim của bạn bán nó." />
+    <TextStringDefinition InstanceID="0x103FA172" TextString="Để tăng kỹ năng Vẽ, hãy tạo tranh trên Bảng vẽ hoặc đọc Sách Kỹ năng Vẽ. Sách Kỹ năng có thể được mua trực tiếp từ Kệ sách bằng tương tác Mua Sách!" />
+    <TextStringDefinition InstanceID="0x7FA80D5D" TextString="Đạt Cấp {1.Number} Kỹ năng Vẽ" />
+    <TextStringDefinition InstanceID="0x63488B96" TextString="Nhấp vào Bảng vẽ, sau đó chọn Phong cách tranh và Kích thước. Để trở nên Cảm hứng, hãy tắm Suy tư, Đọc sách, hoặc làm việc Sáng tạo." />
+    <TextStringDefinition InstanceID="0xA534CCB7" TextString="Nhấp vào Bảng vẽ, sau đó chọn Phong cách tranh và Kích thước. Bảng vẽ có thể được mua từ Chế độ Xây dựng trong Sắp xếp Phòng học." />
+    <TextStringDefinition InstanceID="0x1F23555A" TextString="Đạt Cấp 10 Kỹ năng Xã hội" />
+    <TextStringDefinition InstanceID="0xCD71AE85" TextString="Trở thành Bạn thân (BFF)" />
+    <TextStringDefinition InstanceID="0xDAB39303" TextString="Đạt Cấp 5 Kỹ năng Xã hội" />
+    <TextStringDefinition InstanceID="0xCADB8775" TextString="Trở thành Bạn" />
+    <TextStringDefinition InstanceID="0x9B2D0182" TextString="Gặp gỡ {1.Number} Sim mới" />
+    <TextStringDefinition InstanceID="0x7AF7C909" TextString="Để tăng kỹ năng Xã hội, hãy trò chuyện với Đồ chơi hoặc các Sim khác." />
+    <TextStringDefinition InstanceID="0xFAEE879A" TextString="Nhấp vào một Sim trưởng thành và thực hiện Tương tác Thân thiện hoặc Hài hước để tăng Mối quan hệ!" />
+    <TextStringDefinition InstanceID="0x7B0ECE19" TextString="Trở thành Bạn với {1.Number} Người lớn" />
+    <TextStringDefinition InstanceID="0x62A6E19B" TextString="Nhấp vào một Sim trẻ em và thực hiện Tương tác Thân thiện hoặc Hài hước để tăng Mối quan hệ!" />
+    <TextStringDefinition InstanceID="0x2DE20752" TextString="Trở thành Bạn với {1.Number} Trẻ em khác" />
+    <TextStringDefinition InstanceID="0xE398CF12" TextString="Nhấp vào một Sim và thực hiện Tương tác Thân thiện hoặc Hài hước để tăng Mối quan hệ!" />
+    <TextStringDefinition InstanceID="0xE65E7BDC" TextString="Để tăng kỹ năng Xã hội, hãy trò chuyện với các Sim khác hoặc Đồ chơi." />
+    <TextStringDefinition InstanceID="0x80B65428" TextString="Nhấp vào một Sim và thực hiện Tương tác Thân thiện hoặc Hài hước để tăng Mối quan hệ!" />
+    <TextStringDefinition InstanceID="0x9E5232BD" TextString="Nhấp vào các Sim chưa biết và chọn Giới thiệu!" />
+    <TextStringDefinition InstanceID="0x367DA4B3" TextString="Đạt Điểm cao trong Trò chơi Gõ phím" />
+    <TextStringDefinition InstanceID="0x8075085C" TextString="Vượt qua Cầu khỉ {1.Number} Lần" />
+    <TextStringDefinition InstanceID="0xCC51A3CD" TextString="Thực hành Gõ phím {1.Number} Giờ" />
+    <TextStringDefinition InstanceID="0x125F34EA" TextString="Chơi trên Cầu khỉ khi Đang vui vẻ" />
+    <TextStringDefinition InstanceID="0x696D9491" TextString="Để tăng kỹ năng Vận động, hãy để chúng Thực hành Gõ phím trên Máy tính hoặc Chơi trên Cầu khỉ." />
+    <TextStringDefinition InstanceID="0x5F7D8102" TextString="Nhấp vào Máy tính và chọn chơi Keyboard Commander cho đến khi đạt điểm cao." />
+    <TextStringDefinition InstanceID="0x389890E3" TextString="Nhấp vào Cầu khỉ và chọn tương tác Chơi. Cầu khỉ có thể được mua từ Chế độ Xây dựng trong Sắp xếp Ngoài trời." />
+    <TextStringDefinition InstanceID="0x41160E5A" TextString="Nhấp vào Máy tính để Thực hành Gõ phím." />
+    <TextStringDefinition InstanceID="0x05182B64" TextString="Để tăng kỹ năng Vận động, hãy Thực hành Gõ phím trên Máy tính hoặc Chơi trên Cầu khỉ." />
+    <TextStringDefinition InstanceID="0x957DADAF" TextString="Đạt Cấp {1.Number} Kỹ năng Vận động" />
+    <TextStringDefinition InstanceID="0x67B5CA25" TextString="Đối tượng Cầu khỉ có thể được mua từ Chế độ Xây dựng trong Sắp xếp Ngoài trời." />
+    <TextStringDefinition InstanceID="0xAB27128C" TextString="Đạt Cấp 10 Kỹ năng Tinh thần" />
+    <TextStringDefinition InstanceID="0x76E0CC72" TextString="Đạt Điểm 'A' tại Trường học" />
+    <TextStringDefinition InstanceID="0x3B7F11CF" TextString="Hoàn thành Bài tập về nhà {1.Number} Lần khi Tập trung" />
+    <TextStringDefinition InstanceID="0x6BCC3241" TextString="Đạt Cấp 5 Kỹ năng Tinh thần" />
+    <TextStringDefinition InstanceID="0xF1A46EFB" TextString="Chơi {1.Number} Ván Cờ" />

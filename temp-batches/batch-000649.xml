@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xE232B12F" TextString="Xấu xí" />
+    <TextStringDefinition InstanceID="0xB030ED7D" TextString="Hoàng gia" />
+    <TextStringDefinition InstanceID="0xEEC386CB" TextString="Queen Anne" />
+    <TextStringDefinition InstanceID="0xC1F03007" TextString="Galeri Đôi" />
+    <TextStringDefinition InstanceID="0xF2E0703B" TextString="Sân hiên" />
+    <TextStringDefinition InstanceID="0xB33FDF2D" TextString="Hiện đại" />
+    <TextStringDefinition InstanceID="0xB61EE322" TextString="Mission" />
+    <TextStringDefinition InstanceID="0xC69401B7" TextString="Giữa thế kỷ" />
+    <TextStringDefinition InstanceID="0x2C1D3A6C" TextString="Sang trọng" />
+    <TextStringDefinition InstanceID="0x10B2E4BF" TextString="Đảo" />
+    <TextStringDefinition InstanceID="0x38CE7091" TextString="Công nghiệp" />
+    <TextStringDefinition InstanceID="0xD0153387" TextString="Ngày lễ" />
+    <TextStringDefinition InstanceID="0xB79EE323" TextString="Nhà trang trại" />
+    <TextStringDefinition InstanceID="0xAB6347B0" TextString="Cơ bản" />
+    <TextStringDefinition InstanceID="0x289F7F77" TextString="Vườn" />
+    <TextStringDefinition InstanceID="0x5240BB87" TextString="Pháp quê" />
+    <TextStringDefinition InstanceID="0x0265D2FF" TextString="Sự kiện" />
+    <TextStringDefinition InstanceID="0xD1DE5FA5" TextString="Dễ thương" />
+    <TextStringDefinition InstanceID="0xE66CFD46" TextString="Đạt được Cấp độ Nhiếp ảnh 2" />
+    <TextStringDefinition InstanceID="0x0E3EDC58" TextString="Đừng quên những bức tựa chân! Khuôn mặt của {0.SimFirstName} là một tác phẩm nghệ thuật và những bức ảnh chụp bằng điện thoại của {M0.his}{F0.her} sẽ giúp tăng cấp độ kỹ năng Nhiếp ảnh của {M0.his}{F0.her}." />
+    <TextStringDefinition InstanceID="0x3B9810AB" TextString="Đạt được Cấp độ Nhiếp ảnh 5" />
+    <TextStringDefinition InstanceID="0x83D48979" TextString="{0.SimFirstName} đã thực sự làm chủ nghề Nhiếp ảnh của {M0.his}{F0.her}. Có lẽ {M0.he}{F0.she} nên mở một phòng trưng bày ảnh để chia sẻ (và bán) tác phẩm nghệ thuật của {M0.his}{F0.her} với các Sim khác!" />
+    <TextStringDefinition InstanceID="0x4F320E71" TextString="Đạt được Cấp độ Nhiếp ảnh 3" />
+    <TextStringDefinition InstanceID="0x2429A7E3" TextString="Chất lượng máy ảnh của {0.SimFirstName} rất quan trọng! Các máy ảnh rẻ hơn rất tốt để học hỏi nhưng chi thêm vài Simoleons sẽ mua được máy ảnh có thể phóng to và chụp ảnh lớn hơn." />
+    <TextStringDefinition InstanceID="0xB44D59C7" TextString="Sau khi lên tuổi teen, {0.SimFirstName} sẽ có thể kiếm thêm Simoleons bằng cách chụp ảnh các Sim khác bằng In a Flash Photo Studio." />
+    <TextStringDefinition InstanceID="0xCDEA18CC" TextString="Đã học được kỹ năng Nhiếp ảnh" />
+    <TextStringDefinition InstanceID="0xBFE25AF2" TextString="Kỹ năng Nhiếp ảnh mới của {0.SimFirstName} sẽ cho phép {0.SimPronounObjective} ghi lại thế giới xung quanh {0.SimPronounObjective} thông qua những tác phẩm nghệ thuật động. Con đường tạo ra những kiệt tác nhiếp ảnh mất một chút thời gian nhưng cấp độ kỹ năng càng cao thì {0.SimFirstName} càng chụp được những bức ảnh tốt hơn." />
+    <TextStringDefinition InstanceID="0xC79D933C" TextString="Giấy tạo hình" />
+    <TextStringDefinition InstanceID="0xD0B6ACC8" TextString="Nghệ thuật tạo ra các vật thể và thiết kế hai hoặc ba chiều bằng giấy. Các tác phẩm được tạo ra bằng nhiều cách, có thể bao gồm cắt, gấp, uốn, khâu, lớp, hoặc dán. Các Sim có thể tặng các tác phẩm giấy tạo hình của mình cho các Sim khác hoặc tự hào trưng bày chúng trong nhà.\n\nKỹ năng này có thể phát triển bằng Bộ dụng cụ Giấy tạo hình. Tăng cấp độ kỹ năng này sẽ mở khóa các tác phẩm giấy và màu giấy mới.\n\nGiấy tạo hình có thể được hướng dẫn ở cấp độ kỹ năng 5 từ Bộ dụng cụ Giấy tạo hình." />
+    <TextStringDefinition InstanceID="0xD023C613" TextString="Đạt được Cấp độ Giấy tạo hình 2" />
+    <TextStringDefinition InstanceID="0x947689A1" TextString="{0.SimFirstName} giờ đây có thể Tạo:\n• Cây Giấy bồi\n• Thêm Màu giấy cho Bướm Gấp giấy\n• Thêm Động vật Kỳ quặc Giấy bồi" />
+    <TextStringDefinition InstanceID="0x4B847815" TextString="Đạt được Cấp độ Giấy tạo hình 5" />
+    <TextStringDefinition InstanceID="0xDB5DD857" TextString="{0.SimFirstName} giờ đây có thể Tạo:\n• Động vật Giấy bồi (Tốt hơn)\n• Thêm Màu giấy cho Ếch Gấp giấy" />
+    <TextStringDefinition InstanceID="0x06C94229" TextString="Đạt được Cấp độ Giấy tạo hình 7" />
+    <TextStringDefinition InstanceID="0x7302837B" TextString="{0.SimFirstName} giờ đây có thể Tạo: \n• Hạc Gấp giấy\n• Thêm Màu giấy cho Lạc đà Gấp giấy\n• Thêm Động vật Giấy bồi (Tốt hơn)" />
+    <TextStringDefinition InstanceID="0xC5911A5D" TextString="Đạt được Cấp độ Giấy tạo hình 9" />
+    <TextStringDefinition InstanceID="0xC2B9F63F" TextString="{0.SimFirstName} giờ đây có thể Tạo:\n• Đầu Động vật Giấy bồi Treo tường\n• Thêm Màu giấy cho Hạc Gấp giấy\n• Thêm Màu giấy cho Sứa Gấp giấy" />
+    <TextStringDefinition InstanceID="0x26EC23DC" TextString="Đạt được Cấp độ Giấy tạo hình 10" />
+    <TextStringDefinition InstanceID="0x0A11D6C2" TextString="{0.SimFirstName} đã trở thành bậc thầy Giấy tạo hình! {0.SimPronounSubjective|xxUpper} giờ đây có thể Tạo: \n• Động vật Giấy bồi Hoàn toàn Thực tế\n• Thêm Lựa chọn Giấy cho Sứa Gấp giấy\n• Thêm Đầu Động vật Giấy bồi Treo tường" />
+    <TextStringDefinition InstanceID="0x0BFE50A8" TextString="Đạt được Cấp độ Giấy tạo hình 8" />
+    <TextStringDefinition InstanceID="0xE690174E" TextString="{0.SimFirstName} giờ đây có thể Tạo: \n• Sứa Gấp giấy\n• Thêm Màu giấy cho Hạc Gấp giấy\n• Thêm Màu giấy cho Lạc đà Gấp giấy" />
+    <TextStringDefinition InstanceID="0x658C800F" TextString="Đạt được Cấp độ Giấy tạo hình 4" />
+    <TextStringDefinition InstanceID="0xDCCB034D" TextString="{0.SimFirstName} giờ đây có thể Tạo:\n• Thêm Cây Giấy bồi\n• Ếch Gấp giấy" />
+    <TextStringDefinition InstanceID="0xB37036A9" TextString="Đã học được kỹ năng Giấy tạo hình" />
+    <TextStringDefinition InstanceID="0x046643FB" TextString="Kỹ năng Giấy tạo hình mới của {0.SimFirstName} sẽ cho phép {0.SimPronounObjective} xây dựng các vật thể và thiết kế hai hoặc ba chiều bằng giấy. Cấp độ kỹ năng càng cao, {0.SimPronounSubjective} càng mở khóa được nhiều tác phẩm giấy và màu giấy hơn." />
+    <TextStringDefinition InstanceID="0x8AEC8E0F" TextString="Đạt được Cấp độ Giấy tạo hình 6" />
+    <TextStringDefinition InstanceID="0x811CE14D" TextString="{0.SimFirstName} giờ đây có thể Tạo:\n• Lạc đà Gấp giấy\n• Thêm Màu giấy cho Ếch Gấp giấy\n• Thêm Động vật Giấy bồi (Tốt hơn)" />
+    <TextStringDefinition InstanceID="0xBB108B56" TextString="Đạt được Cấp độ Giấy tạo hình 3" />
+    <TextStringDefinition InstanceID="0x6469E6E8" TextString="{0.SimFirstName} giờ đây có thể Tạo:\n• Thêm Màu giấy cho Bướm Gấp giấy\n• Thêm Động vật Kỳ quặc Giấy bồi\n• Thêm Cây Giấy bồi" />
+    <TextStringDefinition InstanceID="0x8180DF08" TextString="Nghệ thuật cầm cọ lên canvas và tạo ra thứ có thể gợi lên phản ứng cảm xúc không dễ dàng. Đối với những Sim khám phá Kỹ năng Vẽ tranh, những tác phẩm đầy màu sắc—và có lẽ một số doanh số lớn—đang chờ đón họ trong tương lai.\n\nVẽ tranh chủ yếu gắn liền với Căn vẽ và Bảng phác thảo kỹ thuật số. Tăng cấp độ kỹ năng này sẽ mở khóa các Thể loại và Kích thước Vẽ tranh mới!\n\nVẽ tranh có thể được hướng dẫn ở cấp độ kỹ năng 5 từ Căn vẽ, Bảng phác thảo kỹ thuật số, hoặc Bức tường (&lt;i&gt;City Living&lt;/i&gt;)." />

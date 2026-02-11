@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xAB0611EA" TextString="Xây dựng Bàn ăn Gỗ Tái chế" />
+    <TextStringDefinition InstanceID="0xD5EB4F9C" TextString="Mài nhọn các cạnh đó! Đạt đến cấp độ 3 của kỹ năng Thủ công, sau đó chọn Bàn Gỗ và chọn Chế tác Ghế ăn Gỗ Tái chế.\n\nChọn để tìm hiểu thêm." />
+    <TextStringDefinition InstanceID="0xA4151DFC" TextString="Chế tác Hai Chiếc Ghế ăn Gỗ Tái chế" />
+    <TextStringDefinition InstanceID="0x2A9A6A19" TextString="Thiên nhiên đang gọi! Mở Điện thoại và chọn Du lịch để tìm một công viên để tham quan.\n\nChọn để tìm hiểu thêm." />
+    <TextStringDefinition InstanceID="0x88B07177" TextString="Tham quan Bất kỳ Công viên Nào" />
+    <TextStringDefinition InstanceID="0xBF8291F1" TextString="Một con chó là người bạn tốt nhất của Sim. Tương tác với Chó của Sim và chọn Đi dạo hoặc Hỏi đi Vệ sinh.\n\n&lt;i&gt;Mục tiêu &lt;b&gt;tùy chọn&lt;/b&gt; này yêu cầu &lt;b&gt;Gói mở rộng Mèo &amp; Chó&lt;/b&gt; để hoàn thành.&lt;/i&gt;\n\nChọn để tìm hiểu thêm." />
+    <TextStringDefinition InstanceID="0xA854027F" TextString="Đưa Chó đi Dạo hoặc Hỏi Chúng đi Vệ sinh" />
+    <TextStringDefinition InstanceID="0x742DD3B4" TextString="Một tiếng gầm sâu vang lên từ mặt đất—&lt;i&gt;Hãy cẩn thận, vì cát có che giấu nhiều hơn vẻ đẹp. Một số bí mật tốt hơn nên để yên. Hãy tiến thận trọng, kẻo bạn làm phiền thứ nằm bên dưới.&lt;/i&gt;" />
+    <TextStringDefinition InstanceID="0xDF356B3F" TextString="Có gì đó về chiếc cây đó là... khác biệt. Chọn Cây Kỳ bí và chọn Xem.\n\nChọn để tìm hiểu thêm." />
+    <TextStringDefinition InstanceID="0x2F26FD15" TextString="Xem Cây Kỳ bí" />
+    <TextStringDefinition InstanceID="0xABC80017" TextString="Loại cuộc gọi khác từ thiên nhiên. Chọn Ngai Gỗ và chọn Dùng Phòng tắm.\n\nChọn để tìm hiểu thêm." />
+    <TextStringDefinition InstanceID="0x2671F07D" TextString="Dùng Ngai Gỗ" />
+    <TextStringDefinition InstanceID="0xADB34754" TextString="Một giọng nói sâu, vang vọng dường như vang lên từ chính trái đất—&lt;i&gt;Hãy bước thận trọng, vì một số bí mật được chôn sâu có lý do. Con đường phía trước có thể dẫn đến những hậu quả không lường trước. Hãy lắng nghe lời cảnh báo của vùng đất.&lt;/i&gt;" />
+    <TextStringDefinition InstanceID="0xA3D9B682" TextString="Có lẽ câu trả lời nằm ở các vì sao? Chọn kính viễn vọng và chọn Tìm kiếm Dấu hiệu.\n\nChọn để tìm hiểu thêm." />
+    <TextStringDefinition InstanceID="0xBE19D15A" TextString="Dùng Kính viễn vọng để Tìm kiếm Dấu hiệu" />
+    <TextStringDefinition InstanceID="0xEB90ED4F" TextString="Đã đến lúc ghi lại những phát hiện của bạn! Mở menu Điện thoại và chọn Máy ảnh để chụp ảnh Hang động Bị lãng quên.\n\nChọn để tìm hiểu thêm." />
+    <TextStringDefinition InstanceID="0x4D2978E5" TextString="Chụp Ảnh trong Hang động" />
+    <TextStringDefinition InstanceID="0x88E79974" TextString="Nhận phần thưởng Đồ bơi Lá Dòng chảy từ sự kiện Thiên nhiên Đang Gọi, mặc nó cho bộ Đồ bơi của Sim. Sau đó chọn bồn tắm nước nóng và chọn Vào.\n\nChọn để tìm hiểu thêm." />
+    <TextStringDefinition InstanceID="0xD6660F64" TextString="Ngâm mình trong Bồn tắm Nước nóng Sử dụng Đồ bơi Lá Dòng chảy" />
+    <TextStringDefinition InstanceID="0x564C42E0" TextString="Chọn Trung tâm Đua ngựa và chọn Xem Cuộc thi\n\n&lt;i&gt;Mục tiêu &lt;b&gt;tùy chọn&lt;/b&gt; này yêu cầu &lt;b&gt;Gói mở rộng Trang trại Ngựa&lt;/b&gt; để hoàn thành.&lt;/i&gt;\n\nChọn để tìm hiểu thêm." />
+    <TextStringDefinition InstanceID="0x1654F548" TextString="Xem Các Cuộc thi tại Trung tâm Đua ngựa" />
+    <TextStringDefinition InstanceID="0xF9813D7E" TextString="Cần mang thiên nhiên vào trong nhà? Ngủ cùng với đài phát thanh Âm thanh Thiên nhiên trong cùng một phòng\n\nMua một Máy hát từ Chế độ Xây dựng và bật đài phát thanh Âm thanh Thiên nhiên, sau đó đi ngủ.\n\nChọn để tìm hiểu thêm." />
+    <TextStringDefinition InstanceID="0x18F68D3E" TextString="Ngủ cùng với Đài phát thanh Âm thanh Thiên nhiên trong Cùng một Phòng" />
+    <TextStringDefinition InstanceID="0x5E9ABF65" TextString="Thưởng thức một đêm dưới các vì sao. Chọn Lều và chọn Ngủ.\n\nChọn để tìm hiểu thêm." />
+    <TextStringDefinition InstanceID="0x5891DC4B" TextString="Ngủ trong Lều" />
+    <TextStringDefinition InstanceID="0x54C6D9AF" TextString="Chọn Chăn Lãng mạn và chọn Dựng Picnic.\n\n&lt;i&gt;Mục tiêu &lt;b&gt;tùy chọn&lt;/b&gt; này yêu cầu &lt;b&gt;Gói mở rộng Điên đảo Lãng mạn&lt;/b&gt; để hoàn thành.&lt;/i&gt;\n\nChọn để tìm hiểu thêm." />
+    <TextStringDefinition InstanceID="0x715ED3C5" TextString="Dựng Picnic trên Chăn Lãng mạn" />
+    <TextStringDefinition InstanceID="0x2F8615CC" TextString="Đậu... trong một khúc gỗ? Chọn Khúc gỗ Cây PlantSim Ma thuật và chọn Trồng Đậu Ma thuật.\n\nChọn để tìm hiểu thêm." />
+    <TextStringDefinition InstanceID="0xAB64EDAC" TextString="Đặt Đậu Ma thuật vào Khúc gỗ" />
+    <TextStringDefinition InstanceID="0x929C1FDC" TextString="Bạn nghe thấy một tiếng thì thầm trong gió...\n&lt;i&gt;Cảm ơn bạn vì đã lắng nghe, tôi là một linh hồn bị mắc kẹt trong gió, tìm cách lấy lại hình dạng thực sự. Sự hòa hợp của bạn với thiên nhiên đang giúp tôi lấy lại sức mạnh. Xin hãy tiếp tục giúp đỡ tôi, và cùng nhau chúng ta sẽ khôi phục những gì đã mất.&lt;/i&gt;" />
+    <TextStringDefinition InstanceID="0x16A3C3AA" TextString="Hãy để thiên nhiên nói chuyện với bạn. Chọn Ghế dài Công viên và chọn Lắng nghe Gió.\n\nChọn để tìm hiểu thêm." />
+    <TextStringDefinition InstanceID="0xE2EDDFD2" TextString="Lắng nghe Gió trên Ghế dài Công viên" />
+    <TextStringDefinition InstanceID="0x7A70AC67" TextString="Một thứ gì đó từ vực sâu thì thầm những bí mật của nó trên cánh gió. Du lịch đến Công viên Hoa Sa mạc, tìm một hang động ẩn ở phía bắc, và chọn và tương tác với nó để khám phá.\n\nChọn để tìm hiểu thêm." />
+    <TextStringDefinition InstanceID="0x33BF57CD" TextString="Điều tra Hang động" />
+    <TextStringDefinition InstanceID="0xF8146D00" TextString="Hãy để một Sim đi chạy bộ để xả stress. Chọn Sim của bạn và chọn tương tác Đi Chạy bộ.\n\nChọn để tìm hiểu thêm." />
+    <TextStringDefinition InstanceID="0xACB28EE8" TextString="Đi Chạy bộ" />
+    <TextStringDefinition InstanceID="0x13820120" TextString="Đã đến lúc thả cần câu! Chọn bất kỳ ao nào và chọn Đi Câu.\n\nChọn để tìm hiểu thêm." />
+    <TextStringDefinition InstanceID="0x61C23F88" TextString="Đi Câu trong Ao" />
+    <TextStringDefinition InstanceID="0xA05B1727" TextString="Hãy để thiên nhiên dẫn dắt tay bạn. Tương tác với Cát, chọn Vẽ và chọn nghệ thuật cát bạn sẽ tạo ra.\n\nChọn để tìm hiểu thêm." />
+    <TextStringDefinition InstanceID="0x6B71728D" TextString="Vẽ trên Cát" />
+    <TextStringDefinition InstanceID="0x8CB896CC" TextString="Tìm kiếm các lô đất ở Vịnh Đúc để đào lên một số viên đá đẹp, lấp lánh! Chọn bất kỳ viên đá nào có tinh thể và chọn Đào.\n\nChọn để tìm hiểu thêm." />
+    <TextStringDefinition InstanceID="0x76AAD0AC" TextString="Đào Lên Một Số Viên đá" />
+    <TextStringDefinition InstanceID="0x7508AA3B" TextString="Đã đến lúc nướng thịt! Chọn Bếp nướng và chọn một công thức để nấu.\n\nChọn để tìm hiểu thêm." />
+    <TextStringDefinition InstanceID="0x2AFE8AC9" TextString="Nấu Ăn trên Bếp nướng" />
+    <TextStringDefinition InstanceID="0x3C277442" TextString="Hãy để Sim dành một khoảnh khắc và chỉ cần ngước lên để cảm nhận tất cả. Chọn Sim của bạn, sau đó chọn Ngắm mây (vào ban ngày) hoặc Ngắm sao (vào ban đêm).\n\nChọn để tìm hiểu thêm." />
+    <TextStringDefinition InstanceID="0x1A60702C" TextString="Nhảy nào! Chọn bất kỳ ao nào hoặc khúc gỗ và chọn Tìm Ếch.\n\nChọn để tìm hiểu thêm." />
+    <TextStringDefinition InstanceID="0x748CAC0C" TextString="Bắt {0.Number} Con Ếch" />
+    <TextStringDefinition InstanceID="0x630314DD" TextString="Chỉ bằng cách trải qua những nguy hiểm trong hang động bạn mới tìm thấy câu trả lời. Nâng cấp kỹ năng Thủ công của Sim lên 10 để tìm thấy Hang động Bị lãng quên.\n\nChọn để tìm hiểu thêm." />
+    <TextStringDefinition InstanceID="0xE8BA64D3" TextString="Phá Hang động Mở và Khám phá Những Bí mật của Chúng" />
+    <TextStringDefinition InstanceID="0x34FE4A91" TextString="Có ai khác nghe thấy không? Giao tiếp xã hội với một Sim và chọn Hỏi về Những Tiếng thì thầm.\n\nChọn để tìm hiểu thêm." />

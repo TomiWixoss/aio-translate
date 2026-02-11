@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x15ADA8AF" TextString="{0.Number}\n/{1.Number}" />
+    <TextStringDefinition InstanceID="0x48AEDB72" TextString="{0.Number}/{1.Number}" />
+    <TextStringDefinition InstanceID="0x92DF6308" TextString="{0.SimFirstName} không có công việc." />
+    <TextStringDefinition InstanceID="0xE644165B" TextString="\n• Thăng chức tiếp theo: {0.String}" />
+    <TextStringDefinition InstanceID="0xFA9C3844" TextString="{0.String}\n{1.String}" />
+    <TextStringDefinition InstanceID="0xF9707F3F" TextString="{0.String}\nBắt đầu sau: {1.Timespan}" />
+    <TextStringDefinition InstanceID="0x07551BA9" TextString="{0.String}\nHạn: {1.TimeShort} {1.DayOfWeekLong}" />
+    <TextStringDefinition InstanceID="0x816B017E" TextString="Nghỉ phép sẵn sàng:\n{0.Number} {S0.week}{P0.weeks}" />
+    <TextStringDefinition InstanceID="0x7E730F4D" TextString="{0.Money}/{1.Money}" />
+    <TextStringDefinition InstanceID="0x4D359D78" TextString="Hủy nhiệm vụ" />
+    <TextStringDefinition InstanceID="0x03AD2EE1" TextString="&lt;font color='#FF0000'&gt;Vắng mặt ở công việc! &lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x544379E7" TextString="&lt;font color='#FF0000'&gt;Vắng mặt ở cuộc họp! &lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xA5C2109A" TextString="&lt;font color='#FF0000'&gt;Vắng mặt ở lớp học! &lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xFE40F66E" TextString="&lt;font color='#FF0000'&gt;Vắng mặt ở trường học! &lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xAE894459" TextString="[&lt;font color='#FF0000'&gt;Vắng mặt ở bài tập!&lt;/font&gt;]" />
+    <TextStringDefinition InstanceID="0x1B9486FE" TextString="Kiểm tra Công việc" />
+    <TextStringDefinition InstanceID="0x373FF92B" TextString="Tìm kiếm Công việc" />
+    <TextStringDefinition InstanceID="0xB64F29EE" TextString="Kiểm tra Thử giọng mở" />
+    <TextStringDefinition InstanceID="0x648FE196" TextString="Tâm trạng lý tưởng:" />
+    <TextStringDefinition InstanceID="0x0A2CEE66" TextString="Tâm trạng lý tưởng: {0.String}" />
+    <TextStringDefinition InstanceID="0x19B4A207" TextString="Yêu cầu thăng chức:" />
+    <TextStringDefinition InstanceID="0x15602EEE" TextString="Yêu cầu thăng tiến:" />
+    <TextStringDefinition InstanceID="0x02A291AC" TextString="Yêu cầu điểm số:" />
+    <TextStringDefinition InstanceID="0xB651D9F7" TextString="Đi đến Lô đất của Khách hàng" />
+    <TextStringDefinition InstanceID="0x80C1371B" TextString="Hạn: {0.TimeShort} {0.DayOfWeekLong}" />
+    <TextStringDefinition InstanceID="0x38F39B72" TextString="Bắt đầu lúc {0.TimeShort} {0.DayOfWeekLong}" />
+    <TextStringDefinition InstanceID="0x8AA98875" TextString="Nhiệm vụ Công việc" />
+    <TextStringDefinition InstanceID="0x93311361" TextString="Bắt đầu {0.TimeShort} {0.DayOfWeekLong}\nKết thúc {1.TimeShort} {1.DayOfWeekLong}" />
+    <TextStringDefinition InstanceID="0x0FCAA0CB" TextString="Tiền thưởng Công việc: {0.Money}" />
+    <TextStringDefinition InstanceID="0x1A33EB88" TextString="Chọn Công việc" />
+    <TextStringDefinition InstanceID="0xD74E224B" TextString="Công việc lẻ: {0.String}" />
+    <TextStringDefinition InstanceID="0x0F6F30B1" TextString="Nhiệm vụ: {0.String}" />
+    <TextStringDefinition InstanceID="0x54E54597" TextString="Công việc: {0.String}" />
+    <TextStringDefinition InstanceID="0x826CF243" TextString="Công việc: {0.String}" />
+    <TextStringDefinition InstanceID="0x1D404D8C" TextString="Công việc: {0.String}" />
+    <TextStringDefinition InstanceID="0xF67D256C" TextString="Nhấp để tìm Công việc cho {0.SimFirstName}." />
+    <TextStringDefinition InstanceID="0x5DFF202F" TextString="Tham gia Sự nghiệp" />
+    <TextStringDefinition InstanceID="0x35577742" TextString="Tự làm chủ" />
+    <TextStringDefinition InstanceID="0x01CFD66D" TextString="Tắt hoặc bật thông báo nhắc bạn theo dõi Sim này đi làm hoặc đi học." />
+    <TextStringDefinition InstanceID="0x0FE8CFC4" TextString="Bật thông báo theo dõi:" />
+    <TextStringDefinition InstanceID="0x6470268E" TextString="Ngày nghỉ!" />
+    <TextStringDefinition InstanceID="0x902DCA62" TextString="Nhiệm vụ hàng ngày:" />
+    <TextStringDefinition InstanceID="0x2D2C1396" TextString="Bài tập trên lớp" />
+    <TextStringDefinition InstanceID="0x3C2AD3B4" TextString="&lt;span class=&quot;money&quot;&gt;{0.Money}&lt;/span&gt; / {1.Money}" />
+    <TextStringDefinition InstanceID="0xF4373756" TextString="Ngân sách Khách hàng:" />
+    <TextStringDefinition InstanceID="0x028F719B" TextString="Không trả lương" />
+    <TextStringDefinition InstanceID="0x7C07CC75" TextString="Doanh nghiệp nhỏ" />
+    <TextStringDefinition InstanceID="0xAFEB50FB" TextString="{0.Money}/giờ" />
+    <TextStringDefinition InstanceID="0x8605D953" TextString="{0.Money}/Ca làm việc" />
+    <TextStringDefinition InstanceID="0x380BC327" TextString="({0.Number})" />

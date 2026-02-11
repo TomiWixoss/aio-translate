@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x1068905E" TextString="Tại sao bạn phải tồi tệ vậy? Đó là bữa tiệc sinh nhật của tôi!" />
+    <TextStringDefinition InstanceID="0xEF802754" TextString="Tăng thanh Tình bạn bằng cách hoàn thành thành công các tương tác xã hội thân thiện và hài hước." />
+    <TextStringDefinition InstanceID="0xD41B3FCA" TextString="Trở thành Bạn bè với một Sim" />
+    <TextStringDefinition InstanceID="0x9948A18D" TextString="Có nhiều cấp độ tình bạn. Tiếp tục giao tiếp với các Sim và thử nghiệm các tùy chọn khác nhau." />
+    <TextStringDefinition InstanceID="0x9BB56993" TextString="Phục vụ quầy bar trong 10 phút" />
+    <TextStringDefinition InstanceID="0x70413F75" TextString="Nướng một chiếc bánh" />
+    <TextStringDefinition InstanceID="0xAD3E87F9" TextString="Bắt đầu cuộc trò chuyện tán tỉnh để có những bước đi phù hợp." />
+    <TextStringDefinition InstanceID="0x8071EB68" TextString="Cố gắng Quyến rũ Người hẹn hò của bạn" />
+    <TextStringDefinition InstanceID="0xCD7B14DE" TextString="Hỏi Ai đó về Ngày của họ" />
+    <TextStringDefinition InstanceID="0x7F6BC397" TextString="Thêm Nến Sinh nhật vào Chiếc bánh" />
+    <TextStringDefinition InstanceID="0x8DD2B260" TextString="Nhấp vào một vật thể và chọn Chiếm hữu." />
+    <TextStringDefinition InstanceID="0x2D39B35F" TextString="Chiếm hữu một Vật thể" />
+    <TextStringDefinition InstanceID="0x739F29D3" TextString="Đặt đồ ăn từ một Quầy ăn." />
+    <TextStringDefinition InstanceID="0xA3341831" TextString="Mua sắm tại một Xe đẩy" />
+    <TextStringDefinition InstanceID="0x5846670A" TextString="Vita Alto" />
+    <TextStringDefinition InstanceID="0xB9A0D91C" TextString="Không xác định" />
+    <TextStringDefinition InstanceID="0x5446EC07" TextString="Simon Crumplebottom" />
+    <TextStringDefinition InstanceID="0x69A9F1D5" TextString="Sef Darong" />
+    <TextStringDefinition InstanceID="0xC33B3F1C" TextString="Rodrigo Thebe" />
+    <TextStringDefinition InstanceID="0x4F367E71" TextString="Rodrigo De Pablo" />
+    <TextStringDefinition InstanceID="0x0EBD962C" TextString="Queen Thebe" />
+    <TextStringDefinition InstanceID="0x79C2CB19" TextString="Prudence Crumplebottom" />
+    <TextStringDefinition InstanceID="0xDDDA7797" TextString="Nick Alto" />
+    <TextStringDefinition InstanceID="0x8C1CFE15" TextString="Lina Darong" />
+    <TextStringDefinition InstanceID="0x3D7AB20B" TextString="Imani Darong" />
+    <TextStringDefinition InstanceID="0x3FC6F4F3" TextString="Eniola Darong" />
+    <TextStringDefinition InstanceID="0xC8CBD607" TextString="Delilah Dreamer" />
+    <TextStringDefinition InstanceID="0x2233BEF9" TextString="Davis Dreamer" />
+    <TextStringDefinition InstanceID="0x173D5AE0" TextString="Darren Dreamer" />
+    <TextStringDefinition InstanceID="0x7CE193F1" TextString="Darleen Dreamer" />
+    <TextStringDefinition InstanceID="0xB1D68B0F" TextString="Cornelia Goth" />
+    <TextStringDefinition InstanceID="0x40D76DDF" TextString="Bert Alto" />
+    <TextStringDefinition InstanceID="0x038685DF" TextString="Ade Darong" />
+    <TextStringDefinition InstanceID="0xBA8070B2" TextString="Dịch vụ Sửa chữa" />
+    <TextStringDefinition InstanceID="0x2669914D" TextString="Một Kỹ thuật viên Sửa chữa đã sửa các vật thể hỏng trong nhà bạn khi bạn vắng mặt. Bạn đã bị tính phí {2.Money}." />
+    <TextStringDefinition InstanceID="0x1CA5A1EA" TextString="Giá" />
+    <TextStringDefinition InstanceID="0xA7E46151" TextString="Người giữ trẻ" />
+    <TextStringDefinition InstanceID="0x88DB4586" TextString="Người vận chuyển thư" />
+    <TextStringDefinition InstanceID="0x9573A662" TextString="Người giúp việc Đã lên lịch" />
+    <TextStringDefinition InstanceID="0xC439AF23" TextString="Người giúp việc Một lần" />
+    <TextStringDefinition InstanceID="0x8CA5C197" TextString="Một người giúp việc đã dọn dẹp nhà bạn khi bạn vắng mặt. Bạn đã bị tính phí {2.Money}." />
+    <TextStringDefinition InstanceID="0xF19F9097" TextString="Người làm vườn Chuyên nghiệp" />
+    <TextStringDefinition InstanceID="0x78BFCF87" TextString="Dịch vụ làm vườn Đã lên lịch" />
+    <TextStringDefinition InstanceID="0x12ED96F0" TextString="Dịch vụ làm vườn Một lần" />
+    <TextStringDefinition InstanceID="0xE25DD6FC" TextString="Một người làm vườn đã chăm sóc cây cối của bạn khi bạn vắng mặt. Bạn đã bị tính phí {2.Money}." />
+    <TextStringDefinition InstanceID="0x2DC7157A" TextString="Giao đồ ăn Zoomers" />
+    <TextStringDefinition InstanceID="0xFF3BA005" TextString="Chọn một Bữa ăn" />
+    <TextStringDefinition InstanceID="0xD71ABCC3" TextString="Phí Giao hàng" />
+    <TextStringDefinition InstanceID="0xBD84C9AC" TextString="Thêm vào mái nhà để có vẻ ngoài thanh lịch và hoàn thiện hơn." />
+    <TextStringDefinition InstanceID="0x78CFF4ED" TextString="Trang trí mái nhà bậc thang" />

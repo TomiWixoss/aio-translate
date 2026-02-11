@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x5831E919" TextString="6 giờ chiều" />
+    <TextStringDefinition InstanceID="0x70C3A02F" TextString="11 giờ đêm" />
+    <TextStringDefinition InstanceID="0xF07DE02A" TextString="8 giờ sáng" />
+    <TextStringDefinition InstanceID="0x846789A5" TextString="7 giờ sáng" />
+    <TextStringDefinition InstanceID="0x4A0764D3" TextString="5 giờ sáng" />
+    <TextStringDefinition InstanceID="0xB2F26272" TextString="3 giờ chiều" />
+    <TextStringDefinition InstanceID="0xAE6D5640" TextString="1 giờ chiều" />
+    <TextStringDefinition InstanceID="0xAF5AE16E" TextString="12 giờ trưa" />
+    <TextStringDefinition InstanceID="0xE4F6ABAD" TextString="9 giờ tối" />
+    <TextStringDefinition InstanceID="0xE8173CBE" TextString="9 giờ sáng" />
+    <TextStringDefinition InstanceID="0x1AAC4C03" TextString="7 giờ tối" />
+    <TextStringDefinition InstanceID="0x642902A1" TextString="6 giờ sáng" />
+    <TextStringDefinition InstanceID="0xF253CD69" TextString="5 giờ chiều" />
+    <TextStringDefinition InstanceID="0x660DFCD0" TextString="4 giờ chiều" />
+    <TextStringDefinition InstanceID="0x35B490FF" TextString="4 giờ đêm" />
+    <TextStringDefinition InstanceID="0xB15AFBC0" TextString="3 giờ đêm" />
+    <TextStringDefinition InstanceID="0xDF1D0EFE" TextString="2 giờ chiều" />
+    <TextStringDefinition InstanceID="0x57CABDED" TextString="2 giờ đêm" />
+    <TextStringDefinition InstanceID="0xC6DBDB86" TextString="1 giờ đêm" />
+    <TextStringDefinition InstanceID="0xC02CF7BE" TextString="12 giờ đêm" />
+    <TextStringDefinition InstanceID="0xCB189F05" TextString="11 giờ sáng" />
+    <TextStringDefinition InstanceID="0x12DEB3E7" TextString="10 giờ tối" />
+    <TextStringDefinition InstanceID="0x48714378" TextString="10 giờ sáng" />
+    <TextStringDefinition InstanceID="0xB7F81DED" TextString="Thực hành cưỡi ngựa" />
+    <TextStringDefinition InstanceID="0x02EFCA42" TextString="Lô đất này không phù hợp với trẻ em và thanh thiếu niên." />
+    <TextStringDefinition InstanceID="0x6B9CCC29" TextString="Lô đất này không phù hợp với trẻ mới biết đi." />
+    <TextStringDefinition InstanceID="0x7E954F82" TextString="Đến quán rượu" />
+    <TextStringDefinition InstanceID="0xC92FAAED" TextString="Dạy đi bộ" />
+    <TextStringDefinition InstanceID="0x86B75139" TextString="Lớn lên!" />
+    <TextStringDefinition InstanceID="0xAF340E09" TextString="Lớn lên" />
+    <TextStringDefinition InstanceID="0x99526FEF" TextString="Lớn lên" />
+    <TextStringDefinition InstanceID="0xC735D56B" TextString="Chọn một công ty" />
+    <TextStringDefinition InstanceID="0xDF87C07D" TextString="Nhỏ lại!" />
+    <TextStringDefinition InstanceID="0xCA90B728" TextString="Đang làm việc" />
+    <TextStringDefinition InstanceID="0x908F134F" TextString="Đến phòng tập gym" />
+    <TextStringDefinition InstanceID="0x7A536060" TextString="{0.SimFirstName} rời khỏi nơi làm việc để đổ mồ hôi một chút và tận hưởng phần thưởng của giờ nghỉ trưa đã được sử dụng hiệu quả. Buổi tập cũng giảm bớt căng thẳng của {0.SimFirstName}, và {M0.anh ấy sẽ}{F0.cô ấy sẽ} thực hiện công việc của {M0.anh ấy}{F0.cô ấy} tốt hơn." />
+    <TextStringDefinition InstanceID="0x7768EE73" TextString="Giờ nghỉ trưa!" />
+    <TextStringDefinition InstanceID="0x1F0AFD81" TextString="{0.SimFirstName} có khoảng 30 phút thời gian rảnh ở giờ nghỉ trưa. {M0.anh ấy}{F0.cô ấy} nên dùng thời gian đó như thế nào?" />
+    <TextStringDefinition InstanceID="0xAA81A832" TextString="(Từ nguy cơ sa thải)" />
+    <TextStringDefinition InstanceID="0x8EEF795E" TextString="(Từ việc nhớ lại một cột mốc)" />
+    <TextStringDefinition InstanceID="0xD88F1131" TextString="Vắng mặt ở công việc?" />
+    <TextStringDefinition InstanceID="0xF8505F6C" TextString="Nhận con nuôi" />
+    <TextStringDefinition InstanceID="0xDA46C818" TextString="Chúc mừng! Gia đình của bạn đã lớn mạnh thêm." />
+    <TextStringDefinition InstanceID="0xD48756AA" TextString="{0.SimLastName}" />
+    <TextStringDefinition InstanceID="0xC20093B2" TextString="{1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xBBDC07BA" TextString="{0.SimName} đang mang một thành viên mới về nhà!" />
+    <TextStringDefinition InstanceID="0x8599FE3D" TextString="Được nhận nuôi" />
+    <TextStringDefinition InstanceID="0xE01FB71B" TextString="Dáng mày cao" />
+    <TextStringDefinition InstanceID="0xAEA71EB4" TextString="Một cửa sổ ngoại ô duyên dáng với “mày” được nhấn mạnh - phổ biến với các gia đình Ý." />
+    <TextStringDefinition InstanceID="0xD1B69F20" TextString="Cửa sổ vọt cơ bản" />

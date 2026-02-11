@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xAE12CC5C" TextString="Cuộc trò chuyện nhàm chán không thể chịu được" />
+    <TextStringDefinition InstanceID="0x24716AE6" TextString="Bây giờ mọi thứ vừa khó chịu vừa nhàm chán. \n\n Đã đến lúc chọn chủ đề trò chuyện mới!" />
+    <TextStringDefinition InstanceID="0xC5101E91" TextString="Trò chuyện hài hước" />
+    <TextStringDefinition InstanceID="0x0E871BB9" TextString="Có vẻ như mọi người đều đang vui vẻ. \n\n Khó mà không cười với mọi thứ!" />
+    <TextStringDefinition InstanceID="0xF39174CB" TextString="Cuộc trò chuyện vui vẻ" />
+    <TextStringDefinition InstanceID="0x065A38E7" TextString="Có vẻ như mọi người đều đang vui vẻ. \n\n Hãy thử kể những câu chuyện cười về việc xây dựng tình bạn lâu dài." />
+    <TextStringDefinition InstanceID="0x5C2944E8" TextString="Cuộc trò chuyện nhàm chán" />
+    <TextStringDefinition InstanceID="0x58A7FE62" TextString="Các Sim không thích nghe đi nghe lại cùng một điều. \n\n Hãy thử trò chuyện về một chủ đề khác." />
+    <TextStringDefinition InstanceID="0x5AFD9D97" TextString="Cuộc trò chuyện xúc phạm" />
+    <TextStringDefinition InstanceID="0xF836DA23" TextString="Ồ không, cuộc trò chuyện này đã trở nên tồi tệ.\n\nHãy thử xin lỗi, hoặc đơn giản là bỏ đi." />
+    <TextStringDefinition InstanceID="0x2C0E6555" TextString="Cuộc trò chuyện này đang diễn ra tốt đẹp.\n\nHãy thử xây dựng một mối quan hệ lâu dài với Sim này!" />
+    <TextStringDefinition InstanceID="0x8307A621" TextString="Cuộc trò chuyện dễ chịu" />
+    <TextStringDefinition InstanceID="0x8117F710" TextString="Cuộc trò chuyện khó chịu" />
+    <TextStringDefinition InstanceID="0xF4EB835A" TextString="Cuộc trò chuyện này đã trở nên khó chịu.\n\nHãy thử xin lỗi, hoặc đơn giản là bỏ đi." />
+    <TextStringDefinition InstanceID="0xF4940F9B" TextString="Cuộc đối đầu đáng ghét" />
+    <TextStringDefinition InstanceID="0xC4CFD557" TextString="Cẩn thận! Cuộc trò chuyện này đã trở nên thực sự xấu xí.\n\nBây giờ sẽ rất khó để hàn gắn mối quan hệ này!" />
+    <TextStringDefinition InstanceID="0xF6AC10BE" TextString="Cuộc thảo luận thông thường" />
+    <TextStringDefinition InstanceID="0xD7BC7E9D" TextString="Chỉ là một cuộc trò chuyện bình thường, lịch sự. \n\n Hãy thử trò chuyện và xem điều gì xảy ra." />
+    <TextStringDefinition InstanceID="0xECEE8565" TextString="Cuộc gặp gỡ rất khó xử" />
+    <TextStringDefinition InstanceID="0xEFE13FCD" TextString="Thật là một cuộc trò chuyện khó chịu khủng khiếp. \n\n Có lẽ nên rời đi một chút!" />
+    <TextStringDefinition InstanceID="0x68483911" TextString="Cuộc gặp gỡ khó xử" />
+    <TextStringDefinition InstanceID="0xE97E5F39" TextString="Ồ không, mọi thứ đã trở nên căng thẳng. \n\n Hãy thử kể một câu chuyện cười, hoặc trò chuyện với Sim khác." />
+    <TextStringDefinition InstanceID="0x1C82C2B3" TextString="Bạn đời WooHoo" />
+    <TextStringDefinition InstanceID="0xAEF67BFF" TextString="{0.SimFirstName} và {1.SimFirstName} đã đồng ý giữ mối quan hệ của họ tập trung vào WooHoo." />
+    <TextStringDefinition InstanceID="0x6B412D02" TextString="Chủ chìa khóa" />
+    <TextStringDefinition InstanceID="0x395A2526" TextString="Được nhận nuôi" />
+    <TextStringDefinition InstanceID="0x5AEDA967" TextString="Được nhận nuôi bởi" />
+    <TextStringDefinition InstanceID="0x5E6BB159" TextString="Trung lập" />
+    <TextStringDefinition InstanceID="0x6481C531" TextString="Không có cảm xúc mạnh mẽ theo một hướng nào cả." />
+    <TextStringDefinition InstanceID="0xE1865949" TextString="{0.SimFirstName} vừa trở nên Trung lập với  {1.SimFirstName}." />
+    <TextStringDefinition InstanceID="0x7CAD326A" TextString="Bạn Social Bunny" />
+    <TextStringDefinition InstanceID="0x35D954B4" TextString="Đồng nghiệp" />
+    <TextStringDefinition InstanceID="0x539DC24A" TextString="Cảm xúc động viên" />
+    <TextStringDefinition InstanceID="0x00F1597F" TextString="Cảm xúc bị tổn thương" />
+    <TextStringDefinition InstanceID="0x9D80B5EA" TextString="Cảm xúc tội lỗi" />
+    <TextStringDefinition InstanceID="0xD2AA29F0" TextString="Cảm xúc ngưỡng mộ" />
+    <TextStringDefinition InstanceID="0x08680C61" TextString="Cũ" />
+    <TextStringDefinition InstanceID="0xE073E6B3" TextString="Mối quan hệ lãng mạn" />
+    <TextStringDefinition InstanceID="0x7FFDD804" TextString="Cảm xúc ngắn hạn" />
+    <TextStringDefinition InstanceID="0x2CF9B539" TextString="Cảm xúc tích cực" />
+    <TextStringDefinition InstanceID="0x22B4173D" TextString="Cảm xúc tiêu cực" />
+    <TextStringDefinition InstanceID="0x5BFA052C" TextString="Cảm xúc lâu dài" />
+    <TextStringDefinition InstanceID="0xB82E85EB" TextString="Cảm xúc điên cuồng" />
+    <TextStringDefinition InstanceID="0xCB8D5697" TextString="Cảm xúc say đắm" />
+    <TextStringDefinition InstanceID="0x497925D4" TextString="Cảm xúc thân thiết" />
+    <TextStringDefinition InstanceID="0x5FBF254E" TextString="Cảm xúc đắng cay" />
+    <TextStringDefinition InstanceID="0x3F3FF8B3" TextString="Thông gia" />
+    <TextStringDefinition InstanceID="0x0AE90C8B" TextString="Thờ ơ" />
+    <TextStringDefinition InstanceID="0xC20E58A7" TextString="Không có cảm xúc mạnh mẽ theo một hướng nào cả." />
+    <TextStringDefinition InstanceID="0x3DDE1AF6" TextString="{0.SimFirstName} vừa trở nên Thờ ơ với {1.SimFirstName}." />

@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xEA3B3B2E" TextString="Người Láng giềng cũng có thể tham gia và nghỉ hưu sự nghiệp, với một số Người Láng giềng lớn tuổi chọn nghỉ hưu. " />
+    <TextStringDefinition InstanceID="0xC80C4AF6" TextString="Người Láng giềng có thể mở rộng gia đình bằng cách mang thai hoặc nhận con nuôi. Nếu Hộ gia đình chính của bạn có quan hệ tốt với Người Láng giềng, họ có thể nhận được cuộc gọi thông báo về thành viên mới trong gia đình." />
+    <TextStringDefinition InstanceID="0x5510518C" TextString="Người Láng giềng thậm chí có thể chết trước tuổi thọ. Dù không may, nhưng tai nạn xảy ra! Bạn có thể muốn thăm gia đình của một Người Láng giềng đã mất để chia sẻ lời chia buồn." />
+    <TextStringDefinition InstanceID="0x023FD91E" TextString="Người Láng giềng có thể chuyển đến hoặc rời khỏi các Lô đất trong thế giới. Lô đất phải được đặt là Cư trú và có đủ giường cho Người Láng giềng ngủ. Xây nhà của riêng bạn hoặc tải nhà từ Thư viện để Người Láng giềng cư trú." />
+    <TextStringDefinition InstanceID="0xF3AB5C5C" TextString="Xã hội" />
+    <TextStringDefinition InstanceID="0x1887A5CC" TextString="Khi cần, gọi một Người Sim hoặc trò chuyện qua máy tính để lấp đầy Nhu cầu Xã hội của Người Sim của bạn một chút." />
+    <TextStringDefinition InstanceID="0x34B31B85" TextString="Mời một Người Sim đến nhà của Người Sim của bạn hoặc di chuyển đến một lô cộng đồng (như phòng tập gym!) để gặp gỡ Người Sim trực tiếp." />
+    <TextStringDefinition InstanceID="0xD04D15D0" TextString="Người Sim cần tương tác giữa Người Sim với Người Sim, nếu không họ sẽ phát điên!" />
+    <TextStringDefinition InstanceID="0x5845E3E6" TextString="Người Sim sẽ tự chăm sóc Nhu cầu Xã hội của họ nếu bạn để họ và họ có thể làm được!" />
+    <TextStringDefinition InstanceID="0xA49C8636" TextString="Vệ sinh" />
+    <TextStringDefinition InstanceID="0x2F391C9A" TextString="Rửa tay qua bồn rửa chỉ là giải pháp tạm thời, nhưng mọi chút đều giúp ích!" />
+    <TextStringDefinition InstanceID="0x11FA7FF3" TextString="Người Sim vệ sinh sẽ hạnh phúc và thành công hơn trong xã hội." />
+    <TextStringDefinition InstanceID="0xDAA4FA46" TextString="Người Sim đôi khi cần được dội nước lên da. Hãy thử tắm hoặc tắm rửa. " />
+    <TextStringDefinition InstanceID="0xFD4B0CC8" TextString="Người Sim sẽ tự chăm sóc Nhu cầu Vệ sinh của họ nếu bạn để họ và họ có thể làm được!" />
+    <TextStringDefinition InstanceID="0x7CF2D890" TextString="Đói" />
+    <TextStringDefinition InstanceID="0x6B6E38D4" TextString="Người Sim dành thời gian nấu một bữa ăn đúng cách không chỉ thưởng thức nó nhiều hơn, mà còn học được trong quá trình đó!" />
+    <TextStringDefinition InstanceID="0xDE8A10F9" TextString="Nếu Người Sim của bạn thiếu thời gian, Hãy Ăn Nhanh từ Tủ lạnh hoặc Lò vi sóng. " />
+    <TextStringDefinition InstanceID="0x66247F53" TextString="Người Sim sẽ tự chăm sóc Nhu cầu Đói của họ nếu bạn để họ và họ có thể làm được!" />
+    <TextStringDefinition InstanceID="0xFB4FE1D4" TextString="Người Sim cần ăn thức ăn vài lần mỗi ngày, nếu không họ có thể chết vì Đói! Ăn đồ ăn nhẹ hoặc chuẩn bị bữa ăn để tăng cường dinh dưỡng." />
+    <TextStringDefinition InstanceID="0xD781C070" TextString="Vui chơi" />
+    <TextStringDefinition InstanceID="0xCB2851F4" TextString="Đồ chơi vui chơi tốt hơn tốn nhiều Simoleon hơn, nhưng rất đáng để đầu tư!" />
+    <TextStringDefinition InstanceID="0x58785E19" TextString="Người Sim có thể vui chơi bằng cách chơi game, đọc sách, xem TV, và nhiều hơn nữa!" />
+    <TextStringDefinition InstanceID="0x443739F3" TextString="Người Sim sẽ tự chăm sóc Nhu cầu Vui chơi của họ nếu bạn để họ và họ có thể làm được!" />
+    <TextStringDefinition InstanceID="0xC2121674" TextString="Người Sim đôi khi cần được giải trí, nếu không họ sẽ chán đến mức chết đi được!" />
+    <TextStringDefinition InstanceID="0x4F28E34D" TextString="Kiểu đi bộ mặc định" />
+    <TextStringDefinition InstanceID="0x47CA1CD6" TextString="Kiểu đi đáng sợ" />
+    <TextStringDefinition InstanceID="0xAE3DBBCE" TextString="Kiểu đi đáng sợ" />
+    <TextStringDefinition InstanceID="0xFF463B48" TextString="Kiểu đi nguy hiểm" />
+    <TextStringDefinition InstanceID="0x3ADDCB09" TextString="Những Người Sim này sẽ chủ động tránh ăn thực phẩm chứa sản phẩm từ thịt và có thể bị ốm nếu ăn những thực phẩm như vậy." />
+    <TextStringDefinition InstanceID="0x56BF689E" TextString="Ăn chay" />
+    <TextStringDefinition InstanceID="0x54F8DDB6" TextString="Ăn chay" />
+    <TextStringDefinition InstanceID="0x2B38146D" TextString="(Từ việc hoàn thành Khát vọng Chủ biệt thự)" />
+    <TextStringDefinition InstanceID="0x4EECE01A" TextString="Người Sim Tiết kiệm nhận được hoàn lại 10% trên tất cả các giao dịch mua sắm Chế độ Xây dựng mỗi tuần. Tiền hoàn lại sẽ được áp dụng trực tiếp vào Quỹ Gia đình." />
+    <TextStringDefinition InstanceID="0xFB3AEEA5" TextString="Tiết kiệm" />
+    <TextStringDefinition InstanceID="0xC8E7BB67" TextString="Tiết kiệm" />
+    <TextStringDefinition InstanceID="0x76F297F1" TextString="(Từ việc sở hữu tất cả Kỹ năng Trẻ nhỏ Cấp 5)" />
+    <TextStringDefinition InstanceID="0x4C6C5656" TextString="{0.SimFirstName} có nền tảng kỹ năng rất vững chắc khi còn là Trẻ nhỏ, khiến họ cải thiện tất cả kỹ năng khác nhanh hơn bình thường." />
+    <TextStringDefinition InstanceID="0x76634A41" TextString="Trẻ nhỏ Đỉnh cao" />
+    <TextStringDefinition InstanceID="0x0E4EA7AB" TextString="Trẻ nhỏ Đỉnh cao" />
+    <TextStringDefinition InstanceID="0x421398E5" TextString="Trẻ nhỏ Đỉnh cao" />
+    <TextStringDefinition InstanceID="0x4899E46C" TextString="Hào hứng và đầy Năng lượng. Những Trẻ nhỏ này thích khám phá và trở nên Đầy năng lượng. Họ học Kỹ năng Vận động nhanh hơn một chút. Họ buồn nếu đã lâu không được ra ngoài." />
+    <TextStringDefinition InstanceID="0x731DE303" TextString="Hoang dã" />
+    <TextStringDefinition InstanceID="0x74B8303D" TextString="Hoang dã" />
+    <TextStringDefinition InstanceID="0x6E64927B" TextString="Vui nhộn và tò mò. Những Trẻ nhỏ này thích kể chuyện cười và trở nên Vui vẻ. Họ học Kỹ năng Trí tưởng tượng nhanh hơn một chút." />
+    <TextStringDefinition InstanceID="0x5B69E124" TextString="Vui nhộn" />
+    <TextStringDefinition InstanceID="0x19D153B4" TextString="Vui nhộn" />
+    <TextStringDefinition InstanceID="0xFA5F7BD6" TextString="Nhà thám hiểm tò mò. Những Trẻ nhỏ này học Kỹ năng Suy nghĩ nhanh hơn một chút. Họ hạnh phúc nhất khi học được điều gì đó, và buồn nếu đã lâu không học được gì." />
+    <TextStringDefinition InstanceID="0xC9D75BC1" TextString="Tò mò" />
+    <TextStringDefinition InstanceID="0x0E92142B" TextString="Tò mò" />
+    <TextStringDefinition InstanceID="0x7DFCC012" TextString="Những Trẻ nhỏ này yêu sự tự do, và không thích nhận lệnh từ người chăm sóc. Họ nhận thêm kỹ năng khi được để một mình, và cần ít Sự chú ý hơn các Trẻ nhỏ khác." />

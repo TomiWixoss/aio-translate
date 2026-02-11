@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x3CED6C44" TextString="(Từ việc bắt cá)" />
+    <TextStringDefinition InstanceID="0x05A08AE0" TextString="(Từ việc bắt cá)" />
+    <TextStringDefinition InstanceID="0x7EB2093B" TextString="(Từ việc bắt cá)" />
+    <TextStringDefinition InstanceID="0xE17DA9CA" TextString="(Từ việc bắt cá)" />
+    <TextStringDefinition InstanceID="0xFA5801CC" TextString="(Từ việc bắt cá)" />
+    <TextStringDefinition InstanceID="0xC61BD931" TextString="(Từ việc uống nước nóng hâm bằng lò vi sóng)" />
+    <TextStringDefinition InstanceID="0x267ED5BB" TextString="Uống thứ này để trở nên Tập trung!" />
+    <TextStringDefinition InstanceID="0xC9595E76" TextString="Uống thứ này sẽ cho phép bạn đặt lại tất cả các Đặc điểm của mình!" />
+    <TextStringDefinition InstanceID="0x15B0EB92" TextString="Được nhận bởi: {0.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x4CAAD755" TextString="{0.ObjectName}" />
+    <TextStringDefinition InstanceID="0x5A6D7699" TextString="(Từ việc đặt hàng Zoomers)" />
+    <TextStringDefinition InstanceID="0x4051D918" TextString="Tinh túy Cuộc sống của {0.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x82109C5F" TextString="Little Simzee" />
+    <TextStringDefinition InstanceID="0xB5962D6A" TextString="{0.ObjectName}" />
+    <TextStringDefinition InstanceID="0x62A83F43" TextString="&lt;b&gt;{0.ObjectName}&lt;/b&gt;" />
+    <TextStringDefinition InstanceID="0x48E725AC" TextString="{0.Timespan} cho đến khi khai thác SimoCoin hoàn thành." />
+    <TextStringDefinition InstanceID="0x31F414A5" TextString="&lt;b&gt;&lt;font color='#199C2C'&gt;Khai thác SimoCoin&lt;/font&gt;&lt;/b&gt;" />
+    <TextStringDefinition InstanceID="0x9C206182" TextString="Khai thác SimoCoin Hoàn thành" />
+    <TextStringDefinition InstanceID="0xAC08EC1D" TextString="Môi trường: 5" />
+    <TextStringDefinition InstanceID="0x8DA394B9" TextString="Môi trường: 4" />
+    <TextStringDefinition InstanceID="0x4B523DFB" TextString="Trang trí Tập trung: 9" />
+    <TextStringDefinition InstanceID="0xF5CDB25C" TextString="Trang trí Tập trung: 6" />
+    <TextStringDefinition InstanceID="0x649CAF65" TextString="Trang trí Tập trung: 4" />
+    <TextStringDefinition InstanceID="0x7EDA64C2" TextString="Trang trí Tập trung: 3" />
+    <TextStringDefinition InstanceID="0xE3C8F1E1" TextString="Utranium hoàn toàn được tạo thành từ Selium." />
+    <TextStringDefinition InstanceID="0x60F36497" TextString="Socialite chứa một lượng lớn Peryllium và một lượng nhỏ Volenton." />
+    <TextStringDefinition InstanceID="0xBD82FBC9" TextString="Simtanium chủ yếu được tạo thành từ Selium và Wolfium, với một lượng nhỏ Plumbobus." />
+    <TextStringDefinition InstanceID="0xAA485684" TextString="Sadnum được tạo thành chủ yếu từ Selium, với một chút cả Plumbobus và Firaxium." />
+    <TextStringDefinition InstanceID="0x8DA912CC" TextString="Romantium có một nửa là Melacoo, phần còn lại là thành phần bằng nhau giữa Peryllium và Plumbobus." />
+    <TextStringDefinition InstanceID="0xD488AD87" TextString="Pyrite được tạo thành từ Phozone và Melacoo, với tỷ lệ khoảng 2 đến 3." />
+    <TextStringDefinition InstanceID="0xFA049924" TextString="Punium hoàn toàn được tạo thành từ Oxypin." />
+    <TextStringDefinition InstanceID="0xA3A80386" TextString="Plathinum chủ yếu được tạo thành từ Goobleck nhưng cũng có một ít Plathium, chính thứ này làm cho nó lấp lánh." />
+    <TextStringDefinition InstanceID="0xDB5FB5D8" TextString="Phozonite hoàn toàn được tạo thành từ Phozone. Thử đoán xem, ha?" />
+    <TextStringDefinition InstanceID="0xE2BDFB61" TextString="Ozinold được tạo thành từ cả Ozinate và Alcineat, với một chút nhiều Ozinate hơn Alcineat." />
+    <TextStringDefinition InstanceID="0x9C332AF6" TextString="Obtainium chủ yếu được tạo thành từ Alcineat, mặc dù nó cũng có một lượng đáng kể Goobleck trộn vào." />
+    <TextStringDefinition InstanceID="0x40F2957B" TextString="Literalite được tạo thành từ các phần bằng nhau của Selium và Volenton, với một lượng nhỏ Crytacoo nữa." />
+    <TextStringDefinition InstanceID="0x4CB17BE5" TextString="Ironyum được tạo thành từ Wolfium và Plathium, với một chút nhiều Wolfium hơn Plathium." />
+    <TextStringDefinition InstanceID="0x820D4A5A" TextString="Heavy Metal chủ yếu bao gồm Phozone, mặc dù nó có một ít Goobleck, thứ này mang lại mùi đặc trưng cho nó." />
+    <TextStringDefinition InstanceID="0x76E8AB8A" TextString="Furium chủ yếu là Firaxium nhưng cũng có gần như lượng Oxypin và Alcineat trong đó." />
+    <TextStringDefinition InstanceID="0x12D332DA" TextString="Flamingonium chủ yếu được tạo thành từ Melacoo nhưng cũng có một tỷ lệ tốt Peryllium trong đó, mang lại sắc hồng của nó." />
+    <TextStringDefinition InstanceID="0x38A5C84F" TextString="Death Metal được tạo thành từ Plathium và Ozinate. Có nhiều Plathium hơn, nhưng không nhiều lắm." />
+    <TextStringDefinition InstanceID="0x13F19288" TextString="Crytunium chủ yếu được tạo thành từ Volenton, nhưng cũng có một lượng đáng kể Crytacoo." />
+    <TextStringDefinition InstanceID="0xF5BDA0D7" TextString="Baconite được tạo thành từ các phần bằng nhau của Sydrolin và Ozinate." />
+    <TextStringDefinition InstanceID="0x83E40247" TextString="Alcron được tạo thành từ các phần bằng nhau của Sydrolin và Selium." />
+    <TextStringDefinition InstanceID="0xD2D0D581" TextString="Môi trường: 2" />
+    <TextStringDefinition InstanceID="0x2B20E8FA" TextString="Đá Hóa Thạch" />
+    <TextStringDefinition InstanceID="0x42CBAB6E" TextString="Một lớp trầm tích cổ đại của đá trầm tích lẫn lộn với các vật liệu kỳ lạ. Có thể cuộc điều tra sâu hơn sẽ tiết lộ điều gì đó đặc biệt." />
+    <TextStringDefinition InstanceID="0xC9B668E7" TextString="Turquoise được tạo thành từ các phần bằng nhau của Oxypin và Alcineat." />
+    <TextStringDefinition InstanceID="0x4142F939" TextString="Khi được lắp vào Vương Miện Pha Lê Thiên Cực, viên pha lê này sẽ xua tan những năng lượng Khó chịu khỏi tâm trí của Sim." />
+    <TextStringDefinition InstanceID="0xA15490B2" TextString="Simanite được tạo thành từ Ozinate và Volenton, với một chút nhiều Ozinate hơn Volenton." />

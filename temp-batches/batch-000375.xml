@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xDC3197D7" TextString="Tham gia một trận đánh nhau" />
+    <TextStringDefinition InstanceID="0x04422E78" TextString="Nhấp vào một cây và chọn Bón phân. Sim có thể mở khóa tương tác này bằng cách tăng Kỹ năng Trồng trọt của họ." />
+    <TextStringDefinition InstanceID="0x5A262AE7" TextString="Bón phân cho Cây" />
+    <TextStringDefinition InstanceID="0xDF961AFF" TextString="Nhấp vào Cây Bò và chọn Cho ăn khi nó đã lớn." />
+    <TextStringDefinition InstanceID="0xD159D25E" TextString="Cho Cây Bò ăn" />
+    <TextStringDefinition InstanceID="0x3978A0D7" TextString="Hoàn thành một trong những mong muốn của Sim của bạn rồi nhấp vào một Sim khác và chọn Thảo luận Nỗi sợ." />
+    <TextStringDefinition InstanceID="0xE909693D" TextString="Thảo luận Nỗi sợ sau khi Đáp ứng Mong muốn" />
+    <TextStringDefinition InstanceID="0x3D4C4888" TextString="Nhấp vào một vùng nước và chọn Bơi trong một giờ. Sim sẽ chỉ bơi khi ở trạng thái Tự tin." />
+    <TextStringDefinition InstanceID="0x0BAE1AC0" TextString="Bơi Tự tin trong Một Giờ" />
+    <TextStringDefinition InstanceID="0xD5DC7D0F" TextString="Nhấp vào bất kỳ đám cháy nào và chọn Dập tắt." />
+    <TextStringDefinition InstanceID="0xF5983DA5" TextString="Dập tắt Đám cháy" />
+    <TextStringDefinition InstanceID="0xC5E109F4" TextString="Nhấp vào một Đối tượng Đã chế tạo và chọn Khoe khoang Công việc. Hoặc, khi đang làm việc. Nhấp vào chân dung Sim của bạn để thay đổi hoạt động vắng mặt thành Yêu cầu Đánh giá Hiệu suất." />
+    <TextStringDefinition InstanceID="0x9EDB90E4" TextString="Được Công nhận vì Công việc" />
+    <TextStringDefinition InstanceID="0xE65119B4" TextString="Có được Hoa Tử thần rồi nhấp vào Tử thần và chọn Tặng Hoa Tử thần." />
+    <TextStringDefinition InstanceID="0xBB3238A4" TextString="Tặng Hoa Tử thần cho Tử thần" />
+    <TextStringDefinition InstanceID="0xC3D7BC89" TextString="Nhấp vào một Ma hay Sim Già và nhấp vào Thảo luận Nỗi sợ dưới Danh mục Thân thiện. Hoặc, có được Hoa Tử thần rồi nhấp vào Tử thần và chọn Tặng Hoa Tử thần." />
+    <TextStringDefinition InstanceID="0x971140A7" TextString="Thảo luận Nỗi sợ Cái chết" />
+    <TextStringDefinition InstanceID="0x6038D165" TextString="Nhấp vào Sim của bạn và chọn Lấy lại Đam mê trước khi đi làm." />
+    <TextStringDefinition InstanceID="0x240ED24B" TextString="Hoàn thành Một Ngày Làm việc Sẵn sàng cho Thử thách Mới" />
+    <TextStringDefinition InstanceID="0x06A5AE03" TextString="Đạt được Tâm trạng Tự tin trong khi Sim của bạn ở bên ngoài trong bóng tối." />
+    <TextStringDefinition InstanceID="0x59C5AEA1" TextString="Cảm thấy Tự tin Bên ngoài Vào Ban đêm" />
+    <TextStringDefinition InstanceID="0x9626D011" TextString="Trò chuyện với 3 Sim khác nhau bằng các Tương tác Hài hước trong khi có moodlet &quot;Quá Nhiều Sim&quot;. Moodlet này được trao cho Sim khi đang ở giữa một đám đông." />
+    <TextStringDefinition InstanceID="0x7A6ECF9F" TextString="Hài hước ở Một Nơi Đông người" />
+    <TextStringDefinition InstanceID="0x4603B3C3" TextString="Nhấp vào Cây Bò và chọn Vắt sữa trong khi ở trạng thái Tự tin." />
+    <TextStringDefinition InstanceID="0xD9AFE161" TextString="Vắt sữa Cây Bò" />
+    <TextStringDefinition InstanceID="0x7F427E2F" TextString="Chọn hai Sim khác nhau và Nhấp vào Tìm ra Sự khác biệt dưới Danh mục Thân thiện." />
+    <TextStringDefinition InstanceID="0xB9C67145" TextString="Tìm ra Sự khác biệt với Các Sim khác" />
+    <TextStringDefinition InstanceID="0xC54921A5" TextString="Chọn {2.SimFirstName} và Nhấp vào Thảo luận Nỗi sợ về Mối quan hệ dưới Danh mục Lãng mạn" />
+    <TextStringDefinition InstanceID="0x33C45D8B" TextString="Thảo luận Nỗi sợ về Mối quan hệ với {2.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x36836157" TextString="Chỉ đạo Sim của bạn Thảo luận Nỗi sợ với một Sim khác. Bạn có thể tìm thấy tương tác này dưới danh mục Thân thiện." />
+    <TextStringDefinition InstanceID="0x6190DABD" TextString="Thảo luận Nỗi sợ Bị trộm" />
+    <TextStringDefinition InstanceID="0x87C8F83B" TextString="Nhấp vào một Sim và chọn Tuyên truyền Bánh mì nướng Phô mai dưới danh mục Thân thiện." />
+    <TextStringDefinition InstanceID="0x61F639B8" TextString="Tuyên truyền Bánh mì nướng Phô mai" />
+    <TextStringDefinition InstanceID="0xB6A1FE98" TextString="Nhấp vào một Sim và chọn Hào hứng về Sở thích từ danh mục Thân thiện. Sim có thể thực hiện Tương tác này trong khi ở trạng thái Năng lượng." />
+    <TextStringDefinition InstanceID="0x3ACB3C47" TextString="Hào hứng về Sở thích với Ai đó" />
+    <TextStringDefinition InstanceID="0x18A87627" TextString="Nhấp vào một Sim và chọn Hào hứng về Niềm vui Trộm cắp dưới danh mục Thân thiện." />
+    <TextStringDefinition InstanceID="0x78DF2F8D" TextString="Hào hứng về Niềm vui Trộm cắp" />
+    <TextStringDefinition InstanceID="0x54404959" TextString="Hào hứng về Một Chương trình Mới" />
+    <TextStringDefinition InstanceID="0x673B2318" TextString="Nhấp vào một Nhạc cụ và chọn Viết Jingle. Sim có thể mở khóa tương tác này bằng cách tiến xa trong Lộ trình Nhạc sĩ của Sự nghiệp Giải trí." />
+    <TextStringDefinition InstanceID="0x20EA841E" TextString="Viết một Jingle" />
+    <TextStringDefinition InstanceID="0x8621AE7B" TextString="Nhấp vào một Sim khác và chọn Thử nghiệm Vật liệu dưới danh mục Hài hước. Sim có thể mở khóa tương tác xã hội này bằng cách tiến xa trong Lộ trình Diễn viên hài của Sự nghiệp Giải trí." />
+    <TextStringDefinition InstanceID="0x9FB519A9" TextString="Thử nghiệm Vật liệu Hài hước" />
+    <TextStringDefinition InstanceID="0xD42C072D" TextString="Nhấp vào một Sim khác và chọn Bắt chước Người nổi tiếng dưới danh mục Hài hước. Sim có thể mở khóa tương tác xã hội này bằng cách tiến xa trong Sự nghiệp Giải trí." />
+    <TextStringDefinition InstanceID="0xFE5DCC7B" TextString="Làm một Bản sao" />
+    <TextStringDefinition InstanceID="0x90191F6A" TextString="Nhấp vào Máy tính và chọn Tham gia Giải đấu Trò chơi dưới danh mục Chơi Game. Sim có thể mở khóa tương tác này bằng cách tăng Kỹ năng Chơi game của họ." />
+    <TextStringDefinition InstanceID="0xEE57F4A9" TextString="Tham gia Một Giải đấu Game" />
+    <TextStringDefinition InstanceID="0x1182C730" TextString="Xúc phạm {2.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x527C216D" TextString="Nhấp vào {2.SimFirstName} và chọn Hét lên từ danh mục Ác." />
+    <TextStringDefinition InstanceID="0x2023097C" TextString="Hét lên với {2.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xFDB97445" TextString="Nhấp vào {2.SimFirstName} và chọn Xúc phạm từ danh mục Ác." />

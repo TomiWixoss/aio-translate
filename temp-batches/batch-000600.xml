@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xB5549FEB" TextString="Sim Được Thuê" />
+    <TextStringDefinition InstanceID="0xE6F15FF2" TextString="Bạn chưa thuê bất kỳ Sim nào!" />
+    <TextStringDefinition InstanceID="0xCC520758" TextString="Chi {0.Money} để Thuê!" />
+    <TextStringDefinition InstanceID="0xC4D5A238" TextString="Không Thể Thuê Vai Trò" />
+    <TextStringDefinition InstanceID="0x4F617D1F" TextString="Bạn cần thêm tiền ({0.Money}) để thuê vai trò này!" />
+    <TextStringDefinition InstanceID="0x387FE749" TextString="Bạn không thể thuê thêm vai trò này!" />
+    <TextStringDefinition InstanceID="0x5F2615B3" TextString="Không thể thêm Sim vì vai trò này đã đầy với người được thuê" />
+    <TextStringDefinition InstanceID="0x3C188637" TextString="Mời Sim" />
+    <TextStringDefinition InstanceID="0x5660A610" TextString="Mời khách ngẫu nhiên từ bất kỳ đâu đến sự kiện này!" />
+    <TextStringDefinition InstanceID="0xD4C4E811" TextString="Sim Được Mời" />
+    <TextStringDefinition InstanceID="0x37A46C74" TextString="Mời tất cả các vai trò yêu cầu để tiếp tục" />
+    <TextStringDefinition InstanceID="0xC1140768" TextString="Gặp gỡ với một Sim" />
+    <TextStringDefinition InstanceID="0xB33E3F14" TextString="Trang Phục Khách" />
+    <TextStringDefinition InstanceID="0xAC29CFBC" TextString="Đề xuất phong cách hoặc màu sắc cho quy định trang phục của khách, nếu không Sim sẽ xuất hiện trong trang phục chính thức của họ." />
+    <TextStringDefinition InstanceID="0xD0A944DD" TextString="Quy Định Trang Phục" />
+    <TextStringDefinition InstanceID="0xF05621CC" TextString="Màu Sắc" />
+    <TextStringDefinition InstanceID="0xEDDA238B" TextString="Quy Tắc Đã Chọn" />
+    <TextStringDefinition InstanceID="0x1582DEC1" TextString="{0.Number} Vai Trò" />
+    <TextStringDefinition InstanceID="0x787F1481" TextString="Quy Tắc Có Sẵn (Tối Đa 5)" />
+    <TextStringDefinition InstanceID="0xD0009CA0" TextString="Chọn tối đa năm quy tắc từ danh sách bên dưới để tùy chỉnh thêm trải nghiệm Getaway của bạn hoặc thêm một lớp thử thách.\n\nChỉ một quy tắc loại trừ có thể hoạt động tại một thời điểm, và việc loại trừ sẽ xảy ra mỗi ngày một lần. Đảm bảo ít nhất một vai trò được chọn làm ứng viên loại trừ." />
+    <TextStringDefinition InstanceID="0x100CFEFA" TextString="Chọn" />
+    <TextStringDefinition InstanceID="0x4190A191" TextString="Lập Kế Hoạch Sự Kiện" />
+    <TextStringDefinition InstanceID="0x6FC92BFC" TextString="Một sự kiện với Mục Tiêu và Phần Thưởng đã được lập kế hoạch cho ngày này." />
+    <TextStringDefinition InstanceID="0x611A9BD9" TextString="Không thể lập kế hoạch nhiều hơn một sự kiện hoạt động trong một ngày." />
+    <TextStringDefinition InstanceID="0x3674D73C" TextString="Hoàn thành Mục Tiêu để kiếm Phần Thưởng!" />
+    <TextStringDefinition InstanceID="0x85C9A1E3" TextString="Mục Tiêu và Phần Thưởng" />
+    <TextStringDefinition InstanceID="0x059DEFAF" TextString="Đặt thời gian kết thúc cho Getaway này. Sim sẽ trở về nhà vào thời gian đã chọn vào ngày cuối cùng của thời gian tổ chức." />
+    <TextStringDefinition InstanceID="0xB89CE7DB" TextString="Thời Gian Kết Thúc" />
+    <TextStringDefinition InstanceID="0x38C9AA9F" TextString="{0.Number} {S0.night}{P0.nights}" />
+    <TextStringDefinition InstanceID="0xD2D67B08" TextString="Phải chọn thời gian tổ chức cho Getaway này." />
+    <TextStringDefinition InstanceID="0x34EB324B" TextString="Đặt thời gian tổ chức cho Getaway này. Sim sẽ ở lại địa điểm Getaway trong số ngày đã chọn." />
+    <TextStringDefinition InstanceID="0x6F3FFEA7" TextString="Thời Gian Bắt Đầu" />
+    <TextStringDefinition InstanceID="0xCC28C4E4" TextString="Xong" />
+    <TextStringDefinition InstanceID="0xCDB3DDF7" TextString="      Chi Phí: Thay Đổi" />
+    <TextStringDefinition InstanceID="0x9C78C621" TextString="           Chi Phí: {0.Money}" />
+    <TextStringDefinition InstanceID="0xC4401275" TextString="Chi Phí: {1.Money} x Tổng Ngày = &lt;font color='#FF0000'&gt;{0.Money}&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x84D0172B" TextString="Thu Nhập: {1.Money} x Tổng Ngày = &lt;font color='#00FF00'&gt;{0.Money}&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xD7A5C15F" TextString="Chi Phí: {1.Money} x Tổng Ngày = {0.Money}" />
+    <TextStringDefinition InstanceID="0x8250E519" TextString="Lập kế hoạch Getaway tại lô đất nhà ở của hộ gia đình đang hoạt động có thể kiếm được Simoleon. Thu nhập dựa trên giá trị lô đất nhà ở và số lượng Sim không thuộc hộ gia đình tham dự Getaway. Kiểm tra cuối bảng lập kế hoạch để xem tổng thu nhập ước tính từ Getaway này." />
+    <TextStringDefinition InstanceID="0x58A383A8" TextString="Lập kế hoạch Getaway tại bất kỳ lô đất nào bên ngoài lô đất nhà ở của hộ gia đình đang hoạt động sẽ phát sinh phí hàng ngày. Phí Getaway được tính dựa trên giá trị lô đất và tổng số Sim tham dự. Kiểm tra cuối bảng lập kế hoạch để xem tổng chi phí ước tính của Getaway này." />
+    <TextStringDefinition InstanceID="0xB15FED0B" TextString="Chi Phí: {0.Money}" />
+    <TextStringDefinition InstanceID="0x0B4E4D5C" TextString="Xác Nhận" />
+    <TextStringDefinition InstanceID="0x764DDA5A" TextString="Hủy" />
+    <TextStringDefinition InstanceID="0xA97B2F4C" TextString="Một cuộc hẹn mù quáng không thể thay đổi." />
+    <TextStringDefinition InstanceID="0x65C7A29E" TextString="Sự Kiện Hoạt Động" />
+    <TextStringDefinition InstanceID="0x2BDCA3C5" TextString="Hoạt Động Đã Chọn (Tối Thiểu {0.Number} Yêu Cầu)" />
+    <TextStringDefinition InstanceID="0x793BA61E" TextString="Hoạt Động Đã Chọn" />
+    <TextStringDefinition InstanceID="0xB0FDFE86" TextString=", " />
+    <TextStringDefinition InstanceID="0x21DA57AA" TextString="Hoạt Động Có Sẵn" />
+    <TextStringDefinition InstanceID="0xCEC59B22" TextString="Được rồi, tôi hiểu!" />

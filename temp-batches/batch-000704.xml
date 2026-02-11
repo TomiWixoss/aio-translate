@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xA8B82B35" TextString="Duyệt Địa Điểm" />
+    <TextStringDefinition InstanceID="0xA5BEDBDB" TextString="{0.SimFirstName} không thể chạy bộ trong bão tuyết!" />
+    <TextStringDefinition InstanceID="0x02A07F56" TextString="Đi Chèo Thuyền Quanh {1.ObjectName}" />
+    <TextStringDefinition InstanceID="0xEBE2B2A9" TextString="Đi Chèo Thuyền" />
+    <TextStringDefinition InstanceID="0x8C630C9A" TextString="Tìm Kiếm {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x8C4D8F42" TextString="Bò Quanh Quanh" />
+    <TextStringDefinition InstanceID="0xC508A325" TextString="Trên {1.ObjectName}" />
+    <TextStringDefinition InstanceID="0x04550FB6" TextString="Tiếp Tục Công Nghệ 5EverWarm" />
+    <TextStringDefinition InstanceID="0xA2E1AADC" TextString="Công Nghệ 5EverWarm" />
+    <TextStringDefinition InstanceID="0x7EE990EC" TextString="Công nghệ nâng cấp này cho phép Bình Nước Nóng tiếp tục đun nóng khi không kết nối lưới." />
+    <TextStringDefinition InstanceID="0xB321C640" TextString="Kêu" />
+    <TextStringDefinition InstanceID="0xCDF19D00" TextString="Cổ Vũ" />
+    <TextStringDefinition InstanceID="0x0E08D11D" TextString="Xem Trận Cờ Vua" />
+    <TextStringDefinition InstanceID="0xC9FC2BA7" TextString="Chờ Hàng Cùng {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x5A92BD22" TextString="Đang Chờ Hàng" />
+    <TextStringDefinition InstanceID="0x111A9705" TextString="Tháo Rời" />
+    <TextStringDefinition InstanceID="0x1B4B1142" TextString="{0.SimFirstName} đã tháo rời thành công Búp bê Voodoo" />
+    <TextStringDefinition InstanceID="0xDB88875F" TextString="Thể Hiện Sự Thất Vọng Vì Nước Tiểu Văng Vào Bồn Cầu" />
+    <TextStringDefinition InstanceID="0x0074E35B" TextString="Ôm Tay Vì Nước Tiểu Văng Vào Bồn Cầu" />
+    <TextStringDefinition InstanceID="0x771D89CA" TextString="La Mắng Vì Nước Tiểu Văng Vào Bồn Cầu" />
+    <TextStringDefinition InstanceID="0x4AFD4F03" TextString="Cấm Tử Vì Nước Tiểu Văng Vào Bồn Cầu" />
+    <TextStringDefinition InstanceID="0xC64BE50C" TextString="{0.SimFirstName} không mang thai. Có lẽ lần sau nhé!" />
+    <TextStringDefinition InstanceID="0x27749DCB" TextString="(Từ Bài Thử Thai Thất Bại)" />
+    <TextStringDefinition InstanceID="0x352D0C78" TextString="(Từ Việc An ủi một Sim khác trong Buồng Tắm)" />
+    <TextStringDefinition InstanceID="0xA7779C83" TextString="An ủi" />
+    <TextStringDefinition InstanceID="0x264CCB47" TextString="Trốn" />
+    <TextStringDefinition InstanceID="0xBEDB1127" TextString="Khóc" />
+    <TextStringDefinition InstanceID="0xA524299D" TextString="(Từ Việc Khóc trong Buồng Tắm)" />
+    <TextStringDefinition InstanceID="0x5610209C" TextString="Làm Sạch Với Sức Mạnh" />
+    <TextStringDefinition InstanceID="0x8C030647" TextString="Làm Sạch Với Sức Mạnh" />
+    <TextStringDefinition InstanceID="0x58324941" TextString="Các Sim có Năng Lượng làm sạch nhanh hơn rất nhiều!" />
+    <TextStringDefinition InstanceID="0xE7E2E482" TextString="Chùi Sàn Tàu" />
+    <TextStringDefinition InstanceID="0x7D6B04B1" TextString="Làm Bẩn" />
+    <TextStringDefinition InstanceID="0xC2ECA373" TextString="Làm Sạch" />
+    <TextStringDefinition InstanceID="0xD4B2F220" TextString="Chờ Trẻ Nhỏ" />
+    <TextStringDefinition InstanceID="0x7B61D9CC" TextString="Thử Đi Vệ Sinh" />
+    <TextStringDefinition InstanceID="0x3CD48485" TextString="Mời Tham Gia Dạy Đi Vệ Sinh" />
+    <TextStringDefinition InstanceID="0xF403943A" TextString="Đi Vệ Sinh" />
+    <TextStringDefinition InstanceID="0xC26DD519" TextString="Yêu Cầu Kỹ Năng Đi Vệ Sinh Cấp 2" />
+    <TextStringDefinition InstanceID="0x234725F5" TextString="Đi Vệ Sinh" />
+    <TextStringDefinition InstanceID="0x619E45C8" TextString="Làm Sạch" />
+    <TextStringDefinition InstanceID="0x40D0604D" TextString="Cho Ăn" />
+    <TextStringDefinition InstanceID="0xB79615E7" TextString="Cho Uống" />
+    <TextStringDefinition InstanceID="0xCCAB124F" TextString="Ra Khỏi Đây" />
+    <TextStringDefinition InstanceID="0x5CE8377B" TextString="Ngồi" />
+    <TextStringDefinition InstanceID="0x785E47F6" TextString="Ghế Ăn Dặm đã có người." />
+    <TextStringDefinition InstanceID="0x7A786820" TextString="Đặt Thức Ăn" />
+    <TextStringDefinition InstanceID="0x4D19AAB8" TextString="Đặt Đồ Uống" />
+    <TextStringDefinition InstanceID="0x0D2A7A69" TextString="Cho Tráng Miệng" />
+    <TextStringDefinition InstanceID="0x6256726A" TextString="Làm Sạch Đĩa Trống" />

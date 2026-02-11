@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xF1C7B516" TextString="Xanh" />
+    <TextStringDefinition InstanceID="0x2286309D" TextString="Eco Footprint của khu phố này là Trung lập.\nĐã đến lúc ra ngoài và tạo ra sự thay đổi!" />
+    <TextStringDefinition InstanceID="0xF47C3EB1" TextString="Công nghiệp đang phát triển mạnh!\nHưởng lợi từ việc bán tiện ích để có thêm Simoleon, cơ hội cao hơn cho vật phẩm sưu tập hiếm, và Máy phát điện gia đình cùng Máy lấy nước từ không khí sản xuất nhiều tiện ích hơn." />
+    <TextStringDefinition InstanceID="0x44B851D9" TextString="Tận hưởng không khí trong lành và tia nắng!\nTrồng trọt sẽ sản xuất cây trồng và vật thu hoạch chất lượng cao hơn và các đối tượng tiện ích Xanh sẽ sản xuất nhiều hơn!" />
+    <TextStringDefinition InstanceID="0x87323424" TextString="Bánh răng của Công nghiệp đang quay!" />
+    <TextStringDefinition InstanceID="0xF4A8F2AE" TextString="Hít thở không khí trong lành và tận hưởng tia nắng!" />
+    <TextStringDefinition InstanceID="0x57E9B2C1" TextString="Đã đến lúc tác động đến Eco Footprint!" />
+    <TextStringDefinition InstanceID="0x6BFFF87C" TextString="Khác" />
+    <TextStringDefinition InstanceID="0xD1B19E45" TextString="Xã hội" />
+    <TextStringDefinition InstanceID="0xBF6F59DA" TextString="Thể chất" />
+    <TextStringDefinition InstanceID="0xF84FD653" TextString="Tinh thần" />
+    <TextStringDefinition InstanceID="0xAC53E73E" TextString="Sáng tạo" />
+    <TextStringDefinition InstanceID="0x6AD124A0" TextString="Triều đại kết thúc" />
+    <TextStringDefinition InstanceID="0x090BA246" TextString="Triều đại {1.String} đã kết thúc." />
+    <TextStringDefinition InstanceID="0x300883E8" TextString="{0.String} không còn khả dụng cho {1.String}. Sự kiện xã hội đã bị hủy." />
+    <TextStringDefinition InstanceID="0xDDF32417" TextString="Thanh niên, Người lớn và Người cao tuổi" />
+    <TextStringDefinition InstanceID="0xE7FC1EEC" TextString="Mọi lứa tuổi" />
+    <TextStringDefinition InstanceID="0x9CB3B0A1" TextString="Trẻ em và Thiếu niên" />
+    <TextStringDefinition InstanceID="0xC8E52DBE" TextString="Trẻ mới biết đi" />
+    <TextStringDefinition InstanceID="0x24598133" TextString="Trẻ sơ sinh" />
+    <TextStringDefinition InstanceID="0xF78718B9" TextString="Cột mốc Vận động ghi lại các bước phát triển Kỹ năng Vận động của Trẻ mới biết đi. Chỉ có thể mở khóa khi Sim của bạn là Trẻ mới biết đi." />
+    <TextStringDefinition InstanceID="0xA0FE2644" TextString="Cột mốc Nhận thức ghi lại các bước phát triển Kỹ năng Tư duy và Trí tưởng tượng của Trẻ mới biết đi. Chỉ có thể mở khóa khi Sim của bạn là Trẻ mới biết đi." />
+    <TextStringDefinition InstanceID="0x753D0386" TextString="Cột mốc Cuộc sống ghi lại những khoảnh khắc quan trọng trong cuộc đời của Sim." />
+    <TextStringDefinition InstanceID="0xF5F59B91" TextString="Cuộc sống" />
+    <TextStringDefinition InstanceID="0x7A62DBCC" TextString="Nhận thức" />
+    <TextStringDefinition InstanceID="0x3DB8DE6A" TextString="Vận động" />
+    <TextStringDefinition InstanceID="0xF47BA8DA" TextString="Ồ không! Không có Sim nào phù hợp với tiêu chí đã chỉ định cho {1.String}. Mở trình lập kế hoạch Getaway và chỉnh sửa tiêu chí vai trò {1.String} để đảm bảo Sim xuất hiện đúng." />
+    <TextStringDefinition InstanceID="0x779A6F00" TextString="Lô &quot;{1.String}&quot; đã được thay đổi thành loại địa điểm &quot;{2.String}&quot;, không tương thích với Getaway. Chọn OK sẽ hủy tất cả các Getaway đã lên lịch trên lô này." />
+    <TextStringDefinition InstanceID="0x202BC00D" TextString="[Vi phạm giờ giới nghiêm] {0.String}" />
+    <TextStringDefinition InstanceID="0x7E5CE7C7" TextString="Sắp đến giờ giới nghiêm" />
+    <TextStringDefinition InstanceID="0x7BCDA0C5" TextString="Giờ giới nghiêm sắp bắt đầu, nếu bạn không về nhà sớm thì sẽ gặp rắc rối." />
+    <TextStringDefinition InstanceID="0x1E1F0186" TextString="Thời trang" />
+    <TextStringDefinition InstanceID="0xD17CAE27" TextString="Hào hứng" />
+    <TextStringDefinition InstanceID="0x1D0A0DD8" TextString="Suy tư" />
+    <TextStringDefinition InstanceID="0xCFD1EC41" TextString="Buồn bã" />
+    <TextStringDefinition InstanceID="0x9475233A" TextString="Ngớ ngẩn" />
+    <TextStringDefinition InstanceID="0xF3918DCB" TextString="Thả thính" />
+    <TextStringDefinition InstanceID="0xF4B315EC" TextString="Thư giãn" />
+    <TextStringDefinition InstanceID="0x7E3CC11A" TextString="&lt;font color='#388EE9'&gt;◙ Thời gian nấu ăn giảm&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xE5F1219A" TextString="&lt;font color='#969696'&gt;◙ Thời gian nấu ăn giảm&lt;/font&gt; " />
+    <TextStringDefinition InstanceID="0xAAB391FC" TextString="Thể loại: {0.String}" />
+    <TextStringDefinition InstanceID="0x3117F3D4" TextString="WooHoo" />
+    <TextStringDefinition InstanceID="0x1140483B" TextString="Kỹ năng Violin" />
+    <TextStringDefinition InstanceID="0xE8341111" TextString="Kỹ năng Câu cá" />
+    <TextStringDefinition InstanceID="0x428D34A1" TextString="Tự tin" />
+    <TextStringDefinition InstanceID="0x5B125DB8" TextString="Kỹ năng Xăm hình" />
+    <TextStringDefinition InstanceID="0x609BBA71" TextString="Kỹ năng Hài kịch" />
+    <TextStringDefinition InstanceID="0x0EA9769B" TextString="Truyện ngắn" />
+    <TextStringDefinition InstanceID="0x38FB776C" TextString="Kỹ năng Dược sĩ" />
+    <TextStringDefinition InstanceID="0x596D2773" TextString="Kinh dị" />

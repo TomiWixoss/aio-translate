@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xA3E91667" TextString="{S.Yến mạch}{P.Các bát yến mạch}" />
+    <TextStringDefinition InstanceID="0xC89B5867" TextString="{S.Cioppino}{P.Các món cioppino}" />
+    <TextStringDefinition InstanceID="0x576C46FA" TextString="{S.Chips và salsa}{P.Các bát chips và salsa}" />
+    <TextStringDefinition InstanceID="0xABA8A90F" TextString="{S.Chips}{P.Các bát chips}" />
+    <TextStringDefinition InstanceID="0x26F67FB9" TextString="{S.Chili}{P.Các bát chili}" />
+    <TextStringDefinition InstanceID="0x6575D0C8" TextString="{S.Ngũ cốc}{P.Các bát ngũ cốc}" />
+    <TextStringDefinition InstanceID="0xCA1DD237" TextString="Chili ba chị em" />
+    <TextStringDefinition InstanceID="0xBF404D6F" TextString="Súp bóng mạt" />
+    <TextStringDefinition InstanceID="0x38D2A66F" TextString="Tteokguk" />
+    <TextStringDefinition InstanceID="0xBD2F708D" TextString="Đĩa galbi-jjim" />
+    <TextStringDefinition InstanceID="0x3AA0A65C" TextString="Poke Bowl" />
+    <TextStringDefinition InstanceID="0x22D172E1" TextString="Granola" />
+    <TextStringDefinition InstanceID="0x7319082E" TextString="Bát bỏng ngô" />
+    <TextStringDefinition InstanceID="0xBE081FB6" TextString="Súp cà chua" />
+    <TextStringDefinition InstanceID="0xA86CBEF1" TextString="Lẩu ếch sôi" />
+    <TextStringDefinition InstanceID="0x156DB08B" TextString="Món hầm người hái lượm" />
+    <TextStringDefinition InstanceID="0x26A64FAD" TextString="Đậu xanh" />
+    <TextStringDefinition InstanceID="0xCE3949BA" TextString="Bánh quy phô mai" />
+    <TextStringDefinition InstanceID="0x365ED989" TextString="Táo nghiền" />
+    <TextStringDefinition InstanceID="0x1406B049" TextString="Bánh quy hình động vật" />
+    <TextStringDefinition InstanceID="0x32CEA9D0" TextString="Súp miến gà" />
+    <TextStringDefinition InstanceID="0x4E396B91" TextString="Salad Waldorf" />
+    <TextStringDefinition InstanceID="0x836C9B01" TextString="Salad vườn" />
+    <TextStringDefinition InstanceID="0x9D8A2172" TextString="Salad Cobb" />
+    <TextStringDefinition InstanceID="0xBBC9B7E1" TextString="Salad Caprese" />
+    <TextStringDefinition InstanceID="0x0E64C5BF" TextString="Posole" />
+    <TextStringDefinition InstanceID="0x03C43F52" TextString="Parfait" />
+    <TextStringDefinition InstanceID="0xD86902DB" TextString="Salad Nicoise" />
+    <TextStringDefinition InstanceID="0xC75BAFC0" TextString="Cioppino" />
+    <TextStringDefinition InstanceID="0x127BACDB" TextString="Chips và salsa" />
+    <TextStringDefinition InstanceID="0x8E36668A" TextString="Chips" />
+    <TextStringDefinition InstanceID="0x1D472CBA" TextString="Súp bóng mạt" />
+    <TextStringDefinition InstanceID="0xDCB976C6" TextString="Galbi-jjim" />
+    <TextStringDefinition InstanceID="0x384A01F3" TextString="Poke Bowl" />
+    <TextStringDefinition InstanceID="0xC4FA58B3" TextString="Chili ba chị em" />
+    <TextStringDefinition InstanceID="0x0C2AB0C5" TextString="Súp cà chua" />
+    <TextStringDefinition InstanceID="0xAD5B1C9A" TextString="Lẩu ếch sôi" />
+    <TextStringDefinition InstanceID="0x69362208" TextString="Món hầm người hái lượm" />
+    <TextStringDefinition InstanceID="0xF5A4723E" TextString="{S.Salad Nicoise}{P.Các bát Salad Nicoise}" />
+    <TextStringDefinition InstanceID="0x98D453F0" TextString="foodBlob_EF04GEN mô tả placeholder" />
+    <TextStringDefinition InstanceID="0xE3D2632D" TextString="Một bông hồng đỏ" />
+    <TextStringDefinition InstanceID="0xBC75BA12" TextString="Một bông hồng đơn độc là biểu tượng tối cao của cử chỉ lãng mạn. Đó là lời hứa về sự tận tâm sâu sắc và đam mê mãnh liệt. Nó còn rẻ hơn cả nhẫn đính hôn." />
+    <TextStringDefinition InstanceID="0xDD510EBA" TextString="Thẻ ghi nhớ" />
+    <TextStringDefinition InstanceID="0xB4FDA9DB" TextString="Các thẻ ghi nhớ là một công cụ giáo dục." />
+    <TextStringDefinition InstanceID="0xC09B248A" TextString="Các thẻ ghi nhớ" />
+    <TextStringDefinition InstanceID="0xE3115E0B" TextString="Các thẻ ghi nhớ là một công cụ giáo dục." />
+    <TextStringDefinition InstanceID="0x950DB7A3" TextString="fishSmall_bm" />
+    <TextStringDefinition InstanceID="0xB4FCC06C" TextString="fishSmall_bm" />
+    <TextStringDefinition InstanceID="0xE7627EC3" TextString="fishMedium_bm" />
+    <TextStringDefinition InstanceID="0x8822CD0C" TextString="fishMedium_bm" />

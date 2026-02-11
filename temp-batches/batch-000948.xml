@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xFB505B52" TextString="Chế nhạo ai đó" />
+    <TextStringDefinition InstanceID="0x7FB4EEA9" TextString="Pha một Cái nối" />
+    <TextStringDefinition InstanceID="0x745363F3" TextString="Pha một Tang và Zing" />
+    <TextStringDefinition InstanceID="0xC4BDBF31" TextString="Pha một Thung lũng Hoàng hôn" />
+    <TextStringDefinition InstanceID="0x3D29539B" TextString="Pha một Phim câm" />
+    <TextStringDefinition InstanceID="0x5D7A264C" TextString="Pha một Biển Xô" />
+    <TextStringDefinition InstanceID="0xFAE7FB60" TextString="Pha một Llamă Mặn" />
+    <TextStringDefinition InstanceID="0x81B9D046" TextString="Pha một Đấm chua" />
+    <TextStringDefinition InstanceID="0x405DDF22" TextString="Pha một Simsmapolitan" />
+    <TextStringDefinition InstanceID="0x0B0B9BD5" TextString="Pha một Granny Smash" />
+    <TextStringDefinition InstanceID="0x4B9B4F3B" TextString="Pha một Dim và Gusty" />
+    <TextStringDefinition InstanceID="0x01B7EA78" TextString="Nhấp vào Quầy bar, chọn Pha đồ uống, và chọn công thức từ danh sách." />
+    <TextStringDefinition InstanceID="0x765F5D7E" TextString="Pha một Ridgeport" />
+    <TextStringDefinition InstanceID="0x23403C99" TextString="Nhấp vào Điện thoại, vào Ứng dụng Kinh doanh, và chọn Nghỉ phép. Hoặc khi đến giờ đi làm, ngăn Sim của bạn đi làm bằng cách hủy tương tác." />
+    <TextStringDefinition InstanceID="0x3F8BD8F7" TextString="Vắng mặt ở công việc" />
+    <TextStringDefinition InstanceID="0x0D550EAE" TextString="Nhấp vào một Sim và chọn một Tương tác Xã hội từ danh mục Nghịch ngợm." />
+    <TextStringDefinition InstanceID="0xB637EAFD" TextString="Hành động nghịch ngợm" />
+    <TextStringDefinition InstanceID="0x12F02C97" TextString="Nhấp vào một Sim đang viết và chọn Hướng dẫn. Tương tác này có thể được mở khóa bằng cách đạt tối đa Kỹ năng Viết." />
+    <TextStringDefinition InstanceID="0x1FD59C25" TextString="Hướng dẫn ai đó trong Viết" />
+    <TextStringDefinition InstanceID="0x011E73D6" TextString="Nhấp vào một Sim đang vẽ và chọn Hướng dẫn. Sim có thể mở khóa tương tác này bằng cách đạt tối đa Kỹ năng Vẽ." />
+    <TextStringDefinition InstanceID="0xCCD39335" TextString="Hướng dẫn ai đó trong Vẽ" />
+    <TextStringDefinition InstanceID="0xA9AC0117" TextString="Hướng dẫn ai đó trong Thể dục tại Phòng tập" />
+    <TextStringDefinition InstanceID="0x943DAFA3" TextString="Đi đến Phòng tập bằng cách mở Bản đồ Thế giới và nhấp vào Địa điểm. Khi đến đó, nhấp vào một Sim khác trong khi họ đang tập luyện và chọn Hướng dẫn. Sim có thể mở khóa tương tác này bằng cách đạt tối đa Kỹ năng Thể dục." />
+    <TextStringDefinition InstanceID="0xBD1F26E3" TextString="Nhấp vào một Sim khác trong khi họ đang tập luyện và chọn Hướng dẫn. Sim có thể mở khóa tương tác này bằng cách đạt tối đa Kỹ năng Thể dục." />
+    <TextStringDefinition InstanceID="0x2B84FA12" TextString="Hướng dẫn ai đó trong Thể dục" />
+    <TextStringDefinition InstanceID="0xE87DEADE" TextString="Nhấp vào một Sim đang chơi Đàn violin và chọn Hướng dẫn. Tương tác này có thể được mở khóa bằng cách đạt tối đa Kỹ năng Đàn violin." />
+    <TextStringDefinition InstanceID="0x78CCF69C" TextString="Hướng dẫn ai đó trên Đàn violin" />
+    <TextStringDefinition InstanceID="0x7AE80EA4" TextString="Nhấp vào một Sim đang chơi Đàn piano và chọn Hướng dẫn. Tương tác này có thể được mở khóa bằng cách đạt tối đa Kỹ năng Đàn piano." />
+    <TextStringDefinition InstanceID="0x466D8A5A" TextString="Hướng dẫn ai đó trên Đàn piano" />
+    <TextStringDefinition InstanceID="0x0EC7106D" TextString="Nhấp vào một Sim khác trong khi họ đang chơi Đàn guitar và chọn Hướng dẫn. Sim có thể mở khóa tương tác này bằng cách đạt tối đa Kỹ năng Đàn guitar." />
+    <TextStringDefinition InstanceID="0x777D96BB" TextString="Hướng dẫn ai đó trên Đàn guitar" />
+    <TextStringDefinition InstanceID="0xEE412F00" TextString="Nhấp vào một Sim đang Sửa chữa hoặc Nâng cấp một vật thể và chọn Hướng dẫn. Sim có thể mở khóa tương tác này bằng cách tăng Kỹ năng Khéo léo." />
+    <TextStringDefinition InstanceID="0x9D1E71D0" TextString="Đưa ra Mẹo sửa chữa cho ai đó" />
+    <TextStringDefinition InstanceID="0xAB5B279F" TextString="Nhấp vào một Sim Trẻ em đang luyện tập một kỹ năng mà Sim của bạn thành thạo và chọn Hướng dẫn." />
+    <TextStringDefinition InstanceID="0xF5E107F5" TextString="Hướng dẫn Kỹ năng của Trẻ em" />
+    <TextStringDefinition InstanceID="0x468E7766" TextString="Nhấp vào một Sim Trẻ em đang làm bài tập về nhà và chọn tương tác Giúp đỡ với bài tập." />
+    <TextStringDefinition InstanceID="0xD1D66316" TextString="Hướng dẫn Bài tập về nhà của Trẻ em" />
+    <TextStringDefinition InstanceID="0x536FA6C5" TextString="Nhấp vào một Sim Trẻ em đang làm một kỹ năng hoặc bài tập về nhà và chọn Hướng dẫn." />
+    <TextStringDefinition InstanceID="0x50B48C2B" TextString="Hướng dẫn Trẻ em" />
+    <TextStringDefinition InstanceID="0xC9ACB083" TextString="Nhấp vào một Đĩa Bánh mì kẹp phô mai và chọn Lấy một phần." />
+    <TextStringDefinition InstanceID="0x65D6A621" TextString="Ăn thêm một chiếc Bánh mì kẹp phô mai" />
+    <TextStringDefinition InstanceID="0xCAE3DC55" TextString="Đi đến một Phòng khách bằng cách mở Bản đồ Thế giới và nhấp vào Địa điểm. Khi đến đó, nhấp vào một Sim lạ để giới thiệu Sim của bạn." />
+    <TextStringDefinition InstanceID="0xC442DFB4" TextString="Gặp gỡ người mới tại Phòng khách" />
+    <TextStringDefinition InstanceID="0xA884309F" TextString="Đi đến một Câu lạc bộ bằng cách mở Bản đồ Thế giới và nhấp vào Địa điểm. Khi đến đó, nhấp vào một Sim lạ để giới thiệu Sim của bạn." />
+    <TextStringDefinition InstanceID="0x56260365" TextString="Gặp gỡ người mới tại Câu lạc bộ" />
+    <TextStringDefinition InstanceID="0x169D7620" TextString="Đi đến một Phòng khách bằng cách mở Bản đồ Thế giới và nhấp vào Địa điểm. Khi đến đó, nhấp vào một Sim lạ để giới thiệu Sim của bạn." />
+    <TextStringDefinition InstanceID="0x886AACAA" TextString="Gặp gỡ người mới tại Địa điểm Quầy bar" />
+    <TextStringDefinition InstanceID="0x21C54060" TextString="Nhấp vào một Sim lạ để giới thiệu Sim của bạn." />
+    <TextStringDefinition InstanceID="0xC65DDD5F" TextString="Gặp gỡ người mới" />
+    <TextStringDefinition InstanceID="0x62BCDE4B" TextString="Nhấp vào {2.SimFirstName} và chọn một Tương tác Xã hội từ danh mục Lãng mạn." />

@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x9A4E9764" TextString="Không có trò chơi đã lưu nào để chọn hộ gia đình hiện có." />
+    <TextStringDefinition InstanceID="0x13B80BB8" TextString="Tình huống này không tương thích với các hộ gia đình mới" />
+    <TextStringDefinition InstanceID="0x096DCC58" TextString="Kết quả tiềm năng" />
+    <TextStringDefinition InstanceID="0xB0B54BB9" TextString="Tình huống này không tương thích với các hộ gia đình hiện có" />
+    <TextStringDefinition InstanceID="0x547BB4FC" TextString="Yêu cầu hộ gia đình:" />
+    <TextStringDefinition InstanceID="0xEB47C321" TextString="Xem" />
+    <TextStringDefinition InstanceID="0x2A3613CC" TextString="Đề xuất cho bạn" />
+    <TextStringDefinition InstanceID="0xC04A7C1A" TextString="Tình huống chào mừng" />
+    <TextStringDefinition InstanceID="0x6C852F11" TextString="Sắp kết thúc" />
+    <TextStringDefinition InstanceID="0xF516B453" TextString="Kết thúc câu chuyện" />
+    <TextStringDefinition InstanceID="0x042967FE" TextString="Bắt đầu với..." />
+    <TextStringDefinition InstanceID="0x7C8ED4D3" TextString="Phần thưởng: {0.String}" />
+    <TextStringDefinition InstanceID="0x36F74EC1" TextString="&lt;font color='#ff2525'&gt;Hộ gia đình có sẵn&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xDD4A276F" TextString="&lt;font color='#ff2525'&gt;Chơi với hộ gia đình {0.String}&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x1D10D45C" TextString="Chơi ngay" />
+    <TextStringDefinition InstanceID="0xE05C961A" TextString="Bạn đang chơi tình huống này rồi" />
+    <TextStringDefinition InstanceID="0x744ECBB5" TextString="Bạn đã bắt đầu tình huống này rồi. Bạn muốn tiếp tục như thế nào?" />
+    <TextStringDefinition InstanceID="0xDB3F40A7" TextString="Tiếp tục tình huống từ nơi bạn đã dừng lại." />
+    <TextStringDefinition InstanceID="0xE6CA31E3" TextString="Tiếp tục tình huống" />
+    <TextStringDefinition InstanceID="0xB93125C9" TextString="Xóa hộ gia đình cho tình huống này và bắt đầu chơi lại từ đầu" />
+    <TextStringDefinition InstanceID="0x814FED1D" TextString="Khởi động lại tình huống" />
+    <TextStringDefinition InstanceID="0xA5E1768A" TextString="Chi tiết tình huống" />
+    <TextStringDefinition InstanceID="0xD8753608" TextString="Tìm hiểu về tình huống" />
+    <TextStringDefinition InstanceID="0x79A3F4A8" TextString="Hủy tình huống?" />
+    <TextStringDefinition InstanceID="0xD542406F" TextString="Bạn có chắc chắn muốn hủy tình huống này? Tất cả dữ liệu tình huống sẽ bị mất. Bạn vẫn có thể chơi với hộ gia đình hiện tại." />
+    <TextStringDefinition InstanceID="0x1877241E" TextString="Hủy tình huống" />
+    <TextStringDefinition InstanceID="0xD52075DD" TextString="Có các tình huống đang hoạt động trong trò chơi đã lưu này" />
+    <TextStringDefinition InstanceID="0xF700F3FA" TextString="Lưu trò chơi" />
+    <TextStringDefinition InstanceID="0x1A9634C1" TextString="Tải trò chơi" />
+    <TextStringDefinition InstanceID="0x98076D5B" TextString="{0.TimeShort} - {1.DateShort}" />
+    <TextStringDefinition InstanceID="0x166F1C67" TextString="Đang lưu..." />
+    <TextStringDefinition InstanceID="0xF3F2FBD4" TextString="Trò chơi không thể lưu. Vui lòng thoát về Trình đơn chính và sau đó nhấn Chơi để tải lại trò chơi. Mã lỗi: {0.Number}" />
+    <TextStringDefinition InstanceID="0x924CE758" TextString="Trò chơi không thể lưu. Mã lỗi: {0.String}." />
+    <TextStringDefinition InstanceID="0x229B6267" TextString="Ghi đè trò chơi đã lưu này." />
+    <TextStringDefinition InstanceID="0xB9AF17EA" TextString="Lưu" />
+    <TextStringDefinition InstanceID="0xA43896C4" TextString="Khôi phục trò chơi đã lưu" />
+    <TextStringDefinition InstanceID="0x443107B5" TextString=" [Đã khôi phục]" />
+    <TextStringDefinition InstanceID="0x6ECE9F9A" TextString="Bạn có chắc không?" />
+    <TextStringDefinition InstanceID="0x8AF00A1C" TextString="Bạn có chắc chắn muốn ghi đè {0.String}?" />
+    <TextStringDefinition InstanceID="0x48AC21B8" TextString="Ghi đè trò chơi đã lưu" />
+    <TextStringDefinition InstanceID="0x269B8646" TextString="Không có ô lưu nào có sẵn để tải, hãy vào trình đơn chính và bắt đầu trò chơi mới!" />
+    <TextStringDefinition InstanceID="0xEE34A5C4" TextString="Điều này sẽ tạo một trò chơi lưu mới với một tình huống đang hoạt động." />
+    <TextStringDefinition InstanceID="0xE125723B" TextString="Trò chơi lưu mới" />
+    <TextStringDefinition InstanceID="0x761A5158" TextString="Trò chơi đã lưu của tôi" />
+    <TextStringDefinition InstanceID="0x270AF176" TextString="Trò chơi không thể tải. Mã lỗi: {0.String}. Khuyến nghị bạn khởi động lại trò chơi." />
+    <TextStringDefinition InstanceID="0xD0B84EA9" TextString="Trò chơi không thể tải. Mã lỗi: {0.String}." />
+    <TextStringDefinition InstanceID="0x8D8634CE" TextString="Tiếp tục chơi trò chơi đã lưu này." />
+    <TextStringDefinition InstanceID="0x62389884" TextString="Bạn sẽ tạo một hộ gia đình mới trong trò chơi đã lưu này và chơi tình huống đã chọn với nó." />
+    <TextStringDefinition InstanceID="0xE5CB93DB" TextString="Bắt đầu tình huống" />
+    <TextStringDefinition InstanceID="0x119A8C29" TextString="Chơi" />

@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x0E9425FB" TextString="Tôi thích câu cá!" />
+    <TextStringDefinition InstanceID="0x8F8B8154" TextString="Thích cưỡi ngựa" />
+    <TextStringDefinition InstanceID="0x49309C43" TextString="Tôi thích làm DJ!" />
+    <TextStringDefinition InstanceID="0xEEFD4DC5" TextString="Tôi thích nghiên cứu và tranh luận!" />
+    <TextStringDefinition InstanceID="0x978C58C9" TextString="Tôi thích nhảy!" />
+    <TextStringDefinition InstanceID="0x75828D4C" TextString="Tôi thích thêu chữ thập!" />
+    <TextStringDefinition InstanceID="0xE50CFAE1" TextString="Tôi thích nấu ăn!" />
+    <TextStringDefinition InstanceID="0x4455930C" TextString="Tôi thích hài kịch!" />
+    <TextStringDefinition InstanceID="0xA8B3653D" TextString="Tôi thích bowling!" />
+    <TextStringDefinition InstanceID="0x11343CBD" TextString="Tôi thích làm bánh!" />
+    <TextStringDefinition InstanceID="0x41C594D3" TextString="Tôi thích làm thuốc!" />
+    <TextStringDefinition InstanceID="0x4FFBC77B" TextString="Tôi thích diễn xuất!" />
+    <TextStringDefinition InstanceID="0x306B6CBA" TextString="{0.SimFirstName} đang trong {0.SimPronounPossessiveDependent} nguyên tố! Và vì {0.SimPronounSubjective} {S0.is}{P0.are} đang làm một việc gì đó {0.SimPronounSubjective} {S0.prefers}{P0.prefer}, {0.SimPronounSubjective} {S0.gains}{P0.gain} nhiều Niềm vui hơn!" />
+    <TextStringDefinition InstanceID="0x3B16A5DA" TextString="Âm thanh khủng khiếp đó là gì?! {0.SimFirstName} không thể chịu được Âm nhạc thế giới!" />
+    <TextStringDefinition InstanceID="0x6FD9590F" TextString="Âm thanh khủng khiếp đó là gì?! {0.SimFirstName} không thể chịu được Âm nhạc kỳ nghỉ đông!" />
+    <TextStringDefinition InstanceID="0xCF690B92" TextString="Âm thanh khủng khiếp đó là gì?! {0.SimFirstName} không thể chịu được Âm nhạc Tween Pop!" />
+    <TextStringDefinition InstanceID="0xB0ACE131" TextString="Âm thanh khủng khiếp đó là gì?! {0.SimFirstName} không thể chịu được Âm nhạc Summer Strut!" />
+    <TextStringDefinition InstanceID="0xAB9F7F05" TextString="Âm thanh khủng khiếp đó là gì?! {0.SimFirstName} không thể chịu được Âm nhạc Strange Tunes!" />
+    <TextStringDefinition InstanceID="0x4D756938" TextString="Âm thanh khủng khiếp đó là gì?! {0.SimFirstName} không thể chịu được Âm nhạc S-Pop!" />
+    <TextStringDefinition InstanceID="0x513B463B" TextString="Âm thanh khủng khiếp đó là gì?! {0.SimFirstName} không thể chịu được Âm nhạc Spooky!" />
+    <TextStringDefinition InstanceID="0x4B4C8EF6" TextString="Âm thanh khủng khiếp đó là gì?! {0.SimFirstName} không thể chịu được Âm nhạc Singer Songwriter!" />
+    <TextStringDefinition InstanceID="0x1DAD8EC9" TextString="Âm thanh khủng khiếp đó là gì?! {0.SimFirstName} không thể chịu được Âm nhạc Lãng mạn!" />
+    <TextStringDefinition InstanceID="0x5E557508" TextString="Âm thanh khủng khiếp đó là gì?! {0.SimFirstName} không thể chịu được Âm nhạc R&amp;B!" />
+    <TextStringDefinition InstanceID="0x5E0E0F86" TextString="Âm thanh khủng khiếp đó là gì?! {0.SimFirstName} không thể chịu được Âm nhạc Retro!" />
+    <TextStringDefinition InstanceID="0xA17E068C" TextString="Âm thanh khủng khiếp đó là gì?! {0.SimFirstName} không thể chịu được Âm nhạc Ranch!" />
+    <TextStringDefinition InstanceID="0x4271AA4F" TextString="Âm thanh khủng khiếp đó là gì?! {0.SimFirstName} không thể chịu được Âm nhạc Pop!" />
+    <TextStringDefinition InstanceID="0x6286D280" TextString="Âm thanh khủng khiếp đó là gì?! {0.SimFirstName} không thể chịu được Âm nhạc Soul!" />
+    <TextStringDefinition InstanceID="0x15C5D9E9" TextString="Âm thanh khủng khiếp đó là gì?! {0.SimFirstName} không thể chịu được Âm nhạc NuDisco!" />
+    <TextStringDefinition InstanceID="0x97E3CA67" TextString="Âm thanh khủng khiếp đó là gì?! {0.SimFirstName} không thể chịu được Âm nhạc New Age!" />
+    <TextStringDefinition InstanceID="0xD8E9BB5D" TextString="Âm thanh khủng khiếp này là gì? {0.SimFirstName} không thể chịu được Âm thanh thiên nhiên!" />
+    <TextStringDefinition InstanceID="0xF3E5EDAB" TextString="Âm thanh khủng khiếp đó là gì?! {0.SimFirstName} không thể chịu được Âm nhạc Metal!" />
+    <TextStringDefinition InstanceID="0xE1F3325B" TextString="Âm thanh khủng khiếp đó là gì?! {0.SimFirstName} không thể chịu được Âm nhạc Lullabies Radio!" />
+    <TextStringDefinition InstanceID="0xB41A53E3" TextString="Âm thanh khủng khiếp đó là gì?! {0.SimFirstName} không thể chịu được Âm nhạc Latin Pop! " />
+    <TextStringDefinition InstanceID="0x53AFE210" TextString="Âm thanh khủng khiếp đó là gì?! {0.SimFirstName} không thể chịu được Âm nhạc Latin!" />
+    <TextStringDefinition InstanceID="0x3E5AD7DB" TextString="Âm thanh khủng khiếp đó là gì?! {0.SimFirstName} không thể chịu được Âm nhạc Kids Radio!" />
+    <TextStringDefinition InstanceID="0x82E8859F" TextString="Âm thanh khủng khiếp đó là gì?! {0.SimFirstName} không thể chịu được Âm nhạc Jazz!" />
+    <TextStringDefinition InstanceID="0x2615078B" TextString="Âm thanh khủng khiếp đó là gì?! {0.SimFirstName} không thể chịu được Âm nhạc Folk Nhật Bản!" />
+    <TextStringDefinition InstanceID="0x384DA0DB" TextString="Âm thanh khủng khiếp đó là gì?! {0.SimFirstName} không thể chịu được Âm nhạc Island!" />
+    <TextStringDefinition InstanceID="0x3383AF74" TextString="Âm thanh khủng khiếp đó là gì?! {0.SimFirstName} không thể chịu được Âm nhạc Hip Hop!" />
+    <TextStringDefinition InstanceID="0x9E923322" TextString="Âm thanh khủng khiếp đó là gì?! {0.SimFirstName} không thể chịu được Âm nhạc Focus!" />
+    <TextStringDefinition InstanceID="0x73ACA149" TextString="Âm thanh khủng khiếp đó là gì?! {0.SimFirstName} không thể chịu được Âm nhạc Electronica!" />
+    <TextStringDefinition InstanceID="0x7A93074B" TextString="Âm thanh khủng khiếp đó là gì?! {0.SimFirstName} không thể chịu được Âm nhạc Easy Listening!" />
+    <TextStringDefinition InstanceID="0xD006D7B2" TextString="Âm thanh khủng khiếp đó là gì?! {0.SimFirstName} không thể chịu được Âm nhạc DJ Booth!" />
+    <TextStringDefinition InstanceID="0xFB5EF730" TextString="Âm thanh khủng khiếp đó là gì?! {0.SimFirstName} không thể chịu được Âm nhạc Cottagecore!" />
+    <TextStringDefinition InstanceID="0x1C24340D" TextString="Âm thanh khủng khiếp đó là gì?! {0.SimFirstName} không thể chịu được Âm nhạc cổ điển!" />
+    <TextStringDefinition InstanceID="0x6E983F6C" TextString="Âm thanh khủng khiếp đó là gì?! {0.SimFirstName} không thể chịu được Âm nhạc Carnival Beats!" />
+    <TextStringDefinition InstanceID="0xBD781429" TextString="Âm thanh khủng khiếp đó là gì?! {0.SimFirstName} không thể chịu được Âm nhạc Blues!" />
+    <TextStringDefinition InstanceID="0xF51DA27D" TextString="Âm thanh khủng khiếp đó là gì?! {0.SimFirstName} không thể chịu được Âm nhạc Batuu!" />
+    <TextStringDefinition InstanceID="0x45612D17" TextString="Âm thanh khủng khiếp đó là gì?! {0.SimFirstName} không thể chịu được Âm nhạc Baroque!" />
+    <TextStringDefinition InstanceID="0x1E51A29E" TextString="Âm thanh khủng khiếp đó là gì?! {0.SimFirstName} không thể chịu được Âm nhạc Waltz!" />

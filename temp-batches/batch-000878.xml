@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xA5ACD582" TextString="Mỗi 1 giờ" />
+    <TextStringDefinition InstanceID="0x75705A8E" TextString="Mỗi 30 phút" />
+    <TextStringDefinition InstanceID="0x423E7C3B" TextString="Kiểm tra Sims Deliveries: " />
+    <TextStringDefinition InstanceID="0x740DA27F" TextString="Bạn sẽ bỏ lỡ!" />
+    <TextStringDefinition InstanceID="0x250077C0" TextString="Có, tắt tải tự động" />
+    <TextStringDefinition InstanceID="0x3ED2354E" TextString="Đừng để ý!" />
+    <TextStringDefinition InstanceID="0x8B44AA87" TextString="Bạn sẽ bỏ lỡ tất cả nội dung Sims Delivery mới nhất!\n\nBạn có chắc chắn muốn tắt tải tự động?" />
+    <TextStringDefinition InstanceID="0x44064A19" TextString="Tải tự động" />
+    <TextStringDefinition InstanceID="0x51B46410" TextString="Điều này sẽ thay đổi tần suất kiểm tra Sims Delivery mới." />
+    <TextStringDefinition InstanceID="0xFA07A7BC" TextString="Điều này sẽ tự động bắt đầu tải khi có nội dung mới." />
+    <TextStringDefinition InstanceID="0xFB1CC8BF" TextString="Bạn đã có nội dung Sims Delivery mới nhất!" />
+    <TextStringDefinition InstanceID="0x7B301AAC" TextString="Hết dung lượng!" />
+    <TextStringDefinition InstanceID="0x779078A6" TextString="Tải bị dừng" />
+    <TextStringDefinition InstanceID="0x1B3F1895" TextString="Nội dung {0.Number}.{1.Number}.{2.Number}\nTrạng thái: {3.String}" />
+    <TextStringDefinition InstanceID="0xC9D6F5DA" TextString="Tải hoàn thành!" />
+    <TextStringDefinition InstanceID="0xC6DE444B" TextString="Nội dung {0.Number}.{1.Number}.{2.Number}\nKích thước cài đặt: {3.String} MB" />
+    <TextStringDefinition InstanceID="0xCF6899D6" TextString="Tải bị dừng" />
+    <TextStringDefinition InstanceID="0xBF5C8775" TextString="Đang kiểm tra Sims Delivery Express để tìm nội dung mới" />
+    <TextStringDefinition InstanceID="0x27D5C3D9" TextString="Đang chờ" />
+    <TextStringDefinition InstanceID="0x14B7F2F2" TextString="Không xác định" />
+    <TextStringDefinition InstanceID="0x04A799C9" TextString="Đang giải nén" />
+    <TextStringDefinition InstanceID="0xE5D7F4D4" TextString="Đang tải" />
+    <TextStringDefinition InstanceID="0x136A2A95" TextString="Đang xử lý Sims Deliveries" />
+    <TextStringDefinition InstanceID="0xD1211B77" TextString="Thiết lập cài đặt Sims Delivery Express bên dưới để tự động tải nội dung mới khi phát hành." />
+    <TextStringDefinition InstanceID="0xFF7276B4" TextString="Không đủ dung lượng trên thiết bị lưu trữ. Vui lòng giải phóng một số dung lượng trước khi tải Sims Delivery." />
+    <TextStringDefinition InstanceID="0x2738F5CE" TextString="Ôi không! Có vẻ đã xảy ra lỗi! Tiếp tục tải để tiếp tục." />
+    <TextStringDefinition InstanceID="0x75795A4D" TextString="Một Sims Delivery tuyệt vời đang trên đường! Việc tải nội dung này đang diễn ra ở nền. Cứ tự do quay lại trò chơi. Chúng tôi sẽ thông báo khi tải xong." />
+    <TextStringDefinition InstanceID="0xA4E56CD2" TextString="Một Sims Delivery mới đã được cài đặt. Để sử dụng, khởi động lại The Sims™ 4.\nThưởng thức!" />
+    <TextStringDefinition InstanceID="0x92290A93" TextString="Tải Sims Delivery mới nhất. Bạn có thể tiếp tục chơi và chúng tôi sẽ thông báo khi sẵn sàng." />
+    <TextStringDefinition InstanceID="0xD375389E" TextString="Đã xảy ra lỗi! Bạn đã bị ngắt kết nối. Vui lòng kết nối lại và tiếp tục tải Sims Delivery." />
+    <TextStringDefinition InstanceID="0x305291CD" TextString="Hãy kiên nhẫn trong khi chúng tôi kiểm tra nội dung mới nhất!" />
+    <TextStringDefinition InstanceID="0x3B3E5A9A" TextString="Tiếp tục tải" />
+    <TextStringDefinition InstanceID="0x87C72AE4" TextString="Tiếp tục tải" />
+    <TextStringDefinition InstanceID="0xABB38BA2" TextString="Chơi với Sims Delivery!" />
+    <TextStringDefinition InstanceID="0x18D572A3" TextString="Tải ngay" />
+    <TextStringDefinition InstanceID="0xC82696CE" TextString="Kết nối lại và Tiếp tục tải" />
+    <TextStringDefinition InstanceID="0x0E114A5D" TextString="Kiểm tra nội dung mới" />
+    <TextStringDefinition InstanceID="0x59C20A44" TextString="Werewolves" />
+    <TextStringDefinition InstanceID="0x74573785" TextString="Weather" />
+    <TextStringDefinition InstanceID="0x2C4C33B9" TextString="Hướng dẫn &amp; Mẹo" />
+    <TextStringDefinition InstanceID="0x2DD3D4B2" TextString="Snowy Escape" />
+    <TextStringDefinition InstanceID="0x21FF9F4E" TextString="Kinh doanh &amp; Sở thích" />
+    <TextStringDefinition InstanceID="0x35E62BB7" TextString="Seasons" />
+    <TextStringDefinition InstanceID="0x8B2EC063" TextString="Chụp màn hình" />
+    <TextStringDefinition InstanceID="0x671A6FF8" TextString="Sims huyền bí có thể xuất hiện trong Cupid's Corner." />
+    <TextStringDefinition InstanceID="0xAD50A0B8" TextString="Nếu tắt, Sims huyền bí sẽ không xuất hiện dưới dạng Người phù hợp trong Cupid's Corner." />
+    <TextStringDefinition InstanceID="0x4DC2A85F" TextString="Bật Sims huyền bí trong Cupid's Corner" />
+    <TextStringDefinition InstanceID="0x927BF982" TextString="Sims từ Thư viện sẽ được bao gồm trong tìm kiếm Cupid's Corner." />
+    <TextStringDefinition InstanceID="0x25E80EAF" TextString="Chỉ xem nội dung từ người chơi bạn Theo dõi, Hộ gia đình yêu thích hoặc Maxis tuyển chọn cho Sims Thư viện trong Cupid's Corner." />
+    <TextStringDefinition InstanceID="0x3C502DBD" TextString="Nếu được chọn, Sims trong Cupid's Corner đến từ Thư viện sẽ chỉ là từ Người chơi bạn Theo dõi, Hộ gia đình bạn đã Yêu thích, hoặc nội dung Maxis Tuyển chọn." />

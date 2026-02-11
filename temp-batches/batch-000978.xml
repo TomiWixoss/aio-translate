@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xD80DD623" TextString="Tự do" />
+    <TextStringDefinition InstanceID="0x1EA1AAB0" TextString="Môi trường tăng trưởng" />
+    <TextStringDefinition InstanceID="0xCF42F90B" TextString="Mới" />
+    <TextStringDefinition InstanceID="0xD3A5C041" TextString="Chưa chín" />
+    <TextStringDefinition InstanceID="0x8F184955" TextString="Chín" />
+    <TextStringDefinition InstanceID="0xBAFF9505" TextString="Quá chín" />
+    <TextStringDefinition InstanceID="0x038E0CF7" TextString="Thối" />
+    <TextStringDefinition InstanceID="0xF4A6C0AA" TextString="Giai đoạn tăng trưởng" />
+    <TextStringDefinition InstanceID="0x98AA5A20" TextString="Kém" />
+    <TextStringDefinition InstanceID="0xE558B0C5" TextString="Tuyệt vời" />
+    <TextStringDefinition InstanceID="0xF91191EF" TextString="Tốt" />
+    <TextStringDefinition InstanceID="0x4B6B6DD6" TextString="Hôi" />
+    <TextStringDefinition InstanceID="0x70500DBC" TextString="Xuất sắc" />
+    <TextStringDefinition InstanceID="0x15A8F127" TextString="Trung bình" />
+    <TextStringDefinition InstanceID="0xEAE011F1" TextString="Bón phân" />
+    <TextStringDefinition InstanceID="0x1873FE29" TextString="Khỏe mạnh" />
+    <TextStringDefinition InstanceID="0xC2BAD8EE" TextString="Cạn kiệt" />
+    <TextStringDefinition InstanceID="0xA3E1795D" TextString="Trò chơi gõ phím" />
+    <TextStringDefinition InstanceID="0x5F2847E2" TextString="Mô tả trò chơi gõ phím" />
+    <TextStringDefinition InstanceID="0xAB73BE2C" TextString="Trò chơi tính toán" />
+    <TextStringDefinition InstanceID="0x4C2100C9" TextString="Mô tả trò chơi tính toán" />
+    <TextStringDefinition InstanceID="0x9FA7BA3D" TextString="Giao tiếp xã hội" />
+    <TextStringDefinition InstanceID="0x0A27FF9C" TextString="Ngủ" />
+    <TextStringDefinition InstanceID="0x703C2740" TextString="Hát" />
+    <TextStringDefinition InstanceID="0x844F38B7" TextString="Nhàn rỗi" />
+    <TextStringDefinition InstanceID="0x86A4BFC5" TextString="Ẩn" />
+    <TextStringDefinition InstanceID="0x263E3F2F" TextString="Vắng mặt" />
+    <TextStringDefinition InstanceID="0xCF77B75F" TextString="Trợ giúp làm vườn đã bật" />
+    <TextStringDefinition InstanceID="0xD7D023D8" TextString="Được phân công cho:" />
+    <TextStringDefinition InstanceID="0x61017CB7" TextString="Giường đôi" />
+    <TextStringDefinition InstanceID="0x77E9BF0C" TextString="Bên trái" />
+    <TextStringDefinition InstanceID="0xE42A2BAB" TextString="Bên phải" />
+    <TextStringDefinition InstanceID="0x17470376" TextString="Giảm khó chịu: 3" />
+    <TextStringDefinition InstanceID="0xD7A1241E" TextString="Độ tin cậy: 8" />
+    <TextStringDefinition InstanceID="0x0A004122" TextString="Độ tin cậy: 5" />
+    <TextStringDefinition InstanceID="0xFA47F9F4" TextString="Độ tin cậy: 5" />
+    <TextStringDefinition InstanceID="0x7D236F8F" TextString="Giảm căng thẳng: 3" />
+    <TextStringDefinition InstanceID="0x55AA54BE" TextString="Vệ sinh: {0.Number}" />
+    <TextStringDefinition InstanceID="0x10C776CD" TextString="Khó chịu" />
+    <TextStringDefinition InstanceID="0x7E952715" TextString="Người lớn" />
+    <TextStringDefinition InstanceID="0x200487C0" TextString="Thanh niên" />
+    <TextStringDefinition InstanceID="0x86E2043F" TextString="Người cao tuổi" />
+    <TextStringDefinition InstanceID="0x596D08A4" TextString="Vệ sinh: &lt;font color='#FF7800'&gt;Bẩn&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x5C6CDA49" TextString="Sự chú ý: &lt;font color='#1E81E6'&gt;Hài lòng&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x7D419760" TextString="Vệ sinh: &lt;font color='#1E81E6'&gt;Sạch sẽ&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x41912F1F" TextString="Tuổi: Một... Cuối... Thú cưng..." />
+    <TextStringDefinition InstanceID="0xA99EDC33" TextString="Hạnh phúc: &lt;font color='#1E81E6'&gt;Vui vẻ&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x664F5B84" TextString="Đói: &lt;font color='#EC262E'&gt;Đói khát&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x1E617D21" TextString="Hạnh phúc: &lt;font color='#FF7800'&gt;Buồn bã&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x8E139C35" TextString="Đói: &lt;font color='#1E81E6'&gt;No&lt;/font&gt;" />

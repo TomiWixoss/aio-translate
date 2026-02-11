@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xE5AF8D98" TextString="Cửa kép đơn giản với cửa sổ trên để tạo chút nghiêm túc." />
+    <TextStringDefinition InstanceID="0x5221667A" TextString="Mục Hành động" />
+    <TextStringDefinition InstanceID="0xFF35449B" TextString="Cần nhà ở làm gì khi bạn có thể có một tòa nhà văn phòng? Thương hiệu hàng đầu của chúng tôi đảm bảo sẽ làm bất kỳ nơi ấm cúng nào trở nên giống hệt cái bàn làm việc tệ hại bạn đã phải chịu đựng mãi!" />
+    <TextStringDefinition InstanceID="0xF8B2F99F" TextString="Llama Gấp Tiền Simoleon" />
+    <TextStringDefinition InstanceID="0x2329A6AC" TextString="Llama Gấp Tím" />
+    <TextStringDefinition InstanceID="0x32A1AB21" TextString="Llama Gấp Xanh Dương" />
+    <TextStringDefinition InstanceID="0x70041B8E" TextString="Llama Gấp Xanh Lá" />
+    <TextStringDefinition InstanceID="0xECEC1993" TextString="Llama Gấp Vàng" />
+    <TextStringDefinition InstanceID="0xA12CE530" TextString="Llama Gấp Đỏ" />
+    <TextStringDefinition InstanceID="0x07CA9E55" TextString="Llama Gấp Đen" />
+    <TextStringDefinition InstanceID="0x61C1AA02" TextString="Llama Gấp Trắng" />
+    <TextStringDefinition InstanceID="0x3EE9951D" TextString="Ồ dạ! Ồ dạ, ồ dạ, ồ dạ! Nhìn con llama giấy này và phong cách của nó đi! Gấp khá là sành điệu." />
+    <TextStringDefinition InstanceID="0xA3B58F30" TextString="Con Sứa Gấp Tiền Simoleon có Mắt Lồng" />
+    <TextStringDefinition InstanceID="0x4CACE14B" TextString="Con Sứa Gấp Tím có Mắt Lồng" />
+    <TextStringDefinition InstanceID="0x239611A6" TextString="Con Sứa Gấp Xanh Dương có Mắt Lồng" />
+    <TextStringDefinition InstanceID="0x686FC8B9" TextString="Con Sứa Gấp Xanh Lá có Mắt Lồng" />
+    <TextStringDefinition InstanceID="0x925FE184" TextString="Con Sứa Gấp Vàng có Mắt Lồng" />
+    <TextStringDefinition InstanceID="0xFB3BA39F" TextString="Con Sứa Gấp Đỏ có Mắt Lồng" />
+    <TextStringDefinition InstanceID="0xFBB9887A" TextString="Con Sứa Gấp Đen có Mắt Lồng" />
+    <TextStringDefinition InstanceID="0xB96D7E2D" TextString="Con Sứa Gấp Trắng có Mắt Lồng" />
+    <TextStringDefinition InstanceID="0xECB532E2" TextString="Con sứa này, trên thực tế, không được làm từ thạch. Nó được làm từ giấy. Và mắt lồng." />
+    <TextStringDefinition InstanceID="0xCFF5E45A" TextString="Ếch Gấp Tiền Simoleon" />
+    <TextStringDefinition InstanceID="0x3975ED01" TextString="Ếch Gấp Tím" />
+    <TextStringDefinition InstanceID="0x29CF5E0C" TextString="Ếch Gấp Xanh Dương" />
+    <TextStringDefinition InstanceID="0xEFF03173" TextString="Ếch Gấp Xanh Lá" />
+    <TextStringDefinition InstanceID="0x06C8E26E" TextString="Ếch Gấp Vàng" />
+    <TextStringDefinition InstanceID="0xE81280B5" TextString="Ếch Gấp Đỏ" />
+    <TextStringDefinition InstanceID="0xB0E77290" TextString="Ếch Gấp Đen" />
+    <TextStringDefinition InstanceID="0x689866E7" TextString="Ếch Gấp Trắng" />
+    <TextStringDefinition InstanceID="0x6B9BCC7C" TextString="Nhảy, nhảy, nhảy! Chú ếch giấy nhỏ này sắp đi tìm vài con ruồi giấy!" />
+    <TextStringDefinition InstanceID="0x22623A51" TextString="Sự Cố Gấp Giấy Bối Rối" />
+    <TextStringDefinition InstanceID="0x883BF2AE" TextString="Điều này lẽ ra phải là... Ừm, nếu bạn nheo mắt, bạn có thể phần nào nhận ra nó sẽ là... Ừ, món origami này không ra như mong muốn." />
+    <TextStringDefinition InstanceID="0x45576B6F" TextString="Còi Gấp Tiền Simoleon" />
+    <TextStringDefinition InstanceID="0x2490D17C" TextString="Còi Gấp Tím" />
+    <TextStringDefinition InstanceID="0xC9932FF1" TextString="Còi Gấp Xanh Dương" />
+    <TextStringDefinition InstanceID="0x6FAEB11E" TextString="Còi Gấp Xanh Lá" />
+    <TextStringDefinition InstanceID="0xE8A0AA63" TextString="Còi Gấp Vàng" />
+    <TextStringDefinition InstanceID="0x53747CC0" TextString="Còi Gấp Đỏ" />
+    <TextStringDefinition InstanceID="0x6FE9ADA5" TextString="Còi Gấp Đen" />
+    <TextStringDefinition InstanceID="0x79023A12" TextString="Còi Gấp Trắng" />
+    <TextStringDefinition InstanceID="0x05C3C32D" TextString="Một con Còi Origami truyền thống, thường tượng trưng cho hòa bình." />
+    <TextStringDefinition InstanceID="0xCDC270D1" TextString="Bướm Gấp Tiền Simoleon" />
+    <TextStringDefinition InstanceID="0x0269F7AA" TextString="Bướm Gấp Tím" />
+    <TextStringDefinition InstanceID="0x8985A6CF" TextString="Bướm Gấp Xanh Dương" />
+    <TextStringDefinition InstanceID="0xE03E0018" TextString="Bướm Gấp Xanh Lá" />
+    <TextStringDefinition InstanceID="0x0293E89D" TextString="Bướm Gấp Vàng" />
+    <TextStringDefinition InstanceID="0x9D2AFF16" TextString="Bướm Gấp Đỏ" />
+    <TextStringDefinition InstanceID="0x66562CFB" TextString="Bướm Gấp Đen" />
+    <TextStringDefinition InstanceID="0xBE3DC834" TextString="Bướm Gấp Trắng" />
+    <TextStringDefinition InstanceID="0x51A4FD67" TextString="Giống như một con bướm thoát khỏi kén, một Con Bướm Origami cũng thoát khỏi tờ giấy mà nó được gấp từ đó." />

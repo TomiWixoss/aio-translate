@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x286D4902" TextString="Phun thuốc cho Quái vật dưới giường" />
+    <TextStringDefinition InstanceID="0x5F7005EA" TextString="Mặc Trang phục" />
+    <TextStringDefinition InstanceID="0xF6B12C0E" TextString="Trò chuyện với" />
+    <TextStringDefinition InstanceID="0xEB2AB35D" TextString="Nói chuyện với" />
+    <TextStringDefinition InstanceID="0xDC46C08E" TextString="Đập phá" />
+    <TextStringDefinition InstanceID="0x69EEF430" TextString="Lắng nghe yêu cầu" />
+    <TextStringDefinition InstanceID="0xF0F09882" TextString="Lắng nghe" />
+    <TextStringDefinition InstanceID="0xB91A7699" TextString="Giới thiệu bản thân" />
+    <TextStringDefinition InstanceID="0xFAF42F14" TextString="Nuôi dưỡng" />
+    <TextStringDefinition InstanceID="0x7C137262" TextString="Khóc" />
+    <TextStringDefinition InstanceID="0x0CBC4999" TextString="Hủy bỏ Bản soạn thảo" />
+    <TextStringDefinition InstanceID="0xD947FD8A" TextString="Hủy bỏ Bản phối chưa hoàn thành" />
+    <TextStringDefinition InstanceID="0x37D43C69" TextString="Bài hát của Sự tinh tế" />
+    <TextStringDefinition InstanceID="0x80DB64FB" TextString="Đặt lại Xu hướng Nam tính" />
+    <TextStringDefinition InstanceID="0x85400C40" TextString="Đặt lại Xu hướng Nữ tính" />
+    <TextStringDefinition InstanceID="0x9AC24E7B" TextString="Tạo Xu hướng Nam tính" />
+    <TextStringDefinition InstanceID="0x033CD1C0" TextString="Tạo Xu hướng Nữ tính" />
+    <TextStringDefinition InstanceID="0x88B67D8B" TextString="Ngắm sao khoả thân" />
+    <TextStringDefinition InstanceID="0x53CA522F" TextString="Ngắm sao" />
+    <TextStringDefinition InstanceID="0xACF48D26" TextString="Ngắm mây" />
+    <TextStringDefinition InstanceID="0x3776BA83" TextString="Phát ra Aura Cáu kỉnh" />
+    <TextStringDefinition InstanceID="0x3829ED9B" TextString="Tấm pin mặt trời này không còn bị hỏng được nữa." />
+    <TextStringDefinition InstanceID="0xC1FC4BC5" TextString="Tiếp tục Nâng cấp Bất hủ" />
+    <TextStringDefinition InstanceID="0xA9A51AEA" TextString="Tiếp tục Nâng cấp Tự làm sạch" />
+    <TextStringDefinition InstanceID="0x70B7DB9E" TextString="Bất hủ" />
+    <TextStringDefinition InstanceID="0xDB700FA3" TextString="Ngăn tấm pin mặt trời bị hỏng." />
+    <TextStringDefinition InstanceID="0x719FF883" TextString="Tấm pin mặt trời này giờ có thể tự làm sạch một cách tự động." />
+    <TextStringDefinition InstanceID="0x66B32B20" TextString="{0.SimFirstName} không thể nâng cấp tấm pin mặt trời này khi nó đang bị hỏng." />
+    <TextStringDefinition InstanceID="0xD38EAB92" TextString="Thêm chức năng tự làm sạch vào tấm pin, tốn một lượng điện nhỏ để vận hành." />
+    <TextStringDefinition InstanceID="0xD6E3B24F" TextString="Tự làm sạch" />
+    <TextStringDefinition InstanceID="0x0AD154A9" TextString="Nâng cấp hoàn tất!\n\n{0.SimFirstName} đã hoàn thành việc lắp đặt nâng cấp tấm pin mặt trời." />
+    <TextStringDefinition InstanceID="0xCFD7328F" TextString="Bật Tự làm sạch" />
+    <TextStringDefinition InstanceID="0x5360DB59" TextString="Tắt Tự làm sạch" />
+    <TextStringDefinition InstanceID="0xCC46BAA0" TextString="Kiểm tra Chức năng Tự làm sạch" />
+    <TextStringDefinition InstanceID="0x9D8E8C62" TextString="{0.SimFirstName} đã kiểm tra tấm pin mặt trời gần đây." />
+    <TextStringDefinition InstanceID="0x0AB262F9" TextString="(Từ việc Kiểm tra Tấm pin mặt trời Tự làm sạch)" />
+    <TextStringDefinition InstanceID="0x1A32B2AC" TextString="Làm sạch" />
+    <TextStringDefinition InstanceID="0x1E7F3C20" TextString="Tấm pin mặt trời này được cài đặt để tự làm sạch." />
+    <TextStringDefinition InstanceID="0xF5A73F9C" TextString="(Từ việc Ngủ trưa trên ghế với Kỹ năng Sống tự nhiên)" />
+    <TextStringDefinition InstanceID="0xF9825F06" TextString="Chịu ảnh hưởng bởi một Tiên" />
+    <TextStringDefinition InstanceID="0xBF124D83" TextString="Thông tin này đã được biết." />
+    <TextStringDefinition InstanceID="0x5E2E12F1" TextString="Thay tã" />
+    <TextStringDefinition InstanceID="0x4B109221" TextString="Giúp {1.SimFirstName} Trượt" />
+    <TextStringDefinition InstanceID="0xF027F7EB" TextString="Cứu {1.SimFirstName} khỏi Lửa!" />
+    <TextStringDefinition InstanceID="0x6E79D15A" TextString="Thả ra" />
+    <TextStringDefinition InstanceID="0xDC5F2FFD" TextString="Thay trang phục của {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x151D227B" TextString="Thay tã" />
+    <TextStringDefinition InstanceID="0x0769AB36" TextString="Cần có Bàn thay tã." />
+    <TextStringDefinition InstanceID="0x140F4DDB" TextString="Cho ăn Thức ăn nhỏ trong Ghế ăn dặm" />
+    <TextStringDefinition InstanceID="0xEDF7B343" TextString="Khám phá Thức ăn trong Ghế ăn dặm" />

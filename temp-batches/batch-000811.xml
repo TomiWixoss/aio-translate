@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xACF29DCE" TextString="Sự điên loạn vũ trụ suy giảm" />
+    <TextStringDefinition InstanceID="0x1A504877" TextString="{0.SimFirstName} giờ đã suy nghĩ rõ ràng, {M0.he}{F0.she} nghĩ." />
+    <TextStringDefinition InstanceID="0x71DA40A7" TextString="Điên loạn vũ trụ!" />
+    <TextStringDefinition InstanceID="0x792D0808" TextString="Vũ trụ... không trọng lực... xoay... thật không tự nhiên. Phải trốn thoát..." />
+    <TextStringDefinition InstanceID="0xBD54592C" TextString="Điên vì rác vũ trụ!" />
+    <TextStringDefinition InstanceID="0x020CF9C9" TextString="Việc tích trữ rác vũ trụ ấy khiến {0.SimFirstName} hơi sợ không gian chật hẹp." />
+    <TextStringDefinition InstanceID="0xA0651CB8" TextString="Hồi phục sau cơn điên" />
+    <TextStringDefinition InstanceID="0x5165F6ED" TextString="Cảm giác khủng khiếp của sự điên loạn vũ trụ đã lui đi. Phew!" />
+    <TextStringDefinition InstanceID="0xEC5C0FDC" TextString="Sự điên loạn vũ trụ đã được chữa lành!" />
+    <TextStringDefinition InstanceID="0xFB525459" TextString="Tất cả sự hào hứng và không khí trong đầu {0.SimFirstName} đang mang lại chút lợi ích cho {M0.him}{F0.her}!" />
+    <TextStringDefinition InstanceID="0xCA228C18" TextString="Sự điên loạn vũ trụ: Hành động phi lý" />
+    <TextStringDefinition InstanceID="0x6B9567CD" TextString="Đầu {0.SimFirstName} vẫn còn xoay vặn một cách khó xử." />
+    <TextStringDefinition InstanceID="0x337A7071" TextString="Sự điên loạn vũ trụ: Mục tiêu bị lãng quên" />
+    <TextStringDefinition InstanceID="0xDE8C7B4E" TextString="{0.SimFirstName} lẽ ra phải làm gì nhỉ?" />
+    <TextStringDefinition InstanceID="0x044EF383" TextString="Cứu hộ hoàn tất!" />
+    <TextStringDefinition InstanceID="0x4B7AC2CC" TextString="Nhiệm vụ hoàn thành! Bà Foozzin và Fitz đã đoàn tụ. Ghi thêm một cuộc phiêu lưu vũ trụ thỏa mãn!" />
+    <TextStringDefinition InstanceID="0x8458166D" TextString="Cứu hộ thất bại" />
+    <TextStringDefinition InstanceID="0x2A600652" TextString="{0.SimFirstName} đã cố gắng hết sức để cứu pookapoo, nhưng sự cố gắng ấy không đủ." />
+    <TextStringDefinition InstanceID="0x7738393B" TextString="{0.SimFirstName} có thể cảm nhận được sức mạnh tập thể của một triệu bàn tay nhỏ bé, bị bỏ rơi, đang giận dữ lắc lư trước mặt {F0.her}{M0.him}." />
+    <TextStringDefinition InstanceID="0xA51BA110" TextString="Cuộc nổi dậy bị dập tắt" />
+    <TextStringDefinition InstanceID="0x1DA44475" TextString="Ối. Cảm thấy tệ vì đã một mình im lặng một triệu tiếng nói bằng chiếc giày đó. " />
+    <TextStringDefinition InstanceID="0x8CC40500" TextString="{0.SimFirstName} hôm nay đã khám phá ra rằng ngay cả quyền lực lớn cũng có thể làm giảm ý thức về bản thân nếu không được thực hiện cẩn thận." />
+    <TextStringDefinition InstanceID="0xE29FD370" TextString="Vùng đất hứa" />
+    <TextStringDefinition InstanceID="0x2B65BC55" TextString="Hài lòng vì đã giúp một nền văn minh ngoài hành tinh trong việc mở rộng lãnh thổ!" />
+    <TextStringDefinition InstanceID="0xC4762EDC" TextString="Người ngoài hành tinh nhỏ mọn!" />
+    <TextStringDefinition InstanceID="0x8B12B959" TextString="Không ai, ngay cả những chủng thể ngoài hành tinh vi mô, có thể khiến bạn làm điều bạn không muốn!" />
+    <TextStringDefinition InstanceID="0x48D15D94" TextString="Bị lật đổ" />
+    <TextStringDefinition InstanceID="0xC7DA53E1" TextString="Không bao giờ cảm thấy tốt khi bị không muốn, bị ghét, bị khinh miệt, và bị lật đổ. " />
+    <TextStringDefinition InstanceID="0xEDDED162" TextString="Không học được gì" />
+    <TextStringDefinition InstanceID="0xB5A38833" TextString="Chỉ là ... meh." />
+    <TextStringDefinition InstanceID="0x04CB11B4" TextString="Tiền nhân của Thời kỳ Hoàng kim" />
+    <TextStringDefinition InstanceID="0x7E532181" TextString="Kích hoạt một nền văn minh ngoài hành tinh đến thời kỳ hoàng kim - tất cả chỉ là một ngày làm việc!" />
+    <TextStringDefinition InstanceID="0xCC7BFE68" TextString="Trở nên nhân từ" />
+    <TextStringDefinition InstanceID="0xD17B17EA" TextString="Hệ quả của Quyền lực" />
+    <TextStringDefinition InstanceID="0x262DEE0B" TextString="Sửa chữa ngoài hành tinh" />
+    <TextStringDefinition InstanceID="0x44FBE244" TextString="Nồng độ adrenaline từ việc suýt trốn thoát những sinh vật giống nhện vẫn còn chảy trong người {0.SimFirstName}!" />
+    <TextStringDefinition InstanceID="0x9A49F842" TextString="Không đủ chỗ" />
+    <TextStringDefinition InstanceID="0x65045E93" TextString="Chỉ là không đủ chỗ trong tên lửa để đón người ngoài hành tinh. Than ôi..." />
+    <TextStringDefinition InstanceID="0x920646C4" TextString="Đã giúp di chuyển" />
+    <TextStringDefinition InstanceID="0xDFD90DF1" TextString="Sự hài lòng tự mãn từ việc giải quyết một tình huống logistics liên sao!" />
+    <TextStringDefinition InstanceID="0xCE4F5FE1" TextString="Đã gọi các Hiệp sĩ" />
+    <TextStringDefinition InstanceID="0xBBBCC9DE" TextString="Không gì làm sáng ngày hơn việc phá hoại buôn bán động vật vũ trụ hàng xóm bình thường!" />
+    <TextStringDefinition InstanceID="0xAA973F2F" TextString="Dây cáp bị cắn" />
+    <TextStringDefinition InstanceID="0xF53A62E0" TextString="Có vẻ như sinh vật đó để lại một lớp nhầy đặc, thối rữa khắp các đường dẫn điện chính của tàu vũ trụ. {0.SimFirstName} sẽ không bao giờ nhìn sữa chua theo cách cũ nữa." />
+    <TextStringDefinition InstanceID="0x08957810" TextString="Bị kích động!" />
+    <TextStringDefinition InstanceID="0xD25E1175" TextString="Ốc! Kẻ nóng đầu đó thực sự biết cách bóp nút của Sim!" />
+    <TextStringDefinition InstanceID="0x6A96714D" TextString="Sự khó chịu trong công việc" />
+    <TextStringDefinition InstanceID="0x713734B2" TextString="Việc đối phó với sự bất lực đã khiến hiệu suất của {0.SimFirstName} sa sút. Khó chịu vô cùng! " />
+    <TextStringDefinition InstanceID="0x89082482" TextString="Cơn giận vì trò đùa" />
+    <TextStringDefinition InstanceID="0x0CEC2DD3" TextString="Bị bắt quả tang và bị nhục nhã như vậy khiến {0.SimFirstName} có một cảm giác tức giận sâu sắc." />

@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x7EC00456" TextString="Làm Nóng" />
+    <TextStringDefinition InstanceID="0xB92EEAB8" TextString="Ăn Nhanh Một Bữa Hoặc Uống Nước" />
+    <TextStringDefinition InstanceID="0xD1E8B1FC" TextString="Lấy Đồ Uống" />
+    <TextStringDefinition InstanceID="0x8B683C34" TextString="Lấy Đồ Uống" />
+    <TextStringDefinition InstanceID="0xB37A82F1" TextString="Nấu Một Bữa Ăn Ngon" />
+    <TextStringDefinition InstanceID="0x922C300A" TextString="Nấu Ăn" />
+    <TextStringDefinition InstanceID="0xDC46762F" TextString="Lấy Một Miếng" />
+    <TextStringDefinition InstanceID="0x811E69FB" TextString="Lấy Một Mảnh" />
+    <TextStringDefinition InstanceID="0x29540B2F" TextString="Lấy Một Phần" />
+    <TextStringDefinition InstanceID="0x29EBC6A1" TextString="Làm Đồ Ăn" />
+    <TextStringDefinition InstanceID="0x4105AA3F" TextString="Ăn {1.ObjectName}" />
+    <TextStringDefinition InstanceID="0x2B2B62D8" TextString="...và Nướng" />
+    <TextStringDefinition InstanceID="0x2B2B62D9" TextString="Trộn Lớp Phủ" />
+    <TextStringDefinition InstanceID="0x2B2B62DA" TextString="Làm Nhân" />
+    <TextStringDefinition InstanceID="0x3B5E1D29" TextString="Vẽ Tranh" />
+    <TextStringDefinition InstanceID="0x212850C0" TextString="Giải Toán" />
+    <TextStringDefinition InstanceID="0xDD7097EA" TextString="Đặt Làm Cửa Trước" />
+    <TextStringDefinition InstanceID="0x1C4CAEBA" TextString="Đây đã là cửa trước rồi." />
+    <TextStringDefinition InstanceID="0x9A7AA39E" TextString="Quay Bảng" />
+    <TextStringDefinition InstanceID="0xFC089996" TextString="{0.String}" />
+    <TextStringDefinition InstanceID="0x59876E26" TextString="Băm Khéo Léo" />
+    <TextStringDefinition InstanceID="0x799FFABD" TextString="Hương Vị Sang Trọng!" />
+    <TextStringDefinition InstanceID="0xC376F52E" TextString="Tìm Kiếm Meme" />
+    <TextStringDefinition InstanceID="0x754DC996" TextString="Chơi Game" />
+    <TextStringDefinition InstanceID="0x19AF7CFF" TextString="Di Chuyển Hộ Gia Đình" />
+    <TextStringDefinition InstanceID="0x75CB5DEF" TextString="Nhà Trẻ Muốn Giới Thiệu..." />
+    <TextStringDefinition InstanceID="0x59C6FC18" TextString="Trò Chuyện Với" />
+    <TextStringDefinition InstanceID="0x42D557B0" TextString="Trò Chuyện" />
+    <TextStringDefinition InstanceID="0xAD8309AC" TextString="Duyệt Web" />
+    <TextStringDefinition InstanceID="0xE0A1EFE1" TextString="Viết Điên Cuồng" />
+    <TextStringDefinition InstanceID="0x864AECAC" TextString="Viết Sách" />
+    <TextStringDefinition InstanceID="0xE0402171" TextString="Khoa Học Viễn Tưởng" />
+    <TextStringDefinition InstanceID="0x395B308C" TextString="Khoa Học Viễn Tưởng Hai" />
+    <TextStringDefinition InstanceID="0x5293B0AA" TextString="Khoa Học Viễn Tưởng Một" />
+    <TextStringDefinition InstanceID="0xACDBEC0E" TextString="Đây là sách Khoa Học Viễn Tưởng Hai" />
+    <TextStringDefinition InstanceID="0x961EAE7C" TextString="Đây là sách Khoa Học Viễn Tưởng Một" />
+    <TextStringDefinition InstanceID="0xBB9101FB" TextString="Quấy Rối Diễn Đàn" />
+    <TextStringDefinition InstanceID="0x3A69A717" TextString="Nghe Phóng Tên Vũ Trụ" />
+    <TextStringDefinition InstanceID="0xBE52D6ED" TextString="Sims" />
+    <TextStringDefinition InstanceID="0xD87441CC" TextString="Không Phổ Biến" />
+    <TextStringDefinition InstanceID="0xFD28AEDA" TextString="Hiếm" />
+    <TextStringDefinition InstanceID="0x0499D574" TextString="Độ Hiếm: {0.String}" />
+    <TextStringDefinition InstanceID="0x51DF70BD" TextString="Phổ Biến" />
+    <TextStringDefinition InstanceID="0x3E6A583B" TextString="Cúp MySims" />
+    <TextStringDefinition InstanceID="0xA66E31D5" TextString="Kim Loại" />
+    <TextStringDefinition InstanceID="0x6DC57176" TextString="Nguyên Tố" />
+    <TextStringDefinition InstanceID="0xFDA8EBB4" TextString="Tinh Thể" />
+    <TextStringDefinition InstanceID="0x3765EC0C" TextString="Thu Thập" />
+    <TextStringDefinition InstanceID="0x30026EB8" TextString="Trống" />
+    <TextStringDefinition InstanceID="0x2A037F4D" TextString="Pha Chế" />

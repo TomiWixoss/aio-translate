@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x0D251B22" TextString="Ồ, thật là thất vọng." />
+    <TextStringDefinition InstanceID="0xD02E44A0" TextString="Thử thách lốp xe hoàn thành" />
+    <TextStringDefinition InstanceID="0x790BC925" TextString="Sửa xe tức thời chỉ là một phần của công việc." />
+    <TextStringDefinition InstanceID="0xA5D709AE" TextString="Thất bại vì lốp xẹp" />
+    <TextStringDefinition InstanceID="0xAACD71D7" TextString="Lốp xe đã được sửa, nhưng với cái giá phải trả là trông như một kẻ vụng về. Ôi sự xấu hổ!" />
+    <TextStringDefinition InstanceID="0x20230728" TextString="Tốt nhất quanh đây" />
+    <TextStringDefinition InstanceID="0x0882CDBD" TextString="Chiến thắng luôn là một liều thuốc tăng cường ego tốt." />
+    <TextStringDefinition InstanceID="0x9A60A4B9" TextString="Khách hàng biết ơn" />
+    <TextStringDefinition InstanceID="0x30AFCBA6" TextString="Nếu đúng là khách hàng luôn đúng, thì ý kiến của sếp không quan trọng." />
+    <TextStringDefinition InstanceID="0x510F0F4B" TextString="Khách hàng bị từ chối" />
+    <TextStringDefinition InstanceID="0x853F4384" TextString="Cảm thấy tồi tệ khi thực sự không cung cấp dịch vụ khách hàng tốt, ngay cả khi đó là chính sách." />
+    <TextStringDefinition InstanceID="0xF55145FE" TextString="Lời khen từ khách hàng" />
+    <TextStringDefinition InstanceID="0x372DFA47" TextString="Cảm thấy tốt khi thực sự giúp đỡ khách hàng và được đánh giá cao." />
+    <TextStringDefinition InstanceID="0x50863C45" TextString="Khu trưng bày hết hàng" />
+    <TextStringDefinition InstanceID="0xE75A891A" TextString="Bằng chứng rằng một khu trưng bày tốt là tốt cho doanh số!" />
+    <TextStringDefinition InstanceID="0x506421D0" TextString="Khách hàng bị chôn vùi" />
+    <TextStringDefinition InstanceID="0x9AB7F835" TextString="Khu trưng bày không chỉ nên hấp dẫn mà còn an toàn. Oops." />
+    <TextStringDefinition InstanceID="0xB49266C7" TextString="Máy xúc lật" />
+    <TextStringDefinition InstanceID="0x28C175A8" TextString="Có lẽ công việc này nên có thêm phụ cấp môi trường độc hại." />
+    <TextStringDefinition InstanceID="0x05992219" TextString="Bậc thầy máy xúc" />
+    <TextStringDefinition InstanceID="0xAC45ED86" TextString="Thật vui khi điều khiển một cỗ máy lớn như vậy-- và hiệu quả hơn nhiều." />
+    <TextStringDefinition InstanceID="0x4AF3F3AC" TextString="Thiết kế tối giản" />
+    <TextStringDefinition InstanceID="0x858F7549" TextString="Một chút sáng tạo có thể đi rất xa trong việc gây ấn tượng với cả khách hàng và sếp." />
+    <TextStringDefinition InstanceID="0xB5B04CA0" TextString="Gấp đôi công việc" />
+    <TextStringDefinition InstanceID="0xE269A125" TextString="Có lẽ đây không phải là khách hàng biết đánh giá một cách tiếp cận sáng tạo." />
+    <TextStringDefinition InstanceID="0x46A956B4" TextString="Tốc độ kỷ lục" />
+    <TextStringDefinition InstanceID="0xDD0CC881" TextString="Đôi khi liều lĩnh có thể mang lại kết quả." />
+    <TextStringDefinition InstanceID="0x5C7F1C8F" TextString="Tư duy chủ động" />
+    <TextStringDefinition InstanceID="0xD4B28BC0" TextString="Có thể đã mạo hiểm, nhưng nó đáng giá." />
+    <TextStringDefinition InstanceID="0xBBA16AD2" TextString="Bánh mì kẹp có lông" />
+    <TextStringDefinition InstanceID="0x472FAA83" TextString="Ừ, thật là ghê tởm." />
+    <TextStringDefinition InstanceID="0x1040A42D" TextString="Quy tắc năm giây" />
+    <TextStringDefinition InstanceID="0x80EB7512" TextString="Cho đến khi nó rơi xuống sàn năm giây, nó không thực sự là thức ăn từ sàn, phải không?" />
+    <TextStringDefinition InstanceID="0xB3F82FFE" TextString="Chương trình dọn dẹp" />
+    <TextStringDefinition InstanceID="0xD2ED6847" TextString="Dọn phòng ăn không phải là cách để tận dụng giờ nghỉ." />
+    <TextStringDefinition InstanceID="0x7E85EE0E" TextString="Giờ nghỉ" />
+    <TextStringDefinition InstanceID="0x33CEFAB7" TextString="Giờ nghỉ đó không đủ dài để chất nhầy tự dọn sạch. Tò mò không biết nó đi đâu...." />
+    <TextStringDefinition InstanceID="0x6337A873" TextString="Thêm thực hành" />
+    <TextStringDefinition InstanceID="0x774FA19C" TextString="Thực hành làm cho hoàn hảo, rốt cuộc. Cuối cùng." />
+    <TextStringDefinition InstanceID="0xD14BD0A8" TextString="Tác phẩm pha chế" />
+    <TextStringDefinition InstanceID="0x4B6A5E3D" TextString="Chắc chắn có một nghệ thuật trong việc pha cà phê, và {0.SimFirstName} đang hoàn thiện nó." />
+    <TextStringDefinition InstanceID="0xF6B7FD08" TextString="Cơn giận dữ vì bánh quy" />
+    <TextStringDefinition InstanceID="0x1D96AE1D" TextString="Lần sau, có lẽ nên giấu bánh quy và giả vờ chúng không tồn tại." />
+    <TextStringDefinition InstanceID="0xAA4B0258" TextString="Bài học cuộc sống" />
+    <TextStringDefinition InstanceID="0xC4C5E7EB" TextString="Những đứa trẻ này đang học những bài học quý giá sẽ theo chúng suốt cuộc đời." />
+    <TextStringDefinition InstanceID="0x8A5C6D9A" TextString="Để lại đống lộn xộn" />
+    <TextStringDefinition InstanceID="0xCCD2D83B" TextString="Tại sao trẻ em luôn chờ cho đến khi bố mẹ đi ra ngoài để làm những chuyện như vậy?" />
+    <TextStringDefinition InstanceID="0x45374A83" TextString="Dọn dẹp đống lộn xộn" />
+    <TextStringDefinition InstanceID="0x518C0FCC" TextString="Việc dọn dẹp không tệ lắm, và bố mẹ rất vui." />
+    <TextStringDefinition InstanceID="0x1212E90C" TextString="Sơn nâu ở khắp mọi nơi" />

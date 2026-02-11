@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x8BA292EA" TextString="Lắng nghe câu chuyện cười" />
+    <TextStringDefinition InstanceID="0xDF197582" TextString="Chuyện cười về Chim Cánh Cụt" />
+    <TextStringDefinition InstanceID="0xF458636B" TextString="Lắng nghe câu chuyện cười" />
+    <TextStringDefinition InstanceID="0x12CF772C" TextString="Chuyện cười về Kỷ niệm Gia đình Vui vẻ" />
+    <TextStringDefinition InstanceID="0x2D09E0E8" TextString="Chuyện cười về The High Republic" />
+    <TextStringDefinition InstanceID="0x623FCC8F" TextString="Lắng nghe câu chuyện cười" />
+    <TextStringDefinition InstanceID="0xD26BB5B1" TextString="Chuyện cười về Thời trang" />
+    <TextStringDefinition InstanceID="0x2BB18CFE" TextString="Bị {1.SimFirstName} xúc phạm" />
+    <TextStringDefinition InstanceID="0x4D049CC6" TextString="Chế giễu" />
+    <TextStringDefinition InstanceID="0x0079F695" TextString="Chế giễu" />
+    <TextStringDefinition InstanceID="0xCA702E05" TextString="Luyện tập chế giễu" />
+    <TextStringDefinition InstanceID="0xB2871B10" TextString="Thảo luận vấn đề" />
+    <TextStringDefinition InstanceID="0x1E249A3C" TextString="Hỏi liệu Mặt Trăng có phải là Phô mai" />
+    <TextStringDefinition InstanceID="0x1FF0E8D0" TextString="Hỏi liệu Mặt Trăng có phải là Bọt biển" />
+    <TextStringDefinition InstanceID="0x63166DA2" TextString="Hỏi liệu Mặt Trăng có phải là Trứng" />
+    <TextStringDefinition InstanceID="0x0DD6B42D" TextString="Hỏi liệu Mặt Trăng có phải là Chuối" />
+    <TextStringDefinition InstanceID="0x5B60A6AB" TextString="Lắng nghe {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x00265BFD" TextString="Mời đến Tiệc giả" />
+    <TextStringDefinition InstanceID="0x65B505E7" TextString="Nói dối về Nơi X ở" />
+    <TextStringDefinition InstanceID="0xB65CEDDF" TextString="Được mời đến" />
+    <TextStringDefinition InstanceID="0x87CBBAE1" TextString="Mời đến..." />
+    <TextStringDefinition InstanceID="0x7894A482" TextString="Bị {1.SimFirstName} đe dọa" />
+    <TextStringDefinition InstanceID="0x4261401A" TextString="Đe dọa" />
+    <TextStringDefinition InstanceID="0xCDFE01ED" TextString="WooHoo" />
+    <TextStringDefinition InstanceID="0x7C5276D5" TextString="Thả thính với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x71866B64" TextString="Thì thầm không có gì đặc biệt" />
+    <TextStringDefinition InstanceID="0x01234AEE" TextString="Thử có em bé" />
+    <TextStringDefinition InstanceID="0x23B161ED" TextString="Bị {1.SimFirstName} cù lét" />
+    <TextStringDefinition InstanceID="0x4027E922" TextString="Trêu chọc không thuyết phục như thả thính" />
+    <TextStringDefinition InstanceID="0x52B8BDD3" TextString="Bị {1.SimFirstName} trêu chọc" />
+    <TextStringDefinition InstanceID="0x0F32A565" TextString="Trêu chọc thả thính" />
+    <TextStringDefinition InstanceID="0x5180110E" TextString="Ôm ấp miễn cưỡng" />
+    <TextStringDefinition InstanceID="0xB0C820B7" TextString="Bị {1.SimFirstName} ôm ấp" />
+    <TextStringDefinition InstanceID="0xB3D39199" TextString="Ôm ấp" />
+    <TextStringDefinition InstanceID="0xAF482CC6" TextString="Tranh luận Chiến lược Trò chơi với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x6EE934EE" TextString="Tranh luận Chiến lược Trò chơi" />
+    <TextStringDefinition InstanceID="0xD7729893" TextString="Tranh luận Đội trưởng với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x95B5C625" TextString="Tranh luận Đội trưởng Tốt nhất" />
+    <TextStringDefinition InstanceID="0x4AE6C938" TextString="Tranh luận Phi công Tốt nhất" />
+    <TextStringDefinition InstanceID="0x1DF50327" TextString="Tranh luận Than hoa vs. Propane" />
+    <TextStringDefinition InstanceID="0x1A127405" TextString="Thảo luận Trò chơi" />
+    <TextStringDefinition InstanceID="0x7DB1558B" TextString="Bị thách thức đi khỏa thân" />
+    <TextStringDefinition InstanceID="0x3FFA5E1D" TextString="Thách đi khỏa thân" />
+    <TextStringDefinition InstanceID="0x9BFDF306" TextString="Bị {1.SimFirstName} xúc phạm" />
+    <TextStringDefinition InstanceID="0x62E00C2E" TextString="Chỉ trích Kỹ thuật WooHoo" />
+    <TextStringDefinition InstanceID="0x73E4C34B" TextString="Bị {1.SimFirstName} thuyết phục để bỏ vợ/chồng" />
+    <TextStringDefinition InstanceID="0x5F4EDBDD" TextString="Thuyết phục bỏ vợ/chồng" />
+    <TextStringDefinition InstanceID="0xCD940CFA" TextString="{0.SimFirstName} đã thuyết phục {1.SimFirstName} bỏ {M1.his}{F1.her} vợ/chồng!" />
+    <TextStringDefinition InstanceID="0x4F829F57" TextString="Khuyến khích an ủi về Cái chết" />
+    <TextStringDefinition InstanceID="0x8F686D45" TextString="Được {1.SimFirstName} chúc mừng" />

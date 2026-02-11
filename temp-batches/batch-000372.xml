@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xE4949DD1" TextString="Sử dụng kính hiển vi" />
+    <TextStringDefinition InstanceID="0x50139905" TextString="Nhấp vào một tàu vũ trụ và chọn Lắp đặt động cơ phụ dưới mục Nâng cấp." />
+    <TextStringDefinition InstanceID="0x013C84E4" TextString="Nâng cấp tàu vũ trụ với động cơ phụ" />
+    <TextStringDefinition InstanceID="0x49491195" TextString="Nhấp vào một tàu vũ trụ và chọn Lắp đặt ổn định hạ cánh dưới mục Nâng cấp." />
+    <TextStringDefinition InstanceID="0x0D70E6F4" TextString="Nâng cấp tàu vũ trụ với ổn định hạ cánh" />
+    <TextStringDefinition InstanceID="0xA8DE23FD" TextString="Nhấp vào một tàu vũ trụ và chọn Lắp đặt máy tính hạ cánh dưới mục Nâng cấp." />
+    <TextStringDefinition InstanceID="0xA4BA160C" TextString="Nâng cấp tàu vũ trụ với máy tính hạ cánh" />
+    <TextStringDefinition InstanceID="0xD7DC4387" TextString="Nhấp vào một tàu vũ trụ và chọn Mở rộng bồn nhiên liệu dưới mục Nâng cấp." />
+    <TextStringDefinition InstanceID="0x7601A096" TextString="Nâng cấp bồn nhiên liệu tàu vũ trụ" />
+    <TextStringDefinition InstanceID="0xF05ACF3C" TextString="Nhấp vào một tàu vũ trụ và chọn Lắp đặt hệ thống phòng thủ pháo ion dưới mục Nâng cấp." />
+    <TextStringDefinition InstanceID="0x61EA854B" TextString="Nâng cấp hệ thống phòng thủ tàu vũ trụ" />
+    <TextStringDefinition InstanceID="0x79F1B11D" TextString="Nhấp vào một tàu vũ trụ và chọn Lắp đặt kho hàng dưới mục Nâng cấp." />
+    <TextStringDefinition InstanceID="0xED384CEC" TextString="Nâng cấp tàu vũ trụ với kho hàng lớn hơn" />
+    <TextStringDefinition InstanceID="0x9F1F03B7" TextString="Nhấp vào một thiết bị gia dụng, điện tử hoặc vật dụng ống dẫn và chọn Nâng cấp. Nhân vật có thể mở khóa tương tác này bằng cách tăng kỹ năng Khéo léo. Phụ tùng nâng cấp có thể mua từ máy tính." />
+    <TextStringDefinition InstanceID="0xD67FBBC5" TextString="Nâng cấp một vật thể" />
+    <TextStringDefinition InstanceID="0x58F705AE" TextString="Thử có con với {2.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x7AF3FA6C" TextString="Nhấp vào máy tính và chọn Tán phét diễn đàn dưới mục Giao tiếp xã hội." />
+    <TextStringDefinition InstanceID="0xA908847B" TextString="Tán phét trên diễn đàn web" />
+    <TextStringDefinition InstanceID="0xF0BD72E5" TextString="Nhấp vào cây bonsai và chọn Tạo dáng hoặc Cắt tỉa hình dáng. Nhân vật có thể tạo các hình dạng khác nhau bằng cách tăng kỹ năng Trồng trọt." />
+    <TextStringDefinition InstanceID="0x04D15E04" TextString="Cắt tỉa cây bonsai" />
+    <TextStringDefinition InstanceID="0x2F0A1554" TextString="Đi đến Công viên bằng cách mở Bản đồ Thế giới và nhấp vào Địa điểm. Từ đó, bạn có thể chọn những Nhân vật nào muốn đi cùng!" />
+    <TextStringDefinition InstanceID="0x2BA2A5F3" TextString="Đi đến Công viên" />
+    <TextStringDefinition InstanceID="0xE9FB69D6" TextString="Nhấp vào một Nhân vật khác và chọn Kiểm tra lý lịch. Nhân vật có thể mở khóa tương tác xã hội này bằng cách tiến trong Lộ trình Đặc vụ Kim cương của Nghề nghiệp Đặc vụ bí mật." />
+    <TextStringDefinition InstanceID="0xE9811104" TextString="Kiểm tra lý lịch của ai đó" />
+    <TextStringDefinition InstanceID="0x1A6D4BA2" TextString="Nhấp vào kính viễn vọng và chọn Tìm kiếm sự thật. Nhân vật có thể mở khóa tương tác này bằng cách tăng kỹ năng Logic." />
+    <TextStringDefinition InstanceID="0xC54604B1" TextString="Tìm kiếm sự thật" />
+    <TextStringDefinition InstanceID="0x923A1CBB" TextString="Nhấp vào một Nhân vật và chọn Làm sợ dưới mục Hành vi xấu. Nhân vật có thể mở khóa tương tác xã hội này bằng cách tăng kỹ năng Hành vi xấu." />
+    <TextStringDefinition InstanceID="0x19419E1A" TextString="Làm sợ ai đó" />
+    <TextStringDefinition InstanceID="0xBC283416" TextString="Lục lạo trong thùng rác" />
+    <TextStringDefinition InstanceID="0x63242D4E" TextString="Nhấp vào một thùng rác và Lục lạo để tìm thức ăn bên trong." />
+    <TextStringDefinition InstanceID="0x0804EC9E" TextString="Nhấp vào một Nhân vật và chọn lời giới thiệu thô lỗ." />
+    <TextStringDefinition InstanceID="0x808117DE" TextString="Tự giới thiệu một cách thô lỗ" />
+    <TextStringDefinition InstanceID="0x6FD06B6B" TextString="Nhấp vào một Nhân vật và chọn một Tương tác xã hội từ mục Lãng mạn." />
+    <TextStringDefinition InstanceID="0x67B7DB4A" TextString="Làm một việc lãng mạn" />
+    <TextStringDefinition InstanceID="0x3022BFD6" TextString="Nhấp vào gương và chọn Luyện tập lời tán tỉnh. Nhân vật có thể mở khóa tương tác này bằng cách tăng kỹ năng Sức hút và ở trạng thái Tự tin." />
+    <TextStringDefinition InstanceID="0x80C7D304" TextString="Nhấp vào gương và chọn Luyện tập lời tán tỉnh. Nhân vật có thể mở khóa tương tác này bằng cách tăng kỹ năng Sức hút và ở trạng thái Lãng mạn." />
+    <TextStringDefinition InstanceID="0x253F4963" TextString="Luyện tập lời tán tỉnh trước gương" />
+    <TextStringDefinition InstanceID="0x0745EF05" TextString="Nhấp vào một cây và chọn Hồi sinh cây. Nhân vật có thể mở khóa tương tác này bằng cách tăng kỹ năng Trồng trọt và thu thập Cành cây. Cành cây có thể thu thập qua Tạo dáng bonsai hoặc Thu hoạch cây." />
+    <TextStringDefinition InstanceID="0x9C6E06E4" TextString="Hồi sinh một cây đã chết" />
+    <TextStringDefinition InstanceID="0x2B145685" TextString="Nhấp vào Máy tính và chọn Nghiên cứu Mẹo Tập thể dục dưới mục Nghiên cứu. Nhân vật có thể mở khóa tương tác này bằng cách tăng kỹ năng Thể dục." />
+    <TextStringDefinition InstanceID="0xA5DB5D64" TextString="Nghiên cứu Mẹo Tập thể dục" />
+    <TextStringDefinition InstanceID="0x71D8287D" TextString="Nhấp vào máy tính và chọn Duyệt Simpedia dưới mục Web." />
+    <TextStringDefinition InstanceID="0x01EB038C" TextString="Duyệt Simpedia" />
+    <TextStringDefinition InstanceID="0x31294130" TextString="Tham gia một đợt nghiên cứu cuồng trên Web bằng bất kỳ Máy tính nào." />
+    <TextStringDefinition InstanceID="0x2A55EBD8" TextString="Tôi cần thêm ý tưởng!" />
+    <TextStringDefinition InstanceID="0x7FBA3CE8" TextString="Nhấp vào Máy tính và chọn Nghiên cứu Chiến lược Chơi game Nâng cao dưới mục Web. Nhân vật mở khóa tương tác này bằng cách tăng kỹ năng Chơi game." />
+    <TextStringDefinition InstanceID="0x477C5457" TextString="Nghiên cứu Trò chơi điện tử" />
+    <TextStringDefinition InstanceID="0x2202C6D5" TextString="Nhấp vào Máy tính và chọn Tìm Công thức mới dưới mục Web. Nhân vật có thể mở khóa tương tác này bằng cách tăng kỹ năng Nấu ăn." />
+    <TextStringDefinition InstanceID="0xAD58FF34" TextString="Nghiên cứu Kỹ thuật Nấu ăn" />
+    <TextStringDefinition InstanceID="0x8E5678AE" TextString="Sau khi sửa chữa một vật thể, một đống phế liệu được tạo ra. Nhấp vào một trong những đống này và chọn Thu thập Phụ tùng để nhận Phụ tùng nâng cấp. Ngoài ra, Nhân vật có kỹ năng Khéo léo cao có thể Thu thập Phụ tùng từ vật thể bị hỏng, điều này sẽ phá hủy hoàn toàn vật thể đó." />

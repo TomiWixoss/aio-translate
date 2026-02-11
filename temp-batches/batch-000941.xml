@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x01D835B4" TextString="Buổi Diễn Thời Trang" />
+    <TextStringDefinition InstanceID="0x00A7C2BA" TextString="{0.SimFirstName} có cơ hội tham gia những buổi diễn thời trang pop-up độc nhất, đầy mẫu mã thời thượng và các ngôi sao ngành. Làm thế nào {M0.he}{F0.she} sẽ tiếp cận sự kiện?" />
+    <TextStringDefinition InstanceID="0x5C041BE1" TextString="Gây Ấn Tượng" />
+    <TextStringDefinition InstanceID="0x353E5CD8" TextString="Tập Trung Vào Thời Trang" />
+    <TextStringDefinition InstanceID="0xA13E45AF" TextString="Hạn Chót Bài Viết" />
+    <TextStringDefinition InstanceID="0x2F5316ED" TextString="Đã đến hạn chót cho bài viết mới nhất của {0.SimFirstName} - có thể nói là hay nhất {M0.he's}{F0.she's} từng viết, như tài liệu thực sự cho giải thưởng Fabu-litzer - nhưng bài viết này lại thiếu tham chiếu, trích dẫn, sự kiện. {M0.He}{F0.She} sẽ làm gì?" />
+    <TextStringDefinition InstanceID="0xF3C3E9CE" TextString="Nộp Như Vậy" />
+    <TextStringDefinition InstanceID="0xC0E8181F" TextString="Tạo Sự Kiện Giả" />
+    <TextStringDefinition InstanceID="0xBBC0130A" TextString="Bài Bình Luận Tự Do" />
+    <TextStringDefinition InstanceID="0xD105DDAC" TextString="Biết tin, {0.SimFirstName} biết rằng {M0.he}{F0.she} có cơ hội nộp chỉ một bài báo cho tạp chí văn hóa hàng đầu và gia tăng sự hiện diện của {M0.his}{F0.her}. Nhưng sẽ viết về điều gì?" />
+    <TextStringDefinition InstanceID="0x4BB014AF" TextString="Bài Viết Nhẹ Nhàng" />
+    <TextStringDefinition InstanceID="0x93FB92AA" TextString="Bài Điều Tra Sâu Sắc" />
+    <TextStringDefinition InstanceID="0x60DC0229" TextString="Một Thử Thách Mới" />
+    <TextStringDefinition InstanceID="0x8EA7437B" TextString="{0.SimFirstName} cần một thử thách mới ở công việc. Làm thế nào {M0.he}{F0.she} sẽ yêu cầu sếp?" />
+    <TextStringDefinition InstanceID="0xFD69954E" TextString="Đòi Hỏi Thử Thách" />
+    <TextStringDefinition InstanceID="0x98D4AEB1" TextString="Đưa Ra Gợi Ý" />
+    <TextStringDefinition InstanceID="0x68B9A25D" TextString="{0.SimFirstName} đòi hỏi một thử thách mới từ sếp {M0.his}{F0.her}, người không có tâm trạng để đón nhận nhân viên cà khịa. Sếp {M0.his}{F0.her} nhận thấy sự chủ động, nhưng lần sau {M0.he}{F0.she} cần thể hiện sự khéo léo hơn." />
+    <TextStringDefinition InstanceID="0xFCE1A5ED" TextString="{0.SimFirstName} ghét phải chờ người khác đưa ra ý tưởng cho {0.SimPronounObjective}, nên {M0.he}{F0.she} trình bày cho sếp {M0.his}{F0.her} những gợi ý về cách {M0.he}{F0.she} có thể được thử thách. Sếp {0.SimFirstName} đánh giá cao sự táo bạo và khen ngợi {0.SimPronounObjective}." />
+    <TextStringDefinition InstanceID="0x7678A50A" TextString="{0.SimFirstName} bước vào văn phòng sếp, đập {M0.his}{F0.her} nắm đấm lên bàn và đòi hỏi một thử thách. Sếp {M0.his}{F0.her} ngạc nhiên, nhưng rất thích sự gan dạ và ngay lập tức giao cho {M0.his}{F0.her} một nhiệm vụ mới để theo đuổi." />
+    <TextStringDefinition InstanceID="0x151E2096" TextString="Yêu Cầu Phản Hồi" />
+    <TextStringDefinition InstanceID="0xCA4B1E28" TextString="{0.SimFirstName} cần đưa ra phản hồi khó khăn cho đồng nghiệp. {M0.He}{F0.She} nên đưa ra nhận xét như thế nào?" />
+    <TextStringDefinition InstanceID="0x869C6EFD" TextString="Kết Hợp Với Lời Khen" />
+    <TextStringDefinition InstanceID="0x1B0CB186" TextString="Thẳng Thắn và Trung Thực" />
+    <TextStringDefinition InstanceID="0x620E179A" TextString="{0.SimFirstName} khen đồng nghiệp, nhưng sau đó lồng ghép những phản hồi khắc nghiệt. Đồng nghiệp bất ngờ và hơi buồn. {0.SimFirstName} học được bài học tốt về sự khéo léo khi phản hồi." />
+    <TextStringDefinition InstanceID="0x0889411E" TextString="{0.SimFirstName} tiếp cận đồng nghiệp {M0.his}{F0.her} và đưa ra phản hồi rất trung thực. {M0.He}{F0.She} cũng làm việc với đồng nghiệp {M0.his}{F0.her} để tạo ra kế hoạch khắc phục vấn đề. Sếp {M0.his}{F0.her} khen {0.SimFirstName} vì làm việc tốt với các đồng đội." />
+    <TextStringDefinition InstanceID="0x0841CF21" TextString="{0.SimFirstName} dành cho đồng nghiệp {M0.his}{F0.her} những lời tử tế về công việc tốt của {M0.his}{F0.her}, nhưng sau đó đưa ra phản hồi nghiêm khắc về hành vi gần đây. Lời nhận xét được tiếp nhận tốt và cả hai trở nên mạnh mẽ hơn." />
+    <TextStringDefinition InstanceID="0xBD5B6DE7" TextString="Gây Ấn Tượng Với Sếp" />
+    <TextStringDefinition InstanceID="0xCE21D3E5" TextString="{0.SimFirstName} muốn gây ấn tượng với sếp để được thăng chức. {M0.He}{F0.She} nên làm như thế nào?" />
+    <TextStringDefinition InstanceID="0x310B34D8" TextString="Hoàn Thành Dự Án Phụ" />
+    <TextStringDefinition InstanceID="0x46ACF013" TextString="Làm Thêm Giờ" />
+    <TextStringDefinition InstanceID="0x927B15D8" TextString="{0.SimFirstName} thực sự đẩy {M0.himself}{F0.herself} quá sức, điều này chỉ dẫn đến mệt mỏi và công việc tổng thể lộn xộn. {M0.He}{F0.She} làm thêm một chút, nhưng điều đó không thực sự gây ấn tượng với sếp." />
+    <TextStringDefinition InstanceID="0x6450ED93" TextString="{0.SimFirstName} bắt đầu làm việc xuyên qua các giờ nghỉ để hoàn thành công việc và kết quả rõ rệt. Sếp {M0.his}{F0.her} dừng lại và ám chỉ rằng thăng chức không còn xa, điều làm mọi thứ đáng giá." />
+    <TextStringDefinition InstanceID="0x97B3D8E8" TextString="{0.SimFirstName} chủ động hoàn thành một nhiệm vụ phụ thường bị bỏ qua mà không ai khác muốn làm. Mọi người ngạc nhiên khi thấy nhiệm vụ cuối cùng được hoàn thành. Đặc biệt là sếp {0.SimFirstName}, người rất ấn tượng, có lẽ sắp được thăng chức..." />
+    <TextStringDefinition InstanceID="0x50C6024C" TextString="Sinh Nhật Sếp!" />
+    <TextStringDefinition InstanceID="0x2762C872" TextString="{0.SimFirstName} muốn mua một món quà sinh nhật cho sếp {M0.his}{F0.her}, nhưng không thể rời công sở để mua. {M0.He}{F0.She} nên làm thế nào?" />
+    <TextStringDefinition InstanceID="0x3B18915F" TextString="Tự Làm Quà" />
+    <TextStringDefinition InstanceID="0x4877FC40" TextString="Đặt Hàng Trực Tuyến" />
+    <TextStringDefinition InstanceID="0x6518BB08" TextString="{0.SimFirstName} cố gắng tự tạo một thứ gì đó từ các vật dụng trên bàn {M0.his}{F0.her}, nhưng trở nên bối rối. Sếp {M0.his}{F0.her} bước tới, hỏi han và rất vui vì về cử chỉ này. {0.SimFirstName} có thể rời đi với cảm giác tốt về nỗ lực trực tiếp từ sếp trong ngày sinh nhật." />
+    <TextStringDefinition InstanceID="0xA12942EB" TextString="{0.SimFirstName} đoán sẵn sếp {M0.his}{F0.her} muốn gì và hoàn toàn sai. May mắn là sếp {M0.his}{F0.her} khá tử tế về chuyện này. Quan trọng là tấm lòng!" />
+    <TextStringDefinition InstanceID="0xCE594814" TextString="{0.SimFirstName} biết sếp {M0.his}{F0.her} thích ăn ở các nhà hàng sang, nên {M0.he}{F0.she} nhanh chóng đặt một phiếu quà tặng cho quán cà phê hải sản yêu thích của {M0.his}{F0.her}, Tuna Tortuga. Không lãng phí thời gian, {0.SimFirstName} giải quyết được bí ẩn sinh nhật và hoàn thành công việc đúng giờ." />
+    <TextStringDefinition InstanceID="0xA06A5A1F" TextString="{0.SimFirstName} là một thiên tài trong việc tạo ra những món quà ý nghĩa từ sự kết hợp của kẹp giấy, dây cao su và giấy in. Sếp {M0.his}{F0.her} thực sự ấn tượng với kỹ năng và sự sáng tạo của {M0.his}{F0.her}!" />
+    <TextStringDefinition InstanceID="0x030C89D5" TextString="Quản Lý Thực Tập Sinh" />
+    <TextStringDefinition InstanceID="0x2C09BC17" TextString="{0.SimFirstName} được giao một thực tập sinh để huấn luyện và quản lý. {M0.He}{F0.She} nên xử lý thực tập sinh {M0.his}{F0.her} như thế nào?" />
+    <TextStringDefinition InstanceID="0xBF3600A2" TextString="Giao Nhiệm Vụ Khó" />
+    <TextStringDefinition InstanceID="0xD9E3708D" TextString="Giao Nhiệm Vụ Pha Cà Phê" />
+    <TextStringDefinition InstanceID="0x52199999" TextString="{0.SimFirstName} cố gắng ném thực tập sinh vào vùng nước sâu, nhưng họ không thực sự đáp ứng được nhiệm vụ. {0.SimFirstName} cuối cùng dành nhiều thời gian huấn luyện thực tập sinh, nhưng sếp ấn tượng với khả năng đào tạo người mới của {M0.his}{F0.her}." />
+    <TextStringDefinition InstanceID="0x021FA459" TextString="Với thực tập sinh lo nhiệm vụ pha cà phê, {0.SimFirstName} có thể tập trung vào những nhiệm vụ thách thức nhất của {M0.his}{F0.her} với đầy đủ caffeine và đôi chân được nghỉ ngơi. Đó là một ngày thành công như một quản lý!" />
+    <TextStringDefinition InstanceID="0x33DFBE3E" TextString="{0.SimFirstName} tin rằng nên ném thịt tươi vào vùng nước sâu và thực tập sinh chứng minh họ biết bơi. Giữa {0.SimFirstName} và Thực Tập Sinh, họ gần như tăng gấp ba sản lượng công việc thông thường và nhận được lời khen từ sếp!" />
+    <TextStringDefinition InstanceID="0x48F47042" TextString="Hạn Chót Đến Gần" />
+    <TextStringDefinition InstanceID="0x42E95C04" TextString="{0.SimFirstName} có một hạn chót quan trọng sắp đến và cần tìm cách hoàn thành nhanh. {M0.He}{F0.She} nên làm gì?" />

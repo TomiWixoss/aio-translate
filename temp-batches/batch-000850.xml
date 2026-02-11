@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xE8655065" TextString="Hộ gia đình của bạn không đủ Simoleons để trả phí hàng ngày của Chuyến đi. Thật không may, Chuyến đi này sẽ kết thúc ngay lập tức." />
+    <TextStringDefinition InstanceID="0xE9F633BA" TextString="Thanh toán Chuyến đi" />
+    <TextStringDefinition InstanceID="0x56FEE841" TextString="Lô đất này không có đủ giường ngủ cho tất cả các Sim được lên lịch trong Chuyến đi này. Nếu Chuyến đi này bao gồm một đêm nghỉ, hãy đảm bảo đặt đủ giường ngủ từ Chế độ Xây dựng để mỗi Sim có chỗ ngủ." />
+    <TextStringDefinition InstanceID="0x80159944" TextString="{0.SimFirstName} đã có cái này rồi." />
+    <TextStringDefinition InstanceID="0x549D83D8" TextString="Ngẫu nhiên hóa Sở thích" />
+    <TextStringDefinition InstanceID="0x137A445C" TextString="Thông điệp Ác ý" />
+    <TextStringDefinition InstanceID="0x9F4DCDD9" TextString="Đừng nương tay. Hãy để ai đó biết bạn không thích họ. Lời khen giả tạo cũng được khuyến khích." />
+    <TextStringDefinition InstanceID="0xF6978BF5" TextString="Cảm xúc Vui vẻ" />
+    <TextStringDefinition InstanceID="0x72B65D6A" TextString="Chia sẻ với cả thế giới về niềm vui mà sự kiện này mang lại cho bạn." />
+    <TextStringDefinition InstanceID="0x9A9EB6DA" TextString="Thông điệp Hài hước" />
+    <TextStringDefinition InstanceID="0x4E3C7A7B" TextString="Chia sẻ một chút hài hước, một câu đùa tại một thời điểm." />
+    <TextStringDefinition InstanceID="0xB31F8CB3" TextString="Thông điệp Tán tỉnh" />
+    <TextStringDefinition InstanceID="0x65581ADC" TextString="Lách vào hộp thư khi mũi tên của Cupid cần một chút trợ giúp để tìm đúng mục tiêu." />
+    <TextStringDefinition InstanceID="0x5134BB38" TextString="Cảm xúc Tràn đầy Năng lượng" />
+    <TextStringDefinition InstanceID="0xEA6C5E6D" TextString="Sự kiện này khiến tôi tràn đầy năng lượng! Tôi cần lan tỏa sự phấn khích này đến tất cả người theo dõi." />
+    <TextStringDefinition InstanceID="0x3C425BDA" TextString="Cảm xúc Khó chịu" />
+    <TextStringDefinition InstanceID="0x61FB417B" TextString="Một số sự kiện chỉ đơn thuần là khó chịu, và bạn có trách nhiệm để người theo dõi của mình biết điều này." />
+    <TextStringDefinition InstanceID="0x983B30F5" TextString="Cảm xúc Căng thẳng" />
+    <TextStringDefinition InstanceID="0x8675246A" TextString="Hãy để mọi người biết về sự căng thẳng mà sự kiện này gây ra cho bạn." />
+    <TextStringDefinition InstanceID="0xBC21CF31" TextString="Cảm xúc Bối rối" />
+    <TextStringDefinition InstanceID="0x953FE20E" TextString="Điều này thật là bối rối. Cách thông minh là chia sẻ sự bối rối của tôi với cả thế giới." />
+    <TextStringDefinition InstanceID="0x679022C6" TextString="Thông điệp Thân thiện" />
+    <TextStringDefinition InstanceID="0x017F361F" TextString="Một lời nhắn thân thiện nhanh chóng để giữ liên lạc hoặc chỉ để cho ai đó biết bạn quan tâm." />
+    <TextStringDefinition InstanceID="0xB45EE379" TextString="Hũ Đựng Tiền" />
+    <TextStringDefinition InstanceID="0xED02C318" TextString="Không có Máy bán vé trên lô đất. Nó có thể được mua trong danh mục Thiết bị gia dụng trong Chế độ Xây dựng." />
+    <TextStringDefinition InstanceID="0x7B1EBC54" TextString="Không có Kệ trưng bày Bán lẻ trên lô đất. Để kích hoạt Bán lẻ Doanh nghiệp Nhỏ, hãy mua một Kệ trưng bày Bán lẻ từ danh mục Bề mặt trong Chế độ Xây dựng." />
+    <TextStringDefinition InstanceID="0x4CEC32A9" TextString="Doanh nghiệp Nhỏ này không có nhân viên. Để tuyển dụng nhân viên, hãy chọn nút Quản lý Nhân viên trong bảng Doanh nghiệp Nhỏ hoặc chọn tương tác Tuyển dụng Sim từ trình đơn của Sim đã chọn." />
+    <TextStringDefinition InstanceID="0x62FEDC9B" TextString="Doanh số Bán lẻ" />
+    <TextStringDefinition InstanceID="0xCAC6698C" TextString="Doanh số Bán lẻ bị tắt." />
+    <TextStringDefinition InstanceID="0xBBB7CF4D" TextString="Doanh thu từ Dịch vụ" />
+    <TextStringDefinition InstanceID="0x39C28D0B" TextString="{0.Number} Giờ Trung bình" />
+    <TextStringDefinition InstanceID="0x48606758" TextString="{0.Number} {S0.Khách hàng}{P0.Khách hàng}" />
+    <TextStringDefinition InstanceID="0xC353F40B" TextString="{0.Money}" />
+    <TextStringDefinition InstanceID="0xFE9B4D30" TextString="Phí Mở Doanh nghiệp" />
+    <TextStringDefinition InstanceID="0x7D931C03" TextString="&lt;font color='#199C2C'&gt;+▀ {0.Number}&lt;/font&gt; Danh tiếng Doanh nghiệp" />
+    <TextStringDefinition InstanceID="0xEAEFFEA5" TextString="Doanh số Vé bị tắt." />
+    <TextStringDefinition InstanceID="0x6EF5595B" TextString="Doanh số Vé" />
+    <TextStringDefinition InstanceID="0x7CFEF2DC" TextString="{0.Number}" />
+    <TextStringDefinition InstanceID="0x88EF7844" TextString="Mối quan hệ Bạn bè quá thấp để được tuyển dụng." />
+    <TextStringDefinition InstanceID="0x60D90A98" TextString="Tuyển dụng Nhân viên" />
+    <TextStringDefinition InstanceID="0x826F62A4" TextString="{0.SimFirstName} đã bán Doanh nghiệp Nhỏ có tên {1.String} của {0.SimPronounPossessiveDependent}.\n\n{0.SimPronounSubjective|xxUpper} luôn có thể đăng ký một cái mới, nếu trong tương lai có ý muốn trở thành Chủ Doanh nghiệp Nhỏ!" />
+    <TextStringDefinition InstanceID="0x110FD359" TextString="{0.SimFirstName} đã đăng ký thành công {1.String}, một Doanh nghiệp Nhỏ mới, và giờ có thể mở nó trên lô đất hoạt động của {0.SimPronounPossessiveDependent}. {0.SimPronounSubjective|xxUpper} {S0.is}{P0.are} sẵn sàng bắt đầu hành trình trở thành Chủ Doanh nghiệp Nhỏ!\n\nCác Sim khác trong hộ gia đình cũng có thể gán lô đất cho doanh nghiệp của họ thông qua bảng Cài đặt Doanh nghiệp Nhỏ. Mỗi Sim có thể sở hữu và điều hành một Doanh nghiệp Nhỏ duy nhất. {0.SimFirstName} giờ có thể được gán các nhiệm vụ để làm với tư cách là chủ khi doanh nghiệp mở cửa." />
+    <TextStringDefinition InstanceID="0x89031F94" TextString="Quản lý Nhiệm vụ Chủ doanh nghiệp" />
+    <TextStringDefinition InstanceID="0xAFAB71D1" TextString="Doanh nghiệp Nhỏ Đã Đăng ký!" />
+    <TextStringDefinition InstanceID="0x732F8243" TextString="{0.SimFirstName} đã đăng ký thành công {1.String}, một Doanh nghiệp Nhỏ mới! {0.SimPronounSubjective|xxUpper} {S0.is}{P0.are} sẵn sàng bắt đầu hành trình trở thành Chủ Doanh nghiệp Nhỏ!\n\nMỗi Sim có thể sở hữu và điều hành một Doanh nghiệp Nhỏ duy nhất. {0.SimFirstName} giờ có thể được gán các nhiệm vụ để làm với tư cách là chủ khi doanh nghiệp mở cửa." />
+    <TextStringDefinition InstanceID="0xCF9E2EEA" TextString="Doanh nghiệp Nhỏ Được Gán cho Lô Đất Mới" />
+    <TextStringDefinition InstanceID="0x1B10298C" TextString="{0.SimFirstName} đã mua {1.String} làm Địa điểm Doanh nghiệp Nhỏ và giờ có thể mở {2.String} trên lô đất này.\n\nCác Sim khác trong hộ gia đình cũng có thể gán Doanh nghiệp Nhỏ của họ ở đây thông qua Cài đặt Doanh nghiệp Nhỏ." />
+    <TextStringDefinition InstanceID="0x65F69C9C" TextString="Kết thúc Ngày Trân trọng Khách hàng?" />
+    <TextStringDefinition InstanceID="0xEDA1A378" TextString="Mở Cài đặt Doanh nghiệp Nhỏ" />
+    <TextStringDefinition InstanceID="0x9370AE85" TextString="Doanh nghiệp Nhỏ Chưa được Gán" />

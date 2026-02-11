@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x1763D97B" TextString="Sim sẽ tự động rửa tay tại bồn rửa trong phòng tắm, nhưng không rửa chén." />
+    <TextStringDefinition InstanceID="0x3C6D44AA" TextString="Tất cả" />
+    <TextStringDefinition InstanceID="0x07E0A819" TextString="Đặt Người Mang Sau Ưa Thích..." />
+    <TextStringDefinition InstanceID="0x7AD3D7FA" TextString="Đọc Thư của Kẻ Trộm" />
+    <TextStringDefinition InstanceID="0x4218EAB3" TextString="Thư của Kẻ Trộm" />
+    <TextStringDefinition InstanceID="0xFF610F1F" TextString="Kính gửi {0.SimName},\n\nTôi không định làm ai lo lắng. Tôi biết tôi nên hỏi trước khi làm điều tôi đã làm. Tôi thực sự chỉ đang cố gắng lưu giữ những thứ từ quá khứ cho tương lai, và cũng có chút vui vẻ!\n\nTôi chắc chắn chúng ta sẽ gặp nhau... trong tương lai. Tôi phải đi rồi! Tôi có vài việc cần làm.\n\nTrân trọng, Kẻ Trộm" />
+    <TextStringDefinition InstanceID="0x462EF041" TextString="Đọc Giấy Nợ" />
+    <TextStringDefinition InstanceID="0x78220465" TextString="Mở" />
+    <TextStringDefinition InstanceID="0x5AE2271A" TextString="Xây Dựng Thành Phần Du Hành Thời Gian" />
+    <TextStringDefinition InstanceID="0xB7B28E14" TextString="{0.SimFirstName} cần kỹ năng Logic cấp 2 để xây dựng cái này." />
+    <TextStringDefinition InstanceID="0x9DB046EC" TextString="{0.SimFirstName} cần kỹ năng Khéo Léo cấp 2 để xây dựng cái này." />
+    <TextStringDefinition InstanceID="0x2A57CDCE" TextString="Bật Đặt Tường" />
+    <TextStringDefinition InstanceID="0x6CB75D02" TextString="Tắt Đặt Tường" />
+    <TextStringDefinition InstanceID="0x8F2C0609" TextString="Đảm Bảo Chất Lượng Chế Tác Kém " />
+    <TextStringDefinition InstanceID="0x5434E5CB" TextString="Đảm Bảo Chất Lượng Chế Tác Xuất Sắc" />
+    <TextStringDefinition InstanceID="0x80A5C416" TextString="Đảm Bảo Chất Lượng Chế Tác Bậc Thầy" />
+    <TextStringDefinition InstanceID="0xCC521CA9" TextString="Lấy Tất Cả Đồ Giấy" />
+    <TextStringDefinition InstanceID="0x07D6F9C8" TextString="Xem Mối Quan Hệ" />
+    <TextStringDefinition InstanceID="0xB0FBDB17" TextString="Mở Hồ Sơ" />
+    <TextStringDefinition InstanceID="0x1CEF713F" TextString="Khóa Máy Quay" />
+    <TextStringDefinition InstanceID="0xC25E9D2E" TextString="(Từ Mong Muốn Hương Vị Mới)" />
+    <TextStringDefinition InstanceID="0xBAC1D464" TextString="Có Blowout" />
+    <TextStringDefinition InstanceID="0x897EEAAD" TextString="Đặt Màu Ma" />
+    <TextStringDefinition InstanceID="0xF7BDF4C5" TextString="Suy Ngẫm Về Cuộc Sống Dài Đời Trước Đây" />
+    <TextStringDefinition InstanceID="0xA11A61BD" TextString="Tương tác này sẽ thêm Ma đã chết vào hộ gia đình hiện tại." />
+    <TextStringDefinition InstanceID="0x59D49627" TextString="Dạy Lớp Pump It Up " />
+    <TextStringDefinition InstanceID="0x87E4ED6F" TextString="Chỉ Đạo Bài Tập Pump It Up" />
+    <TextStringDefinition InstanceID="0x42DFF763" TextString="Lớp Pump It Up sắp bắt đầu! " />
+    <TextStringDefinition InstanceID="0x0C6AFF3A" TextString="Trả Phí để Tham Gia Lớp Pump It Up Này" />
+    <TextStringDefinition InstanceID="0xE8FB8C86" TextString="Tham Gia Lớp Pump It Up" />
+    <TextStringDefinition InstanceID="0x7252C76E" TextString="Mời Tham Gia Lớp Pump It Up" />
+    <TextStringDefinition InstanceID="0x3464A468" TextString="Lớp Pump It Up này đã bắt đầu rồi." />
+    <TextStringDefinition InstanceID="0x8690B91F" TextString="Cảm ơn lời mời, nhưng tôi sẽ bỏ qua lần này. Có lẽ lần sau!" />
+    <TextStringDefinition InstanceID="0xF8BA8078" TextString="Tôi sẽ không bơm bất cứ thứ gì với loại người như BẠN! " />
+    <TextStringDefinition InstanceID="0x3AB58D7C" TextString="Mở Khóa Thư Viện Hàng Xóm Nhỏ Nhất" />
+    <TextStringDefinition InstanceID="0x4D97CFA6" TextString="Khóa Thư Viện Hàng Xóm Nhỏ Nhất" />
+    <TextStringDefinition InstanceID="0x3A4449BB" TextString="Sim phải là TYAE." />
+    <TextStringDefinition InstanceID="0x6BA8C305" TextString="Sim không thể đã là ma." />
+    <TextStringDefinition InstanceID="0x100DAD59" TextString="(Từ Debug trong Baleful Bog)" />
+    <TextStringDefinition InstanceID="0xBF738DC0" TextString="Bật" />
+    <TextStringDefinition InstanceID="0x837F22AB" TextString="Tắt" />
+    <TextStringDefinition InstanceID="0x5ECE8C91" TextString="Bật Nâng Cấp Sốc Take That!" />
+    <TextStringDefinition InstanceID="0x7B719DB3" TextString="Tắt Nâng Cấp Sốc Take That!" />
+    <TextStringDefinition InstanceID="0x3B583FBB" TextString="Bật Nâng Cấp Bảo Mật Liên Kết Cảnh Sát" />
+    <TextStringDefinition InstanceID="0x21F2BAD5" TextString="Tắt Nâng Cấp Bảo Mật Liên Kết Cảnh Sát" />
+    <TextStringDefinition InstanceID="0x0B3B6D1D" TextString="Lên Lịch Thăm Kẻ Trộm (Debug)" />
+    <TextStringDefinition InstanceID="0xDDFDF6E9" TextString="Cung Nâng Cao" />
+    <TextStringDefinition InstanceID="0x82D50C05" TextString="Cung Sơ Cấp" />
+    <TextStringDefinition InstanceID="0x93A60FEF" TextString="Cung Chuyên Gia" />
+    <TextStringDefinition InstanceID="0x3A8969ED" TextString="Thiết bị này đang được điều khiển bởi Thermostat." />

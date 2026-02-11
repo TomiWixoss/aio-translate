@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x37FE44B4" TextString="Nova" />
+    <TextStringDefinition InstanceID="0x5A4816E1" TextString="Tò mò" />
+    <TextStringDefinition InstanceID="0xFF268FF9" TextString="Sofia" />
+    <TextStringDefinition InstanceID="0xAF043BA1" TextString="Pablo" />
+    <TextStringDefinition InstanceID="0x4A8B7221" TextString="Martinez" />
+    <TextStringDefinition InstanceID="0x534847BB" TextString="Leonardo" />
+    <TextStringDefinition InstanceID="0x358327D2" TextString="Jennifer" />
+    <TextStringDefinition InstanceID="0x216993B1" TextString="Farrah" />
+    <TextStringDefinition InstanceID="0x0A8719E6" TextString="Nouvel" />
+    <TextStringDefinition InstanceID="0x9F4BF8A0" TextString="Landry" />
+    <TextStringDefinition InstanceID="0xCE9659F1" TextString="Lila" />
+    <TextStringDefinition InstanceID="0x35AF21F6" TextString="Eddie" />
+    <TextStringDefinition InstanceID="0x4D0A55D3" TextString="Ava" />
+    <TextStringDefinition InstanceID="0x4F28DAA8" TextString="Nyssa" />
+    <TextStringDefinition InstanceID="0xE6D3D685" TextString="Mortimer" />
+    <TextStringDefinition InstanceID="0x21AAB045" TextString="Marina" />
+    <TextStringDefinition InstanceID="0x68ED3BE2" TextString="Corsair" />
+    <TextStringDefinition InstanceID="0xB05F1976" TextString="Cassandra" />
+    <TextStringDefinition InstanceID="0x1CA73958" TextString="Robin" />
+    <TextStringDefinition InstanceID="0x1B26CD3D" TextString="Banks" />
+    <TextStringDefinition InstanceID="0x80056CE4" TextString="Bella" />
+    <TextStringDefinition InstanceID="0xB2C152B1" TextString="Goth" />
+    <TextStringDefinition InstanceID="0xF258839E" TextString="Alex" />
+    <TextStringDefinition InstanceID="0x86ED6DE7" TextString="Moyer" />
+    <TextStringDefinition InstanceID="0x2CBFD0A6" TextString="Một số vết thương cần rất, rất lâu mới lành. Việc ở gần {1.SimFirstName} khiến {0.SimFirstName} nhớ lại những ký ức đau buồn." />
+    <TextStringDefinition InstanceID="0x6E37151A" TextString="Có tội" />
+    <TextStringDefinition InstanceID="0x1FB484D0" TextString="{0.SimFirstName} cảm thấy tệ về chuyện gì đó đã xảy ra với {1.SimFirstName} nhưng không biết phải làm sao để sửa chữa." />
+    <TextStringDefinition InstanceID="0xAE434AD6" TextString="Xấu hổ vì một Bữa tiệc Khủng khiếp" />
+    <TextStringDefinition InstanceID="0xBC90A83C" TextString="{0.SimFirstName} không thể tin bữa tiệc lại tệ đến thế. {0.SimPronounSubjective|xxUpper} lo rằng {1.SimFirstName} phải nghĩ {0.SimFirstName} chẳng vui vẻ gì và {1.SimFirstName} có lẽ chẳng bao giờ muốn gặp lại..." />
+    <TextStringDefinition InstanceID="0x1A63D884" TextString="Khó xử sau một Cuộc hẹn Tệ hại" />
+    <TextStringDefinition InstanceID="0x9D5E0D3E" TextString="Cuộc hẹn đó thật sự là một cực hình. Không phải khoảnh khắc đẹp nhất của {0.SimFirstName}. Những ký ức khiến {0.SimFirstName} xấu hổ lại ùa về mỗi khi {0.SimFirstName} gặp {1.SimFirstName}..." />
+    <TextStringDefinition InstanceID="0xB5000C04" TextString="Tức giận vì Lễ cưới bị hủy" />
+    <TextStringDefinition InstanceID="0x6623A3BE" TextString="Làm sao {1.SimFirstName} dám làm nhục {0.SimFirstName} trước mặt mọi người trong lễ cưới của họ! {0.SimFirstName} có thể sẽ khó giữ bình tĩnh quanh {1.SimFirstName} trong một thời gian." />
+    <TextStringDefinition InstanceID="0xD50554E3" TextString="Chỉ nhìn thấy {1.SimFirstName} thôi cũng khiến {0.SimFirstName} khó chịu những ngày gần đây. Ôi, {1.SimFirstName} dám hiện mặt ra đấy thật à!" />
+    <TextStringDefinition InstanceID="0x70B29D19" TextString="Tức giận vì Sự phản bội" />
+    <TextStringDefinition InstanceID="0xD3F34CF1" TextString="{0.SimFirstName} KHÔNG THỂ TIN {1.SimFirstName} lại làm điều này với mối quan hệ của họ! Chỉ nhìn thấy {1.SimFirstName} thôi cũng sẽ nhắc {0.SimFirstName} rằng {1.SimFirstName} đã phản bội lòng tin và ngoại tình với {0.SimPronounObjective}." />
+    <TextStringDefinition InstanceID="0xBE19B9E5" TextString="{0.SimFirstName} không giải thích được, nhưng {M0.anh ấy}{F0.cô ấy} thực sự bị cuốn hút bởi {1.SimFirstName} và nhìn thấy {M1.anh ấy}{F1.cô ấy} khiến trái tim {0.SimFirstName} đập nhanh hơn!" />
+    <TextStringDefinition InstanceID="0x6B5E045B" TextString="Cơ hội thứ hai" />
+    <TextStringDefinition InstanceID="0xA09D0817" TextString="{0.SimFirstName} và {1.SimFirstName} đã có thể gác lại quá khứ và bắt đầu lại từ đầu" />
+    <TextStringDefinition InstanceID="0x4A20514C" TextString="Yêu sâu sắc" />
+    <TextStringDefinition InstanceID="0xA6837AB6" TextString="Một số khoảnh khắc lãng mạn để lại ấn tượng mạnh mẽ, và {0.SimFirstName} sẽ không bao giờ quên cách {F0.cô ấy}{M0.anh ấy} càng yêu {1.SimFirstName} hơn." />
+    <TextStringDefinition InstanceID="0x30B32BBD" TextString="Gần gũi hơn từ Thời gian Chất lượng" />
+    <TextStringDefinition InstanceID="0x8CC58355" TextString="{0.SimFirstName} trân trọng việc {1.SimFirstName} dành thời gian cho {F0.cô ấy}{M0.anh ấy}. Thời gian bên nhau dường như khiến họ gắn bó hơn." />
+    <TextStringDefinition InstanceID="0x45841285" TextString="Gần gũi sau một Bữa tiệc Vui vẻ" />
+    <TextStringDefinition InstanceID="0xCAD5C0ED" TextString="Lễ kỷ niệm có thể kết nối các Sim, cả về thể chất lẫn tình cảm. Bữa tiệc đã kết thúc, nhưng {0.SimFirstName} vẫn cảm thấy hơi ấm của nó khi {F0.cô ấy}{M0.anh ấy} dành thời gian bên {1.SimFirstName}." />
+    <TextStringDefinition InstanceID="0xFCF23055" TextString="Gần gũi sau một Tình huống Nguy hiểm" />
+    <TextStringDefinition InstanceID="0x504F1C5D" TextString="{1.SimFirstName} suýt chết thật sự đã khiến {M1.anh ấy}{F1.cô ấy} trở nên đáng yêu trong mắt {0.SimFirstName}. Đó là một tình huống nguy hiểm!" />
+    <TextStringDefinition InstanceID="0x2B0274FA" TextString="Nấu ăn Cùng nhau" />
+    <TextStringDefinition InstanceID="0xC2CC2630" TextString="Những Sim nấu ăn cùng nhau, sẽ ở bên nhau mãi mãi. Không có thức ăn, chúng ta sẽ không tồn tại. Chính thức ăn đã tạo ra chúng ta. Thức ăn kết nối chúng ta. Thức ăn ràng buộc chúng ta." />
+    <TextStringDefinition InstanceID="0xC08312DE" TextString="Gần gũi từ Ký ức Hạnh phúc" />

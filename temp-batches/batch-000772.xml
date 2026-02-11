@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x5B652360" TextString="Bánh thịt xương chó" />
+    <TextStringDefinition InstanceID="0x7EB0D277" TextString="Bánh cá thịt bò và gà" />
+    <TextStringDefinition InstanceID="0x679A3BF9" TextString="Xúc xích chorizo ướp" />
+    <TextStringDefinition InstanceID="0x663691E6" TextString="Thịt Francetti hạt lựu" />
+    <TextStringDefinition InstanceID="0xB1921BAE" TextString="Pizza pepperoni" />
+    <TextStringDefinition InstanceID="0x9AA879BE" TextString="{S.Mì Primavera}{P.Các món mì Primavera}" />
+    <TextStringDefinition InstanceID="0x758507F6" TextString="Bánh kếp gấu bông" />
+    <TextStringDefinition InstanceID="0x5C4D9E73" TextString="{S.Bánh kếp}{P.Đĩa bánh kếp}" />
+    <TextStringDefinition InstanceID="0x3BA99199" TextString="Pain au Chocolat" />
+    <TextStringDefinition InstanceID="0x202E49E4" TextString="{S.Omelet}{P.Các omelet}" />
+    <TextStringDefinition InstanceID="0xE03845FE" TextString="{S.Mì tỏi}{P.Mì tỏi}" />
+    <TextStringDefinition InstanceID="0x97141210" TextString="{S.Bánh nướng lò vi sóng}{P.Các bánh nướng lò vi sóng}" />
+    <TextStringDefinition InstanceID="0x3F57052D" TextString="{S.Bữa ăn nướng lò vi sóng}{P.Các bữa ăn nướng lò vi sóng}" />
+    <TextStringDefinition InstanceID="0x9E8834E8" TextString="{S.Cá hồi Meunière}{P.Các món cá hồi Meunière}" />
+    <TextStringDefinition InstanceID="0x3DD3D1FD" TextString="Mac and Cheese lục lọi" />
+    <TextStringDefinition InstanceID="0x25476A6E" TextString="{S.Mì macaroni và phô mai}{P.Các món mì macaroni và phô mai}" />
+    <TextStringDefinition InstanceID="0x874B3061" TextString="{S.Tôm hùm Thermidor}{P.Các món tôm hùm Thermidor}" />
+    <TextStringDefinition InstanceID="0x8955F9BC" TextString="Bánh cuốn tôm hùm" />
+    <TextStringDefinition InstanceID="0x0C02B80B" TextString="{S.Hot dog}{P.Các hot dog}" />
+    <TextStringDefinition InstanceID="0x1FB6C7F2" TextString="{S.Bít tết nướng}{P.Các bít tết nướng}" />
+    <TextStringDefinition InstanceID="0x289C00F4" TextString="{S.Bánh mì kéo phô mai nướng}{P.Các bánh mì kéo phô mai nướng}" />
+    <TextStringDefinition InstanceID="0x3D6C7DCB" TextString="{S.Gà nướng}{P.Gà nướng}" />
+    <TextStringDefinition InstanceID="0x54CDE354" TextString="{S.Gnocchi bí ngô}{P.Đĩa gnocchi bí ngô}" />
+    <TextStringDefinition InstanceID="0x6D307B53" TextString="{S.Frittata rau chân vịt}{P.Các frittata rau chân vịt}" />
+    <TextStringDefinition InstanceID="0xBCB98537" TextString="{S.Bánh mì Pháp}{P.Đĩa bánh mì Pháp}" />
+    <TextStringDefinition InstanceID="0xD28FF22C" TextString="{S.Taco cá}{P.Các taco cá}" />
+    <TextStringDefinition InstanceID="0xB5DDCD19" TextString="Cá và khoai tây chiên" />
+    <TextStringDefinition InstanceID="0x55019B12" TextString="{S.Gà étouffée}{P.Các món gà étouffée}" />
+    <TextStringDefinition InstanceID="0x2F8DAA46" TextString="Currywurst" />
+    <TextStringDefinition InstanceID="0x6B046414" TextString="{S.Bánh cupcake vani cổ điển}{P.Các bánh cupcake vani cổ điển}" />
+    <TextStringDefinition InstanceID="0x01A68FA8" TextString="{S.Bánh cupcake dâu}{P.Các bánh cupcake dâu}" />
+    <TextStringDefinition InstanceID="0xD09BE64E" TextString="{S.Bánh cupcake Red Velvet}{P.Các bánh cupcake Red Velvet}" />
+    <TextStringDefinition InstanceID="0xEE40D26E" TextString="{S.Bánh cupcake minty mocha}{P.Các bánh cupcake minty mocha}" />
+    <TextStringDefinition InstanceID="0x0DFCE1DB" TextString="{S.Bánh cupcake bom chocolate}{P.Các bánh cupcake bom chocolate}" />
+    <TextStringDefinition InstanceID="0xD0BC4232" TextString="{S.Bánh cupcake bánh cà rốt}{P.Các bánh cupcake bánh cà rốt}" />
+    <TextStringDefinition InstanceID="0x08F80D95" TextString="{S.Bánh cupcake butterscotch}{P.Các bánh cupcake butterscotch}" />
+    <TextStringDefinition InstanceID="0xEB739F20" TextString="{S.Bánh cupcake The Baconing}{P.Các bánh cupcake The Baconing}" />
+    <TextStringDefinition InstanceID="0x609F6B51" TextString="{S.Bánh crepe ngọt}{P.Các bánh crepe ngọt}" />
+    <TextStringDefinition InstanceID="0xDBE3B516" TextString="{S.Bánh quy hình trái tim}{P.Các bánh quy hình trái tim}" />
+    <TextStringDefinition InstanceID="0x50F57D12" TextString="{S.Bánh quy sô cô la chip}{P.Các bánh quy sô cô la chip}" />
+    <TextStringDefinition InstanceID="0xCCAD8184" TextString="{S.Gà Kiev}{P.Các món gà Kiev}" />
+    <TextStringDefinition InstanceID="0x33C6A7B7" TextString="{S.Khẩu phần gà nướng}{P.Các khẩu phần gà nướng}" />
+    <TextStringDefinition InstanceID="0xCAA39459" TextString="{S.Miếng bánh phô mai SimCity}{P.Các miếng bánh phô mai SimCity}" />
+    <TextStringDefinition InstanceID="0xD42B7E0F" TextString="{S.Casserole cá ngừ}{P.Các món casserole cá ngừ}" />
+    <TextStringDefinition InstanceID="0x784B2902" TextString="Pizza thịt xông khói Canada" />
+    <TextStringDefinition InstanceID="0xAAB75F31" TextString="{S.Miếng bánh}{P.Các miếng bánh}" />
+    <TextStringDefinition InstanceID="0x1A3F7816" TextString="{S.Bánh hamburger}{P.Các bánh hamburger}" />
+    <TextStringDefinition InstanceID="0x3DEB24E5" TextString="Bánh mì" />
+    <TextStringDefinition InstanceID="0x01528454" TextString="Cá bass nướng cháy" />
+    <TextStringDefinition InstanceID="0xD47E987D" TextString="{S.Bananas Foster}{P.Các món Bananas Foster}" />

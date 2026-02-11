@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xAF0C66C0" TextString="Maxis" />
+    <TextStringDefinition InstanceID="0x135E48AC" TextString="Maxis Đã tuyển chọn" />
+    <TextStringDefinition InstanceID="0xCB1D1397" TextString="Đang theo dõi" />
+    <TextStringDefinition InstanceID="0x50F70015" TextString="Thú cưng:" />
+    <TextStringDefinition InstanceID="0x6AE804B0" TextString="Kích cỡ:" />
+    <TextStringDefinition InstanceID="0x249041FC" TextString="Sắp xếp theo:" />
+    <TextStringDefinition InstanceID="0x93C02556" TextString="Loại phòng:" />
+    <TextStringDefinition InstanceID="0xFF0AED46" TextString="Giá:" />
+    <TextStringDefinition InstanceID="0x6B2DBFAD" TextString="Nhấp để bật/tắt nội dung mod từ các Simmers khác trong Thư viện của bạn!" />
+    <TextStringDefinition InstanceID="0xE93296FC" TextString="Loại lô đất:" />
+    <TextStringDefinition InstanceID="0xEEC61BFF" TextString="Bao gồm Nội dung chưa sở hữu" />
+    <TextStringDefinition InstanceID="0xD97FBB1E" TextString="Danh mục:" />
+    <TextStringDefinition InstanceID="0x76089611" TextString="Xem nội dung theo:" />
+    <TextStringDefinition InstanceID="0xC9460990" TextString="Kích cỡ lô đất hiện tại: {0.Number} x {1.Number}" />
+    <TextStringDefinition InstanceID="0x31588A52" TextString="Tiền hiện có:" />
+    <TextStringDefinition InstanceID="0x86788AD4" TextString="Thử thách Spark'd:" />
+    <TextStringDefinition InstanceID="0xA1535671" TextString="Kiểu cơ thể:" />
+    <TextStringDefinition InstanceID="0xF82D4078" TextString="Các tùy chọn lọc của bạn chưa thay đổi." />
+    <TextStringDefinition InstanceID="0x3B256F0E" TextString="Stylist" />
+    <TextStringDefinition InstanceID="0x3C3E7053" TextString="Storyteller" />
+    <TextStringDefinition InstanceID="0x3662862C" TextString="Phòng" />
+    <TextStringDefinition InstanceID="0x2ACE7A32" TextString="Hình xăm" />
+    <TextStringDefinition InstanceID="0x4B2DECE6" TextString="Hộ gia đình" />
+    <TextStringDefinition InstanceID="0xABEDEAF1" TextString="Builder" />
+    <TextStringDefinition InstanceID="0x9E9D4A2C" TextString="Lô đất" />
+    <TextStringDefinition InstanceID="0x7B3EEF45" TextString="Tất cả" />
+    <TextStringDefinition InstanceID="0x9D10879C" TextString="Tìm kiếm" />
+    <TextStringDefinition InstanceID="0xE6A2158A" TextString="ID Tài khoản EA" />
+    <TextStringDefinition InstanceID="0x05581B75" TextString="Nhập ID" />
+    <TextStringDefinition InstanceID="0x5ECC655F" TextString="Tên vật phẩm" />
+    <TextStringDefinition InstanceID="0x89808B24" TextString="Nhập Tên vật phẩm" />
+    <TextStringDefinition InstanceID="0xB8670AEB" TextString="Văn bản sang Hình ảnh (Beta)" />
+    <TextStringDefinition InstanceID="0x708BD9D0" TextString="Nhập văn bản" />
+    <TextStringDefinition InstanceID="0x88FC9575" TextString="Hashtag" />
+    <TextStringDefinition InstanceID="0x558DE32D" TextString="Nhập Hashtag" />
+    <TextStringDefinition InstanceID="0xF300E1C2" TextString="Đa ngôn ngữ (Beta)" />
+    <TextStringDefinition InstanceID="0x51334E0D" TextString="Nhập văn bản" />
+    <TextStringDefinition InstanceID="0x4502E48B" TextString="Tất cả" />
+    <TextStringDefinition InstanceID="0x71BD15A6" TextString="Nhỏ" />
+    <TextStringDefinition InstanceID="0x90286284" TextString="Trung bình" />
+    <TextStringDefinition InstanceID="0x744002BA" TextString="Lớn" />
+    <TextStringDefinition InstanceID="0x17A50D4E" TextString="Rất lớn" />
+    <TextStringDefinition InstanceID="0xB464D6C2" TextString="Tất cả" />
+    <TextStringDefinition InstanceID="0x2ABFEE46" TextString="Gói" />
+    <TextStringDefinition InstanceID="0x86C0BF31" TextString="Hiện đã sở hữu" />
+    <TextStringDefinition InstanceID="0x34D5E12F" TextString="Hiện Trò chơi cơ bản" />
+    <TextStringDefinition InstanceID="0xF0A319DB" TextString="Hiện Tất cả" />
+    <TextStringDefinition InstanceID="0x528556B2" TextString="Ngày Spa" />
+    <TextStringDefinition InstanceID="0x26F8BE7C" TextString="Tùy chỉnh" />
+    <TextStringDefinition InstanceID="0x3B4B953A" TextString="Tất cả" />

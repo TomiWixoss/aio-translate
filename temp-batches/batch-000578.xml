@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xC46C836D" TextString="Hiện tại Bình thường (không nên hiển thị)" />
+    <TextStringDefinition InstanceID="0x62CF64A8" TextString="Hiện tại Khốn khổ (không nên hiển thị)" />
+    <TextStringDefinition InstanceID="0x5FCAACDA" TextString="Hiện tại Cảm hứng (không nên hiển thị)" />
+    <TextStringDefinition InstanceID="0xD50D4A42" TextString="Hiện tại Vui vẻ (không nên hiển thị)" />
+    <TextStringDefinition InstanceID="0xDEC0612B" TextString="Hiện tại Tập trung (không nên hiển thị)" />
+    <TextStringDefinition InstanceID="0x4D850EAE" TextString="Hiện tại Đưa đưa (không nên hiển thị)" />
+    <TextStringDefinition InstanceID="0x4BA863F1" TextString="Hiện tại Tràn đầy năng lượng (không nên hiển thị)" />
+    <TextStringDefinition InstanceID="0xF26B9DC3" TextString="Hiện tại Xấu hổ (không nên hiển thị)" />
+    <TextStringDefinition InstanceID="0xAD85A2C9" TextString="Hiện tại Trầm cảm (không nên hiển thị)" />
+    <TextStringDefinition InstanceID="0xD0747F20" TextString="Hiện tại Tự tin (không nên hiển thị)" />
+    <TextStringDefinition InstanceID="0xA02EDD46" TextString="Hiện tại Chán nản (không nên hiển thị)" />
+    <TextStringDefinition InstanceID="0x13B87EE7" TextString="Hiện tại Tức giận (không nên hiển thị)" />
+    <TextStringDefinition InstanceID="0x3147855C" TextString="Kiệt sức" />
+    <TextStringDefinition InstanceID="0xAFC66736" TextString="Bạn đã có WooHoo gần đây." />
+    <TextStringDefinition InstanceID="0x21F8575C" TextString="(Từ đặc điểm Tự tin)" />
+    <TextStringDefinition InstanceID="0x4CB7FF1F" TextString="Mệt mỏi" />
+    <TextStringDefinition InstanceID="0x6F122155" TextString="Tốt nhất nên nghỉ ngơi để những cơ bắp đau nhức được nghỉ ngơi." />
+    <TextStringDefinition InstanceID="0xD6B0D569" TextString="Một số thứ đáng để ngủ qua." />
+    <TextStringDefinition InstanceID="0xC4939970" TextString="Tab tiếp theo" />
+    <TextStringDefinition InstanceID="0x2520BA0E" TextString="Trang tiếp theo" />
+    <TextStringDefinition InstanceID="0xF998BB39" TextString="Bộ lọc tiếp theo" />
+    <TextStringDefinition InstanceID="0x0CFD0C03" TextString="Hình nền tiếp theo" />
+    <TextStringDefinition InstanceID="0x36C77EA7" TextString="Nút phát" />
+    <TextStringDefinition InstanceID="0x5FC14ABC" TextString="Thay đổi hình nền" />
+    <TextStringDefinition InstanceID="0xE9E236C0" TextString="Duyệt thư viện của tôi để tìm phòng" />
+    <TextStringDefinition InstanceID="0xF93DD5DB" TextString="Camera tự do" />
+    <TextStringDefinition InstanceID="0xAA12DC53" TextString="Hoàn tác bỏ phiếu" />
+    <TextStringDefinition InstanceID="0x11B775D2" TextString="Chuyển đến Chấp nhận" />
+    <TextStringDefinition InstanceID="0xB0DB509A" TextString="Bạn có chắc chắn muốn hủy kỳ nghỉ này không?" />
+    <TextStringDefinition InstanceID="0x4DA42D8F" TextString="Bạn có chắc chắn muốn hủy chuyến đi không?" />
+    <TextStringDefinition InstanceID="0x6E3A7277" TextString="Bạn có chắc chắn muốn hủy mua địa điểm này không?" />
+    <TextStringDefinition InstanceID="0x966842FD" TextString="Bạn có chắc chắn muốn hủy đặt lô đất này không?" />
+    <TextStringDefinition InstanceID="0x58D0BF2B" TextString="Bạn có chắc chắn muốn hủy đặt hộ gia đình này không?" />
+    <TextStringDefinition InstanceID="0xADCCBB57" TextString="Bạn có chắc chắn muốn hủy chuyển nhà không?" />
+    <TextStringDefinition InstanceID="0xC740F500" TextString="Bạn có chắc chắn muốn thoát chế độ Eco Footprint không?" />
+    <TextStringDefinition InstanceID="0x54F5FAD3" TextString="Chỉ {0.String} người chơi" />
+    <TextStringDefinition InstanceID="0x84F09093" TextString="Tất cả người chơi" />
+    <TextStringDefinition InstanceID="0xF6CC9484" TextString="Mục trong Thư viện của tôi này được tạo bằng nội dung đã mua, miễn phí hoặc quảng cáo mà bạn không sở hữu." />
+    <TextStringDefinition InstanceID="0x5E0E7545" TextString="Mục này phải được lưu để xem nội dung cụ thể của gói." />
+    <TextStringDefinition InstanceID="0x694BA1D4" TextString="Mục này không sử dụng bất kỳ nội dung cụ thể nào của gói." />
+    <TextStringDefinition InstanceID="0xF439814A" TextString="Cảnh báo: Tên phòng hoặc mô tả hiện chứa từ không được phép. Bạn vẫn muốn tiếp tục?" />
+    <TextStringDefinition InstanceID="0x0610DCE8" TextString="Cảnh báo: Tên hình xăm hoặc mô tả hiện chứa từ không được phép. Bạn vẫn muốn tiếp tục?" />
+    <TextStringDefinition InstanceID="0xD166EEAA" TextString="Cảnh báo: Tên gia đình, tên Sim hoặc mô tả hiện chứa từ không được phép. Bạn vẫn muốn tiếp tục?" />
+    <TextStringDefinition InstanceID="0x86CA3FF4" TextString="Cảnh báo: Tên lô đất hoặc mô tả hiện chứa từ không được phép. Bạn vẫn muốn tiếp tục?" />
+    <TextStringDefinition InstanceID="0x89804D21" TextString="Xem loại địa điểm trong Thư viện của tôi" />
+    <TextStringDefinition InstanceID="0x426F0163" TextString="Xem Chính sách Quyền riêng tư và Cookie" />
+    <TextStringDefinition InstanceID="0x867755D8" TextString="Xem Thỏa thuận Người dùng" />
+    <TextStringDefinition InstanceID="0x5ED7C0BC" TextString="Chấp nhận" />
+    <TextStringDefinition InstanceID="0x5D5A415E" TextString="Ngẫu nhiên Sim" />
+    <TextStringDefinition InstanceID="0x2E047919" TextString="Ngẫu nhiên" />

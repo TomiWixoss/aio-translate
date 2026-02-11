@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x8110E6EC" TextString="Ám chỉ Mẹ là Lạc đà" />
+    <TextStringDefinition InstanceID="0x65DCFE34" TextString="Gọi Mẹ là Lạc đà" />
+    <TextStringDefinition InstanceID="0x9CFE93C0" TextString="Ám chỉ Mẹ là Dơi" />
+    <TextStringDefinition InstanceID="0x7B642F13" TextString="Ám chỉ Mẹ là Cá" />
+    <TextStringDefinition InstanceID="0x34B28BC1" TextString="Thực hành Ám chỉ Mẹ là Lạc đà" />
+    <TextStringDefinition InstanceID="0xB9DD8E87" TextString="Ám chỉ Mẹ là Phù thủy" />
+    <TextStringDefinition InstanceID="0x7B522743" TextString="Có lẽ chính xác, nhưng vẫn nghe có vẻ ác." />
+    <TextStringDefinition InstanceID="0xFC9F99FE" TextString="Bị {1.SimFirstName} quấy rầy" />
+    <TextStringDefinition InstanceID="0xBA6733C6" TextString="Quấy rầy một cách tinh nghịch" />
+    <TextStringDefinition InstanceID="0xFE243A83" TextString="Thực hành Quấy rầy một cách tinh nghịch" />
+    <TextStringDefinition InstanceID="0x0AA4EED4" TextString="Lắng nghe {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x7A124224" TextString="Giả dạng Người nổi tiếng" />
+    <TextStringDefinition InstanceID="0xFE33B39B" TextString="Lắng nghe câu chuyện cười của {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xE5D865CD" TextString="Bắt chước Sếp" />
+    <TextStringDefinition InstanceID="0x0B6B64B6" TextString="Được ôm" />
+    <TextStringDefinition InstanceID="0xAB1E9F3E" TextString="Ôm" />
+    <TextStringDefinition InstanceID="0x28C1C396" TextString="Cái ôm khó xử" />
+    <TextStringDefinition InstanceID="0x612FB3E0" TextString="{0.SimFirstName} quá tức giận để làm việc này!" />
+    <TextStringDefinition InstanceID="0xB5EB45CD" TextString="Vảy nước" />
+    <TextStringDefinition InstanceID="0x8CF1F612" TextString="Lắng nghe câu chuyện cười" />
+    <TextStringDefinition InstanceID="0x276A0D8A" TextString="Câu chuyện cười đáng sợ" />
+    <TextStringDefinition InstanceID="0x8CEFAD8B" TextString="Nắm tay với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x9835E61D" TextString="Nắm tay" />
+    <TextStringDefinition InstanceID="0x952DA2EA" TextString="Nắm tay một cách miễn cưỡng" />
+    <TextStringDefinition InstanceID="0xF6F494CF" TextString="Chạm hông với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xA6DEAAF1" TextString="Chạm hông" />
+    <TextStringDefinition InstanceID="0x9CC12E43" TextString="Câu chuyện phá băng hài hước" />
+    <TextStringDefinition InstanceID="0xFFEF3436" TextString="Nhận lời khen từ {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xFB99F5BE" TextString="Tặng lời khen" />
+    <TextStringDefinition InstanceID="0x312EC8A2" TextString="Lập kế hoạch Hack vào Email của Đồng nghiệp" />
+    <TextStringDefinition InstanceID="0x8C9D89CC" TextString="Nghe về Bạn đời của {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x6392D05A" TextString="Tán dương Bạn đời" />
+    <TextStringDefinition InstanceID="0xEB79D8A7" TextString="Xì xào với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x73A900E9" TextString="Xì xào về Chuyên gia Game" />
+    <TextStringDefinition InstanceID="0x718AB707" TextString="Xì xào với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xA1D05B89" TextString="Xì xào về Mối tình Văn phòng" />
+    <TextStringDefinition InstanceID="0xD3FC5845" TextString="Xì xào với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x9F1B7267" TextString="Xì xào về Hàng xóm" />
+    <TextStringDefinition InstanceID="0xD521F058" TextString="Xì xào" />
+    <TextStringDefinition InstanceID="0x6ED23B29" TextString="Xì xào với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x66FF7BDA" TextString="Xì xào về Kịch Gia đình" />
+    <TextStringDefinition InstanceID="0xD7460F87" TextString="Xì xào với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x3A19FD09" TextString="Xì xào" />
+    <TextStringDefinition InstanceID="0x31CABF5C" TextString="Xì xào về Mông" />
+    <TextStringDefinition InstanceID="0x26749C70" TextString="Giúp đỡ" />
+    <TextStringDefinition InstanceID="0x40555168" TextString="Nói xấu Sim" />
+    <TextStringDefinition InstanceID="0xB32B76E6" TextString="Khen ngợi Sim" />
+    <TextStringDefinition InstanceID="0xCC4EAE31" TextString="Quan hệ" />
+    <TextStringDefinition InstanceID="0x19F18223" TextString="Đề xuất Người phù hợp" />
+    <TextStringDefinition InstanceID="0x144F341E" TextString="Cố gắng chia tay" />

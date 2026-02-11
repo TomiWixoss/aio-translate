@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x6AC71D70" TextString="Di chúc của bà ngoại bạn. Số phận của tài sản gia đình nằm trong đó..." />
+    <TextStringDefinition InstanceID="0x3A2AC70F" TextString="Bộ Đồng Hành Pháp Sư Trẻ" />
+    <TextStringDefinition InstanceID="0x79C8B740" TextString="Điểm sôi! Chất xúc tác! Phản ứng tỏa nhiệt! Một đứa trẻ có bộ thí nghiệm khoa học chính hãng có cơ hội tăng 624% vào các trường đại học tốt nhất." />
+    <TextStringDefinition InstanceID="0xF9F80A2B" TextString="satelliteDish_bm" />
+    <TextStringDefinition InstanceID="0x024324E4" TextString="satelliteDish_bm" />
+    <TextStringDefinition InstanceID="0xBA54AF61" TextString="{S.Plumbing Upgrade Part}{P.Plumbing Upgrade Parts}" />
+    <TextStringDefinition InstanceID="0x7303BC5E" TextString="Một bộ phận hữu ích cho nâng cấp ống dẫn cao cấp." />
+    <TextStringDefinition InstanceID="0x50BA5C97" TextString="{S.Kitchen Upgrade Part}{P.Kitchen Upgrade Parts}" />
+    <TextStringDefinition InstanceID="0xC34EF318" TextString="Một bộ phận hữu ích cho nâng cấp nhà bếp cao cấp." />
+    <TextStringDefinition InstanceID="0x2081AF03" TextString="{S.Common Upgrade Part}{P.Common Upgrade Parts}" />
+    <TextStringDefinition InstanceID="0x6E1A994C" TextString="Một bộ phận chung có thể dùng cho nhiều loại nâng cấp khác nhau." />
+    <TextStringDefinition InstanceID="0xA623ADCF" TextString="{S.Electronic Upgrade Part}{P.Electronic Upgrade Parts}" />
+    <TextStringDefinition InstanceID="0x62C25100" TextString="Một bộ phận dùng cho nâng cấp điện tử cao cấp." />
+    <TextStringDefinition InstanceID="0xD78CA501" TextString="Thảm Tròn Âm Dương" />
+    <TextStringDefinition InstanceID="0xDAD5277E" TextString="Đêm và ngày, nam và nữ, chiếc thảm không thể cưỡng lại này thống nhất vạn vật trong một vòng tròn không xơ." />
+    <TextStringDefinition InstanceID="0xDF7E7D49" TextString="Thảm Vuông" />
+    <TextStringDefinition InstanceID="0xB7EBB796" TextString="Đây là một chiếc thảm. Nó có bốn góc vuông. Nó có các đường kẻ. Đó là một chiếc thảm đẹp. Nó sẽ làm ngôi nhà của bạn đẹp hơn." />
+    <TextStringDefinition InstanceID="0x1CC3CCFC" TextString="Thảm An Toàn" />
+    <TextStringDefinition InstanceID="0x62806FF9" TextString="Bạn và gia đình sẽ không bao giờ bị thương bởi các góc thảm sắc nhọn nữa! Chiếc thảm trang trí này chỉ có các đường cong mịn, tròn. " />
+    <TextStringDefinition InstanceID="0xC2B62C56" TextString="Mở khóa ở cấp 3 của sự nghiệp Giải trí." />
+    <TextStringDefinition InstanceID="0x2B034221" TextString="Mở khóa bằng cách đạt đến cấp 3 của sự nghiệp Giải trí." />
+    <TextStringDefinition InstanceID="0xC02E10AD" TextString="Thảm Thần Tượng Sim" />
+    <TextStringDefinition InstanceID="0x5832D692" TextString="Biến ước mơ thành sự thật - theo cách dễ dàng! Đừng bận tâm làm việc chăm chỉ và trả phí. Chỉ cần đặt chiếc thảm này ở hành lang và đòi hỏi sự chú ý!" />
+    <TextStringDefinition InstanceID="0xDF59558E" TextString="Thảm Ma Thuật" />
+    <TextStringDefinition InstanceID="0x79C77537" TextString="Cảm nhận nhịp điệu và những khoái cảm độc đáo từ vùng đất xa lạ với một tấm thảm có đính tua được dệt từ lụa đầy màu sắc và sợi chỉ duyên dáng từ những vùng đất xa xôi." />
+    <TextStringDefinition InstanceID="0x0211249C" TextString="Thảm Hoàng Gia Công Chúa Cordelia" />
+    <TextStringDefinition InstanceID="0x06BAB519" TextString="Một ưu điểm của tàu ngầm so với gần như bất kỳ tàu biển nào là sàn hoàn toàn khô. Nhưng điều đó không có nghĩa là nó ấm - chút nào. Công Chúa Cordelia thiết kế chiếc thảm đẹp và sang trọng này để giữ cho các ngón chân hoàng gia của cô ấm áp nhất có thể khi cô thức dậy trên tàu Eppsilon." />
+    <TextStringDefinition InstanceID="0x213A9918" TextString="Thảm Thủ Công Dân Tộc" />
+    <TextStringDefinition InstanceID="0xC5D626CD" TextString="Chiếc thảm thủ công bằng lông cừu nhuộm là phụ kiện hoàn hảo cho phong cách mộc mạc, gần gũi thiên nhiên." />
+    <TextStringDefinition InstanceID="0xFBF4A1FD" TextString="Tác Phẩm Sàn Nhà Mềm Mại Của Trẻ Em" />
+    <TextStringDefinition InstanceID="0x88F92602" TextString="Trẻ em dành nhiều thời gian trên sàn. Chúng bò quanh, chơi với đồ chơi hình nhân, bạn có thể tưởng tượng! Chúng cần độ đệm cho đầu gối ngay bây giờ vì nó sẽ không giúp ích nhiều khi chúng già và đầu gối bị hỏng. Nhiều thiết kế vui nhộn!!" />
+    <TextStringDefinition InstanceID="0xD05AFA5B" TextString="Thể Hiện Dòng Sọc Của Bạn&#xD;&#xA;" />
+    <TextStringDefinition InstanceID="0x95101FF4" TextString="Làm một tuyên ngôn mạnh mẽ với những dòng sọc sáng sủa, hạnh phúc trên lớp len mềm mại, hấp dẫn. &#xD;&#xA;" />
+    <TextStringDefinition InstanceID="0xE0884436" TextString="Thảm Sisal Siêu Sinh Thái (Lớn)" />
+    <TextStringDefinition InstanceID="0xBCBC87EF" TextString="Được dệt từ sợi tự nhiên thân thiện môi trường và có nhiều màu sắc, những chiếc thảm sisal bền này lấn bẩn trong khi thu hút sự ngưỡng mộ không bị cản trở.&#xD;&#xA;" />
+    <TextStringDefinition InstanceID="0x09EC6D68" TextString="Thảm Sisal Siêu Sinh Thái (Vuông)" />
+    <TextStringDefinition InstanceID="0x2C79EDFD" TextString="Được dệt từ sợi tự nhiên thân thiện môi trường và có nhiều màu sắc, những chiếc thảm sisal bền này lấn bẩn trong khi thu hút sự ngưỡng mộ không bị cản trở.&#xD;&#xA;" />
+    <TextStringDefinition InstanceID="0x61691D71" TextString="Thảm Sisal Siêu Sinh Thái (Trung)" />
+    <TextStringDefinition InstanceID="0x1EBC1A4E" TextString="Được dệt từ sợi tự nhiên thân thiện môi trường và có nhiều màu sắc, những chiếc thảm sisal bền này lấn bẩn trong khi thu hút sự ngưỡng mộ không bị cản trở.&#xD;&#xA;" />
+    <TextStringDefinition InstanceID="0x90BFD1FD" TextString="Thảm Sisal Siêu Sinh Thái (Nhỏ)" />
+    <TextStringDefinition InstanceID="0x61713602" TextString="Được dệt từ sợi tự nhiên thân thiện môi trường và có nhiều màu sắc, những chiếc thảm sisal bền này lấn bẩn trong khi thu hút sự ngưỡng mộ không bị cản trở.&#xD;&#xA;" />
+    <TextStringDefinition InstanceID="0xB37355FE" TextString="Thảm Dệt Kết Cấu (Lớn)" />
+    <TextStringDefinition InstanceID="0x3053AA47" TextString="Những chiếc thảm lụa thủ công này đặt màu sắc làm trung tâm. Kết cấu tinh tế, không đều thêm sự quan tâm bề ngoài. &#xD;&#xA;" />
+    <TextStringDefinition InstanceID="0x6CE16962" TextString="Thảm Dệt Kết Cấu (Trung)" />
+    <TextStringDefinition InstanceID="0xA3CE9033" TextString="Những chiếc thảm lụa thủ công này đặt màu sắc làm trung tâm. Kết cấu tinh tế, không đều thêm sự quan tâm bề ngoài. &#xD;&#xA;" />
+    <TextStringDefinition InstanceID="0xD644FF7A" TextString="Những chiếc thảm lụa thủ công này đặt màu sắc làm trung tâm. Kết cấu tinh tế, không đều thêm sự quan tâm bề ngoài. &#xD;&#xA;" />
+    <TextStringDefinition InstanceID="0x15151EF2" TextString="Thảm Dệt Kết Cấu (Nhỏ)&#xD;&#xA;" />
+    <TextStringDefinition InstanceID="0x6D3B9B3C" TextString="Mở khóa ở cấp 7 của sự nghiệp Chuyên Gia Công Nghệ khi ở nhánh Khởi nghiệp." />
+    <TextStringDefinition InstanceID="0x9F1821F3" TextString="Mở khóa bằng cách đạt đến cấp 7 của sự nghiệp Chuyên Gia Công Nghệ khi ở nhánh Khởi nghiệp." />
+    <TextStringDefinition InstanceID="0x0E9C090B" TextString="Một Ý Tưởng Thiên Tài" />

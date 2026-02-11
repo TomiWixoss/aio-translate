@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x6F29C721" TextString="Không gian để tiếp khách." />
+    <TextStringDefinition InstanceID="0x0E442A2A" TextString="Khoe của!" />
+    <TextStringDefinition InstanceID="0x3603A38C" TextString="Quầy ăn buffet gần nhất ở đâu?" />
+    <TextStringDefinition InstanceID="0x3DBA2261" TextString="Tìm kiếm công thức trên Simstagram." />
+    <TextStringDefinition InstanceID="0x239E006A" TextString="Cơ thể tôi là một ngôi đền." />
+    <TextStringDefinition InstanceID="0x0023EC83" TextString="Họ biết không nên hỏi tôi." />
+    <TextStringDefinition InstanceID="0x65EA84DE" TextString="Họ nên thuê một người giữ trẻ." />
+    <TextStringDefinition InstanceID="0x14801DA5" TextString="Tôi là người phù hợp cho công việc này!" />
+    <TextStringDefinition InstanceID="0x26AA6856" TextString="Tôi là mối nguy hiểm." />
+    <TextStringDefinition InstanceID="0xAE3E089B" TextString="Tôi kinh doanh nỗi sợ của người khác." />
+    <TextStringDefinition InstanceID="0x4A70B4F8" TextString="Đi hoạt động bí mật." />
+    <TextStringDefinition InstanceID="0x5292828D" TextString="Ảnh hài Llama." />
+    <TextStringDefinition InstanceID="0x05315788" TextString="Kiếm tiền." />
+    <TextStringDefinition InstanceID="0xFD6728AB" TextString="Cảm hứng." />
+    <TextStringDefinition InstanceID="0xEF91CCE0" TextString="Một nguồn tri thức vô hạn." />
+    <TextStringDefinition InstanceID="0x3DB1DB16" TextString="Kỹ thuật viên phòng thư" />
+    <TextStringDefinition InstanceID="0x5CA5A9A3" TextString="{0.SimFirstName} đã để lại dấu ấn của {M0.him}{F0.her} trên thế giới kinh doanh. Giờ thì tất cả những gì {M0.he}{F0.she} cần làm là tìm người tiếp theo sắp để lại dấu ấn, ủng hộ họ, và chờ đợi sự nỗ lực của họ được đền đáp." />
+    <TextStringDefinition InstanceID="0xC2ADE338" TextString="Nhà đầu tư thiên thần" />
+    <TextStringDefinition InstanceID="0xBCCCAF26" TextString="{0.SimFirstName} là một thợ săn lớn, và các tập đoàn là con mồi của {M0.him}{F0.her}. Sáp nhập và mua bán là vũ khí của {M0.him}{F0.her}, và chúc may mắn cho bất kỳ giám đốc đi lạc hay cổ đông thiểu số nào lạc vào tầm ngắm của {M0.him}{F0.her}." />
+    <TextStringDefinition InstanceID="0x36368AED" TextString="Kẻ cướp tập đoàn" />
+    <TextStringDefinition InstanceID="0x62A456C5" TextString="Điều này không thực sự về việc phòng ngừa rủi ro; đó là về đòn bẩy: tối đa hóa lợi tức trên đầu tư của khách hàng. Nếu {0.SimFirstName} tối đa hóa đủ, {M0.he}{F0.she} sẽ có một phần khá lớn trong đó." />
+    <TextStringDefinition InstanceID="0xCB8DD6E2" TextString="Quản lý quỹ phòng ngừa rủi ro" />
+    <TextStringDefinition InstanceID="0x48CA0F48" TextString="Mùa BLT sắp đến? Đã đến lúc đầu tư vào tương lai thịt heo. Hàng hóa là tên trò chơi, và công việc của {0.SimFirstName} là biết điều gì sẽ nóng vào ngày mai. Theo dõi thị trường chứng khoán sẽ giúp {0.SimPronounObjective} để lại dấu ấn của {M0.him}{F0.her}." />
+    <TextStringDefinition InstanceID="0xCC2535EF" TextString="Nhà giao dịch tương lai" />
+    <TextStringDefinition InstanceID="0xB09ECECF" TextString=" Nghiên cứu Cổ phiếu ({0.String})" />
+    <TextStringDefinition InstanceID="0x8E4E5DB3" TextString=" Nghiên cứu Đối thủ ({0.String})" />
+    <TextStringDefinition InstanceID="0x319482B6" TextString="{0.SimFirstName} cuối cùng cũng đã vào Đại sảnh Danh vọng! Tên của {M0.him}{F0.her} sẽ sống mãi mãi là người xuất sắc nhất trong những người xuất sắc nhất. Sách ghi chép sẽ chứa đựng những thành tích thể thao của {M0.him}{F0.her}. Những lời mời phát biểu và thỏa thuận xuất bản đang ập đến… nói cách khác {M0.he}{F0.she} cuối cùng cũng đã lên đến đỉnh núi." />
+    <TextStringDefinition InstanceID="0x6D8E175D" TextString="Thành viên Đại sảnh Danh vọng" />
+    <TextStringDefinition InstanceID="0x8BEBA44F" TextString="{0.SimFirstName} là cầu thủ giá trị nhất! Cả thế giới biết điều đó và không có gì tổn hại khi {M0.he}{F0.she} được book mọi chương trình talkshow để thảo luận về cách {M0.he}{F0.she} đạt được thành công. Mọi người đều mặc áo đấu của {0.SimFirstName} và {M0.he}{F0.she} đang nhận được hàng tấn thỏa thuận tài trợ." />
+    <TextStringDefinition InstanceID="0xCB082CE4" TextString="Cầu thủ xuất sắc nhất (MVP)" />
+    <TextStringDefinition InstanceID="0x3346A598" TextString="{0.SimFirstName} đã được chọn vào đội All Star! Mọi người từ khắp nơi đều yêu cầu chữ ký của {M0.him}{F0.her}. {M0.he}{F0.she} xuất sắc cả trên và ngoài sân." />
+    <TextStringDefinition InstanceID="0x23BBF51F" TextString="Ngôi sao" />
+    <TextStringDefinition InstanceID="0x3F3C9A19" TextString="Không còn là người dự bị, giờ {0.SimFirstName} đang chơi với những người lớn và kiếm được số tiền lớn. Các cổ động viên biết {M0.he}{F0.she} là ai rồi và nhận ra {0.SimFirstName} trên phố. Cố lên!" />
+    <TextStringDefinition InstanceID="0x54080C06" TextString="Cầu thủ chính thức" />
+    <TextStringDefinition InstanceID="0x7768D89A" TextString="{0.SimFirstName} cuối cùng cũng đang chơi ở giải đấu lớn! Giờ {M0.he}{F0.she} sẽ cần phải làm việc chăm chỉ hơn bao giờ hết để ở lại đó. {M0.he}{F0.she} cần duy trì thể lực của {M0.him}{F0.her} và nghiên cứu băng ghi hình trận đấu. {0.SimFirstName} sẽ có cơ hội của {M0.him}{F0.her} để tạo ấn tượng!" />
+    <TextStringDefinition InstanceID="0x028E3241" TextString="Cầu thủ mới" />
+    <TextStringDefinition InstanceID="0x6281F973" TextString="Đã đến lúc {0.SimFirstName} cho họ thấy {M0.he}{F0.she} có gì! {0.SimFirstName} sẽ học hỏi từ các huấn luyện viên của {M0.him}{F0.her}, phát triển kỹ năng và thể hiện vì {M0.he}{F0.she} sẽ cần gây ấn tượng với các tuyển trạch để lên cấp độ tiếp theo." />
+    <TextStringDefinition InstanceID="0x6D00C728" TextString="Cầu thủ giải hạng dưới" />
+    <TextStringDefinition InstanceID="0x6EA97434" TextString="Thông qua sự nỗ lực và lãnh đạo vượt trội, {0.SimFirstName} sẽ trình diễn những bài nhảy được dàn dựng tuyệt vời. Các cổ động viên sẽ xem đội của {M0.him}{F0.her} với sự ngạc nhiên." />
+    <TextStringDefinition InstanceID="0x780DB91B" TextString="Đội trưởng nhóm nhảy" />
+    <TextStringDefinition InstanceID="0x5270C86D" TextString="Một Đại diện Đội biểu biết cách giữ cho đám đông hào hứng. Thông qua nhiều biểu cảm và chuyển động cơ thể, {0.SimFirstName} sẽ đưa các cổ động viên đứng dậy cổ vũ cho đội." />
+    <TextStringDefinition InstanceID="0x21B406DA" TextString="Đại diện Đội biểu" />
+    <TextStringDefinition InstanceID="0xCDB288EE" TextString="Đây không chỉ là việc nhặt quần áo bảo hộ. {0.SimFirstName} sẽ cần một thái độ tích cực và thực hiện nhiệm vụ của {M0.him}{F0.her} một cách competent. Trách nhiệm của {M0.him}{F0.her} bao gồm giữ phòng thay đồ sạch sẽ, cung cấp cho cầu thủ khăn tay sạch, và tổ chức thiết bị của đội." />
+    <TextStringDefinition InstanceID="0x27A0D2C5" TextString="Nhân viên phục vụ phòng thay đồ" />
+    <TextStringDefinition InstanceID="0xC63E1167" TextString="Mang chất dinh dưỡng lỏng đến cho những ngôi sao thể thao lớn nhất thế giới. {0.SimFirstName} sẽ phải nhanh nhẹn trên đôi chân của {M0.him}{F0.her} để bổ sung nước cho họ. Nếu {M0.he}{F0.she} thất bại, đội sẽ thất bại." />
+    <TextStringDefinition InstanceID="0xC2E6AD6C" TextString="Người phục vụ nước" />
+    <TextStringDefinition InstanceID="0x6ADAF942" TextString="Bạn đã lên đến đỉnh núi và trở thành {M0.Mr}{F0.Ms}. Hệ Mặt Trời. Cơ thể bạn là ngôi đền của bạn và giờ bạn có chiếc cúp và những vinh quang đi kèm. Chúc mừng!" />
+    <TextStringDefinition InstanceID="0x6CBB8999" TextString="{M0.Mr}{F0.Ms}. Hệ Mặt Trời" />
+    <TextStringDefinition InstanceID="0x9279321B" TextString="Bạn đang trên bìa tất cả các tạp chí thể hình và thể dục. Người Sim muốn biết {0.SimFirstName} làm thế nào để có được những cơ bụng đá cứng và mông săn chắc. Cơ thể cân đối của {M0.him}{F0.her} không đến một cách dễ dàng. Nó tốn rất nhiều công sức và vẫn còn không gian để phát triển. Cố lên!" />
+    <TextStringDefinition InstanceID="0xF203BA00" TextString="Vận động viên thể hình nổi tiếng" />

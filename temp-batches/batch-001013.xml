@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xDD285058" TextString="Tôi có một khoản quyên góp khiêm tốn dành cho bạn!" />
+    <TextStringDefinition InstanceID="0x5BD27D29" TextString="Ai đó muốn quyên góp một số tiền khá lớn cho bạn!" />
+    <TextStringDefinition InstanceID="0xC267A16F" TextString="Tôi tìm được một khoản quyên góp khá lớn cho bạn!" />
+    <TextStringDefinition InstanceID="0x90E23889" TextString="Tôi tìm được người sẵn sàng trả một số tiền lớn để mua bức tranh mà bạn chọn!" />
+    <TextStringDefinition InstanceID="0x63203C3A" TextString="Xin lỗi, tôi hiện không có gì cho bạn. Hãy gọi lại sau, biết đâu tôi sẽ có." />
+    <TextStringDefinition InstanceID="0xC540D1DF" TextString="Có một nhà sưu tập nghệ thuật sẵn sàng trả cao hơn một chút so với giá thị trường cho kiệt tác bạn chọn!" />
+    <TextStringDefinition InstanceID="0xA8674F4B" TextString="Tôi đã giúp bạn có được một khoản quyên góp nhỏ." />
+    <TextStringDefinition InstanceID="0x2B4F76E1" TextString="&quot;Bạn vừa gọi! Hãy thử lại sau.&quot;" />
+    <TextStringDefinition InstanceID="0xFDB18A6B" TextString="{0.SimFirstName} không thể tác động và thuyết phục ai đó đồng ý với khoản thưởng..." />
+    <TextStringDefinition InstanceID="0x86F54A5A" TextString="Họ thích những gì {0.SimFirstName} nói. {0.SimFirstName} nhận được một khoản tiền thưởng một lần và gần thăng chức hơn bao giờ hết!" />
+    <TextStringDefinition InstanceID="0xA7C41A02" TextString="Bạn không thể Di chuyển Hộ gia đình khi đang có Sự kiện Xã hội hoặc đang làm việc." />
+    <TextStringDefinition InstanceID="0xDB48D4EC" TextString="Bạn không thể Chuyển đi khi đang có Sự kiện Xã hội hoặc đang làm việc." />
+    <TextStringDefinition InstanceID="0x6C12F87D" TextString="Đi đến Huấn luyện Lối sống" />
+    <TextStringDefinition InstanceID="0x58E6E3D7" TextString="Tham gia Kỳ nghỉ" />
+    <TextStringDefinition InstanceID="0xDC52B173" TextString="Tham gia Hoạt động Ngoại khóa" />
+    <TextStringDefinition InstanceID="0x79C3BF8A" TextString="{0.SimFirstName} thà không đến." />
+    <TextStringDefinition InstanceID="0x06815F54" TextString="{0.SimFirstName} đang bận xử lý những &quot;cảm giác tức giận&quot; có răng... và móng vuốt." />
+    <TextStringDefinition InstanceID="0xA45AC41C" TextString="{0.SimFirstName} đang ngủ." />
+    <TextStringDefinition InstanceID="0x5839B995" TextString="{0.SimFirstName} thà không đến ngay bây giờ, nhất là khi trăng tròn." />
+    <TextStringDefinition InstanceID="0xA024FEC8" TextString="{0.SimFirstName} không thoải mái khi đi du lịch đến Quên Hồ với bạn." />
+    <TextStringDefinition InstanceID="0x71890E9E" TextString="Mời Tham gia Tụ tập" />
+    <TextStringDefinition InstanceID="0xF6FBE17C" TextString="Mời Đến Khu đất Hiện tại" />
+    <TextStringDefinition InstanceID="0xAE6686A8" TextString="Tôi sẽ đến ngay!" />
+    <TextStringDefinition InstanceID="0xBE0916BF" TextString="{1.SimFirstName} đã ở gần rồi!" />
+    <TextStringDefinition InstanceID="0x2724103B" TextString="{1.SimName} sẽ đến ngay!" />
+    <TextStringDefinition InstanceID="0x3DF4105A" TextString="{0.String}" />
+    <TextStringDefinition InstanceID="0x04477AF8" TextString="Không phải ai cũng có thể đến!\n{0.String}" />
+    <TextStringDefinition InstanceID="0x70F44FEA" TextString="Mọi người đều đến!" />
+    <TextStringDefinition InstanceID="0x246B697F" TextString="Không ai có thể đến ngay bây giờ!\n{0.String}" />
+    <TextStringDefinition InstanceID="0x0C1FD0AA" TextString="{0.SimFirstName} đã ở đây rồi!" />
+    <TextStringDefinition InstanceID="0x9AFF2B31" TextString="{0.SimFirstName} đang bận!" />
+    <TextStringDefinition InstanceID="0x988FAED3" TextString="Kiểm tra Lý lịch cho {2.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x467900DA" TextString="Nhân vật yêu thích của {0.SimFirstName} là từ các trò chơi MySims." />
+    <TextStringDefinition InstanceID="0xCE6C3DB0" TextString="{0.SimFirstName} thích Baked Alaska." />
+    <TextStringDefinition InstanceID="0xA0E7EBC9" TextString="{0.SimFirstName} nghĩ người ngoài hành tinh rất ngầu." />
+    <TextStringDefinition InstanceID="0xE3C76B2D" TextString="{0.SimFirstName} sợ thỏ đông lạnh." />
+    <TextStringDefinition InstanceID="0x2CB05776" TextString="Hình dạng yêu thích của {0.SimFirstName} là Plumbob." />
+    <TextStringDefinition InstanceID="0x0B98CA9E" TextString="Xin lỗi, Cơ sở dữ liệu hiện đang bận, hãy thử lại sau!" />
+    <TextStringDefinition InstanceID="0xDCB2741F" TextString="Thuê Dịch vụ Sửa chữa" />
+    <TextStringDefinition InstanceID="0x856CCD2F" TextString="Cảm ơn bạn đã thuê từ Repair Services United. Kỹ thuật viên sửa chữa của bạn sẽ đến vào {0.DayOfWeekLong} lúc {0.TimeShort}." />
+    <TextStringDefinition InstanceID="0x362D77AE" TextString="Thuê Dịch vụ Người giữ trẻ" />
+    <TextStringDefinition InstanceID="0xD889CC72" TextString="Bạn đã thuê người giữ trẻ rồi!" />
+    <TextStringDefinition InstanceID="0x34D8E28C" TextString="Cảm ơn bạn đã thuê từ Kindly Caring, Inc. Người giữ trẻ của bạn sẽ đến vào {0.DayOfWeekLong} lúc {0.TimeShort}." />
+    <TextStringDefinition InstanceID="0xF0ED91EA" TextString="Bạn đã thuê người giúp việc rồi!" />
+    <TextStringDefinition InstanceID="0xF6DD1626" TextString="Thuê Người làm vườn Chuyên nghiệp" />
+    <TextStringDefinition InstanceID="0x14C3A4F4" TextString="Cảm ơn bạn đã thuê từ Gardeners United. Người làm vườn của bạn sẽ đến vào {0.DayOfWeekLong} lúc {0.TimeShort}." />
+    <TextStringDefinition InstanceID="0x9ACE61F9" TextString="Bạn đã thuê Người làm vườn rồi!" />
+    <TextStringDefinition InstanceID="0x386D4BE1" TextString="Thuê Đại lý" />
+    <TextStringDefinition InstanceID="0xECADCBB7" TextString="{0.SimFirstName} đã thuê một đại lý! {M0.He}{F0.She} giờ có thể thương lượng để nhận được nhiều tiền hơn từ những bức tranh của {M0.his}{F0.her}!" />
+    <TextStringDefinition InstanceID="0xF081124C" TextString="Chuyển Hồ sơ Quỹ" />

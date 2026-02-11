@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xBC84CC5D" TextString="Ugh! Tôi ghét đàn guitar!" />
+    <TextStringDefinition InstanceID="0x8942357E" TextString="Tôi ghét làm vườn!" />
+    <TextStringDefinition InstanceID="0x77B0AD75" TextString="Tôi ghét thể dục!" />
+    <TextStringDefinition InstanceID="0x2FC98267" TextString="Tôi ghét câu cá!" />
+    <TextStringDefinition InstanceID="0xD1A513D0" TextString="Ghét cưỡi ngựa" />
+    <TextStringDefinition InstanceID="0x68E9516F" TextString="Tôi ghét DJ pha nhạc!" />
+    <TextStringDefinition InstanceID="0x93D4FAF9" TextString="Tôi ghét nghiên cứu và tranh luận!" />
+    <TextStringDefinition InstanceID="0xF9C94B5D" TextString="Tôi ghét nhảy!" />
+    <TextStringDefinition InstanceID="0x615E74F8" TextString="Tôi ghét thêu chữ thập!" />
+    <TextStringDefinition InstanceID="0xE97F32D5" TextString="Tôi ghét nấu ăn!" />
+    <TextStringDefinition InstanceID="0x76BD27D8" TextString="Tôi ghét hài kịch!" />
+    <TextStringDefinition InstanceID="0xA045FE19" TextString="Tôi ghét bowling!" />
+    <TextStringDefinition InstanceID="0xB6690A39" TextString="Tôi ghét làm bánh!" />
+    <TextStringDefinition InstanceID="0xF137748F" TextString="Tôi ghét diễn xuất!" />
+    <TextStringDefinition InstanceID="0xB510BA1E" TextString="{0.SimFirstName} không thể chịu nổi! Cuộc tra tấn này sẽ kết thúc khi nào?! Các Sim đang làm điều họ ghét dễ bị giảm Niềm vui." />
+    <TextStringDefinition InstanceID="0x20A79841" TextString="{0.SimFirstName} không chắc chắn đó là âm thanh gì, nhưng nó to và đáng sợ!" />
+    <TextStringDefinition InstanceID="0x0E11817F" TextString="Sợ bão tố" />
+    <TextStringDefinition InstanceID="0xCFE1EC50" TextString="Sấm sét và mưa, ôi trời! May mắn là trong nhà an toàn." />
+    <TextStringDefinition InstanceID="0xC05144B5" TextString="Siêu năng lượng" />
+    <TextStringDefinition InstanceID="0x05F6422A" TextString="{0.SimFirstName} đang rực rỡ với năng lượng điện." />
+    <TextStringDefinition InstanceID="0xE9AB28BE" TextString="Điều đó thật tuyệt vời!" />
+    <TextStringDefinition InstanceID="0xD94D4F07" TextString="{0.SimFirstName} đã bị sét đánh và cảm thấy điện chạy dọc theo {F0.her}{M0.his} mạch máu!" />
+    <TextStringDefinition InstanceID="0x7562226A" TextString="Siêu nạp điện" />
+    <TextStringDefinition InstanceID="0x8082756B" TextString="{0.SimFirstName} đã quá nạp với năng lượng điện! Sức mạnh của cơn bão nằm ở đầu ngón tay {F0.her}{M0.his}." />
+    <TextStringDefinition InstanceID="0xFAF62C7F" TextString="Bị sét đánh" />
+    <TextStringDefinition InstanceID="0x08899550" TextString="{0.SimFirstName} đã bị một tia sét đánh trúng, ôi đau!" />
+    <TextStringDefinition InstanceID="0x40A6E8ED" TextString="Đó là quá gần..." />
+    <TextStringDefinition InstanceID="0x03CE69D2" TextString="{0.SimFirstName} suýt bị sét đánh! Ở bên ngoài trong cơn bão có thể rất nguy hiểm..." />
+    <TextStringDefinition InstanceID="0xD4E27AA7" TextString="Tôi đang làm gì ở đây?!" />
+    <TextStringDefinition InstanceID="0xC915E608" TextString="{0.SimFirstName} bị kẹt bên ngoài trong cơn bão tuyết giá lạnh! " />
+    <TextStringDefinition InstanceID="0x2A05E650" TextString="Thảm họa tã bẩn!!" />
+    <TextStringDefinition InstanceID="0x5D71A1B5" TextString="Ồ trời. Ồ không, mùi đó KHÔNG đúng chút nào." />
+    <TextStringDefinition InstanceID="0x44E92830" TextString="Nguy hiểm vô lý!" />
+    <TextStringDefinition InstanceID="0xBD649315" TextString="{0.SimFirstName} sợ! Tại sao? Ai biết!" />
+    <TextStringDefinition InstanceID="0xBECF9F39" TextString="Hỗ trợ cảm xúc" />
+    <TextStringDefinition InstanceID="0xF8056726" TextString="{0.SimFirstName} đang bình tĩnh lại một chút! Thật tốt khi có một bờ vai để thét lên đôi khi." />
+    <TextStringDefinition InstanceID="0x179ADAFE" TextString="Ợn buổi sáng" />
+    <TextStringDefinition InstanceID="0xBFDF1147" TextString="{0.SimFirstName} thức dậy cảm thấy ốm yếu dữ dội, như thể có thứ gì đó đang đẩy {F0.her}{M0.his} bên trong khắp nơi..." />
+    <TextStringDefinition InstanceID="0x3C67038C" TextString="Cách thức thức dậy thô lỗ" />
+    <TextStringDefinition InstanceID="0xC58CBFA9" TextString="Đừng bao giờ đánh thức một Sim lười biếng. KHÔNG BAO GIỜ!" />
+    <TextStringDefinition InstanceID="0xA1AB7B68" TextString="Ngủ say sưa" />
+    <TextStringDefinition InstanceID="0x43D4A7FD" TextString="ZZZzzzzzzzzzzz..." />
+    <TextStringDefinition InstanceID="0x4A9851F2" TextString="Ugh, em bé..." />
+    <TextStringDefinition InstanceID="0xE66C5023" TextString="Sim này thực sự nghĩ những bức ảnh em bé này dễ thương à? Ghê!" />
+    <TextStringDefinition InstanceID="0x4789AAE1" TextString="Em bé dễ thương!" />
+    <TextStringDefinition InstanceID="0x71D852DE" TextString="Aww... những bức ảnh em bé này đáng yêu quá! " />
+    <TextStringDefinition InstanceID="0x581FCE82" TextString="Tã bẩn" />
+    <TextStringDefinition InstanceID="0x0C37DBD3" TextString="Ew... {0.SimFirstName} đã bị tởm bởi chiếc tã đó. Hôi. Kinh khủng. Ugh... ai nói việc có trẻ mới biết đi là ý tưởng tốt?" />
+    <TextStringDefinition InstanceID="0x313766AB" TextString="UUURRRRPPPP!" />
+    <TextStringDefinition InstanceID="0xA920D664" TextString="Ồ không! Những tiếng ọc ọc trong bụng đó không nghe tốt!" />

@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xC8E849D9" TextString="Giải đấu Chuyên nghiệp Road Rival Alpha" />
+    <TextStringDefinition InstanceID="0xB4A53CAD" TextString="Giải đấu Mới bắt đầu Road Rival Alpha" />
+    <TextStringDefinition InstanceID="0xBE9F4017" TextString="Giải đấu Chuyên nghiệp The R.E.F.U.G.E." />
+    <TextStringDefinition InstanceID="0x69C922F7" TextString="Giải đấu Mới bắt đầu The R.E.F.U.G.E." />
+    <TextStringDefinition InstanceID="0x6DAE2A66" TextString="Giải đấu Chuyên nghiệp MySims Go!" />
+    <TextStringDefinition InstanceID="0x3094812A" TextString="Giải đấu Mới bắt đầu MySims Go!" />
+    <TextStringDefinition InstanceID="0x52E7ACAB" TextString="Giải đấu Chuyên nghiệp Incredible Sports" />
+    <TextStringDefinition InstanceID="0xB34CA6CB" TextString="Giải đấu Mới bắt đầu Incredible Sports" />
+    <TextStringDefinition InstanceID="0x5B5BB2DD" TextString="Giải đấu Chuyên nghiệp Hillock II" />
+    <TextStringDefinition InstanceID="0xDE11C481" TextString="Giải đấu Mới bắt đầu Hillock II" />
+    <TextStringDefinition InstanceID="0xF067DCDE" TextString="Giải đấu Chuyên nghiệp Blicblock" />
+    <TextStringDefinition InstanceID="0x3A5BC982" TextString="Giải đấu Mới bắt đầu Blicblock" />
+    <TextStringDefinition InstanceID="0xA86CBFE0" TextString="{0.SimFirstName} đã thắng giải đấu trò chơi! Hoan hô!" />
+    <TextStringDefinition InstanceID="0x9E0A8356" TextString="{0.SimFirstName} đứng thứ hai trong giải đấu trò chơi. Chỉ cần thực hành thêm chút nữa, chắc chắn {M0.he}{F0.she} sẽ thắng lần tới." />
+    <TextStringDefinition InstanceID="0x6702D4D2" TextString="{0.SimFirstName} đạt vị trí thứ ba và đó không phải là điều đáng khinh. Nhưng nó có nghĩa là còn nhiều không gian để cải thiện!" />
+    <TextStringDefinition InstanceID="0x116F175A" TextString="Hóa ra các đối thủ khác trong giải đấu này giỏi hơn {0.SimFirstName}. Lần này không có giải thưởng!" />
+    <TextStringDefinition InstanceID="0xB53DC94A" TextString="Một giải đấu trò chơi khác sẽ được tổ chức sớm!" />
+    <TextStringDefinition InstanceID="0x191103F1" TextString="Chơi Keyboard Commander" />
+    <TextStringDefinition InstanceID="0xEAE257CC" TextString="Buộc bản thân chơi Sims Forever" />
+    <TextStringDefinition InstanceID="0xC216E567" TextString="Buộc bản thân chơi Sims Forever với Mods" />
+    <TextStringDefinition InstanceID="0x20172557" TextString="Blicblock với Mods" />
+    <TextStringDefinition InstanceID="0x54442DC7" TextString="Buộc bản thân chơi Road Rival Alpha" />
+    <TextStringDefinition InstanceID="0xCC00BEF8" TextString="Buộc bản thân chơi Road Rival Alpha với Mods" />
+    <TextStringDefinition InstanceID="0x7D0D8E34" TextString="Chơi Road Rival Alpha" />
+    <TextStringDefinition InstanceID="0xDD73C5B9" TextString="Road Rival Alpha với Mods" />
+    <TextStringDefinition InstanceID="0x58BAEB8B" TextString="Buộc bản thân chơi The R.E.F.U.G.E." />
+    <TextStringDefinition InstanceID="0x0010AFB6" TextString="Buộc bản thân chơi The R.E.F.U.G.E. với Mods" />
+    <TextStringDefinition InstanceID="0xF21E51F0" TextString="Chơi The R.E.F.U.G.E." />
+    <TextStringDefinition InstanceID="0xBA8C7322" TextString="The R.E.F.U.G.E. với Mods" />
+    <TextStringDefinition InstanceID="0x1506C1E1" TextString="Chơi The Sims Archives, tập 4" />
+    <TextStringDefinition InstanceID="0xC0E6FB57" TextString="Chơi The Sims Archives, tập 2" />
+    <TextStringDefinition InstanceID="0x25D8538C" TextString="Chơi The Sims Archives" />
+    <TextStringDefinition InstanceID="0x315CFDE0" TextString="Buộc bản thân chơi MySims Go!" />
+    <TextStringDefinition InstanceID="0xC7E0EFD2" TextString="Buộc bản thân chơi MySims Go! với Mods" />
+    <TextStringDefinition InstanceID="0x1EBBFA41" TextString="Chơi MySims Go!" />
+    <TextStringDefinition InstanceID="0x3BB30A3B" TextString="MySims Go! với Mods" />
+    <TextStringDefinition InstanceID="0x7787C77F" TextString="Buộc bản thân chơi Incredible Sports" />
+    <TextStringDefinition InstanceID="0x24C5DBE6" TextString="Buộc bản thân chơi Incredible Sports với Mods" />
+    <TextStringDefinition InstanceID="0x14251CCC" TextString="Chơi Incredible Sports" />
+    <TextStringDefinition InstanceID="0x3459B3E2" TextString="Tốt lắm, công việc được thực hiện xuất sắc. Chúng tôi đã bắt trộm đang hành động. Sự cảnh giác của bạn đã giữ an toàn cho khu phố—việc làm tuyệt vời!" />
+    <TextStringDefinition InstanceID="0x626D0DC4" TextString="(Từ việc trộm bị bắt)" />
+    <TextStringDefinition InstanceID="0xACF8F569" TextString="(Từ việc bị trộm) " />
+    <TextStringDefinition InstanceID="0xD9937936" TextString="Tiếp tục Take That! Shock Upgrade" />
+    <TextStringDefinition InstanceID="0x34B86368" TextString="Tiếp tục Police Link Security Upgrade" />
+    <TextStringDefinition InstanceID="0xBC1535A7" TextString="Take That! Shock Upgrade" />
+    <TextStringDefinition InstanceID="0xF1990622" TextString="Báo động sẽ điện giật kẻ trộm khi được kích hoạt, buộc họ phải bỏ lại bất kỳ vật dụng nào đã trộm." />
+    <TextStringDefinition InstanceID="0x0C3C5A61" TextString="Police Link Security Upgrade" />
+    <TextStringDefinition InstanceID="0x12ED241C" TextString="Báo động sẽ tự động gọi cảnh sát khi được kích hoạt." />
+    <TextStringDefinition InstanceID="0x5F5F521F" TextString="(Từ kẻ trộm đang hoạt động trên lô đất)" />
+    <TextStringDefinition InstanceID="0x602F28D3" TextString="Trộm!!!" />

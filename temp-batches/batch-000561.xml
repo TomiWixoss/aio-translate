@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x45F795E6" TextString="Ẩn sau những cái cây, Ngôi nhà Tiên này được khắc vào thân cây để giữ bí mật của các Tiên. Đây là nơi hoàn hảo để họ ngủ và phục hồi năng lượng, chỉ cần đừng quên thu thập Bụi Tiên sau một bữa tiệc nhảy ồn ào." />
+    <TextStringDefinition InstanceID="0xA0EC21BF" TextString="Tôi cảm thấy như mình đang chìm nghỉm dưới áp lực của trường học và bữa trưa là thời gian duy nhất tôi có thể ngoi lên thở." />
+    <TextStringDefinition InstanceID="0xADAD0CCA" TextString="Bữa trưa là thời gian tuyệt vời để kết bạn. Ai muốn trở thành bạn thân không?" />
+    <TextStringDefinition InstanceID="0x90A424AE" TextString="Người phát minh ra tự động sửa lỗi đã chết hôm nay. Nhà hàng giờ đã thành từng mảnh." />
+    <TextStringDefinition InstanceID="0x95A42C8F" TextString="Này, {0.SimFirstName}, tôi phát minh ra một từ mới. Đạo văn!" />
+    <TextStringDefinition InstanceID="0x96A42E38" TextString="Một bộ xương bước vào ThrifTea và gọi trà boba và một cây chổi." />
+    <TextStringDefinition InstanceID="0x93A429F1" TextString="Tôi đặt gà và trứng trực tuyến. Tôi sẽ cho bạn biết cái nào đến trước." />
+    <TextStringDefinition InstanceID="0x94A42B62" TextString="{0.SimFirstName}, chúng tôi đã cố gắng liên hệ với bạn về bảo hành mở rộng của tủ lạnh." />
+    <TextStringDefinition InstanceID="0x4996A3FC" TextString="Nếu tôi chợp mắt ở góc căn-tin, tôi có thể vượt qua được phần còn lại của ngày..." />
+    <TextStringDefinition InstanceID="0x311CB002" TextString="Làm cách nào khác để tôi có năng lượng vượt qua ngày?! Thức ăn là nhiên liệu, và nhiên liệu giúp tôi tỉnh táo." />
+    <TextStringDefinition InstanceID="0x301CAE91" TextString="Tôi đã mong chờ bữa trưa! Được gặp tất cả bạn bè và chỉ đơn thuần là trò chuyện là điểm sáng của ngày học của tôi." />
+    <TextStringDefinition InstanceID="0x9D614F85" TextString="Tôi thực sự hài lòng vào giờ trưa. Không ai nói chuyện với tôi, tôi đang ở nơi hạnh phúc của mình." />
+    <TextStringDefinition InstanceID="0x9E615136" TextString="Bữa trưa thực sự là phần tốt nhất của ngày." />
+    <TextStringDefinition InstanceID="0x06F9F21B" TextString="Tôi hy vọng câu trả lời cho câu số hai là chữ viết run và một giọt nước mắt, bởi đó là những gì tôi viết." />
+    <TextStringDefinition InstanceID="0xCBA5A710" TextString="Tôi đã không nhận ra cho đến tận cuối rằng tôi đã điền sách trả lời ngược lại. Ai lại làm vậy chứ?!" />
+    <TextStringDefinition InstanceID="0x38987775" TextString="Mỗi tiếng ồn nhỏ đều làm tôi mất tập trung ở đó. Một cái hắt hơi khiến tôi quên câu trả lời. Thảm họa hoàn toàn." />
+    <TextStringDefinition InstanceID="0xD3AAC4DA" TextString="Không thể nói liệu tôi vui vì đã làm tốt hay nhẹ nhõm vì nó đã kết thúc... dù sao đi nữa tôi cũng cảm thấy tốt!" />
+    <TextStringDefinition InstanceID="0x15647F8F" TextString="Kỳ thi cuối kỳ không thể hạ gục tôi! Tôi đã đánh bại nó!" />
+    <TextStringDefinition InstanceID="0x5111BB74" TextString="Ấn tượng đầu tiên của mọi người về tôi là ợ hơi trong buổi định hướng. Nếu cần tôi, tôi sẽ trốn trong tủ đồ." />
+    <TextStringDefinition InstanceID="0xC14723A9" TextString="Có ai làm bài đọc hè không? Hay bài tập ngày đầu tiên? Chúng ta có chúng không? Tôi đã cảm thấy mình tụt hậu rồi!" />
+    <TextStringDefinition InstanceID="0x5E2B1D0C" TextString="{0.SimFirstName} tôi rất vui vì có một người bạn như bạn." />
+    <TextStringDefinition InstanceID="0x5D2B1BE3" TextString="{0.SimFirstName}, bạn đã nghĩ đến việc học đàn guitar chưa? Tôi nghĩ bạn sẽ giỏi lắm." />
+    <TextStringDefinition InstanceID="0x602B202A" TextString="{0.SimFirstName}, có chuyện gì vậy bạn?" />
+    <TextStringDefinition InstanceID="0x5F2B1EB9" TextString="{0.SimFirstName}, chúng ta nên gặp nhau và trò chuyện một lúc nào đó!" />
+    <TextStringDefinition InstanceID="0x622B23C0" TextString="Này bạn thân! Hy vọng bạn đang có một ngày tuyệt vời." />
+    <TextStringDefinition InstanceID="0x612B2257" TextString="Phong cách của bạn là tất cả, hãy dạy tôi cách của bạn!" />
+    <TextStringDefinition InstanceID="0xF5BADF79" TextString="Một ngày đầy những cuộc trò chuyện nhỏ kỳ lạ, giới thiệu và hoạt động phá băng. Không cảm ơn." />
+    <TextStringDefinition InstanceID="0xB2108444" TextString="Năng lượng ngày đầu tiên! Mọi người đều reo hò!" />
+    <TextStringDefinition InstanceID="0x79D9FCF3" TextString="Ngày đầu tiên có nghĩa là một khởi đầu mới! Tôi háo hức kết bạn mới và xem môn học nào tôi tỏa sáng nhất!" />
+    <TextStringDefinition InstanceID="0x06208AEE" TextString="Tôi chưa bao giờ tự hào về bản thân đến thế. Tôi đã làm được. Tôi đã tốt nghiệp. " />
+    <TextStringDefinition InstanceID="0x8DEFE16D" TextString="Việc tốt nghiệp có khiến ai khác buồn không? Tôi chưa sẵn sàng buông tay. Tôi chưa sẵn sàng trưởng thành." />
+    <TextStringDefinition InstanceID="0xB4C3D3E8" TextString="Tôi rất hào hứng khi đã ra khỏi trường học và bước sang chương tiếp theo của cuộc đời!" />
+    <TextStringDefinition InstanceID="0x95F70587" TextString="Tạm biệt Trường Trung học, chào đời trưởng thành!" />
+    <TextStringDefinition InstanceID="0x17F1E852" TextString="Có thể có những lựa chọn khác trên vé, nhưng tôi là lựa chọn đúng duy nhất cho Vai trò Trò đùa trong Dạ hội." />
+    <TextStringDefinition InstanceID="0x6E2D39E1" TextString="Từ Mờm Lớp đến Hoàng tộc Dạ hội. Cũng là vị trí tốt nhất trong triều đình, Trò đùa Dạ hội!" />
+    <TextStringDefinition InstanceID="0x54A358CC" TextString="Trò đùa Dạ hội! Điều này hoàn hảo. Chiếc mũ khen ngợi trang phục của tôi và thậm chí không làm hỏng tóc tôi." />
+    <TextStringDefinition InstanceID="0x5BABB21B" TextString="Zabba la pleeva, {0.SimFirstName}. Farbie za blarf!" />
+    <TextStringDefinition InstanceID="0x5CABB384" TextString="{0.SimFirstName} xảo quyệt như cáo và đó là lý do tôi không tin tưởng {M0.him}{F0.her}." />
+    <TextStringDefinition InstanceID="0x5DABB531" TextString="Nếu tôi có một Simoleon mỗi khi {0.SimFirstName} thật ngầu, tôi sẽ phá sản." />
+    <TextStringDefinition InstanceID="0x5EABB6A2" TextString="{0.SimFirstName} tôi sắp BlicBLOCK bạn sang năm sau. Biến đi, nông dân!" />
+    <TextStringDefinition InstanceID="0x5FABB8CF" TextString="{0.SimFirstName}, hãy coi đây là tôi ném bóng: Mẹ bạn là lạc đà và bạn cũng vậy!" />
+    <TextStringDefinition InstanceID="0x60ABBA78" TextString="{0.SimFirstName}, khuôn mặt bạn đáng đấm. Chỉ nhìn vào nó thôi cũng khiến tôi muốn đánh nhau!" />
+    <TextStringDefinition InstanceID="0x7660177E" TextString="Đứng trên sân khấu... ánh đèn... những cái nhìn. Tôi thà chiếc vương miện thuộc về người không định nôn mửa." />
+    <TextStringDefinition InstanceID="0x57C2CD43" TextString="Tôi rất tự hào được chọn làm Nữ hoàng/Vua Dạ hội năm nay. Tôi sẽ xứng đáng với vinh dự lớn lao này." />
+    <TextStringDefinition InstanceID="0xD512E1D6" TextString="Có gì tuyệt hơn việc gục xuống chiếc giường của chính mình sau một chuyến đi dài?" />
+    <TextStringDefinition InstanceID="0xD412DFA5" TextString="Du lịch vui vẻ nhưng đôi khi chỉ đơn thuần là tốt khi trở về nhà. " />
+    <TextStringDefinition InstanceID="0xCF67F540" TextString="Đi chơi có thể rất căng thẳng! Tôi cần sự bình yên tĩnh lặng của nhà mình, nếu không tôi sẽ mất kiểm soát." />
+    <TextStringDefinition InstanceID="0x13A3F2D4" TextString="Mọi người trông như hoàng tộc tối nay, nhưng tôi sẽ là người đội vương miện! Tôi háo hức trở thành Vua/Nữ hoàng Dạ hội năm nay!" />
+    <TextStringDefinition InstanceID="0xE78FCFC2" TextString="Xin chào ngôi nhà đẹp! Tôi đã trở về!" />
+    <TextStringDefinition InstanceID="0x95D3BA37" TextString="Và khi trang cuối cùng lật qua, tâm hồn tôi chùng xuống, bởi đây là kết thúc của một hành trình tôi sẽ không bao giờ trải nghiệm giống như trước nữa." />

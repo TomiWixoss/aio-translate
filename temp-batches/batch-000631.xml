@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x921C808C" TextString="{1.SimFirstName} là vấn đề? Hay là {2.SimFirstName}?" />
+    <TextStringDefinition InstanceID="0x8D0F4DA5" TextString="Batuu có thật không?" />
+    <TextStringDefinition InstanceID="0x90656E27" TextString="Những thứ này trộn được không? Ê! Có lẽ!" />
+    <TextStringDefinition InstanceID="0x707B524E" TextString="Nghệ sĩ đã nghĩ gì khi tạo ra tác phẩm này?!" />
+    <TextStringDefinition InstanceID="0x216C1F60" TextString="Không gì dễ thương hơn là nói chuyện với em bé!" />
+    <TextStringDefinition InstanceID="0xAFAC6124" TextString="Thời gian chụp ảnh selfie!!!" />
+    <TextStringDefinition InstanceID="0xA90C8E31" TextString="Những mẫu vật này sẽ kể những bí mật và câu chuyện gì?!" />
+    <TextStringDefinition InstanceID="0xF7C8321C" TextString="Thời gian nghỉ phép là cách tuyệt vời để nạp lại năng lượng!" />
+    <TextStringDefinition InstanceID="0xFC26B9E1" TextString="{1.SimFirstName} sẽ lưu giữ những kỷ niệm tuyệt vời với {2.SimFirstName} như thế nào? Ảnh! Duhh!" />
+    <TextStringDefinition InstanceID="0x3701A011" TextString="Vung tay ra và ÒM CHẶT!" />
+    <TextStringDefinition InstanceID="0x350F2ECE" TextString="Vung tay ra và ÒM CHẶT!" />
+    <TextStringDefinition InstanceID="0x0BF83BAF" TextString="{1.SimFirstName} đang tìm kiếm một cái ôm dịu dàng, yêu thương từ một người đặc biệt!" />
+    <TextStringDefinition InstanceID="0x4420F5CA" TextString="Tình yêu là nắm tay dù chúng có phai mờ đến đâu." />
+    <TextStringDefinition InstanceID="0x780BF066" TextString="{1.SimFirstName} đang cảm thấy sang chảnh và muốn ở trong một môi trường cao cấp." />
+    <TextStringDefinition InstanceID="0x0E95AEA9" TextString="{2.SimFirstName} không cần phải vật lộn để học điều mới. Đưa ra một bàn tay giúp đỡ có thể rất tốt." />
+    <TextStringDefinition InstanceID="0xE9F8C127" TextString="Nếu từ lounge nghe sang, hãy tưởng tượng những ly đồ uống!" />
+    <TextStringDefinition InstanceID="0xCDF8D005" TextString="Lên nhạc to nhưng đừng làm đổ đồ uống." />
+    <TextStringDefinition InstanceID="0xE9094840" TextString="Đồ uống ngon hơn khi có người khác pha chế." />
+    <TextStringDefinition InstanceID="0x2FDE77F3" TextString="Giải khát!" />
+    <TextStringDefinition InstanceID="0xE9B9719E" TextString="Một gói hàng hạnh phúc?! Vâng, xin!" />
+    <TextStringDefinition InstanceID="0x968A7FC4" TextString="Nó chưa bao giờ dễ dàng. Nhưng đã đến lúc rồi, cây cưng ơi." />
+    <TextStringDefinition InstanceID="0xB12EDD36" TextString="Growfruit đã trưởng thành! Xin lỗi cây, nhưng đã đến mùa thu hoạch." />
+    <TextStringDefinition InstanceID="0x8C57814F" TextString="Phải có ngón tay nhanh như chớp để vào được mainframe." />
+    <TextStringDefinition InstanceID="0xE10BA6E5" TextString="Biến C++ thành A." />
+    <TextStringDefinition InstanceID="0xB19A2D10" TextString="Phim ảnh làm cho việc này trông dễ dàng quá!" />
+    <TextStringDefinition InstanceID="0xC58D23BF" TextString="Trông thật đẹp và tươi mới!" />
+    <TextStringDefinition InstanceID="0x7FB5CFF0" TextString="Bàn tay cẩn thận... có lẽ một chút keo siêu dính. Tái chế, Tái sử dụng, Hồi sinh!" />
+    <TextStringDefinition InstanceID="0xF043CFA7" TextString="{1.SimFirstName} không thể chờ để chiếu những đoạn phim này ở công ty!" />
+    <TextStringDefinition InstanceID="0xBC6A9D36" TextString="{1.SimFirstName} không thể không cảm thấy như {F1.she}{M1.he} cần mở ra {F1.her}{M1.his} tư duy trước khi đi làm." />
+    <TextStringDefinition InstanceID="0xB12D8593" TextString="{1.SimFirstName} muốn nghiêm túc và hoàn thành công việc!" />
+    <TextStringDefinition InstanceID="0xA46C6771" TextString="Đi làm? Ghê. {1.SimFirstName} sẽ cần ly cà phê buổi sáng để sẵn sàng đi làm!" />
+    <TextStringDefinition InstanceID="0x8567DA8A" TextString="Nhân viên xuất sắc đang đến!" />
+    <TextStringDefinition InstanceID="0x98EEDAC7" TextString="{1.SimFirstName} muốn đi chơi bơi!" />
+    <TextStringDefinition InstanceID="0xF1BAF480" TextString="{1.SimFirstName} muốn đi chơi bơi!" />
+    <TextStringDefinition InstanceID="0x271F3C32" TextString="Với những con bướm, đôi má ửng hồng và lời hứa của tình yêu trẻ, đã đến lúc để cảm nứng phát triển thành một thứ gì đó nhiều hơn." />
+    <TextStringDefinition InstanceID="0xF3BC174B" TextString="Lãng mạn và chính thức. Đừng quên dấu ấn bằng một nụ hôn!" />
+    <TextStringDefinition InstanceID="0x0D07318B" TextString="Cần không gian? {1.SimFirstName} sẵn sàng phóng lên một cuộc phiêu lưu mới!" />
+    <TextStringDefinition InstanceID="0x9F22B5A0" TextString="Đêm hẹn hò... hoặc ngày! Tình yêu đang trong không khí cho cả hai!" />
+    <TextStringDefinition InstanceID="0x1D8D2988" TextString="Hãy tập tim mạch! Nó tốt cho sức khỏe." />
+    <TextStringDefinition InstanceID="0x2E6801DB" TextString="Làm việc những cơ bắp và giải phóng mọi căng thẳng." />
+    <TextStringDefinition InstanceID="0xDCDF3036" TextString="Đừng là kẻ nhát gan! Phổ biến thiên tài ẩm thực đó. Các Sim khác sẽ tan chảy vì nó." />
+    <TextStringDefinition InstanceID="0x08A314B9" TextString="Có còn nhiều điều để học về {2.SimFirstName}!" />
+    <TextStringDefinition InstanceID="0xE2092B37" TextString="Làm việc chăm chỉ hay làm việc chăm chỉ? Đã đến lúc leo thang công ty!" />
+    <TextStringDefinition InstanceID="0xE4949E7A" TextString="Hai tâm hồn cùng nhau cho cuộc phiêu lưu tối thượng. {2.SimFirstName} không thể là người bạn đồng hành tốt hơn." />
+    <TextStringDefinition InstanceID="0x78DE5C73" TextString="{1.SimFirstName} cảm thấy sẵn sàng cho một cam kết! Không có gì cao quý hơn!" />
+    <TextStringDefinition InstanceID="0x7FFCF09D" TextString="Nó cảm thấy thật đúng để bắt đầu một điều gì đó mới." />
+    <TextStringDefinition InstanceID="0x9C9AEF55" TextString="{1.SimFirstName} đã làm việc quá sức và nên nhớ niềm vui của việc chơi!" />
+    <TextStringDefinition InstanceID="0x5648BF28" TextString="Mở ra tư duy có thể mang lại mọi kỳ quan." />
+    <TextStringDefinition InstanceID="0xDDD7FA2D" TextString="Mắt dõi theo giải thưởng." />
+    <TextStringDefinition InstanceID="0x65F6DBA8" TextString="Đã đến lúc vào guồng!" />

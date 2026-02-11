@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x16879579" TextString="Nhấp vào giá vẽ và chọn Tranh Vui Vẻ." />
+    <TextStringDefinition InstanceID="0xC455B3E8" TextString="Bắt đầu Tranh Vui Vẻ" />
+    <TextStringDefinition InstanceID="0x29CD08C4" TextString="Nhấp vào giá vẽ và chọn Tranh Tán Tỉnh." />
+    <TextStringDefinition InstanceID="0xFD706E23" TextString="Bắt đầu Tranh Tán Tỉnh" />
+    <TextStringDefinition InstanceID="0xA70BA07E" TextString="Nhấp vào giá vẽ và chọn Tranh Tự Tin." />
+    <TextStringDefinition InstanceID="0x631C2ECD" TextString="Bắt đầu Tranh Tự Tin" />
+    <TextStringDefinition InstanceID="0x01998CE1" TextString="Nhấp vào giá vẽ và chọn Tranh Tức Giận." />
+    <TextStringDefinition InstanceID="0xBE3859A0" TextString="Bắt đầu Tranh Tức Giận" />
+    <TextStringDefinition InstanceID="0x7F9B735F" TextString="Tránh đổ rác và giữ thùng rác đầy ớn trong 8 giờ." />
+    <TextStringDefinition InstanceID="0xD42950B5" TextString="Giữ Thùng Rác Đầy Ớn Trong 8 Giờ" />
+    <TextStringDefinition InstanceID="0x108CA848" TextString="Nhấp vào Đài Thiên Văn để Quan Sát Bầu Trời." />
+    <TextStringDefinition InstanceID="0xEB627377" TextString="Quan Sát Bầu Trời Bằng Kính Viễn Vọng" />
+    <TextStringDefinition InstanceID="0x6B78DD93" TextString="Trong khi hai Sim đang chơi cờ, nhấp vào Bàn Cờ và chọn Xem Ván Cờ." />
+    <TextStringDefinition InstanceID="0x7120A102" TextString="Quan Sát Ván Cờ" />
+    <TextStringDefinition InstanceID="0xA14F1A16" TextString="Mua Đài Thiên Văn" />
+    <TextStringDefinition InstanceID="0x7192BFCF" TextString="Tránh hoạt động thể chất và tăng kỹ năng Thủ Thuật để tránh vấp ngã." />
+    <TextStringDefinition InstanceID="0xF698E065" TextString="Không Vấp Ngã Trong 4 Giờ" />
+    <TextStringDefinition InstanceID="0x6AFAA5C1" TextString="Tránh nhận Moodlet &quot;Nhớ Người Yêu&quot; bằng cách ở gần Người Yêu suốt ngày." />
+    <TextStringDefinition InstanceID="0x4A2CDCCF" TextString="Không Nhớ Người Yêu Trong 6 Giờ" />
+    <TextStringDefinition InstanceID="0x573A2B72" TextString="Nhấp vào {2.SimFirstName} và chọn WooHoo từ danh mục Lãng Mạn." />
+    <TextStringDefinition InstanceID="0xEEA42742" TextString="Nhấp vào {2.SimFirstName} và chọn Hôn Sâu từ danh mục Lãng Mạn. " />
+    <TextStringDefinition InstanceID="0xF2B119C9" TextString="Nhấp vào {2.SimFirstName} và chọn Hôn Sâu từ danh mục Lãng Mạn." />
+    <TextStringDefinition InstanceID="0x3A81DCBA" TextString="Nhấp vào {2.SimFirstName} và chọn Hôn từ danh mục Lãng Mạn." />
+    <TextStringDefinition InstanceID="0x52766C31" TextString="Nhấp vào {2.SimFirstName} và chọn Hôn từ danh mục Lãng Mạn." />
+    <TextStringDefinition InstanceID="0xFC6AF274" TextString="Nhấp vào {2.SimFirstName} và chọn Ôm từ danh mục Lãng Mạn." />
+    <TextStringDefinition InstanceID="0x8D62AD37" TextString="Nhấp vào {2.SimFirstName} và chọn Ôm từ danh mục Lãng Mạn." />
+    <TextStringDefinition InstanceID="0x27B1B77D" TextString="Nhấp vào {2.SimFirstName} và chọn Làm Quen từ danh mục &quot;Thân Thiện&quot;." />
+    <TextStringDefinition InstanceID="0xC89AA3DB" TextString="Nhấp vào {2.SimFirstName} và chọn một Tương Tác Xã Hội từ danh mục Lãng Mạn." />
+    <TextStringDefinition InstanceID="0xFD9D18DA" TextString="Nhấp vào {2.SimFirstName} và chọn một Tương Tác Xã Hội từ danh mục Lãng Mạn." />
+    <TextStringDefinition InstanceID="0xFE578833" TextString="Nhấp vào {2.SimFirstName} và Khen Ngoại Hình từ danh mục Lãng Mạn." />
+    <TextStringDefinition InstanceID="0xE626AF37" TextString="Nhấp vào {2.SimFirstName} và chọn một Tương Tác Xã Hội từ danh mục Ác." />
+    <TextStringDefinition InstanceID="0x1A3E6E09" TextString="Nhấp vào {2.SimFirstName} và chọn một Tương Tác Xã Hội từ danh mục Thân Thiện." />
+    <TextStringDefinition InstanceID="0x378E9B15" TextString="Nhấp vào vật thể bẩn và chọn Làm Sạch." />
+    <TextStringDefinition InstanceID="0x880B2374" TextString="Dọn Nhà" />
+    <TextStringDefinition InstanceID="0xE22E5324" TextString="Nhấp vào một Sim và chọn Thảo Luận Ban Nhạc Yêu Thích. Những Sim là Người Yêu Âm Nhạc có thể thực hiện tương tác này." />
+    <TextStringDefinition InstanceID="0x3C8DDDC3" TextString="Thảo Luận Ban Nhạc Yêu Thích" />
+    <TextStringDefinition InstanceID="0x59805B9D" TextString="Treo Cá" />
+    <TextStringDefinition InstanceID="0x1225AD0B" TextString="Nhấp vào bất kỳ Sim nào và thực hiện bất kỳ tương tác nào." />
+    <TextStringDefinition InstanceID="0x17F3CAD9" TextString="Giao Tiếp" />
+    <TextStringDefinition InstanceID="0xE2829B67" TextString="Nhấp vào bồn tắm hoặc vòi sen và thực hiện tương tác phù hợp để làm sạch." />
+    <TextStringDefinition InstanceID="0xAD10C4CD" TextString="Tự Làm Sạch" />
+    <TextStringDefinition InstanceID="0xDD60FD0A" TextString="Chọn Tủ Lạnh, Lò Vi Sóng, bất kỳ thức ăn nào, hoặc mua thức ăn từ Người Bán Hàng và Ăn!" />
+    <TextStringDefinition InstanceID="0xA51704B2" TextString="Ăn Uống" />
+    <TextStringDefinition InstanceID="0x33E85661" TextString="Hãy để Sim thực hiện bất kỳ hành động nào làm tăng Động Cực Vui Vẻ! Các hành động này bao gồm Đọc Sách, Xem TV, Chơi Máy Tính, v.v." />
+    <TextStringDefinition InstanceID="0xC647EA6F" TextString="Giải Trí" />
+    <TextStringDefinition InstanceID="0x90F89CA7" TextString="Chọn giường, ghế sofa, hoặc bất kỳ nơi nào Sim có thể ngủ và chọn Ngủ Trưa hoặc Ngủ." />
+    <TextStringDefinition InstanceID="0x9CF1130D" TextString="Ngủ" />
+    <TextStringDefinition InstanceID="0x8CBE69B0" TextString="Tìm bất kỳ bồn cầu hoặc phòng tắm nào và chọn Sử Dụng." />
+    <TextStringDefinition InstanceID="0xF3939558" TextString="Tiểu Tiện" />
+    <TextStringDefinition InstanceID="0x75EBA72C" TextString="Nhấp vào một Sim và chọn Chế Giễu từ danh mục Ác. Sim có thể thực hiện Tương Tác Xã Hội này khi Tức Giận." />

@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x85614D4B" TextString="Các Sim là người hướng nội gặp khó khăn trong giao tiếp xã hội. Bất kỳ tình huống khó xử nào cũng đủ để khiến họ xấu hổ." />
+    <TextStringDefinition InstanceID="0x898A4C1C" TextString="Nóng hổi!" />
+    <TextStringDefinition InstanceID="0x82366F99" TextString="Mmm... Những chiếc gối ngọt ngào, đầy đường. Có đáng để uống cacao <i>không có</i> kẹo dẻo không?" />
+    <TextStringDefinition InstanceID="0x4037CE50" TextString="Khao khát Cacao" />
+    <TextStringDefinition InstanceID="0x17C019B5" TextString="Không có gì có thể sai trái trong một ngày có cacao nóng!" />
+    <TextStringDefinition InstanceID="0x400920F0" TextString="Cúc La Mã Tĩnh Lặng" />
+    <TextStringDefinition InstanceID="0x54FEB8D5" TextString="Làm dịu căng thẳng với trà hoa này." />
+    <TextStringDefinition InstanceID="0x796D7642" TextString="Trà Táo Ấm Áp" />
+    <TextStringDefinition InstanceID="0xC418E893" TextString="{0.SimFirstName} đã gợi lên những ký ức mùa thu dịu dàng với tách trà táo ấm áp của {M0.his}{F0.her}." />
+    <TextStringDefinition InstanceID="0x91DB9615" TextString="Tannin Quyến rũ" />
+    <TextStringDefinition InstanceID="0x7D1D770A" TextString="Sự cân bằng đắng hoàn hảo lưu lâu sau khi nước uống đã cạn." />
+    <TextStringDefinition InstanceID="0x2E5B5221" TextString="Thức uống Mê hoặc" />
+    <TextStringDefinition InstanceID="0xF92AB11E" TextString="Hương vị ngọt dịu tạo nên một bữa ăn hoàn hảo, nhảy múa trên đầu lưỡi của {0.SimFirstName}." />
+    <TextStringDefinition InstanceID="0xA0BBF91D" TextString="Kết thúc Tuyệt vời" />
+    <TextStringDefinition InstanceID="0x9722EEA2" TextString="Hành trình dẫn đến một kết thúc đầy hương vị, không làm thất vọng." />
+    <TextStringDefinition InstanceID="0x5390E624" TextString="Sự Phức tạp Mệnh lệnh" />
+    <TextStringDefinition InstanceID="0xEBA622D1" TextString="Nó thu hút sự chú ý của {0.SimFirstName} và không bao giờ buông." />
+    <TextStringDefinition InstanceID="0x67EA2AFD" TextString="Sự Cân bằng Đầy kinh ngạc" />
+    <TextStringDefinition InstanceID="0x1CF27902" TextString="Những nốt nhạc bổ trợ tạo ra sự cân bằng trong hương vị, có thể kết hợp với bất cứ thứ gì." />
+    <TextStringDefinition InstanceID="0x30A7B35A" TextString="Hương thơm Đáng kinh ngạc" />
+    <TextStringDefinition InstanceID="0x7A4A0BFB" TextString="Những hương thơ này cho phép mũi vẽ lên một khung cảnh đẹp của những ngọn đồi nắng, nơi thức uống này bắt nguồn." />
+    <TextStringDefinition InstanceID="0x7F54E8D1" TextString="Đang bốc hơi" />
+    <TextStringDefinition InstanceID="0xD1630A2E" TextString="Đun nước bằng lò vi sóng? Ai lại làm vậy? Làm máu tôi sôi hơn cả nước." />
+    <TextStringDefinition InstanceID="0x6071E4A8" TextString="Kiệt sức" />
+    <TextStringDefinition InstanceID="0xF8EFFA3D" TextString="Cảm thấy như một vỏ trống không cảm xúc." />
+    <TextStringDefinition InstanceID="0xACBF5966" TextString="Bạn đang mang thai" />
+    <TextStringDefinition InstanceID="0x525BAD3F" TextString="Tã... Xong! Bình sữa... Xong! Em bé... Sắp đến!" />
+    <TextStringDefinition InstanceID="0x4E800307" TextString="Niềm vui Bé yêu" />
+    <TextStringDefinition InstanceID="0x0D74E2E8" TextString="Điều gì có thể đáng yêu hơn việc nhìn thấy một em bé mới chào đời?" />
+    <TextStringDefinition InstanceID="0x2A541AED" TextString="Ăn Ở nhà" />
+    <TextStringDefinition InstanceID="0xF8966FD2" TextString="{0.SimFirstName} đã cam kết một bữa ăn ngon tại nhà, xa khỏi đám đông của nhà hàng và không cần vất vả với bếp." />
+    <TextStringDefinition InstanceID="0x4A6FB12B" TextString="Đau buồn" />
+    <TextStringDefinition InstanceID="0x5A97E1E4" TextString="Thật khó khăn khi thấy ai đó ra đi. {0.SimFirstName} có thể tìm thấy sự an ủi bằng cách đau buồn cho những người đã khuất tại Bia mộ hoặc Bình tro." />
+    <TextStringDefinition InstanceID="0x757DDEA2" TextString="Sự Sống không mong đợi" />
+    <TextStringDefinition InstanceID="0xC4871D73" TextString="Mặc dù được cho một cơ hội khác, {0.SimFirstName} không thể không hối tiếc những hành động đã đưa {0.SimPronounObjective} đến kết quả ma quái này." />
+    <TextStringDefinition InstanceID="0xCFF0A391" TextString="Những khả năng là vô tận!" />
+    <TextStringDefinition InstanceID="0x149117EE" TextString="Bây giờ {0.SimFirstName} đã có một cơ hội mới cho cuộc sống (hoặc cuộc sống sau khi chết), {0.SimPronounSubjective} không thể không cảm thấy được truyền cảm hứng bởi những khả năng vô tận đang chờ đón phần còn lại của {0.SimPronounPossessiveDependent} ngày!" />
+    <TextStringDefinition InstanceID="0xC6CCEF30" TextString="Được Cho Cơ hội Thứ hai" />
+    <TextStringDefinition InstanceID="0x063CB015" TextString="Một cơ hội khác cho {0.SimFirstName} có nghĩa là {0.SimPronounSubjective} có thể làm mọi thứ mà {0.SimPronounSubjective} từng muốn!" />
+    <TextStringDefinition InstanceID="0x06E8D5AB" TextString="Mất mát Trong gia đình" />
+    <TextStringDefinition InstanceID="0xCCFCAB64" TextString="Thật khó khăn khi thấy những người thân thiết nhất của chúng ta qua đời. {0.SimFirstName} có thể tìm thấy sự an ủi bằng cách đau buồn tại Bia mộ hoặc Bình tro." />
+    <TextStringDefinition InstanceID="0x846D8457" TextString="{0.SimFirstName} không biết phải làm gì trong tình huống như thế này." />
+    <TextStringDefinition InstanceID="0x5433F145" TextString="NÓ ĐANG ĐẾN CHO TÔI!" />
+    <TextStringDefinition InstanceID="0x08B7001A" TextString="Đó là chim! Đó là máy bay! Đó... LÀ MỘT TIÊU THIÊN THẠCH! Và nó đang lao thẳng về phía {0.SimFirstName}. CHẠY ĐI!" />
+    <TextStringDefinition InstanceID="0x312B1CE8" TextString="Thực sự Chiên" />
+    <TextStringDefinition InstanceID="0x7382007D" TextString="Suýt thì... Tôi thực sự không nên chơi với điện trong một thời gian..." />
+    <TextStringDefinition InstanceID="0xF7D2821D" TextString="Nguy hiểm Vì Mệt mỏi" />
+    <TextStringDefinition InstanceID="0x907741A2" TextString="Người cao tuổi không còn sức bền như trước và lúc này {0.SimFirstName} đã kiệt sức. Hoạt động vất vả liên tục có thể gây chết người ngay bây giờ." />
+    <TextStringDefinition InstanceID="0x401A4888" TextString="Búp bê Tội nghiệp" />
+    <TextStringDefinition InstanceID="0x7598B49D" TextString="Ai đó đã đập nhà búp bê, thật khủng khiếp!" />

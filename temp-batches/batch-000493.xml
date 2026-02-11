@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xD5388931" TextString="Người liên hệ từ Bubbleplace đã thể hiện sự phấn khích đáng kể khi {0.SimFirstName} hoàn thành báo cáo sớm hơn dự kiến. Họ liên tục khen ngợi kỹ sư, điều ban đầu rất thú vị nhưng nhanh chóng trở nên nhàm chán. Dù vậy, {0.SimFirstName} vẫn nhận được một khoản thưởng đẹp cho nỗ lực của {F0.her}{M0.his}." />
+    <TextStringDefinition InstanceID="0xC1AFDFB5" TextString="Người liên hệ từ Bubbleplace dường như rất vui vẻ khi {0.SimFirstName} không hoàn thành hợp đồng. Rõ ràng, họ coi đó là một loại thành công, nghĩ rằng nó chỉ chứng tỏ hệ thống bảo mật của họ thật khó phá. Họ cảm ơn {F0.her}{M0.him} vì đã dành thời gian bằng một khoản thanh toán nhỏ." />
+    <TextStringDefinition InstanceID="0x405E9BFF" TextString="Công ty có thể đáng ngờ, nhưng họ trả lương tốt. {0.SimFirstName} không thể phàn nàn sau khi nhận được séc lương, mặc dù {F0.she}{M0.he} không thể xua đi cảm giác kỳ lạ trong đầu rằng {F0.she}{M0.he} đang nhận thêm nhiều thư rác..." />
+    <TextStringDefinition InstanceID="0x23ECEC22" TextString="Chain Mail, Inc. có thể trông hơi lạ và đáng ngờ, nhưng họ rất hào phóng. Khi {0.SimFirstName} giao báo cáo sớm hơn lịch trình, công ty đã đảm bảo thưởng cho {0.SimPronounObjective} bằng một khoản thanh toán thêm." />
+    <TextStringDefinition InstanceID="0x15F4F35E" TextString="Mặc dù {0.SimFirstName} không hoàn thành công việc, {F0.she}{M0.he} vẫn được trả một phần số tiền đã thỏa thuận. Sự trừng phạt thực sự đến sau, khi hộp thư đến của {F0.her}{M0.his} đột ngột bị lấp đầy bởi thư rác." />
+    <TextStringDefinition InstanceID="0x0E2F5628" TextString="{0.SimFirstName} đã giao báo cáo đúng hạn, khiến đại diện Llamacorn rất nhẹ nhõm. Rõ ràng, ngay cả khi {F0.she}{M0.he} đang làm việc, Llamacorn đã nhận hơn 200 cuộc tấn công!" />
+    <TextStringDefinition InstanceID="0x81F8849B" TextString="Người liên hệ tại Llamacorn rất vui mừng với việc giao báo cáo sớm. {0.SimFirstName} nhận được nhiều tiền hơn {F0.she}{M0.he} mong đợi, nhưng không có phàn nàn ở đây!" />
+    <TextStringDefinition InstanceID="0x2A45A987" TextString="Người liên hệ của {0.SimFirstName} tại Llamacorn trở nên rất nghi ngờ {0.SimPronounObjective} khi được thông báo công việc chưa hoàn thành. Trong vội vã, {F0.she}{M0.he} được trả một số tiền nhỏ, cảm ơn vì thời gian {F0.her}{M0.his} và bị đẩy ra cửa một cách kỹ thuật số." />
+    <TextStringDefinition InstanceID="0x71F645C6" TextString="Bức tranh giả mạo của {0.SimFirstName} thực sự làm hài lòng người sưu tập đáng ngờ, người lập tức treo nó ở vị trí nổi bật trên {M0.her}{F0.his} lò sưởi. Này, bất cứ điều gì làm họ vui - miễn là {0.SimFirstName} được trả tiền." />
+    <TextStringDefinition InstanceID="0xEB60E54D" TextString="Sau khi nộp bức tranh giả mạo, sự tinh tế thực sự của kế hoạch người sưu tập nghệ thuật được tiết lộ. Người sưu tập không quan tâm đến việc thêm bức tranh của {0.SimFirstName} vào bộ sưu tập cá nhân của {M0.her}{F0.his}... Không, người sưu tập đang đánh cắp bản gốc và thay thế bằng bản sao giả mạo của {0.SimFirstName}. {0.SimFirstName} ban đầu lo lắng về nguy cơ bị bắt, nhưng một ít tiền im lặng thêm từ người sưu tập đã khiến {M0.him}{F0.her} ngoảnh mặt đi, ít nhất là lúc này..." />
+    <TextStringDefinition InstanceID="0x08EDCCD9" TextString="Người sưu tập nghệ thuật đáng ngờ tức giận vì {0.SimFirstName} không hoàn thành nhiệm vụ của {M0.his}{F0.her} đúng hạn. Sau khi đe dọa sẽ báo cho cơ quan chức năng, {0.SimFirstName} vẫn có thể trích xuất một khoản thanh toán một phần cho thời gian {M0.he}{F0.she} đã bỏ ra, điều đó chỉ dường như công bằng." />
+    <TextStringDefinition InstanceID="0x7343A18B" TextString="Bản giả mạo của {0.SimFirstName} đủ thuyết phục để cho phép người bán nghệ thuật đáng ngờ nhanh chóng hoàn thành giao dịch với một người sưu tập quá háo hức, trước khi có thể đặt quá nhiều câu hỏi." />
+    <TextStringDefinition InstanceID="0x98CE9CCE" TextString="Bản giả mạo của {0.SimFirstName} hoàn hảo; {M0.he}{F0.she} đã chinh phục mọi khía cạnh của việc tái tạo có thể bị kiểm tra. Khách hàng của người bán đã mang một chuyên gia độc lập đến xem xét bức tranh, người vô tình xác nhận tính xác thực của nó. Toàn bộ hoạt động là một thành công đáng kinh ngạc, và người bán đã trả {0.SimFirstName} một khoản thưởng hậu hĩnh - hoặc có lẽ đó chỉ là tiền im lặng?" />
+    <TextStringDefinition InstanceID="0xCF87ED2D" TextString="Tiệc tùng có thể là những sự kiện phức tạp - đôi khi sang trọng, đôi khi thân mật, đôi khi bị hủy - đó là lý do tại sao chúng tôi tạo ra bộ trang phục hoàn hảo cho bất kỳ bữa tiệc nào thực sự tồn tại." />
+    <TextStringDefinition InstanceID="0x1D93DB1B" TextString="Thời trang VIP sau giờ làm việc" />
+    <TextStringDefinition InstanceID="0x2FCDB07B" TextString="Nâng cấp phong cách của bạn với bộ trang phục thiết kế tươi mới như mưa, bao gồm áo khoác cổ chữ V, áo thun cổ chữ V và quần ống rộng được ủi phẳng." />
+    <TextStringDefinition InstanceID="0x57CCA5A2" TextString="Bộ lễ phục trong hộp" />
+    <TextStringDefinition InstanceID="0x993EF91E" TextString="Đi dự một bữa tiệc sang trọng? Bộ Black Tie-in-a-Box của chúng tôi sẽ khiến bạn xinh đẹp như một con chim cánh cụt trong chớp mắt!" />
+    <TextStringDefinition InstanceID="0xC9DD4288" TextString="Bộ vest thời thượng" />
+    <TextStringDefinition InstanceID="0x33A8D980" TextString="Bộ vest được may đo đẹp đẽ này rất phù hợp cho công việc, mặc dù nó cũng rất phù hợp cho các dịp đặc biệt." />
+    <TextStringDefinition InstanceID="0x11239749" TextString="Anh chàng nông thôn" />
+    <TextStringDefinition InstanceID="0x9D6C8DDF" TextString="Darth Vader" />
+    <TextStringDefinition InstanceID="0x0882F3CE" TextString="Con chuột khăn quàng" />
+    <TextStringDefinition InstanceID="0xFC62A142" TextString="Dưới chiếc mũ lưỡi trai và chiếc khăn quàng thời thượng là một gã đàn ông không sợ bất cứ điều gì -- không phải sự phán xét, không phải ý kiến công chúng, có lẽ chỉ là bít tất." />
+    <TextStringDefinition InstanceID="0xC4681B3B" TextString="Thời trang thân mật câu lạc bộ đồng quê" />
+    <TextStringDefinition InstanceID="0x389AFC9B" TextString="Đàn ông hiện đại luôn phải sẵn sàng - cho dù ngày đó mang đến một ván golf, sương mù, hay một Ridgeport." />
+    <TextStringDefinition InstanceID="0x9A8C4F4F" TextString="Trang phục của Noctis Lucis Caelum" />
+    <TextStringDefinition InstanceID="0x9048516E" TextString="Luke Skywalker" />
+    <TextStringDefinition InstanceID="0xC7805B71" TextString="Tàu emo" />
+    <TextStringDefinition InstanceID="0xEC9EC65D" TextString="Kính vuông khung đôi mắt nhạy cảm của bạn, chiếc áo thun chật cho thấy gánh nặng của thế giới trên vai bạn, và chiếc quần có hai khóa kéo để chứa đựng cảm xúc của bạn." />
+    <TextStringDefinition InstanceID="0x804A6E8C" TextString="Nóng dưới chiếc áo hoodie" />
+    <TextStringDefinition InstanceID="0x913D257C" TextString="Giữ một phong cách mát mẻ với quần jean ống lấp, áo thun ôm và áo khoác denim có tích hợp hoodie." />
+    <TextStringDefinition InstanceID="0xD9A488ED" TextString="Phong cách Bess" />
+    <TextStringDefinition InstanceID="0x6DAFA47F" TextString="Darth Maul" />
+    <TextStringDefinition InstanceID="0xB98A244A" TextString="Boba Fett" />
+    <TextStringDefinition InstanceID="0xCAE88070" TextString="Thời trang thể thao 24 giờ" />
+    <TextStringDefinition InstanceID="0xA5279168" TextString="Sự thoải mái thể thao không bao giờ lỗi mốt với 24 Hour Fitwear! Bộ đồ tập thể thao ôm thoải mái này là đỉnh cao của sự linh hoạt." />
+    <TextStringDefinition InstanceID="0x9B3FE85D" TextString="Giày chạy retro" />
+    <TextStringDefinition InstanceID="0x3F5689B1" TextString="Ai mặc quần short? Tại sao, chính bạn! Bộ Retro Runner giúp bạn di chuyển theo phong cách những năm 70." />
+    <TextStringDefinition InstanceID="0x8206F899" TextString="Cú ném rổ" />
+    <TextStringDefinition InstanceID="0xB45B3CE5" TextString="Mang trình độ cao nhất của bạn vào và ngoài sân với trang thiết bị bóng rổ sẵn sàng hành động, bao gồm quần short cực kỳ thoáng khí dài đỉnh và những đường sọc choáng váng đến mức tất cả mọi người sẽ chỉ nhớ đến nỗi đau thất bại." />
+    <TextStringDefinition InstanceID="0x8C3BD9C0" TextString="Không thể tin được" />
+    <TextStringDefinition InstanceID="0x3A71DC17" TextString="Chuyến đi dát vàng" />
+    <TextStringDefinition InstanceID="0xDB647FBB" TextString="Bộ đồ ngủ Tombaby Shortie" />
+    <TextStringDefinition InstanceID="0x77903D1B" TextString="Không có gì mơ mộng hơn sự kết hợp áo baby-tee và quần boxer short này cho sự thoải mái tối đa và phong cách tự do." />
+    <TextStringDefinition InstanceID="0x0939DA6A" TextString="Thời trang dạo phố đặc biệt Somebunny" />
+    <TextStringDefinition InstanceID="0x496A41C6" TextString="Ôm ấp vào thứ gì đó mềm mại, dễ thương và có thể ôm -- giống như bạn! Áo choàng và dép Somebunny Special được làm từ velour mềm nhất, để bạn cảm thấy như một chú thỏ thật." />
+    <TextStringDefinition InstanceID="0x57502F99" TextString="Thời trang ngủ giấc mơ ngọt ngào" />
+    <TextStringDefinition InstanceID="0x0FA2BBE5" TextString="Mơ về những ngày bạn chỉ là một đứa trẻ con gái dịu dàng, được trang trí bằng những chiếc nơ và những bông hoa tinh tế. Giờ hãy mặc như thể không có gì thay đổi. Bao gồm giày ballet!" />
+    <TextStringDefinition InstanceID="0xE4B6F924" TextString="Vui vẻ thu hút" />

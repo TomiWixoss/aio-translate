@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x4C58697E" TextString="Không thể thay đổi mối quan hệ hoặc kiểu đi bộ khi đang ở dạng này." />
+    <TextStringDefinition InstanceID="0x41B29A5B" TextString="Tuổi" />
+    <TextStringDefinition InstanceID="0x4F407DE9" TextString="Thêm một Sim để chỉnh sửa mối quan hệ" />
+    <TextStringDefinition InstanceID="0x83EF04BC" TextString="Mối quan hệ lãng mạn" />
+    <TextStringDefinition InstanceID="0xF0C4C12C" TextString="Mối quan hệ lãng mạn không khả dụng cho Sim trong thời gian Tái sinh." />
+    <TextStringDefinition InstanceID="0xECEED985" TextString="Mối quan hệ" />
+    <TextStringDefinition InstanceID="0xD5968DBA" TextString="{M0.Anh/em họ kế}{F0.Chị/em họ kế}" />
+    <TextStringDefinition InstanceID="0x4055C96C" TextString="{M0.Bố kế}{F0.Mẹ kế}" />
+    <TextStringDefinition InstanceID="0x1E65F25E" TextString="{M0.Con trai kế}{F0.Con gái kế}" />
+    <TextStringDefinition InstanceID="0x449AD3A8" TextString="Bạn đời" />
+    <TextStringDefinition InstanceID="0x39953103" TextString="Vợ/Chồng" />
+    <TextStringDefinition InstanceID="0x15B13527" TextString="{M0.Cháu trai}{F0.Cháu gái}" />
+    <TextStringDefinition InstanceID="0xD048FE3F" TextString="Anh/em của" />
+    <TextStringDefinition InstanceID="0x4C5335C4" TextString="{F0.Chị/em gái}{M0.Anh/em trai}" />
+    <TextStringDefinition InstanceID="0xFD42B7A8" TextString="Bạn cùng phòng" />
+    <TextStringDefinition InstanceID="0x9D1A6E33" TextString="Lật ngẫu nhiên di truyền" />
+    <TextStringDefinition InstanceID="0x753B4A98" TextString="Mối quan hệ này đã được đặt lại" />
+    <TextStringDefinition InstanceID="0xFA3CE882" TextString="Việc chọn tùy chọn này sẽ ảnh hưởng đến các mối quan hệ khác trong hộ gia đình của bạn" />
+    <TextStringDefinition InstanceID="0x7A5CE6F8" TextString="Bạn có chắc chắn muốn xóa tất cả các mối quan hệ đã thiết lập cho Sim này không?" />
+    <TextStringDefinition InstanceID="0xDDE307CB" TextString="Sim hoặc hộ gia đình có sẵn" />
+    <TextStringDefinition InstanceID="0x60D1551A" TextString="Chủ sở hữu" />
+    <TextStringDefinition InstanceID="0xC0092F49" TextString="Thú cưng" />
+    <TextStringDefinition InstanceID="0xDF5ACF45" TextString="{M0.Chú/Bác trai}{F0.Chú/Bác gái}" />
+    <TextStringDefinition InstanceID="0x7217C315" TextString="Cha/Mẹ của" />
+    <TextStringDefinition InstanceID="0xB60B0ABA" TextString="{M0.Cha}{F0.Mẹ}" />
+    <TextStringDefinition InstanceID="0xB4DC5F4C" TextString="Không có Sim nào khác trong hộ gia đình để chọn." />
+    <TextStringDefinition InstanceID="0xC59931EF" TextString="Thành viên hộ gia đình" />
+    <TextStringDefinition InstanceID="0x8B73905C" TextString="{M0.Ông}{F0.Bà}" />
+    <TextStringDefinition InstanceID="0x797F01CE" TextString="{M0.Cháu trai}{F0.Cháu gái}" />
+    <TextStringDefinition InstanceID="0xA928BDF4" TextString="Đã đính hôn" />
+    <TextStringDefinition InstanceID="0x093A688C" TextString="Thành viên gia đình" />
+    <TextStringDefinition InstanceID="0xBA3E0122" TextString="Xong" />
+    <TextStringDefinition InstanceID="0x3D7DCD30" TextString="Con của" />
+    <TextStringDefinition InstanceID="0x12FD88AF" TextString="{M0.Con trai}{F0.Con gái}" />
+    <TextStringDefinition InstanceID="0xB35498F1" TextString="Bạn họ" />
+    <TextStringDefinition InstanceID="0x8D5C9CFE" TextString="Xóa tất cả mối quan hệ" />
+    <TextStringDefinition InstanceID="0x530BA261" TextString="Thêm mối quan hệ" />
+    <TextStringDefinition InstanceID="0x06A2C887" TextString="Thêm:" />
+    <TextStringDefinition InstanceID="0x6A510882" TextString="Thiết lập {0.SimFirstName} là {1.SimFirstName} của" />
+    <TextStringDefinition InstanceID="0x67EC5ADB" TextString="Mối quan hệ trong hộ gia đình" />
+    <TextStringDefinition InstanceID="0x0FAD5B61" TextString="Anh/em" />
+    <TextStringDefinition InstanceID="0x850829BE" TextString="Vợ/Chồng" />
+    <TextStringDefinition InstanceID="0x59FE0533" TextString="Cha/Mẹ" />
+    <TextStringDefinition InstanceID="0x3DCEA0DC" TextString="Con cái" />
+    <TextStringDefinition InstanceID="0x4033C98A" TextString="Cân bằng gia đình" />
+    <TextStringDefinition InstanceID="0x0C6EE994" TextString="Chế độ sơn cánh bị vô hiệu hóa khi không có cánh được trang bị." />
+    <TextStringDefinition InstanceID="0x36DD90B0" TextString="Chế độ sơn bị vô hiệu hóa khi đang chơi với di truyền." />
+    <TextStringDefinition InstanceID="0xD913CC0C" TextString="Chế độ sơn" />
+    <TextStringDefinition InstanceID="0x730E7ADE" TextString="Chế độ sơn" />
+    <TextStringDefinition InstanceID="0x71FC3802" TextString="Hiện/Ẩn hình xăm ở các bộ phận cơ thể khác" />

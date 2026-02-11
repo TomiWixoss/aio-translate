@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xE7DF769E" TextString="Lương tâm cắn rứt" />
+    <TextStringDefinition InstanceID="0x6DEA5467" TextString="Thật không dễ chịu khi bị nhắc lại cách {0.SimFirstName} làm tổn thương ai đó, bất kể lý do {F0.she}{M0.he} đã làm điều đó." />
+    <TextStringDefinition InstanceID="0xB7738EED" TextString="Tệ nhất từ trước đến nay" />
+    <TextStringDefinition InstanceID="0x281D2BD2" TextString="Liệu {0.SimFirstName} có bao giờ đủ can đảm để tổ chức một bữa tiệc khác, sau khi bữa tiệc đó thất bại thảm hại?" />
+    <TextStringDefinition InstanceID="0xE9CAB717" TextString="Một cuộc hẹn đáng quên" />
+    <TextStringDefinition InstanceID="0xC35DAE98" TextString="Một mối tình có tiềm năng, lại bị phá hủy bởi một cuộc hẹn tồi tệ. Sống và học hỏi?" />
+    <TextStringDefinition InstanceID="0x020FE19C" TextString="Cảm thấy tội lỗi" />
+    <TextStringDefinition InstanceID="0x526A0419" TextString="Nhìn thấy Sim đó khiến {0.SimFirstName} nhớ ra {F0.she}{M0.he} vẫn cảm thấy hơi tội lỗi về cách {F0.she}{M0.he} đã đối xử với họ." />
+    <TextStringDefinition InstanceID="0x96E8013C" TextString="Thậm chí còn xấu hổ hơn" />
+    <TextStringDefinition InstanceID="0x35D54D39" TextString="Khi {0.SimFirstName} cảm thấy {F0.she}{M0.he} đã làm bất công với một Sim, việc thấy Sim đó không vui khiến {F0.her}{M0.him} cảm thấy tồi tệ. Có phải lỗi của {0.SimFirstName}?" />
+    <TextStringDefinition InstanceID="0xFD65CBD1" TextString="Chủ nhà xấu hổ" />
+    <TextStringDefinition InstanceID="0xDC859B2E" TextString="Nhớ bữa tiệc tồi tệ mà {0.SimFirstName} đã tổ chức không? Ừ, giá như {F0.she}{M0.he} có thể quên đi..." />
+    <TextStringDefinition InstanceID="0x64079B83" TextString="Vẫn còn khó xử" />
+    <TextStringDefinition InstanceID="0x49E77ACC" TextString="Cuộc hẹn đó khó xử đến tột độ và khó quên ngay cả bây giờ." />
+    <TextStringDefinition InstanceID="0x629868C0" TextString="Cảm thấy tội lỗi" />
+    <TextStringDefinition InstanceID="0xAA288BC5" TextString="Lỗi của {0.SimFirstName} đã khiến mọi chuyện thành ra như vậy, hoặc ít nhất là cảm giác như vậy." />
+    <TextStringDefinition InstanceID="0x95188DBF" TextString="Giấc mơ đám cưới bị phá hủy" />
+    <TextStringDefinition InstanceID="0x4D9F2390" TextString="{0.SimFirstName} không thể quên sự nhục nhã khi thấy đám cưới của {F0.her}{M0.his} tan vỡ bởi vì Sim mà {F0.she}{M0.he} sẵn sàng kết hôn không sẵn sàng kết hôn với {0.SimPronounObjective}." />
+    <TextStringDefinition InstanceID="0x9715165A" TextString="Một Sim muốn tỏ ra điềm tĩnh đôi khi lại cảm thấy khó xử khi ở gần người mình thích." />
+    <TextStringDefinition InstanceID="0x465D931E" TextString="Bị mê hoặc" />
+    <TextStringDefinition InstanceID="0xDC4E45E7" TextString="Cảm xúc lãng mạn đôi khi có thể khiến một Sim say sưa, như thể bị thần chú." />
+    <TextStringDefinition InstanceID="0x6475A862" TextString="Cùng chia sẻ nỗi buồn" />
+    <TextStringDefinition InstanceID="0x93CC5533" TextString="Thấy người mà {0.SimFirstName} trân trọng đang đau khổ khiến {M0.him}{F0.her} buồn..." />
+    <TextStringDefinition InstanceID="0xF4B77E26" TextString="Cùng tần số" />
+    <TextStringDefinition InstanceID="0xAC1BD6FF" TextString="Khi {0.SimFirstName} cảm thấy gần gũi với ai đó, {M0.his}{F0.her} có thể an toàn để khoe mặt hài hước của mình! Đã đến lúc mang lại những trò đùa bên trong và những câu chuyện vui từ quá khứ." />
+    <TextStringDefinition InstanceID="0x8253C2A5" TextString="Cảm thấy một kết nối gần gũi" />
+    <TextStringDefinition InstanceID="0x545771FA" TextString="Thật tuyệt khi dành thời gian với người mà {0.SimFirstName} cảm thấy có kết nối sâu sắc!" />
+    <TextStringDefinition InstanceID="0xD9614A50" TextString="Cùng chia sẻ niềm vui" />
+    <TextStringDefinition InstanceID="0x57FCADB5" TextString="Thấy người mà {0.SimFirstName} trân trọng đang hạnh phúc cũng mang lại một chút niềm vui cho {0.SimFirstName}." />
+    <TextStringDefinition InstanceID="0x6F42DF3D" TextString="Một kết nối đặc biệt" />
+    <TextStringDefinition InstanceID="0xE6A99442" TextString="Cảm thấy gần gũi với một Sim có thể làm sâu sắc thêm cảm xúc lãng mạn hiện có và khiến {0.SimFirstName} muốn gần nhau hơn nữa..." />
+    <TextStringDefinition InstanceID="0x5D741805" TextString="Độc hận tích tụ" />
+    <TextStringDefinition InstanceID="0xEDEAC2DA" TextString="{0.SimFirstName} thực sự không thể chịu đựng việc ở gần một Sim mà {0.SimPronounSubjective} có ác cảm." />
+    <TextStringDefinition InstanceID="0x74B61F8C" TextString="Sắc thái của sự vui mừng khi thấy người khác gặp rủi ro" />
+    <TextStringDefinition InstanceID="0xB52D33A9" TextString="Có thể hơi thỏa mãn khi thấy ai đó đau khổ... tùy thuộc vào người đó." />
+    <TextStringDefinition InstanceID="0x4647715E" TextString="Cơn giận âm ỉ" />
+    <TextStringDefinition InstanceID="0x084D7527" TextString="{0.SimFirstName} vẫn cảm thấy một sự phẫn nộ âm thầm bên dưới bề mặt từ những hận thù chưa được quên." />
+    <TextStringDefinition InstanceID="0x8754AB61" TextString="Bị bỏ rơi ở bàn thờ" />
+    <TextStringDefinition InstanceID="0x1C8FD05E" TextString="Tức giận vì bị bỏ rơi ở bàn thờ!" />
+    <TextStringDefinition InstanceID="0x2518F698" TextString="Đám cưới buồn" />
+    <TextStringDefinition InstanceID="0x85F5D34D" TextString="Đó là một đám cưới buồn, một đám cưới rất buồn." />
+    <TextStringDefinition InstanceID="0xDD856CFD" TextString="Kẻ phá đám cưới" />
+    <TextStringDefinition InstanceID="0x21E42F02" TextString="Quy tắc #76: Không có lý do. Chơi như một nhà vô địch!" />
+    <TextStringDefinition InstanceID="0x78ED58E2" TextString="Nhân quả là một con chó cái" />
+    <TextStringDefinition InstanceID="0x431462B3" TextString="Nỗ lực của {0.SimFirstName} để phá hủy ngày đặc biệt của người khác, lại kết thúc bằng việc phá hủy ngày của {M0.his}{F0.her}..." />
+    <TextStringDefinition InstanceID="0xC1B64C40" TextString="Tránh được viên đạn" />
+    <TextStringDefinition InstanceID="0x33B89A45" TextString="Vừa may tránh được một mối quan hệ rất nghiêm túc." />
+    <TextStringDefinition InstanceID="0x589710C4" TextString="Người làm hài lòng đám đông" />
+    <TextStringDefinition InstanceID="0xAA671BF1" TextString="Bạn đang làm cho đám cưới này tuyệt vời ngay lúc này!" />
+    <TextStringDefinition InstanceID="0x7F7E99AD" TextString="Lễ cưới khó xử" />

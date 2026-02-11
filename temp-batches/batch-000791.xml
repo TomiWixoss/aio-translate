@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xF7008001" TextString="Nói đồng ý!" />
+    <TextStringDefinition InstanceID="0x23F58805" TextString="Đừng làm vậy!" />
+    <TextStringDefinition InstanceID="0x711387D9" TextString="Vậy tôi tìm thấy một chiếc nhẫn trong túi của {2.SimFirstName}. Tôi nghĩ {M2.he}{F2.she} sắp cầu hôn tôi. Tôi không biết phải làm sao! Tôi nên nói gì!? Đồng ý!? Từ chối!? Trời ơi!?" />
+    <TextStringDefinition InstanceID="0xD7AA2F69" TextString="Bạn nên tự quyết định cho chính mình." />
+    <TextStringDefinition InstanceID="0x6217C1ED" TextString="Ôi trời... ừm, trời ơi... ừ... Đồng ý! Làm đi" />
+    <TextStringDefinition InstanceID="0xD7200243" TextString="Nếu bạn cần phải hỏi tôi, thì trái tim bạn không thực sự dành cho nó!" />
+    <TextStringDefinition InstanceID="0x6EBBFF34" TextString="Sau khi suy nghĩ kỹ hơn, tôi nhận ra việc thay đổi nghề nghiệp không phải là lựa chọn dành cho tôi. Tuy nhiên, tôi rất trân trọng sự quan tâm của bạn, cảm ơn {0.SimFirstName}!" />
+    <TextStringDefinition InstanceID="0xD0E1A94A" TextString="Này {0.SimFirstName}. Dù cuộc trò chuyện gần đây của chúng ta rất truyền cảm hứng, tôi không nghĩ bây giờ là thời điểm tốt để tôi chuyển nghề." />
+    <TextStringDefinition InstanceID="0x7D4BA0DF" TextString="{0.SimFirstName}! Tôi muốn cho bạn biết tôi đã tìm kiếm một công việc mới, nhưng chưa tìm thấy điều gì thú vị. Có vẻ như tôi sẽ tiếp tục với công việc này trong lúc này." />
+    <TextStringDefinition InstanceID="0x57F0DED7" TextString="{0.SimFirstName}! Tôi rất vui vì bạn đã trả lời và tôi có tin tức thú vị để chia sẻ. Tôi đã chuyển nghề rồi!" />
+    <TextStringDefinition InstanceID="0x8EB8A819" TextString="Này {0.SimFirstName}, tôi đã suy nghĩ về cuộc trò chuyện của chúng ta vài ngày trước và quyết định theo đuổi nó. Tôi đã thay đổi nghề nghiệp rồi!" />
+    <TextStringDefinition InstanceID="0x61E71B8F" TextString="Tôi đã suy nghĩ về lời khuyên của bạn {0.SimFirstName}, và bạn nói đúng! Tôi nên làm điều khiến tôi hạnh phúc nên tôi đã chuyển nghề." />
+    <TextStringDefinition InstanceID="0x857965C7" TextString="Không, tôi không nghĩ bạn phù hợp với nó." />
+    <TextStringDefinition InstanceID="0x3C49EFF4" TextString="Có, bạn nên hoàn toàn theo đuổi nó!" />
+    <TextStringDefinition InstanceID="0xA25315CB" TextString="Làm đi! Hướng tới những vì sao!" />
+    <TextStringDefinition InstanceID="0x6DBF38F0" TextString="Điều đó có nghĩa là công việc nhiều hơn, đừng làm!" />
+    <TextStringDefinition InstanceID="0xD8063DE3" TextString="Đó là quyết định của bạn." />
+    <TextStringDefinition InstanceID="0x1DA83E42" TextString="Nhiều tiền và danh tiếng hơn, nhưng cũng nhiều công việc và trách nhiệm hơn. Tôi nên thử xin thăng chức không?" />
+    <TextStringDefinition InstanceID="0x71CF2030" TextString="Tôi nghe sếp tôi nói tôi sẽ là ứng viên tốt cho một vị trí thăng chức. Bạn nghĩ tôi có thể làm được không?" />
+    <TextStringDefinition InstanceID="0x4C74BFDF" TextString="Có tin đồn ở nơi làm việc của tôi rằng ai đó sẽ được thăng chức! Tôi nên thử gây ấn tượng với sếp để lấy được nó không?" />
+    <TextStringDefinition InstanceID="0x53C7763F" TextString="Một công việc mới? Tuyệt vời, hãy theo đuổi nó!" />
+    <TextStringDefinition InstanceID="0x10A803FC" TextString="Tôi không nghĩ bạn nên làm vậy." />
+    <TextStringDefinition InstanceID="0x44350377" TextString="Ừ, tôi nghĩ bạn nên thử một nghề nghiệp mới!" />
+    <TextStringDefinition InstanceID="0xF699C037" TextString="Bạn nên theo trái tim mình." />
+    <TextStringDefinition InstanceID="0x5583D942" TextString="Một công việc? Quá nhiều việc rồi... Đừng làm!" />
+    <TextStringDefinition InstanceID="0x79CAAE71" TextString="{0.SimFirstName}! Tôi cần thử thách bản thân! Một công việc mới có thể là giải pháp, bạn nghĩ sao?" />
+    <TextStringDefinition InstanceID="0xAA556E26" TextString="Này {0.SimFirstName}! Tôi cảm thấy muốn thử điều gì đó mới và thú vị... thứ gì đó như thay đổi nghề nghiệp! Bạn nghĩ sao?" />
+    <TextStringDefinition InstanceID="0x62A2F8AA" TextString="Này {0.SimFirstName}! Tôi đã suy nghĩ về việc tìm một công việc mới, bạn nghĩ sao?" />
+    <TextStringDefinition InstanceID="0xE37DF79B" TextString="Buổi thử vai của {0.SimFirstName} bắt đầu trong một giờ." />
+    <TextStringDefinition InstanceID="0x881E311A" TextString="Cùng với" />
+    <TextStringDefinition InstanceID="0xEBD3714A" TextString="{0.SimFirstName} chơi trò chơi Peek-A-Boo đầu tiên của {0.SimPronounPossessiveDependent} với {1.SimFirstName}... và bạn có tin được không, {0.SimFirstName} đã thắng!" />
+    <TextStringDefinition InstanceID="0xEE60FAFE" TextString="Học được trò Peek-A-Boo" />
+    <TextStringDefinition InstanceID="0x7DD3D5B1" TextString="Đôi mắt lấp lánh vui sướng, {0.SimFirstName} cười vì một điều gì đó vui vẻ!" />
+    <TextStringDefinition InstanceID="0x4541679B" TextString="Học được cách cười" />
+    <TextStringDefinition InstanceID="0xE01B0327" TextString="Sau khi học được cách ư ử, việc giao tiếp xã hội thêm với {0.SimFirstName} sẽ giúp {0.SimPronounObjective} mở ra một thế giới tiếng cười!" />
+    <TextStringDefinition InstanceID="0x02E29B9E" TextString="Nói từ đầu tiên" />
+    <TextStringDefinition InstanceID="0xF88F984B" TextString="{0.SimFirstName} bắt đầu phát ra những âm thanh ư ử dễ thương nhất!" />
+    <TextStringDefinition InstanceID="0x0C4E2AB1" TextString="Học được cách ư ử" />
+    <TextStringDefinition InstanceID="0x4FC4F4C9" TextString="Việc giao tiếp xã hội với {0.SimFirstName} sẽ giúp {0.SimPronounObjective} học những bước đầu tiên trong việc giao tiếp với người khác." />
+    <TextStringDefinition InstanceID="0x85EE0B2C" TextString="Với một tiếng rít nhỏ xinh đẹp, {0.SimFirstName} cố gắng giao tiếp bằng cách thổi một tiếng " />
+    <TextStringDefinition InstanceID="0x62973786" TextString="Học được cách thổi phụt" />
+    <TextStringDefinition InstanceID="0x31ECA778" TextString="Ôi, {0.SimFirstName} thể hiện {0.SimPronounPossessiveDependent} tình yêu bằng cách thổi những nụ hôn!" />
+    <TextStringDefinition InstanceID="0x745EA1A2" TextString="Học được cách thổi hôn" />
+    <TextStringDefinition InstanceID="0x89698FE4" TextString="{0.SimFirstName} học được cách vui vẻ ba hoa chuyện với thế giới xung quanh {0.SimPronounObjective}. Từ đầu tiên của {0.SimPronounPossessiveDependent} sẽ là gì...?" />
+    <TextStringDefinition InstanceID="0xBA3E9E4E" TextString="Học được cách ba hoa" />
+    <TextStringDefinition InstanceID="0x22B6DB5C" TextString="Sau khi học được cách cười, việc giao tiếp xã hội tiếp tục với {0.SimFirstName} cuối cùng sẽ dẫn đến việc {0.SimPronounObjective} ba hoa để phản hồi." />
+    <TextStringDefinition InstanceID="0x14B66073" TextString="Sau khi học cách tự ngồi dậy, {0.SimFirstName} chỉ còn cách một cú lết mông khó khăn để đặt {0.SimPronounPossessiveDependent} bàn tay nhỏ bẩn thỉu lên các vật thể gần đó." />
+    <TextStringDefinition InstanceID="0x2B114769" TextString="Học được cách ngồi dậy" />
+    <TextStringDefinition InstanceID="0x6C2ED211" TextString="Trẻ sơ sinh đã học cách lăn người sang lưng sẽ sẵn sàng phát triển khả năng tự ngồi dậy. &lt;b&gt;Thực hành Ngồi&lt;/b&gt; với {0.SimFirstName} để giúp {0.SimPronounObjective} tiến triển." />
+    <TextStringDefinition InstanceID="0x6ABD2DC0" TextString="{0.SimFirstName} đã làm chủ khả năng lăn từ {0.SimPronounPossessiveDependent} lưng xuống bụng và ngược lại! Đây là bước quan trọng để giúp {0.SimPronounObjective} định vị {0.SimPronounReflexive} trong {0.SimPronounPossessiveDependent} thế giới." />

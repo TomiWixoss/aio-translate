@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x32CED1ED" TextString="Cho ăn" />
+    <TextStringDefinition InstanceID="0x3A1429AE" TextString="Ăn bánh" />
+    <TextStringDefinition InstanceID="0xE7BD326D" TextString="Tìm ếch" />
+    <TextStringDefinition InstanceID="0x995C0F0A" TextString="Bắt đầu thử thách 'Cho bản thân ăn'" />
+    <TextStringDefinition InstanceID="0x7FE506BA" TextString="Bắt đầu thử thách 'Xây dựng hình ảnh'" />
+    <TextStringDefinition InstanceID="0x85FF94AC" TextString="Bắt đầu thử thách 'Hữu ích'" />
+    <TextStringDefinition InstanceID="0xFD9C0861" TextString="Bắt đầu thử thách 'Gây khó chịu'" />
+    <TextStringDefinition InstanceID="0xFB98C4C8" TextString="Bắt đầu thử thách 'Trở thành nghệ sĩ giải trí'" />
+    <TextStringDefinition InstanceID="0x5328DE0F" TextString="Danh sách thử thách Khoảnh khắc Định hình đã đầy." />
+    <TextStringDefinition InstanceID="0x599DDC47" TextString="Đây là thử thách Khoảnh khắc Định hình. Xem Bảng Khao khát để biết thêm." />
+    <TextStringDefinition InstanceID="0x80C7E66D" TextString="Chờ Người mang tin" />
+    <TextStringDefinition InstanceID="0x4471E3D5" TextString="Người hâm mộ hào hứng" />
+    <TextStringDefinition InstanceID="0xDB08D26D" TextString="Một người hâm mộ nhận ra {0.SimFirstName} ở siêu thị và chào hỏi... rồi yêu cầu chữ ký, chụp ảnh, và bắt đầu thảo luận sâu về cuốn sách bán chạy nhất mới nhất của {M0.him}{F0.her}. {0.SimFirstName} cảm thấy thích thú, nhưng {M0.he}{F0.she} thực sự chỉ muốn mua đồ ăn và rời đi. {M0.He}{F0.She} có thể hoặc là thân thiện với người hâm mộ hào hứng, hoặc là rút lui nhanh chóng." />
+    <TextStringDefinition InstanceID="0xACD07299" TextString="Tin tức nóng" />
+    <TextStringDefinition InstanceID="0x1722E701" TextString="Sếp của {0.SimFirstName} yêu cầu {0.SimPronounObjective} bỏ mọi việc và theo dõi một tin tức nóng có thể xảy ra... nhưng họ thực sự rất bận. {M0.He}{F0.She} có nên tập trung như {0.SimFirstName} được mong đợi, hoặc chỉ tiếp tục ngày của {M0.him}{F0.her} và hy vọng {M0.he}{F0.she} sẽ bắt được nó khi nó xảy ra?" />
+    <TextStringDefinition InstanceID="0x1AFFD830" TextString="Tin tức nhàm chán" />
+    <TextStringDefinition InstanceID="0x9F918878" TextString="{0.SimFirstName} THẬT NHÀM CHÁN khi đưa tin địa phương. Các độc giả có nhàm chán như {M0.he}{F0.she} không? {0.SimFirstName} có thể hoặc là bắt đầu thêm chi tiết giật gân để làm cho những thứ này có vẻ hấp dẫn hơn, hoặc là giữ nguyên bản tin chỉ trình bày sự thật." />
+    <TextStringDefinition InstanceID="0xD98CF617" TextString="Sơ yếu lý lịch không ấn tượng" />
+    <TextStringDefinition InstanceID="0x247DBB2F" TextString="Sơ yếu lý lịch của {M0.him}{F0.her} chưa thực sự ấn tượng, nhưng {0.SimFirstName} muốn sự nghiệp của {M0.him}{F0.her} tiến nhanh hơn một chút. {M0.He}{F0.She} có nên thành thật về việc không có nhiều kinh nghiệm, hoặc là làm nổi bật sơ yếu lý lịch của {M0.him}{F0.her} với một số điều không hoàn toàn đúng 100% về mặt kỹ thuật?" />
+    <TextStringDefinition InstanceID="0x0D7639F2" TextString="Thanh toán trễ" />
+    <TextStringDefinition InstanceID="0xA8E3B6FA" TextString="{0.SimFirstName} đã phát hiện ra phần khó khăn nhất của việc làm tự do - được trả lương đúng hạn. {M0.He}{F0.She} có thể hoặc là liên tục đòi tiền từ công ty, hoặc là bỏ qua và không lãng phí thêm thời gian có thể dùng để làm việc." />
+    <TextStringDefinition InstanceID="0x4F8CF957" TextString="Lỗi chính tả" />
+    <TextStringDefinition InstanceID="0x41F1CFEF" TextString="Trong cấp bách để hoàn thành deadline, {0.SimFirstName} vô tình mắc một lỗi chính tả ngớ ngẩn, và bây giờ nó đã được in ra. {M0.He}{F0.She} có nên thừa nhận lỗi của {M0.him}{F0.her}, hoặc là đổ lỗi cho người đọc bài?" />
+    <TextStringDefinition InstanceID="0x780D8F67" TextString="Thư điên" />
+    <TextStringDefinition InstanceID="0xC27CC37F" TextString="Thư điên này chắc chắn là một trò đùa... phải không? {0.SimFirstName} khá chắc chắn rằng {M0.he}{F0.she} đang bị một người đùa trên internet chơi khăm, nhưng không có cách nào biết chắc chắn. Nếu {M0.he}{F0.she} xuất bản thư, nó sẽ là cột bài nổi tiếng nhất của {M0.him}{F0.her} từ trước đến nay - hoặc {M0.he}{F0.she} có thể bỏ qua để an toàn." />
+    <TextStringDefinition InstanceID="0x2C1B998A" TextString="Đổ lỗi cho người khác" />
+    <TextStringDefinition InstanceID="0x6E947809" TextString="Báo cáo lỗi" />
+    <TextStringDefinition InstanceID="0xFE52089A" TextString="Thật cao thượng! {0.SimFirstName} báo động cho đối thủ, và các nhà phát triển có thể cung cấp một bản dựng không có lỗ hổng khai thác. Hóa ra đối thủ của {M0.him}{F0.her} đã âm thầm dựa vào lỗ hổng đó để thắng, và không có nó {0.SimFirstName} thắng dễ dàng." />
+    <TextStringDefinition InstanceID="0xE36F0CED" TextString="{0.SimFirstName} ném công việc cho đồng nghiệp của {M0.him}{F0.her} như một củ khoai nóng. Ý tưởng tốt đẹp cho đến khi sếp của {M0.him}{F0.her} phát hiện. Sau một bài nói dài về thử thách, cơ hội và tư duy QA, {0.SimFirstName} được gửi trở lại buổi định hướng." />
+    <TextStringDefinition InstanceID="0x1A2371F9" TextString="Đúng như {0.SimFirstName} nghĩ, Đồng nghiệp của {M0.him}{F0.her} rất vui mừng với cơ hội thể hiện khả năng diệt lỗi của mình, dành hàng giờ để liệt kê chi tiết cuối cùng của mỗi lỗi. Thắng cho anh ta, và thắng cho {0.SimFirstName}, người thà làm điều khác." />
+    <TextStringDefinition InstanceID="0x585E93F8" TextString="Đối mặt với thằng chơi bẩn" />
+    <TextStringDefinition InstanceID="0x8D8EE539" TextString="Xịt không khí" />
+    <TextStringDefinition InstanceID="0x4DCFCDC3" TextString="Bước lên" />
+    <TextStringDefinition InstanceID="0x20C5FF43" TextString="Gói lại" />
+    <TextStringDefinition InstanceID="0x76769E7A" TextString="Trình bày ở nơi khác" />
+    <TextStringDefinition InstanceID="0x80980307" TextString="Giữ nguyên ý tưởng ban đầu" />
+    <TextStringDefinition InstanceID="0xA9818311" TextString="Tắt tiếng" />
+    <TextStringDefinition InstanceID="0x45B251BF" TextString="Khởi động" />
+    <TextStringDefinition InstanceID="0x1CB36B49" TextString="Bán cái bàn" />
+    <TextStringDefinition InstanceID="0x3719ADBF" TextString="Đặt ra luật lệ" />
+    <TextStringDefinition InstanceID="0x14663F05" TextString="Thành công! {0.SimFirstName} hoàn toàn đánh bại đối thủ của {M0.him}{F0.her}, khiến đám đông ngạc nhiên. Studio gần như chắc chắn sẽ loại bỏ lỗ hổng khai thác bây giờ, nhưng mọi người đều xem việc sử dụng của {0.SimFirstName} là chiến lược. Họ bắt đầu gọi nó là &quot;Chiêu bài của {0.SimFirstName}.&quot;" />
+    <TextStringDefinition InstanceID="0x6328BAC1" TextString="Ôi! Không mất bao lâu để đám đông phát hiện ra việc {0.SimFirstName} sử dụng lỗ hổng khai thác, và họ không thích điều đó. Các quan chức thực sự dừng trò chơi vì hành vi không thể chấp nhận được, và cấm 'sploit'. Không có mẹo kỳ quặc duy nhất của {M0.him}{F0.her}, {0.SimFirstName} dễ dàng bị đối thủ của {M0.him}{F0.her} đánh bại, khiến đám đông rất vui." />
+    <TextStringDefinition InstanceID="0xA1723E66" TextString="Tham gia với Nhà đầu tư" />
+    <TextStringDefinition InstanceID="0x4F1E4B47" TextString="Tiếp tục thuyết trình" />
+    <TextStringDefinition InstanceID="0x4383CEBD" TextString="{0.SimFirstName} đã được mời phát biểu trên một bảng thảo luận tại một sự kiện ngành địa phương. Nhưng khi người điều phối giới thiệu {0.SimPronounObjective}, cô ấy làm sai tên của {0.SimFirstName} và tên của công ty cũ của {M0.him}{F0.her}. {0.SimFirstName} có thể hoặc là sửa chữa cho cô ấy, hoặc là bỏ qua." />
+    <TextStringDefinition InstanceID="0x0744190E" TextString="{0.SimFirstName} thấy rằng khách hàng tiếp theo trong hàng đợi chat là một người yêu cũ của {M0.him}{F0.hers}, và mọi thứ đã không kết thúc đẹp đẽ. Các đại lý khác đang bận. {M0.He}{F0.She} có nên phản hồi yêu cầu chat hoặc giả vờ không để ý?" />
+    <TextStringDefinition InstanceID="0xE5412D9A" TextString="Giám đốc tài chính tại công ty của {0.SimFirstName} đang bị cuốn vào một vụ scandal WooHoo lớn và công khai, và các phóng viên buộc tội ông ta sử dụng quỹ công ty để trả cho các dịch vụ không phù hợp. {0.SimFirstName} có thể cố gắng xoa dịu tình hình bằng cách phớt lờ các cáo buộc, hoặc đồng ý điều tra hồ sơ của đồng nghiệp {M0.him}{F0.her}." />
+    <TextStringDefinition InstanceID="0x6A46110D" TextString="Báo cáo lỗi" />
+    <TextStringDefinition InstanceID="0x75D26CB9" TextString="{0.SimFirstName} vừa phát hiện một phần phần mềm đầy lỗi. {M0.He}{F0.She} có thể kiên trì và báo cáo tất cả chúng bằng chính {M0.himself}{F0.herself}, hoặc thuyết phục Đồng nghiệp nhiệt tình của {M0.him}{F0.her} làm điều đó." />
+    <TextStringDefinition InstanceID="0x1B033580" TextString="Một đồng nghiệp đang ở giờ thứ 17, nước tăng lực thứ 24, và bắt đầu có mùi trong hố QA. Vì không ai về nhà sớm, {0.SimFirstName} có thể xử lý theo hai cách: lấy ra {M0.xịt cơ thể cho nam}{F0.xịt thơm hoa oải hương} hoặc bảo Thằng chơi bẩn bên cạnh {M0.him}{F0.her} đi rửa người." />

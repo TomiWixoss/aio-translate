@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x7F638033" TextString="Tệ!" />
+    <TextStringDefinition InstanceID="0x8A986D34" TextString="Trò chuyện" />
+    <TextStringDefinition InstanceID="0xD41EB135" TextString="{1.SimFirstName} đang đi làm!" />
+    <TextStringDefinition InstanceID="0x5ED63277" TextString="Đã quá muộn để bắt trộm!" />
+    <TextStringDefinition InstanceID="0xA139A5F9" TextString="Trộm đã bị bắt!" />
+    <TextStringDefinition InstanceID="0x14404309" TextString="(Từ trượt xuống thang)" />
+    <TextStringDefinition InstanceID="0xDD6AD6E6" TextString="Trượt xuống" />
+    <TextStringDefinition InstanceID="0xCD5F4465" TextString="Leo lên" />
+    <TextStringDefinition InstanceID="0xCE679C9E" TextString="Leo xuống" />
+    <TextStringDefinition InstanceID="0x7B5E87E9" TextString="Không thể mang các Sim khác đến khuôn viên sự nghiệp." />
+    <TextStringDefinition InstanceID="0x42C77524" TextString="Mang {0.SimName} đến đây" />
+    <TextStringDefinition InstanceID="0xF2CC480E" TextString="Hối lộ người thu hồi để họ rời đi" />
+    <TextStringDefinition InstanceID="0x26606C4A" TextString="Chờ trà pha" />
+    <TextStringDefinition InstanceID="0xC6A1DE7F" TextString="Chờ trà pha" />
+    <TextStringDefinition InstanceID="0xA90D018C" TextString="Chờ cà phê pha" />
+    <TextStringDefinition InstanceID="0xCFA19EDA" TextString="Tìm kiếm" />
+    <TextStringDefinition InstanceID="0x0C51DFC3" TextString="{0.SimFirstName} chỉ có thể thực hiện tương tác này một lần mỗi ngày." />
+    <TextStringDefinition InstanceID="0x3E8C6B36" TextString="Nhận phần thưởng" />
+    <TextStringDefinition InstanceID="0x34244796" TextString="Yêu cầu đọc sách cho trẻ nhỏ" />
+    <TextStringDefinition InstanceID="0xCE8FD9E1" TextString="Được đọc bởi" />
+    <TextStringDefinition InstanceID="0xC6BAD5EA" TextString="Đọc cho trẻ em" />
+    <TextStringDefinition InstanceID="0x4EE4F0CA" TextString="Không có sách nào để đọc trên kệ." />
+    <TextStringDefinition InstanceID="0x59EB9C25" TextString="Đọc thứ gì đó" />
+    <TextStringDefinition InstanceID="0xD1B85AB2" TextString="Không có sách cho trẻ nhỏ để đọc. Hãy mua một số thông qua Mua sách cho trẻ nhỏ." />
+    <TextStringDefinition InstanceID="0x03A8197B" TextString="Đọc" />
+    <TextStringDefinition InstanceID="0x2CBC6E56" TextString="Đọc Điện tử lý thuyết" />
+    <TextStringDefinition InstanceID="0xE7A3738A" TextString="Đang đọc Điện tử lý thuyết" />
+    <TextStringDefinition InstanceID="0x22DBB556" TextString="Đọc &quot;Lịch sử du hành thời gian&quot;" />
+    <TextStringDefinition InstanceID="0x0D1B788A" TextString="Đang đọc 'Lịch sử du hành thời gian'" />
+    <TextStringDefinition InstanceID="0x4DA2A968" TextString="Đọc 'Ống kính ảnh ma thuật'" />
+    <TextStringDefinition InstanceID="0x3B1A8E48" TextString="Đang đọc 'Ống kính ảnh ma thuật'" />
+    <TextStringDefinition InstanceID="0x993774FD" TextString="Dọn dẹp sách" />
+    <TextStringDefinition InstanceID="0x009B0FF4" TextString="Duyệt sách" />
+    <TextStringDefinition InstanceID="0x155EC192" TextString="Duyệt sách" />
+    <TextStringDefinition InstanceID="0x91DC6DB6" TextString="Yêu cầu Kỹ năng Trí tưởng tượng Cấp 2 " />
+    <TextStringDefinition InstanceID="0xDBCF577F" TextString="Nhìn vào sách" />
+    <TextStringDefinition InstanceID="0xC26B1484" TextString="Học tập" />
+    <TextStringDefinition InstanceID="0xB74EA994" TextString="Học sách là một cách tốt để Tập trung tâm trí!" />
+    <TextStringDefinition InstanceID="0x4206F868" TextString="Chuẩn bị đọc" />
+    <TextStringDefinition InstanceID="0x91B4B1FA" TextString="Nghe kể chuyện" />
+    <TextStringDefinition InstanceID="0xCD15434E" TextString="Mời nghe kể chuyện" />
+    <TextStringDefinition InstanceID="0x17462728" TextString="Tự xuất bản" />
+    <TextStringDefinition InstanceID="0x1A303FA0" TextString="Đọc để tham khảo" />
+    <TextStringDefinition InstanceID="0x95DFEE85" TextString="Đọc Giới thiệu sách" />
+    <TextStringDefinition InstanceID="0xABCC6B7A" TextString="Với Bộ sách của Quý cà xanh, bạn có thể nhanh chóng có được kỹ năng cần thiết để nấu Ambrosia! Cuốn sách này sẽ xây dựng kỹ năng Trồng trọt, Nấu ăn và Đầu bếp của bạn." />
+    <TextStringDefinition InstanceID="0x2C452826" TextString="Duyệt sách có thể là nguồn cảm hứng tuyệt vời!" />
+    <TextStringDefinition InstanceID="0x88785DE6" TextString="Đọc lại &quot;{1.ObjectName}&quot;" />
+    <TextStringDefinition InstanceID="0x7273BA60" TextString="Đọc" />
+    <TextStringDefinition InstanceID="0x5ED32881" TextString="{0.SimFirstName} đã ghi lại {1.SimName} vào Sách Sự sống." />
+    <TextStringDefinition InstanceID="0xC73FC9DB" TextString="{0.SimFirstName} đã hồi sinh {1.SimName}!" />

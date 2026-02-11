@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x19FCCEFC" TextString="Điểm Thưởng" />
+    <TextStringDefinition InstanceID="0x52D803F4" TextString="Bài tập Dễ" />
+    <TextStringDefinition InstanceID="0x606004B0" TextString="Bài tập Khó" />
+    <TextStringDefinition InstanceID="0xCA2FD32A" TextString="Người Ngủ Gây Mất Trí" />
+    <TextStringDefinition InstanceID="0x6F3794CC" TextString="Một học sinh phía sau lớp của {0.SimFirstName} bắt đầu ngáy nhỏ. Giáo viên dường như không nghe thấy nhưng nó đang gây mất tập trung. {0.SimFirstName} nên cố gắng bỏ qua hơn, hay {M0.he}{F0.she} nên nói với giáo viên?" />
+    <TextStringDefinition InstanceID="0xCE5D7622" TextString="Giáo viên Căng thẳng" />
+    <TextStringDefinition InstanceID="0x1E6AA064" TextString="Giáo viên phải chạy ra lấy thuốc, nên anh ấy yêu cầu lớp ngồi yên và làm bài đọc trong khi anh ấy đi. {0.SimFirstName} nên làm vậy, hay thử làm bài tập khác trong khi {M0.he}{F0.she} có cơ hội?" />
+    <TextStringDefinition InstanceID="0x59F8A9E4" TextString="Bữa trưa Quên" />
+    <TextStringDefinition InstanceID="0x792B132A" TextString="{0.SimFirstName} quên bữa trưa hôm nay. {M0.He’s}{F0.She’s} đang đi lang thang giữa các giờ học, nên {M0.he}{F0.she} có thể dễ dàng lấy cắp của người khác trong tủ đồ. Nên lấy cắp, hay chỉ đói bụng?" />
+    <TextStringDefinition InstanceID="0x331B04FC" TextString="Ôi! Khách hàng nhận ra sự tương đồng giữa các jingle, và mọi người khác cũng vậy. {0.SimFirstName} cố gắng giả vờ đó là một bản chế giễu có chủ đích, nhưng điều đó chỉ làm mọi thứ tệ hơn. May mắn thay, công ty xịt thơm đồng ý rút đơn kiện một khi jingle của {M0.his}{F0.her} bị ngừng phát." />
+    <TextStringDefinition InstanceID="0x3C70F387" TextString="Mọi người đã thích phần biểu diễn của {0.SimFirstName}, nhưng một vài giám khảo kiên quyết rằng màn trình diễn kinh tởm là tất cả của hài kịch. Cuối cùng họ chỉ tung đồng xu để xác định người thắng, nhưng {0.SimFirstName} thắng cuộc tung đồng xu!" />
+    <TextStringDefinition InstanceID="0x11BF98CC" TextString="May mắn thay, đàn piano được che khuất bởi hai cây dương xỉ trang nhã và một cầu thang uốn lượn thanh lịch. Bất chấp khó khăn trong việc thở và cơn đau liên tục ở {M0. his gut}{F0.her ribs}, {0.SimFirstName} chơi khá tốt và hoàn toàn không bị chú ý." />
+    <TextStringDefinition InstanceID="0xCF7E42B2" TextString="{0.SimFirstName} nên biết rằng thế giới chưa sẵn sàng cho một bông súp lơ kiêu ngạo. {M0.He}{F0.She} nhanh chóng bị thay thế bởi một loại rau ôn hòa hơn, người biết {M0.his}{F0.her} vị trí trong chuỗi thức ăn." />
+    <TextStringDefinition InstanceID="0x50DD1F2D" TextString="Ồ không. Anh chàng hài hước chưa xong. May mắn thay {0.SimFirstName} đã có khán giả trong túi {M0.his}{F0.her}! Sau một lần thử nữa, kẻ phá rối rời đi và {0.SimFirstName} thống trị micro." />
+    <TextStringDefinition InstanceID="0xC736F554" TextString="Làm Phiền Đứa Trẻ" />
+    <TextStringDefinition InstanceID="0x95CC8891" TextString="Xiên" />
+    <TextStringDefinition InstanceID="0x803F42AE" TextString="Tiếp tục" />
+    <TextStringDefinition InstanceID="0xFDBBCA85" TextString="Nghỉ Giải lao" />
+    <TextStringDefinition InstanceID="0xDD2CB88A" TextString="Hoãn Bài học" />
+    <TextStringDefinition InstanceID="0x151BAC57" TextString="Tính Phí Sửa chữa" />
+    <TextStringDefinition InstanceID="0x3717F947" TextString="Trang phục Thiếu" />
+    <TextStringDefinition InstanceID="0xEE3D6520" TextString="Mượn Đồ" />
+    <TextStringDefinition InstanceID="0x575CFD03" TextString="Tức thời" />
+    <TextStringDefinition InstanceID="0x0A4776F1" TextString="Dừng lại" />
+    <TextStringDefinition InstanceID="0xC4581CF4" TextString="Bám chặt" />
+    <TextStringDefinition InstanceID="0xC856637A" TextString="Đối mặt với Chủ" />
+    <TextStringDefinition InstanceID="0x55AD6DEB" TextString="Tắt nó" />
+    <TextStringDefinition InstanceID="0x7F5950A6" TextString="La hét vào Họ" />
+    <TextStringDefinition InstanceID="0x79649824" TextString="Bảo Anh ta Đi chỗ khác" />
+    <TextStringDefinition InstanceID="0x06F16AEF" TextString="Nhường Ghế" />
+    <TextStringDefinition InstanceID="0x9F0EAEDF" TextString="Hy vọng điều tốt đẹp" />
+    <TextStringDefinition InstanceID="0x0C832E3A" TextString="Báo động cho Khách hàng" />
+    <TextStringDefinition InstanceID="0x0C15F2C7" TextString="Tăng cường" />
+    <TextStringDefinition InstanceID="0x9AF5FF23" TextString="Tắt nó" />
+    <TextStringDefinition InstanceID="0x230C5A08" TextString="Biểu diễn cho Từ thiện" />
+    <TextStringDefinition InstanceID="0x4E119EEA" TextString="Biểu diễn cho Ngôi sao" />
+    <TextStringDefinition InstanceID="0x16360C92" TextString="Yêu cầu Thay đổi" />
+    <TextStringDefinition InstanceID="0x08F4E6A8" TextString="Không nói gì" />
+    <TextStringDefinition InstanceID="0x26E3BDFB" TextString="Tiệc Sinh nhật" />
+    <TextStringDefinition InstanceID="0xDC96D775" TextString="Không còn Điểm!" />
+    <TextStringDefinition InstanceID="0xB176800D" TextString="Phím Dính" />
+    <TextStringDefinition InstanceID="0xBC25AA00" TextString="Một Sự kiện Trai tây" />
+    <TextStringDefinition InstanceID="0xF29E1CEA" TextString="Trống rỗng trên Sân khấu" />
+    <TextStringDefinition InstanceID="0x1377B431" TextString="Một Phiếu lương Nhẹ" />
+    <TextStringDefinition InstanceID="0xCFAEA97C" TextString="Một Đám đông ồn ào" />
+    <TextStringDefinition InstanceID="0xB8C155DD" TextString="Cuộc thi Piano Bar" />
+    <TextStringDefinition InstanceID="0x5C0D5F23" TextString="Khó khăn về Jingle" />
+    <TextStringDefinition InstanceID="0x41A4F619" TextString="Một Sinh nhật Yên tĩnh" />
+    <TextStringDefinition InstanceID="0x0CD3807E" TextString="Đặt trước Hai lần" />
+    <TextStringDefinition InstanceID="0x0DF1758F" TextString="Giải thưởng Âm nhạc" />

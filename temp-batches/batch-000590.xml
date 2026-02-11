@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xF14D708D" TextString="Đồng bộ dọc:" />
+    <TextStringDefinition InstanceID="0x447D7574" TextString="Kết cấu Sim không nén:" />
+    <TextStringDefinition InstanceID="0x41A533E2" TextString="Sims:" />
+    <TextStringDefinition InstanceID="0x297DA5C2" TextString="{0.Number}x{1.Number}" />
+    <TextStringDefinition InstanceID="0xBB24AC88" TextString="Độ phân giải:" />
+    <TextStringDefinition InstanceID="0xD9DC4129" TextString="Tần số quét:" />
+    <TextStringDefinition InstanceID="0x056DF5D4" TextString="Phản chiếu:" />
+    <TextStringDefinition InstanceID="0x6A6C4EF5" TextString="Hiệu ứng hậu kỳ:" />
+    <TextStringDefinition InstanceID="0xD5E49549" TextString="Tắt" />
+    <TextStringDefinition InstanceID="0x84DFD57A" TextString="Đồ vật:" />
+    <TextStringDefinition InstanceID="0x0C7EEF67" TextString="Trung bình" />
+    <TextStringDefinition InstanceID="0xBCE6AC1C" TextString="Thấp" />
+    <TextStringDefinition InstanceID="0x8F05F709" TextString="Ánh sáng:" />
+    <TextStringDefinition InstanceID="0x02D78DD7" TextString="Chế độ Laptop:" />
+    <TextStringDefinition InstanceID="0x0D8E82FA" TextString="Cao" />
+    <TextStringDefinition InstanceID="0xCE249DD9" TextString="Đồ họa" />
+    <TextStringDefinition InstanceID="0x96F8B8D9" TextString="Toàn màn hình" />
+    <TextStringDefinition InstanceID="0xC9446718" TextString="DirectX 9" />
+    <TextStringDefinition InstanceID="0x132DEEA9" TextString="Làm mềm cạnh:" />
+    <TextStringDefinition InstanceID="0x89C6AD3C" TextString="Loại màn hình:" />
+    <TextStringDefinition InstanceID="0xC82B742F" TextString="Chuyển vào cho phép bạn kết hợp các hộ gia đình thành một hộ gia đình." />
+    <TextStringDefinition InstanceID="0x0AEA88E6" TextString="Hộ gia đình hiện tại có kịch bản đang hoạt động, hãy hoàn thành hoặc hủy kịch bản để kết hợp hộ gia đình" />
+    <TextStringDefinition InstanceID="0x3137D7AE" TextString="Hộ gia đình quá lớn để tham gia {0.String}." />
+    <TextStringDefinition InstanceID="0xAF224946" TextString="Các Sim bị buộc di chuyển sẽ bị xóa khỏi lô đất hiện tại. Bạn có thể tìm thấy họ trong menu Quản lý Hộ gia đình." />
+    <TextStringDefinition InstanceID="0xC75D6057" TextString="Bạn phải buộc di chuyển từ Manage Worlds." />
+    <TextStringDefinition InstanceID="0x90850C70" TextString="Tiền thuê hàng tuần: {0.Money}" />
+    <TextStringDefinition InstanceID="0xC0E76A67" TextString="Thay thế Lô đất" />
+    <TextStringDefinition InstanceID="0x6A20C752" TextString="Đang thay thế {0.String}" />
+    <TextStringDefinition InstanceID="0x920CA6F7" TextString="Tiền thuê hàng ngày: {0.Money}" />
+    <TextStringDefinition InstanceID="0xBBF7A084" TextString="{0.String} (Thư viện)" />
+    <TextStringDefinition InstanceID="0xD89FFD66" TextString="Loại địa điểm nào?" />
+    <TextStringDefinition InstanceID="0x076D55B7" TextString="{0.String} (Hiện tại)" />
+    <TextStringDefinition InstanceID="0xFCE8B1D0" TextString="Không nội thất" />
+    <TextStringDefinition InstanceID="0xDAE12A43" TextString="Lô {0.String}" />
+    <TextStringDefinition InstanceID="0x60667133" TextString="Đây có phải là ngôi nhà hoàn hảo?" />
+    <TextStringDefinition InstanceID="0x7CB5DD1B" TextString="Bán lô đất này?" />
+    <TextStringDefinition InstanceID="0x1A92B198" TextString="Lô đất Small Business Venue này hiện đang thuộc sở hữu của hộ gia đình {1.String}. Khi xác nhận, lô đất và nội dung của nó sẽ được bán, và {0.Money} sẽ được chuyển vào quỹ của hộ gia đình {1.String}.\n\nMọi Doanh nghiệp có mặt trên lô đất này sẽ bị đóng cửa và loại bỏ khỏi lô đất, nhưng chúng sẽ thuộc về các chủ Doanh nghiệp tương ứng." />
+    <TextStringDefinition InstanceID="0x2233AA37" TextString="Bán Nội thất" />
+    <TextStringDefinition InstanceID="0x24A76404" TextString="Thuê Căn hộ" />
+    <TextStringDefinition InstanceID="0x35238F1F" TextString="Quỹ còn lại: &lt;span class=&quot;funds&quot;&gt;{0.Money}&lt;/span&gt;" />
+    <TextStringDefinition InstanceID="0xF2AEC572" TextString="Bạn có muốn Tái sinh vào họ {0.String}?" />
+    <TextStringDefinition InstanceID="0x05550EEE" TextString="Tái sinh vào hộ gia đình này để gia nhập họ này." />
+    <TextStringDefinition InstanceID="0x81F0543C" TextString="Tái sinh" />
+    <TextStringDefinition InstanceID="0xBB40C57F" TextString="Mua Nhà" />
+    <TextStringDefinition InstanceID="0xEAF06638" TextString="Tùy chọn này không khả dụng cho lô đất hiện tại" />
+    <TextStringDefinition InstanceID="0x2FF3AFA8" TextString="Không khả dụng khi đang kết hợp" />
+    <TextStringDefinition InstanceID="0x4E815202" TextString="Lô đất này không có nội thất" />
+    <TextStringDefinition InstanceID="0xD49B0CB4" TextString="Chọn một tùy chọn:" />
+    <TextStringDefinition InstanceID="0xF4E2E311" TextString="Chuyển vào" />
+    <TextStringDefinition InstanceID="0x39745385" TextString="Bạn có muốn chuyển vào hoặc buộc di chuyển hộ gia đình {0.String}?" />

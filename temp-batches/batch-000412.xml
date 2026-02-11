@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x615622D6" TextString="Xua Đuổi Đom Đóm" />
+    <TextStringDefinition InstanceID="0x6F94611A" TextString="Cho Muỗi Vật Tụ Họp" />
+    <TextStringDefinition InstanceID="0x04700DB2" TextString="Xua Đuổi Rùa" />
+    <TextStringDefinition InstanceID="0x31AF0E4D" TextString="Xua Đuổi Ếch" />
+    <TextStringDefinition InstanceID="0xA7320806" TextString="Cho Rùa Tắm Nắng Trên Khúc Gỗ" />
+    <TextStringDefinition InstanceID="0xC8A2CC5D" TextString="Chơi Trong Nước" />
+    <TextStringDefinition InstanceID="0xCEBBDEEF" TextString="Ra Khỏi Nước Đóng Băng" />
+    <TextStringDefinition InstanceID="0x30B50A64" TextString="Nhà Thám Hiểm Không Gian" />
+    <TextStringDefinition InstanceID="0x38251448" TextString="Cuộc Phiêu Lưu Hải Tặc" />
+    <TextStringDefinition InstanceID="0x04D24E12" TextString="Nhà" />
+    <TextStringDefinition InstanceID="0x1833E975" TextString="Lâu Đài Cổ Tích" />
+    <TextStringDefinition InstanceID="0x5B091CBF" TextString="Người Trôi Dạt Trên Đảo Hoang" />
+    <TextStringDefinition InstanceID="0xC3BBE7D3" TextString="{1.ObjectDescription}" />
+    <TextStringDefinition InstanceID="0x172B0656" TextString="Yêu cầu có một chiếc bàn hoặc bàn làm việc có ghế được lắp vào để sử dụng." />
+    <TextStringDefinition InstanceID="0x5C6A5EED" TextString="Dự án giấy thủ công đang thực hiện đã được hủy bỏ thành công." />
+    <TextStringDefinition InstanceID="0x1055B803" TextString="{0.SimFirstName} đã có một buổi huấn luyện Lối Sống tuyệt vời! Huấn luyện viên Lối Sống đã xác định được những hành vi cụ thể dẫn đến sự phát triển của Lối Sống không mong muốn, từ đó giúp {0.SimFirstName} nhận ra cách để từ bỏ nó. Giờ đây {0.SimFirstName} đã tự do sống theo một cách mới!" />
+    <TextStringDefinition InstanceID="0xDC1F243D" TextString="Hoàn Thành Huấn Luyện Lối Sống" />
+    <TextStringDefinition InstanceID="0x7DD2CC16" TextString="Phản Ứng Với Món Quà" />
+    <TextStringDefinition InstanceID="0xB61F99E3" TextString="Chăm Sóc Cây Xanh Trong Nhà Sống" />
+    <TextStringDefinition InstanceID="0x7C4B9B57" TextString="Nó Chết Rồi!?" />
+    <TextStringDefinition InstanceID="0x9AAF75C4" TextString="(Từ Việc Nhìn Thấy Cây Xanh Trong Nhà Đã Chết)" />
+    <TextStringDefinition InstanceID="0x992283B1" TextString="Cây Xanh Trong Nhà Sống" />
+    <TextStringDefinition InstanceID="0x0854B823" TextString="Hộ gia đình đã sở hữu một Cây Xanh Trong Nhà Sống!\n\nCây Xanh Trong Nhà trông tuyệt vời ở bất kỳ không gian nào, cả ngoài trời và trong nhà, với sự cam kết ít hơn nhiều so với cây trồng trong Vườn. Cây trong nhà sẽ không lớn hơn hoặc tạo ra sản phẩm thu hoạch, nhưng chăm sóc chúng dễ dàng và thú vị hơn đối với hầu hết các Sim. Chỉ đừng bỏ bê chúng! Chăm sóc &quot;dễ dàng&quot; không có nghĩa là không cần chăm sóc, và các Sim sẽ cảm thấy tội lỗi vì để Cây Xanh Trong Nhà chết." />
+    <TextStringDefinition InstanceID="0x279EB326" TextString="Chấp Nhận Giao Hàng" />
+    <TextStringDefinition InstanceID="0x646C82FD" TextString="Dỡ Hàng Từ Túi Giao Hàng" />
+    <TextStringDefinition InstanceID="0xBB0983A4" TextString="{0.SimFirstName} đã đặt tất cả {M0.đồ ăn}{F0.đồ ăn} của {M0.hắn}{F0.cô ấy} vào tủ lạnh. Bất cứ thứ gì không thuộc về tủ lạnh đã được cho vào kho đồ của {M0.hắn}{F0.cô ấy}." />
+    <TextStringDefinition InstanceID="0x294BCD46" TextString="{0.SimFirstName} đã lấy nội dung của chiếc túi và đặt chúng vào kho đồ của {M0.hắn}{F0.cô ấy}." />
+    <TextStringDefinition InstanceID="0xB8DC3952" TextString="Đang Nhận Cách Tạo Hình" />
+    <TextStringDefinition InstanceID="0xEF3DAFFF" TextString="Được Đề Nghị Cách Tạo Hình" />
+    <TextStringDefinition InstanceID="0xECD4138F" TextString="Đề Nghị Tạo Hình Cho {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xA0820DD0" TextString="Tạo Hình {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x224CFCC8" TextString="Các Tâm Trạng Cảm Hứng" />
+    <TextStringDefinition InstanceID="0x3590B2B4" TextString="Các Tâm Trạng Lả Lơi" />
+    <TextStringDefinition InstanceID="0xCB0217D3" TextString="Các Tâm Trạng Tràn Đầy Năng Lượng" />
+    <TextStringDefinition InstanceID="0x08D560F2" TextString="Các Tâm Trạng Tự Tin" />
+    <TextStringDefinition InstanceID="0x829293F6" TextString="Bộ Trang Phục Đã Được Thổi Hồn Bởi Tâm Trạng Này." />
+    <TextStringDefinition InstanceID="0x39E20AA8" TextString="Hoàn Thành Bộ" />
+    <TextStringDefinition InstanceID="0x141391C4" TextString="Đặt Lại Tiến Độ" />
+    <TextStringDefinition InstanceID="0xDFE5B4DC" TextString="Nền Trắng" />
+    <TextStringDefinition InstanceID="0x4093AC5A" TextString="Nền Đen" />
+    <TextStringDefinition InstanceID="0xCDADB71A" TextString="Màu Ấm" />
+    <TextStringDefinition InstanceID="0x7C8B3795" TextString="Màu Mềm Mại" />
+    <TextStringDefinition InstanceID="0x55DF50D0" TextString="Màu Trung Tính" />
+    <TextStringDefinition InstanceID="0xC8CD9B90" TextString="Màu Thang Xám" />
+    <TextStringDefinition InstanceID="0x55AA798A" TextString="Màu Lạnh" />
+    <TextStringDefinition InstanceID="0xFFF335D0" TextString="Màu Đậm" />
+    <TextStringDefinition InstanceID="0xB3AC2767" TextString="Bảng Phong Cách Đã Được Đặt Theo Màu Này." />
+    <TextStringDefinition InstanceID="0xB6E7A9FA" TextString="Ôm" />
+    <TextStringDefinition InstanceID="0xB90B4E6D" TextString="Đánh" />
+    <TextStringDefinition InstanceID="0xEEE73CB2" TextString="Ba Ba" />

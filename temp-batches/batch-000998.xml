@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xBD152A52" TextString="Đó không phải nho khô. Chúng giờ là mắt của một người đã sống sót qua hai cuộc chiến tranh thế giới. {0.SimFirstName} vẽ đường trở về đỉnh cao của {M0.mình}{F0.bản thân}." />
+    <TextStringDefinition InstanceID="0xFF324EBB" TextString="Ồ. Giờ nó trông chỉ như cái bánh quy đeo kính hai mắt. Có lẽ {0.SimFirstName} nên bắt đầu lại trên một bức vẽ trống." />
+    <TextStringDefinition InstanceID="0xD632042F" TextString="Vượt Giá Thầu" />
+    <TextStringDefinition InstanceID="0xA5309BAA" TextString="Bắt Đầu Lại" />
+    <TextStringDefinition InstanceID="0x2AF43FDD" TextString="Hoàn Thành Từ Trí Nhớ" />
+    <TextStringDefinition InstanceID="0xA7575694" TextString="Quá Thiên Vị" />
+    <TextStringDefinition InstanceID="0xAD6B5039" TextString="{0.SimFirstName} giả vờ bị viêm thanh quản, tránh áp lực phải đóng góp vào cuộc thảo luận, trong khi âm thầm thu thập những thông tin quý giá từ bạn học. {M0.Anh ấy}{F0.Cô ấy} vượt qua, nhưng không nhiều lắm." />
+    <TextStringDefinition InstanceID="0xCE74C512" TextString="Nhận Hối Lộ" />
+    <TextStringDefinition InstanceID="0x89681B6C" TextString="Không Hối Lộ" />
+    <TextStringDefinition InstanceID="0x41273C1F" TextString="{0.SimFirstName} nộp một loạt tranh chim con bằng màu nước. Phòng trưng bày chấp nhận nó, và {0.SimFirstName} thậm chí còn bán được vài bức tranh tại triển lãm." />
+    <TextStringDefinition InstanceID="0x2BDA9E6A" TextString="Chuyển Đổi Thêm Nghệ Sĩ" />
+    <TextStringDefinition InstanceID="0x049818AE" TextString="Viết Tuyên Ngôn" />
+    <TextStringDefinition InstanceID="0x9B1B434A" TextString="Phòng trưng bày thấy tác phẩm rất đáng suy ngẫm. Và nhà hàng đi kèm của họ tăng gấp đôi doanh số bán hot dog trong suốt triển lãm!" />
+    <TextStringDefinition InstanceID="0xF596D92D" TextString="Phòng trưng bày dành cho {0.SimFirstName} một lời từ chối ngắn nhưng lịch sự. Không thể tin được, tác phẩm {M0.của anh ấy}{F0.của cô ấy} đơn giản là không đủ hay." />
+    <TextStringDefinition InstanceID="0xED70F5FF" TextString="Chơi An Toàn" />
+    <TextStringDefinition InstanceID="0xB84AE004" TextString="Tuyên Bố Gây Sốc" />
+    <TextStringDefinition InstanceID="0x03144729" TextString="CẮP CẠNH" />
+    <TextStringDefinition InstanceID="0xC2DD4FDA" TextString="Tìm Nhóm Học Tập" />
+    <TextStringDefinition InstanceID="0x824D28A9" TextString="Hừm. Nó bắt đầu khá đầy hứa hẹn, nhưng ngày càng nhiều {0.SimFirstName} bắt đầu cảm thấy cộng đồng địa phương dường như chưa sẵn sàng cho &quot;Thiên Hà Mũi Lợn&quot;. {M0.Anh ấy}{F0.Cô ấy} bỏ dở tác phẩm và quay lại điểm khởi đầu." />
+    <TextStringDefinition InstanceID="0xB84D2729" TextString="{0.SimFirstName} tin rằng đây có thể là kiệt tác lớn nhất của {M0.mình){F0.bản thân} cho đến nay! Chẳng mấy chốc, cộng đồng địa phương sẽ ca ngợi &quot;Thiên Hà Mũi Lợn&quot; vì sự táo bạo của nó." />
+    <TextStringDefinition InstanceID="0x70ADDAB3" TextString="Nghỉ Ngơi" />
+    <TextStringDefinition InstanceID="0xE549E304" TextString="Cuộc Thanh Lọc Dầu Turpentine" />
+    <TextStringDefinition InstanceID="0x39432EA3" TextString="Đủ Tốt" />
+    <TextStringDefinition InstanceID="0xE2CBA1A0" TextString="Tiếp Tục Vẽ" />
+    <TextStringDefinition InstanceID="0x41CB4AD2" TextString="Biên tập viên không thể ngừng cười về bức tranh cấp mầm non trên trang 10. Hình ảnh đã được thay thế bằng một quảng cáo cho sơn màu tempera giá rẻ. (may mắn thay, trước khi ai đó nhận ra đó là tác phẩm của {0.SimFirstName})." />
+    <TextStringDefinition InstanceID="0xB4B81132" TextString="Biên tập viên không thể ngừng ca ngợi bức tranh tuyệt vời trên trang 10. Cô ấy rất ấn tượng khi phát hiện ra đó là tác phẩm của {0.SimFirstName}!" />
+    <TextStringDefinition InstanceID="0x6E6259C4" TextString="Tái Đầu Tư Cho Tương Lai" />
+    <TextStringDefinition InstanceID="0x761A0E06" TextString="Tài Trợ Một Tài Năng Đầy Triển Vọng" />
+    <TextStringDefinition InstanceID="0xD87EC543" TextString="Tập Trung Hoàn Thành" />
+    <TextStringDefinition InstanceID="0x7CFE19D3" TextString="Báo Cáo Việc Này" />
+    <TextStringDefinition InstanceID="0x7C545F7E" TextString="La Hét Chủ Phòng Trưng Bày" />
+    <TextStringDefinition InstanceID="0xCF94A2FD" TextString="Làm Sạch Vết Bẩn" />
+    <TextStringDefinition InstanceID="0xDA026A07" TextString="Nghệ Thuật Là Chủ Quan" />
+    <TextStringDefinition InstanceID="0xE80A0CB0" TextString="Nói Thẳng" />
+    <TextStringDefinition InstanceID="0x2B084413" TextString="Mượn Kỹ Thuật" />
+    <TextStringDefinition InstanceID="0xC1D56A31" TextString="Ghi Công Cho Học Sinh" />
+    <TextStringDefinition InstanceID="0x9A686DC3" TextString="Tác Phẩm Gần Đây" />
+    <TextStringDefinition InstanceID="0x235B64CD" TextString="Cho Họ Những Thứ Cũ" />
+    <TextStringDefinition InstanceID="0xE4BA1618" TextString="Có lẽ họ đúng. Có lẽ bức tranh hình vuông đỏ với chấm xanh đó là một tuyên bố táo bạo về sự kiên cường của nhân loại trong thế giới hậu hiện đại. {0.SimFirstName} quyết định nói như vậy. Đám đông lặng lẽ gật đầu." />
+    <TextStringDefinition InstanceID="0x5347B58A" TextString="Cắt Cỏ Qua Cành" />
+    <TextStringDefinition InstanceID="0x9EA6C649" TextString="Nhặt Cành" />
+    <TextStringDefinition InstanceID="0xCAE491A2" TextString="Tức Thời" />
+    <TextStringDefinition InstanceID="0x36ED57D4" TextString="Dùng Máy Xúc" />
+    <TextStringDefinition InstanceID="0x534552E2" TextString="Quay Lại Vườn Ươm" />
+    <TextStringDefinition InstanceID="0x30D48146" TextString="Làm Phẳng Tay" />
+    <TextStringDefinition InstanceID="0x41C10763" TextString="Yeah! {0.SimFirstName} cảm thấy mình như một chủ máy xúc thực thụ... cho đến khi máy xúc lật nhào với {M0.anh ấy}{F0.cô ấy} bên trong. Ghi chú cho sau này: để trở thành tài xế máy xúc, bạn cần hai thứ—một chiếc máy xúc hoạt động và một người lái khỏe mạnh!" />
+    <TextStringDefinition InstanceID="0x0DC4607B" TextString="{0.SimFirstName} không được trả lương cao để đóng vai một kẻ ngốc. {M0.Anh ấy}{F0.Cô ấy} đậu máy xúc một cách an toàn và dùng xẻng thay thế. Sẽ lâu hơn và làm hỏng một chút tiến độ, nhưng {M0.anh ấy}{F0.cô ấy} biết rằng không đáng để mạo hiểm." />
+    <TextStringDefinition InstanceID="0x630F2531" TextString="Thôi, sự non nớt của tuổi trẻ chỉ giúp bạn được một chút, đặc biệt là khi một cành cây làm kẹt máy cắt cỏ. {0.SimFirstName} không thể hoàn thành phần còn lại của {M0.chuyến đi){F0.chuyến đi} của mình, và phải dành thời gian {M0.của anh ấy){F0.của cô ấy} để dọn sạch lưỡi dao {M0.của mình){F0.của mình} thay vì vậy." />
+    <TextStringDefinition InstanceID="0x6D09D466" TextString="{0.SimFirstName} lách qua cổng vườn ươm ngay khi chủ đang khóa cửa. Vớt vài bông hoa petunia cuối cùng, {M0.anh ấy}{F0.cô ấy} ném xuống vài Simoleon và quay lại hoàn thành công việc. Kết quả: một lối đi petunia hoàn hảo, đúng giờ. Sếp và khách hàng của {0.SimFirstName} đều hài lòng tuyệt đối." />
+    <TextStringDefinition InstanceID="0xC7EEF381" TextString="Với một chút sắp xếp sáng tạo, {0.SimFirstName} làm cho lối đi petunia thậm chí còn thanh lịch hơn trước.  {M0.Anh ấy}{F0.Cô ấy} hơi lo lắng, tất nhiên, nhưng khi {0.SimFirstName} đảm bảo với khách hàng rằng thiết kế tối giản đang là xu hướng, mọi người đều ca ngợi tư duy tiên phong (và tiết kiệm) của {M0.anh ấy}{F0.cô ấy}." />

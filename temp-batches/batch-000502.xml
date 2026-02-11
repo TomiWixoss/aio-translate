@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xEEFE7118" TextString="Để chia sẻ Phòng của bạn cho người chơi Sims khác xem, hãy nhấp vào nút Chia sẻ Phòng lên Gallery.\n\nSau khi Phòng của bạn được chia sẻ, bạn có thể thêm và xóa bình luận, và chia sẻ công trình của bạn lên Facebook." />
+    <TextStringDefinition InstanceID="0x62184795" TextString="Sử dụng Gallery để quản lý các Công trình và Phòng đã lưu của bạn bằng cách chọn thẻ Thư viện của tôi, và nhấp vào các Công trình và Phòng đã lưu.\n\nTừ đây, bạn có thể Chia sẻ và hủy Chia sẻ Phòng và Công trình của mình, Xóa chúng khỏi Thư viện của tôi, hoặc Mang Phòng hoặc Công trình của bạn vào Chế độ Xây dựng để chơi một lần nữa!" />
+    <TextStringDefinition InstanceID="0x48E52EF7" TextString="Các Phòng đã lưu có thể được tìm thấy trong trình đơn Gallery dưới thẻ Thư viện của tôi, cũng như trong sắp xếp danh mục Xây dựng Phòng và Tường bằng cách chọn sắp xếp Phòng đã lưu." />
+    <TextStringDefinition InstanceID="0xDD66FE35" TextString="Nhấp để mở trình đơn Lưu lên Gallery và chọn Lưu Phòng nếu bạn chỉ muốn lưu một phòng đơn lẻ, thay vì toàn bộ công trình của mình.\n\nLưu ý: Bạn sẽ cần chọn phòng bạn muốn lưu trước khi chọn tùy chọn này." />
+    <TextStringDefinition InstanceID="0x114781F3" TextString="Để chia sẻ công trình của bạn cho người chơi khác xem, hãy nhấp vào nút Chia sẻ Công trình lên Gallery.\n\nSau khi công trình của bạn được chia sẻ, bạn có thể thêm và xóa bình luận, và chia sẻ công trình của bạn lên Facebook." />
+    <TextStringDefinition InstanceID="0xA04F0FB1" TextString="Mở trình đơn Lưu lên Gallery và chọn Lưu Công trình để lưu công trình của bạn vào Thư viện của tôi trong Gallery.\n\nThêm tên công trình, mô tả, và đặt số giường và phòng tắm cho công trình của bạn, sau đó nhấp vào nút Lưu Công trình vào Thư viện của tôi để thêm nó vào Gallery. Điều này không chia sẻ để người khác xem." />
+    <TextStringDefinition InstanceID="0x6743B406" TextString="Lưu Công trình và Lưu Phòng đều là những cách bạn có thể lưu các tạo phẩm của mình để sử dụng trong tương lai hoặc tải lên Gallery để chia sẻ với người chơi khác." />
+    <TextStringDefinition InstanceID="0x6A4D13C5" TextString="Nhấp để tìm hiểu thêm về Phòng được Thiết kế Sẵn." />
+    <TextStringDefinition InstanceID="0x0E18D21A" TextString="Công cụ búa" />
+    <TextStringDefinition InstanceID="0xB0555EEF" TextString="K" />
+    <TextStringDefinition InstanceID="0x26A9220C" TextString="Di chuyển máy quay" />
+    <TextStringDefinition InstanceID="0xDE0441DD" TextString="Hoàn tác" />
+    <TextStringDefinition InstanceID="0xFEFA5A3B" TextString="Ctrl + Z" />
+    <TextStringDefinition InstanceID="0x0258A81A" TextString="Xoay vật thể" />
+    <TextStringDefinition InstanceID="0xAE375E79" TextString="&lt;&gt;" />
+    <TextStringDefinition InstanceID="0x6E564101" TextString="Công cụ xây tường" />
+    <TextStringDefinition InstanceID="0xF59783EE" TextString="B" />
+    <TextStringDefinition InstanceID="0x5A44C3E0" TextString="Ẩn/hiện tường" />
+    <TextStringDefinition InstanceID="0x38F29154" TextString="Home/End" />
+    <TextStringDefinition InstanceID="0xF1EFA501" TextString="Thay đổi sàn" />
+    <TextStringDefinition InstanceID="0x2A27588F" TextString="PgUp/PgDn" />
+    <TextStringDefinition InstanceID="0xF96D264E" TextString="Bán vật thể" />
+    <TextStringDefinition InstanceID="0x05E72E29" TextString="Del" />
+    <TextStringDefinition InstanceID="0xB37A3EA6" TextString="Điều khiển thời gian" />
+    <TextStringDefinition InstanceID="0xE2F39ABE" TextString="Xoay máy quay" />
+    <TextStringDefinition InstanceID="0x1A29587D" TextString="Công cụ thiết kế" />
+    <TextStringDefinition InstanceID="0xD0388967" TextString="R" />
+    <TextStringDefinition InstanceID="0xBA38E6C9" TextString="Mặt tiền với Nắp trang trí ở hai đầu" />
+    <TextStringDefinition InstanceID="0x321B2816" TextString="Các nắp trang trí làm cho mặt tiền này trông giống như một chiếc kệ nhỏ." />
+    <TextStringDefinition InstanceID="0x14BF4501" TextString="Mặt tiền Tiết kiệm" />
+    <TextStringDefinition InstanceID="0x2CF8077E" TextString="Mặt tiền này thêm điểm nhấn cho ngôi nhà khiêm tốn của bạn mà không làm vỡ ngân sách." />
+    <TextStringDefinition InstanceID="0x95A0CBED" TextString="Mặt tiền Gỗ Nông thôn" />
+    <TextStringDefinition InstanceID="0x8163FAD2" TextString="Mặt tiền gỗ với vẻ ngoài chưa hoàn thiện để phù hợp với nội thất nông thôn của bạn." />
+    <TextStringDefinition InstanceID="0x7979270A" TextString="Mặt tiền Hình học" />
+    <TextStringDefinition InstanceID="0xC223D18B" TextString="Mặt tiền trang trí với họa tiết hình học góc cạnh để thu hút mắt tối đa." />
+    <TextStringDefinition InstanceID="0xE26EB779" TextString="Mặt tiền Cổ điển HBD" />
+    <TextStringDefinition InstanceID="0x9E747466" TextString="Mặt tiền này đơn giản và trang trọng như bạn có thể có được ở một thời điểm. Nó thật đẹp và sạch sẽ, bạn thậm chí có thể sử dụng nó trong nhà! Hỗ trợ mái nhà, thêm một chút trang trí trần nhà, hoặc sắp xếp nó theo hàng với hàng rào của bạn để tạo hiệu ứng cao ngất." />
+    <TextStringDefinition InstanceID="0x51537268" TextString="Không có Mặt tiền" />
+    <TextStringDefinition InstanceID="0xDD47D4FD" TextString="Không có Mặt tiền" />
+    <TextStringDefinition InstanceID="0xFF5F0261" TextString="Sim này quan tâm đến Tán tỉnh với:" />
+    <TextStringDefinition InstanceID="0xD7B4BB80" TextString="Các Sim sẽ từ chối các Sim khác không đáp ứng sở thích tán tỉnh của họ." />
+    <TextStringDefinition InstanceID="0x833501F2" TextString="Các Sim thiếu niên sẽ từ chối các Sim thiếu niên khác không đáp ứng sở thích Tán tỉnh của họ." />
+    <TextStringDefinition InstanceID="0xD1A90B21" TextString="Các biến cận ghen của Sim này có thể thay đổi bằng cách nói về nó với các Sim khác:" />
+    <TextStringDefinition InstanceID="0x8C547D1E" TextString="Nếu &quot;Có&quot; Sim này sẵn sàng xem xét lại các Ranh giới Lãng mạn cá nhân về lãng mạn phi thể chất, lãng mạn thể chất, và {T0.Mess Around}{DAE0.WooHoo} nếu được hỏi bởi một Sim khác.\n\nNếu &quot;Không&quot; Sim này kiên định về Ranh giới Lãng mạn của họ và không thể được hỏi để xem xét lại chúng." />
+    <TextStringDefinition InstanceID="0x9204DFF9" TextString="Sim này cảm thấy ghen nếu bất kỳ bạn tình lãng mạn nào tham gia vào lãng mạn phi thể chất với các Sim khác:" />
+    <TextStringDefinition InstanceID="0x05B53099" TextString="Nếu &quot;Có&quot; Sim này &lt;b&gt;sẽ có phản ứng ghen&lt;/b&gt; khi một bạn tình lãng mạn tham gia vào các tương tác lãng mạn phi thể chất với các Sim khác.\n\nNếu &quot;Không&quot; họ có thể có phản ứng nhỏ hoặc không có phản ứng, tùy thuộc vào Tính cách Cá nhân." />
+    <TextStringDefinition InstanceID="0x6227F2B0" TextString="Sim này cảm thấy ghen nếu bất kỳ bạn tình lãng mạn nào tham gia vào {T0.Mess Around}{DAE0.WooHoo} với các Sim khác:" />
+    <TextStringDefinition InstanceID="0x68AB3D0F" TextString="Nếu &quot;Có&quot; Sim này &lt;b&gt;sẽ có phản ứng ghen&lt;/b&gt; khi một bạn tình lãng mạn tham gia vào các tương tác {T0.Mess Around}{DAE0.WooHoo} với các Sim khác.\n\nNếu &quot;Không&quot; họ có thể có phản ứng nhỏ hoặc không có phản ứng, tùy thuộc vào Tính cách Cá nhân." />
+    <TextStringDefinition InstanceID="0xCA36EB29" TextString="Sim này cảm thấy ghen nếu bất kỳ bạn tình lãng mạn nào tham gia vào lãng mạn thể chất &lt;i&gt;(trừ {T0.Mess Around}{DAE0.WooHoo})&lt;/i&gt; với các Sim khác:" />
+    <TextStringDefinition InstanceID="0x82CB9DF7" TextString="Nếu &quot;Có&quot; Sim này &lt;b&gt;sẽ có phản ứng ghen&lt;/b&gt; khi một bạn tình lãng mạn tham gia vào các tương tác lãng mạn thể chất &lt;i&gt;(trừ {T0.Mess Around}{DAE0.WooHoo})&lt;/i&gt; với các Sim khác.\n\nNếu &quot;Không&quot; họ có thể có phản ứng nhỏ hoặc không có phản ứng, tùy thuộc vào Tính cách Cá nhân." />

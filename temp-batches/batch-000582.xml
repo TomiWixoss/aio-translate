@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x672EB1E6" TextString="{0.Number} giờ {1.Number} phút" />
+    <TextStringDefinition InstanceID="0x2C2D0D30" TextString="{0.Number} ngày {1.Number} giờ" />
+    <TextStringDefinition InstanceID="0x7F70255C" TextString="Hoàn thành {0.String} nhiệm vụ để kiếm Điểm Sự Kiện và nhận phần thưởng này!" />
+    <TextStringDefinition InstanceID="0x8A722FF3" TextString="Phần thưởng này bị khóa. Hoàn thành {0.String} nhiệm vụ mới để kiếm thêm Điểm Sự Kiện và nhận nó!" />
+    <TextStringDefinition InstanceID="0xE406595F" TextString="Tuần {0.Number}" />
+    <TextStringDefinition InstanceID="0xA8329DDF" TextString="Nhiệm vụ {0.Number}" />
+    <TextStringDefinition InstanceID="0x269E017B" TextString="Hãy tiếp tục đăng nhập mỗi ngày để nhận phần thưởng này." />
+    <TextStringDefinition InstanceID="0x06007878" TextString="Phần thưởng này bị khóa. Quay lại khi tuần bắt đầu." />
+    <TextStringDefinition InstanceID="0x09147328" TextString="Hoàn thành những nhiệm vụ này để mở khóa:&lt;b&gt;\n{0.String}\n{1.String}&lt;/b&gt;" />
+    <TextStringDefinition InstanceID="0xAF0799AD" TextString="Hoàn thành &lt;b&gt;{0.String}&lt;/b&gt; để mở khóa nhiệm vụ này." />
+    <TextStringDefinition InstanceID="0x4D390CE4" TextString="Hoàn thành các nhiệm vụ trước đó để mở khóa." />
+    <TextStringDefinition InstanceID="0x14C59C94" TextString="Nhiệm vụ này sẽ mở khóa trong tương lai" />
+    <TextStringDefinition InstanceID="0x6247F45A" TextString="Nhiệm vụ Tương lai" />
+    <TextStringDefinition InstanceID="0x6E743AC3" TextString="NHIỆM VỤ TƯƠNG LAI" />
+    <TextStringDefinition InstanceID="0x254F86A3" TextString="Nhiệm vụ này sẽ mở khóa trong {0.String}." />
+    <TextStringDefinition InstanceID="0xC5A30E28" TextString="Nhiệm vụ tiếp theo sẽ mở khóa trong" />
+    <TextStringDefinition InstanceID="0xB6513CBF" TextString="Tất cả nhiệm vụ đã có sẵn!\nBạn có đến {0.DateLong} để hoàn thành tất cả nhiệm vụ." />
+    <TextStringDefinition InstanceID="0x391CD4CF" TextString="{0.Number} phút {1.Number} giây" />
+    <TextStringDefinition InstanceID="0xF9E6DB5D" TextString="{0.Number} giờ {1.Number} phút" />
+    <TextStringDefinition InstanceID="0x5AC005E6" TextString="{0.Number} ngày {1.Number} giờ" />
+    <TextStringDefinition InstanceID="0x0B54DBE5" TextString="Tuần {0.Number} trên {1.Number}" />
+    <TextStringDefinition InstanceID="0xBD17C415" TextString="{0.Number} Phần thưởng cần nhận!" />
+    <TextStringDefinition InstanceID="0x36D79B3B" TextString="Khóa" />
+    <TextStringDefinition InstanceID="0xFDD9A530" TextString="Khóa" />
+    <TextStringDefinition InstanceID="0x422983A1" TextString="Đã nhận" />
+    <TextStringDefinition InstanceID="0xFC333F03" TextString="Đã mở khóa" />
+    <TextStringDefinition InstanceID="0x35B423A3" TextString="Nhận phần thưởng thất bại" />
+    <TextStringDefinition InstanceID="0x87A57E08" TextString="Bạn có muốn lưu trò chơi trước khi chuyển đổi không?" />
+    <TextStringDefinition InstanceID="0x323A7A97" TextString="Bạn có muốn lưu trò chơi trước khi chuyển sang hộ gia đình {0.String} không?" />
+    <TextStringDefinition InstanceID="0x23278CDD" TextString="Giá trị không được vượt quá Giá thuê tối đa" />
+    <TextStringDefinition InstanceID="0x291BA7E4" TextString="Thời hạn thuê không hợp lệ" />
+    <TextStringDefinition InstanceID="0x8BFF6D80" TextString="Không có" />
+    <TextStringDefinition InstanceID="0x65F97E73" TextString="Hiện đang trống" />
+    <TextStringDefinition InstanceID="0xF9CF06BF" TextString="Xếp hạng chất lượng của căn hộ này được xác định bởi bốn danh mục, cùng nhau tạo thành Xếp hạng Căn hộ tổng thể. Mỗi danh mục gồm ba cấp chất lượng. Các căn hộ có xếp hạng cao hơn thu hút nhiều ứng viên Người thuê hơn, cho phép Chủ sở hữu đặt Giá thuê mỗi ngày cao hơn cho căn hộ." />
+    <TextStringDefinition InstanceID="0x54A46FFC" TextString="Xếp hạng Căn hộ" />
+    <TextStringDefinition InstanceID="0x637AF50C" TextString="Chọn một Hộ gia đình Người thuê để Dọn vào" />
+    <TextStringDefinition InstanceID="0xDB693369" TextString="Giá thuê mỗi ngày" />
+    <TextStringDefinition InstanceID="0x399EB2DF" TextString="Giới hạn Giá thuê" />
+    <TextStringDefinition InstanceID="0xA72DEEC1" TextString="Số giường mong muốn" />
+    <TextStringDefinition InstanceID="0xD3FAC704" TextString="Giường &amp; Phòng tắm" />
+    <TextStringDefinition InstanceID="0xCAFB7D19" TextString="Phần này hiển thị các Sim không có nơi cư trú được chỉ định quan tâm đến căn hộ này, bao gồm cả các hộ gia đình đang chơi và chưa chơi. Giới hạn Giá thuê cho mỗi hộ gia đình đại diện cho số tiền tối đa họ có thể chi trả cho Giá thuê mỗi ngày. Hãy tìm dấu tick xanh, vì nó cho thấy một sự phù hợp sẵn sàng dọn vào. Cũng nên chọn một hộ gia đình có số lượng Giường mong muốn khớp với số giường có sẵn trong Căn hộ này." />
+    <TextStringDefinition InstanceID="0xA5E80C36" TextString="Người thuê Có sẵn" />
+    <TextStringDefinition InstanceID="0xD83B7F16" TextString="{0.UnitName} " />
+    <TextStringDefinition InstanceID="0xCBFEFEA1" TextString="Hạng {0.String}" />
+    <TextStringDefinition InstanceID="0x657137F4" TextString="Trung lập" />
+    <TextStringDefinition InstanceID="0x260C2E84" TextString="Nam tính" />
+    <TextStringDefinition InstanceID="0x6F11A727" TextString="Nữ tính" />
+    <TextStringDefinition InstanceID="0x7DEA5E02" TextString="Điền vào Chỗ trống" />
+    <TextStringDefinition InstanceID="0x97614433" TextString="Giá thuê mỗi ngày của căn hộ này quá cao đối với hộ gia đình này" />
+    <TextStringDefinition InstanceID="0x9EAB8F69" TextString="Số lần Sim này đã Tái sinh." />

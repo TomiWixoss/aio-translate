@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x84895468" TextString="Phòng làm tròn không hợp lệ." />
+    <TextStringDefinition InstanceID="0x6D20835D" TextString="Không tìm thấy định danh phòng." />
+    <TextStringDefinition InstanceID="0x6C2A683E" TextString="Dữ liệu phòng không hợp lệ." />
+    <TextStringDefinition InstanceID="0x6DA0B28D" TextString="Chiều rộng tường không đủ để đặt." />
+    <TextStringDefinition InstanceID="0x3BAF899E" TextString="Chiều cao tường không đủ để đặt." />
+    <TextStringDefinition InstanceID="0x7012C9A5" TextString="Không đủ tiền." />
+    <TextStringDefinition InstanceID="0xEAA0E0F7" TextString="Không thể áp dụng cùng với Móng Cột." />
+    <TextStringDefinition InstanceID="0x33B7C23F" TextString="Không tương thích với Ràng buộc Địa hình Ô đất" />
+    <TextStringDefinition InstanceID="0xF602E103" TextString="Không tương thích với Ràng buộc Địa hình Cầu thang" />
+    <TextStringDefinition InstanceID="0xF2BBBB8A" TextString="Không tương thích với Ràng buộc Địa hình Mái nhà" />
+    <TextStringDefinition InstanceID="0x9564408E" TextString="Không tương thích với Ràng buộc Địa hình Đường ranh lô đất" />
+    <TextStringDefinition InstanceID="0x889C8B3B" TextString="Không tương thích với Ràng buộc Địa hình Khối" />
+    <TextStringDefinition InstanceID="0xA3747AC1" TextString="Vật thể này không vừa với kích thước khe này." />
+    <TextStringDefinition InstanceID="0xDD4475EC" TextString="Bạn không thể di chuyển vật thể mà bạn không sở hữu." />
+    <TextStringDefinition InstanceID="0x3CE59B62" TextString="Tạo thao tác máy khách không hợp lệ" />
+    <TextStringDefinition InstanceID="0xC1BFCF51" TextString="Kề nhau tường dọc không hợp lệ." />
+    <TextStringDefinition InstanceID="0x42210556" TextString="Công cụ Di chuyển Nhà yêu cầu một phòng." />
+    <TextStringDefinition InstanceID="0x1EBD1F04" TextString="Việc di chuyển nhà không được chồng lấn với nhà hiện có." />
+    <TextStringDefinition InstanceID="0x0B8AC8FD" TextString="Lỗi chung" />
+    <TextStringDefinition InstanceID="0xD113D2B7" TextString="Chiều cao trận trích quá cao cho tường này." />
+    <TextStringDefinition InstanceID="0xE96E7A07" TextString="Phải rộng ít nhất 1 ô.&#xD;&#xA;" />
+    <TextStringDefinition InstanceID="0xCAAA787F" TextString="Bát kẹo ma quái hoàn toàn mới" />
+    <TextStringDefinition InstanceID="0x69228D16" TextString="Trang phục thường ngày thời thượng và kiểu tóc" />
+    <TextStringDefinition InstanceID="0x68228BE5" TextString="Thiết bị nhà bếp và đồ nội thất tuyệt vời" />
+    <TextStringDefinition InstanceID="0x6B22902C" TextString="Máy làm kem hoàn toàn mới" />
+    <TextStringDefinition InstanceID="0x1B00C0FE" TextString="Trang phục cho một ngày dưới nắng" />
+    <TextStringDefinition InstanceID="0x1B00C0FF" TextString="Thiết lập BBQ hoàn hảo bên hồ bơi" />
+    <TextStringDefinition InstanceID="0x1B00C0FC" TextString="Thư giãn trong bồn tắm hơi hoàn toàn mới" />
+    <TextStringDefinition InstanceID="0x4C534BAD" TextString="Trang phục để gây ấn tượng" />
+    <TextStringDefinition InstanceID="0x4C534BAE" TextString="Tiệc tùng phong cách, sống xa hoa" />
+    <TextStringDefinition InstanceID="0x7985047A" TextString="Thu thập cổ vật" />
+    <TextStringDefinition InstanceID="0x7684FF33" TextString="Khám phá đền ẩn" />
+    <TextStringDefinition InstanceID="0x7785015C" TextString="Khám phá rừng nhiệt đới" />
+    <TextStringDefinition InstanceID="0x7484FC15" TextString="Phiêu lưu đến Selvadorada" />
+    <TextStringDefinition InstanceID="0x288BAA25" TextString="Cá nhân hóa Hộ gia đình của bạn" />
+    <TextStringDefinition InstanceID="0x2E8BB3B7" TextString="Định hình Tuổi thơ của Sim" />
+    <TextStringDefinition InstanceID="0x2D8BB20A" TextString="Phát triển Kỹ năng Làm cha mẹ" />
+    <TextStringDefinition InstanceID="0x50175570" TextString="Sống cuộc đời bất tử" />
+    <TextStringDefinition InstanceID="0x49174A75" TextString="Thoát đến Thung lũng Quên lãng" />
+    <TextStringDefinition InstanceID="0x4A174BE6" TextString="Giải phóng Sức mạnh Siêu nhiên" />
+    <TextStringDefinition InstanceID="0x4B174D13" TextString="Tạo Ma cà rồng" />
+    <TextStringDefinition InstanceID="0x23ED7B82" TextString="Ăn ngoài với Sim của bạn" />
+    <TextStringDefinition InstanceID="0x22ED7A11" TextString="Trở thành Chủ sở hữu" />
+    <TextStringDefinition InstanceID="0x25ED7F58" TextString="Tạo Nhà hàng Độc đáo" />
+    <TextStringDefinition InstanceID="0xA96C6AEF" TextString="Xây dựng Sự tĩnh lặng vào Nhà của Sim" />
+    <TextStringDefinition InstanceID="0x6F73B662" TextString="Thực hành Yoga và Thiền định" />
+    <TextStringDefinition InstanceID="0x6F73B660" TextString="Địa điểm hoàn toàn mới: Spa Cân bằng Hoàn hảo" />
+    <TextStringDefinition InstanceID="0x14006037" TextString="Tạo Bí dược Độc đáo với tư cách là Nhà thảo dược" />
+    <TextStringDefinition InstanceID="0x14006031" TextString="Thiết lập Trại hoàn hảo" />
+    <TextStringDefinition InstanceID="0x14006032" TextString="Lang thang vào Điểm đến Hoàn toàn Mới" />

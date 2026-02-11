@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x341F3134" TextString="Lắc Shake-Up" />
+    <TextStringDefinition InstanceID="0x01A4723A" TextString="Cuối cùng, sau một buổi tập luyện dài và vất vả, {0.SimFirstName} bước về phía băng ghế để nạp năng lượng cùng đối thủ của mình, Tiny. Trên đường đi, {0.SimFirstName} nhận ra chỉ còn lại một ly Protein Shake, điều này cũng khiến Tiny chú ý. {0.SimFirstName} nên lao vội đi lấy ly shake hay cố gắng đẩy Tiny sang một bên trước?" />
+    <TextStringDefinition InstanceID="0x76B5655D" TextString="Đấm" />
+    <TextStringDefinition InstanceID="0x661F3EDA" TextString="Xông tới" />
+    <TextStringDefinition InstanceID="0x7AD0E180" TextString="Kẻ bắt nạt lớn" />
+    <TextStringDefinition InstanceID="0xF0DE29A6" TextString="Gần đây, ngôi sao của đội đặc biệt sai {0.SimFirstName} làm việc. Điều này đang trở nên khó chịu và bực bội; {M0.anh ấy}{F0.cô ấy} nên đối mặt với họ, hay chỉ cần chịu đựng?" />
+    <TextStringDefinition InstanceID="0x587575F9" TextString="Đối mặt với họ" />
+    <TextStringDefinition InstanceID="0x9DCD82BE" TextString="Chịu đựng" />
+    <TextStringDefinition InstanceID="0x5929A715" TextString="Viết trò đùa trong một giờ" />
+    <TextStringDefinition InstanceID="0x15FAE8A8" TextString="Nhấp vào Máy tính và chọn Viết trò đùa." />
+    <TextStringDefinition InstanceID="0xEFA5D717" TextString="Viết trò đùa" />
+    <TextStringDefinition InstanceID="0xD6487429" TextString="Viết một tiểu thuyết giả tưởng" />
+    <TextStringDefinition InstanceID="0xFECA9F3B" TextString="Viết một sách thiếu nhi" />
+    <TextStringDefinition InstanceID="0xCF739E8C" TextString="Nhấp vào Máy tính, chọn Viết, chọn Viết sách theo thể loại, và chọn thể loại." />
+    <TextStringDefinition InstanceID="0x404466B2" TextString="Viết một tiểu sử" />
+    <TextStringDefinition InstanceID="0x97B10A1A" TextString="Nhấp vào Máy tính, chọn Viết, và chọn bất kỳ Loại sách nào. Khi sách hoàn thành, nhấp vào Hộp thư và Xuất bản nó. Sim có Kỹ năng Viết cao có khả năng tạo ra Bestseller!" />
+    <TextStringDefinition InstanceID="0x2C18F228" TextString="Viết một cuốn sách bán chạy" />
+    <TextStringDefinition InstanceID="0x9872CF78" TextString="Nhấp vào biểu tượng xuất hiện ở bên phải chân dung Sim khi họ đang làm việc và chọn Làm việc chăm chỉ." />
+    <TextStringDefinition InstanceID="0x159D7AB0" TextString="Làm việc chăm chỉ" />
+    <TextStringDefinition InstanceID="0x76B15EFB" TextString="Nhấp vào biểu tượng xuất hiện ở bên phải chân dung Sim khi họ đang làm việc và chọn Lười biếng." />
+    <TextStringDefinition InstanceID="0x53A28889" TextString="Lười biếng" />
+    <TextStringDefinition InstanceID="0x0A5CDC85" TextString="Nhấp vào biểu tượng xuất hiện ở bên phải chân dung Sim khi họ đang làm việc và chọn Giao lưu với đồng nghiệp." />
+    <TextStringDefinition InstanceID="0x372E46EB" TextString="Kết nối ở nơi làm việc" />
+    <TextStringDefinition InstanceID="0x5582DE06" TextString="Nhấp vào Máy chạy bộ, Máy tập thể dục, hoặc Túi đấm để tập luyện. Ngoài ra, Sim có thể chạy bộ quanh khu phố để tập thể dục nhanh!" />
+    <TextStringDefinition InstanceID="0xC75C5501" TextString="Nhấp vào Máy tập thể dục và chọn Enraged Reps. Sim có thể thực hiện tương tác này khi đang Giận dữ." />
+    <TextStringDefinition InstanceID="0xF96D7600" TextString="Sử dụng Máy tập thể dục" />
+    <TextStringDefinition InstanceID="0x3C028621" TextString="Nhấp vào Tàu vũ trụ và chọn Zero G Workout. Sim có thể mở khóa tương tác này bằng cách tăng Kỹ năng Thể dục." />
+    <TextStringDefinition InstanceID="0x56B1F8E0" TextString="Tập luyện trong không gian" />
+    <TextStringDefinition InstanceID="0xC996D18B" TextString="Nhấp vào Tàu vũ trụ và chọn Xây dựng." />
+    <TextStringDefinition InstanceID="0x5C1680AA" TextString="Làm việc trên Tàu vũ trụ trong một giờ" />
+    <TextStringDefinition InstanceID="0x7B993CC9" TextString="WooHoo với {2.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x6E62AA1D" TextString="Nhấp vào một Sim và chọn WooHoo With từ danh mục Lãng mạn. Sim cần có mối quan hệ lãng mạn để có thể WooHoo." />
+    <TextStringDefinition InstanceID="0x91AA9DCD" TextString="Nhấp vào Bồn tắm nóng và chọn WooHoo With. Sim có thể thực hiện tương tác này khi đang trong mối quan hệ lãng mạn với một Sim khác." />
+    <TextStringDefinition InstanceID="0xDC9C0BC3" TextString="WooHoo trong Bồn tắm nóng" />
+    <TextStringDefinition InstanceID="0x243DA206" TextString="Nhấp vào Máy tính để Tham gia Giải đấu Game. Sim có thể mở khóa tương tác này bằng cách tăng Kỹ năng Chơi game." />
+    <TextStringDefinition InstanceID="0xB00A1465" TextString="Kiếm được {0.Money} từ Giải đấu Game" />
+    <TextStringDefinition InstanceID="0x501BD35A" TextString="Nhấp vào Máy tính và Tham gia Giải đấu Game trong danh mục Chơi game... và thắng." />
+    <TextStringDefinition InstanceID="0xA0C00B82" TextString="Thắng một trò chơi cạnh tranh" />
+    <TextStringDefinition InstanceID="0xBC54A7D5" TextString="Nhấp vào Bàn cờ vua và chọn Luyện tập Cờ vua. Sim có Kỹ năng Logic cao hơn có khả năng thắng cao hơn!" />
+    <TextStringDefinition InstanceID="0xB61E6234" TextString="Thắng một ván cờ vua" />
+    <TextStringDefinition InstanceID="0xC178A5D5" TextString="Nhấp vào Bàn bài và chọn một Sim để Chơi bài cùng. Hãy nhớ rằng bạn phải có một đối tác để chơi cùng!" />
+    <TextStringDefinition InstanceID="0x4DFADC34" TextString="Thắng một ván bài" />
+    <TextStringDefinition InstanceID="0x5AA6ED75" TextString="Nhấp vào Cây và chọn Dọn cỏ dại cho Cây phát triển quá mức. Tương tác này có sẵn khi một cây có cỏ dại." />
+    <TextStringDefinition InstanceID="0x8BB7FC94" TextString="Dọn cỏ dại cho cây" />
+    <TextStringDefinition InstanceID="0x00397829" TextString="Nhấp vào Cây và chọn Tưới bằng Nước mắt. Sim có thể thực hiện tương tác này khi đang Buồn bã." />
+    <TextStringDefinition InstanceID="0x1C09ED18" TextString="Tưới cây bằng nước mắt" />
+    <TextStringDefinition InstanceID="0xD5078F93" TextString="Nhấp vào Cây và chọn Tưới. Hãy nhớ rằng cây có thể bị tưới quá nhiều, điều này có thể dẫn đến cỏ dại!" />
+    <TextStringDefinition InstanceID="0x8A303702" TextString="Tưới cây" />
+    <TextStringDefinition InstanceID="0xF325D624" TextString="Nhấp vào Gương và chọn Làm mới." />
+    <TextStringDefinition InstanceID="0x436BA6C3" TextString="Làm mới trong gương" />

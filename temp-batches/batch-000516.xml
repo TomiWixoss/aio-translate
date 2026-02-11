@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xD817F6F7" TextString="Ôi! Có cả một thế giới phiêu lưu với đồ chơi của mình!" />
+    <TextStringDefinition InstanceID="0x1E90CB16" TextString="Thời gian chơi đồ chơi" />
+    <TextStringDefinition InstanceID="0xF8A44E4F" TextString="Thở dài. Có ai cho mình việc khác làm không… Chơi đồ chơi lâu thế này sắp khóc rồi." />
+    <TextStringDefinition InstanceID="0xEE82A8A7" TextString="Đừng đùa với mình!" />
+    <TextStringDefinition InstanceID="0xBFAB0008" TextString="ÁI CHÀ! Chơi đồ chơi quá lâu sẽ dẫn đến cơn giận dỗi!" />
+    <TextStringDefinition InstanceID="0xA4C5DD92" TextString="Giờ kể chuyện" />
+    <TextStringDefinition InstanceID="0x30D15E43" TextString="Những câu chuyện giúp trí tưởng tượng của mình bay xa." />
+    <TextStringDefinition InstanceID="0x5C487772" TextString="Chán sách rồi" />
+    <TextStringDefinition InstanceID="0xFF1B14A3" TextString="Đọc sách vui thật… nhưng được một lúc cũng mệt, mình lại cáu." />
+    <TextStringDefinition InstanceID="0x1AC39DBB" TextString="Giận vì trang sách!" />
+    <TextStringDefinition InstanceID="0x0AA68ED4" TextString="Ugh! Trang này đến trang kia… Không còn muốn nghe chuyện nữa!" />
+    <TextStringDefinition InstanceID="0x9D3B9E0F" TextString="Hài lòng với việc nhảy" />
+    <TextStringDefinition InstanceID="0x0B8F8440" TextString="{0.SimFirstName} đang vui vẻ nhảy theo nhạc này. Hoan hô!" />
+    <TextStringDefinition InstanceID="0xE6B152BB" TextString="Thích nhảy quá mức" />
+    <TextStringDefinition InstanceID="0x82C305D4" TextString="Nếu cứ nhảy mãi, có lẽ mình sắp khóc rồi!" />
+    <TextStringDefinition InstanceID="0xBABF3FD2" TextString="Vũ công cá tính" />
+    <TextStringDefinition InstanceID="0xDAFB8183" TextString="Nhảy quá nhiều! Nếu không thay đổi cảnh vật sớm, có thể sẽ có một thiếu nhi núi lửa với hai chân trái đây!" />
+    <TextStringDefinition InstanceID="0xAA2737A3" TextString="Giai điệu vui vẻ" />
+    <TextStringDefinition InstanceID="0x0EFD406C" TextString="Ôi! Âm nhạc nghe hay quá. Thêm nữa!" />
+    <TextStringDefinition InstanceID="0xF4F64397" TextString="Âm thanh buồn bã" />
+    <TextStringDefinition InstanceID="0x040E7018" TextString="Cần thêm tiếng chuông!" />
+    <TextStringDefinition InstanceID="0x10141226" TextString="Cơn giận về nốt nhạc" />
+    <TextStringDefinition InstanceID="0xE910F2FF" TextString="Quá nhiều âm nhạc! Đã đến lúc thứ gì đó mới… nếu không thì!" />
+    <TextStringDefinition InstanceID="0xB5C2B773" TextString="Hưng phấn" />
+    <TextStringDefinition InstanceID="0x5A0B569C" TextString="Vui khi chơi đùa roughhouse! Cảm giác như mọi thứ đều có thể!" />
+    <TextStringDefinition InstanceID="0x43CBDA67" TextString="Chán chơi đùa roughhouse" />
+    <TextStringDefinition InstanceID="0xD9A764C8" TextString="Mình bị trầy xước khi chơi đùa và không muốn chơi nữa…" />
+    <TextStringDefinition InstanceID="0xD8B9D416" TextString="Bị chơi đùa!" />
+    <TextStringDefinition InstanceID="0x3B1C214F" TextString="Dừng lại đi! Mình đã chán chơi đùa roughhouse rồi!" />
+    <TextStringDefinition InstanceID="0x6FD92E1F" TextString="Tự hào về việc dùng bô" />
+    <TextStringDefinition InstanceID="0xDBDA2D70" TextString="{0.SimFirstName} thích dùng bô thay vì tã." />
+    <TextStringDefinition InstanceID="0x263B7393" TextString="Khối gỗ vui vẻ" />
+    <TextStringDefinition InstanceID="0xB1B49D3C" TextString="Xếp chồng, đập vỡ, hình dạng và gỗ, thật vui!" />
+    <TextStringDefinition InstanceID="0x20187E07" TextString="Chán khối gỗ rồi" />
+    <TextStringDefinition InstanceID="0x31297BE8" TextString="Quá. Chán. Về. Khối. Gỗ. Nếu không làm gì khác sớm, mình có thể khóc!" />
+    <TextStringDefinition InstanceID="0xC04D7AB6" TextString="Bị chặn bởi khối gỗ" />
+    <TextStringDefinition InstanceID="0x1B2EF76F" TextString="Ugh! Không còn khối gỗ nữa! Đa dạng, không phải khối gỗ, mới là gia vị của cuộc sống trẻ nhỏ." />
+    <TextStringDefinition InstanceID="0x254E4A10" TextString="Ngày với nhà búp bê" />
+    <TextStringDefinition InstanceID="0x210BF775" TextString="Búp bê thật… chúng nói không, làm không theo mình bảo. Nếu còn dành thêm thời gian với chúng, mình sẽ khóc òa." />
+    <TextStringDefinition InstanceID="0x59238B39" TextString="Điên vì búp bê" />
+    <TextStringDefinition InstanceID="0xCD1DCB26" TextString="Không! Không không không! Không còn búp bê nữa, nếu không mình sẽ hét lên!" />
+    <TextStringDefinition InstanceID="0xC58CFAB4" TextString="Đã nghỉ ngơi" />
+    <TextStringDefinition InstanceID="0x892E9481" TextString="{0.SimFirstName} đã nghỉ ngơi đầy đủ và sẵn sàng gầm lên!" />
+    <TextStringDefinition InstanceID="0xF887EC86" TextString="Đưa mình đi ngủ" />
+    <TextStringDefinition InstanceID="0xFD36F9DF" TextString="Mình vẫn còn mệt, sao chưa được đi ngủ? Ai đó đưa mình về giường đi..." />
+    <TextStringDefinition InstanceID="0xC33B73C4" TextString="Đã gặp ác mộng" />
+    <TextStringDefinition InstanceID="0x2C282CF1" TextString="{0.SimFirstName} đã gặp một giấc mơ tồi tệ. Chút an ủi là đủ để quay lại giấc ngủ." />
+    <TextStringDefinition InstanceID="0x3CBF2526" TextString="Khoảnh khắc bình yên" />
+    <TextStringDefinition InstanceID="0x7EA093FF" TextString="Ahh, đứa nhỏ đã đi ngủ, và cả thế giới cảm thấy… bình yên." />
+    <TextStringDefinition InstanceID="0x644A8935" TextString="Được yêu thương" />

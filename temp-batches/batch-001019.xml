@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x1A09A167" TextString="Chúc mừng" />
+    <TextStringDefinition InstanceID="0x7F2785AA" TextString="Thổ lộ tình cảm" />
+    <TextStringDefinition InstanceID="0x26FDAAFE" TextString="Thổ lộ tình cảm lo lắng" />
+    <TextStringDefinition InstanceID="0x2BDA68D6" TextString="Tiết lộ cảm tình" />
+    <TextStringDefinition InstanceID="0x5C6B5470" TextString="Tiết lộ khao khát" />
+    <TextStringDefinition InstanceID="0x7DBE2C61" TextString="Khen trang phục" />
+    <TextStringDefinition InstanceID="0x42A91EC4" TextString="Khen nhà cửa" />
+    <TextStringDefinition InstanceID="0x02120A25" TextString="Khen trang phục (hóa trang)" />
+    <TextStringDefinition InstanceID="0x00ECAA96" TextString="Khen sự lựa chọn màu sắc" />
+    <TextStringDefinition InstanceID="0xD7FC5FE9" TextString="Được {1.SimFirstName} khen ngợi" />
+    <TextStringDefinition InstanceID="0x3FDFD46B" TextString="Khen nghệ thuật" />
+    <TextStringDefinition InstanceID="0x1AED3307" TextString="Khuyến khích tặng lời khen" />
+    <TextStringDefinition InstanceID="0xBEF43DE7" TextString="Được {1.SimFirstName} khen ngợi" />
+    <TextStringDefinition InstanceID="0x04142C29" TextString="Khen ngoại hình" />
+    <TextStringDefinition InstanceID="0x9165F4AB" TextString="Khen ngoại hình một cách thô lỗ" />
+    <TextStringDefinition InstanceID="0x9BE006AD" TextString="Lời khen u ám" />
+    <TextStringDefinition InstanceID="0x5E448B18" TextString="Lời khen chua cay" />
+    <TextStringDefinition InstanceID="0x859CFF75" TextString="Khen trang phục cực kỳ đẹp" />
+    <TextStringDefinition InstanceID="0x0010A143" TextString="Khen ngoại hình một cách lộ liễu" />
+    <TextStringDefinition InstanceID="0x452D35FB" TextString="Tán dương vẻ đẹp" />
+    <TextStringDefinition InstanceID="0x3264D16C" TextString="Phàn nàn về cuộc sống tình cảm" />
+    <TextStringDefinition InstanceID="0xCEA08055" TextString="Phàn nàn về sự thiếu nước" />
+    <TextStringDefinition InstanceID="0x5443CA5E" TextString="Lắng nghe phàn nàn của {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x6C33B2E6" TextString="Phàn nàn về kích thước TV" />
+    <TextStringDefinition InstanceID="0x799BBEB1" TextString="Lắng nghe phàn nàn của {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x6D454193" TextString="Phàn nàn về các lớp học" />
+    <TextStringDefinition InstanceID="0xDF333B86" TextString="Lắng nghe phàn nàn của {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x61947DAE" TextString="Phàn nàn về các vấn đề" />
+    <TextStringDefinition InstanceID="0xC6BACD57" TextString="Phàn nàn về số phận khó lường" />
+    <TextStringDefinition InstanceID="0x091A50D7" TextString="Phàn nàn về sự thiếu quyền lực" />
+    <TextStringDefinition InstanceID="0xAB9BAEFF" TextString="Lắng nghe {1.SimFirstName} phàn nàn" />
+    <TextStringDefinition InstanceID="0x35E920C1" TextString="Phàn nàn về cha mẹ" />
+    <TextStringDefinition InstanceID="0x12CD197B" TextString="Lắng nghe những phàn nàn của {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xEE97A36D" TextString="Phàn nàn về giới trẻ địa phương" />
+    <TextStringDefinition InstanceID="0xEF635ADB" TextString="Lắng nghe phàn nàn của {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x22C41430" TextString="Lắng nghe phàn nàn của {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xADE49DE6" TextString="(Từ Sự nghiệp Cố vấn Tình cảm)" />
+    <TextStringDefinition InstanceID="0xC9E06AA7" TextString="Lắng nghe phàn nàn của {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x9E9416E9" TextString="Phàn nàn về mọi thứ" />
+    <TextStringDefinition InstanceID="0xB7981874" TextString="Lắng nghe phàn nàn của {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xF4B0D784" TextString="Phàn nàn về sự nhàm chán" />
+    <TextStringDefinition InstanceID="0xE5D12774" TextString="Lắng nghe phàn nàn của {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x8EA0D484" TextString="Phàn nàn về hóa đơn" />
+    <TextStringDefinition InstanceID="0x39A7B216" TextString="Phàn nàn về bánh trái cây (fruitcake)" />
+    <TextStringDefinition InstanceID="0x0F43718F" TextString="Bình tĩnh lại" />
+    <TextStringDefinition InstanceID="0x305639C9" TextString="Nghe về sự nghiệp tội phạm của {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xA1CC3F0B" TextString="Tự nhận mình là bộ não tội phạm" />
+    <TextStringDefinition InstanceID="0xC5C57A0D" TextString="Bị {1.SimFirstName} mắng mỏ" />
+    <TextStringDefinition InstanceID="0x4421FC4F" TextString="Mắng mỏ" />
+    <TextStringDefinition InstanceID="0x0D57883A" TextString="Thực hành mắng mỏ" />

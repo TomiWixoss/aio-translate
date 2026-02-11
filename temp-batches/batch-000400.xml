@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x014BA285" TextString="Sử dụng máy tính để chỉnh sửa tài liệu của khách hàng -- nằm trong danh mục Freelancer." />
+    <TextStringDefinition InstanceID="0xBA866488" TextString="Chỉnh Sửa Tài Liệu" />
+    <TextStringDefinition InstanceID="0x8BBD44A9" TextString="Sử dụng máy tính để viết báo cáo chi tiết về các lỗi ngữ pháp trong tài liệu của khách hàng -- nằm trong danh mục Freelancer." />
+    <TextStringDefinition InstanceID="0x9D62BE4C" TextString="Viết Báo Cáo Phản Hồi" />
+    <TextStringDefinition InstanceID="0x54CF200C" TextString="Sử dụng máy tính để nghiên cứu từ xa hệ thống bảo mật của khách hàng và tìm ra các điểm tấn công -- nằm trong danh mục Freelancer." />
+    <TextStringDefinition InstanceID="0x69C6952B" TextString="Nghiên Cứu Hệ Thống Bảo Mật" />
+    <TextStringDefinition InstanceID="0x63E7B53C" TextString="Sau khi trò chuyện với khách hàng, sử dụng máy tính để thiết lập bảng tính sẽ đáp ứng yêu cầu của họ -- nằm trong danh mục Freelancer." />
+    <TextStringDefinition InstanceID="0x851DAF7B" TextString="Thiết Lập Bảng Tính" />
+    <TextStringDefinition InstanceID="0x663A01D6" TextString="Như đã thảo luận với khách hàng của {0.SimFirstName}, hãy sử dụng máy tính để mod một trò chơi cho họ -- nằm trong danh mục Freelancer." />
+    <TextStringDefinition InstanceID="0x02A900F1" TextString="Mod Trò Chơi" />
+    <TextStringDefinition InstanceID="0xEBEE9881" TextString="Lấy thông tin từ tài liệu thiết kế của khách hàng và sử dụng máy tính để tạo một ứng dụng di động -- nằm trong danh mục Freelancer." />
+    <TextStringDefinition InstanceID="0xE79E1E24" TextString="Tạo Ứng Dụng Di Động" />
+    <TextStringDefinition InstanceID="0x03C4A408" TextString="Lấy thông tin từ tài liệu thiết kế của khách hàng và sử dụng máy tính để tạo một trò chơi video -- nằm trong danh mục Freelancer." />
+    <TextStringDefinition InstanceID="0x72215427" TextString="Tạo Trò Chơi Video" />
+    <TextStringDefinition InstanceID="0xF1E1528C" TextString="Sử dụng máy tính để tạo các trang web mà khách hàng yêu cầu -- nằm trong danh mục Freelancer." />
+    <TextStringDefinition InstanceID="0x0C248CAB" TextString="Tạo Trang Web" />
+    <TextStringDefinition InstanceID="0x1BD46E40" TextString="Sử dụng máy tính để viết hai virus riêng biệt đáp ứng nhu cầu của khách hàng -- nằm trong danh mục Freelancer." />
+    <TextStringDefinition InstanceID="0xC9F8EF5F" TextString="Tạo Virus" />
+    <TextStringDefinition InstanceID="0x4C1689FB" TextString="Sử dụng máy tính để xâm nhập vào hệ thống máy chủ của khách hàng mà không bị phát hiện bởi đội bảo mật IT của họ -- nằm trong danh mục Freelancer." />
+    <TextStringDefinition InstanceID="0x05BD6C72" TextString="Xâm Nhập Hệ Thống Máy Chủ" />
+    <TextStringDefinition InstanceID="0x194EB2B2" TextString="Sử dụng máy tính để xâm nhập vào Cơ Quan An Ninh Quốc Gia Sims -- nằm trong danh mục Freelancer." />
+    <TextStringDefinition InstanceID="0x9836789D" TextString="Xâm Nhập Cơ Quan An Ninh Quốc Gia Sims" />
+    <TextStringDefinition InstanceID="0x9F96702C" TextString="Sử dụng các lỗ hổng bảo mật mà {0.SimFirstName} đã xác định, hãy dùng máy tính để xâm nhập vào dịch vụ lưu trữ của khách hàng -- nằm trong danh mục Freelancer." />
+    <TextStringDefinition InstanceID="0x86845D0B" TextString="Xâm Nhập Dịch Vụ Lưu Trữ" />
+    <TextStringDefinition InstanceID="0x342647C2" TextString="Sử dụng máy tính để mã hóa tệp của khách hàng -- nằm trong danh mục Freelancer." />
+    <TextStringDefinition InstanceID="0xB5B0C10D" TextString="Mã Hóa Tệp" />
+    <TextStringDefinition InstanceID="0x72CF3277" TextString="Sử dụng máy tính để viết báo cáo bảo mật nêu rõ các lỗ hổng bảo mật của khách hàng -- nằm trong danh mục Freelancer." />
+    <TextStringDefinition InstanceID="0xB09F6F7E" TextString="Viết Báo Cáo" />
+    <TextStringDefinition InstanceID="0x5B090698" TextString="Sử dụng máy tính và nghiên cứu các hình ảnh tham khảo mà {0.SimFirstName} dự định vẽ -- nằm trong danh mục Freelancer." />
+    <TextStringDefinition InstanceID="0x693AB057" TextString="Nghiên Cứu Hình Ảnh Tham Khảo" />
+    <TextStringDefinition InstanceID="0x21008549" TextString="Sử dụng máy tính để nghiên cứu các tài liệu thiết kế mà khách hàng đã cung cấp -- nằm trong danh mục Freelancer." />
+    <TextStringDefinition InstanceID="0x756FAAAC" TextString="Nghiên Cứu Tài Liệu Thiết Kế" />
+    <TextStringDefinition InstanceID="0xCAE0549B" TextString="Sử dụng Digitalistic Sketchpad để tạo một bản giả mạo để nộp cho khách hàng -- nằm trong danh mục Freelancer." />
+    <TextStringDefinition InstanceID="0x8589A052" TextString="Tạo Bản Giả Mạo Trên Sketchpad" />
+    <TextStringDefinition InstanceID="0x693AF7AE" TextString="Sử dụng Digitalistic Sketchpad để tạo bức vẽ minh họa bất kỳ kích thước nào. Thực hành này sẽ giúp {0.SimFirstName} chuẩn bị cho cuộc họp với khách hàng của {M0.anh ấy}{F0.cô ấy}." />
+    <TextStringDefinition InstanceID="0xED360C69" TextString="Tạo Bức Vẽ Minh Họa Trên Sketchpad" />
+    <TextStringDefinition InstanceID="0xB09CFF5E" TextString="Sử dụng Digitalistic Sketchpad để tạo chân dung của Sim mà {0.SimFirstName} đã nghiên cứu hình ảnh -- nằm trong danh mục Freelancer." />
+    <TextStringDefinition InstanceID="0xD7A00DB9" TextString="Vẽ Chân Dung Trên Sketchpad" />
+    <TextStringDefinition InstanceID="0xFA6995C3" TextString="Nhấp vào {0.SimFirstName} và chọn Gặp Khách Hàng -- nằm trong danh mục Freelancer." />
+    <TextStringDefinition InstanceID="0xDF4E8B1A" TextString="Gặp Khách Hàng" />
+    <TextStringDefinition InstanceID="0x5B7B5488" TextString="Nhấp vào {0.SimFirstName} và chọn Gặp Lớp -- nằm trong danh mục Freelancer." />
+    <TextStringDefinition InstanceID="0x10BD45A7" TextString="Gặp Lớp" />
+    <TextStringDefinition InstanceID="0xE37AE54E" TextString="Tìm bức vẽ splash art trong kho đồ của {0.SimFirstName} và nộp nó cho khách hàng phê duyệt.\n\n• Nếu bức vẽ của {0.SimFirstName} bị khách hàng từ chối, {M0.anh ấy}{F0.cô ấy} có thể sử dụng Digitalistic Sketchpad để Chỉnh Sửa Nội Dung Bị Từ Chối. Sau khi hoàn thành chỉnh sửa, {M0.anh ấy}{F0.cô ấy} có thể thử nộp lại nó cho khách hàng phê duyệt." />
+    <TextStringDefinition InstanceID="0xE55DB8C9" TextString="Lấy Splash Art Được Phê Duyệt" />
+    <TextStringDefinition InstanceID="0x8F5E1ABC" TextString="Tìm bức chân dung trong kho đồ của {0.SimFirstName} và nộp nó cho khách hàng phê duyệt.\n\n• Nếu bức vẽ của {0.SimFirstName} bị khách hàng từ chối, {M0.anh ấy}{F0.cô ấy} có thể sử dụng Digitalistic Sketchpad để Chỉnh Sửa Nội Dung Bị Từ Chối. Sau khi hoàn thành chỉnh sửa, {M0.anh ấy}{F0.cô ấy} có thể thử nộp lại nó cho khách hàng phê duyệt." />
+    <TextStringDefinition InstanceID="0xACF37FFB" TextString="Lấy Chân Dung Được Phê Duyệt" />
+    <TextStringDefinition InstanceID="0xAADC0D2C" TextString="Tìm biểu tượng được vẽ trong kho đồ của {0.SimFirstName} và nộp nó cho khách hàng phê duyệt.\n\n• Nếu bức vẽ của {0.SimFirstName} bị khách hàng từ chối, {M0.anh ấy}{F0.cô ấy} có thể sử dụng Digitalistic Sketchpad để Chỉnh Sửa Nội Dung Bị Từ Chối. Sau khi hoàn thành chỉnh sửa, {M0.anh ấy}{F0.cô ấy} có thể thử nộp lại nó cho khách hàng phê duyệt." />
+    <TextStringDefinition InstanceID="0xD615F40B" TextString="Lấy Biểu Tượng Được Phê Duyệt" />
+    <TextStringDefinition InstanceID="0xD36E3805" TextString="Tìm các biểu tượng được vẽ trong kho đồ của {0.SimFirstName} và nộp chúng cho khách hàng phê duyệt.\n\n• Nếu các bức vẽ của {0.SimFirstName} bị khách hàng từ chối, {M0.anh ấy}{F0.cô ấy} có thể sử dụng Digitalistic Sketchpad để Chỉnh Sửa Nội Dung Bị Từ Chối. Sau khi hoàn thành chỉnh sửa, {M0.anh ấy}{F0.cô ấy} có thể thử nộp lại chúng cho khách hàng phê duyệt." />
+    <TextStringDefinition InstanceID="0xE8D4C508" TextString="Lấy Các Biểu Tượng Được Phê Duyệt" />

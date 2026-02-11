@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x4F5460F2" TextString="Ảnh đẹp quá! Hoàn hảo. {0.SimFirstName} đã nhận thêm {1.Number} Người theo dõi. {M0.He}{F0.She} bây giờ có tổng cộng {2.Number} Người theo dõi." />
+    <TextStringDefinition InstanceID="0x3CF6DE60" TextString="Bạn nghĩ bức ảnh đó đủ tốt để chia sẻ? Bạn xứng đáng bị cười chê..." />
+    <TextStringDefinition InstanceID="0x9EF9F93B" TextString="Một bức ảnh thành công được gửi ra khoảng trống của Web. Ai có thể yêu cầu thêm? {0.SimFirstName} đã nhận thêm {1.Number} Người theo dõi. {M0.He}{F0.She} bây giờ có tổng cộng {2.Number} Người theo dõi." />
+    <TextStringDefinition InstanceID="0x86B03DDE" TextString="ẢNH TỐT NHẤT MỌI THỜI! Họ không thể chờ bức ảnh tiếp theo của bạn. {0.SimFirstName} đã nhận thêm {1.Number} Người theo dõi. {0.SimFirstName} bây giờ có tổng cộng {2.Number} Người theo dõi." />
+    <TextStringDefinition InstanceID="0x6E9D09D2" TextString="Thật thất bại, người xem gần như cười nó ra khỏi web." />
+    <TextStringDefinition InstanceID="0x9B202A48" TextString="Bức ảnh của bạn bị downvote nhanh đến mức không buồn cười." />
+    <TextStringDefinition InstanceID="0x7DB1309D" TextString="Đó là sự lãng phí thời gian cho một bức ảnh mà mọi người ghét." />
+    <TextStringDefinition InstanceID="0x4906D153" TextString="Bức ảnh hoàn hảo cho tâm trạng hôm nay. Người theo dõi của bạn cũng cảm thấy như vậy. {0.SimFirstName} đã nhận thêm {1.Number} Người theo dõi. {M0.He}{F0.She} bây giờ có tổng cộng {2.Number} Người theo dõi." />
+    <TextStringDefinition InstanceID="0x02E70E87" TextString="Bức ảnh dễ thương quá! Mọi người đều yêu thích nó. {0.SimFirstName} đã nhận thêm {1.Number} Người theo dõi. {M0.He}{F0.She} bây giờ có tổng cộng {2.Number} Người theo dõi." />
+    <TextStringDefinition InstanceID="0x1FD74581" TextString="Cập nhật Trạng thái Mạng xã hội" />
+    <TextStringDefinition InstanceID="0x4A4700B8" TextString="Xóa Hồ sơ Mạng xã hội" />
+    <TextStringDefinition InstanceID="0x91A0395F" TextString="Bạn đã ra khỏi Lưới! {0.SimFirstName} đã xóa Hồ sơ Mạng xã hội của họ. Tất cả Người theo dõi đã mất." />
+    <TextStringDefinition InstanceID="0xA82B8D94" TextString="Tạo Hồ sơ Mạng xã hội" />
+    <TextStringDefinition InstanceID="0x2D472155" TextString="{0.SimFirstName} đã tạo một Hồ sơ Mạng xã hội mới để chia sẻ thông tin tinh tế trên internet với tất cả bạn bè trực tuyến mới của họ." />
+    <TextStringDefinition InstanceID="0x1ECD4B72" TextString="{0.SimFirstName} đã tạo một Hồ sơ Mạng xã hội mới. Không ai có thể đi đến bất kỳ đâu trong phạm vi Mạng xã hội nếu họ không có sự hiện diện trực tuyến. Sử dụng Hồ sơ Mạng xã hội của bạn để nhận người theo dõi, mở rộng mạng lưới, và trở thành một cỗ máy trực tuyến." />
+    <TextStringDefinition InstanceID="0xA22F1AE9" TextString="Kiểm tra Hồ sơ của Emit" />
+    <TextStringDefinition InstanceID="0x7A5D51C2" TextString="Kiểm tra Tổng số Người theo dõi" />
+    <TextStringDefinition InstanceID="0x3F84E446" TextString="{0.SimFirstName} có {1.Number} {S1.follower}{P1.followers}. Đăng thêm! Đăng ngay!" />
+    <TextStringDefinition InstanceID="0x5535B699" TextString="{0.SimFirstName} có {1.Number} {S1.follower}{P1.followers}. Đã đến lúc tìm ai đó lớn hơn để lan truyền tên {0.SimFirstName}." />
+    <TextStringDefinition InstanceID="0xC7057A5C" TextString="{0.SimFirstName} có {1.Number} {S1.follower}{P1.followers}. Đó là một sự khởi đầu, nhưng {0.SimFirstName} nên tìm cách mở rộng mạng lưới của họ." />
+    <TextStringDefinition InstanceID="0x7D8F795A" TextString="{0.SimFirstName} có {1.Number} {S1.follower}{P1.followers}. Wow! Bây giờ là lúc đi lấy thêm!" />
+    <TextStringDefinition InstanceID="0x9D44B918" TextString="{0.SimFirstName} có {1.Number} {S1.follower}{P1.followers}. {0.SimFirstName} cần thêm người theo dõi!" />
+    <TextStringDefinition InstanceID="0x36EA0D56" TextString="Gửi Thư Chuỗi" />
+    <TextStringDefinition InstanceID="0xE4CB8085" TextString="Vậy bạn nhận được một thư chuỗi trong hộp thư đến và quyết định chuyển nó cho tôi? Bốn từ... Chết. Trong. Một. Lửa." />
+    <TextStringDefinition InstanceID="0x41BFC2EF" TextString="Bạn có nhận ra rằng bằng cách gửi cho tôi thư chuỗi đó, bạn có thể đã lộ địa chỉ email của tôi cho vô số danh sách email spam, phải không? Tôi đã bị chôn vở trong email rồi, đây là điều cuối cùng tôi cần trong cuộc đời!" />
+    <TextStringDefinition InstanceID="0xADB47920" TextString="Tại sao bạn lại gửi thư chuỗi này cho tôi!? Bây giờ tôi sẽ gặp xui xẻo trong sáu năm tới nếu tôi không chuyển nó cho năm mươi người khác trong vòng 24 giờ!" />
+    <TextStringDefinition InstanceID="0xFE56BA77" TextString="Thư chuỗi bạn gửi cho tôi rõ ràng là một trò bán chịu tinh vi. Bạn có thể không bao gồm tôi vào những chuyện vô nghĩa như vậy trong tương lai được không?" />
+    <TextStringDefinition InstanceID="0xCF0B6E42" TextString="Tôi chưa bao giờ nghĩ rằng bạn đủ mê tín để thực sự tin vào một thư chuỗi. Hãy giữ những thứ rác rưởi đó cho chính bạn!" />
+    <TextStringDefinition InstanceID="0x9F5379A8" TextString="Này, tôi nhận được thư chuỗi ngớ ngẩn của bạn... và vâng, tôi đã xóa nó ngay lập tức. Tôi thề nếu bất cứ điều gì tồi tệ xảy ra với tôi trong vài ngày tới bạn sẽ gặp VẤN ĐỀ LỚN!" />
+    <TextStringDefinition InstanceID="0xB9A626B5" TextString="Tìm kiếm Bản vẽ Ngân hàng" />
+    <TextStringDefinition InstanceID="0xA3CFF80E" TextString="Aha! Các bản vẽ ngân hàng đã được thu thập." />
+    <TextStringDefinition InstanceID="0x4CF4DAD6" TextString="Chết tiệt! Các bản vẽ không tìm thấy ở đâu. Có lẽ thử lại sau sẽ cho kết quả tốt hơn." />
+    <TextStringDefinition InstanceID="0xEA58EE9C" TextString="Hủy Thói quen" />
+    <TextStringDefinition InstanceID="0x6379C395" TextString="Hủy Thói quen" />
+    <TextStringDefinition InstanceID="0x4B2B0D67" TextString="Bạn có chắc chắn muốn hủy cuốn sách của mình không?" />
+    <TextStringDefinition InstanceID="0x254F38DE" TextString="Hủy Sách" />
+    <TextStringDefinition InstanceID="0x7FAFB83C" TextString="{2.String}" />
+    <TextStringDefinition InstanceID="0x6C0701FF" TextString="Hủy Cuốn sách?" />
+    <TextStringDefinition InstanceID="0xEB67CA2B" TextString="Viết Lại Tóm tắt" />
+    <TextStringDefinition InstanceID="0x56FC37C5" TextString="{2.String}" />
+    <TextStringDefinition InstanceID="0x9809C311" TextString="Tiếp tục Soạn Thói quen" />
+    <TextStringDefinition InstanceID="0x690C42E6" TextString="Say mê Nghiên cứu" />
+    <TextStringDefinition InstanceID="0xD70393BA" TextString="Nghiên cứu kỹ lưỡng cho phép bạn nâng tất cả kỹ năng của mình cùng một lúc!" />
+    <TextStringDefinition InstanceID="0x49E58DBA" TextString="Nghiên cứu Tài liệu Nghệ thuật" />
+    <TextStringDefinition InstanceID="0xAC81E7F5" TextString="Vẫn còn cảm thấy tác động của lần nghiên cứu trước." />
+    <TextStringDefinition InstanceID="0xD2BEE510" TextString="Nghiên cứu Lời tán tỉnh" />
+    <TextStringDefinition InstanceID="0x9004CD08" TextString="Đôi khi chỉ chuẩn bị cho tình yêu cũng có thể đưa bạn vào cảm xúc cho nó" />
+    <TextStringDefinition InstanceID="0xDA89B9F5" TextString="Đổi Tên" />
+    <TextStringDefinition InstanceID="0xFC08A3BB" TextString="Đăng ký với Bộ Lao động" />
+    <TextStringDefinition InstanceID="0x8F180390" TextString="Hoàn thiện Thói quen Hài kịch" />

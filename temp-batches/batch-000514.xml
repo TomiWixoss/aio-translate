@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x6D57B6BC" TextString="Tràn đầy năng lượng nhờ nghệ thuật" />
+    <TextStringDefinition InstanceID="0xDE1641B9" TextString="Áp phích truyền cảm hứng, những thành tựu phi thường về sức mạnh, và đôi khi nghệ thuật chỉ khiến bạn muốn vận động!" />
+    <TextStringDefinition InstanceID="0x8F6762A7" TextString="Tự tin nhờ nghệ thuật" />
+    <TextStringDefinition InstanceID="0x74C55E08" TextString="Một số tác phẩm nghệ thuật toát lên quá nhiều sự tự tin đến mức nó không thể không lan tỏa đến người xem." />
+    <TextStringDefinition InstanceID="0x9BAD6A4E" TextString="Tức giận vì nghệ thuật" />
+    <TextStringDefinition InstanceID="0x3374C9F7" TextString="Một số nghệ thuật chỉ khiến bạn khó chịu. Giải pháp? Đừng nhìn nó!" />
+    <TextStringDefinition InstanceID="0x2A5E2DFF" TextString="Kẻ chăn dẫn của Tư lệnh" />
+    <TextStringDefinition InstanceID="0x638D0DD0" TextString="Cứu vũ trụ đòi hỏi những quyết định khó khăn, nhưng {0.SimFirstName} hoàn toàn đủ sức!" />
+    <TextStringDefinition InstanceID="0xFA8EFF95" TextString="Lời nguyền đảo ngược!" />
+    <TextStringDefinition InstanceID="0xA66FE78A" TextString="{0.SimFirstName} đã xua tan lời nguyền của thần linh, nhưng công chúa lại ở trong một trò chơi điện tử khác." />
+    <TextStringDefinition InstanceID="0x2346ABB2" TextString="Tức giận bỏ chơi" />
+    <TextStringDefinition InstanceID="0x0BDFFFE3" TextString="Nếu trò chơi được cho là vui vẻ, tại sao chúng lại khiến {0.SimFirstName} tức giận?" />
+    <TextStringDefinition InstanceID="0x7921B116" TextString="Cần một chút tốc độ" />
+    <TextStringDefinition InstanceID="0x355DD04F" TextString="Vroom vroom!" />
+    <TextStringDefinition InstanceID="0xCCFAE960" TextString="Bậc thầy đua xe!" />
+    <TextStringDefinition InstanceID="0xE428D5E5" TextString="Bỏ lại đối thủ trong bụi bặm!" />
+    <TextStringDefinition InstanceID="0xF05E89D8" TextString="Người thua đầu tiên" />
+    <TextStringDefinition InstanceID="0x2F02BB8D" TextString="Ít nhất {0.SimFirstName} cũng không về cuối cùng!" />
+    <TextStringDefinition InstanceID="0x62CD3BA4" TextString="Anh hùng minigame" />
+    <TextStringDefinition InstanceID="0xEE07F751" TextString="{0.SimFirstName} là nhà vô địch của sự tập trung ngắn hạn!" />
+    <TextStringDefinition InstanceID="0x0D67429A" TextString="Chuyên gia party game!" />
+    <TextStringDefinition InstanceID="0xE5FDAF3B" TextString="{M0.Vua}{F0.Nữ hoàng} của ngọn đồi ảo!" />
+    <TextStringDefinition InstanceID="0x4C3A1482" TextString="Trò nghịch tối" />
+    <TextStringDefinition InstanceID="0x11227DD3" TextString="Trò chơi hay! {0.SimFirstName} không thắng, nhưng {M0.he}{F0.she} sẽ đánh bại họ lần sau!" />
+    <TextStringDefinition InstanceID="0xDE315792" TextString="Lãng phí thời gian" />
+    <TextStringDefinition InstanceID="0x9F09FC43" TextString="Đầu tiên, nó lấy tiền của {0.SimFirstName}... SAU ĐÓ, nó không cho {M0.him}{F0.her} món đồ. BÂY GIỜ, nó &lt;i&gt;từ chối&lt;/i&gt; công lý cho {M0.him}{F0.her} ngay cả sau khi lắc mạnh! Thật là táo bạo!" />
+    <TextStringDefinition InstanceID="0x01DAF3F3" TextString="Quá nóng" />
+    <TextStringDefinition InstanceID="0xC20CA81C" TextString="Một chút ấm áp là tốt. Quá nhiều thì... ức! {0.SimFirstName} không nên ăn hoặc uống thứ gì nóng khi {M0.he}{F0.she} đã ấm rồi." />
+    <TextStringDefinition InstanceID="0x107C93E3" TextString="Quá lạnh" />
+    <TextStringDefinition InstanceID="0xC7B293AC" TextString="{0.SimFirstName} đã lạnh rồi khi {M0.he}{F0.she} ăn/ uống thứ gì đó lạnh. Giờ thì có vẻ {M0.he}{F0.she} đầy ắp sự hối tiếc và băng giá. " />
+    <TextStringDefinition InstanceID="0x86E3BD5F" TextString="Cơn giận do máy gây ra" />
+    <TextStringDefinition InstanceID="0xA79448B0" TextString="Bạn không thể tin một cỗ máy! Chúng lấy &lt;i&gt;MỌI THỨ&lt;/i&gt; từ bạn! Đầu tiên là tiền của {0.SimFirstName}. Giờ là lòng tự hào của {M0.his}{F0.her}! Nó dám thế?!" />
+    <TextStringDefinition InstanceID="0xBA027087" TextString="Hồi tưởng về việc bị đè bẹp" />
+    <TextStringDefinition InstanceID="0xB1303F68" TextString="Mọi chuyện xảy ra nhanh quá... {0.SimFirstName} chỉ muốn lấy lại món đồ của {M0.his}{F0.her} mà máy bán hàng đã nuốt. Tại sao nó phải nuốt chúng?! Tại sao nó phải đè nát {0.SimPronounObjective}?!" />
+    <TextStringDefinition InstanceID="0x02513C35" TextString="Nước Sinh Thể Dải Ngân Hà" />
+    <TextStringDefinition InstanceID="0xE65FECAA" TextString="Nước Sinh Thể Dải Ngân Hà: nước tinh khiết nhất vùng đất! (Và là lựa chọn hàng đầu cho bất kỳ Sim nào cần giải khát!)" />
+    <TextStringDefinition InstanceID="0x48AA68B1" TextString="Bánh Ribbon Trắng Bông" />
+    <TextStringDefinition InstanceID="0x6DD8628E" TextString="Đó có phải là một đám mây nhỏ, uy nghi? Không! Đó là một chiếc bánh ribbon cổ điển, đậm đà, hoàn hảo với một chút bông phồng... trong &lt;i&gt;từng&lt;/i&gt; và &lt;i&gt;mọi&lt;/i&gt; miếng cắn." />
+    <TextStringDefinition InstanceID="0x915A77F2" TextString="Đang thèm &lt;i&gt;đường&lt;/i&gt;" />
+    <TextStringDefinition InstanceID="0xAA6F9223" TextString="Liệu đó có phải là tình yêu khi {0.SimFirstName} lần đầu thấy chiếc Cupid's Cupcake? Nếu không... thì nó ở đây! Bởi vì bụng của {M0.his}{F0.her} đầy ắp tình yêu!" />
+    <TextStringDefinition InstanceID="0x841ECCC1" TextString="Thư giãn" />
+    <TextStringDefinition InstanceID="0xCE71353E" TextString="{0.SimFirstName} cảm thấy cực kỳ mát mẻ và tươi mới sau món ăn nhẹ đá lạnh đó." />
+    <TextStringDefinition InstanceID="0x1D2A7D93" TextString="Choáng váng và bối rối" />
+    <TextStringDefinition InstanceID="0x07AB6B3C" TextString="Ai mà không thích pizza? Và ai mà không thích pizza với vị ngọt và chua của gà?" />
+    <TextStringDefinition InstanceID="0x9C896F77" TextString="Hương vị được nâng cao!" />
+    <TextStringDefinition InstanceID="0x4D91BD78" TextString="Một tổng hợp ngon lành của những nguyên liệu tuyệt vời nhất từng được kết hợp thành một bữa ăn! Chúng tôi xin giới thiệu đến bạn Black 5 Burger!" />
+    <TextStringDefinition InstanceID="0x405A04CE" TextString="Ăn tiền của tôi" />
+    <TextStringDefinition InstanceID="0xFCB64577" TextString="{0.SimFirstName} trả tiền. {0.SimFirstName} nhận được món đồ. Đó là cách nó &lt;i&gt;được&lt;/i&gt; dự định để hoạt động, ông Máy Bán Hàng. Đó là cách nó &lt;i&gt;được&lt;/i&gt; dự định để hoạt động. Không có gì frustrate hơn việc mất Simoleons mà không nhận lại gì." />
+    <TextStringDefinition InstanceID="0x489AC21A" TextString="Ấm áp" />
+    <TextStringDefinition InstanceID="0xC8CDB1BB" TextString="Không có gì tuyệt hơn cảm giác ấm áp bên trong mà một Sim cảm thấy sau khi ăn no những thức ăn và đồ uống nóng hổi." />

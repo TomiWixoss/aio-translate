@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xD7B8CCCF" TextString="Chưa chọn bánh cưới" />
+    <TextStringDefinition InstanceID="0x7C7FAED6" TextString="Sau khi đã lên lịch cho lễ cưới, hãy nhấp vào chiếc bánh đã mua hoặc làm và chọn 'Chọn làm bánh cho lễ cưới'. Chiếc bánh này có thể được thay thế bằng cách thực hiện tương tác tương tự trên một chiếc bánh khác." />
+    <TextStringDefinition InstanceID="0x9B678821" TextString="Đang có khuyến mãi! Các Sim sẽ đổ về lô đất này để tìm kiếm món hời. Hãy bày ra những món đồ tốt nhất để bán!" />
+    <TextStringDefinition InstanceID="0x844F9E81" TextString="Bán đồ trong sân" />
+    <TextStringDefinition InstanceID="0x3A0012D6" TextString="Bán đồ ngoài phố" />
+    <TextStringDefinition InstanceID="0xF392823B" TextString="Ai cũng có thể tổ chức tiệc, nhưng một bữa tiệc hóa trang - ừ thì, sẽ khiến mọi người bàn tán. Và cười. Và nếu họ cười nhạo bạn thì sao? Bạn đã ngụy trang rồi, nhớ chứ?" />
+    <TextStringDefinition InstanceID="0x22C97787" TextString="Bữa tiệc ngụy trang" />
+    <TextStringDefinition InstanceID="0x664BC9A3" TextString="Tổ chức một bữa tiệc nướng ngoài trời hấp dẫn với đầy đủ món ăn! Mặc chiếc tạp dệt đẹp nhất và chuẩn bị những câu đùa cũ nhất để hoàn hảo cho nghệ thuật nướng thịt." />
+    <TextStringDefinition InstanceID="0xE83D7AAF" TextString="Tiệc nướng ngoài trời" />
+    <TextStringDefinition InstanceID="0x6AA97482" TextString="Bạn không thể làm điều này trong khi kẻ trộm đang ở trên lô đất." />
+    <TextStringDefinition InstanceID="0x0A029D16" TextString="Đồ đã bị trộm!" />
+    <TextStringDefinition InstanceID="0x68FF26A8" TextString="Các vật phẩm sau đã bị trộm:\n{0.String}" />
+    <TextStringDefinition InstanceID="0x6A10F196" TextString="Đồ đã lấy lại!" />
+    <TextStringDefinition InstanceID="0xE3E34728" TextString="Các vật phẩm sau đã được trả lại vào Kho đồ của Hộ gia đình:\n{0.String}" />
+    <TextStringDefinition InstanceID="0x24C2B04B" TextString="Bạn không thể sửa đổi một lô đất trong khi kẻ trộm còn ở đây." />
+    <TextStringDefinition InstanceID="0xD40CABD6" TextString="Thật một đám cưới tuyệt vời! Thậm chí còn có một bình hoa trung tâm thừa còn lại trong kho đồ của các Sim." />
+    <TextStringDefinition InstanceID="0xB5D46F13" TextString="Phần thưởng cấp Vàng bao gồm một thiết bị nhà bếp mới." />
+    <TextStringDefinition InstanceID="0x787480A7" TextString="Thật một đám cưới tuyệt vời! Khách mời ấn tượng với lễ hội đến mức họ để lại cho các Sim một vài thiết bị và vật trang trí trong kho đồ của hộ gia đình." />
+    <TextStringDefinition InstanceID="0xC555D4C5" TextString="Phần thưởng cấp Đồng bao gồm một cuốn sách mới." />
+    <TextStringDefinition InstanceID="0xE1E8C3ED" TextString="Thôi nào, các Sim của bạn ít nhất đã tham dự lễ thành hôn rồi. Bạn sẽ tìm thấy một món quà cưới trong Kho đồ của Hộ gia đình của họ." />
+    <TextStringDefinition InstanceID="0xF623D31A" TextString="Không có sẵn cho Robot." />
+    <TextStringDefinition InstanceID="0x59978C87" TextString="Sim Không Bao Giờ Mệt không bao giờ cần ngủ." />
+    <TextStringDefinition InstanceID="0x10283C5C" TextString="Đã đạt tối đa Kinh nghiệm Đũa" />
+    <TextStringDefinition InstanceID="0xDF30C007" TextString="Thành thạo Đũa" />
+    <TextStringDefinition InstanceID="0xB2F999E3" TextString="Nhà thám hiữu Truyền cảm hứng" />
+    <TextStringDefinition InstanceID="0x9A6FC09C" TextString="Các Nhà thám hiữu Truyền cảm hứng xây dựng mối quan hệ và học kỹ năng nhanh hơn khi ở bên ngoài khu phố của họ." />
+    <TextStringDefinition InstanceID="0x3A732DAA" TextString="Đã thu thập và nộp loại Growfruit mà Jasmine yêu cầu." />
+    <TextStringDefinition InstanceID="0xF5B97B75" TextString="Thử thách Growfruit Hoàn thành!" />
+    <TextStringDefinition InstanceID="0x433B8A7E" TextString="Chúc mừng!\n\nChậu cây Growfruit cho Thử thách giờ đây có thể mua được trong Chế độ Xây dựng, ở mục Hoạt động ngoài trời." />
+    <TextStringDefinition InstanceID="0x693561DC" TextString="Đã thu thập và nộp một loại Growfruit Chất lượng Hoàn hảo cho Jasmine." />
+    <TextStringDefinition InstanceID="0x6B30C187" TextString="Thử thách Growfruit Hoàn hảo Hoàn thành!" />
+    <TextStringDefinition InstanceID="0xCC9642B4" TextString="Chúc mừng!\n\nChậu cây Growfruit Hoàn hảo cho Thử thách giờ đây có thể mua được trong Chế độ Xây dựng, ở mục Hoạt động ngoài trời." />
+    <TextStringDefinition InstanceID="0xAF1A4DC2" TextString="Chủ nhà Tuyệt vời" />
+    <TextStringDefinition InstanceID="0x305F8886" TextString="Bạn tri kỷ" />
+    <TextStringDefinition InstanceID="0xB43EC31C" TextString="Người được yêu mến" />
+    <TextStringDefinition InstanceID="0x53187555" TextString="Hài hước" />
+    <TextStringDefinition InstanceID="0xA8116F37" TextString="Thuốc phép Dâm dục và Vui vẻ" />
+    <TextStringDefinition InstanceID="0x57E17590" TextString="Kiếm được các loại Thuốc phép giúp Sim của bạn xây dựng Mối quan hệ nhanh hơn!" />
+    <TextStringDefinition InstanceID="0x2376ADA4" TextString="Bạn đã hoàn thành Nhiệm vụ Khám phá Luôn di chuyển và kiếm được một số thuốc phép!" />
+    <TextStringDefinition InstanceID="0x4BB837F4" TextString="Thuốc phép" />
+    <TextStringDefinition InstanceID="0x88970683" TextString="Kiếm được các loại Thuốc phép có thể giúp các Sim của bạn học Kỹ năng nhanh hơn!" />
+    <TextStringDefinition InstanceID="0x2E6CFC1F" TextString="Bạn đã hoàn thành Nhiệm vụ Khám phá Sim Tài năng và kiếm được một số thuốc phép!" />
+    <TextStringDefinition InstanceID="0xDFB2B93C" TextString="Điểm Sự kiện!" />
+    <TextStringDefinition InstanceID="0xFFB1F72B" TextString="Điểm Sự kiện cần để mở khóa các phần thưởng Sự kiện mới. Bạn không thực sự chi chúng, bạn chỉ thu thập chúng. Chọn nút Sự kiện hoặc Tab Sự kiện để xem chi tiết." />
+    <TextStringDefinition InstanceID="0xE1FF0DD0" TextString="Bạn đã hoàn thành Nhiệm vụ Khám phá Bạn và Điện thoại và kiếm được 6.000 Simoleon!" />
+    <TextStringDefinition InstanceID="0xD8711D57" TextString="Bạn đã hoàn thành Nhiệm vụ Khám phá Bạn và Điện thoại và kiếm được 4.000 Simoleon!" />
+    <TextStringDefinition InstanceID="0x5FC02D9F" TextString="Simoleon!" />
+    <TextStringDefinition InstanceID="0xE9AA9358" TextString="Simoleon là tiền tệ của các Sim và được dùng để mua những thứ như pizza... từ điện thoại của bạn!" />
+    <TextStringDefinition InstanceID="0x1B2F340C" TextString="Bạn đã hoàn thành Nhiệm vụ Khám phá Bạn và Điện thoại và kiếm được 2.000 Simoleon!" />
+    <TextStringDefinition InstanceID="0xD22AF410" TextString="Thuốc phép Nhu cầu" />

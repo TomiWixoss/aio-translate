@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x7CDF06A4" TextString="Gọi Thú Cưng" />
+    <TextStringDefinition InstanceID="0xD0D52BB1" TextString="Gọi {2.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xFFDB2BCF" TextString="Chọn Giường" />
+    <TextStringDefinition InstanceID="0x374C3D2B" TextString="Chọn Túi Ngủ" />
+    <TextStringDefinition InstanceID="0xDE952998" TextString="Dạy Hình Dạng" />
+    <TextStringDefinition InstanceID="0xAF36867C" TextString="Bắt Đầu Cuộc Thi Bắn Cung Cùng" />
+    <TextStringDefinition InstanceID="0x70D19096" TextString="Đi Làm" />
+    <TextStringDefinition InstanceID="0xF8831901" TextString="Đi Học" />
+    <TextStringDefinition InstanceID="0xABE83794" TextString="Để rời việc sớm, nhấp vào Đồng Hồ bên cạnh Hiệu Suất Công Việc, ở phía trên bên trái." />
+    <TextStringDefinition InstanceID="0xD238C400" TextString="Đi Đến Nơi Ở" />
+    <TextStringDefinition InstanceID="0x0B48F2F5" TextString="Nổi Lưng" />
+    <TextStringDefinition InstanceID="0x364F634B" TextString="Nháy Mắt Hoang Dã" />
+    <TextStringDefinition InstanceID="0xB4FC1284" TextString="Theo Dõi {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x76328C56" TextString="Thức Dậy" />
+    <TextStringDefinition InstanceID="0x5B58C29D" TextString="Bị Gây Mê" />
+    <TextStringDefinition InstanceID="0xA3015B69" TextString="Xiên Quả" />
+    <TextStringDefinition InstanceID="0x3F830D5C" TextString="Nói Chuyện" />
+    <TextStringDefinition InstanceID="0x1ECC0E4B" TextString="Học Nói" />
+    <TextStringDefinition InstanceID="0xD444387D" TextString="Dạy Nói" />
+    <TextStringDefinition InstanceID="0xAF4B8807" TextString="Lắng Nghe" />
+    <TextStringDefinition InstanceID="0xA9FFB569" TextString="Lắng Nghe {0.String}" />
+    <TextStringDefinition InstanceID="0xCB5B2480" TextString="Thì Thầm" />
+    <TextStringDefinition InstanceID="0x7D83F214" TextString="Đặt {1.SimFirstName} Ở Đây" />
+    <TextStringDefinition InstanceID="0x02793F9E" TextString="Nói Chuyện Với Bản Thân" />
+    <TextStringDefinition InstanceID="0xBBED090C" TextString="(Từ Bơi Dưới Trăng Tròn ở Hồ Lunvik)" />
+    <TextStringDefinition InstanceID="0xA4C491DB" TextString="Đi Khỏa Thân!" />
+    <TextStringDefinition InstanceID="0x1336DC0D" TextString="Không thể kết hôn trên Batuu." />
+    <TextStringDefinition InstanceID="0x27E6FAA3" TextString="Cho các lễ cưới trang trọng, với danh sách khách, địa điểm, và rượu punch!" />
+    <TextStringDefinition InstanceID="0xB15A8318" TextString="Vảy Nước" />
+    <TextStringDefinition InstanceID="0x198EFDFC" TextString="Thất Bại Xã Hội" />
+    <TextStringDefinition InstanceID="0x1C79B82E" TextString="Cảm Thấy Bị Bỏ Quên" />
+    <TextStringDefinition InstanceID="0xA433D0F7" TextString="{0.SimFirstName} đang bị bỏ quên, dịch vụ xã hội sẽ được gọi trừ khi bạn có thể cải thiện điểm số của con." />
+    <TextStringDefinition InstanceID="0x8C0CAFFA" TextString="Xem Video Vui Nhộn" />
+    <TextStringDefinition InstanceID="0x9F32447B" TextString="Quay Về Lô Đất" />
+    <TextStringDefinition InstanceID="0x55D7607D" TextString="Lại Thề Nguyện Cùng {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x74B5DF4E" TextString="Gỡ Bỏ Vai Trò Chăm Sóc" />
+    <TextStringDefinition InstanceID="0xB957BDF2" TextString="Mời Cảm Nhận Em Bé" />
+    <TextStringDefinition InstanceID="0xBDE83204" TextString="Chia Sẻ Mẹo Năng Suất" />
+    <TextStringDefinition InstanceID="0x4D87AA4B" TextString="Thất Bại Nước" />
+    <TextStringDefinition InstanceID="0xBD21BD48" TextString="Phàn Nàn Về Khát" />
+    <TextStringDefinition InstanceID="0x4263A06A" TextString="Giới Thiệu Thô Lỗ" />
+    <TextStringDefinition InstanceID="0xB2BEB5BA" TextString="Giới Thiệu Vui Nhộn" />
+    <TextStringDefinition InstanceID="0x7A1CBA49" TextString="Giới Thiệu Thân Thiện" />
+    <TextStringDefinition InstanceID="0xDAF7D805" TextString="Cạn Ly!" />
+    <TextStringDefinition InstanceID="0x2D09B585" TextString="Cười Điên Cuồng" />
+    <TextStringDefinition InstanceID="0x6E4FAE52" TextString="Hôn" />
+    <TextStringDefinition InstanceID="0x205CC13C" TextString="Học Về Bầu Cử Xanh" />
+    <TextStringDefinition InstanceID="0x5A11F888" TextString="Học Về Bầu Cử Vì Lợi Nhuận" />
+    <TextStringDefinition InstanceID="0xC4DDA163" TextString="Mời Vào" />
+    <TextStringDefinition InstanceID="0xCE9E1A09" TextString="Ồ Ồ Cùng {1.SimFirstName}" />

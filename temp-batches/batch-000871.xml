@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xF63F1939" TextString="Không có Sắc Lệnh Quý Tộc nào được ban hành" />
+    <TextStringDefinition InstanceID="0xBE595F54" TextString="Tiền thuê mỗi ngày: {0.Money}" />
+    <TextStringDefinition InstanceID="0x0F9A5856" TextString="Tiền thuê quá hạn: {0.Money}" />
+    <TextStringDefinition InstanceID="0xDB857CCD" TextString="Hợp đồng thuê sắp gia hạn!" />
+    <TextStringDefinition InstanceID="0x730AF79C" TextString="Thời gian ân hạn đang hoạt động" />
+    <TextStringDefinition InstanceID="0xE8FE8A3A" TextString="Bán Bất động sản Cho thuê" />
+    <TextStringDefinition InstanceID="0xE9C265B6" TextString="Tiền thuê cho tất cả các đơn vị sở hữu sẽ được thu vào cuối tuần cùng với bất kỳ thuế hoặc hóa đơn nào đến hạn." />
+    <TextStringDefinition InstanceID="0xC5A2F167" TextString="{0.String} ({1.Number} {S1.unit}{P1.units})" />
+    <TextStringDefinition InstanceID="0x9728BF51" TextString="Quay về Nhà" />
+    <TextStringDefinition InstanceID="0xA953DBB8" TextString="Các Cơ sở Kinh doanh trên Lô:" />
+    <TextStringDefinition InstanceID="0x60235B2A" TextString="Các Sim phụ thuộc phải hợp nhất với một hộ gia đình hiện có." />
+    <TextStringDefinition InstanceID="0x2DE9FA45" TextString="{0.Number} vật phẩm" />
+    <TextStringDefinition InstanceID="0x820AF1B2" TextString="Vật phẩm Chế tạo" />
+    <TextStringDefinition InstanceID="0x59699F0C" TextString="{0.Number} vật phẩm" />
+    <TextStringDefinition InstanceID="0xC21BEE42" TextString="Bật Lớp phủ Ma" />
+    <TextStringDefinition InstanceID="0x7DB8D41F" TextString="Cảnh báo" />
+    <TextStringDefinition InstanceID="0xD3EBF2F3" TextString="Bản thể được chọn không có nguyên nhân tử vong này và sẽ bị xóa." />
+    <TextStringDefinition InstanceID="0x2E2CB42C" TextString="Ẩn Cánh" />
+    <TextStringDefinition InstanceID="0xA507B1CC" TextString="Hỗ trợ Tường Thường" />
+    <TextStringDefinition InstanceID="0x1917405D" TextString="Tham gia Vui vẻ!" />
+    <TextStringDefinition InstanceID="0xA3B321B1" TextString="Tải xuống các tác phẩm cộng đồng mới nhất từ Thư viện, hoặc lưu chúng vào thư viện của bạn để sau này." />
+    <TextStringDefinition InstanceID="0xF32D1B2E" TextString="Đã xảy ra thay đổi hồ sơ. Đang quay về màn hình tiêu đề." />
+    <TextStringDefinition InstanceID="0x47F47FEC" TextString="Thay đổi Hồ sơ" />
+    <TextStringDefinition InstanceID="0xADA38D3B" TextString="Bạn có chắc chắn muốn thay đổi hồ sơ?" />
+    <TextStringDefinition InstanceID="0xF593EED4" TextString="Xbox One" />
+    <TextStringDefinition InstanceID="0x310F11CD" TextString="Một hoặc nhiều vật phẩm Tạo Sim đã bị xóa. Các vật phẩm này có thể chưa được cài đặt trên máy chơi của bạn hoặc bạn không sở hữu nội dung này." />
+    <TextStringDefinition InstanceID="0x7417C692" TextString="Một hoặc nhiều vật phẩm có thể chưa được cài đặt trên máy chơi của bạn hoặc bạn không sở hữu nội dung này." />
+    <TextStringDefinition InstanceID="0x5DAC58ED" TextString="Xbox Guide Button" />
+    <TextStringDefinition InstanceID="0xE38E085C" TextString="Đặc điểm Đơn vị" />
+    <TextStringDefinition InstanceID="0xAE13C9F9" TextString="Đặc điểm và Thử thách Đơn vị" />
+    <TextStringDefinition InstanceID="0x4CA243A3" TextString="Thử thách Đơn vị" />
+    <TextStringDefinition InstanceID="0xEEDD7E4F" TextString="Đặc điểm và Thử thách" />
+    <TextStringDefinition InstanceID="0xFB439371" TextString="Chọn một Đặc điểm!" />
+    <TextStringDefinition InstanceID="0x5E9488AF" TextString="Đặc điểm Lô đất" />
+    <TextStringDefinition InstanceID="0x7939D088" TextString="Thử thách Lô đất" />
+    <TextStringDefinition InstanceID="0x3DA3447B" TextString="&lt;font color='#FF0000'&gt;Đặc điểm không thể bị xóa.&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x75650709" TextString="Bạn sắp rời trò chơi The Sims 4 và truy cập vào một trang web thuộc về bên thứ ba. Electronic Arts không chịu trách nhiệm về nội dung hiển thị trên các trang web bên thứ ba, hoặc phần mềm được cung cấp bởi trang web đó, và chính sách quyền riêng tư của chúng tôi không áp dụng cho các thông tin thu thập của họ. &lt;br/&gt;&lt;br/&gt;Bạn có muốn tiếp tục?&lt;br/&gt;&lt;br/&gt;" />
+    <TextStringDefinition InstanceID="0x5BDC15D4" TextString="Điều này sẽ mở trong trình duyệt bên ngoài. Bạn có muốn tiếp tục?&lt;br/&gt;&lt;br/&gt;" />
+    <TextStringDefinition InstanceID="0x7644ADA0" TextString="Về Nhà" />
+    <TextStringDefinition InstanceID="0xC5D2FF08" TextString="Tiếp theo" />
+    <TextStringDefinition InstanceID="0x2DE22E14" TextString="Quay lại" />
+    <TextStringDefinition InstanceID="0xB72F817B" TextString="Ôi! Có gì đó sai rồi. Hãy quay lại sau." />
+    <TextStringDefinition InstanceID="0xCC0EB322" TextString="Hành động này không thể hoàn thành. Trang web có thể hiện không khả dụng hoặc bạn đang ngoại tuyến. Vui lòng kiểm tra kết nối mạng hoặc thử lại sau." />
+    <TextStringDefinition InstanceID="0x83FDA309" TextString="Video của bạn được lưu tại {0.String}" />
+    <TextStringDefinition InstanceID="0x267DBB5E" TextString="Xem ảnh chụp màn hình của tôi từ #TheSims4!" />
+    <TextStringDefinition InstanceID="0x78BEF954" TextString="{0.String} #TheSims4" />
+    <TextStringDefinition InstanceID="0x53BD16DC" TextString="Xem {0.String} {1.String} trên #TheSims4 Gallery!" />
+    <TextStringDefinition InstanceID="0x9D139597" TextString="Tôi vừa chia sẻ {0.String} {1.String} trên #TheSims4 Gallery!" />
+    <TextStringDefinition InstanceID="0x458E456D" TextString="Tôi vừa mở khóa thành tựu &quot;{0.String}&quot; trong #TheSims4!" />
+    <TextStringDefinition InstanceID="0xFF1D2BA2" TextString="Tweet đã được đăng thành công!" />

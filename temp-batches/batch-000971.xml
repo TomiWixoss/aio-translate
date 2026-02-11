@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x2F851A59" TextString="Các thanh dọc hình nón làm nhẹ bớt đường nét của lan can thời trang này." />
+    <TextStringDefinition InstanceID="0xFD73E42A" TextString="Lan can Lưới với Cột chắc nịch" />
+    <TextStringDefinition InstanceID="0x506D0C2B" TextString="Một lan can cầu thang khác giống hàng rào picket." />
+    <TextStringDefinition InstanceID="0x1E83AC21" TextString="Lan can Lưới với Cột vuông" />
+    <TextStringDefinition InstanceID="0xD312EF1E" TextString="Một lan can cầu thang giống hàng rào picket." />
+    <TextStringDefinition InstanceID="0xA1621414" TextString="Lan can cầu thang Nhà Gỗ Mọt" />
+    <TextStringDefinition InstanceID="0x37D34361" TextString="Một lan can cơ bản để giữ khách và cư dân khỏi rơi khỏi cầu thang." />
+    <TextStringDefinition InstanceID="0xBC860E2E" TextString="Lan can Hình học Mahony" />
+    <TextStringDefinition InstanceID="0x4C84DB57" TextString="Thêm một chút lãng mạn Hiện đại vào trang trí phòng cầu thang của bạn với lan can trang trí này." />
+    <TextStringDefinition InstanceID="0x432BB835" TextString="Lan can Khớp nối Thuộc địa Abitha" />
+    <TextStringDefinition InstanceID="0x2D2780AA" TextString="Thiết kế thuộc địa khiêm tốn mang lại vẻ uy nghi cho phòng cầu thang của bạn." />
+    <TextStringDefinition InstanceID="0xF9AEA848" TextString="Lan can Hỗn hợp Kendall" />
+    <TextStringDefinition InstanceID="0x38A1BF5D" TextString="Một lan can vừa thời trang vừa chắc chắn nhờ các thanh dọc hỗn hợp bằng gỗ và kim loại." />
+    <TextStringDefinition InstanceID="0x014167B6" TextString="Không có lan can" />
+    <TextStringDefinition InstanceID="0x2484566F" TextString="Không có lan can" />
+    <TextStringDefinition InstanceID="0x4E12A646" TextString="Lan can cầu thang" />
+    <TextStringDefinition InstanceID="0x9438249F" TextString="Lan can cầu thang này là sự phù hợp hoàn hảo để đặt cùng với Cầu thang. Mọi biến thể của Cầu thang đã được xem xét trong giai đoạn thiết kế Lan can cầu thang, và do đó, mỗi chi tiết của Lan can cầu thang đã sẵn sàng khớp với Cầu thang. Chúng tôi mời bạn trải nghiệm Lan can cầu thang! Lan can cầu thang... dành cho Cầu thang!" />
+    <TextStringDefinition InstanceID="0x257ACD8D" TextString="** GỠ LỖI **" />
+    <TextStringDefinition InstanceID="0xCEA773F2" TextString="** GỠ LỖI **" />
+    <TextStringDefinition InstanceID="0x9CEFF4A6" TextString="Viền hồ bơi Đa màu" />
+    <TextStringDefinition InstanceID="0x3E8E067F" TextString="Một hồ bơi là nơi duy nhất việc có viền lại cộng thêm chứ không trừ đi. Không ai đi đến tiệm cắt tóc, nói 'Tôi chỉ muốn cắt ngắn' và rời đi với nhiều tóc hơn khi đến. Họ nên gọi nó là đường viền. Vì vậy, hãy lấy một đường viền và đi tắm. Đừng để danh từ kỳ lạ nào cản trở chuyến tắm thư giãn của bạn." />
+    <TextStringDefinition InstanceID="0x5C1D73B3" TextString="poolTrim_bm" />
+    <TextStringDefinition InstanceID="0xDF2CD871" TextString="Xóa nước" />
+    <TextStringDefinition InstanceID="0xDBD8734E" TextString="&lt;i&gt;Sử dụng công cụ này để loại bỏ hoàn toàn nước khỏi một hố.&lt;/i&gt;\n\nKhi công cụ này được chọn, nhấp vào bất kỳ vùng nước tự nhiên nào trên lô đất của bạn để xóa nước, để lại một hố trống trên địa hình." />
+    <TextStringDefinition InstanceID="0x0766B730" TextString="Tăng nước" />
+    <TextStringDefinition InstanceID="0x08E3C815" TextString="&lt;i&gt;Sử dụng công cụ này để thêm nước vào một hố.&lt;/i&gt;\n\nCông cụ này sẽ thêm nước vào, hoặc tăng mực nước trong một hố đã được đào vào địa hình. Bạn có thể sử dụng các lần nhấp riêng lẻ, hoặc giữ nút chuột xuống để tiếp tục tăng dần thêm nước. Giữ &quot;Ctrl&quot; khi nhấp sẽ hạ nước thay vào đó." />
+    <TextStringDefinition InstanceID="0xCB305ED3" TextString="Hạ nước" />
+    <TextStringDefinition InstanceID="0xEB5D627C" TextString="&lt;i&gt;Sử dụng công cụ này để hạ mực nước trong một hồ.&lt;/i&gt;\n\nCông cụ này sẽ hạ mực nước của bất kỳ nước nào đã được thêm vào một hố đã đào trên địa hình. Bạn có thể sử dụng các lần nhấp riêng lẻ, hoặc giữ nút chuột xuống để tiếp tục hạ dần mực nước. Giữ &quot;Ctrl&quot; khi nhấp sẽ thêm hoặc tăng nước thay vào đó. Nếu bạn hạ nước xuống tận đáy hố, hồ sẽ bị xóa." />
+    <TextStringDefinition InstanceID="0xCB2AA7E5" TextString="Đổ đến độ cao" />
+    <TextStringDefinition InstanceID="0x80AF493A" TextString="&lt;i&gt;Công cụ này hữu ích khi cố gắng đặt mực nước chính xác giống nhau trên nhiều hồ riêng biệt.&lt;/i&gt;\n\nCông cụ này sẽ đặt mực nước ở một độ cao cụ thể trong một hố đã đào trên địa hình. Điều chỉnh độ cao bằng thanh trượt Đổ đến độ cao trong giao diện, hoặc giữ &quot;Ctrl&quot; và nhấn phím &quot;[&quot; hoặc &quot;]&quot; để tăng hoặc giảm mức độ đã xác định trước." />
+    <TextStringDefinition InstanceID="0x4AC6EFFB" TextString="Punk Rock, Baby" />
+    <TextStringDefinition InstanceID="0x669DFD14" TextString="Tại sao thậm chí cố gắng hòa nhập? Làm cho các cạnh nền tảng của bạn thêm sắc bén." />
+    <TextStringDefinition InstanceID="0x819BC216" TextString="Nền tảng Tuyệt vời Nhưng Khiêm tốn" />
+    <TextStringDefinition InstanceID="0x62966340" TextString="Phục vụ Bữa tối" />
+    <TextStringDefinition InstanceID="0xBFC588F0" TextString="Cảm hứng giúp ích cho nấu ăn!" />
+    <TextStringDefinition InstanceID="0x3A4F52DC" TextString="Nấu Bữa tối Gia đình" />
+    <TextStringDefinition InstanceID="0x5C002372" TextString="Ăn Bữa tối" />
+    <TextStringDefinition InstanceID="0x23606357" TextString="Cảm hứng giúp ích cho nấu ăn!" />
+    <TextStringDefinition InstanceID="0x52B1837D" TextString="Nấu Brunch với Nguyên liệu" />
+    <TextStringDefinition InstanceID="0x252A5018" TextString="Phục vụ Brunch" />
+    <TextStringDefinition InstanceID="0xB28EF60B" TextString="Cảm hứng giúp ích cho nấu ăn!" />
+    <TextStringDefinition InstanceID="0xCC3D37E4" TextString="Nấu Brunch Gia đình" />
+    <TextStringDefinition InstanceID="0x598D3D0A" TextString="Ăn Brunch" />
+    <TextStringDefinition InstanceID="0xC5586B41" TextString="Cảm hứng giúp ích cho nấu ăn!" />
+    <TextStringDefinition InstanceID="0x8FB5F184" TextString="Nấu Bữa sáng với Nguyên liệu" />
+    <TextStringDefinition InstanceID="0xFA59C395" TextString="Phục vụ Bữa sáng" />
+    <TextStringDefinition InstanceID="0x82A1B8B3" TextString="Cảm hứng giúp ích cho nấu ăn!" />
+    <TextStringDefinition InstanceID="0xC2493411" TextString="Nấu Bữa sáng Gia đình" />
+    <TextStringDefinition InstanceID="0x9BCCAF66" TextString="Phần đơn lẻ" />
+    <TextStringDefinition InstanceID="0x349B236D" TextString="Ăn Bữa sáng" />

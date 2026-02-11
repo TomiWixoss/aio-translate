@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x70232052" TextString="Các Sim sạch sẽ có thể trở nên cuồng nhiệt và năng lượng khi ngôi nhà trở nên bừa bội!" />
+    <TextStringDefinition InstanceID="0x12CCDEF8" TextString="Giải quyết Vấn đề Khó" />
+    <TextStringDefinition InstanceID="0xF5856C52" TextString="Nhìn vào Mặt Tích Cực" />
+    <TextStringDefinition InstanceID="0xE9BB742D" TextString="Lắng nghe Gió" />
+    <TextStringDefinition InstanceID="0xBB75D689" TextString="Một âm thanh nhỏ vang đến tai bạn. Gần như như... một giọng nói." />
+    <TextStringDefinition InstanceID="0x864C1CD4" TextString="(Từ việc Ngồi trên Đồ Nội Thất bị trầy)" />
+    <TextStringDefinition InstanceID="0x0FB38891" TextString="Đánh Đá tuyết" />
+    <TextStringDefinition InstanceID="0x81DC837F" TextString="Tham gia Đánh Đá tuyết" />
+    <TextStringDefinition InstanceID="0xE533C838" TextString="Đánh Đá tuyết với" />
+    <TextStringDefinition InstanceID="0x23BAC297" TextString="Lấy Đồ uống" />
+    <TextStringDefinition InstanceID="0x97B13873" TextString="Ồ... Không còn đồ uống nóng nào cả..." />
+    <TextStringDefinition InstanceID="0x6996AF34" TextString="Bổ sung Cacao Nóng Thuần Chay với Kẹo Dẻo" />
+    <TextStringDefinition InstanceID="0x0FD966BC" TextString="Bổ sung Cacao Nóng Thuần Chay" />
+    <TextStringDefinition InstanceID="0x92E47951" TextString="Bổ sung Cacao Nóng Gia Vị" />
+    <TextStringDefinition InstanceID="0xFD9DC06F" TextString="Bổ sung Cacao Nóng Bạc Hà" />
+    <TextStringDefinition InstanceID="0x510847E0" TextString="Bổ sung Cacao Nóng với Kẹo Dẻo" />
+    <TextStringDefinition InstanceID="0xCB65A8C8" TextString="Bổ sung Cacao Nóng" />
+    <TextStringDefinition InstanceID="0x188F0D98" TextString="Không thể bổ sung khi khay đã đầy." />
+    <TextStringDefinition InstanceID="0xA6F439FC" TextString="Sửa Trầy" />
+    <TextStringDefinition InstanceID="0x5E0CC929" TextString="Thí nghiệm" />
+    <TextStringDefinition InstanceID="0x110EBC2B" TextString="Đồ uống Thối" />
+    <TextStringDefinition InstanceID="0xE24F3D2A" TextString="Nhỏ {0.SimFirstName} đã pha một loại thuốc thối có mùi khó chịu! Cái này chắc chắn sẽ gây mùi! Giờ nó đã ở trong kho đồ của {0.SimFirstName}." />
+    <TextStringDefinition InstanceID="0x27CA7994" TextString="Thuốc Sức Khỏe" />
+    <TextStringDefinition InstanceID="0x41E2B18F" TextString="Nhỏ {0.SimFirstName} đã pha một loại thuốc sức khỏe tuyệt vời nhất! Cái này chắc chắn sẽ xua tan cơn đói! Giờ nó đã ở trong kho đồ của {0.SimFirstName}." />
+    <TextStringDefinition InstanceID="0x2C2D28CB" TextString="Thuốc Cảm Xúc" />
+    <TextStringDefinition InstanceID="0x6167DB88" TextString="Nhỏ {0.SimFirstName} đã pha một hỗn hợp tuyệt vời để kích hoạt cảm xúc! Giờ nó đã ở trong kho đồ của {0.SimFirstName}." />
+    <TextStringDefinition InstanceID="0x47D05D30" TextString="Thêm một chút Phozone" />
+    <TextStringDefinition InstanceID="0x4300EEC9" TextString="Thêm một chút Goobleck" />
+    <TextStringDefinition InstanceID="0x38E12627" TextString="Thêm một chút Alcineat" />
+    <TextStringDefinition InstanceID="0xB6C8EDAC" TextString="Thêm một chút Melacoo" />
+    <TextStringDefinition InstanceID="0x71C001C5" TextString="Có Con Bằng Khoa học với Tư cách Cha Mẹ Đơn Thân" />
+    <TextStringDefinition InstanceID="0x8B914352" TextString="Có Con Bằng Khoa học?" />
+    <TextStringDefinition InstanceID="0x75E162D4" TextString="{0.SimName} sẽ nhanh chóng đến bệnh viện và sử dụng vật liệu di truyền của {0.SimPronounPossessiveDependent} để có một đứa trẻ mới - thông qua khoa học! Bạn đã sẵn sàng thêm một Trẻ sơ sinh vào hộ gia đình chưa?" />
+    <TextStringDefinition InstanceID="0x177EFF20" TextString="Có Con Bằng Khoa học với {1.SimFirstName}?" />
+    <TextStringDefinition InstanceID="0xFCE658C6" TextString="{0.SimName} sẽ nhanh chóng đến bệnh viện và sử dụng vật liệu di truyền của {0.SimPronounPossessiveDependent} và {1.SimName} để có một đứa trẻ mới thông qua khoa học! Bạn đã sẵn sàng thêm một Trẻ sơ sinh vào hộ gia đình chưa?" />
+    <TextStringDefinition InstanceID="0xC57D3BF6" TextString="Ồ, bạn biết cách tạo ấn tượng đầu tiên tuyệt vời! Hãy làm điều này một lần nữa, và sớm thôi!" />
+    <TextStringDefinition InstanceID="0xED90EFA1" TextString="Tiệc chào nhà? Đó là tiệc nhà cháy hơn! Hôm qua bạn là vô danh, nhưng ngày mai, mọi người trong thị trấn sẽ biết tên bạn. Không thể chờ đến lần sau!" />
+    <TextStringDefinition InstanceID="0x65EAAC3F" TextString="Cảm ơn lời mời, tôi luôn vui vẻ khi đi chơi với bạn! Gọi cho tôi sớm nhé, được chứ?" />
+    <TextStringDefinition InstanceID="0x1DBE985E" TextString="Rất vui được gặp bạn! Hãy ghé thăm nhà tôi một lần nào đó. Cửa luôn mở!" />
+    <TextStringDefinition InstanceID="0xFC822EB1" TextString="Này! Bạn sẽ tổ chức tiệc chào nhà, đúng chứ? Đây là số điện thoại của tôi - tôi sẽ chờ lời mời!" />
+    <TextStringDefinition InstanceID="0xD274FBC4" TextString="Chào mừng đến thị trấn! Bạn đã tham quan công viên chưa? Nó đẹp quá vào thời điểm này trong năm!" />
+    <TextStringDefinition InstanceID="0x674E5C6A" TextString="Xem Tác phẩm Tuyết" />
+    <TextStringDefinition InstanceID="0x6991F52B" TextString="Khôi phục" />
+    <TextStringDefinition InstanceID="0xF3A046D0" TextString="Vẽ trên Cát" />
+    <TextStringDefinition InstanceID="0x7C5BA533" TextString="Phá hủy" />
+    <TextStringDefinition InstanceID="0x7AE4D924" TextString="Chơi trên Cát" />
+    <TextStringDefinition InstanceID="0xF737DE37" TextString="Gọi Ma" />
+    <TextStringDefinition InstanceID="0x3D0080AA" TextString="Lục soát để Tìm Thông tin" />
+    <TextStringDefinition InstanceID="0x5EB661BD" TextString="{0.SimFirstName} đã tìm thấy một số thông tin hấp dẫn về các Sim sống ở đây. Với một chút nỗ lực, {M0.he}{F0.she} có thể biến nó thành một bài báo khá thuyết phục." />
+    <TextStringDefinition InstanceID="0x95F948A7" TextString="Lục soát để Tìm Thức ăn" />

@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xF84A4F9F" TextString="(Từ việc hàng xóm nhận nuôi bạn thú có lông)" />
+    <TextStringDefinition InstanceID="0x7B5487DF" TextString="(Từ việc hàng xóm nhận nuôi em bé)" />
+    <TextStringDefinition InstanceID="0x8AA7CC22" TextString="(Từ việc thay tã)" />
+    <TextStringDefinition InstanceID="0xCDA5DDD9" TextString="(Từ việc thay tã)" />
+    <TextStringDefinition InstanceID="0x508FECE2" TextString="Việc cập nhật trạng thái mạng xã hội của bạn đã được đền đáp. Được đền đáp bằng người theo dõi! {0.SimFirstName} đã nhận thêm {1.Number} người theo dõi. {M0.Anh ấy}{F0.Cô ấy} giờ có tổng cộng {2.Number} người theo dõi." />
+    <TextStringDefinition InstanceID="0x6B07799E" TextString="Với một chút may mắn và thời điểm hoàn hảo, bản cập nhật trạng thái mạng xã hội của bạn đã khiến cả thế giới tò mò. {0.SimFirstName} đã nhận thêm {1.Number} người theo dõi. {M0.Anh ấy}{F0.Cô ấy} giờ có tổng cộng {2.Number} người theo dõi." />
+    <TextStringDefinition InstanceID="0xE1D9CBC6" TextString="Trạng thái mạng xã hội? Đã cập nhật! Ai quan tâm? Có vẻ như {1.Number} người theo dõi mới quan tâm. Tuyệt! {0.SimFirstName} đã nhận thêm {1.Number} người theo dõi. {M0.Anh ấy}{F0.Cô ấy} giờ có tổng cộng {2.Number} người theo dõi." />
+    <TextStringDefinition InstanceID="0xE9A2BB32" TextString="Trạng thái mạng xã hội của {0.SimFirstName} đã được cập nhật. Hãy vui mừng vì bạn đã nhận thêm {1.Number} người theo dõi. {0.SimFirstName} giờ có tổng cộng {2.Number} người theo dõi." />
+    <TextStringDefinition InstanceID="0xDB9D530D" TextString="{0.SimFirstName} đã nhận thêm vài người theo dõi khi cập nhật trạng thái mạng xã hội của {M0.anh ấy}{F0.cô ấy}. {0.SimFirstName} đã nhận thêm {1.Number} người theo dõi. {M0.Anh ấy}{F0.Cô ấy} giờ có tổng cộng {2.Number} người theo dõi." />
+    <TextStringDefinition InstanceID="0x9446BDDF" TextString="{0.SimFirstName} đã nhận thêm {1.Number} người theo dõi. {M0.Anh ấy}{F0.Cô ấy} giờ có tổng cộng {2.Number} người theo dõi." />
+    <TextStringDefinition InstanceID="0xF62BD276" TextString="(Từ việc cáu kỉnh)" />
+    <TextStringDefinition InstanceID="0xF0C57E85" TextString="Có vẻ như {0.SimFirstName} đang gặp chút khó khăn với đũa. {M0.Anh ấy}{F0.Cô ấy} nên ăn nhiều món ăn dùng đũa hơn, như {1.ObjectName} để phát triển kỹ năng ngón tay." />
+    <TextStringDefinition InstanceID="0x9011558B" TextString="(Từ việc bắt được cá)" />
+    <TextStringDefinition InstanceID="0x6B43674B" TextString="(Từ việc vô tình làm vỡ thứ gì đó)" />
+    <TextStringDefinition InstanceID="0x0366D406" TextString="(Từ việc bị ném tuyết vào mặt)" />
+    <TextStringDefinition InstanceID="0x012CD136" TextString="(Từ việc tổ chức tiệc)" />
+    <TextStringDefinition InstanceID="0x60E553B0" TextString="Thật đáng tiếc, chúng tôi muốn được biết bạn nhiều hơn." />
+    <TextStringDefinition InstanceID="0x95671CA1" TextString="Có lẽ lần sau!" />
+    <TextStringDefinition InstanceID="0xEFAB65EE" TextString="Rất vui được gặp bạn! Chúng tôi mong được gặp bạn lần sau." />
+    <TextStringDefinition InstanceID="0x776D2F4D" TextString="Ồ, tôi nghĩ đã đến lúc phải đi. Hẹn gặp lại! Cảm ơn vì đã mời!" />
+    <TextStringDefinition InstanceID="0xE3C780CD" TextString="Chúng tôi rất may mắn khi có những hàng xóm tuyệt vời như bạn!" />
+    <TextStringDefinition InstanceID="0x19F2635C" TextString="Chúng tôi đã có một khoảng thời gian tuyệt vời, và giờ khi bạn đã ổn định, bạn sẽ thấy chúng tôi đối xử với mọi người như gia đình." />
+    <TextStringDefinition InstanceID="0x5E721AD0" TextString="Ồ, đừng quá xa lạ ở đây, chúng tôi khá thân thiện." />
+    <TextStringDefinition InstanceID="0x1A63E676" TextString="Chúng tôi nên đi rồi. Chào mừng bạn lần nữa." />
+    <TextStringDefinition InstanceID="0x5895898E" TextString="Có ai vừa gọi Sở Cứu hỏa không? Bởi vì mọi thứ đang &lt;i&gt;nóng bừng&lt;/i&gt; ở đây!\n\nTrừ khi đang đùa, hãy an toàn và có một ngày tốt lành." />
+    <TextStringDefinition InstanceID="0xECF20046" TextString="Cảm ơn cuộc gọi của bạn. Lính cứu hỏa đang trên đường đến giúp đỡ ngay bây giờ! Trong lúc đó, hãy tìm nơi an toàn và cố gắng không hoảng loạn." />
+    <TextStringDefinition InstanceID="0x11B42BC9" TextString="Rất vui đùa, kẻ đùa nghịch. Ở đây không có cháy. Chúng tôi sẽ phải phạt bạn 500 Simoleon vì sự thiếu suy nghĩ nhỏ nhặt đó." />
+    <TextStringDefinition InstanceID="0x222AEF45" TextString="Cảm ơn vì đã đi chơi với tôi, {0.SimFirstName}. Nó... ổn, tôi đoán vậy." />
+    <TextStringDefinition InstanceID="0x266C7745" TextString="Cảm ơn vì đã đến chơi, {0.SimFirstName}. Hy vọng chúng ta có thể đi chơi lại sớm!" />
+    <TextStringDefinition InstanceID="0xC04D59BC" TextString="Cảm ơn vì đã chơi với tôi, {0.SimFirstName}! Vui quá! Hãy làm lại vào ngày mai!" />
+    <TextStringDefinition InstanceID="0x0EC7E55E" TextString="Cảm ơn vì đã đi chơi với tôi, {0.SimFirstName}. Rất vui." />
+    <TextStringDefinition InstanceID="0x95EA5E5F" TextString="(Từ việc có một buổi chơi cùng nhau)" />
+    <TextStringDefinition InstanceID="0xA395737E" TextString="(Từ việc tham dự một bữa tiệc)" />
+    <TextStringDefinition InstanceID="0xC4465B63" TextString="Ồ, tôi đoán đây là lời tạm biệt? Ừm... đừng gọi cho tôi, bao giờ." />
+    <TextStringDefinition InstanceID="0xE20F1C07" TextString="Tôi đã có một khoảng thờiời tuyệt vời với bạn! Hãy làm lại sớm nhé!" />
+    <TextStringDefinition InstanceID="0x49D40F2A" TextString="Cảm ơn vì một buổi hẹn hò tuyệt vời! Sẽ nói chuyện với bạn sớm." />
+    <TextStringDefinition InstanceID="0x46D87468" TextString="Ồ, đó là một khoảng thời gian vui vẻ. Tôi sẽ gọi cho bạn, có lẽ?" />
+    <TextStringDefinition InstanceID="0x1ED738AF" TextString="(Từ buổi hẹn hò)" />
+    <TextStringDefinition InstanceID="0x52712BC5" TextString="(Từ đám cưới)" />
+    <TextStringDefinition InstanceID="0xC138FEE6" TextString="Ồ, bữa tiệc đó có thể đã tốt hơn, phải không?" />
+    <TextStringDefinition InstanceID="0x7AFDD6F4" TextString="Cảm ơn vì đã đến, {0.SimFirstName}. Tôi đã có một khoảng thời gian thực sự vui vẻ!" />
+    <TextStringDefinition InstanceID="0xC1177891" TextString="Cảm ơn rất nhiều vì đã đến, {0.SimFirstName}, tôi đã có một khoảng thời gian tuyệt vời!" />
+    <TextStringDefinition InstanceID="0xA1D8CAD3" TextString="Cảm ơn vì đã đến, {0.SimFirstName}. Tôi đoán đó là một bữa tiệc đàng hoàng." />
+    <TextStringDefinition InstanceID="0xAEF96AD0" TextString="(Từ bữa tiệc sinh nhật)" />
+    <TextStringDefinition InstanceID="0xAC6C4166" TextString="Dựa trên sự nghiệp của {0.SimFirstName}, {M0.anh ấy}{F0.cô ấy} đã được một nhà đầu tư tặng một khoản tiền khởi nghiệp là {1.Money}!" />
+    <TextStringDefinition InstanceID="0x6BA67718" TextString="{0.SimFirstName} đã nhận {1.Money} từ những nguồn xấu xa. Việc nhận hối lộ là sai, nhưng những Simoleon này chắc chắn cảm thấy đúng." />
+    <TextStringDefinition InstanceID="0x8097794D" TextString="(Từ việc nhiễm bệnh)" />
+    <TextStringDefinition InstanceID="0x6E778334" TextString="(Từ đặc điểm tính cách mãnh liệt)" />
+    <TextStringDefinition InstanceID="0xBCECE103" TextString="(Từ việc trông em bé)" />
+    <TextStringDefinition InstanceID="0x9F2F4311" TextString="(Từ đặc điểm tính cách nhạy cảm)" />

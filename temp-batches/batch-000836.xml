@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xB879C1C3" TextString="(Từ việc đốt đồ chơi)" />
+    <TextStringDefinition InstanceID="0x95A594D7" TextString="(Từ việc đốt bài tập)" />
+    <TextStringDefinition InstanceID="0x5EE91957" TextString="(Từ việc làm ấm áp)" />
+    <TextStringDefinition InstanceID="0xFAE99322" TextString="(Từ việc đốt nhạc cụ)" />
+    <TextStringDefinition InstanceID="0xDAF2E163" TextString="(Từ việc đốt thức ăn)" />
+    <TextStringDefinition InstanceID="0x44316CB4" TextString="(Từ việc đốt tác phẩm nghệ thuật)" />
+    <TextStringDefinition InstanceID="0xBE140653" TextString="(Từ việc tự đốt mình)" />
+    <TextStringDefinition InstanceID="0xA30FB18B" TextString="(Từ việc đuổi theo đàn chim)" />
+    <TextStringDefinition InstanceID="0x3DC5FD34" TextString="(Từ việc làm sợ đàn chim)" />
+    <TextStringDefinition InstanceID="0xA4675F80" TextString="Hóa đơn nặng nề" />
+    <TextStringDefinition InstanceID="0xE19E5983" TextString="(Từ việc trả hóa đơn)" />
+    <TextStringDefinition InstanceID="0xA245BB59" TextString="(Từ bồn tắm xoáy)" />
+    <TextStringDefinition InstanceID="0x95A218D4" TextString="(Từ bồn tắm nâng cấp)" />
+    <TextStringDefinition InstanceID="0x4CD81ED0" TextString="(Từ việc luyện tập mánh khóe quán bar)" />
+    <TextStringDefinition InstanceID="0x87BA3E56" TextString="(Từ việc nuôi con bằng sữa mẹ)" />
+    <TextStringDefinition InstanceID="0x3C43DF10" TextString="(Từ việc thần giao cách cảm)" />
+    <TextStringDefinition InstanceID="0x5168D483" TextString="(Từ việc phát hiện con chuột)" />
+    <TextStringDefinition InstanceID="0x4386B4B7" TextString="(Từ việc chuột hoạt động)" />
+    <TextStringDefinition InstanceID="0xB6939314" TextString="(Từ việc phát hiện nhiều chuột)" />
+    <TextStringDefinition InstanceID="0x161C63DB" TextString="(Từ nước ngoài lai)" />
+    <TextStringDefinition InstanceID="0x10D99C48" TextString="{0.SimFirstName} bây giờ có thể nghỉ phép gia đình." />
+    <TextStringDefinition InstanceID="0xE91FC194" TextString="(Từ việc nhận con nuôi)" />
+    <TextStringDefinition InstanceID="0x853F021B" TextString="(Từ việc xã hội hóa)" />
+    <TextStringDefinition InstanceID="0xE881EB8C" TextString="(Từ việc xã hội hóa)" />
+    <TextStringDefinition InstanceID="0x2DFD75E4" TextString="(Từ việc xã hội hóa)" />
+    <TextStringDefinition InstanceID="0xDB92CAC1" TextString="(Thất bại trong việc yêu cầu điều gì đó)" />
+    <TextStringDefinition InstanceID="0x5C827625" TextString="(Từ việc ở trong nhà với tư cách trẻ nhỏ hoang dã)" />
+    <TextStringDefinition InstanceID="0xE74516C4" TextString="(Thất bại trong việc yêu cầu điều gì đó)" />
+    <TextStringDefinition InstanceID="0x3E1F545C" TextString="(Từ việc nghiên cứu mẫu vật)" />
+    <TextStringDefinition InstanceID="0xD81C3056" TextString="(Từ việc xem đài phun nước công viên bị phá hoại)" />
+    <TextStringDefinition InstanceID="0x1A783C19" TextString="(Từ việc duyệt sách)" />
+    <TextStringDefinition InstanceID="0x22E8A643" TextString="(Từ việc chia tay với bạn đời đầy mê hoặc)" />
+    <TextStringDefinition InstanceID="0xB16E1A06" TextString="(Từ việc chia tay với bạn đời lành mạnh)" />
+    <TextStringDefinition InstanceID="0x2BF93AAE" TextString="(Từ việc chấm dứt mối quan hệ lãng mạn tiêu cực)" />
+    <TextStringDefinition InstanceID="0x0197692D" TextString="(Từ việc chia tay)" />
+    <TextStringDefinition InstanceID="0x2B3ADF44" TextString="(Từ việc chia tay)" />
+    <TextStringDefinition InstanceID="0x78CCF9AE" TextString="(Từ việc chia tay)" />
+    <TextStringDefinition InstanceID="0xFAD9E35A" TextString="(Từ tuần tăng cường ba lần)" />
+    <TextStringDefinition InstanceID="0xE6704CB4" TextString="(Từ bữa tiệc sinh nhật)" />
+    <TextStringDefinition InstanceID="0x5AE78F04" TextString="(Từ bạn thân mới)" />
+    <TextStringDefinition InstanceID="0xBF27D495" TextString="(Từ nâng cấp độ cứng nệm)" />
+    <TextStringDefinition InstanceID="0xCB73F32D" TextString="(Từ việc bị nhúng trong nước)" />
+    <TextStringDefinition InstanceID="0x29BDC19A" TextString="Chúc mừng! {0.SimFirstName} đã mở khóa ước nguyện Thử thách Tích cực ẩn. Nó có thể được tìm thấy cùng với các ước nguyện Thử thách khác." />
+    <TextStringDefinition InstanceID="0xE307DE44" TextString="Chúc mừng! {0.SimFirstName} đã mở khóa ước nguyện Phô mai nướng ẩn. Nó có thể được tìm thấy cùng với các ước nguyện Thức ăn khác.\n\n{M0.He}{F0.She} cũng có thể thực hiện một tương tác xã hội thân thiện mới: Nói về Phô mai nướng." />
+    <TextStringDefinition InstanceID="0x06A099D4" TextString="Ý tưởng thú vị {0.SimFirstName}! Tôi đã suy nghĩ về điều gì sẽ mang lại sự thỏa mãn nhất trong cuộc sống công việc của tôi. Tôi sẽ cho bạn biết quyết định của tôi sớm thôi." />
+    <TextStringDefinition InstanceID="0xEA275B5D" TextString="Mặc dù tôi đánh giá cao sự quan tâm của bạn {0.SimFirstName}, đây là một trong những ngày như vậy. Tôi thích nói về điều khác nếu bạn không phiền." />
+    <TextStringDefinition InstanceID="0xD0123E0E" TextString="Xin lỗi {0.SimFirstName}, nhưng tôi cảm thấy chưa đủ thân thiết để trò chuyện này." />
+    <TextStringDefinition InstanceID="0xC2369596" TextString="(Từ việc hỗ trợ ai đó trong việc thay đổi sự nghiệp)" />
+    <TextStringDefinition InstanceID="0x28F6DB8A" TextString="(Từ việc có đặc điểm Không cam kết hoặc Lười biếng và hỗ trợ ai đó trong việc thay đổi sự nghiệp)" />
+    <TextStringDefinition InstanceID="0xE90743A4" TextString="(Từ việc đưa ra lời khuyên sự nghiệp cho ai đó)" />

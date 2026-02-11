@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x9E19E728" TextString="Mỗi con búp bê công chúa đều xứng đáng có một lâu đài theo phong cách trung cổ, đầy đủ tháp canh, khe bắn tên và, tất nhiên, một hầm tối, không cửa sổ (không hiển thị trong hình)." />
+    <TextStringDefinition InstanceID="0x0C6F37C7" TextString="Ngôi nhà búp bê cho Hai Người" />
+    <TextStringDefinition InstanceID="0x0E5E60A8" TextString="Ngôi nhà búp bê nhỏ nhưng đáng yêu này được xây dựng hoàn hảo cho hai con búp bê. Chúng sẽ không bao giờ đói với một căn bếp tuyệt vời như thế này, được rồi, có lẽ là vì chúng là đồ chơi, nhưng chúng ta có thể giả vờ." />
+    <TextStringDefinition InstanceID="0x316B0304" TextString="Chia sẻ câu chuyện của những người bạn thu nhỏ của bạn." />
+    <TextStringDefinition InstanceID="0xFAD0D76B" TextString="Rửa bát bằng tay đã là quá khứ! Với 'Người Làm Công Việc Rửa Bát Chuyên Nghiệp', bạn không cần phải sợ việc dọn dẹp bát đĩa sau một bữa tiệc hay những công việc rửa bát hàng ngày. Nó kết hợp hiệu năng và đổi mới với một thiết kế hấp dẫn. Đây là thứ gần nhất chúng ta từng thấy với sự hoàn hảo của máy rửa bát." />
+    <TextStringDefinition InstanceID="0xBA562D15" TextString="Người Làm Công Việc Rửa Bát Chuyên Nghiệp" />
+    <TextStringDefinition InstanceID="0x316AA46E" TextString="{S.Dirty Dish}{P.Dirty Dishes}" />
+    <TextStringDefinition InstanceID="0xD4B29544" TextString="Đồi Cát" />
+    <TextStringDefinition InstanceID="0x3B800571" TextString="Đó là một đồi cát!" />
+    <TextStringDefinition InstanceID="0xD04567ED" TextString="dirtMoundGENdirt tên placeholder" />
+    <TextStringDefinition InstanceID="0xF4D8EED2" TextString="dirtMoundGENdirt mô tả placeholder" />
+    <TextStringDefinition InstanceID="0x41606E53" TextString="Tủ Bát Ăn Carina" />
+    <TextStringDefinition InstanceID="0x378E94FC" TextString="Những đường nét hiện đại, gọn gàng tinh tế đặc trưng cho chiếc tủ bát ăn đơn giản này. Cửa kính giữ cho bụi bẩn không bám vào những chiếc đĩa ăn của bạn. Hình học chưa bao giờ đẹp đến thế." />
+    <TextStringDefinition InstanceID="0x81B26F97" TextString="Tủ Bát Ăn Công Chúa Biển" />
+    <TextStringDefinition InstanceID="0x3C5D9418" TextString="Cốc, đĩa và đĩa lớn, ôi trời! Chiếc tủ bát ăn được trang bị đầy đủ do Công Chúa Cordelia thiết kế, lấy cảm hứng từ chính biển cả! Các chân được mô phỏng theo hình dạng của một xúc tu bạch tuộc và mặt tủ được trang trí bằng họa tiết vỏ sò." />
+    <TextStringDefinition InstanceID="0xFA3C01C4" TextString="Tủ Siêu Lớn" />
+    <TextStringDefinition InstanceID="0x72BB66F1" TextString="Giá trị thực sự của một chiếc tủ như thế này nằm ở những vết xước nhỏ và dấu vết công cụ chỉ có thể tìm thấy trên những đồ cổ thủ công. Và nhờ các thuật toán AI độc quyền được sử dụng bởi robot lắp ráp đồ nội thất của chúng tôi, chúng có thể tái tạo những khuyết điểm này với độ chính xác tối đa." />
+    <TextStringDefinition InstanceID="0xB31E1ECC" TextString="Tủ Ăn Vườn Wainscott" />
+    <TextStringDefinition InstanceID="0xE4B2C2E9" TextString="Kệ gỗ gỗ có vẻ đã trải qua thời gian một cách tế nhị của chiếc tủ ăn sang trọng này trưng bày những bộ đồ sứ cổ quý nhất của bạn cho tất cả khách dự tiệc tối đều phải ghen tị một cách xứng đáng." />
+    <TextStringDefinition InstanceID="0xF4669165" TextString="Nhà là Nơi Có Tủ" />
+    <TextStringDefinition InstanceID="0xFDD739BA" TextString="Công trình vĩ đại này tuyên bố tình yêu của bạn cho gia đình, đồng thời cung cấp một nơi trú ẩn an toàn cho những kỷ vật tinh xảo. Sự hiện diện mạnh mẽ, chiều cao vượt trội và những bức tường gỗ chắc chắn được thiết kế để bảo vệ những chiếc bát sứ mỏng manh nhất, che chở và đỡ nâng chúng cao hơn cả sự hỗn loạn từ thú cưng và trẻ nhỏ. Chưa bao giờ chiếc bát sứ cảm thấy an toàn và như ở nhà đến thế, ngay trong ngôi nhà của bạn." />
+    <TextStringDefinition InstanceID="0x8F2C13D2" TextString="Tủ Trưng Bày Lịch Lãm" />
+    <TextStringDefinition InstanceID="0xA1DF5D83" TextString="Trưng bày tình cảm của bạn cho những sở thích tinh tế. Tủ Trưng Bày Lịch Lãm có những kệ sâu, đón tiếp ấm áp dịu dàng ôm lấy những chiếc bát sứ tốt nhất của bạn, trong khi cho phép khách của bạn thoáng nhìn thấy những tài sản đáng ngưỡng mộ nhất của họ. Một tủ đôi chắc chắn bên dưới đậy kín những kho báu khác, tạo nên một không khí bí ẩn đầy hấp dẫn." />
+    <TextStringDefinition InstanceID="0x6A2C73A0" TextString="Kệ Sách MK-2001" />
+    <TextStringDefinition InstanceID="0x6927DE25" TextString="Một khối đá bí ẩn được tìm thấy gần một bầy tinh tinh đã được khắc thành một chiếc kệ sách độc nhất chắc chắn sẽ thu hút sự chú ý!" />
+    <TextStringDefinition InstanceID="0x6016C736" TextString="Người Lính La Mã" />
+    <TextStringDefinition InstanceID="0x838AF8EF" TextString="Với mỗi món đồ nội thất nghệ thuật được thiết kế bởi Reclamation Homeware, mục tiêu của chúng tôi là nhắc nhở mọi quốc gia trên thế giới chính xác khả năng của tâm trí con người. Người Lính La Mã không ngoại lệ. Bạn không thể nhìn vào nó mà không rơi nước mắt vì kinh ngạc trước những thành tựu của nhân loại." />
+    <TextStringDefinition InstanceID="0xDABD6FC0" TextString="Bàn Trang Trí Bóng Loáng" />
+    <TextStringDefinition InstanceID="0x17FA68C5" TextString="Những lớp hoàn thiện bóng loáng, mượt mà cho cả thế giới thấy bạn hiện đại và tinh tế. Nhưng bí mật, bạn có thể là một đống lộn xộn--bạn chỉ dọn dẹp thật tốt thôi." />
+    <TextStringDefinition InstanceID="0xF8359A84" TextString="Mở khóa ở cấp 7 của nghề Viết lách khi ở nhánh Phóng viên." />
+    <TextStringDefinition InstanceID="0x48D8826B" TextString="Mở khóa bằng cách đạt đến cấp 7 của nghề Viết lách khi ở nhánh Phóng viên." />
+    <TextStringDefinition InstanceID="0x3C76E443" TextString="Bàn Viết Cổ" />
+    <TextStringDefinition InstanceID="0xFB1C518C" TextString="Từng thuộc về người chép sách huyền thoại H. Reginald Fairechilde, tác giả của tiểu thuyết kinh điển “Việc Cắt Tỉa Những Ký Ức Tương Lai”. Tin đồn cho rằng chiếc bàn này là nguồn cảm hứng của ông…" />
+    <TextStringDefinition InstanceID="0xF02939CA" TextString="Mở khóa ở cấp 3 của nghề Secret Agent." />
+    <TextStringDefinition InstanceID="0xCC96DCC5" TextString="Mở khóa bằng cách đạt đến cấp 3 của nghề Secret Agent." />
+    <TextStringDefinition InstanceID="0x35F80031" TextString="Trạm Công Tác Trinh Sát" />
+    <TextStringDefinition InstanceID="0x48DDED0E" TextString="Công nghệ của người tốt vui vẻ như đồ chơi của kẻ xấu, với nhiều đèn nhấp nháy khẩn cấp và công tắc để sử dụng trong trận chiến với các siêu ác nhân tận tâm nhất." />
+    <TextStringDefinition InstanceID="0xE65E2D41" TextString="Mở khóa ở cấp 6 của nghề Phi hành gia." />
+    <TextStringDefinition InstanceID="0x2EEBCCDA" TextString="Mở khóa bằng cách đạt đến cấp 6 của nghề Phi hành gia." />
+    <TextStringDefinition InstanceID="0x306B1C4E" TextString="Điều Khiển Sứ Mệnh" />
+    <TextStringDefinition InstanceID="0x4F6A4FF7" TextString="Được trang bị đầy đủ nút bấm sáng rực và đèn nhấp nháy, bảng điều khiển chương trình không gian này sẽ hiển thị tất cả dữ liệu dự án liên quan từ phóng đổ bộ đến hạ cánh. T trừ mười giây và đếm ngược…" />
+    <TextStringDefinition InstanceID="0x07D853FC" TextString="Bàn Đa Năng" />
+    <TextStringDefinition InstanceID="0x1324CCF9" TextString="Dù đang làm nhật ký, viết một cuộc phiêu lưu biển lớn, thiết kế một số đồ nội thất mới, hay viết trong nhật ký về bạn trai cướp biển đáng mơ mộng của mình, Công Chúa Cordelia thường xuyên sử dụng một chiếc bàn giống hệt cái này. Một tấm đá cẩm thạch tuyệt vời giúp ngòi bút của cô trôi chảy mượt mà. Và nếu bạn không dùng bút, như hầu hết người hiện đại, đó là một nơi tuyệt vời để đặt máy tính của bạn." />
+    <TextStringDefinition InstanceID="0xBAC90FED" TextString="Bàn Siêu Lớn" />
+    <TextStringDefinition InstanceID="0xFC4EA6D2" TextString="Một chiếc bàn không nên là một chiếc kệ được trang trí bằng đống đồ lộn xộn. Nó nên là một trạm làm việc! Với những đường nét đơn giản và cấu trúc chắc chắn, chiếc bàn cổ này thực sự truyền cảm hứng cho việc làm việc chăm chỉ. Tại sao, bạn sẽ làm việc chăm chỉ trên nó y hệt như dây chuyền robot của chúng tôi đã làm việc chăm chỉ lắp ráp nó!" />
+    <TextStringDefinition InstanceID="0x3547B37C" TextString="Bàn Làm Việc Tri Thức của Kindermade" />
+    <TextStringDefinition InstanceID="0x5B296F79" TextString="Bàn Làm Việc Tri Thức của Kindermade là một nơi tuyệt vời cho trẻ em để viết, học tập và chuẩn bị cho một tương lai làm việc tại một trạm rất giống với cái này trong nhiều, nhiều giờ mỗi ngày." />
+    <TextStringDefinition InstanceID="0xDFC1F111" TextString="Bàn Vẽ Kỹ Thuật" />
+    <TextStringDefinition InstanceID="0x8A22146E" TextString="Hãy nhớ những gì họ nói: &quot;Từ một chiếc bàn bừa bộn đến những tác phẩm sáng tạo nhất.&quot; Đúng rồi “họ” là những nhà sản xuất chiếc bàn bừa bộn, nhưng nó chẳng nghe có vẻ đúng đắn sao?" />
+    <TextStringDefinition InstanceID="0x1881A244" TextString="Chia tay với ổ cứng của bạn. Máy tính tất cả trong một siêu nhanh này có mọi sức mạnh xử lý bạn cần, trong một cỗ máy tuyệt vời không dây, am hiểu Web. Lướt sóng đã lên!" />

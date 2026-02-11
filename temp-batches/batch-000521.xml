@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x5A652992" TextString="Ồ, ai mời thằng này vậy..." />
+    <TextStringDefinition InstanceID="0x62CE6E53" TextString="Đã xem đám cưới!" />
+    <TextStringDefinition InstanceID="0xB4864C62" TextString="Không gì bằng một đám cưới để tạo nụ cười trên khuôn mặt của {0.SimFirstName}." />
+    <TextStringDefinition InstanceID="0x5FF4569C" TextString="Thời gian hồi cho Lời Thề Mới" />
+    <TextStringDefinition InstanceID="0xB4E2ABB5" TextString="Lời Thề Mới" />
+    <TextStringDefinition InstanceID="0x448A3F2A" TextString="Thiết lập lại cam kết suốt đời là một dịp vui vẻ đối với bất kỳ Sim nào." />
+    <TextStringDefinition InstanceID="0x84BA0BDF" TextString="Đã hứa!" />
+    <TextStringDefinition InstanceID="0x9D694030" TextString="Một Sim đang yêu chưa bao giờ quá trẻ để kết một giao ước có thể kéo dài suốt đời." />
+    <TextStringDefinition InstanceID="0x8D7FB904" TextString="Bạn đời mới" />
+    <TextStringDefinition InstanceID="0x35363431" TextString="Một mối quan hệ mới là một sự kiện hạnh phúc trong cuộc sống của bất kỳ Sim nào!" />
+    <TextStringDefinition InstanceID="0x8E9D4B96" TextString="Bạn mới" />
+    <TextStringDefinition InstanceID="0xFD944BCF" TextString="Kết bạn mới thực sự có thể khiến một Sim vui lên!" />
+    <TextStringDefinition InstanceID="0xE86B9115" TextString="Kẻ thù mới!" />
+    <TextStringDefinition InstanceID="0x717C900A" TextString="Đối với Sim Ác, không có gì tốt hơn là làm một vài kẻ thù mới." />
+    <TextStringDefinition InstanceID="0xFB280412" TextString="Một Kẻ Thù Mới" />
+    <TextStringDefinition InstanceID="0xF1631DC3" TextString="Kết thù với ai đó chắc chắn sẽ làm máu sôi lên." />
+    <TextStringDefinition InstanceID="0x881E4784" TextString="Bạn thân mới" />
+    <TextStringDefinition InstanceID="0x3A61EBB1" TextString="Không có gì tốt hơn là trở thành bạn thân của ai đó mới!" />
+    <TextStringDefinition InstanceID="0xAC764A5F" TextString="Vừa kết hôn!" />
+    <TextStringDefinition InstanceID="0xF9F087B0" TextString="Lời hứa về sự đồng hành suốt đời sẽ làm bất kỳ Sim nào hạnh phúc." />
+    <TextStringDefinition InstanceID="0x1A8F3C8F" TextString="Góa phụ (nam)" />
+    <TextStringDefinition InstanceID="0x81971EF0" TextString="Góa phụ (nữ)" />
+    <TextStringDefinition InstanceID="0x9FA788CC" TextString="Đã ly dị" />
+    <TextStringDefinition InstanceID="0x6385B0E9" TextString="Sự kết thúc của một cuộc hôn nhân là một sự kiện buồn trong cuộc sống của bất kỳ Sim nào." />
+    <TextStringDefinition InstanceID="0x46CBEA0B" TextString="Nỗi buồn chia tay" />
+    <TextStringDefinition InstanceID="0xB271F644" TextString="Một mối quan hệ sắp kết thúc là một sự kiện buồn trong cuộc sống của bất kỳ Sim nào." />
+    <TextStringDefinition InstanceID="0x72D650CD" TextString="Cuộc chia tay đau đớn" />
+    <TextStringDefinition InstanceID="0xB1A95732" TextString="Sim ủ rũ không thể chịu được trọng lượng cảm xúc của một cuộc chia tay." />
+    <TextStringDefinition InstanceID="0xCA2D53C2" TextString="Bị bỏ rơi?!?" />
+    <TextStringDefinition InstanceID="0x6F511513" TextString="Bị bỏ rơi thực sự khiến một Sim nóng tính bực bội!" />
+    <TextStringDefinition InstanceID="0x20A29219" TextString="Bị từ chối!" />
+    <TextStringDefinition InstanceID="0xC2C6BD86" TextString="Ít thứ đau đớn hơn là bị người mình yêu từ chối." />
+    <TextStringDefinition InstanceID="0x632C4D44" TextString="Bị người yêu từ chối!" />
+    <TextStringDefinition InstanceID="0xC2F76D71" TextString="Bất chấp việc phát triển các mối quan hệ khác, một số Sim ngần ngại rời bỏ vợ/chồng của họ." />
+    <TextStringDefinition InstanceID="0x6185D593" TextString="Nhớ nhà" />
+    <TextStringDefinition InstanceID="0x18DAB33C" TextString="Đi xa một chút cũng tốt, nhưng không có nơi nào như nhà." />
+    <TextStringDefinition InstanceID="0xB8ED2490" TextString="Lời nói trẻ con" />
+    <TextStringDefinition InstanceID="0x80D232F5" TextString="Những Sim ghét trẻ em thực sự không thể chịu đựng những câu chuyện trẻ con." />
+    <TextStringDefinition InstanceID="0x90092162" TextString="Kinh khủng " />
+    <TextStringDefinition InstanceID="0x79DFF833" TextString="Thật đáng sợ! {0.SimFirstName} sẽ phải bình tĩnh lại một chút sau tất cả sự hưng phấn này." />
+    <TextStringDefinition InstanceID="0xB215346C" TextString="Hay quá!" />
+    <TextStringDefinition InstanceID="0x11E7C909" TextString="Đó là một nỗi sợ tốt!" />
+    <TextStringDefinition InstanceID="0x24460988" TextString="Ma" />
+    <TextStringDefinition InstanceID="0xFADAEF9D" TextString="Cảm giác này thật tuyệt!" />
+    <TextStringDefinition InstanceID="0x5978562F" TextString="Có phải cái đó vừa di chuyển?" />
+    <TextStringDefinition InstanceID="0xF32FEFE0" TextString="{0.SimFirstName} không chắc... nhưng có phải bức tranh đó vừa di chuyển?" />
+    <TextStringDefinition InstanceID="0x83752AE1" TextString="Không bao giờ sợ" />
+    <TextStringDefinition InstanceID="0x53BED2DE" TextString="Thật thất vọng... Chẳng có nổi một nỗi sợ tốt!" />
+    <TextStringDefinition InstanceID="0x02486805" TextString="Chân bay" />
+    <TextStringDefinition InstanceID="0x66D532DA" TextString="Bất kỳ ai cũng có thể đấm vào một Túi Đấm, nhưng đá nó - đó là suy nghĩ bên ngoài &quot;hộp.&quot;" />

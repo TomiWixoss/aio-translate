@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xB6F89BC3" TextString="Tối" />
+    <TextStringDefinition InstanceID="0x7C1115B0" TextString="Mát" />
+    <TextStringDefinition InstanceID="0x819FE86B" TextString="Sáng" />
+    <TextStringDefinition InstanceID="0xEA645872" TextString="Không thể tự động khởi động lại" />
+    <TextStringDefinition InstanceID="0xF4C609EE" TextString="Đã gặp lỗi khi cố gắng tự động khởi động lại The Sims 4. Lần tiếp theo khi trò chơi được khởi động, các gói đã yêu cầu sẽ được tải." />
+    <TextStringDefinition InstanceID="0xEFCB7E1E" TextString="Cần khởi động lại trò chơi" />
+    <TextStringDefinition InstanceID="0xF832BC12" TextString="Để tải các gói đã yêu cầu, trò chơi cần được khởi động lại. Bạn có muốn khởi động lại ngay bây giờ không?" />
+    <TextStringDefinition InstanceID="0xFE535490" TextString="Vật phẩm trong Chế độ xây dựng mang lại hiệu ứng chơi:" />
+    <TextStringDefinition InstanceID="0x83D2A80F" TextString="Nếu tắt, các hiệu ứng liên quan đến bụi sẽ không còn xuất hiện trên các hộ gia đình đang chơi." />
+    <TextStringDefinition InstanceID="0xBA2A3654" TextString="Bật hệ thống bụi" />
+    <TextStringDefinition InstanceID="0x95DA7046" TextString="Giao diện người dùng khi chụp:" />
+    <TextStringDefinition InstanceID="0x75BC66F8" TextString="Nhỏ" />
+    <TextStringDefinition InstanceID="0x069FFB6E" TextString="Trung bình" />
+    <TextStringDefinition InstanceID="0x653616E0" TextString="Lớn" />
+    <TextStringDefinition InstanceID="0x90B23CB5" TextString="Không nén" />
+    <TextStringDefinition InstanceID="0x381B8C0E" TextString="Trung bình" />
+    <TextStringDefinition InstanceID="0x5F5AD8AF" TextString="Thấp" />
+    <TextStringDefinition InstanceID="0x16B1576B" TextString="Cao" />
+    <TextStringDefinition InstanceID="0xF7A4F800" TextString="Quay video" />
+    <TextStringDefinition InstanceID="0x18A1108E" TextString="Đảo ngược xoay camera theo chiều dọc:" />
+    <TextStringDefinition InstanceID="0x03B6B14E" TextString="Hiển thị hộp thoại sau khi chụp:" />
+    <TextStringDefinition InstanceID="0x18B0D383" TextString="Giao diện người dùng khi chụp:" />
+    <TextStringDefinition InstanceID="0x7D941DCF" TextString="Chụp ảnh/Lưu trữ" />
+    <TextStringDefinition InstanceID="0x0374DB85" TextString="Đường dẫn vị trí:" />
+    <TextStringDefinition InstanceID="0x450D31DC" TextString="Đảo ngược xoay camera theo chiều ngang:" />
+    <TextStringDefinition InstanceID="0xC38DFE07" TextString="Cuộn mép màn hình:" />
+    <TextStringDefinition InstanceID="0x89E87488" TextString="Giọng nói:" />
+    <TextStringDefinition InstanceID="0x7703B460" TextString="Hiệu ứng âm thanh:" />
+    <TextStringDefinition InstanceID="0xCDDE412A" TextString="Âm thanh giao diện:" />
+    <TextStringDefinition InstanceID="0x9F76BD8A" TextString="Kích thước chụp:" />
+    <TextStringDefinition InstanceID="0x51ADD704" TextString="Chất lượng chụp:" />
+    <TextStringDefinition InstanceID="0xB9D5165E" TextString="Nhạc:" />
+    <TextStringDefinition InstanceID="0x78402838" TextString="Camera The Sims 3:" />
+    <TextStringDefinition InstanceID="0x53670F40" TextString="Camera" />
+    <TextStringDefinition InstanceID="0x64D461D5" TextString="Cho phép chụp giao diện người dùng khi quay video." />
+    <TextStringDefinition InstanceID="0x9EE3C6CB" TextString="Đảo ngược các điều khiển xoay camera theo chiều dọc." />
+    <TextStringDefinition InstanceID="0x55DA217E" TextString="Cho phép chụp giao diện người dùng khi chụp ảnh màn hình." />
+    <TextStringDefinition InstanceID="0xAC2823C9" TextString="Đảo ngược các điều khiển xoay camera theo chiều ngang." />
+    <TextStringDefinition InstanceID="0xDAB4D756" TextString="Cho phép camera di chuyển khi con trỏ chuột gần mép màn hình.\n\n Cuộn mép màn hình chỉ khả dụng trong chế độ toàn màn hình." />
+    <TextStringDefinition InstanceID="0x1E00D36D" TextString="Điều chỉnh âm thanh nào được thu âm khi quay video." />
+    <TextStringDefinition InstanceID="0x96C2064D" TextString="Điều chỉnh âm thanh nào được thu âm khi quay video." />
+    <TextStringDefinition InstanceID="0xDA691379" TextString="Điều chỉnh âm thanh nào được thu âm khi quay video." />
+    <TextStringDefinition InstanceID="0xC662B96F" TextString="Điều chỉnh kích thước khung hình cho video đã quay." />
+    <TextStringDefinition InstanceID="0x6B1BB447" TextString="Điều chỉnh mức chất lượng của video đã quay.\n\n  Cài đặt cao hơn yêu cầu nhiều dung lượng lưu trữ hơn." />
+    <TextStringDefinition InstanceID="0x9E8E8B65" TextString="Điều chỉnh âm thanh nào được thu âm khi quay video." />
+    <TextStringDefinition InstanceID="0x8E36B32F" TextString="Đặt camera sử dụng cài đặt The Sims 3, chẳng hạn như điều khiển pitch bằng nút chuột giữa." />
+    <TextStringDefinition InstanceID="0x39A6BDEB" TextString="Sims Delivery Express" />
+    <TextStringDefinition InstanceID="0x4356A6D6" TextString="Sims Delivery" />
+    <TextStringDefinition InstanceID="0x7B6455FA" TextString="Chỉ khi khởi động" />
+    <TextStringDefinition InstanceID="0x80E8413E" TextString="Không bao giờ" />

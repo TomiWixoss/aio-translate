@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xE743622C" TextString="Mua Ưu Đãi Câu Lạc Bộ" />
+    <TextStringDefinition InstanceID="0x3B3FA8DB" TextString="Sửa Trang Phục Câu Lạc Bộ" />
+    <TextStringDefinition InstanceID="0xDF8E1C58" TextString="Bạn không thể bắt đầu hoặc tham gia một buổi tụ tập khi đang đi làm hoặc không ở khu vực hoạt động." />
+    <TextStringDefinition InstanceID="0x1284E99A" TextString="Quản Lý Câu Lạc Bộ" />
+    <TextStringDefinition InstanceID="0x604D3FA4" TextString="Tham Gia Tụ Tập" />
+    <TextStringDefinition InstanceID="0x590BDAE4" TextString="Bắt Đầu Tụ Tập" />
+    <TextStringDefinition InstanceID="0xBAAF5547" TextString="Kết Thúc Tụ Tập" />
+    <TextStringDefinition InstanceID="0xCE0C5E29" TextString="Chi Tiết Câu Lạc Bộ" />
+    <TextStringDefinition InstanceID="0x1A942074" TextString="Câu lạc bộ này không đủ thành viên để bắt đầu một buổi tụ tập. Hãy thử tuyển thêm để có tổng cộng 2 thành viên." />
+    <TextStringDefinition InstanceID="0x33BD6976" TextString="Chỉ Lãnh Đạo Câu Lạc Bộ mới có thể sửa trang phục câu lạc bộ." />
+    <TextStringDefinition InstanceID="0x3204D26E" TextString="Bạn không thể bắt đầu tụ tập khi đang là khách hàng tại một doanh nghiệp." />
+    <TextStringDefinition InstanceID="0x267F8F18" TextString="ĐẶC ĐIỂM" />
+    <TextStringDefinition InstanceID="0xA0003034" TextString="Đặc điểm" />
+    <TextStringDefinition InstanceID="0x72170E9C" TextString="Mô Hình Hành Vi" />
+    <TextStringDefinition InstanceID="0xD4124B61" TextString="Người Già" />
+    <TextStringDefinition InstanceID="0x755A46F6" TextString="Bằng Cấp" />
+    <TextStringDefinition InstanceID="0x00BF124B" TextString="Thanh Niên" />
+    <TextStringDefinition InstanceID="0x381FD654" TextString="Thanh Niên" />
+    <TextStringDefinition InstanceID="0xBAD95844" TextString="Thanh Niên" />
+    <TextStringDefinition InstanceID="0x1FD1F560" TextString="Lão hóa có thể xảy ra theo một vài cách khác nhau. Sự kiện, khát vọng và hơn thế nữa." />
+    <TextStringDefinition InstanceID="0x0D516C40" TextString="Trẻ Mới Biết Đi" />
+    <TextStringDefinition InstanceID="0x99B1E9C3" TextString="Trẻ Mới Biết Đi" />
+    <TextStringDefinition InstanceID="0x7A7DBCFD" TextString="Trẻ Mới Biết Đi" />
+    <TextStringDefinition InstanceID="0x9133E3AE" TextString="Thanh Thiếu Niên" />
+    <TextStringDefinition InstanceID="0xBDD7C6E1" TextString="Thanh Thiếu Niên" />
+    <TextStringDefinition InstanceID="0x27E8B34B" TextString="Thanh Thiếu Niên" />
+    <TextStringDefinition InstanceID="0xB3666B9E" TextString="Trẻ Sơ Sinh" />
+    <TextStringDefinition InstanceID="0xB90495D1" TextString="Trẻ Sơ Sinh" />
+    <TextStringDefinition InstanceID="0x2415681B" TextString="Trẻ Sơ Sinh" />
+    <TextStringDefinition InstanceID="0xE3C341E0" TextString="Người Già" />
+    <TextStringDefinition InstanceID="0x6FADEDE3" TextString="Người Già" />
+    <TextStringDefinition InstanceID="0x163CF679" TextString="Ngựa Con" />
+    <TextStringDefinition InstanceID="0x19E1F9F2" TextString="Trẻ Em" />
+    <TextStringDefinition InstanceID="0xCF7F749D" TextString="Trẻ Em" />
+    <TextStringDefinition InstanceID="0x680AF53F" TextString="Trẻ Em" />
+    <TextStringDefinition InstanceID="0x5EB3CA36" TextString="Em Bé" />
+    <TextStringDefinition InstanceID="0xE387D719" TextString="Em Bé" />
+    <TextStringDefinition InstanceID="0xB41264C3" TextString="Em Bé" />
+    <TextStringDefinition InstanceID="0x4E81AE18" TextString="Người Lớn" />
+    <TextStringDefinition InstanceID="0x7780E94B" TextString="Người Lớn" />
+    <TextStringDefinition InstanceID="0x312017C5" TextString="Người Lớn" />
+    <TextStringDefinition InstanceID="0x9119858F" TextString="Độ Phân Giải" />
+    <TextStringDefinition InstanceID="0xF867A035" TextString="Thời Gian Còn Lại Để Hoàn Thành: {0.Timespan}" />
+    <TextStringDefinition InstanceID="0x4CBB3486" TextString="Danh Tiếng Mất Đi" />
+    <TextStringDefinition InstanceID="0xC783E12C" TextString="Danh tiếng của {0.SimFirstName} bây giờ là {1.String}." />
+    <TextStringDefinition InstanceID="0xC56F63A2" TextString="Phụ Nữ &amp; Nam Giới" />
+    <TextStringDefinition InstanceID="0x186FB4DA" TextString="Sở Thích Mối Quan Hệ" />
+    <TextStringDefinition InstanceID="0x10818039" TextString="Vào Chế Độ Tạo Nhân Vật" />
+    <TextStringDefinition InstanceID="0xCFB96568" TextString="Điểm Thích và Không Thích" />
+    <TextStringDefinition InstanceID="0x62166BD5" TextString="Sở Thích" />

@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xB3EC96D8" TextString="Mua một TV" />
+    <TextStringDefinition InstanceID="0x18717AA3" TextString="Mua một vòi sen hoặc bồn tắm" />
+    <TextStringDefinition InstanceID="0x150787AD" TextString="Mua một bồn cầu" />
+    <TextStringDefinition InstanceID="0xB8D7C569" TextString="Mua một tủ lạnh" />
+    <TextStringDefinition InstanceID="0xEDB8B165" TextString="Mua một ghế sofa hoặc ghế" />
+    <TextStringDefinition InstanceID="0xF44EAFB7" TextString="Mua một giường" />
+    <TextStringDefinition InstanceID="0xC0D55F93" TextString="Mua một vật phẩm trị giá {0.Money}" />
+    <TextStringDefinition InstanceID="0x86B3D882" TextString="{2.SimFirstName} nghiêm túc à?! Sao {M2.he}{F2.she} dám nói thế?! {1.SimFirstName} sẽ không chịu thua đâu!" />
+    <TextStringDefinition InstanceID="0xFA64D310" TextString="Đã đến lúc biến cảm xúc của {1.SimFirstName} thành bài hát rồi!" />
+    <TextStringDefinition InstanceID="0x68AC2AB8" TextString="Đã đến lúc biến cảm xúc của {1.SimFirstName} thành bài hát rồi!" />
+    <TextStringDefinition InstanceID="0x5DCB48AF" TextString="Đã đến lúc biến cảm xúc của {1.SimFirstName} thành bài hát rồi!" />
+    <TextStringDefinition InstanceID="0x9E929993" TextString="Thời gian viết nhật ký!" />
+    <TextStringDefinition InstanceID="0x69E84D24" TextString="Ngắn gọn và ngọt ngào." />
+    <TextStringDefinition InstanceID="0x3B22E985" TextString="Làm việc với những hạn chế thường có thể trở thành nguồn sáng tạo tuyệt vời. Sách là một chuyện, kịch bản lại là một con thú hoàn toàn khác." />
+    <TextStringDefinition InstanceID="0xD209C2B3" TextString="Người ngoài hành tinh! Công nghệ! Du hành thời gian!" />
+    <TextStringDefinition InstanceID="0x617F2C0B" TextString="Nhịp iambic năm âm..." />
+    <TextStringDefinition InstanceID="0xBCB99436" TextString="Phấn đấu cho sự xuất sắc. Nếu {1.SimFirstName} tin thì mọi thứ đều có thể." />
+    <TextStringDefinition InstanceID="0xE8A6D7E6" TextString="Có cả một thế giới lịch sử đang chờ được kể lại một cách chính xác." />
+    <TextStringDefinition InstanceID="0x3B756AFE" TextString="Không có điều tốt lành nào đến từ vết bánh xe thoát khỏi một vùng đầm lầy bị lãng quên..." />
+    <TextStringDefinition InstanceID="0x9F5FF060" TextString="Cần thời gian để tạo ra một vở hài kịch hay." />
+    <TextStringDefinition InstanceID="0x3A7058F3" TextString="Bạn có nghe câu chuyện về thỏ trong tủ đông không?" />
+    <TextStringDefinition InstanceID="0xE503428E" TextString="Nó phải dễ nhớ." />
+    <TextStringDefinition InstanceID="0x91170429" TextString="Từng có một thế giới kỳ diệu tên là..." />
+    <TextStringDefinition InstanceID="0xC8C7369E" TextString="Nấu ăn để đạt danh tiếng và những công thức tốt nhất!" />
+    <TextStringDefinition InstanceID="0xD99384A4" TextString="Một vòng tròn xanh kết bạn với một hình vuông xanh lá. Một kiệt tác thực sự." />
+    <TextStringDefinition InstanceID="0x88064F06" TextString="Một câu chuyện cá nhân có trái tim." />
+    <TextStringDefinition InstanceID="0x71400EE6" TextString="Trong khi {1.SimFirstName} không thể lúc nào cũng lên kế hoạch cho một Cuốn Sách Bán Chạy, không có thời điểm nào tốt hơn để khoe {M1.his}{F1.her} kỹ năng và thử." />
+    <TextStringDefinition InstanceID="0xA62F4A10" TextString="Mẹo nhỏ cho việc lắc và khuấy." />
+    <TextStringDefinition InstanceID="0xD9DDD5CD" TextString="Kỹ năng báo chí đang được thể hiện!" />
+    <TextStringDefinition InstanceID="0xA61704C8" TextString="Cần rất nhiều sức mạnh cốt lõi để tập luyện giữa không trung." />
+    <TextStringDefinition InstanceID="0xF5D2954B" TextString="Một bước nhỏ tiến lên, một bước khổng lồ để đến không gian!" />
+    <TextStringDefinition InstanceID="0x3F253D85" TextString="Bỏ công sức để gặt hái thành quả." />
+    <TextStringDefinition InstanceID="0x353759F0" TextString="Thư giãn đi. Không ai thực sự làm việc chăm chỉ như họ nói đâu." />
+    <TextStringDefinition InstanceID="0x435971D6" TextString="Kết nối với đồng nghiệp là cách tốt nhất để biết ai cần bị lấy cắp bánh mì." />
+    <TextStringDefinition InstanceID="0x76A9AD34" TextString="Điều gì mà chưa có Sim nào từng làm? {1.SimFirstName} có ngay ý tưởng!" />
+    <TextStringDefinition InstanceID="0x484B2EAF" TextString="Chữ &quot;hoo&quot; rõ ràng là {2.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xEB99DD12" TextString="Nhìn kìa Mẹ! Có thể kiếm được Simoleons bằng cách chơi game." />
+    <TextStringDefinition InstanceID="0x564920E7" TextString="Đã đến lúc thể hiện ai là người giỏi nhất!" />
+    <TextStringDefinition InstanceID="0x065CFB5F" TextString="Ai là người giỏi nhất? {1.SimFirstName} là và {M1.he}{F1.she} sẽ chứng minh bằng cách thắng một trò chơi cạnh tranh!" />
+    <TextStringDefinition InstanceID="0x4E0ED35A" TextString="Chiếu bí!" />
+    <TextStringDefinition InstanceID="0xB196EC9C" TextString="Có một con át chủ bài trong tay." />
+    <TextStringDefinition InstanceID="0x5C7FF685" TextString="Không phải cỏ dại!" />
+    <TextStringDefinition InstanceID="0x6F8B817F" TextString="Không quá ít... Không quá nhiều... Cần phải vừa phải." />
+    <TextStringDefinition InstanceID="0x4D372D5B" TextString="Trận đấu lớn tối nay!" />
+    <TextStringDefinition InstanceID="0x92EE23C3" TextString="Họ đã hôn nhau chưa? {1.SimFirstName} cần xem tập tiếp theo để biết!" />
+    <TextStringDefinition InstanceID="0x897E7CE9" TextString="Thời gian cho hoạt hình! Một món quà cho cả trẻ em và người lớn!" />
+    <TextStringDefinition InstanceID="0x92A42B8A" TextString="Mọi thứ họ làm trông đều ngon lành!" />
+    <TextStringDefinition InstanceID="0x7FB3CFF3" TextString="Có tâm trạng để cười thật to!" />
+    <TextStringDefinition InstanceID="0xDD058C45" TextString="Có quá nhiều lựa chọn! {1.SimFirstName} sẽ chọn cái nào?" />
+    <TextStringDefinition InstanceID="0x5AB778EC" TextString="Tại sao phải chơi game khi {1.SimFirstName} có thể xem một Sim khác chơi với bình luận hài hước?" />

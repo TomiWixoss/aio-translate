@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x0700185B" TextString="Thời gian kể chuyện" />
+    <TextStringDefinition InstanceID="0xE153198E" TextString="Kể chuyện trước khi ngủ" />
+    <TextStringDefinition InstanceID="0x20C15C10" TextString="Kể chuyện trước khi ngủ, làm ơn" />
+    <TextStringDefinition InstanceID="0xA4F8A3AE" TextString="Yêu cầu {2.SimFirstName} đọc để đi ngủ" />
+    <TextStringDefinition InstanceID="0x9118AA6E" TextString="Đọc để Trẻ nhỏ đi ngủ" />
+    <TextStringDefinition InstanceID="0xB0259FFF" TextString="Đọc cho {2.SimFirstName} đi ngủ" />
+    <TextStringDefinition InstanceID="0x13B8B3CB" TextString="Đặt Trẻ nhỏ lên giường" />
+    <TextStringDefinition InstanceID="0xED14202E" TextString="Yêu cầu chúc ngủ ngon" />
+    <TextStringDefinition InstanceID="0x9B9BDBA4" TextString="Ngủ ngon" />
+    <TextStringDefinition InstanceID="0xFE39D0FA" TextString="Giờ ngủ" />
+    <TextStringDefinition InstanceID="0x80FF783F" TextString="Yêu cầu {2.SimFirstName} đặt đi ngủ" />
+    <TextStringDefinition InstanceID="0x636A74D2" TextString="Yêu cầu được đặt ở đây" />
+    <TextStringDefinition InstanceID="0x18235304" TextString="Mang đến đây, làm ơn" />
+    <TextStringDefinition InstanceID="0x11918B60" TextString="Quát vì đánh đồ chơi bông" />
+    <TextStringDefinition InstanceID="0x5834C033" TextString="Ngắm sao cùng nhau" />
+    <TextStringDefinition InstanceID="0x8AE012AA" TextString="Ngắm mây cùng nhau" />
+    <TextStringDefinition InstanceID="0x9CB569CA" TextString="(Từ trạng thái Hoài nghi)" />
+    <TextStringDefinition InstanceID="0x2E673B28" TextString="Thăm căn hộ" />
+    <TextStringDefinition InstanceID="0xCE3E177F" TextString="Tuân theo quy tắc giày của hộ gia đình" />
+    <TextStringDefinition InstanceID="0xB9BB679F" TextString="Khoe khoang về" />
+    <TextStringDefinition InstanceID="0x495AC546" TextString="Khoe khoang nữa? Không phải bây giờ, không cảm ơn." />
+    <TextStringDefinition InstanceID="0xB9B42D01" TextString="Bán" />
+    <TextStringDefinition InstanceID="0x8D5672F9" TextString="Phân giải thành linh kiện" />
+    <TextStringDefinition InstanceID="0x9F3EBA65" TextString="Kể bí mật" />
+    <TextStringDefinition InstanceID="0x8661B25A" TextString="Chơi" />
+    <TextStringDefinition InstanceID="0x5E513D53" TextString="Chờ đồ ăn hoặc uống" />
+    <TextStringDefinition InstanceID="0x5511881E" TextString="Chờ đồ ăn" />
+    <TextStringDefinition InstanceID="0x31B0A4BA" TextString="Chờ đồ uống" />
+    <TextStringDefinition InstanceID="0x2F1441E2" TextString="Xem" />
+    <TextStringDefinition InstanceID="0x1DC8F5ED" TextString="Bật" />
+    <TextStringDefinition InstanceID="0x9436067F" TextString="Tắt" />
+    <TextStringDefinition InstanceID="0xAD2EE40F" TextString="Chơi bài cùng" />
+    <TextStringDefinition InstanceID="0x942191F2" TextString="Bàn chơi không đủ chỗ để chơi một trò." />
+    <TextStringDefinition InstanceID="0x7F229EA0" TextString="{0.SimFirstName} cần các Sim khác để chơi cùng. " />
+    <TextStringDefinition InstanceID="0x53991192" TextString="Chơi cùng" />
+    <TextStringDefinition InstanceID="0x556F93A6" TextString="Lớp học không thể bắt đầu cho đến khi một khách hàng đã check-in." />
+    <TextStringDefinition InstanceID="0xDD252809" TextString="{0.SimFirstName} phải là Chủ sở hữu hoặc Nhân viên của một Cửa hàng nhỏ đang mở cửa." />
+    <TextStringDefinition InstanceID="0xE1CDD05F" TextString="Chỉ có một lớp Sở thích có thể diễn ra cùng một lúc." />
+    <TextStringDefinition InstanceID="0x7BB8AA76" TextString="Không thể bắt đầu một Lớp học khi một Sự kiện Xã hội khác đang diễn ra." />
+    <TextStringDefinition InstanceID="0x5A952C4E" TextString="Lớp {2.String}" />
+    <TextStringDefinition InstanceID="0xCFD4F105" TextString="{0.String} (+{1.Money}/Người tham dự)" />
+    <TextStringDefinition InstanceID="0xA062F8D8" TextString="Chuẩn bị bài giảng {2.String}" />
+    <TextStringDefinition InstanceID="0x12BEDCFB" TextString="Yêu cầu Kỹ năng cấp 5." />
+    <TextStringDefinition InstanceID="0x47B5D26C" TextString="Tổ chức bài giảng {2.String}" />
+    <TextStringDefinition InstanceID="0xF0767BAC" TextString="Bài giảng {2.String}" />
+    <TextStringDefinition InstanceID="0x0AD0A38A" TextString="Tâm trạng Vui vẻ giúp tăng tốc độ học kỹ năng!" />
+    <TextStringDefinition InstanceID="0x4F4330C7" TextString="Tâm trạng Cảm hứng giúp tăng tốc độ học kỹ năng!" />
+    <TextStringDefinition InstanceID="0x835BBF90" TextString="Tâm trạng Tập trung giúp tăng tốc độ học kỹ năng!" />
+    <TextStringDefinition InstanceID="0xD8B4F35B" TextString="Tâm trạng Lả lơi giúp tăng tốc độ học kỹ năng!" />
+    <TextStringDefinition InstanceID="0x43772C6C" TextString="Tâm trạng Đầy năng lượng giúp tăng tốc độ học kỹ năng!" />

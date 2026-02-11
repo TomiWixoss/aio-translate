@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x5BB2F3FC" TextString="Cười với {1.ObjectName}" />
+    <TextStringDefinition InstanceID="0xC5381E32" TextString="Ở ẹ với {1.ObjectName}" />
+    <TextStringDefinition InstanceID="0x44DD9F78" TextString="Thì thầm với {1.ObjectName}" />
+    <TextStringDefinition InstanceID="0xA2180BB6" TextString="Lắp đặt phần đốt nóng mật độ cao tự làm sạch và không bao giờ phải lau bếp nữa." />
+    <TextStringDefinition InstanceID="0xE821DC33" TextString="Với cảm biến nhiệt, thức ăn sẽ có chất lượng cao hơn." />
+    <TextStringDefinition InstanceID="0x3565EC5B" TextString="Lớp phủ chống bụi bẩn." />
+    <TextStringDefinition InstanceID="0x379E509A" TextString="{0.SimFirstName} không thể nâng cấp bếp này khi nó bị hỏng." />
+    <TextStringDefinition InstanceID="0xB6ED33F0" TextString="Nâng cấp hoàn tất!\n\n{0.SimFirstName} đã hoàn thành việc lắp đặt nâng cấp bếp." />
+    <TextStringDefinition InstanceID="0x9E2C3462" TextString="Nấu ăn không dùng lưới điện" />
+    <TextStringDefinition InstanceID="0x533252BA" TextString="Tính năng làm gia vị trên bếp đã tăng cường món ăn của {0.SimFirstName}!" />
+    <TextStringDefinition InstanceID="0x147023D1" TextString="Làm gia vị" />
+    <TextStringDefinition InstanceID="0xD90CDE27" TextString="Bếp này đã được làm gia vị rồi!" />
+    <TextStringDefinition InstanceID="0x62032F4C" TextString="Dùng sức mạnh cánh tay" />
+    <TextStringDefinition InstanceID="0x70B54663" TextString="Lau chùi đầy nhiệt huyết" />
+    <TextStringDefinition InstanceID="0xA8A713C5" TextString="Sim được tăng năng lượng lau chùi nhanh hơn nhiều!" />
+    <TextStringDefinition InstanceID="0xC1F58FD2" TextString="Giẫm chân" />
+    <TextStringDefinition InstanceID="0x11CE9D42" TextString="Chờ trẻ nhỏ" />
+    <TextStringDefinition InstanceID="0xDE435FE0" TextString="Với sóng tốt hơn, ai biết được mấy đài có thể bắt được?" />
+    <TextStringDefinition InstanceID="0x60AC4120" TextString="TẦN SỐ KHÓ HIỂU" />
+    <TextStringDefinition InstanceID="0x0DD9B0ED" TextString="Đường dẫn cách mạng này khiến máy stereo không thể hỏng." />
+    <TextStringDefinition InstanceID="0xB073140F" TextString="ÁO GIÁP KHÔNG THỂ HỎNG" />
+    <TextStringDefinition InstanceID="0x012E4EE6" TextString="Mặc dù không phải linh kiện tốt nhất, nhưng linh kiện tốt hơn sẽ làm giảm tần suất máy stereo hỏng." />
+    <TextStringDefinition InstanceID="0x5CD11F83" TextString="ÁO GIÁP NÓNG CHÁY" />
+    <TextStringDefinition InstanceID="0x77AEA086" TextString="Nâng cấp hoàn tất!\n\n{0.SimFirstName} đã hoàn thành việc lắp đặt nâng cấp máy stereo." />
+    <TextStringDefinition InstanceID="0xCA84742A" TextString="TẮT?" />
+    <TextStringDefinition InstanceID="0xA3FCDD0E" TextString="Dạy nhảy" />
+    <TextStringDefinition InstanceID="0x77D69242" TextString="Dạy nhảy" />
+    <TextStringDefinition InstanceID="0x33CD42EC" TextString="(Từ việc được cố vấn)" />
+    <TextStringDefinition InstanceID="0x45692CA3" TextString="BẢN NHẠC ĐÊM TIẾP THEO" />
+    <TextStringDefinition InstanceID="0xACC85ECC" TextString="Lắng nghe sâu sắc" />
+    <TextStringDefinition InstanceID="0x9B4D2EB0" TextString="Trân trọng nhạc cổ điển" />
+    <TextStringDefinition InstanceID="0xCA01B34F" TextString="Trân trọng nhạc Blues" />
+    <TextStringDefinition InstanceID="0x68C5F307" TextString="NGHE NHẠC METAL" />
+    <TextStringDefinition InstanceID="0xAC1F86F5" TextString="Điệu nhảy Quái vật Tử thần" />
+    <TextStringDefinition InstanceID="0x3AE998BF" TextString="NHẢY TÀN BẠO" />
+    <TextStringDefinition InstanceID="0x6D2FB445" TextString="Điệu nhảy của Kẻ chết" />
+    <TextStringDefinition InstanceID="0x09029E45" TextString="Điệu nhảy Quái vật" />
+    <TextStringDefinition InstanceID="0xF5F793EC" TextString="Nhảy" />
+    <TextStringDefinition InstanceID="0x3DA59488" TextString="Nhảy với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x9E565877" TextString="Dạy nhảy" />
+    <TextStringDefinition InstanceID="0x92CF1F53" TextString="Mời dạy nhảy" />
+    <TextStringDefinition InstanceID="0xD500A725" TextString="Lắc theo nhạc" />
+    <TextStringDefinition InstanceID="0xD8EBA80F" TextString="LÀM SAO CHO METAL KHÔNG ĐAU TAI?" />
+    <TextStringDefinition InstanceID="0x83BA3838" TextString="Khen ngợi" />
+    <TextStringDefinition InstanceID="0x5BB6FDE6" TextString="Dạy đánh vần bằng khối chữ cái" />
+    <TextStringDefinition InstanceID="0x3C6992D6" TextString="Yêu cầu học đánh vần" />
+    <TextStringDefinition InstanceID="0x9DE3975D" TextString="Dạy hình dạng" />
+    <TextStringDefinition InstanceID="0x5555A262" TextString="Yêu cầu học hình dạng" />
+    <TextStringDefinition InstanceID="0x042EFE86" TextString="Dạy khối chữ cái" />
+    <TextStringDefinition InstanceID="0x897CBFD7" TextString="Yêu cầu học khối chữ cái" />

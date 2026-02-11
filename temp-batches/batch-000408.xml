@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x307A2627" TextString="Vườn của những người yêu" />
+    <TextStringDefinition InstanceID="0x94695EBD" TextString="Tổ chức một bữa tiệc cưới ấm áp, rộn ràng với phong cách Tây Ban Nha tại địa điểm cưới hỏi xanh mát này. Thư giãn bên trong giữa các khu vườn nhà kính hoặc dành cả đêm để nhảy múa trong sân! Có đủ không gian cho cả lãng mạn và ăn mừng." />
+    <TextStringDefinition InstanceID="0x29D99D08" TextString="Chez Llama" />
+    <TextStringDefinition InstanceID="0x7E668DFA" TextString="Thưởng thức khoa học và nếm thử những món ăn thử nghiệm độc đáo nhất của Chez Llama. Nếu món ăn không trông giống như bạn nghĩ đã gọi, đó là một bữa ăn thành công và ngon lành! Gì? Đừng sợ, họ chỉ phục vụ đồ ăn được thôi." />
+    <TextStringDefinition InstanceID="0x4C002EF8" TextString="Sunny Side Up Diner" />
+    <TextStringDefinition InstanceID="0xBFEF800A" TextString="Phục vụ những bữa ăn quan trọng nhất trong ngày vào bất kỳ thời điểm nào." />
+    <TextStringDefinition InstanceID="0xCEF61F87" TextString="Âm &amp; Dương" />
+    <TextStringDefinition InstanceID="0xEA00D468" TextString="Không gian đối lập bên trong tối tăm và bên ngoài tràn ngập ánh sáng tự nhiên chính là điểm đặc trưng của câu lạc bộ này. Âm &amp; Dương thể hiện sự cân bằng giữa hai thứ đối lập, với một chút từ mỗi thứ." />
+    <TextStringDefinition InstanceID="0x143DB1DE" TextString="Club Slate" />
+    <TextStringDefinition InstanceID="0xE26CB2A7" TextString="Nhảy múa thâu đêm tại câu lạc bộ đêm sành điệu này! Nếu bạn thích quan sát, có ban công tầng hai bao quanh sàn nhảy. Nhưng, hãy đến nhảy để tránh làm phiền những người đang nhảy." />
+    <TextStringDefinition InstanceID="0xE34AE1F6" TextString="Phòng khám Nông thôn" />
+    <TextStringDefinition InstanceID="0x7CCDB85C" TextString="Cần đến bác sĩ thú y nhưng ghét cảm giác vô trùng, y tế? Được cải tạo từ một ngôi nhà cũ ở vùng nông thôn, Phòng khám Thú y này cảm thấy ấm áp và thân thiện." />
+    <TextStringDefinition InstanceID="0x62C933D9" TextString="Nhà thờ Kính người yêu Phong cách" />
+    <TextStringDefinition InstanceID="0xD6C63413" TextString="Địa điểm hoàn hảo cho một đám cưới nhà thờ cổ điển. Thề nguyện trước khung kính màu, hy vọng hôn nhân của bạn sẽ đầy màu sắc như ngày bạn kết hôn. Sau đó ra ngoài cho một bữa tiệc duyên dáng trong vườn hoa." />
+    <TextStringDefinition InstanceID="0x5B5B1383" TextString="Quán Burger Hogan" />
+    <TextStringDefinition InstanceID="0xD75DFA61" TextString="Một nhà hàng được xây dựng dựa trên ý tưởng về một bữa picnic nướng - nhưng không có kiến. Đây là nơi để đến vào những ngày bạn muốn ăn ngoài trời. Hơn nữa, sự kết hợp nào tốt hơn Thịt, Phô mai và Tinh bột? Kết hợp tất cả và bạn có nguyên liệu cho một nhà hàng tuyệt vời." />
+    <TextStringDefinition InstanceID="0x36CA7FC2" TextString="L’Attente Bistro" />
+    <TextStringDefinition InstanceID="0xDA9500E0" TextString="Bạn sẽ muốn xếp hàng và chờ đợi nhiều giờ để có một chỗ thử các công thức ngon lành của họ. Không, chúng tôi không biết các món ăn của họ là gì. Chúng tôi vẫn đang xếp hàng!" />
+    <TextStringDefinition InstanceID="0x0AAE558A" TextString="Bãi Cát Bụi Oasis Springs" />
+    <TextStringDefinition InstanceID="0xAE7E690B" TextString="Liệu đó có phải ảo ảnh? Không, đó là một ốc đảo giải trí giá cả phải chăng! Cuối cùng bowling cũng đã đến Oasis Springs, bạn không cần phải đá đá trong sa mạc để giết thời gian nữa." />
+    <TextStringDefinition InstanceID="0xF8580EF8" TextString="Creekside Smooth" />
+    <TextStringDefinition InstanceID="0x4F6CB92D" TextString="Một cổ điển của Willow Creek, Creekside Smooth là quán bar cao cấp cho những người yêu thích bầu không khí êm dịu, nhạc jazz và đồ uống tinh tế từ các bartender giàu kinh nghiệm. Đổ đầy ly và bắt đầu trò chuyện - bạn đã ở trong sự êm dịu!" />
+    <TextStringDefinition InstanceID="0xB0004EB5" TextString="Patchy’s" />
+    <TextStringDefinition InstanceID="0x402D102A" TextString="Với một cái tên lấc cấc, “gã đàn ông rậm râu bên cạnh” như Patchy’s, bạn biết rằng bạn sẽ có một trận vui vẻ khi bước chân vào quán bar hàng xóm địa phương này. Thả bộ đến quầy bar cho một ly đồ uống mát lạnh rồi gặp gỡ một vài bạn trẻ dễ thương trên sàn nhảy. Khi bạn ở Patchy’s, bạn đang tận hưởng một thời gian tuyệt vời!" />
+    <TextStringDefinition InstanceID="0x704A5FF0" TextString="Hiện đại Treo" />
+    <TextStringDefinition InstanceID="0xA206C9A2" TextString="Đi một bước đi thư giãn qua khu vườn bảo tàng để thu thập cảm hứng. Leo lên tháp để thưởng thức những tác phẩm vĩ đại nhất của cuộc đời, từ những nghệ sĩ hàng đầu trong thành phố. Tất cả được tuyển chọn địa phương và trưng bày cho bạn thưởng thức." />
+    <TextStringDefinition InstanceID="0xBE35DF3B" TextString="Thang gỗ Cổ điển" />
+    <TextStringDefinition InstanceID="0x1AB6C754" TextString="Bạn có thể trèo lên. Bạn có thể trèo xuống. Sau đó trở lại đỉnh và trượt waaaaaay xuống!" />
+    <TextStringDefinition InstanceID="0xA01F9FD1" TextString="Lắc" />
+    <TextStringDefinition InstanceID="0x47FD68DE" TextString="A-ha! {0.SimFirstName} đã chứng minh chiến thắng trước {M0.his}{F0.her} kẻ thù, chiếc máy bán hàng keo kiệt! Những món hàng từng bị kẹt giờ đây có thể được tìm thấy trong {M0.his}{F0.her} kho đồ. Có lẽ bây giờ máy bán hàng có thể ngồi và suy nghĩ về việc nó đã làm!" />
+    <TextStringDefinition InstanceID="0xC12BC56D" TextString="Đã Nhận Món Hàng từ Máy Bán Hàng" />
+    <TextStringDefinition InstanceID="0x8326C18C" TextString="Món Hàng Bị Kẹt Máy Bán Hàng" />
+    <TextStringDefinition InstanceID="0x5DE01A6D" TextString="Mua Món Hàng" />
+    <TextStringDefinition InstanceID="0xC8712C9C" TextString="(Từ Máy Bán Hàng Bị Kẹt)" />
+    <TextStringDefinition InstanceID="0xB358EBD6" TextString="Sợ Máy Bán Hàng" />
+    <TextStringDefinition InstanceID="0x52AD2867" TextString="(Từ Chết Vì Máy Bán Hàng)" />
+    <TextStringDefinition InstanceID="0x57F49568" TextString="Mua Đồ Vặt Vặt" />
+    <TextStringDefinition InstanceID="0x02353740" TextString="Máy bán hàng này được trang bị đầy đủ các vật tư dã ngoại khắc phục và ngăn chặn, cộng với nhiều món đồ vặt vặtnh khác hữu ích." />
+    <TextStringDefinition InstanceID="0x6181100E" TextString="Máy bán hàng này được trang bị đầy đủ các món ăn nhẹ nhanh và bữa ăn nhỏ đa dạng." />
+    <TextStringDefinition InstanceID="0x7395E2B3" TextString="Duyệt Máy Bán Hàng" />
+    <TextStringDefinition InstanceID="0x20481B82" TextString="Những món hàng {0.SimFirstName} mua có thể được tìm thấy trong {M0.his}{F0.her} kho đồ." />
+    <TextStringDefinition InstanceID="0xE8D2AB72" TextString="Khi {0.SimFirstName} chờ máy bán hàng lấy {M0.his}{F0.her} món hàng đã mua, {M0.he}{F0.she} nhận ra một sự thật đáng sợ: chúng bị kẹt! {M0.He}{F0.She} sẽ không nhận được {M0.his}{F0.her} mua hàng hôm nay. Trừ khi..." />
+    <TextStringDefinition InstanceID="0x561D38A8" TextString="Đi đến đây" />
+    <TextStringDefinition InstanceID="0x7B064771" TextString="Đặt Làm Phương Tiện Nước Ưa Thích" />
+    <TextStringDefinition InstanceID="0x8DFDA40B" TextString="Gỡ Làm Phương Tiện Nước Ưa Thích" />
+    <TextStringDefinition InstanceID="0x54F3E180" TextString="Đặt Làm Xe Đạp Ưa Thích" />
+    <TextStringDefinition InstanceID="0xDC27AEF2" TextString="Gỡ Làm Xe Đạp Ưa Thích" />
+    <TextStringDefinition InstanceID="0x63266A97" TextString="Thay Đổi Ngoại Hình" />
+    <TextStringDefinition InstanceID="0xA3CE2A7B" TextString="Sản Xuất Nước" />
+    <TextStringDefinition InstanceID="0xE2CFFBCD" TextString="Sản Xuất Điện" />

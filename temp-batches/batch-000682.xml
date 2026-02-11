@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x0BC53BD6" TextString="Chưa bao giờ cơn bão mưa lại gây ra một trận ồn ào như vậy! Có thể được sử dụng làm vật liệu sàn." />
+    <TextStringDefinition InstanceID="0x334DC674" TextString="Mái nhà kính tấm kim cương" />
+    <TextStringDefinition InstanceID="0x0174E541" TextString="Đáng yêu nhưng hiện đại. Trước đây đã bao giờ có thứ như vậy chưa? " />
+    <TextStringDefinition InstanceID="0x55F9F33B" TextString="Mái nhà kính trang trí hình xoáy ốc" />
+    <TextStringDefinition InstanceID="0x03266354" TextString="Hầu hết các mái nhà kính khá sang trọng chỉ vì &lt;B&gt;là&lt;/B&gt; một mái nhà kính. Nào, &lt;i&gt;cái này&lt;/i&gt; còn sang hơn nữa! Có thể nói, “&lt;i&gt;Hoành tráng&lt;/i&gt;” thậm chí…" />
+    <TextStringDefinition InstanceID="0x09BD2956" TextString="Mái nhà kính tấm đặc" />
+    <TextStringDefinition InstanceID="0xB8EA0A8F" TextString="&lt;B&gt;Ưu điểm:&lt;/B&gt; Dễ quan sát thời tiết, Phong cách thời trang, Cách nhiệt tương đối, Sự hài hước khi xem Ông Già Tuyết di chuyển trên bề mặt\n&lt;B&gt;Nhược điểm: &lt;/B&gt; Làm sạch kính bị bám vân, Nghe tiếng “Thunk” của chim đập vào kính sạch vừa kể" />
+    <TextStringDefinition InstanceID="0x966491DD" TextString="Mái nhà kính tấm lục giác" />
+    <TextStringDefinition InstanceID="0x64FF4D62" TextString="Một vài mái nhà hét lên, “Khoa học!” khá giống như cái này…" />
+    <TextStringDefinition InstanceID="0x4AEA7958" TextString="Mái nhà kính tấm hình chữ nhật" />
+    <TextStringDefinition InstanceID="0xC5C88E0D" TextString="Mái nhà kính cổ điển nhất." />
+    <TextStringDefinition InstanceID="0x2FA6F00F" TextString="Mái nhà kính tấm vuông" />
+    <TextStringDefinition InstanceID="0x6640EA40" TextString="Mái nhà kính này được lót bằng khung vuông, làm cho nó gần tối ưu cho việc ngắm trời trong khi vẫn ngăn chặn những khoảnh khắc đáng sợ khi một người có thể nghĩ rằng mái nhà hoàn toàn không tồn tại. " />
+    <TextStringDefinition InstanceID="0x5A7AB827" TextString="Tấm bê tông không tẻ nhạt" />
+    <TextStringDefinition InstanceID="0xE6F43288" TextString="Mạnh mẽ, bền bỉ và dễ lắp đặt, mái nhà tấm bê tông đang trở lại thịnh hành trong cả cư dân thành thị và nông thôn. Có thể được sử dụng làm vật liệu sàn." />
+    <TextStringDefinition InstanceID="0x86392E25" TextString="Mái nhà gỗ thông viền xoáy" />
+    <TextStringDefinition InstanceID="0x4A69D87A" TextString="Một cái nhìn ngưỡng mộ và tất cả hàng xóm của bạn cũng sẽ khao khát có gỗ thông!" />
+    <TextStringDefinition InstanceID="0x3227DBDB" TextString="(Từ Đám cưới muộn)" />
+    <TextStringDefinition InstanceID="0x7A51F972" TextString="(Từ việc tham gia lớp sở thích)" />
+    <TextStringDefinition InstanceID="0xF4F87AA9" TextString="Được mời đặc biệt" />
+    <TextStringDefinition InstanceID="0xE41F6ECF" TextString="(Từ đám cháy gần đó)" />
+    <TextStringDefinition InstanceID="0x3FAF3BBB" TextString="(Từ việc dập tắt đám cháy)" />
+    <TextStringDefinition InstanceID="0xB5DEB196" TextString="(Từ đặc điểm Người bảo trì Bảo tàng)" />
+    <TextStringDefinition InstanceID="0x0D5E3264" TextString="(Từ việc sống hết mình tại một bữa tiệc)" />
+    <TextStringDefinition InstanceID="0x7BAE84B7" TextString="Cấp độ Đồng" />
+    <TextStringDefinition InstanceID="0x9EE3B64F" TextString="Cấp độ Bạc" />
+    <TextStringDefinition InstanceID="0x85BAD94B" TextString="Cấp độ Vàng" />
+    <TextStringDefinition InstanceID="0x0709B9CC" TextString="Phần thưởng này không có sẵn cho Sim của bạn, hoặc Sim của bạn đã sở hữu nó rồi." />
+    <TextStringDefinition InstanceID="0x469214FA" TextString="Bạn tưởng tượng" />
+    <TextStringDefinition InstanceID="0x6771312E" TextString="Phần thưởng Cấp độ Bạc bao gồm một vật trang trí mới." />
+    <TextStringDefinition InstanceID="0x2598D469" TextString="Đôi khi chỉ đơn giản là không có hóa hợp." />
+    <TextStringDefinition InstanceID="0x4EC35A89" TextString="Bạn bè khó xử" />
+    <TextStringDefinition InstanceID="0xCF918F01" TextString="Mọi thứ bắt đầu một cách thân thiện, nhưng sau đó trở nên kỳ quặc..." />
+    <TextStringDefinition InstanceID="0xB082F9BF" TextString="Người quen" />
+    <TextStringDefinition InstanceID="0xDF63519B" TextString="Không phải bạn cũng không phải thù - chỉ là một mối quan hệ bình thường" />
+    <TextStringDefinition InstanceID="0x77B91B42" TextString="{0.SimFirstName} vừa hủy bỏ đính ước với {1.SimFirstName}." />
+    <TextStringDefinition InstanceID="0xC3AE75A0" TextString="{0.SimFirstName} vừa chia tay với {1.SimFirstName}." />
+    <TextStringDefinition InstanceID="0xDB4FA083" TextString="Cựu vợ/chồng" />
+    <TextStringDefinition InstanceID="0x7E3EB910" TextString="Tức giận" />
+    <TextStringDefinition InstanceID="0xAC2681AE" TextString="Say đắm say" />
+    <TextStringDefinition InstanceID="0x7855FEA7" TextString="Kết nối sâu sắc" />
+    <TextStringDefinition InstanceID="0x85B61E07" TextString="Hận thù tích tụ" />
+    <TextStringDefinition InstanceID="0x05665863" TextString="Cuộc trò chuyện gợi ý" />
+    <TextStringDefinition InstanceID="0x8F73928F" TextString="Mọi thứ dường như đang diễn ra tốt đẹp... \n\n Hãy thử nói điều gì đó lãng mạn!" />
+    <TextStringDefinition InstanceID="0xC2173F02" TextString="Cuộc trao đổi nóng bỏng" />
+    <TextStringDefinition InstanceID="0x44CA6FE8" TextString="Sim nào có thể nói không trong hoàn cảnh này!" />
+    <TextStringDefinition InstanceID="0x791D3417" TextString="Cuộc trao đổi đầy ái tình" />
+    <TextStringDefinition InstanceID="0x18B371A3" TextString="Những từ ngữ dịu dàng, lãng mạn lấp đầy cuộc trò chuyện này.\n\nBây giờ mọi thứ thực sự có thể tiến về phía trước!" />
+    <TextStringDefinition InstanceID="0xE6B4DDD8" TextString="Cuộc trò chuyện nhàm chán" />
+    <TextStringDefinition InstanceID="0x0B3C1DB2" TextString="Sims không thích nghe cùng một điều mãi mãi. \n\n Hãy thử trò chuyện về một điều khác." />

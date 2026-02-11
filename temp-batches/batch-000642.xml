@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x2A0A7982" TextString="Thích Thể dục" />
+    <TextStringDefinition InstanceID="0x6562538F" TextString="Câu cá" />
+    <TextStringDefinition InstanceID="0x2F8D01A8" TextString="Thích Câu cá" />
+    <TextStringDefinition InstanceID="0xE9EAC620" TextString="Thích Câu cá" />
+    <TextStringDefinition InstanceID="0xC5F3D13D" TextString="Nấu ăn" />
+    <TextStringDefinition InstanceID="0x19D5D682" TextString="Thích Nấu ăn" />
+    <TextStringDefinition InstanceID="0xB68C0752" TextString="Thích Nấu ăn" />
+    <TextStringDefinition InstanceID="0xFCD74A88" TextString="Hài hước" />
+    <TextStringDefinition InstanceID="0x4ACF84AF" TextString="Thích Hài hước" />
+    <TextStringDefinition InstanceID="0xD7BD0131" TextString="Thích Hài hước" />
+    <TextStringDefinition InstanceID="0x438CD55E" TextString="Không thích Nhạc thế giới" />
+    <TextStringDefinition InstanceID="0x61B19876" TextString="Không thích Nhạc thế giới" />
+    <TextStringDefinition InstanceID="0x6F528F45" TextString="Không thích Nhạc kỳ nghỉ đông" />
+    <TextStringDefinition InstanceID="0xFDDA3687" TextString="Không thích Nhạc kỳ nghỉ đông" />
+    <TextStringDefinition InstanceID="0x596FD4FC" TextString="Không thích Nhạc S-Pop" />
+    <TextStringDefinition InstanceID="0xC3AAADAC" TextString="Không thích Nhạc S-Pop" />
+    <TextStringDefinition InstanceID="0xE1B42991" TextString="Không thích Nhạc ma quái" />
+    <TextStringDefinition InstanceID="0x7A663CDB" TextString="Không thích Nhạc ma quái" />
+    <TextStringDefinition InstanceID="0x49348E1F" TextString="Không thích Nhạc lãng mạn" />
+    <TextStringDefinition InstanceID="0x40466C01" TextString="Không thích Nhạc lãng mạn" />
+    <TextStringDefinition InstanceID="0xC5CA00AD" TextString="Các Sim này không ngại &quot;mượn&quot; đồ của người khác bằng một cái vuốt đơn giản, nhưng sẽ trở nên Căng thẳng nếu đã lâu không lấy đồ." />
+    <TextStringDefinition InstanceID="0x683508B2" TextString="Ám ảnh trộm cắp" />
+    <TextStringDefinition InstanceID="0xD3DC7422" TextString="Ám ảnh trộm cắp" />
+    <TextStringDefinition InstanceID="0x55D9395A" TextString="(Từ Vương miện Tinh thể Thiên đường)" />
+    <TextStringDefinition InstanceID="0x7C6F8087" TextString="Cảm biến Mê thuật có thể sử dụng năng lượng để tìm kho báu và cổ vật trong Rương kho báu mà các Sim khác bỏ lỡ." />
+    <TextStringDefinition InstanceID="0xBC4F48F0" TextString="Cảm biến Mê thuật" />
+    <TextStringDefinition InstanceID="0x71F27EE8" TextString="Cảm biến Mê thuật" />
+    <TextStringDefinition InstanceID="0x1301D1DA" TextString="Các Sim này dễ ghen hơn các Sim khác. Họ nhận được sự Tăng cường Tự tin khi ở quanh người yêu, nhưng trở nên Căng thẳng nếu đã lâu không gặp họ." />
+    <TextStringDefinition InstanceID="0x7A084765" TextString="Ghen" />
+    <TextStringDefinition InstanceID="0xB114E527" TextString="Ghen" />
+    <TextStringDefinition InstanceID="0x9A448CD3" TextString="Ma" />
+    <TextStringDefinition InstanceID="0x59D604ED" TextString="Ma" />
+    <TextStringDefinition InstanceID="0xB28EE028" TextString="Giới tính Tùy chỉnh" />
+    <TextStringDefinition InstanceID="0x4E7C29A0" TextString="Giới tính Tùy chỉnh" />
+    <TextStringDefinition InstanceID="0x4E07D018" TextString="(Từ hoàn thành Khát vọng Giàu có Lộng lẫy)" />
+    <TextStringDefinition InstanceID="0xAF7DBF2D" TextString="Các Sim Thông thái nhận được tiền gửi trực tiếp mỗi tuần dựa trên Quỹ Gia đình của họ." />
+    <TextStringDefinition InstanceID="0x5648FB32" TextString="Thông thái" />
+    <TextStringDefinition InstanceID="0xFF4C53A2" TextString="Thông thái" />
+    <TextStringDefinition InstanceID="0x3D120E4C" TextString="Sáng tạo" />
+    <TextStringDefinition InstanceID="0x6B7B315C" TextString="Nhà Thám hiểm Đầy cảm hứng xây dựng mối quan hệ và học kỹ năng nhanh hơn khi ở bên ngoài khu phố quê hương." />
+    <TextStringDefinition InstanceID="0x81347933" TextString="Nhà Thám hiểu Đầy cảm hứng" />
+    <TextStringDefinition InstanceID="0xE7C201CD" TextString="Nhà Thám hiểu Đầy cảm hứng" />
+    <TextStringDefinition InstanceID="0xA4FD3BD3" TextString="Các Sim này có thể Tự nói chuyện với bản thân và có Cảm xúc khó dự đoán." />
+    <TextStringDefinition InstanceID="0x9845514C" TextString="Khó dự đoán" />
+    <TextStringDefinition InstanceID="0xAFF1D51C" TextString="Khó dự đoán" />
+    <TextStringDefinition InstanceID="0xBEBAED73" TextString="Các Sim này luôn vận động và muốn chơi đùa, di chuyển; tuy nhiên, họ thường gặp khó khăn trong việc đi vào giấc ngủ hoặc tập trung trong thời gian dài." />
+    <TextStringDefinition InstanceID="0xBF91986C" TextString="Vận động nhiều" />
+    <TextStringDefinition InstanceID="0x5BB372BC" TextString="Vận động nhiều" />
+    <TextStringDefinition InstanceID="0x85825151" TextString="Các Sim này tràn ngập nụ cười và tiếng cười khúc khích, thích tương tác với các Sim khác, nhưng họ đòi hỏi nhiều sự chú ý xã hội hơn." />
+    <TextStringDefinition InstanceID="0x96110FD6" TextString="Vui vẻ" />

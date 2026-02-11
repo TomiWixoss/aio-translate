@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xA8A9CE6E" TextString="Chửi bới Kẻ Thù" />
+    <TextStringDefinition InstanceID="0x319D6F2F" TextString="Hỏi trước khi Gió Thổi" />
+    <TextStringDefinition InstanceID="0x964997CF" TextString="Lắng nghe Câu hỏi của {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xE5B843F1" TextString="Hỏi về Ngày" />
+    <TextStringDefinition InstanceID="0xD6674D3F" TextString="Hỏi về Mặt Trời và Cầu Vồng" />
+    <TextStringDefinition InstanceID="0xCFC091D5" TextString="Kiểm tra Tình hình {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xBFEE7D95" TextString="Hỏi về việc Hóa Sói" />
+    <TextStringDefinition InstanceID="0xA8C189A4" TextString="Lắng nghe Câu hỏi của {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xDC749654" TextString="Hỏi về Sự nghiệp" />
+    <TextStringDefinition InstanceID="0x6C951B78" TextString="Lắng nghe Câu hỏi của {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x18FFB1A8" TextString="Hỏi về Việc Già" />
+    <TextStringDefinition InstanceID="0xADD0E296" TextString="Hỏi về Đồ Cưng" />
+    <TextStringDefinition InstanceID="0xB9A43D92" TextString="Xin Lỗi... Trên Giường" />
+    <TextStringDefinition InstanceID="0xDC3AE2D8" TextString="Xin Lỗi Trên Giường" />
+    <TextStringDefinition InstanceID="0x18F0E088" TextString="{1.SimFirstName} không muốn nghe lời xin lỗi của {0.SimFirstName} ngay bây giờ!" />
+    <TextStringDefinition InstanceID="0xDF7EEC5D" TextString="Lắng nghe Lời Xin Lỗi" />
+    <TextStringDefinition InstanceID="0xDB00C2FF" TextString="Xin Lỗi" />
+    <TextStringDefinition InstanceID="0x984496A5" TextString="Lời Xin Lỗi Chân Thành" />
+    <TextStringDefinition InstanceID="0x55E99B66" TextString="Khuyến khích Xin Lỗi" />
+    <TextStringDefinition InstanceID="0x7F18EB43" TextString="Lời Xin Lỗi Mượt Mà" />
+    <TextStringDefinition InstanceID="0x4B8FE1F4" TextString="Bị {1.SimFirstName} Làm Phiền" />
+    <TextStringDefinition InstanceID="0x2B72FC04" TextString="Làm Phiền" />
+    <TextStringDefinition InstanceID="0x06E5FBF3" TextString="Bị {1.SimFirstName} Làm Sợ" />
+    <TextStringDefinition InstanceID="0x178D9345" TextString="Còi Hơi" />
+    <TextStringDefinition InstanceID="0x52171698" TextString="Buộc tội Là Kẻ Trộm" />
+    <TextStringDefinition InstanceID="0xFA3DAD55" TextString="(Từ việc Buộc tội Sai Sim Là Kẻ Trộm)" />
+    <TextStringDefinition InstanceID="0x220BA8B0" TextString="Tương tác này sẽ thay đổi mối quan hệ xã hội thành Kẻ Thù nếu Sim là kẻ trộm." />
+    <TextStringDefinition InstanceID="0x94392EC3" TextString="Thảo luận Nỗi Sợ Cam Kết" />
+    <TextStringDefinition InstanceID="0x0461D64F" TextString="Bình Rỗng" />
+    <TextStringDefinition InstanceID="0xC797773A" TextString="Sưởi ấm Bản thân" />
+    <TextStringDefinition InstanceID="0x462B0EE2" TextString="Một cách chậm rãi và có chủ đích, {0.SimFirstName} quấn những miếng thơm ngon của thịt xông khói xung quanh đủ loại đồ vật tại nơi làm việc. Điện thoại, bàn phím, đồ dùng, và thậm chí cả một vài chậu cây đã bị bao phủ bởi những miếng thịt xông khói. Trò đùa này được công nhận rộng rãi là ngon nhất trong lịch sử các trò đùa." />
+    <TextStringDefinition InstanceID="0x9766425B" TextString="Một cách chậm rãi và có chủ đích, {0.SimFirstName} quấn những miếng thơm ngon của thịt xông khói xung quanh đủ loại đồ vật tại nơi làm việc. Tuy nhiên, các loài gặm nhấm và côn trùng đã chiếm đoạt những miếng thịt thơm và chạy loạn xạ khắp văn phòng! Đồng nghiệp đều kinh hãi và năng suất giảm xuống mức thấp nhất mọi thời đại." />
+    <TextStringDefinition InstanceID="0xAA7638B2" TextString="Trong khi {0.SimFirstName} cẩn thận xếp một vài cốc đầy nước trước lớp học của {M0.his}{F0.her}, một giáo viên đã xuất hiện trong lúc hành động nghịch ngợm! {0.SimFirstName} đã bị mắng mỏ nghiêm khắc vì hành vi không phù hợp này. \n \n{0.SimFirstName} đã giảm hiệu suất học tập." />
+    <TextStringDefinition InstanceID="0x8264DF6F" TextString="Trong một sự thể hiện ngoại lệ của sự kiên định, {0.SimFirstName} tỉ mỉ xếp hàng trăm cốc đầy nước trước lớp học của {M0.his}{F0.her}, cộng với một vài cốc khác để đảm bảo. Không may, kim tự tháp đã sụp đổ trước khi lớp học bắt đầu, dẫn đến rất nhiều nỗ lực bị lãng phí và một đống cốc rỗng đáng thương." />
+    <TextStringDefinition InstanceID="0x5D299B42" TextString="Trong một sự thể hiện ngoại lệ của sự kiên định, {0.SimFirstName} tỉ mỉ xếp hàng trăm cốc đầy nước trước lớp học của {M0.his}{F0.her}, cộng với một vài cốc khác để đảm bảo. Các giáo viên buộc phải từ từ tháo dỡ kim tự tháp nước, mang lại tiếng cười và một chút thời gian rảnh cho tất cả học sinh. Thủ phạm chưa bao giờ được xác định.\n \n{0.SimFirstName} đã nhận được những thứ sau:\n·Tăng Hiệu Suất Học Tập\n·Tăng Kỹ Năng Sáng Tạo" />
+    <TextStringDefinition InstanceID="0x4A3906B1" TextString="{0.SimFirstName} bị bắt quả tang bởi một giáo viên với một lồng đầy chuột nhảy, và không có cách nào để {M0.his}{F0.her} thoát khỏi.\n \n{0.SimFirstName} đã giảm hiệu suất học tập, và {M0.he}{F0.she} đã nhận được bài tập thêm cho tuần tới như một hình phạt." />
+    <TextStringDefinition InstanceID="0x3058E64A" TextString="Ban đầu, không có chuột nhảy. Khi {0.SimFirstName} bước vào lớp học, điều đó đã không còn nữa. Hàng trăm sinh vật nhỏ lông xù đã xông xáo qua các hành lang, mang lại niềm vui cho nhiều người và sự kinh hãi cho một số. Đó là một trò đùa hoàn toàn thành công! \n \n{0.SimFirstName} đã tăng Kỹ năng Sáng tạo của {F0.her}{M0.his}." />
+    <TextStringDefinition InstanceID="0xF9656805" TextString="{0.SimFirstName} đã kích động lũ mọt sách trong trường đến mức điên cuồng, và chúng cùng nhau tấn công lũ thể thao và nhét họ vào tủ đồ. Cuối cùng, bàn tay đã đảo ngược!\n \n{0.SimFirstName} đã kiếm được 25 Simoleon." />
+    <TextStringDefinition InstanceID="0xCF54816C" TextString="{0.SimFirstName} đã cố gắng thuyết phục lũ mọt sách nổi dậy chống lại lũ thể thao, nhưng lũ thể thao nghe lén {0.SimPronounObjective}, và phá hỏng kế hoạch của {F0.her}{M0.his}. Giờ {F0.she}{M0.he} mới là người bị nhét vào tủ đồ! \n \n{0.SimFirstName} đã giảm hiệu suất học tập." />
+    <TextStringDefinition InstanceID="0x79FEB256" TextString="Thật xấu hổ! {0.SimFirstName} đã cố gắng nhét lũ mọt sách đeo kính vào tủ đồ, nhưng {F0.she}{M0.he} trượt trên một xúc xắc 20 mặt và lũ mọt sách đã trốn thoát!" />
+    <TextStringDefinition InstanceID="0x47B31F5F" TextString="{0.SimFirstName} thông minh bày ra một dải xúc xắc 20 mặt dẫn thẳng đến một tủ đồ mở. Lũ mọt sách đã sa bẫy, và {0.SimFirstName} đã đóng sầm lũ mọt sách tay nhỏ nhắn vào trong tủ đồ!&#xD;&#xA;" />
+    <TextStringDefinition InstanceID="0xA01C3962" TextString="Bột Dính Trong Micro" />
+    <TextStringDefinition InstanceID="0xBF7C6F84" TextString="{0.SimFirstName} lén lút nhét micro với Bột Dính sau buổi biểu diễn của {F0.her}{M0.his}. Khi đồng nghiệp của {0.SimFirstName} biểu diễn phần của họ, không ai trong khán giả có thể hiểu được một từ họ nói. Như một kết quả, {0.SimFirstName} đã trở thành diễn viên được yêu thích nhất đêm nay.\n \n{0.SimFirstName} đã nhận được những thứ sau: \n·Tăng Hiệu Suất Công Việc.\n·Tăng Kỹ Năng Nghịch Ngợm." />
+    <TextStringDefinition InstanceID="0x91E024B2" TextString="Thật thảm họa! Đồng nghiệp của {0.SimFirstName} đã tìm thấy Bột Dính trước buổi biểu diễn của họ, và hoàn toàn phá hỏng trò đùa." />
+    <TextStringDefinition InstanceID="0xBBA26C15" TextString="Bí mật, {0.SimFirstName} phát tất cả đáp án cho bài kiểm tra trắc nghiệm, tính phí chỉ vài Simoleon mỗi tờ gian lận. Tất nhiên, những đáp án này hoàn toàn bịa đặt và giúp {0.SimFirstName} vượt qua đường cong trong kỳ thi! \n \n{0.SimFirstName} đã nhận được những thứ sau:\n·Tăng Hiệu Suất Học Tập.\n·Thưởng 300 Simoleon." />
+    <TextStringDefinition InstanceID="0xB9EA5FC7" TextString="Không may, không có học sinh nào có thể bị thuyết phục rằng đáp án bài kiểm tra là thật. Để lại một chồng giấy trống, {0.SimFirstName} đã cố gắng giấu vật liệu trò đùa nhưng bị một giáo viên bắt được trong quá trình đó. \n \n{0.SimFirstName} đã được giao bài tập thêm như một hình phạt cho trò đùa này." />
+    <TextStringDefinition InstanceID="0x521E8DBC" TextString="Sắp xếp Lại Phím Trên Bàn Phím" />
+    <TextStringDefinition InstanceID="0x5BFE5E72" TextString="{0.SimFirstName} đã làm bối rối đồng nghiệp của {F0.her}{M0.his} bằng cách chuyển đổi phím 'T' và 'V' trên bàn phím của họ, và {0.SimFirstName} đã có thể vượt lên trước cuộc cạnh tranh tại nơi làm việc.\n \n{0.SimFirstName} đã nhận được những thứ sau:\n·Tăng Hiệu Suất Công Việc.\n·Tăng Kỹ Năng Nghịch Ngợm." />
+    <TextStringDefinition InstanceID="0xF290AE7B" TextString="Khi {0.SimFirstName} đang ở giữa việc chuyển đổi phím 'O' và 'P', sếp của {F0.her}{M0.his} đã bắt {0.SimPronounObjective} quả tang.\n \n{0.SimFirstName} đã giảm hiệu suất công việc." />
+    <TextStringDefinition InstanceID="0x80B5EC2F" TextString="Râu Cho Nghệ Thuật" />

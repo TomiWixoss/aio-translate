@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x02405C39" TextString="Ước gì mình có thể du hành thời gian! Tất nhiên bạn phải lo lắng về việc tái nhập. Một tòa nhà không hề tồn tại, giờ lại có... thật là không thể tin nổi." />
+    <TextStringDefinition InstanceID="0x82F71078" TextString="Nếu mình có thể du hành thời gian, bạn nghĩ mình sẽ ở đây chứ không phải với khủng long ư!?" />
+    <TextStringDefinition InstanceID="0x6935B20C" TextString="Sim Bị Kết Tội" />
+    <TextStringDefinition InstanceID="0xD9C8C583" TextString="(Từ Thử Thách Lô Đi Sợ Hãi)" />
+    <TextStringDefinition InstanceID="0xA6DEE55F" TextString="Sự Kiện Đã Kết Thúc" />
+    <TextStringDefinition InstanceID="0x3B05DF1D" TextString="Sự Kiện Phần Thưởng của Thần Chết đã kết thúc. Bạn vẫn có thể nhận bất kỳ phần thưởng nào đã được mở khóa trong Giao Diện Sự Kiện." />
+    <TextStringDefinition InstanceID="0x186449C2" TextString="Cảm ơn bạn đã mua hàng! Bạn có thể tìm thấy Hoa Chết trong kho đồ của Sim." />
+    <TextStringDefinition InstanceID="0x9D4AD09C" TextString="Hãy chắc chắn rằng bạn biết cách câu cá. Bạn sẽ cần nó nếu muốn làm Ambrosia." />
+    <TextStringDefinition InstanceID="0xDBA2A4D9" TextString="Dường như mình nhớ Ambrosia là một món ăn ngon." />
+    <TextStringDefinition InstanceID="0x742FF1CE" TextString="Ambrosia?! Mình không chắc cách làm nó, nhưng mình rất muốn học và hồi sinh một con ma." />
+    <TextStringDefinition InstanceID="0x84F18BB7" TextString="Nếu bạn muốn làm Ambrosia, bạn sẽ cần sẵn sàng làm bẩn tay một chút." />
+    <TextStringDefinition InstanceID="0xF571F21F" TextString="Mình nghe nói bạn cần phải làm chủ kỹ năng Nấu Ăn và Nấu Ăn Cao Cấp." />
+    <TextStringDefinition InstanceID="0x804F849E" TextString="Tại sao bạn hỏi mình về Ambrosia? Mình chưa nghe thấy gì cả!" />
+    <TextStringDefinition InstanceID="0x4829B24F" TextString="Bạn không thể tra cứu Ambrosia trên máy tính sao?" />
+    <TextStringDefinition InstanceID="0xC9C0C427" TextString="Mình không muốn nói về Ambrosia..." />
+    <TextStringDefinition InstanceID="0xA16CC1CE" TextString="(Từ Tập Thể Dục)" />
+    <TextStringDefinition InstanceID="0x8EA82E0A" TextString="(Từ Sinh Tố Protein)" />
+    <TextStringDefinition InstanceID="0x2095E806" TextString="(Từ Làm Virus)" />
+    <TextStringDefinition InstanceID="0xE9204272" TextString="(Từ Làm Plugin)" />
+    <TextStringDefinition InstanceID="0xCEAE2857" TextString="(Từ Hacking Hiệu Suất Công Việc)" />
+    <TextStringDefinition InstanceID="0x037CD459" TextString="(Từ Không Hacking Được Hiệu Suất Công Việc)" />
+    <TextStringDefinition InstanceID="0xE3374362" TextString="(Từ Hacking Siêu Máy Tính)" />
+    <TextStringDefinition InstanceID="0x6B212594" TextString="(Từ Hacking Điểm Số)" />
+    <TextStringDefinition InstanceID="0x6EE75CC0" TextString="(Từ Không Hacking Được Điểm Số)" />
+    <TextStringDefinition InstanceID="0x03A42EE3" TextString="(Từ Công Việc Phụ Tuyệt Vời)" />
+    <TextStringDefinition InstanceID="0xABEBD94A" TextString="(Từ Sim Đang Sinh Đẻ)" />
+    <TextStringDefinition InstanceID="0x814E3085" TextString="Đã Vào Cơn Đau Đẻ!" />
+    <TextStringDefinition InstanceID="0x50E8FD07" TextString="{0.SimFirstName} đang tràn đầy... háo hức được gặp {M0.con}{F0.con} món quà mới!" />
+    <TextStringDefinition InstanceID="0xB4470DA0" TextString="(Từ Chăm Sóc Cây Trồng Chậu)" />
+    <TextStringDefinition InstanceID="0x9985CB92" TextString="Đã Bỏ Lỡ Nhiệm Vụ Khám Phá" />
+    <TextStringDefinition InstanceID="0x3143A989" TextString="Ôi không! Bạn đã bỏ lỡ cuộc gọi điện Nhiệm Vụ Khám Phá.\n\nĐừng lo, nó sẽ xuất hiện lại. Bạn cũng có thể mở Menu Tùy Chọn, chọn Tùy Chọn Trò Chơi rồi chọn Hướng Dẫn &amp; Mẹo và Bật hoặc Tắt Nhiệm Vụ Khám Phá, hoặc Đặt Lại chúng." />
+    <TextStringDefinition InstanceID="0x9E7CD104" TextString="Bạn đã bắt đầu Nhiệm Vụ Khám Phá Làm Đẹp Nhà Cửa, nơi bạn sẽ học cách mở rộng ngôi nhà và thế giới xung quanh. Hoàn thành nhiệm vụ này để kiếm được Simoleon!\nĐã biết về những điều này rồi? Bạn luôn có thể hủy Nhiệm Vụ Khám Phá này bằng biểu tượng thùng rác hoặc tắt Nhiệm Vụ Khám Phá trong Menu Tùy Chọn dưới Hướng Dẫn &amp; Mẹo." />
+    <TextStringDefinition InstanceID="0x2E9AEB84" TextString="Làm Đẹp Nhà Cửa" />
+    <TextStringDefinition InstanceID="0xAD3EE5B5" TextString="{0.SimFirstName} cảm thấy tự tin hơn trong {0.SimPronounReflexive}. Chỉ cần một chút nỗ lực nữa để cuối cùng đối mặt với nỗi sợ này." />
+    <TextStringDefinition InstanceID="0xADC0AE08" TextString="(Từ Ngắm Nhìn Tranh Gia Đình)" />
+    <TextStringDefinition InstanceID="0x9C7491DE" TextString="{0.SimFirstName} nhận được Đậu Thần Giận Dữ từ {1.SimFirstName}." />
+    <TextStringDefinition InstanceID="0xF1D7ED0B" TextString="{0.SimFirstName} nhận được Đậu Thần Buồn Bã từ {1.SimFirstName}." />
+    <TextStringDefinition InstanceID="0x98257020" TextString="{0.SimFirstName} nhận được Đậu Thần Thân Mật từ {1.SimFirstName}." />
+    <TextStringDefinition InstanceID="0xA897FE4F" TextString="{0.SimFirstName} nhận được Đậu Thần Tự Tin từ {1.SimFirstName}." />
+    <TextStringDefinition InstanceID="0x9D169CC5" TextString="{0.SimFirstName} nhận được Đậu Thần Khó Chịu từ {1.SimFirstName}." />
+    <TextStringDefinition InstanceID="0xEBC37861" TextString="{0.SimFirstName} nhận được Đậu Thần Vui Vẻ từ {1.SimFirstName}." />
+    <TextStringDefinition InstanceID="0xEE84692D" TextString="{1.SimFirstName} tặng {0.SimFirstName} một chiếc sọ đường trong ngày lễ Người Chết." />
+    <TextStringDefinition InstanceID="0x171AAEAA" TextString="(Từ Mua Thư Viện Hàng Xóm Nhỏ Nhất)" />
+    <TextStringDefinition InstanceID="0x11FE3544" TextString="(Từ Đính Hôn)" />
+    <TextStringDefinition InstanceID="0x6D06059F" TextString="(Từ Uống Thuốc)" />
+    <TextStringDefinition InstanceID="0xD6A26B61" TextString="Sao? Bạn không nghĩ mình sẽ là một phụ huynh tốt?! Mình sẽ là một phụ huynh tuyệt vời!! Chúng ta sẽ đi Thử Thách Mang Thai &lt;i&gt;ngay bây giờ&lt;/i&gt;. Thấy chưa, ha!" />
+    <TextStringDefinition InstanceID="0x52F3B904" TextString="Tự quyết? Quá khó!" />
+    <TextStringDefinition InstanceID="0xE340DC78" TextString="Được rồi... thì... mình nghĩ... được! Chúng ta sẽ làm! Cảm ơn lời khuyên. Chúng ta đang có em bé!" />
+    <TextStringDefinition InstanceID="0x81E5E3C0" TextString="Bạn nghĩ vậy ư? Mình đoán bạn đúng. Cảm ơn vì đã cho mình một cú sốc thực tế." />
+    <TextStringDefinition InstanceID="0xCB96A4C7" TextString="{0.SimName} muốn gì? Mình không biết mình muốn gì! Mình muốn bạn quyết định giúp mình. Rõ ràng là mình không thể trông cậy vào bạn cho những quyết định lớn và ảnh hưởng đến cuộc đời không thực sự liên quan đến bạn. Cảm ơn đã không giúp gì, {0.SimName}." />

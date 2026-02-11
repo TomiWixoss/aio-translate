@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x97DD6EC1" TextString="Người giữ trẻ sẽ chăm sóc {0.SimFirstNameList} trong suốt kỳ nghỉ. Chúc các bạn vui vẻ!" />
+    <TextStringDefinition InstanceID="0xC94D27B7" TextString="Nhớ nhé, bạn đã thuê Người giữ trẻ! Nếu muốn, họ sẽ ở lại nhà khi các Sim đi vắng và sẽ tính phí cho thời gian của họ khi bạn trở về và cho họ ra về." />
+    <TextStringDefinition InstanceID="0xED4DE79D" TextString="Chào mừng trở về nhà! Người chăm sóc thú cưng đã chăm sóc tốt {0.SimFirstName} khi các bạn đi vắng." />
+    <TextStringDefinition InstanceID="0x78AF41CC" TextString="Chào mừng trở về nhà! Người giữ trẻ đã chăm sóc {0.SimFirstName} khi bạn đi vắng và {M0.anh ấy}{F0.cô ấy} đã cư xử rất ngoan!" />
+    <TextStringDefinition InstanceID="0xC5302665" TextString="Người chăm sóc thú cưng đã chăm sóc tốt {0.SimFirstNameList} trong suốt kỳ nghỉ. Hy vọng chuyến đi thật tuyệt!" />
+    <TextStringDefinition InstanceID="0x2AE06D0C" TextString="Tôi có thể bắt đầu tìm kiếm cơ hội nghề nghiệp khác. Tôi cảm thấy như mình đã chạm đến ngưỡng cửa ở đây rồi." />
+    <TextStringDefinition InstanceID="0x0A65ACAB" TextString="Tôi không thể chờ kỳ nghỉ tiếp theo. Tôi sẽ làm bánh cupcake!" />
+    <TextStringDefinition InstanceID="0xDFAE37F6" TextString="Có thể chỉ cho tôi cửa hàng thực phẩm gần nhất được không? Tôi chưa có giờ nghỉ trưa mà." />
+    <TextStringDefinition InstanceID="0xEE045D00" TextString="Tôi thích công việc của mình. Khách hàng hiếm khi phàn nàn." />
+    <TextStringDefinition InstanceID="0x1D0FF933" TextString="Tôi ghét toàn bộ giấy tờ. Nó khiến tôi chán đến chết." />
+    <TextStringDefinition InstanceID="0x0ABF7E4D" TextString="Mọi chuyện đều tốt; số khách hàng của tôi đang tăng lên từng phút. Nhưng bạn đã biết rồi mà." />
+    <TextStringDefinition InstanceID="0xC5076A59" TextString="Điều tốt nhất về công việc tôi làm là sự cân bằng tuyệt vời giữa công việc, cuộc sống và... cái chết." />
+    <TextStringDefinition InstanceID="0x21565832" TextString="{0.SimFirstName} đã biết rằng {1.SimFirstName} là {2.String|enAn} ở {4.String}." />
+    <TextStringDefinition InstanceID="0xF4C50899" TextString="Trợ giúp Trồng trọt Đã Dừng" />
+    <TextStringDefinition InstanceID="0x51A04230" TextString="Trợ giúp Trồng trọt Đã Bật" />
+    <TextStringDefinition InstanceID="0xEC024869" TextString="Cột mốc Xã hội ghi lại những giao tiếp bằng lời nói và những khoảnh khắc dựa trên mối quan hệ xuyên suốt cuộc đời của một Sim.\nĐối với Trẻ sơ sinh, đạt được nhiều Cột mốc Xã hội hơn sẽ giúp chúng có lợi thế khi trưởng thành lên Trẻ nhỏ bằng cách có một khởi đầu sớm cho kỹ năng Giao tiếp của mình." />
+    <TextStringDefinition InstanceID="0xEB0D0621" TextString="Xã hội" />
+    <TextStringDefinition InstanceID="0xB1831503" TextString="Cột mốc Vận động thô ghi lại sự tiến bộ của một Trẻ sơ sinh trong việc phát triển chuyển động toàn thân để có sức mạnh và sự phối hợp. Những cột mốc này chỉ có thể được mở khóa khi Sim của bạn là Trẻ sơ sinh.\nĐạt được các Cột mốc Vận động thô phức tạp hơn sẽ giúp Trẻ sơ sinh của bạn có lợi thế khi trưởng thành lên Trẻ nhỏ bằng cách có một khởi đầu sớm cho kỹ năng Vận động của mình." />
+    <TextStringDefinition InstanceID="0xFE61BB33" TextString="Vận động thô" />
+    <TextStringDefinition InstanceID="0x620E41B1" TextString="Cột mốc Lần đầu tiên ghi lại những lần đầu tiên của những khoảnh khắc quan trọng trong cuộc đời của một Sim." />
+    <TextStringDefinition InstanceID="0x92D8FD89" TextString="Lần đầu tiên" />
+    <TextStringDefinition InstanceID="0x58943B65" TextString="Cột mốc Vận động tinh ghi lại sự tiến bộ của một Trẻ sơ sinh trong việc phát triển các cơ nhỏ hơn để có sự chính xác và kiểm soát. Những cột mốc này chỉ có thể được mở khóa khi Sim của bạn là Trẻ sơ sinh.\nĐạt được các Cột mốc Vận động tinh phức tạp hơn sẽ giúp Trẻ sơ sinh của bạn có lợi thế khi trưởng thành lên Trẻ nhỏ bằng cách có một khởi đầu sớm cho kỹ năng Tư duy của mình." />
+    <TextStringDefinition InstanceID="0x3CA1E0CD" TextString="Vận động tinh" />
+    <TextStringDefinition InstanceID="0x71400AAE" TextString="Khuynh hướng Lãng mạn" />
+    <TextStringDefinition InstanceID="0x66529BC6" TextString="Thời gian rảnh" />
+    <TextStringDefinition InstanceID="0x5D6FC9D5" TextString="Rác thải" />
+    <TextStringDefinition InstanceID="0x6464EECA" TextString="Đối với một số loài cá không kén chọn, không thể đánh giá được vị của rác thải." />
+    <TextStringDefinition InstanceID="0x8D95742A" TextString="Trái cây Thối rữa" />
+    <TextStringDefinition InstanceID="0x81153C2B" TextString="Một số loài cá thích bữa ăn gồm trái cây và rau củ với một phần lớn là đồ thối rữa." />
+    <TextStringDefinition InstanceID="0x273B59F6" TextString="Hữu cơ" />
+    <TextStringDefinition InstanceID="0xD347D9AF" TextString="Nếu nó tự nhiên và có thể ăn được, thì chắc chắn sẽ có một con cá nào đó sẽ ăn nó." />
+    <TextStringDefinition InstanceID="0x079CC6E8" TextString="Kim loại" />
+    <TextStringDefinition InstanceID="0x000BAE7D" TextString="Sắt, Titan và Đồng... Ôi, &lt;i&gt;ngon quá&lt;/i&gt;?" />
+    <TextStringDefinition InstanceID="0x6F1DDC15" TextString="Ếch" />
+    <TextStringDefinition InstanceID="0x7C40190A" TextString="Nguy hiểm khi là một loài lưỡng cư là phải chia sẻ môi trường sống với những con cá đói và có cơ hội." />
+    <TextStringDefinition InstanceID="0x16AE3F16" TextString="Trái cây Tươi" />
+    <TextStringDefinition InstanceID="0x57350A4F" TextString="Thực phẩm tươi ngon không kém gì đối với cá ăn cỏ so với các Sim ăn tạp." />
+    <TextStringDefinition InstanceID="0xBCBC61D1" TextString="Hoa Tươi" />
+    <TextStringDefinition InstanceID="0x6252AD2E" TextString="Ai ngờ rằng thực vật tươi lại có thể ngon như mùi của nó? Có vẻ như một số loài cá thì có." />
+    <TextStringDefinition InstanceID="0x718C0025" TextString="Cá Nhỏ" />
+    <TextStringDefinition InstanceID="0x8215BE7A" TextString="Đôi khi được gọi là “cá thức ăn,” những loài nhỏ nhất có một vị trí lớn trong chuỗi thức ăn tự nhiên." />
+    <TextStringDefinition InstanceID="0x4F6760B3" TextString="Cá Trung bình" />
+    <TextStringDefinition InstanceID="0xD3F4F6DC" TextString="Có một cách duy nhất để ăn một con cá mập. Một miếng một lúc." />
+    <TextStringDefinition InstanceID="0xBFCB2B63" TextString="Nguyên tố" />
+    <TextStringDefinition InstanceID="0x35B31E2C" TextString="Những khối xây dựng cơ bản của vật chất cũng phục vụ như một bữa sáng cân bằng (cho cá)." />
+    <TextStringDefinition InstanceID="0xCE873D31" TextString="Crystal" />
+    <TextStringDefinition InstanceID="0x983ABC0E" TextString="Sự lấp lánh của đá quý có thể được sử dụng để thu hút sự chú ý của một số loài cá." />
+    <TextStringDefinition InstanceID="0xE5C92ECA" TextString="Dù cuộc phiêu lưu đã kết thúc, câu chuyện sẽ mãi thuộc về họ để nhớ." />
+    <TextStringDefinition InstanceID="0x80C2D0F7" TextString="Ngay cả khi xa cách, họ sẽ luôn mang một mảnh của nhau trong trái tim." />
+    <TextStringDefinition InstanceID="0x4E1362F8" TextString="Luôn Có Tôi, Luôn Có Bạn" />

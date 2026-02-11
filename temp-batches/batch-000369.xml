@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x38E27226" TextString="Lấy chiếc bánh" />
+    <TextStringDefinition InstanceID="0x22BA4C9D" TextString="Từ chối lịch sự" />
+    <TextStringDefinition InstanceID="0x4AF8879E" TextString="Cuộc thi LỚN" />
+    <TextStringDefinition InstanceID="0x2F556610" TextString="Cuộc thi LỚN đã đến và {0.SimFirstName} sắp lên sân khấu. Một cái nhìn nhanh quanh và {0.SimFirstName} không cảm thấy như một người chiến thắng. {M0.Anh ấy}{F0.Cô ấy} nên thử kem tẩy da mới {M0.anh ấy}{F0.cô ấy} mua qua TV đêm khuya hay tin tưởng vào sự nỗ lực của {M0.anh ấy}{F0.cô ấy}?" />
+    <TextStringDefinition InstanceID="0x5395FB43" TextString="Tin vào bản thân" />
+    <TextStringDefinition InstanceID="0xE4BAEDD8" TextString="Kem mới" />
+    <TextStringDefinition InstanceID="0xF61EA7F1" TextString="Số 2" />
+    <TextStringDefinition InstanceID="0xCA3F4563" TextString="Mùa thi đấu đang đến gần, nên đã đến lúc nghiêm túc về việc tập luyện cơ bắp; tuy nhiên, có gì đó không ổn trong dạ dày của {0.SimFirstName}. Không may, {0.SimFirstName} có một ngày bận rộn hoàn toàn, và lần nghỉ phòng tắm tiếp theo không được lên lịch cho đến vài giờ nữa. {M0.Anh ấy}{F0.Cô ấy} nên giải quyết vấn đề này trong phòng tắm hay cố gắng bỏ qua cảm giác đó?" />
+    <TextStringDefinition InstanceID="0xDD5DAAB0" TextString="Vượt qua" />
+    <TextStringDefinition InstanceID="0xE368D317" TextString="Sử dụng phòng tắm" />
+    <TextStringDefinition InstanceID="0xD9A6D5CB" TextString="Khan hiếm đồ uống" />
+    <TextStringDefinition InstanceID="0xFC5B5E99" TextString="Đã đến giờ chơi, nhưng lô hàng đồ uống thể thao PowerVim chưa bao giờ đến! {0.SimFirstName} nên phục vụ nước lọc hay ứng biến?" />
+    <TextStringDefinition InstanceID="0x2989D27E" TextString="Ứng biến!" />
+    <TextStringDefinition InstanceID="0x072778E5" TextString="Phục vụ nước" />
+    <TextStringDefinition InstanceID="0xD44D23C7" TextString="Thực phẩm bổ sung năng lượng" />
+    <TextStringDefinition InstanceID="0x86DC7CC5" TextString="Một người bạn tập gym cùng tặng {0.SimFirstName} một mẫu đồ uống năng lượng thử nghiệm mới, khẳng định rằng nó đã thay đổi hoàn toàn cuộc đời cô ấy. Cô ấy trông rất tràn đầy năng lượng, dù hơi run. {0.SimFirstName} nên thử không?" />
+    <TextStringDefinition InstanceID="0xFA90859A" TextString="Đừng uống" />
+    <TextStringDefinition InstanceID="0x18B34AB9" TextString="Uống" />
+    <TextStringDefinition InstanceID="0x6BC47D2C" TextString="Danh bạ" />
+    <TextStringDefinition InstanceID="0xB65CDD52" TextString="Trong một ngày bận rộn khác với việc căng cơ, thư giãn cơ và có lẽ lại căng cơ, {0.SimFirstName} được một người hâm mộ ngưỡng mộ tiếp cận. “Xin {M0.ngài}{F0.quý bà}, ôi xin {M0.ngài}{F0.quý bà} đừng xé danh bạ của tôi làm đôi?!” cậu bé hỏi. {0.SimFirstName} chưa bao giờ giỏi màn này, {M0.anh ấy}{F0.cô ấy} nên làm gì?" />
+    <TextStringDefinition InstanceID="0x737B0245" TextString="Từ chối một cách lịch sự" />
+    <TextStringDefinition InstanceID="0x16E66012" TextString="Thử dù sao đi" />
+    <TextStringDefinition InstanceID="0xEE9FBF09" TextString="Biểu đạt bằng âm thanh" />
+    <TextStringDefinition InstanceID="0xC76628DB" TextString="{0.SimFirstName} đang cố gắng deadlift một thành tích cá nhân mới, và gần như sắp nâng được tạ lên khỏi mặt đất! Mặc dù {M0.anh ấy}{F0.cô ấy} thường không hài lòng với các Sim khác gầm gừ và hét lên ở phòng gym, lần này {0.SimFirstName} nghĩ rằng nó có thể sẽ cho {M0.anh ấy}{F0.cô ấy} thêm động lực {M0.anh ấy}{F0.cô ấy} cần…" />
+    <TextStringDefinition InstanceID="0x46E4DB78" TextString="Giữ im lặng" />
+    <TextStringDefinition InstanceID="0x0DE663CF" TextString="Hét lên" />
+    <TextStringDefinition InstanceID="0x9FA4E076" TextString="Quảng cáo sản phẩm" />
+    <TextStringDefinition InstanceID="0x44AB2288" TextString="Một đại diện tiếp thị tiếp cận {0.SimFirstName} về việc ủng hộ một thực phẩm bổ sung chế độ ăn mới. {0.SimFirstName} chưa có cơ hội kiểm tra các tuyên bố của sản phẩm, nhưng cảnh giác với lời đảm bảo rằng “thực sự chuyển đổi mỡ cơ thể thành phần bằng nhau cơ bắp và sức hấp dẫn.” {M0.Anh ấy}{F0.Cô ấy} nên lấy tiền và ủng hộ nó dù sao?" />
+    <TextStringDefinition InstanceID="0x427E914B" TextString="Không!" />
+    <TextStringDefinition InstanceID="0x46F500F0" TextString="Chắc chắn!" />
+    <TextStringDefinition InstanceID="0x5C93729B" TextString="Thời gian căng cơ" />
+    <TextStringDefinition InstanceID="0x46DCDDA9" TextString="Tại cuộc thi bodybuilding hôm nay, đối thủ của {0.SimFirstName} đã làm mê hoặc các giám khảo bằng cách căng một nhóm cơ từng được cho là gần như không thể co! Trông thật ấn tượng, nhưng đau đớn. {0.SimFirstName} nên cố gắng sánh bằng nỗ lực đó, hay bám vào thói quen bình thường của {M0.anh ấy}{F0.cô ấy}?" />
+    <TextStringDefinition InstanceID="0x336AF34E" TextString="Giữ an toàn" />
+    <TextStringDefinition InstanceID="0x693B7535" TextString="Thử căng cơ" />
+    <TextStringDefinition InstanceID="0xBB2FDD50" TextString="Nâng lên!" />
+    <TextStringDefinition InstanceID="0xD188C336" TextString="Một tay vận động viên cực kỳ khó chịu thách thức {0.SimFirstName} một cuộc thi nâng tạ: Ai deadlift được nhiều nhất sẽ thắng! {0.SimFirstName} nên nhận lời thách thức không?" />
+    <TextStringDefinition InstanceID="0x4477E909" TextString="Có!" />
+    <TextStringDefinition InstanceID="0x0C4B0D0E" TextString="Không!" />
+    <TextStringDefinition InstanceID="0xA744BEFD" TextString="Nâng tạ nguy hiểm" />
+    <TextStringDefinition InstanceID="0xAF9BBF5F" TextString="{0.SimFirstName} nhận thấy một Sim trông gầy gò ở phía bên kia phòng gym, đang vật lộn để benchpress một khối lượng cực lớn. Họ nên can thiệp không?" />
+    <TextStringDefinition InstanceID="0x8A4D480C" TextString="Chờ và xem" />
+    <TextStringDefinition InstanceID="0x296B9ADB" TextString="Giúp đỡ ngay" />
+    <TextStringDefinition InstanceID="0xEE070E8A" TextString="Không đổ mồ hôi" />
+    <TextStringDefinition InstanceID="0xD2028D2C" TextString="{0.SimFirstName} sắp sử dụng ghế nâng tạ, nhưng thấy người cuối cùng để lại một vũng mồ hôi kinh tởm trên thiết bị! {M0.Anh ấy}{F0.Cô ấy} nên đối mặt với người vi phạm hay chỉ lau nó {M0.bản thân}{F0.bản thân}?" />
+    <TextStringDefinition InstanceID="0xD1E8C51F" TextString="Lau nó" />
+    <TextStringDefinition InstanceID="0xFC233D0C" TextString="Đối mặt" />
+    <TextStringDefinition InstanceID="0xD385412F" TextString="Cuộc tranh luận nặng nề" />
+    <TextStringDefinition InstanceID="0x304FC66D" TextString="Có một vật nặng! {0.SimFirstName} nên thử nâng nó không?!" />
+    <TextStringDefinition InstanceID="0x8AB15A52" TextString="Không." />
+    <TextStringDefinition InstanceID="0x4B0D2721" TextString="Vâng!" />

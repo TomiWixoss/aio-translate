@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xD16E990B" TextString="Thông báo này đã hết hạn." />
+    <TextStringDefinition InstanceID="0xB125AF2B" TextString="Cơ hội cuối cùng" />
+    <TextStringDefinition InstanceID="0x68734261" TextString="&lt;span class=&quot;large&quot;&gt;{0.Number}%&lt;/span&gt;\n&lt;span class=&quot;small&quot;&gt;Giảm&lt;/span&gt;" />
+    <TextStringDefinition InstanceID="0xCE6DA0D4" TextString="Xem ngay" />
+    <TextStringDefinition InstanceID="0xDDAFA7BE" TextString="-{0.Number}%" />
+    <TextStringDefinition InstanceID="0xA5512197" TextString="&lt;span class='title'&gt;Tạo Gói&lt;/span&gt;\n&lt;span class='default'&gt;Gói bạn chọn Expansion, Game, và Stuff Pack cùng nhau để tiết kiệm tiền!&lt;/span&gt;" />
+    <TextStringDefinition InstanceID="0x4A1D4347" TextString="Tạo Gói Của Bạn" />
+    <TextStringDefinition InstanceID="0xA0DF5EF0" TextString="Cảm ơn bạn đã chơi The Sims 4!" />
+    <TextStringDefinition InstanceID="0x233AFC84" TextString="Chọn ít nhất một Sim để tiếp tục." />
+    <TextStringDefinition InstanceID="0x095D970D" TextString="Chọn một Hộ gia đình và các Sim để Thăm Cùng" />
+    <TextStringDefinition InstanceID="0x072FC39A" TextString="Bạn có chắc chắn muốn tiếp tục?" />
+    <TextStringDefinition InstanceID="0xF53A7A36" TextString="Chơi với hộ gia đình {0.String} sẽ hủy các chuyến ở quá đêm đang diễn ra cho các Sim sau:\n\n {1.String}" />
+    <TextStringDefinition InstanceID="0x812379D5" TextString="Thú cưng không thể di chuyển nếu không có trẻ em, thiếu niên, người lớn hoặc người cao tuổi." />
+    <TextStringDefinition InstanceID="0xAC6D0144" TextString="Chọn các Sim để Thăm Cùng" />
+    <TextStringDefinition InstanceID="0xAEBD28DC" TextString="Tiếp tục" />
+    <TextStringDefinition InstanceID="0x5A98374B" TextString="Chọn một Hộ gia đình để Chơi Kịch bản" />
+    <TextStringDefinition InstanceID="0x4A77EE20" TextString="Quản lý Hộ gia đình" />
+    <TextStringDefinition InstanceID="0xCBDE6AEB" TextString="Hộ gia đình của bạn: {0.String} đã được gửi đến Spark'd Challenge!" />
+    <TextStringDefinition InstanceID="0x8C6B21E5" TextString="Lô đất của bạn: {0.String} đã được gửi đến Spark'd Challenge!" />
+    <TextStringDefinition InstanceID="0x238DDEA7" TextString="Ốc!" />
+    <TextStringDefinition InstanceID="0x418306DC" TextString="Một hoặc nhiều vật phẩm của bạn được lưu qua The Sims 4 Gallery trên web hoặc di động đã không được lưu vào Thư viện Cá nhân vì chúng được tạo với phiên bản mới hơn. &lt;br&gt;&lt;br&gt;Khởi động lại trò chơi để kiểm tra cập nhật trò chơi." />
+    <TextStringDefinition InstanceID="0x257A84B7" TextString="Bạn không thể thực hiện hành động này quá sớm. Vui lòng đợi một chút và thử lại." />
+    <TextStringDefinition InstanceID="0xB23957E9" TextString="Lỗi máy chủ. Chúng tôi không thể xử lý yêu cầu Gallery này. Vui lòng thử lại sau." />
+    <TextStringDefinition InstanceID="0x2A1DD042" TextString="Tên Sim chứa từ không được phép. Vui lòng quay lại Tạo Sim và chỉnh sửa để giải quyết vấn đề." />
+    <TextStringDefinition InstanceID="0x438B93E3" TextString="Đại từ của Sim chứa từ không được phép. Vui lòng quay lại Tạo Sim và chỉnh sửa để giải quyết vấn đề." />
+    <TextStringDefinition InstanceID="0xC9092575" TextString="Nội dung chứa từ không được phép. Vui lòng chỉnh sửa để giải quyết vấn đề." />
+    <TextStringDefinition InstanceID="0xD526D6F1" TextString="Bình luận chứa từ không được phép." />
+    <TextStringDefinition InstanceID="0xFA91EF5D" TextString="Tên giống chứa từ không được phép. Vui lòng quay lại Tạo Sim và chỉnh sửa để giải quyết vấn đề." />
+    <TextStringDefinition InstanceID="0x6AA20808" TextString="Địa điểm bị khóa" />
+    <TextStringDefinition InstanceID="0x011B7300" TextString="Địa điểm này bị khóa. Bạn không thể thay đổi Loại Địa điểm trên Lô đất này." />
+    <TextStringDefinition InstanceID="0x05F8616C" TextString="Đang lưu vào Thư viện" />
+    <TextStringDefinition InstanceID="0xB78D8967" TextString="Không xác định" />
+    <TextStringDefinition InstanceID="0x3C36A52D" TextString="Không có mô tả" />
+    <TextStringDefinition InstanceID="0x1A255716" TextString="Vui lòng nhập tên có độ dài từ {0.Number} đến {1.Number} ký tự." />
+    <TextStringDefinition InstanceID="0x914EF803" TextString="Nhập tên tại đây..." />
+    <TextStringDefinition InstanceID="0xF2046080" TextString="Gia đình {0.String}" />
+    <TextStringDefinition InstanceID="0x0A9D2C4C" TextString="Nhập mô tả tại đây..." />
+    <TextStringDefinition InstanceID="0xE0C5941C" TextString="Hủy gửi hộ gia đình này khỏi {0.String}" />
+    <TextStringDefinition InstanceID="0xB4B31FAE" TextString="Hủy gửi lô đất này khỏi {0.String}" />
+    <TextStringDefinition InstanceID="0x3CE3FBD7" TextString="Xóa Phòng khỏi Gallery" />
+    <TextStringDefinition InstanceID="0xFB04ED2D" TextString="Xóa Hình xăm khỏi Gallery" />
+    <TextStringDefinition InstanceID="0x9D3BC7A5" TextString="Xóa Hộ gia đình khỏi Gallery" />
+    <TextStringDefinition InstanceID="0x97B0DD7B" TextString="Xóa Lô đất khỏi Gallery" />
+    <TextStringDefinition InstanceID="0x027596B9" TextString="Xóa khỏi Mục trưng bày" />
+    <TextStringDefinition InstanceID="0x8B325470" TextString="Bỏ yêu thích Phòng" />
+    <TextStringDefinition InstanceID="0x7F83A4FE" TextString="Bỏ yêu thích Hình xăm" />
+    <TextStringDefinition InstanceID="0x69E980E4" TextString="Bỏ yêu thích Hộ gia đình" />
+    <TextStringDefinition InstanceID="0xAC6A9AF6" TextString="Bỏ yêu thích Lô đất" />
+    <TextStringDefinition InstanceID="0x26EA92C5" TextString="Dịch vụ Twitter không khả dụng" />
+    <TextStringDefinition InstanceID="0xA7A942C4" TextString="Chia sẻ Phòng lên Twitter" />

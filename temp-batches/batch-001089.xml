@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x1763CA74" TextString="Vượt lên phía trước" />
+    <TextStringDefinition InstanceID="0xE07AD141" TextString="Mọi việc nhỏ tôi làm ở công việc hay trường học dường như được tăng cường… ít nhất là sếp hoặc hiệu trưởng nghĩ những điều tốt tôi làm còn tốt hơn nữa." />
+    <TextStringDefinition InstanceID="0x5DC81C5F" TextString="Cảm thấy Thân thiện" />
+    <TextStringDefinition InstanceID="0xF6A16DB0" TextString="Làm bạn thật dễ dàng, khi bạn có một chút tăng cường phía sau." />
+    <TextStringDefinition InstanceID="0xCAC2E242" TextString="Cảm thấy Thân thiện" />
+    <TextStringDefinition InstanceID="0x11A9CC93" TextString="Làm bạn (hoặc nhiều hơn) thật dễ dàng, khi bạn có một chút tăng cường phía sau." />
+    <TextStringDefinition InstanceID="0x3FC301B4" TextString="Nhiệt huyết Tập luyện" />
+    <TextStringDefinition InstanceID="0x19AB7181" TextString="Khi một người rất hào hứng về việc tập luyện, mỗi lần lặp lại đều có giá trị hơn!" />
+    <TextStringDefinition InstanceID="0xFF8CEB78" TextString="Không Hài lòng" />
+    <TextStringDefinition InstanceID="0x95FEEAAD" TextString="Lần WooHoo đó không thỏa mãn. Cần cải thiện!" />
+    <TextStringDefinition InstanceID="0x481E4AF1" TextString="Trò chơi Bẩn thỉu" />
+    <TextStringDefinition InstanceID="0x8A39B6CE" TextString=" somehow mùi hôi không phải là phần tệ nhất của {T0.Messing Around}{DAE0.WooHoo} đó." />
+    <TextStringDefinition InstanceID="0x3ED61584" TextString="Nhìn thấy Các vì sao" />
+    <TextStringDefinition InstanceID="0x92A1E15F" TextString="Nhìn thấy Các vì sao" />
+    <TextStringDefinition InstanceID="0x73F194B0" TextString="Ồ, lần WooHoo đó ngoài này thế giới." />
+    <TextStringDefinition InstanceID="0x7398E714" TextString="Thỏa mãn Dịu dàng" />
+    <TextStringDefinition InstanceID="0x16682461" TextString="Lần WooHoo đó là một điều đáng nhớ." />
+    <TextStringDefinition InstanceID="0x176F9986" TextString="Thực hiện Tệ" />
+    <TextStringDefinition InstanceID="0xFD8998DF" TextString="Lần WooHoo đó không diễn ra tốt. Thật xấu hổ!" />
+    <TextStringDefinition InstanceID="0x43DF0FFF" TextString="Ồn ào Phòng vệ sinh" />
+    <TextStringDefinition InstanceID="0xC022A3D0" TextString="Điều đó không bốc mùi gần bằng {0.SimFirstName} tưởng tượng." />
+    <TextStringDefinition InstanceID="0xACD75698" TextString="Tình yêu Phòng vệ sinh" />
+    <TextStringDefinition InstanceID="0xE81DF34D" TextString="Lần {T0.Messing Around}{DAE0.WooHoo} đó thật tuyệt, {0.SimFirstName} thậm chí không để ý mùi hôi thối." />
+    <TextStringDefinition InstanceID="0xFC15606E" TextString="Lần WooHoo Đầu tiên" />
+    <TextStringDefinition InstanceID="0x05271197" TextString="Lần đầu tiên dưới chăn với một Sim mới luôn là một trải nghiệm đáng nhớ!" />
+    <TextStringDefinition InstanceID="0x73D1C841" TextString="Hoàn toàn Thỏa mãn" />
+    <TextStringDefinition InstanceID="0xA6CFCBBE" TextString="Không có gì thỏa mãn hơn một chút WooHoo tuyệt vời!" />
+    <TextStringDefinition InstanceID="0x53A2754E" TextString="Chiến thắng Kẻ xấu!" />
+    <TextStringDefinition InstanceID="0x47AA92F7" TextString="Đấm một Tội phạm tối cao ngay vào môi mang lại cho Sim một bầu tăng cường tự tin!" />
+    <TextStringDefinition InstanceID="0x6DCBBCB1" TextString="Sự vượt trội Siêu nhiên" />
+    <TextStringDefinition InstanceID="0xB3B5BE8E" TextString="{0.SimFirstName} cảm thấy khá tuyệt sau khi đánh bại một Sim khác là... hơn một chút so với một Sim." />
+    <TextStringDefinition InstanceID="0xBE9D0C1D" TextString="Đánh ai đó!" />
+    <TextStringDefinition InstanceID="0x14A48FA2" TextString="Các Sim xấu tính thích đánh nhau; họ thích thắng đánh nhau còn hơn." />
+    <TextStringDefinition InstanceID="0x619D0B7B" TextString="Trẻ em Bị đưa đi" />
+    <TextStringDefinition InstanceID="0xDDECF394" TextString="Dịch vụ Trẻ em đã đưa một đứa trẻ đi do một trường hợp bỏ bê tồi tệ. {0.SimFirstName} vô cùng đau khổ." />
+    <TextStringDefinition InstanceID="0x40AEFA65" TextString="Cơ hội Thứ hai" />
+    <TextStringDefinition InstanceID="0xAB922CBA" TextString="Không phải thường xuyên chúng ta được một cơ hội thứ hai để cải thiện hoặc hàn gắn các mối quan hệ với những người chúng ta quan tâm. {0.SimFirstName} sẽ khôn ngoan nếu nhớ điều này trong tương lai." />
+    <TextStringDefinition InstanceID="0x527149B0" TextString="Trong Sự hiện diện của Cái chết" />
+    <TextStringDefinition InstanceID="0x0D676B95" TextString="Cái chết của một Sim có thể là một cú sốc khá lớn. Các Sim có thể than khóc tại một bia mộ để cảm thấy bình yên hơn." />
+    <TextStringDefinition InstanceID="0x7B2B2C67" TextString="Sự kết thúc của Kẻ thù" />
+    <TextStringDefinition InstanceID="0x9F94CAC8" TextString="Cái chết của một người thân có thể gây chấn thương, nhưng cái chết của một kẻ thù mang lại chỉ niềm vui. Các Sim có thể cười tại một bia mộ để cảm thấy bình yên." />
+    <TextStringDefinition InstanceID="0x546C8221" TextString="Đau buồn" />
+    <TextStringDefinition InstanceID="0x6944C11E" TextString="Cái chết của một người thân ảnh hưởng đến những người gần gũi họ nhất. Các Sim có thể than khóc tại một bia mộ để cảm thấy bình yên hơn." />
+    <TextStringDefinition InstanceID="0x9FBB69FD" TextString="Đau buồn" />
+    <TextStringDefinition InstanceID="0xF4BF3E02" TextString="Cái chết của một bạn bè ảnh hưởng đến những người gần gũi họ nhất. Các Sim có thể than khóc tại một bia mộ để cảm thấy bình yên hơn." />
+    <TextStringDefinition InstanceID="0xE857831A" TextString="Chúng đáng ra phải thế!" />
+    <TextStringDefinition InstanceID="0x513AECBB" TextString="Bạn không đi vào hang sư tử với kỳ vọng ra ngoài không tổn thương. Đôi khi cái chết là kết thúc duy nhất hợp lý cho một số hành động." />
+    <TextStringDefinition InstanceID="0x29E8C60B" TextString="Thật là một Trải nghiệm!" />
+    <TextStringDefinition InstanceID="0xCACDAA44" TextString="Có thể là thói quen xấu khi ăn mừng khi ai đó chết, tuy nhiên, {0.SimFirstName} dường như không kìm nén được {0.SimPronounPossessiveDependent} niềm vui rõ rệt!" />
+    <TextStringDefinition InstanceID="0xC8D5A659" TextString="Xung quanh Cái chết" />

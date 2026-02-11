@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x985528B8" TextString="1 Phiếu = {0.Influence} Điểm Ảnh Hưởng" />
+    <TextStringDefinition InstanceID="0x67AA904D" TextString="&lt;font color=&quot;#FF0000&quot;&gt;Thu thập đủ Chữ Ký trước khi kỳ bỏ phiếu kết thúc để đảm bảo việc Hủy bỏ thành công Kế Hoạch Hành Động Khu Phố đã được thông qua.&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xB706C645" TextString="Thêm một Kế Hoạch Hành Động Khu Phố cho kỳ bỏ phiếu tuần này!" />
+    <TextStringDefinition InstanceID="0x4814C4E6" TextString="{0.DayOfWeekLong}" />
+    <TextStringDefinition InstanceID="0x8316ED8F" TextString="{0.String} Lịch Hộ Gia Đình" />
+    <TextStringDefinition InstanceID="0x34856B32" TextString="Bận:" />
+    <TextStringDefinition InstanceID="0x73F960A3" TextString="Sự Kiện Lễ Cưới:" />
+    <TextStringDefinition InstanceID="0xBC6BF9B2" TextString="Kỳ Nghỉ:" />
+    <TextStringDefinition InstanceID="0xF7893B2D" TextString="Ngày Lễ:" />
+    <TextStringDefinition InstanceID="0xB3650F2F" TextString="Chuyến Đi Ngắn:" />
+    <TextStringDefinition InstanceID="0x5A40D320" TextString="Sự Kiện Tang Lễ:" />
+    <TextStringDefinition InstanceID="0x6CC10D83" TextString="Lễ Hội:" />
+    <TextStringDefinition InstanceID="0x3EDD2759" TextString="Sự Kiện:" />
+    <TextStringDefinition InstanceID="0xFB21C3B8" TextString="Ngày Sinh Nhật:" />
+    <TextStringDefinition InstanceID="0xCD044BB1" TextString="Từ {0.TimeShort}" />
+    <TextStringDefinition InstanceID="0xC9043D62" TextString="Từ {0.TimeShort} {1.DayOfWeekShort} đến {2.TimeShort} {3.DayOfWeekShort}" />
+    <TextStringDefinition InstanceID="0x40EF9A26" TextString="Hạn: {0.TimeShort}" />
+    <TextStringDefinition InstanceID="0x2A271049" TextString="Từ {0.TimeShort} đến {1.TimeShort}" />
+    <TextStringDefinition InstanceID="0xC0710355" TextString="Lịch Làm Việc / Đi Học" />
+    <TextStringDefinition InstanceID="0x30A220C7" TextString="Mùa Đông tại {0.String}" />
+    <TextStringDefinition InstanceID="0x9C50B688" TextString="{0.DayOfWeekLong}" />
+    <TextStringDefinition InstanceID="0x927B5A9E" TextString="Sim cần phải Đính Hôn hoặc Kết Hôn để lập kế hoạch cho Sự Kiện Lễ Cưới." />
+    <TextStringDefinition InstanceID="0xD7700B49" TextString="Sự Kiện Lễ Cưới" />
+    <TextStringDefinition InstanceID="0x86535584" TextString="Kỳ Nghỉ" />
+    <TextStringDefinition InstanceID="0x4128D7FB" TextString="Mùa Hè tại {0.String}" />
+    <TextStringDefinition InstanceID="0x336914D9" TextString="Chỉnh Sửa Chuyến Ở Qua" />
+    <TextStringDefinition InstanceID="0xFB0416D2" TextString="Chuyến Ở Qua hiện đang diễn ra và không thể chỉnh sửa." />
+    <TextStringDefinition InstanceID="0x85B3F641" TextString="Phải ở nhà để lập kế hoạch hoặc chỉnh sửa một Chuyến Ở Qua." />
+    <TextStringDefinition InstanceID="0x9AE6A04A" TextString="Hủy Chuyến Ở Qua" />
+    <TextStringDefinition InstanceID="0xA22403DF" TextString="Kết Thúc Chuyến Ở Qua?" />
+    <TextStringDefinition InstanceID="0xCA008704" TextString="Bạn có chắc chắn muốn kết thúc Chuyến Ở Qua hiện tại không?" />
+    <TextStringDefinition InstanceID="0x55E7E838" TextString="Hủy Chuyến Ở Qua?" />
+    <TextStringDefinition InstanceID="0xA430B595" TextString="Bạn có chắc chắn muốn hủy Chuyến Ở Qua đã lập kế hoạch không?" />
+    <TextStringDefinition InstanceID="0xD17C7A3A" TextString="Tổ chức một Chuyến Ở Qua tại hộ gia đình của bạn! Chuyến Ở Qua có thể kéo dài nhiều ngày, có thể xảy ra trong các sự kiện khác như Tiệc Sinh Nhật, và cho phép khách mời đi du lịch cùng hộ gia đình của bạn. Chỉ cần đảm bảo có đủ chỗ cho mọi người ngủ!" />
+    <TextStringDefinition InstanceID="0xB76AF47C" TextString="Chuyến Ở Qua" />
+    <TextStringDefinition InstanceID="0xEC82409B" TextString="Mùa Xuân tại {0.String}" />
+    <TextStringDefinition InstanceID="0x3FDF7060" TextString="Đọc về Lễ Hội" />
+    <TextStringDefinition InstanceID="0x6E2494C7" TextString="Chỉ có thể lên lịch một ngày lễ trên một ngày." />
+    <TextStringDefinition InstanceID="0xF81F7224" TextString="Chỉnh Sửa Ngày Lễ" />
+    <TextStringDefinition InstanceID="0x8B9C107B" TextString="Hủy Ngày Lễ" />
+    <TextStringDefinition InstanceID="0x49871FD4" TextString="Ngày Lễ hiện đang diễn ra và không thể hủy." />
+    <TextStringDefinition InstanceID="0x6579591E" TextString="Xóa Ngày Lễ?" />
+    <TextStringDefinition InstanceID="0x7AF826EF" TextString="Xóa một Ngày Lễ khỏi Lịch sẽ loại bỏ hoàn toàn nó cho tất cả các hộ gia đình Sim trong Lưu game này.\n\nNgày Lễ sẽ không xuất hiện lại vào năm sau.\n\nBạn có muốn tiếp tục?" />
+    <TextStringDefinition InstanceID="0xB78E0128" TextString="Không thể thêm một ngày lễ vào ngày hiện tại." />
+    <TextStringDefinition InstanceID="0x85122D17" TextString="Ngày Lễ" />
+    <TextStringDefinition InstanceID="0x99B8386E" TextString="Chỉnh Sửa Chuyến Đi Ngắn" />
+    <TextStringDefinition InstanceID="0xE12F5195" TextString="Hủy Chuyến Đi Ngắn" />
+    <TextStringDefinition InstanceID="0xDBC94EB0" TextString="Kết Thúc Chuyến Đi Ngắn?" />
+    <TextStringDefinition InstanceID="0xD5D4DD66" TextString="Tạo một Stuff Pack: Phiếu Bầu Thứ Tư" />
+    <TextStringDefinition InstanceID="0xD5D4DD61" TextString="Tạo một Stuff Pack: Phiếu Bầu Thứ Ba" />

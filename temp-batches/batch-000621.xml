@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x78F13CD5" TextString="Chân trái" />
+    <TextStringDefinition InstanceID="0x1ABD26A0" TextString="Đầu" />
+    <TextStringDefinition InstanceID="0x70B234AA" TextString="Cánh tay trên phải" />
+    <TextStringDefinition InstanceID="0xAC3094C7" TextString="Cánh tay trên trái" />
+    <TextStringDefinition InstanceID="0xFF8A964F" TextString="Cánh tay dưới phải" />
+    <TextStringDefinition InstanceID="0x769D5A18" TextString="Cánh tay dưới trái" />
+    <TextStringDefinition InstanceID="0xBDB18948" TextString="Chọn một nguyện vọng!" />
+    <TextStringDefinition InstanceID="0x226E6A52" TextString="Đặc điểm thưởng" />
+    <TextStringDefinition InstanceID="0xA2EB6B5A" TextString="Đặc điểm thưởng: &lt;font color='#38A666'&gt;{0.String}&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x9BD5D8B4" TextString="Chọn nguyện vọng" />
+    <TextStringDefinition InstanceID="0xDE2CE7E5" TextString="Áp dụng {0.String} cho tất cả trang phục" />
+    <TextStringDefinition InstanceID="0xB184628E" TextString="Không có gì trong danh mục {0.String} đang được mặc." />
+    <TextStringDefinition InstanceID="0x6D9BAB81" TextString="Áp dụng {0.String} cho..." />
+    <TextStringDefinition InstanceID="0x66E289F4" TextString="Nhóm tuổi không hợp lệ. Xóa Hình dạng Bóng tối?" />
+    <TextStringDefinition InstanceID="0xF5EAE71A" TextString="Trẻ em không có Hình dạng Bóng tối hay sức mạnh Ma cà rồng. Chọn tùy chọn tuổi này sẽ xóa Hình dạng Bóng tối hiện tại. Bạn không thể hoàn tác thay đổi này." />
+    <TextStringDefinition InstanceID="0xA9450AAE" TextString="Thoát Chế độ chỉnh sửa chi tiết" />
+    <TextStringDefinition InstanceID="0x24EB8258" TextString="Chế độ chỉnh sửa chi tiết" />
+    <TextStringDefinition InstanceID="0xD98F2B7A" TextString="Hoạt động ngoại khóa\nKhi một Trẻ em hoặc Thiếu niên tham gia một Hoạt động ngoại khóa, họ có thể thực hiện phần lớn nhiệm vụ trong thời gian rảnh." />
+    <TextStringDefinition InstanceID="0x11BE094F" TextString="{0.TimeShort} {1.DayOfWeekShort} đến\n{2.TimeShort} {3.DayOfWeekShort}" />
+    <TextStringDefinition InstanceID="0xDC0775D0" TextString="{0.TimeShort} - {1.TimeShort}" />
+    <TextStringDefinition InstanceID="0x7504CA51" TextString="Chọn một Sự nghiệp để nghỉ" />
+    <TextStringDefinition InstanceID="0x813C081E" TextString="Chọn một Chi nhánh cho {0.SimName}" />
+    <TextStringDefinition InstanceID="0xAF401ABF" TextString="Chọn một Sự nghiệp cho {0.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x6CF4F6AC" TextString="Chọn một Hoạt động ngoại khóa cho {0.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xEA41B977" TextString="Đang tuyển dụng: {0.String}" />
+    <TextStringDefinition InstanceID="0xDE91E60D" TextString="Chi nhánh" />
+    <TextStringDefinition InstanceID="0xB65356FC" TextString="Cơ hội hôm nay" />
+    <TextStringDefinition InstanceID="0x60BDD41D" TextString="Công việc này xung đột với lịch làm việc hiện tại của bạn." />
+    <TextStringDefinition InstanceID="0x0879716C" TextString="Bạn phải đăng ký vào Đại học để tham gia hoạt động ngoại khóa này. " />
+    <TextStringDefinition InstanceID="0x312CE2D7" TextString="Các ngành nghề có sẵn: " />
+    <TextStringDefinition InstanceID="0x08B1DFB8" TextString="Chi nhánh sự nghiệp:" />
+    <TextStringDefinition InstanceID="0xFD3F3157" TextString="\n{0.String} {1.String} và {2.String}" />
+    <TextStringDefinition InstanceID="0x7836EE61" TextString="&lt;font color='#ff0000'&gt;Có một bằng đại học liên quan có nghĩa là vị trí này sẽ có mức lương cao hơn, thăng chức dễ dàng hơn, nhiều ngày nghỉ hơn và một khoản thưởng ký kết. Chỉ có một khoản thưởng ký kết có thể được trao cho mỗi Sim mỗi 7 ngày, bất kể sự nghiệp.&lt;/font&gt;\n" />
+    <TextStringDefinition InstanceID="0xA73DD1B3" TextString="{0.String} của {1.String}" />
+    <TextStringDefinition InstanceID="0x0536AFCD" TextString="Danh hiệu quý tộc từ Cha mẹ" />
+    <TextStringDefinition InstanceID="0x67833D77" TextString="Danh hiệu quý tộc từ Hôn nhân" />
+    <TextStringDefinition InstanceID="0xA3A9629F" TextString="Danh hiệu quý tộc theo Sự nghiệp" />
+    <TextStringDefinition InstanceID="0xA86F61E2" TextString="Thu nhỏ - X/-" />
+    <TextStringDefinition InstanceID="0x14C3EAEF" TextString="Phóng to - Z/+" />
+    <TextStringDefinition InstanceID="0x180E91A4" TextString="Kéo để phóng to" />
+    <TextStringDefinition InstanceID="0x51F415BD" TextString="Cảnh báo! Đĩa của bạn gần đầy! Ghi hình đã bị hủy do thiếu không gian." />
+    <TextStringDefinition InstanceID="0x32603595" TextString="Góc nhìn Tường lên - End" />
+    <TextStringDefinition InstanceID="0xC87D5B4E" TextString="Góc nhìn Tường xuống - Home" />
+    <TextStringDefinition InstanceID="0x8FDF5E08" TextString="Góc nhìn Tường cắt ngang - Home, End" />
+    <TextStringDefinition InstanceID="0x769CCC02" TextString="Máy ảnh Sims 4" />
+    <TextStringDefinition InstanceID="0x1B967528" TextString="Xoay góc nhìn - &amp;gt;" />
+    <TextStringDefinition InstanceID="0x939CCB7D" TextString="Xoay góc nhìn - &amp;lt;" />
+    <TextStringDefinition InstanceID="0xA89410B2" TextString="Trình quản lý Chụp ảnh màn hình" />
+    <TextStringDefinition InstanceID="0xEAD64833" TextString="Góc nhìn Trên xuống - T" />
+    <TextStringDefinition InstanceID="0x79EB9E8F" TextString="Thay đổi Tầng - Page Up/Page Down" />

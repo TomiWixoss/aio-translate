@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xFA1812F0" TextString="Đừng Xem Giải Trí Trực Tiếp" />
+    <TextStringDefinition InstanceID="0xBB7BEB06" TextString="Xem Giải Trí Trực Tiếp" />
+    <TextStringDefinition InstanceID="0xEA3DFD0D" TextString="Xem Giải Trí Trực Tiếp" />
+    <TextStringDefinition InstanceID="0x2BF9447C" TextString="Sim sẽ xem các buổi biểu diễn trên:" />
+    <TextStringDefinition InstanceID="0xCBBB3AE3" TextString="Đừng Xem Đồ Sưu Tầm" />
+    <TextStringDefinition InstanceID="0x5F1003BF" TextString="Xem Đồ Sưu Tầm" />
+    <TextStringDefinition InstanceID="0x8C87EE70" TextString="Xem Đồ Sưu Tầm" />
+    <TextStringDefinition InstanceID="0x5E21C827" TextString="Đừng Xem Nghệ Thuật" />
+    <TextStringDefinition InstanceID="0x21F9F113" TextString="Xem Nghệ Thuật" />
+    <TextStringDefinition InstanceID="0x764FD43C" TextString="Xem Nghệ Thuật" />
+    <TextStringDefinition InstanceID="0xBEE0C3B8" TextString="Sim sẽ xem:" />
+    <TextStringDefinition InstanceID="0x33A6C839" TextString="Đừng Thử Quần Áo" />
+    <TextStringDefinition InstanceID="0xCF7256C9" TextString="Thử Quần Áo" />
+    <TextStringDefinition InstanceID="0xEE11FFEA" TextString="Thử Quần Áo" />
+    <TextStringDefinition InstanceID="0x47D09934" TextString="Phục Vụ Quầy Bar" />
+    <TextStringDefinition InstanceID="0xAAF7596B" TextString="Sim sẽ phục vụ và nhận đơn hàng có trả phí trên:" />
+    <TextStringDefinition InstanceID="0x379327B9" TextString="Đừng Bơi" />
+    <TextStringDefinition InstanceID="0xBBC05949" TextString="Bơi" />
+    <TextStringDefinition InstanceID="0x9A060A6A" TextString="Bơi" />
+    <TextStringDefinition InstanceID="0xA6EE5042" TextString="Đừng Ngủ" />
+    <TextStringDefinition InstanceID="0x8B39D8EC" TextString="Ngủ" />
+    <TextStringDefinition InstanceID="0x42845283" TextString="Ngủ" />
+    <TextStringDefinition InstanceID="0x828C7615" TextString="Sim sẽ ngủ và chập chờn trên hoặc trong nhiều loại đối tượng khác nhau, bao gồm nhưng không giới hạn ở:" />
+    <TextStringDefinition InstanceID="0x27CB9978" TextString="Không Tắm Bồn Và Không Tắm Vòi Sen" />
+    <TextStringDefinition InstanceID="0xE13333CE" TextString="Tắm Bồn Và Tắm Vòi Sen" />
+    <TextStringDefinition InstanceID="0xB6F0E025" TextString="Tắm Bồn Và Tắm Vòi Sen" />
+    <TextStringDefinition InstanceID="0xEF751854" TextString="Tháo Dỡ Đồ Thủ Công" />
+    <TextStringDefinition InstanceID="0x627B4D0A" TextString="Sim sẽ tháo dỡ các vật phẩm đã chế tác và đang làm từ:" />
+    <TextStringDefinition InstanceID="0x31314599" TextString="Đừng Phá Hoại Đồ Vật" />
+    <TextStringDefinition InstanceID="0x307967E9" TextString="Phá Hoại Đồ Vật" />
+    <TextStringDefinition InstanceID="0x5D3B814A" TextString="Phá Hoại Đồ Vật" />
+    <TextStringDefinition InstanceID="0xA4DECBCB" TextString="Sim sẽ phá hoại các đồ vật có thể vỡ và có thể chơi khăm." />
+    <TextStringDefinition InstanceID="0x8AA23101" TextString="Đừng Đọc" />
+    <TextStringDefinition InstanceID="0xB2F8A851" TextString="Đọc" />
+    <TextStringDefinition InstanceID="0x9F4F6DE2" TextString="Đọc" />
+    <TextStringDefinition InstanceID="0xA1A215DE" TextString="Sim sẽ đọc và sử dụng:" />
+    <TextStringDefinition InstanceID="0x58D4FEB5" TextString="Đừng Chiếm Hữu Đồ Vật" />
+    <TextStringDefinition InstanceID="0x95202425" TextString="Chiếm Hữu Đồ Vật" />
+    <TextStringDefinition InstanceID="0xF9B5162E" TextString="Chiếm Hữu Đồ Vật" />
+    <TextStringDefinition InstanceID="0x5D82B507" TextString="Sim Ma sẽ chiếm hữu đồ vật." />
+    <TextStringDefinition InstanceID="0x2ACE3326" TextString="Đừng Chơi Đồ Chơi" />
+    <TextStringDefinition InstanceID="0xD991BDD0" TextString="Chơi Đồ Chơi" />
+    <TextStringDefinition InstanceID="0x88EE953F" TextString="Chơi Đồ Chơi" />
+    <TextStringDefinition InstanceID="0x87C45508" TextString="Đừng Chơi Trò Bàn" />
+    <TextStringDefinition InstanceID="0x0BD0E55E" TextString="Chơi Trò Bàn" />
+    <TextStringDefinition InstanceID="0xCFB60255" TextString="Chơi Trò Bàn" />
+    <TextStringDefinition InstanceID="0x9B6CB935" TextString="Đừng Chơi Trò Quán Rượu" />
+    <TextStringDefinition InstanceID="0x82341FA5" TextString="Chơi Trò Quán Rượu" />
+    <TextStringDefinition InstanceID="0xBCF169AE" TextString="Chơi Trò Quán Rượu" />
+    <TextStringDefinition InstanceID="0xFF0B8C23" TextString="Đừng Chơi Trò Thể Thao" />

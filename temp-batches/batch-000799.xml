@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x0C78E353" TextString="Học sinh A Trung học" />
+    <TextStringDefinition InstanceID="0x068057A0" TextString="Trẻ em đi học để kiến thức có thể được nhồi vào đầu bé và để chúng có thể được chuẩn bị cho cuộc sống." />
+    <TextStringDefinition InstanceID="0x2C08D554" TextString="Đừng tô vẽ lên sự thật. Bạn đang trượt. Nhưng bạn vẫn còn thời gian để thay đổi! Làm một chút bài tập - bất kỳ bài tập nào - và đi học." />
+    <TextStringDefinition InstanceID="0xF56068FB" TextString="Học sinh F Tiểu học" />
+    <TextStringDefinition InstanceID="0x5CDBE532" TextString="Khi điểm D trở thành chuẩn, mọi thứ chưa thực sự ảm đạm, nhưng giáo viên đã gọi điện về nhà vài lần và bạn đang ngay trên bờ vực của việc trượt môn." />
+    <TextStringDefinition InstanceID="0xCFF92C29" TextString="Học sinh D Tiểu học" />
+    <TextStringDefinition InstanceID="0xFF23EA87" TextString="Đứng ở giữa đám đông là nơi phổ biến nhất, như minh chứng bởi những học sinh C khác xung quanh bạn. Nó giống như một câu lạc bộ! Một câu lạc bộ trung bình không độc quyền." />
+    <TextStringDefinition InstanceID="0xF463024C" TextString="Học sinh C Tiểu học" />
+    <TextStringDefinition InstanceID="0x0D795150" TextString="Có một điểm B vững chắc chẳng có gì đáng xấu hổ. Theo định nghĩa, nó trên trung bình! Tất nhiên, vẫn còn những học sinh A đang làm tốt hơn một chút." />
+    <TextStringDefinition InstanceID="0xF66A1EE7" TextString="Học sinh B Tiểu học" />
+    <TextStringDefinition InstanceID="0x8E06B08D" TextString="Chắc chắn khó khăn khi là học sinh A. Tất cả thời gian đó học tập, cảm thấy ưu việt, và học tiếp." />
+    <TextStringDefinition InstanceID="0x6DF1B63A" TextString="Học sinh A Tiểu học" />
+    <TextStringDefinition InstanceID="0x2CAAE152" TextString="Hoan hô, {0.SimFirstName}! {M0.Anh ấy}{F0.Cô ấy} sẽ khiến khán giả đứng dậy ở hầu hết mọi buổi biểu diễn kín chỗ. Vỗ tay? Hoa hồng? Chìa khóa phòng? Những thứ này hiện nay được dâng tặng cho {0.SimFirstName} một cách thường xuyên. Một lần nữa!" />
+    <TextStringDefinition InstanceID="0x2B391009" TextString="Nhạc công Tài hoa" />
+    <TextStringDefinition InstanceID="0x6CF08D2B" TextString="Dây, gió, gỗ, đồng. {0.SimFirstName} đã làm chủ tất cả, và {M0.anh ấy}{F0.cô ấy} có những món quà đáng chú ý thường được nhắc đến. Danh tiếng là {0.SimPronounPossessiveIndependent}, và {0.SimFirstName} đang làm việc để có được tài sản. Chỉ chưa đủ tài sản để {0.SimPronounObjective} từ chối buổi lễ ra mắt startup web đó." />
+    <TextStringDefinition InstanceID="0xF1EEAAF0" TextString="Kỳ quan Nhạc cụ" />
+    <TextStringDefinition InstanceID="0xEA21C5F4" TextString="Toàn thế giới là một sân khấu, và {0.SimFirstName} đã kiếm được {M0.anh ấy}{F0.cô ấy} vị trí trên đó. {M0.Anh ấy}{F0.Cô ấy} vẫn đang kiếm tiền bằng cách chơi tại các đám cưới và tiệc tư nhân, nhưng danh sách khách và đồ ăn ngày càng tốt hơn, và {M0.anh ấy}{F0.cô ấy} thỉnh thoảng nâng cao tinh thần với những kỳ nghỉ thỏa mãn trong các dàn nhạc giao hưởng ít tên tuổi." />
+    <TextStringDefinition InstanceID="0xE821DFDB" TextString="Người chơi Dây Giao hưởng" />
+    <TextStringDefinition InstanceID="0x53EEFC2D" TextString="Từ những bữa tiệc tư nhân sang trọng đến sảnh trung tâm mua sắm, đến các đám cưới cho những người mệt mỏi vì hẹn hò qua web, {0.SimFirstName} được săn đón. Dù khách hàng của {M0.anh ấy}{F0.cô ấy} muốn khách nhảy, mua những đồ trang trí đắt đỏ, hay im lặng cho đến khi họ nói lời thề, {0.SimFirstName} có những bản nhạc để đạt được kết quả." />
+    <TextStringDefinition InstanceID="0xBDF0C39A" TextString="Nghệ sĩ Dương cầm Chuyên nghiệp" />
+    <TextStringDefinition InstanceID="0xC67E79AE" TextString="{0.SimFirstName} luôn biết rằng {M0.anh ấy}{F0.cô ấy} không chỉ là một {M0.anh chàng đẹp trai}{F0.cô gái xinh đẹp}. {M0.Anh ấy}{F0.Cô ấy} có TÀI NĂNG. Và ngay khi {M0.anh ấy}{F0.cô ấy} chạm vào phím đàn piano hoặc dây đàn guitar, mọi người trong phòng đều biết. Ngày nay, {M0.anh ấy}{F0.cô ấy} thậm chí còn có các buổi biểu diễn để chứng minh." />
+    <TextStringDefinition InstanceID="0xDDCFEC85" TextString="Nhạc công Nghiêm túc" />
+    <TextStringDefinition InstanceID="0xE76F2C27" TextString="Ai cần sự công nhận tên khi mọi người đều nhận ra bài hát của bạn? {0.SimFirstName} sẽ bận rộn tạo ra các jingle ghim chặt vào não người đến mức cần phẫu thuật xâm lấn cao để lấy chúng ra. Thế thì sao nếu chúng về thức ăn cho mèo, hoặc chất tẩy toilet? Không ai có thể xả chúng đi, không bao giờ!" />
+    <TextStringDefinition InstanceID="0x171BA82C" TextString="Người làm Jingle" />
+    <TextStringDefinition InstanceID="0x9CDAB59C" TextString="Cánh cửa bắt đầu mở ra cho {0.SimFirstName}. Và {M0.anh ấy}{F0.cô ấy} bắt đầu mở ra cho một số nghệ sĩ khá ngầu. Khán giả thực sự cười khi họ nên cười. Vỗ tay không phải là không nghe thấy (hay không nghe thấy). Có lẽ chưa đến lúc thử mẹo cũ 'Bạn không biết tôi là ai?' nhưng nó đang đến...." />
+    <TextStringDefinition InstanceID="0xEBCD1753" TextString="Nghệ sĩ Mở màn" />
+    <TextStringDefinition InstanceID="0xCB8D7F75" TextString="Danh sách C tốt hơn là không có danh sách nào! Tại sao, {0.SimFirstName} thậm chí còn bắt đầu đặt một vài buổi biểu diễn. Tại thời điểm này, khả năng quảng bá không xấu hổ của {M0.anh ấy}{F0.cô ấy} có thể là tài sản lớn hơn bất kỳ tài năng thực sự nào!" />
+    <TextStringDefinition InstanceID="0x30FB90F2" TextString="Người trong Danh sách C" />
+    <TextStringDefinition InstanceID="0x8EFA1256" TextString="{0.SimFirstName} sinh ra để biểu diễn. Nó được viết trên các vì sao! Tất nhiên, với các vì sao là {M0.anh ấy}{F0.cô ấy} duy nhất tham chiếu, các đêm hát mở cửa là con đường khả thi duy nhất của {0.SimFirstName} để khám phá và nổi tiếng. Phần khó khăn nhất là chịu đựng tất cả những người nghiệp dư này chỉ có thể đặt đêm hát mở cửa!" />
+    <TextStringDefinition InstanceID="0xC529AF3D" TextString="Người tìm kiếm Đêm hát Mở cửa" />
+    <TextStringDefinition InstanceID="0xAC6BA86F" TextString="Nếu một câu chuyện cười được kể trong câu lạc bộ hài, và không có ai ở đó để nghe, nó có tạo ra âm thanh không? Với tư cách là một nghệ sĩ nghiệp dư, {0.SimFirstName} sắp tìm ra. Ít nhất không có tiếng rít hay vật ném!" />
+    <TextStringDefinition InstanceID="0xF7649C44" TextString="Nghệ sĩ Nghiệp dư" />
+    <TextStringDefinition InstanceID="0x90EBB56A" TextString="Từng câu chuyện cười, {0.SimFirstName} đã leo lên hàng ngài hài kịch, và giờ đây {M0.anh ấy}{F0.cô ấy} đang thiết lập các tiêu chuẩn mới trong ngành. Một thế hệ toàn bộ diễn viên hài sẽ một ngày quay lại {0.SimFirstName} như nguồn cảm hứng. {0.SimFirstName} đang ngập trong tiền, danh tiếng và người hâm mộ." />
+    <TextStringDefinition InstanceID="0xB59139B1" TextString="Người dừng chương trình" />
+    <TextStringDefinition InstanceID="0x9F9F5483" TextString="Chỉ như vậy, {0.SimFirstName} là cái tên lớn trên bảng hiệu! Các nghệ sĩ mới nổi háo hức mở màn cho {0.SimPronounObjective}. Công việc ổn định, trả lương tốt, và {0.SimFirstName} thậm chí đã bắt gặp vài người trên đường tham chiếu đến {M0.anh ấy}{F0.cô ấy} và cười vỡ bụng nhau. Không tệ!" />
+    <TextStringDefinition InstanceID="0x0642D458" TextString="Ngôi sao Stand Up" />
+    <TextStringDefinition InstanceID="0x3EA6C8CC" TextString="{0.SimFirstName} đã hết bay dưới radar. {M0.Anh ấy}{F0.Cô ấy} đang kiếm một số tiền nghiêm túc bằng cách chủ trì các sự kiện từ thiện, lễ trao giải, các buổi chế giễu, và hầu hết mọi loại tiệc không ai thực sự muốn tham dự. {M0.Anh ấy}{F0.Cô ấy} thậm chí có thể là Người được vinh danh tại đám cưới ngôi sao keo kiệt!" />
+    <TextStringDefinition InstanceID="0x754C66E3" TextString="Bậc thầy Chế giễu" />
+    <TextStringDefinition InstanceID="0xA2DA05A5" TextString="{0.SimFirstName} đang làm một công việc đứng với {M0.anh ấy}{F0.cô ấy} tiểu phẩm đứng, và mọi người bắt đầu đứng dậy và chú ý. May mắn là {0.SimFirstName} có thể cắt họ xuống với vài câu chuyện cười nhanh! (Câu chuyện cười của {M0.anh ấy}{F0.cô ấy} tốt hơn những cái này.)" />
+    <TextStringDefinition InstanceID="0xA7366C82" TextString="Diễn viên Hài đang lên" />
+    <TextStringDefinition InstanceID="0x372E3706" TextString="Ồ, {0.SimFirstName} thực sự có thể giữ chân đám đông, không cần còng tay! {M0.Anh ấy}{F0.Cô ấy} đang dành ít thời gian hơn để bán danh thiếp và nhiều thời gian hơn để luyện các câu nói một dòng, các câu chuyện cười 'con sóc bước vào quán bar', và các bản nhái mà mọi người thực sự nhận ra." />
+    <TextStringDefinition InstanceID="0x4C0FFB8D" TextString="Người kể chuyện Vững chắc" />
+    <TextStringDefinition InstanceID="0x499B531F" TextString="Những ý tưởng thực sự đang chảy cho {0.SimFirstName} bây giờ. Trên sân khấu, ngoài sân khấu, tại các đám cưới, tại các đám tang. Mọi thứ là nguồn cung cấp cho tài liệu hài hước mới! Và ai không thích một câu chuyện cười tốt?" />
+    <TextStringDefinition InstanceID="0xF56BBB14" TextString="Thợ rèn Câu chuyện cười" />
+    <TextStringDefinition InstanceID="0x476B3F19" TextString="{0.SimFirstName} bây giờ là Đầu bếp Phụ! {M0.Anh ấy}{F0.Cô ấy} có nhiệm vụ bao gồm thiết lập trạm, chuẩn bị thức ăn, dọn dẹp và tồn kho. Về cơ bản là mọi thứ mà các đầu bếp thực sự không muốn làm!" />
+    <TextStringDefinition InstanceID="0xE3A4C106" TextString="Đầu bếp Phụ" />
+    <TextStringDefinition InstanceID="0x7F977D9A" TextString="Bí quyết của Pha chế là tỷ lệ. Bao nhiêu nước ngọt? Bao nhiêu nước chua? Vị khách có vấn đề này muốn lời khuyên của {0.SimFirstName}, hay chỉ muốn ai đó lắng nghe? Đây có phải là công việc thực sự, hay chỉ là thứ mà mọi người làm để kiếm tiền cho đến khi họ tìm được công việc thực sự?" />
+    <TextStringDefinition InstanceID="0x922AE741" TextString="Chuyên gia Pha chế" />
+    <TextStringDefinition InstanceID="0x941A494F" TextString="Đứng sau các trạm thức ăn mà không thể ăn thức ăn bao giờ dễ dàng, nhưng đó là hiện thực mới cho {0.SimFirstName}. {M0.Anh ấy}{F0.Cô ấy} những ngày bây giờ sẽ đầy với điệu nhảy ridiculous tại các đám cưới, các bài tập xây dựng đội nhóm thất bại, và các trò chơi baby shower thực sự kỳ quặc." />
+    <TextStringDefinition InstanceID="0x5AA4E1E4" TextString="Nhà cung cấp Dịch vụ Ăn uống" />

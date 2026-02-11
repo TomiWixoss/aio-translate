@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xE677893D" TextString="Bật hướng dẫn cho thuê nhà ở" />
+    <TextStringDefinition InstanceID="0x14E1BA36" TextString="Không phải bây giờ" />
+    <TextStringDefinition InstanceID="0xCD992F5F" TextString="Nơi kỳ nghỉ bắt đầu!" />
+    <TextStringDefinition InstanceID="0x01ADA0C6" TextString="Với Địa điểm Tùy chỉnh và Kỳ nghỉ, bạn có thể xây dựng khung cảnh hoàn hảo cho bất kỳ loại phiêu lưu nào. Hãy tưởng tượng một khu bể bơi trong khu phố phục vụ smoothie vào ban ngày và biến thành một bữa tiệc nhảy vào ban đêm, hoặc một công viên bắt bướm trở thành trung tâm lớp tập xoay ốc vào buổi chiều. Bạn chọn các hoạt động, gán vai trò và đặt lịch trình để mang lại sự sống động cho lô đất!\n\nChưa sẵn sàng xây dựng từ đầu? Không sao! Hai lô đất Địa điểm Tùy chỉnh, &lt;b&gt;Camp Gibbi Gibbi&lt;/b&gt;, một trại trẻ ngoài trời mạo hiểm, và &lt;b&gt;Revive and Thrive&lt;/b&gt;, một Khu nghỉ dưỡng Thư giãn đến từ Fitness, được thiết lập sẵn và sẵn sàng tổ chức một Kỳ nghỉ ngay lập tức. Gia đình Addam cũng tổ chức &lt;b&gt;Love Highland&lt;/b&gt; ngay tại nhà họ cho người độc thân đang tìm kiếm tình yêu! Chỉ cần mở Lịch hoặc Điện thoại để bắt đầu lập kế hoạch cho một Kỳ nghỉ và để cuộc phiêu lưu diễn ra! Nếu bạn đã sẵn sàng tìm hiểu thêm, những bài học này sẽ giúp bạn bắt đầu:" />
+    <TextStringDefinition InstanceID="0x960330E2" TextString="Tìm hiểu về Kỳ nghỉ" />
+    <TextStringDefinition InstanceID="0xFF21EDD6" TextString="Tìm hiểu về Địa điểm Tùy chỉnh" />
+    <TextStringDefinition InstanceID="0x14AAFE95" TextString="Có thể sau!" />
+    <TextStringDefinition InstanceID="0xFDD07674" TextString="Lối sống Năng động có thể được xóa thông qua Điện thoại bằng cách chọn &quot;Đi đến Huấn luyện Lối sống&quot; hoặc thông qua Thuốc Lifestyle-Go-Poof trong Cửa hàng Phần thưởng." />
+    <TextStringDefinition InstanceID="0x1BB0148B" TextString="Cửa hàng Phần thưởng" />
+    <TextStringDefinition InstanceID="0xC65D53EF" TextString="{0.TimeShort} {0.TimeLong}" />
+    <TextStringDefinition InstanceID="0xABC58530" TextString="Chủ ngữ: {M0.he}{F0.she} {M0.He}{F0.She}" />
+    <TextStringDefinition InstanceID="0xFA0A819F" TextString="{0.SimPronounSubjective} {0.SimPronounSubjective|xxUpper}" />
+    <TextStringDefinition InstanceID="0x08D81322" TextString="{0.SimFirstName} đã đối mặt với quyết định khó khăn nhất trong cuộc đời của {0.SimPronounPossessiveDependent}. {0.SimPronounSubjective|xxUpper} có thể chia sẻ tiền với {0.SimPronounPossessiveDependent} người bạn thân nhất hoặc bỏ phiếu cho họ đi và lấy toàn bộ số tiền cho {0.SimPronounReflexive}. Nếu {0.SimPronounSubjective} lấy tiền, bạn bè của {0.SimPronounPossessiveDependent} sẽ nghĩ gì về {0.SimPronounObjective}?" />
+    <TextStringDefinition InstanceID="0xEB4712FD" TextString="{0.SimFirstName} đã đối mặt với quyết định khó khăn nhất trong cuộc đời của {M0.his}{F0.her}{N0.their}. {M0.He}{F0.She}{N0.They} có thể chia sẻ tiền với {M0.his}{F0.her}{N0.their} người bạn thân nhất hoặc bỏ phiếu cho họ đi và lấy toàn bộ số tiền cho {M0.himself}{F0.herself}{N0.themself}. Nếu {M0.he}{F0.she}{N0.they} lấy tiền, bạn bè của {M0.his}{F0.her}{N0.their} sẽ nghĩ gì về {M0.him}{F0.her}{N0.them}?" />
+    <TextStringDefinition InstanceID="0xE84BC220" TextString="{0.SimPronouns} {0.SimPronouns|xxUpper}" />
+    <TextStringDefinition InstanceID="0x9D746AEC" TextString="Từ khóa phản thân: {M0.himself}{F0.herself} {M0.Himself}{F0.Herself}" />
+    <TextStringDefinition InstanceID="0xBEE7E501" TextString="Nhà sản xuất chính - Cozy Kitsch" />
+    <TextStringDefinition InstanceID="0xBEE7E500" TextString="Nhà sản xuất chính - Sweet Slumber Party" />
+    <TextStringDefinition InstanceID="0xBEE7E503" TextString="Nhà sản xuất chính - Storybook Nursery" />
+    <TextStringDefinition InstanceID="0xBEE7E502" TextString="Nhà sản xuất chính - Artist Studio" />
+    <TextStringDefinition InstanceID="0xBEE7E505" TextString="Nhà sản xuất chính - Cozy Bistro" />
+    <TextStringDefinition InstanceID="0xBEE7E504" TextString="Nhà sản xuất chính - Riviera Retreat" />
+    <TextStringDefinition InstanceID="0xBEE7E507" TextString="Nhà sản xuất chính - Party Essentials" />
+    <TextStringDefinition InstanceID="0xBEE7E506" TextString="Nhà sản xuất chính - Urban Homage" />
+    <TextStringDefinition InstanceID="0xBFE7E6F1" TextString="Nhà sản xuất chính - Goth Galore" />
+    <TextStringDefinition InstanceID="0xBFE7E6FE" TextString="Nhà sản xuất chính - Castle Estate" />
+    <TextStringDefinition InstanceID="0xBFE7E6FC" TextString="Nhà sản xuất chính - Modern Luxe" />
+    <TextStringDefinition InstanceID="0xBFE7E6FD" TextString="Nhà sản xuất chính - Poolside Splash" />
+    <TextStringDefinition InstanceID="0xBFE7E6FA" TextString="Nhà sản xuất chính - Book Nook" />
+    <TextStringDefinition InstanceID="0xBFE7E6FB" TextString="Nhà sản xuất chính - Grunge Revival" />
+    <TextStringDefinition InstanceID="0xBFE7E6F8" TextString="Nhà sản xuất chính - Basement Treasures" />
+    <TextStringDefinition InstanceID="0xBFE7E6F9" TextString="Nhà sản xuất chính - Greenhouse Haven" />
+    <TextStringDefinition InstanceID="0xC0E7E865" TextString="Nhà sản xuất chính - Bathroom Clutter" />
+    <TextStringDefinition InstanceID="0xC0E7E864" TextString="Nhà sản xuất chính - Simtimates Collection" />
+    <TextStringDefinition InstanceID="0xC0E7E86B" TextString="Nhà sản xuất chính - Everyday Clutter" />
+    <TextStringDefinition InstanceID="0xC0E7E86A" TextString="Nhà sản xuất chính - Pastel Pop" />
+    <TextStringDefinition InstanceID="0xC0E7E869" TextString="Nhà sản xuất chính - Desert Luxe" />
+    <TextStringDefinition InstanceID="0xC0E7E868" TextString="Nhà sản xuất chính - First Fits" />
+    <TextStringDefinition InstanceID="0xC1E7E9DD" TextString="Nhà sản xuất chính - Bust the Dust" />
+    <TextStringDefinition InstanceID="0xC1E7E9DE" TextString="Nhà sản xuất chính - Country Kitchen" />
+    <TextStringDefinition InstanceID="0xC1E7E9DF" TextString="Nhà sản xuất chính - Throwback Fit" />
+    <TextStringDefinition InstanceID="0xC2E7EBBA" TextString="Nhà sản xuất chính - Paranormal Stuff" />
+    <TextStringDefinition InstanceID="0xB8920557" TextString="Nhà sản xuất chính - My Wedding Stories" />
+    <TextStringDefinition InstanceID="0xB8920556" TextString="Nhà sản xuất chính - Dream Home Decorator" />
+    <TextStringDefinition InstanceID="0xDBB31D61" TextString="Nhà sản xuất chính - Cottage Living" />
+    <TextStringDefinition InstanceID="0xFF98B9CD" TextString="Nhà mô hình hóa đối tượng thuê ngoài" />
+    <TextStringDefinition InstanceID="0x1EDB276D" TextString="Nhà nghệ sĩ nhân vật XDev chính - Prairie Dreams" />
+    <TextStringDefinition InstanceID="0x25DB3253" TextString="Nhà nghệ sĩ nhân vật XDev chính - Essential Glam" />
+    <TextStringDefinition InstanceID="0x24DB30FA" TextString="Nhà nghệ sĩ nhân vật XDev chính - Sweet Allure" />
+    <TextStringDefinition InstanceID="0x24DB30FC" TextString="Nhà nghệ sĩ nhân vật XDev chính - Business Chic" />

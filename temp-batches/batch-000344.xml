@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xB88E2717" TextString="Chuyển đi" />
+    <TextStringDefinition InstanceID="0xE93C7E98" TextString="Hộ gia đình ở Thế giới Cư dân có thể rời bỏ lô đất." />
+    <TextStringDefinition InstanceID="0x93BD6C30" TextString="Chuyển vào" />
+    <TextStringDefinition InstanceID="0xE3F33F15" TextString="Hộ gia đình có thể chuyển vào các lô đất chưa có người ở của bất kỳ Thế giới Cư dân nào." />
+    <TextStringDefinition InstanceID="0x570A6508" TextString="Tham gia Sự nghiệp" />
+    <TextStringDefinition InstanceID="0xB3C2A61D" TextString="Sim đang thất nghiệp có thể tìm kiếm một sự nghiệp." />
+    <TextStringDefinition InstanceID="0xE6DD7F38" TextString="Có em bé" />
+    <TextStringDefinition InstanceID="0x61548A6D" TextString="Cha mẹ Sim có thể đưa các Sim mới vào gia đình thông qua sinh nở." />
+    <TextStringDefinition InstanceID="0x33789E39" TextString="Thay đổi tình bạn" />
+    <TextStringDefinition InstanceID="0xC05B6C26" TextString="Sim có thể kết bạn và nuôi dưỡng hoặc làm tổn hại tình bạn." />
+    <TextStringDefinition InstanceID="0x224013BE" TextString="Nhận con nuôi" />
+    <TextStringDefinition InstanceID="0xDEC3B807" TextString="Cha mẹ Sim có thể đưa các Sim mới vào gia đình thông qua nhận nuôi." />
+    <TextStringDefinition InstanceID="0xC5711586" TextString="Chết trong tai nạn" />
+    <TextStringDefinition InstanceID="0x4D8E2CDF" TextString="Sim có thể chết trước thời hạn. Không ảnh hưởng đến cái chết vì tuổi già." />
+    <TextStringDefinition InstanceID="0x8130AA64" TextString="Nắng" />
+    <TextStringDefinition InstanceID="0x61DAB806" TextString="Căn hộ Dịch vụ" />
+    <TextStringDefinition InstanceID="0x6C02B9FD" TextString="Lò sưởi Lãng mạn" />
+    <TextStringDefinition InstanceID="0x347B4062" TextString="Aura Lãng mạn" />
+    <TextStringDefinition InstanceID="0x1CC6B31F" TextString="Yên tĩnh" />
+    <TextStringDefinition InstanceID="0xC8AF6918" TextString="Vùng Động đất" />
+    <TextStringDefinition InstanceID="0x5D658451" TextString="Đắt đỏ" />
+    <TextStringDefinition InstanceID="0x79E8880D" TextString="Penny Pixies" />
+    <TextStringDefinition InstanceID="0xA523F02C" TextString="Trên Đường Ley Line" />
+    <TextStringDefinition InstanceID="0x079B13CB" TextString="Cần chăm sóc" />
+    <TextStringDefinition InstanceID="0x61A667B3" TextString="Trường học Tốt" />
+    <TextStringDefinition InstanceID="0x88EA2B60" TextString="Không khí Khó chịu" />
+    <TextStringDefinition InstanceID="0xBC29F1D1" TextString="Tiền đặt cọc Thấp" />
+    <TextStringDefinition InstanceID="0x8A685E53" TextString="Hàng xóm Sôi động" />
+    <TextStringDefinition InstanceID="0x5E346904" TextString="Studio Tại nhà" />
+    <TextStringDefinition InstanceID="0x4BA7F191" TextString="Mang tính Lịch sử" />
+    <TextStringDefinition InstanceID="0x94D47FC2" TextString="Bẩn thỉu" />
+    <TextStringDefinition InstanceID="0x2F5B9017" TextString="Tầm nhìn Tuyệt vời" />
+    <TextStringDefinition InstanceID="0xD015C495" TextString="Đất Tốt" />
+    <TextStringDefinition InstanceID="0x47A86B5A" TextString="Nơi Tổ chức Tiệc" />
+    <TextStringDefinition InstanceID="0x6BC48D9B" TextString="Bẩn hôi" />
+    <TextStringDefinition InstanceID="0xB30528EB" TextString="Bị Nguyền rủa" />
+    <TextStringDefinition InstanceID="0x88003D1C" TextString="Trò chơi Trẻ con" />
+    <TextStringDefinition InstanceID="0xC31C3212" TextString="Nhà bếp của Đầu bếp" />
+    <TextStringDefinition InstanceID="0xF2411868" TextString="Tiền thuê Rẻ" />
+    <TextStringDefinition InstanceID="0x9A909927" TextString="" />
+    <TextStringDefinition InstanceID="0x7D6D3008" TextString="Trang trí Đầu" />
+    <TextStringDefinition InstanceID="0xE97AD578" TextString="Tranh vẽ trên Cơ thể" />
+    <TextStringDefinition InstanceID="0xEC033FD5" TextString="Chọn Thế giới" />
+    <TextStringDefinition InstanceID="0xB494E2E0" TextString="Thế giới Được đề xuất" />
+    <TextStringDefinition InstanceID="0x683E5287" TextString="Tôi khuyên bạn nên xem xét &lt;b&gt;Willow Creek&lt;/b&gt; hoặc &lt;b&gt;Oasis Springs!&lt;/b&gt;\n\nBạn luôn có thể xem thêm thông tin về một Thế giới bằng cách di chuột qua nó." />
+    <TextStringDefinition InstanceID="0x8ADBF71D" TextString="Chào mừng đến với &lt;b&gt;Thế giới Cư dân,&lt;/b&gt; nơi bạn có thể chọn thế giới hoàn hảo để Hộ gia đình của mình sống!" />
+    <TextStringDefinition InstanceID="0x856D72E5" TextString="Thế giới này không có bất kỳ Lô đất Khởi đầu tốt nào cho bạn. Tôi khuyên bạn nên chọn &lt;b&gt;Willow Creek&lt;/b&gt; hoặc &lt;b&gt;Oasis Springs&lt;/b&gt; thay vào đó trong lúc này!" />
+    <TextStringDefinition InstanceID="0x0E0FA578" TextString="Tiếp tục Dù sao đi nữa" />
+    <TextStringDefinition InstanceID="0x19FF7390" TextString="Không sao" />
+    <TextStringDefinition InstanceID="0xA347C318" TextString="Lô đất này không có nhà Khởi đầu được xây dựng trên đó. Tôi khuyên bạn nên chuyển đến một lô đất có nhà Khởi đầu thay vào đó!" />

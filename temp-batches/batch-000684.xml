@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x1CF42206" TextString="Bạn bè" />
+    <TextStringDefinition InstanceID="0x7B76E40C" TextString="Thú cưng là bạn bè trọn vẹn miễn là chúng nhận được tình yêu thương đáp lại." />
+    <TextStringDefinition InstanceID="0x2A417429" TextString="{0.SimFirstName} vừa trở thành Bạn bè với {1.SimFirstName}." />
+    <TextStringDefinition InstanceID="0xE7807A51" TextString="Không ưa" />
+    <TextStringDefinition InstanceID="0x9F32DD79" TextString="Mối quan hệ này bắt đầu không ưng ý. Có lẽ một món quà nhỏ sẽ giúp nó đi theo hướng tích cực." />
+    <TextStringDefinition InstanceID="0x506C0F3C" TextString="{0.SimFirstName} vừa bị {1.SimFirstName} không ưa." />
+    <TextStringDefinition InstanceID="0x8E23FA89" TextString="Căm ghét" />
+    <TextStringDefinition InstanceID="0xB0C06F01" TextString="Mối quan hệ với Thú cưng không phải lúc nào cũng tích cực và cái này có thể không cứu vãn được." />
+    <TextStringDefinition InstanceID="0x473CD794" TextString="{0.SimFirstName} vừa trở thành Căm ghét với {1.SimFirstName}." />
+    <TextStringDefinition InstanceID="0x0EAC7572" TextString="Bạn đồng hành" />
+    <TextStringDefinition InstanceID="0x68C0CC78" TextString="Bạn đồng hành là Thú cưng và Thú cưng là Bạn đồng hành, người sẽ luôn ở bên." />
+    <TextStringDefinition InstanceID="0x4B3C9C67" TextString="{0.SimFirstName} vừa trở thành Bạn thân với {1.SimFirstName}." />
+    <TextStringDefinition InstanceID="0xCE457131" TextString="Quen biết" />
+    <TextStringDefinition InstanceID="0x81F812D9" TextString="Thú cưng thường có cảm xúc mạnh với ai đó, nhưng con thú này dường như không cảm thấy nhiều." />
+    <TextStringDefinition InstanceID="0xDADB935C" TextString="{0.SimFirstName} vừa trở thành Quen biết với {1.SimFirstName}." />
+    <TextStringDefinition InstanceID="0xA50842B7" TextString="Hàng xóm" />
+    <TextStringDefinition InstanceID="0xA59A9A84" TextString="Hàng xóm trong chung cư" />
+    <TextStringDefinition InstanceID="0x0E2CF811" TextString="Bạn cùng phòng" />
+    <TextStringDefinition InstanceID="0x1E013D3C" TextString="Tình cảm đã mở khóa (Không nên hiển thị, DNT)" />
+    <TextStringDefinition InstanceID="0x1EB10F66" TextString="{1.SimFirstName} vừa trở thành Kẻ thù của  {0.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x81524F7F" TextString="{1.SimFirstName} vừa trở thành Bạn thân với {0.SimFirstName}." />
+    <TextStringDefinition InstanceID="0x5F85C975" TextString="Kẻ thù - bạn" />
+    <TextStringDefinition InstanceID="0x36F4FEFD" TextString="Hai nhân vật này là bạn bè giả vờ là kẻ thù giả vờ là bạn bè." />
+    <TextStringDefinition InstanceID="0x4B0C30AC" TextString="(Từ việc Kết bạn)" />
+    <TextStringDefinition InstanceID="0x30C86379" TextString="(Từ việc Kết bạn)" />
+    <TextStringDefinition InstanceID="0x2A870932" TextString="{1.SimFirstName} và {0.SimFirstName} giờ đã căm ghét nhau!" />
+    <TextStringDefinition InstanceID="0x13B60DB9" TextString="Tay sai" />
+    <TextStringDefinition InstanceID="0xB190B991" TextString="Hai nhân vật xấu xa này là bạn thân và là tay sai của nhau." />
+    <TextStringDefinition InstanceID="0x39AEE5C4" TextString="{0.SimFirstName} và {1.SimFirstName} không thể thực sự là bạn bè. Có vẻ như làm điều ác có hậu quả." />
+    <TextStringDefinition InstanceID="0x079A6538" TextString="Bạn trai thân" />
+    <TextStringDefinition InstanceID="0xC5F10092" TextString="Hai người bạn trai thân này có mối quan hệ bạn trai thân tuyệt vời." />
+    <TextStringDefinition InstanceID="0xE9E0CC13" TextString="{0.SimFirstName} và {1.SimFirstName} đã nâng tầm tình bạn nam tính lên một cấp độ mới!" />
+    <TextStringDefinition InstanceID="0x4030BF8B" TextString="{0.SimFirstName} và {1.SimFirstName} đã mất liên lạc và không còn là Bạn thân nữa!" />
+    <TextStringDefinition InstanceID="0x2E5C4311" TextString="Họ hàng nhà vợ/chồng" />
+    <TextStringDefinition InstanceID="0x12A20D1A" TextString="Họ hàng nhà vợ/chồng xa" />
+    <TextStringDefinition InstanceID="0x4462FF21" TextString="{M1.Uncle}{F1.Aunt}" />
+    <TextStringDefinition InstanceID="0xDD0DC629" TextString="{M1.Stepfather}{F1.Stepmother}" />
+    <TextStringDefinition InstanceID="0xFED14AE9" TextString="Lobster Thermidor" />
+    <TextStringDefinition InstanceID="0x6EAAD756" TextString="Làm đồ ăn vặt cho thú cưng" />
+    <TextStringDefinition InstanceID="0xE429FBC8" TextString="Làm Zaatar Manakeesh" />
+    <TextStringDefinition InstanceID="0x26082EB9" TextString="Đây là một loại bánh mặn Ả Rập nổi tiếng có thể được thưởng thức như một món ăn nhẹ hoặc khai vị.\nNó gồm một chiếc bánh mì dẹp phết dầu ô liu và za'atar, một hỗn hợp các thảo mộc, gia vị và hạt mè, và đôi khi có thể bao gồm phô mai trắng.\n\nPhù hợp với người ăn chay." />
+    <TextStringDefinition InstanceID="0x298E5136" TextString="Phục vụ Zaatar Manakeesh" />
+    <TextStringDefinition InstanceID="0xEC422A85" TextString="Zaatar Manakeesh" />
+    <TextStringDefinition InstanceID="0x333CC063" TextString="Nấu bánh bao rau củ" />
+    <TextStringDefinition InstanceID="0x460D83F8" TextString="Bánh bao rau củ" />
+    <TextStringDefinition InstanceID="0x651491B8" TextString="Phục vụ Súp cà chua" />
+    <TextStringDefinition InstanceID="0x6CCA2B3B" TextString="Nướng một nồi Súp cà chua" />
+    <TextStringDefinition InstanceID="0x98F13DC9" TextString="Súp cà chua đơn giản, béo ngậy. Từ hộp hay cà chua tươi - whichever cách nào cũng là bạn đồng hành hoàn hảo cho bánh mì nướng phô mai.\n\nPhù hợp với người ăn chay, không chứa lactose" />
+    <TextStringDefinition InstanceID="0x97AA1FB5" TextString="Súp cà chua" />
+    <TextStringDefinition InstanceID="0x26205532" TextString="Còn được gọi là Súp Bánh Gạo Thái Mỏng, đây là một món ăn truyền thống Hàn Quốc được ăn trong dịp Tết Hàn Quốc. Món ăn gồm nước dùng/súp (guk) với những miếng bánh gạo mỏng (tteok). Tục ngữ ăn tteokguk vào ngày đầu năm mới vì người ta tin rằng nó mang lại may mắn cho năm mới và tăng tuổi.\n\nNguồn gốc của việc ăn tteokguk vào ngày đầu năm mới không rõ. Tuy nhiên, tteokguk được đề cập trong cuốn sách phong tục thế kỷ 19 Dongguksesigi (동국세시기, 東國歲時記) với phong tục ăn một bát tteokguk vào buổi sáng ngày đầu năm mới để già thêm một tuổi, và phong tục hỏi &quot;Bạn đã ăn bao nhiêu bát tteokguk?&quot; để hỏi tuổi. Bạn đã ăn bao nhiêu bát?\n\nKhông chứa lactose." />

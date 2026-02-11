@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xB63567C6" TextString="{0.SimFirstName} không biết phải làm gì trong tình huống như thế này." />
+    <TextStringDefinition InstanceID="0xDBF81A8C" TextString="Khó Chịu" />
+    <TextStringDefinition InstanceID="0x00124CA9" TextString="&lt;i&gt;Eeeeerp!&lt;/i&gt; Có phải đó là dạ dày của {0.SimFirstName} không? Ở quanh cái chết thì...ghê tởm! " />
+    <TextStringDefinition InstanceID="0x2EFCBBE5" TextString="Chuyện Gì Đang Xảy Ra?" />
+    <TextStringDefinition InstanceID="0xE8995ACC" TextString="Chúng vẫn ổn cách đây một chút... Làm sao mà chuyện này xảy ra? {0.SimFirstName} đang gặp khó khăn trong việc nắm bắt thực tế của tình huống." />
+    <TextStringDefinition InstanceID="0x8120D873" TextString="Làm Sao Có Thể Xảy Ra Chuyện Này?!" />
+    <TextStringDefinition InstanceID="0x8831B19C" TextString="Cuộc sống thật bất công! Nỗi đau của {0.SimFirstName} biểu hiện qua sự bất lực và thất vọng trước sự bất công của số phận mà {0.SimPronounObjective} phải đối mặt. " />
+    <TextStringDefinition InstanceID="0x38A4924A" TextString="Cắt Bánh Cưới Của Người Khác!" />
+    <TextStringDefinition InstanceID="0x3390B3CB" TextString="Đôi khi truyền thống cần nhường chỗ cho chiếc bánh ngon lành, ngon lành." />
+    <TextStringDefinition InstanceID="0x691D2E65" TextString="Cắt Bánh Cưới Của Bạn!" />
+    <TextStringDefinition InstanceID="0x2E4F28BA" TextString="Cách tốt nhất để ăn mừng là gì? Đúng rồi, đó là bánh." />
+    <TextStringDefinition InstanceID="0x1FD6CDB3" TextString="Giấc Mơ Đám Cưới" />
+    <TextStringDefinition InstanceID="0x6D60D5DC" TextString="Có tâm trạng tốt sau khi hình dung về đám cưới hoàn hảo." />
+    <TextStringDefinition InstanceID="0x6BE756BD" TextString="Giấc Mơ Đám Cưới" />
+    <TextStringDefinition InstanceID="0x645CBEC2" TextString="Suy nghĩ về đám cưới hoàn hảo khiến bạn cảm thấy hơi thích tán tỉnh." />
+    <TextStringDefinition InstanceID="0xAD3553F4" TextString="Ký Ức Khó Chịu" />
+    <TextStringDefinition InstanceID="0xB9D6A1C1" TextString="Nhớ lại thời điểm khủng khiếp khi ai đó bỏ rơi bạn ở bàn thờ " />
+    <TextStringDefinition InstanceID="0x78C4B6F5" TextString="Ngại Cưới" />
+    <TextStringDefinition InstanceID="0x9773866A" TextString="Các Sim thiếu quyết tâm không thích nghĩ về khả năng kết hôn." />
+    <TextStringDefinition InstanceID="0xBBB59662" TextString="Thiếu Kiên Nhẫn" />
+    <TextStringDefinition InstanceID="0x1F02AF33" TextString="Khi đám cưới không bắt đầu đúng giờ, một số người bắt đầu trở nên bồn chồn..." />
+    <TextStringDefinition InstanceID="0xB6E3A800" TextString="Mất Kiểm Soát" />
+    <TextStringDefinition InstanceID="0xA46D6505" TextString="Đủ rồi! {0.SimFirstName} đã chán ngấy cảm giác khó chịu đó, bắt {0.SimPronounObjective} làm cái này cái nọ. Hoặc là {M0.he}{F0.she} được cách {M0.his}{F0.her} hoặc là không có gì cả." />
+    <TextStringDefinition InstanceID="0xDB6E321F" TextString="Mục Đích Cuộc Sống" />
+    <TextStringDefinition InstanceID="0x38651970" TextString="{0.SimFirstName} thực sự có quyền tự chủ nào? Điều {M0.he}{F0.she} muốn làm luôn cảm thấy không thể với tới, chỉ được thay thế bởi một chỉ đạo bao quát về điều {M0.he}{F0.she} phải làm." />
+    <TextStringDefinition InstanceID="0x4B32E3BE" TextString="Bỏ Lỡ Giấc Mơ" />
+    <TextStringDefinition InstanceID="0x5795A807" TextString="Nó có thể trở nên khó chịu khi một nhiệm vụ đơn giản liên tục bị bỏ qua." />
+    <TextStringDefinition InstanceID="0x6964FB01" TextString="Các Sim Tự Tin thường cảm thấy rất tự tin!" />
+    <TextStringDefinition InstanceID="0x99AF76C9" TextString="Cảm Thấy Tức Giận" />
+    <TextStringDefinition InstanceID="0xB71A5816" TextString="Các Sim nóng đầu có xu hướng tức giận vì những lý do nhỏ nhất." />
+    <TextStringDefinition InstanceID="0x8C4D535E" TextString="Các Sim Hướng Gia Đình thích kết bạn với các thành viên trong gia đình." />
+    <TextStringDefinition InstanceID="0x212F8A43" TextString="Nhớ Gia Đình" />
+    <TextStringDefinition InstanceID="0xB5CF138C" TextString="Các Sim Hướng Gia Đình cần dành thời gian với gia đình!" />
+    <TextStringDefinition InstanceID="0xB4703152" TextString="Đã Đính Hôn!" />
+    <TextStringDefinition InstanceID="0x57979B80" TextString="Gần Khổ Sở" />
+    <TextStringDefinition InstanceID="0xB9DF2385" TextString="Các Sim Ác thích thú khi tận hưởng nỗi khổ của người khác." />
+    <TextStringDefinition InstanceID="0x41154361" TextString="Đào Tạo Nấu Ăn" />
+    <TextStringDefinition InstanceID="0xEB04D85E" TextString="Các đầu bếp đầy khát vọng có thể học được rất nhiều từ việc xem TV Nấu Ăn!" />
+    <TextStringDefinition InstanceID="0x7296F6C1" TextString="Các Sim Sáng Tạo cần sáng tạo, và có thể bắt đầu cảm thấy rất khó chịu khi họ không làm!" />
+    <TextStringDefinition InstanceID="0x7ADFE843" TextString="Cảm Thấy Không Sáng Tạo" />
+    <TextStringDefinition InstanceID="0x30C2F86F" TextString="Cảm giác thoát khỏi mối quan hệ ngột ngạt đó thật tuyệt!" />
+    <TextStringDefinition InstanceID="0x6C9738F4" TextString="Độc Thân Lại!" />
+    <TextStringDefinition InstanceID="0xAB586D2F" TextString="Tự Do Sự Nghiệp" />
+    <TextStringDefinition InstanceID="0x652A7CE0" TextString="Không có gì tốt hơn là được tự do! Công việc đó đã kìm hãm bạn!" />
+    <TextStringDefinition InstanceID="0xF44F8ECC" TextString="Cảm Thấy Bị Ép Buộc" />
+    <TextStringDefinition InstanceID="0xC46B92E9" TextString="Một Sim thiếu quyết tâm gặp khó khăn trong việc duy trì một mối quan hệ lâu dài. Có lẽ đã đến lúc thay đổi?" />
+    <TextStringDefinition InstanceID="0xA8D6E75B" TextString="Cảm Thấy Bị Bẫy" />
+    <TextStringDefinition InstanceID="0x10BD7EF4" TextString="Một Sim thiếu quyết tâm gặp khó khăn trong việc đối mặt với công việc cũ kỹ. Có lẽ đã đến lúc tìm một công việc mới?" />
+    <TextStringDefinition InstanceID="0xEF10297F" TextString="Mình Ngốc Quá!" />
+    <TextStringDefinition InstanceID="0xB5F0A450" TextString="Các Sim Vụng Về cố gắng không đưa bản thân ra quá nghiêm túc." />

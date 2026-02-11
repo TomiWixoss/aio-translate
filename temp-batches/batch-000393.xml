@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x6C1514DA" TextString="Cacao nóng với kẹo dẻo" />
+    <TextStringDefinition InstanceID="0xD05BC8AA" TextString="Cacao nóng" />
+    <TextStringDefinition InstanceID="0x5B16ED88" TextString="Đổ nước" />
+    <TextStringDefinition InstanceID="0x6F02D207" TextString="Nước" />
+    <TextStringDefinition InstanceID="0x8606DB3E" TextString="Một hỗn hợp ngọt ngào sẽ khiến Sim nếm thử hương vị của cõi âm trong một ngụm đáng sợ." />
+    <TextStringDefinition InstanceID="0x85EEB34D" TextString="Pha Spectral Spritzer" />
+    <TextStringDefinition InstanceID="0xBE6CA262" TextString="Spectral Spritzer" />
+    <TextStringDefinition InstanceID="0xA54C1CAF" TextString="Yêu cầu một bông hoa tử thần." />
+    <TextStringDefinition InstanceID="0xBF7C5F4C" TextString="Cacao nóng thuần chay với kẹo dẻo" />
+    <TextStringDefinition InstanceID="0x158A5864" TextString="Cacao nóng thuần chay" />
+    <TextStringDefinition InstanceID="0xB4E93959" TextString="Cacao nóng gia vị" />
+    <TextStringDefinition InstanceID="0x9634F6E3" TextString="Cacao nóng bạc hà" />
+    <TextStringDefinition InstanceID="0xE2C7CEEC" TextString="Cacao nóng với kẹo dẻo" />
+    <TextStringDefinition InstanceID="0xADDAABD7" TextString="Cacao nóng" />
+    <TextStringDefinition InstanceID="0x3AE10AE0" TextString="&lt;i&gt;Coco loco, aplacando esta sed que me abraza, coco loco, que un buen rato contigo se pasa.&lt;/i&gt;\n\nCoquito là một đồ uống truyền thống trong dịp Giáng sinh đến từ Puerto Rico và một số người nói rằng nó có thể được gọi là Eggnog Puerto Rico. Coquito thường được phục vụ sau bữa tối và trong một ly nhỏ, hương vị của nó ngọt và mạnh. Nếu bạn đủ can đảm, hãy thoải mái thêm trứng - cá nhân tôi thấy không cũng được.\n\nNhiều gia đình có những biến thể riêng được truyền qua nhiều thế hệ, nhưng chúng tôi hy vọng Sim của bạn sẽ thích phiên bản không cồn theo phong cách Sim của chúng tôi được pha bởi các Sim Mixologist tuyệt vời." />
+    <TextStringDefinition InstanceID="0x720DDAFB" TextString="Pha Coquito" />
+    <TextStringDefinition InstanceID="0xA1DEE950" TextString="Coquito" />
+    <TextStringDefinition InstanceID="0x7C798C74" TextString="Thường được coi là đồ uống quốc gia của Brazil. Đây là một lựa chọn rất giải khát và dễ làm để thưởng thức bất kỳ lễ hội nào. Theo các nhà sử học, nó được phát minh bởi những nông dân có đất ở vùng Piracicaba, nội bang São Paulo, vào thế kỷ 19 như một đồ uống địa phương cho các sự kiện và tiệc tùng 'cao cấp', phản ánh văn hóa mía mạnh mẽ ở khu vực.\n\nChúng tôi hy vọng Sim của bạn sẽ thích phiên bản không cồn theo phong cách Sim của chúng tôi được pha bởi các Sim Mixologist tuyệt vời." />
+    <TextStringDefinition InstanceID="0xCEEBB84F" TextString="Pha Virgin Caipirinha" />
+    <TextStringDefinition InstanceID="0x8613A79C" TextString="Virgin Caipirinha" />
+    <TextStringDefinition InstanceID="0x5FC367B8" TextString="Pha Alien Juice" />
+    <TextStringDefinition InstanceID="0x34101997" TextString="Alien Juice" />
+    <TextStringDefinition InstanceID="0xA03A7237" TextString="Pha Zebra Fizz" />
+    <TextStringDefinition InstanceID="0x07B02EE4" TextString="Zebra Fizz" />
+    <TextStringDefinition InstanceID="0x93FACEAD" TextString="Pha Vigorator" />
+    <TextStringDefinition InstanceID="0x216BBE42" TextString="Vigorator" />
+    <TextStringDefinition InstanceID="0xA27AF186" TextString="Pha Sea of Fire" />
+    <TextStringDefinition InstanceID="0xA4B5CE35" TextString="Sea of Fire" />
+    <TextStringDefinition InstanceID="0x7161498D" TextString="Pha Prose and Pop" />
+    <TextStringDefinition InstanceID="0xA4E4F0A2" TextString="Prose and Pop" />
+    <TextStringDefinition InstanceID="0xCF0D2337" TextString="Pha Hot and Smoky" />
+    <TextStringDefinition InstanceID="0x7228F7E4" TextString="Hot and Smoky" />
+    <TextStringDefinition InstanceID="0x325D9BD6" TextString="Pha Flaming Zesty Salt" />
+    <TextStringDefinition InstanceID="0xA50713A5" TextString="Flaming Zesty Salt" />
+    <TextStringDefinition InstanceID="0xD07BF36F" TextString="Pha Cupid Juice" />
+    <TextStringDefinition InstanceID="0x60D2563C" TextString="Cupid Juice" />
+    <TextStringDefinition InstanceID="0x51566C12" TextString="Pha Buffalo Wing Tea" />
+    <TextStringDefinition InstanceID="0x162E4F29" TextString="Buffalo Wing Tea" />
+    <TextStringDefinition InstanceID="0x12308C60" TextString="Pha Boiler Room" />
+    <TextStringDefinition InstanceID="0x4053FF5F" TextString="Boiler Room" />
+    <TextStringDefinition InstanceID="0xF2802CDC" TextString="Pha {0.SimFirstName} Đặc Biệt" />
+    <TextStringDefinition InstanceID="0x978FB3E3" TextString="{0.SimFirstName} Đặc Biệt" />
+    <TextStringDefinition InstanceID="0x59152381" TextString="Pha Amygdelight" />
+    <TextStringDefinition InstanceID="0x25BB8AAE" TextString="Amygdelight" />
+    <TextStringDefinition InstanceID="0x523925D4" TextString="Super Chocolate Tummers Bomb" />
+    <TextStringDefinition InstanceID="0x0075769A" TextString="Pha Butterscotchman Cupcakes" />
+    <TextStringDefinition InstanceID="0xA2820C53" TextString="Pit of Judgement" />
+    <TextStringDefinition InstanceID="0x5C79E61A" TextString="Cats Cats Cats" />
+    <TextStringDefinition InstanceID="0x2B0AE498" TextString="Cookie Overdoses" />
+    <TextStringDefinition InstanceID="0x6E5A9BD6" TextString="Soạn Thảo Chương Trình Ngắn" />

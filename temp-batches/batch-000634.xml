@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x07C067F3" TextString="Thăm {1.String|enHouseholdNamePlural}" />
+    <TextStringDefinition InstanceID="0x73E8D9A6" TextString="Thăm {1.SimName}" />
+    <TextStringDefinition InstanceID="0xE623445C" TextString="Thăm Hộ Gia Đình {1.String}" />
+    <TextStringDefinition InstanceID="0x64CA410E" TextString="{0.String} (Không có ai ở nhà)" />
+    <TextStringDefinition InstanceID="0xA3F8C43E" TextString="Thăm Nơi Ở" />
+    <TextStringDefinition InstanceID="0xBDADC6E1" TextString="Về Nhà" />
+    <TextStringDefinition InstanceID="0xAA0B7930" TextString="Thăm" />
+    <TextStringDefinition InstanceID="0x8BEBD94F" TextString="Hãy đến cuộc họp bí mật siêu đặc biệt của chúng tôi." />
+    <TextStringDefinition InstanceID="0xABAA72D3" TextString="Mọi người sẽ có mặt!" />
+    <TextStringDefinition InstanceID="0xB25BF053" TextString="Bạn được mời đến dùng bữa tối cùng chúng tôi." />
+    <TextStringDefinition InstanceID="0x040ED9EE" TextString="Một lô đất cho thuê tạm thời cho các Sim đi nghỉ" />
+    <TextStringDefinition InstanceID="0x040ED9EF" TextString="Nhà Cho Thuê Kỳ Nghỉ - Chưa Hoàn Thiện" />
+    <TextStringDefinition InstanceID="0x820D0B30" TextString="Nhà Cho Thuê Kỳ Nghỉ" />
+    <TextStringDefinition InstanceID="0xCD26C30D" TextString="Thăm {1.String|enHouseholdNamePlural}..." />
+    <TextStringDefinition InstanceID="0x5C77E090" TextString="Thăm {1.SimFirstName}..." />
+    <TextStringDefinition InstanceID="0x68817D46" TextString="Thăm Hộ Gia Đình {1.String}..." />
+    <TextStringDefinition InstanceID="0xE2E6631D" TextString="Thăm..." />
+    <TextStringDefinition InstanceID="0xDBBBAA78" TextString="{0.String} (Không có ai ở đây)..." />
+    <TextStringDefinition InstanceID="0xA68A451B" TextString="Đến Nơi Ở..." />
+    <TextStringDefinition InstanceID="0x374A6C5A" TextString="Thăm..." />
+    <TextStringDefinition InstanceID="0x07DF59C0" TextString="Thăm {1.String|enHouseholdNamePlural}" />
+    <TextStringDefinition InstanceID="0xA99689B7" TextString="Thăm {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x30F20969" TextString="Thăm Hộ Gia Đình {1.String}" />
+    <TextStringDefinition InstanceID="0x1516F16A" TextString="Thăm" />
+    <TextStringDefinition InstanceID="0x7B27E009" TextString="{0.String} (Không có ai ở đây)" />
+    <TextStringDefinition InstanceID="0xB9020F04" TextString="Đến Nơi Ở" />
+    <TextStringDefinition InstanceID="0x90B32DB1" TextString="Thăm" />
+    <TextStringDefinition InstanceID="0x80167878" TextString="Spa" />
+    <TextStringDefinition InstanceID="0x92D127A1" TextString="Trung tâm Giải trí là nơi hoàn hảo cho việc học hỏi và vui chơi thân thiện với cả gia đình. Đây là một trung tâm nghệ thuật, khu vực thể dục, phòng chơi game và không gian chơi trẻ em tất cả trong một." />
+    <TextStringDefinition InstanceID="0xA5B8B690" TextString="Trung tâm Giải trí - Chưa Hoàn Thiện" />
+    <TextStringDefinition InstanceID="0x5B109E69" TextString="Trung tâm Giải trí" />
+    <TextStringDefinition InstanceID="0x9F147D57" TextString="Thăm Trung tâm Giải trí..." />
+    <TextStringDefinition InstanceID="0x4601CB00" TextString="Thăm Trung tâm Giải trí" />
+    <TextStringDefinition InstanceID="0x6026F442" TextString="Máy Hát" />
+    <TextStringDefinition InstanceID="0xD6B707AA" TextString="Trò Chơi" />
+    <TextStringDefinition InstanceID="0x48B4F510" TextString="Xích Đu Vườn" />
+    <TextStringDefinition InstanceID="0x4C8F77F2" TextString="Nhạc Cụ" />
+    <TextStringDefinition InstanceID="0x09CCB409" TextString="Thiết Bị Tập Thể Dục" />
+    <TextStringDefinition InstanceID="0xE8D0F280" TextString="Bạn muốn tham gia giải trí? Tại... &lt;i&gt;trung tâm&lt;/i&gt; giải trí!" />
+    <TextStringDefinition InstanceID="0x56BD7A08" TextString="Chúng tôi muốn gặp nhau ở trung tâm giải trí để vui chơi và chơi game! Gặp bạn ở đó nhé?" />
+    <TextStringDefinition InstanceID="0x70C58B93" TextString="Sẵn sàng cho một chút vui vẻ thân thiện với gia đình? Hãy gặp chúng tôi ở trung tâm giải trí!" />
+    <TextStringDefinition InstanceID="0xB536E19A" TextString="Bể bơi là một nơi tuyệt vời để giao lưu xã hội hoặc có một khoảnh khắc riêng tư. Bơi lội, khoe kỹ năng nhảy hoặc ngồi thư giãn bên bể bơi và tận hưởng." />
+    <TextStringDefinition InstanceID="0xAA2D2FC7" TextString="Bể bơi là một nơi tuyệt vời để đánh bóng da và tắm nắng." />
+    <TextStringDefinition InstanceID="0xDFCA3F9F" TextString="Bể Bơi - Chưa Hoàn Thiện" />
+    <TextStringDefinition InstanceID="0x44FF9B70" TextString="Bể Bơi" />
+    <TextStringDefinition InstanceID="0xF8F9F722" TextString="Thăm Địa Điểm Bể Bơi..." />
+    <TextStringDefinition InstanceID="0x1E8F6FC5" TextString="Thăm Bể Bơi" />
+    <TextStringDefinition InstanceID="0x684B7B9D" TextString="Ghế Ăn" />
+    <TextStringDefinition InstanceID="0xA87E67A3" TextString="Thang Bể Bơi" />
+    <TextStringDefinition InstanceID="0x109281B2" TextString="Chúng tôi muốn tận hưởng nước ở bể bơi. Bạn nên gặp chúng tôi ở đó." />

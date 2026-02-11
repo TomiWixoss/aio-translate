@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x53B0583D" TextString="Kết quả của {0.SimFirstName}: Trên trung bình&#x0A;Tuyệt vời, {0.SimFirstName}! {0.SimFirstName} đang trên đường đạt điểm cao hơn. Cứ tiếp tục như vậy!" />
+    <TextStringDefinition InstanceID="0xF4C39F63" TextString="Kết quả của {0.SimFirstName}: Trung bình&#x0A;Không tệ, nhưng cũng không tuyệt. {0.SimFirstName} làm không tồi và đang trên đường tốt nghiệp. Tuy nhiên, nếu {0.SimFirstName} muốn cải thiện, {M0.he}{F0.she} sẽ cần bắt đầu ôn thi." />
+    <TextStringDefinition InstanceID="0xFE5DB20B" TextString="Trường Trung học Copperdale" />
+    <TextStringDefinition InstanceID="0xD9A17936" TextString="HAMBURGERMAN!" />
+    <TextStringDefinition InstanceID="0x0605E9FE" TextString="Kẻ sủi bọt" />
+    <TextStringDefinition InstanceID="0x00E54C07" TextString="Người giữ trẻ Vô danh" />
+    <TextStringDefinition InstanceID="0x04B6B8AC" TextString="Dịch vụ Giao hàng Zoomers" />
+    <TextStringDefinition InstanceID="0x12379FC0" TextString="Nhà sách Walrus" />
+    <TextStringDefinition InstanceID="0x19390974" TextString="Giải trí Ngày mưa" />
+    <TextStringDefinition InstanceID="0xE2A61A7D" TextString="{0.SimFirstName} kiếm được {4.Money} nhưng hôm nay làm việc rất tệ. Điều đó có thể dự đoán được vì {0.SimFirstName} đang sống theo Lối sống năng động trong khi nghề nghiệp của {0.SimFirstName} là ít vận động. {5.String}" />
+    <TextStringDefinition InstanceID="0x28A2B312" TextString="{0.SimFirstName} đã mang về {4.Money} hôm nay. Bởi vì {M0.he}{F0.she} sống theo Lối sống ít vận động, {M0.he}{F0.she} đã có thể tập trung suốt ngày khi ngồi và làm việc tốt hơn. {M0.He}{F0.She} cũng đã làm một số công việc xuất sắc! {5.String}" />
+    <TextStringDefinition InstanceID="0x4F92EFD0" TextString="Thật một ngày làm việc! {0.SimFirstName} đã về nhà và {M0.he}{F0.she} đã kiếm được {4.Money}. Bởi vì {M0.he}{F0.she} sống theo Lối sống công nghệ, {M0.he}{F0.she} đã được tăng cường hiệu suất nhờ sở thích của {M0.his}{F0.her} với công nghệ." />
+    <TextStringDefinition InstanceID="0x224F5F03" TextString="{0.SimFirstName} đã mang về {4.Money} hôm nay. {M0.He}{F0.She} cũng đã làm một số công việc tuyệt vời! {0.SimFirstName} chắc đã phải cắn chặt răng qua công việc, xét rằng {M0.he}{F0.she} đang sống theo Lối sống năng động trong khi nghề nghiệp là ít vận động. {5.String} " />
+    <TextStringDefinition InstanceID="0x14531B02" TextString="Thật một ngày làm việc! {0.SimFirstName} đã về nhà và {M0.he}{F0.she} đã kiếm được {4.Money}. Điều đó không tệ xét rằng {M0.he}{F0.she} đang sống theo Lối sống năng động trong khi nghề nghiệp là ít vận động. {5.String} " />
+    <TextStringDefinition InstanceID="0x5A84F89C" TextString="{0.SimFirstName} kiếm được {4.Money} nhưng hôm nay làm việc kém cỏi, bất chấp sở thích của {M0.his}{F0.her} với các công việc công nghệ nhờ Lối sống công nghệ. " />
+    <TextStringDefinition InstanceID="0xF8644B8A" TextString="{0.SimFirstName} kiếm được {4.Money} nhưng hôm nay làm việc kém cỏi. Điều đó có thể dự đoán được vì {0.SimFirstName} đang sống theo Lối sống ghét công nghệ trong khi nghề nghiệp hướng đến công nghệ." />
+    <TextStringDefinition InstanceID="0x3B49A017" TextString="{0.SimFirstName} đã mang về {4.Money} hôm nay. {M0.He}{F0.She} cũng đã làm một số công việc xuất sắc! Thật một nhiệm vụ khổng lồ xét rằng {M0.he}{F0.she} đang sống theo Lối sống ghét công nghệ trong khi nghề nghiệp hướng đến công nghệ. {5.String} " />
+    <TextStringDefinition InstanceID="0xC42E4447" TextString="Thật một ngày làm việc! {0.SimFirstName} đã về nhà và {M0.he}{F0.she} đã kiếm được {4.Money}. Bởi vì {M0.he}{F0.she} sống theo Lối sống ít vận động, {M0.he}{F0.she} đã có thể tập trung suốt ngày khi ngồi và làm việc tốt hơn." />
+    <TextStringDefinition InstanceID="0xF3C9E62D" TextString="{0.SimFirstName} đã mang về {4.Money} hôm nay. {M0.He}{F0.She} cũng đã làm một số công việc tuyệt vời! {0.SimFirstName} chắc đã phải cắn chặt răng qua công việc, xét rằng {M0.he}{F0.she} đang sống theo Lối sống ghét công nghệ trong khi nghề nghiệp hướng đến công nghệ. {5.String} " />
+    <TextStringDefinition InstanceID="0x71962F90" TextString="{0.SimFirstName} kiếm được {4.Money} nhưng hôm nay làm việc rất tệ, bất chấp sở thích của {M0.his}{F0.her} với các công việc công nghệ nhờ Lối sống công nghệ. " />
+    <TextStringDefinition InstanceID="0x4D94616D" TextString="{0.SimFirstName} đã mang về {4.Money} hôm nay. Bởi vì {M0.he}{F0.she} sống theo Lối sống công nghệ, {M0.he}{F0.she} đã được tăng cường hiệu suất nhờ sở thích của {M0.his}{F0.her} với công nghệ. {M0.He}{F0.She} cũng đã làm một số công việc tuyệt vời! {5.String}" />
+    <TextStringDefinition InstanceID="0x2A811ECE" TextString="{0.SimFirstName} kiếm được {4.Money} nhưng hôm nay làm việc kém cỏi. Điều đó có thể dự đoán được vì {0.SimFirstName} đang sống theo Lối sống năng động trong khi nghề nghiệp là ít vận động." />
+    <TextStringDefinition InstanceID="0xDA192ECE" TextString="Thật một ngày làm việc! {0.SimFirstName} đã về nhà và {M0.he}{F0.she} đã kiếm được {4.Money}. Điều đó không tệ xét rằng {M0.he}{F0.she} sống theo Lối sống ghét công nghệ và cảm thấy lo lắng trước tất cả công nghệ đó!" />
+    <TextStringDefinition InstanceID="0x9E73E5B6" TextString="{0.SimFirstName} kiếm được {4.Money} nhưng hôm nay làm việc kém cỏi, bất chấp khả năng của {M0.his}{F0.her} ngồi yên tại nơi làm việc suốt ngày nhờ Lối sống ít vận động. {5.String}" />
+    <TextStringDefinition InstanceID="0x3AB12A06" TextString="{0.SimFirstName} đã mang về {4.Money} hôm nay. Bởi vì {M0.he}{F0.she} sống theo Lối sống công nghệ, {M0.he}{F0.she} đã được tăng cường hiệu suất nhờ sở thích của {M0.his}{F0.her} với công nghệ. {M0.He}{F0.She} cũng đã làm một số công việc xuất sắc! {5.String} " />
+    <TextStringDefinition InstanceID="0x2F2BB4FA" TextString="{0.SimFirstName} kiếm được {4.Money} nhưng hôm nay làm việc rất tệ, bất chấp khả năng của {M0.his}{F0.her} ngồi yên tại nơi làm việc suốt ngày nhờ Lối sống ít vận động. {5.String}" />
+    <TextStringDefinition InstanceID="0x4025E833" TextString="{0.SimFirstName} đã mang về {4.Money} hôm nay. Bởi vì {M0.he}{F0.she} sống theo Lối sống ít vận động, {M0.he}{F0.she} đã có thể tập trung suốt ngày khi ngồi và làm việc tốt hơn. {M0.He}{F0.She} cũng đã làm một số công việc tuyệt vời! {5.String}" />
+    <TextStringDefinition InstanceID="0x8FEB9610" TextString="{0.SimFirstName} đã mang về {4.Money} hôm nay. {M0.He}{F0.She} cũng đã làm một số công việc xuất sắc! Thật một nhiệm vụ khổng lồ xét rằng {M0.he}{F0.she} đang sống theo Lối sống năng động trong khi nghề nghiệp là ít vận động. {5.String} " />
+    <TextStringDefinition InstanceID="0x01DE4B42" TextString="{0.SimFirstName} kiếm được {4.Money} nhưng hôm nay làm việc rất tệ. Điều đó có thể dự đoán được vì {0.SimFirstName} đang sống theo Lối sống ghét công nghệ, nhưng có công nghệ điên rồ khắp nơi trong nơi làm việc của {M0.his}{F0.her}! {5.String}" />
+    <TextStringDefinition InstanceID="0x70FD73DB" TextString="Công ty Smogue" />
+    <TextStringDefinition InstanceID="0x358D9B8A" TextString="S.I.M.S." />
+    <TextStringDefinition InstanceID="0x271F93C4" TextString="Bộ sưu tập Munchkin" />
+    <TextStringDefinition InstanceID="0xEED8F26F" TextString="Phòng trưng bày nghệ thuật 1000 Words" />
+    <TextStringDefinition InstanceID="0x357F6DD7" TextString="Vườn cho Mọi Người" />
+    <TextStringDefinition InstanceID="0xA81A5B23" TextString="Công Ty Hề Nắng" />
+    <TextStringDefinition InstanceID="0x1C8E6D54" TextString="Quầy Ăn Vặt của Hogan" />
+    <TextStringDefinition InstanceID="0x52F4531A" TextString="Dịch vụ Sửa chữa Đoàn kết" />
+    <TextStringDefinition InstanceID="0x58B8F41F" TextString="Đồn Cảnh sát" />
+    <TextStringDefinition InstanceID="0x4EA97C21" TextString="Pizza Trung thực của Trevor" />
+    <TextStringDefinition InstanceID="0x73A8E326" TextString="Công Ty Chăm sóc Tử tế" />
+    <TextStringDefinition InstanceID="0xAFE59FEA" TextString="Công Ty Thư và Gói hàng" />
+    <TextStringDefinition InstanceID="0x50E91DD7" TextString="Người giúp việc Đoàn kết" />
+    <TextStringDefinition InstanceID="0x0E2C5C81" TextString="Tự làm chủ" />
+    <TextStringDefinition InstanceID="0xCE930858" TextString="Người làm vườn Đoàn kết" />
+    <TextStringDefinition InstanceID="0x67FECBB3" TextString="Ngư dân và Con trai" />
+    <TextStringDefinition InstanceID="0x9D1F26C9" TextString="Cần Giải trí" />
+    <TextStringDefinition InstanceID="0xA8DBE816" TextString="Thực sự cần việc gì đó vui để làm." />
+    <TextStringDefinition InstanceID="0x38CB73F8" TextString="Thực sự phải đi tiểu" />
+    <TextStringDefinition InstanceID="0x81DCC02D" TextString="Nếu {0.SimFirstName} không đến nhà vệ sinh RẤT nhanh, sẽ có vấn đề vũng nước!" />
+    <TextStringDefinition InstanceID="0x2645B6B3" TextString="Phải đi tiểu" />

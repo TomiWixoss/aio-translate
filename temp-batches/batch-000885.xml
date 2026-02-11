@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x2197C2AD" TextString="Tham gia các Hoạt động Câu lạc bộ trong một buổi tụ họp sẽ giúp bạn kiếm được Điểm Câu lạc bộ. Nó cũng sẽ biến Chỉ báo Câu lạc bộ của bạn thành màu xanh lá cây để cho thấy bạn đang tham gia một Hoạt động Câu lạc bộ." />
+    <TextStringDefinition InstanceID="0xE7C5BDED" TextString="Thực hiện các Hoạt động Bị Cấm trong một buổi tụ họp sẽ khiến Sim của bạn bị quở trách. Nó cũng sẽ biến Chỉ báo Câu lạc bộ của bạn thành màu đỏ để cho thấy bạn đang thực hiện một Hoạt động Bị Cấm." />
+    <TextStringDefinition InstanceID="0x97F385C5" TextString="Đặc điểm: {0.String}." />
+    <TextStringDefinition InstanceID="0x8028270E" TextString="Kỹ năng từ cấp độ 2 trở lên: {0.String}." />
+    <TextStringDefinition InstanceID="0xB89AC441" TextString="Sức hạn lãng mạn: {0.String}" />
+    <TextStringDefinition InstanceID="0xA99D9483" TextString="Trạng thái mối quan hệ: {0.String}" />
+    <TextStringDefinition InstanceID="0x59CE3575" TextString="{0.String} Sim" />
+    <TextStringDefinition InstanceID="0x4E8FA8B3" TextString="Khu vực: {0.String}" />
+    <TextStringDefinition InstanceID="0xF9071525" TextString="Siêu nhiên: {0.String}" />
+    <TextStringDefinition InstanceID="0x594BDD75" TextString="Tình hình tài chính:{0.String}." />
+    <TextStringDefinition InstanceID="0x7DE60F2C" TextString="Giới tính: {0.String}" />
+    <TextStringDefinition InstanceID="0x5A130F2C" TextString="Cấp độ người nổi tiếng: {0.String}" />
+    <TextStringDefinition InstanceID="0xFCECE51C" TextString="{1.String}" />
+    <TextStringDefinition InstanceID="0x3AE46BC9" TextString="{1.String}" />
+    <TextStringDefinition InstanceID="0x9A515B0D" TextString="Sự nghiệp: {0.String}." />
+    <TextStringDefinition InstanceID="0x92A7D041" TextString="{1.String}" />
+    <TextStringDefinition InstanceID="0xC0C80090" TextString="{1.String}" />
+    <TextStringDefinition InstanceID="0x3940DD50" TextString="{0.String}" />
+    <TextStringDefinition InstanceID="0xD33233D6" TextString="Chỉ có Lãnh đạo Câu lạc bộ mới có thể thay đổi các Hoạt động Câu lạc bộ." />
+    <TextStringDefinition InstanceID="0x2CB568EE" TextString="Thêm Hoạt động" />
+    <TextStringDefinition InstanceID="0xD699CE1A" TextString="Xã hội" />
+    <TextStringDefinition InstanceID="0x8C48C616" TextString="Doanh nghiệp nhỏ" />
+    <TextStringDefinition InstanceID="0xC0B852FE" TextString="Kỹ năng" />
+    <TextStringDefinition InstanceID="0x2789DBF9" TextString="Ngoài trời" />
+    <TextStringDefinition InstanceID="0x067CD5FB" TextString="Khác" />
+    <TextStringDefinition InstanceID="0x3254904A" TextString="Đồ vật" />
+    <TextStringDefinition InstanceID="0x6B3CA045" TextString="Thích phá phách và gây rối" />
+    <TextStringDefinition InstanceID="0xAF1260AE" TextString="Hoạt động Trẻ em" />
+    <TextStringDefinition InstanceID="0xB8C07C4D" TextString="Hoạt động Tại nhà" />
+    <TextStringDefinition InstanceID="0x27EC79E1" TextString="Sở thích" />
+    <TextStringDefinition InstanceID="0xD6A73DAA" TextString="Vui chơi và Trò chơi" />
+    <TextStringDefinition InstanceID="0xB310DD78" TextString="Ăn uống" />
+    <TextStringDefinition InstanceID="0xFD3225E6" TextString="Nghệ thuật và Âm nhạc" />
+    <TextStringDefinition InstanceID="0x196D0A43" TextString="Đặc điểm" />
+    <TextStringDefinition InstanceID="0x080779A3" TextString="Khách hàng được giám sát" />
+    <TextStringDefinition InstanceID="0x55079B98" TextString="Kỹ năng Cấp độ 2+" />
+    <TextStringDefinition InstanceID="0xFD365929" TextString="Trạng thái mối quan hệ" />
+    <TextStringDefinition InstanceID="0x7EE0CC53" TextString="Tình trạng hôn nhân" />
+    <TextStringDefinition InstanceID="0x66C725B1" TextString="Khu vực" />
+    <TextStringDefinition InstanceID="0xFDACBCD7" TextString="Siêu nhiên" />
+    <TextStringDefinition InstanceID="0x802DC1A3" TextString="Tình hình tài chính" />
+    <TextStringDefinition InstanceID="0xC26421C6" TextString="Giới tính" />
+    <TextStringDefinition InstanceID="0x27ABC322" TextString="Cấp độ người nổi tiếng" />
+    <TextStringDefinition InstanceID="0x3B991AA2" TextString="Mọi người" />
+    <TextStringDefinition InstanceID="0x5AC15B14" TextString="Chọn Danh mục" />
+    <TextStringDefinition InstanceID="0xEAAE9AD1" TextString="Câu lạc bộ" />
+    <TextStringDefinition InstanceID="0x0814638F" TextString="Sự nghiệp" />
+    <TextStringDefinition InstanceID="0x808D1B23" TextString="Bất kỳ ai" />
+    <TextStringDefinition InstanceID="0x8951C4FE" TextString="Độ tuổi" />
+    <TextStringDefinition InstanceID="0xE776959C" TextString="Yêu cầu Câu lạc bộ" />

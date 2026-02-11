@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xE621487D" TextString="Nền Hình Chữ L" />
+    <TextStringDefinition InstanceID="0xDCA79B31" TextString="Nền Vuông (Chéo)" />
+    <TextStringDefinition InstanceID="0xE3D28A61" TextString="Công Cụ Nền" />
+    <TextStringDefinition InstanceID="0x131D755E" TextString="Kéo để tạo nền. Để xóa, giữ Ctrl và vẽ qua nền để xóa. Bạn có thể điều chỉnh chiều cao nền sau khi đặt." />
+    <TextStringDefinition InstanceID="0x58D26F22" TextString="Sàn Bo Góc" />
+    <TextStringDefinition InstanceID="0x06DECAF3" TextString="Sau khi bạn đặt phòng hoặc sàn, hãy sử dụng mũi tên ngang để thay đổi kích thước, mũi tên cong để xoay, hoặc nút đa mũi tên để di chuyển." />
+    <TextStringDefinition InstanceID="0xAEBEB10C" TextString="Phòng Hình Chữ L" />
+    <TextStringDefinition InstanceID="0xF5349C9E" TextString="Đài Phun Nước Hình Tam Giác" />
+    <TextStringDefinition InstanceID="0xB80E9667" TextString="Gợi Ý: Sau khi bạn đặt đài phun nước, hãy sử dụng mũi tên ngang để thay đổi kích thước, mũi tên cong để xoay, và nút đa mũi tên để di chuyển." />
+    <TextStringDefinition InstanceID="0xD35FA94B" TextString="Đài Phun Nước Vuông" />
+    <TextStringDefinition InstanceID="0x639E4184" TextString="Gợi Ý: Sau khi bạn đặt đài phun nước, hãy sử dụng mũi tên ngang để thay đổi kích thước, mũi tên cong để xoay, và nút đa mũi tên để di chuyển." />
+    <TextStringDefinition InstanceID="0xC6B0BB8F" TextString="Đài Phun Nước Bo Góc (Cực Lớn)" />
+    <TextStringDefinition InstanceID="0xBA3134EF" TextString="Đài Phun Nước Bo Góc (Lớn)" />
+    <TextStringDefinition InstanceID="0x34D0EE4F" TextString="Đài Phun Nước Bo Góc" />
+    <TextStringDefinition InstanceID="0x07B8FDB1" TextString="Đài Phun Nước Hình Bát Giác" />
+    <TextStringDefinition InstanceID="0x77B0798E" TextString="Gợi Ý: Sau khi bạn đặt đài phun nước, hãy sử dụng mũi tên ngang để thay đổi kích thước, mũi tên cong để xoay, và nút đa mũi tên để di chuyển." />
+    <TextStringDefinition InstanceID="0x7744CC8E" TextString="Đài Phun Nước Vuông (Chéo)" />
+    <TextStringDefinition InstanceID="0x8F692237" TextString="Gợi Ý: Sau khi bạn đặt đài phun nước, hãy sử dụng mũi tên ngang để thay đổi kích thước, mũi tên cong để xoay, và nút đa mũi tên để di chuyển." />
+    <TextStringDefinition InstanceID="0xC6796752" TextString="Công Cụ Đài Phun Nước" />
+    <TextStringDefinition InstanceID="0x5E323C03" TextString="Gợi Ý: Nhấp và kéo để tạo hình dạng đài phun nước mong muốn. Để xóa nhanh, giữ CTRL và vẽ qua các đài phun nước hiện có." />
+    <TextStringDefinition InstanceID="0x2237D1AF" TextString="Công Cụ Đài Phun Nước Tùy Chỉnh" />
+    <TextStringDefinition InstanceID="0x98D00660" TextString="Gợi Ý: Kéo để vẽ tường đài phun nước. Chọn điểm mong muốn trên lưới để tạo hình dạng mong muốn. Nhấp đúp để hoàn thành hình dạng mong muốn." />
+    <TextStringDefinition InstanceID="0xED224009" TextString="Tam Giác Phẳng" />
+    <TextStringDefinition InstanceID="0xDE084D93" TextString="Vuông Phẳng" />
+    <TextStringDefinition InstanceID="0x438BB776" TextString="Tròn Phẳng" />
+    <TextStringDefinition InstanceID="0x63A047C4" TextString="Bát Giác Phẳng (Chéo)" />
+    <TextStringDefinition InstanceID="0x4E6084EC" TextString="(Từ Kỹ Năng Làm Vườn)" />
+    <TextStringDefinition InstanceID="0x72B2BDE3" TextString="(Từ Tình Bạn)" />
+    <TextStringDefinition InstanceID="0xEB7A540B" TextString="(Từ Kỹ Năng Thể Dục)" />
+    <TextStringDefinition InstanceID="0xF17D5479" TextString="(Từ Kỹ Năng Câu Cá)" />
+    <TextStringDefinition InstanceID="0x28779E7B" TextString="(Từ Việc Tham Dự Lễ Hội)" />
+    <TextStringDefinition InstanceID="0x40074DE8" TextString="(Từ Nỗi Sợ Ước Mơ Chưa Thực Hiện)" />
+    <TextStringDefinition InstanceID="0x4363449B" TextString="(Từ Nỗi Sợ Phép Thuật)" />
+    <TextStringDefinition InstanceID="0x4E65CA2C" TextString="(Từ Nỗi Sợ Thất Bại)" />
+    <TextStringDefinition InstanceID="0xA494DF80" TextString="(Từ Nỗi Sợ Cái Chết)" />
+    <TextStringDefinition InstanceID="0x99716292" TextString="(Từ Nỗi Sợ Bị Trộm)" />
+    <TextStringDefinition InstanceID="0x10392A8D" TextString="(Từ Việc Không Thân Thiện)" />
+    <TextStringDefinition InstanceID="0x61FA68BF" TextString="(Từ Việc Là Kẻ Thù)" />
+    <TextStringDefinition InstanceID="0x4A9C058F" TextString="(Từ Sự Căng Thẳng)" />
+    <TextStringDefinition InstanceID="0x9EBEC447" TextString="(Từ Kỹ Năng Nấu Ăn)" />
+    <TextStringDefinition InstanceID="0x6FBE3B1C" TextString="(Từ Kỹ Năng Hài Kịch)" />
+    <TextStringDefinition InstanceID="0xCCCA3567" TextString="(Từ Việc Sưu Tập Thứ Gì Đó)" />
+    <TextStringDefinition InstanceID="0xAE26E677" TextString="(Từ Việc Ở Câu Lạc Bộ Đêm)" />
+    <TextStringDefinition InstanceID="0xE4185269" TextString="(Từ Việc Làm Bài Tập Về Nhà)" />
+    <TextStringDefinition InstanceID="0x29DD9B37" TextString="(Từ Kỹ Năng Xã Hội)" />
+    <TextStringDefinition InstanceID="0x0AFD750B" TextString="(Từ Kỹ Năng Vận Động)" />
+    <TextStringDefinition InstanceID="0x57930D5D" TextString="(Từ Việc Thấy Quái Vật Dưới Gầm Giường)" />
+    <TextStringDefinition InstanceID="0x42AE692D" TextString="(Từ Kỹ Năng Tinh Thần)" />
+    <TextStringDefinition InstanceID="0x4472E615" TextString="(Từ Kỹ Năng Sáng Tạo)" />
+    <TextStringDefinition InstanceID="0x40059941" TextString="(Từ Kỹ Năng Quyến Rũ)" />

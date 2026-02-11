@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x059DB85D" TextString="Tăng Xung Nhịp" />
+    <TextStringDefinition InstanceID="0x92BA8D43" TextString="Triệu Hồi Thần Chết" />
+    <TextStringDefinition InstanceID="0x50DA11D4" TextString="Thần Chết hiện không thể được triệu hồi thông qua Điện Thoại Ma." />
+    <TextStringDefinition InstanceID="0x6335C307" TextString="Nhặt Vali" />
+    <TextStringDefinition InstanceID="0xE3ACEDAF" TextString="Đặt {2.SimFirstName} Ở Đây" />
+    <TextStringDefinition InstanceID="0xCA5CC1FC" TextString="Đặt Ở Đây" />
+    <TextStringDefinition InstanceID="0xDEE4F9B8" TextString="Đã có thức ăn trên ghế ăn dặm. Hãy lau sạch nó trước!" />
+    <TextStringDefinition InstanceID="0xA643545E" TextString="Đã có đồ uống trên ghế ăn dặm. Hãy lau sạch nó trước!" />
+    <TextStringDefinition InstanceID="0xEAC2FDB5" TextString="Đọc Sách Cho {2.SimFirstName} Để Ngủ" />
+    <TextStringDefinition InstanceID="0x44B390D8" TextString="Đặt {2.SimFirstName} Ngủ Ở Đây" />
+    <TextStringDefinition InstanceID="0xB312189D" TextString="Tắm Cho {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xF72B0CAA" TextString="Giúp {2.SimFirstName} Leo" />
+    <TextStringDefinition InstanceID="0xEF3A3465" TextString="Đặt {2.SimFirstName} Xuống Để Nhảy" />
+    <TextStringDefinition InstanceID="0x34794771" TextString="Đặt {2.SimFirstName} Ngủ Ở Đây" />
+    <TextStringDefinition InstanceID="0xE9DDCC39" TextString="Đặt Xuống" />
+    <TextStringDefinition InstanceID="0x11050390" TextString="{0.SimFirstName} không sở hữu vật phẩm này." />
+    <TextStringDefinition InstanceID="0x16494F2A" TextString="Tặng Cho {2.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x3A9425FF" TextString="Cất Đi" />
+    <TextStringDefinition InstanceID="0xAB997A18" TextString="Khuyến Khích Cất Đồ Chơi" />
+    <TextStringDefinition InstanceID="0x3DACEFC6" TextString="Quyên Góp Cho Thư Viện Nhỏ Của Khu Phố" />
+    <TextStringDefinition InstanceID="0x2F904076" TextString="Không thể thực hiện khi đang ở trong hồ bơi, spa, hoặc thiết bị thư giãn nước tương tự." />
+    <TextStringDefinition InstanceID="0x18D97444" TextString="Duyệt Sách" />
+    <TextStringDefinition InstanceID="0x021C25CB" TextString="Mua Vật Phẩm Xã Hội" />
+    <TextStringDefinition InstanceID="0xB056F32E" TextString="Lạc Đà" />
+    <TextStringDefinition InstanceID="0x73633CEE" TextString="Gà" />
+    <TextStringDefinition InstanceID="0xC0051138" TextString="Thỏ" />
+    <TextStringDefinition InstanceID="0xE94AEC37" TextString="Bò" />
+    <TextStringDefinition InstanceID="0x82B7D0EA" TextString="Mua Quần Áo Cho Động Vật" />
+    <TextStringDefinition InstanceID="0x2816C2B7" TextString="Mua Động Vật" />
+    <TextStringDefinition InstanceID="0x43A513A2" TextString="Cảm ơn đã đặt hàng! Gói hạt giống làm vườn {0.SimFirstName} mua có thể tìm thấy trong kho đồ của {M0.his}{F0.her}." />
+    <TextStringDefinition InstanceID="0xDF63D133" TextString="Cảm ơn đã mua sắm! Các vật phẩm của bạn đã được gửi đến kho đồ của {0.SimFirstName}." />
+    <TextStringDefinition InstanceID="0xE295CE20" TextString="Mua Búp Bê Voodoo" />
+    <TextStringDefinition InstanceID="0x4507CA33" TextString="Cảm ơn đã đặt hàng! Búp Bê Voodoo {0.SimFirstName} mua có thể tìm thấy trong kho đồ của {M0.his}{F0.her}." />
+    <TextStringDefinition InstanceID="0x2F37A881" TextString="Đặt Hàng Vật Tư Ngay" />
+    <TextStringDefinition InstanceID="0x8155504B" TextString="Cảm ơn đã đặt hàng! Các vật phẩm {0.SimFirstName} mua có thể tìm thấy trong kho đồ của {M0.his}{F0.her}." />
+    <TextStringDefinition InstanceID="0xF8E071B8" TextString="Mua Vật Tư Cho Kỳ Nghỉ..." />
+    <TextStringDefinition InstanceID="0x73A405A2" TextString="Nội Thất" />
+    <TextStringDefinition InstanceID="0x7C39EC95" TextString="Lều" />
+    <TextStringDefinition InstanceID="0x8EC16433" TextString="Khác" />
+    <TextStringDefinition InstanceID="0x930360B5" TextString="Vật Tư" />
+    <TextStringDefinition InstanceID="0xEF56A1D7" TextString="Giải Trí" />
+    <TextStringDefinition InstanceID="0x96963928" TextString="Mua Linh Kiện Nâng Cấp" />
+    <TextStringDefinition InstanceID="0x15EA6C31" TextString="Cảm ơn đã đặt hàng! Các Linh Kiện Nâng Cấp {0.SimFirstName} mua có thể tìm thấy trong kho đồ của {M0.his}{F0.her}." />
+    <TextStringDefinition InstanceID="0x6F28DD8D" TextString="Cảm ơn đã đặt hàng! Các món đồ chơi {0.SimFirstName} mua có thể tìm thấy trong kho đồ của {M0.his}{F0.her}." />
+    <TextStringDefinition InstanceID="0xEF5EDF5E" TextString="Cảm ơn đã mua! Các vật phẩm đã mua có thể tìm thấy trong hộp đồ chơi!" />
+    <TextStringDefinition InstanceID="0xC7B799C0" TextString="Mua Đồ Chơi" />
+    <TextStringDefinition InstanceID="0x63A6B885" TextString="Mua Sách" />
+    <TextStringDefinition InstanceID="0x2D89B735" TextString="Mua Đồ Chơi" />
+    <TextStringDefinition InstanceID="0x52AC78CE" TextString="Mua Hạt Giống Cây Nguyệt Quế" />
+    <TextStringDefinition InstanceID="0x9B72F0B1" TextString="Mua Hạt Giống Cây Nguyệt Quế" />

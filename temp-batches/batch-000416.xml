@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x6E364ED0" TextString="Vẽ tranh giả mạo" />
+    <TextStringDefinition InstanceID="0x43078279" TextString="Mở khóa ở cấp 3 nghề Ảnh hưởng phong cách" />
+    <TextStringDefinition InstanceID="0xF04294F0" TextString="Phác thảo nhanh ấn tượng" />
+    <TextStringDefinition InstanceID="0xAC8E4EB6" TextString="Tiếp tục {2.String}" />
+    <TextStringDefinition InstanceID="0x9FC77984" TextString="Hủy bỏ {2.String}" />
+    <TextStringDefinition InstanceID="0xDCF78B3C" TextString="Ngủ trệt dưới đất" />
+    <TextStringDefinition InstanceID="0x10839AEF" TextString="Siêu bắn nước!" />
+    <TextStringDefinition InstanceID="0xCD269FF1" TextString="Rửa tay nhanh" />
+    <TextStringDefinition InstanceID="0x6C789051" TextString="Rửa chén nhanh" />
+    <TextStringDefinition InstanceID="0xEEF10B76" TextString="(Từ việc rửa chén ngoài lưới)" />
+    <TextStringDefinition InstanceID="0xD0E348C1" TextString="(Từ việc rửa chén ngoài lưới)" />
+    <TextStringDefinition InstanceID="0xF57979FC" TextString="Tiếp tục nâng cấp Tự làm sạch" />
+    <TextStringDefinition InstanceID="0x1350D3AC" TextString="Tiếp tục nâng cấp Máy phát xà phòng tự động" />
+    <TextStringDefinition InstanceID="0xF6C2D621" TextString="Tiếp tục nâng cấp Vòi nước chắc chắn" />
+    <TextStringDefinition InstanceID="0xEE2E40A0" TextString="Lắp đặt phụ kiện vòi nước tự làm sạch Aqua-Pura và không bao giờ phải lau bồn rửa nữa." />
+    <TextStringDefinition InstanceID="0x28197C41" TextString="Tự làm sạch" />
+    <TextStringDefinition InstanceID="0xA17C5566" TextString="Xà phòng và rửa nhanh hơn dưới sự giám sát của Máy phát xà phòng tự động." />
+    <TextStringDefinition InstanceID="0x7DB3BCCB" TextString="Máy phát xà phòng tự động" />
+    <TextStringDefinition InstanceID="0x18B5C40A" TextString="Vòi nước chắc chắn" />
+    <TextStringDefinition InstanceID="0xC84BBE6D" TextString="{0.SimFirstName} không thể nâng cấp bồn rửa này khi nó bị hỏng." />
+    <TextStringDefinition InstanceID="0x83C54A81" TextString="Nâng cấp hoàn tất!\n\n{0.SimFirstName} đã lắp đặt xong nâng cấp bồn rửa." />
+    <TextStringDefinition InstanceID="0x0DE8D451" TextString="Lấy nước" />
+    <TextStringDefinition InstanceID="0xF4C5F72F" TextString="Lấy" />
+    <TextStringDefinition InstanceID="0x402C4C09" TextString="Lấy nước" />
+    <TextStringDefinition InstanceID="0xBAF901C7" TextString="Tắc cống" />
+    <TextStringDefinition InstanceID="0x111A899C" TextString="Dọn dẹp {2.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xAE0BA168" TextString="Sim có năng lượng dọn dẹp nhanh hơn rất nhiều!" />
+    <TextStringDefinition InstanceID="0x9B7547F8" TextString="Đánh răng nhanh" />
+    <TextStringDefinition InstanceID="0xDD2D8EBC" TextString="Khuyến khích đánh răng" />
+    <TextStringDefinition InstanceID="0x3636E9EB" TextString="Bơi" />
+    <TextStringDefinition InstanceID="0x4E1CF2D4" TextString="Học bơi" />
+    <TextStringDefinition InstanceID="0x9AE696A6" TextString="Giao {0.SimFirstName} cho" />
+    <TextStringDefinition InstanceID="0x020737D6" TextString="Xin đồ ăn" />
+    <TextStringDefinition InstanceID="0x563A7D7C" TextString="Xin {2.SimFirstName} đồ ăn" />
+    <TextStringDefinition InstanceID="0x6859BD12" TextString="Xin đồ uống" />
+    <TextStringDefinition InstanceID="0xD865FA73" TextString="Xin {2.SimFirstName} đồ uống" />
+    <TextStringDefinition InstanceID="0xDA41A3C5" TextString="Cho đồ ăn" />
+    <TextStringDefinition InstanceID="0x0B4F43DF" TextString="Yêu cầu ăn" />
+    <TextStringDefinition InstanceID="0x2EB1355D" TextString="Yêu cầu {2.SimFirstName} ăn" />
+    <TextStringDefinition InstanceID="0x5B77D1F4" TextString="Cho đồ ăn cho {2.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xDFE388BF" TextString="Cho đồ uống" />
+    <TextStringDefinition InstanceID="0x68FDB672" TextString="Yêu cầu uống" />
+    <TextStringDefinition InstanceID="0x801B7136" TextString="Yêu cầu {2.SimFirstName} uống" />
+    <TextStringDefinition InstanceID="0x8A2504E2" TextString="Cho đồ uống cho {2.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x768CD199" TextString="Cho đồ uống cho {2.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x9BB0B5E9" TextString="Đặt xuống" />
+    <TextStringDefinition InstanceID="0xC69D69E0" TextString="Yêu cầu được mang đến đây" />
+    <TextStringDefinition InstanceID="0xEEC67BFC" TextString="Mang đến đây" />
+    <TextStringDefinition InstanceID="0xECFCA36D" TextString="Yêu cầu {2.SimFirstName} mang đến đây" />
+    <TextStringDefinition InstanceID="0xBC96CF8B" TextString="Xin kể chuyện trước khi ngủ" />

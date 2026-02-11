@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x47E0AF8E" TextString="Cửa sổ có thể mua trực tiếp từ Chế độ Xây dựng." />
+    <TextStringDefinition InstanceID="0xE155CBAF" TextString="Mua một ngôi nhà và các vật thể trị giá ít nhất {1.Money}. Lưu ý rằng Giá trị Bất động sản cũng được tính vào!" />
+    <TextStringDefinition InstanceID="0x758CB3C5" TextString="Cây cảnh có thể mua từ Chế độ Xây dựng trong mục Loại Cây Ngoài trời." />
+    <TextStringDefinition InstanceID="0xB1097050" TextString="Mua một ngôi nhà và các vật thể trị giá ít nhất {1.Money}. Lưu ý rằng Giá trị Bất động sản cũng được tính vào!" />
+    <TextStringDefinition InstanceID="0x9A71945C" TextString="Tranh ảnh có thể mua từ Chế độ Xây dựng trong danh mục Chức năng Trang trí." />
+    <TextStringDefinition InstanceID="0x613B7E21" TextString="Mua một ngôi nhà và các vật thể trị giá ít nhất {1.Money}. Lưu ý rằng Giá trị Bất động sản cũng được tính vào!" />
+    <TextStringDefinition InstanceID="0x8BA74B44" TextString="Tiết kiệm ít nhất {1.Money} cho ngày mưa. Để làm vậy, đơn giản là có số tiền đó trong Ngân sách Hộ gia đình tại một thời điểm." />
+    <TextStringDefinition InstanceID="0xDD6F1729" TextString="Sim có thể kiếm tiền bằng cách đi làm, bán vật thể tự chế, bán đồ sưu tập, hoặc sử dụng các tương tác đối tượng cụ thể dựa trên Kỹ năng. Một số ví dụ là Xuất bản Sách, Biểu diễn Tiểu phẩm Hài hước, hoặc Cấp phép Bài hát!" />
+    <TextStringDefinition InstanceID="0xCF16462C" TextString="Sim có thể kiếm tiền bằng cách đi làm, bán vật thể tự chế, bán đồ sưu tập, hoặc sử dụng các tương tác đối tượng cụ thể dựa trên Kỹ năng. Một số ví dụ là Xuất bản Sách, Biểu diễn Tiểu phẩm Hài hước, hoặc Cấp phép Bài hát!" />
+    <TextStringDefinition InstanceID="0xBF1C81A7" TextString="Tiết kiệm ít nhất {1.Money} cho ngày mưa. Để làm vậy, đơn giản là có số tiền đó trong Ngân sách Hộ gia đình tại một thời điểm." />
+    <TextStringDefinition InstanceID="0x571EC306" TextString="Sim có thể kiếm tiền bằng cách đi làm, bán vật thể tự chế, bán đồ sưu tập, hoặc sử dụng các tương tác đối tượng cụ thể dựa trên Kỹ năng. Một số ví dụ là Xuất bản Sách, Biểu diễn Tiểu phẩm Hài hước, hoặc Cấp phép Bài hát!" />
+    <TextStringDefinition InstanceID="0x1351B9EB" TextString="Nấu {1.Number} Món Ăn Cao cấp tại Một Sự kiện" />
+    <TextStringDefinition InstanceID="0x7D2E3D7A" TextString="Đạt Cấp độ 5 Kỹ năng Nấu ăn Cao cấp" />
+    <TextStringDefinition InstanceID="0x7D14CFA8" TextString="Tạo ra {1.Number} Loại Đồ uống Xuất sắc" />
+    <TextStringDefinition InstanceID="0xCD2E79C5" TextString="Tham gia Nhánh Pha chế trong Sự nghiệp Ẩm thực" />
+    <TextStringDefinition InstanceID="0xFF9020F8" TextString="Tạo ra {1.Number} Loại Thức ăn Xuất sắc" />
+    <TextStringDefinition InstanceID="0xA1525DBE" TextString="Nấu {1.Number} Bữa ăn khi Cảm hứng" />
+    <TextStringDefinition InstanceID="0xAF6D63C9" TextString="Đạt Huy chương Bạc tại Một Sự kiện Tiệc tối" />
+    <TextStringDefinition InstanceID="0x9530DAA4" TextString="Pha {1.Number} Đồ uống tại Một Sự kiện Xã hội" />
+    <TextStringDefinition InstanceID="0xAEE2BD67" TextString="Nấu {1.Number} Bữa ăn Xuất sắc" />
+    <TextStringDefinition InstanceID="0x8825F80D" TextString="Pha {1.Number} Đồ uống" />
+    <TextStringDefinition InstanceID="0xBA689A07" TextString="Nhấp vào Điện thoại để Lập kế hoạch Một Sự kiện Tiệc tối. Sau khi Sự kiện bắt đầu, nhấp vào Tủ lạnh, chọn Nấu một Bữa ăn Cao cấp, và chọn một công thức từ danh sách." />
+    <TextStringDefinition InstanceID="0x0F35DDB0" TextString="Để tăng Kỹ năng Nấu ăn Cao cấp, sử dụng Tủ lạnh hoặc Bếp để nấu các Món ăn Cao cấp, Xem kênh Nấu ăn trên TV, hoặc đọc Sách Kỹ năng Nấu ăn Cao cấp. Sách Kỹ năng có thể mua trực tiếp từ Kệ sách bằng cách sử dụng tương tác Mua Sách!" />
+    <TextStringDefinition InstanceID="0x0D6EE071" TextString="Để tăng Kỹ năng Sức hút, giao tiếp với các Sim khác, sử dụng Gương để Luyện nói, hoặc đọc Sách Kỹ năng Sức hút. Sách Kỹ năng có thể mua trực tiếp từ Kệ sách bằng cách sử dụng tương tác Mua Sách!" />
+    <TextStringDefinition InstanceID="0x834DB753" TextString="Để tăng Kỹ năng Pha chế, sử dụng Quầy bar để Pha đồ uống, Phục vụ tại quầy bar, hoặc đọc Sách Kỹ năng Pha chế. Sách Kỹ năng có thể mua trực tiếp từ Kệ sách bằng cách sử dụng tương tác Mua Sách!" />
+    <TextStringDefinition InstanceID="0xF5BE44A0" TextString="Nhấp vào một Sim và chọn Tuyên bố Kẻ thù. Tương tác này được mở khóa bằng cách thực hiện các Tương tác Xã hội Xấu để giảm Mối quan hệ." />
+    <TextStringDefinition InstanceID="0x1A21B8AB" TextString="Sử dụng máy tính để viết một tiểu thuyết khoa học viễn tưởng để nộp cho khách hàng -- nằm trong danh mục Freelancer." />
+    <TextStringDefinition InstanceID="0x95967E82" TextString="Viết Tiểu thuyết Khoa học viễn tưởng" />
+    <TextStringDefinition InstanceID="0x91CAD3DC" TextString="Sử dụng máy tính để viết một cuốn sách phi hư cấu để nộp cho khách hàng -- nằm trong danh mục Freelancer." />
+    <TextStringDefinition InstanceID="0x0CD1ECDB" TextString="Viết Sách Phi hư cấu" />
+    <TextStringDefinition InstanceID="0xBE5E4F67" TextString="Sử dụng máy tính để viết một tiểu thuyết trinh thám để nộp cho khách hàng -- nằm trong danh mục Freelancer." />
+    <TextStringDefinition InstanceID="0xEF0BF60E" TextString="Viết Tiểu thuyết Trinh thám" />
+    <TextStringDefinition InstanceID="0x1077ECF7" TextString="Sử dụng máy tính để viết một cuốn sách truyền cảm hứng để nộp cho khách hàng -- nằm trong danh mục Freelancer. \n\n• {0.SimFirstName} phải cảm thấy Tự tin để viết một cuốn sách Truyền cảm hứng." />
+    <TextStringDefinition InstanceID="0x3D5EFEFE" TextString="Viết Sách Truyền cảm hứng Khi Tự tin" />
+    <TextStringDefinition InstanceID="0x685F95F2" TextString="Sử dụng máy tính để viết một tiểu thuyết giả tưởng để nộp cho khách hàng -- nằm trong danh mục Freelancer." />
+    <TextStringDefinition InstanceID="0xFC4ECADD" TextString="Viết Tiểu thuyết Giả tưởng" />
+    <TextStringDefinition InstanceID="0x3231928D" TextString="Sử dụng máy tính để viết một bài báo giật gân để nộp cho khách hàng -- nằm trong danh mục Freelancer." />
+    <TextStringDefinition InstanceID="0x433BF910" TextString="Viết Bài báo Giật gân" />
+    <TextStringDefinition InstanceID="0x7821866C" TextString="Sử dụng máy tính để viết một cuốn sách thiếu nhi để nộp cho khách hàng -- nằm trong danh mục Freelancer." />
+    <TextStringDefinition InstanceID="0xFB91194B" TextString="Viết Sách Thiếu nhi" />
+    <TextStringDefinition InstanceID="0x19D8BCBF" TextString="Sử dụng máy tính để viết một cuốn tiểu sử để nộp cho khách hàng -- nằm trong danh mục Freelancer." />
+    <TextStringDefinition InstanceID="0x920EDC46" TextString="Viết Tiểu sử" />
+    <TextStringDefinition InstanceID="0x9950378A" TextString="Sử dụng máy tính để viết bản nháp văn bản quảng cáo để nộp cho khách hàng -- nằm trong danh mục Freelancer." />
+    <TextStringDefinition InstanceID="0xFD77B2D5" TextString="Viết Văn bản Quảng cáo" />
+    <TextStringDefinition InstanceID="0x5AABD58E" TextString="Tìm cuốn sách trong kho đồ của {0.SimFirstName} và nộp nó cho khách hàng để phê duyệt.\n\n• Nếu cuốn sách của {0.SimFirstName} bị khách hàng từ chối, {M0.he}{F0.she} có thể sử dụng máy tính để Chỉnh sửa Nội dung Bị từ chối. Sau khi hoàn thành chỉnh sửa, {M0.he}{F0.she} có thể thử nộp lại nó cho khách hàng để phê duyệt." />
+    <TextStringDefinition InstanceID="0x6B2CD009" TextString="Nhận Sách Được Phê duyệt" />
+    <TextStringDefinition InstanceID="0x71E7A36D" TextString="Tìm bản nháp bài báo giật gân trong kho đồ của {0.SimFirstName} và nộp nó cho khách hàng để phê duyệt.\n\n• Nếu bản nháp của {0.SimFirstName} bị khách hàng từ chối, {M0.he}{F0.she} có thể sử dụng máy tính để Chỉnh sửa Nội dung Bị từ chối. Sau khi hoàn thành chỉnh sửa, {M0.he}{F0.she} có thể thử nộp lại nó cho khách hàng để phê duyệt." />
+    <TextStringDefinition InstanceID="0x61EA2F30" TextString="Nhận Bài báo Được Phê duyệt" />
+    <TextStringDefinition InstanceID="0x77103D7B" TextString="Tìm các bản nháp văn bản quảng cáo trong kho đồ của {0.SimFirstName} và nộp chúng cho khách hàng để phê duyệt.\n\n• Nếu các bản nháp của {0.SimFirstName} bị khách hàng từ chối, {M0.he}{F0.she} có thể sử dụng máy tính để Chỉnh sửa Nội dung Bị từ chối. Sau khi hoàn thành chỉnh sửa, {M0.he}{F0.she} có thể thử nộp lại chúng cho khách hàng để phê duyệt." />
+    <TextStringDefinition InstanceID="0x1B39A6F2" TextString="Nhận Văn bản Quảng cáo Được Phê duyệt" />

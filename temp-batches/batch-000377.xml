@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x33DB22E4" TextString="Yêu cầu Mẹo Gõ Chữ" />
+    <TextStringDefinition InstanceID="0xFDB1C190" TextString="Trò chuyện với {2.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xD12F9198" TextString="Nhấp vào Điện thoại, chọn danh mục Xã hội, chọn Trò chuyện với... và chọn một Sim để trò chuyện." />
+    <TextStringDefinition InstanceID="0x9D673547" TextString="Trò chuyện với Ai Đó" />
+    <TextStringDefinition InstanceID="0x5624AFFF" TextString="Nhấp vào một Sim Trẻ em và chọn một Tương tác từ danh mục Thân thiện." />
+    <TextStringDefinition InstanceID="0xF65FDDD5" TextString="Trò chuyện với một Đứa trẻ" />
+    <TextStringDefinition InstanceID="0x62F397D8" TextString="Tìm một đàn chim và đuổi theo chúng!" />
+    <TextStringDefinition InstanceID="0x02121D10" TextString="Đuổi theo Đàn chim" />
+    <TextStringDefinition InstanceID="0x638FD59B" TextString="Nhấp vào Lửa trại và chọn Thay đổi Màu lửa." />
+    <TextStringDefinition InstanceID="0x761AA1A9" TextString="Thay đổi Màu lửa trại" />
+    <TextStringDefinition InstanceID="0x64BC3CB4" TextString="Bắt Cá bằng Mồi câu" />
+    <TextStringDefinition InstanceID="0x3C11F05F" TextString="Thực hiện một Cuộc bắt đáng kinh ngạc" />
+    <TextStringDefinition InstanceID="0x0BFD0E4B" TextString="Thực hiện một Cuộc bắt tuyệt vời" />
+    <TextStringDefinition InstanceID="0x590059D5" TextString="Bắt {0.Number} con Cá" />
+    <TextStringDefinition InstanceID="0x8B8BC138" TextString="Nhấp vào cột biển câu gần đó để đi Câu cá." />
+    <TextStringDefinition InstanceID="0xE91F3EA7" TextString="Bắt một Con cá" />
+    <TextStringDefinition InstanceID="0xB4C7B81B" TextString="Nhấp vào điện thoại và chọn Nghỉ Phép để lấy một ngày nghỉ." />
+    <TextStringDefinition InstanceID="0x5BA453BA" TextString="Nghỉ Phép một Ngày" />
+    <TextStringDefinition InstanceID="0x229DB678" TextString="Nhấp vào Điện thoại và chọn Chụp Ảnh Ấn tượng, hoặc nhấp vào một tác phẩm nghệ thuật và chọn Đánh giá Ấn tượng, hoặc nhấp vào Bảng phác thảo Kỹ thuật số và chọn Phác thảo Nhanh Ấn tượng." />
+    <TextStringDefinition InstanceID="0x1EA6CFB0" TextString="Thu thập một Ấn tượng" />
+    <TextStringDefinition InstanceID="0x7F9C2209" TextString="Nhấp vào Gương và chọn Cố gắng Bình tĩnh. Sim có thể thực hiện tương tác này khi Căng thẳng." />
+    <TextStringDefinition InstanceID="0xB6491874" TextString="Nhấp vào Gương và chọn Cố gắng Bình tĩnh. Sim có thể thực hiện tương tác này khi Tức giận hoặc Căng thẳng." />
+    <TextStringDefinition InstanceID="0x71BA8E53" TextString="Cố gắng Tự Bình tĩnh trước Gương" />
+    <TextStringDefinition InstanceID="0x50063162" TextString="Nhấp vào Điện thoại, chọn Danh mục Xã hội, chọn Trò chuyện với... và chọn một Sim để trò chuyện." />
+    <TextStringDefinition InstanceID="0xD0B9FA71" TextString="Gọi cho Ai Đó qua Điện thoại" />
+    <TextStringDefinition InstanceID="0xDBF7B303" TextString="Nhấp vào Điện thoại và chọn Gọi Đường dây nóng Sầu khổ. Sim có thể thực hiện tương tác này khi Buồn bã." />
+    <TextStringDefinition InstanceID="0x3C33F9F2" TextString="Gọi Đường dây nóng Sầu khổ" />
+    <TextStringDefinition InstanceID="0xF9B89813" TextString="Mua một Máy tập thể dục từ Chế độ Xây dựng. Tìm nó trong Sắp xếp Phòng học!" />
+    <TextStringDefinition InstanceID="0x21E53082" TextString="Mua một Máy tập thể dục" />
+    <TextStringDefinition InstanceID="0x4ADF16E3" TextString="Mua một Bàn làm đồ gỗ từ Chế độ Xây dựng. Tìm nó trong Sắp xếp Phòng học!" />
+    <TextStringDefinition InstanceID="0xF048CA12" TextString="Mua một Bàn làm đồ gỗ" />
+    <TextStringDefinition InstanceID="0x11F7005F" TextString="Mua một Cổng cưới từ Chế độ Xây dựng. Tìm nó dưới mục Hoạt động và Kỹ năng!" />
+    <TextStringDefinition InstanceID="0xF347EB7E" TextString="Mua một Cổng cưới" />
+    <TextStringDefinition InstanceID="0x476529B7" TextString="Mua một Đàn violin với giá trên 10.000 Simoleon từ Chế độ Xây dựng." />
+    <TextStringDefinition InstanceID="0xA315AD9D" TextString="Mua Đàn violin Đắt tiền" />
+    <TextStringDefinition InstanceID="0xD1DBFF91" TextString="Mua một Đàn violin từ Chế độ Xây dựng. Tìm nó trong Sắp xếp Phòng học!" />
+    <TextStringDefinition InstanceID="0x6389A1BF" TextString="Mua một Đàn violin" />
+    <TextStringDefinition InstanceID="0xBC51B37A" TextString="Mua một TV với giá trên 3.000 Simoleon từ Chế độ Xây dựng." />
+    <TextStringDefinition InstanceID="0xFB9E55A2" TextString="Mua một TV Đắt tiền" />
+    <TextStringDefinition InstanceID="0x79548BB5" TextString="Mua một TV từ Chế độ Xây dựng. Tìm nó trong Sắp xếp Phòng khách!" />
+    <TextStringDefinition InstanceID="0xE9025CFE" TextString="Mua một Phòng tắm hoặc Bồn tắm từ Chế độ Xây dựng. Tìm chúng trong Sắp xếp Phòng tắm!" />
+    <TextStringDefinition InstanceID="0x8951A8E9" TextString="Mua một Máy chạy bộ từ Chế độ Xây dựng. Tìm nó trong Sắp xếp Phòng học!" />
+    <TextStringDefinition InstanceID="0x845F07D8" TextString="Mua một Máy chạy bộ" />
+    <TextStringDefinition InstanceID="0x0E626DE7" TextString="Đồ chơi mới có thể được mua bằng cách nhấp vào Hộp đồ chơi và chọn Mua Đồ chơi. Đồ chơi cũng có thể được mua từ Chế độ Xây dựng dưới Sắp xếp Phòng trẻ em!" />
+    <TextStringDefinition InstanceID="0x79F99636" TextString="Mua một Đồ chơi" />
+    <TextStringDefinition InstanceID="0x0E1D6CF0" TextString="Mua một Bồn cầu từ Chế độ Xây dựng. Tìm nó trong Sắp xếp Phòng tắm!" />
+    <TextStringDefinition InstanceID="0x95438831" TextString="Trẻ nhỏ thích chơi với đồ chơi từ Hộp đồ chơi. Tìm Hộp đồ chơi trong phần Đồ chơi của danh mục." />
+    <TextStringDefinition InstanceID="0x1A8F6BBF" TextString="Mua một Hộp đồ chơi" />
+    <TextStringDefinition InstanceID="0xA41E54D9" TextString="Trẻ nhỏ có thể được Huấn luyện Vệ sinh bằng cách sử dụng Ghế đi vệ sinh. Tìm nó trong sắp xếp Trẻ nhỏ trong phần Trẻ em của danh mục Chế độ Xây dựng." />
+    <TextStringDefinition InstanceID="0x586DA037" TextString="Mua một Ghế đi vệ sinh" />

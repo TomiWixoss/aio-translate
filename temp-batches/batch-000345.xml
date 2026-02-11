@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xCC640956" TextString="San nhà sẽ khiến ngôi nhà không còn tồn tại. Tôi khuyên bạn nên chuyển đến một ngôi nhà đã được trang bị đầy đủ thay vào đó!" />
+    <TextStringDefinition InstanceID="0x737B8479" TextString="Không có Nhà Khởi Đầu" />
+    <TextStringDefinition InstanceID="0xFBFAE764" TextString="Nếu bạn quyết định bắt đầu ở Thế giới này, bạn sẽ cần phải &lt;b&gt;xây dựng&lt;/b&gt; toàn bộ ngôi nhà cho Hộ gia đình của mình. Nhưng đừng lo lắng! Bạn luôn có thể quay lại &lt;b&gt;Các Thế giới Cư trú!&lt;/b&gt;\n\nTôi khuyên bạn nên quay lại và chọn &lt;b&gt;Willow Creek&lt;/b&gt; hoặc &lt;b&gt;Oasis Springs&lt;/b&gt; thay vào đó." />
+    <TextStringDefinition InstanceID="0xB91E3A3E" TextString="Đã Trang Bị" />
+    <TextStringDefinition InstanceID="0x8F5FA919" TextString="Màn hình này cho phép bạn chọn tùy chọn chuyển đến. Vì đây là ngôi nhà khởi đầu đầu tiên của bạn, hãy thử chọn &lt;b&gt;&quot;Đã Trang Bị&quot;&lt;/b&gt;\n\nKhông thích cách bố trí? Bạn luôn có thể trang trí lại hoặc thay đổi nội thất sau này!" />
+    <TextStringDefinition InstanceID="0xB235CA5B" TextString="Đề xuất của Emily" />
+    <TextStringDefinition InstanceID="0x2622E0CB" TextString="Tìm kiếm" />
+    <TextStringDefinition InstanceID="0x73CE4697" TextString="Tập trung Máy quay" />
+    <TextStringDefinition InstanceID="0x4E269D12" TextString="Tương tác" />
+    <TextStringDefinition InstanceID="0xB2F73B62" TextString="Việc thêm một lô Cho thuê Kỳ nghỉ mới vào bất kỳ thế giới nào đều dễ dàng! Du lịch đến bất kỳ lô nào chưa có Hộ gia đình nào chiếm cứ. Khi đã ở Chế độ Xây dựng, ở góc trên bên trái màn hình, hãy chọn biểu tượng Thông tin Địa điểm. Từ đó, địa điểm có thể được thay đổi thành “Cho thuê Kỳ nghỉ” từ danh sách thả xuống Loại Lô. Lô này bây giờ là một Lô Cho thuê Kỳ nghỉ. Trong khi ở Chế độ Xây dựng, hãy đảm bảo đặt bất kỳ vật thể nào bạn muốn có sẵn cho những người nghỉ sau này." />
+    <TextStringDefinition InstanceID="0xD0E95839" TextString="Trong khi đang nghỉ, Chế độ Xây dựng bị khóa. Các Sim đang nghỉ trong Các Thế giới Cư trú có thể mua những thứ cần thiết trên điện thoại của họ trong phần Hộ gia đình với tương tác “Đặt Hàng Ngay…”. Các Thế giới Điểm đến có những địa điểm độc đáo để mua đồ dùng cho thế giới đó." />
+    <TextStringDefinition InstanceID="0x10A0A021" TextString="Khi các Sim đặt chỗ ở nhà tạm, Hộ gia đình đang hoạt động phải trả tiền thuê hàng ngày trước. Tiền thuê phụ thuộc vào Giá trị Lô cho Lô đã chọn. Có một danh sách thả xuống cho phép người chơi chọn số ngày họ muốn người nghỉ thuê lô. Tổng chi phí được hiển thị ở góc dưới bên phải của menu này. Mẹo hữu ích: Khi đã vào trò chơi, các Sim có thể sử dụng phần Du lịch của Điện thoại để chọn gia hạn kỳ nghỉ hoặc kết thúc sớm." />
+    <TextStringDefinition InstanceID="0x73505E23" TextString="Nâng cấp" />
+    <TextStringDefinition InstanceID="0x0847921F" TextString="Một số lợi ích Nâng cấp sẽ khiến vật thể hoạt động tốt hơn, không hỏng, hoặc mang lại lợi ích cảm xúc cho các Sim." />
+    <TextStringDefinition InstanceID="0x778B4BDB" TextString="Khi Kỹ năng Khéo léo của bạn được cải thiện, bạn sẽ có thể tìm thấy các Bộ phận Nâng cấp hiếm và mở khóa những nâng cấp mạnh mẽ hơn." />
+    <TextStringDefinition InstanceID="0x2F20846F" TextString="Các Sim trong Cảm xúc Tập trung thường sẽ giỏi hơn trong việc nâng cấp các vật thể trong nhà." />
+    <TextStringDefinition InstanceID="0x7BC94C3A" TextString="Các Sim cần sử dụng Bộ phận Nâng cấp để nâng cấp vật thể. Chúng có thể được tìm thấy trong các đống phế liệu bên cạnh các vật thể hỏng hoặc thậm chí trong thùng rác!\n\nBạn cũng có thể mua bộ phận nâng cấp từ menu Đặt hàng, nếu bạn có đủ Kỹ năng Khéo léo." />
+    <TextStringDefinition InstanceID="0xFD1FDB0A" TextString="Đặc điểm" />
+    <TextStringDefinition InstanceID="0xD8354F0C" TextString="Các Sim nhận Đặc điểm Phần thưởng bằng cách hoàn thành các Khao khát hoặc có thể mua các Đặc điểm mới với Điểm Hài lòng tại Cửa hàng Phần thưởng." />
+    <TextStringDefinition InstanceID="0x2D5E69F1" TextString="Các Sim nhận các Đặc điểm Tính cách mới khi họ trưởng thành, lên đến tổng cộng 3 khi họ trở thành thanh niên." />
+    <TextStringDefinition InstanceID="0x3D26DA34" TextString="Đặc điểm Tính cách mang lại cho các Sim những tương tác, hành vi và sở thích độc đáo trong suốt cuộc đời." />
+    <TextStringDefinition InstanceID="0xCD602BD5" TextString="Kỹ năng Viết" />
+    <TextStringDefinition InstanceID="0xA5EABF02" TextString="Viết là một nghệ thuật cần thời gian. Khi các Sim phát triển Kỹ năng Viết của mình, họ sẽ có thể viết những Cuốn sách thú vị hơn, kiếm được nhiều Simoleon hơn từ Bản quyền." />
+    <TextStringDefinition InstanceID="0xAEA0BC5C" TextString="Các Sim đủ tâm huyết với việc viết có thể viết như một sự nghiệp của họ." />
+    <TextStringDefinition InstanceID="0xE6D618ED" TextString="Các Sim trong Cảm xúc Cảm hứng thường sẽ là những Người viết giỏi hơn." />
+    <TextStringDefinition InstanceID="0x057A0E3C" TextString="Kỹ năng Violin" />
+    <TextStringDefinition InstanceID="0x177978CB" TextString="Các Sim với Kỹ năng Violin cấp độ cao hơn sẽ học được những Bản nhạc mới, thử thách hơn, mở khóa các tương tác âm nhạc mới, và sẽ có thể Viết Bản nhạc." />
+    <TextStringDefinition InstanceID="0x9DD358DC" TextString="Các Sim trong Cảm xúc Cảm hứng thường sẽ là những Người chơi Violin giỏi hơn." />
+    <TextStringDefinition InstanceID="0x0FD29E96" TextString="Các Sim viết Bản nhạc thông qua Violin có thể cấp phép chúng qua hộp thư để kiếm được Thanh toán Bản quyền." />
+    <TextStringDefinition InstanceID="0x38431ED3" TextString="Kỹ năng Chơi Game Video" />
+    <TextStringDefinition InstanceID="0x5BB5C238" TextString="Tăng Kỹ năng Chơi Game Video của Sim sẽ mở khóa các Tương tác Xã hội mới, cũng như các Tương tác mới trên Máy tính." />
+    <TextStringDefinition InstanceID="0x507459D2" TextString="Các Sim nhận Kỹ năng Chơi Game Video bằng cách chơi trên Máy tính, Hệ thống Chơi game chuyển động, Máy tính bảng và Điện thoại." />
+    <TextStringDefinition InstanceID="0x4CFDB47B" TextString="Chọn Chơi Game từ trình đơn Pie của vật thể. Chơi sẽ xây dựng Vui vẻ, nhưng có thể gây Mệt mỏi, nên hãy nghỉ ngơi thỉnh thoảng.\n\nMẹo thực tế: Chớp mắt." />
+    <TextStringDefinition InstanceID="0x49563633" TextString="Kỹ năng Khoa học Tên lửa" />
+    <TextStringDefinition InstanceID="0x0493F0BD" TextString="Kỹ năng Khoa học Tên lửa được xây dựng bằng Tên lửa. Tên lửa nào? Đó là bí mật.\n\nHoặc… bạn có thể thử trở thành Một Nhà du hành vũ trụ." />
+    <TextStringDefinition InstanceID="0xAE804982" TextString="Không gian, một biên giới. Một số người nói là biên giới cuối cùng--nhưng không phải với Nhà khoa học Tên lửa! Các Sim với Kỹ năng Khoa học Tên lửa coi không gian chỉ là sự khởi đầu!" />
+    <TextStringDefinition InstanceID="0xBA31E232" TextString="Tăng Kỹ năng Khoa học Tên lửa sẽ tăng tốc độ xây dựng của bạn và mở khóa các Nâng cấp mới cho Tên lửa của bạn." />
+    <TextStringDefinition InstanceID="0xC6A2A39A" TextString="Kỹ năng Lập trình" />
+    <TextStringDefinition InstanceID="0xE1B0C7D7" TextString="Lập trình bắt đầu trên Máy tính. Nhấp vào Máy tính và chọn trình đơn Lập trình…. Bạn cũng có thể mua một cuốn sách từ Kệ sách để học những kiến thức cơ bản.\n\nLưu ý: Các lập trình viên có kỹ năng có thể Hướng dẫn người khác để giúp họ tăng kỹ năng." />
+    <TextStringDefinition InstanceID="0x4A3B2A3E" TextString="Tăng Kỹ năng Lập trình sẽ cho phép các Sim tạo Plugin, Game, Mod và Ứng dụng Điện thoại Di động.\n\nCác lập trình viên có kinh nghiệm cũng sẽ có thể Hack để kiếm một ít Simoleon." />
+    <TextStringDefinition InstanceID="0xC88559B2" TextString="Kỹ năng Đàn piano" />
+    <TextStringDefinition InstanceID="0xC4230F83" TextString="Các Sim trong Cảm xúc Cảm hứng thường sẽ là những Người chơi đàn piano giỏi hơn." />
+    <TextStringDefinition InstanceID="0x14198350" TextString="Các Sim viết bài hát thông qua đàn piano có thể cấp phép chúng qua hộp thư để kiếm thanh toán bản quyền." />
+    <TextStringDefinition InstanceID="0x8FD8868A" TextString="Các Sim với Kỹ năng Đàn piano cấp độ cao hơn sẽ học được những Bản nhạc mới, thử thách hơn, các tương tác âm nhạc mới, và sẽ có thể Viết Bài hát." />
+    <TextStringDefinition InstanceID="0xDEB3C18B" TextString="Kỹ năng Vẽ tranh" />
+    <TextStringDefinition InstanceID="0x01F392E0" TextString="Những bức tranh chất lượng cao hơn có thể mang lại lợi ích Cảm xúc mạnh mẽ.\n\nHãy để Sim của bạn vẽ tranh khi đang trong một Cảm xúc, treo tác phẩm của bạn lên tường và chọn Xem để tái tạo Cảm xúc được thấm vào sơn vào Sim của bạn." />
+    <TextStringDefinition InstanceID="0x0A06853F" TextString="Các Sim đủ giỏi trong Việc vẽ tranh có thể bán tranh của họ như một sự nghiệp thay thế!" />
+    <TextStringDefinition InstanceID="0xEF2AEF41" TextString="Các Sim trong Cảm xúc Cảm hứng thường sẽ vẽ tốt hơn, nhưng hãy khám phá tất cả các cảm xúc khi vẽ để khai thác nghệ sĩ bên trong bạn." />
+    <TextStringDefinition InstanceID="0x27075C5F" TextString="Các Sim với Kỹ năng Vẽ tranh cao hơn có thể làm việc theo các phong cách khác nhau và tạo ra những bức tranh tốt hơn." />
+    <TextStringDefinition InstanceID="0xBE44CA63" TextString="Kỹ năng Phá hoại" />

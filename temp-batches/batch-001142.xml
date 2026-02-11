@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xCFABD820" TextString="Hipster" />
+    <TextStringDefinition InstanceID="0x56EA18B4" TextString="Country" />
+    <TextStringDefinition InstanceID="0x8EC9C230" TextString="BoHo" />
+    <TextStringDefinition InstanceID="0xCC89608E" TextString="Hiện đại Lịch lãm" />
+    <TextStringDefinition InstanceID="0x7E7702E3" TextString="Gala" />
+    <TextStringDefinition InstanceID="0xF3A7275A" TextString="Thêm Thành viên Câu lạc bộ" />
+    <TextStringDefinition InstanceID="0x9089F4FC" TextString="Chọn tối đa {0.Number} {S0.Sim}{P0.Sims} để thêm" />
+    <TextStringDefinition InstanceID="0x3472C833" TextString="Tập hợp tại {3.String}" />
+    <TextStringDefinition InstanceID="0x368EDDBB" TextString="Ở lại đây" />
+    <TextStringDefinition InstanceID="0xF6F60E97" TextString="Các thành viên Câu lạc bộ của {0.SimFirstName} và {M0.his}{F0.her} nên tập hợp ở đâu?" />
+    <TextStringDefinition InstanceID="0x337D3512" TextString="Cuộc Tập hợp Câu lạc bộ chỉ có thể được tổ chức tại các địa điểm và nhà ở thuộc sở hữu của các thành viên {2.String}!" />
+    <TextStringDefinition InstanceID="0x3E6726D3" TextString="Cuộc Tập hợp Câu lạc bộ không khả dụng tại đây. Các Sim sẽ phải di chuyển đến một địa điểm khác hoặc đến nhà ở của một trong các thành viên {2.String} và tập hợp tại đó." />
+    <TextStringDefinition InstanceID="0xAC0106A8" TextString="Kỹ năng Vận động là thiết yếu cho mọi trẻ em, nhưng vượt xa việc chỉ cho phép chúng đi, chạy và nhảy, Kỹ năng Vận động có thể được tập trung để xây dựng cơ bắp sớm và chuẩn bị cho một đời người rèn luyện thể chất.\n\n Kỹ năng Vận động có thể được rèn luyện trên cầu khỉ và khu vui chơi trong rừng." />
+    <TextStringDefinition InstanceID="0x08E73CAC" TextString="Hư hỏng" />
+    <TextStringDefinition InstanceID="0x51E1967E" TextString="Muốn gây phiền toái vui vẻ một cách nhỏ nhặt? Tất nhiên! Ai mà không muốn? Hãy lấy kỹ năng này!" />
+    <TextStringDefinition InstanceID="0x2BF345EC" TextString="Logic" />
+    <TextStringDefinition InstanceID="0x2EC65BBE" TextString="Mở khóa kỹ năng này sẽ trao cho bạn sự thành thạo trong nghệ thuật sai lầm một cách tự tin." />
+    <TextStringDefinition InstanceID="0xBACA6FEC" TextString="Nấu ăn" />
+    <TextStringDefinition InstanceID="0x7E7B1F89" TextString="Bất kỳ ai cũng có thể nấu ăn, nhưng những Sim có khẩu vị đặc biệt sẽ được hưởng lợi từ việc dành thêm chút thời gian và sự chú ý trong nhà bếp.\n\nKỹ năng Nấu ăn chủ yếu được xây dựng bằng cách nấu ăn với tủ lạnh, bếp và bàn. Tăng kỹ năng này sẽ mở khóa các Mẹo Nấu ăn, Tâm trạng và Công thức mới." />
+    <TextStringDefinition InstanceID="0x4E0080AD" TextString="Khéo léo" />
+    <TextStringDefinition InstanceID="0x2598FABD" TextString="" />
+    <TextStringDefinition InstanceID="0x3645CBC1" TextString="Lập trình" />
+    <TextStringDefinition InstanceID="0xFD646399" TextString="Muốn trở thành một lập trình viên nghiện caffeine và không kiềm chế? Hãy trở thành một hacker!" />
+    <TextStringDefinition InstanceID="0x2BB774EA" TextString="Guitar" />
+    <TextStringDefinition InstanceID="0xE188F617" TextString="Dành cho Người duy nhất của tôi" />
+    <TextStringDefinition InstanceID="0xE188F616" TextString="Uốn cong" />
+    <TextStringDefinition InstanceID="0xE188F615" TextString="Dọc theo Con đường" />
+    <TextStringDefinition InstanceID="0xAF60ED5F" TextString="Ẩm thực Cao cấp" />
+    <TextStringDefinition InstanceID="0xD03EE14F" TextString="Gần như bất kỳ ai cũng có thể nấu ăn, nhưng chỉ những người có kỹ năng Ẩm thực Cao cấp mới có thể nấu ăn như một bậc thầy." />
+    <TextStringDefinition InstanceID="0x85B60621" TextString="Trồng cây" />
+    <TextStringDefinition InstanceID="0x8CEC80D0" TextString="Sức hút" />
+    <TextStringDefinition InstanceID="0x6FCF191A" TextString="Khả năng thân thiện với người khác thực sự là một món quà đặc biệt. Bạn chưa có nó. Kẻ xấu tính." />
+    <TextStringDefinition InstanceID="0x2727E7D6" TextString="Thể hình" />
+    <TextStringDefinition InstanceID="0x95344CA8" TextString="Đứng dậy khỏi ghế sofa. Chạy bộ. Làm cho tim bạn đập nhanh. Hoặc không." />
+    <TextStringDefinition InstanceID="0x2C4A59A4" TextString="Sự sáng tạo cho phép trí tưởng tượng của bạn bay xa. Kỹ năng này hiện đang bị khóa. Tôi đoán bạn là một cây gậy trong bùn." />
+    <TextStringDefinition InstanceID="0x966B052B" TextString="Sử dụng trí tưởng tượng là một trong những dấu hiệu của thời thơ ấu, và phát triển trí tưởng tượng đó có thể mang lại lợi ích lớn trong tương lai.\n\nKỹ năng Sáng tạo có thể được phát triển tại bảng hoạt động khi là Sim trẻ em và tại giá vẽ khi là người lớn. Tăng kỹ năng này sẽ mở khóa các Bản vẽ Bảng hoạt động mới, Tương tác Nhà búp bê và Tương tác Xã hội!" />
+    <TextStringDefinition InstanceID="0x9C25EAE7" TextString="Hài hước" />
+    <TextStringDefinition InstanceID="0xC08BDF17" TextString="Ngay khi một người nhận ra rằng mọi thứ đều là một trò đùa, trở thành một diễn viên hài là điều duy nhất có ý nghĩa." />
+    <TextStringDefinition InstanceID="0x300FCF8B" TextString="Xã hội" />
+    <TextStringDefinition InstanceID="0x755626EF" TextString="Vận động" />
+    <TextStringDefinition InstanceID="0x3A7B0BF4" TextString="Tinh thần" />
+    <TextStringDefinition InstanceID="0x6936FEA2" TextString="Sáng tạo" />
+    <TextStringDefinition InstanceID="0x49A144E2" TextString="Cờ vua" />
+    <TextStringDefinition InstanceID="0x0E606230" TextString="Pha chế" />
+    <TextStringDefinition InstanceID="0xAEBFECFA" TextString="Pha chế đồ uống và trò chuyện nhỏ nhặt dường như dễ dàng, nhưng tỷ lệ đúng của các loại nước ép và lượng đúng của cuộc trò chuyện là một kỹ năng tinh tế. Người pha chế chủ yếu sử dụng quầy bar. Tăng kỹ năng này sẽ mở khóa khả năng pha chế Đồ uống mới, Thực hiện Trò pha chế và các tương tác xã hội mới!" />
+    <TextStringDefinition InstanceID="0x097C00DA" TextString="Hộ gia đình của Sim này quá lớn." />
+    <TextStringDefinition InstanceID="0x578CDF40" TextString="Nước đã bị cắt; hãy trả hóa đơn." />
+    <TextStringDefinition InstanceID="0x315A8C2E" TextString="Điện đã bị cắt; hãy trả hóa đơn." />
+    <TextStringDefinition InstanceID="0x74ED8B53" TextString="Công ty nước Alto đã cắt nước vào nhà bạn. Hãy trả hóa đơn để được bật lại." />
+    <TextStringDefinition InstanceID="0xC1F9BDC5" TextString="Công ty Điện Landgraab đã cắt điện vào nhà bạn. Hãy trả hóa đơn để được bật lại." />

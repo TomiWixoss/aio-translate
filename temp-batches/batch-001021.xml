@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x46AB0C58" TextString="Thay thế Bản Nâng Cấp Điện Tử" />
+    <TextStringDefinition InstanceID="0x500E03B7" TextString="Nhận Thư của Kẻ Trộm" />
+    <TextStringDefinition InstanceID="0x8B9F6046" TextString="Thay thế Giấy Nợ" />
+    <TextStringDefinition InstanceID="0xD3B308A7" TextString="Yêu cầu Thay thế Bản Tin Hội Ambrosia" />
+    <TextStringDefinition InstanceID="0x84C6C5E7" TextString="{0.SimFirstName} gần đây đã bỏ qua các hóa đơn!" />
+    <TextStringDefinition InstanceID="0xAA34788F" TextString="Làm cho Hóa đơn Trễ hạn (Debug)" />
+    <TextStringDefinition InstanceID="0x5897C235" TextString="Thư ngày hôm nay đã được gửi." />
+    <TextStringDefinition InstanceID="0x21644839" TextString="Cảm ơn bạn đã đăng ký nhà của mình với Hội đồng Ma cà rồng. Chúng tôi hy vọng bạn tận hưởng món quà miễn phí này cho sự tham gia của bạn." />
+    <TextStringDefinition InstanceID="0x476F17C8" TextString="Gần đây không có gì được gửi cho Sim của bạn." />
+    <TextStringDefinition InstanceID="0xB16EB2F5" TextString="{0.SimFirstName} đã thu thập mọi thứ từ hộp thư!" />
+    <TextStringDefinition InstanceID="0x373FBB65" TextString="Buộc Hóa đơn Đến hạn (Debug)" />
+    <TextStringDefinition InstanceID="0xE3EFED52" TextString="Ăn một Bữa ăn Nhanh" />
+    <TextStringDefinition InstanceID="0x028A19E0" TextString="Lấy một Đồ uống" />
+    <TextStringDefinition InstanceID="0xAFCD1DF1" TextString="Tắm Trăng Không Mặc Quần áo" />
+    <TextStringDefinition InstanceID="0x749882D6" TextString="Tắm Trăng" />
+    <TextStringDefinition InstanceID="0x1F3FFF2A" TextString="{0.SimFirstName} gần đây đã có một buổi tắm trăng." />
+    <TextStringDefinition InstanceID="0x1957B469" TextString="Mở khóa cho Sim Cụ thể" />
+    <TextStringDefinition InstanceID="0xA330AD6A" TextString="Khóa cho Cá nhân" />
+    <TextStringDefinition InstanceID="0x3846D4F8" TextString="Khóa cho Sim Cụ thể" />
+    <TextStringDefinition InstanceID="0xE0096B4F" TextString="Chụp một Tự sáng tạo" />
+    <TextStringDefinition InstanceID="0xC2E4CD2B" TextString="Gấu Bông không ở trong lô Công viên.\n\n Hãy mang Gấu Bông của bạn đến một lô Công viên." />
+    <TextStringDefinition InstanceID="0xDD0F262F" TextString="Chụp một Ảnh Sáng tạo" />
+    <TextStringDefinition InstanceID="0xF038BDFF" TextString="Gấu Bông không ở Sylvan Glade.\n\n Hãy mang Gấu Bông của bạn để hoàn thành nhiệm vụ này." />
+    <TextStringDefinition InstanceID="0x48E9B7C4" TextString="Điều tra Điện thoại của Đại sứ" />
+    <TextStringDefinition InstanceID="0x9ED603D8" TextString="Khi kiểm tra, {0.SimFirstName} phát hiện một tệp có tên &quot;Kế hoạch Chủ đạo về Nghỉ hưu&quot; yêu cầu mật khẩu.\n\nNghỉ hưu...nhà sang? Có vẻ như Đại sứ thực sự đang cố gắng làm giàu cho bản thân bằng cách nào đó!" />
+    <TextStringDefinition InstanceID="0x3CC487FD" TextString="Tìm kiếm Lò sưởi" />
+    <TextStringDefinition InstanceID="0x72D1B125" TextString="Điều tra Kệ sách" />
+    <TextStringDefinition InstanceID="0x21F76EDA" TextString="Tìm kiếm Ghế dài" />
+    <TextStringDefinition InstanceID="0x40B941C1" TextString="Phòng này" />
+    <TextStringDefinition InstanceID="0x6BF9C689" TextString="Bật Đèn" />
+    <TextStringDefinition InstanceID="0xC826BCBF" TextString="Bật" />
+    <TextStringDefinition InstanceID="0x60B26BD0" TextString="Nến này" />
+    <TextStringDefinition InstanceID="0x81A2654F" TextString="Tắt Đèn" />
+    <TextStringDefinition InstanceID="0xEB639FA9" TextString="Tắt" />
+    <TextStringDefinition InstanceID="0xCAFC812F" TextString="Thắp tất cả Nến" />
+    <TextStringDefinition InstanceID="0xC987B6B5" TextString="Thắp Nến" />
+    <TextStringDefinition InstanceID="0x0A00DB91" TextString="Tắt tất cả Nến" />
+    <TextStringDefinition InstanceID="0xA422D627" TextString="Tất cả Nến" />
+    <TextStringDefinition InstanceID="0xE3C4F05B" TextString="Đi lên Tầng trên" />
+    <TextStringDefinition InstanceID="0x91DAC0A6" TextString="Đi xuống Tầng dưới" />
+    <TextStringDefinition InstanceID="0x5683EF5A" TextString="Cấp phép Bài hát" />
+    <TextStringDefinition InstanceID="0x1310B061" TextString="Bài hát Đã được Cấp phép!" />
+    <TextStringDefinition InstanceID="0x6A4067B3" TextString="{0.SimFirstName} vừa cấp phép một bài hát cho chương trình tin tức buổi sáng của MPR! Hãy chờ thanh toán bản quyền sớm!&#xD;&#xA;" />
+    <TextStringDefinition InstanceID="0x6C7BBFA6" TextString="Cấp phép Lời bài hát" />
+    <TextStringDefinition InstanceID="0xE6B0D0F5" TextString="Lời bài hát Đã được Cấp phép!" />
+    <TextStringDefinition InstanceID="0x91357184" TextString="{0.SimFirstName} đã cấp phép một bài hát violin. {0.SimFirstName} phải đợi một tuần trước khi {M0.he}{F0.she} có thể cấp phép một bài hát khác." />
+    <TextStringDefinition InstanceID="0x970313F6" TextString="{0.SimFirstName} đã cấp phép một bài hát piano. {0.SimFirstName} phải đợi một tuần trước khi {M0.he}{F0.she} có thể cấp phép một bài hát khác." />
+    <TextStringDefinition InstanceID="0x26743E51" TextString="{0.SimFirstName} đã cấp phép một bài hát guitar. {0.SimFirstName} phải đợi một tuần trước khi {M0.he}{F0.she} có thể cấp phép một bài hát khác." />
+    <TextStringDefinition InstanceID="0xD272922A" TextString="{0.SimFirstName} vừa cấp phép lời bài hát. Hãy chờ thanh toán bản quyền sớm!" />
+    <TextStringDefinition InstanceID="0x09F3C65A" TextString="{0.SimFirstName} phải đợi một tuần trước khi {M0.he}{F0.she} có thể cấp phép thêm lời bài hát." />

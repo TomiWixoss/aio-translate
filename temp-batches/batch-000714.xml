@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x7EC9D591" TextString="{0.SimFirstName} không thể xuất bản bản tuyên ngôn ở bất kỳ đâu. {M0.Anh ấy}{F0.Cô ấy} âm thầm đăng tải nó trên một trang web cá nhân, nơi không ai ghé thăm, và phong trào nhanh chóng kết thúc." />
+    <TextStringDefinition InstanceID="0xA9BC69AC" TextString="Nghệ sĩ đường phố du kích đó, đang làm việc bên sườn tàu hỏa, đang trở thành tâm điểm của thế giới nghệ thuật. Với sự tài trợ từ {0.SimFirstName}, nghệ sĩ có thể tổ chức triển lãm galley đầu tiên của mình. Mọi người đều ca ngợi nó." />
+    <TextStringDefinition InstanceID="0xDC87BFE0" TextString="Người xem bất ngờ khi thấy một cây cọ biết nói, và nhiều người trong số họ đến xem triển lãm." />
+    <TextStringDefinition InstanceID="0x0BFA19BD" TextString="Bức tranh mới nhất của {0.SimFirstName} bán được với giá cao hơn mọi thứ khác tại phiên đấu giá! Vượt xa! Chắc chắn những con chó poodle sẽ viết bài hát và thơ về sự hào phóng huyền thoại của {0.SimFirstName}." />
+    <TextStringDefinition InstanceID="0xCDC96562" TextString="Tạp chí chưa bao giờ trước đó phác họa một nghệ sĩ sử dụng {M0.cơ thể}{F0.cơ thể} của mình làm vải vẽ. Tác phẩm của {0.SimFirstName} được ca ngợi." />
+    <TextStringDefinition InstanceID="0xA1712573" TextString="Bảo tàng trưng bày bộ sưu tập của {0.SimFirstName} trong một phòng phía sau, với ánh sáng yếu. Có lẽ một cánh mới không phải là một ý tưởng tồi." />
+    <TextStringDefinition InstanceID="0x1ECD6204" TextString="{0.SimFirstName} giữ học sinh lại sau giờ học, để nghiêm khắc nói chuyện và cho bài tập về nhà nhiều hơn. Học sinh bỏ việc ngay tại chỗ và chạy đi học với một nghệ sĩ graffiti địa phương." />
+    <TextStringDefinition InstanceID="0xB391AFC6" TextString="Với sự chú ý bổ sung, chú hề lớp học đồng ý tập trung nhiều hơn vào kỹ thuật của mình. Anh ta dường như đang có tiến triển khi sử dụng những màu sắc không truyền thống." />
+    <TextStringDefinition InstanceID="0x10AC9188" TextString="&quot;Tĩnh vật một cái kho&quot; không đẩy ra ranh giới nào. Nhưng chi tiết tinh xảo của nó ít nhất cũng làm tròn bộ sưu tập của {0.SimFirstName}." />
+    <TextStringDefinition InstanceID="0xC4BC3BCE" TextString="Hủy buổi chụp ảnh" />
+    <TextStringDefinition InstanceID="0x4BB539D2" TextString="Thoa sơn lên người" />
+    <TextStringDefinition InstanceID="0x794CF780" TextString="Bắt được tốt" />
+    <TextStringDefinition InstanceID="0x623F05EC" TextString="Bán toàn bộ bộ sưu tập" />
+    <TextStringDefinition InstanceID="0x6AC6A044" TextString="Yêu cầu một cánh bảo tàng" />
+    <TextStringDefinition InstanceID="0xD2A17C96" TextString="Đưa ra ý kiến phản biện" />
+    <TextStringDefinition InstanceID="0x4C939836" TextString="Đi theo ý kiến phổ biến" />
+    <TextStringDefinition InstanceID="0xAD5F9B7D" TextString="Mọi người đều yêu phô mai!" />
+    <TextStringDefinition InstanceID="0xFDB903D0" TextString="&quot;Ông Nội Dễ Thương&quot; khiến một số người xem bối rối nhưng bổ sung vào những bình luận thì thầm về phong cách sáng tạo của {0.SimFirstName}." />
+    <TextStringDefinition InstanceID="0x397B63C8" TextString="Biên tập viên hài lòng với bố cục và khen ngợi {0.SimFirstName} về {M0.kỹ năng}{F0.kỹ năng} thiết kế của {M0.anh ấy}{F0.cô ấy}." />
+    <TextStringDefinition InstanceID="0x390B377B" TextString="Lời giải thích của {0.SimFirstName} rằng tác phẩm nổi tiếng nhất của nghệ sĩ, &quot;Chỉ là một hình vuông đỏ với một chấm xanh!&quot; khiến vài người nhìn với ánh mắt khó chịu và một sự đồng thanh, &quot;Bạn chỉ là không hiểu.&quot; từ đám đông." />
+    <TextStringDefinition InstanceID="0x1A5FA176" TextString="Lời giải thích của {0.SimFirstName} rằng tác phẩm nổi tiếng nhất của nghệ sĩ, &quot;Chỉ là một hình vuông đỏ với một chấm xanh!&quot; khiến vài người đồng nghiệp thừa nhận, &quot;Tôi cũng đang nghĩ vậy!&quot;. May mắn là {M0.anh ấy}{F0.cô ấy} đã lên tiếng!" />
+    <TextStringDefinition InstanceID="0x9F09E2B3" TextString="Cứng rắn hơn" />
+    <TextStringDefinition InstanceID="0x132A6AF7" TextString="Bỏ qua việc nhà" />
+    <TextStringDefinition InstanceID="0x60588214" TextString="Bỏ cuộc và xã giao" />
+    <TextStringDefinition InstanceID="0xFF798144" TextString="Cất trước trên phố" />
+    <TextStringDefinition InstanceID="0x712FF095" TextString="Bỏ qua nghệ sĩ" />
+    <TextStringDefinition InstanceID="0xA298C255" TextString="Cuộc tranh luận sôi nổi" />
+    <TextStringDefinition InstanceID="0x06DEC67A" TextString="Phương pháp thực hành" />
+    <TextStringDefinition InstanceID="0x23FD6C5C" TextString="Dạy lý thuyết" />
+    <TextStringDefinition InstanceID="0x6FE2FD34" TextString="Thử bản demo" />
+    <TextStringDefinition InstanceID="0x2CDF24A5" TextString="Làm xấu đi uy tín máy móc" />
+    <TextStringDefinition InstanceID="0x52648884" TextString="{0.SimFirstName} cuối cùng cũng rút {M0.mũi}{F0.mũi} mình ra khỏi cuốn sách lịch sử nghệ thuật, bộ óc tràn ngập dữ liệu quý giá, chỉ để thấy lớp học đã kết thúc 20 phút trước. Ôi không." />
+    <TextStringDefinition InstanceID="0x57B2797B" TextString="Chuẩn bị là cho kẻ phàm trần. Một thiên tài sống trong khoảnh khắc. {0.SimFirstName} học dồn như điên và đạt điểm tuyệt đối trong bài thi." />
+    <TextStringDefinition InstanceID="0xFFF18E65" TextString="Người mẫu thiếu" />
+    <TextStringDefinition InstanceID="0xBA4BBAE7" TextString="{0.SimFirstName} được giao nhiệm vụ tô sơn body paint cho một người mẫu cho buổi chụp ảnh tạp chí, nhưng người mẫu đã không bao giờ xuất hiện! Nghĩ nhanh, {0.SimFirstName} nhận ra rằng lựa chọn duy nhất là tô {M0.lên chính mình}{F0.lên chính mình}, hoặc hủy buổi chụp ảnh." />
+    <TextStringDefinition InstanceID="0x406AB35F" TextString="Bộ sưu tập bảo tàng" />
+    <TextStringDefinition InstanceID="0xC72D7D1D" TextString="Một bảo tàng lớn muốn mua toàn bộ bộ sưu tập của {0.SimFirstName}. {0.SimFirstName} nên bán bộ sưu tập ngay lập tức, hay nói với bảo tàng rằng họ cũng phải xây dựng một cánh bảo tàng danh dự {0.SimFirstName} để trưng bày nó?" />
+    <TextStringDefinition InstanceID="0x66DABC2B" TextString="Nghi thức thảo luận" />
+    <TextStringDefinition InstanceID="0x1D2A533F" TextString="Mọi người đang sôi nổi nói về tác phẩm mới của nghệ sĩ thăm dạy tại trường đại học. {0.SimFirstName} có thể quyết định đưa ra ý kiến phản biện rằng nghệ sĩ thăm dạy là một kẻ lừa đảo phóng đại, hoặc {M0.anh ấy}{F0.cô ấy} có thể đi theo sự đồng thuận phổ biến rằng tác phẩm của ông ấy thay đổi nghệ thuật như chúng ta biết?" />
+    <TextStringDefinition InstanceID="0x287438C5" TextString="Trao đổi cư trú" />
+    <TextStringDefinition InstanceID="0xE973B147" TextString="{0.SimFirstName} phải làm việc nhà nông trại để đổi lấy {M0.kỳ nghỉ nghệ thuật}{F0.kỳ nghỉ nghệ thuật} của mình. Nhưng cuốc đất trong vườn đã gây ra những vết phồng rộp trên {M0.bàn tay}{F0.bàn tay} của {M0.anh ấy}{F0.cô ấy}. Giờ cầm cọ vẽ đau! Điều này đặt câu hỏi: Bỏ qua việc nhà hay cứng rắn hơn?" />
+    <TextStringDefinition InstanceID="0x8291317D" TextString="Trễ giờ về nghệ thuật" />
+    <TextStringDefinition InstanceID="0x395D4DDF" TextString="{0.SimFirstName} đến muộn tại buổi đi bộ nghệ thuật địa phương, và không còn không gian vỉa hè nào để cất bàn và bán tranh màu nước. Có lẽ {M0.anh ấy}{F0.cô ấy} có thể cất một nửa trên phố? Hay sẽ tốt hơn nếu bỏ cuộc và chỉ dành cả đêm để xã giao?" />
+    <TextStringDefinition InstanceID="0xBE3ABC54" TextString="Cuộc tranh luận sôi nổi kỳ lạ" />
+    <TextStringDefinition InstanceID="0x91DF4B5A" TextString="Một nghệ sĩ sử dụng những phương tiện kỳ lạ, như nước tắm bẩn và sữa chua, luôn cố gắng kích thích {0.SimFirstName} tham gia một cuộc tranh luận sôi nổi. {0.SimFirstName} nên tranh luận lý thuyết nghệ thuật với cô ấy hay bỏ qua cô ấy?" />
+    <TextStringDefinition InstanceID="0x1EF278D3" TextString="{0.SimFirstName} đang đúc nên các sinh viên nghệ thuật địa phương thành những thiên tài tương lai. {M0.Anh ấy}{F0.Cô ấy} chỉ không thể quyết định phương pháp giảng dạy tốt nhất: để họ bẩn tay, hay giảng dạy lý thuyết thay vào đó?" />
+    <TextStringDefinition InstanceID="0x5222BE65" TextString="Appraise-Bot 2000" />
+    <TextStringDefinition InstanceID="0x0CED6AE7" TextString="{0.SimFirstName} sốc khi nghe về &quot;Appraise-Bot 2000,&quot; một cỗ máy nghiên cứu nét vẽ, đặc điểm màu sắc và 56 yếu tố then chốt khác, nhổ ra một bản đánh giá—trong vòng dưới 30 giây. {0.SimFirstName} có thể làm xấu đi uy tín của máy một cách công khai, hoặc thử bản demo miễn phí của Appraise-Bot 2000." />
+    <TextStringDefinition InstanceID="0xCABB9207" TextString="Trang phục phỏng vấn" />
+    <TextStringDefinition InstanceID="0xA49B3105" TextString="{0.SimFirstName} sẽ được phỏng vấn bởi tin tức địa phương về {M0.buổi triển lãm}{F0.buổi triển lãm} &quot;Nghệ thuật Đảo&quot; mà {M0.anh ấy}{F0.cô ấy} mới đưa ra. Vì một chiêu trò quảng bá, {M0.anh ấy}{F0.cô ấy} nên mặc trang phục cây cọ hay chỉ mặc quần tây và áo sơ mi đẹp?" />

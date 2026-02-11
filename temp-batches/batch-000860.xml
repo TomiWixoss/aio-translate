@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xDA7F8C5B" TextString="{0.String} &lt;font color='#3AAF69'&gt;(+{1.RecyclingBits})&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xB5D91675" TextString="{0.String} ({1.RecyclingBits})" />
+    <TextStringDefinition InstanceID="0xB8A71DDC" TextString="Điểm Dân tộc" />
+    <TextStringDefinition InstanceID="0x88236513" TextString="Mảnh" />
+    <TextStringDefinition InstanceID="0xB03C874E" TextString="{0.String} &lt;font color='#3AAF69'&gt;(+{1.RecyclingPieces})&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x242991F8" TextString="{0.String} ({1.RecyclingPieces})" />
+    <TextStringDefinition InstanceID="0x43C1A6FC" TextString="Bạn đã mua perk này rồi." />
+    <TextStringDefinition InstanceID="0x46BF32BE" TextString="Perk này đã được mở khóa bởi perk {0.String}." />
+    <TextStringDefinition InstanceID="0xA95D0236" TextString="Mở khóa để thay đổi cách các Sim khác trong thế giới tương tác với Câu lạc bộ của bạn khi giao tiếp xã hội." />
+    <TextStringDefinition InstanceID="0xF9067568" TextString="Trạng thái Câu lạc bộ (Chỉ cho phép 1)" />
+    <TextStringDefinition InstanceID="0x7A1AD108" TextString="Mở khóa để có các tương tác thiết lập Vibe Câu lạc bộ. Vibe Câu lạc bộ sẽ thay đổi tâm trạng của tất cả thành viên trong Cuộc họp Câu lạc bộ!" />
+    <TextStringDefinition InstanceID="0x0EED258A" TextString="Vibe Câu lạc bộ" />
+    <TextStringDefinition InstanceID="0x65C9B5F4" TextString="Mở khóa để cải thiện quản lý và hiệu quả tổng thể của Câu lạc bộ." />
+    <TextStringDefinition InstanceID="0x06BC920E" TextString="Quản lý Câu lạc bộ" />
+    <TextStringDefinition InstanceID="0x9B8645BF" TextString="Việc mở khóa Club Perks sẽ khiến thành viên phát triển kỹ năng liên quan nhanh hơn khi ở trong Cuộc họp Câu lạc bộ." />
+    <TextStringDefinition InstanceID="0xA3A7CFB7" TextString="Thưởng Kỹ năng" />
+    <TextStringDefinition InstanceID="0x1AAC32D5" TextString="Mở khóa để nhận kết quả xã hội tốt hơn khi Sim của bạn đang giao tiếp xã hội trong Cuộc họp Câu lạc bộ." />
+    <TextStringDefinition InstanceID="0x0AB0F835" TextString="Thưởng Xã hội" />
+    <TextStringDefinition InstanceID="0xEA00B9C9" TextString="Mở khóa để cho phép các Sim trong Câu lạc bộ của bạn thực hiện một cái bắt tay Câu lạc bộ đặc biệt. Câu lạc bộ của bạn chỉ có thể có 1 cái bắt tay." />
+    <TextStringDefinition InstanceID="0x8C792551" TextString="Cái bắt tay Câu lạc bộ (Chỉ cho phép 1)" />
+    <TextStringDefinition InstanceID="0x45CAD5C2" TextString="Mở khóa để cho phép truy cập vào Trang phục và Đồ vật dành riêng cho Câu lạc bộ." />
+    <TextStringDefinition InstanceID="0xFCB958FC" TextString="Trang phục và Trang trí" />
+    <TextStringDefinition InstanceID="0x5542CEB8" TextString="Mở khóa để tăng số lượng thành viên Câu lạc bộ bạn có thể mời vào Câu lạc bộ của mình." />
+    <TextStringDefinition InstanceID="0x7DA491BA" TextString="Quy mô Câu lạc bộ" />
+    <TextStringDefinition InstanceID="0x8E2500C6" TextString="{0.SimFirstName} đang khô nước. {0.SimPronounSubjective|xxUpper} sẽ cần chăm sóc Nhu cầu Nước của {0.SimPronounObjective} thường xuyên hơn." />
+    <TextStringDefinition InstanceID="0x8F5F5B36" TextString="Nhu cầu Khát của {0.SimFirstName} giảm nhanh hơn do bị Mất cân bằng. {0.SimPronounSubjective|xxUpper} {S0.is}{P0.are} sẽ phải uống từ các Sim hoặc ăn Trái cây Plasma thường xuyên hơn." />
+    <TextStringDefinition InstanceID="0x9D971573" TextString="{0.SimFirstName} gặp một số khó khăn trong việc tập trung khi trò chuyện. {0.SimPronounSubjective|xxUpper} sẽ cần các tương tác xã hội bổ sung để lấp đầy Nhu cầu Xã hội của {0.SimPronounPossessiveDependent}." />
+    <TextStringDefinition InstanceID="0x22A842D1" TextString="Kỹ năng của {0.SimFirstName} đang cải thiện chậm hơn vì {0.SimPronounSubjective} {S0.is}{P0.are} bị Mất cân bằng!" />
+    <TextStringDefinition InstanceID="0x23FD00A1" TextString="{0.SimFirstName} nghĩ rằng Sự mất cân bằng của {0.SimPronounPossessiveDependent} có thể đang thu hút những năng lượng tiêu cực hay thứ gì đó. {0.SimPronounSubjective|xxUpper} {S0.has}{P0.have} ít May mắn hơn như một hệ quả." />
+    <TextStringDefinition InstanceID="0x56E87E37" TextString="{0.SimFirstName} đang gặp khó khăn trong việc giữ sạch sẽ. {0.SimPronounSubjective|xxUpper} sẽ cần chăm sóc Nhu cầu Vệ sinh của {0.SimPronounPossessiveDependent} thường xuyên hơn." />
+    <TextStringDefinition InstanceID="0xD7682E98" TextString="{0.SimFirstName} đang gặp khó khăn trong việc giữ đủ nước. {0.SimPronounSubjective|xxUpper} sẽ cần chăm sóc Nhu cầu Hidrat của {0.SimPronounPossessiveDependent} thường xuyên hơn." />
+    <TextStringDefinition InstanceID="0x09746373" TextString="{0.SimFirstName} đói hơn bình thường. {0.SimPronounSubjective|xxUpper} sẽ cần chăm sóc Nhu cầu Đói của {0.SimPronounPossessiveDependent} thường xuyên hơn." />
+    <TextStringDefinition InstanceID="0x47651695" TextString="{0.SimFirstName} không còn thích thú với mọi thứ như trước. {0.SimPronounSubjective|xxUpper} sẽ cần chăm sóc Nhu cầu Vui vẻ của {0.SimPronounPossessiveDependent} thường xuyên hơn." />
+    <TextStringDefinition InstanceID="0xBE88C2AE" TextString="{0.SimFirstName} cảm thấy hơi mệt. {0.SimPronounSubjective|xxUpper} sẽ cần chăm sóc Nhu cầu Năng lượng của {0.SimPronounPossessiveDependent} thường xuyên hơn." />
+    <TextStringDefinition InstanceID="0x947A02DC" TextString="Hệ tiêu hóa của {0.SimFirstName} hơi bất thường. {0.SimPronounSubjective|xxUpper} sẽ cần chăm sóc Nhu cầu Bàng quang của {0.SimPronounPossessiveDependent} thường xuyên hơn." />
+    <TextStringDefinition InstanceID="0xE41310EE" TextString="Việc Rất Mất cân bằng khiến {0.SimFirstName} dễ mắc bệnh. {0.SimPronounSubjective|xxUpper} {S0.has}{P0.have} một trường hợp &lt;b&gt;Xoang Âm thanh&lt;/b&gt;." />
+    <TextStringDefinition InstanceID="0xFAE2E274" TextString="Việc Rất Mất cân bằng khiến {0.SimFirstName} dễ mắc bệnh. {0.SimPronounSubjective|xxUpper} {S0.has}{P0.have} một trường hợp &lt;b&gt;Sốt Simoleon&lt;/b&gt;." />
+    <TextStringDefinition InstanceID="0x2A942C11" TextString="Việc Rất Mất cân bằng khiến {0.SimFirstName} dễ mắc bệnh. {0.SimPronounSubjective|xxUpper} {S0.has}{P0.have} một trường hợp &lt;b&gt;Nam châm May mắn&lt;/b&gt;." />
+    <TextStringDefinition InstanceID="0x0771B4DA" TextString="Việc Rất Mất cân bằng khiến {0.SimFirstName} dễ mắc bệnh. {0.SimPronounSubjective|xxUpper} {S0.has}{P0.have} một trường hợp &lt;b&gt;Greenie Meanie&lt;/b&gt;." />
+    <TextStringDefinition InstanceID="0xE1F5C9E2" TextString="Việc Rất Mất cân bằng khiến {0.SimFirstName} dễ mắc bệnh. {0.SimPronounSubjective|xxUpper} {S0.has}{P0.have} một trường hợp &lt;b&gt;Mồi Gnome&lt;/b&gt;." />
+    <TextStringDefinition InstanceID="0x638127AA" TextString="Việc Rất Mất cân bằng khiến {0.SimFirstName} dễ mắc bệnh. {0.SimPronounSubjective|xxUpper} {S0.has}{P0.have} một trường hợp &lt;b&gt;Khoảng trống Cảm xúc&lt;/b&gt;." />
+    <TextStringDefinition InstanceID="0x68F2DFFC" TextString="Việc Rất Mất cân bằng khiến {0.SimFirstName} dễ mắc bệnh. {0.SimPronounSubjective|xxUpper} {S0.has}{P0.have} một trường hợp &lt;b&gt;Xung động Sáng tạo&lt;/b&gt;." />
+    <TextStringDefinition InstanceID="0xE6630D7C" TextString="Việc Rất Mất cân bằng khiến {0.SimFirstName} dễ mắc bệnh. {0.SimPronounSubjective|xxUpper} {S0.has}{P0.have} một trường hợp &lt;b&gt;Đam mê Cháy bỏng&lt;/b&gt;." />
+    <TextStringDefinition InstanceID="0xABAF690D" TextString="Đừng quên trả tiền thuê nhà đúng hạn!" />
+    <TextStringDefinition InstanceID="0xB1FB0444" TextString="Bánh Mùa đông" />
+    <TextStringDefinition InstanceID="0xF8FE61DD" TextString="Cảm ơn đã đặt hàng! Các món quà lễ {0.SimFirstName} mua có thể tìm thấy trong kho đồ của {M0.his}{F0.her}. Chúc vui vẻ khi mở!" />
+    <TextStringDefinition InstanceID="0x38FEC935" TextString="{0.SimFirstName} nhận được một con thú bông đặc biệt, có thể sưu tầm từ món quà lễ! Còn có một câu đùa được viết trên mảnh giấy...\n\nCâu hỏi: Bạn gọi con ma của con gà tây là gì?\nĐáp án: Một con ma gà (poultrygeist)!" />
+    <TextStringDefinition InstanceID="0x9C76D310" TextString="{0.SimFirstName} nhận được một con thú bông đặc biệt, có thể sưu tầm từ món quà lễ! Còn có một câu đùa được viết trên mảnh giấy...\n\nCâu hỏi: Người làm vườn phát hiện ra loại trái cây nào khi ghép cắt cây thông Giáng sinh vào cây táo?\nĐáp án: Một quả dứa!&#xA;" />
+    <TextStringDefinition InstanceID="0x3F75A0C0" TextString="{0.SimFirstName} nhận được một con thú bông đặc biệt, có thể sưu tầm từ món quà lễ! Còn có một câu đùa được viết trên mảnh giấy...\n\nCâu hỏi: Thỏ Social Bunny đeo loại trang sức gì?\nĐáp án: Vàng 18 carrot." />
+    <TextStringDefinition InstanceID="0xDE5EE57C" TextString="{0.SimFirstName} nhận được một con thú bông đặc biệt, có thể sưu tầm từ món quà lễ! Còn có một câu đùa được viết trên mảnh giấy...\n\nCâu hỏi: Mẹ gà tây nói gì với đứa con bất tuân của bà?\nĐáp án: Nếu cha con có thể thấy con bây giờ, ông ấy sẽ lộn ngược trong nước dùng của mình!" />

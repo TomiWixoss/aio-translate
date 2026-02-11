@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xE94EEA86" TextString="Nghe lời đồn ác ý" />
+    <TextStringDefinition InstanceID="0x966A5AAE" TextString="Kể một lời đồn ác ý" />
+    <TextStringDefinition InstanceID="0x6B620A65" TextString="Bị {1.SimFirstName} trêu đùa" />
+    <TextStringDefinition InstanceID="0x63C65347" TextString="Trêu đùa không thương tiếc" />
+    <TextStringDefinition InstanceID="0x4BAD3DA7" TextString="Nghe bài học của {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xDCAC1FE9" TextString="Dạy một bài học quý giá" />
+    <TextStringDefinition InstanceID="0x8AFFE668" TextString="Thú nhận gian lận" />
+    <TextStringDefinition InstanceID="0x62FA6934" TextString="Thừa nhận gian lận" />
+    <TextStringDefinition InstanceID="0xB87D98E8" TextString="Đối mặt về việc bắt nạt" />
+    <TextStringDefinition InstanceID="0x00F9E67C" TextString="Cảnh báo không đối xử tệ với bạn bè" />
+    <TextStringDefinition InstanceID="0xA520288B" TextString="(Từ việc bị Loyal Sim đối mặt)" />
+    <TextStringDefinition InstanceID="0x4237A5CC" TextString="La hét vào" />
+    <TextStringDefinition InstanceID="0x05A108B0" TextString="Mắng mỏ" />
+    <TextStringDefinition InstanceID="0x2BB5F51A" TextString="Nhắc nhở dai dẳng" />
+    <TextStringDefinition InstanceID="0xEFC6EAA3" TextString="Thú nhận nói xấu" />
+    <TextStringDefinition InstanceID="0xD9F756E5" TextString="Thảo luận về nỗi sợ" />
+    <TextStringDefinition InstanceID="0x18ADE870" TextString="Thảo luận về nỗi sợ ngựa" />
+    <TextStringDefinition InstanceID="0x977D3568" TextString="Thảo luận về nỗi sợ bị trộm" />
+    <TextStringDefinition InstanceID="0x1B440E04" TextString="Nói về nỗi sợ trong mối quan hệ" />
+    <TextStringDefinition InstanceID="0x939550EB" TextString="{0.SimFirstName} cần một chút thời gian để gom đủ can đảm để làm điều này lần nữa." />
+    <TextStringDefinition InstanceID="0xAA97B84C" TextString="Thảo luận về đồ chơi với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x1956B4FC" TextString="Nói về đồ chơi" />
+    <TextStringDefinition InstanceID="0xB41B65E0" TextString="Thảo luận về trường học với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x47C6E490" TextString="Nói về trường học" />
+    <TextStringDefinition InstanceID="0xC12760DB" TextString="Nghe bài giảng của {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x21CF050D" TextString="Bài giảng về trách nhiệm" />
+    <TextStringDefinition InstanceID="0xA13DAFEE" TextString="Nói về Ứng dụng mới với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xB3DE67D6" TextString="Nói về Ứng dụng mới" />
+    <TextStringDefinition InstanceID="0x5A26F03A" TextString="Nói về kỹ năng thủ công với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x07B5F1B2" TextString="Nói về kỹ năng thủ công" />
+    <TextStringDefinition InstanceID="0xE896A805" TextString="Nói về bánh mì nướng phô mai" />
+    <TextStringDefinition InstanceID="0x3E1F9955" TextString="Thảo luận về phân số với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xC5EE5317" TextString="Thảo luận về phân số" />
+    <TextStringDefinition InstanceID="0x92414667" TextString="Thảo luận về động vật yêu thích với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x7403DDA9" TextString="Nói về động vật yêu thích" />
+    <TextStringDefinition InstanceID="0xC5159A6E" TextString="Nói về động vật yêu thích" />
+    <TextStringDefinition InstanceID="0xDE1B6CFA" TextString="Nói về pha chế đồ uống với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x43F82372" TextString="Nói về pha chế đồ uống" />
+    <TextStringDefinition InstanceID="0x063BC992" TextString="Nói về quán bar Oga" />
+    <TextStringDefinition InstanceID="0x50148661" TextString="Nói về giấc mơ với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xE6AACAA3" TextString="Nói về giấc mơ" />
+    <TextStringDefinition InstanceID="0x06B4811D" TextString="Nói về nấu ăn với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xFEA613BF" TextString="Nói về nấu ăn" />
+    <TextStringDefinition InstanceID="0x743374D4" TextString="Nói về Cảng Docking 7" />
+    <TextStringDefinition InstanceID="0xE49A23F3" TextString="Nói về sách bán chạy với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xE4D6E7ED" TextString="Nói về mồi câu tốt nhất với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x3EB7996F" TextString="Nói về mồi câu tốt nhất" />
+    <TextStringDefinition InstanceID="0xFE60130B" TextString="Nói về nghệ thuật với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xF5871E9D" TextString="Nói về nghệ thuật" />
+    <TextStringDefinition InstanceID="0x2DDBD158" TextString="Chụp ảnh với {1.SimFirstName}" />

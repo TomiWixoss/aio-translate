@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x806A3F6A" TextString="Không thể đặt ở đại dương." />
+    <TextStringDefinition InstanceID="0x02F96FFC" TextString="Không thể đặt ở đài phun nước." />
+    <TextStringDefinition InstanceID="0x835131F7" TextString="Không thể đặt trong nước hồ sâu." />
+    <TextStringDefinition InstanceID="0x9FCC5362" TextString="Không thể đặt ở vị trí hiện tại." />
+    <TextStringDefinition InstanceID="0xB0A5201C" TextString="Không thể đặt trên không trung." />
+    <TextStringDefinition InstanceID="0x284514C9" TextString="Không thể đặt khối tầng cao hơn dưới khối tầng thấp hơn." />
+    <TextStringDefinition InstanceID="0x30085612" TextString="Không thể đặt cổng trong hàng rào thấp." />
+    <TextStringDefinition InstanceID="0x37FA4A07" TextString="Không thể đặt đài phun nước bên dưới bất cứ thứ gì." />
+    <TextStringDefinition InstanceID="0x1DD601C2" TextString="Không thể đặt hàng rào không có nền tảng bên trên hồ bơi có nền tảng." />
+    <TextStringDefinition InstanceID="0xAC376289" TextString="Không thể đặt hồ bơi nền tảng cạnh hồ bơi địa hình." />
+    <TextStringDefinition InstanceID="0xA8345B4B" TextString="Không thể đặt hồ bơi nền tảng cạnh hoặc phía trên tầng hầm." />
+    <TextStringDefinition InstanceID="0xBEAADE46" TextString="Không thể đặt đài phun nước cạnh hoặc phía trên tầng hầm." />
+    <TextStringDefinition InstanceID="0xD696A01E" TextString="Không thể giao với tường." />
+    <TextStringDefinition InstanceID="0xA09B86CD" TextString="Vật thể không thể giao với cầu thang." />
+    <TextStringDefinition InstanceID="0x094D6855" TextString="Không thể giao với phần nhô ra." />
+    <TextStringDefinition InstanceID="0x531A32BF" TextString="Không thể giao với các phần bo tròn." />
+    <TextStringDefinition InstanceID="0xB8604D94" TextString="Không thể giao với mái nhà." />
+    <TextStringDefinition InstanceID="0xE29A17E1" TextString="Không thể giao với vật thể khác." />
+    <TextStringDefinition InstanceID="0x1169F5E6" TextString="Không thể giao với vật cản." />
+    <TextStringDefinition InstanceID="0x22A3BD62" TextString="Không thể giao với thang." />
+    <TextStringDefinition InstanceID="0xA6786DBD" TextString="Không thể giao với phần trang trí dọc." />
+    <TextStringDefinition InstanceID="0x37427FFF" TextString="Không thể giao với nền móng." />
+    <TextStringDefinition InstanceID="0x815C111E" TextString="Không thể giao với sàn phía trên." />
+    <TextStringDefinition InstanceID="0x50BCE39D" TextString="Không thể giao với hàng rào." />
+    <TextStringDefinition InstanceID="0x181B5CFD" TextString="Không thể giao với khối ở tầng bên dưới." />
+    <TextStringDefinition InstanceID="0x1DAF0DBD" TextString="Không thể tìm thấy khe cho vật thể này." />
+    <TextStringDefinition InstanceID="0x29A90130" TextString="Không thể tìm thấy vật thể." />
+    <TextStringDefinition InstanceID="0x2BA962CC" TextString="Không thể tạo phòng lơ lửng." />
+    <TextStringDefinition InstanceID="0x4BDA840D" TextString="Không thể tạo phía trên tầng cao nhất." />
+    <TextStringDefinition InstanceID="0x8FB60E8D" TextString="Không thể kết nối với phòng có chiều cao khác." />
+    <TextStringDefinition InstanceID="0x3356FEAA" TextString="Không thể kết nối các khối từ các tầng khác nhau." />
+    <TextStringDefinition InstanceID="0x37EA99B2" TextString="Không thể đặt xuyên qua tường." />
+    <TextStringDefinition InstanceID="0x2D194005" TextString="Không thể đặt xuyên qua hàng rào." />
+    <TextStringDefinition InstanceID="0x3156B493" TextString="Không thể đặt chìm trong nước." />
+    <TextStringDefinition InstanceID="0xBDADAF50" TextString="Không thể nhặt ra ngoài phạm vi." />
+    <TextStringDefinition InstanceID="0x21FBA978" TextString="Không thể nhặt." />
+    <TextStringDefinition InstanceID="0xA64D95FC" TextString="Họa tiết không thể áp dụng cho hàng rào." />
+    <TextStringDefinition InstanceID="0xF83B465E" TextString="Không đủ tiền." />
+    <TextStringDefinition InstanceID="0xA6475075" TextString="Vật thể không thể sử dụng ở chiều cao đó." />
+    <TextStringDefinition InstanceID="0xFA7365CD" TextString="Không thể sử dụng nhiều tầng." />
+    <TextStringDefinition InstanceID="0xD696E997" TextString="Không thể gỡ bỏ sàn." />
+    <TextStringDefinition InstanceID="0x87B518D4" TextString="Một vật thể bị ảnh hưởng bởi hành động này không thể được di chuyển đến kho đồ của hộ gia đình." />
+    <TextStringDefinition InstanceID="0x5EF1A822" TextString="Không thể mở rộng loại phòng." />
+    <TextStringDefinition InstanceID="0x8C76E44E" TextString="Không thể đặt phòng do vật thể cố định." />
+    <TextStringDefinition InstanceID="0xC3491C85" TextString="Không thể hoàn thành hành động do vật thể không thể xóa.&#xD;&#xA;" />
+    <TextStringDefinition InstanceID="0x153A0ABB" TextString="Vật thể này không thể xóa." />
+    <TextStringDefinition InstanceID="0x0737FC29" TextString="Đã đến lúc chụp một số bức ảnh tự nhiên của {2.SimFirstName}! {M2.Anh ấy}{F2.Cô ấy} sẽ thích chúng!" />
+    <TextStringDefinition InstanceID="0x32B8CC4E" TextString="Thời gian chụp ảnh! Nói cheese!" />
+    <TextStringDefinition InstanceID="0x409D4315" TextString="Sẽ không lâu, chỉ cần một giấc ngủ ngắn và {1.SimFirstName} sẽ cảm thấy như mới! ...Hoặc ít nhất là bớt mệt một chút..." />
+    <TextStringDefinition InstanceID="0x47462B47" TextString="Một phong cách Woohoo ở miền Tây thực sự..." />

@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x222D5DE2" TextString="Nảy" />
+    <TextStringDefinition InstanceID="0xB9EDF032" TextString="Cho uống sữa bằng bình" />
+    <TextStringDefinition InstanceID="0x5DD4BB96" TextString="Lớn lên!" />
+    <TextStringDefinition InstanceID="0x395239BF" TextString="Chơi với đồ chơi" />
+    <TextStringDefinition InstanceID="0x859A5C77" TextString="Xếp hàng" />
+    <TextStringDefinition InstanceID="0x9511F6A2" TextString="Vươn người" />
+    <TextStringDefinition InstanceID="0x61177DA7" TextString="Sim đã rời đi rồi!" />
+    <TextStringDefinition InstanceID="0xA329A25E" TextString="Chuyển đến sống cùng nhau!" />
+    <TextStringDefinition InstanceID="0xB8AB2E42" TextString="Nhấn OK để chuyển đến 'Tách khỏi Hộ gia đình và Di chuyển' để chỉnh sửa Sim nào sẽ sống trong hộ gia đình nào." />
+    <TextStringDefinition InstanceID="0xE5F26647" TextString="Bức tranh này khiến {0.SimFirstName} đầy nỗi đau sâu sắc. Huyền thoại nói rằng nếu bạn nhìn đủ lâu, nỗi đau sẽ tràn ra khỏi canvas và vào phòng." />
+    <TextStringDefinition InstanceID="0x02FE324B" TextString="Ngắm nhìn Không khí Lễ hội" />
+    <TextStringDefinition InstanceID="0x3C73C61F" TextString="Đây là gì?" />
+    <TextStringDefinition InstanceID="0xE38F0AA9" TextString="Xem Nghệ thuật Cát" />
+    <TextStringDefinition InstanceID="0xB0F7F3EA" TextString="(Từ việc xem Bức vẽ Tuyết)" />
+    <TextStringDefinition InstanceID="0x1DF5274E" TextString="(Từ việc xem Bức vẽ Cát)" />
+    <TextStringDefinition InstanceID="0x892D9A85" TextString="Hình ảnh: &quot;Một con diệc xám săn mồi trong một hồ nước gần đó khi các học sinh tập luyện tại trường võ thuật nổi tiếng của Shang Simla, The Phoenix Academy&quot;" />
+    <TextStringDefinition InstanceID="0x3D8A8871" TextString="&quot;Chỉ cách khu phố sôi động và lấp lánh của Los Sueños Strip vài dãy nhà, một người yêu động vật với đôi mắt tinh tường có thể phát hiện nhím, thỏ rừng, và thậm chí là hươu đuôi trắng thỉnh thoảng.&quot;" />
+    <TextStringDefinition InstanceID="0x0357337F" TextString="&quot;Núi Komorebi nổi tiếng trên toàn thế giới với môn trượt tuyết tuyệt vời và suối nước nóng phục hồi, nhưng có nhiều kỳ quan thiên nhiên bên ngoài sườn dốc của Yukimatsu.&quot;" />
+    <TextStringDefinition InstanceID="0xF7FE45D7" TextString="&quot;Cảnh quan ngoạn mục của Granite Falls thực sự khiến bạn thở dốc, hãy đảm bảo để dành một ít oxy trong trường hợp bạn cần trốn chạy khỏi một trong số nhiều con gấu của khu vực.&quot;" />
+    <TextStringDefinition InstanceID="0x1DBDD2CB" TextString="Điều tra Hang động" />
+    <TextStringDefinition InstanceID="0x968492B9" TextString="(Từ việc xem Bức chân dung của Lady Mimsy Alcorn Shallot trong Vườn)" />
+    <TextStringDefinition InstanceID="0xCB67034C" TextString="Trân trọng Bức chân dung" />
+    <TextStringDefinition InstanceID="0xFA34D561" TextString="Điều tra Tượng Cordelia" />
+    <TextStringDefinition InstanceID="0xA4138EE4" TextString="Thể hiện Cảm xúc" />
+    <TextStringDefinition InstanceID="0x2F56950A" TextString="Thể hiện Cảm xúc về Nghệ thuật" />
+    <TextStringDefinition InstanceID="0xDF9CCB09" TextString="Sự thể hiện của tâm hồn luôn cảm động..." />
+    <TextStringDefinition InstanceID="0xD2CDD73F" TextString="Nó thiếu cảm xúc như mong muốn... Nhưng không tệ!" />
+    <TextStringDefinition InstanceID="0x4E2B8101" TextString="Một số cảm xúc không thể diễn tả bằng lời..." />
+    <TextStringDefinition InstanceID="0xE5943629" TextString="Phê bình Tác phẩm" />
+    <TextStringDefinition InstanceID="0x72252D23" TextString="Đánh giá Ấn tượng" />
+    <TextStringDefinition InstanceID="0xBB1E1B4F" TextString="Bán theo Giá" />
+    <TextStringDefinition InstanceID="0x8EE3BD24" TextString="Thu thập Cảm hứng" />
+    <TextStringDefinition InstanceID="0x3D3B58A0" TextString="Kiểm tra Bức tranh" />
+    <TextStringDefinition InstanceID="0xB08D23AF" TextString="Đánh giá Nghiêm túc" />
+    <TextStringDefinition InstanceID="0xC2DF6577" TextString="Cây cung này hiện đang được trang bị." />
+    <TextStringDefinition InstanceID="0x84940DC0" TextString="(Từ Cuộc thi Bắn cung)" />
+    <TextStringDefinition InstanceID="0x5A44BC50" TextString="{0.SimFirstName} không nên bắn cung với Cơ xoay bị xé." />
+    <TextStringDefinition InstanceID="0x10DB36A6" TextString="Xem Cá" />
+    <TextStringDefinition InstanceID="0x3FA8F6AF" TextString="Đầy đủ Cá" />
+    <TextStringDefinition InstanceID="0xC6D3A102" TextString="Chăm sóc Bản thân" />
+    <TextStringDefinition InstanceID="0x5BF604B4" TextString="Đi đến Căn hộ Cùng với" />
+    <TextStringDefinition InstanceID="0x512528A9" TextString="Trang phục cho {1.ObjectName}" />
+    <TextStringDefinition InstanceID="0x9BF90D5D" TextString="Tôi sẽ bắt đầu may trang phục ngay khi có thể. Hãy chờ một bưu kiện trong thư chứa trang phục động vật mới của bạn!" />
+    <TextStringDefinition InstanceID="0x0CC6A5AF" TextString="Nâng cấp hoàn tất!\n\n{0.SimFirstName} đã hoàn thành việc nâng cấp loa đồng hồ báo thức." />
+    <TextStringDefinition InstanceID="0x69FF0BCD" TextString="Nâng cấp Loa" />
+    <TextStringDefinition InstanceID="0xA57F1ADF" TextString="Tăng phạm vi hiệu quả của báo thức." />
+    <TextStringDefinition InstanceID="0xC8A6BB56" TextString="Đặt báo thức cho tất cả Sim trong khu vực." />
+    <TextStringDefinition InstanceID="0xC8A37E9C" TextString="Hủy thời gian báo thức" />
+    <TextStringDefinition InstanceID="0x2EB91F2C" TextString="Hủy tất cả báo thức trên đồng hồ báo thức." />
+    <TextStringDefinition InstanceID="0x4F7ADF97" TextString="8 giờ tối" />

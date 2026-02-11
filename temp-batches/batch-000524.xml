@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xA6FD0D30" TextString="Hương vị kỳ lạ" />
+    <TextStringDefinition InstanceID="0x16321A15" TextString="Có gì đó không đúng với hương vị, nhưng điều đó sẽ không ngăn được {0.SimFirstName} muốn nhảy hay tiệc tùng!" />
+    <TextStringDefinition InstanceID="0xF05806F6" TextString="Món ăn được cải thiện" />
+    <TextStringDefinition InstanceID="0xC19178AF" TextString="Có gì đó về hương vị món ăn này khiến nó gần gũi." />
+    <TextStringDefinition InstanceID="0xC292CE16" TextString="Đồ uống được cải thiện" />
+    <TextStringDefinition InstanceID="0x7EB13F4F" TextString="Có gì đó về hương vị đồ uống này khiến nó gần gũi." />
+    <TextStringDefinition InstanceID="0xC6C8CDA1" TextString="Nước táo sủi tuyệt vời" />
+    <TextStringDefinition InstanceID="0xC664C79E" TextString="Luôn có thể tin tưởng vào Nước táo sủi để giữ cho người uống sôi nổi." />
+    <TextStringDefinition InstanceID="0x299664EF" TextString="Fondue ngon" />
+    <TextStringDefinition InstanceID="0x1C5908A0" TextString="Phô mai tan dường như làm tan chảy vị giác của bạn." />
+    <TextStringDefinition InstanceID="0xDBD43D10" TextString="Món ngon trái cây!" />
+    <TextStringDefinition InstanceID="0xE8B53875" TextString="Có thực sự có trái cây trong chiếc bánh đó không? Không quan trọng, nó thật ngon!" />
+    <TextStringDefinition InstanceID="0x48CD11A5" TextString="Tôi vừa ăn gì vậy?" />
+    <TextStringDefinition InstanceID="0xC0ABE6FA" TextString="Ốc! Có ai thực sự ăn món bánh trái cây đó không?!" />
+    <TextStringDefinition InstanceID="0x74BA2B24" TextString="(Từ việc hoàn thành buổi tập Epic Gains)" />
+    <TextStringDefinition InstanceID="0x38F25F0F" TextString="Cánh tay mì" />
+    <TextStringDefinition InstanceID="0x7A1ABF40" TextString="Cẩn thận các lọ dưa chua! Sẵn sàng để mở! {0.SimFirstName} đang trở nên mạnh mẽ hơn với mỗi buổi tập." />
+    <TextStringDefinition InstanceID="0x8FF98809" TextString="(Từ việc tập luyện cùng nhau)" />
+    <TextStringDefinition InstanceID="0x360A9E3A" TextString="Lợi ích nhóm " />
+    <TextStringDefinition InstanceID="0x07FF5C5B" TextString="Không có gì như tiếng rên đồng bộ để kéo các Sim lại gần nhau hơn. {0.SimFirstName} vượt qua những lần lặp lại và cảm giác lợi ích còn tốt hơn khi có đội cổ vũ xung quanh!" />
+    <TextStringDefinition InstanceID="0x56558BEA" TextString="(Từ việc hoàn thành Arm Curls)" />
+    <TextStringDefinition InstanceID="0x35AFB319" TextString="Có một số lợi ích" />
+    <TextStringDefinition InstanceID="0x13821886" TextString="Cái glow sau khi nâng tạ là thật. {0.SimFirstName} cảm thấy mạnh mẽ hơn, cơ bắp phình hơn và chỉ một chút tự mãn sau bộ đó!" />
+    <TextStringDefinition InstanceID="0x820C7208" TextString="(Từ việc hoàn thành buổi tập Arm Day )" />
+    <TextStringDefinition InstanceID="0x009B205B" TextString="Đang phồng lên" />
+    <TextStringDefinition InstanceID="0x8F9D61F4" TextString="Endorphins đang bắt đầu phát huy, và {0.SimFirstName} đang cảm nhận cơn xung từ buổi tập tay đó!" />
+    <TextStringDefinition InstanceID="0xB5D01EF1" TextString="Cơ bắp bị kéo" />
+    <TextStringDefinition InstanceID="0x63C492CE" TextString="Ái chà, mọi thứ đều đau! Có lẽ đó là ép quá mức một chút..." />
+    <TextStringDefinition InstanceID="0xA496D056" TextString="Buổi tập tốt" />
+    <TextStringDefinition InstanceID="0x3754C78F" TextString="Một buổi tập tốt luôn nâng cao tinh thần!" />
+    <TextStringDefinition InstanceID="0x8B00F611" TextString="Nguồn cảm hứng được giải phóng!" />
+    <TextStringDefinition InstanceID="0xBFB7FB6E" TextString="Thực hành thực hành thực hành và tác phẩm nghệ thuật hoàn hảo sẽ không lảng tránh một người lâu." />
+    <TextStringDefinition InstanceID="0xF33888F8" TextString="Biểu hiện nghệ thuật" />
+    <TextStringDefinition InstanceID="0x775C572D" TextString="Nước sáng tạo đang chảy sau khi hoàn thành một canvas vẽ mới." />
+    <TextStringDefinition InstanceID="0xDDD96CF5" TextString="Hoan hô! Đồ uống!" />
+    <TextStringDefinition InstanceID="0x9229F86A" TextString="Ngon ngon, đồ uống đó thật ngon!" />
+    <TextStringDefinition InstanceID="0x671DE67B" TextString="Trao đổi chất tăng cường" />
+    <TextStringDefinition InstanceID="0x48F7AC94" TextString="Trà đã cho bạn một cú hích lớn về năng lượng!" />
+    <TextStringDefinition InstanceID="0x9DF4416A" TextString="Aura khỏe mạnh" />
+    <TextStringDefinition InstanceID="0x15EADA6B" TextString="Trà này có tác dụng chữa lành tuyệt vời." />
+    <TextStringDefinition InstanceID="0xBD9A7110" TextString="Trà nóng" />
+    <TextStringDefinition InstanceID="0xC4BA3475" TextString="Trà khiến bạn muốn nói &quot;Hello, Nurse!&quot;" />
+    <TextStringDefinition InstanceID="0x67A6739B" TextString="Cốc đậm đặc" />
+    <TextStringDefinition InstanceID="0x91FFF034" TextString="Trà khiến bạn cảm thấy như bạn có thể làm bất cứ điều gì!" />
+    <TextStringDefinition InstanceID="0xC0A478AA" TextString="Đen tuyền" />
+    <TextStringDefinition InstanceID="0x74ECA5AB" TextString="Một chút caffeine có thể giúp một Sim tập trung." />
+    <TextStringDefinition InstanceID="0x52E5ACEA" TextString="Snaggle Flustered" />
+    <TextStringDefinition InstanceID="0xF2C140EB" TextString="Cái Snaggle Fluster đó đang gây ra một chút hỗn loạn trong bụng của {0.SimFirstName}, nhưng {M0.he}{F0.she} cảm thấy như {M0.he}{F0.she} có thể học bất cứ điều gì ngay bây giờ." />
+    <TextStringDefinition InstanceID="0x56F187FC" TextString="Chất nhầy ghê tởm" />
+    <TextStringDefinition InstanceID="0xF38AC8F9" TextString="Ốc! Thứ hỗn hợp đó chẳng gì khác là ghê tởm!" />

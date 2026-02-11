@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xD5D4DD60" TextString="Tạo Gói Đồ Dùng: Lần Bầu Chọn Thứ Hai" />
+    <TextStringDefinition InstanceID="0xBC10A69A" TextString="Chúng tôi đang trao cho bạn và những người chơi Sim khác cơ hội giúp chúng tôi tạo nên một Gói Đồ Dùng! Hãy bầu chọn những vật thể yêu thích của bạn cho gói này!" />
+    <TextStringDefinition InstanceID="0xBC10A69D" TextString="Chúng tôi đang trao cho bạn và những người chơi Sim khác cơ hội giúp chúng tôi tạo nên một Gói Đồ Dùng! Hãy bầu chọn những món đồ trang phục yêu thích của bạn cho gói này!" />
+    <TextStringDefinition InstanceID="0xBC10A69C" TextString="Chúng tôi đang trao cho bạn và những người chơi Sim khác cơ hội giúp chúng tôi tạo nên một Gói Đồ Dùng! Hãy bầu chọn phong cách nghệ thuật yêu thích của bạn ngay bây giờ!" />
+    <TextStringDefinition InstanceID="0xBC10A69F" TextString="Chúng tôi đang trao cho bạn và những người chơi Sim khác cơ hội giúp chúng tôi tạo nên một Gói Đồ Dùng! Hãy bầu chọn chủ đề yêu thích của bạn ngay bây giờ, và chờ đón những cuộc bầu chọn tiếp theo trong vài tháng tới!" />
+    <TextStringDefinition InstanceID="0x7C45259D" TextString="Ghé thăm The Sims trên YouTube" />
+    <TextStringDefinition InstanceID="0xC4A5609B" TextString="Ghé thăm The Sims trên Twitter" />
+    <TextStringDefinition InstanceID="0x2C53BB94" TextString="Ghé thăm The Sims trên Instagram" />
+    <TextStringDefinition InstanceID="0x7C10055E" TextString="Ghé thăm The Sims trên Facebook" />
+    <TextStringDefinition InstanceID="0x94C122C3" TextString="{0.Number}/{1.Number}" />
+    <TextStringDefinition InstanceID="0x4F6AB02E" TextString="Câu hỏi {0.Number} trong tổng số {1.Number}" />
+    <TextStringDefinition InstanceID="0x9C3BCAF1" TextString="Phải nộp một câu trả lời." />
+    <TextStringDefinition InstanceID="0xE8AD2E0F" TextString="Nộp" />
+    <TextStringDefinition InstanceID="0x7312DBA0" TextString="Tiếp theo" />
+    <TextStringDefinition InstanceID="0xD48456E2" TextString="Tham gia Khảo sát" />
+    <TextStringDefinition InstanceID="0x8124518B" TextString="Thoát Khảo sát" />
+    <TextStringDefinition InstanceID="0xE9094091" TextString="Trông thật chất {0.String}!" />
+    <TextStringDefinition InstanceID="0xE9094090" TextString="Bình tĩnh lại đi, {0.String}." />
+    <TextStringDefinition InstanceID="0xE909409F" TextString="Làm điên đi, {0.String}." />
+    <TextStringDefinition InstanceID="0xE909409E" TextString="Hoan hô! {0.String} đã đến rồi!" />
+    <TextStringDefinition InstanceID="0xE909409D" TextString="{0.String}, bạn thật tuyệt vời." />
+    <TextStringDefinition InstanceID="0xE909409C" TextString="Ôi trời, cây cọp sữa, {0.String}!" />
+    <TextStringDefinition InstanceID="0x7490B435" TextString="Chúc vui vẻ khi chơi Sim, {0.String}!" />
+    <TextStringDefinition InstanceID="0x7490B432" TextString="{0.String}! Tên hay quá!" />
+    <TextStringDefinition InstanceID="0x7490B433" TextString="Than ôi! Là {0.String}!" />
+    <TextStringDefinition InstanceID="0x7490B430" TextString="Một {0.String} hiếm!" />
+    <TextStringDefinition InstanceID="0x7490B431" TextString="Một {0.String} có vảy!" />
+    <TextStringDefinition InstanceID="0xE909409B" TextString="Đến giờ chơi rồi, {0.String}" />
+    <TextStringDefinition InstanceID="0x7390B257" TextString="{0.String}? Thú vị đấy!" />
+    <TextStringDefinition InstanceID="0x7390B256" TextString="Có gì mới không, {0.String}?" />
+    <TextStringDefinition InstanceID="0x7390B259" TextString="Bạn có phép thuật không, {0.String}?" />
+    <TextStringDefinition InstanceID="0x7390B258" TextString="Ồ! Một con {0.String} hoang dã." />
+    <TextStringDefinition InstanceID="0x7390B25B" TextString="Bạn đã đến rồi, {0.String}!" />
+    <TextStringDefinition InstanceID="0x7390B25A" TextString="Làm tốt lắm, {0.String}." />
+    <TextStringDefinition InstanceID="0x7390B25D" TextString="{0.String} là câu trả lời." />
+    <TextStringDefinition InstanceID="0x7390B25C" TextString="{0.String}? Trời ơi!" />
+    <TextStringDefinition InstanceID="0x7390B25F" TextString="Eeny meeny miny {0.String}" />
+    <TextStringDefinition InstanceID="0x7390B25E" TextString="Banana fofana, {0.String}." />
+    <TextStringDefinition InstanceID="0xE909409A" TextString="Chúng tôi nhớ bạn, {0.String}." />
+    <TextStringDefinition InstanceID="0x7290B0E2" TextString="Ồ! {0.String} ngoài đời thật!" />
+    <TextStringDefinition InstanceID="0x7290B0E3" TextString="Bạn là {0.String} THẬT?!!!" />
+    <TextStringDefinition InstanceID="0x7290B0EC" TextString="PewPew! Tia laser! {0.String}" />
+    <TextStringDefinition InstanceID="0x7290B0ED" TextString="Meep meep, {0.String}!" />
+    <TextStringDefinition InstanceID="0x7290B0EE" TextString="Ngọt hay cay {0.String}?" />
+    <TextStringDefinition InstanceID="0x7290B0EF" TextString="Hãy lấp lánh lên, {0.String}." />
+    <TextStringDefinition InstanceID="0x7290B0E8" TextString="Ồ, một {0.String} sáng chói!" />
+    <TextStringDefinition InstanceID="0x7290B0E9" TextString="{0.String}, hãy NHẢY!" />
+    <TextStringDefinition InstanceID="0x7290B0EA" TextString="Mmm! {0.String}? Ngon." />
+    <TextStringDefinition InstanceID="0x7290B0EB" TextString="Làm thật sặc sỡ lên, {0.String}!" />
+    <TextStringDefinition InstanceID="0xE9094099" TextString="Sul sul, {0.String}." />

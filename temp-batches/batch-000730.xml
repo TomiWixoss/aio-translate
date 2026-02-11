@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xD1B3916B" TextString="Thêm Moodlet" />
+    <TextStringDefinition InstanceID="0xAE78CFDE" TextString="Sử dụng GSI để thêm moodlet hoặc |sims.add_buff" />
+    <TextStringDefinition InstanceID="0xBAC80E56" TextString="{2.String}" />
+    <TextStringDefinition InstanceID="0x539BB285" TextString="Phục vụ {1.ObjectName}" />
+    <TextStringDefinition InstanceID="0x947A069B" TextString="Luyện tập" />
+    <TextStringDefinition InstanceID="0x43D3781D" TextString="Cảm hứng cải thiện kỹ năng chơi piano!" />
+    <TextStringDefinition InstanceID="0xD93A7E79" TextString="{0.SimFirstName} sẽ có thể sử dụng đàn piano trên sân khấu Sims Sessions sau khi các buổi biểu diễn kết thúc!" />
+    <TextStringDefinition InstanceID="0x7FC9EBB5" TextString="Viết Jingle" />
+    <TextStringDefinition InstanceID="0xE70DDD71" TextString="Vuốt ve phím đàn" />
+    <TextStringDefinition InstanceID="0x232D57EB" TextString="Luyện tập có thể rất vui vẻ khi có tâm trạng phù hợp." />
+    <TextStringDefinition InstanceID="0x7E6C4B1A" TextString="Trình diễn bản nhạc tình tứ" />
+    <TextStringDefinition InstanceID="0x352C163E" TextString="Nghe Serenade" />
+    <TextStringDefinition InstanceID="0xC1024C4C" TextString="Luyện tập" />
+    <TextStringDefinition InstanceID="0x90E056C4" TextString="Chơi đàn để cảm hứng" />
+    <TextStringDefinition InstanceID="0xB31B1E0D" TextString="Chơi" />
+    <TextStringDefinition InstanceID="0xE17EF65B" TextString="Trình diễn bản nhạc tình tứ" />
+    <TextStringDefinition InstanceID="0x9B0E582B" TextString="Sim phải trưởng thành để thực hiện tương tác này" />
+    <TextStringDefinition InstanceID="0x0DA30C6E" TextString="(Từ việc thích đàn piano)" />
+    <TextStringDefinition InstanceID="0xDE5702CF" TextString="(Từ việc không thích đàn piano)" />
+    <TextStringDefinition InstanceID="0x080A3C58" TextString="Thắp nến lên! Tạo không gian lãng mạn! {0.SimFirstName} sắp thực hiện WooHoo lần đầu tiên!" />
+    <TextStringDefinition InstanceID="0x3BD986D0" TextString="Đặt chín bộ xương độc nhất từ bộ sưu tập sugar skull vào trong hộp này để mở khóa tương tác này." />
+    <TextStringDefinition InstanceID="0xE8EBE8D8" TextString="Người đã khuất đã được tôn vinh gần đây và cần được nghỉ ngơi." />
+    <TextStringDefinition InstanceID="0xB578E62B" TextString="Tôn vinh người đã khuất" />
+    <TextStringDefinition InstanceID="0x133E0FE5" TextString="Tẩy trang" />
+    <TextStringDefinition InstanceID="0x4B997850" TextString="Chơi với trang điểm" />
+    <TextStringDefinition InstanceID="0xA3CF1C7E" TextString="Kẻ mắt đen" />
+    <TextStringDefinition InstanceID="0x5961C2D4" TextString="Mắt xám / Môi hồng bóng" />
+    <TextStringDefinition InstanceID="0xDC4FA2E3" TextString="Mắt xanh / Môi Satin Đồng" />
+    <TextStringDefinition InstanceID="0x33696925" TextString="Mắt xanh / Môi hồng bóng" />
+    <TextStringDefinition InstanceID="0xAD9CABE8" TextString="Mắt xanh / Môi xanh bóng" />
+    <TextStringDefinition InstanceID="0xA61516E3" TextString="Mắt xanh nhạt / Môi hồng" />
+    <TextStringDefinition InstanceID="0x45D9B73C" TextString="Mắt đen / Môi Satin Đen" />
+    <TextStringDefinition InstanceID="0x65E67337" TextString="Mắt đen / Môi cam bóng" />
+    <TextStringDefinition InstanceID="0x296C80C8" TextString="Mắt đen" />
+    <TextStringDefinition InstanceID="0x1A0B2FA4" TextString="Kẻ mắt đen / Môi Satin Hồng" />
+    <TextStringDefinition InstanceID="0xF96C404E" TextString="Mắt mèo đen" />
+    <TextStringDefinition InstanceID="0xCDB87406" TextString="Mắt tím / Môi đỏ" />
+    <TextStringDefinition InstanceID="0xA064659F" TextString="Mắt ngọc lam / Môi Satin Đỏ" />
+    <TextStringDefinition InstanceID="0x6A338FB0" TextString="Mắt ngọc lam / Môi hồng đào" />
+    <TextStringDefinition InstanceID="0x9A566471" TextString="Mắt ngọc lam / Môi san hô" />
+    <TextStringDefinition InstanceID="0xFBDE8C2B" TextString="Bạc &amp; Đen / Môi Satin Đồng" />
+    <TextStringDefinition InstanceID="0xAB65D722" TextString="Bạc &amp; Hồng / Môi hồng" />
+    <TextStringDefinition InstanceID="0x580550E1" TextString="Bạc &amp; Xanh lá / Môi Satin San hô" />
+    <TextStringDefinition InstanceID="0xCC1AE9E0" TextString="Bạc &amp; Nâu / Môi Satin Đỏ" />
+    <TextStringDefinition InstanceID="0xDCA8EDB2" TextString="Bạc &amp; Nâu / Môi Satin Beige" />
+    <TextStringDefinition InstanceID="0x17A1708A" TextString="Bạc &amp; Xanh dương / Môi Satin Đỏ" />
+    <TextStringDefinition InstanceID="0x89C8D113" TextString="Bạc &amp; Xanh dương / Môi Satin Xanh dương" />
+    <TextStringDefinition InstanceID="0x38286D3C" TextString="Bạc &amp; Xanh dương / Môi hồng đào" />
+    <TextStringDefinition InstanceID="0x85497CFD" TextString="Mắt đỏ" />
+    <TextStringDefinition InstanceID="0x8F576E2E" TextString="Mắt tím / Môi Satin Tím" />

@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x8488E054" TextString="Phải được đặt trên mái nhà." />
+    <TextStringDefinition InstanceID="0xA805D66B" TextString="Phải được đặt trong phòng trên tầng trệt." />
+    <TextStringDefinition InstanceID="0x8BE68125" TextString="Phải được đặt trên Đài phun nước." />
+    <TextStringDefinition InstanceID="0x29BE5808" TextString="Phải được đặt trên sàn." />
+    <TextStringDefinition InstanceID="0xFF13B25E" TextString="Phải được đặt trên đỉnh của phòng." />
+    <TextStringDefinition InstanceID="0xAF164855" TextString="Phải được đặt trên tường của phòng, cầu thang hoặc mái nhà." />
+    <TextStringDefinition InstanceID="0xC84A2C60" TextString="Phải được đặt trong phòng hoặc trên mái nhà." />
+    <TextStringDefinition InstanceID="0x5CDA2171" TextString="Phải được đặt trong phòng." />
+    <TextStringDefinition InstanceID="0x34BF0CA7" TextString="Phải được đặt trên tường." />
+    <TextStringDefinition InstanceID="0x823E21C2" TextString="Phải được đặt dựa vào hàng rào." />
+    <TextStringDefinition InstanceID="0xBD38D6EE" TextString="Phải được đặt trên tường phòng." />
+    <TextStringDefinition InstanceID="0xCC17C00A" TextString="Không thể cập nhật cầu thang." />
+    <TextStringDefinition InstanceID="0x616113DB" TextString="Đỉnh cầu thang nằm ngoài lô đất." />
+    <TextStringDefinition InstanceID="0x51E0275E" TextString="Đỉnh cầu thang không kết nối với sàn." />
+    <TextStringDefinition InstanceID="0xB0566D37" TextString="Đỉnh cầu thang phải kết nối với mặt đất chung." />
+    <TextStringDefinition InstanceID="0x5EC39635" TextString="Cầu thang quá rộng." />
+    <TextStringDefinition InstanceID="0x579B496B" TextString="Cầu thang không nằm trên cạnh lưới sàn." />
+    <TextStringDefinition InstanceID="0xAF97F2CA" TextString="Cầu thang cần có mặt đất hoặc sàn ở đỉnh." />
+    <TextStringDefinition InstanceID="0x3CF481E0" TextString="Cầu thang cần có mặt đất hoặc sàn ở đáy." />
+    <TextStringDefinition InstanceID="0x274D8D73" TextString="Cầu thang không thể chạm đến mặt đất." />
+    <TextStringDefinition InstanceID="0x91AB7959" TextString="Cầu thang phải kết nối với sàn." />
+    <TextStringDefinition InstanceID="0xA5FA3683" TextString="Cầu thang phải được căn chỉnh theo lưới." />
+    <TextStringDefinition InstanceID="0xF9BB7AB2" TextString="Thiếu tài nguyên cầu thang." />
+    <TextStringDefinition InstanceID="0xC7C41C4D" TextString="Cầu thang có đối tượng trò chơi không hợp lệ." />
+    <TextStringDefinition InstanceID="0xAC610B10" TextString="Bên cầu thang không được căn chỉnh theo lưới." />
+    <TextStringDefinition InstanceID="0x2F061DD2" TextString="Cầu thang mô-đun không có bậc thang." />
+    <TextStringDefinition InstanceID="0xB516E491" TextString="Cầu thang không tồn tại." />
+    <TextStringDefinition InstanceID="0x4C5457EA" TextString="Cầu thang không thể dành không gian trên tầng dưới." />
+    <TextStringDefinition InstanceID="0x87756C82" TextString="Vị trí đặt không hợp lệ ở đỉnh cầu thang." />
+    <TextStringDefinition InstanceID="0x0D39163F" TextString="Cầu thang mô-đun không thể đặt trên địa hình." />
+    <TextStringDefinition InstanceID="0x2DFBF455" TextString="Cầu thang không thể đặt trong Nước có thể bơi." />
+    <TextStringDefinition InstanceID="0x5AC267E2" TextString="Vị trí đặt không hợp lệ ở đỉnh cầu thang." />
+    <TextStringDefinition InstanceID="0xBDB97988" TextString="Vị trí đặt không hợp lệ ở đáy cầu thang." />
+    <TextStringDefinition InstanceID="0x3887867F" TextString="Đáy cầu thang nằm ngoài lô đất." />
+    <TextStringDefinition InstanceID="0xB8D1D183" TextString="Đáy cầu thang phải kết nối với mặt đất chung." />
+    <TextStringDefinition InstanceID="0x83F69E91" TextString="Cầu thang bị chặn bởi tường." />
+    <TextStringDefinition InstanceID="0x58C56733" TextString="Cầu thang mô-đun tự chồng chéo." />
+    <TextStringDefinition InstanceID="0x4DAFD2A5" TextString="Chiều dài cầu thang không hợp lệ." />
+    <TextStringDefinition InstanceID="0x3C5380ED" TextString="Cầu thang phải rộng ít nhất một ô." />
+    <TextStringDefinition InstanceID="0xB5FD79F4" TextString="Cầu thang mô-đun không thể đặt dưới vùng nước." />
+    <TextStringDefinition InstanceID="0xC5D46BB8" TextString="Cầu thang mô-đun không thể đặt trong nước." />
+    <TextStringDefinition InstanceID="0x7397D0DE" TextString="Cầu thang không thể chồng chéo với Móng cọc." />
+    <TextStringDefinition InstanceID="0x0E23616E" TextString="Thiếu tài nguyên viền." />
+    <TextStringDefinition InstanceID="0xCAA6710A" TextString="Đối tượng thiếu tài nguyên khe." />
+    <TextStringDefinition InstanceID="0x55960E20" TextString="Mái nhà bị thiếu." />
+    <TextStringDefinition InstanceID="0xADF5DE2E" TextString="Thiếu tài nguyên mảnh bo tròn." />
+    <TextStringDefinition InstanceID="0xAB527547" TextString="Đối tượng thiếu tài nguyên diện tích chiếm chỗ." />
+    <TextStringDefinition InstanceID="0x54F72DE7" TextString="Thiếu quyền sở hữu." />
+    <TextStringDefinition InstanceID="0xA4CDF807" TextString="Thiếu bản vẽ." />
+    <TextStringDefinition InstanceID="0xC93A69BA" TextString="Không tìm thấy Trình quản lý phòng." />

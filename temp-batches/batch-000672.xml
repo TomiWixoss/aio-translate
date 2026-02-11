@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x37291B38" TextString="Bạn cần nhiều hơn một chiếc bếp nướng để tổ chức một bữa tiệc nướng thành công!\n\nHãy mua một quầy bar, máy phát nhạc, hoặc bàn chơi game." />
+    <TextStringDefinition InstanceID="0xC5DBEE70" TextString="Mua một vật dụng tùy chọn cho bữa tiệc nướng" />
+    <TextStringDefinition InstanceID="0x888CC7F5" TextString="Bếp nướng là bắt buộc để tổ chức bữa tiệc nướng... Hãy mua một chiếc từ Chế độ Mua!" />
+    <TextStringDefinition InstanceID="0xF829FBDB" TextString="Mua một chiếc bếp nướng" />
+    <TextStringDefinition InstanceID="0x9D783450" TextString="Yêu cầu Lập trình cấp 9 để mở khóa tương tác Tạo Game Video. Để tăng kỹ năng Lập trình, hãy nhấp vào Máy tính và chọn bất kỳ tương tác nào trong danh mục Lập trình." />
+    <TextStringDefinition InstanceID="0x549D2978" TextString="Đạt đến Cấp 9\nKỹ năng Lập trình" />
+    <TextStringDefinition InstanceID="0x195A68A6" TextString="Yêu cầu Lập trình cấp 7 để mở khóa tương tác Tạo Ứng dụng Di động. Để tăng kỹ năng Lập trình, hãy nhấp vào Máy tính và chọn bất kỳ tương tác nào trong danh mục Lập trình." />
+    <TextStringDefinition InstanceID="0xC7E6FA56" TextString="Đạt đến Cấp 7\nKỹ năng Lập trình" />
+    <TextStringDefinition InstanceID="0x1E65D3AD" TextString="Đạt đến Cấp 6\nKỹ năng Lập trình" />
+    <TextStringDefinition InstanceID="0x19C7E60A" TextString="Lewis đã chia sẻ một phần hỗn hợp tăng cường trí óc của ông ấy, Snaggle Fluster! Chọn vật phẩm trong Ngăn đồ của Sim và nhấp vào Uống để trải nghiệm tốc độ tăng kỹ năng nhanh hơn." />
+    <TextStringDefinition InstanceID="0xAED11FB2" TextString="Uống\nSnaggle Fluster" />
+    <TextStringDefinition InstanceID="0xBFCB7B75" TextString="Lựa chọn đối thoại và thẻ cơ hội đôi khi xuất hiện khi các Sim đang xã hội hoặc đi làm. Các lựa chọn có hậu quả, vì vậy hãy chọn thông minh!" />
+    <TextStringDefinition InstanceID="0x8022665B" TextString="Nghe Đề xuất của Lewis" />
+    <TextStringDefinition InstanceID="0x196BC18B" TextString="Lewis đã lấy một bản in không gian trang trí cho Nova! Quà tặng được lưu trong kho đồ của Sim. Để treo nó trên tường nhà, hãy nhấp vào Ngăn đồ Sim, chọn Bản in Không gian và kéo nó đến tường mong muốn." />
+    <TextStringDefinition InstanceID="0x31C4B859" TextString="Treo Bản in Không gian" />
+    <TextStringDefinition InstanceID="0x06846590" TextString="Thực hiện các tương tác Thân thiện hoặc Hài hước để hàn gắn sự khác biệt với Lewis và trở thành Bạn tốt." />
+    <TextStringDefinition InstanceID="0x1999F0B8" TextString="Trở thành Bạn\ncủa Lewis" />
+    <TextStringDefinition InstanceID="0x9A23C89C" TextString="Các Sim muốn theo đuổi cách thức độc lập để tự nuôi sống bản thân có thể nghỉ việc để có thêm thời gian rảnh. Để nghỉ việc, hãy nhấp vào điện thoại và chọn Nghỉ việc dưới Ứng dụng Kinh doanh." />
+    <TextStringDefinition InstanceID="0x8CB9E8FC" TextString="Nghỉ việc của bạn" />
+    <TextStringDefinition InstanceID="0x3FC123FC" TextString="Đặt Con sên Không gian" />
+    <TextStringDefinition InstanceID="0xAE63650A" TextString="Tuyên bố Lewis\nlà Kẻ thù của bạn" />
+    <TextStringDefinition InstanceID="0x81B4A888" TextString="Lewis thực sự thay đổi chưa? Và còn món quà thì sao? Nova sẽ biết khi Lewis đến! Để tăng tốc thời gian chờ đợi, hãy nhấp vào nút Tốc độ Cực nhanh!" />
+    <TextStringDefinition InstanceID="0xD74B3AC0" TextString="Chờ Lewis Đến" />
+    <TextStringDefinition InstanceID="0x56E987A8" TextString="Một số Sim có đạo đức công việc đáng ngờ! Nhấp vào máy tính và chọn tương tác Hack trong Lập trình. Sau đó chọn, Hiệu suất công việc." />
+    <TextStringDefinition InstanceID="0x140F94E0" TextString="Hack Hiệu suất Công việc" />
+    <TextStringDefinition InstanceID="0x0323A7FB" TextString="Đó là giọt nước tràn ly! Nova muốn đánh nhau với đối thủ của cô ấy. Để Đánh nhau, hãy nhấp vào một Sim và chọn tương tác Đánh nhau trong danh mục Ác." />
+    <TextStringDefinition InstanceID="0xA302C389" TextString="Đánh Lewis" />
+    <TextStringDefinition InstanceID="0xE0927AE5" TextString="Đặc điểm Lô Internet Nhanh cấp thêm 50% cho bất kỳ kỹ năng nào được xây dựng trên máy tính. Chọn Đặc điểm Lô này bằng cách vào Chế độ Xây dựng và nhấp vào Thông tin Địa điểm ở góc trái trên. Sau đó, truy cập Bảng Đặc điểm và chọn Internet Nhanh." />
+    <TextStringDefinition InstanceID="0x42085ECB" TextString="Có Internet Nhanh" />
+    <TextStringDefinition InstanceID="0x5F8C1A0B" TextString="Được thăng chức lên: Doanh nhân Khởi nghiệp hoặc Người chơi eSports" />
+    <TextStringDefinition InstanceID="0xAAEEFDCC" TextString="Nova cần tập trung! Đã đến lúc lấy Giải thưởng Đổi mới cũ của cô ấy từ Kho đồ Gia đình và đặt nó gần laptop như lời nhắc về mục tiêu cô ấy muốn đạt được! Những vật phẩm loại này được trao cho Sim sau khi thăng chức nghề nghiệp, và có thể tìm thấy bằng cách nhấp vào Chế độ Mua và sau đó vào Kho đồ Gia đình." />
+    <TextStringDefinition InstanceID="0xC926A5AC" TextString="Trưng bày Phần thưởng Nghề nghiệp" />
+    <TextStringDefinition InstanceID="0x51CD075E" TextString="Các nghề nghiệp phân nhánh sau khi đạt các cấp độ cao hơn. Sau khi Sim của bạn được thăng chức, bạn sẽ được nhắc chọn một chuyên môn cho Sim của mình!" />
+    <TextStringDefinition InstanceID="0x8AE80A9E" TextString="Được Thăng chức lên:\nThuyền trưởng Phát triển" />
+    <TextStringDefinition InstanceID="0x3F1B1E8B" TextString="Khi bạn xem xét tất cả các hoạt động trải nghiệm qua đêm đã xong, hãy nhấp vào một Chiếc giường và chọn Ngủ." />
+    <TextStringDefinition InstanceID="0x7C9BAF59" TextString="Kết thúc Giai đoạn:\nĐi Ngủ" />
+    <TextStringDefinition InstanceID="0x0A4B4AA5" TextString="Thực hiện các tương tác từ danh mục Lãng mạn để xây dựng mối quan hệ với Lewis. Thật sự... hoặc có lẽ chỉ để làm tan vỡ trái tim anh ta." />
+    <TextStringDefinition InstanceID="0x0B08388B" TextString="Tán tỉnh Lewis" />
+    <TextStringDefinition InstanceID="0x9718E1D2" TextString="Các tương tác Thân thiện và Hài hước giúp các Sim giảm bớt hận thù và gần gũi hơn. Hãy thử tương tác Xì xồ dưới danh mục Thân thiện hoặc tương tác Kể chuyện hài dưới danh mục Hài hước. Đó có thể là cơ hội để tìm hiểu về quá khứ của Nova và Lewis..." />
+    <TextStringDefinition InstanceID="0xDFF4772A" TextString="Kết nối\nlại với Lewis" />
+    <TextStringDefinition InstanceID="0x8D1C35AD" TextString="Nhấp vào Lewis và chọn Mời ở lại qua đêm dưới danh mục Thân thiện hoặc chọn Đuổi đi dưới danh mục Ác." />
+    <TextStringDefinition InstanceID="0x40FB1B23" TextString="Quyết định: Mời Lewis Ở lại hay Đuổi Lewis Đi" />
+    <TextStringDefinition InstanceID="0x116FB461" TextString="Thực hiện 3 tương tác từ danh mục Thân thiện hoặc Hài hước để cải thiện mối quan hệ hoặc 3 tương tác từ danh mục Ác để khiến họ tức giận." />
+    <TextStringDefinition InstanceID="0x3F65446F" TextString="Thân thiện hoặc Ác\nvới Lewis" />
+    <TextStringDefinition InstanceID="0x564B6F0C" TextString="Hôm nay có một số tin đồn gây sốc ở nơi làm việc. Nova phải chờ một cuộc gọi điện thoại để xác nhận chúng." />
+    <TextStringDefinition InstanceID="0x8E80B6EC" TextString="Chờ cuộc gọi về\ntin đồn sa thải..." />
+    <TextStringDefinition InstanceID="0x35875FF3" TextString="Hoàn thành Nhiệm vụ Hàng ngày" />
+    <TextStringDefinition InstanceID="0x0FDF840F" TextString="Mua một Chiếc giường có Độ năng lượng 6 trở lên để Sim của bạn phục hồi năng lượng nhanh hơn và có thêm thời gian rảnh trong ngày. Các chiếc giường có thể mua từ Chế độ Xây dựng trong danh mục Chức năng Thoải mái." />
+    <TextStringDefinition InstanceID="0x06F5F2A5" TextString="Mua Giường có\nĐộ Năng lượng 6" />
+    <TextStringDefinition InstanceID="0x580A863F" TextString="Các Sim có thể trả thù kẻ thù của họ bằng cách mua một Con búp bê Voodoo. Nhấp vào máy tính và chọn Đặt hàng, sau đó Mua Con búp bê Voodoo để tìm thấy một Con búp bê Voodoo trong kho đồ của Nova." />

@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x894672E6" TextString="Chúng ta đang nói về cùng một người phải không? {2.SimFirstName} và tôi có mối quan hệ rất tốt, vì vậy hãy dừng lại đi." />
+    <TextStringDefinition InstanceID="0x37A0428C" TextString="Tôi không thể chịu đựng việc lắng nghe thêm nữa. Trong trường hợp bạn không biết, {2.SimFirstName} và tôi rất thân thiết; hãy ngừng nói xấu {F2.cô ấy}{M2.anh ấy}!" />
+    <TextStringDefinition InstanceID="0xDCC2FFAB" TextString="Ồ {0.SimFirstName}, bạn đang nói về một trong những người bạn thân nhất của tôi đây; dừng lại đi!" />
+    <TextStringDefinition InstanceID="0xE09E586C" TextString="{M2.Anh ấy}{F2.Cô ấy} không có vẻ thú vị lắm." />
+    <TextStringDefinition InstanceID="0x8585A16C" TextString="Này {0.SimFirstName}! Tôi đã quyết định về {2.SimFirstName} rồi. Mỗi lần chúng tôi ở bên nhau, chúng tôi tiếp tục ghét nhau nhiều hơn một chút." />
+    <TextStringDefinition InstanceID="0x111BA64F" TextString="{2.SimFirstName} và tôi hiện không ở trong những điều kiện tốt nhất, tôi nghĩ đó không phải là một ý kiến hay." />
+    <TextStringDefinition InstanceID="0xB057C521" TextString="Về vấn đề đó... {2.SimFirstName} và tôi thường xuyên cãi nhau, tôi thà không khiến nó tệ hơn nữa." />
+    <TextStringDefinition InstanceID="0xA33216B0" TextString="Xin lỗi {0.SimFirstName}, nhưng tôi quá bận lúc này để dành thời gian tìm hiểu {2.SimFirstName} kỹ hơn." />
+    <TextStringDefinition InstanceID="0x0A317716" TextString="Sau khi nghe những gì bạn nói, tôi không cảm thấy muốn trò chuyện với {2.SimFirstName}. Tôi nghĩ tôi sẽ từ chối lần này!" />
+    <TextStringDefinition InstanceID="0x2632BE43" TextString="Tôi không biết. {2.SimFirstName}? Bạn không thuyết phục lắm." />
+    <TextStringDefinition InstanceID="0x119E1384" TextString="Bạn đang nói về cái gì vậy? Chúng tôi đang yêu nhau!" />
+    <TextStringDefinition InstanceID="0x98964AFD" TextString="Chúng tôi không cần ý kiến của bạn về mối quan hệ của chúng tôi, cảm ơn bạn rất nhiều!" />
+    <TextStringDefinition InstanceID="0x78FEB44D" TextString="Bạn là ai mà dạy tôi phải làm gì? Tôi yêu {2.SimFirstName} và bạn sẽ không thay đổi được điều đó!" />
+    <TextStringDefinition InstanceID="0x3D35B866" TextString="Bạn đúng, tôi có thể làm tốt hơn {M2.anh ấy}{F2.cô ấy} nhiều. Tôi sẽ chia tay với {2.SimFirstName} tối nay." />
+    <TextStringDefinition InstanceID="0x8F18489C" TextString="Thật sao? Tôi đoán chúng tôi không phải là một cặp đôi tuyệt vời. Tôi nên chấm dứt mọi chuyện rồi." />
+    <TextStringDefinition InstanceID="0xC431C417" TextString="Bạn đúng, {2.SimFirstName} và tôi không phải là một cặp phù hợp với nhau sau tất cả. Tôi sẽ nói chuyện với {F2.cô ấy}{M2.anh ấy}." />
+    <TextStringDefinition InstanceID="0xB520710B" TextString="(Từ Đặc điểm Tính cách Chống Băng)" />
+    <TextStringDefinition InstanceID="0x2AAFF653" TextString="Trong khi loại bỏ cỏ dại, {0.SimFirstName} tìm thấy một con ếch trốn trong {M0.vườn}{F0.vườn} của mình." />
+    <TextStringDefinition InstanceID="0x61229B69" TextString="Đài phun nước bị phá hoại" />
+    <TextStringDefinition InstanceID="0x0694FFBB" TextString="{0.SimFirstName} đã phá hoại một {1.ObjectName} và sẽ tránh lấy bất cứ thứ gì từ đó. Các Sim khác hãy coi chừng tác động mà {M0.sự can thiệp}{F0.sự can thiệp} của mình sẽ có trên nội dung của nó. " />
+    <TextStringDefinition InstanceID="0xB98779C6" TextString="(Từ Uống một Đồ uống Cải thiện)" />
+    <TextStringDefinition InstanceID="0x5E019C18" TextString="(Từ Học Các Hướng dẫn)" />
+    <TextStringDefinition InstanceID="0x60233826" TextString="(Từ Sử dụng Máy tính Quá Tải)" />
+    <TextStringDefinition InstanceID="0x664218D4" TextString="(Từ Gặp Gỡ Lớp Học)" />
+    <TextStringDefinition InstanceID="0xE501C7EA" TextString="(Từ Gặp Gỡ Một Khách hàng)" />
+    <TextStringDefinition InstanceID="0x6CDE4BF7" TextString="(Từ Trò chuyện Với Một Khách hàng)" />
+    <TextStringDefinition InstanceID="0x637F60CF" TextString="(Từ Thua Một Thử thách)" />
+    <TextStringDefinition InstanceID="0x49B02C26" TextString="{0.SimName} đã chia sẻ một mẹo câu cá chuyên gia với {2.SimName}. {2.SimFirstName} đã học về {1.ObjectName}, một loại cá hiếm mới. {1.ObjectName} chỉ có thể bắt được với đủ kỹ năng, mồi câu phù hợp và một chút may mắn của người câu cá. \n\n{2.SimFirstName} đã ghi lại thông tin về phát hiện này trong Sổ tay. Để tìm hiểu thêm, hãy nhấp bên dưới." />
+    <TextStringDefinition InstanceID="0x04834168" TextString="{0.SimName} đã kể cho {2.SimName} về {1.ObjectName}, một loại cá mới có thể bắt được ở mọi điểm câu cá. \n\n{2.SimFirstName} đã ghi lại thông tin về phát hiện này trong Sổ tay. Để tìm hiểu thêm, hãy nhấp bên dưới." />
+    <TextStringDefinition InstanceID="0x2E68B6CA" TextString="{2.SimName} đã tiết lộ cho {0.SimFirstName} một bí mật chỉ có người đánh cá địa phương biết. {0.SimFirstName} đã học về {1.ObjectName}, một loại cá hiếm mới được nhìn thấy ở một số điểm câu cá khó tìm. \n\n{2.SimFirstName} đã ghi lại thông tin về phát hiện này trong Sổ tay. Để tìm hiểu thêm, hãy nhấp bên dưới." />
+    <TextStringDefinition InstanceID="0xB56E79DF" TextString="{0.SimName} đã xác định {1.ObjectName}, một loại cá mới được báo cáo ở một số điểm câu cá, từ {2.SimName}.\n\n{0.SimFirstName} đã ghi lại thông tin về phát hiện gần đây trong Sổ tay. Để tìm hiểu thêm, hãy nhấp bên dưới." />
+    <TextStringDefinition InstanceID="0xBF3C69ED" TextString="{0.SimFirstName} kiểm tra nước và nhận thấy một {1.ObjectName}, nhưng không nhận thấy bất kỳ loại cá mới nào." />
+    <TextStringDefinition InstanceID="0x1096C263" TextString="Cá ở đây di chuyển nhanh và ẩn sâu dưới mặt nước. Sau khi nghiên cứu cẩn thận các mô hình di chuyển, {0.SimFirstName} xác định {1.ObjectName} khó bắt. \n\n{0.SimFirstName} đã ghi lại thông tin về phát hiện này trong Sổ tay. Để tìm hiểu thêm, hãy nhấp bên dưới." />
+    <TextStringDefinition InstanceID="0xD6CF4AB0" TextString="{0.SimFirstName} nhìn thấy những hình dạng không thể nhận diện di chuyển bên dưới mặt nước. Đây trông giống như một điểm tuyệt vời cho một người câu cá đẳng cấp như {0.SimFirstName} để thử vận may với những con cá khó bắt. " />
+    <TextStringDefinition InstanceID="0xA471009A" TextString="Nước đầy rẫy hoạt động và chuyển động! {0.SimFirstName} phát hiện một {1.ObjectName} đói đang chờ được bắt!  \n\n{0.SimFirstName} đã ghi lại thông tin về phát hiện này trong Sổ tay. Để tìm hiểu thêm, hãy nhấp bên dưới." />
+    <TextStringDefinition InstanceID="0x207BDEA5" TextString="{0.SimName} đã bắt được một con cá mới: {1.ObjectName}\n\n{0.SimFirstName} đã ghi lại thông tin về phát hiện này trong Sổ tay. Để tìm hiểu thêm, hãy nhấp bên dưới." />
+    <TextStringDefinition InstanceID="0xD5C944B7" TextString="Có vẻ như ai đó đang kiểm soát {M0.cuộc sống}{F0.cuộc sống} của mình. {0.SimFirstName} cuối cùng sẽ thực hiện {M0.ước mơ}{F0.ước mơ} của mình hay người đang kiểm soát {M0.cuộc sống}{F0.cuộc sống} của mình sẽ ngăn cản {M0.ước mơ}{F0.ước mơ} trở thành sự thật?" />
+    <TextStringDefinition InstanceID="0xC2C95BDE" TextString="Tìm hiểu Thêm về Nỗi Sợ" />
+    <TextStringDefinition InstanceID="0x0BB53FB2" TextString="Ồ! Nước trông khá sâu. {0.SimFirstName} nhớ lại tất cả những trải nghiệm đáng sợ khi ở trong nước. {F0.Cô ấy}{M0.Anh ấy} thà không trải nghiệm lại vùng nước rộng lớn và đáng sợ đó nữa." />
+    <TextStringDefinition InstanceID="0x63F2E9EF" TextString="(Từ Nỗi Sợ Bơi lội)" />
+    <TextStringDefinition InstanceID="0x330A7B4A" TextString="(Từ Nỗi Sợ Ma thuật)" />
+    <TextStringDefinition InstanceID="0xE131F21D" TextString="{0.SimFirstName} luôn tự tin vào niềm tin của mình về thế giới siêu nhiên. Điều gì đó về lần nhìn thấy ma cuối cùng khiến {0.SimPronounObjective} lo lắng. Nhìn thấy là tin, và giờ {0.SimFirstName} không thể thoát khỏi suy nghĩ trong {M0.đầu}{F0.đầu} rằng Ma có thể ở khắp mọi nơi. Luôn quan sát, luôn sẵn sàng nhảy ra và dọa {0.SimPronounObjective} bất cứ lúc nào." />
+    <TextStringDefinition InstanceID="0x67567697" TextString="(Từ Nỗi Sợ Ma)" />
+    <TextStringDefinition InstanceID="0x917022D1" TextString="(Từ Nỗi Sợ Lửa)" />
+    <TextStringDefinition InstanceID="0xF2522050" TextString="Lửa có thể là nguồn nhiệt thiết yếu hoặc một sự ấm áp dịu dàng trong một đêm lạnh. {0.SimFirstName} đã chứng kiến trực tiếp mặt phá hoại của lửa. {0.SimFirstName} không bao giờ muốn thấy điều đó lại nữa." />
+    <TextStringDefinition InstanceID="0x50A4FF9F" TextString="Mọi thứ dường như gần đây không diễn ra theo cách của {0.SimFirstName}. Nó chỉ là những tin tức tồi tệ sau tin tức tồi tệ. Mọi người liên tục nói &quot;Bạn chưa bao giờ biết cho đến khi bạn thử!&quot; nhưng không bao giờ nói về cảm giác sau khi thử điều mới và nó không thành công. {0.SimFirstName} không thể chịu thêm thất bại nữa; nó đáng sợ và quá đau đớn để thử lại." />
+    <TextStringDefinition InstanceID="0x6BA21DEE" TextString="(Từ Đánh Giá Hiệu Suất)" />
+    <TextStringDefinition InstanceID="0x02DECB87" TextString="Cái chết là không thể tránh khỏi. {0.SimFirstName} biết điều đó. {0.SimFirstName} chỉ không nghĩ rằng {M0.anh ấy}{F0.cô ấy} sẽ nghĩ về nó sớm như vậy. Vẫn còn rất nhiều việc cần làm! Làm thế nào {0.SimFirstName} sẽ hoàn thành mọi thứ nếu cái chết chỉ ở quanh góc? Có phải an toàn hơn là ẩn náu mãi mãi?!" />
+    <TextStringDefinition InstanceID="0xAE45C105" TextString="(Từ Kết bạn với Cái Chết)" />
+    <TextStringDefinition InstanceID="0x12A2E98F" TextString="Đã bao lâu rồi? {0.SimFirstName} không thể không tự hỏi liệu sự nghiệp này có phù hợp với {M0.anh ấy}{F0.cô ấy} không. Một điều chắc chắn, cần phải có một số thay đổi, phải không?" />

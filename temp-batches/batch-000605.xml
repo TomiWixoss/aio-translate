@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xF42CF719" TextString="Tất cả" />
+    <TextStringDefinition InstanceID="0x03413C85" TextString="7-8 nhân vật" />
+    <TextStringDefinition InstanceID="0x00413832" TextString="4-6 nhân vật" />
+    <TextStringDefinition InstanceID="0xFE4134ED" TextString="2-3 nhân vật" />
+    <TextStringDefinition InstanceID="0x70CDFA69" TextString="1 nhân vật" />
+    <TextStringDefinition InstanceID="0x92EB955B" TextString="Có thú cưng" />
+    <TextStringDefinition InstanceID="0xDBA8A9AA" TextString="Không có thú cưng" />
+    <TextStringDefinition InstanceID="0xF851B80F" TextString="Ngựa" />
+    <TextStringDefinition InstanceID="0x7E670268" TextString="Chó" />
+    <TextStringDefinition InstanceID="0x670E8B56" TextString="Mèo" />
+    <TextStringDefinition InstanceID="0xC5563AB2" TextString="Tất cả" />
+    <TextStringDefinition InstanceID="0x94A99AB6" TextString="{0.Money} trở lên" />
+    <TextStringDefinition InstanceID="0x513A562A" TextString="{0.Money} - {1.Money}" />
+    <TextStringDefinition InstanceID="0x1B2AEF45" TextString="Tất cả" />
+    <TextStringDefinition InstanceID="0x558A4EA8" TextString="Không tìm thấy mục này." />
+    <TextStringDefinition InstanceID="0xC484E33E" TextString="Xem hồ sơ" />
+    <TextStringDefinition InstanceID="0xBF787AC8" TextString="Xem chi tiết mục" />
+    <TextStringDefinition InstanceID="0x76877F10" TextString="{0.String} đã chia sẻ một Phòng: {1.String}." />
+    <TextStringDefinition InstanceID="0x6AD8CF9E" TextString="{0.String} đã chia sẻ một Hình xăm: {1.String}." />
+    <TextStringDefinition InstanceID="0x03244804" TextString="{0.String} đã chia sẻ một Hộ gia đình: {1.String}." />
+    <TextStringDefinition InstanceID="0x89D87B16" TextString="{0.String} đã chia sẻ một Lô đất: {1.String}." />
+    <TextStringDefinition InstanceID="0x2CBFB333" TextString="{0.String} đã đăng một Phòng: {1.String}." />
+    <TextStringDefinition InstanceID="0x256D5AA9" TextString="{0.String} đã đăng một Hình xăm: {1.String}." />
+    <TextStringDefinition InstanceID="0x51EAF221" TextString="{0.String} đã đăng một Hộ gia đình: {1.String}." />
+    <TextStringDefinition InstanceID="0x193E805F" TextString="{0.String} đã đăng một Lô đất: {1.String}." />
+    <TextStringDefinition InstanceID="0xBB6FAA06" TextString="{0.String} đã yêu thích một Phòng: {1.String}." />
+    <TextStringDefinition InstanceID="0xE5592014" TextString="{0.String} đã yêu thích một Hình xăm: {1.String}." />
+    <TextStringDefinition InstanceID="0x10729E96" TextString="{0.String} đã yêu thích một Hộ gia đình: {1.String}." />
+    <TextStringDefinition InstanceID="0x90AA5738" TextString="{0.String} đã yêu thích một Lô đất: {1.String}." />
+    <TextStringDefinition InstanceID="0x11E96DEC" TextString="Bạn đã chia sẻ một Phòng: {0.String}." />
+    <TextStringDefinition InstanceID="0xDDFFE7BA" TextString="Bạn đã chia sẻ một Hình xăm: {0.String}." />
+    <TextStringDefinition InstanceID="0x92BBE4D0" TextString="Bạn đã chia sẻ một Hộ gia đình: {0.String}." />
+    <TextStringDefinition InstanceID="0x0813464A" TextString="Bạn đã chia sẻ một Lô đất: {0.String}." />
+    <TextStringDefinition InstanceID="0x885E2EC6" TextString="Bạn đã lưu một Phòng: {0.String}." />
+    <TextStringDefinition InstanceID="0xB24937D4" TextString="Bạn đã lưu một Hình xăm: {0.String}." />
+    <TextStringDefinition InstanceID="0xBAB00A56" TextString="Bạn đã lưu một Hộ gia đình: {0.String}." />
+    <TextStringDefinition InstanceID="0xB9119BF8" TextString="Bạn đã lưu một Lô đất: {0.String}." />
+    <TextStringDefinition InstanceID="0x191B5288" TextString="{0.String} đang theo dõi bạn." />
+    <TextStringDefinition InstanceID="0x1F631603" TextString="Bạn có {0.Number} {P0.followers}{S0.follower} mới." />
+    <TextStringDefinition InstanceID="0xB3E91DAE" TextString="{0.String} đã bình luận trên hồ sơ của bạn." />
+    <TextStringDefinition InstanceID="0x3B4B7DDC" TextString="{0.String} đã bình luận trên {1.String}." />
+    <TextStringDefinition InstanceID="0x7FFBCB7F" TextString="Hình xăm của bạn: {0.String} đã được gửi đến Thử thách Spark'd!" />
+    <TextStringDefinition InstanceID="0xD470907F" TextString="Thời gian: {0.String}" />
+    <TextStringDefinition InstanceID="0xD4E90BA9" TextString="Địa điểm: Gần {0.String}" />
+    <TextStringDefinition InstanceID="0x5AA868CF" TextString="Kết quả" />
+    <TextStringDefinition InstanceID="0x6898DF63" TextString="Sắp kết thúc" />
+    <TextStringDefinition InstanceID="0xDE67D149" TextString="{0.Number} giờ {1.Number} phút" />
+    <TextStringDefinition InstanceID="0x7A4B47ED" TextString="{0.Number} ngày {1.Number} giờ" />
+    <TextStringDefinition InstanceID="0x12E1EEAC" TextString="Kết thúc trong:" />
+    <TextStringDefinition InstanceID="0x286F2D4D" TextString="Thử nghiệm đã kết thúc" />

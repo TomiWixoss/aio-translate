@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x09657B9A" TextString="Tự tin giúp tăng tốc độ học kỹ năng!" />
+    <TextStringDefinition InstanceID="0xA39C2D6D" TextString="Nghe bài giảng về {2.String}" />
+    <TextStringDefinition InstanceID="0xBC00A58C" TextString="(Từ việc nghe bài giảng)" />
+    <TextStringDefinition InstanceID="0xDE9693AD" TextString="Đọc bia mộ" />
+    <TextStringDefinition InstanceID="0x1E50ECDC" TextString="Đi đến gần" />
+    <TextStringDefinition InstanceID="0x646D2EC3" TextString="{0.SimFirstName} hiện đang được cưỡi và không thể được gọi đến." />
+    <TextStringDefinition InstanceID="0xF753DC1B" TextString="Chờ thú cưng" />
+    <TextStringDefinition InstanceID="0x3E12C540" TextString="Đi đến chỗ đó" />
+    <TextStringDefinition InstanceID="0x05B4FC1D" TextString="Là một ma, tôi phải cảnh báo bạn về mối nguy sắp xảy ra. Sự kiệt sức của người cao tuổi đang đến gần. Hãy cẩn thận và nghỉ ngơi tốt, vì thế giới bên kia chưa gọi.\nTrân trọng trong sự cảnh giác siêu nhiên,\n{0.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x2CD91D45" TextString="Bạn hiện đang bị bao quanh bởi điện tích đang lách tách! Là một ma biết một chút về điều đó, tôi đề nghị bạn lùi lại trước khi nó giật bạn.\nHãy an toàn,\n{0.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xDB411A2B" TextString="Chỉ một lời cảnh báo thân thiện từ thế giới bên kia, nước có thể nguy hiểm! Hãy bơi cẩn thận và giữ an toàn. Thế giới bên kia chưa gọi bạn.\nHãy cảnh giác,\n{0.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xE79800AC" TextString="Cảnh báo nguy hiểm" />
+    <TextStringDefinition InstanceID="0x31A3A529" TextString="Tăng hoặc giảm thời gian tâm trạng từ trạng thái là ma chết vì tuổi già." />
+    <TextStringDefinition InstanceID="0x0FF2EDD2" TextString="Lấy đồ ăn nhẹ từ thế giới bên kia" />
+    <TextStringDefinition InstanceID="0x1AC99E9E" TextString="Tạo một đồ ăn nhẹ trong kho đồ từ trạng thái là ma chết vì đói." />
+    <TextStringDefinition InstanceID="0xF79E280C" TextString="Dập tắt ngọn lửa" />
+    <TextStringDefinition InstanceID="0x182D01DC" TextString="Dập tắt mọi loại ngọn lửa từ trạng thái là ma chết vì lửa." />
+    <TextStringDefinition InstanceID="0xB75E3E39" TextString="Xuống ngựa" />
+    <TextStringDefinition InstanceID="0xE9A5B210" TextString="Cưỡi ngựa" />
+    <TextStringDefinition InstanceID="0x715734E3" TextString="Lấy lại đam mê" />
+    <TextStringDefinition InstanceID="0xFDF16BC2" TextString="{0.SimFirstName} đã thử điều đó gần đây" />
+    <TextStringDefinition InstanceID="0xB3BCE335" TextString="(Từ việc cố gắng lấy lại đam mê sự nghiệp)" />
+    <TextStringDefinition InstanceID="0x2720EAFB" TextString="Yêu cầu Kỹ năng Gây Sự 6 trở lên." />
+    <TextStringDefinition InstanceID="0x64A1D8A7" TextString="Xem công việc vui vẻ" />
+    <TextStringDefinition InstanceID="0x2CC1E8AA" TextString="Xem công việc hạnh phúc" />
+    <TextStringDefinition InstanceID="0xFA92D494" TextString="Xem công việc tự tin" />
+    <TextStringDefinition InstanceID="0x96A9E2FF" TextString="Xem trò chơi" />
+    <TextStringDefinition InstanceID="0x63B4E1F5" TextString="Chơi phi tiêu" />
+    <TextStringDefinition InstanceID="0xE4132944" TextString="Tham gia chơi phi tiêu" />
+    <TextStringDefinition InstanceID="0x17CD7105" TextString="Yêu cầu tham gia chơi phi tiêu" />
+    <TextStringDefinition InstanceID="0x0A74D07D" TextString="Luyện tập phi tiêu" />
+    <TextStringDefinition InstanceID="0x65F469F4" TextString="Chơi phi tiêu" />
+    <TextStringDefinition InstanceID="0x72D32C84" TextString="Chơi phi tiêu" />
+    <TextStringDefinition InstanceID="0x43061670" TextString="Chế giễu người chơi phi tiêu" />
+    <TextStringDefinition InstanceID="0x43301963" TextString="Cổ vũ người chơi phi tiêu" />
+    <TextStringDefinition InstanceID="0x4E09F0E0" TextString="Cảm ơn bạn đã mua {1.ObjectName}." />
+    <TextStringDefinition InstanceID="0x55AD704C" TextString="75%" />
+    <TextStringDefinition InstanceID="0x7B4C5787" TextString="500%" />
+    <TextStringDefinition InstanceID="0x0AC9826F" TextString="50%" />
+    <TextStringDefinition InstanceID="0x61DFE3A1" TextString="300%" />
+    <TextStringDefinition InstanceID="0x4DB88B9F" TextString="25%" />
+    <TextStringDefinition InstanceID="0x71DD5AC8" TextString="200%" />
+    <TextStringDefinition InstanceID="0xF13D56DB" TextString="100%" />
+    <TextStringDefinition InstanceID="0x94BCCB12" TextString="0%" />
+    <TextStringDefinition InstanceID="0x67531691" TextString="Bắt đầu bán hàng đường phố" />
+    <TextStringDefinition InstanceID="0x450DD3D3" TextString="Dọn bàn" />
+    <TextStringDefinition InstanceID="0x68DB50E9" TextString="Duyệt bàn" />
+    <TextStringDefinition InstanceID="0xEE996A51" TextString="Chơi với" />
+    <TextStringDefinition InstanceID="0x02C200EC" TextString="Thú cưng" />
+    <TextStringDefinition InstanceID="0xA230E006" TextString="Sữa" />

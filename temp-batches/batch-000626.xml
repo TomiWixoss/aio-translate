@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x489945BD" TextString="Không tìm thấy phòng." />
+    <TextStringDefinition InstanceID="0xE02FD130" TextString="Vượt quá độ dốc mái nhà tối đa." />
+    <TextStringDefinition InstanceID="0xBB8E46BD" TextString="Lô đất đã bị cách ly." />
+    <TextStringDefinition InstanceID="0x95672A06" TextString="Lô đất không thể chỉnh sửa" />
+    <TextStringDefinition InstanceID="0x638B956C" TextString="Không thể xây dựng dưới mực nước trên các lô đất ven nước" />
+    <TextStringDefinition InstanceID="0xDB4C9CB1" TextString="Không thể đặt ra ngoài ranh giới lô đất." />
+    <TextStringDefinition InstanceID="0xB51F1BCE" TextString="Lỗi nội bộ." />
+    <TextStringDefinition InstanceID="0xFE0F5BCC" TextString="Không thể đặt tường hoặc phòng trên tầng thứ tư trở lên." />
+    <TextStringDefinition InstanceID="0x225B7A47" TextString="Không thể xây dựng dưới mức tối thiểu." />
+    <TextStringDefinition InstanceID="0x8263C175" TextString="Không thể cập nhật thang." />
+    <TextStringDefinition InstanceID="0x56657A3A" TextString="Đỉnh thang nằm ngoài lô đất." />
+    <TextStringDefinition InstanceID="0x5F02ED45" TextString="Đỉnh thang không thẳng hàng với lưới." />
+    <TextStringDefinition InstanceID="0xDB73F6F0" TextString="Thang không thể rộng hơn một ô." />
+    <TextStringDefinition InstanceID="0x2EADF75D" TextString="Thang phải cao ít nhất một mét." />
+    <TextStringDefinition InstanceID="0xAB33D047" TextString="Thang cần có mặt đất hoặc sàn ở phía trên." />
+    <TextStringDefinition InstanceID="0x7EA2D7EB" TextString="Thang cần có mặt đất hoặc sàn ở phía dưới." />
+    <TextStringDefinition InstanceID="0x98C8A47C" TextString="Đỉnh thang phải kết nối với một khối hoặc địa hình." />
+    <TextStringDefinition InstanceID="0x44ED3326" TextString="Thang phải kết nối với sàn." />
+    <TextStringDefinition InstanceID="0x8E4FEFDF" TextString="Thiếu tài nguyên thang." />
+    <TextStringDefinition InstanceID="0xEE53E4AE" TextString="Thang có đối tượng trò chơi không hợp lệ." />
+    <TextStringDefinition InstanceID="0xC3FA8131" TextString="Cạnh thang không thẳng hàng với lưới." />
+    <TextStringDefinition InstanceID="0x04631417" TextString="Thang không có bậc thang." />
+    <TextStringDefinition InstanceID="0x5B7DBC65" TextString="Vị trí đặt không hợp lệ ở đỉnh thang." />
+    <TextStringDefinition InstanceID="0x8A8E2DD4" TextString="Không thể đặt thang trong địa hình." />
+    <TextStringDefinition InstanceID="0x810F5EAC" TextString="Không thể đặt thang trong nước có thể bơi." />
+    <TextStringDefinition InstanceID="0xA2AA6A0D" TextString="Vị trí đặt không hợp lệ ở chân thang." />
+    <TextStringDefinition InstanceID="0xE9983984" TextString="Thang không thể có nhiều tầng." />
+    <TextStringDefinition InstanceID="0x22AC47D8" TextString="Chân thang nằm ngoài lô đất." />
+    <TextStringDefinition InstanceID="0x001C8D78" TextString="Chiều dài thang không hợp lệ." />
+    <TextStringDefinition InstanceID="0xD5EAE710" TextString="Thang phải rộng một ô." />
+    <TextStringDefinition InstanceID="0x6BF72139" TextString="Không thể đặt thang dưới khu vực nước." />
+    <TextStringDefinition InstanceID="0x5FFABEBD" TextString="Không thể đặt thang trong nước." />
+    <TextStringDefinition InstanceID="0x4A345815" TextString="Thang không được chồng lên nền cột." />
+    <TextStringDefinition InstanceID="0x10A705F6" TextString="Không tìm thấy quản lý kho." />
+    <TextStringDefinition InstanceID="0xD8AD94E5" TextString="Vùng không hợp lệ." />
+    <TextStringDefinition InstanceID="0x11F6A1EE" TextString="Ràng buộc địa hình không hợp lệ" />
+    <TextStringDefinition InstanceID="0x08D1A05D" TextString="Không thể xoay đối tượng theo cách này" />
+    <TextStringDefinition InstanceID="0x20171E3C" TextString="Sản phẩm không hợp lệ." />
+    <TextStringDefinition InstanceID="0x3AF4816A" TextString="Thao tác không hợp lệ." />
+    <TextStringDefinition InstanceID="0x61091506" TextString="Dữ liệu thao tác không hợp lệ." />
+    <TextStringDefinition InstanceID="0x9874AEC1" TextString="Định nghĩa đối tượng không hợp lệ." />
+    <TextStringDefinition InstanceID="0xD3A868B6" TextString="Đối tượng không hợp lệ." />
+    <TextStringDefinition InstanceID="0xA5448D63" TextString="Mảnh bo tròn không hợp lệ." />
+    <TextStringDefinition InstanceID="0x4A54CF80" TextString="Lô đất không hợp lệ." />
+    <TextStringDefinition InstanceID="0x7494A2B0" TextString="Mặt phẳng không hợp lệ." />
+    <TextStringDefinition InstanceID="0x79E0E975" TextString="Giao cắt chéo không hợp lệ" />
+    <TextStringDefinition InstanceID="0x1A21BE36" TextString="Hình dạng phòng không hợp lệ." />
+    <TextStringDefinition InstanceID="0xD37072F8" TextString="Hình dạng phòng không hợp lệ." />
+    <TextStringDefinition InstanceID="0xAD2752D5" TextString="InvalidBlockPolygonOverlap" />
+    <TextStringDefinition InstanceID="0x48E8D63D" TextString="Giao cắt mảnh bo tròn không hợp lệ" />
