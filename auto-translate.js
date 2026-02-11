@@ -59,7 +59,7 @@ async function translateBatch(lines, batchIndex, retryCount = 0, messages = null
         const response = await aio.chatCompletion({
             provider: "nvidia",
             model: "stepfun-ai/step-3.5-flash",
-            systemPrompt: `Bạn là chuyên gia dịch The Sims 4 sang tiếng Việt. KHÔNG dịch: "The Sims 4", "Sims", "Sim", "Social Bunny", "EA app", "Gallery". Giữ nguyên thẻ HTML (&lt;span&gt;, &lt;b&gt;), biến ({0.String}, {0.Number}), ký tự đặc biệt (\\n). Chỉ dịch văn bản, không thêm gì khác.`,
+            systemPrompt: `Bạn là chuyên gia dịch The Sims 4 sang tiếng Việt. Giữ nguyên tên riêng, thẻ HTML, biến, và ký tự đặc biệt. Chỉ dịch văn bản, không thêm giải thích.`,
             messages: messages,
             temperature: 0.3,
             top_p: 0.9,
