@@ -1,0 +1,100 @@
+Towel
+Tile
+Terracotta
+Tent
+Television
+Telescope
+Teddy Bear
+Teddy
+Tech Guru
+Tea
+Tarp
+Tank
+Tablet
+Table Cloth
+Table
+System
+Syrums
+Swimming Pool
+Swim
+Supplies
+Sunflower
+Stump
+Stuffed Animal
+Stuffed
+Striped
+Strategy
+Store
+Stool
+Stone
+Sticker
+Stereo
+Steps
+Statue
+Stand
+Sprinkler
+Spaceship
+Space Ranger
+Space
+Sound
+Social
+Soap
+Snowman
+Snow
+Sleep
+Skills
+Sit
+Must be at tile center.
+Must be at corner. 
+Must be applied to tall above ground level room.
+Must be applied to a staircase.
+Must be applied to a roof.
+Must be applied to a room above ground floor.
+Must be applied to Fountain.
+Must be applied to floor.
+Must be applied to top of room.
+Must be applied to the walls of a room, stair or roof.
+Must be applied to a room or roof.
+Must be applied to a room.
+Must be placed on a wall.
+Must be against a fence.
+Must be placed on a room wall.
+Couldn't update stairs.
+Top of stairs are off lot.
+Top of the staircase doesn't connect to the floor.
+Stairs' top must connect to common ground.
+Stairs too wide.
+Stairs not on floor grid edge.
+Stairs need ground or floor at the top.
+Stairs need ground or floor at the bottom.
+Stairs unable to reach the ground.
+Stairs must connect to floor.
+Stairs must be aligned to the grid.
+Missing stairs resource.
+Stairs have invalid game object.
+The side of the staircase isn't aligned to the grid.
+Modular stairs have no steps.
+Stairs do not exist.
+Stairs can't reserve space on lower floor.
+Invalid placement at top of stairs.
+Modular stairs can't be placed in terrain.
+Stairs cannot be placed in Swimmable Water.
+Invalid placement at top of stairs.
+Invalid placement at bottom of stairs.
+Bottom of stairs are off lot.
+Stairs' bottom must connect to common ground.
+Stairs blocked by wall.
+Modular stair intersects self
+Invalid stair length.
+Stairs must be at least one tile wide.
+Modular stairs can't be placed under water area.
+Modular stairs can't be placed in water.
+Stairs cannot intersect with Stilt Foundations.
+Missing trim resource.
+Object is missing its slot resource.
+Roof is missing.
+Rounded piece resource is missing.
+Object is missing its footprint resource.
+Entitlement missing.
+Missing blueprint.
+Room Manager not found.

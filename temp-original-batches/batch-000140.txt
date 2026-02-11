@@ -1,0 +1,100 @@
+Dog Size
+Hooves
+Wings
+Outfit
+Fur Shape
+Collar
+Horse Hair
+Coat Markings
+Designed By
+Add Horse
+{0.SimFirstName} retired as {1.String|enAn}! {M0.He}{F0.She} will receive a pension check every day based on {M0.his}{F0.her} salary at the time of retirement. Time to kick back and relax!
+{0.SimFirstName}'s Retirement Pay has arrived from being a dedicated {1.String} in the {2.String} Career!\n\n{3.Money} has been directly deposited into {M0.his}{F0.her} Household Funds.
+Enter a job description.
+You need at least one letter in your job title.
+Should {0.SimFirstName} switch jobs to {4.String}? {F0.She}{M0.He} will quit all of {F0.her}{M0.his} current positions upon accepting the new job.
+&lt;font color=&quot;#0949AB&quot;&gt;Gig Payout: &lt;/font&gt;&lt;font color=&quot;#10A317&quot;&gt;{0.Money} to {1.Money}&lt;/font&gt;\n&lt;font color=&quot;#0949AB&quot;&gt;Audition Time:&lt;/font&gt; &lt;font color=&quot;#10A317&quot;&gt;Skippable! &lt;/font&gt;\n&lt;font color=&quot;#0949AB&quot;&gt;Gig Time:&lt;/font&gt; &lt;font color=&quot;#10A317&quot;&gt;{2.DayOfWeekShort} {2.TimeShort}&lt;/font&gt;\n&lt;font color=&quot;#0949AB&quot;&gt;Recommended Skill:&lt;/font&gt;\n{3.String}
+&lt;font color=&quot;#0949AB&quot;&gt;Gig Payout:&lt;/font&gt;&lt;font color=&quot;#10A317&quot;&gt; {0.Money} to {1.Money}&lt;/font&gt;\n&lt;font color=&quot;#0949AB&quot;&gt;Audition:&lt;/font&gt;&lt;font color=&quot;#10A317&quot;&gt; {2.DayOfWeekShort} {2.TimeShort}&lt;/font&gt;\n&lt;font color=&quot;#0949AB&quot;&gt;Gig:&lt;/font&gt;&lt;font color=&quot;#10A317&quot;&gt; {3.DayOfWeekShort} {3.TimeShort}&lt;/font&gt;\n&lt;font color=&quot;#0949AB&quot;&gt;Recommended Skill:&lt;/font&gt; {4.String}
+Find a Job
+Should {0.SimFirstName} come out of retirement and work as {3.String|enAn}? {F0.She}{M0.He} will lose {F0.her}{M0.his} retirement benefits from being {1.String|enAn} upon rejoining the workforce.
+&lt;font color='#ff0000'&gt;Having been on the starting lineup of a university team means this professional position is available immediately and will come with higher pay, easier promotions, and more vacation days.&lt;/font&gt;\n
+Find a Job
+Should {0.SimFirstName} switch activities to {4.String}? {F0.She}{M0.He} will quit {F0.her}{M0.his} current position of {1.String} upon accepting to do a new activity.
+Reveal Photos
+Register Your Career
+What is your title?
+Register your Career
+Quit Job
+Are you sure {0.SimFirstName} should quit {M0.his}{F0.her} job as a {2.String}?
+Take PTO
+Miss Work
+Go to Work
+{0.SimFirstName} is a bit occupied right now. Should {M0.he}{F0.she} still go to work?
+Work Assignment: {1.String}
+Should {0.SimName} get a jump start and accept the assignment?
+{0.SimFirstName} has learned that {1.SimFirstName} is {2.String|enAn}.
+It's time for {0.SimFirstName} to head off to work. Would you care to follow?
+You have received a total of §{0.Number} rent from your tenants.\n\nThis does not include rent from tenants that are overdue. Check out the Owned Businesses panel to see which tenants are currently overdue.
+Rent Collected!
+While you were away, this household received rent and a total of §{0.Number} has been received.\n\nThis does not include rent from Tenants that are overdue on rent. Check out the Owned Businesses panel to see which tenants are currently overdue.
+Romantic Memory
+Inspiring Memory
+Confident Memory
+Angry Memory
+Embarrassing Memory
+Scary Memory
+Sad Memory
+Happy Memory
+Be Jealous
+Or is it? The last Sim in this household has died, but you can create more Sims, choose an existing household to play, or move another household in from The Gallery.
+Witness Death
+Elderly Demise
+Starving!
+Romance
+Go Home
+Comedy
+Sleep
+Party
+Change Outfit
+Formal
+Everyday
+Career
+Athletic
+Yell At
+Fire
+Dismiss
+Ask to Hang Out
+Pizza Delivery
+Maid
+for {0.Money}/hour
+No cost.
+for {0.Money}
+for {0.Money} plus {1.Money}/hour
+Looks like your place doesn't need my services today. I'll just head off to my next client.
+I don't work for free, you know. If you ever want my help again, you'd better get your act together and pay the {1.Money} bill I'll be sending you.
+Looks like I'm all done here. That'll be {0.Money}.
+Ok, I guess I'll stop working then. My fee will be {0.Money}.
+Guess I'm done here, then. My fee will be {0.Money}.
+Plead for {2.SimFirstName}
+More Choices
+{1.SimFirstName} cannot be disturbed right now.
+Romance
+Play Song
+Mean
+Violin
+Piano
+Guitar
+License Song
+Funny
+Friendly
+Be Mean To {1.SimFirstName}
+Be Friendly
+Repair
+Put in Inventory
+Put Down
+Put Away
+Open
+This object is currently empty.
+Collect
+Clean Up
+Clean

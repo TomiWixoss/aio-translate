@@ -1,0 +1,100 @@
+To increase Writing skill, write books on a Computer or read a Writing Skill Book. Skill Books can be purchased directly from a Bookshelf by using the Purchase Books interaction!
+Click on a Computer and select a genre of book to write under the Write category. Hover the cursor over a book to check its quality.
+Click on a Computer and select a genre of book to write under the Write category. Once the book is complete, click on the Mailbox to Publish it!
+To increase Writing skill, write books on a Computer or read a Writing Skill Book. Skill Books can be purchased directly from a Bookshelf by using the Purchase Books interaction!
+Click on a Computer and select a genre of book to write under the Write category. Hover the cursor over a book to check its quality.
+Click on a Computer and select a genre of book to write under the Write category. Computers can be purchased from Build Mode under the Study Room Sort.
+Click on a Computer and select a genre of book to write under the Write category. To become Inspired, take a Thoughtful Shower, Read a Book, or do Creative work.
+Write for {1.Number} Hour while Inspired
+Click on a Computer and select a genre of book to write under the Write category. Sims can unlock more genres by increasing their Writing Skill.
+Click on the Easel, then choose a Painting Style and Size. Hover the cursor over a painting to check its quality.
+To increase Painting skill, create paintings on an Easel or read a Painting Skill Book. Skill Books can be purchased directly from a Bookshelf by using the Purchase Books interaction!
+Click on the Easel, then choose a Painting Style and Size. Hover the cursor over a painting to check its quality.
+Travel to a Museum Venue using the World Map, then click on paintings to View them.
+View or Admire {1.Number} Paintings at a Museum
+Sims can create special paintings while in certain emotions. Click on the Easel, and select an Emotional Painting to begin.
+Click on a completed Painting to have your Sim sell it.
+To increase Painting skill, create paintings on an Easel or read a Painting Skill Book. Skill Books can be purchased directly from a Bookshelf by using the Purchase Books interaction!
+Achieve Level {1.Number} Painting Skill
+Click on the Easel, then choose a Painting Style and Size. To become Inspired, take a Thoughtful Shower, Read a Book, or do Creative work.
+Click on the Easel, then choose a Painting Style and Size. Easels can be purchased from Build Mode under the Study Room Sort.
+Achieve Level 10 Social Skill
+Make a BFF
+Achieve Level 5 Social Skill
+Make a Friend
+Meet {1.Number} New Sims
+To increase Social skill, talk to Toys or other Sims.
+Click on an adult Sim and perform Friendly or Funny Socials to increase Relationship!
+Become Friends with {1.Number} Adults
+Click on a child Sim and perform Friendly or Funny Socials to increase Relationship!
+Become Friends with {1.Number} other Children
+Click on a Sim and perform Friendly or Funny Socials to increase Relationship!
+To increase Social skill, talk to other Sims or Toys.
+Click on a Sim and perform Friendly or Funny Socials to increase Relationship!
+Click on unknown Sims and select Introduce!
+Earn a High Score on the Typing Game
+Make It Across the Monkey Bars {1.Number} Times
+Practice Typing {1.Number} Hours
+Play on a Jungle Gym while Playful
+To increase Motor skill, have them Practice Typing on the Computer or Play on the Monkey Bars.
+Click on a Computer and select Play Keyboard Commander until attaining a high score.
+Click on the Monkey Bars and select the Play interaction. The Monkey Bars can be purchased from Build Mode under the Outdoors Sort.
+Click on a Computer to Practice Typing.
+To increase Motor skill, Practice Typing on the Computer or Play on the Monkey Bars.
+Achieve Level {1.Number} Motor Skill
+Jungle Gym objects can be purchased from Build Mode under the Outdoors Sort.
+Achieve Level 10 Mental Skill
+Achieve a Grade of &quot;A&quot; at School
+Finish Homework {1.Number} Times while Focused
+Achieve Level 5 Mental Skill
+Play {1.Number} Games of Chess
+To increase Mental Skill, Play Chess or perform other intellectual tasks.
+Emotion potions can be created using the Science Table. The Science Table can be purchased from Build Mode under the Kids' Room Sort.
+Craft {1.Number} Emotional Potions
+To achieve an A grade at school, complete Homework and Grade Level Requirements. Going to school while Focused will also help!
+Homework can be found in the Sim's personal inventory. Do Homework for three straight hours without stopping or leaving the Focused emotion. To become Focused, Read a Book or Play Chess.
+Not Helping with Gardening
+Harvest Bonus ON
+Harvest Bonus OFF
+Rainbow
+Harvest Ready ON
+Harvest Ready OFF
+Special - Go to Sim
+Special - Go To Object
+Sleep for the night
+Run From Fire
+Rooster Crow (debug)
+Nest (Debug)
+Intimidate
+Animal Runs Away (debug)
+Teleport Home
+Flee Home
+Go Home (debug)
+Eat Special Feed (debug)
+Eat Trash
+Eat from Feeder
+(Debug) Drink Puddle
+Disappear
+Shed Animal to 4 (debug)
+Shed Animal to 3 (debug)
+Shed Animal to 2 (debug)
+Pen Animal to 1 (debug)
+Pen Animal to 0 (debug)
+Appear
+Spit
+Preen Idle (debug)
+Shed - Stand
+Shed - Sleep
+Shed - Eat
+Peck Idle (debug)
+Move
+Make Sound
+In Home - Stand
+In Home - Sleep
+At Home - Sit
+Help
+Eat
+Cute
+(Debug) Cry
+Confused
+Aggressive

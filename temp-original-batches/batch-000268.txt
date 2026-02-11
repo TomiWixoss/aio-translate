@@ -1,0 +1,100 @@
+Icelandic Sheepdog
+German Spitz
+Cardigan Welsh Corgi
+Cockapoo
+English Toy Spaniel
+Miniature Poodle
+Parson Russell Terrier
+Bocker
+Wheaten Terrier
+Labradoodle
+Bedlington Terrier
+Canaan
+Chow Lab Mix
+Dingo
+Great Pyrenees
+Kerry Blue Terrier
+Norse Elk Shepherd
+Shar Pei
+Tibetan Mastiff
+Black Russian Terrier
+Raccoon
+Square Deck
+Square Room
+Triangular Room
+Rounded Room (X-Large)
+Rounded Room (Large)
+Rounded Room
+Octagonal Room
+Square Room (Diagonal)
+Room Tool
+Drag to create a room. To delete, hold Ctrl and draw over the existing room to delete it. While in draw mode, hold Shift to switch to the Wall Tool.
+Wall Tool - B
+Drag to draw a wall. To delete, hold Ctrl and draw over the existing wall to delete it. While in draw mode, hold Shift to switch to the Room Tool.
+Triangle Pool
+Square Pool
+Rounded Pool (X-Large)
+Rounded Pool (Large)
+Rounded Pool
+Octagonal Pool
+Square Pool (Diagonal)
+Hint: Once you've placed a pool, use the horizontal arrows to resize it, the curved arrows to rotate it, and the multi-arrows button to move it.
+Pool Tool
+Hint: Click and drag to create desired pool shape. To quickly delete, hold CTRL and draw over the existing pool.
+Once you've placed a platform, use the vertical arrows to raise or lower it, the horizontal arrows to resize it, the curved arrows to rotate it, or the multi-arrow button to move it.
+Triangular Platform
+Square Platform
+Rounded Platform (X-Large)
+Rounded Platform (Large)
+Rounded Platform
+Octagonal Platform
+L-Shaped Platform
+Square Platform (Diagonal)
+Platform Tool
+Drag to create a platform. To delete, hold Ctrl and draw over the platform to delete it. You can adjust platform height after placement.
+Rounded Deck
+Once you've placed a room or deck, use the horizontal arrows to resize it, the curved arrows to rotate it, or the multi-arrow button to move it.
+L-Shaped Room
+Triangle Fountain
+Hint: Once you've placed a fountain, use the horizontal arrows to resize it, the curved arrows to rotate it, and the multi-arrows button to move it.
+Square Fountain
+Hint: Once you've placed a fountain, use the horizontal arrows to resize it, the curved arrows to rotate it, and the multi-arrows button to move it.
+Rounded Fountain (X-Large)
+Rounded Fountain (Large)
+Rounded Fountain
+Octagonal Fountain
+Hint: Once you've placed a fountain, use the horizontal arrows to resize it, the curved arrows to rotate it, and the multi-arrows button to move it.
+Square Fountain  (Diagonal)
+Hint: Once you've placed a fountain, use the horizontal arrows to resize it, the curved arrows to rotate it, and the multi-arrows button to move it.
+Fountain Tool
+Hint: Click and drag to create desired fountain shape. To quickly delete, hold CTRL and draw over the existing fountains.
+Custom Fountain Tool
+Hint: Drag to draw a fountain wall. Select the desired point on the grid in order to create desired shape. Double click to complete the desired shape.
+Flat Triangle
+Flat Square
+Flat Round
+Flat Octagon (Diagonal)
+(From Gardening Skill)
+(From Being Friends)
+(From Fitness Skill)
+(From Fishing Skill)
+(From Being at a Festival)
+(From Fear of Unfulfilled Dreams)
+(From Fear of Magic)
+(From Fear of Failure)
+(From Fear of Death)
+(From Fear of Being Burgled)
+(From Being Unfriendly)
+(From Being Enemies)
+(From Being Tense)
+(From Cooking Skill)
+(From Comedy Skill)
+(From Collecting Something)
+(From Being at the Nightclub)
+(From Doing Schoolwork)
+(From Social Skill)
+(From Motor Skill)
+(From Seeing a Monster Under the Bed)
+(From Mental Skill)
+(From Creativity Skill)
+(From Charisma Skill)

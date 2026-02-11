@@ -1,0 +1,100 @@
+&lt;b&gt;Not Awarded:&lt;/b&gt;
+&lt;b&gt;Pending:&lt;/b&gt;
+&lt;b&gt;Currently Active:&lt;/b&gt;
+&lt;b&gt;Awarded:&lt;/b&gt;
+{0.SimFirstName}'s Scholarship Status
+{1.String}{2.String}{3.String}{4.String} 
+{0.SimFirstName} has no scholarships to report!
+Knowing your Scholarships!
+(Not yet started)
+&lt;span class=&quot;negative&quot;&gt;Enrollment Status: Suspended&lt;/span&gt;
+&lt;span class=&quot;negative&quot;&gt;Enrollment Status: On Probation&lt;/span&gt;
+(none yet)
+Last Day of Class
+This Sim has Graduated. No more Terms to attend.
+&lt;b&gt;{0.String}&lt;/b&gt;\n&lt;b&gt;Degree Program:&lt;/b&gt; {1.String} 
+&lt;b&gt;{0.String}&lt;/b&gt;\n&lt;b&gt;Degree Program:&lt;/b&gt; {1.String} \n&lt;b&gt;GPA:&lt;/b&gt; {2.String} \n&lt;b&gt;Course Credits:&lt;/b&gt; {3.Number} of {4.Number}\n&lt;b&gt;Term Days Left:&lt;/b&gt; {5.String}
+Withdrew from University!
+{0.SimFirstName} has withdrawn from the {1.String} and will be unable to re-enroll for two days as the withdrawal is processed.
+Start of Term
+{0.SimName}'s university term begins today and will last for 5 weekdays! {M0.He}{F0.She} should take a look at {M0.his}{F0.her} class schedule and plan on when to do {M0.his}{F0.her} homework and study, when to eat, and - if there's time left - when to kick back and have some fun.
+Grade
+Course Name
+Final Grades
+Suspended!
+Smooth Fox Terrier
+The Smooth Fox Terrier is a highly energetic dog, and thus not recommended for first time dog owners. As the breed was originally bred to go after small animals they also have a high prey instinct, they are very friendly dogs and don't mind strangers.
+Pit Bull
+Pit bulls were created by breeding bulldogs and terriers together to produce a dog that combined the gameness and agility of the terrier with the strength of the bulldog.
+Newfoundland
+The Newfoundlands have webbed feet and a water-resistant coat. Known for its calm and docile nature and its strength. They are highly loyal and make ideal working dogs. It is for this reason that this breed is known as &quot;the gentle giant&quot;.
+Burmese
+Originally, all Burmese cats were dark brown (sable), but are now available in a wide variety of colours; formal recognition of these also varies by standard. Both versions of the breed are known for their uniquely social and playful temperament and persistent vocalisation.
+Boxer
+Boxers were originally bred to be medium-size guard dogs. Today, although they are a part of the AKC’s Working Group, they mostly find homes as loving family companions. Jill will change this later.
+Pharaoh Hound
+Pharaoh Hounds have no link with Ancient Egypt. However, a popular myth holds that the breed is descended from the Tesem, one of the ancient Egyptian hunting dogs. Some believe that there are similarities between the breed and images of dogs found on the walls of ancient Egyptian tombs.
+A tame feline descended from multiple/unknown breeds, often propagating without any intervention, record-keeping or selective reproduction. Commonly known as Domestic or Tomcats.&#xA;
+Japanese Bobtail
+The Japanese Bobtail is a breed of domestic cat with an unusual &quot;bobbed&quot; tail more closely resembling the tail of a rabbit than that of other cats. 
+Alaskan Malamute
+Alaskan Malamutes are still in use as sled dogs for personal travel, hauling freight, or helping move light objects; some, however, are used for the recreational pursuit of sledding, also known as mushing, as well as for skijoring, bikejoring, carting, and canicross.
+Havanese
+The Havanese is a toy dog. It is smart and can be easily trained. It is best to train this dog at a young age, because some habits will stick as they become older.
+Chartreux
+Chartreux cats are also known for their &quot;smile&quot;: due to the structure of their heads and their tapered muzzles, they often appear to be smiling. Chartreux are exceptional hunters and are highly prized by farmers.
+Oriental Shorthair
+Orientals are social, intelligent, and many are rather vocal. They often remain playful into adulthood, with many enjoying playing fetch. Despite their slender appearance, they are athletic and can leap into high places.
+English Springer Spaniel
+The typical Spaniel is friendly, eager to please, quick to learn and willing to obey. In the right circumstances they can be an affectionate and easy-going family dog.
+Russian Blue
+The Russian Blue is a cat breed that comes in colors varying from a light shimmering silver to a darker, slate grey. They develop close bonds with their owners and are sought out as pets due to their personalities, beauty and coat.
+King Charles Spaniel
+The breed is highly affectionate, playful, extremely patient and eager to please. As such, dogs of the breed are good with children and other dogs. Cavaliers are not shy about socialising with much larger dogs.
+Bengal
+The Bengal is a domestic cat breed developed to look like exotic jungle cats such as leopards, ocelots, margays and clouded leopards. Bengal cats were developed by the selective breeding of domestic cats and hybrids of the asian leopard cat.
+Siberian Husky
+The original Siberian Huskies were bred by the Chukchi people — whose hunter-gatherer culture relied on their help. It is an active, energetic, resilient breed, whose ancestors lived in the extremely cold and harsh environment of the Siberian Arctic.
+American Wirehair
+American Wirehairs are similar to American Shorthairs, with the exception of a springy, wiry coat, including ear fur, and whiskers. This coat is similar to the wire coats of some dog breeds, such as terriers. Their fur requires little grooming, although lighter cats may require sunblock.
+British Shorthair
+The British Shorthair is the pedigreed version of the traditional British domestic cat, with a distinctively chunky body, dense coat and broad face. Jill will change this wikipedia sourced text.
+Shih Tzu
+Although a Shih Tzu's temperament varies from dog to dog, the breed has a personality and temperament that is loyal, affectionate, outgoing, and alert. Training and proper socializing must start at a young age for the Shih Tzu to obey basic commands, for the Shih Tzu is prone to stubbornness when it comes to training.
+Bernese Mountain Dog
+Bernese are outdoor dogs at heart, though well-behaved in the house; they need activity and exercise, but do not have a great deal of endurance. They can move with amazing bursts of speed for their size when motivated.
+Samoyed
+Samoyeds' friendly disposition makes them poor guard dogs; an aggressive Samoyed is rare. The breed is characterized by an alert and happy expression which has earned the nicknames &quot;Sammie smile&quot; and &quot;smiley dog&quot;.
+Akita
+The Akita is a powerful, independent and dominant breed, commonly aloof with strangers but affectionate with family members.
+Tuxedo
+A bicolor cat or piebald cat is a cat with white fur combined with fur of some other color, for example black or tabby.
+Shiba Inu
+The Shiba is a relatively fastidious breed and feels the need to maintain itself in a clean state. They can often be seen licking their paws and legs, much like a cat. They generally go out of their way to keep their coats clean.
+Schipperke
+Known for a stubborn, mischievous, and headstrong temperament, it also chases small animals. The Schipperke is sometimes referred to as the &quot;little black fox&quot;, the &quot;Tasmanian black devil&quot;, or the &quot;little black devil&quot;. They are naturally curious and high-energy dogs and require ample exercise and supervision.
+Ocicat
+Ocicats are friendly and sociable and are not often shy around strangers. This makes them good family pets, and most can also get along well with animals of other species. Their temperament is similar to that of a dog and are often referred to as a &quot;dog in a cat's body&quot;.
+German Rex
+The German Rex is a medium-sized breed with slender legs of a medium length.It is considered a very friendly cat and quickly bonds with its owner. It is lively, playful, and intelligent.
+Rhodesian Ridgeback
+Rhodesian ridgebacks are loyal, intelligent, and somewhat aloof to strangers. This breed requires positive, reward-based training, good socialization and consistency; it is often not the best choice for inexperienced dog owners.
+Somali
+The Somalis are recognized for their bushy tails, large almond eyes, and large pointed ears, earning the breed its nickname of &quot;Fox Cat.&quot; Their ticked coats, containing between four and twenty colors on each hair, are very fine in texture, making their coats softer to the touch.
+Irish Terrier
+Irish Terriers are active dogs and need and enjoy consistent mental and physical challenges. Full of life, but not hyperactive; it should be able to relax inside the house and be roused to full activity level quickly.
+American Eskimo
+The American Eskimo is an affectionate, loving dog. The breed is easy to train and they are excellent with children because of the dog's high intelligence and its willingness to please.
+Shetland Sheepdog
+The general appearance of the Sheltie is that of a miniature Rough Collie. They are a small, double coated, working dog, agile and sturdy.
+French Bulldog
+The French Bulldog, like many other companion dog breeds, requires close contact with humans. They have fairly minimal exercise needs, but do require at least daily short walks. The French Bulldog is sometimes called &quot;Frog dog&quot; or a &quot;Clown dog&quot;.
+Yorkshire Terrier
+The ideal Yorkshire Terrier character or &quot;personality&quot; is described with a &quot;carriage very upright&quot; and &quot;conveying an important air.&quot; Though small, the Yorkshire Terrier is active, very overprotective, curious, and fond of attention. 
+Savannah
+Some Savannahs are reported to be very social and friendly with new people and other cats and dogs, while others may run and hide or revert to hissing and growling when seeing a stranger. Exposure to other people and pets is most likely the key factor in sociability as Savannah kittens grow up.
+Turkish Angora
+Turkish Angora cats are playful, intelligent, athletic and involved. They bond with humans, but often select a particular member of the family to be their constant companion. They are in turn, very protective of their person.
+Irish Wolfhound
+Irish wolfhounds have a varied range of personalities and are most often noted for their personal quirks and individualism. An Irish wolfhound, however, is rarely mindless, and despite its large size is rarely found to be destructive in the house or boisterous.
+Bluetick Coonhound

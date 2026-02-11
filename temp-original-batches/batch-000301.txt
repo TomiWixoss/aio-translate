@@ -1,0 +1,100 @@
+Property Owner
+This lot contains over 6 units.\nOpen Unit View for more details.
+Manage Household
+Your Sim is here.
+This lot is not available.
+Sims can purchase Unowned Community Lots, Unoccupied Residential Lots,\nor Unowned Small Business Venues as Small Business Venues.
+Sims cannot live on non-residential lots.
+This lot is {0.String}. It is too small.
+Enter Build Mode to place it from Gallery on this lot.
+You cannot place a lot inside this building.
+Sims cannot live on non-residential lots. You must first evict the Sims before placing this blueprint.
+Cannot place blueprints on occupied University Housing lots.
+Vacation Rental lots are only available through vacations
+University Housing is only available through enrollment.
+You cannot afford this lot and there is no room for this household to move in here.
+You cannot afford this lot.
+Current residence of household.
+You must choose an unoccupied Lot for your Household.
+This lot cannot be changed.
+All lots in this building are unavailable.
+Manage Households
+Event Time: Every {0.DayOfWeekLong} {1.TimeShort} to {2.TimeShort}
+Event Time: Every {0.DayOfWeekLong} {1.TimeShort} to {2.TimeShort}\nEnds: {3.DateLong}
+Eco Footprint Mode
+See how your world is changing!\nBy toggling Eco Footprint Mode, you can see the Eco Footprint of each neighborhood and lot.
+Sims on vacation cannot stay on lots that are not designated as Vacation Rentals.
+Small Business Residential
+Unavailable in this mode
+{0.String} students only
+{0.String} students only
+Affiliation: {0.String}
+\n&lt;b&gt;This neighborhood cannot be edited. Play a household and use a phone to Vacation here.&lt;/b&gt;
+Select a Sim To Play
+Weekly Rent: {0.Money}  -  Deposit: {1.Money}
+{0.Number}x{1.Number}
+Funds: {0.Money}
+Furnishings: {0.Money}
+{0.Number} of {1.Number} Units Available
+Game Data Incomplete
+Not all game data could be loaded. The save game references neighborhoods that have been uninstalled or otherwise are no longer available. If you continue playing, you will encounter missing data and may have unexpected results. If you save the game, there will be no way to recover the missing data.
+Select a World to move into
+Select a place to live
+{0.Number} Vacation {S0.Group}{P0.Groups}
+{0.Number} Played Household{P0.s}
+Visit
+Travel
+Sell Small Business Venue
+Resume Editing Venue
+Play
+Move out Household
+Move In Household from Gallery
+Create New Household to Move In
+Evict Household
+More
+Change Lot Type
+Build
+Traveling
+Placing
+Moving
+Release Notes
+New items are available in your game!
+To find your items, look for the gold flag icon in Create A Sim or Build Mode.
+{0.String}
+Hi! I'm Emily! Welcome to The Sims 4! I'll see you in the game!
+Explore Now!
+Want to explore more about The Sims 4 Community?
+This will open an external application.\nWould you like to proceed?
+This will open a new window in your default browser.\nWould you like to proceed?
+Welcome to The Sims 4!
+Unleash your\nImagination!
+Version {0.String}
+View most recent &lt;span class=&quot;link&quot;&gt;&lt;a href=&quot;event:patch&quot;&gt;News and Updates&lt;/a&gt;&lt;/span&gt; • Discuss The Sims 4 and learn more on &lt;span class=&quot;link&quot;&gt;&lt;a href=&quot;event:forums&quot;&gt;The Sims 4 forums&lt;/a&gt;&lt;/span&gt;
+Latest News
+{0.String} • {1.String}
+Stop
+Play
+Pause
+Maximize
+Learn More!
+Problem with video playback detected.
+The requested video is unavailable at this time.
+Unable to establish a connection at this time.
+Close
+Create a Stuff Pack: First Vote
+Let us know your thoughts!
+Take Survey
+Don't ask me about surveys again. Re-enable in the Options Menu.
+If you can bear it, it’d be grrreat to hear from you! Let us know your thoughts by taking a survey.
+Do you have an opinion? Do you love answering questions? We need YOU to tell us your thoughts!
+As a Sims player, you can help make the game better! We'd love to hear your thoughts as we work to improve your experience.
+Free
+No Results Found. &lt;span class='link'&gt;&lt;a href='event:clickEvent'&gt;Try the Gallery.&lt;/a&gt;&lt;/span&gt;
+No Results Found.
+Report
+Select Content To Report
+Unable to report your own Gallery item.
+All
+Platform
+Others
+Mine

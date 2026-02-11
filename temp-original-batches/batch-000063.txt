@@ -1,0 +1,100 @@
+Repair Service
+Pizza
+Gardening Service
+Turn On All Lights
+Turn Off All Lights
+Get Married to
+Go Home
+Make Toast
+Send Home
+Immediately sends this Sim home. No questions asked. No hard feelings.
+Immediately sends all visitors home with no hard feelings.
+Get Off My Lawn!
+Send Everyone Home
+Go Near Toddler
+Complain about Lack of Fun
+(From Geothermal Lot Trait)
+Route to Safety
+Can't route while on fire!
+Drink Energy Juice
+Stretch
+Do Sit Ups
+Do Push Ups
+Since there's a baby on the way, Sim Social Services has provided a complimentary bassinet for the little one.
+{0.SimFirstName} requires an empty bassinet in order to give birth.
+Daydream
+Chatting with {0.String}
+Your Sims can't take off their clothes in front of a child.
+Survive the Blowout
+Meet {1.SimFirstName}
+Call Over Group
+This Sim needs to be invited in first.
+This Sim is too far away to Call Over.
+Share Wedding Cake
+Attempt Mental Telepathy
+Ask to Have Science Baby
+Adopt as Care Dependent
+{0.SimFirstName} is now a caregiver of {1.SimFirstName}. This means {M0.he}{F0.she} will check on that toddler's needs on a regular basis.
+{0.SimFirstName} is now being cared for by {1.SimFirstName}. This means {M1.he}{F1.she}'ll check on that toddler's needs on a regular basis.
+The time spent woodworking has paid off well. Check your Sim's inventory.
+The finished woodwork has been placed in the household inventory.
+Scrap Woodwork
+Welcome
+Wait to Place Order with Wait Staff
+Your waiter will come to your table soon to take your order. Are you sure you want to cancel?
+Waiting for Bathroom
+Going Home?
+This will end {0.SimFirstName}'s vacation and send {M0.him}{F0.her} home.
+Invite to Join Vacation
+The house is full.
+Extend Getaway
+End Vacation
+End Getaway
+This will end the Vacation and send everyone Home. Do you want to continue?
+Share the Love
+Play with {1.SimFirstName}
+Hug
+Sims can't do this while wearing no clothing.
+Hug It Out Over Hitting
+Express Disappointment For Hitting
+Encourage Hitting
+Ask Not To Hit
+Tell Not To Hit
+Give Time Out For Hitting
+Ground For Hitting
+Yell At For Hitting
+Comfort
+Express Love
+Soothe
+Change Diaper
+Order to Change Diaper
+High Five
+You're giving me something I made? Uh okay...
+This looks familiar. Wait a sec, I made this!
+Receive Gift
+Give Gift
+Tents cannot be placed in a Sim's inventory while in use.
+This object cannot be placed in a Sim's inventory while in use.
+Remove any items on this object before placing it into a Sim's inventory.
+Gardening Lesson
+Aspiration Lesson
+Welcome to our latest series, where we guide you through the process of cooking Ambrosia!\n\nIf you have your Snapdragon planted then the next step is to work on your Cooking and Gardening Skills. The best way to do this is to feed your garden and yourself!
+Ambrosia Society Newsletter
+Cooking Lesson
+This week, we continue to work on Gardening. You'll also need to make sure you start getting Satisfaction Points, you'll need them later!\n\nAmbrosia requires some creative plant manipulation, so you should also grab a cutting of Lily and Snapdragon this week. Check out Magnolia Blossom Park in Willow Creek to find some wild Lily and Snapdragon.
+Fishing Lesson
+This week we are getting the final details rounded out before we are ready to cook Ambrosia! You need to max out your Cooking and Gourmet Cooking skills before you attempt to cook up the dish next week.
+Another week, another newsletter! This week it's time to catch the first ingredient, an Angelfish!\n\nAmbrosia is a gourmet dish, so it's time to learn the Gourmet Cooking skill.\n\nIs your garden blossoming? Ambrosia requires a Death Flower, so this week, you will also need to graft an Orchid and Pomegranate plant.
+This week, the Death Flower should be just within reach.\n\nWhile you're waiting for it to grow, make sure you continue working on your Cooking and Gourmet Cooking skills! They will come in handy when you're eventually ready to cook Ambrosia.
+Aspiration Lesson
+Welcome to the final edition of our newsletter! It's time for all your hard work to pay off. Cook Ambrosia from the Gourmet Cooking recipes.\n\nOnce it's cooked, you can bring a ghost back to life with this magical dish!
+You know what I love? Getting up and walking out of my room and stepping into a puddle of who-knows-what left by who-knows-who that's been sitting there for who-knows-how-long. Oh, gosh, I just love it so, so much.
+Dear roommate,\n\nPlease clean me so I know that you care. NO, don't just put me down you MONSTER\n\nLove,\nthe dish you just used
+Is someone living here attempting to go for a record in how much toilet paper a single Sim can use? I can think of no other explanation for how quickly we run out.
+Scientists say that washing yourself not only keeps you healthier but also can mean other people like you more! Just thought I'd share that fun science fact!!
+Please follow THE GOLDEN RULE. I don't come into your room and touch your stuff, do I? No, I don't.
+I'm not saying that I'm the best roommate, but at least I'm not {0.SimFirstName}.
+(From Reading a Roommate's Note)
+(From Reading an Old Acceptance Letter)
+Cannot be put into Sim Inventory while cooking
+Run the Clear Table interaction to remove all objects from the table first.

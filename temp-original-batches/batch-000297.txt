@@ -1,0 +1,100 @@
+No Ticket Kiosk on lot. It can be purchased in the Appliances category in Build Mode.
+Entrance Fees
+Edit Small Business
+The assigned lots cannot be changed while the Small Business is open.
+No valid lots available.\nChange an existing lot type to a valid type, or purchase a venue through the Small Business panel, Phone or a Computer.
+Caregiver Stays at Business
+Remove Activity
+Delete Preset
+Delete Preset...
+Are you sure you want to delete the preset {0.String}?
+Remove Target Customer Criteria
+Small Business Name
+Enter a Description...
+This category does not support being required.
+Make Selected Criteria Required
+Add Target Customer Criteria...
+This category is already active.
+Small Businesses must have a valid name.
+Small Business must be assigned to a lot.
+Checking this will keep the Supervised Customer's caregiver around.\n\nUnchecking it means the caregiver drops off the Supervised Customer and then leaves.
+Customers will be charged an hourly fee to be at your business.
+Hourly
+Customers will be charged a one-time fee upon entering your business.
+One-Time
+Customers will not be charged to enter your business.
+Disabled
+&lt;font color='#EC262E'&gt;No Ticket Kiosk on lot&lt;/font&gt;
+{0.Money}/hr
+{0.Money}
+{0.String} &lt;font color='{1.String}'&gt;({2.String} Modifier)&lt;/font&gt;
+Assigned to {0.Number} of {1.Number} lots
+Select on which of your household's owned lots to operate this business.\n\nAdditional Small Business Venue lots can be purchased through the Small Business Panel, the Phone, or a Computer.
+Business Lot Assignment
+Business Activities
+Select which activities customers of this Small Business will be encouraged to do.\n\nSet a collection of activities easily using the &lt;b&gt;Business Presets&lt;/b&gt;, or select &lt;b&gt;Save Preset&lt;/b&gt; to create new custom presets that can be used again later.
+View Lessons
+End Vet Visit Early?
+Are you sure you want to end this Vet event early? Your pet might not receive the attention it needs if you do.
+Vet Exam
+Finished packing up?
+This will immediately move out of University Housing.
+From {0.TimeShort} to {1.TimeShort}
+&lt;b&gt;Rewards&lt;/b&gt;\nRewards have already been given.
+Time remaining: {0.String}
+Time remaining: {0.String}\nClick this button to end the Social Event early.
+{0.String} is not participating in this Social Event.
+Click this button to end early or cancel.
+&lt;b&gt;Rewards&lt;/b&gt;\nRewards will be given upon completion of the Discovery Quest.
+Reward:
+Open '{0.String}'
+{0.Number}\n/{1.Number}
+{0.Number}/{1.Number}
+{0.SimFirstName} doesn't have a Job.
+\n• Next Promotion: {0.String}
+{0.String}\n{1.String}
+{0.String}\nStarts In: {1.Timespan}
+{0.String}\nNeeded By: {1.TimeShort} {1.DayOfWeekLong}
+Vacation available:\n{0.Number} {S0.week}{P0.weeks}
+{0.Money}/{1.Money}
+Cancel Mission
+&lt;font color='#FF0000'&gt;Missing work! &lt;/font&gt;
+&lt;font color='#FF0000'&gt;Missing meeting! &lt;/font&gt;
+&lt;font color='#FF0000'&gt;Missing class! &lt;/font&gt;
+&lt;font color='#FF0000'&gt;Missing school! &lt;/font&gt;
+[&lt;font color='#FF0000'&gt;Missing assignment!&lt;/font&gt;]
+Check for Gigs
+Look for Gigs
+Check Open Auditions
+Ideal Mood:
+Ideal Mood: {0.String}
+Promotion Requirements:
+Advancement Requirements:
+Grade Requirements:
+Travel to Client's Lot
+Due by {0.TimeShort} {0.DayOfWeekLong}
+Starts at {0.TimeShort} {0.DayOfWeekLong}
+Gig Tasks
+Starts {0.TimeShort} {0.DayOfWeekLong} \nEnds {1.TimeShort} {1.DayOfWeekLong}
+Gig Payout: {0.Money}
+Select a Gig
+Odd Job: {0.String}
+Mission: {0.String}
+Gig: {0.String}
+Gig: {0.String}
+Gig: {0.String}
+Click to Find a Job for {0.SimFirstName}.
+Join a Career
+Self-Employed
+Disable or enable message alerts that ask you to follow this Sim to work or school.
+Enable Follow Messages:
+Day off!
+Daily Task:
+Coursework
+&lt;span class=&quot;money&quot;&gt;{0.Money}&lt;/span&gt; / {1.Money}
+Client Budget:
+Unpaid
+Small Business
+{0.Money}/hour
+{0.Money}/Shift
+({0.Number})

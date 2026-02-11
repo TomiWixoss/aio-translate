@@ -1,0 +1,100 @@
+Subjective:
+Reflexive:
+Possessive Independent:
+Possessive Dependent:
+Objective:
+({0.SimPronounSubjective}/{0.SimPronounObjective})
+{0.SimName} ({0.SimPronounSubjective}/{0.SimPronounObjective})
+&quot;{0.String|xxUpper} would like a grilled cheese.&quot;
+&quot;Eliza made the grilled cheese {0.String}.&quot;&#xD;&#xA;
+&quot;That burnt grilled cheese is {0.String}.&quot;
+&quot;Grilled cheese is {0.String} first love.&quot;
+&quot;Bob told {0.String} about the best grilled cheese recipe ever.&quot;
+Pronoun contains a disallowed word
+They/Them
+He/Him
+She/Her
+Change Pronouns
+Custom Pronouns
+Select Likes and Dislikes
+You can only choose a total of {0.Number} Likes and Dislikes per Sim. Try to mix and match!
+{1.Number}/{0.Number}
+◴
+◵
+&lt;font color=&quot;#29af4a&quot;&gt;◴{0.Number}&lt;/font&gt;\n&lt;font color=&quot;#bf1e2e&quot;&gt;◵{1.Number}&lt;/font&gt;
+Categories
+Select Preferences
+{0.String} Outfit {1.Number}
+Create New {0.String} Outfit
+Cancel
+Save Outfit As
+ (NEW)
+Cancel
+Walk Styles Not Available
+Walk
+Voice
+Cannot change relationships or walk style while in this form.
+TRAITS:
+Personality
+Primary Aspiration:
+Ghosts can only be a child or older.
+Gender
+You can only create a Young Adult or older Sim for the Tutorial.
+Edit Relationships\n\nWarning: No parent relationship is defined for this child.
+Edit Relationships
+Delete this Sim
+create a new sim
+Sims created via a story must be Young Adult or older.
+Cannot edit pre-existing Sims.
+Cannot edit pregnant Sims.
+Randomize Aspirations &amp; Traits
+Cannot change relationships or walk style while in this form.
+Age
+Add a Sim to Edit Relationships
+Romance Dynamic
+Romance relationship is unavailable for Sim during Rebirth.
+Relationships
+{M0.Step-brother}{F0.Step-sister}
+{M0.Step-father}{F0.Step-mother}
+{M0.Step-son}{F0.Step-daughter}
+Partner
+Spouse
+{M0.Nephew}{F0.Niece}
+Sibling of
+{F0.Sister}{M0.Brother}
+Roommate
+Roll Genetics
+This relationship has been reset
+Selecting this option will affect other relationships in your household
+Are you sure you want to remove all relationships set for this Sim?
+Premade Sim or Household
+Owner
+Pet
+{M0.Uncle}{F0.Aunt}
+Parent of
+{M0.Father}{F0.Mother}
+There are no other Sims in household to select.
+Household Member
+{M0.Grandfather}{F0.Grandmother}
+{M0.Grandson}{F0.Granddaughter}
+Engaged
+Family Member
+Done
+Child of
+{M0.Son}{F0.Daughter}
+Cousin
+Clear All Relationships
+Add Relationship
+Add:
+Set {0.SimFirstName} as {1.SimFirstName}'s
+Household Relationships
+Siblings
+Spouse
+Parents
+Children
+Family Dynamic
+Wing Paint Mode is disabled when no Wings are equipped.
+Paint mode is disabled while playing with genetics.
+Paint Mode
+Paint Mode
+Show/Hide Tattoos in Other Body Parts

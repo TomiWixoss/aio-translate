@@ -1,0 +1,74 @@
+Declare as Parent
+Biological Parent
+If you choose this option, a secret will be created. If it gets exposed later, it might trigger a Scandal!
+If you choose this option, a Scandal might trigger, exposing that the child is &lt;b&gt;not&lt;/b&gt; from your official partner!
+{0.String} ({1.String})
+Parent's Cousin
+Cousin's Child
+Secret Child
+Cousin's Child
+{0.SimName} has learned too many secrets, {0.SimPronounSubjective} can't keep track of any more! Bury some via the Info Broker on the PC or wait for some to expire to learn more.
+Too Many Secrets
+No available locations
+{0.String} Dynasty
+{0.String} Dynasty\n&lt;font color='#EC262E'&gt;Rival&lt;/font&gt;
+{0.String} Dynasty\n&lt;font color='#199C2C'&gt;Ally&lt;/font&gt;
+Dynasty Heir
+Dynasty Head
+Dynasty Outcast
+Lead Producer - Wonderland Playroom
+Vice President &amp; Executive Producer
+Lead Concept Artist - Wonderland Playroom
+Director People Experience
+Manager People Practices
+The Sims™ 4 Wonderland Playroom Kit © 2026 Electronic Arts Inc.
+Lead Producer - Silver Screen Style
+Lead Concept Artist - Silver Screen Style
+The Sims™ 4 Silver Screen Style Kit © 2026 Electronic Arts Inc.
+Lead Producer - Tea Time Solarium
+Lead Concept Artist - Tea Time Solarium
+The Sims™ 4 Tea Time Solarium Kit © 2026 Electronic Arts Inc.
+{1.String}'s Family Tree is being viewed from the point of view of {0.SimNameWithPrefix}. Secret connections known by {0.SimFirstName} will be shown.
+{0.String}'s Family Tree is being viewed from their point of view. Secret connections known by them will be shown.
+Tops
+Saddles
+Surfaces
+Call the Royal Envoy
+No other parent
+If you choose to declare that the child has no other parent, a secret will be created. If it gets exposed later, it might trigger a Scandal!
+If you choose this option, a Scandal might trigger, exposing that the child is from a Secret Lover!
+Edit
+Need to hide a secret? Bury it via the Information Broker on the PC and nobody has to know...
+Did you know? In Ondarion, you have a higher chance of finding a rare Noble Frog!
+Sims in Ondarion say that mastering Swordsmanship may let you draw the Sword in the Stone.
+Proud Sims might avoid duelling you if you're too skilled; boost Charisma to improve your chances.
+Swordsmanship is a Noble art, so losing a duel against a Commoner is just so scandalous!
+The Ondarion Swordsmanship tournaments are prestigious events with extraordinary prizes.
+Is someone extorting you? Confront them with a fight, persuade them to stop, or maybe just hope for their untimely demise?
+The info broker is mysterious; can you uncover their true identity yourself?
+A confident, playful or focused Sim can more easily extort an embarrassed, stressed, or uncomfortable one.
+Windows
+Grand Ball
+Swordsmanship
+Cuckoo Clock
+Noble Career
+Press Conference
+Maxis would like to thank Ernesto Kolbe (Roko) – Plumbob Kingdom, Gabrielle Griffin (Studio Gabri), Eva Rotky, and Linda (EmeraldStories) for their incredible talent and for helping us create the breathtaking lots in Ondarion.
+Senior Production Director
+DevOps Engineer
+Relationship Marketing (Global Creator Relations)
+Player Inclusion
+&quot;All My Freaks&quot;\nPerformed by Divorce\nWritten by Indian Tiger Aura Cohen-Towell (PRS), Felix MacKenzie-Barrow (PRS), Adam Peter Smith (PRS), Kasper Sandstrom (PRS)\nPublished by Concord Alto CC1 (ASCAP)\nRecording courtesy of Gravity Records/Universal Music Operations Ltd. under license from Universal Music Enterprises
+&quot;Angels In Tibet&quot;\nPerformed by Amaarae\nWritten by Jephte Steed Baloki, Tamera Janet Cuthbert, Ama Serwah Genfi (BMI), Noah Thomas Glassman, Kwame Abayomi Nunya Kwei-Armah, Ayodeji O Olowu, Oneka Onuoha, Joel Mason Tanner\nPublished by Sony Music Publishing France/404 Human, THE TRIBE PUBLISHING LIMITED and Tim &amp; Danny Music LLC\nAll rights on behalf of THE TRIBE PUBLISHING LIMITED and Tim &amp; Danny Music LLC administered by WC Music Corp., Payday Music Publishing, Concord Copyrights (BMI) obo itself and June To November Digital Songs (BMI) c/o Concord Music Group, Inc., Noah Glassman Copyright Control, Emeka Onuoha Copyright Control\nRecording courtesy of Interscope Records under license from Universal Music Enterprises
+&quot;Another World&quot;\nPerformed by The Belair Lip Bombs\nWritten by Maisie Everett, Michael Bradvica, James Droughton, Daniel Devlin\nPublished by Concord Aspect Music (APRA) c/o Concord Music Publishing ANZ Pty Ltd (APRA)\nRecording courtesy of Third Man Vinyl LLC\nBy arrangement with The Orchard
+“Bad Dream”\nPerformed by Dandelion\nWritten by Magnus Lidehäll, Vera Carlbom\nPublished by Universal Songs Of PolyGram Int., Inc. on behalf of Universal Music Publishing AB, Universal PolyGram Int. Publishing, Inc. on behalf of Universal Music Publishing AB \nRecording courtesy of Universal Music Sweden under license from Universal Music Enterprises
+&quot;Cruise Ship Designer&quot; \nPerformed by Dry Cleaning \nWritten by Tom Dowse, Florence Shaw, Nick Buxton,Lewis Maynard\nPublished by Warp Publishing \nRecording courtesy of 4AD
+&quot;Give Me More&quot;\nPerformed by Obongjayar\nWritten by Steven Umoh, David Sprecher, Adrian Eccleston, Soraya LaPread, Sam Jones\nPublished by Beggars Music(ASCAP) Administered by Words &amp; Music, Camp Yeti Beats (BMI) All rights on behalf of Camp Yeti Beats administered by Warner-Tamerlane Publishing Corp., Adrian Eccleston Copyright Control (SOCAN), Power Puff Balls Music (BMI), administered by Word Collections, Sam Jones Copyright Control\nRecording courtesy of September Recordings Ltd
+&quot;Loyal&quot;\nPerformed by Chella\nWritten by Uzochukwu Godfrey Agbonfino p/k/a &quot;G-Stickz,&quot; Uzochukwu Michael Ikechukwu p/k/a “Chella” \nPublished by Godfrey Agbonfino Copyright Control, Uzochukwu Michael Ikechukwu Copyright Control\nRecording courtesy of Empire
+“Sweat”\nPerformed by The Sophs\nWritten by Ethan Ramon, Sam Yuh, Austin Parker Jones, Seth Smades, Devin Russ, Cole Bobbitt\nPublished by Ethan Ramon Copyright Control, Sam Yuh Copyright Control, Austin Parker Jones Copyright Control, Seth Smades Copyright Control, Devin Russ Copyright Control, Cole Bobbitt Copyright Control\nRecording courtesy of Rough Trade Records
+&quot;you&quot;\nPerformed by FOLA\nWritten by Afolarin Temiloluwa Odunlami p/k/a “FOLA” (NS), Udoma Peter Kelvin Amba p/k/a “Kel-P” (SACEM), Oledimeji Ayodeji\nPublished by Afolarin Temiloluwa Odunlami courtesy of Dangbana Republik, Universal Musica Unica Publishing on behalf of Universal Music Publishing, Oledimeji Ayodeji Copyright Control\nRecording courtesy of Empire
+Waltzes:\n“New Shoes”, “SimPellegrano”, “The Simple Syrup”, “Sweet DigiDreams”, “Harmony Forever”, “Vacation Station”, “Sunset Groove”, “Tropical Elegance”, “Vibrant Vibes”, “Make Your Heart Melt”\nMusic by Kris Bowers
+“Koobie Rabba Flubb”\nWritten, produced and recorded by Charlton Pettus
+“Energy (Jammin till Morning)”\nWritten, produced and recorded by Rocky Dawuni
+A special thanks to the Pan African Gaming Group: Maame Adjei, Kasyoka Mwanzia; \nGeogrify – Kate Edwards; \nCouncil: Danielle “EBONIX” Udogaranya, Oshinsims, Stephen Jody Works (SpringSims), Linda (EmeraldStories), Jarnard Sutton (NARDVILLAIN), Annabel Ashalley-Anthony (Anzy_aa); \nRecipe Builders: MunMun Chattopadhyay (icemunmun), Jess (littlbowbub)
+The Sims™ 4 Royalty &amp; Legacy Expansion Pack © 2026 Electronic Arts Inc.

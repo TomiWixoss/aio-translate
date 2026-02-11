@@ -1,0 +1,100 @@
+Must be engaged.
+These Sims are getting Married!
+Bride or Groom
+If there's one thing that people expect from a wedding, it's... well, cake. Also, dancing. But there's gotta be food in there somewhere, right?
+{M0.Groom}{F0.Bride}
+Must be engaged.
+Wedding betrothed needs a cake and a wedding arch.
+Nobody likes a dry wedding! Keep those drinks -- and the fun -- flowing!
+Bride or Groom
+I should really get going now.  Thanks for hanging out with me.  See you later.
+Jogger
+Beachgoer
+Junior Collector Extraordinaire
+Repair Service
+Police Officer
+Parent
+{M0.Play Friend}{F0.Play Friend}
+Play Friend
+{M0.Host}{F0.Host}
+It's your Household's party -- maybe you'll decide to join in on the fun.
+Resident
+Must be a household member; teen or older.
+It's your party -- make sure everyone has a good time.
+Host
+You will need a microphone to Lampoon the Guest of Honor.
+You've been invited to be the life of the party... or at least to not bring everyone else down.
+Guest
+Chaperone
+{M0.Host}{F0.Host}
+Hosts need a refrigerator, a counter, and an oven.
+Meetup Attendee
+Hobby Class Instructor
+Hobby Class Attendee
+Guests need seating.
+Ain't no party like a costume party... costumes optional.
+Put on your best black and white duds... it's time for a party.
+Be the life of the birthday party.
+Guest
+Professional Gardener
+{M0.Musician}{F0.Musician}
+A little live music makes every social event go better!
+Musician
+Must have a Comedy skill of 5 or higher.
+Comedian
+Comedians need a microphone.
+Maybe keep it classy this time... for a change.
+{M0.Entertainer}{F0.Entertainer}
+Requires Piano Skills Level 3 or higher.
+Some do it with a light touch, some pound on the keys with ferocity.  Either way, your job is to make sure people have a good time.
+Click on {2.SimFirstName} and select one of the Talk options from the Friendly Category.
+Talk with {2.SimFirstName}
+Click on {2.SimFirstName} and choose Snuggle from the Friendly category.
+Snuggle {2.SimFirstName}
+Click on {2.SimFirstName} and select one of the Flash Card options under the Flash Cards Category in the Friendly Category.
+Show Flash Cards to {2.SimFirstName}
+Click on {2.SimFirstName} and select Play from the Friendly Category.
+Play with {2.SimFirstName}
+Read a toddler to sleep by clicking on the Toddler Bed and then selecting Read to Sleep.
+Read a Toddler to Sleep
+Select Read Toddler Books on a bookshelf, then be sure to include {2.SimFirstName}. Toddler Books can be purchased directly from a Bookshelf by using the Purchase Books interaction.
+Read a Toddler Book to {2.SimFirstName}
+Click on the Potty and select Potty Train, then choose a Toddler you want to train.
+Potty Train a Toddler
+Place two toys near each other on the ground and select Play on a toy with each Sim. Toys can be found in Toy Boxes or in the Toys section of the catalog.
+Play with Toys with {2.SimFirstName}
+Click on a dollhouse and select Play Dolls With to select the toddler you want to play with!
+Play Dolls with a Toddler
+Click on {2.SimFirstName} and select Hug from the Friendly Category.
+Give {2.SimFirstName} a Hug
+Give a sippy cup to a toddler by clicking on the high chair, the fridge, or the toddler themselves and select Give Drink. 
+Give a Drink to a Toddler
+Click on the Bathtub and select Give Bubble Bath, then select {2.SimFirstName}.
+Give {2.SimFirstName} a Bubble Bath
+Click on the Bathtub and select Give Bath, then select {2.SimFirstName}, or click on {2.SimFirstName} and select the Give Bath interaction under Toddler Care.
+Give {2.SimFirstName} a Bath
+Click on {2.SimFirstName} and select Comfort from the Friendly Category.
+Comfort {2.SimFirstName}
+Click on a dirty Potty Chair and select Clean.
+Clean Potty Chair
+Click on a dirty High Chair and select Clean.
+Clean High Chair
+Click on {2.SimFirstName} and select Check Toddler.
+Check on {2.SimFirstName}
+Ew! {2.SimFirstName}'s Diaper is smelling pretty foul. It's time to clean them up with Change Diaper.
+Click on {2.SimFirstName} and select Talk about Day social from the Friendly Category.
+Click on {2.SimFirstName} and select the Babble social from the Friendly Category.
+Babble to {2.SimFirstName}
+Click on {2.SimFirstName} and Ask Why from the Friendly category.
+Ask {2.SimFirstName} Why
+Click on a Bookcase with Toddler Books and select the Ask to Read Toddler Book social.
+Ask to Be Read a Book
+Click on {2.SimFirstName} and use the Friendly category to ask {M2.him}{F2.her} to Wrestle.
+Ask {2.SimFirstName} to Wrestle
+Click on {2.SimFirstName} and use the Friendly category to ask {M2.him}{F2.her} to Play.
+Ask {2.SimFirstName} to Play
+Click on {2.SimFirstName} and use the Help category to ask for Food.
+Ask {2.SimFirstName} for Food
+Click on {2.SimFirstName} and use the Friendly category to ask for Flash Cards.
+Ask {2.SimFirstName} to Show Flash Cards
+Click on {2.SimFirstName} and select Drink from the Help category.

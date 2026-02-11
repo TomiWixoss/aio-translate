@@ -1,0 +1,100 @@
+Add a Dark Form to your Vampire. Your Vampire will switch into their Dark Form when feeding, suffering from thirst, and using certain powers.
+Sim {0.Number}
+Reset Sim to Resemble Past Life
+Play with Sim's Genetics
+Must have at least one other living Sim in household to enable Genetics. 
+Identity
+Parts to Link
+You can not add a new Sim while in Plan Outfit
+The household is full
+Link Filters
+Copy Filters
+Are you sure you want to delete this Sim?
+Delete this Sim
+Parts to Copy
+{0.SimName} Disguise
+Add Spellcaster
+Add Vampire
+Unavailable while in a Tutorial
+Add Sim via a Story
+Play with Genetics
+Add Sim from the Gallery
+Add a Sim
+Add New Sim
+Add Pet
+Make a Mix Breed
+Add Occult Sim
+Add Dog
+Add Cat
+Add Alien
+You can only choose a total of {0.Number} Turn-Ons and Turn-Offs per Sim. Try to mix and match!
+Must meet all Household requirements for this Scenario and have no additional Household members. If you'd like, you can add other Sims to the Household after starting this Scenario.
+Deleting...
+Are you sure you want to delete this custom color?
+Are you sure you want to delete this Custom Skin Tone?
+Are you sure you want to delete this Custom Skin Effect?
+Are you sure you want to delete this Custom Make Up option?
+Custom
+All
+Voice
+Skin Tone
+Hair
+Gender
+Facial Hair
+Face
+Clothing
+Body Size
+Body Shape
+All
+Top
+Shoes
+Makeup
+Hat
+Facial Hair
+Bottom
+All
+Randomize
+Remove
+Outfit Category
+No results found. Edit your search or filters to see more.
+No results found. Edit your filters to see more.
+Wear Outfit
+Try this Style!
+Styled Looks
+Previous Style
+Next Style
+Name this Look!
+All outfits must have a name before checking out!
+Add clothing to the mannequin to assemble a fit!
+Total Items:
+Total Cost:
+Style: {0.String}
+An incomplete outfit is in the cart! \nOutfits require: Top, Bottom, Shoes, and a Look Name!
+&lt;font color='#EC262E'&gt;Outfit Requires: Top, Bottom, Shoes, and a Look Name.&lt;/font&gt;
+Insufficient Funds
+Delete Outfit
+Are you sure you wish to delete the selected outfit?
+Out of Stock! This is being used for another outfit! 
+Available Funds:
+Add Outfit
+Name Your Look!
+Goth
+Vaporwave
+Scenecore
+Llamacore
+Groovewave
+Trendi Girl
+E/girl
+Dark Academia
+Zerowave
+Mashcore
+Nocore
+Outdoorcore
+Y2K
+Neon Raver
+Kawaii
+Sleuthcore
+Cottagecore
+Name Look
+Enter Look Name...
++Add Custom...

@@ -1,0 +1,100 @@
+Dining Chair
+Dining
+Detective
+Dessert
+Decal
+Death
+Curtain
+Cupboard
+Cup
+Culinary
+Cube
+Criminal
+Crates
+Craft
+Couch
+Cot
+Cooler
+Cooking
+Cook
+Concrete
+Computer
+Comedy
+Coffee Maker
+Coffee
+Clothes
+Closet
+Clay
+Christmas
+Chimney
+This foundation type requires a room.
+Cannot use Stilt Foundations for Pools.
+Foundation Must Be Higher Than Basement
+Foundation height is negative.
+Must be fully above or beneath the water line.
+Footprint intersects terrain.
+Object is intersecting the floor or the ceiling.
+Must be placed on the floor.
+Floor pattern intersects tall object below.
+Must be placed on terrain or the floor.
+Floor Height Offset Out Of Bounds
+Floor Height Offset Conflicts With Block Below
+Fixed Wall Height Invalid For Level
+There are too many objects owned by this household.
+There are too many objects already on the lot.
+Must be placed on a shorter fence.
+Failed to update funds.
+FailedToResolveFacetMove
+FailedToResolveBlockFromPolygons
+Failed to load lot objects.
+Failed to load lot data.
+Failed To Extrapolate Block Span Type
+Failed To Divide Walls
+Failed To Create Hollow Block Space
+Failed to compute cost.
+Nothing here can be cloned.
+Maximum of 10 mannequins per lot.
+Only one elevator allowed.
+The Design Tool cannot be used on this object
+Error reading op data
+You cannot add any new rooms or walls on the existing structure for Room Renovations.
+You cannot make changes to any existing structure.
+You cannot add any new walls during a Room Renovation Gig
+You cannot add any more tiles due to the Client’s restrictions.
+You cannot edit roofs on the existing structure for Room Renovation Gigs.
+Your Client has not given you permission to change that.
+You cannot make changes other than the level designated by the Gig.
+You cannot make changes on any existing structure. Add them to a new room off the existing structure.
+Database operation failed
+Cannot intersect with Stilt Foundation.
+Conflicting Terrain Constraints
+Conflicting child operations
+Conflicting block clusters
+Column cannot be any shorter.
+Column cannot be any taller.
+Child op setup incomplete
+Ceiling is Too Low
+Ceiling is too high.
+Wall is too narrow to place a window.
+Can't place in pool.
+Can't place terrain pool under anything.
+Can't place pool under wall.
+Stilt Foundations and Pools are incompatible.
+Can't place pool under rounded corner.
+Can't place pool under platforms.
+Can't place pool under another pool.
+Can't place pool under mid-tile diagonal intersection.
+Can't place pools under walls or fences.
+Can't place pool next to fountain.
+Cannot place an object on a foundation with stilts.
+Can't place on small curved walls
+Can't place on slope.
+Can't be placed on the ground.
+Can't Place on Gate
+Can't place on curved walls
+Can't place in water.
+Cannot be placed in deep ocean water
+Can't be placed in shallow pond water.
+Cannot be placed in shallow ocean water
+Can't place in pool.
+Can't be placed in a pond.

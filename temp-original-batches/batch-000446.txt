@@ -1,0 +1,100 @@
+Share Tattoo to Twitter
+Share Household to Twitter
+Item must be shared to the Gallery in order to share on Twitter.
+Share Lot to Twitter
+Save to My Library before submitting this content.
+Submit a copy of this household to the {0.String}!
+Submit a copy of this lot to the {0.String}!
+{0.String}'s {1.String}
+This Sim has an Aspiration that is part of content you do not currently own.
+Share Room to the Gallery
+Share Tattoo to the Gallery
+Share Household to the Gallery
+This item exceeds the unique object limit. Remove some of these items to enable sharing.
+Share Lot to the Gallery
+Showcase Item in Your Profile
+Select Photo
+Placing this lot will exceed this save file's unit or lot limit. Unit count for this save file is currently {0.Number}/{1.Number}.
+Save Room to My Library
+Save Tattoo to My Library
+Save Household to My Library
+Room already saved
+Tattoo already saved
+Household already saved
+Lot already saved
+Save Lot to My Library
+Randomize Portrait
+Favorites
+Downloads
+This Gallery item was created using Custom Content that may not be available to you. Custom Content is not pre-screened by Maxis. Use at your own discretion.
+This lot was built with a cheat that removed the 6 unit limit for Residential Rentals. It may not display as expected.
+Favorite Room
+Favorite Tattoo
+Favorite Household
+Cannot favorite your own items.
+Household must be saved in order to add to Favorites.
+Favorite Lot
+Facebook service unavailable
+Share Room to Facebook
+Share Tattoo to Facebook
+Share Household to Facebook
+Item must be shared to the Gallery in order to share on Facebook.
+Share Lot to Facebook
+Delete from My Library
+Item must be shared to enable commenting.
+Cannot save content because it was created with a newer version of the game. Restart your game to check for updates.
+Cannot place content because it was created with a newer version of the game. Restart your game to check for updates.
+You don't have the content required for these tattoos.
+You don't have the content required for these pets.
+Share and Play
+This lot is not editable while on vacation
+Cannot merge Sim(s) into a household living at University Housing.
+Placing this lot will exceed this save file's unit or lot limit. It is currently at {0.Number}/{1.Number}.\n\nRemove some of your other units before attempting to place this lot.
+You cannot place a lot on a Residential Rental occupied with tenants.
+Merging household would exceed the maximum number of allowed Sims.
+Lot dimensions too small to accommodate blueprint.
+You must change the lot type before placing lots that aren't Residential Rentals.
+Tattoos can't be applied to Servos.
+Tattoos can't be applied to Pets.
+Glowing tattoos can only be applied to Fairy Sims.
+Tattoos can't be applied to Sims in Beast form.
+Tattoos can only be applied to Teen and older Sims.
+Cannot merge Household while at an active career lot.
+Cannot apply Gallery templates in this game mode.
+Insufficient funds to place Lot.
+Cannot apply Households in this mode of Create A Sim.
+Place Lot and Edit
+Unavailable
+This Gallery item was created using purchased, free or promotional content that you do not own.
+{0.SimPronounReflexive} {0.SimPronounReflexive|xxUpper}
+Possessive Independent: {M0.his}{F0.hers} {M0.His}{F0.Hers}
+{0.SimPronounPossessiveIndependent} {0.SimPronounPossessiveIndependent|xxUpper}
+Possessive Dependent: {M0.his}{F0.her} {M0.His}{F0.Her}
+{0.SimPronounPossessiveDependent} {0.SimPronounPossessiveDependent|xxUpper}
+{0.SimPronounObjective} {0.SimPronounObjective|xxUpper}
+Objective:: {M0.him}{F0.her} {M0.Him}{F0.Her}
+{0.SimNameAndPronouns} {0.SimNameAndPronouns|xxUpper}
+{0.DayOfWeekShort} {0.DayOfWeekLong}
+{0.DateShort} {0.DateLong}
+{0.DayOfWeekShort} {0.TimeShort}
+W
+T
+T
+S
+S
+M
+&lt;span class = 'sunday'&gt;S&lt;/span&gt; &lt;span class = 'monday'&gt;M&lt;/span&gt; &lt;span class = 'tuesday'&gt;T&lt;/span&gt; &lt;span class = 'wednesday'&gt;W&lt;/span&gt; &lt;span class = 'thursday'&gt;T&lt;/span&gt; &lt;span class = 'friday'&gt;F&lt;/span&gt; &lt;span class = 'saturday'&gt;S&lt;/span&gt;
+F
+Localization Voice Talents
+Localization Recording Studios
+EA Localization Audio Capture
+Maxis would like to thank Harrie, Thomas Sidney “Thomas TV,” Clare Siobhán Callery, and Devon Bumpkin for their amazing talent and helping us create amazing lots that make Henford-on-Bagley truly a wonderful place.
+Walt Disney Imagineering Sound &amp; Music
+Sr. Music Producer &amp; Creative Director
+Sound Editor
+Assistant Producer, Digital
+Audio Media Designer
+Walt Disney Imagineering
+Senior Producer
+Senior Design Asset Specialist
+Portfolio Creative Executive

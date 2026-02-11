@@ -1,0 +1,100 @@
+Paint Forgery
+Unlock at level 3 of the Style-Influencer career
+Quick Sketch Impression
+Resume {2.String}
+Scrap {2.String}
+Nap on Ground
+Super Splash!
+Quickly Wash Hands
+Quickly Wash Dishes
+(From Washing Dishes Off-the-Grid)
+(From Washing Dishes Off-the-Grid)
+Continue Upgrading Self-Cleaning
+Continue Upgrading Auto-Soap Dispenser
+Continue Upgrading Sturdy Faucets
+Install the Aqua-Pura self-cleaning Faucet attachment and never clean the Sink again.
+Self-Cleaning
+Soap-up and wash-up faster under the watchful present of the Auto-Soap Dispenser.
+Auto-Soap Dispenser
+Sturdy Faucets
+{0.SimFirstName} can't upgrade this sink while it's broken.
+Upgrade complete!\n\n{0.SimFirstName} has finished installing the sink upgrade.
+Grab Water
+Get
+Get Water
+Clog Drain
+Clean Up {2.SimFirstName}
+Energized Sims clean much faster!
+Quickly Brush Teeth
+Encourage Brushing Teeth
+Swim
+Learn to Swim
+Hand {0.SimFirstName} to
+Ask for Food
+Ask {2.SimFirstName} for Food
+Ask for Drink
+Ask {2.SimFirstName} for Drink
+Give Food To
+Order to Eat
+Order {2.SimFirstName} to Eat
+Give Food to {2.SimFirstName}
+Give Drink To
+Order to Drink
+Order {2.SimFirstName} to Drink
+Give Drink to {2.SimFirstName}
+Give Drink to {2.SimFirstName}
+Put Down
+Ask to Be Carried Here
+Carry Here
+Ask {2.SimFirstName} to Carry Here
+Ask for Bedtime Story
+Story Time
+Bedtime Story
+Bedtime Story Please
+Ask {2.SimFirstName} to Read to Sleep
+Read Toddler to Sleep
+Read {2.SimFirstName} to Sleep
+Put Toddler to Bed
+Ask to Tuck In
+Night Night
+Sleepy Time
+Ask {2.SimFirstName} to Put to Sleep
+Ask to Be Put Here
+Carry Here Please
+Yell At For Hitting Stuffed Animals
+Stargaze Together
+Cloudgaze Together
+(From Being Skeptical)
+Visit Apartment
+Follow Household Shoe Rules
+Gloat Over
+More gloating? Not now, no thanks.
+Sell
+Salvage into Parts
+Tell Secret
+Play
+Wait for Food or Drink
+Wait for Food
+Wait for Drink
+Watch
+Turn On
+Turn Off
+Play Cards With
+There are not enough chairs at the table to play a game.
+{0.SimFirstName} needs other Sims to play with. 
+Play With
+Class can't be started until a customer has checked in.
+{0.SimFirstName} must be the Owner or an Employee of an open Small Business.
+Only one Hobby Class can run at a time.
+Can't start a Class when another Social Event is already running.
+{2.String} Class
+{0.String} (+{1.Money}/Attendee)
+Prepare {2.String} Lecture
+Requires Skill Level 5.
+Hold {2.String} Lecture
+{2.String} Lecture
+Being Playful helps with Skill gain!
+Being Inspired helps with Skill gain!
+Being Focused helps with Skill gain!
+Being Flirty helps with Skill gain!
+Being Energized helps with Skill gain!

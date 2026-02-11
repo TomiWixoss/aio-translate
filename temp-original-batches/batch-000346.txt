@@ -1,0 +1,100 @@
+&quot;I bet I could swipe {1.Number} things without getting caught!&quot;
+\n&lt;b&gt;&lt;font color='#2182E6'&gt;Do outdoor activities {1.Number} times. Activities include: Gardening, Swimming, Catching a Frog, Interacting with Campfires, Beachcombing &lt;i&gt;(Island Living)&lt;/i&gt;, and Skiing or Playing in snow &lt;i&gt;(Snowy Escape)&lt;/i&gt;.&lt;/font&gt;&lt;/b&gt;\n\nI love rocks and grass and sand and bugs and the sun and pretty much anything that's outdoors! I should do a bunch of stuff outside, just to prove to myself and others how outdoorsy I am!
+&quot;An Outdoorsy kid like me should really do a bunch of outdoorsy things to show just how outdoorsy I really am.&quot;
+\n&lt;b&gt;&lt;font color='#2182E6'&gt;Set {1.Number} pranks.&lt;/font&gt;&lt;/b&gt;\n\nSomeone is going to fall for my pranks for sure! And it'll be soooooo funny! I bet they'll be really confused! Haha!
+&quot;Hehe. I'm going to prank &lt;i&gt;so many&lt;/i&gt; things!&quot;
+\n&lt;b&gt;&lt;font color='#2182E6'&gt;Do Pranks {1.Number} times. Tip: Mischief Pranks can be found in the Mischief Pie Menu category on another Sim.&lt;/font&gt;&lt;/b&gt;\n\nI love a good &quot;got 'em&quot;! This is going to be so much fun! It's so funny the way Sims react when they get pranked!
+&quot;It'd be so funny to see my family's reaction when I prank them!&quot;
+\n&lt;b&gt;&lt;font color='#2182E6'&gt;Interact with {1.Number} different Sims and choose to tell any kind of story. Tip: Find the Stories Pie Menu category in the Friendly and Funny categories.&lt;/font&gt;&lt;/b&gt;\n\nI know some of the &lt;i&gt;bestest&lt;/i&gt; stories there ever were! This one time...
+&quot;I know some good stories. I should tell them to a bunch of Sims!&quot;
+\n&lt;b&gt;&lt;font color='#2182E6'&gt;Have Sims nearby watch when {0.SimFirstName} Sings with a Microphone or plays on the Piano or Child's Violin.&lt;/font&gt;&lt;/b&gt;\n\nI can be super entertaining when I want! Watch me! La, la, la, la!
+&quot;I've gotta find someone who will watch me play my instrument!&quot;
+\n&lt;b&gt;&lt;font color='#2182E6'&gt;Do Homework when {0.SimFirstName} receives it in {0.SimPronounPossessiveDependent} inventory.&lt;/font&gt;&lt;/b&gt;\n\nHomework can be pretty tough, but if I'm going to be a good student then I'm going to need to do it. I'm sure I could get some help if I really needed, but I could probably do it all on my own too! I just hope there isn't too much!
+&quot;I should do my homework {1.Number} times. That'll show that I am the best student, for sure!&quot;
+\n&lt;b&gt;&lt;font color='#2182E6'&gt;Do Homework after School, go to School in a good Mood with Needs filled, and make good choices while at School.&lt;/font&gt;&lt;/b&gt;\n\nI think an A or a B would prove that I'm a pretty good student! If I study hard and make sure I'm ready for school each day, I think I can do it!
+&quot;I want to get at &lt;i&gt;least&lt;/i&gt; a B in school, but an A would be even better!&quot;
+\n&lt;b&gt;&lt;font color='#2182E6'&gt;Do physical activities that build Motor Skill like playing on the Jungle Gym {1.Number} times.&lt;/font&gt;&lt;/b&gt;\n\nGo ahead! Throw any challenge at me! I can climb anything, race faster than any other kid! Look at my muscles! Raaaar!
+&quot;I can prove how strong and fast I am! Just watch!&quot;
+\n&lt;b&gt;&lt;font color='#2182E6'&gt;Become Friends, Best Friends, or BFF with an Infant Sim by succeeding when socializing with them.&lt;/font&gt;&lt;/b&gt;\n\nThey may be littler than me, but I think we're going to have something special! Someday they'll grow up and be just as old as me! And then we'll be the best of friends! I wonder if they'll remember all of our good times together?
+&quot;I want to be an Infant's favorite Sim! At least, &lt;i&gt;one&lt;/i&gt; of their favorite Sims!&quot;
+\n&lt;b&gt;&lt;font color='#2182E6'&gt;Interact with an Infant, a Toddler or a Newborn and Chat or play Peek-a-Boo {1.Number} times.&lt;/font&gt;&lt;/b&gt;\n\nLook how little they are! I love hearing baby giggles and babbles! I bet I can get good at making them happy too!
+&quot;I bet I could get along really well with a real live baby!&quot;
+\n&lt;b&gt;&lt;font color='#2182E6'&gt;Use the Phone or a Camera to take a photo. Then go to {0.SimFirstName}'s inventory and choose to Sell to Publication {1.Number} times.&lt;/font&gt;&lt;/b&gt;\n\nReal, grown up Photographers make money when they sell their photographs! I might just be a kid, but I bet I could make Simoleons too! I'm going to prove it, and then that'll prove that I'm a real, professional photographer!
+&quot;I bet I could sell my photographs just like a real grown up photographer!&quot;
+\n&lt;b&gt;&lt;font color='#2182E6'&gt;Use the Phone or a Camera. Focus on a subject and take {1.Number} photographs.&lt;/font&gt;&lt;/b&gt;\n\nLet's see! There are a lot of things out there that'd be very fun to take a picture of! I wonder what things are the most artsy? Maybe I could get someone to pose for me like a model!
+&quot;I should practice my Photography by taking a bunch of pictures of Sims and other artsy things.&quot;
+\n&lt;b&gt;&lt;font color='#2182E6'&gt;Order from {1.Number} different Market Stalls.&lt;/font&gt;&lt;/b&gt;\n\nI have a &lt;i&gt;fancy&lt;/i&gt;...what's that word? Pallen? A palert? A palette? Anyways, it's pretty much the fanciest and most &lt;i&gt;extinguished&lt;/i&gt; of all time.
+&quot;I'm going to try food and drinks from &lt;i&gt;pretty much&lt;/i&gt; everywhere!&quot;
+Earn Gold on {1.Number} Thrown Parties
+Attend {1.Number} Social Events
+Throw {1.Number} Social Events
+Perform {1.Number} Comedy Routines
+Attend Social Events at {1.Number} Unique Locations
+Earn Silver on {1.Number} Thrown Parties
+Write {1.Number} Comedy Routines
+Earn Silver on {1.Number} Social Events
+Make a BFF
+Own a Microphone
+Throw {1.Number} Parties
+Click on the Phone to Plan a Party Event. Once the Event starts, complete the Goals that pop-up to earn a higher score!
+Click on the Phone to Plan a Party Event. Once the Event starts, complete the Goals that pop-up to earn a higher score!
+Click on the Phone to Plan a Party Event. Once the Event starts, complete the Goals that pop-up to earn a higher score!
+Click on the Phone to Plan a Party Event. You can plan Events at locations other than your Home Lot. Once the Event starts, complete the Goals that pop-up to earn a higher score!
+Click on the Phone to Plan a Party Event. Once the Event starts, complete the Goals that pop-up to earn a higher score!
+Click on the Phone to Plan a Party Event. Once the Event starts, complete the Goals that pop-up to earn a higher score!
+Click on the Phone to Plan a Party Event. Once the Event starts, complete the Goals that pop-up to earn a higher score!
+To increase Charisma skill, socialize with other Sims, use the Mirror to Practice Speaking, or read a Charisma Skill Book. Skill Books can be purchased directly from a Bookshelf by using the Purchase Books interaction!
+Click on a Sim and perform Friendly or Funny Socials to increase Relationship!
+Click on a Sim and perform Friendly or Funny Socials to increase Relationship!
+To increase Charisma skill, socialize with other Sims, use the Mirror to Practice Speaking, or read a Charisma Skill Book. Skill Books can be purchased directly from a Bookshelf by using the Purchase Books interaction!
+Click on a Sim and perform Friendly or Funny Socials to increase Relationship! To see who a Sim is friends with, click the 'Friends' button in the Sim's relationship panel.
+Achieve Level {1.Number} Charisma Skill
+Travel to different locations by using the World Map. Click on unknown Sims and chose an introduction!
+Meet Someone New in {1.Number} Different Locations
+To increase Comedy skill, use the Microphone, Write Jokes on the Computer, or read a Comedy Skill Book. Skill Books can be purchased directly from a Bookshelf by using the Purchase Books interaction!
+Click on the Microphone and select a routine to perform. Sims with higher Comedy skill can write new Comedy Routines on the Computer.
+To increase Comedy skill, use the Microphone, Write Jokes on the Computer, or read a Comedy Skill Book. Skill Books can be purchased directly from a Bookshelf by using the Purchase Books interaction!
+Click on a Computer and select Compose Routine under the Comedy category. Computers can be purchased from Build Mode under the Study Room Sort. 
+To join the Comedian branch, first progress through the Entertainer career by completing Promotion Requirements and attending work in the Career's Ideal Mood. 
+Join the Comedian Branch of the Entertainer Career
+Microphones can be purchased from Build Mode under the Study Room Sort.
+To become an Entertainer, click on the Phone or Computer and select the Find a Job interaction.
+Join the Entertainer Career
+Click on a Sim and select Socials from the Funny category.
+Achieve Level {1.Number} Comedy Skill
+Have Earned {1.Money} in Royalties Publishing Books
+Complete {1.Number} Bestsellers
+Achieve Level 10 Writing Skill
+Complete {1.Number} Masterpieces
+Achieve Level 10 Painting Skill
+Write {1.Number} Excellent Books
+Publish {1.Number} Books
+Complete {1.Number} Excellent Paintings
+Write {1.Number} Songs
+Write {1.Number} Good Books
+Sell {1.Number} Paintings to Collectors or Art Gallery
+Write {1.Number} Books
+Achieve Level {1.Number} Writing Skill
+Start {1.Number} Paintings while Inspired
+Complete {1.Number} Emotional Paintings
+Practice Music for 6 Hours
+Have Written for 15 Total Hours
+Paint for 5 Hours
+Click on a Sim playing a Musical Instrument and select Mentor. This interaction can be unlocked by maxing out a Musical Instrument skill.
+Mentor Others in Music for {1.Number} Hours
+Musical Instruments can be purchased from Build Mode under the Study Room Sort.
+Have Spent {1.Number} Hours Playing Musical Instruments
+To increase a Sim's Musical Instrument skill, click on an instrument and select one of the interactions or read a Musical Instrument Skill Book. Skill Books can be purchased directly from a Bookshelf by using the Purchase Books interaction!
+Click on the Mailbox and select License Song. Sims can unlock this interaction by increasing their Musical Instrument skill and writing a song.
+Earn {1.Money} from Licensed Songs
+Click on a Musical Instrument and select Write Song. Sims with high Skill are more likely to create higher quality Songs.
+To increase a Sim's Musical Instrument skill, click on an instrument and select one of the interactions or read a Musical Instrument Skill Book. Skill Books can be purchased directly from a Bookshelf by using the Purchase Books interaction!
+Click on an Instrument and select an interaction to play it. To become Inspired, take a Thoughtful Shower, Read a Book, or do Creative work.
+Play an Instrument for {1.Number} Hour while Inspired
+To increase a Sim's Musical Instrument skill, click on an instrument and select one of the interactions or read a Musical Instrument Skill Book. Skill Books can be purchased directly from a Bookshelf by using the Purchase Books interaction!
+Achieve Level {1.Number} Skill in an Instrument
+Click on a Stereo and select which genre to Listen To. Stereos can be purchased from Build Mode under the Living Room Sort.
+Listen to Music for {1.Number} Hours
+Click on an Instrument and select Practice. Instruments can be purchased from Build Mode under the Study Room Sort.
+Click on a Computer and select a genre of book to write under the Write category. Once the book is complete, click on the Mailbox to Publish it. Sims with high Writing skill are more likely to create a Bestseller!
+Click on a Computer and select a genre of book to write under the Write category. Once the book is complete, click on the Mailbox to Publish it. Sims with high Writing skill are more likely to create a Bestseller!

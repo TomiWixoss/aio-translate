@@ -1,0 +1,100 @@
+Sell This Business?
+This business is currently owned by the {1.String} household. Upon confirmation, the lot and its contents will be sold, and {2.Money} will be deposited to the {1.String} household's funds.
+Sell Venue
+{0.SimName} has {1.TimespanShort} left in {M0.his}{F0.her} workday.
+Stay late
+Leave work early
+What would you like {M0.him}{F0.her} to do?\n(Note: Ending the day early will result in a penalty.)
+Work day ends at {0.TimeShort}
+{0.String} +{1.Number}
+Net Profit:
+Hours Open:
+Unknown
+???
+99+ / {0.Number}
+{0.Number} / {1.Number}
+End of Shift
++{0.Number} Vacation {S0.Day}{P0.Days}
+Leave Work
+Money Earned
+Careers\nWhen it's time to go to work, the Sims will leave the player and return after their shift is finished.
+All Careers
+Professions\nThese give you the opportunity to travel with your Sims when they go to work to help them perform their duties.
+Unavailable while purchasing a venue. 
+Sims can only purchase unowned businesses or unoccupied residential lots.
+Select a Retail Store
+Cancel Venue Purchase
+Married to:\n{0.SimName}
+{0.SimFirstName}'s Genealogy
+Show {0.SimFirstName}'s Genealogy
+Cannot apply a Lot of a different venue type on owned Lots!
+Cannot apply to apartments
+Descendant
+{M0.Half-brother}{F0.Half-sister}
+{M0.Great-grandfather}{F0.Great-grandmother}
+{M0.Great-grandson}{F0.Great-granddaughter}
+Ancestor
+Rewards:
+&lt;span class=&quot;link&quot;&gt;&lt;a href=&quot;event:{0.String}&quot;&gt;Read More&lt;/a&gt;&lt;/span&gt;
+Do not show this again
+Click to collapse or expand.
+{1.Number}d {0.Number}h
+Community progress cannot be displayed while disconnected.
+Game Time Elapsed: {0.Timespan}
+You've completed the Scenario!
+&quot;Everything She Ain't&quot; \nPerformed by Hailey Whitters\nWritten by Bryan Simpson (BMI) / Ryan Tyndell (BMI) / Hailey Whitters (ASCAP)\nPublished by Cockeyed Hat Music (BMI), Administered by Me Gusta Music / Harolds Purple Heart Music / Little Louder Songs (BMI) Administered by Songs of Kobalt Music Publishing / Pigasus (ASCAP)\nRecording courtesy of ℗ 2022 Pigasus Records / Big Loud Records / Songs &amp; Daughters 
+&quot;Call Me What You Like&quot;\nPerformed by Lovejoy\nWritten by William Gold / Joe Goldsmith / Ashley Stevens / Mark Boardman (PRS)\nPublished by SM Publishing (UK) LTD. (PRS) / Sony/ATV Tunes LLC (ASCAP) \nRecording courtesy of Anvil Cat Records by arrangement with AWAL Recordings Ltd.
+&quot;Barley&quot;\nPerformed by Water From Your Eyes\nWritten by Nate Amos / Rachel E. Brown (ASCAP)\nPublished by Nate Amos Copyright Control / Rachel E. Brown Copyright Control (ASCAP)\nRecording courtesy of Matador Records
+&quot;Any Turn&quot;\nPerformed by Orville Peck\nWritten by Daniel Pitout (ASCAP)\nPublished by WC Music Corp. (ASCAP)\nRecording courtesy of Columbia Records\nBy Arrangement with Sony Music Entertainment
+“Angelica” \nPerformed by Wet Leg\nWritten by Rhian Louise Teasdale (PRS)\nPublished by Domino Publishing Company of America, Inc. (BMI)\nRecording courtesy of Domino Recording Company
+Additional Music provided by Warner Chappell Music Library
+“The Princess And The Clock”\nPerformed by Kero Kero Bonito\nWritten by Gus Lobban\nPublished by Copyright Control\nRecording courtesy of Polyvinyl Records by arrangement with Bank Robber Music
+“Ring Pop”\nPerformed by Jax\nWritten by Allison Crystal, Alexander Paul Sacco, Noemi Legrand and Jacqueline Miskanic\nPublished by Ring Pop, Ultrec Music (SESAC) o/b/o Stonewall Songs (SESAC), Ultrec Music (SESAC), Ultra Empire Music (BMI) o/b/o LoveFate Music Company (BMI) &amp; Ultra Empire Music (BMI), Disney Music Publishing and Happy Home Music\nRecording courtesy of Atlantic Recording Corp. by arrangement with Warner Music Group Video Game Licensing
+“Small Town Hypocrite”\nPerformed by Caylee Hammack\nWritten by Caylee Hammack and Jared Slocum\nPublished by Universal Music Corp. on behalf of itself and Sounds Like Chet Publishing and 27 Entertainment administered by Kobalt Music Publishing America, Inc.\nRecording courtesy of Capitol Nashville Records under license from Universal Music Enterprises
+“Angel”\nPerformed by Lava La Rue\nWritten by Aiwa Laurel, Isom Innis and Deborah Jung\nPublished by Domino Publishing Company of America Inc. (BMI), Isom Innis Music (BMI) administered by Domino Publishing Company of America Inc. (BMI) and Copyright Control\nRecording courtesy of Marathon
+“Wayflin Faza Nibe” written and recorded by Raney Shockne
+Music Supervisor
+“Walking At A Downtown Pace”\nPerformed by Parquet Courts\nWritten by Andrew C. Savage, Austin Bradley Brown, Sean Matthew Yeaton and Maxwell Oliver Savage\nPublished by Domino Publishing Company of America Inc. (BMI)\nRecording courtesy of Rough Trade Records
+&quot;Ghosts&quot; ft. Ramya Pothuri\nPerformed by Sandunes\nWritten by Sanaya Adeshir\nCopyright Control\nRecording courtesy of K7 Music GmbH
+“Ruby”\nPerformed by Hovvdy\nWritten by Charlie Harrison Martin (ASCAP), William Taylor (ASCAP)\nPublished by HOVVDY (ASCAP) administered by Domino Publishing Company USA (ASCAP)\nRecording courtesy of Grand Jury Music
+“Dirtbag Transformation (Still Dirty)”\nPerformed by Horsegirl\nWritten by Genevieve Reece (BMI), Penelope Lowenstein, Nora Cheng (BMI)\nPublished by Beggars Music (BMI), Mattitude Music, LLC (BMI)\nRecording courtesy of Matador Records
+“Cosigns”\nPerformed by Bartees Strange\nWritten by Bartees Leon Cox Jr. (BMI)\nPublished by Rough Trade Songs (BMI)\nRecording courtesy of 4AD by arrangement of Beggars Group Media Limited
+“Contraband”\nPerformed by eee gee\nWritten by Gabriel Beltrone (ASCAP), Emma Grankvist Kristensen (ASCAP), Rasmus Bille Bahncke (ASCAP)\nPublished by Baby Sasquatch (ASCAP), Future Classic Publishing PTY Ltd. (ASCAP) admin by Kobalt Songs Music Publishing Inc. (ASCAP), Squash Em Music, Universal Music - Z Tunes LLC (ASCAP)\nRecording courtesy of Future Classic
+“sims”\nPerformed by corook\nWritten by Corinne Savage (BMI), Caroline Pennell (BMI), Lauren Aquilina (PRS)\nPublished by Sony/ATV Songs LLC (BMI), Caroline Pennell Music (BMI), Sony/ATV Music Publishing Allegro (UK) (PRS)\nRecording courtesy of Atlantic Records
+“sad disco”\nPerformed by mxmtoon\nWritten by Maia Moredock-Ting pka mxmtoon (ASCAP), Gabe Simon (ASCAP)\nPublished by mxmtoon (ASCAP) admin by Kobalt Songs Music Publishing Inc. (ASCAP), These Are Songs of Pulse (ASCAP) o/b/o itself and Gabe Simon Music Publishing (ASCAP) admin by Concord Sounds (ASCAP)\nRecording courtesy of AWAL Recordings
+“Ragdoll”\nPerformed by poutyface\nWritten by Jeoffrey Harris (ASCAP), William Behlendorf (ASCAP), Ryan Santiago (ASCAP), Olivia Howard (ASCAP), Kristine Flaherty (BMI)\nPublished by Brill Building Songs / Dotdotdot Publishing (ASCAP), Will Jay Songs (ASCAP), AVEX USA Songs, Universal Music Corp. on behalf of itself and Ryan Santiago Publishing (ASCAP), Peculiar Side Arrangement Music (ASCAP), WC Music Corp. (ASCAP), Dressing on the Side of Songs (BMI), Warner- Tamerlane Pub. Corp. (BMI)\nRecording courtesy of Island Records
+“Entropy”\nPerformed by Beach Bunny\nWritten by Liliana Trifilio (BMI), Anthony Vaccaro (BMI), Matthew Henkels (BMI), Jonathan Alvarado (ASCAP)\nPublished by Sony/ATV Songs LLC (BMI), Sony/ATV Tunes LLC (ASCAP)\nRecording courtesy of Mom + Pop Music by arrangement with Hidden Track Music
+“Wanna Love Ya” written by Konrad OldMoney feat.Sylwia Przybysz\n“Bounce” written by Konrad OldMoney\n“Seven” written by Konrad OldMoney feat.Cerbeus
+“Blava” written by Raney Shockne\n“Bway Blob” written by Raney Shockne\n“Swabadabe” written by Raney Shockne
+“Blar Zom” written by Charlton Pettus\n“Goombie Choolop” written by Charlton Pettus\n“Voebareppa” written by Charlton Pettus
+“DTM”\nPerformed by Alice Longyu Gao\nWritten by Alice Longyu Gao (BMI), Patrick Liam O'Halloran (ASCAP)\nPublished by Patrick Liam O'Halloran Publishing Designee, These Are Songs of Pulse (ASCAP) o/b/o itself, Kawaii Songz (ASCAP) and Alice Longyu Gao (ASCAP) admin by Concord Sounds (ASCAP)\nRecording courtesy of AWAL Recordings
+“Shotgun”\nPerformed by Soccer Mommy\nWritten by Sophie Allison (ASCAP)\nPublished by Soccer Mommy Music (ASCAP)\nRecording courtesy of Loma Vista Recordings, distributed by Concord
+“Remember That Night?”\nPerformed by Sara Kays\nWritten by Sara Kays and Steven Martinez\nPublished by Psychic Music, Sara Kays Songs and Steven Martinez Songs\nRecording courtesy of Atlantic Recording Corp. by arrangement with Warner Music Group Video Game Licensing
+“Newbury Park”\nPerformed by Lexi Jayde\nWritten by Lexi Jayde, Danny Spadaro, Mark Landon, Jax Anderson and Seth Anderson\nPublished by Alexis Burnett Publishing, Doggie Dandruff, Assemble Sound o/b/o Seth Anderson Music, Anthems Of Primary Wave Administered by Kobalt Music Publishing America, Inc. and Copyright Control\nRecording courtesy of APG/Artist PG
+“Last Day On Earth”\nPerformed by Beabadoobee\nWritten by Matthew Healy, Georgie Daniel, Beatrice Laus, Nelson Riddle and Robert Harris\nPublished by Good Soldier Songs LTD - c/o Downtown DMP Songs – BMI, Sony/ATV Music Publishing (UK) Limited (PRS) and Warner Chappell North America\nRecording courtesy of A&amp;G Sync o/b/o Dirty Hit
+“In A Bind (Batry Powr remix)”\nPerformed by Vagabon\nWritten by Laetitia Ange Tamko\nPublished by Vagabon Tracks (ASCAP) Administered by Kobalt Music Publishing America, Inc\nRecording courtesy of Nonesuch
+“Hot &amp; Heavy”\nPerformed by Lucy Dacus\nWritten by Lucy Dacus\nPublished by Hipgnosis Beats/Looseleaf Daykiss\nRecording courtesy of Matador Records
+“Faith Healer”\nPerformed by Julien Baker\nWritten by Julien Baker\nPublished by Julien Baker (BMI) Administered by Kobalt Music Publishing America, Inc\nRecording courtesy of Matador Records
+“Café Delux”\nPerformed by Osei The Seventh\nWritten by Osei David and David Francis Sheppard\nPublished by Osei The Seventh (self-administers)\nRecording courtesy of Three Six Zero Recordings
+“Be Sweet”\nPerformed by Japanese Breakfast\nWritten by Michelle Zauner &amp; Jack Tatum\nPublished by Secretly Publishing\nRecording courtesy of Dead Oceans
+“Forever To Hold”\nWritten by Kari Kimmel
+“Zooboe Gryybe”\nWritten by Charlton Pettus
+“Apricots”\nPerformed by MAY-A\nWritten by Maya Cummings and Robby De Sa\nPublished by Sony Music Publishing (Australia) Pty Limited (APRA), Sony Music Publishing Allegro (Australia) (APRA)\nRecording courtesy of Atlantic Recording Corp. by arrangement with Warner Music Group Video Game Licensing
+&quot;Briando&quot;\nPerformed by Electric Jalaba\nWritten by Oliver Keen, Simo Lagnawi, Dave De Rose, Henry Keen, Nathaniel Keen, and Barnaby Keen\nCopyright Control\nRecording courtesy of Strut Records, a division of K7 Music GmbH
+Marketing and Commercial Organization
+Marketing and Communications Manager
+Manager, User Experience Research
+Manager, Player &amp; Quality Insights Operations
+Manager, Research Operations
+Vice President, Franchise Content &amp; Strategy
+Senior Creative Executive, Franchise Story &amp; Content
+Lucasfilm Story Group
+Keeper of the Holocron
+Junior Creative Executive, Franchise Story &amp; Content
+Director, Franchise Content &amp; Strategy
+Creative Executive, Franchise Story &amp; Content
+Maxis would like to thank Janaina &quot;Nina&quot; Schmidt, Megan &quot;CrackedKyber&quot;, Sandra Pyka, and The Sim Scrolls for their amazing talent and for helping us create the spectacular lots in Innisgreen.
+Maxis would like to thank Vanessa A. López Gómez &quot;Shikiuv,&quot; Jesus David Hernandez Florentino &quot;Fritosaurio,&quot; and Ayessha Collins &quot;RusticSims&quot; for their amazing talent and for helping us create the spectacular lots in Ciudad Enamorada.
+Maxis would like to thank Ashley Chan &quot;Doctor Ashley&quot;, Chrissie York &quot;ChrissieYT&quot;, Christine Gylthe &quot;Ninnster&quot; and Frida Beyer &quot;Simproved&quot; for their amazing talent and helping us create the spectacular lots in Chestnut Ridge.
+Live Operations Team
+Franchise Development Coordinator

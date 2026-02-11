@@ -1,0 +1,100 @@
+Attempt to Seduce
+Be Scared by {1.SimFirstName}
+Ask What Happened
+Be Invited to Stay the Night
+Invite to Stay the Night
+{1.SimFirstName} is already spending the night here.
+A sleepover? Sounds great!
+Ask to Stargaze
+Ask to Cloudgaze
+Ask to Spray the Monster under the Bed
+Ask to Just Be Friends
+{0.SimName} and {1.SimName} have decided to cool off their romantic relationship.
+Listen to {1.SimFirstName}'s Question
+Ask to Cleanup Toys
+Become Romantic Partner of {1.SimFirstName}
+Ask to Be Romantic Partner
+Nervously Ask to Be Romantic Partner
+{0.SimFirstName} is asking {1.SimFirstName} to be Romantic Partners!
+Become Romantic Partner of {1.SimFirstName}
+Ask to be Romantic Partner
+Nervously Ask to Be Romantic Partner
+Become Best Friends with {1.SimFirstName}
+Become Best Friends
+Become Best Friends Forever
+{0.SimName} and {1.SimName} are becoming Best Friends Forever!
+{0.SimName} and {1.SimName} are becoming Best Friends!
+Ask {1.SimFirstName} to Pursue their Dream Job
+{1.SimFirstName} is still thinking about this from your previous discussion, give them a little more time to respond.
+{0.SimFirstName} recently tried asking {1.SimFirstName} this question. Try asking again later.
+{0.SimFirstName} should find out what {1.SimFirstName}'s current career is before asking this question.
+Listen to Risque Question
+Ask Risque Question
+Ask Completely Inappropriate Question
+Ask to Rock Boat
+Propose Scandalous Question
+Ask Indecent Question
+Ask What {1.SimFirstName}'s Problem Is
+Ask to Create a Date
+Be Asked on Date
+Ask on Date...
+Feebly Ask on Date...
+Can't start a date in the middle of another Social Event.
+Ask to Join Household
+Be Asked To Move In
+Ask to Move In
+Moving in with a student would be inappropriate. Finish or drop out of university to ask this professor to move in.
+{0.SimFirstName} already asked {1.SimFirstName} to move in. {0.SimFirstName} needs to wait a while before asking again.
+Listen to {1.SimFirstName}'s Question
+Ask Impossible Riddle
+Be Asked if Single
+Ask if Single
+The forces of evil don't have time for romance. What kind of question is that?
+My work-life balance includes nobody else. No living body, that is.
+{0.SimFirstName} has learned that {1.SimFirstName} is married to {2.SimFirstName}.
+{0.SimFirstName} has learned that {1.SimFirstName} is single!
+I am now and will forever be contentedly single, unlike most of the uncouth rakes of this world.
+Not that it's any of your business, but I'm doing quite well on my own, thank you.
+HAHAHA. Good joke! Of course Trashley is single person. Only one me, yes.
+What? How could Trashley be multiple? I am normal single person.
+Listen to {1.SimFirstName}'s Question
+Ask For Typing Tips
+Listen to {1.SimFirstName}'s Question
+Ask for Small Loan
+Offer {1.SimFirstName} Reassurance
+Ask For Reassurance
+Listen to {1.SimFirstName}'s Question
+Ask for Large Loan
+{1.SimFirstName}: &quot;Here you go, {0.SimFirstName}! Try to pay it back when you can&quot;
+Be Asked for Encouragement
+Ask for Encouragement
+Be Asked Advice
+Ask for Advice
+Listen to {1.SimFirstName}'s Question
+Ask Due Date
+Listen to {1.SimFirstName}'s Question
+Ask Baby's Due Date
+Listen to {1.SimFirstName}'s Question
+Ask about WooHoo
+Listen to {1.SimFirstName}'s Question
+Ask about School
+Ask about Love Life
+Listen to {1.SimFirstName}'s Question
+Ask about Recent Dates
+Listen to {1.SimFirstName}'s Question
+Ask about Food
+Listen to {1.SimFirstName}'s Question
+Ask about Favorite Author
+Listen to {1.SimFirstName}'s Question
+Ask about Drinks
+Lounge on {1.ObjectName}
+Have Sim get on the vessel.
+Exit {1.ObjectName}
+Scrap In-Progress Papercraft
+This will scrap the in-progress papercraft project.
+Resume Papercraft
+Gift Papercraft to {1.SimFirstName}
+All Papercrafts in {0.SimFirstName}'s Inventory are Ruined.
+Add to Favorites
+Remove from Favorites
+(From Sleeping in Bush)

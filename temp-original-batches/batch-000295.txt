@@ -1,0 +1,100 @@
+Vertical Sync:
+Uncompressed Sim Textures:
+Sims:
+{0.Number}x{1.Number}
+Resolution:
+Refresh Rate:
+Reflections:
+Post Processing Effects:
+Off
+Objects:
+Medium
+Low
+Lighting:
+Laptop Mode:
+High
+Graphics
+Fullscreen
+DirectX 9
+Edge Smoothing:
+Display Type:
+Move in lets you combine the households into one household.
+Existing household has an active Scenario, complete or cancel their Scenario to merge households
+Household is too big to join {0.String}.
+Evicted Sims will be removed from their current lot. They can be found in the Household Management menu.
+You must evict from Manage Worlds.
+Weekly Rent: {0.Money}
+Replace Lot
+Replacing {0.String}
+Daily Rent: {0.Money}
+{0.String} (Gallery)
+What Venue Type?
+{0.String} (Current)
+Unfurnished
+The {0.String}
+Could this be the perfect home?
+Sell this lot?
+This Small Business Venue lot is currently owned by the {1.String} household. By confirming, the lot and its contents will be sold, and {0.Money} will be deposited to the {1.String} household's funds.\n\nAny Businesses present on this lot will be closed and removed from the lot, but they will stay with the respective Business owners.
+Sell Furniture
+Rent Apartment
+Remaining Funds: &lt;span class=&quot;funds&quot;&gt;{0.Money}&lt;/span&gt;
+Would you like to Rebirth into the {0.String} family?
+Rebirth into this household to join this family.
+Rebirth
+Purchase Home
+This option is not available for the current lot
+Not available when merging
+This lot has no furniture
+Select an option:
+Move In
+Would you like to move in with or evict the {0.String} family?
+Would you like to move in with the {0.String} family?
+Evicted households can be found in household management.
+Are you sure you want to join the {0.String} family?
+\nIf you proceed, the Household that is moving in will have its Scenario cancelled.
+Joining households will merge their funds and inventories.
+Move In
+Keep Furniture
+Household is Moving!
+Furnished
+Would you like to evict {0.String}?
+If you cancel now the chosen family will be moved directly to the My Households bin.
+Evicted households can be found in household management.
+Evict
+Bulldoze Lot
+A new Small Business will automatically be registered for this Sim, with preset Customer Activities based on the purchased venue type.
+This option is only available for Sims who do not already own a Small Business.
+Start off with a preset Small Business
+You can't afford to purchase this lot.
+You can't afford to move here.
+Manage Worlds - F5
+To exit Build Mode, return to the World Map.
+Live Mode - F1
+Manage Worlds - F1
+Plan Outfit
+Occupied University Housing lots are not editable.
+This lot is not editable.
+This lot is only editable from the World Map
+Build Mode - F2
+Delete Screenshot?
+Are you sure you want to delete this screenshot forever?
+Delete
+Can't reminisce about this Memory. {0.SimFirstName} is not tagged in it.
+Children can't reminisce about romantic Memories
+Can't reminisce about this Memory
+Reminisce about this Memory
+Remove from Favorites
+Forget this Memory
+Favorite Memory
+Share Screenshot to Facebook
+On {0.DateShort} @ {1.TimeLong}
+Memory Timeline
+Your Sims who were present:
+{0.SimName}'s Memories
+{0.String}'s Screenshots
+Share
+Reminisce
+Remove from Favorites
+Forget this Memory
+Mark as Favorite
+Uh Oh, {0.SimName} doesn't have any memories. Take a screenshot and all sims who are present can keep it as a memory.

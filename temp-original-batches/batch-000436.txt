@@ -1,0 +1,100 @@
+Username or Email:
+Log in with your Twitter account.
+Password:
+Share a Tweet
+Tweet
+Log in
+Keep me logged in
+Invalid username or password!
+Error logging into Twitter, please try again later.
+Something went wrong, please try again later.
+Skip Group
+Remember, you can always access Lessons, or reset / disable the Tutorial from the Options Menu.
+Next Tip...
+End Tutorial?
+Are you sure you want to end the Tutorial? You can always restart the Tutorial when you create a new game.
+&lt;span class='description'&gt;{0.String}&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span class='action'&gt;{1.String}&lt;/span&gt;
+Are you new to The Sims 4?
+&lt;span class=&quot;green&quot;&gt;YES&lt;/span&gt;
+&lt;span class=&quot;green&quot;&gt;PLAY TUTORIAL&lt;/span&gt;
+&lt;span class=&quot;green&quot;&gt;I've never played The Sims 4.\nGive me the tour!&lt;/span&gt;
+&lt;span class=&quot;pink&quot;&gt;NO&lt;/span&gt;
+&lt;span class=&quot;pink&quot;&gt;SKIP TUTORIAL&lt;/span&gt;
+&lt;span class=&quot;pink&quot;&gt;I've played The Sims 4\nand don't need help. Thanks!&lt;/span&gt;
+Don't ask me again. Re-enable in the Options Menu.
+WHAT DO YOU WANT TO DO NOW?
+&lt;span class=&quot;pink&quot;&gt;START A NEW GAME&lt;/span&gt;
+Delete Screenshot
+This screenshot cannot be made into a memory because it was captured with no sims.
+None
+Limited Time!
+Available to start until {0.DateShort}
+Available to start until {0.DateShort}. Start it within {1.Timespan} before it disappears! (Scenarios in progress can still be played in Live Mode.)
+Difficulty: {0.String}
+Choose a household to play for\n{0.String}
+New household will be added to: &lt;b&gt;&quot;{0.String}&quot;&lt;/b&gt;
+Checking if there are available save slots...
+You can't create a new save as you already reached the max number of save slots
+New Household in New Save
+New
+Existing
+Scenario Completed
+Story Ending: {0.String}
+Save &amp; Start New Scenario
+Reward:
+The {0.String} family has received the following rewards for completing the {1.String} Scenario!
+No Bonus
+Next Steps:
+Continue Playing
+Bonus:
+Requirements
+There aren't any save games to select an existing household.
+This scenario is not compatible with new households
+Potential Outcomes
+This scenario is not compatible with existing households
+Household Requirements:
+View
+Recommended for you
+Welcome Scenarios
+Ending soon
+Story Endings
+Start With...
+Reward: {0.String}
+&lt;font color='#ff2525'&gt;Premade Household&lt;/font&gt;
+&lt;font color='#ff2525'&gt;Play with the {0.String} Household&lt;/font&gt;
+Play Now
+You are already playing this Scenario
+You have already started this scenario. How would you like to proceed?
+Continue the scenario where you left off.
+Continue Scenario
+Deletes the household for this scenario and starts playing it from the beginning
+Restart Scenario
+Scenario Details
+Learn About Scenarios
+Cancel Scenario?
+Are you sure you want to cancel this Scenario? All Scenario data will be lost. You can still play with your current household.
+Cancel Scenario
+There are active Scenarios in this save
+Save Game
+Load Game
+{0.TimeShort} - {1.DateShort}
+Saving...
+The game failed to Save. Please exit to the Main Menu and then click Play to reload the game. Error code: {0.Number}
+The game failed to save.  Error Code: {0.String}.
+Overwrite this saved game.
+Save
+Recover Save
+ [Recovered]
+Are you sure?
+Are you sure you want to overwrite {0.String}?
+Overwrite Save
+There is no save slot available to load, go to the main menu and start a new game!
+This will create a new save with an active scenario.
+New Save Game
+My Saved Games
+The game failed to load.  Error Code: {0.String}.  It is recommended that you relaunch the game.
+The game failed to load.  Error Code: {0.String}.
+Resume playing this saved game.
+You will create a new household in this saved game and play the chosen Scenario with it.
+Start Scenario
+Play

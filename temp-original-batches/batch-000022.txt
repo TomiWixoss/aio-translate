@@ -1,0 +1,100 @@
+Evening - L
+Afternoon - L
+Bulldoze the lot?
+Are you sure you want to bulldoze the lot? Bulldozing will wipe the lot clean, but you will not be able to undo this action.
+Sell for {0.Money}
+Sell
+Floors by Tile
+Floors by Room
+Ceilings by Tile
+Ceilings by Room
+Cancel (Esc)
+By Window
+By Wall
+By Tile
+By Room
+Not available on water lots.
+Can only be placed on a water lot.
+Not available for this lot.
+You have {0.Number} too many mannequins on the lot! Can't add more until excess mannequins are removed.
+Must be placed on the exterior of a room above the ground floor.
+Requires a taller level height.
+Place Half Walls by drawing
+Replace with Half Walls
+Place Half Wall enclosure
+Place a wall or room to adjust foundations.
+Place a room or wall to adjust foundation.
+Place fences by drawing
+Replace fences
+Place fence enclosure
+Insufficient funds.
+Automatic Sofa\nPlacement is &lt;font color='#04b300'&gt;on&lt;/font&gt;.\nClick again to turn it off.
+Automatic Sofa\nPlacement is &lt;font color='#c40000'&gt;off&lt;/font&gt;.\nClick again to turn it on.
+Automatic Counter \nPlacement is &lt;font color='#04b300'&gt;on&lt;/font&gt;.\nClick again to turn it off.
+Automatic Counter \nPlacement is &lt;font color='#c40000'&gt;off&lt;/font&gt;.\nClick again to turn it on.
+Automatic Bunk Bed\nPlacement is &lt;font color='#04b300'&gt;on&lt;/font&gt;.\nClick again to turn it off.
+Automatic Bunk Bed\nPlacement is &lt;font color='#c40000'&gt;off&lt;/font&gt;.\nClick again to turn it on.
+Not available for this lot.
+Build a wall or room first
+Tall Wall
+Short Wall
+Medium Wall
+Tall Windows
+Short Windows
+Medium Windows
+Tall Doors
+Short Doors
+Medium Doors
+Increase = Ctrl + ]
+&lt;i&gt;*Can also use the\nheight slider&lt;/i&gt;
+Decrease = Ctrl + [
+&lt;b&gt;Terrain Height Setting&lt;/b&gt;
+&lt;b&gt;Water Height Setting&lt;/b&gt;
+Height Setting
+Shallow
+Deep
+Sims can wade into shallow areas of ponds displayed in green, but blue areas with deeper water are off limits.
+Water Depth Map - P
+SHARE button
+PS button
+Joke about Politicians
+Joke about Old Times
+Ambient Wall Light 4x1
+Ambient Wall Light 3x3
+Ambient Wall Light 3x1
+Ambient Wall Light 2x1
+Ambient Wall Light 1x1
+Ambient Ceiling Light 4x4
+Ambient Ceiling Light 4x1
+Ambient Ceiling Light 3x1
+Ambient Ceiling Light 2x2
+Ambient Ceiling Light 2x1
+Ambient Ceiling Light 1x1
+Retina Display:
+Optimizes the game for Retina Display. This will enhance the visual experience, but may slow performance on some computers.\nAfter changing this setting please click Apply Changes below before adjusting your resolution. 
+Press &lt;b&gt;Shift+F1&lt;/b&gt; to view downloads in progress using the In-Game Overlay. You will receive a notification once the download is complete.
+Your uninstalled Packs are downloading now. Press &lt;b&gt;Shift+F1&lt;/b&gt; to view downloads in progress using the In-Game Overlay. You will receive a notification once the download is complete.
+Window
+View
+Undo
+The Sims™ 4
+Select All
+Redo
+Quit
+Paste
+Minimize All
+Minimize
+Hide Others
+Hide The Sims™ 4
+Exit Full Screen
+Enter Full Screen
+Edit
+Cut
+Copy
+Close
+About The Sims™ 4
+About The Sims™ 4
+The Sims™ 4
+Copyright 2014 by Electronic Arts Inc.\nAll rights reserved.
+{1.ObjectName}
+{0.ObjectName|enAn}

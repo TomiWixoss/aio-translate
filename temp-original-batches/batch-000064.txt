@@ -1,0 +1,100 @@
+You cannot put a campfire in a Sim's inventory when it has chairs slotted into it.
+Cannot be put into Sim Inventory while cooking
+Beds cannot be placed in a Sim's inventory while in use.
+Find Muse
+Add Impression
+The Style-Influencer must have an Impression buff active to perform this interaction
+Play
+Hug {1.ObjectName}
+(From the Forever Friends Event)
+Hit {1.ObjectName}
+Ground For Hitting Stuffed Animals
+Express Disappointment For Hitting Stuffed Animals
+Give Time Out For Hitting Stuffed Animals
+Ask Not To Hit Stuffed Animals
+Hug It Out Over Hitting Stuffed Animals
+Tell Not To Hit Stuffed Animals
+Encourage Hitting Stuffed Animals
+Confess
+Blame the Proofreader
+{0.SimFirstName} breezes through it, although it doesn’t do much for {M0.his}{F0.her} career.
+The first rule of blogging is “Don’t feed the trolls.” No one cares anymore, and the incident actually raised {0.SimFirstName}’s profile and boosted traffic!
+Ignore It
+Run the Letter
+Keep Digging
+Back Off
+Bury It
+Publish
+{0.SimFirstName}’s boss is so impressed she might start asking for help with actual writing.
+{0.SimFirstName} has a career to think about. The story is killed, and the people will never learn that they elected a total slimeball.
+{0.SimFirstName} retaliates, but now {M0.he}{F0.she} looks even worse. Maybe that wasn’t such a good idea.
+{0.SimFirstName} wrote a smart retort, and now the world knows the truth.
+It’s an online petition. Fans are irritated at first, and then completely forget it ever happened. Meanwhile, {0.SimFirstName} invents a new character that could be even more popular than the first!
+Refuse
+Go On the Show
+Writer's Block
+{0.SimFirstName} is a little stuck on {M0.his}{F0.her} latest story. {M0.He}{F0.She} noticed that a Co-worker accidentally left a manuscript draft in the office. Does {M0.he}{F0.she} &quot;borrow&quot; some of their ideas or just submit what {M0.he}{F0.she}'s got?
+Bad Advice
+Oh no… {0.SimFirstName} just got a visit from a former fan- he claims that taking {0.SimFirstName}’s advice didn’t work out for him, and now he wants {0.SimFirstName} to pay. {M0.He}{F0.She} can either try to reason with the man, or just call security and have him tossed out. 
+Which Story?
+{0.SimFirstName}’s boss needs two stories written-one is a juicy story that means {0.SimFirstName} will have to work all weekend, and one is an easy puff piece that will let {0.SimPronounObjective} enjoy {M0.his}{F0.her} days off. Which story should {M0.he}{F0.she} write?
+Too Many Errors
+{0.SimFirstName}’s boss is a bit of a diva, but the latest story has some huge errors in it.  Should {0.SimFirstName} work late to make sure everything is fixed and perfect, or just fix the most obvious ones and call it a day?
+Fan Petition
+Fans have started an online petition to bring back one of {0.SimFirstName}’s most loved characters…even though he’s been dead for six books. {0.SimFirstName} wants to please {M0.his}{F0.her} readers, but the publisher thinks it’s a dumb idea. What should {M0.he}{F0.she} do?
+Bribery
+{0.SimFirstName} did an important interview for a big article, but now the subject is offering {0.SimPronounObjective} a bribe to leave less-than-flattering details out of the final story. {0.SimFirstName} can either take it and water down {M0.his}{F0.her} story or stick to {M0.his}{F0.her} principles?
+Historical Dirt
+Plagiarism Accusation
+A blogger for a competing site is writing post after post about how {0.SimFirstName} stole his idea! In a few more days, this will be a full-blown internet scandal. Should {0.SimFirstName} defend {M0.himself}{F0.herself} in a post, or just lay low until it blows over?
+Tell All?
+In {M0.his}{F0.her} last investigation, {0.SimFirstName} discovered some pretty seedy details about a certain politician. The politician not-so-subtly hinted that {M0.he}{F0.she} should quash the story-or else. Should {0.SimFirstName} do it, or reveal all the dirty details? 
+A New Screenwriter
+Hollywood is ready to make the movie of the most recent book in {0.SimFirstName}’s series, but the producer wants to replace {0.SimFirstName} with a different screenwriter. Should {0.SimFirstName} try to convince the studio to let {M0.him}{F0.her} write it, or just revoke the rights entirely?
+Call Security
+Reason With Him
+Boom. Another weirdo is dealt with, and {0.SimFirstName} goes back to {M0.his}{F0.her} day.
+Easy Job
+Hard Job
+Experienced Moderate
+Hot Young Writer
+Share
+Don't Share
+It feels good to have principles. {0.SimFirstName} stuck to {M0.his}{F0.her} guns and published a great story.
+Work Hard
+Slack Off
+Give up the Source
+Keep Quiet
+Ignore the Petition
+Bring Back the Character
+Take the Bribe
+Refuse
+Bury It
+Publish
+Wait and Hope
+Search The Attic
+Search The Basement
+Stay Silent
+Take a Guess
+One of {0.SimFirstName}’s younger and more inexperienced agents is being sent on a dangerous mission. {0.SimFirstName} wonders if it might be a good idea to tag along {M0.himself}{F0.herself}—just in case. {M0.He}{F0.She} can either go on the mission, or stay at base and let the agent learn on her own. 
+Presentation of DOOM!
+{0.SimFirstName}'s working two cases right now—one boring case that's a slam-dunk and an intriguing one that's a bit more complicated. {M0.He}{F0.She} only has the resources to follow through with one of them—which should {M0.he}{F0.she} pursue? 
+When {0.SimFirstName} is issued a new company laptop, {M0.he}{F0.she} discovers some rather racy pictures on the hard drive...racy pictures of a fellow agent and a woman who's not his wife. {0.SimFirstName} can either turn the photographs over to IT, or hold onto them in case they come in handy later. 
+And the award for Superspy of the Millenium goes to...{0.SimFirstName}, of course. {M0.He's}{F0.She's} honored by {M0.his}{F0.her} fellow captains at an elaborate banquet luncheon. In {M0.his}{F0.her} acceptance speech, {M0.he}{F0.she} only has time for one thank you. Should {M0.he}{F0.she} thank {M0.his}{F0.her} trainer, or thank {M0.his}{F0.her} career-long nemesis? 
+All Part of the Job
+After a reorganization at {M0.his}{F0.her} cover agency, {0.SimFirstName} is assigned a new partner. It's hard to keep secrets from someone {M0.he}{F0.she} works so closely with. Should {M0.he}{F0.she} confide {M0.his}{F0.her} true allegiance to the new guy, or keep {M0.his}{F0.her} secret? 
+Split Decision
+{0.SimFirstName} has been captured! During an op, some henchmen grabbed {0.SimPronounObjective} and started questioning {0.SimPronounObjective} about {M0.his}{F0.her} loyalties. Honestly, even {0.SimFirstName} can’t remember at this point! When they demand to know who {M0.he}{F0.she} really works for, {0.SimFirstName} can either take a guess, or stay silent and hope for backup. 
+The first rule of being a secret agent is “If you see anything, tell everyone.” Today, {0.SimFirstName} notices a weird buzzing in the office. Is it a listening device? An enemy broadcast? {M0.He}{F0.She} can either ignore it, or tell {M0.his}{F0.her} boss about {M0.his}{F0.her} suspicions.
+Blown Cover
+Right in the middle of a huge case, a partisan budgetary battle freezes the agency! {0.SimFirstName}'s department is not being funded. {M0.He}{F0.She} can either keep working {M0.his}{F0.her} case without getting paid, or {M0.he}{F0.she} can slack off like everyone else—even though {M0.his}{F0.her} target might escape.
+Agent Games
+Hack It
+{0.SimFirstName}'s most meaningful career mentor has been acting a bit strange lately...evasive, distant, and secretive. {0.SimFirstName} worries that he might have been turned by an enemy agency. Should {M0.he}{F0.she} report {M0.his}{F0.her} fears, or try to talk to {M0.his}{F0.her} mentor himself? 
+Hidden Cache
+A reporter approaches {0.SimFirstName} in the parking lot and asks if {M0.he'd}{F0.she'd} be willing to be an anonymous source. All {M0.he'd}{F0.she'd} have to do would be to leak a few boring-looking documents. Should {M0.he}{F0.she} agree to pass off the data, or refuse? 
+BAM! The flashlights hit {0.SimFirstName} right as they were finishing up a recon job. {M0.His}{F0.Her} mission was to collect a sensitive document, which is in {M0.his}{F0.her} hand. Before the guards make their way to {0.SimPronounObjective}, {M0.he}{F0.she} can either eat the document and destroy it or try to preserve it to analyze later. 
+{0.SimFirstName}’s time with the Agency has yielded some pretty amazing and unbelievable stories. A publisher approaches {0.SimFirstName} about writing {M0.his}{F0.her} memoirs. Should {M0.he}{F0.she} do it for fun and posterity, or maintain {M0.his}{F0.her} code of silence? 
+{0.SimFirstName}'s got a big report on a new emerging threat due tomorrow at work, but {M0.he's}{F0.she's} swamped. {M0.He}{F0.She} can either secretly ask for help from another researcher, or work all night to get it done. What should {M0.he}{F0.she} do? 
+{0.SimFirstName}'s heard every sob story in the book, but the guy {M0.he's}{F0.she's} questioning now has a sick dog, plus he makes oatmeal for his grandma every Thursday night. He promises that he'll never do anything wrong ever, ever again if {0.SimFirstName} just releases him. Should {M0.he}{F0.she} let him go or show no mercy? 
+Good Cop, Bad Cop

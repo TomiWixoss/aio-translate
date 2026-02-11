@@ -1,0 +1,100 @@
+The Nanny will be taking care of {0.SimFirstNameList} while the vacation is in progress. Enjoy!
+Remember, you've hired a Nanny! If you wish, they will stay at your house while your Sims are away and will charge you for their time when you get back and dismiss them.
+Welcome back home! The Pet Sitter took good care of {0.SimFirstName} while you were away.
+Welcome back home! The Nanny took care of {0.SimFirstName} while you were away and {M0.he}{F0.she} behaved beautifully!
+The Pet Sitter took good care of {0.SimFirstNameList} during the vacation. Hope it was a great trip!
+I might start looking into other career opportunities. I feel like I've hit a dead end here.
+I can't wait for my next vacation. I'll be baking cupcakes!
+Any chance you can point me to the closest deli? I haven't had my lunch break yet.
+I enjoy my job. The customers rarely complain.
+I hate all the paperwork. It bores me to death.
+It's going well; my clientele is getting larger by the minute. But you already knew that.
+The best thing about what I do is the good work-life-death balance.
+{0.SimFirstName} has learned that {1.SimFirstName} is {2.String|enAn} at {4.String}.
+Gardening Help Stopped
+Gardening Help Enabled
+Social Milestones capture verbal communication and relationship-based moments across a Sim's life.\nFor Infants, achieving more Social Milestones will give them a boost as they age up to a Toddler by getting a head start on their Communication skill.
+Social
+Gross Motor Milestones capture an Infant's progress in developing whole body movement for strength and coordination. These can only be unlocked when your Sim is an Infant.\nAchieving the more advanced Gross Motor Milestones will give your Infant a boost as they age up to a Toddler by getting a head start on their Movement skill.
+Gross Motor
+Firsts Milestones capture the first instances of major moments in a Sim's life.
+Firsts
+Fine Motor Milestones capture an Infant's progress in developing their smaller muscles for precision and control. These can only be unlocked when your Sim is an Infant.\nAchieving the more advanced Fine Motor Milestones will give your Infant a boost as they age up to a Toddler by getting a head start on their Thinking skill.
+Fine Motor
+Romantic Orientation
+Free Time
+Trash
+For certain indiscriminate fish there is no accounting for the taste of waste.
+Rotten Fruit
+Some fish prefer a meal of fruits and veggies with a heavy side of decay.
+Organic
+If it is natural and edible, there is a fish out there that will eat it.
+Metal
+Iron, Titanium and Bronze… Oh, &lt;i&gt;yum&lt;/i&gt;?
+Frog
+The danger of being an amphibian is sharing your habitat with hungry and opportunistic fish.
+Fresh Fruit
+Fresh produce is just as delicious to herbivore fish as it is for omnivorous Sims.
+Fresh Flower
+Who knew that fresh flora could taste as good as it smells? Some fish, apparently.
+Small Fish
+Sometimes known as “feeder fish,” the smallest species have a big place in nature’s food chain.
+Medium Fish
+There is only one way to eat a chubbier fish. One bite at a time.
+Element
+The basic building blocks of matter also serve as a balanced (fish) breakfast.
+Crystal
+The sparkle of gemstones can be used to attract the attention of certain fish.
+Though the adventure has ended, the story will always be theirs to remember.
+Even apart, they’ll always carry a piece of each other in their hearts.
+Always with Me, Always with You
+With each memory, strength can be found in the bond that will remain forever.
+A new life awaited that would forever be impacted by a friendship with the Stuffed Animal.
+Returning home after saying goodbye felt as though something was left behind, but never forgotten.
+Gone but Never Forgotten
+The final adventure at Sylvan Glade awaits.
+All they can do now is press forward and trust their hearts.
+As the stories are shared, the journey feels timeless, and the bond between them grows even stronger.
+The Lens of Memories
+An unexpected path to eternity is revealed.
+Their journey isn’t over, not until the lens is whole again.
+Even in a race against time, determination fuels their every step.
+Desperate Measures
+In a desperate race against time, new possibilities arise, hinting at a solution just out of reach.
+Just as their vision nears completion, they are left at a crossroad.
+As they journey to the enchanting Sylvan Glade, the companions anticipate capturing their most breathtaking photos yet.
+Shattered Visions
+The companions anticipate capturing their most breathtaking photos yet.
+What magical sights will the next adventure reveal?
+With each snap of the camera, their world feels a little more alive, and so do the memories they’re capturing.
+The Lens of Imagination
+Guided by curiosity, the duo plunges into photography, striving to capture timeless memories.
+Next, it's time to put that plan into action.
+The plan sounds great! Even if they must one day part ways, keeping these memories in photos might make them live on forever.
+Friends Forever
+As uncertainty looms, a heartbreaking truth is revealed.
+What new adventures await?
+After an exciting and adventurous day with a new friend, it's time to sleep it off and get ready for tomorrow.
+A New Journey
+In a world where imagination reigns, a child and their stuffed companion embark on adventures together.
+No Reward Earned
+{0.String} Unsuccessful
+{0.String} Complete!
+{0.String} Complete!
+{0.String} Complete!
+The Envoy has been exposed!
+The Envoy has been on the move but left traces behind.
+Find the Envoy and uncover their true motives!
+The Envoy has disappeared and taken a treasure! Were they trying to take it for themself this entire time?
+Follow them and find out what is really going on!
+After a tense chess match, frustrated by the loss, the Envoy abruptly stormed off. The Envoy's behavior continues to grow stranger.
+Meet up with the Envoy once more to continue the adventure!
+A new piece of the puzzle has been unlocked after discovering the hidden key of the Capp family nestled inside the fireplace.
+Music can bring out the romance between partners. It's next step in discovering the treasure!
+The exploration of romance stirred unexpected emotions. Yet something about the experience feels unresolved...
+Continue following the Envoy to see what happens next.
+Although a key was found, the Envoy's behavior seemed a bit off. Why the odd behavior at the library?
+The Envoy mentioned heading towards the library. Follow them to learn more!
+After meeting the Royal Envoy and learning about the family heirlooms, the journey has only begun.
+Event Complete!
+Color

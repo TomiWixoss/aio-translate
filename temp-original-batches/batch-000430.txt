@@ -1,0 +1,100 @@
+{0.String} &lt;font color='#3AAF69'&gt;(+{1.RecyclingBits})&lt;/font&gt;
+{0.String} ({1.RecyclingBits})
+Galactic Credits
+Pieces
+{0.String} &lt;font color='#3AAF69'&gt;(+{1.RecyclingPieces})&lt;/font&gt;
+{0.String} ({1.RecyclingPieces})
+You have already purchased this perk.
+This perk was unlocked by the {0.String} perk.
+Unlocks to change the way other Sims in the world will interact with your Club while socializing.
+Club Status (Only 1 Allowed)
+Unlocks to gain interactions to set a Club Vibe. Club Vibes will change the mood of all the members in your Club Gathering!
+Club Vibe
+Unlocks to improve overall Club management and efficiency.
+Club Management
+Unlocking Club Perks will cause members to build the associated skills faster while in Club Gatherings.
+Skill Bonuses
+Unlocks to receive better social outcomes while your Sims are socializing during a Club Gathering.
+Social Bonuses
+Unlocks to allow Sims in your Club to perform a special Club Handshake. Your Club can only have 1 Handshake.
+Club Handshake (Only 1 Allowed)
+Unlocks to allow access to Club specific Clothing and Objects.
+Clothing and Décor
+Unlocks to increase the number of Club members you can invite into your Club.
+Club Size
+{0.SimFirstName} is drying up. {0.SimPronounSubjective|xxUpper} will need to take care of {0.SimPronounObjective} Water Need more often.
+{0.SimFirstName}'s Thirst Need is going down faster from being Imbalanced. {0.SimPronounSubjective|xxUpper} {S0.is}{P0.are} going to have to drink from Sims or eat Plasma Fruit more often.
+{0.SimFirstName} is having some trouble focusing in conversation. {0.SimPronounSubjective|xxUpper} will need extra social interactions to fill {0.SimPronounPossessiveDependent} Social Need.
+{0.SimFirstName}'s skills are improving at a slower rate as {0.SimPronounSubjective} {S0.is}{P0.are} Imbalanced!
+{0.SimFirstName} thinks {0.SimPronounPossessiveDependent} Imbalance might be attracting harsh vibes or something. {0.SimPronounSubjective|xxUpper} {S0.has}{P0.have} less Luck as a result.
+{0.SimFirstName} is having a hard time staying clean. {0.SimPronounSubjective|xxUpper} will need to take care of {0.SimPronounPossessiveDependent} Hygiene Need more often.
+{0.SimFirstName} is having a hard time staying hydrated. {0.SimPronounSubjective|xxUpper} will need to take care of {0.SimPronounPossessiveDependent} Hydration Need more often.
+{0.SimFirstName} is more hungry than normal. {0.SimPronounSubjective|xxUpper} will need to take care of {0.SimPronounPossessiveDependent} Hunger Need more often.
+{0.SimFirstName} isn't enjoying things as much. {0.SimPronounSubjective|xxUpper} will need to take care of {0.SimPronounPossessiveDependent} Fun Need more often.
+{0.SimFirstName} is feeling a bit tired. {0.SimPronounSubjective|xxUpper} will need to take care of {0.SimPronounPossessiveDependent} Energy Need more often.
+{0.SimFirstName}'s digestion is a little off. {0.SimPronounSubjective|xxUpper} will need to take care of {0.SimPronounPossessiveDependent} Bladder Need more often.
+Being Very Imbalanced leaves {0.SimFirstName} vulnerable to Ailments. {0.SimPronounSubjective|xxUpper} {S0.has}{P0.have} a case of &lt;b&gt;Sonic Sinuses&lt;/b&gt;.
+Being Very Imbalanced leaves {0.SimFirstName} vulnerable to Ailments. {0.SimPronounSubjective|xxUpper} {S0.has}{P0.have} a case of &lt;b&gt;Simoleon Fever&lt;/b&gt;.
+Being Very Imbalanced leaves {0.SimFirstName} vulnerable to Ailments. {0.SimPronounSubjective|xxUpper} {S0.has}{P0.have} a case of &lt;b&gt;Luck Magnet&lt;/b&gt;.
+Being Very Imbalanced leaves {0.SimFirstName} vulnerable to Ailments. {0.SimPronounSubjective|xxUpper} {S0.has}{P0.have} a case of &lt;b&gt;Greenie Meanie&lt;/b&gt;.
+Being Very Imbalanced leaves {0.SimFirstName} vulnerable to Ailments. {0.SimPronounSubjective|xxUpper} {S0.has}{P0.have} a case of &lt;b&gt;Gnome Lure&lt;/b&gt;.
+Being Very Imbalanced leaves {0.SimFirstName} vulnerable to Ailments. {0.SimPronounSubjective|xxUpper} {S0.has}{P0.have} a case of &lt;b&gt;Emotional Void&lt;/b&gt;.
+Being Very Imbalanced leaves {0.SimFirstName} vulnerable to Ailments. {0.SimPronounSubjective|xxUpper} {S0.has}{P0.have} a case of &lt;b&gt;Creation Impulse&lt;/b&gt;.
+Being Very Imbalanced leaves {0.SimFirstName} vulnerable to Ailments. {0.SimPronounSubjective|xxUpper} {S0.has}{P0.have} a case of &lt;b&gt;Burning Passion&lt;/b&gt;.
+Don't forget to pay your rent on time!
+Winter Cake
+Thanks for ordering! The holiday crackers {0.SimFirstName} purchased can be found in {M0.his}{F0.her} inventory. Happy Popping!
+{0.SimFirstName} received a special, collectible plushie from the holiday cracker! There's also a joke scrawled on a slip of paper...\n\nQ: What do you call the ghost of a turkey?\nA: A poultrygeist!
+{0.SimFirstName} received a special, collectible plushie from the holiday cracker! There's also a joke scrawled on a slip of paper...\n\nQ: What fruit did the gardener discover when grafting a Christmas tree cutting to an apple tree?\nA: A pineapple!&#xA;
+{0.SimFirstName} received a special, collectible plushie from the holiday cracker! There's also a joke scrawled on a slip of paper...\n\nQ: What kind of jewelry does the Social Bunny wear?\nA: 18 carrot gold.
+{0.SimFirstName} received a special, collectible plushie from the holiday cracker! There's also a joke scrawled on a slip of paper...\n\nQ: What did the mother turkey say to her disobedient child?\nA: If your father could see you now, he'd turn over in his gravy!
+{0.SimFirstName} received a special, collectible plushie from the holiday cracker! There's also a joke scrawled on a slip of paper...\n\nBoy: Do you have a date for Valentine's Day?\nGirl: Yes, February 14th.
+{0.SimFirstName} received a special, collectible plushie from the holiday cracker! There's also a joke scrawled on a slip of paper...\n\nQ: Why don’t Sims iron four-leaf clovers?\nA: Because they don’t want to press their luck!
+{0.SimFirstName} received a special, collectible plushie from the holiday cracker! There's also a joke scrawled on a slip of paper...\n\nQ: What happened to the kleptomaniac who stole an Advent calendar?\nA: He got 25 days!
+{0.SimFirstName} received a special, collectible plushie from the holiday cracker! There's also a joke scrawled on a slip of paper...\n\nQ: What did leprechauns unanimously vote as their favorite stuff?\nA: Perfect Paddy O' Stuff!
+{0.SimFirstName} received a special, collectible plushie from the holiday cracker! There's also a joke scrawled on a slip of paper...\n\nQ: What does Bonehilda say after preparing dinner? \nA: Bone appétit!
+{0.SimFirstName} received a special, collectible plushie from the holiday cracker! There's also a joke scrawled on a slip of paper...\n\nQ: What do vampires sing on New Year's Eve?\nA: Auld Fang Syne.
+{0.SimFirstName} received a special, collectible plushie from the holiday cracker! There's also a joke scrawled on a slip of paper...\n\nQ: Why do ghosts never go to parties?\nA: Because they have no body to dance with!&#xA;
+{0.SimFirstName} received a special, collectible plushie from the holiday cracker! There's also a joke scrawled on a slip of paper...\n\nQ: What do you get when you cross seasons with pets?\nA: Rain Deer.
+A sweet surprise! {0.SimFirstName} popped open the holiday cracker to discover a piece of candy inside. {M0.He}{F0.She} can't quite put {M0.his}{F0.her} finger on the flavor though...
+That holiday cracker was packed with confetti, noise, and a hint of pine. Nearly everything you'd want, except someone forgot to include the actual gift! Better luck next time.
+What's this? Some broken parts and a piece of scrap?! Either {0.SimFirstName} is using it wrong, or that holiday cracker was poorly made.
+Watch Holiday Cracker
+React to Child Opening Holiday Cracker
+React to Holiday Cracker
+Picnic Table and Bench with Cushions
+It was innovation time at the ol' Picnic and Bench factory. Jimmy Jean, Jeanie James, and Jamie Jim all took turns presenting their ideas for the board, and it was a cushion on the bench that won in the end.
+Holiday Table
+An elegant table designed for the holidays. Draped with beautiful printed fabric displaying star, snowflake and tree patterns. 100% polyester. Gift wrapping not available.
+Holiday Wall Speaker
+A great speaker for indoor and outdoor use. Listen to holiday music all day long. 
+Faux Fireplace Facades
+Tired of smoky residue in your flue, carrying heavy logs to your hearth, and spending unwanted effort on match striking? Put that all aside. Faux Fireplace Facades are the future my friends!\n\nBask in the glow of your imagination, and enter the world of tomorrow.
+Garland with Pine Cones
+When I was a kid, I always wanted to go to this mythical Gar Land place. I thought it was going to be this incredible fishing hole that only existed in December.\n\nImagine my disappointment. This is nice though yea? Yea. it's nice.
+Handcrafted Holiday Etchings
+You know how sometimes you go to those import stores, and you find something you know to be handcrafted. And it's marked down half price. And you think to yourself &quot;Is this the find?&quot; And you pick it up, looking for flaws, imperfections, and there are none. And you toss it in your cart, thinking &quot;It is, I found the holiday find!&quot;\n\nYea, I made that.
+&quot;This&quot; Centerpiece
+A holiday gathering? Of course, but in order to meet your &quot;festive quota&quot; for such a soiree, don't forget your checklist. Finger foods? Lavashly garnished beverages? Live music by an impoverished artist? An abundant supply of garish household décor? No, one can never have too much decor! Add “This” to your collection, and be envied by all!
+Mason Jar Holiday Decor
+My brother had a jar that he kept a cricket in when I was younger. He punched some holes in the lid, and would drop some grass and stuff in it occasionally, just to keep the little guy happy.\n\nThen he got a lizard. We never saw the cricket again.
+Snowflake Replica
+J.P. Frostbaum has done it again! Frozen water perfectly preserved in a plastic replica of a single newborn snowflake. No one else could have brought perfection like this to you. No one else loves faux decorative designing like J.P. No one loves you… like J.P.
+Decorative Presents
+Decorative Presents. Really? That's like decorative food. What’s the point? There are no calories and the point of food is calories.  If you take the time to wrap a present, put a present in the present! This is just twisted and cruel! Not cool. Happy Holidays?
+Mr. Snuffles
+Stompy
+Growler
+Nightmare
+Smasher
+The Destroyer
+Stampy
+Cheetah
+Gas Guzzler
+Wheels
+Speedy
+Play
+Tag... Now you're IT!
+Sometimes I get lonely.
+Quit poking me!
+ERROR! ERROR!

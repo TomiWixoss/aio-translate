@@ -1,0 +1,100 @@
+Hmmm... {0.SimFirstName} was unsure about {1.ObjectName}. Maybe this food will need to be explored again.
+Yay! {0.SimFirstName} liked {1.ObjectName}. Successful taste testing!
+Oh no! {0.SimFirstName} disliked {1.ObjectName}. Probably best to try something else next time...
+How exciting! {0.SimFirstName} loved {1.ObjectName}! It's always nice to discover a new, favorite taste and texture.
+(From A Failed Introduction)
+(From The Hates Children Personality Trait)
+(From Persistent Infant Crying)
+(From Crying Infant)
+(From Crawling Around)
+(From Changing A Diaper)
+(From Having a Dirty Diaper)
+(From Cautious Trait)
+(From Cautious Trait)
+(From Being Bounced)
+(From Breaking Loose)
+(From Failing to Break Loose)
+(From Spouse Bragging About Baby)
+(From Other Sim Bragging About Baby)
+(From Dancing to Music)
+(From Watching an Object)
+(From Getting Care)
+(From Receiving Affection)
+(From Low Motives)
+(From Crying and Fussing)
+(From Being Stuck)
+(From Short Arms)
+{0.SimFirstName} has dropped out of High School. {M0.He}{F0.She} will be unable to join some careers until {M0.he}{F0.she} earns {M0.his}{F0.her} diploma online.
+(From Completing Homework)
+(From... You Know) 
+(From Mirror)
+(From Mirror)
+(From Being Spared)
+Personality Change
+Congratulations! {0.SimFirstName} was able to cope with Grief in a healthy way, resulting in a Personality Trait change.
+Unfortunately {0.SimFirstName} was not able to cope with Grief in the most productive ways, resulting in a Personality Trait change.
+(From Failing to Trash Talk Someone)
+(From Successfully Trash Talking Someone)
+That sounds terrible! I'll talk to {2.SimFirstName} myself.
+Are you kidding me? Does {2.SimFirstName} really think like that? I'm a bit caught off guard, but I'll talk with {F2.her}{M2.him} soon.
+I understand your concern {0.SimFirstName}; I'll chat with {2.SimFirstName} soon. I would be lying if I said I wasn't nervous to approach {F2.her}{M2.him} after hearing that.
+Wow, I’d love to get to know {M2.him}{F2.her}.
+{2.SimFirstName} sounds like {F2.she}{M2.he} is an absolute pleasure to be around!
+Wow {0.SimFirstName}! I wasn't aware that you felt so strongly about {2.SimFirstName}. {F2.She}{M2.He} seems like good company, I'll chat with {F2.her}{M2.him} soon.
+{2.SimFirstName} sounds like a catch. I'll introduce myself when I see {2.SimPronounObjective}.
+(From Being Hooked up with a Sim That Has Opposing Traits)
+(From Hooking up Sims With Opposing Traits)
+(From Hooking up Sims Who are in a Relationship)
+{M2.He}{F2.She} can’t be all that bad…
+I completely understand if you and {2.SimFirstName} have issues, but I'd prefer if you left me out of your drama.
+Those are some harsh words, {0.SimFirstName}. I don't believe that {2.SimFirstName} is that bad of a person.
+Are we talking about the same person? {2.SimFirstName} and I have a great relationship, so please knock it off.
+I can't stand to listen to this anymore. In case you weren't aware, {2.SimFirstName} and I are extremely close; stop bad mouthing {F2.her}{M2.him}!
+Woah {0.SimFirstName}, you're talking about one of my best friends here; cut it out!
+{M2.He}{F2.She} doesn’t sound that interesting.
+Hey {0.SimFirstName}! I've already made up my mind about {2.SimFirstName}. Every time we're together we continue to despise each other a little more.
+{2.SimFirstName} and I aren't on the best of terms right now, I don't think that's a good idea.
+About that... {2.SimFirstName} and I constantly bicker, I'd rather not provoke that even further.
+Sorry {0.SimFirstName}, but I'm way too busy at the moment to spend any time getting to know {2.SimFirstName} better.
+After hearing what you had to say, I'm not feeling very inclined to chat with {2.SimFirstName}. I think I'll pass this time!
+I don't know. {2.SimFirstName}? You're not very convincing.
+What are you talking about? We’re in love!
+We don't need your opinion about our relationship, thank you very much!
+Who are you to tell me what to do? I love {2.SimFirstName} and you won't change that!
+You’re right, I can do so much better than {M2.him}{F2.her}. I’m going to break up with {2.SimFirstName} tonight.
+Really? I guess we are not that great of a couple. I should just end it already.
+You are right, {2.SimFirstName} and I are not a good fit for each other after all. I will talk to {F2.her}{M2.him}.
+(From Iceproof Trait)
+While removing weeds, {0.SimFirstName} found a frog hiding in {M0.his}{F0.her} garden.
+Sabotaged Fountain
+{0.SimFirstName} has sabotaged a {1.ObjectName} and will avoid grabbing anything from it. Other Sims beware the effects {M0.his}{F0.her} tampering will have on its contents. 
+(From Drinking an Improved Drink)
+(From Studying Instructions)
+(From Using a Overclocked PC)
+(From Meeting With Class)
+(From Meeting With a Client)
+(From Chatting With a Client)
+(From Losing a Challenge)
+{0.SimName} has shared an expert fishing tip with {2.SimName}. {2.SimFirstName} has learned about the elusive {1.ObjectName}, a new type of rare fish. {1.ObjectName} can only be caught with enough skill, the right bait, and a little angler's luck. \n\n{2.SimFirstName} recorded information about this discovery in the Notebook. To learn more, click below.
+{0.SimName} has told {2.SimName} about the {1.ObjectName}, a new type of fish that can be caught in fishing spots everywhere. \n\n{2.SimFirstName} recorded information about this discovery in the Notebook. To learn more, click below.
+{2.SimName} has clued {0.SimFirstName} in on a secret known only to local fishermen. {0.SimFirstName} has learned about the {1.ObjectName}, a new type of rare fish sighted in certain hard-to-find fishing spots. \n\n{2.SimFirstName} recorded information about this discovery in the Notebook. To learn more, click below.
+{0.SimName} has identified the {1.ObjectName}, a new type of fish reported in certain fishing spots, from {2.SimName}.\n\n{0.SimFirstName} recorded information about the recent discovery in the Notebook. To learn more, click below.
+{0.SimFirstName} examined the water and noticed a {1.ObjectName}, but didn't notice any new varieties of fish.
+The fish here move quickly and stay hidden deep beneath the surface. After a careful study of movement patterns, {0.SimFirstName} identifies the elusive {1.ObjectName}. \n\n{0.SimFirstName} recorded information about this discovery in the Notebook. To learn more, click below.
+{0.SimFirstName} sees unrecognizable shapes moving beneath the surface of the water. This looks like an excellent spot for a fisherman of {0.SimFirstName}'s caliber to try their luck with some difficult catches. 
+The water is full of activity and movement! {0.SimFirstName} spots a hungry {1.ObjectName} just waiting to be caught!  \n\n{0.SimFirstName} recorded information about this discovery in the Notebook. To learn more, click below.
+{0.SimName} has caught a new fish: {1.ObjectName}\n\n{0.SimFirstName} recorded information about the discovery in the Notebook. To learn more, click below.
+It's almost as if someone is controlling {M0.his}{F0.her} life. Will {0.SimFirstName} finally fulfill {M0.his}{F0.her} dreams or will whoever is controlling {M0.his}{F0.her} life stop {M0.his}{F0.her} wishes from coming true?
+Learn More about Fears
+Wow! That water looks pretty deep. {0.SimFirstName} flashes back to all the scary experiences of being in the water. {F0.She}{M0.He} would rather not experience that vast and terrifying expanse again.
+(From Fear of Swimming)
+(From Fear of Magic)
+{0.SimFirstName} always felt confident in {M0.his}{F0.her} belief in the supernatural. Something about that last ghost sighting unnerved {0.SimPronounObjective}. Seeing is believing, and now {0.SimFirstName} can't get the thought out of {M0.his}{F0.her} head that Ghosts could be everywhere. Always watching, always ready to jump out and scare {0.SimPronounObjective} at any moment.
+(From Fear of Ghosts)
+(From Fear of Fire)
+Fires can be a vital source of heat or a calming warmth on a cold night. {0.SimFirstName} saw first hand the more destructive side of fire. {0.SimFirstName} never wants to see that again.
+Everything does not seem to be going {0.SimFirstName}'s way at all lately. It has just been bad news after bad news. People keep saying &quot;You never know until you try!&quot; but never talk about how it feels after trying something new and it not working out. {0.SimFirstName} can't take another disappointment; it's terrifying and too painful to try again.
+(From Performance Review)
+Death is inevitable. {0.SimFirstName} knows that. {0.SimFirstName} just didn't think that {M0.he}{F0.she} would be thinking about it so soon. There is still so much to do! How will {0.SimFirstName} get everything done if death is just around the corner? Is it safer to just hide forever?!
+(From Befriending Death)
+How long has it been? {0.SimFirstName} can't help but wonder if this career is right for {M0.him}{F0.her}. One thing is for sure, there needs to be some kind of change, right?

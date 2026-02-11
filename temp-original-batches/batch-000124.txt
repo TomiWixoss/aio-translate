@@ -1,0 +1,100 @@
+(From Being a Goofball)
+(From Being Good)
+(From Being Good)
+(From Being a Glutton)
+(From Being Gloomy)
+(From Being a Genius)
+(From Being a Geek)
+(From Being Frugal)
+(From Being a Foodie)
+(From Being Family-Oriented)
+(From Being Evil)
+(From Being Creative)
+(From Being Noncommittal)
+(From Being a Collector)
+(From Being Clumsy)
+(From Being Childish)
+(From Being a Child)
+(From Being Cheerful)
+(From Being A Bro)
+(From Being A Bookworm)
+(From Being An Art Lover)
+(From Being Ambitious)
+(From Being an Adult)
+(From Active Imagination)
+(From Being Active)
+(From Practice Makes Perfect Trait)
+(From Handiness Skill)
+(From Being at the Gym)
+(From Guitar Skill)
+(From Being a Ghost)
+Energetic
+Whiz Kid
+Junior Scientist
+Precocious
+Artistic Prodigy
+Daydreamer
+Active Imagination
+{0.SimFirstName} has completed {M0.his}{F0.her} extra credit work for the day.
+(From Socialization)
+(From Getting Fitter)
+(From Mediocre WooHooing)
+(From Below Average WooHooing)
+(From Socialization)
+(From A Social Bunny Post)
+(From Slumbering in a Sleeping Bag)
+(From the In the Moodlet Scenario)
+{0.SimFirstName} had a nightmare about a dog with limbs that stretched like a human. It was a horrible, horrible sight.
+Nightmare!
+{0.SimFirstName} had a nightmare about being stuck in a ladder-less pool, unable to get out. Kind of absurd really, why couldn't {0.SimFirstName} just lift themselves out of the pool?
+{0.SimFirstName} had an awful nightmare about being eaten by a sentient Murphy Bed.
+{0.SimFirstName} dreamt they were abducted by aliens. What a nightmare! A little trite though, in {0.SimFirstName}'s opinion.
+{0.SimFirstName} had a nightmare about being given free ear buds. {0.SimFirstName} isn't sure why, but it just felt wrong.
+{0.SimFirstName} had a nightmare about buying a strange clown painting from a yard sale... and then there was a knock at the door...
+{0.SimFirstName} had a nightmare they were a contestant on a reality TV show being criticized by a demanding judge with a nice mustache. Eek!
+{0.SimFirstName} had a nightmare they had to give a presentation about reticulating splines, but could not get the splines to reticulate. Everyone pointed and laughed!
+{0.SimFirstName} had a recurring nightmare about taking a test in the nude. Classic!
+{0.SimFirstName} had a nightmare about being a tiny ant trying to survive by storing green pellets of food, only to be sucked into a lawnmower.
+{0.SimFirstName} had a nightmare where their in-development videogame was leaked early! Not like that would ever happen. Ever.
+{0.SimFirstName} had a bleak nightmare about achieving everything {0.SimPronounSubjective} ever wanted in life. Good thing that'll never happen!
+{0.SimFirstName} had a nightmare about being chased by an overly muscular Yamachan. The dream is over, but the images will last a lifetime. 
+{0.SimFirstName} woke up in a cold sweat from having a nightmare... about having a nightmare. Oh, come on!
+{0.SimFirstName} had a strange dream in which a round yellow Specter with glasses proposed marriage. What a... nightmare? {0.SimFirstName} isn't sure how to feel about it. 
+{0.SimFirstName} had nightmare about being watched silently by a very creepy doll. 
+(From Reminiscing)
+Thanks for the scare! Here's a gift:\n{1.String}
+(From Using Water Off-the-Grid)
+(From Using a Phone while Off-the-Grid)
+(From Cooking while Off-the-Grid)
+(From Eating Harvested Fruits or Vegetables)
+(From Cleaning while Off-the-Grid)
+(From Being Put Down)
+(From Being Carried)
+(From Waking Up)
+(From Viewing a Positivity Poster)
+(From Active Imagination)
+(From Feeling Furious with Someone Feeling Happy)
+(From Feeling Furious with Someone Nearby)
+(From Feeling Enamored with Someone Nearby)
+(From Feeling Close with Someone Nearby)
+(From a Close Sentiment towards Someone Feeling Good)
+(From a Close Sentiment towards Someone Feeling Bad)
+(From a Bitter Sentiment towards Someone Feeling Bad)
+(From Feeling Bitter about Someone Nearby)
+(From Friendly Advice Sentiment)
+(From Feeling Motivated by Someone Nearby)
+(From Feeling Hurt by Someone Nearby)
+(From Feeling Hurt by Someone Nearby)
+(From Feeling Guilty about Someone Feeling Bad)
+(From Feeling Guilty around Someone Nearby)
+(From Feeling Bitter about Burglar Nearby)
+(From Being Around a Lifesaving Hero)
+(From Being Impressed by Someone Nearby)
+(From Adoring Someone Who Feels Happy)
+(From Adoring Someone Nearby)
+(From Materialistic Trait)
+(From Low Bladder)
+(From Low Bladder)
+(From Wearing Shoes Indoors)
+(From Wearing Shoes Indoors)
+Congratulations on completing the Scenario!\n\nAs a reward, each Sim in this household has earned the Super Green Thumb trait which increases plant growth rates while reducing watering needs and bugs!

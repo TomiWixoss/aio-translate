@@ -1,0 +1,100 @@
+Your household does not have enough Simoleons to pay the Getaway's daily fee. Unfortunately, this Getaway will end immediately.
+Getaway Payment
+This lot does not have enough beds for all scheduled Sims in this Getaway. If this Getaway includes an overnight stay, make sure to place enough beds from Build Mode to ensure every Sim has a place to sleep.
+{0.SimFirstName} already has this.
+Randomize Preferences
+Mean Message
+Don't hold back. Let someone know you don't like them. Backhanded compliments also encouraged.
+Happy Narrative
+Share how happy this event made you feel with the rest of the world.
+Funny Message
+Share a bit of humor one joke at a time.
+Flirty Message
+Slide into those DMs when cupid's arrow needs a bit of help finding its target.
+Energized Narrative
+This event has me energized! I need to spread the excitement to all my followers.
+Uncomfortable Narrative
+Some events are just uncomfortable, and it is your duty to let your followers know this.
+Stressed Narrative
+Let everyone know about the stress this event caused you.
+Embarrassing Narrative
+This was just embarrassing. The smart move is to share my embarrassment with the world.
+Friendly Message
+A quick friendly note to stay in touch or just let someone know you care.
+Tip Jar
+No Ticket Kiosk on lot. It can be purchased in the Appliances category in Build Mode.
+No Retail Displays on lot. To enable Small Business Retail Sales, purchase a Retail Display from the Surfaces category in Build Mode.
+This Small Business has no employees. To hire employees select the Manage Employee button in the Small Business panel or choose the Hire Sim interaction from a selected Sim's pie menu.
+Retail Sales
+Retail Sales disabled.
+Revenue from Services
+{0.Number} Hours on Average
+{0.Number} {S0.Customer}{P0.Customers}
+{0.Money}
+Business Opening Fee
+&lt;font color='#199C2C'&gt;+▀ {0.Number}&lt;/font&gt; Business Renown
+Ticket Sales are disabled.
+Ticket Sales
+{0.Number}
+Friendly relationship is too low to be hired.
+Hire Employee
+{0.SimFirstName} has sold {0.SimPronounPossessiveDependent} Small Business named {1.String}.\n\n{0.SimPronounSubjective|xxUpper} can always register a new one, should the urge to become a Small Business Owner strike in the future!
+{0.SimFirstName} has successfully registered {1.String}, a new Small Business, and can now open it on {0.SimPronounPossessiveDependent} active lot. {0.SimPronounSubjective|xxUpper} {S0.is}{P0.are} ready to start the journey of being a Small Business owner!\n\nOther Sims in the household can also assign lots for their businesses through the Small Business Settings panel. Every Sim can own and run a single Small Business. {0.SimFirstName} can now be assigned tasks to do as owner when the business is open.
+Manage Owner Tasks
+Small Business Registered!
+{0.SimFirstName} has successfully registered {1.String}, a new Small Business! {0.SimPronounSubjective|xxUpper} {S0.is}{P0.are} ready to start the journey of being a Small Business owner!\n\nEvery Sim can own and run a single Small Business. {0.SimFirstName} can now be assigned tasks to do as owner when the business is open.
+Small Business Assigned to the New Lot
+{0.SimFirstName} has purchased {1.String} as a Small Business Venue and can now open {2.String} on this lot.\n\nOther Sims in the household can also assign their Small Businesses here through the Small Business Settings.
+End Customer Appreciation Day?
+Open Small Business Settings
+Unassigned Small Business
+{0.String} is no longer assigned to any valid lots. To be able to open, assign a valid lot in the Small Business Settings.\n\nIf there are no currently valid lots, consider purchasing a Small Business Venue to run this business on.
+No Possible Customers!
+The current Required Target Customer Criteria of {0.String} are too strict to accept any Sims!\n\nMaking the Criteria not Required will help invite more customers.
+No Working Ticket Kiosks!
+No functioning Ticket Kiosks! To collect Ticket Sales from customers, place a new Kiosk, replace any broken Kiosks, and make sure the lot is connected to the utility grid.
+Ticket Kiosk is Inaccessible
+No accessible Ticket Kiosks! Close the Small Business and place a new Kiosk or move an existing Kiosk to a location where the customers can reach.
+Close Small Business
+A Hobby Class is still running! If you close the Small Business now, the Class will cancel without payment.
+Manage Employee Tasks
+New Employee
+{0.SimFirstName} has hired {1.SimName} as a new employee at {2.String}. {1.SimFirstName} will show up for work the next time {2.String} is opened.
+Small Business Venue Available!
+{0.String} is currently a Small Business Venue with no Small Business! {1.SimFirstName} can purchase this lot for {1.SimPronounPossessiveDependent} Small Business through the Phone.
+Open Small Business Settings
+No Business Assigned!
+{0.String} is currently a Small Business Venue with no Small Business! Open the Small Business Settings to assign a household Sim's Small Business to this venue.
+Open Business Settings
+No Currently Available Customers
+All customers that meet the required Target Customer Criteria of {0.String} are either already here or have visited too recently.\n\nConsider expanding the possible Target Customers or making the Criteria not required to encourage more customers to visit {0.String}.
+{0.TimeShort} to {1.TimeShort}
+{0.SimFirstName}
+{0.String}
+{0.Number} {S0.{S1.ObjectName}}{P0.{P1.ObjectName}}\n\n{2.String}
+{0.Number} {S0.{S1.ObjectName}}{P0.{P1.ObjectName}}
+{0.String}\n{1.String}
+{0.String}: {1.String}
+{0.Money}
+for {0.Money}
+{0.String}…
+{0.String} {1.String}
+{0.String} and {1.String}
+{0.String}, and {1.String}
+{0.String}, {1.String}
+&lt;font color='{0.String}'&gt;{1.String}&lt;/font&gt;
+ • {0.String}
+Resident Grant
+For teens and young adults, the place they live may offer grants providing students financial help in pursuing a university education. Each location has its own grant amounts, and students are encouraged to apply and represent their community!
+Sports &amp; E-Sports Scholarships
+There are a few scholarships that require Sims to participate in an after-school activity as part of their requirements. An Athletics scholarship requires the Sim to be a Soccer Team Player, while the E-Sports Scholarship requires the Sim to be E-Sports Competitor. A Sim cannot be accepted by both of these scholarships at the same time.
+Career Scholarships
+Universities want to encourage younger Sims that may already be dipping their toes in the job market. These scholarships offer teen and young adult Sims who have achieved some amount of career success with a way to help pay for a university education that can boost them in their career of choice in the future.
+Skill Scholarships
+Sims who have developed any number of practical skills are eligible to apply for a variety of skill-based scholarships. Those hours spent working on cooking, fishing, handiness, and many other skills can turn into scholarship funds! However, these scholarships are targeted at younger students and so are not available to adult or elder Sims.
+Need-Based Scholarships
+Every Sim deserves a university education, and the need-based Education for All and Helping Hand scholarships are designed to give Sims from households with less a chance to attend. Sims with less savings and assets are encouraged to apply!
+Distinguished Scholarships
+Sims who have been accepted into distinguished degree programs will automatically receive scholarships, with an amount based on how many distinguished degrees they’ve gotten into. Working on a Sim’s grade and skills before applying can lead to more degree acceptances and, in turn, more scholarship money!
+{0.SimFirstName} has the best chance of earning these scholarships:\n\n{1.String}
+Scholarship Value: 

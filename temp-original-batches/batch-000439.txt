@@ -1,0 +1,100 @@
+Every 1 Hour
+Every 30 minutes
+Check for Sims Deliveries: 
+You are going to miss out!
+Yes, turn off auto-download
+Nevermind!
+You will miss out on all the newest Sims Delivery content!\n\nAre you sure you want to turn off auto download?
+Automatically Download
+This will change the frequency of checking for a new Sims Delivery.
+This will automatically start downloading when there is new content available.
+You have the latest Sims Delivery content!
+Out of Space!
+Download Stopped
+Content {0.Number}.{1.Number}.{2.Number}\nStatus: {3.String}
+Download Completed!
+Content {0.Number}.{1.Number}.{2.Number}\nInstall Size: {3.String} MB
+Download Stopped
+Checking Sims Delivery Express for new Content
+Waiting
+Unknown
+Extracting
+Downloading
+Reticulating Sims Deliveries
+Set your Sims Delivery Express settings below to automatically download new content as it releases.
+There is not enough space in your storage device. Please free up some space before downloading your Sims Delivery.
+Oh no! Something seems to have gone wrong! Resume download to continue.
+An amazing Sims Delivery is on its way! The download of this content is happening in the background. Feel free to jump back in the game. We will alert you when the download is finished.
+A new Sims Delivery has been installed. To use, restart The Sims™ 4.\nEnjoy!
+Download the latest Sims Delivery. You can continue playing and we'll let you know when its ready.
+Something went wrong! You have been disconnected. Please reconnect and resume download of your Sims Delivery.
+Hold tight while we check for the latest content!
+Resume Download
+Resume Download
+Play with Sims Delivery!
+Download Now
+Reconnect and Resume Download
+Check for new Content
+Werewolves
+Weather
+Tutorial &amp; Tips
+Snowy Escape
+Businesses &amp; Hobbies
+Seasons
+Screen Capture
+Occult Sims may show up in Cupid's Corner.
+If disabled, Occult Sims will not show up as Matches in Cupid's Corner.
+Enable Occult Sims in Cupid's Corner
+Sims from the Gallery will get included in Cupid's Corner searches.
+Only see content from players you Follow, favorited Households or Maxis curated for Gallery Sims in Cupid's Corner.
+If checked, Sims in Cupid's Corner that are from the Gallery will only be from Players you Follow, Households you have Favorited, or Maxis Curated content.
+Enable Only Favorited Gallery Sims in Cupid's Corner
+If disabled, Gallery Sims will no longer show up in Cupid's Corner.
+Enable Gallery Sims in Cupid's Corner
+Lovestruck
+EA Account
+Music
+For Rent
+Lunar Cycle
+Lessons
+High School Years
+Growing Together
+Enchanted by Nature
+Graphics
+Gameplay
+Game Camera
+Get Famous
+Royalty &amp; Legacy
+Environment
+Eco Lifestyle
+Bust the Dust
+Credits
+Audio
+Accessibility
+Volume
+Voices:
+UI Sound:
+7.1
+5.1
+Quad
+Vacationing with: {0.String} and friends
+Vacationing with: {0.String}
+Vacationing with:
+Recommended for You
+Include Custom Content
+{0.Number} {S0.person has}{P0.people have} favorited {1.String}.
+{0.Number} {S0.person has}{P0.people have} downloaded {1.String}.
+Auto-detected Custom Content included in this item.
+Add Sim from My Library
+Browse the Gallery for rooms
+Yes
+Undo/Redo
+Undo
+&lt;font color='#ff0000'&gt;{0.TimespanShort}&lt;/font&gt;
+{0.TimespanShort}
+{0.Timespan}
+{0.String} / {1.String}
+{0.String} {1.String}
+{0.String} {1.String}
+{0.SimNameWithPrefix}
+{0.SimName}

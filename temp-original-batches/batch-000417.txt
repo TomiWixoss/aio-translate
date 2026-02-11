@@ -1,0 +1,100 @@
+You're right, of &lt;b&gt;course&lt;/b&gt; I should say yes! What was I thinking!? OMG I can't believe this is happening.
+You think so? I wasn't sure... but you're right. I guess it just wasn't written in the stars.
+Thanks! I was nervous, but now I'm excited!
+Yeah, I can do this! Watch me get promoted!
+Thank you for the encouragement, I will try to get it!
+Maybe you're right... I don't want the extra responsibility!
+I would have a lot less free time... I don't want this after all.
+If you think so, you are probably right...
+Make my own decisions? With no one to guide my actions? Why does this feel weird?
+A promotion would mean more responsibility... Is this what I really want? I'll give it more thought.
+I was hoping you would suggest something! You're right, though. I should decide for myself.
+You are right, I should go for it!
+Yes! I'll go for the new job!
+Look out new career, here I come!
+Really? I guess I should stay in my lane after all...
+You're right. Maybe it's not a good idea after all!
+You're probably right. I should stay put for now.
+I don't know right now! I'll take some time to consider.
+It's a big change. I'll have to think on it.
+But I called you so I didn't have to decide myself!
+I'm glad you brought this up {0.SimFirstName}! I've been thinking the same. Let me chat with {1.SimFirstName} and I'll get back to you!
+(From Someone You Know Becoming Pregnant)
+(From Someone You Know Having a Baby)
+I'm glad you brought this up, {0.SimFirstName}! I've been thinking the same; let me ponder on that thought for a short while and I'll get back to you!
+Congratulations! University has earned {0.SimName} a Degree, and the proof is in {M0.his}{F0.her} Diploma. You can find it in {0.SimFirstName}'s inventory.
+(From Being Declared an Enemy)
+(From Declaring an Enemy)
+Eating that tasty Death Frog Hot Pot has replenished {0.SimFirstName}'s Ghost Stamina!
+(From Eating Death Frog Hot Pot)
+Uh oh... {0.SimFirstName} just noticed a meteor is heading right for {0.SimPronounObjective}! {F0.She}{M0.He} should seek shelter, and quickly!
+(From Being Electrocuted)
+Since {0.SimFirstName} is Chased by Death, being more cautious around electrical objects would be prudent.
+(From Being Electrocuted)
+(From Strenuous Activity)
+(From Broken Dollhouse)
+(From Playing Modded Game)
+(From Checking Social Media Timeline)
+{0.SimName} is starting to get tired from working for so long. {M0.His}{F0.Her} performance and job satisfaction will almost certainly suffer without a break!
+(From Upgraded Toilet)
+(From an Upgraded Toilet)
+Energy Loss - Small
+(From Failing To Fix Apartment Problems)
+(From Successfully Fixing Apartment Problems)
+(From Performing Routine in Space)
+Congratulations on starting your element collection! To really show them off, consider purchasing an Elemental Display Rack.
+(From Sleeping in a Coffin)
+(From Molding Clay Blob)
+{0.SimFirstName} is no longer in Scouting!
+{0.SimFirstName} is no longer in Drama Club!
+Formative Moments Challenge Complete
+Open Simology Panel
+(From Completing a Formative Moments Challenge)
+&quot;I saw someone catch a fish that was as big as you the other day! &lt;i&gt;And&lt;/i&gt; it could talk and fly!&quot;\n\n{0.SimFirstName} isn't sure {1.SimFirstName} is telling the truth, but there's only one way to find out! Plus, getting good at fishing could be pretty fun!\n\nThe &lt;b&gt;Master Fishing&lt;/b&gt; Challenge has been added as a Suggested Challenge in the Aspiration Panel.
+&quot;I live for a bit of danger! Nothing can stop me! I'm invincible! Muahaha!&quot;\n\nWow, {1.SimFirstName} is so brave and cool! {0.SimFirstName} wants to laugh in the face of danger like {1.SimPronounObjective}!\n\nThe &lt;b&gt;Live Dangerously&lt;/b&gt; Challenge has been added as a Suggested Challenge in the Aspiration Panel.
+&quot;Being outside is the best! Fresh air! Frogs...all kinds of neat things really!&quot;\n\n{0.SimFirstName} thinks that {1.SimFirstName} is making some pretty good points! It would be fun to explore nature!\n\nThe &lt;b&gt;Explore Nature&lt;/b&gt; Challenge has been added as a Suggested Challenge in the Aspiration Panel.
+&quot;Look at my outfit! Isn't it the &lt;i&gt;best&lt;/i&gt;?!&quot;\n\n{0.SimFirstName} does like {1.SimFirstName}'s outfit, but it'd actually be a lot of fun to make {0.SimPronounPossessiveDependent} own. Find {0.SimPronounPossessiveDependent} own style, you know?\n\nThe &lt;b&gt;Establish an Image&lt;/b&gt; Challenge has been added as a Suggested Challenge in the Aspiration Panel.
+&quot;I always get told that I'm the best little helper when I do chores around the house!&quot;\n\n{0.SimFirstName} wants to be the best little helper just like {1.SimFirstName}! Just because {0.SimPronounSubjective} {S0.is}{P0.are} a kid, it doesn't mean {0.SimPronounSubjective} can't be useful!\n\nThe &lt;b&gt;Be Useful&lt;/b&gt; Challenge has been added as a Suggested Challenge in the Aspiration Panel.
+&quot;You know what? Who cares what other kids think! I decided to love what I love, and now I'm happier!&quot;\n\n{0.SimFirstName} admires {1.SimFirstName}'s energy, maybe that's something that {0.SimPronounSubjective} could do too!\n\nThe &lt;b&gt;Be an Enthusiast&lt;/b&gt; Challenge has been added as a Suggested Challenge in the Aspiration Panel.
+&quot;You learn so much when you actually do your homework. It's really hard to always do your homework though.&quot;\n\n{1.SimFirstName} makes a good point and has inspired {0.SimFirstName} to try to be a good Student. It might be hard, but it isn't impossible!\n\nThe &lt;b&gt;Be a Good Student&lt;/b&gt; Challenge has been added as a Suggested Challenge in the Aspiration Panel.
+&quot;I've got a whole hundred Simoleons, so I'm the richest kid on the block!&quot;\n\nThat's pretty cool that {1.SimFirstName} has 100 Simoleons, but {0.SimFirstName} thinks {0.SimPronounSubjective} can do better! Maybe even start a little business just like a grown-up business Sim!\n\nThe &lt;b&gt;Be Entrepreneurial&lt;/b&gt; Challenge has been added as a Suggested Challenge in the Aspiration Panel.
+&quot;I heard that Princess Cordelia traveled all over the world! I wonder if I'll ever go anywhere cool?&quot;\n\n{1.SimFirstName} brought up a good point, and now {0.SimFirstName} wants to travel the world and see everything there is out there!\n\nThe &lt;b&gt;Be a Traveler&lt;/b&gt; Challenge has been added as a Suggested Challenge in the Aspiration Panel.
+&quot;You know what's a rush? Stealing something. Bet you couldn't get away with it like I can...&quot; \n\n{1.SimFirstName} &lt;i&gt;steals&lt;/i&gt; things? {0.SimFirstName} &lt;i&gt;does&lt;/i&gt; have a bit of an itchy finger to steal something.... Could be fun?\n\nThe &lt;b&gt;Be a Rogue&lt;/b&gt; Challenge has been added as a Suggested Challenge in the Aspiration Panel.
+&quot;I'm the most rough and tumble outdoor explorerer there ever was!&quot;\n\n{0.SimFirstName} thinks it would be pretty cool to be an outdoor explorer just like {1.SimFirstName} claims to be!\n\nThe &lt;b&gt;Be an Outdoor Enthusiast&lt;/b&gt; Challenge has been added as a Suggested Challenge in the Aspiration Panel.
+&quot;Guess what I did? I made the toilet explode at school the other day! Everyone laughed! It was so funny!&quot;\n\n{0.SimFirstName} wants to make everyone laugh and get tons of attention just like {1.SimFirstName} did!\n\nThe &lt;b&gt;Be Annoying&lt;/b&gt; Challenge has been added as a Suggested Challenge in the Aspiration Panel.
+&quot;Look at me! I'm the center of attention! Meeeeeee!&quot;\n\n{0.SimFirstName} wants to be the center of attention too! It's not fair that {1.SimFirstName} gets to be!\n\nThe &lt;b&gt;Be an Entertainer&lt;/b&gt; Challenge has been added as a Suggested Challenge in the Aspiration Panel.
+&quot;I bet I'm the fastest there ever was! I'll probably be a famous athlete someday!&quot;\n\n{0.SimFirstName} wants to go as fast as {1.SimFirstName}!\n\nThe &lt;b&gt;Be Active&lt;/b&gt; Challenge has been added as a Suggested Challenge in the Aspiration Panel.
+&quot;Did you know that people eat different food in different places around the world?&quot;\n\n{0.SimFirstName} didn't know that until {1.SimFirstName} said so. Now, {0.SimFirstName} wants to try all the different types of foods!\n\nThe &lt;b&gt;Be Inquisitive about Cuisine&lt;/b&gt; Challenge has been added as a Suggested Challenge in the Aspiration Panel.
+Open Aspirations Panel
+Formative Moments
+(From Acquiring a Formative Moments Trait)
+{0.SimFirstName} received this reward:\n{2.String}
+{0.SimFirstName} has submitted a well received Style Column to the publisher!
+{0.SimFirstName}'s style column submission was not accepted.
+(From Style Influencer Event)
+{0.SimFirstName} has submitted a well received article to the publisher.
+{0.SimFirstName} has submitted a bad article.
+Sim's Weight Decreased
+Sim's Weight Increased
+{0.SimFirstName} has met {1.SimFirstName} while at school!
+Make Up Homework Complete
+{0.SimFirstName} has completed {M0.his}{F0.her} Make Up Homework for the day.
+Extra Credit Complete
+“{M0.Prince}{F0.Princess} of Pranks.” “Destroyer of {1.String}” All titles bestowed upon {0.SimFirstName} for {M0.his}{F0.her} maniacal ingenuity when decorating the gym for the {1.String} Dance. Sure, {M0.he}{F0.she} got in a bit of trouble with the teachers, but that’s part of the fun! All of the school thinks {0.SimFirstName} is hilarious and the dance was way better than it would have been otherwise.
+Why decorate for a {1.String} Dance when you could sabotage it instead? That was the thought anyway. {0.SimFirstName} probably should have just decorated like {M0.he}{F0.she} said {M0.he}{F0.she} would. Not only were the pranks disappointing rather than funny, but when the teacher bit into a cookie covered in ketchup—they knew exactly who to blame. {0.SimFirstName} spent the rest of the day sitting in the hall while everyone else had fun.
+{0.SimFirstName} might have been tasked with setting up for “a {1.String} Dance,” but instead, {M0.he’d}{F0.she’d} be setting up for “THE {1.String} Dance.” With a flurry of banners, streamers, cookies and punch (not literally—that would be messy), {0.SimFirstName} decorated the gym for a {1.String} Dance that would be remembered for years to come!
+{0.SimFirstName} went in with hopes ablaze! {M0.He’d}{F0.She’d} planned to make this the best {1.String} dance ever! That was before {M0.he}{F0.she} saw what {M0.he}{F0.she} had to work with. Crumpled decorations. No snacks. Polka music! To make matters worse, nobody else had volunteered. When the dance started, everyone blamed {0.SimFirstName} for the lame time they had.
+It took most of the day for {0.SimFirstName} to work up the nerve and ask that special sim to the party, but it was totally worth it! {0.SimFirstName} stole shy glances at {M0.his}{F0.her} date as they congregated along the wall and awkwardly chatted about their classes, school sports, and the weather (which oddly had been much more active as of late)! By the time the party was over, {0.SimFirstName}’s heart was a flutter!
+It took courage! That’s what {0.SimFirstName} would have to keep telling {M0.himself}{F0.herself}. The moment {M0.he}{F0.she} asked that special sim to the {1.String} Party, was the exact same moment {M0.he}{F0.she} got shot down. The response “No” had been instantaneous and followed by the cruel snickers of {M0.his}{F0.her} classmates. {0.SimFirstName} spent the party hiding in the bathroom. Embarrassed. With a llama cookie—which was delicious but didn’t make up for what had just happened.
+{0.SimFirstName} wasn’t interested in inviting anyone in particular. Instead, {M0.he}{F0.she} decided to focus simply on being the life of the party! While {M0.his}{F0.her} classmates indulged in awkward banter and ‘wallflowering,’ {0.SimFirstName} lead the charge for fun! Who delivered flowers to everyone in attendance? Who started a Chubby Llama competition? And who talked the teacher into playing the cool music? {0.SimFirstName}, of course! It was an epic school party that begged only one question: Whatever did {0.SimFirstName} do with the chaperones?
+Was it the fact that {0.SimFirstName} went alone that made it the worst {1.String} School Party of all time? OR was it the fact that {M0.he}{F0.she} spilled punch all over {M0.himself}{F0.herself}, slipped on the floor, and then accidentally knocked down a teacher! Because, although {0.SimFirstName} felt pretty awkward standing along the wall alone, the whole knocking down a teacher thing was really bad.
+“Sensitive, Sweet, Charming, Thought-provoking”—these are a few of the descriptors kids are whispering about {0.SimFirstName} in the halls. Some say, the school bully renounced his previous ‘taxation” on school lunches, the popular girls are allowing anyone to sit with them (even if they aren’t wearing pink), and nobody has been stuffed in a locker today—and all because of {0.SimFirstName}’s cards! Is this what being a teen legend feels like?
+(From a Work Event)
+(From a School Event)
+(From Using Outhouse Restroom)
+(From Eating a Smore)
+(From Eating a Marshmallow)
+(From Campfire)
+(From Viewing a Bonsai)
+(From Burning Voodoo Doll)
+(From Failed Fire Dance)

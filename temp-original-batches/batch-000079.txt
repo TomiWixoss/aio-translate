@@ -1,0 +1,100 @@
+Ghostly Repair
+{0.SimFirstName} is going into Labor! Follow {0.SimFirstName} to the Hospital?
+Waiting in Line
+Waiting in Line at {1.ObjectName}
+Get on Bike
+Sit on Bike
+Biking
+WooHoo
+Sit
+Relax
+Eliminate accidental fires with the Ultra-Tempered Fireguard finish.
+Fireguard
+For Sims who want the fireplace on when they enter a room
+Autolight
+Upgrade complete!\n\n{0.SimFirstName} has finished installing the fireplace upgrade.
+The fireplace must be off in order to upgrade.
+Put Out
+Light
+Enable Autolight
+Disable Autolight
+Extinguish yourself first!
+The fire has been put out. Just try to be a little more careful next time, ok?
+We can't get to the fire! Something is blocking the way! Oh no!
+Deactivate
+Replace
+Excited by Fire
+FIRE!
+On Fire!
+(From Being Lit on Fire)
+Extinguish Self!
+Extinguish
+{0.SimFirstName} would rather see this fire burn!
+The mold must burn before doing this.
+Let the object burn out first.
+Cannot put out fire while carrying something.
+Coop Capacity
+Place Animal
+Place {2.String}
+This can only be done at a Home Lot.
+Refill
+(From Showing Off Work)
+Negative Fitness Reaction
+Unlock Portrait
+Use Swimwear Outfit
+Use Sleepwear Outfit
+Use Party Outfit
+Use Formal Outfit
+Use Everyday Outfit
+Use Athletic Outfit
+Randomize Pose
+Lock Portrait
+This familiar is currently out foraging.
+This familiar is too far away.
+Thanks for bringing me this Perfect Growfruit!\n\nYou have completed the Perfect Growfruit Challenge! Congratulations!
+Give Perfect Growfruit
+Search for Phone
+Take a Random Book
+Donate to Littlest Neighborhood Library
+Etude of Egress
+Enable Emotional Aura
+This object will give nearby Sims Moodlets based on its Emotion when the Emotional Aura is Enabled.&#xD;&#xA;
+Disable Emotional Aura
+This object will not provide any Emotional Moodlets unless Sims are nearby.
+View Sad Work
+View Angry Work
+View Focused Work
+View Inspired Work
+View Energized Work
+View Flirty Work
+Ask to Stop Playing Music
+Ask to Start Playing Music
+Leave Group
+Disband Group
+Can't have an ensemble of more than 8 Sims.
+They don't like you enough to join you.
+You can't modify Groups during a Club Gathering.
+They are too busy working to join.
+Empty Trash
+{0.SimFirstName} needs an outdoor trash can to take out the trash.
+This trash can is empty.
+Empty Oven
+Empty Microwave
+Yell At For Emotional Meltdown
+Tell Not To Have Emotional Meltdowns
+Express Disappointment For Emotional Meltdown
+Ask Not To Have Emotional Meltdowns
+Encourage Emotional Meltdowns
+Hug It Out Over Emotional Meltdown
+Continue Making Unbreakable
+Upgrading the heating element will make this electric kettle unbreakable.
+Unbreakable
+Continue Installing Automatic Descaler
+The new automatic descaling cycle saves time and effort, preventing the kettle from getting dirty in the first place.
+Automatic Descaler
+Upgrade complete!\n\n{0.SimFirstName} has finished installing an Electric Kettle upgrade.
+Turn Off
+Tea &amp; Hot Water
+Coffee
+Hot Cocoa
+Another drink cannot be poured until the existing drink has been picked up.

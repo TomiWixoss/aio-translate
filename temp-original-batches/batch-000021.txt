@@ -1,0 +1,100 @@
+Lighting
+Life Event Activities
+Kids
+There are no decorations matching this holiday. To view all decorations, select the &quot;All&quot; category icon. 
+There are no decorations matching this holiday's traditions. To view all decorations, select the &quot;All&quot; category icon. 
+Holiday Décor
+Holiday Items
+Activities and Skills
+Electronics
+Decorations
+Community Items
+Comfort
+Pond Effects
+Appliances
+Windows
+Water Styles
+Pool Objects
+Wall Tool
+Wall Patterns
+Wall Sculptures
+Trees
+Terrain Tools
+Terrain Paint
+Structure
+Stairs &amp; Ladders
+Stairs
+Stair Railings
+Shrubs
+Roof Trims
+Roofs
+Roof Patterns
+Diagonal Roofs
+Roof Sculptures
+Rocks
+Pool Trim
+Pool Water Styles
+Cannot cut through the floor.
+Can only edit exposed terrain.
+Room window fenestration failed.
+Action not possible here.
+Can't connect to a room with a different height.
+Blocks Must Always Have A Sim Height Gap
+Blocks On Adjacent Levels Must Touch
+Can't replace this type of fence with Half Walls.
+Invalid room shape.
+Can’t move standalone fences into rooms.
+Invalid room shape.
+Room intersects facet drag neighbor.
+Foundation Elevation Out Of Bounds
+Block Doesn't Define Height
+Not enough room to place windows.
+Room can't intersect with terrain.
+BlockBooleanOperationFailed
+Scheduler
+Manage the Daily Schedule
+Accept Schedule
+Area assignment cannot be changed while a Small Business is open.
+All areas already have this assignment.
+Walls not allowed on top floor.
+Walls not allowed on rounded pieces.
+Right Rail
+No Rail
+Left Rail
+Double Rail
+BUILD FLOOR
+REMOVE FLOOR
+BUILD WALL
+REPLACE WITH:
+REMOVE WALL
+REMOVE SPANDREL
+REMOVE FENCE
+HALF WALL
+FULL WALL
+FENCE
+BUILD FENCE
+BUILD:
+BUILD CEILING
+REMOVE CEILING
+This area is accessible to all Sims that live on the lot.\n\n&lt;b&gt;As there is currently only one unit, it will be considered part of that unit.&lt;/b&gt;
+This area is accessible to all Sims that live on the lot.
+Shared
+This unit is currently occupied.\nPlease move tenants out to add rooms to this unit.
+This unit is currently hidden.\nPlease unhide the unit to assign rooms to it.
+You may not reassign this room because it is the only room in the unit your Sim is currently located in.
+You may not reassign this room because it is the only room in the Home Unit.
+Create a new unit, and add selected room to it
++ Create Unit
+Unable to Raise Platform
+Unable to Lower Platform
+Rotate - &amp;#60; &amp;#47; &amp;#62;
+Raise Platform
+Move
+Lower Platform
+Copy
+Confirm
+Residential Rental units are limited to 100 per save file
+Existing unit has no rooms assigned – must assign a room before creating new units
+Residential Rentals can have 6 units maximum
+Night - L
+Morning - L

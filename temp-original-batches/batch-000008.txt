@@ -1,0 +1,100 @@
+Perk Points:
+Open Alliances &amp; Rivalries
+No eligible Sims to add to Dynasty.
+Create Dynasty without Heir?
+An Heir will be able to generate more Prestige than a normal Member. The Head of the Dynasty can designate or change an Heir at any time.\n\nAre you sure you want to create this Dynasty without designating an Heir first?
+A Dynasty is made up of a group of related Sims. Anyone who is related to the Dynasty Head, or is the child, grand child, or step child of another member, is allowed to join. \n\nNot all Sims who can join want to join, or are allowed by the Dynasty Head to join! Improving the relationship between the Sim and the Dynasty Head, and increasing the Dynasty's Prestige, may help in such situations.
+Members
+Member
+Only the head of the Dynasty can edit this.
+Leave Dynasty
+Do you want to kick this Member out of the Dynasty?
+Kicking this member out of the Dynasty may have consequences.\n\nAre you sure you want to do this?
+Kick Out of Dynasty
+Members
+The Dynasty needs a Head.
+&lt;font color='#AE3CDE'&gt;In a Scandal&lt;/font&gt;\n&lt;font color='#1E81E6'&gt;Time Remaining:&lt;/font&gt; &lt;font color='#199C2C'&gt;{0.Timespan}&lt;/font&gt;
+Dynasties can choose up to three Ideals to embrace as Dynasty Values.\n\nMembers who engage in the Ideal's Encouraged Activities, go to work in an Encouraged Career, or participate in an Encouraged Extracurricular will generate Prestige for the Dynasty. Members who engage in the Ideal's Discouraged Activities or go to work in an Discouraged Career will make the Dynasty lose Prestige.\n\nMost Members will engage in the Ideal's Encouraged Activities more often on their own but only if Autonomy is set to Full in Game Options &gt; Gameplay. However, members who have Traits who are opposed to an Ideal (for example, the Evil Trait is opposed to the Caring Ideal) may engage in Discouraged Activities more often instead!
+Ideals
+&lt;font color='#EC262E'&gt;This Ideal is already selected.&lt;/font&gt;
+Add Ideal
+Dynasty Heir
+Add members to the Dynasty first to select an Heir.
+Dynasty Head
+\n&lt;b&gt;&lt;font color='#199C2C'&gt;Encouraged Careers &amp; Extracurriculars&lt;/font&gt;&lt;/b&gt;
+&lt;b&gt;&lt;font color='#199C2C'&gt;Encouraged Activities&lt;/font&gt;&lt;/b&gt;
+No Alliances or Rivalries
+Prestige Level {0.Number}
+&lt;font color='#1E81E6'&gt;{0.Number} Members&lt;/font&gt;
+{0.SimFirstName}'s Dynasty
+&lt;font color='#EC262E'&gt;Rival&lt;/font&gt;\n&lt;font color='#1E81E6'&gt;{0.Number} Members&lt;/font&gt;\nPrestige Level {1.Number}
+&lt;font color='#199C2C'&gt;Ally&lt;/font&gt;\n&lt;font color='#1E81E6'&gt;{0.Number} Members&lt;/font&gt;\nPrestige Level {1.Number}
+\n&lt;b&gt;&lt;font color='#EC262E'&gt;Discouraged Careers&lt;/font&gt;&lt;/b&gt;
+\n&lt;b&gt;&lt;font color='#EC262E'&gt;Discouraged Activities&lt;/font&gt;&lt;/b&gt;
+Are you sure you want to designate this member as Heir?
+Another Sim is already the Heir of this Dynasty, they will lose their position and may react negatively.\n\nAre you sure you want to make this change?
+An Outcast cannot be designated as an Heir.
+Designate Heir
+Already designated as an Outcast.
+The Heir cannot be designated Outcast.
+Must be a teen or older to be designated as an Outcast.
+Declare Outcast
+Remove Skill
+Remove Member
+Remove Ideal
+Dynasty Name
+Enter a Description...
+Create Your Dynasty
+Create New Dynasty
+Dynasty must have a valid name.
+&lt;font color='#1E81E6'&gt;Outcast&lt;/font&gt;
+Dynasty Heads can declare Rivalries or form Alliances with the Head of another Dynasty.\n\nThe Dynasty will gain Prestige on starting a new Alliance or Rivalry, and from interacting with Members of those Dynasties, but lose Prestige if it is ended.\n\nAlliances are harder to start and maintain, but has mainly positive effects, while Rivalries are easier to start and uphold, but come with negative consequences as well.
+Alliances &amp; Rivalries
+Members of Allied Dynasties enjoy improved Relationships and gain Prestige when being Friendly.\n\nAsking for Blessing to Marry is more likely to succeed between Allies, and Allies are also more likely to befriend, propose dates, and visit each other.
+Alliances
+Add Skill
+Add Members
+Add Members
+Add Ideal
+Parent
+Are you sure you want to end the current Getaway?
+Cancel Getaway?
+Are you sure you want to cancel the planned Getaway?
+Plan a Getaway at your own residential lot or on most Venue lots! Getaways can last multiple days, with work and school paused for the entire duration. Sims will not lose any progress in their careers or school while they are away. Be sure to place the right objects for your chosen Activities so Sims can enjoy everything on the schedule!
+Getaway
+Funeral Event
+Festival
+Fall in {0.String}
+Reward Event
+Normal Event
+Edit Event
+Event is currently underway and cannot be edited.
+Cancel Event
+Event is currently underway and cannot be canceled.
+Delete Event?
+Are you sure you want to delete this event?
+Only a Teen or older Sim can schedule events.
+Cannot add an event while on Batuu.
+Cannot add an event in this place.
+Event
+From {0.TimeShort} to {1.TimeShort}
+Starts at {0.TimeShort}
+From 6:00 AM to 4:00 AM
+{0.SimFirstName} is already at the event location.
+Cannot travel during event.
+Event is not currently active.
+Go to Event
+{0.DayOfWeekLong} - {1.DayOfWeekLong}
+Events cannot be scheduled more than two weeks in advance.
+Nothing available for the current filter.
+No events are scheduled.
+Birthdays
+Gig: {0.String}
+Gig: {0.String}
+Gig: {0.String}
+Audition: {0.String}
+Add Wedding Event
+Add Stay Over
+Add Holiday
+Add Getaway
+Add Funeral Event

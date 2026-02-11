@@ -1,0 +1,100 @@
+My time here might be up, but I couldn't bear to pass on until I saw what the three of you would become. I'm proud of you. And if you go back to your old ways, I'll know and I'll haunt you! 
+Alas, my time is drawing short. When you've lived as long as I have, you can feel it coming. Don't mourn me, I am going home to be with your grandfather, and I will be watching from above. My one regret in life is that I never pushed you three to your full potential. We have spoiled you, and this is more my fault than yours. But you have proven that you do have some strength of character and merit, and that you can, with proper motivation, make something of yourselves. I have done my best to reward each of you with what I think you deserve.
+Your money, your choice, grandma. Do what you must.
+NOOOO! That money was supposed to be mine!
+It's not like I can take it with me... This hurts me more than it hurts you. You know, because I actually worked for this money. Hopefully now you realize I'm serious - I'll burn every last Simoleon before it goes to you three, unless I see some serious changes around here.
+We will grandma! I told you we could change!
+I knew we could get back in your good graces.
+I have spent a lot of my life feeling upset with how you three turned out. At times I felt guilty, at times I felt saddened, and more often than not, I felt plain mad. But your efforts have shown me perhaps there is some hope. Keep it up!
+OK, fine, you win, I will leave the house!
+Why would I want a family? I have video games.
+Now that you've got a job, I'm marginally less disappointed, but I still need to see a little more from you. Why would I give my money to a descendant that has no plans for their future? It's time you got out there and met your better half, though I highly doubt you can. But, feel free to prove me wrong.
+I guess it is time to grow up...
+We're rich, why waste our lives working?
+Your grandfather and I have been working ever since we were teenagers. You three obviously think you're too good to get your precious hands dirty, but in my day, a respectable adult had a job. And a family, for that matter, but given how low my expectations are for the lot of you, I'll take gainful employment and some basic life skills as a minimum.
+It's your money, donate away! 
+Hey, you can't do that! We... we won't stand for this. 
+I'll be able to rest more easily after I'm gone knowing this money is in more deserving hands... perhaps this will provide a little motivation to get your act together.
+You're right. We can mend fences, or act like it.
+It's not my fault my siblings are useless.
+You three can hardly sit in a room together without squabbling like schoolkids. Siblings should stand together and work as a team, not bicker. This petty infighting stops now. If you can't put aside grudges and act like a family for at least ONE family dinner, so help me I will donate every last cent of my fortune to more deserving families...
+Sorry grandma. Please don't be rash, we can change!
+How dare you! We deserve that money.
+I'm deeply disappointed with the way things have gone for all of you. We have a proud family legacy to uphold, and it's clear that you've let it slip through your fingers. You've squandered your opportunities and shown little regard for the values that have made us who we are. If you want to have any hope of inheriting a share of my fortune, you'll need to demonstrate that you're willing to work hard and make something of yourselves. Prove to me you've turned over a new leaf and the inheritance could be yours.
+I think you can do better.
+Yes, go for it!
+Yes! Romance is in the air!
+You should think about it yourself.
+Honestly... I don't really care.
+Hey {0.SimFirstName}! {1.SimName} has asked me out on a date. Should I say yes?
+Do what your heart tells you!
+I don't think it's a good idea.
+I don't think {1.SimPronounSubjective} would be a good fit for you.
+Hey {0.SimFirstName}! I think I have a crush on {1.SimName}. Do you think it's worth a try?
+I guess you could go for it...
+Hey {0.SimFirstName}! I think {1.SimName} is pretty cute, should I ask {1.SimPronounObjective} out?
+Hey {0.SimFirstName}! I've been thinking about getting to know {1.SimName} better as a friend. Do you think the two of us should hang out?
+Quick question, {1.SimName} and I were planning to spend some casual friend time together. Should I do it?
+Socializing is always fun, but that's your choice.
+Of course, building friendships is a must!
+To be honest, I'm not sure...
+Usually I would, yes, but... not this time.
+It pains me to say this... but no.
+I'm sure they mean well, I vote Yes!
+I think you should go for it!
+I've heard good things about them, so maybe...
+It's good to hear your voice {0.SimFirstName}! I wanted to ask you if I should get to know {1.SimName} a little better as a friend? They seem like good company.
+If I were you, I wouldn't do that.
+In the end, {1.SimName} and I were not made for each other.
+I think {1.SimName} and I were just not meant to be...
+So, I ended up not going on a date with {1.SimName}.
+Sorry to hear it.
+Remember when we talked about {1.SimName}? We went on a very nice date!
+Guess what? My date with {1.SimName} went very well!
+You won't believe it, {1.SimName} is such a sweetheart! I'm in love!
+Congrats!
+After speaking with you I felt that it was best if {1.SimName} and I didn't hang out. I appreciate the help!
+I just wanted to let you know I followed your advice and chose not to spend more time with {1.SimName}.
+Hello there {0.SimFirstName}! I thought some more about what you said and concluded that {1.SimName} and I probably wouldn't get along.
+I am delighted you recommended I spend some time with {1.SimName}, I was amused the entire time!
+{0.SimFirstName}! Thank you for suggesting I hang out with {1.SimName}. We had a spectacular time.
+{1.SimName} and I just had a blast together, thank you for your advice!
+Hey {0.SimFirstName}, I wanted to let you know that {1.SimFirstName} and I are now dating! I'm head over heels for {1.SimPronounObjective}.
+Hey {0.SimFirstName}, I wanted to let you know that {1.SimFirstName} and I got back together!!
+Hey {0.SimFirstName}, I wanted to let you know that {1.SimFirstName} and I broke up...
+Hey {0.SimFirstName}, I wanted to let you know that {1.SimFirstName} and I are now friends!
+Hey {0.SimFirstName}, I wanted to let you know that {1.SimFirstName} and I now despise each other. I just can't stand {1.SimPronounObjective}.
+Hey {0.SimFirstName}, I wanted to let you know that {1.SimFirstName} and I are now best friends!
+Check Inventory for Ticket
+The Sims Sessions exclusive music festival has come to town for a limited time!\n\nFeaturing Bebe Rexha performing an acoustic rendition of Sabotage!\n\nWith additional performances by Glass Animals and Joy Oladokun. It's sure to be the summer hit!\n\nHead over to Magnolia Blossom Park in Willow Creek to attend, every Sunday at 12pm!
+Let's go now!
+Don't Tell Jokes to {0.String}
+Tell Jokes to {0.String}
+Tell Jokes
+Sims will tell jokes to other Sims.
+Don't Scare {0.String}
+Scare {0.String}
+Scare
+Sims will scare other Sims.
+(From Participating in Mix and Mingle Activity)
+Don't Kiss {0.String}
+Kiss {0.String}
+Kiss
+Sims will kiss Sims with whom they've built enough relationship.
+Don't Hug {0.String}
+Hug {0.String}
+Hug
+Sims will hug Sims with whom they've built enough relationship.
+Don't Fight with {0.String}
+Fight With {0.String}
+Fight
+Sims will fight other Sims.
+Care for Little Ones
+Sims will check on and care for toddler and infant Sims.
+Don't Mix and Mingle
+Mix and Mingle
+Sims will bond, cuddle, and try to build a romantic relationship.
+Don't Be Romantic with {0.String}
+Be Romantic With {0.String}
+Be Romantic
+Sims will do romance interactions with other Sims.

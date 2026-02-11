@@ -1,0 +1,100 @@
+Graduating requires Excellent Performance and completing your Tasks.
+The best ways to improve career performance are:\n • Going to Work with a Positive Emotion\n • Maintaining High Relationships with Co-workers
+Complete gigs to improve career performance. Finishing gigs quickly will result in an increased performance boost and bonus payments. Canceled or unfinished gigs will lower performance.\n\nWhile freelancers don't receive promotions, improving performance will increase their standing with their trade's agency, which leads to higher base pay and unlockable rewards!
+Clients will allot a certain budget\nto use for the renovations. If you\ngo over budget, the amount will\nturn red. Going over budget will\nnegatively affect your performance \nand reputation.\n\nBetter performance and reputation\ncan lead to repeat Clients or new, \npotentially higher-paying Gigs.
+The best ways to improve career performance are:\n •Completing audition and gig prep tasks\n •Completing on set tasks\n •Succeeding at Risky scene performances.
+Getting a career promotion requires Excellent Performance and completing the Promotion Tasks.
+Pick Trade
+Pick Agency
+Invite Over Director &amp; Co-Stars
+Perform tasks throughout the week so you can increase your Performance for this After School Activity.
+The best ways to improve career performance are:\n •Going to Work with a positive emotion\n •Maintaining high relationships with Co-workers
+The best ways to improve school performance are:\n •Going to School with a positive emotion\n •Completing homework\n •Maintaining high relationships with school mates
+The best ways to improve career performance are:\n • Completing Noble Duties \n • Going on Noble Ventures
+The best ways to improve career performance are:\n •Going to Work with a positive emotion\n •Completing the Daily Task\n •Maintaining high relationships with Co-workers
+Owner &lt;font color='#1E81E6'&gt;of {0.String}&lt;/font&gt;
+Over Budget:
+Working From Home
+OK
+Complete all of the tasks before the deadline. Finishing faster can lead to better results.
+Go to work at the scheduled time. Make sure to check the recommended skill level.
+Cancel Gig
+{0.String}\n\n{1.String}
+Edit Kingdom Titles
+{0.SimFirstName} doesn't currently go to school.
+Household
+Friends
+Family
+Coworkers
+Clubs
+Business
+All
+&lt;font color='#999999'&gt;{0.String}&lt;br&gt;Deceased&lt;/font&gt;
+Compatibility: 
+Clubs:
+Careers:
+Attraction: 
++ {0.Number} more
+Interview Clients to find out!
+Client Preferences
+Client: {0.String}
+The fish that are shown here are based on the fish your Sim has discovered, as tracked within their Household Collections. The more fish they find out in the world, the more they can select to add to their pond.\n\nYou can change the type of fish available for fishing whenever you want. Just use the Fishing Allowed Sign to adjust which fish the pond is currently stocked with.
+Cannot Travel because a Social Event is active.
+Cannot Travel while an Event is in progress.
+…
+{0.String}{1.String}
+{0.Number} Required
+Available Funds:
+Unknown Caller
+Task list will refresh every Sunday, Tuesday, and Thursday morning.
+Tasks
+Organization Events
+Leave Organization
+Leave Organization?
+Are you sure you want to leave this Organization?\nYou can rejoin anytime by asking an active member.
+Organizations
+Upcoming Event
+Go to Event
+Event is not currently active.
+{0.SimFirstName} is already at the event location.
+Cannot travel during an Event.
+Current Event
+Join an Organization to access Organization Tasks, your personal Event schedule, and your Organization Member status.
+Organizations
+Tasks and Events are inactive until {0.SimFirstName} is enrolled in University.
+{0.SimFirstName} is not part of any Organizations. Any Sim enrolled in University can join by asking an active Organization Member.
+There are no Library Venues in the world to support the Event.
+There are no Bar Venues in the world to support the Event.
+Take weaknesses: {0.Number}
+&lt;span class=&quot;selected&quot;&gt;{0.Number}&lt;/span&gt;/{1.Number}
+As you grow in power, you'll occasionally have to take on a weakness. You won't be able to learn any new powers until you do!
+Undo Changes
+Rank up to earn more power points! As you rank up, and learn more powers, you'll also have to take more weaknesses, so be careful!
+Next Tier:
+Current Tier:
+Open {0.SimFirstName}'s Spellbook
+Dormant Abilities
+Dormant Abilities are available at any tier and don't require spending Ability Points.\n\nEach is unlocked by completing the relevant objectives for that Ability.
+Give this Toy a new name...
+Name Toy
+Name Stuffed Animal
+Give this Stuffed Animal a new name...
+What do you want to rename this object?
+My Favorite Plaything
+Untitled
+What would you like to name this painting?
+Name Painting
+Sim Stats
+Household Collections
+Affects: {0.SimName}
+{0.String}: {1.Timespan}
+{0.Timespan}
+Property Of:
+Return to Categories Menu
+Your Sim's notes here...
+No ingredients required.
+There are no entries in {0.SimFirstName}'s Notebook right now.
+Confidantes:
+Complicit:\n{0.SimName}
+Extortionists:
+&lt;font color='#EC262E'&gt;• Must be career level {0.String}&lt;/font&gt;

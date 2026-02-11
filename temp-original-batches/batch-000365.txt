@@ -1,0 +1,100 @@
+Add Moodlet
+Use GSI to add a moodlet or |sims.add_buff
+{2.String}
+Serve {1.ObjectName}
+Practice
+Being Inspired improves piano playing!
+{0.SimFirstName} will be able to use the piano at the Sims Sessions stage after the performances have ended!
+Write Jingle
+Tickle the Ivories
+Practicing can be lots of fun in the right mood.
+Serenade
+Listen to Serenade
+Practice
+Plunk for Inspiration
+Play
+Serenade
+The Sim must age-up to perform this interaction
+(From Liking Piano)
+(From Disliking Piano)
+Break out the candles! Make it romantic! {0.SimFirstName} is about to WooHoo for the first time!
+Place each of the nine unique skulls from the sugar skull collection inside this case to unlock this interaction.
+The dead have been honored recently and need to rest.
+Honor the Dead
+Remove Makeup
+Play With Makeup
+Black Eyeliner
+Gray Eyes / Glossy Pink Lips
+Blue Eyes / Satin Bronze Lips
+Blue Eyes / Glossy Pink Lips
+Blue Eyes / Glossy Blue Lips
+Light Blue Eyes / Pink Lips
+Black Eyes / Satin Black Lips
+Black Eyes / Glossy Orange Lips
+Black Eyes
+Black Eyeliner / Satin Pink Lips
+Black Cat Eyes
+Violet Eyes / Red Lips
+Turquoise Eyes / Satin Red Lips
+Turquoise Eyes / Rose Lips
+Turquoise Eyes / Coral Lips
+Silver &amp; Black / Satin Bronze Lips
+Silver &amp; Pink / Pink Lips
+Silver &amp; Green / Satin Coral Lips
+Silver &amp; Brown / Satin Red Lips
+Silver &amp; Brown / Satin Beige Lips
+Silver &amp; Blue / Satin Red Lips
+Silver &amp; Blue / Satin Blue Lips
+Silver &amp; Blue / Rose Lips
+Red Eyes
+Purple Eyes / Satin Violet Lips
+Plum Eyes / Satin Red Lips
+Pink Eyes / Glossy Coral Lips
+Mauve Eyes / Glossy Coral Lips
+Mauve Eyes / Coral Lips
+Magenta Eyes / Red Lips
+Green Eyes / Satin Pink Lips
+Green Eyes / Satin Coral Lips
+Green Eyes / Red Lips
+Green Eyes / Glossy Pink Lips
+Green Eyes / Bronze Lips
+Gray Eyes / Red Lips
+Gray Eyes / Coral Lips
+Brown &amp; Gray / Coral Lips
+Black Eyes / Satin Red Lips
+Black Eyes / Satin Black Lips
+Gold Eyes / Glossy Pink Lips
+Brown Eyes / Satin Red Lips
+Brown Eyes / Rose Lips
+Brown Eyes / Pink Lips
+Brown Eyes / Coral Lips
+Brown Eyes
+Bronze Eyes / Glossy Pink Lips
+Blue Eyes / Satin Pink Lips
+Blue Eyes / Rose Lips
+Blue Eyes / Red Lips
+Blue Eyes / Pink Lips
+Black Eyes / Pink Lips
+Black Eyeliner / Coral Lips
+Beige Eyes / Red Lips
+Beige Eyes / Dark Red Lips
+Apply Makeup
+Upgrade Complete
+Search for Shard of Time
+Perform Maintenance
+This object is already in tip-top shape!
+Encourage Repairing
+Expert Repair
+Repair
+Repairing while Focused decreases time needed to repair.
+(From Disliking Handiness)
+(From Liking Handiness)
+Shard of Time Found
+{0.SimFirstName} found a Shard of Time!\n\nIt has been added to {0.SimPronounPossessiveDependent} inventory!
+Nothing Found
+{0.SimFirstName}'s search came up empty this time. {0.SimPronounSubjective} can try again, or search another Object for a Shard of Time.
+Open
+Pour a Serving
+Admire New Possession
+Instant Upgrade (Core)
+Instant Upgrade (Core) will quickly give this object all of its normal upgrades at once!

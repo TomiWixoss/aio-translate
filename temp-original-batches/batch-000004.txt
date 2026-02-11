@@ -1,0 +1,100 @@
+When this pack has finished downloading, restart The Sims 4 to install it.
+Download to Play!
+Pack Download In Progress
+Your uninstalled Packs are downloading now. You will receive a notification once the download is complete.
+Your uninstalled Packs are downloading now. Press &lt;b&gt;Shift+F1&lt;/b&gt; to view downloads in progress using the In-Game Overlay. You will receive a notification once the download is complete.
+New Content has been installed, but will not be available for use until the game is restarted. Would you like to restart now? All unsaved data will be lost.
+Purchase Lot as Small Business Venue
+Purchase {0.String} as a Small Business Venue?
+The {0.String} family is acquiring a new venue for their business ventures!
+Rebirth into this household to join this family.
+Cannot move in household with no adults.
+Rent Unit
+Move In
+99+
+Not available in this build.
+Open the Gallery - F4
+Scenario Requirements
+Not available during the Tutorial.
+Save Household
+Rewards
+Unavailable while in a tutorial
+Unavailable during an event
+Notification Wall
+Create a New Household
+My Saves
+Open My Library - F4
+Unavailable while in a Tutorial
+Help Center
+Unavailable while in a Tutorial
+Open the Gallery
+Go Up to Next Floor - Page Up
+Go Down to Lower Floor - Page Down
+Household Collections
+Unavailable in this mode of Create A Sim
+______
+A pack’s values define its identity and the expected behavior of each member. Following the values will help you rise up the ranks. Ignore them long enough and you’ll be put on Probation. All values must be returned to good standing in order to end the probationary period. Continue to disregard the values and you risk discipline and may even be kicked out!
+Pack Values
+Pack Leadership in Transition
+{0.SimFirstName} is not currently in a Werewolf Pack.
+Pack Leader: {0.SimName}
+Werewolf Packs
+The Wildfangs
+Neutral
+Pack Rivalry Status:
+Feud!
+Alliance
+The Moonwood Collective
+&lt;font color='#0949AB'&gt;University Affiliation:&lt;/font&gt; {0.String} students only
+University Change
+If you pick a new university, you will need to choose a new degree and some of the progress you've made will be lost. Are you sure you want to change your university?
+Total Cost:
+Payment Options
+Student Organizations:
+Housing Options
+Optional Elective Class
+Degree Programs
+Degree Details
+Number of Core Classes
+Item
+Cost
+Choose Class Load
+Choose an University
+Choose a University to attend for this term. Each term lasts one week.
+University Enrollment Guide
+The term costs are for exactly one term (one week) of schooling. Sims will have to re-enroll after each term to complete their degrees.
+{0.String} Term Costs
+Select a University
+Tuition
+Housing Selection
+Degree Selection
+Are you sure you want to quit re-enrollment?
+Are you sure you want to quit re-enrollment? Doing so will forfeit any scholarships you might have.
+Scholarship
+Pregnant Sim cannot live in University Housing
+Your Sim is the only adult in this household and can't leave the younger Sims alone
+There's no room to move the Sim into this University Housing
+Your Sim does not meet the university housing gender requirement
+Distinguished Degrees
+Distinguished Degree
+Pay with Student Loan (Sim will owe cost + interest = {0.Money} total)\n*Loan amount will belong to the student.
+Pay with Household Funds
+&lt;b&gt;Paying with Household Funds&lt;/b&gt;\nTuition is taken from the Sim's household funds.\n\n&lt;b&gt;Paying with Student Loan&lt;/b&gt;\nTuition is paid with a loan that the Sim will owe. The money owed is the Total Cost + Interest.\n\nLoan information will appear in the Phone's Household panel under the Make Loans Payment option.
+Sims may choose to live in university housing. This places Sims on campus, living with other non-playable roommates also attending university. Housing costs will be paid per term, and Sims are encouraged to bring everything they may need for university in their personal inventory before moving, as they will not be able to alter university housing directly once moved in. Student essentials will still be available to purchase at kiosks on the university campus.
+Sims choosing to live off campus will move out of their current house and into another, allowing them to move in with other households or buy a new home. If the Sim intends to purchase a new place, it is prudent to give them enough funds to do so. Note that cancelling during Move Out will place your Sim in the My Households bin.
+Off Campus
+This is a distinguished degree at this university. Your Sim's skills are not sufficient to be accepted here. Feel free to join a non-distinguished degree or try another university. 
+No additional cost to tuition
+No Elective
+No available degrees to enroll in this university
+No Affiliation
+Move out of Current Lot
+Sims are only allowed to take {0.Number} total classes per term.
+Only {0.Number} {S0.class}{P0.classes} needed to graduate.
+You are the only adult in your household
+You cannot afford to enroll
+Your Sim already has a degree in this program
+&lt;font color='#0949AB'&gt;Gender Restriction:&lt;/font&gt; {0.String}
+Elective Class
+&lt;b&gt;Term Length:&lt;/b&gt; 1 Week\nSims will need to re-enroll after each term is over until their degree requirements are completed.\n\n&lt;b&gt;Distinguished Degrees:&lt;/b&gt; Distinguished degrees are special degrees which earn Sims added benefits to their career. In the next page, choose a degree to view the benefits from taking that degree.
+{0.String} Degree Class

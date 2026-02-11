@@ -1,0 +1,100 @@
+{0.Money}/day
+Cancel Gig
+Cancel Gig
+Cancel Gig
+Cancel Audition
+Burnout decreases work performance and blocks promotion. Consider stopping the grind and taking break.
+Starts at {0.TimeShort} {0.DayOfWeekLong}
+Audition: {0.String}
+At work until {0.TimeShort}
+At meeting until {0.TimeShort}
+At class until {0.TimeShort}
+At school until {0.TimeShort}
+Noble Duties
+Work From Home Assignment:
+&lt;font color='#A4181B'&gt;Poor&lt;/font&gt;
+&lt;font color='#007A3C'&gt;Excellent&lt;/font&gt;
+&lt;font color='#80B33E'&gt;Average&lt;/font&gt;
+&lt;font color='#DA7F1A'&gt;Ok&lt;/font&gt;
+Reputation: {0.String}
+&lt;font color='#3AAF69'&gt;Good&lt;/font&gt;
+&lt;font color='#A4181B'&gt;Poor&lt;/font&gt;
+&lt;font color='#007A3C'&gt;Excellent&lt;/font&gt;
+&lt;font color='#80B33E'&gt;Average&lt;/font&gt;
+&lt;font color='#DA7F1A'&gt;Ok&lt;/font&gt;
+Performance: {0.String}
+&lt;font color='#3AAF69'&gt;Good&lt;/font&gt;
+ASPIRATIONS
+{0.Money}/{1.Money}
+{0.Number}/{1.Number}
+This Sim does not have a phone
+Phone
+Notebook
+Center on Current Lot - Shift Enter
+Show Calendar
+Click to expand
+New {0.String} discovered!
+Unpin
+{0.String}
+Pin
+Dismiss
+{0.String} +{1.Number}
+seconds
+second
+mins
+min
+hours
+hour
+days
+day
+Boosting: {0.String}
+Scandals
+Are you sure you want to sell a favorited item?
+One or more of the objects selected is part of your Favorites List.
+Selling Items
+Are you sure you want to sell these items?
+No items in the selected filters.
+Misc
+Favorites
+{0.String}\n({1.String})
+Profile
+Chat
+Untouched
+&lt;span class=&quot;twostar&quot;&gt;Normal&lt;/span&gt;
+{0.TimespanShort} until spoiled. 
+&lt;span class=&quot;threestar&quot;&gt;Excellent!&lt;/span&gt;
+{0.String} Left
+75%
+25%
+{0.String} {1.String}
+&lt;span class=&quot;onestar&quot;&gt;Poor&lt;/span&gt;
+Mark Up: 
+Made with: {0.String}
+Made By: {0.SimName}
+50%
+100%
+0%
+Travel to Venue
+Shift Finances:
+This venue requires on-site management. Travel there to manage it.
+Cannot Sell Residential Rental at this time.
+Cannot Buy a Residential Rental at this time.
+Cannot Fill Vacancy for this unit at this time. 
+Customer Count:
+View Last Finances
+Opened ({0.Number} {S0.hour}{P0.hours})
+Net Profits: {0.Money}
+Last Shift Finances
+Closed
+Close
+Travel is unavailable from your current location.
+This venue needs on-site management to be opened. Travel there first to open it.
+Cannot open when off lot and there are no employees.
+Your Sims need to be on Lot to view this. Have your Sims travel there to access this!
+Business cannot be purchased at this time, travel to your home lot first.
+You can only view this when your business is open.
+{0.SimFirstName} can't afford this.
+Restaurant Settings
+Vet Clinic
+Retail
+{0.Number} Reviews

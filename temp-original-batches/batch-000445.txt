@@ -1,0 +1,100 @@
+Welcome back, {0.String}!
+Welcome, {0.String}!
+{0.String}
+{0.String}  &lt;font color='#FF0000'&gt;{1.String}&lt;/font&gt;
+Not Owned
+Restart to Use
+Download to Use
+Owned
+Installing
+Downloading
+Free
+View
+Unowned
+Free Trial
+Stuff You Might Like
+{0.Number}h {1.Number}m
+{0.Number}d {1.Number}h
+Ended
+Vote Now: {0.String}
+Vote Now
+New Challenge: \n{0.String}
+New Challenge
+Ending soon:\n{0.String}
+Ending soon
+Scenarios
+Start your game off with a story and earn rewards!
+My Home
+STORE
+HOME
+PACKS
+EVENTS
+Stuff Packs
+Sale
+Owned Stuff Packs
+Owned Kits
+Owned Game Packs
+Owned Expansion Packs
+Owned
+Kits
+Game Packs
+Free Stuff
+Expansion Packs
+Buy now for bonus content!
+All Scenarios
+Sims Delivery Express
+Cool, Thanks!
+Game Options
+Welcome to Sims Delivery Express our new Base Game content drop system!\n\nThis system will be able to deliver short bursts of content without requiring a Game Update so everything will be done in the background. You just need to restart after the downloads are completed and enjoy!\n\nYou can expect the following:&lt;ul type=&quot;circle&quot;&gt;&lt;li&gt;New Build mode or Create A Sim content&lt;/li&gt;&lt;li&gt;Tiny game fixes, those that don't need a Game Update to be delivered.&lt;/li&gt;&lt;/ul&gt;\nIn the future, we hope to maybe expand this list but for now we hope you enjoy every upcoming Sims Delivery! To find out more, check out the settings for this system in the Game Options Menu.
+{0.Number}h {1.Number}m
+{0.Number}d {1.Number}h
+This message has expired.
+Last Chance
+&lt;span class=&quot;large&quot;&gt;{0.Number}%&lt;/span&gt;\n&lt;span class=&quot;small&quot;&gt;Off&lt;/span&gt;
+Watch Now
+-{0.Number}%
+&lt;span class='title'&gt;Build A Bundle&lt;/span&gt;\n&lt;span class='default'&gt;Bundle your choice of an Expansion, Game, and Stuff Pack together to save money!&lt;/span&gt;
+Build Your Bundle
+Thanks for playing The Sims 4!
+Select at least one Sim to continue.
+Select a Household and Sims to Visit with
+Are you sure you wish to continue?
+Playing as the {0.String} household will cancel currently running Stay Overs for the following Sim(s):\n\n {1.String}
+Pets cannot travel without a child, teen, adult, or elder.
+Select Sims to Visit With
+Continue
+Select a Household to Play the Scenario
+Manage Households
+Your Household: {0.String} has been submitted to the Spark'd Challenge!
+Your Lot: {0.String} has been submitted to the Spark'd Challenge!
+Oops!
+One or more of your items saved via The Sims 4 Gallery on the web or mobile was not saved to My Library because they were created with a newer version. &lt;br&gt;&lt;br&gt;Restart your game to check for game updates.
+You can't perform this action again so soon. Please wait a little while and try again.
+Server error. We could not process this Gallery request. Please try again later.
+A Sim name contains a disallowed word. Please return to Create-a-Sim and edit to resolve the problem.
+A Sim pronoun contains a disallowed word. Please return to Create-a-Sim and edit to resolve the problem.
+The content contains a disallowed word. Please edit to resolve the problem.
+The comment contains a disallowed word.
+A breed name contains a disallowed word. Please return to Create-a-Sim and edit to resolve the problem.
+Venue Locked
+This Venue is locked. You cannot change the Venue Type on this Lot.
+Saving to Library
+Unknown
+No description given
+Please enter a name between {0.Number} and {1.Number} characters.
+Enter name here...
+The {0.String} family
+Enter description here...
+Unsubmit this household from the {0.String}
+Unsubmit this lot from the {0.String}
+Remove Room from Gallery
+Remove Tattoo from Gallery
+Remove Household from Gallery
+Remove Lot from Gallery
+Remove as Showcased Item
+Unfavorite Room
+Unfavorite Tattoo
+Unfavorite Household
+Unfavorite Lot
+Twitter service unavailable
+Share Room to Twitter

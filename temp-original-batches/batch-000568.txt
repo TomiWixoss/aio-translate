@@ -1,0 +1,100 @@
+A
+B-
+D
+D-
+F
+A-
+A+
+C-
+B+
+B
+D+
+C+
+&lt;font color='#A4FA49'&gt; +{0.Money} &lt;/font&gt;
+&lt;font color='#FD9C9C'&gt; -{0.Money} &lt;/font&gt;
+Water
+Power
+You have 24 hours to pay your rent before it's officially considered overdue. Pay it as soon as possible to avoid any repercussions!
+You are now overdue on your rent! Your unit rating has gone down. The Property Owner may come by to repossess your objects as payment!
+Enacting the Regulation Policy: Green Energy Rebate has reduced the household bill by {0.Number}%.
+{0.String} has paid their rent of §{1.Number}
+Your owe {0.Money} from previous lot, the payment is deducted.
+Don't have enough money to pay {0.Money}, your payment is waived
+The Power bill is based on the amount of Power consumed and produced while using electrical objects throughout the week. 
+The Water bill is based on the amount of Water consumed and produced while using plumbing objects throughout the week. 
+The amount currently owed from unpaid Bills.
+Unpaid Total
+This is how much you currently owe in total.
+Unpaid Rent
+The amount currently owed from unpaid Rent.
+Unpaid Taxes
+The amount currently owed from unpaid Taxes.
+Unpaid Bills
+Tax Breaks &amp; Penalties
+Additional taxes and credits potentially derived from various gameplay elements including: Lot Traits, Sim Traits, items on lot, and more.
+Additional taxes, credits, and penalties potentially derived from various gameplay elements including: Lot Traits, Sim Traits, items on lot, and more.\n\n{0.String}
+Rent
+Weekly Rent is determined on a per Apartment basis.
+Weekly Rent is determined on a per Apartment basis.\n\n{0.String}
+Lot Taxes
+Lot Taxes are determined based on the value of all objects on the lot and the lot's value.
+Lot Taxes are determined based on the value of all objects on the lot and the lot's value.\n\n{0.String}
+Total Estimate
+An Estimate of all costs coming due.
+Other Taxes
+Other Taxes are derived from unpaid services, fees, and additional bills.
+Other Taxes are derived from unpaid services, fees, and additional bills.\n\n{0.String}
+From Kingdom Tax Level
+From Nature Conversationalist
+Preparedness Discount
+From Frugal Living
+Bill Surcharge Items on Lot
+Green Initiatives Neighborhood Action Plan
+Modern Development Action Plan
+Water Conservation Neighborhood Action Plan
+Power Conservation Neighborhood Action Plan
+Bills are lower here to compensate for any...strangeness.
+Off-the-Grid Property Tax Discount
+In compliance with Neighborhood Action Plans
+Failure to comply with Neighborhood Action Plans
+Bill Discount Items on Lot
+Tiny Home
+Bills have just been delivered to your mailbox. Because your household is off of the utility grid, you only owe rent and other fees.\n\n•Lot Rent: {3.String}\n•Power: {4.String}\n•Water: {5.String}\n•Other Taxes: {6.String}\n•Total: {1.String}\n\nYou can pay using your phone, computer, or mailbox.
+Bills have just been delivered to your mailbox.\n\nYou owe\n•Lot Rent: {3.String}\n•Power: {4.String}\n•Water: {5.String}\n•Other Fees: {6.String}\n•Total: {1.String}\nYou have {0.Number} {S0.hour}{P0.hours} to pay before we shut your utilities off one by one. You can pay using your phone, computer, or the mailbox.\n{2.String}
+View Lessons
+Bills have just been delivered to your mailbox.\n\nYou owe\n\n•Lot Taxes: {3.String}\n•Power: {4.String}\n•Water: {5.String}\n•Other Taxes: {6.String}\n•Total: {1.String}\n\nYou have {0.Number} {S0.hour}{P0.hours} to pay before we shut your utilities off one by one. You can pay using your phone, computer, or the mailbox.\n{2.String}
+This lot is too cluttered, and there is no room for {0.SimFirstName}. What a shame! Perhaps once this home is more welcoming {M0.he}{F0.she} can properly move in.
+Due to neglect, {0.SimFirstName} is being whisked away to safety. Maybe you should consider a goldfish before jumping into parenthood again.
+Select a toddler trait. This trait will only be available while this Sim is a toddler.
+You cannot do this while {0.SimFirstName} is aging up.
+Elder
+Adult
+Newborn
+Adult Horse
+Elder Horse
+Select an Aspiration and Trait to replace trait:
+Toddlers! Days spent playing with toys, exploring the world, and learning to communicate with words instead of tears await! This is the perfect time to start skill building for the future.
+Sims that are pregnant cannot age up.
+&lt;i&gt;Where Wanderwood Wilds' path meets easel’s art, or the bridge’s end, a butterfly darts.\n\nDuring the day's light, find this kingly cobbler in its flight.&lt;/i&gt;
+Congratulations! Collecting every Butterfly and Moth in Gibbi Point is quite an achievement. The Society of Lepidopterology is in awe of your dedication and diligence! They also want to know how you created that magical butterfly... &lt;i&gt;AMAZING&lt;/i&gt;!
+Apothecary Ingredients can be found by Foraging, Gardening, completing Fables, and may be purchased at an Apothecary Table, or Apothecary Todd's Cures &amp; Elixirs Market Stall in the Sprucederry Grove neighborhood of Innisgreen.
+Innisgreen Ingredients
+Innisgreen Ingredient Collection has been completed. Now go explore the Cures &amp; Elixirs that can be crafted with them!
+These bike parts can be found by Cleaning the Canal in the two Nordhaven neighborhoods.
+Nordhaven Bike Parts
+The Nordhaven Bicycling Enthusiasts congratulate you on completing the Bike Part Collection and thank you for your efforts in keeping our canals clean. As a small token of appreciation, they've mailed a voucher that can be redeemed for a functional bicycle!
+Personally authenticated by Trashley Reelpearson. These are found in Trashley's shop and boxes.
+Trashley Certified Art
+Congratulations, distinguished art connoisseur! You've completed the Trashley Certified Art Collection.
+Cozy Wreaths can be earned by completing quests in the Cozy Celebrations limited time event!
+Missing Sim Milk Cartons
+Cozy Celebrations Event Collection Complete!
+The Missing Sim Milk Cartons can be earned by completing quests in the Blast from the Past limited time event!
+Cozy Wreaths (Cozy Celebrations Event)
+Missing Sim Milk Cartons Collection Complete!
+Freezer Boneys can be earned by completing quests in the Reaper's Rewards limited time event!
+Freezer Boneys
+Freezer Boney collection complete!
+A complete collection of frogs! How exquisite. A local patron of nature has sent you a reward for your full collection.
+Crystals can be dug up from rock piles.
+Frogs

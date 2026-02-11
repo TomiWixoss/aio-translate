@@ -1,0 +1,100 @@
+Friend
+Pets are friends through and through as long as they get some love in return.
+{0.SimFirstName} just became Friends with {1.SimFirstName}.
+Disliked
+Things got off on the wrong paw for this relationship. Maybe a treat will help it get in a positive direction.
+{0.SimFirstName} just became Disliked by {1.SimFirstName}.
+Despised
+Relationships with Pets are not always positive and this one may not be salvageable.
+{0.SimFirstName} just became Despised with {1.SimFirstName}.
+Companion
+Companions are Pets and Pets are Companions, the one that will be there at all times.
+{0.SimFirstName} just became Good Friends with {1.SimFirstName}.
+Acquaintance
+Pets often feel strongly about someone, but this pet doesn't seem to feel much of anything.
+{0.SimFirstName} just became Acquaintances with {1.SimFirstName}.
+Neighbor
+Multi-Unit Neighbor
+Roommate
+Romance Unlocked (Should not be seen, DNT)
+{1.SimFirstName} just became a Nemesis of  {0.SimFirstName}
+{1.SimFirstName} just became Good Friends with {0.SimFirstName}.
+Frenemies
+These two Sims are friends pretending to be enemies pretending to be friends.
+(From Making a Friend)
+(From Making a Friend)
+{1.SimFirstName} and {0.SimFirstName} now despise each other!
+Henchman
+These two evil Sims are best friends, and henchmen to each other.
+{0.SimFirstName} and {1.SimFirstName} can never be truly friends. It looks like being evil has its consequences.
+Bromantic Partner
+These two best bro friends with the best bro bond.
+{0.SimFirstName} and {1.SimFirstName} have taken their bromance to the next level!
+{0.SimFirstName} and {1.SimFirstName} have fallen out of touch and are no longer Best Friends!
+Relative-In-Law
+Distant Relative-In-Law
+{M1.Uncle}{F1.Aunt}
+{M1.Stepfather}{F1.Stepmother}
+Lobster Thermidor
+Make Animal Treats
+Make Zaatar Manakeesh
+This well-known Arab savory pastry can be enjoyed as a snack or appetizer. \nIt’s comprised of a flatbread topped with olive oil and za’atar, a mixture of the herbs, spices, and sesame seeds, and can sometimes include white cheese.\n\nVegetarian-safe.
+Serve Zaatar Manakeesh
+Zaatar Manakeesh
+Cook Vegetable Dumplings
+Vegetable Dumplings
+Serve Tomato Soup
+Grill a Pot of Tomato Soup
+Simple, creamy tomato soup. From a can or fresh tomatoes - either way it's the perfect companion to grilled cheese.\n\nVegetarian-Safe, Lactose Free
+Tomato Soup
+Also known as Sliced Rice Cake Soup, it is a traditional Korean dish eaten during the celebration of the Korean New Year. The dish consists of the broth/soup (guk) with thinly sliced rice cakes (tteok). It is tradition to eat tteokguk on New Year's Day because it is believed to grant the people good luck for the year and gain a year of age.\n\nThe origin of eating tteokguk on New Year's Day is unknown. However, tteokguk is mentioned in the 19th-century book of customs Dongguksesigi (동국세시기, 東國歲時記) with the custom of having a bowl of tteokguk in the morning of New Year's Day to get a year older, and the custom of saying &quot;How many bowls of tteokguk have you eaten?&quot; to ask a person's age. How many bowls have you eaten?\n\nLactose Free
+Make Tteokguk
+Tteokguk
+Cook Steamed Fish
+There is a Chinese saying that explains how important fish dishes are to Chinese cuisine: 无鱼不成席 (Wú Yú Bù Chéng Xí) - meaning that you can’t call it a feast if there is no fish present. Fish prepared in this fashion are the centerpiece of a multi-course meal, either for special occasions or festivals.\n\nFor this recipe, the fish is steamed with its tail, head, and fins intact to best preserve the natural taste of the fish. Some people have variations of seasonings to add their special touch, but usually it is seasoned with a simple soy sauce based dressing with scallions and ginger. If you want to add a bit of heat, some dried chili can be added.\n\nLactose Free
+Serve Steamed Fish
+Steamed Fish
+Cook Angry Flaming Spaghetti
+Serve Angry Flaming Spaghetti
+Angry Flaming Spaghetti
+Chickpea Spaghetti
+Serve Spaghetti
+Make Jollof Rice and Drumsticks
+Jollof Rice is a traditional dish from West Africa, especially familiar in Senegal, Nigeria, and Ghana. It's often cooked altogether in one pot with long-grain rice, vegetables, spices, and even meat, and is packed with flavor! Don't hesitate to make this recipe with drumsticks and plantains for parties and celebrations, but it's perfect for family dinners, too.
+Serve Jollof Rice and Drumsticks
+Jollof Rice and Drumsticks
+Cook Scrambled Eggs with Bacon
+Scrambled Eggs with Bacon
+Serve Scrambled Eggs with Bacon
+Cook Roast Chicken
+Bake Rice Cake
+Traditionally called 年糕 (Nian Gao), it is also simply known as &quot;Rice Cake.&quot; While it can be eaten all year round, traditionally it is most popular during the Chinese New Year. It is considered good luck to eat during this time of the year because Nian Gao (年糕) is a homonym for &quot;higher year&quot; or &quot;grow every year&quot; (年高), which means &quot;a more prosperous year&quot;. Every family enjoys this treat in the hopes of having a better year ahead. It is also a great gift when visiting family during the holiday.\n\nVegetarian-Safe, Lactose Free
+Rice Cake
+Make Foraged Food
+Five-second rule need not apply.\n\nVegetarian-Safe, Lactose Free
+Serve Foraged Feast
+Foraged Feast
+Cook High Energy Protein Plate
+High Energy Protein Plate
+Serve High Energy Protein Plate
+(From Cooking With Prepped Ingredients)
+Requires a fresh fish. A versatile dish prepared with sliced, raw fish, green onion, soy sauce, and various garnishes.\n\nLactose Free
+Slice Up Fresh Poke Salad
+Poke Bowl
+Make Pão de Queijo
+These are not merely cheese buns, these are THE cheese buns to go for. Pão de queijo or literally translated to Cheese Bread, is a popular snack and/or breakfast food in Brazil.\n\nIts origins date to when Minas Gerais cooks replaced the non-existent wheat with starch derived from cassava shown to them by tupiniquins indigenous groups. Added this was grated hard cheese similar to Parmesan later at the end of the 19th century.\n\nCuriously, this recipe is also widely eaten in northern Argentina and is inexpensive, often sold from street-side stands by vendors carrying a heat-preserving container. In Brazil, it is also very commonly found in groceries, supermarkets and bakeries, industrialized or freshly made. Enjoy!\n\nVegetarian-Safe
+Serve Pão de Queijo
+Pão de Queijo
+Cook Pan Fried Tilapia
+Serve Pan Fried Tilapia
+Pan Fried Tilapia
+Cook Pan De Muerto
+Pan De Muerto
+Cook Pancakes
+Serve Pancakes
+&lt;font color='#199C2C'&gt;Designed by: icemunmun.&lt;/font&gt;\nA flavorful dish made with paneer, pureed spinach, and spices. 
+Cook Palak Paneer
+Palak Paneer
+Cook Omelet
+Serve Omelet
+Cook Mud Carp

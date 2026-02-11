@@ -1,0 +1,100 @@
+Date Created
+A - Z
+Scenario Details
+This household does not meet the requirements for the scenario
+This household already has an active scenario
+Start Scenario
+No household selected
+Unplayed
+Played
+Unplayed Households
+Sort By:
+{0.Money}
+My Households
+Played Households
+Other Households
+Custom
+Maximum Sim Count:
+Currently Not in World
+Show:
+Player created, played or unplayed households.
+Sims within this tab may lose progress info such as skill levels, relationships, etc.
+Neighborhood Stories
+Households with Default configurations
+Households with Custom configurations
+Households
+No Households
+Neighborhoods
+Not in World
+{0.String} residents
+All Households
+To continue, move households from My Households to Other Households.
+Getaway(s) will end for: {0.String}
+Cancel Travel
+Cancel Placing Household
+Cancel Placing Lot
+Cancel Moving
+Traveling with: {0.String} and friends
+Traveling with: {0.String}
+Traveling With
+Rebirth {0.SimFirstName} {0.SimLastName} Into...
+Buying {1.String} with {0.String}
+Playing As
+Moving With: {0.String}
+Placing: {0.String}
+Moving With: {0.String}
+{0.String}'s Eco Footprint
+Changing Event Venue
+Funds: {0.Money}
+Funds:
+Price: {0.Money}
+at Home
+at {0.String}
+at {0.String} in {1.String}
+Owner:
+Unit Detail Panel
+Info Panel
+Lot Detail Panel
+Household Panel
+Weekly Rent: {0.Money}
+Lot Type: {0.String}
+Price: {0.Money}
+Price Per Day: {0.Money}
+Unit Traits and Challenges:
+Lot Traits and Challenges:
+No traits are assigned to this lot.
+Deposit: {0.Money}
+Warning
+New Sims added to households living in University Housing will be removed, are you sure you want to continue?
+Transfer Sims between households
+Move Household into a lot
+Mark as Unplayed
+Edit, add, or remove Sims from the household in Create a Sim
+Delete Household
+You cannot move this household since it is empty.
+You cannot delete your last household.
+Unit Rules
+&lt;b&gt;Unit Rules&lt;/b&gt; are set by the Property Owner, and Tenant Households may face fines or eviction for any rule violations.
+Unit Rating:
+Unit Information
+&lt;b&gt;Unit Rating&lt;/b&gt; is determined by the Size, Amenities, Environment, and Maintenance of the unit.\n\n&lt;b&gt;Lease Length&lt;/b&gt; is determined by the Property Owner, and indicates how often rent is paid by tenants
+Rent: {0.Money} per day
+Optional Furnishings: {0.Money}
+No Unit Rules Set
+Lease Length: {0.Timespan}
+Enter Description Here
+Please enter a name that is at least {0.Number} in length
+Are you sure you want to delete the {0.String} household? This action cannot be undone.
+Deceased:\n{0.String}
+Information
+Close
+Unfortunately we cannot share to your Facebook profile without your consent. Please click on the Facebook icon to provide consent
+&lt;span class='exchPackDetail'&gt;&lt;a href='event:clickEvent'&gt;See Details &gt;&lt;/a&gt;&lt;/span&gt;
+Recommended For You!
+Owned
+This Gallery item must be saved to view pack specific content.
+This Gallery item does not use any pack specific content.
+Join Trial
+Uses Items from These Packs
+Free
+Buy Now

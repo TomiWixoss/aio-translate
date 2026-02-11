@@ -1,0 +1,100 @@
+Spliced Garden Shoot
+A cutting from a garden plant used for grafting.
+Wolfsbane Seeds
+A basic packet of wolfsbane seeds.
+Garden Pot
+A ceramic soil container that supports the growth of a single garden plant outside and indoors.
+Unlocked by completing the Perfect Growfruit Challenge
+Unlocked by completing the Perfect Growfruit Challenge
+Perfect Growfruit Challenge Garden Pot
+A celebratory soil container acquired by completing the Perfect Growfruit Challenge. Plants will flourish in this shiny growfruit house.
+Unlocked by completing the Growfruit Challenge
+Unlocked by completing the Growfruit Challenge
+Growfruit Challenge Garden Pot
+A celebratory soil container acquired by completing the Growfruit Challenge. Plants will thrive in this green growfruit paradise.
+Potato Plant
+Potatoes grow as networked clusters of tubers in soft, loamy dirt.
+Onion Plant
+An aromatic tuber plant that grows onions.
+Carrot Plant
+A common and leafy root-plant that grows carrot vegetables.
+Apple Tree (VFX Test)
+gardenPlantTreeGEN_X_apple_vfxTest
+Pomegranate Tree
+A tree that grows rare pomegranate-fruit.
+Plantain Tree
+An exotic plantain tree.
+Pear Tree
+A tree that bears pear fruit.
+Lemon Tree
+A hardy tree that produces lemons.
+Growfruit Tree
+A tree that produces growfruit, most often found blooming during the Growfruit Challenge.
+Forbidden Fruit Tree
+This tree produces a mysterious and FORBIDDEN fruit.\n\nWhich, you have obviously ignored... since you planted it. So, not so much forbidden, as sternly warned. Should be fine though - the laws of nature ignored. Sure, we'll go with that.
+Cherry Tree
+A tree bearing cherry fruit.
+Apple Tree
+A common tree that produces apples.
+Fruit Tree
+A growing, fruit-bearing tree.
+gardenPlantSproutGENTuber_01 placeholder name
+gardenPlantSproutGENTuber_01 placeholder description
+gardenPlantSproutGENTrash_01PlaceholderName
+gardenPlantSproutGENTrash_01Placeholder
+gardenPlantSproutGENRoundLeaf_01 placeholder name
+gardenPlantSproutGENRoundLeaf_01 placeholder description
+gardenPlantSproutGENPalm_01_PlaceholderName
+gardenPlantSproutGENPalm_01_Placeholder
+A Sprout of Mushrooms
+With ribbed underbellies and fleshy tops, mushrooms feast on decay.
+gardenPlantSproutGENLeafy_01 placeholder name
+gardenPlantSproutGENLeafy_01 placeholder description
+Cowplant Sprout
+A blue, tentaculoid plant that quivers on touch.
+gardenPlantSproutGEN_02PlaceholderName
+gardenPlantSproutGEN_02Placeholder
+gardenPlantSproutGEN_01
+gardenPlantSprout_GP04GENwolfsbane placeholder name
+gardenPlantSprout_GP04GENwolfsbane placeholder description
+Death Flower
+ A spooky, yet elegant blossom. Roses just don't cut it for the Grim Reaper. Try this flower to calm his qualms and get out of a deadly situation.  
+Tulip Flower
+The flowers for each leafy tulip plant are often brightly colored, making them attractive for decorating.
+Snapdragon Flower
+Snapdragon flowers form in characteristic steeples, all bright and colorful.
+Orchid Plant
+Orchids grow on long stems--like a snake gracefully poised to strike.
+Lily Flower
+Spiny and tall, lilies grow in clusters of five or more.
+Chrysanthemum Flower
+With more petals than leaves, these bushes nearly fester with buds.
+Bird of Paradise Plant
+Butter Chicken
+Pollo a la Brasa
+Grilled Plantain
+Elote
+Choripán
+Chicken Chimichurri Skewer
+Chimi
+Asado
+Mud Carp
+Vegetable Dumplings
+Pan De Muerto
+A sweet roll traditionally baked in the weeks leading up to the Day of the Dead.
+Peanut Butter and Jelly Sandwich
+Ham and Cheese Sandwich
+Chicken Nuggets
+Ambrosia
+The fabled dish of ambrosia has been known to restore life to dead, and to turn back the clock for the living.
+{S.Salmon}{P.Salmon}
+Taco Casserole
+You don’t have to go back to grade school to get this cafeteria treat. Formerly known as Tia’s Taco Casserole Surprise, this fiery collection of leftovers will have everyone’s mouth celebrating.
+{S.Tilapia}{P.Tilapia}
+{S.Flaming Spaghetti}{P.Flaming Spaghetti}
+{S.Spaghetti}{P.Spaghetti}
+{S.Herb-Crusted Salmon}{P.Herb-Crusted Salmon}
+{S.Protein Plate}{P.Protein Plates}
+{S.Apple Pie}{P.Apple Pies}
+Pepperoni Pizza
+{S.Gummy Bear Pancakes}{P.Gummy Bear Pancakes}

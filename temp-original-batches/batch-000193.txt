@@ -1,0 +1,100 @@
+Alice
+Spencer-Kim
+Travis
+Scott
+Gavin
+Richards
+Zoe
+Patel
+Eliza
+Bob
+Pancakes
+Vivian
+Eric
+Lewis
+Liberty
+Lee
+Nancy
+Malcolm
+Geoffrey
+Landgraab
+Dennis
+Kim
+Mitchell
+Kalani
+J
+Huntington III
+Summer
+Holiday
+Mortimer
+Cassandra
+Bella
+Alexander
+Goth
+Nina
+Katrina
+Don
+Lothario
+Dina
+Caliente
+Unknown
+Grim Reaper
+Emit Relevart
+Senior Pollination Technician #3
+Joy Oladokun
+Dave Bayley
+Bebe Rexha
+Millie Bobby Brown
+Jasmine Holiday
+Lewis
+Sancho
+Nova
+Curious
+Sofia
+Pablo
+Martinez
+Leonardo
+Jennifer
+Farrah
+Nouvel
+Landry
+Lila
+Eddie
+Ava
+Nyssa
+Mortimer
+Marina
+Corsair
+Cassandra
+Robin
+Banks
+Bella
+Goth
+Alex
+Moyer
+Some wounds take a long, long time to heal. Being around {1.SimFirstName} brings up painful memories for {0.SimFirstName}.
+Guilty
+{0.SimFirstName} feels bad about something that happened with {1.SimFirstName} but doesn't know how to make it right.
+Ashamed of a Terrible Party
+{0.SimFirstName} cannot believe how badly that party went. {0.SimPronounSubjective|xxUpper} worries that {1.SimFirstName} must think {0.SimFirstName} is no fun and that {1.SimFirstName} probably never wants to hang out again...
+Awkward after a Bad Date
+That date was excruciatingly bad. Not {0.SimFirstName}'s best moment. Cue cringeworthy memories whenever {0.SimFirstName} sees {1.SimFirstName}...
+Infuriated about Cancelled Wedding
+How dare {1.SimFirstName} humiliate {0.SimFirstName} in front of everyone at their wedding! {0.SimFirstName} may have a hard time keeping calm around {1.SimFirstName} for a while.
+Just the sight of {1.SimFirstName} gets on {0.SimFirstName}'s nerves these days. Like, how dare {1.SimFirstName} show {F1.her}{M1.his} face!
+Furious about Cheating
+{0.SimFirstName} cannot BELIEVE {1.SimFirstName} would do this to their relationship! Just the sight of {1.SimFirstName} will remind {0.SimFirstName} that {1.SimFirstName} betrayed {F0.her}{M0.his} trust and cheated on {0.SimPronounObjective}.
+{0.SimFirstName} can't explain it, but {M0.he}{F0.she} is really enamored with {1.SimFirstName} and the sight of {M1.him}{F1.her} makes {0.SimFirstName}'s heart beat faster!
+Second Chance
+{0.SimFirstName} and {1.SimFirstName} were able to put their past behind them and start anew
+Deeply in Love
+Some romantic moments leave a powerful impression, and {0.SimFirstName} will never forget how {F0.she}{M0.he} fell even deeper in love with {1.SimFirstName}.
+Growing Closer from Quality Time
+{0.SimFirstName} appreciates that {1.SimFirstName} makes time for {F0.her}{M0.him}. Time spent together seems to bring them closer together.
+Closer after a Fun Party
+Celebrations can bring Sims together, literally and emotionally. The party's over, but {0.SimFirstName} still feels its afterglow when {F0.she}{M0.he} spends time around {1.SimFirstName}.
+Close after a Close Call
+{1.SimFirstName} almost dying has really endeared {M1.him}{F1.her} to {0.SimFirstName}. That was a close call!
+Cooking Together
+Sims that cook together, stay together. Without food, we would not exist. It is food that created us. Food that connects us. Food that binds us.
+Closer from Happy Memories

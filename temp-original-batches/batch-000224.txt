@@ -1,0 +1,100 @@
+Mystical Transformation
+Nothing else can be planted here, the tree needs space.
+There is no more space for new plants.
+Plant
+{0.SimFirstName} has nothing in {M0.his}{F0.her} inventory to plant! Open some seed packets or find some produce or flowers to plant.
+Select what to plant.
+Evolve All
+{0.SimFirstName} has Evolved all nearby plants that could be Evolved to a higher quality!
+{0.SimFirstName}'s hard work has paid off and {M0.his}{F0.her} {1.ObjectName} has increased to Perfect quality!
+{0.SimFirstName}'s hard work has paid off and {M0.his}{F0.her} {1.ObjectName} has increased to Magnificent quality!
+{0.SimFirstName}'s hard work has paid off and {M0.his}{F0.her} Spliced {1.ObjectName} has increased to Magnificent quality!
+{0.SimFirstName}'s hard work has paid off and {M0.his}{F0.her} Spliced {1.ObjectName} has increased to Perfect quality!
+{0.SimFirstName}'s hard work has paid off and {M0.his}{F0.her} Spliced {1.ObjectName} has increased to Excellent quality!
+{0.SimFirstName}'s hard work has paid off and {M0.his}{F0.her} {1.ObjectName} has increased to Excellent quality!
+Evolve
+{0.SimFirstName}'s hard work has paid off and {M0.his}{F0.her} {1.ObjectName} has increased to Nice quality!
+After taking such good care of this plant, a little more work and it is sure to increase in quality!
+Convert to Decorative
+This plant must be of Excellent quality or better  to convert it into a Bonsai Tree.
+Open Seed Packet
+Removing Wild Plant
+Remove Wild Plants
+Yard overgrown? Rid it of all wild growth!
+Super Sell
+Requires Gardening Skill Level 8
+Harvest and sells plants in a wide area:\n{5.String}
+Sell All
+Sell {S2.{S3.ObjectName}}{P2.{P3.ObjectName}} in Area
+{S.Harvestable}{P.Harvestables}
+Sell {S2.{S3.ObjectName}}{P2.{P3.ObjectName}}
+Sell Crystals
+Harvest {S2.{S3.ObjectName}}{P2.{P3.ObjectName}} in Area
+Harvests and sells:\n{5.String}
+{1.Number} {S1.{S0.ObjectName}}{P1.{P0.ObjectName}}
+Harvest
+Harvesting Plant
+Harvest All
+Looks like that's all to harvest right now!
+Harvest all nearby plants.
+This plant is not in season, so it will not grow or produce a harvest. Check its tooltip for its growing season. Indoor plants grow year-round.
+Harvest {S2.{S3.ObjectName}}{P2.{P3.ObjectName}}
+Harvest
+Harvest this plant.
+Harvests:\n{4.String}
+Harvest Crystals
+To use a gardening shoot: select the plant you wish to Graft, and then pick the shoot to apply.
+Graft
+Attaching shoots from other plants will allow different things to blossom.
+Requires Gardening Skill Level 5
+Graft
+A higher Gardening skill is required for this interaction.
+Decay Plant
+Fertilize All
+Fertilize
+This plant has recently been Fertilized.
+Requires Gardening Skill Level 3
+{0.SimFirstName} has no fertilizer in {M0.his}{F0.her} inventory! Find some produce or fish to fertilize with.&#xD;&#xA;
+Adding nutrients to a plant will boost its ability to Evolve; the better the compost, the greater the boost.
+Fertilizing Plant
+(From Eating a Spicy Mushroom)
+Eat {1.ObjectName}
+Purchase Garden Seeds
+Open Sim Inventory
+(From Liking Gardening)
+(From Disliking Gardening)
+Cards
+Challenge
+Challenge Sim
+Stuck in Future Cube factory. Can't get out. Please send help.
+Not today, champ.
+That's not important. What's important is that you're a champion! Stay strong, champion.
+Not just yes, but YES!
+It is decidedly so.
+If I told you 'yes' would you go away then?
+Bleak.  It all just looks so bleak from in here.
+That was fun! Do it again!
+I guess.
+Maybe yes... maybe no. Definitely, kind of, possibly so.
+Nope. Nope. Nope.
+Don't be daft. Of course not.
+Things are going to be just fine. I promise.
+Wow! You have so much to look forward to!
+Things look so very, very hopeless.  Oh well!
+Stop shaking me!
+Hahahahahaha! No.
+The cube abides.
+Ask about Scientific Mysteries
+The mysteries of the universe shall remain hidden...
+The mysteries of the universe shall be revealed with study!
+Ask about Love Life
+Your romantic future looks not-so-bright!
+Future uncertain, check back later.
+Your future love looks so bright it's blinding! Seriously... ouch.
+Ask For Creative Ideas
+Your muse is nowhere to be found...
+Inspiration will come to you soon!
+Clean Up
+Clean Out Spoiled Food
+Rummage
+Upgrade complete!\n\n{0.SimFirstName} has finished installing the digital frame upgrade.

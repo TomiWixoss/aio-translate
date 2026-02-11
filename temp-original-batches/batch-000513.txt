@@ -1,0 +1,100 @@
+Cannonball
+Jump Down
+Dock Here
+Climb Up
+Unfortunately Mermaids haven't quite figured out how ladders work. It's a tail thing.
+Climb Down
+This interaction is more effective while the Sim is in this mood
+Practice Diving
+Front Twister Flip
+Swan Dive
+Reverse Pike Dive
+Lounger Jump
+Front Pike Flip
+Cannonball
+Belly Flop
+Jump
+Backflip
+(From Disliking Diving)
+(From Liking Diving)
+Ditty of Drowsiness
+Continue Cleaning Speed Increase
+Continue Making Run Quieter
+Continue Making Unbreakable
+Continue Making Extra Reliable
+Increase Cleaning Speed
+Replace the factory sprayers with the Dual Blast Spray Arms to speed up the wash cycle.
+Make Run Quieter
+Install the Silent Running Water Pump and never be disturbed by dishwasher noise again.
+Make Unbreakable
+Industry-Rated as Indestructible, the Unbreakable Heater Coil delivers on its namesake.
+Make Extra Reliable
+While not the most reliable, the Extra Reliable Control Panel reduces how often the dishwasher breaks.
+Upgrade complete!\n\n{0.SimFirstName} has finished installing the dishwasher upgrade.
+Dishwasher is already running
+No dishes to clean.
+Can't load broken dishwasher
+Encourage Doing Dishes
+Load Dishwasher
+Well...that could have gone worse... {0.SimFirstName} has gained {1.Number} Followers. {M0.He}{F0.She} now has {2.Number} Followers in total.
+After creating the top viewed video it's time to beat your own record. {0.SimFirstName} has gained {1.Number} Followers. {M0.He}{F0.She} now has {2.Number} Followers in total.
+That speed run video was just to prove to everyone that you have the skills. Nobody can beat you. {0.SimFirstName} has gained {1.Number} Followers. {M0.He}{F0.She} now has {2.Number} Followers in total.
+You're the real deal. Everyone trusts your opinions when it comes to video reviews. They're all waiting for the next one. {0.SimFirstName} has gained {1.Number} Followers. {M0.He}{F0.She} now has {2.Number} Followers in total.
+Really now, who could resist animal videos? Number one in an instant. {0.SimFirstName} has gained {1.Number} Followers. {M0.He}{F0.She} now has {2.Number} Followers in total.
+That was a bomb. Now back to the drawing board. {0.SimFirstName} has gained {1.Number} Followers. {M0.He}{F0.She} now has {2.Number} Followers in total.
+Your video was panned by everyone...you're not sure you'll be ready to ever upload another video. {0.SimFirstName} has gained {1.Number} Followers. {M0.He}{F0.She} now has {2.Number} Followers in total.
+Wow! Your video is now the new standard for all internet videos. {0.SimFirstName} has gained {1.Number} Followers. {M0.He}{F0.She} now has {2.Number} Followers in total.
+That video was awful, nobody wanted to watch it. {0.SimFirstName} has gained {1.Number} Followers. {M0.He}{F0.She} now has {2.Number} Followers in total.
+Such a boring video... {0.SimFirstName} has gained {1.Number} Followers. {M0.He}{F0.She} now has {2.Number} Followers in total.
+Share Image
+What a boring image...
+Beautiful image! It's perfect. {0.SimFirstName} has gained {1.Number} Followers. {M0.He}{F0.She} now has {2.Number} Followers in total.
+You thought that was a good image to share? You deserve to be laughed at...
+A successful image sent off into the void of the Web. Who could ask for more? {0.SimFirstName} has gained {1.Number} Followers. {M0.He}{F0.She} now has {2.Number} Followers in total.
+BEST IMAGE EVER! They can't wait for your next one. {0.SimFirstName} has gained {1.Number} Followers. {0.SimFirstName} now has {2.Number} Followers in total.
+What a failure, the viewers practically laughed it off the web.
+Your image was downvoted so quickly it wasn't funny.
+That was a waste of time spent on an image that everyone hates.
+Perfect image for today's mood. Your followers felt the same. {0.SimFirstName} has gained {1.Number} Followers. {M0.He}{F0.She} now has {2.Number} Followers in total.
+What a cute image! Everyone loves it. {0.SimFirstName} has gained {1.Number} Followers. {M0.He}{F0.She} now has {2.Number} Followers in total.
+Update Social Media Status
+Delete Social Media Profile
+You're off the Grid! {0.SimFirstName} has deleted their Social Media Profile. All Followers have been lost.
+Create Social Media Profile
+{0.SimFirstName} has created a new Social Media Profile to share nuanced information over the internet with all their new online friends.
+{0.SimFirstName} has created a new Social Media Profile. Nobody can go anywhere in the Social Media sphere if they don't have an online presence. Use your Social Media Profile to gain followers, grow your network, and become an online powerhouse.
+Check Emit's Profile
+Check Total Followers
+{0.SimFirstName} has {1.Number} {S1.follower}{P1.followers}. Post more! Post now!
+{0.SimFirstName} has {1.Number} {S1.follower}{P1.followers}. Time to find someone bigger to spread {0.SimFirstName}'s name.
+{0.SimFirstName} has {1.Number} {S1.follower}{P1.followers}. It's a start, but {0.SimFirstName} should find a way to expand their network.
+{0.SimFirstName} has {1.Number} {S1.follower}{P1.followers}. Wow! Now it's time to go get more!
+{0.SimFirstName} has {1.Number} {S1.follower}{P1.followers}. {0.SimFirstName} needs more followers!
+Send Chain Letter
+So you got a chain letter in your inbox and decided to pass it along to me? Four words... Die. In. A. Fire.
+You do realize by sending me that chain letter you've probably exposed my email to countless spam email lists, right? I get buried in emails already, this was the absolute last thing I need in my life!
+Why would you send me this chain letter!? Now I'm going to have bad luck for the next six years if I don't pass it along to another fifty people within 24 hours!
+This chain letter you sent me is clearly an elaborate pyramid scheme. Could you please not involve me in such nonsense in the future?
+I never realized you were superstitious enough to actually fall for a chain letter. Kindly keep that junk to yourself!
+Hey, I got your ridiculous chain letter... and yeah, I immediately deleted it. I swear if anything bad happens to me in the next few days you'll be in BIG TROUBLE!
+Search for Bank Blueprints
+Aha! The bank blueprints have been procured.
+Drat! The blueprints are nowhere to be found. Perhaps trying again later would yield better results.
+Scrap Routine
+Scrap Routine
+Are you sure you want to scrap your book?
+Scrap Book
+{2.String}
+Scrap the Book?
+Resume Writing
+{2.String}
+Continue Composing Routine
+Research Binge
+Exhaustive research allows you to raise all of your skills at the same time!
+Research Art Reference
+Still feeling the effects of the last research attempt.
+Research Pick-up Lines
+Sometimes just preparing for love can put you in the emotion for it
+Change Name
+Register with Ministry of Labor
+Refine Comedy Routine

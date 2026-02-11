@@ -1,0 +1,100 @@
+Achieve level 2 of Guitar or Violin skill.
+Have your Sim's mood change to Confident.
+Get Confident
+Click on Dirty Dishes and select the Clean Up interaction.
+\n&lt;b&gt;&lt;font color='#2182E6'&gt;Harvest a Plant. Use a Planter or a Computer to Purchase Seeds. Achieve a Level 4 Mental Skill. Place the seeds on the ground or in a Planter and choose to Plant them. Then Achieve a Level 6 Mental Skill to Harvest it.&lt;/font&gt;&lt;/b&gt;\n\nI don't just want a lot of plants, I also want a really special plant that turns out really nice! I bet I can do it. Plants like water and sun, and they don't like bugs! So that's where I've gotta start!
+&quot;I want to harvest a plant that I grew all by myself!&quot;
+\n&lt;b&gt;&lt;font color='#2182E6'&gt;Have 5 Living Plants on the Home Lot at once. Use a Planter or a Computer to Purchase Seeds. Achieve a Level 4 Mental Skill. Place the seeds on the ground or in a Planter and choose to Plant {1.Number} Plants. Care for the plants as they grow to keep them alive.&lt;/font&gt;&lt;/b&gt;\n\nI'm gonna get my green thumb! All I gotta do is have a bunch of living plants all at once. If they die it doesn't count! It'll take a lot of care, but I know I can do it!
+&quot;I'm going to have at least 5 plants at once...but they all have to be alive or it doesn't count.&quot;
+\n&lt;b&gt;&lt;font color='#2182E6'&gt;Catch {1.Number} Rare Fish. Tip: The higher {0.SimFirstName}'s Fishing Skill is the better chance {0.SimPronounSubjective} {S0.has}{P0.have} of catching Rare Fish.&lt;/font&gt;&lt;/b&gt;\n\nI've always heard that there are a lot of fish in the sea! Well, I'm going to catch some. But not just any! I'm going to catch some really rare fish! At least {1.Number} rare fish!
+&quot;I want to catch the rarest, most hardest to catch fish that ever existed!&quot;
+\n&lt;b&gt;&lt;font color='#2182E6'&gt;When it is Hot or Cold go outside in unsuitable clothing or stand near objects that will make {0.SimFirstName} hotter or colder. Have {0.SimPronounObjective} become dangerously hot or cold. (But don't die!)&lt;/font&gt;&lt;/b&gt;\n\nDid you know some Sims freeze into icicles or burst into flames!? Well, that's not going to be me! I'm going to risk it, and get either super hot or super cold, and I'm going to withstand it! They'll call me Danger Kid!
+&quot;If I can withstand extreme temperatures I'll prove how risky and wild I really am!&quot;
+\n&lt;b&gt;&lt;font color='#2182E6'&gt;Eat Spoiled Food to become Nauseous {1.Number} times. Then tough it out!&lt;/font&gt;&lt;/b&gt;\n\nOkay, so spoiled food is pretty gross. Yuck! But if I eat it, then I'll get nauseous. And if I can tough that out, then I'll &lt;i&gt;know&lt;/i&gt; I'm the toughest, riskiest kid ever! Nothing scares me!
+&quot;I'd be so tough if I ate spoiled food! I bet I can do it {1.Number} times!&quot;
+\n&lt;b&gt;&lt;font color='#2182E6'&gt;Earn a positive Sentiment with a Ghost by interacting with them.&lt;/font&gt;&lt;/b&gt;\n\nGhosts are part of the past! I don't want to just meet one... I want to have a really special bond with one. I want to be special to the Ghost!
+&quot;I want to have a really special connection with a Ghost!&quot;
+\n&lt;b&gt;&lt;font color='#2182E6'&gt;Befriend a Ghost.&lt;/font&gt;&lt;/b&gt;\n\nGhost lived a long time ago! That means they must know a lot about what happened in the past. If I want to learn about the past, a Ghost is the perfect Sim to teach me! If I became friends with one I bet they'd tell me all about it!
+&quot;Ghosts know &lt;i&gt;a lot&lt;/i&gt; about the past. I bet if I made friends with one, I'd learn a lot about it too!&quot;
+\n&lt;b&gt;&lt;font color='#2182E6'&gt;Collect {1.Number} nature-related collectibles. These include: Fossils, Elements, Metals, and more! Then select them to Study.&lt;/font&gt;&lt;/b&gt;\n\nIf I'm going to be a &lt;i&gt;real&lt;/i&gt; scientist then I need to study the world around me! I can do that with a collection! Which one should I start with?
+&quot;I need to collect at least {1.Number} science thingies to study! It's called research!&quot;
+\n&lt;b&gt;&lt;font color='#2182E6'&gt;Craft {1.Number} Potions successfully on the Science Table. Potions unlock beginning at Level 4 Mental Skill.&lt;/font&gt;&lt;/b&gt;\n\nLet me get my vials and micrascope and &lt;i&gt;&lt;b&gt;POOF&lt;/b&gt;&lt;/i&gt;—mix up a real fancy potion or two! If I make a potion, I'm one-hundred-bazillion percent a scientist!
+&quot;Muahaha! I'm gonna create some &lt;i&gt;strange&lt;/i&gt; science potions!&quot;
+\n&lt;b&gt;&lt;font color='#2182E6'&gt;Swim for {1.Number} Hours.&lt;/font&gt;&lt;/b&gt;\n\nI didn't know they had swimming back then! I bet I could be just like them if I practiced my swimming. I can't hold my breath very long, so I'll have to work up to be as good as they were in that scrapbook!
+&quot;That Swim Team Scrapbook was so neat! I bet I can swim that much too!&quot;
+\n&lt;b&gt;&lt;font color='#2182E6'&gt;Create {1.Number} Drawings on an Activity Table.&lt;/font&gt;&lt;/b&gt;\n\nThat scrapbook was so neat! I want to be an artist like that someday! But you know what they say? Practice makes perfect! If I want to be that good...I'm going to have a lot of art to do.
+&quot;I'm going to create my own art! Just like the sketches I found in that scrapbook!&quot;
+\n&lt;b&gt;&lt;font color='#2182E6'&gt;Practice and Play Songs on an Instrument for {1.Number} hours.&lt;/font&gt;&lt;/b&gt;\n\nI want to be a musician just like those Sims in that scrapbook! It's going to take a lot of practice, but I can do it! I just need an instrument. &lt;i&gt;I hope nobody minds the noise...&lt;/i&gt;
+&quot;I'm going to get really good at playing music so I can be like the Sims from that scrapbook!&quot;
+\n&lt;b&gt;&lt;font color='#2182E6'&gt;Use a Microwave or Fridge to Have a Quick Meal or Drink {1.Number} times.&lt;/font&gt;&lt;/b&gt;\n\nThere are safe, adult-approved ways I can make my own meals! (Really, I'm just not supposed to use the oven...) So I'm going to do some of those! If I do it enough, that'll prove that I really can feed myself!
+&quot;I'm going to make my own food {1.Number} times all by myself! That'll prove I can do it.&quot;
+\n&lt;b&gt;&lt;font color='#2182E6'&gt;Have a Teen or older Sim choose to Cook Together with {0.SimFirstName} {1.Number} of times. This can be done on Counters, Ovens, or Fridges.&lt;/font&gt;&lt;/b&gt;\n\nGrown-ups know a lot about cooking. If I'm going to get good at it, then I can probably learn a lot from them. Plus, that's &lt;i&gt;probably&lt;/i&gt; a lot safer...
+&quot;If I'm going to learn to feed myself, I should probably cook with someone older than me first. To learn.&quot;
+\n&lt;b&gt;&lt;font color='#2182E6'&gt;Collect {1.Number} nature-related collectibles. These include Frogs, Insects, and Butterflies.&lt;/font&gt;&lt;/b&gt;\n\nI don't even know how many frogs and bugs there are out there? Probably &lt;i&gt;a lot&lt;/i&gt;. If I'm going to be all about nature, then I better challenge myself to start a collection and find some! It's a great idea!
+&quot;Nature is all around. I'm going to discover as much as I can and start a collection!&quot;
+\n&lt;b&gt;&lt;font color='#2182E6'&gt;Go into Create a Sim and set this Sim's Color Preferences. These can also be discovered by talking to other Sims about colors or by getting Nails done at a Spa (&lt;i&gt;Spa Day&lt;/i&gt;).&lt;/font&gt;&lt;/b&gt;\n\nSo I know my colors...but what color are the best colors? What colors make &lt;i&gt;me&lt;/i&gt; &lt;b&gt;pop&lt;/b&gt;? I've got some serious figuring out to do.
+&quot;What colors do I love and what colors do I hate? Need to figure that out!&quot;
+\n&lt;b&gt;&lt;font color='#2182E6'&gt;Select {0.SimFirstName}, a Dresser, Mirror, or similar objects to Plan or Change Outfit {1.Number} times.&lt;/font&gt;&lt;/b&gt;\n\nWhat's the point in designing the most fashionable, most &lt;i&gt;artistic&lt;/i&gt; fashions if nobody ever sees them?! I need to show off a lot of different styles for &lt;i&gt;my brand&lt;/i&gt; to start spreading awareness.
+&quot;I need to be seen around in my &lt;i&gt;amaaazing&lt;/i&gt; outfits.&quot;
+\n&lt;b&gt;&lt;font color='#2182E6'&gt;Use a Dresser or Mirror to Plan Outfit.&lt;/font&gt;&lt;/b&gt;\n\nI have so many outfit ideas! I bet if the world saw what I can do, my looks would be &lt;i&gt;super trendy&lt;/i&gt; in no time! They just need the 'me' touch!
+&quot;I'm going to plan the coolest, most stylish outfit there ever was!&quot;
+\n&lt;b&gt;&lt;font color='#2182E6'&gt;Take Out the Trash or Clean Dirty Dishes {1.Number} times.&lt;/font&gt;&lt;/b&gt;\n\nHelping out around the house and cleaning up are some of the best ways to be useful! Everyone needs to do their share, and I know I will! That's for sure!
+&quot;I can show how useful I am by helping out and cleaning up!&quot;
+\n&lt;b&gt;&lt;font color='#2182E6'&gt;Play games on the Video Game Console and emerge victorious {1.Number} times.&lt;/font&gt;&lt;/b&gt;\n\nThe best way to prove that you're good at something is to win! So if I game and win, then I'm good at it! But it can't be just once. That could be a fluke!
+&quot;To be good at gaming, I need to prove it and win at least {1.Number} games on a gaming console.&quot;
+\n&lt;b&gt;&lt;font color='#2182E6'&gt;Listen to Music on Stereos or Radios to gain a Preference for {0.SimFirstName}.&lt;/font&gt;&lt;/b&gt;\n\nThere's lots of good music out there, but what kind is &lt;i&gt;my&lt;/i&gt; favorite? I guess I have to figure that out still. I should listen to some stuff and see what sticks!
+&quot;So... what kind of music do I even like? I need to figure that out first.&quot;
+\n&lt;b&gt;&lt;font color='#2182E6'&gt;Craft and sell items to earn Simoleons.&lt;/font&gt;&lt;/b&gt;\n\nA good, proper business Sim needs a solid business idea. That's the number one rule! Maybe I could make something and sell it?! Yeah, that'd be a good business idea!
+&quot;I bet I can earn {1.Number} Simoleons! That'd prove I'm a successful business kid.&quot;
+Reach Level 8 of the Culinary Career
+Click on the Refrigerator, select Cook, and select a recipe from the list.  Hover the cursor over the food to check its quality! Sims with high Skill are more likely to create higher quality food.
+To join the Culinary Career, click on the Phone or Computer and select the Find a Job interaction. To get promoted, complete Promotion Requirements and attend work in the Career's Ideal Mood.
+Reach Level 4 of the Culinary Career
+To Celebrate, click on the stove to select the Cake Recipe. Afterwards, add Birthday Candles and then Celebrate the moment!
+Click on the Phone to Plan a Dinner Party Event. Once the Event starts, complete the Goals that pop-up to earn a higher score!
+To cook a gourmet meal, a Sim must have Level 5 Cooking Skill. Click on the Refrigerator, select Cook a Gourmet Meal, and select a recipe from the list.
+Cook a Gourmet Meal
+To increase Sim's Cooking skill, use the Refrigerator or Stove to make food, Watch the Cooking Channel on a TV, or read a Cooking Skill Book. Skill Books can be purchased directly from a Bookshelf by using the Purchase Books interaction!
+Achieve Level {1.Number} Cooking Skill
+Click on the Refrigerator, select Cook, and select a recipe from the list.  Hover the cursor over the food to check its quality!
+To increase Mixology skill, use the Bar to Make Drinks, Tend Bar, or read a Mixology Skill Book. Skill Books can be purchased directly from a Bookshelf by using the Purchase Books interaction!
+To join the Mixology branch, first progress through the Culinary career by completing Promotion Requirements and attending work in the Career's Ideal Mood. 
+To join a career, click on the Phone or Computer and select the Find a Job interaction.
+Click on the Bar, select Make Drink, and select a recipe from the list. Hover the cursor over the drink to check its quality! Sims with high Skill are more likely to create higher quality drinks.
+Join the Culinary Career
+Click on the Phone to Plan a Social Party Event. Once the Event starts, click on a Bar, select Make Drink, and select a recipe from the list.
+To increase Mixology skill, use the Bar to Make Drinks, Tend Bar, or read a Mixology Skill Book. Skill Books can be purchased directly from a Bookshelf by using the Purchase Books interaction!
+Achieve Level {1.Number} Mixology Skill
+Bars and Bar Stools can be purchased from Build Mode under the Dining Room Sort.
+Own 2 Barstools
+Click on the Bar, select Make Drink, and select a recipe from the list.
+Become Good Friends with {1.Number} Children or Grandchildren
+Have {1.Number} Grandchildren
+Have a Child or Grandchild Reach the Top of a Career
+Have a Child Complete an Aspiration
+Have a Child Get Married
+Have a Child Max Any Skill
+Have a Child Earn an &quot;A&quot; in High School
+Become a Parent
+Help a Child with Homework {1.Number} Times
+Spend §1,000 on Kids' Stuff
+Click on a Sim's children or grandchildren and perform Friendly or Funny Socials to increase Relationship!
+See Sim's children have at least {1.Number} children of their own. This can be done accomplished through marriage, adoption, or more &quot;old-fashioned&quot; means (wink wink.)
+Click on a Child that you're a Parent, Care Dependent, or Grandparent of and select any Social Interaction.
+Socialize with Your Child or Grandchild {1.Number} Times
+Have this Sim's child get married and start a family of their own!
+Click on a Sim's child and perform Friendly or Funny Socials to increase Relationship!
+Be Friends with 3 of Your Children
+Click on a Sim and perform Friendly or Funny Socials to increase Relationship and make Friends!
+Be Parent to a Child with 3 Friends
+Have one among Sim's children or grandchildren reach max level of a career. To get promoted, complete Promotion Requirements and attend work in the Career's Ideal Mood.
+With a child Sim selected, select an Aspiration from the Aspiration Panel. Child Aspirations focus on building Skills such as Creativity, Mental, Motor, and Social.
+Parents can Encourage their children using the Activity Table.  They may also Mentor them in a variety of Skills once they've grown up.
+Mentor Your Child {1.Number} Times
+Have Sim's child max out any of the child skills! If they've grown up already, maxing any adult skill will work too.
+To achieve an A grade in high school, complete Homework and Grade Level Requirements. Going to school while Focused will also help!
+Click on a child Sim doing homework and select the Help with Homework social.
+Click on a Child that you're a Parent or Care Dependent of and select any Social Interaction.
+Socialize with Your Child {1.Number} Times
+Kids' stuff can be purchased from Build Mode under the Kids Function category.
+Click on a Sim of another sex and select Try for Baby from the Romantic category. To have a child, Sims must have high Romantic Relationship with the Sim they'll Try for Baby with. Alternatively, adopt a Sim from the Computer!

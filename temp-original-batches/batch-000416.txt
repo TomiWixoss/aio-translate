@@ -1,0 +1,100 @@
+What kind of housewarming party is right for you? If a night of dancing and drinks is your thing, I suggest a house party. If you’re looking for something more intimate, a dinner party is the perfect choice—as long as you can cook a meal without burning down your new house!\n\nPreparations aren't necessary but a little goes a long way! You could play some nice music, clean the dishes, and freshen up. Is your home missing anything? Perhaps a bar to serve drinks, or a proper dining table? Buy it! Some nice decor doesn’t hurt, either!\n\nWhenever you’re ready, just pick up your phone and invite people over. At this point, you can also hire caterers, bartenders, and more—if your wallet allows it!\n\nDon’t worry, you’ve got this! Can’t wait, see you soon!
+Don't you mean, &quot;Tell me more about social Skills, &lt;i&gt;please&lt;/i&gt;?&quot; You’re lucky I called!\n\nIf you believe a good joke is the way to a Sim’s heart, focus your efforts on the Comedy skill. Everyone loves an entertainer!\n\nMischief is a precarious social skill; some Sims love being pranked, while others despise it. But if you master the art of mischief, you’ll be able to bring a smile to the most dour of Sims.\n\nThe most important social Skill, in my opinion, is Charisma. Not only will you develop new relationships faster, but all of your social interactions will also become more powerful and likely to succeed! If you want to become a great comedian or prankster, it pays off to improve your Charisma, too.
+Have you tried this new energy drink, &quot;Moodlet Solver&quot;? It makes me so pumped, I could party all night!
+Have you tried this new energy drink, &quot;Moodlet Solver&quot;? It makes me so pumped, I could lift all night!
+(From New In Town Scenario)
+You should totally ask them out! And then you should &lt;i&gt;totally&lt;/i&gt; tell me eeevery little detail. Don’t forget to freshen up in the mirror first, it always gets me in a Flirty mood. Crossing my fingers for you!
+You should try getting in a Confident mood, I find it helps a lot in social situations. Speaking of which, I’ll go psych myself up in the mirror. I can’t wait to meet the rest of your friends!
+(From Rocket Ship Exploration)
+(From Having Objects Repossessed)
+(From Fighting the Repo Person)
+{1.SimFirstName} has reconsidered {1.SimPronounPossessiveDependent} Romantic Boundaries after discussing with {0.SimFirstName}.\n\n{1.SimFirstName} will &lt;b&gt;not feel jealous&lt;/b&gt; from partners doing {T0.Mess Around}{DAE0.WooHoo}.
+{1.SimFirstName} has reconsidered {1.SimPronounPossessiveDependent} Romantic Boundaries after discussing with {0.SimFirstName}.\n\n{1.SimFirstName} will &lt;b&gt;feel jealous&lt;/b&gt; from partners doing {T0.Mess Around}{DAE0.WooHoo}.
+{1.SimFirstName} has reconsidered {1.SimPronounPossessiveDependent} Romantic Boundaries after discussing with {0.SimFirstName}.\n\n{1.SimFirstName} will &lt;b&gt;not feel jealous&lt;/b&gt; from partners doing physical romance &lt;i&gt;(excluding {T0.Mess Around}{DAE0.WooHoo})&lt;/i&gt;.
+{1.SimFirstName} has reconsidered {1.SimPronounPossessiveDependent} Romantic Boundaries after discussing with {0.SimFirstName}.\n\n{1.SimFirstName} will &lt;b&gt;feel jealous&lt;/b&gt; from partners doing physical romance &lt;i&gt;(excluding {T0.Mess Around}{DAE0.WooHoo})&lt;/i&gt;.
+{1.SimFirstName} has reconsidered {1.SimPronounPossessiveDependent} Romantic Boundaries after discussing with {0.SimFirstName}.\n\n{1.SimFirstName} will &lt;b&gt;not feel jealous&lt;/b&gt; from partners doing non-physical romance.
+{1.SimFirstName} has reconsidered {1.SimPronounPossessiveDependent} Romantic Boundaries after discussing with {0.SimFirstName}.\n\n{1.SimFirstName} will &lt;b&gt;feel jealous&lt;/b&gt; from partners doing non-physical romance.
+(From Loyal Sim trash-talking a friend)
+(From Loyal Sim cheating on partner)
+(From First WooHoo)
+(From Drinking Nectar)
+(From a Great Pairing)
+(From Children's Book)
+(From Being Calmed Down)
+(From Being Screamed At)
+(From Overhearing a Sim Talk Trash)
+(From Overhearing Talk Up)
+(From Seeing the Death of a Beloved Chicken)
+(From Chillio Spell)
+(From Grim's Right Hand Trait)
+(From Seeing a Beloved Chicken Get Sold Away)
+{0.SimFirstName} found {M0.himself}{F0.herself} standing in a prehistoric land surrounded by the flora and fauna of long ago.\n\n{M0.He}{F0.She} was just about to explore, when {M0.he}{F0.she} felt the portal trying to drag {0.SimPronounObjective} back. {0.SimFirstName} stomped {M0.his}{F0.her} foot in defiance. Unfortunately it stomped upon something more than ground.\n\n{M0.He}{F0.She} reached down just as the land faded away, and {M0.he}{F0.she} was back. Whatever it had been, appeared now to be a rock of some sort.\n\n{M0.He}{F0.She} picked it up.
+{0.SimFirstName} stepped into the darkness...\n\n&quot;Hey! What are you doing here?&quot; a voice questioned. {0.SimFirstName} was surprised to find someone else in the portal, however this didn't stop {0.SimPronounObjective} from following the voice.\n\n&quot;Fine then! Take this, keep quiet, and get out,&quot; the voice commanded as {0.SimFirstName} felt something land in {M0.his}{F0.her} pocket, followed by a sudden push forcing {0.SimPronounObjective} back the way {M0.he}{F0.she} came.
+{0.SimFirstName} stepped into the portal, and was whisked away to the sunny pasture once again.\n\nThe glowing tree did not bear any fruit this time, however upon the ground a short distance beyond it, was the elusive Cowplant Berry!\n\n{0.SimFirstName} pocketed the find moments before the same whisking returned {M0.him}{F0.her} home.
+{0.SimFirstName} stepped into the portal, but didn't find the familiar sunny pasture. {M0.He}{F0.She} did hear some strange humming, and followed the sound until {M0.he}{F0.she} kicked into a crystal.\n\nAs {0.SimFirstName} picked up the crystal, {M0.he}{F0.she} felt the familiar queasiness that happens when being ejected from The Mystical Magic Bean Portal Tree.
+We're receiving reports of a potential time traveler in town.\n\nTheir identity, origin, and purpose remain unconfirmed. However, several Sims have noted the distinct blue hair of this new arrival that they believe to be Emit Relevart.\n\nOver to you, Ginny.
+My friend had this muy caliente dress that was perfect for dancing. But it's been missing for a while now.
+Missing Items
+There was this old song that...how did it go? La la la la di da?
+I planned this big surprise party for the neighborhood, but the cake I ordered never arrived!
+Come to think of it, I have an alarm clock I really love that's gone missing. I just thought I had misplaced it.
+I haven't noticed anything missing, but then again, I don't pay much attention. Sorry.
+Someone told me they saw a flash of light while they were near the park.
+I was just at the park and I think I saw someone matching that description.
+I was just out Sim watching and heard a loud bang. Maybe that's what you're looking for?
+No, haven't seen anyone like that. I'd try the park, everyone hangs out there.
+Emit? Nope, don't know an Emit. Knew a Skip once. I wonder whatever happened to him?
+Emit's Location
+Oh, if you find a time traveler, let me know. I have a lot of questions to ask.
+Is that even possible? I think you've been reading too much Wells.
+A time traveler? Time doesn't exist beyond the present.
+I wish I could time travel! Of course you have to worry about the re-entry. A building that wasn't there, that is there...it boggles the mind.
+If I could travel through time, do you think I would be here and not with the dinosaurs!?
+Accused Sim
+(From the Scare Seeker Lot Challenge)
+Event Ended
+The Reaper's Rewards Event has ended. You can still claim any rewards that are unlocked in the Event UI.
+Thank you for your purchase! You can find your Death Flower in your Sim's inventory.
+Make sure you know how to fish. You'll need it if you want to make Ambrosia.
+I seem to recall Ambrosia is a gourmet food.
+Ambrosia?! I'm not sure how to make it, but I would love to learn and bring a ghost back to life.
+If you want to make Ambrosia, you'll need to be willing to get your hands a bit dirty.
+I've heard that you need to have mastered the Cooking and Gourmet cooking skills.
+Why are you asking me about Ambrosia? I haven't heard anything!
+Can't you just look Ambrosia up on a computer?
+I don't want to talk about Ambrosia...
+(From Exercise)
+(From Protein Shake)
+(From Making a Virus)
+(From Making A Plugin)
+(From Hacking Work Performance)
+(From Failing To Hack Work Performance)
+(From Hacking Supercomputer)
+(From Hacking Grades)
+(From Failing To Hack Grades)
+(From Great Side Job Work)
+(From Sim in Labor)
+Gone into Labor!
+{0.SimFirstName} is bursting... with anticipation to meet {M0.his}{F0.her} new bundle of joy!
+(From Maintaining Potted Plants)
+Missed Discovery Quest
+Oh no! You missed a Discovery Quest phone call.\n\nDon't worry, it will show again. You can also open the Options Menu, choose Game Options and then Tutorial &amp; Tips and Enable or Disable Discovery Quests, or Reset them.
+You started the Spruce It Up Discovery Quest, where you'll learn about how to expand your home and the surrounding world. Complete this quest to earn Simoleons!\nAlready know about these? You can always cancel this Discovery Quest with the trashcan icon or turn off Discovery Quests in the Options Menu under Tutorials &amp; Tips.
+Spruce It Up
+{0.SimFirstName} feels more confident in {0.SimPronounReflexive}. Just a little more effort to finally face this fear.
+(From Appreciating Family Portrait)
+{0.SimFirstName} got an Angry Magic Bean from {1.SimFirstName}.
+{0.SimFirstName} got a Sad Magic Bean from {1.SimFirstName}.
+{0.SimFirstName} got a Flirty Magic Bean from {1.SimFirstName}.
+{0.SimFirstName} got a Confident Magic Bean from {1.SimFirstName}.
+{0.SimFirstName} got a Uncomfortable Magic Bean from {1.SimFirstName}.
+{0.SimFirstName} got a Playful Magic Bean from {1.SimFirstName}.
+{1.SimFirstName} gave {0.SimFirstName} a sugar skull in celebration of the Day of the Dead!
+(From Buying a Littlest Neighborhood Library)
+(From Engagement)
+(From Drinking Potion)
+What? You don't think I'd make a good parent?! I'd be an amazing parent!! We're going to go Try for a Baby &lt;i&gt;right now&lt;/i&gt;. Take that, ha!
+Decide for myself? That's too hard!
+Alright... well... I think... yes! We'll do it! Thanks for the advice. We're having a baby!
+You think so? I guess you are right. Thanks for giving me a reality check.
+What do &lt;i&gt;I&lt;/i&gt; want? I don't know what I want! I wanted you to decide for me. It's obvious I can't count on you for huge and impactful life decisions that don't really concern you. Thanks for nothing, {0.SimName}.

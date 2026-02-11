@@ -1,0 +1,100 @@
+{0.SimFirstName} can hardly believe an animal had to leave them due to lack of care. {F0.She}{M0.He} hopes to prevent it from ever happening again.
+(DEBUG) Always Succeed at EP11 Animal Socials
+Always succeed at socials with foxes, rabbits, chickens, bird homes, llamas, and cows if success outcome exists.
+(DEBUG) Always Fail at EP11 Animal Socials
+Socials with rabbits, foxes, bird homes, chickens, llamas, and cows should always fail if a fail option exists.
+Vicious Rumor
+Nobody likes it when rumors are started about them!
+Good Vs. Evil
+It started with an artistic spark, and concludes with a complete mastery of written language. {0.SimFirstName} has just achieved {M0.his}{F0.her} dream of becoming a prolific writer!\n\nTrait Earned: Poetic\n{0.SimFirstName} can write stories that truly bring Sims to life!
+Painter Extraordinaire
+This Sim wants {M0.his}{F0.her} life to be all about art and painting!
+Good art is subjective, but spectacular art is universally recognizable. {0.SimFirstName} has reached this pinnacle by achieving {M0.his}{F0.her} dream of becoming a world-class painter!\n\nTrait Earned: Expressionistic\n{0.SimFirstName} can make emotional art regardless of {M0.his}{F0.her} mood!
+Artistic Prodigy
+This Sim has dreams of succeeding in the arts!
+{0.SimFirstName} has just achieved {M0.his}{F0.her} childhood dream of becoming an artistic prodigy!\n\nTrait Earned: Creatively Gifted\n Build creative skills faster!
+Bodybuilder
+This Sim wants to work out and become as strong as they can be!
+Through a lot of sweat and tears, {0.SimFirstName} has finally achieved {M0.his}{F0.her} dream of becoming a true bodybuilder!\n\nTrait Earned: Long Lived\n{0.SimFirstName} will live longer!
+Such kindness was shown! {0.SimFirstName} has completed the Positivity Challenge! \n\n{M0.He}{F0.She} can now collect a reward by talking to Millie Bobbie Brown again.\n\nMake sure you have collected all of the rewards from the Box of Kindness first!
+The Positivity Challenge
+The Positivity Challenge is Happening
+Congratulations! By following along closely and having fun while learning, {0.SimFirstName} has successfully completed the Welcome aspiration and is ready to tell their own Sim stories.\n\nTrait Earned: Over-Achiever\nIncreased skill gain and future career performance.
+Trend-Setter
+Your Aspiration will help guide your Sim’s progress, as well as earn them Satisfaction points to spend on rewards.
+Painter
+Chef
+Athlete
+Aspiration Completed
+Select New Aspiration
+Vampiric Accomplishments
+Misfortunes
+Goals
+General
+Welcome!
+Emotions
+Challenge
+Social
+Motor
+Mental
+Creativity
+Popularity
+Nature
+Love
+Location
+Knowledge
+Fortune
+Food
+Family
+Deviance
+Creativity
+Athletic
+(From Writing Skill)
+(From a High Skill Level)
+(From Violin Skill)
+(From Video Gaming Skill)
+(From Liked Music)
+(From Being a Teen)
+(From Owning a Stereo)
+(From Meeting Someone New)
+(From Rocket Science Skill)
+(From Programming Skill)
+(From Being at the Pool)
+(From Piano Skill)
+(From Photography Skill)
+(From Being Romantic Partners)
+(From Being at a Park)
+(From Being a Caregiver)
+(From Being a Parent)
+(From Painting Skill)
+(From Being at a Museum)
+(From Low Motives)
+(From Mischief Skill)
+(From Being at a Lounge)
+(From Logic Skill)
+(From Being at a Library)
+(From Being a Vegetarian)
+(From Being a Treasure Hunter)
+(From Being a Snob)
+(From Being a Slob)
+(From Being Self Assured)
+(From Being Romantic)
+(From Being a Perfectionist)
+(From Being Outgoing)
+(From Being Neat)
+(From Being a Music Lover)
+(From Being a Melt Master)
+(From Being Mean)
+(From Being Materialistic)
+(From Being Loyal)
+(From Loving the Outdoors)
+(From Being a Loner)
+(From Liking Fruitcake)
+(From Being Lazy)
+(From Being a Klepto)
+(From Being Jealous)
+(From Being Erratic)
+(From Being Hot-Headed)
+(From Hating Children)
+(From Grouch Trait)
+(From Being a Goofball Child)

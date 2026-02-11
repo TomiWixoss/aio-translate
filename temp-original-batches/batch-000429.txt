@@ -1,0 +1,100 @@
+(From Wearing Charged Citrine)
+(From Wearing Charged Nitelite)
+Congratulations...
+{1.SimLastName}
+Move all Inventory items for this Sim into the Household Inventory of the Household that this Sim belonged to before passing.
+Move Sim's Inventory to former Household Inventory.
+This will clear all items in the Sim's Inventory.
+Delete Sim's Inventory.
+{0.SimFirstName}'s Ghost won't be around forever! Any items in {0.SimPronounPossessiveDependent} Inventory will be lost after Moving On. A Ghost's connection to the mortal world is tenuous and will decay over time.
+Have Sim's Inventory remain with their Ghost.
+{0.SimName} has died.
+A Sim in a previously played Household has died. What do you want to do?
+(From Losing a Spouse)
+(From Losing a Grandparent)
+(From Losing a Sibling)
+(From Losing an Acquaintance)
+(From Losing an Enemy)
+(From Losing a Child)
+(From Losing a Friend)
+(From Losing a Good Friend)
+(From Losing a Best Friend)
+(From Losing Someone)
+(From Losing a Loved One)
+(From Losing Someone Close)
+(From Losing a Parent)
+Index out of bounds.
+{0.SimFirstName} is missing some required items:
+{0.SimFirstName} will have to use:
+{0.String} &lt;font color='#3AAF69'&gt;(+{1.Money})&lt;/font&gt;
+Favorites
+Mt. Komorebi
+Stay Overs
+Henford-on-Bagley
+San Myshuno
+High School Festivals
+Wedding Events
+Getaways
+New Horse
+Congratulations! You have a Horse! Owning a Horse is a way of life that requires hard work, training, and lots of care.\n\nTo properly care for a Horse, you'll need a handful of items. Stock up from Build Mode through &lt;b&gt;Objects by Room&lt;/b&gt;: go to the &lt;b&gt;Outdoors&lt;/b&gt; section and then &lt;b&gt;Animals&lt;/b&gt;.\n\nHelpful items may include:\n\n⚒ &lt;b&gt;Hay Now! Animal Feeder&lt;/b&gt;\n⚒ &lt;b&gt;Hay Now! Horse Water Trough&lt;/b&gt;\n⚒ &lt;b&gt;Hay Now! Horse Bed&lt;/b&gt;\n⚒ &lt;b&gt;Hay Now! One Big Ball&lt;/b&gt;\n⚒ &lt;b&gt;Horse Jumps or Barrels&lt;/b&gt;&#xD;&#xA;
+The Horse is in a &lt;font color='#1E81E6'&gt;neutral Mood&lt;/font&gt;, which has no impact on the chances of winning.
+This Horse is in a &lt;font color='#008000'&gt;positive Mood&lt;/font&gt;, which slightly improves the chances of winning.
+This Horse is asleep, which has no impact on the chances of winning.
+This Horse is in a &lt;font color='#ff0000'&gt;negative Mood&lt;/font&gt;, which slightly reduces the chances of winning.
+Competitor
+{1.String} Successful!!
+{1.String} was awesome! {0.SimFirstName} had a wonderful time and got to do everything {M0.he}{F0.she} planned to do.
+{1.String} was Awful!
+{1.String} really wasn't up to {0.SimFirstName}'s expectations. {M0.He}{F0.She} didn't get to participate in enough of the traditions {M0.he}{F0.she} likes. Maybe next year.
+{1.String} is Over!
+{1.String} was pretty good! {0.SimFirstName} got to do a lot of the things {M0.he}{F0.she} wanted to do... but... not everything. Next year {M0.he}{F0.she} hopes to do even more!
+Prepare to participate in all your favorite traditions.
+0
+Beginner
+&lt;font color='#199C2C'&gt;Easy&lt;/font&gt;
+&lt;font color='#BB932F'&gt;Intermediate&lt;/font&gt;
+&lt;font color='#D32532'&gt;Hard&lt;/font&gt;
+Story Scenarios
+Start your gameplay with a unique story and household, and choose your Sims' fate!
+Learn how to achieve amazing things step-by-step and take charge of a Sim's story!
+Welcome Scenarios
+Use your creativity and Sims-skills to triumph over unique circumstances!
+Challenge Scenarios
+{0.SimFirstName} ran out of {2.ObjectCatalogName} to use as bait. {M0.He}{F0.She} will continue fishing without bait.
+There's some fancy fish here that only nibble on flowers.
+Discerning fish here enjoy the freshest of produce. Try some fruit on the line.
+The rarest catches here are at the top of the food-chain. Baiting your line with a medium-sized fish might just lure them out.
+Most fish here will eat almost anything - as long as it's organic, they're biting!
+Some fish really need a bait they can sink their teeth into.
+Prized catches here like to prey on small fish. Poor, small fish. 
+Some fish here prefer munching on amphibians. Try using a Frog for bait.
+These fish are biting at anything. As long as it's valuable, they're going for it!
+The {3.String} {2.String} was drawn to {0.SimFirstName} due to {0.SimPronounPossessiveDependent} {5.String}. Right?
+{0.SimFirstName} caught a {3.String} {2.String} worth {4.String}! What else might be out there?
+Fish Type: {0.String}\nBait Type: {1.String}
+Did {1.String} help {0.SimFirstName} catch {2.ObjectName|enAn} or did {0.SimPronounSubjective} imagine it?
+{0.SimFirstName} just caught {2.ObjectName|enAn}!
+Treasure Caught:
+{0.Number} pieces of junk were taking up space in the trap!
+{0.String} {1.String} {2.String}
+Fish Caught:
+The trap was empty!
+You caught the following things in the trap.\n{0.String}
+{0.Number} kg
+Come check out ThrifTea! We just got some new Exclusive items here at our thrift store! Remember, here today, gone tomorrow! Don't miss out!
+Select Sim to Forge Connection
+{0.SimName}'s familiar needs more room to answer their master's summons.
+The preeminent symbol of magic and ancient knowledge. They have a strong connection to the moon and stoically follow their chosen Spellcaster.
+When you need a protector that truly frightens your opponent consider the skull. It is hard not to be intimidated by this floating, haunting familiar.
+Regal and powerful, this dragon should never be discounted based on its size. It is a formidable foe as well as a cherished companion.
+Pure energy coalesced in the form of a tiny fairy familiar, it is impossible to make out any features beyond its magical wings. One can feel what can only be described as a slight spark when near.
+Be warned to avoid the direct gaze of the glowfrog. They are usually quite mischievous characters although quite harmless when left to their own devices.
+Perks to change the way other Sims in the world will interact with your Dynasty members.
+Social
+Perks to improve your Sim's skills.
+Inheritable Traits
+Perks to give Sims in your Dynasty better performance.
+Success
+Influence
+{0.String} ({1.Number} Influence)
+Bits

@@ -1,0 +1,100 @@
+Set Light Color and Intensity
+This Light
+All Lights
+Lounge
+Float Loungers may only be used when placed in deep ocean water or a pool.
+Hire Specific Caterer
+You can't have a Caterer and a Chef at the same time.
+There is already a caterer hired on this lot.
+Hire {2.SimName} as a Caterer
+Unavailable while {1.SimFirstName} is in the Back Carrier. 
+Carol of Cleaning
+Career Proxy Terrain
+Career Proxy Super Interaction
+Leave Early
+Leave School Early
+Watch {1.SimFirstName} Model Look
+Negotiate
+Negotiate a Bonus: {2.String}
+Start Card Game
+Join Game
+Play Game
+Congratulations! {0.SimFirstName} just finished painting a masterpiece!
+Sell to Collector
+Sell Copy to Collector
+Sell this Masterpiece to a Gallery?
+You are about to sell a Masterpiece. These are very rare! Are you sure you want to do this?
+Sell to Art Gallery
+Sell Copy to Art Gallery
+Scrap Painting
+Purchase {1.ObjectName}
+Admire
+Being Inspired helps with canning!
+Light
+Warm Self
+Roast
+{2.String}
+Marshmallows
+Roast Marshmallows
+This cannot be done unless the cooking surface is cleared.
+Invite to Hang Out
+Hang Out
+Extinguish
+You cannot extinguish a campfire while another Sim is using it.
+Add Log
+Pass Out
+What's the big idea? This prank wasted valuable time! You'll be facing a fine for this stunt!
+Well, this is embarrassing. The burglar slipped right through my fingers. Not my best work... Stay safe out there!
+(From Burglar Escaping Police)
+Change Dirty Diaper
+Breastfeed
+Bounce
+Bottle Feed
+Age Up!
+Play With Toy
+Getting in Line
+Stretching
+Sim is already leaving!
+Moving In Together!
+Click OK to go to 'Split From Household And Move' to modify which Sims will live in which Households.
+This painting fills {0.SimFirstName} with such a profound grief. Legend says that if you look hard enough the grief will spill off the canvas and into the room.
+Admire Festive Cheer
+What's This?
+View Sand Art
+(From Viewing a Snow Drawing)
+(From Viewing a Sand Drawing)
+Pictured: &quot;A grey heron hunts for its next meal in a nearby pond as students train at Shang Simla's famed martial arts school, The Phoenix Academy&quot;
+&quot;Just a few blocks from the glitz and glamor of the Los Sueños Strip, an eagle-eyed animal lover can spot porcupines, jackrabbits, and even the occasional white-tailed deer.&quot;
+&quot;Mt. Komorebi is known around the world for its excellent skiing and rejuvenating hot springs, but there are many natural wonders beyond the slopes of Yukimatsu.&quot;
+&quot;The spectacular vistas of Granite Falls will truly take your breath away, just be sure to save some oxygen in case you need to flee from one of the area's numerous bears.&quot;
+Investigate the Cave
+(From Viewing Portrait of Lady Mimsy Alcorn Shallot in the Garden)
+Appreciate Portrait
+Investigate Cordelia's Statue
+Express Feelings
+Expressing Feelings about Art
+The expression of the soul is always touching...
+It lacks the emotion that was intended... But not bad!
+Some feelings cannot be expressed in words...
+Critique Work
+Assess Impression
+Sell For Cost
+Gather Inspiration
+Examine Painting
+Critically Assess
+This bow is currently equipped.
+(From Archery Competition)
+{0.SimFirstName} shouldn't shoot a bow with a Torn Rotator.
+View Fish
+Fully Stock with Fish
+Care for Self
+Travel to Apartment With
+Dress {1.ObjectName} In
+I'll get started making the outfit just as soon as I can. Watch for a parcel in the mail containing your new animal clothes!
+Upgrade complete!\n\n{0.SimFirstName} has finished upgrading the alarm clock speaker.
+Upgrade Speaker
+Increases the effective range of the alarm.
+Sets the alarm for all Sims in the area.
+Unset Alarm Time
+Unsets all alarms on the alarm clock.
+8 PM

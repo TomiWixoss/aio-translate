@@ -1,0 +1,100 @@
+Must be on a wall and floor.
+Must be on ceiling or wall.
+Must be on ceiling or at corner.
+Must be placed in a room.
+Must be inside.
+Must be completely supported by wall.
+Water Depth Map
+Adjust the speed at which water is raised or lowered.
+Water Tool
+Adjust the Fill to Height tool to a fixed height.
+The Raise or Lower Water tool must be selected.
+The Fill to Height water tool must be selected.
+Adjust Softness
+Paint Tool
+Stone and Pavement
+Grass and Flowers
+Dirt and Sand
+Eraser Tool
+Adjust Square Brush Size
+X Large Square Brush
+Large Square Brush
+Medium Square Brush
+Small Square Brush
+X Small Square Brush
+Adjust Circle Brush Size
+X Large Circle Brush
+Large Circle Brush
+Medium Circle Brush
+Small Circle Brush
+X Small Circle Brush
+Adjust Speed
+Terrain Manipulation
+Flatten to Height Slider
+Flatten to Height Tool must be Selected
+Arm-less
+Single
+Outer Corner
+Large Wedge
+Wedge
+Flat
+Left Armrest
+Right Armrest
+Armless Chaise
+Armed Chaise
+Left-Arm Chaise
+Right-Arm Chaise
+Tile
+Rounded Outer Corner
+Rounded Inner Corner
+Right End Piece
+Outer Corner
+Left End Piece
+Inner Corner
+Half Tile
+Double Tile
+Left Ladder
+Right Ladder
+Twin Ladders
+You have {0.Number} too many mannequins on the lot! Remove them before doing this.
+You have unfulfilled lot object requirements. Place the required objects before doing this.
+Can't exit lot!
+You have {0.Number} too many mannequins on the lot! Remove them before exiting Build Mode. Lots can have up to ten mannequins at a time.
+You have {0.Number} too many elevators on the lot! Remove them before exiting Build Mode. Lots can only have a single elevator.
+You can not exit while there is a baby in your inventory.
+Share Achievement to Twitter
+Total Points:
+Achievements
+Progress:
+Points
+     ---
+Share Achievement to Facebook
+ALL
+ {0.Number}/{1.Number}
+ {0.Money}/{1.Money}
+Pregnancy
+Live Mode
+Tell Joke about Professors
+Decorate with Pet Prints
+Dress Your Cats and Dogs
+Care for a New Pet
+Dress in Country Style
+Build a Rustic Home
+Wash Your Wardrobe
+Host Play Dates
+Jump into Fun
+Dress in Adorable Apparel
+Shape Up Your Space
+Get Fit in Style
+Scale the Climbing Wall
+Striking New Fashion
+Take Your Sims Bowling
+Build a Bowling Hangout
+Dazzling Décor
+All-new Vanity Table
+Hire a Personal Butler
+Lounge in New Fashion
+Personalize the Backyard
+Slip, Slide, and Splash
+Customize Kids Rooms
+Play with Puppets

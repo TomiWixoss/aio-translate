@@ -1,0 +1,100 @@
+Being Confident helps with Skill gain!
+Listen to {2.String} Lecture
+(From Listening to Lecture)
+Read Epitaph
+Go Near
+{0.SimFirstName} is currently being ridden and cannot be Called Over.
+Wait for Pet
+Go Over There
+As a ghost, I must warn you of imminent danger. Elder exhaustion is creeping closer. Take heed and rest well, for the Netherworld calls not yet.\nYours in ghostly vigilance,\n{0.SimFirstName}
+You're surrounded by crackling electricity now! As a ghost who knows a thing or two about that, I'd suggest stepping back before it gives you a jolt.\nStay Safe,\n{0.SimFirstName}
+Just a friendly warning from beyond, water can be tricky! Swim with caution and stay safe. The Netherworld isn't calling for you just yet.\nStay vigilant,\n{0.SimFirstName}
+Warn of Danger
+Increase or decrease mood duration from being Death by Old Age Ghost.
+Grab Snack from the Netherworld
+Create a snack in the inventory from being a Death by Hunger Ghost.
+Extinguish Flames
+Extinguish flames of all kinds from being a Death by Fire Ghost.
+Unmount
+Mount
+Regain Passion
+{0.SimFirstName} has already attempted that recently
+(From Attempting to Regain Career Passion)
+Requires Mischief Skill 6 or Higher.
+View Playful Work
+View Happy Work
+View Confident Work
+Watch Game
+Play Darts
+Join Darts
+Ask to Join Darts
+Practice Darts
+Play Darts
+Play Darts
+Heckle Dart Player
+Cheer Dart Player
+Thank you for purchasing {1.ObjectName}.
+75%
+500%
+50%
+300%
+25%
+200%
+100%
+0%
+Start Street Sale
+Clear Table
+Browse Table
+Play With
+Pet
+Milk
+Feed
+Eat Cake
+Look for Frogs
+Start 'Feed Yourself' Challenge
+Start 'Establish an Image' Challenge
+Start 'Be Useful' Challenge
+Start 'Be Annoying' Challenge
+Start 'Be an Entertainer' Challenge
+The Formative Moments Challenge list is full.
+This is a Formative Moment Challenge. See the Aspirations Panel to learn more.
+Wait For Carrier
+Excited Fan
+A fan recognizes {0.SimFirstName} at the supermarket and says hello…and then asks for an autograph, a picture, and starts an in-depth discussion about {M0.his}{F0.her} latest bestseller. {0.SimFirstName}’s flattered, but {M0.he}{F0.she} really just wants to buy {M0.his}{F0.her} groceries and go. {M0.He}{F0.She} can either be friendly to the excited fan, or make a quick exit.
+Breaking News
+{0.SimFirstName}’s boss asks {0.SimPronounObjective} to drop everything and watch for a possible breaking news story…but they're really really busy. Should {M0.he}{F0.she} focus in like {0.SimFirstName}'s supposed to, or just go about {M0.his}{F0.her} day and hope {M0.he}{F0.she} catches it when it happens?
+Boring News
+{0.SimFirstName} is SO BORED covering the local news. Are the readers as bored as {M0.he}{F0.she} is? {0.SimFirstName} can either start adding sensational details to make this stuff seem juicier, or stick to {M0.his}{F0.her} just-the-facts reporting.
+Unimpressive Resume
+{M0.His}{F0.Her} resume isn’t very impressive yet, but {0.SimFirstName} wants {M0.his}{F0.her} career to move a little faster. Should {M0.he}{F0.she} just be honest about not having much experience, or punch up {M0.his}{F0.her} resume with some things that aren’t totally 100% technically true?
+Late Payment
+{0.SimFirstName}’s discovered the hardest part of being a freelancer-getting paid on time. {M0.He}{F0.She} can either hound the company for the money, or just move on and not waste any more time that could be used working.
+Spelling Error
+In the rush to make {M0.his}{F0.her} deadline, {0.SimFirstName} accidentally made a dumb spelling error, and now it’s in print. Should {M0.he}{F0.she} fess up to {M0.his}{F0.her} mistake, or just blame the proofreader?
+Crazy Letter
+This crazy letter has to be a joke…right? {0.SimFirstName}’s pretty sure {M0.he}{F0.she}’s getting played by an internet jokester, but there’s no way to know for sure. If {M0.he}{F0.she} publishes the letter, it’ll be {M0.his}{F0.her} most famous column ever-or {M0.he}{F0.she} could just ignore it to be safe.
+Pass the Buck
+Report the Bugs
+How noble! {0.SimFirstName} alerts the competition, and the developers are able to provide a build without the exploit in it. It turns out that {M0.his}{F0.her} opponent was secretly counting on the exploit to win, and without it {0.SimFirstName} wins easily.
+{0.SimFirstName} tosses the job to {M0.his}{F0.her} co-worker like a hot potato. It’s a nice thought until {M0.his}{F0.her} boss catches on. After a rather long speech about challenge, opportunity and the QA mindset, {0.SimFirstName} is sent back to orientation.
+Just as {0.SimFirstName} thought, {M0.his}{F0.her} Co-worker is thrilled at the opportunity to show off his bug-crushing prowess, setting aside hours to catalog the last detail of every bug. Win for him, and win for {0.SimFirstName}, who would rather be doing not that.
+Confront Foul Boy
+Spray the Air
+Step Up
+Pack It In
+Pitch It Elsewhere
+Keep Original Concept
+Mute It
+Boot It
+Sell the Table
+Lay Down the Law
+Success! {0.SimFirstName} totally crushes {M0.his}{F0.her} opponent, wowing the crowd. The studio will almost certainly remove the exploit now, but everyone sees {0.SimFirstName}'s use of it as strategic. They start calling it &quot;{0.SimFirstName}'s Gambit.&quot;
+Ouch! It doesn't take long for the crowd to discover {0.SimFirstName}'s use of the exploit, and they do not like it. The officials actually stop the game for unsportsmanlike play, and ban the 'sploit. Without {M0.his}{F0.her} one weird trick, {0.SimFirstName} is easily beaten by {M0.his}{F0.her} opponent, much to the crowd's delight.
+Engage the Investor
+Continue the Pitch
+{0.SimFirstName} has been invited to speak on a panel at a local industry event. But when the moderator introduces {0.SimPronounObjective}, she messes up {0.SimFirstName}’s name and the name of {M0.his}{F0.her} former company. {0.SimFirstName} can either correct her, or let it slide.
+{0.SimFirstName} sees that the next customer in the chat queue is an old flame of {M0.his}{F0.hers}, and things didn’t exactly end prettily. The other agents are tied up. Should {M0.he}{F0.she} respond to the chat request or pretend not to notice?
+The CFO at {0.SimFirstName}’s company is embroiled in a huge, public WooHoo scandal, and reporters accuse him of using company funds to pay for inappropriate services. {0.SimFirstName} can try to defuse the situation by brushing off the accusations, or agree to investigate {M0.his}{F0.her} colleague’s records.
+Bug Reports
+{0.SimFirstName} has just noticed a section of software that is riddled with bugs. {M0.He}{F0.She} can buckle down and report them all by {M0.himself}{F0.herself}, or convince {M0.his}{F0.her} zealous Co-worker to do it.
+A co-worker is on hour 17, energy drink 24, and it’s starting to get ripe in the QA pit. Seeing as no one is going home anytime soon, {0.SimFirstName} can play this two ways: whip out the {M0.men’s body spray}{F0.lavender air freshener} or tell Foul Boy next to {M0.him}{F0.her} to go wash up.

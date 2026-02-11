@@ -1,0 +1,100 @@
+Click on the Computer, select Comedy, and select any Routine.
+Compose a Comedy Routine
+Compliment {2.SimFirstName}
+Click on a Sim and select Compliment Appearance from the Romantic category.
+Compliment Someone
+Click on a Sim and select Compliment Outfit under the Friendly category. Sims can unlock this social by increasing their Charisma Skill.
+Compliment Someone
+From a single idea to a masterpiece. Let your creativity flow!\n\nGo to the Aspiration panel to Select New Aspiration. Choose any aspiration under Creativity.
+Complete any Creative Aspiration
+Click on the Computer and select Start Side Job under the Program category. Sims can unlock this interaction by increasing their Programming Skill.
+Complete a Side Job on the Computer
+Click on a Sim and select Complain about Problems from the Friendly category. Sims can perform this Social while Embarrassed, Sad, or Stressed.
+Complain about Problems
+Click on a Sim and select Complain About Love Life from the Friendly category.
+Complain about Love Life
+Click on {1.SimFirstName}'s significant other and select Break Up.
+Post cards can be collected by selecting Find a Pen Pal on the Computer.
+Collect a New Crystal
+Space Rocks can be found by using the Rocket Ship!
+Collect a New Space Rock
+Space Prints can be discovered by using the Observatory.
+Collect a New Space Print
+Collect a New Post Card
+Microscope Prints can be discovered by taking samples of other Collectibles and analyzing them using the Microscope.
+Collect a New Microscope Print
+Metals can be found by selecting Dig on special rocks.
+Collect a New Metal
+Frogs can be found by selecting Look for Frogs on special logs and pumps.
+Collect a New Frog
+Fossils can be found by selecting Dig on special rocks.
+Collect a New Fossil
+Crystals can be found by selecting Dig on special rocks.
+Find a New Collectible somewhere in the Neighborhood. Collectibles can be found by looking under logs, digging under rocks, and using the Observatory.
+Find a Collectible
+Click on a dirty object and select Clean.
+Click on a Sim and select Tell Make Believe Story under the Friendly category. Child Sims can unlock this social by increasing their Creativity Skill.
+Tell a Make Believe Story
+Talk with Giant Stuffed Animal
+Click on the Giant Stuffed Animal and select Talk.
+Click on a Bed with a Monster under it and select Talk to Monster Under the Bed.
+Talk to Monster Under The Bed
+To increase {1.SimFirstName}'s Social Skill, have {M1.him}{F1.her} talk to other Sims or Toys.
+Level up in Social Skill
+To increase {1.SimFirstName}'s Motor Skill, have {M1.him}{F1.her} Practice Typing on the Computer or Play on the Monkey Bars.
+Level up in Motor Skill
+To increase {1.SimFirstName}'s Mental Skill, have {M1.him}{F1.her} Play Chess or perform other intellectual tasks.
+Level up in Mental Skill
+To increase {1.SimFirstName}'s Creativity Skill, have {M1.him}{F1.her} Play with Toys or create something using the Activity Table.
+Level up in Creativity Skill
+Discuss Fractions
+Child Sims can unlock this social interaction by increasing their Social Skill.
+Talk about School Day
+Reference Pop Culture
+Click on a Sim and select Talk about School. Child Sims can unlock this social by increasing their Social Skill.
+Click on {2.SimFirstName} and select a Social from the Mischief category.
+Prank {2.SimFirstName}
+Click on the Computer and select Practice Typing.
+Practice Typing
+Click on the Toybox to Play with Toybox Toys.
+Play with Toybox Toys
+Click on the Giant Stuffed Animal and select Play.
+Play with Giant Stuffed Animal
+Click on the Dollhouse to Play Dolls.
+Play with the Dollhouse
+Click on a Bed with a Monster under it and select Play With Monster Under the Bed.
+Play With Monster Under the Bed
+Click on the Space Ship Jungle Gym to Play on it.
+Play on the Spaceship
+Click on the Pirate Ship Jungle Gym to Play Pirate.
+Play Pirate
+Click on the Monkey Bars and select Hang Out or Play.
+Play on the Monkey Bars
+Click on the Computer and select Play Keyboard Commander! Child Sims can unlock this interaction by increasing their Motor Skill.
+Play a Typing Game
+Click on the Computer and select Play Arithmetic Attack! Child Sims can unlock this interaction by increasing their Mental Skill.
+Play Arithmetic Game
+Click on {2.SimFirstName} and select Help with Homework.
+Help {2.SimFirstName} with Homework
+Click on the Monkey Bars and select Hang Out.
+Hang Out on the Monkey Bars
+Click on the Activity Table and select any type of Drawing.
+Draw Something
+Click on a Sim and select Discuss Fractions under the Friendly category. Child Sims can unlock this social by increasing their Mental Skill.
+Click on the Science Table,  select Create Potion, and select any potion type.
+Create Potion
+Click on {2.SimFirstName} and select a Social from the Friendly category.
+Maybe there are more answers in a book. Certainly someone has experienced this before.\n\nYou can read a book about magic photo lens from bookshelves.
+{0.SimFirstName} envisioned a new adventure, projecting {0.SimPronounReflexive} into the role of the toys {0.SimPronounSubjective} played with. Another great moment of bonding and friendship with {0.SimPronounPossessiveDependent} Stuffed Animal friend.\n\nBut now, {0.SimPronounSubjective} {S0.is}{P0.are} getting sleepy from all the excitement from today...
+A child Sim needs to first open the Toybox and place a Toy in their inventory.\n\nThen, they can select it in their inventory and play with it.
+Play with a Toy from the Toybox
+It's fun to watch cats play! They chase everything including lasers, their eyes get wide, and their tails wiggle.\n\nSelect a cat and choose to Play with Laser Pointer.\n\nThis optional goal requires &lt;i&gt;Cats &amp; Dogs Expansion Pack&lt;/i&gt; to complete.
+Play with Your Cat Using a Laser Pointer
+It feels a little different without your stuffed companion by your side, but give it a try.\n\nMake sure no stuffed animal is near a Toybox, then play with a toy from a Toybox. Also, make sure a Stuffed Animal is on the lot.
+{0.SimFirstName} played and had a good time. No stuffed animal nearby this time, and it did feel different. But {0.SimPronounSubjective} {S0.was}{P0.were} ok with it. It's as though it was meant to be this way.
+Play with the Toybox without a Stuffed Animal Nearby
+The last play session ended, and although it took a lot of energy, {0.SimFirstName} just doesn't feel tired. {0.SimPronounSubjective|xxUpper} could go on for more, but there are a few things left to do.
+Your Stuffed Friend is calling for an adventure!\n\nSelect a Stuffed Animal and select Play.
+Play with a Stuffed Animal
+Sylvan Glade was a great place to hang out and play new games!
+Play with a Stuffed Animal in Sylvan Glade

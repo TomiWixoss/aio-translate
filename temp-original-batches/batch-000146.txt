@@ -1,0 +1,100 @@
+Save Role
+How would you like to save this role?
+Save Over Existing Role
+Cannot Save as new role, from already reaching max number of Sims {0.Number}
+Save as New Role
+Reset to Default Role Activities
+Reset Changes
+Do you wish to reset changes? If you reset, the changes to activities and outfit in this time slot will default back to it's original.
+You've reached the max {0.Number} Roles allowed in this Schedule.
+Role Library
+Select Role...
+Remove role from current timeslot
+Remove {0.String}
+Are you sure you wish to remove the role {0.String} from this time slot? Doing so will not affect any other time slots, and the role will still remain under the Current Roles panel.
+Current Roles
++ Create Role
+Remove role from timeslot.
+Clear {0.String}?
+Are you sure you wish to remove this role {0.String} from current timeslot?
+There's already an instance of this role in this time slot.
+Total Sims: {0.Number}/{1.Number}
+{0.TimeShort}
+Timeslots must be at least 3 hours. This time is already covered by another timeslot.
+Switch with the {0.TimeShort} Timeslot
+Start Time
+Remove
+Cannot add a new role to this timeslot until a preset has been specified for the existing one.
+&lt;font color=&quot;#EC262E&quot;&gt;This timeslot is missing a valid household Sim!&lt;/font&gt;\n\nMake sure the &lt;b&gt;Current Roles&lt;/b&gt; panel has a valid household Sim assigned to a role, then add that role to this timeslot.
+You have reached the maximum amount of roles for this timeslot.
+{0.TimeShort} time slot:
+&lt;font color='#FF0000'&gt;Changing to this start time will shift all scheduled timeslots up by 1 hour.&lt;/font&gt;
+{0.TimeShort}: {1.String}
+At least one household Sim is assigned to timeslot.
+\nToo many Sims requested across all roles in this time slot.
+&lt;font color='#EC262E'&gt;One or more Sims are assigned to multiple roles during this timeslot.&lt;/font&gt;\n\nTo avoid conflicts, remove any duplicate assignments below:
+Delete this timeslot
+Delete {0.TimeShort} Timeslot?
+Are you sure you wish to delete the entire {0.TimeShort} timeslot? This action cannot be undone.
+Delete Activity
+&lt;font color='#FF0000'&gt;Changing to this start time will shift all scheduled timeslots back by 1 hour.&lt;/font&gt;
+Select Behavior
+Plan out what Sims will be doing throughout the day! A Custom Venue's schedule is divided into timeslots, and during each one, both a &lt;b&gt;Main Activity&lt;/b&gt; and &lt;b&gt;Role activities&lt;/b&gt; can be set.\n\nThe Main Activity sets the tone and guides what Sims on the lot will naturally do during that time. Role activities give individual Sims something more personalized to do based on their role in the event. Keep in mind each timeslot must last at least 3 hours.
+Plan out what Sims will be doing throughout the day! A Getaway's schedule is divided into timeslots, and during each one, both &lt;b&gt;Main Activity&lt;/b&gt; and &lt;b&gt;Role activities&lt;/b&gt; can be set.\n\nThe Main Activity sets the tone and guides what Sims on the lot will naturally do during that time. Role activities give individual Sims something more personalized to do based on their role in the event.\n\nAny changes made to a role that differ from its default Role activities will be marked with a yellow dot! To save your changes as a new role or existing, select &lt;b&gt;Save Role&lt;/b&gt; in the timeslot.
+No available times at which to add a new timeslot.
+Add new timeslot to schedule
+Add Timeslot
+Add role to current timeslot
+Add Role
+Main Activity
+View Role
+&lt;font color=&quot;#EC262E&quot;&gt;No valid household Sim is assigned to any role!&lt;/font&gt;\n\nSelect a Sim portrait below to assign at least one household Sim into a role for this Getaway.
+Household Sim is assigned to at least one role.
+Assign Sims &amp; Customize Role
+Cannot create a new role, you have reached the max number of {0.Number} roles.
+Create Role
+Pick Sims to assign to this role
+Outfit
+Select Role Outfit
+Choose what Sims in this role should wear during their scheduled activities.
+Customize Role Outfit
+If selected, this timeslot will use the same Role Activities set for this role in the Scheduled Roles Library.
+Inherit from Preset
+Details
+Delete Activity
+x{0.Number}
+Cannot edit until a role preset has been selected.  Until then this timeslot will behave as a &quot;blank&quot; period..
+Cannot edit roles in the Library.
+Add Role Activity
+Select Activity
+Activities
+Set the default activities for this role. These can be adjusted later in the schedule for each timeslot.
+Completed {0.String}
+Tagged
+My Sims 4 Screenshot
+Screenshots are stored here, but none have been captured yet.
+Don't show this dialog again
+Memory Details
+Screenshot Capture Manager
+Screenshot Details
+Are you sure you want to delete this screenshot? This will also delete the memory.
+Delete Screenshot?
+Screenshot Captured
+View Screenshot
+View Memory
+View Screenshot Manager
+Remove Sim from Memory
+Share Screenshot to Twitter
+Remove Memory
+[Cannot Reminisce since this memory has no applicable mood]
+Have Sim reminisce on the Memory.
+Recall Tagged Sims
+Make Memory
+Make {0.String}
+Guam
+Guadeloupe
+Grenada
+Greenland
+Greece
+Gibraltar
+Ghana

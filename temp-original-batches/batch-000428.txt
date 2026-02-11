@@ -1,0 +1,100 @@
+Based on their Likes and Dislikes, these Sims have &lt;b&gt;bad social compatibility&lt;/b&gt;. Their affinity from the start won't be great, but it could certainly be worse. While building a friendship will be a challenge for them, that doesn't mean it's not worth trying!
+Awful Compatibility
+Oh no! Based on their Likes and Dislikes, these Sims have &lt;b&gt;awful social compatibility&lt;/b&gt;. To grow this relationship, both Sims will need to put in more effort than usual as they seek to overcome their many differences.
+Unknown Attraction Level
+There needs to be more information to tell how this Sim feels. Get to know them better, and you can ask.
+{0.SimFirstName} is running away!\n\n{M0.He}{F0.She} will make {M0.his}{F0.her} way home eventually, but posting an alert via computer or phone can help find {0.SimPronounObjective} sooner.
+{0.SimFirstName} has run away and cannot be called right now.
+Purple
+Violet
+Crimson
+Red
+Warmer White
+Warm White
+Neutral White
+Cool White
+Red Orange
+Orange
+Yellow Orange
+Yellow
+Yellow Green
+Green
+Aqua
+Blue
+Cooler White
+Gold
+All Seasons
+&lt;font color='#AE3CDE'&gt;Enchanted ({0.TimespanShortCondensed})&lt;/font&gt;
+Blighted {0.String}
+Power utility usage is disabled
+Water utility usage is disabled
+&lt;font color='#ec262e'&gt;This item cannot be sold or deleted.&lt;/font&gt;
+The original location is not on this lot.
+The original location is not routable.
+Stolen From: {0.String}
+Stolen from the {0.String} household
+No Buyer
+Selling Price: No Offers Yet \nExpiration Time: {1.DayOfWeekLong} \nBuyer: No Buyers Yet
+Selling Price: {0.Money} \nBuyer: {2.String} 
+No Buyer
+Rarity
+Freshness
+Gardening Quality
+Crafted Quality
+Trendi
+Sold
+Listed
+Available To List
+Sim-Crafted
+Plopsy
+Sold
+Listed
+Available To List
+Collectibles
+Junk
+Parts
+Special Items
+Knitted Crafts
+Other Crafts
+Woodworks
+Photographs
+Crafted Books
+Crafted Artwork
+Story Items
+Education Items
+Career &amp; Activity Items
+Home &amp; Skill
+Objects for Little Ones
+Home Objects
+Decoration Objects
+Skill-Building Objects
+Scraps
+Other Gardening
+Cannot be purchased
+This design does not require a crystal
+(From Worn Jewelry Losing Charge)
+(From Wearing Charged Amazonite)
+(From Wearing Charged Orange Topaz)
+(From Wearing Charged Rainborz)
+(From Wearing Charged Emerald)
+(From Wearing Charged Sapphire)
+(From Wearing Charged Shinolite)
+(From Wearing Charged Jonquilyst)
+(From Wearing Charged Amethyst)
+(From Wearing Charged Jade)
+(From Wearing Charged Jet)
+(From Wearing Charged Amber)
+(From Wearing Charged Ruby)
+(From Wearing Charged Plumbite)
+(From Wearing Charged Fire Opal)
+(From Wearing Charged Rose Quartz)
+(From Wearing Charged Turquoise)
+(From Wearing Charged Alexandrite)
+(From Wearing Charged Alabaster)
+(From Wearing Charged Quartz)
+(From Wearing Charged Hematite)
+(From Wearing Charged Moonstone)
+(From Wearing Charged Crandestine)
+(From Wearing Charged Peach)
+(From Wearing Charged Diamond)
+(From Wearing Charged Simanite)

@@ -1,0 +1,100 @@
+Knitting project complete! Look in {0.SimName}'s inventory to see {M0.his}{F0.her} new creation.
+(From Liking Knitting)
+(From Disliking Knitting)
+Kick
+Kick
+Return Stolen Object
+{0.SimFirstName} has returned the stolen object to its rightful owner.
+Spacewalk
+Join Space Adventure
+You can only do this while there are kids playing on the Jungle Gym!
+Join Pirate Adventure
+Sit on Sleeping Bag
+Lounge
+Sit
+Sit
+Rock
+(From Rocking in a Rocking Chair)
+Sit on Playmat
+Sit in Crib
+Lay on Stomach on Playmat
+Lay on Stomach in Crib
+Lay on Back on Playmat
+Lay on Back in Crib
+Play In
+What's That?
+Move Away
+To sail, place the vessel in your inventory and select Sail on any swimmable water. If your house is by the sea, you can also place the vessel close to water in Build Mode.
+Sit on {1.ObjectName}
+Stand In Fountain
+Sit in Hot Tub
+Pick Up Serving
+Continue Upgrading Self-Cleaning
+Continue Upgrading Non-Stick Pot
+Continue Upgrading Infuser
+This Upgrade keeps the brewer cleaner longer.
+Add Self-Cleaning
+Less stick means less to clean up
+Add Stick-Free Pot
+For the coffee lovers who want better tasting coffee
+Add Infuser
+Upgrade complete!\n\n{0.SimFirstName} has finished installing the brewer upgrade.
+Clean with Vigor
+Energized Sims can clean much faster!
+This object cannot be used when on the ground.
+(From Disliking Dancing)
+(From Liking Dancing)
+(From Disliking Cooking)
+(From Liking Cooking)
+(From Spectral Spritzer)
+Eat
+Nourish the Body
+{0.SimFirstName} is only temporarily a Ghost and can't consume Ambrosia.
+Eat and Learn Experimental Food
+(From Natural Well Lot Trait)
+The sippy Cup is empty.
+The sippy cup is empty.
+Drink
+On Horseback
+(From Liking Mixology)
+(From Disliking Mixology)
+{0.SimFirstName} has gathered as much snow as they can for now. Try again later.
+{0.SimFirstName} has gathered as much water as they can for now. Try again later. 
+This is a Wild {0.ObjectName}.
+Babble
+Talk
+Hire Professional Gardener
+Talk to Plant
+Talk About Dirt
+Tell Story About Bed Bugs
+Ask How the Sun Tastes
+Ask About Worms
+Ask if Lonely
+Drag this item into the world or a planter to run this interaction
+Sim will plant all nearby seeds, if there are any on the lot.
+Plant
+It's too cold to plant!
+Plant
+It's too cold to do this.
+Mischievous pixies are preventing {0.SimFirstName} from approaching this plant.
+This plant does not have weeds.
+Weeding
+Weed Area
+Weed All
+Weed
+Clear the overgrowth from those plants with weeds to improve their health.
+Weed
+Water with Tears
+Water Plant
+This plant does not need water.
+Watering Plant
+Water All
+Water
+Hose down those plants in need of water.
+Vigorously Guarantee Plant Life's Future
+Tending Garden
+Inspecting Garden
+Tend Garden
+No plants need tending at the moment.
+Tending will take care of every plant’s individual wants, but only when needed.
+Talk to Plant

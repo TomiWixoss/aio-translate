@@ -1,0 +1,100 @@
+[Redacted]
+After hitting a ceiling with the Good Guys, {0.SimFirstName}’s trying {M0.his}{F0.her} hand at some Evil. Hey, that’s where the real money is! If it works out, {M0.he}{F0.she} may switch over to Evil full time....
+Double Agent
+In the world of a spy, every stranger is a potential assassin. Every situation is a potential ambush. Fueled with adrenaline, {0.SimFirstName} lives fast and lives dangerously. {M0.He}{F0.She} also wears a lot of cool disguises. 
+Secret Agent
+{0.SimFirstName} feels a deep sense of patriotism serving the greater good. {M0.He’s}{F0.She’s} protecting {M0.his}{F0.her} countrymen from harm, performing a vital public service. Once these feelings wear off, {M0.he}{F0.she} can head back into the private sector and actually make some money.   
+Government Agent
+Running major cases is just like running any mid-size organization. It’s all about managing personnel, budgets, and the bottom line. The big difference is that if {0.SimFirstName} fails, the world blows up.  Other than that, it’s pretty much the same.  
+Lead Detective
+According to movies, as a field agent {0.SimFirstName} should immediately expect to go undercover to infiltrate a religious cult, street racing ring, or beauty pageant. Until then {M0.he’ll}{F0.she’ll} be interviewing a lot of tinfoil hat-wearers about the radio transmitters implanted in their teeth. Allegedly. 
+Field Agent
+Run. Duck. JUDO CHOP THAT BAD GUY RIGHT NOW. {0.SimFirstName} loves giving orders. {M0.His}{F0.Her} agents will feel safe in {M0.his}{F0.her} capable hands, and {M0.he}{F0.she} can feel fulfilled being able to live {M0.his}{F0.her} spy fantasies vicariously through their adventures.  
+Agent Handler
+ Friendly Interactions ({0.String})
+{M0.His}{F0.Her} security clearance is pretty low, but {0.SimFirstName}'s still learning some cool secrets. Since {0.SimFirstName}'s been analyzing intelligence, {0.SimFirstName}'s learned the real speed limit, a code word that allows {0.SimPronounObjective} to use any employees-only restroom, and the truth about the moon landing in the 30’s. 
+Intelligence Researcher
+Before {0.SimFirstName} can conduct international espionage and eliminate targets, {M0.he’s}{F0.she’s} got to process some expense reports. And answer some phones. The occasional bagel run.... Exciting stuff!
+Agency Clerk
+Besides getting to wear a ton of incredible formalwear and sip drinks with perilously attractive strangers, {0.SimFirstName} also gets to gamble at foreign casinos with agency money. Being an international superspy is exactly as amazing as it sounds.
+Double Diamond Agent
+The day that {0.SimFirstName} made Shadow Agent, they took away {M0.his}{F0.her} thumbprints and driver’s license. {M0.He’s}{F0.She’s} a ghost, a specter, a silent entity slipping through motion-detecting security systems and floating through embassies. And sometimes doing a little light paperwork.
+Shadow Agent
+These young agents today, they don’t even understand how tough it was in the old days. Why, when {0.SimFirstName} assassinated {M0.his}{F0.her} first target, {M0.he}{F0.she} had to bury the body {M0.himself}{F0.herself}. With {M0.his}{F0.her} hands! Kids today, they’ve got it too easy. 
+Spy Captain
+{0.SimFirstName} has boldly painted {M0.his}{F0.her} way into a career in studio art—mastering still life, figure study, interior space, and the fine art of disdain for anyone living in mainstream society.
+Imaginative Imagist
+{0.SimFirstName} has landed a spot in an elite local painter's group, and {M0.his}{F0.her} portfolio is growing quite large! Maybe {M0.he}{F0.she} should try building {M0.his}{F0.her} portfolio with photographs instead of the original paintings....
+Canvas Creator
+{0.SimFirstName} is now a working artist! At least {M0.he}{F0.she}'s working a booth at a local art fair, where patrons are haggling down the price of {M0.his}{F0.her} watercolored landscapes. But the words &quot;work&quot; and &quot;artist&quot; are coming closer together. And that's a good sign!
+Watercolor Dabbler
+Being a hungry artist isn't about literal hunger. It's about {0.SimFirstName}'s burning passion to create an artistic expression that can change people's lives! (It's also about literal hunger.)
+Hungry Artist
+Saving up for art school supplies means working at the art school library. Unfortunately, the books must be re-shelved by number, and no one sees the genius in {0.SimFirstName} re-shelving them by complementary color. Visionaries are often misunderstood.
+Art Book Collator
+To create great art, one must suffer. {0.SimFirstName} is well on {M0.his}{F0.her} way to greatness, as {M0.he}{F0.she} will be asked to create floor-based installations using a water-based medium (i.e. mopping the floor).
+Palette Cleaner
+{0.SimFirstName}'s private collection has gained such widespread fame that {M0.he}{F0.she} now spends {M0.his}{F0.her} days negotiating with museums that want to display it. As long as they each build the &quot;{0.SimFirstName} Wing&quot;, with a bronze plaque of {0.SimFirstName}'s face, no problem!
+Patron of the Arts
+With a reputation like {0.SimFirstName}'s it's no wonder the museum would settle for no one else to curate their contemporary art collection. {0.SimFirstName} is a scholar and a master of unconventional work. That neon-boxer-shorts-displayed-in-a-bouncy-castle exhibit? Genius!
+Composition Curator
+Beauty is in the eye of the beholder, but money is in the eye of the appraiser. {0.SimFirstName} draws on {M0.his}{F0.her} significant training to determine the value of fine art, letting others know that not every paint-covered canvas is created equal.
+Fine-Art Aficionado
+{0.SimFirstName} now spends equal amounts of time improving {M0.his}{F0.her} own technique and politely suggesting how other artists can improve theirs. It allows interaction with the greatest talents of this generation, even if those interactions are sometimes prickly.
+Color Theory Critic
+Students now flock to {0.SimFirstName}, hoping to glean even a bit of the technique that has made {M0.his}{F0.her} artwork so popular. Time to pass on what {M0.he}{F0.she} has learned to the next generation, or just wave {M0.his}{F0.her} paintbrush and sigh, &quot;Hopeless!&quot;
+Master of the Real
+Professional illustrator is a challenging role. {0.SimFirstName} controls the final visual, but does not control the subject matter. Whether it's a famous historical figure or a cartoon squirrel, {M0.he}{F0.she} is up to the task! 
+Illustrious Illustrator
+{0.SimFirstName} just hung some work in the hottest gallery in town! And it's actually {M0.his}{F0.her} work this time! This is a wonderful achievement for any artist.
+Professional Painter
+Winning this artist residency is a true honor! Not everyone gets to work in an unheated barn loft for free. What a great way for {0.SimFirstName} to experience a slice of life {M0.he}{F0.she} would never actually choose! 
+Artist en Residence
+Okay, so... Not every child is going to get school right away. Don’t worry! Every student starts somewhere, and with a little effort {0.SimFirstName} will bring those grades up in no time. Even writing {M0.his}{F0.her} name on the test is worth a few points!  
+We're a hot new Sillisim Valley startup, and we need to make a splash with an eye-grabbing professional logo before raising further capital in our Series B funding round. Look, don't get bogged down in the details... This is a simple job. And don't even think about asking to get paid in stock grants (fat chance we'll give an artist equity before our eventual record smashing IPO.) You give us a hot logo; we give you Simoleons.
+Icons for Sims Forever
+Things have been going exceptionally well for The Sims Studio, having launched our title &quot;Sims Forever&quot; nearly 5 years ago. Fans of the game are clamoring for something new though, and we're getting to work on yet another expansion pack for the seminal title. Can you help take Sims Forever to the next level? We need to outsource icon art to someone who's proficient at visualizing moodlets, headlines, whims, traits, aspirations, and more with minimal guidance. Get in the game!
+&lt;font color=&quot;#0949AB&quot;&gt;Pay:&lt;/font&gt;&lt;font color=&quot;#10A317&quot;&gt; {0.Money}&lt;/font&gt;\n&lt;font color=&quot;#0949AB&quot;&gt;Due By:&lt;/font&gt;&lt;font color=&quot;#10A317&quot;&gt; {2.DayOfWeekShort} {2.TimeShort}&lt;/font&gt;\n&lt;font color=&quot;#0949AB&quot;&gt;{3.String}&lt;/font&gt; {4.String}
+Required Skill:
+Painting Level 1
+The Perfect App Icon
+We've developed the last mobile app you'll ever need. Seriously - it's a bold statement, but we're just that confident. In the near future, sims will constantly be on their phones, finding themselves absolutely hooked to power we'll put in the palm of their hand. There's just one final component we need before we can launch... the perfect app icon that will make our app stand head and shoulders above all others on the mobile store. Are you the expert iconographist we've been searching for?
+'Underground' Art Collector
+How do you feel about the reappropriation of famous paintings held in private collections? Moral gray area, or justified usage of artistic skill? I'm not talking about stealing anything... just a little forgery my friend! Let's be straight; if you're going to be a Debbie Do-Gooder - don't bother applying. But if you're willing to roll up the sleeves on your smock-frock and get painting, then we've got a job for you.
+Art Dealer Escapades
+Art dealer looking for a temporary associate to assist with a business deal. Must be highly skilled in painting. No questions asked. &lt;u&gt;No cops.&lt;/u&gt;
+&lt;font color=&quot;#0949AB&quot;&gt;Pay:&lt;/font&gt;&lt;font color=&quot;#10A317&quot;&gt; {0.Money}&lt;/font&gt;\n&lt;font color=&quot;#0949AB&quot;&gt;Due By:&lt;/font&gt;&lt;font color=&quot;#10A317&quot;&gt; {2.DayOfWeekShort} {2.TimeShort}&lt;/font&gt;\n&lt;font color=&quot;#0949AB&quot;&gt;{3.String}&lt;/font&gt; {4.String}
+Required Skill:
+Painting Level 4
+100% Definitely Legal Job
+Hi friend, are you a skilled artist? Do you know how to keep your mouth sh... Sorry, do you know how to keep sensitive information privy to interested parties? This gig requires utmost professionalism, and we define professionalism as someone who doesn't ask too many ques... Whoops, there I go again. Don't mind me! Professionalism to us is someone who can work on a 'need to know' basis. Still interested?
+Sci-Fi Film Matte Paintings
+Hey there creative genius! Yes, you! Have you been toiling away unpaid and unnoticed on the sci-fi spec art of your dreams? Plumbob Pictures is in need of a concept artist to envision the landscape of an alien planet for an upcoming blockbuster film. Enlist today!
+World Exploration
+Sorry space cadets; this is not an opportunity for astronauts. No, we're seeking someone that sees themselves as both an artistic luminary and a pragmatic painter. Someone with the vision to imagine new worlds, the skill to put their ideas to canvas, and one that's come to the sobering realization that art for art's sake doesn't pay the bills. Accepting this gig means taking our design doc and visualizing it as an exciting new world for a brand new video game intellectual property.
+&lt;font color=&quot;#0949AB&quot;&gt;Pay:&lt;/font&gt;&lt;font color=&quot;#10A317&quot;&gt; {0.Money}&lt;/font&gt;\n&lt;font color=&quot;#0949AB&quot;&gt;Due By:&lt;/font&gt;&lt;font color=&quot;#10A317&quot;&gt; {2.DayOfWeekShort} {2.TimeShort}&lt;/font&gt;\n&lt;font color=&quot;#0949AB&quot;&gt;{3.String}&lt;/font&gt; {4.String}
+Required Skill:
+Painting Level 8
+Kick-started Catastrophe
+Help! We're a small indie studio that recently went through a crowdfunding platform to launch development of our newest video game. There's just one problem... We're lacking a talented concept artist to map out our world, which is leaving our environment artists sitting around with nothing to do! Can you help unjam our production schedule? Cash on delivery!
+Movie Character Concepts
+The Plumbob Pictures character designers are on strike... again. But, their loss can be your gain. Our film producers are desperate to get their latest film production back on track. The job is simple; study the director's designs, and use your artistry to make larger than life characters that leap off the script's page!
+Character Designs for AAA Game
+Contractor character design gig available for AAA game production. This exciting opportunity comes with the chance to get credited &lt;i&gt;and&lt;/i&gt; paid! The publisher is under the gun to get this major release out prior to the end of the fiscal year, so they'll pay top dollar to any artist who can crank out top notch character designs that meet their exacting design specifications. Now get crunching!
+&lt;font color=&quot;#0949AB&quot;&gt;Pay:&lt;/font&gt;&lt;font color=&quot;#10A317&quot;&gt; {0.Money}&lt;/font&gt;\n&lt;font color=&quot;#0949AB&quot;&gt;Due By:&lt;/font&gt;&lt;font color=&quot;#10A317&quot;&gt; {2.DayOfWeekShort} {2.TimeShort}&lt;/font&gt;\n&lt;font color=&quot;#0949AB&quot;&gt;{3.String}&lt;/font&gt; {4.String}
+Required Skill:
+Painting Level 7
+Indie Game Characters
+Indie video game studio with an indie budget seeks an independent artist whose passion outweighs their desire for a big payday. That's not to say you won't be paid... Don't worry; this isn't spec work. We're just looking for someone who wants to be a part of our vision, and can work under our specific budgetary guidelines while still creating compelling characters. Does that sound like you? Sign up today!
+Nectar &amp; Painting Class
+&lt;i&gt;&quot;Ain't no party like a painting party 'cause a painting party don't stop.&quot;&lt;/i&gt;\n\n...at least, that's our motto. What's yours? If it's fun, and involves painting, then you might just be the perfect fit for our Nectar &amp; Painting gig! Come lead a class, have a drink, share some laughs, and get paid.
+Painting 101 Substitute
+Substitute art professor wanted - post haste! Can you paint? Do you have a modicum of public speaking skills? Are you able to maintain your composure when your authority is inevitably challenged? If you answered yes, yes, YES, then it's your lucky day to get paid. Please bring an original painting whose fundamental composition can be taught, and report to the dean's office for classroom assignment.
+&lt;font color=&quot;#0949AB&quot;&gt;Pay:&lt;/font&gt;&lt;font color=&quot;#10A317&quot;&gt; {0.Money}&lt;/font&gt;\n&lt;font color=&quot;#0949AB&quot;&gt;Due By:&lt;/font&gt;&lt;font color=&quot;#10A317&quot;&gt; {2.DayOfWeekShort} {2.TimeShort}&lt;/font&gt;\n&lt;font color=&quot;#0949AB&quot;&gt;{3.String}&lt;/font&gt; {4.String}
+Required Skill:
+Painting Level 3
+Young Artists Camp Demonstration
+We're inspiring tomorrow's artists, today. That's our mission statement... There's just one problem; we can't paint! We're urgently seeking a talented artist to demonstrate their skills to a camp of naturally gifted children. 
+{0.SimFirstName} has been recognized for great performance and client satisfaction! Dealing with the fickle clients and finger cramps were worth it in the end. In addition to raising {F0.her}{M0.his} rate, {0.SimFirstName} also received rewards!\n\n{7.String}
+{0.SimFirstName} is absolutely outstanding! Clients always leave fantastic reviews and express great interest in working with {0.SimPronounObjective} again. {F0.Her}{M0.His} pay rate has been raised!
+Generic Freelancer Gig Success End TNS [Not player facing]

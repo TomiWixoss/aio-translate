@@ -1,0 +1,100 @@
+Room not found.
+Max roof slope exceeded.
+Lot quarantined.
+Lot is not editable
+Cannot build below ground level on waterfront lots
+Can't place outside the boundary of the lot.
+Internal error.
+Can't place walls or rooms above the fourth floor.
+Unable to build below minimum level.
+Couldn't update ladder.
+Top of ladder is off lot.
+Top of the ladder isn't aligned to the grid.
+Ladders can't be more than one tile wide
+Ladders must be at least one meter tall.
+Ladders need ground or floor at the top.
+Ladders need ground or floor at the bottom.
+Ladder top must be connected to a block or terrain.
+Ladders must connect to floor.
+Missing ladder resource.
+Ladders have invalid game object.
+The side of the ladder isn't aligned to the grid.
+Ladders have no steps.
+Invalid placement at top of ladder.
+Ladders can't be placed in terrain.
+Ladders cannot be placed in Swimmable Water.
+Invalid placement at bottom of ladder.
+Ladders cannot have multiple stages.
+Bottom of ladder is off lot.
+Invalid ladder length.
+Ladders must be one tile wide.
+Ladders can't be placed under water area.
+Ladders can't be placed in water.
+Ladder cannot intersect with Stilt Foundation.
+Inventory manager not found.
+Invalid zone.
+Invalid Terrain Constraints
+Object cannot be rotated this way
+Invalid product.
+Invalid operation.
+Invalid op data.
+Invalid object definition.
+Invalid object.
+Invalid rounded piece.
+Invalid lot.
+Invalid facet.
+Invalid Diagonal Intersection
+Invalid room shape.
+Invalid room shape.
+InvalidBlockPolygonOverlap
+Invalid Rounded Piece Intersection
+Invalid rounded room.
+Room identifier not found.
+Invalid room data.
+Insufficient wall width for placement.
+Insufficient wall height for placement.
+Insufficient Funds.
+Cannot apply in conjunction with Stilt Foundations.
+Incompatible With Terrain Constraint TerrainTile
+Incompatible With Terrain Constraint Stair
+Incompatible With Terrain Constraint Roof
+Incompatible With Terrain Constraint LotEdge
+Incompatible With Terrain Constraint Block
+This object doesn't fit in this slot size.
+You can't move an object that you don't own.
+Illegal client op generation
+Illegal vertical wall adjacency.
+Move House tool requires a room.
+House move may not overlap existing houses.
+Generic Failure
+Frieze height is too tall for this wall.
+Must be at least 1 tile wide.&#xD;&#xA;
+All-new Spooky Candy Bowl
+Trendy casual apparel &amp; hairstyles
+Cool kitchen appliances &amp; furnishings
+All-new ice cream maker
+Dress for a day out in the sun
+Set-up the perfect pool-side BBQ
+Relax in the all-new Hot Tub
+Dress to impress
+Party in Style, Live in Luxury
+Collect Ancient Artifacts
+Discover a Hidden Temple
+Explore the Jungle
+Venture to Selvadorada
+Personalize Your Household
+Shape Your Sim’s Childhood
+Develop Parenting Skills
+Live the Immortal Life
+Escape to Forgotten Hollow
+Unleash Supernatural Powers
+Create Vampires
+Dine Out with Your Sims
+Become an Owner
+Create Unique Restaurants
+Build Zen into Your Sims’ Homes
+Practice Yoga and Meditation
+All-new Venue: Perfect Balance Spa
+Create Exotic Potions as an Herbalist
+Set Up The Perfect Camp
+Wander into an All-New Destination

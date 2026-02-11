@@ -1,0 +1,100 @@
+Either there aren't any Horses in this Household or a Household Horse isn't present on this lot.
+Call Adoption Agency
+A pizza is already on its way!
+Maid service already scheduled.
+You can only hire services while on your home lot.
+Hire a Service
+Must have a garden to hire a Gardener
+You need a Massage Table to hire this Service.
+Can't hire a massage therapist unless you are on a lot.
+You must be a Young Adult or older to adopt. 
+Inheritance Lawyer has already been hired.
+A butler has already been hired. You may fire your current butler if you desire to hire a different one.
+Tutor service already scheduled.
+A Ranch Hand is hired already.
+Eco Inspector service already scheduled.
+An Eco Inspector has already recently visited.
+Insufficient funds to hire service.
+I'm having a bit of a personal emergency and I have to leave now.
+Listen to {1.SimFirstName}
+Job Performance Gain
+Boost Cooking &amp; Gardening Skill Gain
+Boost Handiness, Painting, &amp; Photography Skill Gain
+Skill Gain
+Satisfaction Gain
+Slow Hunger &amp; Hygiene Decay
+Slower Needs Decay
+Boost Relationship Gain
+Ask About Triple Boost Week
+Greetings, This Event period is being celebrated with Boosts! All the Boosts! Ask me for a Boost, and I shall bestow upon you the one which you desire.
+Triple Boost Week is here, but it won't be available for long... Take advantage of the wondrous boost I have to offer!\n\nTruth be told, I fancy myself a bit of a matchmaker. To that end, I've brought along a boost to all of your relationship gains. No matter if your relationship is passionate or platonic, I'm here to help. Simply ask for my boost and you'll be making friends... or friends with benefits... in no time. Now get out there and turn on the charm!
+Triple boost week has arrived again, and the clock is ticking on your time to take advantage of these marvelous boosts.\n\nI present to you an intriguing proposition... Do you rocket your Satisfaction Points upwards with a 3x boost to all points gained when completing whims? Or, do you slow down all need decay by 3x, effectively giving yourself more free time to do with as you please?\n\nThe choice is yours! Ask for a boost and I'll happily grant it. Remember, you can change your active boost at any time - I'm always just a phone call away.
+Hey there little one! What's that? You want to know about this Triple Boost Week you keep hearing adults whispering about? I'm not sure I should be the one to explain the birds and the bees...\n\nActually, hold on. I've got a special version of this week's boost I can offer you. Just ask me for a boost to relationship gain and you'll find that you'll gather friendship with others three times faster. Why not try it out right now? Grab my boost and scamper along to the playground; you'll have new friends to play with in a snap!
+I'm here to help you eat better food, stink less, and express yourself more! Ask for a boost and I’ll happily grant it for a healthy length of time. Of course, you can change your boost at any time. Just call me and ask for another.\n\nI have three options! You can improve your gardening and cooking skill gain – yum yum! Alternatively, you can increase your handiness, painting, and photography skill gain to help you dabble in the arts. Or perhaps you simply wish to spend more time outside? No worries, I can reduce your hunger and hygiene decay. So, what’ll it be?&#xD;&#xA;
+Ask About PlantSim Challenge
+The PlantSim Challenge is here for a limited time! Here's what to do:\n\n&lt;ul type=&quot;circle&quot;&gt;&lt;li&gt;Look around the neighborhood for PlantSims!&lt;/li&gt;\n&lt;li&gt;Once you find them, ask them to give you a Magic Bean. The type of bean they give you will be based on their current emotion.&lt;/li&gt;\n&lt;li&gt;Once you find a bean, place it into a Magic PlantSim Stump (There's one in your inventory!)&lt;/li&gt;\n&lt;li&gt;Once six unique beans are placed, you will be able to water the stump, and find out what magical things may grow!&lt;/li&gt;&lt;/ul&gt;
+Receive Reward
+Great Job! You are now a Kindness Ambassador, Go into the world, make friends, and spread positivity!
+Ask About the Positivity Challenge
+Hi there! Succeeding in The Positivity Challenge requires you perform an assortment of kind, generous, and sweet tasks for other Sims! Be Friendly towards other Sims, or perform helpful deeds for your Neighbors. Anything that spreads the positive energy! \n\nAfter completing a stage of the Aspiration, be sure to open the Box of Kindness to receive a reward.
+Issue Positivity Challenge
+Hello! This Positivity Challenge is being issued to you, {0.SimFirstName}. When you're ready, choose the Positivity Challenge Aspiration, complete the objectives, and receive your Positivity Poster prizes!
+{1.SimFirstName} has already given you a Magic Bean recently.
+Ask for a Magic Bean
+I'm sorry, I'm just not in the right emotion now to give any beans.\n\nTry getting me into an emotion like angry, playful, sad, uncomfortable, flirty, or confident first, before asking for a Magic Bean!
+Ask About Day of the Dead Challenge
+The Day of the Dead Challenge has arrived for a limited time! Other Sims are already out and about celebrating the occasion. Look around the neighborhood for Sims in vibrantly themed regalia and ask them for a sugar skull.\n\nCompleting the sugar skull collection allows your own Sims to join in the festivities! Simply place the nine unique sugar skulls inside a &quot;Sugar Skull Display Case&quot; to unlock the &quot;Honor the Dead&quot; interaction. This interaction rewards your household with a tenth golden skull and enhanced interactions with the Grim Reaper.
+The Day of the Dead Challenge is here for a limited time! Other Sims are already out and about celebrating the occasion. Look around the neighborhood for Sims in vibrantly themed regalia and ask them for a sugar skull.\n\nCompleting the sugar skull collection allows your own Sims to join in the festivities! Simply place the nine unique sugar skulls inside a &quot;Sugar Skull Display Case&quot; to unlock the &quot;Honor the Dead&quot; interaction. This interaction rewards your household with a tenth golden skull and enhanced interactions with the Grim Reaper.
+Ask for Sugar Skull
+Why would I celebrate the Day of the Dead with a stranger or enemy?
+{0.SimFirstName} has already been gifted a sugar skull from {1.SimFirstName} recently.
+Requires Thinking Skill Level 2
+Teach Shapes
+Ask to Teach Shapes
+Shapes
+Study Shapes
+Ask to Study Spelling
+Spell Words
+Stack
+Teach Blocks
+Build Tower
+Teach Blocks
+Ask to Teach Blocks
+Nap?
+Get Forty Winks
+Nap Lazily
+Disco Nap
+(From Napping)
+Video Game Completed!
+Enter a name for this new Video Game.
+Mobile App Completed!
+Give this website page a name.
+Enter a name for this new Mobile App.
+Watch Performance
+Gather around Stage
+Clap for Performer
+Clap for Bebe Rexha
+Clap for Joy Oladokun
+Clap for Glass Animals
+Applaud Performance
+Get Hyped for Performance
+Get Hyped for Bebe Rexha
+Get Hyped for Joy Oladokun
+Get Hyped for Glass Animals
+Cheer for Performer
+Cheer On Bebe Rexha
+Cheer On Glass Animals
+Cheer On Joy Oladokun
+Read Festival Info...
+Clap
+Cheer
+Cheer
+Open Sims Sessions Lessons
+Show Lesson
+Get on Stage
+{0.SimFirstName} can get on the stage after the Sims Sessions performances are over.
+Dance Near Stage
+Perform Heat Waves
+Perform breathe again
+Perform Sabotage
+Move In Household from the Gallery

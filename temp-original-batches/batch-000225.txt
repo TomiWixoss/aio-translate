@@ -1,0 +1,100 @@
+Requires at least one photo in the photo inventory.
+6 Hours
+3 Hours
+1 Hour
+Current Setting
+24 Hours
+12 Hours
+Deploy Water Vehicle in Ocean
+You cannot do this while a Sim is having a baby!
+Remove All Sentiments
+Learn to Ride (Debug)
+Forget to Ride (Debug)
+Start Opener 2 Situation (Debug)
+Start Opener 1 Situation (Debug)
+Start Headliner Situation (Debug)
+Birthday Cake
+Remove from Group
+Add to Group
+Death by {0.String}
+Pufferfish
+Electrocution
+Drowning in Ocean
+Steam Room Overheating
+Cowplant
+Elder Exhaustion
+Main
+Dessert
+Appetizer
+Food
+Drink
+Always Succeed at EP11 Animal Socials
+Always Fail at EP11 Animal Socials
+Debug Vending Machine Remove Success &amp; Failure Modifications
+Debug Vending Machine Always Success
+Debug Vending Machine Always Failure
+{0.SimFirstName} Already Has This Buff!
+Debug - Start Fire
+3-5
+(-35)-(-29)
+(-9)-(-7)
+22-27
+(-17)-(-14)
+(-13)-(-10)
+(-3)-(-1)
+(-22)-(-18)
+6-8
+(-28)-(-23)
+13-16
+28-34
+9-12
+17-21
+(-6)-(-4)
+0-2
+35+
+&lt;= (-36)
+Start Drift (DEBUG)
+Add Sim Preference
+Change Personality Traits...
+Fix Scratched Furniture (DEBUG)
+Scratch Furniture (DEBUG)
+Replace
+Repair Object (Cheat)
+Remove Recent Fire Buff
+DEBUG: Add Relationship with Tree
+Make Full (DEBUG)
+Make into Plant Sim (DEBUG)
+Working smart is better than working hard. {0.SimFirstName} hacking {M0.his}{F0.her}'s work performance is better than both!
+Sometimes you win, sometimes you lose. This time, {0.SimFirstName} definitely lost. Perhaps {M0.he}{F0.she} should just go to work and do a good job instead of trying to cheat the system.
+Crumplebottom Servers
+{0.SimFirstName} hacked Crumplebottom Servers and was able to acquire {1.Money} from their accounts.
+PlumBook
+{0.SimFirstName} hacked Plumbook and was able to acquire {1.Money} from their accounts.
+National Sims Security Agency
+{0.SimFirstName} hacked National Sims Security Agency and was able to acquire {1.Money} from their accounts.
+Landgraab Systems
+{0.SimFirstName} hacked Landgraab Systems and was able to acquire {1.Money} from their accounts.
+Lothario Trust Fund
+{0.SimFirstName} hacked Lothario Trust Fund and was able to acquire {1.Money} from their accounts
+Llamacorn Listserv
+{0.SimFirstName} hacked Llamacorn Listserv and was able to acquire {1.Money} from their accounts.
+{0.SimFirstName}'s enthusiasm is noted, but maybe {M0.he}{F0.she} should take a break for a while. Too much hacking can be a bad thing.
+Supercomputer
+{0.SimFirstName} tried to hack the Supercomputer but it hacked {0.SimPronounObjective} instead and tried to destroy {M0.his}{F0.her} computer. Luckily the computer is unbreakable!
+{0.SimFirstName} tried to hack the supercomputer but it hacked {M0.him}{F0.her} instead. And now {0.SimFirstName}'s computer is broken. It may have won the battle, but the war is far from over.
+{1.SimFirstName} did it! That supercomputer wasn't so super, after all! {1.SimFirstName} even managed to take {0.Money} from the supercomputer project's funding.
+School Grades
+Well isn't {0.SimFirstName} just a little over-achiever? {M0.He}{F0.She} already has a perfect grade. It can't get any better!
+It worked! A little hacking and {0.SimFirstName} is already a smarter person. And {M0.he}{F0.she} has the grades to prove it!
+Hopefully {0.SimFirstName} was trying to hack {M0.his}{F0.her} grade lower because that's what {M0.he}{F0.she} ended up with. Maybe {M0.he}{F0.she} should hone those hacking skills a bit more.
+{0.SimFirstName} hacked {M0.his}{F0.her} target and was able to acquire {1.Money} from their accounts.\n\nL44t Haxx00rs.
+Set Up Spreadsheet
+Make Website Page
+Continue Making Website Page
+Encrypt File
+Continue Encrypting File
+Oh no, something went wrong with the encryption! The file got corrupted and can't be opened at all anymore. Luckily, you were able to revert it back to the original. Please try again.
+Continue Setting Up Spreadsheet
+Start Side Job
+I need a mod for a first-person shooter I'm playing. I want something that will make it super easy for me to get points. I hear you're the one that can make that happen!
+I was a little unsure about choosing a freelancer to do such an important job, but you delivered! Thanks a bunch!

@@ -1,0 +1,100 @@
+Princess Ess
+Polluck Twins
+The Pleasant Family
+Peters
+Percy McSage
+Pancakes
+Pan feo
+The Newbie Family
+Inspired by Morcubus from MySims. He's ready to take over the world with charm!
+Morcubus
+Millie Bobby Brown
+Grade School Student
+School for {0.SimFirstName} starts in about an hour.
+Oh no! {0.SimFirstName} has been doing poorly in school, and {M0.he}{F0.she} is now a {1.String}.
+{0.SimFirstName} is off to school.
+Go to Work
+{0.SimFirstName} is currently at work. {M0.His}{F0.Her} boss may not think well of {0.SimPronounObjective} skipping work.\n\nAre you sure {M0.he}{F0.she} should?
+Come Home?
+{0.SimFirstName} is currently at school. Skipping school will result in bad grades!\n\nShould {0.SimFirstName} skip school?
+SpaceY
+Quit Job
+{0.SimFirstName} has quit {M0.his}{F0.her} job at {3.String}. {M0.He}{F0.She} decided it was time for a new direction, career-wise.
+{0.SimFirstName} has been promoted to {1.String}!\n\n{M0.He}{F0.She} will now make an additional {6.Money} per hour, for a grand total of {5.Money} per hour.\n\n{M0.He}{F0.She} has also received the following bonus:\n{8.String}\n\n{M0.His}{F0.Her} next shift is {4.DayOfWeekLong} at {4.TimeShort}.\n\n
+Find a Job
+{0.SimFirstName} is now {1.String|enAn} at {3.String}. {M0.He}{F0.She} starts {4.DayOfWeekLong} at {4.TimeShort}!
+Bad news! {0.SimFirstName} was fired from {M0.his}{F0.her} job at {3.String}.
+Work for {0.SimFirstName} starts in about one hour.
+Oh no! {0.SimFirstName} has been demoted. {M0.He}{F0.She} is back to being {1.String|enAn}.
+{0.SimFirstName} is off to work!
+What a day of work! {0.SimFirstName} is back home and {M0.he}{F0.she} has earned {4.Money}!
+Interstellar Smuggler
+Alien Goods Trader
+Moon Mercenary
+Space Ranger
+Sheriff of the Stars
+Planet Patrol
+Astronaut
+Astronaut
+Space Cadet
+Low-Orbit Specialist
+Command Center Lead
+Technician
+You must be in Live Mode to claim this reward.
+Claim
+This reward has been claimed!
+This reward is claimable!
+Earn {0.Number} more EP to unlock.
+Earn {0.Number} more EP to unlock.
+This reward has been claimed!
+Claim this reward in Live Mode.
+Your reward is available to claim.
+Buy Now
+Requires {0.String} Expansion Pack.
+Requires {0.String}.
+Pack Exclusive
+Completed
+Looks like you haven't completed any quests yet. Go into Live Mode to get started!
+Available Quests
+QUEST LOCKED
+Complete the previous quests to unlock this quest.
+You've completed all the current quests. Come back in {0.String} for the next set!
+Quests
+Next Reward
+{0.Number}/{1.Number} Event Points
+Participating in Quests
+Complete quests to earn Event Points.\nNew Quests are available every week {0.DayOfWeekLong} {1.TimeShort}.
+THANKS FOR PLAYING!
+You've reached the end of the event.
+Next Reward in {0.String}
+Unclaimed Rewards Available
+Travel to Unit
+You are already at this Unit. 
+Travel to Unit
+Select Tenants
+There aren't any Tenants in this Unit to Evict.
+The distinction between a Just and Unjust Eviction is important. Just Evictions carry no repercussions, while Unjust ones will harm the Property Owner's relationship with the Tenant, lower the Unit Rating, and potentially lead to an Eviction settlement, costing additional Simoleons for the Property Owner.
+Go back to Tenant Agreement
+Active Rule
+Inactive Rule
+Rule Broken!
+This section shows all active and broken rules for this unit. Property Owners can Post Fine using the mailbox or by selecting the Tenant unit's door. They may also select the Tenant Sim directly to Prosecute a Fine. Tenant Sims have the opportunity to Negotiate Rule Change for any of the active rules as long as it isn't broken. Be mindful that unpaid fines for broken Rules give the Property Owner a chance to Justly Evict the Tenant Household without any consequences.
+Unit Rules
+Fine {0.Money}
+Rule Broken!
+Tenants
+Property Owner
+Noble Decrees
+Select a Noble Decree to enact in your Kingdom
+This Noble Decree is already active.
+Noble Decrees
+Select Noble Decrees to Enact in the Kingdom of {0.String}
+Remove
+Enact Noble Decree
+Apply changes to all Kingdoms
+View Agreement
+{0.String} (Property Owner)
+Travel to Unit
+Go Home
+Daily Rental Income: {0.Money}
+UNIT UNOCCUPIED

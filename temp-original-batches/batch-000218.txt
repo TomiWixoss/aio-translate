@@ -1,0 +1,100 @@
+Purchase Seeds
+Purchase Sims Sessions Supplies
+Thanks for purchasing! The items {0.SimFirstName} bought can be found in {M0.his}{F0.her} inventory.
+Purchase Holiday Crackers
+Purchase Fish
+Purchase Crystals
+Dear Buyer,\n\nThank you for embracing the natural benefits of crystals. By asking yourself what conscious lifestyle improvements you can make (and by buying our crystals), you're one step closer to true self-empowerment. We're proud to be part of your journey here at Celestial Prosperity. \n\nCeleste Moonglade\nCEO &amp; Founder\n\n&lt;i&gt;The crystals {0.SimFirstName} purchased can be found in {M0.his}{F0.her} inventory.&lt;/i&gt;
+Buy Supplies and Secret Wares
+Thank you for your purchase. The special items {0.SimFirstName} purchased can be found in {M0.his}{F0.her} inventory.
+Misc
+Buy Exploration Supplies
+Furniture
+Fun
+Supplies
+Purchase Toddler Books
+The toddler book can be found in the bookcase inventory.
+Thanks for ordering! The books {0.SimFirstName} purchased can be found in {M0.his}{F0.her} inventory.
+Homework Books
+Mystery
+Skill
+Change Phone Color
+Negotiate a Bonus
+Cancel Repair Service
+Your repair service has been canceled. Any repair technicians on your lot will still finish their work, though.
+Cancel Nanny Service
+Your Nanny service has been canceled.\n\nAny nannies on your lot will still finish their work, though.
+Cancel Gardening Service
+Your Gardening Service has been canceled. Any Gardeners on your lot will still finish their work though.
+Call Jasmine Holiday
+Call Event Coordinator
+Call Jasmine Holiday
+Jasmine can only be called from your home lot.
+Call Fire Department
+There are no available lots to purchase.
+Make Business Calls
+{0.SimFirstName}'s business partners are not at work currently.
+Call Police Station
+The police are already here!
+The police are on the way! Get to safety and do not engage!
+The internet does not work without a supply of power while Off-the-Grid.
+{0.SimFirstName} got bored being asked by {1.SimFirstName} on a date. Try again later.
+{1.SimFirstName} has declined going out on a date with {0.SimFirstName}. Try getting to know {1.SimPronounObjective} better, romantically. Also, a Sim's mood can change the outcome. Sometimes, talking in person is the best option.
+{0.SimFirstName} didn't pick up the phone. Some Sims need to sleep.
+Ask {1.SimFirstName} on a Date
+Cupid's Corner is temporarily disconnected due to our CEO's fragile ego. Rumor has it someone was bold enough to reject a meeting invitation!
+Sniff
+Encourage {1.SimFirstName} to Do Business
+Go Potty
+Wall-Mounted Head
+Plant
+Totally Realistic Critter
+Funky Animal
+(Better) Animal
+Llama
+Jellyfish
+Frog
+Crane
+Butterfly
+Can't sit, can't craft. Get this poor Sim a chair!
+Craft
+Papercrafting project complete! Look in {0.SimFirstName}'s inventory to see {0.SimPronounPossessiveDependent} new creation.
+Papercraft
+Frame Canvas
+Remove Frame
+View
+Disallow New Customers
+Allow New Customers
+Toggle whether or not new customers should arrive. Automatically set to allow customers whenever the business is opened.
+There are no available lots to purchase.
+Standard Training
+Extensive Training
+Brief Training
+Pay for training to increase an employee's skills when they next come to work.
+Praise
+Praise an employee to increases employee satisfaction and put them in a positive mood.
+Give Inspirational Speech
+Fire
+{0.SimFirstName} has fired {1.SimFirstName}. {M1.He}{F1.She} will no longer show up for work. {M1.He's}{F1.She's} also pretty upset.
+Criticize
+Criticize an employee to let them know they are under performing. They will temporarily work harder but their job satisfaction will suffer. 
+Check Up On
+This action has already been performed.
+Check Up On an employee to find out how satisfied they are with their job.
+Promote to {2.String} ({3.Money}/hr)
+Promote
+Yes! I knew this day would come if I just kept working hard. Thank you {M0.Mr.}{F0.Ms.} {0.SimLastName}. I won't let you down.&#xA;
+Thank you! I've been working really hard and am so happy you've noticed.
+A promotion? For me?? I... well of course! It's about time! I mean... thank you {M0.Mr.}{F0.Ms.} {0.SimLastName}, it's an honor!
+A promotion! Now I can afford that new lawn gnome I've been wanting.&#xA;
+This is amazing! I knew you were a great boss no matter what everyone else says.&#xA;
+{1.SimFirstName} is already promoted to the highest possible position.
+Demote to {2.String} ({3.Money}/hr)
+Demote
+How can you demote me? I've been working my fingers to the bone.
+{M0.Mr.}{F0.Ms.} {0.SimLastName} you can't demote me. I'll work harder, I promise.
+Oh... no... you're really demoting me? No write up? No review? Is this how you treat every employee around here or just me?
+I've been demoted? But I'm your best worker {M0.Mr.}{F0.Ms.} {0.SimLastName}!
+No! I swear I haven't been on my phone more than 14 or 15 times today.
+{1.SimFirstName} cannot be demoted any further. You may want to consider firing {M1.him}{F1.her}!
+I hate this job and everything about this! I quit!

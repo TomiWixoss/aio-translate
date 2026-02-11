@@ -1,0 +1,100 @@
+Unowned Pack
+Restart Required
+Restart Now
+Later
+Restart required to show Pack Selection, do you want to restart the game?
+Event Completed
+You've completed all of these quests. Keep going to unlock more rewards and check back for new quests!
+You have completed all of the quests in the {0.String} event!
+Unlocks:
+Online Connection is Required
+Please go online to save your Event progress and receive rewards.
+Claim Failed
+Please wait and try again as the Gnomes try to fix the failure.
+OK
+x{0.Number}
+{0.Number}
+Unlocks Soon!
+The Event is Over
+{0.Number}M {1.Number}S
+Unlocks In
+Rewards
+NEXT QUEST
+Unlocks in
+{0.String}
+Event Completed
+You've finished all quests.
+Claim All
+No rewards to claim.
+Go into Live Mode to claim rewards.
+Hey! You have {0.Number} {S0.reward}{P0.rewards} waiting for you.
+{0.Number} Event Points Weekend!
+Ends in
+This week's quest rewards
+Event Ends {0.DateLong}
+Complete {0.String} quests to earn Event Points and unlock new rewards!
+Log in daily and claim rewards!
+All Rewards Claimed
+Event Rewards Claimed {0.Number} / {1.Number}
+Next event reward available {0.DateShort} at {0.TimeShort}
+Reward Claimed!
+{0.SimFirstName} is Imbalanced, which will probably manifest in some unfortunate way.
+Balance &amp; Imbalance expresses how a Sim's Mood affects them over time, beyond moment-to-moment.\n\nSims that generally spend more time in negative Moods will move toward Imbalance, while positive Moods move back toward Balance. Some major life events can also change balance instantly!\n\nImbalance comes with various effects, such as impacted Needs or very high vulnerability to Ailments.
+Balance &amp; Imbalance
+Beyond the emotional ups and downs each day brings, {0.SimFirstName} is Balanced.
+Balanced
+{0.SimFirstName} has stayed in a good Mood lately and is currently feeling Balanced.
+Save and Switch to Household
+Just Switch to Household
+Rent or Lease Fields are Invalid
+There are no rules set for this unit. 
+Unit Rules
+Unit Rating
+Unit Details for {0.String}
+These are the lease details set for this unit
+Select a household to move into this unit.
+Fill Vacancy
+Edit Kingdom Titles
+Active Noble Decrees
+Edit Kingdom Titles
+Assign Custom Titles for the Kingdom of {0.String}
+Before you can fill a vacancy for this unit, you must return back home.
+Done
+Find a Tenant Household to live in this Unit and become a Property Owner! Set the Lease Length and Rent Per Day through the Tenant Agreement before moving in your tenants. Rent for all owned units will be collected by the end of the week along with any bills due. Beware of changing any details on the Tenant Agreement after Tenants have already moved in, as that would negatively impact the unit's rating!
+Pick a Cause of Death!
+Lead Concept Artist - Backyard Stuff
+You are Offline.
+Establish an Internet connection to check out the latest creations in The Gallery!
+You are Offline.
+Join in on Fun!
+View the latest creations in The Gallery &amp; share your favorites on Facebook.
+Cannot modify criteria for a role for a specific time slot.
+Set the total number of Sims for this role. If fewer Sims are assigned than the total, remaining spots will be filled by random Sims who meet the criteria.
+Add Criteria
+Number of Sims currently exceeds the specified number of Sims for this role.
+Accept
+Role Properties
+Cannot assign Sims in edit lot mode
+Save this role as a new role in the schedule.
+Roles must have a name.
+If selected, this role will also be saved to the &lt;b&gt;Role Library&lt;/b&gt;.
+Also save to library
+Cannot edit roles in the Library.
+Assign Sims
+New role has not yet been created.
+Delete {0.String}?
+Are you sure you wish to delete {0.String}?  This will have no effect on the current schedule or any other schedules with a role based off this library role.
+Are you sure you wish to delete {0.String}?  All instances of it being used in this schedule will also be deleted.
+Delete Role
+A role with this name already exists in the Role Library. Please choose a different name.
+This name is already in use. Please choose a different name to save as a new role.
+A role with this name already exists. Please choose a different name to save as new role.
+Can not delete premade roles.
+Discard Changes?
+Are you sure you want to discard the changes you made?
+Cannot add role to schedule. You have already reached the maximum number of {0.Number} roles.
+Successfully Added
+This role has been successfully added to the current schedule.
+Add to Current Roles
+Confirm changes
+Save Role

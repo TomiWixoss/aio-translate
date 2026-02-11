@@ -1,0 +1,100 @@
+Fire It Up
+Have a Quick Meal or Drink
+Grab a Drink
+Grab a Drink
+Cook a Gourmet Meal
+Cook
+Take a Slice
+Take a Piece
+Grab a Serving
+Make Food
+Eat {1.ObjectName}
+...and Bake
+Mixing the Frosting
+Making the Filling
+Paint
+Solve Math Problems
+Set as Front Door
+This is already the front door.
+Spin the Board
+{0.String}
+Crafty Chopping
+Fancy Flavors!
+Scour for Memes
+Play Game
+Move Household
+The orphanage would like to introduce...
+Chat With
+Chat
+Browse Web
+Write Furiously
+Write Book
+Science Fiction
+SciFi Two
+SciFi One
+This is SciFi book Two
+This is SciFi book One
+Troll teh Forums
+Listen to Space Launch
+Sims
+Uncommon
+Rare
+Rarity: {0.String}
+Common
+MySims Trophies
+Metals
+Elements
+Crystals
+Collect
+Empty
+Brew
+Practice Chess
+Play
+Sit
+Nap
+Play Card Game
+Canasta
+It would be rude to take a slice of Birthday Cake before the candles have been blown out.
+Some books send a reader's mind straight to the gutter.
+Dirty Mind
+Amateur Hour
+Feeling playful from listening to the jokes of other Sims!
+Amused
+Rebuffed!
+Feeling down after being rejected by another Sim!
+Feeling attractive after primping in the mirror!
+Glamorous Presence
+Bolstered with confidence emerging from an intense scuffle, unscathed! 
+Triumphant!
+Beaten Up!
+Humiliated after catching a glimpse in the mirror at the wrong angle!
+Feeling Frumpy
+Humiliated from recent Social Events!
+Embarrassed
+Taking a good lickin' can make a Sim feel a bit dazed.
+Fine (Always on and hidden by default)
+What the What?
+Alone the words make sense, but together... what? This book is beyond my skill level.
+Feeling a little bored from reading a book at a low skill level.
+Sob Story
+A little choked up from a sad story.
+...on account of all the jokes.
+Artistic Read
+Some books just inspire creativity.
+Delightful Read
+That story was delightful, charming, and refreshing.
+Logical Read
+It all makes so much sense!
+Empowering Read
+The power of words!
+Boring Read
+Reading that book was a total snooze fest. 
+Upsetting Read
+Outraged from reading an opinionated article.
+Whoa! That was one steamy romance novel!
+Steamy Read
+Feeling Witty
+Knocked Out
+Currently Dazed (should not be seen)
+Currently Sad (should not be seen)
+Currently Playful (should not be seen)

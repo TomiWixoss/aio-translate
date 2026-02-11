@@ -1,0 +1,100 @@
+&lt;span class=&quot;pink&quot;&gt;Start fresh with new Sims, a new Home, and a new Story.&lt;/span&gt;
+&lt;span class=&quot;blue&quot;&gt;CONTINUE PLAYING&lt;/span&gt;
+&lt;span class=&quot;blue&quot;&gt;The tutorial is over but you can continue playing this Household.&lt;/span&gt;
+&lt;span class=&quot;green&quot;&gt;ADD A NEW SIM TO THIS HOUSEHOLD&lt;/span&gt;
+&lt;span class=&quot;green&quot;&gt;Adding a second Sim to this Household will make The Sims 4 a richer experience.&lt;/span&gt;
+SELECT A NEW ASPIRATION
+There are so many stories you can tell in The Sims 4. Here are a few from which to choose!
+&lt;span class=&quot;green&quot;&gt;DEVIOUS&lt;/span&gt;
+&lt;span class=&quot;green&quot;&gt;PUBLIC ENEMY&lt;/span&gt;
+&lt;span class=&quot;green&quot;&gt;The perfect path for Sims who seek the seedy underbelly of life.&lt;/span&gt;
+&lt;span class=&quot;pink&quot;&gt;ARCHITECT&lt;/span&gt;
+&lt;span class=&quot;pink&quot;&gt;MANSION BARON&lt;/span&gt;
+&lt;span class=&quot;pink&quot;&gt;Penny pinch to pour everything back into brilliant homes that YOU design for your Sims.&lt;/span&gt;
+&lt;span class=&quot;blue&quot;&gt;ROMANTIC&lt;/span&gt;
+&lt;span class=&quot;blue&quot;&gt;SOULMATE&lt;/span&gt;
+&lt;span class=&quot;blue&quot;&gt;Pair two Sims together to witness true love.&lt;/span&gt;
+&lt;span class=&quot;yellow&quot;&gt;CAREER FOCUSED&lt;/span&gt;
+&lt;span class=&quot;yellow&quot;&gt;FABULOUSLY WEALTHY&lt;/span&gt;
+&lt;span class=&quot;yellow&quot;&gt;Send your Sims straight to the top of the corporate ladder for riches and success.&lt;/span&gt;
+Lessons
+SPECIFIC \n LESSON IMAGE
+{0.Number}/{1.Number}
+Load Error
+Transfer Funds
+Can't Have That Much Money
+Not Enough Money To Transfer
+Transfer Funds
+Amount to Transfer:
+You are Online!
+You are Offline
+Fast Speed - 2
+Ultra Speed - 3
+Normal Speed - 1
+Pause - 0
+Camera Options
+{0.Number}/{1.Number}
+0-9
+Failed to open the In-Game Overlay
+Debug
+Base Game
+No Romantic Relationships
+Upgrade
+Price
+No thanks
+{0.String} is a part of {1.String}!
+Would you like to upgrade your purchase to {0.String}?
+Preparing packs for download
+You will receive a notification once the download is complete.
+The {0.String} Room has been saved to My Library.
+The {0.String} Tattoo has been saved to My Library.
+The {0.String} Household has been saved to My Library.
+The {0.String} Lot has been saved to My Library.
+Press &lt;b&gt;Shift+F1&lt;/b&gt; to view downloads in progress using the In-Game Overlay. You will receive a notification once the download is complete.
+Download complete
+No Romantic Relationships
+View My Library
+One or more of your items saved via The Sims 4 Gallery on the web is no longer available.
+Check your Library for new content saved via The Sims 4 Gallery on the web!
+Place Room
+Cannot place Room in this game mode.
+Apply Tattoo
+Cannot apply Tattoo in this game mode.
+Place Household
+Cannot place Household in this game mode.
+Place Lot
+Cannot place Lot in this game mode.
+Content not installed
+Purchased or other content used in this Gallery item is not installed. If you place it now, you will not see the uninstalled content.
+Download in progress
+Purchased or other content used in this Gallery item is still downloading. If you place it now, you will not see the downloading content.
+Do you still want to place this room?
+Do you still want to place this Tattoo?
+Do you still want to place this household?
+Do you still want to place this lot?
+Sims Delivery content not installed
+There is Sims Delivery content being used in this save file which is not currently installed and will not be able to be used in game.\n\nSome objects will be removed or replaced if continuing with this saved game without downloading and installing this content.\n\nDo you wish to continue?
+Yes, play now.
+Nevermind.
+Tag Someone
+Tag Sim
+Send a Message
+Remove contact
+Post Something
+{0.SimFirstName}
+Add some Sims to your Contacts to Tag them!
+Go experience some events to post about!
+New Post
+Go meet more Sims!
+Add to Contact List
+Messages
+Message contact
+Friends
+{0.Number} Followers
+Feed
+Share your experience!
+Now that you've added friends, share your experiences and\ninteract with those Social Bunnies using the following features.
+Welcome To Social Bunny!
+{0.String}\n&lt;font color=&quot;#EC262E&quot;&gt;Not installed&lt;/font&gt;
+Restart Required
+A restart is needed to ensure all the packs for this save are enabled and trial content is only available for trial saves.

@@ -1,0 +1,100 @@
+Cannot be placed in the ocean
+Can't place in fountain.
+Can't be placed in deep pond water.
+Can't place in the current location.
+Can't place in air.
+Can't Place Higher Level Block Under Lower Level Block
+Can't place gate in short fence.
+Can't place fountain under anything.
+Can't place fence without foundation over pool with foundation.
+Can't place foundation pool next to terrain pool.
+Can't place foundation pool next to or above basement.
+Can't place fountain next to or above basement.
+Can't intersect with walls.
+Objects can't intersect with stairs.
+Can't intersect spandrels.
+Can't intersect rounded pieces.
+Can't intersect with roofs.
+Can't intersect other objects.
+Can't intersect obstructions.
+Can't intersect ladders.
+Can't intersect friezes.
+Can't intersect foundations.
+Can't intersect the floor above.
+Can't intersect fences.
+Cannot intersect a block on a level below.
+Can't find a slot for this object.
+Can't find object.
+Can't create floating rooms.
+Can't create above the highest floor level.
+Can't connect to a room with a different height.
+Can't Connect Blocks From Different Levels
+Can't be placed through a wall.
+Can't be placed through a fence.
+Can't be placed submerged in water.
+Can't be picked up out of bounds.
+Can't be picked up.
+Pattern can't be applied to a fence
+Insufficient Funds
+Object cannot be used at that height.
+Cannot Use Multiple Levels
+Cannot Remove Floor
+An object affected by this action can't be moved to the household inventory.
+Cannot expand room type.
+Cannot place room due to fixed object.
+Can't complete action due to an undeletable object.&#xD;&#xA;
+This object can't be deleted.
+It is time for some candid photos of {2.SimFirstName}! {M2.He}{F2.She} is going to love them!
+Picture time! Say cheese!
+It won't take long, just a quick snooze and {1.SimFirstName} will feel like new! ...Or at least a little less tired...
+A real Woohoo in the West vibe...
+Check out this new outfit!
+All that work finally reaches an end and the words {1.SimFirstName} carefully constructed whiz their way towards publication. How thrilling!
+Documentation is very important to keep a consistent style.
+{1.SimFirstName} wants to tell everyone about this hot new brand.
+{1.SimFirstName} has questions!
+Take it all in.
+Next Fashion trend incoming!
+Style search, pronto!
+Sticky five finger discount...
+Breathe in that fresh air! {1.SimFirstName} would love to just bask in some nature.
+Why go anywhere else? Everything needed is right here.
+Sometimes {1.SimFirstName} just wants some &lt;i&gt;me time&lt;/i&gt; to feel better about {1.SimPronounReflexive}. What's so great about socializing anyway?
+Prove the pen is mightier!
+Improving productivity on a simple task one app at a time. Oh, or a cute game! That would be fun.
+With scope in mind and goals on the horizon, {1.SimFirstName} begins the daunting journey of production. Get ready for some long hours...
+Gaze at the wonder that is the night sky.
+{1.SimFirstName} wants to see into other people's lives. Who knows what secrets they hold!
+Begone bugs! These are not your munching grounds!
+{1.SimFirstName} wants to find the right answers. There can only be one, right?
+Why do dollhouses look so pristine and perfect all the time? They need to be taken down!
+The first draft is never the best one, keep going!
+Never forget to work on those scales!
+Beef up that hand-eye coordination.
+Taking science to new heights!
+The real question for {1.SimFirstName} is which Programming Language should {M1.he}{F1.she} learn today?
+No better way to impress others than to become an expert pianist.
+Studies are part of the art form.
+Trolling is an art, that {1.SimFirstName} wants to perfect!
+Get those brain juices flowing!
+{1.SimFirstName} will always be known for being clumsy but maybe a little hand-eye coordination can help stop {M1.him}{F1.her} from stumbling so much.
+Righty tighty, Lefty loosely!
+Strum it, rock it, tap it, knock it!
+{1.SimFirstName} wants to get their hands dirty. Become one with nature.
+Pump it up!
+Is {1.SimFirstName} getting better at fishing or are the fish getting worse at hiding?
+The food won't taste any better without practice. Don't be a donut, grab a knife and get to chopping!
+Even the best comedians had to start somewhere!
+Working on people skills is a time well spent.
+{1.SimFirstName} wants to mix things up and practice tossing some drinks around.
+No other way to get better than to keep trying!
+{1.SimFirstName} knows that self love takes time. Everyone has things they aren't entirely comfortable with and that's okay.
+{1.SimFirstName} has a brain bank full of them!
+Time to go bring another Sim to tears.
+Time to go bring another Sim to tears.
+Music comes from the heart. From {1.SimFirstName}, to you.
+A curse has been cast upon yee! Forward this to ten friends or death will come knocking.
+Setting a goal helps to keep expectations in line for how profitable a hobby like this could be.
+An official artist's life means selling art.
+Bringing in the big cheddar.
+Artists deserve compensation!

@@ -1,0 +1,100 @@
+Freelance Programmer
+&lt;b&gt;Trade: Freelance Programmer&lt;/b&gt;\n\nWant in on a little secret? You don't have to be an expert about computers to be a great freelancer! All you need is a PC, a search engine, and the iron will to deal with &quot;ideas people&quot;. Still, it helps to be an expert.
+Be your own boss! Set your own work schedule! Sounds good, right? If you're both self-disciplined and determined, a career as a freelancer may be the right path for you. Multiple trades available to work within; agencies are standing by to connect you with eager clients today!
+Freelance Artist
+Freelance Artist
+&lt;b&gt;Trade: Freelance Artist&lt;/b&gt;\n\nCan a digital painting make you cry? Right now, no one knows. This is partly because many would consider the very idea frivolous. But it's also because whoever successfully answers this question must first have answered several others.\n\nWhy do we cry? Why do we laugh, or love, or smile? What are the touchstones of our emotions?\n\nUntil now, the people who asked such questions tended not to be the same people who created digital art. Instead, they were writers, filmmakers, painters, musicians. They were, in the traditional sense, artists.\n\nWe're about to change that tradition. The name of our agency is Electrified Artists.
+Freelancer
+Freelancer
+{0.SimFirstName} will need to go to {M0.his}{F0.her} Scout Meeting in the middle of this Social Event.
+I have to go! See you around.
+Unemployed
+Unemployed
+Bar Regular
+Repair Service
+Police
+Police
+Pizza Delivery Specialist
+Pizza Delivery Specialist
+Nanny
+Nanny
+Mail Carrier
+Mail Carrier
+Maid
+Maid
+Librarian
+Librarian
+Trainer
+Trainer
+Reaper of Souls
+Reaper of Souls
+Professional Gardener
+Community Gardener
+Community Gardener
+Fisher
+Fisher{M0.man}{F0.woman}
+Firefighter
+Firefighter
+Mixologist
+Mixologist
+Tragic Clown
+Zoomers Food Deliveryperson
+Zoomers Food Delivery{M0.man}{F0.woman}
+High School F Student
+It’s a proud moment in any kid’s life when they make the transition from “failing student” to “barely passing student.” With enough effort, {0.SimFirstName} will claw {M0.his}{F0.her} way up to “average” in no time. And THAT’S when doors start to open...
+High School D Student
+{0.SimFirstName} can now earn passing grades in all of {M0.his}{F0.her} subjects easily. But {M0.he}{F0.she} doesn’t want to stop there! Now that {0.SimFirstName}'s discovered an aptitude for learning, it’s time to see how far {M0.he}{F0.she} can go!
+High School C Student
+{0.SimFirstName} has worked very hard to get here. It can now be said, with confidence, that {0.SimFirstName} is earning “good grades.” But that’s not where the glory is. If {M0.He}{F0.She} can just push {M0.himself}{F0.herself} a little harder, {0.SimFirstName} can earn straight A’s!
+High School B Student
+It took a lot of work, but {0.SimFirstName} has turned {M0.himself}{F0.herself} into an honor-rolling, test-acing, A-plussing machine. {M0.He}{F0.She}'ll forget more over lunch than some students will learn in a lifetime. For {M0.him}{F0.her}, the future is limitless! 
+High School A Student
+Children go to school so that knowledge can be stuffed into their little heads and so they can be prepared for life.
+Let's not sugar coat things.  You're failing.  But you've still got time to turn it around!  Do some homework - any homework - and go to school.
+Grade School F Student
+When Ds are the norm, things aren't bleak quite yet, but the teacher has called home a few times and you're right on the edge of failing out of school.
+Grade School D Student
+The middle of the pack is the most popular place to be, as evidenced by the other C students that surround you.  It's like a club!  A non-exclusive mediocre club.
+Grade School C Student
+Rocking a solid B is nothing to be ashamed about. By definition, it's above average! Of course, there are still those A students that are doing just a little bit better.
+Grade School B Student
+It must be hard to be an A student.  All that time studying, feeling superior, and studying some more.
+Grade School A Student
+Bravo, {0.SimFirstName}! {M0.He}{F0.She} will bring the crowd to its feet at nearly every sold-out performance. Applause? Roses? Room keys? These things are offered up to {0.SimFirstName} on a regular basis now. Encore!
+Concert Virtuoso
+Strings, winds, woods, brass. {0.SimFirstName} has mastered them all, and {M0.his}{F0.her} remarkable gifts are remarked upon quite often. Fame is {0.SimPronounPossessiveIndependent}, and {0.SimFirstName}'s working on fortune. Just not enough fortune for {0.SimPronounObjective} to say no to that web startup launch party.
+Instrumental Wonder
+All the world’s a stage, and {0.SimFirstName} has earned {M0.his}{F0.her} place upon it. {M0.He}{F0.She} is still putting bread in {M0.his}{F0.her} jar playing weddings and private parties, but the guest list and grub is getting better every time, and {M0.he}{F0.she} occasionally lifts {M0.his}{F0.her} spirits with satisfying stints in lesser-known symphony orchestras.
+Symphonic String Player
+From posh private parties to shopping mall foyers to weddings for the web-date weary, {0.SimFirstName} is in high demand. Whether {M0.his}{F0.her} client wants guests to dance, buy hopelessly expensive trinkets, or pipe down until they say their vows, {0.SimFirstName}'s got the tunes to get results.
+Professional Pianist
+{0.SimFirstName} has always known that {M0.he}{F0.she} is more than just a {M0.hunk of love}{F0.pretty face}. {M0.He’s}{F0.She’s} got TALENT. And the instant {M0.his}{F0.her} fingers touch the keys of a piano or the strings of a guitar, everyone in the room knows it. These days, {M0.he’s}{F0.she’s} even got gigs to prove it.
+Serious Musician
+Who needs name recognition when everyone recognizes your song? {0.SimFirstName} will be busy creating jingles that lodge themselves into people’s brains so tightly, it would take highly invasive surgery to get them back out. So what if they’re about cat food, or toilet cleaner? No one can flush them away, not ever!
+Jingle Jammer
+Doors are starting to open for {0.SimFirstName}. And {M0.he}{F0.she} is starting to open for some pretty cool acts. Audiences actually laugh when they’re supposed to. Applause is not unheard of (or unheard). It may not be time to try the old “Don’t you know who I am?” trick yet, but it’s coming....
+Opening Act
+C-List is better than no list at all! Why, {0.SimFirstName} is even starting to book a few gigs. At this point, {M0.his}{F0.her} ability to shamelessly promote {M0.himself}{F0.herself} may be a greater asset than any true talent!
+C-Lister
+{0.SimFirstName} was born to perform. It’s written in the stars! Of course, with the stars as {M0.his}{F0.her} only reference, open mics are {0.SimFirstName}’s only viable path to discovery and fame. The hardest part is suffering all these amateurs who can only book open mics!
+Open Mic Seeker
+If a joke is told in a comedy club, and nobody’s there to hear it, does it make a sound? As an amateur entertainer, {0.SimFirstName} is about to find out. At least there are no hisses or projectiles!
+Amateur Entertainer
+Joke by joke, {0.SimFirstName} has climbed the ranks of comedy, and now {M0.his}{F0.her} sets are setting new standards in the industry. An entire generation of comics will one day point back to {0.SimFirstName} as their inspiration. {0.SimFirstName} is rolling in dough, fame, and fans.
+Show Stopper
+Just like that, {0.SimFirstName} is the big name on the marquee! Up-and-coming acts are excited to open for {0.SimPronounObjective}. The work is steady, pays well, and {0.SimFirstName} has even caught a few people on the street referencing {M0.his}{F0.her} material and cracking each other up. Not bad!
+Stand Up Star
+{0.SimFirstName} is done flying under the radar. {M0.He}{F0.She} is making some serious dough hosting charity events, awards ceremonies, roasts, and pretty much any other kind of party no one actually wants to attend. {M0.He}{F0.She} may even be Sim of Honor at a cheapskate celebrity wedding!
+Roast Master
+{0.SimFirstName} is doing a stand-up job with {M0.his}{F0.her} stand-up routine, and people are starting to stand up and take notice. Good thing {0.SimFirstName} can cut them back down with a few quick jokes! ({M0.His}{F0.Her} jokes are better than these.)
+Rising Comedian
+Wow, {0.SimFirstName} can really keep a crowd captive, no handcuffs required! {M0.He}{F0.She} is spending less time peddling business cards and more time practicing one-liners, “squirrel walks into a bar” jokes, and impressions that people actually recognize.
+Solid Storyteller
+The ideas are really flowing for {0.SimFirstName} now. On stage, off stage, at weddings, at funerals. Everything is a source for hilarious new material! And who doesn’t like a good joke?
+Jokesmith
+{0.SimFirstName} is now a Line Cook! {M0.His}{F0.Her} duties include station setup, prepping food, cleaning up and stocking. Basically everything the real cooks don't want to do!
+Line Cook
+The secret to Mixology is proportion. How much sweet juice? How much sour juice? Does this troubled patron want {0.SimFirstName}'s advice, or just for someone to listen? Is this a real job, or just something people do for money until they find a real job?
+Mixologist
+Standing behind food stations unable to eat the food is never easy, but it's the new reality for {0.SimFirstName}. {M0.His}{F0.Her} days will now be filled with ridiculous dancing at weddings, failed team-building exercises, and really weird baby shower games.
+Caterer

@@ -1,0 +1,100 @@
+Have a Quick Autotest Meal
+Grab Drink For Toddler
+Cook a Gourmet Meal
+Being Inspired helps with cooking!
+Cook Fine Grub
+Cook
+Make Special Recipe
+Ingredients
+Cook
+Being Inspired helps with cooking!
+Cook Grub
+Add Ice
+Fridges will now preserve food even without power. Until the ice melts...\n\nCurrent Ice Level in Fridges: {2.Number}%
+Promote Class on Simstagram
+Writing Complete!
+Select a Gig
+Career Gigs Picker (Debug)
+Send to Client for Approval
+&quot;Approved! This is exactly what we were looking for. Keep up the great work {0.SimFirstName}.&quot;
+&lt;i&gt;&quot;This work doesn't meet our quality standards. It needs to be edited before you attempt to submit it again.&quot;&lt;/i&gt;\n\n• Paintings can be edited on the Digitalistic Sketchpad.\n\n• Books can be edited on a computer.
+The client has rejected this content. It must be edited before it can be sent for approval again.\n\n• Paintings can be edited on the Digitalistic Sketchpad.\n• Books can be edited on a computer.
+There's no available PC nearby
+Choose Freelance Agency
+Check for Gigs
+Change Freelancer Trade
+Cancel Gig
+Nothing needs editing at the moment.
+Edit Rejected Content
+Give it a title so the client knows what to call it.
+Shoo {1.SimFirstName} Away
+Marry {2.SimName} Only
+Clear Marriages
+Eat
+Spread Delicious Sauce
+Perfect food cannot be spoiled!
+Be Called To Meal
+Make Mess
+Call to Grab Drink
+(From Eating Fish)
+(From Being a Vegetarian Eating Meat)
+Call to Meal
+Positive Fitness Reaction
+Neutral Fitness Reaction
+Fish Together With
+Looks like the fish in this area are too crafty for {0.SimFirstName}. Try fishing elsewhere until {F0.she}{M0.he} has more skill or try using more valuable bait!
+(From Fishing)
+Not available while boat is moving.
+Available while on board canoe.
+Cannot fish in such extreme cold.
+Go Fishing Illegally
+(From Disliking Fishing)
+(From Liking Fishing)
+Due to an Environmental Regulation, fishing is illegal at this time.  Being caught can result in a hefty fine.
+Angle For Big Catch
+Fishing while focused increases the likelihood of catching rare fish.
+Angle For Big Catch
+Go Fishing
+Examine Water
+{0.SimFirstName} can't seem to get a read on these fish. Maybe try again later.
+Nothing new for now. Check back later.
+Examine Water Thoughtfully
+Go Bowfishing
+Fish with Bait
+Select your best bait!
+Experiment with different types of bait and catch bigger and better fish!
+Put {1.ObjectName} in Inventory
+Add Fish
+Mount
+Warm Self
+Continue Installing Fireguard
+Continue Installing Autolight
+Make Do Homework Available
+Set Light Flickering: On
+Set Light Flickering: Off
+Spawn Fruit (Debug)
+DEBUG: Force Exception
+DEBUG: Force Error
+DEBUG: Force Assert
+Debug - Create Trash
+Debug - Create Puddle
+Create Friends (Cheat)
+Make Hungry (Debug)
+Give All Magic Beans (Debug)
+Add Objects to Sim Inventory (Debug)
+Add Spoiled Food to Sim Inventory (Debug)
+Build Rocket (DEBUG)
+Break Object (DEBUG)
+Set Min Friendship
+Set Max Friendship
+Set Relationship to Almost Friend
+Make Friend
+Add Debug Trait Outcomes Buff
+Add Debug Interactions Buff
+Add Debug Fail Outcomes Buff
+This Buff will only force Failure if tuned in the interaction. Ask your Designer to hook it up if needed for testing. This should default Fail any Dual Outcome interaction but that isn't used as often anymore.
+Complain about Strenuous Activity
+Be Crushed to Death by the Vending Machine
+Death by Overheating
+{0.SimName} has lived a good life, but {M0.his}{F0.her} time has finally come. {M0.He}{F0.She} is dying of overheating at the sauna.
+Old Age

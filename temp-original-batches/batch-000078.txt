@@ -1,0 +1,100 @@
+{0.SimFirstName} needs level 8 Handiness skill to add this upgrade.
+{0.SimFirstName} needs level 7 Handiness skill to add this upgrade.
+{0.SimFirstName} needs level 6 Handiness skill to add this upgrade.
+{0.SimFirstName} needs level 5 Handiness skill to add this upgrade.
+{0.SimFirstName} needs level 4 Handiness skill to add this upgrade.
+{0.SimFirstName} needs level 3 Handiness skill to add this upgrade.
+{0.SimFirstName} needs level 2 Handiness skill to add this upgrade.
+Write Song
+Write Jingle
+A major corporation has purchased {0.SimFirstName}'s jingle. A solid bit of pay for a solid bit of work.
+Several companies loved the jingle and bid to be the proud owners of it. Jackpot!
+No companies wanted to purchase that jingle. Better luck next time!
+Practicing guitar can be lots of fun in the right mood!
+Strum for Fun
+Serenade
+Lull To Sleep
+Listen
+(From Music Lover Trait)
+Requires Guitar Skill Level 3
+Sing Songs
+Sing Songs
+Sing Songs
+Practice
+Being Inspired improves guitar playing!
+Practice
+Pluck Some Inspiration
+Play Song
+{0.SimFirstName} can only Serenade a nearby romantic interest.
+Serenade
+Lull to Sleep
+(From Disliking Guitar)
+(From Liking Guitar)
+Listen and Learn
+Jam
+Being Inspired improves guitar playing!
+Jam
+Jam for Group
+Request Specific Entertainer
+There is already an entertainer on the lot.
+Hire {2.SimName} as an Entertainer
+Join Cooking
+Gather for Group Cooking
+Yell at the Grim Reaper
+Wail about {2.SimFirstName}'s Demise
+Plead
+Seduce into Sparing {2.SimFirstName}
+One does not plead with Death before the reaping, lest ye be reaped!
+Someone has already pleaded to the Grim Reaper recently!
+A familiar is already guarding the deceased.
+Give Death Flower
+Demand {2.SimFirstName} be Spared
+Grilling
+Clean with Vigor
+Energized Sims clean much faster!
+Serve {1.ObjectName}
+Paw a Plate
+Go To Location of Photo
+Go to Stored Location
+Travel to Willow Creek
+Would you like to send {0.SimFirstName} to Willow Creek?
+Travel to Foundry Cove
+Would you like to send {0.SimFirstName} to Foundry Cove?
+Travel to Desert Bloom Park
+Would you like to send {0.SimFirstName} to Desert Bloom Park?
+Insult
+Compliment
+(From Successfully Talking Up Someone)
+(From Having an Engaging Conversation)
+I was extremely hopeful heading into that conversation, but after spending a brief amount of time with {2.SimFirstName} it became obviously clear to me that we weren't meant to be friends.
+I let optimism get the best of me, {0.SimFirstName}. {2.SimFirstName} and I hold our actions to different standards; I don't see a way to work around that.
+Unfortunately {2.SimFirstName} and I tried to work it out, but we really are just two completely different people.
+(From Failing to Talk Up Someone)
+(From Having An Unappealing Conversation)
+Flirt
+(From Getting Hooked Up With Another Sim)
+(From Hooking up Other Sims)
+(From Hooking up Sims Who are in a Relationship)
+(From Being Hooked up With a Sim in a Relationship)
+(From Failing to Hook Up Sims)
+(From a Failed Hook Up)
+Break Up
+{2.SimFirstName} didn't take it very well, but I couldn't stay with {F2.her}{M2.him} anymore.
+It's done, {2.SimFirstName} and I are no more!
+Go to University
+Would you like to send {0.SimFirstName} to Sylvan Glade?
+Travel
+Travel Home
+Would you like to send {0.SimFirstName} home?
+Would you like to send {0.SimFirstName} to the Forgotten Grotto?
+Sims Sessions @ Magnolia Blossom Park starts at 12pm on Sundays!
+Go to Sims Sessions' Venue
+Give Tip
+Thanks!
+Gift to
+Start Fire
+{0.SimFirstName} does not own this Lot.
+Resurrect
+Possess to Break
+Cannot break unbreakable object
+Possess

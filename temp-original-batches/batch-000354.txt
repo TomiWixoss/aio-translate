@@ -1,0 +1,100 @@
+When {0.SimFirstName} calls the Envoy, they respond, &quot;Oh, hi! You know, you should really check out Municipal Muses. There's so much to see and do there. It will be a good use of your time!&quot;\n\n{0.SimFirstName} can't help but feel the Envoy is trying to get rid of {0.SimPronounObjective} once again...
+{0.SimFirstName} finds the Envoy at their home again.\n\nThe Envoy smiles and says, &quot;Nice work finding two treasures so far! If you win a chess match against me, I’ll share some valuable information about Princess Cordelia Thebe. But I doubt you’ll win…you might want to get some practice in before challenging me!\n\nI'll be at the park waiting, if you are up for the challenge!&quot;
+The Thebe Family
+The Envoy, surprised and a bit nervous to see {0.SimFirstName} once again, stammers, &quot;Oh! I didn't expect you again so quickly. The Capps, yes...they were quite captivated by romance. Why don't you get into the mindset of love and see if you can whip up any clues. You don't mind if I snoop err—look around here while you're doing that?&quot;
+The Capp Family
+Ask About the Thebe Family
+Ask about the Darong Family
+Ask about the Capp Family
+Ask about The Royal Envoy
+When {0.SimFirstName} asks about the Royal Envoy, {1.SimFirstName} mentions, &quot;I heard them laughing, saying that they will finally buy that fancy house they wanted. I think I saw them run off towards the Blue Velvet Nightclub...&quot;\n\n...What did the Royal Envoy mean by buying a fancy house? Things don't feel right!
+Ask about the Darong Family
+Ask about Princess Cordelia
+{1.SimFirstName} leans in and says, &quot;You know, despite being part of the royal family, Princess Cordelia was secretly a pirate. She led a double life sailing the seas, seeking hidden treasures, and is rumored to have stolen a vast fortune!&quot;
+Talk about Holiday Songs
+Have a Nice Chat about Holiday Traditions
+Ask about Holiday Traditions
+For me, the festive season is about getting together with those that mean the most to me. A house full of singing festive songs and dancing together with friends and family is what the holidays have always been about!
+My festive traditions? I guess the thing I most fondly remember and always look forward to is getting together and playing some retro video games. They don't make them like they used to!
+What do I look forward to the most during the holidays? Definitely the food, and while I enjoy the classics, I like to try traditional foods from different cultures as well.
+In my home, you could tell it was that time of the season when all you heard playing on the stereo was the Winter Holiday Station. It was a magical time!
+My tradition may seem a little boring to some but since this time of year can be so hectic I mainly look forward to just relaxing with others and watching TV!
+Suggest Play
+Let's Play!
+Enthuse about Sugar Skulls
+Discuss Afterlife
+Complain about Spirits
+Check Toddler
+Enthuse about Antique Jeweled Ring
+Scream Incoherently
+{0.SimFirstName} is too Miserable to do this!
+(From Being a Lovebug)
+I'm flattered, but I am not interested in that type of relationship with you. But I would be happy if you would like to be friends!
+Are you trying to get fresh with me, young {M0.man}{F0.woman}? Take that cheek somewhere else!
+(From attempting romance while in clean surroundings)
+{0.SimFirstName} is too Sad to do this!
+{0.SimFirstName} is too Angry to do this!
+(From Disliking Mischief)
+(From Liking Mischief)
+Ask Not To Be Mean
+Yell At For Being Mean
+Ground For Being Mean
+Tell Not To Be Mean
+Give Time Out For Being Mean
+Express Disappointment In Being Mean
+Encourage Being Mean
+Hug It Out Over Being Mean
+This Sim has shown their might, it's best to wait before trying to cross them.
+(From Budding Evil Persona)
+Smile At {1.SimFirstName}
+Listen to {1.SimFirstName}
+Coo At {1.SimFirstName}
+Babble At {1.SimFirstName}
+Cooing
+Talk to {1.SimFirstName}
+Watch Peek-a-Boo
+Play Peek-a-Boo
+Find the Fairy
+Meet {1.SimFirstName}
+Be Entertained
+Entertain
+(From Being Spit up on while Burping)
+Bottle Feed
+Breastfeed
+Babble
+Be Greeted
+{0.SimFirstName} is too Sad to do this!
+(From Disliking Comedy)
+(From Liking Comedy)
+Kiss while Dancing
+Flirt while Dancing
+Chat while Dancing
+(From Being Dropped while Dancing)
+Get Advice on Social Bunny Post
+Talk About Post Made About {1.SimFirstName}
+Poke Fun At Their Bunny Media Post
+Poke Fun At Their Social Bunny Fail
+Compliment Their Social Bunny Post
+Sympathize About Their Social Bunny Post
+Ask Intimate Question About Their Social Bunny Post
+(Talking About A Social Bunny Post)
+Closely Comfort About Their Social Bunny Post
+Snuggle
+Make A New Tagged Post
+Need to select a friend Sim.
+Need to select a post context.
+What Type Of Message?
+Send A Message
+Let your Social Bunny followers know what is on your mind.
+Need to select a message type.
+Make A New Post
+Need to select a post type.
+How Do You Feel About It?
+Recent Events
+Proclaim Best Date Ever!
+{0.SimFirstName} must be in a better mood first.
+Rile Up
+&quot;Enough already!&quot;
+There is no one around to photograph.
+Mail to...
+Gift {1.ObjectName} to

@@ -1,0 +1,100 @@
+Nap
+&quot;Fertilize&quot;
+(From Dirty Bush)
+(From Watching Sim with Powerful Performer Mastery Perk)
+Watch
+{0.SimFirstName} just finished writing lyrics on the {1.ObjectName}!
+{0.SimFirstName} just finished writing lyrics on the {1.ObjectName}! At Singing Skill Level 9, {M0.he}{F0.she} can send the lyrics off for licensing at the Mailbox to earn a little extra cash!
+{0.SimFirstName} just completed a song on the {1.ObjectName}! At skill level 9, {M0.he}{F0.she} can send the song off for licensing at the Mailbox to earn a little extra cash!
+{0.SimFirstName} just completed a song on the {1.ObjectName}!
+{0.SimFirstName} just finished writing a song!  What would you like to name it?
+Tip
+Not enough Simoleons to perform this interaction
+There is already an entertainer on the lot.
+I'm seeing someone.
+Talk with {1.SimFirstName}
+Watch Milestone
+Tummy Time
+Wiggle to Music
+Dance to Music
+What's That?
+{0.SimFirstName} can't see this.
+Watch
+{0.SimFirstName} is too far away.
+Watch {1.SimFirstName}
+Stuck!
+Sleep
+Try Go Night Night
+Sit Up
+Lie Down
+Sit Up
+Lie Down
+Play In
+Introduce To
+Ask to be Introduced By
+You haven't met the caregivers of this infant. Hey where are they anyways?
+Ask To Be Introduced To
+Help!
+Break Loose!
+Fuss
+Find {1.SimFirstName}
+Use Diaper
+Cry
+(From Napping While Carried)
+Can't Reach
+Wobbling
+Wiggle
+Suck Fingers
+Sneezing
+Hiccup
+Grab Feet
+Fuss
+Cooing
+Cry
+Hide Relationship
+Are you sure you want to hide the relationship between {0.SimName} and {1.SimName}? This Sim will no longer appear in the relationship panel, but their relationship will remain unchanged. A hidden Sim will reappear in the relationship panel if your Sim interacts with them again.
+Read Grandmother's Will
+{0.SimFirstName} has already received {M0.his}{F0.her} inheritance!
+Travel to Willow Creek
+Travel to Foundry Cove
+Travel to Magnolia Blossom Park
+Travel to Desert Bloom Park
+Choose &lt;b&gt;Family Farm&lt;/b&gt;
+Choose &lt;b&gt;Friendly Neighbor&lt;/b&gt;
+Select a &lt;b&gt;Dream&lt;/b&gt; to fulfill long-term goals for your Sims.\n\n&lt;b&gt;Successful Sims&lt;/b&gt; - Complete &lt;b&gt;any Aspiration, master a Career&lt;/b&gt; and &lt;b&gt;grow the family.&lt;/b&gt;\n\n&lt;b&gt;Generations&lt;/b&gt; - Build a &lt;b&gt;multi-generational household&lt;/b&gt; that can set your Sim family up for success.
+Select a Dream!
+Scrap
+Remove Therapy Cooldown
+Assign Livestock
+Sims need to know each other first. Try an introduction!
+{2.SimFirstName} is busy right now.
+Adopt as Caregiver
+White Vignette
+Warm
+Vignette
+Sepia
+No Filter
+Invert Colors
+Dark
+Cool
+Bright
+Black and White
+You can't change the filter on poor quality photos.
+Remove Frame
+Portrait
+Landscape
+Black
+Blue
+Red
+Yellow
+Dark Wood
+White
+Light Wood
+Silver
+Turn Off Auto-Switch
+Toggles the automatic visual change for urns and gravestones. Turning this off allows gravestones to be placed indoors/urns to be placed outdoors without automatically switching.
+Turn On Auto-Switch
+Check Recent Neighborhood Stories
+Kitchen
+You need a Flirty Magic Bean placed in the stump.
+Plant Magic Bean

@@ -1,0 +1,100 @@
+Tops
+Rings
+Necklaces
+Gloves
+Bracelets
+Teeth
+Randomize
+Eyeliner
+Eyelashes
+Makeup
+Leggings
+Socks
+Shoes
+Bottoms
+Styled Looks
+Headwear
+Hair
+Accessories
+Head
+Hairstyle
+Glasses
+Full Body
+Facial Hair
+Piercings
+Contacts
+Tattoos
+Skin Details
+Bodies
+Body
+Body
+Young Adult
+Toddler
+Teen
+Elder
+Child
+Adult
+Age
+Whiskers
+Tails
+Shoes
+Coat Color &amp; Pattern
+Paint Mode
+Tops
+Nose
+Head Shape
+Harnesses
+Furs
+Eyes
+Ears
+Dresses
+Outfits
+Collars
+Breeds
+Mane
+This custom content is not compatible with layered tattoos.
+Layer {0.String}
+Preferred Hair:
+Hair will continue to grow through gameplay.
+Enable Hair Growth
+Change Preferred {0.String}? 
+Body Hair
+Selecting a new {0.String} will reset the Sim's current hair growth. 
+Change Preferred {0.String} Color? 
+Selecting a new {0.String} color will reset the Sim's current {1.String} growth. 
+Match Mane
+Match Hair
+Hair Color
+Facial Hair Color
+Eyebrow Color
+Unknown Parent
+You must Finish or Cancel creating this new Sim.
+Genetics
+There are no Human Sims in the household.
+Choose random breed
+Go Back
+Must be younger than parents
+Must be same age as twin
+Must be older than child
+Randomize Twin
+Randomize {M0.Son}{F0.Daughter}
+Randomize {0.String}
+Randomize {M0.Father}{F0.Mother}
+Randomize {M0.Brother}{F0.Sister}
+Disabled while selecting a genetic source
+Choose a Breed
+Pick a Sim
+Pick a Pet
+Disabled while playing with Genetics
+Human
+Horse
+Dog
+Cat
+Sibling
+Child
+Parent
+Child
+Create a...
+Create {M0.His}{F0.Her}...
+Create Their...
+Next Tab

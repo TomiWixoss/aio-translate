@@ -1,0 +1,100 @@
+(From Participating in Romantic Activity)
+Don't Be Mischievous to {0.String}
+Be Mischievous To {0.String}
+Be Mischievous
+Sims will do mischief interactions with other Sims.
+Don't Be Mean to {0.String}
+Be Mean To {0.String}
+Be Mean
+Sims will do mean interactions with other Sims.
+Don't Be Funny with {0.String}
+Be Funny With {0.String}
+Be Funny
+Sims will do funny interactions with other Sims.
+Don't Be Friendly with {0.String}
+Be Friendly With {0.String}
+Be Friendly
+Sims will do friendly interactions with other Sims.
+Don't Be Flirty
+Be Flirty
+Sims will flirt with other Sims.
+(From Participating in Flirty Activity)
+Don't Write
+Write
+Write
+Sims will write on:
+Don't Woodwork
+Woodwork
+Woodwork
+Don't Use the Telescope
+Use the Telescope
+Use Telescope
+Don't Use the Science Table
+Use the Science Table
+Use Science Table
+Don't Use the Microscope
+Use the Microscope
+Use Microscope
+Sims will use:
+Don't Use the Activity Table
+Use the Activity Table
+Use Activity Table
+Child Sims will use:
+Don't Use Rocket
+Use Rocket
+Rocket Science!
+Sims will build and use:
+Don't Program
+Program
+Program
+Sims will program on:
+Don't Play Violin
+Play Violin
+Play Violin
+Don't Play Video Games
+Play Video Games
+Play Video Games
+Sims will play video games on:
+Don't Play Piano
+Play Piano
+Play Piano
+Don't Play Guitar
+Play Guitar
+Play Guitar
+Don't Play Chess
+Play Chess
+Play Chess
+Sims will play chess on:
+Don't Play Any Instruments
+Play an Instrument
+Play An Instrument
+Sims will play:
+Don't Paint
+Paint
+Paint
+Sims will paint on:
+Don't Mix Bar Drinks
+Mix Bar Drinks
+Mix Bar Drinks
+Sims will make and serve free drinks using:
+Don't Hack
+Hack
+Hack
+Sims will hack using:
+Don't Tend and Harvest Garden
+Tend and Harvest Garden
+Tend and Harvest Garden
+Based on their skill, Sims will do various gardening interactions (including harvest) on:
+Don't Tend Gardens
+Tend Garden
+Tend Garden
+Based on their skill, Sims will do various gardening interactions (excluding harvest) on:
+Don't Fix Objects
+Fix Objects
+Fix Objects
+Sims will repair objects that are broken.
+Don't Work Out
+Work Out
+Sims will work out with:
+As filters are turned on, they are added to the list above the catalog. So even when the panel is closed, you'll know what's being filtered.
+Build has a powerful filter system that lets you find the exact object you are looking for.\n\nClick the Open Filter Panel arrow at the top of any catalog to view the Filter options.

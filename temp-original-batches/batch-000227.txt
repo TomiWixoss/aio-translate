@@ -1,0 +1,100 @@
+Bad!
+Chat
+{1.SimFirstName} is on the job!
+It's too late to catch the burglar!
+The burglar has been caught!
+(From Sliding Down a Ladder)
+Slide Down
+Climb Up
+Climb Down
+Other Sims cannot be brought to a career lot.
+Bring {0.SimName} Here
+Bribe Repo Person to Leave
+Wait for Tea to Brew
+Wait for Tea to Brew
+Wait For Coffee to Brew
+Search
+{0.SimFirstName} can only perform this interaction once per day.
+Collect Reward
+Ask to Read Toddler Book
+Be Read to By
+Read to Children
+There are no books to read on the shelf.
+Read Something
+There are no toddler books to read. Buy some via Purchase Toddler Books.
+Read
+Read Theoretical Electronics
+Reading Theoretical Electronics
+Read &quot;History of Time Travel&quot;
+Reading 'History of Time Travel'
+Read 'Magic Photo Lenses'
+Reading 'Magic Photo Lenses'
+Clean Up Books
+Browse Books
+Browse Books
+Requires Imagination Skill Level 2 
+Look at Book
+Study
+Studying books is a good way to Focus the mind!
+Prepare Reading
+Listen to Story
+Invite to Listen to Story
+Self-Publish
+Read For Reference
+Read Book Intro
+With The Green Lady's Tome, you can quickly gain the skills you need to cook Ambrosia! This book will build your Gardening, Cooking, and Gourmet Cooking skills.
+Browsing books can be a great source of Inspiration!
+Reread &quot;{1.ObjectName}&quot;
+Read
+{0.SimFirstName} has recorded {1.SimName} in the Book of Life.
+{0.SimFirstName} has resurrected {1.SimName}!
+Restore Life
+{0.SimFirstName} is invigorated by an epic tale.
+Read {2.SimName}'s Epic Tale
+Capture Epic Saga
+Homework Complete!
+{0.SimName} has completed {M0.his}{F0.her} homework for the day!
+Do Make Up Homework
+Do Extra Credit Work
+Homework Complete!
+{0.SimName} has completed {M0.his}{F0.her} homework for the day!
+Dominate Homework
+Breeze Through Homework
+This Sim cannot perform this interaction while in a Scandal
+Adopt {1.SimFirstName}
+It's official! {1.SimFirstName} has been adopted into the {0.SimLastName} family.\n\nWelcome to the family, {1.SimFirstName}!
+You cannot do this while an adoption is in progress.
+Adoption Complete
+Draw
+Clean Up
+Call Over to See
+Invite to Craft
+Craft Together
+Encourage
+A sprawling colonial with landscaping perfect for outdoor entertaining.
+This home's open concept design is flexible with plenty of outdoor space.
+This small shotgun-style home is perfect for a small family.
+A simple starter home for a singleton or a couple.
+A sizeable Backwater lot, perfect for building your dream home.
+This modified double shotgun has plenty of space for a comfort and entertaining.
+A cozy cottage with a welcoming porch that just screams, &quot;RELAX!&quot;
+Built for outdoor living, this colonial features a wraparound porch and balcony.
+With this large waterfront lot, your only limit is your imagination.
+Magnolia Blossom Park is a historic park where Willow Creek inhabitants from all walks of life can come together to enjoy nature in a lush, green environment.
+A large property with classical styling, this is the quintessential Garden Estates home.
+Modern meets traditional in this three-story home with extensive landscaping.
+A huge colonial with lovely grounds, this home is sure to impress.
+An expansive lot in a much-sought-after enclave, this is your potential paradise.
+A large, traditional home with verandas and balconies galore.
+History (and mystery) emanates from this tri-story Gothic mansion.
+sqeGameplayProfileArea3 TestWorld
+sqeEmptyLotArea Test World
+Burners &amp; Builders
+The Solar Flare
+Original Lounge from Oasis Springs.
+The Futures Past
+Original Museum from Oasis Springs.
+Rattlesnake Juice
+Original Bar from Oasis Springs.
+Granada Place
+Caliente

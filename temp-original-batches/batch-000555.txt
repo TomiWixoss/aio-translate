@@ -1,0 +1,100 @@
+Joke Star
+This Sim wants to tell jokes and become a famous comedian!
+The fine honing of the craft, {0.SimFirstName} has achieved {M0.his}{F0.her} dream of becoming a comedic superstar--and that's no joke!\n\nTrait Earned: Hilarious\nNew comedy social interactions unlocked!
+The Curator
+This Sim wants to collect everything the world has to offer!
+{0.SimFirstName} has collected the makings to start charging for entry into {M0.his}{F0.her} personal museum!\n\nTrait Earned: Appraiser\nSim can sell collectibles for greatly increased profits.
+Angling Ace
+This Sim wants to know everything about fishing!
+{0.SimFirstName} has wrestled with the greatest sea creatures Mother Nature could throw at {M0.him}{F0.her}! Welcome to the status of the Angling Ace.\n\nTrait Earned: Angler's Tranquility\nFishing can cure many negative moodlets!
+Freelance Botanist
+This Sim wants to grow plants and become an expert gardener!
+{0.SimFirstName} has grown and spliced every varietal imaginable, and finally {M0.his}{F0.her} dream of becoming a Freelance Botanist is complete!\n\nTrait Earned: Naturalist\nSim is fireproof and instantly puts out fires.
+This Sim wants to be playful and nimble!
+{0.SimFirstName} has just achieved {M0.his}{F0.her} childhood dream of becoming a little athlete!\n\nTrait Earned: Physically Gifted\nBuild physical skills faster!
+Whiz Kid
+This Sim wants to be the smartest kid in school!
+{0.SimFirstName} has just achieved {M0.his}{F0.her} childhood dream of becoming an brilliant child!\n\nTrait Earned: Mentally Gifted\nBuild mental skills faster!
+Serial Romantic
+This Sim wants to play the field and go on dates with all sorts of interesting people!
+{0.SimFirstName} has looked for love in all the right places, and achieved {M0.his}{F0.her} dream of becoming a romantic connoisseur!\n\nTrait Earned: Player\nSim will never cause jealousy!
+Soulmate
+This Sim wants to find and live a rewarding life with &quot;The One&quot;!
+Relationships take hard work and dedication. With a dash of both of those, and a lot of love,{0.SimFirstName} has achieved {M0.his}{F0.her} dream of becoming the perfect spouse!\n\nTrait Earned: Companion\nNew spouse socials unlocked!
+Nerd Brain
+This Sim wants to be both book smart and handy!
+{0.SimFirstName} just achieved {M0.his}{F0.her} dream of becoming extremely learned! {M0.He}{F0.She} is not only book smart, but possesses a practical intelligence too!\n\nTrait Earned: Handy\n{0.SimFirstName} can instantly fix and upgrade objects!
+Computer Whiz
+This Sim wants to know everything about computers, from playing games to careers!
+{0.SimFirstName} has just achieved {M0.his}{F0.her} dream of becoming a computer mogul! Sure, {M0.he}{F0.she} might be a bit of a geek, but {M0.he's}{F0.she's} one very successful geek!\n\nTrait Earned: Webmaster\nNew computer interactions unlocked!
+Renaissance Sim
+This Sim wants to be good at many things at once!
+Whoever said &quot;Jack of all trades, master of none&quot; had never met {0.SimFirstName}, who just achieved {M0.his}{F0.her} dream of becoming a true renaissance Sim!\n\nTrait Earned: Professorial\n{0.SimFirstName} can write books that grant skill!
+Mansion Baron
+This Sim is all about owning the biggest, fanciest home!
+{0.SimFirstName} has just achieved {M0.his}{F0.her} dream of building the ultimate mansion! {M0.He}{F0.She} certainly earned a victory lap (of luxury)!\n\n Trait Earned: Thrifty\nGet a rebate for all Build Mode purchases!
+Fabulously Wealthy
+This Sim wants to get rich and have a successful career!
+Scrimping, saving, and good life choices have all lead to this: {0.SimFirstName} has achieved {M0.his}{F0.her} dream of becoming fabulously wealthy!\n\nTrait Earned: Shrewd\nHousehold Funds accrue interest on a weekly basis!
+This Sim wants to eat, discuss, sleep, dream, and live grilled cheese sandwiches.
+Grilled Cheese
+Through sweat, blood, tears, and a large number of grilled cheese sandwiches, {0.SimFirstName} has achieved {M0.his}{F0.her} dream of becoming a Melt Master!\n\nTrait Earned: Melt Master\nCan now summon grilled cheese sandwiches and paint grilled cheese paintings.
+Master Mixologist
+Master Chef
+This Sim wants to master the culinary arts!
+{0.SimFirstName} has just achieved {M0.his}{F0.her} dream of becoming a revered mixologist! {M0.He}{F0.She} still has a trick or two up {M0.his}{F0.her} sleeve (and in {M0.his}{F0.her} flask), so bottoms up!\n\nTrait Earned: Potion Master\nNew drink recipes unlocked!
+This Sim wants to know everything there is to know about mixology!
+Through concentration, practice, and some great ingredients, {0.SimFirstName} has achieved {M0.his}{F0.her} dream of becoming a master chef!\n\nTrait Earned: Fresh Chef\nAll prepared food is high quality and never spoils!
+Big Happy Family
+This Sim wants to build a large, loving household!
+{0.SimFirstName} has just achieved their dream of having a Big Happy Family! A family full of love and support is perhaps life's greatest gift, and {0.SimFirstName} will surely treasure it.\n\n Trait Earned: {M0.Patriarch}{F0.Matriarch}\n{0.SimFirstName}'s presence helps family members build Skill faster.
+Successful Lineage
+This Sim wants to have a family that succeeds in life!
+{0.SimFirstName} has just achieved {M0.his}{F0.her} dream of having a successful family! A solid foundation and a lot of quality parenting has led to this day!\n\nTrait Earned: Vicarious\n{0.SimFirstName} will build skill while their family builds skill around {0.SimPronounObjective}. 
+Villainous Valentine
+This Sim wants to destroy the love lives of all Sims, including their own!
+{0.SimFirstName} has broken so many hearts that their own has become a most twisted thing!\n\nTrait Earned: Twisted Heart.
+Chief of Mischief
+This Sim is all about pranks and mayhem!
+{0.SimFirstName} has just achieved {M0.his}{F0.her} dream of being an enormous nuisance! It takes a lot of effort to be so annoying...\n\nTrait Earned: Tormentor\n{0.SimFirstName} can Sabotage objects, as well as other Sims!
+Public Enemy
+This Sim wants to make enemies and be a famous criminal!
+Evil is much more fun than good, and {0.SimFirstName} has taken that to their cold, calculating, heart by achieving {M0.his}{F0.her} desire to be public enemy!\n\nTrait Earned: Mastermind\nNew mean interactions unlocked!
+Musical Genius
+This Sim wants to be an expert musician and songwriter!
+It took hours of practice, infinite dedication, and a bit of rocking out, but {0.SimFirstName} has just achieved {M0.his}{F0.her} dream of becoming a musical master!\n\nTrait Earned: Piper\nSpecial new songs unlocked!
+Bestselling Author
+This Sim wants to write books and become a famous author!
+Be a Caregiver
+&lt;b&gt;&lt;font color='#DE750E'&gt;Social Challenge&lt;/font&gt;&lt;/b&gt;\n\n{0.SimFirstName} loves dolls and thinks Infants are &lt;i&gt;soooo&lt;/i&gt; cute and little and interesting! {0.SimPronounSubjective|xxUpper} {S0.wants}{P0.want} to get some good practice in caregiving. Maybe someday {0.SimPronounSubjective} will even have a child of {0.SimPronounPossessiveDependent} own!\n\n&lt;b&gt;Reward:&lt;/b&gt; When {0.SimFirstName} grows up {0.SimPronounSubjective} will build relationships more quickly with Infants and Toddlers.
+Be a Traveler
+&lt;b&gt;&lt;font color='#866500'&gt;Independence Challenge&lt;/font&gt;&lt;/b&gt;\n\n{0.SimFirstName} wants to travel the &lt;i&gt;whole&lt;/i&gt; world! There's so much to learn and do out there! Just imagine!\n\n&lt;b&gt;Reward:&lt;/b&gt; When {0.SimFirstName} grows up {0.SimPronounSubjective} will remain Energized longer when {0.SimPronounSubjective} {S0.becomes}{P0.become} Energized.
+Be a Rogue
+&lt;b&gt;&lt;font color='#866500'&gt;Independence Challenge&lt;/font&gt;&lt;/b&gt;\n\n{0.SimFirstName} knows it's naughty, but {0.SimPronounSubjective} {S0.thinks}{P0.think} becoming a famous rogue would be such a rush! Someday, maybe {0.SimFirstName} can make big money and get all the perks a life of crime offers! {0.SimPronounSubjective|xxUpper} might have to challenge {0.SimPronounReflexive} first though...\n\n&lt;b&gt;Reward:&lt;/b&gt; When {0.SimFirstName} grows up {0.SimPronounSubjective} will advance more quickly in the Criminal Career.
+&lt;b&gt;&lt;font color='#199C2C'&gt;Adventure Challenge&lt;/font&gt;&lt;/b&gt;\n\n{0.SimFirstName} loves doing stuff outdoors! {0.SimPronounSubjective|xxUpper} {S0.is}{P0.are} rough and tumble, and &lt;i&gt;super&lt;/i&gt; strong for a kid! And someday, if {0.SimPronounSubjective} really {S0.challenges}{P0.challenge} {0.SimPronounReflexive}, then {0.SimPronounSubjective} could be the &lt;i&gt;strongest&lt;/i&gt;, most &lt;i&gt;rugged&lt;/i&gt; Sim &lt;i&gt;ever&lt;/i&gt;!\n\n&lt;b&gt;Reward:&lt;/b&gt; When {0.SimFirstName} grows up {0.SimPronounSubjective} will advance more quickly in the Fitness Skill.
+Be an Outdoor Enthusiast
+Be Annoying
+&lt;b&gt;&lt;font color='#DE750E'&gt;Social Challenge&lt;/font&gt;&lt;/b&gt;\n\nSome Sims (especially &lt;i&gt;grown-up&lt;/i&gt; Sims) think pranks are annoying, but {0.SimFirstName} thinks they're hilarious! Everyone needs a specialty, right? Well, {0.SimFirstName} wants to be the best at pranking!\n\n&lt;b&gt;Reward:&lt;/b&gt; When {0.SimFirstName} grows up {0.SimPronounSubjective} will advance more quickly in the Mischief Skill.
+Be Active
+&lt;b&gt;&lt;font color='#199C2C'&gt;Adventure Challenge&lt;/font&gt;&lt;/b&gt;\n\n{0.SimFirstName} can't sit still! {0.SimPronounSubjective|xxUpper} {S0.loves}{P0.love} being active! Maybe if {0.SimPronounSubjective} {S0.pushes}{P0.push} {0.SimPronounReflexive} then, one day, {0.SimPronounSubjective} could become a famous Athlete!\n\n&lt;b&gt;Reward:&lt;/b&gt; When {0.SimFirstName} grows up {0.SimPronounSubjective} will advance more quickly in the Athlete Career.
+&lt;b&gt;&lt;font color='#AE3CDE'&gt;Inquisitiveness Challenge&lt;/font&gt;&lt;/b&gt;\n\n{0.SimFirstName} loves pictures! It is so much fun to capture a moment in time. Maybe when {0.SimPronounSubjective} {S0.grows}{P0.grow} up {0.SimPronounSubjective} could make a career out of it?\n\n&lt;b&gt;Reward:&lt;/b&gt; When {0.SimFirstName} grows up {0.SimPronounSubjective} will advance more quickly in the Freelance Fashion Photographer Career.
+Be an Amateur Photographer
+&lt;b&gt;&lt;font color='#199C2C'&gt;Adventure Challenge&lt;/font&gt;&lt;/b&gt;\n\n{0.SimFirstName} likes to think {0.SimPronounSubjective} {S0.is}{P0.are} pretty tough for a kid. Maybe if {0.SimPronounSubjective} {S0.challenges}{P0.challenge} {0.SimPronounReflexive} {0.SimPronounSubjective} can be the most rough and tumble adult there ever was someday!\n\n&lt;b&gt;Reward:&lt;/b&gt; When {0.SimFirstName} grows up {0.SimPronounSubjective} will be resistant to food poisoning from spoiled food, won't get scared as easily, and they can better endure Extreme Heat and Cold. &lt;i&gt;(Seasons)&lt;/i&gt;
+Live Dangerously
+&lt;b&gt;&lt;font color='#AE3CDE'&gt;Inquisitiveness Challenge&lt;/font&gt;&lt;/b&gt;\n\n{0.SimFirstName} thinks it is &lt;i&gt;so cosmopolitan&lt;/i&gt; to try different cuisines from Market Stalls. {0.SimPronounSubjective|xxUpper} {S0.finds}{P0.find} it fascinating how food can be so different depending on where it comes from. {0.SimPronounSubjective|xxUpper} would love to eat—ahem, &lt;i&gt;learn&lt;/i&gt; more!\n\n&lt;b&gt;Reward:&lt;/b&gt; When {0.SimFirstName} grows up {0.SimPronounSubjective} will develop the Gourmet Cooking Skill much quicker.
+Be Inquisitive about Cuisine
+Practice Makes Perfect Lesson
+Cheerful Lesson
+{0.SimFirstName} is a Cheerful Sim.  Cheerful Sims tend to be Happy more often.
+Witness Their Downfall
+A Step Closer to Justice
+Vengeance Is a Cold Meal
+Yes, It's Personal
+Party Animal
+Friend of the World
+What can you say? Some Sims are just popular--they charm everyone they meet and form close relationships.
+Joke Star
+Sir Gala Had
+Super Friend
+Some Sims bring a smile to everyone's face--they're close to a few but friendly to all.
+{M0.Funny Businessman}{F0.Funny Businesswoman}

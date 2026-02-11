@@ -1,0 +1,100 @@
+{0.ObjectName}
+Environment: {0.Number}
+Poor Light Conditions
+Poor Weather Conditions
+&lt;b&gt;Status:&lt;/b&gt; &lt;font color='#D10007'&gt;No Water Utility&lt;/font&gt;
+&lt;b&gt;Status:&lt;/b&gt; &lt;font color='#199C2C'&gt;Fully Operational&lt;/font&gt;
+Heated by 5EverWarm Tech
+&lt;b&gt;Status:&lt;/b&gt; &lt;font color='#FF7800'&gt;Broken&lt;/font&gt;
+Heated by Geothermal Energy
+&lt;b&gt;Status:&lt;/b&gt; &lt;font color='#D10007'&gt;No Power Utility&lt;/font&gt;
+#NatureDocumentary
+Effects Added
+Quality: &lt;font color='#EC262E'&gt;Poor&lt;/font&gt;
+Quality: &lt;font color='#DB878A'&gt;Fair&lt;/font&gt;
+Quality: &lt;font color='#3DAF39'&gt;Great&lt;/font&gt;
+Quality: &lt;font color='#5BA578'&gt;Excellent&lt;/font&gt;
+Quality: &lt;font color='#3AAF69'&gt;Good&lt;/font&gt;
+Transitions Added
+R.I.P.
+Uncomfortable
+Comfort: 1
+Comfort: 5
+Bladder: 9
+Bladder: 10
+Reliability: {0.Number}
+Bladder: {0.Number}
+Reliability: {0.Number}
+Comfort: {0.Number}
+Environment: {0.Number}
+{0.Number} {S0.Serving}{P0.Servings} Left
+Sugar
+&lt;font color='#C9A927'&gt;+ Industrial Eco Footprint&lt;/font&gt;
+&lt;font color='#4BA64A'&gt;+ Green Eco Footprint&lt;/font&gt;
+Icey
+Chill
+Flurry
+Flake
+Shiver
+Icicle
+Powder
+Uncomfortable
+Role: Gardening
+Role: Be Evil
+Role: Repairs and Upgrades
+Role: Protecting
+Role: Cleaning
+&lt;font color='#EC262E'&gt;Sales Disabled&lt;/font&gt;
+Small Business is Closed
+{0.ObjectName}
+&lt;font color='#199C2C'&gt;Sales Enabled&lt;/font&gt;
+({0.Number}% Modifier)
+Time Travel Component
+The component made from a Shard of Time. It's needed to turn a computer into a time machine.
+Shard of Time
+An echo through time found in items in the world and concentrated in a crystalline shard.
+Thief's Letter
+Sent years ago, it's as though this letter has been waiting for you the whole time.
+A mysterious IOU note, left inside of a time capsule.
+IOU Note
+Quality: Outstanding
+Quality: Poor
+Quality: Normal
+{0.Money}
+Photographer: {0.SimName}
+{0.SimFirstName}'s personal copy of an interior decoration gig photo. 
+Location: {1.ObjectDescription}
+Before Photo
+After Photo
+&lt;b&gt;(Ruined)&lt;/b&gt;
+Ambrosia Society Newsletter
+Apocalypse Tomorrow
+This is a Sci-Fi book.
+The Venusian Chronicles
+Aliens Don't Need Sunglasses
+Lender's Game
+My Heart Beats for You
+This is a Romance book.
+Poemics
+Yowl: A Complaint in Rhyme
+Poems Lovelier Than Trees
+This is a Poetry book.
+Celestial Pillow Fight
+Life of i: Imaginary Numbers and You
+This is a Nonfiction book.
+Lies My Writing Teacher Told Me
+Heroes of SimCity: Candid Portraits and Tales
+The Fox of Park Avenue
+Blight
+No Way In
+Every Man in Town
+Two Shoes Gone
+This is a Mystery book.
+The Missing Stair
+The Raven Headmistress
+The Werewolf Journals
+This is a Fantasy book.
+Rough-hewn Sword-Maidens and Brawny Warrior Men
+Cat Lord, Cat Counsel
+The Clockwork Carnival
+One Fell Out of the Cuckoo's Nest

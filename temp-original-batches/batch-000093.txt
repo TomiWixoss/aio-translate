@@ -1,0 +1,100 @@
+With ribbed underbellies and fleshy tops, mushrooms feast on decay.
+gardenPlantBushGENCalfPlant_01
+gardenPlantBushGENBonsai_01
+Intergalactic Growth Pod
+A blue, tentaculoid plant that quivers on touch.
+Trash Plant
+Exudes a constant stream of smelly odors. Flies love it!
+Tomato Bush
+Tall and sprigly, tomato plants are like trees that forgot to grow bark.
+Strawberry Bush
+Strawberry plants grow small, white flowers before a berry harvest arrives.
+Spinach Plant
+Spinach bushes are chock-full of leafy nutrients.
+Sage Bush
+Sage's tall, lavender flowers crane gently in the breeze.
+Rose Bush
+An unmistakable bundle of sharp thorns and ripe, layered flowers.
+Parsley Plant
+A bushy, green herb as pretty in a garden as it is on a plate.
+Mushroom Plant
+With ribbed underbellies and fleshy tops, mushrooms feast on decay.
+Grape Vine
+A shrub vine that produces grapes.
+Dragon Fruit Plant
+A cactus bearing pitaya, or &quot;Dragon Fruit.&quot; The mildly-sweet fruit has flesh mottled with small black seeds, and is encased in a tough, leathery skin.
+Daisy Bush
+A common shrub that produces daisy flowers.
+Bovine Bush
+Not to be confused with the Cowplant -looks around- is it there?
+Bonsai Shrub
+A fledgling shrub with thick branches and needles that can one day become a Bonsai tree--given the right pruning and a decorative base.
+Bluebell Plant
+A delicate bush that produces bluebell flowers.
+Blackberry Bush
+A thick shrub that grows blackberries.
+Basil Bush
+A fragrant herb plant that produces basil leaves.
+Bush
+A leafy, blossoming shrub.
+Garden Planter Box
+An elevated container of enriched soil that improves the outdoor growth of up to four small garden plants, or one tree. 
+gardenFruitVertical_bm
+gardenFruitVertical_bm
+{S.Trash Fruit}{P.Trash Fruits}
+Foul-smelling and inexplicably composed entirely of refuse.
+{S.Tomato}{P.Tomatoes}
+Juicy, red-skinned fruit often mistaken for a vegetable.
+{S.Strawberry}{P.Strawberries}
+Small, sweet fruit with a red, seed-covered skin.
+{S.Potato}{P.Potatoes}
+Starchy, delicious underground tuber. The humble potato is often misidentified as a root.
+{S.Pomegranate}{P.Pomegranates}
+Rare. Red-skinned fruit with tart, edible seeds.
+{S.Plantain}{P.Plantains}
+A starchy, banana-like fruit. Best cooked before eating!
+{S.Pear}{P.Pears}
+A crisp and fleshy fruit with a distinctive bell shape.
+{S.Onion}{P.Onions}
+A fragrant and tangy root vegetable.
+{S.Mushroom}{P.Mushrooms}
+An earthy, edible fungus.
+A sour citrus fruit.
+{S.Grape}{P.Grapes}
+Sims love popping these in their mouths like crisp, juicy chocolates. 
+{S.Dragon Fruit}{P.Dragon Fruits}
+An exotic, vibrant-colored fruit.
+{S.Cowplant Berry}{P.Cowplant Berries}
+A plantable, strangely bovine fruit.
+{S.Cherry}{P.Cherries}
+A pair of small, red fruits with pits.
+{S.Carrot}{P.Carrots}
+A sweet orange tuber.
+{S.Bonsai Bud}{P.Bonsai Buds}
+A small cluster of fragrant, green berries that can grow bonsai shrubs.
+{S.Blackberry}{P.Blackberries}
+An aggregate fruit, known for its tangy bite and smooth aftertaste. Great for pies!
+Characterized by that distinctive snap-hiss, bites from an apple are likely to have Sims feeling full and refreshed.
+{S.UFO (Unidentified Fruit Object)}{P.UFO (Unidentified Fruit Objects)}
+Strange space fruit.
+{S.Lemon}{P.Lemons}
+{S.Apple}{P.Apples}
+Forbidden Fruit of the PlantSim
+Eat, and become like the PlantSim. Plant, and grow a tree of your own. Forbidden, for it is nothing more than a facade.
+Growfruit
+Characterized by a distinctive glow, growfruit is a tasty treat, a great fertilizer, and a superb ingredient.
+{S.Tulip}{P.Tulips}
+A plump bloom that grows even after picking, with delicately pointed petals around a cluster of stamens.
+{S.Spinach}{P.Spinach}
+A vitamin-rich, dark green vegetable leaf.
+A collection of small, vivid blossoms.
+{S.Sage}{P.Sage}
+A musky, purple herb leaf.
+{S.Rose}{P.Roses}
+A blossom of beautiful color and lovely aroma.
+{S.Parsley}{P.Parsley}
+A delicate, minty herb leaf.
+{S.Orchid}{P.Orchids}
+Knafeh
+Cake
+Sticky Rice Cake

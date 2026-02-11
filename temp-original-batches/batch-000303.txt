@@ -1,0 +1,100 @@
+&lt;font color=&quot;#1A81E1&quot;&gt;&lt;b&gt;Trials Details&lt;/b&gt;&lt;/font&gt;
+Start Trial Game
+&lt;ul type=&quot;circle&quot;&gt;&lt;li&gt;Trials are currently available only through &lt;b&gt;Origin&lt;/b&gt;.&lt;/li&gt;&lt;li&gt;Trials are free. No strings attached or surprise charges.&lt;/li&gt;&lt;li&gt;Enjoy the entire pack during the trial period.&lt;/li&gt;&lt;li&gt;Try the trial content with a copy of an existing save.&lt;/li&gt;&lt;li&gt;All trials will expire on {0.DayOfWeekLong}, {1.DateShort} at {1.TimeShort}.&lt;/li&gt;&lt;li&gt;Once expired, trial saves will still be available but will play best with the required pack.&lt;/li&gt;&lt;/ul&gt;
+Reg {0.String}
+{0.String}
+Your {0.String} Trial download has stopped for some reason. Please check your Origin Download Queue, to view downloads in progress.
+Trial download has stopped
+Trial Download in Progress
+Your {0.String} Trial is downloading now. To view downloads in progress, check your Origin Download Queue.\n\nYou will receive a notification once the download is complete.
+Trial Download Complete!
+Trial has been installed, but will not be available to use until the game is restarted.\n\nWould you like to restart now?\n\nAll unsaved data will be lost.
+&lt;font color=&quot;#1A81E1&quot;&gt;&lt;b&gt;Trials Details&lt;/b&gt;&lt;/font&gt;
+Downloading Your Trial Now!
+Experience everything from {0.String} once you've installed the pack! The trial is downloading now, we will let you know when it's ready.
+Exit &amp; Install
+&lt;font color=&quot;#EC262E&quot;&gt;&lt;b&gt;Requires The Sims 4 &amp; all game updates. See minimum system requirements for the pack.&lt;/b&gt;&lt;/font&gt;
+Welcome to {0.String}!
+Give Us Feedback
+Thank you for trying the free trial! We're glad you enjoyed the pack enough to purchase and keep playing! Now you can add {0.String} content to all of your saved games, too.\n    \nCare to tell us about your free trial experience? Have a wishlist to make it even better? Let us know in our survey!
+Try new items!
+Try all items available from the &lt;b&gt;{0.String} trial&lt;/b&gt;! All new items installed are within the Golden Categories and we've applied a filter as well to show you first hand all the items.\n\nIf you don't want to see just the Trial items, just remove the filter to see everything again!
+Your Trial is Unavailable
+Sul Sul!\n\nThank you for playing {0.String} free trial! Trials are currently only available through Origin. We hope to have EA Desktop support soon!\n\nWant to keep playing with your Trial saves? Head back to Origin or jump back in when you download the full version of {0.String}.
+Move into {0.String}
+Your Trial Has Expired
+Save and End Trial
+End Trial
+Thank you for trying the {0.String} free trial! We hope you enjoyed experiencing everything the pack has to offer!\n\nWant to keep playing? Just purchase the pack and jump back in!
+Things to do in Trial
+{0.String} Free Trial
+Keep Playing
+No Thanks
+Yes
+Select an option to continue
+OK
+No
+Please enter an amount that is equal to or lower than the full balance
+Please enter an amount that is equal to or higher than the minimum
+Please enter a name that is at least 1 character in length
+Warning
+Warning
+Do not show this dialog again
+Continue
+Cancel
+Reset Ui Scaling to Default?
+Reset to Default (Recommended)
+Keep Current Settings
+UI Scaling can be adjusted in the Game Options under Accessibility.
+The current UI Scaling is not recommended for this resolution. The UI may overlap, bleed off screen, or become unreadable.
+Turn off Auto-Scaling with OS setting?
+Turn off Auto-Scale (Recommended)
+UI Scaling is reading your OS scaling settings and it is too large for this resolution.  This will cause the UI to overlap in some cases.
+How to Become a Tenant
+Residential Rental Onboarding!
+Welcome to Tomarang! In this close-knit neighborhood, you can join fellow Tenants or even become a Property Owner to run your own Residential Rental Business. Let's dive into the details during this Onboarding!
+How to Become a Property Owner
+Interested in WooHoo with:
+Explore options for Romance through Cupid's Corner. This Matchmaking app gives you a selection of Sims to meet that are available for a romantic relationship.\n\nSims will be pulled from the Gallery unless this option is disabled in the Pack Settings.
+Cupid's Corner
+Saved
+Sim has been reported.
+Report this Sim
+You haven't saved any Sims yet.
+Total number of Sims you can have in your Saved tab: {0.Number}/{1.Number}
+Remaining number of Sims you can interact with today: {0.Number}/{1.Number}
+Remove Sim from your Saved list to make room for new Sims.
+Go on a Date with this Sim now. Create a customized date with activities that suit your Sim.
+Ask to Create a Date
+Another date is already in progress.
+This Sim will be added to the Relationship Panel, where your Sim can chat with them or invite them to hang out and get to know them better.
+Add to Contacts
+You've contacted the maximum number of Sims for today, come back tomorrow to contact more Sims.
+Added to Contacts
+Romantically attracted to:
+Looking for Matches...
+This trait is a Turn-On for {0.SimFirstName}
+BUG ME - Active Sim is neutral to this Trait.
+This trait is a Turn-Off for {0.SimFirstName}
+I describe myself as ...
+Select the Traits that best describe this Sim
+My Bio
+Sexual Orientation
+A Sim's Sexual Orientation determines who their Matches will be.\n\nThese can be updated in Create a Sim in the More Details panel.
+Take a Selfie for your Bio!
+Select the Ages that you wish to see as Matches in Cupid's Corner.\n\nThis preference will be taken into account for your next refresh.
+I'm looking for ...
+Creator:
+Not Shared
+Matches
+Sim has been reported.
+Report Sim
+Available in less than 1 hour
+Available in {0.Number} {S0.hour}{P0.hours}
+Refresh Matches to see a new selection of Sims.
+Refresh Matches
+Like this Sim to add them to your Saved tab.
+Saved
+You've reached the maximum number of Sims you can save at one time.
+New Pack Onboarding Available!
+It is highly recommended you turn on the Residential Rental Onboarding to learn about the new pack features. Would you like to turn this on now?

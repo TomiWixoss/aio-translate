@@ -1,0 +1,100 @@
+Add Event
+Work / School
+Vacations
+Show schedules tagged with:
+Holidays
+Festivals
+Events
+Birthdays
+Starts Tomorrow
+Starts Soon, Get Ready!
+Starts Soon
+Starts in {0.Timespan}
+Location: {0.String}
+Invited Household Sims:
+Go to Event
+Wages Owed:
+Customer Count
+Shift Count
+Sell this Business
+Profit:
+Hours Opened
+You cannot sell this business while it is running.
+Advertising Costs:
+The Report shows all income and expenses for this Small Business, up to the moment if the business is currently open.
+Growth opportunities are the areas to improve on. Consider working on them first if they are leaving dissatisfied.\n\nExcellence is what the customers enjoyed the most about the Small Business. Keep up the good work!
+Growth opportunities are areas where customers felt your restaurant was most lacking. Consider improving these first if your ratings are suffering.\n\nThe area of excellence is what your customers most enjoyed about your restaurant. Keep up the good work!
+Customer Reviews
+How much you are earning this shift, or have earned in the most recently completed shift.
+Finances Report
+This section summarizes your employees’ skill improvements, training, and job satisfaction from the last shift.
+Employee Report
+Growth opportunities are areas where customers felt your Vet Clinic was most lacking. Consider improving these first if your ratings are suffering.\n\nExcellence is what your customers most enjoyed about their visit to your Vet Clinic. Keep up the good work!
+Veterinarian
+The quality of your Vet Clinic supplies can improve the effectiveness of your treatments. High quality supplies will lead to more satisfied customers at a higher cost.\n\nPurchase the 'Unlock Vet Supply Quality' perk to unlock.
+Supply Quality
+Make top level management decisions about your Vet Clinic here. These settings will have a major impact on how much money your Vet Clinic makes and its reviews!
+Determines profit from exams and treatments.\n\nHigh markups need to be paired with high quality of service or customers will review the clinic poorly.
+Vet Clinic Settings
+Advertising will bring more customers to your Vet Clinic. Be careful, it can get expensive so make sure the money is worth it!
+You currently don't own any businesses. Use the drop-down menu to purchase a business.
+Select an Option
+Latest Opinion:
+Buy a Vet Clinic
+Buy a Retail Store
+Buy a Restaurant
+Service Profits:
+Small Business Perks
+Perk Points:
+Financial Overview
+Business Value:
+Skill Up
+{0.String} Lv {1.Number}
+Going to Training
+Select a Sim below to hire
+Previous Page - Left Arrow
+Next Page - Right Arrow
+First Page
+Automatically store any utility surplus
+Store
+Immediately sell any stored surplus
+Sell Now
+There is not enough to sell right now.
+Manage:
+Automatically sell utility surpluses
+Auto Sell
+{0.Number} {1.String}
+Rate of Change: &lt;span class=&quot;positive&quot;&gt;+{0.Number} per day&lt;/span&gt;
+Rate of Change: &lt;span class=&quot;neutral&quot;&gt;{0.Number} per day&lt;/span&gt;
+Rate of Change: &lt;span class=&quot;negative&quot;&gt;{0.Number} per day&lt;/span&gt;
+Bills &amp; Utilities
+&lt;span class=&quot;neutral&quot;&gt;{0.Money}&lt;/span&gt;
+Current Billing Estimate
+&lt;span class=&quot;positive&quot;&gt;+{0.Money}&lt;/span&gt;
+&lt;span class=&quot;negative&quot;&gt;{0.Money}&lt;/span&gt;
+{0.Number}) {1.String}
+You are already tracking this Aspiration.
+Completed!
+You can't scroll any further!
+Track Aspiration
+Adjust the Maximum Sim Count for this game save.
+Sim Count: &lt;span class=&quot;count&quot;&gt;{0.Number}&lt;/span&gt;
+Sim Count: &lt;span class=&quot;count&quot;&gt;{0.Number}/{1.Number}&lt;/span&gt;
+The Sim Count in My Households has been exceeded. Remove Sims within Manage Households.
+No results found.
+There are too many player Sims in this game file. Please reduce the number of Sims in My Households or adjust the Maximum Sim Count in Game Options or below.
+Household is currently in use
+Manage your household by deleting any duplicates.
+New Household
+Create a new household
+Move into My Households
+Move into Other Households
+You control too many Sims! Move Households from My Households to Other Households until the Sim Count is below the Maximum Sim Count.
+Configure Neighborhood Stories for all Households in &quot;Other Households&quot;
+Configure Neighborhood Stories for all Households in &quot;My Households&quot;
+View/Configure Individual Household Neighborhood Stories
+Configure custom Neighborhood Stories for this Household.
+Neighborhood Stories is disabled. Re-enable in Game Options under Main Menu.
+Household has a custom Neighborhood Stories configuration
+Z - A
+Last Edited

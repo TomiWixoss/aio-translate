@@ -1,0 +1,100 @@
+{0.SimFirstName} earned {4.Money} but performed terribly at work today, despite {M0.his}{F0.her} affinity for thrill-seeking thanks to the Adrenaline Seeker Lifestyle. {5.String}
+{0.SimFirstName} brought home {4.Money} today. Because {M0.he}{F0.she} lives an Adrenaline Seeker Lifestyle, {M0.he}{F0.she} was bolstered in performance due to {M0.his}{F0.her} affinity for thrill-seeking. {M0.He}{F0.She} did some great work, too! {5.String}
+{0.SimFirstName} earned {4.Money} but performed poorly at work today, despite {M0.his}{F0.her} affinity for thrill-seeking thanks to the Adrenaline Seeker Lifestyle. {5.String}
+What a day of work! {0.SimFirstName} is back home and {M0.he}{F0.she} has earned {4.Money}. Because {M0.he}{F0.she} lives an Adrenaline Seeker Lifestyle, {M0.he}{F0.she} was bolstered in performance due to {M0.his}{F0.her} affinity for thrill-seeking.
+{0.SimFirstName} earned {4.Money} but performed poorly at work today, because of {M0.his}{F0.her} distaste from working indoors thanks to the Outdoorsy Lifestyle. {5.String}
+{0.SimFirstName} brought home {4.Money} today. Working indoors is a drag for {M0.him}{F0.her} as {M0.he}{F0.she} lives an Outdoorsy Lifestyle, but {M0.he}{F0.she} did some great work anyways! {5.String}
+{0.SimFirstName} earned {4.Money} but performed terribly at work today, because of {M0.his}{F0.her} distaste from working indoors thanks to the Outdoorsy Lifestyle. {5.String}
+What a day of work! {0.SimFirstName} is back home and {M0.he}{F0.she} has earned {4.Money}. Despite working inside and going against {M0.his}{F0.her} Outdoorsy Lifestyle, {M0.he}{F0.she} still managed to make ends meet.
+{0.SimFirstName} brought home {4.Money} today. Working indoors is a drag for {M0.he}{F0.her} as {M0.he}{F0.she} lives an Outdoorsy Lifestyle, but {M0.he}{F0.she} did some superb work anyways! {5.String}
+{0.SimFirstName} earned {4.Money} but performed poorly at work today, despite {M0.his}{F0.her} preference for being outside thanks to the Outdoorsy Lifestyle. {5.String}
+{0.SimFirstName} brought home {4.Money} today. Because {M0.he}{F0.she} lives an Outdoorsy Lifestyle, {M0.he}{F0.she} was bolstered in performance due to {M0.his}{F0.her} preference for being outside. {M0.He}{F0.She} did some great work, too! {5.String}
+{0.SimFirstName} brought home {4.Money} today. Despite {M0.his}{F0.her} Indoorsy Lifestyle, {M0.he}{F0.she} did some superb work under uncomfortable outdoor conditions! {5.String}
+{0.SimFirstName} earned {4.Money} but performed terribly at work today, despite {M0.his}{F0.her} preference for being outside thanks to the Outdoorsy Lifestyle. {5.String}
+{0.SimFirstName} earned {4.Money} but performed poorly at work today. Working outside made {0.SimPronounObjective} particularly uncomfortable considering {M0.his}{F0.her} preference for an Indoorsy Lifestyle.
+{0.SimFirstName} couldn't deal with the oppressiveness of being outside. {M0.He}{F0.She} earned {4.Money} but performed terribly at work today given {M0.his}{F0.her} preference for an Indoorsy Lifestyle.
+{0.SimFirstName} brought home {4.Money} today. Because {M0.he}{F0.she} lives an Indoorsy Lifestyle, {M0.he}{F0.she} disliked the time spent outside. But {M0.he}{F0.she} still managed to do some great work! {5.String}
+What a day of work! {0.SimFirstName} is back home and {M0.he}{F0.she} has earned {4.Money}. Even though this is an outdoorsy job, and {M0.he}{F0.she} lives an Indoorsy Lifestyle, {0.SimFirstName} still managed to bring home the bread.
+{0.SimFirstName} brought home {4.Money} today. Because {M0.he}{F0.she} lives an Outdoorsy Lifestyle, {M0.he}{F0.she} was bolstered in performance due to {M0.his}{F0.her} preference for being outside. {M0.He}{F0.She} did some superb work too! {5.String}
+What a day of work! {0.SimFirstName} is back home and {M0.he}{F0.she} has earned {4.Money}. Because {M0.he}{F0.she} lives an Outdoorsy Lifestyle, {M0.he}{F0.she} was bolstered in performance due to {M0.his}{F0.her} preference for being outside.
+Recently let go from this career.
+Quit
+(From Promotion)
+(From Getting Fired)
+(From Demotion)
+{0.SimFirstName} Promoted to {1.String}!
+Quit the {2.String} Career
+{0.SimFirstName} has been promoted to {1.String}!\n\n{M0.He}{F0.She} will now make an additional {6.Money} per hour, for a grand total of {5.Money} per hour.\n\n{M0.His}{F0.Her} next shift is {4.DayOfWeekLong} at {4.TimeShort}.\n\n
+Promoted to {1.String}
+{0.SimFirstName} has been given a raise as {1.String} for superior work performance!\n\n{M0.He}{F0.She} will now make an additional {6.Money} per hour, for a grand total of {5.Money} per hour.\n\n{M0.He}{F0.She} has also received the following bonus:\n{7.String}
+Entered the {2.String} Career
+Fired
+Demoted to {1.String}
+My boss called to say that my work performance is pretty shaky. If I'm not careful I could get demoted. I was told to focus on my career goals, keep a good mood at work, and make it in on time everyday.
+My boss is calling. Should I pick it up?
+{0.SimFirstName}'s work day will end in one hour. {M0.He}{F0.She} should wrap up what {M0.he}{F0.she} is doing. Each work day can be extended once by clicking on the Event Timer.
+Work from home
+Take PTO
+Go to work
+Call in sick
+Work for {0.SimFirstName} starts in about one hour. What would you like to do?
+{0.SimFirstName} brought home {4.Money} today. {M0.He}{F0.She} did some superb work too! {5.String}
+{0.SimFirstName} earned {4.Money} but performed poorly at work today. {5.String}
+{0.SimFirstName} brought home {4.Money} today. {M0.He}{F0.She} did some great work, too! {5.String}
+{0.SimFirstName} earned {4.Money} but performed terribly at work today. {5.String}
+Shower
+Read
+Greet
+Grab a Serving
+Cook
+Clean
+Sleep
+Workout
+Paint
+Mean Interaction
+Make App or Game
+Find Hack under Program
+Interact with Lewis
+Call to Meal
+Invite to Stay or Ask to Leave
+Friendly Interaction
+Mischief Interaction
+Psych Self Up
+Order Voodoo Doll
+Observe Sky or Stargaze
+Browse Simpedia in Web
+Put in Inventory
+Program Interactions
+Choose &quot;Try for Baby&quot; interaction in the Romantic Category. Available when Sims have high romantic relationship
+Clean Up Trash, Messes, or Dirty Objects
+Change Outfits and Appearance at Mirrors and Dressers
+Find a Book to Read
+Play Here
+Meet and Befriend another child with Sofia or Leonardo
+Choose &quot;Ask about School&quot; in the Friendly category
+Help with Homework
+Do focusing activities like playing chess, reading books, or browsing Simpedia on the computer
+Sleep
+Put Away
+Play
+Grab Leftovers
+Choose a Meal to Cook
+Bathe or Shower Here
+Call to Meal
+Order Drinks For Group
+Psych Self Up
+Freshen Up
+Cook Group Meal
+Practice Speech
+Knock
+Dance
+Order Drink
+Take Shower
+Work Out
+Use Romantic Interactions
+Ask to Woohoo
+Ask to be Romantic Partner
+Romantic Interaction
+Become Good Friends
+Hang out With Date
+Use Mischief interactions

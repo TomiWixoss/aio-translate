@@ -1,0 +1,100 @@
+{0.SimFirstName} feels close to {1.SimFirstName} from good times and happy memories.
+Open-Hearted
+{0.SimFirstName} feels close to a recent addition to the family, {1.SimFirstName}. A warm welcome!
+Regained Trust
+{1.SimFirstName} worked hard to regain {0.SimFirstName}'s trust after a &quot;slip up&quot; and wants to fully commit to this relationship.
+{0.SimFirstName} has a powerful bond with {1.SimFirstName} that is a source of strength and comfort.
+Sibling Jealousy 
+{0.SimFirstName} doesn't know what's so great about {1.SimFirstName}, anyway. Why should {1.SimPronounSubjective} get all the attention?!
+Grudging after a Fight
+{0.SimFirstName} and {1.SimFirstName} have some unfinished business. This conflict is unresolved and tensions are high, at least from {0.SimFirstName}'s perspective.
+Resentful about Divorce
+{0.SimFirstName} has some resentment leftover from {F0.her}{M0.his} divorce. {0.SimFirstName} may not enjoy being around {1.SimFirstName}.
+Bitter about Breakup
+{0.SimFirstName} can't quite shake some resentment towards {1.SimFirstName} about how their romantic relationship ended. {0.SimFirstName} might find it unpleasant to be around {1.SimFirstName} for a while.
+{0.SimFirstName} has a deep-seated grudge against {1.SimFirstName}. It's hard to forget or forgive the past, which may make being around {1.SimFirstName} feel very unpleasant for {0.SimFirstName}.
+Betrayed by Cheating
+Infidelity has soured {0.SimFirstName}'s feelings for {1.SimFirstName}. {0.SimFirstName} may find that being around {1.SimFirstName} brings back bad memories about what happened.
+Whole Heart
+What a bliss this new baby brings to {0.SimFirstName}'s life! 
+Fascinated
+{0.SimFirstName} can't seem to stop smiling and giggling around {1.SimFirstName}! What an amazing bond!
+Impressed
+{1.SimFirstName} sure knows what {M1.he}{F1.she} is doing and {0.SimFirstName} has nothing but respect.
+Adoring
+{0.SimFirstName} just wants the best for {1.SimFirstName} and thinks {F1.she}{M1.he} is so wonderful!
+Friends In A Time Of Loss
+{0.SimFirstName} has formed a bond with {1.SimFirstName} - the kind that can only come from the profound grief of death.
+Awed by Lifesaving Hero
+{1.SimFirstName} literally saved {0.SimFirstName} from the clutches of death. {0.SimFirstName} is grateful and amazed!
+Love Affair
+{0.SimFirstName} went behind {0.SimPronounPossessiveDependent} partner's back, crossing a line with someone that trusted {0.SimPronounObjective}.
+Furious about Curse
+A simple conversation went horribly wrong. The cursed energy around this Sim twisted their words, leaving the other Sim offended, embarrassed, and absolutely furious.
+Step-Flirts
+{0.SimFirstName} cannot believe that love was found within the safety of {0.SimPronounPossessiveDependent} extended home. 
+In-Lovers
+Fate had it that {0.SimFirstName} and {1.SimFirstName} walked into each other's lives and simply fell in love. {0.SimFirstName} cannot believe {0.SimPronounSubjective} could be so lucky!
+Scandal Confidante
+{1.SimFirstName} promised to keep quiet about {0.SimFirstName}'s scandalous behaviour, putting {0.SimPronounObjective} at ease
+What a Goofball!
+{0.SimFirstName} thinks {1.SimFirstName} is the funniest Sim EVER!
+Confronted the Burglar
+How dare that burglar take {0.SimFirstName}'s hard-earned things!
+Widower
+Widow
+Few things are sadder than when spouses are separated by death.
+(From Losing a True Love)
+{1.SimFirstName} just became the partner of {0.SimFirstName}.
+(From New Relationship)
+Promised
+These Sims have promised that they will remain a couple forever.
+(From Exchanging Promise Rings)
+{1.SimFirstName} just promised {M1.himself}{F1.herself} to {0.SimFirstName}!
+Spouse
+Left at the Altar
+Nothing complements heartbreak like utter humiliation.
+The betrothed was left standing at the altar. Maybe it was for the best, but it's unlikely they feel that way.
+{0.SimFirstName} just got Engaged to {1.SimFirstName}!
+(From Getting Divorced)
+{1.SimFirstName} just became a Despised Ex of  {0.SimFirstName}.
+Bad Romance
+Sometimes your gut tells you it's all wrong. And then you tell that gut to be quiet.
+Total Opposites
+One says &quot;hot&quot; and the other says &quot;be quiet.&quot;  One says &quot;black&quot; and the other says &quot;go away.&quot;  What total opposites!
+Terrible Match
+It's probably best to stay apart.  There's a lot of dislike here. Like, a lot.
+Sweethearts
+The foundation of a strong friendship has forged a lasting love.
+Soulmates
+Two Sims, one heart.
+Romantic Interest
+It's too early to tell, but there could definitely be something there!
+Lovers
+To be in love is a beautiful thing!
+Just Good Friends
+This is a solid relationship built on trust and good memories.
+Just Friends
+A friend will always be there for a kind word.
+It's Very Complicated
+Aren't love and hate just two sides of the same coin?
+It's Very Awkward
+They drive each other crazy, but they also drive each other &quot;crazy...&quot;
+It's Complicated
+The burning romantic desire cannot be quelled, even if they don't like each other that much.
+&quot;It's Awkward&quot;
+At least some aspects of the relationship are budding, if not all.
+Hot and Cold
+Are they on or off? People can never tell.
+Enemies with Benefits
+&quot;I hate you...but I must have you!&quot;
+Disliked
+This relationship is tense. Things are likely to go awry!
+Despised
+Things in this relationship have gone awry. Can it be salvaged?
+Lovebirds
+A connection of curious hearts. This is shaping up to be a beautiful romance.
+Bad Match
+Art that can elicit a snicker or two.
+Playful Painting
+A painting to stir the lions of passion.

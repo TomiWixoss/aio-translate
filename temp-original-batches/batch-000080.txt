@@ -1,0 +1,100 @@
+You can't pour a drink until you've brewed a full pot of water.
+Boil Kettle
+Solve Math Problems
+Paint Grilled Cheese Painting
+Being Inspired helps with the painting skill!
+Practice Painting
+Cannot do this while taking photos.
+(From Liking Painting)
+(From Disliking Painting)
+Ponder Glass Fullness
+Ponder Glass Emptiness
+Freshen Drink
+A little splash of somethin' somethin' will keep that drink good for a while longer!
+Drink Essence of {2.SimFirstName}'s Life
+Drink {2.SimFirstName}'s {1.ObjectName}
+Try On Outfits
+Looking good can make Sims feel flirty!
+Take Clothes Off
+Change Outfit for Infant or Toddler
+Change {2.SimFirstName}'s Outfit
+Change Outfit for {2.SimFirstName}
+Space
+Birds
+Tell Bedtime Story of Future Reign
+Twinkle Twinkle Little Star
+Sleep Baby Sleep
+Rock-A-Bye Baby
+Hush Little Baby
+Frere Jacques
+You must upgrade the Crib with a Baby Mobile.
+Convert to Crib
+Convert the Toddler Bed into a Crib when you need it!
+Continue to Convert to Toddler Bed
+Convert to Toddler Bed
+Upgrade Completed!\n\nThe Crib has been converted into a Toddler Bed!
+Upgrade Completed!\n\nThe Toddler Bed has been converted into a Crib!
+Convert the Crib into a Toddler Bed once your infant ages up.
+Continue to Add Baby Mobile
+Add Baby Mobile
+Upgrade Completed!\n\nThe Crib now has a Baby Mobile attached!
+Add an Electronic Mobile to the Crib that spins and plays a lullaby.
+Kiss Goodnight
+Soothe to Sleep
+Tell Bedtime Story
+Play Lullaby
+Invite To
+Tend Table
+Stock Table
+Your table has run out of space to fit the items you are trying to stock. Try restocking again after clearing some space.
+There is nothing to stock from the table's inventory.
+Purchase {1.ObjectName}
+The table is currently marked up by this percentage.
+A higher Mark Up makes items sell for more, but customers will be less likely to purchase something.
+Start Yard Sale
+{0.SimName} needs to be tending the table to start a sale.
+Resume Practice Painting
+Resume Experimental Cooking
+Join Cooking
+Invite to Join Cooking
+Clean with Vigor
+Energized Sims clean much faster!
+Wear Playful Coach Outfit
+Wear Flirty Coach Outfit
+Wear Confident Coach Outfit
+(From Wearing a Costume)
+Remove Costume
+Have a Quick Meal
+Grab a Drink
+Have a Quick Meal
+Grab a Drink
+{2.String}
+{0.String}
+Can't open while a Sim is sitting here.
+OK
+Cancel
+Practice Cooking
+Practice Gourmet Cooking
+Garnish
+This is already a fine dish. It needs no garnish.
+Wolfishly Ingest {1.ObjectName}
+Wolf Down {1.ObjectName}
+Not for Robots.
+Ingest {1.ObjectName}
+Write Love Email to {2.SimFirstName}
+{0.SimFirstName} just sent a love letter. Wait an hour to be able to send another.
+Write Excuse Note For {2.SimFirstName}
+We received your note. Please take the day off and we'll see you the next time!
+Write Jokes
+Write Positive Article about {2.SimFirstName}
+{0.SimFirstName} has finished writing {M0.his}{F0.her} piece on {2.SimName}. {M0.He}{F0.She} has earned {3.Money} for it. The article really shed some positive light on {2.SimFirstName}, so {M2.he}{F2.she} should be happy about it.
+Write Negative Article about {2.SimFirstName}
+{0.SimFirstName} has finished writing {M0.his}{F0.her} piece on {2.SimName}. {M0.He}{F0.She} has earned {3.Money} for it. Given the inflammatory remarks, {M0.he}{F0.she} should expect some backlash from {2.SimFirstName}.
+Write Article
+Resume Article
+Write Style Column
+Resume Style Column
+Write Report
+(From Liking Writing)
+(From Disliking Writing)
+Watch a Gaming Livestream

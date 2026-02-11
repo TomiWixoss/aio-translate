@@ -1,0 +1,100 @@
+Save slot corrupted, unable to load.
+Last Played Household:
+Copy the save file path to the clipboard:
+Name:
+The save game you are attempting to load was saved with a newer version of The Sims 4 than is currently installed.  Please update in order to safely load this save game.
+Save files must be named. Please enter a name to continue saving your game.
+Must give valid save name.
+Delete
+Are you sure?
+Delete
+Are you sure you want to delete {0.String}?\n\nWARNING: This is the current save file. If this is deleted, the Main Menu may need to be reloaded.
+Are you sure you want to delete {0.String}?
+My Saved Game {0.Number}
+{0.String} (Auto)
+Add New Scenario Save
+Add New Save
+Recover Save
+Recover Save?
+Recovering this save will create a new game save slot, with the word &quot;Recovered&quot; appended to the end of the name.
+Recover this save game.
+Recover
+No recovery saves are available.
+Memory Boost
+Are you sure?
+Are you sure you want to delete recovery data?
+Delete this save game.
+Delete
+View details for the required pack(s)
+View Pack(s)
+Copy_{0.String}
+{0.String}
+{0.String}\n&lt;font color=&quot;#EC262E&quot;&gt;Not owned&lt;/font&gt;
+{0.String}\n&lt;font color=&quot;#EC262E&quot;&gt;Not loaded&lt;/font&gt;
+Available Perk Points:
+Restaurant Perks
+Redeem
+Are you sure you want to purchase &lt;font color=&quot;{0.String}&quot;&gt;{1.String}&lt;/font&gt; for {2.Points}?
+Your remaining point balance will be: &lt;font color=&quot;{0.String}&quot;&gt;{1.Points}&lt;/font&gt;
+Purchase Reward
+Are you sure you want to purchase &lt;font color=&quot;{0.String}&quot;&gt;{1.String}&lt;/font&gt; for {2.PerkPoints}?
+Your remaining balance will be: &lt;font color=&quot;{0.String}&quot;&gt;{1.PerkPoints}&lt;/font&gt;
+Purchase Perk
+Reward
+This perk requires another perk to be unlocked first. To find out which perk is required, hover over this perk's name.
+Insufficient Points
+Traits
+Potions
+Filter By...
+All
+Point Cost
+Formative Moments Traits
+Available Points:
+Ingredients For A Recipe:\n{0.String}
+Total Count:
+Total Cost:
+Time Until Refresh: {0.Timespan}
+Quantity
+Purchase Items
+Sort by Name
+Name
+{0.SimName} doesn't have enough Simoleons to buy this.
+{0.SimName} doesn't have enough funds to buy this.
+{0.Number}
+Sort by Cost
+Cost:
+Buy
+This is the current outfit.
+All
+The &quot;{0.String}&quot; Residence
+&lt;font color='#ff0000'&gt;&lt;b&gt;Complete requirements to continue&lt;/b&gt;&lt;/font&gt;
+This design cannot be used with the selected crystal.
+No effect
+No Crystal Slot in Selected Design
+No Crystal Selected
+Metal
+{0.Money} {1.Money}
+If Charged on the Crystal Grid:
+Gemology Skill: {0.Number}
+Design
+Cut
+Crystal
+Select a Metal
+Select Design
+Select Cut
+Select a Crystal
+Sort By {0.String}
+&lt;span class=&quot;label&quot;&gt;{0.String}:&lt;/span&gt; &lt;span class=&quot;value&quot;&gt;Level {1.Number}&lt;/span&gt;
+{0.SimFirstName} has insufficient skill!
+You have insufficient funds!
+Ingredients reduce the cost and can improve the Quality of a dish. Fresh Ingredients can be gathered, grown or purchased from various locations throughout the world. Prepped Ingredients are created in the Stand Mixer and can be used to replace Fresh Ingredients as well as decrease the cooking time of selected recipes.
+Fresh Ingredients reduce the cost and can improve the Quality of a dish. They can be gathered, grown or purchased from various locations throughout the world.
+Use Prepped Ingredients
+Use Fresh Ingredients
+{0.Money}\n{1.Money}
+{0.String}: {1.Number} / {2.Number}
+Max Limit of {0.Number}
+All
+Sort by Trend
+Trend
+Sort by Cost

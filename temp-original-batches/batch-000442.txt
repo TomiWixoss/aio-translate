@@ -1,0 +1,100 @@
+{0.String}% Complete
+{0.SimFirstName} has no skills.
+{0.SimFirstName} hasn't earned any perks yet. Keep practicing!
+Minor Skill
+Major Skill
+Name
+Level
+Do not choose any Dynasty
+Dynasty
+A child can only join a Dynasty if\ntheir parents are married and they are \nnot a Secret Child
+A child can only join a Dynasty if their\nparents are married and they are not a Secret Child
+Spoiled {0.String}
+Quality:
+Poor {0.String}
+Excellent {0.String}
+Normal {0.String}
+&lt;span class = 'label'&gt; {0.String}: &lt;/span&gt;&lt;span class = 'value'&gt;{1.Number} / {2.Number}&lt;/span&gt;
+Return to Collections List
+&lt;span class = 'label'&gt;Collections Found: &lt;/span&gt;&lt;span class = 'value'&gt;{0.Number} / {1.Number}&lt;/span&gt;&#xD;&#xA;
+&lt;span class = 'label'&gt;Collections Completed: &lt;/span&gt;&lt;span class = 'value'&gt;{0.Number} / {1.Number}&lt;/span&gt;
+&lt;span class = 'label'&gt;&lt;b&gt;{0.String}&lt;/b&gt;\n&lt;/span&gt;&lt;span class = 'value'&gt;{1.Number}/{2.Number}&lt;/span&gt;
+&lt;span class = 'label'&gt;&lt;b&gt;{0.String}&lt;/b&gt;\n&lt;/span&gt;&lt;span class = 'value'&gt;{1.Number}/{2.Number}&lt;/span&gt;&lt;span class ='bonus'&gt;\n&lt;font color='#1E81E6'&gt;&lt;b&gt;Bonus:&lt;/b&gt; {3.Number}/{4.Number}&lt;/font&gt;&lt;/span&gt;
+This Household hasn't found any collectibles yet. Sims can find collectibles by interacting with each other, household objects, and the world.
+Household Collections
+This item hasn't been found yet. Keep looking!
+
+?
+Rarity
+Recent
+Name
+Missing
+Bonus Items
+Progress
+Name
+This Club
+To Whom...
+You cannot perform this action to a teen.
+Remove Activity?
+Are you sure you want to remove this activity? This cannot be undone.
+Edit a Club Activity
+Club Activities ({0.Number} Remaining)
+Do's and Don'ts
+Banned Activities ({0.Number} Remaining)
+Details...
+Create a Club Activity
+You cannot perform this action to a child.
+Select one or more Details... to proceed
+Action...
+Choose an Action...
+Remove Activity
+Performing Club Activities during a gathering will earn you Club Points. It will also turn your Club Indicator green to show you are performing a Club Activity.
+Performing Banned Activities during a gathering will get your Sim scolded. It will also turn your Club Indicator red to show you are performing a Banned Activity.
+Traits: {0.String}.
+Skills at level 2+: {0.String}.
+Romantic Attraction: {0.String}
+Relationship Status: {0.String}
+{0.String} Sims
+Regions: {0.String}
+Occults: {0.String}
+Financial Status:{0.String}.
+Gender: {0.String}
+Celebrity Level: {0.String}
+{1.String}
+{1.String}
+Careers: {0.String}.
+{1.String}
+{1.String}
+{0.String}
+Only Club Leaders can change the Club Activities.
+Add Activity
+Social
+Small Business
+Skill
+Outdoor
+Other
+Object
+Mischief and Mayhem
+Kid Activities
+Home Activities
+Hobbies
+Fun and Games
+Food and Drink
+Art and Music
+Trait
+Supervised Customer
+Skill Level 2+
+Relationship Status
+Marital Status
+Region
+Occult
+Financial Status
+Gender
+Celebrity Level
+Everyone
+Choose Category
+Clubs
+Career
+Anyone
+Age
+Club Requirement

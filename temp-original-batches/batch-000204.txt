@@ -1,0 +1,100 @@
+Jardín de mis Amores
+Host a memorable and festive, Hispanic-inspired wedding celebration in this botanical Wedding Venue. Relax indoors amongst the greenhouse gardens or spend the evening dancing away in the courtyard! There's plenty of space for both romance and merrymaking.
+Chez Llama
+Partake in science and taste test Chez Llama’s most experimental dishes. If it doesn't look like what you think you ordered, then it is a successful and delicious meal! What? Don't be scared, they only serve edibles.
+Sunny Side Up Diner
+Serving the most important meals of the day any time of day.
+Yin &amp; Yang
+Complementary atmospheres of dark indoors and naturally lit outdoors are what this club is all about. Yin &amp; Yang displays a balance between two opposites with a little bit in each.
+Club Slate
+Dance the night away at this chic nightclub! If you prefer to observe, there’s a second floor balcony surrounding the dance floor. But, please come dance to avoid bothering dancing patrons.
+Country Clinic
+Need to go to the vet, but hate that sterile, medical feeling? Renovated from an old home in the countryside, this Vet Clinic feels warm and welcoming.
+Glasswork Lover's Chapel
+The perfect venue for a classic, chapel wedding. Say your vows against a stained-glass backdrop, with hopes that your marriage will be as colorful as the day you were married. Then head outside for a charming reception in the flower garden.
+Hogan's Burger Bar
+A restaurant crafted around the idea of a BBQ picnic - minus all the ants. This is the place to be on those days when we feel like we want to dine outside. Also, what better combination than Meat, Cheese and Carbs? Bring these all together and you have the ingredients for a great restaurant.
+L’Attente Bistro
+You will want to line up and wait many hours for a spot to try their delicious recipes. No, we don't have a clue as to what their dishes are. We are still waiting in line!
+Oasis Springs Dust Bowl
+Is it a mirage? No, it's an oasis of affordable entertainment! Finally bowling has come to Oasis Springs so you don't have to kick rocks in the desert to pass the time.
+Creekside Smooth
+A Willow Creek classic, Creekside Smooth is the high end bar for lovers of a smooth, jazzy atmosphere and the crisp libations of veteran mixologists. Fill your glass and strike up a conversation - you’re in smooth!
+Patchy’s
+With a scruffy, “hairy guy next door” name like Patchy’s, you know you’re in for a fun when you step foot in this local neighborhood bar. Saunter up to the bar for a cold beverage then meet some cute young things on the dance floor. When you’re at Patchy’s, you’re in for a good time!
+Suspended Modern
+Take a relaxing walk through the museums garden to gather inspiration. Climb the spire to enjoy life's greatest creations, from the top artists around the city. All locally curated, and put on display for your enjoyment.
+Classic Wooden Ladder
+You can climb it up. You can climb it down. Then back to the top and slide waaaaaay down!
+Shake
+Ah-ha! {0.SimFirstName} has proven victorious against {M0.his}{F0.her} foe, the stingy vending machine! The formerly-stuck items can now be found in {M0.his}{F0.her} inventory. Maybe now the vending machine can sit and think about what it did!
+Vending Machine Items Received
+Vending Machine Items Stuck
+Purchase Item
+(From Stuck Vending Machine)
+Terrified of the Vending Machine
+(From Being Killed by a Vending Machine)
+Purchase Bits'n Bobbles
+This vending machine is stocked with remedy and deterrent wilderness supplies, plus a variety of other useful bits'n bobbles.
+This vending machine is stocked with an assortment of quick snacks and small meals.
+Browse Vending Machine
+The items {0.SimFirstName} purchased can be found in {M0.his}{F0.her} inventory.
+As {0.SimFirstName} waits for the vending machine to retrieve {M0.his}{F0.her} purchased items, {M0.he}{F0.she} comes to a terrible realization: they're stuck! {M0.He}{F0.She} will not be receiving {M0.his}{F0.her} purchases today. Unless...
+Ride Here
+Set Favorite Water Vehicle
+Remove as Preferred Water Vehicle
+Set as Preferred Bike
+Remove as Preferred Bike
+Change Appearance
+Produce Water
+Produce Electricity
+Turn On Utility Usage
+This object will start consuming utilities when used or turned on, as long as the household has excess utility.
+Turn Off Utility Usage
+This object will no longer consume utilities and utility-using interactions will not be available, even if a household has a utility surplus.
+Turn On Power Usage for All Fridges
+Turn Off Power Usage for All Fridges
+Water Production - Small (10)
+Water Production - Medium (25)
+Water Production - Large (50)
+Water Consumption - Small (10)
+Water Consumption - Medium (25)
+Water Consumption - Large (50)
+Power Production - Small (10)
+Power Production - Medium (25)
+Power Production - Large (50)
+Power Consumption - Small (10)
+Power Consumption - Medium (25)
+Power Consumption - Large (50)
+(From Bathing without Hot Water)
+Must Be On Dry Land to Do This
+Permanently remove {0.SimFirstName} by returning to the Netherworld. This interaction cannot be undone.
+Release Spirit
+Releasing {2.SimFirstName}'s soul to the Netherworld will forever free {M2.his}{F2.her} spirit from this mortal realm. Are you sure you want to do this?
+Mourn Past Life
+Mourn Past Life
+Leave Sugar Skull Offering
+Success! {0.SimFirstName}'s gesture of respect was appreciated. The ancestors have heard {M0.his}{F0.her} call and sent a Day of the Dead celebrator to roam the neighborhood!
+{0.SimFirstName} has already made an offering recently.
+Destroy
+Strengthen Connection to Physical World
+{2.SimFirstName}'s connection to this world is slowly withering. Soon, {M2.his}{F2.her} spirit will be released, and {M2.he}{F2.she}'ll no longer be able to wander about and haunt Sims. {0.SimFirstName} can plead the benevolent otherworldly spirits to allow {2.SimFirstName} to stick around for just a little while longer...
+Call Forth
+Purchase Upgrade Parts
+In order to declare such a thing, {0.SimFirstName} needs to max out the Skill used to craft it.
+This isn't high enough quality for the refined tastes {0.SimFirstName} possesses.
+Check Infant
+Watch Sports
+Nothing fills the heart with joy like watching your favorite team overcome the competition.
+Watch Romance
+Romantic shows can get Sims flirty!
+Watch Comedy
+Funny shows can make Sims playful!
+Watch News
+Sims love being up to date on current affairs!
+Watch Music TV
+Watch Kids Network
+Child Sims will be entertained by the latest cartoons on this channel.
+Watch Fireplace Channel
+Enjoy the warmth of the toasty digital flames!
+Watch Cooking Shows for Ideas

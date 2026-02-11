@@ -1,0 +1,100 @@
+Fountains
+Fountains
+Foundations
+Flowers
+Exterior Trims
+Floor Patterns
+Floor and Ceiling Patterns
+Fences
+Doors
+Dirt and Sand
+Columns
+Spandrels
+Empty Rooms
+Arches
+Object Gameplay Cannot Function Here
+Walls can't have a blank material.
+Wall requires a flat base.
+Roof walls can't intersect objects.
+Walls can't extend beyond the edge of the lot.
+Invalid Diagonal Intersection.
+Walls can't be built against the edge of the lot.
+Wall must be taller to place frieze.
+A wall exists here.
+Wall doesn't exist.
+Can't remove all walls.
+Roof wall placement is being blocked.
+The terrain on this type of lot cannot be modified
+Upper level needs support.
+Unknown rounded piece failure.
+Unknown Failure
+Too many windows and doors on wall segment.
+Terrain Tiles Must Be Flat
+Must be placed on terrain.
+Terrain Height Out Of Bounds
+System Error
+The slot is occupied by another object.
+Slot invalid on slope.
+Object group size exceeds limits
+This can't be deleted.
+Script call failed.
+Cannot place rounded deck above another apartment
+Roof is too big.
+Roof pitch can't be adjusted that high.
+Roofs must be at least one tile wide.
+Roof is below the ground.
+Roof must be built within lot boundaries.
+Roof eaves must stay within lot boundaries.
+Roof must be built on an even base.
+Failed to create roof.
+Roof Completely Below Ground
+Roofs can't be placed in enclosed rooms.
+Failed to create attic wall.
+Must be applied to Pools or Fountains.
+Must be placed on specific objects.
+Object is currently locked. View unlock conditions in Build Mode.
+Still processing previous action. Slow down!
+Pools must have area.
+This pond is already at its max height.
+There is no pond at this location.
+Use Terrain Manipulation tools to dig a hole in the terrain before adding water here.
+Pools and Fountains can't be submerged by the Water Tool.
+Water can't be added to an open basement.
+Basements located directly under a pond can't have their ceiling removed.
+Unit must be unhidden to make edits
+Platforms Must Have Area
+Placement choices
+The Half Wall is too tall for the Partition.
+Lot is not big enough.
+Cannot make changes outside owned area.
+Op generation failed
+Only one window or door per wall segment.
+Can't move object there.
+Object not positioned correctly for placement in this slot.
+Object not rotated properly for placement in this slot.
+ObjectOn Slope Too Steep
+Object Must Be On Flat Terrain
+Object can't be placed on terrain.
+Object can't be placed on the floor.
+Object can't be placed in the air.
+Can't edit a lot that you don't own.
+No top to remove.
+Not implemented.
+Nothing to Undo.
+Nothing to Redo.
+Nothing to delete.
+Nothing to change.
+Object not found in inventory.
+Not expanded to Ops
+No Error
+No Floor To Remove
+Must be placed on roof.
+Must place in water.
+Must be placed in deep ocean water
+Must be placed in shallow ocean water
+Must be placed in a Pool.
+Must be placed in a pond.
+Must be placed in the ocean.
+Can only be placed in fountains
+Must place in deeper ocean water.
+Must be outside.

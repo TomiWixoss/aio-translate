@@ -1,0 +1,100 @@
+Place in World
+Evil Heavy Lifting
+{0.SimFirstName}'s Voodoo Doll
+(Unbound)
+Bound to {0.SimName}
+Summon {2.SimFirstName}
+Hold
+Tickle
+Soak
+Poke
+Frolic
+Cuddle
+Toy with Death
+Bind
+Bind To
+View {1.ObjectName}
+{0.SimName}
+{0.ObjectDescription}
+Resurrect
+Release Spirit to Netherworld
+Laugh at {2.SimFirstName}
+Mourn {2.SimFirstName}
+I told you it wouldn't work.
+Wish you were here.
+Can't wait to see you.
+Gone but not forgotten. Enter some kind words to remember {2.SimFirstName} by.
+Engrave Epitaph
+Upgrade
+Workout (Push the Limits)
+Evil Workout
+Evil Epic Workout
+Energized Workout
+Run with Chest Out
+Workout
+{0.SimFirstName} is too tired to do this right now!
+Ms. Fluffykins
+SallySue
+Sir Francis
+Georgey
+Reach Level 8 Mixology Skill
+Reach Level 7 Mixology Skill
+Reach Level 5 Mixology Skill
+Reach Level 4 Mixology Skill
+Reach Level 3 Mixology Skill
+Reach Level 2 Mixology Skill
+Max Mixology Skill to Level 10
+Hey, that tickles!
+Stranger Danger!
+My favorite time of day is when we play together.
+ERMAHGERD, TERKEN TERZ!
+Social
+Sims are social creatures that need to interact with others. Invite over a friend, chat someone up on the computer or phone, or just stop a neighbor walking by on the street.
+Hygiene
+Even Sims need to freshen up from time to time. A quick shower or bath will keep the stink away.
+Hunger
+Like all living creatures, Sims need sustenance. Have a meal, order pizza, or grill something delicious.
+Fun
+Everyone needs some fun in their lives, even Sims. Find a TV, play some chess, or of course, play a video game!
+Energy
+Coffee can stave off the sandman for a while, but eventually all Sims need their zzz's.
+Bladder
+Need to pee? Send {0.SimFirstName} to the bathroom to avoid catastrophic humiliation!
+Face-Plant
+Hunger Failure
+Energy Failure
+Bladder Failure
+Complain about Loneliness
+Complain about Being Dirty
+Complain about Hunger
+Complain about Tiredness
+Complain about Bladder
+Sad
+Playful
+Fine
+Uncomfortable
+Very Inspired
+Inspired
+Happy
+Tense
+Focused
+A Flirty Sim will find all kinds of success at matters of love.\n\nTry some romantic socials with another Sim!
+Flirty
+A Flirty Sim will be more successful in matters of love.\n\nTry some romantic socials with another Sim!
+Energized
+Embarrassed
+Dazed
+Dazed
+Confident
+You cheated to get this Moodlet!
+Bored
+Angry
+{0.SimFirstName} is too angry to do this!
+{0.String} ({1.Number})
+{0.Money}
+{0.SimFirstName} can't afford this.
+Tend Bar for 1 Hour
+Have Guests Watch the Ceremony
+Main Goal: \nGet Married!
+Dance
+Kiss {2.SimFirstName}

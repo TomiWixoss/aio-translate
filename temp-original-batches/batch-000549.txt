@@ -1,0 +1,100 @@
+Suspicious Squeaking
+Something Sounds Suspiciously Similar to Small Shaggy Sneaks.
+Rude Awakening
+If the Mice would just keep it down!
+Mice!
+Eeek! Aak! These pests made themselves at home!
+Made It Worse!
+Tried to fix an apartment problem. Tried and failed. Failure.
+Handy Hero!
+Yes! Who needs a Landlord when fixing apartment problems comes so easily?
+Cooling Breeze
+The refreshing cool air has {0.SimFirstName} energized.
+Freezing Breeze
+Staying in range of the icy blasts of AC is NOT a good time.
+Clay has so much potential. All the possibilities are inspiring!
+Comforting Light
+The soothing light from the Night Light was so comforting!
+Just Call Me Cupid
+Give {0.SimFirstName} a bow and arrow, Cupid has competition now!
+Brought Friends Together
+Helping others connect always elicits feelings of joy!
+Near Romance
+Near Partner
+The ol' stomach isn't feeling so good.
+A Day of Music and Inspiration
+Feeling inspired from the great musical performances.
+Music in the Air
+Experiencing a Live Performance as amazing as this brings all the good feelings! Happiness overload!
+Witnessing a Superstar Performance!
+What an incredible performance! And {0.SimFirstName} was there!!
+So Close to the Performer!
+{0.SimFirstName} ran to the front of the crowd and got pretty amped up! {M0.He}{F0.She} felt like they were practically on stage! 
+Front Row Spot!
+{0.SimFirstName} cannot believe {M0.he}{F0.she} is so close to Bebe Rexha right now! AND listening live to a soulful, acoustic rendition of her song Sabotage. While rushing to the front and waving {M0.his}{F0.her} hands in the air might not be appreciated by the Sim behind {0.SimPronounObjective}, this moment is way too magical for {0.SimPronounObjective} to care.
+The More, The Merrier!
+{0.SimFirstName} is already thinking of fun things to do with the new neighborhood arrivals. Drop in for a chat? Invite them over for a party? All of the above!
+Feeling Cramped
+Having more neighbors is the last thing {0.SimFirstName} wants. If you ask {0.SimFirstName}, the sweet spot for number of neighbors is... zero.
+So... Much... STUFF...
+{0.SimFirstName} can't wait to meet the new neighbor's possessions! Wait, no. {F0.She}{M0.He} can't wait to possess the new neighbor's stuff- Errr, uh... Maybe {0.SimFirstName} should just drop in to say hi (and definitely not steal anything).
+Filthy
+{0.SimFirstName} is very stinky! Bathe them to clean them up fresh!
+Grungy
+Dirt and mud is just a part of the toddler's life, but a little bath doesn't hurt either.
+Filthy
+{0.SimFirstName} is very stinky! Bathe them to clean them up fresh!
+Grungy
+Dirt and mud is just a part of the toddler's life, but a little bath doesn't hurt either.
+Ravenous
+{0.SimFirstName} needs food now!
+Becomes Ravenous in: {0.Timespan}
+Hungry
+{0.SimFirstName} is Hungry! Eat some food before the Hunger gets worse.
+Ravenous
+{0.SimFirstName} needs food now!
+Becomes Ravenous in: {0.Timespan}
+Hangry
+{0.SimFirstName} is Hungry! Eat some food before the Hunger gets worse.
+Desperate for Fun
+{0.SimFirstName} is in desperate need of some fun activities!
+Needs Amusement
+{0.SimFirstName} could really use something fun to do.
+Desperate for Fun
+{0.SimFirstName} is in desperate need of some fun activities!
+Needs Amusement
+{0.SimFirstName} could really use something fun to do.
+Exhausted
+This toddler is near passing out. It's time to get {M0.him}{F0.her} under some covers for some much needed sleep.
+Tired
+Pass Out in: {0.Timespan}
+{0.SimFirstName} is tired and will need to rest soon.
+What Happened?
+When toddlers crash, they crash. A little rest should fix this right up!
+Exhausted
+This toddler is near passing out. It's time to get {M0.him}{F0.her} under some covers for some much needed sleep.
+Tired
+{0.SimFirstName} is tired and will need to rest soon.
+Pass Out in: {0.Timespan}
+Uses Diaper in: {0.Timespan}
+If {0.SimFirstName} doesn't get to a Potty VERY quickly, there's going to be a puddle problem!
+Becomes Really Has to Pee in: {0.Timespan}
+{0.SimFirstName} needs to go to the bathroom! Soon!
+Uses Diaper in: {0.Timespan}
+Really Has to Pee
+If {0.SimFirstName} doesn't get to a Potty VERY quickly, there's going to be a puddle problem!
+Becomes Really Has to Pee in: {0.Timespan}
+Has to Pee
+{0.SimFirstName} needs to go to the bathroom! Soon!
+All Alone?
+I've been left alone for so long… Why would they abandon me?
+Where is Everyone?
+An embarrassing flop for this amateur escape artist. Better luck next time!
+Becomes Food. NOW! in: {0.Timespan}
+Yummy!
+Ooooh! {0.SimFirstName} thought that combination of flavor and texture was so yummy yum yums!
+Food Boredom
+{0.SimFirstName} wants to explore new foods, but keeps getting the same tastes and textures over and over.
+Betrayed
+Yucky! {0.SimFirstName} didn't like that food at all! The betrayal!
+Diaper Rash

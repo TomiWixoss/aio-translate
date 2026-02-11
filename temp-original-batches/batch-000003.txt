@@ -1,0 +1,100 @@
+Stay Offline
+Privacy &amp; Cookies
+Online Social Features Access:
+Other
+Online Notifications:
+Enable Dynamic Lighting
+Enable in-game surveys
+Hide Reported Content:
+You are currently offline
+Do you want to go Online?
+Go Online
+Play Online
+Go Offline
+Headphones
+Stereo
+Speaker Setup:
+Sound Effects:
+Audio Quality:
+Other
+Medium
+Low
+High
+Object Music:
+Enable Mood Sting
+Music:
+Match Speed Stereo Music
+Master Volume:
+Audio Focus:
+Adjusts the volume of the Sims' voices.
+Adjusts the volume of interaction with the UI.
+Adjusts audio outputs to best match your speaker configuration.
+Adjusts the volume of sound effects.
+Adjusts the quality of audio mixing and playback.
+Adjusts the volume of the music heard from objects while playing in Live Mode.
+Play audio every time the selected Sim's mood changes
+Adjusts the volume of music heard while in the Main Menu and other game modes.
+Adjusts music speed to game speed.
+Adjusts the overall volume, while keeping the various levels relative to each other based on your current settings.
+Mutes the audio for The Sims 4 when the game is minimized or an inactive window.
+If disabled, chickens, cows, foxes, llamas, rabbits, goats, and sheep will no longer grow older.
+Animal Aging
+Adjust the size of the UI
+Text may become illegible
+This scaling value will cause the UI in some areas to overlap or bleed off the screen.
+This scaling value will cause the UI in some areas to overlap or bleed off the screen. Press CTRL+U to reset the UI Scaling at any time.
+Reset
+On launch, the game will auto UI scale based on the Operating System's display settings for that monitor. This may cause the UI to not display correctly if you are playing on low resolutions with high display settings.
+Auto-Scale with OS:
+UI Scale:
+Cursor Scale:
+Reset the UI Scale to the default.
+UI Scale is at default size.
+Auto-Scale with OS
+UI Scale
+Cursor Scale
+Unable to Go Online
+One or more of The Sims™ online services is currently Offline. Try again later.
+Mandatory Application Update
+Please exit the game and restart the EA app in order to access online features.
+The EA app is in Offline mode. Please make sure to enable the EA app's Online mode before doing it here.
+To continue, enable Online Features in the Game Options.
+Online access disabled
+There's no Internet connection available. Please make sure you have a working Internet connection to access Online content.
+There was an error getting Online connectivity. Please try again later.
+Whoops!\n\nYour Shopping Cart requires a larger window to display to be able to get to the checkout counter. Please make your game window bigger using the Game Options or dragging a window corner to make your resolution 1024x720 or larger.
+More than a month ago
+{0.Timespan} ago
+Just now
+Auto-Expand All Notifications
+There are new messages at the top of the wall.
+This functionality is only accessible in live mode.
+Mouse over to learn more.
+Delete
+Clear All Wall Posts
+Are you sure you want to clear your wall? You will not be able to recover the posts once they are cleared.
+Delete All
+Camera centering unavailable
+Timeout waiting to enter zone
+The requested zone is currently not available.
+Invalid zone requested.
+Sorry, the Shopping Cart has timed out. Please try again later.
+You must be logged into the EA app in order to purchase items.
+Are you sure you want to exit the shopping cart?
+Your payment is being processed. Exiting the shopping cart at this time may lead to unexpected behavior.
+{0.Number}% off
+&lt;font color='#EC262E'&gt;SEE REQUIREMENTS&lt;/font&gt;
+SulSul!
+You are adding The Sims 4 My First Pet Stuff to your cart, but we have detected that The Sims 4 Cats &amp; Dogs is not installed.\n\nBefore you continue please note, The Sims 4 Cats &amp; Dogs is required for the full gameplay experience of The Sims 4 My First Pet Stuff.\n\n&lt;font color='#EC262E'&gt;REQUIRES THE SIMS 4 GAME TO PLAY. REQUIRES THE SIMS 4 CATS AND DOGS TO ACCESS ALL CONTENT.&lt;/font&gt;
+SulSul!
+We have detected that The Sims 4 Cats &amp; Dogs is not installed.\n\nThe Sims 4 Cats &amp; Dogs is required for the full gameplay experience of The Sims 4 My First Pet Stuff.\n\n&lt;font color='#EC262E'&gt;REQUIRES THE SIMS 4 GAME TO PLAY. REQUIRES THE SIMS 4 CATS AND DOGS TO ACCESS ALL CONTENT.&lt;/font&gt;
+Coming Soon!
+Available {0.String}
+Pre-Order
+Unlock
+Unlock
+Owned
+{0.Number} of {1.Number} packs owned
+&lt;span class=&quot;link&quot;&gt;&lt;a href=&quot;event:lesson&quot;&gt;Learn More &gt;&lt;/a&gt;&lt;/span&gt;
+{0.String} has been pre-ordered and is not yet available for download.
+{0.String} will be available for download on {1.String}

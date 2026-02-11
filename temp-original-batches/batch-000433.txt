@@ -1,0 +1,100 @@
+Adjusts the Screen Margins
+Adjust Margins
+Connection Failed
+An error occurred while connecting to EA services. (code: {0.String})
+The object cannot be picked up.
+Object placed in the Inventory.
+Action Canceled.
+Do you want to change to using the mouse and keyboard?
+Do you want to change to using the controller?
+Press any key to Start
+Press ▾ to Start
+◑
+Notification entry deleted.
+Nothing to delete.
+Mouse Disconnected
+Please reconnect the mouse or connect a controller and press ▾ to continue.
+Mouse and Keyboard Disconnected
+Please reconnect the mouse and keyboard or connect a controller and press ▾ to continue.
+Keyboard Disconnected
+Please reconnect the keyboard or connect a controller and press ▾ to continue.
+▴
+◂
+Controller Disconnected
+Please reconnect the controller and press ▾ to continue or continue with a mouse and keyboard.
+Please reconnect the controller and press ▾ to continue.
+You have lost your connection to Xbox Live. Please check your network connection. You will be unable to access any online features until you sign in again. See http://ea.com/unable-to-connect for additional information.
+Please connect the controller.
+There are no items in the cart.
+Controls
+Complete all the required fields.
+Using Wall Mode.
+Object sold.
+Using Room Mode.
+No results found.
+Object placed in the Household Inventory.
+Half-tile grid snapping is enabled.
+Full-tile grid snapping is enabled.
+Free placement is enabled.
+EA Account Linked
+Thank you for linking your EA account!\nTo access online services such as the Gallery, the game must first be restarted. Would you like to restart now?  Any unsaved progress will be lost.
+Settings
+Previous Tab
+Previous Page
+Previous Filter
+Previous Background
+Previous
+Navigate Pose - Up
+Navigate Pose - Right
+Navigate Pose - Left
+Navigate Pose - Down
+Pause Menu
+(HOLD) + ◖ to Pan Camera
+Next
+Move Cursor / Navigate
+Move Cursor
+Back / Cancel
+Increase Photo Size
+Lower Floor
+Navigate Filter - Up
+Navigate Filter - Right
+Navigate Filter - Left
+Navigate Filter - Down
+Open Filters
+Up
+Right
+Left
+Down
+Decrease Photo Size
+Cycle Wall Cutaway View
+View Controls
+Clear Notification
+Clear All Notifications
+Cancel
+Zoom Out
+Zoom In
+Rotate Camera
+Pan Camera
+Move Camera Up
+Move Camera Down
+Move Camera
+Remove Sim From Club
+Collapse/Open All Time Slots
+Show/Hide Wings
+Toggle Catalog Menu
+Like
+Dislike
+Toggle Preference
+Toggle the paint cursor
+All input values must be between 1 – 9, a – f, or A – F, please enter a new value.
+Hex Color Code
+Toggle Ghost Overlay
+Snap to Sims
+Snap to Identity
+Select previous Sim
+Select Previous/Next Sim
+Select next Sim
+Rotate Pet
+Rotate Sim
+Remove Aspiration
+Happy Lunar New Year

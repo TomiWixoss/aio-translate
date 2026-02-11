@@ -1,0 +1,100 @@
+A nice discussion about the finer points of writing with an accomplished author really gets the inspiration flowing!
+Won't Stop Crying!
+&lt;i&gt;Please&lt;/i&gt; stop crying! What do you need?! Things would be so much easier if Infants could speak. 
+No Fun. No Wiggles!
+{0.SimFirstName} is feeling very frustrated by lack of fun. {0.SimPronounSubjective|xxUpper} doesn't even want to wiggle anymore! &lt;b&gt;That's&lt;/b&gt; how bad it is!
+Becomes No Fun. No Wiggles! in: {0.Timespan}
+No Fun Times
+{0.SimFirstName} likes to have fun! That's what Wiggly Infants want. But things just aren't fun right now...
+Ugh, &lt;i&gt;Infants!&lt;/i&gt;
+Where did these little imps even come from?! The world just became a whole lot crueler for Sims who Hate Children. 
+Time for Wiggles
+{0.SimFirstName} has a case of the wiggly-wiggles! Got to get moving. 
+Overstimulated
+Too much is going on! {0.SimFirstName} feels overstimulated.
+Strange Place
+{0.SimFirstName} is in an unfamiliar location, which is upsetting! 
+Safe
+{0.SimFirstName} feels very safe having spent time with a familiar Sim. 
+Need Familiar Face
+Who was {0.SimFirstName} interacting with? That Sim wasn't familiar &lt;i&gt;at all&lt;/i&gt;!
+Familiar Space
+{0.SimFirstName} always feels so comfortable at home. It is a familiar space. 
+Trusting the Universe
+The world is a good place filled with good people! {0.SimFirstName} is happy to call some of them family.  
+LET! ME! OUT!
+{0.SimFirstName} wants to be let out this instant. There's places to see and things to do!
+Stinky Diaper
+A strong putrid smell is lurking from someone near {0.SimFirstName}... 
+Were Those Fangs?!
+It is a natural part of development for babies to start biting. But is that a fang {0.SimFirstName}'s feeling?! 
+Ouch!
+It is a natural part of development for babies to start biting. But ouch that really... really hurts! 
+Soothing Bounce
+A gentle bounce is remarkably soothing and reminds {0.SimFirstName} of the wonderful days spent in the womb.
+Rest Time
+Infants require regular naps. {0.SimFirstName} has been awake for too long and is starting to get cranky. Better put {0.SimPronounObjective} to bed!
+Rock-A-Bye Baby
+{0.SimFirstName} is fast asleep after {M0.he}{F0.she} has been soothed to sleep.
+Lulled to Sleep
+{0.SimFirstName} was lulled to sleep by a lullaby played from the Baby Mobile.
+Off to Dreamland
+{0.SimFirstName} drifted off into slumber thanks to a well-told bedtime story lulling them to sleep.
+Awake and Sad
+{0.SimFirstName} is awake and in a sad mood.
+Awake and Happy
+{0.SimFirstName} is awake and in a happy mood!
+Awake and Angry
+{0.SimFirstName} is awake and in an angry mood.
+Proud Parent
+There's nothing in life that feels better than being a proud parent! 
+Baby Envy
+Some people just can't seem to keep it to themselves... especially about their baby!
+Rude Awakening
+There's nothing quite like being startled awake by a very &lt;b&gt;loud&lt;/b&gt; crying Infant. Ugh...kids. 
+Riled Up
+Too much fun? No such thing! {0.SimFirstName} could keep playing foreveeeeeer!
+Wibble Wobble
+These hanging toys on the playmat are a hoot for {0.SimFirstName}!
+Aww So Cute!
+{0.SimFirstName} might have just seen the cutest infant in the world right now!
+Infant Laughter
+{0.SimFirstName} heart is melting from watching the most adorable little infant play. Aww the cuteness of it all!
+Food. NOW!
+{0.SimFirstName} can be a little intense sometimes. Especially when {0.SimPronounSubjective} is this hungry. {0.SimPronounSubjective|xxUpper} wants food. NOW!
+Filthy
+{0.SimFirstName} is very stinky! Bathe {0.SimPronounObjective} to get squeaky clean!
+Filthy Freak Out!
+If {0.SimFirstName} seems a little more intense than usual right now, it's probably because {0.SimPronounSubjective} is way too stinky! It's time for a bath. NOW!
+Grungy
+This Infant is starting to smell a little ripe. {0.SimFirstName}'s caregiver should give {0.SimPronounObjective} a bath.
+Icky Grungy!
+{0.SimFirstName} is starting to smell a little ripe, and being an intense Infant, {0.SimFirstName} doesn't like that. Best to give {0.SimPronounSubjective} a bath before things get worse!
+Taken Away in: {0.Timespan}
+Food, Now!
+{0.SimFirstName} is extremely hungry and needs food now!
+Becomes Food, Now! in: {0.Timespan}
+Food Time?
+{0.SimFirstName} is Hungry! Feed {0.SimPronounObjective} before the Hunger gets worse!
+Desperate for Fun
+{0.SimFirstName} is in desperate need of some fun activities!
+Becomes Desperate for Fun in: {0.Timespan}
+No Fun 
+Won't someone play with {0.SimFirstName}? {0.SimPronounSubjective} could really use some fun!
+Want Night Night!
+WAAAH! Night Night! Now!
+Becomes Want Night Night! in: {0.Timespan}
+Sleepy 
+{0.SimFirstName} is getting irritable and needs some sleep soon!
+Hangry!
+{0.SimFirstName} is hungry! Feed {0.SimPronounObjective} before the hunger gets worse!
+Lousy Lockpicker
+(From Getting a Book from the Littlest Neighborhood Library)
+Unexpected Find!
+{0.SimFirstName} didn't expect to find a new favorite book from the Littlest Neighborhood Library! It fills {0.SimPronounObjective} with a sense of wonder!
+Greedy community member!
+{0.SimFirstName} got called out on taking too many books from the Littlest Neighborhood Library and not giving back. Breaking the rules gives {0.SimPronounObjective} an incredible mood boost.
+Giving back Knowledge! 
+{0.SimFirstName} is happy to be able to give back to {0.SimPronounPossessiveDependent} neighborhood and offer a small solution to help with waste!
+(From Violating the Littlest Neighborhood Library Honor Code)
+&quot;Called Out&quot;

@@ -1,0 +1,100 @@
+Heard Island and McDonald Islands
+Haiti
+Guyana
+Guinea
+Guernsey
+Guatemala
+Logout of Facebook
+Log In to Facebook
+Enable Custom Content and Mods
+EA User Agreement
+Auto-Reconnect:
+Script Mods Allowed
+View Modifications
+Twitter service is unavailable.
+Log out of Twitter
+Log in to Twitter
+ In addition to information that you give EA directly, EA collects certain information for purposes of improving our products and services, providing services to you, facilitating the provision of software updates, dynamically served content and product support as well as communicating with you.  This data will not be shared with any third party in a way that can identify you.
+Script mods have been disabled
+Enable Script Mods
+View Privacy and Cookie Policy
+View Purchase History
+Enable access to Gallery.
+Enable access to Gallery.
+Enable Online Notifications
+Enables dynamic lighting effects on supported peripherals.
+Enable In-Game Surveys
+Hide any Gallery content that has been reported.
+Connect to the Sims 4 Servers to enable online features.
+Disable online features
+Facebook service unavailable.
+Logout of Facebook
+Log In to Facebook
+Enable all mods in game.
+View the EA User Agreement
+Auto-Reconnect
+Mods Disabled
+Your game has just been updated. All Mods have been disabled because it is possible that they conflict with the update. Please use caution if you choose to re-enable Mods. Mods can be re-enabled in the Options panel.\n\nFor more information on Mods and game updates please visit&lt;span class='link'&gt;&lt;a href='event:http://help.ea.com/article/mods-and-the-sims-4-game-updates'&gt; HERE.&lt;/a&gt;&lt;/span&gt;\n\nNote: Maxis does not pre-screen or support Mods.
+Station
+Enable the play of only selected songs that are safe for streaming.\nStreaming-safe songs are marked with an asterisk (*).
+Safe for Streaming
+Name
+Artist
+&lt;font color='#1E81E6'&gt;(Safe for streaming)&lt;/font&gt;
+&lt;font color='#B755E1'&gt;(Blast from the Past Event reward)&lt;/font&gt;
+Set whether units should be hidden or unhidden by default in Build Mode
+If disabled, unoccupied units will no longer be hidden by default when entering Build Mode. 
+Hide Units By Default
+Prevent new Residential Rental unit events from starting.
+If disabled, property owners and tenants will no longer experience events in Residential Rental units.
+Enable Rental Unit Events
+Show At Startup
+Script Mods
+Custom Content
+Script mods may cause your game to crash or result in other unexpected behavior. Use at your own risk. You will need to restart the game for this setting change to take effect.
+Mods
+Maxis does not pre-screen or support Mods.\nPlease use with caution.
+Enable or disable Lunar Effects on Sims in Live Mode. Current Lunar moodlets will remain until they have naturally disappeared.
+Disable Lunar Effects:
+Set a specific Lunar Phase to appear every night.\n\nChanges will go into effect the following Sim morning.
+Disabled
+Set Permanent Phase:
+Set the length of the Lunar Cycle. Longer Lunar Cycles' phases last longer, and shorter Lunar Cycles have phases removed from them.\n\nChanges will go into effect the following Sim morning.
+Lunar Cycle Length:
+2 Days
+24 Days
+16 Days
+4 Days
+8 Days (Default)
+If disabled, acne will no longer appear or grow on Sims through Gameplay. This does not apply to Game Pack: Parenthood acne facial details.
+Enable Acne
+Opt out of discovering new Personality traits
+If disabled, Sims will no longer have Self Discovery moments that offer new or changed Personality Traits.
+Self Discovery
+Disabling this will stop Layoffs from happening for your sims.
+If disabled, Sims will not experience layoffs in their careers.\n\nSims in a current layoff period will not be laid off and the period will officially resolve at the end of the next work day.
+Career Layoffs
+If disabled, Sims will no longer experience the positives of Good Luck and the negatives of Bad Luck. Luck will no longer appear in the Simology Panel.
+Enabling this option means the result of a Sim's actions may be influenced by their Luck.
+Enable Luck:
+If checked, Fairy Sims outside of the Active Household will not appear autonomously in Fairy Form in Worlds other than Innisgreen. Certain player-directed actions will still cause Fairy Sims to reveal their Fairy Form.\n\nThis change will not be applied to Fairy Sims that are currently spawned until after the next load.
+Enabling this option means you will not see Fairy Sims in their Fairy Form outside of Innisgreen, except through player action.
+Limit Fairies to Innisgreen
+If disabled, Sims will not experience any effects related to Balance or Imbalance. This may mean a Sim experiences fewer Ailments but will not eliminate them overall. Balance &amp; Imbalance UI will not appear in the Simology Panel.
+Enabling this option means that Moods will influence Sims' state of Balance over time, leading to effects that impact Needs and Ailments.
+Enable Balance &amp; Imbalance:
+If disabled, Ailments will no longer spread contagiously. Once disabled, Sims who already have Ailments will need to wait it out or seek a cure, but no more Sims will contract Ailments through spontaneous spread. Being near or interacting with Sims who have an Ailment will no longer have any risk of contagious spread.\n\nWhether or not this is disabled, Fairy Sims in your Household can still give Ailments to other Sims if they have unlocked the Cure or Apply Ailments Fairy Ability. Naturopath Sims who choose to Work From Home will still be able to receive clients with Ailments who need treatment.\n\n&lt;b&gt;Note:&lt;/b&gt; Sims who become Very Imbalanced will still contract an Ailment. Uncheck both &lt;i&gt;Enable Balance &amp; Imbalance&lt;/i&gt; and &lt;i&gt;Enable Ailment Spread&lt;/i&gt; to disable all natural sources of Ailments.
+Enabling this means Sims can develop Ailments from everyday exposure, especially being around other Sims who already have an Ailment.
+Enable Ailment Spread
+Windowed Fullscreen
+Windowed
+Ultra
+Medium
+Low Medium
+Low
+High
+Custom
+Graphics Quality:
+Visual Effects:
+View Distance:
+Very High

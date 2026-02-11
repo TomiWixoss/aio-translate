@@ -1,0 +1,100 @@
+[PH] Remove flaws
+This Night's Lunar Phase:
+Business Opening Conflict
+The {0.String} is happening near this business. Opening it will cause the Festival to be closed.
+Open Business
+Keep Business Closed
+{0.SimFirstName}'s Milestones
+Chronological Order
+Milestone Type
+{0.SimFirstName} can't achieve any Milestones in this category.
+{0.SimFirstName} hasn't achieved any Milestones in this category for the selected age group.
+{0.SimFirstName} has no Milestones!
+Sort by:
+This age group is not applicable.
+Maintain Behavior to Unlock
+&lt;font color='#d91a1a'&gt;This Lifestyle is at Risk of Being Lost&lt;/font&gt;
+Stack of Spoiled Food
+The items in this stack have spoiled. To clear these items from your inventory, consider either selling the items or trashing the items by dragging the stack to the Sell section or with the Clear Out Spoiled Food interaction by selecting your Sim.
+Price
+New
+Name
+Filter
+Sort: Reverse
+Sort: Default
+Toggles Multiselect on and off - E
+Selling Items...
+Sell selected items - K
+Sell
+Sell ({0.Number})\n{1.String}
+Select/Deselect All Items - Ctrl + A
+Select All
+Remove from Favorites ({0.Number})
+Multiselect:
+Add/Remove from Favorites - F
+Favorite
+Favorite ({0.Number})
+Deselect All
+Unity Stability
+The state of a Dynasty is represented by its Prestige, i.e. how successful it is, and its Unity, i.e. how well its Members get along.\n\nPrestige and Unity is built (or ruined) by all the Dynasty's members collectively, and they all benefit (or suffer from) the consequences as well.
+Prestige &amp; Unity
+This Dynasty is experiencing a Unity Crisis! Focus on building positive relationships between Dynasty members to resolve it.
+Unity Crisis
+Dynasty Perks
+{0.SimFirstName} is not in a Dynasty.
+Member Status
+Dynasty Details
+Rank: {0.Number}
+View all Dynasties
+Dynasty
+Found a Dynasty
+Leave Dynasty?
+When founding a new Dynasty, the founding Sim will leave their current Dynasty. They will lose access to Perks, any relationship bonuses from Unity and Alliances, and may upset some of the other Members. Do you want to leave the Dynasty?
+The Head of a Dynasty cannot create a new one unless they first Step Down as Head.
+Only Young Adults, Adults and Elders can create a Dynasty.
+All Dynasties
+Create New Dynasty
+Randomize Crest
+Design Dynasty Crest
+Emblem
+The Emblem is the symbol on the Crest, which is placed on the Shield.\n\nSims who want to show their Dynasty pride can decorate their home with their Dynasty Crest. The Dynasty Crest Emblems can be found in the Paintings &amp; Posters category in Build Mode and comes in two versions, Vibrant and Gilded. 
+Shield
+The Shield is the base of the Crest, upon which the Emblem is placed.\n\nSims who want to show their Dynasty pride can decorate their home with their Dynasty Crest. The Dynasty Crest Shield can be found in the Wall Decorations category in Build Mode. 
+Please enter a name between {0.Number} and {1.Number} characters.
+Member List
+View Member Profile
+View Dynasty Profile
+View Member List
+&lt;font color='#EC262E'&gt; This value is in conflict with the {0.String} Skill&lt;/font&gt;
+{0.String}
+Select at least one Skill and one Ideal.
+&lt;font color='#EC262E'&gt;This value is in conflict with the {0.String} Ideal&lt;/font&gt;
+Unity
+&lt;b&gt;&lt;font color='#E9B37E'&gt;Unity Crisis&lt;/font&gt;&lt;/b&gt;\nWhile a Dynasty is in this state \nall Members experience the following:\n&lt;font color='#EC262E'&gt;• Decreased success with Friendly Socials between Members&lt;/font&gt;\n&lt;font color='#EC262E'&gt;• Reduced Relationship gain between Members &lt;/font&gt;\n&lt;font color='#EC262E'&gt;• Negative Dynasty Events occur more often &lt;/font&gt;
+&lt;b&gt;&lt;font color='#199C2C'&gt;Unity Stability&lt;/font&gt;&lt;/b&gt;\nWhile a Dynasty is in this state \nall members gain the following:\n&lt;font color='#1E81E6'&gt;• Increased success with Friendly Socials between Members&lt;/font&gt;\n&lt;font color='#1E81E6'&gt;• Boosted Relationship gain between Dynasty members &lt;/font&gt;\n&lt;font color='#1E81E6'&gt;• Positive Dynasty Events will occur more often &lt;/font&gt;\n
+Are you sure you want to Step Down?
+You cannot Step Down if there is no Heir in the Dynasty
+Stepping down as Head of the Dynasty will make you just another Member, and the Heir of the dynasty will become the new Head.\n\nAre you sure you want to do this?
+Step Down
+&lt;font color='#EC262E'&gt;This Skill is already selected&lt;/font&gt;
+Add Skill
+Dynasties can choose up to three Skills to embrace as Dynasty Values. \n\nMembers who engage in the Skill's Encouraged Activities will generate Prestige for the Dynasty. \n\nMembers will engage in these Activities more often on their own, but only if Autonomy is set to Full in Game Options &gt; Gameplay, and only if they do not have a Dislike Activity Preference for the Skill in question.
+Skills
+{0.SimFirstNameWithPrefix}
+{0.SimFirstName}
+{0.SimNameWithPrefix}
+{0.SimName}
+Select Heir
+Select Head
+Members of Rival Dynasties have more difficult Relationships and gain Prestige when being Mean.\n\nRivals are more likely to get into fights, or crash each other's parties and cause trouble.&#xA;&#xA;
+Rivalries
+Remove from Dynasty
+Remove Heir Status
+Do you want to delete the Dynasty?
+This action will disband the Dynasty. Its Crest, Values, Unity, Prestige and associated Perks will all be lost. Alliances and Rivalries will also end immediately. Are you sure you want to remove this Dynasty?
+Remove Dynasty
+Undeclare Outcast
+The state of a Dynasty is represented by its Prestige, i.e. how successful it is, and its Unity, i.e. how well its Members get along.\n\nPrestige and Unity is built (or ruined) by all the Dynasty's members collectively, and they all benefit (or suffer from) the consequences as well.
+Dynasty Progression
+Prestige
+{0.Number}

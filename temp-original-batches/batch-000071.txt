@@ -1,0 +1,100 @@
+Ruins of an Alien Civilization
+At Least It Is a Pretty Nebula
+Welcome to the Pound
+Well, That Was a Waste of Time!
+Back to Geometry Class!
+Too Much Work
+In the Dark
+Not Enough Duct Tape
+Not {0.SimFirstName}'s Problem!
+Alien on Board!
+Rejected!
+{0.SimFirstName} has heard of traps like this before. Leaving the artifacts untouched, {M0.he}{F0.she}  pockets a few of the more unusual-looking rocks and returns to {M0.his}{F0.her} rocketship. {M0.He}{F0.She} should have just enough fuel left to return home and report {M0.his}{F0.her} amazing discovery.
+Memory Loss
+Got Data
+A Populous Toilet Seat
+An Onslaught of Non-Grilled Cheese
+Somewhat Sketchy Cargo
+What Happened?
+A Sighting
+Back to the Wreck
+A Strange Spectacle
+A Rock Block
+Big Bully
+Slight Help
+Winning the Space Battle (Again)
+WARNING
+Sprinkles of Love
+A Ship of Nebulous Intentions
+Too Much Work
+Brain Stabilized!
+Ugly Patchwork
+I Think I Can, I Think I Can!
+Getting Greedy
+Unable to Help
+Telling the Truth Pays Off
+{0.SimFirstName}, Alien Wrangler
+{0.SimFirstName} has {M0.his}{F0.her} sights set on the moon! Should {F0.she}{M0.he} orbit and observe, or try to land?
+Eat a Grilled Cheese Sandwich in Space
+Requires a Grilled Cheese Sandwich in Inventory
+Perform Routine in Space
+Performed a routine in space too recently.
+Help Build Rocket
+Ask {1.SimFirstName} to Help with Rocket
+(From Liking Rocket Science)
+(From Disliking Rocket Science)
+This interaction requires a garden fruit or vegetable to perform
+Go Home
+Return to Active Lot
+You cannot do this while a child is being rescued!
+Be Rescued
+{0.SimName} has been rescued.
+A child Sim in a previously played Household has been rescued. What do you want to do?
+Plead for Object
+&quot;Wow... You actually have nothing of value for me to repossess. I guess you've really lost it all. I'm going to have to come back if you don't start paying off your debts, and I don't think either of us wants that, do we?&quot;
+{0.SimFirstName} tried to fight off the Repo Person, but just got slammed. Maybe next time, {F0.she}{M0.he} should try just paying {F0.her}{M0.his} bill.
+{0.SimFirstName} successfully &quot;persuaded&quot; the Repo Person to leave their beloved possessions alone. Hopefully, the utility company will lay off for a while now. 
+{0.SimFirstName} tried to buy off the Repo Person, but when a Sim is that deep in debt it's hard to buy off anyone. Maybe next time, {F0.she}{M0.he} should try &quot;bribing&quot; the bank with a small payment on {F0.her}{M0.his} loans...
+{0.SimFirstName} successfully &quot;persuaded&quot; the Repo Person to leave their beloved possessions alone. Hopefully, the collections agency will lay off for a while now. 
+Ask Not to Take Object
+Argue to Keep
+Appeal To Humanity
+{0.SimFirstName} tried to appeal to Repo Person's emotions, but they must have a heart of stone. Maybe next time, {F0.she}{M0.he} should try just paying {F0.her}{M0.his} bill instead.
+Repossess Object
+{0.SimFirstName}'s possessions have been repossessed, and are no longer {0.SimPronounPossessiveIndependent} anymore. This has somewhat helped {0.SimPronounObjective} to dig {M0.his}{F0.her} way out of debt. However, if {M0.he}{F0.she} still owes more money, {M0.he}{F0.she} had better pay it or else {M0.he}{F0.she} can expect more visits from the friendly neighborhood Repo Person.
+Contemplate Repossessing Object
+Go to Repossessed Object
+Renew Vows With
+Renew Vows with {2.SimName}
+What do you want to call this video?
+Video File Name
+Video Title
+Video File Description
+Video Description
+Find out about current trends on the Video Station.
+Rename Bike
+Rename {1.ObjectName}
+Rename Snowpal
+What do you want to name this Frog?
+Frog Name
+Frog Description
+Give this Frog a Name and Description.
+What would you like to name this plant?
+Name Photo
+Untitled
+What do you want to name this photograph?
+What do you want to call this {0.ObjectName}?
+Papercraft Name
+Papercraft Name
+Papercraft Description
+Give this Papercraft creation a Name and Description.
+Name Houseplant
+Name this houseplant...
+Name Gnome
+Gnome
+Name This Gnome...
+Name Thing
+Rename File
+What do you want to rename this file?
+Name Fish
+Give a name to this {1.ObjectCatalogName}.

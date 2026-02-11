@@ -1,0 +1,100 @@
+(From Disliking Violins)
+Listen and Learn
+Request Specific Entertainer
+There is already an Entertainer on the lot.
+Hire {2.SimName} as an Entertainer
+Practicing can be lots of fun in the right mood.
+Fiddle for Fun
+Play Concerto
+Being Inspired improves violin playing!
+Play Concerto
+Play Concerto for Group
+Bow for Inspiration
+Watch Game
+Watching Game
+Resume Unbreakable Upgrade
+Unbreakable (Completed)
+Unbreakable Upgrade
+No more rings of any color when your console is Unbreakable!
+Resume Tightening Up Graphics
+Tighten Up Graphics (Completed)
+Tighten Up Graphics
+Don't forget to tighten up the graphics for more fun!
+Resume Installing Wireless Display Override
+Wireless Display Override (Completed)
+Install Wireless Display Override
+Allows this device to take control over the display of nearby video screens
+Place the {1.ObjectName} closer to an unpaired Television.
+Turn Off {1.ObjectName}
+Things might need to be toned down for a bit.
+Play MySims Racing Online With
+Play Party Frenzy Online With
+No one {0.SimFirstName} knows is online right now.
+Play MySims Racing With {3.SimFirstName}
+Play MySims Racing With
+Play Party Frenzy With {3.SimFirstName}
+Play Party Frenzy With
+No one is around to play games with {0.SimFirstName}.
+Novice Density Effect Tournament
+Playing in Novice Density Effect Tournament
+Novice MySims Racing Tournament
+Playing in Novice MySims Racing Tournament
+Pro Density Effect Tournament
+Playing in Pro Density Effect Tournament
+Pro MySims Racing Tournament
+Playing in Pro MySims Racing Tournament
+Pro Party Frenzy Tournament
+Playing in Pro Party Frenzy Tournament
+Pro Genie's Curse Tournament
+Playing in Pro Genie's Curse Tournament
+Novice Party Frenzy Tournament
+Playing in Novice Party Frenzy Tournament
+Novice Genie's Curse Tournament
+Playing in Novice Genie's Curse Tournament
+The Tournament isn't over! Did the servers just disconnect?
+Play Density Effect
+Playing Density Effect
+Play MySims Racing
+Playing MySims Racing
+Play Party Frenzy
+Playing Party Frenzy
+Playing Online MySims Racing
+Playing Online Party Frenzy
+At the end of a very close match, {0.SimFirstName} just couldn’t pull it together for the win. Better luck next time!
+“ALL THE POINTS ARE BELONG TO {0.SimFirstName|xxAllCaps},” the game proclaims, in a big retro font, as the match ends. {0.SimFirstName} is a digital champion!
+Zap! Vroom! Dag Dag! {0.SimFirstName} demolished the competition in a display of virtual mastery. No one will be calling {M0.him}{F0.her} a n00b anytime soon.
+Wow, that was pretty pathetic. A group of annoying teenagers that joined the online match were laughing at how bad {0.SimFirstName} was the whole time!
+It was a tight competition, but {0.SimFirstName} saving that power-up for the last few seconds was a smart move. {M0.His}{F0.Her} opponents didn’t see it coming!
+The game isn't over! Did the servers just disconnect?
+Everyone loses a game now and then. It happens! {0.SimFirstName} unfortunately lost at this game.
+Playing Multiplayer MySims Racing
+Playing Multiplayer Party Frenzy
+Force Self to Play Density Effect
+Forcing Self to Play Density Effect
+Force Self to Play MySims Racing
+Forcing Self to Play MySims Racing
+Force Self to Play Party Frenzy
+Forcing Self to Play Party Frenzy
+Force Self to Play Genie's Curse
+Forcing Self to Play Genie's Curse
+Play Genie's Curse
+Playing Genie's Curse
+Waiting to Join Game
+Join Game
+Cannot Join Density Effect
+Join a Game of Party Frenzy
+Join a Game of MySims Racing
+Joining
+Already Playing {1.ObjectName}
+{0.SimFirstName} must finish the current game before starting a new one!
+Enable Wireless Display Override
+Disable Wireless Display Override
+{1.ObjectName} is Disconnected!
+{1.ObjectName} is Burnt!
+Replace the {1.ObjectName}.
+{1.ObjectName} is Broken!
+Repair or Replace the {1.ObjectName}.
+Make Purchase
+Vending Machine Items Received
+{0.SimFirstName} can't exercise with a pulled muscle!
+Energized Jog
