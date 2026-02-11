@@ -1,0 +1,112 @@
+プレゼントボックス=Present Box
+すべて受け取る=Receive All
+受け取り履歴=History
+[FF7C4E,D62146]期限が切れたプレゼントは自動的に削除されます。一度に受け取れるプレゼントは100件までです。[-]=[FF7C4E,D62146]Presents will be automatically deleted once their time limit expires.\nUp to 100 presents can be received at once.[-]
+スタミナ以外=Other than stamina
+新しい順=Newest
+古い順=Oldest
+家具=Furniture
+ギルドハウス家具は、メインクエスト2-1（NORMAL）クリアで受け取れます。=Guildhouse Furniture can be received by clearing the main quest $1.
+[FF7C4E,D62146]受け取れるアイテムがありません。[-]=[FF7C4E,D62146]There are no items.[-]
+[FF7C4E,D62146]受け取ったアイテムはありません。[-]=[FF7C4E,D62146]There are no items.[-]
+
+運営からの補てんの品です。=It's a compensation from the management.
+以下のプレゼントをまとめて受け取りますか？=Would you like to accept all of the following presents?
+プレゼント受け取り=Receive Present
+報酬はプレゼントに送られました。=Reward has been sent to the Present Box.
+所持上限を超えたアイテムはプレゼントに送られました。=Items that exceed the possession limit have been sent as gifts.
+「信頼度エピソード」で獲得したアイテムです。=Item acquired from "Intimacy Episode"
+運営からのお詫びの品です。=Apologies from management.
+ミニゲームで獲得したアイテムです。=Item obtained from a minigame.
+プレゼントに送られたアイテムがあります。=Some items have been sent to the Present Box.
+
+ガチャ更新によりキャラ交換Ptを変換したアイテムです。=Converted from Chara Exchange points due to gacha update.
+sr:"^(.+)を購入して獲得したアイテムです。$"=Item obtained from a $1.
+---Item Receive---
+sr:"^(\[[0-9A-Fa-f,]{6,13}\])?([\s\S]+?)(（.+）)?(の(?:ピュア)?メモリーピース|の設計図)?(?:\[-\])?(?:\[[0-9A-Fa-f,]{6,13}\])? ?(?:×|x)(?:\[-\])?(\[[0-9A-Fa-f,]{6,13}\])?([0-9,]+)(\[-\])?(?:\[-\])?$"=$1$2$3$4 × $5$6$7
+
+sr:"^「(.+)」キービジュアル カスタムマイぺージ$"=""$1" Key Visual Custom My Page"
+
+以下の交換結果になりました。=The following exchange results are as follows:
+
+
+
+---sort---
+フィルタ=Filter
+期限あり=Limited Time
+期限なし=No Limit
+プレゼントの種類=Present Type
+メモリーピース=Memory Shards
+コイン=Coins
+その他=Other
+
+---items---
+受け取り期限=Deadline
+獲得日時=Earned
+受け取り日時=Date and time
+プリンセスアリーナの防衛報酬です。=Princess Arena defense reward.
+バトルアリーナの防衛報酬です。=Battle Arena defense reward.
+sr:"^「(.+)」で獲得したアイテムです。$"="This is an item obtained in "$1"."
+sr:"^バトルアリーナ(\d+位)のランキング報酬です。$"="Battle Arena $1 ranking reward."
+sr:"^プリンセスアリーナ(\d+位)のランキング報酬です。$"="Princess Arena $1 ranking reward."
+sr:"^(\d+月)クランバトルランキング(\d+位)の報酬です。$"="Clan Battle ($1) $2 ranking reward."
+みんなのカレンダー内で獲得したアイテムです。=This item was acquired in everyone's calendar.
+マスターショップ=Master Shop
+このアイテムはメインクエスト等では入手できません=This item cannot be obtained on the main quest or other quests
+
+スタミナ\n受取対象外=Exclude\nStamina
+期限を過ぎていたため、一部のプレゼントは受け取れませんでした。=Some gifts were not received because the deadline had passed.
+所持上限を超えて獲得したスタミナです。=It is a stamina acquired beyond the upper limit.
+スタミナ受取対象外にチェックしているため受け取れません。=Stamina is currently excluded. Please uncheck "Exclude Stamina" to claim.
+---Login Bonus---
+
+クリスマス=Christmas
+謹賀新年 お正月=Happy New Year
+元日特別=New Year's Day Special
+元日特別ログインボーナス=New Year's special login bonus
+復刻イベント=Revival Event
+スタートダッシュログイン=Jump Start Log In 
+事前登録=Pre-registration
+メインストーリー第3部開始記念ログイン=Main story Part 3 commemorative login
+
+大吉=Great Luck
+中吉=Good Luck
+吉=Blessing
+小吉=Fair Luck
+末吉=Future Good Luck
+末小吉=Future Fair Luck
+末中吉=Future Good Luck
+大凶=Great Unluck
+凶=Misfortune
+吉凶未分=Undetermined
+sr:"^「(.*)ログインボーナス」(\d+日)目「(.+)」で獲得したアイテムです。$"="Item obtained on $2 day($3) "$1 Login Bonus"."
+sr:"^「(.+)ログインボーナス」(\d+日)目で獲得したアイテムです。$"="Item obtained on $2 day of "$1 Login Bonus"."
+
+
+r:"^([0-9.]+) Year Anniversary カウントダウン$"=$1 Year Anniversary Countdown
+r:"^([0-9.]+) Year Anniversary スペシャル$"=$1 Year Anniversary Special
+期間限定ストーリーの通知=Limited-time Story Notification
+r:"^([0-9.]+) Year Anniversary カウントダウンログインボーナスの開催期間中、通知を表示するか設定します。$"=$1 Year Anniversary Set to display a notification during the countdown login bonus event.
+謹賀新年 お正月ログインボーナス」2日目「大吉=⁇  New Year's login bonus ⁇  Day 2, ⁇ Daikichi ⁇
+
+sr:"^「ログインボーナス」(\d+日)目で獲得したアイテムです。$"="Item obtained on $1 day of "Login Bonus"."
+sr:"^「(.+)キャンペーン」(\d+日)目で獲得したアイテムです。$"="Item obtained on $2 day of "$1 Campaign"."
+
+メンテナンスにご協力いただいたお礼です。=Thank you for your cooperation in maintenance.
+運営からのプレゼントです。=Gift from the management.
+
+---Premium---
+sr:"^(?:\[3C404E\])?([0-9]*.+?)(\d+)日目のアイテムセット\[-\] \[3C404E\]あと\[-\]\[FFBB00,CE4F00\]([0-9,]+)\[-\]\[3C404E\]日有効(?:\[-\])?(?: \[3C404E\](\+\d+)日予約中(?:\[-\])?)?$"=[3C404E]$1: Day $2 reward. [FFBB00,CE4F00]$3[-]$4[3C404E] day(s) remaining.[-]
+
+sr:"^(?:\[3C404E\])?(.+)「(.+)」\[-\] \[3C404E\]あと\[-\]\[FFBB00\,CE4F00\]([0-9,]+)\[-\]\[3C404E\]日有効$"=$1 [$2] reward. [FFBB00,CE4F00]$3[-][3C404E] day(s) remaining.[-]
+
+
+sr:"^(?:\[3C404E\])?(.+)のアイテムです。(?:\[-\])?$"="Item acquired from "$1""
+
+スタミナ上限に到達しました。\n獲得したスタミナをプレゼントに送ります。=Your Stamina has reached its maximum. Remaining Stamina will be sent to the Present Box.
+
+所持上限に達しているアイテムがあります。\n対象アイテムは受け取れませんでした。=Item limit reached.\nUnable to receive the designated item.
+
+無料対象キャラは無料分のみの強化になります。=Free characters will only be strengthened for free.
+所持上限を超えて獲得したダイスです。=Dice obtained above the posession limit.
+ダイス=Dice

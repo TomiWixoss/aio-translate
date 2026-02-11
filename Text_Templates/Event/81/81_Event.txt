@@ -1,0 +1,4 @@
+r:"^愛を失ったランドソル([0-9\-\(\)\w （）]*)$"=Loveless Landosol $1
+ゴーストキッド・ベロリー=Ghost Kid Bellory
+スペシャルエピソード=Special Episode
+エピソード一覧=List of episodes
