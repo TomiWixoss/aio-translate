@@ -1,0 +1,50 @@
+  <Text Key="B8AB6880">Rời khỏi Dynasty?</Text>
+  <Text Key="3E8065B8">Khi sáng lập một Dynasty mới, người sáng lập sẽ rời khỏi Dynasty hiện tại. Họ sẽ mất quyền truy cập vào Perks, mọi phần thưởng quan hệ từ Đoàn kết và Liên minh, và có thể làm một số Thành viên khác khó chịu. Bạn có muốn rời khỏi Dynasty?</Text>
+  <Text Key="93EA8CEA">Người đứng đầu một Dynasty không thể tạo một Dynasty mới trừ khi họ từ chức vị trí Người đứng đầu trước.</Text>
+  <Text Key="50975835">Chỉ Thanh niên, Người lớn và Người cao tuổi có thể tạo Dynasty.</Text>
+  <Text Key="D1FE13AF">Tất cả Dynasties</Text>
+  <Text Key="9E55258D">Tạo Dynasty Mới</Text>
+  <Text Key="A1FC1743">Ngẫu nhiên Huy hiệu</Text>
+  <Text Key="D90F0F64">Thiết kế Huy hiệu Dynasty</Text>
+  <Text Key="D97576CE">Biểu tượng</Text>
+  <Text Key="B3A90C42">Biểu tượng là hình ảnh trên Huy hiệu, được đặt trên Khiên.\n\nCác Sim muốn thể hiện niềm tự hào Dynasty có thể trang trí nhà với Huy hiệu Dynasty của mình. Biểu tượng Huy hiệu Dynasty có thể tìm thấy trong danh mục Tranh &amp; Poster trong Chế độ Xây dựng và có hai phiên bản, Sặc sỡ và Mạ vàng.</Text>
+  <Text Key="F65807AE">Khiên</Text>
+  <Text Key="52619522">Khiên là phần cơ sở của Huy hiệu, trên đó đặt Biểu tượng.\n\nCác Sim muốn thể hiện niềm tự hào Dynasty có thể trang trí nhà với Huy hiệu Dynasty của mình. Khiên Huy hiệu Dynasty có thể tìm thấy trong danh mục Trang trí Tường trong Chế độ Xây dựng.</Text>
+  <Text Key="444D3A98">Vui lòng nhập tên từ {0.Number} đến {1.Number} ký tự.</Text>
+  <Text Key="961175FF">Danh sách Thành viên</Text>
+  <Text Key="2829501F">Xem Hồ sơ Thành viên</Text>
+  <Text Key="779CD2A8">Xem Hồ sơ Dynasty</Text>
+  <Text Key="5603A494">Xem Danh sách Thành viên</Text>
+  <Text Key="89366365">&lt;font color='#EC262E'&gt; Giá trị này xung đột với Kỹ năng {0.String}&lt;/font&gt;</Text>
+  <Text Key="2039BFC9">{0.String}</Text>
+  <Text Key="29FF68AC">Chọn ít nhất một Kỹ năng và một Lý tưởng.</Text>
+  <Text Key="EA906BD2">&lt;font color='#EC262E'&gt;Giá trị này xung đột với Lý tưởng {0.String}&lt;/font&gt;</Text>
+  <Text Key="76C5D7B5">Đoàn kết</Text>
+  <Text Key="0AE25BBC">&lt;b&gt;&lt;font color='#E9B37E'&gt;Khủng hoảng Đoàn kết&lt;/font&gt;&lt;/b&gt;\nTrong khi Dynasty ở trạng thái này \ntất cả Thành viên trải nghiệm:\n&lt;font color='#EC262E'&gt;• Giảm thành công với Tương tác Thân thiện giữa các Thành viên&lt;/font&gt;\n&lt;font color='#EC262E'&gt;• Giảm mức tăng Mối quan hệ giữa các Thành viên &lt;/font&gt;\n&lt;font color='#EC262E'&gt;• Sự kiện Dynasty tiêu cực xảy ra thường xuyên hơn &lt;/font&gt;</Text>
+  <Text Key="0B6B1AF6">&lt;b&gt;&lt;font color='#199C2C'&gt;Ổn định Đoàn kết&lt;/font&gt;&lt;/b&gt;\nTrong khi Dynasty ở trạng thái này \ntất cả thành viên nhận được:\n&lt;font color='#1E81E6'&gt;• Tăng thành công với Tương tác Thân thiện giữa các Thành viên&lt;/font&gt;\n&lt;font color='#1E81E6'&gt;• Tăng mức tăng Mối quan hệ giữa các thành viên Dynasty &lt;/font&gt;\n&lt;font color='#1E81E6'&gt;• Sự kiện Dynasty tích cực sẽ xảy ra thường xuyên hơn &lt;/font&gt;\n</Text>
+  <Text Key="4D5F4685">Bạn có chắc chắn muốn Từ chức?</Text>
+  <Text Key="2DFD8C53">Bạn không thể Từ chức nếu Dynasty không có Người thừa kế</Text>
+  <Text Key="B3FECE0D">Từ chức vị trí Người đứng đầu Dynasty sẽ biến bạn thành một Thành viên bình thường, và Người thừa kế của dynasty sẽ trở thành Người đứng đầu mới.\n\nBạn có chắc chắn muốn làm điều này?</Text>
+  <Text Key="14FB8303">Từ chức</Text>
+  <Text Key="39B0CAE4">&lt;font color='#EC262E'&gt;Kỹ năng này đã được chọn&lt;/font&gt;</Text>
+  <Text Key="58ADF244">Thêm Kỹ năng</Text>
+  <Text Key="38308298">Dynasty có thể chọn tối đa ba Kỹ năng để tôn vinh như Giá trị Dynasty. \n\nCác Thành viên tham gia vào Hoạt động Khuyến khịch của Kỹ năng sẽ tạo ra Danh vọng cho Dynasty. \n\nCác Thành viên sẽ tham gia các Hoạt động này thường xuyên hơn nếu được đặt Tự chủ ở Mức độ Đầy đủ trong Tùy chọn Gameplay &gt; Chơi, và chỉ nếu họ không có Sở thích Hoạt động Ghét đối với Kỹ năng đó.</Text>
+  <Text Key="B1E2E07F">Kỹ năng</Text>
+  <Text Key="904BA425">{0.SimFirstNameWithPrefix}</Text>
+  <Text Key="B7E80011">{0.SimFirstName}</Text>
+  <Text Key="585D6EEE">{0.SimNameWithPrefix}</Text>
+  <Text Key="16307A4E">{0.SimName}</Text>
+  <Text Key="A9312555">Chọn Người thừa kế</Text>
+  <Text Key="A13118EB">Chọn Người đứng đầu</Text>
+  <Text Key="79503856">Thành viên của Dynasty Đối thủ có Mối quan hệ khó khăn hơn và nhận Danh vọng khi hành xử Xấu xa.\n\nĐối thủ có xu hướng gây gổ hơn, hoặc phá đám tiệc của nhau và gây rắc rối.</Text>
+  <Text Key="B1C74F58">Mối thù</Text>
+  <Text Key="CC34F9E6">Loại khỏi Dynasty</Text>
+  <Text Key="1C4AFC57">Loại bỏ Trạng thái Người thừa kế</Text>
+  <Text Key="5FE0F245">Bạn có muốn xóa Dynasty?</Text>
+  <Text Key="AF9322B9">Hành động này sẽ giải tán Dynasty. Huy hiệu, Giá trị, Đoàn kết, Danh vọng và các Perks liên quan sẽ mất hết. Liên minh và Mối thù cũng sẽ kết thúc ngay lập tức. Bạn có chắc chắn muốn loại bỏ Dynasty này?</Text>
+  <Text Key="DE09F2D8">Loại bỏ Dynasty</Text>
+  <Text Key="0DB05C75">Hủy bỏ Trạng thái Vi phạm</Text>
+  <Text Key="4A79775E">Trạng thái của Dynasty được thể hiện qua Danh vọng của nó, tức là mức độ thành công, và Đoàn kết của nó, tức là mức độ hòa hợp giữa các Thành viên.\n\nDanh vọng và Đoàn kết được xây dựng (hoặc phá hủy) bởi tất cả các thành viên của Dynasty cùng nhau, và tất cả họ cũng hưởng lợi (hoặc chịu hậu quả) từ những điều đó.</Text>
+  <Text Key="CD5C3B79">Tiến triển Dynasty</Text>
+  <Text Key="9890FB1B">Danh vọng</Text>
+  <Text Key="1CD27603">{0.Number}</Text>

@@ -1,0 +1,50 @@
+  <Text Key="BF979B46">Mua lô đất</Text>
+  <Text Key="0AF93B72">Bạn không thể mua lô đất Địa điểm Kinh doanh Nhỏ khi đang đi nghỉ!</Text>
+  <Text Key="28873B97">Địa điểm Kinh doanh Nhỏ</Text>
+  <Text Key="D0597074">Một Kinh doanh Nhỏ khác hiện đang mở cửa.</Text>
+  <Text Key="7CECF613">Kinh doanh Nhỏ này hiện không được gán để hoạt động trên lô đất này. Có thể thay đổi trong phần Gán Lô Kinh doanh của Cài đặt Kinh doanh Nhỏ.</Text>
+  <Text Key="335CF670">&lt;font color='#199C2C'&gt;˄ + {0.Money}&lt;/font&gt;</Text>
+  <Text Key="3AB8BB1A">&lt;font color='#199C2C'&gt;˄&lt;/font&gt; {0.Number} {S0.Customer}{P0.Customers} Đã phục vụ</Text>
+  <Text Key="002757B4">Tổng số khách hàng đã được tăng hôm nay nhờ các ưu đãi sau:\n{0.String}</Text>
+  <Text Key="9C78E4A0">Mất thay đổi?</Text>
+  <Text Key="1F2555D8">Bạn có chắc chắn muốn hủy? Bất kỳ nhiệm vụ nhân viên nào đã được gán hoặc thay đổi sẽ được hoàn nguyên.</Text>
+  <Text Key="DAA14BAC">Quản lý Nhiệm vụ Nhân viên</Text>
+  <Text Key="0103509E">Xóa Nhiệm vụ Nhân viên</Text>
+  <Text Key="BA453106">Quản lý Nhân viên</Text>
+  <Text Key="FB5FFF24">Không có Nhân viên nào có sẵn</Text>
+  <Text Key="FFC28B21">Thêm Nhiệm vụ Nhân viên</Text>
+  <Text Key="3A049B56">&lt;font color='#AE3CDE'&gt;Lương của nhân viên này hiện đang được giả mạo!&lt;/font&gt;\n\nKhông có thanh toán nào sẽ được thực hiện vào cuối ca làm việc, mặc dù luôn có khả năng doanh nghiệp có thể bị kiểm toán.</Text>
+  <Text Key="2A05B552">Lương Thấp</Text>
+  <Text Key="0A126F23">Quản lý Lương</Text>
+  <Text Key="5BAE05D6">{0.SimFirstName} chỉ có thể thuê các Sim {0.SimPronounSubjective} {S0.knows}{P0.know}, và {0.SimPronounSubjective} {S0.doesn't}{P0.don't} biết ai cả! Hãy để {0.SimPronounObjective} đi gặp một số Sim để tìm một số nhân viên tiềm năng!</Text>
+  <Text Key="D559D643">Quản lý Lương</Text>
+  <Text Key="6B75C371">Quản lý Nhân viên</Text>
+  <Text Key="60ACE44A">Giảm chi phí kinh doanh nhưng ảnh hưởng tiêu cực đến mối quan hệ và cảm xúc của nhân viên</Text>
+  <Text Key="E78CB848">Lương Cao</Text>
+  <Text Key="EF112840">Tăng chi phí kinh doanh nhưng cải thiện mối quan hệ và cảm xúc của nhân viên</Text>
+  <Text Key="86F89C02">Sa thải {0.SimName}?</Text>
+  <Text Key="893BEF7E">Bạn có chắc chắn muốn sa thải {0.SimName} khỏi {1.String}?</Text>
+  <Text Key="5D5597D1">Sa thải</Text>
+  <Text Key="28F498B6">Chọn một Sim để Thuê</Text>
+  <Text Key="ACB8D643">Lương Trung bình</Text>
+  <Text Key="89934623">Chi phí kinh doanh tiêu chuẩn, với cảm xúc của nhân viên thay đổi dựa trên tâm trạng của họ</Text>
+  <Text Key="0B838CFF">Vui lòng nhập tên có độ dài từ {0.Number} đến {1.Number} ký tự.</Text>
+  <Text Key="0BF57869">\n\nNgười chăm sóc sẽ ở lại Kinh doanh Nhỏ.</Text>
+  <Text Key="FF84F2B0">Khách hàng Bắt buộc:\n{0.String}</Text>
+  <Text Key="8501CB93">Khách hàng Ưu tiên:\n{0.String}</Text>
+  <Text Key="8710C27F">Thêm tiêu chí để nhắm mục tiêu một nhóm khách hàng nhất định cho doanh nghiệp này.\n\nTiêu chí có thể được đặt là ưu tiên hoặc bắt buộc.</Text>
+  <Text Key="0954D32E">Nhắm mục tiêu Khách hàng</Text>
+  <Text Key="6375267D">Lưu Preset</Text>
+  <Text Key="0608DABE">Lưu Preset Tùy chỉnh...</Text>
+  <Text Key="75EDF5DC">&lt;font color='#FC0328'&gt;Tên này đã được sử dụng cho một Preset khác. Vui lòng nhập một tên khác.&lt;/font&gt;</Text>
+  <Text Key="3C1351B2">Nhập một tên mới cho preset tùy chỉnh này.</Text>
+  <Text Key="D6428F04">Thêm Hoạt động Kinh doanh...</Text>
+  <Text Key="E78FB09B">Kiểm tra điều này sẽ yêu cầu tất cả khách hàng phải đáp ứng ít nhất một tiêu chí được chọn.</Text>
+  <Text Key="1AE01C85">Đăng ký Kinh doanh Nhỏ</Text>
+  <Text Key="428E41FB">{0.String} (Tùy chỉnh)</Text>
+  <Text Key="A01C1C24">Chọn Preset Kinh doanh</Text>
+  <Text Key="EA238CB2">Preset Tùy chỉnh</Text>
+  <Text Key="7375776A">Thêm Hoạt động Mới</Text>
+  <Text Key="E5186831">Thêm Tiêu chí Nhắm mục tiêu Khách hàng</Text>
+  <Text Key="2ED0F7A0">Điều chỉnh Giá</Text>
+  <Text Key="14784347">Chế độ Bán vé không thể được thay đổi khi Kinh doanh Nhỏ đang mở cửa.</Text>

@@ -1,0 +1,50 @@
+  <Text Key="6FD385D2">Ô lưu bị lỗi, không thể tải.</Text>
+  <Text Key="15AFEB31">Hộ gia đình chơi lần cuối:</Text>
+  <Text Key="C9543C2F">Sao chép đường dẫn tệp lưu vào bảng nhớ tạm:</Text>
+  <Text Key="3645870A">Tên:</Text>
+  <Text Key="2808E76B">Trò chơi lưu mà bạn đang cố gắng tải đã được lưu bằng phiên bản The Sims 4 mới hơn phiên bản hiện tại của bạn. Vui lòng cập nhật để tải trò chơi lưu này một cách an toàn.</Text>
+  <Text Key="45969C1B">Các tệp lưu phải được đặt tên. Vui lòng nhập tên để tiếp tục lưu trò chơi của bạn.</Text>
+  <Text Key="F6963E2B">Phải cung cấp tên lưu hợp lệ.</Text>
+  <Text Key="BE6D2769">Xóa</Text>
+  <Text Key="5E026FD2">Bạn có chắc không?</Text>
+  <Text Key="EFF23E1C">Xóa</Text>
+  <Text Key="ADB92CB3">Bạn có chắc muốn xóa {0.String}?\n\nCẢNH BÁO: Đây là tệp lưu hiện tại. Nếu xóa, Trình đơn chính có thể cần được tải lại.</Text>
+  <Text Key="D0C66664">Bạn có chắc muốn xóa {0.String}?</Text>
+  <Text Key="132FC975">Trò chơi đã lưu của tôi {0.Number}</Text>
+  <Text Key="025AAEF7">{0.String} (Tự động)</Text>
+  <Text Key="0520FFDD">Thêm Lưu Kịch bản Mới</Text>
+  <Text Key="9372DDFF">Thêm Lưu Mới</Text>
+  <Text Key="1526BE9D">Phục hồi Lưu</Text>
+  <Text Key="6F714D1D">Phục hồi Lưu?</Text>
+  <Text Key="9B44C768">Việc phục hồi lưu này sẽ tạo một ô lưu trò chơi mới, với từ "Phục hồi" được thêm vào cuối tên.</Text>
+  <Text Key="B18E7914">Phục hồi trò chơi lưu này.</Text>
+  <Text Key="1DC912A3">Phục hồi</Text>
+  <Text Key="47A9FAD7">Không có lưu phục hồi nào có sẵn.</Text>
+  <Text Key="8329E869">Tăng Bộ Nhớ</Text>
+  <Text Key="6596A487">Bạn có chắc không?</Text>
+  <Text Key="C59D542E">Bạn có chắc muốn xóa dữ liệu phục hồi?</Text>
+  <Text Key="5A806C71">Xóa trò chơi lưu này.</Text>
+  <Text Key="63F33632">Xóa</Text>
+  <Text Key="09F2A87A">Xem chi tiết về gói (các gói) yêu cầu</Text>
+  <Text Key="E6ED0E45">Xem Gói</Text>
+  <Text Key="89CF9F5A">Sao chép_{0.String}</Text>
+  <Text Key="920D1630">{0.String}</Text>
+  <Text Key="A6E1D88F">{0.String}\n&lt;font color="#EC262E"&gt;Không sở hữu&lt;/font&gt;</Text>
+  <Text Key="AEAEAC4B">{0.String}\n&lt;font color="#EC262E"&gt;Không tải được&lt;/font&gt;</Text>
+  <Text Key="8F896A61">Điểm Ưu đãi Có sẵn:</Text>
+  <Text Key="21613808">Ưu đãi Nhà hàng</Text>
+  <Text Key="F3B2E973">Đổi</Text>
+  <Text Key="150931BB">Bạn có chắc muốn mua &lt;font color="{0.String}"&gt;{1.String}&lt;/font&gt; với {2.Points}?</Text>
+  <Text Key="C4691DB8">Số dư điểm còn lại của bạn sẽ là: &lt;font color="{0.String}"&gt;{1.Points}&lt;/font&gt;</Text>
+  <Text Key="8C87026D">Mua Phần thưởng</Text>
+  <Text Key="63442C4A">Bạn có chắc muốn mua &lt;font color="{0.String}"&gt;{1.String}&lt;/font&gt; với {2.PerkPoints}?</Text>
+  <Text Key="A4564DF3">Số dư còn lại của bạn sẽ là: &lt;font color="{0.String}"&gt;{1.PerkPoints}&lt;/font&gt;</Text>
+  <Text Key="567E80C4">Mua Ưu đãi</Text>
+  <Text Key="DD44BDAB">Phần thưởng</Text>
+  <Text Key="46DFBE85">Ưu đãi này yêu cầu một ưu đãi khác phải được mở khóa trước. Để biết ưu đãi nào được yêu cầu, hãy di chuột qua tên của ưu đãi này.</Text>
+  <Text Key="67D91493">Điểm không đủ</Text>
+  <Text Key="6F72DD4B">Đặc điểm</Text>
+  <Text Key="F1611E98">Thuốc</Text>
+  <Text Key="27BEB4BB">Lọc Theo...</Text>
+  <Text Key="734FA5CD">Tất cả</Text>
+  <Text Key="A3B06FB9">Chi phí Điểm</Text>

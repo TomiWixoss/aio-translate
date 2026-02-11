@@ -1,0 +1,50 @@
+  <Text Key="F96935D8">{0.ObjectName}</Text>
+  <Text Key="2CD72572">Môi trường: {0.Number}</Text>
+  <Text Key="B91CEE40">Điều kiện ánh sáng kém</Text>
+  <Text Key="2E3D977E">Điều kiện thời tiết xấu</Text>
+  <Text Key="11933086">&lt;b&gt;Trạng thái:&lt;/b&gt; &lt;font color='#D10007'&gt;Không có dịch vụ nước&lt;/font&gt;</Text>
+  <Text Key="6C3CBDA8">&lt;b&gt;Trạng thái:&lt;/b&gt; &lt;font color='#199C2C'&gt;Hoạt động hoàn toàn&lt;/font&gt;</Text>
+  <Text Key="7E69C777">Được sưởi ấm bởi Công nghệ 5EverWarm</Text>
+  <Text Key="4C2D585F">&lt;b&gt;Trạng thái:&lt;/b&gt; &lt;font color='#FF7800'&gt;Hỏng&lt;/font&gt;</Text>
+  <Text Key="0DD5EDFE">Được sưởi ấm bởi Năng lượng Địa nhiệt</Text>
+  <Text Key="20774208">&lt;b&gt;Trạng thái:&lt;/b&gt; &lt;font color='#D10007'&gt;Không có dịch vụ điện&lt;/font&gt;</Text>
+  <Text Key="AC8C76B9">#PhimTàiLiệuThiênNhiên</Text>
+  <Text Key="16B057A8">Hiệu ứng đã thêm</Text>
+  <Text Key="1E55B7B9">Chất lượng: &lt;font color='#EC262E'&gt;Kém&lt;/font&gt;</Text>
+  <Text Key="C44BA1ED">Chất lượng: &lt;font color='#DB878A'&gt;Trung bình&lt;/font&gt;</Text>
+  <Text Key="194C8577">Chất lượng: &lt;font color='#3DAF39'&gt;Tuyệt vời&lt;/font&gt;</Text>
+  <Text Key="8E488F6A">Chất lượng: &lt;font color='#5BA578'&gt;Xuất sắc&lt;/font&gt;</Text>
+  <Text Key="9775B126">Chất lượng: &lt;font color='#3AAF69'&gt;Tốt&lt;/font&gt;</Text>
+  <Text Key="2FE5C942">Chuyển cảnh đã thêm</Text>
+  <Text Key="4CE37F7F">Đã mất</Text>
+  <Text Key="101A8CA1">Khó chịu</Text>
+  <Text Key="B6161626">Sự thoải mái: 1</Text>
+  <Text Key="8CE1AFAB">Sự thoải mái: 5</Text>
+  <Text Key="9781E356">Bàng quang: 9</Text>
+  <Text Key="8938EA97">Bàng quang: 10</Text>
+  <Text Key="939A8779">Độ tin cậy: {0.Number}</Text>
+  <Text Key="D905A60D">Bàng quang: {0.Number}</Text>
+  <Text Key="811D337B">Độ tin cậy: {0.Number}</Text>
+  <Text Key="88DFCE33">Sự thoải mái: {0.Number}</Text>
+  <Text Key="FA94B843">Môi trường: {0.Number}</Text>
+  <Text Key="DFE93B39">{0.Number} {S0.Serving}{P0.Servings} Còn lại</Text>
+  <Text Key="D893F233">Đường</Text>
+  <Text Key="E6403AD8">&lt;font color='#C9A927'&gt;+ Dấu chân Môi trường Công nghiệp&lt;/font&gt;</Text>
+  <Text Key="5D0F1C0E">&lt;font color='#4BA64A'&gt;+ Dấu chân Môi trường Xanh&lt;/font&gt;</Text>
+  <Text Key="C5A9A441">Lạnh giá</Text>
+  <Text Key="31AF3F06">Lạnh</Text>
+  <Text Key="D07B967D">Tuyết rơi nhẹ</Text>
+  <Text Key="8C52D1C0">Bông tuyết</Text>
+  <Text Key="2591E81C">Run rẩy</Text>
+  <Text Key="17D25526">Đọng băng</Text>
+  <Text Key="648CDAA2">Tuyết bột</Text>
+  <Text Key="A10032DA">Khó chịu</Text>
+  <Text Key="89CE886D">Vai trò: Trồng trọt</Text>
+  <Text Key="C8128594">Vai trò: Làm ác</Text>
+  <Text Key="2F3BB527">Vai trò: Sửa chữa và Nâng cấp</Text>
+  <Text Key="5631EAC0">Vai trò: Bảo vệ</Text>
+  <Text Key="5766A33B">Vai trò: Dọn dẹp</Text>
+  <Text Key="91A29570">&lt;font color='#EC262E'&gt;Bán hàng bị vô hiệu hóa&lt;/font&gt;</Text>
+  <Text Key="C8071E3E">Doanh nghiệp nhỏ đã đóng cửa</Text>
+  <Text Key="8B16DB19">{0.ObjectName}</Text>
+  <Text Key="AC738E17">&lt;font color='#199C2C'&gt;Bán hàng được kích hoạt&lt;/font&gt;</Text>

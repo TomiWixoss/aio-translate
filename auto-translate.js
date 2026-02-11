@@ -23,7 +23,10 @@ if (!fs.existsSync(path.dirname(OUTPUT_FILE))) {
 const aio = new AIO({
     providers: [{
         provider: "nvidia",
-        apiKeys: [{ key: process.env.NVIDIA_API_KEY }],
+        apiKeys: [
+            { key: process.env.NVIDIA_API_KEY },
+            { key: process.env.NVIDIA_API_KEY_2 }
+        ],
         models: [{ modelId: "stepfun-ai/step-3.5-flash" }],
     }],
     disableAutoKeyDisable: true, // Không tự động disable key khi gặp lỗi

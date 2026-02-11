@@ -1,0 +1,50 @@
+  <Text Key="5AC1A9BF">Thời gian còn lại: ít hơn 1 ngày</Text>
+  <Text Key="ED883846">Gia hạn chuyến đi</Text>
+  <Text Key="F7627639">Gia hạn thêm</Text>
+  <Text Key="BCD2559F">Hủy &amp; Kết thúc chuyến đi</Text>
+  <Text Key="4E0C902E">&lt;span class='cannotAfford'&gt;{0.Money}&lt;/span&gt;</Text>
+  <Text Key="828B314F">&lt;span class='canAfford'&gt;{0.Money}&lt;/span&gt;</Text>
+  <Text Key="F798E0BF">Vào khu vực</Text>
+  <Text Key="5DD668BD">Dấu chân sinh thái - {0.String}</Text>
+  <Text Key="DCB4BAE0">Việc chọn lô đất không khả dụng khi ở chế độ Dấu chân sinh thái. Chuyển chế độ Dấu chân sinh thái để chọn lô đất.</Text>
+  <Text Key="BA3C9739">Facebook story đã được chia sẻ thành công!</Text>
+  <Text Key="1BA00634">Lỗi</Text>
+  <Text Key="34F03AF2">Đóng</Text>
+  <Text Key="7D3E8EAE">Không thể chia sẻ lên Facebook! Vui lòng thử lại sau.</Text>
+  <Text Key="A0EE7FF0">&lt;span class="originLink"&gt;{0.String}&lt;/span&gt;</Text>
+  <Text Key="8D1BEBCC">Bởi: &lt;span class="originLink"&gt;{0.String}&lt;/span&gt;</Text>
+  <Text Key="CC167D33">Bởi: &lt;span class="originLink"&gt;&lt;a href='event:clickEvent'&gt;{0.String}&lt;/a&gt;&lt;/span&gt;</Text>
+  <Text Key="BBC75D4A">The Sims 4: Chia sẻ tác phẩm của bạn với thế giới!</Text>
+  <Text Key="AAFC8DE8">Tìm kiếm, lưu và chơi với những Sim độc nhất</Text>
+  <Text Key="77FF33CD">Tất cả nội dung được lưu trữ và kiểm duyệt bởi Maxis</Text>
+  <Text Key="0D1D2E19">Khám phá và lưu những Lô đất mới đầy cảm hứng</Text>
+  <Text Key="CD6CA7CC">Chia sẻ tác phẩm của bạn với Cộng đồng</Text>
+  <Text Key="997F1FA6">Đăng nhập vào The Sims 4 Gallery cho phép bạn xem các tác phẩm do người chơi khác tạo, đăng bình luận, nhận cập nhật từ những người sáng tạo bạn đang theo dõi, và chọn các mục từ Gallery để sau này tải vào trò chơi The Sims 4 của bạn.\n\nNgười chơi khác, bao gồm bạn bè, có thể theo dõi bạn trong Gallery và xem hồ sơ Gallery của bạn. Bạn cũng có thể xem ai đang theo dõi bạn. Nếu bạn không muốn bất kỳ ai theo dõi bạn hoặc xem hồ sơ Gallery của bạn, chỉ cần thay đổi cài đặt quyền riêng tư của Tài khoản EA để “Không ai” có thể xem hồ sơ của bạn. Với cài đặt này, người chơi khác vẫn có thể xem và bình luận về nội dung bạn đã tải lên Gallery.\n\nBằng cách sử dụng, bạn xác nhận tuân thủ &lt;span class="tosLink"&gt;&lt;a href='event:clickEvent'&gt;Thỏa thuận Người dùng của EA&lt;/a&gt;&lt;/span&gt;.</Text>
+  <Text Key="3F08F6B7">#{0.String}</Text>
+  <Text Key="AE01AE46">Đã chia sẻ: {0.String}</Text>
+  <Text Key="E8A383F8">Đã sửa đổi: {0.String}</Text>
+  <Text Key="E2DC16DF">Đã tạo: {0.String}</Text>
+  <Text Key="51903FC1">bạn</Text>
+  <Text Key="5B93ACB5">Nguyên bản bởi: &lt;span class="originLink"&gt;{0.String}&lt;/span&gt;</Text>
+  <Text Key="39D37208">Nguyên bản bởi: &lt;span class="originLink"&gt;&lt;a href='event:clickEvent'&gt;{0.String}&lt;/a&gt;&lt;/span&gt;</Text>
+  <Text Key="27987941">SparkdChallenges</Text>
+  <Text Key="E12C6F29">Mục này đã được lưu vào Thư viện của bạn với phiên bản cũ của The Sims 4. Vui lòng lưu mục này lại trước khi chia sẻ lên Gallery.</Text>
+  <Text Key="BB922E2F">Phòng</Text>
+  <Text Key="89D8B5F5">Hình xăm</Text>
+  <Text Key="6686C0AD">Hộ gia đình</Text>
+  <Text Key="56901AA3">Lô đất</Text>
+  <Text Key="A3224061">Dừng theo dõi người dùng này</Text>
+  <Text Key="2791F979">Kích thước tệp của mục này quá lớn để tải lên Gallery.</Text>
+  <Text Key="C8326D2E">Theo dõi người dùng này</Text>
+  <Text Key="5B1EBFEB">Người chơi bị chặn không thể được theo dõi.</Text>
+  <Text Key="7C1290B0">Xem Hồ sơ Người chơi</Text>
+  <Text Key="55EF010F">Đã tải lên để Chia sẻ</Text>
+  <Text Key="2EF48AA7">{0.Number} em bé trong hộ gia đình</Text>
+  <Text Key="E9793F93">Không thể áp dụng cho căn hộ penthouse</Text>
+  <Text Key="3DD7F6D8">Đang theo dõi {0.Number}</Text>
+  <Text Key="59CD9504">Người theo dõi {0.Number}</Text>
+  <Text Key="8C320251">Đã chặn {0.Number}</Text>
+  <Text Key="5010950B">{0.Number} Người theo dõi{P0.s}</Text>
+  <Text Key="3565ED34">Đang theo dõi bạn</Text>
+  <Text Key="6C16CCA3">Ẩn danh</Text>
+  <Text Key="17EE793F">Phổ biến hiện tại</Text>

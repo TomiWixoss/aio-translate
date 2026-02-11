@@ -1,0 +1,50 @@
+  <Text Key="BA429D23">Việc có thêm sức mạnh sẽ có một số hậu quả. Chọn điểm yếu khi bạn trở nên mạnh mẽ hơn.</Text>
+  <Text Key="D9568944">Điểm Sức Mạnh: &lt;span class="balance"&gt;{0.OccultPoints}&lt;/span&gt;</Text>
+  <Text Key="0C88CAE1">Bỏ chọn Điểm yếu hiện tại.</Text>
+  <Text Key="591A9E30">Bỏ chọn Sức mạnh hiện tại và trả {0.OccultPoints} vào ví.</Text>
+  <Text Key="A5D594E7">Sim của bạn đang trở nên ma cà rồng hơn, mất đi {F0.her}{M0.his} nhân tính. Chọn điểm yếu để xác nhận thêm sức mạnh.</Text>
+  <Text Key="5B35CCF7">Liên kết Dạng Người với Dạng Bóng Tối\n&lt;font color='#1e81e6'&gt;&lt;i&gt;Khi liên kết, mọi thay đổi trong bất kỳ dạng nào sẽ tự động được sao chép sang dạng kia. Các bộ phận riêng lẻ có thể được bao gồm hoặc loại trừ khỏi liên kết này trong Bộ lọc Liên kết ở trên.&lt;/i&gt;&lt;/font&gt;</Text>
+  <Text Key="F4C35390">Sao chép Dạng Bóng Tối sang Sim.</Text>
+  <Text Key="D61D7B79">Liên kết Dạng Bóng Tối với Dạng Người\n&lt;font color='#1e81e6'&gt;&lt;i&gt;Khi liên kết, mọi thay đổi trong bất kỳ dạng nào sẽ tự động được sao chép sang dạng kia. Các bộ phận riêng lẻ có thể được bao gồm hoặc loại trừ khỏi liên kết này trong Bộ lọc Liên kết ở trên.&lt;/i&gt;&lt;/font&gt;</Text>
+  <Text Key="B7712CC6">Nhóm Tuổi không hợp lệ. Xóa Dạng Người cá?</Text>
+  <Text Key="B3F42360">Trẻ em không có Dạng Người cá hay sức mạnh Người cá. Chọn tùy chọn tuổi này sẽ xóa Dạng Người cá hiện tại của bạn. Bạn không thể hoàn tác thay đổi này.</Text>
+  <Text Key="1D9ABBF0">Liên kết Dạng Người với Dạng Người cá\n&lt;font color='#1e81e6'&gt;&lt;i&gt;Khi liên kết, mọi thay đổi trong bất kỳ dạng nào sẽ tự động được sao chép sang dạng kia. Các bộ phận riêng lẻ có thể được bao gồm hoặc loại trừ khỏi liên kết này trong Bộ lọc Liên kết ở trên.&lt;/i&gt;&lt;/font&gt;</Text>
+  <Text Key="CFA37877">Sao chép Dạng Người cá sang Sim.</Text>
+  <Text Key="5ABBCED5">Dạng Người cá của {0.SimName}.</Text>
+  <Text Key="A7B86580">Liên kết Dạng Người cá với Dạng Người\n&lt;font color='#1e81e6'&gt;&lt;i&gt;Khi liên kết, mọi thay đổi trong bất kỳ dạng nào sẽ tự động được sao chép sang dạng kia. Các bộ phận riêng lẻ có thể được bao gồm hoặc loại trừ khỏi liên kết này trong Bộ lọc Liên kết ở trên.&lt;/i&gt;&lt;/font&gt;</Text>
+  <Text Key="6A8C7187">Sao chép Sim sang Dạng Người cá.</Text>
+  <Text Key="C328D809">Thêm Người cá</Text>
+  <Text Key="8F7CB49A">Nhóm tuổi không hợp lệ. Xóa Dạng Thú?</Text>
+  <Text Key="5DEAC11C">Trẻ em chưa thể truy cập Dạng Thú của chúng. Chọn tùy chọn tuổi này sẽ xóa Dạng Thú hiện tại của bạn. Bạn không thể hoàn tác thay đổi này.</Text>
+  <Text Key="9F0B5864">Liên kết Dạng Người với Dạng Thú\n&lt;font color='#1e81e6'&gt;&lt;i&gt;Khi liên kết, mọi thay đổi trong bất kỳ dạng nào sẽ tự động được sao chép sang dạng kia. Các bộ phận riêng lẻ có thể được bao gồm hoặc loại trừ khỏi liên kết này trong Bộ lọc Liên kết ở trên.&lt;/i&gt;&lt;/font&gt;</Text>
+  <Text Key="7F80B653">Sao chép Dạng Thú sang Sim.</Text>
+  <Text Key="7F35DCB9">Dạng Thú của {0.SimName}.</Text>
+  <Text Key="3838E92C">Liên kết Dạng Thú với Dạng Người\n&lt;font color='#1e81e6'&gt;&lt;i&gt;Khi liên kết, mọi thay đổi trong bất kỳ dạng nào sẽ tự động được sao chép sang dạng kia. Các bộ phận riêng lẻ có thể được bao gồm hoặc loại trừ khỏi liên kết này trong Bộ lọc Liên kết ở trên.&lt;/i&gt;&lt;/font&gt;</Text>
+  <Text Key="35C2BD1F">Trái cây &amp; Rau củ</Text>
+  <Text Key="F97F7C50">Hoa</Text>
+  <Text Key="F66AE919">Trồng trọt</Text>
+  <Text Key="670F224F">Đồ tiêu dùng khác</Text>
+  <Text Key="D26E409A">Đồ uống</Text>
+  <Text Key="499529A9">Thực phẩm</Text>
+  <Text Key="20B832A0">Động vật và Chăm sóc</Text>
+  <Text Key="C8D814C7">Chăm sóc</Text>
+  <Text Key="08960258">Động vật</Text>
+  <Text Key="877BB1B0">Sách</Text>
+  <Text Key="57170D53">Đồ sưu tập khác</Text>
+  <Text Key="71482064">Đồ sưu tập tự nhiên</Text>
+  <Text Key="5A3F695D">Đồ sưu tập trang trí</Text>
+  <Text Key="B11DBCBE">Đồ sưu tập sinh vật</Text>
+  <Text Key="2F686E7F">Có thể tiêu dùng</Text>
+  <Text Key="96AA1641">Sách khác</Text>
+  <Text Key="6B3591B8">Sách kỹ năng</Text>
+  <Text Key="3E6646A7">Sách giải trí</Text>
+  <Text Key="7724CFAC">Bộ sưu tập đũa phép lộng lẫy của bạn.</Text>
+  <Text Key="A36BD30C">Đũa phép</Text>
+  <Text Key="2DE87AB7">Bộ sưu tập chổi phép kỳ diệu của bạn.</Text>
+  <Text Key="D6B5FCF7">Chổi phép</Text>
+  <Text Key="0DFB213B">Bộ sưu tập cán kiếm sáng của bạn.</Text>
+  <Text Key="C1789C63">Cán kiếm sáng</Text>
+  <Text Key="9AA0A15E">Bộ sưu tập tinh thể kyber của bạn.</Text>
+  <Text Key="2B39F236">Tinh thể kyber</Text>
+  <Text Key="147CD8E6">Bộ sưu tập kiếm sáng của bạn.</Text>
+  <Text Key="A14B5C4E">Kiếm sáng</Text>

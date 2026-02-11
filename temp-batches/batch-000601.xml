@@ -1,0 +1,50 @@
+  <Text Key="62006AAE">Đây là những nhân viên bạn đã tuyển dụng.</Text>
+  <Text Key="EDA47FA0">Hiện tại có {0.String}</Text>
+  <Text Key="6B91F5A3">Đây là những Sim có thể tuyển dụng.</Text>
+  <Text Key="A8AD7612">Có {0.String} có thể tuyển dụng.</Text>
+  <Text Key="707D30AD">Đặc quyền Triều đại</Text>
+  <Text Key="F39C43A1">Đặt lại Đặc quyền</Text>
+  <Text Key="8846BC60">&lt;span class = 'label'&gt;Đặc quyền đang hoạt động: &lt;/span&gt;&lt;span class = 'value'&gt;{0.Number} / {1.Number}&lt;/span&gt;</Text>
+  <Text Key="EFBC38E2">Chỉ có Trưởng Triều đại mới có thể mua đặc quyền cho triều đại của họ.</Text>
+  <Text Key="7939101B">Chỉ có Trưởng Triều đại mới có thể đặt lại Đặc quyền.</Text>
+  <Text Key="CF6E95C0">Không có đặc quyền nào đang hoạt động để đặt lại</Text>
+  <Text Key="6DE9338D">Đặc quyền không áp dụng cho Người bị ruồng bỏ.</Text>
+  <Text Key="F6AA7593">&lt;span class = 'label'&gt;Điểm Đặc quyền: &lt;/span&gt;&lt;span class = 'value'&gt;{0.DynastyPoints}&lt;/span&gt;</Text>
+  <Text Key="5C3DCAA4">Đặt lại Đặc quyền Triều đại?</Text>
+  <Text Key="86E86E54">Bạn có chắc chắn muốn đặt lại Đặc quyền Triều đại?</Text>
+  <Text Key="CFE82F11">Bạn có chắc chắn muốn mua {0.String} với giá {1.DynastyPoints}?</Text>
+  <Text Key="2C355FFD">Số điểm còn lại của bạn sẽ là: {0.DynastyPoints}</Text>
+  <Text Key="D0D2E5DB">Xác nhận các thay đổi trong Cài đặt Triều đại để thêm Sim này vào Triều đại trước.</Text>
+  <Text Key="EEF34CB1">Lượt tăng danh tiếng thấp</Text>
+  <Text Key="4C98673E">Tước vị</Text>
+  <Text Key="9E53C131">Trưởng &amp; Người thừa kế</Text>
+  <Text Key="E455F40E">Người bị ruồng bỏ</Text>
+  <Text Key="9DBB4AEE">&lt;font color='#EC262E'&gt;-{0.String}&lt;/font&gt;</Text>
+  <Text Key="1F4DECA9">&lt;font color='#199C2C'&gt;+{0.String}&lt;/font&gt;</Text>
+  <Text Key="FE4C50FE">Vai trò của Sim này trong Triều đại</Text>
+  <Text Key="77756A4C">Vị trí của Sim này trong bảng xếp hạng Thành viên Triều đại dựa trên lượng Danh tiếng mỗi Thành viên đóng góp.</Text>
+  <Text Key="8CB98A43">[PH] Sự liên kết Kỹ năng</Text>
+  <Text Key="B0FDD9D4">Trạng thái Thành viên</Text>
+  <Text Key="A4FFFC2B">[PH] Sự liên kết Lý tưởng</Text>
+  <Text Key="93BA1BBA">{0.String}&lt;font color='#EC262E'&gt; (Đối thủ)&lt;/font&gt;</Text>
+  <Text Key="5505C6D4">{0.String}&lt;font color='#199C2C'&gt; (Đồng minh)&lt;/font&gt;</Text>
+  <Text Key="77AB1BB3">Xem các Triều đại</Text>
+  <Text Key="1D0526D7">Triều đại này đang trải qua Sự ổn định Đoàn kết! Duy trì các mối quan hệ tích cực giữa các Thành viên Triều đại để tiếp tục nhận phần thưởng.</Text>
+  <Text Key="F2E3ADBC">Bạn không thể đặt trên lô đất này vì nó quá nhỏ.\nChọn một lô đất lớn hơn hoặc chọn "Đặt Lô đất và Chỉnh sửa" khi đặt lô đất này.</Text>
+  <Text Key="92C321B9">Lô đất bạn đang áp dụng lớn hơn lô đất này.\nMột phần sẽ bị cắt xén khi đặt.</Text>
+  <Text Key="A585587E">Đánh giá Đơn vị</Text>
+  <Text Key="FD869E53">Không khả dụng khi xem Dấu chân Sinh thái</Text>
+  <Text Key="5D8FC1AA">Không khả dụng khi đang du lịch</Text>
+  <Text Key="E82C5065">Không khả dụng khi đang chọn mùa</Text>
+  <Text Key="072A588F">Không khả dụng trong giai đoạn Tái sinh</Text>
+  <Text Key="BCF7EA56">Không khả dụng khi đang đặt mẫu hộ gia đình</Text>
+  <Text Key="B2F7DAF0">Không khả dụng khi đang đặt bản phác thảo</Text>
+  <Text Key="D71119D4">Không khả dụng khi đang di chuyển</Text>
+  <Text Key="22B14D8F">Tiếp tục chơi:</Text>
+  <Text Key="6B279DB1">Lên tầng tiếp theo - Page Up</Text>
+  <Text Key="4A8F8FB2">Xuống tầng dưới - Page Down</Text>
+  <Text Key="1E9B7CCB">Tiền thuê: {0.Money}</Text>
+  <Text Key="6E950394">{0.String}</Text>
+  <Text Key="AF59EFAC">Đơn vị &amp; Người thuê</Text>
+  <Text Key="8FAE22E7">Thời hạn thuê: {0.Timespan}</Text>
+  <Text Key="278CA2A7">Chủ sở hữu Bất động sản</Text>

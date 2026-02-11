@@ -1,0 +1,50 @@
+  <Text Key="B5147272">Điểm Ưu đãi:</Text>
+  <Text Key="39861BE2">Mở Liên minh &amp; Đối thủ</Text>
+  <Text Key="1F933B8C">Không có Sim nào đủ điều kiện để thêm vào Triệu đình.</Text>
+  <Text Key="74313D6A">Tạo Triệu đình mà không có Người thừa kế?</Text>
+  <Text Key="E38E8CC6">Một Người thừa kế sẽ có thể tạo ra nhiều Uy tín hơn một Thành viên thông thường. Trưởng Triệu đình có thể chỉ định hoặc thay đổi Người thừa kế bất kỳ lúc nào.\n\nBạn có chắc chắn muốn tạo Triệu đình này mà không chỉ định Người thừa kế trước?</Text>
+  <Text Key="6B71C36A">Một Triệu đình bao gồm một nhóm các Sim có quan hệ huyết thống. Bất kỳ ai có quan hệ huyết thống với Trưởng Triệu đình, hoặc là con, cháu, hoặc con riêng/con nuôi của một thành viên khác, đều được phép tham gia.\n\nKhông phải tất cả các Sim có thể tham gia đều muốn tham gia, hoặc được Trưởng Triệu đình cho phép tham gia! Cải thiện mối quan hệ giữa Sim và Trưởng Triệu đình, và tăng Uy tín của Triệu đình, có thể giúp ích trong những tình huống như vậy.</Text>
+  <Text Key="FFB83605">Thành viên</Text>
+  <Text Key="E2F3FA33">Thành viên</Text>
+  <Text Key="13F591E8">Chỉ trưởng Triệu đình mới có thể chỉnh sửa điều này.</Text>
+  <Text Key="DD22126B">Rời Triệu đình</Text>
+  <Text Key="BA71FCB3">Bạn có muốn đuổi Thành viên này ra khỏi Triệu đình?</Text>
+  <Text Key="86F55FD3">Việc đuổi thành viên này ra khỏi Triệu đình có thể có hậu quả.\n\nBạn có chắc chắn muốn làm điều này?</Text>
+  <Text Key="51F08DE3">Đuổi khỏi Triệu đình</Text>
+  <Text Key="53A91ED4">Thành viên</Text>
+  <Text Key="159C08EC">Triệu đình cần có một Trưởng.</Text>
+  <Text Key="82360643">&lt;font color='#AE3CDE'&gt;Đang trong một Bê bối&lt;/font&gt;\n&lt;font color='#1E81E6'&gt;Thời gian còn lại:&lt;/font&gt; &lt;font color='#199C2C'&gt;{0.Timespan}&lt;/font&gt;</Text>
+  <Text Key="F66EB301">Các Triệu đình có thể chọn tối đa ba Lý tưởng để tôn thờ như Giá trị Triệu đình.\n\nCác Thành viên tham gia vào Hoạt động được Khuyến khích của Lý tưởng, đi làm trong Sự nghiệp được Khuyến khích, hoặc tham gia Hoạt động ngoại khóa được Khuyến khích sẽ tạo ra Uy tín cho Triệu đình. Các Thành viên tham gia vào Hoạt động bị Phản đối của Lý tưởng hoặc đi làm trong Sự nghiệp bị Phản đối sẽ khiến Triệu đình mất Uy tín.\n\nHầu hết các Thành viên sẽ tự tham gia vào Hoạt động được Khuyến khích của Lý tưởng thường xuyên hơn nhưng chỉ khi Tự chủ được đặt là Toàn bộ trong Tùy chọn Trò chơi &gt; Lối chơi. Tuy nhiên, các thành viên có Tính cách đối lập với một Lý tưởng (ví dụ, Tính cách Ác đối lập với Lý tưởng Trắc ẩn) có thể tham gia vào Hoạt động bị Phản đối thường xuyên hơn!</Text>
+  <Text Key="9B33C928">Lý tưởng</Text>
+  <Text Key="207C5C30">&lt;font color='#EC262E'&gt;Lý tưởng này đã được chọn.&lt;/font&gt;</Text>
+  <Text Key="D2F8E780">Thêm Lý tưởng</Text>
+  <Text Key="F872A3E7">Người thừa kế Triệu đình</Text>
+  <Text Key="0B842C89">Hãy thêm thành viên vào Triệu đình trước để chọn một Người thừa kế.</Text>
+  <Text Key="51BD3DC9">Trưởng Triệu đình</Text>
+  <Text Key="8798D405">\n&lt;b&gt;&lt;font color='#199C2C'&gt;Sự nghiệp &amp; Hoạt động ngoại khóa được Khuyến khích&lt;/font&gt;&lt;/b&gt;</Text>
+  <Text Key="5DE3D76F">&lt;b&gt;&lt;font color='#199C2C'&gt;Hoạt động được Khuyến khích&lt;/font&gt;&lt;/b&gt;</Text>
+  <Text Key="C7A8529A">Không có Liên minh hay Đối thủ</Text>
+  <Text Key="C0B0EA09">Cấp Uy tín {0.Number}</Text>
+  <Text Key="A274FC08">&lt;font color='#1E81E6'&gt;{0.Number} Thành viên&lt;/font&gt;</Text>
+  <Text Key="F8A9A682">Triệu đình của {0.SimFirstName}</Text>
+  <Text Key="1457DCFA">&lt;font color='#EC262E'&gt;Đối thủ&lt;/font&gt;\n&lt;font color='#1E81E6'&gt;{0.Number} Thành viên&lt;/font&gt;\nCấp Uy tín {1.Number}</Text>
+  <Text Key="64E78576">&lt;font color='#199C2C'&gt;Đồng minh&lt;/font&gt;\n&lt;font color='#1E81E6'&gt;{0.Number} Thành viên&lt;/font&gt;\nCấp Uy tín {1.Number}</Text>
+  <Text Key="1F85232C">\n&lt;b&gt;&lt;font color='#EC262E'&gt;Sự nghiệp bị Phản đối&lt;/font&gt;&lt;/b&gt;</Text>
+  <Text Key="1AC53D34">\n&lt;b&gt;&lt;font color='#EC262E'&gt;Hoạt động bị Phản đối&lt;/font&gt;&lt;/b&gt;</Text>
+  <Text Key="EC77877F">Bạn có chắc chắn muốn chỉ định thành viên này làm Người thừa kế?</Text>
+  <Text Key="DF376787">Một Sim khác đã là Người thừa kế của Triệu đình này, họ sẽ mất vị trí đó và có thể phản ứng tiêu cực.\n\nBạn có chắc chắn muốn thay đổi này?</Text>
+  <Text Key="4DD15F17">Một Kẻ bị ruồng bỏ không thể được chỉ định làm Người thừa kế.</Text>
+  <Text Key="7C64A57D">Chỉ định Người thừa kế</Text>
+  <Text Key="0C8DA135">Đã được chỉ định là Kẻ bị ruồng bỏ.</Text>
+  <Text Key="2AF91A73">Người thừa kế không thể được chỉ định là Kẻ bị ruồng bỏ.</Text>
+  <Text Key="A8449E11">Phải là thiếu niên hoặc lớn tuổi hơn mới có thể được chỉ định là Kẻ bị ruồng bỏ.</Text>
+  <Text Key="997C3A23">Tuyên bố là Kẻ bị ruồng bỏ</Text>
+  <Text Key="5B433290">Xóa Kỹ năng</Text>
+  <Text Key="AC8EC00B">Xóa Thành viên</Text>
+  <Text Key="F79C1DF8">Xóa Lý tưởng</Text>
+  <Text Key="4B20862D">Tên Triệu đình</Text>
+  <Text Key="B9A60B12">Nhập Mô tả...</Text>
+  <Text Key="2389FCF9">Tạo Triệu đình Của bạn</Text>
+  <Text Key="5A6307BB">Tạo Triệu đình Mới</Text>
+  <Text Key="114A0142">Triệu đình phải có tên hợp lệ.</Text>
+  <Text Key="5BCD1989">&lt;font color='#1E81E6'&gt;Kẻ bị ruồng bỏ&lt;/font&gt;</Text>

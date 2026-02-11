@@ -1,0 +1,50 @@
+  <Text Key="C35A929B">{0.String} Dùng thử</Text>
+  <Text Key="C67A037F">Yêu cầu {0.String}</Text>
+  <Text Key="5D79118B">Gói bắt buộc:</Text>
+  <Text Key="D8FB03BF">Chơi với bản dùng thử?</Text>
+  <Text Key="12F041ED">Và khởi động lại để tắt nội dung dùng thử.</Text>
+  <Text Key="F1A06019">Không, cảm ơn</Text>
+  <Text Key="E1D9A809">Có, bắt đầu với bản lưu dùng thử mới</Text>
+  <Text Key="BD77FBC7">Trong thời gian dùng thử, chúng tôi có thể tạo bản sao của &lt;b&gt;{0.String}&lt;/b&gt; để chơi với nội dung dùng thử trong ô lưu mới.</Text>
+  <Text Key="AB498770">Lấy các gói thiếu?</Text>
+  <Text Key="1B3302F4">Xem {S0.Pack}{P0.Packs}</Text>
+  <Text Key="3DA9BAFB">&lt;font color="#A12E31"&gt;Chơi bản lưu với nội dung thiếu&lt;/font&gt;</Text>
+  <Text Key="D4486068">Bạn cần mua &lt;b&gt;{0.Number} {S0.pack}{P0.packs} bắt buộc&lt;/b&gt; cho bản lưu này.\n\nHoặc, bạn vẫn có thể chơi bản lưu. &lt;b&gt;Nội dung từ các gói bạn không sở hữu sẽ bị xóa, có thể khiến bản lưu bị hỏng và không chơi được.&lt;/b&gt;\n\nBạn muốn làm gì?</Text>
+  <Text Key="FF05FF16">Nội dung chưa tải</Text>
+  <Text Key="14CBEE99">&lt;font color="#A12E31"&gt;Chơi bản lưu với nội dung thiếu&lt;/font&gt;</Text>
+  <Text Key="34188956">Xác nhận các gói của bạn trong menu Lựa chọn Gói.</Text>
+  <Text Key="A55D5042">Thêm nội dung thiếu</Text>
+  <Text Key="6EEC7CEF">Bản lưu mới sẽ được đặt tên với tiền tố 'Copy_'</Text>
+  <Text Key="1EEA20F7">Chơi bản lưu sao chép mới</Text>
+  <Text Key="A48EFA8A">Bạn có &lt;b&gt;{0.Number} {S0.Pack}{P0.Packs} bắt buộc&lt;/b&gt; chưa được tải.</Text>
+  <Text Key="7C54CB05">Thiếu nội dung!</Text>
+  <Text Key="F7727E85">Xem {S0.Pack}{P0.Packs}</Text>
+  <Text Key="495C4D04">&lt;font color="#A12E31"&gt;Chơi bản lưu với nội dung thiếu&lt;/font&gt;</Text>
+  <Text Key="9BEB9779">&lt;b&gt;{0.Number} {S0.pack}{P0.packs} bắt buộc&lt;/b&gt; cần được tải/cài đặt cho bản lưu này.\nBạn sẽ cần cài đặt các gói này, sau đó khởi động lại The Sims™ 4.\n\nHoặc, bạn vẫn có thể chơi bản lưu. &lt;b&gt;Nội dung từ các gói chưa tải sẽ bị xóa, có thể khiến bản lưu bị hỏng và không chơi được.&lt;/b&gt;\n\nBạn muốn làm gì?</Text>
+  <Text Key="E463A665">Khởi động lại để tải trò chơi?</Text>
+  <Text Key="810C4F07">Khởi động lại ngay</Text>
+  <Text Key="6BD7FEE4">&lt;font color="#A12E31"&gt;Chơi bản lưu với nội dung thiếu&lt;/font&gt;</Text>
+  <Text Key="7F2F4ED9">&lt;b&gt;{0.Number} {S0.pack}{P0.packs} bắt buộc&lt;/b&gt; cần được tải/cài đặt cho bản lưu này.\nBạn sẽ cần khởi động lại The Sims™ 4.\n\nHoặc, bạn vẫn có thể chơi bản lưu. &lt;b&gt;Nội dung từ các gói chưa tải sẽ bị xóa, có thể khiến bản lưu bị hỏng và không chơi được.&lt;/b&gt;\n\nBạn muốn làm gì?</Text>
+  <Text Key="09CFD9D0">Nội dung Sims Delivery chưa được cài đặt</Text>
+  <Text Key="4854CEC8">Có nội dung Sims Delivery đang được sử dụng trong bản lưu này nhưng chưa được cài đặt và sẽ không thể sử dụng trong trò chơi.\n\nMột số vật thể sẽ bị xóa hoặc thay thế nếu bạn tiếp tục với bản lưu này mà không tải xuống và cài đặt nội dung này.\n\nBạn có muốn tiếp tục?</Text>
+  <Text Key="A2B0FA85">Có, chơi ngay.</Text>
+  <Text Key="BACCA714">Không sao.</Text>
+  <Text Key="967B6C23">Thêm bản lưu mới</Text>
+  <Text Key="CE1B8603">Nhập tên cho bản lưu mới của bạn:</Text>
+  <Text Key="F4BA56CE">Xếp hạng Phòng khám Thú y của bạn cho thấy mức độ được yêu thích của phòng khám bởi khách hàng. Xếp hạng càng cao, càng nhiều khách hàng sẽ ghé thăm!\n\nNhấn vào nút Xem Tài chính Cuối cùng/Tóm tắt Ca làm việc để biết thêm.</Text>
+  <Text Key="CEDBA8F0">Xếp hạng nhà hàng của bạn cho thấy mức độ khách hàng thích nhà hàng của bạn. Xếp hạng càng cao, càng nhiều khách hàng sẽ ghé thăm!\n\nNhấn vào nút 'Xem Tóm tắt Ca làm việc/Tài chính Cuối cùng' để biết thêm.</Text>
+  <Text Key="67BCDC78">Quay lại sau</Text>
+  <Text Key="9A813630">Cơ hội phát triển</Text>
+  <Text Key="20B097FE">Xuất sắc</Text>
+  <Text Key="F38DF894">{0.SimFirstName} không thể đặt món này vì đã có đơn hàng đang chờ. </Text>
+  <Text Key="A2E5915D">Thay thế {0.String}</Text>
+  <Text Key="DE262EA5">Xóa vật phẩm</Text>
+  <Text Key="973FFFC8">Đặt hàng</Text>
+  <Text Key="A955A824">Tùy chỉnh {0.String}</Text>
+  <Text Key="1E7AFE1A">Chọn vật phẩm cho {0.String}</Text>
+  <Text Key="71D8E979">Đang chờ {0.String}</Text>
+  <Text Key="FBC1B46B">Bạn có chắc chắn muốn ghi đè thực đơn tùy chỉnh hiện tại của mình với cài đặt này?</Text>
+  <Text Key="75E2B31C">Chọn Sim để đặt món này</Text>
+  <Text Key="97030167">{0.String}: {1.Money}</Text>
+  <Text Key="C021FC83">Không có đơn hàng mới nào để đặt. </Text>
+  <Text Key="3A9D9687">Không có thay đổi nào</Text>

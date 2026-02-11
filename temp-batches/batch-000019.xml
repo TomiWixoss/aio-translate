@@ -1,0 +1,50 @@
+  <Text Key="EE5F0608">Nâng cấp Kỹ năng</Text>
+  <Text Key="9B72B5A7">{0.String} Cấp {1.Number}</Text>
+  <Text Key="58F1BB0B">Đang đi Đào tạo</Text>
+  <Text Key="22A20577">Chọn một Sim bên dưới để tuyển dụng</Text>
+  <Text Key="2E8D43D3">Trang Trước - Mũi tên Trái</Text>
+  <Text Key="C3EDD74F">Trang Kế tiếp - Mũi tên Phải</Text>
+  <Text Key="6F4476FC">Trang Đầu tiên</Text>
+  <Text Key="8DEFEE7C">Tự động lưu trữ bất kỳ thặng dư tiện ích nào</Text>
+  <Text Key="FF79FA23">Lưu trữ</Text>
+  <Text Key="29066AAD">Ngay lập tức bán bất kỳ thặng dư đã lưu trữ nào</Text>
+  <Text Key="EC9BDD04">Bán Ngay</Text>
+  <Text Key="94271BF8">Hiện không có đủ để bán.</Text>
+  <Text Key="58509BA1">Quản lý:</Text>
+  <Text Key="81292206">Tự động bán thặng dư tiện ích</Text>
+  <Text Key="9FFF9571">Tự Động Bán</Text>
+  <Text Key="B5CB23EC">{0.Number} {1.String}</Text>
+  <Text Key="7810A2E9">Tỷ lệ Thay đổi: &lt;span class="positive"&gt;+{0.Number} mỗi ngày&lt;/span&gt;</Text>
+  <Text Key="DE42F60D">Tỷ lệ Thay đổi: &lt;span class="neutral"&gt;{0.Number} mỗi ngày&lt;/span&gt;</Text>
+  <Text Key="7B6E07FD">Tỷ lệ Thay đổi: &lt;span class="negative"&gt;{0.Number} mỗi ngày&lt;/span&gt;</Text>
+  <Text Key="FDE76E08">Hóa đơn &amp; Tiện ích</Text>
+  <Text Key="F86EC963">&lt;span class="neutral"&gt;{0.Money}&lt;/span&gt;</Text>
+  <Text Key="9E38EA75">Ước tính Hóa đơn Hiện tại</Text>
+  <Text Key="0F6DDDD8">&lt;span class="positive"&gt;+{0.Money}&lt;/span&gt;</Text>
+  <Text Key="F84BED20">&lt;span class="negative"&gt;{0.Money}&lt;/span&gt;</Text>
+  <Text Key="C8782CC1">{0.Number}) {1.String}</Text>
+  <Text Key="1E32DF14">Bạn đang theo dõi Nguyện vọng này rồi.</Text>
+  <Text Key="A7097243">Hoàn thành!</Text>
+  <Text Key="B5F3D699">Bạn không thể cuộn xa hơn nữa!</Text>
+  <Text Key="54B1E216">Theo dõi Nguyện vọng</Text>
+  <Text Key="40F844E7">Điều chỉnh Số lượng Sim Tối đa cho bản lưu game này.</Text>
+  <Text Key="3A7CA848">Số lượng Sim: &lt;span class="count"&gt;{0.Number}&lt;/span&gt;</Text>
+  <Text Key="F4451BCF">Số lượng Sim: &lt;span class="count"&gt;{0.Number}/{1.Number}&lt;/span&gt;</Text>
+  <Text Key="6C047DAC">Số lượng Sim trong Hộ gia đình của Tôi đã vượt quá. Hãy xóa các Sim trong Quản lý Hộ gia đình.</Text>
+  <Text Key="B43FB4FA">Không tìm thấy kết quả nào.</Text>
+  <Text Key="C0E2DF03">Có quá nhiều Sim của người chơi trong file game này. Vui lòng giảm số lượng Sim trong Hộ gia đình của Tôi hoặc điều chỉnh Số lượng Sim Tối đa trong Tùy chọn Game hoặc bên dưới.</Text>
+  <Text Key="DF53207A">Hộ gia đình hiện đang được sử dụng</Text>
+  <Text Key="6D87A1DF">Quản lý hộ gia đình của bạn bằng cách xóa bất kỳ bản sao nào.</Text>
+  <Text Key="F0FD06F2">Hộ gia đình Mới</Text>
+  <Text Key="79CA6332">Tạo một hộ gia đình mới</Text>
+  <Text Key="3824E4BC">Chuyển vào Hộ gia đình của Tôi</Text>
+  <Text Key="557CB1E2">Chuyển vào Hộ gia đình Khác</Text>
+  <Text Key="CC6076BD">Bạn kiểm soát quá nhiều Sim! Hãy di chuyển các Hộ gia đình từ Hộ gia đình của Tôi sang Hộ gia đình Khác cho đến khi Số lượng Sim dưới Số lượng Sim Tối đa.</Text>
+  <Text Key="BA653F41">Cấu hình Câu chuyện Khu phố cho tất cả các Hộ gia đình trong "Hộ gia đình Khác"</Text>
+  <Text Key="FCAC865B">Cấu hình Câu chuyện Khu phố cho tất cả các Hộ gia đình trong "Hộ gia đình của Tôi"</Text>
+  <Text Key="75699E70">Xem/Cấu hình Câu chuyện Khu phố Cá nhân của Từng Hộ gia đình</Text>
+  <Text Key="A376BB46">Cấu hình Câu chuyện Khu phố tùy chỉnh cho Hộ gia đình này.</Text>
+  <Text Key="3DA1BAAF">Câu chuyện Khu phố bị tắt. Hãy bật lại trong Tùy chọn Game dưới Menu Chính.</Text>
+  <Text Key="3EFF1484">Hộ gia đình có cấu hình Câu chuyện Khu phố tùy chỉnh</Text>
+  <Text Key="05457F11">Z - A</Text>
+  <Text Key="36E7A458">Chỉnh sửa Lần cuối</Text>

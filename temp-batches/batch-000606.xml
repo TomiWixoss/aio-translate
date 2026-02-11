@@ -1,0 +1,50 @@
+  <Text Key="3A8EC541">&lt;font color="#1A81E1"&gt;&lt;b&gt;Chi tiết bản dùng thử&lt;/b&gt;&lt;/font&gt;</Text>
+  <Text Key="443751A8">Bắt đầu chơi bản dùng thử</Text>
+  <Text Key="3D62F39B">&lt;ul type="circle"&gt;&lt;li&gt;Bản dùng thử hiện chỉ có sẵn thông qua &lt;b&gt;Origin&lt;/b&gt;.&lt;/li&gt;&lt;li&gt;Bản dùng thử hoàn toàn miễn phí. Không có điều khoản hay phí phát sinh bất ngờ.&lt;/li&gt;&lt;li&gt;Thưởng thức toàn bộ gói trong thời gian dùng thử.&lt;/li&gt;&lt;li&gt;Dùng thử nội dung với một bản lưu game hiện có.&lt;/li&gt;&lt;li&gt;Tất cả bản dùng thử sẽ hết hạn vào {0.DayOfWeekLong}, {1.DateShort} lúc {1.TimeShort}.&lt;/li&gt;&lt;li&gt;Sau khi hết hạn, các bản lưu dùng thử vẫn sẽ có sẵn nhưng chơi tốt nhất với gói bắt buộc.&lt;/li&gt;&lt;/ul&gt;</Text>
+  <Text Key="BD9DB3A6">Đăng ký {0.String}</Text>
+  <Text Key="3B79EA7B">{0.String}</Text>
+  <Text Key="1137E7A1">Việc tải xuống bản dùng thử {0.String} của bạn đã dừng lại vì một lý do nào đó. Vui lòng kiểm tra Hàng đợi Tải xuống Origin của bạn, để xem các tải xuống đang diễn ra.</Text>
+  <Text Key="AD185103">Việc tải xuống bản dùng thử đã dừng</Text>
+  <Text Key="43494B44">Đang tải xuống bản dùng thử</Text>
+  <Text Key="CE8DBC2B">Bản dùng thử {0.String} của bạn đang được tải xuống ngay bây giờ. Để xem các tải xuống đang diễn ra, hãy kiểm tra Hàng đợi Tải xuống Origin của bạn.\n\nBạn sẽ nhận được thông báo khi việc tải xuống hoàn tất.</Text>
+  <Text Key="35F74FE3">Tải xuống bản dùng thử hoàn tất!</Text>
+  <Text Key="857BB17A">Bản dùng thử đã được cài đặt, nhưng sẽ không khả dụng để sử dụng cho đến khi trò chơi được khởi động lại.\n\nBạn có muốn khởi động lại ngay bây giờ không?\n\nMọi dữ liệu chưa lưu sẽ bị mất.</Text>
+  <Text Key="F8BEE621">&lt;font color="#1A81E1"&gt;&lt;b&gt;Chi tiết bản dùng thử&lt;/b&gt;&lt;/font&gt;</Text>
+  <Text Key="153FC732">Đang tải xuống bản dùng thử của bạn!</Text>
+  <Text Key="62C8E4B1">Trải nghiệm mọi thứ từ {0.String} một khi bạn đã cài đặt gói! Bản dùng thử đang được tải xuống, chúng tôi sẽ thông báo cho bạn khi nó sẵn sàng.</Text>
+  <Text Key="4E2DBC84">Thoát &amp; Cài đặt</Text>
+  <Text Key="FBBF8E64">&lt;font color="#EC262E"&gt;&lt;b&gt;Yêu cầu The Sims 4 &amp; tất cả các bản cập nhật trò chơi. Xem yêu cầu hệ thống tối thiểu cho gói.&lt;/b&gt;&lt;/font&gt;</Text>
+  <Text Key="9D1C5F85">Chào mừng đến với {0.String}!</Text>
+  <Text Key="CA4F3C7F">Gửi phản hồi cho chúng tôi</Text>
+  <Text Key="5CD287F9">Cảm ơn bạn đã dùng thử miễn phí! Chúng tôi rất vui vì bạn đã thích gói đủ để mua và tiếp tục chơi! Bây giờ bạn cũng có thể thêm nội dung {0.String} vào tất cả các trò chơi đã lưu của mình.\n    \nBạn có muốn cho chúng tôi biết về trải nghiệm dùng thử miễn phí của mình không? Có danh sách ước muốn để làm cho nó tốt hơn nữa? Hãy cho chúng tôi biết trong khảo sát của chúng tôi!</Text>
+  <Text Key="2422462C">Thử các vật phẩm mới!</Text>
+  <Text Key="7F71F21C">Thử tất cả các vật phẩm có sẵn từ &lt;b&gt;bản dùng thử {0.String}&lt;/b&gt;! Tất cả các vật phẩm mới được cài đặt đều nằm trong các Danh mục Vàng và chúng tôi cũng đã áp dụng một bộ lọc để cho bạn thấy trực tiếp tất cả các vật phẩm.\n\nNếu bạn không muốn chỉ thấy các vật phẩm Dùng thử, hãy bỏ bộ lọc để xem mọi thứ một lần nữa!</Text>
+  <Text Key="7CA0C175">Bản dùng thử của bạn không khả dụng</Text>
+  <Text Key="16CC8AE9">Sul Sul!\n\nCảm ơn bạn đã chơi bản dùng thử miễn phí {0.String}! Bản dùng thử hiện chỉ có sẵn thông qua Origin. Chúng tôi hy vọng sẽ sớm hỗ trợ EA Desktop!\n\nMuốn tiếp tục chơi với các bản lưu dùng thử của bạn? Quay lại Origin hoặc quay lại khi bạn tải xuống phiên bản đầy đủ của {0.String}.</Text>
+  <Text Key="CD22D739">Chuyển vào {0.String}</Text>
+  <Text Key="53EEB520">Bản dùng thử của bạn đã hết hạn</Text>
+  <Text Key="1D2B8083">Lưu và Kết thúc bản dùng thử</Text>
+  <Text Key="915E5083">Kết thúc bản dùng thử</Text>
+  <Text Key="7768A258">Cảm ơn bạn đã dùng thử miễn phí {0.String}! Chúng tôi hy vọng bạn đã thích trải nghiệm mọi thứ gói có thể cung cấp!\n\nMuốn tiếp tục chơi? Chỉ cần mua gói và quay lại!</Text>
+  <Text Key="09D82315">Những việc cần làm trong bản dùng thử</Text>
+  <Text Key="3BD40729">Bản dùng thử miễn phí {0.String}</Text>
+  <Text Key="B3E0A0BC">Tiếp tục chơi</Text>
+  <Text Key="FEED4583">Không, cảm ơn</Text>
+  <Text Key="B7A2CBCD">Có</Text>
+  <Text Key="D692DBFA">Chọn một tùy chọn để tiếp tục</Text>
+  <Text Key="D977B872">Đồng ý</Text>
+  <Text Key="D877B6E9">Không</Text>
+  <Text Key="FAB7B0FA">Vui lòng nhập một số tiền bằng hoặc thấp hơn số dư đầy đủ</Text>
+  <Text Key="490AFE45">Vui lòng nhập một số tiền bằng hoặc cao hơn số tiền tối thiểu</Text>
+  <Text Key="FE7BFA3D">Vui lòng nhập một tên có ít nhất 1 ký tự</Text>
+  <Text Key="DAA2788A">Cảnh báo</Text>
+  <Text Key="887BACCC">Cảnh báo</Text>
+  <Text Key="279EB1BF">Không hiển thị hộp thoại này lần nữa</Text>
+  <Text Key="9B0BF8FF">Tiếp tục</Text>
+  <Text Key="D078441A">Hủy</Text>
+  <Text Key="A7B7B56E">Đặt lại Tỷ lệ Thu phóng UI về Mặc định?</Text>
+  <Text Key="047836C7">Đặt lại về Mặc định (Khuyến nghị)</Text>
+  <Text Key="047836C4">Giữ nguyên Cài đặt Hiện tại</Text>
+  <Text Key="724E71F7">Tỷ lệ Thu phóng UI có thể được điều chỉnh trong Tùy chọn Trò chơi dưới mục Truy cập.</Text>
+  <Text Key="5E5F7AE2">Tỷ lệ Thu phóng UI hiện tại không được khuyến nghị cho độ phân giải này. Giao diện người dùng có thể chồng chéo, tràn ra ngoài màn hình, hoặc trở nên khó đọc.</Text>
+  <Text Key="25D39294">Tắt Tự động Thu phóng với cài đặt Hệ điều hành?</Text>

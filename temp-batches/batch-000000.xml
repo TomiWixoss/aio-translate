@@ -1,0 +1,50 @@
+  <Text Key="09BE34A6">&lt;span class="pink"&gt;Bắt đầu lại với những Sim mới, một ngôi nhà mới và một câu chuyện mới.&lt;/span&gt;</Text>
+  <Text Key="DE0FE3F6">&lt;span class="blue"&gt;TIẾP TỤC CHƠI&lt;/span&gt;</Text>
+  <Text Key="97687C57">&lt;span class="blue"&gt;Hướng dẫn đã kết thúc nhưng bạn có thể tiếp tục chơi hộ gia đình này.&lt;/span&gt;</Text>
+  <Text Key="D433D7DB">&lt;span class="green"&gt;THÊM SIM MỚI VÀO HỘ GIA ĐÌNH NÀY&lt;/span&gt;</Text>
+  <Text Key="4BCB0D58">&lt;span class="green"&gt;Việc thêm Sim thứ hai vào hộ gia đình này sẽ làm cho The Sims 4 trở nên phong phú hơn.&lt;/span&gt;</Text>
+  <Text Key="BA2EDB6C">CHỌN NGUYỆN VỌNG MỚI</Text>
+  <Text Key="1726ADF2">Có rất nhiều câu chuyện bạn có thể kể trong The Sims 4. Dưới đây là một vài lựa chọn!</Text>
+  <Text Key="84C43BF7">&lt;span class="green"&gt;ÁC Ý&lt;/span&gt;</Text>
+  <Text Key="2BE9E8C7">&lt;span class="green"&gt;KẺ THÙ CÔNG CHÚNG&lt;/span&gt;</Text>
+  <Text Key="C9AC102C">&lt;span class="green"&gt;Con đường hoàn hảo cho những Sim tìm kiếm mặt tối của cuộc sống.&lt;/span&gt;</Text>
+  <Text Key="9C81534E">&lt;span class="pink"&gt;KIẾN TRÚC SƯ&lt;/span&gt;</Text>
+  <Text Key="1F740528">&lt;span class="pink"&gt;CHỦ NHÂN LÀNG BIỆT THỰ&lt;/span&gt;</Text>
+  <Text Key="E30EA75F">&lt;span class="pink"&gt;Tiết kiệm từng xu để đầu tư vào những ngôi nhà tuyệt vời mà BẠN thiết kế cho Sim của mình.&lt;/span&gt;</Text>
+  <Text Key="8FCBD26D">&lt;span class="blue"&gt;LÃNG MẠN&lt;/span&gt;</Text>
+  <Text Key="5B9343B1">&lt;span class="blue"&gt;NHÂN BẢN CÙNG TÂM HỒN&lt;/span&gt;</Text>
+  <Text Key="AD35964E">&lt;span class="blue"&gt;Ghép đôi hai Sim để chứng kiến tình yêu đích thực.&lt;/span&gt;</Text>
+  <Text Key="4738F59C">&lt;span class="yellow"&gt;TẬP TRUNG VÀO SỰ NGHIỆP&lt;/span&gt;</Text>
+  <Text Key="84A26BC2">&lt;span class="yellow"&gt;CỰC KỲ GIÀU CÓ&lt;/span&gt;</Text>
+  <Text Key="862CC361">&lt;span class="yellow"&gt;Đưa Sim của bạn thẳng lên đỉnh cao của sự nghiệp để có của cải và thành công.&lt;/span&gt;</Text>
+  <Text Key="BAFDB049">Bài học</Text>
+  <Text Key="CECE297E">CỤ THỂ \n HÌNH ẢNH BÀI HỌC</Text>
+  <Text Key="D7E3833E">{0.Number}/{1.Number}</Text>
+  <Text Key="07C688D6">Lỗi Tải</Text>
+  <Text Key="6004327F">Chuyển Tiền</Text>
+  <Text Key="7AF4064A">Không Thể Có Được Số Tiền Đó</Text>
+  <Text Key="5CAB5EA3">Không Đủ Tiền Để Chuyển</Text>
+  <Text Key="B7B26A6F">Chuyển Tiền</Text>
+  <Text Key="3ED5C907">Số Tiền Để Chuyển:</Text>
+  <Text Key="31146585">Bạn Đang Trực Tuyến!</Text>
+  <Text Key="418A59C1">Bạn Đang Ngoại Tuyến</Text>
+  <Text Key="E7B048FC">Tốc Độ Nhanh - 2</Text>
+  <Text Key="864EA962">Tốc Độ Cực Nhanh - 3</Text>
+  <Text Key="E09A775A">Tốc Độ Bình Thường - 1</Text>
+  <Text Key="4F86CCE1">Tạm Dừng - 0</Text>
+  <Text Key="070F7D64">Tùy Chọn Máy Quay</Text>
+  <Text Key="57056C16">{0.Number}/{1.Number}</Text>
+  <Text Key="8FE40C44">0-9</Text>
+  <Text Key="F7CE8E27">Không Thể Mở Lớp Phủ Trong Trò Chơi</Text>
+  <Text Key="21DD8894">Gỡ Lỗi</Text>
+  <Text Key="7CB865BF">Trò Chơi Cơ Bản</Text>
+  <Text Key="2105ABBA">Không Có Mối Quan Hệ Lãng Mạn</Text>
+  <Text Key="AE76D244">Nâng Cấp</Text>
+  <Text Key="4D35F9BF">Giá</Text>
+  <Text Key="7D77DD42">Không, Cảm Ơn</Text>
+  <Text Key="13C5A61A">{0.String} là một phần của {1.String}!</Text>
+  <Text Key="6516FA49">Bạn có muốn nâng cấp mua hàng của mình lên {0.String} không?</Text>
+  <Text Key="B2091266">Đang Chuẩn Bị Gói Tải Xuống</Text>
+  <Text Key="A30DD319">Bạn sẽ nhận được thông báo khi tải xuống hoàn tất.</Text>
+  <Text Key="5EE5D536">Phòng {0.String} đã được lưu vào Thư Viện Của Tôi.</Text>
+  <Text Key="66564284">Hình Xăm {0.String} đã được lưu vào Thư Viện Của Tôi.</Text>

@@ -1,0 +1,50 @@
+  <Text Key="51BDF7E4">(Từ việc đeo Citrine được Sạc Điện)</Text>
+  <Text Key="051D9A9F">(Từ việc đeo Nitelite được Sạc Điện)</Text>
+  <Text Key="38B4E6F1">Chúc mừng...</Text>
+  <Text Key="0C13E237">{1.SimLastName}</Text>
+  <Text Key="2D7AAA75">Di chuyển tất cả vật phẩm trong Hành trang của Sim này vào Hành trang Gia đình của Gia đình mà Sim này từng thuộc về trước khi qua đời.</Text>
+  <Text Key="E2B47D11">Di chuyển Hành trang của Sim vào Hành trang Gia đình cũ.</Text>
+  <Text Key="B1F30D84">Hành động này sẽ xóa toàn bộ vật phẩm trong Hành trang của Sim.</Text>
+  <Text Key="8CB24F46">Xóa Hành trang của Sim.</Text>
+  <Text Key="77CC724C">{0.SimFirstName} sẽ không còn hiện diện dưới dạng Ma mãi mãi! Bất kỳ vật phẩm nào trong {0.SimPronounPossessiveDependent} Hành trang sẽ bị mất sau khi Ma chuyển sang thế giới khác. Mối liên kết của một Ma với thế giới người là mong manh và sẽ suy tàn theo thời gian.</Text>
+  <Text Key="70FA52AE">Để Hành trang của Sim đi theo Ma của họ.</Text>
+  <Text Key="66B34D98">{0.SimName} đã qua đời.</Text>
+  <Text Key="7EE184BE">Một Sim trong một Gia đình đã chơi trước đó đã qua đời. Bạn muốn làm gì?</Text>
+  <Text Key="619F0FD2">(Từ việc mất Vợ/Chồng)</Text>
+  <Text Key="C4D4D7C4">(Từ việc mất Ông/Bà)</Text>
+  <Text Key="971F6A1E">(Từ việc mất Anh/Chị/Em)</Text>
+  <Text Key="D9C4AFBB">(Từ việc mất Người quen)</Text>
+  <Text Key="3E5E0E1A">(Từ việc mất Kẻ thù)</Text>
+  <Text Key="C3484860">(Từ việc mất Con)</Text>
+  <Text Key="CB438346">(Từ việc mất Bạn bè)</Text>
+  <Text Key="2394E1F3">(Từ việc mất Bạn thân)</Text>
+  <Text Key="2A627A60">(Từ việc mất Bạn tri kỷ)</Text>
+  <Text Key="AD724EEA">(Từ việc mất Ai đó)</Text>
+  <Text Key="01AB79E7">(Từ việc mất Người yêu thương)</Text>
+  <Text Key="48048E8B">(Từ việc mất Người thân thiết)</Text>
+  <Text Key="46581CEA">(Từ việc mất Cha/Mẹ)</Text>
+  <Text Key="13AAE78B">Chỉ số vượt ra ngoài giới hạn.</Text>
+  <Text Key="1EDA4464">{0.SimFirstName} đang thiếu một số vật phẩm bắt buộc:</Text>
+  <Text Key="35AF9F89">{0.SimFirstName} sẽ phải sử dụng:</Text>
+  <Text Key="F731CCCD">{0.String} &lt;font color='#3AAF69'&gt;(+{1.Money})&lt;/font&gt;</Text>
+  <Text Key="34CAF3B4">Yêu thích</Text>
+  <Text Key="55B381E3">Núi Komorebi</Text>
+  <Text Key="5A36A0E5">Sự kiện Ở Qua Đêm</Text>
+  <Text Key="A3ECA32A">Henford-on-Bagley</Text>
+  <Text Key="1208DF39">San Myshuno</Text>
+  <Text Key="8AFA78C5">Lễ hội Trường Cấp 3</Text>
+  <Text Key="B6179746">Sự kiện Lễ cưới</Text>
+  <Text Key="23EEFAF4">Chuyến đi nghỉ ngơi</Text>
+  <Text Key="43E6F705">Ngựa mới</Text>
+  <Text Key="29C1BF87">Chúc mừng! Bạn đã có một con Ngựa! Sở hữu một con Ngựa là một lối sống đòi hỏi sự chăm chỉ, huấn luyện và rất nhiều sự chăm sóc.\n\nĐể chăm sóc Ngựa một cách thích hợp, bạn sẽ cần một số vật phẩm. Hãy mua sắm từ Chế độ Xây dựng thông qua &lt;b&gt;Đồ dùng theo Phòng&lt;/b&gt;: vào phần &lt;b&gt;Ngoài trời&lt;/b&gt; rồi đến &lt;b&gt;Động vật&lt;/b&gt;.\n\nMột số vật phẩm hữu ích có thể bao gồm:\n\n⚒ &lt;b&gt;Máy Cho Ăn Động vật Hay Now!&lt;/b&gt;\n⚒ &lt;b&gt;Bể Nước Cho Ngựa Hay Now!&lt;/b&gt;\n⚒ &lt;b&gt;Giường Cho Ngựa Hay Now!&lt;/b&gt;\n⚒ &lt;b&gt;Bóng Lớn Nhất Hay Now!&lt;/b&gt;\n⚒ &lt;b&gt;Vòng Nhảy Ngựa hoặc Thùng Gỗ&lt;/b&gt; </Text>
+  <Text Key="44BD53F5">Con Ngựa này đang trong trạng thái &lt;font color='#1E81E6'&gt;Tâm trạng Trung lập&lt;/font&gt;, điều này không ảnh hưởng đến cơ hội thắng cuộc.</Text>
+  <Text Key="F7FD91B3">Con Ngựa này đang trong trạng thái &lt;font color='#008000'&gt;Tâm trạng Tích cực&lt;/font&gt;, điều này làm tăng nhẹ cơ hội thắng cuộc.</Text>
+  <Text Key="8C4C3B84">Con Ngựa này đang ngủ, điều này không ảnh hưởng đến cơ hội thắng cuộc.</Text>
+  <Text Key="F2DB2781">Con Ngựa này đang trong trạng thái &lt;font color='#ff0000'&gt;Tâm trạng Tiêu cực&lt;/font&gt;, điều này làm giảm nhẹ cơ hội thắng cuộc.</Text>
+  <Text Key="1EDF6238">Đối thủ</Text>
+  <Text Key="97C85DB6">{1.String} Thành công!!</Text>
+  <Text Key="40B4EAC8">{1.String} thật tuyệt vời! {0.SimFirstName} đã có một khoảng thời gian tuyệt vời và được làm mọi thứ {M0.he}{F0.she} đã lên kế hoạch.</Text>
+  <Text Key="C6460A54">{1.String} Thật Tồi tệ!</Text>
+  <Text Key="ED9A695A">{1.String} thực sự không đáp ứng được kỳ vọng của {0.SimFirstName}. {M0.He}{F0.She} đã không thể tham gia đủ các truyền thống mà {M0.he}{F0.she} thích. Có lẽ năm sau.</Text>
+  <Text Key="97EC8B90">{1.String} Kết thúc rồi!</Text>
+  <Text Key="24A81A76">{1.String} khá tốt! {0.SimFirstName} đã làm được nhiều việc {M0.he}{F0.she} muốn làm... nhưng... không phải tất cả. Năm sau {M0.he}{F0.she} hy vọng sẽ làm được còn nhiều hơn nữa!</Text>
