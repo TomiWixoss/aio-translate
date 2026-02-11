@@ -1,0 +1,27 @@
+
+ツムギについて=About Tsumugi
+レイについて=About Rei
+お化けたち\nについて=About\nGhosts
+ゴーストファー\nザーについて=About\nGhostfather
+ハロウィン\nについて=About\nHalloween
+お化け屋敷\nについて=About\nHaunted house
+衣装について=About\ncostumes
+いたずらするなら=If choose prank
+パレードについて=About\nparade
+さよならお化け=Goodbye\nGhosts
+マツリについて=About\nMatsuri
+
+お化け屋敷リニューアル！=Haunted House Renovation!
+舞台裏に潜む影=The Shadows Lurking Behind the Scenes
+小さな胸に灯った勇気=The Courage Lit in a Small Heart
+楽しい絶叫の響く街=A City Echoing with Joyful Screams
+一人前になるために=To Become a Grown-Up
+ハロウィンのお化けたち=Ghosts of Halloween
+プロデュースは前途多難=Producing Ahead: A Challenging Journey
+ようこそハロウィンパーク=Welcome to Halloween Park
+
+熱血指導を乗り越えて=Overcoming hot-blooded guidance
+
+r:"^ハロウィンパーク([0-9\-\(\)\w （）]*)$"=Halloween Park $1
+ゴーストブラザーズ=Ghost Brothers
+叫怖のゴーストファーザー=Ghostfather of Screaming
