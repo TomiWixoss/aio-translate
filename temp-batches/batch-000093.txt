@@ -1,0 +1,100 @@
+Với những phần bụng có gân và phần trên mập mạp, nấm ăn phải sự phân hủy.
+gardenPlantBushGENCalfPlant_01
+gardenPlantBushGENBonsai_01
+Bồn Cây Vũ Trụ
+Một loài cây xanh, có xúc tu, rung lên khi chạm vào.
+Cây Rác
+Tiết ra một dòng liên tục của những mùi hôi thối. Ruồi rất thích nó!
+Bụi Cà Chua
+Cao và thon thả, cây cà chua giống như cây quên không mọc vỏ.
+Bụi Dâu Tây
+Cây dâu tây mọc những bông hoa nhỏ, trắng trước khi berries đến thu hoạch.
+Cây Cải Bó Xôi
+Bụi cải bó xôi chứa đầy những chiếc lá giàu dinh dưỡng.
+Bụi Hương Nhu
+Những bông hoa hương nhu cao, màu oải hương nhẹ nhàng vươn mình trong gió.
+Bụi Hoa Hồng
+Một bó gai sắc nhọn và những bông hoa lớp lớp, đầy rủ.
+Cây Hạt Rau Mùi Tây
+Một loại thảo mộc bụi, xanh tốt, đẹp mắt trong vườn như trên đĩa ăn.
+Cây Nấm
+Với những phần bụng có gân và phần trên mập mạp, nấm ăn phải sự phân hủy.
+Dây Nho
+Một bụi dây leo cho nho.
+Cây Thanh Long
+Một loài xương rồng mang quả thanh long, hay "Dragon Fruit." Quả có vị ngọt nhẹ, thịt có những hạt đen nhỏ, được bao bọc trong một lớp da cứng, dẻo.
+Bụi Cúc
+Một bụi phổ biến cho ra hoa cúc.
+Bụi Bò
+Đừng nhầm lẫn với Cowplant -đưa mắt nhìn quanh- nó có ở đó không?
+Bụi Cây Thế Bonsai
+Một bụi non với những cành dày và kim, có thể trở thành cây thế Bonsai một ngày--với sự cắt tỉa đúng cách và một chân đế trang trí.
+Cây Hoàng Lan Cầu Vồng
+Một bụi tinh tế cho hoa hoàng lan cầu vồng.
+Bụi Mâm Xôi
+Một bụi dày cho mâm xôi.
+Bụi Húng Quế
+Một loại cây thảo mộc thơm cho lá húng quế.
+Bụi
+Một bụi lá, nở hoa.
+Thùng Đất Trồng Cây
+Một thùng đất tơi xốp nâng cao, cải thiện sự phát triển ngoài trời cho tới bốn cây nhỏ, hoặc một cây.
+gardenFruitVertical_bm
+gardenFruitVertical_bm
+{S.Trái Rác}{P.Trái Rác}
+Có mùi hôi khó chịu và không lý giải được hoàn toàn bằng rác.
+{S.Cà chua}{P.Cà chua}
+Quả mọng, da đỏ thường bị nhầm với rau.
+{S.Dâu tây}{P.Dâu tây}
+Quả nhỏ, ngọt với da đỏ phủ hạt.
+{S.Khoai tây}{P.Khoai tây}
+Củ khoai mì có tinh bột, ngon. Khoai tây khiêm nhường thường bị nhầm là rễ.
+{S.Lựu}{P.Lựu}
+Hiếm. Quả da đỏ với những hạt ăn được chua.
+{S.Chuối Đậu}{P.Chuối Đậu}
+Một loại quả có tinh bột, giống chuối. Nên nấu trước khi ăn!
+{S.Lê}{P.Lê}
+Một quả giòn và thịt có hình quả chuông đặc trưng.
+{S.Hành}{P.Hành}
+Một loại rau củ có mùi thơm và vị chua.
+{S.Nấm}{P.Nấm}
+Một loại nấm ăn được, có mùi đất.
+Một loại trái chua, có vỏ mầu cam.
+{S.Nho}{P.Nho}
+Sims thích nhai chúng như những viên sô cô la giòn, ngọt.
+{S.Thanh Long}{P.Thanh Long}
+Một loại quả ngoại lai, màu sắc rực rỡ.
+{S.Quả Bò}{P.Quả Bò}
+Một loại quả kỳ lạ có hình con bò, có thể trồng được.
+{S.Anh Đào}{P.Anh Đào}
+Một cặp quả nhỏ, màu đỏ có hạt.
+{S.Cà Rốt}{P.Cà Rốt}
+Một củ khoai mì màu cam ngọt.
+{S.Bonsai Bud}{P.Bonsai Buds}
+Một cụm nhỏ quả xanh thơm có thể mọc thành bụi cây thế Bonsai.
+{S.Mâm xôi}{P.Mâm xôi}
+Một loại quả kết, nổi tiếng với vị chua và hậu vị mượt mà. Tuyệt vời cho bánh!
+Đặc trưng bởi cái vỡ tan "rắc rịch", những miếng cắn táo có thể khiến Sims cảm thấy no và sảng khoái.
+{S.UFO (Vật Thể Không Xác Định)}{P.UFO (Vật Thể Không Xác Định)}
+Trái cây không gian lạ lẫm.
+{S.Chanh}{P.Chanh}
+{S.Táo}{P.Táo}
+Quả Cấm của PlantSim
+Ăn, và trở nên như PlantSim. Trồng, và mọc một cây của riêng bạn. Cấm, bởi nó chẳng là gì ngoài một ảo ảnh.
+Quả Lớn
+Đặc trưng bởi một ánh sáng rực rỡ, quả lớn là một món ngon, một phân bón tuyệt vời và một thành phần tuyệt hảo.
+{S.Hoa Tulip}{P.Hoa Tulip}
+Một bông hoa phình ra mọc ngay cả sau khi hái, với những cánh nhọn tinh xung quanh một cụm nhị.
+{S.Cải bó xôi}{P.Cải bó xôi}
+Một loại lá rau xanh đậm giàu vitamin.
+Một tập hợp những bông hoa nhỏ, sinh động.
+{S.Hương nhu}{P.Hương nhu}
+Một loại lá thảo mộc có mùi đất, tím.
+{S.Hoa hồng}{P.Hoa hồng}
+Một bông hoa màu sắc đẹp và mùi thơm dễ chịu.
+{S.Hạt rau mùi tây}{P.Hạt rau mùi tây}
+Một loại lá thảo mộc tinh tế, có vị bạc hà.
+{S.Hoa phong lan}{P.Hoa phong lan}
+Knafeh
+Bánh
+Bánh Gạo Dẻo

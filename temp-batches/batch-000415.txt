@@ -1,0 +1,485 @@
+Chúng ta có một đoạn văn bản từ trò chơi The Sims 4, cần dịch sang tiếng Việt. Người dùng đã cung cấp các hướng dẫn cụ thể: không dịch các từ "The Sims 4", "Sims", "Sim", "Social Bunny", "EA app", "Gallery". Giữ nguyên thẻ HTML, biến {0.String}, ký tự đặc biệt. Trả về đúng số dòng.
+
+Đầu tiên, cần xác định các phần cần dịch và các phần giữ nguyên. Có nhiều dòng chứa các biến như {0.SimFirstName}, {0.SimPronounObjective}, v.v. Các biến này không được dịch, chỉ dịch phần text xung quanh.
+
+Các từ "The Sims 4", "Sims", "Sim", "Social Bunny", "EA app", "Gallery" không dịch. Trong văn bản, tôi thấy có "Sim" và "Sims" xuất hiện nhiều lần. Cần giữ nguyên chúng.
+
+Có các thẻ HTML như <b>, <font color='...'>, <i>. Cần giữ nguyên cấu trúc và thuộc tính.
+
+Kiểm tra từng dòng:
+
+1. "Clumsy Lesson" - đây là tiêu đề, có thể dịch là "Bài học vụng về" hoặc tương tự. Nhưng cần lưu ý: "Lesson" trong ngữ cảnh này có thể là "đặc điểm tính cách" hoặc "bài học", nhưng trong trò chơi thường dịch là "Đặc điểm". Tuy nhiên, người dùng nói "dịch", nên dịch theo nghĩa. Nhưng "Clumsy Lesson" có thể là tên của một đặc điểm. Trong bản dịch tiếng Việt của The Sims 4, các đặc điểm thường được dịch. Tuy nhiên, người dùng không yêu cầu giữ nguyên tên đặc điểm, chỉ yêu cầu giữ nguyên các từ đã liệt kê. Vậy có thể dịch "Clumsy Lesson" thành "Đặc điểm Vụng về" hoặc đơn giản là "Vụng về". Nhưng trong ngữ cảnh, mỗi dòng bắt đầu bằng tên đặc điểm, sau đó là mô tả. Có thể dịch tên đặc điểm.
+
+Xem xét ví dụ: "Clumsy Lesson" -> "Vụng về"? "Childish Lesson" -> "Trẻ con"? Nhưng "Lesson" ở đây có nghĩa là "bài học" nhưng trong trò chơi, nó là một phần của hệ thống đặc điểm tính cách. Tuy nhiên, người dùng nói "dịch", nên tôi sẽ dịch toàn bộ, trừ các từ cấm.
+
+Tuy nhiên, cần lưu ý rằng {0.SimFirstName} là biến, không dịch. Các dòng có {0.SimFirstName} is ... nên dịch phần "is ..." thành tiếng Việt.
+
+Ví dụ: "{0.SimFirstName} is Clumsy." -> "{0.SimFirstName} là một Sim Vụng về." Nhưng "Clumsy" là tính từ, có thể dịch là "vụng về". Tuy nhiên, trong ngữ cảnh đặc điểm, nó là một danh từ. Trong bản dịch chính thức, đặc điểm Clumsy được dịch là "Vụng về". Vậy tôi sẽ dịch như vậy.
+
+Nhưng cần nhất quán: mỗi đặc điểm có tên, sau đó mô tả. Trong văn bản, mỗi dòng bắt đầu bằng tên đặc điểm, sau đó là mô tả. Có thể coi mỗi dòng là một đoạn riêng.
+
+Đối với các dòng như "(From Being a Toddler)" - đây là ghi chú nguồn, có thể dịch là "(Từ khi là Trẻ con)" hoặc giữ nguyên? Người dùng nói "dịch", nên dịch. Nhưng "(From ...)" là phần trong ngoặc đơn, có thể dịch là "Từ ...".
+
+Tuy nhiên, cần tránh dịch các từ cấm. Các từ "The Sims 4", "Sims", "Sim" không dịch. Trong các dòng này, có "Sim" trong "{0.SimFirstName}" nhưng đó là biến, không phải từ "Sim" đơn thuần. Vậy chỉ các từ "Sim" và "Sims" đứng riêng mới giữ nguyên? Người dùng nói "KHÔNG dịch: 'The Sims 4', 'Sims', 'Sim', ...". Vậy bất kỳ từ "Sim" hay "Sims" nào cũng không dịch? Nhưng trong biến {0.SimFirstName}, "Sim" là một phần của tên biến, không phải từ riêng. Vậy chỉ dịch các từ "Sim" và "Sims" khi chúng xuất hiện như một từ độc lập.
+
+Ví dụ: "Clumsy Sims tend to fail..." -> ở đây "Sims" là từ độc lập, nên giữ nguyên? Nhưng người dùng nói không dịch "Sims", vậy giữ nguyên "Sims"? Tuy nhiên, trong ngữ cảnh tiếng Việt, thường dịch "Sims" là "Sim". Nhưng theo yêu cầu, không dịch, nên giữ nguyên "Sims". Điều này có thể gây khó hiểu vì "Sims" trong tiếng Việt thường được giữ nguyên hoặc dịch là "nhân vật". Tuy nhiên, tuân theo yêu cầu: KHÔNG dịch "Sims". Vậy trong bản dịch, các từ "Sims" và "Sim" sẽ được giữ nguyên.
+
+Nhưng trong câu "Clumsy Sims tend to fail...", nếu giữ nguyên "Sims" thì thành "Clumsy Sims có xu hướng..." - như vậy vẫn hiểu được. Tuy nhiên, để nhất quán, tôi sẽ giữ nguyên từ "Sims" và "Sim" khi chúng xuất hiện như một từ.
+
+Trong các biến như {0.SimFirstName}, đó là tên biến, không phải từ "Sim" độc lập, nên không ảnh hưởng.
+
+Vậy kế hoạch: dịch toàn bộ văn bản sang tiếng Việt, nhưng:
+
+1. Giữ nguyên các từ "The Sims 4", "Sims", "Sim", "Social Bunny", "EA app", "Gallery" khi chúng xuất hiện như từ riêng.
+
+2. Giữ nguyên tất cả các thẻ HTML, biến {0.String} và các ký tự đặc biệt.
+
+3. Dịch phần còn lại.
+
+4. Đảm bảo số dòng không đổi. Tức là mỗi dòng trong bản gốc tương ứng với một dòng trong bản dịch, không gộp hay tách.
+
+Văn bản có nhiều dòng, cần đếm kỹ. Tôi sẽ dịch từng dòng.
+
+Lưu ý: Có các dòng trống? Trong văn bản, có các dòng như "(From Being a Toddler)" - đây là một dòng. Và có các dòng có nhiều đoạn, nhưng vẫn là một dòng.
+
+Cần kiểm tra: người dùng nói "Trả về đúng số dòng." Vậy phải đảm bảo số dòng output bằng số dòng input.
+
+Tôi sẽ đếm số dòng trong input. Nhưng input dài, có thể copy vào và đếm. Tuy nhiên, tôi có thể xử lý từng dòng.
+
+Đầu tiên, tách input thành các dòng. Trong input, mỗi dòng được ngăn cách bằng \n. Vậy tôi sẽ tách theo \n và dịch từng phần.
+
+Nhưng có các dòng có nhiều câu, vẫn là một dòng.
+
+Tôi sẽ dịch từng dòng, giữ nguyên cấu trúc.
+
+Bắt đầu:
+
+Dòng 1: "Clumsy Lesson" -> dịch là "Vụng về" hoặc "Đặc điểm Vụng về"? Trong ngữ cảnh, đây là tiêu đề cho đặc điểm. Tôi thấy trong các dòng tiếp theo, mỗi dòng bắt đầu bằng tên đặc điểm, sau đó là mô tả. Vậy "Clumsy Lesson" có thể coi là tên đặc điểm. Tôi dịch "Clumsy" là "Vụng về", "Lesson" có thể bỏ qua vì nó là phần của hệ thống. Tuy nhiên, trong bản gốc, mỗi đặc điểm có dạng "X Lesson", nên tôi dịch "X Lesson" thành "Đặc điểm X" hoặc chỉ "X". Để đơn giản, tôi dịch "Clumsy Lesson" thành "Vụng về", tương tự cho các cái khác.
+
+Nhưng trong một số trường hợp, như "Bro Lesson", dịch là "Bro" thì sao? "Bro" là từ lóng, có thể giữ nguyên hoặc dịch. Tôi nghĩ nên dịch "Bro" là "Anh chàng cool ngầu" hoặc gì đó, nhưng để ngắn gọn, có thể giữ nguyên "Bro"? Người dùng không nói không dịch "Bro", nên dịch được. Tuy nhiên, "Bro" là một đặc điểm, trong bản dịch chính thức có thể là "Anh chàng". Tôi sẽ dịch theo nghĩa.
+
+Tuy nhiên, cần thống nhất: dịch tên đặc điểm sang tiếng Việt, nhưng giữ nguyên các từ "Sims" và "Sim" trong mô tả.
+
+Ví dụ: "Bro Lesson" -> "Anh chàng" (vì Bro thường dịch là anh chàng). Sau đó mô tả: "Bros love watching Sports..." -> "Các anh chàng thích xem thể thao..." nhưng "Bros" là từ "Bro" số nhiều, nếu giữ nguyên "Sims" thì sao? Không, "Bros" không phải "Sims". "Bros" là từ riêng, có thể dịch. Tuy nhiên, người dùng chỉ cấm dịch "Sims" và "Sim", còn "Bros" không nằm trong danh sách, nên dịch bình thường.
+
+Vậy tôi sẽ dịch tất cả, trừ các từ cấm.
+
+Các từ cấm: "The Sims 4", "Sims", "Sim", "Social Bunny", "EA app", "Gallery". Chỉ giữ nguyên khi chúng xuất hiện chính xác như vậy.
+
+Trong văn bản, có "Sim" trong "Sims" đôi khi viết hoa? Thường là "Sims". Có "Sim" trong biến, nhưng không tính.
+
+Vậy bắt đầu dịch:
+
+Dòng 1: "Clumsy Lesson" -> "Vụng về" (tôi sẽ dịch "Lesson" là "Đặc điểm" hoặc bỏ qua, nhưng để ngắn, chỉ dịch tính từ). Tuy nhiên, trong ngữ cảnh, mỗi dòng là một đặc điểm, nên tôi có thể dịch thành "Đặc điểm: Vụng về" nhưng bản gốc không có "Đặc điểm", chỉ có "Clumsy Lesson". Tôi dịch "Clumsy Lesson" thành "Vụng về" thôi.
+
+Dòng 2: "{0.SimFirstName} is Clumsy. Clumsy Sims tend to fail at physical activities more often, but they shrug it off and laugh."
+
+-> "{0.SimFirstName} là một Sim Vụng về. Các Sim Vụng về thường thất bại trong các hoạt động thể chất thường xuyên hơn, nhưng họ nhún vai và cười."
+
+Nhưng "Clumsy Sims" - "Sims" là từ cấm, nên giữ nguyên "Sims"? Người dùng nói không dịch "Sims", vậy "Clumsy Sims" giữ nguyên "Sims"? Nhưng "Clumsy" là tính từ, dịch được. Vậy "Clumsy Sims" -> "Sims Vụng về"? Hay "Clumsy Sims" giữ nguyên? Tôi nghĩ nên dịch "Clumsy" và giữ nguyên "Sims". Vậy: "Các Sims Vụng về" hoặc "Sims Vụng về". Tuy nhiên, "Sims" là từ số nhiều, trong tiếng Việt có thể giữ nguyên. Tôi sẽ dịch: "Các Sims Vụng về thường thất bại trong các hoạt động thể chất thường xuyên hơn, nhưng họ nhún vai và cười."
+
+Nhưng "they" ở đây ám chỉ các Sims, nên dịch là "họ".
+
+Tuy nhiên, cần lưu ý: trong tiếng Việt, "Sims" thường được dịch là "Sim" (vì là số nhiều của Sim). Nhưng theo yêu cầu, không dịch "Sims", nên giữ nguyên "Sims". Vậy tôi giữ nguyên "Sims" trong mọi nơi.
+
+Tương tự cho "Sim" đơn.
+
+Vậy trong dòng 2: "Clumsy Sims" -> giữ nguyên "Sims", dịch "Clumsy" -> "Vụng về", vậy thành "Clumsy Sims" -> "Sims Vụng về"? Hay giữ nguyên cả cụm? Người dùng nói không dịch "Sims", nhưng "Clumsy" thì dịch. Vậy tôi dịch "Clumsy" sang tiếng Việt, và "Sims" giữ nguyên. Có thể viết: "Các Sims Vụng về" hoặc "Sims Vụng về". Tôi dùng "Các Sims Vụng về" cho tự nhiên.
+
+Nhưng "Clumsy" là tính từ, trong tiếng Việt đứng trước danh từ thường có dấu gạch nối hoặc không. Tôi sẽ dùng "Vụng về" đứng sau, như "Sims Vụng về" hoặc "Các Sims Vụng về".
+
+Tuy nhiên, để đơn giản, tôi dịch: "{0.SimFirstName} là một Sim Vụng về. Các Sims Vụng về thường thất bại trong các hoạt động thể chất thường xuyên hơn, nhưng họ nhún vai và cười."
+
+Nhưng "a Sim" trong "is Clumsy" - "a Sim" có dịch không? "is Clumsy" dịch là "là Vụng về", nhưng "Vụng về" là tính từ, nên "là một Sim Vụng về"? Trong tiếng Việt, có thể nói "là một Sim vụng về" hoặc "có tính cách vụng về". Tôi nghĩ nên dịch là: "{0.SimFirstName} có tính cách Vụng về." Nhưng để sát với bản gốc, tôi dịch: "{0.SimFirstName} là một Sim Vụng về."
+
+Tuy nhiên, "Sim" là từ cấm, nên "a Sim" nếu dịch thì thành "một Sim"? Nhưng "Sim" không dịch, nên giữ nguyên "Sim". Vậy "a Sim" -> "một Sim"? "một" là từ tiếng Việt, "Sim" giữ nguyên. Vậy "{0.SimFirstName} là một Sim Vụng về."
+
+Còn "Clumsy Sims" -> "Các Sims Vụng về."
+
+Tôi sẽ làm theo cách này.
+
+Dòng 3: "Childish Lesson" -> "Trẻ con"
+
+"{0.SimFirstName} is a Childish Sim. These Sims never quite grow up and never lose their love for toys or hanging out with kids."
+
+-> "{0.SimFirstName} là một Sim Trẻ con. Các Sims Trẻ con chưa bao giờ thực sự lớn lên và chưa bao giờ mất đi tình yêu thích đồ chơi hay chơi đùa với trẻ em."
+
+Nhưng "hanging out with kids" dịch là "chơi đùa với trẻ em" hoặc "đi chơi với trẻ em". Tôi dùng "chơi đùa với trẻ em".
+
+Dòng 4: "Cautious Infant" -> "Trẻ sơ sinh Thận trọng"
+
+"{0.SimFirstName} is a Cautious Infant. These infants appreciate the familiar but are slow to warm up to new experiences, locations, and Sims."
+
+-> "{0.SimFirstName} là một Trẻ sơ sinh Thận trọng. Các trẻ sơ sinh này trân trọng những thứ quen thuộc nhưng chậm thích nghi với những trải nghiệm, địa điểm và Sims mới."
+
+Lưu ý: "Infant" dịch là "Trẻ sơ sinh". "Sims" giữ nguyên.
+
+Dòng 5: "Calm Infant" -> "Trẻ sơ sinh Bình tĩnh"
+
+"{0.SimFirstName} is a Calm Infant. Calm Infants like to watch the world, are less likely to cry or become angry, and don't grow tired of activities as easily as other infants; however, they are less likely to explore the world on their own."
+
+-> "{0.SimFirstName} là một Trẻ sơ sinh Bình tĩnh. Các Trẻ sơ sinh Bình tĩnh thích quan sát thế giới, ít khóc hoặc tức giận hơn, và không dễ mệt mỏi với các hoạt động như các trẻ sơ sinh khác; tuy nhiên, chúng ít có xu hướng khám phá thế giới một mình."
+
+Dòng 6: "Bro Lesson" -> "Anh chàng"
+
+"{0.SimFirstName} is a Bro. Bros love watching Sports, being around other Bros, and know how to handle their Juice."
+
+-> "{0.SimFirstName} là một Anh chàng. Các Anh chàng thích xem Thể thao, ở quanh các Anh chàng khác, và biết cách xử lý Nước ép của mình."
+
+Nhưng "Sports" và "Juice" có phải là từ cấm không? "Sports" không nằm trong danh sách, nên dịch bình thường. "Juice" dịch là "Nước ép". Tuy nhiên, "Juice" trong ngữ cảnh này có thể là đồ uống, nhưng trong trò chơi có thể là một loại nước cụ thể. Tôi dịch là "Nước ép".
+
+Dòng 7: "Bookworm Lesson" -> "Người mê sách"
+
+"{0.SimFirstName} is a Bookworm. Bookworms are Inspired by Books and love to discuss them with other Sims."
+
+-> "{0.SimFirstName} là một Người mê sách. Các Người mê sách được Truyền cảm hứng bởi Sách và thích thảo luận chúng với các Sims khác."
+
+"Inspired" dịch là "Truyền cảm hứng" nhưng trong trò chơi, "Inspired" là một trạng thái tâm trạng, thường dịch là "cảm hứng". Tôi dùng "cảm hứng". Vậy: "cảm hứng bởi Sách".
+
+Dòng 8: "Art Lover Lesson" -> "Người yêu nghệ thuật"
+
+"{0.SimFirstName} is an Art Lover. Art Lovers are easily Inspired by Art and love to discuss Art."
+
+-> "{0.SimFirstName} là một Người yêu nghệ thuật. Các Người yêu nghệ thuật dễ dàng cảm hứng bởi Nghệ thuật và thích thảo luận Nghệ thuật."
+
+Dòng 9: "Ambitious Lesson" -> "Tham vọng"
+
+"{0.SimFirstName} is Ambitious. Ambitious Sims are career focused. If work goes well, or poorly, they'll have an Emotional reaction!"
+
+-> "{0.SimFirstName} là một Sim Tham vọng. Các Sims Tham vọng tập trung vào sự nghiệp. Nếu công việc diễn ra tốt hoặc tồi, họ sẽ có phản ứng cảm xúc!"
+
+Dòng 10: "Show Toddler Lessons" -> "Hiển thị Bài học Trẻ con"
+
+Dòng 11: "Toddler Lesson" -> "Bài học Trẻ con"
+
+"{0.SimFirstName} is just a helpless toddler, Caregivers and other Sims in the household will need to help to care for {M0.him}{F0.her}."
+
+-> "{0.SimFirstName} chỉ là một trẻ con bất lực, Người chăm sóc và các Sims khác trong hộ gia đình sẽ cần giúp đỡ chăm sóc {M0.him}{F0.her}."
+
+Dòng 12: "View Infant Lesson" -> "Xem Bài học Trẻ sơ sinh"
+
+Dòng 13: "Infant Lesson" -> "Bài học Trẻ sơ sinh"
+
+"{0.SimFirstName} is a growing Infant, but must rely on Caregivers and other older Sims to help care for {0.SimPronounObjective}. Learn more about Infant Care in the lesson!"
+
+-> "{0.SimFirstName} là một Trẻ sơ sinh đang lớn, nhưng phải dựa vào Người chăm sóc và các Sims lớn tuổi khác để giúp chăm sóc {0.SimPronounObjective}. Tìm hiểu thêm về Chăm sóc Trẻ sơ sinh trong bài học!"
+
+Dòng 14: "Active Imagination Lesson" -> "Trí tưởng tượng Năng động"
+
+"{0.SimFirstName} has an Active Imagination! These Sims with this trait gain creative skills faster but may get overwhelmed at times."
+
+-> "{0.SimFirstName} có Trí tưởng tượng Năng động! Các Sims có đặc điểm này học kỹ năng sáng tạo nhanh hơn nhưng đôi khi có thể bị quá tải."
+
+Dòng 15: "Active Lesson" -> "Năng động"
+
+"{0.SimFirstName} is an Active Sim. Active Sims tend to be Energized and enjoy Exercise."
+
+-> "{0.SimFirstName} là một Sim Năng động. Các Sims Năng động thường có Năng lượng và thích Tập thể dục."
+
+Dòng 16: "(From Being a Toddler)" -> "(Từ khi là Trẻ con)"
+
+Dòng 17: "(From Being Sad)" -> "(Từ khi buồn bã)"
+
+Dòng 18: "(From Recent Social Interactions)" -> "(Từ các Tương tác Xã hội Gần đây)"
+
+Dòng 19: "Total Wants Completed" -> "Tổng số Mong ước Hoàn thành"
+
+Dòng 20: "Times WooHooed" -> "Số lần WooHooed" (giữ nguyên "WooHooed" vì có thể là thuật ngữ trò chơi, nhưng người dùng không nói không dịch "WooHoo", nên dịch? Tuy nhiên, "WooHoo" là một từ đặc biệt trong trò chơi, thường giữ nguyên. Tôi sẽ giữ nguyên "WooHooed" vì nó là một hành động cụ thể. Tương tự cho các từ khác.
+
+Nhưng người dùng chỉ liệt kê một số từ không dịch, "WooHoo" không nằm trong danh sách, nên có thể dịch. Tuy nhiên, trong bản dịch chính thức, "WooHoo" thường giữ nguyên. Để an toàn, tôi sẽ giữ nguyên "WooHooed" vì nó là một thuật ngữ trò chơi.
+
+Tuy nhiên, người dùng nói "KHÔNG dịch: ..." và liệt kê, nên những từ khác có thể dịch. Tôi sẽ dịch "Times WooHooed" thành "Số lần WooHoo" (vì "WooHooed" là quá khứ, nhưng trong tiếng Việt có thể nói "số lần WooHoo"). Tôi dùng "Số lần WooHoo".
+
+Dòng 21: "Times Scared" -> "Số lần Sợ hãi"
+
+Dòng 22: "Times Bladder Failed" -> "Số lần Bể đái Hỏng" (nhưng "Bladder Failed" có nghĩa là không kiểm soát được bể đái, dịch là "Số lần Mất kiểm soát Bể đái" hoặc "Số lần Đái dầm". Tôi dùng "Số lần Đái dầm" cho ngắn gọn.
+
+Dòng 23: "Times Dazed" -> "Số lần Choáng váng"
+
+Dòng 24: "Meals Eaten" -> "Số bữa Ăn đã Ăn"
+
+Dòng 25: "Social Events Attended" -> "Sự kiện Xã hội Đã tham gia"
+
+Dòng 26: "Tier 4" -> "Tầng 4" (nhưng trong ngữ cảnh này, "Tier" có thể là "Cấp" hoặc "Bậc". Tôi dùng "Cấp 4")
+
+Dòng 27: "Tier 3" -> "Cấp 3"
+
+Dòng 28: "Tier 2" -> "Cấp 2"
+
+Dòng 29: "Tier 1" -> "Cấp 1"
+
+Dòng 30: "(From Being Near a Poor Relationship)" -> "(Từ khi ở gần Mối quan hệ Tệ hại)"
+
+Dòng 31: "(From Being Near a Romantic Relationship)" -> "(Từ khi ở gần Mối quan hệ Lãng mạn)"
+
+Dòng 32: "Nature's Calling event is active" -> "Sự kiện Tiếng gọi của Thiên nhiên đang hoạt động"
+
+Dòng 33: "(From the Forever Friends Event)" -> "(Từ sự kiện Bạn bởi vĩnh cửu)"
+
+Dòng 34: "(From the Lost Legacies Event)" -> "(Từ sự ki Di sản Mất tích)"
+
+Dòng 35: "Work-Life Balance" -> "Cân bằng Công việc-Cuộc sống"
+
+Dòng 36: "Career Development" -> "Phát triển Sự nghiệp"
+
+Dòng 37: "First Day on the Job" -> "Ngày đầu tiên đi làm"
+
+Dòng 38: "Settling In" -> "Định cư"
+
+Dòng 39: "(From Being Near a Friendly Relationship)" -> "(Từ khi ở gần Mối quan hệ Bạn bè)"
+
+Dòng 40: "Bodybuilder Sims are obsessed with being in shape. They spend nearly all their time perfecting their bodies."
+
+-> "Các Sims Bodybuilder cuồng nhiệt với việc giữ dáng. Họ dành gần như toàn bộ thời gian để hoàn thiện cơ thể."
+
+Nhưng "Bodybuilder" là từ cấm? Không, nó không nằm trong danh sách. Tuy nhiên, "Bodybuilder Sims" - "Sims" giữ nguyên, "Bodybuilder" dịch là "Vận động viên thể hình" hoặc "Người tập gym". Tôi dùng "Sims Bodybuilder" giữ nguyên? Không, người dùng nói không dịch "Sims", nhưng "Bodybuilder" thì dịch. Vậy: "Các Sims Bodybuilder" hoặc "Các Bodybuilder Sims"? Tôi dịch "Bodybuilder" sang tiếng Việt, và giữ nguyên "Sims". Vậy: "Các Sims Bodybuilder" hoặc "Các Sims là Bodybuilder". Tôi dùng: "Các Sims Bodybuilder rất cuồng với việc giữ dáng. Họ dành gần như toàn bộ thời gian để hoàn thiện cơ thể."
+
+Nhưng "Bodybuilder" có thể dịch là "người tập thể hình". Vậy: "Các Sims người tập thể hình rất cuồng với việc giữ dáng. Họ dành gần như toàn bộ thời gian để hoàn thiện cơ thể."
+
+Tuy nhiên, để đơn giản, tôi giữ nguyên "Bodybuilder" vì nó là thuật ngữ? Tôi nghĩ nên dịch: "Các Sims Bodybuilder" -> "Các Sims là vận động viên thể hình". Nhưng dài. Tôi dùng: "Các Sims Bodybuilder rất mê việc tập thể hình. Họ dành gần như toàn bộ thời gian để hoàn thiện cơ thể."
+
+Dòng 41: Có một dòng với thẻ HTML: "<b><font color='#DE750E'>Social Challenge</font></b>\n\n{0.SimFirstName} <i>loves</i> being the center of attention! It doesn't matter if it comes from telling jokes or stories to other Sims. It's all the same to {0.SimPronounObjective} so long as the Sims around {0.SimPronounObjective} are entertained. Now, {0.SimPronounSubjective} can't help but wonder if this is {0.SimPronounPossessiveDependent} calling in life. Maybe it needs to be explored?!\n\n<b>Reward:</b> When {0.SimFirstName} grows up {0.SimPronounSubjective} will advance more quickly in the Entertainer Career."
+
+Cần dịch phần text, giữ nguyên thẻ và biến.
+
+Dịch:
+
+"<b><font color='#DE750E'>Thử thách Xã hội</font></b>\n\n{0.SimFirstName} <i>thích</i> làm trung tâm chú ý! Không quan trọng đó là từ kể chuyện cười hay kể chuyện cho các Sims khác. Đối với {0.SimPronounObjective}, tất cả đều như nhau miễn là các Sims xung quanh {0.SimPronounObjective} được giải trí. Giờ đây, {0.SimPronounSubjective} không thể không tự hỏi liệu đây có phải là {0.SimPronounPossessiveDependent} sứ mệnh trong cuộc sống. Có lẽ nó cần được khám phá?!\n\n<b>Phần thưởng:</b> Khi {0.SimFirstName} trưởng thành {0.SimPronounSubjective} sẽ thăng tiến nhanh hơn trong Sự nghiệp Giải trí."
+
+Lưu ý: "Sims" trong "other Sims" giữ nguyên. "Entertainer Career" dịch là "Sự nghiệp Giải trí".
+
+Dòng tiếp theo: "Be an Entertainer" -> "Trở thành một Người giải trí"
+
+Nhưng đây là tiêu đề cho phần thưởng? Trong văn bản, sau phần thưởng có dòng "Be an Entertainer", có lẽ là tên của thử thách? Tuy nhiên, trong cấu trúc, mỗi thử thách có tiêu đề màu sắc, sau đó là mô tả, sau đó là "Reward:", và sau đó có thể có tên thử thách? Trong input, sau phần thưởng của thử thách đầu, có dòng "Be an Entertainer", rồi đến thử thách tiếp theo. Vậy "Be an Entertainer" có thể là tên của thử thách tiếp theo? Nhưng trong input, nó đứng một mình, không có thẻ HTML. Có lẽ đây là tên của thử thách, tương tự như "Clumsy Lesson" nhưng cho thử thách. Tôi sẽ dịch "Be an Entertainer" thành "Trở thành Người giải trí".
+
+Tuy nhiên, cần xem cấu trúc: Sau phần thưởng của thử thách Social Challenge, có dòng "Be an Entertainer", rồi đến "<b><font color='#199C2C'>Adventure Challenge</font></b>". Vậy "Be an Entertainer" có thể là tên của thử thách Social Challenge? Không, vì Social Challenge đã có tên trong thẻ HTML. Có lẽ "Be an Entertainer" là một tiêu đề phụ? Tôi nghĩ nó là tên của thử thách, nhưng đã có trong phần thưởng. Trong input, mỗi thử thách có cấu trúc: tiêu đề màu, mô tả, reward, và có thể có tên thử thách ở dưới? Tôi không chắc.
+
+Nhìn input: 
+"<b><font color='#DE750E'>Social Challenge</font></b>\n\n...\n\n<b>Reward:</b> ...\nBe an Entertainer\n<b><font color='#199C2C'>Adventure Challenge</font></b>\n\n..."
+
+Vậy "Be an Entertainer" nằm giữa Social Challenge và Adventure Challenge. Có thể nó là tên của Social Challenge? Nhưng Social Challenge đã có tên trong thẻ. Có lẽ đây là tên của một nhiệm vụ hoặc thử thách con. Trong trò chơi, các thử thách có tên. Tôi sẽ dịch "Be an Entertainer" thành "Trở thành Người giải trí".
+
+Tương tự cho các cái khác.
+
+Dòng sau: "Master Fishing" -> "Thành thạo Câu cá"
+
+Dòng sau: "Learn from the Past" -> "Học hỏi từ Quá khứ"
+
+Dòng sau: "Be Inquisitive about Science" -> "Tò mò về Khoa học"
+
+Dòng sau: "Follow in Their Footsteps (Swimming)" -> "Theo dấu chân của Họ (Bơi lội)"
+
+Dòng sau: "Follow in Their Footsteps (Painting)" -> "Theo dấu chân của Họ (Vẽ tranh)"
+
+Dòng sau: "Follow in Their Footsteps (Music)" -> "Theo dấu chân của Họ (Âm nhạc)"
+
+Dòng sau: "Feed Yourself" -> "Tự cho ăn"
+
+Dòng sau: "Explore Nature" -> "Khám phá Thiên nhiên"
+
+Dòng sau: "Establish an Image" -> "Xây dựng Hình ảnh"
+
+Dòng sau: "Be Useful" -> "Hữu ích"
+
+Dòng sau: "Be an Enthusiast" -> "Trở thành Người nhiệt huyết"
+
+Dòng sau: "Be a Good Student" -> "Trở thành Học sinh Tốt"
+
+Dòng sau: "Be Entrepreneurial" -> "Trở thành Doanh nhân"
+
+Dòng tiếp theo: "(From Taking a Shower)" -> "(Từ khi tắm)"
+
+Dòng: "{1.SimFirstName} has learned {0.SimFirstName}'s Mess Around Interests." -> "{1.SimFirstName} đã học được Sở thích Trêu chọc của {0.SimFirstName}."
+
+Dòng: "{0.SimFirstName} has learned about {1.SimFirstName}'s Mess Around interests." -> "{0.SimFirstName} đã học về Sở thích Trêu chọc của {1.SimFirstName}."
+
+Dòng: "{0.SimFirstName} has learned {1.SimFirstName}'s WooHoo Interests." -> "{0.SimFirstName} đã học được Sở thích WooHoo của {1.SimFirstName}."
+
+Dòng: "{1.SimFirstName} has learned {0.SimFirstName}'s WooHoo Interests." -> "{1.SimFirstName} đã học được Sở thích WooHoo của {0.SimFirstName}."
+
+Dòng: "{0.SimFirstName} has learned {1.SimFirstName}'s Romantic Interests." -> "{0.SimFirstName} đã học được Sở thích Lãng mạn của {1.SimFirstName}."
+
+Dòng: "{1.SimFirstName} has learned {0.SimFirstName}'s Romantic Interests." -> "{1.SimFirstName} đã học được Sở thích Lãng mạn của {0.SimFirstName}."
+
+Dòng: "Personality Discovered!" -> "Tính cách Đã được khám phá!"
+
+Dòng: "{0.SimFirstName} has reached the max number of times {0.SimPronounSubjective} can embrace a Self Discovery trait moment." -> "{0.SimFirstName} đã đạt số lần tối đa {0.SimPronounSubjective} có thể ôm đồn một khoảnh khắc Tự khám phá đặc điểm."
+
+Dòng: "(From Snowball Fight)" -> "(Từ trận chiến tuyết)"
+
+Dòng: "(From a Direct Hit)" -> "(Từ một cú đánh trực tiếp)"
+
+Dòng: "(From Explore the Night Scenario)" -> "(Từ kịch bản Khám phá Đêm)"
+
+Dòng: "Congratulations on completing the Welcome Scenario!\n\nAs a reward, each Sims in this household have earned unique rewards based on their accomplishments and choices, as well as enough Satisfaction Points to purchase a treat in the Rewards Store! \n\nYou have created a great start for your Sims, but their stories are far from finished! "
+
+Dịch:
+
+"Chúc mừng bạn đã hoàn thành Kịch bản Chào mừng!\n\nNhư một phần thưởng, mỗi Sims trong hộ gia đình này đã nhận được những phần thưởng độc nhất dựa trên thành tựu và lựa chọn của họ, cũng như đủ Điểm Hài lòng để mua một món quà trong Cửa hàng Phần thưởng! \n\nBạn đã tạo ra một khởi đầu tuyệt vời cho các Sims của mình, nhưng câu chuyện của họ còn xa mới kết thúc! "
+
+Lưu ý: "Satisfaction Points" dịch là "Điểm Hài lòng", "Rewards Store" dịch là "Cửa hàng Phần thưởng".
+
+Dòng: "Promotions will often reward you with mood boosting items that your Sims store in the Household Inventory. Place them in your lot to benefit from their effect."
+
+-> "Thăng tiến thường phần thưởng bạn với các vật dụng tăng cường tâm trạng mà các Sims của bạn lưu trữ trong Kho đồ Gia đình. Đặt chúng trên lô đất của bạn để hưởng lợi từ tác dụng của chúng."
+
+Dòng: "Some reward traits will make your Sim build skills faster. Morning Sim boosts skill gain during the day, while Night Owl boosts skill gain during the night. Choose wisely!"
+
+-> "Một số đặc điểm phần thưởng sẽ giúp Sim của bạn xây dựng kỹ năng nhanh hơn. Sim Buổi sáng tăng cường việc học kỹ năng vào ban ngày, trong khi Cú đêm tăng cường việc học kỹ năng vào ban đêm. Hãy chọn thông minh!"
+
+Nhưng "Morning Sim" và "Night Owl" là tên đặc điểm, nên có thể giữ nguyên? Người dùng nói không dịch "Sim", nhưng "Morning Sim" là một cụm, có dịch không? Tôi nghĩ nên dịch: "Sim Buổi sáng" và "Cú đêm" (Night Owl dịch là "Cú đêm" hoặc "Người thích đêm"). Tôi dùng "Sim Buổi sáng" và "Sim Đêm" hoặc "Cú đêm". Trong bản dịch chính thức, có thể là "Người dậy sớm" và "Cú đêm". Tôi dịch "Morning Sim" là "Sim Buổi sáng", "Night Owl" là "Sim Đêm" hoặc "Cú đêm". Tôi dùng "Sim Buổi sáng" và "Cú đêm".
+
+Tuy nhiên, "Night Owl" không chứa "Sim", nên dịch bình thường. Vậy: "Morning Sim" -> "Sim Buổi sáng" (giữ "Sim" vì là từ cấm?), nhưng "Sim" trong "Morning Sim" là một phần của tên đặc điểm, và người dùng nói không dịch "Sim", nên giữ nguyên "Sim"? Tôi nghĩ "Morning Sim" là tên đặc điểm, có chứa từ "Sim", nên theo yêu cầu, không dịch "Sim", vậy giữ nguyên "Morning Sim"? Nhưng "Morning" dịch được. Vấn đề phức tạp.
+
+Người dùng nói: "KHÔNG dịch: 'The Sims 4', 'Sims', 'Sim', ...". Vậy bất kỳ từ "Sim" nào cũng không dịch, kể cả trong các cụm. Vậy "Morning Sim" nên giữ nguyên "Morning Sim"? Hay dịch "Morning" và giữ nguyên "Sim"? Tôi nghĩ nên giữ nguyên cả cụm "Morning Sim" vì nó là tên đặc điểm, và nó chứa từ "Sim". Tương tự "Night Owl" không chứa "Sim", nên dịch bình thường.
+
+Vậy: "Morning Sim boosts skill gain during the day" -> "Morning Sim tăng cường việc học kỹ năng vào ban ngày,"
+
+Nhưng trong tiếng Việt, cần dịch cho dễ hiểu. Tuy nhiên, tuân thủ yêu cầu: không dịch "Sim". Vậy tôi giữ nguyên "Morning Sim".
+
+Tương tự, trong các thử thách, có "Entertainer Career", "Career" dịch là "Sự nghiệp", "Entertainer" dịch là "Người giải trí". "Career" không phải từ cấm.
+
+Vậy sửa: "Morning Sim boosts skill gain during the day, while Night Owl boosts skill gain during the night." -> "Morning Sim tăng cường việc học kỹ năng vào ban ngày, trong khi Night Owl tăng cường việc học kỹ năng vào ban đêm."
+
+Dòng: "Negative emotions like Tension, Anger or Sadness can block your Sim from learning new skills!\n\nYou can find more information about Moodlets in Lessons under the \"Live Mode\" category."
+
+-> "Cảm xúc tiêu cực như Căng thẳng, Tức giận hoặc Buồn bã có thể ngăn cản Sim của bạn học kỹ năng mới!\n\nBạn có thể tìm thêm thông tin về Moodlets trong Bài học dưới danh mục \"Chế độ Sống\"."
+
+Lưu ý: "Moodlets" và "Live Mode" có thể giữ nguyên vì là thuật ngữ. Tuy nhiên, "Live Mode" dịch là "Chế độ Sống" trong bản dịch chính thức. Tôi dịch "Live Mode" thành "Chế độ Sống". "Moodlets" giữ nguyên hoặc dịch? Tôi thấy trong bản dịch chính thức, "Moodlets" thường giữ nguyên. Tôi sẽ giữ nguyên "Moodlets".
+
+Dòng: "Yes, I knew I could count on you, Nova! Here's the deal about my secret beverage: It is THE fastest way to learn skills. However... make sure you go to the toilet before you drink it, the Snaggle Fluster can be very diuretic! I sometimes program while at the toilet to be more efficient."
+
+-> "Vâng, tôi biết tôi có thể tin tưởng bạn, Nova! Đây là sự thật về thức uống bí mật của tôi: Đó là CÁCH nhanh nhất để học kỹ năng. Tuy nhiên... hãy chắc chắn bạn đi vệ sinh trước khi uống nó, Snaggle Fluster có thể rất lợi tiểu! Tôi đôi khi lập trình ngay ở nhà vệ sinh để hiệu quả hơn."
+
+Lưu ý: "Snaggle Fluster" là tên một món đồ, giữ nguyên.
+
+Dòng: "Alright, alright… Let’s continue being normies."
+
+-> "Được rồi, được rồi… Hãy tiếp tục là người bình thường."
+
+"normies" dịch là "người bình thường" hoặc "người thường". Tôi dùng "người bình thường".
+
+Dòng: "I hope pepperoni is still your favorite!"
+
+-> "Tôi hy vọng pepperoni vẫn là món bạn thích!"
+
+"pepperoni" giữ nguyên vì là đồ ăn.
+
+Dòng: "Don't worry, we'll get to hang out aaall day at the office. See you there, tuna head!"
+
+-> "Đừng lo, chúng ta sẽ được ở bên nhau CẢ ngày ở văn phòng. Gặp bạn ở đó, tuna head!"
+
+"tuna head" là biệt hiệu, giữ nguyên.
+
+Bây giờ, tôi cần đảm bảo số dòng. Tôi sẽ đếm số dòng trong input. Input có vẻ nhiều dòng, tôi cần tách bằng \n và đếm.
+
+Tuy nhiên, trong quá trình dịch, tôi có thể thay đổi cấu trúc dòng? Không, phải giữ nguyên số dòng, nghĩa là mỗi dòng trong input tương ứng với một dòng trong output, không gộp dòng.
+
+Vì vậy, tôi phải dịch từng dòng riêng lẻ, không kết hợp các dòng lại.
+
+Trong input, có các dòng trống? Tôi thấy có các dòng chỉ có "\n" trong cấu trúc, nhưng khi tách, sẽ có dòng trống. Cần giữ nguyên dòng trống.
+
+Vậy tôi sẽ tách input theo \n, và với mỗi dòng, dịch nếu cần, giữ nguyên nếu là thẻ HTML hoặc biến.
+
+Nhưng có các dòng có nhiều đoạn, như dòng với thẻ HTML, nó vẫn là một dòng.
+
+Tôi sẽ thực hiện theo từng dòng.
+
+Để tiết kiệm thời gian, tôi sẽ dịch toàn bộ và sau đó kiểm tra số dòng.
+
+Tuy nhiên, tôi cần chú ý đến các biến như {0.SimPronounSubjective} có thể có định dạng |xxUpper, tôi phải giữ nguyên.
+
+Ví dụ: "{0.SimPronounSubjective|xxUpper}" -> giữ nguyên, không dịch.
+
+Tương tự {M0.him}{F0.her} giữ nguyên.
+
+Vậy tôi sẽ dịch phần text xung quanh.
+
+Bây giờ, tôi bắt đầu dịch toàn bộ.
+
+Tôi sẽ liệt kê từng dòng và bản dịch.
+
+Lưu ý: Trong input, có các dòng như "Be an Entertainer" đứng riêng, tôi dịch thành "Trở thành Người giải trí".
+
+Tương tự.
+
+Tôi sẽ tạo một danh sách các dòng dịch.
+
+Sau đó, nối lại bằng \n.
+
+Đầu tiên, tôi cần có đầy đủ input. Tôi copy input từ user.
+
+Tuy nhiên, input dài, tôi có thể xử lý từng phần.
+
+Để chính xác, tôi sẽ dùng code tư duy, nhưng ở đây tôi làm thủ công.
+
+Tôi sẽ viết bản dịch dưới dạng một chuỗi với các dòng tương ứng.
+
+Bắt đầu:
+
+1. Clumsy Lesson -> Vụng về
+2. {0.SimFirstName} is Clumsy. Clumsy Sims tend to fail at physical activities more often, but they shrug it off and laugh. -> {0.SimFirstName} là một Sim Vụng về. Các Sims Vụng về thường thất bại trong các hoạt động thể chất thường xuyên hơn, nhưng họ nhún vai và cười.
+3. Childish Lesson -> Trẻ con
+4. {0.SimFirstName} is a Childish Sim. These Sims never quite grow up and never lose their love for toys or hanging out with kids. -> {0.SimFirstName} là một Sim Trẻ con. Các Sims Trẻ con chưa bao giờ thực sự lớn lên và chưa bao giờ mất đi tình yêu thích đồ chơi hay chơi đùa với trẻ em.
+5. Cautious Infant -> Trẻ sơ sinh Thận trọng
+6. {0.SimFirstName} is a Cautious Infant. These infants appreciate the familiar but are slow to warm up to new experiences, locations, and Sims. -> {0.SimFirstName} là một Trẻ sơ sinh Thận trọng. Các trẻ sơ sinh này trân trọng những thứ quen thuộc nhưng chậm thích nghi với những trải nghiệm, địa điểm và Sims mới.
+7. Calm Infant -> Trẻ sơ sinh Bình tĩnh
+8. {0.SimFirstName} is a Calm Infant. Calm Infants like to watch the world, are less likely to cry or become angry, and don't grow tired of activities as easily as other infants; however, they are less likely to explore the world on their own. -> {0.SimFirstName} là một Trẻ sơ sinh Bình tĩnh. Các Trẻ sơ sinh Bình tĩnh thích quan sát thế giới, ít khóc hoặc tức giận hơn, và không dễ mệt mỏi với các hoạt động như các trẻ sơ sinh khác; tuy nhiên, chúng ít có xu hướng khám phá thế giới một mình.
+9. Bro Lesson -> Anh chàng
+10. {0.SimFirstName} is a Bro. Bros love watching Sports, being around other Bros, and know how to handle their Juice. -> {0.SimFirstName} là một Anh chàng. Các Anh chàng thích xem Thể thao, ở quanh các Anh chàng khác, và biết cách xử lý Nước ép của mình.
+11. Bookworm Lesson -> Người mê sách
+12. {0.SimFirstName} is a Bookworm. Bookworms are Inspired by Books and love to discuss them with other Sims. -> {0.SimFirstName} là một Người mê sách. Các Người mê sách cảm hứng bởi Sách và thích thảo luận chúng với các Sims khác.
+13. Art Lover Lesson -> Người yêu nghệ thuật
+14. {0.SimFirstName} is an Art Lover. Art Lovers are easily Inspired by Art and love to discuss Art. -> {0.SimFirstName} là một Người yêu nghệ thuật. Các Người yêu nghệ thuật dễ dàng cảm hứng bởi Nghệ thuật và thích thảo luận Nghệ thuật.
+15. Ambitious Lesson -> Tham vọng
+16. {0.SimFirstName} is Ambitious. Ambitious Sims are career focused. If work goes well, or poorly, they'll have an Emotional reaction! -> {0.SimFirstName} là một Sim Tham vọng. Các Sims Tham vọng tập trung vào sự nghiệp. Nếu công việc diễn ra tốt hoặc tồi, họ sẽ có phản ứng cảm xúc!
+17. Show Toddler Lessons -> Hiển thị Bài học Trẻ con
+18. Toddler Lesson -> Bài học Trẻ con
+19. {0.SimFirstName} is just a helpless toddler, Caregivers and other Sims in the household will need to help to care for {M0.him}{F0.her}. -> {0.SimFirstName} chỉ là một trẻ con bất lực, Người chăm sóc và các Sims khác trong hộ gia đình sẽ cần giúp đỡ chăm sóc {M0.him}{F0.her}.
+20. View Infant Lesson -> Xem Bài học Trẻ sơ sinh
+21. Infant Lesson -> Bài học Trẻ sơ sinh
+22. {0.SimFirstName} is a growing Infant, but must rely on Caregivers and other older Sims to help care for {0.SimPronounObjective}. Learn more about Infant Care in the lesson! -> {0.SimFirstName} là một Trẻ sơ sinh đang lớn, nhưng phải dựa vào Người chăm sóc và các Sims lớn tuổi khác để giúp chăm sóc {0.SimPronounObjective}. Tìm hiểu thêm về Chăm sóc Trẻ sơ sinh trong bài học!
+23. Active Imagination Lesson -> Trí tưởng tượng Năng động
+24. {0.SimFirstName} has an Active Imagination! These Sims with this trait gain creative skills faster but may get overwhelmed at times. -> {0.SimFirstName} có Trí tưởng tượng Năng động! Các Sims có đặc điểm này học kỹ năng sáng tạo nhanh hơn nhưng đôi khi có thể bị quá tải.
+25. Active Lesson -> Năng động
+26. {0.SimFirstName} is an Active Sim. Active Sims tend to be Energized and enjoy Exercise. -> {0.SimFirstName} là một Sim Năng động. Các Sims Năng động thường có Năng lượng và thích Tập thể dục.
+27. (From Being a Toddler) -> (Từ khi là Trẻ con)
+28. (From Being Sad) -> (Từ khi buồn bã)
+29. (From Recent Social Interactions) -> (Từ các Tương tác Xã hội Gần đây)
+30. Total Wants Completed -> Tổng số Mong ước Hoàn thành
+31. Times WooHooed -> Số lần WooHoo
+32. Times Scared -> Số lần Sợ hãi
+33. Times Bladder Failed -> Số lần Đái dầm
+34. Times Dazed -> Số lần Choáng váng
+35. Meals Eaten -> Số bữa Ăn đã Ăn
+36. Social Events Attended -> Sự kiện Xã hội Đã tham gia
+37. Tier 4 -> Cấp 4
+38. Tier 3 -> Cấp 3
+39. Tier 2 -> Cấp 2
+40. Tier 1 -> Cấp 1
+41. (From Being Near a Poor Relationship) -> (Từ khi ở gần Mối quan hệ Tệ hại)
+42. (From Being Near a Romantic Relationship) -> (Từ khi ở gần Mối quan hệ Lãng mạn)
+43. Nature's Calling event is active -> Sự kiện Tiếng gọi của Thiên nhiên đang hoạt động
+44. (From the Forever Friends Event) -> (Từ sự kiện Bạn bởi vĩnh cửu)
+45. (From the Lost Legacies Event) -> (Từ sự kiện Di sản Mất tích)
+46. Work-Life Balance -> Cân bằng Công việc-Cuộc sống
+47. Career Development -> Phát triển Sự nghiệp
+48. First Day on the Job -> Ngày đầu tiên đi làm
+49. Settling In -> Định cư
+50. (From Being Near a Friendly Relationship) -> (Từ khi ở gần Mối quan hệ Bạn bè)
+51. Bodybuilder Sims are obsessed with being in shape. They spend nearly all their time perfecting their bodies. -> Các Sims Bodybuilder rất mê việc tập thể hình. Họ dành gần như toàn bộ thời gian để hoàn thiện cơ thể.
+52. <b><font color='#DE750E'>Social Challenge</font></b>\n\n{0.SimFirstName} <i>loves</i> being the center of attention! It doesn't matter if it comes from telling jokes or stories to other Sims. It's all the same to {0.SimPronounObjective} so long as the Sims around {0.SimPronounObjective} are entertained. Now, {0.SimPronounSubjective} can't help but wonder if this is {0.SimPronounPossessiveDependent} calling in life. Maybe it needs to be explored?!\n\n<b>Reward:</b> When {0.SimFirstName} grows up {0.SimPronounSubjective} will advance more quickly in the Entertainer Career. -> Giữ nguyên thẻ, dịch text: <b><font color='#DE750E'>Thử thách Xã hội</font></b>\n\n{0.SimFirstName} <i>thích</i> làm trung tâm chú ý! Không quan trọng đó là từ kể chuyện cười hay kể chuyện cho các Sims khác. Đối với {0.SimPronounObjective}, tất cả đều như nhau miễn là các Sims xung quanh {0.SimPronounObjective} được giải trí. Giờ đây, {0.SimPronounSubjective} không thể không tự hỏi liệu đây có phải là {0.SimPronounPossessiveDependent} sứ mệnh trong cuộc sống. Có lẽ nó cần được khám phá?!\n\n<b>Phần thưởng:</b> Khi {0.SimFirstName} trưởng thành {0.SimPronounSubjective} sẽ thăng tiến nhanh hơn trong Sự nghiệp Giải trí.
+53. Be an Entertainer -> Trở thành Người giải trí
+54. <b><font color='#199C2C'>Adventure Challenge</font></b>\n\n{0.SimFirstName} wants to really dip {0.SimPronounPossessiveDependent} toes into fishing. Maybe {0.SimPronounSubjective} could catch the biggest most rare fish any Sim <i>ever</i> saw?!\n\n<b>Reward:</b> When {0.SimFirstName} grows up {0.SimPronounSubjective} will advance more quickly in the Fishing Skill. {0.SimPronounSubjective} will also advance more quickly in the Fishing Part Time Career. <i>(Island Living)</i> -> <b><font color='#199C2C'>Thử thách Phiêu lưu</font></b>\n\n{0.SimFirstName} muốn thực sự thử sức với việc câu cá. Có lẽ {0.SimPronounSubjective} có thể bắt được con cá lớn và hiếm nhất mà bất kỳ Sim <i>nào</i> từng thấy?!\n\n<b>Phần thưởng:</b> Khi {0.SimFirstName} trưởng thành {0.SimPronounSubjective} sẽ thăng tiến nhanh hơn trong Kỹ năng Câu cá. {0.SimPronounSubjective} cũng sẽ thăng tiến nhanh hơn trong Sự nghiệp Câu cá Bán thời gian. <i>(Đời sống Đảo)</i>
+55. Master Fishing -> Thành thạo Câu cá
+56. <b><font color='#AE3CDE'>Inquisitiveness Challenge</font></b>\n\n{0.SimFirstName} is growing up and realized there are a lot of Sims who existed before {0.SimPronounSubjective} {S0.was}{P0.were} even born, and also...Sims die. That's a <i>hard</i> thing to learn, but maybe if {0.SimPronounSubjective} {S0.gets}{P0.get} to know a Ghost {0.SimPronounSubjective} will come away with a new perspective on Sims. Pretty wise for a kid, huh?\n\n<b>Reward:</b> When {0.SimFirstName} grows up {0.SimPronounSubjective} will be much more successful at socializing. -> <b><font color='#AE3CDE'>Thử thách Tò mò</font></b>\n\n{0.SimFirstName} đang lớn lên và nhận ra có rất nhiều Sims tồn tại trước khi {0.SimPronounSubjective} {S0.was}{P0.were} chào đời, và còn... Sims chết. Đó là một điều <i>khó</i> để học, nhưng có lẽ nếu {0.SimPronounSubjective} {S0.gets}{P0.get} biết một Ma {0.SimPronounSubjective} sẽ có được góc nhìn mới về Sims. Khá thông minh cho một đứa trẻ, hả?\n\n<b>Phần thưởng:</b> Khi {0.SimFirstName} trưởng thành {0.SimPronounSubjective} sẽ thành công hơn nhiều trong việc xã hội hóa.
+57. Learn from the Past -> Học hỏi từ Quá khứ
+58. <b><font color='#AE3CDE'>Inquisitiveness Challenge</font></b>\n\n{0.SimFirstName} thinks space and science are the coolest! There's so much to learn and explore out there! Probably even <i>aliens</i>! Maybe someday {0.SimPronounSubjective} could make a career of it?\n\n<b>Reward:</b> When {0.SimFirstName} grows up {0.SimPronounSubjective} advance more quickly in the Astronaut and Scientist Careers. They'll also perform better when working as an Engineer. <i>(Discover University)</i> -> <b><font color='#AE3CDE'>Thử thách Tò mò</font></b>\n\n{0.SimFirstName} nghĩ không gian và khoa học là tuyệt nhất! Có rất nhiều thứ để học và khám phá ngoài kia! Có lẽ thậm chí là <i>người ngoài hành tinh</i>! Có lẽ một ngày nào đó {0.SimPronounSubjective} có thể làm sự nghiệp từ đó?\n\n<b>Phần thưởng:</b> Khi {0.SimFirstName} trưởng thành {0.SimPronounSubjective} sẽ thăng tiến nhanh hơn trong Sự nghiệp Phi hành gia và Khoa học gia. Họ cũng sẽ thực hiện tốt hơn khi làm việc như Kỹ sư. <i>(Đại học Khám phá)</i>
+59. Be Inquisitive about Science -> Tò mò về Khoa học
+60. <b><font color='#AE3CDE'>Inquisitiveness Challenge</font></b>\n\n{0.SimFirstName} found a lost Swim Team Scrapbook, and it made {0.SimPronounObjective} realize that some Sims are super swimmers! Maybe if {0.SimPronounSubjective} followed in those Sims' footsteps {0.SimPronounSubjective} could learn a thing or two from them and become the best swimmer there ever was!\n\n<b>Reward:</b> When {0.SimFirstName} grows up {0.SimPronounSubjective} will lose less Energy Need when swimming. -> <b><font color='#AE3CDE'>Thử thách Tò mò</font></b>\n\n{0.SimFirstName} tìm thấy một cuốn Nhật ký Đội bơi lội bị mất, và nó khiến {0.SimPronounObjective} nhận ra rằng một số Sims là người bơi cừ khôi! Có lẽ nếu {0.SimPronounSubjective} theo dấu chân của những Sims đó {0.SimPronounSubjective} có thể học được một hai điều từ họ và trở thành người bơi giỏi nhất từng có!\n\n<b>Phần thưởng:</b> Khi {0.SimFirstName} trưởng thành {0.SimPronounSubjective} sẽ mất ít Năng lượng hơn khi bơi lội.
+61. Follow in Their Footsteps (Swimming) -> Theo dấu chân của Họ (Bơi lội)
+62. <b><font color='#AE3CDE'>Inquisitiveness Challenge</font></b>\n\n{0.SimFirstName} found a lost "Sketches and Showpieces" scrapbook, and it made {0.SimPronounObjective} realize that so many Sims have made amazing art before {0.SimPronounSubjective} {S0.was}{P0.were} even born! Maybe if {0.SimPronounSubjective} followed in those Sims' footsteps {0.SimPronounSubjective} would learn a thing or two from them.\n\n<b>Reward:</b> When {0.SimFirstName} grows up {0.SimPronounSubjective} will advance more quickly in the Painting Skill, increase value for paintings sold, and perform better at the Freelancer career. -> <b><font color='#AE3CDE'>Thử thách Tò mò</font></b>\n\n{0.SimFirstName} tìm thấy một cuốn nhật ký "Phác thảo và Tác phẩm" bị mất, và nó khiến {0.SimPronounObjective} nhận ra rằng rất nhiều Sims đã tạo ra nghệ thuật tuyệt vời trước khi {0.SimPronounSubjective} {S0.was}{P0.were} chào đời! Có lẽ nếu {0.SimPronounSubjective} theo dấu chân của những Sims đó {0.SimPronounSubjective} sẽ học được một hai điều từ họ.\n\n<b>Phần thưởng:</b> Khi {0.SimFirstName} trưởng thành {0.SimPronounSubjective} sẽ thăng tiến nhanh hơn trong Kỹ năng Vẽ tranh, tăng giá trị cho các bức tranh bán được, và thực hiện tốt hơn trong Sự nghiệp Freelancer.
+63. Follow in Their Footsteps (Painting) -> Theo dấu chân của Họ (Vẽ tranh)
+64. <b><font color='#AE3CDE'>Inquisitiveness Challenge</font></b>\n\n{0.SimFirstName} found a lost "On Tour" scrapbook, and it made {0.SimPronounObjective} realize that so many past Sims have made a life creating amazing music! Maybe if {0.SimPronounSubjective} followed in those Sims' footsteps {0.SimPronounSubjective} could learn a thing or two from them.\n\n<b>Reward:</b> When {0.SimFirstName} grows up {0.SimPronounSubjective} will advance more quickly in Guitar, Piano, Singing and Violin Skills. They'll also receive more tips! -> <b><font color='#AE3CDE'>Thử thách Tò mò</font></b>\n\n{0.SimFirstName} tìm thấy một cuốn nhật ký "Trên Tour" bị mất, và nó khiến {0.SimPronounObjective} nhận ra rằng rất nhiều Sims trong quá khứ đã tạo ra cuộc sống với âm nhạc tuyệt vời! Có lẽ nếu {0.SimPronounSubjective} theo dấu chân của những Sims đó {0.SimPronounSubjective} có thể học được một hai điều từ họ.\n\n<b>Phần thưởng:</b> Khi {0.SimFirstName} trưởng thành {0.SimPronounSubjective} sẽ thăng tiến nhanh hơn trong Kỹ năng Guitar, Piano, Hát và Violin. Họ cũng sẽ nhận được nhiều tiền boa hơn!
+65. Follow in Their Footsteps (Music) -> Theo dấu chân của Họ (Âm nhạc)
+66. <b><font color='#866500'>Independence Challenge</font></b>\n\n{0.SimFirstName} wants to prove to {0.SimPronounReflexive} (and others) that {0.SimPronounSubjective} can feed {0.SimPronounReflexive} like a grown-up!\n\n<b>Reward:</b> When {0.SimFirstName} grows up {0.SimPronounSubjective} will advance more quickly in the Culinary Career and the Barista and Fast Food Part-Time Careers. -> <b><font color='#866500'>Thử thách Độc lập</font></b>\n\n{0.SimFirstName} muốn chứng minh với {0.SimPronounReflexive} (và người khác) rằng {0.SimPronounSubjective} có thể tự cho ăn như một người lớn!\n\n<b>Phần thưởng:</b> Khi {0.SimFirstName} trưởng thành {0.SimPronounSubjective} sẽ thăng

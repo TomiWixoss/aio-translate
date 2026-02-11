@@ -1,0 +1,100 @@
+Hmmm... {0.SimFirstName} chưa chắc về {1.ObjectName}. Có lẽ món ăn này cần được thử lại lần nữa.
+Hoan hô! {0.SimFirstName} thích {1.ObjectName}. Thử vị thành công!
+Ôi không! {0.SimFirstName} không thích {1.ObjectName}. Lần sau nên thử thứ khác...
+Thật thú vị! {0.SimFirstName} rất thích {1.ObjectName}! Luôn thật tuyệt khi khám phá một hương vị và kết cấu mới, yêu thích.
+(Từ một lời giới thiệu thất bại)
+(Từ đặc điểm tính cách Ghét Trẻ Em)
+(Từ Crying Infant dai dẳng)
+(Từ Trẻ Em Khóc)
+(Từ Bò Đi)
+(Từ Thay Tã)
+(Từ Có Tã Bẩn)
+(Từ Đặc điểm Tính Cận Thận)
+(Từ Đặc điểm Tính Cận Thận)
+(Từ Được Đưa Lên Lắc)
+(Từ Thoát Ra)
+(Từ Không Thoát Ra)
+(Từ Vợ/Chồng Khoe Con)
+(Từ Sim Khác Khoe Con)
+(Từ Nhảy Theo Nhạc)
+(Từ Quan Sát Một Vật Thể)
+(Từ Được Chăm Sóc)
+(Từ Nhận Được Sự Yêu Thương)
+(Từ Động Cơ Thấp)
+(Từ Khóc và Khóc Lóc)
+(Từ Mắc Kẹt)
+(Từ Tay Ngắn)
+{0.SimFirstName} đã bỏ học Trung học. {M0.Anh ấy}{F0.Cô ấy} sẽ không thể tham gia một số nghề nghiệp cho đến khi {M0.anh ấy}{F0.cô ấy} lấy được bằng tốt nghiệp {M0.của anh ấy}{F0.của cô ấy} trực tuyến.
+(Từ Hoàn Thành Bài tập về nhà)
+(Từ... Mà bạn biết rồi đó) 
+(Từ Gương)
+(Từ Gương)
+(Từ Được Tha Thứ)
+Thay Đổi Tính Cách
+Chúc mừng! {0.SimFirstName} đã đối mặt với Nỗi đau một cách lành mạnh, dẫn đến một sự thay đổi Tính cách.
+Thật không may {0.SimFirstName} đã không thể đối mặt với Nỗi đau theo cách hiệu quả, dẫn đến một sự thay đổi Tính cách.
+(Từ Không Thành Công Trong Việc Chửi Bới Ai Đó)
+(Từ Thành Công Trong Việc Chửi Bới Ai Đó)
+Nghe thật tệ! Tôi sẽ tự nói chuyện với {2.SimFirstName}.
+Bạn đang đùa à? {2.SimFirstName} thực sự nghĩ như vậy sao? Tôi hơi bất ngờ, nhưng sẽ nói chuyện với {F2.cô ấy}{M2.anh ấy} sớm thôi.
+Tôi hiểu mối lo của bạn {0.SimFirstName}; tôi sẽ trò chuyện với {2.SimFirstName} sớm. Tôi sẽ nói dối nếu nói là tôi không hề lo lắng khi tiếp cận {F2.cô ấy}{M2.anh ấy} sau khi nghe điều đó.
+Ồ, tôi sẽ rất muốn tìm hiểu {M2.anh ấy}{F2.cô ấy} hơn.
+{2.SimFirstName} nghe có vẻ là người tuyệt vời để ở cùng!
+Ồ {0.SimFirstName}! Tôi không biết bạn cảm thấy mạnh mẽ về {2.SimFirstName} đến thế. {F2.Cô ấy}{M2.Anh ấy} dường như là người có thể trò chuyện tốt, tôi sẽ nói chuyện với {F2.cô ấy}{M2.anh ấy} sớm.
+{2.SimFirstName} nghe có vẻ là người đáng giá. Tôi sẽ tự giới thiệu mình khi gặp {2.SimPronounObjective}.
+(Từ Được Kết Nối Với Một Sim Có Đặc điểm Trái Ngược)
+(Từ Kết nối Các Sim Có Đặc điểm Trái Ngược)
+(Từ Kết nối Các Sim Đang Trong Một Mối Quan Hệ)
+{M2.Anh ấy}{F2.Cô ấy} không thể tệ đến thế...
+Tôi hoàn toàn hiểu nếu bạn và {2.SimFirstName} có vấn đề, nhưng tôi thà bạn để tôi ra khỏi drama của bạn.
+Đó là những lời khắc nghiệt đấy, {0.SimFirstName}. Tôi không tin {2.SimFirstName} lại là người tệ như vậy.
+Chúng ta đang nói về cùng một người sao? {2.SimFirstName} và tôi có một mối quan hệ tuyệt vời, vì vậy hãy dừng việc nói xấu đi.
+Tôi không thể chịu nghe thêm nữa. Trong trường hợp bạn không biết, {2.SimFirstName} và tôi rất thân thiết; hãy dừng việc nói xấu {F2.cô ấy}{M2.anh ấy}!
+Ối {0.SimFirstName}, bạn đang nói về một trong những người bạn thân nhất của tôi đấy; dừng lại đi!
+{M2.Anh ấy}{F2.Cô ấy} không nghe có vẻ thú vị lắm.
+Này {0.SimFirstName}! Tôi đã có ý kiến về {2.SimFirstName} rồi. Mỗi lần chúng tôi ở bên nhau, chúng tôi tiếp tục căm ghét nhau nhiều hơn một chút.
+{2.SimFirstName} và tôi hiện không ở trong thời điểm tốt nhất, tôi không nghĩ đó là một ý kiến hay.
+Về điều đó... {2.SimFirstName} và tôi thường xuyên cãi vặt, tôi thà không khiến nó còn tệ hơn nữa.
+Xin lỗi {0.SimFirstName}, nhưng tôi bận rộn quá lúc này để dành thời gian tìm hiểu {2.SimFirstName} kỹ hơn.
+Sau khi nghe những gì bạn nói, tôi không cảm thấy có ý muốn trò chuyện với {2.SimFirstName}. Tôi nghĩ tôi sẽ từ chối lần này!
+Tôi không biết. {2.SimFirstName}? Bạn không thuyết phục lắm.
+Bạn đang nói về cái gì vậy? Chúng tôi đang yêu nhau!
+Chúng tôi không cần ý kiến của bạn về mối quan hệ của chúng tôi, cảm ơn rất nhiều!
+Bạn là ai mà dạy tôi phải làm gì? Tôi yêu {2.SimFirstName} và bạn sẽ không thay đổi điều đó!
+Bạn đúng, tôi có thể làm tốt hơn nhiều so với {M2.anh ấy}{F2.cô ấy}. Tôi sẽ chia tay với {2.SimFirstName} tối nay.
+Thật sao? Tôi đoán chúng tôi không phải một cặp đôi tuyệt vời. Tôi nên chấm dứt nó ngay.
+Bạn đúng, {2.SimFirstName} và tôi không phải là một sự phù hợp với nhau. Tôi sẽ nói chuyện với {F2.cô ấy}{M2.anh ấy}.
+(Từ Đặc điểm Không Sợ Băng Giá)
+Trong khi nhổ cỏ dại, {0.SimFirstName} phát hiện một con ếch trốn trong {M0.vườn của anh ấy}{F0.vườn của cô ấy}.
+Đài Phun Nước Bị Phá Hoại
+{0.SimFirstName} đã phá hoại một {1.ObjectName} và sẽ tránh lấy bất cứ thứ gì từ đó. Các Sim khác hãy đề phòng tác động của {M0.sự can thiệp của anh ấy}{F0.sự can thiệp của cô ấy} lên nội dung bên trong. 
+(Từ Uống Một Đồ Uống Cải Thiện)
+(Từ Học Các Hướng Dẫn)
+(Từ Sử Dụng Máy Tính Quá Tải)
+(Từ Gặp Gỡ Lớp Học)
+(Từ Gặp Gỡ Một Khách Hàng)
+(Từ Trò Chuyện Với Một Khách Hàng)
+(Từ Thua Một Trò Chơi Thử Thách)
+{0.SimName} đã chia sẻ một mẹo câu cá chuyên gia với {2.SimName}. {2.SimFirstName} đã học về {1.ObjectName}, một loại cá hiếm mới. {1.ObjectName} chỉ có thể bắt được với đủ kỹ năng, mồi câu phù hợp và một chút may mắn của người câu cá.\n\n{2.SimFirstName} đã ghi chú thông tin về phát hiện này vào Sổ Tay. Để tìm hiểu thêm, hãy nhấp vào bên dưới.
+{0.SimName} đã kể cho {2.SimName} về {1.ObjectName}, một loại cá mới có thể bắt được ở hồ câu ở mọi nơi.\n\n{2.SimFirstName} đã ghi chú thông tin về phát hiện này vào Sổ Tay. Để tìm hiểu thêm, hãy nhấp vào bên dưới.
+{2.SimName} đã tiết lộ cho {0.SimFirstName} một bí mật chỉ có ngư dân địa phương biết. {0.SimFirstName} đã học về {1.ObjectName}, một loại cá hiếm mới được nhìn thấy ở một số hồ câu khó tìm.\n\n{2.SimFirstName} đã ghi chú thông tin về phát hiện này vào Sổ Tay. Để tìm hiểu thêm, hãy nhấp vào bên dưới.
+{0.SimName} đã xác định {1.ObjectName}, một loại cá mới được báo cáo ở một số hồ câu, từ {2.SimName}.\n\n{0.SimFirstName} đã ghi chú thông tin về phát hiện gần đây vào Sổ Tay. Để tìm hiểu thêm, hãy nhấp vào bên dưới.
+{0.SimFirstName} đã kiểm tra nước và phát hiện một {1.ObjectName}, nhưng không phát hiện thấy bất kỳ loại cá mới nào.
+Cá ở đây di chuyển nhanh và ẩn sâu dưới mặt nước. Sau một nghiên cứu cẩn thận về các mô hình di chuyển, {0.SimFirstName} xác định {1.ObjectName} khó bắt.\n\n{0.SimFirstName} đã ghi chú thông tin về phát hiện này vào Sổ Tay. Để tìm hiểu thêm, hãy nhấp vào bên dưới.
+{0.SimFirstName} nhìn thấy những hình dạng không thể nhận diện di chuyển bên dưới mặt nước. Đây trông giống như một địa điểm tuyệt vời cho một người câu cá với năng lực của {0.SimFirstName} để thử vận may với một số con cá khó bắt.
+Nước chứa đầy hoạt động và chuyển động! {0.SimFirstName} phát hiện một con {1.ObjectName} đói chỉ đang chờ để bắt!  \n\n{0.SimFirstName} đã ghi chú thông tin về phát hiện này vào Sổ Tay. Để tìm hiểu thêm, hãy nhấp vào bên dưới.
+{0.SimName} đã bắt được một con cá mới: {1.ObjectName}\n\n{0.SimFirstName} đã ghi chú thông tin về phát hiện vào Sổ Tay. Để tìm hiểu thêm, hãy nhấp vào bên dưới.
+Có vẻ như ai đó đang kiểm soát {M0.cuộc sống của anh ấy}{F0.cuộc sống của cô ấy}. {0.SimFirstName} cuối cùng sẽ thực hiện {M0.ước mơ của anh ấy}{F0.ước mơ của cô ấy} hay người đang kiểm soát {M0.cuộc sống của anh ấy}{F0.cuộc sống của cô ấy} sẽ ngăn cản {M0.ước mơ của anh ấy}{F0.ước mơ của cô ấy} thành hiện thực?
+Tìm Hiểu Thêm Về Những Nỗi Sợ
+Ồ! Nước trông khá sâu. {0.SimFirstName} nhớ lại tất cả những trải nghiệm đáng sợ khi ở dưới nước. {F0.Cô ấy}{M0.Anh ấy} thà không trải nghiệm lại khoảng trống rộng lớn và đáng sợ đó.
+(Từ Nỗi Sợ Bơi Lội)
+(Từ Nỗi Sợ Ma Thuật)
+{0.SimFirstName} luôn tự tin vào niềm tin tâm linh của {M0.mình}{F0.mình}. Điều gì đó về lần nhìn thấy ma cuối cùng khiến {0.SimPronounObjective} lo lắng. Thấy là tin, và giờ {0.SimFirstName} không thể thoát khỏi suy nghĩ trong {M0.đầu của anh ấy}{F0.đầu của cô ấy} rằng Ma có thể ở khắp mọi nơi. Luôn quan sát, luôn sẵn sàng nhảy ra và làm {0.SimPronounObjective} hoảng sợ bất cứ lúc nào.
+(Từ Nỗi Sợ Ma)
+(Từ Nỗi Sợ Lửa)
+Lửa có thể là nguồn nhiệt thiết yếu hoặc hơi ấm dịu dàng trong một đêm lạnh giá. {0.SimFirstName} chứng kiến trực tiếp mặt hủy diệt của lửa. {0.SimFirstName} không bao giờ muốn thấy điều đó lần nữa.
+Mọi thứ dường như không đi theo cách của {0.SimFirstName} gần đây. Nó chỉ là những tin tức tồi tệ sau tin tức tồi tệ. Mọi người cứ nói "Bạn chưa bao giờ biết cho đến khi thử!" nhưng không bao giờ nói về cảm giác sau khi thử điều mới và nó không thành công. {0.SimFirstName} không thể chịu thêm thất bại nữa; nó đáng sợ và quá đau khổ để thử lại.
+(Từ Đánh Giá Hiệu Suất Công Việc)
+Cái chết là điều không thể tránh khỏi. {0.SimFirstName} biết điều đó. {0.SimFirstName} chỉ không nghĩ rằng {M0.anh ấy}{F0.cô ấy} sẽ nghĩ về nó sớm như vậy. Vẫn còn nhiều việc cần làm! {0.SimFirstName} sẽ làm mọi việc thế nào nếu cái chết chỉ ở quanh góc? Có an toàn hơn là chỉ ẩn náu mãi mãi không?!
+(Từ Kết Bạn Với Cái Chết)
+Đã bao lâu rồi? {0.SimFirstName} không thể không tự hỏi liệu sự nghiệp này có phải là đúng cho {M0.anh ấy}{F0.cô ấy} không. Một điều chắc chắn, cần có một số thay đổi, phải không?

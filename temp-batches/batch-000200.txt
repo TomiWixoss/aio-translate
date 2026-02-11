@@ -1,0 +1,100 @@
+Sử dụng máy tính để chỉnh sửa tài liệu của khách hàng -- nằm trong danh mục Freelancer.
+Chỉnh sửa tài liệu
+Sử dụng máy tính để viết báo cáo chi tiết về các lỗi ngữ pháp trong tài liệu của khách hàng -- nằm trong danh mục Freelancer.
+Viết báo cáo phản hồi
+Sử dụng máy tính để nghiên cứu từ xa hệ thống bảo mật của khách hàng và tìm ra các vector tấn công -- nằm trong danh mục Freelancer.
+Nghiên cứu hệ thống bảo mật
+Sau khi trò chuyện với khách hàng, sử dụng máy tính để thiết lập bảng tính đáp ứng yêu cầu của họ -- nằm trong danh mục Freelancer.
+Thiết lập bảng tính
+Như đã thảo luận với khách hàng của {0.SimFirstName}, sử dụng máy tính để mod game cho họ -- nằm trong danh mục Freelancer.
+Mod game
+Lấy thông tin được cung cấp trong tài liệu thiết kế của khách hàng, và sử dụng máy tính để tạo một ứng dụng di động -- nằm trong danh mục Freelancer.
+Tạo ứng dụng di động
+Lấy thông tin được cung cấp trong tài liệu thiết kế của khách hàng, và sử dụng máy tính để tạo một trò chơi video -- nằm trong danh mục Freelancer.
+Tạo trò chơi video
+Sử dụng máy tính để tạo các trang web mà khách hàng yêu cầu -- nằm trong danh mục Freelancer.
+Tạo trang web
+Sử dụng máy tính để code hai virus riêng biệt đáp ứng nhu cầu của khách hàng -- nằm trong danh mục Freelancer.
+Tạo virus
+Sử dụng máy tính để hack vào hệ thống máy chủ của khách hàng mà không bật nhóm bảo mật IT của họ -- nằm trong danh mục Freelancer.
+Hack hệ thống máy chủ
+Sử dụng máy tính để hack vào Cơ quan An ninh Quốc gia Sims -- nằm trong danh mục Freelancer.
+Hack Cơ quan An ninh Quốc gia Sims
+Sử dụng các lỗ hổng bảo mật mà {0.SimFirstName} đã xác định, sử dụng máy tính để hack vào dịch vụ hosting của khách hàng -- nằm trong danh mục Freelancer.
+Hack dịch vụ hosting
+Sử dụng máy tính để mã hóa tệp của khách hàng -- nằm trong danh mục Freelancer.
+Mã hóa tệp
+Sử dụng máy tính để viết báo cáo bảo mật phác thảo các lỗ hổng bảo mật của khách hàng -- nằm trong danh mục Freelancer.
+Viết báo cáo
+Sử dụng máy tính và nghiên cứu các hình ảnh tham khảo mà {0.SimFirstName} dự định vẽ -- nằm trong danh mục Freelancer.
+Nghiên cứu hình ảnh tham khảo
+Sử dụng máy tính để nghiên cứu tài liệu thiết kế mà khách hàng đã cung cấp -- nằm trong danh mục Freelancer.
+Nghiên cứu tài liệu thiết kế
+Sử dụng Digitalistic Sketchpad để tạo một bản giả mạo để nộp cho khách hàng -- nằm trong danh mục Freelancer.
+Tạo bản giả mạo trên Sketchpad
+Sử dụng Digitalistic Sketchpad để tạo bức tranh minh họa kích thước bất kỳ. Thực hành này sẽ giúp {0.SimFirstName} chuẩn bị cho cuộc họp với khách hàng của {M0.his}{F0.her}.
+Tạo bức tranh minh họa trên Sketchpad
+Sử dụng Digitalistic Sketchpad để tạo chân dung của Sim mà {0.SimFirstName} đã nghiên cứu hình ảnh -- nằm trong danh mục Freelancer.
+Vẽ chân dung trên Sketchpad
+Nhấp vào {0.SimFirstName} và chọn Gặp Khách hàng -- nằm trong danh mục Freelancer.
+Gặp Khách hàng
+Nhấp vào {0.SimFirstName} và chọn Gặp Lớp học -- nằm trong danh mục Freelancer.
+Gặp Lớp học
+Tìm bức tranh splash art trong kho của {0.SimFirstName} và nộp nó cho khách hàng để phê duyệt.\n\n• Nếu bức tranh của {0.SimFirstName} bị khách hàng từ chối, {M0.he}{F0.she} có thể sử dụng Digitalistic Sketchpad để Chỉnh sửa Nội dung Bị từ chối. Sau khi hoàn thành chỉnh sửa, {M0.he}{F0.she} có thể thử nộp lại nó cho khách hàng để phê duyệt.
+Lấy Phê duyệt Splash Art
+Tìm chân dung trong kho của {0.SimFirstName} và nộp nó cho khách hàng để phê duyệt.\n\n• Nếu bức tranh của {0.SimFirstName} bị khách hàng từ chối, {M0.he}{F0.she} có thể sử dụng Digitalistic Sketchpad để Chỉnh sửa Nội dung Bị từ chối. Sau khi hoàn thành chỉnh sửa, {M0.he}{F0.she} có thể thử nộp lại nó cho khách hàng để phê duyệt.
+Lấy Phê duyệt Chân dung
+Tìm logo được vẽ trong kho của {0.SimFirstName} và nộp nó cho khách hàng để phê duyệt.\n\n• Nếu bức tranh của {0.SimFirstName} bị khách hàng từ chối, {M0.he}{F0.she} có thể sử dụng Digitalistic Sketchpad để Chỉnh sửa Nội dung Bị từ chối. Sau khi hoàn thành chỉnh sửa, {M0.he}{F0.she} có thể thử nộp lại nó cho khách hàng để phê duyệt.
+Lấy Phê duyệt Logo
+Tìm các biểu tượng được vẽ trong kho của {0.SimFirstName} và nộp chúng cho khách hàng để phê duyệt.\n\n• Nếu các bức tranh của {0.SimFirstName} bị khách hàng từ chối, {M0.he}{F0.she} có thể sử dụng Digitalistic Sketchpad để Chỉnh sửa Nội dung Bị từ chối. Sau khi hoàn thành chỉnh sửa, {M0.he}{F0.she} có thể thử nộp lại chúng cho khách hàng để phê duyệt.
+Lấy Phê duyệt Biểu tượng
+Tìm bức tranh giả mạo trong kho của {0.SimFirstName} và nộp nó cho khách hàng để phê duyệt.\n\n• Nếu bức tranh của {0.SimFirstName} bị khách hàng từ chối, {M0.he}{F0.she} có thể sử dụng Digitalistic Sketchpad để Chỉnh sửa Nội dung Bị từ chối. Sau khi hoàn thành chỉnh sửa, {M0.he}{F0.she} có thể thử nộp lại nó cho khách hàng để phê duyệt.
+Lấy Phê duyệt Bản giả mạo
+Tìm các bức tranh khái niệm môi trường trong kho của {0.SimFirstName} và nộp chúng cho khách hàng để phê duyệt.\n\n• Nếu các bức tranh của {0.SimFirstName} bị khách hàng từ chối, {M0.he}{F0.she} có thể sử dụng Digitalistic Sketchpad để Chỉnh sửa Nội dung Bị từ chối. Sau khi hoàn thành chỉnh sửa, {M0.he}{F0.she} có thể thử nộp lại chúng cho khách hàng để phê duyệt.
+Lấy Phê duyệt Khái niệm Môi trường
+Tìm các bức tranh khái niệm nhân vật trong kho của {0.SimFirstName} và nộp chúng cho khách hàng để phê duyệt.\n\n• Nếu các bức tranh của {0.SimFirstName} bị khách hàng từ chối, {M0.he}{F0.she} có thể sử dụng Digitalistic Sketchpad để Chỉnh sửa Nội dung Bị từ chối. Sau khi hoàn thành chỉnh sửa, {M0.he}{F0.she} có thể thử nộp lại chúng cho khách hàng để phê duyệt.
+Lấy Phê duyệt Khái niệm Nhân vật
+Sử dụng Digitalistic Sketchpad để tạo Splash Art để nộp cho khách hàng -- nằm trong danh mục Freelancer.
+Tạo Splash Art trên Sketchpad
+Sử dụng Digitalistic Sketchpad để tạo bất kỳ phong cách tranh nào mà {0.SimFirstName} cảm thấy thoải mái khi dạy người khác.
+Tạo một bức tranh bất kỳ phong cách nào trên Sketchpad
+Sử dụng Digitalistic Sketchpad để tạo bất kỳ phong cách tranh nào mà {0.SimFirstName} nghĩ sẽ trông đẹp khi chuyển thành nghệ thuật công cộng.
+Tạo một bức tranh bất kỳ phong cách nào trên Sketchpad
+Sử dụng Digitalistic Sketchpad để tạo logo để nộp cho khách hàng -- nằm trong danh mục Freelancer.
+Tạo logo trên Sketchpad
+Sử dụng Digitalistic Sketchpad để tạo các biểu tượng khác nhau để nộp cho khách hàng -- nằm trong danh mục Freelancer.
+Tạo biểu tượng trên Sketchpad
+Sử dụng Digitalistic Sketchpad để tạo ba Khái niệm Môi trường để nộp cho khách hàng -- nằm trong danh mục Freelancer.
+Tạo Khái niệm Môi trường trên Sketchpad
+Sử dụng Digitalistic Sketchpad để tạo hai Khái niệm Nhân vật để nộp cho khách hàng -- nằm trong danh mục Freelancer.
+Tạo Khái niệm Nhân vật trên Sketchpad
+Sử dụng máy tính để trò chuyện với khách hàng của {0.SimFirstName} -- nằm trong danh mục Freelancer. Họ sẽ chia sẻ thông tin mà {M0.he}{F0.she} cần để hoàn thành công việc.
+Trò chuyện với Khách hàng
+Đạt được xếp hạng Bạc trên Sự kiện Xã hội Tiệc Sinh nhật.
+Đạt được xếp hạng Vàng trên Sự kiện Xã hội Tiệc Sinh nhật.
+Có một Sim trải qua và thoát khỏi tất cả các trạng thái cảm xúc chính trong vòng 24 giờ Sim.
+Nghe tất cả đài phát thanh và xem tất cả kênh với một Sim duy nhất.
+Chết do tuổi già.
+Lên tuổi!
+Có một Hộ gia đình đầy rẫy Ma
+Có một Sim sống lâu hơn năm người phối ngẫu.
+Hoàn thành 5 Aspiration
+Có 400 em bé với tất cả các Sim của bạn.
+Có một Sim với 12 hoặc nhiều Đặc điểm.
+Có 10 vật thể bị hỏng trên lô đất của Sim
+Giường tầng Khung kim loại
+Ngày nay, tối ưu hóa không gian cá nhân quan trọng hơn bao giờ hết. Nếu bạn đang tìm cách tối ưu hóa một căn phòng cho hai người (chỉ hai thôi?) mà không tốn kém, Giường tầng Khung kim loại là lựa chọn hoàn hảo cho bạn!\n\nQuá cơ bản? Sai! Đơn giản tối đa, chiếc giường tầng này hoàn hảo cho việc sử dụng hàng ngày... thực sự!\n\n&lt;i&gt;Lưu ý: Không khuyến nghị sử dụng cho bất kỳ mục đích nào khác ngoài ngủ.&lt;/i&gt;
+Giường tầng Mod Pod
+Bộ sưu tập Mod Pod tiếp tục phát triển! Ai cần giường tầng với một cầu thang? Như thể nào! Cầu thang song sinh là thứ bạn cần! Sống hiện đại và tiện lợi, không có gì khác nói về hiệu quả như phiên bản này của Mod Pod... chỉ cần cẩn thận không va đầu vào!
+Bị phủ rơm
+Không cỏ dại
+Cỏ dại
+Mọc um tùm
+Cỏ dại
+Tin tức
+TV Âm nhạc
+Xem TV Âm nhạc
+Mạng lưới Trẻ em
+{0.ObjectCatalogDescription}
+Bột mì
+(Từ việc bắt cá)

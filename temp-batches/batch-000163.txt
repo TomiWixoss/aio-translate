@@ -1,0 +1,100 @@
+Thêm Dạng Bóng Tối cho Ma cà rồng. Ma cà rồng sẽ chuyển sang Dạng Bóng Tối khi hút máu, chịu tác động bởi khát máu và sử dụng một số năng lực.
+Sim {0.Number}
+Đặt lại Sim giống Quá kiếp
+Chơi cùng Di truyền của Sim
+Cần có ít nhất một Sim khác còn sống trong hộ gia đình để kích hoạt Di truyền.
+Bản sắc
+Các bộ phận để Liên kết
+Bạn không thể thêm Sim mới khi đang ở chế độ Lập kế hoạch Trang phục
+Hộ gia đình đã đầy
+Bộ lọc Liên kết
+Sao chép Bộ lọc
+Bạn có chắc chắn muốn xóa Sim này không?
+Xóa Sim này
+Các bộ phận để Sao chép
+Trang phục giả trang của {0.SimName}
+Thêm Phép sư
+Thêm Ma cà rồng
+Không khả dụng khi đang trong Hướng dẫn
+Thêm Sim thông qua một Câu chuyện
+Chơi cùng Di truyền
+Thêm Sim từ Thư viện
+Thêm một Sim
+Thêm Sim mới
+Thêm Thú cưng
+Tạo giống lai
+Thêm Sim Siêu nhiên
+Thêm Chó
+Thêm Mèo
+Thêm Người ngoài hành tinh
+Bạn chỉ có thể chọn tổng cộng {0.Number} Điểm Thu hút và Điểm Gây ghét cho mỗi Sim. Hãy thử kết hợp linh hoạt!
+Phải đáp ứng tất cả yêu cầu Hộ gia đình cho Kịch bản này và không có thành viên Hộ gia đình bổ sung. Nếu bạn muốn, bạn có thể thêm các Sim khác vào Hộ gia đình sau khi bắt đầu Kịch bản này.
+Đang xóa...
+Bạn có chắc chắn muốn xóa màu tùy chỉnh này không?
+Bạn có chắc chắn muốn xóa Tông da Tùy chỉnh này không?
+Bạn có chắc chắn muốn xóa Hiệu ứng da Tùy chỉnh này không?
+Bạn có chắc chắn muốn xóa Tùy chọn Trang điểm Tùy chỉnh này không?
+Tùy chỉnh
+Tất cả
+Giọng nói
+Tông da
+Tóc
+Giới tính
+Râu ria
+Khuôn mặt
+Trang phục
+Kích cỡ cơ thể
+Hình dáng cơ thể
+Tất cả
+Phần trên
+Giày
+Trang điểm
+Mũ
+Râu ria
+Phần dưới
+Tất cả
+Ngẫu nhiên hóa
+Gỡ bỏ
+Danh mục Trang phục
+Không tìm thấy kết quả. Hãy chỉnh sửa tìm kiếm hoặc bộ lọc của bạn để xem thêm.
+Không tìm thấy kết quả. Hãy chỉnh sửa bộ lọc của bạn để xem thêm.
+Mặc trang phục
+Thử phong cách này!
+Phong cách được tạo
+Phong cách trước
+Phong cách tiếp theo
+Đặt tên cho Phong cách này!
+Tất cả trang phục phải có tên trước khi thanh toán!
+Thêm quần áo vào tượng để tạo thành một bộ trang phục!
+Tổng số mặt hàng:
+Tổng chi phí:
+Phong cách: {0.String}
+Một bộ trang phục chưa hoàn chỉnh đã ở trong giỏ hàng! \nTrang phục cần: Phần trên, Phần dưới, Giày và một Tên Phong cách!
+&lt;font color='#EC262E'&gt;Trang phục Cần: Phần trên, Phần dưới, Giày và một Tên Phong cách.&lt;/font&gt;
+Không đủ tiền
+Xóa Trang phục
+Bạn có chắc chắn muốn xóa bộ trang phục đã chọn không?
+Hết hàng! Bộ trang phục này đang được dùng cho một bộ trang phục khác!
+Tiền khả dụng:
+Thêm Trang phục
+Đặt tên cho Phong cách của bạn!
+Gothic
+Vaporwave
+Scenecore
+Llamacore
+Groovewave
+Trendi Girl
+E/girl
+Dark Academia
+Zerowave
+Mashcore
+Nocore
+Outdoorcore
+Y2K
+Neon Raver
+Kawaii
+Sleuthcore
+Cottagecore
+Đặt tên Phong cách
+Nhập Tên Phong cách...
++Thêm Tùy chỉnh...

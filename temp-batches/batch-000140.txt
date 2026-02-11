@@ -1,0 +1,100 @@
+Kích cỡ chó
+Móng guốc
+Cánh
+Trang phục
+Hình dạng lông
+Vòng cổ
+Lông ngựa
+Vết trên lông
+Thiết kế bởi
+Thêm ngựa
+{0.SimFirstName} nghỉ hưu với tư cách là {1.String|enAn}! {M0.Anh ấy}{F0.Cô ấy} sẽ nhận lương hưu hàng ngày dựa trên mức lương {M0.của anh ấy}{F0.của cô ấy} lúc nghỉ hưu. Đến lúc thư giãn rồi!
+Lương hưu của {0.SimFirstName} đã đến từ việc làm {1.String} tận tâm trong Sự nghiệp {2.String}!\n\n{3.Money} đã được chuyển trực tiếp vào Quỹ Gia đình {M0.của anh ấy}{F0.của cô ấy}.
+Nhập mô tả công việc.
+Bạn cần ít nhất một chữ cái trong chức danh công việc.
+{0.SimFirstName} có nên chuyển sang công việc {4.String} không? {F0.Cô ấy}{M0.Anh ấy} sẽ từ bỏ tất cả các vị trí hiện tại {F0.của cô ấy}{M0.của anh ấy} khi chấp nhận công việc mới.
+&lt;font color=&quot;#0949AB&quot;&gt;Lương công việc: &lt;/font&gt;&lt;font color=&quot;#10A317&quot;&gt;{0.Money} đến {1.Money}&lt;/font&gt;\n&lt;font color=&quot;#0949AB&quot;&gt;Thời gian thử giọng:&lt;/font&gt; &lt;font color=&quot;#10A317&quot;&gt;Bỏ qua được! &lt;/font&gt;\n&lt;font color=&quot;#0949AB&quot;&gt;Thời gian công việc:&lt;/font&gt; &lt;font color=&quot;#10A317&quot;&gt;{2.DayOfWeekShort} {2.TimeShort}&lt;/font&gt;\n&lt;font color=&quot;#0949AB&quot;&gt;Kỹ năng đề xuất:&lt;/font&gt;\n{3.String}
+&lt;font color=&quot;#0949AB&quot;&gt;Lương công việc:&lt;/font&gt;&lt;font color=&quot;#10A317&quot;&gt; {0.Money} đến {1.Money}&lt;/font&gt;\n&lt;font color=&quot;#0949AB&quot;&gt;Thử giọng:&lt;/font&gt;&lt;font color=&quot;#10A317&quot;&gt; {2.DayOfWeekShort} {2.TimeShort}&lt;/font&gt;\n&lt;font color=&quot;#0949AB&quot;&gt;Công việc:&lt;/font&gt;&lt;font color=&quot;#10A317&quot;&gt; {3.DayOfWeekShort} {3.TimeShort}&lt;/font&gt;\n&lt;font color=&quot;#0949AB&quot;&gt;Kỹ năng đề xuất:&lt;/font&gt; {4.String}
+Tìm việc làm
+{0.SimFirstName} có nên trở lại làm việc với tư cách là {3.String|enAn} không? {F0.Cô ấy}{M0.Anh ấy} sẽ mất quyền lợi hưu trí {F0.của cô ấy}{M0.của anh ấy} vì từng là {1.String|enAn} khi quay lại làm việc.
+&lt;font color='#ff0000'&gt;Việc từng là tuyển thủ chính thức của một đội đại học có nghĩa là vị trí chuyên nghiệp này có thể nhận ngay và sẽ đi kèm mức lương cao hơn, thăng tiến dễ dàng hơn và nhiều ngày nghỉ phép hơn.&lt;/font&gt;\n
+Tìm việc làm
+{0.SimFirstName} có nên chuyển sang hoạt động {4.String} không? {F0.Cô ấy}{M0.Anh ấy} sẽ từ bỏ vị trí hiện tại là {1.String} khi đồng ý tham gia hoạt động mới.
+Tiết lộ Ảnh
+Đăng ký Sự nghiệp của bạn
+Chức danh của bạn là gì?
+Đăng ký Sự nghiệp của bạn
+Nghỉ việc
+Bạn có chắc {0.SimFirstName} nên nghỉ việc là {2.String} không?
+Xin nghỉ phép
+Vắng mặt
+Đi làm
+{0.SimFirstName} đang hơi bận. {M0.Anh ấy}{F0.Cô ấy} vẫn nên đi làm chứ?
+Bài tập công việc: {1.String}
+{0.SimName} có nên nhận trước và chấp nhận bài tập không?
+{0.SimFirstName} biết rằng {1.SimFirstName} là {2.String|enAn}.
+Đã đến lúc {0.SimFirstName} đi làm. Bạn có muốn theo không?
+Bạn đã nhận tổng cộng §{0.Number} tiền thuê từ người thuê.\n\nSố này chưa bao gồm tiền thuê từ những người thuê đã quá hạn. Hãy kiểm tra bảng Doanh nghiệp Sở hữu để xem người thuê nào hiện đang quá hạn.
+Thuê đã thu được!
+Trong lúc bạn vắng mặt, hộ gia đình này đã nhận tiền thuê và tổng cộng §{0.Number} đã được nhận.\n\nSố này chưa bao gồm tiền thuê từ Người thuê đang quá hạn. Hãy kiểm tra bảng Doanh nghiệp Sở hữu để xem người thuê nào hiện đang quá hạn.
+Kỷ niệm lãng mạn
+Kỷ niệm truyền cảm hứng
+Kỷ niệm tự tin
+Kỷ niệm tức giận
+Kỷ niệm xấu hổ
+Kỷ niệm đáng sợ
+Kỷ niệm buồn bã
+Kỷ niệm hạnh phúc
+Ghen tị
+Hay là thế? Sim cuối cùng trong hộ gia đình này đã chết, nhưng bạn có thể tạo thêm Sim, chọn một hộ gia đình hiện có để chơi, hoặc chuyển một hộ gia đình khác từ Thư viện.
+Chứng kiến cái chết
+Cái chết của người cao tuổi
+Đói!
+Lãng mạn
+Về nhà
+Hài hước
+Ngủ
+Tiệc tùng
+Thay đồ
+Trang phục chính thức
+Trang phục hàng ngày
+Sự nghiệp
+Thể thao
+La hét
+Bỏ việc
+Cách chức
+Yêu cầu đi chơi
+Giao Pizza
+Người giúp việc
+với {0.Money}/giờ
+Không phí.
+với {0.Money}
+với {0.Money} cộng {1.Money}/giờ
+Có vẻ như nơi này hôm nay không cần dịch vụ của tôi. Tôi sẽ đi tiếp khách hàng khác.
+Tôi không làm không công đâu. Nếu bạn muốn tôi giúp lần nữa, bạn nên trả hóa đơn {1.Money} mà tôi sẽ gửi đi.
+Có vẻ như tôi xong việc ở đây rồi. Tổng cộng là {0.Money}.
+Được rồi, tôi nghĩ mình sẽ dừng làm đây. Phí của tôi sẽ là {0.Money}.
+Vậy là tôi xong việc rồi. Phí của tôi sẽ là {0.Money}.
+Nài xin {2.SimFirstName}
+Thêm lựa chọn
+{1.SimFirstName} không thể bị làm phiền lúc này.
+Lãng mạn
+Phát bài hát
+Ác
+Đàn viôlông
+Đàn piano
+Đàn guitar
+Cấp phép bài hát
+Hài hước
+Thân thiện
+Làm ác với {1.SimFirstName}
+Làm thân thiện
+Sửa chữa
+Đặt vào kho đồ
+Đặt xuống
+Đặt vào nơi để đồ
+Mở
+Đối tượng này hiện đang trống.
+Thu thập
+Dọn dẹp
+Dọn dẹp

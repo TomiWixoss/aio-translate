@@ -1,0 +1,100 @@
+Mặt Trăng của Người Bị Áp Bức
+Kẻ Đi Nhờ
+Ồ, Khoa Học!
+Đang Chờ
+Một Kết Quả Cận Kề
+Vươn Đến Mặt Trăng
+Não Đã Ổn Định!
+Để Robot Chịu Rủi Ro
+Cập Nhật Hệ Thống?
+Sách Giáo Khoa Đại Học
+Trẻ Nhỏ
+Cảm ơn đã đặt hàng! Các vật thể đã mua có thể được tìm thấy trong tủ sách bạn đã mua chúng.
+Trẻ Em
+Giả Tưởng
+Lãng Mạn
+Thơ
+Khoa Học Viễn Tưởng
+Phi Tưởng Tượng
+Tập Luyện (Vượt Quá Giới Hạn)
+Xô Đẩy
+Đá Vòng Tròn
+Thúc Hông
+Huấn Luyện Commando
+Huấn Luyện Commando (Vượt Quá Giới Hạn)
+Thực Hành Tích Cực
+Thực Hành Đấm
+Thực Hành Đấm (Vượt Quá Giới Hạn)
+Thùng Tích Cực (Vượt Quá Giới Hạn)
+{0.SimName} quá mệt mỏi để tập luyện ngay bây giờ.
+Thùng (Vượt Quá Giới Hạn)
+Nôn Mửa
+Giẫm Lên
+Chơi Trong
+Quét Sàn Điên Cuồng!
+Quét
+Sử Dụng Phòng Tắm
+Tắm
+Nôn
+{0.SimFirstName} cần kỹ năng Lập Trình cấp độ 4 để thêm nâng cấp này.
+{0.SimFirstName} cần kỹ năng Lập Trình cấp độ 3 để thêm nâng cấp này.
+{0.SimFirstName} cần kỹ năng Lập Trình cấp độ 2 để thêm nâng cấp này.
+Lấy Tất Cả Phần Ăn
+Thử Thách Để Tử Tế
+Bơi Vòng Trong Tức Giận
+Bơi Vòng Vèo Vui Vẻ
+Bơi Vòng Vèo Buồn Bã
+Tiểu Trong Hồ Bơi
+Tiểu Trong Đại Dương
+Vào Trong
+{0.SimFirstName} không thể thực hiện hành động này khi nước đã đóng băng!
+Sim chỉ có thể câu cá ở đây một khi hồ đã được thả cá. Đặt biển báo Cho Phép Câu Cá từ Chế Độ Xây Dựng trong nước này và sau đó sử dụng nó để thêm cá.
+Suy Ngẫm Về Các Động Tác
+Xem {1.SimFirstName}
+Chơi Cùng {1.SimFirstName}
+Chơi Cùng Đồ Chơi
+Nhìn Đồ Chơi
+Trượt
+Không thể làm điều này khi đang mang vật gì đó. 
+(Từ Việc Trượt Xuống Cầu Trượt)
+(Từ Việc Trượt với Tư Thế Làm Sim Ma Quái)
+(Từ Việc Trượt với Tư Thế Làm Sim Trẻ Con)
+Đừng Làm Điều Này.
+Trượt Xuống Cầu Trượt Nóng Rực
+(Từ Việc Xem Trẻ Em Trượt)
+Chơi Trong
+Biến Hình Thành PlantSim
+Hấp Thụ Năng Lượng Mặt Trời Từ Cây
+Lên Kế Hoạch Trang Phục
+Lên Kế Hoạch Trang Phục
+Xây Dựng Bảng Phong Cách trước, bằng cách thu thập Ấn Tượng để thêm vào vật thể.
+Nhặt Lên
+Đặt Hàng Giao Hàng
+Thuê Dịch Vụ
+{2.String}
+Túi Mang Lưng Trẻ Em Ưa Thích
+Lối Chơi Chung
+Thành Viên Bầy Đồng
+Kiểu Đi
+Bạn Bầy Đồng
+Sở Thích Vật Thể Lối Chơi
+Tùy Chọn Giới Tính
+Kiểu Đuôi
+Đặt Làm Túi Mang Lưng Ưa Thích
+Xóa Mối Quan Hệ Bit
+Thêm Mối Quan Hệ Bit
+Thả Cá Vào Hồ
+Sim chỉ có thể thả cá vào hồ với những con cá họ đã khám phá trong Bộ Sưu Tập Gia Đình. {0.SimFirstName} không có cá nào trong bộ sưu tập của {M0.his}{F0.her}! Hãy thử lại sau khi {0.SimFirstName} tìm thấy một số cá.
+Gỡ Lỗi: Quản Lý Cá
+Chọn những con cá bạn muốn thả vào hồ này. Khám phá thêm cá trong Bộ Sưu Tập Gia Đình của bạn để có thêm tùy chọn!
+Quản Lý Cá Trong Hồ
+Mua Cây Cảnh Sống.
+Lá
+Bền
+Nhiệt Đới
+Dây Leo
+Yêu Cầu Đồ Chơi Từ Hộp Đồ Chơi
+Lấy Đồ Chơi Từ Hộp Cho Trẻ Em
+Ăn Cơm
+Hiện Đang Đặt Làm Túi Mang Lưng Ưa Thích
+Xóa Moodlet

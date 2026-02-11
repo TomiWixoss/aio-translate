@@ -1,0 +1,466 @@
+Chúng ta sẽ dịch toàn bộ nội dung từ tiếng Anh sang tiếng Việt, tuân thủ các yêu cầu: không dịch các từ "The Sims 4", "Sims", "Sim", "Social Bunny", "EA app", "Gallery", giữ nguyên thẻ HTML, biến {0.String}, ký tự đặc biệt. Trả về đúng số dòng.
+
+Phân tích: Đây là danh sách các tác phẩm nghệ thuật, vật dụng trang trí trong The Sims 4. Cần dịch chúng một cách sáng tạo nhưng vẫn giữ ý nghĩa gốc. Lưu ý: Một số đoạn có thẻ HTML như <font color='#199C2C'>, cần giữ nguyên. Các biến {0.String} không có trong đoạn này, nhưng có thể có sau, cần giữ nguyên nếu có. Ký tự đặc biệt như &quot; cần chuyển thành ".
+
+Chúng ta sẽ dịch từng mục, đảm bảo không thêm hay bớt dòng. Số dòng trong gốc là 46 dòng (tính cả các dòng trống và thẻ HTML). Cần trả về đúng 46 dòng.
+
+Kiểm tra: Đoạn đầu có "Stickiness is harsh white lines..." đến "Mochi Booger Parade." rồi "Cloud Space Thing" ... Cuối cùng là "Bunker Be Bright Wall Light." Có một số dòng chỉ là tên, một số có mô tả. Cần giữ nguyên cấu trúc.
+
+Dịch:
+
+1. "Stickiness is harsh white lines on a glutinous peach and blueberry dessert. Texture is a sharp and fleeting sensorial dance. What is edible becomes re-edible. Mochi Booger Parade. A new painting by new age artist/chef/writer StickiMo." 
+Dịch: "Độ Dính là những đường trắng dữ dội trên món tráng miệng hồng đào và việt quất nhũn. Kết cấu là điệu nhảy cảm giác sắc bén và thoáng qua. Điều có thể ăn được trở nên có thể ăn lại. Đám Rước Ch són Mochi. Một bức tranh mới của nghệ sĩ/đầu bếp/người viết thời mới StickiMo."
+
+2. "Cloud Space Thing" giữ nguyên? Không phải tên cần dịch? Đây là tên tác phẩm, nên dịch: "Đám Cụm Mây Không Gian" nhưng có thể giữ nguyên "Cloud Space Thing" vì là tên? Trong game, thường dịch tên. Tuy nhiên, hướng dẫn không nói rõ tên có dịch hay không. Ta sẽ dịch tên nếu có thể, nhưng một số tên có thể giữ nguyên nếu là thuật ngữ. Ở đây, "Cloud Space Thing" dịch là "Đám Cụm Mây Không Gian". Tuy nhiên, cần thống nhất: dịch hết tên? Xem các tên khác: "Snow Falling on Cinders Abstract Art" dịch là "Nghệ Thuật Trừu Tượng Tuyết Rơi Trên Than". Vậy ta dịch tên.
+
+3. "A meditation of creation and balance set against a backdrop of cosmic wonder. Princess Cordelia's astronomers were forced to scour the skies until they found a nebula in the shape of her favorite horse. Nearby, a fire raged on."
+Dịch: "Một sự thiền định về sự sáng tạo và cân bằng trên nền vũ trụ kỳ diệu. Các nhà thiên văn của Công Chúa Cordelia buộc phải dò tìm bầu trời cho đến khi họ tìm thấy một tinh vân có hình dạng con ngựa yêu thích của cô. Gần đó, một đám cháy đang dữ dội."
+
+4. "Snow Falling on Cinders Abstract Art" dịch: "Nghệ Thuật Trừu Tượng Tuyết Rơi Trên Than"
+
+5. "This mesmerizing masterpiece was inspired by the world-famous forest fire that destroyed thousands of acres in the 1920s. A study of dark and light, sobriety and celebration, this piece is profound."
+Dịch: "Kiệt tác mê hoặc này được lấy cảm hứng từ đám cháy rừng nổi tiếng thế giới đã phá hủy hàng ngàn mẫu đất vào những năm 1920. Một nghiên cứu về sự tối và sáng, sự điềm tĩnh và sự tưng bừng, tác phẩm này sâu sắc."
+
+6. "Unlocked at level 9 of the Tech Guru career while in the Start-up branch." 
+Dịch: "Mở khóa ở cấp 9 của nghề nghiệp Chuyên Gia Công Nghệ khi ở nhánh Khởi Động."
+
+7. "Unlock by reaching level 9 of the Tech Guru career while in the Start-up branch." 
+Dịch: "Mở khóa bằng cách đạt cấp 9 của nghề nghiệp Chuyên Gia Công Nghệ khi ở nhánh Khởi Động." (Lưu ý: hai dòng này giống hệt, nhưng trong gốc có hai dòng riêng? Trong đoạn trên, có "Unlocked at level 9..." rồi "Unlock by reaching level 9...". Thực tế, có thể chỉ một dòng, nhưng ở đây in thành hai? Trong user input, có hai dòng: "Unlocked at level 9 of the Tech Guru career while in the Start-up branch." và "Unlock by reaching level 9 of the Tech Guru career while in the Start-up branch." Vậy ta giữ hai dòng dịch tương ứng.)
+
+8. "Light of My Life Painting" dịch: "Bức Tranh Ánh Sáng Cuộc Đời Tôi"
+
+9. "At the end of every dark tunnel is a ray of light. This radiant painting ensures you don’t forget it."
+Dịch: "Ở cuối mỗi đường hầm tối là một tia sáng. Bức tranh rực rỡ này đảm bảo bạn không quên điều đó."
+
+10. "Birds of a Feather Print Set" dịch: "Bộ In Họa Tiết Chim"
+
+11. "Express your love for nature with this charming collection of bird prints. Each fanciful feathered friend is a treasure, but flocked together, they are the epitome of contemporary chick-chic."
+Dịch: "Thể hiện tình yêu thiên nhiên của bạn với bộ sưu tập in chim quyến rũ này. Mỗi người bạn có lông phong cách là một kho báu, nhưng khi tụ thành đàn, chúng là hiện thân của phong cách gà con đương thời."
+
+12. "Viva More of La Landscape" dịch: "Phong Cảnh La Viva Nhiều Hơn"
+
+13. "Transport yourself completely to a historic country village with this large, sweeping, lifelike landscape. Offering a broader view than Viva La Landscape , Viva More of La Landscape reveals the full fountain in all its thundering grandeur, and a convenient, charming hotel beyond."
+Dịch: "Mang bạn hoàn toàn đến một ngôi làng nông thôn lịch sử với phong cảnh sống động, rộng lớn này. Cung cấp góc nhìn rộng hơn so với Phong Cảnh La Viva, Phong Cảnh La Viva Nhiều Hơn tiết lộ toàn bộ đài phun nước trong vẻ hoành tráng vang dội, và một khách sạn tiện lợi, quyến rũ ở phía sau."
+
+14. "Floral Revelation " dịch: "Sự Tiết Lộ Hoa"
+
+15. "Picture yourself lying in a field of sunflowers, gazing up at the brilliant blue of the sky. A migraine is coming on, but you are too relaxed to mind. Instead, you admire how the sparkling pre-headache aura dances across the merry yellow petals of the flowers, which arch delightedly toward the warmth of the summer sun. Now keep the picture."
+Dịch: "Hình dung bạn nằm trong một cánh đồng hoa hướng dương, ngước nhìn bầu trời xanh rực rỡ. Một cơn đau đầu sắp ập đến, nhưng bạn quá thư giãn để quan tâm. Thay vào đó, bạn ngắm nhìn cách hào quang lấp lánh trước cơn đau đầu múa may trên những cánh hoa vàng vui tươi của bông hoa, which arch delightedly toward the warmth of the summer sun. Giữ nguyên hình ảnh này."
+
+Lưu ý: "which arch delightedly toward the warmth of the summer sun" dịch: "được uốn cong vui thích hướng về hơi ấm của mặt trời hè."
+
+16. "Ceci N’est Pas Une Poire" dịch: "Đây Không Phải Là Một Quả Lê" (giữ nguyên tiếng Pháp)
+
+17. "So much more than a still life, this elegant painting piques the appetite with the softly lit curves of its tantalizing fruit. Smooth, firm golden pears bump up against the flirtatious pink petals of a carefully arranged bouquet, which nestles contentedly on a bed of white linen."
+Dịch: "Nhiều hơn rất nhiều so với một bức tranh tĩnh vật, bức tranh thanh lịch này kích thích thèm ăn với những đường cong quyến rũ của trái cây được chiếu sáng nhẹ nhàng. Những quả lê vàng mịn, cứng chắc va chạm vào những cánh hoa hồng đượm tình của một bó hoa được sắp xếp cẩn thận, which nestles contentedly on a bed of white linen. Dịch: "được đặt yên lặng trên một lớp vải trắng."
+
+18. "Coq au Peinture" dịch: "Gà Trống Trong Tranh"
+
+19. "Nothing cheers up a home like a gallant coq. Jolly, proud and bursting with character, this friendly fellow brings a smile to everyone he greets. Admire him from across the room or step in close to absorb his finer details."
+Dịch: "Không gì làm một ngôi nhà vui vẻ như một chú gà trống hào hoa. Vui tươi, tự hào và tràn đầy tính cách, người bạn thân thiện này mang nụ cười đến cho mọi người chào đón. Ngắm nhìn anh ta từ phía bên kia phòng hay bước lại gần để cảm nhận những chi tiết tinh tế hơn."
+
+20. "Viva La Landscape" dịch: "Phong Cảnh La Viva"
+
+21. "Transport yourself to the beautiful countryside! Just one glance at this landscape, and you will feel as if your entire home has been whisked off on a romantic getaway. Lounge in the spacious square, savor the mist of the fountain on your skin, revel in the majestic chimes of the clock, and feel your heart skip into the hills beyond."
+Dịch: "Mang bạn đến vùng nông thôn xinh đẹp! Chỉ cần một cái liếc nhìn phong cảnh này, và bạn sẽ cảm thấy như ngôi nhà của bạn đã bị cuốn đi trong một chuyến đi lãng mạn. Thư giãn trong quảng trường rộng rãi, thưởng thức làn sương từ đài phun nước trên da, tận hưởng những tiếng chuông vang vọng của đồng hồ, và cảm giác trái bạn nhảy vào những ngọn đồi phía xa."
+
+22. "Superasymmetry" dịch: "Siêu Bất Đối Xứng"
+
+23. "Not all scientists advocate string theory to explain our universe. But all interior designers think this artful depiction of quantum mechanics would go awesome with your wallpaper."
+Dịch: "Không phải tất cả các nhà khoa học đều ủng hộ lý thuyết dây để giải thích vũ trụ của chúng ta. Nhưng tất cả các nhà thiết kế nội thất đều nghĩ rằng bức tranh nghệ thuật này về cơ học lượng tử sẽ rất tuyệt với giấy dán tường của bạn."
+
+24. "The Amour-propre" dịch: "Lòng Tự Yêu"
+
+25. "Reclamation Homeware truly understands art. Art is simply defined as man’s last hope to crawl out from the shadows of fact and expose himself to the piercing light of infinity. It challenges us to climb mental ladders and dive into unknown expanses of self. Plus, ours is made of garbage!"
+Dịch: "Reclamation Homeware thực sự hiểu nghệ thuật. Nghệ thuật được định nghĩa đơn giản là hy vọng cuối cùng của con người để bò ra khỏi bóng tối của sự thật và phơi bày bản thân dưới ánh sáng xuyên thấu của vô tận. Nó thách thức chúng ta leo những chiếc thang tư duy và lặn sâu vào những vùng lãnh thổ chưa được khám phá của bản thân. Hơn nữa, của chúng tôi được làm từ rác!"
+
+26. "The Recondite" dịch: "Điều Bí Ẩn"
+
+27. "Proof is a prison from which curiosity languishes and dies, its limp arm dangling between the bars of its cell where it once stretched toward the light of freedom. Art is the key that unlocks the cell door and liberates our captive minds, daring them to run as fast as they can."
+Dịch: "Chứng cứ là một nhà tù nơi sự tò mò mòn mỏi và chết, cánh tay mềm yếu của nó đung đưa giữa các thanh sắt của phòng giam nơi nó từng vươn tới ánh sáng tự do. Nghệ thuật là chìa khóa mở cánh cửa phòng giam và giải phóng những tâm trí bị bắt giữ của chúng ta, dám cho chúng chạy nhanh nhất có thể."
+
+28. "Rock My Universe Pinup Girl" dịch: "Cô Gái Pinup Lắc Động Vũ Trụ Của Tôi"
+
+29. "Blast off to your happy place with every glance at this devilish pinup. 3…2…1. See? You’re smiling."
+Dịch: "Phóng lên nơi hạnh phúc của bạn với mỗi cái liếc nhìn vào cô gái pinup quỷ quyệt này. 3...2...1. Thấy chưa? Bạn đang cười."
+
+30. "The Intrepid" dịch: "Người Dũng Cảm"
+
+31. "Too often we force ourselves to label what we see, what we hear, taste and touch. Here is a painting. Is it a good painting? Before you apply that label, consider that definition destroys exploration, allows us to sit back and dust off our hands and say “all done.” Art is never done being art!"
+Dịch: "Quá thường xuyên, chúng ta ép bản thân dán nhãn những gì chúng ta thấy, nghe, nếm và chạm. Đây là một bức tranh. Đó có phải là một bức tranh tốt không? Trước khi bạn dán nhãn đó, hãy cân nhắc rằng định nghĩa phá hủy sự khám phá, cho phép chúng ta ngồi lại và phủi tay nói "xong rồi". Nghệ thuật chưa bao giờ là xong với tư cách là nghệ thuật!"
+
+32. "#1 Mom Wall Decal" dịch: "Tranh Dán Tường Mẹ Số 1"
+
+33. "The only thing kids love more than trees is cotton candy! Your child will be the envy of all when you decorate his room with cotton candy trees! 
+Dịch: "Điều duy nhất trẻ em yêu thích hơn cây là kẹo bông! Con bạn sẽ là người ghen tị của tất cả khi bạn trang trí phòng của nó với những cây kẹo bông!"
+
+34. "Baby Bunny Nursery Art" dịch: "Nghệ Thuật Trẻ Em Thỏ Con"
+
+35. "This adorable little rabbit is so lifelike, you can almost see its nose twitching. What, what’s that? What does it smell? Oh, of course. Diapers!"
+Dịch: "Chú thỏ dễ thương này sống động đến mức bạn có thể thấy mũi nó giật giật. Gì, đó là gì? Nó ngửi thấy gì? À, tất nhiên. Tã!"
+
+36. "Baby Bug Nursery Art" dịch: "Nghệ Thuật Trẻ Em Châu Chấu"
+
+37. "Did you know that the average ladybug can eat 5,000 other bugs in its lifetime? We think that’s why her eyes are bulging. The artist captured this happy little critter on bug 4,999. Darling!"
+Dịch: "Bạn có biết rằng một con bọ cánh cứng trung bình có thể ăn 5,000 con bọ khác trong đời nó không? Chúng tôi nghĩ đó là lý do tại sao mắt cô ấy phồng to. Nghệ sĩ đã bắt trọn chú vật nhỏ vui vẻ này vào con bọ thứ 4,999. Dễ thương!"
+
+38. ""Working for Peanuts" Wall Painting" dịch: "Tranh Tường "Làm Việc Vì Đậu Phộng""
+
+39. "A portrait of a cheerful elephant to enliven your nursery or playroom."
+Dịch: "Một bức chân dung của chú voi vui vẻ để làm sống động phòng trẻ hay phòng chơi."
+
+40. "Baby Dino Nursery Art" dịch: "Nghệ Thuật Trẻ Em Khủng Long Con"
+
+41. "Give your baby a window into prehistoric times with this charming little dinosaur painting. Reduced to 0.3% of its actual size, this pleasing herbivore is as harmless as they come, but we locked it behind glass just to be safe."
+Dịch: "Cho bé một cửa sổ vào thời tiền sử với bức tranh khủng long dễ thương này. Thu nhỏ xuống 0.3% kích thước thực tế, loài thực vật ăn cỏ dễ thích này vô hại như bất kỳ ai, nhưng chúng tôi đã khóa nó sau tấm kính để đảm bảo an toàn."
+
+42. "Portrait of Lady Mimsy Alcorn Shallot in the Garden" dịch: "Chân Dung Lady Mimsy Alcorn Shallot trong Vườn"
+
+43. "<font color='#199C2C'>&lt;From the Reaper's Rewards Event&lt;/font&gt;\n\nA portrait of Lady Mimsy Alcorn Shallot enjoying an afternoon in the gardens of the Von Haunt estate. Some people say they've seen the painting move, but that's probably just an urban legend, right?"
+Dịch: "<font color='#199C2C'>&lt;Từ Sự Kiện Phần Thưởng Của Tử Thần&lt;/font&gt;\n\nMột bức chân dung của Lady Mimsy Alcorn Shallot tận hưởng một buổi chiều trong khu vườn của dinh thự Von Haunt. Một số người nói rằng họ đã thấy bức tranh di chuyển, nhưng có lẽ đó chỉ là một huyền thoại đô thị, phải không?"
+
+44. "Visions of Home" dịch: "Cảnh Quan Gia Đình"
+
+45. "Family, friends, the countryside, the buildings and the roads you grow to know so well—these are all familiar memories of home. Enjoy warmth in color, displays of everyday life, and scenes of the world around you in a collection inspired by a life in West Africa."
+Dịch: "Gia đình, bạn bè, vùng nông thôn, các tòa nhà và con đường bạn dần quen thuộc—tất cả đều là những ký ức quen thuộc về nhà. Tận hưởng sự ấm áp trong màu sắc, những màn trình diễn cuộc sống hàng ngày, và cảnh quan thế giới xung quanh bạn trong một bộ sưu tập được lấy cảm hứng từ cuộc sống ở Tây Phi."
+
+46. "A Recipe for Good Times by Mohammed Iman Fayaz" dịch: "Một Công Thức Cho Những Khoảnh Khắc Tốt Đẹp của Mohammed Iman Fayaz"
+
+47. "Every family has their own recipe, a recipe for the good times. In every family there is some sweetness, some tenderness, some silliness, and last but not least - some love. No matter the order, it is what makes a family your family, and the one you love - and loves you back!"
+Dịch: "Mỗi gia đình có công thức riêng của họ, một công thức cho những khoảnh khắc tốt đẹp. Trong mỗi gia đình có một chút ngọt ngào, một chút dịu dàng, một chút ngớ ngẩn, và cuối cùng nhưng không kém phần quan trọng - một chút tình yêu. Bất kể thứ tự, đó là điều làm nên một gia đình là gia đình của bạn, và người bạn yêu - và yêu bạn lại!"
+
+48. "Bembe Maraj's Hand-Woven Tapestry" dịch: "Thảm Dệt Tay của Bembe Maraj"
+
+49. "The intricate tapestries hand-woven by Bembe Maraj are world-renowned for their use of color, design, and story. Each is carefully inlaid with a vision of his past—though, to most sims, these stories remain hidden behind geometric motif and vibrant colors."
+Dịch: "Những tấm thảm tinh xảo được dệt tay bởi Bembe Maraj nổi tiếng thế giới về việc sử dụng màu sắc, thiết kế và câu chuyện. Mỗi tấm được khéo léo khảm với một tầm nhìn về quá khứ của ông—dù, với hầu hết các sim, những câu chuyện này vẫn ẩn sau họa tiết hình học và màu sắc rực rỡ."
+
+50. "Stride With Pride By Jupiter Stevens-Hill" dịch: "Bước Đi Tự Hào Của Jupiter Stevens-Hill"
+
+51. "Celebrate Pride bringing the parade to your Lot with this beautiful piece by the talented Jupiter Stevens-Hill (MidnightFox452). This piece commemorates the values of diversity and inclusion of this historical and important event in a fun and colorful composition matching the spirit of the celebration!\n\nWe hope that you enjoy it as much as we do and display it proudly in your Lot!"
+Dịch: "Tận hưởng ngày Pride bằng cách mang lễ diễu hành đến Lô đất của bạn với tác phẩm đẹp này của nghệ sĩ tài ba Jupiter Stevens-Hill (MidnightFox452). Tác phẩm tôn vinh các giá trị đa dạng và bao trùm của sự kiện lịch sử và quan trọng này trong một bố cục vui nhộn và đầy màu sắc phù hợp với tinh thần lễ kỷ niệm!\n\nChúng tôi hy vọng bạn thích nó như chúng tôi và trưng bày nó một cách tự hào trên Lô đất của bạn!"
+
+52. "Unlocked by completing Tier 4 Of the Positivity Challenge Aspiration " dịch: "Mở khóa bằng cách hoàn thành Cấp 4 Của Khát Vọng Thử Thách Tích Cực"
+
+53. "Unlock by completing Tier 4 of the Positivity Challenge Aspiration. Only available while challenge is active." 
+Dịch: "Mở khóa bằng cách hoàn thành Cấp 4 của Khát Vọng Thử Thách Tích Cực. Chỉ có sẵn khi thử thách đang hoạt động."
+
+54. "Unlocked by completing Tier 3 Of the Positivity Challenge Aspiration " dịch: "Mở khóa bằng cách hoàn thành Cấp 3 Của Khát Vọng Thử Thách Tích Cực"
+
+55. "Golf Flag" dịch: "Cờ Golf"
+
+56. "A decorative golf flag."
+Dịch: "Một lá cờ golf trang trí."
+
+57. "Littlest Neighborhood Library" dịch: "Thư Viện Hàng Xóm Nhỏ Nhất"
+
+58. "<font color='#199C2C'>&lt;From the Deck the Palms Event&lt;/font&gt;\n\nSharing is caring and that's what this little Library is about. Share your favorite novels with your neighbors or stash them away to make room for more books. They'll never know!"
+Dịch: "<font color='#199C2C'>&lt;Từ Sự Kiện Trang Trí Cây Cọ&lt;/font&gt;\n\nChia sẻ là quan tâm và đó là điều thư viện nhỏ này mang lại. Chia sẻ tiểu thuyết yêu thích của bạn với hàng xóm hoặc cất giấu chúng để có chỗ cho thêm sách. Họ sẽ không bao giờ biết!"
+
+59. "lipstickGEN_01" giữ nguyên (không dịch, là mã định danh).
+
+60. "lipstickGEN_01" giữ nguyên.
+
+61. "Lip Balm" dịch: "Dưỡng Môi"
+
+62. "Apply directly to the lips." dịch: "Thoa trực tiếp lên môi."
+
+63. "Lip Balm Lid" dịch: "Nắp Dưỡng Môi"
+
+64. "A lid for your lip balm." dịch: "Một chiếc nắp cho dưỡng môi của bạn."
+
+65. "Plank Perfection Wall Light" dịch: "Đèn Tường Tấm Gỗ Hoàn Hảo"
+
+66. "Embrace the beauty of a simple plank and let its gorgeous symmetry shine forth. Recommended for extremely narrow hallways, small rooms, and other places where space is at a premium."
+Dịch: "Ôm lấy vẻ đẹp của một tấm gỗ đơn giản và để sự đối xứng tuyệt đẹp của nó tỏa sáng. Khuyến nghị cho hành lang cực kỳ hẹp, phòng nhỏ và những nơi khác không gian là quý giá."
+
+67. "Beam Team Vanity Light" dịch: "Đèn Gương Đội Đội Phản Quang"
+
+68. "In a good relationship, the spotlight is shared, so this intelligent light fixture provides not one, not three, not five lights, but two-the perfect number, the ultimate balance:  a light for each loving party, held together by a cold metal box."
+Dịch: "Trong một mối quan hệ tốt, ánh sáng được chia sẻ, vì vậy bóng đèn thông minh này không cung cấp một, ba, hay năm đèn, mà là hai—con số hoàn hảo, sự cân bằng tối thượng: một ánh sáng cho mỗi bên yêu thương, được giữ cùng nhau bởi một chiếc hộp kim loại lạnh lẽo."
+
+69. "Lightbox Wall Fixture" dịch: "Đèn Tường Hộp Ánh Sáng"
+
+70. "Add a splash of light to any wall with this casual modern sconce. Cascading down from a brushed nickel box, the slightly flared linen shade evokes angled rays of light, but adds nothing more, being minimal and all."
+Dịch: "Thêm một đợt ánh sáng vào bất kỳ bức tường nào với đèn tường hiện đại giản dị này. Chảy xuống từ một chiếc hộp nickel chà mài, chiếc chụp đèn lanh láng hơi phình gợi hình ảnh những tia sáng xiên, nhưng không thêm bất cứ điều gì hơn, tối giản và tất cả."
+
+71. "Long John Buttercups Wall Sconce" dịch: "Đèn Tường Long John Buttercups"
+
+72. "Whenever Princess Cordelia's Submarine dove or rose, she enjoyed watching the lights briefly flicker. This particular lamp was named after Princess Cordelia's first pirate boyfriend, Captain Long John Buttercups. He always said this sconce reminded him of his old galleon."
+Dịch: "Bất cứ khi nào Tàu Ngầm của Công Chúa Cordelia lặn hay nổi, cô thích xem những bóng đèn lóe lên thoáng qua. Đèn này được đặt tên theo bạn trai cướp biển đầu tiên của Công Chúa Cordelia, Đại Cá Long John Buttercups. Anh ta luôn nói rằng đèn tường này nhắc anh ta về chiếc tàu cổ của mình."
+
+73. "Old Life Gas Lamp" dịch: "Đèn Khí Cuộc Sống Cũ"
+
+74. "When Princess Cordelia designed this lamp, she was feeling nostalgic for the land she left behind. While sitting in the workshop on her submersible, the Eppsilon, she thought of the dimly-lit gas lights that lined the streets and the silhouettes of women in long dresses and men in top hats walking by. Sigh."
+Dịch: "Khi Công Chúa Cordelia thiết kế chiếc đèn này, cô đang cảm thấy hoài niệm về vùng đất đã để lại. Trong khi ngồi trong xưởng trên tàu ngầm của mình, chiếc Eppsilon, cô nghĩ về những chiếc đèn khí mờ ảo dọc theo các con phố và hình bóng của những người phụ nữ trong váy dài và đàn ông đội mũ chóp cao đang đi ngang qua. Than thở."
+
+75. "Sea Glass Wall Sconce" dịch: "Đèn Tường Thủy Tinh Biển"
+
+76. "The glass of this wall sconce was once clear and crisp. A special machine on the Lady Cordelia’s Submarine processes the glass and gives it this opaque, soft feel. The machine blasts the glass with sand, salt, and steam which weathers this sconce in the same way as natural sea glass."
+Dịch: "Thủy tinh của đèn tường này từng trong và sắc. Một cỗ máy đặc biệt trên Tàu Ngầm Lady Cordelia xử lý thủy tinh và cho nó cảm giác mờ đục, mềm mại này. Cỗ máy phun cát, muối và hơi nước lên thủy tinh, làm cho đèn tường này bị phong hóa giống như thủy tinh biển tự nhiên."
+
+77. "Cast Iron Flood Light" dịch: "Đèn Chiếu Sáng Sắt Đúc"
+
+78. "It can get dark under the sea, particularly when pirates keep toppling into your lamps. This cast iron wall sconce is nearly indestructible, especially when mounted above hat-level. It casts a light so intense that Princess Cordelia’s 2nd pirate boyfriend was known to use it for tanning, until she dumped him for being so vain."
+Dịch: "Nó có thể trở nên tối dưới biển, đặc biệt khi các cướp biển liên tục đổ vào đèn của bạn. Đèn tường sắt đúc này gần như không thể phá hủy, đặc biệt khi lắp phía trên mức độ mũ. Nó phát ra ánh sáng mạnh đến mức bạn trai cướp biển thứ hai của Công Chúa Cordelia được biết đến là sử dụng nó để tắm nắng, cho đến khi cô bỏ anh ta vì quá tự mãn."
+
+79. "Anemone Wall Sconce" dịch: "Đèn Tường Hải Sâm"
+
+80. "Princess Cordelia was known to lounge by a tide pool for hours, just watching the fragile beauty entrapped within. One of her favorite creatures was the anemone, its petal-like tentacles waving innocently as it waited to ensnare its lunch. With subtle curls and an organic, unassuming form, this elegant wall sconce was created in the anemone’s honor."
+Dịch: "Công Chúa Cordelia được biết đến là nằm dài bên một vũng nước triều cực kỳ nhiều giờ, chỉ để xem vẻ đẹp mong manh bị nhốt bên trong. Một trong những sinh vật yêu thích của cô là hải sâm, những chiếc xúc tu giống cánh hoa vẫy vùng vẫy vô tội khi nó chờ đợi để bẫy con mồi. Với những đường cong tinh tế và hình dạng hữu cơ, giản dị, đèn tường thanh lịch này được tạo ra để vinh danh hải sâm."
+
+81. "Tunicate Wall Sconce" dịch: "Đèn Tường Lớp"
+
+82. "If you can't live under the sea like Princess Cordelia, bring the ocean life to you! The Tunicate Wall Sconce is modeled after one of the most beautiful types of sea sponges. It was Princess Cordelia's favorite sconce. She often parked her submarine outside a reef and just soaked in the sea life, metaphorically."
+Dịch: "Nếu bạn không thể sống dưới biển như Công Chúa Cordelia, hãy mang cuộc sống đại dương đến với bạn! Đèn Tường Lớp được mô hình hóa sau một trong những loài bọt biển đẹp nhất. Đó là đèn tường yêu thích của Công Chúa Cordelia. Cô thường đậu tàu ngầm của mình bên ngoài một rạn san hô và chỉ ngâm mình trong cuộc sống biển, theo nghĩa bóng."
+
+83. "Beauty in a Box Mission Lighting" dịch: "Đèn Nhiệm Vụ Vẻ Đẹp Trong Hộp"
+
+84. "Never has a simple box contained so much beauty. With slender slats running up, down and straight across its glowing white interior, this Mission-style wall sconce adds a touch of classic elegance to your dining or living space."
+Dịch: "Chưa bao giờ một chiếc hộp đơn giản chứa đựng nhiều vẻ đẹp đến thế. Với những thanh dọc mảnh chạy lên, xuống và ngang qua phần trắng sáng bên trong, đèn tường phong cách Nhiệm vụ này thêm một chút thanh lịp cổ điển vào không gian ăn uống hoặc sinh hoạt của bạn."
+
+85. "Angling for Light Candle Sconce" dịch: "Đèn Tường Nến Để Mưu Cầu Ánh Sáng"
+
+86. "The true artisan craftsmanship of this wall sconce is made ever more apparent by the faux-candle fixture behind its angled frame. At once elegant and rustic, its gentle flickering light creates just the right ambiance for Mission-style homes of unparalleled taste."
+Dịch: "Sự thủ công thực thụ của đèn tường này trở nên rõ rệt hơn nhờ bộ đèn nến giả đằng sau khung xiên. Vừa thanh lịch vừa mộc mạc, ánh sáng lấp lánh dịu dàng của nó tạo ra bầu không khí phù hợp cho những ngôi nhà phong cách Nhiệm vụ có hương vị không đối thủ."
+
+87. "The Harmonic " dịch: "Điều Hài Hòa"
+
+88. "Birthed from recycled didgeridoo parts, the Harmonic tube light fuses the glow of tomorrow’s purpose with the essential vibrations of what has come to pass. Witness that middle space. Be an instrument. Find the bathroom in the middle of the night. The Harmonic, by Reclamation Homeware."
+Dịch: "Ra đời từ các bộ phận didgeridoo tái chế, đèn ống Hài Hòa kết hợp sự phát sáng của mục đích ngày mai với rung động thiết yếu của quá khứ. Chứng kiến không gian trung tính đó. Trở thành một nhạc cụ. Tìm thấy phòng tắm giữa đêm. Hài Hòa, của Reclamation Homeware."
+
+89. "Kid's Wall Light" dịch: "Đèn Tường Trẻ Em"
+
+90. "Worried about the “tone” in your kids’ room? Lighten up with this awesome wall light!"
+Dịch: "Lo lắng về "tông màu" trong phòng trẻ em của bạn? Làm sáng lên với đèn tường tuyệt vời này!"
+
+91. "The Cage Outdoor Lighting" dịch: "Đèn Ngoài Trời Lồng"
+
+92. "You never can tell when someone will steal your light. Constructed of rugged, unyielding metal, this theft-proof iron cage puts your lighting literally behind bars-a blunt reminder of what will happen should anyone think of taking it."
+Dịch: "Bạn chưa bao giờ biết khi nào ai đó sẽ đánh cắp ánh sáng của bạn. Được xây dựng từ kim loại cứng rắn, không khoan nhượng, lồng sắt chống trộm này đặt đèn của bạn thực sự sau thanh sắt—một lời nhắc nhở trực tiếp về điều sẽ xảy ra nếu ai đó nghĩ đến việc lấy nó."
+
+93. "The Cutlass of Light" dịch: "Thanh Đơn Của Ánh Sáng"
+
+94. "Disguised as modern lighting design, this beautiful light doubles as a secret weapon. Of course, you may need some practice channeling its power. It’s a slippery slope to darkness."
+Dịch: "Cải trang thành thiết kế đèn hiện đại, ánh sáng đẹp này đồng thời là một vũ khí bí mật. Tất nhiên, bạn có thể cần một số luyện tập để dẫn dắt sức mạnh của nó. Đó là một con dốc trơn trượt tới bóng tối."
+
+95. "Naked Truth Fluorescent Light" dịch: "Đèn Huỳnh Quang Sự Thật Trần Trụi"
+
+96. "This blindingly bright light doubles as a white noise machine since its low hum is actually somewhat soothing."
+Dịch: "Ánh sáng chói lóa này đồng thời là một máy tạo tiếng ồn trắng vì tiếng rì rầm thấp của nó thực sự có phần an ủi."
+
+97. "Unforgiving Light Wall Sconce" dịch: "Đèn Tường Ánh Sáng Không Khoan Nhượng"
+
+98. "Frigid steel, icy glass, and the cold, cold glow of LED lighting casts clarity on all who pass beneath. Unfinished styling complements our full industrial collection, for the ultimate in urban chic."
+Dịch: "Thép lạnh, kính băng giá, và ánh sáng lạnh lẽo của đèn LED chiếu ra sự rõ ràng cho tất cả những ai đi qua bên dưới. Phong cách chưa hoàn thiện bổ sung cho bộ sưu tập công nghiệp đầy đủ của chúng tôi, cho sự sang chảnh đô thị tối thượng."
+
+99. "Bunker Be Bright Wall Light" dịch: "Đèn Tường Bunker Sáng Sủa"
+
+100. "If your space is devoid of natural light, get the next best thing: the Bunker Be Bright. Not even pretending to be attractive, these steel-caged monstrosities cast a cold fluorescent glow that doubles as a repellant against zombies and vampires."
+Dịch: "Nếu không gian của bạn thiếu ánh sáng tự nhiên, hãy lấy thứ tốt nhất tiếp theo: Bunker Be Bright. Thậm chí không giả vờ hấp dẫn, những quái vật lồng thép này phát ra ánh sáng huỳnh quang lạnh có thể đóng vai trò là chất xua đuổi xác sống và ma cà rồng."
+
+Kiểm tra số dòng: Trong user input, có 46 dòng? Đếm: từ "Stickiness is harsh white lines..." đến cuối cùng "Bunker Be Bright Wall Light." Nhưng có một số dòng trống? Trong user input, sau mỗi mô tả, có thể có dòng trống? Thực tế, đoạn user input là một khối liền, nhưng ta thấy có các dòng cách nhau bằng xuống dòng. Ta đã dịch thành từng dòng riêng, nhưng có thể một số mục có nhiều dòng. Ta cần đảm bảo số dòng đầu ra bằng số dòng đầu vào.
+
+Xem lại user input: nó có dạng:
+Stickiness is harsh white lines on a glutinous peach and blueberry dessert. Texture is a sharp and fleeting sensorial dance. What is edible becomes re-edible. Mochi Booger Parade. A new painting by new age artist/chef/writer StickiMo.
+Cloud Space Thing
+A meditation of creation and balance set against a backdrop of cosmic wonder. Princess Cordelia's astronomers were forced to scour the skies until they found a nebula in the shape of her favorite horse. Nearby, a fire raged on.
+Snow Falling on Cinders Abstract Art
+This mesmerizing masterpiece was inspired by the world-famous forest fire that destroyed thousands of acres in the 1920s. A study of dark and light, sobriety and celebration, this piece is profound.
+Unlocked at level 9 of the Tech Guru career while in the Start-up branch.
+Unlock by reaching level 9 of the Tech Guru career while in the Start-up branch.
+Light of My Life Painting
+At the end of every dark tunnel is a ray of light. This radiant painting ensures you don’t forget it.
+Birds of a Feather Print Set
+Express your love for nature with this charming collection of bird prints. Each fanciful feathered friend is a treasure, but flocked together, they are the epitome of contemporary chick-chic.
+Viva More of La Landscape
+Transport yourself completely to a historic country village with this large, sweeping, lifelike landscape. Offering a broader view than Viva La Landscape , Viva More of La Landscape reveals the full fountain in all its thundering grandeur, and a convenient, charming hotel beyond.
+Floral Revelation 
+Picture yourself lying in a field of sunflowers, gazing up at the brilliant blue of the sky. A migraine is coming on, but you are too relaxed to mind. Instead, you admire how the sparkling pre-headache aura dances across the merry yellow petals of the flowers, which arch delightedly toward the warmth of the summer sun. Now keep the picture.
+Ceci N’est Pas Une Poire
+So much more than a still life, this elegant painting piques the appetite with the softly lit curves of its tantalizing fruit. Smooth, firm golden pears bump up against the flirtatious pink petals of a carefully arranged bouquet, which nestles contentedly on a bed of white linen.
+Coq au Peinture
+Nothing cheers up a home like a gallant coq. Jolly, proud and bursting with character, this friendly fellow brings a smile to everyone he greets. Admire him from across the room or step in close to absorb his finer details.
+Viva La Landscape
+Transport yourself to the beautiful countryside! Just one glance at this landscape, and you will feel as if your entire home has been whisked off on a romantic getaway. Lounge in the spacious square, savor the mist of the fountain on your skin, revel in the majestic chimes of the clock, and feel your heart skip into the hills beyond.
+Superasymmetry
+Not all scientists advocate string theory to explain our universe. But all interior designers think this artful depiction of quantum mechanics would go awesome with your wallpaper.
+The Amour-propre
+Reclamation Homeware truly understands art. Art is simply defined as man’s last hope to crawl out from the shadows of fact and expose himself to the piercing light of infinity. It challenges us to climb mental ladders and dive into unknown expanses of self. Plus, ours is made of garbage!
+The Recondite
+Proof is a prison from which curiosity languishes and dies, its limp arm dangling between the bars of its cell where it once stretched toward the light of freedom. Art is the key that unlocks the cell door and liberates our captive minds, daring them to run as fast as they can.
+Rock My Universe Pinup Girl
+Blast off to your happy place with every glance at this devilish pinup. 3…2…1. See? You’re smiling.
+The Intrepid
+Too often we force ourselves to label what we see, what we hear, taste and touch. Here is a painting. Is it a good painting? Before you apply that label, consider that definition destroys exploration, allows us to sit back and dust off our hands and say “all done.” Art is never done being art!
+#1 Mom Wall Decal
+The only thing kids love more than trees is cotton candy! Your child will be the envy of all when you decorate his room with cotton candy trees! 
+Baby Bunny Nursery Art
+This adorable little rabbit is so lifelike, you can almost see its nose twitching. What, what’s that? What does it smell? Oh, of course. Diapers!
+Baby Bug Nursery Art
+Did you know that the average ladybug can eat 5,000 other bugs in its lifetime? We think that’s why her eyes are bulging. The artist captured this happy little critter on bug 4,999. Darling!
+"Working for Peanuts" Wall Painting
+A portrait of a cheerful elephant to enliven your nursery or playroom.
+Baby Dino Nursery Art
+Give your baby a window into prehistoric times with this charming little dinosaur painting. Reduced to 0.3% of its actual size, this pleasing herbivore is as harmless as they come, but we locked it behind glass just to be safe.
+Portrait of Lady Mimsy Alcorn Shallot in the Garden
+<font color='#199C2C'>From the Reaper's Rewards Event</font>\n\nA portrait of Lady Mimsy Alcorn Shallot enjoying an afternoon in the gardens of the Von Haunt estate. Some people say they've seen the painting move, but that's probably just an urban legend, right?
+Visions of Home
+Family, friends, the countryside, the buildings and the roads you grow to know so well—these are all familiar memories of home. Enjoy warmth in color, displays of everyday life, and scenes of the world around you in a collection inspired by a life in West Africa.
+A Recipe for Good Times by Mohammed Iman Fayaz
+Every family has their own recipe, a recipe for the good times. In every family there is some sweetness, some tenderness, some silliness, and last but not least - some love. No matter the order, it is what makes a family your family, and the one you love - and loves you back!
+Bembe Maraj's Hand-Woven Tapestry
+The intricate tapestries hand-woven by Bembe Maraj are world-renowned for their use of color, design, and story. Each is carefully inlaid with a vision of his past—though, to most sims, these stories remain hidden behind geometric motif and vibrant colors.
+Stride With Pride By Jupiter Stevens-Hill
+Celebrate Pride bringing the parade to your Lot with this beautiful piece by the talented Jupiter Stevens-Hill (MidnightFox452). This piece commemorates the values of diversity and inclusion of this historical and important event in a fun and colorful composition matching the spirit of the celebration!\n\nWe hope that you enjoy it as much as we do and display it proudly in your Lot!
+Unlocked by completing Tier 4 Of the Positivity Challenge Aspiration 
+Unlock by completing Tier 4 of the Positivity Challenge Aspiration. Only available while challenge is active.
+Unlocked by completing Tier 3 Of the Positivity Challenge Aspiration 
+Golf Flag
+A decorative golf flag.
+Littlest Neighborhood Library
+<font color='#199C2C'>From the Deck the Palms Event</font>\n\nSharing is caring and that's what this little Library is about. Share your favorite novels with your neighbors or stash them away to make room for more books. They'll never know!
+lipstickGEN_01
+lipstickGEN_01
+Lip Balm
+Apply directly to the lips.
+Lip Balm Lid
+A lid for your lip balm.
+Plank Perfection Wall Light
+Embrace the beauty of a simple plank and let its gorgeous symmetry shine forth. Recommended for extremely narrow hallways, small rooms, and other places where space is at a premium.
+Beam Team Vanity Light
+In a good relationship, the spotlight is shared, so this intelligent light fixture provides not one, not three, not five lights, but two-the perfect number, the ultimate balance:  a light for each loving party, held together by a cold metal box.
+Lightbox Wall Fixture
+Add a splash of light to any wall with this casual modern sconce. Cascading down from a brushed nickel box, the slightly flared linen shade evokes angled rays of light, but adds nothing more, being minimal and all.
+Long John Buttercups Wall Sconce
+Whenever Princess Cordelia's Submarine dove or rose, she enjoyed watching the lights briefly flicker. This particular lamp was named after Princess Cordelia's first pirate boyfriend, Captain Long John Buttercups. He always said this sconce reminded him of his old galleon.
+Old Life Gas Lamp
+When Princess Cordelia designed this lamp, she was feeling nostalgic for the land she left behind. While sitting in the workshop on her submersible, the Eppsilon, she thought of the dimly-lit gas lights that lined the streets and the silhouettes of women in long dresses and men in top hats walking by. Sigh.
+Sea Glass Wall Sconce
+The glass of this wall sconce was once clear and crisp. A special machine on the Lady Cordelia’s Submarine processes the glass and gives it this opaque, soft feel. The machine blasts the glass with sand, salt, and steam which weathers this sconce in the same way as natural sea glass.
+Cast Iron Flood Light
+It can get dark under the sea, particularly when pirates keep toppling into your lamps. This cast iron wall sconce is nearly indestructible, especially when mounted above hat-level. It casts a light so intense that Princess Cordelia’s 2nd pirate boyfriend was known to use it for tanning, until she dumped him for being so vain.
+Anemone Wall Sconce
+Princess Cordelia was known to lounge by a tide pool for hours, just watching the fragile beauty entrapped within. One of her favorite creatures was the anemone, its petal-like tentacles waving innocently as it waited to ensnare its lunch. With subtle curls and an organic, unassuming form, this elegant wall sconce was created in the anemone’s honor.
+Tunicate Wall Sconce
+If you can't live under the sea like Princess Cordelia, bring the ocean life to you! The Tunicate Wall Sconce is modeled after one of the most beautiful types of sea sponges. It was Princess Cordelia's favorite sconce. She often parked her submarine outside a reef and just soaked in the sea life, metaphorically.
+Beauty in a Box Mission Lighting
+Never has a simple box contained so much beauty. With slender slats running up, down and straight across its glowing white interior, this Mission-style wall sconce adds a touch of classic elegance to your dining or living space.
+Angling for Light Candle Sconce
+The true artisan craftsmanship of this wall sconce is made ever more apparent by the faux-candle fixture behind its angled frame. At once elegant and rustic, its gentle flickering light creates just the right ambiance for Mission-style homes of unparalleled taste.
+The Harmonic 
+Birthed from recycled didgeridoo parts, the Harmonic tube light fuses the glow of tomorrow’s purpose with the essential vibrations of what has come to pass. Witness that middle space. Be an instrument. Find the bathroom in the middle of the night. The Harmonic, by Reclamation Homeware.
+Kid's Wall Light
+Worried about the “tone” in your kids’ room? Lighten up with this awesome wall light!
+The Cage Outdoor Lighting
+You never can tell when someone will steal your light. Constructed of rugged, unyielding metal, this theft-proof iron cage puts your lighting literally behind bars-a blunt reminder of what will happen should anyone think of taking it.
+The Cutlass of Light
+Disguised as modern lighting design, this beautiful light doubles as a secret weapon. Of course, you may need some practice channeling its power. It’s a slippery slope to darkness.
+Naked Truth Fluorescent Light
+This blindingly bright light doubles as a white noise machine since its low hum is actually somewhat soothing.
+Unforgiving Light Wall Sconce
+Frigid steel, icy glass, and the cold, cold glow of LED lighting casts clarity on all who pass beneath. Unfinished styling complements our full industrial collection, for the ultimate in urban chic. 
+Bunker Be Bright Wall Light
+If your space is devoid of natural light, get the next best thing: the Bunker Be Bright. Not even pretending to be attractive, these steel-caged monstrosities cast a cold fluorescent glow that doubles as a repellant against zombies and vampires.
+
+Đếm số dòng: Từ "Stickiness is harsh white lines..." đến "Bunker Be Bright Wall Light." có khoảng 46 dòng? Thực tế, mỗi mục có 2 dòng (tên và mô tả) nhưng có mục có 3 dòng (ví dụ có thẻ HTML). Ta cần giữ nguyên số dòng. Trong user input, có các dòng trống giữa các mục không? Trong đoạn trên, sau mỗi mô tả, có thể có dòng trống trước tên mục tiếp theo? Trong user input, nó được trình bày liên tục, nhưng ta thấy có xuống dòng. Để đơn giản, ta sẽ coi mỗi đoạn văn bản (kể cả dòng trống) là một dòng. Tuy nhiên, trong user input, có vẻ không có dòng trống giữa các mục, mà mỗi mục bắt đầu bằng tên (một dòng) rồi đến mô tả (một hoặc nhiều dòng). Ví dụ mục đầu: dòng 1: "Stickiness is harsh white lines..." (đó là mô tả, nhưng trước đó có tên "Stickiness" không? Thực ra, tên là "Stickiness is harsh white lines on a glutinous peach and blueberry dessert. Texture is a sharp and fleeting sensorial dance. What is edible becomes re-edible. Mochi Booger Parade. A new painting by new age artist/chef/writer StickiMo."? Có vẻ như tên là "Stickiness" nhưng trong user input, nó viết liền mô tả. Ta cần xác định: trong game, mỗi vật phẩm có tên và mô tả riêng. Ở đây, tên thường là dòng đầu tiên của mỗi mục, sau đó là mô tả. Ví dụ: "Stickiness is harsh white lines on a glutinous peach and blueberry dessert. Texture is a sharp and fleeting sensorial dance. What is edible becomes re-edible. Mochi Booger Parade. A new painting by new age artist/chef/writer StickiMo." có thể là tên và mô tả kết hợp? Nhưng trong user input, nó viết liền. Có lẽ đây là một mục duy nhất với một đoạn văn dài. Tuy nhiên, sau đó là "Cloud Space Thing" trên một dòng mới, vậy "Cloud Space Thing" là tên mục tiếp theo.
+
+Vậy cấu trúc: Mỗi mục bắt đầu bằng một dòng là tên (có thể gồm nhiều câu), sau đó là các dòng mô tả, rồi đến mục khác. Có một số mục chỉ có tên và không có mô tả? Không, hầu hết có mô tả.
+
+Để đếm chính xác, ta có thể đếm số lần xuất hiện của các tên (như "Cloud Space Thing", "Snow Falling on Cinders Abstract Art", etc.) nhưng cũng có các dòng như "Unlocked at level 9..." là mô tả riêng.
+
+Có thể số dòng trong user input là 46 dòng? Ta sẽ dịch và giữ số dòng bằng cách xuống dòng sau mỗi dòng trong user input. Tức là, nếu user input có một dòng, ta dịch thành một dòng; nếu có hai dòng, ta dịch thành hai dòng, v.v.
+
+Trong user input, có các dòng kết thúc bằng \n, nhưng khi paste vào đây, nó có thể được gộp. Ta sẽ giả sử rằng mỗi đoạn cách nhau bởi một dòng trống là một dòng mới? Thực tế, trong user input, sau "Mochi Booger Parade. A new painting by new age artist/chef/writer StickiMo." có ngay "Cloud Space Thing" trên dòng tiếp theo, không có dòng trống. Vậy không có dòng trống giữa các mục.
+
+Vậy ta sẽ dịch từng dòng trong user input, nhưng user input có nhiều dòng. Để trả về đúng số dòng, ta cần biết chính xác user input có bao nhiêu dòng. Tuy nhiên, trong yêu cầu, nói "Trả về đúng số dòng", nghĩa là số dòng đầu ra phải bằng số dòng đầu vào. Vì vậy, ta phải đếm số dòng trong user input.
+
+Đếm thủ công: từ "Stickiness is harsh white lines..." đến cuối cùng. Tôi sẽ đếm:
+
+1. Stickiness is harsh white lines on a glutinous peach and blueberry dessert. Texture is a sharp and fleeting sensorial dance. What is edible becomes re-edible. Mochi Booger Parade. A new painting by new age artist/chef/writer StickiMo.
+2. Cloud Space Thing
+3. A meditation of creation and balance set against a backdrop of cosmic wonder. Princess Cordelia's astronomers were forced to scour the skies until they found a nebula in the shape of her favorite horse. Nearby, a fire raged on.
+4. Snow Falling on Cinders Abstract Art
+5. This mesmerizing masterpiece was inspired by the world-famous forest fire that destroyed thousands of acres in the 1920s. A study of dark and light, sobriety and celebration, this piece is profound.
+6. Unlocked at level 9 of the Tech Guru career while in the Start-up branch.
+7. Unlock by reaching level 9 of the Tech Guru career while in the Start-up branch.
+8. Light of My Life Painting
+9. At the end of every dark tunnel is a ray of light. This radiant painting ensures you don’t forget it.
+10. Birds of a Feather Print Set
+11. Express your love for nature with this charming collection of bird prints. Each fanciful feathered friend is a treasure, but flocked together, they are the epitome of contemporary chick-chic.
+12. Viva More of La Landscape
+13. Transport yourself completely to a historic country village with this large, sweeping, lifelike landscape. Offering a broader view than Viva La Landscape , Viva More of La Landscape reveals the full fountain in all its thundering grandeur, and a convenient, charming hotel beyond.
+14. Floral Revelation 
+15. Picture yourself lying in a field of sunflowers, gazing up at the brilliant blue of the sky. A migraine is coming on, but you are too relaxed to mind. Instead, you admire how the sparkling pre-headache aura dances across the merry yellow petals of the flowers, which arch delightedly toward the warmth of the summer sun. Now keep the picture.
+16. Ceci N’est Pas Une Poire
+17. So much more than a still life, this elegant painting piques the appetite with the softly lit curves of its tantalizing fruit. Smooth, firm golden pears bump up against the flirtatious pink petals of a carefully arranged bouquet, which nestles contentedly on a bed of white linen.
+18. Coq au Peinture
+19. Nothing cheers up a home like a gallant coq. Jolly, proud and bursting with character, this friendly fellow brings a smile to everyone he greets. Admire him from across the room or step in close to absorb his finer details.
+20. Viva La Landscape
+21. Transport yourself to the beautiful countryside! Just one glance at this landscape, and you will feel as if your entire home has been whisked off on a romantic getaway. Lounge in the spacious square, savor the mist of the fountain on your skin, revel in the majestic chimes of the clock, and feel your heart skip into the hills beyond.
+22. Superasymmetry
+23. Not all scientists advocate string theory to explain our universe. But all interior designers think this artful depiction of quantum mechanics would go awesome with your wallpaper.
+24. The Amour-propre
+25. Reclamation Homeware truly understands art. Art is simply defined as man’s last hope to crawl out from the shadows of fact and expose himself to the piercing light of infinity. It challenges us to climb mental ladders and dive into unknown expanses of self. Plus, ours is made of garbage!
+26. The Recondite
+27. Proof is a prison from which curiosity languishes and dies, its limp arm dangling between the bars of its cell where it once stretched toward the light of freedom. Art is the key that unlocks the cell door and liberates our captive minds, daring them to run as fast as they can.
+28. Rock My Universe Pinup Girl
+29. Blast off to your happy place with every glance at this devilish pinup. 3…2…1. See? You’re smiling.
+30. The Intrepid
+31. Too often we force ourselves to label what we see, what we hear, taste and touch. Here is a painting. Is it a good painting? Before you apply that label, consider that definition destroys exploration, allows us to sit back and dust off our hands and say “all done.” Art is never done being art!
+32. #1 Mom Wall Decal
+33. The only thing kids love more than trees is cotton candy! Your child will be the envy of all when you decorate his room with cotton candy trees! 
+34. Baby Bunny Nursery Art
+35. This adorable little rabbit is so lifelike, you can almost see its nose twitching. What, what’s that? What does it smell? Oh, of course. Diapers!
+36. Baby Bug Nursery Art
+37. Did you know that the average ladybug can eat 5,000 other bugs in its lifetime? We think that’s why her eyes are bulging. The artist captured this happy little critter on bug 4,999. Darling!
+38. "Working for Peanuts" Wall Painting
+39. A portrait of a cheerful elephant to enliven your nursery or playroom.
+40. Baby Dino Nursery Art
+41. Give your baby a window into prehistoric times with this charming little dinosaur painting. Reduced to 0.3% of its actual size, this pleasing herbivore is as harmless as they come, but we locked it behind glass just to be safe.
+42. Portrait of Lady Mimsy Alcorn Shallot in the Garden
+43. <font color='#199C2C'>From the Reaper's Rewards Event</font>\n\nA portrait of Lady Mimsy Alcorn Shallot enjoying an afternoon in the gardens of the Von Haunt estate. Some people say they've seen the painting move, but that's probably just an urban legend, right?
+44. Visions of Home
+45. Family, friends, the countryside, the buildings and the roads you grow to know so well—these are all familiar memories of home. Enjoy warmth in color, displays of everyday life, and scenes of the world around you in a collection inspired by a life in West Africa.
+46. A Recipe for Good Times by Mohammed Iman Fayaz
+47. Every family has their own recipe, a recipe for the good times. In every family there is some sweetness, some tenderness, some silliness, and last but not least - some love. No matter the order, it is what makes a family your family, and the one you love - and loves you back!
+48. Bembe Maraj's Hand-Woven Tapestry
+49. The intricate tapestries hand-woven by Bembe Maraj are world-renowned for their use of color, design, and story. Each is carefully inlaid with a vision of his past—though, to most sims, these stories remain hidden behind geometric motif and vibrant colors.
+50. Stride With Pride By Jupiter Stevens-Hill
+51. Celebrate Pride bringing the parade to your Lot with this beautiful piece by the talented Jupiter Stevens-Hill (MidnightFox452). This piece commemorates the values of diversity and inclusion of this historical and important event in a fun and colorful composition matching the spirit of the celebration!\n\nWe hope that you enjoy it as much as we do and display it proudly in your Lot!
+52. Unlocked by completing Tier 4 Of the Positivity Challenge Aspiration 
+53. Unlock by completing Tier 4 of the Positivity Challenge Aspiration. Only available while challenge is active.
+54. Unlocked by completing Tier 3 Of the Positivity Challenge Aspiration 
+55. Golf Flag
+56. A decorative golf flag.
+57. Littlest Neighborhood Library
+58. <font color='#199C2C'>From the Deck the Palms Event</font>\n\nSharing is caring and that's what this little Library is about. Share your favorite novels with your neighbors or stash them away to make room for more books. They'll never know!
+59. lipstickGEN_01
+60. lipstickGEN_01
+61. Lip Balm
+62. Apply directly to the lips.
+63. Lip Balm Lid
+64. A lid for your lip balm.
+65. Plank Perfection Wall Light
+66. Embrace the beauty of a simple plank and let its gorgeous symmetry shine forth. Recommended for extremely narrow hallways, small rooms, and other places where space is at a premium.
+67. Beam Team Vanity Light
+68. In a good relationship, the spotlight is shared, so this intelligent light fixture provides not one, not three, not five lights, but two-the perfect number, the ultimate balance:  a light for each loving party, held together by a cold metal box.
+69. Lightbox Wall Fixture
+70. Add a splash of light to any wall with this casual modern sconce. Cascading down from a brushed nickel box, the slightly flared linen shade evokes angled rays of light, but adds nothing more, being minimal and all.
+71. Long John Buttercups Wall Sconce
+72. Whenever Princess Cordelia's Submarine dove or rose, she enjoyed watching the lights briefly flicker. This particular lamp was named after Princess Cordelia's first pirate boyfriend, Captain Long John Buttercups. He always said this sconce reminded him of his old galleon.
+73. Old Life Gas Lamp
+74. When Princess Cordelia designed this lamp, she was feeling nostalgic for the land she left behind. While sitting in the workshop on her submersible, the Eppsilon, she thought of the dimly-lit gas lights that lined the streets and the silhouettes of women in long dresses and men in top hats walking by. Sigh.
+75. Sea Glass Wall Sconce
+76. The glass of this wall sconce was once clear and crisp. A special machine on the Lady Cordelia’s Submarine processes the glass and gives it this opaque, soft feel. The machine blasts the glass with sand, salt, and steam which weathers this sconce in the same way as natural sea glass.
+77. Cast Iron Flood Light
+78. It can get dark under the sea, particularly when pirates keep toppling into your lamps. This cast iron wall sconce is nearly indestructible, especially when mounted above hat-level. It casts a light so intense that Princess Cordelia’s 2nd pirate boyfriend was known to use it for tanning, until she dumped him for being so vain.
+79. Anemone Wall Sconce
+80. Princess Cordelia was known to lounge by a tide pool for hours, just watching the fragile beauty entrapped within. One of her favorite creatures was the anemone, its petal-like tentacles waving innocently as it waited to ensnare its lunch. With subtle curls and an organic, unassuming form, this elegant wall sconce was created in the anemone’s honor.
+81. Tunicate Wall Sconce
+82. If you can't live under the sea like Princess Cordelia, bring the ocean life to you! The Tunicate Wall Sconce is modeled after one of the most beautiful types of sea sponges. It was Princess Cordelia's favorite sconce. She often parked her submarine outside a reef and just soaked in the sea life, metaphorically.
+83. Beauty in a Box Mission Lighting
+84. Never has a simple box contained so much beauty. With slender slats running up, down and straight across its glowing white interior, this Mission-style wall sconce adds a touch of classic elegance to your dining or living space.
+85. Angling for Light Candle Sconce
+86. The true artisan craftsmanship of this wall sconce is made ever more apparent by the faux-candle fixture behind its angled frame. At once elegant and rustic, its gentle flickering light creates just the right ambiance for Mission-style homes of unparalleled taste.
+87. The Harmonic 
+88. Birthed from recycled didgeridoo parts

@@ -1,0 +1,100 @@
+Trang Phục Đầy Đủ
+Tính Cách
+Bạn có chắc chắn muốn rời chế độ này? Địa điểm của bạn vẫn chưa hoàn thành.
+Yêu Cầu Chưa Đủ
+Ẩn Tiến Độ
+Xóa đối tượng này để hoàn thành địa điểm.
+Bị Cấm
+Không thể thay đổi loại lô đất khi vẫn còn người thuê sống trên lô đất. Vui lòng chuyển tất cả người thuê đi trước khi thay đổi loại lô đất.
+Không khả dụng cho lô đất này.
+Không thể thay đổi loại địa điểm khi một Doanh Nghiệp Nhỏ đang mở cửa.
+Không thể thay đổi lô đất này. Vui lòng bán Căn Hộ Thuê Nhà Đi Dân Trú thông qua bảng Doanh Nghiệp Sở Hữu ở Chế Độ Sống.
+Bị Vô Hiệu Hóa Cho Địa Điểm Đặc Biệt
+Thay Đổi Loại Lô Đất?
+{0.String} (Doanh Nghiệp Nhỏ)
+Căn Hộ
+Cấu Hình Phòng Khám Thú Y
+Trang Phục Nhân Viên Phòng Khám Thú Y
+Chọn hoặc Tùy Chỉnh trang phục cho Nhân Viên Phòng Khám Thú Y mặc khi họ làm việc.
+Tính Năng Lô Đất
+Cấu Hình Nhà Ký Túc Trường Đại Học
+Liên kết lô đất nhà ký túc trường đại học này với trường đại học đã chọn.
+Đại Học
+Không Liên Kết
+Điều này sẽ giới hạn lô đất nhà ký túc trường đại học chỉ cho phép giới tính đã chọn chuyển đến sống.
+Hạn Chế Giới Tính
+Điều này sẽ giới hạn lô đất nhà ký túc trường đại học chỉ cho phép thành viên của affiliation đã chọn chuyển đến làm bạn cùng nhà.
+Affiliation
+Quyền Lợi Lô Đất
+Cấp Độ
+&lt;font color='#EC262E'&gt;Các khu vực này chỉ sẽ hoạt động khi một Doanh Nghiệp Nhỏ đang mở cửa trên lô đất.&lt;/font&gt;
+Khách hàng và nhân viên không thể vào khu vực này.
+Cư Dân
+Tất cả khách hàng và nhân viên có thể vào khu vực này tự do.
+Công Cộng
+Màu này đang được dùng cho một khu vực khác.
+Phân Vùng Khu Vực Doanh Nghiệp Nhỏ
+Khách hàng không thể vào khu vực này, nhưng nhân viên có thể.
+Chỉ Nhân Viên
+Khu vực kinh doanh không được hỗ trợ trên loại lô đất mới. Thay đổi sang loại lô đất này sẽ xóa tất cả khu vực kinh doanh trước đây, và không thể hoàn tác. Bạn có muốn thay đổi loại lô đất?
+Áp Dụng Cho Tất Cả Khu Vực
+Phân Công hoặc Chỉnh Sửa Trang Phục Phục Vụ
+Phục Vụ
+Nhấp để xem thực đơn.
+Cấu Hình Nhà Hàng
+Bạn có chắc chắn muốn xóa trang phục này? Thay đổi này không thể hoàn tác.
+Sử dụng Mẫu Có Sẵn:
+Trang Phục Nhân Viên Nhà Hàng
+Chọn hoặc Tùy Chỉnh trang phục cho Nhân Viên Nhà Hàng mặc khi họ làm việc.
+Thực Đơn
+Chọn thực đơn cho nhà hàng! Bạn có thể chọn từ một mẫu có sẵn hoặc tạo thực đơn từ đầu.
+Phân Công hoặc Chỉnh Sửa Trang Phục Tiếp Tân
+Tiếp Tân
+Thiết Kế Đồng Phục Nam trong Tạo Sim
+Thiết Kế Đồng Phục Nữ trong Tạo Sim
+Sử dụng Tùy Chỉnh:
+Bạn có chắc chắn muốn chuyển sang Tạo Sim?
+Phân Công hoặc Chỉnh Sửa Trang Phục Đầu Bếp
+Đầu Bếp
+Chọn quy định trang phục cho thực khách dựa trên phong cách và mức giá của nhà hàng.
+Trang Phục Khách Hàng
+Phân Công Đồng Phục Nam...
+Phân Công Đồng Phục Nữ...
+Chỉ Dành Cho Tầng Trên.
+Chỉ Dành Cho Tầng Thứ Ba.
+Chỉ Dành Cho Tầng Thứ Hai.
+Chỉ Dành Cho Tầng Mặt Đất.
+Chỉ Dành Cho Tầng Thứ Tư.
+Chỉ Dành Cho Tầng Dưới Cùng.
+Chỉ Dành Cho Tầng Hầm Thứ Tư.
+Chỉ Dành Cho Tầng Hầm Thứ Ba.
+Chỉ Dành Cho Tầng Hầm Thứ Hai.
+Chỉ Dành Cho Tầng Hầm Thứ Nhất.
+Đơn Vị Ở
+Chủ Sở Hữu Bất Động Sản hiện đang sống trong đơn vị này.
+Đây sẽ là đơn vị hộ gia đình của bạn sống
+Giá Trị Đơn Vị:
+Kích Thước Đơn Vị:
+Đánh dấu đây là Đơn Vị Ở của Hộ Gia Đình hiện tại của bạn
+Đơn Vị Ở
+Đây là Đơn Vị Ở hiện tại của hộ gia đình bạn.
+Đơn vị này đã được một hộ gia đình khác chiếm dụng.
+Đơn Vị Ở
+Bỏ Ẩn Đơn Vị
+Ẩn Đơn Vị
+Sim của bạn hiện đang ở trong đơn vị này
+Đơn vị này hiện đang có người thuê. Hộ gia đình người thuê phải được chuyển đi để bỏ ẩn hoặc chỉnh sửa đơn vị.
+Đơn vị này hiện đang được Chủ Sở Hữu Bất Động Sản chiếm dụng. Chủ Sở Hữu Bất Động Sản phải được chuyển đi trước khi đơn vị này có thể được bỏ ẩn.
+Thông Tin Đơn Vị
+Xóa Đơn Vị
+Vui lòng Đuổi Hộ Gia Đình trước khi xóa Đơn Vị này.
+Bạn phải có ít nhất một đơn vị trên lô đất này
+Bạn không thể xóa Đơn Vị Ở hiện đang được phân công.
+Bạn không thể xóa đơn vị mà Sim của bạn hiện đang thăm.
+Xóa Đơn Vị?
+Bạn có chắc chắn muốn xóa {0.String}?
+Phân Công Tất Cả Phòng Cho Đơn Vị Này
+Cấu Hình Đơn Vị
+Đặc Điểm và Thử Thách Đơn Vị
+Tên Đơn Vị
+Thông Tin Đơn Vị

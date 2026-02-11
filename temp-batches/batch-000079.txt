@@ -1,0 +1,106 @@
+Sửa chữa ma quái
+{0.SimFirstName} sắp chuyển chồng! Theo {0.SimFirstName} đến Bệnh viện?
+Đang chờ xếp hàng
+Đang chờ xếp hàng tại {1.ObjectName}
+Lên xe đạp
+Ngồi trên xe đạp
+Đạp xe
+WooHoo
+Ngồi
+Thư giãn
+Dập tắt hỏa hoạn ngoài ý muốn với lớp hoàn thiện Ultra-Tempered Fireguard.
+Bảo vệ chống cháy
+Dành cho Sims muốn lò sưởi bật khi họ bước vào phòng
+Tự động bật
+Nâng cấp hoàn tất!
+
+{0.SimFirstName} đã hoàn thành việc lắp đặt nâng cấp lò sưởi.
+Lò sưởi phải được tắt để nâng cấp.
+Dập tắt
+Đánh lửa
+Bật Tự động bật
+Tắt Tự động bật
+Tự dập tắt bản thân trước!
+Lửa đã được dập tắt. Lần sau hãy cẩn thận hơn một chút, được chứ?
+Chúng ta không thể tiếp cận đám cháy! Có thứ gì đó chặn đường! Ôi không!
+Vô hiệu hóa
+Thay thế
+Hào hứng vì lửa
+CHÁY!
+Đang cháy!
+(Từ bị đốt cháy)
+Tự dập tắt!
+Dập tắt
+{0.SimFirstName} thà thấy đám cháy này cháy hơn!
+Nấm mốc phải bị cháy trước khi làm việc này.
+Để vật thể tự cháy hết trước.
+Không thể dập tắt lửa khi đang mang vật gì đó.
+Sức chứa chuồng
+Đặt động vật
+Đặt {2.String}
+Điều này chỉ có thể được thực hiện tại Lô nhà.
+Đổ đầy
+(Từ khoe khoang công việc)
+Phản ứng tiêu cực về thể chất
+Mở khóa chân dung
+Sử dụng trang phục đồ bơi
+Sử dụng trang phục ngủ
+Sử dụng trang phục dự tiệc
+Sử dụng trang phục lễ nghi
+Sử dụng trang phục hàng ngày
+Sử dụng trang phục thể thao
+Ngẫu nhiên tư thế
+Khóa chân dung
+Người hầu này hiện đang đi kiếm ăn.
+Người hầu này quá xa.
+Cảm ơn vì đã mang cho tôi Perfect Growfruit!
+
+Bạn đã hoàn thành Thử thách Perfect Growfruit! Chúc mừng!
+Cho Perfect Growfruit
+Tìm điện thoại
+Lấy một cuốn sách ngẫu nhiên
+Quyên góp cho Thư viện Hàng xóm Nhỏ nhất
+Bài tập lối thoát
+Bật Hào quang Cảm xúc
+Vật thể này sẽ cung cấp Moodlets cho các Sims lân cận dựa trên Cảm xúc của nó khi Hào quang Cảm xúc được Bật.&#xD;&#xA;
+Tắt Hào quang Cảm xúc
+Vật thể này sẽ không cung cấp bất kỳ Moodlets Cảm xúc nào trừ khi các Sims ở gần.
+Xem công việc buồn bã
+Xem công việc tức giận
+Xem công việc tập trung
+Xem công việc truyền cảm hứng
+Xem công việc tràn đầy năng lượng
+Xem công việc thả thính
+Yêu cầu dừng chơi nhạc
+Yêu cầu bắt đầu chơi nhạc
+Rời nhóm
+Giải tán nhóm
+Không thể có một dàn nhóm hơn 8 Sims.
+Họ không đủ thích bạn để tham gia.
+Bạn không thể sửa đổi Nhóm trong khi Đại hội Câu lạc bộ đang diễn ra.
+Họ quá bận làm việc để tham gia.
+Đổ rác
+{0.SimFirstName} cần một thùng rác ngoài trời để đổ rác.
+Thùng rác này trống.
+Làm sạch lò nướng
+Làm sạch lò vi sóng
+La hét vì Cảm xúc tan vỡ
+Nói không nên có Cảm xúc tan vỡ
+Thể hiện sự thất vọng vì Cảm xúc tan vỡ
+Yêu cầu không nên có Cảm xúc tan vỡ
+Khuyến khích Cảm xúc tan vỡ
+Ôm nhau vượt qua Cảm xúc tan vỡ
+Tiếp tục làm Bất khả chiến bại
+Nâng cấp phần tử đun nước sẽ làm cho ấm điện này bất khả chiến bại.
+Bất khả chiến bại
+Tiếp tục lắp đặt Máy tẩy cặn tự động
+Chu kỳ tẩy cặn tự động mới tiết kiệm thời gian và công sức, ngăn ngừa ấm bị bẩn ngay từ đầu.
+Máy tẩy cặn tự động
+Nâng cấp hoàn tất!
+
+{0.SimFirstName} đã hoàn thành việc lắp đặt nâng cấp Ấm điện.
+Tắt
+Trà &amp; Nước nóng
+Cà phê
+Cacao nóng
+Không thể đổ thức uống khác cho đến khi thức uống hiện tại đã được nhấc lên.

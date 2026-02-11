@@ -1,0 +1,144 @@
+{0.String} <font color='#3AAF69'>(+{1.RecyclingBits})</font>
+{0.String} ({1.RecyclingBits})
+Tín Dụng Thiên Hà
+Mảnh
+{0.String} <font color='#3AAF69'>(+{1.RecyclingPieces})</font>
+{0.String} ({1.RecyclingPieces})
+Bạn đã mua đặc quyền này rồi.
+Đặc quyền này được mở khóa bởi đặc quyền {0.String}.
+Mở khóa để thay đổi cách các Sim khác trong thế giới tương tác với Câu lạc bộ của bạn khi giao lưu xã hội.
+Trạng Thái Câu Lạc Bộ (Chỉ Được Phép 1)
+Mở khóa để có các tương tác thiết lập Không Khí Câu Lạc Bộ. Không Khí Câu Lạc Bộ sẽ thay đổi tâm trạng của tất cả thành viên trong Cuộc Tụ Họp Câu Lạc Bộ của bạn!
+Không Khí Câu Lạc Bộ
+Mở khóa để cải thiện quản lý và hiệu quả tổng thể của Câu Lạc Bộ.
+Quản Lý Câu Lạc Bộ
+Việc mở khóa Đặc Quyền Câu Lạc Bộ sẽ khiến các thành viên phát triển kỹ năng liên quan nhanh hơn khi trong Cuộc Tụ Họp Câu Lạc Bộ.
+Thưởng Kỹ Năng
+Mở khóa để nhận được kết quả xã hội tốt hơn khi các Sim của bạn đang giao lưu xã hội trong Cuộc Tụ Họp Câu Lạc Bộ.
+Thưởng Xã Hội
+Mở khóa để cho phép các Sim trong Câu Lạc Bộ của bạn thực hiện một Bắt Tay Đặc Biệt Câu Lạc Bộ. Câu Lạc Bộ của bạn chỉ có thể có 1 Bắt Tay.
+Bắt Tay Câu Lạc Bộ (Chỉ Được Phép 1)
+Mở khóa để cho phép truy cập vào Quần Áo và Đồ Vật Dành Riêng cho Câu Lạc Bộ.
+Quần Áo và Trang Trí
+Mở khóa để tăng số lượng thành viên Câu Lạc Bộ bạn có thể mời vào Câu Lạc Bộ của mình.
+Quy Mô Câu Lạc Bộ
+{0.SimFirstName} đang khô nứt. {0.SimPronounSubjective|xxUpper} sẽ cần chăm sóc Nhu Cầu Nước của {0.SimPronounObjective} thường xuyên hơn.
+Nhu Cầu Khát của {0.SimFirstName} đang giảm nhanh hơn do mất cân bằng. {0.SimPronounSubjective|xxUpper} {S0.is}{P0.are} sẽ phải uống từ các Sim hoặc ăn Trái Cây Plasma thường xuyên hơn.
+{0.SimFirstName} gặp một số khó khăn trong việc tập trung khi trò chuyện. {0.SimPronounSubjective|xxUpper} sẽ cần các tương tác xã hội bổ sung để lấp đầy Nhu Cầu Xã Hội của {0.SimPronounPossessiveDependent}.
+Kỹ năng của {0.SimFirstName} đang cải thiện chậm hơn vì {0.SimPronounSubjective} {S0.is}{P0.are} mất cân bằng!
+{0.SimFirstName} nghĩ rằng Sự Mất Cân Bằng của {0.SimPronounPossessiveDependent} có thể đang thu hút những vibe khắc nghiệt hay thứ gì đó. {0.SimPronounSubjective|xxUpper} {S0.has}{P0.have} ít May Mắn hơn như một kết quả.
+{0.SimFirstName} đang gặp khó khăn trong việc giữ sạch sẽ. {0.SimPronounSubjective|xxUpper} sẽ cần chăm sóc Nhu Cầu Vệ Sinh của {0.SimPronounPossessiveDependent} thường xuyên hơn.
+{0.SimFirstName} đang gặp khó khăn trong việc giữ đủ nước. {0.SimPronounSubjective|xxUpper} sẽ cần chăm sóc Nhu Cầu Duy Trì Đủ Nước của {0.SimPronounPossessiveDependent} thường xuyên hơn.
+{0.SimFirstName} đói hơn bình thường. {0.SimPronounSubjective|xxUpper} sẽ cần chăm sóc Nhu Cầu Đói của {0.SimPronounPossessiveDependent} thường xuyên hơn.
+{0.SimFirstName} không còn tận hưởng mọi thứ như trước. {0.SimPronounSubjective|xxUpper} sẽ cần chăm sóc Nhu Cầu Vui Vẻ của {0.SimPronounPossessiveDependent} thường xuyên hơn.
+{0.SimFirstName} cảm thấy một chút mệt mỏi. {0.SimPronounSubjective|xxUpper} sẽ cần chăm sóc Nhu Cầu Năng Lượng của {0.SimPronounPossessiveDependent} thường xuyên hơn.
+Hệ tiêu hóa của {0.SimFirstName} hơi bất thường. {0.SimPronounSubjective|xxUpper} sẽ cần chăm sóc Nhu Cầu Bàng Quang của {0.SimPronounPossessiveDependent} thường xuyên hơn.
+Việc Rất Mất Cân Bằng khiến {0.SimFirstName} dễ mắc Bệnh. {0.SimPronounSubjective|xxUpper} {S0.has}{P0.have} một trường hợp <b>Xoang Âm Thanh</b>.
+Việc Rất Mất Cân Bằng khiến {0.SimFirstName} dễ mắc Bệnh. {0.SimPronounSubjective|xxUpper} {S0.has}{P0.have} một trường hợp <b>Sốt Simoleon</b>.
+Việc Rất Mất Cân Bằng khiến {0.SimFirstName} dễ mắc Bệnh. {0.SimPronounSubjective|xxUpper} {S0.has}{P0.have} một trường hợp <b>Nam Châm May Mắn</b>.
+Việc Rất Mất Cân Bằng khiến {0.SimFirstName} dễ mắc Bệnh. {0.SimPronounSubjective|xxUpper} {S0.has}{P0.have} một trường hợp <b>Kẻ Xấu Xanh Lè</b>.
+Việc Rất Mất Cân Bằng khiến {0.SimFirstName} dễ mắc Bệnh. {0.SimPronounSubjective|xxUpper} {S0.has}{P0.have} một trường hợp <b>Sự Hấp Dẫn của Quỷ Lùn</b>.
+Việc Rất Mất Cân Bằng khiến {0.SimFirstName} dễ mắc Bệnh. {0.SimPronounSubjective|xxUpper} {S0.has}{P0.have} một trường hợp <b>Khoảng Trống Cảm Xúc</b>.
+Việc Rất Mất Cân Bằng khiến {0.SimFirstName} dễ mắc Bệnh. {0.SimPronounSubjective|xxUpper} {S0.has}{P0.have} một trường hợp <b>Xung Đột Sáng Tạo</b>.
+Việc Rất Mất Cân Bằng khiến {0.SimFirstName} dễ mắc Bệnh. {0.SimPronounSubjective|xxUpper} {S0.has}{P0.have} một trường hợp <b>Niềm Đam Mê Cháy Bỏng</b>.
+Đừng quên trả tiền thuê nhà đúng hạn!
+Bánh Mùa Đông
+Cảm ơn bạn đã đặt hàng! Các món quà Giáng Sinh {0.SimFirstName} đã mua có thể được tìm thấy trong kho đồ của {M0.his}{F0.her}. Chúc vui vẻ khi mở!
+{0.SimFirstName} nhận được một con thú bông đặc biệt, có thể sưu tập từ món quà Giáng Sinh! Còn có một câu đùa được viết trên một mảnh giấy...
+
+Q: Bạn gọi con ma của con gà tây là gì?
+A: Một con ma gà!
+{0.SimFirstName} nhận được một con thú bông đặc biệt, có thể sưu tập từ món quà Giáng Sinh! Còn có một câu đùa được viết trên một mảnh giấy...
+
+Q: Người làm vườn khám phá ra loại trái cây nào khi ghép cành cây Giáng Sinh vào cây táo?
+A: Một quả dứa!&#xA;
+{0.SimFirstName} nhận được một con thú bông đặc biệt, có thể sưu tập từ món quà Giáng Sinh! Còn có một câu đùa được viết trên một mảnh giấy...
+
+Q: Thỏ Social Bunny mặc loại trang sức gì?
+A: Vàng 18 carrot.
+{0.SimFirstName} nhận được một con thú bông đặc biệt, có thể sưu tập từ món quà Giáng Sinh! Còn có một câu đùa được viết trên một mảnh giấy...
+
+Q: Mẹ gà tây nói gì với đứa con bất tuân của bà?
+A: Nếu cha con có thấy con bây giờ, ông ấy sẽ lộn ngược trong nước sốt của mình!
+{0.SimFirstName} nhận được một con thú bông đặc biệt, có thể sưu tập từ món quà Giáng Sinh! Còn có một câu đùa được viết trên một mảnh giấy...
+
+Chàng: Cậu có ai đi chơi Valentine chưa?
+Cô: Có rồi, ngày 14 tháng 2.
+{0.SimFirstName} nhận được một con thú bông đặc biệt, có thể sưu tập từ món quà Giáng Sinh! Còn có một câu đùa được viết trên một mảnh giấy...
+
+Q: Tại sao các Sim không ủi lá bốn thánh giá?
+A: Vì họ không muốn dồn may mắn!
+{0.SimFirstName} nhận được một con thú bông đặc biệt, có thể sưu tập từ món quà Giáng Sinh! Còn có một câu đùa được viết trên một mảnh giấy...
+
+Q: Điều gì xảy ra với kẻ thích trộm đồ đã lấy trộm một lịch Giáng Sinh?
+A: Hắn nhận được 25 ngày!
+{0.SimFirstName} nhận được một con thú bông đặc biệt, có thể sưu tập từ món quà Giáng Sinh! Còn có một câu đùa được viết trên một mảnh giấy...
+
+Q: Leprechaun đã thống nhất bỏ phiếu thứ gì là thứ họ thích nhất?
+A: Perfect Paddy O' Stuff!
+{0.SimFirstName} nhận được một con thú bông đặc biệt, có thể sưu tập từ món quà Giáng Sinh! Còn có một câu đùa được viết trên một mảnh giấy...
+
+Q: Bonehilda nói gì sau khi chuẩn bị bữa tối?
+A: Bone appétit!
+{0.SimFirstName} nhận được một con thú bông đặc biệt, có thể sưu tập từ món quà Giáng Sinh! Còn có một câu đùa được viết trên một mảnh giấy...
+
+Q: Ma cà rồng hát gì vào đêm giao thừa?
+A: Auld Fang Syne.
+{0.SimFirstName} nhận được một con thú bông đặc biệt, có thể sưu tập từ món quà Giáng Sinh! Còn có một câu đùa được viết trên một mảnh giấy...
+
+Q: Tại sao ma không bao giờ đi đến các bữa tiệc?
+A: Vì họ không có cơ thể để nhảy!&#xA;
+{0.SimFirstName} nhận được một con thú bông đặc biệt, có thể sưu tập từ món quà Giáng Sinh! Còn có một câu đùa được viết trên một mảnh giấy...
+
+Q: Bạn nhận được gì khi kết hợp các mùa với thú cưng?
+A: Hươu Mưa.
+Một bất ngờ ngọt ngào! {0.SimFirstName} mở món quà Giáng Sinh và phát hiện một viên kẹo bên trong. {M0.He}{F0.She} không thể xác định chính xác hương vị của nó...
+Món quà Giáng Sinh đó đầy confetti, ồn ào và một chút hương thông. Gần như mọi thứ bạn muốn, ngoại trừ việc ai đó quên đặt món quà thực sự bên trong! Chúc may mắn lần sau.
+Cái gì đây? Một vài bộ phận hỏng và một mảnh kim loại phế liệu?! Hoặc là {0.SimFirstName} đang dùng sai, hoặc món quà Giáng Sinh đó được làm tồi tệ.
+Xem Món Quà Giáng Sinh
+Phản ứng khi Trẻ Em Mở Món Quà Giáng Sinh
+Phản ứng với Món Quà Giáng Sinh
+Bàn Dã Ngoại và Ghế Dài với Đệm
+Đó là thời đại đổi mới tại nhà máy Dã Ngoại và Ghế Dài cũ. Jimmy Jean, Jeanie James và Jamie Jim lần lượt trình bày ý tưởng của mình cho ban lãnh đạo, và một chiếc đệm trên ghế dài đã giành chiến thắng cuối cùng.
+Bàn Lễ Tết
+Một chiếc bàn thanh lịch được thiết kế cho các dịp lễ. Trải một tấm vải in đẹp với họa tiết ngôi sao, bông tuyết và cây. 100% polyester. Không có dịch vụ gói quà.
+Loa Tường Lễ Tết
+Một chiếc loa tuyệt vời cho cả trong nhà và ngoài trời. Nghe nhạc lễ tết suốt cả ngày.
+Mặt Tiền Lò Sưởi Giả
+Mệt mỏi vì tro bám trong ống khói, phải mang những khúc gỗ nặng nề đến bếp lò, và tốn công sức không mong muốn để mồi lửa? Hãy bỏ tất cả những thứ đó lại. Mặt Tiền Lò Sưởi Giả là tương lai, bạn bè ơi!
+
+Thưởng thức ánh sáng từ trí tưởng tượng của bạn, và bước vào thế giới ngày mai.
+Vòng Hoàng Cung với Quả Thông
+Khi còn nhỏ, tôi luôn muốn đến nơi thần thoại Gar Land. Tôi nghĩ rằng đó sẽ là một hồ chứa cá tuyệt vời chỉ tồn tại vào tháng Mười Hai.
+
+Hãy tưởng tượng sự thất vọng của tôi. Nhưng cái này đẹp phải không? Vâng, nó đẹp.
+Khắc Hoa Văn Lễ Tết Thủ Công
+Bạn biết đấy, đôi khi bạn đến những cửa hàng nhập khẩu, và bạn tìm thấy một thứ bạn biết là thủ công. Và nó được giảm giá một nửa. Và bạn nghĩ trong đầu "Đây có phải là món tìm thấy không?" Và bạn nhặt nó lên, tìm kiếm những khuyết điểm, không hoàn hảo, và không có gì. Và bạn ném nó vào xe, nghĩ "Đó là nó, tôi đã tìm thấy món quà lễ tết!"
+
+Vâng, tôi đã làm điều đó.
+Trung Tâm "Cái Này"
+Một buổi tụ họp lễ hội? Tất nhiên, nhưng để đáp ứng "hạn ngạch lễ hội" cho một buổi tiệc như vậy, đừng quên danh sách kiểm tra của bạn. Đồ ăn nhỏ? Đồ uống được trang trí phong phú? Nhạc sống bởi một nghệ sĩ nghèo khó? Một nguồn cung dồi dào của đồ trang trí nhà cửa lòe loẹt? Không, một người không thể có quá nhiều trang trí! Thêm "Cái Này" vào bộ sưu tập của bạn, và được tất cả mọi người ganh tị!
+Đồ Trang Trí Lễ Tết trong Lọ Mason
+Anh trai tôi có một cái lọ mà họ nuôi một con dế trong đó khi tôi còn nhỏ. Anh ấy đóng một số lỗ trên nắp, và thỉnh thoảng bỏ một ít cỏ và thứ khác vào, chỉ để giữ chú nhỏ vui vẻ.
+
+Sau đó anh ấy có một con thằn lằn. Chúng tôi chưa bao giờ thấy con dế nữa.
+Bản Sao Bông Tuyết
+J.P. Frostbaum đã làm lại lần nữa! Nước đóng băng được bảo quản hoàn hảo trong một bản sao nhựa của một bông tuyết mới sinh. Không ai khác có thể mang lại sự hoàn hảo như thế này cho bạn. Không ai khác yêu thiết kế trang trí giả như J.P. Không ai yêu bạn... như J.P.
+Quà Tặng Trang Trí
+Quà Tặng Trang Trí. Thật sao? Cái đó giống như đồ ăn trang trí. Mục đích là gì? Không có calo và mục đích của đồ ăn là calo. Nếu bạn tốn thời gian để gói một món quà, hãy đặt một món quà trong món quà! Cái này chỉ là bóp méo và tàn nhẫn! Không tuyệt. Chúc mừng ngày lễ?
+Mr. Snuffles
+Stompy
+Growler
+Nightmare
+Smasher
+The Destroyer
+Stampy
+Cheetah
+Gas Guzzler
+Wheels
+Speedy
+Chơi
+Bắt... Bây giờ đến lượt bạn!
+Đôi khi tôi cảm thấy cô độc.
+Dừng việc chọc tôi lại!
+LỖI! LỖI!

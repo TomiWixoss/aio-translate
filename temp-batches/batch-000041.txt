@@ -1,0 +1,101 @@
+Nghe Nhạc
+Nhấp vào máy âm thanh và chọn Lắng nghe sâu. Sim là người yêu nhạc có thể thực hiện tương tác này.
+Lắng nghe sâu
+Nhấp vào máy âm thanh và chọn Nghe... sau đó chọn R&B.
+Nghe R&B
+Nhấp vào máy âm thanh và chọn Nghe... sau đó chọn Âm thanh thiên nhiên.
+Nghe Âm thanh thiên nhiên
+Nhấp vào máy âm thanh và chọn Nghe... sau đó chọn Nhịp lễ hội.
+Nghe Nhịp lễ hội
+Nhấp vào máy âm thanh và chọn Nghe... sau đó chọn Thế giới.
+Nghe Nhạc thế giới
+Nhấp vào máy âm thanh và chọn Nghe... sau đó chọn Kỳ nghỉ đông.
+Nghe Nhạc kỳ nghỉ đông
+Nhấp vào máy âm thanh và chọn Nghe... sau đó chọn S-Pop.
+Nghe Nhạc S-Pop
+Nhấp vào máy âm thanh và chọn Nghe... sau đó chọn Ma quái.
+Nghe Nhạc ma quái
+Nhấp vào máy âm thanh và chọn Nghe... sau đó chọn Lãng mạn.
+Nghe Nhạc lãng mạn
+Nhấp vào máy âm thanh và chọn Nghe... sau đó chọn Retro.
+Nghe Nhạc retro
+Nhấp vào máy âm thanh và chọn Nghe... sau đó chọn Pop.
+Nghe Nhạc pop
+Nhấp vào máy âm thanh và chọn Nghe... sau đó chọn Dàn nhạc Ru.
+Nghe Nhạc ru
+Nhấp vào máy âm thanh và chọn Nghe... sau đó chọn Dàn nhạc Thiếu nhi.
+Nghe Nhạc thiếu nhi
+Nhấp vào máy âm thanh và chọn Nghe... sau đó chọn Hip Hop.
+Nghe Nhạc hip hop
+Nhấp vào máy âm thanh và chọn Nghe... sau đó chọn Điện tử.
+Nghe Nhạc điện tử
+Nhấp vào máy âm thanh và chọn Nghe... sau đó chọn Cổ điển.
+Nghe Nhạc cổ điển
+Nhấp vào máy âm thanh và chọn Nghe... sau đó chọn Blues.
+Nghe Nhạc blues
+Nhấp vào máy âm thanh và chọn Nghe... sau đó chọn Alternative.
+Nghe Nhạc alternative
+Nhấp vào đống lửa trại và chọn Đốt lửa.
+Đốt đống lửa trại
+Nhấp vào hộp thư và chọn Cấp phép bài hát. Sim có thể mở khóa tương tác này bằng cách tăng Kỹ năng Violin và viết một bài hát trên Violin.
+Cấp phép bài hát Violin
+Nhấp vào hộp thư và chọn Cấp phép bài hát. Sim có thể mở khóa tương tác này bằng cách tăng Kỹ năng Piano và viết một bài hát trên Piano.
+Cấp phép bài hát Piano
+Cấp phép bài hát Guitar
+Hãy để Sim thực hiện bất kỳ hoạt động xây dựng kỹ năng nào để nâng cấp kỹ năng.
+Nâng cấp kỹ năng
+Tìm một chiếc giường hoặc ghế sofa ấm cúng cho Sim ngủ trưa.
+Ngủ trưa
+Hôn {2.SimFirstName}
+Nhấp vào một Sim và chọn Hôn từ danh mục Lãng mạn.
+Hôn ai đó
+Nhấp vào thùng rác và chọn Đá.
+Chọn Tìm việc từ điện thoại hoặc máy tính. Chọn một công việc từ danh sách đã cho.
+Tham gia Sự nghiệp Phi hành gia
+Nhấp vào đàn piano và chọn Chơi Concerto. Tương tác này có thể được mở khóa bằng cách tăng Kỹ năng Piano.
+Chơi Concerto piano
+Nhấp vào guitar và chọn Jam. Sim có thể mở khóa Tương tác này bằng cách tăng Kỹ năng guitar.
+Jam trên guitar
+Thực hiện Tiết mục hài
+Nhấp vào micro và chọn Cải biến Tiết mục hài. Sim có thể mở khóa tương tác này bằng cách tăng Kỹ năng Hài hước.
+Cải biến Tiết mục hài
+Nhấp vào tủ lạnh hoặc lò vi sóng và chọn bất kỳ tùy chọn liên quan đến việc nấu ăn. Hoặc nhấp vào bất kỳ đối tượng thực phẩm nào và chọn Ăn.
+Giữ Động cơ Đói ở mức cao trong 6 giờ
+Ôm {2.SimFirstName}
+Nhấp vào một Sim và chọn Ôm từ danh mục Lãng mạn.
+Ôm ai đó
+Nhấp vào bồn tắm nước nóng và chọn Nâng cấp. Bộ phận nâng cấp có thể được mua từ máy tính.
+Nâng cấp bồn tắm nước nóng để không thể vỡ
+Nhấp vào bồn tắm nước nóng và chọn Nâng cấp. Bộ phận nâng cấp có thể được mua từ máy tính.
+Nâng cấp bồn tắm nước nóng với máy âm thanh
+Nhấp vào bồn tắm nước nóng và chọn Nâng cấp. Bộ phận nâng cấp có thể được mua từ máy tính.
+Nâng cấp bồn tắm nước nóng để có Trị liệu bằng tinh dầu
+Chọn điện thoại của Sim, nhấp vào ứng dụng Xã hội, sau đó chọn Lập kế hoạch Sự kiện Xã hội! Điền tất cả các vai trò cần thiết, đảm bảo Sim là người tổ chức, chọn địa điểm và nhấp Bắt đầu!
+Tổ chức Tiệc
+Nhấp vào bài tập về nhà và chọn Làm Bài tập Thêm. Sim có thể mở khóa tương tác này bằng cách là Học sinh Loại A hoặc B và hoàn thành Bài tập về nhà.
+Nhấp vào bài tập về nhà và chọn Làm Bài tập Thêm. Sim có thể mở khóa tương tác này bằng cách là Học sinh Loại A hoặc B và hoàn thành Bài tập về nhà.
+Nhấp vào bài tập về nhà và chọn Làm Bài tập về nhà. Đừng quên kiểm túi đồ của Sim!
+Nhấp vào bài tập về nhà và chọn Làm Bài tập Bù. Đừng quên kiểm túi đồ của Sim!
+Hoàn thành Bài tập Bù
+Nhấp vào bài tập về nhà và chọn Làm Bài tập Thêm. Sim có thể mở khóa tương tác này bằng cách là Học sinh Loại A hoặc B và hoàn thành Bài tập về nhà.
+Hoàn thành Bài tập Thêm
+Nhấp vào bài tập về nhà và chọn Làm Bài tập về nhà. Đừng quên kiểm túi đồ của Sim!
+Hoàn thành Bài tập về nhà
+Nhấp vào {2.SimFirstName} và chọn tương tác xã hội Nắm tay từ danh mục Lãng mạn.
+Nắm tay với {2.SimFirstName}
+Nhấp vào một Sim và chọn Thúc hông từ danh mục Thân thiện. Sim có thể thực hiện Tương tác xã hội này khi đã được tăng năng lượng.
+Thúc hông ai đó!
+Nhấp vào giường và chọn Trốn khỏi Mọi người. Sim có thể thực hiện tương tác này khi đang xấu hổ.
+Nhấp vào tủ lạnh, chọn Nấu một Bữa ăn cao cấp, và chọn công thức từ danh sách.
+Chuẩn bị Gnocchi bí ngô
+Nhấp vào tủ lạnh, chọn Nấu một Bữa ăn cao cấp, và chọn công thức từ danh sách.
+Chuẩn bị Alaska nướng
+Nhấp vào tủ lạnh, chọn Nấu ăn, và chọn một công thức từ danh sách.
+Nướng Táo pie
+Đi đến Thư viện bằng cách mở Bản đồ Thế giới và nhấp vào Địa điểm. Khi đến đó, nhấp vào Máy tính và chọn chủ đề để Nghiên cứu dưới danh mục Web. Sim có thể mở khóa các chủ đề mới để Nghiên cứu bằng cách tăng các Kỹ năng cụ thể!
+Nhấp vào Máy tính và chọn chủ đề để Nghiên cứu dưới danh mục Web. Sim có thể mở khóa các chủ đề mới để Nghiên cứu bằng cách tăng các Kỹ năng cụ thể!
+Nghiên cứu trên Máy tính
+Nhấp vào Máy tính, chọn Hài hước, và chọn Soạn Thảo Tiết mục Hài Trung bình.
+Soạn Thảo Tiết mục Hài Trung bình
+Nhấp vào Máy tính, chọn Hài hước, và chọn Soạn Thảo Tiết mục Hài Dài.
+Soạn Thảo Tiết mục Hài Dài

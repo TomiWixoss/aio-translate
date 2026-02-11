@@ -1,0 +1,100 @@
+Áo thân trên
+Nhẫn
+Vòng cổ
+Găng tay
+Vòng tay
+Răng
+Ngẫu nhiên
+Kẻ mắt
+Lông mi
+Trang điểm
+Quần legging
+Vớ
+Giày
+Áo thân dưới
+Phong cách tạo sẵn
+Đồ đội đầu
+Tóc
+Phụ kiện
+Đầu
+Kiểu tóc
+Kính
+Toàn thân
+Tóc mép
+Khuyết
+Kính áp tròng
+Hình xăm
+Chi tiết da
+Vóc người
+Cơ thể
+Cơ thể
+Thanh niên
+Trẻ nhỏ
+Thiếu niên
+Người cao tuổi
+Trẻ em
+Người lớn
+Tuổi
+Râu
+Đuôi
+Giày
+Màu &amp; Họa tiết Áo khoác
+Chế độ sơn
+Áo thân trên
+Mũi
+Hình dáng đầu
+Yên
+Lông
+Mắt
+Tai
+Đầm
+Trang phục
+Cổ
+Giống
+Bờm
+Nội dung tùy chỉnh này không tương thích với hình xăm lớp.
+Lớp {0.String}
+Tóc ưa thích:
+Tóc sẽ tiếp tục tăng trong khi chơi.
+Bật tăng tóc
+Thay đổi {0.String} ưa thích? 
+Tóc cơ thể
+Việc chọn {0.String} mới sẽ đặt lại sự tăng trưởng tóc hiện tại của Sim. 
+Thay đổi màu {0.String} ưa thích? 
+Việc chọn màu {0.String} mới sẽ đặt lại sự tăng trưởng {1.String} hiện tại của Sim. 
+Khớp bờm
+Khớp tóc
+Màu tóc
+Màu tóc mép
+Màu lông mày
+Bố mẹ không xác định
+Bạn phải Hoàn thành hoặc Hủy việc tạo Sim mới này.
+Di truyền
+Không có Sim Người trong hộ gia đình.
+Chọn giống ngẫu nhiên
+Quay lại
+Phải trẻ hơn bố mẹ
+Phải cùng tuổi với sinh đôi
+Phải lớn tuổi hơn con
+Ngẫu nhiên sinh đôi
+Ngẫu nhiên {M0.Son}{F0.Daughter}
+Ngẫu nhiên {0.String}
+Ngẫu nhiên {M0.Father}{F0.Mother}
+Ngẫu nhiên {M0.Brother}{F0.Sister}
+Bị vô hiệu hóa khi đang chọn nguồn di truyền
+Chọn một Giống
+Chọn một Sim
+Chọn một Thú cưng
+Bị vô hiệu hóa khi đang chơi với Di truyền
+Người
+Ngựa
+Chó
+Mèo
+Anh chị em
+Con
+Bố mẹ
+Con
+Tạo một...
+Tạo {M0.His}{F0.Her}...
+Tạo Của Họ...
+Tab tiếp theo

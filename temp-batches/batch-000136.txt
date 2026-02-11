@@ -1,0 +1,344 @@
+Vâng, đây là một danh sách dài các mô tả giống chó/mèo cùng một số thông báo khác từ The Sims 4. Mình cần dịch sang tiếng Việt nhưng phải giữ nguyên các từ không được dịch như "The Sims 4", "Sims", "Sim", "Social Bunny", "EA app", "Gallery". Cũng phải giữ nguyên các thẻ HTML, biến {0.String}, {0.Number}, {0.Money}, {0.SimFirstName} và các ký tự đặc biệt. Quan trọng là phải trả về đúng số dòng, tức là mỗi dòng trong input phải có một dòng tương ứng trong output, không được bỏ hay thêm.
+
+Đầu tiên, mình sẽ chia từng phần nhỏ để dịch. Có các phần sau:
+1. Các thông báo về hoàn tiền (rebate).
+2. Các mô tả giống chó/mèo.
+3. Một số câu nói về sinh nhật và tuổi thơ.
+
+Mình sẽ xử lý từng phần:
+
+Phần 1: Thông báo hoàn tiền
+- "Rebate Received!" -> Dịch là "Hoàn tiền đã nhận!" nhưng cần giữ nguyên dòng.
+- "{0.Number}% off for being Thrifty" -> "{0.Number}% giảm giá vì tiết kiệm"
+- "{0.Number}% off for purchasing Art and leveraging Critical Connections" -> "{0.Number}% giảm giá vì mua nghệ thuật và tận dụng kết nối quan trọng"
+- "{0.Number}% off for shopping on Rebate Day!" -> "{0.Number}% giảm giá khi mua sắm vào Ngày Hoàn Tiền!"
+- "A rebate check of {0.Money} has been received! Sims in the household were able to save on their recent purchases:\n{1.String}" -> "Một séc hoàn tiền trị giá {0.Money} đã được nhận! Các Sim trong hộ gia đình đã tiết kiệm được từ những mua sắm gần đây:\n{1.String}"
+- "{0.Number} for growing coconuts!" -> "{0.Number} cho việc trồng dừa!"
+
+Phần 2: Các mô tả giống chó/mèo. Mình sẽ dịch từng cái một, giữ nguyên tên giống (ví dụ: Himalayan, Golden Retriever, v.v.) vì đây là tên riêng.
+- Himalayan: "Những chú mèo này có tính dịu dàng, thông minh và thường rất xã hội, là bạn đồng hành tốt. Do dòng dõi từ mèo Siamese, chúng có xu hướng năng động hơn mèo Persian."
+- Golden Retriever: "Golden Retriever là một giống chó lớn được lai tạo để làm chó săn, thu hồi mồi săn như vịt trời và chim gà rừng trong các cuộc săn bắn, và được đặt tên 'retriever' vì khả năng thu hồi mồi săn không bị hư hại. Jill sẽ thay đổi điều này và có thể xóa các tham chiếu đến súng và những thứ chúng bắn."
+- American Bobtail: "American Bobtail là một giống mèo nhà hiếm được phát triển vào cuối những năm 1960. Nổi bật nhất là cái đuôi ngắn 'bobbed' khoảng một phần ba đến một nửa chiều dài đuôi mèo thông thường."
+- Standard Schnauzer: "Điểm đặc trưng với bộ râu và lông mày dài, Standard Schnauzers thường có màu tiêu và muối hoặc ít phổ biến hơn là màu đen, với bộ lông cứng và xoăn trên cơ thể tương tự như các giống lông xoăn khác."
+- Chihuahua: "Một chú Chihuahua ra sao phụ thuộc rất nhiều vào tính khí di truyền của cha mẹ và ông bà nó. Chihuahuas có thể dễ bị kích động để tấn công, và do đó thường không phù hợp với các gia đình có trẻ nhỏ. Giống này có xu hướng trung thành tuyệt đối với một người cụ thể và trong một số trường hợp có thể trở nên bảo vệ quá mức người đó, đặc biệt xung quanh người khác hoặc động vật khác."
+- Calico: "Mèo Calico là mèo nhà có bộ lông đốm hoặc nhiều màu, chủ yếu là trắng, với các mảng hai màu khác."
+- Wire Fox Terrier: "Hai đặc điểm nổi bật nhất của wire fox terrier là năng lượng và thông minh. Nó có ngưỡng thấp cho sự nhàm chán và cần được kích thích, tập luyện và chú ý. Wire fox terrier là động vật bạn đồng hành đòi hỏi sự chú ý gần như liên tục."
+- Welsh Springer Spaniel: "Welsh Springer Spaniel là năng động, trung thành và yêu thương. Chúng có thể chào người lạ bằng cách sủa khi ở trên lãnh thổ của chúng, hoặc thể hiện sự xa cách, thận trọng hoặc dè dặt. Giống này nổi tiếng là thân thiện và thể hiện tình cảm với tất cả thành viên trong gia đình, đặc biệt là trẻ em, và chấp nhận các thú cưng khác trong nhà với thái độ thân thiện, vui vẻ."
+- LaPerm: "LaPerm theo nhiều cách là một con mèo điều độ, không có cực đoan và vẫn giữ nguyên loại ban đầu. Tuy nhiên, nó có một bộ lý khác thường."
+- West Highland White Terrier: "Tính khí của West Highland White Terrier có thể thay đổi rất lớn, với một số con thân thiện với trẻ em, trong khi những con khác thích sự cô độc. Nó sẽ không chịu đựng sự xử lý thô bạo như một đứa trẻ kéo tai nó, và có thể cả thức ăn lẫn đồ chơi đều chiếm hữu."
+- Field Spaniel: "Field Spaniel có thể là một con chó gia đình tốt khi nó có công việc để làm. Chúng phù hợp với môn dog agility và săn bắn. Nếu không có một mục đích nào đó, con chó thường cố tự giải trí và gây chuyện."
+- Persian: "Mèo Persian là một giống mèo lông dài với khuôn mặt tròn và mũi ngắn. Ở Anh, nó đôi khi được gọi là Longhair hoặc Persian Longhair. Nó cũng được biết đến là mèo Shirazi hoặc mèo Iran, đặc biệt ở Trung Đông. Jill sẽ thay đổi điều này."
+- Otterhound: "Otterhound là một giống chó săn lớn, lông thô, với đầu ấn tượng. Ban đầu được lai tạo để săn bắn, nó có sức mạnh lớn và cơ thể khỏe mạnh với những bước chân dài. Điều này cho phép nó thực hiện công việc khó khăn kéo dài."
+- Goldendoodle: "Goldendoodle là một giống lai được lai tạo bằng cách giao phối giữa golden retriever và poodle. Mục đích ban đầu của việc lai tạo là cố gắng phát triển chó dẫn đường phù hợp cho người khiếm thị bị dị ứng."
+- Singapura: "Singapura là một trong những giống mèo nhỏ nhất, được biết đến với đôi mắt và đôi tai lớn, bộ lông nâu đốm và đuôi ngắn."
+- Husky: "Husky là một cái tên chung cho loại chó kéo xe được sử dụng ở vùng phía Bắc, khác với các loại chó kéo xe khác bởi phong cách kéo nhanh của chúng. Chúng là một giống lai luôn thay đổi của những con chó nhanh nhất."
+- Chesapeake Bay Retriever: "Con Chesapeake Bay Retriever điển hình có tính cách vui vẻ, hạnh phúc, thông minh, lòng tốt và bản năng bảo vệ yêu thương. Một số con có thể khá ồn ào khi hạnh phúc, và một số sẽ 'cười' bằng cách để lộ răng trước trong một nụ cười kỳ lạ."
+- Oriental Longhair: "Mèo Oriental Longhair là một con mèo thực sự năng động thích chơi nhiều. Nếu chủ không có thời gian để chơi, nó sẽ tìm một món đồ chơi để tự chơi. Giống này thích nhảy và nhảy rất giỏi, không làm vỡ bất kỳ vật thể nào nào nhờ sự nhanh nhẹn và thanh lịch."
+- Curly Coated Retriever: "Curly Coated Retriever ban đầu được phát triển như một chó săn và tính cách và hình dạng thể chất của chúng phản ánh mục đích này. Curlies vẫn được sử dụng ở nhiều nước như bạn săn chim, bao gồm cả săn chim trên cạn và nước."
+- Afghan Hound: "Tính cách của một con Afghan Hound điển hình có thể xa cách và trang nghiêm, nhưng vui vẻ và hề hước khi chơi. Giống này, như nhiều chó săn bằng mắt, có bản năng săn mồi cao và có thể không hòa hợp với động vật nhỏ."
+- Birman: "Birman, còn gọi là 'Con mèo thiêng liêng của Myanmar', là một giống mèo nhà. Birman là một con mèo lông dài, màu điểm, nổi bật với bộ lông lụa, đôi mắt xanh đậm và những 'găng tay' hoặc 'bít tất' trắng tương phản trên mỗi chân."
+- Polish Lowland Sheepdog: "Polish Lowland Sheepdogs ổn định và tự tin. Chúng có trí nhớ xuất sắc và có thể được huấn luyện tốt, nhưng có thể thống lĩnh một chủ sở hữu yếu đuối."
+- Toy Fox Terrier: "Toy Fox Terriers, giống như nhiều giống năng động và thông minh, có thể học cách phản ứng với nhiều từ. Toy Fox Terriers thường được sử dụng trong các vở xiếc bởi các nghệ sĩ hề, và chúng được cho là làm bạn đồng hành tuyệt vời cho chủ sở hữu có khiếu hài hước."
+- Portuguese Water Dog: "Portuguese Water dogs là bạn đồng hành tuyệt vời. Chúng đáng yêu, độc lập và thông minh và dễ huấn luyện trong kỹ năng vâng lời và năng động. Một khi đã quen biết, chúng thường thân thiện với người lạ và thích được vuốt ve, điều mà, nhờ bộ lông mềm, xốp, là điều mà con người sẵn sàng ban tặng."
+- Irish Red and White Setter: "Irish Red and White setter có thể là con chó trung thành và yêu thương nhất, làm cho chúng lý tưởng làm chó gia đình toàn diện. Chúng thực sự thông minh và phản ứng tốt với việc huấn luyện phù hợp nhưng chúng cần có nhiều việc để chiếm lấy thời gian."
+- Boston Terrier: "Boston Terrier là một giống dịu dàng thường có tính cách mạnh mẽ, vui vẻ và thân thiện với một sự hài hước vui tươi. Bostons thường sẵn lòng làm vừa lòng chủ và có thể được huấn luyện dễ dàng."
+- Schnauzer: "Schnauzer bắt nguồn từ từ tiếng Đức cho 'mũi' và có nghĩa là 'râu', vì chiếc mũi có râu đặc trưng của con chó. Mặc dù schnauzer được coi là loại chó giống terrier, chúng không có tính cách terrier điển hình."
+- British Longhair: "British Longhair là một phát triển lông dài từ giống British Shorthair lâu đời. Vào giữa thế kỷ 20, British Shorthairs được lai với các giống lông dài nhập khẩu với mục đích sản xuất những con chó to và mặt tròn hơn, trong khi vẫn giữ bộ lông ngắn" (có vẻ như đây là lỗi, British Longhair là giống mèo, không phải chó. Trong bản gốc: "British Longhair is a longer-haired development from the longstanding British Shorthair breed." nên dịch là: "British Longhair là một phát triển lông dài từ giống British Shorthair lâu đời." và câu sau: "In the mid-20th century, British Shorthairs were interbred with imported long-haired varieties with an aim to producing more stout and round-faced stock, while retaining the short coat" -> "Vào giữa thế kỷ 20, British Shorthairs được lai với các giống lông dài nhập khẩu nhằm sản xuất những con chó to và mặt tròn hơn, trong khi vẫn giữ bộ lông ngắn" nhưng đây là mèo, nên sửa thành "những con mèo" hoặc "giống". Mình sẽ dịch: "Vào giữa thế kỷ 20, British Shorthairs được lai với các giống lông dài nhập khẩu với mục đích sản xuất những con mèo to và mặt tròn hơn, trong khi vẫn giữ bộ lông ngắn" nhưng tên giống là British Longhair nên bộ lông là dài, có lẽ câu gốc có lỗi. Trong bản gốc: "while retaining the short coat" nhưng British Longhair có lông dài. Có lẽ ý là retaining some characteristics. Mình sẽ dịch sát: "trong khi vẫn giữ bộ lông ngắn" nhưng không hợp lý. Thực tế, British Longhair là lai để có lông dài hơn, nên có thể dịch: "trong khi vẫn giữ những đặc điểm cơ bản" hoặc dịch nguyên: "trong khi vẫn giữ bộ lông ngắn" nhưng sẽ gây nhầm lẫn. Tốt nhất dịch đúng nội dung: "British Longhair là một phát triển lông dài từ giống British Shorthair lâu đời. Vào giữa thế kỷ 20, British Shorthairs được lai với các giống lông dài nhập khẩu với mục đích sản xuất những con mèo to và mặt tròn hơn, trong khi vẫn giữ bộ lông ngắn." nhưng điều này mâu thuẫn. Có lẽ bản gốc sai, nhưng mình phải dịch đúng bản gốc. Vậy cứ dịch nguyên văn: "trong khi vẫn giữ bộ lông ngắn" dù không hợp lý.
+- Black and Tan Coonhound: "Black and Tan Coonhound là một thú cưng phù hợp: nó điềm tĩnh, dễ chịu, bình tĩnh và không gây phiền phức trong nhà; ngoài trời, bản năng săn mồi mạnh mẽ của nó chiếm ưu thế và có thể khó dừng lại khi nó bắt đầu theo dấu."
+- Old English Sheepdog: "Tiêu chuẩn giống mô tả con Old English Sheepdog lý tưởng là không bao giờ lo lắng hay hung hăng. Old English Sheepdog bắt nguồn từ loại chó chăn cừu rất cổ nhưng không có hồ sơ nào được ghi chép về chúng, và mọi thứ về những loại sớm nhất là suy đoán."
+- Sphynx: "Sphynxes nổi tiếng với hành vi hướng ngoại. Chúng thể hiện mức năng lượng cao, thông minh, tò mò và yêu thương chủ."
+- Basenji: "Basenji tỉnh táo, năng động, tò mò và dè dặt với người lạ. Basenji có xu hướng gắn bó tình cảm với một người duy nhất. Basenjis có thể không hòa hợp với thú cưng không phải chó."
+- Scottish Fold: "Scottish Fold là một giống mèo nhà với đột biến gen ưu thế tự nhiên ảnh hưởng đến sụn trên toàn cơ thể, khiến đôi tai 'gấp', uốn cong về phía trước và xuống phía trước đầu, tạo cho con mèo ngoại hình thường được mô tả là 'giống cú'."
+- Havana Brown: "Havana Brown là một con mèo thông minh thường dùng đôi chân để xem xét đồ vật và giao tiếp với chủ. Sự tò mò đưa chúng đến cửa khi khách đến thay vì thích trốn như nhiều mèo khác."
+- Miniature Schnauzer: "Thường dễ huấn luyện, Miniature Schnauzers có xu hướng là chó cảnh báo tuyệt vời với bản năng lãnh thổ tốt, nhưng có xu hướng sủa hơn cắn."
+- Brittany: "Brittany ban đầu được lai tạo như một con chó săn và được ghi nhận là dễ huấn luyện và tính nết dịu dàng. Giống này thường nhạy cảm hơn với sự chỉnh sửa so với các chó săn khác, và sự chỉnh sửa thô bạo thường không cần thiết."
+- Great Dane: "Great Dane là một giống chó nhà Đức lớn được biết đến với kích thước khổng lồ. Tên Đức của giống này là Deutsche Dogge, hay Great Dane. Tên Pháp là Dogue Allemand. Great Dane là một trong những giống chó cao nhất. Jill sẽ thay đổi điều này."
+- Doberman Pinscher: "Mặc dù chúng được coi là chó làm việc, Doberman Pinschers thường bị định kiến là hung dữ và hung hăng. Làm chó bảo vệ cá nhân, Doberman ban đầu được lai tạo cho những đặc điểm này."
+- Miniature Pinscher: "Miniature Pinschers dành cho chủ sở hữu chó có kinh nghiệm. Miniature Pinscher là một giống mạnh mẽ, hướng ngoại, năng động và độc lập. Miniature pinschers năng động và cần một sân có rào để chạy; chúng là chó agility tuyệt vời."
+- English Foxhound: "English Foxhound là chó săn bầy, do đó, nó hòa hợp tốt với các con chó khác và thích sự gắn bó với con người. Nó hòa hợp với ngựa, trẻ em và thú cưng khác, vì nó là một giống dịu dàng, xã hội và khoan dung."
+- Pomeranian: "Pomeranians thường thân thiện, vui vẻ và sôi nổi nhưng có thể hung hăng với chó khác và cố chứng tỏ bản thân. Pomeranians cảnh giác và nhận biết sự thay đổi trong môi trường, và sủa khi có kích thích mới có thể trở thành thói quen sủa quá mức trong bất kỳ tình huống nào."
+- Saint Bernard: "St. Bernard hay St Bernard là một giống chó làm việc rất lớn từ dãy Alps phía tây ở Thụy Sĩ, Ý và Pháp, ban đầu được lai tạo tại Đèo St Bernard lớn và nhỏ để cứu hộ. Jill sẽ thay đổi điều này."
+- Cocker Spaniel: "Cocker Spaniels ban đầu được lai tạo như chó săn với từ cocker bắt nguồn từ việc chúng được dùng để săn chim gà rừng Eurasian."
+- Abyssinian: "Abyssinian là một giống mèo nhà lông ngắn với bộ lông 'ticked' tabby đặc trưng, trong đó từng sợi lông có nhiều màu."
+- Siamese: "Siamese thường rất yêu thương và thông minh, nổi tiếng với bản chất xã hội. Nhiều con thích ở cùng con người và đôi khi được mô tả là 'người hướng ngoại'. Thường chúng gắn bó mạnh mẽ với một người duy nhất. Một số Siamese rất ồn ào, với giọng nói lớn, trầm — được gọi là 'Meezer', từ đó chúng có một trong những biệt danh."
+- "It's {0.SimFirstName}'s birthday. The time just flies by, doesn't it?" -> "Sinh nhật của {0.SimFirstName} rồi. Thời gian trôi nhanh thật, phải không?"
+- "Birth! Life, the universe, and everything await! It'll be a long road, kid." -> "Sinh ra! Cuộc sống, vũ trụ và mọi thứ đang chờ đón! Đây sẽ là một chặng đường dài, nhỏ ạ."
+- "Childhood! Boundless creativity, rulebreaking, and temper-tantrums await! Let the games begin." -> "Thời thơ ấu! Sự sáng tạo vô hạn, phá vỡ luật lệ và cơn giận dỗi đang chờ đón! Hãy bắt đầu trò chơi."
+
+Phần này có nhiều câu, mình phải đảm bảo mỗi dòng input tương ứng một dòng output. Trong input, có các dòng riêng biệt, nhưng một số mô tả dài có thể là một dòng. Trong danh sách trên, mỗi mô tả là một dòng riêng? Hãy kiểm tra kỹ: Trong user input, mỗi mô tả giống chó/mèo là một dòng riêng, bắt đầu bằng tên giống rồi đến mô tả. Vậy mình phải giữ nguyên cấu trúc đó: mỗi dòng bắt đầu bằng tên giống (giữ nguyên) rồi đến phần mô tả dịch sang tiếng Việt.
+
+Tuy nhiên, trong input, có một số dòng chỉ là tên giống, sau đó dòng tiếp theo là mô tả? Không, trong user input, mỗi cặp là một dòng có cả tên và mô tả, ví dụ: "Himalayan\nThese cats are sweet-tempered..." Nhưng trong user input, nó được viết liên tục: "Himalayan\nThese cats are sweet-tempered..." Nhưng thực tế trong message, nó là một khối văn bản. Mình cần xem cách format: User input là một chuỗi lớn với các dòng ngăn cách bằng \n. Vậy mình phải tách theo dòng và dịch từng dòng.
+
+Trong user input, có các dòng như:
+"Rebate Received!"
+"{0.Number}% off for being Thrifty"
+...
+"Himalayan"
+"These cats are sweet-tempered, intelligent, and generally very social and good companions. Because of their heritage from the Siamese cats, they tend to be more active than Persians."
+Nhưng thực tế, trong user input, tên giống và mô tả là trên cùng một dòng hay riêng? Trong user input, nó viết: "Himalayan\nThese cats are..." vậy là hai dòng. Tương tự cho các giống khác. Vậy mỗi giống có hai dòng: dòng đầu là tên giống, dòng thứ hai là mô tả.
+
+Kiểm tra kỹ: Sau "Calico" là dòng mô tả, nhưng trong user input: "Calico\nCalico cats are..." Vậy đúng là mỗi giống có hai dòng: dòng 1: tên giống, dòng 2: mô tả. Tuy nhiên, có một số ngoại lệ? Ví dụ: "Golden Retriever\nThe Golden Retriever is..." Đúng vậy.
+
+Vậy mình phải giữ nguyên cấu trúc: dòng tên giống (không dịch, giữ nguyên) và dòng mô tả (dịch sang tiếng Việt). Trong user input, tên giống là một từ, giữ nguyên.
+
+Nhưng có trường hợp tên giống có chứa ký tự đặc biệt? Ví dụ: "American Bobtail", "Standard Schnauzer", v.v. Mình giữ nguyên.
+
+Vậy cách làm: Tách input thành các dòng. Với mỗi dòng:
+- Nếu dòng chứa biến dạng {0.Number}, {0.Money}, {0.SimFirstName}, {1.String} thì dịch phần còn lại, giữ nguyên biến.
+- Nếu dòng là tên giống (không có biến, không có chữ cái in hoa toàn bộ? Nhưng tên giống đều in hoa chữ cái đầu) thì giữ nguyên.
+- Nếu dòng là mô tả bình thường thì dịch sang tiếng Việt.
+
+Lưu ý: Có một số dòng có thẻ HTML như "&quot;" trong bản gốc, mình giữ nguyên thẻ, nhưng khi dịch, nếu có thể thay thế bằng dấu ngoặc kép tiếng Việt? Nhưng yêu cầu: "Giữ nguyên thẻ HTML, biến {0.String}, ký tự đặc biệt." Vậy nên mình giữ nguyên &quot; trong quá trình dịch, không chuyển sang dấu ngoặc kép thường. Tuy nhiên, trong bản dịch tiếng Việt, có thể dùng dấu ngoặc kép thường, nhưng vì yêu cầu giữ nguyên thẻ HTML, nên mình giữ nguyên &quot;.
+
+Ví dụ: "the &quot;Sacred Cat of Burma&quot;," dịch thành "con mèo thiêng liêng của Burma&quot;,"? Không, vì &quot; là thẻ HTML, nên trong output phải giữ nguyên &quot;. Vậy dịch: "con mèo thiêng liêng của Burma&quot;," nhưng thực tế trong câu: "The Birman, also called the &quot;Sacred Cat of Burma&quot;,[1] is a domestic cat breed." Dịch: "Birman, còn được gọi là &quot;Con mèo thiêng liêng của Burma&quot;,[1] là một giống mèo nhà."
+
+Vậy mình sẽ dịch và giữ nguyên các thẻ HTML như &quot;, &amp;, v.v. Trong user input có &quot; và có lẽ &amp;? Trong danh sách trên, có &quot; trong Birman và Havana Brown? Trong Havana Brown: "Havana Brown is an intelligent cat that often uses its paws both to examine objects and to communicate with its owners." không có thẻ. Chỉ có Birman và có lẽ Afghan Hound? Không. Có Scottish Fold: "causes the ears to &quot;fold&quot;," vậy có &quot;. Vậy giữ nguyên.
+
+Cũng có [1] trong Birman, đó là tham chiếu, giữ nguyên.
+
+Về việc dịch tên giống: Mình giữ nguyên tên tiếng Anh, không dịch.
+
+Bây giờ, mình sẽ lần lượt dịch từng dòng.
+
+Đầu tiên, các dòng về hoàn tiền:
+
+1. "Rebate Received!" -> "Hoàn tiền đã nhận!"
+2. "{0.Number}% off for being Thrifty" -> "{0.Number}% giảm giá vì tiết kiệm"
+3. "{0.Number}% off for purchasing Art and leveraging Critical Connections" -> "{0.Number}% giảm giá vì mua nghệ thuật và tận dụng kết nối quan trọng"
+4. "{0.Number}% off for shopping on Rebate Day!" -> "{0.Number}% giảm giá khi mua sắm vào Ngày Hoàn Tiền!"
+5. "A rebate check of {0.Money} has been received! Sims in the household were able to save on their recent purchases:\n{1.String}" -> "Một séc hoàn tiền trị giá {0.Money} đã được nhận! Các Sim trong hộ gia đình đã tiết kiệm được từ những mua sắm gần đây:\n{1.String}"
+6. "{0.Number} for growing coconuts!" -> "{0.Number} cho việc trồng dừa!"
+7. "It seems there is no phone service in the area." -> "Có vẻ như không có dịch vụ điện thoại trong khu vực."
+8. "Himalayan" -> giữ nguyên "Himalayan"
+9. "These cats are sweet-tempered, intelligent, and generally very social and good companions. Because of their heritage from the Siamese cats, they tend to be more active than Persians." -> "Những chú mèo này có tính dịu dàng, thông minh và thường rất xã hội, là bạn đồng hành tốt. Do dòng dõi từ mèo Siamese, chúng có xu hướng năng động hơn mèo Persian."
+10. "Golden Retriever" -> giữ nguyên
+11. "The Golden Retriever is a large-sized breed of dog bred as gun dogs to retrieve shot waterfowl such as ducks and upland game birds during hunting and shooting parties, and were named 'retriever' because of their ability to retrieve shot game undamaged. Jill will change this and likely remove references to guns and things that they shoot." -> "Golden Retriever là một giống chó lớn được lai tạo để làm chó săn, thu hồi mồi săn như vịt trời và chim gà rừng trong các cuộc săn bắn, và được đặt tên 'retriever' vì khả năng thu hồi mồi săn không bị hư hại. Jill sẽ thay đổi điều này và có thể xóa các tham chiếu đến súng và những thứ chúng bắn."
+... và cứ tiếp tục.
+
+Mình cần chú ý: Có một số câu có "Jill will change this." Đó là ghi chú của người viết, mình giữ nguyên và dịch: "Jill sẽ thay đổi điều này."
+
+Cũng có câu: "Jill will change this and likely remove references to guns and things that they shoot." Dịch: "Jill sẽ thay đổi điều này và có thể xóa các tham chiếu đến súng và những thứ chúng bắn."
+
+Trong phần cuối, có các câu về sinh nhật:
+"It's {0.SimFirstName}'s birthday. The time just flies by, doesn't it?" -> "Sinh nhật của {0.SimFirstName} rồi. Thời gian trôi nhanh thật, phải không?"
+"Birth! Life, the universe, and everything await! It'll be a long road, kid." -> "Sinh ra! Cuộc sống, vũ trụ và mọi thứ đang chờ đón! Đây sẽ là một chặng đường dài, nhỏ ạ."
+"Childhood! Boundless creativity, rulebreaking, and temper-tantrums await! Let the games begin." -> "Thời thơ ấu! Sự sáng tạo vô hạn, phá vỡ luật lệ và cơn giận dỗi đang chờ đón! Hãy bắt đầu trò chơi."
+
+Bây giờ, mình sẽ tổng hợp lại toàn bộ, đảm bảo mỗi dòng input có một dòng output, không thêm hay bớt.
+
+Mình cần kiểm tra số dòng input: Trong user input, có bao nhiêu dòng? Mình đếm thủ công:
+
+1. Rebate Received!
+2. {0.Number}% off for being Thrifty
+3. {0.Number}% off for purchasing Art and leveraging Critical Connections
+4. {0.Number}% off for shopping on Rebate Day!
+5. A rebate check of {0.Money} has been received! Sims in the household were able to save on their recent purchases:\n{1.String}
+6. {0.Number} for growing coconuts!
+7. It seems there is no phone service in the area.
+8. Himalayan
+9. These cats are sweet-tempered, intelligent, and generally very social and good companions. Because of their heritage from the Siamese cats, they tend to be more active than Persians.
+10. Golden Retriever
+11. The Golden Retriever is a large-sized breed of dog bred as gun dogs to retrieve shot waterfowl such as ducks and upland game birds during hunting and shooting parties, and were named 'retriever' because of their ability to retrieve shot game undamaged. Jill will change this and likely remove references to guns and things that they shoot.
+12. American Bobtail
+13. The American Bobtail is an uncommon breed of domestic cat which was developed in the late 1960s. It is most notable for its stubby "bobbed" tail about one-third to one-half the length of a normal cat's tail.
+14. Standard Schnauzer
+15. Distinguished by their long beards and eyebrows, Standard Schnauzers are always pepper and salt or less commonly black in color, with a stiff and wiry hair coat on the body similar to that of other wirehaired breeds.
+16. Chihuahua
+17. How a Chihuahua turns out depends mightily on the genetic temperament of his parents and grandparents. Chihuahuas can be easily provoked to attack, and are therefore generally unsuitable for homes with small children. The breed tends to be fiercely loyal to one particular person and in some cases may become over protective of the person, especially around other people or animals.
+18. Calico
+19. Calico cats are domestic cats with a spotted or particolored coat that is predominantly white, with patches of two other colors.
+20. Wire Fox Terrier
+21. Two of the wire fox terrier's most distinctive traits are its energy and intelligence. It has a low threshold for boredom and requires stimulation, exercise and attention. The wire fox terrier is a companion animal that requires near-constant attention.
+22. Welsh Springer Spaniel
+23. The Welsh Springer Spaniel is active, loyal, and affectionate. They may meet strangers barking when in their territory, or act aloof, cautious or wary. The breed is well known for being friendly and demonstrative to all members of the family, especially children, and accepting other pets of the household with a friendly, playful attitude.
+24. LaPerm
+25. The LaPerm is in many ways a cat of moderation with no extremes and is still true to its original type. It does however have an unusual coat.
+26. West Highland White Terrier
+27. The temperament of the West Highland White Terrier can vary greatly, with some being friendly towards children, whilst others prefer solitude. It will not tolerate rough handling such as a child pulling on its ears, and can be both food- and toy-possessive.
+28. Field Spaniel
+29. The Field Spaniel can be a good family dog while it has a job to do. They are suitable for dog agility and hunting. Without some sort of purpose, the dog can often try to amuse itself and cause mischief.
+30. Persian
+31. The Persian cat is a long-haired breed of cat characterized by its round face and short muzzle. In Britain, it is sometimes called the Longhair or Persian Longhair. It is also known as the Shirazi cat or Iranian cat, particularly in the Middle East. Jill will change this.
+32. Otterhound
+33. The Otterhound is a large, rough-coated hound with an imposing head. Originally bred for hunting, it has great strength and a strong body with long striding steps. This makes it able to perform prolonged hard work.
+34. Goldendoodle
+35. A Goldendoodle is a cross-breed obtained by breeding a golden retriever with a poodle. The original purpose of the cross was to attempt to develop guide dogs suitable for visually impaired individuals with allergies.
+36. Singapura
+37. The Singapura is one of the smallest breeds of cats, noted for its large eyes and ears, brown ticked coat and blunt tail.
+38. Husky
+39. Husky is a general name for a sled-type of dog used in northern regions, differentiated from other sled-dog types by their fast pulling style. They are an ever-changing cross-breed of the fastest dogs.
+40. Chesapeake Bay Retriever
+41. The quintessential Chesapeake Bay Retriever has a bright and happy disposition, intelligence, quiet good sense, and an affectionate protective nature. Some can be quite vocal when happy, and some will 'smile' by baring their front teeth in a peculiar grin.
+42. Oriental Longhair
+43. The oriental longhair is a really active cat that likes to play a lot. If the owner does not have the time to do so, it will find a toy to play on its own. This breed enjoys jumping and does it really well, without breaking any objects due to its agility and elegance.
+44. Curly Coated Retriever
+45. The Curly Coated Retriever was originally developed as a gun dog and their temperament and conformation reflect this purpose. Curlies are still used in many countries as bird hunting companions, including in both upland and waterfowl hunting.
+46. Afghan Hound
+47. The temperament of the typical Afghan Hound can be aloof and dignified, but happy and clownish when it's playing. This breed, as is the case with many sighthounds, has a high prey drive and may not get along with small animals.
+48. Birman
+49. The Birman, also called the "Sacred Cat of Burma",[1] is a domestic cat breed. The Birman is a long-haired, color-pointed cat distinguished by a silky coat, deep blue eyes, and contrasting white "gloves" or "socks" on each paw.
+50. Polish Lowland Sheepdog
+51. Polish Lowland Sheepdogs are stable and self-confident. They have an excellent memory and can be well trained, but may dominate a weak-willed owner.
+52. Toy Fox Terrier
+53. Toy Fox Terriers, like many active and intelligent breeds, can learn to respond to a number of words. Toy Fox Terriers were used commonly in circus shows by clowns, and they are said to make great companions for owners with a good sense of humor.
+54. Portuguese Water Dog
+55. Portuguese Water dogs make excellent companions.They are loving, independent, and intelligent and are easily trained in obedience and agility skills. Once introduced, they are generally friendly to strangers, and enjoy being petted, which, due to their soft, fluffy coats, is a favour that human beings willingly grant them.
+56. Irish Red and White Setter
+57. The Irish Red and White setter can be the most devoted and affectionate of dogs making them ideal all-round family dogs. They are extremely intelligent and respond well to proper training but they do need to have plenty to occupy them.
+58. Boston Terrier
+59. The Boston Terrier is a gentle breed that typically has a strong, happy-go-lucky, and friendly personality with a merry sense of humour. Bostons are generally eager to please their owner and can be easily trained.
+60. Schnauzer
+61. Schnauzer comes from the German word for "snout" and means colloquially "moustache", because of the dog's distinctively bearded snout. Although the schnauzer is considered a terrier-type dog, they do not have the typical terrier temperament.
+62. British Longhair
+63. The British Longhair is a longer-haired development from the longstanding British Shorthair breed. In the mid-20th century, British Shorthairs were interbred with imported long-haired varieties with an aim to producing more stout and round-faced stock, while retaining the short coat
+64. Black and Tan Coonhound
+65. The Black and Tan Coonhound makes a suitable pet: it is mellow, amiable, calm, and unobtrusive indoors; outdoors, its strong hunting instinct takes over and it can be difficult to turn it from tracking after it starts trailing.
+66. Old English Sheepdog
+67. The breed standards describe the ideal Old English Sheepdog as never being nervous or aggressive. The Old English Sheepdog comes from the very old pastoral type dogs but no records were kept of the dogs, and everything about the earliest types is guesswork.
+68. Sphynx
+69. Sphynxes are known for their extroverted behavior. They display a high level of energy, intelligence, curiosity, and affection for their owners.
+70. Basenji
+71. The Basenji is alert, energetic, curious and reserved with strangers. The Basenji tends to become emotionally attached to a single human. Basenjis may not get along with non-canine pets.
+72. Scottish Fold
+73. The Scottish Fold is a breed of domestic cat with a natural dominant-gene mutation that affects cartilage throughout the body, causing the ears to "fold", bending forward and down towards the front of their head, which gives the cat what is often described as an "owl-like" appearance.
+74. Havana Brown
+75. The Havana Brown is an intelligent cat that often uses its paws both to examine objects and to communicate with its owners. Curiosity brings them to the door as visitors arrive rather than preferring to be hidden as many cats will do.
+76. Miniature Schnauzer
+77. Usually easy to train, Miniature Schnauzers tend to be excellent watchdogs with a good territorial instinct, but more inclined toward barking than biting.
+78. Brittany
+79. The Brittany was originally bred as a hunting dog and noted for being easy to train and sweet-natured. The breed is generally more sensitive to correction than other hunters, and harsh corrections are often unnecessary.
+80. Great Dane
+81. The Great Dane is a large German breed of domestic dog known for its giant size. The German name of the breed is Deutsche Dogge, or German Mastiff. The French name is Dogue Allemand. The Great Dane is one of the tallest dog breeds. Jill will change this.
+82. Doberman Pinscher
+83. Although they are considered to be working dogs, Doberman Pinschers are often stereotyped as being ferocious and aggressive. As a personal protection dog, the Doberman was originally bred for these traits.
+84. Miniature Pinscher
+85. Miniature Pinschers are for experienced dog owners. The Miniature Pinscher is an assertive, outgoing, active and independent breed. Miniature pinschers are energetic and need a fenced in yard to run in; they make great agility dogs.
+86. English Foxhound
+87. The English Foxhound is a pack hound, therefore, it gets along well with other dogs and enjoys human companionship. It gets along with horses, children, and other pets, as it is a gentle, social, and tolerant breed.
+88. Pomeranian
+89. Pomeranians are typically friendly, playful and lively but can be aggressive to other dogs and try to prove themselves. Pomeranians are alert and aware of changes in their environment, and barking at new stimuli can develop into a habit of barking excessively in any situation.
+90. Saint Bernard
+91. The St. Bernard or St Bernard is a breed of very large working dog from the western Alps in Switzerland, Italy and France, originally bred at the Great and Little St Bernard Pass for rescue. Jill will change this.
+92. Cocker Spaniel
+93. Cocker Spaniels were originally bred as hunting dogs with the term cocker deriving from their use to hunt the Eurasian woodcock.
+94. Abyssinian
+95. The Abyssinian is a breed of domestic short-haired cat with a distinctive "ticked" tabby coat, in which individual hairs are banded with different colors.
+96. Siamese
+97. Siamese are usually very affectionate and intelligent cats, renowned for their social nature. Many enjoy being with people and are sometimes described as "extroverts". Often they bond strongly to a single person. Some Siamese are extremely vocal, with a loud, low-pitched voice—known as "Meezer", from which they get one of their nicknames.
+98. It's {0.SimFirstName}'s birthday. The time just flies by, doesn't it?
+99. Birth! Life, the universe, and everything await! It'll be a long road, kid.
+100. Childhood! Boundless creativity, rulebreaking, and temper-tantrums await! Let the games begin.
+
+Vậy có tổng cộng 100 dòng? Không, đây là đánh số từng dòng, nhưng thực tế có 100 dòng? Tôi đếm từ 1 đến 100, đúng là 100 dòng. Tuy nhiên, có một số dòng là tên giống và dòng mô tả, nên tổng số dòng là 100.
+
+Mình phải đảm bảo output có đúng 100 dòng, mỗi dòng dịch tương ứng.
+
+Bây giờ, mình sẽ viết output.
+
+Lưu ý: Trong dòng 5, có "\n{1.String}", mình giữ nguyên \n và {1.String}.
+
+Trong dòng 13, có "stubby &quot;bobbed&quot; tail" -> trong input là "stubby &quot;bobbed&quot; tail", vậy mình giữ nguyên &quot;. Dịch: "đuôi ngắn 'bobbed' khoảng..." nhưng vì giữ thẻ, nên để &quot;bobbed&quot;. Tuy nhiên, trong bản dịch tiếng Việt, có thể dùng dấu nháy đơn, nhưng vì có thẻ &quot; nên mình giữ nguyên. Tuy nhiên, &quot; là thay thế cho dấu ngoặc kép, nên khi dịch, mình có thể dùng dấu ngoặc kép thường? Nhưng yêu cầu: "Giữ nguyên thẻ HTML" nên mình phải giữ nguyên &quot; trong text. Vậy dịch: "cái đuôi ngắn &quot;bobbed&quot; khoảng một phần ba đến một nửa chiều dài đuôi mèo thông thường."
+
+Tương tự cho các chỗ khác.
+
+Trong dòng 49, có "the &quot;Sacred Cat of Burma&quot;,[1]" -> giữ nguyên &quot; và [1].
+
+Trong dòng 61, có "Schnauzer comes from the German word for &quot;snout&quot; and means colloquially &quot;moustache&quot;," -> giữ nguyên &quot;.
+
+Trong dòng 73, có "causing the ears to &quot;fold&quot;," -> giữ nguyên.
+
+Trong dòng 95, có 'distinctive "ticked" tabby coat' -> có dấu ngoặc kép, nhưng trong input là "distinctive &quot;ticked&quot; tabby coat"? Trong user input: 'distinctive &quot;ticked&quot; tabby coat'? Thực tế, trong user input: 'The Abyssinian is a breed of domestic short-haired cat with a distinctive &quot;ticked&quot; tabby coat' Vậy có &quot;. Vậy giữ nguyên.
+
+Trong dòng 97, có 'sometimes described as "extroverts"' và '—known as "Meezer"' -> trong user input: 'sometimes described as "extroverts". Often they bond strongly to a single person. Some Siamese are extremely vocal, with a loud, low-pitched voice—known as "Meezer",' Có vẻ không có thẻ HTML, chỉ là dấu ngoặc kép thường. Nhưng yêu cầu giữ nguyên ký tự đặc biệt, nên dấu ngoặc kép thường vẫn giữ. Tuy nhiên, nếu có thẻ HTML thì giữ thẻ. Ở đây không có thẻ, nên giữ nguyên dấu ngoặc kép. Vậy dịch: "đôi khi được mô tả là &quot;người hướng ngoại&quot;." nhưng vì không có thẻ, nên để "người hướng ngoại". Tuy nhiên, để an toàn, mình sẽ giữ nguyên dấu ngoặc kép như trong bản gốc. Trong bản gốc, nếu là dấu ngoặc kép ASCII, thì giữ nguyên. Chỉ khi là thẻ HTML như &quot; thì mình giữ nguyên thẻ.
+
+Trong user input, các dấu ngoặc kép trong phần mô tả thường là dấu ngoặc kép thông thường, không phải thẻ HTML. Ví dụ dòng 11: 'and were named 'retriever'' có dấu nháy đơn. Dòng 13: 'stubby "bobbed" tail' có dấu ngoặc kép. Vậy mình dịch sát, giữ nguyên dấu ngoặc kép và nháy đơn.
+
+Nhưng trong dòng 49, có &quot; vì đó là thẻ HTML. Vậy mình phân biệt: nếu trong input có &quot; thì output giữ &quot;, nếu có " thì giữ ".
+
+Cũng có dấu gạch ngang: trong dòng 47: "high prey drive" giữ nguyên.
+
+Vậy bây giờ mình sẽ dịch toàn bộ.
+
+Mình sẽ viết output theo từng dòng.
+
+Dòng 1: "Hoàn tiền đã nhận!"
+Dòng 2: "{0.Number}% giảm giá vì tiết kiệm"
+Dòng 3: "{0.Number}% giảm giá vì mua nghệ thuật và tận dụng kết nối quan trọng"
+Dòng 4: "{0.Number}% giảm giá khi mua sắm vào Ngày Hoàn Tiền!"
+Dòng 5: "Một séc hoàn tiền trị giá {0.Money} đã được nhận! Các Sim trong hộ gia đình đã tiết kiệm được từ những mua sắm gần đây:\n{1.String}"
+Dòng 6: "{0.Number} cho việc trồng dừa!"
+Dòng 7: "Có vẻ như không có dịch vụ điện thoại trong khu vực."
+Dòng 8: "Himalayan" (giữ nguyên)
+Dòng 9: "Những chú mèo này có tính dịu dàng, thông minh và thường rất xã hội, là bạn đồng hành tốt. Do dòng dõi từ mèo Siamese, chúng có xu hướng năng động hơn mèo Persian."
+Dòng 10: "Golden Retriever" (giữ nguyên)
+Dòng 11: "Golden Retriever là một giống chó lớn được lai tạo để làm chó săn, thu hồi mồi săn như vịt trời và chim gà rừng trong các cuộc săn bắn, và được đặt tên 'retriever' vì khả năng thu hồi mồi săn không bị hư hại. Jill sẽ thay đổi điều này và có thể xóa các tham chiếu đến súng và những thứ chúng bắn."
+Dòng 12: "American Bobtail" (giữ nguyên)
+Dòng 13: "American Bobtail là một giống mèo nhà hiếm được phát triển vào cuối những năm 1960. Nổi bật nhất là cái đuôi ngắn &quot;bobbed&quot; khoảng một phần ba đến một nửa chiều dài đuôi mèo thông thường." (giữ &quot;)
+Dòng 14: "Standard Schnauzer" (giữ nguyên)
+Dòng 15: "Điểm đặc trưng với bộ râu và lông mày dài, Standard Schnauzers thường có màu tiêu và muối hoặc ít phổ biến hơn là màu đen, với bộ lông cứng và xoăn trên cơ thể tương tự như các giống lông xoăn khác."
+Dòng 16: "Chihuahua" (giữ nguyên)
+Dòng 17: "Một chú Chihuahua ra sao phụ thuộc rất nhiều vào tính khí di truyền của cha mẹ và ông bà nó. Chihuahuas có thể dễ bị kích động để tấn công, và do đó thường không phù hợp với các gia đình có trẻ nhỏ. Giống này có xu hướng trung thành tuyệt đối với một người cụ thể và trong một số trường hợp có thể trở nên bảo vệ quá mức người đó, đặc biệt xung quanh người khác hoặc động vật khác."
+Dòng 18: "Calico" (giữ nguyên)
+Dòng 19: "Mèo Calico là mèo nhà có bộ lông đốm hoặc nhiều màu, chủ yếu là trắng, với các mảng hai màu khác."
+Dòng 20: "Wire Fox Terrier" (giữ nguyên)
+Dòng 21: "Hai đặc điểm nổi bật nhất của wire fox terrier là năng lượng và thông minh. Nó có ngưỡng thấp cho sự nhàm chán và cần được kích thích, tập luyện và chú ý. Wire fox terrier là động vật bạn đồng hành đòi hỏi sự chú ý gần như liên tục."
+Dòng 22: "Welsh Springer Spaniel" (giữ nguyên)
+Dòng 23: "Welsh Springer Spaniel là năng động, trung thành và yêu thương. Chúng có thể chào người lạ bằng cách sủa khi ở trên lãnh thổ của chúng, hoặc thể hiện sự xa cách, thận trọng hoặc dè dặt. Giống này nổi tiếng là thân thiện và thể hiện tình cảm với tất cả thành viên trong gia đình, đặc biệt là trẻ em, và chấp nhận các thú cưng khác trong nhà với thái độ thân thiện, vui vẻ."
+Dòng 24: "LaPerm" (giữ nguyên)
+Dòng 25: "LaPerm theo nhiều cách là một con mèo điều độ, không có cực đoan và vẫn giữ nguyên loại ban đầu. Tuy nhiên, nó có một bộ lông khác thường."
+Dòng 26: "West Highland White Terrier" (giữ nguyên)
+Dòng 27: "Tính khí của West Highland White Terrier có thể thay đổi rất lớn, với một số con thân thiện với trẻ em, trong khi những con khác thích sự cô độc. Nó sẽ không chịu đựng sự xử lý thô bạo như một đứa trẻ kéo tai nó, và có thể cả thức ăn lẫn đồ chơi đều chiếm hữu."
+Dòng 28: "Field Spaniel" (giữ nguyên)
+Dòng 29: "Field Spaniel có thể là một con chó gia đình tốt khi nó có công việc để làm. Chúng phù hợp với môn dog agility và săn bắn. Nếu không có một mục đích nào đó, con chó thường cố tự giải trí và gây chuyện."
+Dòng 30: "Persian" (giữ nguyên)
+Dòng 31: "Mèo Persian là một giống mèo lông dài với khuôn mặt tròn và mũi ngắn. Ở Anh, nó đôi khi được gọi là Longhair hoặc Persian Longhair. Nó cũng được biết đến là mèo Shirazi hoặc mèo Iran, đặc biệt ở Trung Đông. Jill sẽ thay đổi điều này."
+Dòng 32: "Otterhound" (giữ nguyên)
+Dòng 33: "Otterhound là một giống chó săn lớn, lông thô, với đầu ấn tượng. Ban đầu được lai tạo để săn bắn, nó có sức mạnh lớn và cơ thể khỏe mạnh với những bước chân dài. Điều này cho phép nó thực hiện công việc khó khăn kéo dài."
+Dòng 34: "Goldendoodle" (giữ nguyên)
+Dòng 35: "Goldendoodle là một giống lai được lai tạo bằng cách giao phối giữa golden retriever và poodle. Mục đích ban đầu của việc lai tạo là cố gắng phát triển chó dẫn đường phù hợp cho người khiếm thị bị dị ứng."
+Dòng 36: "Singapura" (giữ nguyên)
+Dòng 37: "Singapura là một trong những giống mèo nhỏ nhất, được biết đến với đôi mắt và đôi tai lớn, bộ lông nâu đốm và đuôi ngắn."
+Dòng 38: "Husky" (giữ nguyên)
+Dòng 39: "Husky là một cái tên chung cho loại chó kéo xe được sử dụng ở vùng phía Bắc, khác với các loại chó kéo xe khác bởi phong cách kéo nhanh của chúng. Chúng là một giống lai luôn thay đổi của những con chó nhanh nhất."
+Dòng 40: "Chesapeake Bay Retriever" (giữ nguyên)
+Dòng 41: "Con Chesapeake Bay Retriever điển hình có tính cách vui vẻ, hạnh phúc, thông minh, lòng tốt và bản năng bảo vệ yêu thương. Một số con có thể khá ồn ào khi hạnh phúc, và một số sẽ 'cười' bằng cách để lộ răng trước trong một nụ cười kỳ lạ."
+Dòng 42: "Oriental Longhair" (giữ nguyên)
+Dòng 43: "Mèo Oriental Longhair là một con mèo thực sự năng động thích chơi nhiều. Nếu chủ không có thời gian để chơi, nó sẽ tìm một món đồ chơi để tự chơi. Giống này thích nhảy và nhảy rất giỏi, không làm vỡ bất kỳ vật thể nào nào nhờ sự nhanh nhẹn và thanh lịch."
+Dòng 44: "Curly Coated Retriever" (giữ nguyên)
+Dòng 45: "Curly Coated Retriever ban đầu được phát triển như một chó săn và tính cách và hình dạng thể chất của chúng phản ánh mục đích này. Curlies vẫn được sử dụng ở nhiều nước như bạn săn chim, bao gồm cả săn chim trên cạn và nước."
+Dòng 46: "Afghan Hound" (giữ nguyên)
+Dòng 47: "Tính cách của một con Afghan Hound điển hình có thể xa cách và trang nghiêm, nhưng vui vẻ và hề hước khi chơi. Giống này, như nhiều chó săn bằng mắt, có bản năng săn mồi cao và có thể không hòa hợp với động vật nhỏ."
+Dòng 48: "Birman" (giữ nguyên)
+Dòng 49: "Birman, còn được gọi là &quot;Con mèo thiêng liêng của Burma&quot;,[1] là một giống mèo nhà. Birman là một con mèo lông dài, màu điểm, nổi bật với bộ lông lụa, đôi mắt xanh đậm và những 'găng tay' hoặc 'bít tất' trắng tương phản trên mỗi chân." (giữ &quot; và [1])
+Dòng 50: "Polish Lowland Sheepdog" (giữ nguyên)
+Dòng 51: "Polish Lowland Sheepdogs ổn định và tự tin. Chúng có trí nhớ xuất sắc và có thể được huấn luyện tốt, nhưng có thể thống lĩnh một chủ sở hữu yếu đuối."
+Dòng 52: "Toy Fox Terrier" (giữ nguyên)
+Dòng 53: "Toy Fox Terriers, giống như nhiều giống năng động và thông minh, có thể học cách phản ứng với nhiều từ. Toy Fox Terriers thường được sử dụng trong các vở xiếc bởi các nghệ sĩ hề, và chúng được cho là làm bạn đồng hành tuyệt vời cho chủ sở hữu có khiếu hài hước."
+Dòng 54: "Portuguese Water Dog" (giữ nguyên)
+Dòng 55: "Portuguese Water dogs là bạn đồng hành tuyệt vời. Chúng đáng yêu, độc lập và thông minh và dễ huấn luyện trong kỹ năng vâng lời và năng động. Một khi đã quen biết, chúng thường thân thiện với người lạ và thích được vuốt ve, điều mà, nhờ bộ lông mềm, xốp, là điều mà con người sẵn sàng ban tặng."
+Dòng 56: "Irish Red and White Setter" (giữ nguyên)
+Dòng 57: "Irish Red and White setter có thể là con chó trung thành và yêu thương nhất, làm cho chúng lý tưởng làm chó gia đình toàn diện. Chúng thực sự thông minh và phản ứng tốt với việc huấn luyện phù hợp nhưng chúng cần có nhiều việc để chiếm lấy thời gian."
+Dòng 58: "Boston Terrier" (giữ nguyên)
+Dòng 59: "Boston Terrier là một giống dịu dàng thường có tính cách mạnh mẽ, vui vẻ và thân thiện với một sự hài hước vui tươi. Bostons thường sẵn lòng làm vừa lòng chủ và có thể được huấn luyện dễ dàng."
+Dòng 60: "Schnauzer" (giữ nguyên)
+Dòng 61: "Schnauzer bắt nguồn từ từ tiếng Đức cho 'mũi' và có nghĩa là 'râu', vì chiếc mũi có râu đặc trưng của con chó. Mặc dù schnauzer được coi là loại chó giống terrier, chúng không có tính cách terrier điển hình."
+Dòng 62: "British Longhair" (giữ nguyên)
+Dòng 63: "British Longhair là một phát triển lông dài từ giống British Shorthair lâu đời. Vào giữa thế kỷ 20, British Shorthairs được lai với các giống lông dài nhập khẩu với mục đích sản xuất những con mèo to và mặt tròn hơn, trong khi vẫn giữ bộ lông ngắn." (dịch sát, dù có vẻ mâu thuẫn)
+Dòng 64: "Black and Tan Coonhound" (giữ nguyên)
+Dòng 65: "Black and Tan Coonhound là một thú cưng phù hợp: nó điềm tĩnh, dễ chịu, bình tĩnh và không gây phiền phức trong nhà; ngoài trời, bản năng săn mồi mạnh mẽ của nó chiếm ưu thế và có thể khó dừng lại khi nó bắt đầu theo dấu."
+Dòng 66: "Old English Sheepdog" (giữ nguyên)
+Dòng 67: "Tiêu chuẩn giống mô tả con Old English Sheepdog lý tưởng là không bao giờ lo lắng hay hung hăng. Old English Sheepdog bắt nguồn từ loại chó chăn cừu rất cổ nhưng không có hồ sơ nào được ghi chép về chúng, và mọi thứ về những loại sớm nhất là suy đoán."
+Dòng 68: "Sphynx" (giữ nguyên)
+Dòng 69: "Sphynxes nổi tiếng với hành vi hướng ngoại. Chúng thể hiện mức năng lượng cao, thông minh, tò mò và yêu thương chủ."
+Dòng 70: "Basenji" (giữ nguyên)
+Dòng 71: "Basenji tỉnh táo, năng động, tò mò và dè dặt với người lạ. Basenji có xu hướng gắn bó tình cảm với một người duy nhất. Basenjis có thể không hòa hợp với thú cưng không phải chó."
+Dòng 72: "Scottish Fold" (giữ nguyên)
+Dòng 73: "Scottish Fold là một giống mèo nhà với đột biến gen ưu thế tự nhiên ảnh hưởng đến sụn trên toàn cơ thể, khiến đôi tai 'gấp', uốn cong về phía trước và xuống phía trước đầu, tạo cho con mèo ngoại hình thường được mô tả là 'giống cú'." (giữ dấu nháy đơn)
+Dòng 74: "Havana Brown" (giữ nguyên)
+Dòng 75: "Havana Brown là một con mèo thông minh thường dùng đôi chân để xem xét đồ vật và giao tiếp với chủ. Sự tò mò đưa chúng đến cửa khi khách đến thay vì thích trốn như nhiều mèo khác."
+Dòng 76: "Miniature Schnauzer" (giữ nguyên)
+Dòng 77: "Thường dễ huấn luyện, Miniature Schnauzers có xu hướng là chó cảnh báo tuyệt vời với bản năng lãnh thổ tốt, nhưng có xu hướng sủa hơn cắn."
+Dòng 78: "Brittany" (giữ nguyên)
+Dòng 79: "Brittany ban đầu được lai tạo như một con chó săn và được ghi nhận là dễ huấn luyện và tính nết dịu dàng. Giống này thường nhạy cảm hơn với sự chỉnh sửa so với các chó săn khác, và sự chỉnh sửa thô bạo thường không cần thiết."
+Dòng 80: "Great Dane" (giữ nguyên)
+Dòng 81: "Great Dane là một giống chó nhà Đức lớn được biết đến với kích thước khổng lồ. Tên Đức của giống này là Deutsche Dogge, hay Great Dane. Tên Pháp là Dogue Allemand. Great Dane là một trong những giống chó cao nhất. Jill sẽ thay đổi điều này

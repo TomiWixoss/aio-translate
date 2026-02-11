@@ -1,0 +1,146 @@
+Thu hoạch lần đầu: 12 ngày
+Thu hoạch bổ sung: 9 ngày
+Thu hoạch lần đầu: 6 ngày
+Thu hoạch bổ sung: 5 ngày
+Thu hoạch lần đầu: 10 ngày
+Thu hoạch bổ sung: 8 ngày
+Thu hoạch lần đầu: 5 ngày
+Thu hoạch bổ sung: 4 ngày
+Hoa tử thần
+Thu hoạch lần đầu: 14 ngày
+Thu hoạch bổ sung: 11 ngày
+Thu hoạch lần đầu: 7 ngày
+Thu hoạch bổ sung: 6 ngày
+Thu hoạch: 3 ngày
+Thu hoạch: 2 ngày
+Thu hoạch lần đầu: 5 ngày
+Thu hoạch bổ sung: 3 ngày
+Thu hoạch lần đầu: 3 ngày
+Thu hoạch bổ sung: 2 ngày
+Hoa chuông
+Thu hoạch lần đầu: 3 ngày
+Thu hoạch bổ sung: 1 ngày
+Thu hoạch lần đầu: 2 ngày
+Thu hoạch bổ sung: 1 ngày
+Thu hoạch lần đầu: 10 ngày
+Thu hoạch bổ sung: 8 ngày
+Thu hoạch lần đầu: 5 ngày
+Thu hoạch bổ sung: 4 ngày
+Húng quế
+Thu hoạch: 3 ngày
+Thu hoạch: 2 ngày
+Được tạo bởi: {0.SimName}
+(Từ việc ăn Poke Bowl với Cá tươi mới bắt)
+(Từ việc ăn Cá nguyên con gói lá)
+(Từ việc ăn Bánh Krabby)
+(Từ việc ăn Lẩu ếch sôi)
+(Từ việc ăn Stew của Người săn mồi)
+(Từ việc ăn Cá tươi)
+{0.SimFirstName} đã chấp nhận cuộc sống như một con ma. Có lẽ {M0.anh ấy}{F0.cô ấy} sẽ thử cuộc sống sau cái chết vào ngày mai.
+Mùi: Sự bất kính (Snapdragon)
+Mùi: Tình bạn (Chrysanthemum)
+Mùi: Sự sống (Orchid)
+Mùi: Sáng tạo (Lily)
+Mùi: Trung thành (Tulip)
+Mùi: Giấc ngủ (Christmas Rose)
+Mùi: Đau thương (Dahlia)
+Mùi: Nguyền rủa (Begonia)
+Mùi: Lãng mạn (Rose)
+Mùi: Cái chết (Death Flower)
+Mùi: Vĩ đại (Birds of Paradise)
+Mùi: Vui vẻ (Daisy)
+Mùi: Bất tử (Bluebell)
+Mùi: Kết bạn với Ong (Crocus)
+Mùi: Mùa (Snowdrop)
+{0.ObjectName}
+Buổi tập Chiến thắng
+Tràn đầy Năng lượng
+Nhà Cardio
+Để Đồ ăn Thừa Lại
+Móc, Lượm, và Suy Nghĩ
+Đây là sách kỹ năng Câu cá.
+Mồi cho Tiệc
+Câu Trả Lời
+Cơn Thèm Khỏe Mạnh: 101 Công Thức Đầy Dinh Dưỡng
+Đây là sách kỹ năng Nấu ăn.
+Dễ Dàng: Bữa Sáng Không Rắc Rối
+Lấy Bánh - Và Ăn Nó, Nữa
+...Và Một Điều Nữa!
+Đùa từ Dưới Mặt Đất
+Đây là Tiểu Phẩm Hài.
+Một Câu Chơi Chừng Một Ngày Giữ Bác Sĩ Xa
+Trí Thông Minh Trừ Trí Khôn
+Đùa Hàng Ngày Cho Người Khó Cười&#xD;&#xA;
+Đây là sách kỹ năng Hài kịch.
+Làm Chủ Nghệ Thuật Sức Hút Cá Nhân
+Làm Thế Nào Để Trở Thành Lãnh Đạo Trong 12 Bước Dễ Dàng
+Những Từ Quyền Lực
+Đây là sách kỹ năng Sức Quyến Rũ.
+Thả Thính Vui Vẻ và Có Lợi
+Pha Chế Tò Mò
+Không Gì Tốt Hơn Nectar
+Làm Chủ Thuốc
+Đây là sách kỹ năng Pha Chế.
+{0.ObjectDescription}
+{1.String}
+{0.ObjectDescription}
+Có thể ấp: Không
+Có thể ấp: Có
+Quá nhiều gà trong chuồng để ấp!
+&lt;span class=&quot;money&quot;&gt;&lt;/span&gt;
+&lt;b&gt;Dùng cho:&lt;/b&gt; Pha chế phép thuật
+&lt;span class=&quot;money&quot;&gt;&lt;/span&gt;
+&lt;b&gt;Dùng cho:&lt;/b&gt; Thức ăn
+&lt;span class=&quot;money&quot;&gt;&lt;/span&gt;
+&lt;b&gt;Dùng cho:&lt;/b&gt; Thức ăn
+&lt;span class=&quot;money&quot;&gt;&lt;/span&gt;
+&lt;b&gt;Dùng cho:&lt;/b&gt; Thức ăn
+&lt;span class=&quot;money&quot;&gt;&lt;/span&gt;
+&lt;b&gt;Dùng cho:&lt;/b&gt; Thức ăn&lt;/span&gt;
+&lt;span class=&quot;money&quot;&gt;&lt;/span&gt;
+&lt;b&gt;Dùng cho:&lt;/b&gt; Thức ăn
+&lt;span class=&quot;money&quot;&gt;&lt;/span&gt;
+&lt;b&gt;Dùng cho:&lt;/b&gt; Bón phân, Simoleon
+&lt;span class=&quot;money&quot;&gt;&lt;/span&gt;
+&lt;b&gt;Dùng cho:&lt;/b&gt; Ăn và Trở thành Sim Cây
+&lt;span class=&quot;money&quot;&gt;&lt;/span&gt;
+&lt;b&gt;Dùng cho:&lt;/b&gt; Sữa, Bánh
+&lt;span class=&quot;money&quot;&gt;&lt;/span&gt;
+&lt;b&gt;Dùng cho:&lt;/b&gt; Simoleon
+&lt;span class=&quot;money&quot;&gt;&lt;/span&gt;
+&lt;b&gt;Dùng cho:&lt;/b&gt; Thức ăn
+Ghép với Húng quế để lấy Rau mùi
+&lt;span class=&quot;money&quot;&gt;&lt;/span&gt;
+&lt;b&gt;Dùng cho:&lt;/b&gt; Thức ăn
+&lt;span class=&quot;money&quot;&gt;&lt;/span&gt;
+&lt;b&gt;Dùng cho:&lt;/b&gt; Thức ăn
+Ghép với Xô ngạt để lấy Rau mùi&lt;/span&gt;
+&lt;span class=&quot;money&quot;&gt;&lt;/span&gt;
+&lt;b&gt;Dùng cho:&lt;/b&gt; Rác
+&lt;span class=&quot;money&quot;&gt;&lt;/span&gt;
+&lt;b&gt;Dùng cho:&lt;/b&gt; Simoleon, Thức ăn
+&lt;span class=&quot;money&quot;&gt;&lt;/span&gt;
+&lt;b&gt;Dùng cho:&lt;/b&gt; Simoleon
+Ghép với Phong lan để lấy Hoa tử thần
+&lt;span class=&quot;money&quot;&gt;&lt;/span&gt;
+&lt;b&gt;Dùng cho:&lt;/b&gt; Simoleon, Thức ăn
+&lt;span class=&quot;money&quot;&gt;&lt;/span&gt;
+&lt;b&gt;Dùng cho:&lt;/b&gt; Simoleon, Thức ăn
+Ghép với Chanh để lấy Chuối tiêu
+&lt;span class=&quot;money&quot;&gt;&lt;/span&gt;
+&lt;b&gt;Dùng cho:&lt;/b&gt; Thức ăn, Ghép cây
+Ghép với Lê để lấy Chuối tiêu
+&lt;span class=&quot;money&quot;&gt;&lt;/span&gt;
+&lt;b&gt;Dùng cho:&lt;/b&gt; Simoleon
+Ghép với Hoa hồng để lấy Bonsai Buds
+&lt;span class=&quot;money&quot;&gt;&lt;/span&gt;
+&lt;b&gt;Dùng cho:&lt;/b&gt; Simoleon
+Ghép với Cẩm chướng để lấy Bovine Buds
+&lt;span class=&quot;money&quot;&gt;&lt;/span&gt;
+&lt;b&gt;Dùng cho:&lt;/b&gt; Simoleon
+Ghép với Táo để lấy Lựu
+&lt;span class=&quot;money&quot;&gt;&lt;/span&gt;
+&lt;b&gt;Dùng cho:&lt;/b&gt; Simoleon, Thức ăn
+&lt;span class=&quot;money&quot;&gt;&lt;/span&gt;
+&lt;b&gt;Dùng cho:&lt;/b&gt; Thức ăn, Ghép cây
+Ghép với Cherry để lấy Lựu

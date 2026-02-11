@@ -1,0 +1,94 @@
+Mua Phần Thưởng Câu Lạc Bộ
+Sửa Trang Phục Câu Lạc Bộ
+Bạn không thể bắt đầu hoặc tham gia một cuộc tụ họp khi đang làm việc hoặc không có mặt trên lô đang hoạt động.
+Quản Lý Câu Lạc Bộ
+Tham Gia Tụ Họp
+Bắt Đầu Tụ Họp
+Kết Thúc Tụ Họp
+Chi Tiết Câu Lạc Bộ
+Câu lạc bộ này không đủ thành viên để bắt đầu một cuộc tụ họp. Hãy thử tuyển thêm thành viên cho đến tổng cộng 2 người.
+Chỉ có Lãnh Đạo Câu Lạc Bộ mới có thể sửa trang phục câu lạc bộ.
+Bạn không thể bắt đầu tụ họp khi đang là khách hàng tại một doanh nghiệp.
+ĐẶC ĐIỂM
+Đặc điểm
+Mô-đun Hành Vi
+Người Cao Tuổi
+Bằng Cấp
+Thanh Niên
+Thanh Niên
+Thanh Niên
+Lão hóa có thể xảy ra theo một vài cách khác nhau. Sự kiện, khao khát và nhiều hơn nữa.
+Trẻ Mới Biết Đi
+Trẻ Mới Biết Đi
+Trẻ Mới Biết Đi
+Thanh Thiếu Niên
+Thanh Thiếu Niên
+Thanh Thiếu Niên
+Trẻ Sơ Sinh
+Trẻ Sơ Sinh
+Trẻ Sơ Sinh
+Người Cao Tuổi
+Người Cao Tuổi
+Ngựa Con
+Trẻ Em
+Trẻ Em
+Trẻ Em
+Em Bé
+Em Bé
+Em Bé
+Người Lớn
+Người Lớn
+Người Lớn
+Quyết Tâm
+Thời Gian Còn Lại Để Hoàn Thành: {0.Timespan}
+Danh Tiếng Đã Mất
+Danh tiếng của {0.SimFirstName} bây giờ là {1.String}.
+Phụ Nữ &amp; Nam Giới
+Sở Thích Mối Quan Hệ
+Vào Chế Tạo Sim
+Điểm Thích và Không Thích
+Sở Thích
+{0.SimFirstName} chưa có Điểm Thích hay Không Thích. Hãy đi chọn vài điểm nào!
+Vào Chế Tạo Sim
+Cột Mốc
+Cột mốc đánh dấu những khoảnh khắc đáng nhớ trong cuộc đời của Sim. Di chuột qua các danh mục khác nhau để tìm hiểu thêm.\nMột số danh mục và Cột mốc chỉ có sẵn cho một số Giai Đoạn Cuộc Sống nhất định. Chọn &lt;b&gt;Xem Cột Mốc&lt;/b&gt; để xem tất cả các Cột mốc đã hoàn thành.
+May Mắn
+Phong Cách Sống
+Phong cách sống là sự thể hiện của hành vi và thói quen của Sim theo thời gian.
+Phong Cách Sống
+Sim này có đủ Giá Trị Nhân Tính để nhận Đặc Điểm này khi lên tuổi Thanh Niên:
+Khi lên tuổi Thanh Niên, Sim này có thể nhận một trong các Đặc Điểm sau:
+Giá Trị Nhân Tính
+Giá Trị Nhân Tính xác định khả năng thích nghi và hành xử hiệu quả trong cuộc sống hàng ngày của Sim. Mỗi giá trị có thể tích cực hoặc tiêu cực.\n\nDi chuột qua mỗi Giá Trị bên dưới để xem các tương tác mà trẻ có thể thực hiện để ảnh hưởng đến Giá Trị Nhân Tính. Cha mẹ cũng có thể ảnh hưởng đến các giá trị này bằng cách sử dụng Tương Tác Làm Cha Mẹ.
+Khám phá bảng điều khiển Sự Thành Thạo Ma để theo dõi tiến độ, thể lực và truy cập bảng phần thưởng. Sự Thành Thạo Ma được phân loại thành Ác, Trung Lập, và Tốt, định hình loại ma mà Sim có thể trở thành. Di chuột qua mỗi khả năng trong bảng phần thưởng để tìm hiểu thêm.\n\nMa sử dụng thể lực khi thực hiện các khả năng. Khi thể lực suy giảm, ma sẽ xuất hiện mờ hơn, có thể được theo dõi bằng đồng hồ thể lực.\n\nĐể đặt lại các khả năng đã mở khóa, truy cập Giếng Ham Muốn và Hối Tiếc trong khu phố Crow's Crossing của Ravenwood bất cứ lúc nào.&#xD;&#xA;
+Sự Thành Thạo Ma
+Điểm Danh Tiếng:
+Tránh Ánh Đèn Sân Khấu
+Thông Tin Danh Tiếng
+Hình Ảnh Công Chúng của Sim bao gồm &lt;i&gt;Danh Tiếng&lt;/i&gt; và &lt;i&gt;Cấp Độ Người Nổi Tiếng&lt;/i&gt;.\n\nDanh Tiếng là những gì người khác nghĩ về họ, và có thể thay đổi bằng cách thực hiện một số hành vi nhất định khi được người khác quan sát.\n\nCấp Độ Người Nổi Tiếng đo lường mức độ nổi tiếng của họ, và có thể tăng lên bằng cách thực hiện các hành động kiếm danh tiếng. Đạt được các cấp độ sẽ kiếm được Điểm Danh Tiếng, có thể được dùng trong Bảng Thông Tin Danh Tiếng để mở khóa các Phần Thưởng Danh Tiếng mới. Bảng này cũng có thể được dùng để tùy chọn cho Sim hoàn toàn không kiếm thêm danh tiếng.
+Hình Ảnh Công Chúng
+Mất Cấp Độ Người Nổi Tiếng
+{0.SimName} đã mất danh tiếng và bây giờ là một {1.String}.
+Danh Tiếng Batuu
+Bảng này hiển thị danh tiếng của Sim với 3 phe phái ở Batuu. Danh Tiếng Kẻ Gian Lận có thể được kiếm và mất độc lập với 2 phe còn lại. Tuy nhiên, Phe Kháng Cách và Phe Thứ Tự Không thể được kiếm nếu không mất danh tiếng ở phe kia. Di chuột qua thanh danh tiếng mỗi phe để xem cấp độ tiếp theo sẽ cung cấp gì cho Sim.
+Người Cao Tuổi
+Người Cao Tuổi
+Chó Con
+Chó Con
+Người Lớn
+Người Lớn
+Bỏ Phiếu Là:
+&lt;font color='#38A666'&gt;Mở&lt;/font&gt; 
+Đóng
+Quy Trình Phá Bỏ
+Bắt đầu quy trình Phá Bỏ trên một Kế Hoạch Hành Động đang hoạt động bằng cách chọn &lt;i&gt;Kiến Nghị Phá Bỏ&lt;/i&gt; từ Bảng Bỏ Phiếu Công Cộng hoặc Hộp Thư. Sim phải thu thập đủ chữ ký phá bỏ từ hàng xóm để thành công phá bỏ một Kế Hoạch Hành Động. Nếu đủ chữ ký được thu thập, Kế Hoạch Hành Động sẽ bị phá bỏ khi bỏ phiếu kết thúc cho giai đoạn đó.
+Hiện Đang Phá Bỏ:
+{0.Number}/{1.Number}
+Không Có
+Điểm Ảnh Hưởng:
+Trong khi thời gian bỏ phiếu mở, Sim có thể bỏ phiếu cho các Kế Hoạch Hành Động Khu Phố và Dự Án Không Gian Cộng Đồng để tạo ảnh hưởng đến khu phố của họ.\n\nSim có thể bỏ phiếu tại &lt;b&gt;Hộp Thư&lt;/b&gt; của mình hoặc một &lt;b&gt;Bảng Bỏ Phiếu Cộng Đồng&lt;/b&gt; được đặt tại bất kỳ Địa Điểm nào. Sim sống trong Evergreen Harbor cũng có thể sử dụng &lt;b&gt;Bảng Bỏ Phiếu Cộng Đồng&lt;/b&gt; ở bên ngoài khu phố của họ.\n\nBỏ phiếu yêu cầu &lt;i&gt;Ảnh Hưởng&lt;/i&gt;. Sim có thể nhận &lt;i&gt;Điểm Ảnh Hưởng&lt;/i&gt; bằng cách tuân theo các hành vi được khuyến khích bởi các Kế Hoạch Hành Động Khu Phố đã được thông qua, bằng cách kết bạn mới, và bằng cách là một thành viên đáng tin cậy tổng thể của cộng đồng.
+Kế Hoạch Hành Động Khu Phố
+Mở Khóa
+Áp dụng cho:
+Sim có thể kiếm được Phần Thưởng Thành Thạo khi sử dụng kỹ năng ở cấp độ cao. Với kinh nghiệm sống của mình, người cao tuổi có khả năng phát hiện chúng cao hơn; tuy nhiên, bất kỳ Sim nào cũng có thể nhận được phần thưởng với việc luyện tập kiên trì. Nhận tư vấn và tham gia các Lớp Sở Thích cũng giúp ích.\n\nĐể có cách tiếp cận trực tiếp hơn, người cao tuổi có thể Trao phần thưởng của họ cho các Sim khác. Các loại thuốc Phần Thưởng Thành Thạo Trao và Gỡ cũng có thể được mua trong Cửa Hàng Phần Thưởng.
+Phần Thưởng Thành Thạo Kỹ Năng

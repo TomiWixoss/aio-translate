@@ -1,0 +1,100 @@
+Vật phẩm Công viên
+Hoạt động Sự kiện Cuộc đời
+Quần áo Tủ
+Hộp thư Chung cư
+Trang trí Nước
+Đồ nội thất Thú cưng
+Vật phẩm Nhà hàng
+Khác Thú cưng
+Vật phẩm Phòng tập
+Khác Tự cung
+Mô-đun
+Vật phẩm Công viên Quốc gia
+Vật phẩm Hồ bơi
+Vật phẩm Thư viện
+Ống chở rác Chung cư
+Trang trí Trần nhà
+Vật phẩm Thú y
+Vật phẩm Quầy bar
+Phương tiện
+Vật phẩm Phòng khám
+Đèn Tự cung
+Vật phẩm Phòng khám Thú y
+Vật phẩm Bảo tàng
+Vật phẩm Câu lạc bộ đêm
+Thang máy Chung cư
+Giày
+Thang dựa
+Hiệu ứng Ao
+Phong cách Nước
+Vật phẩm Ao
+Sàn nâng
+Kích thước Chó
+Chiều dài
+Phần thưởng
+Kết cấu
+Chiều dài Lông
+Vật liệu
+Họa tiết
+Lựa chọn Thời trang
+Đánh dấu Lông
+Phong cách
+Nhóm Giống
+Độ hiếm
+Đặc biệt
+Cổ điển
+Sách truyện
+Ngoại ô Hiện đại
+StyleSHK_01
+Súng chùm
+Phong cách Súng chùm
+Cũ kỹ
+Hoàng gia
+Queen Anne
+Double Gallery
+Sân hiên
+Hiện đại
+Mission
+Giữa thế kỷ
+Sang trọng
+Đảo
+Công nghiệp
+Ngày lễ
+Nhà trang trại
+Cơ bản
+Vườn
+Phong cách Nông thôn Pháp
+Sự kiện
+Dễ thương
+Đạt đến Cấp độ Nhiếp ảnh 2
+Đừng quên những bức tựì! Khuôn mặt của {0.SimFirstName} là một tác phẩm nghệ thuật và những bức ảnh chụp bằng điện thoại của {M0.his}{F0.her} giúp tăng cấp độ kỹ năng Nhiếp ảnh của {M0.his}{F0.her}.
+Đạt đến Cấp độ Nhiếp ảnh 5
+{0.SimFirstName} đã thực sự làm chủ nghề nghiệp Nhiếp ảnh của {M0.his}{F0.her}. Có lẽ {M0.he}{F0.she} nên mở một phòng trưng bày ảnh để chia sẻ (và bán) nghệ thuật của {M0.his}{F0.her} với các Sims khác!
+Đạt đến Cấp độ Nhiếp ảnh 3
+Chất lượng máy ảnh của {0.SimFirstName} quan trọng! Máy ảnh rẻ là tốt để học nhưng chi thêm vài Simoleons để mua máy ảnh có thể phóng to và chụp ảnh lớn hơn.
+Sau khi trưởng thành thành Thiếu niên, {0.SimFirstName} sẽ có thể kiếm thêm Simoleons bằng cách chụp ảnh các Sims khác tại In a Flash Photo Studio.
+Đã có kỹ năng Nhiếp ảnh
+Kỹ năng Nhiếp ảnh mới của {0.SimFirstName} sẽ cho phép {0.SimPronounObjective} ghi lại thế giới xung quanh {0.SimPronounObjective} thông qua các tác phẩm nghệ thuật chuyển động. Con đường tạo ra những kiệt tác nhiếp ảnh mất một thời gian nhưng cấp độ kỹ năng càng cao, {0.SimFirstName} càng chụp được ảnh tốt hơn.
+Thủ công Giấy
+Nghệ thuật tạo ra các vật thể và thiết kế hai hoặc ba chiều bằng giấy. Các tác phẩm được làm bằng nhiều cách, có thể cắt, gấp, uốn, khâu, lớp hoặc dán. Sim có thể tặng tác phẩm giấy của mình cho Sim khác hoặc tự hào trưng bày chúng quanh nhà.\n\nKỹ năng này có thể phát triển bằng Bộ Thủ công Giấy. Tăng kỹ năng này sẽ mở khóa các tạo phẩm giấy và màu giấy mới.\n\nThủ công giấy có thể được dạy ở Cấp độ 5 từ Bộ Thủ công Giấy.
+Đạt đến Cấp độ Thủ công giấy 2
+{0.SimFirstName} giờ có thể Tạo:\n• Cây giấy bồ tùy\n• Thêm Màu giấy cho Bướm xếp giấy\n• Thêm Đồ chơi kỳ quặc giấy bồ tùy
+Đạt đến Cấp độ Thủ công giấy 5
+{0.SimFirstName} giờ có thể Tạo:\n• Động vật (Tốt hơn) giấy bồ tùy\n• Thêm Màu giấy cho Ếch xếp giấy
+Đạt đến Cấp độ Thủ công giấy 7
+{0.SimFirstName} giờ có thể Tạo: \n• Hạc xếp giấy\n• Thêm Màu giấy cho Lạc đà xếp giấy\n• Thêm Động vật (Tốt hơn) giấy bồ tùy
+Đạt đến Cấp độ Thủ công giấy 9
+{0.SimFirstName} giờ có thể Tạo:\n• Đầu động vật giấy bồ tùy treo tường\n• Thêm Màu giấy cho Hạc xếp giấy\n• Thêm Màu giấy cho Sứa xếp giấy
+Đạt đến Cấp độ Thủ công giấy 10
+{0.SimFirstName} đã trở thành bậc thầy Thủ công giấy! {0.SimPronounSubjective|xxUpper} giờ có thể Tạo: \n• Đồ vật sống động tuyệt đối bằng giấy bồ tùy\n• Thêm Tùy chọn Giấy cho Sứa xếp giấy\n• Thêm Đầu động vật giấy bồ tùy treo tường
+Đạt đến Cấp độ Thủ công giấy 8
+{0.SimFirstName} giờ có thể Tạo: \n• Sứa xếp giấy\n• Thêm Màu giấy cho Hạc xếp giấy\n• Thêm Màu giấy cho Lạc đà xếp giấy
+Đạt đến Cấp độ Thủ công giấy 4
+{0.SimFirstName} giờ có thể Tạo:\n• Thêm Cây giấy bồ tùy\n• Ếch xếp giấy
+Đã có kỹ năng Thủ công giấy
+Kỹ năng mới trong Thủ công giấy của {0.SimFirstName} sẽ cho phép {0.SimPronounObjective} xây dựng các vật thể và thiết kế hai hoặc ba chiều bằng giấy. Cấp độ kỹ năng càng cao, {0.SimPronounSubjective} càng mở khóa được nhiều tạo phẩm giấy và màu giấy.
+Đạt đến Cấp độ Thủ công giấy 6
+{0.SimFirstName} giờ có thể Tạo:\n• Lạc đà xếp giấy\n• Thêm Màu giấy cho Ếch xếp giấy\n• Thêm Động vật (Tốt hơn) giấy bồ tùy
+Đạt đến Cấp độ Thủ công giấy 3
+{0.SimFirstName} giờ có thể Tạo:\n• Thêm Màu giấy cho Bướm xếp giấy\n• Thêm Đồ chơi kỳ quặc giấy bồ tùy\n• Thêm Cây giấy bồ tùy
+Nghệ thuật đặt cọ lên canvas và tạo ra thứ có thể gợi cảm xúc không dễ dàng. Đối với những Sims khám phá Kỹ năng Vẽ tranh, những tác phẩm đầy màu sắc—và có lẽ những món bán lớn—đang chờ đón trong tương lai.\n\nVẽ tranh chủ yếu gắn với Easel và Digital Sketchpad. Tăng kỹ năng này sẽ mở khóa các Thể loại và Kích thước Vẽ tranh mới!\n\nVẽ tranh có thể được dạy ở Cấp độ 5 từ Easel, Digital Sketchpad, hoặc Mural (<i>City Living</i>).

@@ -1,0 +1,100 @@
+Chủ ngữ:
+Phản thân:
+Sở hữu độc lập:
+Sở hữu phụ thuộc:
+Khách quan:
+({0.SimPronounSubjective}/{0.SimPronounObjective})
+{0.SimName} ({0.SimPronounSubjective}/{0.SimPronounObjective})
+&quot;{0.String|xxUpper} muốn một bánh mì nướng phô mai.&quot;
+&quot;Eliza làm bánh mì nướng phô mai {0.String}.&quot;&#xD;&#xA;
+&quot;Bánh mì nướng phô mai cháy đó là {0.String}.&quot;
+&quot;Bánh mì nướng phô mai là tình yêu đầu tiên của {0.String}.&quot;
+&quot;Bob kể cho {0.String} nghe về công thức làm bánh mì nướng phô mai tốt nhất từ trước đến nay.&quot;
+Đại từ chứa từ không cho phép
+Họ/Chúng
+Anh ấy/Ông ấy
+Cô ấy/Bà ấy
+Thay đổi đại từ
+Đại tự tùy chỉnh
+Chọn Sở thích và Không thích
+Bạn chỉ có thể chọn tổng cộng {0.Number} Sở thích và Không thích cho mỗi Sim. Hãy thử phối hợp!
+{1.Number}/{0.Number}
+◴
+◵
+&lt;font color=&quot;#29af4a&quot;&gt;◴{0.Number}&lt;/font&gt;\n&lt;font color=&quot;#bf1e2e&quot;&gt;◵{1.Number}&lt;/font&gt;
+Danh mục
+Chọn Tùy chọn
+{0.String} Trang phục {1.Number}
+Tạo Mới {0.String} Trang phục
+Hủy
+Lưu Trang phục với tên
+ (MỚI)
+Hủy
+Phong cách đi bộ không khả dụng
+Đi bộ
+Giọng nói
+Không thể thay đổi các mối quan hệ hoặc phong cách đi bộ trong biểu mẫu này.
+ĐẶC ĐIỂM TÍNH CÁCH:
+Tính cách
+Khát vọng chính:
+Ma chỉ có thể là trẻ em hoặc lớn tuổi hơn.
+Giới tính
+Bạn chỉ có thể tạo Sim thanh niên hoặc lớn tuổi hơn cho Hướng dẫn.
+Chỉnh sửa Mối quan hệ\n\nCảnh báo: Không có mối quan hệ cha mẹ được xác định cho đứa trẻ này.
+Chỉnh sửa Mối quan hệ
+Xóa Sim này
+tạo một sim mới
+Các Sim được tạo thông qua câu chuyện phải là Thanh niên hoặc lớn tuổi hơn.
+Không thể chỉnh sửa các Sim đã tồn tại.
+Không thể chỉnh sửa các Sims mang thai.
+Ngẫu nhiên Khát vọng & Đặc điểm
+Không thể thay đổi các mối quan hệ hoặc phong cách đi bộ trong biểu mẫu này.
+Tuổi
+Thêm một Sim để Chỉnh sửa Mối quan hệ
+Động lực lãng mạn
+Mối quan hệ lãng mạn không khả dụng cho Sim trong thời gian Tái sinh.
+Mối quan hệ
+{M0.Step-brother}{F0.Step-sister}
+{M0.Step-father}{F0.Step-mother}
+{M0.Step-son}{F0.Step-daughter}
+Bạn đời
+Vợ/Chồng
+{M0.Nephew}{F0.Niece}
+Anh/Chị/Em của
+{F0.Sister}{M0.Brother}
+Bạn cùng phòng
+Xét di truyền
+Mối quan hệ này đã được đặt lại
+Việc chọn tùy chọn này sẽ ảnh hưởng đến các mối quan hệ khác trong hộ gia đình của bạn
+Bạn có chắc chắn muốn xóa tất cả các mối quan hệ được đặt cho Sim này không?
+Sim hoặc Hộ gia đình được tạo sẵn
+Chủ sở hữu
+Thú cưng
+{M0.Uncle}{F0.Aunt}
+Cha/Mẹ của
+{M0.Father}{F0.Mother}
+Không có Sim nào khác trong hộ gia đình để chọn.
+Thành viên Hộ gia đình
+{M0.Grandfather}{F0.Grandmother}
+{M0.Grandson}{F0.Granddaughter}
+Đã đính hôn
+Thành viên gia đình
+Xong
+Con của
+{M0.Son}{F0.Daughter}
+Họ hàng
+Xóa tất cả Mối quan hệ
+Thêm Mối quan hệ
+Thêm:
+Đặt {0.SimFirstName} làm {1.SimFirstName} của
+Mối quan hệ Hộ gia đình
+Anh/Chị/Em
+Vợ/Chồng
+Cha/Mẹ
+Con cái
+Động lực Gia đình
+Chế độ sơn cánh bị vô hiệu khi không có cánh được trang bị.
+Chế độ sơn bị vô hiệu khi chơi với di truyền.
+Chế độ sơn
+Chế độ sơn
+Hiện/Ẩn hình xăm ở các bộ phận khác của cơ thể

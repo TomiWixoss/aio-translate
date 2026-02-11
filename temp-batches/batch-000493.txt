@@ -1,0 +1,100 @@
+Không thể thực hiện tương tác này trên vật thể đã hỏng. Hãy sửa chữa nó trước.
+Trục xuất Chất Thải Nhầy
+Ôi không, Giả này <i>thật sự</i> phải đi rồi! Nhưng còn vận mệnh nhắc đến "Bí ẩn Sứ" thì sao? Chuyện này chắc chắn sẽ không tốt đẹp gì...
+Trải nghiệm Bí ẩn Sứ
+Lấy Phân Hoang dã
+Trục xuất Chất Thải Ma Quái Hoang dã
+Lấy Phân Hoảng loạn
+Dùng Đầu
+Tiểu như Vô địch
+Lấy Phân Tức giận
+Giảm tần suất bồn cầu bị tắc
+Không còn phải lau chùi bồn cầu nữa
+Một số người sẽ nói bồn rửa mặt vệ sinh hơn
+{0.SimFirstName} không thể nâng cấp vật thể này trong khi nó đang hỏng.
+Nâng cấp hoàn tất!\n\n{0.SimFirstName} đã hoàn thành việc lắp đặt nâng cấp cho bồn cầu.
+Nhảy Vào
+Bảo Đừng Nhảy Vào Bồn Cầu
+Khuyến khích Nhảy Vào Bồn Cầu
+Phạt Vì Nhảy Vào Bồn Cầu
+Hỏi Đừng Nhảy Vào Bồn Cầu
+Chế giễu {1.ObjectName}
+Chế giễu tính Ám ảnh Thu gom
+Chế giễu tính tuyệt chủng
+Chế giễu sự Ám ảnh với Mật ong
+Chế giễu Bánh lê
+Chế giễu Tai
+Nói đùa
+Đùa về Đẻ Trứng
+Đùa về Động vật Ăn thịt
+Đùa về Cá hồi
+Đùa về Cầu vồng
+Đùa về Trứng ẩn kín
+Tưởng tượng Thế giới với {1.ObjectName}
+Tưởng tượng Thế giới Kỳ ảo với {1.ObjectName}
+Tưởng tượng Thế giới Tiền sử với {1.ObjectName}
+Tưởng tượng Rừng Yêu tinh với {1.ObjectName}
+Tưởng tượng Đường thỏ với {1.ObjectName}
+Làm cho vui lên
+Chửi bới
+Hỏi về Cuộc phiêu lưu Hôm nay
+Hỏi về Quá khứ
+Hỏi về Máy ảnh
+Hỏi về Ống kính Hỏng
+Hỏi {1.ObjectName} các câu hỏi
+Hỏi về Bay
+Hỏi về Pangaea
+Hỏi về Ngủ đông
+Hỏi về sự Ám ảnh với Trứng
+Hỏi về Động vật Ma thuật Khác
+Vẫy tay với {1.ObjectName}
+Mỉm cười với {1.ObjectName}
+Thủ thỉ với {1.ObjectName}
+Bà bà với {1.ObjectName}
+Lắp đặt phần đốt nước tự làm sạch mật độ cao và không bao giờ phải lau chùi Bếp nữa.
+Với cảm biến nhiệt, thức ăn sẽ ra ngoài chất lượng cao hơn
+Lớp phủ chống bẩn
+{0.SimFirstName} không thể nâng cấp bếp này trong khi nó đang hỏng.
+Nâng cấp hoàn tất!\n\n{0.SimFirstName} đã hoàn thành việc lắp đặt nâng cấp cho bếp.
+Nấu Ăn Không Dùng Điện
+Hương vị trên bếp đã làm tăng hương vị món ăn của {0.SimFirstName}!
+Làm Hương vị
+Bếp này đã được làm hương vị rồi!
+Dùng Sức Mạnh Tay
+Làm sạch Mạnh mẽ
+Giả Sims năng lượng làm sạch nhanh hơn nhiều!
+Giậm chân
+Chờ Trẻ nhỏ
+Với sóng tốt hơn, ai biết được đài nào có thể bắt được?
+TẦN SỐ KHÓ HIỂU
+Đường dây cách mạng này làm cho loa không thể hỏng
+ÁO GIÁP BẤT DIỆT
+Trong khi không phải linh kiện tốt nhất, linh kiện tốt hơn sẽ làm giảm tần suất loa bị hỏng.
+ÁO GIÁP NỒNG CHÁY
+Nâng cấp hoàn tất!\n\n{0.SimFirstName} đã hoàn thành việc lắp đặt nâng cấp cho loa.
+TẮT ĐI?
+Dạy Nhảy
+Dạy Nhảy
+(Từ khi được Hướng dẫn)
+CA KHÚC ĐÊM TIẾP THEO
+Lắng nghe Sâu sắc
+Trân trọng Nhạc Cổ điển
+Trân trọng Nhạc Blue
+NGHE NHẠC METAL
+Vũ điêu Quái vật Chết chóc
+NHÁY BRUTAL
+Vũ điệu Người chết
+Vũ điêu Quái vật
+Nhảy
+Nhảy với {1.SimFirstName}
+Dạy Nhảy
+Mời Dạy Nhảy
+Lắc theo Nhạc
+LÀM SAO CHO METAL KHÔNG ĐAU TAI?
+Khen ngợi
+Dạy Chính tả với Khối chữ cái
+Yêu cầu Học Chính tả
+Dạy Hình dạng
+Yêu cầu Học Hình dạng
+Dạy Khối chữ cái
+Yêu cầu Học Khối chữ cái

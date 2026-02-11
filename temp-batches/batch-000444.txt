@@ -1,0 +1,100 @@
+1 Phiếu = {0.Influence} Điểm Ảnh Hưởng
+&lt;font color=&quot;#FF0000&quot;&gt;Thu thập đủ Chữ ký trước khi thời gian bỏ phiếu kết thúc để đảm bảo việc Hủy bỏ thành công Kế hoạch Hành động Khu phố đã được thông qua.&lt;/font&gt;
+Thêm một Kế hoạch Hành động Khu phố cho thời gian bỏ phiếu tuần này!
+{0.DayOfWeekLong}
+{0.String} Lịch Gia đình
+Đang bận:
+Sự kiện Cưới:
+Kỳ nghỉ:
+Ngày lễ:
+Chuyến đi:
+Sự kiện Tang lễ:
+Lễ hội:
+Sự kiện:
+Sinh nhật:
+Từ {0.TimeShort}
+Từ {0.TimeShort} {1.DayOfWeekShort} đến {2.TimeShort} {3.DayOfWeekShort}
+Hạn chót: {0.TimeShort}
+Từ {0.TimeShort} đến {1.TimeShort}
+Lịch Công việc / Trường học
+Mùa Đông tại {0.String}
+{0.DayOfWeekLong}
+Sim cần phải Đính hôn hoặc Đã Kết hôn để lên kế hoạch cho một Sự kiện Cưới.
+Sự kiện Cưới
+Kỳ nghỉ
+Mùa Hè tại {0.String}
+Chỉnh sửa Chuyến thăm
+Chuyến thăm đang diễn ra và không thể chỉnh sửa.
+Phải ở nhà để lên kế hoạch hoặc chỉnh sửa một Chuyến thăm.
+Hủy Chuyến thăm
+Kết thúc Chuyến thăm?
+Bạn có chắc chắn muốn kết thúc Chuyến thăm hiện tại không?
+Hủy Chuyến thăm?
+Bạn có chắc chắn muốn hủy Chuyến thăm đã lên kế hoạch không?
+Tổ chức một Chuyến thăm tại hộ gia đình của bạn! Chuyến thăm có thể kéo dài nhiều ngày, có thể xảy ra trong các sự kiện khác như Tiệc Sinh nhật, và cho phép khách mời cùng đi với hộ gia đình của bạn. Chỉ cần đảm bảo có đủ chỗ cho mọi người ngủ!
+Chuyến thăm
+Mùa Xuân tại {0.String}
+Đọc về Lễ hội
+Chỉ có một ngày lễ có thể được lên lịch vào một ngày.
+Chỉnh sửa Ngày lễ
+Hủy Ngày lễ
+Ngày lễ đang diễn ra và không thể hủy.
+Xóa Ngày lễ?
+Việc xóa một Ngày lễ khỏi Lịch sẽ loại bỏ hoàn toàn nó cho tất cả các hộ gia đình Sim trong Lưu game này.\n\nNgày lễ sẽ không xuất hiện lại vào năm sau.\n\nBạn có muốn tiếp tục?
+Không thể thêm một ngày lễ vào ngày hiện tại.
+Ngày lễ
+Chỉnh sửa Chuyến đi
+Hủy Chuyến đi
+Kết thúc Chuyến đi?
+Tạo một Stuff Pack: Phiếu bầu thứ 4
+Tạo một Stuff Pack: Phiếu bầu thứ 3
+Tạo một Stuff Pack: Phiếu bầu thứ 2
+Chúng tôi đang trao cho bạn và những người chơi Sim khác cơ hội giúp chúng tôi tạo ra một Stuff Pack! Bỏ phiếu cho những vật thể yêu thích của bạn cho gói này!
+Chúng tôi đang trao cho bạn và những người chơi Sim khác cơ hội giúp chúng tôi tạo ra một Stuff Pack! Bỏ phiếu cho những món đồ trang phục yêu thích của bạn cho gói này!
+Chúng tôi đang trao cho bạn và những người chơi Sim khác cơ hội giúp chúng tôi tạo ra một Stuff Pack! Bỏ phiếu cho phong cách nghệ thuật yêu thích của bạn ngay bây giờ!
+Chúng tôi đang trao cho bạn và những người chơi Sim khác cơ hội giúp chúng tôi tạo ra một Stuff Pack! Bỏ phiếu cho chủ đề yêu thích của bạn ngay bây giờ, và hãy chờ đón thêm các phiếu bầu trong vài tháng tới!
+Truy cập The Sims trên YouTube
+Truy cập The Sims trên Twitter
+Truy cập The Sims trên Instagram
+Truy cập The Sims trên Facebook
+{0.Number}/{1.Number}
+Câu hỏi {0.Number} trong tổng số {1.Number}
+Phải nộp một câu trả lời.
+Nộp
+Tiếp theo
+Tham gia Khảo sát
+Thoát Khảo sát
+Trông cũng bảnh nhỉ {0.String}!
+Simmer down, {0.String}.
+Get weird, {0.String}.
+Yay! {0.String} đã đến rồi!
+{0.String}, bạn thật tuyệt vời.
+Ôi! Cây cọp sữa, {0.String}!
+Chúc vui vẻ khi chơi Sim, {0.String}!
+{0.String}! Một cái tên hay!
+Ôi! Trời ơi là {0.String}!
+Một {0.String} hiếm có!
+Một {0.String} có vảy li ti!
+Đến lúc chơi rồi, {0.String}
+{0.String}? Thú vị đấy!
+Có gì mới không, {0.String}?
+Bạn có phải là phép thuật không, {0.String}?
+Ô! Một con {0.String} hoang dã.
+Bạn đã đến rồi, {0.String}!
+Làm tốt lắm, {0.String}.
+{0.String} là câu trả lời.
+{0.String}? Cảm giác như phát triển thật!
+Eeny meeny miny {0.String}
+Banana fofana, {0.String}.
+Chúng tôi nhớ bạn, {0.String}.
+Ồ! {0.String} ngoài đời thật!
+Bạn là {0.Number} THẬT ư?!!!
+PewPew! Tia laser! {0.String}
+Meep meep, {0.String}.
+{0.String} ngọt hay cay?
+Hãy lấp lánh lên, {0.String}.
+Ô, một {0.String} sáng chói!
+{0.String}, hãy NHẢY NHẢY!
+Mmm! {0.String}? Ngon lành.
+Hãy thêm pizazz, {0.String}.
+Sul sul, {0.String}.

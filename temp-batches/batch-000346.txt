@@ -1,0 +1,100 @@
+"Tôi đánh cuộc mình có thể lấy cắp {1.Number} thứ mà không bị bắt!"
+\n<b><font color='#2182E6'>Tham gia hoạt động ngoài trời {1.Number} lần. Các hoạt động bao gồm: Trồng cây, Bơi lội, Bắt ếch, Tương tác với lửa trại, Tìm đồ trên bãi biển <i>(Island Living)</i>, và trượt tuyết hoặc chơi trong tuyết <i>(Snowy Escape)</i>.</font></b>\n\nTôi yêu đá, cỏ, cát, côn trùng, mặt trời và gần như mọi thứ bên ngoài! Tôi nên làm một loạt việc bên ngoài, chỉ để chứng tỏ với bản thân và người khác tôi là người thích ngoài trời đến mức nào!
+"Một đứa trẻ thích ngoài trời như mình thực sự nên làm một loạt việc mang tính ngoài trời để cho thấy mình thực sự thích ngoài trời đến đâu."
+\n<b><font color='#2182E6'>Thiết lập {1.Number} trò chơi khăm.</font></b>\n\nChắc chắn có ai đó sẽ bị mấy trò chơi khăm của tôi làm tụt hơi! Và sẽ rất vui! Tôi đánh cuộc họ sẽ rất bối rối! Haha!
+"Hehe. Tôi sẽ chơi khăm <i>rất nhiều</i> thứ!"
+\n<b><font color='#2182E6'>Thực hiện Trò chơi khăm {1.Number} lần. Mẹo: Trò chơi khăm của Mischief có thể tìm thấy trong danh mục Mischief Pie Menu trên một Sim khác.</font></b>\n\nTôi thích cảm giác "bắt được"! Việc này sẽ rất vui! Thật buồn cười khi thấy phản ứng của Sim khi bị chơi khăm!
+"Thật buồn cười khi thấy phản ứng của gia đình mình khi tôi chơi khăm họ!"
+\n<b><font color='#2182E6'>Tương tác với {1.Number} Sim khác và chọn kể bất kỳ loại câu chuyện nào. Mẹo: Tìm danh mục Stories Pie Menu trong các danh mục Friendly và Funny.</font></b>\n\nTôi biết một số <i>tuyệt nhất</i> câu chuyện từng có! Lần đó...
+"Tôi biết một số câu chuyện hay. Tôi nên kể chúng cho nhiều Sim!"
+\n<b><font color='#2182E6'>Khiến các Sim xung quanh xem khi {0.SimFirstName} Hát với Microphone hoặc chơi Piano hoặc Violin của Trẻ em.</font></b>\n\nTôi có thể rất giải trí khi muốn! Nhìn tôi đây! La, la, la, la!
+"Tôi phải tìm ai đó sẽ xem tôi chơi nhạc cụ!"
+\n<b><font color='#2182E6'>Làm bài tập về nhà khi {0.SimFirstName} nhận được trong kho đồ của {0.SimPronounPossessiveDependent}.</font></b>\n\nBài tập về nhà có thể khá khó, nhưng nếu tôi muốn trở thành học sinh giỏi thì tôi sẽ cần làm nó. Tôi chắc rằng tôi có thể nhận được sự giúp đỡ nếu thực sự cần, nhưng tôi cũng có thể tự làm được! Tôi chỉ hy vọng không có quá nhiều!
+"Tôi nên làm bài tập về nhà {1.Number} lần. Điều đó sẽ chứng tỏ tôi là học sinh xuất sắc, chắc chắn!"
+\n<b><font color='#2182E6'>Làm bài tập về nhà sau khi tan trường, đến trường trong Tâm trạng tốt với Nhu cầu được đáp ứng, và đưa ra những lựa chọn tốt khi ở trường.</font></b>\n\nTôi nghĩ điểm A hoặc B sẽ chứng tỏ tôi là một học sinh khá giỏi! Nếu tôi học chăm chỉ và đảm bảo sẵn sàng cho trường mỗi ngày, tôi nghĩ tôi có thể làm được!
+"Tôi muốn ít nhất là <i>được</i> điểm B ở trường, nhưng điểm A sẽ còn tốt hơn!"
+\n<b><font color='#2182E6'>Thực hiện các hoạt động thể chất xây dựng Kỹ năng Vận động như chơi trên Tháp leo trẻ em {1.Number} lần.</font></b>\n\nHãy thử đi! Ném bất kỳ thử thách nào vào tôi! Tôi có thể leo bất cứ đâu, chạy nhanh hơn bất kỳ đứa trẻ nào! Nhìn cơ bắp của tôi! Raaaar!
+"Tôi có thể chứng tỏ mình mạnh mẽ và nhanh nhẹn! Chỉ cần xem!"
+\n<b><font color='#2182E6'>Trở thành Bạn, Bạn Thân, hoặc BFF với một Sim Trẻ sơ sinh bằng cách thành công khi tương tác với họ.</font></b>\n\nChúng có thể nhỏ hơn tôi, nhưng tôi nghĩ chúng ta sẽ có một điều đặc biệt! Rồi một ngày chúng sẽ lớn lên và bằng tuổi tôi! Và rồi chúng ta sẽ là bạn thân nhất! Tôi tự hỏi liệu chúng có nhớ tất cả những khoảnh khắc tốt đẹp của chúng ta cùng nhau không?
+"Tôi muốn trở thành Sim yêu thích của một Trẻ sơ sinh! Ít nhất là <i>một</i> trong những Sim yêu thích của chúng!"
+\n<b><font color='#2182E6'>Tương tác với một Trẻ sơ sinh, một Trẻ mới biết đi hoặc một Trẻ sơ sinh mới sinh và trò chuyện hoặc chơi Trò nhìn trộm {1.Number} lần.</font></b>\n\nNhìn chúng nhỏ xíu! Tôi thích nghe tiếng cười trẻ sơ sinh và ba báb! Tôi đánh cuộc tôi có thể giỏi làm chúng vui vẻ!
+"Tôi đánh cuộc tôi có thể hòa hợp rất tốt với một em bé thật!"
+\n<b><font color='#2182E6'>Sử dụng Điện thoại hoặc Máy ảnh để chụp ảnh. Sau đó đi đến kho đồ của {0.SimFirstName} và chọn Bán cho Tạp chí {1.Number} lần.</font></b>\n\nNhiếp ảnh gia thực thụ, trưởng thành kiếm tiền khi bán ảnh của họ! Tôi có thể chỉ là một đứa trẻ, nhưng tôi đánh cuộc tôi cũng có thể kiếm được Simoleon! Tôi sẽ chứng tỏ điều đó, và rồi điều đó sẽ chứng tỏ tôi là một nhiếp ảnh gia chuyên nghiệp thực thụ!
+"Tôi đánh cuộc tôi có thể bán ảnh của mình giống như một nhiếp ảnh gia trưởng thành thật!"
+\n<b><font color='#2182E6'>Sử dụng Điện thoại hoặc Máy ảnh. Tập trung vào chủ thể và chụp {1.Number} bức ảnh.</font></b>\n\nHãy xem! Có rất nhiều thứ bên ngoài sẽ rất vui để chụp ảnh! Tôi tự hỏi những thứ gì là nghệ thuật nhất? Có lẽ tôi có thể tìm ai đó tạo dáng như một người mẫu!
+"Tôi nên thực hành Nhiếp ảnh bằng cách chụp một loạt ảnh của Sim và những thứ nghệ thuật khác."
+\n<b><font color='#2182E6'>Đặt hàng từ {1.Number} Quầy hàng khác nhau.</font></b>\n\nTôi có một <i>sang trọng</i>...từ đó là gì? Palen? Một palert? Một bảng màu? Dù sao, nó là sang nhất và <i>tinh tế</i> nhất mọi thời đại.
+"Tôi sẽ thử đồ ăn và đồ uống từ <i>gần như</i> mọi nơi!"
+Kiếm Vàng trên {1.Number} Tiệc được Tổ chức
+Tham gia {1.Number} Sự kiện Xã hội
+Tổ chức {1.Number} Sự kiện Xã hội
+Thực hiện {1.Number} Tiết mục Hài kịch
+Tham gia Sự kiện Xã hội tại {1.Number} Địa điểm Độc nhất
+Kiếm Bạc trên {1.Number} Tiệc được Tổ chức
+Viết {1.Number} Tiết mục Hài kịch
+Kiếm Bạc trên {1.Number} Sự kiện Xã hội
+Trở thành BFF
+Sở hữu một Microphone
+Tổ chức {1.Number} Tiệc
+Nhấp vào Điện thoại để Lập kế hoạch Sự kiện Tiệc. Một khi Sự kiện bắt đầu, hoàn thành các Mục tiêu xuất hiện để kiếm được điểm cao hơn!
+Nhấp vào Điện thoại để Lập kế hoạch Sự kiện Tiệc. Một khi Sự kiện bắt đầu, hoàn thành các Mục tiêu xuất hiện để kiếm được điểm cao hơn!
+Nhấp vào Điện thoại để Lập kế hoạch Sự kiện Tiệc. Một khi Sự kiện bắt đầu, hoàn thành các Mục tiêu xuất hiện để kiếm được điểm cao hơn!
+Nhấp vào Điện thoại để Lập kế hoạch Sự kiện Tiệc. Bạn có thể lập kế hoạch cho Sự kiện ở các địa điểm khác ngoài Lô Nhà của bạn. Một khi Sự kiện bắt đầu, hoàn thành các Mục tiêu xuất hiện để kiếm được điểm cao hơn!
+Nhấp vào Điện thoại để Lập kế hoạch Sự kiện Tiệc. Một khi Sự kiện bắt đầu, hoàn thành các Mục tiêu xuất hiện để kiếm được điểm cao hơn!
+Nhấp vào Điện thoại để Lập kế hoạch Sự kiện Tiệc. Một khi Sự kiện bắt đầu, hoàn thành các Mục tiêu xuất hiện để kiếm được điểm cao hơn!
+Nhấp vào Điện thoại để Lập kế hoạch Sự kiện Tiệc. Một khi Sự kiện bắt đầu, hoàn thành các Mục tiêu xuất hiện để kiếm được điểm cao hơn!
+Để tăng Kỹ năng Charisma, giao tiếp với các Sim khác, sử dụng Gương để Thực hành Nói chuyện, hoặc đọc Sách Kỹ năng Charisma. Sách Kỹ năng có thể mua trực tiếp từ Kệ sách bằng cách sử dụng tương tác Mua Sách!
+Nhấp vào một Sim và thực hiện Socials Thân thiện hoặc Hài hước để tăng Mối quan hệ!
+Nhấp vào một Sim và thực hiện Socials Thân thiện hoặc Hài hước để tăng Mối quan hệ!
+Để tăng Kỹ năng Charisma, giao tiếp với các Sim khác, sử dụng Gương để Thực hành Nói chuyện, hoặc đọc Sách Kỹ năng Charisma. Sách Kỹ năng có thể mua trực tiếp từ Kệ sách bằng cách sử dụng tương tác Mua Sách!
+Nhấp vào một Sim và thực hiện Socials Thân thiện hoặc Hài hước để tăng Mối quan hệ! Để xem một Sim là bạn với ai, nhấp vào nút 'Bạn' trong bảng Mối quan hệ của Sim.
+Đạt Cấp độ {1.Number} Kỹ năng Charisma
+Đi đến các địa điểm khác nhau bằng cách sử dụng Bản đồ Thế giới. Nhấp vào các Sim chưa biết và chọn một lời giới thiệu!
+Gặp Người mới ở {1.Number} Địa điểm Khác nhau
+Để tăng Kỹ năng Hài kịch, sử dụng Microphone, Viết Đùa trên Máy tính, hoặc đọc Sách Kỹ năng Hài kịch. Sách Kỹ năng có thể mua trực tiếp từ Kệ sách bằng cách sử dụng tương tác Mua Sách!
+Nhấp vào Microphone và chọn một tiết mục để thực hiện. Các Sim có Kỹ năng Hài kịch cao hơn có thể viết các Tiết mục Hài kịch mới trên Máy tính.
+Để tăng Kỹ năng Hài kịch, sử dụng Microphone, Viết Đùa trên Máy tính, hoặc đọc Sách Kỹ năng Hài kịch. Sách Kỹ năng có thể mua trực tiếp từ Kệ sách bằng cách sử dụng tương tác Mua Sách!
+Nhấp vào Máy tính và chọn Soạn Tiết mục trong danh mục Hài kịch. Máy tính có thể mua từ Chế độ Xây dựng trong Sắp xếp Phòng học.
+Để tham gia nhánh Diễn viên hài, trước tiên phát triển qua Sự nghiệp Người giải trí bằng cách hoàn thành Yêu cầu Thăng tiến và tham gia làm việc trong Tâm trạng Lý tưởng của Sự nghiệp.
+Tham gia Nhánh Diễn viên hài của Sự nghiệp Người giải trí
+Microphone có thể mua từ Chế độ Xây dựng trong Sắp xếp Phòng học.
+Để trở thành Người giải trí, nhấp vào Điện thoại hoặc Máy tính và chọn tương tác Tìm việc.
+Tham gia Sự nghiệp Người giải trí
+Nhấp vào một Sim và chọn Socials từ danh mục Hài hước.
+Đạt Cấp độ {1.Number} Kỹ năng Hài kịch
+Có Kiếm được {1.Money} từ Bản quyền Xuất bản Sách
+Hoàn thành {1.Number} Bestseller
+Đạt Cấp độ 10 Kỹ năng Viết
+Hoàn thành {1.Number} Kiệt tác
+Đạt Cấp độ 10 Kỹ năng Vẽ tranh
+Viết {1.Number} Sách Tuyệt vời
+Xuất bản {1.Number} Sách
+Hoàn thành {1.Number} Bức tranh Tuyệt vời
+Viết {1.Number} Bài hát
+Viết {1.Number} Sách Tốt
+Bán {1.Number} Bức tranh cho Nhà sưu tập hoặc Phòng trưng bày nghệ thuật
+Viết {1.Number} Sách
+Đạt Cấp độ {1.Number} Kỹ năng Viết
+Bắt đầu {1.Number} Bức tranh khi Tràn đầy cảm hứng
+Hoàn thành {1.Number} Bức tranh Cảm xúc
+Thực hành Âm nhạc trong 6 Giờ
+Đã Viết trong Tổng cộng 15 Giờ
+Vẽ tranh trong 5 Giờ
+Nhấp vào một Sim đang chơi Nhạc cụ và chọn Làm người hướng dẫn. Tương tác này có thể mở khóa bằng cách đạt mức tối đa Kỹ năng Nhạc cụ.
+Làm người hướng dẫn cho người khác trong Âm nhạc trong {1.Number} Giờ
+Nhạc cụ có thể mua từ Chế độ Xây dựng trong Sắp xếp Phòng học.
+Đã Dành {1.Number} Giờ chơi Nhạc cụ
+Để tăng Kỹ năng Nhạc cụ của Sim, nhấp vào một nhạc cụ và chọn một trong các tương tác hoặc đọc Sách Kỹ năng Nhạc cụ. Sách Kỹ năng có thể mua trực tiếp từ Kệ sách bằng cách sử dụng tương tác Mua Sách!
+Nhấp vào Hộp thư và chọn Cấp phép Bài hát. Sim có thể mở khóa tương tác này bằng cách tăng Kỹ năng Nhạc cụ và viết một bài hát.
+Kiếm {1.Money} từ Bài hát Đã cấp phép
+Nhấp vào một Nhạc cụ và chọn Viết Bài hát. Các Sim có Kỹ năng cao có khả năng tạo ra Bài hát chất lượng cao hơn.
+Để tăng Kỹ năng Nhạc cụ của Sim, nhấp vào một nhạc cụ và chọn một trong các tương tác hoặc đọc Sách Kỹ năng Nhạc cụ. Sách Kỹ năng có thể mua trực tiếp từ Kệ sách bằng cách sử dụng tương tác Mua Sách!
+Nhấp vào một Nhạc cụ và chọn một tương tác để chơi. Để trở nên Tràn đầy cảm hứng, tắm mưa Suy nghĩ, Đọc Sách, hoặc làm Công việc Sáng tạo.
+Chơi Nhạc cụ trong {1.Number} Giờ khi Tràn đầy cảm hứng
+Để tăng Kỹ năng Nhạc cụ của Sim, nhấp vào một nhạc cụ và chọn một trong các tương tác hoặc đọc Sách Kỹ năng Nhạc cụ. Sách Kỹ năng có thể mua trực tiếp từ Kệ sách bằng cách sử dụng tương tác Mua Sách!
+Đạt Cấp độ {1.Number} Kỹ năng trong một Nhạc cụ
+Nhấp vào một Máy phát âm thanh và chọn thể loại để Nghe. Máy phát âm thanh có thể mua từ Chế độ Xây dựng trong Sắp xếp Phòng khách.
+Nghe Nhạc trong {1.Number} Giờ
+Nhấp vào một Nhạc cụ và chọn Thực hành. Nhạc cụ có thể mua từ Chế độ Xây dựng trong Sắp xếp Phòng học.
+Nhấp vào Máy tính và chọn một thể loại sách để viết trong danh mục Viết. Khi sách hoàn thành, nhấp vào Hộp thư để Xuất bản. Các Sim có Kỹ năng Viết cao có khả năng tạo ra Bestseller cao hơn!
+Nhấp vào Máy tính và chọn một thể loại sách để viết trong danh mục Viết. Khi sách hoàn thành, nhấp vào Hộp thư để Xuất bản. Các Sim có Kỹ năng Viết cao có khả năng tạo ra Bestseller cao hơn!

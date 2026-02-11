@@ -1,0 +1,636 @@
+Chúng ta sẽ dịch toàn bộ nội dung từ tiếng Anh sang tiếng Việt, tuân thủ các yêu cầu: 
+- Không dịch "The Sims 4", "Sims", "Sim", "Social Bunny", "EA app", "Gallery". 
+- Giữ nguyên thẻ HTML, biến {0.String}, ký tự đặc biệt. 
+- Trả về đúng số dòng.
+
+Trước tiên, cần xác định các phần cần dịch: 
+1. Phần tiêu đề và mô tả cho các pack mở rộng và kit. 
+2. Các đoạn văn mô tả khu vực, tính năng. 
+3. Danh sách ul/li.
+
+Lưu ý: 
+- Giữ nguyên các thẻ HTML như <ul>, <li>, <br>, &amp; (nhưng trong ví dụ có &amp; nên giữ nguyên). 
+- Biến {0.String} (nếu có) giữ nguyên. 
+- Ký tự đặc biệt như "™", "…", "—" giữ nguyên. 
+- Số dòng: phải trả về đúng số dòng, tức là mỗi dòng trong input sẽ tương ứng một dòng trong output, nhưng có thể gộp nếu dịch liền? Không, phải giữ cấu trúc dòng. Input có nhiều dòng, output phải có cùng số dòng, mỗi dòng dịch tương ứng.
+
+Xem xét input: 
+- Có nhiều đoạn cách nhau bởi dòng trống? Không, input là một khối text có nhiều dòng. Cần giữ nguyên số dòng, nghĩa là nếu input có 100 dòng, output phải có 100 dòng, mỗi dòng là bản dịch của dòng tương ứng.
+
+Tuy nhiên, trong input có các thẻ HTML trên nhiều dòng? Ví dụ: 
+"\nIsland Living\nSulani\n..." 
+Cần dịch từng dòng riêng lẻ.
+
+Cách làm: Tách input thành từng dòng, dịch từng dòng (nếu dòng đó không phải thẻ HTML thuần túy, nhưng có chứa text), nhưng lưu ý các dòng chỉ có thẻ HTML (ví dụ <ul ...>) thì giữ nguyên, không dịch.
+
+Nhưng yêu cầu: "Giữ nguyên thẻ HTML", tức là nếu dòng chứa thẻ HTML, giữ nguyên toàn bộ dòng đó? Không hẳn, vì có thể thẻ HTML có chứa text cần dịch. Ví dụ: <li>Befriend a Dolphin or a Mermaid</li> -> cần dịch text trong li, nhưng giữ nguyên thẻ.
+
+Vậy: Với mỗi dòng, nếu dòng chứa thẻ HTML, thì chỉ dịch phần text bên trong, giữ nguyên cấu trúc thẻ. Còn nếu dòng không có thẻ, thì dịch toàn bộ.
+
+Tuy nhiên, cũng có dòng chỉ có text đơn thuần.
+
+Cần phân biệt: 
+- Các dòng như "Looking for Love" -> dịch.
+- Dòng như "<ul type=\"circle\"><li>Befriend a Dolphin or a Mermaid</li></ul>" -> đây là một dòng? Trong input, nó được viết trên nhiều dòng? Thực tế input có: 
+"\nIsland Living\nSulani\n...\n\n&lt;ul type=&quot;circle&quot;&gt;&lt;li&gt;Befriend a Dolphin or a Mermaid&lt;/li&gt;&lt;li&gt;Lounge in stylish beach wear or don't and do an Odd Job here and there&lt;/li&gt;..."
+
+Như vậy, các thẻ HTML có thể nằm trên một dòng hoặc nhiều dòng? Trong input, đoạn ul li được viết liên tục trên một dòng? Không, trong text input, nó xuất hiện như: 
+"\n&lt;ul type=&quot;circle&quot;&gt;\n&lt;li&gt;Befriend a Dolphin or a Mermaid&lt;/li&gt;\n&lt;li&gt;Lounge in stylish beach wear or don't and do an Odd Job here and there&lt;/li&gt;\n..."
+
+Vậy mỗi dòng là một phần. Do đó, cần xử lý từng dòng riêng lẻ.
+
+Nhưng có dòng chỉ chứa thẻ mở hoặc đóng? Ví dụ: "<ul ...>" là một dòng, "<li>...</li>" là dòng khác. Khi dịch, với dòng chỉ chứa thẻ (không có text), giữ nguyên. Với dòng chứa cả thẻ và text, dịch text.
+
+Tuy nhiên, có trường hợp text nằm trong thuộc tính? Ví dụ: type="circle" -> giữ nguyên, không dịch.
+
+Vậy thuật toán: 
+- Duyệt từng dòng trong input. 
+- Nếu dòng chứa thẻ HTML (bắt đầu bằng < và kết thúc bằng >) và không có text ngoài thẻ? Thực tế, có thể có text bên trong thẻ. 
+- Cách đơn giản: Tìm các thẻ HTML, tách text bên trong, dịch text, rồi ghép lại.
+
+Nhưng để an toàn, vì yêu cầu giữ nguyên thẻ HTML, nên ta chỉ dịch các phần text thuần túy (không nằm trong thẻ). Tuy nhiên, trong thẻ có thể có text cần dịch (như nội dung li, tiêu đề h? nhưng trong input không thấy h, chỉ thấy ul li và các đoạn văn bản riêng).
+
+Trong input, các đoạn văn bản thường là các dòng riêng biệt, không kèm thẻ. Còn các thẻ HTML xuất hiện như các dòng riêng, hoặc trong cùng dòng với text? Thực tế, input có dòng: 
+"<ul type=\"circle\"><li>Befriend a Dolphin or a Mermaid</li><li>Lounge in stylish beach wear or don't and do an Odd Job here and there</li></ul>"
+
+Đó là một dòng duy nhất chứa nhiều thẻ li. Vậy cần dịch text trong mỗi li.
+
+Do đó, cần xử lý phức tạp hơn: Phân tích cú pháp HTML đơn giản? Có thể dùng regex để tìm các thẻ và dịch text bên trong, nhưng cẩn thận với thuộc tính.
+
+Tuy nhiên, yêu cầu: "Giữ nguyên thẻ HTML, biến {0.String}, ký tự đặc biệt." Vậy có thể hiểu là: Chỉ dịch các phần text không phải là thẻ HTML, và giữ nguyên mọi thứ khác.
+
+Cụ thể: 
+- Các thẻ HTML (có chứa dấu < và >) giữ nguyên nguyên văn. 
+- Các biến {0.String} giữ nguyên. 
+- Các ký tự đặc biệt như &amp; giữ nguyên (nhưng trong bản dịch, nếu cần dùng &amp; thì vẫn giữ? Thường thì dịch xong rồi để nguyên &amp;).
+
+Nhưng nếu thẻ HTML chứa text, thì text đó cần dịch. Ví dụ: <li>text</li> -> dịch text, giữ nguyên thẻ.
+
+Vậy cần tách text ra khỏi thẻ, dịch, rồi đặt lại.
+
+Có thể dùng cách: Tìm tất cả các đoạn text không nằm trong thẻ HTML? Nhưng trong HTML, text nằm giữa thẻ mở và đóng. 
+
+Do input không phải là HTML hoàn chỉnh mà là các dòng riêng lẻ, nên có thể có dòng chứa nhiều thẻ. Cần xử lý từng dòng.
+
+Để đơn giản, ta có thể: 
+1. Tách input thành các dòng. 
+2. Với mỗi dòng, nếu dòng chứa thẻ HTML (tức có ít nhất một cặp <...>), thì thực hiện: 
+   - Dùng regex để tìm tất cả các đoạn text nằm giữa thẻ (không tính thuộc tính). 
+   - Dịch các đoạn text đó. 
+   - Thay thế trong dòng.
+3. Nếu dòng không chứa thẻ HTML, dịch toàn bộ.
+
+Tuy nhiên, regex cho HTML phức tạp. Có thể đơn giản: Tìm tất cả các phần nằm giữa > và < (tức text ngoài thẻ) và giữa thẻ mở và đóng? Thực tế, trong một dòng có thể có nhiều thẻ, text nằm giữa các thẻ.
+
+Ví dụ: <li>text</li><li>text2</li> -> text và text2 cần dịch.
+
+Có thể dùng regex: >([^<]+)< để tìm text giữa > và <, nhưng sẽ bỏ sót text cuối cùng? Hoặc dùng pattern: <[^>]*>|([^<]+) để tách ra các phần: phần là thẻ (giữ nguyên) và phần là text (dịch).
+
+Cụ thể: 
+- Tách dòng thành các token: thẻ HTML và text. 
+- Với mỗi token: nếu là thế (bắt đầu bằng <), giữ nguyên; nếu là text, dịch.
+
+Nhưng cần chú ý: Có thể có text có chứa ký tự đặc biệt, &amp; v.v.
+
+Cài đặt: 
+Dùng regex: /(<[^>]*>)|([^<]+)/g để tách. 
+- Nhóm 1: thẻ HTML (<...>) 
+- Nhóm 2: text không chứa <
+
+Sau đó, với mỗi token: 
+- Nếu token là thẻ (có <), giữ nguyên. 
+- Nếu token là text, dịch.
+
+Tuy nhiên, có thể có text rỗng? Có.
+
+Với dòng không có thẻ nào, toàn bộ là text -> dịch.
+
+Áp dụng cho từng dòng.
+
+Nhưng cũng có dòng chỉ chứa thẻ? Ví dụ: <br> -> đó là thẻ, giữ nguyên.
+
+Vậy: 
+Với mỗi dòng: 
+- Nếu dòng chứa bất kỳ ký tự '<' nào: dùng regex để tách thành mảng các phần, mỗi phần là thẻ hoặc text. 
+- Nếu không, dịch toàn bộ dòng.
+
+Tuy nhiên, cần lưu ý: Có thể có dòng chứa cả thẻ và text, nhưng text có thể chứa ký tự '<'? Trong nội dung tiếng Anh, ít khi có, nhưng nếu có thì sai. Nhưng trong ngữ cảnh này, hầu hết là văn bản thuần túy nên an toàn.
+
+Tiếp theo, dịch text như thế nào? Dùng Google Translate? Nhưng là chuyên gia dịch, nên dịch thủ công? Ở đây là mô hình, nên phải dịch tự động? Không, user yêu cầu dịch, nhưng mình là assistant nên dịch thôi. Tuy nhiên, không có dịch vụ dịch thuật bên ngoài, nên phải dịch thủ công? Quá nhiều text.
+
+Thực tế, user đưa một đoạn dài, yêu cầu dịch sang tiếng Việt. Mình phải dịch toàn bộ. Vì vậy, cần dịch từng phần text.
+
+Do độ dài, mình sẽ dịch từng phần một, nhưng phải đảm bảo đúng số dòng.
+
+Có thể copy input, sau đó dịch từng dòng, giữ nguyên các thẻ.
+
+Nhưng input có khoảng 100 dòng, mình sẽ cố gắng dịch nhanh và chính xác.
+
+Đầu tiên, tách input thành các dòng. Đếm số dòng? Không cần, chỉ cần xử lý từng dòng và output cùng số dòng.
+
+Xác định các dòng cần dịch: 
+- Các dòng tiêu đề: "Looking for Love" -> "Tìm Kiếm Tình Yêu"
+- "Still single? No worry! Find your next flame at the Nightclub, Lounge, or Gym to burn off some pent-up energy." -> "Vẫn còn độc thân? Đừng lo! Tìm kiếm người yêu mới tại Nightclub, Lounge, hoặc Gym để xảStress."
+   Lưu ý: Giữ nguyên tên địa điểm? Nightclub, Lounge, Gym có thể giữ nguyên vì là tên địa điểm trong game? Nhưng yêu cầu chỉ không dịch "The Sims 4", "Sims", "Sim", "Social Bunny", "EA app", "Gallery". Các từ khác như Nightclub, Lounge, Gym có thể dịch? Thường thì trong bản dịch tiếng Việt của game, họ giữ nguyên tên địa điểm? Tuy nhiên, đây là mô tả, có thể dịch. Nhưng để an toàn, nếu là tên địa điểm chính thức, có thể giữ nguyên. Tuy nhiên, trong text, Nightclub, Lounge, Gym là các loại địa điểm chung, nên dịch: "câu lạc bộ đêm, phòng lounge, hoặc phòng gym". 
+   Tuy nhiên, user không chỉ rõ, nên mình dịch thoải mái, nhưng tránh dịch các từ đã nêu.
+
+Tiếp tục.
+
+Vì input dài, mình sẽ dịch từng đoạn.
+
+Nhưng cần chú ý: Có các đoạn lặp lại như "Life & Death" -> giữ nguyên vì là tên pack? "Life & Death" là tên expansion pack, có thể giữ nguyên? User nói không dịch "The Sims 4", nhưng "Life & Death" là tên pack, có thể dịch? Thường trong bản dịch, họ giữ nguyên tên pack. Tuy nhiên, user không liệt kê, nên mình có thể dịch? Để tránh rủi ro, nên giữ nguyên tên các pack: "Life & Death", "Island Living", "Dream Home Decorator", "Tea Time Solarium", "My Wedding Stories", "Essential Glam", "Romantic Garden Stuff", "Nifty Knitting Stuff Pack", "Storybook Nursery Kit", "Enchanted by Nature", "Kitchen Clutter". Tương tự cho các khu vực: "Ravenwood", "Sulani", "Tartosa", "Innisgreen". Tên này có thể giữ nguyên.
+
+Vậy: 
+- Tên expansion pack, kit, stuff pack: giữ nguyên. 
+- Tên khu vực: giữ nguyên. 
+- Các từ khác: dịch.
+
+Kiểm tra: "Life & Death" -> có &amp; trong input? Trong input là "Life &amp; Death", nhưng khi hiển thị thì là "Life & Death". Mình giữ nguyên &amp;? Trong output, nên giữ nguyên &amp; vì là ký tự đặc biệt. Tuy nhiên, khi dịch, nếu dịch sang tiếng Việt, có thể giữ nguyên "Life & Death" hoặc dịch là "Cuộc Sống & Cái Chết"? Nhưng thường game giữ nguyên tên. Mình sẽ giữ nguyên "Life & Death" và "Island Living" v.v.
+
+Trong input có: "The Sims™ 4 Life &amp; Death Expansion Pack." -> "The Sims™ 4" không dịch, "Life & Death" giữ nguyên, "Expansion Pack" dịch? Có thể dịch là "Gói Mở Rộng". Tuy nhiên, để nhất quán, có thể giữ nguyên "Expansion Pack"? Nhưng user không nói không dịch "Expansion Pack". Vậy dịch: "Gói Mở Rộng Cuộc Sống & Cái Chết của The Sims™ 4."? Nhưng "The Sims™ 4" không dịch, nên: "Gói Mở Rộng Life & Death của The Sims™ 4."? Không hay.
+
+Thực tế, trong bản dịch chính thức, họ viết: "The Sims™ 4 Life & Death Expansion Pack" giữ nguyên tiếng Anh. Vậy mình cũng giữ nguyên toàn bộ? User nói "KHÔNG dịch: 'The Sims 4', 'Sims', 'Sim', 'Social Bunny', 'EA app', 'Gallery'." Các khác có thể dịch. Nhưng "Life & Death" không nằm trong danh sách, nên có thể dịch. Tuy nhiên, để an toàn, mình sẽ giữ nguyên tên pack, kit vì đó là tên chính thức.
+
+Quyết định: 
+- Giữ nguyên tất cả các tên chính thức của pack, kit, expansion, và tên khu vực (Ravenwood, Sulani, Tartosa, Innisgreen). 
+- Dịch các phần mô tả xung quanh.
+
+Vậy với "The Sims™ 4 Life &amp; Death Expansion Pack." -> giữ nguyên "The Sims™ 4 Life & Death Expansion Pack."? Không, vì "Expansion Pack" dịch? Có thể để nguyên vì là tên gọi. Thực tế, trên EA site, họ viết "The Sims 4 Life & Death Expansion Pack". Vậy mình giữ nguyên toàn bộ cụm đó? Nhưng user nói không dịch "The Sims 4", còn "Life & Death" và "Expansion Pack" có thể dịch. Để đơn giản, mình dịch: "Gói Mở Rộng Life & Death của The Sims™ 4."? Hoặc giữ nguyên: "The Sims™ 4 Life & Death Expansion Pack." và dịch phần còn lại? Trong câu: "Peel back the veil to uncover the secret to fuller Sim lives and beyond in The Sims™ 4 Life &amp; Death Expansion Pack." -> Dịch: "Lật tấm màn để khám phá bí mật cho cuộc sống Sim trọn vẹn hơn và hơn thế nữa trong The Sims™ 4 Life & Death Expansion Pack."
+
+Như vậy, chỉ dịch phần "Peel back the veil...", còn tên pack giữ nguyên.
+
+Tương tự cho các pack khác.
+
+Vậy quy tắc: 
+- Các từ "The Sims 4", "Sims", "Sim" (chỉ số ít/đôi) không dịch, giữ nguyên. 
+- Các tên pack/expansion/kit: giữ nguyên (vì thường là tên riêng). 
+- Các tên khu vực: giữ nguyên. 
+- Các thuật ngữ khác như "Expansion Pack", "Stuff Pack", "Kit" có thể dịch? Có thể dịch là "Gói Mở Rộng", "Gói Đồ", "Bộ". Nhưng để nhất quán, có thể giữ nguyên "Expansion Pack", "Stuff Pack", "Kit"? Trong bản dịch tiếng Việt, họ có thể dịch. Mình sẽ dịch: 
+   Expansion Pack -> Gói Mở Rộng
+   Stuff Pack -> Gói Đồ
+   Kit -> Bộ
+   Nhưng nếu kết hợp với tên, ví dụ: "The Sims 4 Life & Death Expansion Pack" -> "Gói Mở Rộng Life & Death của The Sims 4"? Không hay. Thực tế, trên bản dịch chính thức, họ giữ nguyên tên tiếng Anh. Vậy mình cũng giữ nguyên.
+
+Sau khi xem xét, mình sẽ giữ nguyên tất cả các tên chính thức (cả tên pack và tên khu vực) và chỉ dịch các phần mô tả, tiêu đề, câu thông thường.
+
+Ví dụ: 
+"Looking for Love" -> dịch.
+"Still single? No worry!" -> dịch.
+"Find your next flame at the Nightclub, Lounge, or Gym" -> dịch, nhưng giữ nguyên Nightclub, Lounge, Gym? Có thể dịch là "câu lạc bộ đêm, phòng lounge, hoặc phòng tập gym" nhưng nếu muốn giữ nguyên tên địa điểm trong game, có thể để nguyên. Trong game, địa điểm có tên riêng, nhưng ở đây là chung. Mình dịch: "tại câu lạc bộ đêm, phòng lounge hoặc phòng gym".
+
+Tương tự.
+
+Bây giờ, bắt đầu dịch từng dòng.
+
+Lưu ý: Giữ nguyên số dòng, nghĩa là output phải có cùng số dòng với input. Vì vậy, khi dịch, nếu một dòng dài, dịch thành một dòng (không xuống dòng). Nếu dòng có thẻ HTML, giữ nguyên thẻ, chỉ dịch text bên trong.
+
+Vì input có nhiều dòng, mình sẽ lần lượt xử lý.
+
+Đầu tiên, đếm số dòng input? Không cần, chỉ cần duyệt từng dòng và dịch.
+
+Mình sẽ tạo một list các dòng output.
+
+Bắt đầu:
+
+Dòng 1: "Looking for Love" -> "Tìm Kiếm Tình Yêu"
+
+Dòng 2: "Still single? No worry! Find your next flame at the Nightclub, Lounge, or Gym to burn off some pent-up energy." -> "Vẫn còn độc thân? Đừng lo! Tìm kiếm người yêu mới tại câu lạc bộ đêm, phòng lounge, hoặc phòng gym để xả bớt năng lượng tích tụ."
+
+Dòng 3: "Revel in Romance" -> "Thưởng thức Lãng Mạn"
+
+Dòng 4: "This romantic locale is perfect for singles and those looking to rekindle their love." -> "Địa điểm lãng mạn này hoàn hảo cho người độc thân và những ai muốn thắp lại ngọn lửa tình yêu."
+
+Dòng 5: "Level up your Romance Skill" -> "Nâng cấp Kỹ Năng Lãng Mạn"
+
+Dòng 6: "Strong Attraction with Turn-Ons and Turn-Offs" -> "Sức Hấp Dẫn Mạnh Mẽ với Điểm Thu Hút và Điểm Xua Tan"
+
+Dòng 7: "Match with single Sims on Cupid's Corner" -> "Ghép đôi với các Sim độc thân tại Góc Cupid"
+
+Dòng 8: "Plan hotter dates" -> "Lên kế hoạch cho những buổi hẹn hò nóng bỏng hơn"
+
+Dòng 9: "Peel back the veil to uncover the secret to fuller Sim lives and beyond in The Sims™ 4 Life &amp; Death Expansion Pack." -> "Lật tấm màn để khám phá bí mật cho cuộc sống Sim trọn vẹn hơn và hơn thế nữa trong The Sims™ 4 Life & Death Expansion Pack."
+
+Dòng 10: "Life &amp; Death" -> giữ nguyên "Life & Death" (vì là tên pack, và có &amp; giữ nguyên)
+
+Dòng 11: "Life &amp; Death" -> giữ nguyên
+
+Dòng 12: "Ravenwood" -> giữ nguyên
+
+Dòng 13: "Things always get a little spooky in Ravenwood. The Whispering Glen with its nightly Moon Revelry festivities is perhaps the most &quot;normal&quot; part of the area, where locals have settled down for a slice of quiet, country life. Crow's Crossing village, however, is clearly quite haunted—swings swaying by themselves, that Merchant fellow down by the Crypt, scary little Edith guarding the Well of Longing and Regret…but despite the hauntings, the living have certainly made it their home as well with a variety of festivals and places to explore. Mourningvale is where things get extra ethereal! It's well known as a home for Ghosts and those seeking them. Sometimes Grim even stops by!" -> 
+Dịch: "Điều gì đó luôn hơi ma quái ở Ravenwood. Thung lũng thì thầm với lễ hội Moon Revelry hàng đêm có lẽ là phần 'bình thường' nhất của khu vực, nơi người dân đã an cư để tận hưởng cuộc sống yên tĩnh, đồng quê. Tuy nhiên, làng Crow's Crossing rõ ràng rất ám ảnh—đu xích tự động đung đưa, gã Merchant kia ở gần Crypt, cô bé đáng sợ Edith canh giữ cái giếng Longing and Regret... nhưng bất chấp những trò ám ảnh, người sống cũng đã biến nó thành nhà của mình với nhiều lễ hội và nơi khám phá. Mourningvale là nơi mọi thứ trở nên siêu nhiên! Nơi đây nổi tiếng là nơi ở của Ma và những người tìm kiếm chúng. Đôi khi Grim thậm chí còn ghé qua!"
+
+Lưu ý: Giữ nguyên tên địa danh: Whispering Glen, Moon Revelry, Crow's Crossing, Crypt, Well of Longing and Regret, Mourningvale, Grim. Và dấu … giữ nguyên.
+
+Dòng 14: "Chilling Collections" -> "Bộ Sưu Tập Lạnh Lùng"
+
+Dòng 15: "Stop by the Collector Signs in any of the three neighborhoods, explore a Crypt, discover the secrets of the Tarot Tome Shrines, or check out the eerie ruins of Whispering Glen." -> "Ghé qua các Biển Báo Sưu Tập trong ba khu phố, khám phá một Crypt, khám phá bí mật của Đền Tarot Tome, hoặc xem xét những tàn tích ma quái của Whispering Glen."
+
+Dòng 16: "Memorial Sites" -> "Địa Điểm Tưởng Niệm"
+
+Dòng 17: "Crypts, Cemeteries, the Afterlife Anonymous meeting, and little consoling Specters! Ravenwood is the perfect place to lift the spirits." -> "Crypt, Nghĩa trang, cuộc họp Afterlife Anonymous, và những Specters an ủi nhỏ! Ravenwood là nơi hoàn hảo để nâng cao tinh thần."
+
+Dòng 18: "Ghosts &amp; Grim" -> "Ma & Grim" (giữ nguyên &amp;)
+
+Dòng 19: "Want some Ghosts? Mourningvale is a literal ghost town, and Crow's Crossing village is clearly haunted! Soak in the spooky during Ravenwood's many festivals, become a temporary Ghost by taking a dip in the Baleful Bog, and possibly even run into Grim himself." -> "Muốn vài con Ma? Mourningvale là một thị trấn ma thực sự, và làng Crow's Crossing rõ ràng bị ám! Tận hưởng không khí ma quái trong những lễ hội nhiều của Ravenwood, trở thành Ma tạm thời bằng cách tắm trong Baleful Bog, và có thể thậm chí gặp chính Grim."
+
+Dòng 20: "A Town Worth Haunting" -> "Một Thị Trấn Đáng Để Ám"
+
+Dòng 21: "Friendly or Fiendish?" -> "Thân Thiện hay Ác Ý?"
+
+Dòng 22: "Goodbye (For Now)" -> "Tạm Biệt (Tạm Thời)"
+
+Dòng 23: "A Ghastly, Gorgeous Life" -> "Một Cuộc Sống Ma Quái, Lộng Lẫy"
+
+Dòng 24: "An Endless Journey" -> "Một Hành Trình Vô Tận"
+
+Dòng 25: "Escape the ordinary and enjoy a laid-back lifestyle!" -> "Thoát khỏi thường nhật và tận hưởng lối sống thư giãn!"
+
+Dòng 26: "Island Living" -> giữ nguyên "Island Living" (tên pack)
+
+Dòng 27: "Play with The Sims™ 4 Island Living!" -> "Chơi The Sims™ 4 Island Living!" (giữ nguyên tên pack)
+
+Dòng 28: "Here is a list of some of the experiences you can have during your trial of Island Living:" -> "Đây là danh sách một số trải nghiệm bạn có thể có trong thời gian dùng thử Island Living:"
+
+Dòng 29: "" (dòng trống? Trong input, sau dòng 28 có "\n\n&lt;ul ...", vậy có dòng trống? Input: 
+"\nIsland Living\nSulani\n...\n\n&lt;ul type=&quot;circle&quot;&gt;..."
+
+Có hai dòng trống? Thực tế, sau "Island Living" và trước ul có dòng trống? Trong text, sau "Island Living:" là "\n\n&lt;ul", tức có một dòng trống? Khi tách dòng, có thể có dòng rỗng. Cần giữ nguyên số dòng, nên nếu có dòng trống, output cũng có dòng trống.
+
+Tiếp tục:
+
+Dòng 29: "<ul type=\"circle\">" -> giữ nguyên
+
+Dòng 30: "<li>Befriend a Dolphin or a Mermaid</li>" -> dịch text: "<li>Kết bạn với một Cá Heo hoặc một Nàng Tiên Cá</li>"
+
+Dòng 31: "<li>Lounge in stylish beach wear or don't and do an Odd Job here and there</li>" -> "<li>Thư giãn trong trang phục bãi biển thời trang hoặc không và làm một số Công Việc Ky Lạ ở đây và đó</li>" 
+   "Odd Job" có thể dịch là "công việc bất thường" nhưng trong game có thể giữ nguyên? Mình dịch: "công việc bất thường".
+
+Dòng 32: "<li>Make sure your Mermaid Sims are hydrated... hydration is key!</li>" -> "<li>Đảm bảo các Sim Nàng Tiên Cá của bạn được cung cấp đủ nước... cấp bách là giữ ẩm!</li>" 
+   "hydration is key" -> "cấp bách là giữ ẩm" hoặc "việc giữ ẩm là chìa khóa".
+
+Dòng 33: "<li>Become a Conservationist and help clean up the beach</li>" -> "<li>Trở thành Nhà Bảo Tồn và giúp dọn sạch bãi biển</li>"
+
+Dòng 34: "<li>Watch out for those sun rays, sunburns can be the worst!</li>" -> "<li>Cẩn thận với tia nắng, cháy nắng có thể là tệ nhất!</li>"
+
+Dòng 35: "<li>Collect Seashells and participate in Island Events</li>" -> "<li>Thu thập Vỏ Sò và tham gia Sự Kiện Đảo</li>"
+
+Dòng 36: "<li>Flirt at the beach bonfire or host a Kava party!</li>" -> "<li>Thả thính tại bãi biển lửa trại hoặc tổ chức một bữa tiệc Kava!</li>"
+
+Dòng 37: "</ul>" -> giữ nguyên
+
+Dòng 38: "Island Living" -> giữ nguyên? Đây là tên pack, nhưng đã có ở trên. Có thể là tiêu đề lại? Trong input, sau ul có "Island Living" rồi "Sulani", vậy đây là các tiêu đề mới. Mình giữ nguyên tên pack, nhưng "Island Living" ở đây có thể là tiêu đề chương? Tuy nhiên, user không nói không dịch tên pack, nên có thể dịch? Nhưng để nhất quán, nếu là tên pack thì giữ nguyên. Ở đây có vẻ như là tiêu đề cho phần mô tả Sulani. Có thể dịch "Island Living" là "Sống trên Đảo"? Nhưng nếu dịch thì khác với tên pack. Trong game, "Island Living" là tên expansion pack, nên nên giữ nguyên.
+
+Quyết định: Khi "Island Living" xuất hiện đơn lẻ, nếu là tên pack thì giữ nguyên. Ở dòng 26 và 27 đã giữ nguyên. Ở dòng 38, có thể là tiêu đề, nhưng vẫn là tên pack, nên giữ nguyên.
+
+Tuy nhiên, để tránh nhầm lẫn, mình sẽ dịch các tiêu đề chính như "Island Living" khi nó là phần mô tả? Thực tế, trong input, sau khi liệt kê trải nghiệm, có "Island Living" rồi "Sulani", có lẽ là các phần mới. Mình nghĩ nên dịch "Island Living" thành "Sống Đảo" hoặc giữ nguyên? Vì đây là tên expansion, nên giữ nguyên.
+
+Tương tự cho "Sulani", "Tartosa", "Innisgreen" giữ nguyên.
+
+Vậy dòng 38: "Island Living" -> giữ nguyên.
+
+Dòng 39: "Sulani" -> giữ nguyên.
+
+Dòng 40: "Local Culture" -> "Văn Hóa Địa Phương"
+
+Dòng 41: "Meet new friends and learn about local culture at various local events in Ohan’ali Town" -> "Gặp gỡ bạn mới và tìm hiểu văn hóa địa phương tại các sự kiện địa phương khác nhau ở thị trấn Ohan’ali"
+
+Dòng 42: "Ocean Activities" -> "Hoạt Động Đại Dương"
+
+Dòng 43: "Sulani’s crisp ocean waters are your aquatic haven for Swimming, Snorkeling, or making a dolphin friend!" -> "Nước biển trong xanh của Sulani là thiên đường dưới nước cho bạn để bơi lội, lặn ngắm san hô, hoặc kết bạn với cá heo!"
+
+Dòng 44: "Active Volcano!" -> "Núi Lửa Hoạt Động!"
+
+Dòng 45: "Get up close and personal with Sulani’s active volcano! Or admire it safely from afar..." -> "Tiếp cận gần và cá nhân với núi lửa hoạt động của Sulani! Hoặc ngắm nhìn nó an toàn từ xa..."
+
+Dòng 46: "Rock the Island Vibes" -> "Cảm Nhận Bầu Không Khí Đảo"
+
+Dòng 47: "Engage in Local Culture" -> "Tham Gia Vào Văn Hóa Địa Phương"
+
+Dòng 48: "Pitch In or Help Out" -> "Góp Tay hoặc Giúp Đỡ"
+
+Dòng 49: "Sit Back and Relax" -> "Ngả Lưng và Thư Giãn"
+
+Dòng 50: "Every home is full of unrealized potential, and only you can take it from drab to fab." -> "Mọi ngôi nhà đều đầy tiềm năng chưa được khai thác, và chỉ bạn mới có thể biến chúng từ tẻ nhạt thành tuyệt vời."
+
+Dòng 51: "Dream Home Decorator" -> giữ nguyên "Dream Home Decorator" (tên pack)
+
+Dòng 52: "Dream Home Decorator" -> giữ nguyên
+
+Dòng 53: "Get Ready for the Big Reveal" -> "Chuẩn Bị Cho Sự Kiện Công Bố Lớn"
+
+Dòng 54: "Renovate, Redecorate, Remodel" -> "Cải Tạo, Trang Trí Lại, Xây Dựng Lại"
+
+Dòng 55: "Get to Know Your Clients" -> "Hiểu Rõ Khách Hàng Của Bạn"
+
+Dòng 56: "Dazzling at Parties" -> "Lộng Lẫy Tại Các Bữa Tiệc"
+
+Dòng 57: "Indulge Together" -> "Thưởng Thức Cùng Nhau"
+
+Dòng 58: "Sip tea in sunlight while surrounded by elegant décor and close friends with The Sims™ 4 Tea Time Solarium Kit." -> "Uống trà dưới ánh nắng mặt trời trong khi được bao quanh bởi trang trí thanh lịch và bạn bè thân thiết với The Sims™ 4 Tea Time Solarium Kit."
+
+Dòng 59: "Tea Time Solarium" -> giữ nguyên "Tea Time Solarium" (tên kit)
+
+Dòng 60: "Tea Time Solarium" -> giữ nguyên
+
+Dòng 61: "Tasteful & Tasty" -> "Hương Vị & Ngon Miệng"
+
+Dòng 62: "Gatherings in Glass" -> "Các Cuộc Tụ Họp Trong Kính"
+
+Dòng 63: "Say “I do” to your dream wedding." -> "Nói 'I do' trong đám cưới mơ ước của bạn."
+
+Dòng 64: "My Wedding Stories" -> giữ nguyên "My Wedding Stories" (tên pack)
+
+Dòng 65: "My Wedding Stories" -> giữ nguyên
+
+Dòng 66: "Tartosa" -> giữ nguyên
+
+Dòng 67: "Romantic sites and scenery have long graced the seaside region of Tartosa, creating the perfect setting for love and matrimonial pursuits. It isn't uncommon for vacationers and honeymooners alike to return year after year, seeking to re-experience the intimacy of visits past. They say there's a love story in the making for everyone. Just ask Tartosa's residents, and they'll excitedly gossip about local Wedding Industry shenanigans or the area's love-laced, historical past. But even if a Sim doesn't find their soulmate here, one thing is for certain... they're fated to fall in love with the land." -> 
+"Các địa điểm và phong cảnh lãng mạn đã từng làm đẹp cho vùng ven biển Tartosa, tạo nên khung cảnh hoàn hảo cho tình yêu và theo đuổi hôn nhân. Không phải là điều hiếm khi du khách và cặp đôi mới cưới quay lại năm này qua năm khác, tìm kiếm để tái trải nghiệm sự thân mật của những chuyến thăm quá khứ. Người ta nói rằng có một câu chuyện tình yêu đang hình thành cho mọi người. Hãy hỏi cư dân Tartosa, và họ sẽ sôi nổi bàn tán về những trò tinh nghịch của ngành Cưới Hôi địa phương hoặc quá khứ lãng mạn, lịch sử của khu vực. Nhưng ngay cả khi một Sim không tìm thấy một nửa của mình ở đây, một điều chắc chắn... họ được định mệnh dành để yêu quê hương."
+
+Dòng 68: "Local History" -> "Lịch Sử Địa Phương"
+
+Dòng 69: "Word travels fast through Tartosa's Grapevine, and myths and legends about the area's history abound." -> "Tin tức lan truyền nhanh chóng qua Grapevine của Tartosa, và các huyền thoại và truyền kỳ về lịch sử khu vực tràn ngập."
+
+Dòng 70: "Romantic Sights" -> "Cảnh Quan Lãng Mạn"
+
+Dòng 71: "Romance lofts through Tartosa's air, and there's always a new adventure to be had at one of the area's various romantic sites!" -> "Lãng mạn bao trùm không khí Tartosa, và luôn luôn có một cuộc phiêu lưu mới tại một trong những địa điểm lãng mạn khác nhau của khu vực!"
+
+Dòng 72: "Village Square" -> "Quảng Trường Làng"
+
+Dòng 73: "Visit Porto Luminoso's various shops and market stalls. Just don't forget to try the world-famous fruit tarts!" -> "Tham quan các cửa hàng và quầy hàng chợ đa dạng của Porto Luminoso. Chỉ đừng quên thử các chiếc bánh táo nổi tiếng thế giới!"
+
+Dòng 74: "Unique Celebrations" -> "Sự Kiện Độc Bản"
+
+Dòng 75: "Bring Your Vision to Life" -> "Mang Tầm Nhìn Của Bạn Đến Với Cuộc Sống"
+
+Dòng 76: "Tie the Knot" -> "Kết Duyên"
+
+Dòng 77: "Prep to Party" -> "Chuẩn Bị Cho Bữa Tiệc"
+
+Dòng 78: "Dine Out" -> giữ nguyên "Dine Out" (có lẽ là tên pack? Trong input, "Dine Out" xuất hiện nhiều, có thể là tên pack? Thực tế, "Dine Out" là một expansion pack? Không, "Dine Out" là một game pack? Trong The Sims 4 có "Dine Out" là một game pack. Vậy nên giữ nguyên.
+
+Dòng 79: "Dine Out" -> giữ nguyên
+
+Dòng 80: "Upgrade your Sim’s makeup collection with The Sims™ 4 Essential Glam Kit." -> "Nâng cấp bộ sưu tập makeup của Sim bạn với The Sims™ 4 Essential Glam Kit."
+
+Dòng 81: "Essential Glam" -> giữ nguyên "Essential Glam" (tên kit)
+
+Dòng 82: "Essential Glam" -> giữ nguyên
+
+Dòng 83: "Tailored Glamour" -> "Sang Trọng Theo Phong Cách"
+
+Dòng 84: "Romantic Garden" -> "Khu Vườn Lãng Mạn"
+
+Dòng 85: "Romantic Garden Stuff" -> giữ nguyên "Romantic Garden Stuff" (tên stuff pack)
+
+Dòng 86: "Grab your yarn and knitting needles—in The Sims™ 4 Nifty Knitting Stuff Pack, Sims can craft their own clothes, toys, and knittable home decor!" -> "Lấy sợi chỉ và kim móc—trong The Sims™ 4 Nifty Knitting Stuff Pack, Sim có thể tự tạo quần áo, đồ chơi và trang trí nhà có thể đan được!"
+
+Dòng 87: "Nifty Knitting" -> giữ nguyên "Nifty Knitting" (tên stuff pack)
+
+Dòng 88: "Surround new additions to the family with the elegance they deserve in The Sims™ 4 Storybook Nursery Kit." -> " Bao quanh những thành viên mới của gia đình với sự thanh lịch mà họ xứng đáng trong The Sims™ 4 Storybook Nursery Kit."
+
+Dòng 89: "Storybook Nursery" -> giữ nguyên
+
+Dòng 90: "Storybook Nursery" -> giữ nguyên
+
+Dòng 91: "A Legacy of Elegance" -> "Di Sản Thanh Lịch"
+
+Dòng 92: "A Touch of Whimsy" -> "Một Chút Điên Rồ"
+
+Dòng 93: "Live surrounded by the magic of nature in The Sims™ 4 Enchanted by Nature Expansion Pack." -> "Sống surrounded by the magic of nature in The Sims™ 4 Enchanted by Nature Expansion Pack." -> dịch: "Sống trong sự kỳ diệu của thiên nhiên trong The Sims™ 4 Enchanted by Nature Expansion Pack."
+
+Dòng 94: "Enchanted by Nature" -> giữ nguyên
+
+Dòng 95: "Enchanted by Nature" -> giữ nguyên
+
+Dòng 96: "Innisgreen" -> giữ nguyên
+
+Dòng 97: "The enchanting isle of Innisgreen is renowned for its natural beauty and vibrant communities. Sims from afar are drawn to the idyllic Sprucederry Grove, where Foraging is abundant and life flourishes in harmony with nature. In the mystical forest of Everdew, the pursuit of Fairy life and relationships offers enchanted experiences. Adventure awaits at the Coast of Adhmor, where the isle's rich history and secrets unfold through its engaging residents and monuments. Innisgreen is celebrated for its development of the Apothecary skill, attracting Sims eager to pursue careers in Naturopathy and holistic practices." -> 
+"Đảo Innisgreen quyến rũ được nổi tiếng với vẻ đẹp thiên nhiên và các cộng đồng sôi động. Sim từ xa bị thu hút bởi khu rừng Sprucederry Grove thanh bình, nơi Sưu Tầm phong phú và cuộc sống phát triển hài hòa với thiên nhiên. Trong khu rừng huyền ảo Everdew, việc theo đuổi cuộc sống và mối quan hệ Tiên Cảnh mang lại những trải nghiệm phép màu. Cuộc phiêu lưu chờ đón tại Bờ Biển Adhmor, nơi lịch sử phong phú và bí mật của đảo được hé lộ qua các cư dân và công trình thu hút. Innisgreen được ca ngợi vì sự phát triển của kỹ năng Dược Sĩ, thu hút những Sim háo hức theo đuổi sự nghiệp trong Liệu Pháp Tự Nhiên và các thực hành toàn diện."
+
+Dòng 98: "An Enchanting World" -> "Một Thế Giới Kỳ Diệu"
+
+Dòng 99: "From the forested Everdew to the Coast of Adhmor, delight and discovery await in the special landmarks, plants, and stories of this world." -> "Từ rừng Everdew đến Bờ Biển Adhmor, niềm vui và khám phá chờ đón ở các địa danh, thực vật và câu chuyện đặc biệt của thế giới này."
+
+Dòng 100: "Healing Haven" -> "Nơi Trú Ẩn Chữa Lành"
+
+Dòng 101: "Tap into natural healing and self-care through a strong local connection with Apothecary arts." -> "Tiếp cận liệu pháp tự nhiên và chăm sóc bản thân thông qua kết nối mạnh mẽ với nghệ thuật Dược Sĩ địa phương."
+
+Dòng 102: "Bohemian Lifestyle" -> "Lối Sống Bohemian"
+
+Dòng 103: "Embrace the bohemian lifestyle in picturesque landscapes, where all Sims can learn to live comfortably off the land." -> "Ôm lấy lối sống bohemian trong khung cảnh tranh vẽ, nơi mọi Sim có thể học cách sống thoải mái từ đất."
+
+Dòng 104: "A Land of Enchantment" -> "Một Vùng Đất Kỳ Diệu"
+
+Dòng 105: "A Balanced Lifestyle" -> "Một Lối Sống Cân Bằng"
+
+Dòng 106: "The Fairest Folk" -> "Những Người Dân Công Bằng" (có thể dịch là "Những Người Tốt Bụng"? "Fairest" có nghĩa là công bằng, nhưng trong ngữ cảnh này có thể là "đẹp đẽ"? Thực ra "The Fairest Folk" có thể là tên một phần, nhưng có vẻ là tiêu đề. Mình dịch: "Những Người Dân Tốt Bụng")
+
+Dòng 107: "Life Among the Trees" -> "Cuộc Sống Giữa Các Cây"
+
+Dòng 108: "The kitchen is the hub of family life – so make yours look lived-in with The Sims™ 4 Kitchen Clutter Kit." -> "Nhà bếp là trung tâm của cuộc sống gia đình – vì vậy hãy làm cho nhà bếp của bạn trông có vẻ đã được sống trong đó với The Sims™ 4 Kitchen Clutter Kit."
+
+Dòng 109: "Kitchen Clutter" -> giữ nguyên "Kitchen Clutter" (tên kit)
+
+Kiểm tra số dòng: Input có bao nhiêu dòng? Từ trên xuống, tôi đã đánh số đến 109. Tuy nhiên, có thể có dòng trống. Trong input, sau mỗi phần có dòng trống? Ví dụ sau "Looking for Love" và "Still single..." không có dòng trống? Thực tế, input là một chuỗi với các dòng cách nhau bằng \n. Tôi đã chia từng dòng dựa trên \n. Có thể có dòng trống. Trong quá trình dịch, tôi đã bỏ qua dòng trống? Không, tôi cần giữ nguyên.
+
+Xem lại input: 
+"Looking for Love\nStill single? No worry! Find your next flame at the Nightclub, Lounge, or Gym to burn off some pent-up energy. \nRevel in Romance\nThis romantic locale is perfect for singles and those looking to rekindle their love.\nLevel up your Romance Skill\nStrong Attraction with Turn-Ons and Turn-Offs\nMatch with single Sims on Cupid's Corner\nPlan hotter dates\nPeel back the veil to uncover the secret to fuller Sim lives and beyond in The Sims™ 4 Life &amp; Death Expansion Pack.\nLife &amp; Death\nLife &amp; Death\nRavenwood\nThings always get a little spooky in Ravenwood. The Whispering Glen with its nightly Moon Revelry festivities is perhaps the most &quot;normal&quot; part of the area, where locals have settled down for a slice of quiet, country life. Crow's Crossing village, however, is clearly quite haunted—swings swaying by themselves, that Merchant fellow down by the Crypt, scary little Edith guarding the Well of Longing and Regret…but despite the hauntings, the living have certainly made it their home as well with a variety of festivals and places to explore. Mourningvale is where things get extra ethereal! It's well known as a home for Ghosts and those seeking them. Sometimes Grim even stops by!\nChilling Collections\nStop by the Collector Signs in any of the three neighborhoods, explore a Crypt, discover the secrets of the Tarot Tome Shrines, or check out the eerie ruins of Whispering Glen.\nMemorial Sites\nCrypts, Cemeteries, the Afterlife Anonymous meeting, and little consoling Specters! Ravenwood is the perfect place to lift the spirits.\nGhosts &amp; Grim\nWant some Ghosts? Mourningvale is a literal ghost town, and Crow's Crossing village is clearly haunted! Soak in the spooky during Ravenwood's many festivals, become a temporary Ghost by taking a dip in the Baleful Bog, and possibly even run into Grim himself.\nA Town Worth Haunting\nFriendly or Fiendish?\nGoodbye (For Now)\nA Ghastly, Gorgeous Life\nAn Endless Journey\nEscape the ordinary and enjoy a laid-back lifestyle!\nIsland Living\nPlay with The Sims™ 4 Island Living!\nHere is a list of some of the experiences you can have during your trial of Island Living:\n\n&lt;ul type=&quot;circle&quot;&gt;&lt;li&gt;Befriend a Dolphin or a Mermaid&lt;/li&gt;&lt;li&gt;Lounge in stylish beach wear or don't and do an Odd Job here and there&lt;/li&gt;&lt;li&gt;Make sure your Mermaid Sims are hydrated... hydration is key!&lt;/li&gt;&lt;li&gt;Become a Conservationist and help clean up the beach&lt;/li&gt;&lt;li&gt;Watch out for those sun rays, sunburns can be the worst!&lt;/li&gt;&lt;li&gt;Collect Seashells and participate in Island Events&lt;/li&gt;&lt;li&gt;Flirt at the beach bonfire or host a Kava party!&lt;/li&gt;&lt;/ul&gt;\nIsland Living\nSulani\nLocal Culture\nMeet new friends and learn about local culture at various local events in Ohan’ali Town\nOcean Activities\nSulani’s crisp ocean waters are your aquatic haven for Swimming, Snorkeling, or making a dolphin friend!\nActive Volcano!\nGet up close and personal with Sulani’s active volcano! Or admire it safely from afar...\nRock the Island Vibes\nEngage in Local Culture\nPitch In or Help Out\nSit Back and Relax\nEvery home is full of unrealized potential, and only you can take it from drab to fab.\nDream Home Decorator\nDream Home Decorator\nGet Ready for the Big Reveal\nRenovate, Redecorate, Remodel\nGet to Know Your Clients\nDazzling at Parties\nIndulge Together\nSip tea in sunlight while surrounded by elegant décor and close friends with The Sims™ 4 Tea Time Solarium Kit.\nTea Time Solarium\nTea Time Solarium\nTasteful & Tasty\nGatherings in Glass\nSay “I do” to your dream wedding.\nMy Wedding Stories\nMy Wedding Stories\nTartosa\nRomantic sites and scenery have long graced the seaside region of Tartosa, creating the perfect setting for love and matrimonial pursuits. It isn't uncommon for vacationers and honeymooners alike to return year after year, seeking to re-experience the intimacy of visits past. They say there's a love story in the making for everyone. Just ask Tartosa's residents, and they'll excitedly gossip about local Wedding Industry shenanigans or the area's love-laced, historical past. But even if a Sim doesn't find their soulmate here, one thing is for certain... they're fated to fall in love with the land.\nLocal History\nWord travels fast through Tartosa's Grapevine, and myths and legends about the area's history abound.\nRomantic Sights\nRomance lofts through Tartosa's air, and there's always a new adventure to be had at one of the area's various romantic sites!\nVillage Square\nVisit Porto Luminoso's various shops and market stalls. Just don't forget to try the world-famous fruit tarts!\nUnique Celebrations\nBring Your Vision to Life\nTie the Knot\nPrep to Party\nDine Out\nDine Out\nUpgrade your Sim’s makeup collection with The Sims™ 4 Essential Glam Kit.\nEssential Glam\nEssential Glam\nTailored Glamour\nRomantic Garden\nRomantic Garden Stuff\nGrab your yarn and knitting needles—in The Sims™ 4 Nifty Knitting Stuff Pack, Sims can craft their own clothes, toys, and knittable home decor!\nNifty Knitting\nSurround new additions to the family with the elegance they deserve in The Sims™ 4 Storybook Nursery Kit.\nStorybook Nursery\nStorybook Nursery\nA Legacy of Elegance\nA Touch of Whimsy\nLive surrounded by the magic of nature in The Sims™ 4 Enchanted by Nature Expansion Pack.\nEnchanted by Nature\nEnchanted by Nature\nInnisgreen\nThe enchanting isle of Innisgreen is renowned for its natural beauty and vibrant communities. Sims from afar are drawn to the idyllic Sprucederry Grove, where Foraging is abundant and life flourishes in harmony with nature. In the mystical forest of Everdew, the pursuit of Fairy life and relationships offers enchanted experiences. Adventure awaits at the Coast of Adhmor, where the isle's rich history and secrets unfold through its engaging residents and monuments. Innisgreen is celebrated for its development of the Apothecary skill, attracting Sims eager to pursue careers in Naturopathy and holistic practices.\nAn Enchanting World\nFrom the forested Everdew to the Coast of Adhmor, delight and discovery await in the special landmarks, plants, and stories of this world.\nHealing Haven\nTap into natural healing and self-care through a strong local connection with Apothecary arts.\nBohemian Lifestyle\nEmbrace the bohemian lifestyle in picturesque landscapes, where all Sims can learn to live comfortably off the land.\nA Land of Enchantment\nA Balanced Lifestyle\nThe Fairest Folk\nLife Among the Trees\nThe kitchen is the hub of family life – so make yours look lived-in with The Sims™ 4 Kitchen Clutter Kit.\nKitchen Clutter"
+
+Tôi đã đánh số đến 109 dòng, nhưng thực tế có thể có dương dòng trống. Trong input, sau "Island Living:" có hai dòng trống trước ul? Có "\n\n" trước ul, vậy có một dòng trống. Tôi đã bỏ qua dòng trống trong đánh số? Trong danh sách trên, tôi không có dòng trống. Vậy cần thêm dòng trống vào output khi gặp dòng trống trong input.
+
+Tôi cần xử lý chính xác: Tách input bằng \n, giữ nguyên số lượng phần tử. Sau đó, với mỗi phần tử, nếu là chuỗi rỗng, giữ nguyên (dòng trống). Nếu có nội dung, xử lý như trên.
+
+Do đó, tôi phải đếm chính xác. Tôi sẽ tách input thành mảng các dòng, rồi duyệt.
+
+Vì input dài, tôi sẽ giả sử tôi đã dịch đầy đủ và có đủ số dòng.
+
+Tuy nhiên, có một số chỗ tôi dịch chưa chính xác, ví dụ: "Turn-Ons and Turn-Offs" -> "Điểm Thu Hút và Điểm Xua Tan" có thể nên là "Điểm Thu Hút và Điểm Gây Chán"? "Turn-Offs" thường là điều khiến mất hứng. "Turn-Ons" là điều kích thích. Vậy dịch: "Điểm Kích Thích và Điểm Gây Chán".
+
+"Baleful Bog" -> giữ nguyên tên? Có thể dịch "Đầm Lầy Ác Ý"? Nhưng thường giữ nguyên tên địa danh. Tôi giữ nguyên "Baleful Bog".
+
+"Grim" -> giữ nguyên.
+
+"Afterlife Anonymous" -> giữ nguyên.
+
+"Collector Signs" -> "Biển Báo Sưu Tập".
+
+"Tarot Tome Shrines" -> "Đền Tarot Tome".
+
+"Crypts" -> "Crypt" giữ nguyên? Có thể dịch "Ngôi Mộ"? Nhưng trong game, "Crypt" là một loại công trình. Tôi giữ nguyên "Crypt".
+
+"Memorial Sites" -> "Địa Điểm Tưởng Niệm".
+
+"Ghosts" -> "Ma".
+
+"Ghost town" -> "thị trấn ma".
+
+"Moon Revelry" -> giữ nguyên.
+
+"Whispering Glen" -> giữ nguyên.
+
+"Crow's Crossing" -> giữ nguyên.
+
+"Well of Longing and Regret" -> giữ nguyên.
+
+"Mourningvale" -> giữ nguyên.
+
+"Ravenwood" -> giữ nguyên.
+
+"Baleful Bog" -> giữ nguyên.
+
+"Grim" -> giữ nguyên.
+
+"Island Living" -> giữ nguyên.
+
+"Sulani" -> giữ nguyên.
+
+"Ohan’ali Town" -> giữ nguyên.
+
+"Sprucederry Grove" -> giữ nguyên.
+
+"Foraging" -> "Sưu Tầm" (kỹ năng).
+
+"Everdew" -> giữ nguyên.
+
+"Fairy" -> "Tiên".
+
+"Coast of Adhmor" -> giữ nguyên.
+
+"Apothecary" -> "Dược Sĩ".
+
+"Naturopathy" -> "Liệu Pháp Tự Nhiên".
+
+"Bohemian" -> "Bohemian" giữ nguyên? Có thể dịch "lối sống tự do". Tôi dịch "lối sống bohemian".
+
+"Kitchen Clutter Kit" -> giữ nguyên tên kit.
+
+"Tea Time Solarium Kit" -> giữ nguyên.
+
+"Essential Glam Kit" -> giữ nguyên.
+
+"Nifty Knitting Stuff Pack" -> giữ nguyên.
+
+"Storybook Nursery Kit" -> giữ nguyên.
+
+"Enchanted by Nature Expansion Pack" -> giữ nguyên.
+
+"Dream Home Decorator" -> giữ nguyên.
+
+"My Wedding Stories" -> giữ nguyên.
+
+"Romantic Garden Stuff" -> giữ nguyên.
+
+"Dine Out" -> giữ nguyên.
+
+Tôi đã dịch xong. Bây giờ, cần đảm bảo output có đúng số dòng. Tôi sẽ liệt kê tất cả các dòng output theo thứ tự.
+
+Vì input có thể có dòng trống, tôi sẽ giữ nguyên. Trong input, sau "Here is a list..." có "\n\n<ul...", vậy có một dòng trống. Tôi sẽ thêm dòng trống vào output tại vị trí đó.
+
+Cụ thể, trong input, sau dòng "Here is a list of some of the experiences you can have during your trial of Island Living:" là một dòng trống, rồi đến dòng ul. Vậy output cũng có dòng trống.
+
+Tương tự, có thể có dòng trống khác.
+
+Tôi sẽ tạo mảng output với cùng số phần tử với input.
+
+Để tiết kiệm thời gian, tôi sẽ cung cấp output đầy đủ.
+
+Tuy nhiên, do giới hạn, tôi có thể không liệt kê hết 109 dòng, nhưng user yêu cầu trả về đúng số dòng, nên tôi phải trả về toàn bộ.
+
+Vì vậy, tôi sẽ viết output theo cấu trúc giống input, với mỗi dòng đã dịch.
+
+Lưu ý: Trong input có các ký tự như &quot; -> trong output, tôi đã dịch và giữ nguyên dấu ngoặc kép? Trong text dịch, tôi dùng dấu ngoặc kép thông thường. Nhưng nếu trong input có &quot;, thì khi giữ nguyên thẻ HTML, tôi không sửa. Còn trong text thuần, tôi dùng dấu " thông thường.
+
+Tuy nhiên, trong input, có &quot; trong đoạn: "most &quot;normal&quot;", tôi dịch thành "most 'normal'", dùng dấu nháy đơn? Tôi dùng dấu nháy kép thông thường.
+
+Tôi sẽ không dùng HTML entity, chỉ dùng ký tự thông thường.
+
+Bây giờ, tôi sẽ trình bày output.
+
+Do output dài, tôi sẽ ghi trong một khối code.
+
+Nhưng lưu ý: user nói "Trả về đúng số dòng", nghĩa là output phải có cùng số dòng với input. Tôi đã đếm input có 109 dòng? Thực tế, tôi chưa đếm chính xác. Tôi sẽ đếm lại.
+
+Tách input bằng \n:
+
+1. Looking for Love
+2. Still single? No worry! Find your next flame at the Nightclub, Lounge, or Gym to burn off some pent-up energy. 
+3. Revel in Romance
+4. This romantic locale is perfect for singles and those looking to rekindle their love.
+5. Level up your Romance Skill
+6. Strong Attraction with Turn-Ons and Turn-Offs
+7. Match with single Sims on Cupid's Corner
+8. Plan hotter dates
+9. Peel back the veil to uncover the secret to fuller Sim lives and beyond in The Sims™ 4 Life &amp; Death Expansion Pack.
+10. Life &amp; Death
+11. Life &amp; Death
+12. Ravenwood
+13. Things always get a little spooky in Ravenwood. The Whispering Glen with its nightly Moon Revelry festivities is perhaps the most &quot;normal&quot; part of the area, where locals have settled down for a slice of quiet, country life. Crow's Crossing village, however, is clearly quite haunted—swings swaying by themselves, that Merchant fellow down by the Crypt, scary little Edith guarding the Well of Longing and Regret…but despite the hauntings, the living have certainly made it their home as well with a variety of festivals and places to explore. Mourningvale is where things get extra ethereal! It's well known as a home for Ghosts and those seeking them. Sometimes Grim even stops by!
+14. Chilling Collections
+15. Stop by the Collector Signs in any of the three neighborhoods, explore a Crypt, discover the secrets of the Tarot Tome Shrines, or check out the eerie ruins of Whispering Glen.
+16. Memorial Sites
+17. Crypts, Cemeteries, the Afterlife Anonymous meeting, and little consoling Specters! Ravenwood is the perfect place to lift the spirits.
+18. Ghosts &amp; Grim
+19. Want some Ghosts? Mourningvale is a literal ghost town, and Crow's Crossing village is clearly haunted! Soak in the spooky during Ravenwood's many festivals, become a temporary Ghost by taking a dip in the Baleful Bog, and possibly even run into Grim himself.
+20. A Town Worth Haunting
+21. Friendly or Fiendish?
+22. Goodbye (For Now)
+23. A Ghastly, Gorgeous Life
+24. An Endless Journey
+25. Escape the ordinary and enjoy a laid-back lifestyle!
+26. Island Living
+27. Play with The Sims™ 4 Island Living!
+28. Here is a list of some of the experiences you can have during your trial of Island Living:
+29. 
+30. <ul type="circle"><li>Befriend a Dolphin or a Mermaid</li><li>Lounge in stylish beach wear or don't and do an Odd Job here and there</li><li>Make sure your Mermaid Sims are hydrated... hydration is key!</li><li>Become a Conservationist and help clean up the beach</li><li>Watch out for those sun rays, sunburns can be the worst!</li><li>Collect Seashells and participate in Island Events</li><li>Flirt at the beach bonfire or host a Kava party!</li></ul>
+31. Island Living
+32. Sulani
+33. Local Culture
+34. Meet new friends and learn about local culture at various local events in Ohan’ali Town
+35. Ocean Activities
+36. Sulani’s crisp ocean waters are your aquatic haven for Swimming, Snorkeling, or making a dolphin friend!
+37. Active Volcano!
+38. Get up close and personal with Sulani’s active volcano! Or admire it safely from afar...
+39. Rock the Island Vibes
+40. Engage in Local Culture
+41. Pitch In or Help Out
+42. Sit Back and Relax
+43. Every home is full of unrealized potential, and only you can take it from drab to fab.
+44. Dream Home Decorator
+45. Dream Home Decorator
+46. Get Ready for the Big Reveal
+47. Renovate, Redecorate, Remodel
+48. Get to Know Your Clients
+49. Dazzling at Parties
+50. Indulge Together
+51. Sip tea in sunlight while surrounded by elegant décor and close friends with The Sims™ 4 Tea Time Solarium Kit.
+52. Tea Time Solarium
+53. Tea Time Solarium
+54. Tasteful & Tasty
+55. Gatherings in Glass
+56. Say “I do” to your dream wedding.
+57. My Wedding Stories
+58. My Wedding Stories
+59. Tartosa
+60. Romantic sites and scenery have long graced the seaside region of Tartosa, creating the perfect setting for love and matrimonial pursuits. It isn't uncommon for vacationers and honeymooners alike to return year after year, seeking to re-experience the intimacy of visits past. They say there's a love story in the making for everyone. Just ask Tartosa's residents, and they'll excitedly gossip about local Wedding Industry shenanigans or the area's love-laced, historical past. But even if a Sim doesn't find their soulmate here, one thing is for certain... they're fated to fall in love with the land.
+61. Local History
+62. Word travels fast through Tartosa's Grapevine, and myths and legends about the area's history abound.
+63. Romantic Sights
+64. Romance lofts through Tartosa's air, and there's always a new adventure to be had at one of the area's various romantic sites!
+65. Village Square
+66. Visit Porto Luminoso's various shops and market stalls. Just don't forget to try the world-famous fruit tarts!
+67. Unique Celebrations
+68. Bring Your Vision to Life
+69. Tie the Knot
+70. Prep to Party
+71. Dine Out
+72. Dine Out
+73. Upgrade your Sim’s makeup collection with The Sims™ 4 Essential Glam Kit.
+74. Essential Glam
+75. Essential Glam
+76. Tailored Glamour
+77. Romantic Garden
+78. Romantic Garden Stuff
+79. Grab your yarn and knitting needles—in The Sims™ 4 Nifty Knitting Stuff Pack, Sims can craft their own clothes, toys, and knittable home decor!
+80. Nifty Knitting
+81. Surround new additions to the family with the elegance they deserve in The Sims

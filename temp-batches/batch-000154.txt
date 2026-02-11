@@ -1,0 +1,105 @@
+Kỹ năng Trẻ nhỏ đạt cấp {1.Number} vì {0.SimFirstName} đã đạt cấp {2.Number} trong Kỹ năng Trẻ nhỏ tương ứng.
+&lt;ul&gt;&lt;li&gt;Giao tiếp = Xã hội&lt;/li&gt;&lt;li&gt;Suy nghĩ = Tư duy&lt;/li&gt;&lt;li&gt;Trí tưởng tượng = Sáng tạo&lt;/li&gt;&lt;li&gt;Vận động = Vận động&lt;/li&gt;&lt;/ul&gt;
+Các kỹ năng thời thơ ấu của {0.SimFirstName} đã nhận được một đặc điểm thưởng! Xem tất cả các đặc điểm thưởng của {0.SimFirstName} trong Bảng Simology.
+Nhập tên cho em bé mới.
+Họ (Tùy chọn)
+Bạn phải chọn ít nhất một đặc điểm!
+Bạn phải đặt tên
+Bạn phải gán đặc điểm và khát vọng
+Đặc điểm Đơn vị:
+Thử thách Đơn vị:
+Đặc điểm Lô đất:
+và hơn nữa
+Thử thách Lô đất:
+Mô tả Thế giới
+Xem Loại Lô đất
+Xem Loại Lô đất không được hỗ trợ trong thế giới này.
+Xem Các Lô đất Loại này
+Thế giới này có Loại Lô đất này
+Đặt Lô đất này vào thế giới!
+{0.String} Đã Có Sẵn!
+Bạn có muốn đặt Lô đất ngay bây giờ không?
+Xem Trình quản lý Vương quốc
+Xem Thông tin Thế giới
+Thế giới chưa được cài đặt. Khi gói này tải xong, hãy khởi động lại The Sims 4 để cài đặt nó.
+Thế giới chưa được cài đặt. {0.String} đã được đặt trước và chưa có sẵn để tải xuống.
+Thế giới chưa được cài đặt. {0.String} đã được đặt trước và sẽ có sẵn để tải xuống vào {1.String}.
+Yêu cầu
+Xem Chi tiết
+Không có sẵn trong khi chơi Hướng dẫn.
+Các Thế giới Khác
+Thế giới Gốc
+Quay lại Màn hình Chọn Thế giới
+Thế giới Đích
+Tất cả Thế giới
+Chọn các Sim để cùng Đi du lịch
+Mời tối đa 7 Sim khác, hoặc đi một mình.
+Đi du lịch không được phép cho Sim này vào lúc này.
+Sim không có sẵn để đi du lịch.
+Bạn phải chọn ít nhất {0.Number} sim để đi du lịch&#xD;&#xA;
+Cấu hình Câu chuyện Khu phố
+Đặt lại về Mặc định
+Bật Câu chuyện Khu phố
+Tất cả Hộ gia đình trong "Các Hộ gia đình Khác"
+Tất cả Hộ gia đình trong "Hộ gia đình của Tôi"
+Chơi cùng Câu chuyện Khu phố!
+Câu chuyện Khu phố cho phép các hộ gia đình bạn không chơi trực tiếp trải qua những thay đổi trong cuộc sống. Điều này bao gồm mang thai và nhận nuôi, dọn vào và dọn ra khỏi nhà, hoặc thậm chí cái chết bất thường do tai nạn.
+\n\nĐi đến Quản lý Hộ gia đình để cấu hình hệ thống: bật/tắt riêng biệt tính năng cho các hộ gia đình khác trong thị trấn, chọn loại thay đổi cuộc sống nào được phép, và thậm chí tạo cài đặt tùy chỉnh cho các hộ gia đình cụ thể.
+\n\nĐể xem những thay đổi mới nhất mỗi ngày, hãy đến Hộp thư và "Kiểm tra Câu chuyện Khu phố Gần đây".
+\n\nGhé thăm hàng xóm của bạn để xem cuộc sống của họ thay đổi và phát triển theo thời gian! Xem Bài học Câu chuyện Khu phố để tìm hiểu thêm.
+Buổi ở lại đang được tổ chức bởi hộ gia đình {0.String} sẽ kết thúc.
+Buổi ở lại hiện đang diễn ra sẽ kết thúc cho: {0.String}
+Ghé thăm hộ gia đình {0.String}
+Ghé thăm
+Chọn một cơ sở kinh doanh để ghé thăm với tư cách khách hàng.
+Đi du lịch
+Chọn một tùy chọn
+Chọn một cơ sở kinh doanh để ghé thăm với tư cách khách hàng,
+hoặc ghé thăm hộ gia đình với tư cách khách.
+Không có
+Hoạt động:
+Chủ doanh nghiệp, một thành viên trong hộ gia đình của chủ, hoặc nhân viên hiện đang là một phần của nhóm của bạn. Họ có thể thực hiện các hoạt động kinh doanh khi đang ở trên lô đất.
+Không có hộ gia đình nào tồn tại trong danh mục này
+Hộ gia đình Mới
+Chuyển Sim
+Chưa chọn hộ gia đình đích
+Chưa chọn Sim
+Tạo Hộ gia đình Mới
+Danh sách chuyển trống
+Hộ gia đình của bạn vượt quá số lượng Sim tối đa. Bạn chỉ có thể chuyển 8 Sim vào Hộ gia đình. Các Sim mang thai được tính là 2 Sim.
+Hộ gia đình phải chứa ít nhất một Sim Thiếu niên, Thanh niên, Người lớn hoặc Người cao tuổi.
+Tách khỏi Hộ gia đình và Di chuyển
+Tách và Hợp nhất Hộ gia đình
+Chưa chơi
+Đã chơi
+Chọn một Hộ gia đình khác
+Chọn một Hộ gia đình hoặc
+Tiền: {0.Money}
+Không có trong Thế giới
+Nếu tất cả các Sim được chuyển ra khỏi hộ gia đình này, tất cả tài sản của hộ gia đình sẽ được bán hoặc chuyển sang hộ gia đình mới.
+bán tất cả nội thất lô đất
+Bạn sắp tạo một hộ gia đình không có tiền. Hộ gia đình của bạn sẽ không đủ tiền để mua một Lô đất mới, nhưng có thể hợp nhất với một hộ gia đình khác. Bạn có chắc chắn muốn làm điều này không?
+Bạn sắp sửa đổi một hộ gia đình đang có một Kịch bản đang diễn ra. Những thay đổi của bạn có thể khiến Kịch bản kết thúc tùy thuộc vào mục tiêu của Kịch bản. Bạn có chắc chắn muốn làm điều này không?
+Gia đình này hiện tại không có nhà. Bạn có muốn chuyển họ vào ngay bây giờ hoặc sau?
+Không được phép chuyển
+Sim đã chọn không thể được chuyển
+Chuyển Vào Ngay
+Chuyển Vào Sau
+Không thể chuyển Sim vào Nhà ở Đại học
+Tạo Một Hộ gia đình Mới
+CHỌN MỘT MÙA ĐỂ CHƠI!
+Khi không ở trong nhà ấm, hãy vui chơi trong tuyết hoặc trên băng. Đừng quên trang trí cho Lễ Giáng sinh và lập dự định cho Năm mới!
+Mùa Đông
+Nhiệt độ đang tăng lên, vì vậy hãy chống chọi với cái nóng bằng bóng nước và máy phun nước. Cẩn thận với những cơn giông bão, chúng có thể rất điện!
+Mùa Hè
+Mùa xuân là thời điểm tuyệt vời để trồng vườn để tận dụng mưa xuân, nhưng hãy đề phòng những vũng bùn lầy!
+Mùa Xuân
+Thu hoạch sản phẩm vườn của bạn để chuẩn bị một bữa tiệc Lễ Thu hoạch để ăn mừng với bạn bè và gia đình. Thưởng thức những chiếc lá thay màu (và đống lá) trước khi trời trở nên lạnh.
+Mùa Thu
+Tiếp tục
+Chọn một mùa để tiếp tục
+&lt;font color='#199C2C'&gt;{0.Money}&lt;/font&gt;
+{0.Number} Phòng ngủ, {1.Number} Phòng tắm
+Hộ gia đình này không đủ Simoleon để gia hạn Kỳ nghỉ ngắn.
+Gia hạn Kỳ nghỉ ngắn tại {0.String}?
+Thời gian còn lại: {0.Number} ngày

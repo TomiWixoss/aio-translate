@@ -1,0 +1,100 @@
+Đài phun nước
+Đài phun nước
+Móng nhà
+Hoa
+Trang trí ngoại thất
+Mẫu sàn
+Mẫu sàn và trần nhà
+Hàng rào
+Cửa
+Đất và cát
+Cột
+Phần bao quanh cột
+Phòng trống
+Cửa vòm
+Đối tượng không thể hoạt động ở đây
+Tường không thể có vật liệu trống.
+Tường cần một mặt phẳng làm nền.
+Tường mái không được cắt ngang vật thể.
+Tường không được vượt ra ngoài mép lô đất.
+Giao cắt chéo không hợp lệ.
+Tường không được xây dựng sát mép lô đất.
+Tường phải cao hơn để đặt kiến trúc trang trí.
+Đã có một bức tường ở đây.
+Tường không tồn tại.
+Không thể xóa tất cả tường.
+Việc đặt tường mái đang bị cản trở.
+Đất trên loại lô đất này không thể chỉnh sửa
+Tầng trên cần có sự chịu lực.
+Lỗi không xác định cho phần bo tròn.
+Lỗi không xác định
+Quá nhiều cửa sổ và cửa trên đoạn tường.
+Ô đất phải phẳng
+Phải đặt trên đất.
+Chiều cao đất nằm ngoài giới hạn
+Lỗi hệ thống
+Khe bị chiếm bởi vật thể khác.
+Khe không hợp lệ trên dốc.
+Kích thước nhóm vật thể vượt quá giới hạn
+Không thể xóa cái này.
+Lời gọi kịch bản thất bại.
+Không thể đặt bo tròn sàn trên căn hộ khác
+Mái nhà quá lớn.
+Độ dốc mái không thể điều chỉnh cao như vậy.
+Mái nhà phải rộng ít nhất một ô.
+Mái nhà nằm dưới mặt đất.
+Mái nhà phải được xây dựng trong ranh giới lô đất.
+Mép mái phải nằm trong ranh giới lô đất.
+Mái nhà phải được xây dựng trên một mặt phẳng đều.
+Không thể tạo mái nhà.
+Mái nhà hoàn toàn nằm dưới mặt đất
+Mái nhà không thể được đặt trong phòng kín.
+Không thể tạo tường áp mái.
+Phải áp dụng cho Hồ bơi hoặc Đài phun nước.
+Phải đặt trên vật thể cụ thể.
+Vật thể hiện đang bị khóa. Xem điều kiện mở khóa trong Chế độ Xây dựng.
+Vẫn đang xử lý hành động trước. Hãy chậm lại!
+Hồ bơi phải có diện tích.
+Hồ nước này đã đạt chiều cao tối đa.
+Không có hồ nước ở vị trí này.
+Sử dụng công cụ Điều chỉnh Đất để đào một hố trên đất trước khi thêm nước vào đây.
+Hồ bơi và Đài phun nước không thể bị chìm bởi Công cụ Nước.
+Không thể thêm nước vào tầng hầm mở.
+Tầng hầm nằm ngay dưới hồ nước không thể tháo trần.
+Đơn vị phải được hiển thị để chỉnh sửa
+Nền phải có diện tích
+Lựa chọn đặt
+Tường nửa cao quá cho Phần vách ngăn.
+Lô đất không đủ lớn.
+Không thể thực hiện thay đổi bên ngoài khu vực sở hữu.
+Tạo Op thất bại
+Chỉ một cửa sổ hoặc cửa trên mỗi đoạn tường.
+Không thể di chuyển vật thể đến đó.
+Vật thể không được định vị chính xác để đặt trong khe này.
+Vật thể không được xoay đúng cách để đặt trong khe này.
+Vật thể Trên Dốc Quá Dốc
+Vật thể Phải Đặt Trên Đất Phẳng
+Vật thể không thể đặt trên đất.
+Vật thể không thể đặt trên sàn.
+Vật thể không thể đặt trên không.
+Không thể chỉnh sửa lô đất mà bạn không sở hữu.
+Không có phần trên để tháo.
+Chưa thực hiện.
+Không có gì để Hoàn tác.
+Không có gì để Làm lại.
+Không có gì để xóa.
+Không có gì để thay đổi.
+Không tìm thấy vật thể trong kho.
+Chưa mở rộng thành Ops
+Không có lỗi
+Không có sàn để tháo
+Phải đặt trên mái nhà.
+Phải đặt trong nước.
+Phải đặt trong nước biển sâu
+Phải đặt trong nước biển nông
+Phải đặt trong Hồ bơi.
+Phải đặt trong hồ nước.
+Phải đặt trên biển.
+Chỉ có thể đặt trong đài phun nước
+Phải đặt trong nước biển sâu hơn.
+Phải đặt bên ngoài.

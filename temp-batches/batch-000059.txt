@@ -1,0 +1,100 @@
+(From Disliking Violins)
+Nghe và Học
+Yêu Cầu Nghệ Sĩ Biểu Diễn Cụ Thể
+Đã có một Nghệ Sĩ Biểu Diễn trên lô đất rồi.
+Thuê {2.SimName} làm Nghệ Sĩ Biểu Diễn
+Luyện tập có thể rất vui vẻ trong tâm trạng phù hợp.
+Chơi Vì Vui
+Diễn Concerto
+Cảm Hứng sẽ cải thiện kỹ năng chơi violin!
+Diễn Concerto
+Diễn Concerto cho Nhóm
+Cúi Bow Để Cảm Hứng
+Xem Trò Chơi
+Đang Xem Trò Chơi
+Tiếp Tục Nâng Cấp Bất Khả Xâm Phạm
+Bất Khả Xâm Phạm (Đã Hoàn Thành)
+Nâng Cấp Bất Khả Xâm Phạm
+Không còn vòng bất kỳ màu nào khi máy chơi game của bạn ở chế độ Bất Khả Xâm Phạm!
+Tiếp Tục Chỉnh Độ Sắc Nét Đồ Họa
+Chỉnh Độ Sắc Nét Đồ Họa (Đã Hoàn Thành)
+Chỉnh Độ Sắc Nét Đồ Họa
+Đừng quên chỉnh độ sắc nét đồ họa để thêm vui!
+Tiếp Tục Cài Đặt Ghi Đè Màn Hình Không Dây
+Ghi Đè Màn Hình Không Dây (Đã Hoàn Thành)
+Cài Đặt Ghi Đè Màn Hình Không Dây
+Cho phép thiết bị này kiểm soát màn hình hiển thị của các màn hình video lân cận.
+Đặt {1.ObjectName} gần hơn một chiếc TV chưa được ghép nối.
+Tắt {1.ObjectName}
+Có lẽ cần giảm bớt vài thứ một chút.
+Chơi MySims Racing Online Cùng
+Chơi Party Frenzy Online Cùng
+Không ai {0.SimFirstName} biết đang online lúc này.
+Chơi MySims Racing Cùng {3.SimFirstName}
+Chơi MySims Racing Cùng
+Chơi Party Frenzy Cùng {3.SimFirstName}
+Chơi Party Frenzy Cùng
+Không có ai ở gần để chơi game cùng {0.SimFirstName}.
+Giải Đấu Hiệu Ứng Mật Độ Tân Binh
+Đang Tham Dự Giải Đấu Hiệu Ứng Mật Độ Tân Binh
+Giải Đấu MySims Racing Tân Binh
+Đang Tham Dự Giải Đấu MySims Racing Tân Binh
+Giải Đấu Hiệu Ứng Mật Độ Chuyên Gia
+Đang Tham Dự Giải Đấu Hiệu Ứng Mật Độ Chuyên Gia
+Giải Đấu MySims Racing Chuyên Gia
+Đang Tham Dự Giải Đấu MySims Racing Chuyên Gia
+Giải Đấu Party Frenzy Chuyên Gia
+Đang Tham Dự Giải Đấu Party Frenzy Chuyên Gia
+Giải Đấu Lời Nguyền Thần Linh Chuyên Gia
+Đang Tham Dự Giải Đấu Lời Nguyền Thần Linh Chuyên Gia
+Giải Đấu Party Frenzy Tân Binh
+Đang Tham Dự Giải Đấu Party Frenzy Tân Binh
+Giải Đấu Lời Nguyền Thần Linh Tân Binh
+Đang Tham Dự Giải Đấu Lời Nguyền Thần Linh Tân Binh
+Giải đấu chưa kết thúc! Có phải máy chủ vừa mất kết nối?
+Chơi Hiệu Ứng Mật Độ
+Đang Chơi Hiệu Ứng Mật Độ
+Chơi MySims Racing
+Đang Chơi MySims Racing
+Chơi Party Frenzy
+Đang Chơi Party Frenzy
+Đang Chơi MySims Racing Online
+Đang Chơi Party Frenzy Online
+Cuối một trận đấu vô cùng sít sao, {0.SimFirstName} không thể kịp thời kết thúc để giành chiến thắng. May mắn hơn lần sau đi!
+“TẤT CẢ ĐIỂM SỐ ĐỀU THUỘC VỀ {0.SimFirstName|xxAllCaps},” trò chơi tuyên bố, bằng một kiểu chữ lớn retro hoài cổ, khi trận đấu kết thúc. {0.SimFirstName} là nhà vô địch kỹ thuật số!
+Zap! Vroom! Dag Dag! {0.SimFirstName} đã hủy diệt đối thủ trong một màn trình diễn làm chủ ảo. Không ai dám gọi {M0.him}{F0.her} là n00b trong thời gian tới!
+Ồ, khá tệ đấy. Một nhóm thanh niên khó chịu tham gia trận đấu online đã cười nhạo {0.SimFirstName} suốt cả buổi!
+Đó là một cuộc cạnh tranh sít sao, nhưng {0.SimFirstName} giữ món đồ tăng cường quyền năng đến những giây cuối cùng là một nước đi thông minh. {M0.His}{F0.Her} đối thủ đã không ngờ tới!
+Trò chơi chưa kết thúc! Có phải máy chủ vừa mất kết nối?
+Mọi người đều thua một vài ván đấu đôi khi. Chuyện đó xảy ra! {0.SimFirstName} không may đã thua trò chơi này.
+Đang Chơi MySims Racing Nhiều Người
+Đang Chơi Party Frenzy Nhiều Người
+Bắt Buộc Bản Thân Chơi Hiệu Ứng Mật Độ
+Đang Buộc Bản Thân Chơi Hiệu Ứng Mật Độ
+Bắt Buộc Bản Thân Chơi MySims Racing
+Đang Buộc Bản Thân Chơi MySims Racing
+Bắt Buộc Bản Thân Chơi Party Frenzy
+Đang Buộc Bản Thân Chơi Party Frenzy
+Bắt Buộc Bản Thân Chơi Lời Nguyền Thần Linh
+Đang Buộc Bản Thân Chơi Lời Nguyền Thần Linh
+Chơi Lời Nguyền Thần Linh
+Đang Chơi Lời Nguyền Thần Linh
+Đang Chờ Tham Gia Trò Chơi
+Tham Gia Trò Chơi
+Không Thể Tham Gia Hiệu Ứng Mật Độ
+Tham Gia Một Ván Party Frenzy
+Tham Gia Một Ván MySims Racing
+Đang Tham Gia
+Đang Chơi {1.ObjectName}
+{0.SimFirstName} phải hoàn thành trò chơi hiện tại trước khi bắt đầu một trò mới!
+Bật Ghi Đè Màn Hình Không Dây
+Tắt Ghi Đè Màn Hình Không Dây
+{1.ObjectName} Đã Mất Kết Nối!
+{1.ObjectName} Đã Cháy!
+Thay thế {1.ObjectName}.
+{1.ObjectName} Đã Hỏng!
+Sửa Chữa hoặc Thay Thế {1.ObjectName}.
+Mua Hàng
+Đồ Từ Máy Bán Hàng Đã Nhận
+{0.SimFirstName} không thể tập luyện với cơ bắp bị căng quá!
+Chạy Bộ Tràn Đầy Năng Lượng

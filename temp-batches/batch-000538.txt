@@ -1,0 +1,100 @@
+(Từ Tham Gia Hoạt động Lãng mạn)
+Đừng Gây Khó Dễ Với {0.String}
+Gây Khó Dễ Với {0.String}
+Gây Khó Dễ
+Các Sim sẽ thực hiện các tương tác gây khó dễ với Sim khác.
+Đừng Xấu Tính Với {0.String}
+Xấu Tính Với {0.String}
+Xấu Tính
+Các Sim sẽ thực hiện các tương tác xấu tính với Sim khác.
+Đừng Vui Vẻ Quá Mức Với {0.String}
+Vui Vẻ Quá Mức Với {0.String}
+Vui Vẻ Quá Mức
+Các Sim sẽ thực hiện các tương tác hài hước với Sim khác.
+Đừng Thân Thiện Quá Mức Với {0.String}
+Thân Thiện Quá Mức Với {0.String}
+Thân Thiện Quá Mức
+Các Sim sẽ thực hiện các tương tác thân thiện với Sim khác.
+Đừng Để Ý Lãng mạn
+Để Ý Lãng mạn
+Các Sim sẽ tán tỉnh Sim khác.
+(Từ Tham Gia Hoạt động Lãng mạn)
+Đừng Viết
+Viết
+Viết
+Các Sim sẽ viết lên:
+Đừng Làm Đồ Gỗ
+Làm Đồ Gỗ
+Làm Đồ Gỗ
+Đừng Dùng Kính Viễn Vọng
+Dùng Kính Viễn Vọng
+Dùng Kính Viễn Vọng
+Đừng Dùng Bàn Khoa Học
+Dùng Bàn Khoa Học
+Dùng Bàn Khoa Học
+Đừng Dùng Kính Hiển Vi
+Dùng Kính Hiển Vi
+Dùng Kính Hiển Vi
+Các Sim sẽ sử dụng:
+Đừng Dùng Bàn Hoạt Động
+Dùng Bàn Hoạt Động
+Dùng Bàn Hoạt Động
+Các Sim nhí sẽ sử dụng:
+Đừng Lắp R-pk
+Lắp R-pk
+Rocket Science!
+Các Sim sẽ lắp ráp và sử dụng:
+Đừng Lập Trình
+Lập Trình
+Lập Trình
+Các Sim sẽ lập trình trên:
+Đừng Chơi Vĩ Cầm
+Chơi Vĩ Cầm
+Chơi Vĩ Cầm
+Đừng Chơi Trò Chơi Điện Tử
+Chơi Trò Chơi Điện Tử
+Chơi Trò Chơi Điện Tử
+Các Sim sẽ chơi trò chơi điện tử trên:
+Đừng Chơi Đàn Piano
+Chơi Đàn Piano
+Chơi Đàn Piano
+Đừng Chơi Đàn Guitar
+Chơi Đàn Guitar
+Chơi Đàn Guitar
+Đừng Chơi Cờ Vua
+Chơi Cờ Vua
+Chơi Cờ Vua
+Các Sim sẽ chơi cờ vua trên:
+Đừng Chơi Bất Kợn Nhạc Cụ Nào
+Chơi Một Nhạc Cụ
+Chơi Một Nhạc Cụ
+Các Sim sẽ chơi:
+Đừng Vẽ Tranh
+Vẽ Tranh
+Vẽ Tranh
+Các Sim sẽ vẽ tranh trên:
+Đừng Pha Đồ Uống Quầy Bar
+Pha Đồ Uống Quầy Bar
+Pha Đồ Uống Quầy Bar
+Các Sim sẽ pha và phục vụ đồ uống miễn phí bằng:
+Đừng Xâm Nhập
+Xâm Nhập
+Xâm Nhập
+Các Sim sẽ xâm nhập bằng:
+Đừng Chăm Sóc Và Thu Hoạch Vườn
+Chăm Sóc Và Thu Hoạch Vườn
+Chăm Sóc Và Thu Hoạch Vườn
+Dựa trên kỹ năng, các Sim sẽ thực hiện nhiều tương tác làm vườn (bao gồm thu hoạch) trên:
+Đừng Chăm Sóc Vườn
+Chăm Sóc Vườn
+Chăm Sóc Vườn
+Dựa trên kỹ năng, các Sim sẽ thực hiện nhiều tương tác làm vườn (không bao gồm thu hoạch) trên:
+Đừng Sửa Chữa Đồ Vật
+Sửa Chữa Đồ Vật
+Sửa Chữa Đồ Vật
+Các Sim sẽ sửa chữa các đồ vật bị hỏng.
+Đừng Tập Thể Dục
+Tập Thể Dục
+Các Sim sẽ tập thể dục với:
+Khi các bộ lọc được bật, chúng sẽ được thêm vào danh sách phía trên danh mục. Vì vậy ngay cả khi bảng điều khiển đã đóng, bạn vẫn sẽ biết những gì đang được lọc.
+Chế độ Xây dựng có một hệ thống lọc mạnh mẽ cho phép bạn tìm chính xác đối tượng bạn đang tìm kiếm.\n\nNhấp vào mũi tên Mở Bảng Lọc ở đầu bất kỳ danh mục nào để xem các tùy chọn Lọc.

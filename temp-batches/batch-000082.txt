@@ -1,0 +1,100 @@
+Gọi Hội Địa Chất về Mẫu Vật
+Thu Sâu Bọ
+Sim của bạn thấy ghê quá với mấy con bọ, không làm được đâu!
+Lúc này không có dấu hiệu của lưỡng cư.
+{0.SimFirstName} đã cho sinh một con ếch mới.
+{0.SimFirstName} không bắt được ếch. Chúng trơn quá! Lần sau sẽ may mắn hơn.
+Lấy Hóa Thạch
+Đào Tìm Kho Báu
+Đào Tìm Thời Gian Đặc Biệt
+Đào
+{0.SimFirstName} tìm thấy một miếng đá vôi! Bên trong chắc có hóa thạch.
+{0.SimFirstName} đào được một bản đồ kho báu! Chắc chắn sẽ dẫn đến những điều tuyệt vời.
+{0.SimFirstName} đã khai quật một Con Rối Voodoo. {M0.Anh ấy}{F0.Cô ấy} sẽ dùng nó để làm gì đây?
+{0.SimFirstName} đào được một hộp thời gian! Bên trong có thể là gì nhỉ?
+Mở Quà Từ Hội Địa Chất
+Giao Phối Ếch Cùng
+Giao phối Ếch mệt lắm. Hãy thử lại sau.
+Ếch Tử Thần không phù hợp để giao phối.
+Xem {1.ObjectName}
+Có {0.ObjectName|enAn} trong bể cảnh này.
+Có {0.ObjectName|enAn} trong bể cảnh này.
+Vứt Tất Cả
+Xác Tử Thực Vật
+Nhổ Lên Cây
+Không thể dọn dẹp khi một Sim đang trốn bên trong!
+Cần một thùng rác để dọn dẹp cái này.
+Chỉ có Ma Cà Rồng mới muốn bắt đầu lộn xộn trong quan tài.
+Nồi đang ủ đấy.
+Cốc đang ủ đấy.
+Làm Trống {1.ObjectName}
+Cần một thùng rác hoặc bồn rửa để dọn dẹp cái này.
+Dọn Dẹp
+(Từ Nhiệt Thái Của Werewolf)
+Nằm Xuống
+{0.SimName} quá sợ giường để ngủ trưa!
+Ngủ Trưa
+Ngủ Trưa Ma Cà Rồng
+Kích Hoạt Quái Vật Dưới Giường (DEBUG)
+Hét Lên
+Tiết Lộ Bí Mật
+Chửi Bới
+Yêu Cầu Quái Vật Dưới Giường Đi Khỏi
+Hỏi về Việc Sống Dưới Giường
+Nói Chuyện với Quái Vật Dưới Giường
+{0.SimFirstName} không thành công trong nỗ lực giao tiếp với Quái Vật Dưới giường của {M0.anh ấy}{F0.cô ấy}. Có vẻ nó không muốn kết bạn lúc này.
+{0.SimFirstName} vừa kết bạn với Quái Vật Dưới giường của {M0.anh ấy}{F0.cô ấy}! {M0.Anh ấy}{F0.Cô ấy} không thể chờ để tìm hiểu thêm về nó!
+Chơi với Quái Vật Dưới Giường
+Đề Xuất Lộn Xộn Lưng Từ Lưng với {2.SimFirstName}
+Đăng Ký
+{0.SimFirstName} đã đăng ký chiếc giường này rồi.
+{0.SimName} quá sợ để nhắm mắt lại!
+Đây là giường của {2.SimName}!
+Tiếp Tục Nâng Cấp Vòi Nước Bền Chắc
+Một cách tuyệt vời để giảm tần suất hư hỏng
+Vòi Nước Bền Chắc
+Tiếp Tục Nâng Cấp Tự Làm Sạch
+Không bao giờ phải lau bồn tắm nữa sau khi thoa một lớp lớp Anti-Grime Coating dày.
+Tự Làm Sạch
+Tiếp Tục Nâng Cấp Lớp Phủ Sạch
+Lớp phủ sạch là nước sạch là Sims sạch hơn
+Lớp Phủ Sạch
+Nâng cấp hoàn thành!\n\n{0.SimFirstName} đã hoàn thành việc lắp đặt nâng cấp bồn tắm.
+Tắm cho {1.SimFirstName} (Debug)
+Tắm
+Tắm Bong Bóng cho {1.SimFirstName}
+Tắm cho {1.SimFirstName}
+Tắm Bong Bóng
+Tắm Nước Lạnh
+Tắm Nhanh và Ấm
+Tắm Nhanh
+Tắm Như Thú Dại
+Tắm Hư Ảo
+Tắm Như Thú Dại Ma Quỷ
+Vẩy Nước
+Chơi trong Dòng Nước Phun
+(Từ Khi Được Tắm Bong Bóng)
+Làm Sạch
+Làm Sạch Với Sức Mạnh
+Sim được Truyền Cảm hứng có thể làm sạch nhanh hơn nhiều!
+{0.SimFirstName} sắp sinh em bé!
+Yêu Cầu Pha Chế Viên Cụ Thể
+Đã có một Pha Chế Viên được thuê trên lô này.
+Thuê {2.SimName} làm Pha Chế Viên
+Chờ Đồ Ăn
+Pha Đồ Uống Cho Tất Cả Mọi Người
+Pha Đồ Uống Đặc Biệt: Phòng Nấu Hơi
+{2.String}
+Được Truyền Cảm hứng giúp ích cho việc pha đồ uống!
+Đặt Đồ Uống Giờ Vui Vẻ
+Đặt Đồ Uống Cho Nhóm Hẹn Hò
+Đặt Đồ Uống Đêm Gấu
+{0.SimFirstName} không phải là Gấu.
+Giảm giá từ Đêm Gấu.
+Thực Hành Mánh Khóe Quầy Bar
+Thực Hành Pha Đồ Uống
+Lấy Bánh Mì
+(Từ Kỹ Năng Pha Chế)
+Lấy Bánh Mì
+Làm Sạch Nhẹ
+Làm Sạch Sâu

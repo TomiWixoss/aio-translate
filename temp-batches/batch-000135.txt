@@ -1,0 +1,100 @@
+{2.SimName} trong hộ gia đình {4.String} đã qua đời.\n\n{2.SimFirstName} có lẽ đã yêu thương quá nhiều cho độ tuổi của {F2.cô ấy}{M2.anh ấy}.
+{2.SimName} trong hộ gia đình {4.String} đã qua đời.\n\n{2.SimFirstName} đã nằm dưới nắng quá lâu và bị quá nhiệt.
+{2.SimName} trong hộ gia đình {4.String} đã qua đời.\n\nThật shock, {2.SimFirstName} đã thất bại trong sửa chữa và bị điện giật.
+{2.SimName} trong hộ gia đình {4.String} đã qua đời.\n\n{2.SimFirstName} đã chọc giận một con gà.
+{2.SimName} trong hộ gia đình {4.String} đã qua đời.\n\n{2.SimFirstName} sa bẫy bánh của cây Cowplant. {F2.Cô ấy}{M2.Anh ấy} không thể vừa có bánh vừa ăn bánh được.
+{2.SimName} trong hộ gia đình {4.String} đã qua đời.\n\nKhông có cái kết bất ngờ nào ở đây; {2.SimFirstName} trượt chân khi leo núi đá.
+{2.SimName} trong hộ gia đình {4.String} đã qua đời.\n\n{2.SimFirstName} nên đã học lớp bơi.
+{2.SimName} trong hộ gia đình {4.String} đã qua đời.\n\n{2.SimFirstName} trở thành nạn nhân của một cuộc tấn công dữ dội từ con gà.
+{2.SimName} trong hộ gia đình {4.String} đã qua đời.\n\n{2.SimFirstName} thọc ngón tay vào ổ cắm và điện xẹt ra.
+{2.SimName} trong hộ gia đình {4.String} đã qua đời.\n\n{2.SimFirstName} đã có tiếng cười cuối cùng.
+{2.SimName} trong hộ gia đình {4.String} đã qua đời.\n\n{2.SimFirstName} blush (thẹn) đến mức {F2.cô ấy}{M2.anh ấy} nổ tung.
+{2.SimName} trong hộ gia đình {4.String} đã qua đời.\n\n{2.SimFirstName} tập luyện quá sức cho độ tuổi của {F2.cô ấy}{M2.anh ấy}.
+{2.SimName} trong hộ gia đình {4.String} đã qua đời.\n\n{2.SimFirstName} đã cố gắng niệm quá nhiều phép thuật.
+Hidden Lifestyle in Progress
+Lifestyles (Phong cách sống) là sự thể hiện của hành vi và thói quen của một Sim theo thời gian. Một Sim chỉ có thể tiến gần hơn hoặc chống lại một phong cách sống nhất định trong một ngày cho trước.&#xD;&#xA;&lt;font color='#D91A1A'&gt;Sim của bạn sẽ cần từ bỏ một Lifestyle đang hoạt động để có thể tiến triển trong một Lifestyle mới.&lt;/font&gt;
+Sim của bạn chưa thực hiện hành động nào có thể mở khóa Lifestyle này. Hãy để Sim thử điều gì đó mà họ chưa từng làm trước đây.
+Lifestyles
+Lifestyles (Phong cách sống) là sự thể hiện của hành vi và thói quen của một Sim theo thời gian. Một Sim chỉ có thể tiến gần hơn hoặc chống lại một phong cách sống nhất định trong một ngày cho trước.
+???
+Hidden
+At Risk!
+Active
+In Progress
+Locked
+Lifestyle in Progress
+{0.SimFirstName} đã thực hiện bước đầu tiên để mở khóa một Lifestyle. Hãy xem bảng Lifestyle trong bảng Simology (Nhân sinh học) để tìm hiểu thêm về nó!
+{0.SimFirstName} đã khám phá ra một Lifestyle trước đây bị ẩn! Hãy xem menu Lifestyle trong bảng Simology (Nhân sinh học) để tìm hiểu thêm.
+Lifestyle Daily Cap Reached
+Tất cả các Lifestyle đều có giới hạn về lượng tiến độ có thể đạt được mỗi ngày. {0.SimFirstName} đã đạt đến giới hạn hàng ngày (Daily Cap) cho một Lifestyle.
+Hanging out (Quây quần) cảm thấy thú vị hơn khi bạn phải lén lút ra ngoài để làm điều đó!
+Bữa tiệc đó là một hương vị về cuộc sống sẽ như thế nào một ngày nào đó và là một kỷ niệm tuyệt vời khi tôi già và nhàm chán.
+Mọi người đều lớn tuổi hơn và đáng sợ. Tôi cảm thấy như một đứa trẻ suốt thời gian. Thật khủng khiếp.
+Tôi không nghĩ mình sẵn sàng cho một bữa tiệc sinh viên đại học. Quá nhiều thứ phải lo lắng và căng thẳng!
+Đó là phong cách của tôi! Đó là những người của tôi! Tôi không thể chờ để cuộc sống của tôi cứ thế mãi!
+Lần đầu lén đi chơi! Không chắc là do paranoid (nghi ngờ) hay adrenaline (adrenaline) nhưng tôi cảm thấy SIÊU NGƯỜI.
+Không thể tin được tôi bị bắt. Tôi đổ lỗi cho khung cửa sổ cót két.
+Một chút rắc rối không làm ai bị tổn thương và tôi sẽ nói đêm nay đã thành công hơn mức cần thiết.
+Tôi đi ra ngoài tối nay. Không nhớ nếu bố mẹ tôi rình rập nhưng nếu có, các bạn chưa thấy gì đâu.
+Dễ dàng nhảy từ tủ hơn là chờ đợi trong hang động ẩm ướt để nhảy ra và dọa người qua đường.
+Cập nhật Người theo dõi: Hôm nay số người theo dõi của bạn thay đổi {0.Number}.
+Con dơi nhưng họ không thấy cú này! Không ai ngờ một con dơi trong tủ của họ.
+Tôi là tàu quỷ vùng vẫy trong đêm tối! Tôi là con chó ăn bài tập về nhà của bạn!\nTrốn trong tủ đó là trò đùa hoàn hảo.
+Tôi cố gắng che nước mắt và kìm nức nở trong tủ của mình. Mọi người vẫn để ý.
+Thật an ủi khi khóc vào cửa tủ. Những tiếng khóc vang lên và khiến tôi cảm thấy ít cô đơn hơn.
+Muốn được thêm vào danh bạ liên lạc của bạn.
+Ngay cả một Cowplant (cây bò) cũng không muốn ở quanh bạn, {0.SimFirstName}.
+Xin hãy, chỉ cần quay vào nhà và tháo cửa ra. Không ai muốn thấy bạn ở nơi công cộng.
+Chả phải sẽ tuyệt lắm sao nếu bạn tình cờ tìm thấy một vài vật bị sabotage (phá hoại) trong tương lai.
+Trông bạn giống như một con Llam (lạc đà) bị cạo lông!
+Số người theo dõi của bạn và bạn giống hệt nhau. Một con số 0 khổng lồ.
+Trong đó có nóng lên, hay chỉ là mình? Một tín hiệu báo cháy có thể thực sự đánh thức bạn khỏi giấc mơ hơi hấp dẫn.
+Một lợi ích của việc chuẩn bị chống cháy là tôi được nghỉ học và tránh được bài kiểm tra đó.
+Chúng ta sẽ dở tệ trong một vụ cháy thật! Cuộc tập trận đó quá chậm. Chỉ có một nửa các tín hiệu hoạt động.
+Ủa, cuộc tập trận đó có thể kéo dài hơn nữa không?! Tôi có việc phải làm! Hãy giả vờ có cháy và DI CHUYỂN NÓI!
+Thử xem, Lửa! Chúng ta đã sẵn sàng cho bạn rồi!\nSau các cuộc tập trận chống cháy này chúng ta chắc chắn sẽ giữ được bình tĩnh.
+Bàn chân tôi đau và tôi vẫn do dự như trước. Chỉ nghĩ về tương lai trong Ngày Sự nghiệp thôi cũng đã mệt.
+Tôi đã khóa chặt tương lai của mình rồi! Hãy tin vào bản năng và theo đuổi ước mơ của bạn!
+Tôi không chắc Ngày Sự nghiệp có giúp ích... Làm sao ai đó có thể quyết định sẽ trở thành gì?
+Sau Ngày Sự nghiệp đó tôi đã sẵn sàng cho tương lai của mình hơn bao giờ hết! Hãy bước ra thế giới nào!!
+Có một tương lai tươi sáng phía trước đầy những khả năng và tôi không thể chờ để lao vào nó.
+Bạo lực trên trường học?!? Tổng loạn! Tôi không thể tránh cả điểm xấu VÀ nắm đấm.
+{0.SimFirstName} còn thức không?
+Tôi có một ý tưởng. Mình, cậu, và một ly trà sữa boba với hai ống hút.
+Tôi nghĩ cậu sẽ là bạn đánh gối tuyệt vời, {0.SimFirstName}. Thế nào?
+Muốn đi quán kem không? Tôi muốn một muỗng của cậu.
+Hãy để tôi dẫn cậu đến Plumbite Pier. Tôi đã đặt một chỗ trên Cuddle Carts (xe đẩy ôm) chỉ dành cho cậu.
+Bạn biết khi mèo vỗ nhau nhưng không bao giờ chạm vào à? Đó là trận đánh đó. Quá nhàm chán!
+Lin hồn của kẻ hèn mọn nằm trong những xương này, và nó được chứng minh bởi sự hoàn toàn không can thiệp của tôi trong trận đánh đó.
+Chào mừng đến với bát đựng punch (rượu cocktail), nhà của những cú đấm! Thật kinh ngỡ khi thấy một trận đánh giữa kẻ thù.
+Tôi có thể ngửi thấy không khí tự do ngọt ngào! Và có thể cả mùi mồ hôi hoạt động ngoại khóa.
+Nếu bạn thấy tôi bị giam giữ, thì không phải đâu.
+Họ làm ghế giam có thoải mái hơn hay chỉ là sự xấu hổ khi ở đó khiến nó đau thôi?!
+Dành suốt bữa trưa với thức ăn dính trong răng! Không ai báo tôi sao?!
+Thấy ai đó có thức ăn dính trong răng. Thật xấu hổ!!!
+Ghê! Thức ăn trong căn-tin trông còn tệ hơn sao?!
+Mức độ nghiêm trọng: &lt;font color='#E9790A'&gt;{0.String}&lt;/font&gt;
+Mức độ nghiêm trọng: &lt;font color='#EC262E'&gt;{0.String}&lt;/font&gt;
+&lt;font color='#666666'&gt;{0.String}&lt;/font&gt;
+&lt;font color='#0949AB'&gt;Bị ảnh hưởng: {0.SimName}&lt;/font&gt;
+&lt;font color='#EC262E'&gt;{0.String}&lt;/font&gt;
+Đồng lõa: {0.SimFirstName}
+Chưa tiết lộ
+Đã chôn vùi
+Đã phát hiện
+Đã thổ lộ
+Đã tống tiền
+&lt;font color='#0949AB'&gt;Tàn nhạt vào quên lãng&lt;/font&gt;
+Thời gian còn lại
+Báo cáo Tệp
+{0.String}: {1.Money}
+Sách
+Ứng dụng
+Bài hát
+Tranh vẽ
+Video
+Lời bài hát
+Phước lành huyền bí
+Trò chơi
+Video
+Bản nhạc

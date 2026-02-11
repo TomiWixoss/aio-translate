@@ -1,0 +1,100 @@
+Không gian để tiếp khách.
+Khoe của!
+Quầy buffet gần nhất đâu rồi?
+Tìm kiếm Simstagram để xem công thức.
+Cơ thể tôi là đền thờ.
+Họ biết không được hỏi tôi.
+Họ nên thuê người giữ trẻ.
+Tôi là người phù hợp cho công việc đó!
+Tôi chính là mối đe dọa.
+Tôi kinh doanh nỗi sợ của người khác.
+Đi trá hình.
+Memes lạc đà.
+Kiếm tiền.
+Cảm hứng.
+Nguồn tri thức vô hạn.
+Nhân viên Phòng Thư
+{0.SimFirstName} đã để lại dấu ấn của {M0.him}{F0.her} trên thế giới kinh doanh. Giờ tất cả những gì {M0.he}{F0.she} phải làm là tìm người tiếp theo sắp để lại dấu ấn của mình, ủng hộ họ, và chờ đợi sự nỗ lực của họ được đền đáp.
+Nhà đầu tư thiên thần
+{0.SimFirstName} là một thợ săn lớn, và các tập đoàn là con mồi của {M0.him}{F0.her}. Sáp nhập và mua bán là vũ khí của {M0.him}{F0.her}, và chúc may mắn cho bất kỳ giám đốc đi lạc hay cổ đông thiểu số nào lạc vào tầm ngắm của {M0.him}{F0.her}.
+Kẻ thôn tính doanh nghiệp
+Không thực sự về việc phòng ngừa rủi ro; đó là về đòn bẩy: tối đa hóa lợi tức trên đầu tư của khách hàng. Nếu {0.SimFirstName} tối đa hóa đủ, sẽ có một phần lớn cho {M0.him}{F0.her}.
+Quản lý Quỹ Phòng ngừa Rủi ro
+Mùa BLT sắp tới? Đã đến lúc đầu tư vào tương lai thịt heo. Hàng hóa là tên trò chơi, và công việc của {0.SimFirstName} là biết điều gì sẽ nóng ngày mai. Theo dõi thị trường chứng khoán sẽ giúp {0.SimPronounObjective} tạo dấu ấn của {M0.him}{F0.her}.
+Nhà giao dịch Tương lai
+Nghiên cứu Cổ phiếu ({0.String})
+ Nghiên cứu Đối thủ ({0.String})
+{0.SimFirstName} cuối cùng cũng đã bước vào Đại sảnh Danh vọng! Tên {M0.him}{F0.her} sẽ trường tồn mãi mãi như người xuất sắc nhất trong những người xuất sắc. Sách ghi chép sẽ chứa đựng những kỳ tích thể thao của {M0.him}{F0.her}. Những lời mời phát biểu và các thỏa thuận xuất bản đang ồ ạt đến...nói cách khác {M0.he}{F0.she} cuối cùng cũng đã chạm đến đỉnh núi.
+Danh thần thể thao
+{0.SimFirstName} là cầu thủ giá trị nhất! Cả thế giới biết điều đó và không làm {M0.him}{F0.her} bị tổn thương khi {M0.he}{F0.she} được book trên mọi chương trình talkshow để thảo luận về cách {M0.he}{F0.she} đạt được thành công. Mọi người đều mặc áo đấu của {0.SimFirstName} và {M0.he}{F0.she} đang nhận được rất nhiều thỏa thuận tài trợ.
+Cầu thủ xuất sắc nhất
+{0.SimFirstName} đã được chọn vào Đội hình Tinh hoa! Mọi người từ khắp nơi đều xin chữ ký của {M0.him}{F0.her}. {M0.He}{F0.She} xuất chúng cả trên và ngoài sân.
+Ngôi sao
+Không còn là cầu thủ dự bị nữa, giờ {0.SimFirstName} đang chơi với những người lớn và kiếm được số tiền lớn. Các cổ động viên biết {M0.he}{F0.she} là ai rồi và nhận ra {0.SimFirstName} trên phố. Giữ vững sự nỗ lực!
+Cầu thủ chính thức
+{0.SimFirstName} cuối cùng cũng đã chơi ở giải đấu lớn! Giờ {M0.he}{F0.she} sẽ cần phải làm việc chăm chỉ hơn bao giờ hết để ở lại đó. {M0.He}{F0.She} cần duy trì thể lực của {M0.him}{F0.her} và nghiên cứu băng ghi hình trận đấu. {0.SimFirstName} sẽ có cơ hội của {M0.him}{F0.her} để tạo ấn tượng!
+Cầu thủ mới
+Đã đến lúc {0.SimFirstName} cho họ thấy {M0.he}{F0.she} có gì! {0.SimFirstName} sẽ học hỏi từ các huấn luyện viên của {M0.him}{F0.her}, phát triển kỹ năng và biểu diễn vì {M0.he}{F0.she} sẽ cần gây ấn tượng với các tuyển trạch để lên level tiếp theo.
+Cầu thủ giải hạng dưới
+Thông qua sự nỗ lực và lãnh đạo vượt trội, {0.SimFirstName} sẽ trình diễn những điệu múa được dàn dựng xuất sắc. Các cổ động viên sẽ xem đội của {M0.him}{F0.her} với sự kinh ngạc.
+Đội trưởng Nhóm múa
+Một Đại sứ biết cách giữ cho khán giả hào hứng. Thông qua nhiều biểu cảm và chuyển động cơ thể, {0.SimFirstName} sẽ đưa các cổ động viên đứng dậy cổ vũ đội.
+Đại sứ Đội
+Đây không chỉ là việc nhặt đồ lót. {0.SimFirstName} sẽ cần thái độ tích cực và thực hiện nhiệm vụ của {M0.him}{F0.her} một cách thông thạo. Trách nhiệm của {M0.him}{F0.her} bao gồm giữ phòng thay đồ sạch sẽ, cung cấp khăn tắm sạch cho cầu thủ, và tổ chức thiết bị của đội.
+Nhân viên Phòng thay đồ
+Giao thức ăn uống cho các ngôi sao thể thao lớn nhất thế giới. {0.SimFirstName} sẽ phải nhanh nhẹn trên đôi chân của {M0.him}{F0.her} để bổ sung nước cho họ. Nếu {M0.he}{F0.she} thất bại, đội sẽ thất bại.
+Người phục vụ nước
+Bạn đã lên đỉnh núi và trở thành {M0.Mr}{F0.Ms}. Hệ Mặt Trời. Cơ thể bạn là đền thờ và giờ bạn có chiếc cúp và những vinh quang đi kèm. Chúc mừng!
+{M0.Mr}{F0.Ms}. Hệ Mặt Trời
+Bạn đang trên bìa tất cả các tạp chí thể hình và tập luyện cơ bắp. Người Sim muốn biết {0.SimFirstName} đã có được những cơ bắp đá như đá và mông săn chắc như thế nào. Cơ thể kiến tạo của {M0.him}{F0.her} không đến dễ dàng. Nó cần rất nhiều công sức và vẫn còn không gian để phát triển. Tiếp tục phát triển!
+Ngôi sao cơ bắp
+Đã đến lúc bước lên và giúp đỡ các ngôi sao. Họ sẽ cần sự hỗ trợ của bạn để duy trì vẻ ngoài. Một ngôi sao không thể béo phì hoặc quá gầy. Họ cần trông khỏe mạnh và căng tràn khi bước xuống thảm đỏ hoặc thử vai.
+Huấn luyện viên cho các Ngôi sao
+{0.SimFirstName} bắt đầu xây dựng tên tuổi của {M0.him}{F0.her} trong vòng xoay tập luyện cơ bắp. {0.SimFirstName} phải tiếp tục tập luyện và ăn uống lành mạnh và trước khi {M0.he}{F0.she} biết điều gì, {M0.he}{F0.she} sẽ đạt được mục tiêu tối thượng của {M0.him}{F0.her}! Không thể ngăn cản {0.SimPronounObjective} nữa.
+Vận động viên cơ bắp xuất sắc
+Tạm biệt cơ thể yếu ớt! {0.SimFirstName} cần tập luyện thể lực của {M0.him}{F0.her} để lên level tiếp theo. Đừng làm kẻ yếu đuối! Tập luyện, tập luyện, tập luyện. Chỉ khi đó {0.SimFirstName} mới trở thành Sim {M0.he}{F0.she} muốn trở thành!
+Vận động viên cơ bắp chuyên nghiệp
+{0.SimFirstName} giờ sẽ giúp khách hàng đạt được mục tiêu thể dục và cân năng lượng cá nhân. Sử dụng các công cụ thể dục, từ những cách tập luyện khác nhau đến những cách ăn uống tốt hơn, {M0.he}{F0.she} sẽ làm cho họ phấn chấn! Họ sẽ chỉ tiến được xa tùy {M0.he}{F0.she} đẩy họ bao xa!
+Huấn luyện viên cá nhân
+Huấn luyện Thể dục ({0.String})
+ Nhiệm vụ Không gian ({0.String})
+ Nhiệm vụ Không gian ({0.String})
+ Tập luyện ({0.String})
+Mới bắt đầu
+Kịch sĩ Bi thương
+Kỹ thuật viên Sửa chữa
+Cảnh sát
+Người giao {M0.Guy}{F0.Girl} Pizza
+Người giữ trẻ
+Người vận chuyển Bưu phẩm
+Người giúp việc
+Thư viện viên
+Huấn luyện viên Phòng tập
+Sư tả Hồn
+Nhà làm vườn Chuyên nghiệp
+Nhà làm vườn Cộng đồng
+Người đánh bắt cá
+Lính cứu hỏa
+Pha chế đồ uống
+Thường khách quán bar
+Quan trọng là phải có nhịp điệu. {0.SimFirstName} thực ra không có kiến thức gì về nhịp điệu của {M0.him}{F0.her} trước khi {M0.he}{F0.she} bắt đầu viết về nó, nhưng nếu bạn nghe thuyết phục, bạn là người thuyết phục. Bạn đọc sẽ không bao giờ phát hiện ra! Bí mật là gì? Sử dụng rất nhiều từ lớn.
+Người đóng góp Thường xuyên
+{M0.He’s}{F0.She’s} luôn nghĩ {M0.himself}{F0.herself} là người biết hết, nhưng giờ {0.SimFirstName} là một người biết hết chuyên nghiệp. Cuộc sống của một người viết cột chuyên môn đầy những người thân họ hàng điên rồ, người đưa thư không biết giới hạn cá nhân, và những gia đình thứ hai bí mật. Nhưng chỉ khi {M0.he}{F0.she} may mắn.
+Người viết Cột chuyên môn
+Giờ {0.SimFirstName} đang làm việc cho {M0.himself}{F0.herself}, viết những gì {M0.he}{F0.she} muốn...hoặc ít nhất là những gì khách hàng trả tiền muốn. Thật không may, khách hàng trả tiền muốn các bài viết về "10 Cách Sáng tạo Ăn Nấm" hoặc "Mẹo Nóng để Kích thích Chó". Đó không hào nhoáng, nhưng đó là sinh kế!
+Người viết Bài báo Tự do
+Quan trọng hơn là viết nhanh hơn là viết hay... {0.SimFirstName} có những gì cần thiết? Người viết blog chỉ được trả tiền nếu họ có được số lần click, vì vậy {M0.he’d}{F0.she’d} tốt hơn nên nghiên cứu những thứ mọi người thích click vào. (Video mèo và danh sách có số.)
+Người viết Blog
+{0.SimFirstName} sắp học được ý nghĩa của việc trả giá {M0.his}{F0.her} khi làm trợ lý-trợ lý lấy cà phê, trợ lý tra cứu sự kiện, và trợ lý sắp xếp giấy tờ. Sau một thời gian, {M0.he}{F0.she} thậm chí có thể được viết một chút, mặc dù sếp của {M0.him}{F0.her} sẽ lấy công.
+Trợ lý cho Người viết
+{0.SimFirstName} đã vượt lên trên tin tức hàng ngày và giờ dành {M0.his}{F0.her} thời gian nhìn về quá khứ...nghiên cứu những gì đã qua, và ý nghĩa của tất cả. Các thế hệ tương lai sẽ nghiên cứu các tác phẩm của {M0.him}{F0.her}, và còn nhiều người khác sẽ dùng chúng như những chiếc đệm cửa cực kỳ sang trọng.
+Người ghi chép Sử
+{M0.He}{F0.She} quyết định câu chuyện nào được đăng và cái nào bị giết. {M0.He}{F0.She} giữ phát hành lên và chi phí xuống. {M0.He}{F0.She} sản xuất báo chí tuyệt vời, và nếu {M0.he}{F0.she} có thể tìm ra cách làm cho mọi người thực sự trả tiền cho nó, {M0.he}{F0.she} sẽ thực sự có tất cả!
+Tổng biên tập
+Nếu {M0.he}{F0.she} may mắn, {M0.he’ll}{F0.she’ll} là phóng viên đã phanh phui scandal lớn nhất từng có. Ai đó, ở đâu đó đang làm điều xấu, và {0.SimFirstName} quyết tâm tìm ra họ. {0.SimFirstName} thích tiết lộ hành vi sai trái và kiếm nhiều tiền, không phải lúc nào cũng theo thứ tự đó.
+Phóng viên Điều tra
+{N0.his}{F0.her} kỹ năng báo cáo tinh tường và văn phong sắc sảo đã giúp {0.SimFirstName} nhận được một bài viết ngon lành về tin tức nóng hổi. Lật đổ chính phủ! Thảm họa thiên nhiên nghiêm trọng! Một ngôi sao pop với kiểu tóc mới! {0.SimFirstName} đang ở những câu chuyện lớn rồi.
+Phóng viên trang nhất
+Quy hoạch đô thị? Bầu cử người bắt chó? Nhịp độ địa phương không luôn hào nhoáng, nhưng ít nhất {0.SimFirstName} có thể sử dụng quyền lực của {M0.his}{F0.her} công việc để đè bẹp {M0.his}{F0.her} kẻ thù. Giờ {M0.he}{F0.she} có được bàn ăn ngon nhất ở nhà hàng và người giặt quần áo không bao giờ làm {M0.his}{F0.her} áo sweater bị co lại.
+Phóng viên trang hai
+Khó khăn nhất khi tạo ra một bản sử thi nhiều tập đồ sộ? Nghĩ ra tất cả những cái tên điên rồ như Cloydon DeBarboot và Frimzy Peppernoodle. Chắc chắn là tên. À, và cũng là việc đối phó với những fanfic rất kỳ quặc, không phù hợp.

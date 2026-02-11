@@ -1,0 +1,100 @@
+Sim chăm chỉ có thể trở nên cuồng nhiệt Năng lượng khi nhà bừa bãi!
+Giải Quyết Vấn Đề Khó
+Nhìn Về Mặt Tích Cực
+Lắng Nghe Gió
+Một âm thanh nhỏ vang đến tai. Gần như... một giọng nói.
+(Từ Ngồi Trên Đồ Nội Thất Bị Trầy)
+Chơi Đá Tuyết
+Tham Gia Trò Chơi Đá Tuyết
+Chơi Đá Tuyết Cùng
+Lấy Đồ Uống
+Ừm... Không còn đồ uống nóng nào cả...
+Bổ sung với Cacao Nóng Thuần Chay Với Kẹo Bông
+Bổ sung với Cacao Nóng Thuần Chay
+Bổ sung với Cacao Nóng Gia Vị
+Bổ sung với Cacao Nóng Bạc Hà
+Bổ sung với Cacao Nóng Với Kẹo Bông
+Bổ sung với Cacao Nóng
+Không thể bổ sung khi khay đã đầy.
+Sửa Trầy
+Thí Nghiệm
+Rượu Thuốc Trạng
+Little {0.SimFirstName} đã pha chế một loại thuốc trạng có mùi khó chịu!  Điều này chắc chắn sẽ gây ra mùi khó chịu! Nó đã nằm trong kho đồ của {0.SimFirstName}.
+Thuốc Sức Khỏe
+Little {0.SimFirstName} đã pha chế một loại thuốc sức khỏe tuyệt vời nhất!  Điều này chắc chắn sẽ xua tan cơn đói! Nó đã nằm trong kho đồ của {0.SimFirstName}.
+Thuốc Cảm Xúc
+Little {0.SimFirstName} đã pha chế một hỗn hợp đáng yêu để kích hoạt cảm xúc! Nó đã nằm trong kho đồ của {0.SimFirstName}.
+Thêm Một Chút Phozone
+Thêm Một Chút Goobleck
+Thêm Một Chút Alcineat
+Thêm Một Chút Melacoo
+Có Con Bằng Khoa Học Là Cha/Mẹ Đơn Thân
+Có Con Bằng Khoa Học?
+{0.SimName} sẽ nhanh chóng đến bệnh viện và sử dụng vật chất di truyền của {0.SimPronounPossessiveDependent} để có một đứa trẻ mới - thông qua khoa học! Bạn đã sẵn sàng thêm một Trẻ Sơ sinh vào hộ gia đình chưa?
+Có Con Bằng Khoa Học Cùng {1.SimFirstName}?
+{0.SimName} sẽ nhanh chóng đến bệnh viện và sử dụng vật chất di truyền của {0.SimPronounPossessiveDependent} và {1.SimName} để có một đứa trẻ mới thông qua khoa học! Bạn đã sẵn sàng thêm một Trẻ Sơ sinh vào hộ gia đình chưa?
+Ồ, bạn biết cách gây ấn tượng đầu tiên tốt! Hãy làm điều này một lần nữa, và sớm thôi!
+Tiệc tân gia? Giống như tiệc nhà cháy hơn! Hôm qua bạn là vô danh, nhưng ngày mai, mọi người trong thị trấn sẽ biết tên bạn. Không thể chờ đến lần sau!
+Cảm ơn lời mời, tôi luôn vui vẻ khi ở chung với bạn! Gọi cho tôi sớm nhé, được chứ?
+Rất vui được gặp bạn! Làm ơn, ghé chỗ tôi chơi nhé. Cửa luôn mở!
+Này! Bạn sẽ tổ chức tiệc tân gia nhà, phải không? Đây là số điện thoại của tôi - tôi sẽ chờ lời mời!
+Chào mừng đến thị trấn! Bạn đã thăm công viên chưa? Nó đẹp quá vào thời điểm này trong năm!
+Xem Tuyết Tác Phẩm
+Phục Hồi
+Vẽ Trên Cát
+Phá Hủy
+Chơi Trong Cát
+Gọi Ma
+Rummage for Info
+{0.SimFirstName} đã tìm thấy một số thông tin hấp dẫn về các Sim sống ở đây. Với một chút nỗ lực, {M0.he}{F0.she} có thể biến nó thành một bài báo khá thuyết phục.
+Rummage for Food
+{0.SimFirstName} đã tìm thấy một ít thức ăn trong thùng rác này. Nó dường như vẫn ăn được.
+Rummage
+Không có thùng rác tươi nào để lục lạo.
+Di chuyển đến Đơn Vị Cùng
+Thăm Đơn Vị
+Đang xếp hàng tại {1.ObjectName}
+Hồi tưởng
+{0.SimFirstName} xin lỗi vì không có kỹ năng để sửa trạm và gửi một tin nhắn từ tên lửa đến trụ sở. Sẽ mất vài ngày trước khi viện trợ đến, nhưng phi hành gia nên ổn, giả sử không ai chiếm hết chăn.
+{0.SimFirstName} phóng lên—và đúng lúc! Một đội quân người ngoài hành tinh giống nhện đã phủ kín sườn đồi và bắn vào con tàu rút lui của {M0.his}{F0.her}. An toàn ngoài không gian, {0.SimFirstName} bắt đầu làm việc trên GPS của {M0.his}{F0.her}. Khởi động lại. Khởi động lại…Bingo! {0.SimFirstName}—và kho báu—đang trên đường về nhà.
+Với sự kiên quyết, {0.SimFirstName} đặt ngón tay lên nút để đánh bóng mọi rác rưởi ra khỏi tên lửa. Khoan, {M0.he}{F0.she} đã định làm gì nhỉ? Ôi không!! Chính phủ có thể theo dấu vết rác đó ĐẾN NGAY {M0.HIM}{F0.HER}!!
+{0.SimFirstName} tiếp cận một trong những phi hành gia tỉnh táo hơn và hỏi chuyện gì đang xảy ra. Hóa ra toàn bộ phi hành gia đã nhiễm một loạt điên loạn do không gian! {0.SimFirstName} lén quay về tên lửa để liên lạc với chỉ huy. Ai đó sẽ lên đây sớm để giúp phi hành gia.
+Eureka! Chiếc mũ đội lên đầu! Thêm tiếng reo hò từ đám đông khi {0.SimFirstName} ném chiếc mũ vào khán đài một cách duyên dáng, để được một người hâm mộ may mắn bắt được. Cái bệ đỡ không mũ chìm xuống và biến mất xuống đất, và chẳng mấy chốc được thay thế lại. Cái bệ đỡ thử nghiệm mới nhất này dường như giữ một chiếc ghế: một chiếc ghế kim loại đơn giản.
+{0.SimFirstName} lách vào sau điều khiển và lái chiếc tàu nhỏ xuống núi. Và với “lái”, tôi muốn nói là “lăn”. Và với “núi”, tôi muốn nói là “đá sắc nhọn điên rồ”. Tin tốt là một linh kiện giống như một chất xúc tác nằm trong đống đổ nát. Tin xấu là {0.SimFirstName} giờ đang nắm một vết thương khá tệ ở {M0.his}{F0.her} bên. Đêm đang buông xuống.
+Sâu trong Hang Độc Ác, {0.SimFirstName} đối mặt với thử thách tối thượng của {M0.his}{F0.her}: Nega-{0.SimFirstName}!! Nó là điều ngược lại với mọi thứ {0.SimFirstName} đại diện cho! May mắn là {0.SimFirstName} đã mang theo vũ khí đó, nên {M0.he}{F0.she} nhanh chóng hạ gục nó và hướng lên mặt đất. Giờ sinh vật này có thể giúp bạn về nhà!
+Không hai trận đấu không gian nào bắt đầu giống nhau, nhưng người ngoài hành tinh này dường như có một kế hoạch. Với một cử chỉ của xúc tu, anh ta lao về phía chân trời, sau đó quay tên lửa chiến đấu của mình để đối mặt với {0.SimFirstName}’s. {0.SimFirstName} cũng làm vậy, tạm dừng, sau đó rẽ lại để xông vào tàu người ngoài hành tinh. Trận đấu này bắt đầu!
+Phòng thí nghiệm đầy đá quý và mẫu vật nhầy nhụa, lấp lánh. Đây là khoa học nghiêm túc đây. {0.SimFirstName} bắt đầu xem qua các lọ mẫu vật khi {M0.he}{F0.she} cảm thấy một tiếng ộp ộp từ bụng con tàu. Đó là cái gì?!
+Trên đường đến hành tinh, {0.SimFirstName} nhận thêm chi tiết từ Điều phối. Có vẻ như một thuộc địa trên mặt trăng của Planet Hiattooine đe dọa nổi loạn và thành lập chính phủ riêng. Đàm phán đã sụp đổ, và vì không bên nào muốn nói chuyện với bên kia, {0.SimFirstName} phải hàn gắn vết rạn. {M0.he}{F0.she} sẽ nói chuyện với ai trước?
+Nắm chặt ống, {0.SimFirstName} phá tung cửa kho và vung loạn. Một thứ gì đó nhỏ và cam chạy ra sau một thùng. Quét phòng, {0.SimFirstName} thấy rằng một khu trưng bày cho một người ngoài hành tinh nhồi xác {M0.he}{F0.she} tìm thấy trống! “Đừng làm tổn thương tôi!” một giọng nhỏ kêu lên. Bốn mắt nhìn ra từ sau thùng. {0.SimFirstName} hạ ống xuống.
+{0.SimFirstName} mở ga xích đạo quanh khúc cua cuối cùng, vượt qua Red Tooth và Dog Girl. Đây là lúc: thời gian để cho toàn ngân hà thấy {M0.he}{F0.she} được tạo ra từ đâu. Nhưng rồi trên tiếng gầm của {M0.his}{F0.her} động cơ là một tiếng vút cao khi Dog Girl bắn vào tốc độ siêu ánh sáng. Có được phép không?! Dog Girl giành đầu—lần này.
+{0.SimFirstName} quyết định bỏ qua tuyên truyền và lấy câu chuyện từ các thuộc địa trước. Ngay lập tức {M0.he}{F0.she} hạ cánh trên mặt trăng vàng, tên lửa vũ trụ của {M0.his}{F0.her} bị bao quanh bởi một đám đông các thuộc địa trông tức giận. Tuyên bố rằng chính phủ hành tinh đàn áp, họ dự định phá hoại máy sao chép thực phẩm của hành tinh để chỉ tạo ra phô mai không nướng. {0.SimFirstName} nên làm gì?
+{0.SimFirstName} nên biết rằng “tượng” người ngoài hành tinh đó là một thỏa thuận quá tốt. Sinh vật đó không chết—nó chỉ là một kẻ non nớt ngốc nghếch bị anh trai dám thách thức giả vờ. Giờ nó muốn một chuyến đi vòng quanh dải ngân hà và một chuyến đi miễn phí về nhà. {0.SimFirstName} biết {M0.he}{F0.she} có thể bị buộc tội bắt cóc người ngoài hành tinh, nhưng khó từ chối 4 đôi mắt van xin…
+Sau khi vượt qua qua cửa không khí của con tàu khác, {0.SimFirstName} nhìn quanh và nhận ra rằng đây phải là một con tàu khoa học - máy móc, đá lấp lánh, thực vật, kính hiển vi…yup, chắc chắn là đồ khoa học. {M0.he}{F0.she} nên khám phá đâu tiếp theo?
+Có ích gì của bộ đẩy nếu bạn chưa bao giờ được sử dụng chúng? {0.SimFirstName} bật bộ đẩy của {M0.his}{F0.her} và phóng thẳng, bỏ lại Dog Girl, Red Tooth và tất cả mọi người trong bụi bặm. Chiến thắng đẹp! Tiền thưởng trong tay, {M0.he}{F0.she} phóng nhanh khỏi đó—mặc dù không có kẻ thua cuộc bực bội nào có thể đuổi kịp {0.SimPronounObjective}.
+Giọng nói trở lại. “Cuộc gọi của bạn rất quan trọng với chúng tôi. Chúng tôi có chơi âm nhạc này cho bạn nếu bạn không quan trọng với chúng tôi không?” Âm nhạc khó chịu dường như to hơn. Đó đã là 0.00003% của một chu kỳ dải ngân hà.
+{0.SimFirstName} hỏi đứa trẻ hành tinh nào chúng đang ở, nhưng trước khi đứa trẻ có thể trả lời, một đội quân người ngoài hành tinh giống nhện xuất hiện phía sau nó. Tránh đạn laser, {0.SimFirstName} nhảy vào tên lửa vũ trụ của {M0.his}{F0.her} và phóng đi. {M0.He}{F0.She} chịu vài phát đạn vào hệ thống hạ cánh của {M0.his}{F0.her}, nhưng trốn thoát. May mắn thay, {M0.he}{F0.she} làm GPS hoạt động lại kịp thời để lái về nhà.
+Máy dò đang di chuyển qua cảnh quan mặt trăng với sự nhanh nhẹn và phong cách! Từ cửa sổ nhỏ của {M0.his}{F0.her}, {0.SimFirstName} có thể thấy droid vui vẻ hơn {F0.she}{M0.he} đã có trong nhiều năm. May mắn thay, nó ít nhất sẽ mang về một món đồ lưu niệm.
+Cố gắng không hoảng loạn, {0.SimFirstName} quét chân trời tìm các ngôi sao quen thuộc. Kia! Một ánh sáng nhấp nháy. {M0.He}{F0.She} bay gần hơn chỉ để phát hiện một thùng kính bí ẩn với cái trông giống như một đèn hiệu bên trong. Trích xuất nó, {0.SimFirstName} tìm thấy một bản đồ với một chữ X đánh dấu trên một hành tinh gần chòm sao. Nó gần như quá tốt để tin… Bây giờ thì sao?
+{0.SimFirstName} sử dụng cánh tay robot của {M0.his}{F0.her} tàu để tháo dỡ pháo đài thoát hiểm. Một voltrofibrilator thêm và một đồng hồ dehexythermomatic dự phòng sẽ thực sự hữu ích một ngày nào đó!
+Đang chạy chậm, {0.SimFirstName} lướt qua hàng dặm rừng rậm dày đặc. Cuối cùng! Một khoảng đất trống. Nhưng khoảng đất trống dường như lộn xộn với tàn tích người ngoài hành tinh. {M0.he}{F0.she} có nên hạ cánh đó bất chấp, nơi ít khả năng va chạm, hay chọn lớp phủ rậm rạp, tối tăm của rừng?
+Bíp! Bíp! Tên lửa vũ trụ của {0.SimFirstName} đã phát hiện một vật thể bất ngờ trên chân trời. Khi {M0.he}{F0.she} đến gần hơn, {M0.he}{F0.she} không thể tin {M0.his}{F0.her} mắt. Các tán cây xanh, phình ra. Dòng suối trong xanh. Có thể chứ? Hành tinh Lush huyền thoại! {0.SimFirstName} tắt bộ tăng tốc turbo của {M0.his}{F0.her} khi {M0.he}{F0.she} phá qua khí quyển hành tinh.
+Đi qua hành tinh Yaaaaaaang, {0.SimFirstName} thấy một người ngoài hành tinh trông mệt mỏi đứng giữa một núi túi rác và phế liệu giường futon gỉ sét. Hóa ra anh ta đang chuyển đến một chỗ mới trên hành tinh Rompiter, và bạn anh ta được tưởng sẽ giúp đỡ vừa bỏ cuộc! {0.SimFirstName} có chút thời gian rảnh - {M0.he}{F0.she} có nên góp sức không?
+Thử tốt đấy, đồ bảo hộ! {0.SimFirstName} khá chắc {M0.he'll}{F0.she'll} sẽ ổn mà không cần nó! Đồ bảo hộ là âm mưu của ngành sợi thủy tinh dù sao. {M0.He}{F0.She} đội một chiếc mũ đan đẹp và thoa kem chống nắng, sau đó hướng về cửa buồng không khí. Nhưng nó bị khóa.
+Trại rất bận rộn, và ĐÓ là vấn đề sống còn. {0.SimFirstName} chờ cơ hội phù hợp, sau đó trượt phần cần thiết ra khỏi đống phế liệu khi sinh vật nhỏ bị phân tâm. Trước khi trộm có thể bị phát hiện, {M0.he}{F0.she} chạy về phía {M0.his}{F0.her} tàu. Thời gian để sửa chữa và về nhà nhanh chóng!
+{0.SimFirstName} gửi một tin nhắn hòa bình cho sinh vật, đáp lại bằng cách phát sáng xanh lục. Nó dẫn {0.SimFirstName} quanh một lỗ hổng trong tiểu hành tinh, {F0.she}{M0.he} có thể thấy nó lấp lánh với những viên ngọc đẹp. {0.SimFirstName} lấy vài viên và lưu trữ trên {F0.her}{M0.his} tàu.
+Chiến đấu dẫn {0.SimFirstName} ra khỏi đám mây, nhưng sau đó vòng quanh để khóa tên lửa vào {M0.his}{F0.her} tàu! Nhanh chóng, {0.SimFirstName} chuyển sang siêu warp và trốn thoát. Đó là khi {M0.he}{F0.she} thấy rằng tàu tự động nhặt một số hàng hóa bí ẩn trong đám mây. Nó có thể là gì?
+Sau khi vật lộn với sinh vật lạ và trơn trượt, {0.SimFirstName} quản lý sắp xếp nó vào một lọ mẫu vật lớn. {M0.He'll}{F0.She'll} đem nó về Trái Đất với {M0.him}{F0.her} để các nhà khoa học mổ xẻ. Ừm, “nghiên cứu.”
+{0.SimFirstName} đi lạc qua đám mây. Điệu nhảy của vàng và tím gần như thôi miên—một giấc mộng tinh tế, hay ngôi mộ xa hoa. {M0.He}{F0.She} bình yên với vẻ đẹp của {M0.his}{F0.her} số phận bi thảm khi bỗng nhiên tàu phá vỡ bầu trời trong xanh. {0.SimFirstName} tự do! Và ngay trước {0.SimPronounObjective} là một hành tinh vàng kỳ lạ.
+Sinh vật dâng tặng {0.SimFirstName} một kho báu đặc biệt vì vượt qua thử thách. Sau đó, {0.SimFirstName} nhìn với sự kinh ngạc khi sinh vật chỉ vào tên lửa, dường như nâng nó lên khỏi đầm như được dẫn dắt bởi một lực vô hình! Giờ {0.SimFirstName} cuối cùng có thể bay về nhà và để lại hành tinh kỳ lạ này xa phía sau {M0.him}{F0.her}!
+{0.SimFirstName} nghĩ {F0.she}{M0.he} đã làm đủ. Vệ tinh có thể phát tín hiệu tốt hơn. Thay vì một triệu Sim không có phủ sóng, nó chỉ là hàng trăm nghìn. Đó là một chiến thắng ở một số cấp độ, phải không?
+{0.SimFirstName} đang trên đường về nhà để giao chú chó được yêu quý và nhận {M0.his}{F0.her} phần thưởng! Con vật dưới bàn quả là Fitz, nhuộm nâu trong một nỗ lực ngụy trang lố bịch. Nhưng chờ đã—có một chiến đấu đang đến gần. Sau đó {0.SimFirstName} nhận ra: cú tiêm là một thiết bị theo dõi. Có lẽ {M0.he}{F0.she} có thể linh hoạt vượt qua chúng.
+{0.SimFirstName} biết rõ hơn. Chiến đấu với sức hút của lỗ đen, {M0.he}{F0.she} dẫn dắt {M0.his}{F0.her} tên lửa dọc theo tàu của người ngoài hành tinh và thuyết phục anh ta từ bỏ tàu. Phi công vừa thoát khi tàu của anh ta bị hút vào bão vĩnh cửu, nhưng anh ta không trông có vẻ biết ơn. Tặng {0.SimFirstName} một ít (rất ít) gì đó vì sự giúp đỡ, anh ta yêu cầu được thả ở hành tinh tiếp theo.
+{0.SimFirstName} cuối cùng kết nối với Hỗ trợ Kỹ thuật. Một giọng nói được ghi sẵn nói, “Xin chào. Tôi có thể giúp gì cho bạn? Bạn có thể nói, 'sửa chữa tàu' hoặc 'điên loạn vũ trụ.'”
+Phew! Tên lửa vũ trụ của {0.SimFirstName} hạ cánh không một vết trầy và cho đến nay, không có người ngoài hành tinh nào chạy ra chào {M0.him}{F0.her}. {0.SimFirstName} đi lạc vào một đền đổ nát một nửa, dường như được xây từ đá xốp khổng lồ. Thêm đá vũ trụ kỳ lạ rải rác xung quanh, cùng với một cái bát hiến tế đẹp và các hiện vật tôn giáo khác. {M0.he}{F0.she} có nên mang một hiện vật về nhà để phân tích không?
+{0.SimFirstName} đi lạc qua đám mây. Điệu nhảy của vàng và tím gần như thôi miên—một giấc mộng tinh tế, hay ngôi mộ xa hoa. {M0.He}{F0.She} bình yên với vẻ đẹp của {M0.his}{F0.her} số phận bi thảm khi bỗng nhiên tàu phá vỡ bầu trời trong xanh. {M0.He’s}{F0.She’s} tự do! Tất cả {M0.he}{F0.she} cần là một chút may mắn nữa: {M0.he's}{F0.she's} phải về nhà bằng khói.
+{0.SimFirstName} đậu {M0.his}{F0.her} tên lửa vũ trụ và vào trại. Người ngoài hành tinh ở quầy lễ tân giương mắt khi {M0.he}{F0.she} bước vào. “Công việc đã đầy,” cô ấy nói. {0.SimFirstName} có thể giải thích về con chó mất tích… hoặc bày một cái cớ để nhìn quanh.
+{0.SimFirstName} mệt. Mệt đến mức, {M0.he}{F0.she} có thể ngủ ngay ở tầng 69, nếu không phải vì mọi tiếng tru. Động vật trong đây không giống “Fitzy-Poo.” Tìm thấy một cầu thang, {M0.he}{F0.she} quay về quầy lễ tân. Người ngoài hành tinh đi rồi, nhưng đó là cái gì {0.SimFirstName} nghe thấy? Tiếng rên rỉ từ dưới bàn...?
+Làm thần linh tối cao cho toàn bộ nền văn minh dường như là một công việc lớn, và {0.SimFirstName} không nghĩ {M0.he's}{F0.she's} đủ sức. Để người khác xử lý trách nhiệm. {M0.he}{F0.she} trèo lên lại {M0.his}{F0.her} tên lửa và hướng về nhà.
+Không có ánh sáng, người ngoài hành tinh không thể trồng trọt hay làm gì…nhưng {0.SimFirstName} cũng không thể. Ngồi trong nhà vệ sinh công cộng trong bóng tối không hề kích thích, nên {M0.he}{F0.she} quyết định về nhà, học được chính xác không có gì về tác động của quyền lực tuyệt đối.
+Sự hào phóng của {0.SimFirstName} đã cho phép người ngoài hành tinh trở nên tự mãn và phóng khoáng. {M0.He}{F0.She} thực sự không muốn trách nhiệm này ngay từ đầu, nên {M0.he}{F0.she} quyết định rời đi khi {M0.he}{F0.she} vẫn còn có thể. Khi {M0.he}{F0.she} rời đi, {M0.he}{F0.she} nghe thấy tiếng kêu hoảng loạn của người ngoài hành tinh, gọi thức ăn, quần áo và thuốc men. {0.SimFirstName} hy vọng họ sẽ ổn...
+{0.SimFirstName} sử dụng cánh tay robot của {M0.his}{F0.her} tàu để kéo pháo đài thoát hiểm lên tàu qua cửa không khí. Sau vài phút đập vào cửa, nó bật mở - và một sinh vật người ngoài hành tinh bật ra! {0.SimFirstName} không chắc {M0.he}{F0.she} nên cố gắng bắt và khuất phục nó, hay chỉ cạy nó ra ngoài không gian.

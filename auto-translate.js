@@ -28,8 +28,10 @@ const aio = new AIO({
 function loadProgress() {
     if (fs.existsSync(PROGRESS_FILE)) {
         const data = JSON.parse(fs.readFileSync(PROGRESS_FILE, 'utf-8'));
-        console.log(`📂 Tiến độ: ${data.completedBatches.length}/${data.total} batch\n`);
-        return data;
+        if (data.completedBatches && Array.isArray(data.completedBatches)) {
+            console.log(`📂 Tiến độ: ${data.completedBatches.length}/${data.total} batch\n`);
+            return data;
+        }
     }
     return { completedBatches: [], total: 0 };
 }

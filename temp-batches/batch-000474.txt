@@ -1,0 +1,100 @@
+Mock Someone
+Tạo một Cờ-lê
+Tạo một Tang và Zing
+Tạo một Sunset Valley
+Tạo một Silent Film
+Tạo một Sea Splash
+Tạo một Salty Llama
+Tạo một Sour Punch
+Tạo một Simsmapolitan
+Tạo một Granny Smash
+Tạo một Dim and Gusty
+Nhấp vào Quầy rượu, chọn Tạo Đồ uống, và chọn công thức từ danh sách.
+Tạo một Ridgeport
+Nhấp vào Điện thoại, vào Ứng dụng Kinh doanh, và chọn Nghỉ Phép. Hoặc khi đến giờ đi làm, ngăn Sim đi làm bằng cách hủy tương tác.
+Vắng mặt ở Công việc
+Nhấp vào một Sim và chọn một Giao tiếp Xã hội từ danh mục Tinh nghịch.
+Hành xử Tinh nghịch
+Nhấp vào một Sim đang Viết và chọn Huấn luyện. Tương tác này có thể được mở khóa khi đạt tối đa Kỹ năng Viết.
+Huấn luyện Một Người trong Viết
+Nhấp vào một Sim đang Vẽ và chọn Huấn luyện. Sim có thể mở khóa tương tác này khi đạt tối đa Kỹ năng Vẽ.
+Huấn luyện Một Người trong Vẽ
+Huấn luyện Một Người trong Thể dục tại Phòng tập
+Đi đến Phòng tập bằng cách mở Bản đồ Thế giới và nhấp vào Địa điểm. Sau đó, nhấp vào một Sim khác khi họ đang tập luyện và chọn Huấn luyện. Sim có thể mở khóa tương tác này khi đạt tối đa Kỹ năng Thể dục.
+Nhấp vào một Sim khác khi họ đang tập luyện và chọn Huấn luyện. Sim có thể mở khóa tương tác này khi đạt tối đa Kỹ năng Thể dục.
+Huấn luyện Một Người trong Thể dục
+Nhấp vào một Sim đang chơi Đàn V Violin và chọn Huấn luyện. Tương tác này có thể được mở khóa khi đạt tối đa Kỹ năng Đàn V Violin.
+Huấn luyện Một Người trên Đàn V Violin
+Nhấp vào một Sim đang chơi Piano và chọn Huấn luyện. Tương tác này có thể được mở khóa khi đạt tối đa Kỹ năng Piano.
+Huấn luyện Một Người trên Piano
+Nhấp vào một Sim khác khi họ đang chơi Đàn G Guitar và chọn Huấn luyện. Sim có thể mở khóa tương tác này khi đạt tối đa Kỹ năng Đàn G Guitar.
+Huấn luyện Một Người trên Đàn G Guitar
+Nhấp vào một Sim đang Sửa chữa hoặc Nâng cấp đồ vật và chọn Huấn luyện. Sim có thể mở khóa tương tác này khi tăng Kỹ năng Khéo léo.
+Đưa ra Mẹo Sửa chữa cho Ai Đó
+Nhấp vào một Sim Trẻ em đang luyện tập một kỹ năng mà Sim của bạn thành thạo và chọn Huấn luyện.
+Huấn luyện Kỹ năng của Trẻ em
+Nhấp vào một Sim Trẻ em đang làm bài tập về nhà và chọn tương tác Giúp đỡ với Bài tập.
+Huấn luyện Bài tập của Trẻ em
+Nhấp vào một Sim Trẻ em đang làm một kỹ năng hoặc bài tập và chọn Huấn luyện.
+Huấn luyện Trẻ em
+Nhấp vào một Đĩa Sandwitch Nướng Phô mai và chọn Lấy một phần.
+Ăn Một Bánh Sandwitch Nướng Phô mai Khác
+Đi đến một Phòng khách bằng cách mở Bản đồ Thế giới và nhấp vào Địa điểm. Sau đó, nhấp vào một Sim lạ để giới thiệu Sim của bạn.
+Gặp Gỡ Người Mới tại Phòng khách
+Đi đến một Câu lạc bộ bằng cách mở Bản đồ Thế giới và nhấp vào Địa điểm. Sau đó, nhấp vào một Sim lạ để giới thiệu Sim của bạn.
+Gặp Gỡ Người Mới tại Câu lạc bộ
+Đi đến một Phòng khách bằng cách mở Bản đồ Thế giới và nhấp vào Địa điểm. Sau đó, nhấp vào một Sim lạ để giới thiệu Sim của bạn.
+Gặp Gỡ Người Mới tại Địa điểm Quầy rượu
+Nhấp vào một Sim lạ để giới thiệu Sim của bạn.
+Gặp Gỡ Người Mới
+Nhấp vào {2.SimFirstName} và chọn một Giao tiếp Xã hội từ danh mục Lãng mạn.
+Nhấp vào {2.SimFirstName} và chọn một Giao tiếp Xã hội từ danh mục Lãng mạn.
+Nhấp vào {2.SimFirstName} và chọn một Giao tiếp Xã hội từ danh mục Thân thiện.
+Nhấp vào {2.SimFirstName} và chọn một Giao tiếp Xã hội từ danh mục Xấu xa.
+Hành xử Xấu xa với {2.SimFirstName}
+Nhấp vào một Trẻ em và chọn một Giao tiếp Xã hội từ danh mục Xấu xa.
+Hành xử Xấu xa với Một Trẻ em
+Nhấp vào một Sim có Đặc điểm Tốt và chọn một giao tiếp xã hội từ danh mục Xấu xa.
+Hành xử Xấu xa với Một Sim Tốt
+Nhấp vào một Sim là Bạn và chọn một giao tiếp xã hội từ danh mục Xấu xa.
+Hành xử Xấu xa với Một Bạn
+Nhấp vào một Sim và chọn một Giao tiếp Xã hội từ danh mục Xấu xa.
+Thảo luận Lý thuyết Màu sắc tại Bảo tàng
+Nhấp vào một Sim và chọn Thảo luận Lý thuyết Màu sắc trong danh mục Thân thiện. Sim là Người yêu Nghệ thuật có thể thực hiện giao tiếp xã hội này. Ngoài ra, Sim có thể mở khóa giao tiếp xã hội này bằng cách tăng Kỹ năng Vẽ.
+Thảo luận Lý thuyết Màu sắc
+Là một Người đam mê Khoa học, {1.SimFirstName} muốn có một cuộc trò chuyện học thuật với ai đó.
+Tranh luận về Đô đốc
+Chọn Chơi cùng hoặc Chơi cùng nhau tại Bảng dart và thắng trò chơi.
+Thắng Một Ván Darts
+Nhấp vào một Bảng dart chưa dùng và chọn Luyện tập Darts.
+Luyện tập Darts
+Nhấp vào Bảng dart, chọn Chơi cùng nhau. Một ván chơi phải được hoàn thành.
+Chơi Darts
+Nhấp vào một Lửa trại và chọn Nhảy múa.
+Nhảy múa tại Lửa trại
+Đi đến một Câu lạc bộ bằng cách mở Bản đồ Thế giới và nhấp vào Địa điểm. Sau đó, nhấp vào một Máy phát thanh để nhảy múa.
+Nhảy múa theo Nhạc tại Câu lạc bộ
+Nhấp vào một Máy phát thanh đang phát nhạc và chọn Nhảy múa.
+Nhảy múa theo Nhạc từ Máy phát thanh
+Viết một Hướng dẫn Quầy rượu
+Nhấp vào TV và chọn Xem Video Đào tạo Đầu bếp. Sim có thể mở khóa tương tác này khi tiến xa trong nhánh Đầu bếp của Nghề nghiệp Đầu bếp.
+Xem một Video Đào tạo Đầu bếp
+Nhấp vào Máy tính và chọn Viết Hướng dẫn Pha chế. Sim có thể mở khóa tương tác này khi tiến xa trong nhánh Pha chế của Nghề nghiệp Đầu bếp.
+Nhấp vào Máy tính và chọn Viết Sách Nấu ăn. Sim có thể mở khóa tương tác này khi tiến xa trong Nghề nghiệp Đầu bếp.
+Viết một Sách Nấu ăn
+Nhấp vào Giường và chọn Khóc Thôi. Sim có thể thực hiện tương tác này khi đang Buồn.
+Khóc Thôi
+Nhấp vào một Trẻ nhỏ và chọn Đè bẹp Giấc mơ từ danh mục Xấu xa.
+Đè bẹp Giấc mơ của Trẻ nhỏ
+Nhấp vào một Sim khác và chọn Đe dọa trong danh mục Xấu xa. Sim có thể mở khóa giao tiếp xã hội này khi tiến xa trong Nghề nghiệp Tội phạm.
+Đe dọa Ai Đó
+Nhấp vào một Sim khác và chọn Đánh cắp trong danh mục Tinh nghịch. Sim có thể mở khóa giao tiếp xã hội này khi tiến xa trong Nghề nghiệp Tội phạm.
+Đánh cắp của Ai Đó
+Nhấp vào Máy tính và chọn Tạo Plugin trong danh mục Lập trình. Sim có thể mở khóa tương tác này khi tăng Kỹ năng Lập trình.
+Tạo một Plugin
+Nhấp vào Máy tính và chọn Tạo Ứng dụng Di động trong danh mục Lập trình. Sim có thể mở khóa tương tác này khi tăng Kỹ năng Lập trình.
+Tạo một Ứng dụng Di động
+Nhấp vào Máy tính, chọn Sửa trò chơi trong danh mục Lập trình, và chọn một trò chơi để sửa. Sim có thể mở khóa tương tác này khi tăng Kỹ năng Lập trình.
+Tạo một Sửa đổi Trò chơi
+Nhấp vào Máy tính và chọn Tạo Virus Máy tính trong danh mục Lập trình. Sim có thể mở khóa tương tác này khi tăng Kỹ năng Lập trình.
+Tạo một Virus Máy tính

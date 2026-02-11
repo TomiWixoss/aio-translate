@@ -1,0 +1,133 @@
+<b>Biên giới Lãng mạn</b> kiểm soát điều gì khiến hoặc không khiến Sims trải qua ghen tuông. Mặc định, tất cả Sims sẽ ghen tuông nếu bạn tình của họ tham gia bất kỳ loại tương tác lãng mạn nào với Sims khác. Bạn có thể thay đổi điều này!
+
+Biên giới Lãng mạn có thể được cấu hình trong <b>Bảng danh tính</b> khi Tạo Sim. Ba thiết lập đầu tiên kiểm soát nếu Sim của bạn trải qua ghen tuông khi bạn tình tham gia các loại tương tác lãng mạn cụ thể với Sims khác. Các thiết lập là:
+
+<ul><li><b>Lãng mạn không thể</b>, là bất kỳ lãng mạn nào mà cơ thể của các Sims không chạm vào. Chúng có thể được tìm thấy trong các danh mục <b>Tình cảm & Mơn trớn</b> của menu tương tác <b>Tình cảm</b> khi bạn chọn một Sim khác.</li>
+<li><b>Lãng mạn có thể</b>, nằm trong danh mục <b>Thân mật Vật lý</b> của menu tương tác Tình cảm. Thiết lập này kiểm soát ghen tuông do việc bạn tình có liên lạc vật lý lãng mạn gây ra, nhưng <i>không bao gồm</i> "Làm đùa" (Teen Sims) hay "WooHoo" (Adult Sims.)</li>
+<li>Thiết lập thứ ba đặc biệt đề cập đến <b>Làm đùa</b> (cho Teen Sims) hoặc <b>WooHoo</b> (cho Adult Sims.) Các tương tác này cũng được tìm thấy trong danh mục Thân mật Vật lý.</li></ul>
+Thiết lập cuối cùng nói rằng một Sim có đang <b>Khám phá Biên giới Lãng mạn</b> hay không. Nếu Sim đang khám phá, họ có thể xem xét lại từng biên giới được liệt kê ở trên, bằng cách nói về nó với các Sims khác trong Chế độ Sống. Nếu Sim không khám phá, biên giới của họ là kiên định và họ không thể bị yêu cầu xem xét lại.
+
+Sử dụng các thiết lập này để quyết định ghen tuông có (hay không) xảy ra trong Chế độ Sống. Tìm hiểu thêm về Biên giới Lãng mạn trong Bài học dưới <b>Chế độ Sống > Mối quan hệ & Giao tiếp xã hội > Biên giới Lãng mạn</b>
+
+Đại từ
+Tên & Tuổi
+<b><font color='#199C2C'>Đặt tên</font></b> cho Sim của bạn! Họ là ai? Nhấp vào văn bản để mở rộng Bảng Tên, và nhập Tên và Họ cho Sim. Không biết đặt tên gì cho Sim của bạn? Nhấp "Ngẫu nhiên Tên" và để chúng tôi chọn một cái cho bạn!
+
+<b><font color='#199C2C'>Tuổi</font></b> của một Sim, hay Giai đoạn Cuộc sống, được đặt trong menu <b><font color='#199C2C'>Danh tính</font></b>. Chọn Giai đoạn Cuộc sống của họ, từ Trẻ sơ sinh đến Người cao tuổi.
+
+Lưu ý rằng việc thay đổi Giai đoạn Cuộc sống của Sim có thể xóa các Đặc điểm, Khát vọng, và Mối quan hệ của họ nếu chúng không còn hợp lệ.
+
+Giới tính & Khuynh hướng tính dục
+Có những cách mạnh mẽ để tùy chỉnh <b><font color='#199C2C'>Giới tính</font></b> và <b><font color='#199C2C'>Khuynh hướng tính dục</font></b> của Sim.
+
+<b><font color='#199C2C'>Khuynh hướng tính dục</font></b> của Sim cũng được đặt trong menu Tùy chỉnh dưới các nút Giới tính. Nó có sẵn cho Sims từ Tuổi vị thành niên trở lên.
+
+Bạn có thể đặt giới tính nào mà Sim bị hấp dẫn <b><font color='#199C2C'>một cách lãng mạn</font></b> (với ai họ có thể xây dựng mối quan hệ lãng mạn) và giới tính nào mà họ quan tâm đến việc <b><font color='#199C2C'>Làm đùa</font></b> hay <b><font color='#199C2C'>WooHoo</font></b> với.
+
+Ví dụ, để tạo một Sim song tính và vô dục, đặt họ bị hấp dẫn lãng mạn bởi nam và nữ, và quan tâm đến WooHoo với không có giới tính nào.
+
+Bạn cũng có thể quyết định nếu một Sim có đang <b><font color='#199C2C'>khám phá một cách lãng mạn</font></b> hay không; nếu không, họ sẽ từ chối sự tiếp cận từ những Sims không thuộc giới tính họ bị hấp dẫn.
+
+<b><font color='#199C2C'>Giới tính</font></b> của Sim có thể được đặt trong bảng Danh tính. Nếu Sim là Tuổi vị thành niên hoặc lớn hơn, bạn có thể tùy chỉnh thêm Giới tính của họ bằng cách chọn nút Tùy chỉnh bên dưới các nút Giới tính và mở thẻ Giới tính.
+
+Trong menu này, bạn có thể chọn Khung Vật lý (hình dáng cơ thể cơ bản) của Sim; Sở thích Trang phục (quyết định bộ lọc định sẵn khi chỉnh sửa Trang phục, nhưng bạn luôn có thể xóa các bộ lọc này); liệu Sim của bạn có thể mang thai, làm người khác mang thai, hay không; và nếu Sim của bạn có thể đi vệ sinh đứng hay không.
+
+Bạn có thể thay đổi <b><font color='#199C2C'>Đại từ</font></b> của Sim của bạn trong menu thả xuống bên cạnh tên của họ. Mở rộng Bảng Tên để truy cập nó. Nếu không có Đại từ nào được chọn, Đại từ trong văn bản sẽ dựa trên Giới tính của Sim.
+
+Chọn giữa các Đại từ định sẵn, hoặc tạo <b><font color='#199C2C'>Đại từ Tùy chỉnh</font></b>. Tùy chọn sau sẽ mở cửa sổ Đại từ Tùy chỉnh. Sử dụng các câu ví dụ bên dưới mỗi phiên bản của Đại từ Tùy chỉnh của bạn để đảm bảo nó sẽ hoạt động chính xác trong văn bản.
+
+Tạo một Ma
+Sim Ma có thể được tùy chỉnh để mặc bất kỳ trang phục thông thường nào có sẵn cho Sims sống, ngoài những trang phục độc quyền của Ma! Từ trang phục thường ngày đến trang phục trang trọng, bạn có thể tự do lựa chọn để mang lại cho Sim Ma của mình một vẻ ngoài độc đáo và được cá nhân hóa, phản ánh phong cách siêu nhiên của họ.
+
+Trong Tạo Sim, giờ đây bạn có tùy chọn tạo một Ma! Bên cạnh biểu tượng đặc điểm Khát vọng, bạn sẽ thấy một phân tử mới cho phép bạn chọn từ nhiều loại cái chết. Để biến Sim của bạn trở lại trạng thái sống, chỉ cần chọn 'X' trên biểu tượng nguyên nhân cái chết. Lưu ý rằng Sims Trẻ sơ sinh và Trẻ em không thể trở thành Ma, và một số loại cái chết bị giới hạn cho các nhóm tuổi cụ thể.
+
+Sau khi chọn đặc điểm cái chết và biến Sim thành Ma, đến lúc tùy chỉnh! Sử dụng nút chuyển đổi Lớp phủ Ma để xem trước Sim Ma của bạn mà không có lớp phủ để tùy chỉnh chi tiết hơn. Bạn có thể bật lại lớp phủ bất kỳ lúc nào để xem Sim Ma của mình trong chế độ xem mặc định!
+
+Danh tính & Tính cách
+Ngoài việc tạo hình dáng của Sims, bạn có thể tùy chỉnh <b><font color='#199C2C'>danh tính</font></b> và <b><font color='#199C2C'>tính cách</font></b> của họ!
+
+Điều này bao gồm mọi thứ từ Tuổi, Giới tính, và Khuynh hướng tính dục đến Đặc điểm và Khát vọng.
+
+Bộ lọc
+Xăm hình
+Thích Nhạc Electronica
+Thích Nhạc Electronica
+Nhạc Cổ điển
+Thích Nhạc Cổ điển
+Thích Nhạc Cổ điển
+Nhạc Carnival Beats
+Thích Nhạc Carnival Beats
+Thích Nhạc Carnival Beats
+Nhạc Blues
+Thích Nhạc Blues
+Thích Nhạc Blues
+Nhạc Alternative
+Thích Nhạc Alternative
+Thích Nhạc Alternative
+Màu vàng
+Thích Màu vàng
+Thích Màu vàng
+Màu trắng
+Thích Màu trắng
+Thích Màu trắng
+Màu đỏ
+Thích Màu đỏ
+Thích Màu đỏ
+Màu tím
+Thích Màu tím
+Thích Màu tím
+Thích Màu hồng
+Thích Màu hồng
+Thích Màu cam
+Thích Màu cam
+Thích Màu xanh lá
+Thích Màu xanh lá
+Thích Màu xám
+Thích Màu xám
+Thích Màu nâu
+Thích Màu nâu
+Thích Màu xanh dương
+Thích Màu xanh dương
+Thích Màu đen
+Thích Màu đen
+Viết
+Thích Viết
+Thích Viết
+Sức khỏe
+Thích Sức khỏe
+Thích Sức khỏe
+Violin
+Thích Violin
+Thích Violin
+Chơi Game
+Thích Chơi Game
+Thích Chơi Game
+Khoa học Vũ trụ
+Thích Khoa học Vũ trụ
+Thích Khoa học Vũ trụ
+Lập trình
+Thích Lập trình
+Thích Lập trình
+Piano
+Thích Piano
+Thích Piano
+Vẽ tranh
+Thích Vẽ tranh
+Thích Vẽ tranh
+Pha chế
+Thích Pha chế
+Thích Pha chế
+Làm phước
+Thích Làm phước
+Thích Làm phước
+Thủ công
+Thích Thủ công
+Thích Thủ công
+Guitar
+Thích Guitar
+Thích Guitar
+Trồng trọt
+Thích Trồng trọt
+Thích Trồng trọt
+Thể dục
+Thích Thể dục

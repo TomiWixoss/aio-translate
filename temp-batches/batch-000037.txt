@@ -1,0 +1,96 @@
+{0.SimFirstName} để phong thư sang một bên và tiếp tục xử lý phần thư còn lại. Cuối ngày, một người {M0.đàn ông}{F0.phụ nữ} với vẻ mặt lo lắng tới hỏi xem có thư nào quan trọng tới không. {0.SimFirstName} thở dài và đưa phong thư cho {M0.người đàn ông}{F0.người phụ nữ} trước khi quay lại công việc bất tận là sắp xếp thư đến.
+{0.SimFirstName} bấm ‘Gửi’ cho một email được soạn thảo tinh tế, gửi tới danh sách gửi thư công ty địa phương. Chỉ trong vài phút, ai đó đã hồi âm và cảm ơn {M0.anh ấy}{F0.cô ấy} vì đã đảm bảo gói hàng tới tay họ.
+{0.SimFirstName} soạn một email với những bức ảnh dễ thương của hamster và gửi tới danh sách gửi thư toàn cầu của công ty. Chỉ trong vài phút, một giám đốc điềm tĩnh hồi âm với một meme chế giễu. Để lại cả ngày, đồng nghiệp của {0.SimFirstName} gọi {M0.anh ấy}{F0.cô ấy} là Hamster-{M0.Cậu}{F0.Bé}.
+{0.SimFirstName} viết một kế hoạch truyền cảm hứng để công ty chuyển đổi kế hoạch kinh doanh theo hướng không bị ảnh hưởng bởi luật sắp tới.
+{0.SimFirstName} dường như không thể tìm ra cách điều chỉnh kế hoạch kinh doanh của công ty để không bị ảnh hưởng bởi luật. {M0.Anh ấy}{F0.Cô ấy} sẽ phải thuê một công ty bên ngoài để giúp đỡ trong quá trình chuyển đổi.
+{0.SimFirstName} phát động một chiến dịch truyền thông rầm rộ, biến dư luận chống lại dự luật sắp tới và đảm bảo rằng sẽ là tự sát sự nghiệp của bất kỳ chính trị gia nào ủng hộ nó. Dự luật bây giờ không có cơ hội thông qua và công việc kinh doanh có thể tiếp tục không tổn hại.
+{0.SimFirstName} phát động một chiến dịch truyền thông chống lại dự luật, nhưng sự ủng hộ của công chúng quá mạnh và {0.SimFirstName} chỉ thành công trong việc khiến công ty trông tệ.
+{0.SimFirstName} quyết định rằng {M0.anh ấy}{F0.cô ấy} đã làm việc quá chăm chỉ để đánh đổi sự thăng tiến sự nghiệp của {M0.mình}{F0.mình} cho lợi ích tài chính ngắn hạn.
+{0.SimFirstName} chấp nhận đề nghị và được cho một khoản tiền lớn. Sự lãnh đạo và văn hóa mới của công ty có nghĩa là {M0.anh ấy}{F0.cô ấy} sẽ phải làm việc cực kỳ chăm chỉ để được thăng chức bây giờ.
+{0.SimFirstName} muốn hiệu suất của {M0.mình}{F0.mình} dựa trên công lao của công việc {M0.mình}{F0.mình}, không phải trên điểm yếu của người khác. Không cần thêm bất kỳ nhận xét nào.
+{0.SimFirstName} đùa một câu về Phó chủ tịch không phù hợp và Giám đốc điều hành cười. Ừ, tên đó sẽ không được thăng chức sớm đâu.
+{0.SimFirstName} đùa một câu về Phó chủ tịch không phù hợp và Giám đốc điều hành cau mày và nhướng lông mày về phía {M0.anh ấy}{F0.cô ấy}. Hy vọng điều này sẽ không được nhớ tới lần tới {0.SimFirstName} được xem xét cho thăng chức.
+{0.SimFirstName} quyết định giữ im lặng và dành cả cuộc họp nhóm có ý định không nhìn vào {M0.sếp}{F0.sếp} của {M0.mình}{F0.mình}.
+{Sếp của 0.SimFirstName} cảm ơn {M0.anh ấy}{F0.cô ấy} vì đã chỉ ra rau xanh. Sẽ thật xấu hổ nếu phải giải thích với cả đội như vậy!
+{0.SimFirstName} dựng một bù nhìn cỡ người thật với âm thanh phản hồi. Nhưng, không may, bản ghi âm đã trật đường và bù nhìn bắt đầu hát lời ca heavy metal không phù hợp trước một đồng nghiệp, và mưu kế đã bị bóc trắng.
+{0.SimFirstName} thực hiện một động tác rình rập kiểu SWAT qua cửa sau văn phòng mà không ai hay biết. Có rủi ro để lấy cà phê, nhưng dù sao, {0.SimFirstName} vẫn hoàn thành mà không ai chú ý.
+{0.SimFirstName} cố lén vào phía sau, nhưng bị bắt với vẻ cực kỳ đáng nghi ngờ khi {M0.anh ấy}{F0.cô ấy} bước vào. {0.SimFirstName} bị lôi ra trước sếp, người ban một cảnh báo và một cái lăn mắt đầy khinh thường.
+**Tác Phẩm Âm Nhạc**
+{0.SimFirstName} đã nhận được vàều khiếu nại về ồn từ đồng nghiệp vì đánh nhạc to trong giờ làm việc. {0.SimFirstName} thích nhạc... nhưng cần không bị vướng vào rắc rối. {M0.Anh ấy}{F0.Cô ấy} nên làm gì?
+**Chi cho Tai Nghe**
+**Tăng Âm Lượng!**
+Không nhạc, không vinh quang! {0.SimFirstName} tăng âm lượng lên và thách thức {M0.đồng nghiệp}{F0.đồng nghiệp} của {M0.mình}{F0.mình} phàn nàn. Không ai phàn nàn và thực tế, mọi người tụ tập quanh {0.SimFirstName} và có một bữa tiệc nhảy tự phát.
+{0.SimFirstName} tăng âm nhạc lên và giơ tay hình búa, nhưng một đám đông đồng nghiệp nhanh chóng xuất hiện cùng sếp để kỷ luật {0.SimFirstName} và tắt nhạc. Có gì mà không thử!
+{0.SimFirstName} đầu tư vào một vài chiếc tai nghe tuyệt vời. Không chỉ giữ ồn ra khỏi đồng nghiệp, mà {0.SimFirstName} bây giờ còn có một cái cớ hợp lý để bỏ ngoài tai sếp!
+**Bữa Trưa Miễn Phí**
+{0.SimFirstName} thích bữa trưa miễn phí, ngoại trừ văn phòng không cung cấp. {M0.Anh ấy}{F0.Cô ấy} có thể lấy trộm bữa trưa miễn phí thuộc về người khác mà không bị bắt không?
+**Mượn Bữa Trưa**
+**Dừng Lấy Trộm Bữa Trưa**
+{0.SimFirstName} dừng lấy trộm bữa trưa. Thay vào đó, {M0.anh ấy}{F0.cô ấy} ngồi cạnh người có bữa trưa ngon nhất và nhìn với ánh mắt đáng thương, dẫn đến sự đồng cảm tức thì và một bụng no nhờ được cho một chiếc bánh mì.
+{0.SimFirstName} dừng lấy trộm bữa trưa, nhưng hóa ra {M0.anh ấy}{F0.cô ấy} không phải người duy nhất lấy trộm bữa trưa. Điều tệ hơn, {0.SimFirstName} bị đổ lỗi về vụ trộm VÀ vẫn còn đói!
+{0.SimFirstName} cố "mượn" thức ăn từ một đồng nghiệp, nhưng mọi thứ nhanh chóng tệ đi khi ba đồng nghiệp khác bắt {0.SimFirstName} với {M0.tay}{F0.tay} của {M0.mình}{F0.mình} thực sự trong lọ bánh quy. Sẽ thật khó xử cho {0.SimFirstName} khi làm việc với đội ngũ bây giờ.
+**Điên Với Điện Thoại**
+{0.SimFirstName} rất nghiện trò chơi trên điện thoại di động. Nhưng, {M0.sếp}{F0.sếp} của {M0.anh ấy}{F0.cô ấy} không thích thấy mọi người chơi trong giờ làm việc. {M0.Anh ấy}{F0.Cô ấy} nên làm gì?
+**Chơi Trong Phòng Tắm**
+**Chơi Trong Tủ Đồ**
+{0.SimFirstName} lén đi tới một tủ đồ dự phòng để chơi tất cả khu vườn và thu thập xu của {M0.mình}{F0.mình}. Tủ đồ hoàn hảo về độ ẩm, với mùi ngọt ngào đọng lại của hóa chất lau chùi. {0.SimFirstName} dành một buổi chiều dễ chịu trong sự ấm cúng nhỏ bé của nó.
+{0.SimFirstName} trốn trong tủ đồ để chơi game. Không may, người quét dọn cũng hay đi lại đó. Như là, suốt thời gian. Tình hình nhanh chóng trở nên khó xử và {0.SimFirstName} rụt rè bước ra trong sự nhục nhã.
+{0.SimFirstName} lén đi tới buồng vệ sinh để chơi game di động. {M0.Anh ấy}{F0.Cô ấy} tận hưởng một chút thời gian một mình không bị ngắt quãng và một điểm số cao mới.
+{0.SimFirstName} lén đi tới buồng vệ sinh để chơi game di động. Không may, người bên cạnh {M0.anh ấy}{F0.cô ấy} trong buồng vệ sinh có một trải núi lửa và nó phá hỏng trò chơi di động cho {0.SimFirstName} mãi mãi.
+**Vấn Đề Mạng Xã Hội**
+{0.SimFirstName} có một lượng người theo dõi mạng xã hội ngày càng tăng trưởng kỳ vọng những ý kiến nóng hổi, hài hước liên tục. Nhưng sếp đã để ý rằng nó khiến {0.SimFirstName} mất tập trung vào công việc. {M0.Anh ấy}{F0.Cô ấy} nên làm gì?
+**Thêm Nhiều Ý Kiến Nóng**
+**Làm Mát Mọi Thứ**
+{0.SimFirstName} quyết định bình tĩnh lại với những ý kiến nóng. {M0.Người hâm mộ của Anh ấy}{F0.Người hâm mộ của Cô ấy} không thể đủ và liên tục ping {0.SimFirstName} suốt ngày khiến {0.SimPronounObjective} mất tập trung vào {M0.công việc của mình}{F0.công việc của mình}.
+{0.SimFirstName} quyết định ngừng phàn nàn và bắt đầu mất người theo dõi ngay lập tức. Không có một nền tảng mạng để chia sẻ {M0.quan điểm của mình}{F0.quan điểm của mình}, {0.SimFirstName} cảm thấy lạc lõng và không có trọng tâm.
+Những yêu cầu từ cư dân mạng xã hội quá nhiều và {0.SimFirstName} mạnh mẽ với không một, không hai, mà là ba ý kiến nóng. Lượng người theo dõi của {0.SimFirstName} bùng nổ và {M0.anh ấy}{F0.cô ấy} kiếm được một đống doanh thu từ quảng cáo!
+{0.SimFirstName} đang viết một ý kiến nóng thực sự thì sếp lén tới và rất tức giận vì {0.SimFirstName} bỏ bê {M0.công việc của mình}{F0.công việc của mình}.
+**Đùa Nhau Hay Không Đùa Nhau?**
+{0.SimFirstName} có cơ hội hoàn hảo để đùa {M0.sếp}{F0.sếp} của {M0.mình}{F0.mình} và nó quá hấp dẫn. {M0.Anh ấy}{F0.Cô ấy} nên thực hiện trò đùa không?
+**Đùa Bậy!**
+**Thể Hiện Sự Kiềm Chế**
+{0.SimFirstName} không thực hiện trò đùa, nhưng cảm thấy tồi tệ vì đã bỏ lỡ một cơ hội tuyệt vời để lừa {M0.sếp}{F0.sếp} của {M0.mình}{F0.mình}. {0.SimFirstName} dành cả ngày còn lại ở công sở với vẻ mặt chán nản.
+{0.SimFirstName} không thể cưỡng lại cơ hội và dán một biển "đá vào đây" vào lưng {M0.sếp}{F0.sếp} của {M0.mình}{F0.mình}. Sếp, vốn tốt bụng như mọi khi, cười với hành động nhưng khiển trách {0.SimFirstName} vì đã làm phân tán văn phòng.
+{0.SimFirstName} dán một biển "đá vào đây" vào lưng {M0.sếp}{F0.sếp} của {M0.mình}{F0.mình} và kết quả là, một đồng nghiệp nhanh chóng đá vào sếp. Dấu vết giấy dẫn đến {0.SimFirstName} và hành động kỷ luật được thực hiện nhanh chóng.
+**Lỡ Deadline!**
+{0.SimFirstName} lại lỡ một deadline nữa và sếp sẽ không vui. {M0.Anh ấy}{F0.Cô ấy} nên làm gì?
+**Đổ Lỗi Cho Đồng Nghiệp**
+**Tạo Sự Phân Tán**
+{0.SimFirstName} châm lửa vào thùng rác của {M0.hàng xóm trong phòng}{F0.hàng xóm trong phòng}, kích hoạt báo động cháy và dàn người ra ngoài. Không ai nhớ rằng {0.SimFirstName} đã lỡ deadline!
+{0.SimFirstName} bắt đầu châm lửa, nhưng bị đồng nghiệp sở hữu thùng rác bắt được. Bây giờ, {0.SimFirstName} phải giải thích cả deadline lỡ và vụ phóng hỏa nhẹ!
+{0.SimFirstName} chỉ vào một ngón tay foam lớn về phía đồng nghiệp gần nhất, người bị bất ngờ bởi cáo buộc. Sếp gọi đồng nghiệp vào văn phòng, cho {0.SimFirstName} đủ thời gian để vội vàng hoàn thành {M0.công việc của mình}{F0.công việc của mình}.
+**Giờ Ăn Trưa!**
+{0.SimFirstName} quên mang bữa trưa tới công sở hôm nay và {M0.anh ấy}{F0.cô ấy} đói. {M0.Anh ấy}{F0.Cô ấy} nên làm gì?
+**Đột Nhập Tủ Lạnh**
+**Nhịn Đói**
+{0.SimFirstName} nhịn ăn, điều này khiến {M0.anh ấy}{F0.cô ấy} cáu kỉnh, uể oải, và {M0.anh ấy}{F0.cô ấy} kết thúc bằng việc dành cả buổi chiều lướt blog ẩm thực, xóa bỏ mọi năng suất cho cả ngày.
+{0.SimFirstName} bay vào và ra khỏi bếp hầu hết buổi chiều để lấy miếng ăn khi không ai nhìn! {M0.Anh ấy}{F0.Cô ấy} không làm được nhiều việc, nhưng ít nhất {M0.anh ấy}{F0.cô ấy} không đói.
+{0.SimFirstName} bị bắt với tay ngập trong tủ lạnh, sandwich pastrami của Bob trong {M0.miệng}{F0.miệng} và khoai tây chiên của Elsa giấu dưới {M0.cổ}{F0.cổ}. Ôi không. {M0.Các đồng nghiệp của Anh ấy}{F0.Các đồng nghiệp của Cô ấy} thực sự tức giận và báo cáo {0.SimPronounObjective} với sếp!
+**Giải Lao Bất Ngờ!**
+Sếp không để ý {0.SimFirstName} và {M0.anh ấy}{F0.cô ấy} có thể lười biếng vài phút. {M0.Anh ấy}{F0.Cô ấy} nên làm gì?
+**Chơi Một Vài Game Online**
+**Lén Đi Ăn Vặt**
+{0.SimFirstName} nhanh chóng nhét vài miếng vào {M0.miệng}{F0.miệng}. Sếp đi ngang qua đúng lúc {M0.anh ấy}{F0.cô ấy} lau vụn bánh khỏi {M0.mặt}{F0.mặt}. May mắn thay, {M0.anh ấy}{F0.cô ấy} không bị bắt!
+{0.SimFirstName} đang đói và bắt đầu đột nhập tủ lạnh chung. {M0.Anh ấy}{F0.Cô ấy} tìm thấy một chiếc sandwich trông ngon và ăn tươi. Ngay khi {M0.anh ấy}{F0.cô ấy} ăn miếng cuối cùng, sếp lang thang vào bếp. Hóa ra đó là sandwich của sếp. Ôi không, {0.SimFirstName} gặp rắc rối lớn!
+{0.SimFirstName} nhanh chóng đăng nhập vào một trang game online và dẫn đội tới chiến thắng. Hóa ra đó là ngày giải đấu và đội của {0.SimFirstName} đã giành giải lớn!
+{0.SimFirstName} nhanh chóng đăng nhập để chơi vài game và bắt đầu nhấp chuột như điên. Không may, ngay khi {M0.anh ấy}{F0.cô ấy} sắp thắng, sếp bắt {M0.anh ấy}{F0.cô ấy} đang lười biếng!
+**Đổi Mới Mạo Hiểm**
+Một nhân viên tới {0.SimFirstName} với ý tưởng họ tuyên bố sẽ tinh giản ống dẫn bán hàng. Nó khá khác biệt so với thông lệ, nhưng có tiềm năng thúc đẩy lợi nhuận nếu lực lượng lao động có thể thích nghi với quy trình mới đủ nhanh.
+**Dùng Ý Tưởng Mới**
+**Giữ Quy Trình Hiện Tại**
+**Biện Pháp Khắc Nghiệt**
+{Sếp của 0.SimFirstName} nói với {M0.anh ấy}{F0.cô ấy} rằng để công ty đạt được mục tiêu tài khóa năm nay, các biện pháp khắc nghiệt sẽ được yêu cầu. {0.SimFirstName} phải quyết định cắt tất cả thưởng năm nay, hoặc đóng cửa một chi nhánh hoạt động kém. Dù cách nào, mọi người sẽ không vui.
+**Cắt Thưởng**
+**Đóng Chi Nhánh**
+**Quỹ Gian Lận**
+{0.SimFirstName} đã nhận thấy một mô hình trong báo cáo chi phí của {M0.quản lý}{F0.quản lý} của {M0.mình}{F0.mình}, và dường như quản lý đang tham ô tiền từ công ty. {0.SimFirstName} có nên báo cáo hay cố ép quản lý chia sẻ lợi nhuận?
+**Báo Cáo Nó**
+**Đe Dọa**
+**Cuộc Gặp Gỡ Trong Thang Máy**
+Trong khi đi thang máy, {0.SimFirstName} nhìn lên khỏi điện thoại của {M0.mình}{F0.mình} để thấy cửa mở và Giám đốc điều hành công ty bước vào. {0.SimFirstName} sẽ nói điều gì để gây ấn tượng hay giữ im lặng?
+**Nói Điều Gì Đó**
+**Giữ Im Lặng**
+**Trò Đùa Văn Phòng**
+{0.SimFirstName} thọc tay vào ngăn kéo bàn để lấy bộ kẹp, chỉ để phát hiện ra ai đó đã nhúng nó trong thạch! {0.SimFirstName} sẽ trả miếng với trò đùa của {M0.mình}{F0.mình} hay bỏ qua và đi tìm một bộ kẹp khác?
+**Trả Miếng**
+**Bỏ Qua**

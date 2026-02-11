@@ -1,0 +1,448 @@
+Okay, người dùng yêu cầu dịch một đoạn văn bản từ tiếng Anh sang tiếng Việt, với các lưu ý cụ thể: không dịch các từ "The Sims 4", "Sims", "Sim", "Social Bunny", "EA app", "Gallery"; giữ nguyên thẻ HTML, biến {0.String}, ký tự đặc biệt; và trả về đúng số dòng.
+
+Trước tiên, mình cần xác định phạm vi dịch. Đoạn văn bản khá dài, chia thành nhiều phần: giới thiệu Gallery, màn hình và video, điều khiển thời gian, camera controls, các phím tắt, cheat, phần ngoại hình và tính cách, tóc, mặt & cơ thể, thêm Sim & mối quan hệ, Create a Sim, vật dụng hữu ích, trang trí nhà, xây dựng với Styled Rooms, mua & đặt vật dụng, xây dựng cơ bản, Build Mode, Aspiration, và một số đoạn khác ở cuối.
+
+Mình cần lọc ra các từ không dịch: "Gallery" xuất hiện nhiều lần, phải giữ nguyên. Cũng có "Create a Sim", "Build Mode" – nhưng hướng dẫn nói không dịch "Sims", "Sim", vậy "Create a Sim" có nên giữ nguyên không? Đọc kỹ: "KHÔNG dịch: 'The Sims 4', 'Sims', 'Sim', 'Social Bunny', 'EA app', 'Gallery'". Vậy "Create a Sim" chứa "Sim", nên có thể giữ nguyên cả cụm? Tuy nhiên, trong ngữ cảnh, "Create a Sim" là tên chế độ, nên nên giữ nguyên. Tương tự "Build Mode". Còn "Live Mode" cũng nên giữ vì có "Sim" trong đó? Không, "Live Mode" không chứa từ cấm, nhưng nó là thuật ngữ game, có thể dịch. Nhưng hướng dẫn chỉ cấm dịch các từ cụ thể, nên các chế độ khác như "Live Mode", "Build Mode" có thể dịch? Đọc kỹ: chỉ liệt kê "The Sims 4", "Sims", "Sim", "Social Bunny", "EA app", "Gallery". Vậy "Build Mode" và "Live Mode" không nằm trong danh sách, nên có thể dịch. Tuy nhiên, để nhất quán, có nên giữ nguyên tên chế độ vì đã là thuật ngữ phổ biến? Trong bản dịch tiếng Việt của game, thường giữ nguyên "Chế độ Xây dựng" cho Build Mode, "Chế độ Sống" cho Live Mode. Vậy mình sẽ dịch các chế độ này.
+
+Các thẻ HTML như <b>, <font color='#199C2C'> phải giữ nguyên. Biến {0.String} cũng giữ nguyên. Ký tự đặc biệt như &lt;, &gt; đã được mã hóa, giữ nguyên.
+
+Số dòng: đoạn văn bản có nhiều dấu ngắt dòng \n\n, mình cần đảm bảo dịch xong vẫn giữ số dòng đó, tức là mỗi đoạn được ngăn cách bởi \n\n trong gốc, dịch xong cũng phải có \n\n tương ứng.
+
+Bắt đầu dịch từng phần:
+
+1. Phần Gallery: "The Gallery is an amazing place..." -> "Gallery là một nơi tuyệt vời..." nhưng "Gallery" không dịch, nên: "<b><font color='#199C2C'>Gallery</font></b> là một nơi tuyệt vời..." Vậy giữ nguyên "Gallery" trong thẻ.
+
+Tương tự cho các từ khác trong thẻ, như "share", "download" – đây là từ thông thường, nên dịch: "chia sẻ", "tải xuống". Nhưng chúng nằm trong thẻ <b><font> nên dịch toàn bộ nội dung thẻ, trừ từ cấm. "Gallery" trong thẻ này không phải từ cấm? "Gallery" là từ cấm, nên trong thẻ nếu có "Gallery" thì giữ nguyên. Ở đây: "Gallery button" – "Gallery" giữ nguyên, "button" dịch: "nút Gallery".
+
+Cần lưu ý: "Gallery" là từ cấm, nên mọi lần xuất hiện đều giữ nguyên, kể cả trong cụm "Save to My Library button" – "My Library" không phải từ cấm, nên dịch "Thư viện của tôi"? Tuy nhiên, "My Library" có thể là thuật ngữ, nhưng không nằm trong danh sách cấm, nên có thể dịch. Để đơn giản, dịch sát nghĩa: "nút Lưu vào Thư viện Cá nhân".
+
+Nhưng trong game, "My Library" thường được giữ nguyên hoặc dịch là "Thư viện của tôi". Mình sẽ dịch là "Thư viện của tôi" cho dễ hiểu.
+
+Tiếp tục các phần khác.
+
+Cuối cùng có các đoạn như "Unhappy Infant" – đây có vẻ là tên trạng thái, nên giữ nguyên? "Unhappy Infant" dịch là "Trẻ sơ sinh buồn bã"? Nhưng có thể là tên cụ thể, nên có lẽ nên giữ nguyên. Tuy nhiên, không có hướng dẫn cụ thể, nên mình dịch theo nghĩa.
+
+Về số dòng: gốc có nhiều đoạn ngăn cách bởi \n\n. Mình dịch xong, mỗi đoạn dịch tương ứng với đoạn gốc, giữ nguyên số đoạn. Có thể số dòng sẽ khác do độ dài tiếng Việt, nhưng số đoạn (số lần xuất hiện \n\n) phải giữ nguyên.
+
+Vậy cần đếm số đoạn trong gốc. Gốc bắt đầu từ "The <b><font...>Gallery</font></b> is..." đến cuối là "Unhappy Infant". Có thể chia thành các đoạn nhỏ bởi \n\n. Mình sẽ dịch toàn bộ, sau đó kiểm tra xem có đúng số dòng không? Thực tế, người dùng nói "trả về đúng số dòng", có thể hiểu là số dòng văn bản đầu vào. Nhưng văn bản đầu vào có nhiều dòng do \n\n, nên khi dịch, mình phải đảm bảo xuất ra có cùng số dòng? Tức là nếu đầu vào có 20 dòng (tính cả các dòng trống?), thì đầu ra cũng phải 20 dòng? Có lẽ họ muốn giữ nguyên cấu trúc đoạn, tức là mỗi lần \n\n là một đoạn, và số đoạn phải giữ nguyên.
+
+Để chắc chắn, mình sẽ dịch toàn bộ, giữ nguyên các \n\n như trong gốc. Tức là trong bản dịch, mình cũng dùng \n\n để ngăn cách các đoạn tương ứng.
+
+Bây giờ bắt đầu dịch:
+
+Đoạn 1: Giới thiệu Gallery.
+"The <b><font color='#199C2C'>Gallery</font></b> is an amazing place where you can <b><font color='#199C2C'>share</font></b> your creations, and <b><font color='#199C2C'>download</font></b> creations made by other Players! There are thousands of Households, Lots, and Rooms to discover."
+
+Dịch: "<b><font color='#199C2C'>Gallery</font></b> là một nơi tuyệt vời nơi bạn có thể <b><font color='#199C2C'>chia sẻ</font></b> những tạo phẩm của mình và <b><font color='#199C2C'>tải xuống</font></b> những tạo phẩm do người chơi khác làm ra! Có hàng ngàn Hộ gia đình, Lô đất và Phòng để khám phá."
+
+Nhưng "Households, Lots, Rooms" – "Hộ gia đình, Lô đất, Phòng" có nên dịch? Trong game, đây là thuật ngữ, nhưng không nằm trong danh sách cấm, nên dịch. Tuy nhiên, "Lots" thường dịch là "Lô đất" hoặc "Công trình". Mình dịch sát: "Hộ gia đình, Lô đất và Phòng".
+
+Đoạn 2: "Use the <b><font color='#199C2C'>Gallery button</font></b> to open the Gallery. It’s available in all Game Modes."
+
+Dịch: "Dùng <b><font color='#199C2C'>nút Gallery</font></b> để mở Gallery. Nó có sẵn trong mọi Chế độ chơi."
+
+Ở đây "Gallery" trong "nút Gallery" giữ nguyên vì là từ cấm, nhưng "button" dịch là "nút". "Game Modes" dịch là "Chế độ chơi".
+
+Đoạn 3: "To share one of your own creations, select the <b><font color='#199C2C'>Save Household button</font></b> in Create a Sim or <b><font color='#199C2C'>Save to My Library button</font></b> in Build Mode."
+
+Dịch: "Để chia sẻ một tạo phẩm của bạn, hãy chọn <b><font color='#199C2C'>nút Lưu Hộ gia đình</font></b> trong Create a Sim hoặc <b><font color='#199C2C'>nút Lưu vào Thư viện Cá nhân</font></b> trong Build Mode."
+
+"Create a Sim" và "Build Mode" không phải từ cấm, nhưng là tên chế độ, nên có thể giữ nguyên hoặc dịch. Trước mình dịch "Chế độ Tạo Sim" và "Chế độ Xây dựng". Tuy nhiên, để nhất quán với các nơi khác, có lẽ nên dịch. Nhưng trong đoạn này, nếu dịch "Create a Sim" thành "Chế độ Tạo Sim", thì dài hơn. Mình thấy trong bản gốc, họ viết hoa "Create a Sim" và "Build Mode", nên có thể coi là tên riêng. Mình sẽ dịch: "trong Chế độ Tạo Sim" và "trong Chế độ Xây dựng".
+
+Tuy nhiên, "Create a Sim" thường được dịch là "Tạo Sim". Vậy: "trong Tạo Sim" hoặc "trong Chế độ Tạo Sim". Mình chọn "trong Chế độ Tạo Sim" cho rõ ràng.
+
+Đoạn 4: "This will open a window in which you can enter a description of your creation and either <b><font color='#199C2C'>Save to My Library</font></b> or <b><font color='#199C2C'>Share to the Gallery</font></b>."
+
+Dịch: "Điều này sẽ mở một cửa sổ cho phép bạn nhập mô tả cho tạo phẩm và lựa chọn <b><font color='#199C2C'>Lưu vào Thư viện Cá nhân</font></b> hoặc <b><font color='#199C2C'>Chia sẻ lên Gallery</font></b>."
+
+Ở đây "Share to the Gallery" – "Gallery" giữ nguyên, "Share" dịch.
+
+Đoạn 5: "In the <b><font color='#199C2C'>Gallery tab</font></b> you can browse through all <b><font color='#199C2C'>uploaded creations</font></b>. Use the <b><font color='#199C2C'>filters</font></b> to the left and the <b><font color='#199C2C'>search bar</font></b> at the top to help you find what you’re looking for."
+
+Dịch: "Trong <b><font color='#199C2C'>tab Gallery</font></b>, bạn có thể duyệt qua tất cả <b><font color='#199C2C'>các tạo phẩm đã tải lên</font></b>. Dùng các <b><font color='#199C2C'>bộ lọc</font></b> bên trái và <b><font color='#199C2C'>thanh tìm kiếm</font></b> ở trên cùng để giúp bạn tìm thấy những gì bạn muốn."
+
+"tab" dịch là "tab" hay "thẻ"? Trong giao diện, thường gọi là "thẻ". Mình dịch "thẻ Gallery".
+
+Đoạn 6: "Once you’ve found something you like, you can add it to your game with the <b><font color='#199C2C'>Place button</font></b> or save it for later with the <b><font color='#199C2C'>Save to My Library button</font></b>!"
+
+Dịch: "Khi đã tìm thấy thứ bạn thích, bạn có thể thêm nó vào game bằng <b><font color='#199C2C'>nút Đặt</font></b> hoặc lưu lại sau bằng <b><font color='#199C2C'>nút Lưu vào Thư viện Cá nhân</font></b>!"
+
+"Place button" dịch là "nút Đặt" hoặc "nút Đặt chỗ". Trong ngữ cảnh, là đặt vật dụng hoặc hộ gia đình vào thế giới, nên "nút Đặt" là đủ.
+
+Đoạn 7: "Screenshots & Videos" – đây là tiêu đề, nên giữ nguyên? Không phải từ cấm, nên dịch: "Ảnh chụp màn hình & Video".
+
+Nhưng trong gốc viết hoa, có thể giữ nguyên. Mình dịch: "Ảnh chụp màn hình & Video".
+
+Tiếp theo: "Capture your best (or worst) Sims moments with <b><font color='#199C2C'>screenshots</font></b> and <b><font color='#199C2C'>videos</font></b>! In Live Mode, in the <b><font color='#199C2C'>Camera Options</font></b>, you can access buttons to take a screenshot, start and stop recording a video, and open the Screenshot Capture Manager."
+
+Dịch: "Ghi lại những khoảnh khắc tốt nhất (hoặc tệ nhất) của Sim với <b><font color='#199C2C'>ảnh chụp màn hình</font></b> và <b><font color='#199C2C'>video</font></b>! Trong Chế độ Sống, trong <b><font color='#199C2C'>Tùy chọn Máy ảnh</font></b>, bạn có thể truy cập các nút để chụp ảnh, bắt đầu và dừng ghi video, và mở Trình quản lý Chụp ảnh."
+
+"Live Mode" dịch là "Chế độ Sống". "Camera Options" dịch là "Tùy chọn Máy ảnh". "Screenshot Capture Manager" dịch là "Trình quản lý Chụp ảnh".
+
+Đoạn tiếp: "You can also take screenshots with the <b><font color='#199C2C'>[C]</font></b> key and record videos with the <b><font color='#199C2C'>[V]</font></b> key on your keyboard. These shortcuts allow you to take screenshots in Create a Sim, and take screenshots and videos in Build Mode."
+
+Dịch: "Bạn cũng có thể chụp ảnh bằng phím <b><font color='#199C2C'>[C]</font></b> và ghi video bằng phím <b><font color='#199C2C'>[V]</font></b> trên bàn phím. Các phím tắt này cho phép bạn chụp ảnh trong Chế độ Tạo Sim, và chụp ảnh cùng ghi video trong Chế độ Xây dựng."
+
+Giữ nguyên [C], [V].
+
+Đoạn: "Check out the <b><font color='#199C2C'>Camera Control Lessons</font></b> to learn more about how to control the Game Camera so you can line up the perfect shot!"
+
+Dịch: "Hãy xem <b><font color='#199C2C'>Bài học Điều khiển Máy ảnh</font></b> để tìm hiểu thêm về cách điều khiển Máy ảnh trò chơi để bạn có thể tạo ra khung hình hoàn hảo!"
+
+"In the <b><font color='#199C2C'>Screenshot Capture Manager</font></b>, you can delete and add descriptions to screenshots."
+
+Dịch: "Trong <b><font color='#199C2C'>Trình quản lý Chụp ảnh</font></b>, bạn có thể xóa và thêm mô tả cho các ảnh chụp."
+
+"You can also access your screenshots and videos in a <b><font color='#199C2C'>folder</font></b> on your computer. It’s located at Documents > Electronic Arts > The Sims 4 > Screenshots, or Recorded Videos."
+
+Dịch: "Bạn cũng có thể truy cập ảnh chụp và video của mình trong một <b><font color='#199C2C'>thư mục</font></b> trên máy tính. Nó nằm ở Tài liệu > Electronic Arts > The Sims 4 > Screenshots, hoặc Recorded Videos."
+
+Ở đây "The Sims 4" không dịch, giữ nguyên. "Screenshots" và "Recorded Videos" – "Screenshots" dịch là "Ảnh chụp" nhưng trong đường dẫn, có lẽ nên giữ nguyên? Tuy nhiên, người dùng nói không dịch "The Sims 4", nhưng "Screenshots" không phải từ cấm. Trong game, thư mục thường tên là "Screenshots", nên có thể giữ nguyên. Mình dịch: "Ảnh chụp" và "Video đã ghi"? Nhưng trong đường dẫn, nó là tên thư mục, nên nên giữ nguyên tiếng Anh? Để an toàn, mình dịch sát: "thư mục Ảnh chụp hoặc Video đã ghi". Tuy nhiên, trong bản gốc viết "Screenshots, or Recorded Videos", có thể hiểu là hai thư mục riêng. Mình dịch: "thư mục Ảnh chụp, hoặc Video đã ghi."
+
+Nhưng "Recorded Videos" có thể dịch là "Video đã ghi". Vậy: "nó nằm ở Tài liệu > Electronic Arts > The Sims 4 > Ảnh chụp, hoặc Video đã ghi."
+
+Tiếp theo phần Time: "<b><font color='#199C2C'>Time</font></b> goes by, hour by hour, day by day. But in <b><font color='#199C2C'>Live Mode</font></b>, <i>you</i> have the power to <b><font color='#199C2C'>control</font></b> it!"
+
+Dịch: "<b><font color='#199C2C'>Thời gian</font></b> trôi qua, giờ qua giờ, ngày qua ngày. Nhưng trong <b><font color='#199C2C'>Chế độ Sống</font></b>, <i>bạn</i> có quyền <b><font color='#199C2C'>kiểm soát</font></b> nó!"
+
+"control" dịch là "kiểm soát" hoặc "điều khiển". Mình dùng "kiểm soát".
+
+"At the bottom of the screen you can see the<b><font color='#199C2C'> current day</font></b> and <b><font color='#199C2C'>time</font></b>, and access the <b><font color='#199C2C'>time control buttons</font></b> (Pause, Normal Speed, Fast Speed, and Ultra Speed). You can also use the [0], [1], [2], and [3] keys on your keyboard."
+
+Dịch: "Ở dưới cùng màn hình, bạn có thể thấy <b><font color='#199C2C'>ngày hiện tại</font></b> và <b><font color='#199C2C'>thời gian</font></b>, và truy cập các <b><font color='#199C2C'>nút điều khiển thời gian</font></b> (Tạm dừng, Tốc độ Bình thường, Tốc độ Nhanh và Tốc độ Cực nhanh). Bạn cũng có thể dùng các phím [0], [1], [2] và [3] trên bàn phím."
+
+"When all the Sims on the Lot are <b><font color='#199C2C'>asleep</font></b> and you go to Ultra Speed, time goes by even faster!"
+
+Dịch: "Khi tất cả các Sim trên Lô đất đều <b><font color='#199C2C'>đang ngủ</font></b> và bạn chọn Tốc độ Cực nhanh, thời gian trôi nhanh hơn nữa!"
+
+"asleep" dịch là "đang ngủ".
+
+Camera Controls: "Camera Controls (Build & Live Mode)" -> "Điều khiển Máy ảnh (Chế độ Xây dựng & Chế độ Sống)"
+
+"<b><font color='#199C2C'>Live Mode</font></b> also has a secret <b><font color='#199C2C'>First Person Camera</font></b>! Hold down [Shift] and press [Tab] on the keyboard to toggle it."
+
+Dịch: "<b><font color='#199C2C'>Chế độ Sống</font></b> cũng có một <b><font color='#199C2C'>Máy ảnh Góc nhìn thứ nhất</font></b> bí mật! Giữ [Shift] và nhấn [Tab] trên bàn phím để chuyển đổi nó."
+
+"Left click with the mouse as usual to interact with the world around you. You can right click through walls to move to the other side."
+
+Dịch: "Nhấn chuột trái như thường lệ để tương tác với thế giới xung quanh. Bạn có thể nhấn chuột phải xuyên tường để di chuyển sang phía bên kia."
+
+"To <b><font color='#199C2C'>pan</font></b> (move around) the camera, hold the scroll wheel (TS4 Camera) or the right mouse button (TS3 Camera) and move the mouse, or use the arrows or [W], [A], [S], and [D] keys on the keyboard."
+
+Dịch: "Để <b><font color='#199C2C'>dịch chuyển</font></b> (di chuyển quanh) máy ảnh, giữ con lăn chuột (Máy ảnh TS4) hoặc nút chuột phải (Máy ảnh TS3) và di chuyển chuột, hoặc dùng các mũi tên hoặc phím [W], [A], [S] và [D] trên bàn phím."
+
+"pan" dịch là "dịch chuyển" hoặc "quay". Trong ngữ cảnh máy ảnh, thường gọi là "dịch chuyển".
+
+"To <b><font color='#199C2C'>rotate</font></b> the camera, hold the right mouse button (TS4 Camera) or the scroll wheel (TS3 camera) and move the mouse. You can only tilt the camera vertically with the Sims 3 Camera Style."
+
+Dịch: "Để <b><font color='#199C2C'>xoay</font></b> máy ảnh, giữ nút chuột phải (Máy ảnh TS4) hoặc con lăn chuột (Máy ảnh TS3) và di chuyển chuột. Bạn chỉ có thể nghiêng máy ảnh theo chiều dọc với Kiểu Máy ảnh Sims 3."
+
+"rotate" dịch là "xoay". "tilt" dịch là "nghiêng".
+
+"<b><font color='#199C2C'>Zoom in and out</font></b> using the mouse scroll wheel or the [+] and [-] keys on the keyboard."
+
+Dịch: "<b><font color='#199C2C'>Phóng to và thu nhỏ</font></b> bằng con lăn chuột hoặc các phím [+] và [-] trên bàn phím."
+
+"The <b><font color='#199C2C'>Free Cam</font></b> in <b><font color='#199C2C'>Live Mode</font></b> is great for taking screenshots and videos. Toggle it with the [Tab] key on the keyboard."
+
+Dịch: "<b><font color='#199C2C'>Free Cam</font></b> trong <b><font color='#199C2C'>Chế độ Sống</font></b> rất tốt để chụp ảnh và quay video. Bật/tắt nó bằng phím [Tab] trên bàn phím."
+
+"Free Cam" có thể dịch là "Máy ảnh Tự do" hoặc giữ nguyên. Mình dịch "Free Cam" là "Máy ảnh Tự do".
+
+"Move the mouse and then use the [W], [A], [S], [D], [Q], and [E] keys on the keyboard to <b><font color='#199C2C'>position the Camera</font></b>, and use the scroll wheel to <b><font color='#199C2C'>zoom in and out</font></b>."
+
+Dịch: "Di chuyển chuột rồi dùng các phím [W], [A], [S], [D], [Q] và [E] trên bàn phím để <b><font color='#199C2C'>định vị Máy ảnh</font></b>, và dùng con lăn chuột để <b><font color='#199C2C'>phóng to và thu nhỏ</font></b>."
+
+"To <b><font color='#199C2C'>move between floors</font></b>, use the Go Up to Next Floor and Go Down to Lower Floor buttons, or use the [Page Up] and [Page Down] keys on the keyboard."
+
+Dịch: "Để <b><font color='#199C2C'>di chuyển giữa các tầng</font></b>, dùng các nút Đi lên Tầng tiếp theo và Đi xuống Tầng dưới, hoặc dùng các phím [Page Up] và [Page Down] trên bàn phím."
+
+"To <b><font color='#199C2C'>hide or show the walls</font></b>, use the Walls View button or the [Home] and [End] keys on the keyboard to rotate between the settings."
+
+Dịch: "Để <b><font color='#199C2C'>ẩn hoặc hiện tường</font></b>, dùng nút Walls View hoặc các phím [Home] và [End] trên bàn phím để chuyển đổi giữa các thiết lập."
+
+"In <b><font color='#199C2C'>Build Mode</font></b> there’s a <b><font color='#199C2C'>top-down Camera angle</font></b> you can toggle with the Top Down View button or the [T] key on the keyboard."
+
+Dịch: "Trong <b><font color='#199C2C'>Chế độ Xây dựng</font></b> có một <b><font color='#199C2C'>góc máy ảnh từ trên xuống</font></b> mà bạn có thể bật/tắt bằng nút Top Down View hoặc phím [T] trên bàn phím."
+
+"The game has three different <b><font color='#199C2C'>Camera Styles</font></b>: The default <b><font color='#199C2C'>The Sims 4 Camera</font></b>, <b><font color='#199C2C'>The Sims 3 Camera</font></b>, and <b><font color='#199C2C'>Free Camera</font></b>."
+
+Dịch: "Trò chơi có ba <b><font color='#199C2C'>Kiểu Máy ảnh</font></b> khác nhau: <b><font color='#199C2C'>Máy ảnh The Sims 4</font></b> mặc định, <b><font color='#199C2C'>Máy ảnh The Sims 3</font></b>, và <b><font color='#199C2C'>Máy ảnh Tự do</font></b>."
+
+"The Sims 4" và "The Sims 3" không dịch, giữ nguyên.
+
+"You can change the Camera Style in the <b><font color='#199C2C'>Camera Controls menu</font></b>, or the <b><font color='#199C2C'>Game Camera</font></b> section of the <b><font color='#199C2C'>Game Options</font></b> (in The Sims 3 Camera, you also can invert the camera rotation)."
+
+Dịch: "Bạn có thể thay đổi Kiểu Máy ảnh trong <b><font color='#199C2C'>trình đơn Điều khiển Máy ảnh</font></b>, hoặc phần <b><font color='#199C2C'>Máy ảnh Trò chơi</font></b> của <b><font color='#199C2C'>Tùy chọn Trò chơi</font></b> (trong Máy ảnh The Sims 3, bạn cũng có thể đảo ngược sự xoay máy ảnh)."
+
+"Controls" -> "Điều khiển"
+
+"How does one move the <b><font color='#199C2C'>game camera</font></b>, take <b><font color='#199C2C'>screenshots and videos</font></b>, and <b><font color='#199C2C'>control <i>time itself</i></font></b>? Look no further, you’ll find all the answers in the Lessons below!"
+
+Dịch: "Làm thế nào để di chuyển <b><font color='#199C2C'>máy ảnh trò chơi</font></b>, chụp <b><font color='#199C2C'>ảnh chụp màn hình và video</font></b>, và <b><font color='#199C2C'>kiểm soát chính <i>thời gian</i></font></b>? Đừng tìm nữa, bạn sẽ tìm thấy tất cả câu trả lời trong các Bài học bên dưới!"
+
+"Cheats" -> "Mẹo chơi" hoặc "Cheat". Trong game, thường gọi là "Mẹo" hoặc "Cheat". Mình dịch "Mẹo chơi".
+
+"A great Build Mode cheat is <b><font color='#199C2C'>bb.moveObjects on</font></b>. This allows you to place items in locations that would otherwise be <b><font color='#199C2C'>invalid</font></b>! Be aware that some Objects might not work as intended when placed at an invalid location, but it works great for things like lush gardens and cluttered corners."
+
+Dịch: "Một mẹo Build Mode tuyệt vời là <b><font color='#199C2C'>bb.moveObjects on</font></b>. Điều này cho phép bạn đặt vật thể ở những vị trí mà thường là <b><font color='#199C2C'>không hợp lệ</font></b>! Lưu ý rằng một số Vật thể có thể không hoạt động như mong muốn khi đặt ở vị trí không hợp lệ, nhưng nó rất tốt cho những thứ như khu vườn xanh tốt và góc phòng bừa bộn."
+
+"invalid" dịch là "không hợp lệ".
+
+"<b><font color='#199C2C'>bb.ignoreGameplayUnlocksEntitlement</font></b> can be used to unlock otherwise locked Objects in the Build catalog, such as Career rewards."
+
+Dịch: "<b><font color='#199C2C'>bb.ignoreGameplayUnlocksEntitlement</font></b> có thể dùng để mở khóa các Vật thể bị khóa trong danh mục Xây dựng, như phần thưởng Sự nghiệp."
+
+"Who said you had to work hard to make <b><font color='#199C2C'>money</font></b>? Just use the following cheat codes in the console:"
+
+Dịch: "Ai nói bạn phải làm việc chăm chỉ để kiếm <b><font color='#199C2C'>tiền</font></b>? Chỉ cần dùng các mã cheat sau trong console:"
+
+"money" dịch là "tiền", nhưng trong game là Simoleons, nên có thể giữ nguyên "tiền".
+
+"<b><font color='#199C2C'>motherlode</font></b> gives the Household 50,000 Simoleons."
+
+Dịch: "<b><font color='#199C2C'>motherlode</font></b> tặng Hộ gia đình 50.000 Simoleon."
+
+"Simoleons" giữ nguyên? Trong bản dịch tiếng Việt, thường dịch là "Simoleon" hoặc giữ nguyên. Mình dịch là "Simoleon" (vì là đơn vị tiền tệ).
+
+"<b><font color='#199C2C'>kaching</font></b> gives the Household 1,000 Simoleons."
+
+Dịch: "<b><font color='#199C2C'>kaching</font></b> tặng Hộ gia đình 1.000 Simoleon."
+
+"<b><font color='#199C2C'>FreeRealEstate on</font></b> can be activated in the World Map to make all houses cost 0 Simoleons."
+
+Dịch: "<b><font color='#199C2C'>FreeRealEstate on</font></b> có thể kích hoạt trong Bản đồ Thế giới để làm cho tất cả nhà có giá 0 Simoleon."
+
+"Bend the rules a little and try some <b><font color='#199C2C'>cheats</font></b>! Cheating is not a bad thing if it makes your experience more fun."
+
+Dịch: "Hãy làm lệch quy tắc một chút và thử một số <b><font color='#199C2C'>mẹo</font></b>! Gian lận không phải là điều xấu nếu nó làm trải nghiệm của bạn vui hơn."
+
+"To toggle the <b><font color='#199C2C'>cheat console</font></b>, press <b><font color='#199C2C'>[Ctrl] + [Shift] + [C]</font></b> on your keyboard. Then, write a <b><font color='#199C2C'>cheat code</font></b> in the console and press <b><font color='#199C2C'>[Enter]</font></b> to activate it."
+
+Dịch: "Để bật/tắt <b><font color='#199C2C'>console cheat</font></b>, nhấn <b><font color='#199C2C'>[Ctrl] + [Shift] + [C]</font></b> trên bàn phím. Sau đó, viết một <b><font color='#199C2C'>mã cheat</font></b> vào console và nhấn <b><font color='#199C2C'>[Enter]</font></b> để kích hoạt nó."
+
+"<b><font color='#199C2C'>testingcheats on</font></b> is a very special cheat code that unlocks more <b><font color='#199C2C'>advanced</font></b> cheats."
+
+Dịch: "<b><font color='#199C2C'>testingcheats on</font></b> là một mã cheat rất đặc biệt mở khóa các mẹo <b><font color='#199C2C'>nâng cao</font></b> hơn."
+
+"For example, after using this cheat code, you can use <b><font color='#199C2C'>Sims.fill_all_commodities</font></b> cheat code to fill the Needs of all the Sims in the Household."
+
+Dịch: "Ví dụ, sau khi dùng mã cheat này, bạn có thể dùng mã cheat <b><font color='#199C2C'>Sims.fill_all_commodities</font></b> để đầy Nhu cầu của tất cả Sim trong Hộ gia đình."
+
+"You can also hold down the <b><font color='#199C2C'>[Shift]</font></b> key on the keyboard while <b><font color='#199C2C'>clicking</font></b> a Sim, select <b><font color='#199C2C'>Cheat Need…</font></b>, and then select <b><font color='#199C2C'>Make Happy</font></b> to max out all Needs, or disable Needs decay entirely by selecting <b><font color='#199C2C'>Disable Need Decay</font></b>."
+
+Dịch: "Bạn cũng có thể giữ phím <b><font color='#199C2C'>[Shift]</font></b> trên bàn phím khi <b><font color='#199C2C'>nhấp</font></b> vào một Sim, chọn <b><font color='#199C2C'>Cheat Need…</font></b>, rồi chọn <b><font color='#199C2C'>Make Happy</font></b> để đẩy tất cả Nhu cầu lên tối đa, hoặc tắt hoàn toàn sự suy giảm Nhu cầu bằng cách chọn <b><font color='#199C2C'>Disable Need Decay</font></b>."
+
+"Identity & Personality" -> "Danh tính & Tính cách"
+
+"Outfits" -> "Trang phục"
+
+"You can also browse the <b><font color='#199C2C'>Styled Looks</font></b> library for Outfits! Use them as they are, or as a starting point for your own styling."
+
+Dịch: "Bạn cũng có thể duyệt thư viện <b><font color='#199C2C'>Styled Looks</font></b> để tìm Trang phục! Dùng chúng như vậy, hoặc làm điểm khởi đầu cho phong cách của bạn."
+
+"Styled Looks" có thể dịch là "Phong cách có phối" nhưng có lẽ giữ nguyên vì là tên tính năng.
+
+"Swap between Styled Looks with the <b><font color='#199C2C'>arrows</font></b> at the bottom of the menu. Each Styled Look comes in several <b><font color='#199C2C'>colors</font></b> to choose from."
+
+Dịch: "Chuyển đổi giữa các Styled Look bằng các <b><font color='#199C2C'>mũi tên</font></b> ở dưới cùng menu. Mỗi Styled Look có nhiều <b><font color='#199C2C'>màu sắc</font></b> để lựa chọn."
+
+"The most important part of an outfit is the <b><font color='#199C2C'>Clothes</font></b>! Or the lack thereof. Select your Sim’s body to try some on!"
+
+Dịch: "Phần quan trọng nhất của một trang phục là <b><font color='#199C2C'>Quần áo</font></b>! Hoặc sự thiếu vắng chúng. Chọn cơ thể Sim của bạn để thử vài món!"
+
+"Your Sim can either wear a top and a bottom piece, or a full body piece. To browse each category, select the <b><font color='#199C2C'>Tops</font></b>, <b><font color='#199C2C'>Bottoms</font></b>, or <b><font color='#199C2C'>Full Body</font></b> buttons."
+
+Dịch: "Sim của bạn có thể mặc một phần áo trên và áo dưới, hoặc một phần toàn thân. Để duyệt từng danh mục, chọn các nút <b><font color='#199C2C'>Áo trên</font></b>, <b><font color='#199C2C'>Áo dưới</font></b>, hoặc <b><font color='#199C2C'>Toàn thân</font></b>."
+
+"To further <b><font color='#199C2C'>style</font></b> your outfits, you can add makeup, nail polish, jewelry, glasses, shoes, hats, gloves, socks, and leggings!"
+
+Dịch: "Để <b><font color='#199C2C'>phối</font></b> thêm trang phục, bạn có thể thêm makeup, sơn móng tay, trang sức, kính, giày, mũ, găng tay, tất và leggings!"
+
+"Select your Sim’s head to reveal the <b><font color='#199C2C'>Hat</font></b>, head <b><font color='#199C2C'>Accessories</font></b>, and <b><font color='#199C2C'>Makeup</font></b> categories."
+
+Dịch: "Chọn đầu Sim của bạn để hiển thị các danh mục <b><font color='#199C2C'>Mũ</font></b>, <b><font color='#199C2C'>Phụ kiện đầu</font></b> và <b><font color='#199C2C'>Makeup</font></b>."
+
+"You can access the <b><font color='#199C2C'>Shoes</font></b> and body <b><font color='#199C2C'>Accessories</font></b> categories by selecting your Sim’s body."
+
+Dịch: "Bạn có thể truy cập các danh mục <b><font color='#199C2C'>Giày</font></b> và <b><font color='#199C2C'>Phụ kiện cơ thể</font></b> bằng cách chọn cơ thể Sim."
+
+"An <b><font color='#199C2C'>Outfit</font></b> is a combination of clothes, hair, accessories, shoes, hats, and make up. Your Sims have several <b><font color='#199C2C'>Outfit categories</font></b>; Everyday, Formal, Athletic, Sleepwear, Party, Swimwear, Hot Weather, and Cold weather!"
+
+Dịch: "Một <b><font color='#199C2C'>Trang phục</font></b> là sự kết hợp của quần áo, tóc, phụ kiện, giày, mũ và makeup. Sim của bạn có một số <b><font color='#199C2C'>danh mục Trang phục</font></b>; Thường nhật, Trang trọng, Thể thao, Đi ngủ, Tiệc tùng, Đi bơi, Thời tiết nóng và Thời tiết lạnh!"
+
+"<b><font color='#199C2C'>Switch</font></b> between the Outfit categories to create an outfit for every occasion!"
+
+Dịch: "<b><font color='#199C2C'>Chuyển đổi</font></b> giữa các danh mục Trang phục để tạo trang phục cho mọi dịp!"
+
+"A Sim’s <b><font color='#199C2C'>Aspiration</font></b> is what they aspire to be, do, and experience! Your Sim will get optional <b><font color='#199C2C'>goals</font></b> based on their Aspiration that can be completed for <b><font color='#199C2C'>rewards</font></b>."
+
+Dịch: "<b><font color='#199C2C'>Kỳ vọng</font></b> của một Sim là những gì họ kỳ vọng trở thành, làm và trải nghiệm! Sim của bạn sẽ nhận được các <b><font color='#199C2C'>mục tiêu</font></b> tùy chọn dựa trên Kỳ vọng của họ, có thể hoàn thành để nhận <b><font color='#199C2C'>phần thưởng</font></b>."
+
+"Pick something that sounds fun! You can always <b><font color='#199C2C'>change</font></b> your Aspiration later if you change your mind."
+
+Dịch: "Hãy chọn một thứ nghe thú vị! Bạn luôn có thể <b><font color='#199C2C'>thay đổi</font></b> Kỳ vọng sau nếu bạn đổi ý."
+
+"To customize your Sim’s <b><font color='#199C2C'>Personality</font></b>, select the <b><font color='#199C2C'>Pick a Trait</font></b> button and pick Traits until all Trait slots are filled."
+
+Dịch: "Để tùy chỉnh <b><font color='#199C2C'>Tính cách</font></b> của Sim, chọn nút <b><font color='#199C2C'>Chọn Đặc điểm</font></b> và chọn các Đặc điểm cho đến khi tất cả ô Đặc điểm được lấp đầy."
+
+"Traits have an <b><font color='#199C2C'>impact</font></b> on everything from Emotions and Skills to Hobbies and Relationships. Hover the cursor over the <b><font color='#199C2C'>Trait icons</font></b> to learn more."
+
+Dịch: "Các Đặc điểm có <b><font color='#199C2C'>tác động</font></b> đến mọi thứ từ Cảm xúc và Kỹ năng đến Sở thích và Mối quan hệ. Di chuột qua các <b><font color='#199C2C'>biểu tượng Đặc điểm</font></b> để tìm hiểu thêm."
+
+"Some <b><font color='#199C2C'>useful Traits</font></b> are Cheerful, Creative, and Flirty. These will help your Sim have <b><font color='#199C2C'>positive Emotions</font></b>!"
+
+Dịch: "Một số <b><font color='#199C2C'>Đặc điểm hữu ích</font></b> là Vui vẻ, Sáng tạo và Thích tán tỉnh. Chúng sẽ giúp Sim của bạn có <b><font color='#199C2C'>Cảm xúc tích cực</font></b>!"
+
+"Who is your Sim? You can customize their <b><font color='#199C2C'>name</font></b>, <b><font color='#199C2C'>age</font></b>, <b><font color='#199C2C'>gender</font></b>, and more in the <b><font color='#199C2C'>Identity panel</font></b>."
+
+Dịch: "Sim của bạn là ai? Bạn có thể tùy chỉnh <b><font color='#199C2C'>tên</font></b>, <b><font color='#199C2C'>tuổi</font></b>, <b><font color='#199C2C'>giới tính</font></b> và hơn nữa trong <b><font color='#199C2C'>bảng Danh tính</font></b>."
+
+"You can open and close the identity panel with the <b><font color='#199C2C'>Plumbob button</font></b> in the top left corner."
+
+Dịch: "Bạn có thể mở và đóng bảng Danh tính bằng <b><font color='#199C2C'>nút Plumbob</font></b> ở góc trên trái."
+
+"Hair" -> "Tóc"
+
+"You can also change the style and color of your Sim’s <b><font color='#199C2C'>eyebrows</font></b>. Select them to display these options."
+
+Dịch: "Bạn cũng có thể thay đổi kiểu và màu <b><font color='#199C2C'>lông mày</font></b> của Sim. Chọn chúng để hiển thị các tùy chọn này."
+
+"Male Sims can have beards and mustaches. Click their face and then <b><font color='#199C2C'>Facial Hair</font></b> button to try it out!"
+
+Dịch: "Sim nam có thể có râu và ria. Nhấp vào mặt họ rồi nút <b><font color='#199C2C'>Râu mặt</font></b> để thử!"
+
+"Does your Sim have raven locks, beach blond braids, or blue spikes? Customize their <b><font color='#199C2C'>hair</font></b> by clicking it!"
+
+Dịch: "Sim của bạn có mái tóc quạ, bím tóc bạch kim, hay ngọn lửa xanh? Tùy chỉnh <b><font color='#199C2C'>tóc</font></b> của họ bằng cách nhấp vào nó!"
+
+"You can select your Sim’s <b><font color='#199C2C'>hair color</font></b> at the top of the <b><font color='#199C2C'>Hairstyle</font></b> menu, and select a style below."
+
+Dịch: "Bạn có thể chọn <b><font color='#199C2C'>màu tóc</font></b> của Sim ở trên cùng menu <b><font color='#199C2C'>Kiểu tóc</font></b>, và chọn một kiểu phía dưới."
+
+"Face & Body" -> "Mặt & Cơ thể"
+
+"To customize your Sim’s <b><font color='#199C2C'>Skin Tone</font></b>, select their body, then the <b><font color='#199C2C'>Body</font></b> button, and then <b><font color='#199C2C'>Skin Tones</font></b>."
+
+Dịch: "Để tùy chỉnh <b><font color='#199C2C'>Màu da</font></b> của Sim, chọn cơ thể họ, rồi nút <b><font color='#199C2C'>Cơ thể</font></b>, và sau đó <b><font color='#199C2C'>Màu da</font></b>."
+
+"There’s a wide range of tones to choose from!"
+
+Dịch: "Có nhiều sắc thái để lựa chọn!"
+
+"Select your Sim’s <b><font color='#199C2C'>face</font></b> to customize it! You can either <b><font color='#199C2C'>Click and Drag</font></b> a part of the face to sculpt it, or click a part of the face and choose a <b><font color='#199C2C'>Preset</font></b> in the menu on the right."
+
+Dịch: "Chọn <b><font color='#199C2C'>mặt</font></b> của Sim để tùy chỉnh nó! Bạn có thể <b><font color='#199C2C'>Nhấp và Kéo</font></b> một phần mặt để điêu khắc nó, hoặc nhấp vào một phần mặt và chọn một <b><font color='#199C2C'>Cài đặt có sẵn</font></b> trong menu bên phải."
+
+"If you select the eyes, you can also change <b><font color='#199C2C'>eye color</font></b>."
+
+Dịch: "Nếu bạn chọn mắt, bạn cũng có thể thay đổi <b><font color='#199C2C'>màu mắt</font></b>."
+
+"Your Sim’s <b><font color='#199C2C'>body shape</font></b> can be adjusted with the <b><font color='#199C2C'>Muscle</font></b> and <b><font color='#199C2C'>Fat sliders</font></b> to the left of your Sim."
+
+Dịch: "Hình dạng <b><font color='#199C2C'>cơ thể</font></b> của Sim có thể được điều chỉnh bằng các thanh trượt <b><font color='#199C2C'>Cơ bắp</font></b> và <b><font color='#199C2C'>Mỡ</font></b> ở bên trái Sim."
+
+"In the <b><font color='#199C2C'>Body</font></b> menu you can also open the <b><font color='#199C2C'>Bodies</font></b> catalog to choose from a list of body type <b><font color='#199C2C'>Presets</font></b>."
+
+Dịch: "Trong menu <b><font color='#199C2C'>Cơ thể</font></b>, bạn cũng có thể mở danh mục <b><font color='#199C2C'>Cơ thể</font></b> để chọn từ danh sách các <b><font color='#199C2C'>Cài đặt có sẵn</font></b> kiểu cơ thể."
+
+"Adding Sims & Relationships" -> "Thêm Sim & Mối quan hệ"
+
+"To create a Sim that looks like one of the existing Sims in the household, you can select<b><font color='#199C2C'> Play with Genetics</font></b>."
+
+Dịch: "Để tạo một Sim trông giống một Sim hiện có trong hộ gia đình, bạn có thể chọn <b><font color='#199C2C'>Chơi với Di truyền</font></b>."
+
+"Select a <b><font color='#199C2C'>starting Sim</font></b> (or Sims), what kind of <b><font color='#199C2C'>relative</font></b> you want to add (Parent, Child, or Sibling), the new Sim’s <b><font color='#199C2C'>age</font></b> and <b><font color='#199C2C'>gender</font></b>, and then hit <b><font color='#199C2C'>Randomize</font></b> until you’re happy! Don’t forget to <b><font color='#199C2C'>Confirm</font></b>."
+
+Dịch: "Chọn một <b><font color='#199C2C'>Sim khởi đầu</font></b> (hoặc các Sim), loại <b><font color='#199C2C'>họ hàng</font></b> bạn muốn thêm (Cha mẹ, Con, hoặc Anh chị em), <b><font color='#199C2C'>tuổi</font></b> và <b><font color='#199C2C'>giới tính</font></b> của Sim mới, rồi nhấn <b><font color='#199C2C'>Ngẫu nhiên</font></b> cho đến khi bạn hài lòng! Đừng quên <b><font color='#199C2C'>Xác nhận</font></b>."
+
+"Households can have up to <b><font color='#199C2C'>8 Sims</font></b>! Add more Sims by clicking on the <b><font color='#199C2C'>Add a Sim</font></b> button."
+
+Dịch: "Hộ gia đình có thể có tới <b><font color='#199C2C'>8 Sim</font></b>! Thêm nhiều Sim bằng cách nhấp vào nút <b><font color='#199C2C'>Thêm Sim</font></b>."
+
+"Choose <b><font color='#199C2C'>Add New Sim</font></b> to randomize a new Sim to customize. If you want some help setting up a backstory and personality for your new Sim, select <b><font color='#199C2C'>Add Sim via a Story</font></b>."
+
+Dịch: "Chọn <b><font color='#199C2C'>Thêm Sim Mới</font></b> để ngẫu nhiên hóa một Sim mới để tùy chỉnh. Nếu bạn muốn một số trợ giúp thiết lập câu chuyện quá khứ và tính cách cho Sim mới, chọn <b><font color='#199C2C'>Thêm Sim qua Câu chuyện</font></b>."
+
+"You can set <b><font color='#199C2C'>Relationships</font></b> between the Sims in your household in the <b><font color='#199C2C'>Household Relationships</font></b> menu in the <b><font color='#199C2C'>Identity</font></b> panel."
+
+Dịch: "Bạn có thể thiết lập <b><font color='#199C2C'>Mối quan hệ</font></b> giữa các Sim trong hộ gia đình trong menu <b><font color='#199C2C'>Mối quan hệ Hộ gia đình</font></b> trong bảng <b><font color='#199C2C'>Danh tính</font></b>."
+
+"Create a Sim" -> "Tạo Sim"
+
+"<b><font color='#199C2C'>Create a Sim</font></b> is the game mode in which—you guessed it —<b><font color='#199C2C'>Sims are created</font></b>!"
+
+Dịch: "<b><font color='#199C2C'>Tạo Sim</font></b> là chế độ chơi trong đó—bạn đoán đúng—<b><font color='#199C2C'>các Sim được tạo ra</font></b>!"
+
+"You can <b><font color='#199C2C'>customize</font></b> your Sim’s appearance, identity, personality, relationships, and more! So why not try to recreate yourself and your friends, or make the most unique Sims you can imagine?"
+
+Dịch: "Bạn có thể <b><font color='#199C2C'>tùy chỉnh</font></b> hình dạng, danh tính, tính cách, mối quan hệ của Sim và hơn nữa! Vậy tại sao không thử tái tạo bản thân và bạn bè, hoặc tạo những Sim độc nhất bạn có thể tưởng tượng?"
+
+"Useful Objects" -> "Vật dụng Hữu ích"
+
+"The most <b><font color='#199C2C'>essential</font></b> Objects help you care for your Sim’s <b><font color='#199C2C'>Needs</font></b>. A bed, toilet, shower, fridge, stove, counters, and an entertainment Object such as a TV or bookcase cover the basics!"
+
+Dịch: "Các Vật dụng <b><font color='#199C2C'>thiết yếu</font></b> nhất giúp bạn chăm sóc <b><font color='#199C2C'>Nhu cầu</font></b> của Sim. Một cái giường, toilet, vòi sen, tủ lạnh, bếp, counter, và một Vật dụng giải trí như TV hoặc tủ sách bao gồm những điều cơ bản!"
+
+"counters" dịch là "counter" hay "bàn làm việc"? Trong nhà bếp, thường là "bàn làm việc" hoặc "counter". Mình dịch "bàn làm việc".
+
+"As your Sim makes more money, it’s a good idea to buy more <b><font color='#199C2C'>expensive</font></b> versions of these Objects, as they fill Needs more <b><font color='#199C2C'>effectively</font></b>."
+
+Dịch: "Khi Sim của bạn kiếm được nhiều tiền hơn, tốt hơn nên mua các phiên bản <b><font color='#199C2C'>đắt tiền</font></b> hơn của các Vật dụng này, vì chúng đáp ứng Nhu cầu hiệu quả <b><font color='#199C2C'>hơn</font></b>."
+
+"Objects that help you build <b><font color='#199C2C'>Skills</font></b> are also very useful. You can see which Skills an Object can raise in the Object’s <b><font color='#199C2C'>tooltip</font></b>."
+
+Dịch: "Các Vật dụng giúp bạn xây dựng <b><font color='#199C2C'>Kỹ năng</font></b> cũng rất hữu ích. Bạn có thể thấy Kỹ năng nào một Vật dụng có thể tăng trong <b><font color='#199C2C'>chú thích</font></b> của Vật dụng."
+
+"tooltip" dịch là "chú thích" hoặc "tooltip". Mình dùng "chú thích".
+
+"Some good <b><font color='#199C2C'>examples</font></b> are the chess table (Logic Skill), computer (Programming, Writing, Video Game Skills), mirror (Charisma Skill), instruments (Guitar, Violin, Piano Skills), bar (Mixology Skill), and garden pot (Gardening Skill)."
+
+Dịch: "Một số <b><font color='#199C2C'>ví dụ</font></b> tốt là bàn cờ vua (Kỹ năng Lập luận), máy tính (Kỹ năng Lập trình, Viết, Trò chơi điện tử), gương (Kỹ năng Sức hút), nhạc cụ (Kỹ năng Guitar, Violin, Piano), quầy bar (Kỹ năng Pha chế), và chậu cây (Kỹ năng Trồng trọt)."
+
+"You can find most Skill Objects in the <b><font color='#199C2C'>Activities and Skills</font></b> category if you browse by Function."
+
+Dịch: "Bạn có thể tìm thấy hầu hết Vật dụng Kỹ năng trong danh mục <b><font color='#199C2C'>Hoạt động và Kỹ năng</font></b> nếu bạn duyệt theo Chức năng."
+
+"Here are some other <b><font color='#199C2C'>useful</font></b> Objects!"
+
+Dịch: "Dưới đây là một số Vật dụng <b><font color='#199C2C'>hữu ích</font></b> khác!"
+
+"A <b><font color='#199C2C'>trash can</font></b>, <b><font color='#199C2C'>sink</font></b>, and <b><font color='#199C2C'>fire alarm</font></b> will help your Sims keep their home clean and safe."
+
+Dịch: "Một <b><font color='#199C2C'>thùng rác</font></b>, <b><font color='#199C2C'>bồn rửa</font></b> và <b><font color='#199C2C'>báo cháy</font></b> sẽ giúp Sim của bạn giữ nhà sạch sẽ và an toàn."
+
+"fire alarm" dịch là "còi báo cháy" hoặc "báo cháy". Mình dùng "báo cháy".
+
+"<b><font color='#199C2C'>Dining or Desk Chairs</font></b> are required to use Objects such as Desks and Chess Tables. Make sure the Chair snaps to the Table when you place it!"
+
+Dịch: "<b><font color='#199C2C'>Ghế ăn hoặc Ghế bàn làm việc</font></b> là cần thiết để dùng các Vật dụng như Bàn làm việc và Bàn cờ. Đảm bảo Ghế khớp với Bàn khi bạn đặt nó!"
+
+"snaps to" dịch là "khớp với" hoặc "tự động gắn vào".
+
+"<b><font color='#199C2C'>Lights</font></b> will make it easier to see at night and nice <b><font color='#199C2C'>Decorations</font></b> will give your Sims Happy Moodlets."
+
+Dịch: "<b><font color='#199C2C'>Đèn</font></b> sẽ giúp dễ nhìn hơn vào ban đêm và những <b><font color='#199C2C'>Trang trí</font></b> đẹp sẽ cho Sim của bạn các Moodlet Vui vẻ."
+
+"Moodlets" giữ nguyên? Trong game, thường dịch là "Tâm trạng" hoặc giữ nguyên "Moodlet". Mình dịch "Moodlet Vui vẻ".
+
+"Styling Homes" -> "Trang trí Nhà"
+
+"You can change <b><font color='#199C2C'>color</font></b>, or <b><font color='#199C2C'>swatch</font></b>, on most Objects with the <b><font color='#199C2C'>Design Tool</font></b>. This is totally free!"
+
+Dịch: "Bạn có thể thay đổi <b><font color='#199C2C'>màu sắc</font></b>, hoặc <b><font color='#199C2C'>mẫu</font></b>, trên hầu hết Vật dụng với <b><font color='#199C2C'>Công cụ Thiết kế</font></b>. Điều này hoàn toàn miễn phí!"
+
+"Changing the <b><font color='#199C2C'>Floor</font></b>, <b><font color='#199C2C'>Ceiling</font></b>, and <b><font color='#199C2C'>Wall patterns</font></b> of a room can give it a huge lift for a very small cost!"
+
+Dịch: "Thay đổi <b><font color='#199C2C'>Sàn</font></b>, <b><font color='#199C2C'>Trần</font></b> và <b><font color='#199C2C'>họa tiết Tường</font></b> của một phòng có thể nâng cấp nó rất nhiều với chi phí rất nhỏ!"
+
+"Floor, Ceiling, and Wall patterns can be placed one floor tile or wall at a time, or a whole room at a time by switching the setting above the Pattern categories."
+
+Dịch: "Các họa tiết Sàn, Trần và Tường có thể được đặt một ô sàn hoặc bức tường tại một thời điểm, hoặc một cả phòng tại một thời điểm bằng cách chuyển đổi thiết lập phía trên các danh mục Họa tiết."
+
+"Selecting a pattern while in the Ceiling category will allow you to preview and change your Ceiling."
+
+Dịch: "Chọn một họa tiết khi đang trong danh mục Trần sẽ cho phép bạn xem trước và thay đổi Trần của bạn."
+
+"You can find <b><font color='#199C

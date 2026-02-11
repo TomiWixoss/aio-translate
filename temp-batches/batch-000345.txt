@@ -1,0 +1,111 @@
+Lần Khó Chịu
+Lần Căng Thẳng
+Lần Buồn
+Lần Vui Vẻ
+Lần Cảm Hứng
+Lần Tập Trung
+Lần Thân Mật
+Lần Tràn Đầy Năng Lượng
+Lần Lúng Túng
+Lần Tự Tin
+Lần Chán Nản
+Lần Tức Giận
+Lần Tắm
+Bữa Ăn Được Nấu
+Lệnh "Đi Đến Đây" Được Tuân Theo
+Trận Đấu Thắng
+Cái Chết Được Chứng Kiến
+Lần Đi Vệ Sinh
+Mời một Ma Vào gia đình
+Trở Thành Bạn Bè với một Sim khác bằng cách chỉ đạo Sim của bạn thực hiện các tương tác xã hội Thân Thiện với họ.
+Tạo {1.Number} Bạn Mới {S1.Friend}{P1.Friends}
+Nhấp vào các Sim để thực hiện những hành động tử tế như tương tác xã hội Làm Sáng Ngày, hoặc nhấp vào vật thể và chỉ đạo Sims thực hiện những việc hữu ích như Dọn Dẹp Rác.
+Thực Hiện {1.Number} {S1.Hành Động Tốt}{P1.Hành Động Tốt}
+Làm cho Sim của bạn trở nên Vui Vẻ bằng cách chăm sóc họ và thực hiện những hành động tử tế với các Sim khác.
+Trở Nên Vui Vẻ {1.Number} {S1.Lần}{P1.Lần}
+Nhấp vào các Sim để thực hiện những hành động tử tế như tương tác xã hội Làm Sáng Ngày, hoặc nhấp vào vật thể và chỉ đạo Sims thực hiện những việc hữu ích như Dọn Dẹp Rác.
+Thực Hiện {1.Number} {S1.Hành Động Tốt}{P1.Hành Động Tốt}
+Nhấp vào Người Quen để thực hiện những hành động tử tế như tương tác xã hội Làm Sáng Ngày, hoặc nhấp vào vật thể và chỉ đạo Sims thực hiện những việc hữu ích như Dọn Dẹp Rác.
+Thực Hiện {1.Number} {S1.Hành Động Tốt}{P1.Hành Động Tốt} cho Người Quen
+Tham quan các địa điểm cộng đồng trong khu phố để gặp gỡ các Sim mới!
+Gặp 1 Sim mới
+Nhấp vào các Sim để thực hiện những hành động tử tế như tương tác xã hội Làm Sáng Ngày, hoặc nhấp vào vật thể và chỉ đạo Sims thực hiện những việc hữu ích như Dọn Dẹp Rác.
+Thực Hiện {1.Number} {S1.Hành Động Tốt}{P1.Hành Động Tốt} Tốt
+Trở Thành Bạn Thân với {1.Number} Sim
+Ảnh hưởng đến các Sim trong các hộ gia đình khác bằng cách đưa ra lời khuyên, giúp đỡ với quyết định sự nghiệp và gia đình, và kết nối họ với các Sim khác!
+Thành công tư vấn và ảnh hưởng đến cuộc sống của các Sim khác!
+Thế giới này rất rộng lớn, đầy dẫy những Sim thú vị. Mở rộng và gặp gỡ một số người mới!
+Gặp gỡ các Sim mới
+Đã đến lúc thay đổi cảnh quan. Hãy ra ngoài và đi loanh quanh, bằng cách di chuyển đến một địa điểm mới, như một chuyến đi công viên.
+Đi đến Địa Điểm Cộng Đồng
+Toàn bộ công việc và không có chút nào vui chơi sẽ tạo nên một Sim rất nhàm chán. Sử dụng Điện Thoại để nghỉ một ngày Nghỉ Phép được xứng đáng từ công việc để có một chút thời gian cho bản thân.
+Lấy một Ngày Nghỉ Phép
+Đi Câu Cá trong 1 Giờ
+Thường thường có những việc thú vị để làm bên ngoài nhà của bạn. Câu cá là một ví dụ tuyệt vời và một cách thư giãn để giết thời gian. Tìm một hồ câu cá trong công viên hoặc biển báo câu cá gần nước để thử bắt được gì đó.
+Thăng chức là phần thưởng cho việc làm tốt ở công việc của bạn. Hãy tiếp tục đi làm mỗi ngày và hoàn thành các nhiệm vụ hàng ngày cho đến khi Sim của bạn thăng tiến trong sự nghiệp.
+Đạt được Thăng Chức
+Các Sim có thể học nhiều kỹ năng khác nhau, được hiển thị phía trên đầu khi thực hiện một số tương tác nhất định, như Vẽ, Tập Thể Dục, Nấu Ăn hoặc Viết.
+Cải Thiện một Kỹ Năng
+Công việc có các nhiệm vụ bạn có thể hoàn thành ở nhà để thăng chức nhanh hơn. Hãy xem bảng sự nghiệp để xem Sim của bạn có thể làm gì để tăng hiệu suất công việc.
+Làm Việc về Nhiệm Vụ Sự Nghiệp Hàng Ngày
+Đôi khi các Sim cần khởi động ngày mới. Pha Cà Phê trên Máy Pha Cà Phê để tăng năng lượng.
+Pha Cà Phê
+Một vài Sim không thích một ngôi nhà bừa bộn. Hãy dọn dẹp một chút bằng cách ném rác đi, nhặt chén dĩa, lau chùi bề mặt hoặc lau sàn.
+Dọn Dẹp Nhà Cửa
+Làm việc cả ngày để ít thời gian giao tiếp. Hãy dành thời gian để sạc lại nhu cầu Xã Hội, và trò chuyện với Alex.
+Giao Xã Hội với Alex
+Có một sự nghiệp là một trách nhiệm thường xuyên của các Sim, một trách nhiệm có thể rất giá trị. Hãy đảm bảo rằng các Sim rời nhà đi làm trong giờ trước khi được lên lịch bắt đầu.
+Đi Làm
+Cải thiện các nhu cầu của Sim là một cách tốt để bắt đầu ngày mới. Vì vậy, trước khi đi làm, hãy tắm để khắc phục vấn đề Vệ Sinh thấp và Sử dụng Toilet để giải quyết vấn đề Bàng Quang.
+Chuẩn Bị Đi Làm
+Đi Ngủ Vào Ban Đêm
+Năng lượng rất quan trọng đối với Sim. Nó dần dần suy giảm trong ngày nhưng có thể được bổ sung bằng cách nhấp vào Giường để Ngủ qua đêm.
+Đói là một trong những nhu cầu cốt lõi của Sim và ăn uống thường xuyên sẽ giúp giữ cho họ hạnh phúc. Lấy một Phần từ một bữa ăn đã chuẩn bị, hoặc Nấu Ẩn tại Tủ Lạnh hoặc Lò Nướng.
+Lấy gì đó để Ăn
+Ngôi nhà của bạn có rất nhiều vật thể mà bạn có thể tương tác. Hãy thử xem thứ gì đó trên TV, chơi trên Máy Tính, hoặc nghe trên Đài Stereo để giải trí nhẹ nhàng để giết thời gian.
+Các Sim thích giao tiếp với người khác. Nhấp vào bạn cùng phòng của bạn để xem nhiều loại tương tác từ lời chào ban đầu đến thảo luận về nhiều chủ đề thú vị.
+Làm Quen với Bạn Cùng Phòng
+Tương Tác với Vật Thể Vui Vẻ
+Nhấp vào Tử Thần và chọn tương tác Nói về Bánh Mì Kẹp từ danh mục Xã Hội Thân Thiện.
+Nói Chuyện với Tử Thần về Bánh Mì Kẹp
+Nhấp vào Bếp Lò, chọn Nấu, và chọn công thức Bánh Mì Kẹp từ danh sách.
+Nấu một Chiếc Bánh Mì Kẹp Phẩm Chất Xuất Sắc
+Nhấp vào Tàu Vũ Trụ và chọn tương tác Ăn Bánh Mì Kẹp Trong Không Gian.
+Ăn một Chiếc Bánh Mì Kẹp Trong Không Gian
+Để nấu một phần nhóm, nhấp vào Bếp Lò, chọn Nấu, và chọn công thức bánh mì kẹp cỡ gia đình hoặc tiệc từ danh sách.
+Nấu {1.Number} Phần Nhóm của Bánh Mì Kẹp
+Nhấp vào một Chiếc Bánh Mì Kẹp Phẩm Chất Xuất Sắc và chọn Lấy một phần.
+Ăn {1.Number} Chiếc Bánh Mì Kẹp Phẩm Chất Xuất Sắc
+Nhấp vào một Chiếc Bánh Mì Kẹp và chọn Lấy một phần.
+Ăn {1.Number} Chiếc Bánh Mì Kẹp
+Nhấp vào một Sim và chọn tương tác Xã Hội Nói về Bánh Mì Kẹp từ danh mục Thân Thiện.
+Nói Chuyện với {1.Number} Sim Khác Nhau về Bánh Mì Kẹp
+Sở Hữu một Quán Bar
+Phát tin đồn về một kẻ thù bằng cách nói chuyện với các Sim khác.
+Phát Tin Đồn về một Kẻ Thù
+Ràng buộc một Con Búp Bê Phù Thủy vào một kẻ thù, sau đó sử dụng tương tác Nhúng.
+Nhúng một Kẻ Thù với Con Búp Bê Phù Thủy
+Tìm kẻ thù đã tuyên bố của bạn và chế giễu họ!
+Chế Giễu một Kẻ Thù
+Ràng buộc một Con Búp Bê Phù Thủy vào một kẻ thù, sau đó sử dụng tương tác Chích.
+Chích một kẻ thù với Con Búp Bê Phù Thủy
+Tìm một kẻ thù, đánh nhau, và thắng!
+Thắng một Trận Đấu chống lại một Kẻ Thù
+Sử dụng một tương tác trong danh mục Gây Khó Dễ hoặc Trò Đùa trên một kẻ thù.
+Chơi Khăm một Kẻ Thù
+
+<b><font color='#2182E6'>Sử dụng Điện Thoại hoặc Quản Lý Thế Giới để di chuyển đến các địa điểm khác với Sim này {1.Number} lần.</font></b>
+
+Tôi sẽ đi <i>khắp nơi</i>! Xem <i>tất cả mọi thứ</i>! Tôi sẽ phải rời nhà ít nhất {1.Number} lần để làm được điều đó, nhưng tôi khá chắc chắn rằng sẽ làm được!
+
+"Một người <i>thực sự</i> du lịch đã rời nhà ít nhất {1.Number} lần. Vì vậy tôi sẽ làm điều đó."
+
+<b><font color='#2182E6'>Để {0.SimFirstName} với Đặc điểm Tính Cách Đạo Chích tương tác với {1.Number} Sim khác nhau và chọn để Hào Hứng về Sự Hào Hứng của Khoảng Cách. Mẹo: Điều này có thể được tìm thấy trong Trình Đơn Tương Tác Xã Hội Thân Thiện, sau đó danh mục Sở Thích.</font></b>
+
+Điểm mấu chốt là trở thành tay đạo chích giỏi nhất nếu không ai biết rằng tôi là tay đạo chích giỏi nhất?!
+
+"Tôi cần để mọi người biết tôi là một tay đạo chích như thế nào!"
+
+<b><font color='#2182E6'>Để {0.SimFirstName} với Đặc điểm Tính Cách Đạo Chích di chuyển đến một lô khác. Sau đó tìm một vật thể có thể được Đánh Cắp và chọn Cố Gắng Đánh Cắp. Làm điều này mà không bị bắt {1.Number} lần.</font></b>
+
+Tôi rất tinh tường và rất giỏi về việc đánh cắp! Tôi tự hỏi tôi có thể nhét bao nhiêu vào túi? Có lẽ nhiều hơn bạn nghĩ! Điều này sẽ là một cơn sốc!

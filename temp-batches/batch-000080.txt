@@ -1,0 +1,100 @@
+Bạn không thể rót đồ uống cho đến khi đã đun sôi một ấm đầy nước.
+Đun nước
+Giải toán
+Vẽ tranh phô mai nướng
+Cảm hứng sẽ giúp kỹ năng vẽ tranh!
+Thực hành vẽ tranh
+Không thể làm điều này trong khi đang chụp ảnh.
+(Từ thích vẽ tranh)
+(Từ không thích vẽ tranh)
+Ngắm nhìn ly đầy
+Ngắm nhìn ly rỗng
+Làm tươi đồ uống
+Một ít thứ gì đó sẽ giúp đồ uống của bạn ngon lâu hơn một chút!
+Uống Tinh hoa Cuộc đời của {2.SimFirstName}
+Uống {2.SimFirstName}'s {1.ObjectName}
+Thử quần áo
+Trông đẹp có thể khiến Sim cảm thấy thích tán tỉnh!
+Cởi quần áo
+Thay đồ cho Em bé hay Trẻ nhỏ
+Thay đồ của {2.SimFirstName}
+Thay đồ cho {2.SimFirstName}
+Không gian
+Chim
+Kể chuyện trước khi ngủ về tương lai trị vì
+Đêm sao trời lấp lánh
+Ngủ con ngủ
+Rock-A-Bye Baby
+Hush Little Baby
+Frere Jacques
+Bạn phải nâng cấp Crib với Baby Mobile.
+Chuyển thành Crib
+Chuyển Toddler Bed thành Crib khi bạn cần!
+Tiếp tục Chuyển thành Toddler Bed
+Chuyển thành Toddler Bed
+Nâng cấp hoàn tất!\n\nCrib đã được chuyển thành Toddler Bed!
+Nâng cấp hoàn tất!\n\nToddler Bed đã được chuyển thành Crib!
+Chuyển Crib thành Toddler Bed khi em bé của bạn lớn lên.
+Tiếp tục Thêm Baby Mobile
+Thêm Baby Mobile
+Nâng cấp hoàn tất!\n\nCrib giờ đã có Baby Mobile gắn liền!
+Thêm Electronic Mobile vào Crib để nó quay và phát ru hồ.
+Hôn chúc ngủ
+Dỗ ngủ
+Kể chuyện trước khi ngủ
+Phát nhạc ru
+Mời tham gia
+Trông coi Bàn
+Bổ sung Bàn
+Bàn của bạn đã hết chỗ để chứa những vật phẩm bạn đang cố bổ sung. Hãy thử bổ sung lại sau khi dọn chỗ trống.
+Không có gì để bổ sung từ kho đồ của bàn.
+Mua {1.ObjectName}
+Bàn hiện đang được đánh dấu giá theo phần trăm này.
+Tỷ lệ đánh dấu giá cao hơn sẽ khiến vật phẩm bán đắt hơn, nhưng khách hàng sẽ ít có khả năng mua một món đồ hơn.
+Bắt đầu Sân vườn bán đồ
+{0.SimName} cần phải trông coi bàn để bắt đầu bán.
+Tiếp tục Thực hành vẽ tranh
+Tiếp tục Nấu ăn thử nghiệm
+Tham gia Nấu ăn
+Mời tham gia Nấu ăn
+Dọn dẹp đầy năng lượng
+Sim được tăng Năng lượng dọn dẹp nhanh hơn rất nhiều!
+Mặc Đồ tập Playful
+Mặc Đồ tập Flirty
+Mặc Đồ tập Confident
+(Từ mặc Trang phục)
+Cởi Trang phục
+Ăn một bữa nhanh
+Lấy một đồ uống
+Ăn một bữa nhanh
+Lấy một đồ uống
+{2.String}
+{0.String}
+Không thể mở khi có Sim ngồi ở đây.
+OK
+Hủy
+Thực hành Nấu ăn
+Thực hành Nấu ăn Cao cấp
+Trang trí
+Đây đã là một món ăn ngon. Nó không cần trang trí.
+Ngấu nghiến {1.ObjectName}
+Nuốt chửng {1.ObjectName}
+Không dành cho Robot.
+Ăn {1.ObjectName}
+Viết Thư tình cho {2.SimFirstName}
+{0.SimFirstName} vừa gửi một lá thư tình. Hãy chờ một giờ để có thể gửi lá thư khác.
+Viết Lời giải thích cho {2.SimFirstName}
+Chúng tôi đã nhận được ghi chú của bạn. Hãy nghỉ ngơi hôm nay và chúng tôi sẽ gặp bạn lần sau!
+Viết trò đùa
+Viết Bài báo Tích cực về {2.SimFirstName}
+{0.SimFirstName} đã hoàn thành việc viết bài của {M0.his}{F0.her} về {2.SimName}. {M0.He}{F0.She} đã kiếm được {3.Money} cho nó. Bài báo thực sự làm nổi bật {2.SimFirstName}, vì vậy {M2.he}{F2.she} nên cảm thấy vui về nó.
+Viết Bài báo Tiêu cực về {2.SimFirstName}
+{0.SimFirstName} đã hoàn thành việc viết bài của {M0.his}{F0.her} về {2.SimName}. {M0.He}{F0.She} đã kiếm được {3.Money} cho nó. Với những nhận xét gây tranh cãi, {M0.he}{F0.she} nên chờ đợi một số phản ứng tiêu cực từ {2.SimFirstName}.
+Viết Bài báo
+Tiếp tục Bài báo
+Viết Cột phong cách
+Tiếp tục Cột phong cách
+Viết Báo cáo
+(Từ thích viết)
+(Từ không thích viết)
+Xem Livestream chơi game

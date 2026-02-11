@@ -1,0 +1,99 @@
+{0.SimFirstName} cảm thấy gần gũi với {1.SimFirstName} qua những kỷ niệm vui vẻ và hạnh phúc.
+Tha thiết
+{0.SimFirstName} cảm thấy gần gũi với một thành viên mới trong gia đình, {1.SimFirstName}. Một sự chào đón ấm áp!
+Lòng tin được hàn gắn
+{1.SimFirstName} đã nỗ lực để lấy lại lòng tin của {0.SimFirstName} sau một "sai lầm" và muốn cam kết hoàn toàn với mối quan hệ này.
+{0.SimFirstName} có một mối liên kết mạnh mẽ với {1.SimFirstName}, là nguồn sức mạnh và an ủi.
+Ghen tuông anh chị em
+{0.SimFirstName} chẳng thấy {1.SimFirstName} có gì đặc biệt. Tại sao {1.SimPronounSubjective} lại được chú ý nhiều thế?!
+Oằn oại sau một cuộc cãi vã
+{0.SimFirstName} và {1.SimFirstName} còn có những vấn đề chưa giải quyết. Mâu thuẫn này chưa được hòa giải và căng thẳng vẫn còn, ít nhất là từ góc nhìn của {0.SimFirstName}.
+Hằn thù sau ly dị
+{0.SimFirstName} còn một chút oán hận còn sót lại từ cuộc ly dị của {F0.her}{M0.his}. {0.SimFirstName} có thể không thích ở gần {1.SimFirstName}.
+Đầy cay đắng về cuộc chia tay
+{0.SimFirstName} chưa thể hóa giải hoàn toàn sự oán giận với {1.SimFirstName} về cách mối quan hệ lãng mạn của họ kết thúc. {0.SimFirstName} có thể thấy khó chịu khi ở gần {1.SimFirstName} một thời gian.
+{0.SimFirstName} có một mối hằn thù sâu sắc với {1.SimFirstName}. Thật khó để quên đi hoặc tha thứ cho quá khứ, điều này có thể khiến việc ở gần {1.SimFirstName} trở nên rất khó chịu đối với {0.SimFirstName}.
+Bị phản bội vì ngoại tình
+Sự phản bội đã làm tê liệt cảm xúc của {0.SimFirstName} dành cho {1.SimFirstName}. {0.SimFirstName} có thể thấy rằng việc ở gần {1.SimFirstName} khiến {0.SimPronounObjective} nhớ lại những ký ức tồi tệ về những gì đã xảy ra.
+Trọn vẹn
+Thật hạnh phúc khi đứa bé mới này mang lại cho {0.SimFirstName}!
+Say mê
+{0.SimFirstName} dường như không thể ngừng cười và cười khúc khích mỗi khi ở gần {1.SimFirstName}! Một mối liên kết tuyệt vời!
+Ấn tượng
+{1.SimFirstName} biết rõ {M1.he}{F1.she} đang làm gì và {0.SimFirstName} chỉ có sự kính trọng.
+Mến mộ
+{0.SimFirstName} chỉ muốn điều tốt đẹp nhất cho {1.SimFirstName} và nghĩ rằng {F1.she}{M1.he} thật tuyệt vời!
+Bạn bè trong thời gian mất mát
+{0.SimFirstName} đã hình thành một mối liên kết với {1.SimFirstName} - kiểu mối liên kết chỉ có thể xuất hiện từ nỗi đau sâu sắc trước cái chết.
+Ngưỡng mộ vị anh hùng cứu mạng
+{1.SimFirstName} đã thực sự cứu {0.SimFirstName} khỏi vòng tay của cái chết. {0.SimFirstName} biết ơn và kinh ngạc!
+Mối tình vụng trộm
+{0.SimFirstName} đã phản bội đằng sau lưng {0.SimPronounPossessiveDependent} bạn đời, vượt qua ranh giới với một người đã tin tưởng {0.SimPronounObjective}.
+Giận dữ vì bị nguyền
+Một cuộc trò chuyện đơn giản đã trở nên tồi tệ. Năng lượng nguyền rủa xung quanh Sim này đã xoắn lại lời nói của họ, khiến Sim kia bị tổn thương, xấu hổ và hoàn toàn giận dữ.
+Tán tỉnh trong gia đình
+{0.SimFirstName} không thể tin rằng tình yêu đã được tìm thấy trong ngôi nhà mở rộng an toàn của {0.SimPronounPossessiveDependent}.
+Người yêu trong gia đình
+Số phận đã định rằng {0.SimFirstName} và {1.SimFirstName} bước vào cuộc đời nhau và đơn giản là rơi vào tình yêu. {0.SimFirstName} không thể tin rằng {0.SimPronounSubjective} lại may mắn đến thế!
+Bạn tâm sự về bê bối
+{1.SimFirstName} đã hứa giữ im lặng về hành vi bê bối của {0.SimFirstName}, khiến {0.SimPronounObjective} cảm thấy thoải mái.
+Thật là một gã hề!
+{0.SimFirstName} nghĩ rằng {1.SimFirstName} là Sim hài hước NHẤT MỖI LÚC!
+Đối mặt với kẻ trộm
+Làm sao dám để tên trộm lấy đồ đạc vất vả kiếm được của {0.SimFirstName}!
+Góa phụ/Goá phụ
+Chỉ có vài điều đau thương hơn là khi các vợ chồng bị chia cắt bởi cái chết.
+(Từ Mất Một Tình Yêu Đích Thực)
+{1.SimFirstName} vừa trở thành bạn đời của {0.SimFirstName}.
+(Từ Mối Quan Hệ Mới)
+Đã hứa
+Các Sim này đã hứa sẽ mãi là một cặp đôi.
+(Từ Trao Nhẫn Ước)
+{1.SimFirstName} vừa hứa {M1.himself}{F1.herself} với {0.SimFirstName}!
+Vợ/Chồng
+Bỏ lại ở nhà thờ
+Không có gì hoàn hảo hơn nỗi đau lòng kèm theo sự nhục nhã.
+Người hôn phối bị bỏ lại ở nhà thờ. Có lẽ đó là điều tốt, nhưng khó có thể họ cảm thấy như vậy.
+{0.SimFirstName} vừa Đính ước với {1.SimFirstName}!
+(Từ Đang Ly dị)
+{1.SimFirstName} vừa trở thành một Cựu Đối tượng Bị Oán ghét của {0.SimFirstName}.
+Tình yêu tồi tệ
+Đôi khi bản năng bảo bạn mọi chuyện đều sai. Rồi bạn lại bảo bản năng đó im đi.
+Hoàn toàn trái ngược
+Người này nói "nóng", người kia nói "im đi." Người này nói "đen", người kia nói "cút đi." Thật trái ngược hoàn toàn!
+Sự ghép đôi tồi tệ
+Có lẽ tốt nhất là nên tránh xa nhau. Có rất nhiều sự ghét ở đây. Thật nhiều.
+Những người yêu nhau
+Nền tảng của một tình bạn bền chững đã tạo nên một tình yêu vĩnh cửu.
+Tri kỷ
+Hai Sim, một trái tim.
+Người có hứng thú lãng mạn
+Còn quá sớm để nói, nhưng chắc chắn có thể có chuyện!
+Người yêu
+Được yêu là một điều tuyệt đẹp!
+Chỉ là bạn tốt
+Đây là một mối quan hệ vững chắc được xây dựng trên sự tin tưởng và kỷ niệm đẹp.
+Chỉ là bạn
+Một người bạn sẽ luôn ở đó để nói một lời tử tế.
+Rất phức tạp
+Tình yêu và hận thù có phải chỉ là hai mặt của cùng một đồng xu?
+Rất khó xử
+Họ khiến nhau phát điên, nhưng cũng khiến nhau "phát điên..."
+Phức tạp
+Khao khát lãng mạn cháy bỏng không thể dập tắt, ngay cả khi họ không thực sự thích nhau lắm.
+"Thật khó xử"
+Ít nhất một số khía cạnh của mối quan hệ đang nảy nở, nếu không phải tất cả.
+Nóng lạnh
+Họ đang cùng nhau hay đã chia tay? Người ta chẳng bao giờ biết được.
+Kẻ thù có quyền lợi
+"Tớ ghét cậu... nhưng tớ phải có cậu!"
+Bị khinh ghét
+Mối quan hệ này căng thẳng. Mọi thứ có thể sẽ trật bát!
+Bị oán ghét
+Mọi thứ trong mối quan hệ này đã trật bát. Liệu nó có thể cứu vãn được không?
+Chim uyên ương
+Một kết nối của những trái tim tò mò. Đây đang trở thành một mối tình đẹp đẽ.
+Sự kết hợp tồi
+Tác phẩm nghệ thuật có thể khiến người ta phải phì cười.
+Bức vẽ vui đùa
+Một bức vẽ để đánh thức sư tử đam mê.

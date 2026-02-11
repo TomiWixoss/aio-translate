@@ -1,0 +1,100 @@
+Dịch vụ Sửa chữa
+Pizza
+Dịch vụ Trồng cây
+Bật Tất cả Đèn
+Tắt Tất cả Đèn
+Kết hôn với
+Về Nhà
+Làm Bánh mì nướng
+Gửi Về Nhà
+Ngay lập tức gửi Sim này về nhà. Không hỏi han. Không ai tổn thương.
+Ngay lập tức gửi tất cả khách về nhà không ai tổn thương.
+Đứng ra ngoài sân của tôi!
+Gửi Mọi Người Về Nhà
+Đi Gần Trẻ mới biết đi
+Phàn nàn về Thiếu Vui vẻ
+(Từ Đặc điểm Lô Địa nhiệt)
+Tuyến đường đến Nơi an toàn
+Không thể định tuyến khi đang cháy!
+Uống Nước Tăng Năng lượng
+Vươn vai
+Làm Tập chống đẩy
+Làm Tập chống đẩy
+Vì có em bé sắp chào đời, Dịch vụ Xã hội Sim đã cung cấp một nôi miễn phí cho bé.
+{0.SimFirstName} cần một nôi trống để sinh con.
+Mơ mộng
+Đang trò chuyện với {0.String}
+Sim của bạn không thể cởi quần áo trước mặt một đứa trẻ.
+Sống sót qua Trận vỡ ống
+Gặp {1.SimFirstName}
+Gọi Nhóm
+Sim này cần được mời vào trước.
+Sim này quá xa để Gọi.
+Chia sẻ Bánh cưới
+Thử Giao tiếp Tư duy
+Yêu cầu Có Em bé Khoa học
+Nhận nuôi với Tư cách Phụ thuộc
+{0.SimFirstName} hiện là người chăm sóc của {1.SimFirstName}. Điều này có nghĩa là {M0.anh ấy}{F0.cô ấy} sẽ kiểm tra nhu cầu của trẻ mới biết đi đó định kỳ.
+{0.SimFirstName} hiện được {1.SimFirstName} chăm sóc. Điều này có nghĩa là {M1.anh ấy}{F1.cô ấy} sẽ kiểm tra nhu cầu của trẻ mới biết đi đó định kỳ.
+Thời gian dành cho thợ mộc đã đem lại kết quả tốt. Kiểm tra kho đồ của Sim.
+Đồ thợ mộc hoàn thành đã được đặt trong kho đồ hộ gia đình.
+Tháo Dỡ Đồ Gỗ
+Chào mừng
+Chờ Đặt Món với Nhân viên Phục vụ
+Nhân viên phục vụ của bạn sẽ sớm đến bàn để lấy đơn hàng. Bạn có chắc muốn hủy?
+Đang chờ Phòng tắm
+Về Nhà?
+Hành động này sẽ kết thúc kỳ nghỉ của {0.SimFirstName} và gửi {M0.anh ấy}{F0.cô ấy} về nhà.
+Mời Tham gia Kỳ nghỉ
+Nhà đã đầy.
+Gia hạn Kỳ nghỉ
+Kết thúc Kỳ nghỉ
+Kết thúc Kỳ nghỉ
+Hành động này sẽ kết thúc Kỳ nghỉ và gửi mọi người về nhà. Bạn có muốn tiếp tục?
+Chia sẻ Tình yêu
+Chơi với {1.SimFirstName}
+Ôm
+Sim không thể làm điều này khi không mặc quần áo.
+Hòa hảo sau khi Đánh nhau
+Thể hiện Sự thất vọng vì Đánh nhau
+Khuyến khích Đánh nhau
+Yêu cầu Không Đánh nhau
+Nói Không Đánh nhau
+Cho Thời gian Nghỉ vì Đánh nhau
+Cấm Đi chơi vì Đánh nhau
+La hét vì Đánh nhau
+An ủi
+Thể hiện Tình yêu
+Dỗ dành
+Thay tã
+Yêu cầu Thay tã
+Vỗ tay Bạn bè
+Bạn đang tặng tôi thứ tôi làm? Ừ được...
+Cái này trông quen quen. Chờ một chút, cái này do tôi làm!
+Nhận Quà
+Tặng Quà
+Lều không thể được đặt trong kho đồ của Sim khi đang sử dụng.
+Đối tượng này không thể được đặt trong kho đồ của Sim khi đang sử dụng.
+Loại bỏ mọi vật phẩm trên đối tượng này trước khi đặt nó vào kho đồ của Sim.
+Bài học Trồng cây
+Bài học Nguyện vọng
+Chào mừng đến với loạt tin tức mới nhất của chúng tôi, nơi chúng tôi hướng dẫn bạn quy trình nấu Ambrosia!\n\nNếu bạn đã trồng Bách nhật thì bước tiếp theo là phát triển Kỹ năng Đầu bếp và Trồng cây. Cách tốt nhất là vùi bón vườn và tự nấu ăn cho bản thân!
+Bản tin Cộng đồng Ambrosia
+Bài học Nấu ăn
+Tuần này, chúng ta tiếp tục phát triển Trồng cây. Bạn cũng cần đảm bảo bắt đầu nhận Điểm Thoả mãn, bạn sẽ cần chúng sau!\n\nAmbrosia yêu cầu thao tác cây trái sáng tạo, vì vậy tuần này bạn cũng cần lấy một cành Hoa lily và Bách nhật. Kiểm tra Công viên Hoa Magnolia ở Willow Creek để tìm Hoa lily và Bách nhật hoang dã.
+Bài học Câu cá
+Tuần này chúng ta hoàn thiện các chi tiết cuối cùng trước khi sẵn sàng nấu Ambrosia! Bạn cần đạt mức tối đa Kỹ năng Đầu bếp và Đầu bếp Cao cấp trước khi thử nấu món ăn vào tuần sau.
+Một tuần khác, một bản tin khác! Tuần này là lúc bắt đầu bắt nguyên liệu đầu tiên, một Con cá Thiên thần!\n\nAmbrosia là món ăn cao cấp, vì vậy đã đến lúc học Kỹ năng Đầu bếp Cao cấp.\n\nVườn của bạn có nở hoa không? Ambrosia yêu cầu một Bông hoa Tử thần, vì vậy tuần này bạn cũng cần ghép cây Hoàng tộc và cây Lựu.
+Tuần này, Bông hoa Tử thần nên trong tầm tay.\n\nTrong khi chờ đợi nó lớn, hãy tiếp tục phát triển Kỹ năng Đầu bếp và Đầu bếp Cao cấp của bạn! Chúng sẽ hữu ích khi bạn cuối cùng sẵn sàng nấu Ambrosia.
+Bài học Nguyện vọng
+Chào mừng đến với ấn phẩm cuối cùng của bản tin! Đã đến lúc tất cả công sức của bạn được đền đáp. Nấu Ambrosia từ công thức Đầu bếp Cao cấp.\n\nSau khi nấu xong, bạn có thể đưa một ma trở lại cuộc sống với món ăn thần kỳ này!
+Bạn biết tôi thích gì không? Thức dậy và bước ra khỏi phòng, bước vào một vũng nước không biết của ai để lại từ lâu rồi. Ôi trời, tôi thích nó rất, rất nhiều.
+Bạn cùng phòng thân mến,\n\nVui lòng làm sạch tôi để tôi biết bạn quan tâm. KHÔNG, đừng chỉ đặt tôi xuống, bạn QUÁI VẶT\n\nTrân trọng,\nchén bạn vừa dùng
+Có ai ở đây đang cố gắng phá kỷ lục về số giấy vệ sinh một Sim có thể dùng không? Tôi không nghĩ ra cách giải thích nào khác cho tốc độ chúng ta cạn kiệt.
+Các nhà khoa học nói rằng rửa người không chỉ giúp bạn khỏe mạnh hơn mà còn có thể khiến người khác thích bạn hơn! Tôi chỉ muốn chia sẻ sự thật khoa học thú vị này!!
+Vui lòng tuân theo QUY Tắc VÀNG. Tôi không vào phòng bạn và chạm vào đồ của bạn, phải không? Không, tôi không.
+Tôi không nói rằng tôi là người bạn cùng phòng tốt nhất, nhưng ít nhất tôi không phải là {0.SimFirstName}.
+(Từ Đọc Ghi chú Bạn cùng phòng)
+(Từ Đọc Thư Chấp nhận Cũ)
+Không thể đặt vào Kho đồ Sim khi đang nấu ăn
+Chạy tương tác Dọn bàn để loại bỏ tất cả vật phẩm khỏi bàn trước.

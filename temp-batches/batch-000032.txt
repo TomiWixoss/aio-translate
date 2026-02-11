@@ -1,0 +1,98 @@
+Đạt được Cấp độ Di chuyển 5
+{0.SimFirstName} đã phát triển đầy đủ kỹ năng Di chuyển {M0.của anh ấy}{F0.của cô ấy}. {M0.Anh ấy}{F0.Cô ấy} giờ có thể dễ dàng leo cầu thang.
+Đã có được kỹ năng Di chuyển
+Trẻ nhỏ tập trung vào Di chuyển sẽ di chuyển rất nhanh.\n\nKỹ năng Di chuyển giúp Trẻ nhó đi nhanh hơn, chạy, leo cầu thang và nhảy múa, nhảy múa, nhảy múa. Cải thiện kỹ năng này bằng cách đi lại xung quanh, xếp các khối Nesting Blocks, nhảy múa, hoặc qua trò Chơi vật lộn với người lớn.
+Đạt được Cấp độ Di chuyển 2
+{0.SimFirstName} giờ có thể leo cầu thang. {M0.Anh ấy}{F0.Cô ấy} cũng có thể Chơi vật lộn với một người lớn.
+Sáng tạo
+Trẻ nhỏ có Sáng tạo chơi đùa trong thế giới riêng của mình.\n\nKỹ năng Sáng tạo dạy Trẻ nhỏ đọc sách và tạo ra những thế giới kỳ ảo với đồ chơi của mình. Tăng kỹ năng Sáng tạo bằng cách chơi với Đồ chơi và Búp bê, nghe nhạc, hoặc xem Sách cho Trẻ nhỏ.
+Trẻ nhỏ cần học cách suy nghĩ sáng tạo về thế giới xung quanh.
+Đạt được Cấp độ Kỹ năng Sáng tạo 5
+{0.SimFirstName} đã phát triển đầy đủ Sáng tạo!\n\n{M0.Anh ấy}{F0.Cô ấy} giờ có thể Xem nghệ thuật.
+Đạt được Cấp độ Kỹ năng Sáng tạo 4
+{0.SimFirstName} có thể Đọc Sách cho Trẻ nhỏ.
+Đạt được Cấp độ Kỹ năng Sáng tạo 3
+{0.SimFirstName} giờ có thể đặt tên cho đồ chơi, búp bê và thú bông.
+Đã có được kỹ năng Sáng tạo
+Trẻ nhỏ có Sáng tạo chơi đùa trong thế giới riêng của mình. Kỹ năng Sáng tạo dạy Trẻ nhỏ đọc sách và tạo ra những thế giới kỳ ảo với đồ chơi của mình. Tăng kỹ năng Sáng tạo bằng cách chơi với Đồ chơi và Búp bê, nghe nhạc, hoặc xem Sách cho Trẻ nhỏ.
+Đạt được Cấp độ Kỹ năng Sáng tạo 2
+{0.SimFirstName} giờ có thể Nhìn vào Hình ảnh trong Sách cho Trẻ nhỏ, và Chơi cùng người khác tại Nhà búp bê.
+Giao tiếp
+Nói chuyện là một bước lớn đối với bất kỳ Trẻ nhỏ nào.\n\nKỹ năng Giao tiếp dạy Trẻ nhỏ các tương tác xã hội nâng cao. Cải thiện kỹ năng này bằng cách nói chuyện với người khác, và học các thẻ Flash Cards nâng cao.
+Trẻ nhỏ cần học cách nói và hiểu khi được nói chuyện.
+Đạt được Cấp độ Giao tiếp 5
+{0.SimFirstName} đã phát triển đầy đủ kỹ năng nói. {M0.Anh ấy}{F0.Cô ấy} giờ có thể Kể chuyện, Kể chuyện vui nhộn, và Nói về Khủng long.
+Đạt được Cấp độ Giao tiếp 4
+{0.SimFirstName} giờ có thể Nói về Tiệc, Nói về Động vật yêu thích, và Kể chuyện đùa Knock Knock. {0.SimFirstName} cũng có thể Học các Đối tượng từ Thẻ Flash Cards.
+Đạt được Cấp độ Giao tiếp 3
+{0.SimFirstName} giờ có thể Nói.\n\n{M0.Anh ấy}{F0.Cô ấy} có thể Nói về Đồ chơi, Nói về Xe tải, Hét lên, hoặc Nói những điều vô nghĩa với người khác. {M0.Anh ấy}{F0.Cô ấy} có thể Xin món tráng miệng. {M0.Anh ấy}{F0.Cô ấy} có thể học các tương tác xã hội khác bằng cách tăng các kỹ năng khác, cũng vậy.
+Đã có được kỹ năng Giao tiếp
+Nói chuyện là một bước lớn đối với bất kỳ Trẻ nhỏ nào.\n\nKỹ năng Giao tiếp dạy Trẻ nhỏ các tương tác xã hội nâng cao hơn. Cải thiện kỹ năng này bằng cách nói chuyện với người khác.
+Đạt được Cấp độ Giao tiếp 2
+{0.SimFirstName} giờ có thể Ôm và Đánh người khác. {M0.Anh ấy}{F0.Cô ấy} cũng có thể Học Động vật từ Thẻ Flash Cards với người lớn.
+Xã hội
+Vận động thô
+Vận động tinh
+Trong khi mọi Sim muốn khỏe mạnh, những Sim đam mê thể dục thường vượt xa nhiệm vụ để giữ cơ thể trong tình trạng sung mãn nhất.\n\nThể dục có thể luyện tập qua Máy chạy bộ, Máy tập thể dục, hoặc Bao cát đấm. Tăng kỹ năng này sẽ mở khóa các Tương tác Tập thể dục và Xã hội mới.\n\nThể dục có thể được dạy ở Cấp độ 5 từ Máy chạy bộ, Máy tập thể dục, hoặc Bao cát đấm.
+Đạt được Cấp độ Xã hội 2
+{0.SimFirstName} giờ có thể Xem Sim.tv trên Máy tính.
+Đạt được Cấp độ Xã hội 9
+Nói chuyện với Gấu bông Khổng lồ giờ cũng làm giảm Ngượng ngùng, Căng thẳng và Khó chịu.
+Đã có được kỹ năng Xã hội
+{0.SimFirstName} giờ có thể sử dụng Báo để Nói chuyện trên Đồ chơi Nói.
+Đạt được Cấp độ Xã hội 4
+{0.SimFirstName} đôi khi sẽ nhận được Tâm trạng tốt hơn từ Xem Sim.tv trên Máy tính.
+Đạt được Cấp độ Xã hội 5
+{0.SimFirstName} có thể nhận được Tâm trạng tốt hơn từ Chơi với Gấu bông.
+Đạt được Cấp độ Xã hội 8
+{0.SimFirstName} đang ngày càng thông minh về Xã hội!
+Đạt được Cấp độ Xã hội 10
+{0.SimFirstName} giờ có thể Chế giễu tâm trạng của các Sim khác. {M0.Anh ấy}{F0.Cô ấy} cũng có thể có được kỹ năng trong Mánh khóe và Sức quyến rũ.
+Đạt được Cấp độ Xã hội 3
+{0.SimFirstName} các khả năng sáng tạo đang tiến triển tốt!
+Đạt được Cấp độ Xã hội 6
+Nói chuyện với Gấu bông Khổng lồ giờ sẽ làm giảm nỗi buồn. Ngoài ra, {0.SimFirstName} có thể Nghiên cứu Thành ngữ trên Máy tính.
+Đạt được Cấp độ Xã hội 7
+{0.SimFirstName} giờ có thể Nói về Trường học với các Sim khác.
+Đạt được Cấp độ Vận động 5
+{0.SimFirstName} giờ có thể Tương tác trên Xà đu.
+Đạt được Cấp độ Vận động 2
+{0.SimFirstName} kỹ năng Vận động đang cải thiện tốt!
+Đạt được Cấp độ Vận động 9
+{0.SimFirstName} đôi khi sẽ nhận được nhiều Kỹ năng Vận động hơn từ Xà đu, và Chơi Trò chơi trên Máy chơi Vận động hoặc Máy tính.
+Đạt được Cấp độ Vận động 3
+Kỹ năng mới trong Đan mũi của {0.SimFirstName} sẽ cho phép {0.SimPronounObjective} tạo ra những tác phẩm thêu tuyệt vời. Cấp độ kỹ năng càng cao, {M0.anh ấy}{F0.cô ấy} càng có thể đan được nhiều món đồ.
+Đạt được Cấp độ Đan mũi 6
+{0.SimFirstName} giờ có thể đan Poufs. Pouf là gì? Đan một cái và khám phá ra!
+Đạt được Cấp độ Đan mũi 3
+{0.SimFirstName} giờ có thể đan Đồ nội thất. Hộp thư với lớp áo ấm áp, và chậu cây cho tất cả mọi người... hoan hô!
+Bất kỳ ai cũng có thể nấu ăn, nhưng những Sim đam mê ẩm thực sẽ được lợi từ việc dành thêm chút thời gian và sự chú ý trong nhà bếp.\n\nKỹ năng Nấu ăn được xây dựng chủ yếu bằng cách nấu ăn với tủ lạnh, bếp và quầy. Tăng kỹ năng này sẽ mở khóa các Mẹo Nấu ăn, Tâm trạng, và Công thức mới.\n\nNấu ăn theo Phong cách Gia đình có thể được dạy ở Cấp độ 5 từ Tủ lạnh, Bếp, hoặc Lò nướng.
+Đạt được Cấp độ Nấu ăn 2
+{0.SimFirstName} học được công thức cho Trứng và Bánh mì nướng, BLT, Khoai tây chiên và Salsa, và Cá taco. {M0.Anh ấy}{F0.Cô ấy} cũng học được một động tác Combo Add mới.\n\n{0.SimPronounSubjective|xxUpper} cũng có thể Dạy người khác về Nấu ăn theo Phong cách Gia đình.
+Đạt được Cấp độ Nấu ăn 7
+{0.SimFirstName} học được công thức cho Cá basa nướng và Trứng om.
+Đạt được Cấp độ Nấu ăn 6
+{0.SimFirstName} học được công thức cho Bánh kem Bạc phấn và Chili. {M0.Anh ấy}{F0.Cô ấy} cũng học được một vài động tác mới.
+Đạt được Cấp độ Nấu ăn 4
+{0.SimFirstName} học được công thức cho Mì Ý và Bánh kem Dâu.
+Đạt được Cấp độ Nấu ăn 9
+{0.SimFirstName} học được công thức cho Gà xào và Cioppino. {M0.Anh ấy}{F0.Cô ấy} cũng có thể Đưa ra Lời khuyên Nấu ăn cho các Sim khác.
+Đạt được Cấp độ Nấu ăn 10
+{0.SimFirstName} học được công thức cho Gà quay và Casserole cá ngừ.
+Đã có được kỹ năng Nấu ăn
+Kỹ năng mới trong Nấu ăn của {0.SimFirstName} sẽ cho phép {0.SimPronounObjective} chuẩn bị những món cổ điển ngon lành. Ngon! Cấp độ kỹ năng càng cao, càng nhiều công thức được mở khóa.
+Đạt được Cấp độ Nấu ăn 5
+{0.SimFirstName} học được công thức cho Bánh mì nướng Pháp và Cá khoai tây chiên. {M0.Anh ấy}{F0.Cô ấy} cũng mở khóa kỹ năng Nấu ăn Cao cấp và sẽ nhận được Tâm trạng Đầu bếp Năng động khi nấu ăn.
+Đạt được Cấp độ Nấu ăn 8
+{0.SimFirstName} học được công thức cho Táo chiên. {M0.Anh ấy}{F0.Cô ấy} cũng có thể Tạo hương vị cho một bữa ăn để làm nó chất lượng cao hơn.
+Đạt được Cấp độ Nấu ăn 3
+{0.SimFirstName} học được công thức cho Cá tilapia chiên, Bánh quy sô cô la chip, và Bánh xèo. {M0.Anh ấy}{F0.Cô ấy} cũng có thể Nói về Nấu ăn với các Sim khác.
+Tự làm! Đó là phương châm của một Sim khéo léo. Các Sim khéo léo không s�a sửa chữa đồ đạc khi chúng hỏng, có thể nâng cấp các đồ đạc gia đình thông thường, và thậm chí có thể thử sức với một chút mộc mạc.\n\nKhéo léo được xây dựng bằng cách sửa chữa và nâng cấp đồ đạc, hoặc sử dụng bàn mộc. Tăng kỹ năng này mở khóa các vật thể có thể chế tạo mới trên Bàn mộc và cải thiện khả năng Sửa chữa và Nâng cấp đồ đạc của Sim.\n\nKhéo léo có thể được dạy ở Cấp độ 5 từ Bàn mộc hoặc khi Sim đang nâng cấp hoặc sửa chữa các đồ đạc khác nhau.
+Đạt được Cấp độ Khéo léo 2
+{0.SimFirstName} giờ có thể Thực hiện Nâng cấp Cơ bản trên đồ đạc ống dẫn và Chế tạo Đồ nội thất tại Bàn mộc. {M0.Anh ấy}{F0.Cô ấy} cũng có thể Nói về Khéo léo với các Sim khác và Mua Phụ tùng Nâng cấp trên Máy tính!\n\n{0.SimPronounSubjective|xxUpper} cũng có thể Dạy người khác về Khéo léo.
+Đạt được Cấp độ Khéo léo 9
+{0.SimFirstName} giờ có thể Thực hiện Nâng cấp Nâng cao trên đồ đạc điện tử. {M0.Anh ấy}{F0.Cô ấy} cũng có thể chế tạo Bồn tắm trên Bàn mộc.
+Đạt được Cấp độ Khéo léo 7
+{0.SimFirstName} giờ có thể Nâng cấp đồ đạc ống dẫn hai lần nhanh hơn. {M0.Anh ấy}{F0.Cô ấy} cũng có thể thực hiện Nâng cấp Nâng cao trên đồ đạc nhà bếp.
+Đạt được Cấp độ Khéo léo 4
+{0.SimFirstName} giờ có thể Thực hiện Nâng cấp Nâng cao trên đồ đạc ống dẫn. {M0.Anh ấy}{F0.Cô ấy} cũng có thể Chế tạo Bàn nhỏ ở Bàn mộc.

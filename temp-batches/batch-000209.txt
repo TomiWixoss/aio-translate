@@ -1,0 +1,100 @@
+Sự Tự Tin giúp tăng tốc độ học kỹ năng!
+Nghe bài giảng của {2.String}
+(Từ việc nghe bài giảng)
+Đọc bia mộ
+Đi đến gần
+{0.SimFirstName} hiện đang bị cưỡi, không thể được gọi đến.
+Chờ thú cưng
+Đi đến đó
+Là một ma, tôi phải cảnh báo bạn về mối nguy sắp xảy ra. Mệt mỏi về già đang rình rập. Hãy chú ý và nghỉ ngơi kỹ, vì thế giới bên kia chưa gọi đâu.\nTrong sự canh giữ ma quái,\n{0.SimFirstName}
+Bạn đang bao quanh bởi điện cốt vít! Là một ma biết chuyện về chúng, tôi khuyên bạn nên lùi lại trước khi bạn bị giật.\nHãy an toàn,\n{0.SimFirstName}
+Chỉ một lời cảnh báo thân thiện từ cõi âm, nước có thể khó lường! Hãy bơi cẩn thận và giữ an toàn. Thế giới bên kia chưa gọi bạn đâu.\nHãy cảnh giác,\n{0.SimFirstName}
+Cảnh báo Nguy hiểm
+Tăng hoặc giảm thời gian tâm trạng từ việc chết bởi ma già.
+Lấy Đồ Ăn Vặt từ Thế Giới Bên Kia
+Tạo một đồ ăn vặt trong kho đồ từ việc là ma chết vì đói.
+Dập Tắt Ngọn Lửa
+Dập tắt mọi loại ngọn lửa từ việc là ma chết vì lửa.
+Xuống Ngựa
+Cưỡi Ngựa
+Lấy Lại Đam Mê
+{0.SimFirstName} đã thử điều này gần đây rồi.
+(Từ việc Cố Gắng Lấy Lại Đam Mê Nghề Nghiệp)
+Yêu cầu Kỹ năng Trò Đùa 6 trở lên.
+Xem Công Việc Vui Vẻ
+Xem Công Việc Hạnh Phúc
+Xem Công Việc Tự Tin
+Xem Trò Chơi
+Chơi Mũi Tên
+Tham Gia Chơi Mũi Tên
+Đề Nghị Tham Gia Chơi Mũi Tên
+Luyện Tập Mũi Tên
+Chơi Mũi Tên
+Chơi Mũi Tên
+Nhạo Báng Người Chơi Mũi Tên
+Cổ Vũ Người Chơi Mũi Tên
+Cảm ơn bạn đã mua {1.ObjectName}.
+75%
+500%
+50%
+300%
+25%
+200%
+100%
+0%
+Bắt Đầu Bán Hàng Đường Phố
+Dọn Bàn
+Duyệt Bàn
+Chơi Cùng
+Thú Cưng
+Vắt Sữa
+Cho Ăn
+Ăn Bánh
+Tìm Ếch
+Bắt Đầu Thử Thách 'Tự Nuôi Bản Thân'
+Bắt Đầu Thử Thách 'Xây Dựng Hình Ảnh'
+Bắt Đầu Thử Thách 'Hữu Ích'
+Bắt Đầu Thử Thách 'Gây Khó Chịu'
+Bắt Đầu Thử Thách 'Trở Thành Diễn Viên'
+Danh sách Thử Thách Khoảnh Khắc Hình Thành đã đầy.
+Đây là một Thử Thách Khoảnh Khắc Hình Thành. Xem Bảng Nguyện Vọng để biết thêm chi tiết.
+Chờ Người Vận Chuyển
+Người Hâm Mộ Cuồng Nhiệt
+Một người hâm mộ nhận ra {0.SimFirstName} ở siêu thị và chào hỏi... rồi yêu cầu chữ ký, chụp ảnh và bắt đầu cuộc thảo luận chi tiết về {M0.his}{F0.her} cuốn sách bán chạy nhất. {0.SimFirstName} thấy thích thú, nhưng {M0.he}{F0.she} chỉ muốn mua {M0.his}{F0.her} thực phẩm và đi về. {M0.He}{F0.She} có thể thân thiện với người hâm mộ cuồng nhiệt, hoặc rút lui nhanh chóng.
+Tin Tức Nóng
+Sếp của {0.SimFirstName} yêu cầu {0.SimPronounObjective} bỏ mọi việc và theo dõi một tin tức nóng có thể xảy ra... nhưng họ thực sự rất bận. {0.SimFirstName} nên tập trung như {0.SimFirstName} được mong đợi, hay cứ tiếp tục {M0.his}{F0.her} ngày và hy vọng {M0.he}{F0.she} sẽ bắt được khi nó xảy ra?
+Tin Tức Nhàm Chán
+{0.SimFirstName} RẤT CHÁN với việc đưa tin địa phương. Phản độc giả có buồn chán như {M0.he}{F0.she} không? {0.SimFirstName} có thể bắt đầu thêm chi tiết giật gân để làm mọi thứ thêm hấp dẫn, hoặc giữ nguyên phong cách báo cáo chỉ sự thật của {M0.his}{F0.her}.
+CV Không Ấn Tượng
+CV của {M0.his}{F0.her} chưa thực sự ấn tượng, nhưng {0.SimFirstName} muốn sự nghiệp của {M0.him}{F0.her} tiến nhanh hơn một chút. {M0.He}{F0.She} nên thành thật về việc chưa có nhiều kinh nghiệm, hay thổi phồng CV với một số thứ không hoàn toàn đúng sự thật 100%?
+Thanh Toán Trễ
+{0.SimFirstName} phát hiện phần khó khăn nhất của việc làm tự do - nhận được thanh toán đúng hạn. {M0.He}{F0.She} có thể gọi điện đòi tiền, hoặc bỏ qua và không lãng phí thêm thời gian có thể dùng để làm việc.
+Lỗi Chính Tả
+Trong cố gắng đáp ứng deadline, {0.SimFirstName} vô tình mắc lỗi chính tả ngốc nghếch, và giờ nó đã được in ra. {M0.He}{F0.She} nên thú nhận lỗi, hay đổ lỗi cho người sửa bài?
+Thư Điên Rồ
+Thư điên rồ này chắc chắn là trò đùa... phải không? {0.SimFirstName} khá chắc {M0.he}{F0.she} đang bị một kẻ đùa giỡn trên internet lừa, nhưng không cách nào biết chắc chắn. Nếu {M0.he}{F0.she} xuất bản thư, nó sẽ thành cột báo nổi tiếng nhất của {M0.him}{F0.her} - hoặc {M0.he}{F0.she} có thể bỏ qua để an toàn.
+Giao Cho Người Khác
+Báo Cáo Lỗi
+Thật cao thượng! {0.SimFirstName} báo động cho đối thủ, và các nhà phát triển có thể cung cấp bản dựng không có lỗ hổng đó. Hóa ra đối thủ của {M0.him}{F0.her} đã giấu việc dựa dẫm vào lỗ hổng đó để thắng, và không có nó {0.SimFirstName} thắng dễ dàng.
+{0.SimFirstName} ném công việc cho {M0.his}{F0.her} đồng nghiệp như một củ khoai nóng. Ý tưởng hay cho đến khi {M0.his}{F0.her} sếp phát hiện. Sau một bài nói khá dài về thử thách, cơ hội và tư duy QA, {0.SimFirstName} được đưa trở lại buổi định hướng.
+Như {0.SimFirstName} nghĩ, {M0.his}{F0.her} Đồng nghiệp thích thú với cơ hội khoe tài nên dập bug, dành hàng giờ để ghi chép chi tiết cuối cùng của mỗi lỗi. Thắng cho anh ta, và thắng cho {0.SimFirstName}, người thà không làm việc đó.
+Đối Mặt với Cậu Bé Hủi
+Xịt Không Khí
+Bước Tiến
+Gói Đi
+Đề Xuất Nơi Khác
+Giữ Nguyên Khái Niệm Ban Đầu
+Tắt Tiếng
+Đá Đi
+Bán Cái Bàn
+Đặt Luật
+Thành công! {0.SimFirstName} hoàn toàn đè bẹp {M0.his}{F0.her} đối thủ, khiến đám đông ngạc nhiên. Studio gần như chắc chắn sẽ loại bỏ lỗ hổng, nhưng mọi người xem việc {0.SimFirstName} dùng nó là chiến thuật. Họ bắt đầu gọi là &quot;Chiêu Bài của {0.SimFirstName}.&quot;
+Ối! Không mất bao lâu đám đông phát hiện {0.SimFirstName} dùng lỗ hổng, và họ không thích. Các quan chức thậm chí dừng trò chơi vì hành vi không thể chấp nhận, và cấm 'sploit'. Không có mánh khóe kỳ quặc, {0.SimFirstName} dễ dàng bị đối thủ đánh bại, khiến đám đông rất vui.
+Tham Gia Nhà Đầu Tư
+Tiếp Tục Thuyết Trình
+{0.SimFirstName} được mời phát biểu trên bảng thảo luận tại một sự kiện ngành địa phương. Nhưng khi người điều phối giới thiệu {0.SimPronounObjective}, bà ta nhầm tên {0.SimFirstName} và tên {M0.his}{F0.her} công ty cũ. {0.SimFirstName} có thể sửa bà ta, hoặc bỏ qua.
+{0.SimFirstName} thấy khách hàng tiếp theo trong hàng đợi chat là một người cũ của {M0.his}{F0.hers}, và mọi chuyện không kết thúc đẹp. Các đại lý khác đều bận. {M0.He}{F0.She} nên trả lời yêu cầu chat hay giả vờ không để ý?
+Giám đốc tài chính tại công ty của {0.SimFirstName} bị cuốn vào vụ scandal WooHoo lớn và công khai, và phóng viên buộc tội ông ta dùng tiền công ty để trả cho dịch vụ không phù hợp. {0.SimFirstName} có thể cố gắng xoa dịu tình hình bằng cách phớt lờ các cáo buộc, hoặc đồng ý điều tra hồ sơ của {M0.his}{F0.her} đồng nghiệp.
+Báo Cáo Lỗi
+{0.SimFirstName} vừa phát hiện một phần phần mềm đầy lỗi. {M0.He}{F0.She} có thể cắm đầu báo cáo tất cả bằng {M0.himself}{F0.herself}, hoặc thuyết phục {M0.his}{F0.her} Đồng nghiệp nhiệt thành làm.
+Một đồng nghiệp đã ở giờ thứ 17, nước tăng lực thứ 24, và nó bắt đầu có mùi trong hố QA. Vì không ai về nhà sớm, {0.SimFirstName} có hai lựa chọn: lấy ra {M0.men’s body spray}{F0.lavender air freshener} hay nói với Cậu Bé Hủi bên cạnh {M0.him}{F0.her} đi rửa tay.

@@ -1,0 +1,427 @@
+Chúng ta cần dịch toàn bộ nội dung từ tiếng Anh sang tiếng Việt, nhưng có một số yêu cầu đặc biệt:
+- KHÔNG dịch: "The Sims 4", "Sims", "Sim", "Social Bunny", "EA app", "Gallery". Vậy các từ này giữ nguyên.
+- Giữ nguyên thẻ HTML, biến {0.String}, ký tự đặc biệt. Tức là các thẻ như {0.SimFirstName}, {0.SimPronounSubjective}, {M0.He}{F0.She}, v.v. phải giữ nguyên, không dịch phần bên trong.
+- Trả về đúng số dòng. Nghĩa là phải giữ nguyên cấu trúc dòng, không gộp hay tách dòng.
+
+Phân tích: Đoạn văn bản này là các thông báo về kỹ năng trong The Sims 4, bao gồm Painting, Mischief, Logic, Knitting. Có các dòng thông báo khi đạt cấp độ kỹ năng, và một số mô tả về kỹ năng.
+
+Cần dịch sang tiếng Việt một cách tự nhiên, nhưng giữ nguyên các placeholder và thẻ HTML.
+
+Lưu ý: Có một số chỗ có ký tự đặc biệt như &#xD;&#xA; (thường là xuống dòng trong XML) - giữ nguyên. Cũng có các thẻ như \n (xuống dòng) - có lẽ cũng giữ nguyên? Nhưng yêu cầu nói "giữ nguyên thẻ HTML, biến {0.String}, ký tự đặc biệt". Vậy các ký tự đặc biệt như \n, &#xD;&#xA; nên giữ nguyên. Tuy nhiên, trong ngữ cảnh này, \n có thể là ký tự xuống dòng, nhưng vì chúng ta phải giữ đúng số dòng, nên có lẽ không nên chuyển \n thành xuống dòng thật, mà giữ nguyên dạng ký tự? Nhưng trong bản gốc, \n là một ký tự xuống dòng, nên khi dịch, nếu giữ nguyên \n thì nó vẫn là xuống dòng. Tuy nhiên, yêu cầu "trả về đúng số dòng" có nghĩa là phải có cùng số dòng với bản gốc. Vậy chúng ta sẽ dịch từng dòng, và giữ nguyên các placeholder, đồng thời giữ nguyên các ký tự xuống dòng (dù là \n hay &#xD;&#xA;) ở đúng vị trí.
+
+Cách làm: Duyệt từng dòng trong bản gốc, dịch phần text bình thường, giữ nguyên các phần có dạng {something} và các thẻ HTML. Lưu ý: Có một số dòng bắt đầu bằng "Reached ... Level ..." - đó là tiêu đề thông báo, nên dịch sang tiếng Việt tương ứng, ví dụ "Đạt cấp độ 2 Đồ Họa" nhưng cần kiểm tra: "Painting" là kỹ năng "Đồ Họa" (hoặc "Vẽ"?). Trong game The Sims 4, kỹ năng Painting thường được dịch là "Vẽ" hoặc "Hội Họa". Tuy nhiên, trong bản dịch chính thức của The Sims 4 tiếng Việt, kỹ năng Painting là "Vẽ". Còn Mischief là "Láo Xược", Logic là "Logic", Knitting là "Đan Móc". Vậy nên dùng các tên kỹ năng đó.
+
+Nhưng lưu ý: Trong bản gốc, khi nói "Reached Painting Level 2", có thể dịch là "Đạt cấp độ 2 Vẽ". Tuy nhiên, cần thống nhất: "Reached Painting Level X" dịch là "Đã đạt cấp độ X kỹ năng Vẽ"? Hay "Cấp độ Vẽ: X"? Trong ngữ cảnh thông báo, thường là "Đạt cấp độ 2 Vẽ". Có thể dịch ngắn gọn: "Đạt cấp độ 2 - Vẽ". Nhưng để đơn giản, dịch là "Đạt cấp độ 2 Vẽ".
+
+Tương tự cho các kỹ năng khác.
+
+Các placeholder như {0.SimFirstName} giữ nguyên. {0.SimPronounSubjective} là đại từ chủ ngữ (anh ấy/ cô ấy), {0.SimPronounObjective} là đại từ tân ngữ (anh ấy/ cô ấy), {M0.He}{F0.She} là hình thức giống đực/cái. Trong tiếng Việt, chúng ta thường dùng "anh ấy" cho nam và "cô ấy" cho nữ, nhưng trong game, đôi khi dùng "nó" cho trung lập. Tuy nhiên, ở đây có {M0.He}{F0.She} nên có thể dịch là "anh ấy" khi M0, "cô ấy" khi F0. Nhưng vì là placeholder, nên giữ nguyên {M0.He}{F0.She}? Không, yêu cầu là giữ nguyên thẻ HTML, biến {0.String}. Các placeholder này là biến, nên không dịch phần bên trong, nhưng chúng ta có thể dịch phần xung quanh. Ví dụ: "{0.SimFirstName} can now Discuss Color Theory with other Sims." -> "{0.SimFirstName} giờ có thể Thảo luận Lý thuyết Màu sắc với các Sim khác." Nhưng lưu ý: "Discuss Color Theory" dịch là "Thảo luận Lý thuyết Màu sắc". Còn "with other Sims" -> "với các Sim khác". "Sims" không dịch.
+
+Cần chú ý đến các cấu trúc như {0.SimPronounSubjective|xxUpper} - có vẻ như là đại từ chủ ngữ và viết hoa? "xxUpper" có lẽ chỉ định dạng viết hoa. Trong tiếng Việt không có viết hoa đại từ, nên có thể bỏ qua, chỉ giữ nguyên placeholder. Tuy nhiên, nếu placeholder có kèm định dạng, chúng ta vẫn giữ nguyên, không dịch phần định dạng.
+
+Ví dụ: "{0.SimPronounSubjective|xxUpper} can also Mentor others in Painting." -> "{0.SimPronounSubjective|xxUpper} cũng có thể Đồng hướng dẫn người khác trong Vẽ." Nhưng "Mentor" dịch là "Đồng hướng dẫn" hay "Làm gia sư"? Trong ngữ cảnh kỹ năng, thường là "hướng dẫn". Vậy dịch: "cũng có thể hướng dẫn người khác trong Vẽ."
+
+Tuy nhiên, cần lưu ý: Trong bản gốc có cả "Mentor" như một động từ, và "Mentoring" như một danh từ. Ở đây là "can also Mentor others" -> "cũng có thể hướng dẫn người khác."
+
+Các phần mô tả kỹ năng (như đoạn văn bản dài về Mischief, Logic, Knitting) cần dịch toàn bộ, nhưng giữ nguyên các placeholder bên trong.
+
+Có một số chỗ có (From Loner Trait) - đây là ghi chú về trait, nên giữ nguyên? Nhưng yêu cầu chỉ KHÔNG dịch một số từ cụ thể, còn "Loner Trait" không nằm trong danh sách KHÔNG dịch. Tuy nhiên, đây là tên trait trong game, có thể dịch là "Đặc điểm Hướng nội"? Nhưng để an toàn, có thể giữ nguyên "Loner Trait" vì đó là tên chính thức. Tuy nhiên, trong bản dịch tiếng Việt thường dịch cả trait. Vì yêu cầu không nói rõ, tôi sẽ dịch "Loner Trait" thành "Đặc điểm Hướng nội", "Jealous Trait" thành "Đặc điểm Gan dạ"? Không, "Jealous" là "Độc tính"? Thực tế, trait "Jealous" trong The Sims 4 thường dịch là "Ghen tuông". Vậy nên dịch.
+
+Nhưng cẩn thận: Trong đoạn cuối có "(From Loner Trait) (From Loner Trait) (From Jealous Trait) (From Being Near an Infant) (From Nearby Child) (From Good Trait) Smell...too...powerful..." - đây có vẻ như là các ghi chú về nguồn gốc của một tâm trạng? Và câu cuối "Smell...too...powerful..." có lẽ là một thông báo khác? Cần xem xét: Trong bản gốc, sau "Acquired the Knitting skill" là một đoạn trống? Thực ra, có các dòng:
+
+Acquired the Knitting skill
+(From Loner Trait)
+(From Loner Trait)
+(From Jealous Trait)
+(From Being Near an Infant)
+(From Nearby Child)
+(From Good Trait)
+Smell...too...powerful...
+
+Có vẻ như đây là các nguồn gốc của một Moodlet (tâm trạng) liên quan đến mùi? Có lẽ là khi vừa học kỹ năng Knitting, Sim nhận được một Moodlet từ các trait khác. Vậy chúng ta nên dịch các dòng trong ngoặc đơn, và câu cuối cũng dịch.
+
+Vậy tổng quát: Dịch tất cả các phần text, giữ nguyên các placeholder và thẻ HTML. Đối với tên kỹ năng: Painting -> Vẽ, Mischief -> Láo Xược, Logic -> Logic (có thể giữ nguyên vì là tên kỹ năng), Knitting -> Đan Móc. Nhưng trong ngữ cảnh, khi nói "Reached Painting Level 2", dịch là "Đạt cấp độ 2 Vẽ". Tuy nhiên, cần thống nhất: nếu dịch "Painting" là "Vẽ", thì "Painting skill" là "kỹ năng Vẽ".
+
+Kiểm tra lại: Trong game The Sims 4 tiếng Việt, kỹ năng Painting thường gọi là "Vẽ", Mischief là "Láo Xược", Logic là "Logic", Knitting là "Đan Móc". Vậy dùng như vậy.
+
+Các động từ như "can now create" dịch là "giờ có thể tạo ra", "can now use" -> "giờ có thể sử dụng", "can now perform" -> "giờ có thể thực hiện", v.v.
+
+Các mô tả về tác dụng: "The higher the skill level, the more advanced shapes {M0.he}{F0.she} can paint." -> "Cấp độ kỹ năng càng cao, {M0.he}{F0.she} càng có thể vẽ những hình dạng phức tạp hơn."
+
+Lưu ý: Trong bản gốc có các câu có dấu chấm than và dấu ngoặc kép, giữ nguyên.
+
+Có một số chỗ có &#xD;&#xA; - đây là ký tự xuống dạng CRLF trong XML, nên giữ nguyên.
+
+Về việc giữ đúng số dòng: Bản gốc có rất nhiều dòng, chúng ta phải dịch sao cho số dòng giống hệt. Có nghĩa là mỗi dòng trong bản gốc tương ứng với một dòng trong bản dịch, không gộp. Vì vậy, chúng ta sẽ duyệt từng dòng và dịch.
+
+Tuy nhiên, trong bản gốc có những dòng trống? Có vẻ như không, nhưng có thể có dòng chỉ chứa \n? Trong đoạn đầu có "\n{0.SimPronounSubjective|xxUpper} can also Mentor others in Painting." - dấu \n ở đầu dòng đó, nên khi dịch, chúng ta vẫn giữ dấu \n đó? Nhưng yêu cầu giữ nguyên thẻ HTML và ký tự đặc biệt, nên chúng ta giữ nguyên \n. Tuy nhiên, khi in ra, \n sẽ tạo xuống dòng, nhưng vì chúng ta phải giữ đúng số dòng, nên nếu dòng gốc bắt đầu bằng \n thì dòng dịch cũng bắt đầu bằng \n? Điều này có thể làm tăng số dòng? Thực tế, trong văn bản, \n là ký tự xuống dòng, nên nếu một dòng bắt đầu bằng \n thì thực tế nó là xuống dòng rồi đến nội dung. Nhưng khi đếm dòng, chúng ta đếm các dòng hiển thị. Có lẽ nên coi mỗi dòng trong bản gốc (khi tách bằng \n) là một dòng riêng. Tuy nhiên, trong dữ liệu đầu vào, có các dòng được ngăn cách bằng xuống dòng thực tế. Vì vậy, chúng ta sẽ xử lý như sau: Tách bản gốc thành các dòng (dựa trên ký tự xuống dòng), dịch từng dòng, rồi nối lại bằng xuống dòng.
+
+Nhưng trong bản gốc, có chỗ có "\n" trong cùng một dòng, ví dụ: "Reached Painting Level 2\n{0.SimFirstName} can now Discuss Color Theory..." - dòng này có \n giữa chừng, nhưng khi tách dòng, nó sẽ thành hai dòng? Không, vì \n là ký tự xuống dòng, nên dòng đó thực tế là hai dòng. Tuy nhiên, trong dữ liệu đầu vào, nó được viết liền trong một dòng? Trong đoạn user, nó viết: "Reached Painting Level 2\n{0.SimFirstName} can now Discuss Color Theory with other Sims." - đây là một dòng duy nhất có chứa \n. Vậy khi tách, chúng ta sẽ tách thành hai dòng: dòng 1: "Reached Painting Level 2", dòng 2: "{0.SimFirstName} can now Discuss Color Theory with other Sims."? Nhưng trong bản gốc, dấu \n được dùng để ngắt dòng, nên có thể coi đó là hai dòng riêng. Tuy nhiên, để đơn giản, chúng ta sẽ giữ nguyên cấu trúc: mỗi dòng trong bản gốc (khi xem như một chuỗi) có thể chứa \n, nhưng khi dịch, chúng ta sẽ dịch từng phần riêng biệt? Cách tốt hơn: Tách toàn bộ văn bản thành các dòng thực sự (dựa trên \n), dịch từng dòng, rồi nối lại. Nhưng nếu có \n trong cùng một dòng (như trong ví dụ trên), thì khi tách, nó sẽ tạo ra hai dòng. Vậy chúng ta nên tách toàn bộ chuỗi bằng ký tự \n, sau đó dịch từng mục, rồi nối lại bằng \n. Điều này sẽ đảm bảo số dòng giống hệt.
+
+Kiểm tra: Trong bản gốc, có những dòng bắt đầu bằng "\n" không? Trong đoạn user, có đoạn: "\n{0.SimPronounSubjective|xxUpper} can also Mentor others in Painting." - dấu \n ở đầu, nghĩa là sau một xuống dòng, dòng này bắt đầu. Vậy khi tách, dòng đó sẽ là rỗng? Không, vì \n là ký tự xuống dòng, nên nếu chuỗi là "...\n{0.Sim...", thì sau khi tách, dòng trước đó kết thúc, dòng tiếp theo bắt đầu bằng "{0.Sim...". Vậy dấu \n ở đầu dòng trong chuỗi thực tế là kết thúc dòng trước và bắt đầu dòng mới. Do đó, khi tách, chúng ta không có dòng bắt đầu bằng \n, mà chỉ có dòng bắt đầu bằng nội dung.
+
+Vậy chúng ta sẽ: Tách chuỗi bản gốc bằng ký tự \n, được một mảng các dòng. Mỗi dòng là một chuỗi không chứa \n. Sau đó, dịch từng dòng (với các placeholder bên trong), rồi nối lại bằng \n.
+
+Tuy nhiên, có chỗ có &#xD;&#xA; - đây là thực thể XML cho CRLF, nó cũng là xuống dòng. Trong văn bản đầu vào, nó được viết là &#xD;&#xA;, không phải ký tự thực. Vậy chúng ta cần giữ nguyên chuỗi &#xD;&#xA; trong dịch, không chuyển thành \n. Vì vậy, khi tách, chúng ta chỉ tách bằng \n thực tế (nếu có), còn &#xD;&#xA; là một phần của dòng, không phải ký tự xuống dòng.
+
+Trong bản gốc, có vẻ như chỉ có \n là ký tự xuống dòng, còn &#xD;&#xA; là một chuỗi ký tự. Vậy chúng ta chỉ tách bằng \n.
+
+Kiểm tra: Trong đoạn user, có câu: "{0.SimFirstName}'s new skill in Painting will allow {0.SimPronounObjective} to create beautiful canvas artwork. The higher the skill level, the more advanced shapes {M0.he}{F0.she} can paint.&#xD;&#xA;" - có &#xD;&#xA; ở cuối, nhưng đó là một phần của dòng, không phải xuống dòng thực. Vậy dòng đó là một dòng đơn, kết thúc bằng chuỗi &#xD;&#xA;.
+
+Vậy chúng ta sẽ giữ nguyên chuỗi &#xD;&#xA; trong bản dịch.
+
+Các placeholder: Giữ nguyên nguyên văn, không dịch.
+
+Bây giờ, bắt đầu dịch từng dòng.
+
+Lưu ý: Có một số dòng là tiêu đề "Reached ... Level X" - dịch là "Đã đạt cấp độ X - [Tên kỹ năng]"? Hoặc "Cấp độ [Tên kỹ năng]: X đã đạt"? Tốt nhất: "Đạt cấp độ X [Tên kỹ năng]". Ví dụ: "Reached Painting Level 2" -> "Đạt cấp độ 2 Vẽ".
+
+Có dòng "Acquired the Painting skill" -> "Đã học được kỹ năng Vẽ".
+
+Có dòng mô tả kỹ năng: Dịch toàn bộ.
+
+Có dòng chỉ có placeholder? Không.
+
+Có dòng trống? Có thể có, nhưng trong bản gốc không thấy dòng trống rõ ràng. Tuy nhiên, sau "Smell...too...powerful..." có thể hết.
+
+Vậy thực hiện:
+
+1. "Reached Painting Level 2" -> "Đạt cấp độ 2 Vẽ"
+2. "{0.SimFirstName} can now Discuss Color Theory with other Sims." -> "{0.SimFirstName} giờ có thể Thảo luận Lý thuyết Màu sắc với các Sim khác."
+3. "\n{0.SimPronounSubjective|xxUpper} can also Mentor others in Painting." -> Lưu ý: Dòng này bắt đầu bằng \n? Trong chuỗi gốc, nó là một dòng riêng bắt đầu bằng \n? Thực tế, trong đoạn user, nó viết: "\n{0.SimPronounSubjective|xxUpper} can also Mentor others in Painting." - có dấu \n ở đầu. Nhưng khi tách, dòng này sẽ là "\n{0.SimPronounSubjective|xxUpper} can also Mentor others in Painting."? Không, vì chúng ta tách bằng \n, nên nếu có \n ở đầu, thì dòng đó sẽ trống? Hãy xem: Chuỗi gốc: "Reached Painting Level 2\n{0.SimFirstName} can now Discuss Color Theory with other Sims.\n{0.SimPronounSubjective|xxUpper} can also Mentor others in Painting." - Khi tách bằng \n, ta được:
+- "Reached Painting Level 2"
+- "{0.SimFirstName} can now Discuss Color Theory with other Sims."
+- "{0.SimPronounSubjective|xxUpper} can also Mentor others in Painting."
+Vậy dấu \n ở đầu dòng thứ 3 trong chuỗi gốc thực chất là ký tự xuống dòng giữa dòng 2 và 3, nên dòng 3 không bắt đầu bằng \n. Tuy nhiên, trong đoạn user, nó được viết là "\n{0.SimPronounSubjective|xxUpper}..." - có thể do cách trình bày, nhưng thực tế trong dữ liệu, nó là một ký tự xuống dòng. Vậy chúng ta coi như dòng đó bắt đầu bằng nội dung, không có \n. Tuy nhiên, để an toàn, khi dịch, chúng ta sẽ dịch nội dung, và nếu dòng gốc bắt đầu bằng \n thì trong bản dịch cũng bắt đầu bằng \n? Nhưng theo cách tách, dòng đó không chứa \n ở đầu. Vậy chúng ta cứ dịch nội dung, không thêm \n.
+
+Tuy nhiên, có một số dòng trong bản gốc có \n ở giữa, nhưng chúng ta đã tách rồi. Vậy chúng ta chỉ cần dịch nội dung của từng dòng sau khi tách.
+
+Nhưng trong bản gốc, có những dòng có chứa \n bên trong? Ví dụ: "After aging up to Teen, {0.SimPronounObjective} will also be able to Clog Drain on sinks and tubs.\n{0.SimPronounSubjective|xxUpper} can also Mentor others in Mischief." - đây là hai dòng? Thực ra, trong đoạn user, nó được viết liền: "After aging up to Teen, {0.SimPronounObjective} will also be able to Clog Drain on sinks and tubs.\n{0.SimPronounSubjective|xxUpper} can also Mentor others in Mischief." - có \n ở giữa. Vậy khi tách, nó thành hai dòng:
+- "After aging up to Teen, {0.SimPronounObjective} will also be able to Clog Drain on sinks and tubs."
+- "{0.SimPronounSubjective|xxUpper} can also Mentor others in Mischief."
+
+Vậy chúng ta sẽ dịch từng dòng riêng.
+
+Vậy quy trình: Tách chuỗi đầu vào bằng \n, dịch từng dòng (giữ nguyên placeholder), rồi nối lại bằng \n.
+
+Tuy nhiên, cần lưu ý: Có dòng có nhiều placeholder, ví dụ "{M0.He}{F0.She}" - giữ nguyên.
+
+Dịch xong, trả về chuỗi có cùng số dòng.
+
+Bây giờ, dịch từng dòng:
+
+Dòng 1: "Reached Painting Level 2" -> "Đạt cấp độ 2 Vẽ"
+Dòng 2: "{0.SimFirstName} can now Discuss Color Theory with other Sims." -> "{0.SimFirstName} giờ có thể Thảo luận Lý thuyết Màu sắc với các Sim khác."
+Dòng 3: "{0.SimPronounSubjective|xxUpper} can also Mentor others in Painting." -> "{0.SimPronounSubjective|xxUpper} cũng có thể Hướng dẫn người khác trong Vẽ." (Lưu ý: "Mentor" dịch là "Hướng dẫn" hoặc "Đồng hướng dẫn". Dùng "Hướng dẫn" cho ngắn gọn.)
+
+Tiếp theo: "Reached Painting Level 3" -> "Đạt cấp độ 3 Vẽ"
+"{0.SimFirstName} can now create low skill Pop Art." -> "{0.SimFirstName} giờ có thể tạo ra Pop Art cấp độ thấp."
+
+"Reached Painting Level 9" -> "Đạt cấp độ 9 Vẽ"
+"{0.SimFirstName} can now create high skill Surrealism and high skill Impressionistic paintings." -> "{0.SimFirstName} giờ có thể tạo ra Tranh Siêu thực cấp độ cao và Tranh Ấn tượng cấp độ cao."
+
+"Reached Painting Level 7" -> "Đạt cấp độ 7 Vẽ"
+"Reached Painting Level 8" -> "Đạt cấp độ 8 Vẽ"
+"{0.SimFirstName} can now create high skill Realism paintings and high skill Abstract paintings. {M0.He}{F0.She} can also Describe Aesthetics in conversation with other Sims." -> "{0.SimFirstName} giờ có thể tạo ra Tranh Chân thực cấp độ cao và Tranh Trừu tượng cấp độ cao. {M0.He}{F0.She} cũng có thể Mô tả Mỹ học trong cuộc trò chuyện với các Sim khác."
+
+"Reached Painting Level 4" -> "Đạt cấp độ 4 Vẽ"
+"{0.SimFirstName} can now create high skill Pop Art, medium skill Surrealism, and medium skill Impressionistic paintings." -> "{0.SimFirstName} giờ có thể tạo ra Pop Art cấp độ cao, Siêu thực cấp độ trung bình và Tranh Ấn tượng cấp độ trung bình."
+"{0.SimFirstName} can now create low skill Realism paintings, low skill Abstract paintings, and medium skill Classic paintings." -> "{0.SimFirstName} giờ có thể tạo ra Tranh Chân thực cấp độ thấp, Tranh Trừu tượng cấp độ thấp và Tranh Cổ điển cấp độ trung bình."
+"{0.SimFirstName} is now a Master Artist." -> "{0.SimFirstName} giờ đã là Nghệ sĩ Bậc thầy."
+
+"Acquired the Painting skill" -> "Đã học được kỹ năng Vẽ."
+"{0.SimFirstName}'s new skill in Painting will allow {0.SimPronounObjective} to create beautiful canvas artwork. The higher the skill level, the more advanced shapes {M0.he}{F0.she} can paint.&#xD;&#xA;" -> "Kỹ năng Vẽ mới của {0.SimFirstName} sẽ cho phép {0.SimPronounObjective} tạo ra những tác phẩm nghệ thuật canvas tuyệt đẹp. Cấp độ kỹ năng càng cao, {M0.he}{F0.she} càng có thể vẽ những hình dạng phức tạp hơn.&#xD;&#xA;"
+
+"Reached Painting Level 10" -> "Đạt cấp độ 10 Vẽ"
+"Reached Painting Level 6" -> "Đạt cấp độ 6 Vẽ"
+"{0.SimFirstName} can now create high skill Classic paintings, medium skill Realism painting, and medium skill Abstract paintings." -> "{0.SimFirstName} giờ có thể tạo ra Tranh Cổ điển cấp độ cao, Tranh Chân thực cấp độ trung bình và Tranh Trừu tượng cấp độ trung bình."
+
+"Reached Painting Level 5" -> "Đạt cấp độ 5 Vẽ"
+"{0.SimFirstName} can now create medium skill Pop Art, low skill Surrealism, and low skill Impressionistic paintings." -> "{0.SimFirstName} giờ có thể tạo ra Pop Art cấp độ trung bình, Siêu thực cấp độ thấp và Tranh Ấn tượng cấp độ thấp."
+
+Bây giờ đến Mischief:
+
+"Mischief-oriented Sims tend to be sly devils, delighting at tricking, pranking, and otherwise mocking their fellow Sims. Life's a party, and a Mischief Sim is out to crash it.\n\nMischief is mainly tied to social interactions and the voodoo doll. Increasing this skill will unlock new Mischievous Socials on Sims as well as Mischievous Interactions on the Voodoo Doll, Computer, Tablet, and Phone.\n\nMischief can be mentored at Skill level 5 from a Computer or Tablet."
+
+Dịch: "Các Sim hướng đến Láo Xược thường là những tên quỷ quyệt, thích thú với việc lừa lọc, chơi khăm và chế giễu các Sim khác. Cuộc sống là một bữa tiệc, và một Sim Láo Xược sẽ đến để phá tanh nó.\n\nLáo Xược chủ yếu gắn liền với tương tác xã hội và búp bê voodoo. Tăng cấp độ kỹ năng này sẽ mở khóa các Tương tác Xã hội Láo Xược mới trên các Sim cũng như các Tương tác Láo Xược trên Búp bê Voodoo, Máy tính, Máy tính bảng và Điện thoại.\n\nLáo Xược có thể được hướng dẫn ở cấp độ kỹ năng 5 từ Máy tính hoặc Máy tính bảng."
+
+"Reached Mischief Level 2" -> "Đạt cấp độ 2 Láo Xược"
+"{0.SimFirstName} can now use the Claim to be Criminal Mastermind and Instill With False Confidence interactions." -> "{0.SimFirstName} giờ có thể sử dụng các tương tác Claim to be Criminal Mastermind và Instill With False Confidence." (Giữ nguyên tên tương tác? Có lẽ nên dịch? Tên tương tác trong game thường được dịch. Ví dụ: "Claim to be Criminal Mastermind" có thể dịch là "Tuyên bố là Thiên tài Tội phạm"? Nhưng để an toàn, vì đây là tên cụ thể, có thể giữ nguyên. Tuy nhiên, trong bản dịch chính thức, chúng thường dịch. Tôi sẽ dịch sát nghĩa.)
+"Claim to be Criminal Mastermind" -> "Tuyên bố là Thiên tài Tội phạm"
+"Instill With False Confidence" -> "Thổi phồng Lòng tự tin"
+
+Vậy: "{0.SimFirstName} giờ có thể sử dụng các tương tác Tuyên bố là Thiên tài Tội phạm và Thổi phồng Lòng tự tin."
+
+"{0.SimFirstName} can now perform Noxious Cloud on other Sims. After aging up to Teen, {0.SimPronounSubjective} will also be able to Clog Drain on sinks and tubs." -> "{0.SimFirstName} giờ có thể gây ra Noxious Cloud lên các Sim khác. Sau khi trưởng thành thành Thiếu niên, {0.SimPronounSubjective} cũng sẽ có thể làm tắc cống trên bồn rửa và bồn tắm."
+"Noxious Cloud" -> "Đám mây độc hại"? Giữ nguyên? Có lẽ dịch: "Đám mây hôi thối"? Trong game, Noxious Cloud là một tương tác Láo Xược, tạo ra mùi hôi. Có thể dịch là "Đám mây hôi thối". Tôi dùng "Đám mây hôi thối".
+"Clog Drain" -> "Làm tắc cống".
+
+"\n{0.SimPronounSubjective|xxUpper} can also Mentor others in Mischief." -> "\n{0.SimPronounSubjective|xxUpper} cũng có thể Hướng dẫn người khác trong Láo Xược."
+
+"Reached Mischief Level 9" -> "Đạt cấp độ 9 Láo Xược"
+"{0.SimFirstName} can now perform Slap 'Em Silly on other Sims." -> "{0.SimFirstName} giờ có thể thực hiện Slap 'Em Silly lên các Sim khác." (Slap 'Em Silly: tên tương tác, có thể dịch là "Tát cho ngu người"? Giữ nguyên? Tốt nhất giữ nguyên tên, nhưng dịch ý: "Tát cho xỉn người"? Tôi sẽ giữ nguyên "Slap 'Em Silly" vì là tên kỹ năng.)
+Sau đó: "After aging up to Teen, {0.SimFirstName} will be able to perform Slap 'Em Silly on other Sims." -> "Sau khi trưởng thành thành Thiếu niên, {0.SimFirstName} sẽ có thể thực hiện Slap 'Em Silly lên các Sim khác."
+
+"Reached Mischief Level 6" -> "Đạt cấp độ 6 Láo Xược"
+"{0.SimFirstName} can now use the Phone to Play Hooky." -> "{0.SimFirstName} giờ có thể sử Điện thoại để trốn học." (Play Hooky: trốn học)
+
+"Reached Mischief Level 8" -> "Đạt cấp độ 8 Láo Xược"
+"{0.SimFirstName} can now use a Computer to Send Spam Money Request and can Stuff Fruit in Exhaust Port of a Rocket Ship." -> "{0.SimFirstName} giờ có thể sử dụng Máy tính để Gửi Yêu cầu Tiền Spam và có thể Nhét Trái cây vào Ống xả của Tàu vũ trụ."
+"Send Spam Money Request" -> "Gửi Yêu cầu Tiền Spam"
+"Stuff Fruit in Exhaust Port" -> "Nhét Trái cây vào Ống xả"
+
+"Reached Mischief Level 10" -> "Đạt cấp độ 10 Láo Xược"
+"{0.SimFirstName} can now perform Air Horn on other Sims." -> "{0.SimFirstName} giờ có thể thực hiện Air Horn lên các Sim khác." (Air Horn: có thể dịch là "Còi hơi"? Giữ nguyên?)
+"{0.SimFirstName} can now use a Computer to Send Spam Money Request.  After aging up to Teen, {0.SimPronounSubjective} will also be able to Stuff Fruit in Exhaust Port of a Rocket Ship." -> "{0.SimFirstName} giờ có thể sử dụng Máy tính để Gửi Yêu cầu Tiền Spam. Sau khi trưởng thành thành Thiếu niên, {0.SimPronounSubjective} cũng sẽ có thể Nhét Trái cây vào Ống xả của Tàu vũ trụ."
+
+"Reached Mischief Level 3" -> "Đạt cấp độ 3 Láo Xược"
+"{0.SimFirstName} can Ask Due Date on Sims who aren't pregnant and Dare Sims to Streak. {M0.He}{F0.She} can now Kick Over Trashcans, make Prank Phone Calls, Stomp in Puddles and Purchase Voodoo Dolls on the Computer. On top of all this, {M0.he}{F0.she} can also Tickle the Voodoo Doll." -> 
+"{0.SimFirstName} giờ có thể Hỏi Ngày dự sinh trên các Sim không mang thai và Thách thức Sim chạy khỏa thân. {M0.He}{F0.She} giờ có thể Đá Đổ Thùng rác, Gọi điện chế giễu, Đạp vũng nước và Mua Búp bê Voodoo trên Máy tính. Ngoài ra, {M0.he}{F0.she} cũng có thể Chọc cho Búp bê Voodoo."
+"Ask Due Date" -> "Hỏi Ngày dự sinh" (tương tác hỏi ngày sinh)
+"Dare Sims to Streak" -> "Thách thức Sim chạy khỏa thân"
+"Kick Over Trashcans" -> "Đá Đổ Thùng rác"
+"make Prank Phone Calls" -> "Gọi điện chế giễu"
+"Stomp in Puddles" -> "Đạp vũng nước"
+"Purchase Voodoo Dolls" -> "Mua Búp bê Voodoo"
+"Tickle the Voodoo Doll" -> "Chọc cho Búp bê Voodoo"
+
+"After aging up to Teen, {0.SimFirstName}'s new skill in Mischief will allow {0.SimPronounObjective} to do Trick with Handbuzzer and several other mischievous social interactions. As the skill level increases, new Mischief interactions will be unlocked." -> 
+"Sau khi trưởng thành thành Thiếu niên, kỹ năng Láo Xược mới của {0.SimFirstName} sẽ cho phép {0.SimPronounObjective} thực hiện Trò lừa với Máy rung tay và một số tương tác xã hội Láo Xược khác. Khi cấp độ kỹ năng tăng lên, các tương tác Láo Xược mới sẽ được mở khóa."
+"Trick with Handbuzzer" -> "Trò lừa với Máy rung tay"
+
+"Acquired the Mischief skill" -> "Đã học được kỹ năng Láo Xược."
+"{0.SimFirstName}'s new skill in Mischief will allow {0.SimPronounObjective} to trick others with a hand buzzer. As the skill level increases, new Mischief interactions will be unlocked." -> 
+"Kỹ năng Láo Xược mới của {0.SimFirstName} sẽ cho phép {0.SimPronounObjective} lừa người khác bằng máy rung tay. Khi cấp độ kỹ năng tăng lên, các tương tác Láo Xược mới sẽ được mở khóa."
+
+"Reached Mischief Level 7" -> "Đạt cấp độ 7 Láo Xược"
+"{0.SimFirstName} can now Describe Apocalypse to other Sims." -> "{0.SimFirstName} giờ có thể Mô tả Sự tận diện cho các Sim khác."
+"After aging up to Teen, {0.SimFirstName} will be able to use the Phone to Play Hooky." -> "Sau khi trưởng thành thành Thiếu niên, {0.SimFirstName} sẽ có thể sử Điện thoại để trốn học."
+
+"Reached Mischief Level 5" -> "Đạt cấp độ 5 Láo Xược"
+"{0.SimFirstName} can now perform Noxious Cloud on other Sims. {M0.He}{F0.She} can also Clog Drain on sinks and tubs." -> 
+"{0.SimFirstName} giờ có thể gây ra Đám mây hôi thối lên các Sim khác. {M0.He}{F0.She} cũng có thể làm tắc cống trên bồn rửa và bồn tắm."
+
+"Reached Mischief Level 4" -> "Đạt cấp độ 4 Láo Xược"
+"{0.SimFirstName} can now Share Conspiracy Theories with other Sims. {M0.He}{F0.She} can also use a Computer to Send Chain Letters or an Observatory to Spy on Neighbors.\n \n{0.SimFirstName} can also become Partners in Crime with other Sims." ->
+"{0.SimFirstName} giờ có thể Chia sẻ Lý thuyết Âm mưu với các Sim khác. {M0.He}{F0.She} cũng có thể sử dụng Máy tính để Gửi Thư liên kết hoặc Đài quan sát để Do thám Hàng xóm.\n \n{0.SimFirstName} cũng có thể trở thành Đồng phạm tội với các Sim khác."
+"Share Conspiracy Theories" -> "Chia sẻ Lý thuyết Âm mưu"
+"Send Chain Letters" -> "Gửi Thư liên kết"
+"Spy on Neighbors" -> "Do thám Hàng xóm"
+"Partners in Crime" -> "Đồng phạm tội"
+
+"{0.SimFirstName} can Stomp in Puddles. After aging up to Teen, {0.SimPronounObjective} will be able to Ask Due Date on Sims who aren't pregnant and Dare Sims to Streak, Kick Over Trashcans, make Prank Phone Calls,  and Purchase Voodoo Dolls on the Computer. On top of all this, {0.SimPronounObjective} will be able to Tickle the Voodoo Doll." ->
+"{0.SimFirstName} có thể Đạp vũng nước. Sau khi trưởng thành thành Thiếu niên, {0.SimPronounObjective} sẽ có thể Hỏi Ngày dự sinh trên các Sim không mang thai, Thách thức Sim chạy khỏa thân, Đá Đổ Thùng rác, Gọi điện chế giễu và Mua Búp bê Voodoo trên Máy tính. Ngoài ra, {0.SimPronounObjective} cũng sẽ có thể Chọc cho Búp bê Voodoo."
+
+Bây giờ đến Logic:
+
+"A practiced mind can be a wonderful thing, and Sims who focus on Logic want to hone their minds until they're sharper than a llamacorn's horn.\n\nLogic is built on the Chess Table, Telescope, Microscope, and Science Table (Children only). Increasing this skill will unlock new Interactions on the Microscope, Observatory, and various Collectibles.\n\nLogic can be mentored at Skill level 5 from a Chess Table, Small Telescope, Microscope, or Science Table."
+
+Dịch: "Một trí óc được rèn luyện có thể là điều tuyệt vời, và các Sim tập trung vào Logic muốn mài giũa trí óc cho đến khi nó sắc bén hơn chiếm sừng của llama-ác-mã.\n\nLogic được xây dựng dựa trên Bàn cờ vua, Kính thiên văn, Kính hiển vi và Bàn khoa học (chỉ dành cho Trẻ em). Tăng cấp độ kỹ năng này sẽ mở khóa các Tương tác mới trên Kính hiển vi, Đài quan sát và các vật sưu tập khác.\n\nLogic có thể được hướng dẫn ở cấp độ kỹ năng 5 từ Bàn cờ vua, Kính thiên văn nhỏ, Kính hiển vi hoặc Bàn khoa học."
+
+"Reached Logic Level 2" -> "Đạt cấp độ 2 Logic"
+"{0.SimFirstName} can now Discuss Logic with other Sims. After aging up to Teen, {0.SimPronounObjective} will also be able to Collect Plant Samples and Analyze them under a Microscope." ->
+"{0.SimFirstName} giờ có thể Thảo luận Logic với các Sim khác. Sau khi trưởng thành thành Thiếu niên, {0.SimPronounObjective} cũng sẽ có thể Thu thập Mẫu thực vật và Phân tích chúng dưới Kính hiển vi."
+
+"Reached Logic Level 4" -> "Đạt cấp độ 4 Logic"
+"{0.SimFirstName} can now Read Intermediate Logic Books." -> "{0.SimFirstName} giờ có thể Đọc sách Logic Trung cấp."
+"After aging up to Teen, {0.SimFirstName} will be able to Collect Fossil Samples and Analyze them under a Microscope." -> 
+"Sau khi trưởng thành thành Thiếu niên, {0.SimFirstName} sẽ có thể Thu thập Mẫu hóa thạch và Phân tích chúng dưới Kính hiển vi."
+"\n{0.SimPronounSubjective|xxUpper} can also Mentor others in Logic." -> "\n{0.SimPronounSubjective|xxUpper} cũng có thể Hướng dẫn người khác trong Logic."
+
+"Reached Logic Level 8" -> "Đạt cấp độ 8 Logic"
+"{0.SimFirstName} can now Collect Crystal Samples and Analyze them under a Microscope. {F0.She}{M0.He} can also Provide Logical Solutions to Stressed Sims." ->
+"{0.SimFirstName} giờ có thể Thu thập Mẫu tinh thể và Phân tích chúng dưới Kính hiển vi. {F0.She}{M0.He} cũng có thể Cung cấp Giải pháp Logic cho các Sims bị căng thẳng."
+
+"Reached Logic Level 9" -> "Đạt cấp độ 9 Logic"
+"{0.SimFirstName} now gets an even better Moodlet from Chess and Card Game victories." -> 
+"{0.SimFirstName} giờ nhận được Moodlet tốt hơn nữa từ những chiến thắng trong Cờ vua và Trò chơi bài."
+"{0.SimFirstName} can now Provide Logical Solutions to Stressed Sims. After aging up to Teen, {0.SimPronounObjective} will be able to Analyze Crystal Samples under a Microscope." -> 
+"{0.SimFirstName} giờ có thể Cung cấp Giải pháp Logic cho các Sims bị căng thẳng. Sau khi trưởng thành thành Thiếu niên, {0.SimPronounObjective} sẽ có thể Phân tích Mẫu tinh thể dưới Kính hiển vi."
+
+"Reached Logic Level 7" -> "Đạt cấp độ 7 Logic"
+"{0.SimFirstName} can now Read Advanced Logic Books." -> "{0.SimFirstName} giờ có thể Đọc sách Logic Nâng cao."
+
+"{0.SimFirstName}'s new Skill in Logic will allow {0.SimPronounObjective} to Play Card Games and Chess. As the Skill increases, the chance of winning Games is also increased and new Interactions will become available on the Microscope and Observatory. Additionally, after aging up to Teen, {0.SimPronounObjective} will be able to Use Scientific Equipment." -> 
+"Kỹ năng Logic mới của {0.SimFirstName} sẽ cho phép {0.SimPronounObjective} Chơi Trò chơi bài và Cờ vua. Khi Kỹ năng tăng lên, cơ hội thắng Trò chơi cũng tăng lên và các Tương tác mới sẽ xuất hiện trên Kính hiển vi và Đài quan sát. Ngoài ra, sau khi trưởng thành thành Thiếu niên, {0.SimPronounObjective} sẽ có thể Sử dụng Thiết bị khoa học."
+
+"Acquired the Logic skill" -> "Đã học được kỹ năng Logic."
+"{0.SimFirstName}'s new Skill in Logic will allow {0.SimPronounObjective} to Play Card Games, Chess, and Use Scientific Equipment. As the Skill increases, the chance of winning Games is also increased and new Interactions will become available on the Microscope and Observatory.&#xD;&#xA;" -> 
+"Kỹ năng Logic mới của {0.SimFirstName} sẽ cho phép {0.SimPronounObjective} Chơi Trò chơi bài, Cờ vua và Sử dụng Thiết bị khoa học. Khi Kỹ năng tăng lên, cơ hội thắng Trò chơi cũng tăng lên và các Tương tác mới sẽ xuất hiện trên Kính hiển vi và Đài quan sát.&#xD;&#xA;"
+
+"Reached Logic Level 5" -> "Đạt cấp độ 5 Logic"
+"{0.SimFirstName} can now Collect Fossil Samples and Analyze them under a Microscope." -> 
+"{0.SimFirstName} giờ có thể Thu thập Mẫu hóa thạch và Phân tích chúng dưới Kính hiển vi."
+
+"Reached Logic Level 3" -> "Đạt cấp độ 3 Logic"
+"{0.SimFirstName} now has a chance to gain slightly more Logic skill from Chess and Card Games than normal." -> 
+"{0.SimFirstName} giờ có cơ hội nhận nhiều kỹ năng Logic hơn một chút từ Cờ vua và Trò chơi bài so với bình thường."
+
+"Reached Logic Level 6" -> "Đạt cấp độ 6 Logic"
+"{0.SimFirstName} now has a chance to gain even larger amounts of Logic skill from interactions." -> 
+"{0.SimFirstName} giờ có cơ hội nhận được lượng kỹ năng Logic lớn hơn nữa từ các tương tác."
+
+"Reached Logic Level 10" -> "Đạt cấp độ 10 Logic"
+"While angry, {0.SimFirstName} can now Rant Logically to reduce {M0.his}{F0.her} anger." -> 
+"Khi tức giận, {0.SimFirstName} giờ có thể Trích dẫn Logic để giảm {M0.his}{F0.her} sự tức giận." ("Rant Logically" có thể dịch là "Lắm mồm một cách logic"? Tốt hơn: "Trích dẫn Logic" hoặc "Biện minh Logic". Tôi dùng "Trích dẫn Logic".)
+
+Bây giờ Knitting:
+
+"Knitting" -> "Đan Móc" (nhưng đây là tiêu đề, nên có thể giữ nguyên? Trong bản gốc, nó là một dòng riêng "Knitting", không phải "Reached Knitting Level". Có lẽ đây là tiêu đề phần giới thiệu kỹ năng. Vậy dịch: "Đan Móc")
+
+"Get comfortable and turn on some tunes, because it's time to knit! Use your talents to dress your family, decorate your house, or make some Simoleons on the side. No wrong answers here, just get to stitching! \n\nKnitting is primarily tied to the Yarn Basket. Your Sim must have a Yarn Basket in their inventory to start knitting. Increasing this skill will unlock new Knitting recipes, both clothing and objects!\n\nKnitting can be mentored at Skill level 5 from a Yarn Basket."
+
+Dịch: "Hãy làm mình thoải mái và bật nhạc lên, vì đã đến lúc đan móc! Sử dụng tài năng của bạn để trang phục cho gia đình, trang trí nhà cửa, hoặc kiếm chút Simoleon bên cạnh. Không có câu trả lời sai ở đây, chỉ cần bắt đầu thêu thùa! \n\nĐan Móc chủ yếu gắn liền với Giỏ sợi. Sim của bạn phải có Giỏ sợi trong túi đồ để bắt đầu đan. Tăng cấp độ kỹ năng này sẽ mở khóa các Công thức Đan móc mới, cả quần áo và đồ vật!\n\nĐan Móc có thể được hướng dẫn ở cấp độ kỹ năng 5 từ Giỏ sợi."
+
+"Reached Knitting Level 2" -> "Đạt cấp độ 2 Đan Móc"
+"{0.SimFirstName} can now knit Socks. A sock is something you wear on your foot, with or without a shoe. How delightful!" -> 
+"{0.SimFirstName} giờ có thể đan Vớ. Vớ là thứ bạn mang trên chân, có hoặc không có giày. Thật tuyệt vời!"
+
+"Reached Knitting Level 5" -> "Đạt cấp độ 5 Đan Móc"
+"{0.SimFirstName} is feeling confident in {M0.his}{F0.her} skills and can now knit the ultimate gift - Sweaters! Teach to Knit is now available so that {0.SimFirstName} can pass along {M0.his}{F0.her} knowledge to other Sims.\n{0.SimPronounSubjective|xxUpper} can also Mentor others in Knitting." -> 
+"{0.SimFirstName} cảm thấy tự tin vào {M0.his}{F0.her} kỹ năng và giờ có thể đan món quà tối thượng - Áo len! Dạy Đan móc hiện đã có sẵn để {0.SimFirstName} có thể truyền đạt {M0.his}{F0.her} kiến thức cho các Sim khác.\n{0.SimPronounSubjective|xxUpper} cũng có thể Hướng dẫn người khác trong Đan Móc."
+
+"Reached Knitting Level 7" -> "Đạt cấp độ 7 Đan Móc"
+"{0.SimFirstName} can now knit Decorations. Cacti and turtles and octopi, oh my!" -> 
+"{0.SimFirstName} giờ có thể đan Đồ trang trí. Xương rồng, rùa và bạch tuộc, ôi trời!"
+
+"Reached Knitting Level 9" -> "Đạt cấp độ 9 Đan Móc"
+"{0.SimFirstName} can knit Sweater Scarf Combos, or as we like to call them, &quot;Scwarfs&quot;!" -> 
+"{0.SimFirstName} có thể đan Khăn choàng Áo len Kết hợp, hay như chúng tôi thích gọi là, &quot;Scwarfs&quot;!" (Giữ nguyên từ Scwarfs vì là từ lóng)
+
+"Reached Knitting Level 10" -> "Đạt cấp độ 10 Đan Móc"
+"{0.SimFirstName} has mastered Knitting and has become one with the yarn. {0.SimPronounSubjective} can now knit Child Toys." -> 
+"{0.SimFirstName} đã làm chủ Đan Móc và trở thành một với sợi dệt. {0.SimPronounSubjective} giờ có thể đan Đồ chơi Trẻ em."
+
+"Reached Knitting Level 8" -> "Đạt cấp độ 8 Đan Móc"
+"{0.SimFirstName} can now knit Toddler Onesies and Baby Onesies. It's important to keep the little ones warm." -> 
+"{0.SimFirstName} giờ có thể đn Áo liền quần cho Trẻ mới biết đi và Trẻ sơ sinh. Quan trọng là giữ ấm những đứa trẻ nhỏ."
+
+"Reached Knitting Level 4" -> "Đạt cấp độ 4 Đan Móc"
+"{0.SimFirstName} can now knit Rugs. Rugs are big flat things that go on the floor! But then you knew that already..." -> 
+"{0.SimFirstName} giờ có thể đan Thảm. Thảm là những thứ lớn, phẳng đặt trên sàn! Nhưng bạn đã biết rồi..."
+
+"Acquired the Knitting skill" -> "Đã học được kỹ năng Đan Móc."
+"(From Loner Trait)" -> "(Từ Đặc điểm Hướng nội)" 
+"(From Loner Trait)" -> "(Từ Đặc điểm Hướng nội)" (lặp lại)
+"(From Jealous Trait)" -> "(Từ Đặc điểm Ghen tuông)"
+"(From Being Near an Infant)" -> "(Từ Khi ở gần Trẻ sơ sinh)"
+"(From Nearby Child)" -> "(Từ Trẻ em ở gần)"
+"(From Good Trait)" -> "(Từ Đặc điểm Tốt bụng)"
+"Smell...too...powerful..." -> "Mùi...quá...mạnh..."
+
+Lưu ý: Trong bản gốc, có hai dòng "(From Loner Trait)" giống hệt, nên dịch giống hệt.
+
+Bây giờ, cần đảm bảo rằng tất cả các dòng đều được dịch, và số dòng giống hệt bản gốc.
+
+Tôi sẽ tạo một mảng các dòng dịch tương ứng.
+
+Nhưng có một vấn đề: Trong bản gốc, có những dòng có chứa \n bên trong, nhưng chúng ta đã tách. Tuy nhiên, trong quá trình dịch, chúng ta có thể tạo ra các dòng mới có \n? Không, vì chúng ta chỉ dịch nội dung từng dòng, và khi nối lại, dùng \n để nối. Vậy các dòng dịch không chứa \n (trừ khi trong nội dung có \n, nhưng trong nội dung có \n thì đó là ký tự thực, và chúng ta giữ nguyên). Trong bản dịch, chúng ta sẽ giữ nguyên các ký tự \n trong nội dung dòng? Ví dụ, nếu một dòng gốc có chứa \n, thì khi tách, nó thành hai dòng. Vậy chúng ta không cần quan tâm.
+
+Vậy chúng ta sẽ có một danh sách các dòng dịch, mỗi dòng là một chuỗi.
+
+Kiểm tra lại số dòng: Đếm số dòng trong bản gốc? Có thể tôi sẽ so sánh sau khi dịch.
+
+Tôi sẽ viết code giả để tách và dịch, nhưng ở đây chỉ cần xuất ra kết quả.
+
+Tuy nhiên, có một số chỗ có dấu chấm ba và dấu ngoặc kép, cần giữ nguyên.
+
+Về placeholder: {0.SimPronounSubjective|xxUpper} - có thể dịch là gì? Chúng ta chỉ giữ nguyên, không dịch phần bên trong. Vậy trong bản dịch, vẫn giữ {0.SimPronounSubjective|xxUpper}. Tương tự cho {0.SimPronounObjective}, {M0.He}{F0.She}, v.v.
+
+Các placeholder như {0.SimFirstName} giữ nguyên.
+
+Bây giờ, dịch xong, trả về chuỗi với các dòng được nối bằng \n.
+
+Tôi sẽ dịch toàn bộ và kiểm tra.
+
+Một số điểm cần lưu ý:
+- Trong bản gốc, có "Reached Painting Level 7" và "Reached Painting Level 8" là hai dòng riêng, nhưng không có nội dung sau? Thực ra, chúng là tiêu đề, và dòng tiếp theo là nội dung cho cả hai? Trong bản gốc:
+"Reached Painting Level 7
+Reached Painting Level 8
+{0.SimFirstName} can now create high skill Realism paintings and high skill Abstract paintings. {M0.He}{F0.She} can also Describe Aesthetics in conversation with other Sims."
+
+Vậy "Reached Painting Level 7" và "Reached Painting Level 8" là hai dòng riêng, và dòng thứ ba là nội dung chung cho cả hai? Có lẽ đây là lỗi định dạng? Trong game, có thể khi đạt cấp 7 và 8, thông báo riêng? Nhưng ở đây chúng nằm liền. Tuy nhiên, chúng ta phải dịch đúng số dòng. Vậy chúng ta sẽ dịch "Reached Painting Level 7" thành "Đạt cấp độ 7 Vẽ", "Reached Painting Level 8" thành "Đạt cấp độ 8 Vẽ", và dòng thứ ba dịch như thường. Như vậy có ba dòng.
+
+Tương tự cho các cấp độ khác.
+
+Vậy tôi sẽ làm theo đúng số dòng trong bản gốc.
+
+Bây giờ, tôi sẽ liệt kê tất cả các dòng trong bản gốc (sau khi tách bằng \n) và dịch.
+
+Dựa trên đoạn user, tôi sẽ tách thủ công:
+
+1. Reached Painting Level 2
+2. {0.SimFirstName} can now Discuss Color Theory with other Sims.
+3. {0.SimPronounSubjective|xxUpper} can also Mentor others in Painting.
+4. Reached Painting Level 3
+5. {0.SimFirstName} can now create low skill Pop Art.
+6. Reached Painting Level 9
+7. {0.SimFirstName} can now create high skill Surrealism and high skill Impressionistic paintings.
+8. Reached Painting Level 7
+9. Reached Painting Level 8
+10. {0.SimFirstName} can now create high skill Realism paintings and high skill Abstract paintings. {M0.He}{F0.She} can also Describe Aesthetics in conversation with other Sims. 
+11. Reached Painting Level 4
+12. {0.SimFirstName} can now create high skill Pop Art, medium skill Surrealism, and medium skill Impressionistic paintings.
+13. {0.SimFirstName} can now create low skill Realism paintings, low skill Abstract paintings, and medium skill Classic paintings.
+14. {0.SimFirstName} is now a Master Artist.
+15. Acquired the Painting skill
+16. {0.SimFirstName}'s new skill in Painting will allow {0.SimPronounObjective} to create beautiful canvas artwork. The higher the skill level, the more advanced shapes {M0.he}{F0.she} can paint.&#xD;&#xA;
+17. Reached Painting Level 10
+18. Reached Painting Level 6
+19. {0.SimFirstName} can now create high skill Classic paintings, medium skill Realism painting, and medium skill Abstract paintings.
+20. Reached Painting Level 5
+21. {0.SimFirstName} can now create medium skill Pop Art, low skill Surrealism, and low skill Impressionistic paintings.
+22. Mischief-oriented Sims tend to be sly devils, delighting at tricking, pranking, and otherwise mocking their fellow Sims. Life's a party, and a Mischief Sim is out to crash it.\n\nMischief is mainly tied to social interactions and the voodoo doll. Increasing this skill will unlock new Mischievous Socials on Sims as well as Mischievous Interactions on the Voodoo Doll, Computer, Tablet, and Phone.\n\nMischief can be mentored at Skill level 5 from a Computer or Tablet.
+23. Reached Mischief Level 2
+24. {0.SimFirstName} can now use the Claim to be Criminal Mastermind and Instill With False Confidence interactions. 
+25. {0.SimFirstName} can now perform Noxious Cloud on other Sims. After aging up to Teen, {0.SimPronounSubjective} will also be able to Clog Drain on sinks and tubs.
+26. \n{0.SimPronounSubjective|xxUpper} can also Mentor others in Mischief.
+27. Reached Mischief Level 9
+28. {0.SimFirstName} can now perform Slap 'Em Silly on other Sims.
+29. After aging up to Teen, {0.SimFirstName} will be able to perform Slap 'Em Silly on other Sims.
+30. Reached Mischief Level 6
+31. {0.SimFirstName} can now use the Phone to Play Hooky.
+32. Reached Mischief Level 8
+33. {0.SimFirstName} can now use a Computer to Send Spam Money Request and can Stuff Fruit in Exhaust Port of a Rocket Ship.
+34. Reached Mischief Level 10
+35. {0.SimFirstName} can now perform Air Horn on other Sims. 
+36. {0.SimFirstName} can now use a Computer to Send Spam Money Request.  After aging up to Teen, {0.SimPronounSubjective} will also be able to Stuff Fruit in Exhaust Port of a Rocket Ship.
+37. Reached Mischief Level 3
+38. {0.SimFirstName} can Ask Due Date on Sims who aren't pregnant and Dare Sims to Streak. {M0.He}{F0.She} can now Kick Over Trashcans, make Prank Phone Calls, Stomp in Puddles and Purchase Voodoo Dolls on the Computer. On top of all this, {M0.he}{F0.she} can also Tickle the Voodoo Doll.
+39. After aging up to Teen, {0.SimFirstName}'s new skill in Mischief will allow {0.SimPronounObjective} to do Trick with Handbuzzer and several other mischievous social interactions. As the skill level increases, new Mischief interactions will be unlocked.
+40. Acquired the Mischief skill
+41. {0.SimFirstName}'s new skill in Mischief will allow {0.SimPronounObjective} to trick others with a hand buzzer. As the skill level increases, new Mischief interactions will be unlocked.
+42. Reached Mischief Level 7
+43. {0.SimFirstName} can now Describe Apocalypse to other Sims. 
+44. After aging up to Teen, {0.SimFirstName} will be able to use the Phone to Play Hooky.
+45. Reached Mischief Level 5
+46. {0.SimFirstName} can now perform Noxious Cloud on other Sims. {M0.He}{F0.She} can also Clog Drain on sinks and tubs.
+47. Reached Mischief Level 4
+48. {0.SimFirstName} can now Share Conspiracy Theories with other Sims. {M0.He}{F0.She} can also use a Computer to Send Chain Letters or an Observatory to Spy on Neighbors.\n \n{0.SimFirstName} can also become Partners in Crime with other Sims.
+49. {0.SimFirstName} can Stomp in Puddles. After aging up to Teen, {0.SimPronounObjective} will be able to Ask Due Date on Sims who aren't pregnant and Dare Sims to Streak, Kick Over Trashcans, make Prank Phone Calls,  and Purchase Voodoo Dolls on the Computer. On top of all this, {0.SimPronounObjective} will be able to Tickle the Voodoo Doll.
+50. A practiced mind can be a wonderful thing, and Sims who focus on Logic want to hone their minds until they're sharper than a llamacorn's horn.\n\nLogic is built on the Chess Table, Telescope, Microscope, and Science Table (Children only). Increasing this skill will unlock new Interactions on the Microscope, Observatory, and various Collectibles.\n\nLogic can be mentored at Skill level 5 from a Chess Table, Small Telescope, Microscope, or Science Table.
+51. {0.SimFirstName} can now  Discuss Logic with other Sims. After aging up to Teen, {0.SimPronounObjective} will also be able to Collect Plant Samples and Analyze them under a Microscope.
+52. Reached Logic Level 2
+53. {0.SimFirstName} can now Collect Plant Samples and Analyze them under a Microscope. {M0.He}{F0.She} can also Discuss Logic with other Sims.
+54. Reached Logic Level 4
+55. {0.SimFirstName} can now Read Intermediate Logic Books.
+56. After aging up to Teen, {0.SimFirstName} will be able to Collect Fossil Samples and Analyze them under a Microscope.
+57. \n{0.SimPronounSubjective|xxUpper} can also Mentor others in Logic.
+58. Reached Logic Level 8
+59. {0.SimFirstName} can now Collect Crystal Samples and Analyze them under a Microscope. {F0.She}{M0.He} can also Provide Logical Solutions to Stressed Sims.
+60. Reached Logic Level 9
+61. {0.SimFirstName} now gets an even better Moodlet from Chess and Card Game victories.
+62. {0.SimFirstName} can now Provide Logical Solutions to Stressed Sims. After aging up to Teen, {0.SimPronounObjective} will be able to Analyze Crystal Samples under a Microscope. 
+63. Reached Logic Level 7
+64. {0.SimFirstName} can now Read Advanced Logic Books.
+65. {0.SimFirstName}'s new Skill in Logic will allow {0.SimPronounObjective} to Play Card Games and Chess. As the Skill increases, the chance of winning Games is also increased and new Interactions will become available on the Microscope and Observatory. Additionally, after aging up to Teen, {0.SimPronounObjective} will be able to Use Scientific Equipment. 
+66. Acquired the Logic skill
+67. {0.SimFirstName}'s new Skill in Logic will allow {0.SimPronounObjective} to Play Card Games, Chess, and Use Scientific Equipment. As the Skill increases, the chance of winning Games is also increased and new Interactions will become available on the Microscope and Observatory.&#xD;&#xA;
+68. Reached Logic Level 5
+69. {0.SimFirstName} can now Collect Fossil Samples and Analyze them under a Microscope.
+70. Reached Logic Level 3
+71. {0.SimFirstName} now has a chance to gain slightly more Logic skill from Chess and Card Games than normal.
+72. Reached Logic Level 6
+73. {0.SimFirstName} now has a chance to gain even larger amounts of Logic skill from interactions.
+74. Reached Logic Level 10
+75. While angry, {0.SimFirstName} can now Rant Logically to reduce {M0.his}{F0.her} anger.
+76. Knitting

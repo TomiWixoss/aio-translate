@@ -1,0 +1,100 @@
+{0.SimFirstName} khó có thể tin rằng một con vật đã phải rời bỏ {F0.cô ấy}{M0.anh ấy} vì thiếu sự chăm sóc. {F0.Cô ấy}{M0.Anh ấy} hy vọng ngăn chặn điều này không bao giờ xảy ra lần nữa.
+(DEBUG) Luôn Thành Công ở EP11 Social với Động Vật
+Luôn thành công trong các tương tác xã hội với cáo, thỏ, gà, nhà chim, lạc đà và bò nếu có kết quả thành công tồn tại.
+(DEBUG) Luôn Thất Bại ở EP11 Social với Động Vật
+Các tương tác xã hội với thỏ, cáo, nhà chim, gà, lạc đà và bò luôn thất bại nếu có tùy chọn thất bại.
+Tin Đồn Ác Ý
+Không ai thích khi có tin đồn được bắt đầu về bản thân mình!
+Thiện và Ác
+Nó bắt đầu từ một tia lửa nghệ thuật và kết thúc bằng sự thành thạo hoàn toàn về ngôn ngữ viết. {0.SimFirstName} vừa đạt được {M0.ước mơ}{F0.ước mơ} của {M0.anh ấy}{F0.cô ấy} trở thành một nhà văn nhiều tác phẩm!\n\nĐặc Điểm Nhận Được: Thơ Ca\n{0.SimFirstName} có thể viết những câu chuyện thực sự làm sống động các Sim!
+Họa Sĩ Vĩ Đại
+Sim này muốn {M0.cuộc sống}{F0.cuộc sống} của {M0.anh ấy}{F0.cô ấy} xoay quanh nghệ thuật và hội họa!
+Nghệ thuật tốt là chủ quan, nhưng nghệ thuật tuyệt vời thì ai cũng công nhận. {0.SimFirstName} đã đạt đến đỉnh cao này bằng cách hoàn thành {M0.ước mơ}{F0.ước mơ} của {M0.anh ấy}{F0.cô ấy} trở thành một họa sĩ thế giới!\n\nĐặc Điểm Nhận Được: Trừu Tượng Cảm Xúc\n{0.SimFirstName} có thể tạo ra nghệ thuật cảm xúc bất kể {M0.hành động}{F0.hành động} của {M0.anh ấy}{F0.cô ấy}!
+Thần Đồng Nghệ Thuật
+Sim này có giấc mơ thành công trong lĩnh vực nghệ thuật!
+{0.SimFirstName} vừa đạt được {M0.ước mơ thời thơ ấu}{F0.ước mơ thời thơ ấu} của {M0.anh ấy}{F0.cô ấy} trở thành một thần đồng nghệ thuật!\n\nĐặc Điểm Nhận Được: Thiên Tư Sáng Tạo\n Phát triển kỹ năng sáng tạo nhanh hơn!
+Vận Động Viên Cơ Bắp
+Sim này muốn tập luyện và trở nên mạnh mẽ nhất có thể!
+Qua rất nhiều mồ hôi và nước mắt, {0.SimFirstName} cuối cùng cũng đã đạt được {M0.ước mơ}{F0.ước mơ} của {M0.anh ấy}{F0.cô ấy} trở thành một vận động viên cơ bắp thực thụ!\n\nĐặc Điểm Nhận Được: Trường Thọ\n{0.SimFirstName} sẽ sống lâu hơn!
+Thật là một sự tử tế! {0.SimFirstName} đã hoàn thành Thử Thách Tích Cực! \n\n{M0.Anh ấy}{F0.Cô ấy} giờ có thể nhận phần thưởng bằng cách nói chuyện với Millie Bobbie Brown lần nữa.\n\nHãy đảm bảo bạn đã thu thập tất cả phần thưởng từ Hộp Tử Tế trước tiên!
+Thử Thách Tích Cực
+Thử Thách Tích Cực Đang Diễn Ra
+Chúc mừng! Bằng cách theo dõi chặt chẽ và vui vẻ trong khi học hỏi, {0.SimFirstName} đã hoàn thành thành công khát vọng Chào Mừng và sẵn sàng kể câu chuyện Sim của chính {M0.anh ấy}{F0.cô ấy}.\n\nĐặc Điểm Nhận Được: Vượt Quá Mục Tiêu\nTăng tốc độ học kỹ năng và hiệu suất nghề nghiệp trong tương lai.
+Người Đặt Xu Hướng
+Khát Vọng của Sim sẽ giúp định hướng sự tiến bộ của họ, cũng như kiếm cho họ Điểm Hài Lòng để chi trả cho phần thưởng.
+Họa Sĩ
+Đầu Bếp
+Vận Động Viên
+Khát Vọng Hoàn Thành
+Chọn Khát Vọng Mới
+Thành Tích Ma Cà Rồng
+Rủi Ro
+Mục Tiêu
+Chung
+Chào Mừng!
+Cảm Xúc
+Thử Thách
+Xã Hội
+Vận Động
+Tư Duy
+Sáng Tạo
+Được Yêu Thích
+Thiên Nhiên
+Tình Yêu
+Địa Điểm
+Kiến Thức
+Vận May
+Đồ Ăn
+Gia Đình
+Quỷ Thuật
+Sáng Tạo
+Thể Thao
+(Từ Kỹ Năng Viết)
+(Từ Mức Kỹ Năng Cao)
+(Từ Kỹ Năng Vĩ Cầm)
+(Từ Kỹ Năng Chơi Game Video)
+(Từ Âm Nhạc Được Yêu Thích)
+(Từ Là Tuổi Teen)
+(Từ Sở Hữu Máy Hát)
+(Từ Gặp Gỡ Người Mới)
+(Từ Kỹ Năng Khoa Học Tên Lửa)
+(Từ Kỹ Năng Lập Trình)
+(Từ Ở Bể Bơi)
+(Từ Kỹ Năng Đàn Piano)
+(Từ Kỹ Năng Nhiếp Ảnh)
+(Từ Là Bạn Đời Lãng Mạn)
+(Từ Ở Công Viên)
+(Từ Là Người Chăm Sóc)
+(Từ Là Cha Mẹ)
+(Từ Kỹ Năng Vẽ Tranh)
+(Từ Ở Bảo Tàng)
+(Từ Động Cơ Thấp)
+(Từ Kỹ Năng Quỷ Thuật)
+(Từ Ở Quán Bar)
+(Từ Kỹ Năng Lập Luận)
+(Từ Ở Thư Viện)
+(Từ Là Người Ăn Chay)
+(Từ Là Nhà Săn Tìm Kho Báu)
+(Từ Là Người Hợp Cách)
+(Từ Là Người Bừa Bộn)
+(Từ Tự Tin)
+(Từ Lãng Mạn)
+(Từ Là Người Hoàn Hảo)
+(Từ Thích Giao Du)
+(Từ Khoanh Sạch)
+(Từ Là Người Yêu Âm Nhạc)
+(Từ Là Bậc Thầy Tan Chảy)
+(Từ Là Người Xấu Tính)
+(Từ Là Người Thiên Về Vật Chất)
+(Từ Trung Thành)
+(Từ Yêu Thiên Nhiên)
+(Từ Là Người Thích Ở Một Mình)
+(Từ Thích Bánh Trái Cây)
+(Từ Là Người Lười Biếng)
+(Từ Là Kẻ Trộm)
+(Từ Là Người Ghen Tị)
+(Từ Là Người Bất Thường)
+(Từ Nóng Tính)
+(Từ Ghét Trẻ Em)
+(Từ Tật Cáu Kỉnh)
+(Từ Là Đứa Trẻ Vui Nhộn)

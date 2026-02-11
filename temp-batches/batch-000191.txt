@@ -1,0 +1,724 @@
+Chúng ta sẽ dịch tất cả nội dung từ tiếng Anh sang tiếng Việt, nhưng lưu ý: KHÔNG dịch "The Sims 4", "Sims", "Sim", "Social Bunny", "EA app", "Gallery". Giữ nguyên thẻ HTML, biến {0.String}, ký tự đặc biệt. Trả về đúng số dòng.
+
+Tôi cần xem xét từng đoạn và dịch sao cho tự nhiên trong tiếng Việt, đồng thời giữ nguyên các thành phần không được dịch và cấu trúc.
+
+Phân tích:
+- Có các mục nhiệm vụ (objectives) và mô tả.
+- Có các biến số như {0.Number}, {0.String}.
+- Có các thẻ HTML như <b>, <i>.
+- Có các ký tự đặc biệt như "&lt;" và "&gt;" (thực ra là < và > trong HTML, nhưng trong văn bản nó được escape, nên giữ nguyên).
+
+Tôi sẽ dịch toàn bộ, nhưng tránh dịch các từ đã nêu.
+
+Lưu ý: Một số câu có thể dài, cần chia để giữ số dòng? Đề bài nói "Trả về đúng số dòng", tức là giữ nguyên số dòng trong bản gốc. Vì vậy, tôi phải đảm bảo bản dịch có cùng số dòng với bản gốc.
+
+Tôi sẽ đếm số dòng trong bản gốc: từ "Get out there..." đến cuối cùng. Tôi thấy có nhiều đoạn, mỗi đoạn có thể nhiều dòng. Tôi cần giữ nguyên cấu trúc: mỗi dòng trong bản gốc sẽ tương ứng một dòng trong bản dịch.
+
+Tôi sẽ xử lý từng dòng:
+
+Dòng 1: "Get out there and meet some other Sims to make Friends! Grades can be raised by going to school with a positive emotion or completing homework."
+- Không dịch "Sims", nhưng "Friends" có thể dịch là "Bạn bè"? Tuy nhiên, "Friends" ở đây có thể là trạng thái quan hệ, nên có thể giữ nguyên hoặc dịch. Vì đây là nhiệm vụ, nên dịch cho rõ: "Ra ngoài và kết bạn với những Sim khác! Điểm có thể được nâng lên bằng cách đi học với cảm xúc tích cực hoặc hoàn thành bài tập về nhà."
+- Nhưng lưu ý: "Friends" không phải là từ cần giữ nguyên? Đề chỉ giữ nguyên "Sims", "Sim", ... "Friends" không nằm trong danh sách. Vậy có thể dịch. Tuy nhiên, trong ngữ cảnh game, "Friends" thường dịch là "Bạn bè". Vậy dịch.
+
+Dòng 2: "Teen is at least a B-student and has 5 friends"
+- "Teen" không phải "Sim" nên dịch: "Thiếu niên ít nhất là học sinh loại B và có 5 bạn bè."
+
+Dòng 3: "Explore the Night"
+- Có thể dịch: "Khám phá Ban Đêm" (nếu là tên sự kiện) hoặc dịch tự nhiên. Vì là tiêu đề, nên dịch: "Khám phá Đêm"
+
+Dòng 4: "In The Moodlet"
+- "Moodlet" là thuật ngữ trong game, có thể giữ nguyên hoặc dịch. Vì đề không yêu cầu giữ "Moodlet", nên có thể dịch: "Trong Tâm trạng" (nhưng Moodlet thường là biểu tượng cảm xúc). Có thể dịch là "Cảm xúc" hoặc giữ nguyên. Tốt nhất nên dịch cho dễ hiểu: "Trong Cảm xúc"
+
+Dòng 5: "Perfect the Art of Grilling"
+- Dịch: "Hoàn hảo Nghệ thuật Nướng"
+
+Dòng 6: "They say best friends are forever! Form bonds by making a childhood best friend and becoming good friends with other youthful Sims. Play, Adventure and form lifelong bonds in the passion of youth, before entering into your Teenage Years."
+- Dịch: "Người ta nói bạn thân là mãi mãi! Hình thành mối quan hệ bằng cách tạo một bạn thân thời thơ ấu và trở thành bạn tốt với những Sim trẻ khác. Chơi đùa, phiêu lưu và hình thành mối quan hệ suốt đời trong niềm đam mê của tuổi trẻ, trước khi bước vào những năm tuổi teen."
+
+Dòng 7: "A good friend knows all your stories. A best friend helped you write them."
+- Dịch: "Một người bạn tốt biết tất cả câu chuyện của bạn. Một người bạn thân đã giúp bạn viết chúng."
+
+Dòng 8: "Start your Sim's Career from the Phone or Computer, make Friends by being friendly with other Sims, and do tasks in the Aspiration panel to complete a Milestone"
+- Không dịch "Sim" -> "Sự nghiệp của Sim", nhưng "Sim" giữ nguyên. Vậy: "Bắt đầu sự nghiệp của Sim từ Điện thoại hoặc Máy tính, kết bạn bằng cách thân thiện với những Sim khác, và thực hiện nhiệm vụ trong bảng Aspiration để hoàn thành một Cột mốc."
+
+Dòng 9: "Sim gets to level 3 of any Career, has 3 Friends, and completes 2 Milestones of any Aspiration"
+- Dịch: "Sim đạt cấp 3 của bất kỳ Sự nghiệp nào, có 3 Bạn bè, và hoàn thành 2 Cột mốc của bất kỳ Aspiration nào."
+
+Dòng 10: "Working Relationship"
+- Dịch: "Mối quan hệ làm việc"
+
+Dòng 11: "Sims can become a CEO in the Business Career by choosing the Management Track after getting promoted from Senior Manager, and continuing to get promoted further up the career ladder. Logic, Charisma, and a Confident Mood help a Sim excel in this career, as well as going to work and doing any Daily Tasks listed in the Career Panel."
+- Dịch: "Sims có thể trở thành Giám đốc điều hành trong Sự nghiệp Kinh doanh bằng cách chọn Lộ trình Quản lý sau khi được thăng chức từ Quản lý Cấp cao, và tiếp tục được thăng chức cao hơn trên thang sự nghiệp. Tư duy Logic, Sức hút và Tâm trạng Tự tin giúp Sim xuất sắc trong sự nghiệp này, cũng như đi làm và thực hiện bất kỳ Nhiệm vụ Hàng ngày nào được liệt kê trong Bảng Sự nghiệp."
+
+Dòng 12: "One from the couple becomes a CEO, the other becomes an Angel Investor (Investor Track of Business Career)"
+- Dịch: "Một người trong cặp đôi trở thành Giám đốc điều hành, người kia trở thành Nhà đầu tư Thiên thần (Lộ trình Nhà đầu tư của Sự nghiệp Kinh doanh)"
+
+Dòng 13: "Raise Funds and the Child Sim before Aging Up"
+- Dịch: "Gây quỹ và Nuôi dưỡng Sim Trẻ em trước khi Trưởng thành"
+
+Dòng 14: "A Sim becomes a Comedian and broke up with their initial romantic partner"
+- Dịch: "Một Sim trở thành Diễn viên Hài và chia tay với bạn đời ban đầu"
+
+Dòng 15: "Children have Mental, Creative, Social, and Motor Skills. Choose one skill and level it up by using skill-building Kids objects"
+- Dịch: "Trẻ em có các Kỹ năng Tinh thần, Sáng tạo, Xã hội và Vận động. Chọn một kỹ năng và nâng cấp bằng cách sử dụng các đồ vật cho Trẻ em xây dựng kỹ năng."
+
+Dòng 16: "Reach Level 5 in one of Sofia and Leonardo's Skills"
+- Dịch: "Đạt Cấp 5 trong một trong các Kỹ năng của Sofia và Leonardo"
+
+Dòng 17: "Click on the aspirations tab to see what your Sims desire most. As Sims act out their aspirations, they grow and gain reward points."
+- Dịch: "Nhấp vào tab Aspiration để xem điều mà Sim của bạn mong muốn nhất. Khi Sim thực hiện các aspiration của họ, họ phát triển và kiếm được điểm thưởng."
+
+Dòng 18: "Complete Child Aspirations"
+- Dịch: "Hoàn thành Aspiration Trẻ em"
+
+Dòng 19: "Complete party goals to increase the party score and have fun until the party ends"
+- Dịch: "Hoàn thành mục tiêu bữa tiệc để tăng điểm bữa tiệc và vui vẻ cho đến khi bữa tiệc kết thúc"
+
+Dòng 20: "Complete the Party"
+- Dịch: "Hoàn thành Bữa tiệc"
+
+Dòng 21: "Select Plan a Social Event in the Social category on the phone, select a House Party or Dinner Party, and make sure &lt;b&gt;Goals and Rewards&lt;/b&gt; is checked."
+- Dịch: "Chọn Plan a Social Event trong danh mục Social trên điện thoại, chọn House Party hoặc Dinner Party, và đảm bảo &lt;b&gt;Goals and Rewards&lt;/b&gt; được chọn."
+- Lưu ý giữ nguyên thẻ HTML.
+
+Dòng 22: "Start a House or Dinner Party"
+- Dịch: "Bắt đầu một House Party hoặc Dinner Party"
+
+Dòng 23: "Farrah's friend will give her a call soon!"
+- Dịch: "Bạn của Farrah sẽ gọi cho cô ấy sớm thôi!"
+
+Dòng 24: "Answer Phone"
+- Dịch: "Trả lời Điện thoại"
+
+Dòng 25: "Use the treadmill, workout machine, or punching bag for 1 hour"
+- Dịch: "Sử dụng máy chạy bộ, máy tập thể dục, hoặc túi đánh boxing trong 1 giờ"
+
+Dòng 26: "Work Out for 1 Hour"
+- Dịch: "Tập thể dục trong 1 Giờ"
+
+Dòng 27: "Use the phone and select Travel in the Travel category, and select a Gym or Bar in the map view"
+- Dịch: "Sử dụng điện thoại và chọn Travel trong danh mục Travel, và chọn Gym hoặc Bar trong chế độ xem bản đồ"
+
+Dòng 28: "Travel to Gym or Bar"
+- Dịch: "Đi đến Gym hoặc Bar"
+
+Dòng 29: "Make sure Grandma and all the Siblings are home by clicking the Go Home button"
+- Dịch: "Đảm bảo Bà và tất cả các Anh chị em đều ở nhà bằng cách nhấn nút Go Home"
+
+Dòng 30: "Bring the Family Home"
+- Dịch: "Đưa Gia đình về Nhà"
+
+Dòng 31: "Find a significant other for each sibling by performing Romantic Interactions with another Sim and asking them to be your romantic partner."
+- Dịch: "Tìm một người yêu cho mỗi anh chị em bằng cách thực hiện Tương tác Lãng mạn với một Sim khác và yêu cầu họ trở thành bạn đời của bạn."
+
+Dòng 32: "Find a Romantic Partner for Each Sibling"
+- Dịch: "Tìm Bạn đời cho Mỗi Anh chị em"
+
+Dòng 33: "Make sure each sibling has a job! Use the Phone's Business Section or a Computer to &quot;Find a Job.&quot; You can also use the Career Panel to &quot;Join a Career.&quot;"
+- Dịch: "Đảm bảo mỗi anh chị em có một công việc! Sử dụng phần Business của Điện thoại hoặc Máy tính để &quot;Find a Job.&quot; Bạn cũng có thể sử dụng Career Panel để &quot;Join a Career.&quot;"
+- Lưu ý giữ nguyên dấu ngoặc kép và &quot;.
+
+Dòng 34: "Get a Job for All Siblings"
+- Dịch: "Tìm Công việc cho Tất cả Anh chị em"
+
+Dòng 35: "To Mentor, reach level 10 in a skill and use the Mentor interaction on the teenage Sim while she is practicing that skill."
+- Dịch: "Để Mentoring, đạt cấp 10 trong một kỹ năng và sử dụng tương tác Mentor lên Sim thiếu niên khi cô ấy đang luyện tập kỹ năng đó."
+
+Dòng 36: "A Sim Mentors a Teenager in skill 5 times"
+- Dịch: "Một Sim Mentoring một Thiếu niên trong kỹ năng 5 lần"
+
+Dòng 37: "Gain Imagination skill by playing with Toys and Dolls, Draw with Llama on the Wabbit Tablet, listening to music, or looking at Toddler Books."
+- Dịch: "Tăng kỹ năng Trí tưởng tượng bằng cách chơi với Đồ chơi và Búp bê, Vẽ với Llama trên Wabbit Tablet, nghe nhạc, hoặc xem Sách cho Trẻ mới biết đi."
+
+Dòng 38: "Have your Toddler reach Level 5 Imagination Skill"
+- Dịch: "Làm cho Trẻ mới biết đi của bạn đạt Cấp 5 Kỹ năng Trí tưởng tượng"
+
+Dòng 39: "Skill Books are a useful way for Sims to gain Skills and can be found at the Library or purchased from a Computer"
+- Dịch: "Sách Kỹ năng là cách hữu ích để Sims có được Kỹ năng và có thể tìm thấy ở Thư viện hoặc mua từ Máy tính"
+
+Dòng 40: "Reach level {0.Number} in any Skill"
+- Dịch: "Đạt cấp {0.Number} trong bất kỳ Kỹ năng nào"
+- Giữ nguyên biến {0.Number}.
+
+Dòng 41: "Reach Level 10 in at least 3 Skills"
+- Dịch: "Đạt Cấp 10 trong ít nhất 3 Kỹ năng"
+
+Dòng 42: "Sims can mentor in: Programming, Rocket Science, Comedy, Writing, Painting, Fishing, Handiness, Logic, Piano, Violin, Guitar, Fitness, Robotics, Fabrication and Knitting."
+- Dịch: "Sims có thể mentor trong: Lập trình, Khoa học Tên lửa, Hài kịch, Viết, Vẽ, Câu cá, Khéo léo, Tư duy, Piano, Violin, Guitar, Thể dục, Robot, Chế tạo và Đan."
+
+Dòng 43: "A Sim is level 10 in a Mentorable Skill"
+- Dịch: "Một Sim ở cấp 10 trong một Kỹ năng Có thể Mentor"
+
+Dòng 44: "Plan a Social Event through your phone or open your calendar and plan an Event"
+- Dịch: "Lập kế hoạch một Sự kiện Xã hội qua điện thoại của bạn hoặc mở lịch và lập kế hoạch một Sự kiện"
+
+Dòng 45: "Host a Party! Plan a Social Event through your Phone."
+- Dịch: "Tổ chức một Bữa tiệc! Lập kế hoạch một Sự kiện Xã hội qua Điện thoại của bạn."
+
+Dòng 46: "A Sim is Soulmates with someone they’ve never broken up with"
+- Dịch: "Một Sim là Đồng tâm hồn với ai đó mà họ chưa bao giờ chia tay"
+
+Dòng 47: "Sims who are very high in Friendship and Romance are Soulmates."
+- Dịch: "Những Sim rất cao trong Tình bạn và Tình cảm là Đồng tâm hồn."
+
+Dòng 48: "A Sim is Soulmates with someone they’ve broken up with"
+- Dịch: "Một Sim là Đồng tâm hồn với ai đó mà họ đã chia tay"
+
+Dòng 49: "Initial Sims are Soulmates"
+- Dịch: "Sims Ban đầu là Đồng tâm hồn"
+
+Dòng 50: "Sims who are very high in Romance and neutral in Friendship are Lovers"
+- Dịch: "Những Sim rất cao trong Tình cảm và trung lập trong Tình bạn là Người yêu"
+
+Dòng 51: "Initial Sims are Lovers"
+- Dịch: "Sims Ban đầu là Người yêu"
+
+Dòng 52: "Sims can break up with each other with the Mean interaction: Break Up"
+- Dịch: "Sims có thể chia tay với nhau bằng tương tác Mean: Break Up"
+
+Dòng 53: "Initial Sims are broken up"
+- Dịch: "Sims Ban đầu đã chia tay"
+
+Dòng 54: "Sim has {0.Number} friends"
+- Dịch: "Sim có {0.Number} bạn bè"
+
+Dòng 55: "Get out there and meet some other Sims to make Friends!"
+- Dịch: "Ra ngoài và kết bạn với những Sim khác!"
+
+Dòng 56: "Teen has {0.Number} friends"
+- Dịch: "Thiếu niên có {0.Number} bạn bè"
+
+Dòng 57: "Congratulations on completing the Scenario!\n\nAs a reward, each Sim in this household has earned Satisfaction Points which you can spend at the Rewards Store. You can buy rewards for each Sim in their Aspiration Panel."
+- Dịch: "Chúc mừng bạn đã hoàn thành Scenario!\n\nNhư một phần thưởng, mỗi Sim trong hộ gia đình này đã kiếm được Điểm Hài lòng mà bạn có thể chi tiêu tại Cửa hàng Phần thưởng. Bạn có thể mua phần thưởng cho mỗi Sim trong Bảng Aspiration của họ."
+
+Dòng 58: "Sims who are very high in Friendship can ask to become Best Friends."
+- Dịch: "Những Sim rất cao trong Tình bạn có thể yêu cầu trở thành Bạn thân."
+
+Dòng 59: "A Sim is Best Friends with someone they’ve broken up with"
+- Dịch: "Một Sim là Bạn thân với ai đó mà họ đã chia tay"
+
+Dòng 60: "A Sim is Best Friends with her Mentee"
+- Dịch: "Một Sim là Bạn thân với học trò của cô ấy"
+
+Dòng 61: "Completing Aspirations is a great way to give your child an advantage when they grow up by earning a Reward Trait!\n\nView Aspiration requirements or select a new Aspiration in the Aspiration tab."
+- Dịch: "Hoàn thành Aspiration là một cách tuyệt vời để cho con bạn một lợi thế khi chúng lớn lên bằng cách kiếm được Reward Trait!\n\nXem yêu cầu Aspiration hoặc chọn một Aspiration mới trong tab Aspiration."
+
+Dòng 62: "Have your child complete a Childhood Aspiration"
+- Dịch: "Làm cho con bạn hoàn thành một Aspiration Thời thơ ấu"
+
+Dòng 63: "When plants reach maximum health, they can be evolved to improve their overall quality. Once a blossoming plant reaches Quality: Perfect, use the Harvest interaction to complete this goal. Requirement: Gardening 2, no Oversized Crops"
+- Dịch: "Khi cây đạt sức khỏe tối đa, chúng có thể được tiến hóa để cải thiện chất lượng tổng thể. Một khi cây nở hoa đạt Chất lượng: Hoàn hảo, sử dụng tương tác Harvest để hoàn thành mục tiêu này. Yêu cầu: Trồng trọt 2, không có Cây trái Cỡ to"
+
+Dòng 64: "Harvest from a Perfect Quality plant"
+- Dịch: "Thu hoạch từ một cây Chất lượng Hoàn hảo"
+
+Dòng 65: "Open your inventory and eat one &quot;Forbidden Fruit of the PlantSim&quot; that has magically appeared. "
+- Dịch: "Mở kho đồng của bạn và ăn một &quot;Quả Cấm của PlantSim&quot; đã xuất hiện như phép thuật."
+
+Dòng 66: "Eat the &quot;Forbidden Fruit of the PlantSim&quot; from your inventory"
+- Dịch: "Ăn &quot;Quả Cấm của PlantSim&quot; từ kho đồng của bạn"
+
+Dòng 67: "A Sim needed for scenario moved out or is deceased"
+- Dịch: "Một Sim cần thiết cho scenario đã chuyển đi hoặc đã mất"
+
+Dòng 68: "Choose a sibling's phone and donate your inheritance. Start fresh with no Simoleons, but hopefully better karma!"
+- Dịch: "Chọn điện thoại của một anh chị em và quyên góp di sản của bạn. Bắt đầu lại không có Simoleon, nhưng hy vọng có karma tốt hơn!"
+
+Dòng 69: "Donate Inheritance to Charity"
+- Dịch: "Quyên góp Di sản cho Từ thiện"
+
+Dòng 70: "Have at least one sibling get promoted in their career path by completing their Promotion and Daily Tasks in the Career Panel."
+- Dịch: "Làm cho ít nhất một anh chị em được thăng chức trong con đường sự nghiệp của họ bằng cách hoàn thành Thăng chức và Nhiệm vụ Hàng ngày trong Bảng Sự nghiệp."
+
+Dòng 71: "Get Promoted"
+- Dịch: "Được Thăng chức"
+
+Dòng 72: "Select Grandmother and use the Phone's Home section to &quot;Burn Inheritance Money.&quot; That oughta show them you're not joking around!"
+- Dịch: "Chọn Bà và sử dụng phần Home của Điện thoại để &quot;Đốt Tiền Di sản.&quot; Điều đó sẽ cho họ thấy bạn không đùa đâu!"
+
+Dòng 73: "Burn 50,000 Simoleons of Inheritance "
+- Dịch: "Đốt 50,000 Simoleons Di sản"
+
+Dòng 74: "Try being friendly to your grandmother or have her do fun activities such as watching TV or reading a book until she no longer feels angry or sad."
+- Dịch: "Hãy thử thân thiện với bà hoặc để bà làm các hoạt động vui vẻ như xem TV hoặc đọc sách cho đến khi bà không còn cảm thấy tức giận hoặc buồn bã."
+
+Dòng 75: "Improve Grandmother's Mood"
+- Dịch: "Cải thiện Tâm trạng của Bà"
+
+Dòng 76: "Select Grandmother and use the Phone's Home section to &quot;Donate Inheritance Money to Charity.&quot; That oughta show them you're not joking around!"
+- Dịch: "Chọn Bà và sử dụng phần Home của Điện thoại để &quot;Quyên góp Tiền Di sản cho Từ thiện.&quot; Điều đó sẽ cho họ thấy bạn không đùa đâu!"
+
+Dòng 77: "Donate 10,000 Simoleons of Inheritance to Charity"
+- Dịch: "Quyên góp 10,000 Simoleons Di sản cho Từ thiện"
+
+Dòng 78: "Avoid using mean social interactions during a dinner party. Direct siblings to be kind to each other and heal the rift!"
+- Dịch: "Tránh sử dụng tương tác xã hội độc hại trong bữa tối. Chỉ đạo các anh chị em đối xử tử tế với nhau và hàn gắn rạn nứt!"
+
+Dòng 79: "Get Through a Dinner Party without Fighting"
+- Dịch: "Vượt qua một Bữa tối mà không Cãi vã"
+
+Dòng 80: "Use the Phone's &quot;Plan a Social Event&quot; under Social or the Calendar's &quot;Add Event&quot; to plan a dinner party and invite Grandma and all the Siblings. Completing a Dinner Party without fighting will improve Grandma's mood!"
+- Dịch: "Sử dụng &quot;Plan a Social Event&quot; của Điện thoại dưới Social hoặc &quot;Add Event&quot; của Calendar để lập kế hoạch một bữa tối và mời Bà và tất cả các Anh chị em. Hoàn thành một Bữa tối mà không cãi vã sẽ cải thiện tâm trạng của Bà!"
+
+Dòng 81: "Throw a Dinner Party"
+- Dịch: "Tổ chức một Bữa tối"
+
+Dòng 82: "Game Over for this household"
+- Dịch: "Game Over cho hộ gia đình này"
+
+Dòng 83: "Missing 1 or more of the original set of Toddlers"
+- Dịch: "Thiếu 1 hoặc nhiều trong bộ Trẻ mới biết đi ban đầu"
+
+Dòng 84: "Missing a Sim who is needed for this Scenario"
+- Dịch: "Thiếu một Sim cần thiết cho Scenario này"
+
+Dòng 85: "A Toddler or Child got taken away due to neglect"
+- Dịch: "Một Trẻ mới biết đi hoặc Trẻ em bị đưa đi do bỏ bê"
+
+Dòng 86: "Alone at Last"
+- Dịch: "Cuối cùng cũng một mình"
+
+Dòng 87: "You are now ready to dazzle your guests!\n\nHost a Cook Out from your Phone or the Calendar."
+- Dịch: "Bạn giờ đã sẵn sàng gây ấn tượng với khách mời của mình!\n\nTổ chức một Cook Out từ Điện thoại hoặc Calendar."
+
+Dòng 88: "Host a Cook Out!"
+- Dịch: "Tổ chức một Cook Out!"
+
+Dòng 89: "Grilling something with gills is important for every Cook Out!\n\nClick on a Fishing Sign to go Fishing."
+- Dịch: "Nướng thứ gì đó với mang là quan trọng cho mọi Cook Out!\n\nNhấp vào biển báo Câu cá để đi Câu cá."
+
+Dòng 90: "Catch Fish for grilling"
+- Dịch: "Bắt Cá để nướng"
+
+Dòng 91: "To truly perfect the art of grilling, you need some real Cooking Skill!\n\nLevel up your Cooking Skill by Cooking at a Grill, Stove, or Fridge."
+- Dịch: "Để thực sự hoàn hảo nghệ thuật nướng, bạn cần một số Kỹ năng Nấu ăn thực sự!\n\nNâng cấp Kỹ năng Nấu ăn của bạn bằng cách Nấu ở Grill, Stove, hoặc Fridge."
+
+Dòng 92: "Level up your Cooking Skill to 7"
+- Dịch: "Nâng cấp Kỹ năng Nấu ăn lên 7"
+
+Dòng 93: "Corny jokes require some Comedy skill to pull off, and a good Cook Out has good jokes.\n\nPractice your Comedy skill at a Mirror or Microphone, or just Tell Jokes to another Sim."
+- Dịch: "Những câu đùa nhàm chán đòi hỏi một số kỹ năng Hài kịch để thực hiện, và một Cook Out tốt có những câu đùa hay.\n\nThực hành kỹ năng Hài kịch của bạn tại Gương hoặc Microphone, hoặc chỉ cần kể chuyện cười cho một Sim khác."
+
+Dòng 94: "(Objective 3 of 5)\n\nSims age up when they reach the end of a life stage or by blowing out candles on a cake. Check the Simology panel to see how many days remain in the life stage. To age up early, bake or purchase a cake. Then add Birthday Candles and have the Sim blow them out!\n\nReward: 2500 Simoleons"
+- Dịch: "(Mục tiêu 3 của 5)\n\nSims trưởng thành khi họ đến cuối một giai đoạn cuộc sống hoặc bằng cách thổi nến trên bánh. Kiểm tra bảng Simology để xem còn bao nhiêu ngày trong giai đoạn cuộc sống. Để trưởng thành sớm, nướng hoặc mua một chiếc bánh. Sau đó thêm Nến Sinh nhật và để Sim thổi chúng ra!\n\nPhần thưởng: 2500 Simoleons"
+
+Dòng 95: "Have a Teen Reach Young Adult Age"
+- Dịch: "Làm một Thiếu niên Đạt Tuổi Thanh niên"
+
+Dòng 96: "&lt;i&gt;The teenage years are critical to establishing how a person will become an adult, though it is not always the easiest period for the child or adult!&lt;/i&gt;\n\nYou completed a Dream goal and earned 2500 Simoleons as a reward!\n\nKeep playing to continue the Dream!"
+- Dịch: "&lt;i&gt;Những năm tuổi teen rất quan trọng để xác định một người sẽ trở thành người lớn như thế nào, mặc dù nó không phải lúc nào cũng là giai đoạn dễ dàng cho trẻ em hay người lớn!&lt;/i&gt;\n\nBạn đã hoàn thành mục tiêu Dream và kiếm được 2500 Simoleons như một phần thưởng!\n\nTiếp tục chơi để tiếp tục Giấc mơ!"
+
+Dòng 97: "(Objective 2 of 5)\n\nSims age up when they reach the end of a life stage or by blowing out candles on a cake. Check the Simology panel to see how many days remain in the life stage. To age up early, bake or purchase a cake. Then add Birthday Candles and have the Sim blow them out!\n\nIf you need to add a Child to the household you can Try for Baby or Have Science Baby with a romantic partner, as well as Adopt from a Phone or Computer.\n\nReward: 2500 Simoleons"
+- Dịch: "(Mục tiêu 2 của 5)\n\nSims trưởng thành khi họ đến cuối một giai đoạn cuộc sống hoặc bằng cách thổi nến trên bánh. Kiểm tra bảng Simology để xem còn bao nhiêu ngày trong giai đoạn cuộc sống. Để trưởng thành sớm, nướng hoặc mua một chiếc bánh. Sau đó thêm Nến Sinh nhật và để Sim thổi chúng ra!\n\nNếu bạn cần thêm một Trẻ em vào hộ gia đình, bạn có thể Thử cho Bé hoặc Có Bé Khoa học với bạn đời lãng mạn, cũng như Nhận con nuôi từ Điện thoại hoặc Máy tính.\n\nPhần thưởng: 2500 Simoleons"
+
+Dòng 98: "Have a Child Reach Teen Age"
+- Dịch: "Làm một Trẻ em Đạt Tuổi Thiếu niên"
+
+Dòng 99: "&lt;i&gt;As family members reach the final life stage, they've earned a respite from the hard work.&lt;/i&gt;\n\nYou completed a Dream goal and earned 5000 Simoleons as a reward!\n\nKeep playing to continue the Dream!"
+- Dịch: "&lt;i&gt;Khi các thành viên gia đình đạt giai đoạn cuối cùng của cuộc sống, họ đã kiếm được một khoảng nghỉ từ công việc vất vả.&lt;/i&gt;\n\nBạn đã hoàn thành mục tiêu Dream và kiếm được 5000 Simoleons như một phần thưởng!\n\nTiếp tục chơi để tiếp tục Giấc mơ!"
+
+Dòng 100: "(Objective 4 of 5)\n\nSims age up when they reach the end of a life stage or by blowing out candles on a cake. Check the Simology panel to see how many days remain in the life stage. To age up early, bake or purchase a cake. Then add Birthday Candles and have the Sim blow them out!\n\nReward: 5000 Simoleons"
+- Dịch: "(Mục tiêu 4 của 5)\n\nSims trưởng thành khi họ đến cuối một giai đoạn cuộc sống hoặc bằng cách thổi nến trên bánh. Kiểm tra bảng Simology để xem còn bao nhiêu ngày trong giai đoạn cuộc sống. Để trưởng thành sớm, nướng hoặc mua một chiếc bánh. Sau đó thêm Nến Sinh nhật và để Sim thổi chúng ra!\n\nPhần thưởng: 5000 Simoleons"
+
+Tôi đã dịch xong tất cả các dòng. Bây giờ tôi cần đếm xem có bao nhiêu dòng trong bản gốc và bản dịch có khớp không.
+
+Tôi thấy bản gốc có khoảng 100 dòng? Tôi đã liệt kê đến dòng 100. Tuy nhiên, trong bản gốc có thể có các dòng trống? Tôi cần kiểm tra.
+
+Trong bản gốc, có các dòng như:
+- Dòng 1: "Get out there and meet some other Sims to make Friends! Grades can be raised by going to school with a positive emotion or completing homework."
+- Dòng 2: "Teen is at least a B-student and has 5 friends"
+- ... cho đến dòng 100.
+
+Tôi đã dịch từng dòng, giữ nguyên cấu trúc. Vì vậy, bản dịch nên có cùng số dòng.
+
+Tuy nhiên, có một số dòng có chứa "\n\n" - đó là trong cùng một dòng, nên tôi giữ nguyên.
+
+Vậy tôi sẽ trả về bản dịch đã dịch, với tất cả các dòng tương ứng.
+
+Lưu ý: Trong bản gốc, có các dòng như "(Objective 3 of 5)" và sau đó là đoạn văn. Tôi đã dịch thành một dòng duy nhất với "\n\n" bên trong. Vậy số dòng vẫn giữ.
+
+Tôi cần đảm bảo không dịch các từ đã chỉ định. Trong bản dịch, tôi không dịch "Sims", "Sim" (trong một số trường hợp tôi dịch "Sim" là "Sim", nhưng trong tiếng Việt người ta thường giữ nguyên "Sim". Tuy nhiên, đề bài nói "KHÔNG dịch: 'The Sims 4', 'Sims', 'Sim', ...". Vậy tôi phải giữ nguyên "Sim" và "Sims" trong bản dịch.
+
+Trong bản dịch của tôi, tôi có nơi dùng "Sim" và "Sims". Ví dụ: "Sim có thể trở thành Giám đốc..." - ở đây tôi dịch "Sims" thành "Sims"? Tôi nên giữ nguyên "Sims" và "Sim". Vì vậy, tôi cần sửa lại: thay vì dịch "Sims" thành "Sims" (giữ nguyên) hoặc "Sim" giữ nguyên.
+
+Quy tắc: KHÔNG dịch "Sims", "Sim". Vậy trong bản dịch, khi gặp "Sims" hoặc "Sim" trong bản gốc, tôi phải giữ nguyên chúng, không dịch.
+
+Tôi đã dịch nhiều chỗ thành "Sim" (tiếng Việt) hoặc "Sims". Tôi cần kiểm tra lại.
+
+Ví dụ:
+- Dòng 1: "Get out there and meet some other Sims to make Friends!" -> Tôi dịch: "Ra ngoài và kết bạn với những Sim khác!" Ở đây "Sims" tôi giữ nguyên là "Sim" (vì trong tiếng Việt, người ta thường nói "Sim" cho cả số ít và số nhiều? Thực tế trong game, "Sim" là số ít, "Sims" là số nhiều. Nhưng trong tiếng Việt, có thể dùng "Sim" cho cả hai. Tuy nhiên, đề yêu cầu giữ nguyên "Sims" và "Sim", nghĩa là nếu bản gốc viết "Sims" thì bản dịch phải có "Sims", nếu viết "Sim" thì có "Sim".
+
+Vậy tôi phải xem xét kỹ: trong bản gốc, từ "Sims" và "Sim" xuất hiện nhiều nơi. Tôi cần giữ nguyên chúng.
+
+Ví dụ:
+- "Get out there and meet some other Sims" -> "Sims" là số nhiều, vậy bản dịch phải có "Sims" (giữ nguyên) hoặc có thể dùng "Sim" nhưng đề nói giữ nguyên, nên tôi nên giữ nguyên "Sims" trong bản dịch? Tuy nhiên, đề nói "KHÔNG dịch: ... 'Sims', 'Sim'", nghĩa là không được dịch chúng sang tiếng Việt, mà giữ nguyên chữ "Sims" và "Sim". Vậy tôi phải để nguyên chữ "Sims" và "Sim" trong bản dịch, không thay đổi.
+
+Như vậy, trong bản dịch, tôi phải giữ nguyên các từ "Sims" và "Sim" như trong bản gốc. Có nghĩa là tôi không được dịch "Sims" thành "Người" hay "Nhân vật" mà phải giữ nguyên "Sims". Tương tự "Sim".
+
+Vì vậy, tôi cần sửa lại các chỗ tôi đã dịch "Sims" thành "Sim" (tiếng Việt). Thay vào đó, giữ nguyên "Sims".
+
+Ví dụ: Dòng 1: "Ra ngoài và kết bạn với những Sims khác!" (giữ nguyên "Sims").
+
+Tuy nhiên, trong tiếng Việt, người ta vẫn thường nói "Sim" nhưng đề yêu cầu giữ nguyên "Sims" nên tôi sẽ giữ nguyên "Sims" trong bản dịch.
+
+Tương tự, "Sim" (số ít) cũng giữ nguyên.
+
+Vậy tôi phải xem xét lại toàn bộ bản dịch và thay thế các chỗ tôi dịch "Sim" thành "Sim" (giữ nguyên) và "Sims" thành "Sims".
+
+Nhưng trong bản gốc, đôi khi là "Sim" (ví dụ: "A Sim becomes a Comedian") -> tôi phải giữ nguyên "A Sim" -> trong bản dịch: "A Sim trở thành Diễn viên Hài" (giữ nguyên "A Sim").
+
+Tuy nhiên, trong tiếng Việt, câu "A Sim trở thành..." nghe không tự nhiên. Nhưng đề yêu cầu giữ nguyên, nên tôi phải giữ.
+
+Tương tự, "Sims" -> "Sims".
+
+Vậy tôi cần chỉnh sửa bản dịch để giữ nguyên các từ "Sim" và "Sims".
+
+Tôi sẽ xem lại một số dòng:
+
+Dòng 1: "Get out there and meet some other Sims to make Friends!" -> "Ra ngoài và kết bạn với những Sims khác!" (giữ nguyên "Sims")
+
+Dòng 2: "Teen is at least a B-student and has 5 friends" -> "Thiếu niên ít nhất là học sinh loại B và có 5 bạn bè." (không có "Sim" ở đây, nên không sao)
+
+Dòng 8: "Start your Sim's Career..." -> "Bắt đầu sự nghiệp của Sims của bạn..." (giữ nguyên "Sim's" -> "Sim's"? Trong bản gốc là "your Sim's", tức là sở hữu của Sim. Vậy tôi nên giữ nguyên "Sim's" hay dịch? Đề nói không dịch "Sim", nhưng "Sim's" là dạng sở hữu. Tôi nghĩ nên giữ nguyên "Sim's" vì nó bao gồm "Sim". Vậy: "Bắt đầu sự nghiệp của Sim's của bạn..." nghe rất tệ. Có lẽ nên giữ nguyên cụm "your Sim's" -> "your Sim's" trong bản dịch? Đề nói giữ nguyên "Sim", nhưng không nói rõ về dạng sở hữu. Tốt nhất là giữ nguyên từ "Sim" mọi lúc, kể cả khi nó ở dạng "Sim's". Vậy tôi sẽ giữ nguyên "Sim's" trong bản dịch.
+
+Vậy: "Start your Sim's Career" -> "Bắt đầu Sim's Career của bạn..." nhưng "Career" cũng không phải từ cần giữ? Đề chỉ liệt kê một số từ, "Career" không có. Vậy "Career" dịch là "Sự nghiệp". Nhưng "Sim's" giữ nguyên.
+
+Tôi nghĩ nên dịch: "Bắt đầu sự nghiệp của Sim bạn..." nhưng "Sim" không phải là từ cần giữ? Đề nói "KHÔNG dịch: ... 'Sim'", nghĩa là từ "Sim" không được dịch, nên trong bản dịch, từ "Sim" phải xuất hiện nguyên văn. Vậy tôi phải giữ nguyên "Sim" trong mọi trường hợp.
+
+Do đó, tôi cần sửa lại bản dịch để đảm bảo mọi lần xuất hiện "Sim" hoặc "Sims" trong bản gốc, bản dịch phải có chính xác từ đó.
+
+Tôi sẽ lặp lại việc dịch toàn bộ, nhưng lần này giữ nguyên "Sim" và "Sims".
+
+Ví dụ:
+- "Start your Sim's Career" -> "Bắt đầu Sim's Career của bạn" (giữ nguyên "Sim's" và "Career" dịch? "Career" không nằm trong danh sách không dịch, nên dịch "Career" thành "Sự nghiệp". Vậy: "Bắt đầu Sim's Sự nghiệp của bạn" nghe vẫn lạ. Có lẽ nên: "Bắt đầu sự nghiệp của Sim bạn" nhưng "Sim" không được dịch, nên "Sim" phải giữ nguyên. Tôi quyết định: giữ nguyên từ "Sim" và "Sims", còn các từ khác dịch bình thường.
+
+Vậy câu: "Start your Sim's Career from the Phone or Computer" -> "Bắt đầu Sim's Sự nghiệp từ Điện thoại hoặc Máy tính."
+
+Nhưng "Sim's" là sở hữu, nên tôi giữ nguyên "Sim's" như một từ.
+
+Tuy nhiên, để dễ đọc, tôi có thể giữ nguyên "Sim" và thêm 's vào: "Sim's" -> "Sim's" giữ nguyên.
+
+Tôi sẽ làm như vậy.
+
+Tương tự, "A Sim becomes a Comedian" -> "A Sim trở thành Diễn viên Hài" (giữ nguyên "A Sim").
+
+Như vậy, tôi cần xem xét kỹ từng dòng.
+
+Tôi sẽ tạo lại bản dịch với việc giữ nguyên "Sim" và "Sims".
+
+Dưới đây là bản dịch đã chỉnh sửa:
+
+1. Get out there and meet some other Sims to make Friends! Grades can be raised by going to school with a positive emotion or completing homework.
+   -> Ra ngoài và kết bạn với những Sims khác! Điểm có thể được nâng lên bằng cách đi học với cảm xúc tích cực hoặc hoàn thành bài tập về nhà.
+
+2. Teen is at least a B-student and has 5 friends
+   -> Thiếu niên ít nhất là học sinh loại B và có 5 bạn bè.
+
+3. Explore the Night
+   -> Khám phá Ban Đêm
+
+4. In The Moodlet
+   -> Trong Moodlet (vì "Moodlet" không nằm trong danh sách không dịch, nhưng có thể dịch? Tốt nhất nên dịch: "Trong Cảm xúc" nhưng "Moodlet" là thuật ngữ. Tôi sẽ giữ nguyên "Moodlet" vì nó là tên một tính năng. Tuy nhiên, đề không yêu cầu giữ "Moodlet", nên có thể dịch. Tôi dịch: "Trong Tâm trạng")
+
+   Nhưng để an toàn, tôi sẽ giữ nguyên "Moodlet"? Không, đề chỉ liệt kê một số từ, nên tôi có thể dịch "Moodlet". Tuy nhiên, "Moodlet" thường được giữ nguyên trong cộng đồng. Tôi quyết định giữ nguyên "Moodlet" vì nó là thuật ngữ chuyên ngành.
+
+   -> "Trong Moodlet"
+
+5. Perfect the Art of Grilling
+   -> Hoàn hảo Nghệ thuật Nướng
+
+6. They say best friends are forever! Form bonds by making a childhood best friend and becoming good friends with other youthful Sims. Play, Adventure and form lifelong bonds in the passion of youth, before entering into your Teenage Years.
+   -> Người ta nói bạn thân là mãi mãi! Hình thành mối quan hệ bằng cách tạo một bạn thân thời thơ ấu và trở thành bạn tốt với những Sims trẻ khác. Chơi đùa, phiêu lưu và hình thành mối quan hệ suốt đời trong niềm đam mê của tuổi trẻ, trước khi bước vào những năm tuổi teen.
+
+   Ở đây "Sims" tôi giữ nguyên.
+
+7. A good friend knows all your stories. A best friend helped you write them.
+   -> Một người bạn tốt biết tất cả câu chuyện của bạn. Một người bạn thân đã giúp bạn viết chúng.
+
+8. Start your Sim's Career from the Phone or Computer, make Friends by being friendly with other Sims, and do tasks in the Aspiration panel to complete a Milestone
+   -> Bắt đầu Sim's Sự nghiệp từ Điện thoại hoặc Máy tính, kết bạn bằng cách thân thiện với những Sims khác, và thực hiện nhiệm vụ trong bảng Aspiration để hoàn thành một Cột mốc.
+
+9. Sim gets to level 3 of any Career, has 3 Friends, and completes 2 Milestones of any Aspiration
+   -> Sim đạt cấp 3 của bất kỳ Sự nghiệp nào, có 3 Bạn bè, và hoàn thành 2 Cột mốc của bất kỳ Aspiration nào.
+
+   Ở đây "Sim" giữ nguyên.
+
+10. Working Relationship
+    -> Mối quan hệ làm việc
+
+11. Sims can become a CEO in the Business Career by choosing the Management Track after getting promoted from Senior Manager, and continuing to get promoted further up the career ladder. Logic, Charisma, and a Confident Mood help a Sim excel in this career, as well as going to work and doing any Daily Tasks listed in the Career Panel.
+    -> Sims có thể trở thành CEO trong Business Career bằng cách chọn Management Track sau khi được thăng chức từ Senior Manager, và tiếp tục được thăng chức cao hơn trên thang sự nghiệp. Logic, Charisma, và Confident Mood giúp Sim xuất sắc trong sự nghiệp này, cũng như đi làm và thực hiện bất kỳ Daily Tasks nào được liệt kê trong Career Panel.
+
+    Lưu ý: "CEO" giữ nguyên (không phải từ cần dịch). "Business Career", "Management Track", "Senior Manager", "Career Panel" đều là thuật ngữ, tôi giữ nguyên hoặc dịch? Tôi sẽ dịch "Business Career" thành "Sự nghiệp Kinh doanh" nhưng "Career" không nằm trong danh sách không dịch, nên có thể dịch. Tuy nhiên, để nhất quán, tôi sẽ dịch "Career" thành "Sự nghiệp" và giữ nguyên các thuật ngữ khác? Thực tế trong game, người ta thường giữ nguyên các thuật ngữ. Tôi sẽ giữ nguyên "Business Career", "Management Track", "Senior Manager", "Career Panel" vì chúng là tên cụ thể.
+
+    Sửa: "Sims có thể trở thành CEO trong Business Career bằng cách chọn Management Track sau khi được thăng chức từ Senior Manager, và tiếp tục được thăng chức cao hơn trên thang sự nghiệp. Logic, Charisma, và Confident Mood giúp Sim xuất sắc trong sự nghiệp này, cũng như đi làm và thực hiện bất kỳ Daily Tasks nào được liệt kê trong Career Panel."
+
+12. One from the couple becomes a CEO, the other becomes an Angel Investor (Investor Track of Business Career)
+    -> Một người trong cặp đôi trở thành CEO, người kia trở thành Angel Investor (Investor Track của Business Career)
+
+13. Raise Funds and the Child Sim before Aging Up
+    -> Gây quỹ và Nuôi dưỡng Child Sim trước khi Aging Up
+
+    "Child Sim" và "Aging Up" là thuật ngữ, tôi giữ nguyên.
+
+14. A Sim becomes a Comedian and broke up with their initial romantic partner
+    -> A Sim trở thành Comedian và chia tay với bạn đời lãng mạn ban đầu.
+
+15. Children have Mental, Creative, Social, and Motor Skills. Choose one skill and level it up by using skill-building Kids objects
+    -> Children có Mental, Creative, Social, và Motor Skills. Chọn một kỹ năng và nâng cấp bằng cách sử dụng các đồ vật Kids xây dựng kỹ năng.
+
+    Tôi giữ nguyên "Children", "Mental", "Creative", "Social", "Motor Skills", "Kids objects" vì chúng là thuật ngữ.
+
+16. Reach Level 5 in one of Sofia and Leonardo's Skills
+    -> Đạt Level 5 trong một trong các Skills của Sofia và Leonardo.
+
+17. Click on the aspirations tab to see what your Sims desire most. As Sims act out their aspirations, they grow and gain reward points.
+    -> Nhấp vào tab aspirations để xem điều mà Sims của bạn mong muốn nhất. Khi Sims thực hiện aspirations của họ, họ phát triển và kiếm được reward points.
+
+18. Complete Child Aspirations
+    -> Hoàn thành Child Aspirations
+
+19. Complete party goals to increase the party score and have fun until the party ends
+    -> Hoàn thành party goals để tăng party score và vui vẻ cho đến khi party kết thúc.
+
+20. Complete the Party
+    -> Hoàn thành Party
+
+21. Select Plan a Social Event in the Social category on the phone, select a House Party or Dinner Party, and make sure &lt;b&gt;Goals and Rewards&lt;/b&gt; is checked.
+    -> Chọn Plan a Social Event trong danh mục Social trên điện thoại, chọn House Party hoặc Dinner Party, và đảm bảo &lt;b&gt;Goals and Rewards&lt;/b&gt; được chọn.
+
+22. Start a House or Dinner Party
+    -> Bắt đầu một House hoặc Dinner Party
+
+23. Farrah's friend will give her a call soon!
+    -> Bạn của Farrah sẽ gọi cho cô ấy sớm thôi!
+
+24. Answer Phone
+    -> Answer Phone
+
+25. Use the treadmill, workout machine, or punching bag for 1 hour
+    -> Sử dụng treadmill, workout machine, hoặc punching bag trong 1 giờ.
+
+26. Work Out for 1 Hour
+    -> Work Out for 1 Hour
+
+27. Use the phone and select Travel in the Travel category, and select a Gym or Bar in the map view
+    -> Sử dụng điện thoại và chọn Travel trong danh mục Travel, và chọn Gym hoặc Bar trong chế độ xem bản đồ.
+
+28. Travel to Gym or Bar
+    -> Travel đến Gym hoặc Bar
+
+29. Make sure Grandma and all the Siblings are home by clicking the Go Home button
+    -> Đảm bảo Grandma và tất cả Siblings đều ở nhà bằng cách nhấn nút Go Home.
+
+30. Bring the Family Home
+    -> Bring Family về Home
+
+31. Find a significant other for each sibling by performing Romantic Interactions with another Sim and asking them to be your romantic partner.
+    -> Tìm một significant other cho mỗi sibling bằng cách thực hiện Romantic Interactions với một Sim khác và yêu cầu họ trở thành romantic partner của bạn.
+
+32. Find a Romantic Partner for Each Sibling
+    -> Find một Romantic Partner cho Mỗi Sibling
+
+33. Make sure each sibling has a job! Use the Phone's Business Section or a Computer to &quot;Find a Job.&quot; You can also use the Career Panel to &quot;Join a Career.&quot;
+    -> Đảm bảo mỗi sibling có một job! Sử dụng Phone's Business Section hoặc một Computer để &quot;Find a Job.&quot; Bạn cũng có thể sử dụng Career Panel để &quot;Join a Career.&quot;
+
+34. Get a Job for All Siblings
+    -> Get một Job cho Tất cả Siblings
+
+35. To Mentor, reach level 10 in a skill and use the Mentor interaction on the teenage Sim while she is practicing that skill.
+    -> Để Mentor, đạt level 10 trong một skill và sử dụng tương tác Mentor lên teenage Sim khi cô ấy đang practicing skill đó.
+
+36. A Sim Mentors a Teenager in skill 5 times
+    -> A Sim Mentors một Teenager trong skill 5 lần.
+
+37. Gain Imagination skill by playing with Toys and Dolls, Draw with Llama on the Wabbit Tablet, listening to music, or looking at Toddler Books.
+    -> Tăng Imagination skill bằng cách chơi với Toys và Dolls, Draw với Llama trên Wabbit Tablet, nghe nhạc, hoặc xem Toddler Books.
+
+38. Have your Toddler reach Level 5 Imagination Skill
+    -> Làm Toddler của bạn đạt Level 5 Imagination Skill.
+
+39. Skill Books are a useful way for Sims to gain Skills and can be found at the Library or purchased from a Computer
+    -> Skill Books là một cách hữu ích để Sims có được Skills và có thể tìm thấy tại Library hoặc mua từ Computer.
+
+40. Reach level {0.Number} in any Skill
+    -> Đạt level {0.Number} trong bất kỳ Skill nào.
+
+41. Reach Level 10 in at least 3 Skills
+    -> Đạt Level 10 trong ít nhất 3 Skills.
+
+42. Sims can mentor in: Programming, Rocket Science, Comedy, Writing, Painting, Fishing, Handiness, Logic, Piano, Violin, Guitar, Fitness, Robotics, Fabrication and Knitting.
+    -> Sims có thể mentor trong: Programming, Rocket Science, Comedy, Writing, Painting, Fishing, Handiness, Logic, Piano, Violin, Guitar, Fitness, Robotics, Fabrication và Knitting.
+
+43. A Sim is level 10 in a Mentorable Skill
+    -> A Sim ở level 10 trong một Mentorable Skill.
+
+44. Plan a Social Event through your phone or open your calendar and plan an Event
+    -> Plan một Social Event qua điện thoại của bạn hoặc mở calendar và plan một Event.
+
+45. Host a Party! Plan a Social Event through your Phone.
+    -> Host một Party! Plan một Social Event qua Phone của bạn.
+
+46. A Sim is Soulmates with someone they’ve never broken up with
+    -> A Sim là Soulmates với ai đó mà họ chưa bao giờ broken up.
+
+47. Sims who are very high in Friendship and Romance are Soulmates.
+    -> Sims rất cao trong Friendship và Romance là Soulmates.
+
+48. A Sim is Soulmates with someone they’ve broken up with
+    -> A Sim là Soulmates với ai đó mà họ đã broken up.
+
+49. Initial Sims are Soulmates
+    -> Initial Sims là Soulmates.
+
+50. Sims who are very high in Romance and neutral in Friendship are Lovers
+    -> Sims rất cao trong Romance và trung lập trong Friendship là Lovers.
+
+51. Initial Sims are Lovers
+    -> Initial Sims là Lovers.
+
+52. Sims can break up with each other with the Mean interaction: Break Up
+    -> Sims có thể break up với nhau bằng Mean interaction: Break Up.
+
+53. Initial Sims are broken up
+    -> Initial Sims đã broken up.
+
+54. Sim has {0.Number} friends
+    -> Sim có {0.Number} friends.
+
+55. Get out there and meet some other Sims to make Friends!
+    -> Ra ngoài và kết bạn với những Sims khác!
+
+56. Teen has {0.Number} friends
+    -> Teen có {0.Number} friends.
+
+57. Congratulations on completing the Scenario!\n\nAs a reward, each Sim in this household has earned Satisfaction Points which you can spend at the Rewards Store. You can buy rewards for each Sim in their Aspiration Panel.
+    -> Chúc mừng bạn đã hoàn thành Scenario!\n\nNhư một phần thưởng, mỗi Sim trong hộ gia đình này đã kiếm được Satisfaction Points mà bạn có thể chi tiêu tại Rewards Store. Bạn có thể mua rewards cho mỗi Sim trong Aspiration Panel của họ.
+
+58. Sims who are very high in Friendship can ask to become Best Friends.
+    -> Sims rất cao trong Friendship có thể yêu cầu trở thành Best Friends.
+
+59. A Sim is Best Friends with someone they’ve broken up with
+    -> A Sim là Best Friends với ai đó mà họ đã broken up.
+
+60. A Sim is Best Friends with her Mentee
+    -> A Sim là Best Friends với Mentee của cô ấy.
+
+61. Completing Aspirations is a great way to give your child an advantage when they grow up by earning a Reward Trait!\n\nView Aspiration requirements or select a new Aspiration in the Aspiration tab.
+    -> Hoàn thành Aspirations là một cách tuyệt vời để cho child của bạn một lợi thế khi họ lớn lên bằng cách kiếm được Reward Trait!\n\nXem Aspiration requirements hoặc chọn một Aspiration mới trong tab Aspiration.
+
+62. Have your child complete a Childhood Aspiration
+    -> Làm child của bạn hoàn thành một Childhood Aspiration.
+
+63. When plants reach maximum health, they can be evolved to improve their overall quality. Once a blossoming plant reaches Quality: Perfect, use the Harvest interaction to complete this goal. Requirement: Gardening 2, no Oversized Crops
+    -> Khi plants đạt maximum health, chúng có thể được evolved để cải thiện chất lượng tổng thể. Một khi blossoming plant đạt Quality: Perfect, sử dụng tương tác Harvest để hoàn thành mục tiêu này. Requirement: Gardening 2, không có Oversized Crops.
+
+64. Harvest from a Perfect Quality plant
+    -> Harvest từ một Perfect Quality plant.
+
+65. Open your inventory and eat one &quot;Forbidden Fruit of the PlantSim&quot; that has magically appeared. 
+    -> Mở inventory của bạn và ăn một &quot;Forbidden Fruit của PlantSim&quot; đã magically xuất hiện.
+
+66. Eat the &quot;Forbidden Fruit of the PlantSim&quot; from your inventory
+    -> Ăn &quot;Forbidden Fruit của PlantSim&quot; từ inventory của bạn.
+
+67. A Sim needed for scenario moved out or is deceased
+    -> A Sim cần thiết cho scenario đã moved out hoặc là deceased.
+
+68. Choose a sibling's phone and donate your inheritance. Start fresh with no Simoleons, but hopefully better karma!
+    -> Chọn sibling's phone và donate inheritance của bạn. Bắt đầu lại với không Simoleons, nhưng hy vọng có karma tốt hơn!
+
+69. Donate Inheritance to Charity
+    -> Donate Inheritance cho Charity.
+
+70. Have at least one sibling get promoted in their career path by completing their Promotion and Daily Tasks in the Career Panel.
+    -> Làm ít nhất một sibling được promoted trong career path của họ bằng cách hoàn thành Promotion và Daily Tasks trong Career Panel.
+
+71. Get Promoted
+    -> Get Promoted.
+
+72. Select Grandmother and use the Phone's Home section to &quot;Burn Inheritance Money.&quot; That oughta show them you're not joking around!
+    -> Chọn Grandmother và sử dụng Phone's Home section để &quot;Burn Inheritance Money.&quot; Điều đó oughta cho họ thấy bạn không joking around!
+
+73. Burn 50,000 Simoleons of Inheritance 
+    -> Burn 50,000 Simoleons của Inheritance.
+
+74. Try being friendly to your grandmother or have her do fun activities such as watching TV or reading a book until she no longer feels angry or sad.
+    -> Hãy thử thân thiện với grandmother của bạn hoặc để cô ấy làm các hoạt động vui vẻ như xem TV hoặc đọc sách cho đến khi cô ấy không còn cảm thấy angry hoặc sad.
+
+75. Improve Grandmother's Mood
+    -> Improve Grandmother's Mood.
+
+76. Select Grandmother and use the Phone's Home section to &quot;Donate Inheritance Money to Charity.&quot; That oughta show them you're not joking around!
+    -> Chọn Grandmother và sử dụng Phone's Home section để &quot;Donate Inheritance Money to Charity.&quot; Điều đó oughta cho họ thấy bạn không joking around!
+
+77. Donate 10,000 Simoleons of Inheritance to Charity
+    -> Donate 10,000 Simoleons của Inheritance cho Charity.
+
+78. Avoid using mean social interactions during a dinner party. Direct siblings to be kind to each other and heal the rift!
+    -> Tránh sử dụng mean social interactions trong một dinner party. Chỉ đạo siblings đối xử tử tế với nhau và heal the rift!
+
+79. Get Through a Dinner Party without Fighting
+    -> Get Through một Dinner Party mà không Fighting.
+
+80. Use the Phone's &quot;Plan a Social Event&quot; under Social or the Calendar's &quot;Add Event&quot; to plan a dinner party and invite Grandma and all the Siblings. Completing a Dinner Party without fighting will improve Grandma's mood!
+    -> Sử dụng Phone's &quot;Plan a Social Event&quot; dưới Social hoặc Calendar's &quot;Add Event&quot; để plan một dinner party và mời Grandma và tất cả Siblings. Completing một Dinner Party mà không fighting sẽ improve Grandma's mood!
+
+81. Throw a Dinner Party
+    -> Throw một Dinner Party.
+
+82. Game Over for this household
+    -> Game Over cho hộ gia đình này.
+
+83. Missing 1 or more of the original set of Toddlers
+    -> Missing 1 hoặc nhiều trong bộ Toddlers ban đầu.
+
+84. Missing a Sim who is needed for this Scenario
+    -> Missing một Sim cần thiết cho Scenario này.
+
+85. A Toddler or Child got taken away due to neglect
+    -> Một Toddler hoặc Child bị taken away do neglect.
+
+86. Alone at Last
+    -> Alone at Last.
+
+87. You are now ready to dazzle your guests!\n\nHost a Cook Out from your Phone or the Calendar.
+    -> Bạn giờ đã sẵn sàng dazzle guests của bạn!\n\nHost một Cook Out từ Phone hoặc Calendar.
+
+88. Host a Cook Out!
+    -> Host một Cook Out!
+
+89. Grilling something with gills is important for every Cook Out!\n\nClick on a Fishing Sign to go Fishing.
+    -> Grilling thứ gì đó với gills là quan trọng cho mọi Cook Out!\n\nClick vào một Fishing Sign để đi Fishing.
+
+90. Catch Fish for grilling
+    -> Catch Fish để grilling.
+
+91. To truly perfect the art of grilling, you need some real Cooking Skill!\n\nLevel up your Cooking Skill by Cooking at a Grill, Stove, or Fridge.
+    -> Để thực sự perfect nghệ thuật grilling, bạn cần một số Cooking Skill thực sự!\n\nLevel up Cooking Skill của bạn bằng cách Cooking tại Grill, Stove, hoặc Fridge.
+
+92. Level up your Cooking Skill to 7
+    -> Level up Cooking Skill của bạn lên 7.
+
+93. Corny jokes require some Comedy skill to pull off, and a good Cook Out has good jokes.\n\nPractice your Comedy skill at a Mirror or Microphone, or just Tell Jokes to another Sim.
+    -> Corny jokes đòi hỏi một số Comedy skill để pull off, và một Cook Out tốt có những jokes hay.\n\nPractice Comedy skill của bạn tại Mirror hoặc Microphone, hoặc chỉ cần Tell Jokes cho một Sim khác.
+
+94. (Objective 3 of 5)\n\nSims age up when they reach the end of a life stage or by blowing out candles on a cake. Check the Simology panel to see how many days remain in the life stage. To age up early, bake or purchase a cake. Then add Birthday Candles and have the Sim blow them out!\n\nReward: 2500 Simoleons
+    -> (Mục tiêu 3 của 5)\n\nSims age up khi họ đạt cuối một life stage hoặc bằng cách blowing out candles trên một cake. Kiểm tra Simology panel để xem còn bao nhiêu ngày trong life stage. Để age up sớm, bake hoặc purchase một cake. Sau đó thêm Birthday Candles và để Sim blow chúng ra!\n\nReward: 2500 Simoleons
+
+95. Have a Teen Reach Young Adult Age
+    -> Làm một Teen Reach Young Adult Age.
+
+96. &lt;i&gt;The teenage years are critical to establishing how a person will become an adult, though it is not always the easiest period for the child or adult!&lt;/i&gt;\n\nYou completed a Dream goal and earned 2500 Simoleons as a reward!\n\nKeep playing to continue the Dream!
+    -> &lt;i&gt;Những năm teenage rất quan trọng để xác định một người sẽ trở thành adult như thế nào, mặc dù nó không phải lúc nào cũng là giai đoạn dễ dàng cho child hoặc adult!&lt;/i&gt;\n\nBạn đã hoàn thành Dream goal và kiếm được 2500 Simoleons như một reward!\n\nTiếp tục chơi để tiếp tục Dream!
+
+97. (Objective 2 of 5)\n\nSims age up when they reach the end of a life stage or by blowing out candles on a cake. Check the Simology panel to see how many days remain in the life stage. To age up early, bake or purchase a cake. Then add Birthday Candles and have the Sim blow them out!\n\nIf you need to add a Child to the household you can Try for Baby or Have Science Baby with a romantic partner, as well as Adopt from a Phone or Computer.\n\nReward: 2500 Simoleons
+    -> (Mục tiêu 2 của 5)\n\nSims age up khi họ đạt cuối một life stage hoặc bằng cách blowing out candles trên một cake. Kiểm tra Simology panel để xem còn bao nhiêu ngày trong life stage. Để age up sớm, bake hoặc purchase một cake. Sau đó thêm Birthday Candles và để Sim blow chúng ra!\n\nNếu bạn cần thêm một Child vào household bạn có thể Try for Baby hoặc Have Science Baby với romantic partner, cũng như Adopt từ Phone hoặc Computer.\n\nReward: 2500 Simoleons
+
+98. Have a Child Reach Teen Age
+    -> Làm một Child Reach Teen Age.
+
+99. &lt;i&gt;As family members reach the final life stage, they've earned a respite from the hard work.&lt;/i&gt;\n\nYou completed a Dream goal and earned 5000 Simoleons as a reward!\n\nKeep playing to continue the Dream!
+    -> &lt;i&gt;Khi family members đạt final life stage, họ đã kiếm được một respite từ hard work.&lt;/i&gt;\n\nBạn đã hoàn thành Dream goal và kiếm được 5000 Simoleons như một reward!\n\nTiếp tục chơi để tiếp tục Dream!
+
+100. (Objective 4 of 5)\

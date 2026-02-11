@@ -1,0 +1,100 @@
+(Từ Nghề Viết Văn)
+(Từ Nghề Chuyên Gia Công Nghệ)
+(Từ Nghề Ảnh Hưởng Phong Cách)
+(Từ Nghề Gián Điệp)
+(Từ Nghề Họa Sĩ)
+(Từ Nghề Giải Trí)
+(Từ Nghề Đầu Bếp)
+(Từ Nghề Tội Phạm)
+(Từ Nghề Kinh Doanh)
+(Từ Nghề Vận Động Viên)
+(Từ Nghề Phi Hành Gia)
+(Từ việc bị trộm)
+(Từ kỹ năng pha chế)
+(Từ việc ở quán bar)
+(Từ Khao khát Thú vui)
+(Từ Khao khát Sao hài)
+(Từ Khao khát Bạn của Thế giới)
+(Từ Khao khát Quản lý bảo tàng)
+(Từ Khao khát Nhà thực vật học tự do)
+(Từ Khao khát Chuyên gia câu cá)
+(Từ Khao khát Bạn đời)
+(Từ Khao khát Tình nhân bạc tỷ)
+(Từ Khao khát Con người thời Phục Hưng)
+(Từ Khao khát Não đất)
+(Từ Khao khát Thiên tài máy tính)
+(Từ Khao khát Giàu có vang dội)
+(Từ Khao khát Chủ lâu đài)
+(Từ Khao khát Đầu bếp bậc thầy)
+(Từ Khao khát Pha chế bậc thầy)
+(Từ Khao khát Dòng dõi thành công)
+(Từ Khao khát Gia đình hạnh phúc lớn)
+(Từ Khao khát Thủ lĩnh nghịch ngợm)
+(Từ Khao khát Kẻ thù công chúng)
+(Từ Khao khát Tác giả bán chạy)
+(Từ Khao khát Họa sĩ vĩ đại)
+(Từ Khao khát Thiên tài âm nhạc)
+(Từ Khao khát Vận động viên cơ bắp)
+(Từ việc là người quen)
+(Từ việc là người cao tuổi)
+Trẻ Sơ Sinh Vặn Vẹo
+{0.SimFirstName} là một Trẻ Sơ Sinh Vặn Vẹo. Những em bé này luôn vận động, muốn chơi đùa và di chuyển; tuy nhiên, chúng thường gặp khó khăn trong việc chìm vào giấc ngủ hoặc tập trung trong thời gian dài.
+Bài học Ăn chay
+{0.SimFirstName} là người ăn chay. Các Sim ăn chay tránh thực phẩm làm từ thịt, như thịt gà, thịt bò và cá. Các Sim này cũng có thể bị ốm nếu tiêu thụ thực phẩm làm từ thịt.
+Trẻ Sơ Sinh Vui Vẻ
+{0.SimFirstName} là một Trẻ Sơ Sinh Vui Vẻ. Những em bé này tràn đầy nụ cười và tiếng cười và thích tương tác với các Sim khác, nhưng chúng cần nhiều sự chú ý xã hội hơn.
+Bài học Khoe khoang
+{0.SimFirstName} là một kẻ khoe khoang. Các Sim khoe khoang thích phê phán công việc của người khác và thích sự bạn bè của những kẻ khoe khoang cùng loại.
+Bài học Bừa bộn
+{0.SimFirstName} là một kẻ bừa bộn. Các Sim bừa bộn không bị phiền bởi môi trường bẩn thỉu và có xu hướng tạo ra bừa bộn nhanh hơn.
+Trẻ Sơ Sinh Nhạy Cảm
+{0.SimFirstName} là một Trẻ Sơ Sinh Nhạy Cảm. Những em bé này có xu hướng bị viêm da tã, kén ăn, và dễ bị quá tải do chơi đùa và tương tác xã hội quá nhiều, tuy nhiên chúng cũng ngủ ngon hơn qua đêm khi được vuốt ve.
+Bài học Tự Tin
+{0.SimFirstName} là người Tự Tin. Các Sim có đặc điểm này cảm thấy tốt về bản thân và thường trải nghiệm thêm Sự Tự Tin.
+Bài học Lãng mạn
+{0.SimFirstName} là người Lãng mạn. Các Sim Lãng mạn thường có tính tán tỉnh và cần đưa sự Lãng mạn vào cuộc sống của họ thường xuyên.
+Bài học Hoàn hảo
+{0.SimFirstName} là người Hoàn hảo. Các Sim Hoàn hảo mất nhiều thời gian hơn để chế tác thứ gì đó, nhưng thường tạo ra các vật phẩm có chất lượng vượt trội.
+Bài học Hòa đồng
+{0.SimFirstName} là người Hòa đồng. Các Sim Hòa đồng cần giao tiếp xã hội thường xuyên hơn, nhưng được Củng cố về Mặt Cảm xúc khi làm như vậy.
+Bài học Ngăn nắp
+{0.SimFirstName} là người Ngăn nắp. Các Sim Ngăn nắp rất không thoải mái trong một ngôi nhà bừa bộn, nhưng may mắn là họ Hạnh phúc khi dọn dẹp và có thể Dọn nhà.
+Bài học Yêu nhạc
+{0.SimFirstName} là người Yêu nhạc. Các Sim này cần âm nhạc trong cuộc sống thường xuyên và Hạnh phúc nhất khi chơi nhạc hoặc thảo luận về nó với người khác.
+Bài học Xấu tính
+{0.SimFirstName} là người Xấu tính. Các Sim Xấu tính trở nên Hạnh phúc khi họ nói những điều Xấu tính với các Sim khác.
+Bài học Vật chất
+{0.SimFirstName} là người Vật chất. Các Sim Vật chất cần mua những thứ mới và thích ngắm nhìn và thảo luận về tài sản của họ.
+Bài học Yêu thiên nhiên
+{0.SimFirstName} Yêu thiên nhiên. Đi ra ngoài thường xuyên là yêu cầu đối với các Sim này, nhưng phần thưởng Cảm xúc thì đáng giá.
+Bài học Hướng nội
+{0.SimFirstName} là người Hướng nội. Các Sim Hướng nội hạnh phúc nhất khi ở một mình và dè dặt với các nhóm người lạ.
+Bài học Lười biếng
+{0.SimFirstName} là Sim Lười biếng. Các Sim Lười biếng thích xem TV hơn người khác, có thể nằm dài ở bất cứ đâu, và không quan tâm nhiều đến hoạt động thể chất.
+Bài học Đánh cắp vô tính
+{0.SimFirstName} là Sim Đánh cắp vô tính. Các Sim Đánh cắp vô tính trở nên căng thẳng nếu gần đây chưa Lấy trộm bất kỳ vật phẩm nào, và cũng sẽ tăng năng lượng sau một lần Lấy trộm thành công, cẩn thận không bị bắt quả tang vì điều này có thể khiến một Sim Đánh cắp vô tính xấu hổ.
+Bài học Ghen tuông
+{0.SimFirstName} là Sim Ghen tuông. Các Sim Ghen tuông tăng sự tự tin khi ở gần Bạn đời của họ nhưng cũng có thể cảm thấy không thoải mái khi họ không ở quanh.
+Trẻ Sơ Sinh Căng thẳng
+{0.SimFirstName} là một Trẻ Sơ Sinh Căng thẳng. Những em bé này có cảm xúc mãnh liệt và dễ được giải trí, nhưng chúng cũng khó được bình tĩnh hơn khi ở trong tâm trạng xấu.
+Bài học Bất thường
+{0.SimFirstName} là người Bất thường. Các Sim Bất thường sống một cuộc đời cảm xúc như tàu lượn lô không thể đoán trước.
+Bài học Nóng tính
+{0.SimFirstName} là người Nóng tính. Các Sim này thường Tức giận, thường đến mức gây hại cho những người xung quanh.
+Bài học Ghét trẻ em
+{0.SimFirstName} Ghét trẻ em. Các Sim này sợ làm cha mẹ, ghét sự hiện diện của trẻ em, và trở nên Hạnh phúc khi đối xử xấu với những người trẻ tuổi hơn.
+Bài học Cáu kỉnh
+Các Sim Cáu kỉnh sẽ khẳng định rằng họ không thực sự cáu kỉnh, chỉ bị hiểu lầm. Dù sao đi nữa, họ chắc chắn cảm thấy rất vui khi khiến những người xung quanh bất hạnh bằng những trò đùa và cách tiếp cãi xã hội của họ.
+Bài học Vui tính
+(Từ việc bị máy bán hàng dập)
+(Từ việc ăn thứ nóng khi trời nóng)
+(Từ việc ăn thứ lạnh)
+(Từ việc ăn thứ nóng)
+(Từ việc ăn thứ lạnh khi trời lạnh)
+(Từ bàn trang điểm)
+Các tiện ích đang được bảo trì do sóc gây ra!
+(Từ hộp cầu chì hỏng)
+(Từ việc đau buồn vì thú cưng)
+(Từ việc đau buồn vì một Sim)
+(Từ việc đau buồn vì người thân yêu)
+(Từ việc đau buồn vì bạn bè)

@@ -1,0 +1,100 @@
+{0.SimFirstName} có thể Vẽ một bức tranh mới tại Bàn Hoạt Động, có thể Kể chuyện tưởng tượng cho các Sim khác, và có thể Mơ mộng.
+Đạt Mức Sáng Tạo 9
+{0.SimFirstName} có thể Kể chuyện về Con rối tại Nhà búp bê.
+Đạt Mức Sáng Tạo 3
+{0.SimFirstName} có thêm sự thỏa mãn khi Chơi tại Tàu cướp biển - Nhà chơi thảm.
+Bắn cung
+Bắn trúng tâm không đơn giản chỉ là lắp tên và bắn! Có thể mất hàng giờ luyện tập với cây cung để trở thành tay sút cừ nhất.\n\nKỹ năng Bắn cung có thể cải thiện bằng cách luyện tập tại Bia bắn cung hoặc tham gia Cuộc thi Bắn cung. Kỹ năng Bắn cung cải thiện đồng nghĩa với nhiều phát bắn trúng tâm hơn, hiệu suất thi đấu tốt hơn, và cây cung chất lượng hơn. Nó cũng mở khóa các tương tác mới, bắt cá bằng Cung, và một số phụ kiện bắn cung đẹp mắt trong Tạo Sim.\n\nBắn cung có thể được dạy từ Mức kỹ năng 4 tại Bia bắn cung.
+Đạt Mức Bắn cung 3
+{0.SimFirstName} hiện có thể Thảo luận Kỹ thuật Bắn cung với các Sim khác và có quyền truy cập vào cây cung nâng cấp.
+Đạt Mức Bắn cung 2
+{0.SimFirstName} hiện có thể Bắt đầu Cuộc thi Bắn cung tại Bia bắn cung, và Khoe khoang về Bắn cung với các Sim khác.
+Đã học Kỹ năng Bắn cung
+&lt;b&gt;Bắn trúng tâm!&lt;/b&gt;\n{0.SimFirstName} có thể cải thiện kỹ năng Bắn cung của {0.SimPronounPossessiveDependent} bằng cách chọn Luyện tập Bắn cung tại Bia bắn cung, hoặc tham gia Cuộc thi Bắn cung.
+Đạt Mức Bắn cung 5
+{0.SimFirstName} là một tay sút cừ! {0.SimPronounSubjective|xxUpper} hiện có thể cố gắng bắn quả táo khỏi đầu một Sim khác, nếu {0.SimPronounSubjective}{S0.'s}{P0.'re} sẵn sàng chấp nhận rủi ro...
+Đạt Mức Bắn cung 4
+{0.SimFirstName} hiện có thể Đi Câu bằng Cung tại các điểm câu. {0.SimPronounSubjective|xxUpper} cũng có thể dạy các Sim khác bắn cung. {0.SimPronounSubjective|xxUpper} cũng sẽ sử dụng một cây cung được nâng cấp hoàn toàn!
+Lặn
+Đối với các Sim ước được bay trong không khí (và trông cực ngầu khi làm vậy), lặn là môn thể thao dưới nước lý tưởng!\n\nLặn có thể luyện tập tại cả bảng lặn cao và thấp được đặt bên hồ bơi. Tăng kỹ năng này sẽ mở khóa những phong cách lặn phức tạp và mới để thực hiện.
+Đạt Mức Lặn 5
+Là bậc thầy Lặn, {0.SimFirstName} hiện có thể thực hiện phong cách Front Twister Flip từ bảng lặn.
+Đạt Mức Lặn 4
+{0.SimFirstName} hiện có thể thực hiện phong cách Reverse Pike Dive từ bảng lặn.
+Đã học Kỹ năng Lặn
+{0.SimFirstName} có thể đến bảng lặn để tiếp tục Luyện tập Lặn. {0.SimPronounSubjective|xxUpper} cũng có thể thực hiện tất cả các phong cách lặn jumpstand kinh điển từ bảng lặn!
+Đạt Mức Lặn 2
+{0.SimFirstName} hiện có thể thực hiện phong cách Lounger Jump từ bảng lặn.
+Đạt Mức Lặn 3
+{0.SimFirstName} hiện có thể thực hiện phong cách Front Pike Flip từ bảng lặn.
+Đặt bút lên giấy (hay có lẽ là, ngón tay lên bàn phím) không phải là nhiệm vụ dễ dàng. Trang trắng có thể là một trong những kẻ thù đáng sợ nhất, nhưng các nhà văn đối mặt với thử thách biến cảm xúc thành từ ngữ mỗi ngày.\n\nViết chủ yếu được thực hiện trên máy tính. Tăng kỹ năng này sẽ mở khóa các Tương tác Viết mới trên Máy tính cũng như khả năng Xuất bản và Tự xuất bản sách!\n\nViết có thể được dạy từ Mức kỹ năng 5 từ Máy tính.
+Đạt Mức Viết 2
+{0.SimFirstName} hiện có thể Tự xuất bản Sách.
+Đạt Mức Viết 5
+{0.SimFirstName} hiện có thể Viết Văn học phi hư cấu. {M0.Anh ấy}{F0.Cô ấy} cũng có thể Bán cho Nhà xuất bản và Ngâm thơ Yêu với các Sim khác.
+\n{0.SimPronounSubjective|xxUpper} cũng có thể Dạy người khác Viết.
+Đạt Mức Viết 8
+{0.SimFirstName} hiện có thể Viết Khoa học viễn tưởng.
+{0.SimFirstName} hiện có thể Viết Tiểu sử.
+Đạt Mức Viết 10
+Đạt Mức Viết 9
+{0.SimFirstName} hiện có thể Viết Trinh thám. {M0.Anh ấy}{F0.Cô ấy} cũng có thể Gửi tới Tạp chí Văn học.
+Đã học Kỹ năng Viết
+{0.SimFirstName} đã học kỹ năng Viết mới, cho phép {0.SimPronounObjective} tận hưởng lợi ích của vốn từ vựng mở rộng và câu cú ngữ pháp chính xác.&#xD;&#xA;
+Đạt Mức Viết 7
+{0.SimFirstName} hiện có thể Viết Giả tưởng. {M0.Anh ấy}{F0.Cô ấy} hiện có thể Hào hứng về Nhịp năm chân với các Sim khác.
+Đạt Mức Viết 4
+{0.SimFirstName} hiện có thể Viết Thơ. {M0.Anh ấy}{F0.Cô ấy} cũng có thể Viết Email Tình yêu cho các Sim khác.
+Đạt Mức Viết 3
+{0.SimFirstName} hiện có thể Viết Truyện ngắn và Viết Lời giải đáp cho các Sim khác. {M0.Anh ấy}{F0.Cô ấy} cũng có thể Đọc Sách phi hư cấu để Tham khảo và Thảo luận Sách/Tác giả Yêu thích với các Sim khác.
+Đạt Mức Viết 6
+{0.SimFirstName} hiện có thể Viết Kịch bản.
+Dù là một bản dirge đầy ám ảnh hay một bản nhảy sôi động, cây violin có thể gợi lên vô số cảm xúc. Luyện tập từ những âm thanh chói tai đến những nốt nhạc du dương với Kỹ năng Violin.\n\nKỹ năng Violin được cải thiện qua Cây violin. Tăng kỹ năng này sẽ mở khóa các Bài hát và Tương tác mới trên Violin, bao gồm khả năng Viết Bài hát và Hát ru các Sim.\n\nViolin có thể được dạy từ Mức kỹ năng 5 từ Violin.
+Đạt Mức Violin 2
+{0.SimFirstName} có thể dùng máy tính để Nghiên cứu Violin. {M0.Anh ấy}{F0.Cô ấy} cũng có thể Thảo luận về Người chơi violin với các Sim khác và Trân trọng Âm nhạc Cổ điển trên máy hát.
+\n{0.SimPronounSubjective|xxUpper} cũng có thể Dạy người khác Violin.
+Đạt Mức Violin 6
+{0.SimFirstName} hiện có thể Chơi Bài hát Lãng mạn và cũng có thể Hát ru các Sim khác.
+Đạt Mức Violin 7
+{0.SimFirstName} có thể Biểu diễn Âm nhạc Phương Đông và Khiến các Sim khóc nhè với {M0.cách chơi}{F0.cách chơi} của {M0.anh ấy}{F0.cô ấy}. {M0.Anh ấy}{F0.Cô ấy} cũng hiện có thể Hứa Dành tặng Bài hát cho các Sim khác.
+{0.SimFirstName} hiện có thể Chơi Bài hát Tiên phong.
+Đạt Mức Violin 8
+{0.SimFirstName} hiện có thể Viết, Scrap và Đặt tên Bài hát. {M0.Anh ấy}{F0.Cô ấy} cũng có thể Chơi Bài hát Swing.
+Đạt Mức Violin 9
+{0.SimFirstName} hiện có thể Biểu diễn Bài hát Cổ điển Nâng cao và Cấp phép Bài hát {M0.anh ấy}{F0.cô ấy} đã viết tại Hộp thư.
+Đã học Kỹ năng Violin
+Kỹ năng Violin mới của {0.SimFirstName} sẽ cho phép {0.SimPronounObjective} Tập nhạc trên nhạc cụ. Khi Mức kỹ năng tăng, nhiều Tương tác liên quan sẽ được mở khóa.&#xD;&#xA;
+Đạt Mức Violin 10
+{0.SimFirstName} thấy vui khi làm vườn và hiện có thể Bón phân cho cây!
+Sắp xếp hoa
+Sắp xếp hoa theo cách phức tạp đòi hỏi kỹ năng hoa học điên rồ. Phát triển những kỹ năng này không chỉ để tạo ra những tác phẩm hữu cơ đẹp mắt, mà còn tạo ra cảm xúc trong các Sim mà họ thậm chí có thể không tự hiểu.\n\nKỹ năng Sắp xếp hoa được xây dựng bằng cách sử dụng Bàn Sắp xếp hoa Violets are Blue. Tăng kỹ năng này sẽ cho phép Sim tạo ra các loại cắm hoa khác nhau với những bông hoa khác nhau. Các Sim có kỹ năng cao cũng sẽ có thể Tạo hương cho cắm hoa với hoa, cho phép các Sim có phản ứng cảm xúc với cắm hoa.\n\nSắp xếp hoa có thể được dạy từ Mức kỹ năng 5 từ Bàn Sắp xếp hoa.
+Đạt Mức Sắp xếp hoa 2
+{0.SimFirstName} hiện có thể làm cắm hoa với Hồng, Cỏ h éc, và Anemone.
+\n{0.SimPronounSubjective|xxUpper} cũng có thể Dạy người khác Sắp xếp hoa.
+Đạt Mức Sắp xếp hoa 5
+{0.SimFirstName} hiện có thể làm cắm hoa với Phong lan và Chim ưng. {M0.Anh ấy}{F0.Cô ấy} cũng có thể tạo hương cho cắm hoa với Hồng và Đỗ quyên. Cắm hoa Cấp độ 2 của {M0.anh ấy}{F0.cô ấy} cũng sẽ có chất lượng cao hơn.
+Đạt Mức Sắp xếp hoa 7
+{0.SimFirstName} có thể tạo hương cho cắm hoa với Tulip và Hoa Giáng sinh. Cắm hoa Cấp độ 4 của {M0.anh ấy}{F0.cô ấy} cũng sẽ có chất lượng cao hơn.
+Đạt Mức Sắp xếp hoa 9
+{0.SimFirstName} có thể tạo hương cho cắm hoa với Lily và Hoa Tử thần.
+Đạt Mức Sắp xếp hoa 10
+{0.SimFirstName} có thể tạo hương cho cắm hoa với Phong lan.
+Đạt Mức Sắp xếp hoa 8
+{0.SimFirstName} có thể tạo hương cho cắm hoa với Bégonia và Chim ưng. Cắm hoa Cấp độ 5 của {M0.anh ấy}{F0.cô ấy} cũng sẽ có chất lượng cao hơn.
+Đạt Mức Sắp xếp hoa 4
+{0.SimFirstName} hiện có thể làm cắm hoa với Tuyết tùng, Lily, và Hoa Giáng sinh. {M0.Anh ấy}{F0.Cô ấy} cũng có thể tạo hương cho cắm hoa với Bán hồng và Vối. Cắm hoa Cấp độ 1 của {M0.anh ấy}{F0.cô ấy} cũng sẽ có chất lượng cao hơn.
+Đã học Kỹ năng Sắp xếp hoa.
+Kỹ năng Sắp xếp hoa mới của {0.SimFirstName} sẽ cho phép {0.SimPronounObjective} Làm Cắm hoa trên bàn. Khi Mức kỹ năng tăng, nhiều Tương tác liên quan sẽ được mở khóa.\n
+Đạt Mức Sắp xếp hoa 6
+{0.SimFirstName} có thể tạo hương cho cắm hoa với Cỏ h éc và Cúc. Cắm hoa Cấp độ 3 của {M0.anh ấy}{F0.cô ấy} cũng sẽ có chất lượng cao hơn.
+Đạt Mức Sắp xếp hoa 3
+{0.SimFirstName} hiện có thể làm cắm hoa với Bégonia, Đỗ quyên, và Tulip. {M0.Anh ấy}{F0.Cô ấy} cũng có thể tạo hương cho cắm hoa với Tuyết tùng và Anemone.
+Câu cá
+Hầu hết các Sim có kỹ năng này không ngại thừa nhận rằng họ ghiền câu cá. Những người khác nói ngược lại chỉ là... chép.\n\nKỹ năng câu cá được cải thiện qua câu, câu nữa, và đọc về câu. Tăng kỹ năng này sẽ mở khóa Câu bằng Mồi và tăng khả năng bắt được con cá lớn và chất lượng hơn.\n\nCâu cá có thể được dạy từ Mức kỹ năng 5 từ Biển báo Câu cá.
+{0.SimFirstName} đang phát triển ý chí và sự kiên nhẫn cần thiết để trở thành một người đánh cá tuyệt vời. {0.SimFirstName} hiện có thể câu cá trong mọi thời tiết, và có thể câu ngay cả khi hơi khó chịu, căng thẳng, hoặc căng thẳng.
+{0.SimFirstName} hiện có thể bắt Cầu vồng từ các điểm câu nơi chúng được tìm thấy. Là một người đánh cá được tôn trọng với kiến thức để chia sẻ, {0.SimFirstName} có thể chia sẻ Mẹo Câu cá để giúp các Sim khác cải thiện kỹ năng câu của họ.
+{0.SimFirstName} là một bậc thầy thực thụ về nghề câu cá. Những sinh vật biển khó bắt và tinh vi nhất cũng không là đối thủ, và các Sim khác ghen tị với sự khéo léo và kỹ thuật của {0.SimFirstName}.
+{0.SimFirstName} hiện có thể sử dụng mồi để bắt con cá lớn, chất lượng hơn. {0.SimFirstName} có thể xem nước gần các điểm câu để nghiên cứu chuyển động cá và xác định cá mới.
+{0.SimFirstName} hiện là một nhân vật cố định trong cộng đồng câu cá và nổi tiếng gần xa - tất cả mọi người trên hooklinensinker.sim đều nói vậy! {0.SimFirstName} hiện có thể dạy các Sim khác Câu cá. Hãy ra ngoài và lan tỏa kiến thức!
+Tai ương của ao! {0.SimFirstName} đi đâu, cá run rẩy vì sợ hãi. {0.SimFirstName} hiện có thể kiên nhẫn câu để bắt được mẻ lớn và chia sẻ mẹo câu cá chuyên môn với các Sim khác.
+{0.SimFirstName} hiện có thể bắt Cá trê và Cá rô từ các điểm câu nơi chúng được tìm thấy. Với bàn tay vững vàng hơn và đôi mắt sắc bén hơn, {0.SimFirstName} sẽ có cơ hội tốt hơn để mời cá khi câu.

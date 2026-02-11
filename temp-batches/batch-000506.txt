@@ -1,0 +1,100 @@
+Xem
+Trân trọng
+Đi đến Rừng Cây Xanh
+Nói chuyện với
+Khen lá cây
+Thảo luận về thiên nhiên
+Trò chuyện về rễ cây
+Khám phá
+Quay về lối vào cây
+Dịch vụ làm vườn đã được lên lịch.
+Nâng cấp dịch vụ đã được lên lịch.
+Không có gì trên lô đất hiện tại có thể được nâng cấp bởi dịch vụ này.
+Dịch vụ sửa chữa đã được lên lịch.
+Người giữ trẻ đã được thuê.
+Trong nhà
+Ngoài trời
+Bán Dê Mini & Cừu Mini
+Mua Ngựa
+Chuyên gia massage
+Không tốn phí.
+Bán Thú cưng
+Nhận nuôi Chó
+Nghệ sĩ xăm hình
+Bạn cần Bàn Xăm Hình để thuê dịch vụ này.
+Chỉ có thể thuê một Nghệ sĩ Xăm Hình tại một thời điểm.
+Bán Ngựa
+Nhận nuôi Mèo
+Mua Dê Mini & Cừu Mini
+Nhận nuôi Trẻ
+Cứu Ngựa
+Đưa Thú cưng ra để nhận nuôi
+Gọi Trao đổi Động vật Trang trại
+Gọi video
+Gọi cuộc gọi đùa cợt
+Bạn vừa yêu cầu thưởng! Có lẽ bạn nên đợi một chút trước khi hỏi lại.
+Đi du lịch
+Mời tối đa 8 nhân vật.
+Thực hiện Kiểm tra Lý lịch Nhanh với
+Có em bé khoa học với
+Chuyển tiền
+Đang hạ nhiệt
+Đưa các nhân vật đi nghỉ về nơi ở của họ.
+Gọi lại Đến Nơi Ở
+Mở Sổ tay
+Hiển thị Thông tin Hóa đơn
+Phần làm vườn không có mục nào.
+Phần câu cá không có mục nào.
+Thương lượng với Đại lý
+Ai đó thực sự thích nghệ thuật của bạn để quyên góp số tiền như vậy!
+Tôi có một ông trùm nghệ thuật quan tâm muốn mua một bức tranh của bạn! Ông ấy sẵn sàng trả cao hơn một chút so với giá thị trường!
+Tôi giúp bạn được một mạnh thường quy khiêm tốn!
+Ai đó muốn quyên góp một số tiền khá lớn cho bạn!
+Tôi tìm được cho bạn một khoản quyên góp khá lớn!
+Tôi tìm được ai đó sẵn sàng trả một số tiền lớn để mua tác phẩm bạn chọn!
+Xin lỗi, tôi hiện không có gì cho bạn. Gọi lại sau và có thể tôi sẽ có.
+Có một người sưu tập nghệ thuật sẵn sàng trả cao hơn một chút so với giá thị trường cho một kiệt tác bạn chọn!
+Tôi giúp bạn được một mạnh thường quy nhỏ.
+"Bạn vừa gọi! Thử lại sau."
+{0.SimFirstName} không thể lay chuyển và thuyết phục ai đó đồng ý thưởng...
+Họ thích những gì {0.SimFirstName} nói. {0.SimFirstName} nhận được một khoản tiền thưởng một lần và gần được thăng chức hơn bao giờ hết!
+Bạn không thể Di chuyển Hộ gia đình khi có Sự kiện Xã hội hoặc đang làm việc.
+Bạn không thể Đi ra khỏi khi có Sự kiện Xã hội hoặc đang làm việc.
+Đi đến Huấn luyện Lối sống
+Tham gia Kỳ nghỉ
+Tham gia Hoạt động Ngoại khóa
+{0.SimFirstName} thà không đến.
+{0.SimFirstName} đang bận giải quyết những "suy nghĩ tức giận" có răng... và vuốt.
+{0.SimFirstName} đang ngủ.
+{0.SimFirstName} thà không đến ngay bây giờ, đặc biệt là khi trăng tròn.
+{0.SimFirstName} không thoải mái khi đi du lịch đến Quên Hồ với bạn.
+Mời ra ngoài vui chơi
+Mời đến Lô đất Hiện tại
+Tôi sẽ đến ngay!
+{1.SimFirstName} đã ở gần đây rồi!
+{1.SimName} sẽ đến ngay!
+{0.String}
+Không phải ai cũng có thể đến!\n{0.String}
+Mọi người đều đến!
+Không ai có thể đến ngay bây giờ!\n{0.String}
+{0.SimFirstName} đã ở đây rồi!
+{0.SimFirstName} đang bận!
+Thực hiện Kiểm tra Lý lịch trên {2.SimFirstName}
+Các nhân vật yêu thích của {0.SimFirstName} đến từ game MySims.
+{0.SimFirstName} thích Baked Alaska.
+{0.SimFirstName} nghĩ người ngoài hành tinh rất tuyệt.
+{0.SimFirstName} sợ thỏ đông lạnh.
+Hình dáng yêu thích của {0.SimFirstName} là plumbob.
+Xin lỗi Cơ sở dữ liệu hiện đang bận, hãy thử lại sau!
+Thuê Dịch vụ Sửa chữa
+Cảm ơn bạn đã thuê từ Repair Services United. Kỹ thuật viên Sửa chữa của bạn sẽ đến vào {0.DayOfWeekLong} lúc {0.TimeShort}.
+Thuê Dịch vụ Người giữ trẻ
+Bạn đã thuê người giữ trẻ rồi!
+Cảm ơn bạn đã thuê từ Kindly Caring, Inc. Người giữ trẻ của bạn sẽ đến vào {0.DayOfWeekLong} lúc {0.TimeShort}.
+Bạn đã thuê người giúp việc rồi!
+Thuê Người làm vườn Chuyên nghiệp
+Cảm ơn bạn đã thuê từ Gardeners United. Người làm vườn của bạn sẽ đến vào {0.DayOfWeekLong} lúc {0.TimeShort}.
+Bạn đã thuê Người làm vườn rồi!
+Thuê Đại lý
+{0.SimFirstName} đã thuê một đại lý! {M0.Anh ấy}{F0.Cô ấy} giờ có thể thương lượng để đòi nhiều tiền hơn từ những bức tranh {M0.của anh ấy}{F0.của cô ấy}!
+Chuyển tiền

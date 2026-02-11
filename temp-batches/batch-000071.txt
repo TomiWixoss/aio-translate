@@ -1,0 +1,100 @@
+Tàn tích của nền văn minh ngoài hành tinh
+Dù sao thì đây cũng là một tinh vân đẹp
+Chào mừng đến Trại cứu hộ
+Thời gian vừa rồi thật sự lãng phí!
+Trở về lớp Hình học!
+Quá nhiều việc
+Trong bóng tối
+Không đủ băng dính
+Không phải vấn đề của {0.SimFirstName}!
+Khách ngoài hành tinh trên tàu!
+Bị từ chối!
+{0.SimFirstName} đã từng nghe nói về những cái bẫy kiểu này rồi. Để nguyên các hiện vật, {M0.he}{F0.she} túi bí mật vài viên đá trông lạ nhất và quay về tàu vũ trụ của {M0.his}{F0.her}. {M0.He}{F0.She} có lẽ vẫn còn đủ nhiên liệu để về nhà và báo cáo về phát hiện đáng kinh ngạc của {M0.his}{F0.her}.
+Mất trí nhớ
+Đã thu thập dữ liệu
+Ghế WC đông dân
+Cơn mưa bánh mì kẹp phô mai không nướng
+Hàng hóa hơi đáng ngờ
+Điều gì đã xảy ra?
+Một lần trông thấy
+Quay về tàu tai nạn
+Một quang cảnh kỳ lạ
+Một khối đá chắn đường
+Kẻ bắt nạt lớn
+Chút ít sự giúp đỡ
+Chiến thắng trận chiến vũ trụ (lại một lần nữa)
+CẢNH BÁO
+Tia tình yêu
+Một tàu với ý định mờ mịt
+Quá nhiều việc
+Não đã ổn định!
+Món ghép thô ráp
+Mình nghĩ mình làm được, mình nghĩ mình làm được!
+Bắt đầu tham lam
+Không thể giúp đỡ
+Nói thật luôn có lợi
+{0.SimFirstName}, Người luyện tập ngoài hành tinh
+{0.SimFirstName} đang hướng tới mặt trăng! {F0.she}{M0.he} nên quay quanh và quan sát, hay thử hạ cánh?
+Ăn một chiếc bánh mì kẹp phô mai trong không gian
+Yêu cầu một chiếc bánh mì kẹp phô mai trong túi đồ
+Thực hiện thao tác thường lệ trong không gian
+Đã thực hiện thao tác thường lệ trong không gian quá gần đây.
+Giúp xây dựng tên lửa
+Yêu cầu {1.SimFirstName} giúp với tên lửa
+(Từ thích Khoa học tên lửa)
+(Từ không thích Khoa học tên lửa)
+Tương tác này yêu cầu một loại trái cây hoặc rau trong vườn để thực hiện
+Về nhà
+Quay về Lô đất đang hoạt động
+Bạn không thể làm điều này khi một đứa trẻ đang được cứu hộ!
+Được cứu hộ
+{0.SimName} đã được cứu hộ.
+Một Sim trẻ em trong Hộ gia đình đã chơi trước đó đã được cứu hộ. Bạn muốn làm gì?
+Cầu xin đồ đạc
+&quot;Ồ... Thật ra cậu chẳng có gì có giá trị để tôi trả lại cả. Có lẽ cậu đã thực sự mất trắng tất cả. Tôi sẽ phải quay lại nếu cậu không bắt đầu trả nợ, và tôi nghĩ cả hai chúng ta đều không muốn thế, đúng không?&quot;
+{0.SimFirstName} cố gắng chống trả Người thu hồi tài sản, nhưng chỉ bị đập vào. Lần sau, {F0.she}{M0.he} nên thử chỉ đơn giản là trả hóa đơn của {F0.her}{M0.his}.
+{0.SimFirstName} đã thành công &quot;thuyết phục&quot; Người thu hồi tài sản rời khỏi những món đồ được yêu quý của {F0.her}{M0.his}. Hy vọng công ty dịch vụ sẽ để yên một thời gian nữa.
+{0.SimFirstName} cố gắng mua chuộc Người thu hồi tài sản, nhưng khi một Sim nợ sâu như vậy thì khó mà mua chuộc được ai. Lần sau, {F0.she}{M0.he} nên thử &quot;hối lộ&quot; ngân hàng bằng một khoản thanh toán nhỏ trên các khoản vay của {F0.her}{M0.his}...
+{0.SimFirstName} đã thành công &quot;thuyết phục&quot; Người thu hồi tài sản rời khỏi những món đồ được yêu quý của {F0.her}{M0.his}. Hy vọng cơ quan thu hồi nợ sẽ để yên một thời gian nữa.
+Yêu cầu không lấy đồ đạc
+Tranh cãi để giữ
+Gọi đến lòng trắc ẩn
+{0.SimFirstName} cố gắng gọi đến cảm xúc của Người thu hồi tài sản, nhưng họ có lẽ có trái tim bằng đá. Lần sau, {F0.she}{M0.he} nên thử chỉ đơn giản là trả hóa đơn của {F0.her}{M0.his}.
+Thu hồi tài sản
+Tài sản của {0.SimFirstName} đã bị thu hồi và không còn là của {0.SimPronounPossessiveIndependent} nữa. Điều này đã giúp một chút cho {0.SimPronounObjective} thoát khỏi nợ. Tuy nhiên, nếu {M0.he}{F0.she} vẫn còn nợ thêm tiền, {M0.he}{F0.she} nên trả nhanh kẻo {M0.he}{F0.she} có thể đón nhận thêm những chuyến viếng thăm từ Người thu hồi tài sản thân thiện trong khu phố.
+Suy nghĩ về việc thu hồi tài sản
+Đi đến tài sản đã bị thu hồi
+Lại đọc lời tuyên thệ cùng
+Lại đọc lời tuyên thệ với {2.SimName}
+Bạn muốn đặt tên video này là gì?
+Tên tập tin video
+Tiêu đề video
+Mô tả tập tin video
+Mô tả video
+Tìm hiểu xu hướng hiện tại trên Trạm Video.
+Đổi tên Xe đạp
+Đổi tên {1.ObjectName}
+Đổi tên Người tuyết Bạn bè
+Bạn muốn đặt tên con ếch này là gì?
+Tên con ếch
+Mô tả con ếch
+Đặt tên và mô tả cho con ếch này.
+Bạn muốn đặt tên cho cây này là gì?
+Tên ảnh
+Không có tiêu đề
+Bạn muốn đặt tên cho bức ảnh này là gì?
+Bạn muốn gọi {0.ObjectName} này là gì?
+Tên Giấy origami
+Tên Giấy origami
+Mô tả Giấy origami
+Đặt tên và mô tả cho tác phẩm Giấy origami này.
+Đặt tên cây trồng trong nhà
+Đặt tên cho cây trồng trong nhà này...
+Đặt tên Cú đá
+Cú đá
+Đặt tên cho Cú đá này...
+Đặt tên Đồ vật
+Đổi tên tập tin
+Bạn muốn đổi tên tập tin này thành gì?
+Đặt tên Cá
+Đặt tên cho {1.ObjectCatalogName}.

@@ -1,0 +1,114 @@
+Đạt đến cấp độ 3 Thủ công
+{0.SimFirstName} giờ đây có cơ hội tìm thấy các bộ phận hiếm, và có thể chạm khắc thêm vài bức tượng!
+Đạt đến cấp độ 8 Thủ công
+{0.SimFirstName} giờ có thể Thực hiện Nâng cấp Cơ bản trên các đồ điện tử. {M0.He}{F0.She} cũng có thể Chế tạo Nhạc cụ tại Bàn Gỗ, với điều kiện {M0.he}{F0.she} có cấp độ kỹ năng 8 khi chơi nhạc cụ đó.
+{0.SimFirstName} luôn tìm thấy các bộ phận hiếm từ Tháo dỡ và có thể Chế tạo Toilett tại Bàn Gỗ. {0.SimPronounSubjective} cũng có thể Nâng cấp các đồ dùng nhà bếp nhanh gấp đôi so với trước.
+Đạt đến cấp độ 5 Thủ công
+Khả năng bị điện giật của {0.SimFirstName} khi Sửa chữa giờ thấp hơn. {M0.He}{F0.She} cũng có thể Thực hiện Nâng cấp Cơ bản trên các đồ dùng nhà bếp, Chế tác Tác phẩm Điêu khắc Lớn tại Bàn Gỗ, và Khoe khoang về Khéo léo với các Sim khác.
+Đã học được kỹ năng Thủ công
+Kỹ năng Thủ công mới của {0.SimFirstName} sẽ cho phép {0.SimPronounObjective} Tháo dỡ các bộ phận từ đống đồ phế liệu và Sửa chữa các vật thể hỏng. Khi cấp độ kỹ năng tăng lên, nhiều cơ hội nâng cấp hơn sẽ trở nên khả thi.
+Đạt đến cấp độ 6 Thủ công
+{0.SimFirstName} giờ có thể Chế tạo Bàn Ăn và Ghế tại Bàn Gỗ. {M0.He}{F0.She} cũng có thể tìm thấy các Bộ phận Đi tử hiếm từ việc Tháo dỡ.
+Đạt đến cấp độ 10 Thủ công
+Guitar: nhạc cụ duy nhất vượt qua giai cấp, thể loại và ranh giới. Một cây guitar phù hợp cho một buổi tối lãng mạn, một buổi gặp gỡ thân mật, hoặc một buổi biểu diễn kín phòng.
+
+Sử dụng guitar để cải thiện Kỹ năng Guitar. Tăng kỹ năng này sẽ mở khóa các Bài hát và Tương tác mới trên Guitar, bao gồm khả năng Viết Bài hát và Trộm tình cho Sim.
+
+Guitar có thể được dạy với tư cách là Mentor ở cấp độ 5 từ một Guitar.
+Đạt đến cấp độ 2 Guitar
+{0.SimFirstName} giờ có thể Gảy đùa vui vẻ khi cảm thấy Vui vẻ và Nghiên cứu Guitar tại Máy tính. {M0.He}{F0.She} cũng giờ có thể Tán thưởng Blues trên Máy hát và Hào hứng về phần Guitar Solo với các Sim khác.
+
+{0.SimPronounSubjective|xxUpper} cũng có thể Mentor người khác về Guitar.
+Đạt đến cấp độ 9 Guitar
+{0.SimFirstName} giờ có thể Chơi các Bài hát Jazz và Cấp phép các Bài hát {M0.he}{F0.she} đã viết tại Hộp thư.
+Đạt đến cấp độ 3 Guitar
+{0.SimFirstName} giờ có thể Chơi các Bài hát Blues.
+Đạt đến cấp độ 8 Guitar
+{0.SimFirstName} giờ có thể Viết, Bỏ đi, và Đặt tên Bài hát. {M0.He}{F0.She} cũng có thể Chơi các Bài hát Cổ điển.
+{0.SimFirstName} giờ có thể Chơi các Bài hát Tiên phong.
+Đã học được kỹ năng Guitar
+Kỹ năng Guitar mới của {0.SimFirstName} sẽ cho phép {0.SimPronounObjective} Luyện tập trên nhạc cụ. Khi cấp độ Kỹ năng tăng lên, các cơ hội âm nhạc mới sẽ trở nên khả dụng.&#xD;&#xA;
+Đạt đến cấp độ 4 Guitar
+{0.SimFirstName} giờ có thể Jam trên Guitar. {M0.He}{F0.She} cũng có thể Chơi các Bài hát Rock.
+Đạt đến cấp độ 10 Guitar
+Đạt đến cấp độ 6 Guitar
+{0.SimFirstName} giờ có thể Trộm tình các Sim khác và Chơi các Bài hát Ballad.
+Đạt đến cấp độ 5 Guitar
+{0.SimFirstName} giờ có thể Chơi các Bài hát Country.
+Đạt đến cấp độ 7 Guitar
+{0.SimFirstName} có thể Chơi các Bài hát Latin và Ru các Sim ngủ. {M0.He}{F0.She} cũng có thể Hứa sẽ Dành tặng Bài hát cho các Sim khác.
+Sẵn sàng nâng tầm những tác phẩm ẩm thực của bạn? Kỹ năng Ẩm thực cao cấp có thể giúp mang đến những món ăn sang trọng cho bạn và khách mời.
+
+Ẩm thực cao cấp được phát triển thông qua việc nấu các món ăn cao cấp trên tủ lạnh, bếp và bàn nhà bếp. Tăng kỹ năng này sẽ mở khóa các Mẹo, Moodlet và Công thức Ẩm thực cao cấp mới.
+
+Ẩm thực cao cấp có thể được dạy với tư cách là Mentor ở cấp độ 5 từ Tủ lạnh, Bếp, hoặc Lò nướng.
+Đạt đến cấp độ 2 Ẩm thực cao cấp
+{0.SimFirstName} giờ có thể chế biến Butternut Gnocchi và Chicken Saltimbocca.
+Đạt đến cấp độ 8 Ẩm thực cao cấp
+{0.SimFirstName} giờ có thể chế biến Monte Cristo Sandwich. {M0.He}{F0.She} cũng có thể Nghiên cứu các Kỹ thuật Nấu ăn Nâng cao trên Máy tính.
+
+{0.SimPronounSubjective|xxUpper} cũng có thể Mentor người khác về Ẩm thực cao cấp.
+Đạt đến cấp độ 7 Ẩm thực cao cấp
+{0.SimFirstName} giờ có thể chế biến Lobster Tortellini và Lobster Thermidor.
+Đạt đến cấp độ 3 Ẩm thực cao cấp
+{0.SimFirstName} giờ có thể chế biến Herb Crusted Salmon, Spinach Frittata, và Maki Rolls. {M0.He}{F0.She} cũng học được một động tác Gia vị Sang trọng mới và thú vị.
+Đạt đến cấp độ 4 Ẩm thực cao cấp
+{0.SimFirstName} giờ có thể chế biến Prosciutto-Wrapped Asparagus. Món ăn do {M0.him}{F0.her} làm ra cũng trao tặng Moodlet Món ăn Ngon.
+Đạt đến cấp độ 6 Ẩm thực cao cấp
+{0.SimFirstName} giờ có thể chế biến Rack of Lamb.
+Đạt đến cấp độ 10 Ẩm thực cao cấp
+{0.SimFirstName} giờ có thể chế biến Baked Alaska. {M0.He}{F0.She} cũng có thể Trang trí món ăn để tăng chất lượng của chúng.
+Đã học được kỹ năng Ẩm thực cao cấp
+Kỹ năng Ẩm thực cao cấp mới của {0.SimFirstName} sẽ cho phép {0.SimPronounObjective} làm các bữa ăn sang hơn. Cấp độ kỹ năng càng cao, càng nhiều công thức được mở khóa.
+Đạt đến cấp độ 9 Ẩm thực cao cấp
+{0.SimFirstName} giờ có thể chế biến Trout Meunière. {M0.He}{F0.She} cũng có thể Chia sẻ Bí quyết Nấu ăn với các Sim khác.
+Đạt đến cấp độ 5 Ẩm thực cao cấp
+{0.SimFirstName} giờ có thể chế biến SimCity Cheesecake, Tiered Cake, và Nigiri Rolls. {M0.He}{F0.She} cũng học được động tác Cắt Khí mới và thú vị.
+Vườn của bạn phát triển thế nào? Nó có thể nở hoa với hoa và trái cây vô số, nhưng một dự án như vậy cần thời gian và công sức, và hơn một chút Kỹ năng Trồng trọt.
+
+Kỹ năng Trồng trọt được xây dựng bằng cách làm việc với cây, hạt giống, và chậu cây. Tăng kỹ năng này sẽ cho phép Sim làm việc hiệu quả hơn khi Trồng trọt cũng như mở khóa các Tương tác và Giao xã mới về Trồng trọt.
+
+Trồng trọt có thể được dạy với tư cách là Mentor ở cấp độ 5 từ một Cây Trồng trọt.
+Đạt đến cấp độ 2 Trồng trọt
+{0.SimFirstName} có thể Nghiên cứu Trồng trọt trên máy tính, Nghiên cứu từng loài cây để mở khóa thông tin trong Sổ tay, và Tưới cây trong khu vực lân cận.
+{0.SimFirstName} giờ có thể Lấy Cắt và Ghép để tạo cây lai.
+{0.SimPronounSubjective|xxUpper} cũng có thể Mentor người khác về Trồng trọt.
+{0.SimFirstName} có thể mua các gói hạt giống Không phổ biến và Nông dân. {M0.He}{F0.She} giờ cũng có thể Phun thuốc trừ sâu trong khu vực lớn hơn.
+{0.SimFirstName} tiếp tục cải thiện sự thành thạo Trồng trọt của {M0.his}{F0.her} và giờ có thể Chăm sóc Vườn, thực hiện hiệu quả cùng lúc tất cả việc tưới, nhổ cỏ và phun thuốc trừ sâu.
+Đạt đến cấp độ 5 Trồng trọt
+Đạt đến cấp độ 7 Trồng trọt
+Đạt đến cấp độ 3 Trồng trọt
+{0.SimFirstName} giờ là người làm vườn tối thượng. {M0.he}{F0.she} có thể mua các gói hạt giống Hiếm, mỗi gói chứa một trong những loài cây độc nhất, đắt đỏ nhất có thể tìm thấy bất cứ đâu.
+{0.SimFirstName} giờ có thể để cây Bonsai đã cắt tỉa mọc phát triển quá mức để định hình lại chúng. {0.SimFirstName} cũng có thể Siêu Bán cây trong khu vực lớn.
+Đạt đến cấp độ 10 Trồng trọt
+{0.SimFirstName} giờ có thể Nói chuyện với Cây để đáp ứng Nhu cầu Xã hội của {M0.his}{F0.her} và Thu hoạch cây trong khu vực lân cận.
+Đã học được kỹ năng Trồng trọt
+Kỹ năng Trồng trọt mới của {0.SimFirstName} sẽ cho phép {0.SimPronounObjective} Trồng, Tưới, Nhổ cỏ, và Thu hoạch. Các Tương tác và Kỹ thuật nâng cao mới được mở khóa ở các cấp độ cao hơn.
+Đạt đến cấp độ 4 Trồng trọt
+Đạt đến cấp độ 8 Trồng trọt
+{0.SimFirstName} đang trở thành một nhà nông học thực thụ và giờ có thể Nhổ cỏ cây trong khu vực lớn hơn.
+Đạt đến cấp độ 6 Trồng trọt
+Đạt đến cấp độ 9 Trồng trọt
+Cầu thang Mega (Cơ bản)
+Nhìn này, trong khi những cầu thang quyến rũ này là bổ sung hoàn hảo cho một ngôi nhà phong cách mission, bạn không nhất thiết phải sống trong một nhiệm vụ để mua chúng. Nó chỉ dường như đáng để nhắc nhở mọi người, vì không có nhiều người mua những cầu thang này.
+Cầu thang Mega (Ôi Sang!)
+Cầu thang tốt và tất cả, nhưng bạn có không muốn cầu thang khiến mọi người nói “Ôi, sang!”? Vâng, đó là chính xác từ ngữ mọi người sẽ thốt ra khi họ thấy mẫu Ôi Sang! của Cầu thang Mega của chúng tôi. Và hãy đợi cho đến khi bạn kể với họ rằng mỗi ô đã được robot sơn tỉ mỉ!
+Cầu thang Trôi nổi Hiện đại
+Thời trang và đương đại trong thiết kế, bộ cầu thang này dường như trôi nổi giữa không trung.
+Cầu thang Thực dụng
+Một cầu thang là một yếu tố kiến trúc cho phép mọi người di chuyển từ một tầng của tòa nhà đến tầng khác một cách trơn tru và không bị cản trở.
+Cầu thang Không đáng chú ý
+Chức năng trước, thẩm mỹ sau.
+Cầu thang Nhà phố
+Đừng coi thường cầu thang của bạn. Tôn trọng sự thanh lịch và chất lượng xây dựng của nó.
+Cầu thang
+Cầu thang sẽ không hoàn chỉnh nếu không có cầu thang. Một tầng, hai tầng, tầng một phần, tất cả đều có thể thực hiện được với cầu thang của Stairs. Và mỗi bậc thang của Stairs được làm thủ công để mang lại cho Stairs trải nghiệm lên xuống cầu thang độc nhất, chỉ tìm thấy với cầu thang của Stairs. Dù bạn muốn lên tầng trên hay xuống tầng dưới, cầu thang của Stairs sẽ đáp ứng nhu cầu cầu thang của bạn.
+{0.SimFirstName} và {1.SimFirstName} đã có sinh đôi!!
+{0.SimFirstName} đã có sinh đôi!!
+Sinh đôi
+{0.SimFirstName} và {1.SimFirstName} đã có sinh ba!!!
+{0.SimFirstName} đã có sinh ba!!!
+Sinh ba
+{0.SimFirstName} không thể làm điều này mà không có sự trợ giúp của người lớn.
+Bạn không thể làm điều này với bộ xương.
+Bộ xương không thể làm điều này.

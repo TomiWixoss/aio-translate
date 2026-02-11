@@ -1,0 +1,100 @@
+Đi thôi! Đến {4.String} tìm tớ nhé!
+Đến trường rồi! Gặp lại sau nhé.
+Phải chạy thôi, không muộn lớp được!
+Phải đi rồi! Tớ không thể muộn học được.
+Phải chạy thôi! Tớ muộn làm rồi.
+Tớ phải đi làm. Gặp lại sau.
+Tớ đi làm đây. Gặp lại sau.
+Ván hay quá! {1.String} đánh bại {2.String} {3.Number}-{4.Number}.
+Dù bị áp đảo về số người, {1.SimFirstName} vẫn đánh bại {2.String} {3.Number}-{4.Number}!
+Cảm giác như {1.String} ập vào {2.SimFirstName}, và cuối cùng đánh bại {M2.him}{F2.her} {3.Number}-{4.Number}.
+Quả là ván đấu! {1.SimFirstName} cuối cùng đã đánh bại {2.SimFirstName} {3.Number}-{4.Number}.
+{0.SimFirstName} giờ có thể nghỉ phép gia đình.
+{1.SimFirstName} đã được đưa về với Sự Sống! Những lời cầu xin nhiệt thành của {0.SimFirstName} với Tiền Vệ Chết chắc đã có tác dụng.
+{1.SimName} thực sự đã ra đi sau khi lời khẩn cầu nhiệt thành của {0.SimFirstName} bị Tiền Vệ Chết làm ngơ...
+Xin chào, {0.SimFirstName}. Tôi gọi để thông báo {1.SimName} đã qua đời. Tôi rất tiếc vì mất mát người bạn thân của bạn.
+Xin chào, {0.SimFirstName}. Tôi nghĩ bạn sẽ muốn biết kẻ thù của bạn, {1.SimName}, đã qua đời.
+Xin chào, {0.SimFirstName}. Tôi gọi để thông báo {1.SimName} đã qua đời. Tôi rất tiếc cho mất mát của bạn.
+Xin chào, {0.SimFirstName}. Tôi gọi để thông báo {1.SimName} đã qua đời. Tôi rất tiếc cho mất mát người bạn Ngựa thân thiết của bạn.
+Xin chào, {0.SimFirstName}. Tôi gọi để thông báo người bạn thân của bạn, {1.SimName}, đã qua đời. Tôi rất tiếc cho mất mát của bạn.
+Xin chào, {0.SimFirstName}. Tôi gọi để thông báo người thân trong gia đình của bạn, {1.SimName}, đã qua đời. Tôi rất tiếc cho mất mát của bạn.
+Xin chào, {0.SimFirstName}. Tôi gọi để thông báo {1.SimName} đã qua đời. Tôi nghĩ bạn có thể muốn biết.
+Linh hồn của {0.SimFirstName} Đang Tan Dần.
+Kết nối của {0.SimFirstName} với thế giới vật chất ngày càng yếu đi theo từng ngày. Để {M0.he}{F0.she} không bị lãng quên hoàn toàn, bạn bè và gia đình nên đến nơi an nghỉ của {M0.him}{F0.her} và cố gắng Tăng Cường {M0.His}{F0.Her} Kết Nối với Thế Giới Vật Chất. Họ cũng có thể triệu hồi linh hồn của {M0.him}{F0.her} và tương tác với {0.SimPronounObjective} ở mức độ... cá nhân hơn.
+Hãy đóng cửa sổ và khóa cửa sau nhà, {0.SimFirstName} đã phát tán một virus ra thế giới! Phần mềm xảo quyệt này đã giúp {M0.him}{F0.her} kiếm được {1.Money}!
+Bằng cách khai thác một không gian tìm kiếm bộ đệm tràn dấu không được vá, {0.SimFirstName} đã lây nhiễm hàng ngàn hệ thống cũ. Các máy tính zombie làm quá tải mạng lưới ngân hàng toàn cầu, mang lại {M0.him}{F0.her} {1.Money}!
+Plugin chặn phần mềm độc hại đó đang làm cho việc duyệt web an toàn hơn cho mọi người. {0.SimFirstName} đã kiếm được {1.Money} cho nỗ lực của {M0.his}{F0.her}.
+Plugin xử lý đường cong spline của {0.SimFirstName} là số một! {M0.He}{F0.She} đã kiếm được {1.Money} từ tiền bán hàng.
+An toàn hơn là hối tiếc, {0.SimFirstName} buông bỏ sự theo đuổi cuồng nhiệt, cứu vãn năng lượng ẩn khuẩn với cái giá là mất đi tiếp xúc xã hội. Nhưng thôi, những người theo dõi điên rồ là dấu hiệu của tiến độ sự nghiệp của {M0.his}{F0.her} (có lẽ chỉ không phải trong trường hợp này).
+Hiểu được cái giá của việc là một nhân vật công chúng, {0.SimFirstName} dừng lại để dành thời gian cho người hâm mộ, chịu đựng sự tiếp xúc choáng váng và trận mưa mệt mỏi của những lời khen với nét duyên dai. Đôi khi một cuộc gặp gần gũi với sự điên rồ giúp trân trọng thành tựu.
+Những nghệ sĩ thực thụ như {0.SimFirstName} không thể mua được. Giữ nguyên nguyên tắc của {M0.him}{F0.her}, {M0.he}{F0.she} nói với thương hiệu là hãy cút đi! Và dù bỏ lỡ một số công việc phụ, việc giữ gìn sự toàn vẹn là vô giá.
+Tất nhiên, có nguyên tắc cũng tốt, nhưng chúng không trả tiền hóa đơn, {0.SimFirstName} mới trả. Và tiền thưởng từ các thỏa thuận tất nhiên giúp bù đắp mất một chút cảm hứng, hiệu suất công việc, hay vị trí đạo đức cao.
+Với tư duy nhanh nhẹn và sáng tạo, {0.SimFirstName} bắt đầu thử nghiệm với những mặt hàng kỳ lạ. Sản phẩm cuối cùng hơi lộn xộn, nhưng sự độc đáo của nó mang lại cho {M0.him}{F0.her} một số điểm tín nhiệm công việc và khoản thưởng từ một trong những thương hiệu được trưng bày.
+{0.SimFirstName} linh hoạt chuyển hướng giữa chừng, biến thử thách tháo gỡ hộp thành một bài đánh giá chi tiết sản phẩm phản ánh tốt về tính chuyên nghiệp của {M0.him}{F0.her}, nhưng với cái giá là một số tiềm năng vui vẻ và cơ hội được cảm hứng.
+Thách thức quy ước và có một chút sáng tạo vui vẻ, {0.SimFirstName} đánh cược một biến thể mạnh mẽ cho trang phục thường ngày. Bước đi táo bạo đó thu hút toàn bộ sự chú ý sai cách khi lọt vào danh sách "trang phục tệ nhất", một vinh dự đáng ngờ sẽ không dễ quên ở nơi làm việc hay với những khách hàng tương lai.
+Thách thức quy ước và có một chút sáng tạo vui vẻ, {0.SimFirstName} đánh cược một biến thể mạnh mẽ cho trang phục thường ngày của {M0.his}{F0.her} khách hàng. Rủi ro đó được đền đáp và tên {0.SimName} trở thành chủ đề bàn luận của sự kiện.
+Người ta nói bạn không thể sai với cổ điển. {0.SimFirstName} biết điều đó một cách khó khăn rằng "Họ" đã sai, và vẻ ngoài trang trọng an toàn đã thất bại tại sự kiện khi mọi người không chú ý đến {M0.his}{F0.her} (cựu) khách hàng trong đám đông.
+Cổ điển là cổ điển vì lý do. {0.SimFirstName} chọn một sự trang trọng theo truyền thống hơn, mặc cho {M0.his}{F0.her} khách hàng một bộ trang phục tế nhị nhưng thanh lịch, đánh trúng mọi nốt nhạc đúng ở sự kiện. Công việc tốt và được đền đáp xứng đáng.
+{0.SimFirstName} chọn phát trực tiếp một cuộc thay đồ nhanh cho những người thời trang hoặc thiếu thời gian. Sự kiện vui nhưng kiệt sức này thành công trong ý kiến của {M0.him}{F0.her}, và là nguồn cảm hứng tiềm năng mới, nếu không phải là cơ hội thăng tiến sự nghiệp.
+Chọn tạo một hướng dẫn cho việc trang điểm nhanh không cần soi gương, {0.SimFirstName} đã vui vẻ tô điểm khuôn mặt {M0.him}{F0.her} trên một phát trực tiếp. Và mặc dù một cuộc làm sạch kỹ là cần thiết, cơ hội tiếp xúc sự nghiệp đáng giá.
+Sau yêu cầu thay đồ lần thứ sáu vào phút chót, {0.SimFirstName} đứng lên đối mặt với cô dâu và những yêu cầu quá đáng của {M0.her}. Cuộc trao đổi nóng bực kết thúc tốt đẹp nhờ một số từ ngữ khéo léo, nhưng không trước khi {0.SimFirstName} mất đi {M0.his}{F0.her} sự sáng tạo và một số uy tín chuyên nghiệp.
+Chỉ trong một ngày, {0.SimFirstName} cười và chịu đựng cảnh "cô dâu khó tính" vì công việc và khoảnh khắc đặc biệt này. Cố gắng không ngừng khiến {M0.him}{F0.her} kiệt sức về thể chất, nhưng thỏa mãn cả về nghề nghiệp và tài chính với một món tiền thưởng bất ngờ từ khách hàng biết ơn.
+Cố gắng hết sức, {0.SimFirstName} không thể vượt qua những chỉ trích rõ ràng về trào lưu mới nhất. Cố gắng giả vờ là một thất bại huyền thoại, tốn kém vui vẻ, cảm hứng và cảm giác tự tin tích cực.
+Mặc dù ban đầu không phải là người hâm mộ, {0.SimFirstName} giữ tâm trí cởi mở và cuối cùng nhảy vào đoàn tuân theo trào lưu. Sự chuyển hướng tích cực đó mang lại cho {M0.him}{F0.her} tín nhiệm sự nghiệp và, quan trọng hơn, một số cảm hứng sáng tạo bất ngờ.
+notification_ChanceCard_StyleInfluencer_04_1B
+Không thể giả vờ là người hâm mộ, {0.SimFirstName} chuyển sang chế độ phê phán toàn diện để đánh giá trào lưu một cách thực nghiệm. Bất kể tác động của cách tiếp cận đó ở nơi làm việc, {M0.he}{F0.she} hài lòng khi ủng hộ những niềm tin dựa trên bằng chứng của {M0.his}{F0.her}.
+Rủi ro và tạo kết nối cho toàn bộ sự kiện đã khiến {0.SimFirstName} thỏa mãn về mặt xã hội với một số hiểu biết về buzz ngành mới nhất. Tuy nhiên điều đó không còn thời gian để ăn, sử dụng cơ sở vật chất, hoặc xem chương trình để báo cáo lại về thời trang.
+Bỏ qua cảnh xã hội, {0.SimFirstName} chỉ có mắt cho những vẻ ngoại hình được trưng bày và như một kết quả rời đi hơi đói, hơi cô đơn, nhưng ấn tượng với những trào lưu mới nhất và hơn cả là sẵn sàng đưa {M0.his}{F).her} công việc lên tầm cao mới.
+{0.SimFirstName} từ chối thỏa hiệp sự toàn vẹn báo chí của {M0.him}{F0.her} bằng cách bán chất giả và nộp câu chuyện, đúng hạn, được viết (thành thạo). Đáng buồn thay, điều đó không cứu {0.SimPronounObjective} khỏi cuộc trò chuyện dài với sếp về thực hành tin tốt.
+Bỏ lủa hạn: không thể chấp nhận được! Thỏa hiệp sự toàn vẹn báo chí: không phải là một lựa chọn. Vì vậy {0.SimFirstName} đã nộp câu chuyện không có sự thật được viết (thành thạo); điều đó đủ để giành được một số sự công nhận ở nơi làm việc và một liều ấm áp của lòng tự đúng đắn.
+Không tìm được nguồn hợp lệ kịp thời, {0.SimFirstName} đã dùng toàn bộ tài năng văn học của {M0.him}{F0.her} để né tránh sự thật, đó là một bài tập tốt về viết sáng tạo, nhưng với cái giá nhỏ của uy tín chuyên nghiệp và vị trí đạo đức.
+{0.SimFirstName} chọn con đường an toàn và soạn một bài viết click-bait dễ thích, cải thiện hiệu suất công việc {M0.her} từ lưu lượng độc giả tăng, nhưng để lại {0.SimPronounObjective} cảm thấy hơi xấu hổ rằng những nguyên tắc của {M0.him}{F0.her} rẻ hơn cả một đợt thanh lý kho.
+Tận dụng tối đa cơ hội hiếm có này, {0.SimFirstName} không giữ lại gì và dành hàng giờ để tạo ra một bản báo cáo gây sốc, làm phồng những chiếc cầu vai lông vũ ở nơi làm việc nhưng để lại {M0.him}{F0.her} cảm thấy được trao quyền.
+Tại sao sửa cái gì đó chưa hỏng? {0.SimFirstName} quyết định giữ quy trình hiện tại. Mục tiêu bán hàng đáp ứng kỳ vọng và không có gì bất ngờ xảy ra.
+Dưới sự lãnh đạo của {0.SimFirstName}, quy trình bán hàng mới nhanh chóng phổ biến. Cả nhân viên và cổ đông đều hài lòng với sự tăng lên bất ngờ trong lợi nhuận.
+Năng suất đã giảm vì mọi người dường như bối rối với quy trình mới và trọng tâm đã chuyển sang cố gắng sắp xếp mọi thứ thay vì làm công việc thực tế! Đôi khi rủi ro của việc thử cái mới không trả giá trị.
+{0.SimFirstName} phải thông báo tin công ty đóng cửa một chi nhánh hoàn toàn. Nhiều người sẽ mất việc vì điều này, nhưng điều đó có nghĩa là công ty sẽ có đủ tiền để tiếp tục hoạt động và trả thưởng cho những người còn lại.
+{0.SimFirstName} gửi email cho tất cả nhân viên giải thích rằng thưởng sẽ không được trao năm nay. Trong vài phút, mọi người bắt đầu gọi và gửi email bày tỏ sự tức giận và buồn bã. {0.SimFirstName} sẽ phải đối mặt với hậu quả từ điều này trong một thời gian khá lâu.
+{0.SimFirstName} đe dọa sẽ tiết lộ âm mưu tham ô trừ khi {M0.he}{F0.she} được trả một khoản tiền lớn. Giờ {M0.he}{F0.she} chỉ cần nghĩ xem phải làm gì với số tiền thừa.
+Sau khi nghe lời đe dọa của {0.SimFirstName}, người quản lý cười và thông báo cho {0.SimPronounObjective} rằng {M0.he}{F0.she} ghi lại tất cả các cuộc trò chuyện trong văn phòng của {M0.him}{F0.her}. Nếu âm mưu bị tiết lộ, {M0.he}{F0.she} sẽ đảm bảo mọi người biết rằng {0.SimFirstName} muốn tham gia. Điều duy nhất {0.SimFirstName} đạt được là làm kẻ thù với sếp của {M0.him}{F0.her}.
+{0.SimFirstName} gửi email cho phòng kế toán yêu cầu họ dừng âm mưu tham ô. Có lẽ sẽ có một vị trí quản lý mở cho {0.SimFirstName} sớm thôi.
+{0.SimFirstName} tránh ánh mắt và tiếp tục lướt điện thoại cho đến khi đến lúc rời thang máy. Có lẽ CEO không muốn nói chuyện với một cấp dưới, phải không?
+{0.SimFirstName} bắt đầu cuộc trò chuyện với CEO, người kết thúc khá thân thiện. Thật tốt khi biết rằng ban lãnh đạo công ty vẫn tiếp cận với công nhân viên.
+{0.SimFirstName} bắt đầu kể một câu chuyện về một bức ảnh hài hước {M0.he}{F0.she} thấy gần đây trên mạng. CEO nhìn {0.SimFirstName} một cách lạ lùng, sau đó bận rộn với điện thoại của {M0.herself}{F0.himself}. Phần còn lại của chuyến đi thang máy trôi qua trong im lặng khó xử.
+{0.SimFirstName} không có thời gian cho mấy chuyện này. Những nhiệm vụ dập ghim quan trọng đang chờ đợi! Cây dập ghim gần phòng thư sẽ phải làm công việc đó.
+{0.SimFirstName} biết chính xác ai đã làm việc này và phải làm gì: sáng mai, bàn của kẻ chơi khăm mứt jelly sẽ dán đầy ảnh lạc đà!
+{0.SimFirstName} không biết ai đã làm việc này, vì vậy điều tốt nhất là chơi khăm TẤT CẢ MỌI NGƯỜI! Không may, khi quả bom stink đi off, {0.SimFirstName} cũng thấy kinh tởm như tất cả mọi người khác.
+{0.SimFirstName} chơi an toàn và đặt hàng tiêu chuẩn. {M0.He}{F0.She} đã hoàn thành tốt vai trò của {M0.him}{F0.her} như một bánh răng trong cỗ máy trơn tru của công ty.
+Sự chủ động của {0.SimFirstName} được Trợ lý Quản lý chú ý và gửi email khen ngợi nỗ lực của {M0.him}{F0.her} cho toàn đội.
+Hộp thư đến của {0.SimFirstName} ngập trong các khiếu nại về kẹp giấy hỏng, ghim kẹm, và bút thơm. Có vẻ đôi khi bạn nhận được thứ mình trả tiền.
+{0.SimFirstName} sắp xếp lịch hẹn cho thợ sửa chữa để sửa máy photocopy. Không may, họ không thể đến sáng mai, vì vậy mọi người sẽ phải tạm thời sống thiếu máy photocopy.
+{0.SimFirstName} liếc qua sách hướng dẫn máy photocopy, sau đó mở ra và bắt tay vào chỉnh sửa. Sau khi tháo giấy kẹm và đổ mực, máy photocopy hoạt động trở lại. {0.SimFirstName} là anh hùng văn phòng của ngày hôm đó!
+{0.SimFirstName} liếc qua sách hướng dẫn máy photocopy, sau đó mở ra và bắt tay vào chỉnh sửa. Sau vài giờ lao động vô ích, tay {0.SimFirstName} đầy mực và máy photocopy không gần gần được sửa chữa.
+{0.SimFirstName} lấy thái độ mạnh mẽ với khách hàng, người lập tức xin lỗi và giải thích vấn đề của họ. {0.SimFirstName} có thể chuyển cuộc gọi đến bộ phận phù hợp.
+{0.SimFirstName} lấy thái độ mạnh mẽ với khách hàng, nhưng điều đó khiến họ tức giận hơn, nổ ra một luồng căm ghét lớn tiếng. {0.SimFirstName} rụt rè cúp máy và hy vọng sếp của {M0.him}{F0.her} không phát hiện.
+{0.SimFirstName} có thể làm khách hàng bình tĩnh lại và chuyển cuộc gọi của họ đến bộ phận phù hợp.
+Mặc dù nỗ lực hết sức, khách hàng từ chối bình tĩnh lại và trước khi {0.SimFirstName} có cơ hội chuyển cuộc gọi, họ cúp máy. Một số người chỉ muốn tức giận.
+{0.SimFirstName} quyết định tốt nhất là thừa nhận lỗi. Sếp của {M0.Him}{F0.Her} không vui, nhưng với một số công việc chăm chỉ, {M0.he’ll}{F0.she’ll} có thể lấy lại sự ưu ái.
+{0.SimFirstName} dùng một số thủ thuật kế toán để làm cho như một nhà giao dịch khác chịu trách nhiệm về tổn thất. Điều đó không trung thực, nhưng bạn phải lo cho bản thân, phải không?
+{0.SimFirstName} không thể tách {M0.himself}{F0.herself} hoàn toàn khỏi thất bại, vì vậy có vẻ như {M0.he’ll}{F0.she’ll} chỉ phải chịu trách nhiệm về cái này.
+{0.SimFirstName} từ chối lời mời. Có lẽ lần sau.
+Bài nói chuyện của {0.SimFirstName} là điểm nhấn của hội nghị! Chẳng mấy chốc, nó được chia sẻ trên mạng xã hội và thậm chí được đưa tin trên bản tin tối. Mọi sự chú ý tích cực này cho thấy một thị trường tăng giá cho {0.SimFirstName}.
+Bài nói chuyện của {0.SimFirstName} không đúng mục tiêu. Đó không phải là thảm họa, nhưng nhanh chóng bị lãng quên. {M0.He}{F0.She} sẽ tốt hơn nếu dành {M0.his}{F0.her} thời gian tập trung vào công việc.
+{0.SimFirstName} quyết định bỏ qua cơ hội này. An toàn hơn là hối tiếc.
+{0.SimFirstName} chuyển một phần {M0.his}{F0.her} danh mục vào cổ phiếu nói trên và cuối ngày, giá trị cổ phiếu đã tăng gấp đôi!
+{0.SimFirstName} chuyển một phần {M0.his}{F0.her} danh mục vào cổ phiếu nói trên và cuối ngày, giá trị cổ phiếu chỉ còn một nửa so với ban đầu. Có lẽ đây không phải là một mẹo nóng như nghĩ.
+{0.SimFirstName} không muốn làm sếp tức giận, vì vậy {M0.he}{F0.she} quyết định chỉ bỏ qua. Giờ {M0.he}{F0.she} sẽ phải nhớ phải trả lời cả hai tên. Khó xử.
+Sếp của {0.SimFirstName} xin lỗi và đề nghị mua cơm trưa cho {M0.him}{F0.her}. Sự nhầm lẫn được giải quyết và {M0.he}{F0.she} có thời gian giao lưu trực tiếp với sếp!
+{0.SimFirstName} sửa sếp của {M0.him}{F0.her}, nhưng nó phát ra hơi hơn một chút so với dự định. Sếp trông có vẻ khó chịu, nhưng ít nhất {M0.he}{F0.she} sẽ nhớ đúng tên {0.SimFirstName} bây giờ.
+{0.SimFirstName} từ chối lời mời. Có lẽ lần sau.
+Bài nói chuyện của {0.SimFirstName} là điểm nhấn của hội nghị! Chẳng mấy chốc, nó được chia sẻ trên mạng xã hội và thậm chí được đưa tin trên bản tin tối. Mọi sự chú ý tích cực này sẽ mang lại điều tốt đẹp cho kinh doanh.
+Bài nói chuyện của {0.SimFirstName} không đúng mục tiêu. Đó không phải là thảm họa, nhưng nhanh chóng bị lãng quên. {M0.He}{F0.She} sẽ tốt hơn nếu dành {M0.his}{F0.her} thời gian tập trung vào công việc.
+Trợ lý càu nhàu nhiều nhưng {0.SimFirstName} có thể hoàn thành mọi việc cần thiết và hơn thế nhờ sự giúp đỡ của trợ lý!
+Trợ lý rất biết ơn và làm việc chăm chỉ hơn trong vài ngày tới.
+{0.SimFirstName} quyết định giữ các ý tưởng cho {M0.himself}{F0.herself} lúc này.
+Sếp của {0.SimFirstName} ấn tượng với các ý tưởng và khen ngợi sự chủ động của {M0.him}{F0.her}. "Bạn sẽ đi đến những nơi!"
+Sếp của {0.SimFirstName} không đánh giá cao các ý tưởng. Có lẽ chúng không tuyệt vời như {M0.he}{F0.she} nghĩ.
+Sự kiên nhẫn của {0.SimFirstName} được đền đáp khi các khoản đầu tư phục hồi phần lớn giá trị trong giao dịch ngoài giờ. Các khách hàng của {M0.His}{F0.Her} sẽ rất hài lòng.
+{0.SimFirstName} xem các khoản đầu tư tiếp tục mất giá trong ngày. {M0.He’s}{F0.She’s} sẽ phải đối mặt với một số khách hàng rất không hài lòng.
+{0.SimFirstName} thực hiện lệnh bán và trong vài giờ, các khoản đầu tư mất thêm nhiều giá trị. May mắn là {M0.he}{F0.she} đã bán khi {M0.he}{F0.she} bán.
+{0.SimFirstName} thực hiện lệnh bán và trong vài giờ, các khoản đầu tư đã lấy lại phần lớn giá trị. Có vẻ như {M0.he}{F0.she} nên đã chờ đợi.

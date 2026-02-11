@@ -1,0 +1,92 @@
+Gọi thú cưng
+Gọi {2.SimFirstName}
+Gán giường
+Gán túi ngủ
+Dạy hình dạng
+Bắt đầu cuộc thi bắn cung với
+Đi làm
+Đi học
+Để rời công việc sớm, nhấp vào Đồng hồ bên cạnh Hiệu suất Công việc, ở góc trên trái.
+Đi đến Nơi ở
+Nổi ngửa
+Nhấn nháy mắt dại
+Theo dõi {1.SimFirstName}
+Thức dậy
+Bị gây mê
+Xiên quả
+Nói chuyện
+Học nói
+Dạy nói
+Lắng nghe
+Lắng nghe {0.String}
+Ba ba
+Đặt {1.SimFirstName} xuống đây
+Nói một mình
+(Từ việc bơi dưới ánh trăng tròn ở Hồ Lunvik)
+Đi khỏa thân!
+Không thể kết hôn trên Batuu.
+Để có lễ cưới trang trọng, với danh sách khách, địa điểm và cả rượu punch!
+Vung nước
+Thất bại xã hội
+Cảm thấy bị bỏ mặc
+{0.SimFirstName} đang bị bỏ mặc, dịch vụ xã hội sẽ được gọi trừ khi bạn có thể cải thiện điểm số của con.
+Xem video hài hước
+Quay về lô đất
+Làm lại lời thề với {1.SimFirstName}
+Gỡ bỏ làm người chăm sóc
+Mời cảm nhận em bé
+Chia sẻ mẹo năng suất
+Hỏng nước
+Phàn nàn về cơn khát
+Giới thiệu thô lỗ
+Giới thiệu hài hước
+Giới thiệu thân thiện
+Nâng ly!
+Cười điên cuồng
+Hôn
+Tìm hiểu về bầu cử xanh
+Tìm hiểu về bầu cử vì lợi nhuận
+Mời vào
+Ủ ầm với {1.SimFirstName}
+Nhìn {1.SimFirstName}
+Ba ba với {1.SimFirstName}
+{0.SimFirstName} rất đói. Hãy chắc chắn cho {M0.him}{F0.her} ăn trước khi {M0.he}{F0.she} bị đưa đi!
+{0.SimFirstName} rất đói. Hãy cho {M0.him}{F0.her} ăn sớm. Bơi lội khi đói có thể khiến Sim bị chết đuối.
+Ôm
+Bỏ trốn ngay với {1.SimFirstName}
+Ắp định mệnh và bỏ trốn
+Thách thức mệnh trời và bỏ trốn
+Kết hôn với {1.SimFirstName}
+Ắp định mệnh và hôn
+Thách thức mệnh trời và hôn
+{0.SimFirstName} còn quá trẻ để kết hôn.
+{1.SimFirstName} còn quá trẻ để kết hôn!
+Kết hôn ngay tại đây, ngay bây giờ.
+Bạn có thể để các Sim đã kết hôn chuyển đến sống cùng nhau bằng cách sử dụng nút Tách và Gộp trong phần Quản lý Hộ gia đình của Chỉnh sửa Khu phố.
+Câu chuyện nguy hiểm
+Khi nghiên cứu một câu chuyện mới, {0.SimFirstName} có ấn tượng rõ rệt là {M0.he}{F0.she} đang bị theo dõi. Dù chết vì một câu chuyện sẽ tốt cho di sản {M0.his}{F0.her}, {0.SimFirstName} thực sự không muốn. Mặc dù {M0.he}{F0.she} cảm thấy cuộc sống {M0.his}{F0.her} đang gặp nguy hiểm, {0.SimFirstName} nên tiếp tục khai thác, hay bỏ cuộc?
+Khám phá sốc
+Khi nghiên cứu cuốn sách tiếp theo, {0.SimFirstName} khám phá điều gì đó về một nhân vật lịch sử được yêu mến sẽ sốc cả đất nước. Nếu {M0.he}{F0.she} công bố, {M0.he}{F0.she} sẽ trở thành huyền thoại, nhưng nó thay đổi mọi thứ mọi người từng nghĩ về lịch sử. Nên công bố, hay chôn vùi?
+Chương trình tin tức
+Trong nỗ lực quảng bá cuốn sách mới nhất, nhà xuất bản của {0.SimFirstName} muốn {0.SimPronounObjective} xuất hiện trên chương trình tin tức với một người dẫn chương trình {M0.he}{F0.she} không thể chịu đựng. {M0.He}{F0.She} có thể hoặc nhắm mắt làm ngơ trên chương trình vì doanh số, hoặc từ chối thẳng thừng.
+Công việc trống
+Có một vị trí cho một nhà bình luận ý kiến trên website của {0.SimFirstName}. Số độc giả đang giảm, vậy {M0.he}{F0.she} cần đảm bảo thuê người có thể nâng cao con số. Nên thuê một nhà văn trẻ nóng bỏng có ý kiến chính trị lớn, hay thuê một người điềm tâm có kinh nghiệm?
+Một mong nguyện thiết tha
+Mong nguyện thiết tha nhất của một cô bé bệnh là gặp {0.SimFirstName}, tác giả yêu thích của cô... và tìm hiểu {0.SimFirstName} đã lên kế hoạch gì cho cuốn sách tiếp theo. {0.SimFirstName} nên chia sẻ {M0.his}{F0.her} bí mật, hay giữ kín?
+Nguồn tin ẩn danh
+Một trong những câu chuyện của {0.SimFirstName} thu hút sự chú ý của chính phủ, người muốn biết danh tính nguồn tin ẩn danh của {M0.his}{F0.her}. Họ nghe có vẻ nghiêm túc. {0.SimFirstName} có thể hoặc tiết lộ nguồn, mặc dù {M0.he}{F0.she} đã hứa giấu tên, hoặc giữ im lặng.
+Làm lệch ngữ cảnh
+Nếu {0.SimFirstName} lấy lời phát biểu của một nhân vật công chúng hơi lệch ngữ cảnh, {M0.he}{F0.she} sẽ có một cột bài tuyệt vời, mặc dù {M0.he}{F0.she} biết đó là căng thẳng. {M0.He}{F0.She} có thể hoặc đăng bài và hy vọng độc giả {M0.his}{F0.her} đồng ý với {0.SimPronounObjective}, hoặc chờ đợi và hy vọng điều gì đó có giá trị tin tức hơn xuất hiện.
+Trợ lý tồi
+Cựu trợ lý tồi của {0.SimFirstName} tuyên bố rằng anh ta đã viết phần lớn cuốn sách mới nhất của {0.SimFirstName}. Trợ lý đó thậm chí không thể đặt đơn cà phê đúng, nhưng {0.SimFirstName} không muốn bé nhỏ. Nên {M0.he}{F0.she} nói sự thật hay nói rằng trợ lý “đã giúp đỡ,” chỉ để tử tế?
+Một bản thảo tồi tệ
+Bản thảo cho tập tiếp theo trong series của {0.SimFirstName} sắp đến hạn... và nó không phải là tác phẩm tốt nhất của {M0.his}{F0.her}. Thực tế, nó tồi tệ. Một nhà văn khác đã đề nghị giúp viết lại, với điều kiện {0.SimFirstName} chia sẻ tác quyền. {M0.He}{F0.She} có thể chấp nhận sự giúp đỡ, hoặc từ chối và xuất bản sách chỉ với tên {M0.his}{F0.her} trên bìa.
+Cũ những điều cũ
+Gần đây, tất cả các câu chuyện của {0.SimFirstName} bắt đầu giống nhau. Người ta nói sự đa dạng là gia vị của cuộc sống, vậy có lẽ {M0.he}{F0.she} nên thử pha trộn chút. Nên thử mở rộng sang lĩnh vực chuyên môn mới, hay tiếp tục làm cùng một việc?
+Ủng hộ chính trị
+Tòa soạn nên ủng hộ ai cho chức vụ chính trị? Đó là quyết định của {0.SimFirstName}-{M0.he}{F0.she} có thể hoặc chọn nhà lý tưởng phổ biến không có cơ hội thắng, hoặc chọn ứng viên đương nhiệm tham gia nhiều buổi gây quỹ và tiệc cocktail hơn là các cuộc họp với cử tri.
+Công nghệ mới
+Nhà xuất bản của {0.SimFirstName} yêu cầu {0.SimPronounObjective} phát hành cuốn sách tiếp theo theo định dạng điện tử mới-100 ký tự mỗi giờ trong 22 ngày liên tục. {M0.He}{F0.She} sẽ là tác giả đầu tiên làm điều đó! Nên đón nhận công nghệ mới, hay ở lại với những quyển sách giấy cũ?
+Mặc dù đáng sợ, {M0.he}{F0.she} vẫn lấy được câu chuyện, và nó là một cú hit. Lần tới {0.SimFirstName} sẽ viết câu chuyện về cách {M0.he}{F0.she} lấy được câu chuyện, chắc chắn sẽ còn lớn hơn!
+Trợ lý của {0.SimFirstName} ngốc đến mức không thể xếp câu... giờ {0.SimFirstName} đã nói với cả thế giới, trợ lý có lẽ sẽ không bao giờ được thuê nữa.
+Nguồn tin gặp rắc rối pháp lý lớn, giờ {0.SimFirstName} không tìm thấy người khác sẵn sàng nói chuyện với {M0.him}{F0.her} công khai! Hơn nữa, các nhà văn khác đang công khai xấu hổ {M0.him}{F0.her} vì không đứng lên vì toàn vẹn báo chí. Đó vẫn còn là điều

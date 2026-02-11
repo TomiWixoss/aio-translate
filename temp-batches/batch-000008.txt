@@ -1,0 +1,102 @@
+Điểm Ưu Đãi:
+Mở Liên Minh & Đối Thủ
+Không có Sims đủ điều kiện để thêm vào Dòng họ.
+Tạo Dòng họ không có Người kế thừa?
+Một Người kế thừa sẽ tạo được nhiều Uy tín hơn một Thành viên thông thường. Trưởng nhà dòng họ có thể chỉ định hoặc thay đổi Người kế thừa bất cứ lúc nào.
+
+\n\nBạn có chắc chắn muốn tạo Dòng họ này mà không chỉ định Người kế thừa trước?
+Một Dòng họ gồm một nhóm các Sims có quan hệ huyết thống. Bất kỳ ai có quan hệ huyết thống với Trưởng nhà dòng họ, hoặc là con, cháu, hoặc con riêng của một thành viên khác, đều được phép gia nhập. \n\nKhông phải tất cả Sims có thể gia nhập đều muốn gia nhập, hoặc được Trưởng nhà dòng họ cho phép gia nhập! Cải thiện mối quan hệ giữa Sim và Trưởng nhà dòng họ, và tăng Uy tín của Dòng họ, có thể giúp trong những tình huống như vậy.
+Thành Viên
+Thành viên
+Chỉ có trưởng nhà dòng họ mới có thể chỉnh sửa phần này.
+Rời Khỏi Dòng Họ
+Bạn có muốn đuổi Thành viên này ra khỏi Dòng họ?
+Việc đuổi thành viên này ra khỏi Dòng họ có thể có hậu quả.\n\nBạn có chắc chắn muốn làm điều này?
+Đuổi Khỏi Dòng Họ
+Thành Viên
+Dòng họ cần có một Trưởng nhà.
+&lt;font color='#AE3CDE'&gt;Trong một Bê Bối&lt;/font&gt;\n&lt;font color='#1E81E6'&gt;Thời gian còn lại:&lt;/font&gt; &lt;font color='#199C2C'&gt;{0.Timespan}&lt;/font&gt;
+Các Dòng họ có thể chọn tối đa ba Lý tưởng để tôn thờ như Giá Trị Dòng họ.\n\nCác Thành viên tham gia vào Hoạt động Khuyến khích của Lý tưởng, đi làm trong Sự nghiệp Khuyến khích, hoặc tham gia Hoạt động ngoại khóa Khuyến khích sẽ tạo ra Uy tín cho Dòng họ. Các Thành viên tham gia vào Hoạt động Không khuyến khích của Lý tưởng hoặc đi làm trong Sự nghiệp Không khuyến khích sẽ khiến Dòng họ mất Uy tín.\n\nHầu hết các Thành viên sẽ tự tham gia vào Hoạt động Khuyến khích của Lý tưởng thường xuyên hơn nhưng chỉ khi Tự chủ được đặt là Toàn bộ trong Tùy chọn Gameplay &gt; Tùy chọn Chơi. Tuy nhiên, các thành viên có Đặc điểm đối lập với một Lý tưởng (ví dụ, Đặc điểm Ác đối lập với Lý tưởng Trắc ẩn) có thể tham gia vào Hoạt động Không khuyến khích thường xuyên hơn!
+Lý Tưởng
+&lt;font color='#EC262E'&gt;Lý tưởng này đã được chọn.&lt;/font&gt;
+Thêm Lý tưởng
+Người Kế Thừa Dòng Họ
+Thêm thành viên vào Dòng họ trước để chọn một Người kế thừa.
+Trưởng Nhà Dòng Họ
+\n&lt;b&gt;&lt;font color='#199C2C'&gt;Sự nghiệp &amp; Hoạt động ngoại khóa Khuyến khích&lt;/font&gt;&lt;/b&gt;
+&lt;b&gt;&lt;font color='#199C2C'&gt;Hoạt động Khuyến khích&lt;/font&gt;&lt;/b&gt;
+Không Có Liên Minh hay Đối Thủ
+Cấp Độ Uy tín {0.Number}
+&lt;font color='#1E81E6'&gt;{0.Number} Thành viên&lt;/font&gt;
+Dòng họ của {0.SimFirstName}
+&lt;font color='#EC262E'&gt;Đối Thủ&lt;/font&gt;\n&lt;font color='#1E81E6'&gt;{0.Number} Thành viên&lt;/font&gt;\nCấp Độ Uy tín {1.Number}
+&lt;font color='#199C2C'&gt;Đồng minh&lt;/font&gt;\n&lt;font color='#1E81E6'&gt;{0.Number} Thành viên&lt;/font&gt;\nCấp Độ Uy tín {1.Number}
+\n&lt;b&gt;&lt;font color='#EC262E'&gt;Sự nghiệp Không khuyến khích&lt;/font&gt;&lt;/b&gt;
+\n&lt;b&gt;&lt;font color='#EC262E'&gt;Hoạt động Không khuyến khích&lt;/font&gt;&lt;/b&gt;
+Bạn có chắc chắn muốn chỉ định thành viên này làm Người kế thừa?
+Một Sim khác đã là Người kế thừa của Dòng họ này, họ sẽ mất vị trí và có thể phản ứng tiêu cực.\n\nBạn có chắc chắn muốn thay đổi này?
+Một Kẻ bị Đày ải không thể được chỉ định làm Người kế thừa.
+Chỉ Định Người Kế Thừa
+Đã được chỉ định là Kẻ bị Đày ải trước đó.
+Người kế thừa không thể được chỉ định là Kẻ bị Đày ải.
+Phải là thiếu niên hoặc lớn hơn mới được chỉ định làm Kẻ bị Đày ải.
+Tuyên Bố Kẻ Bị Đày Ải
+Xóa Kỹ năng
+Xóa Thành viên
+Xóa Lý tưởng
+Tên Dòng họ
+Nhập Mô tả...
+Tạo Dòng họ Của Bạn
+Tạo Dòng họ Mới
+Dòng họ phải có tên hợp lệ.
+&lt;font color='#1E81E6'&gt;Kẻ bị Đày ải&lt;/font&gt;
+Trưởng nhà dòng họ có thể tuyên bố Đối thủ hoặc hình thành Liên minh với Trưởng nhà dòng họ khác.\n\nDòng họ sẽ nhận được Uy tín khi bắt đầu một Liên minh hoặc Đối thủ mới, và từ việc tương tác với Thành viên của những Dòng họ đó, nhưng mất Uy tín nếu nó kết thúc.\n\nLiên minh khó bắt đầu và duy trì hơn, nhưng chủ yếu mang lại tác động tích cực, trong khi Đối thủ dễ bắt đầu và duy trì hơn, nhưng đi kèm với hậu quả tiêu cực.
+Liên Minh & Đối Thủ
+Các Thành viên của Dòng họ Đồng minh tận hưởng Mối quan hệ được cải thiện và nhận Uy tín khi thân thiện.\n\nYêu cầu Phép lành để Kết hôn có nhiều khả năng thành công giữa các Đồng minh, và Đồng minh cũng có nhiều khả năng kết bạn, đề nghị hẹn hò và thăm nhau hơn.
+Liên Minh
+Thêm Kỹ năng
+Thêm Thành viên
+Thêm Thành viên
+Thêm Lý tưởng
+Cha Mẹ
+Bạn có chắc chắn muốn kết thúc Chuyến đi hiện tại?
+Hủy Chuyến đi?
+Bạn có chắc chắn muốn hủy Chuyến đi đã lên kế hoạch?
+Lập kế hoạch cho một Chuyến đi tại nhà cư trú của riêng bạn hoặc tại hầu hết các địa điểm Địa điểm! Các Chuyến đi có thể kéo dài nhiều ngày, với việc làm việc và đi học tạm dừng cho toàn bộ thời gian đó. Các Sim sẽ không mất tiến độ nào trong sự nghiệp hoặc trường học của họ trong khi họ đi vắng. Hãy đảm bảo đặt đúng các vật thể cho các Hoạt động bạn đã chọn để các Sim có thể tận hưởng mọi thứ trong lịch trình!
+Chuyến Đi
+Sự Kiện Tang Lễ
+Lễ Hội
+Mùa {0.String}
+Sự Kiện Phần Thưởng
+Sự Kiện Bình Thường
+Chỉnh Sửa Sự Kiện
+Sự kiện hiện đang diễn ra và không thể chỉnh sửa.
+Hủy Sự Kiện
+Sự kiện hiện đang diễn ra và không thể hủy.
+Xóa Sự Kiện?
+Bạn có chắc chắn muốn xóa sự kiện này?
+Chỉ Sim Thiếu niên hoặc lớn hơn mới có thể lên lịch sự kiện.
+Không thể thêm sự kiện khi đang ở Batuu.
+Không thể thêm sự kiện tại địa điểm này.
+Sự Kiện
+Từ {0.TimeShort} đến {1.TimeShort}
+Bắt đầu lúc {0.TimeShort}
+Từ 6:00 Sáng đến 4:00 Sáng
+{0.SimFirstName} đã ở vị trí của sự kiện.
+Không thể di chuyển trong khi có sự kiện.
+Sự kiện hiện không hoạt động.
+Đi Đến Sự Kiện
+{0.DayOfWeekLong} - {1.DayOfWeekLong}
+Không thể lên lịch sự kiện trước hai tuần.
+Không có gì khả dụng cho bộ lọc hiện tại.
+Không có sự kiện nào được lên lịch.
+Sinh Nhật
+Gig: {0.String}
+Gig: {0.String}
+Gig: {0.String}
+Buổi thử giọng: {0.String}
+Thêm Sự Kiện Cưới Hỏi
+Thêm Ở Qua Đêm
+Thêm Ngày Lễ
+Thêm Chuyến Đi
+Thêm Sự Kiện Tang Lễ

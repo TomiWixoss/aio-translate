@@ -1,0 +1,100 @@
+Không thể nâng cấp giường khi rung đang bật.
+Nâng Cấp Tức Thời
+Bạn vừa nâng cấp tức thời một vật thể! Hãy thử lại sau.
+Nâng Cấp Tức Thời sẽ nhanh chóng trao cho vật thể này tất cả các nâng cấp cùng một lúc!
+Sửa Chữa Tức Thời!
+Một vật thể hỏng không thể được Nâng Cấp.
+Triệu Hồi Bánh Mì Phô Mai Nướng
+Ngắm Nhìn Mảnh Vỡ
+Đang Trò Chuyện Cùng Bạn Bè...
+Chọn một Sim để thuê.
+Thuê Pha Chế
+Thuêu Diễn Viên
+Thuê Người Phục Vụ
+Sim do {0.SimName} thuê đang trên đường đến!
+Thuê Nghệ Sĩ Violin
+Thuê Nghệ Sĩ Piano
+Thuê Diễn Viên Hài Kịch
+Thuê Nghệ Sĩ Guitar
+Thuê Người Phục Vụ
+Đã có một người phục vụ được thuê trên lô đất này.
+Thuê Pha Chế
+Đã có một Pha Chế được thuê trên lô đất này.
+Một Sim Dịch Vụ do {0.SimName} thuê đang trên đường đến!
+Thuê Dịch Vụ Sửa Chữa Khẩn Cấp
+Bạn có các hóa đơn người giữ trẻ chưa thanh toán!
+{0.SimFirstName} đã tạo ra một bản sao của {1.ObjectName}. Vật thể này đã được gửi vào kho đồ của {0.SimFirstName}.
+{0.SimFirstName} đã tạo ra một bản sao của {1.ObjectName}. Vật thể này đã được gửi vào kho đồ của hộ gia đình.
+Tạo Bản Sao
+Phá Hoại!
+Vật thể này sắp hỏng!
+{0.SimName} đã Phá Hoại vật thể
+Thuyết Phục Từ Tử
+Đề Xuất Tập Thể Dục
+Lắng Nghe {1.SimFirstName}
+Đề Xuất Hoạt động Vui Vẻ
+Bị Làm Hạ Thuộc Bởi {1.SimFirstName}
+Làm Hạ Thuộp Tinh Tế
+Được Ôm Hôn Bởi {1.SimFirstName}
+Ôm Hôn Khéo Léo
+Lập Kế Hoạch Nhét Các Môn Vào Tủ
+Lập Kế Hoạch Nhét Các "Mọt Sách" Vào Tủ
+Bắt Đầu Tin Đồn Vô Lý
+Lắng Nghe Tin Đồn
+Phát Tán Tin Đồn Xấu
+Chạy Một Kịch Bản
+Lập Kế Hoạch Gây Ổn Đồ Ăn
+Phát Tán Tin Đồn Về Người Khác
+Lắng Nghe {1.SimFirstName}
+Sự Phục Hồi Mượt Mà
+Sự Phục Hồi Lịch Lãm
+Bị Tát
+Tát Cho Một Trận
+Thì Thầm Những Lời Ngọt Ngào
+Làm Ghê Tê Không Thôi
+Trêu Chọc Băn Khoăn
+Ổm Ghé {1.SimFirstName}
+Ổm Ghé
+Hôn Mặt
+Làm Một Cái
+Khởi Động Cử Chỉ Tình Cảm
+Hôn
+Cho Massage Mạnh Mẽ
+Cho Massage
+Ôm Ấp
+Ôm Ấp
+Yêu Cầu Massage
+Lập Kế Hoạch Dính Dát Trong Mic
+Được Xem Trang Phục Của {1.SimFirstName}
+Khoe Trang Phục
+Ngắm Nhìn Cơ Bắp Của {1.SimFirstName}
+Khoe Cơ Bắp
+Được Hỗ Trợ Về Cảm Xúc Bởi {1.SimFirstName}
+Chia Sẻ Hỗ Trợ Cảm Xúc
+Chia Sẻ Bí Mật
+Lắng Nghe Bí Mật Của {1.SimFirstName}
+Chia Sẻ Bí Mật
+Chia Sẻ Mục Tiêu Cuộc Sống Cá Nhân
+Chia Sẻ Ảnh
+Lắng Nghe Suy Tư U Ám
+Chia Sẻ Suy Tư U Ám
+Lắng Nghe Bất An Của {1.SimFirstName}
+Chia Sẻ Bất An
+Lắng Nghe Ý Tưởng Của {1.SimFirstName}
+Chia Sẻ Ý Tưởng Tuyệt Vời
+Chia Sẻ Ý Tưởng
+Lắng Nghe Mẹo Câu Cá
+Chia Sẻ Mẹo Câu Cá
+Chia Sẻ Mẹo Câu Cá Chuyên Nghiệp
+Lắng Nghe Bí Mật Nấu Ăn
+Chia Sẻ Bí Mật Nấu Ăn
+Lắng Nghe Lý Thuyết Âm Mưu Của {1.SimFirstName}
+Chia Sẻ Lý Thuyết Âm Mưu
+Lắng Nghe Tin Tức Lớn Của {1.SimFirstName}
+Chia Sẻ Tin Tức Lớn
+Lắng Nghe Bí Mật Pha Chế
+Chia Sẻ Bí Mật Pha Chế
+Chia Sẻ Ảnh Trẻ Em
+Thả Thính Với {1.SimFirstName}
+Tư Thế Quyến Rũ
+Kết Thúc Mối Quan Hệ WooHoo

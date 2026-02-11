@@ -1,0 +1,100 @@
+Gói Đồ
+Đặc Biệt
+Gói
+Đã Mua
+Nội dung Tùy chỉnh
+Đã Khóa
+Bộ Phụ Kiện
+Gói Mở Rộng Trò Chơi
+Gói Mở Rộng
+Xong
+Nội dung
+Màu Sắc
+Xóa Tất Cả
+Sân Patio Hoàn Hảo
+Tiệc Sang
+Đồ Miễn Phí
+Đi Làm
+Bạn không có nội dung này.
+Mở Bảng Lọc
+Đóng Bảng Lọc
+Lọc Giống Chó/Ngựa...
+Lọc Vật Phẩm...
+{0.String} {1.Number}
+Chọn Bản Thiết lập Lịch trình
+Thiết lập một tập hợp vai trò và các hoạt động theo lịch trình dễ dàng bằng cách chọn một trong các <b>Bản Thiết lập Lịch trình</b>, hoặc chọn <b>Lưu Bản Thiết lập</b> để tạo các bản thiết lập lịch trình tùy chỉnh có thể được sử dụng lại trong các Địa Điểm Tùy chỉnh sau này!
+Thiết lập một tập hợp vai trò và các hoạt động theo lịch trình dễ dàng bằng cách chọn một trong các <b>Bản Thiết lập Lịch trình</b>, hoặc chọn <b>Lưu Bản Thiết lập</b> để tạo các Bản Thiết lập Lịch trình tùy chỉnh có thể được dùng lại sau này.
+Lịch trình
+Lưu đè lên bản thiết lập có sẵn.
+Ghi đè {0.String}
+Bạn có chắc chắn muốn thay thế {0.String} trong Thư viện bằng phiên bản mới này không? Các lô đất hoặc Kỳ nghỉ Dự kiến đang sử dụng lịch trình cũ sẽ không thay đổi.
+Lưu Bản Thiết lập Mới
+Một Bản Thiết lập Lịch trình có tên này đã tồn tại. Vui lòng chọn một tên khác để lưu dưới dạng mới.
+Không có gì để lưu đè, không có Bản Thiết lập Lịch trình nào trong Thư viện chia sẻ tên này.
+Không có Bản Thiết lập Lịch trình nào có tên này trong Thư viện để xóa.
+Phải tạo mới hoặc chọn một Bản Thiết lập Lịch trình có sẵn.
+Tên hiện đang được chỉnh sửa
+Chọn để hiển thị các vai trò được lên lịch trình.
+Quản lý Các Vai trò Được Lên Lịch trình
+Thư viện Vai trò
+Thư viện <b>Vai trò</b> chứa các vai trò đã lưu có thể được dùng lại sau này. Các thay đổi đối với một vai trò từ thư viện này không thể được thực hiện trực tiếp nhưng có thể được thực hiện trong phần Các Vai trò Hiện tại. Chọn <b>Xem Vai trò</b> cho vai trò bạn muốn chỉnh sửa rồi <b>Thêm vào Các Vai trò Hiện tại</b>.
+Một lỗi đã được phát hiện trong một hoặc nhiều khung thời gian. Di chuột qua các biểu tượng lỗi để tìm hiểu thêm.
+Lịch trình hiện tại không hợp lệ:\n
+Xóa bản thiết lập này
+Xóa {0.String}?
+Bạn có chắc chắn muốn xóa {0.String} khỏi thư viện không? Các lô đất hoặc Kỳ nghỉ Dự kiến đang sử dụng lịch trình đó sẽ không bị ảnh hưởng.
+Bản Thiết lập Tùy chỉnh
+Vai trò Tùy chỉnh
+(Lịch trình Được Gán cho Lô đất)
+Chọn để hiển thị thư viện vai trò.
+Quản lý Thư viện Vai trò
+Các Vai trò Hiện tại
+Phần <b>Các Vai trò Hiện tại</b> hiển thị tất cả các vai trò được bao gồm trong Địa Điểm Tùy chỉnh này. Chọn chân dung Sim để tùy chỉnh chi tiết như tiêu chí, trang phục, và hoạt động.
+Phần <b>Các Vai trò Hiện tại</b> hiển thị tất cả các vai trò được bao gồm trong Kỳ nghỉ này. Chọn chân dung Sim để gán Sims cho vai trò và tùy chỉnh chi tiết như tiêu chí, trang phục, và hoạt động.
++ Tạo Mới
+Thay đổi Lịch trình?
+Bạn có chắc chắn muốn chọn một lịch trình mới không? Bất kỳ thay đổi chưa lưu hoặc quy tắc đã gán nào cho lịch trình hiện tại sẽ bị mất. Các thay đổi có thể được lưu bằng cách chọn nút <b>Lưu Bản Thiết lập</b> bên cạnh danh sách xếp bản thiết lập lịch trình.
+Không thể lưu đè Bản Thiết lập Lịch trình này.
+Bản thiết lập lịch trình này không thể bị xóa.
+Lịch trình phải có tên.
+Tạo mới hoặc quản lý các vai trò có sẵn trong lịch trình. Các vai trò khác có sẵn dưới thẻ <b>Thư viện Vai trò</b> và có thể được thêm trực tiếp vào lịch trình.\n\nCác vai trò tùy chỉnh có thể được tạo bằng nút <b>Tạo Vai trò</b> và lưu vào Thư viện Vai trò để dùng lại sau này.
+Vai trò
+Tổng Số Sims
+Gán Sims Cho Vai trò
+Chọn các Sims cụ thể để gán cho vai trò này. Số lượng Sims được chọn không được vượt quá tổng số đã đặt cho vai trò này.\nNếu không đủ Sims được chọn, các vị trí còn lại sẽ được điền bởi các Sims ngẫu nhiên phù hợp với tiêu chí.\n\n&lt;font color='#EC262E'&gt;Lưu ý: Nếu tiêu chí được đặt, chỉ chế độ xem <b>Ưu tiên</b> hoặc <b>Phù hợp Tiêu chí</b> sẽ hiển thị Sims phù hợp. Tuy nhiên, bạn vẫn có thể chọn Sims không đáp ứng tiêu chí bằng cách chuyển sang các chế độ xem bộ lọc khác.&lt;/font&gt;
+Sim này đã được gán cho một vai trò trong khung thời gian này.
+Chọn tổng số Sims cho vai trò này và chọn một số Tiêu chí Vai trò. Chúng tôi sẽ tự động điền Sims phù hợp nhất cho vai trò này!
+Không có Sims nào phù hợp với tiêu chí đã chỉ định. Chúng tôi sẽ đảm bảo các Sims đủ điều kiện được điền vào vai trò.
+{0.Number}/{1.Number} Tối đa
+Nếu được chọn, khung thời gian này sẽ sử dụng cùng một Bộ Tiêu chí Vai trò được đặt cho vai trò này trong Thư viện Các Vai trò Được Lên Lịch trình.
+Kế thừa từ Bản Thiết lập
+Tăng Số lượng
+Xóa Tiêu chí
+Giảm số lượng
+Tiêu chí Vai trò
+Tiêu chí cho một vai trò chỉ có thể được thay đổi ở cấp độ lịch trình toàn bộ.
+Thêm Tiêu chí Vai trò...
+Đánh dấu điều này sẽ yêu cầu tất cả Sims được tự động điền phải đáp ứng ít nhất một tiêu chí đã chọn.
+Thêm tiêu chí để lọc Sims phù hợp với vai trò này. Tiêu chí có thể được đánh dấu là ưu tiên hoặc bắt buộc. Chỉ thẻ <b>Ưu tiên</b> hoặc <b>Phù hợp Tiêu chí</b> từ bộ chọn Sim sẽ lọc Sims khớp với tiêu chí.
+Quần đảo Turks và Caicos
+Cộng hòa Thống nhất Tanzania
+Tajikistan
+Đài Loan (Trung Quốc)
+Thụy Sĩ
+Thụy Điển
+Swaziland
+Saint Vincent và Grenadines
+Suriname
+Sudan
+Sao Tome và Principe
+Saint Pierre và Miquelon
+Tây Ban Nha
+Somalia
+Saint Martin (phần Pháp)
+San Marino
+Slovenia
+Slovakia
+Sierra Leone
+Saint Lucia
+Sri Lanka
+Saint Kitts và Nevis

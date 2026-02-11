@@ -1,0 +1,100 @@
+Ấn vào đây để lưu ảnh chụp màn hình này thành kỷ niệm cho tất cả Sim được chọn.
+Tạo Kỷ niệm
+Bạn có chắc chắn muốn lưu ảnh chụp màn hình này thành kỷ niệm không?
+Quên Kỷ niệm này?
+Hình ảnh này sẽ được lưu trong mục Ảnh Chụp Màn Hình, nơi bạn luôn có thể tạo nó thành ký niệm lại.
+Quên
+Chọn loại...
+Xóa
+Vui lòng nhập bình luận...
+Bạn phải có ít nhất 1 Sim được gắn thẻ để tạo kỷ niệm này.
+Xem Ảnh Chụp Màn Hình
+Xem Kỷ Niệm
+Làm mới Danh sách
+Chơi
+Không có Sim nào trong hộ gia đình chơi lần cuối. Vui lòng chọn một gia đình mới từ màn hình khu phố.
+Đến Bản đồ Thế giới
+Tạo Hộ gia đình Mới
+{0.SimName} rất vui vì bạn đã ở đây!
+{0.SimName} nhớ bạn quá!
+Limbo là giai đoạn quyết định giữa Tiếp tục và Chơi mới.
+Sim không có người giám hộ? Oops, bạn nên kiểm tra xem chúng đã làm gì.
+{0.SimFirstName} vừa trúng miễn phí tai nghe!
+Không có điều gì là không thể nếu bạn tin
+Bình tĩnh và bắt đầu Simming.\nHọ đang chờ đợi bạn!
+Thức tỉnh trí tưởng tượng của bạn!
+Từ đây, bạn sẽ có hai tâm trạng:\nChơi The Sims hoặc nhớ các Sim của mình.
+Sul Sul!
+&lt;font color='#EC262E'&gt;• Đã mở khóa khi đạt được {0.String}.&lt;/font&gt;
+Hộ gia đình {0.String} nhận được {1.Money} từ khoản bảo hiểm bồi thường cho các vật dụng bị hư hỏng trong hỏa hoạn gần đây. Đó là một khoản thưởng tốt trên khoản thanh toán tiêu chuẩn, nhờ bạn bè có địa vị.
+&lt;font color='#EC262E'&gt;• Không khả dụng cho Sim là trẻ em.&lt;/font&gt;
+Bạn hiện đang tổ chức một Ngày Tri ân Khách hàng. Đóng Cửa hàng Nhỏ sẽ tự động kết thúc sự kiện này.\n\nBạn có chắc chắn muốn đóng Cửa hàng Nhỏ của mình ngay bây giờ không?
+Đi du lịch
+Bạn hiện đang ở lô đất này.
+{0.String} ({1.String})
+{0.SimFirstName} không sở hữu lô đất này.
+{0.SimFirstName} cần phải ở đây để mở hoặc đóng Cửa hàng Nhỏ.
+Bán Cửa hàng Nhỏ này
+Bán Lô đất
+Lô đất nhà của bạn không thể được bán.
+Bạn hiện đang ở lô đất này.
+Không thể mở Cửa hàng Nhỏ trên loại địa điểm này.
+Mở ({0.Money})
+Cửa hàng Nhỏ không thể được mở trên một Lô đất Thuê Cư dân.
+Cửa hàng Nhỏ không thể được mở trong thời gian Đi nghỉ!
+Quản lý Nhiệm vụ Nhân viên
+Đồng phục Nhân viên...
+Quản lý Nhân viên
+Cửa hàng Nhỏ không thể được mở trong thời gian Tập hợp Câu lạc bộ.
+Quỹ hộ gia đình quá thấp để mở.
+Mua một lô đất Địa điểm Cửa hàng Nhỏ
+Mua Lô đất
+Bạn không thể mua một lô đất Địa điểm Cửa hàng Nhỏ khi đang đi nghỉ!
+Địa điểm Cửa hàng Nhỏ
+Một Cửa hàng Nhỏ khác hiện đang mở.
+Cửa hàng Nhỏ này hiện không được chỉ định để hoạt động trên lô đất này. Điều này có thể được thay đổi trong Phân bổ Lô đất Kinh doanh của Cài đặt Cửa hàng Nhỏ.
+&lt;font color='#199C2C'&gt;˄ + {0.Money}&lt;/font&gt;
+&lt;font color='#199C2C'&gt;˄&lt;/font&gt; {0.Number} {S0.Customer}{P0.Customers} Đã phục vụ
+Tổng số khách hàng đã được tăng lên hôm nay nhờ các ưu đãi sau:\n{0.String}
+Mất Thay đổi?
+Bạn có chắc chắn muốn hủy không? Bất kỳ nhiệm vụ nhân viên nào đã được giao hoặc thay đổi sẽ được hoàn nguyên.
+Quản lý Nhiệm vụ Nhân viên
+Xóa Nhiệm vụ Nhân viên
+Quản lý Nhân viên
+Không có Nhân viên Nào Có Sẵn
+Thêm Nhiệm vụ Nhân viên
+&lt;font color='#AE3CDE'&gt;Lương của nhân viên này hiện đang bị làm giả!&lt;/font&gt;\n\nKhông có thanh toán nào sẽ được thực hiện vào cuối ca làm việc, mặc dù luôn có khả năng doanh nghiệp có thể bị thanh tra.
+Lương Thấp
+Quản lý Lương
+{0.SimFirstName} chỉ có thể tuyển dụng Sim mà {0.SimPronounSubjective} {S0.knows}{P0.know}, và {0.SimPronounSubjective} {S0.doesn't}{P0.don't} biết ai cả! Hãy để {0.SimPronounObjective} đi gặp một số Sim để tìm những nhân viên tiềm năng!
+Quản lý Lương
+Quản lý Nhân viên
+Giảm chi phí kinh doanh nhưng ảnh hưởng tiêu cực đến mối quan hệ và cảm xúc của nhân viên
+Lương Cao
+Tăng chi phí kinh doanh nhưng cải thiện mối quan hệ và cảm xúc của nhân viên
+Sa thải {0.SimName}?
+Bạn có chắc chắn muốn sa thải {0.SimName} khỏi {1.String} không?
+Sa thải
+Chọn một Sim để Tuyển dụng
+Lương Trung bình
+Chi phí kinh doanh tiêu chuẩn, với cảm xúc của nhân viên thay đổi dựa trên tâm trạng của họ
+Vui lòng nhập tên có từ {0.Number} đến {1.Number} ký tự.
+\n\nNgười chăm sóc sẽ vẫn ở Cửa hàng Nhỏ.
+Khách hàng Yêu cầu:\n{0.String}
+Khách hàng Ưa thích:\n{0.String}
+Thêm tiêu chí để nhắm mục tiêu một nhóm khách hàng nhất định cho doanh nghiệp này.\n\nTiêu chí có thể được đặt là ưa thích hoặc yêu cầu.
+Nhắm mục tiêu Khách hàng
+Lưu Đặt trước
+Lưu Đặt trước Tùy chỉnh...
+&lt;font color='#FC0328'&gt;Tên này đã được dùng cho một Đặt trước khác. Vui lòng nhập một cái khác.&lt;/font&gt;
+Nhập một tên mới cho đặt trước tùy chỉnh này.
+Thêm Hoạt động Kinh doanh...
+Đánh dấu điều này sẽ yêu cầu tất cả khách hàng phải đáp ứng ít nhất một tiêu chí được chọn.
+Đăng ký Cửa hàng Nhỏ
+{0.String} (Tùy chỉnh)
+Chọn Đặt trước Kinh doanh
+Đặt trước Tùy chỉnh
+Thêm Hoạt động Mới
+Thêm Tiêu chí Nhắm mục tiêu Khách hàng
+Điều chỉnh Giá
+Chế độ Bán vé không thể thay đổi khi Cửa hàng Nhỏ đang mở.

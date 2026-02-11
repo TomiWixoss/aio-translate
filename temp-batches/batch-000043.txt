@@ -1,0 +1,568 @@
+Vâng, đây là một đoạn văn bản tiếng Anh dài với nhiều mục và hướng dẫn từ The Sims 4. Người dùng yêu cầu dịch sang tiếng Việt với các quy tắc cụ thể: không dịch các tên riêng như "The Sims 4", "Sims", "Sim", "Social Bunny", "EA app", "Gallery"; giữ nguyên thẻ HTML, biến {0.String}, ký tự đặc biệt; và trả về đúng số dòng.
+
+Trước tiên, tôi cần xác định các phần cần dịch. Đoạn văn có nhiều đoạn riêng biệt, mỗi đoạn có thể là một mục nhiệm vụ hoặc mô tả. Tôi phải đảm bảo giữ nguyên cấu trúc, bao gồm cả các thẻ HTML như <i> và các biến như {0.SimFirstName}, {0.SimPronounSubjective}, {S0.was}{P0.were}.
+
+Các yêu cầu:
+- Không dịch "The Sims 4", "Sims", "Sim", "Social Bunny", "EA app", "Gallery". Trong văn bản này, có vẻ không có các từ này, nhưng cần kiểm tra kỹ.
+- Giữ nguyên thẻ HTML: ví dụ, &lt;i&gt;Growing Together Expansion Pack&lt;/i&gt; phải giữ nguyên, nhưng có thể dịch phần chữ bên trong? Người dùng nói "KHÔNG dịch: ..." nhưng liệu có dịch phần chữ trong thẻ <i> không? Họ nói "giữ nguyên thẻ HTML", có nghĩa là giữ nguyên cả cấu trúc thẻ, nhưng nội dung bên trong có thể dịch? Từ "giữ nguyên thẻ HTML" có thể hiểu là giữ nguyên các thẻ, nhưng nội dung chữ bên trong có thể dịch. Tuy nhiên, trong ví dụ, họ nói "KHÔNG dịch: ..." và liệt kê các từ, nhưng không nói rõ về nội dung trong thẻ <i>. Có lẽ nên dịch phần chữ trong thẻ <i> vì đó là tên expansion pack, nhưng expansion pack là tên riêng, có thể không nên dịch? Người dùng chỉ liệt kê không dịch các từ cụ thể, còn "Growing Together Expansion Pack" không nằm trong danh sách, vì vậy có thể dịch. Tuy nhiên, để an toàn, tôi sẽ giữ nguyên tên expansion pack vì đó là tên chính thức. Nhưng trong hướng dẫn, họ nói "KHÔNG dịch: ..." và liệt kê, còn các expansion pack không được liệt kê, vì vậy có lẽ nên dịch. Tôi quyết định: giữ nguyên các thẻ HTML, nhưng dịch nội dung chữ bên trong nếu không phải tên riêng đã được liệt kê. "Growing Together Expansion Pack" và "Adventure Awaits Expansion Pack" là tên expansion, có thể nên giữ nguyên hoặc dịch? Tốt nhất là giữ nguyên vì đó là tên chính thức. Nhưng trong bản dịch tiếng Việt, expansion pack thường được giữ nguyên tên tiếng Anh hoặc dịch? Tôi nghĩ nên giữ nguyên tên expansion pack vì đây là tên chính thức của trò chơi.
+
+- Biến {0.String}: giữ nguyên, không dịch. Ví dụ {0.SimFirstName} giữ nguyên, nhưng có thể cần đảm bảo rằng trong ngữ cảnh tiếng Việt, vẫn hiểu được. Tuy nhiên, đây là biến động, nên giữ nguyên.
+
+- Ký tự đặc biệt: giữ nguyên, như dấu câu, xuống dòng, v.v.
+
+- Trả về đúng số dòng: tức là giữ nguyên số dòng trong văn bản gốc. Vì văn bản này có nhiều đoạn ngăn cách bởi hai dấu ngang (---) hoặc xuống dòng đôi, tôi cần giữ nguyên cấu trúc đó.
+
+Tôi sẽ dịch từng đoạn một, đảm bảo:
+1. Dịch nội dung sang tiếng Việt tự nhiên, phù hợp với ngữ cảnh game.
+2. Giữ nguyên các biến, thẻ HTML.
+3. Giữ nguyên số dòng: tức là mỗi đoạn trong văn bản gốc tương ứng với một đoạn trong bản dịch, không gộp hay tách.
+
+Xem xét văn bản: nó bắt đầu bằng "Sometimes all you need is a little playtime with your favorite stuffed friend." rồi xuống dòng, rồi "Select a Stuffed Animal and choose Play." Đây là hai dòng? Trong văn bản, có xuống dòng đôi giữa các đoạn. Tôi cần phân tích cấu trúc.
+
+Văn bản gốc:
+- Đoạn 1: "Sometimes all you need is a little playtime with your favorite stuffed friend.\n\nSelect a Stuffed Animal and choose Play."
+- Đoạn 2: "Place your Stuffed Animal by choosing Place in World after selecting it in your Sim's inventory.\n\nIf you can't remember where Sylvan Glade is, you can find it through the large tree in the Foundry Cove neighborhood in Willow Creek."
+- ... và tiếp tục.
+
+Thực tế, có nhiều mục, mỗi mục có tiêu đề và mô tả. Tôi sẽ dịch toàn bộ, giữ nguyên sự phân cách.
+
+Lưu ý: Có các biến như {0.SimFirstName}, {0.SimPronounSubjective|xxUpper}, {S0.was}{P0.were}. Tôi giữ nguyên chúng.
+
+Bây giờ, bắt đầu dịch:
+
+Đoạn đầu:
+"Sometimes all you need is a little playtime with your favorite stuffed friend." -> "Đôi khi tất cả những gì bạn cần là một chút thời gian chơi đùa với người bạn nhồi bông yêu quý."
+"Select a Stuffed Animal and choose Play." -> "Chọn một Stuffed Animal và chọn Play." Nhưng "Stuffed Animal" là thuật ngữ game, có lẽ nên giữ nguyên? Người dùng nói không dịch "Sims", "Sim", nhưng "Stuffed Animal" không nằm trong danh sách. Tuy nhiên, đây là một khái niệm trong game, có thể dịch là "Gấu bông" hoặc "Đồ chơi nhồi bông". Trong bản dịch tiếng Việt của The Sims, thường gọi là "gấu bông" hoặc "bạn nhồi bông". Tôi sẽ dịch là "đồ chơi nhồi bông" để thống nhất. Nhưng cần xem xét ngữ cảnh: đây là nhiệm vụ liên quan đến stuffed animal. Tôi dịch "Stuffed Animal" là "đồ chơi nhồi bông". Tuy nhiên, trong một số đoạn sau, có "Stuffed Animal" được nhắc lại, nên tôi sẽ dịch nhất quán.
+
+Nhưng người dùng nói "KHÔNG dịch: ..." và liệt kê, không bao gồm "Stuffed Animal", vì vậy có thể dịch. Tôi sẽ dịch.
+
+Tuy nhiên, cẩn thận: trong game, "Stuffed Animal" có thể là một đối tượng cụ thể, nên có thể giữ nguyên. Tôi quyết định dịch là "đồ chơi nhồi bông" vì đây là dịch phổ biến.
+
+Tiếp tục:
+
+"Place your Stuffed Animal by choosing Place in World after selecting it in your Sim's inventory." -> "Đặt đồ chơi nhồi bông của bạn bằng cách chọn Đặt trong Thế giới sau khi chọn nó trong kho đồ của Sim."
+
+"If you can't remember where Sylvan Glade is, you can find it through the large tree in the Foundry Cove neighborhood in Willow Creek." -> "Nếu bạn không nhớ Sylvan Glade ở đâu, bạn có thể tìm thấy nó qua cái cây lớn ở khu phố Foundry Cove trong Willow Creek." Ở đây, "Sylvan Glade", "Foundry Cove", "Willow Creek" là tên địa danh, nên giữ nguyên.
+
+Đoạn tiếp: "Play with the Stuffed Animal" -> "Chơi với Đồ chơi nhồi bông" (đây có vẻ là tiêu đề nhiệm vụ, nên viết hoa? Trong bản gốc, có thể là tiêu đề, nhưng tôi sẽ dịch thoát).
+
+Tuy nhiên, cần lưu ý: trong văn bản, có các đoạn như "Play with the Stuffed Animal" đứng một mình, có thể là tiêu đề mục. Tôi sẽ dịch tương ứng.
+
+Tôi sẽ dịch toàn bộ, và sau đó kiểm tra số dòng.
+
+Bây giờ, tôi dịch từng phần:
+
+Phần 1:
+Sometimes all you need is a little playtime with your favorite stuffed friend.
+Select a Stuffed Animal and choose Play.
+
+Dịch:
+Đôi khi tất cả những gì bạn cần là một chút thời gian chơi đùa với người bạn nhồi bông yêu quý.
+Chọn một Đồ chơi nhồi bông và chọn Chơi.
+
+Phần 2:
+Place your Stuffed Animal by choosing Place in World after selecting it in your Sim's inventory.
+If you can't remember where Sylvan Glade is, you can find it through the large tree in the Foundry Cove neighborhood in Willow Creek.
+
+Dịch:
+Đặt Đồ chơi nhồi bông của bạn bằng cách chọn Đặt trong Thế giới sau khi chọn nó trong kho đồ của Sim.
+Nếu bạn không nhớ Sylvan Glade ở đâu, bạn có thể tìm thấy nó qua cái cây lớn ở khu phố Foundry Cove trong Willow Creek.
+
+Phần 3: "Play with the Stuffed Animal" -> "Chơi với Đồ chơi nhồi bông"
+
+Phần 4: "Play Pretend in the Treehouse" -> "Giả vờ chơi trong Nhà cây"
+
+Imagination takes flight in the treehouse!\n\nGo to your Treehouse and select Play Pretend.\n\nThis optional goal requires <i>Growing Together Expansion Pack</i> to complete.
+
+Dịch:
+Trí tưởng tượng cất cánh trong ngôi nhà cây!\n\nĐi đến Nhà cây của bạn và chọn Giả vờ chơi.\n\nMục tiêu tùy chọn này yêu cầu <i>Growing Together Expansion Pack</i> để hoàn thành.
+
+Ở đây, tôi giữ nguyên tên expansion pack, nhưng có nên dịch "Growing Together Expansion Pack" không? Tốt nhất là giữ nguyên vì là tên chính thức. Tuy nhiên, trong bản dịch tiếng Việt, expansion pack thường được giữ nguyên tiếng Anh. Tôi sẽ giữ nguyên.
+
+Phần 5: "Adventure is calling! Enjoy your playground, play to your heart's content.\n\nGo to a Playground and select Play.\n\nThis optional goal requires <i>Adventure Awaits Expansion Pack</i> to complete." -> "Cuộc phiêu lưu đang gọi! Thưởng thức sân chơi của bạn, chơi thỏa thích.\n\nĐi đến Sân chơi và chọn Chơi.\n\nMục tiêu tùy chọn này yêu cầu <i>Adventure Awaits Expansion Pack</i> để hoàn thành."
+
+Phần 6: "Play on the Playground" -> "Chơi ở Sân chơi"
+
+Phần 7: "The hug lasted a lifetime, but not long enough.\n\nA flash as if to say goodbye could only be seen by {0.SimFirstName}. {0.SimPronounSubjective|xxUpper} felt a touch of sadness but also happy to have enjoyed their adventures together.\n\nThe memories will certainly live on forever."
+
+Dịch:
+Cái ôm kéo dài suốt một đời, nhưng vẫn chưa đủ.\n\nMột tia sáng như để tạm biệt chỉ có thể được nhìn thấy bởi {0.SimFirstName}. {0.SimPronounSubjective|xxUpper} cảm thấy một chút buồn bã nhưng cũng hạnh phúc vì đã được tận hưởng những cuộc phiêu lưu cùng nhau.\n\nNhững kỷ niệm chắc chắn sẽ sống mãi.
+
+Lưu ý: {0.SimPronounSubjective|xxUpper} là biến động, giữ nguyên.
+
+Phần 8: "It's time to say goodbye. Make it count.\n\nSelect the Stuffed Animal and Hug it." -> "Đã đến lúc tạm biệt. Hãy làm cho nó đáng giá.\n\nChọn Đồ chơi nhồi bông và Ôm nó."
+
+Phần 9: "Hug the Stuffed Animal One Last Time" -> "Ôm Đồ chơi nhồi bông lần cuối"
+
+Phần 10: "The bond is instant! {0.SimFirstName} can't wait to do more things with {0.SimPronounPossessiveDependent} new friend.\n\nPlace a Stuffed Animal near a TV so they can watch TV together." -> "Mối liên kết ngay lập tức! {0.SimFirstName} không thể chờ để làm thêm nhiều điều với người bạn mới {0.SimPronounPossessiveDependent}.\n\nĐặt Đồ chơi nhồi bông gần TV để chúng có thể xem TV cùng nhau."
+
+Phần 11: "In the world of make-believe, a hug is magical. Embrace the fluffy friend—It's a moment of comfort and joy!\n\nHave a Sim interact with the Stuffed Animal to Give it a Hug." -> "Trong thế giới tưởng tượng, một cái ôm là thần kỳ.Ôm chặt người bạn mềm mại—Đó là một khoảnh khắc an ủi và vui vẻ!\n\nHãy để một Sim tương tác với Đồ chơi nhồi bông để Tặng nó một cái ôm."
+
+Phần 12: "Have a Child Hug the Stuffed Animal" -> "Hãy để Trẻ em Ôm Đồ chơi nhồi bông"
+
+Phần 13: "School time! Another day in class, another grade next year.\n\n{0.SimFirstName} has a place to meet more real-life friends, while never forgetting the friend {0.SimPronounSubjective} left at home." -> "Đi học rồi! Một ngày khác trong lớp, một lớp học khác năm sau.\n\n{0.SimFirstName} có một nơi để gặp gỡ thêm bạn bè ngoài đời, trong khi chưa bao giờ quên người bạn {0.SimPronounSubjective} đã để lại ở nhà."
+
+Phần 14: "School happens Monday to Friday and starts in the morning. Wait until that time, and have a Sim go to school when given the option.\n\nTip: You can also have an older Sim go to work." -> "Trường học diễn ra từ Thứ Hai đến Thứ Sáu và bắt đầu vào buổi sáng. Chờ đến thời điểm đó, và hãy để một Sim đi học khi được cho tùy chọn.\n\nMẹo: Bạn cũng có thể để một Sim lớn tuổi đi làm."
+
+Phần 15: "Go to School" -> "Đi đến Trường học"
+
+Phần 16: "Ribbit...Ribbit!\n\nThere is a pond in Sylvan Glade where you can choose to Look for Frogs.\n\nIf you can't remember where Sylvan Glade is, you can find it through the large tree in the Foundry Cove neighborhood in Willow Creek." -> "Ù ù...Ù ù!\n\nCó một cái ao ở Sylvan Glade nơi bạn có thể chọn Tìm Ếch.\n\nNếu bạn không nhớ Sylvan Glade ở đâu, bạn có thể tìm thấy nó qua cái cây lớn ở khu phố Foundry Cove trong Willow Creek."
+
+Phần 17: "Look for Frogs at Sylvan Pond" -> "Tìm Ếch ở Ao Sylvan"
+
+Phần 18: "After enjoying a tasty treat, {0.SimFirstName} feels content, happy, and ready to face the day." -> "Sau khi thưởng thức một món ăn ngon, {0.SimFirstName} cảm thấy hài lòng, hạnh phúc và sẵn sàng đối mặt với ngày mới."
+
+Phần 19: "Fuel up! It's time to enjoy a tasty treat and recharge energy for imaginative escapades.\n\nThis goal can be completed regardless of your Sim's age." -> "Bổ sung năng lượng! Đã đến lúc thưởng thức một món ăn ngon và sạc lại năng lượng cho những cuộc phiêu lưu tưởng tượng.\n\nMục tiêu này có thể được hoàn thành bất kể độ tuổi của Sim của bạn."
+
+Phần 20: "Have a Sim Eat Something" -> "Hãy để Sim Ăn một thứ gì đó"
+
+Phần 21: "The kids in the Chatroom started sharing memories about their own Stuffed Animals, the adventures they had, and the comfort they gave.\n\n{0.SimFirstName} can't stop time, but maybe that's a great way to have this moment live on forever!" -> "Những đứa trẻ trong Phòng trò chuyện bắt đầu chia sẻ kỷ niệm về Đồ chơi nhồi bông của chúng, những cuộc phiêu lưu chúng đã có, và sự an ủi chúng mang lại.\n\n{0.SimFirstName} không thể dừng thời gian, nhưng có lẽ đó là một cách tuyệt vời để khoảnh khắc này sống mãi!"
+
+Phần 22: "There might be other kids who have some unique ideas about what's going on. You can check Kids Chatroom and ask, what could it hurt?\n\nOlder Sims can select the Chat interaction on a Computer to complete this goal." -> "Có thể có những đứa trẻ khác có một số ý tưởng độc đáo về chuyện đang xảy ra. Bạn có thể kiểm tra Phòng trò chuyện Trẻ em và hỏi, điều đó có thể làm tổn thương gì?\n\nCác Sim lớn tuổi có thể chọn tương tác Trò chuyện trên Máy tính để hoàn thành mục tiêu này."
+
+Phần 23: "Check Kids Chatroom on a Computer" -> "Kiểm tra Phòng trò chuyện Trẻ em trên Máy tính"
+
+Phần 24: "With your Treehouse in place, build your own fortress!\n\nSelect your Treehouse Base and build your Treehouse.\n\nThis optional goal requires <i>Growing Together Expansion Pack</i> to complete." -> "Với Nhà cây của bạn đã có vị trí, xây dựng pháo đài của riêng bạn!\n\nChọn Cơ sở Nhà cây của bạn và xây dựng Nhà cây.\n\nMục tiêu tùy chọn này yêu cầu <i>Growing Together Expansion Pack</i> để hoàn thành."
+
+Phần 25: "{0.SimFirstName} heard how the lens has never been like a normal camera lens. It's what lets {0.SimFirstName} see the Stuffed Animal as real.\n\nIt may be breaking because {0.SimFirstName} is growing older." -> "{0.SimFirstName} nghe nói ống kính chưa bao giờ giống như một ống kính máy ảnh bình thường. Đó là thứ cho phép {0.SimFirstName} nhìn thấy Đồ chơi nhồi bông như thật.\n\nNó có thể đang hỏng vì {0.SimFirstName} đang lớn lên."
+
+Phần 26: "The lens that allows pictures of the real life of a Stuffed Animal is broken. Maybe an adult will know what's wrong." -> "Ống kính cho phép chụp ảnh cuộc sống thực của Đồ chơi nhồi bông đã hỏng. Có thể một người lớn sẽ biết điều gì sai."
+
+Phần 27: "Ask an Adult for Help with the Broken Lens" -> "Hỏi Người lớn về Sự trợ giúp với Ống kính Hỏng"
+
+Phần 28: "The Stuffed Animal responded, but {0.SimFirstName} heard something {0.SimPronounSubjective} {S0.was}{P0.were} not expecting!\n\nAlthough they never want the fun to stop, their time is limited. They wish the memories they make could live on forever, but they don't know how..." -> "Đồ chơi nhồi bông đã phản hồi, nhưng {0.SimFirstName} nghe thấy điều gì đó {0.SimPronounSubjective} {S0.was}{P0.were} không ngờ tới!\n\nMặc dù chúng chưa bao giờ muốn sự vui vẻ dừng lại, thời gian của chúng có hạn. Chúng ước những kỷ niệm chúng tạo ra có thể sống mãi, nhưng chúng không biết cách..."
+
+Phần 29: "What could be on the docket today? More cartoons? Maybe a game? Maybe something brand new?\n\nSelect a Stuffed Animal and Ask about it." -> "Hôm nay có thể là gì trên lịch trình? Thêm hoạt hình? Có thể một trò chơi? Có thể một thứ hoàn toàn mới?\n\nChọn một Đồ chơi nhồi bông và Hỏi về nó."
+
+Phần 30: "Ask a Stuffed Animal about Today's Adventures" -> "Hỏi Đồ chơi nhồi bông về Cuộc phiêu lưu Hôm nay"
+
+Phần 31: "The Stuffed Animal said \"A camera is a window to the imagination\", and {0.SimFirstName} is eager to explore the world through this special lens!" -> "Đồ chơi nhồi bông nói \"Máy ảnh là một cửa sổ đến trí tưởng tượng\", và {0.SimFirstName} háo hức khám phá thế giới qua ống kính đặc biệt này!"
+
+Phần 32: "Maybe a Stuffed Animal knows something new about cameras never thought of before." -> "Có thể một Đồ chơi nhồi bông biết điều gì mới về máy ảnh chưa từng nghĩ trước đây."
+
+Phần 33: "Ask a Stuffed Animal about Cameras" -> "Hỏi Đồ chơi nhồi bông về Máy ảnh"
+
+Phần 34: "The Stuffed Animal responded:\n\n\"The imagination that makes me real might be finally fading away. That's the power of the lens.\"\n\nIt looked at {0.SimFirstName} with understanding and a small comforting smile." -> "Đồ chơi nhồi bông đã phản hồi:\n\n\"Trí tưởng tượng khiến tôi trở nên thực có thể cuối cùng cũng đang phai nhạt. Đó là sức mạnh của ống kính.\"\n\nNó nhìn {0.SimFirstName} với sự thấu hiểu và một nụ cười an ủi nhỏ."
+
+Phần 35: "With the special lens broken, it seems all is lost! Maybe a Stuffed Animal friend knows what happened?\n\nAsk a Stuffed Animal about the broken lens." -> "Với ống kính đặc biệt đã hỏng, dường như mọi thứ đều mất! Có thể một người bạn Đồ chơi nhồi bông biết điều gì đã xảy ra?\n\nHỏi Đồ chơi nhồi bông về ống kính hỏng."
+
+Phần 36: "Ask a Stuffed Animal about Broken Lens" -> "Hỏi Đồ chơi nhồi bông về Ống kính Hỏng"
+
+Phần 37: "Win a Chess Match against the Royal Envoy" -> "Thắng một Ván cờ vua chống lại Đại sứ Hoàng gia"
+
+Phần 38: "Meet Marina, the Royal Envoy, at Magnolia Blossom Park and win a chess match!\n\nTo do this, find a chess table and use the Play With interaction, then choose Marina Corsair." -> "Gặp Marina, Đại sứ Hoàng gia, tại Công viên Hoa Cẩm quỳ và thắng một ván cờ vua!\n\nĐể làm điều này, tìm một bàn cờ vua và sử dụng tương tác Chơi cùng, sau đó chọn Marina Corsair."
+
+Phần 39: "While watching TV, a news flash went live about new paintings from the Thebe family being showcased at Municipal Muses Museum, sparking curiosity throughout the town." -> "Trong khi xem TV, một bản tin khẩn cấp được phát trực tiếp về những bức tranh mới từ gia đình Thebe được trưng bày tại Bảo tàng Công bằng, khơi gợi sự tò mò trên toàn thị trấn."
+
+Phần 40: "News Alert" -> "Cảnh báo Tin tức"
+
+Phần 41: "\"...An envoy has been spotted in town, and they appear to be royal in nature. Several local residents claim to have seen them. Stay tuned for updates on this intriguing development!\"\n\nFind a TV and watch the news channel on it by selecting Watch Channel..., then look for Watch News.\n\nSometimes, you may have to look under More Choices..." -> "\"...Một đại sứ đã được phát hiện trong thị trấn, và họ dường như có tính chất hoàng gia. Một số cư dân địa phương khẳng định đã thấy họ. Hãy tiếp tục theo dõi các bản cập nhật về sự phát triển thú vị này!\"\n\nTìm một TV và xem kênh tin tức trên đó bằng cách chọn Xem Kênh..., sau đó tìm Xem Tin tức.\n\nĐôi khi, bạn có thể phải tìm dưới Lựa chọn Thêm..."
+
+Phần 42: "Find a piece of art, and choose to express feelings about it.\n\nTry using the painting that was just made!" -> "Tìm một tác phẩm nghệ thuật, và chọn để bày tỏ cảm xúc về nó.\n\nHãy thử sử dụng bức tranh vừa được vẽ!"
+
+Phần 43: "Express Feelings about Art" -> "Bày tỏ Cảm xúc về Nghệ thuật"
+
+Phần 44: "Play some chess, and ponder the moves to ensure something is really learned!" -> "Chơi một ván cờ vua, và suy ngẫm các nước đi để đảm bảo một điều gì đó thực sự được học!"
+
+Phần 45: "Train Chess Skills" -> "Rèn luyện Kỹ năng Cờ vua"
+
+Phần 46: "Find someone, anyone who seems knowledgeable, and choose Ask about the Darong Family." -> "Tìm một người, bất kỳ ai dường như am hiểu, và chọn Hỏi về Gia đình Darong."
+
+Phần 47: "Ask Someone about the Darong Family" -> "Hỏi Người khác về Gia đình Darong"
+
+Phần 48: "See if someone else knows anything about Princess Cordelia!" -> "Xem xem có ai khác biết bất cứ điều gì về Công chúa Cordelia không!"
+
+Phần 49: "Ask Other Sims about Cordelia" -> "Hỏi Các Sim khác về Cordelia"
+
+Phần 50: "While searching online, it was discovered that Princess Cordelia had a keen interest in paintings and was rumored to have stolen a treasure." -> "Trong khi tìm kiếm trực tuyến, người ta phát hiện rằng Công chúa Cordelia có mối quan tâm sâu sắc đến tranh vẽ và được đồn là đã trộm một kho báu."
+
+Phần 51: "Find a Computer and search online about Princess Cordelia from the Thebe family." -> "Tìm một Máy tính và tìm kiếm trực tuyến về Công chúa Cordelia từ gia đình Thebe."
+
+Phần 52: "Search Online about Princess Cordelia" -> "Tìm kiếm Trực tuyến về Công chúa Cordelia"
+
+Phần 53: "After doom scrolling longer than is healthy, {0.SimFirstName} uncovers fascinating details about the Capp family's romantic inclinations and love for the piano.\n\nInterestingly, there's a hint about their early involvement in online dating!" -> "Sau khi lướt tin tức dài hơn là khỏe mạnh, {0.SimFirstName} khám phá ra những chi tiết hấp dẫn về xu hướng lãng mạn và tình yêu dành cho đàn piano của gia đình Capp.\n\nThú vị thay, có một gợi ý về sự tham gia sớm của họ vào hẹn hò trực tuyến!"
+
+Phần 54: "Find a Computer, and search for information about the Capp Family.\n\nThey were interested in romance...so perhaps there is something spicy online!" -> "Tìm một Máy tính, và tìm kiếm thông tin về Gia đình Capp.\n\nHọ quan tâm đến lãng mạn...vì vậy có lẽ có một số thứ cay nóng trên mạng!"
+
+Phần 55: "Search the Internet about the Capp Family" -> "Tìm kiếm Internet về Gia đình Capp"
+
+Phần 56: "As {0.SimFirstName} searches the bench, {0.SimPronounSubjective} {S0.finds}{P0.find} a box and use the code to open it...\n\nIt's empty! The envoy has indeed already taken its contents!" -> "Khi {0.SimFirstName} tìm kiếm chiếc ghế dài, {0.SimPronounSubjective} {S0.finds}{P0.find} một chiếc hộp và sử dụng mã để mở nó...\n\nNó trống! Đại sứ thực sự đã lấy nội dung của nó rồi!"
+
+Phần 57: "Find a bench and search it!" -> "Tìm một chiếc ghế dài và tìm kiếm nó!"
+
+Phần 58: "Search a Bench" -> "Tìm kiếm Chiếc ghế dài"
+
+Phần 59: "The Envoy's phone is in the inventory.\n\nFind it there, and choose to hack the file inside it!\n\nHint: A replacement Envoy phone can be found by rummaging in a trash can again." -> "Điện thoại của Đại sứ ở trong kho đồ.\n\nTìm nó ở đó, và chọn để hack tệp bên trong nó!\n\nGợi ý: Một chiếc điện thoại Đại sứ thay thế có thể được tìm thấy bằng cách lục lạo trong thùng rác một lần nữa."
+
+Phần 60: "Hack the Royal Envoy's Phone" -> "Hack Điện thoại của Đại sứ Hoàng gia"
+
+Phần 61: "A piano or keyboard can be found in the Build Mode, or at your local nightclub!" -> "Một cây đàn piano hoặc keyboard có thể được tìm thấy trong Chế độ Xây dựng, hoặc tại câu lạc bộ đêm địa phương!"
+
+Phần 62: "Practice Piano" -> "Luyện tập Đàn piano"
+
+Phần 63: "It's time to put those music Skills to the test.\n\nFind a piano at a nightclub and play it!" -> "Đã đến lúc thử nghiệm những Kỹ năng âm nhạc đó.\n\nTìm một cây đàn piano tại câu lạc bộ đêm và chơi nó!"
+
+Phần 64: "Play Music at the Nightclub" -> "Chơi Nhạc tại Câu lạc bộ đêm"
+
+Phần 65: "{0.SimFirstName} examined the paintings but found absolutely nothing!\n\n...Maybe they are actually just a distraction...best to keep searching the museum!" -> "{0.SimFirstName} kiểm tra các bức tranh nhưng không tìm thấy bất cứ điều gì!\n\n...Có lẽ chúng thực sự chỉ là sự phân tâm...tốt nhất là tiếp tục tìm kiếm bảo tàng!"
+
+Phần 66: "Look for the different paintings in the Municipal Muses Museum, then Examine them." -> "Tìm kiếm các bức tranh khác nhau trong Bảo tàng Công bằng, sau đó Kiểm tra chúng."
+
+Phần 67: "Examine Paintings at the Municipal Muses Museum" -> "Kiểm tra Các bức tranh tại Bảo tàng Công bằng"
+
+Phần 68: "The Darong family's interest in art is deeper, and more mysterious, than your Sim expected.\n\nIt seems the Darongs has been trying to restore an old family painting. With how much they've invested in this restoration, its completion must be very important to the kingdom. However, the Royal Envoy has been acting a bit too suspicious for this to be a normal restoration project. Their behavior makes your Sim believe this painting might also hold a secret." -> "Sự quan tâm của gia đình Darong đến nghệ thuật sâu sắc và bí ẩn hơn Sim của bạn dự kiến.\n\nDường như Darongs đã cố gắng khôi phục một bức tranh gia đình cũ. Với số tiền họ đầu tư vào dự án khôi phục này, việc hoàn thành nó phải rất quan trọng đối với vương quốc. Tuy nhiên, Đại sứ Hoàng gia đã hành động một chút quá đáng nghi ngờ để đây là một dự án khôi phục bình thường. Hành vi của họ khiến Sim của bạn tin rằng bức tranh này cũng có thể chứa một bí mật."
+
+Phần 69: "While brushing away the soot, a faint glint catches {0.SimFirstName}'s eye...a hidden key tucked behind a loose stone in the fireplace! This must be the Capp family’s long-lost treasure.\n\n{0.SimFirstName} carefully hides the key in a safe place...for now." -> "Trong khi chải bỏ khói bụi, một tia sáng mờ nhẹ bắt vào mắt {0.SimFirstName}...một chiếc chìa khóa ẩn sau viên đá lỏng lẻo trong lò sưởi! Đây chắc chắn phải là kho báu đã mất lâu ngày của gia đình Capp.\n\n{0.SimFirstName} cẩn thận giấu chiếc chìa khóa ở một nơi an toàn...trước mắt."
+
+Phần 70: "Find a Fireplace, and search it! Remember there is one at the Blue Velvet Nightclub!" -> "Tìm một Lò sưởi, và tìm kiếm nó! Nhớ rằng có một cái tại Câu lạc bộ đêm Blue Velvet!"
+
+Phần 71: "Search a Fireplace" -> "Tìm kiếm Lò sưởi"
+
+Phần 72: "{0.SimFirstName} found the Envoy's phone in the trash can!\n\nCould there be anything to be found within the files or browsing history?" -> "{0.SimFirstName} tìm thấy điện thoại của Đại sứ trong thùng rác!\n\nCó thể có bất cứ điều gì được tìm thấy trong các tệp hoặc lịch sử duyệt web không?"
+
+Phần 73: "Find any trash can, and search it!" -> "Tìm bất kỳ thùng rác nào, và tìm kiếm nó!"
+
+Phần 74: "Search the Trash" -> "Tìm kiếm Thùng rác"
+
+Phần 75: "After rummaging through the shelves, a book about the Darongs was discovered. Hidden between the pages, a delicate old key slipped out and landed silently on the floor. It might be what the Envoy was after!\n\n{0.SimFirstName} hides the key away in a safe place before anyone notices. Best to keep it hidden for now." -> "Sau khi lục lạo qua các kệ, một cuốn sách về Darongs đã được phát hiện. Ẩn giữa các trang, một chiếc chìa khóa cũ tinh tế trượt ra và rơi lặng lẽ trên sàn. Nó có thể là thứ Đại sứ đã tìm kiếm!\n\n{0.SimFirstName} giấu chiếc chìa khóa ở một nơi an toàn trước khi ai đó chú ý. Tốt nhất là giữ nó ẩn trong thời gian tới."
+
+Phần 76: "Investigate a Bookshelf for more information about the Darong family and their history with art." -> "Điều tra một Kệ sách để có thêm thông tin về gia đình Darong và lịch sử của họ với nghệ thuật."
+
+Phần 77: "Search a Bookshelf" -> "Tìm kiếm Kệ sách"
+
+Phần 78: "{0.SimFirstName} examined Cordelia's Statue closely...and discovered a hidden code cleverly concealed on the bottom of the artwork!" -> "{0.SimFirstName} kiểm tra kỹ Tượng Cordelia...và khám phá ra một mã ẩn được giấu khéo léo ở phần dưới của tác phẩm nghệ thuật!"
+
+Phần 79: "Find the statue of Cordelia at the Municipal Muses Museum, and inspect it." -> "Tìm tượng của Cordelia tại Bảo tàng Công bằng, và kiểm tra nó."
+
+Phần 80: "Inspect Cordelia's Statue" -> "Kiểm tra Tượng Cordelia"
+
+Phần 81: "Find a romantic partner, or make a new one, then flirt the night away..." -> "Tìm một bạn đời lãng mạn, hoặc tạo một người mới, sau đó thả thính suốt đêm..."
+
+Phần 82: "Flirt with Another Sim" -> "Thả thính với Sim khác"
+
+Phần 83: "To find the Envoy's phone, look in the inventory. Not the phone menu!\n\nHint: A replacement Envoy phone can be found by rummaging in a trash can again." -> "Để tìm điện thoại của Đại sứ, hãy tìm trong kho đồ. Không phải trong menu điện thoại!\n\nGợi ý: Một chiếc điện thoại Đại sứ thay thế có thể được tìm thấy bằng cách lục lạo trong thùng rác một lần nữa."
+
+Phần 84: "Inspect the Envoy's Phone in Your Inventory" -> "Kiểm tra Điện thoại của Đại sứ trong Kho đồ của Bạn"
+
+Phần 85: "{0.SimFirstName} feels rather proud of the new painting but wonders if the Darong family would appreciate it.\n\n{0.SimFirstName} can't help but feel {0.SimPronounSubjective} {S0.was}{P0.were} left behind. Where did the Envoy go? It's time to find out..." -> "{0.SimFirstName} cảm thấy khá tự hào về bức tranh mới nhưng tự hỏi liệu gia đình Darong có trân trọng nó không.\n\n{0.SimFirstName} không thể không cảm thấy {0.SimPronounSubjective} {S0.was}{P0.were} bị bỏ lại phía sau. Đại sứ đã đi đâu? Đã đến lúc tìm ra..."
+
+Phần 86: "The Royal Envoy can be found at a home lot.\n\nHint: If the Envoy is not around, you can easily call them over using the self-interaction 'Call the Envoy to Current Lot'. Don't see that option? That means they are nearby! Just select the objective to locate the Envoy on the lot." -> "Đại sứ Hoàng gia có thể được tìm thấy tại một lô nhà.\n\nGợi ý: Nếu Đại sứ không ở quanh đây, bạn có thể dễ dàng gọi họ qua bằng tương tác tự nhiên 'Gọi Đại sứ đến Lô Hiện tại'. Không thấy tùy chọn đó? Điều đó có nghĩa là họ ở gần đây! Chỉ cần chọn mục tiêu để định vị Đại sứ trên lô."
+
+Phần 87: "Meet the Royal Envoy" -> "Gặp Đại sứ Hoàng gia"
+
+Phần 88: "There is no answer when {0.SimFirstName} calls the Royal Envoy!\n\nBut there is a sound coming from a trash can nearby...which sounds like a phone ringing!" -> "Không có câu trả lời khi {0.SimFirstName} gọi Đại sứ Hoàng gia!\n\nNhưng có một âm thanh phát ra từ thùng rác gần đây...nghe như tiếng điện thoại reo!"
+
+Phần 89: "To call the Envoy, use the Phone menu on the bottom left. Then, select the Social section, select Chat With, and look for Marina Corsair." -> "Để gọi Đại sứ, sử dụng menu Điện thoại ở góc dưới bên trái. Sau đó, chọn phần Xã hội, chọn Trò chuyện cùng, và tìm Marina Corsair."
+
+Phần 90: "Call the Royal Envoy" -> "Gọi Đại sứ Hoàng gia"
+
+Phần 91: "Go to a library, and hack a Computer for information about the Darong family." -> "Đi đến một thư viện, và hack một Máy tính để có thông tin về gia đình Darong."
+
+Phần 92: "Hack a Computer at the Library" -> "Hack Máy tính tại Thư viện"
+
+Phần 93: "Ask the Mixologist about the Royal Envoy" -> "Hỏi Bartender về Đại sứ Hoàng gia"
+
+Phần 94: "A mixologist can be found working behind the bar at the Blue Velvet nightclub.\n\nFind them, and ask about the location of the Royal Envoy." -> "Một bartender có thể được tìm thấy làm việc sau quầy bar tại câu lạc bộ đêm Blue Velvet.\n\nTìm họ, và hỏi về vị trí của Đại sứ Hoàng gia."
+
+Phần 95: "Find someone and ask if they have seen the Royal Envoy." -> "Tìm một người và hỏi liệu họ có thấy Đại sứ Hoàng gia không."
+
+Bây giờ, tôi cần đếm số dòng trong bản gốc và đảm bảo bản dịch có cùng số dòng. Văn bản gốc có các dấu ngăn cách là hai dấu ngang (---) hoặc xuống dòng đôi? Trong đoạn bạn cung cấp, có các dấu \n\n, tức là xuống dòng đôi. Tôi sẽ giữ nguyên cấu trúc đó, tức là mỗi đoạn trong bản gốc tương ứng với một đoạn trong bản dịch, và giữ nguyên số lần xuống dòng đôi.
+
+Tuy nhiên, trong bản gốc, có các đoạn như:
+"Sometimes all you need is a little playtime with your favorite stuffed friend.\n\nSelect a Stuffed Animal and choose Play."
+Đó là hai dòng, nhưng được ngăn cách bởi \n\n, tức là hai dòng riêng biệt. Trong bản dịch, tôi cũng phải có hai dòng riêng biệt.
+
+Nhưng khi tôi dịch, tôi viết thành hai dòng, vì vậy số dòng vẫn giữ nguyên.
+
+Tôi cần đảm bảo rằng tất cả các phần đều được dịch, và không thêm hay bớt dòng.
+
+Xem xét kỹ: Trong bản gốc, có các tiêu đề như "Play with the Stuffed Animal" đứng một mình, sau đó là mô tả? Thực tế, trong văn bản, các tiêu đề và mô tả được xen kẽ. Tôi sẽ giữ nguyên trình tự.
+
+Tôi đã dịch tất cả các phần từ 1 đến 95. Nhưng có phải tất cả đều là các mục riêng biệt? Có vẻ như có khoảng 95 mục? Tôi đếm: tôi liệt kê từ phần 1 đến 95, nhưng có thể không chính xác. Tốt hơn là tôi nên coi mỗi đoạn được ngăn cách bởi hai dấu ngang (---) hoặc là một mục riêng? Trong văn bản, không có dấu ---, chỉ có \n\n. Vậy tôi nên coi mỗi đoạn được ngăn cách bởi \n\n là một phần riêng? Không nhất thiết, vì một mục có thể có nhiều đoạn.
+
+Quan sát: Trong bản gốc, có các cặp: tiêu đề và mô tả, hoặc chỉ mô tả. Ví dụ:
+"Sometimes all you need is a little playtime with your favorite stuffed friend.\n\nSelect a Stuffed Animal and choose Play."
+Đây là hai câu, nhưng có thể là một mục với hai dòng.
+
+Sau đó là "Place your Stuffed Animal..." etc.
+
+Có lẽ nên giữ nguyên cấu trúc xuống dòng: tức là mỗi khi có \n\n trong gốc, thì trong bản dịch cũng có \n\n ở cùng vị trí.
+
+Tôi sẽ tạo bản dịch với cùng số ký tự xuống dòng.
+
+Để đơn giản, tôi sẽ dịch toàn bộ và sau đó so sánh số dòng.
+
+Tuy nhiên, người dùng nói "Trả về đúng số dòng", có nghĩa là số dòng trong bản dịch phải bằng số dòng trong bản gốc. Vì vậy, tôi cần đếm số dòng trong bản gốc.
+
+Văn bản gốc: tôi đếm số dòng bằng cách tách theo \n. Nhưng trong đoạn bạn cung cấp, nó là một chuỗi với \n\n. Tôi sẽ coi mỗi lần xuất hiện của \n\n là ngăn cách giữa các đoạn, và mỗi đoạn có thể có nhiều dòng nếu có \n trong đó? Thực tế, trong đoạn, có các \n đơn lẻ? Trong ví dụ, tôi thấy chỉ có \n\n, tức là xuống dòng đôi. Vậy có thể mỗi đoạn là một dòng đơn? Không, vì có đoạn như "The hug lasted a lifetime, but not long enough.\n\nA flash as if to say goodbye..." có hai câu, nhưng được ngăn cách bởi \n\n, vậy đó là hai dòng? Khi tôi tách theo \n\n, tôi sẽ có các phần:
+
+Phần 1: "Sometimes all you need is a little playtime with your favorite stuffed friend."
+Phần 2: "Select a Stuffed Animal and choose Play."
+Nhưng trong văn bản, nó là "Sometimes...\n\nSelect...", vậy khi tách, tôi có hai chuỗi: "Sometimes..." và "Select...". Vậy số dòng thực tế là số chuỗi sau khi tách theo \n\n? Nhưng còn các đoạn có nhiều \n bên trong? Trong đoạn, tôi thấy chỉ có \n\n, không có \n đơn. Vậy tôi có thể coi mỗi đoạn được ngăn cách bởi \n\n là một dòng? Không, vì một đoạn có thể có nhiều câu, nhưng trong văn bản, nó được viết liên tục, chỉ có \n\n ngăn cách. Vậy khi tách theo \n\n, mỗi phần là một "dòng" theo nghĩa của người dùng? Tôi nghĩ người dùng muốn số dòng trong đầu ra bằng số dòng trong đầu vào khi hiển thị, tức là giữ nguyên cách xuống dòng.
+
+Vì vậy, tôi sẽ giữ nguyên cấu trúc \n\n trong bản dịch, tức là mỗi khi có \n\n trong gốc, tôi đặt \n\n ở cùng vị trí trong bản dịch.
+
+Tôi sẽ viết bản dịch với các \n\n giống hệt vị trí.
+
+Bây giờ, tôi tổng hợp bản dịch:
+
+Đầu tiên, tôi cần kiểm tra xem có từ nào cần giữ nguyên không. Trong danh sách không dịch: "The Sims 4", "Sims", "Sim", "Social Bunny", "EA app", "Gallery". Trong văn bản, có "Sim" trong {0.SimFirstName}, nhưng đó là biến, nên giữ nguyên. Còn "Stuffed Animal" không nằm trong danh sách, nên tôi dịch.
+
+Tôi đã dịch "Stuffed Animal" là "Đồ chơi nhồi bông". Có thể nên dùng "gấu bông"? Nhưng "Stuffed Animal" có thể là bất kỳ đồ chơi nhồi bông nào, nên "đồ chơi nhồi bông" phù hợp.
+
+Tôi sẽ dùng "đồ chơi nhồi bông" cho nhất quán.
+
+Các tên riêng như Sylvan Glade, Foundry Cove, Willow Creek, Magnolia Blossom Park, Municipal Muses Museum, Blue Velvet Nightclub, Marina Corsair, v.v. giữ nguyên.
+
+Tên expansion pack: tôi giữ nguyên "Growing Together Expansion Pack" và "Adventure Awaits Expansion Pack". Có nên dịch không? Tốt nhất là giữ nguyên vì là tên chính thức.
+
+Bây giờ, tôi viết bản dịch hoàn chỉnh, đảm bảo giữ nguyên \n\n.
+
+Tôi sẽ trình bày bản dịch như sau:
+
+[Đoạn 1]
+Đôi khi tất cả những gì bạn cần là một chút thời gian chơi đùa với người bạn nhồi bông yêu quý.
+
+Chọn một Đồ chơi nhồi bông và chọn Chơi.
+
+[Đoạn 2]
+Đặt Đồ chơi nhồi bông của bạn bằng cách chọn Đặt trong Thế giới sau khi chọn nó trong kho đồ của Sim.
+Nếu bạn không nhớ Sylvan Glade ở đâu, bạn có thể tìm thấy nó qua cái cây lớn ở khu phố Foundry Cove trong Willow Creek.
+
+[Đoạn 3]
+Chơi với Đồ chơi nhồi bông
+
+[Đoạn 4]
+Giả vờ chơi trong Nhà cây
+Trí tưởng tượng cất cánh trong ngôi nhà cây!
+Đi đến Nhà cây của bạn và chọn Giả vờ chơi.
+Mục tiêu tùy chọn này yêu cầu <i>Growing Together Expansion Pack</i> để hoàn thành.
+
+[Đoạn 5]
+Cuộc phiêu lưu đang gọi! Thưởng thức sân chơi của bạn, chơi thỏa thích.
+Đi đến Sân chơi và chọn Chơi.
+Mục tiêu tùy chọn này yêu cầu <i>Adventure Awaits Expansion Pack</i> để hoàn thành.
+
+[Đoạn 6]
+Chơi ở Sân chơi
+
+[Đoạn 7]
+Cái ôm kéo dài suốt một đời, nhưng vẫn chưa đủ.
+Một tia sáng như để tạm biệt chỉ có thể được nhìn thấy bởi {0.SimFirstName}. {0.SimPronounSubjective|xxUpper} cảm thấy một chút buồn bã nhưng cũng hạnh phúc vì đã được tận hưởng những cuộc phiêu lưu cùng nhau.
+Những kỷ niệm chắc chắn sẽ sống mãi.
+
+[Đoạn 8]
+Đã đến lúc tạm biệt. Hãy làm cho nó đáng giá.
+Chọn Đồ chơi nhồi bông và Ôm nó.
+
+[Đoạn 9]
+Ôm Đồ chơi nhồi bông lần cuối
+
+[Đoạn 10]
+Mối liên kết ngay lập tức! {0.SimFirstName} không thể chờ để làm thêm nhiều điều với người bạn mới {0.SimPronounPossessiveDependent}.
+Đặt Đồ chơi nhồi bông gần TV để chúng có thể xem TV cùng nhau.
+
+[Đoạn 11]
+Trong thế giới tưởng tượng, một cái ôm là thần kỳ.Ôm chặt người bạn mềm mại—Đó là một khoảnh khắc an ủi và vui vẻ!
+Hãy để một Sim tương tác với Đồ chơi nhồi bông để Tặng nó một cái ôm.
+
+[Đoạn 12]
+Hãy để Trẻ em Ôm Đồ chơi nhồi bông
+
+[Đoạn 13]
+Đi học rồi! Một ngày khác trong lớp, một lớp học khác năm sau.
+{0.SimFirstName} có một nơi để gặp gỡ thêm bạn bè ngoài đời, trong khi chưa bao giờ quên người bạn {0.SimPronounSubjective} đã để lại ở nhà.
+
+[Đoạn 14]
+Trường học diễn ra từ Thứ Hai đến Thứ Sáu và bắt đầu vào buổi sáng. Chờ đến thời điểm đó, và hãy để một Sim đi học khi được cho tùy chọn.
+Mẹo: Bạn cũng có thể để một Sim lớn tuổi đi làm.
+
+[Đoạn 15]
+Đi đến Trường học
+
+[Đoạn 16]
+Ù ù...Ù ù!
+Có một cái ao ở Sylvan Glade nơi bạn có thể chọn Tìm Ếch.
+Nếu bạn không nhớ Sylvan Glade ở đâu, bạn có thể tìm thấy nó qua cái cây lớn ở khu phố Foundry Cove trong Willow Creek.
+
+[Đoạn 17]
+Tìm Ếch ở Ao Sylvan
+
+[Đoạn 18]
+Sau khi thưởng thức một món ăn ngon, {0.SimFirstName} cảm thấy hài lòng, hạnh phúc và sẵn sàng đối mặt với ngày mới.
+
+[Đoạn 19]
+Bổ sung năng lượng! Đã đến lúc thưởng thức một món ăn ngon và sạc lại năng lượng cho những cuộc phiêu lưu tưởng tượng.
+Mục tiêu này có thể được hoàn thành bất kể độ tuổi của Sim của bạn.
+
+[Đoạn 20]
+Hãy để Sim Ăn một thứ gì đó
+
+[Đoạn 21]
+Những đứa trẻ trong Phòng trò chuyện bắt đầu chia sẻ kỷ niệm về Đồ chơi nhồi bông của chúng, những cuộc phiêu lưu chúng đã có, và sự an ủi chúng mang lại.
+{0.SimFirstName} không thể dừng thời gian, nhưng có lẽ đó là một cách tuyệt vời để khoảnh khắc này sống mãi!
+
+[Đoạn 22]
+Có thể có những đứa trẻ khác có một số ý tưởng độc đáo về chuyện đang xảy ra. Bạn có thể kiểm tra Phòng trò chuyện Trẻ em và hỏi, điều đó có thể làm tổn thương gì?
+Các Sim lớn tuổi có thể chọn tương tác Trò chuyện trên Máy tính để hoàn thành mục tiêu này.
+
+[Đoạn 23]
+Kiểm tra Phòng trò chuyện Trẻ em trên Máy tính
+
+[Đoạn 24]
+Với Nhà cây của bạn đã có vị trí, xây dựng pháo đài của riêng bạn!
+Chọn Cơ sở Nhà cây của bạn và xây dựng Nhà cây.
+Mục tiêu tùy chọn này yêu cầu <i>Growing Together Expansion Pack</i> để hoàn thành.
+
+[Đoạn 25]
+{0.SimFirstName} nghe nói ống kính chưa bao giờ giống như một ống kính máy ảnh bình thường. Đó là thứ cho phép {0.SimFirstName} nhìn thấy Đồ chơi nhồi bông như thật.
+Nó có thể đang hỏng vì {0.SimFirstName} đang lớn lên.
+
+[Đoạn 26]
+Ống kính cho phép chụp ảnh cuộc sống thực của Đồ chơi nhồi bông đã hỏng. Có thể một người lớn sẽ biết điều gì sai.
+
+[Đoạn 27]
+Hỏi Người lớn về Sự trợ giúp với Ống kính Hỏng
+
+[Đoạn 28]
+Đồ chơi nhồi bông đã phản hồi, nhưng {0.SimFirstName} nghe thấy điều gì đó {0.SimPronounSubjective} {S0.was}{P0.were} không ngờ tới!
+Mặc dù chúng chưa bao giờ muốn sự vui vẻ dừng lại, thời gian của chúng có hạn. Chúng ước những kỷ niệm chúng tạo ra có thể sống mãi, nhưng chúng không biết cách...
+
+[Đoạn 29]
+Hôm nay có thể là gì trên lịch trình? Thêm hoạt hình? Có thể một trò chơi? Có thể một thứ hoàn toàn mới?
+Chọn một Đồ chơi nhồi bông và Hỏi về nó.
+
+[Đoạn 30]
+Hỏi Đồ chơi nhồi bông về Cuộc phiêu lưu Hôm nay
+
+[Đoạn 31]
+Đồ chơi nhồi bông nói "Máy ảnh là một cửa sổ đến trí tưởng tượng", và {0.SimFirstName} háo hức khám phá thế giới qua ống kính đặc biệt này!
+
+[Đoạn 32]
+Có thể một Đồ chơi nhồi bông biết điều gì mới về máy ảnh chưa từng nghĩ trước đây.
+
+[Đoạn 33]
+Hỏi Đồ chơi nhồi bông về Máy ảnh
+
+[Đoạn 34]
+Đồ chơi nhồi bông đã phản hồi:
+"The imagination that makes me real might be finally fading away. That's the power of the lens."
+Nó nhìn {0.SimFirstName} với sự thấu hiểu và một nụ cười an ủi nhỏ.
+
+[Đoạn 35]
+Với ống kính đặc biệt đã hỏng, dường như mọi thứ đều mất! Có thể một người bạn Đồ chơi nhồi bông biết điều gì đã xảy ra?
+Hỏi Đồ chơi nhồi bông về ống kính hỏng.
+
+[Đoạn 36]
+Hỏi Đồ chơi nhồi bông về Ống kính Hỏng
+
+[Đoạn 37]
+Thắng một Ván cờ vua chống lại Đại sứ Hoàng gia
+
+[Đoạn 38]
+Gặp Marina, Đại sứ Hoàng gia, tại Công viên Hoa Cẩm quỳ và thắng một ván cờ vua!
+Để làm điều này, tìm một bàn cờ vua và sử dụng tương tác Chơi cùng, sau đó chọn Marina Corsair.
+
+[Đoạn 39]
+Trong khi xem TV, một bản tin khẩn cấp được phát trực tiếp về những bức tranh mới từ gia đình Thebe được trưng bày tại Bảo tàng Công bằng, khơi gợi sự tò mò trên toàn thị trấn.
+
+[Đoạn 40]
+Cảnh báo Tin tức
+
+[Đoạn 41]
+"...Một đại sứ đã được phát hiện trong thị trấn, và họ dường như có tính chất hoàng gia. Một số cư dân địa phương khẳng định đã thấy họ. Hãy tiếp tục theo dõi các bản cập nhật về sự phát triển thú vị này!"
+Tìm một TV và xem kênh tin tức trên đó bằng cách chọn Xem Kênh..., sau đó tìm Xem Tin tức.
+Đôi khi, bạn có thể phải tìm dưới Lựa chọn Thêm...
+
+[Đoạn 42]
+Tìm một tác phẩm nghệ thuật, và chọn để bày tỏ cảm xúc về nó.
+Hãy thử sử dụng bức tranh vừa được vẽ!
+
+[Đoạn 43]
+Bày tỏ Cảm xúc về Nghệ thuật
+
+[Đoạn 44]
+Chơi một ván cờ vua, và suy ngẫm các nước đi để đảm bảo một điều gì đó thực sự được học!
+
+[Đoạn 45]
+Rèn luyện Kỹ năng Cờ vua
+
+[Đoạn 46]
+Tìm một người, bất kỳ ai dường như am hiểu, và chọn Hỏi về Gia đình Darong.
+
+[Đoạn 47]
+Hỏi Người khác về Gia đình Darong
+
+[Đoạn 48]
+Xem xem có ai khác biết bất cứ điều gì về Công chúa Cordelia không!
+
+[Đoạn 49]
+Hỏi Các Sim khác về Cordelia
+
+[Đoạn 50]
+Trong khi tìm kiếm trực tuyến, người ta phát hiện rằng Công chúa Cordelia có mối quan tâm sâu sắc đến tranh vẽ và được đồn là đã trộm một kho báu.
+
+[Đoạn 51]
+Tìm một Máy tính và tìm kiếm trực tuyến về Công chúa Cordelia từ gia đình Thebe.
+
+[Đoạn 52]
+Tìm kiếm Trực tuyến về Công chúa Cordelia
+
+[Đoạn 53]
+Sau khi lướt tin tức dài hơn là khỏe mạnh, {0.SimFirstName} khám phá ra những chi tiết hấp dẫn về xu hướng lãng mạn và tình yêu dành cho đàn piano của gia đình Capp.
+Thú vị thay, có một gợi ý về sự tham gia sớm của họ vào hẹn hò trực tuyến!
+
+[Đoạn 54]
+Tìm một Máy tính, và tìm kiếm thông tin về Gia đình Capp.
+Họ quan tâm đến lãng mạn...vì vậy có lẽ có một số thứ cay nóng trên mạng!
+
+[Đoạn 55]
+Tìm kiếm Internet về Gia đình Capp
+
+[Đoạn 56]
+Khi {0.SimFirstName} tìm kiếm chiếc ghế dài, {0.SimPronounSubjective} {S0.finds}{P0.find} một chiếc hộp và sử dụng mã để mở nó...
+Nó trống! Đại sứ thực sự đã lấy nội dung của nó rồi!
+
+[Đoạn 57]
+Tìm một chiếc ghế dài và tìm kiếm nó!
+
+[Đoạn 58]
+Tìm kiếm Chiếc ghế dài
+
+[Đoạn 59]
+Điện thoại của Đại sứ ở trong kho đồ.
+Tìm nó ở đó, và chọn để hack tệp bên trong nó!
+Gợi ý: Một chiếc điện thoại Đại sứ thay thế có thể được tìm thấy bằng cách lục lạo trong thùng rác một lần nữa.
+
+[Đoạn 60]
+Hack Điện thoại của Đại sứ Hoàng gia
+
+[Đoạn 61]
+Một cây đàn piano hoặc keyboard có thể được tìm thấy trong Chế độ Xây dựng, hoặc tại câu lạc bộ đêm địa phương!
+
+[Đoạn 62]
+Luyện tập Đàn piano
+
+[Đoạn 63]
+Đã đến lúc thử nghiệm những Kỹ năng âm nhạc đó.
+Tìm một cây đàn piano tại câu lạc bộ đêm và chơi nó!
+
+[Đoạn 64]
+Chơi Nhạc tại Câu lạc bộ đêm
+
+[Đoạn 65]
+{0.SimFirstName} kiểm tra các bức tranh nhưng không tìm thấy bất cứ điều gì!
+...Có lẽ chúng thực sự chỉ là sự phân tâm...tốt nhất là tiếp tục tìm kiếm bảo tàng!
+
+[Đoạn 66]
+Tìm kiếm các bức tranh khác nhau trong Bảo tàng Công bằng, sau đó Kiểm tra chúng.
+
+[Đoạn 67]
+Kiểm tra Các bức tranh tại Bảo tàng Công bằng
+
+[Đoạn 68]
+Sự quan tâm của gia đình Darong đến nghệ thuật sâu sắc và bí ẩn hơn Sim của bạn dự kiến.
+Dường như Darongs đã cố gắng khôi phục một bức tranh gia đình cũ. Với số tiền họ đầu tư vào dự án khôi phục này, việc hoàn thành nó phải rất quan trọng đối với vương quốc. Tuy nhiên, Đại sứ Hoàng gia đã hành động một chút quá đáng nghi ngờ để đây là một dự án khôi phục bình thường. Hành vi của họ khiến Sim của bạn tin rằng bức tranh này cũng có thể chứa một bí mật.
+
+[Đoạn 69]
+Trong khi chải bỏ kh

@@ -1,0 +1,100 @@
+Ghé thăm {1.String|enHouseholdNamePlural}
+Ghé thăm {1.SimName}
+Ghé thăm hộ gia đình {1.String}
+{0.String} (Không có ai ở nhà)
+Ghé thăm nơi ở
+Về nhà
+Ghé thăm
+Hãy đến cuộc họp bí mật của chúng tôi.
+Mọi người sẽ có mặt!
+Bạn được mời đến chơi qua đêm với chúng tôi.
+Một lô cho thuê tạm thời cho các Sim đi nghỉ
+Cho thuê nghỉ dưỡng - Chưa hoàn thành
+Cho thuê nghỉ dưỡng
+Ghé thăm {1.String|enHouseholdNamePlural}...
+Ghé thăm {1.SimFirstName}...
+Ghé thăm hộ gia đình {1.String}...
+Ghé thăm...
+{0.String} (Không có ai ở đây)...
+Đến chỗ ở...
+Ghé thăm...
+Ghé thăm {1.String|enHouseholdNamePlural}
+Ghé thăm {1.SimFirstName}
+Ghé thăm hộ gia đình {1.String}
+Ghé thăm
+{0.String} (Không có ai ở đây)
+Đến chỗ ở
+Ghé thăm
+Spa
+Trung tâm Recreation là nơi hoàn hảo cho học tập và chơi đùa thân thiện với gia đình. Đó là một trung tâm nghệ thuật, khu thể dục, phòng chơi game và không gian chơi tất cả trong một.
+Trung tâm Recreation - Chưa hoàn thành
+Trung tâm Recreation
+Ghé thăm Trung tâm Recreation...
+Ghé thăm Trung tâm Recreation
+Dàn âm thanh
+Trò chơi
+Giàn leo trò
+Nhạc cụ
+Thiết bị tập luyện
+Muốn tham gia một chút giải trí? Tại trung tâm... <i>giải trí</i>!
+Chúng tôi muốn gặp nhau tại trung tâm recreation để vui chơi và chơi game! Gặp bạn ở đó?
+Sẵn sàng cho một chút vui chơi thân thiện với gia đình? Gặp chúng tôi tại trung tâm recreation!
+Bể bơi là nơi tuyệt vời để giao tiếp hoặc có một khoảnh khắc riêng tư. Đi bơi, khoe kỹ năng nhảy hoặc ngồi thư giãn bên bể bơi và tận hưởng.
+Bể bơi là nơi tuyệt vời để tắm và tắm nắng.
+Bể bơi - Chưa hoàn thành
+Bể bơi
+Ghé thăm địa điểm Bể bơi...
+Ghé thăm Bể bơi
+Ghế ăn uống
+Thang bể bơi
+Chúng tôi muốn tận hưởng nước ở bể bơi. Bạn nên gặp chúng tôi ở đó.
+Bể bơi là cách tốt nhất để trôi qua một ngày hè nóng bức. Gặp chúng tôi ở đó!
+Lấy đồ bơi và tham gia cùng chúng tôi ở bể bơi.
+Giống công viên thông thường, nhưng với nhiều trẻ em hơn! Nơi hoàn hảo để trẻ em chơi đùa, gặp gỡ trẻ em khác và tạo ra mối quan hệ suốt đời!
+Khu vui chơi - Chưa hoàn thành
+Khu vui chơi
+Ghé thăm Khu vui chơi...
+Ghé thăm Khu vui chơi
+Nhanh lên! Đến Khu vui chơi!
+Dạo bộ quanh không gian ngoài trời tuyệt đẹp này. Xem các trẻ em reo hò vui sướng quanh khu vui chơi.
+Công viên - Chưa hoàn thành
+Công viên
+Ghé thăm Công viên...
+Ghé thăm Công viên
+Bàn hiên
+Ghế dài
+Thiết bị khu vui chơi
+Bàn cờ vua
+Đây là ngày tuyệt vời để dành thời gian bên ngoài. Tham gia cùng chúng tôi tại công viên.
+Hay là một buổi đi bộ tuyệt vời cùng chúng tôi tại công viên.
+Chúng tôi sẽ đến công viên. Bạn nên gặp chúng tôi ở đó!
+Ghé thăm Địa điểm Cô lập Với...
+Ghé thăm Địa điểm Cô lập
+Bảo tàng là bộ sưu tập nghệ thuật cộng đồng và toàn cầu, thể hiện rằng thị hiếu đôi khi, nhưng không phải lúc nào, có một chỗ trên tường của bạn.
+Bảo tàng - Chưa hoàn thành
+Bảo tàng
+Ghé thăm Bảo tàng...
+Ghé thăm Bảo tàng
+Trang trí tường
+Khung vẽ
+Nghệ thuật sẽ không tự xem. Bạn nên tham gia cuộc họp với chúng tôi tại bảo tàng.
+Bảo tàng là nơi tuyệt vời để học hỏi. Chúng tôi sẽ gặp nhau ở đó sớm.
+Cập nhật lịch sử của bạn tại bảo tàng với chúng tôi.
+Khi bạn không muốn ngồi ở quầy bar và không muốn một đêm hoạt động ở Câu lạc bộ, hãy đến Phòng lounge để trò chuyện tốt và đồ uống ngon.
+Phòng lounge - Chưa hoàn thành
+Phòng lounge
+Ghé thăm Phòng lounge...
+Chọn Điện thoại và chọn Thôi việc dưới ứng dụng Kinh doanh.
+Tìm Bản in Không gian trong Hàng tồn kho
+Đọc Bưu thiếp trong Hàng tồn kho
+Nhấp vào Chế độ Xây dựng, chọn Thông tin Địa điểm và vào Bảng Đặc điểm
+Tìm Đồ uống trong Hàng tồn kho
+Nhấp vào Chế độ Xây dựng và chọn Hàng tồn kho Hộ gia đình
+Nhấp vào Chế độ Xây dựng và tìm Tập luyện
+Gọi một Sim qua Bảng Mối quan hệ
+Mở Thẻ Nghề nghiệp để xem Nhiệm vụ Hàng ngày
+Tìm Búp bê Voodoo trong Hàng tồn kho
+Điều chỉnh nỗ lực công việc của bạn ở đây
+Sử dụng Ứng dụng Kinh doanh để Tìm việc
+Mua Đặc điểm trong Cửa hàng Phần thưởng
+Nhấp vào Chế độ Xây dựng và tìm Vòi sen

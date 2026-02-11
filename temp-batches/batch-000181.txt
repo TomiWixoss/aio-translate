@@ -1,0 +1,100 @@
+{1.String} Đoạt Huân Chương!
+{0.SimFirstName} đã làm chủ kỹ năng {1.String}!
+Kỹ Năng Tối Đa
+Kịch Bản Hoàn Thành!
+{0.SimFirstName} và {1.SimFirstName} có em bé!
+{0.SimFirstName} có em bé!
+Tất Cả Thử Thách Xã Hội Đã Hoàn Thành!
+Tất Cả Thử Thách Tò Mò Đã Hoàn Thành!
+Tất Cả Thử Thách Độc Lập Đã Hoàn Thành!
+Tất Cả Thử Thách Phiêu Lưu Đã Hoàn Thành!
+{0.SimFirstName} đã hoàn thành Khát Vọng {2.String}!
+{0.SimFirstName} đã hoàn thành {1.String} của Khát Vọng {2.String}!
+Thành Tích
+Kỳ Nghỉ
+Kỹ Năng
+Đám Cưới
+Tình Cảm
+Thù Hận
+Bạn Bè
+Gia Đình
+Bộ Sưu Tập
+Trường Học
+Đêm
+Lễ Hội
+Vận May
+Cảm Xúc
+Sự Nghiệp
+Khát Vọng
+{0.Number} {S0.Sim}{P0.Sims} là Nữ và là Thanh Niên trở lên
+{0.Number} {S0.Sim}{P0.Sims} là Nữ và là Thanh Thiếu Niên
+{0.Number} {S0.Sim}{P0.Sims} là Thanh Niên trở lên
+Nova Curious, một thanh niên đam mê sự nghiệp
+Sofia. Một đứa trẻ nghệ sĩ và rụt rè.
+Pablo. Chồng, Cha và Nghệ Sĩ.
+Leonardo. Một đứa trẻ nghịch ngợm và thông minh.
+Jennifer. Vợ, Mẹ và Nhà Văn.
+Farrah Nouvel, một thanh niên hòa nhã
+Lila, Cháu Gái Nhỏ, Nóng Tính
+Eddie, Cháu Trai, Lười Biếng
+Ava, Cháu Gái Lớn, Xấu Bụng
+Nyssa, Một Bà Nội Thất Vọng
+{0.Number}-{1.Number} Sims là Thanh Niên trở lên
+Ít nhất {0.Number} Sims Trẻ Sơ Sinh {S0.Sim}{P0.Sims}
+{0.Number} Sims Thanh Thiếu Niên {S0.Sim}{P0.Sims}
+{0.Number} Sims Trẻ Em {S0.Sim}{P0.Sims}
+Ít nhất {0.Number} Sims Thanh Niên trở lên {S0.Sim}{P0.Sims}
+{0.Number} {S0.Sim}{P0.Sims} là Người Lớn trở lên
+Hoàn thành tất cả mục tiêu trong khi sống cuộc đời PlantSim!
+Cạnh tranh hoặc hợp tác để giành lòng sủng của bà nội - và di sản của bà!
+Di Sản Gia Đình
+3 anh chị em cãi cọ nhau âm mưu giành lấy gia tài của bà nội. Tuy nhiên, người đứng đầu gia tộc chỉ định sẽ trao di sản cho những người chứng tỏ mình xứng đáng.\n\nBạn sẽ cạnh tranh hay hợp tác để giành lòng sủng của bà nội – và có thể là hàng triệu Simoleon của bà?
+Người Em Mất Tích
+Lập kế hoạch cho một đám cưới đã đủ khó, huống chi là trong một thị trấn mới? Hai Sim đang yêu nhau nên làm gì?
+Đôi Mới
+Hai Sims là nghệ sĩ tự do, vừa đính hôn và vừa chuyển đến một ngôi nhà mới xa gia đình và bạn bè. Họ tự mình lập kế hoạch cho đám cưới và kỳ nghỉ trăng mật. Họ sẽ tổ chức một đám cưới đáng nhớ, bỏ trốn, hay sẽ sụp đổ dưới áp lực lập kế hoạch? Họ sẽ ăn mừng sự khởi đầu cuộc sống mới như thế nào?
+Kế Hoạch Thay Đổi
+Sims hủy hôn
+Kỳ Nghỉ Trăng Mật Lãng Mạn
+Các Sims kết hôn cùng nhau trong khi đang đi nghỉ
+Đứa trẻ là một mối đe dọa! Chọn con đường của kẻ xấu hay khiến mọi người bất ngờ với một câu chuyện chuộc lỗi!
+Gây Rối
+Chuyển đến một thị trấn mới và một trường học mới có thể là một khởi đầu mới cho một thanh thiếu niên nghịch ngợm. Bạn có thể vượt qua và cải thiện điểm số của chúng ở trường mới, hay sẽ lật đổ trường học bằng thêm nhiều trò quậy phá?
+Các Sims Người Lớn đã kết hôn
+Các Sims Người Lớn là Cha Mẹ của Sims Thanh Thiếu Niên
+Đã Trưởng Thành
+Thanh Thiếu Niên trưởng thành thành Thanh Niên
+Sự Xuất Sắc Học Thuật
+Thanh Thiếu Niên là học sinh loại Giỏi (A)
+Điều Chỉnh Tốt
+Thanh Thiếu Niên có ít nhất điểm B và có 5 người bạn
+Tác Động Xấu
+Thanh Thiếu Niên là Tòng Phạm của một Sim khác và đã thực hiện ít nhất 1 trò quậy phá ở trường thành công
+Không có gì trong cuộc sống sẽ làm bạn hạnh phúc, buồn bã, kiệt sức và tự hào như việc làm cha mẹ.
+Cha Mẹ Tự Hào
+Một Sim muốn trở thành cha mẹ tốt nhất có thể. Hỗ trợ con từ khi còn sơ sinh cho đến tuổi Thiếu Niên với tình yêu thương và sự chú ý!\n\nCha mẹ mới này có thể vượt qua tất cả áp lực và khó khăn của việc nuôi con và nuôi dưỡng, nuôi nấng con một cách tràn đầy yêu thương không?
+Bỏ Mặc
+Một đứa trẻ bị đưa đi do bỏ mặc
+Cha Mẹ Tự Hào
+Nuôi con từ khi còn sơ sinh cho đến tuổi Thiếu Niên
+Đừng sợ bóng tối… hãy khám phá nó!
+Khám Phá Bóng Đêm
+Một Sim đã tò mò về bóng đêm và muốn khám phá mọi thứ nó mang lại.\n\nSim này có thể học được điều gì ở ngoài kia vào ban đêm hay họ sẽ chỉ đơn giản là chìm vào giấc ngủ?
+Khám Phá Bóng Đêm
+Khám phá những gì bóng đêm mang lại và hoàn thành các mục tiêu.
+Thịt bít tết cao quý… nhưng Sim này chắc chắn sẽ không làm vừa lòng!
+Tiệc Nướng
+Một Sim muốn hoàn hảo nghệ thuật nướng thịt để gây ấn tượng với tất cả bạn bè và gia đình ở Tiệc Nướng tiếp theo.\n\nHọ có thể kiếm được giấy phép nướng thịt kịp thời cho Tiệc Nướng lớn tiếp theo không?
+Hoàn Hảo Nghệ Thuật Nướng Thịt
+Chuẩn bị cho bữa tiệc nướng lớn và hoàn hảo nghệ thuật nướng thịt
+Sim này muốn… tin! Mang chân lý từ "ngoài kia" về chính ngôi nhà của bạn.
+Nhà Nghiên Cứu Ngoài Trái Đất
+Một Sim ám ảnh về không gian biết chúng ta không thể đơn độc trong vũ trụ, và Sim này quyết tâm khám phá mọi thứ có thể biết về sinh vật ngoài trái đất. Bạn có thể xây dựng một tên lửa tự chế có thể đưa Sim đến không gian – và trở về nhà an toàn không?
+Nhà Động Vật Học Vũ Trụ
+Mang về 5 sinh vật ngoài trái đất độc đáo từ các chuyến du hành vào không gian
+Không Hoàn Thành Tất Cả Mục Tiêu Làm Sims Trẻ Em
+Sim của bạn đã trưởng thành thành Thanh Thiếu Niên mà chưa hoàn thành tất cả Mục Tiêu Thời Thơ Ấu. Có lẽ bạn có thể bù đắp cho những ký ức đã mất trong tuổi trẻ!
+Một người bạn tốt biết tất cả câu chuyện của bạn. Một người bạn thân thiết đã giúp bạn viết chúng.
+Bạn Thân Mãi Mãi
+Người ta nói bạn thân là mãi mãi! Tạo dựng mối quan hệ bằng cách có một người bạn thời thơ ấu và trở thành bạn tốt với các Sims trẻ khác. Chơi đùa, Phiêu Lưu và tạo nên cảm xúc suốt đời trong niềm đam mê của tuổi trẻ, trước khi bước vào Tuổi Thiếu Niên!
+Hoàn thành tất cả mục tiêu làm Sims Trẻ Em!

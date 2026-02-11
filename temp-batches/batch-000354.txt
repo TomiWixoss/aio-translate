@@ -1,0 +1,81 @@
+Khi {0.SimFirstName} gọi cho Đại sứ, họ trả lời, &quot;Ồ, chào! Cậu biết không, cậu nên tham quan thử Municipal Muses. Ở đó có biết bao điều để xem và làm. Sẽ là một cách sử dụng thời gian rất tốt!&quot;
+
+{0.SimFirstName} không thể không cảm thấy Đại sứ lại đang cố gắng tống {0.SimPronounObjective} đi một lần nữa...
+{0.SimFirstName} tìm thấy Đại sứ ở nhà họ lần nữa.
+
+Đại sứ mỉm cười và nói, &quot;Làm tốt lắm vì đã tìm thấy hai kho báu rồi! Nếu cậu thắng một ván cờ vua với tôi, tôi sẽ chia sẻ một số thông tin có giá trị về Công chúa Cordelia Thebe. Nhưng tôi nghi là cậu sẽ không thắng đâu... cậu có thể muốn luyện tập một chút trước khi thách thức tôi!
+
+Tôi sẽ chờ ở công viên, nếu cậu dám thách thức!&quot;
+
+Gia tộc Thebe
+Đại sứ, ngạc nhiên và hơi lo lắng khi thấy {0.SimFirstName} một lần nữa, ấp úng, &quot;Ồ! Tôi không ngờ cậu quay lại nhanh thế. Nhà Capps, vâng...họ đã rất bị cuốn hút bởi lãng mạn. Tại sao cậu không bước vào tâm trạng của tình yêu và xem liệu cậu có thể nghĩ ra được manh mối nào không? Cậu không phiền nếu tôi rình-co—À, nhìn quanh đây trong khi cậu đang làm việc đó chứ?&quot;
+
+Gia tộc Capp
+Hỏi về Gia tộc Thebe
+Hỏi về Gia tộc Darong
+Hỏi về Gia tộc Capp
+Hỏi về Đại sứ Hoàng gia
+Khi {0.SimFirstName} hỏi về Đại sứ Hoàng gia, {1.SimFirstName} đề cập, &quot;Tôi nghe thấy họ cười, nói rằng họ cuối cùng cũng sẽ mua được ngôi nhà sang trọng mà họ muốn. Tôi nghĩ tôi thấy họ chạy về phía Câu lạc bộ Đêm Velvet Xanh...&quot;
+
+...Đại sứ Hoàng gia muốn nói gì khi mua một ngôi nhà sang trọng? Mọi thứ không cảm thấy đúng!
+Hỏi về Gia tộc Darong
+Hỏi về Công chúa Cordelia
+{1.SimFirstName} nghiêng người và nói, &quot;Cậu biết đấy, bất chấp việc là một phần của hoàng gia, Công chúa Cordelia bí mật là một cướp biển. Cô ấy sống hai cuộc đời trên biển, tìm kiếm những kho báu ẩn giấu, và đồn rằng cô ấy đã đánh cắp một khối tài sản khổng lồ!&quot;
+
+Nói về Nhạc Lễ
+Có một Cuộc trò chuyện vui vẻ về Truyền thống Lễ
+Hỏi về Truyền thống Lễ
+Đối với tôi, mùa lễ là về việc quây quần cùng những người quan trọng nhất với tôi. Một ngôi nhà đầy tiếng hát những bài hát lễ và cùng nhau nhảy múa với bạn bè và gia đình là thứ mùa lễ luôn là về điều đó!
+Truyền thống lễ của tôi? Tôi đoán điều tôi nhớ mãi và luôn mong đợi là quây quần và chơi một vài trò chơi video hoài cổ. Chúng không còn làm như ngày xưa nữa!
+Điều tôi mong đợi nhất trong mùa lễ là gì? Chắc chắn là đồ ăn, và trong khi tôi thích những món kinh điển, tôi cũng thích thử các món ăn truyền thống từ các nền văn hóa khác nhau.
+Trong nhà tôi, bạn có thể biết đó là thời điểm trong năm khi tất cả những gì bạn nghe phát trên loa là Đài Phát thanh Mùa Đông. Đó là một thời kỳ kỳ diệu!
+Truyền thống của tôi có thể có vẻ hơi nhàm chán với một số người nhưng vì thời điểm trong năm có thể bộn bề như vậy, tôi chủ yếu mong đợi việc thư giãn cùng người khác và xem TV!
+Đề xuất Chơi
+Chơi thôi!
+Hào hứng về Đầu lâu Đường
+Thảo luận về Đời sau
+Phàn nàn về Linh hồn
+Kiểm tra Trẻ mới biết đi
+Hào hứng về Nhẫn Trang sức Đá quý Cổ
+Thét lên Không rõ ràng
+{0.SimFirstName} quá Trầm cảm để làm việc này!
+(Từ Đang là Người yêu Điên)
+Tôi thấy được trân trọng, nhưng tôi không quan tâm đến kiểu mối quan hệ đó với cậu. Nhưng tôi sẽ rất vui nếu cậu muốn trở thành bạn bè!
+Cậu đang cố gắng tán tỉnh tôi đấy hả, {M0.man}{F0.woman} trẻ? Đem sự táo bạo đó đi chỗ khác!
+(Từ cố gắng lãng mạn khi trong môi trường sạch sẽ)
+{0.SimFirstName} quá Buồn để làm việc này!
+{0.SimFirstName} quá Tức giận để làm việc này!
+(Từ Không thích Tiêu khiển)
+(Từ Thích Tiêu khiển)
+Hôn khi Nhảy
+Tán tỉnh khi Nhảy
+Trò chuyện khi Nhảy
+(Từ Bị Rơi khi Đang Nhảy)
+Nhận Lời khuyên về Bài đăng Social Bunny
+Nói về Bài đăng Đã đăng về {1.SimFirstName}
+Chế giễu Bài media Bunny Xã hội của Họ
+Chế giễu Sự thất bại Social Bunny của Họ
+Khen Bài đăng Social Bunny của Họ
+Đồng cảm về Bài đăng Social Bunny của Họ
+Hỏi Câu hỏi Riêng tư về Bài đăng Social Bunny của Họ
+(Khi Nói Về Một Bài đăng Social Bunny)
+An ủi Khiêm tốn về Bài đăng Social Bunny của Họ
+Ôm ấp
+Đăng một Bài đăng được Gắn thẻ Mới
+Cần chọn một Sim bạn.
+Cần chọn ngữ cảnh bài đăng.
+Loại Tin nhắn Nào?
+Gửi một Tin nhắn
+Cho những người theo dõi Social Bunny của cậu biết điều gì đang trong đầu cậu.
+Cần chọn loại tin nhắn.
+Đăng Bài Mới
+Cần chọn loại bài đăng.
+Cậu Cảm thấy Về Nó Như Thế Nào?
+Sự kiện Gần đây
+Tuyên bố Buổi hẹn Tuyệt vời Nhất!
+{0.SimFirstName} phải ở trong tâm trạng tốt hơn trước.
+Khuấy động
+&quot;Đủ rồi!&quot;
+Không có ai xung quanh để chụp ảnh.
+Gửi thư đến...
+Tặng {1.ObjectName} cho

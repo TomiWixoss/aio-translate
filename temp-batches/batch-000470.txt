@@ -1,0 +1,100 @@
+Với chiếc Grimophone đó, cậu có thể triệu hồi ta bất cứ khi nào cần. Chỉ đừng làm quá thường xuyên. Du hành đến thế giới này có thể rất mệt mỏi.
+Có lẽ Bản Tin Hội Ambrosia sẽ đưa cậu đến gần hơn với sự thật...
+Hãy tiếp tục chăm sóc vườn của cậu!
+Tuyệt vời! Cậu đã khám phá được phần đầu về Ambrosia, nhưng đây mới chỉ là khởi đầu... Ta cần thêm chi tiết!
+Grim cần sự giúp đỡ của cậu! Hãy bắt đầu học hỏi mọi thứ về Ambrosia có thể!
+Phần thưởng của cậu nằm trong Túi đồ của Sim. Dùng chúng để làm Sim vui vẻ hoặc tơ tưởng! Cậu có thể mua thêm trong Cửa hàng Phần thưởng qua Bảng Hoàn ước.
+Chúc mừng, cậu đã hoàn thành Nhiệm vụ Khám phá Luôn Đang Di chuyển!
+Phần thưởng của cậu nằm trong Túi đồ của Sim. Dùng chúng để làm Sim Tự tin, Tập trung, hoặc Cảm hứng và học nhanh hơn một số Kỹ năng! Cậu có thể mua thêm trong Cửa hàng Phần thưởng qua Bảng Hoàn ước.
+Chúc mừng, cậu đã hoàn thành Nhiệm vụ Khám phá Sims Có Kỹ năng!
+Chúc mừng, cậu đã hoàn thành Nhiệm vụ Khám phá Bạn và Điện thoại!
+Phần thưởng của cậu nằm trong Túi đồ của Sim. Dùng chúng để lấp đầy Ngay lập tức nhu cầu Vui vẻ, Vệ sinh và Năng lượng!\nCậu có thể mua thêm trong Cửa hàng Phần thưởng qua Bảng Hoàn ước bằng Điểm Hài lòng kiếm được.
+Phần thưởng của cậu nằm trong Túi đồ của Sim. Dùng chúng để lấp đầy Ngay lập tức nhu cầu Vui vẻ, Vệ sinh và Năng lượng! Cậu có thể mua thêm trong Cửa hàng Phần thưởng qua Bảng Hoàn ước bằng Điểm Hài lòng kiếm được.
+Chúc mừng, cậu đã hoàn thành Nhiệm vụ Khám phá Điều hướng Nhu cầu!
+Chúc mừng, cậu đã hoàn thành Nhiệm vụ Khám phá Trang Trí Tinh Tế!
+Phần thưởng được chuyển trực tiếp vào Quỹ Gia đình của cậu!\nMở rộng nhà trong Chế độ Xây dựng là cách tuyệt vời để tiêu hết những Simoleon kiếm được vất vả!
+Phần thưởng được chuyển trực tiếp vào Quỹ Gia đình của cậu! Bước vào Chế độ Xây dựng là cách tuyệt vời để tiêu hết những Simoleon kiếm được vất vả!
+Chúc mừng, cậu đã hoàn thành Nhiệm vụ Khám phá Kiếm Simoleon!
+Bộ sưu tập {0.String}
+Hoàn thành bộ sưu tập
+Khoảnh khắc Gia hình
+Đỉnh Sự nghiệp {3.String}
+Thăng chức
+Cực Hâm mộ
+Hiệu ứng phụ của người nổi tiếng là người hâm mộ cần chiều chuộng. Một người hâm mộ cuồng nhiệt đã công khai đối đầu với {0.SimFirstName}... lần nữa. Điều gì xảy ra?
+Rút lui Từ từ
+Ủng hộ Lịch sự
+Hợp đồng Quảng cáo
+Với xu hướng hiện tại và phân tích tương tác, {0.SimFirstName} đang trên đường trở thành cái tên quen thuộc. Kết quả là một số công ty lớn đang chú ý và đưa ra đề nghị hợp đồng quảng cáo. {0.SimFirstName} nghĩ sao?
+Không Để bán
+Ký hợp đồng!
+Video Mở hộp Thử thách Phong cách
+Luôn là món yêu thích của người hâm mộ và cơn sốt viral, {0.SimFirstName} đã đồng ý tham gia một thử thách mở hộp phong cách đặc biệt. Nhưng sau khi phát hiện trên stream trực tiếp rằng các sản phẩm bí mật không hề tương xứng, {M0.he}{F0.she} làm gì?
+Sáng tạo
+Đánh giá Sản phẩm
+Người mua Nổi tiếng
+Một khách hàng hàng đầu và ngôi sao phòng vé đã trực tiếp yêu cầu {0.SimFirstName} hỗ trợ chuẩn bị thảm đỏ. {M0.he}{F0.she} tiếp cận nhiệm vụ cao trầm này thế nào?
+Thử thách Trang phục Táo bạo
+Sự Quyến rũ Cổ điển
+Video Hướng dẫn Phong cách Virus
+Giữa các phát hành lớn, các khủng hoảng khách hàng, và các phương tiện marketing, {0.SimFirstName} có chút thời gian để làm một dự án cá nhân: chia sẻ kiến thức về video hướng dẫn phong cách gây sốt. Nhưng về điều gì?
+Thời trang 5 Phút
+Trang điểm Không nhìn
+Stylist Đám cưới
+{0.SimFirstName} đã bị "khuyến khích" giúp styling một đám cưới cao cấp cho con gái một khách hàng VIP. Choáng ngợp là cô dâu tương lai khá là quỷ dữ, với chữ B viết hoa! {0.SimFirstName} làm gì?
+Đối mặt với Cô dâu
+Giữ bình tĩnh, Tiếp tục
+Lộn xộn hay Xu hướng?
+Cái đó?! {0.SimFirstName} không hiểu cơn sốt mới nhất để phô trương. Với {M0.him}{F0.her} nó trông giả tạo và khá cơ bản, nhưng nó chỉ ngày càng phổ biến. Vậy giờ sao?
+Học cách Yêu thích
+Đánh giá Nghiêm khắc
+Buổi diễn Thời trang
+{0.SimFirstName} có cơ hội tham dự xu hướng nóng nhất của những buổi diễn thời trang pop-up cực kỳ độc quyền, đầy những phong cách cắt ngang và các biểu tượng ngành. {M0.he}{F0.she} tiếp cận sự kiện thế nào?
+Giao thiệp Khắp nơi
+Tập trung vào Thời trang
+Hạn chết Truyện
+Đến hạn chót cho bài viết mới nhất của {0.SimFirstName} - có thể là tốt nhất {M0.he's}{F0.she's} từng viết, như chất liệu thực sự cho giải Fabu-litzer Prize - lại cũng vô tình thiếu bất kỳ tài liệu tham khảo, trích dẫn, sự kiện nào. {M0.he}{F0.she} sẽ làm gì?
+Nộp như vậy
+Sự kiện Giả tạo
+Bài Op-Ed Tự do
+Biết tin, {0.SimFirstName} biết {M0.he}{F0.she} có cơ hội nộp chỉ một bài báo cho tạp chí xem xét văn hóa hàng đầu và tăng độ hiện diện của {M0.him}{F0.her}. Nhưng viết về gì?
+Bài viết Nhẹ nhàng
+Bài Phơi bày Khó khăn
+Một Thử thách Mới
+{0.SimFirstName} cần một thử thách mới ở nơi làm việc. {M0.he}{F0.she} hỏi sếp thế nào?
+Yêu cầu Một thử thách
+Đưa ra Đề xuất
+{0.SimFirstName} yêu cầu một thử thách mới từ {M0.his}{F0.her} sếp không ở tâm trạng cho nhân viên kiêu ngạo. {M0.His}{F0.Her} sếp công nhận sáng kiến của {M0.him}{F0.her}, nhưng lần sau {M0.he}{F0.she} cần thể hiện sự khéo léo hơn.
+{0.SimFirstName} ghét phải chờ người khác đưa ra ý tưởng cho {0.SimPronounObjective}, nên {M0.he}{F0.she} trình {M0.his}{F0.her} sếp các đề xuất về cách {M0.he}{F0.she} có thể bị thử thách. Sếp của {0.SimFirstName} đánh giá cao sự táo bạo và khen ngợi {0.SimPronounObjective}.
+{0.SimFirstName} bước vào phòng sếp, đập bàn {M0.his}{F0.her} và yêu cầu một thử thách. {M0.His}{F0.Her} sếp ngạc nhiên, nhưng thích phong cách đó và ngay lập tức giao {M0.him}{F0.her} một nhiệm vụ mới.
+Yêu cầu Phản hồi
+{0.SimFirstName} cần đưa ra phản hồi khó khăn cho đồng nghiệp. {M0.he}{F0.she} nên đưa ra nhận xét thế nào?
+Kết hợp với Lời khen
+Trực tiếp và Trung thực
+{0.SimFirstName} khen đồng nghiệp, nhưng sau đó lồng ghép phản hồi khắt khe. Đồng nghiệp bất ngờ và hơi bực. {0.SimFirstName} học được bài học về sự tế nhị trong phản hồi.
+{0.SimFirstName} tiếp cận đồng nghiệp của {M0.him}{F0.her} và đưa ra phản hồi rất trung thực. {M0.He}{F0.She} cũng làm việc với đồng nghiệp để tạo kế hoạch khắc phục vấn đề. Sếp của {M0.him}{F0.her} khen {0.SimFirstName} vì làm việc tốt với đồng đội.
+{0.SimFirstName} đưa ra một vài lời tử tế về công việc tốt của đồng nghiệp, nhưng sau đó đưa ra phản hồi nghiêm khắc về hành vi gần đây. Lời nhận xét được đón nhận tốt và cả hai trưởng thành hơn.
+Ấn tượng với Sếp
+{0.SimFirstName} muốn gây ấn tượng với sếp để thăng chức. {M0.he}{F0.she} nên làm thế nào?
+Hoàn thành Dự án Phụ
+Làm thêm Giờ
+{0.SimFirstName} thực sự nỗ lực {M0.himself}{F0.herself}, nhưng điều này chỉ dẫn đến mệt mỏi và công việc tổng thể tệ hại. {M0.He}{F0.She} làm thêm chút việc, nhưng không thực sự gây ấn tượng với sếp.
+{0.SimFirstName} bắt đầu làm việc qua các giờ nghỉ để hoàn thành công việc và kết quả rõ rệt. Sếp của {M0.him}{F0.her} dừng lại và ám chỉ rằng thăng chức không còn xa, điều làm mọi thứ đáng giá.
+{0.SimFirstName} chủ động hoàn thành một nhiệm vụ phụ thường bị bỏ qua mà không ai khác nhận. Mọi người ngạc nhiên thấy nhiệm vụ cuối cùng cũng xong. Quan trọng nhất là sếp của {0.SimFirstName}, người rất ấn tượng, gần như thăng chức...
+Sinh nhật Sếp!
+{0.SimFirstName} muốn mua quà sinh nhật cho {M0.his}{F0.her} sếp, nhưng không thể rời công sở để mua. {M0.he}{F0.she} nên làm thế nào?
+Tự làm Quà
+Đặt trực tuyến
+{0.SimFirstName} thử làm thứ gì đó với đồ trên bàn làm việc của {M0.him}{F0.her}, nhưng trở nên bối rối. Sếp của {M0.him}{F0.her} bước tới, hỏi và vui vẻ vì cử chỉ đó. {0.SimFirstName} có thể rời đi với cảm giác tốt về nỗ lực trực tiếp từ sếp trong ngày sinh nhật.
+{0.SimFirstName} đoán {M0.his}{F0.her} sếp muốn gì và hoàn toàn sai. May mắn là sếp của {M0.him}{F0.her} khá tốt bụng. Quan trọng là tấm lòng!
+{0.SimFirstName} biết {M0.his}{F0.her} sếp thích ăn ở nhà hàng sang, nên {M0.he}{F0.she} nhanh chóng đặt phiếu quà tặng cho quán cà phê hải sản yêu thích của {M0.him}{F0.her}, Tuna Tortuga. Không mất thời gian, {0.SimFirstName} giải quyết được câu đố sinh nhật và hoàn thành công việc đúng hạn.
+{0.SimFirstName} là thiên tài trong việc tạo quà có ý nghĩa từ kẹp giấy, dây cao su và giấy photo. Sếp của {M0.him}{F0.her} thực sự ấn tượng với kỹ năng và sự thông minh của {M0.him}{F0.her}!
+Quản lý Thực tập sinh
+{0.SimFirstName} được giao nhiệm vụ huấn luyện và quản lý một thực tập sinh. {M0.he}{F0.she} nên xử lý thực tập sinh của {M0.him}{F0.her} thế nào?
+Giao Nhiệm vụ Khó
+Giao cho Pha cà phê
+{0.SimFirstName} cố gắng ném thực tập sinh vào vùng nước sâu, nhưng họ không thực sự đáp ứng được nhiệm vụ. {0.SimFirstName} kết thúc bằng việc dành nhiều thời gian huấn luyện thực tập sinh, nhưng sếp ấn tượng với khả năng đào tạo người mới của {M0.him}{F0.her}.
+Với thực tập sinh phụ trách pha cà phê, {0.SimFirstName} có thể tập trung vào {M0.his}{F0.her} nhiệm vụ khó khăn nhất với đầy caffeine và bàn chân được nghỉ ngơi. Đó là một ngày rực rỡ với tư cách là một quản lý!
+{0.SimFirstName} tin rằng nên ném thịt tươi vào vùng nước sâu và thực tập sinh chứng minh họ biết bơi. Giữa {0.SimFirstName} và Thực tập sinh, họ gần như gấp ba sản lượng làm việc thông thường và nhận được lời khen từ sếp!
+Hạn chết đến gần
+{0.SimFirstName} có một hạn chết lớn sắp đến và cần tìm cách hoàn thành nó. {M0.he}{F0.she} nên làm gì?

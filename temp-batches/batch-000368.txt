@@ -1,0 +1,100 @@
+Kẻ phản diện {1.SimFirstName} đã đánh bại {0.SimFirstName} bằng sức mạnh to lớn của {M1.him}{F1.her}. {0.SimFirstName} nên liếm vết thương của {M0.him}{F0.her} và thử lại!
+{0.SimFirstName} đang quá sợ hãi để làm việc này ngay bây giờ!
+(Từ trận đánh thắng kẻ trộm)
+(Từ trận đánh thua kẻ trộm)
+Đánh nhau với người đàn ông
+Cho Thời Gian Nghỉ Vì Đánh Nhau
+Khuyến Khích Đánh Nhau
+Cấm Đi Chơi Vì Đánh Nhau
+Yêu Cầu Không Đánh Nhau
+Nói Không Đánh Nhau
+Thể Hiện Sự Thất Vọng Vì Việc Đánh Nhau
+Ôm Tay Hòa Giải Vì Việc Đánh Nhau
+La Mắng Vì Đánh Nhau
+Không thể làm điều này khi đang bế trẻ sơ sinh
+{1.SimFirstName} không thể đang bế trẻ sơ sinh
+{0.SimFirstName} quá lịch sự để bắt đầu một trận đánh.
+Sao ngươi dám nghĩ mình có thể đánh bại ta! Ta đã giải quyết những tên du đãng như ngươi từ lâu trước khi ngươi ra đời.
+Ngươi có tập luyện không? Ta sẽ đánh bại ngươi bất cứ lúc nào, bất cứ nơi đâu.
+Đánh nhau với {1.SimFirstName}
+Đánh đi!
+{0.SimName} và {1.SimName} đều đang tham gia trận đánh đầu tiên trong đời!
+{0.SimName} đang tham gia trận đánh đầu tiên của {M0.him}{F0.her}!
+{1.SimName} đang tham gia trận đánh đầu tiên của {F1.her}{M1.his}!
+Bắt Đầu Đánh Cận Chiến với {1.SimFirstName}
+Kế Hoạch Giả Mặt Người Ngoài Hành Tinh
+{0.SimFirstName} đã thực hiện trò đùa này gần đây quá, và đồng nghiệp của {M0.him}{F0.her} sẽ không bất ngờ.
+Được {1.SimFirstName} Ôm
+Thể Hiện Tình Yêu
+{0.SimFirstName} quá tức giận để làm điều này!
+Được {1.SimFirstName} Khen
+Thể Hiện Sự Mến Mộ
+Thể Hiện Sự Mến Mộ Một Cách Không Đủ
+Ngắm Nhìn Kho Báu Cướp Biển
+Thể Hiện Sự Trân Trọng
+Lắng Nghe {1.SimFirstName}
+Thể Hiện Sự Ngưỡng Mộ
+Khen Phong Cách
+Lắng Nghe {0.SimFirstName}
+Tiết Lộ Tội Phạm Tối Cao!
+{1.SimFirstName} phủ nhận mọi kiến thức hoặc liên kết với Tội Phạm Tối Cao! Có lẽ là người khác...
+Bản năng của {0.SimFirstName} đúng. {1.SimFirstName} là một Tội Phạm Tối Cao xấu xa!\n\nĐến lúc cho {M1.him}{F1.her} biết ai là sếp!
+Được Yêu Cầu Trao Đổi Nhẫn Hứa
+Trao Đổi Nhẫn Hứa
+Bạn không thể làm điều này khi các Sim đang trao đổi nhẫn!
+Bạn không có đủ Mức Độ Lãng Mạn để Trao Đổi Nhẫn Hứa.
+{0.SimFirstName} đã được Hứa!
+Sim này đã được Hứa!
+Bạn không có đủ Mức Độ Bạn Bè để Trao Đổi Nhẫn Hứa.
+Truyền Giáo Về Phô Mai Nướng
+Phàn Nàn Về Chiếc Nhẫn Ngọc Cổ
+Nói Xấu Kẻ Thù
+Hỏi Trước Khi Gió Thổi
+Lắng Nghe Câu Hỏi của {1.SimFirstName}
+Hỏi Về Ngày
+Hỏi Về Mặt Trời và Cầu Vồng
+Kiểm Tra {1.SimFirstName}
+Hỏi Về Người Sói
+Lắng Nghe Câu Hỏi của {1.SimFirstName}
+Hỏi Về Sự Nghiệp
+Lắng Nghe Câu Hỏi của {1.SimFirstName}
+Hỏi Về Việc Già
+Hỏi Về Đồ Có Giá Trị
+Xin Lỗi... Trong Giường
+Xin Lỗi Trong Giường
+{1.SimFirstName} không muốn nghe lời xin lỗi của {0.SimFirstName} ngay bây giờ!
+Lắng Nghe Lời Xin Lỗi
+Xin Lỗi
+Lời Xin Lỗi Chân Thành
+Khuyến Khích Xin Lỗi
+Lời Xin Lỗi Mượt Mà
+Bị {1.SimFirstName} Làm Phiền
+Làm Phiền
+Bị {1.SimFirstName} Làm Sợ
+Còi Hơi
+Buộc Tội Là Kẻ Trộm
+(Từ việc Buộc Sai Sim Là Kẻ Trộm)
+Tương tác này sẽ thay đổi quan hệ xã hội thành Kẻ Thù nếu Sim là kẻ trộm.
+Thảo Luận Về Nỗi Sợ Cam Kết
+Lọ Trống
+Tự Sưởi Ấm
+Một cách chậm rãi và có chủ đích, {0.SimFirstName} quấn những lát thơm ngon xung quanh đủ loại vật thể ở nơi làm việc. Điện thoại, bàn phím, dụng cụ, và thậm chí cả một hai cây cối đều bị phủ đầy những miếng thịt xông khói. Trò đùa này được công nhận là ngon nhất trong lịch sử các trò đùa.
+Một cách chậm rãi và có chủ đích, {0.SimFirstName} quấn những lát thơm ngon xung quanh đủ loại vật thể ở nơi làm việc. Tuy nhiên, loài gặm nhấm và côn trùng đã chiếm đoạt những miếng thơm và chạy loạn xạ khắp văn phòng! Đồng nghiệp kinh ngạc và năng suất rơi xuống mức thấp kỷ lục.
+Trong khi {0.SimFirstName} cẩn thận xếp đặt vài cốc nước đầy trước lớp học của {M0.him}{F0.her}, một giáo viên đã đến trong lúc hành động nghịch ngợm! {0.SimFirstName} bị mắng mỏ nghiêm khắc vì hành vi không phù hợp này.\n \nHiệu suất học tập của {0.SimFirstName} đã giảm.
+Trong một sự thể hiện ngoại lệ của sự kiên định, {0.SimFirstName} tỉ mỉ xếp hàng trăm cốc nước đầy trước lớp học của {M0.him}{F0.her}, cùng vài cốc khác cho đủ. Không may, tháp đổ trước khi lớp học bắt đầu, dẫn đến rất nhiều công sức bị lãng phí và một đống cốc rỗng thảm hại.
+Trong một sự thể hiện ngoại lệ của sự kiên định, {0.SimFirstName} tỉ mỉ xếp hàng trăm cốc nước đầy trước lớp học của {M0.him}{F0.her}, cùng vài cốc khác cho đủ. Các giáo viên buộc phải từ từ tháo dỡ tháp nước, mang lại tiếng cười và một chút thời gian rảnh cho tất cả học sinh. Kẻ phạm tội chưa bao giờ được xác định.\n \n{0.SimFirstName} đã kiếm được:\n·Tăng Hiệu Suất Học Tập\n·Tăng Kỹ Năng Sáng Tạo
+Ban đầu, không có con chuột cống. Khi {0.SimFirstName} bước vào lớp học, điều đó đã không còn. Hàng trăm sinh vật lông xù nhỏ xảo xỉa qua các hành lang, mang lại vui sướng cho đa số và kinh hoàng cho một số. Đó là một trò đùa hoàn toàn thành công!\n \n{0.SimFirstName} đã tăng Kỹ năng Sáng tạo của {F0.her}{M0.his}.
+{0.SimFirstName} bị bắt quả tang bởi một giáo viên với một lồng đầy chuột cống, và không có cách nào để nói {M0.him}{F0.her} ra khỏi tình thế.\n \nHiệu suất học tập của {0.SimFirstName} đã giảm, và {M0.he}{F0.she} đã nhận thêm bài tập cho tuần tới như một hình phạt.
+{0.SimFirstName} kích động lũ geek trường học lên cơn điên, và chúng tấn công tập thể lũ jock và nhét chúng vào tủ liên. Cuối cùng, bàn tay đã đổi chủ!\n \n{0.SimFirstName} đã kiếm được 25 Simoleon.
+{0.SimFirstName} cố gắng thuyết phục lũ geek nổi dậy chống lại lũ jock, nhưng lũ jock nghe lén {0.SimPronounObjective}, và phá hỏng kế hoạch của {F0.her}{M0.his}. Giờ {F0.she}{M0.he} mới là người bị nhét vào tủ liên!\n \nHiệu suất học tập của {0.SimFirstName} đã giảm.
+Thật là xấu hổ! {0.SimFirstName} cố gắng nhét lũ geek đeo kính vào tủ liên, nhưng {F0.she}{M0.he} trượt trên một con xúc xắc 20 mặt và lũ geek đã trốn thoát!
+{0.SimFirstName} thông minh sắp xếp một dải xúc xắc 20 mặt dẫn thẳng đến một tủ liên mở. Lũ geks đã sa bẫy, và {0.SimFirstName} sập cửa tủ đóng gọn lũ geek có cánh tay ốm yếu vào bên trong!&#xD;&#xA;
+Chất Dính Dính Trong Mic
+{0.SimFirstName} lén lút nhét chất dính dính vào mic sau buổi biểu diễn của {F0.her}{M0.his}. Khi đồng nghiệp của {0.SimFirstName} biểu diễn, không ai trong khán giả có thể hiểu được một từ họ nói. Kết quả là, {0.SimFirstName} trở thành nghệ sĩ biểu diễn được ưa chuộng nhất đêm nay.\n \n{0.SimFirstName} đã kiếm được:\n·Tăng Hiệu Suất Công Việc.\n·Tăng Kỹ Năng Nghịch Ngợm.
+Thật thảm họa! Đồng nghiệp của {0.SimFirstName} đã tìm thấy Chất Dính Dính trước buổi biểu diễn của họ, và hoàn toàn phá hỏng trò đùa.
+Thầm kín, {0.SimFirstName} phát đáp án cho đề thi trắc nghiệm, chỉ thu vài Simoleon mỗi tờ gian lận. Tất nhiên, những đáp án này hoàn toàn bịa đặt và giúp {0.SimFirstName} vượt qua đề thi!\n \n{0.SimFirstName} đã kiếm được:\n·Tăng Hiệu Suất Học Tập.\n·Thưởng 300 Simoleon.
+Không may, không học sinh nào có thể bị thuyết phục rằng đáp án đề thi là thật. Để lại một chồng giấy trống, {0.SimFirstName} cố gắng giấu vật dụng trò đùa nhưng bị một giáo viên bắt được trong quá trình đó.\n \n{0.SimFirstName} đã bị gán thêm bài tập như hình phạt cho trò đùa này.
+Sắp Xếp Lại Phím Trên Bàn Phím
+{0.SimFirstName} làm bối rối đồng nghiệp của {F0.her}{M0.his} bằng cách hoán đổi phím 'T' và 'V' trên bàn phím của họ, và {0.SimFirstName} đã có thể vượt lên trước đối thủ trong công việc.\n \n{0.SimFirstName} đã kiếm được:\n·Tăng Hiệu Suất Công Việc.\n·Tăng Kỹ Năng Nghịch Ngợm.
+Khi {0.SimFirstName} đang ở giữa việc hoán đổi phím 'O' và 'P', sếp của {F0.her}{M0.his} bắt {0.SimPronounObjective} quả tang.\n \nHiệu suất công việc của {0.SimFirstName} đã giảm.
+Râu Cho Nghệ Thuật

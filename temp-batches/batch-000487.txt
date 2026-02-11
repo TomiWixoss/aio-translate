@@ -1,0 +1,100 @@
+Đạt cấp độ 2 kỹ năng Guitar hoặc Violin.
+Làm cho tâm trạng của Sim trở nên Tự Tin.
+Trở nên Tự Tin
+Nhấp vào Dĩa Bẩn và chọn tương tác Dọn Dẹp.
+\n&lt;b&gt;&lt;font color='#2182E6'&gt;Thu hoạch một cây trồng. Sử dụng Chậu Cây hoặc Máy Tính để Mua Hạt Giống. Đạt Cấp độ 4 Kỹ năng Tinh Thần. Đặt hạt giống xuống đất hoặc trong Chậu Cây và chọn Gieo Hạt. Sau đó Đạt Cấp độ 6 Kỹ năng Tinh Thần để Thu hoạch.&lt;/font&gt;&lt;/b&gt;\n\nTôi không chỉ muốn nhiều cây, tôi còn muốn một cây thực sự đặc biệt mà kết quả thật tuyệt! Tôi cá là tôi có thể làm được. Cây thích nước và nắng, và chúng không thích sâu bọ! Vì vậy đó là nơi tôi phải bắt đầu!
+"Tôi muốn thu hoạm một cây mà tôi tự mình trồng!"
+\n&lt;b&gt;&lt;font color='#2182E6'&gt;Có 5 Cây Trồng Sống trên Lô Đất Trong Nhà cùng một lúc. Sử dụng Chậu Cây hoặc Máy Tính để Mua Hạt Giống. Đạt Cấp độ 4 Kỹ năng Tinh Thần. Đặt hạt giống xuống đất hoặc trong Chậu Cây và chọn Gieo {1.Number} Cây. Chăm sóc cây khi chúng lớn để giữ chúng sống.&lt;/font&gt;&lt;/b&gt;\n\nTôi sẽ lấy được bàn tay xanh! Tất cả những gì tôi phải làm là có một loạt cây sống cùng một lúc. Nếu chúng chết thì không tính! Nó sẽ cần rất nhiều chăm sóc, nhưng tôi biết tôi có thể làm được!
+"Tôi sẽ có ít nhất 5 cây cùng một lúc... nhưng tất cả đều phải sống nếu không thì không tính."
+\n&lt;b&gt;&lt;font color='#2182E6'>&t;Câu {1.Number} Cá Hiếm. Mẹo: Kỹ năng Câu Cá của {0.SimFirstName} càng cao thì khả năng {0.SimPronounSubjective} {S0.has}{P0.have} bắt được Cá Hiếm càng tốt.&lt;/font&gt;&lt;/b&gt;\n\nTôi luôn nghe nói có rất nhiều cá ngoài biển! Tốt, tôi sẽ bắt một số. Nhưng không phải bất kỳ loại nào! Tôi sẽ bắt một số cá thực sự hiếm! Ít nhất {1.Number} con cá hiếm!
+"Tôi muốn bắt những con cá hiếm, khó bắt nhất từng tồn tại!"
+\n&lt;b&gt;&lt;font color='#2182E6'>&t;Khi trời Nóng hoặc Lạnh, hãy ra ngoài trong trang phục không phù hợp hoặc đứng gần các vật thể sẽ làm {0.SimFirstName} nóng hơn hoặc lạnh hơn. Làm cho {0.SimPronounObjective} trở nên nóng hoặc lạnh nguy hiểm. (Nhưng đừng chết!)&lt;/font&gt;&lt;/b&gt;\n\nBạn có biết một số Sim đông thành tượng băng hoặc bùng cháy thành ngọn lửa!? Tốt, điều đó sẽ không xảy ra với tôi! Tôi sẽ mạo hiểm, và trở nên siêu nóng hoặc siêu lạnh, và tôi sẽ chịu đựng được! Họ sẽ gọi tôi là Đứa Trẻ Mạo Hiểm!
+"Nếu tôi có thể chịu đựng nhiệt độ cực đoan, tôi sẽ chứng minh mình thực sự mạo hiểm và hoang dã!"
+\n&lt;b&gt;&lt;font color='#2182E6'>&t;Ăn Thực Phẩm Hư Thối để trở nên Buồn Nôn {1.Number} lần. Sau đó chịu đựng!&lt;/font&gt;&lt;/b&gt;\n\nĐược rồi, vậy thức ăn hỏng khá kinh tởm. Uck! Nhưng nếu tôi ăn, thì tôi sẽ buồn nôn. Và nếu tôi có thể chịu đựng điều đó, thì tôi sẽ &lt;i&gt;biết&lt;/i&gt; tôi là đứa trẻ cứng rắn, mạo hiểm nhất từng có! Không có gì làm tôi sợ!
+"Tôi sẽ mạnh mẽ nếu ăn thức ăn hỏng! Tôi cá là tôi có thể làm được {1.Number} lần!"
+\n&lt;b&gt;&lt;font color='#2182E6'>&t;Kiếm được một Cảm Tích Tích cực với Ma bằng cách tương tác với chúng.&lt;/font&gt;&lt;/b&gt;\n\nMa là một phần của quá khứ! Tôi không chỉ muốn gặp một con... Tôi muốn có một mối quan hệ thực sự đặc biệt với một con. Tôi muốn trở nên đặc biệt đối với Ma!
+"Tôi muốn có một kết nối thực sự đặc biệt với một Ma!"
+\n&lt;b&gt;&lt;font color='#2182E6'>&t;Kết bạn với một Ma.&lt;/font&gt;&lt;/b&gt;\n\nMa đã sống từ rất lâu trước! Điều đó có nghĩa là chúng chắc chắn biết rất nhiều về những gì đã xảy ra trong quá khứ. Nếu tôi muốn tìm hiểu về quá khứ, một Ma là Sim hoàn hảo để dạy tôi! Nếu tôi trở thành bạn của một con, tôi cá là chúng sẽ kể cho tôi nghe tất cả!
+"Ma biết &lt;i&gt;rất nhiều&lt;/i&gt; về quá khứ. Tôi cá nếu tôi kết bạn với một con, tôi cũng sẽ học được rất nhiều về nó!"
+\n&lt;b&gt;&lt;font color='#2182E6'>&t;Thu thập {1.Number} vật sưu tầm liên quan đến thiên nhiên. Chúng bao gồm: Hóa Thạch, Nguyên Tố, Kim Loại, và hơn nữa! Sau đó chọn chúng để Học Tập.&lt;/font&gt;&lt;/b&gt;\n\nNếu tôi muốn trở thành một &lt;i&gt;nhà khoa học thực thụ&lt;/i&gt; thì tôi cần nghiên cứu thế giới xung quanh! Tôi có thể làm điều đó với một bộ sưu tập! Tôi nên bắt đầu với cái nào?
+"Tôi cần thu thập ít nhất {1.Number} thứ khoa học để nghiên cứu! Nó được gọi là nghiên cứu!"
+\n&lt;b&gt;&lt;font color='#2182E6'>&t;Làm {1.Number} Thuốc thành công tại Bàn Khoa Học. Thuốc bắt đầu được mở khóa từ Cấp độ 4 Kỹ năng Tinh Thần.&lt;/font&gt;&lt;/b&gt;\n\nĐể tôi lấy ống nghiệm và kính hiển vi và &lt;i&gt;&lt;b&gt;PỒ&lt;/b&gt;&lt;/i&gt;—pha trộn một hay hai liều thuốc thật kỳ diệu! Nếu tôi làm được một liều thuốc, tôi là một trăm triệu phần trăm một nhà khoa học!
+"Ha ha ha! Tôi sẽ tạo ra một số &lt;i&gt;kỳ lạ&lt;/i&gt; liều thuốc khoa học!"
+\n&lt;b&gt;&lt;font color='#2182E6'>&t;Bơi trong {1.Number} Giờ.&lt;/font&gt;&lt;/b&gt;\n\nTôi không biết họ có bơi thời đó! Tôi cá tôi có thể giống như họ nếu tôi luyện tập bơi. Tôi không giữ hơi được lâu, vì vậy tôi sẽ phải rèn luyện để giỏi như họ trong cuốn album ảnh đó!
+"Cuốn Album Ảnh Đội Bơi đó thật tuyệt! Tôi cá tôi cũng có thể bơi được nhiều như vậy!"
+\n&lt;b&gt;&lt;font color='#2182E6'>&t;Tạo {1.Number} Bức Vẽ trên Bàn Hoạt Động.&lt;/font&gt;&lt;/b&gt;\n\nCuốn album ảnh đó thật tuyệt! Tôi muốn trở thành một nghệ sĩ như thế một ngày nào đó! Nhưng bạn biết người ta nói gì không? Luyện tập làm nên sự hoàn hảo! Nếu tôi muốn giỏi như vậy... Tôi sẽ phải có rất nhiều nghệ thuật để làm.
+"Tôi sẽ tạo ra nghệ thuật của riêng mình! Giống như những bản phác thảo tôi tìm thấy trong cuốn album ảnh đó!"
+\n&lt;b&gt;&lt;font color='#2182E6'>&t;Thực hành và Chơi Nhạc trên Nhạc Cụ trong {1.Number} giờ.&lt;/font&gt;&lt;/b&gt;\n\nTôi muốn trở thành một nhạc công giống như những Sim trong cuốn album ảnh đó! Nó sẽ mất rất nhiều thời gian thực hành, nhưng tôi có thể làm được! Tôi chỉ cần một nhạc cụ. &lt;i&gt;Tôi hy vọng không ai phiền về tiếng ồn...&lt;/i&gt;
+"Tôi sẽ trở nên rất giỏi ở việc chơi nhạc để tôi có thể giống như những Sim từ cuốn album ảnh đó!"
+\n&lt;b&gt;&lt;font color='#2182E6'>&t;Sử dụng Lò Vi Sóng hoặc Tủ Lạnh để Ăn một Bữa Ăn Nhanh hoặc Uống một Đồ Uống {1.Number} lần.&lt;/font&gt;&lt;/b&gt;\n\nCó những cách an toàn, được người lớn chấp thuận để tôi có thể tự nấu ăn! (Thực ra, tôi chỉ không được dùng lò nướng...) Vì vậy tôi sẽ làm một số trong số đó! Nếu tôi làm đủ, điều đó sẽ chứng minh rằng tôi thực sự có thể tự nuôi bản thân!
+"Tôi sẽ tự nấu ăn {1.Number} lần tất cả bằng chính mình! Điều đó sẽ chứng minh tôi có thể làm được."
+\n&lt;b&gt;&lt;font color='#2182E6'>&t;Một Sim Thiếu niên hoặc lớn hơn chọn Đồng Thuận Nấu Ăn cùng {0.SimFirstName} {1.Number} lần. Điều này có thể được thực hiện trên Bàn, Lò Nướng, hoặc Tủ Lạnh.&lt;/font&gt;&lt;/b&gt;\n\nNgười lớn biết rất nhiều về nấu ăn. Nếu tôi muốn giỏi về nó, thì tôi có thể học được rất nhiều từ họ. Hơn nữa, điều đó &lt;i&gt;có lẽ&lt;/i&gt; an toàn hơn...
+"Nếu tôi muốn học cách tự nuôi bản thân, tôi nên &lt;i&gt;chắc chắn&lt;/i&gt; nấu ăn cùng ai đó lớn tuổi hơn tôi trước. Để học hỏi."
+\n&lt;b&gt;&lt;font color='#2182E6'>&t;Thu thập {1.Number} vật sưu tầm liên quan đến thiên nhiên. Chúng bao gồm Ếch, Côn Trùng, và Bướm.&lt;/font&gt;&lt;/b&gt;\n\nTôi thậm chí không biết có bao nhiêu ếch và côn trùng ngoài kia? Chắc chắn &lt;i&gt;rất nhiều&lt;/i&gt;. Nếu tôi muốn thực sự đam mê thiên nhiên, thì tôi tốt hơn nên thử thách bản thân bắt đầu một bộ sưu tập và tìm thấy một số! Đó là một ý tưởng tuyệt vời!
+"Thiên nhiên ở khắp mọi nơi. Tôi sẽ khám phá càng nhiều càng tốt và bắt đầu một bộ sưu tập!"
+\n&lt;b&gt;&lt;font color='#2182E6'>&t;Vào Chế độ Tạo Sim và đặt Sở Thích Màu Sắc của Sim này. Chúng cũng có thể được khám phá bằng cách nói chuyện với các Sim khác về màu sắc hoặc bằng cách làm Móng Tay tại Spa (&lt;i&gt;Ngày Spa&lt;/i&gt;).&lt;/font&gt;&lt;/b&gt;\n\nVì vậy tôi biết màu sắc của mình...nhưng màu nào là những màu tốt nhất? Những màu nào làm &lt;i&gt;tôi&lt;/i&gt; &lt;b&gt;nổi bật&lt;/b&gt;? Tôi có một số việc phải tính toán nghiêm túc.
+"Tôi yêu màu nào và ghét màu nào? Cần phải tìm hiểu điều đó!"
+\n&lt;b&gt;&lt;font color='#2182E6'>&t;Chọn {0.SimFirstName}, một Tủ Quần Áo, Gương, hoặc các đối tượng tương tự để Lập Kế Hoạch hoặc Thay Đổi Trang Phục {1.Number} lần.&lt;/font&gt;&lt;/b&gt;\n\nĐiểm gì trong việc thiết kế những trang phục thời trang, &lt;i&gt;nghệ thuật&lt;/i&gt; nhất nếu không ai nhìn thấy chúng?! Tôi cần phải khoe ra rất nhiều phong cách khác nhau để cho &lt;i&gt;thương hiệu&lt;/i&gt; của tôi bắt đầu lan tỏa.
+"Tôi cần được nhìn thấy trong những trang phục &lt;i&gt;tuyệt vời&lt;/i&gt; của mình."
+\n&lt;b&gt;&lt;font color='#2182E6'>&t;Sử dụng một Tủ Quần Áo hoặc Gương để Lập Kế Hoạch Trang Phục.&lt;/font&gt;&lt;/b&gt;\n\nTôi có rất nhiều ý tưởng trang phục! Tôi cá nếu thế giới thấy những gì tôi có thể làm, phong cách của tôi sẽ &lt;i&gt;siêu thời trang&lt;/i&gt; trong chớp mắt! Chúng chỉ cần có nét chạm 'tôi'!
+"Tôi sẽ lập kế hoạch cho trang phục mát, thời trang nhất từng có!"
+\n&lt;b&gt;&lt;font color='#2182E6'>&t;Lấy Rác hoặc Dọn Dĩa Bẩn {1.Number} lần.&lt;/font&gt;&lt;/b&gt;\n\nGiúp đỡ quanh nhà và dọn dẹp là một trong những cách tốt nhất để hữu ích! Mọi người cần phải làm phần việc của mình, và tôi biết tôi sẽ làm! Chắc chắn rồi!
+"Tôi có thể cho thấy mình hữu ích như thế nào bằng cách giúp đỡ và dọn dẹp!"
+\n&lt;b&gt;&lt;font color='#2182E6'>&t;Chơi trò chơi trên Máy Chơi Game và giành chiến thắng {1.Number} lần.&lt;/font&gt;&lt;/b&gt;\n\nCách tốt nhất để chứng minh bạn giỏi ở một việc gì đó là thắng! Vì vậy nếu tôi chơi game và thắng, thì tôi giỏi về nó! Nhưng nó không thể chỉ một lần. Đó có thể là một sự may mắn!
+"Để giỏi về game, tôi cần phải chứng minh và thắng ít nhất {1.Number} trò chơi trên máy chơi game."
+\n&lt;b&gt;&lt;font color='#2182E6'>&t;Nghe Nhạc trên Dàn Âm Thanh hoặc Đài Phát Thanh để có được Sở Thích cho {0.SimFirstName}.&lt;/font&gt;&lt;/b&gt;\n\nCó rất nhiều âm nhạc hay ngoài kia, nhưng loại nào là &lt;i&gt;yêu thích&lt;/i&gt; của &lt;i&gt;tôi&lt;/i&gt;? Tôi đoán tôi vẫn phải tìm hiểu điều đó. Tôi nên nghe một số thứ và xem cái nào bám vào!
+"Vậy... tôi thực sự thích loại nhạc nào? Tôi cần phải tìm hiểu điều đó trước."
+\n&lt;b&gt;&lt;font color='#2182E6'>&t;Làm và bán các vật phẩm để kiếm được Simoleon.&lt;/font&gt;&lt;/b&gt;\n\nMột Sim kinh doanh tốt, đúng mực cần một ý tưởng kinh doanh vững chắc. Đó là quy tắc số một! Có lẽ tôi có thể làm ra một thứ gì đó và bán nó?! Vâng, đó sẽ là một ý tưởng kinh doanh tốt!
+"Tôi cá tôi có thể kiếm được {1.Number} Simoleon! Điều đó sẽ chứng minh tôi là một đứa trẻ kinh doanh thành công."
+Đạt Cấp độ 8 của Sự Nghiệp Ẩm Thực
+Nhấp vào Tủ Lạnh, chọn Nấu Ăn, và chọn một công thức từ danh sách. Di chuột qua thức ăn để kiểm tra chất lượng của nó! Những Sim có Kỹ năng cao có khả năng tạo ra thức ăn chất lượng cao hơn.
+Để tham gia Sự Nghiệp Ẩm Thực, nhấp vào Điện Thoại hoặc Máy Tính và chọn tương tác Tìm Công Việc. Để được thăng chức, hoàn thành các Yêu Cầu Thăng Chức và đi làm trong Tâm Trạng Lý Tưởng của Sự Nghiệp.
+Đạt Cấp độ 4 của Sự Nghiệp Ẩm Thực
+Để Ăn Mừng, nhấp vào bếp ga để chọn Công Thức Bánh. Sau đó, thêm Nến Sinh Nhật và sau đó Ăn Mừng khoảnh khắc!
+Nhấp vào Điện Thoại để Lập Kế Hoạch cho Sự Kiện Tiệc Tối. Một khi Sự Kiện bắt đầu, hoàn thành các Mục Tiêu xuất hiện để kiếm được điểm số cao hơn!
+Để nấu một bữa ăn cao cấp, một Sim phải có Cấp độ 5 Kỹ năng Nấu Ăn. Nhấp vào Tủ Lạnh, chọn Nấu một Bữa Ăn Cao Cấp, và chọn một công thức từ danh sách.
+Nấu một Bữa Ăn Cao Cấp
+Để tăng kỹ năng Nấu Ăn của Sim, sử dụng Tủ Lạnh hoặc Bếp Ga để làm thức ăn, Xem Kênh Nấu Ăn trên TV, hoặc đọc Sách Kỹ năng Nấu Ăn. Sách Kỹ năng có thể được mua trực tiếp từ Kệ Sách bằng cách sử dụng tương tác Mua Sách!
+Đạt Cấp độ {1.Number} Kỹ năng Nấu Ăn
+Nhấp vào Tủ Lạnh, chọn Nấu Ăn, và chọn một công thức từ danh sách.
+Để tăng kỹ năng Pha Chế, sử dụng Quầy Bar để Pha Đồ Uống, Phục vụ Tại Quầy Bar, hoặc đọc Sách Kỹ năng Pha Chế. Sách Kỹ năng có thể được mua trực tiếp từ Kệ Sách bằng cách sử dụng tương tác Mua Sách!
+Để tham gia chi nhánh Pha Chế, trước tiên phải tiến qua sự nghiệp Ẩm thực bằng cách hoàn thành Yêu Cầu Thăng Chức và đi làm trong Tâm Trạng Lý Tưởng của Sự Nghiệp.
+Để tham gia một sự nghiệp, nhấp vào Điện Thoại hoặc Máy Tính và chọn tương tác Tìm Công Việc.
+Nhấp vào Quầy Bar, chọn Pha Đồ Uống, và chọn một công thức từ danh sách. Di chuột qua đồ uống để kiểm tra chất lượng của nó! Những Sim có Kỹ năng cao có khả năng tạo ra đồ uống chất lượng cao hơn.
+Tham gia Sự Nghiệp Ẩm Thực
+Nhấp vào Điện Thoại để Lập Kế Hoạch cho Sự Kiện Tiệc Xã Hội. Một khi Sự Kiện bắt đầu, nhấp vào Quầy Bar, chọn Pha Đồ Uống, và chọn một công thức từ danh sách.
+Để tăng kỹ năng Pha Chế, sử dụng Quầy Bar để Pha Đồ Uống, Phục vụ Tại Quầy Bar, hoặc đọc Sách Kỹ năng Pha Chế. Sách Kỹ năng có thể được mua trực tiếp từ Kệ Sách bằng cách sử dụng tương tác Mua Sách!
+Đạt Cấp độ {1.Number} Kỹ năng Pha Chế
+Quầy Bar và Ghế Quầy Bar có thể được mua từ Chế độ Xây dựng dưới thể loại Phòng Ăn.
+Sở hữu 2 Ghế Quầy Bar
+Nhấp vào Quầy Bar, chọn Pha Đồ Uống, và chọn một công thức từ danh sách.
+Trở thành Bạn Tốt với {1.Number} Trẻ Em hoặc Cháu
+Có {1.Number} Cháu
+Có một Đứa Trẻ hoặc Cháu Đạt Đỉnh của một Sự Nghiệp
+Có một Đứa Trẻ Hoàn thành một Khát Vọng
+Có một Đứa Trẻ Kết Hôn
+Có một Đứa Trẻ Đạt Cấp Tối Đa Bất kỳ Kỹ năng nào
+Có một Đứa Trẻ Kiếm được "A" trong Trường Cấp 3
+Trở thành Cha Mẹ
+Giúp Đứa Trẻ với Bài Tập về Nhà {1.Number} Lần
+Chi Tiêu §1,000 cho Đồ Chơi Trẻ Em
+Nhấp vào trẻ em hoặc cháu của Sim và thực hiện các Tương tác Thân Thiện hoặc Hài Hước để tăng Mối Quan Hệ!
+Nhìn thấy con cái của Sim có ít nhất {1.Number} con của chúng. Điều này có thể được thực hiện thông qua hôn nhân, nhận con, hoặc các phương pháp "cổ điển" hơn (wink wink.)
+Nhấp vào một Đứa Trẻ mà bạn là Cha Mẹ, Người Chăm Sóc Phụ Thuộc, hoặc Ông Bà của và chọn bất kỳ Tương tác Xã Hội nào.
+Xã Hội với Con hoặc Cháu của Bạn {1.Number} Lần
+Có đứa trẻ của Sim này kết hôn và bắt đầu một gia đình riêng!
+Nhấp vào đứa trẻ của Sim và thực hiện các Tương tác Thân Thiện hoặc Hài Hước để tăng Mối Quan Hệ!
+Là Bạn với 3 Trong số Con Cái của Bạn
+Nhấp vào một Sim và thực hiện các Tương tác Thân Thiện hoặc Hài Hước để tăng Mối Quan Hệ và trở thành Bạn!
+Là Cha Mẹ của một Đứa Trẻ có 3 Bạn
+Có một trong số con cái hoặc cháu của Sim đạt cấp độ tối đa của một sự nghiệp. Để được thăng chức, hoàn thành các Yêu Cầu Thăng Chức và đi làm trong Tâm Trạng Lý Tưởng của Sự Nghiệp.
+Với một đứa trẻ Sim được chọn, chọn một Khát Vọng từ Bảng Khát Vọng. Khát Vọng Trẻ Em tập trung vào xây dựng Kỹ năng như Sáng Tạo, Tinh Thần, Vận Động, và Xã Hội.
+Cha Mẹ có thể Khuyến Khích con cái của họ bằng cách sử dụng Bàn Hoạt Động. Họ cũng có thể Làm Gương cho chúng trong nhiều Kỹ năng khác nhau một khi chúng đã lớn lên.
+Làm Gương cho Con của Bạn {1.Number} Lần
+Làm cho đứa trẻ của Sim đạt cấp tối đa bất kỳ kỹ năng trẻ em nào! Nếu chúng đã lớn lên, việc đạt cấp tối đa bất kỳ kỹ năng người lớn nào cũng sẽ hoạt động!
+Để đạt được thứ hạng A trong trường cấp 3, hoàn thành Bài Tập về Nhà và Yêu Cầu Cấp Lớp. Đi học trong khi Tập Trung cũng sẽ giúp ích!
+Nhấp vào đứa trẻ Sim đang làm bài tập về nhà và chọn tương tác Giúp với Bài Tập về Nhà.
+Nhấp vào một Đứa Trẻ mà bạn là Cha Mẹ hoặc Người Chăm Sóc Phụ Thuộc của và chọn bất kỳ Tương tác Xã Hội nào.
+Xã Hội với Con của Bạn {1.Number} Lần
+Đồ chơi trẻ em có thể được mua từ Chế độ Xây dựng dưới thể loại Chức Năng Trẻ Em.
+Nhấp vào một Sim của giới khác và chọn Thử Cho Bé từ danh mục Lãng Mạn. Để có con, các Sim phải có Mối Quan Hệ Lãng Mạn cao với Sim mà họ sẽ Thử Cho Bé với. Một cách khác, nhận nuôi một Sim từ Máy Tính!

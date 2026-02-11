@@ -1,0 +1,100 @@
+Generic Freelancer Great Success End TNS  [Không hiển thị cho người chơi]
+Generic Freelancer Failure End TNS [Không hiển thị cho người chơi]
+Dự án tự do bị hủy. Điều này sẽ ảnh hưởng xấu đến hiệu suất công việc của {0.SimFirstName}.
+Khách hàng của {0.SimFirstName} tức giận vì {M0.he}{F0.she} đã không hoàn thành bất kỳ mục tiêu nào trước hạn dự án. Sự bất cẩn của {M0.him}{F0.her} đã dẫn đến mất mát đáng kể về hiệu suất công việc.
+{0.SimFirstName} nhận được giải Đồng!
+{0.SimFirstName} nhận được giải Bạc!
+{0.SimFirstName} nhận được giải Vàng!
+{0.SimFirstName} nhận được giải Đồng thau!
+Trường Tiểu học Landgraab
+{0.SimFirstName} đi đến buổi họp Hội kỳ sinh
+Bỏ hoạt động ngoại khóa
+Bạn có chắc {0.SimFirstName} nên từ chức vụ {2.String} không?
+Đi đến buổi họp Hội kỳ sinh
+Bỏ buổi họp Hội kỳ sinh
+{0.SimFirstName} đang hơi bận. {M0.He}{F0.She} vẫn nên đi đến buổi họp Hội kỳ sinh không?
+{0.SimFirstName} đã rời {3.String}.
+{0.SimFirstName} đã được thăng chức lên {1.String}!
+{0.SimFirstName} đã được thăng chức lên {1.String}!\n\n{M0.He}{F0.She} cũng đã nhận được phần thưởng sau:\n{8.String}\n\n
+{0.SimFirstName} đã được ghi nhận vì sự cống hiến tuyệt vời!
+Bị đuổi
+Tin xấu! {0.SimFirstName} đã bị sa thải.
+{0.SimFirstName} đã nghỉ phép.
+Người phối hợp của tôi đang gọi. Tôi nên nghe không?
+Buổi họp Hội kỳ sinh cho {0.SimFirstName} sẽ bắt đầu trong khoảng một giờ.
+Đi đến buổi họp Hội kỳ sinh
+Hoạt động tình nguyện cho {0.SimFirstName} sẽ bắt đầu trong khoảng một giờ. Bạn muốn làm gì?
+{0.SimFirstName} đi đến buổi họp Hội kỳ sinh của {M0.him}{F0.her}!
+{0.SimFirstName} đã trở về từ buổi họp Hội kỳ sinh của {M0.him}{F0.her}
+&lt;font color='#03ADEE'&gt;Nghỉ phép - {1.Number} {S1.day}{P1.days} đã kiếm được. &lt;/font&gt;
+&lt;font color='#03ADEE'&gt;Nghỉ phép&lt;/font&gt;
+Có vẻ như {0.SimFirstName} đang gặp vấn đề với bảng chữ cái. {M0.He}{F0.She} dường như không vượt qua được chữ 'A'! Chúc mừng!
+{0.SimFirstName} đã trở về từ trường. {M0.He}{F0.She} là một trong những học sinh xuất sắc nhất tại {3.String}. Tiếp tục phát huy!
+Tuyệt vời! {0.SimFirstName} chắc chắn có thể tận hưởng cuối tuần với tư cách là một trong những học sinh xuất sắc nhất tại {3.String}. Có lẽ {M0.he}{F0.she} nên dành thời gian cho các bài tập thêm, đề phòng.
+Không có cảm giác nào tuyệt hơn là bắt đầu cuối tuần với tư cách học sinh toàn A. {0.SimFirstName} nên cảm thấy tự hào!
+Chắc chắn mong {0.SimFirstName} dành cuối tuần để tập trung vào bài tập. Nhận những điểm thấp như vậy có thể ảnh hưởng đến tương lai của {M0.him}{F0.her}!
+Nhận điểm D ở trường không phải chuyện đùa. {0.SimFirstName} nên dùng cuối tuần để suy ngẫm và nỗ lực hơn trong việc học.
+{0.SimFirstName} đã xong việc học trong ngày. Một 'B' không phải là điểm xấu, nhưng điều đó không có nghĩa là không còn không gian để cải thiện.
+Trường đã tan học trong ngày. {3.String} đầy rẫy học sinh 'B'. {0.SimFirstName} là một trong số đó. Có lẽ {M0.he}{F0.she} nên cố gắng nổi bật hơn?
+Trường tan học rồi, và {0.SimFirstName} không học giỏi lắm. Thực tế, {M0.he}{F0.she} học rất kém.
+{0.SimFirstName} đã trở về từ trường và bảng điểm của {M0.him}{F0.her} đầy rẫy điểm D. Điều đó chắc chắn không dễ chịu cho ai cả.
+{0.SimFirstName} đã xong việc học trong ngày. {M0.He}{F0.She} làm việc một cách đủ đầy, nhưng các giáo viên của {M0.him}{F0.her} tại {3.String} nghĩ rằng {M0.he}{F0.she} có thể dễ dàng cải thiện với chỉ một chút nỗ lực thêm.
+{0.SimFirstName} đã về nhà từ trường. Không cần phải dành chỗ trên cửa tủ lạnh... Công việc của {M0.him}{F0.her} chỉ mức độ đủ đầy.
+{0.SimFirstName} đã trở về từ trường. Cuối tuần là thời điểm tuyệt vời để biến B thành A. {M0.He}{F0.She} có thể tập trung vào việc đó, có lẽ.
+{0.SimFirstName} đã xong việc học trong tuần. {M0.He}{F0.She} học khá, nhưng nỗ lực thêm một chút sẽ không sao. Có lẽ cuối tuần là thời điểm tốt để làm vậy.
+Đó là cuối tuần. {0.SimFirstName} kết thúc tuần này với điểm 'C' ở trường. Điều đó thực sự đủ đầy à?
+{0.SimFirstName} không phải là học sinh 'C' đầu tiên tại {3.String}, và chắc chắn {M0.he}{F0.she} cũng không phải là người cuối cùng. Cuối tuần có phải là thời điểm tuyệt vời để {0.SimPronounObjective} nâng điểm lên không?
+{0.SimFirstName} đang trượt! {M0.He}{F0.She} cần hành động và cải thiện những điểm số đó nếu {M0.he}{F0.she} muốn có một tương lai tươi sáng.
+Điểm F! {0.SimFirstName} đang học cực kỳ tệ ở trường. {M0.He}{F0.She} nên sửa mình sớm!
+{0.SimFirstName} đang trượt! {M0.He}{F0.She} nên dùng cuối tuần để tập trung vào bài tập. Bằng cách này, {M0.he}{F0.she} sẽ có cơ hội không bị xuất hiện trong Đại sảnh Bỏ học nổi tiếng của {3.String}.
+Một tuần học khác đã kết thúc và {0.SimFirstName} đã khẳng định {M0.him}{F0.her}self là một trong những học sinh xếp hạng thấp nhất của {3.String}. Thật đáng xấu hổ!
+(Từ Cải thiện Điểm số)
+{0.SimFirstName} nên mời bạn học {1.SimFirstName} đến không?
+(Từ Giảm Điểm số)
+Lấy ngày nghỉ phép
+Bỏ học
+Đi đến trường
+{0.SimFirstName} đang hơi bận. {M0.he}{F0.she} vẫn nên đi đến trường không?
+Điểm số Tăng
+Điểm số Giảm
+Hiệu trưởng đang gọi. Nghe không?
+Cục cưng {0.SimFirstName} đang bỏ học! Nếu {M0.he}{F0.she} bỏ quá nhiều ngày thì điểm số của {M0.him}{F0.her} sẽ bị ảnh hưởng...
+{0.SimFirstName} đã nghỉ việc với tư cách là một {2.String}. {M0.He}{F0.She} quyết định đã đến lúc theo một hướng đi mới trong sự nghiệp.
+Tự Do TAR-SYS
+Lời Nói Xung Đột
+Chuyên Gia Máy Tính
+{0.SimFirstName} đã ngừng theo đuổi công việc với tư cách là một {2.String}. {M0.He}{F0.She} quyết định đã đến lúc theo một hướng đi mới trong sự nghiệp.
+Hạn chót cho hợp đồng tự do của {0.SimFirstName} sắp đến! Hoàn thành bất kỳ nhiệm vụ còn lại nào trước khi quá muộn.
+Dewey, Cheatem & Howe Incorporated
+Đội Thể Thao Khác
++Kỹ năng Chơi Game Video
+Khó chịu
+Trang trí Tập trung:
+Trang trí Tức Giận:
++Kỹ năng Violin
+Bàng quang:
++Kỹ năng Hài hước
++Kỹ năng Guitar
++Kỹ năng Nấu ăn
+Chất lượng Đồ uống:
++Kỹ năng Khéo léo
+Giải quyết Chán nản:
+Chất lượng Mộc:
+Trang trí Truyền cảm hứng:
+Giải quyết Tức giận:
+Trang trí Lãng mạn:
++Kỹ năng Quậy phá
++Kỹ năng Trồng trọt
+Trang trí Tự tin:
+Hỗ trợ Trẻ sơ sinh
++Kỹ năng Nhảy
+Dấu chân Môi trường Xanh:
+Chỉ Cho Thú cưng
++Kỹ năng Thú y
++Kỹ năng Nhảy (Kỹ năng Ngựa)
++Khả năng Chống Cháy Cao
++Khả năng Chống Nước Thấp
++Khả năng Chống Cháy Thấp
++Kỹ năng Xã hội
++Kỹ năng Sáng tạo
+Hỗ trợ Trẻ em

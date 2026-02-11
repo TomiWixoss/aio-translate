@@ -1,0 +1,100 @@
+Khoan Thăm Dò Mạng
+Tự Nhiên
+Giữ Im Lặng
+Giúp Đỡ Thiên Tài
+Ngắt Lời
+Thích Ứng
+Lấy Ra Trò Đùa
+Giữ Trong Bụng
+Thêm Gia Vị
+Tuân Thủ Kịch Bản
+{0.SimFirstName} quyết định nhận công việc biểu diễn tại một bữa tiệc sinh nhật cho trẻ em. Việc này có khó khăn gì đâu? Khi đứa trẻ yêu cầu {M0.anh ấy}{F0.cô ấy} tung hứng, {M0.anh ấy}{F0.cô ấy} không chắc {M0.anh ấy}{F0.cô ấy} còn nhớ cách làm. {M0.Anh ấy}{F0.Cô ấy} có thể thử - không món gì ở đây dễ vỡ lắm - hoặc cố gắng làm đứa trẻ xao nhãng.
+{0.SimFirstName} đã luyện tập mãi một đoạn nhạc và vẫn chưa thể chơi đúng. Điều này khiến {M0.anh ấy}{F0.cô ấy} hơi bực bội. {M0.Ann ấy}{F0.Cô ấy} nên tiếp tục, hay nghỉ ngơi một chút?
+{0.SimFirstName} hy vọng kiếm thêm tiền bằng cách dạy piano cho các bạn nhỏ trong khu phố, nhưng học sinh đầu tiên của {M0.anh ấy}{F0.cô ấy} lại đổ nước soda lên phím đàn. {M0.Anh ấy}{F0.Cô ấy} có thể bảo cậu bé man rợ quay lại tuần sau, khi đàn đã được sửa, hoặc tính tiền cho mẹ cậu bé về việc vệ sinh và sửa chữa.
+Được thuê chơi piano cho một sự kiện riêng trang trọng, {0.SimFirstName} quên không lấy {M0.vest dự tiệc}{F0.váy dự tiệc} ở tiệm cho thuê. Không còn thời gian và lựa chọn có hạn, {M0.anh ấy}{F0.cô ấy} có thể mượn chiếc hơi chật, hoặc mặc đơn giản và hy vọng không ai để ý.
+Trong khi biểu diễn tại một bữa tiệc riêng, {0.SimFirstName} bỗng nhiên tê liệt. Dòng tiếp theo là gì? {M0.Anh ấy}{F0.Cô ấy} có thể ứng biến hoặc đơn giản là dừng lại để giữ thể diện.
+Sau một vở kịch thường lệ tại một câu lạc bộ hài kịch, {0.SimFirstName} nhận ra phiếu lương của {M0.anh ấy}{F0.cô ấy} hơi ít. {M0.Anh ấy}{F0.Cô ấy} có thể đi gặp chủ ngay bây giờ, hoặc đợi đến vở kịch thứ hai sau này.
+{0.SimFirstName} biết rằng việc bắt đầu vở kịch hài của {M0.anh ấy}{F0.cô ấy} muộn như vậy không phải ý tưởng hay. Khán giả trở nên ồn ào, và {M0.anh ấy}{F0.cô ấy} sắp mất kiểm soát. {M0.Anh ấy}{F0.Cô ấy} có thể hét lên để gây chú ý, hoặc bỏ cuộc và dừng vở kịch.
+Không dễ tìm thấy quán piano ngày nay, nhưng {0.SimFirstName} lại may mắn. {M0.Ann ấy}{F0.Cô ấy} chơi những giai điệu buồn, ngọt ngào khiến mọi người cảm thấy dễ chịu, cho đến khi một người hâm mộ cũ quay lại và chiếm ghế đàn cho chính mình. {0.SimFirstName} có thể phản ứng hai cách: đề nghị để anh ta chơi một chút, hoặc bảo anh ta rời đi.
+Nhạc hiệu khoan giàn khoan của {0.SimFirstName} sắp được phát sóng thì {M0.anh ấy}{F0.cô ấy} nhận ra một quảng cáo deodorant dành cho nữ lại sử dụng giai điệu rất giống. Tệ hơn nữa, {M0.anh ấy}{F0.cô ấy} không nhớ {M0.anh ấy}{F0.cô ấy} đã nghe thấy nó trước hay sau khi {M0.anh ấy}{F0.cô ấy} sáng tác nhạc hiệu. {0.SimFirstName} có thể báo cho {M0.anh ấy}{F0.cô ấy} khách hàng, hoặc hy vọng không ai để ý.
+{0.SimFirstName} đang ở một bữa tiệc sinh nhật của bạn bè thì mọi thứ lặng đi. Để làm không khí sôi nổi {M0.anh ấy}{F0.cô ấy} thử vài trò đùa từ vở kịch mới nhất, nhưng không nhận được phản ứng nào từ khách mời. {M0.Anh ấy}{F0.Cô ấy} có thể tăng cường, hoặc dừng lại.
+Ôi không. {0.SimFirstName} nhận ra {M0.anh ấy}{F0.cô ấy} bị lịch trùng: vừa phải chơi piano cho một bữa tiệc riêng của một ngôi sao, vừa phải tham gia sự kiện từ thiện cho nạn đói ở thế giới thứ ba. Lý do tốt có thể là một lối thoát cho {M0.anh ấy}{F0.cô ấy}, nhưng ngôi sao đó lại nổi tiếng với tính nóng và... những bữa tiệc tuyệt vời.
+{0.SimFirstName} được mời cộng tác viết kịch bản cho Giải thưởng Âm nhạc, để hỗ trợ người dẫn chương trình, nhưng kịch bản cuối cùng không chứa bất kỳ trò đùa nào của {0.SimFirstName}. {M0.Anh ấy}{F0.Cô ấy} có thể làm ngơ và nhận một tấm séc đẹp, hoặc đấu tranh cho vài trò đùa hay nhất của {M0.anh ấy}{F0.cô ấy}.
+Vào cuối một bữa tiệc ra mắt xa hoa, {0.SimFirstName} hết tài liệu biểu diễn. {M0.Anh ấy}{F0.Cô ấy} có thể dễ dàng lặp lại vài bài hát mà không ai để ý, hoặc tranh thủ cơ hội thử một bản ballad pha trộn giữa nhạc cổ điển và rock thế giới mà {M0.anh ấy}{F0.cô ấy} đã sáng tác.
+Trong một cuộc thi hài kịch, một hài kịch gia khác lại dùng humor về phòng tắm. {0.SimFirstName} có thể tụt xuống mức độ của anh ta, hoặc cố gắng vươn lên trên mùi hôi và giữ sự sạch sẽ.
+{0.SimFirstName} đã tạo ra nhạc hiệu về lót mèo tuyệt vời nhất! Nhưng khi {M0.anh ấy}{F0.cô ấy} trình bày với khách hàng, Phó chủ tịch về "Việc Làm Đơn Giản Hóa Mọi Thứ" lại yêu cầu {0.SimPronounObjective} lồng từ "tiểu tiện" dựa trên nghiên cứu thị trường gần đây. {M0.Anh ấy}{F0.Cô ấy} nên thay đổi, hay chiến đấu cho nghệ thuật của {M0.anh ấy}{F0.cô ấy}?
+Ôi không. {0.SimFirstName} nhận ra {M0.anh ấy}{F0.cô ấy} bị lịch trùng cho một bữa tiệc của bạn bè, mà {M0.anh ấy}{F0.cô ấy} đã đồng ý làm miễn phí, và một sự kiện doanh nghiệp trả lương cao. {M0.Anh ấy}{F0.Cô ấy} nên từ bỏ khoản tiền và giúp bữa tiệc của bạn, hay tham gia sự kiện doanh nghiệp và bỏ rơi bạn bè?
+{0.SimFirstName} được mời nêu ly cạn chúc mừng trong đám cưới của {M0.anh ấy}{F0.cô ấy} là bạn thân. Cuối cùng cũng có một thính giả bị giam! {M0.Anh ấy}{F0.Cô ấy} nên an toàn và giữ những bí mật của bạn trong tủ kín, hay công khai tất cả trong hy vọng được cười và có thể cả một chỗ làm?
+{0.SimFirstName} vừa mới chinh phục được khán giả tại một sự kiện địa phương thì có kẻ thích được chú ý ghen tị bắt chế giễu {M0.anh ấy}{F0.cô ấy}. {M0.Anh ấy}{F0.Cô ấy} có thể phản ứng hai cách - đối mặt trực tiếp với "ông hài kịch gia", hoặc đáp trả những lời chế giễu bằng sự im lặng.
+Công việc thường xuyên là tuyệt vời, và người hâm mộ thường xuyên cũng vậy. Cho đến khi người hâm mộ của {0.SimFirstName} trở nên hỗn loạn. Khi {M0.một đám con gái nhảy trên bàn phá}{F0.một khu vực đông nam sinh đổ mồ hôi phá} 3 bàn khác nhau trong 3 đêm khác nhau, quản lý câu lạc bộ bảo {0.SimFirstName} kiểm soát hoặc rời khỏi sân khấu. {M0.Anh ấy}{F0.Cô ấy} sẽ đối mặt với {M0.anh ấy}{F0.cô ấy} người hâm mộ hay rời bữa tiệc?
+{0.SimFirstName} vô tình bắt gặp một đêm Open Mic tại một quán cà phê địa phương. Có thể là cơ hội tốt để luyện tập kỹ năng guitar của {M0.anh ấy}{F0.cô ấy}! {M0.Anh ấy}{F0.Cô ấy} nên chinh phục khán giả với vài bài cover được yêu thích hay chơi tài liệu gốc thay vào đó?
+{0.SimFirstName} đã đạt được vinh dự biểu diễn cùng một trong những nghệ sĩ cello xuất sắc nhất mọi thời đại - người cũng là một ảnh hưởng âm nhạc lớn. Nhưng trong khi họ đang luyện tập, {0.SimFirstName} nghe thấy một phần mà {M0.anh ấy}{F0.cô ấy} dường như đang chơi sai. {M0.Anh ấy}{F0.Cô ấy} có thể chỉ ra hay tin rằng vĩ nhân biết mình đang làm gì.
+{0.SimFirstName} là người dẫn chương trình cho một buổi tiệc báo chí đặc biệt cho một sản phẩm mới. {M0.Anh ấy}{F0.Cô ấy} đang trên đỉnh cao, chế giễu đối thủ, thì {M0.anh ấy}{F0.cô ấy} nhận ra {M0.anh ấy}{F0.cô ấy} đã chế giễu nhầm công ty. {M0.Anh ấy}{F0.Cô ấy} có thể giả vờ như {M0.anh ấy}{F0.cô ấy} biết lỗi của {M0.anh ấy}{F0.cô ấy} ngay từ đầu, hoặc nhanh chóng rút lui và hy vọng mọi người quên lỗi.
+Điều gì đáng sợ hơn những bản giao hưởng tối tăm nhất của Mozart? Một cô dâu không được如 ý. Hoặc ít nhất là cô dâu đang đứng trước mặt {0.SimFirstName} hét về một "danh sách nhạc" cổ điển mà {M0.anh ấy}{F0.cô ấy} được yêu cầu chuẩn bị. {M0.Anh ấy}{F0.Cô ấy} có thể xin lỗi vì lỗi, hoặc nhắc nhở cô dâu rằng cô ấy chưa bao giờ gửi nó.
+{0.SimFirstName} tham gia một cuộc thi hài kịch, nhưng ngay trước khi {M0.anh ấy}{F0.cô ấy} lên sân khấu, {M0.anh ấy}{F0.cô ấy} nhận ra người đi trước {0.SimPronounObjective} đang dùng những trò đùa từ set của {M0.anh ấy}{F0.cô ấy}. {0.SimFirstName} nên lên tiếng khi {M0.anh ấy}{F0.cô ấy} cầm mic, hay nhanh chóng nghĩ ra thứ gì đó mới?
+Cuối cùng! {0.SimFirstName} đã tìm thấy một công việc thực sự! Chà, được rồi, đó là đêm nghiệp dư và hầu như bất cứ ai có nhịp tim cũng có thể biểu diễn, nhưng {0.SimFirstName} chính thức có tên trong danh sách. {M0.Anh ấy}{F0.Cô ấy} nên mời bạn bè, hay xem đây là một buổi thử nghiệm riêng tư?
+Chỉ với vài lần gõ, {0.SimFirstName} tính toán một hành trình mới và nhập tọa độ. {M0.Anh ấy}{F0.Cô ấy} bay xa khỏi các tiểu hành tinh và thậm chí có được một cái nhìn đẹp về Bắc Cực Quang.
+{M0.Anh ấy}{F0.Cô ấy} ngắt khóa nhiên liệu và đổ hàng nghìn gallon nhiên liệu phụ trợ vào không gian. Sau đó, sĩ quan cấp trên cầm lái và họ hướng về bãi đậu xe không gian gần nhất.
+Có một xích mích nhỏ bên ngoài địa điểm khi một người hâm mộ hơi quá tay với ca sĩ. Cô ấy ổn, nhưng những người quản lý của cô ấy gây ra một mùi hôi với Hội đồng Sao khiến {0.SimFirstName} bị quy kết.
+{M0.Ann ấy}{F0.Cô ấy} không có điểm tốt lắm, nhưng {0.SimFirstName} vượt qua... vừa đủ.
+Hóa ra các phi hành gia đã lái shuttle đi chơi vui vẻ không được phép, và tất cả bị sa thải. Mặc dù {0.SimFirstName} không thích cảm giác như một người mách lẻo, {M0.anh ấy}{F0.cô ấy} sếp ghi nhận {M0.anh ấy}{F0.cô ấy} chú ý đến chi tiết. Ngoài ra, những phi hành gia đó cũng khá là kẻ khốn nạn.
+Không một ai có hàng cấm. Thực tế, họ đang ôn thi lớn. Đây chính xác là lý do tại sao Đội tuần tra Hành tinh không được phổ biến ở khu vực này. {0.SimFirstName} sẽ phải đối mặt với hậu quả từ việc này một thời gian...
+Điều này khiến {0.SimFirstName} nhớ đến trò chơi điện tử cũ về tiểu hành tinh - nó tên là BẮN PHÁ TIỂU HÀNH TINH. {M0.Anh ấy}{F0.Cô ấy} đi qua trường tiểu hành tinh mà không hề trầy xước lớp sơn của shuttle.
+Không việc tốt nào được đền đáp không phạt - {0.SimFirstName} mới bán hết {M0.anh ấy}{F0.cô ấy} skin giá trung bình thì một đối thủ gia nhập thị trường, đóng giá gấp ba. Anh ta bán hết và kiếm được một gia tài vốn có thể là của {0.SimFirstName}.
+Mọi người đều kinh tởm và phẫn nộ đến mức một ủy ban công dân thành lập để xử lý tình trạng rác. Họ được trả bởi quyên góp tư nhân, nên phòng cảnh sát cũng tiết kiệm được tiền!
+Có lý do tại sao sĩ quan cấp trên là sĩ quan cấp trên: để đưa ra những quyết định này. {0.SimFirstName} không tin tưởng ông ấy sao? Ông ta đẩy {0.SimFirstName} ra khỏi ghế lái và thực hiện việc đổ nhiên liệu, đồng thời mắng {0.SimFirstName} suốt đường đến bãi đậu xe không gian.
+Không ai quan tâm. Không ai dọn. Không ai thay đổi một chữ d. Cuối cùng, dải ngân hàng ngập trong rác và {0.SimFirstName} phải tìm cách khác.
+Một số quái vật không gian chỉ muốn xem dải ngân hàng cháy. {0.SimFirstName} không ngại bước vào những vùng đạo đức xám xịt, nhưng tên gangster này hoàn toàn không có quy tắc ứng xử nào! Mặc dù điều này khiến {M0.anh ấy}{F0.cô ấy} trông yếu đuối, {0.SimFirstName} vẫn phải bỏ cuộc công việc.
+Đám đông quá hỗn loạn và không kiểm soát được nên vệ sinh riêng của ca sĩ không thể xử lý một mình. Phó của {0.SimFirstName} giúp giữ trật tự, và để cảm ơn, ca sĩ quyên góp một khoản hào phóng cho phòng của {0.SimFirstName}.
+Nhóm thực hiện xuất sắc, và họ thu thập được cả đống dữ liệu hữu ích cho {0.SimFirstName}. Họ mô tả các loài thực vật và động vật mới, ghi lại một ngôn ngữ ngoài hành tinh mới, và phát hiện ra nước uống được trên một hành tinh ngoài.
+Tin đồn lan rằng giá của {0.SimFirstName} quá cao và sớm muộn {M0.anh ấy}{F0.cô ấy} sẽ mất hết khách hàng. {M0.Anh ấy}{F0.Cô ấy} một mình làm xẹp nhu cầu sản phẩm. Chẳng mấy chốc {M0.anh ấy}{F0.cô ấy} phải giảm {M0.anh ấy}{F0.cô ấy} giá thấp hơn giá thị trường, chỉ để bán hết skin.
+{0.SimFirstName} leo vào pod và phóng về nhà. {M0.Anh ấy}{F0.Cô ấy} quan sát tàu rút lui trong gương chiếu hậu của {M0.anh ấy}{F0.cô ấy}, và thấy ngọn lửa tự dập tắt. {M0.Anh ấy}{F0.Cô ấy} không nên bỏ cuộc - giờ nhiệm vụ thất bại và {0.SimFirstName} không có cách nào thu hồi shuttle.
+{0.SimFirstName} tam giác hóa nguồn gốc của tín hiệu và theo nó đến nguồn... một tàu ngoài hành tinh! {0.SimFirstName} cờ lá hòa bình vũ trụ và thực hiện liên lạc đầu tiên được ghi nhận với một chủng tộc ngoài hành tinh mới. Họ rất thành thạo toán và yêu bánh su.
+Nhiệm vụ không quá khó, nhưng nhóm của {0.SimFirstName} thực hiện hoàn hảo. Phần còn lại của cơ quan biết rằng họ đáng tin cậy trong lúc nguy cấp.
+Trong khi phó của {0.SimFirstName} đóng vai trí giữ trẻ có vẻ vui vẻ, những kẻ buôn lậu và cướp có toàn bộ hệ mặt trời. Bạn có thể trộm Đại sảnh Ngân hà! Hội đồng Sao mắng {0.SimFirstName} vì để dải ngân hàng thiếu người.
+Giữa Đạo luật Bảo tồn Loài Không gian Nguy cấp và Hiệp ước Vũ khí Thực vật Ăn thịt, {0.SimFirstName} có đủ vấn đề với quy định chính phủ. Mặt lợi không đáng để bị bắt. {0.SimFirstName} nhổ thuế.
+Nhóm không bao giờ đến đúng tọa độ, vì vậy họ không thấy gì, không nghe thấy gì, và không phát hiện ra gì. Họ trở về tay không và {0.SimFirstName} phải trả lời cho điều đó.
+{0.SimFirstName} để nghi phạm bị còng tay tại một Trạm xăng Không gian. Khi {M0.anh ấy}{F0.cô ấy} trở về sau khi ngăn vụ cướp, nghi phạm vẫn ở đó, cáu kỉnh như thường. {0.SimFirstName} bắt giữ cả hai vụ.
+Gangster tổ chức những bữa tiệc hoành tráng và trả lương tốt đến mức {0.SimFirstName} có thể dành {M0.anh ấy}{F0.cô ấy} thời gian đếm tiền thay vì suy nghĩ về đạo đức.
+Quy tắc có lý do của nó. Một khi {M0.anh ấy}{F0.cô ấy} được phép lắp đặt hệ thống, {M0.anh ấy}{F0.cô ấy} làm. Các phi công thích nó và mọi người đều vỗ tay kiểu lịch sự cho {0.SimFirstName}.
+{0.SimFirstName} cố gắng tính toán hành trình mới trong đầu {M0.anh ấy}{F0.cô ấy}, nhưng khi {M0.anh ấy}{F0.cô ấy} nhập tọa độ mới {M0.anh ấy}{F0.cô ấy} hoàn toàn lạc hướng. Giờ {M0.anh ấy}{F0.cô ấy} phải nỗ lực đưa tàu trở lại quỹ đạo trước khi {M0.anh ấy}{F0.cô ấy} trôi ra ngoài!
+Trong nghìn thùng trong kho, thanh tra hải quan chọn thùng của {0.SimFirstName} để mở... anh ta phát hiện các viên gạch và phạt {0.SimFirstName} nhiều tiền hơn {M0.anh ấy}{F0.cô ấy} sẽ phải chi cho thuế ban đầu.
+Ngủ không phải là sự thay thế cho việc thực sự biết câu trả lời. {0.SimFirstName} cảm thấy tuyệt, nhưng {M0.anh ấy}{F0.cô ấy} vẫn không biết gì về Địa lý Không gian. {M0.Anh ấy}{F0.Cô ấy} trượt, và sẽ mất một thời gian trước khi {M0.anh ấy}{F0.cô ấy} có thể thi lại.
+{M0.Anh ấy}{F0.Cô ấy} có thể đã có được điểm tốt... nếu {M0.anh ấy}{F0.cô ấy} thức qua cả bài thi. Nhưng {0.SimFirstName} quá kiệt sức đến mức {M0.anh ấy}{F0.cô ấy} ngủ thi ngay tại bàn của {M0.anh ấy}{F0.cô ấy}. Giờ {M0.anh ấy}{F0.cô ấy} phải đợi hàng tháng để thi lại.
+Không ai lắng nghe {0.SimFirstName}, và mặc dù {M0.anh ấy}{F0.cô ấy} thu một ít tiền phạt, các nhà tù và tòa án sao giờ đầy người vứt rác. Toàn bộ vấn đề đang trở nên hơn cả những gì xứng đáng.
+Hóa ra gangster đang muốn làm sạch hành động của mình. Không nhiều lắm, tất nhiên, chỉ đủ để tổ chức và mở rộng lợi nhuận. {0.SimFirstName} có thể là người dẫn đầu nỗ lực tổ chức đó. Nghe có vẻ như sẽ là một công việc khá sung sướng!
+Tốt hơn nên hoàn thành việc bắt giữ đang diễn ra trước khi lao đi một nhiệm vụ khác. Một Con chim lửa Flornax trong tay, v.v... {0.SimFirstName} sẽ tập trung vào việc bắt một kẻ xấu khỏi các tuyến đường không gian, và để đồng nghiệp của {M0.anh ấy}{F0.cô ấy} xử lý vụ lớn hơn.
+Ngay khi các phi công bắt đầu dùng hệ thống của {0.SimFirstName}, họ nhận ra mình đã làm cho mọi thứ dễ dàng hơn bao nhiêu. Phản hồi về hệ thống rất tích cực, không ai quan tâm {M0.anh ấy}{F0.cô ấy} đã phá quy tắc.
+Khách hàng sẽ trả một số Simoleon lớn để vận chuyển những chồn không gian nguy hiểm đó, giờ anh ta không hài lòng. Anh ta chửi bới {0.SimFirstName} khắp dải ngân hàng và thề trao mọi việc kinh doanh tương lai cho đối thủ cạnh tranh gần nhất của {0.SimFirstName}. Giờ {0.SimFirstName} sẽ phải làm việc gấp đôi để có lợi nhuận trong khu vực này!
+Ngay khi các phi công bắt đầu dùng nó, hệ thống sập. Giờ các phi công phải làm việc gấp đôi để lái shuttle, và họ kể cho mọi người về kế hoạch ngu ngốc của {0.SimFirstName}. {M0.Anh ấy}{F0.Cô ấy} bị kỷ luật và bắt buộc lave phòng vệ sinh như hình phạt.
+Mọi người biết rằng hải quan là bộ phận tài trợ tệ nhất của bất kỳ chính phủ nào. Các viên gạch bay qua không bị phát hiện và {0.SimFirstName} tiết kiệm được nhiều tiền.
+Khi {0.SimFirstName} xuất hiện tại điểm hẹn với những chồn không gian nguy hiểm, {M0.anh ấy}{F0.cô ấy} thấy một nửa Đội tuần tra Hành tinh ở đó - {M0.anh ấy}{F0.cô ấy} đã bị lập bẫy! {0.SimFirstName} nhanh chóng thả {M0.anh ấy}{F0.cô ấy} hàng hóa dữ tợn lên các đặc vụ và trốn thoát, nhưng {M0.anh ấy}{F0.cô ấy} không có gì để chứng minh cho công việc này.
+Một trong những đứa trẻ có một thanh laserblade trong túi - ủng hộ tin đồn rằng các Glorzak trẻ đang tích lũy vũ khí gần đây. Có lẽ giờ Đội tuần tra Hành tinh sẽ có thể tìm và đóng cửa nhà cung cấp của chúng.
+{0.SimFirstName} lo rằng phần còn lại của {M0.anh ấy}{F0.cô ấy} cuộc đời, khi mọi thứ yên lặng, {M0.anh ấy}{F0.cô ấy} sẽ tự hỏi âm thanh đó là gì... có thể đó là chìa khóa để hiểu tất cả cuộc sống? Có thể đó là chỉ dẫn mã hóa đến một kho báu không gian? {0.SimFirstName} sẽ không bao giờ biết.
+{0.SimFirstName} không thấy báo cáo rằng các Glorzak trẻ đang tích lũy vũ khí. Sau này, một trong những đứa trẻ trong nhóm cướp một chợ không gian với một thanh laserblade trong túi. {0.SimFirstName} có thể đã ngăn chặn tội phạm đó?
+Các Glorzak chỉ đang rủ rê, và họ đánh giá cao việc {0.SimFirstName} không quấy rầy họ. Họ chia cho {M0.anh ấy}{F0.cô ấy} một số xxulyps (chúng giống như donut) và cho {M0.anh ấy}{F0.cô ấy} thông tin bên trong về chuyện gì đang xảy ra ở khu vực này. Những đứa trẻ tốt!
+May mắn thay, khách hàng mới có túi tiền sâu. Khi {0.SimFirstName} giao những chồn không gian nguy hiểm, anh ta trả {M0.anh ấy}{F0.cô ấy} gấp đôi giá trị thị trường của các sinh vật. Và {0.SimFirstName} chỉ chịu vài vết cắt nhẹ - không thành vấn đề!
+Chỉ vì chúng đắt không có nghĩa chúng sẽ kéo dài lâu hoặc hoạt động tốt. Những tấm pin đó là đồ bỏ, và {0.SimFirstName} phải thay thế tất cả chúng bất kỳ nào.
+Aha! Một connector widget bị lỗi đang gây ra các thông báo lỗi - các tấm pin vẫn ổn sau tất cả! May thay {0.SimFirstName} kiểm tra chúng.
+Nịnh Bợ Bảo Vệ
+Dùng {M0.Quyền Bính}{F0.Quyền Bính} của {M0.Anh ấy}{F0.Cô ấy}
+Mặc dù khách hàng cũ tức giận với {0.SimFirstName} vì vứt đá trăng, công việc mới có một khoản tiền lớn. {0.SimFirstName} có lợi, và khách hàng mới giờ là một khách hàng thường xuyên.
+{0.SimFirstName} vứt đá trăng và đồng ý nhận công việc mới, nhưng khách hàng mới không bao giờ đến gặp {M0.anh ấy}{F0.cô ấy}. {M0.Anh ấy}{F0.Cô ấy} đã bị lừa! Giờ {0.SimFirstName} mất một lượng hàng lớn, {M0.anh ấy}{F0.cô ấy} khách hàng cũ tức giận, và khách hàng mới không thấy đâu.
+Sửa Chữa Chúng
+Thay Thế Chúng
+Nhận Lời
+Bỏ Qua Lời
+Dập Tắt Lửa
+Thoát
+{0.SimFirstName} điều khiển shuttle vào vị trí hạ cánh, và để trọng lực làm phần còn lại. {M0.Anh ấy}{F0.Cô ấy} không đốt thêm nhiên liệu và an toàn hạ cánh tàu.
+Khi shuttle chạm mặt đất, bộ đẩy hỏng sụp đổ, và toàn bộ tàu vỡ tan. May mắn là chỉ là mô phỏng máy tính, nhưng {0.SimFirstName} sẽ không lái bất kỳ tàu thực nào trong thời gian tới.
+Các sếp của {0.SimFirstName} đang hét trong tai {M0.anh ấy}{F0.cô ấy}, nhưng những phi hành gia biết ơn bên trong shuttle mừng vì {M0.anh ấy}{F0.cô ấy} đã đưa ra quyết định an toàn. {0.SimFirstName} cho nhóm điều tra thiết bị để tìm vấn đề.
+Ẩn Các Viên Gạch
+Trả Thuế
+Học Cốt Lõi
+Thư Giãn
+Thay Đổi Hành Trình
+Lái Thận Trọng
+Mở Ra
+Nộp Lại
+{0.SimFirstName} xuất hiện ở phía bên kia của wormhole, với không ký ức về các sự kiện gần đây. Có cảm giác như đã vài ngày, nhưng theo đồng hồ kỹ thuật số độ chính xác cao của tàu thì chỉ có vài phút. Điều gì đã xảy ra trong wormhole? Và tại sao {0.SimFirstName} cảm thấy kỳ lạ như vậy?

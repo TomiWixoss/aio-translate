@@ -1,0 +1,99 @@
+A
+B-
+D
+D-
+F
+A-
+A+
+C-
+B+
+B
+D+
+C+
+&lt;font color='#A4FA49'&gt; +{0.Money} &lt;/font&gt;
+&lt;font color='#FD9C9C'&gt; -{0.Money} &lt;/font&gt;
+Nước
+Điện
+Bạn có 24 giờ để trả tiền thuê nhà trước khi nó chính thức được coi là quá hạn. Hãy trả càng sớm càng tốt để tránh mọi hậu quả!
+Bạn đã quá hạn trả tiền thuê nhà! Đánh giá căn hộ của bạn đã giảm. Chủ nhà có thể đến để tịch thu đồ đạc của bạn để thanh toán!
+Việc thực thi Chính sách Quy định: Ưu đãi Năng lượng Xanh đã giảm hóa đơn hộ gia đình {0.Number}%.
+{0.String} đã trả tiền thuê nhà §{1.Number}
+Bạn nợ {0.Money} từ lô đất trước, khoản thanh toán đã được trừ đi.
+Không đủ tiền để trả {0.Money}, khoản thanh toán của bạn đã được miễn.
+Hóa đơn Điện được tính dựa trên lượng Điện tiêu thụ và sản xuất trong tuần khi sử dụng các thiết bị điện.
+Hóa đơn Nước được tính dựa trên lượng Nước tiêu thụ và sản xuất trong tuần khi sử dụng các thiết bị ống dẫn nước.
+Số tiền hiện đang nợ từ các Hóa đơn chưa thanh toán.
+Tổng chưa thanh toán
+Đây là tổng số tiền bạn hiện đang nợ.
+Tiền thuê nhà chưa thanh toán
+Số tiền hiện đang nợ từ tiền thuê nhà chưa thanh toán.
+Thuế chưa thanh toán
+Số tiền hiện đang nợ từ Thuế chưa thanh toán.
+Các Hóa đơn chưa thanh toán
+Giảm thuế &amp; Phí phạt
+Các khoản thuế và tín dụng bổ sung có thể xuất phát từ nhiều yếu tố chơi game bao gồm: Đặc điểm Lô đất, Đặc điểm Sim, vật phẩm trên lô đất, và nhiều hơn nữa.
+Các khoản thuế, tín dụng và phí phạt bổ sung có thể xuất phát từ nhiều yếu tố chơi game bao gồm: Đặc điểm Lô đất, Đặc điểm Sim, vật phẩm trên lô đất, và nhiều hơn nữa.\n\n{0.String}
+Tiền thuê nhà
+Tiền thuê nhà hàng tuần được xác định cho mỗi Căn hộ.
+Tiền thuê nhà hàng tuần được xác định cho mỗi Căn hộ.\n\n{0.String}
+Thuế Lô đất
+Thuế Lô đất được xác định dựa trên giá trị của tất cả vật phẩm trên lô đất và giá trị của lô đất.
+Thuế Lô đất được xác định dựa trên giá trị của tất cả vật phẩm trên lô đất và giá trị của lô đất.\n\n{0.String}
+Ước tính tổng
+Một Ước tính về tất cả chi phí sắp đến hạn.
+Thuế khác
+Thuế khác được suy ra từ các dịch vụ chưa thanh toán, phí, và các hóa đơn bổ sung.
+Thuế khác được suy ra từ các dịch vụ chưa thanh toán, phí, và các hóa đơn bổ sung.\n\n{0.String}
+Từ Cấp độ Thuế Vương quốc
+Từ Người trò chuyện Thiên nhiên
+Giảm giá Chuẩn bị
+Từ Lối sống Tiết kiệm
+Phí phụ thu Hóa đơn Vật phẩm trên Lô
+Kế hoạch Hành động Phát triển Hiện đại
+Kế hoạch Hành động Bảo tồn Nước
+Kế hoạch Hành động Bảo tồn Điện
+Hóa đơn ở đây thấp hơn để bù đắp cho bất kỳ...sự kỳ lạ nào.
+Giảm Thuế Bất động sản Tách rời khỏi Lưới điện
+Tuân thủ Kế hoạch Hành động Khu phố
+Không tuân thủ Kế hoạch Hành động Khu phố
+Giảm giá Hóa đơn Vật phẩm trên Lô
+Nhà siêu nhỏ
+Các hóa đơn vừa được gửi đến hộp thư của bạn. Vì hộ gia đình của bạn nằm ngoài lưới tiện ích, bạn chỉ nợ tiền thuê nhà và các phí khác.\n\n•Tiền thuê Lô: {3.String}\n•Điện: {4.String}\n•Nước: {5.String}\n•Thuế khác: {6.String}\n•Tổng: {1.String}\n\nBạn có thể thanh toán bằng điện thoại, máy tính, hoặc hộp thư.
+Các hóa đơn vừa được gửi đến hộp thư của bạn.\n\nBạn nợ\n•Tiền thuê Lô: {3.String}\n•Điện: {4.String}\n•Nước: {5.String}\n•Phí khác: {6.String}\n•Tổng: {1.String}\nBạn có {0.Number} {S0.hour}{P0.hours} để trả trước khi chúng tắt các tiện ích của bạn từng cái một. Bạn có thể thanh toán bằng điện thoại, máy tính, hoặc hộp thư.\n{2.String}
+Xem Bài học
+Các hóa đơn vừa được gửi đến hộp thư của bạn.\n\nBạn nợ\n\n•Thuế Lô đất: {3.String}\n•Điện: {4.String}\n•Nước: {5.String}\n•Thuế khác: {6.String}\n•Tổng: {1.String}\n\nBạn có {0.Number} {S0.hour}{P0.hours} để trả trước khi chúng tắt các tiện ích của bạn từng cái một. Bạn có thể thanh toán bằng điện thoại, máy tính, hoặc hộp thư.\n{2.String}
+Lô đất này quá bừa bộn, và không còn chỗ cho {0.SimFirstName}. Thật đáng tiếc! Có lẽ một khi ngôi nhà này thân thiện hơn, {M0.he}{F0.she} mới có thể chuyển đến một cách phù hợp.
+Do bị bỏ mặc, {0.SimFirstName} đã được đưa đi nơi an toàn. Có lẽ bạn nên cân nhắc nuôi một con cá vàng trước khi nhảy vào làm cha mẹ một lần nữa.
+Chọn một đặc điểm cho trẻ nhỏ. Đặc điểm này chỉ có sẵn khi Sim này còn là trẻ nhỏ.
+Bạn không thể làm việc này trong khi {0.SimFirstName} đang lớn lên.
+Người cao tuổi
+Người lớn
+Trẻ sơ sinh
+Ngựa trưởng thành
+Ngựa già
+Chọn một Khát vọng và Đặc điểm để thay thế đặc điểm:
+Trẻ nhỏ! Những ngày chơi với đồ chơi, khám phá thế giới và học cách giao tiếp bằng lời nói thay vì nước mắt đang chờ đợi! Đây là thời điểm hoàn hảo để bắt đầu xây dựng kỹ năng cho tương lai.
+Các Sim đang mang thai không thể lớn lên.
+&lt;i&gt;Nơi đường đi của Wanderwood Wilds gặp nghệ thuật của giá vẽ, hoặc cuối cây cầu, một con bướm vụt bay.\n\nTrong ánh sáng ban ngày, tìm con mang già này trong chuyến bay của nó.&lt;/i&gt;
+Chúc mừng! Thu thập mọi bướm và bướm đêm ở Gibbi Point là một thành tựu khá đáng kể. Hiệp hội Côn trùng học đang ngưỡng mộ sự tận tâm và cần cù của bạn! Họ cũng muốn biết cách bạn đã tạo ra con bướm ma thuật đó... &lt;i&gt;TUYỆT VỜI&lt;/i&gt;!
+Nguyên liệu Dược sĩ có thể được tìm thấy bằng Hái lượm, Trồng trọt, hoàn thành các Truyện kể, và có thể được mua tại Bàn Dược sĩ, hoặc Cửa hàng Thuốc &amp; Tinh chất của Apothecary Todd trong khu phố Sprucederry Grove của Innisgreen.
+Nguyên liệu Innisgreen
+Bộ sưu tập Nguyên liệu Innisgreen đã hoàn thành. Bây giờ hãy khám phá các Thuốc &amp; Tinh chất có thể chế tạo từ chúng!
+Các bộ phận xe đạp này có thể được tìm thấy bằng cách Làm sạch Kênh đào trong hai khu phố Nordhaven.
+Bộ phận xe đạp Nordhaven
+Các Nhà yêu xe đạp Nordhaven chúc mừng bạn đã hoàn thành Bộ sưu tập Bộ phận xe đạp và cảm ơn bạn vì nỗ lực giữ cho các kênh đào của chúng tôi sạch sẽ. Như một món quà nhỏ, họ đã gửi một phiếu có thể đổi lấy một chiếc xe đạp có chức năng!
+Được xác thực cá nhân bởi Trashley Reelpearson. Những thứ này được tìm thấy trong cửa hàng và hộp của Trashley.
+Nghệ thuật Chứng nhận Trashley
+Chúc mừng, những người sưu tập nghệ thuật xuất sắc! Bạn đã hoàn thành Bộ sưu tập Nghệ thuật Chứng nhận Trashley.
+Vòng cửa ấm áp có thể được kiếm được bằng cách hoàn thành các nhiệm vụ trong sự kiện có giới hạn thời gian Cozy Celebrations!
+Thiếu Hộp sữa của Sim
+Hoàn thành Bộ sưu tập Sự kiện Cozy Celebrations!
+Thiếu Hộp sữa của Sim có thể được kiếm được bằng cách hoàn thành các nhiệm vụ trong sự kiện có giới hạn thời gian Blast from the Past!
+Vòng cửa ấm áp (Sự kiện Cozy Celebrations)
+Hoàn thành Bộ sưu tập Thiếu Hộp sữa của Sim!
+Freezer Boneys có thể được kiếm được bằng cách hoàn thành các nhiệm vụ trong sự kiện có giới hạn thời gian Reaper's Rewards!
+Freezer Boneys
+Hoàn thành Bộ sưu tập Freezer Boney!
+Một bộ sưu tập đầy đủ ếch! Thật tinh tế. Một nhà bảo trợ thiên nhiên địa phương đã gửi cho bạn một phần thưởng cho bộ sưu tập đầy đủ của bạn.
+Các tinh thể có thể được đào lên từ các đống đá.
+Ếch

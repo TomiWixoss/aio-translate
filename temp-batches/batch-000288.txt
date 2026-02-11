@@ -1,0 +1,100 @@
+Bật Lò
+Ăn Nhanh Hoặc Uống Nhanh
+Lấy Đồ Uống
+Lấy Đồ Uống
+Nấu Món Ăn Cao Cấp
+Nấu Ăn
+Lấy Một Miếng
+Lấy Một Mảnh
+Lấy Một Phần
+Làm Đồ Ăn
+Ăn {1.ObjectName}
+...Và Nướng
+Trộn Lớp Phủ
+Làm Nhân
+Vẽ
+Giải Toán
+Đặt Làm Cửa Trước
+Đây đã là cửa trước rồi.
+Quay Bảng
+{0.String}
+Thái Thành Thạo
+Hương Vị Sang Trọng!
+Tìm Kiếm Meme
+Chơi Game
+Di Chuyển Hộ Gia Đình
+Nhà Trẻ Mồ Côi muốn giới thiệu...
+Trò Chuyện Với
+Trò Chuyện
+Duyệt Web
+Viết Điên Cuồng
+Viết Sách
+Khoa Học Viễn Tưởng
+Khoa Học Viễn Tưởng Hai
+Khoa Học Viễn Tưởng Một
+Đây là sách Khoa Học Viễn Tưởng Hai
+Đây là sách Khoa Học Viễn Tưởng Một
+Quậy Diễn Đàn
+Nghe Phóng Tàu Vũ Trụ
+Sims
+Hiếm
+Quí Hiếm
+Độ Hiếm: {0.String}
+Phổ Biến
+MySims Cúp
+Kim Loại
+Nguyên Tố
+Tinh Thể
+Thu Thập
+Rỗng
+Pha Chế
+Luyện Cờ Vua
+Chơi
+Ngồi
+Ngủ Trưa
+Chơi Bài
+Canasta
+Sẽ là vô lễ nếu lấy một miếng Bánh Sinh Nhật trước khi nến đã được thổi tắt.
+Một số sách khiến độc giả nghĩ ngay đến những chuyện dục vọng.
+Tư Duy Dơ Bẩn
+Đồ Amateur
+Cảm thấy vui vẻ từ những trò đùa của các Sim khác!
+Vui Vẻ
+Bị Từ Chối!
+Cảm thấy buồn bã sau khi bị một Sim khác từ chối!
+Cảm thấy quyến rũ sau khi chỉnh sửa trước gương!
+Sự Hiện Diện Lộng Lẫy
+Được củng cố với sự tự tin sau một cuộc đấu tranh khốc liệt, không tổn thương!
+Chiến Thắng!
+Bị Đánh Đập!
+Bị Làm Nhục sau khi liếc nhìn vào gương ở góc sai!
+Cảm Thấy Lôi Thôi
+Bị Làm Nhục từ các Sự Kiện Xã Hội Gần Đây!
+Xấu Hổ
+Một cú đánh tốt có thể khiến một Sim cảm thấy hơi choáng váng.
+Tốt (Luôn bật và ẩn mặc định)
+Cái Quái Gì Vậy?
+Đứng riêng lẻ, từ ngữ có nghĩa, nhưng kết hợp lại... cái gì? Cuốn sách này vượt quá trình độ của tôi.
+Cảm thấy hơi chán từ việc đọc sách ở trình độ kỹ năng thấp.
+Câu Chuyện Than Khóc
+Hơi nghẹn ngào từ một câu chuyện buồn.
+...vì tất cả những trò đùa.
+Đọc Nghệ Thuật
+Một số sách chỉ đơn giản là truyền cảm hứng sáng tạo.
+Đọc Thú Vị
+Câu chuyện đó thú vị, quyến rũ và tươi mới.
+Đọc Hợp Lý
+Tất cả đều có ý nghĩa!
+Đọc Trao Quyền Lực
+Sức Mạnh Của Từ Ngữ!
+Đọc Nhàm Chán
+Đọc cuốn sách đó là một cuộc say sưu hoàn toàn.
+Đọc Làm Bực Bội
+Tức giận từ việc đọc một bài báo có ý kiến.
+Ồ! Đó là một tiểu thuyết lãng mạn nóng bỏng!
+Đọc Nóng Bỏng
+Cảm Thấy Thông Thái
+Bị Hạ Gục
+Hiện Đang Choáng Váng (không nên hiển thị)
+Hiện Đang Buồn (không nên hiển thị)
+Hiện Đang Vui Vẻ (không nên hiển thị)

@@ -1,0 +1,109 @@
+Mua hạt giống
+Mua đồ dùng cho buổi hẹn hò của Sims
+Cảm ơn bạn đã mua hàng! Các vật phẩm {0.SimFirstName} mua có thể tìm thấy trong kho đồ của {M0.his}{F0.her}.
+Mua đồ chơi dịp lễ
+Mua cá
+Mua tinh thể
+Kính gửi Người mua,
+
+Cảm ơn bạn đã tiếp nhận những lợi ích tự nhiên của tinh thể. Bằng cách tự hỏi bản thân về những cải thiện về lối sống có ý thức nào bạn có thể thực hiện (và bằng cách mua tinh thể của chúng tôi), bạn đã tiến một bước đến sự tự trao quyền thực sự. Chúng tôi tự hào được đồng hành cùng hành trình của bạn tại Celestial Prosperity.
+
+Celeste Moonglade
+CEO &amp; Người sáng lập
+
+<i>Các tinh thể {0.SimFirstName} mua có thể tìm thấy trong kho đồ của {M0.his}{F0.her}.</i>
+Mua đồ dùng và hàng bí mật
+Cảm ơn bạn đã mua hàng. Các vật phẩm đặc biệt {0.SimFirstName} mua có thể tìm thấy trong kho đồ của {M0.his}{F0.her}.
+Khác
+Mua đồ dùng thăm dò
+Đồ nội thất
+Vui chơi
+Đồ dùng
+Mua sách cho trẻ mới biết đi
+Cuốn sách cho trẻ mới biết đi có thể tìm thấy trong kho tủ sách.
+Cảm ơn bạn đã đặt hàng! Các sách {0.SimFirstName} mua có thể tìm thấy trong kho đồ của {M0.his}{F0.her}.
+Sách bài tập
+Bí ẩn
+Kỹ năng
+Thay đổi màu điện thoại
+Thương lượng thưởng
+Hủy dịch vụ sửa chữa
+Dịch vụ sửa chữa của bạn đã bị hủy. Bất kỳ kỹ thuật viên sửa chữa nào trên lô đất của bạn vẫn sẽ hoàn thành công việc, mặc dù vậy.
+Hủy dịch vụ người giữ trẻ
+Dịch vụ Người giữ trẻ của bạn đã bị hủy.
+
+Bất kỳ người giữ trẻ nào trên lô đất của bạn vẫn sẽ hoàn thành công việc, mặc dù vậy.
+Hủy dịch vụ làm vườn
+Dịch vụ Làm vườn của bạn đã bị hủy. Bất kỳ Người làm vườn nào trên lô đất của bạn vẫn sẽ hoàn thành công việc.
+Gọi Jasmine Holiday
+Gọi Người phối hợp sự kiện
+Gọi Jasmine Holiday
+Jasmine chỉ có thể được gọi từ lô đất nhà của bạn.
+Gọi Sở Cứu hỏa
+Không có lô đất nào khả dụng để mua.
+Gọi điện cho đối tác kinh doanh
+{Các đối tác kinh doanh của {0.SimFirstName} hiện không đi làm.}
+Gọi Sở Cảnh sát
+Cảnh sát đã ở đây rồi!
+Cảnh sát đang trên đường! Hãy tìm nơi an toàn và không tương tác!
+Internet không hoạt động nếu không có nguồn điện khi đang chế độ Không Kết nối Mạng lưới.
+{0.SimFirstName} thấy nhàm chán khi được {1.SimFirstName} mời đi hẹn hò. Hãy thử lại sau.
+{1.SimFirstName} đã từ chối đi hẹn hò với {0.SimFirstName}. Hãy thử tìm hiểu {1.SimPronounObjective} nhiều hơn một cách lãng mạn. Ngoài ra, tâm trạng của một Sim có thể thay đổi kết quả. Đôi khi, nói chuyện trực tiếp là lựa chọn tốt nhất.
+{0.SimFirstName} không nghe máy. Một số Sim cần ngủ.
+Mời {1.SimFirstName} đi hẹn hò
+Cupid's Corner tạm thời ngừng hoạt động do cái tôi mong manh của CEO chúng tôi. Tin đồn nói rằng ai đó đã đủ can đảm từ chối lời mời gặp mặt!
+Ngửi
+Khuyến khích {1.SimFirstName} làm kinh doanh
+Đi vệ sinh
+Đầu treo tường
+Cây cối
+Động vật thực tế hoàn toàn
+Động vật phong cách
+(Động vật) Tốt hơn
+Lạc đà
+Hải sâm
+Ếch cò
+Cò
+Bướm
+Không ngồi được, không thể chế tác. Hãy lấy một chiếc ghế cho Sim tội nghiệp này!
+Chế tác
+Dự án chế tác giấy hoàn thành! Hãy xem trong kho đồ của {0.SimFirstName} để thấy sự sáng tạo mới của {0.SimPronounPossessiveDependent}.
+Chế tạo giấy
+Khung canvas
+Tháo khung
+Xem
+Không cho phép khách hàng mới
+Cho phép khách hàng mới
+Chuyển đổi xem có nên để khách hàng mới đến hay không. Tự động đặt thành cho phép khách hàng mới bất cứ khi nào kinh doanh được mở cửa.
+Không có lô đất nào khả dụng để mua.
+Đào tạo cơ bản
+Đào tạo chuyên sâu
+Đào tạo ngắn
+Trả tiền để đào tạo nhằm tăng kỹ năng của nhân viên khi họ đến làm việc lần tới.
+Khen ngợi
+Khen ngợi một nhân viên để tăng sự hài lòng của nhân viên và đưa họ vào tâm trạng tích cực.
+Phát bài nói truyền cảm hứng
+Sa thải
+{0.SimFirstName} đã sa thải {1.SimFirstName}. {M1.He}{F1.She} sẽ không còn đến làm việc nữa. {M1.He's}{F1.She's} cũng khá tức giận.
+Chỉ trích
+Chỉ trích một nhân viên để cho họ biết họ đang làm việc không hiệu quả. Họ sẽ tạm thời làm việc chăm chỉ hơn nhưng sự hài lòng với công việc sẽ bị ảnh hưởng.
+Kiểm tra tình hình
+Hành động này đã được thực hiện trước đó.
+Kiểm tra tình hình của một nhân viên để tìm hiểu mức độ hài lòng của họ với công việc.
+Thăng chức thành {2.String} ({3.Money}/giờ)
+Thăng chức
+Vâng! Tôi biết ngày này sẽ đến nếu tôi cứ cố gắng làm việc chăm chỉ. Cảm ơn {M0.Mr.}{F0.Ms.} {0.SimLastName}. Tôi sẽ không làm bạn thất vọng.
+Cảm ơn! Tôi đã làm việc rất chăm chỉ và rất vui vì bạn đã chú ý.
+Một sự thăng chức? Dành cho tôi?? Tôi... ừ thì tất nhiên! Đã đến lúc rồi! Tôi muốn nói... cảm ơn {M0.Mr.}{F0.Ms.} {0.SimLastName}, đó là một vinh dự!
+Một sự thăng chức! Giờ tôi có thể mua chiếc quỷ đất mới mà tôi muốn.
+Điều này tuyệt vời! Tôi biết bạn là một ông chủ tuyệt vời bất kể những người khác nói gì.
+{1.SimFirstName} đã được thăng chức đến vị trí cao nhất có thể.
+Giáng chức thành {2.String} ({3.Money}/giờ)
+Giáng chức
+Làm sao bạn có thể giáng chức tôi? Tôi đã làm việc hết mình.
+{M0.Mr.}{F0.Ms.} {0.SimLastName} bạn không thể giáng chức tôi. Tôi sẽ làm việc chăm chỉ hơn, tôi hứa.
+Ồ... không... bạn thực sự đang giáng chức tôi? Không có thư khiếu nại? Không có đánh giá? Đây là cách bạn đối xử với mọi nhân viên ở đây hay chỉ với tôi?
+Tôi bị giáng chức? Nhưng tôi là người làm việc tốt nhất của bạn {M0.Mr.}{F0.Ms.} {0.SimLastName}!
+Không! Tôi thề tôi chưa dùng điện thoại quá 14 hoặc 15 lần hôm nay.
+{1.SimFirstName} không thể bị giáng chức thêm nữa. Bạn có thể muốn cân nhắc việc sa thải {M1.him}{F1.her}!
+Tôi ghét công việc này và mọi thứ về nó! Tôi nghỉ việc!

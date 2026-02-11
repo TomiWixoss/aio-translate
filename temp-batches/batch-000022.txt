@@ -1,0 +1,100 @@
+Buổi tối - L
+Buổi chiều - L
+Phá dỡ lô đất?
+Bạn có chắc muốn phá dỡ lô đất? Phá dỡ sẽ xóa sạch lô đất, nhưng bạn sẽ không thể hoàn tác hành động này.
+Bán với giá {0.Money}
+Bán
+Sàn theo Ô
+Sàn theo Phòng
+Trần theo Ô
+Trần theo Phòng
+Hủy (Esc)
+Theo Cửa sổ
+Theo Tường
+Theo Ô
+Theo Phòng
+Không khả dụng trên lô đất nước.
+Chỉ có thể đặt trên lô đất nước.
+Không khả dụng cho lô đất này.
+Bạn có {0.Number} mannequin dư thừa trên lô đất! Không thể thêm thêm cho đến khi loại bỏ các mannequin dư thừa.
+Phải được đặt bên ngoài một phòng ở tầng trên mặt đất.
+Yêu cầu chiều cao tầng cao hơn.
+Vẽ để đặt Tường Nửa
+Thay thế bằng Tường Nửa
+Đặt khu vực bao quanh bằng Tường Nửa
+Đặt một bức tường hoặc phòng để điều chỉnh nền móng.
+Đặt một phòng hoặc bức tường để điều chỉnh nền móng.
+Vẽ để đặt hàng rào
+Thay thế hàng rào
+Đặt khu vực bao quanh bằng hàng rào
+Không đủ tiền.
+Tự động Đặt Ghế Sofa\nĐặt là &lt;font color='#04b300'&gt;bật&lt;/font&gt;.\nNhấn lại để tắt.
+Tự động Đặt Ghế Sofa\nĐặt là &lt;font color='#c40000'&gt;tắt&lt;/font&gt;.\nNhấn lại để bật.
+Tự động Đặt Tủ Bếp\nĐặt là &lt;font color='#04b300'&gt;bật&lt;/font&gt;.\nNhấn lại để tắt.
+Tự động Đặt Tủ Bếp\nĐặt là &lt;font color='#c40000'&gt;tắt&lt;/font&gt;.\nNhấn lại để bật.
+Tự động Đặt Giường Tầng\nĐặt là &lt;font color='#04b300'&gt;bật&lt;/font&gt;.\nNhấn lại để tắt.
+Tự động Đặt Giường Tầng\nĐặt là &lt;font color='#c40000'&gt;tắt&lt;/font&gt;.\nNhấn lại để bật.
+Không khả dụng cho lô đất này.
+Xây dựng một bức tường hoặc phòng trước
+Tường Cao
+Tường Thấp
+Tường Trung bình
+Cửa sổ Cao
+Cửa sổ Thấp
+Cửa sổ Trung bình
+Cửa Cao
+Cửa Thấp
+Cửa Trung bình
+Tăng = Ctrl + ]
+&lt;i&gt;*Cũng có thể sử dụng\nthanh trượt chiều cao&lt;/i&gt;
+Giảm = Ctrl + [
+&lt;b&gt;Cài đặt Chiều cao Địa hình&lt;/b&gt;
+&lt;b&gt;Cài đặt Chiều cao Nước&lt;/b&gt;
+Cài đặt Chiều cao
+Nông
+Sâu
+Sim có thể lội qua các vùng nước nông được hiển thị màu xanh lá, nhưng các vùng nước sâu màu xanh dương là không được phép.
+Bản đồ Độ sâu Nước - P
+Nút SHARE
+Nút PS
+Đùa về Chính trị gia
+Đùa về Quá khứ
+Đèn Tường Ambient 4x1
+Đèn Tường Ambient 3x3
+Đèn Tường Ambient 3x1
+Đèn Tường Ambient 2x1
+Đèn Tường Ambient 1x1
+Đèn Trần Ambient 4x4
+Đèn Trần Ambient 4x1
+Đèn Trần Ambient 3x1
+Đèn Trần Ambient 2x2
+Đèn Trần Ambient 2x1
+Đèn Trần Ambient 1x1
+Retina Display:
+Tối ưu hóa game cho Retina Display. Điều này sẽ nâng cao trải nghiệm hình ảnh, nhưng có thể làm chậm hiệu suất trên một số máy tính.\nSau khi thay đổi cài đặt này, vui lòng nhấn Áp dụng Thay đổi bên dưới trước khi điều chỉnh độ phân giải.
+Nhấn &lt;b&gt;Shift+F1&lt;/b&gt; để xem các bản tải xuống đang tiến hành bằng In-Game Overlay. Bạn sẽ nhận được thông báo khi tải xuống hoàn tất.
+Các Gói của bạn chưa cài đặt đang được tải xuống. Nhấn &lt;b&gt;Shift+F1&lt;/b&gt; để xem các bản tải xuống đang tiến hành bằng In-Game Overlay. Bạn sẽ nhận được thông báo khi tải xuống hoàn tất.
+Cửa sổ
+Xem
+Hoàn tác
+The Sims™ 4
+Chọn Tất cả
+Làm lại
+Thoát
+Dán
+Thu nhỏ Tất cả
+Thu nhỏ
+Ẩn Các cửa sổ khác
+Ẩn The Sims™ 4
+Thoát Toàn màn hình
+Vào Toàn màn hình
+Chỉnh sửa
+Cắt
+Sao chép
+Đóng
+About The Sims™ 4
+About The Sims™ 4
+The Sims™ 4
+Bản quyền 2014 thuộc về Electronic Arts Inc.\nMọi quyền được bảo lưu.
+{1.ObjectName}
+{0.ObjectName|enAn}

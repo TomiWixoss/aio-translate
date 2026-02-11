@@ -1,0 +1,100 @@
+&lt;span class=&quot;negativeFunds&quot;&gt;-  {0.Money}&lt;/span&gt;
+Chuyển tiền vào doanh nghiệp.
+Chuyển Tiền Công Ty
+Đảo ngược hướng chuyển.
+Chọn Tài Khoản
+Đến:
+Từ:
+Bạn không thể chuyển từ tài khoản này vì nó có số dư âm.
+Chọn tài khoản và nhập số tiền hợp lệ để chuyển.
+Xác Nhận Chuyển
+Nhập số tiền cần chuyển:
+Sự hài lòng của nhân viên thể hiện mức độ hạnh phúc của họ với công việc. Thăng chức và đối xử tốt với họ sẽ làm tăng sự hài lòng!
+Thăng chức {0.SimName} lên Cấp {1.Number}
+Nhấp vào một Sim có sẵn trong phần bên dưới để tuyển dụng họ.
+Mua perk Ô Thêm Nhân Viên từ Perks Kinh Doanh để mở khóa thêm nhân viên để tuyển dụng.
+Sa thải {0.SimName}
+Hạ cấp {0.SimName} xuống Cấp {1.Number}
+{0.SimFirstName} đã được thăng chức đến vị trí cao nhất có thể.
+Bạn đã đạt số lượng nhân viên tối đa. Hãy sa thải nhân viên hiện tại hoặc mở khóa thêm ô nhân viên từ Perks Bán Lẻ trước khi tuyển người mới.
+{0.SimFirstName} không thể bị hạ cấp thêm nữa. Bạn có thể cân nhắc sa thải {M0.him}{F0.her}!
+Quản Lý Nhân Viên
+Bạn có muốn tuyển dụng {0.SimName}?
+Bạn có muốn sa thải {0.SimName}?
+Quảng cáo sẽ mang lại nhiều khách hàng hơn cho nhà hàng của bạn. Hãy cẩn thận, nó có thể tốn kém nên hãy đảm bảo số tiền bỏ ra xứng đáng!
+Nhân Viên Phục Vụ
+Đưa ra các quyết định quản lý cấp cao nhất cho nhà hàng của bạn tại đây. Những thiết lập này sẽ ảnh hưởng lớn đến số tiền nhà hàng kiếm được và đánh giá của nó!
+Thiết Lập Quản Lý
+Thực đơn của bạn sẽ ảnh hưởng đến lợi nhuận và đánh giá của nhà hàng. Hãy lựa chọn thực đơn cẩn thận với kỹ năng Đầu Bếp trong tâm.
+Thiết Lập Thực Đơn
+Chỉnh Sửa Thực Đơn Nhà Hàng
+Quyết định lợi nhuận trên mỗi bữa ăn.\n\nGiá thành cao cần được kết hợp với các bữa ăn chất lượng cao, nếu không khách hàng sẽ đánh giá nhà hàng kém về giá trị.
+Tỷ Lệ Lợi Nhuận:
+Ảnh hưởng đến chất lượng bữa ăn và chi phí. Tiết kiệm chi phí với nguyên liệu chất lượng thấp hoặc tìm cách ấn tượng với chất lượng cao.\n\nMua perk 'Tùy Chọn Chất Lượng Nguyên Liệu' để mở khóa.
+Chất Lượng Nguyên Liệu:
+Tiếp Tân
+Thay đổi trang phục nhân viên.
+Thiết Lập Nhân Viên
+Quy định trang phục khách hàng khi đến nhà hàng.
+Trang Phục Khách Hàng
+Đầu Bếp
+Quảng cáo:
+Hợp Đồng Thuê
+{0.SimFirstName} là {1.String}.
+Cảm xúc là cảm giác của một Sim về một Sim khác dựa trên trải nghiệm gần đây. Cảm xúc có thể ảnh hưởng đến Tâm Trạng và hành vi của một Sim khi Sim kia ở gần! Một Sim có thể có tối đa bốn Cảm xúc về một Sim khác tại một thời điểm.
+Cảm Xúc về {0.SimFirstName}
+Cảm Xúc
+Hiện chưa có Cảm Xúc nào. Hãy dành thời gian bên nhau và xem điều gì xảy ra!
+Trạng Thái Mối Quan Hệ Hiện Tại: \n {0.String}
+&lt;font color=&quot;#8080FF&quot;&gt;{0.String}&lt;/font&gt;
+{0.SimFirstName} và {1.SimFirstName} chưa biết nhau.
+Hoạt Động Ngoại Khóa:
+Giáo Dục:
+Thuộc Tính Chưa Biết
+Thuộc Tính:
+&lt;span class='schedule'&gt;{0.String}&lt;/span&gt;
+&lt;span class='companyName'&gt;tại {0.String}&lt;/span&gt; 
+{0.SimFirstName}
+Mối Quan Hệ:
+Phối ngẫu: 
+{0.SimFirstName} không có mối quan hệ với bất kỳ Sim nào khác.
+Lãng Mạn
+Thú Cưng
+Động Vật Trang Trại
+Hộ Gia Đình/Bạn Cùng Phòng
+&lt;font color=&quot;#EC262E&quot;&gt;Ngày lễ phải có tên hợp lệ.&lt;/font&gt;
+Chọn Truyền Thống Mới
+Thêm Ngày Lễ
+Xóa
+{0.Points}
+({0.String})
+{0.TimeShort}
+Thời Gian Còn Lại: {0.TimespanShortCondensed}
+Chọn để Gia Hạn hoặc Kết Thúc Chuyến Đi sớm.
+Thu Gọn / Mở Tất Cả
+Chỉnh Sửa Chuyến Đi
+, 
+Vai trò {0.String} được chọn trong nhiều nhóm.
+• {0.String}
+{0.SimFirstName} không được phép vào {1.String}.
+Không có vai trò nào được chọn
+Trạng Thái
+(Đã Chết)
+Tạo Một Kết Nối
+Không có cách nào để kết nối hai Sim này thông qua Giả Mạo. Bạn có thể cần nhiều Sim trung gian hơn (như bố mẹ hoặc anh chị em) để sử dụng làm bước kết nối. Hãy thử gặp thêm người thân của Sim kia, hoặc mở rộng gia đình để có thêm tùy chọn liên kết.
+Mối Quan Hệ
+Không có cách nào phù hợp để đạt được kết nối gia đình này. Bạn có thể cần thêm Sim trung gian để sử dụng làm bước kết nối, chẳng hạn như bố mẹ hoặc anh chị em bổ sung. Hãy thử gặp thêm người thân của Sim kia, hoặc mở rộng gia đình để có thêm tùy chọn liên kết.
+Thêm Một Sim
+Kết Nối Đã Tạo
+Cây Gia Đình của {0.SimFirstNameWithPrefix}
+Cây Gia Đình của {0.SimFirstName}
+Cây Gia Đình của {0.String}
+Đã kết hôn với:\n{0.String}
+Hiển Thị Cây Gia Đình của {0.SimFirstName}
+Hiển Thị Chú Thích
+Kết Nối Bí Mật
+&quot;{0.String}&quot;
+Đã Kết Hôn
+Ẩn Chú Thích
+Anh/em cùng cha khác mẹ
+Bố/mẹ kế

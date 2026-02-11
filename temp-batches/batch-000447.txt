@@ -1,0 +1,412 @@
+Chúng ta có một danh sách các vai trò, tên công ty, và các đoạn cảm ơn từ The Sims 4. Người dùng yêu cầu dịch sang tiếng Việt nhưng KHÔNG dịch một số thuật ngữ cố định như "The Sims 4", "Sims", "Sim", "Social Bunny", "EA app", "Gallery". Cần giữ nguyên thẻ HTML, biến {0.String}, ký tự đặc biệt, và trả về đúng số dòng.
+
+Trước tiên, xem xét danh sách: nhiều dòng là tên chức danh, tên công ty, hoặc đoạn văn cảm ơn. Một số có định dạng HTML như <br> hoặc các thẻ khác? Trong input, tôi thấy có "\n\n" và một số ký tự đặc biệt như &amp; (nên là &), nhưng trong yêu cầu nói giữ nguyên ký tự đặc biệt, có lẽ nên giữ nguyên các thực thể HTML như &amp;. Tuy nhiên, trong output, chúng ta nên dịch văn bản nhưng giữ nguyên các phần không dịch được.
+
+Lưu ý: Có các dòng như "VERY SPECIAL THANKS" có thể dịch là "LỜI CẢM ƠN ĐẶC BIỆT". Các tên công ty như "The Walt Disney Company" nên giữ nguyên vì là tên riêng? Nhưng yêu cầu chỉ nói KHÔNG dịch "The Sims 4", "Sims", "Sim", "Social Bunny", "EA app", "Gallery". Vậy các tên khác như "The Walt Disney Company" có thể dịch? Tuy nhiên, tên công ty thường giữ nguyên. Để an toàn, tôi sẽ dịch các chức danh và đoạn văn, nhưng giữ nguyên tên riêng như tên người, tên công ty? Nhưng trong ví dụ, "Maxis" là tên studio, có thể giữ nguyên. Trong yêu cầu không liệt kê "Maxis", vậy có thể dịch? Tuy nhiên, "Maxis" là tên công ty, thường không dịch. Tôi nghĩ nên giữ nguyên tên riêng, tên công ty, tên sản phẩm không nằm trong danh sách không dịch.
+
+Quy tắc: Chỉ KHÔNG dịch các từ được liệt kê. Vậy các từ khác đều dịch. Nhưng cẩn thận với các từ như "Sim" có thể xuất hiện trong ngữ cảnh khác? Trong danh sách này, có "SimLicy", "lilsimsie" - đây là tên người dùng, nên giữ nguyên. "Sim" trong "SimLicy" là một phần của tên, không nên tách.
+
+Phân tích từng dòng:
+
+1. "Project Coordinator" -> Dịch: "Điều phối viên Dự án"
+2. "VERY SPECIAL THANKS" -> "LỜI CẢM ƠN ĐẶC BIỆT"
+3. "User Experience Researchers" -> "Nhà nghiên cứu Trải nghiệm Người dùng"
+4. "User Experience Researcher" -> "Nhà nghiên cứu Trải nghiệm Người dùng"
+5. "The Walt Disney Company" -> Tên công ty, giữ nguyên? Nhưng yêu cầu không nói giữ nguyên, nên có thể dịch? Tuy nhiên, thông thường không dịch tên công ty. Tôi sẽ giữ nguyên vì là tên riêng.
+6. "Technical Product Manager" -> "Quản lý Sản phẩm Kỹ thuật"
+7. "Technical Artists" -> "Nghệ sĩ Kỹ thuật"
+8. "Technical Artist" -> "Nghệ sĩ Kỹ thuật"
+9. "Technical Artist" -> lặp lại, dịch tương tự.
+10. "Vice President &amp; General Manager" -> "Phó chủ tịch & Giám đốc Tổng hợp" (giữ nguyên &amp; vì là ký tự đặc biệt, nhưng trong HTML, &amp; là thực thể cho &, nên output nên giữ nguyên &amp;? Người dùng nói giữ nguyên ký tự đặc biệt, có lẽ ý là giữ nguyên các thực thể HTML. Vậy giữ nguyên "&amp;").
+11. "Sound Design" -> "Thiết kế Âm thanh"
+12. "Original Star Wars Sound Design" -> "Thiết kế Âm thanh Gốc của Star Wars" (Star Wars giữ nguyên)
+13. "Skywalker Sound" -> tên công ty, giữ nguyên.
+14. "Head of Production" -> "Trưởng bộ phận Sản xuất"
+15. "Head of Engineering" -> "Trưởng bộ phận Kỹ thuật"
+16. "Dialogue Recordist" -> "Người ghi âm Đối thoại"
+17. "Audio Archivist" -> "Lưu trữ viên Âm thanh"
+18. "Star Wars Galaxy's Edge Data Pad" -> "Data Pad Galaxy's Edge của Star Wars" (giữ nguyên Star Wars)
+19. "Senior Concept Designer" -> "Nhà thiết kế Khái niệm Cấp cao"
+20. "Play Disney Parks Producer" -> "Nhà sản xuất Play Disney Parks" (giữ nguyên tên sản phẩm?)
+21. "Creative Executive" -> "Giám đốc Sáng tạo"
+22. "Star Wars 3D Asset Group" -> "Nhóm Tài sản 3D Star Wars"
+23. "Maxis would like to thank Christina Gry Paulsen &quot;Laireen&quot; for her amazing talent and helping us create the spectacular styled rooms for Home Chef Hustle." -> Đây là câu cảm ơn. Dịch: "Maxis xin cảm ơn Christina Gry Paulsen &quot;Laireen&quot; vì tài năng tuyệt vời của cô ấy và đã giúp chúng tôi tạo nên những căn phòng được trang trí nổi bật cho Home Chef Hustle." Lưu ý: giữ nguyên &quot; (là thực thể HTML cho dấu ngoặc kép) và "Home Chef Hustle" có thể là tên gói, nên giữ nguyên? Nhưng yêu cầu không nói giữ nguyên tên gói, nên dịch? Tuy nhiên, đây là tên của một gói stuff pack, thường giữ nguyên. Tôi sẽ giữ nguyên "Home Chef Hustle" vì là tên riêng.
+24. "Studio Art Director" -> "Giám đốc Nghệ thuật Studio"
+25. "Store Operations" -> "Hoạt động Cửa hàng"
+26. "Sr. Director - Global Brand Management" -> "Giám đốc Cấp cao - Quản lý Thương hiệu Toàn cầu"
+27. "Sr. Brand Manager" -> "Quản lý Thương hiệu Cấp cao"
+28. "Sr. Brand Manager - For Rent" -> "Quản lý Thương hiệu Cấp cao - For Rent" (giữ nguyên For Rent? Có thể là tên gói, nên giữ nguyên)
+29. "Sr. Brand Manager - Horse Ranch" -> tương tự.
+30. "Lucasfilm and Disney Special Thanks" -> "Lời cảm ơn đặc biệt từ Lucasfilm và Disney" (giữ nguyên tên)
+31. "Maxis would like to thank SimLicy, Kayla Sims (lilsimsie), James Turner, and Deligracy for contributing their talent to make Mt. Komorebi's Lots. We hope you love their creations as much as we do." -> Dịch: "Maxis xin cảm ơn SimLicy, Kayla Sims (lilsimsie), James Turner và Deligracy vì đã đóng góp tài năng của họ để tạo nên các lô đất của Mt. Komorebi. Chúng tôi hy vọng bạn yêu thích những tác phẩm của họ như chúng tôi vậy." Giữ nguyên tên người và "Mt. Komorebi".
+32. "Maxis would like to thank the members of Keywords' Japanese Testing Team and ASPIRE (Asian &amp; Pacific Islanders Represent), especially Aki Miller, Annie Lim, and Jennifer Sunahara, who volunteered their time and knowledge to help The Sims 4 Snowy Escape become a more authentic and inclusive representation of the Japanese culture from which it draws inspiration." -> Dịch: "Maxis xin cảm ơn các thành viên của Nhóm Kiểm thử Tiếng Nhật của Keywords và ASPIRE (Asian &amp; Pacific Islanders Represent), đặc biệt là Aki Miller, Annie Lim và Jennifer Sunahara, những người đã tình nguyện dành thời gian và kiến thức của mình để giúp The Sims 4 Snowy Escape trở thành một bản đại diện chân thực và bao trùm hơn về văn hóa Nhật Bản mà nó lấy cảm hứng." Lưu ý: "The Sims 4 Snowy Escape" không dịch vì có "The Sims 4", nhưng "Snowy Escape" có thể giữ nguyên vì là tên gói? Trong yêu cầu, chỉ nói KHÔNG dịch "The Sims 4", vậy "Snowy Escape" có thể dịch? Tuy nhiên, đây là tên của một bản mở rộng, thường giữ nguyên. Tôi sẽ giữ nguyên toàn bộ "The Sims 4 Snowy Escape" vì chứa "The Sims 4". Tương tự cho các tên gói khác.
+33. "Maxis would like to thank lilsimsie for collaborating with us on Comfy Gamer." -> "Maxis xin cảm ơn lilsimsie vì đã hợp tác với chúng tôi trên Comfy Gamer." (giữ nguyên tên người và tên gói)
+34. "Maxis would like to thank SIXAMCC for collaborating with us on Storybook Nursery." -> tương tự.
+35. "Maxis would like to thank Ebonix for collaborating with us on Urban Homage." -> tương tự.
+36. "Maxis would like to thank Xureila for collaborating with us on Modern Luxe." -> tương tự.
+37. "Maxis would like to thank Plumbella for collaborating with us on Pastel Pop." -> tương tự.
+38. "Maxis would like to thank Doctor Ashley (Ashley Chan) for creating the hauntingly lovely Duplantier Dwelling. We hope you like it as much as we do!" -> "Maxis xin cảm ơn Doctor Ashley (Ashley Chan) vì đã tạo nên ngôi nhà Duplantier Dwelling đẹp đến nao lòng. Chúng tôi hy vọng bạn thích nó như chúng tôi vậy!" Giữ nguyên tên.
+39. "The Sims™ 4 Nifty Knitting Stuff Pack Team would like to thank all of our Sims players who contributed to the direction and design of this pack. From the very first survey to the forum brainstorms and feedback threads YOU were critical in shaping the final form of this pack every step of the way. We couldn’t have done it without you! We here at Maxis hope that you enjoy playing it as much as we enjoyed sharing the process with you.\n\nMaxis will also like to thank our friends from Coldwood Interactive for allowing us to bring Yarny to life in Nifty Knitting.\n\nSpecial thanks to Madeleine Vaillancourt.\n\nSpecial thanks to Carly Hwang, Riley, and Mimi." -> Dịch toàn bộ, nhưng giữ nguyên "The Sims™ 4 Nifty Knitting Stuff Pack" vì có "The Sims 4". "Yarny" là tên nhân vật, giữ nguyên. "Madeleine Vaillancourt", "Carly Hwang", "Riley", "Mimi" giữ nguyên tên.
+40. "Maxis would like to thank the following BioWare team members for their contributions to parts of the game: Miray Hepguler, Erin Onufrichuk, Jon Renish, and Corinne Whitford" -> Dịch: "Maxis xin cảm ơn các thành viên nhóm BioWare sau đây vì những đóng góp của họ cho một số phần của trò chơi: Miray Hepguler, Erin Onufrichuk, Jon Renish và Corinne Whitford" (giữ nguyên tên người và BioWare)
+41. "Maxis would like to thank Daniel Quasar as creator of the Progress Pride Flag." -> "Maxis xin cảm ơn Daniel Quasar với tư cách là người sáng tạo Progress Pride Flag." (giữ nguyên tên người và tên cờ)
+42. "Maxis would like to thank CatherineGames, Harrie, icemunmun, and SimLicy for helping us create amazing lots to make the World of Tartosa come to life." -> "Maxis xin cảm ơn CatherineGames, Harrie, icemunmun và SimLicy vì đã giúp chúng tôi tạo nên những lô đất tuyệt vời để làm cho Thế giới Tartosa trở nên sống động." (giữ nguyên tên người dùng và "World of Tartosa")
+43. "Creative Consultant for Hair Design – Lacy Redway" -> "Tư vấn Sáng tạo cho Thiết kế Tóc – Lacy Redway" (giữ nguyên tên)
+44. "Maxis would like to thank Dzidziak86, Deligracy, and Kayla Sims (lilsimsie) for creating all the amazing lots that have brought San Sequoia to life." -> "Maxis xin cảm ơn Dzidziak86, Deligracy và Kayla Sims (lilsimsie) vì đã tạo ra tất cả những lô đất tuyệt vời đã làm cho San Sequoia trở nên sống động." (giữ nguyên tên người dùng và "San Sequoia")
+45. "Maxis would like to thank JOL1990YT, Leo Acejo (XFreezerBunnyX), and Tonya - MsGryphi for their amazing talent and helping us create the amazing lots that make Copperdale a place for all teens." -> "Maxis xin cảm ơn JOL1990YT, Leo Acejo (XFreezerBunnyX) và Tonya - MsGryphi vì tài năng tuyệt vời của họ và đã giúp chúng tôi tạo nên những lô đất tuyệt vời biến Copperdale thành một nơi cho tất cả các bạn trẻ." (giữ nguyên tên người dùng và "Copperdale")
+46. "Special thanks to EAX" -> "Lời cảm ơn đặc biệt đến EAX" (giữ nguyên tên)
+47. "“Yob Owb Dahalfords&quot; and “Forastu Mordoo&quot;\nWritten and Performed by Rudy Pina" -> Đây là tên bài hát và người biểu diễn. Dịch: "“Yob Owb Dahalfords&quot; và “Forastu Mordoo&quot;\nViết và Biểu diễn bởi Rudy Pina" (giữ nguyên tên bài hát và tên người, và giữ nguyên &quot;)
+48. "“Zomberibe”\nWritten and recorded by Charlton Pettus" -> tương tự.
+49. "“Bleed Into Me”\nPerformed by Trivium\nWritten by Corey Beaulieu, Paulo Gregoletto and Matthew Kiichi Heafy\nPublished by Trivium Song Machine administered by Kobalt Music Publishing America, Inc.\nRecording courtesy of Elektra Records by arrangement with Warner Music Group Video Game Licensing" -> Dịch: "“Bleed Into Me”\nBiểu diễn bởi Trivium\nViết bởi Corey Beaulieu, Paulo Gregoletto và Matthew Kiichi Heafy\nXuất bản bởi Trivium Song Machine do Kobalt Music Publishing America, Inc. quản lý\nBản ghi nhờ courtesy của Elektra Records thông qua thỏa thuận với Warner Music Group Video Game Licensing" (giữ nguyên tên ban nhạc, tên công ty)
+50. "“The Legend Of Mother Swan”\nPerformed by The Hu\nWritten by Tsendbaatar Galbadrakh , Batjargal Enkhsaikhan , Galsanjamts Nyamjantsan, Naranbaatar Temuulen and Bayarmagnai Dashdondog\nPublished by No More Names (BMI) / The Hu Songs (BMI)\nRecording courtesy of Better Noise Music" -> tương tự.
+51. "“Onde Børn”\nPerformed by Myrkur\nWritten by Amalie Bruun, Kristoffer Rygg, and Morten Bergeton Iversen\nPublished by Domino Publishing Company USA (ASCAP) and District 6 Music Publishing\nRecording courtesy of Relapse Records" -> tương tự.
+52. "“Electric Messiah”\nPerformed by High On Fire\nWritten by Des Kensel, Matt Pike, and Jeff Matz\nPublished by Riffchild Music, DDK Music, J Matz Music c /o High On Fire Music (ASCAP) and Downtown Music Publishing\nRecording courtesy of Entertainment One U.S., LP" -> tương tự.
+53. "For use of FreeType\n\nPortions of this software are copyright © 2.9.1 The FreeType Project (www.freetype.org). All rights reserved." -> Dịch: "Để sử dụng FreeType\n\nMột phần của phần mềm này có bản quyền © 2.9.1 The FreeType Project (www.freetype.org). Mọi quyền được bảo lưu." (giữ nguyên tên FreeType, số phiên bản, URL)
+54. "Snappy 1.1.8 is used based on copyright © 2011, Google Inc. All rights reserved." -> "Snappy 1.1.8 được sử dụng dựa trên bản quyền © 2011, Google Inc. Mọi quyền được bảo lưu." (giữ nguyên tên Snappy, Google)
+55. "Site Reliability Engineer" -> "Kỹ sư Độ tin cậy Trang web"
+56. "Sheer Tianyi Technology LLC" -> tên công ty, giữ nguyên.
+57. "Senior User Experience Researcher" -> "Nhà nghiên cứu Trải nghiệm Người dùng Cấp cao"
+58. "Senior Operations Manager" -> "Quản lý Vận hành Cấp cao"
+59. "Senior Manager, PE Business Partnership" -> "Quản lý Cấp cao, Đối tác Kinh doanh PE" (PE có thể là viết tắt, giữ nguyên)
+60. "Senior Manager, Global Talent Acquisition" -> "Quản lý Cấp cao, Tuyển dụng Tài năng Toàn cầu"
+61. "Senior Finance Manager" -> "Quản lý Tài chính Cấp cao"
+62. "Senior Director, Technical Art" -> "Giám đốc Cấp cao, Nghệ thuật Kỹ thuật"
+63. "Senior Development Director" -> "Giám đốc Phát triển Cấp cao"
+64. "Senior Data Analysts" -> "Chuyên viên Phân tích Dữ liệu Cấp cao" (số nhiều)
+65. "Senior Data Analyst" -> "Chuyên viên Phân tích Dữ liệu Cấp cao" (số ít)
+66. "Senior Content Trainer" -> "Huấn luyện viên Nội dung Cấp cao"
+67. "Senior Cinematic Animator" -> "Hoạt họa Điện ảnh Cấp cao"
+68. "Maxis would like to thank Paramount Games and Emerging Media for collaborating with us on SpongeBob's House." -> "Maxis xin cảm ơn Paramount Games và Emerging Media vì đã hợp tác với chúng tôi trên SpongeBob's House." (giữ nguyên tên công ty và tên sản phẩm)
+69. "Maxis would like to thank Paramount Games and Emerging Media for collaborating with us on SpongeBob Kid's Room." -> tương tự.
+70. "© 2025 Viacom International Inc. All Rights Reserved. Nickelodeon, SpongeBob SquarePants and all related titles, logos and characters are trademarks of Viacom International Inc. SpongeBob SquarePants created by Stephen Hillenburg." -> Dịch: "© 2025 Viacom International Inc. Mọi quyền được bảo lưu. Nickelodeon, SpongeBob SquarePants và tất cả các tựa đề, biểu tượng và nhân vật liên quan là thương hiệu của Viacom International Inc. SpongeBob SquarePants được tạo ra bởi Stephen Hillenburg." (giữ nguyên tên, ©, và các từ không dịch như SpongeBob SquarePants)
+71. "Lead UI Engineer - Island Living" -> "Kỹ sư UI Chính - Island Living" (giữ nguyên tên gói)
+72. "Lead Gameplay Engineer - Island Living" -> "Kỹ sư Gameplay Chính - Island Living"
+73. "Lead Designer - Island Living" -> "Nhà thiết kế Chính - Island Living"
+74. "Lead Animators - Island Living" -> "Hoạt họa viên Chính - Island Living"
+75. "Recruiting Consultant" -> "Tư vấn Tuyển dụng"
+76. "Quality Verification Development Managers" -> "Quản lý Phát triển Xác minh Chất lượng"
+77. "Quality Verification Team" -> "Đội ngũ Xác minh Chất lượng"
+78. "Quality Engineering Team" -> "Đội ngũ Kỹ thuật Chất lượng"
+79. "Quality Designer II" -> "Nhà thiết kế Chất lượng II"
+80. "Quality Designers" -> "Các Nhà thiết kế Chất lượng"
+81. "Quality Assurance Development Managers" -> "Quản lý Phát triển Bảo đảm Chất lượng"
+82. "Product Management" -> "Quản lý Sản phẩm"
+83. "Production Coordinator" -> "Điều phối viên Sản xuất"
+84. "Additional Writing Magician" -> "Phù thủy Viết bổ sung" (có lẽ là chức danh vui, dịch tương tự)
+85. "Player &amp; Quality Insights" -> "Thông tin Chi tiết về Người chơi &amp; Chất lượng" (giữ nguyên &amp;)
+86. "Perfect Patio Stuff" -> "Perfect Patio Stuff" (giữ nguyên vì là tên gói? Nhưng không có "The Sims 4", nên có thể dịch? Tuy nhiên, đây là tên của một stuff pack, thường giữ nguyên. Tôi sẽ giữ nguyên.)
+87. "Luxury Party Stuff" -> tương tự.
+88. "Showing:" -> "Hiển thị:" (có thể là tiêu đề)
+89. "Get to Work" -> "Get to Work" (tên gói, giữ nguyên)
+90. "Base Game" -> "Base Game" (giữ nguyên)
+91. "For use of zlib\n\nCopyright (C) 1995-2017 Jean-loup Gailly and Mark Adler\n\nJean-loup Gailly - jloup@gzip.org\nMark Adler - madler@alumni.caltech.edu" -> Dịch: "Để sử dụng zlib\n\nBản quyền (C) 1995-2017 Jean-loup Gailly và Mark Adler\n\nJean-loup Gailly - jloup@gzip.org\nMark Adler - madler@alumni.caltech.edu" (giữ nguyên tên, email, và "zlib")
+92. "Lead Designer - Book Nook" -> "Nhà thiết kế Chính - Book Nook" (giữ nguyên tên gói)
+93. "Lead Designer - Grunge Revival" -> tương tự.
+94. "Lead Designer - Basement Treasures" -> tương tự.
+95. "Lead Designer - Greenhouse Haven" -> tương tự.
+96. "Lead Designer - Bathroom Clutter" -> tương tự.
+97. "Lead Designer - Simtimates Collection" -> tương tự.
+98. "Lead Designer - Everyday Clutter" -> tương tự.
+99. "Lead Designer - Pastel Pop" -> tương tự.
+100. "Lead Designer - Bust the Dust" -> tương tự.
+
+Lưu ý: Có một số dòng trống? Trong input, có các dòng như "\n\n" giữa các đoạn. Cần giữ nguyên số dòng. Vậy khi dịch, phải đảm bảo mỗi dòng input tương ứng một dòng output, kể cả dòng trống? Trong input, có các dòng chỉ có "\n\n", nhưng thực tế là các dòng trống. Tôi cần kiểm tra: input là một chuỗi lớn với nhiều dòng. Tôi sẽ tách thành từng dòng và dịch từng dòng, giữ nguyên các dòng trống.
+
+Tuy nhiên, trong input, có các đoạn như "Maxis would like to thank..." kéo dài nhiều dòng? Thực ra, mỗi câu cảm ơn là một dòng riêng? Trong input, tôi thấy các câu cảm ơn được ngăn cách bằng dấu xuống dòng. Ví dụ: "Maxis would like to thank Christina Gry Paulsen &quot;Laireen&quot; for her amazing talent and helping us create the spectacular styled rooms for Home Chef Hustle." là một dòng. Nhưng sau đó có "Studio Art Director" là dòng mới. Vậy mỗi dòng trong input là một mục riêng.
+
+Nhưng có một số dòng có chứa "\n\n" bên trong, như đoạn về The Sims 4 Nifty Knitting Stuff Pack Team. Trong input, nó được viết thành một dòng dài có "\n\n" bên trong? Khi tách dòng, "\n\n" sẽ tạo thành các dòng trống? Thực tế, trong chuỗi input, "\n\n" được biểu diễn là hai ký tự newline. Khi tách theo dòng, nó sẽ tạo ra một dòng trống giữa. Vậy tôi cần xử lý: mỗi dòng trong input (sau khi tách bằng newline) là một dòng riêng, kể cả dòng trống.
+
+Tôi sẽ coi input là một danh sách các dòng, mỗi dòng là một chuỗi. Tôi dịch từng dòng, nếu dòng trống thì giữ nguyên. Với các dòng có chứa "\n\n" bên trong, thực tế khi tách, chúng đã thành các dòng riêng, nên không còn "\n\n" nữa. Ví dụ: dòng "Maxis would like to thank the members of Keywords' Japanese Testing Team..." là một dòng dài, không có newline bên trong. Trong khi đoạn về Nifty Knitting có nhiều dòng? Trong input, tôi thấy:
+
+"The Sims™ 4 Nifty Knitting Stuff Pack Team would like to thank all of our Sims players who contributed to the direction and design of this pack. From the very first survey to the forum brainstorms and feedback threads YOU were critical in shaping the final form of this pack every step of the way. We couldn’t have done it without you! We here at Maxis hope that you enjoy playing it as much as we enjoyed sharing the process with you.\n\nMaxis will also like to thank our friends from Coldwood Interactive for allowing us to bring Yarny to life in Nifty Knitting.\n\nSpecial thanks to Madeleine Vaillancourt.\n\nSpecial thanks to Carly Hwang, Riley, and Mimi."
+
+Đây là một dòng duy nhất trong input? Nhưng có "\n\n" bên trong. Khi tách theo dòng, nó sẽ tách thành nhiều dòng? Thực tế, trong chuỗi, "\n\n" là ký tự newline, nên nếu tách bằng newline, sẽ có các dòng trống. Tuy nhiên, trong input ban đầu, nó được viết liền, nhưng khi hiển thị, nó có thể xuống dòng. Tôi cần xem input như một chuỗi thô. Trong nhiều trường hợp, người dùng cung cấp văn bản có dấu xuống dòng. Tôi sẽ giả sử rằng mỗi dòng trong input là một dòng riêng biệt, và tôi phải giữ nguyên số dòng. Vì vậy, tôi sẽ tách input bằng '\n' để có danh sách các dòng, sau đó dịch từng dòng, rồi nối lại bằng '\n'.
+
+Nhưng trong yêu cầu: "Trả về đúng số dòng." Vậy output phải có cùng số dòng với input.
+
+Tôi sẽ thực hiện:
+
+1. Tách input thành các dòng bằng '\n'.
+2. Với mỗi dòng, nếu dòng trống (chỉ có khoảng trắng?) thì giữ nguyên.
+3. Nếu dòng chứa văn bản, dịch văn bản đó, nhưng với các quy tắc:
+   - Không dịch các từ: "The Sims 4", "Sims", "Sim", "Social Bunny", "EA app", "Gallery". Tuy nhiên, trong danh sách này, có thể không xuất hiện "Social Bunny", "EA app", "Gallery". Chỉ cần tránh dịch chúng nếu xuất hiện.
+   - Giữ nguyên thẻ HTML: trong input có thẻ HTML nào? Tôi thấy có &amp; và &quot;. Đó là thực thể HTML, nên giữ nguyên.
+   - Giữ nguyên biến {0.String}: trong input có biến này không? Tôi không thấy, nhưng nếu có thì giữ nguyên.
+   - Giữ nguyên ký tự đặc biệt: như ©, ®, ™, v.v. giữ nguyên.
+   - Dịch các phần tiếng Anh còn lại sang tiếng Việt.
+
+Tuy nhiên, cẩn thận với các tên riêng: tôi sẽ không dịch tên người, tên công ty, tên sản phẩm trừ khi yêu cầu. Nhưng yêu cầu chỉ liệt kê một số từ không dịch, nên tôi có thể dịch các tên khác? Tốt hơn nên giữ nguyên tất cả tên riêng (tên người, công ty, sản phẩm) vì dịch có thể gây nhầm lẫn. Nhưng trong ví dụ, tôi dịch "Project Coordinator" là chức danh, không phải tên riêng. Vậy tôi sẽ dịch các chức danh, các câu văn, nhưng giữ nguyên tên riêng (bao gồm tên người, tên công ty, tên sản phẩm, tên gói, tên thế giới trong game, v.v.).
+
+Trong input, có các từ như "Home Chef Hustle", "Comfy Gamer", "Storybook Nursery", "Urban Homage", "Modern Luxe", "Pastel Pop", "Duplantier Dwelling", "Nifty Knitting", "Mt. Komorebi", "World of Tartosa", "San Sequoia", "Copperdale", "Island Living", "Book Nook", "Grunge Revival", "Basement Treasures", "Greenhouse Haven", "Bathroom Clutter", "Simtimates Collection", "Everyday Clutter", "Bust the Dust" - đều là tên của các gói stuff hoặc thế giới, nên giữ nguyên.
+
+Vậy quy tắc: dịch các từ thông thường, giữ nguyên tên riêng và các từ đã được chỉ định không dịch.
+
+Tôi sẽ bắt đầu dịch từng dòng.
+
+Lưu ý: Một số dòng có dấu hai chấm, gạch ngang, v.v. giữ nguyên cấu trúc.
+
+Tôi sẽ tạo danh sách output.
+
+Vì input dài, tôi sẽ dịch từng phần.
+
+Đầu tiên, các dòng đơn giản:
+
+- "Project Coordinator" -> "Điều phối viên Dự án"
+- "VERY SPECIAL THANKS" -> "LỜI CẢM ƠN ĐẶC BIỆT"
+- "User Experience Researchers" -> "Nhà nghiên cứu Trải nghiệm Người dùng"
+- "User Experience Researcher" -> "Nhà nghiên cứu Trải nghiệm Người dùng"
+- "The Walt Disney Company" -> giữ nguyên: "The Walt Disney Company"
+- "Technical Product Manager" -> "Quản lý Sản phẩm Kỹ thuật"
+- "Technical Artists" -> "Nghệ sĩ Kỹ thuật"
+- "Technical Artist" -> "Nghệ sĩ Kỹ thuật"
+- "Technical Artist" -> "Nghệ sĩ Kỹ thuật"
+- "Vice President &amp; General Manager" -> "Phó chủ tịch &amp; Giám đốc Tổng hợp" (giữ nguyên &amp;)
+- "Sound Design" -> "Thiết kế Âm thanh"
+- "Original Star Wars Sound Design" -> "Thiết kế Âm thanh Gốc của Star Wars"
+- "Skywalker Sound" -> "Skywalker Sound"
+- "Head of Production" -> "Trưởng bộ phận Sản xuất"
+- "Head of Engineering" -> "Trưởng bộ phận Kỹ thuật"
+- "Dialogue Recordist" -> "Người ghi âm Đối thoại"
+- "Audio Archivist" -> "Lưu trữ viên Âm thanh"
+- "Star Wars Galaxy's Edge Data Pad" -> "Data Pad Galaxy's Edge của Star Wars"
+- "Senior Concept Designer" -> "Nhà thiết kế Khái niệm Cấp cao"
+- "Play Disney Parks Producer" -> "Nhà sản xuất Play Disney Parks"
+- "Creative Executive" -> "Giám đốc Sáng tạo"
+- "Star Wars 3D Asset Group" -> "Nhóm Tài sản 3D Star Wars"
+
+Tiếp theo:
+
+- "Maxis would like to thank Christina Gry Paulsen &quot;Laireen&quot; for her amazing talent and helping us create the spectacular styled rooms for Home Chef Hustle." -> "Maxis xin cảm ơn Christina Gry Paulsen &quot;Laireen&quot; vì tài năng tuyệt vời của cô ấy và đã giúp chúng tôi tạo nên những căn phòng được trang trí nổi bật cho Home Chef Hustle."
+
+- "Studio Art Director" -> "Giám đốc Nghệ thuật Studio"
+- "Store Operations" -> "Hoạt động Cửa hàng"
+- "Sr. Director - Global Brand Management" -> "Giám đốc Cấp cao - Quản lý Thương hiệu Toàn cầu"
+- "Sr. Brand Manager" -> "Quản lý Thương hiệu Cấp cao"
+- "Sr. Brand Manager - For Rent" -> "Quản lý Thương hiệu Cấp cao - For Rent"
+- "Sr. Brand Manager - Horse Ranch" -> "Quản lý Thương hiệu Cấp cao - Horse Ranch"
+- "Lucasfilm and Disney Special Thanks" -> "Lời cảm ơn đặc biệt từ Lucasfilm và Disney"
+
+- "Maxis would like to thank SimLicy, Kayla Sims (lilsimsie), James Turner, and Deligracy for contributing their talent to make Mt. Komorebi's Lots. We hope you love their creations as much as we do." -> "Maxis xin cảm ơn SimLicy, Kayla Sims (lilsimsie), James Turner và Deligracy vì đã đóng góp tài năng của họ để tạo nên các lô đất của Mt. Komorebi. Chúng tôi hy vọng bạn yêu thích những tác phẩm của họ như chúng tôi vậy."
+
+- "Maxis would like to thank the members of Keywords' Japanese Testing Team and ASPIRE (Asian &amp; Pacific Islanders Represent), especially Aki Miller, Annie Lim, and Jennifer Sunahara, who volunteered their time and knowledge to help The Sims 4 Snowy Escape become a more authentic and inclusive representation of the Japanese culture from which it draws inspiration." -> "Maxis xin cảm ơn các thành viên của Nhóm Kiểm thử Tiếng Nhật của Keywords và ASPIRE (Asian &amp; Pacific Islanders Represent), đặc biệt là Aki Miller, Annie Lim và Jennifer Sunahara, những người đã tình nguyện dành thời gian và kiến thức của mình để giúp The Sims 4 Snowy Escape trở thành một bản đại diện chân thực và bao trùm hơn về văn hóa Nhật Bản mà nó lấy cảm hứng."
+
+- "Maxis would like to thank lilsimsie for collaborating with us on Comfy Gamer." -> "Maxis xin cảm ơn lilsimsie vì đã hợp tác với chúng tôi trên Comfy Gamer."
+- "Maxis would like to thank SIXAMCC for collaborating with us on Storybook Nursery." -> "Maxis xin cảm ơn SIXAMCC vì đã hợp tác với chúng tôi trên Storybook Nursery."
+- "Maxis would like to thank Ebonix for collaborating with us on Urban Homage." -> "Maxis xin cảm ơn Ebonix vì đã hợp tác với chúng tôi trên Urban Homage."
+- "Maxis would like to thank Xureila for collaborating with us on Modern Luxe." -> "Maxis xin cảm ơn Xureila vì đã hợp tác với chúng tôi trên Modern Luxe."
+- "Maxis would like to thank Plumbella for collaborating with us on Pastel Pop." -> "Maxis xin cảm ơn Plumbella vì đã hợp tác với chúng tôi trên Pastel Pop."
+- "Maxis would like to thank Doctor Ashley (Ashley Chan) for creating the hauntingly lovely Duplantier Dwelling. We hope you like it as much as we do!" -> "Maxis xin cảm ơn Doctor Ashley (Ashley Chan) vì đã tạo nên ngôi nhà Duplantier Dwelling đẹp đến nao lòng. Chúng tôi hy vọng bạn thích nó như chúng tôi vậy!"
+
+- "The Sims™ 4 Nifty Knitting Stuff Pack Team would like to thank all of our Sims players who contributed to the direction and design of this pack. From the very first survey to the forum brainstorms and feedback threads YOU were critical in shaping the final form of this pack every step of the way. We couldn’t have done it without you! We here at Maxis hope that you enjoy playing it as much as we enjoyed sharing the process with you.\n\nMaxis will also like to thank our friends from Coldwood Interactive for allowing us to bring Yarny to life in Nifty Knitting.\n\nSpecial thanks to Madeleine Vaillancourt.\n\nSpecial thanks to Carly Hwang, Riley, and Mimi." 
+
+Dịch: "The Sims™ 4 Nifty Knitting Stuff Pack Team xin cảm ơn tất cả người chơi Sims của chúng tôi đã đóng góp vào định hướng và thiết kế của gói này. Từ cuộc khảo sát đầu tiên đến các buổi brainstorming và luồng phản hồi trên diễn đàn, BẠN đã quan trọng trong việc định hình dạng cuối cùng của gói này từng bước. Chúng tôi không thể làm được nếu không có bạn! Chúng tôi tại Maxis hy vọng bạn thích chơi nó như chúng tôi đã thích chia sẻ quá trình với bạn.\n\nMaxis cũng xin cảm ơn bạn bè của chúng tôi từ Coldwood Interactive vì đã cho phép chúng tôi đưa Yarny đến với Nifty Knitting.\n\nLời cảm ơn đặc biệt đến Madeleine Vaillancourt.\n\nLời cảm ơn đặc biệt đến Carly Hwang, Riley và Mimi."
+
+Lưu ý: Giữ nguyên "The Sims™ 4 Nifty Knitting Stuff Pack Team" vì có "The Sims 4". "Yarny" giữ nguyên.
+
+- "Maxis would like to thank the following BioWare team members for their contributions to parts of the game: Miray Hepguler, Erin Onufrichuk, Jon Renish, and Corinne Whitford" -> "Maxis xin cảm ơn các thành viên nhóm BioWare sau đây vì những đóng góp của họ cho một số phần của trò chơi: Miray Hepguler, Erin Onufrichuk, Jon Renish và Corinne Whitford"
+
+- "Maxis would like to thank Daniel Quasar as creator of the Progress Pride Flag." -> "Maxis xin cảm ơn Daniel Quasar với tư cách là người sáng tạo Progress Pride Flag."
+
+- "Maxis would like to thank CatherineGames, Harrie, icemunmun, and SimLicy for helping us create amazing lots to make the World of Tartosa come to life." -> "Maxis xin cảm ơn CatherineGames, Harrie, icemunmun và SimLicy vì đã giúp chúng tôi tạo nên những lô đất tuyệt vời để làm cho Thế giới Tartosa trở nên sống động."
+
+- "Creative Consultant for Hair Design – Lacy Redway" -> "Tư vấn Sáng tạo cho Thiết kế Tóc – Lacy Redway"
+
+- "Maxis would like to thank Dzidziak86, Deligracy, and Kayla Sims (lilsimsie) for creating all the amazing lots that have brought San Sequoia to life." -> "Maxis xin cảm ơn Dzidziak86, Deligracy và Kayla Sims (lilsimsie) vì đã tạo ra tất cả những lô đất tuyệt vời đã làm cho San Sequoia trở nên sống động."
+
+- "Maxis would like to thank JOL1990YT, Leo Acejo (XFreezerBunnyX), and Tonya - MsGryphi for their amazing talent and helping us create the amazing lots that make Copperdale a place for all teens." -> "Maxis xin cảm ơn JOL1990YT, Leo Acejo (XFreezerBunnyX) và Tonya - MsGryphi vì tài năng tuyệt vời của họ và đã giúp chúng tôi tạo nên những lô đất tuyệt vời biến Copperdale thành một nơi cho tất cả các bạn trẻ."
+
+- "Special thanks to EAX" -> "Lời cảm ơn đặc biệt đến EAX"
+
+- "“Yob Owb Dahalfords&quot; and “Forastu Mordoo&quot;\nWritten and Performed by Rudy Pina" -> "“Yob Owb Dahalfords&quot; và “Forastu Mordoo&quot;\nViết và Biểu diễn bởi Rudy Pina"
+
+- "“Zomberibe”\nWritten and recorded by Charlton Pettus" -> "“Zomberibe”\nViết và ghi lại bởi Charlton Pettus"
+
+- "“Bleed Into Me”\nPerformed by Trivium\nWritten by Corey Beaulieu, Paulo Gregoletto and Matthew Kiichi Heafy\nPublished by Trivium Song Machine administered by Kobalt Music Publishing America, Inc.\nRecording courtesy of Elektra Records by arrangement with Warner Music Group Video Game Licensing" -> "“Bleed Into Me”\nBiểu diễn bởi Trivium\nViết bởi Corey Beaulieu, Paulo Gregoletto và Matthew Kiichi Heafy\nXuất bản bởi Trivium Song Machine do Kobalt Music Publishing America, Inc. quản lý\nBản ghi nhờ courtesy của Elektra Records thông qua thỏa thuận với Warner Music Group Video Game Licensing"
+
+- "“The Legend Of Mother Swan”\nPerformed by The Hu\nWritten by Tsendbaatar Galbadrakh , Batjargal Enkhsaikhan , Galsanjamts Nyamjantsan, Naranbaatar Temuulen and Bayarmagnai Dashdondog\nPublished by No More Names (BMI) / The Hu Songs (BMI)\nRecording courtesy of Better Noise Music" -> "“The Legend Of Mother Swan”\nBiểu diễn bởi The Hu\nViết bởi Tsendbaatar Galbadrakh , Batjargal Enkhsaikhan , Galsanjamts Nyamjantsan, Naranbaatar Temuulen và Bayarmagnai Dashdondog\nXuất bản bởi No More Names (BMI) / The Hu Songs (BMI)\nBản ghi nhờ courtesy của Better Noise Music"
+
+- "“Onde Børn”\nPerformed by Myrkur\nWritten by Amalie Bruun, Kristoffer Rygg, and Morten Bergeton Iversen\nPublished by Domino Publishing Company USA (ASCAP) and District 6 Music Publishing\nRecording courtesy of Relapse Records" -> "“Onde Børn”\nBiểu diễn bởi Myrkur\nViết bởi Amalie Bruun, Kristoffer Rygg và Morten Bergeton Iversen\nXuất bản bởi Domino Publishing Company USA (ASCAP) và District 6 Music Publishing\nBản ghi nhờ courtesy của Relapse Records"
+
+- "“Electric Messiah”\nPerformed by High On Fire\nWritten by Des Kensel, Matt Pike, and Jeff Matz\nPublished by Riffchild Music, DDK Music, J Matz Music c /o High On Fire Music (ASCAP) and Downtown Music Publishing\nRecording courtesy of Entertainment One U.S., LP" -> "“Electric Messiah”\nBiểu diễn bởi High On Fire\nViết bởi Des Kensel, Matt Pike và Jeff Matz\nXuất bản bởi Riffchild Music, DDK Music, J Matz Music c /o High On Fire Music (ASCAP) và Downtown Music Publishing\nBản ghi nhờ courtesy của Entertainment One U.S., LP"
+
+- "For use of FreeType\n\nPortions of this software are copyright © 2.9.1 The FreeType Project (www.freetype.org). All rights reserved." -> "Để sử dụng FreeType\n\nMột phần của phần mềm này có bản quyền © 2.9.1 The FreeType Project (www.freetype.org). Mọi quyền được bảo lưu."
+
+- "Snappy 1.1.8 is used based on copyright © 2011, Google Inc. All rights reserved." -> "Snappy 1.1.8 được sử dụng dựa trên bản quyền © 2011, Google Inc. Mọi quyền được bảo lưu."
+
+- "Site Reliability Engineer" -> "Kỹ sư Độ tin cậy Trang web"
+- "Sheer Tianyi Technology LLC" -> "Sheer Tianyi Technology LLC"
+- "Senior User Experience Researcher" -> "Nhà nghiên cứu Trải nghiệm Người dùng Cấp cao"
+- "Senior Operations Manager" -> "Quản lý Vận hành Cấp cao"
+- "Senior Manager, PE Business Partnership" -> "Quản lý Cấp cao, Đối tác Kinh doanh PE"
+- "Senior Manager, Global Talent Acquisition" -> "Quản lý Cấp cao, Tuyển dụng Tài năng Toàn cầu"
+- "Senior Finance Manager" -> "Quản lý Tài chính Cấp cao"
+- "Senior Director, Technical Art" -> "Giám đốc Cấp cao, Nghệ thuật Kỹ thuật"
+- "Senior Development Director" -> "Giám đốc Phát triển Cấp cao"
+- "Senior Data Analysts" -> "Chuyên viên Phân tích Dữ liệu Cấp cao"
+- "Senior Data Analyst" -> "Chuyên viên Phân tích Dữ liệu Cấp cao"
+- "Senior Content Trainer" -> "Huấn luyện viên Nội dung Cấp cao"
+- "Senior Cinematic Animator" -> "Hoạt họa Điện ảnh Cấp cao"
+
+- "Maxis would like to thank Paramount Games and Emerging Media for collaborating with us on SpongeBob's House." -> "Maxis xin cảm ơn Paramount Games và Emerging Media vì đã hợp tác với chúng tôi trên SpongeBob's House."
+- "Maxis would like to thank Paramount Games and Emerging Media for collaborating with us on SpongeBob Kid's Room." -> "Maxis xin cảm ơn Paramount Games và Emerging Media vì đã hợp tác với chúng tôi trên SpongeBob Kid's Room."
+
+- "© 2025 Viacom International Inc. All Rights Reserved. Nickelodeon, SpongeBob SquarePants and all related titles, logos and characters are trademarks of Viacom International Inc. SpongeBob SquarePants created by Stephen Hillenburg." -> "© 2025 Viacom International Inc. Mọi quyền được bảo lưu. Nickelodeon, SpongeBob SquarePants và tất cả các tựa đề, biểu tượng và nhân vật liên quan là thương hiệu của Viacom International Inc. SpongeBob SquarePants được tạo ra bởi Stephen Hillenburg."
+
+- "Lead UI Engineer - Island Living" -> "Kỹ sư UI Chính - Island Living"
+- "Lead Gameplay Engineer - Island Living" -> "Kỹ sư Gameplay Chính - Island Living"
+- "Lead Designer - Island Living" -> "Nhà thiết kế Chính - Island Living"
+- "Lead Animators - Island Living" -> "Hoạt họa viên Chính - Island Living"
+- "Recruiting Consultant" -> "Tư vấn Tuyển dụng"
+- "Quality Verification Development Managers" -> "Quản lý Phát triển Xác minh Chất lượng"
+- "Quality Verification Team" -> "Đội ngũ Xác minh Chất lượng"
+- "Quality Engineering Team" -> "Đội ngũ Kỹ thuật Chất lượng"
+- "Quality Designer II" -> "Nhà thiết kế Chất lượng II"
+- "Quality Designers" -> "Các Nhà thiết kế Chất lượng"
+- "Quality Assurance Development Managers" -> "Quản lý Phát triển Bảo đảm Chất lượng"
+- "Product Management" -> "Quản lý Sản phẩm"
+- "Production Coordinator" -> "Điều phối viên Sản xuất"
+- "Additional Writing Magician" -> "Phù thủy Viết bổ sung"
+- "Player &amp; Quality Insights" -> "Thông tin Chi tiết về Người chơi &amp; Chất lượng"
+- "Perfect Patio Stuff" -> "Perfect Patio Stuff"
+- "Luxury Party Stuff" -> "Luxury Party Stuff"
+- "Showing:" -> "Hiển thị:"
+- "Get to Work" -> "Get to Work"
+- "Base Game" -> "Base Game"
+- "For use of zlib\n\nCopyright (C) 1995-2017 Jean-loup Gailly and Mark Adler\n\nJean-loup Gailly - jloup@gzip.org\nMark Adler - madler@alumni.caltech.edu" -> "Để sử dụng zlib\n\nBản quyền (C) 1995-2017 Jean-loup Gailly và Mark Adler\n\nJean-loup Gailly - jloup@gzip.org\nMark Adler - madler@alumni.caltech.edu"
+- "Lead Designer - Book Nook" -> "Nhà thiết kế Chính - Book Nook"
+- "Lead Designer - Grunge Revival" -> "Nhà thiết kế Chính - Grunge Revival"
+- "Lead Designer - Basement Treasures" -> "Nhà thiết kế Chính - Basement Treasures"
+- "Lead Designer - Greenhouse Haven" -> "Nhà thiết kế Chính - Greenhouse Haven"
+- "Lead Designer - Bathroom Clutter" -> "Nhà thiết kế Chính - Bathroom Clutter"
+- "Lead Designer - Simtimates Collection" -> "Nhà thiết kế Chính - Simtimates Collection"
+- "Lead Designer - Everyday Clutter" -> "Nhà thiết kế Chính - Everyday Clutter"
+- "Lead Designer - Pastel Pop" -> "Nhà thiết kế Chính - Pastel Pop"
+- "Lead Designer - Bust the Dust" -> "Nhà thiết kế Chính - Bust the Dust"
+
+Bây giờ, tôi cần đảm bảo số dòng output giống input. Tôi sẽ tạo một mảng các dòng output tương ứng.
+
+Tuy nhiên, trong input có một số dòng có thể trống? Tôi kiểm tra: input bắt đầu bằng "Project Coordinator", sau đó là "VERY SPECIAL THANKS", v.v. Không có dòng trống ở đầu. Nhưng trong các đoạn, có "\n\n" tạo thành dòng trống. Khi tách, sẽ có các dòng trống. Tôi phải giữ nguyên các dòng trống đó trong output.
+
+Vì vậy, tôi sẽ tách input bằng '\n', duyệt qua từng dòng, nếu dòng rỗng thì giữ nguyên, nếu không thì dịch.
+
+Trong quá trình dịch, tôi cần chú ý giữ nguyên các thực thể HTML như &amp; và &quot;. Trong output, tôi sẽ giữ nguyên chúng.
+
+Ngoài ra, có một số dùng dấu hai chấm, gạch ngang, giữ nguyên.
+
+Tôi sẽ thực hiện dịch và trả về kết quả.
+
+Vì output dài, tôi sẽ liệt kê từng dòng trong code.
+
+Nhưng ở đây tôi cần trả lời bằng văn bản, vậy tôi sẽ viết toàn bộ output.
+
+Tuy nhiên, cần lưu ý: trong input có dòng "The Sims™ 4 Nifty Knitting Stuff Pack Team would like to thank..." có chứa "The Sims™ 4" - trong yêu cầu nói KHÔNG dịch "The Sims 4", nhưng ở đây có "™", vẫn là "The Sims 4", nên giữ nguyên toàn bộ cụm đó? Tôi nghĩ nên giữ nguyên "The Sims™ 4 Nifty Knitting Stuff Pack Team" vì nó là tên của team, và có chứa "The Sims 4". Tương tự cho "The Sims 4 Snowy Escape".
+
+Vậy tôi sẽ giữ nguyên các cụm có chứa "The Sims 4".
+
+Bây giờ, tôi bắt đầu dịch.
+
+Tôi sẽ tạo một danh sách các dòng output.
+
+Dòng 1: "Project Coordinator" -> "Điều phối viên Dự án"
+Dòng 2: "VERY SPECIAL THANKS" -> "LỜI CẢM ƠN ĐẶC BIỆT"
+Dòng 3: "User Experience Researchers" -> "Nhà nghiên cứu Trải nghiệm Người dùng"
+Dòng 4: "User Experience Researcher" -> "Nhà nghiên cứu Trải nghiệm Người dùng"
+Dòng 5: "The Walt Disney Company" -> "The Walt Disney Company"
+Dòng 6: "Technical Product Manager" -> "Quản lý Sản phẩm Kỹ thuật"
+Dòng 7: "Technical Artists" -> "Nghệ sĩ Kỹ thuật"
+Dòng 8: "Technical Artist" -> "Nghệ sĩ Kỹ thuật"
+Dòng 9: "Technical Artist" -> "Nghệ sĩ Kỹ thuật"
+Dòng 10: "Vice President &amp; General Manager" -> "Phó chủ tịch &amp; Giám đốc Tổng hợp"
+Dòng 11: "Sound Design" -> "Thiết kế Âm thanh"
+Dòng 12: "Original Star Wars Sound Design" -> "Thiết kế Âm thanh Gốc của Star Wars"
+Dòng 13: "Skywalker Sound" -> "Skywalker Sound"
+Dòng 14: "Head of Production" -> "Trưởng bộ phận Sản xuất"
+Dòng 15: "Head of Engineering" -> "Trưởng bộ phận Kỹ thuật"
+Dòng 16: "Dialogue Recordist" -> "Người ghi âm Đối thoại"
+Dòng 17: "Audio Archivist" -> "Lưu trữ viên Âm thanh"
+Dòng 18: "Star Wars Galaxy's Edge Data Pad" -> "Data Pad Galaxy's Edge của Star Wars"
+Dòng 19: "Senior Concept Designer" -> "Nhà thiết kế Khái niệm Cấp cao"
+Dòng 20: "Play Disney Parks Producer" -> "Nhà sản xuất Play Disney Parks"
+Dòng 21: "Creative Executive" -> "Giám đốc Sáng tạo"
+Dòng 22: "Star Wars 3D Asset Group" -> "Nhóm Tài sản 3D Star Wars"
+Dòng 23: "Maxis would like to thank Christina Gry Paulsen &quot;Laireen&quot; for her amazing talent and helping us create the spectacular styled rooms for Home Chef Hustle." -> "Maxis xin cảm ơn Christina Gry Paulsen &quot;Laireen&quot; vì tài năng tuyệt vời của cô ấy và đã giúp chúng tôi tạo nên những căn phòng được trang trí nổi bật cho Home Chef Hustle."
+Dòng 24: "Studio Art Director" -> "Giám đốc Nghệ thuật Studio"
+Dòng 25: "Store Operations" -> "Hoạt động Cửa hàng"
+Dòng 26: "Sr. Director - Global Brand Management" -> "Giám đốc Cấp cao - Quản lý Thương hiệu Toàn cầu"
+Dòng 27: "Sr. Brand Manager" -> "Quản lý Thương hiệu Cấp cao"
+Dòng 28: "Sr. Brand Manager - For Rent" -> "Quản lý Thương hiệu Cấp cao - For Rent"
+Dòng 29: "Sr. Brand Manager - Horse Ranch" -> "Quản lý Thương hiệu Cấp cao - Horse Ranch"
+Dòng 30: "Lucasfilm and Disney Special Thanks" -> "Lời cảm ơn đặc biệt từ Lucasfilm và Disney"
+Dòng 31: "Maxis would like to thank SimLicy, Kayla Sims (lilsimsie), James Turner, and Deligracy for contributing their talent to make Mt. Komorebi's Lots. We hope you love their creations as much as we do." -> "Maxis xin cảm ơn SimLicy, Kayla Sims (lilsimsie), James Turner và Deligracy vì đã đóng góp tài năng của họ để tạo nên các lô đất của Mt. Komorebi. Chúng tôi hy vọng bạn yêu thích những tác phẩm của họ như chúng tôi vậy."
+Dòng 32: "Maxis would like to thank the members of Keywords' Japanese Testing Team and ASPIRE (Asian &amp; Pacific Islanders Represent), especially Aki Miller, Annie Lim, and Jennifer Sunahara, who volunteered their time and knowledge to help The Sims 4 Snowy Escape become a more authentic and inclusive representation of the Japanese culture from which it draws inspiration." -> "Maxis xin cảm ơn các thành viên của Nhóm Kiểm thử Tiếng Nhật của Keywords và ASPIRE (Asian &amp; Pacific Islanders Represent), đặc biệt là Aki Miller, Annie Lim và Jennifer Sunahara, những người đã tình nguyện dành thời gian và kiến thức của mình để giúp The Sims 4 Snowy Escape trở thành một bản đại diện chân thực và bao trùm hơn về văn hóa Nhật Bản mà nó lấy cảm hứng."
+Dòng 33: "Maxis would like to thank lilsimsie for collaborating with us on Comfy Gamer." -> "Maxis xin cảm ơn lilsimsie vì đã hợp tác với chúng tôi trên Comfy Gamer."
+Dòng 34: "Maxis would like to thank SIXAMCC for collaborating with us on Storybook Nursery." -> "Maxis xin cảm ơn SIXAMCC vì đã hợp tác với chúng tôi trên Storybook Nursery."
+Dòng 35: "Maxis would like to thank Ebonix for collaborating with us on Urban Homage." -> "Maxis xin cảm ơn Ebonix vì đã hợp tác với chúng tôi trên Urban Homage."
+Dòng 36: "Maxis would like to thank Xureila for collaborating with us on Modern Luxe." -> "Maxis xin cảm ơn Xureila vì đã hợp tác với chúng tôi trên Modern Luxe."
+Dòng 37: "Maxis would like to thank Plumbella for collaborating with us on Pastel Pop." -> "Maxis xin cảm ơn Plumbella vì đã hợp tác với chúng tôi trên Pastel Pop."
+Dòng 38: "Maxis would like to thank Doctor Ashley (Ashley Chan) for creating the hauntingly lovely Duplantier Dwelling. We hope you like it as much as we do!" -> "Maxis xin cảm ơn Doctor Ashley (Ashley Chan) vì đã tạo nên ngôi nhà Duplantier Dwelling đẹp đến nao lòng. Chúng tôi hy vọng bạn thích nó như chúng tôi vậy!"
+Dòng 39: "The Sims™ 4 Nifty Knitting Stuff Pack Team would like to thank all of our Sims players who contributed to the direction and design of this pack. From the very first survey to the forum brainstorms and feedback threads YOU were critical in shaping the final form of this pack every step of the way. We couldn’t have done it without you! We here at Maxis hope that you enjoy playing it as much as we enjoyed sharing the process with you.\n\nMaxis will also like to thank our friends from Coldwood Interactive for allowing us to bring Yarny to life in Nifty Knitting.\n\nSpecial thanks to Madeleine Vaillancourt.\n\nSpecial thanks to Carly Hwang, Riley, and Mimi." 
+
+Đây là một dòng dài trong input? Trong input, nó có vẻ là một dòng duy nhất với "\n\n" bên trong. Khi tách, nó sẽ thành một dòng duy nhất? Không, vì "\n\n" là ký tự newline, nên nếu tách bằng '\n', sẽ tách thành nhiều dòng. Ví dụ: chuỗi này có hai "\n\n", tức là có ít nhất 3 dòng? Thực tế, "\n\n" tương ứng với hai ký tự newline, nên khi tách, sẽ tạo ra một dòng trống giữa. Vì vậy, chuỗi này sẽ tách thành:
+
+- Phần đầu: "The Sims™ 4 Nifty Knitting Stuff Pack Team would like to thank all of our Sims players who contributed to the direction and design of this pack. From the very first survey to the forum brainstorms and feedback threads YOU were critical in shaping the final form of this pack every step of the way. We couldn’t have done it without you! We here at Maxis hope that you enjoy playing it as much as we enjoyed sharing the process with you."
+- Dòng trống (vì sau đó là "\n\n")
+- "Maxis will also like to thank our friends from Coldwood Interactive for allowing us to bring Yarny to life in Nifty Knitting."
+- Dòng trống
+- "Special thanks to Madeleine Vaillancourt."
+- Dòng trống
+- "Special thanks to Carly Hwang, Riley, and Mimi."
+
+Vậy thực tế, input gốc có thể được định dạng với các dòng trống. Trong khi tôi đang xem nó như một dòng, nhưng thực tế trong dữ liệu, nó có nhiều dòng. Tôi cần xem xét kỹ.
+
+Trong input người dùng cung cấp, đoạn đó được viết liền mạch với "\n\n", nhưng khi hiển thị, nó có thể xuống dòng. Tôi sẽ coi input như một chuỗi và tách bằng '\n'. Vậy tôi cần xác định chính xác các dòng.
+
+Để đơn giản, tôi sẽ giả sử rằng input là một danh sách các dòng, mỗi dòng là một mục riêng biệt, và các đoạn dài với "\n\n" thực sự là một dòng duy nhất chứa "\n\n"? Không, vì "\n" là ký tự newline, nên nếu một dòng chứa "\n\n", điều đó có nghĩa là trong cùng một dòng có ký tự newline, điều này không thể vì dòng được định nghĩa bởi newline. Vậy có lẽ input được định dạng với các dòng thực sự, và "\n\n" chỉ là để tạo dòng trống trong hiển thị, nhưng trong mã nguồn, nó là hai ký tự newline liên tiếp, tạo thành một dòng trống.
+
+Khi tách bằng '\n', mỗi lần gặp '\n' sẽ tạo một dòng mới. Vì "\n\n" là hai ký tự newline, nó sẽ tạo ra một dòng trống giữa. Vậy chuỗi dài kia sẽ tách thành nhiều dòng.
+
+Do đó, tôi cần dịch từng dòng riêng biệt.
+
+Vì tôi không có input gốc dưới dạng mảng, tôi sẽ phải suy đoán. Tốt nhất là tôi nên giữ nguyên cấu trúc dòng. Trong output, tôi sẽ giữ nguyên các dòng trống.
+
+Trong đoạn cảm ơn Nifty Knitting, nó có nhiều đoạn, vậy tôi sẽ dịch từng đoạn tương ứng với từng dòng sau khi tách.
+
+Nhưng trong input ban đầu, nó có thể là:
+
+Dòng: "The Sims™ 4 Nifty Knitting Stuff Pack Team would like to thank all of our Sims players who contributed to the direction and design of this pack. From the very first survey to the forum brainstorms and feedback threads YOU were critical in shaping the final form of this pack every step of the way. We couldn’t have done it without you! We here at Maxis hope that you enjoy playing it as much as we enjoyed sharing the process with you."
+Dòng trống
+Dòng: "Maxis will also like to thank our friends from Coldwood Interactive for allowing us to bring Yarny to life in Nifty Knitting."
+Dòng trống
+Dòng: "Special thanks to Madeleine Vaillancourt."
+Dòng trống
+Dòng: "Special thanks to Carly Hwang, Riley, and Mimi."
+
+Vậy tôi sẽ dịch từng dòng không trống.
+
+Tương tự cho các đoạn khác có "\n\n".
+
+Trong input, còn có các dòng như "For use of FreeType\n\nPortions of this software..." - đây là một dòng? Hay hai dòng? Thực tế, "For use of FreeType" là một dòng, sau đó là dòng trống, rồi "Portions of this software..."? Trong input, nó được viết: "For use of FreeType\n\nPortions of this software are copyright © 2.9.1 The FreeType Project (www.freetype.org). All rights reserved." Vậy khi tách, sẽ có:
+- Dòng: "For use of FreeType"
+- Dòng trống
+- Dòng: "Portions of this software are copyright © 2.9.1 The FreeType Project (www.freetype.org). All rights reserved."
+
+Vậy tôi cần dịch từng dòng riêng.
+
+Vì vậy, tôi sẽ xử lý từng dòng trong danh sách.
+
+Tôi sẽ tạo danh sách các dòng input bằng cách tách chuỗi input bằng '\n'. Sau đó dịch từng dòng.
+
+Nhưng tôi không có chuỗi input chính xác, tôi chỉ có đoạn văn bản trong câu hỏi. Tôi sẽ coo đó là input và tách thủ công.
+
+Tuy nhiên, để tiết kiệm thời gian, tôi sẽ dịch trực tiếp từng dòng như đã liệt kê, và đảm bảo rằng tôi có cùng số dòng.
+
+Tôi sẽ đếm số dòng trong input từ câu hỏi. Có thể sử dụng cách nhìn thô: đếm số lần xuất hiện dấu xuống dòng. Nhưng dễ hơn là tôi sẽ liệt kê các dòng theo thứ tự tôi thấy.
+
+Từ câu hỏi, sau "Showing:" có "Get to Work", "Base Game", v.v. Tôi sẽ theo đúng trình tự.
+
+Tôi sẽ tạo một danh sách các dòng output tương ứng.
+
+Vì output dài, tôi sẽ viết nó trong phản hồi.
+
+Lưu ý: Trong input có dòng "Vice President &amp; General Manager" - tôi dịch giữ nguyên &amp;.
+
+Tương tự cho "Player &amp; Quality Insights

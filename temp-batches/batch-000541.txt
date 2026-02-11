@@ -1,0 +1,84 @@
+Persona Re-Imager
+Khi người khác cần giúp đỡ, bạn được giao nhiệm vụ. Với những gợi ý trang phục xuất hiện và lời khuyên tức thời, bạn sẽ cần Làm Mới mọi nhu cầu vật chất.
+Make-Over Miracle Worker
+Phép màu thực sự không cần cây đũa, mà là một mắc áo trong mỗi tay cầm một mảnh trang phục được cân nhắc kỹ lưỡng. Mang một bùa chú đến mọi tủ quần áo!
+Wardrobe Wiz
+Có những suy nghĩ ở bề mặt, nhưng cũng có những cái sâu xa hơn. Chìa khóa là xuyên kim và nhúng nhẹ dưới bề mặt để học hỏi và làm chủ các cách thức của dệt may.
+Textile Tactician
+Một ngày tốt lành bắt đầu với trang phục đúng đắn và một đêm tuyệt vời khởi đầu với bộ đồ nghiêm túc. Trang trọng nghiêm túc về từng nút bấm và khóa kéo tinh ranh là theo đuổi tận tâm của một Người Trang Phục Tận Tâm.
+Dedicated Dresser
+Cập nhật Trạng thái Mạng xã hội ({0.String})
+Khi trang phục vượt lên trên hơi ấm vật chất và phong cách cá nhân, nó tăng cường các nét văn hóa của người mặc. Bạn đã đến để ghi lại điều đó, tại thời điểm chính xác này, cho tất cả mọi người đọc!
+Culture Columnist
+Không chỉ là áo trên, quần dưới, giày, hay phụ kiện, mà là cách tất cả chúng kết hợp và phối hợp. Bây giờ bạn tập trung vào ngoại hình tổng thể và đó là trang phục phù hợp cho bạn.
+Ensemble Author
+Mọi th trang trí phải được xem xét khi được mặc. Nhiệm vụ của bạn khi gõ là mô tả ngắn gọn hoặc dài dòng từng sợi chỉ và nút bấm liên quan đến khán giả ngày càng lớn của bạn.
+Wearable Wordsmith
+66% Hoàn thành
+33% Hoàn thành
+Các món đồ phải tìm được ngôi nhà mới và tất cả các bên phải hài lòng với sự sắp xếp. Bạn được giao nhiệm vụ tư vấn, phê bình và làm rõ nhu cầu của những bộ quần áo tìm người mới để trang trí.
+Consignment Commentator
+Mọi hành trình thời trang bắt đầu từ đâu đó, và với bạn, đó là mũi chỉ đầu tiên. Trong khi những cá nhân danh giá sẽ viết về trang phục "thời trang cao cấp", bạn sẽ được giao nhiệm vụ với những từ ngữ về "không chắc chắn".
+Rag Reviewer
+Thảo luận Trang phục hoặc Thời trang ({0.String})
+Duyệt Trí thông minh ({0.String})
+Tương tác Lãng mạn ({0.String})
+Tạo tranh ({0.String})
+Tạo tranh ({0.String})
+Bài tập về nhà ({0.String})
+50% Hoàn thành
+25% Hoàn thành
+75% Hoàn thành
+Chưa bắt đầu
+Hoàn thành
+Leo cầu thang trong một công ty viết lách chỉ để được giao những dự án nhàm chán không phải cho {0.SimFirstName}. Cũng không phải là làm việc không trả lương và hy vọng xuất bản thứ gì đó thu hút. Tất cả những gì {F0.she}{M0.he} muốn là đặt văn xuôi của {F0.her}{M0.his} lên giấy và được đền đáp cho nỗ lực của {F0.her}{M0.his}. Có thể làm việc ở bất cứ đâu {F0.she}{M0.he} muốn cũng là một phần thưởng tuyệt vời.
+Freelance Writer
+Tại sao phải ngồi trong một văn phòng đầy đồng nghiệp nói về con cái của họ? {0.SimFirstName} chỉ muốn tập trung và hoàn thành một số công việc lập trình trong sự thoải mái ở bất cứ nơi đâu {F0.she}{M0.he} mong muốn. Không có sếp nào sẽ nói với {0.SimPronounObjective} phải làm gì. Từ bảng tính đến trò chơi điện tử, tất cả đều là lựa chọn của {F0.her}{M0.his}!
+Freelance Programmer
+{0.SimFirstName} đã quyết định trở thành người làm tự do. Dù điều đó nghe có vẻ tốt, {M0.he}{F0.she} sẽ không thể tìm được công việc hoặc được trả lương cho đến khi {M0.he}{F0.she} chọn một nghề nghiệp, và một công ty đại diện cho {M0.him}{F0.her}.
+Nghệ thuật chuyên môn dành cho những nghệ sĩ đói khát; nghệ thuật doanh nghiệp dành cho những người đã hy sinh linh hồn sáng tạo của mình. Chắc chắn có một cách tốt hơn để kiếm sống mà không từ bỏ tự do sáng tạo? Đó là con đường của người làm tự do, người có can đảm lựa chọn và chọn lọc từ những người tìm kiếm tài năng nghệ thuật của {M0.his}{F0.her}. Với bản phác thảo Kỹ thuật số trong tay; hãy tiến về phía trước và thêm sự đẹp đẽ vào thế giới theo cách của bạn.
+Freelance Artist
+Freelancer
+ Chơi nhạc cụ ({0.String})
+ Viết trò đùa/Luyện tập âm nhạc ({0.String})
+ Viết/Biểu diễn các tiết mục ({0.String})
+Chuẩn bị đồ ăn/Pha chế đồ uống ({0.String})
+Chuẩn bị đồ ăn ({0.String})
+ Pha chế đồ uống ({0.String})
+Hack hoặc tạo virus ({0.String})
+Tương tác Phá phách ({0.String})
+Tương tác Hung ác ({0.String})
+{0.SimFirstName} từng điều hành một công ty, và bây giờ {0.SimFirstName} điều hành vài công ty. May mắn thay, {M0.he}{F0.she} có những người thông minh ở các vị trí then chốt, vì vậy {M0.he}{F0.she} có nhiều thời gian rảnh hơn để tận hưởng cuộc sống... và máy bay riêng.
+Business Tycoon
+Đây là nó: chiếc ghế lớn. {0.SimFirstName} đưa ra các bước đi và {M0.he}{F0.she} ra lệnh. Cảm giác thật tuyệt khi trở thành {M0.king}{F0.queen}, phải không? Ừ, có lẽ sẽ thế nếu {M0.he}{F0.she} không có hội đồng cổ đông thở gấp trên cổ {M0.his}{F0.her} cả ngày để đòi hỏi kết quả.
+CEO
+Chiếc ghế góc văn phòng là của {0.SimFirstName}. Mọi người nhìn {M0.him}{F0.her} để lãnh đạo. Tiếc là Tổng giám đốc vẫn ra lệnh, nhưng rồi sẽ có một ngày...
+President
+{0.SimFirstName} bây giờ có chìa khóa cho phòng tắm điều hành! Trách nhiệm lớn, nhưng phần thưởng cũng vậy. Sẽ cần kỹ năng con người cấp cao để lên đến đỉnh của chiếc thang doanh nghiệp này.
+Vice-President
+ Gọi điện thoại công việc ({0.String})
+ Điền báo cáo ({0.String})
+{0.SimFirstName} đã chứng minh {M0.himself}{F0.herself} là một quản lý, nhưng {M0.he}{F0.she} đặt mục tiêu vào cấp độ tiếp theo. Dù {M0.he}{F0.she} muốn trở thành một lãnh đạo hay một thiên tài tài chính, đã đến lúc nỗ lực và biến nó thành hiện thực.
+Senior Manager
+{0.SimFirstName} bây giờ là {M0.man}{F0.woman}! ... Hoặc ít nhất là quản lý của một khu vực của công ty. Điều đó có nghĩa là {M0.he}{F0.she} phải tiếp tục làm việc trên kỹ năng con người của {M0.his}{F0.her} nếu {M0.he}{F0.she} muốn một miếng bánh lớn hơn nữa.
+Regional Manager
+Đây là nó... gần rồi. Được rồi, vậy {0.SimFirstName} chưa phải là quản lý. Chắc chắn {M0.he}{F0.she} là người kế tiếp cho vị trí đó. Đã đến lúc xây dựng những kỹ năng con người cho khi {M0.he}{F0.she} có người để quản lý, à... chỉ huy.
+Assistant Manager
+Không phải là con đường quản lý, nhưng đó là thứ tốt tiếp theo, phải không? Sau tất cả, quản lý chỉ có một trợ lý...
+Assistant to the Manager
+Thật đáng kinh ngạc về số lượng trợ giúp một văn phòng cần. {0.SimFirstName} càng có nhiều năng lượng, {M0.he}{F0.she} sẽ càng làm được nhiều. Kỹ năng xã hội của {M0.his}{F0.her} càng tốt, {M0.he}{F0.she} sẽ càng nhận được nhiều sự công nhận.
+Office Assistant
+Xa rời những ngày khi thư từ là mạch máu của một doanh nghiệp phát triển, phòng thư ngày nay đã gần như lỗi thời với sự trỗi dậy của email. Vẫn còn, ai đó phải phân phối tất cả các giao hàng mua sắm trực tuyến! {0.SimFirstName} sẽ phải giữ mức năng lượng của {M0.his}{F0.her} lên để được chú ý... và thăng tiến từ phòng thư. {M0.He}{F0.She} bây giờ có thể Điền Báo cáo trên máy tính và Xì xào về Mối tình Văn phòng.
+Kẻ khoét két
+Nâng cấp Đồ vật ({0.String})
+{0.SimFirstName} đã mang tài năng của {M0.his}{F0.her} vào những con phố nguy hiểm, lắc xe tẩu thoát lên hai bánh, ôm cua, chạy trốn cảnh sát. Những thứ này sẽ làm một trò chơi điện tử khá thú vị!
+Getaway Driver
+Từ hạ gục những lính gác có vũ trang đến đe dọa các băng đảng đối thủ với một cái nhướng mày, {0.SimFirstName} bây giờ là bắp thịt đằng sau bộ óc. Và {M0.he's}{F0.she's} gần hành động hơn bao giờ hết. Đừng động vào {M0.him}{F0.her}!
+Bộ hạ Mạnh mẽ
+Không có tuyến thương mại nào quá nguy hiểm, không có hàng hóa nào quá gây tranh cãi để {0.SimFirstName} vận chuyển bí mật qua vũ trụ và vào bàn tay thèm khát của {M0.his}{F0.her} khách hàng. Chủ nghĩa tư bản là chủ nghĩa tư bản. Và mức định giá tăng 2000% là mức định giá tăng 2000%.
+Muốn sừng của một loài zygax có nguy cơ tuyệt chủng? Hoặc một tấm thú chăn tự tay làm từ 2,000 Q505B nhỏ xíu? Có lẽ chỉ vài phòng thư giãn Gibsonian cho bữa tiệc lớn cuối tuần tới? {0.SimFirstName} không hỏi câu hỏi. {M0.He}{F0.She} chỉ làm nó xảy ra.
+Bất kỳ người dân phòng nào nhanh tay với tia laser có thể kiếm được nhiều Simoleon hơn trong an ninh tư nhân so với phục vụ lợi ích công cộng. {0.SimFirstName} bảo vệ các warlord thiên hà, tiêu diệt các phe phái của khủng bố bộ lạc, và giúp các chính phủ tham nhũng duy trì sự phủ nhận hợp lý.
+Khi vũ trụ gặp nguy hiểm, một {M0.man}{F0.woman} nhận được cuộc gọi: {0.SimFirstName}, Dân phòng Không gian! Với trái tim kiên cường, trí óc sắc bén và một Gói Warp phozoplasmic đeo sau lưng, Dân phòng {0.SimFirstName} bảo vệ các thiên hà đã biết khỏi tà ác!
+Thiên hà này hiện nay là phạm vi của {0.SimFirstName}. Công bằng trong hình phạt và hào phóng trong thái độ, {M0.he}{F0.she} không chấp nhận mọi thứ vô nghĩa từ những tên ngoài hành tinh, bất kể chúng có bao nhiêu xúc tu, hốc mắt hay hàng răng. Ngoài ra, {M0.he}{F0.she} được nói chuyện như một cảnh sát trưởng!
+{0.SimFirstName} đã được phân công một khu vực khá tốt. {M0.He's}{F0.She's} tuần tra hành tinh Illustria, nơi có cảnh quan và sang trọng, với các cửa hàng và nhà hàng đẹp. May mắn thay, {M0.he}{F0.she} không bị phân công đến hành tinh Bloodwar, vốn cũng khá cảnh quan nhưng có ít nhà hàng hơn.
+Đây là nó: Phi hành gia. Tốt nhất trong những người tốt nhất. Những người anh hùng

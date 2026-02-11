@@ -1,0 +1,100 @@
+Lưu Vai Trò
+Bạn muốn lưu vai trò này như thế nào?
+Ghi Đè Lên Vai Trò Hiện Tại
+Không thể lưu dưới dạng vai trò mới, vì đã đạt số lượng tối đa Sims {0.Number}
+Lưu Dưới Dạng Vai Trò Mới
+Đặt Lại Hoạt Động Vai Trò Mặc Định
+Đặt Lại Thay Đổi
+Bạn có muốn đặt lại các thay đổi không? Nếu bạn đặt lại, các thay đổi đối với hoạt động và trang phục trong khung thời gian này sẽ trở về nguyên bản.
+Bạn đã đạt số lượng vai trò tối đa {0.Number} được phép trong Lịch trình này.
+Thư Viện Vai Trò
+Chọn Vai Trò...
+Xóa vai trò khỏi khung thời gian hiện tại
+Xóa {0.String}
+Bạn có chắc chắn muốn xóa vai trò {0.String} khỏi khung thời gian này không? Hành động này sẽ không ảnh hưởng đến bất kỳ khung thời gian nào khác, và vai trò vẫn sẽ còn trong bảng Vai Trò Hiện Tại.
+Vai Trò Hiện Tại
++ Tạo Vai Trò
+Xóa vai trò khỏi khung thời gian.
+Xóa {0.String}?
+Bạn có chắc chắn muốn xóa vai trò {0.String} này khỏi khung thời gian hiện tại không?
+Đã có một phiên bản của vai trò này trong khung thời gian này.
+Tổng Số Sims: {0.Number}/{1.Number}
+{0.TimeShort}
+Các khung thời gian phải kéo dài ít nhất 3 giờ. Thời gian này đã được một khung thời gian khác bao phủ.
+Hoán Đổi Với Khung Thời Gian {0.TimeShort}
+Thời Gian Bắt Đầu
+Xóa
+Không thể thêm vai trò mới vào khung thời gian này cho đến khi một cài đặt có sẵn đã được chỉ định cho cái có sẵn.
+&lt;font color=&quot;#EC262E&quot;&gt;Khung thời gian này thiếu một Sims trong hộ gia đình hợp lệ!&lt;/font&gt;\n\nHãy đảm bảo bảng &lt;b&gt;Vai Trò Hiện Tại&lt;/b&gt; có một Sims trong hộ gia đình hợp lệ được gán cho một vai trò, sau đó thêm vai trò đó vào khung thời gian này.
+Bạn đã đạt số lượng vai trò tối đa cho khung thời gian này.
+Khung thời gian {0.TimeShort}:
+&lt;font color='#FF0000'&gt;Thay đổi thời gian bắt đầu này sẽ dịch chuyển tất cả các khung thời gian đã lên lịch lên 1 giờ.&lt;/font&gt;
+{0.TimeShort}: {1.String}
+Ít nhất một Sims trong hộ gia đình được gán cho khung thời gian.
+\nQuá nhiều Sims được yêu cầu trên tất cả các vai trò trong khung thời gian này.
+&lt;font color='#EC262E'&gt;Một hoặc nhiều Sims được gán cho nhiều vai trò trong khung thời gian này.&lt;/font&gt;\n\nĐể tránh xung đột, hãy xóa bất kỳ chỉ định trùng lặp nào bên dưới:
+Xóa khung thời gian này
+Xóa Khung Thời Gian {0.TimeShort}?
+Bạn có chắc chắn muốn xóa toàn bộ khung thời gian {0.TimeShort} không? Hành động này không thể hoàn tác.
+Xóa Hoạt Động
+&lt;font color='#FF0000'&gt;Thay đổi thời gian bắt đầu này sẽ dịch chuyển tất cả các khung thời gian đã lên lịch xuống 1 giờ.&lt;/font&gt;
+Chọn Hành Vi
+Lập kế hoạch những gì Sims sẽ làm trong suốt ngày dài! Lịch trình của một Địa Điểm Tùy Chỉnh được chia thành các khung thời gian, và trong mỗi khung, cả &lt;b&gt;Hoạt Động Chính&lt;/b&gt; và &lt;b&gt;hoạt động vai trò&lt;/b&gt; có thể được đặt.\n\nHoạt Động Chính thiết lập tông giọng và hướng dẫn những gì Sims trên lô đất sẽ tự nhiên làm trong thời gian đó. Các hoạt động vai trò cho mỗi Sim cá nhân một việc làm được cá nhân hóa hơn dựa trên vai trò của họ trong sự kiện. Hãy nhớ rằng mỗi khung thời gian phải kéo dài ít nhất 3 giờ.
+Lập kế hoạch những gì Sims sẽ làm trong suốt ngày dài! Lịch trình của một Chuyến Đi Nghỉ được chia thành các khung thời gian, và trong mỗi khung, cả &lt;b&gt;Hoạt Động Chính&lt;/b&gt; và &lt;b&gt;hoạt động vai trò&lt;/b&gt; có thể được đặt.\n\nHoạt Động Chính thiết lập tông giọng và hướng dẫn những gì Sims trên lô đất sẽ tự nhiên làm trong thời gian đó. Các hoạt động vai trò cho mỗi Sim cá nhân một việc làm được cá nhân hóa hơn dựa trên vai trò của họ trong sự kiện.\n\nBất kỳ thay đổi nào được thực hiện đối với một vai trò mà khác với các hoạt động vai trò mặc định của nó sẽ được đánh dấu bằng một chấm vàng! Để lưu các thay đổi của bạn dưới dạng vai trò mới hoặc hiện có, hãy chọn &lt;b&gt;Lưu Vai Trò&lt;/b&gt; trong khung thời gian.
+Không có thời gian có sẵn để thêm một khung thời gian mới.
+Thêm khung thời gian mới vào lịch trình
+Thêm Khung Thời Gian
+Thêm vai trò vào khung thời gian hiện tại
+Thêm Vai Trò
+Hoạt Động Chính
+Xem Vai Trò
+&lt;font color=&quot;#EC262E&quot;&gt;Không có Sims trong hộ gia đình hợp lệ nào được gán cho bất kỳ vai trò nào!&lt;/font&gt;\n\nHãy chọn một chân dung Sims bên dưới để gán ít nhất một Sims trong hộ gia đình vào một vai trò cho Chuyến Đi Nghỉ này.
+Sims trong hộ gia đình được gán cho ít nhất một vai trò.
+Gán Sims &amp; Tùy Chỉnh Vai Trò
+Không thể tạo vai trò mới, bạn đã đạt số lượng vai trò tối đa là {0.Number}.
+Tạo Vai Trò
+Chọn Sims để gán cho vai trò này
+Trang Phục
+Chọn Trang Phục Vai Trò
+Chọn trang phục mà các Sims trong vai trò này nên mặc trong các hoạt động đã lên lịch của họ.
+Tùy Chỉnh Trang Phục Vai Trò
+Nếu được chọn, khung thời gian này sẽ sử dụng cùng các Hoạt Động Vai Trò được đặt cho vai trò này trong Thư Viện Vai Trò Đã Lên Lịch.
+Kế Thừa Từ Cài Đặt Sẵn
+Chi Tiết
+Xóa Hoạt Động
+x{0.Number}
+Không thể chỉnh sửa cho đến khi một cài đặt sẵn cho vai trò đã được chọn. Cho đến khi đó, khung thời gian này sẽ hoạt động như một khoảng thời gian "trống"..
+Không thể chỉnh sửa vai trò trong Thư Viện.
+Thêm Hoạt Động Vai Trò
+Chọn Hoạt Động
+Hoạt Động
+Đặt các hoạt động mặc định cho vai trò này. Chúng có thể được điều chỉnh sau đó trong lịch trình cho mỗi khung thời gian.
+Đã Hoàn Thành {0.String}
+Được Gắn Thẻ
+Ảnh Chụp Màn Hình Sims 4 Của Tôi
+Ảnh chụp màn hình được lưu trữ ở đây, nhưng chưa có ảnh nào được chụp.
+Không hiện hộp thoại này lần nữa
+Chi Tiết Kỷ Niệm
+Trình Quản Lý Chụp Ảnh Màn Hình
+Chi Tiết Ảnh Chụp Màn Hình
+Bạn có chắc chắn muốn xóa ảnh chụp màn hình này không? Điều này cũng sẽ xóa kỷ niệm.
+Xóa Ảnh Chụp Màn Hình?
+Ảnh Chụp Màn Hình Đã Chụp
+Xem Ảnh Chụp Màn Hình
+Xem Kỷ Niệm
+Xem Trình Quản Lý Ảnh Chụp Màn Hình
+Xóa Sims khỏi Kỷ Niệm
+Chia Sẻ Ảnh Chụp Màn Hình Lên Twitter
+Xóa Kỷ Niệm
+[Không thể Tự Hồi Tưởng vì kỷ niệm này không có tâm trạng áp dụng]
+Hãy để Sims tự hồi tưởng về Kỷ Niệm.
+Gọi Lại Sims Được Gắn Thẻ
+Tạo Kỷ Niệm
+Tạo {0.String}
+Guam
+Guadeloupe
+Grenada
+Greenland
+Hy Lạp
+Gibraltar
+Ghana

@@ -1,0 +1,100 @@
+Chấp nhận và chọn Sim để cùng đi
+Chấp nhận
+Từ chối
+Chọn Sim để cùng đi
+Hiện thông tin lễ hội
+Đi du lịch không khả thi từ vị trí hiện tại của bạn.
+Một lễ hội đang diễn ra tại khu phố này!
+Lễ hội chưa bắt đầu.
+Hiện thông tin lễ hội
+{1.SimFirstName} và tôi vừa chào đón đứa bé mới về nhà! Bạn có thể ghé thăm không?
+Tôi có tin vui {0.SimFirstName}! {1.SimFirstName} và tôi vừa có em bé; bạn có muốn đến chào mừng không?
+Một con chim cú để lại món quà! Đùa thôi, nhưng {1.SimFirstName} và tôi đã đón bé về nhà. Ghé thăm nếu bạn rảnh!
+{0.SimFirstName}! Chính thức rồi, tôi là cha mẹ của đứa trẻ tuyệt vời tôi nhận nuôi. Bạn có rảnh để làm quen không?
+Tôi là cha mẹ của một đứa trẻ mới được nhận nuôi, {0.SimFirstName}! Tôi rất háo hức, nhưng cũng rất lo lắng. Nếu bạn có thời gian, bạn có muốn ghé không?
+Bạn có tin được tôi quyết định nhận nuôi một đứa trẻ không, {0.SimFirstName}? Chúng tôi đã trải qua nhiều thứ rồi, tôi tự hỏi bạn có muốn ghé tham gia niềm vui này không?
+Xin chào, &lt;i&gt;láng giềng&lt;/i&gt;! Tôi đã cứu hộ một con ngựa! Bạn có muốn ghé xem loài động vật tuyệt vời này không?
+Sau khi cân nhắc kỹ lưỡng, tôi đã đưa một con ngựa vào gia đình! Bạn có đến không, &lt;i&gt;vui&lt;/i&gt; hay &lt;i&gt;không&lt;/i&gt;?!
+Này {0.SimFirstName}, một vài móng mới đang nhảy múa quanh nhà tôi! Bạn có muốn ghé xem không?
+{0.SimFirstName}, tôi chính thức là cha mẹ của một con chó rồi! Tôi rất muốn bạn ghé thăm nếu bạn có thời gian để chào hỏi.
+Tôi vừa nhận nuôi một con chó và nó đầy năng lượng! Bạn có thời gian rảnh để giúp tôi làm nó mệt không, {0.SimFirstName}?
+Tôi háo hức vì cuối cùng tôi cũng thực hiện được... Tôi đã nhận nuôi một con chó! Bạn có rảnh đến ngay bây giờ không?
+Này {0.SimFirstName}, tôi gọi để thông báo tôi đã nhận nuôi một đứa trẻ! Bạn có muốn đến chào không?
+Tôi mừng vì bạn nghe máy, {0.SimFirstName}; tôi đã nhận nuôi một đứa trẻ! Ngoài ra, bạn có sẵn sàng ghé thăm và chia sẻ một số mẹo làm cha mẹ bạn có không?
+Này {0.SimFirstName}, tôi tự hỏi bạn có muốn ghé gặp chú mèo mới tôi nhận nuôi không?
+Tôi có tin vui để chia sẻ với bạn! Tôi gần đây đã nhận nuôi một đứa trẻ và muốn bạn gặp chúng, bạn có khả năng ngay bây giờ không?
+Tôi say đắm chú mèo mới được nhận nuôi của mình! Bạn có thể ghé thăm không, {0.SimFirstName}?
+Mọi thứ xảy ra nhanh chóng, nhưng tôi vô cùng phấn khởi vì có một chú mèo mới được nhận nuôi để về nhà mỗi ngày. Bạn có muốn gặp chúng không, {0.SimFirstName}?
+Tôi vừa nhận nuôi một em bé! {0.SimFirstName}, lịch trình của bạn hôm nay thế nào, tôi rất muốn bạn ghé thăm và nói 'Xin chào' nếu bạn rảnh.
+Tôi quyết định đây là thời điểm phù hợp để tôi nhận nuôi một em bé! Bạn có thể đến chào không, {0.SimFirstName}?
+{0.SimFirstName}! Bạn có thể đến nhà tôi không? Tôi đã nhận nuôi một em bé và tôi muốn hai người gặp nhau!
+Này, chỉ để thông báo chúng tôi đã rời khỏi nơi ở cũ. Gọi cho tôi bất cứ khi nào bạn muốn gặp gỡ!
+Chỉ muốn thông báo chúng tôi đang chuyển nhà! Gọi cho tôi bất cứ khi nào bạn muốn gặp gỡ!
+Chào, láng giềng. Chỉ để thông báo tôi đã chuyển đến gần đây. Có lẽ... ghé thăm nếu bạn muốn? Đừng xa lánh!
+Chào mừng. Bạn có thể muốn biết chúng tôi đã cư trú gần đây. Tôi đoán bạn có thể thăm. Nếu bạn cần.
+Này láng giềng, chúng tôi vừa chuyển đến dọc theo con phố! Hy vọng bạn sẽ ghé khi có thời gian.
+Chào, chúng tôi vừa chuyển đến dọc theo con phố! Ghé thăm bất cứ khi nào bạn thích!
+{1.SimFirstName} và tôi vô cùng phấn khởi giới thiệu đứa bé mới đến với bạn! Bạn có muốn ghé thăm và chào 'Xin chào' không?
+{0.SimFirstName}! {1.SimFirstName} và tôi cuối cùng cũng đón em bé về nhà. Chúng tôi rất muốn mời bạn đến nếu bạn rảnh?
+Cảnh báo Em bé! {1.SimFirstName} và tôi muốn bạn gặp đứa bé mới của chúng tôi, bạn nghĩ sao về việc ghé ngay bây giờ?
+{1.SimFirstName} và tôi vừa chào đón đứa bé mới về nhà! Bạn có thể ghé thăm không?
+Một con chim cú để lại món quà! Đùa thôi, nhưng {1.SimFirstName} và tôi đã đón bé về nhà. Ghé thăm nếu bạn rảnh!
+Tôi có tin vui {0.SimFirstName}! {1.SimFirstName} và tôi vừa có em bé; bạn có muốn đến chào mừng không?
+Ghé thăm Nhà của Láng giềng
+Này, {0.SimFirstName}, là tôi, {1.SimFirstName}. Tôi không biết bạn thế nào, nhưng tôi cảm thấy chúng ta có sự kết nối tức thời... Tôi có thể mời bạn đến nơi tôi thích nhất không?
+{2.SimFirstName} thật khó chịu, bạn đã đúng về {M2.him}{F2.her}.
+{1.SimFirstName} và tôi có một em bé trong bụng. Tôi không thể mô tả niềm háo hức khi sắp có em bé!
+{0.SimFirstName}, tôi muốn cho bạn biết tôi đang mang thai! {1.SimFirstName} và tôi sẽ chào đón một đứa trẻ nhỏ sớm thôi!
+Tin về Em bé! {1.SimFirstName} và tôi đang mang thai, và tôi muốn đảm bảo bạn nghe tin này từ tôi trước tiên.
+Cảm ơn, tôi sẽ gọi nó là Lewis
+Major Sancho cho Bộ chỉ huy Mặt đất! Rất vui được gặp bạn, Nova. À, tôi mang cho bạn một Space Slug từ Sixam. Nó dễ thương chứ? Đó là thú cưng hoàn hảo, bạn thậm chí không cần phải cho nó ăn! Tuy nhiên nó rất hay đánh hơi...
+Có - Tiền là rác!
+Không - Tôi đã làm việc rất chăm chỉ để có được điều này!
+Tôi có ý tưởng tuyệt vời nhất! Chúng ta hiểu nhau và làm việc tốt như một... đội nhóm, đúng không? Giá như chúng ta cùng tạo ra một trò chơi hoặc ứng dụng của riêng mình và trở thành nhà phát triển độc lập? Không ai có thể sa thải chúng ta lần nữa! Thôi nào, {0.SimFirstName}? Hãy cùng chống lại kẻ thống trị! Tôi sẽ chia sẻ với bạn thức uống bí mật tôi dùng để tăng hiệu suất. Nếu bạn bắt đầu lập trình ngay sau khi uống thứ này, bạn sẽ nâng cấp kỹ năng lập trình trong chớp mắt!
+Này {0.SimFirstName}, tôi hy vọng bạn không làm việc quá sức! Hãy nhớ sử dụng những ngày nghỉ phép quý giá đó để thư giãn!
+Cảm ơn vì đã cho tôi ở lại nhà bạn, {0.SimFirstName}. Tôi tặng bạn bản in Không gian này như một lời xin lỗi vì đã là đồ ngu. Nó nhắc tôi nhớ đêm chúng ta dành tại đài quan sát của bố bạn... Không phải tôi thường nghĩ về nó đâu. Hãy đặt nó gần máy tính của bạn và kích hoạt, nó sẽ giúp bạn tăng tốc độ học kỹ năng lập trình! Và một lần nữa, xin lỗi vì tôi đã là kẻ cạnh tranh điên rồ.
+Này {0.SimFirstName}! Đoán xem, tôi cũng được thăng chức! Tôi dùng thưởng để mua nội thất và ĐÃ LÀM. MƯA. RA. Tôi có rất nhiều món đồ lấp lánh mới sẽ nhanh chóng đưa tôi vào tâm trạng tốt để tôi có THÊM THỜI GIAN cho thăng tiến sự nghiệp. Thông minh chứ? Bạn phải chi tiền để kiếm tiền! Tôi phải thừa nhận, tôi ngạc nhiên khi bạn cũng được thăng chức... Chắc là may mắn! Khi tôi là quản lý của bạn, tôi sẽ đảm bảo những sai lầm như thế không xảy ra nữa.\n&#xD;&#xA;
+Tôi cũng sẽ mua đồ với thưởng của mình!
+Tôi có nên tin "Lewis Mới" không?
+Grrr, dừng việc tự mời mình lại!
+Đã học được cách rình rập
+Sau khi học được lật người sang cả hai phía, tiếp tục luyện tập với &lt;b&gt;Thời gian nằm sấp&lt;/b&gt; sẽ giúp {0.SimFirstName} xây dựng cơ bắp và tăng sự phối hợp để cho phép {0.SimPronounObjective} bắt đầu rình rập.
+Cẩn thận thế giới ơi, {0.SimFirstName} đã ra ngoài! Sau khi học được bò, không thiếu thích phá phách mà {0.SimPronounSubjective} có thể gây ra.
+Đã học được Bò
+Thế giới vừa trở nên tươi sáng hơn với nụ cười đầu tiên của {0.SimFirstName}!
+Lần đầu Mỉm cười
+Ồ, âm thanh ngọt ngào của sự tĩnh lặng. Những người sống cùng {0.SimFirstName} sẽ không bao giờ quên lần đầu tiên {0.SimPronounSubjective} ngủ một giấc hoàn toàn mà không bị gián đoạn.
+Đã Ngủ Suốt Đêm
+{0.SimFirstName} sẽ không bao giờ biết điều đó đã xảy ra, nhưng {1.SimName} chắc chắn sẽ nhớ lần đầu tiên {1.SimPronounSubjective} bị phóng tách bỉm trong khi thay {0.SimFirstName}.
+Bị Phóng Tách Bỉm Trên Người Người Chăm Sóc
+{0.SimFirstName} đã phát âm {0.SimPronounPossessiveDependent} từ đầu tiên! Ghi chú lại!
+{0.SimFirstName} đã đi chuyến du lịch đến {3.String} để thăm {0.SimPronounPossessiveDependent} người thân.
+Lần đầu Thăm Nhà Người Thân
+Một khuôn mặt mới! {0.SimFirstName} đã có {0.SimPronounPossessiveDependent} lần đầu gặp gỡ với ai đó từ bên ngoài {0.SimPronounPossessiveDependent} hộ gia đình.
+Lần đầu Khách đến thăm
+{0.SimFirstName} đã du lịch đến {3.String} cho {0.SimPronounPossessiveDependent} kỳ nghỉ đầu tiên. Hy vọng là đầu tiên của nhiều kỳ nghỉ vì {0.SimFirstName} có thể quen với lối sống này!
+Kỳ Nghỉ Đầu Tiên
+Thế giới đã lớn hơn một chút cho {0.SimFirstName} khi {0.SimPronounSubjective} thăm một công viên lần đầu tiên!
+{0.SimFirstName} đã đi một chuyến phiêu lưu đến {3.String}.
+Chuyến đi Đầu tiên đến Công viên
+Thực phẩm Trẻ sơ sinh Đầu tiên
+Thực phẩm Tay Đầu tiên
+Bong bóng bong bóng bong bóng! {0.SimFirstName} đã yêu thích {0.SimPronounPossessiveDependent} bồn tắm bong bóng đầu tiên từ {1.SimName}! 
+Bồn Tắm Bong bóng Đầu tiên
+{0.SimFirstName} đã trải nghiệm {0.SimPronounPossessiveDependent} lần đầu bỉm bị nổ. Mùi hôi thối đó sẽ không thể nào quên được bởi những người &lt;i&gt;may mắn&lt;/i&gt; có mặt.
+Lần đầu Bỉm Nổ
+{0.SimFirstName} đã trở nên sạch sẽ sau khi nhận {0.SimPronounPossessiveDependent} bồn tắm đầu tiên từ {1.SimName}.
+Bồn Tắm Đầu tiên
+Sinh tại Bệnh viện
+Sinh tại Nhà
+Sinh ra
+Ồ, trông có vẻ như {0.SimFirstName} bắt đầu mở lòng với các Sim khác! Hãy biết rằng {1.SimName} là Sim đầu tiên mà {0.SimFirstName} vẫy tay chào.
+Đã học được Vẫy tay
+{0.SimFirstName} ngày càng khỏe mạnh mỗi ngày. Thật là dịp trọng đại khi {0.SimPronounSubjective} có thể co duỗi, cúi người, thậm chí cho {0.SimPronounPossessiveDependent} ngón chân vào {0.SimPronounPossessiveDependent} miệng. Linh hoạt làm sao!
+Đã cho Ngón chân vào Miệng
+Chơi với đồ chơi hộp đồ chơi, nhà búp bê, khối xếp và Thảm chơi Trẻ sơ sinh sẽ giúp {0.SimFirstName} tiến qua các mốc Vận động Tinh tế!
+Ngắm xa và với xa! {0.SimFirstName} lần đầu với lấy {2.ObjectName}, nhưng bầu trời là giới hạn! Ai biết {0.SimPronounSubjective} sẽ với lấy thứ gì tiếp theo?
+Đã học được Với lấy
+Sử dụng Thảm chơi Trẻ sơ sinh để &lt;b&gt;Nhìn Đồ chơi&lt;/b&gt; và &lt;b&gt;Chơi với Trẻ sơ sinh&lt;/b&gt; cuối cùng sẽ dẫn đến {0.SimFirstName} với lấy mọi thứ một cách tự lập!
+Những ngón tay mạnh mẽ của {0.SimFirstName} bây giờ có thể thực hiện Nắm bằng ngón cái và ngón trỏ! Không có gì thoát khỏi {0.SimPronounPossessiveDependent} ngón tay trừ khi {0.SimPronounSubjective} muốn!
+Đã học được Nắm bằng ngón cái và ngón trỏ

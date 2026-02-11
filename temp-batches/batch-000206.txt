@@ -1,0 +1,100 @@
+Đuổi Đom đóm
+Để Muỗi Vật Tụ Họp
+Đuổi Rùa
+Đuổi Ếch
+Để Rùa Tắm Nắng Trên Lục
+Chơi Trong Nước
+Ra Khỏi Nước Đóng Băng
+Nhà Thám Hiểm Không Gian
+Cuộc Phiêu Lưu Hải Tặc
+Nhà
+Lâu Đài Cổ Tích
+Kẻ Trôi Dạt Đảo Hoang
+{1.ObjectDescription}
+Yêu cầu một Bàn hoặc Ghế Bàn có ghế được cắm vào để sử dụng.
+Dự án giấy đang thực hiện đã được hủy bỏ thành công.
+{0.SimFirstName} đã có một buổi coaching Lối sống tuyệt vời! Huấn luyện viên Lối sống đã xác định được những hành vi dẫn đến sự phát triển của Lối sống không mong muốn, từ đó giúp {0.SimFirstName} nhận ra cách để từ bỏ nó. Giờ đây {0.SimFirstName} hoàn toàn tự do sống theo một lối sống mới!
+Hoàn Thành Coaching Lối Sống
+Phản Ứng Với Quà Tặng
+Chăm Sóc Cây Cảnh Sống
+Nó Chết Rồi!?
+(Từ Việc Thấy Cây Cảnh Đã Chết)
+Cây Cảnh Sống
+Hộp gia đình đã có một Cây Cảnh Sống!\n\nCây Cảnh Sống trông thật tuyệt vời trong không gian nào, cả ngoài trời lẫn trong nhà, với mức độ cam kết ít hơn rất nhiều so với cây trong vườn. Cây Cảnh Sống sẽ không lớn hơn hay ra thu hoạch, nhưng chăm sóc chúng dễ dàng và thú vị hơn với hầu hết các Sim. Chỉ đừng bỏ bê chúng! Chăm sóc &quot;dễ&quot; không có nghĩa là không cần chăm sóc, và các Sim sẽ cảm thấy tội lỗi nếu để Cây Cảnh Sống chết.
+Chấp Nhận Giao Hàng
+Dỡ Hóa Đơn Giao Hàng
+{0.SimFirstName} đã đặt tất cả đồ grocery của {M0.his}{F0.her} vào tủ lạnh. Bất cứ thứ gì không thuộc về tủ lạnh đã được cho vào hàng đợi của {M0.his}{F0.her}.
+{0.SimFirstName} đã lấy nội dung của túi và đặt chúng vào hàng đợi của {M0.his}{F0.her}.
+Đang Nhận Làm Mới
+Được Đề Nghị Làm Mới
+Đề Nghị Làm Mới Cho {1.SimFirstName}
+Làm Mới {1.SimFirstName}
+Tâm Trạng Truyền Cảm Hứng
+Tâm Trạng Vả Vả
+Tâm Trạng Năng Lượng
+Tâm Trạng Tự Tin
+Bộ Đồ Đã Được Phun Tâm Trạng Này Rồi.
+Đặt Hoàn Tất
+Đặt Lại Tiến Độ
+Nền Trắng
+Nền Đen
+Màu Ấm
+Màu Mềm
+Màu Trung Tính
+Màu Độ Xám
+Màu Lạnh
+Màu Sắc
+Bảng Phong Cách Đã Đặt Theo Màu Này Rồi.
+Ôm
+Đánh
+Bô Bô
+Nói Chuyện
+Hét Lên
+Đe Dọa Vứt Đi
+Kể Chuyện
+Kể Một Câu Chuyện
+Kể Bí Mật
+Kể Về Phát Hiện
+Chia Sẻ Kế Hoạch
+Hào Hứng Về Nhạc Hip Hop
+Phàn Nàn Về Nhạc Hip Hop
+Hào Hứng Về Nhạc Tập Trung
+Phàn Nàn Về Nhạc Tập Trung
+Hào Hứng Về Nhạc Điện Tử
+Phàn Nàn Về Nhạc Điện Tử
+Hào Hứng Về Nhạc Dễ Nghe
+Phàn Nàn Về Nhạc Dễ Nghe
+Hào Hứng Về Phong Cách Cottagecore
+Phàn Nàn Về Phong Cách Cottagecore
+Hào Hứng Về Nhạc Cổ Điển
+Phàn Nàn Về Nhạc Cổ Điển
+Hào Hứng Về Nhạc Blues
+Phàn Nàn Về Nhạc Blues
+Hào Hứng Về Nhạc Baroque
+Phàn Nàn Về Nhạc Baroque
+Hào Hứng Về Nhạc Valse
+Phàn Nàn Về Nhạc Valse
+Hào Hứng Về Nhạc Backyard
+Phàn Nàn Về Nhạc Backyard
+Hào Hứng Về Nhạc Americana
+Phàn Nàn Về Nhạc Americana
+Hào Hứng Về Nhạc Afrobeats
+Hào Hứng Về Nhạc Alternative
+Phàn Nàn Về Nhạc Alternative
+Hào Hứng Về Viết
+Hào Hứng Về Sức Khỏe
+Hào Hứng Về Đàn Vĩ Cầm
+Hào Hứng Về Trò Chơi Điện Tử
+Hào Hứng Về Lướt Tuyết
+Hào Hứng Về Trượt Tuyết
+Hào Hứng Về Hát
+Hào Hứng Về Khoa Học Vũ Trụ
+Hào Hứng Về Leo Đá
+Hào Hứng Về Robot
+Hào Hứng Về Lập Trình
+Hào Hứng Về Ống Cổ Kính
+Hào Hứng Về Đàn Piano
+Hào Hứng Về Nhiếp Ảnh
+Hào Hứng Về Hội Họa
+Hào Hứng Về Làm Nectar
+Hào Hứng Về Pha Chế

@@ -1,0 +1,100 @@
+Bón phân
+"Bón phân"
+(Từ Cây Bụi Bẩn)
+(Từ Xem Sim với Phần Thưởng Làm Cho Người Khác)
+Xem
+{0.SimFirstName} vừa hoàn thành viết lời bài hát trên {1.ObjectName}!
+{0.SimFirstName} vừa hoàn thành viết lời bài hát trên {1.ObjectName}! Ở Cấp Kỹ Năng Hát 9, {M0.he}{F0.she} có thể gửi lời bài hát đi cấp phép tại Hộp Thư để kiếm thêm chút tiền!
+{0.SimFirstName} vừa hoàn thành một bài hát trên {1.ObjectName}! Ở cấp kỹ năng 9, {M0.he}{F0.she} có thể gửi bài hát đi cấp phép tại Hộp Thư để kiếm thêm chút tiền!
+{0.SimFirstName} vừa hoàn thành một bài hát trên {1.ObjectName}!
+{0.SimFirstName} vừa hoàn thành viết một bài hát! Bạn muốn đặt tên gì cho nó?
+Mẹo
+Không đủ Simoleon để thực hiện tương tác này
+Đã có một nghệ sĩ biểu diễn trên lô đất.
+Tôi đang hẹn hò với ai đó.
+Nói chuyện với {1.SimFirstName}
+Xem Cột Mốc
+Thời Gian Bụng
+Vùng Vẫy Theo Nhạc
+Nhảy Theo Nhạc
+Cái Gì Đó?
+{0.SimFirstName} không thể thấy cái này.
+Xem
+{0.SimFirstName} ở quá xa.
+Xem {1.SimFirstName}
+Mắc Kẹt!
+Ngủ
+Thử Thôi Nhung Núc
+Ngồi Dậy
+Nằm Xuống
+Ngồi Dậy
+Nằm Xuống
+Chơi Trong
+Giới Thiệu Với
+Yêu Cầu Được Giới Thiệu Bởi
+Bạn chưa gặp người chăm sóc của trẻ sơ sinh này. Này họ ở đâu vậy?
+Yêu Cầu Được Giới Thiệu Đến
+Giúp!
+Thoát Khỏi!
+Khóc
+Tìm {1.SimFirstName}
+Dùng Bỉm
+Khóc
+(Từ Ngủ Trong Khi Được Mang)
+Không Chạm Được
+Chòng Chành
+Vùng Vẫy
+ mút Ngón Tay
+Hắt Hơi
+Nấc
+Nắm Chân
+Khóc
+ủa ủa
+Khóc
+Ẩn Mối Quan Hệ
+Bạn có chắc chắn muốn ẩn mối quan hệ giữa {0.SimName} và {1.SimName}? Sim này sẽ không còn xuất hiện trong bảng quan hệ nữa, nhưng mối quan hệ của họ sẽ vẫn giữ nguyên. Một Sim bị ẩn sẽ xuất hiện lại trong bảng quan hệ nếu Sim của bạn tương tác với họ lần nữa.
+Đọc Di Chúc Bà Ngoại
+{0.SimFirstName} đã nhận được thừa kế của {M0.his}{F0.her} rồi!
+Đi đến Willow Creek
+Đi đến Foundry Cove
+Đi đến Magnolia Blossom Park
+Đi đến Desert Bloom Park
+Chọn &lt;b&gt;Trang Trại Gia Đình&lt;/b&gt;
+Chọn &lt;b&gt;Hàng Xóm Thân Thiện&lt;/b&gt;
+Chọn một &lt;b&gt;Giấc Mơ&lt;/b&gt; để hoàn thành các mục tiêu lâu dài cho Sim của bạn.\n\n&lt;b&gt;Thành Công&lt;/b&gt; - Hoàn thành &lt;b&gt;bất kỳ Khát Vọng nào, làm chủ một Nghề Nghiệp&lt;/b&gt; và &lt;b&gt;phát triển gia đình.&lt;/b&gt;\n\n&lt;b&gt;Thế Hệ&lt;/b&gt; - Xây dựng một &lt;b&gt;hộ gia đình đa thế hệ&lt;/b&gt; có thể giúp thiết lập thành công cho gia tộc Sim của bạn.
+Chọn Một Giấc Mơ!
+Thành Phẩm
+Gỡ Bỏ Thời Hạn Chờ Trị Liệu
+Giao Vật Nuôi
+Các Sim cần biết nhau trước. Thử một lời giới thiệu!
+{2.SimFirstName} đang bận lúc này.
+Nhận nuôi với tư cách Người Chăm Sóc
+Viền Trắng
+Ấm Áp
+Viền
+Sepia
+Không Bộ Lọc
+Đảo Ngược Màu
+Tối
+Lạnh
+Sáng
+Trắng Đen
+Bạn không thể thay đổi bộ lọc trên các ảnh chất lượng kém.
+Gỡ Khung
+Chân Dung
+Phong Cảnh
+Đen
+Xanh Dương
+Đỏ
+Vàng
+Gỗ Tối
+Trắng
+Gỗ Sáng
+Bạc
+Tắt Tự Động Chuyển Đổi
+Chuyển đổi hình ảnh tự động cho bình và bia mộ. Tắt tính năng này cho phép đặt bia mộ trong nhà/đặt bình ngoài trời mà không tự động chuyển đổi.
+Bật Tự Động Chuyển Đổi
+Kiểm Tra Câu Chuyện Khu Phố Gần Đây
+Nhà Bếp
+Bạn cần một Đậu Ma Thuật Phấn Chấn được đặt trong hốc gốc.
+Trồng Đậu Ma Thuật

@@ -1,0 +1,100 @@
+{0.SimName} đã sống một cuộc đời dài, nhưng thời gian của {M0.hắn}{F0.cô ấy} cuối cùng cũng đã đến. {0.SimFirstName} đang chết vì tuổi già.
+Bạn không thể thực hiện điều này khi một Sim đang trở về Thế giới Ngầm!
+Trở về Thế giới Ngầm
+{0.SimFirstName} Không Còn Là Người Chơi Được
+{0.SimFirstName} không còn là người chơi được. Bạn có muốn...
+Phải chăng {1.SimFirstName} không nhận ra {M1.anh ấy}{F1.cô ấy} đang rời bỏ {0.SimFirstName} phía sau? Thôi thì vậy. Dịch vụ Xã hội Sim đang đến để chăm sóc {M0.hắn}{F0.cô ấy}.
+{1.SimFirstName} đã rời bỏ cuộc sống phi tự nhiên của {M1.anh ấy}{F1.cô ấy} và không thể chăm sóc con cái trong hộ gia đình nữa. Dịch vụ Xã hội Sim đã sẵn sàng cho tình huống này và sẽ tiếp quản từ đây.
+{0.SimFirstName} đã trở về Thế giới Ngầm thành công, giờ hộ gia đình này trống rỗng. Hãy chọn một hộ gia đình khác để tiếp tục chơi với những sinh vật trần thế.
+Việc Trở về Thế giới Ngầm sẽ xóa vĩnh viễn {0.SimFirstName} khỏi hộ gia đình và để lại tất cả tài sản trần thế của {M0.hắn}{F0.cô ấy} - bao gồm cả thành viên gia đình! Không có con đường quay lại từ Thế giới Ngầm.
+Chết vì Thiên thạch
+Houston, chúng tôi có vấn đề... {0.SimName} sắp chết vì bị thiên thạch đánh trúng!
+Chết vì Cười
+{0.SimName} đang chết vì cười!
+{0.SimName} đang chết vì đói!
+Chết vì Lạnh
+{0.SimName} đã chơi quá lạnh! {M0.Anh ấy}{F0.Cô ấy} đang bị cóng chết.
+Chết vì Lửa
+{0.SimName} đã chết trong một vụ cháy!
+Đói Cảm xúc!
+Ôi không... {0.SimFirstName} đang chết vì Đói Cảm xúc!
+Xấu hổ Tột độ
+{0.SimName} đang chết vì xấu hổ!
+{0.SimFirstName} đang chết vì bị sét đánh nhiều lần quá mức.
+Bị Điện giật chết
+{0.SimName} đang chết vì bị điện giật!
+Vận động quá sức
+{0.SimName} đang chết vì vận động quá sức!
+Chết đuối
+{0.SimName} đang Chết đuối!
+{0.SimName} đang bị cây bò ăn thịt! {M0.Anh ấy}{F0.Cô ấy} có thể sống sót được không?!
+Do bị bỏ bê, {0.SimFirstName} đang được đưa đến nơi an toàn. Có lẽ bạn nên cân nhắc nuôi một con cá vàng trước khi bước vào làm cha mẹ lần nữa.
+Tim nổ
+{0.SimName} đang chết vì tim nổ!
+Bạn không thể thực hiện điều này khi một Sim đang chết!
+Ôi không! {0.SimFirstName} đã chết xa nhà. Bát hương của {M0.anh ấy}{F0.cô ấy} ở {1.String}.
+Giữ lại là Ma Có thể Chơi\nSim sẽ ở lại Hộ gia đình và tiếp tục là một thực thể Ma có thể chơi trong Hộ gia đình hiện tại.
+Trở thành Ma Có thể Chơi
+Trở thành Ma Lang thang\nSim trở thành một thực thể Ma lang thang xung quanh Hộ gia đình và trong Thế giới. Họ sẽ không còn là người chơi được nữa.
+Trở thành Ma Lang thang\nSim trở thành một thực thể Ma lang thang xung quanh Hộ gia đình và trong Thế giới. Họ sẽ không còn là người chơi được nữa.\n&lt;font color='#FF0000'&gt;&lt;b&gt;Cảnh báo! Điều này sẽ dẫn đến trạng thái Kết thúc Game, vì Sim này là Sim duy nhất trong Hộ gia đình này.&lt;/b&gt;&lt;/font&gt;
+Trở thành Ma Lang thang
+Có, Giải thoát ngay bây giờ.
+Không, không Giải thoát bây giờ.
+Hủy quy trình Giải thoát.
+&lt;i&gt;&lt;b&gt;Linh hồn bạn đã sẵn sàng đón nhận chương mới chưa?&lt;/b&gt;&lt;/i&gt;\n\nBằng cách chọn Giải thoát, bạn sẽ bắt đầu hành trình mới với một Sim mới, để lại cuộc sống hiện tại mà không có cơ hội quay trở lại. Bạn sẽ được đưa đến Quản lý Thế giới để chọn hộ gia đình nơi cuộc sống mới của bạn sẽ diễn ra và sẽ có cơ hội tùy chỉnh hoàn toàn bản thân tái sinh của bạn trong Tạo Sim. Trong khi tiền bạc, mối quan hệ và thành tựu từ cuộc đời này sẽ mất, nếu bạn đã mở khóa đặc điểm &lt;b&gt;Linh hồn Cháy bỏng&lt;/b&gt;, bạn sẽ có thể giữ lại một đặc điểm tính cách với tương tác tự thân &lt;b&gt;Hồi tưởng Cuộc đời Trước&lt;/b&gt;, cùng với một số đặc điểm khác bằng tương tác &lt;b&gt;Nhìn vào Linh hồn&lt;/b&gt; có sẵn trên gương. Nếu bạn chọn Giải thoát với một Sim trẻ hơn, một số kỹ năng phát triển sẽ được mở khóa ngay lập tức!\n\nGiờ những sợi dây số phận đã ở trước mắt. Lựa chọn dệt một định mệnh mới có thể được đưa ra khi bạn sẵn sàng. &lt;b&gt;&lt;i&gt;Bạn sẽ chọn Giải thoát ngay bây giờ không?&lt;/b&gt;&lt;/i&gt;
+{0.SimFirstNameWithPrefix} đã qua đời!
+Bắt đầu chương mới của Cuộc đời bằng cách trở thành Ma! Những quyền năng Ma kỳ diệu đang chờ đón ở Thế giới Phía sau. Có lẽ {0.SimFirstName} có một số Công việc Chưa xong để giải quyết? Bạn cũng có thể chọn từ bỏ quyền kiểm soát {0.SimFirstName} và để {0.SimPronounObjective} ở lại như một Ma Lang thang.
+Kết thúc Game!
+Lưu và Quản lý Thế giới
+Thoát về Màn hình Chính
+Ôi không! {1.SimFirstName} đã chết. Đừng lo lắng về {0.SimFirstName}, dù vậy. Dịch vụ Xã hội Sim sẽ chăm sóc tốt {M0.hắn}{F0.cô ấy}.
+Dịch vụ Nhận con sẽ chăm sóc {0.SimFirstName} và tìm một mái ấm tốt cho {M0.hắn}{F0.cô ấy}.
+Dịch vụ Nhận con sẽ chăm sóc {0.SimFirstNameList}. Một gia đình tốt, yêu thương sẽ được tìm thấy cho {M0.họ}{F0.họ}{U0.họ}.
+Ôi không! {1.SimFirstName} đã chết và không còn Sim trưởng thành nào còn sống! Dịch vụ Xã hội Sim sẽ tiếp quản từ đây để chăm sóc Trẻ em.
+Phải có nhạc dance đang phát gần đó để thực hiện tương tác này.
+Nhảy
+Phải có nhạc đang phát gần đó để thực hiện tương tác này.
+Vô hiệu Hóa Lời Nguyền
+Lời Nguyền chỉ có thể bị vô hiệu hóa sau khi hoàn thành một Hoài bão theo Track Tài sản.
+Yêu cầu {1.SimFirstName} Thử nhẫn
+Kích hoạt Lời Nguyền
+(Từ việc Vô hiệu hóa Lời Nguyền của Chiếc Nhẫn)
+Nướng Bánh kem
+{0.SimFirstName} không thể nướng thêm cho đến khi lô bánh cuối cùng được di chuyển đi.
+Đổ đầy Máy
+Làm sạch với Năng lượng
+Các Sim được Tỉnh táo làm sạc nhanh hơn rất nhiều!
+Bán cho Tiệm bánh địa phương
+Lấy một Chiếc Bánh kem
+Tiếp tục Chuyển đổi sang Nôi
+Thể thao Đáng kinh ngạc với Mod
+Buộc Bản thân chơi Hillock II
+Buộc Bản thân chơi Hillock II với Mod
+Chơi Hillock II
+Hillock II với Mod
+Đôi khi tốt hơn nên nghỉ ngơi. Hãy nhớ, bạn có thể có quá nhiều của một điều tốt.
+Chơi Sims Mãi mãi
+Sims Mãi mãi với Mod
+Buộc Bản thân chơi Blicblock
+Buộc Bản thân chơi Blicblock với Mod
+Chơi Arithmetic Attack!
+Chơi Blicblock
+(Từ Thích Trò chơi điện tử)
+(Từ Không thích Trò chơi điện tử)
+Đi nghỉ
+Đi nghỉ
+Viết Bài báo Tích cực
+Viết Bài báo Tiêu cực
+Viết Email Tình yêu
+Viết Ghi chú Xin phép cho
+Không có thành viên nào trong hộ gia đình cần đi làm hoặc đi học và chưa được xin phép gần đây.
+Dùng kỹ năng viết lưu loát để lừa những nhà cầm quyền bất hạnh mà xin phép Sims khỏi trách nhiệm của họ thì còn gì tốt hơn?
+Gửi Yêu cầu Xin tiền Spam tới
+Không phải vô cớ mà nó là một ngành công nghiệp 200 triệu Simoleon. Tại sao không spam bạn bè để xin tiền?
+{0.SimFirstName} quá lo lắng về vụ bắt cóc người ngoài hành tinh để làm việc này ngay bây giờ! Hoàn thành hoặc hủy Kịch bản để Đi nghỉ.
+Hiện không có lô Nhà nghỉ du lịch nào có sẵn. Bạn có thể thay đổi loại lô của một lô chưa thuộc sở hữu thành Nhà nghỉ du lịch để đi nghỉ ở đó.
+Hiện không có lô Nhà nghỉ du lịch nào có sẵn. Bạn có thể thay đổi loại lô của một lô chưa thuộc sở hữu thành Cho thuê để đi nghỉ ở đó.
+Làm Quen biết
+{0.SimFirstName} đã kết nối được tất cả các mối quan hệ nghề nghiệp {M0.anh ấy}{F0.cô ấy} có thể cho đến lúc này.
+Làm Quen biết: {2.String}
+Điều tra

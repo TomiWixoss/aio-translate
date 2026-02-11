@@ -1,0 +1,701 @@
+Vậy là mình cần dịch một loạt các mô tả về giống chó, mèo và các nhân vật/hình dạng khác trong The Sims 4 sang tiếng Việt, nhưng có một số yêu cầu đặc biệt:
+
+1. KHÔNG dịch: "The Sims 4", "Sims", "Sim", "Social Bunny", "EA app", "Gallery"
+2. Giữ nguyên thẻ HTML
+3. Giữ nguyên biến {0.String} và ký tự đặc biệt
+4. Trả về đúng số dòng
+
+Trước tiên, mình cần xem qua toàn bộ văn bản. Có vẻ như đây là tập hợp các mô tả về nhiều giống vật cả chó và mèo, cùng với các hình dạng/outfit/character type trong game. Mình cần dịch từng phần một, nhưng chú ý:
+
+- Các phần về giống chó/mèo: dịch sang tiếng Việt một cách tự nhiên, đảm bảo thuật ngữ chính xác.
+- Các phần có thẻ HTML: giữ nguyên thẻ, chỉ dịch phần text bên trong nếu có.
+- Các biến {0.String}: giữ nguyên.
+- Các câu có "Jill will change this." hoặc "Jill should replace this wiki text as this is Placeholder": dịch phần này nhưng giữ nguyên cấu trúc.
+- Các phần không phải giống vật (từ "From Wearing Proper Clothes" trở đi): có vẻ là tên outfit/character type, có thể cần dịch hoặc giữ nguyên tùy ngữ cảnh. Nhưng yêu cầu là dịch nên mình sẽ dịch cả.
+
+Mình sẽ bắt đầu từng phần:
+
+1. Weimaraner: dịch phần mô tả, giữ nguyên "Jill will change this."
+2. Tabby: tương tự
+3. Papillon: tương tự
+4. Airedale Terrier: tương tự
+5. Javanese: tương tự
+6. Rottweiler: tương tự
+7. Mastiff: chú ý có thẻ &quot; -> giữ nguyên thành "
+8. Bichon Frise: tương tự
+9. MaineCoon: có thể là "Maine Coon" nhưng viết liền. Dịch.
+10. Ibizan Hound: dịch
+11. Manx: dịch
+12. Colorpoint Shorthair: dịch
+13. Vizsla: dịch
+14. Puggle: dịch
+15. Irish Setter: dịch
+16. German Shepherd: chú ý có từ tiếng Đức và phiên âm, giữ nguyên, chỉ dịch phần mô tả. "Jill will change this wikipedia sourced text." dịch.
+17. Scottish Terrier: dịch
+18. Ragdoll: dịch
+19. Staffordshire Bull Terrier: dịch
+20. Tonkinese: dịch
+21. American Shorthair: dịch, có "Jill should replace this wiki text as this is Placeholder" -> dịch.
+22. English Setter: dịch
+23. Redbone Coonhound: dịch
+24. Australian Shepherd: dịch
+25. Borzoi: dịch
+26. Poodle: dịch, có "Jill will change this." dịch.
+27. English Cocker Spaniel: dịch
+28. Giant Schnauzer: dịch
+29. Pointer: dịch
+30. Korat: dịch
+31. American Longhair: dịch (description placeholder -> mô tả placeholder)
+32. Siberian: dịch
+33. Bull Terrier: dịch
+
+Sau đó là các phần khác:
+
+- "(From Wearing Proper Clothes)" -> dịch
+- Các tên như "Hospital Patient", "Police Detective"...: dịch sang tiếng Việt tương ứng.
+- Các câu thông báo về Fairy Form: có thẻ HTML, giữ nguyên thẻ, dịch phần text.
+
+Mình cần đảm bảo số dòng giữ nguyên. Vì văn bản gốc có nhiều dòng, mình sẽ dịch sao cho mỗi phần tương ứng một dòng hoặc nhiều dòng nhưng tổng số dòng bằng.
+
+Xem xét: văn bản gốc có mỗi giống một đoạn, mỗi đoạn một dòng? Không, có đoạn dài nhiều dòng. Nhưng yêu cầu là "Trả về đúng số dòng", có nghĩa là nếu văn bản gốc có N dòng, bản dịch phải có N dòng. Tuy nhiên, khi dịch, câu có thể dài hơn hoặc ngắn hơn, nhưng mình sẽ cố giữ số dòng bằng cách xuống dòng đúng chỗ.
+
+Thực tế, văn bản gốc được trình bày mỗi mục trên một dòng riêng? Hãy đếm: từ "The Weimaraner..." đến cuối "Bull Terrier" có 33 mục (tính cả "American Longhair description placeholder."). Sau đó là các mục khác.
+
+Nhưng trong phần đầu, mỗi giống là một đoạn có thể nhiều câu, nhưng trong văn bản người dùng gửi, mỗi giống được viết trên một dòng? Không, thực tế khi xem, có nhiều dòng. Tuy nhiên, trong input, nó được viết liên tục với xuống dòng. Mình sẽ giữ nguyên cấu trúc xuống dòng của input.
+
+Để đơn giản, mình sẽ dịch từng đoạn, và giữ nguyên số đoạn (số dòng) tương ứng. Cụ thể, mỗi đoạn trong input (phân cách bởi xuống dòng) sẽ tương ứng một dòng trong output? Không, vì có đoạn dài có nhiều câu nhưng vẫn trên một dòng? Trong input, mỗi mô tả giống là một đoạn dài, nhưng được viết liên tục, không xuống dòng giữa. Tuy nhiên, có những chỗ có xuống dòng như sau "Jill will change this." rồi xuống dòng mới "Tabby". Vậy số dòng trong input là số lần xuống dòng.
+
+Mình nên coi mỗi phần từ đầu đến khi gặp tên giống tiếp theo là một dòng? Không rõ ràng.
+
+Cách tốt: mình sẽ giữ nguyên định dạng input, tức là mỗi khi input có một lần xuống dòng (newline), output cũng có một lần xuống dòng tương ứng. Nhưng nếu dịch một đoạn thành nhiều dòng thì sao? Có lẽ nên dịch sao cho mỗi mục (từ tên giống đến câu cuối cùng trước tên giống tiếp theo) là một đoạn, và giữ nguyên số đoạn.
+
+Trong input, các mục được phân cách bằng hai lần xuống dòng? Không, thường là một lần xuống dòng. Ví dụ:
+
+The Weimaraner is a large dog... Jill will change this.
+Tabby
+A tabby is any domestic cat... Jill will change this.
+
+Như vậy, giữa "Jill will change this." và "Tabby" có một lần xuống dòng. Vậy mỗi mục có thể gồm nhiều câu nhưng được viết liên tục, và giữa các mục có một lần xuống dòng.
+
+Vậy mình sẽ dịch toàn bộ, và đảm bảo rằng sau mỗi mục (sau khi dịch xong phần đó) thì xuống dòng, tương tự input.
+
+Cụ thể: input có dòng 1: "The Weimaraner is a large dog that was originally bred for hunting in the early 19th century. Early Weimaraners were used by royalty for hunting large game such as boar, bear, and deer. Jill will change this."
+Dòng 2: "Tabby"
+Dòng 3: "A tabby is any domestic cat that has a coat featuring distinctive stripes, dots, lines or swirling patterns, usually together with a mark resembling an 'M' on its forehead. Tabbies are sometimes erroneously assumed to be a cat breed. Jill will change this."
+...
+
+Như vậy, mỗi dòng trong input là một mục riêng biệt? Không, vì "Tabby" là một dòng riêng, còn mô tả của Tabby là dòng tiếp theo? Thực tế, trong đoạn input, nó được viết:
+
+The Weimaraner is a large dog that was originally bred for hunting in the early 19th century. Early Weimaraners were used by royalty for hunting large game such as boar, bear, and deer. Jill will change this.
+Tabby
+A tabby is any domestic cat that has a coat featuring distinctive stripes, dots, lines or swirling patterns, usually together with a mark resembling an 'M' on its forehead. Tabbies are sometimes erroneously assumed to be a cat breed. Jill will change this.
+...
+
+Vậy có hai dòng cho Tabby: dòng 2 là tên "Tabby", dòng 3 là mô tả. Tương tự cho các giống khác: tên giống trên một dòng, mô tả trên dòng tiếp theo? Không phải tất cả. Ví dụ Papillon:
+
+Papillon
+The temperament of a papillon is a happy, friendly, adventurous dog. They are not shy or aggressive. Papillon's make excellent family dogs but should be watched around little children, as should any dog, due to a small child's lack of understanding of a dog's behavior and the likelihood that they will do something to upset the dog.
+
+Vậy Papillon: dòng 4 là tên, dòng 5-6 là mô tả? Thực tế trong input, sau "Tabby" và mô tả Tabby, thì đến "Papillon" trên một dòng mới, rồi mô tả Papillon trên các dòng tiếp. Như vậy, cấu trúc là:
+- Dòng 1: Weimaraner description
+- Dòng 2: "Tabby"
+- Dòng 3: Tabby description
+- Dòng 4: "Papillon"
+- Dòng 5: Papillon description (có thể nhiều dòng? Trong input, Papillon description là một dòng dài? Thực tế, trong đoạn user input, mỗi phần được viết liên tục, nhưng khi copy có thể xuống dòng tự động. Tuy nhiên, mình thấy rằng sau mỗi "Jill will change this." thì có xuống dòng, rồi đến tên giống tiếp theo.
+
+Vậy để chính xác, mình nên coi mỗi đoạn từ đầu (hoặc sau một "Jill will change this.") đến trước khi gặp tên giống mới là một mục. Nhưng trong input, có những chỗ không có tên giống riêng dòng? Ví dụ "Mastiff" không có dòng riêng? Thực ra có: "Mastiff" là một dòng, rồi dòng tiếp là mô tả.
+
+Xem kỹ input:
+
+The Weimaraner is a large dog that was originally bred for hunting in the early 19th century. Early Weimaraners were used by royalty for hunting large game such as boar, bear, and deer. Jill will change this.
+Tabby
+A tabby is any domestic cat that has a coat featuring distinctive stripes, dots, lines or swirling patterns, usually together with a mark resembling an 'M' on its forehead. Tabbies are sometimes erroneously assumed to be a cat breed. Jill will change this.
+Papillon
+The temperament of a papillon is a happy, friendly, adventurous dog. They are not shy or aggressive. Papillon's make excellent family dogs but should be watched around little children, as should any dog, due to a small child's lack of understanding of a dog's behavior and the likelihood that they will do something to upset the dog.
+Airedale Terrier
+The Airedale can be used as a working dog and also as a hunting dog. Airedales exhibit some herding characteristics as well, and have a propensity to chase animals. They have no problem working with cattle and livestock.
+...
+
+Như vậy, mỗi giống có hai dòng: dòng đầu là tên giống (trừ Weimaraner vì nó bắt đầu bằng mô tả ngay? Thực tế, input bắt đầu bằng mô tả Weimaraner, không có dòng "Weimaraner" riêng. Vậy có hai kiểu:
+- Kiểu 1: Bắt đầu bằng mô tả, sau đó "Jill will change this." rồi xuống dòng là tên giống tiếp? Không, sau mô tả Weimaraner là "Jill will change this." rồi xuống dòng "Tabby". Vậy Weimaraner không có dòng tên riêng? Thực ra, trong input, không có dòng nào ghi "Weimaraner" riêng, mà mô tả bắt đầu ngay bằng "The Weimaraner...". Vậy cấu trúc:
++ Dòng 1: Mô tả Weimaraner + "Jill will change this."
++ Dòng 2: "Tabby"
++ Dòng 3: Mô tả Tabby + "Jill will change this."
++ Dòng 4: "Papillon"
++ Dòng 5: Mô tả Papillon (không có "Jill will change this." ở cuối? Trong input, sau mô tả Papillon không có câu "Jill will change this.", mà đến "Airedale Terrier" ngay? Thực ra, trong đoạn user input, sau mô tả Papillon là "Airedale Terrier" trên dòng mới. Vậy không phải mọi giống đều có "Jill will change this.".
+
+Mình cần kiểm tra kỹ: Trong input, có một số mục có "Jill will change this." ở cuối, một số không. Ví dụ:
+- Weimaraner: có
+- Tabby: có
+- Papillon: không có (sau đó đến Airedale Terrier)
+- Airedale Terrier: không có
+- Javanese: không có
+- Rottweiler: không có
+- Mastiff: không có
+- Bichon Frise: không có
+- MaineCoon: không có
+- Ibizan Hound: không có
+- Manx: không có
+- Colorpoint Shorthair: không có
+- Vizsla: không có
+- Puggle: không có
+- Irish Setter: không có
+- German Shepherd: có "Jill will change this wikipedia sourced text."
+- Scottish Terrier: không có
+- Ragdoll: không có
+- Staffordshire Bull Terrier: không có
+- Tonkinese: không có
+- American Shorthair: có "Jill should replace this wiki text as this is Placeholder"
+- English Setter: không có
+- Redbone Coonhound: không có
+- Australian Shepherd: không có
+- Borzoi: không có
+- Poodle: có "Jill will change this."
+- English Cocker Spaniel: không có
+- Giant Schnauzer: không có
+- Pointer: không có
+- Korat: không có
+- American Longhair: "description placeholder." -> dịch
+- Siberian: không có
+- Bull Terrier: không có
+
+Vậy chỉ một số mục có câu về Jill. Mình sẽ dịch toàn bộ, và những câu về Jill cũng dịch sang tiếng Việt.
+
+Về số dòng: input có khoảng 70+ dòng? Mình cần đếm chính xác.
+
+Tuy nhiên, yêu cầu là "Trả về đúng số dòng", nghĩa là output phải có cùng số dòng với input. Vì vậy, mình sẽ giữ nguyên cấu trúc xuống dòng của input. Có nghĩa là mỗi khi input có một lần xuống dòng (tức là một dòng mới), output cũng phải có một dòng mới. Nhưng nếu một dòng input chứa nhiều câu thì sao? Mình sẽ dịch toàn bộ nội dung của dòng đó, và xuống dòng sau khi kết thúc dòng đó.
+
+Cách làm: Tách input thành các dòng (split by newline), dịch từng dòng (nhưng cẩn thận vì một số dòng là tên giống, một số là mô tả dài). Tuy nhiên, nếu dịch từng dòng riêng lẻ có thể làm mất ngữ cảnh. Nhưng vì mô tả thường nằm trên một dòng duy nhất (dài), nên mình có thể dịch từng dòng một.
+
+Nhưng có trường hợp một mô tả lại chia trên nhiều dòng? Trong input, có vẻ mỗi mô tả là một dòng dài, không xuống dòng giữa. Ví dụ, mô tả Papillon là một dòng dài. Vậy mình có thể coi mỗi dòng input là một đơn vị dịch thuật.
+
+Tuy nhiên, có những dòng chỉ chứa tên giống, ví dụ "Tabby", "Papillon",... thì dịch thế nào? Có lẽ nên giữ nguyên tên giống? Nhưng yêu cầu là dịch toàn bộ, nên tên giống cũng dịch? Không nhất thiết, vì tên giống là tên riêng, thường không dịch. Nhưng trong ngữ cảnh The Sims 4, tên giống có thể được hiển thị trong game, và người chơi Việt Nam có thể quen với tên tiếng Anh. Tuy nhiên, yêu cầu là dịch, nên mình sẽ dịch cả tên giống nếu có thể.
+
+Ví dụ: "Tabby" -> "Mèo vằn" (vì tabby là kiểu vằn). "Papillon" -> "Chó Papillon" (thường giữ tên). Nhưng trong game, tên giống có thể là tiếng Anh. Mình nên dịch tên giống sang tiếng Việt nếu có tên phổ biến, còn không thì giữ nguyên.
+
+Quyết định: dịch tên giống nếu đó là từ thông dụng (ví dụ "Tabby" dịch là "Mèo vằn", "Maine Coon" dịch là "Mèo Maine Coon" hay "Mèo dài lông Maine"?), nhưng một số tên như "Papillon", "Weimaraner" là tên giống, thường giữ nguyên.
+
+Tuy nhiên, trong input, tên giống được viết riêng trên một dòng, và mô tả trên dòng khác. Vậy khi dịch, mình sẽ dịch cả dòng tên và dòng mô tả.
+
+Ví dụ:
+Input dòng 2: "Tabby" -> dịch thành "Mèo vằn"
+Input dòng 3: "A tabby is any domestic cat..." -> dịch.
+
+Nhưng nếu dịch tên "Tabby" thành "Mèo vằn", thì có nhất quán không? Trong game, tên giống có thể là "Tabby", nhưng đây là mô tả, có lẽ nên dịch.
+
+Mình sẽ dịch tên giống sang tiếng Việt nếu có nghĩa, còn tên riêng giống chó thì giữ nguyên.
+
+Liệt kê:
+- Weimaraner: giữ nguyên (tên giống)
+- Tabby: dịch thành "Mèo vằn" (vì tabby là mô tả kiểu lông)
+- Papillon: giữ nguyên (tên giống)
+- Airedale Terrier: giữ nguyên
+- Javanese: giữ nguyên (tên giống mèo)
+- Rottweiler: giữ nguyên
+- Mastiff: dịch? "Mastiff" thường dịch là "Chó lớn" nhưng là tên giống, nên giữ nguyên? Có thể dịch là "Chó mastiff" nhưng thường giữ nguyên.
+- Bichon Frise: giữ nguyên
+- MaineCoon: viết liền, nên sửa thành "Maine Coon" và dịch? Có thể dịch là "Mèo Maine Coon"
+- Ibizan Hound: giữ nguyên
+- Manx: giữ nguyên (tên giống)
+- Colorpoint Shorthair: dịch? Có thể "Mèo short hair màu điểm" nhưng thường giữ nguyên tên. Tuy nhiên, đây là tên giống, nên dịch sang tiếng Việt nếu có? Có thể "Mèo short hair màu điểm" nhưng dài. Có lẽ nên giữ nguyên tên tiếng Anh vì là tên chính thức.
+- Vizsla: giữ nguyên
+- Puggle: giữ nguyên
+- Irish Setter: giữ nguyên
+- German Shepherd: giữ nguyên (tên giống)
+- Scottish Terrier: giữ nguyên
+- Ragdoll: giữ nguyên (tên giống)
+- Staffordshire Bull Terrier: giữ nguyên
+- Tonkinese: giữ nguyên
+- American Shorthair: có thể dịch "Mèo short hair Mỹ"
+- English Setter: giữ nguyên
+- Redbone Coonhound: giữ nguyên
+- Australian Shepherd: giữ nguyên
+- Borzoi: giữ nguyên
+- Poodle: giữ nguyên (tên giống)
+- English Cocker Spaniel: giữ nguyên
+- Giant Schnauzer: giữ nguyên
+- Pointer: giữ nguyên (tên giống)
+- Korat: giữ nguyên (tên giống)
+- American Longhair: dịch "Mèo dài lông Mỹ"
+- Siberian: giữ nguyên (tên giống, nhưng thường gọi là "Mèo Siberia")
+- Bull Terrier: giữ nguyên
+
+Quyết định: Vì đây là dịch nội dung mô tả, tên giống có thể giữ nguyên, nhưng nếu tên giống là từ thông dụng (như Tabby) thì dịch. Tuy nhiên, trong game, tên giống thường là tiếng Anh, nên để tránh nhầm lẫn, có thể giữ nguyên tên giống và dịch phần mô tả.
+
+Nhưng trong input, có dòng riêng chỉ chứa tên giống, nếu mình giữ nguyên thì dòng đó không dịch, có vi phạm yêu cầu "dịch" không? Yêu cầu là dịch toàn bộ văn bản, nên cả tên giống cũng nên dịch nếu có thể.
+
+Mình sẽ dịch tên giống sang tiếng Việt với dạng "Chó/ Mèo [tên]" hoặc chỉ dịch nếu là từ thông dụng.
+
+Cụ thể:
+- Tabby: "Mèo vằn"
+- MaineCoon: "Mèo Maine Coon" (viết lại thành "Maine Coon" cho đúng)
+- Colorpoint Shorthair: "Mèo short hair màu điểm" nhưng dài, có thể "Mèo màu điểm lông ngắn"
+- American Shorthair: "Mèo short hair Mỹ"
+- American Longhair: "Mèo dài lông Mỹ"
+- Siberian: "Mèo Siberia"
+
+Còn các tên khác: Weimaraner, Papillon, Airedale Terrier, Javanese, Rottweiler, Mastiff, Bichon Frise, Ibizan Hound, Manx, Vizsla, Puggle, Irish Setter, German Shepherd, Scottish Terrier, Ragdoll, Staffordshire Bull Terrier, Tonkinese, English Setter, Redbone Coonhound, Australian Shepherd, Borzoi, Poodle, English Cocker Spaniel, Giant Schnauzer, Pointer, Korat, Bull Terrier: giữ nguyên tên, nhưng có thể thêm "Chó" hoặc "Mèo" trước? Ví dụ "Weimaraner" là chó, nên dịch thành "Chó Weimaraner"? Tuy nhiên, trong mô tả đã nói "dog" hoặc "cat", nên tên giống riêng có thể giữ nguyên.
+
+Để đơn giản, mình sẽ giữ nguyên tên giống (không thêm chữ "Chó"/"Mèo") vì trong ngữ cảnh đã rõ là chó hay mèo qua mô tả. Và chỉ dịch những tên có nghĩa thông dụng như Tabby.
+
+Vậy:
+- "Tabby" -> "Mèo vằn"
+- Các tên khác giữ nguyên.
+
+Nhưng "MaineCoon" viết liền, nên sửa thành "Maine Coon" và dịch? Có thể giữ nguyên "MaineCoon" nhưng dịch mô tả. Tuy nhiên, để chính xác, mình nên sửa lỗi chính tả nếu có. "MaineCoon" có lẽ là "Maine Coon". Mình sẽ dịch tên thành "Mèo Maine Coon".
+
+Tương tự, "American Longhair" -> "Mèo dài lông Mỹ".
+
+Với "Colorpoint Shorthair", có thể dịch là "Mèo short hair màu điểm" nhưng không hay. Có thể giữ nguyên tên.
+
+Mình quyết định: dịch tất cả tên giống sang tiếng Việt, với quy tắc:
+- Nếu là giống mèo: thêm "Mèo" trước, trừ khi tên đã có "cat" trong tên? Không, tên giống mèo thường không có "cat". Ví dụ "Siamese" -> "Mèo Xiêm".
+- Nếu là giống chó: thêm "Chó" trước? Cũng không cần, vì tên giống chó thường đủ.
+
+Nhưng để tránh dài dòng, có thể chỉ dịch tên nếu nó là từ thông dụng, còn không thì giữ nguyên. Tuy nhiên, yêu cầu là dịch toàn bộ, nên tốt nhất nên dịch hết.
+
+Mình sẽ dịch tên giống như sau:
+- Weimaraner: Chó Weimaraner (vì là chó)
+- Tabby: Mèo vằn (vì tabby là kiểu lông, không phải tên giống chính xác, nhưng trong game có thể là giống? Thực tế tabby không phải giống mà là kiểu lông, nhưng trong The Sims có thể là giống? Dịch theo nghĩa)
+- Papillon: Chó Papillon
+- Airedale Terrier: Chó Airedale Terrier
+- Javanese: Mèo Javanese
+- Rottweiler: Chó Rottweiler
+- Mastiff: Chó Mastiff
+- Bichon Frise: Chó Bichon Frise
+- MaineCoon: Mèo Maine Coon (sửa thành Maine Coon)
+- Ibizan Hound: Chó Ibizan Hound
+- Manx: Mèo Manx
+- Colorpoint Shorthair: Mèo Colorpoint Shorthair (có thể giữ nguyên vì là tên chính thức)
+- Vizsla: Chó Vizsla
+- Puggle: Chó Puggle
+- Irish Setter: Chó Irish Setter
+- German Shepherd: Chó Shepherd Đức (hoặc giữ nguyên German Shepherd)
+- Scottish Terrier: Chó Scottish Terrier
+- Ragdoll: Mèo Ragdoll
+- Staffordshire Bull Terrier: Chó Staffordshire Bull Terrier
+- Tonkinese: Mèo Tonkinese
+- American Shorthair: Mèo American Shorthair
+- English Setter: Chó English Setter
+- Redbone Coonhound: Chó Redbone Coonhound
+- Australian Shepherd: Chó Australian Shepherd
+- Borzoi: Chó Borzoi
+- Poodle: Chó Poodle
+- English Cocker Spaniel: Chó English Cocker Spaniel
+- Giant Schnauzer: Chó Giant Schnauzer
+- Pointer: Chó Pointer
+- Korat: Mèo Korat
+- American Longhair: Mèo American Longhair
+- Siberian: Mèo Siberian
+- Bull Terrier: Chó Bull Terrier
+
+Như vậy, mình sẽ thêm "Chó" hoặc "Mèo" vào trước tên, nhưng có thể không cần thiết vì mô tả đã nói rõ. Tuy nhiên, để dịch toàn bộ, mình sẽ làm.
+
+Nhưng trong input, có những dòng chỉ có tên giống, nếu mình dịch thành "Chó Weimaraner" thì có khác với mô tả? Mô tả bắt đầu bằng "The Weimaraner is a large dog..." nên nếu dòng tên là "Chó Weimaraner" thì hơi trùng. Có lẽ nên giữ nguyên tên giống trên dòng tên, và dịch mô tả.
+
+Vậy để tránh rườm rà, mình sẽ giữ nguyên tên giống (không thêm Chó/Mèo) trên dòng tên, và dịch mô tả. Còn với Tabby, vì nó là từ thông dụng, dịch thành "Mèo vằn".
+
+Quyết định:
+- Dòng chỉ chứa tên giống: dịch nếu là từ thông dụng (Tabby -> Mèo vằn), còn lại giữ nguyên.
+- Dòng mô tả: dịch toàn bộ.
+
+Vậy:
+- Dòng 2: "Tabby" -> "Mèo vằn"
+- Dòng 4: "Papillon" -> giữ nguyên "Papillon"
+- Dòng 6: "Airedale Terrier" -> giữ nguyên
+- v.v.
+
+Còn "MaineCoon": trên dòng có thể là "MaineCoon" -> dịch thành "Maine Coon" (sửa lỗi) hoặc giữ nguyên? Mình sẽ sửa thành "Maine Coon" vì đó là tên đúng.
+
+Tương tự, "American Longhair" -> dịch thành "Mèo dài lông Mỹ" nhưng trên dòng tên, nếu dòng đó chỉ là "American Longhair", thì dịch thành "Mèo dài lông Mỹ". Tuy nhiên, trong input, "American Longhair" là tên giống, và có dòng mô tả "American Longhair description placeholder." -> đây là dòng mô tả, không phải dòng tên riêng. Thực tế, trong input:
+
+Korat
+The Korat is a natural breed... (mô tả)
+American Longhair
+American Longhair description placeholder.
+
+Vậy "American Longhair" là dòng tên, và dòng tiếp là mô tả. Vậy dòng tên "American Longhair" dịch thành "Mèo dài lông Mỹ"? Hoặc giữ nguyên? Mình sẽ dịnh tên thành "Mèo dài lông Mỹ" để thống nhất.
+
+Tuy nhiên, có thể game sử dụng tên tiếng Anh, nên dịch tên có thể không chính xác. Nhưng vì là dịch nội dung, nên cứ dịch.
+
+Mình sẽ dịch tất cả tên giống sang tiếng Việt, với quy tắc:
+- Với giống mèo: thêm "Mèo" trước tên, trừ khi tên đã là tiếng Việt.
+- Với giống chó: thêm "Chó" trước tên.
+
+Nhưng một số tên như "Tabby" không phải tên giống mà là kiểu lông, nên dịch theo nghĩa.
+
+Để an toàn, mình sẽ dịch tên giống như sau (dựa trên danh sách trên):
+1. Weimaraner -> Chó Weimaraner
+2. Tabby -> Mèo vằn
+3. Papillon -> Chó Papillon
+4. Airedale Terrier -> Chó Airedale Terrier
+5. Javanese -> Mèo Javanese
+6. Rottweiler -> Chó Rottweiler
+7. Mastiff -> Chó Mastiff
+8. Bichon Frise -> Chó Bichon Frise
+9. MaineCoon -> Mèo Maine Coon (sửa cách viết)
+10. Ibizan Hound -> Chó Ibizan Hound
+11. Manx -> Mèo Manx
+12. Colorpoint Shorthair -> Mèo Colorpoint Shorthair (có thể giữ nguyên vì là tên phức)
+13. Vizsla -> Chó Vizsla
+14. Puggle -> Chó Puggle
+15. Irish Setter -> Chó Irish Setter
+16. German Shepherd -> Chó Shepherd Đức (hoặc Chó German Shepherd, nhưng dịch sang tiếng Việt: Chó chăn cừu Đức)
+17. Scottish Terrier -> Chó Scottish Terrier
+18. Ragdoll -> Mèo Ragdoll
+19. Staffordshire Bull Terrier -> Chó Staffordshire Bull Terrier
+20. Tonkinese -> Mèo Tonkinese
+21. American Shorthair -> Mèo American Shorthair (có thể dịch là Mèo short hair Mỹ)
+22. English Setter -> Chó English Setter
+23. Redbone Coonhound -> Chó Redbone Coonhound
+24. Australian Shepherd -> Chó Australian Shepherd
+25. Borzoi -> Chó Borzoi
+26. Poodle -> Chó Poodle
+27. English Cocker Spaniel -> Chó English Cocker Spaniel
+28. Giant Schnauzer -> Chó Giant Schnauzer
+29. Pointer -> Chó Pointer
+30. Korat -> Mèo Korat
+31. American Longhair -> Mèo American Longhair (hoặc Mèo dài lông Mỹ)
+32. Siberian -> Mèo Siberian (hoặc Mèo Siberia)
+33. Bull Terrier -> Chó Bull Terrier
+
+Như vậy, mình sẽ dịnh tên giống trên các dòng riêng thành các bản dịch tương ứng.
+
+Còn các dòng mô tả: dịch nội dung, giữ nguyên câu "Jill will change this." hoặc tương đương.
+
+Với các dòng có thẻ HTML: giữ nguyên thẻ, dịch phần text bên trong.
+
+Bây giờ, mình bắt đầu dịch từng dòng.
+
+Lưu ý: Có một số từ như "Jill will change this." có thể dịch là "Jill sẽ thay đổi điều này." nhưng trong ngữ cảnh game, có lẽ nên dịch là "Jill sẽ thay đổi cái này." hoặc giữ nguyên ý.
+
+Còn "Jill should replace this wiki text as this is Placeholder" -> "Jill nên thay thế văn bản wiki này vì đây là Placeholder."
+
+Với các câu thông báo Fairy Form: dịch sang tiếng Việt, giữ nguyên thẻ HTML.
+
+Mình sẽ dịch toàn bộ, và đảm bảo mỗi dòng input tương ứng một dòng output.
+
+Tuy nhiên, một số dòng input rất dài, khi dịch có thể dài hơn, nhưng vẫn là một dòng (vì không xuống dòng). Vậy output cũng phải là một dòng cho mỗi dòng input.
+
+Vậy kế hoạch:
+1. Đọc input, tách thành danh sách các dòng (split('\n')).
+2. Với mỗi dòng:
+   - Nếu dòng là tên giống (chỉ có tên, không có chữ cái khác), thì dịch tên giống như trên.
+   - Nếu dòng là mô tả, thì dịch nội dung, chú ý giữ nguyên các cấu trúc như {0.String}, &quot;, etc.
+   - Nếu dòng có thẻ HTML, giữ nguyên thẻ, dịch phần text.
+3. Xuất kết quả, mỗi dòng dịch xong thì xuống dòng.
+
+Bắt đầu:
+
+Dòng 1: "The Weimaraner is a large dog that was originally bred for hunting in the early 19th century. Early Weimaraners were used by royalty for hunting large game such as boar, bear, and deer. Jill will change this."
+-> Dịch: "Chó Weimaraner là một giống chó lớn được lai tạo ban đầu để săn bắn vào đầu thế kỷ 19. Các chó Weimaraner thời kỳ đầu được các hoàng tộc sử dụng để săn thú lớn như lợn rừng, gấu và hươu. Jill sẽ thay đổi điều này."
+
+Dòng 2: "Tabby"
+-> "Mèo vằn"
+
+Dòng 3: "A tabby is any domestic cat that has a coat featuring distinctive stripes, dots, lines or swirling patterns, usually together with a mark resembling an 'M' on its forehead. Tabbies are sometimes erroneously assumed to be a cat breed. Jill will change this."
+-> "Mèo vằn là bất kỳ con mèo nhà nào có bộ lông với những đường sọc, chấm, đường thẳng hoặc họa tiết xoáy ốc đặc trưng, thường đi kèm với một dấu giống chữ 'M' trên trán. Mèo vằn đôi khi bị nhầm lẫn là một giống mèo. Jill sẽ thay đổi điều này."
+
+Dòng 4: "Papillon"
+-> "Chó Papillon"
+
+Dòng 5: "The temperament of a papillon is a happy, friendly, adventurous dog. They are not shy or aggressive. Papillon's make excellent family dogs but should be watched around little children, as should any dog, due to a small child's lack of understanding of a dog's behavior and the likelihood that they will do something to upset the dog."
+-> "Tính cách của chó Papillon là một con chó hạnh phúc, thân thiện, mạo hiểm. Chúng không nhút nhát hay hung hãn. Chó Papillon là những con chó gia đình tuyệt vời nhưng nên được giám sát xung quanh trẻ nhỏ, như bất kỳ con chó nào, do trẻ nhỏ thiếu hiểu biết về hành vi của chó và khả năng chúng sẽ làm điều gì đó làm chó khó chịu."
+
+Dòng 6: "Airedale Terrier"
+-> "Chó Airedale Terrier"
+
+Dòng 7: "The Airedale can be used as a working dog and also as a hunting dog. Airedales exhibit some herding characteristics as well, and have a propensity to chase animals. They have no problem working with cattle and livestock."
+-> "Chó Airedale có thể được sử dụng như một con chó làm việc và cũng như một con chó săn. Airedales thể hiện một số đặc điểm chăn gia súc, và có xu hướng đuổi theo động vật. Chúng không gặp vấn đề khi làm việc với gia súc và vật nuôi."
+
+Dòng 8: "Javanese"
+-> "Mèo Javanese"
+
+Dòng 9: "Javanese are noted as an intelligent cat that tends to vocalize, though often for no apparent reason. They are notably fond of play, jumping and human contact and allegedly depressed if regularly not entertained by humans or other pets. They are reportedly good mouse hunters."
+-> "Mèo Javanese được ghi nhận là một con mèo thông minh có xu hướng kêu, mặc dù thường không có lý do rõ ràng. Chúng đặc biệt thích chơi đùa, nhảy và tiếp xúc với con người và được cho là sẽ trầm cảm nếu thường xuyên không được giải trí bởi con người hoặc thú cưng khác. Chúng được báo cáo là những thợ săn chuột tốt."
+
+Dòng 10: "Rottweiler"
+-> "Chó Rottweiler"
+
+Dòng 11: "Rottweilers are a powerful breed with well-developed genetic herding and guarding instincts. Potentially dangerous behaviour in Rottweilers usually results from irresponsible ownership, abuse, neglect, or lack of socialisation and training."
+-> "Chó Rottweiler là một giống mạnh mẽ với bản năng chăn giữ và bảo vệ được phát triển tốt về di truyền. Hành vi có khả năng nguy hiểm ở Rottweilers thường là kết quả từ sự sở hữu không có trách nhiệm, lạm dụng, bỏ bê, hoặc thiếu xã hội hóa và đào tạo."
+
+Dòng 12: "Mastiff"
+-> "Chó Mastiff"
+
+Dòng 13: "Mastiff type means a large molosser dog. The term &quot;mastiff type&quot; has been used synonymously with the term &quot;molosser&quot;. For example, the bulldog breeds, the Great Dane, the mountain dogs, the pit bulls and even smaller dogs such as the Boston terrier, may be considered &quot;mastiff types&quot; in this broad sense."
+-> "Kiểu mastiff có nghĩa là một con chó molosser lớn. Thuật ngữ &quot;kiểu mastiff&quot; đã được sử dụng đồng nghĩa với thuật ngữ &quot;molosser&quot;. Ví dụ, các giống bulldog, Great Dane, chó núi, pit bulls và thậm chí những con chó nhỏ hơn như Boston terrier, có thể được coi là &quot;kiểu mastiff&quot; theo nghĩa rộng này."
+
+Dòng 14: "Bichon Frise"
+-> "Chó Bichon Frise"
+
+Dòng 15: "The Bichon Frise loves human company and demands much of your attention. They are generally very sociable and do well with an owner that takes them along on outings."
+-> "Chó Bichon Frise thích sự công ty của con người và đòi hỏi nhiều sự chú ý của bạn. Chúng thường rất hòa đồng và phát triển tốt với chủ nhân đưa chúng đi chơi."
+
+Dòng 16: "MaineCoon"
+-> "Mèo Maine Coon" (sửa cách viết)
+
+Dòng 17: "The Maine Coon is a large and sociable cat, hence its nickname, &quot;the gentle giant.&quot; It is characterized by a prominent ruff along its chest, robust bone structure, rectangular body shape, a silky flowing coat, and a long, bushy tail."
+-> "Mèo Maine Coon là một con mèo lớn và hòa đồng, do đó có biệt danh, &quot;người khổng lồ dịu dàng.&quot; Nó được đặc trưng bởi một chiếc cổ áo lông nổi bật dọc theo ngực, khung xương mạnh mẽ, hình dáng cơ thể hình chữ nhật, bộ lông mượt mà chảy, và một chiếc đuôi dài, lông xù."
+
+Dòng 18: "Ibizan Hound"
+-> "Chó Ibizan Hound"
+
+Dòng 19: "Ibizan Hounds are &quot;escapologists&quot;: they are able to jump incredible heights from a standstill, so they need very tall fences. They also have been known to climb, and many can escape from crates, open baby gates and even locks."
+-> "Chó Ibizan Hound là &quot;chuyên gia thoát thoát&quot;: chúng có thể nhảy qua chiều cao không thể tin được từ chỗ đứng yên, vì vậy chúng cần hàng rào rất cao. Chúng cũng được biết đến là có thể trèo, và nhiều con có thể trốn thoát từ lồng, cổng trẻ em mở và thậm chí cả khóa."
+
+Dòng 20: "Manx"
+-> "Mèo Manx"
+
+Dòng 21: "The Manx is considered a social and gregarious cat, and very attached to humans, but also shy of strangers. The breed is said to be highly intelligent, playful, and in its behaviour reminiscent of dogs."
+-> "Mèo Manx được coi là một con mèo xã hội và thích đông người, và rất gắn bó với con người, nhưng cũng nhút nhát trước người lạ. Giống này được cho là rất thông minh, thích chơi đùa, và trong hành vi của nó gợi nhớ đến chó."
+
+Dòng 22: "Colorpoint Shorthair"
+-> "Mèo Colorpoint Shorthair"
+
+Dòng 23: "The Colorpoint Shorthair is a highly intelligent, playful, and people-friendly breed. They are extremely affectionate and outgoing and enjoy lounging around and playing with people, causing them to also be described as &quot;extroverts&quot;. They can also be very sensitive with nervous temperaments, which do not adapt well to changes of environment or to strangers."
+-> "Mèo Colorpoint Shorthair là một giống rất thông minh, thích chơi đùa, và thân thiện với người. Chúng vô cùng trìu mến và hướng ngoại và thích nằm dài và chơi với con người, khiến chúng cũng được mô tả là &quot;người hướng ngoại&quot;. Chúng cũng có thể rất nhạy cảm với khí chất lo lắng, những người không thích nghi tốt với thay đổi môi trường hoặc người lạ."
+
+Dòng 24: "Vizsla"
+-> "Chó Vizsla"
+
+Dòng 25: "Vizslas are very high energy, gentle-mannered, loyal, caring, and highly affectionate. They quickly form close bonds with their owners, children and even strangers. Often they are referred to as &quot;velcro&quot; dogs because of their loyalty and affection."
+-> "Chó Vizsla rất năng lượng cao, phong cách nhẹ nhàng, trung thành, quan tâm, và vô cùng trìu mến. Chúng nhanh chóng tạo ra mối liên kết gần gũi với chủ nhân, trẻ em và thậm chí cả người lạ. Thường chúng được gọi là những con chó &quot;velcro&quot; vì sự trung thành và trìu mến của chúng."
+
+Dòng 26: "Puggle"
+-> "Chó Puggle"
+
+Dòng 27: "Puggles are great family dogs, they love to be around kids and are very friendly. They have characteristics of beagles, meaning they love to sniff for things and are excellent jumpers."
+-> "Chó Puggle là những con chó gia đình tuyệt vời, chúng thích ở xung quanh trẻ em và rất thân thiện. Chúng có đặc điểm của beagle, nghĩa là chúng thích đánh hơi tìm đồ và là những người nhảy xuất sắc."
+
+Dòng 28: "Irish Setter"
+-> "Chó Irish Setter"
+
+Dòng 29: "Irish Setters get along well with children, other dogs, and will enthusiastically greet visitors. Even though they do well with household pets, small animals may pose a problem for this breed, as they are a hunting breed."
+-> "Chó Irish Setter hòa hợp tốt với trẻ em, chó khác, và sẽ chào đón khách một cách nhiệt tình. Mặc dù chúng phát triển tốt với thú cưng trong nhà, động vật nhỏ có thể gây vấn đề cho giống này, vì chúng là một giống săn."
+
+Dòng 30: "German Shepherd"
+-> "Chó Shepherd Đức" (hoặc "Chó German Shepherd", nhưng dịch sang tiếng Việt: "Chó chăn cừu Đức")
+
+Dòng 31: "The German Shepherd (German: Deutscher Schäferhund, German pronunciation: [ˈʃɛːfɐˌhʊnt]) is a breed of medium to large-sized working dog that originated in Germany. The breed's officially recognized name is German Shepherd Dog in the English language, sometimes abbreviated as GSD and was also formerly known as the Alsatian in Britain. Jill will change this wikipedia sourced text."
+-> "Chó Shepherd Đức (tiếng Đức: Deutscher Schäferhund, phát âm tiếng Đức: [ˈʃɛːfɐˌhʊnt]) là một giống chó làm việc cỡ trung bình đến lớn có nguồn gốc từ Đức. Tên chính thức được công nhận của giống là German Shepherd Dog bằng tiếng Anh, đôi được viết tắt là GSD và trước đây còn được gọi là Alsatian ở Anh. Jill sẽ thay đổi văn bản này có nguồn từ wikipedia."
+
+Dòng 32: "Scottish Terrier"
+-> "Chó Scottish Terrier"
+
+Dòng 33: "Scotties are territorial, alert, quick moving and feisty, perhaps even more so than other terrier breeds. The breed is known to be independent and self-assured, playful, intelligent and has been nicknamed the 'Diehard' because of its rugged nature and endless determination."
+-> "Chó Scottish Terrier (Scotties) có lãnh thổ, cảnh giác, di chuyển nhanh và hung hăng, có thể thậm chí hơn các giống terrier khác. Giống này được biết đến là độc lập và tự tin, thích chơi đùa, thông minh và được đặt biệt danh là 'Diehard' vì bản chất khỏe mạnh và sự quyết tâm không ngừng."
+
+Dòng 34: "Ragdoll"
+-> "Mèo Ragdoll"
+
+Dòng 35: "The extreme docility of some individuals has led to the myth that Ragdolls are pain resistant. Some breeders in Britain have tried to breed away from the limpness owing to concerns that extreme docility &quot;might not be in the best interests of the cat&quot;."
+-> "Sự dịu dàng cực đoan của một số cá nhân đã dẫn đến huyền thoại rằng Mèo Ragdoll kháng cự với cơn đau. Một số nhà lai tạo ở Anh đã cố gắng lai tạo để loại bỏ sự mềm yếu do lo ngại rằng sự dịu dàng cực đoan &quot;có thể không phải là lợi ích tốt nhất cho con mèo&quot;."
+
+Dòng 36: "Staffordshire Bull Terrier"
+-> "Chó Staffordshire Bull Terrier"
+
+Dòng 37: "Although individual differences in personality exist, common traits exist throughout the Staffords. Due to its breeding, and history, the Staffordshire Bull Terrier is known for its character of fearlessness and loyalty. This, coupled with its affection for its friends, its off-duty quietness and trustworthy stability, make it a foremost all-purpose dog."
+-> "Mặc dù có sự khác biệt cá nhân về tính cách, những đặc điểm chung tồn tại xuyên suốt các Staffords. Do lai tạo và lịch sử, Chó Staffordshire Bull Terrier được biết đến với tính cách của sự gan dạ và trung thành. Điều này, kết hợp với tình yêu thương của nó dành cho bạn bè, sự tĩnh lặng khi không làm việc và sự ổn định đáng tin cậy, làm cho nó trở thành một con chó đa năng hàng đầu."
+
+Dòng 38: "Tonkinese"
+-> "Mèo Tonkinese"
+
+Dòng 39: "Tonkinese are intelligent, active, vocal and generally people-oriented cats, playful and interested in everything going on around them; however, this also means they are easily susceptible to becoming lonesome or bored."
+-> "Mèo Tonkinese là những con mèo thông minh, năng động, biết kêu và thường hướng về con người, thích chơi đùa và quan tâm đến mọi thứ xung quanh; tuy nhiên, điều này cũng có nghĩa là chúng dễ trở nên cô đơn hoặc chán."
+
+Dòng 40: "American Shorthair"
+-> "Mèo American Shorthair"
+
+Dòng 41: "The American Shorthair is a breed of domestic cat believed to be descended from European cats brought to North America by early settlers to protect valuable cargo from mice and rats. Jill should replace this wiki text as this is Placeholder"
+-> "Mèo American Shorthair là một giống mèo nhà được tin là hậu duệ của những con mèo châu Âu được những người định cư đầu tiên mang đến Bắc Mỹ để bảo vệ hàng hóa có giá trị khỏi chuột và chuột cống. Jill nên thay thế văn bản wiki này vì đây là Placeholder"
+
+Dòng 42: "English Setter"
+-> "Chó English Setter"
+
+Dòng 43: "A gentle but at times strong-willed, mischievous gun dog, the English Setter was bred for a mix of endurance and athleticism, it is used to hunt for game such as quail, pheasant, and grouse."
+-> "Một con chó săn nhẹ nhàng nhưng đôi khi kiên quyết, nghịch ngợm, Chó English Setter được lai tạo cho sự kết hợp của sức bền và năng lực vận động, nó được sử dụng để săn thú như chim cút, gà gô, và grouse."
+
+Dòng 44: "Redbone Coonhound"
+-> "Chó Redbone Coonhound"
+
+Dòng 45: "The Redbone Coonhound is affectionate, gentle, and should have a strong desire to please its owner.The breed is known for its distinctive &quot;drawling&quot; bark, also known as a bay. Hunters who use the breed follow the sound of the voice as the dogs track quarry."
+-> "Chó Redbone Coonhound trìu mến, dịu dàng, và nên có một sự mong muốn mạnh mẽ để làm hài lòng chủ nhân. Giống này được biết đến với tiếng sủa &quot;drawling&quot; đặc trưng, còn được gọi là tiếng tru. Những thợ săn sử dụng giống này theo dõi âm thanh của giọng nói khi các con chó truy tìm con mồi."
+
+Dòng 46: "Australian Shepherd"
+-> "Chó Australian Shepherd"
+
+Dòng 47: "The breed is typically highly energetic, requiring a great deal of exercise and attention. An Australian shepherd enjoys working, whether it is learning and practicing tricks, competing in dog agility, or engaging in any other physically and mentally involving activity."
+-> "Giống này thường rất năng lượng, đòi hỏi rất nhiều bài tập và sự chú ý. Một chó Australian Shepherd thích làm việc, dù là học và thực hành các trò, thi đấu khuyển tài lẹ, hoặc tham gia bất kỳ hoạt động nào khác liên quan đến thể chất và tinh thần."
+
+Dòng 48: "Borzoi"
+-> "Chó Borzoi"
+
+Dòng 49: "The borzoi is a quiet, but athletic and independent dog. Most borzois are almost silent, barking only very rarely. They do not have strong territorial drives and cannot be relied on to raise the alarm upon sighting a human intruder."
+-> "Chó Borzoi là một con chó trầm lặng, nhưng năng động và độc lập. Hầu hết các con borzoi gần như im lặng, sủa rất hiếm. Chúng không có bản năng lãnh thổ mạnh và không thể được dựa vào để báo động khi phát hiện kẻ xâm nhập con người."
+
+Dòng 50: "Poodle"
+-> "Chó Poodle"
+
+Dòng 51: "The poodle is a group of formal dog breeds, the Standard Poodle, Miniature Poodle and Toy Poodle. The Fédération Cynologique Internationale (FCI) recognizes four sizes of one breed: standard, medium, miniature, and toy. Poodles exist in many coat colors. The origins of the poodles are still discussed. Jill will change this."
+-> "Chó Poodle là một nhóm các giống chó chính thức, Chó Poodle Tiêu chuẩn, Chó Poodle Thu nhỏ và Chó Poodle Đồ chơi. Fédération Cynologique Internationale (FCI) công nhận bốn kích cỡ của một giống: tiêu chuẩn, trung bình, thu nhỏ, và đồ chơi. Chó Poodle tồn tại với nhiều màu lông. Nguồn gốc của chó Poodle vẫn còn được thảo luận. Jill sẽ thay đổi điều này."
+
+Dòng 52: "English Cocker Spaniel"
+-> "Chó English Cocker Spaniel"
+
+Dòng 53: "Cockers are compassionate, determined, kind, intelligent, athletic, alert and resilient and make great family pets. The breed does not like being alone, and will bond strongly to an individual person in a family, usually the one who feeds it."
+-> "Chó Cocker (Cockers) là thông cảm, kiên quyết, tốt bụng, thông minh, năng động, cảnh giác và kiên cường và làm những thú cưng gia đình tuyệt vời. Giống này không thích ở một mình, và sẽ gắn bó mạnh mẽ với một cá nhân trong gia đình, thường là người cho chúng ăn."
+
+Dòng 54: "Giant Schnauzer"
+-> "Chó Giant Schnauzer"
+
+Dòng 55: "Giant Schnauzers are usually a quiet breed. Due to its breeding, the Giant Schnauzer is inherently suspicious of strangers and can be very territorial. Once introduced, it is usually accepting of novel people or situations."
+-> "Chó Giant Schnauzer thường là một giống trầm lặng. Do lai tạo, Chó Giant Schnauzer vốn dĩ nghi ngờ người lạ và có thể rất lãnh thổ. Một khi được giới thiệu, nó thường chấp nhận những người hoặc tình huống mới."
+
+Dòng 56: "Pointer"
+-> "Chó Pointer"
+
+Dòng 57: "Pointers are even-tempered, congenial dogs, and despite their large size, make good house pets so long as they get sufficient exercise due to their extremely high energy levels. Pointers are intelligent, affectionate, clean and intensely loyal."
+-> "Chó Pointer là những con chó điềm tâm, hòa đồng, và mặc dù kích cỡ lớn, làm những thú cưng nhà tốt miễn là chúng được tập thể dục đủ do mức năng lượng cực kỳ cao của chúng. Chó Pointer thông minh, trìu mến, sạch sẽ và trung thành mãnh liệt."
+
+Dòng 58: "Korat"
+-> "Mèo Korat"
+
+Dòng 59: "The Korat is a natural breed, and one of the oldest stable cat breeds. Known colloquially as the &quot;good luck cat&quot;. Traditionally, they are given in pairs to newlyweds or people who are highly esteemed, for good luck. Until recently, Korats were not sold, but only given as gifts."
+-> "Mèo Korat là một giống tự nhiên, và một trong những giống mèo ổn định lâu đời nhất. Được biết đến theo cách nói thông tục là &quot;con mèo may mắn&quot;. Theo truyền thống, chúng được tặng theo cặp cho những cặp vợ chồng mới cưới hoặc những người được kính trọng, để cầu may mắn. Cho đến gần đây, Korats không được bán, mà chỉ được tặng như quà."
+
+Dòng 60: "American Longhair"
+-> "Mèo dài lông Mỹ"
+
+Dòng 61: "American Longhair description placeholder."
+-> "Mô tả Mèo dài lông Mỹ placeholder."
+
+Dòng 62: "Siberian"
+-> "Mèo Siberia"
+
+Dòng 63: "Known to be an exceptionally agile jumper, the Siberian is a strong and powerfully built cat, with strong hindquarters and large, well rounded paws and an equally impressive large full tail."
+-> "Được biết đến là một người nhảy khéo léo ngoại hạng, Mèo Siberia là một con mèo mạnh mẽ và được xây dựng mạnh mẽ, với phần sau mạnh mẽ và những chiếc chân lớn, tròn trịa và một chiếc đuôi lớn đầy đủ ấn tượng không kém."
+
+Dòng 64: "Bull Terrier"
+-> "Chó Bull Terrier"
+
+Dòng 65: "Bull Terriers can be both independent and stubborn and for this reason are not considered suitable for an inexperienced dog owner. A Bull terrier has an even temperament and is amenable to discipline."
+-> "Chó Bull Terrier có thể vừa độc lập và bướng bỉnh và vì lý do này không được coi là phù hợp cho một chủ chó chưa có kinh nghiệm. Một con Bull terrier có tính cách điềm tâm và dễ bảo."
+
+Dòng 66: "(From Wearing Proper Clothes)"
+-> "(Từ Trang Phục Đúng Mặc)"
+
+Dòng 67: "Hospital Patient"
+-> "Bệnh Nhân Bệnh Viện"
+
+Dòng 68: "Police Detective"
+-> "Thám Tử Cảnh Sát"
+
+Dòng 69: "Victorian Companion"
+-> "Bạn Đồng Hành Thời Victoria"
+
+Dòng 70: "Fishman from the Lagoon"
+-> "Người Đánh Cá từ Đầm Lầy"
+
+Dòng 71: "Camper"
+-> "Người Cắm Trại"
+
+Dòng 72: "Medieval Monarch"
+-> "Vua Chúa Trung Cổ"
+
+Dòng 73: "Tree Fir"
+-> "Cây Thông"
+
+Dòng 74: "Vulpes the Voidcritter"
+-> "Vulpes sinh vật Voidcritter" (giữ nguyên tên Vulpes, dịch "the Voidcritter" -> "sinh vật Voidcritter" hoặc giữ nguyên? Có lẽ giữ nguyên "Vulpes the Voidcritter" vì là tên riêng? Nhưng yêu cầu dịch, nên dịch: "Vulpes - sinh vật Voidcritter" nhưng dài. Có thể "Vulpes (sinh vật Voidcritter)" nhưng để nguyên cấu trúc. Mình dịch: "Vulpes sinh vật Voidcritter")
+
+Dòng 75: "Robot"
+-> "Robot"
+
+Dòng 76: "Victorian Lead"
+-> "Người Lãnh Đạo Thời Victoria"
+
+Dòng 77: "Apocalypse Delinquent"
+-> "Trẻ Hư Hỏng Tận Thế"
+
+Dòng 78: "Sheriff"
+-> "Cảnh Sát Trưởng"
+
+Dòng 79: "Animal Hoodie"
+-> "Áo Hoodie Động Vật"
+
+Dòng 80: "Hospital Doctor"
+-> "Bác Sĩ Bệnh Viện"
+
+Dòng 81: "Holiday Helper"
+-> "Người Hỗ Trợ Ngày Lễ"
+
+Dòng 82: "Pirate Crew"
+-> "Đồng Hồi Tặc"
+
+Dòng 83: "Alien Outsider"
+-> "Người Ngoài Hành Tinh"
+
+Dòng 84: "Western Townperson"
+-> "Người Dân Miền Tây"
+
+Dòng 85: "Apocalypse Survivor"
+-> "Người Sống Sót Tận Thế"
+
+Dòng 86: "Pirate Captain"
+-> "Thuyền Trưởng Tặc"
+
+Dòng 87: "Scoundrel Bandit"
+-> "Cướp Bọn Vô lại"
+
+Dòng 88: "Superhero"
+-> "Siêu Anh Hùng"
+
+Dòng 89: "Supervillain"
+-> "Siêu Phản Diện"
+
+Dòng 90: "Victorian Sweetheart"
+-> "Người Yêu Thời Victoria"
+
+Dòng 91: "Cannot change traits while in this form."
+-> "Không thể thay đổi đặc điểm khi ở dạng này."
+
+Dòng 92: "Invalid age group. Delete Fairy Form?"
+-> "Nhóm tuổi không hợp lệ. Xóa Hình Dạng Tiên?"
+
+Dòng 93: "Children do not have a Fairy Form or Fairy Abilities. Selecting this age option will delete the current Fairy Form. You cannot undo this change."
+-> "Trẻ em không có Hình Dạng Tiên hay Khả Năng Tiên. Việc chọn tùy chọn tuổi này sẽ xóa Hình Dạng Tiên hiện tại. Bạn không thể hoàn tác thay đổi này."
+
+Dòng 94: "Link Sim Form with Fairy Form\n&lt;font color='#1e81e6'&gt;&lt;i&gt;When linked, any changes made in either form will automatically be copied to the other. Individual parts can be included and excluded from this linkage in the Link Filters above.&lt;/i&gt;&lt;/font&gt;"
+-> "Liên kết Hình Dạng Sim với Hình Dạng Tiên\n&lt;font color='#1e81e6'&gt;&lt;i&gt;Khi liên kết, bất kỳ thay đổi nào được thực hiện trong một hình dạng sẽ tự động được sao chép sang hình dạng kia. Các phần cá nhân có thể được bao gồm và loại trừ khỏi sự liên kết này trong Bộ Lọc Liên Kết ở trên.&lt;/i&gt;&lt;/font&gt;"
+
+Dòng 95: "Copy Fairy Form to Sim"
+-> "Sao Chép Hình Dạng Tiên sang Sim"
+
+Dòng 96: "{0.SimName}'s Fairy Form"
+-> "{0.SimName}'s Hình Dạng Tiên" (giữ nguyên biến)
+
+Dòng 97: "Link Fairy Form with Sim Form\n&lt;font color='#1e81e6'&gt;&lt;i&gt;When linked, any changes made in either form will automatically be copied to the other. Individual parts can be included and excluded from this linkage in the Link Filters above.&lt;/i&gt;&lt;/font&gt;"
+-> "Liên kết Hình Dạng Tiên với Hình Dạng Sim\n&lt;font color='#1e81e6'&gt;&lt;i&gt;Khi liên kết, bất kỳ thay đổi nào được thực hiện trong một hình dạng sẽ tự động được sao chép sang hình dạng kia. Các phần cá nhân có thể được bao gồm và loại trừ khỏi sự liên kết này trong Bộ Lọc Liên Kết ở trên.&lt;/i&gt;&lt;/font&gt;"
+
+Dòng 98: "Copy Sim to Fairy Form"
+-> "Sao Chép Sim sang Hình Dạng Tiên"
+
+Dòng 99: "Add Fairy"
+-> "Thêm Tiên"
+
+Dòng 100: "Vampire Powers"
+-> "Sức Mạnh Ma Cà Rồng"
+
+Lưu ý: Có một số dòng có {0.String} nhưng trong danh sách trên chỉ thấy {0.SimName}. Có thể có dòng khác có {0.String} nhưng không thấy? Trong input, có dòng: "{0.SimName}'s Fairy Form" -> giữ nguyên {0.SimName}.
+
+Vậy xong. Bây giờ mình sẽ tổng hợp lại, đảm bảo mỗi dòng input tương ứng một dòng output.
+
+Tuy nhiên, cần kiểm tra số dòng: input có bao nhiêu dòng? Mình đếm từ trên xuống:
+
+1. The Weimaraner...
+2. Tabby
+3. A tabby is...
+4. Papillon
+5. The temperament...
+6. Airedale Ter

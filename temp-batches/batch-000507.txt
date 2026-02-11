@@ -1,0 +1,100 @@
+Đặt Giao Hàng Đồ Ăn
+Cảm ơn bạn đã sử dụng dịch vụ giao hàng đồ ăn Zoomers. Một người sẽ mang bữa ăn của bạn đến ngay thôi.
+(Từ Nghe Nói Về Vòng Tay Trang Sức Cổ)
+Nói Chuyện Công Việc
+Nói Chuyện Về Công Việc
+Người phối hợp của tôi gọi điện nói rằng hiệu suất công việc của tôi khá chao đảo. Nếu không thay đổi, tôi có thể bị hạ cấp. Tôi được nhắc phải tập trung vào mục tiêu, giữ tâm trạng tốt và đến đúng giờ.
+Cảnh Báo Học Tập
+Hiệu trưởng gọi điện nói rằng hiệu suất học tập của tôi khá chao đảo. Nếu không cẩn thận, tôi có thể bị rớt hạng. Tôi được nhắc phải tập trung vào mục tiêu học tập, giữ tâm trạng tốt ở trường và đến trường đúng giờ mỗi ngày.
+Gọi Đường Dây Nóng Buồn Bã
+Gì cơ? Tôi đang ngủ! Gọi sau đi.
+{1.SimFirstName} không đồng ý. Không đâu. {0.SimFirstName} muốn nói gì thì nói {M0.anh ấy}{F0.cô ấy}. Không thể nào {1.SimFirstName} bỏ thịt. Thịt hoàn toàn ổn mà.
+{1.SimFirstName} đồng ý! Có lẽ Chay ăn thịt không đáng sợ như {M1.anh ấy}{F1.cô ấy} nghĩ. {1.SimFirstName} có thể sẽ thử một miếng xem thế nào.
+Hào Hứng Về Chay Ăn Thịt
+Truyền Giáo Lợi Ích Của Ăn Chay
+Than Ván Thức Ăn Thay Thế Thịt Không Có Vị
+{1.SimFirstName} không đồng ý. Thức ăn thay thế thịt có hương vị riêng mà không thể thay thế được.
+{1.SimFirstName} đồng ý với bạn. Thức ăn thay thế thịt ngày nay không còn vị như xưa.
+Hoàn toàn bất đồng. Thức ăn thay thế thịt đang cố gắng hết sức và {1.SimFirstName} nghĩ rằng nếu bạn làm tốt hơn, hãy vào bếp làm đi.
+{1.SimFirstName} đồng ý với bạn. Thức ăn thay thế thịt thực sự cần phải nâng cấp.
+{1.SimFirstName} không đồng ý. Thức ăn thay thế thịt khá đậm đà.
+{1.SimFirstName} đồng ý với bạn. Thức ăn thay thế thịt khá nhạt nhẽo.
+Kể Chuyện Tưởng Tượng
+Nói Về Sách Bán Chạy
+Lên Án
+Nói Về Xe Tải
+Nói Về Tiệc
+Nói Về Động Vật Yêu Thích
+Hỏi Tại Sao
+Hỏi Về Thế Giới
+Hỏi Về Dải Ngân Hà
+Kể Đùa Về Con Sò
+Nghe Đùa
+Phản Biện Tinh Tế
+Kể Đùa Về Kỹ Sư
+Kể Đùa Về Vịt
+Kể Đùa Về Người Sao Hỏa
+Kể Đùa Về Khỉ
+Kể Đùa Về Chim Cánh Cụt
+Kể Đùa Về Người Ngoài Hành Tinh
+Kể Đùa Về Thung Lũng Hoàng Hôn
+Kể Đùa Về Diễn Viên Câm
+Kể Đùa Về Ma Cà Rồng
+Kể Đùa Về Di Sản Gia Đình
+Kể Đùa
+Nghe Câu Chuyện Hài Hước
+Kể Câu Chuyện Hài Hước
+Kể Câu Chuyện Ngớ Ngẩn
+Nghe Lời Trích Dẫn Của {1.SimFirstName}
+Trích Dẫn Nhân Vật Hoạt Hình
+Xì Xồ Về Phụ Huynh Khác
+Giễu Chơi Cùng {1.SimFirstName}
+Giễu Chơi
+Giễu Chơi Cùng {1.SimFirstName}
+Giễu Chơi
+Chia Sẻ Những Câu Chuyện Về Vòng Tay Trang Sức Cổ Quý
+(Từ Nghe Những Câu Chuyện Về Vòng Tay Trang Sức Cổ Quý)
+Khoe Về Em Bé
+Bị {1.SimFirstName} Buộc Tội Là Người Đi Du Hành Thời Gian
+Thực Hành Buộc Tội Là Người Đi Du Hành Thời Gian
+Thực Hành Lên Án
+Thực Hành Xấu Xa Cùng Bạn Đồng Hư Ảo Xấu Xa Của {0.SimFirstName}! Đừng lo, {1.SimFirstName} sẽ thích nó.
+Được {1.SimFirstName} Lên Án
+Lên Án
+Lên Án Vì Sử Dụng Ma Thuật Không Đúng
+Lên Án
+Được {1.SimFirstName} Cảm Ơn
+Khen Về Bài Báo Gần Đây
+Được {1.SimFirstName} Lên Án
+Lên Án Về Bài Báo Tiêu Cực
+Thực Hành Lên Án Về Bài Báo Tiêu Cực
+Lập Kế Hoạch Quấn Thịt Xông Khói Xung Quanh Mọi Thứ
+Làm Tình Trên Tàu Vũ Trụ
+Làm Tình Vụng Về Trên Tàu Vũ Trụ
+Làm Tình Trong Nhà Vệ Sinh
+Làm Tình Vụng Về Trong Nhà Vệ Sinh
+Vui Vẻ Trong Phòng Vệ Sinh
+Làm Tình Trong Đài Quan Sát
+Làm Tình Vụng Về Trong Đài Quan Sát
+Làm Tình Trong Bồn Tắm Nước Nóng
+Làm Điều Đồi Trá Trong Bồn Tắm Nước Nóng
+Làm Tình Vụng Về Trong Bồn Tắm Nước Nóng
+Làm Tình Trong Quan Tài
+Làm Điều Đồi Trá Trong Quan Tài
+Ai lại muốn làm ĐIỀU ĐÓ trong CHỖ ĐÓ?!
+Làm Tình Vụng Về Trong Quan Tài
+Người Sim lịch lãm không muốn làm tình trong quan tài.
+Làm Tình Trong Bụi Cây
+Làm Điều Đồi Trá Trong Bụi Cây
+Làm Tình Vụng Về Trong Bụi Cây
+Xin lỗi, tôi không quan tâm đến việc Làm Tình với {M0.đàn ông}{F0.phụ nữ}.
+Đề Xuất Làm Tình Liên Tục
+Làm Tình Trong Lều
+Làm Điều Đồi Trá Trong Lều
+Làm Tình Vụng Về Trong Lều
+Đề Xuất Làm Điều Đồi Trá Liên Tục
+Thì Thầm Quyến Rũ
+Thử Thì Thầm Quyến Rũ
+Chia Sẻ Bến Cảng Của Bạn
+Hỏi Trăng Đi Đâu Rồi
+{1.SimFirstName} có Tình Cảm Tiêu Cực với {0.SimFirstName} và hỏi lại có lẽ sẽ không giúp ích.

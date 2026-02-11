@@ -1,0 +1,100 @@
+Mang đến đây ngay
+Mang đến đây ngay
+Hãy mang đến đây
+Mang
+Yêu cầu {2.SimFirstName} đặt ở đây
+Đặt ở đây
+Đặt {2.SimFirstName} ở đây
+Xây Người Tuyết với
+Xây Người Tuyết với {2.SimFirstName}
+Chọn một Sim để xây cùng
+Chơi đồ chơi cho
+Ném tuyết vào
+Ném tuyết vào {2.SimFirstName}
+Được mang đến đây
+Lấy đồ ăn nhẹ
+Thử thức ăn trẻ em đầu tiên với
+Thử thức ăn trẻ em đầu tiên với {2.SimFirstName}
+Khám phá thức ăn với
+Khám phá thức ăn với {2.SimFirstName}
+{0.SimFirstName} chưa tự ngồi dậy được. Điều này yêu cầu cột mốc Ngồi dậy.
+Được mang đến đây
+Giúp khám phá thức ăn
+Giúp {2.SimFirstName} khám phá thức ăn
+Giúp thử thức ăn trẻ em đầu tiên
+Giúp {2.SimFirstName} thử thức ăn trẻ em đầu tiên
+Được đặt xuống giường bởi
+Nhờ {2.SimFirstName} đặt xuống giường
+Được mang đến đây
+Đặt trẻ sơ sinh xuống giường
+Đặt {2.SimFirstName} xuống giường
+{2.SimFirstName} đã ngủ rồi.
+{0.SimFirstName} không thể làm điều này khi đang trên thảm chơi.
+{0.SimFirstName} chưa với tới được. Điều này yêu cầu cột mốc Với tới.
+Lấy đồ chơi từ
+Nó phải được sửa chữa hoặc thay thế để có thể nấu ăn.
+Nấu ăn cùng với
+Cần một ghế ăn dặm.
+Tập tạ với
+Chọn Sim để tập tạ cùng
+Tập hợp nhóm
+Không thể thêm Eco-Inspector vào nhóm.
+Nhóm có giới hạn 8 Sim
+Cho đồ chơi cho
+Được mang đến đây bởi {1.SimFirstName}
+Thay tã cho {2.SimFirstName}
+Không ai cần thay tã lúc này.
+Yêu cầu thay tã
+Yêu cầu {2.SimFirstName} thay tã
+Thay tã
+Nhận thay tã từ {2.SimFirstName}
+Tã ngay
+Tã làm ơn
+Nhận thay tã từ
+Tã
+Yêu cầu bật TV
+Yêu cầu {2.SimFirstName} bật TV
+Yêu cầu đung đưa với
+Yêu cầu được đẩy trên xích đu
+Yêu cầu đẩy ai đó trên xích đu
+Yêu cầu {2.SimFirstName} nhảy
+Yêu cầu nhảy
+Dạy nhảy
+Dạy {2.SimFirstName} nhảy
+Yêu cầu giúp đỡ nhảy
+Giúp đỡ nhảy
+Giúp đỡ nhảy làm ơn
+Yêu cầu {2.SimFirstName} dạy nhảy
+Với ai?
+Thêm vào danh bạ
+Khoe công việc
+Không có Sim nào gần để khoe với.
+Được mang đến đây
+Yêu cầu giúp bô
+Yêu cầu {2.SimFirstName} giúp bô
+Huấn luyện bô
+Huấn luyện bô cho {2.SimFirstName}
+Yêu cầu đi bô
+Yêu cầu {2.SimFirstName} đi bô
+Chụp ảnh cùng với
+Không có Sim nào được biết đến xung quanh để chụp ảnh.
+Chụp ảnh của
+Không thể làm điều này khi đang ở biển.
+Cho {2.SimFirstName} tắm bọt
+Cho {2.SimFirstName} tắm
+Cho tắm
+Yêu cầu thức ăn
+Yêu cầu {2.SimFirstName} thức ăn
+Lấy thức ăn cho
+Yêu cầu đồ uống
+Yêu cầu {2.SimFirstName} đồ uống
+Lấy đồ uống cho {2.SimFirstName}
+{0.SimFirstName} không có kỹ năng Thể dục cần thiết để dạy lớp Pump It Up. Có thể bắt đầu với vài cái uốn tay trước!
+{0.String} (&lt;font color='#3AAF69'&gt;+{1.Money}&lt;/font&gt; mỗi người tham gia) 
+Không có Sim nào có sẵn gần đây.
+Dẫn dắt lớp Pump It Up
+Gán Giường cho {2.String}
+Chuyển điều khiển sang hộ gia đình này
+Chơi cùng
+Dọn dẹp
+Dọn dẹp {2.SimFirstName}

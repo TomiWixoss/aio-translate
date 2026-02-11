@@ -1,0 +1,100 @@
+Để chia sẻ Phòng của bạn để người chơi Sims khác xem, hãy nhấp vào nút Chia sẻ Phòng lên Gallery.\n\nSau khi Phòng của bạn được chia sẻ, bạn có thể thêm và xóa bình luận, cũng như chia sẻ lô đất của bạn lên Facebook.
+Sử dụng Gallery để quản lý các Lô đất và Phòng đã lưu bằng cách chọn thẻ Thư viện của tôi, rồi nhấp vào các Lô đất và Phòng đã lưu của bạn.\n\nTừ đây, bạn có thể Chia sẻ và Hủy chia sẻ Phòng và Lô đất của mình, Xóa chúng khỏi Thư viện của tôi, hoặc Đưa Phòng hoặc Lô đất của bạn vào Chế độ Xây dựng để chơi một lần nữa!
+Các Phòng đã lưu có thể được tìm thấy trong trình đơn Gallery dưới thẻ Thư viện của tôi, cũng như trong bộ sưu tập Xây dựng Phòng và Tường bằng cách chọn sắp xếp Phòng đã lưu.
+Nhấp để mở trình đơn Lưu lên Gallery và chọn Lưu Phòng nếu bạn chỉ muốn lưu một phòng đơn lẻ, thay vì toàn bộ lô đất.\n\nLưu ý: Bạn sẽ cần chọn phòng bạn muốn lưu trước khi chọn tùy chọn này.
+Để chia sẻ lô đất của bạn để người chơi khác xem, hãy nhấp vào nút Chia sẻ Lô đất lên Gallery.\n\nSau khi lô đất của bạn được chia sẻ, bạn có thể thêm và xóa bình luận, cũng như chia sẻ lô đất của bạn lên Facebook.
+Mở trình đơn Lưu lên Gallery và chọn Lưu Lô đất để lưu lô đất của bạn vào Thư viện của tôi trong Gallery.\n\nThêm tên lô đất, mô tả và đặt số giường và phòng tắm cho lô đất của bạn, sau đó nhấp vào nút Lưu Lô đất vào Thư viện của tôi để thêm nó vào Gallery. Hành động này không chia sẻ để người khác xem.
+Lưu Lô đất và Lưu Phòng đều là những cách bạn có thể lưu các tạo phẩm của mình để sử dụng sau này hoặc tải lên Gallery để chia sẻ với người chơi khác.
+Nhấp để tìm hiểu thêm về Phòng được Trang trí.
+Công cụ Búa
+K
+Di chuyển máy quay
+Hoàn tác
+Ctrl + Z
+Xoay vật thể
+&lt;&gt;
+Công cụ Xây tường
+B
+Bật/tắt tường
+Home/End
+Thay đổi sàn
+PgUp/PgDn
+Bán vật thể
+Del
+Điều khiển thời gian
+Xoay máy quay
+Công cụ Thiết kế
+R
+Máng giàn với Nắp trang trí
+Nắp trang trí làm cho máng giàn này trông giống như một chiếc kệ nhỏ.
+Máng giàn Ngân sách
+Máng giàn này thêm điểm nhấn cho ngôi nhà khiêm tốn của bạn mà không vượt ngân sách.
+Máng giàn Gỗ Rustic
+Máng giàn gỗ với vẻ ngoài chưa hoàn thiện để phù hợp với nội thất rustic của bạn.
+Máng giàn Hình học
+Máng giàn trang trí với họa tiết hình học góc cạnh để thu hút tối đa.
+Máng giàn HBD Cổ điển
+Máng giàn này đơn giản và uy nghi như có một thời. Nó sạch sẽ và đẹp đến mức bạn có thể dùng nó trong nhà! Hỗ trợ mái nhà, thêm một số trang trí trần nhà, hoặc căn chỉnh với hàng rào để tạo hiệu ứng cao ráo.
+Không có Máng giàn
+Không có Máng giàn
+Sim này quan tâm đến Tán tỉnh với:
+Các Sim sẽ từ chối các Sim khác không đáp ứng sở thích WooHoo của họ.
+Sim thiếu niên sẽ từ chối các Sim thiếu niên khác không đáp ứng sở thích Tán tỉnh của họ.
+Các tác nhân ghen tuông của Sim này có thể thay đổi bằng cách nói về chúng với các Sim khác:
+Nếu "Có", Sim này sẵn sàng xem xét lại các Ranh giới Lãng mạn cá nhân về lãng mạn phi thể chất, lãng mạn thể chất, và {T0.Mess Around}{DAE0.WooHoo} nếu được Sim khác hỏi.\n\nNếu "Không", Sim này kiên định về Ranh giới Lãng mạn của họ và không thể được yêu cầu xem xét lại chúng.
+Sim này cảm thấy ghen nếu bất kỳ bạn tình lãng mạn nào tham gia vào lãng mạn phi thể chất với các Sim khác:
+Nếu "Có", Sim này <b>sẽ có phản ứng ghen</b> khi bạn tình lãng mạn tham gia vào các tương tác lãng mạn phi thể chất với các Sim khác.\n\nNếu "Không", họ có thể có phản ứng nhỏ hoặc không có phản ứng, tùy thuộc vào Đặc điểm Tính cách.
+Sim này cảm thấy ghen nếu bất kỳ bạn tình lãng mạn nào tham gia vào {T0.Mess Around}{DAE0.WooHoo} với các Sim khác:
+Nếu "Có", Sim này <b>sẽ có phản ứng ghen</b> khi bạn tình lãng mạn tham gia vào các tương tác {T0.Mess Around}{DAE0.WooHoo} với các Sim khác.\n\nNếu "Không", họ có thể có phản ứng nhỏ hoặc không có phản ứng, tùy thuộc vào Đặc điểm Tính cách.
+Sim này cảm thấy ghen nếu bất kỳ bạn tình lãng mạn nào tham gia vào lãng mạn thể chất <i>(trừ {T0.Mess Around}{DAE0.WooHoo})</i> với các Sim khác:
+Nếu "Có", Sim này <b>sẽ có phản ứng ghen</b> khi bạn tình lãng mạn tham gia vào các tương tác lãng mạn thể chất <i>(trừ {T0.Mess Around}{DAE0.WooHoo})</i> với các Sim khác.\n\nNếu "Không", họ có thể có phản ứng nhỏ hoặc không có phản ứng, tùy thuộc vào Đặc điểm Tính cách.
+Chi tiết thêm
+Có
+Không
+Sim này đang khám phá theo hướng lãng mạn:
+Chọn "không" sẽ khiến Sim này từ chối các Sim khác không đáp ứng kiểu hấp dẫn của họ.
+Nam
+Nữ
+Sim này bị hấp dẫn lãng mạn bởi:
+Sim này quan tâm đến WooHoo với:
+Không
+Có
+Sim này có thể sản xuất sữa không?
+Nam tính
+Nữ tính
+Sở thích Trang phục:
+Không cái nào
+Sim này sẽ có thể:
+Mang thai
+Có
+Không
+Sim này có thể đi vệ sinh đứng không?
+Nữ tính
+Nam tính
+Khung thể chất:
+Có
+Không
+Làm người khác mang thai
+Luumia
+Tại sao Nét mặt Buồn?
+Có thể ngược lại, nhưng nghiên cứu cho thấy kể buồn thực ra vui vẻ hơn. Đúng vậy. Mọi người thấy kể buồn đều muốn an ủi họ.
+Nét mặt Kể Vui vẻ
+Nhận được nụ cười lan truyền bạn luôn mơ ước. Nét mặt Kể Vui vẻ đảm bảo mang nụ cười đến gương mặt bạn.
+Mũ Hot Diggity Dog
+Đừng quên phần nóng nhất của bộ đồ Hot Diggity Dog! Chiếc mũ thời trang này hoàn thiện phong cách của bạn. Đệm thêm bảo vệ đầu, trong trường hợp ai đó cố gắng cắn nó.
+Mũ Grim Reaper
+Thật sự, bạn có muốn nhìn Death thẳng vào mặt không?
+Mũ Cappy the Clown
+Một kể không phải là kể nếu không có chiếc mũ vui tươi. Cắt để vừa ngay cả đầu lớn nhất, với ngăn bí mật để giấu những phụ kiện kể hoàn hảo, hoặc chỉ là một món ăn nhẹ thêm.
+Chiếc mũ Lớn của Sự xấu hổ
+Lựa chọn là của bạn: trông vui tươi trong chiếc sombrero khổng lồ này, hoặc hòa nhập với người khác. Bạn không thể làm cả hai với chiếc mũ này. Cái nào sẽ thắng, mong muốn gặp gỡ mọi người hay tình yêu thời trang sáng tạo?
+Mũ Fedora Phản ứng Cảm xúc Vui tươi
+FeralPoodles
+Tôi tiết kiệm tiền cho điều gì?
+Điều gì là cốt truyện hay nhất?
+Những câu chuyện hay nhất...
+Khi thể hiện bản thân nghệ thuật, tôi thích...
+Điều gì định nghĩa thành công?
+Tôi vượt qua cuộc sống như thế nào?
+Thức ăn ngon nhất là...
+Nhà là...

@@ -1,0 +1,100 @@
+{0.SimFirstName} có bàn tay nhỏ bé nhưng mạnh mẽ đã có thể nắm và giữ chặt lấy {2.ObjectName}! {0.SimPronounSubjective|xxUpper} đang nắm thật chặt; điều này khiến người ta tự hỏi liệu {0.SimPronounSubjective} có bao giờ buông tay ra không!
+Đã học cách Nắm
+Việc cho {0.SimFirstName} đồ chơi và sử dụng Thảm tập luyện sẽ củng cố bàn tay của {0.SimPronounPossessiveDependent} và cuối cùng cho phép {0.SimPronounObjective} tự mình nắm lấy đồ vật!
+{0.SimFirstName} đã phát ra âm thanh đầu tiên với {0.SimPronounPossessiveDependent} đôi bàn tay!
+Đã học cách Vỗ tay
+Con vật hoang dã này gần đây đã nhận được một món quà. Hãy thử lại vào ngày mai.
+Tức giận
+Không khả dụng do quyền riêng tư.
+Cột kiến trúc FitzHerbert
+Một cột kiến trúc gợi nhớ các cột trụ thang gác của kiến trúc cổ.
+Cột kiến trúc Annesley Square
+Một cột được thiết kế ngụ ý ảnh hưởng cổ điển mà không thực sự cam kết vào chúng.
+Cột kiến trúc Grosvenor
+Không có thứ gì là quá mức khi trang trí cột kiến trúc của bạn.
+Cột kiến trúc Soledad Square
+Một cột vuông vững chãi được tăng cường bởi các góc sắc nhọn và các đường thẳng nghiêm khắc.
+Cột kiến trúc Buenaventura
+Các mẫu hình hình học vuông giúp thêm sự thú vị cho một cột kiến trúc khá đơn giản khác.
+Cột Mega (Cơ bản)
+Chỉ vì bạn trang trí nhà theo phong cách nghệ thuật và thủ công đơn giản không có nghĩa là bạn không thể thêm một chút sang trọng vào nơi đó. Vài cột đá cẩm thạch sẽ khiến mọi người nói: "Ồ. Sự sang trọng này từ đâu ra?" Bạn cần phải lấy cho mình một số cột đá cẩm thạch!
+Cột Mega (Budget DeLite)
+Chúng tôi ngưỡng mộ việc sử dụng các đường thẳng trong thiết kế phong cách nhiệm vụ, và ai đó nói: "Này, bạn biết thứ gì thực sự thẳng không? Cột!" Vì vậy chúng tôi đã thiết kế một loạt các cột. Đây là phiên bản Budget DeLite dành cho những người sưu tập cột mới bắt đầu.
+Cột Mega (Deluxe)
+Bạn đã sẵn sàng bắt đầu sưu tập cột cùng với những người lớn chưa? Sẵn sàng bước vào bước tiếp theo chưa? Bạn sẽ KHÔNG BAO GIỜ tìm thấy một cột nào khác vừa thẳng vừa tròn như cái này. Chúng tôi biết vì chúng tôi đã yêu cầu robot thiết kế nó. Cột Mega Deluxe: bởi vì bạn thực sự đang nghiêm túc rồi.
+Cột tròn Capistrano
+Cột này vươn cao, không trang trí phụ thừa thãi, hình dạng tròn đơn giản của nó đủ để làm mắt sáng lên.
+Cột Tintoretto
+Cột vuông, nóc tròn, cảm hứng Ý.
+Cột Greco-Roman
+Một cột tròn với nóc vuông gợi nhớ kiến trúc cổ đại nhưng không có những chi tiết rườm rà.
+Cột Lục giác Thiết kế Calabria
+Một cột lục giác có đường khe với nóc rộng.
+Cột HBD Classic
+Không để bị lép vế bởi sự đơn giản cổ điển của phần còn lại trong bộ sưu tập, cột uy nghi này vươn cao ở bất kỳ chiều cao nào mà không khiến bạn cảm thấy như nó đang nhìn xuống bạn.
+Chiến thắng!
+Các tấm bảng thanh lịch và những ngón tay nhanh nhẹn. Đến để chơi cờ vua nhưng hãy sẵn sàng ở lại qua đêm.
+• Thảm Yoga
+• Máy tập thể dục
+• Bàn làm đồ gỗ
+• Tuyết trôi &amp; Tuyết dày
+• Cầu trượt nước
+• Xô bóng nước
+• Trạm trận Voidcritter
+• Đàn viôlông
+• Trạm video
+• Sách giáo trình Đại học
+• Trò chơi tiệc
+• Máy chạy bộ
+• Robot huấn luyện
+• Toilet
+• Nhà tập thể dục cho trẻ mới biết đi
+• Tivi
+• Kính viễn vọng
+• Bộ đồ trà
+• Máy pha trà
+• Bàn xăm
+• Máy tính bảng
+• Bộ đu xoay
+• Xe đạp đạp máy
+• Tạ tay
+Luyện tập
+Không Câu cá
+Câu cá
+Câu cá
+Các Sim sẽ câu cá tại:\n• Biển báo Câu cá
+Không Biểu diễn Hài kịch
+Biểu diễn Hài kịch
+Làm Hài kịch
+Các Sim sẽ biểu diễn hài kịch tại:
+Không Nấu ăn
+Nấu ăn
+Nấu ăn
+Các Sim sẽ nấu thức ăn với:
+Không Luyện tập Nói &amp; Kể chuyện
+Luyện tập Nói &amp; Kể chuyện
+Không Tham gia Hoạt động Nước Ngoài trời
+Tham gia Hoạt động Nước
+Các Sim sẽ sử dụng:\n• Biển báo Câu cá\n• Kayak\n• Bảng nhảy\n• Phương tiện trên nước\n• Hồ bơi\n• Nước mở
+Không Ngắm sao
+Ngắm sao
+Các Sim sẽ Ngắm sao ngoài trời.
+Không Tham gia Hoạt động Ngoài trời
+Hoạt động Ngoài trời
+Các Sim sẽ thực hiện nhiều hoạt động ngoài trời, sử dụng các vật thể như:\n• Xe đạp\n• Hồ bơi\n• Biển báo Câu cá\n• Bướm\n• Nước biển\n• Bảng nhảy\n• Ao
+Không Chạy bộ Ngoài trời
+Chạy bộ Ngoài trời
+Các Sim sẽ đi chạy bộ ngoài trời.
+Không Thư giãn ngoài trời
+Thư giãn ngoài trời
+Thư giãn ngoài trời
+Các Sim sẽ thư giãn ngoài trời một cách thong thả, khám phá và tìm thấy những việc để làm. Các Sim sẽ sử dụng các vật thể như\n• Hồ bơi\n• Biển báo Câu cá\n• Bướm\n• Cây trồng trong vườn\n• Lửa trại\n• Ao
+Không Lửa trại
+Lửa trại
+Các Sim sẽ sử dụng:\n• Lửa trại
+Không Đạp xe
+Đạp xe
+Các Sim sẽ sử dụng:\n• Xe đạp
+Không Xem TV
+Xem TV
+Xem TV

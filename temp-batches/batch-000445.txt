@@ -1,0 +1,100 @@
+Chào mừng quay trở lại, {0.String}!
+Chào mừng, {0.String}!
+{0.String}
+{0.String}  &lt;font color='#FF0000'&gt;{1.String}&lt;/font&gt;
+Chưa Sở Hữu
+Khởi Động Lại Để Sử Dụng
+Tải Về Để Sử Dụng
+Đã Sở Hữu
+Đang Cài Đặt
+Đang Tải Về
+Miễn Phí
+Xem
+Chưa Sở Hữu
+Dùng Thử Miễn Phí
+Một Số Đồ Bạn Có Thích
+{0.Number} giờ {1.Number} phút
+{0.Number} ngày {1.Number} giờ
+Đã Kết Thúc
+Bỏ Phiếu Ngay: {0.String}
+Bỏ Phiếu Ngay
+Thử Thách Mới: \n{0.String}
+Thử Thách Mới
+Sắp Kết Thúc:\n{0.String}
+Sắp Kết Thúc
+Tình Huống
+Bắt đầu trò chơi của bạn với một câu chuyện và kiếm phần thưởng!
+Ngôi Nhà Của Tôi
+CỬA HÀNG
+NHÀ
+GÓI PHẦN MỀM
+SỰ KIỆN
+Gói Đồ Dùng Phụ
+Giảm Giá
+Gói Đồ Dùng Phụ Đã Sở Hữu
+Bộ Đã Sở Hữu
+Gói Trò Chơi Đã Sở Hữu
+Bộ Mở Rộng Đã Sở Hữu
+Đã Sở Hữu
+Bộ
+Gói Trò Chơi
+Đồ Miễn Phí
+Bộ Mở Rộng
+Mua ngay để nhận nội dung bonus!
+Tất Cả Tình Huống
+Sims Delivery Express
+Tuyệt, Cảm Ơn!
+Tùy Chọn Trò Chơi
+Chào mừng đến với Sims Delivery Express - hệ thống rơi nội dung Base Game mới của chúng tôi!\n\nHệ thống này có thể cung cấp những đợt nội dung ngắn mà không yêu cầu Cập Nhật Trò Chơi, vì vậy mọi thứ sẽ được thực hiện trong nền. Bạn chỉ cần khởi động lại sau khi các bản tải xuống hoàn thành và tận hưởng!\n\nBạn có thể mong đợi những nội dung sau:&lt;ul type=&quot;circle&quot;&gt;&lt;li&gt;Nội dung mới cho Chế độ Xây dựng hoặc Tạo Sim&lt;/li&gt;&lt;li&gt;Các bản sửa lỗi nhỏ, những lỗi không cần Cập Nhật Trò Chơi để được gửi đi.&lt;/li&gt;&lt;/ul&gt;\nTrong tương lai, chúng tôi hy vọng có thể mở rộng danh sách này nhưng hiện tại chúng tôi hy vọng bạn tận hưởng mọi Sims Delivery sắp tới! Để tìm hiểu thêm, hãy kiểm tra cài đặt cho hệ thống này trong Trình Đơn Tùy Chọn Trò Chơi.
+{0.Number} giờ {1.Number} phút
+{0.Number} ngày {1.Number} giờ
+Thông báo này đã hết hạn.
+Cơ Hội Cuối Cùng
+&lt;span class=&quot;large&quot;&gt;{0.Number}%&lt;/span&gt;\n&lt;span class=&quot;small&quot;&gt;Giảm&lt;/span&gt;
+Xem Ngay
+-{0.Number}%
+&lt;span class='title'&gt;Tạo Gói&lt;/span&gt;\n&lt;span class='default'&gt;Kết hợp lựa chọn của bạn một Bộ Mở Rộng, Gói Trò Chơi và Gói Đồ Dùng Phụ để tiết kiệm tiền!&lt;/span&gt;
+Tự Tạo Gói Của Bạn
+Cảm ơn bạn đã chơi The Sims 4!
+Chọn ít nhất một Sim để tiếp tục.
+Chọn một Hộ Gia Đình và Các Sim để Ghé Thăm
+Bạn có chắc chắn muốn tiếp tục không?
+Chơi với hộ gia đình {0.String} sẽ hủy các Trọng Tạm Đang Diễn Ra cho (các) Sim sau:\n\n {1.String}
+Thú cưng không thể di chuyển nếu không có trẻ em, thanh thiếu niên, người lớn hoặc người cao tuổi đi cùng.
+Chọn Các Sim Để Ghé Thăm Cùng
+Tiếp Tục
+Chọn Một Hộ Gia Đình Để Chơi Tình Huống
+Quản Lý Các Hộ Gia Đình
+Hộ Gia Đình Của Bạn: {0.String} đã được nộp cho Thử Thách Spark'd!
+Lô Đất Của Bạn: {0.String} đã được nộp cho Thử Thách Spark'd!
+Ồ!
+Một hoặc nhiều mục của bạn được lưu qua The Sims 4 Gallery trên web hoặc di động đã không được lưu vào Thư Viện Cá Nhân vì chúng được tạo với phiên bản mới hơn. &lt;br&gt;&lt;br&gt;Khởi động lại trò chơi của bạn để kiểm tra cập nhật trò chơi.
+Bạn không thể thực hiện hành động này quá sớm. Hãy đợi một chút và thử lại sau.
+Lỗi máy chủ. Chúng tôi không thể xử lý yêu cầu Gallery này. Vui lòng thử lại sau.
+Tên Sim chứa từ không được phép. Vui lòng quay lại Tạo Sim và chỉnh sửa để giải quyết vấn đề.
+Đại từ Sim chứa từ không được phép. Vui lòng quay lại Tạo Sim và chỉnh sửa để giải quyết vấn đề.
+Nội dung chứa từ không được phép. Vui lòng chỉnh sửa để giải quyết vấn đề.
+Bình luận chứa từ không được phép.
+Tên giống chứa từ không được phép. Vui lòng quay lại Tạo Sim và chỉnh sửa để giải quyết vấn đề.
+Địa Điểm Bị Khóa
+Địa Điểm này bị khóa. Bạn không thể thay đổi Loại Địa Điểm trên Lô Đất này.
+Đang Lưu vào Thư Viện
+Không Xác Định
+Không có mô tả nào được cho
+Vui lòng nhập tên từ {0.Number} đến {1.Number} ký tự.
+Nhập tên tại đây...
+Gia đình {0.String}
+Nhập mô tả tại đây...
+Hủy nộp hộ gia đình này khỏi {0.String}
+Hủy nộp lô đất này khỏi {0.String}
+Xóa Phòng Khỏi Gallery
+Xóa Hình Xăm Khỏi Gallery
+Xóa Hộ Gia Đình Khỏi Gallery
+Xóa Lô Đất Khỏi Gallery
+Gỡ bỏ khỏi Mục Được Trưng Bày
+Bỏ Yêu Thích Phòng
+Bỏ Yêu Thích Hình Xăm
+Bỏ Yêu Thích Hộ Gia Đình
+Bỏ Yêu Thích Lô Đất
+Dịch vụ Twitter không khả dụng
+Chia Sẻ Phòng lên Twitter

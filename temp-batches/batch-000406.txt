@@ -1,0 +1,147 @@
+Tức giận!
+Một Sim nóng tính không thể giấu được cơn giận khi có một cuộc trò chuyện tồi tệ.
+
+Bí mật bị lộ!
+Nghe một bí mật "nóng" sẽ khiến bất kỳ Sim nào phấn khích.
+
+Đã nghiên cứu Violin
+Với kiến thức mới học được, bây giờ là lúc tốt nhất để chơi Violin!
+
+Đã nghiên cứu Piano
+Với kiến thức mới học được, bây giờ là lúc tốt nhất để chơi Piano!
+
+Đã nghiên cứu Guitar
+Với kiến thức mới học được, bây giờ là lúc tốt nhất để chơi Guitar!
+
+Đã nghiên cứu trồng trọt
+Với những kỹ thuật trồng trọt mới khám phá, thực hành sẽ chỉ giúp {0.SimFirstName} cải thiện {M0.his}{F0.her} kết quả!
+
+Kỹ thuật nấu ăn nâng cao
+Việc nghiên cứu các kỹ thuật nấu ăn trên internet thực sự đang mang lại kết quả.
+
+Ôi không! Đồ của tôi...
+{0.SimFirstName} thực sự buồn bã vì mất những món đồ quý. Trả tiền hóa đơn khó, nhưng hậu quả nếu không trả còn tệ hơn.
+
+Đừng có repossession tôi!
+Đúng vậy! Người thu hồi tài sản không thể chạm vào {0.SimFirstName}... hay (quan trọng hơn) đồ của {M0.him}{F0.her}!
+
+Bị thu hồi rồi
+{0.SimFirstName} có thể đã bắt đầu trận đánh, nhưng Người thu hồi tài sản đã kết thúc nó... và sau đó lấy luôn đồ của {M0.him}{F0.her}.
+
+Đang cố giữ bình tĩnh
+Chỉ đứng gần một người mà {0.SimFirstName} đang tức giận cũng có thể là nguồn gây căng thẳng. Cố giữ thái độ lịch sự thật không dễ!
+
+Cực kỳ phẫn nộ
+Làm sao Sim kia dám vui vẻ đến mức khiến người ta tức giận! Họ có biết {0.SimFirstName} vẫn còn giận họ không?
+
+Chính đáng phẫn nộ
+Cảm giác bị oan khuất đã cho {0.SimFirstName} sự tự tin vào tính chính đáng của {M0.his}{F0.her} những trách móc. {M0.He}{F0.She} đã sẵn sàng đổ trách nhiệm!
+
+Vẫn còn điên tiết
+Chỉ nhìn thấy một người cũng có thể khiến một Sim điên tiết! Cơn giận của {0.SimFirstName} bùng lên trở lại khi {M0.he}{F0.she} ở gần một Sim đã làm {M0.him}{F0.her} tổn thương.
+
+Người đặc biệt
+Niềm vui tràn ngập trong trái tim {0.SimFirstName} chỉ khi ở gần một Sim mà {M0.he}{F0.she} say mê.
+
+Cảm thấy say đắm
+Chỉ nhìn thấy một Sim cũng có thể khiến tim đập nhanh!
+
+Quá nhạy cảm với bản thân
+Khám phá thời gian cùng đội ngũ hoạt hình vui nhộn yêu thích của mọi người!
+Kênh hài hước này thật buồn cười!
+
+Làm rồi nhưng không thể quên được mùi hôi và cảm giác bẩn thỉu khi vô tình chạm phải rác.
+
+Đụng vào cái gì vậy?!
+Đồ chơi là tuyệt nhất, đặc biệt khi chúng thật tuyệt vời
+
+Đùa nghịch
+"Từ xe đạp, tàu hỏa đến trò chơi điện tử..."
+
+Thế giới bí mật
+Ôi...em...gì...đời... óc tớ vừa nổ tung vì một cú bùng nổ của trí tưởng tượng!
+
+Đồ chơi đáng sợ
+Ồ! Phản ứng của món đồ chơi đó hơi đáng sợ.
+
+Búp bê buồn bã
+Có những ngày, cảm giác như ngay cả bạn bè vô tri của bạn cũng quay lưng lại với bạn.
+
+Đồ chơi hài hước
+Đồ chơi nói chuyện thật buồn cười!
+
+Nó nói rồi! Hoan hô!
+Có vẻ bạn và đồ chơi của bạn sẽ là bạn bè mãi mãi!
+
+Búp bê nhàm chán
+Lần sau nói cái gì hay hơn, được chứ?
+
+Đồ chơi khủng khiếp!
+Ai đó cần dạy món đồ chơi đó biết thân. Có lẽ cho nó vào ngăn kéo tối tăm, ẩm ướt. Như vậy sẽ dạy nó một bài học.
+
+Đồ chơi xúc phạm
+Bạn không nghĩ một món đồ chơi vô tri, vô cảm lại có thể khiến bạn cảm thấy bị phán xét, nhưng nó đã ở đó.
+
+Ngứa không tha
+Cơn ngứa này đơn giản là không buông tha. Nó vô tội, không hối hận, không tha.
+
+Ngứa khó chịu
+Cảm giác nóng rát kinh khủng...
+
+Ngứa cực độ
+Đôi khi, cơn ngứa tệ đến mức việc lột da ra nghe có vẻ là giải pháp hợp lý.
+
+Sạch sẽ - Không dùng tablet khi ngồi bồn cầu (Ẩn)
+Nhà vệ sinh rẻ tiền làm bạn bị splash-back không mong muốn.
+
+Vừa khóc
+Đôi khi chẳng có gì bằng một trận khóc thật sự trong buồng vệ sinh để {0.SimFirstName} vượt qua ngày.
+
+Đã có bidet
+Cái bidet đó khiến {0.SimFirstName} cảm thấy sạch sẽ, tươi mới và bất ngờ hạnh phúc.
+
+Bạn cùng phòng tắm
+Thật ấm áp khi {0.SimFirstName} vừa trò chuyện một mình với Sim đang buồn bã mà {M0.he}{F0.she} tìm thấy trong buồng vệ sinh. {0.SimFirstName} như một nhà trị liệu phòng tắm vậy.
+
+Cầu trượt đáng sợ
+Quá nhanh, QUÁ NHANH! Cầu trượt đó đáng sợ!
+
+Cầu trượt vui vẻ!
+Ôi trời! Trượt xuống siêu nhanh!
+
+Chơi trong tuyết
+Chơi trong tuyết kích thích tính thơ trẻ của mọi người, đặc biệt là khi đánh nhau bằng tuyết!
+
+Vui chơi trong tuyết
+Bạn biết họ nói gì không, "Vui chơi trong tuyết còn hơn là không vui chơi!"
+
+Bị ném trúng mặt!
+Bị đánh trúng mặt đau đớn. Đừng quên nguyên tắc vàng, "Nếu bạn né được một cái vô, bạn có thể né được một cái..."
+
+Yêu nhau ngoài trời
+Hòa hợp và làm bẩn.
+
+Khói mù
+Lều khá dễ cháy - ở trong một chiếc lều đang cháy là không được khuyến nghị.
+
+Thao túng thành công
+Hàng xóm làm những trò khờ khạo? Đó mới là buồn cười.
+
+Không nên xem thứ đó
+Không không không. Đó là nơi sai để ngắm qua kính viễn vọng.
+
+Không có gì để xem
+Có một khỏi cỏ. Có một tảng đá. Có thêm một ít cỏ.
+
+Đó không hợp vệ sinh.
+Hòa mình với động vật
+Chẳng có gì như chơi với những con thú nhồi bông khổng lồ để làm cho ngày của bạn thêm vui!
+
+Bạn có một người bạn (khổng lồ)
+Đôi khi, tất cả những gì bạn cần là một cái ôm với thú nhồi bông để làm cho ngày của bạn sáng sủa hơn một chút.
+
+Quản lý nhiệt tốt
+Với cảm biến nhiệt trên bếp này, giữ thức ăn ở nhiệt độ phù hợp là một miếng bánh dễ ăn!
+
+Nhạc tuyệt vời
+Không có gì khiến một Sim phấn khích hơn là một vài bản nhạc tuyệt vời!

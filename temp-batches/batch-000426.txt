@@ -1,0 +1,100 @@
+&lt;b&gt;Chưa được trao:&lt;/b&gt;
+&lt;b&gt;Đang chờ:&lt;/b&gt;
+&lt;b&gt;Đang hoạt động:&lt;/b&gt;
+&lt;b&gt;Đã được trao:&lt;/b&gt;
+{0.SimFirstName}'s Scholarship Status
+{1.String}{2.String}{3.String}{4.String} 
+{0.SimFirstName} không có học bổng nào để báo cáo!
+Hiểu rõ Học bổng của bạn!
+(Chưa bắt đầu)
+&lt;span class=&quot;negative&quot;&gt;Trạng thái Đăng ký: Bị đình chỉ&lt;/span&gt;
+&lt;span class=&quot;negative&quot;&gt;Trạng thái Đăng ký: Đang trong thời gian thử thách&lt;/span&gt;
+(chưa có)
+Ngày Cuối Cùng của Lớp Học
+Sim này đã tốt nghiệp. Không còn học kỳ nào nữa.
+&lt;b&gt;{0.String}&lt;/b&gt;\n&lt;b&gt;Chương trình Cử nhân:&lt;/b&gt; {1.String} 
+&lt;b&gt;{0.String}&lt;/b&gt;\n&lt;b&gt;Chương trình Cử nhân:&lt;/b&gt; {1.String} \n&lt;b&gt;GPA:&lt;/b&gt; {2.String} \n&lt;b&gt;Số Tín Chỉ Đã Học:&lt;/b&gt; {3.Number} / {4.Number}\n&lt;b&gt;Ngày Học Kỳ Còn Lại:&lt;/b&gt; {5.String}
+Đã rút khỏi Đại học!
+{0.SimFirstName} đã rút khỏi {1.String} và sẽ không thể đăng ký lại trong hai ngày vì thủ tục rút học đang được xử lý.
+Bắt đầu Học kỳ
+Học kỳ đại học của {0.SimName} bắt đầu hôm nay và sẽ kéo dài trong 5 ngày làm việc! {M0.He}{F0.She} nên xem lịch lớp học của {M0.his}{F0.her} và lên kế hoạch cho việc làm bài tập và học bài, khi ăn, và - nếu còn thời gian - khi thư giãn và vui vẻ.
+Điểm
+Tên Môn Học
+Điểm Cuối Kỳ
+Bị đình chỉ!
+Smooth Fox Terrier
+Smooth Fox Terrier là một loài chó rất năng động, và do đó không được khuyên dùng cho người mới nuôi chó lần đầu. Vì giống chó này ban đầu được lai tạo để săn động vật nhỏ, chúng cũng có bản năng săn mồi cao, chúng là những chó rất thân thiện và không ngại người lạ.
+Pit Bull
+Pit bull được tạo ra bằng cách lai giữa Bulldog và Terrier để tạo ra một giống chó kết hợp tính kiên cường và sự nhanh nhẹn của Terrier với sức mạnh của Bulldog.
+Newfoundland
+Newfoundland có bàn chân có màng và lớp lông chống nước. Nổi tiếng với tính cách điềm tĩnh và dễ dạy cũng như sức mạnh. Chúng rất trung thành và là những con chó làm việc lý tưởng. Chính vì lý do này mà giống chó này được gọi là "người khổng lồ dịu dàng".
+Burmese
+Ban đầu, tất cả các chú mèo Burmese đều có màu nâu tối (sable), nhưng ngày nay chúng có nhiều màu sắc khác nhau; sự công nhận chính thức của những màu sắc này cũng khác nhau tùy theo tiêu chuẩn. Cả hai phiên bản của giống mèo này đều nổi tiếng với tính cách xã hội và vui vẻ độc nhất cũng như việc kêu to dai dẳng.
+Boxer
+Ban đầu, Boxer được lai tạo để làm chó bảo vệ cỡ trung. Ngày nay, mặc dù chúng là một phần của Nhóm Làm việc của AKC, chúng chủ yếu tìm được mái ấm như những người bạn gia đình yêu thương. Jill sẽ sửa sau.
+Pharaoh Hound
+Pharaoh Hound không có liên quan với Ai Cập cổ đại. Tuy nhiên, một truyền thuyết phổ biến cho rằng giống chó này là hậu duệ của Tesem, một trong những con chó săn cổ Ai Cập. Một số người tin rằng có sự tương đồng giữa giống chó này và hình ảnh chó được tìm thấy trên tường của các ngôi mộ Ai Cập cổ đại.
+Một loài mèo thuần hóa bắt nguồn từ nhiều/giống chưa biết, thường phát triển mà không có bất kỳ can thiệp, ghi chép hay sinh sản chọn lọc nào. Thường được gọi là Mèo Nhà hay Mèo Đực.&#xA;
+Japanese Bobtail
+Japanese Bobtail là một giống mèo nhà với cái đuôi "cắt ngắn" bất thường giống cái đuôi thỏ hơn là đuôi của các con mèo khác.
+Alaskan Malamute
+Alaskan Malamute vẫn được sử dụng làm chó kéo xe cho di chuyển cá nhân, vận chuyển hàng hóa, hoặc giúp di chuyển các vật thể nhẹ; một số, tuy nhiên, được sử dụng cho hoạt động giải trí là kéo xe, còn gọi là mushing, cũng như cho skijoring, bikejoring, carting và canicross.
+Havanese
+Havanese là một giống chó đồ chơi. Nó thông minh và có thể được huấn luyện dễ dàng. Tốt nhất nên huấn luyện con chó này khi còn nhỏ, vì một số thói quen sẽ ăn sâu khi chúng lớn lên.
+Chartreux
+Mèo Chartreux cũng nổi tiếng với "nụ cười" của chúng: do cấu trúc đầu và mõm dọc, chúng thường có vẻ như đang cười. Chartreux là những thợ săn xuất sắc và được nông dân đánh giá rất cao.
+Oriental Shorthair
+Orientals là xã hội, thông minh và nhiều con khá biết kêu. Chúng thường vui chơi cho đến khi trưởng thành, với nhiều con thích chơi thu về. Mặc dù có vẻ gầy guộc, chúng là vận động viên và có thể nhảy lên nơi cao.
+English Springer Spaniel
+Spaniel điển hình là thân thiện, muốn làm hài lòng, học nhanh và sẵn sàng tuân theo. Trong hoàn cảnh phù hợp, chúng có thể là một con chó gia đình trìu mến và dễ tính.
+Russian Blue
+Russian Blue là một giống mèo có màu sắc từ bạc sáng lấp lánh đến xám đá tối hơn. Chúng phát triển mối quan hệ gần gũi với chủ và được tìm kiếm làm thú cưng nhờ tính cách, vẻ đẹp và lớp lông.
+King Charles Spaniel
+Giống chó này rất trìu mến, vui vẻ, kiên nhẫn cực độ và muốn làm hài lòng. Do đó, những con chó của giống này tốt với trẻ em và các con chó khác. Cavaliers không ngại tiếp xúc xã hội với những con chó lớn hơn nhiều.
+Bengal
+Bengal là một giống mèo nhà được phát triển để trông giống như các loài mèo rừng nhiệt đới như báo, ocelot, margay và báo đốm. Mèo Bengal được phát triển bằng cách lai tạo chọn lọc giữa mèo nhà và lai giữa mèo nhà và mèo báo châu Á.
+Siberian Husky
+Những con Siberian Husky ban đầu được lai tạo bởi người Chukchi — văn hóa săn bắt hái lượt của họ phụ thuộc vào sự giúp đỡ của chúng. Đó là một giống chủ động, năng động, kiên cường, tổ tiên của chúng sống trong môi trường khắc nghiệt và lạnh giá của vùng Bắc Cực Siberia.
+American Wirehair
+American Wirehair tương tự như American Shorthair, ngoại trừ lớp lông mềm mại, xơ, bao gồm lông tai và râu. Lớp lông này tương tự với lớp lông xơ của một số giống chó, chẳng hạn như Terrier. Lông của chúng yêu cầu ít chải chuốt, mặc dù những con mèo màu sáng có thể cần kem chống nắng.
+British Shorthair
+British Shorthair là phiên bảng có hồ sơ của mèo nhà Anh truyền thống, với một cơ thể đặc trưng phì lơ, lớp lông dày và khuôn mặt rộng. Jill sẽ sửa sau văn bản này được lấy từ wikipedia.
+Shih Tzu
+Mặc dù tính cách của một con Shih Tzu thay đổi từ con này sang con khác, giống chó có tính cách và tính khí trung thành, yêu thương, hòa nhã và cảnh giác. Việc huấn luyện và xã hội hóa đúng cách phải bắt đầu từ khi còn nhỏ để con Shih Tzu tuân theo các lệnh cơ bản, vì Shih Tzu có xu hướng cứng đầu khi huấn luyện.
+Bernese Mountain Dog
+Bernese là những con chó ngoài trời ở trái tim, mặc dù đánh giá tốt trong nhà; chúng cần hoạt động và tập luyện, nhưng không có nhiều sức bền. Chúng có thể di chuyển với những đợt tăng tốc đáng kinh ngạc cho kích cỡ của mình khi có động lực.
+Samoyed
+Tính cách thân thiện của Samoyed khiến chúng trở thành những con chó bảo vệ kém; một con Samoyed hung hăng là hiếm. Giống chó được đặc trưng bởi vẻ mặt tỉnh táo và hạnh phúc đã mang lại cho nó biệt danh "Nụ cười Sammie" và "con chó cười".
+Akita
+Akita là một giống chó mạnh mẽ, độc lập và thống trị, thường xa lạ với người lạ nhưng yêu thương với các thành viên trong gia đình.
+Tuxedo
+Một con mèo hai màu hoặc mèo bạch tạng là một con mèo với lông trắng kết hợp với lông của một số màu khác, ví dụ như đen hoặc vằn.
+Shiba Inu
+Shiba là một giống chó tương đối sạch sẽ và cảm thấy cần phải duy trì bản thân trong tình trạng sạch sẽ. Chúng thường có thể được nhìn thấy liếm móng và chân, giống như một con mèo. Chúng nói chung làm mọi cách để giữ lông sạch sẽ.
+Schipperke
+Được biết đến với tính cách cứng đầu, nghịch ngợm và bướng bỉnh, nó cũng đuổi theo các động vật nhỏ. Schipperke đôi khi được gọi là "cáo đen nhỏ", "ác quỷ Tasmania đen" hoặc "ác quỷ đen nhỏ". Chúng vốn tò mò và là những con chó năng động cao và cần nhiều tập luyện và giám sát.
+Ocicat
+Ocicat thân thiện và xã hội và không thường rụt rè trước người lạ. Điều này làm cho chúng trở thành thú cưng gia đình tốt, và hầu hết cũng có thể hòa hợp tốt với động vật của các loài khác. Tính cách của chúng tương tự như của một con chó và thường được gọi là "một con chó trong cơ thể mèo".
+German Rex
+German Rex là một giống mèo cỡ trung với chân mảnh có độ dài trung bình. Nó được coi là một con mèo rất thân thiện và nhanh chóng gắn bó với chủ. Nó sống động, vui vẻ và thông minh.
+Rhodesian Ridgeback
+Rhodesian ridgebacks trung thành, thông minh và hơi xa lạ với người lạ. Giống chó này yêu cầu đào tạo tích cực, dựa trên phần thưởng, xã hội hóa tốt và sự nhất quán; nó thường không phải là lựa chọn tốt nhất cho chủ chó thiếu kinh nghiệm.
+Somali
+Somalis được công nhận với đuôi lông xù, mắt mandor lớn và đôi tai nhọn lớn, mang lại cho giống chó này biệt danh "Mèo Cáo." Lớp lông vằn của chúng, chứa từ bốn đến hai mươi màu trên mỗi sợi lông, rất mịn về kết cấu, làm cho lớp lông của chúng mềm hơn khi chạm vào.
+Irish Terrier
+Irish Terriers là những con chó hoạt động và cần và thích những thử thách tinh thần và thể chất nhất quán. Đầy sức sống, nhưng không quá hành động; chúng cần có thể thư giãn bên trong nhà và có thể đánh thức đến mức độ hoạt động tối đa nhanh chóng.
+American Eskimo
+American Eskimo là một con chó trìu mến, yêu thương. Giống chó này dễ huấn luyện và chúng tuyệt vời với trẻ em vì trí thông minh cao của chó và sự sẵn lòng làm hài lòng.
+Shetland Sheepdog
+Diện mạo tổng thể của Sheltie là của một con Rough Collie thu nhỏ. Chúng là một con chó làm việc nhỏ, lông đôi, nhanh nhẹn và vững chắc.
+French Bulldog
+French Bulldog, giống như nhiều giống chó bạn bè khác, yêu cầu tiếp xúc gần với con người. Chúng có nhu cầu tập luyện tương đối tối thiểu, nhưng vẫn cần ít nhất là những bước đi ngắn hàng ngày. French Bulldog đôi khi được gọi là "Chó Ếch" hoặc "Chó Hề".
+Yorkshire Terrier
+Tính cách hoặc "tính khí" lý tưởng của Yorkshire Terrier được mô tả với "dáng điệu rất thẳng" và "truyền tải vẻ quan trọng." Mặc dù nhỏ, Yorkshire Terrier là năng động, rất bảo vệ, tò mò và thích được chú ý.
+Savannah
+Một số Savannah được báo cáo là rất xã hội và thân thiện với người lạ và các con mèo và chó khác, trong khi những con khác có thể chạy trốn hoặc quay lại gầm gừ khi thấy người lạ. Việc tiếp xúc với người lạ và thú cưng có thể là yếu tố chính trong tính xã hội khi Savannah lớn lên.
+Turkish Angora
+Mèo Turkish Angora vui vẻ, thông minh, năng động và tham gia. Chúng gắn bó với con người, nhưng thường chọn một thành viên cụ thể của gia đình để trở thành người bạn đồng hành không rời của chúng. Chúng ngược lại, rất bảo vệ người của mình.
+Irish Wolfhound
+Irish wolfhounds có nhiều kiểu tính cách khác nhau và thường được nhớ đến với những điểm kỳ quặc cá nhân và chủ nghĩa cá nhân. Một con Irish wolfhound, tuy nhiên, hiếm khi vô trí, và mặc dù có kích cỡ lớn, hiếm khi được tìm thấy là phá hoại trong nhà hoặc ồn ào.
+Bluetick Coonhound

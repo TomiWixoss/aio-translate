@@ -1,0 +1,100 @@
+Ăn Nhanh Thử Nghiệm
+Lấy Đồ Uống Cho Trẻ Nhỏ
+Nấu Bữa Ăn Ngon
+Cảm Hứng giúp ích cho nấu nướng!
+Nấu Đồ Ăn Tốt
+Nấu Ăn
+Làm Công Thức Đặc Biệt
+Nguyên Liệu
+Nấu Ăn
+Cảm Hứng giúp ích cho nấu nướng!
+Nấu Đồ Ăn Vặt
+Thêm Đá
+Tủ Lạnh sẽ bảo quản thực phẩm ngay cả khi không có điện. Cho đến khi tan băng...\n\nMức Băng Hiện Tại trong Tủ Lạnh: {2.Number}%
+Quảng Cá trên Simstagram
+Viết Hoàn Tất!
+Chọn Công Việc
+Bộ Chọn Công Việc Tự Do (Debug)
+Gửi Đến Khách Hàng Phê Duyệt
+&quot;Phê Duyệt! Đây chính xác là thứ chúng tôi đang tìm kiếm. Giữ vững tinh thần {0.SimFirstName}.&quot;
+&lt;i&gt;&quot;Công việc này không đáp ứng tiêu chuẩn chất lượng của chúng tôi. Nó cần được chỉnh sửa trước khi bạn thử gửi lại.&quot;&lt;/i&gt;\n\n• Tranh có thể được chỉnh sửa trên Bảng Phác Thảo Số.\n\n• Sách có thể được chỉnh sửa trên máy tính.
+Khách hàng đã từ chối nội dung này. Nó phải được chỉnh sửa trước khi có thể được gửi đi phê duyệt lại.\n\n• Tranh có thể được chỉnh sửa trên Bảng Phác Thảo Số.\n• Sách có thể được chỉnh sửa trên máy tính.
+Không có PC nào gần đây.
+Chọn Công Ty Tự Do
+Kiểm Tra Công Việc
+Thay Đổi Nghề Nghiệp Tự Do
+Hủy Công Việc
+Hiện tại không có gì cần chỉnh sửa.
+Chỉnh Sửa Nội dung Bị Từ Chối
+Đặt tên để khách hàng biết gọi nó là gì.
+Đuổi {1.SimFirstName} Đi
+Chỉ Kết Hôn với {2.SimName}
+Xóa Tất Cả Hôn Nhân
+Ăn
+Rải Nước Sốt Ngon
+Thức Ăn Hoàn Hảo không thể bị hỏng!
+Được Mời Đến Bữa Ăn
+Làm Bừa Bãi
+Gọi Đến Lấy Đồ Uống
+(Từ Việc Ăn Cá)
+(Từ Việc Làm Người Ăn Chay Nhưng Ăn Thịt)
+Gọi Đến Bữa Ăn
+Phản Ứng Tích Cực Tập Luyện
+Phản Ứng Trung Lập Tập Luyện
+Câu Cá Cùng Với
+Có vẻ như con cá ở khu vực này quá tinh quái cho {0.SimFirstName}. Thử câu cá ở nơi khác cho đến khi {F0.she}{M0.he} có thêm kỹ năng hoặc thử dùng mồi câu có giá trị hơn!
+(Từ Việc Câu Cá)
+Không khả dụng khi thuyền đang di chuyển.
+Khả dụng khi ở trên ca nô.
+Không thể câu cá trong điều kiện lạnh giá cực độ.
+Đi Câu Cá Bất Hợp Pháp
+(Từ Việc Không Thích Câu Cá)
+(Từ Việc Thích Câu Cá)
+Do một Quy Định Môi Trường, câu cá là bất hợp pháp vào thời điểm này. Bị bắt có thể dẫn đến phạt nặng.
+Câu Mục Tiêu Lớn
+Câu cá khi tập trung làm tăng khả năng bắt được cá hiếm.
+Câu Mục Tiêu Lớn
+Đi Câu Cá
+Quan Sát Nước
+{0.SimFirstName} dường như không thể đọc được mấy con cá này. Có thể thử lại sau.
+Hiện tại chưa có gì mới. Quay lại sau.
+Quan Sát Nước Một Cách Suy Ngẫm
+Đi Câu Cá Mũi Tên
+Câu Cá Dùng Mồi
+Chọn mồi câu tốt nhất của bạn!
+Thử nghiệm với các loại mồi câu khác nhau và bắt được con cá lớn và đẹp hơn!
+Đặt {1.ObjectName} vào Hành Trang
+Thêm Cá
+Lắp Đặt
+Tự Sưởi Ấm
+Tiếp Tục Lắp Đặt Lưới Bảo Vệ Lửa
+Tiếp Tục Lắp Đặt Đèn Tự Động
+Làm Cho Bài tập về nhà Khả dụng
+Đặt Đèn Nhấp Nháy: Bật
+Đặt Đèn Nhấp Nháy: Tắt
+Sinh Trái Cây (Debug)
+DEBUG: Buộc Ngoại Lệ
+DEBUG: Buộc Lỗi
+DEBUG: Buộc Đoan Tuyệt
+Debug - Tạo Rác
+Debug - Tạo Vũng Nước
+Tạo Bạn Bè (Cheat)
+Làm Đói (Debug)
+Cho Tất Cả Đậu Ma Thuật (Debug)
+Thêm Đồ Vào Hành Trang Sim (Debug)
+Thêm Thực Phẩm Hư Vào Hành Trang Sim (Debug)
+Xây Tên Lửa (DEBUG)
+Phá Huỷ Đồ Vật (DEBUG)
+Đặt Tình Bạn Tối Thiểu
+Đặt Tình Bạn Tối Đa
+Đặt Mối Quan Hệ Gần Bạn
+Làm Bạn
+Thêm Buff Kết Quả Đặc Trưng Debug
+Thêm Buff Tương Tác Debug
+Thêm Buff Kết Quả Thất Bại Debug
+Buff này sẽ chỉ buộc Thất Bại nếu được điều chỉnh trong tương tác. Yêu cầu Thiết Kế của bạn kết nối nó nếu cần thiết cho việc kiểm tra. Theo mặc định nó sẽ thất bại bất kỳ tương tác Kết Quả Kép nào nhưng điều đó không còn được sử dụng thường xuyên.
+Phàn Nàn về Hoạt Động Vất Vả
+Bị Ép Chết Bởi Máy Bán Hàng
+Chết Vì Quá Nóng
+{0.SimName} đã sống một cuộc đời tốt đẹp, nhưng {M0.his}{F0.her} thời gian cuối cùng đã đến. {M0.He}{F0.She} đang chết vì quá nóng trong sauna.
+Già

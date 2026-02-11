@@ -1,0 +1,100 @@
+Previous Tab
+Khuynh hướng tình dục
+Ranh giới tình cảm
+Cài đặt giới tính tùy chỉnh
+Giới tính
+San bằng - Làm phẳng đất hoặc toàn bộ lô đất
+Giường
+Phòng tắm
+Lô đất đã đặt được tạo bằng cách sử dụng <b>"Move Objects"</b> cheat. Do đó, một số vật thể có thể nằm ở những vị trí mà Sim của bạn không thể tiếp cận.\n\nViệc sử dụng Move Objects vô hiệu hóa các quy tắc đặt vật thể trong Chế độ xây dựng - thậm chí cho phép các vật thể chồng lên nhau.\n\nHãy thử cheat này cho bản thân:<ol><li>Nhấn "ctrl + shift + c" để mở console cheat.</li><li>Gõ "bb.moveobjects" và nhấn enter.</li></ol>\nĐể tắt cheat Move Objects, mở console cheat và nhập "bb.moveobjects" lần nữa.
+{0.Number} {S0.item}{P0.items} đã di chuyển đến Household Inventory.
+Auto Sofas
+Household Inventory không khả dụng trong Chế độ xây dựng miễn phí
+Household Inventory
+Nội thất
+Auto Counters
+Đồ vật theo phòng
+Đồ vật theo chức năng
+Xây dựng
+Auto Bunk Beds
+%d vật thể Chế độ xây dựng đã được thay thế.
+%d vật thể Chế độ xây dựng đã bị loại bỏ.
+Một vật thể Chế độ xây dựng đã được thay thế.
+Một vật thể Chế độ xây dựng đã bị loại bỏ.
+Một hoặc nhiều vật thể có thể chưa được cài đặt trên máy tính của bạn hoặc Tài khoản EA đang đăng nhập không sở hữu các vật thể này.
+Phòng đã lưu
+Chọn một bộ màu:
+Mua cho:
+Phòng theo phong cách
+Tường và phòng trống
+Mua phòng
+Loại lô đất
+[N/A]
+Chỉnh sửa lịch trình mẫu
+Giá trị lô đất:
+{0.Number} ô
+{0.Number}x{1.Number}
+Kích thước lô đất: 
+Mở trình chỉnh sửa để tạo hoặc chỉnh sửa lịch trình của địa điểm tùy chỉnh này.
+Cấu hình lịch trình mẫu
+Khác
+Giấy dán tường
+Gạch ốp lát
+Vách ngoài
+Đá và đá
+Tấm panelling
+Sơn
+Xây gạch/ mộc
+{0.String} <font color='#5CACCC'>trong {1.String}</font>
+<font color='#5CACCC'>Tìm kiếm văn bản cho:</font> "{0.String}"
+Không tìm thấy kết quả.\n\rHãy thử tinh chỉnh tìm kiếm hoặc xóa bỏ bộ lọc.
+Tìm kiếm
+Trang trí tường
+Đèn tường
+Tranh & Poster
+Trò chơi điện tử
+Tủ đặt tivi
+Tivi
+Bồn tắm
+Đồ chơi
+Toilet
+Trẻ sơ sinh và trẻ nhỏ
+Đèn bàn
+Phòng học
+Máy hút khói bếp
+Bếp
+Sofa và ghế đôi
+Sofa
+Đồ dùng nhà bếp
+Bồn rửa
+Phòng shower
+Điêu khắc
+Thảm
+Trang trí mái nhà
+Tủ lạnh
+Giải trí
+Cây trong nhà
+Đồ chơi thú cưng
+Nội thất thú cưng
+Chăm sóc thú cưng
+Tiệc
+Trang trí nước
+Bàn ngoài trời
+Nội thất ngoài trời
+Đèn ngoài trời
+Nấu ăn ngoài trời
+Động vật
+Hoạt động ngoài trời
+Ngoài trời
+Bề mặt khác
+Kho chứa khác
+Ống dẫn khác
+Đèn chiếu sáng khác
+Trẻ em khác
+Hoạt động và kỹ năng khác
+Đồ điện tử khác
+Trang trí khác
+Tiện nghi khác
+Sự nghiệp & Khác
+Đồ dùng khác
+Phòng khác

@@ -1,0 +1,89 @@
+Là Trưởng Bộ Phận Rửa Bát, {0.SimFirstName} có thể chọn những chiếc đĩa nào {M0.he}{F0.she} muốn rửa. Những chiếc nồi và chảo khó cọ rửa không còn là vấn đề, trừ khi {0.SimFirstName} muốn chúng là vấn đề. Chỉ những chiếc đĩa đẹp nhất mới được đặt vào tay {0.SimFirstName}.
+Trưởng Bộ Phận Rửa Bát
+Đã đến lúc làm việc của một thiết bị gia đình thông thường! {0.SimFirstName} sẽ cọ rửa những chiếc đĩa, đảm bảo ly pha lê không còn dư vôi son, và bắt đầu cuộc trò chuyện với những Sim không thể trả tab của họ!
+Phụ Tá Rửa Bát
+Một số người có thể nói {0.SimFirstName} đã bán đứng để đạt được trạng thái chính thống, nhưng {0.SimFirstName} không thể nghe thấy họ. {M0.He}{F0.She} đang thư giãn trong văn phòng riêng của {M0.him}{F0.her}, ăn hors d’oeurves trước lò sưởi, và cân nhận hợp đồng mới nhất cho chương trình TV, sách nấu ăn, và dòng đồ dùng phục vụ.
+Đầu Bếp Nổi Tiếng
+Chúc mừng {0.SimFirstName}! {M0.He}{F0.She} bây giờ là chủ nhân của căn bếp. Chửi bới cấp dưới, đòi hỏi món ăn được nấu lại, hét lên với cấp dưới, quở trách cấp dưới -- tất cả đều có thể bây giờ!
+Đầu Bếp Điều Hành
+Thứ hai chỉ huy không tệ chút nào! Bây giờ {0.SimFirstName} có thể làm một số công việc THỰC SỰ mà không nhận được bất kỳ sự công nhận nào. Nhưng được rồi, với một chút thời gian và rất nhiều nỗ lực, {0.SimFirstName} sẽ là người điều hành mọi thứ ở đây!
+Phó Đầu Bếp
+Bánh ngọt là một thứ khó làm chủ. Chúng phải đủ ngon để biện minh cho calo, nhưng cũng phải đủ đẹp để thu hút mắt khách hàng. {0.SimFirstName} đang mở rộng sang nghệ thuật ẩm thực thực sự!
+Đầu Bếp Bánh Ngọt
+Thế giới của các bữa tiệc riêng tư bây giờ thuộc về {0.SimFirstName}! Quên những sự kiện nhỏ lẻ đi, bây giờ {M0.he}{F0.she} được thưởng thức các sự kiện doanh nghiệp với thời hạn ngắn, tiệc sinh nhật cho trẻ em có nhiều tiền hơn {M0.he}{F0.she} có, và những cô dâu cực kỳ khó tính!
+Trưởng Bộ Phận Catering
+Một số người có thể nói {0.SimFirstName} đã bán đứng để đạt được trạng thái chính thống, nhưng {0.SimFirstName} không thể nghe thấy họ. {M0.He}{F0.She} đang thư giãn trong văn phòng riêng của {M0.him}{F0.her}, nhấp một ly đồ uống tuyệt vời trước lò sưởi, và cân nhận hợp đồng mới nhất cho chương trình TV, sách nấu ăn, và dòng đồ thủy tinh.
+Pha Chế Viên Nổi Tiếng
+{0.SimFirstName} đã thực sự chứng minh {M0.himself}{F0.herself} khi nói đến việc pha chế những đồ uống tuyệt vời. Học sinh từ khắp nơi trên thế giới sẽ tụ tập bên cạnh {M0.his}{F0.her}, khao khát học từ The Great Drinkmaster! Sẽ có ma thuật. Ồ vâng.
+Sẽ có ma thuật.
+Bậc Thầy Đồ Uống
+Điều phối đơn hàng ở cấp độ doanh nghiệp không phải là dễ dàng, nhưng {0.SimFirstName} sẵn sàng trở thành CDO tiếp theo. Những đồ uống cao cấp của {M0.His}{F0.Her} bây giờ được sản xuất số lượng lớn và sau đó được vận chuyển đến các nhà hàng khác nhau.
+Điều Hành Trưởng Đồ Uống
+Một chuyên gia đồ uống ở mức độ gần như thần thánh, {0.SimFirstName} sẽ giúp khách hàng kết hợp đồ uống pha với nhiều bữa ăn và món tráng miệng. Họ có thể say sưa khi vị giác của họ bị quá tải bởi một cơn WooHoo ẩm thực của hương vị.
+Sếp Nước Ép
+Một bậc thầy trong việc đưa ra lời khuyên và một bậc thầy trong việc pha các đồ uống trái cây, {0.SimFirstName} bây giờ là Trưởng Bộ Phận Pha Chế! Có lẽ đã đến lúc bắt đầu tính phí trị liệu...
+Trưởng Bộ Phận Pha Chế
+Quyết tâm hạ bệ trật tự cũ, một đội ngũ hacker hàng đầu, ma, và quỷ lấy ý tưởng từ một nguồn duy nhất. {0.SimFirstName} đã trở thành người được chọn. Đạo quân của {M0.His}{F0.Her} gồm những thiếu niên bực bội và những người hướng nội bất mãn đã có ngón tay trên nút đỏ điều khiển mọi thứ.
+Đấng Tiên Tri
+{0.SimFirstName} đã thực sự nâng cấp {M0.his}{F0.her} trò chơi.{M0.He}{F0.She} tạo ra virus làm đổ các tập đoàn quốc tế và kích động nội chiến bằng cách phát tán tài liệu chính phủ nhạy cảm (được rồi, cái thứ hai có thể là tai nạn).
+Quỷ Mạng
+Bây giờ ẩn sau vô số bí danh, không ai thực sự biết {0.SimFirstName}. {M0.He}{F0.She} ngồi một mình, trong một văn phòng sang trọng, giám sát việc chuyển hướng quỹ ngoài khơi bởi một đội hacker ưu tú, trong khi vuốt ve một con mèo đen.
+Ma Ẩn Danh
+{0.SimFirstName} đã quản lý để kiếm được sự tôn trọng của những hacker khác, một nhóm không được đánh giá cao vì sự tôn trọng quá mức! Họ nhìn {M0.him}{F0.her} để lấy lời khuyên về cách vượt qua những biện pháp bảo mật khó khăn nhất trong khi che giấu dấu vết.
+Hacker Ưu Tú
+{0.SimFirstName} bây giờ có thể thực hiện tội phạm mạng từ sự thoải mái của nhà, qua email. &quot;Chú thân mến, cháu là vua quan trọng ở đất nước khác. Chú đã thừa kế. Vui lòng gửi mật khẩu tài khoản ngân hàng để nhận vương miện của cháu.&quot;
+Kẻ Trộm Số
+Muốn làm một thỏa thuận trong khu này? Bạn phải đi qua {0.SimFirstName}. {M0.He}{F0.She} đã làm {M0.his}{F0.her} đường lên để điều hành kế hoạch trên khu vực này, từ khu vườn thực vật ở kia, cho đến tận cửa hàng thực phẩm hữu cơ mới.
+Tội Phạm Nhỏ
+Đã đến lúc {0.SimFirstName} từ bỏ các tội nhẹ. {M0.he}{F0.she} là gì, một đứa bé? Đã đến lúc mặc chiếc quần lớn {M0.boy}{F0.girl} và thực hiện những tội lớn {M0.boy}{F0.girl}: tội nghiêm trọng. Có thể {M0.he'll}{F0.she'll} thậm chí lên kế hoạch một vụ cướp!
+Tu Sĩ Tội Phạm
+Chuyển sang quản lý không bao giờ dễ dàng. Băng nhóm của bạn có nhớ cướp ngân hàng trước khi nó đóng cửa không? Kẻ côn đồ có thể nghỉ ốm khi anh ta được lên lịch làm việc trong cuộc bạo động không? May mắn thay, {0.SimFirstName} biết cách dẫn dắt một nhóm tội phạm vào rắc rối, như một ông chủ thực sự.
+Thủ Lĩnh
+Những thanh kẹo đó trong túi bạn à? Bạn lấy chiếc túi phong cách bà già đáng yêu đó ở đâu? {0.SimFirstName} bây giờ phụ trách trang bị các ông chủ với đồ ăn vặt cho phòng thẩm vấn và quà sinh nhật cho mẹ vợ của họ, sử dụng chiết khấu năm ngón tay của {M0.his}{F0.her}.
+Kẻ Trộm Vặt
+Mỗi bậc thầy tội phạm cần một vệ sĩ cấp độ vào với vấn đề giận dữ bất hợp lý. {0.SimFirstName} sẽ tăng cường cửa vào và xông qua những con hẻm tối, giữ các đối thủ ở xa với ba từ nhỏ, &quot;Whaddayou lookin' at?&quot;
+Người Cứng Rắn {M0.Guy}{F0.Gal}
+Còn gì tốt hơn là trở thành Bộ Não của tổ chức? Là sếp của Bộ Não! Bây giờ đội ngũ của {0.SimFirstName} có thể làm tất cả công việc, trong khi {M0.he}{F0.she} tắm trong những tờ §1000. Ai quan tâm nếu đó là tiền bẩn khi có nhiều như vậy?
+Ông Chủ
+{0.SimFirstName} cuối cùng đã kiếm được {M0.his}{F0.her} tiến sĩ... từ CON ĐƯỜNG PHỐ. Là bộ não của tổ chức riêng của {M0.him}{F0.her}, {0.SimFirstName} sẽ lên kế hoạch cho những công việc lớn, thực hiện những vụ ăn lớn, và mang về những đồng Simoleon lớn.
+Bộ Não
+{0.SimFirstName} đã chứng minh {M0.his}{F0.her} sức mạnh và sự khéo léo. Bây giờ, những ông chủ lớn đã cho {0.SimPronounObjective} một ống nghe, một máy khoan, và bản đồ các ngân hàng mục tiêu. Cửa cuối cùng cũng mở ra cho {0.SimFirstName}. Theo đúng nghĩa đen.
+Được Tăng Lương
+{0.SimFirstName} đã được tăng lương với tư cách là {1.String} vì hiệu suất làm việc vượt trội!
+
+{M0.He}{F0.She} bây giờ sẽ kiếm thêm {6.Money} mỗi giờ, tổng cộng {5.Money} mỗi giờ.
+Phải có bằng tốt nghiệp Trung học hoặc tương đương trực tuyến để tham gia
+
+{0.SimFirstName} đã kiếm được một Ngày Nghỉ!
+{0.SimFirstName} đã kiếm được {4.Money} trong ngày nghỉ của {M0.him}{F0.her}.{5.String}
+Vắng Mặt
+Vắng Mặt
+Vắng Mặt
+Tang Chế
+{0.SimFirstName} đã kiếm được {4.Money} trong kỳ nghỉ của {M0.him}{F0.her}.
+<font color='#03ADEE'>Nghỉ Phép Gia Đình</font>
+<font color='#03ADEE'>Nghỉ Phép Gia Đình</font>
+{0.SimFirstName} đã kiếm được {4.Money} hôm nay.{5.String}
+Nghỉ Ốm
+{0.SimFirstName} kiếm được {4.Money} khi ở nhà &quot;ốm.&quot;{5.String}
+{0.SimFirstName} đang vắng mặt! Nếu {M0.he}{F0.she} vắng mặt quá nhiều ngày, hiệu suất công việc của {M0.him}{F0.her} sẽ bị ảnh hưởng!
+Sếp của {0.SimFirstName} hài lòng với công việc {M0.he}{F0.she} đã làm từ nhà, và {M0.he}{F0.she} kiếm được {4.Money}.
+Sếp của {0.SimFirstName} thất vọng với công việc {M0.he}{F0.she} đã làm từ nhà và {M0.he}{F0.she} kiếm được {4.Money}.
+Sếp của {0.SimFirstName} hài lòng với công việc {M0.he}{F0.she} đã làm từ nhà, và {M0.he}{F0.she} kiếm được {4.Money}.
+Sếp của {0.SimFirstName} thất vọng với công việc {M0.he}{F0.she} đã làm từ nhà và {M0.he}{F0.she} kiếm được {4.Money}.
+Sếp của {0.SimFirstName} thất vọng với công việc {M0.he}{F0.she} đã làm từ nhà và {M0.he}{F0.she} kiếm được {4.Money}.
+Công Ty The BuyMartShack, Inc.
+Giải Pháp Vườn Xanh Green Fist
+Quả là một ngày làm việc! {0.SimFirstName} đã về nhà và {M0.he}{F0.she} đã kiếm được {4.Money}. Bởi vì {M0.he}{F0.she} sống theo Lối Sống Năng Động, {M0.he}{F0.she} được tăng cường hiệu suất nhờ sự ưa thích hoạt động của {M0.him}{F0.her}.
+{0.SimFirstName} kiếm được {4.Money} nhưng thực hiện kém tại nơi làm việc hôm nay. Đó có lẽ là điều có thể mong đợi xét rằng {0.SimFirstName} quen sống theo Lối Sống Ít Hoạt Động nhưng trong một sự nghiệp năng động.
+{0.SimFirstName} mang về {4.Money} hôm nay. {M0.He}{F0.She} cũng đã làm một số công việc xuất sắc! Đó là một nhiệm vụ herculean xét rằng {M0.he}{F0.she} quen sống theo một Lối Sống Ít Hoạt Động nhưng trong một sự nghiệp năng động. {5.String} 
+{0.SimFirstName} kiếm được {4.Money} nhưng thực hiện kém tại nơi làm việc hôm nay, bất chấp sự ưa thích hoạt động của {M0.him}{F0.her} nhờ Lối Sống Năng Động. {5.String}
+{0.SimFirstName} mang về {4.Money} hôm nay. Bởi vì {M0.he}{F0.she} sống theo Lối Sống Năng Động, {M0.he}{F0.she} được tăng cường hiệu suất nhờ sự ưa thích hoạt động của {M0.him}{F0.her}. {M0.He}{F0.She} cũng đã làm một số công việc tuyệt vời! {5.String}
+{0.SimFirstName} kiếm được {4.Money} nhưng thực hiện tồi tệ tại nơi làm việc hôm nay, bất chấp sự ưa thích hoạt động của {M0.him}{F0.her} nhờ Lối Sống Năng Động. {5.String}
+Quả là một ngày làm việc! {0.SimFirstName} đã về nhà và {M0.he}{F0.she} đã kiếm được {4.Money}. Điều đó không tệ xét rằng {M0.he}{F0.she} quen sống theo Lối Sống Ít Hoạt Động nhưng đang trong một sự nghiệp năng động. {5.String} 
+{0.SimFirstName} mang về {4.Money} hôm nay. Bởi vì {M0.he}{F0.she} sống theo Lối Sống Năng Động, {M0.he}{F0.she} được tăng cường hiệu suất nhờ sự ưa thích hoạt động của {M0.him}{F0.her}. {M0.He}{F0.She} cũng đã làm một số công việc tuyệt vời! {5.String}
+{0.SimFirstName} kiếm được {4.Money} nhưng thực hiện tồi tệ tại nơi làm việc hôm nay. Có lẽ {0.SimFirstName} không thể mong đợi tốt hơn xét rằng {M0.he}{F0.she} quen sống theo lối sống ít hoạt động nhưng đang trong một sự nghiệp năng động! {5.String}
+(Từ Bị Đuổi Học)
+Bỏ Học
+Bị Đuổi!
+Tin xấu! {0.SimFirstName} đã b

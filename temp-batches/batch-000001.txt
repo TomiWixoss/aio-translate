@@ -1,0 +1,100 @@
+{0.String} Dùng thử
+Yêu cầu {0.String}
+Gói cần có:
+Chơi với bản dùng thử?
+Và khởi động lại để tắt nội dung dùng thử.
+Không, cảm ơn
+Có, bắt đầu lưu mới dùng thử
+Trong thời gian dùng thử, chúng tôi có thể tạo bản sao của &lt;b&gt;{0.String}&lt;/b&gt; để chơi với nội dung dùng thử trong ô lưu mới.
+Lấy các gói thiếu?
+Xem {S0.Pack}{P0.Packs}
+&lt;font color=&quot;#A12E31&quot;&gt;Chơi Lưu với Nội Dung Thiếu&lt;/font&gt;
+Bạn cần mua &lt;b&gt;{0.Number} {S0.pack}{P0.packs} yêu cầu&lt;/b&gt; cho tệp lưu này.\n\nHoặc, bạn có thể chơi lưu này bất kể. &lt;b&gt;Nội dung từ các gói không sở hữu sẽ bị xóa, có thể khiến lưu bị hỏng và không chơi được.&lt;/b&gt;\n\nBạn muốn làm gì?
+Nội Dung Chưa Tải
+&lt;font color=&quot;#A12E31&quot;&gt;Chơi Lưu với Nội Dung Thiếu&lt;/font&gt;
+Xác nhận các Gói của bạn trong menu Chọn Gói.
+Thêm Nội Dung Thiếu
+Lưu mới sẽ được đặt tên với 'Copy_'
+Chơi Lưu Sao Chép Mới
+Bạn có &lt;b&gt;{0.Number} {S0.Pack}{P0.Packs} yêu cầu&lt;/b&gt; chưa được tải.
+Nội Dung Thiếu!
+Xem {S0.Pack}{P0.Packs}
+&lt;font color=&quot;#A12E31&quot;&gt;Chơi Lưu với Nội Dung Thiếu&lt;/font&gt;
+&lt;b&gt;{0.Number} {S0.pack}{P0.packs} yêu cầu&lt;/b&gt; cần được tải/cài đặt cho lưu này.\nBạn sẽ cần cài đặt các gói này, sau đó khởi động lại The Sims™ 4.\n\nHoặc, bạn có thể chơi lưu này bất kể. &lt;b&gt;Nội dung từ các gói chưa tải sẽ bị xóa, có thể khiến lưu bị hỏng và không chơi được.&lt;/b&gt;\n\nBạn muốn làm gì?
+Khởi động lại để tải game?
+Khởi động lại ngay
+&lt;font color=&quot;#A12E31&quot;&gt;Chơi Lưu với Nội Dung Thiếu&lt;/font&gt;
+&lt;b&gt;{0.Number} {S0.pack}{P0.packs} yêu cầu&lt;/b&gt; cần được tải/cài đặt cho lưu này.\nBạn sẽ cần khởi động lại The Sims™ 4.\n\nHoặc, bạn có thể chơi lưu này bất kể. &lt;b&gt;Nội dung từ các gói chưa tải sẽ bị xóa, có thể khiến lưu bị hỏng và không chơi được.&lt;/b&gt;\n\nBạn muốn làm gì?
+Nội dung Sims Delivery chưa được cài đặt
+Có nội dung Sims Delivery đang được sử dụng trong tệp lưu này nhưng chưa được cài đặt và sẽ không thể sử dụng trong game.\n\nMột số vật thể sẽ bị xóa hoặc thay thế nếu tiếp tục với lưu game này mà không tải xuống và cài đặt nội dung này.\n\nBạn có muốn tiếp tục?
+Có, chơi ngay.
+Không cần.
+Thêm Lưu Mới
+Nhập tên cho lưu game mới:
+Xếp hạng phòng khám thú y của bạn cho thấy mức độ được yêu thích của phòng khám bởi khách hàng. Xếp hạng càng cao, càng nhiều khách hàng sẽ ghé thăm!\n\nNhấn vào nút Xem Tài Chính Gần Đây/Tóm Tắt Ca Làm để biết thêm chi tiết.
+Xếp hạng nhà hàng của bạn cho thấy mức độ khách hàng thích nhà hàng của bạn. Xếp hạng càng cao, càng nhiều khách hàng sẽ ghé thăm!\n\nNhấn vào nút 'Tóm Tắt Ca Làm/Tài Chính Gần Đây' để biết thêm chi tiết.
+Quay lại sau
+Cơ Hội Phát Triển
+Sự Xuất Sắc
+{0.SimFirstName} không thể đặt món này vì đã có đơn hàng đang chờ.
+Thay thế {0.String}
+Xóa Món
+Đặt Hàng
+Tùy Chỉnh {0.String}
+Chọn món cho {0.String}
+Đang chờ {0.String}
+Bạn có chắc muốn ghi đè thực đơn tùy chỉnh hiện tại của mình bằng preset này không?
+Chọn Sim để đặt món này
+{0.String}: {1.Money}
+Không có đơn hàng mới để đặt.
+Không có thay đổi nào được thực hiện.
+Thực đơn cho {0.String}
+Để tùy chỉnh, chọn Chỉnh Sửa Thực Đơn Tùy Chỉnh
+Chọn tối đa một món ăn và một đồ uống cho mỗi Sim
+Thêm món để tùy chỉnh thực đơn
+Chọn một món ăn để đặt
+Tải Preset
+Món ăn độ khó cao có lợi nhuận cao hơn và sẽ tăng xếp hạng nhà hàng nếu nấu tốt, nhưng đòi hỏi đầu bếp lành nghề!
+Số Dư Có Sẵn:
+{0.String} và {1.String}
+Độ Khó: {0.Number}/5
+Xóa Thực Đơn
+Bạn có chắc muốn xóa các lựa chọn thực đơn của mình và bắt đầu lại từ đầu không?
+Trẻ em không thể đặt món này.
+Lựa Chọn Đầu Bếp
+Bạn không thể xóa đơn hàng đang được xử lý.
+Bạn không thể đặt đơn hàng này vì hộ gia đình không có đủ tiền để chi trả.
+Tổng Hóa Đơn:
+&lt;span class = 'cannotAfford'&gt;{0.Money}&lt;/span&gt;
+&lt;span class = 'canAfford'&gt;{0.Money}&lt;/span&gt;
+Thêm vào thực đơn
+{0.String} ({1.String})
+Nhập số điện thoại để tiếp tục
+Số điện thoại phải có ít nhất {0.Number} ký tự!
+Số Điện Thoại Di Động:
+Số Điện Thoại Di Động
+Quốc Gia:
+Số Điện Thoại Không Hợp Lệ
+Vui lòng nhập số điện thoại hợp lệ. Mã lỗi: {0.Number}
+Đã Xảy Ra Lỗi!
+Vui lòng thử lại sau! Mã Lỗi: {0.Number}
+Đã Xảy Ra Lỗi!
+Vui lòng thử lại! Mã Lỗi: {0.Number}
+Cần Kết Nối
+Vui lòng thử lại! Mã lỗi: {0.Number}
+Zimbabwe
+Zambia
+Yemen
+Đảo Christmas
+Tây Sahara
+Wallis và Futuna
+Việt Nam
+Quần Đảo Virgin (Mỹ)
+Venezuela [Cộng hòa Bolivar]
+Vanuatu
+Uzbekistan
+Các Đảo Nhỏ Xa Bờ của Hoa Kỳ
+Hoa Kỳ
+Uruguay
+Ukraine
+Vương quốc Anh và Bắc Ireland

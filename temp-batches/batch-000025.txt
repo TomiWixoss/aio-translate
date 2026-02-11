@@ -1,0 +1,293 @@
+Vậy là người dùng muốn dịch một loạt các thuật ngữ và đoạn văn từ The Sims 4 sang tiếng Việt, nhưng có một số yêu cầu rất cụ thể. Trước tiên, mình cần lưu ý những gì họ nói: KHÔNG dịch "The Sims 4", "Sims", "Sim", "Social Bunny", "EA app", "Gallery". Giữ nguyên thẻ HTML, biến {0.String}, ký tự đặc biệt. Và phải trả về đúng số dòng.
+
+Mình xem qua danh sách từ và đoạn văn. Có nhiều thuật ngữ như "Sink", "Barstool" – đây là tên đồ nội thất trong game, nên dịch sang tiếng Việt nhưng giữ nguyên ý nghĩa. Các câu quảng cáo như "A good night is on the horizon!" cần dịch sao cho tự nhiên trong tiếng Việt. Có cả những phần mô tả đặc điểm của lot, ví dụ về Vampire Lir hay các bonus như "Skills increase at double the standard rate". Phần này cần dịch chính xác nhưng vẫn dễ hiểu.
+
+Mình cũng thấy có các đoạn hướng dẫn về giao diện game, như World Select, Inventory, Cell Phone. Các đoạn này có nhiều thẻ HTML và thuộc tính màu sắc. Phải giữ nguyên tất cả các thẻ <b>, <font color='#199C2C'> và các biến {0.String} nếu có. Trong danh sách này không thấy biến {0.String} nhưng cần đề phòng nếu có.
+
+Kiểm tra kỹ xem có ký tự đặc biệt nào cần giữ nguyên không. Có vẻ các dấu hai chấm, dấu chấm than, dấu gạch ngang đều bình thường. Các từ như "&amp;" trong "Neighbors &amp; Households" cần giữ nguyên vì đó là mã HTML cho "&". Vậy khi dịch, mình phải giữ nguyên "&amp;" chứ không chuyển thành "và" trong phần nội dung HTML đó.
+
+Về số dòng: người dùng yêu cầu trả về đúng số dòng. Tức là mỗi dòng trong input phải tương ứng với một dòng trong output. Không được gộp hay tách dòng. Có một số đoạn có dấu \n\n để phân đoạn, cần giữ nguyên cấu trúc đó.
+
+Bắt đầu dịch từng phần:
+
+1. Các từ đơn: Sink -> Bồn rửa, Barstool -> Ghế bar, Dining Chair -> Ghế ăn, Bar -> Quầy bar, Waste Disposal -> Bỏ rác (có thể là thiết bị xử lý rác, nhưng trong game thường là bỏ rác tự động). "A good night is on the horizon! Join us at the bar." -> "Một đêm tuyệt vời đang chờ đón! Hãy gia nhập chúng tôi tại quầy bar." Giữ cảm xúc hưng phấn.
+
+2. Arts Center -> Trung tâm nghệ thuật, Acting Studio -> Studio diễn, Community Board -> Bảng cộng đồng, Business Sign -> Biển quảng cáo, Ticket Kiosk -> Quầy vé. "Registered Vampire Lair" -> "Hang ổ Ma cà rồng đã đăng ký". Phần mô tả: "The lot registers as a vampire lair..." dịch sao cho rõ ràng: "Lô đất này được đăng ký là hang ổ ma cà rồng. Đội hình sẽ gửi các món quà khác nhau thỉnh thoảng. Qua thư, không ít. Ngay cả bất tử cũng sử dụng dịch vụ thư công cộng. Chỉ có sẵn trên nhà ở."
+
+3. Wild Prairie Grass: "Cỏ nguyên sinh hoang dã" hoặc "Cỏ nguyên sinh đồng cỏ". "Day after day, wild Prairie Grass will pop up and spread." -> "Ngày qua ngày, cỏ nguyên sinh hoang dã sẽ mọc lên và lan rộng." Phần cuối: "Available with Horse Ranch." -> "Có sẵn với Horse Ranch." (giữ nguyên tên pack nếu cần, nhưng ở đây có lẽ dịch là "Bộ mở rộng Horse Ranch" nhưng để nguyên "Horse Ranch" vì đây là tên pack? Trong game, Horse Ranch là tên của một Expansion Pack. Người dùng chưa nói không dịch tên pack, nên có thể dịch. Tuy nhiên, trong nhiều bản dịch, tên pack thường giữ nguyên. Nhưng "Horse Ranch" không nằm trong danh sách không dịch. Vậy dịch thành "Trang trại ngựa" hoặc giữ nguyên? Để an toàn, mình giữ nguyên "Horse Ranch" vì đó có thể là tên chính thức. Tuy nhiên, trong câu "Available with Horse Ranch." có thể dịch là "Có sẵn với Horse Ranch." hoặc "Có trong bộ mở rộng Horse Ranch." Mình sẽ dịch: "Có sẵn khi có Horse Ranch." để ngắn gọn.
+
+4. Các lot đặc biệt: Vampire Nexus, Reduce and Recycle, Lighten The Load, v.v. Cần dịch sáng tạo nhưng đúng ý. Ví dụ: "Reduce and Recycle" -> "Giảm và Tái chế", "Lighten The Load" -> "Giảm Tải", "You Got The Touch" -> "Bạn Có Được Sờ Soạn" (có lẽ là tên skill). "Let It Grow" -> "Để Nó Mọc", "Let’s All Get Along" -> "Hãy Sống Hòa Thuận", "Feelin’ Fine All The Time" -> "Cảm Thấy Tốt Suốt Thời Gian", "Cozy Comforts" -> "Thoải Mái Ấm Áp".
+
+5. Teen Neighborhood: "Khu phố Thiếu niên", "Study Spot": "Điểm Học Tập", "University Student Hang Out": "Nơi Học Sinh Đại Học Thích Ngồi", "Peace and Quiet": "Bình Yên và Tĩnh Lặng", "On Hallowed Grounds": "Trên Đất Thánh", "On a Dark Ley Line": "Trên Mặt Trăng Bóng Tối", "Off-the-Grid": "Ngoài Lưới Điện", "Oceanic Paradise": "Thiên Đường Đại Dương", "Maintenance Troubles": "Rắc Rối Bảo Trì", "Mold": "Nấm mốc".
+
+6. Các hành động: "Open Build Mode" -> "Mở Chế độ Xây dựng", "Adopt a Dog" -> "Nhận nuôi Chó", "Take Photo" -> "Chụp Ảnh", "Place your Stuffed Animal" -> "Đặt Gấu Bông", "Go to School" -> "Đi Học", "Adopt a Cat" -> "Nhận nuôi Mèo", "Open Inventory" -> "Mở Túi đồ", "Check Your Inventory" -> "Kiểm tra Túi đồ", "Handiness Skill" -> "Kỹ năng Tháo lắp".
+
+7. Phần mô tả Handiness Skill: dịch cẩn thận, giữ thuật ngữ. "Broken objects can be repaired..." -> "Đồ đứng có thể được sửa chữa...". "Upgrade parts" -> "Bộ phận nâng cấp".
+
+8. Các mục menu: "Neighbors & Households" -> "Hàng xóm & Gia đình", "Neighborhood Stories" -> "Câu chuyện Khu phố", "Travel & Moving" -> "Du lịch & Di chuyển", "Time" -> "Thời gian", "Skills" -> "Kỹ năng", "Relationships & Socializing" -> "Mối quan hệ & Giao xã hội", "Personality" -> "Tính cách", "Needs" -> "Nhu cầu", "Money & Work" -> "Tiền bạc & Công việc", "Living & Dying" -> "Sống & Chết", "Family" -> "Gia đình", "Emotions" -> "Cảm xúc", "Aspirations & Wants" -> "Kỳ vọng & Mong ước", "Get Together" -> "Tụ họp", "World Select" -> "Chọn Thế giới".
+
+9. Phần hướng dẫn World Select: có nhiều thẻ HTML và màu sắc. Cần giữ nguyên cấu trúc. Ví dụ: "In the World Select screen you can see all the &lt;b&gt;&lt;font color='#199C2C'&gt;Worlds&lt;/font&gt;&lt;/b&gt;..." -> "Trong màn hình Chọn Thế giới, bạn có thể thấy tất cả các &lt;b&gt;&lt;font color='#199C2C'&gt;Thế giới&lt;/font&gt;&lt;/b&gt; trong game, di chuột qua từng cái để &lt;b&gt;&lt;font color='#199C2C'&gt;tìm hiểu thêm&lt;/font&gt;&lt;/b&gt; về Thế giới, và &lt;b&gt;&lt;font color='#199C2C'&gt;thay đổi&lt;/font&gt;&lt;/b&gt; Thế giới. Thay đổi Thế giới sẽ mở Bản đồ của Thế giới đó.\n\nỞ góc trên bên trái, bạn có thể chuyển giữa &lt;b&gt;&lt;font color='#199C2C'&gt;Nhà ở&lt;/font&gt;&lt;/b&gt; và &lt;b&gt;&lt;font color='#199C2C'&gt;Điểm đến&lt;/font&gt;&lt;/b&gt; Thế giới (nếu bạn có bất kỳ Thế giới Điểm đến nào). Thế giới Điểm đến là Thế giới nơi bạn không thể sống vĩnh viễn, nhưng bạn có thể thăm khi đi Nghỉ.\n\nThêm nhiều Thế giới, cả loại Nhà ở và Điểm đến, có thể được mở khóa khi bạn có các Bộ mở rộng và Gói game mới."
+
+10. World Map: tương tự, giữ nguyên HTML. "The World Map shows the currently selected &lt;b&gt;&lt;font color='#199C2C'&gt;World&lt;/font&gt;&lt;/b&gt;..." -> "Bản đồ Thế giới hiển thị &lt;b&gt;&lt;font color='#199C2C'&gt;Thế giới&lt;/font&gt;&lt;/b&gt; hiện đang được chọn, nhưng còn nhiều Thế giới khác để chọn! Sử dụng nút &lt;b&gt;&lt;font color='#199C2C'&gt;Chọn Thế giới&lt;/font&gt;&lt;/b&gt; để xem tất cả các Thế giới có sẵn."
+
+11. Phần Inventory: "You can select multiple things..." -> "Bạn có thể chọn nhiều thứ trong Túi đồ của Sim. Chọn nút Chọn nhiều để bật nó. Bạn sẽ biết khi Chọn nhiều được bật khi nền của túi đồ chuyển thành màu xanh lá. Giờ bạn có thể chọn nhiều vật phẩm trong Túi đồ. Một khi tất cả đã được chọn, bạn có thể sử dụng các nút ở dưới để đánh dấu tất cả vật phẩm là Yêu thích, hoặc Bán tất cả vật phẩm. Lưu ý rằng bạn không thể sử dụng chức năng kéo từ Túi đồ khi Chọn nhiều được Bật."
+
+12. Cell Phone: dịch các tên app: Travel -> Du lịch, Entertainment -> Giải trí, Home -> Nhà, Business -> Kinh doanh, Social -> Xã hội, Camera -> Máy ảnh. Giữ nguyên các thẻ <b> và <font color>. Ví dụ: "The &lt;b&gt;&lt;font color='#199C2C'&gt;Travel&lt;/font&gt;&lt;/b&gt; app has options..." -> "Ứng dụng &lt;b&gt;&lt;font color='#199C2C'&gt;Du lịch&lt;/font&gt;&lt;/b&gt; có các tùy chọn..."
+
+Mình cần đảm bảo không dịch những từ đã được liệt kê. Trong danh sách này không có từ nào cần giữ nguyên ngoài các từ đã nói, nhưng có "Sims" trong một số chỗ. Ví dụ: "Sims in the Focused Emotion" -> "Các Sim trong trạng thái Tập trung". Ở đây "Sims" không phải là từ cần giữ nguyên theo yêu cầu? Yêu cầu nói KHÔNG dịch "Sims", nhưng trong ngữ cảnh này, "Sims" là danh từ chỉ nhân vật, nên có lẽ nên giữ nguyên "Sims" thay vì dịch là "Người". Tuy nhiên, trong bản dịch tiếng Việt thông thường, "Sims" thường được giữ nguyên hoặc dịch là "Nhân vật". Nhưng người dùng nói rõ KHÔNG dịch "Sims", nên mình phải giữ nguyên chữ "Sims". Có nghĩa là trong câu "Sims in the Focused Emotion" mình giữ "Sims" nguyên, chỉ dịch phần còn lại: "Sims trong trạng thái Tập trung". Tương tự cho các câu khác.
+
+Kiểm tra lại yêu cầu: "KHÔNG dịch: 'The Sims 4', 'Sims', 'Sim', 'Social Bunny', 'EA app', 'Gallery'." Vậy là từ "Sims" (dạng số nhiều) và "Sim" (số ít) đều không dịch. Trong tiếng Việt, đôi khi người ta dùng "Sim" để chỉ một nhân vật. Vậy mình sẽ giữ nguyên "Sims" và "Sim" trong bản dịch. Ví dụ: "Sims can interact with items" -> "Sims có thể tương tác với vật phẩm". Hoặc "Your Sim's Cell Phone" -> "Điện thoại của Sim bạn".
+
+Như vậy, cần lưu ý: mọi lời nhắc đến nhân vật game, dù số nhiều hay số ít, đều giữ nguyên "Sims" và "Sim". Chỉ dịch các từ khác.
+
+Trong phần mô tả Handiness: "Broken objects can be repaired with a little time and effort. While repairing, Sims improve their Handiness Skill." -> "Đồ đứng có thể được sửa chữa với một chút thời gian và công sức. Trong khi sửa, Sims cải thiện Kỹ năng Tháo lắp." Giữ nguyên "Sims".
+
+Tiếp theo, các câu có biến {0.String}? Trong input không thấy, nhưng nếu có thì giữ nguyên. Cũng giữ nguyên ký tự đặc biệt như dấu chấm than, dấu hai chấm.
+
+Về số dòng: input có nhiều dòng, mỗi dòng là một mục hoặc một đoạn. Mình cần đảm bảo output có cùng số dòng. Có một số đoạn có dấu \n\n, đó là một dòng nhưng có ngắt đoạn. Trong file text, mỗi dòng được ngăn cách bằng newline. Vậy khi dịch, mình phải giữ nguyên số dòng, tức là mỗi dòng input tương ứng một dòng output, kể cả dấu \n\n cũng là một dòng trống? Thực tế, trong đoạn input, có các dòng trống do \n\n. Mình sẽ giữ nguyên cấu trúc: nếu input có hai dòng trống liên tiếp (tức là một dòng rỗng, rồi dòng tiếp theo là nội dung), thì output cũng giữ nguyên. Nhưng trong input, các mới được liệt kê trên nhiều dòng, có dấu \n\n giữa các đoạn. Vậy mình sẽ dịch từng dòng, và nếu dòng đó trống thì giữ nguyên trống? Không, trong input, các dòng trống là do \n\n tạo ra, nhưng thực tế mỗi dòng trong danh sách là một mục. Có lẽ người dùng muốn mỗi dòng trong output tương ứng với mỗi dòng trong input, kể cả dòng trống nếu có. Tuy nhiên, trong input, sau "Waste Disposal" có dòng "A good night is on the horizon!..." đó là một dòng mới. Vậy mình sẽ xem mỗi dòng text là một dòng riêng biệt, dịch và xuống dòng.
+
+Quan sát: input có dạng:
+Sink
+Barstool
+Dining Chair
+Bar
+Waste Disposal
+A good night is on the horizon! Join us at the bar.
+The bar is a perfect place for a get together.
+You should meet us at the bar, we want to go out tonight. 
+Arts Center
+...
+
+Như vậy, mỗi từ hoặc câu là một dòng. Vậy khi dịch, mỗi dòng output phải là bản dịch của dòng input tương ứng, giữ nguyên thứ tự và số dòng.
+
+Vậy cần lập bảng: dòng 1: Sink -> Bồn rửa; dòng 2: Barstool -> Ghế bar; dòng 3: Dining Chair -> Ghế ăn; dòng 4: Bar -> Quầy bar; dòng 5: Waste Disposal -> Bỏ rác; dòng 6: A good night... -> Một đêm tuyệt vời...; dòng 7: The bar is... -> Quầy bar là nơi hoàn hảo...; dòng 8: You should meet... -> Bạn nên gặp chúng tôi...; dòng 9: Arts Center -> Trung tâm nghệ thuật; v.v.
+
+Các đoạn có \n\n trong nội dung: ví dụ ở Wild Prairie Grass: "Day after day...\n\nAvailable with Horse Ranch." Trong input, đây là một dòng duy nhất có chứa \n\n? Thực tế, trong đoạn văn, có thể được viết thành hai dòng do \n\n. Trong input, mình thấy:
+
+Wild Prairie Grass
+Day after day, wild Prairie Grass will pop up and spread. Are the seeds of this Hay-yielding plant carried by the wind? Gnomes? Both? Nobody knows!\n\nAvailable with Horse Ranch.
+
+Vậy "Day after day..." và "Available with..." là cùng một dòng? Không, trong text, sau dấu chấm than có \n\n rồi "Available...". Điều này có nghĩa là trong cùng một dòng, có hai đoạn được phân cách bởi \n\n. Khi dịch, mình cần giữ nguyên \n\n đó. Tức là trong output, dòng đó sẽ chứa cả hai đoạn, có dấu \n\n giữa.
+
+Tương tự cho các đoạn khác có \n\n.
+
+Vậy cần xử lý: khi dịch một dòng, nếu trong đó có \n\n, thì giữ nguyên vị trí \n\n, và dịch hai phần riêng biệt.
+
+Ví dụ: "Day after day, wild Prairie Grass will pop up and spread. Are the seeds of this Hay-yielding plant carried by the wind? Gnomes? Both? Nobody knows!\n\nAvailable with Horse Ranch."
+
+Dịch: "Ngày qua ngày, cỏ nguyên sinh hoang dã sẽ mọc lên và lan rộng. Hạt giống của loại cỏ Sản xuất Cỏ khô này có được gió mang đi? Con gnome? Cả hai? Không ai biết!\n\nCó sẵn với Horse Ranch."
+
+Vậy giữ nguyên \n\n.
+
+Tương tự cho "Reduce and Recycle" có \n\n: "This lot generates Compostable and Recyclable Trash...\n\nAvailable with Eco Lifestyle." -> Dịch hai phần, giữ \n\n.
+
+Bây giờ, các đoạn dài hơn, như phần hướng dẫn World Select, có nhiều dòng. Trong input, chúng được viết thành nhiều dòng? Nhìn vào input:
+
+World Select
+In the World Select screen you can see all the &lt;b&gt;&lt;font color='#199C2C'&gt;Worlds&lt;/font&gt;&lt;/b&gt; in your game, hover the cursor over each one to &lt;b&gt;&lt;font color='#199C2C'&gt;learn more&lt;/font&gt;&lt;/b&gt; about the World, and &lt;b&gt;&lt;font color='#199C2C'&gt;change&lt;/font&gt;&lt;/b&gt; World. Changing Worlds will open that World’s Map.\n\nIn the upper left corner, you can change between &lt;b&gt;&lt;font color='#199C2C'&gt;Residential&lt;/font&gt;&lt;/b&gt; and &lt;b&gt;&lt;font color='#199C2C'&gt;Destination&lt;/font&gt;&lt;/b&gt; Worlds (if you have any Destination Worlds available). Destination Worlds are Worlds where you can’t live permanently, but you can visit while on Vacation.\n\nMore Worlds, of both the Residential and Destination type, can be unlocked as you get new Expansion and Game Packs.
+
+Đây là một dòng duy nhất trong input? Thực tế, trong đoạn text, nó được viết liên tục với \n\n, nhưng trong file, có thể được tách thành nhiều dòng. Tuy nhiên, từ cách trình bày, có vẻ như mỗi đoạn được ngăn cách bởi dòng trống. Trong input, sau "World Select" là một dòng trống? Không, trong list, "World Select" là một dòng, rồi dòng tiếp theo là đoạn mô tả dài. Vậy mình sẽ giữ nguyên cấu trúc: dòng "World Select" dịch là "Chọn Thế giới", dòng tiếp theo là toàn bộ đoạn mô tả, dịch giữ nguyên \n\n bên trong.
+
+Tuy nhiên, trong đoạn mô tả đó, có nhiều câu, nhưng input gộp thành một dòng dài. Vậy output cũng phải là một dòng dài tương ứng, dịch toàn bộ và giữ nguyên các \n\n.
+
+Vậy cần xác định: trong input, mỗi dòng là một mục, kể cả các đoạn văn dài. Vậy khi dịch, mình sẽ dịch toàn bộ nội dung của mỗi dòng, giữ nguyên các ký tự đặc biệt, thẻ HTML, và \n\n.
+
+Bây giờ, bắt đầu dịch:
+
+Dòng 1: Sink -> Bồn rửa
+Dòng 2: Barstool -> Ghế bar
+Dòng 3: Dining Chair -> Ghế ăn
+Dòng 4: Bar -> Quầy bar
+Dòng 5: Waste Disposal -> Bỏ rác (có thể là "Thùng rác" nhưng trong game thường là thiết bị bỏ rác tự động, nên "Bỏ rác" là đủ)
+Dòng 6: A good night is on the horizon! Join us at the bar. -> Một đêm tuyệt vời đang chờ đón! Hãy gia nhập chúng tôi tại quầy bar.
+Dòng 7: The bar is a perfect place for a get together. -> Quầy bar là nơi hoàn hảo cho một buổi gặp gỡ.
+Dòng 8: You should meet us at the bar, we want to go out tonight. -> Bạn nên gặp chúng tôi tại quầy bar, chúng tôi muốn ra ngoài tối nay.
+Dòng 9: Arts Center -> Trung tâm nghệ thuật
+Dòng 10: Acting Studio -> Studio diễn
+Dòng 11: Community Board -> Bảng cộng đồng
+Dòng 12: Business Sign -> Biển quảng cáo
+Dòng 13: Ticket Kiosk -> Quầy vé
+Dòng 14: Registered Vampire Lair -> Hang ổ Ma cà rồng đã đăng ký
+Dòng 15: The lot registers as a vampire lair. The League will send various gifts from time to time. Through the mail, no less. Even the immortals use the public mail service. Only available on home residences. -> Lô đất này được đăng ký là hang ổ ma cà rồng. Đội hình sẽ gửi các món quà khác nhau thỉnh thoảng. Qua thư, không ít. Ngay cả bất tử cũng sử dụng dịch vụ thư công cộng. Chỉ có sẵn trên nhà ở.
+Dòng 16: Wild Prairie Grass -> Cỏ nguyên sinh hoang dã
+Dòng 17: Day after day, wild Prairie Grass will pop up and spread. Are the seeds of this Hay-yielding plant carried by the wind? Gnomes? Both? Nobody knows!\n\nAvailable with Horse Ranch. -> Ngày qua ngày, cỏ nguyên sinh hoang dã sẽ mọc lên và lan rộng. Hạt giống của loại cỏ Sản xuất Cỏ khô này có được gió mang đi? Con gnome? Cả hai? Không ai biết!\n\nCó sẵn với Horse Ranch.
+Dòng 18: Vampire Nexus -> Trung tâm Ma cà rồng (có thể là "Nút liên kết Ma cà rồng"? "Nexus" thường là trung tâm, nơi hội tụ. Vậy dịch "Trung tâm Ma cà rồng" hoặc "Hệ thống Ma cà rồng". Mình chọn "Trung tâm Ma cà rồng")
+Dòng 19: A dark void envelopes this lot in the upside down. Vampires are more likely to visit the area. -> Một khoảng trống tối bao phủ lô đất này trong thế giới ngược. Ma cà rồng có khả năng cao sẽ đến thử khu vực.
+Dòng 20: Reduce and Recycle -> Giảm và Tái chế
+Dòng 21: This lot generates Compostable and Recyclable Trash, and outdoor cans are no longer bottomless. Actively managing the trash output is a must!\n\nAvailable with Eco Lifestyle. -> Lô đất này tạo ra Rác có thể Phân hủy và Tái chế, và các thùng rác ngoài trời không còn là không đáy. Quản lý chủ động lượng rác đầu ra là bắt buộc!\n\nCó sẵn với Eco Lifestyle.
+Dòng 22: Lighten The Load -> Giảm Tải
+Dòng 23: Using less space means using less energy which means lower bills! -> Sử dụng ít không gian có nghĩa là sử dụng ít năng lượng, có nghĩa là hóa đơn thấp hơn!
+Dòng 24: You Got The Touch -> Bạn Có Được Sờ Soạn (có lẽ là tên trait, dịch sát: "Bạn Có Được Chạm")
+Dòng 25: Skills increase at double the standard rate. -> Kỹ năng tăng gấp đôi tốc độ tiêu chuẩn.
+Dòng 26: Let It Grow -> Để Nó Mọc
+Dòng 27: Plants grow twice as fast as normal. -> Cây cối mọc nhanh gấp đôi bình thường.
+Dòng 28: Let’s All Get Along -> Hãy Sống Hòa Thuận
+Dòng 29: All Relationship gains are doubled. -> Tất cả mối quan hệ được nhân đôi.
+Dòng 30: Feelin’ Fine All The Time -> Cảm Thấy Tốt Suốt Thời Gian
+Dòng 31: Happy, Inspired, and Focused buffs last twice as long. -> Hiệu ứng Hạnh phúc, Truyền cảm hứng và Tập trung kéo dài gấp đôi.
+Dòng 32: Cozy Comforts -> Thoải Mái Ấm Áp
+Dòng 33: Relax! Everything is twice as comfortable as it is generally. -> Thư giãn! Mọi thứ đều thoải mái gấp đôi bình thường.
+Dòng 34: Teen Neighborhood -> Khu phố Thiếu niên
+Dòng 35: More teens will hang out in the neighborhood that surrounds this lot. You'll spot them roaming around and loitering in the streets, as teens are known to do. It's a good opportunity for teens in your household to meet new friends their own age! -> Nhiều thiếu niên sẽ thích ngồi chơi trong khu phố xung quanh lô đất này. Bạn sẽ thấy họ đi lảng vảng và loitering trên đường phố, như thiếu niên vẫn thường làm. Đây là cơ hội tốt cho thiếu niên trong hộ gia đình bạn để gặp gỡ bạn bè mới cùng tuổi!
+Dòng 36: Study Spot -> Điểm Học Tập
+Dòng 37: A great place to enhance one's mind in pursuit of higher education. Not only will Sims complete their homework faster, but they can study longer without getting mentally exhausted. They'll also enjoy a slight bonus to all skill building. -> Một nơi tuyệt vời để cải thiện trí óc trong việc theo đuổi giáo dục cao hơn. Không chỉ Sims hoàn thành bài tập nhanh hơn, mà họ còn có thể học lâu hơn mà không bị kiệt sức trí óc. Họ cũng sẽ nhận được một chút thưởng cho tất cả việc xây dựng kỹ năng.
+Dòng 38: University Student Hang Out -> Nơi Học Sinh Đại Học Thích Ngồi
+Dòng 39: This spot has great prices on food and drink, so the university students are sure to flock to it. -> Địa điểm này có giá tốt cho đồ ăn và thức uống, vì vậy sinh viên đại học chắc chắn sẽ đổ xô đến.
+Dòng 40: Peace and Quiet -> Bình Yên và Tĩnh Lặng
+Dòng 41: Something about this lot makes it great for reading. Sims understand more, so they gain skill faster from reading, and Tense moods go away faster. -> Điều gì đó về lô đất này làm cho nó rất tốt cho việc đọc sách. Sims hiểu nhiều hơn, vì vậy họ học kỹ năng nhanh hơn từ đọc sách, và tâm trạng Căng thẳng biến mất nhanh hơn.
+Dòng 42: On Hallowed Grounds -> Trên Đất Thánh
+Dòng 43: This lot adds an exciting punch of terror to the otherwise daily mundane. Be it possessed TVs, netherworld treasures, or lowered bills—living or dead, there's something here for everybody! -> Lô đất này thêm một cú đấp sợ hãi đầy thú vị vào sự tầm thường hàng ngày. Dù là TV bị ám, kho báu thế giới ngầm, hay hóa đơn thấp hơn—sống hay chết, có gì đó ở đây cho tất cả mọi người!
+Dòng 44: On a Dark Ley Line -> Trên Mặt Trăng Bóng Tối (Ley Line là đường năng lượng, có thể dịch "Dòng năng lượng tối", nhưng để đơn giản "Mặt Trăng Bóng Tối" nghe lạ. Tốt hơn là "Trên Dòng Năng Lượng Tối")
+Dòng 45: The dark energy here has a impact on all nocturnal activities. You can expect babies conceived here to require extra care while teething. -> Năng lượng tối ở đây có tác động đến tất cả các hoạt động về đêm. Bạn có thể mong đợi trẻ em được thụ thai ở đây yêu cầu chăm sóc bổ sung khi mọc răng.
+Dòng 46: Off-the-Grid -> Ngoài Lưới Điện
+Dòng 47: Oceanic Paradise -> Thiên Đường Đại Dương
+Dòng 48: This lot has an abundance of ocean life. Swimming in the ocean is an inspiring endeavor and dolphins and rare fish are easily found here. -> Lô đất này có sự dồi dào của đời biển. Bơi lội trong đại dương là một nỗ lực truyền cảm hứng và cá heo và cá hiếm dễ dàng được tìm thấy ở đây.
+Dòng 49: Maintenance Troubles -> Rắc Rối Bảo Trì
+Dòng 50: Home ownership involves maintenance and this lot brings surprise events knocking.\n\nAvailable with For Rent. -> Sở hữu nhà liên quan đến bảo trì và lô đất này mang lại các sự kiện bất ngờ gõ cửa.\n\nCó sẵn với For Rent.
+Dòng 51: Mold -> Nấm mốc
+Dòng 52: Open Build Mode -> Mở Chế độ Xây dựng
+Dòng 53: Adopt a Dog -> Nhận nuôi Chó
+Dòng 54: Take Photo -> Chụp Ảnh
+Dòng 55: Place your Stuffed Animal -> Đặt Gấu Bông (Stuffed Animal có thể là "Thú bông", nhưng "Gấu Bông" phổ biến)
+Dòng 56: Go to School -> Đi Học
+Dòng 57: Adopt a Cat -> Nhận nuôi Mèo
+Dòng 58: Open Inventory -> Mở Túi đồ
+Dòng 59: Check Your Inventory -> Kiểm tra Túi đồ
+Dòng 60: Handiness Skill -> Kỹ năng Tháo lắp
+Dòng 61: Broken objects can be repaired with a little time and effort. While repairing, Sims improve their Handiness Skill. -> Đồ đứng có thể được sửa chữa với một chút thời gian và công sức. Trong khi sửa, Sims cải thiện Kỹ năng Tháo lắp.
+Dòng 62: Sims in the Focused Emotion will generally be better at Handiness interactions. -> Sims trong trạng thái Cảm xúc Tập trung thường sẽ giỏi hơn ở các tương tác Tháo lắp.
+Dòng 63: As Sims improve their Handiness Skill, they'll be able to upgrade their household items. Upgraded items have new benefits. For example, they can be unbreakable! -> Khi Sims cải thiện Kỹ năng Tháo lắp, họ sẽ có thể nâng cấp các vật phẩm trong hộ gia đình. Vật phẩm nâng cấp có lợi ích mới. Ví dụ, chúng có thể là không thể vỡ!
+Dòng 64: Sims need to spend upgrade parts to upgrade items. Upgrade parts can be found in piles of salvage next to repaired items or can be purchased through the computer. -> Sims cần chi tiêu bộ phận nâng cấp để nâng cấp vật phẩm. Bộ phận nâng cấp có thể được tìm thấy trong đống phế liệu bên cạnh vật phẩm đã sửa hoặc có thể được mua thông qua máy tính.
+Dòng 65: Neighbors & Households -> Hàng xóm & Gia đình
+Dòng 66: Neighborhood Stories -> Câu chuyện Khu phố
+Dòng 67: Travel & Moving -> Du lịch & Di chuyển
+Dòng 68: Time -> Thời gian
+Dòng 69: Skills -> Kỹ năng
+Dòng 70: Relationships & Socializing -> Mối quan hệ & Giao xã hội
+Dòng 71: Personality -> Tính cách
+Dòng 72: Needs -> Nhu cầu
+Dòng 73: Money & Work -> Tiền bạc & Công việc
+Dòng 74: Living & Dying -> Sống & Chết
+Dòng 75: Family -> Gia đình
+Dòng 76: Emotions -> Cảm xúc
+Dòng 77: Aspirations & Wants -> Kỳ vọng & Mong ước
+Dòng 78: Get Together -> Tụ họp
+Dòng 79: World Select -> Chọn Thế giới
+Dòng 80: In the World Select screen you can see all the &lt;b&gt;&lt;font color='#199C2C'&gt;Worlds&lt;/font&gt;&lt;/b&gt; in your game, hover the cursor over each one to &lt;b&gt;&lt;font color='#199C2C'&gt;learn more&lt;/font&gt;&lt;/b&gt; about the World, and &lt;b&gt;&lt;font color='#199C2C'&gt;change&lt;/font&gt;&lt;/b&gt; World. Changing Worlds will open that World’s Map.\n\nIn the upper left corner, you can change between &lt;b&gt;&lt;font color='#199C2C'&gt;Residential&lt;/font&gt;&lt;/b&gt; and &lt;b&gt;&lt;font color='#199C2C'&gt;Destination&lt;/font&gt;&lt;/b&gt; Worlds (if you have any Destination Worlds available). Destination Worlds are Worlds where you can’t live permanently, but you can visit while on Vacation.\n\nMore Worlds, of both the Residential and Destination type, can be unlocked as you get new Expansion and Game Packs. -> Trong màn hình Chọn Thế giới, bạn có thể thấy tất cả các &lt;b&gt;&lt;font color='#199C2C'&gt;Thế giới&lt;/font&gt;&lt;/b&gt; trong game, di chuột qua từng cái để &lt;b&gt;&lt;font color='#199C2C'&gt;tìm hiểu thêm&lt;/font&gt;&lt;/b&gt; về Thế giới, và &lt;b&gt;&lt;font color='#199C2C'&gt;thay đổi&lt;/font&gt;&lt;/b&gt; Thế giới. Thay đổi Thế giới sẽ mở Bản đồ của Thế giới đó.\n\nỞ góc trên bên trái, bạn có thể chuyển giữa &lt;b&gt;&lt;font color='#199C2C'&gt;Nhà ở&lt;/font&gt;&lt;/b&gt; và &lt;b&gt;&lt;font color='#199C2C'&gt;Điểm đến&lt;/font&gt;&lt;/b&gt; Thế giới (nếu bạn có bất kỳ Thế giới Điểm đến nào). Thế giới Điểm đến là Thế giới nơi bạn không thể sống vĩnh viễn, nhưng bạn có thể thăm khi đi Nghỉ.\n\nThêm nhiều Thế giới, cả loại Nhà ở và Điểm đến, có thể được mở khóa khi bạn có các Bộ mở rộng và Gói game mới.
+Dòng 81: The World Map shows the currently selected &lt;b&gt;&lt;font color='#199C2C'&gt;World&lt;/font&gt;&lt;/b&gt;, but there are more Worlds to choose from! Use the &lt;b&gt;&lt;font color='#199C2C'&gt;World Select&lt;/font&gt;&lt;/b&gt; button to view all available Worlds. -> Bản đồ Thế giới hiển thị &lt;b&gt;&lt;font color='#199C2C'&gt;Thế giới&lt;/font&gt;&lt;/b&gt; hiện đang được chọn, nhưng còn nhiều Thế giới khác để chọn! Sử dụng nút &lt;b&gt;&lt;font color='#199C2C'&gt;Chọn Thế giới&lt;/font&gt;&lt;/b&gt; để xem tất cả các Thế giới có sẵn.
+Dòng 82: Your Sim lives in a world full of &lt;b&gt;&lt;font color='#199C2C'&gt;stories&lt;/font&gt;&lt;/b&gt;! As their life changes, so do the lives of those around them. With &lt;b&gt;&lt;font color='#199C2C'&gt;Neighborhood Stories&lt;/font&gt;&lt;/b&gt; you can follow the life changes of the other Households in the world, and adjust which Households can experience which Stories. -> Sim của bạn sống trong một thế giới đầy &lt;b&gt;&lt;font color='#199C2C'&gt;câu chuyện&lt;/font&gt;&lt;/b&gt;! Khi cuộc sống của họ thay đổi, cuộc sống của những người xung quanh cũng thay đổi. Với &lt;b&gt;&lt;font color='#199C2C'&gt;Câu chuyện Khu phố&lt;/font&gt;&lt;/b&gt; bạn có thể theo dõi những thay đổi trong cuộc sống của các Gia đình khác trong thế giới, và điều chỉnh Gia đình nào có thể trải qua Câu chuyện nào.
+Dòng 83: World Map -> Bản đồ Thế giới
+Dòng 84: The &lt;b&gt;&lt;font color='#199C2C'&gt;World Map&lt;/font&gt;&lt;/b&gt; is where you choose which Household to &lt;b&gt;&lt;font color='#199C2C'&gt;play&lt;/font&gt;&lt;/b&gt; or which Lot to &lt;b&gt;&lt;font color='#199C2C'&gt;edit&lt;/font&gt;&lt;/b&gt;, &lt;b&gt;&lt;font color='#199C2C'&gt;add&lt;/font&gt;&lt;/b&gt; new Households, and &lt;b&gt;&lt;font color='#199C2C'&gt;manage&lt;/font&gt;&lt;/b&gt; all the Households in the save. This view is also used when &lt;b&gt;&lt;font color='#199C2C'&gt;traveling&lt;/font&gt;&lt;/b&gt;.\n\nTo go to the World Map from Live Mode, use the &lt;b&gt;&lt;font color='#199C2C'&gt;Manage World&lt;/font&gt;&lt;/b&gt; button. -> &lt;b&gt;&lt;font color='#199C2C'&gt;Bản đồ Thế giới&lt;/font&gt;&lt;/b&gt; là nơi bạn chọn Gia đình nào để &lt;b&gt;&lt;font color='#199C2C'&gt;chơi&lt;/font&gt;&lt;/b&gt; hoặc Lô đất nào để &lt;b&gt;&lt;font color='#199C2C'&gt;chỉnh sửa&lt;/font&gt;&lt;/b&gt;, &lt;b&gt;&lt;font color='#199C2C'&gt;thêm&lt;/font&gt;&lt;/b&gt; Gia đình mới, và &lt;b&gt;&lt;font color='#199C2C'&gt;quản lý&lt;/font&gt;&lt;/b&gt; tất cả các Gia đình trong bản lưu. Chế độ xem này cũng được sử dụng khi &lt;b&gt;&lt;font color='#199C2C'&gt;du lịch&lt;/font&gt;&lt;/b&gt;.\n\nĐể đến Bản đồ Thế giới từ Chế độ Sống, sử dụng nút &lt;b&gt;&lt;font color='#199C2C'&gt;Quản lý Thế giới&lt;/font&gt;&lt;/b&gt;.
+Dòng 85: Inventory -> Túi đồ
+Dòng 86: You can select multiple things in your Sim's Inventory. Select the Multiselect button to turn it on. You'll know when multiselect is on when the background of the inventory turns green. Now you can select multiple items in the Inventory. Once they are all selected, you can use the buttons on the bottom to either mark every item as Favorite, or Sell every item. Note that you cannot use drag functionality from the Inventory when multiselect is On. -> Bạn có thể chọn nhiều thứ trong Túi đồ của Sim. Chọn nút Chọn nhiều để bật nó. Bạn sẽ biết khi Chọn nhiều được bật khi nền của túi đồ chuyển thành màu xanh lá. Giờ bạn có thể chọn nhiều vật phẩm trong Túi đồ. Một khi tất cả đã được chọn, bạn có thể sử dụng các nút ở dưới để đánh dấu tất cả vật phẩm là Yêu thích, hoặc Bán tất cả vật phẩm. Lưu ý rằng bạn không thể sử dụng chức năng kéo từ Túi đồ khi Chọn nhiều được Bật.
+Dòng 87: Sims can interact with items in their personal inventories by opening the inventory (click on the panel in the lower right or use the [i] shortcut key) and clicking the item. -> Sims có thể tương tác với vật phẩm trong túi đồ cá nhân của họ bằng cách mở túi đồ (nhấp vào bảng ở góc dưới bên phải hoặc sử dụng phím tắt [i]) và nhấp vào vật phẩm.
+Dòng 88: You can sort items in your Sims Inventory. You can sort by the name of the objects, the price, or how rare they are, among other things. Use the arrow to the left of the sort interface to sort by ascending or descending. -> Bạn có thể sắp xếp vật phẩm trong Túi đồ của Sims. Bạn có thể sắp xếp theo tên của vật phẩm, giá, hoặc độ hiếm, giữa những thứ khác. Sử dụng mũi tên ở bên trái giao diện sắp xếp để sắp xếp theo thứ tự tăng dần hoặc giảm dần.
+Dòng 89: Sims can put items back into the world by clicking and holding an item to pick it up.\n\nWhile dragging, valid drop locations will be highlighted yellow (such as a refrigerator, or Sims). In addition to being able to place the object directly onto the ground or valid surfaces. -> Sims có thể đặt vật phẩm trở lại thế giới bằng cách nhấp và giữ một vật phẩm để nhặt nó.\n\nTrong khi kéo, các vị trí thả hợp lệ sẽ được tô màu vàng (chẳng hạn như tủ lạnh, hoặc Sims). Ngoài ra còn có thể đặt vật phẩm trực tiếp xuống đất hoặc bề mặt hợp lệ.
+Dòng 90: You can filter what you see in the Sim's inventory by using the filter interface. Select the arrow next to the Filter Items interface to display all the filter categories. You can also expand a filter category by selecting the arrow; this provides even more filter options. These sub-filters can be turned on and off for more granularity. -> Bạn có thể lọc những gì bạn thấy trong túi đồ của Sim bằng cách sử dụng giao diện lọc. Chọn mũi tên bên cạnh giao diện Lọc vật phẩm để hiển thị tất cả các danh mục lọc. Bạn cũng có thể mở rộng một danh mục lọc bằng cách chọn mũi tên; điều này cung cấp thêm nhiều tùy chọn lọc. Các bộ lọc con này có thể được bật và tắt để chi tiết hơn.
+Dòng 91: You can mark items in your Sim's Inventory as a Favorite item. Select the item you want to Favorite, and then select Add to Favorites. Favorite Items will be identified with a heart icon in the Inventory, and will filter in their own category. -> Bạn có thể đánh dấu vật phẩm trong Túi đồ của Sim là vật phẩm Yêu thích. Chọn vật phẩm bạn muốn Yêu thích, và sau đó chọn Thêm vào Yêu thích. Vật phẩm Yêu thích sẽ được xác định bằng biểu tượng trái tim trong Túi đồ, và sẽ được lọc trong danh mục riêng của chúng.
+Dòng 92: Cell Phone -> Điện thoại
+Dòng 93: The &lt;b&gt;&lt;font color='#199C2C'&gt;Travel&lt;/font&gt;&lt;/b&gt; app has options to get your Sims moving! &lt;b&gt;&lt;font color='#199C2C'&gt;Travel&lt;/font&gt;&lt;/b&gt; gets your Sims exploring the Worlds and Neighborhoods available to visit. This app also has options to move to a &lt;b&gt;&lt;font color='#199C2C'&gt;new home&lt;/font&gt;&lt;/b&gt;. -> Ứng dụng &lt;b&gt;&lt;font color='#199C2C'&gt;Du lịch&lt;/font&gt;&lt;/b&gt; có các tùy chọn để đưa Sims của bạn di chuyển! &lt;b&gt;&lt;font color='#199C2C'&gt;Du lịch&lt;/font&gt;&lt;/b&gt; giúp Sims của bạn khám phá các Thế giới và Khu phố có thể thăm. Ứng dụng này cũng có tùy chọn để chuyển đến một &lt;b&gt;&lt;font color='#199C2C'&gt;ngôi nhà mới&lt;/font&gt;&lt;/b&gt;.
+Dòng 94: The &lt;b&gt;&lt;font color='#199C2C'&gt;Entertainment&lt;/font&gt;&lt;/b&gt; app has options to keep your Sim’s &lt;b&gt;&lt;font color='#199C2C'&gt;Fun Need&lt;/font&gt;&lt;/b&gt; fulfilled with things like Browse Web or Play Game. -> Ứng dụng &lt;b&gt;&lt;font color='#199C2C'&gt;Giải trí&lt;/font&gt;&lt;/b&gt; có các tùy chọn để duy trì &lt;b&gt;&lt;font color='#199C2C'&gt;Nhu cầu Vui vẻ&lt;/font&gt;&lt;/b&gt; của Sim với những thứ như Duyệt Web hoặc Chơi Game.
+Dòng 95: Need a J. O. B.? The &lt;b&gt;&lt;font color='#199C2C'&gt;Business&lt;/font&gt;&lt;/b&gt; app is where you can join a Career! You can also Quit Job or Take a Vacation Day from this app as well. -> Cần một CÔNG VIỆC? Ứng dụng &lt;b&gt;&lt;font color='#199C2C'&gt;Kinh doanh&lt;/font&gt;&lt;/b&gt; là nơi bạn có thể tham gia Sự nghiệp! Bạn cũng có thể Nghỉ việc hoặc Lấy ngày Nghỉ từ ứng dụng này.
+Dòng 96: The &lt;b&gt;&lt;font color='#199C2C'&gt;Home&lt;/font&gt;&lt;/b&gt; app is where you can hire &lt;b&gt;&lt;font color='#199C2C'&gt;Services&lt;/font&gt;&lt;/b&gt; like cleaning, repair, or nanny; order food &lt;b&gt;&lt;font color='#199C2C'&gt;Deliveries&lt;/font&gt;&lt;/b&gt;; and track your &lt;b&gt;&lt;font color='#199C2C'&gt;Bills&lt;/font&gt;&lt;/b&gt;. Or Call the &lt;b&gt;&lt;font color='#199C2C'&gt;Fire Department&lt;/font&gt;&lt;/b&gt;… in case of fire. -> Ứng dụng &lt;b&gt;&lt;font color='#199C2C'&gt;Nhà&lt;/font&gt;&lt;/b&gt; là nơi bạn có thể thuê &lt;b&gt;&lt;font color='#199C2C'&gt;Dịch vụ&lt;/font&gt;&lt;/b&gt; như dọn dẹp, sửa chữa, hoặc bảo mẫu; đặt đồ ăn &lt;b&gt;&lt;font color='#199C2C'&gt;Giao hàng&lt;/font&gt;&lt;/b&gt;; và theo dõi &lt;b&gt;&lt;font color='#199C2C'&gt;Hóa đơn&lt;/font&gt;&lt;/b&gt; của bạn. Hoặc Gọi &lt;b&gt;&lt;font color='#199C2C'&gt;Sở Cứu hỏa&lt;/font&gt;&lt;/b&gt;… trong trường hợp hỏa hoạn.
+Dòng 97: Your Sim’s Cell Phone can be &lt;b&gt;&lt;font color='#199C2C'&gt;customized&lt;/font&gt;&lt;/b&gt; to match their style with the &lt;b&gt;&lt;font color='#199C2C'&gt;Change Phone Background Color&lt;/font&gt;&lt;/b&gt; and &lt;b&gt;&lt;font color='#199C2C'&gt;Change Phone Cover Color&lt;/font&gt;&lt;/b&gt; buttons. \n\n&lt;b&gt;&lt;font color='#199C2C'&gt;Silence Phone&lt;/font&gt;&lt;/b&gt; will keep other Sims from calling you. -> Điện thoại của Sim có thể được &lt;b&gt;&lt;font color='#199C2C'&gt;tùy chỉnh&lt;/font&gt;&lt;/b&gt; để phù hợp với phong cách của họ với các nút &lt;b&gt;&lt;font color='#199C2C'&gt;Thay đổi Màu nền Điện thoại&lt;/font&gt;&lt;/b&gt; và &lt;b&gt;&lt;font color='#199C2C'&gt;Thay đổi Màu vỏ Điện thoại&lt;/font&gt;&lt;/b&gt;. \n\n&lt;b&gt;&lt;font color='#199C2C'&gt;Tắt Điện thoại&lt;/font&gt;&lt;/b&gt; sẽ ngăn các Sim khác gọi cho bạn.
+Dòng 98: The &lt;b&gt;&lt;font color='#199C2C'&gt;Camera&lt;/font&gt;&lt;/b&gt; app has options to take selfies, photos of your Sims, and the world around them. -> Ứng dụng &lt;b&gt;&lt;font color='#199C2C'&gt;Máy ảnh&lt;/font&gt;&lt;/b&gt; có các tùy chọn để chụp ảnh tự chụp, ảnh của Sims, và thế giới xung quanh họ.
+Dòng 99: The &lt;b&gt;&lt;font color='#199C2C'&gt;Cell Phone&lt;/font&gt;&lt;/b&gt; is a very handy device that has a number of uses to help your Sims &lt;b&gt;&lt;font color='#199C2C'&gt;manage&lt;/font&gt;&lt;/b&gt; their lives, and to keep them &lt;b&gt;&lt;font color='#199C2C'&gt;connected&lt;/font&gt;&lt;/b&gt; and &lt;b&gt;&lt;font color='#199C2C'&gt;entertained&lt;/font&gt;&lt;/b&gt;. \n\nYou can access it with the &lt;b&gt;&lt;font color='#199C2C'&gt;Cell Phone button&lt;/font&gt;&lt;/b&gt; below your Sim’s portrait.\n\nThe Cell Phone has several &lt;b&gt;&lt;font color='#199C2C'&gt;apps&lt;/font&gt;&lt;/b&gt;: Entertainment, Home, Travel, Business, Social, and Camera. -> &lt;b&gt;&lt;font color='#199C2C'&gt;Điện thoại&lt;/font&gt;&lt;/b&gt; là một thiết bị rất tiện lợi có nhiều công dụng để giúp Sims của bạn &lt;b&gt;&lt;font color='#199C2C'&gt;quản lý&lt;/font&gt;&lt;/b&gt; cuộc sống của họ, và để giữ họ &lt;b&gt;&lt;font color='#199C2C'&gt;liên kết&lt;/font&gt;&lt;/b&gt; và &lt;b&gt;&lt;font color='#199C2C'&gt;giải trí&lt;/font&gt;&lt;/b&gt;. \n\nBạn có thể truy cập nó với nút &lt;b&gt;&lt;font color='#199C2C'&gt;Điện thoại&lt;/font&gt;&lt;/b&gt; bên dưới chân dung của Sim.\n\nĐiện thoại có một số &lt;b&gt;&lt;font color='#199C2C'&gt;ứng dụng&lt;/font&gt;&lt;/b&gt;: Giải trí, Nhà, Du lịch, Kinh doanh, Xã hội, và Máy ảnh.
+Dòng 100: The &lt;b&gt;&lt;font color='#199C2C'&gt;Social&lt;/font&gt;&lt;/b&gt; app has your Sims social connections covered. Add a Simstagram Story, Chat, Plan Social Events, Invite to Hangout are just some of the options to fill your Sim’s Social Need. -> Ứng dụng &lt;b&gt;&lt;font color='#199C2C'&gt;Xã hội&lt;/font&gt;&lt;/b&gt; phủ kín các kết nối xã hội của Sims. Thêm Câu chuyện Simstagram, Trò chuyện, Lập kế hoạch Sự kiện Xã hội, Mời đi chơi chỉ là một số tùy chọn để lấp đầy Nhu cầu Xã hội của Sim.
+
+Vậy là có tổng cộng 100 dòng? Đếm thử: từ dòng 1 đến 100. Trong input, sau "Cell Phone" có các mục con, nhưng trong list, mỗi dòng là một mục riêng. Tuy nhiên, trong input gốc, có thể có nhiều dòng hơn vì các đoạn dài được tách. Nhưng trong phản hồi, mình đã liệt kê từng dòng. Cần đếm lại input:
+
+Input ban đầu:
+Sink
+Barstool
+Dining Chair
+Bar
+Waste Disposal
+A good night is on the horizon! Join us at the bar.
+The bar is a perfect place for a get together.
+You should meet us at the bar, we want to go out tonight. 
+Arts Center
+Acting Studio
+Community Board
+Business Sign
+Ticket Kiosk
+Registered Vampire Lair
+The lot registers as a vampire lair. The League will send various gifts from time to time. Through the mail, no less. Even the immortals use the public mail service. Only available on home residences.
+Wild Prairie Grass
+Day after day, wild Prairie Grass will pop up and spread. Are the seeds of this Hay-yielding plant carried by the wind? Gnomes? Both? Nobody knows!\n\nAvailable with Horse Ranch.
+Vampire Nexus
+A dark void envelopes this lot in the upside down. Vampires are more likely to visit the area.
+Reduce and Recycle
+This lot generates Compostable and Recyclable Trash, and outdoor cans are no longer bottomless. Actively managing the trash output is a must!\n\nAvailable with Eco Lifestyle.
+Lighten The Load
+Using less space means using less energy which means lower bills!
+You Got The Touch
+Skills increase at double the standard rate.
+Let It Grow
+Plants grow twice as fast as normal.
+Let’s All Get Along
+All Relationship gains are doubled.
+Feelin’ Fine All The Time
+Happy, Inspired, and Focused buffs last twice as long.
+Cozy Comforts
+Relax! Everything is twice as comfortable as it is generally.
+Teen Neighborhood
+More teens will hang out in the neighborhood that surrounds this lot. You'll spot them roaming around and loitering in the streets, as teens are known to do. It's a good opportunity for teens in your household to meet new friends their own age!
+Study Spot
+A great place to enhance one's mind in pursuit of higher education. Not only will Sims complete their homework faster, but they can study longer without getting mentally exhausted. They'll also enjoy a slight bonus to all skill building.
+University Student Hang Out
+This spot has great prices on food and drink, so the university students are sure to flock to it.
+Peace and Quiet
+Something about this lot makes it great for reading. Sims understand more, so they gain skill faster from reading, and Tense moods go away faster.
+On Hallowed Grounds
+This lot adds an exciting punch of terror to the otherwise daily mundane. Be it possessed TVs, netherworld treasures, or lowered bills—living or dead, there's something here for everybody!
+On a Dark Ley Line
+The dark energy here has a impact on all nocturnal activities. You can expect babies conceived here to require extra care while teething.
+Off-the-Grid
+Oceanic Paradise
+This lot has an abundance of ocean life. Swimming in the ocean is an inspiring endeavor and dolphins and rare fish are easily found here.
+Maintenance Troubles
+Home ownership involves maintenance and this lot brings surprise events knocking.\n\nAvailable with For Rent. 
+Mold
+Open Build Mode
+Adopt a Dog
+Take Photo
+Place your Stuffed Animal
+Go to School
+Adopt a Cat
+Open Inventory
+Check Your Inventory
+Handiness Skill
+Broken objects can be repaired with a little time and effort. While repairing, Sims improve their Handiness Skill.
+Sims in the Focused Emotion will generally be better at Handiness interactions.
+As Sims improve their Handiness Skill, they'll be able to upgrade their household items. Upgraded items have new benefits. For example, they can be unbreakable!
+Sims need to spend upgrade parts to upgrade items. Upgrade parts can be found in piles of salvage next to repaired items or can be purchased through the computer.
+Neighbors & Households
+Neighborhood Stories
+Travel & Moving
+Time
+Skills
+Relationships & Socializing
+Personality
+Needs
+Money & Work
+Living & Dying
+Family
+Emotions
+Aspirations & Wants
+Get Together
+World Select
+In the World Select screen you can see all the &lt;b&gt;&lt;font color='#199C2C'&gt;Worlds&lt;/font&gt;&lt;/b&gt; in your game, hover the cursor over each one to &lt;b&gt;&lt;font color='#199C2C'&gt;learn more&lt;/font&gt;&lt;/b&gt; about the World, and &lt;b&gt;&lt;font color='#199C2C'&gt;change&lt;/font&gt;&lt;/b&gt; World. Changing Worlds will open that World’s Map.\n\nIn the upper left corner, you can change between &lt;b&gt;&lt;font color='#199C2C'&gt;Residential&lt;/font&gt;&lt;/b&gt; and &lt;b&gt;&lt;font color='#199C2C'&gt;Destination&lt;/font&gt;&lt;/b&gt; Worlds (if you have any Destination Worlds available). Destination Worlds are Worlds where you can’t live permanently, but you can visit while on Vacation.\n\nMore Worlds, of both the Residential and Destination type, can be unlocked as you get new Expansion and Game Packs.
+The World Map shows the currently selected &lt;b&gt;&lt;font color='#199C2C'&gt;World&lt;/font&gt;&lt;/b&gt;, but there are more Worlds to choose from! Use the &lt;b&gt;&lt;font color='#199C2C'&gt;World Select&lt;/font&gt;&lt;/b&gt; button to view all available Worlds.
+Your Sim lives in a world full of &lt;b&gt;&lt;font color='#199C2C'&gt;stories&lt;/font&gt;&lt;/b&gt;! As their life changes, so do the lives of those around them. With &lt;b&gt;&lt;font color='#199C2C'&gt;Neighborhood Stories&lt;/font&gt;&lt;/b&gt; you can follow the life changes of the other Households in the world, and adjust which Households can experience which Stories.
+World Map
+The &lt;b&gt;&lt;font color='#199C2C'&gt;World Map&lt;/font&gt;&lt;/b&gt; is where you choose which Household to &lt;b&gt;&lt;font color='#199C2C'&gt;play&lt;/font&gt;&lt;/b&gt; or which Lot to &lt;b&gt;&lt;font color='#199C2C'&gt;edit&lt;/font&gt;&lt;/b&gt;, &lt;b&gt;&lt;font color='#199C2C'&gt;add&lt;/font&gt;&lt;/b&gt; new Households, and &lt;b&gt;&lt;font color='#199C2C'&gt;manage&lt;/font&gt;&lt;/b&gt; all the Households in the save. This view is also used when &lt;b&gt;&lt;font color='#199C2C'&gt;traveling&lt;/font&gt;&lt;/b&gt;.\n\nTo go to the World Map from Live Mode, use the &lt;b&gt;&lt;font color='#199C2C'&gt;Manage World&lt;/font&gt;&lt;/b&gt; button.
+Inventory
+You can select multiple things in your Sim's Inventory. Select the Multiselect button to turn it on. You'll know when multiselect is on when the background of the inventory turns green. Now you can select multiple items in the Inventory. Once they are all selected, you can use the buttons on the bottom to either mark every item as Favorite, or Sell every item. Note that you cannot use drag functionality from the Inventory when multiselect is On.
+Sims can interact with items in their personal inventories by opening the inventory (click on the panel in the lower right or use the [i] shortcut key) and clicking the item.
+You can sort items in your Sims Inventory. You can sort by the name of the objects, the price, or how rare they are, among other things. Use the arrow to the left of the sort interface to sort by ascending or descending.
+Sims can put items back into the world by clicking and holding an item to pick it up.\n\nWhile dragging, valid drop locations will be highlighted yellow (such as a refrigerator, or Sims). In addition to being able to place the object directly onto the ground or valid surfaces.
+You can filter what you see in the Sim's inventory by using the filter interface. Select the arrow next to the Filter Items interface to display all the filter categories. You can also expand a filter category by selecting the arrow; this provides even more filter options. These sub-filters can be turned on and off for more granularity.
+You can mark items in your Sim's Inventory as a Favorite item. Select the item you want to Favorite, and then select Add to Favorites. Favorite Items will be identified with a heart icon in the Inventory, and will filter in their own category.
+Cell Phone
+The &lt;b&gt;&lt;font color='#199C2C'&gt;Travel&lt;/font&gt;&lt;/b&gt; app has options to get your Sims moving! &lt;b&gt;&lt;font color='#199C2C'&gt;Travel&lt;/font&gt;&lt;/b&gt; gets your Sims exploring the Worlds and Neighborhoods available to visit. This app also has options to move to a &lt;b&gt;&lt;font color='#

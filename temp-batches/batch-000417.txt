@@ -1,0 +1,100 @@
+Bạn đúng, &lt;b&gt;tất nhiên&lt;/b&gt; tôi nên đồng ý! Tôi đang nghĩ cái gì thế!? Trời ơi tôi không thể tin được việc này đang xảy ra.
+Bạn nghĩ vậy à? Tôi không chắc... nhưng bạn đúng. Tôi đoán là chưa phải là cái gì đó được định sẵn.
+Cảm ơn! Tôi hơi lo lắng, nhưng giờ tôi đã hào hứng rồi!
+Vâng, tôi làm được! Hãy xem tôi được thăng chức nhé!
+Cảm ơn lời khuyên, tôi sẽ cố gắng để đạt được!
+Có lẽ bạn đúng... tôi không muốn thêm trách nhiệm!
+Tôi sẽ có ít thời gian rảnh hơn... cuối cùng tôi cũng không muốn điều này.
+Nếu bạn nghĩ vậy, bạn có lẽ đúng...
+Tự mình ra quyết định? Không ai dẫn dắt hành động của tôi? Tại sao điều này lại cảm thấy lạ?
+Một sự thăng chức sẽ có nghĩa là nhiều trách nhiệm hơn... Đây có phải là thứ tôi thực sự muốn? Tôi sẽ suy nghĩ thêm.
+Tôi hy vọng bạn sẽ đề xuất điều gì đó! Dù vậy, bạn đúng. Tôi nên tự mình quyết định.
+Bạn đúng, tôi nên theo đuổi nó!
+Vâng! Tôi sẽ theo đuổi công việc mới!
+Nhìn kìa sự nghiệp mới, tôi đã sẵn sàng!
+Thật sao? Tôi đoán tôi nên giữ nguyên thôi...
+Bạn đúng. Có lẽ đây không phải là một ý tưởng hay sau tất cả!
+Bạn có lẽ đúng. Tôi nên giữ nguyên hiện tại.
+Tôi không biết ngay bây giờ! Tôi sẽ dành một chút thời gian để cân nhắc.
+Đó là một sự thay đổi lớn. Tôi sẽ phải suy nghĩ về nó.
+Nhưng tôi gọi bạn nên tôi không phải tự mình quyết định!
+Tôi rất vui bạn nhắc đến việc này, {0.SimFirstName}! Tôi cũng đang nghĩ vậy. Hãy để tôi trò chuyện với {1.SimFirstName} và tôi sẽ liên hệ lại với bạn!
+(Từ Ai Đó Bạn Biết Đang Mang Thai)
+(Từ Ai Đó Bạn Biết Đang Có Em Bé)
+Tôi rất vui bạn nhắc đến việc này, {0.SimFirstName}! Tôi cũng đang nghĩ vậy; hãy để tôi suy nghĩ về ý tưởng đó một chút và tôi sẽ liên hệ lại với bạn!
+Chúc mừng! Đại học đã mang lại cho {0.SimName} một Tấm bằng, và bằng chứng nằm trong {M0.bằng}{F0.bằng} Tấm bằng của {M0.anh ấy}{F0.cô ấy}. Bạn có thể tìm thấy nó trong kho đồ của {0.SimFirstName}.
+(Từ Việc Được Tuyên Bố Là Kẻ Thù)
+(Từ Việc Tuyên Bố Một Kẻ Thù)
+Việc ăn chén Death Frog Hot Pot ngon lành đó đã bổ sung thêm Ghost Stamina cho {0.SimFirstName}!
+(Từ Việc Ăn Death Frog Hot Pot)
+Ồ không... {0.SimFirstName} vừa để ý một thiên thạch đang lao thẳng về phía {0.SimPronounObjective}! {F0.Cô ấy}{M0.Anh ấy} nên tìm nơi trú ẩn, và nhanh lên!
+(Từ Việc Điện Giật)
+Vì {0.SimFirstName} đang bị Death truy đuổi, thận trọng hơn với các vật dụng điện sẽ là điều khôn ngoan.
+(Từ Việc Điện Giật)
+(Từ Hoạt Động Vất Vả)
+(Từ Nhà Búp Bê Bị Hư)
+(Từ Chơi Game Modded)
+(Từ Kiểm Tra Dòng Thời Gian Mạng Xã Hội)
+{0.SimName} bắt đầu mệt mỏi vì làm việc quá lâu. {M0.Hiệu suất}{F0.Hiệu suất} và sự hài lòng công việc của {M0.anh ấy}{F0.cô ấy} gần như chắc chắn sẽ suy giảm nếu không có một khoảng nghỉ!
+(Từ Toilet Được Nâng Cấp)
+(Từ Một Toilet Được Nâng Cấp)
+Mất Năng Lượng - Nhỏ
+(Từ Không Khắc Phục Được Vấn Đề Căn Hộ)
+(Từ Khắc Phục Thành Công Vấn Đề Căn Hộ)
+(Từ Thực Hiện Routine Trong Không Gian)
+Chúc mừng vì đã bắt đầu bộ sưu tập nguyên tố của bạn! Để thực sự khoe khoang chúng, hãy cân nhắc mua một Kệ Trưng Bày Nguyên Tố.
+(Từ Ngủ Trong Quan Tài)
+(Từ Blob Đất Nung)
+{0.SimFirstName} không còn trong Câu Lạc Bộ Hướng Dẫn nữa!
+{0.SimFirstName} không còn trong Câu Lạc Bộ Kịch nữa!
+Thử Thách Khoảnh Khắc Hình Thành Hoàn Thành
+Mở Bảng Simology
+(Từ Hoàn Thành Một Thử Thách Khoảnh Khắc Hình Thành)
+"Tôi thấy ai đó bắt được một con cá lớn như bạn hôm kia! <i>Và</i> nó còn biết nói và bay được!"\n\n{0.SimFirstName} không chắc {1.SimFirstName} có nói thật hay không, nhưng chỉ có một cách để tìm ra! Hơn nữa, giỏi về câu cá có thể sẽ rất vui!\n\nThử Thách <b>Thành Thạo Câu Cá</b> đã được thêm vào như một Thử Thách Đề Xuất trong Bảng Khao Khát.
+"Tôi sống vì một chút nguy hiểm! Không gì có thể ngăn cản tôi! Tôi bất khả chiến bại! Ha ha ha!"\n\nỒ, {1.SimFirstName} thật can đảm và ngầu! {0.SimFirstName} muốn cười vào mặt nguy hiểm như {1.SimPronounObjective}!\n\nThử Thách <b>Sống Đầy Mạo Hiểm</b> đã được thêm vào như một Thử Thách Đề Xuất trong Bảng Khao Khát.
+"Ra ngoài là tuyệt nhất! Không khí trong lành! Ếch... thực sự là mọi thứ đều thú vị!"\n\n{0.SimFirstName} nghĩ rằng {1.SimFirstName} đưa ra một vài điểm khá hay! Sẽ vui nếu khám phá thiên nhiên!\n\nThử Thách <b>Khám Phá Thiên Nhiên</b> đã được thêm vào như một Thử Thách Đề Xuất trong Bảng Khao Khát.
+"Nhìn bộ outfit của tôi đi! Nó có phải là <i>tốt nhất</i> không?!"\n\n{0.SimFirstName} thích outfit của {1.SimFirstName}, nhưng thực sự sẽ rất vui nếu tạo ra {0.SimPronounPossessiveDependent} một cái riêng. Tìm {0.SimPronounPossessiveDependent} phong cách riêng, bạn biết đấy?\n\nThử Thách <b>Thiết Lập Hình Ảnh</b> đã được thêm vào như một Thử Thách Đề Xuất trong Bảng Khao Khát.
+"Tôi luôn được bảo là tôi là trợ lý nhỏ hay nhất khi tôi làm việc nhà!"\n\n{0.SimFirstName} muốn trở thành trợ lý nhỏ hay nhất giống hệt {1.SimFirstName}! Chỉ vì {0.SimPronounSubjective} {S0.là}{P0.là} một đứa trẻ, không có nghĩa là {0.SimPronounSubjective} không thể hữu ích!\n\nThử Thách <b>Hữu Ích</b> đã được thêm vào như một Thử Thách Đề Xuất trong Bảng Khao Khát.
+"Bạn biết sao? Ai thèm quan tâm những đứa trẻ khác nghĩ gì! Tôi quyết định yêu thích điều mình yêu thích, và giờ tôi hạnh phúc hơn!"\n\n{0.SimFirstName} ngưỡng mộ năng lượng của {1.SimFirstName}, có lẽ đó là thứ {0.SimPronounSubjective} cũng có thể làm!\n\nThử Thách <b>Trở Thành Một Người Hâm Mộ</b> đã được thêm vào như một Thử Thách Đề Xuất trong Bảng Khao Khát.
+"Bạn biết không, bạn học được rất nhiều khi thực sự làm bài tập về nhà. Thực sự rất khó để luôn làm bài tập về nhà."\n\n{1.SimFirstName} đưa ra một quan điểm hay và đã truyền cảm hứng cho {0.SimFirstName} để thử trở thành một Học Sinh Tốt. Nó có thể khó, nhưng không phải là không thể!\n\nThử Thách <b>Trở Thành Một Học Sinh Tốt</b> đã được thêm vào như một Thử Thách Đề Xuất trong Bảng Khao Khát.
+"Tôi có cả trăm Simoleon, nên tôi là đứa trẻ giàu nhất trên khu phố!"\n\nĐiều đó khá tuyệt là {1.SimFirstName} có 100 Simoleon, nhưng {0.SimFirstName} nghĩ {0.SimPronounSubjective} có thể làm tốt hơn! Có thể thậm chí bắt đầu một doanh nghiệp nhỏ giống hệt một doanh nghiệp của người lớn!\n\nThử Thách <b>Kinh Doanh Nhí</b> đã được thêm vào như một Thử Thách Đề Xuất trong Bảng Khao Khát.
+"Tôi nghe rằng Công Chúa Cordelia đã đi khắp thế giới! Tôi tự hỏi liệu tôi có bao giờ đi đến một nơi nào hay không?"\n\n{1.SimFirstName} nêu lên một quan điểm hay, và giờ {0.SimFirstName} muốn đi du lịch khắp thế giới và trải nghiệm mọi thứ!\n\nThử Thách <b>Trở Thành Một Người Du Lịch</b> đã được thêm vào như một Thử Thách Đề Xuất trong Bảng Khao Khát.
+"Bạn biết gì là đỉnh cao không? Ăn cắp một thứ gì đó. Cá cuộc bạn không thể thoát được như tôi..." \n\n{1.SimFirstName} <i>ăn cắp</i> đồ? {0.SimFirstName} <i>có</i> một chút ngứa tay để Ăn Cắp một thứ gì đó.... Có thể vui?\n\nThử Thách <b>Trở Thành Một Kẻ Gian Lận</b> đã được thêm vào như một Thử Thách Đề Xuất trong Bảng Khao Khát.
+"Tôi là nhà thám hiểm ngoài trời hung bạo nhất từ trước đến nay!"\n\n{0.SimFirstName} nghĩ sẽ rất ngầu để trở thành một nhà thám hiểm ngoài trời giống hệt như {1.SimFirstName} tuyên bố!\n\nThử Thách <b>Trở Thành Một Người Yêu Thiên Nhiên</b> đã được thêm vào như một Thử Thách Đề Xuất trong Bảng Khao Khát.
+"Bạn biết tôi đã làm gì không? Tôi đã làm nổ toilet ở trường hôm kia! Mọi người cười! Thật buồn cười!"\n\n{0.SimFirstName} muốn làm mọi người cười và nhận được rất nhiều sự chú ý giống hệt {1.SimFirstName} đã làm!\n\nThử Thách <b>Trở Thành Một Kẻ Phiền Phức</b> đã được thêm vào như một Thử Thách Đề Xuất trong Bảng Khao Khát.
+"Nhìn tôi đi! Tôi là trung tâm của sự chú ý! Mình tôi!"\n\n{0.SimFirstName} cũng muốn trở thành trung tâm của sự chú ý! Không công bằng là {1.SimFirstName} được làm!\n\nThử Thách <b>Trở Thành Một Diễn Viên</b> đã được thêm vào như một Thử Thách Đề Xuất trong Bảng Khao Khát.
+"Tôi cá tôi là người nhanh nhất từ trước đến nay! Tôi có lẽ sẽ là một vận động viên nổi tiếng một ngày nào đó!"\n\n{0.SimFirstName} muốn chạy nhanh như {1.SimFirstName}!\n\nThử Thách <b>Trở Thành Năng Động</b> đã được thêm vào như một Thử Thách Đề Xuất trong Bảng Khao Khát.
+"Bạn có biết rằng mọi người ăn thức ăn khác nhau ở những nơi khác nhau trên thế giới không?"\n\n{0.SimFirstName} không biết điều đó cho đến khi {1.SimFirstName} nói vậy. Giờ, {0.SimFirstName} muốn thử tất cả các loại thức ăn khác nhau!\n\nThử Thách <b>Trở Thành Một Người Tò Mò Về Ẩm Thực</b> đã được thêm vào như một Thử Thách Đề Xuất trong Bảng Khao Khát.
+Mở Bảng Khao Khát
+Khoảnh Khắc Hình Thành
+(Từ Việc Nhận Được Một Đặc Điểm Khoảnh Khắc Hình Thành)
+{0.SimFirstName} nhận được phần thưởng này:\n{2.String}
+{0.SimFirstName} đã gửi một bài bình luận phong cách được đánh giá cao đến nhà xuất bản!
+Bài bình luận phong cách của {0.SimFirstName} không được chấp nhận.
+(Từ Sự Kiện Ảnh Ảnh Phong Cách)
+{0.SimFirstName} đã gửi một bài báo được đánh giá cao đến nhà xuất bản.
+{0.SimFirstName} đã gửi một bài báo tồi.
+Cân Nặng của Sim Giảm
+Cân Nặng của Sim Tăng
+{0.SimFirstName} đã gặp {1.SimFirstName} khi đang ở trường!
+Hoàn Thành Bài Tập Bù
+{0.SimFirstName} đã hoàn thành {M0.bài tập bù}{F0.bài tập bù} của {M0.anh ấy}{F0.cô ấy} cho ngày hôm nay.
+Hoàn Thành Bài Tập Thêm
+“{M0.Hoàng Tử}{F0.Công Chúa} của Những Trò Quậy.” “Kẻ Phá Hủy {1.String}” Tất cả các danh hiệu được trao cho {0.SimFirstName} vì {M0.sự} {F0.sự} điên rồ của {M0.anh ấy}{F0.cô ấy} khi trang trí phòng gym cho Buổi DANCE {1.String}. Chắc chắn, {M0.anh ấy}{F0.cô ấy} đã gặp một chút rắc rối với giáo viên, nhưng đó là một phần của sự vui vẻ! Tất cả trường đều nghĩ {0.SimFirstName} rất hài hước và buổi dance hay hơn nhiều so với nếu như nó vốn có thể.
+Tại sao phải trang trí cho Buổi DANCE {1.String} khi bạn có thể phá hỏng nó thay vào đó? Đó là ý tưởng ít nhất là vậy. {0.SimFirstName} có lẽ nên chỉ trang trí như {M0.anh ấy}{F0.cô ấy} đã nói {M0.anh ấy}{F0.cô ấy} sẽ làm. Không chỉ những trò đùa thất vọng thay vì buồn cười, mà khi giáo viên cắn một cái bánh kẹp đầy tương cà—họ biết chính xác ai là người đổ lỗi. {0.SimFirstName} đã dành phần còn lại của ngày ngồi trong hành lang trong khi tất cả mọi người khác vui vẻ.
+{0.SimFirstName} có thể được giao nhiệm vụ dựng lên cho "một Buổi DANCE {1.String}," nhưng thay vào đó, {M0.anh ấy}{F0.cô ấy} sẽ dựng lên cho "BUỔI DANCE {1.String}." Với một màn lụa cờ, dải giấy, bánh kẹ và nước ngọt (không theo nghĩa đen—đó sẽ bừa bộn), {0.SimFirstName} đã trang trí phòng gym cho một Buổi DANCE {1.String} sẽ được nhớ đến trong nhiều năm!
+{0.SimFirstName} bước vào với hy vọng bùng cháy! {M0.Anh ấy}{F0.Cô ấy} đã lên kế hoạch làm cho đây là buổi dance {1.String} tốt nhất từ trước đến nay! Đó là trước khi {M0.anh ấy}{F0.cô ấy} thấy những gì {M0.anh ấy}{F0.cô ấy} phải làm việc với. Trang trí nhàu nát. Không có đồ ăn nhẹ. Nhạc kịch Polka! Để tệ hơn, không ai khác đã tình nguyện. Khi buổi dance bắt đầu, mọi người đổ lỗi cho {0.SimFirstName} vì thời gian buồn tẻ họ có.
+Mất hầu hết cả ngày cho {0.SimFirstName} để gồng mình lên và mời một sim đặc biệt đến bữa tiệc, nhưng nó hoàn toàn xứng đáng! {0.SimFirstName} ăn cắp những cái liếc nhìn e thẹn ở {M0.bạn bè}{F0.người yêu} của {M0.anh ấy}{F0.cô ấy} khi họ tụ tập dọc theo bức tường và trò chuyện khó xử về các lớp học, thể thao trường học, và thời tiết (một cách kỳ lạ đã trở nên tích cực gần đây)! Khi bữa tiệc kết thúc, trái tim của {0.SimFirstName} đã đập thình thịch!
+Nó cần can đảm! Đó là điều {0.SimFirstName} sẽ phải liên tục nói với {M0.chính mình}{F0.chính mình}. Khoảnh khắc {M0.anh ấy}{F0.cô ấy} mời sim đặc biệt đó đến Bữa Tiệc {1.String}, chính là khoảnh khắc {M0.anh ấy}{F0.cô ấy} bị từ chối. Phản hồi "Không" đã tức thời và theo sau là những tiếng cười chế giễu tàn nhẫn của {M0.bạn bè lớp}{F0.bạn bè lớp} của {M0.anh ấy}{F0.cô ấy}. {0.SimFirstName} đã dành bữa tiệc trốn trong phòng tắm. Xấu hổ. Với một chiếc bánh Llama—điều đó rất ngon nhưng không bù đắp được những gì vừa xảy ra.
+{0.SimFirstName} không quan tâm đến việc mời ai đó cụ thể. Thay vào đó, {M0.anh ấy}{F0.cô ấy} quyết định tập trung đơn giản là trở thành linh hồn của bữa tiệc! Trong khi {M0.bạn bè lớp}{F0.bạn bè lớp} của {M0.anh ấy}{F0.cô ấy} say sưa với những cuộc trò chuyện khó xử và "đứng tựa tường," {0.SimFirstName} dẫn đầu sự vui vẻ! Ai là người tặng hoa cho tất cả mọi người tham dự? Ai là người bắt đầu cuộc thi Chubby Llama? Và ai là người thuyết phục giáo viên chơi nhạc hay? {0.SimFirstName}, tất nhiên rồi! Đó là một bữa tiệc trường học huyền thoại chỉ đặt ra một câu hỏi: {0.SimFirstName} đã làm gì với những người giám sát?
+Liệu việc {0.SimFirstName} đi một mình có làm cho nó trở thành Bữa Tiệc Trường Học {1.String} tệ nhất mọi thời đại? HOẶC liệu việc {M0.anh ấy}{F0.cô ấy} đổ nước ngọt lên {M0.chính mình}{F0.chính mình}, trượt trên sàn, và sau đó vô tình đổ một giáo viên! Bởi vì, mặc dù {0.SimFirstName} cảm thấy khá khó xử đứng một mình dọc theo bức tường, chuyện đổ một giáo viên thì thực sự rất tệ.
+"Nhạy cảm, Ngọt ngào, Quyến rũ, Gợi mở suy nghĩ"—đây là một vài từ mô tả mà các đứa trẻ thì thầm về {0.SimFirstName} trong các hành lang. Một số người nói, thằng bắt nạt trường học đã từ bỏ 'sưu tập thuế' trước đây của mình trên bữa trưa trường học, những cô gái nổi tiếng đang cho phép bất kỳ ai ngồi cùng họ (ngay cả khi họ không mặc đồ hồng), và không ai bị nhét vào tủ locker hôm nay—và tất cả đều là nhờ những tấm card của {0.SimFirstName}! Đây có phải là cảm giác trở thành huyền thoại tuổi teen?
+(Từ Một Sự Kiện Công Việc)
+(Từ Một Sự Kiện Trường Học)
+(Từ Sử dụng Nhà Vệ Sinh Ngoài Trời)
+(Từ Ăn Một Món S'more)
+(Từ Ăn Một Kẹo Nướng)
+(Từ Lửa Trại)
+(Từ Xem Một Cây Bonsai)
+(Từ Đốt Con Búp Bê Voodoo)
+(Từ Thất Bại Trong Màn Nhảy Lửa)

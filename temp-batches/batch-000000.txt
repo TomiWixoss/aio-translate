@@ -1,0 +1,100 @@
+<span class="pink">Bắt đầu lại với những Sim mới, Ngôi nhà mới và Câu chuyện mới.</span>
+<span class="blue">TIẾP TỤC CHƠI</span>
+<span class="blue">Hướng dẫn đã kết thúc nhưng bạn có thể tiếp tục chơi Hộ gia đình này.</span>
+<span class="green">THÊM SIM MỚI VÀO HỘ GIA ĐÌNH NÀY</span>
+<span class="green">Việc thêm Sim thứ hai vào Hộ gia đình này sẽ làm cho The Sims 4 trở nên phong phú hơn.</span>
+CHỌN NGỮ CẢNH MỚI
+Có vô số câu chuyện bạn có thể kể trong The Sims 4. Dưới đây là một vài lựa chọn!
+<span class="green">XÂU LỐI</span>
+<span class="green">KẺ THÙ CÔNG CHÚNG</span>
+<span class="green">Con đường hoàn hảo cho những Sim tìm kiếm mặt tối bẩm thỉu của cuộc sống.</span>
+<span class="pink">KIẾN TRÚC SƯ</span>
+<span class="pink">CHỦ NHÂN DINH THỜI</span>
+<span class="pink">Tiết kiệm từng xu để đầu tư lại vào những ngôi nhà tuyệt vời mà BẠN thiết kế cho Sim của mình.</span>
+<span class="blue">LÃNG MẠN</span>
+<span class="blue">NGƯỜI TRI KỲ</span>
+<span class="blue">Ghép đôi hai Sim để chứng kiến tình yêu đích thực.</span>
+<span class="yellow">TẬP TRUNG SỨC NGHỆ</span>
+<span class="yellow">SIÊU GIÀU CÓ</span>
+<span class="yellow">Đưa Sim của bạn thẳng lên đỉnh thang công danh để đạt được của cải và thành công.</span>
+Bài học
+HÌNH ẢNH BÀI HỌC CỤ THỂ
+{0.Number}/{1.Number}
+Lỗi Tải
+Chuyển Tiền
+Không Thể Có Quá Nhiều Tiền
+Không Đủ Tiền Để Chuyển
+Chuyển Tiền
+Số tiền cần chuyển:
+Bạn Đang Trực Tuyến!
+Bạn Đang Ngoại Tuyến
+Tốc Độ Nhanh - 2
+Tốc Độ Cực Nhanh - 3
+Tốc Độ Bình Thường - 1
+Tạm Dừng - 0
+Tùy Chọn Máy Ảnh
+{0.Number}/{1.Number}
+0-9
+Không thể mở Lớp Phủ Trò Chơi
+Gỡ Lỗi
+Trò Chơi Gốc
+Không Có Mối Quan Hệ Lãng Mạn
+Nâng Cấp
+Giá
+Không, cảm ơn
+{0.String} là một phần của {1.String}!
+Bạn có muốn nâng cấp mua hàng của mình lên {0.String} không?
+Chuẩn bị gói để tải xuống
+Bạn sẽ nhận được thông báo khi tải xuống hoàn tất.
+Phòng {0.String} đã được lưu vào Thư viện của tôi.
+Xăm hình {0.String} đã được lưu vào Thư viện của tôi.
+Hộ gia đình {0.String} đã được lưu vào Thư viện của tôi.
+Lô đất {0.String} đã được lưu vào Thư viện của tôi.
+Nhấn &lt;b&gt;Shift+F1&lt;/b&gt; để xem các mục đang tải xuống bằng Lớp Phủ Trò Chơi. Bạn sẽ nhận được thông báo khi tải xuống hoàn tất.
+Tải xuống hoàn tất
+Không Có Mối Quan Hệ Lãng Mạn
+Xem Thư viện Của Tôi
+Một hoặc nhiều mục bạn đã lưu qua The Sims 4 Gallery trên web không còn khả dụng.
+Kiểm tra Thư viện của bạn để xem nội dung mới được lưu qua The Sims 4 Gallery trên web!
+Đặt Phòng
+Không thể đặt Phòng trong chế độ chơi này.
+Áp Xăm Hình
+Không thể áp xăm hình trong chế độ chơi này.
+Đặt Hộ Gia Đình
+Không thể đặt Hộ Gia Đình trong chế độ chơi này.
+Đặt Lô Đất
+Không thể đặt Lô Đất trong chế độ chơi này.
+Nội dung chưa được cài đặt
+Nội dung đã mua hoặc nội dung khác được sử dụng trong mục Gallery này chưa được cài đặt. Nếu bạn đặt nó ngay bây giờ, bạn sẽ không thấy nội dung chưa được cài đặt.
+Đang tải xuống
+Nội dung đã mua hoặc nội dung khác được sử dụng trong mục Gallery này vẫn đang tải xuống. Nếu bạn đặt nó ngay bây giờ, bạn sẽ không thấy nội dung đang tải xuống.
+Bạn vẫn muốn đặt phòng này không?
+Bạn vẫn muốn áp xăm hình này không?
+Bạn vẫn muốn đặt hộ gia đình này không?
+Bạn vẫn muốn đặt lô đất này không?
+Nội dung Sims Delivery chưa được cài đặt
+Có nội dung Sims Delivery đang được sử dụng trong tệp lưu này nhưng hiện chưa được cài đặt và sẽ không thể sử dụng trong trò chơi.\n\nMột số đối tượng sẽ bị xóa hoặc thay thế nếu tiếp tục với trò chơi đã lưu này mà không tải xuống và cài đặt nội dung này.\n\nBạn có muốn tiếp tục không?
+Có, chơi ngay.
+Để yên.
+Gắn Thẻ Ai Đó
+Gắn Thẻ Sim
+Gửi Tin Nhắn
+Xóa liên hệ
+Đăng Cá Nhân Gì Đó
+{0.SimFirstName}
+Thêm một vài Sim vào Danh bạ của bạn để gắn thẻ họ!
+Trải nghiệm một số sự kiện để đăng về!
+Bài Viết Mới
+Đi gặp thêm nhiều Sim!
+Thêm vào Danh Sách Liên Hệ
+Tin Nhắn
+Gửi tin nhắn cho liên hệ
+Bạn Bè
+{0.Number} Người Theo Dõi
+Bảng Tin
+Chia sẻ trải nghiệm của bạn!
+Bây giờ bạn đã thêm bạn bè, hãy chia sẻ trải nghiệm và\ntương tác với những Social Bunny đó bằng các tính năng sau.
+Chào Mừng Đến Với Social Bunny!
+{0.String}\n&lt;font color=&quot;#EC262E&quot;&gt;Chưa cài đặt&lt;/font&gt;
+Cần Khởi Động Lại
+Cần khởi động lại để đảm bảo tất cả các gói cho trò chơi lưu này được kích hoạt và nội dung dùng thử chỉ khả dụng cho trò chơi lưu dùng thử.

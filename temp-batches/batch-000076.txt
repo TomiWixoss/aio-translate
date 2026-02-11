@@ -1,0 +1,100 @@
+Thảo luận về Hòa bình Thế giới
+Thảo luận về Hòa bình Dải Ngân hà
+Thảo luận về Nghệ sĩ violon với {1.SimFirstName}
+Thảo luận về Nghệ sĩ violon Tốt nhất
+Thảo luận về Thống kê Thể thao với {1.SimFirstName}
+Thảo luận về Thống kê Thể thao
+Thảo luận về Những thay đổi Khu phố với {1.SimFirstName}
+Thảo luận về Những thay đổi Khu phố
+Thảo luận về Đố vui logic với {1.SimFirstName}
+Thảo luận về Đố vui logic
+Thảo luận về Địa điểm Câu cá với {1.SimFirstName}
+Thảo luận về Địa điểm Câu cá Địa phương
+Thảo luận về Địa điểm Câu cá Bí mật Địa phương
+Thảo luận về Trò chơi Mới nhất với {1.SimFirstName}
+Thảo luận về Trò chơi Mới nhất
+Thảo luận về Sách Mới nhất với {1.SimFirstName}
+Thảo luận về Sách Mới nhất
+Thảo luận về Holobook Mới nhất
+Thảo luận về Sự thiếu Tờ báo với {1.SimFirstName}
+Thảo luận về Sự thiếu Tờ báo
+Thảo luận về Sở thích với {1.SimFirstName}
+Thảo luận về Sở thích
+Thảo luận về Khả năng Ma thuật
+Thảo luận về Hydration với {1.SimFirstName}
+Thảo luận về Hydration
+Thảo luận về Món ăn Đặc sản với {1.SimFirstName}
+Thảo luận về Món ăn Đặc sản
+Thảo luận về Thể dục với {1.SimFirstName}
+Thảo luận về Kỹ thuật Thể dục
+Thảo luận về Ẩm thực Tinh tế với {1.SimFirstName}
+Thảo luận về Ẩm thực Tinh tế
+Thảo luận về Công thức Yêu thích với {1.SimFirstName}
+Thảo luận về Công thức Yêu thích
+Thảo luận về Ban nhạc Yêu thích với {1.SimFirstName}
+Thảo luận về Ban nhạc Yêu thích
+Thảo luận về Tác giả Yêu thích với {1.SimFirstName}
+Thảo luận về Tác giả Yêu thích
+Thảo luận về Nghệ sĩ Yêu thích với {1.SimFirstName}
+Thảo luận về Nghệ sĩ Yêu thích
+Thảo luận về Mở rộng Gia đình
+{0.SimFirstName} không có tâm trạng để hỏi loại câu hỏi này.
+Dù điều đó nghe tuyệt vời, tôi không cảm thấy thoải mái để làm điều đó vào lúc này.
+Thảo luận về Trang phục
+Thảo luận về Trang phục với {1.SimFirstName}
+Thảo luận về Những chiến công với {1.SimFirstName}
+Thảo luận về Những chiến công
+Thảo luận về Lý thuyết Màu sắc với {1.SimFirstName}
+Thảo luận về Lý thuyết Màu sắc
+Mô tả Cuộc xâm lược Robot
+Nghe về Cuộc xâm lược Robot
+Mô tả Chiến thuật Dejarik
+Lắng nghe {1.SimFirstName}
+Mô tả Ý tưởng Mới
+Lắng nghe {1.SimFirstName}
+Mô tể Bạn tưởng tượng
+Nghe về Apocalypse từ {1.SimFirstName}
+Mô tả Apocalypse
+Lắng nghe {1.SimFirstName}
+Mô tả Thẩm mỹ
+Bị xúc phạm bởi {1.SimFirstName}
+Lên án Tình bạn
+Lắng nghe Yêu sách của {1.SimFirstName}
+Đòi Quyền Tự chủ
+Có Cuộc trò chuyện Sâu sắc với {1.SimFirstName}
+Cuộc trò chuyện Sâu sắc
+Trao đổi Chuyện phiêu lưu Hải tặc
+Chia sẻ Những câu chuyện về Thử thách Cá nhân
+Tuyên bố Ngừng bắn với Kẻ thù
+Trở thành Kẻ thù với {1.SimFirstName}
+Tuyên bố Kẻ thù
+La hét Vì Đã làm ra Kẻ thù
+Phạt Thời gian ra vì Đã làm ra Kẻ thù
+Ôm nhau vì Đã làm ra Kẻ thù
+Nói Đừng Làm ra Kẻ thù
+Cấm nhà vì Đã làm ra Kẻ thù
+Hỏi Đừng Làm ra Kẻ thù
+Thể hiện Sự thất vọng vì Đã làm ra Kẻ thù
+Khuyến khích Làm ra Kẻ thù
+Một lớp phủ giúp lò vi sóng luôn sạch sẽ
+Lõi Có Phủ Lớp
+Tiếp tục Nâng cấp Tự Làm Sạch
+Khóa Bụi Bẩn.
+Tự Làm Sạch
+Tiếp tục Nâng cấp Tăng Cường Hương Vị
+Cài đặt tự làm sạch, Splatter-Platter và không bao giờ phải lau lò vi sóng nữa.
+Tăng Cường Hương Vị
+Nâng cấp hoàn tất!\n\n{0.SimFirstName} đã hoàn thành việc cài đặt nâng cấp cho lò vi sóng.
+Làm sạch với Nhiệt huyết
+Sim được tăng năng lượng làm sạch nhanh hơn rất nhiều!
+Việc lấy mẫu từ loại thực vật nguy hiểm này yêu cầu các bầu vú của nó phải đầy ắp do được nuôi dưỡng tốt.
+{0.SimFirstName} sẽ có thể làm việc này khi {M0.he}{F0.she} trưởng thành.
+Lấy Mẫu Kính Hiển Vi
+Tiếp tục Cải thiện Chất lượng Ống Kính
+Cải thiện Chất lượng Ống Kính
+Tiếp tục Hoàn thiện Bộ phận Bên trong
+Hoàn thiện Bộ phận Bên trong
+Tiếp tục Củng cố Bộ phận Bên trong
+Củng cố Bộ phận Bên trong
+Nâng cấp lên Ống kính Aplanatic 4000X tăng cơ hội thành công khi sử dụng Kính hiển vi.
+Sự hoàn hảo không bao giờ hỏng.

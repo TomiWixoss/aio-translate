@@ -1,0 +1,100 @@
+Dạy Vật thể
+Lệnh Học Vật thể
+Dạy Chữ cái
+Lệnh Học Chữ cái
+Dạy Số
+Lệnh Học Số
+Dạy Động vật
+Lệnh Học Động vật
+Dạy Nhu cầu Cơ bản
+Lệnh Suy nghĩ
+Chơi
+Lệnh Chơi
+Lưng của {0.SimFirstName} đau quá, không thể làm việc này!
+Đọc Sách cho Trẻ mới biết đi
+Lệnh Nghe Kể chuyện
+Lệnh Nghe Kể chuyện
+Đưa đi Ngủ
+Cần có Giường Trẻ mới biết đi.
+Lệnh Đi Ngủ
+Huấn luyện Vệ sinh
+Cần có Ghế xí.
+Lệnh Đi Vệ sinh
+Loại bỏ Tình trạng Phụ thuộc Chăm sóc
+Cho Ăn
+Cần có Ghế Ăn.
+Cho Uống
+Cần có Ghế Ăn.
+Dạy Nhảy múa
+Lệnh Nhảy múa
+Thay Tã
+Lệnh Thay Tã
+Tã của {1.SimFirstName} không cần thay.
+Cho Tắm Bong bóng
+Lệnh Tắm Bong bóng
+Cho Tắm
+Lệnh Tắm
+Lệnh Tự làm sạch
+Cần có Bồn tắm.
+Cần có Bồn rửa.
+Cho {1.SimFirstName} Một Cuộc Tắm Nhanh và Ấm áp
+Cho {2.SimFirstName} Một Cuộc Tắm Nhanh và Ấm áp
+Dọn dẹp
+Đọc cho Ngủ
+Cần có Giường Trẻ mới biết đi.
+Lệnh Đi Ngủ Kể chuyện
+Xin lỗi
+Đề nghị Đu xà
+Đề nghị Đẩy Xà
+Chia sẻ Phát hiện về Đầm Lầy Bị Lãng quên
+Một đầm lầy bị lãng quên? Nghe như một cuộc săn tìm vô ích. Hãy trung thực với thực tế...
+Thật đáng kinh ngạc! Nó khiến tôi nhớ đến phép màu ở Rừng Cây Tím. Những nơi ẩn giấu chứa đựng những bí mật quyến rũ như vậy!
+Nghe có vẻ xa vời với tôi. Không phải hang động nào cũng chứa kỳ quan. Bạn đang theo đuổi những bóng ma.
+Thật hấp dẫn! Tôi luôn tin rằng có nhiều điều để khám phá bên ngoài bề mặt. Có lẽ chúng ta có thể cùng nhau tìm ra thêm bí mật!
+Hỏi về Tiếng thì thầm
+{0.SimFirstName} đã nói chuyện với Sim này về những gì bạn tìm thấy trong Đầm Lầy Bị Lãng quên
+Tôi nghĩ tôi tưởng tượng ra! Thật an ủi khi biết rằng tôi không một mình trong việc cảm nhận bí ẩn xung quanh chúng ta.
+Tôi không nghe thấy gì cả, và thành thật mà nói, tôi nghĩ bạn đang tưởng tượng ra. Hãy trung thực với thực tế, được chứ?
+Hỏi về PlantSims
+Hãy lấy Đậu Thần kỳ này! Trồng cây sẽ mở đường đến Trái Cấm Kỵ. Hãy tưởng tượng khả năng trở thành một PlantSim!
+Trái Cấm Kỵ có thể dẫn đến những biến đổi bất ngờ. Có lẽ bạn không thể chịu đựng được sự thay đổi như vậy.\n\nHãy lấy Đậu Thần kỳ này, tôi không muốn nó.
+Đậu Thần kỳ và Cây Cổng? Nghe như một câu chuyện cổ tích. Trái Cấm Kỵ có thể gây nhiều rắc rối hơn là lợi ích.\n\nVì bạn có vẻ rất quan tâm, hãy lấy Đậu Thần kỳ mà tôi tìm thấy này.
+Bạn đã hỏi Sim này về PlantSims rồi.
+PlantSims? Đây là một Đậu Thần kỳ cho bạn. Nó có thể giúp biến khu vườn của bạn thành Cây Cổng Đậu Thần kỳ Mê hoặc.\n\nVà bạn thậm chí còn có thể trồng Trái Cấm Kỵ để có thêm kỳ quan!
+{0.SimFirstName} đã lên kế hoạch cho một trò đùa vào ngày học tiếp theo rồi!
+{0.SimFirstName} đã lên kế hoạch cho một trò đùa vào ngày làm việc tiếp theo rồi!
+Lập kế hoạch Trò đùa với {1.SimFirstName}
+Thảo luận Kỹ thuật Sửa chữa
+Yêu cầu Lời khuyên Sửa chữa
+Thảo luận Kỹ thuật Trồng trọt
+Yêu cầu Lời khuyên Trồng trọt
+Đề nghị Dẫn dắt
+Yêu cầu Dẫn dắt
+Hỏi về Bức xạ
+Chia sẻ Mảnh Thời gian
+Hỏi về Vật thể Mất tích
+Giới thiệu Bản thân
+Tạm biệt
+Kể về Ý định thực sự của Kẻ trộm
+Báo cáo về Thời gian Vũ khí
+Hỏi về Hỏng hóc
+Hỏi về Vật thể Mất tích
+Báo cáo Thí nghiệm
+Hỏi về Mảnh
+Hỏi về Ambrosia
+Kể về Việc Xem TV
+Kể về Việc Chơi Game
+Kể về Cuộc Phiêu lưu
+Yêu cầu Giúp đỡ với Ống kính Hư hỏng
+Trò chuyện
+Khi {0.SimFirstName} đến gần, {0.SimPronounSubjective} {S0.overhears}{P0.overhear} Sứ giả lẩm bẩm điều gì đó về lò sưởi.\n\nGiật mình, sứ giả nhanh chóng quay lại và nói, &quot;Sao? Ồ, tôi không nói gì đâu. Chỉ đang tận hưởng bầu không khí thôi!&quot;
+Ngạc nhiên!
+Hỏi về Thư viện
+Sứ giả trông ngạc nhiên khi thấy {0.SimFirstName} ở thư viện... \n\nHọ nói nhanh, &quot;À! Tôi không nghĩ bạn sẽ đến đây nhanh như vậy... Kho báu Gia đình Darong được giấu ở đâu đó trong những kho lưu trữ cũ này. Tại sao không giúp tôi tìm ra vị trí của nó? Tôi tin rằng bạn sẽ là người gác bí mật tiếp theo của di sản họ!&quot;\n\nNói xong, Sứ giả lại một lần nữa biến mất, sự rời đi của họ khiến người ta nghi ngờ.
+Tha thứ
+Báo cáo Hoạt động
+Thảo luận Lãng mạn và Âm nhạc
+Sứ giả, rõ ràng là muốn rời đi, nói, &quot;Ồ, nhìn kìa, tôi thực sự phải đi rồi. Đừng bận tâm theo tôi, nhưng lắng nghe này...Tôi nghĩ bạn nên dành thời gian để học chơi âm nhạc lãng mạn. Nếu bạn khám phá ra điều gì...thú vị...chỉ nên nói với tôi! Thôi, tks, bye.&quot;
+Theo chương trình này...thì khá thông thường khi tìm thấy tình yêu tại một câu lạc bộ đêm; dường như đó là nơi lý tưởng kết nối với âm nhạc và tình yêu.
+Mang
+Yêu cầu {2.SimFirstName} Mang Từ đây

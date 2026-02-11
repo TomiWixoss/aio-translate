@@ -1,0 +1,100 @@
+Show whether a Sim was adopted by their parents within their Sim Profile.
+Reset Tutorial Situations
+Allows Sims to call and invite your Sim on a Date or to request changing the romantic relationship status with your Sim.\n\nThis includes but is not limited to:\n• All Date Invitations\n• Romantic Prom Invitations <i>(High School Years)</i>\n• Being Asked to Become Romantic Partners <i>(High School Years</i> and <i>Lovestruck)</i>\n• Being Asked to Become Engaged <i>(High School Years</i> and <i>Lovestruck)</i>
+Allows Sims to call and invite your Sims to different locations or to request changing the friendly relationship status with your Sim.\n\nThis includes but is not limited to:\n• Child Play Date Invitations\n• Birthday Party Invitations\n• Restaurant Invitations <i>(Dine Out)</i>\n• Bar Night Invitations <i>(Get Together)</i>\n• Lounge Event Invitations <i>(Get Famous)</i>\n• City Invitations <i>(City Living)</i>\n• Friendly Prom Invitations <i>(High School Years)</i>\n• Ask to be Best Friends <i>(High School Years)</i>
+Allows Sims to initiate a breakup automatically if they see their Romantic Partner breaking their Romantic Boundaries, or if they are Mean to each other while their Romantic Satisfaction is low.
+Allows other Sims to call and extort Active Sims who have a secret, causing a Scandal if the Sim doesn't pay up.
+Lifestyles are an expression of a Sim's behaviors and habits over time. When toggled on, Sims can acquire Lifestyles which changes autonomy and grants various gameplay effects per Sim. <b><font color="#EC262E">Warning:</font></b> Turning this off will remove all Lifestyles from a save file.
+Adjusts the lifespan of your Sims. The higher this setting, the longer your Sims live.
+Enables notifications for Lessons.
+Enables Sims, Cats, Dogs, and Horses to age over time. If disabled, they will not age up.
+Allows Burglars to visit Residential and other owned lots occasionally, attempting to steal Sims' possessions.
+Disables Autonomy for the selected household member while other Sims roam free with Autonomy On.
+12-Hour Clock
+Adjusts the level of free will that Sims demonstrate. When Off, Sims will only react to events in order to preserve their own lives
+Enables unplayed Sims, Cats, Dogs, and Horses to age over time. If disabled, they will not age up.
+Frees up memory, reduces lag, improves frame rates, and helps prevent crashes. Restart required.\nRecovery saves will be labeled "Memory Boost".<i>Compatible with DirectX 11 only.</i>\nToggle Options: "Automatic" for game-managed settings, "Enabled" to activate (DirectX 11 only), or "Disabled" to keep original settings.\n\n<b>Switching modes may affect save compatibility.</b>
+Memory Boost\n(Early Access)
+Enabled
+Disabled
+Automatic
+Adjusts if Sims gain fame by default. If checked, Sims will no longer gain fame.\n\nThe following Sims will be affected:\n• Sims who have not yet gained any fame.\n• All newly created Sims.\n\nThe following Sims will not be affected:\n• Sims that have already gained any fame.\n• Sims who have had their fame settings individually adjusted in Live Mode.\n\nThis setting can be overridden, and the fame status of individual Sims can be changed at any time by selecting "Step Into the Spotlight" within the Fame Info window.
+Toggling this option will adjust if Sims have the ability to gain fame by default or not.
+Sims Begin Opted Out of Fame
+* Eco Lifestyle gameplay does not appear in Destination Worlds or StrangerVille.
+If disabled, voting at the Community Board is user-directed only.
+Enable NPC Voting
+If disabled, Neighborhood Action Plans and game objects will no longer affect the environment.
+Enable Eco Footprint Gameplay
+If enabled, architectural elements such as wallpaper, floor patterns, roof materials, doors, windows, pools, fountains, trees, and more will grant effects to gameplay elements like environment score, eco footprint, and utilities. Check the tooltips for each item to see what effects they might apply!
+Try Game Trial
+Gallery
+Play Scenario
+Resume Game
+Options
+New Game
+New Trial Game
+Load Game
+Library
+Waxing Gibbous Moon
+Waxing Crescent Moon
+Waning Gibbous Moon
+Waning Crescent Moon
+Third Quarter Moon
+New Moon
+Full Moon
+First Quarter Moon
+Current Lunar Phase:
+Get your Sims out! Click on the Phone to begin traveling.
+Handy Sims can use the Woodworking Table to make their own furniture and sculptures.
+Many Careers have a daily task to boost performance! Hover over the performance bar to learn more.
+The Gallery contains amazing creations from your fellow Simmers!
+You can click and hold a Plate in Live mode to drag it into the garbage!
+Buy Seeds by clicking on a Plant Box, bought in Build Mode, to begin Gardening.
+Hit F4 to open the Gallery!
+Your house has an inventory in Build Mode where career rewards go!
+Information about your Sims can be found in the Info Panels at the bottom right.
+Change Camera settings in the Options Menu.
+Hit "G" to toggle the Grid on and off in Build Mode.
+Use the "B" shortcut key in Build Mode to quickly select the Wall Tool.
+Click on fishing signs found all over the world near water to fish.
+Aspirations can be switched at any time without losing progress!
+The computer has an interaction that lets you Adopt a new family member.
+Pick up a guitar, violin, or piano to give the gift of music to your Sims!
+Resize the game window by just dragging the edge in windowed mode.
+Building Lot
+Dimmer
+Color
+This feature is not currently available.
+<font color='#ff0000'> Spoiled </font>
+Inscription: {0.String}
+{0.Money}
+Art Style: {0.String}
+Report
+Your report has been successfully logged.
+We are unable to process your report at this time. Please try again.
+Report
+Plagiarism
+Terrorist Threat
+Suicide Threat
+Child Solicitation
+Offensive Content
+Inappropriate Content
+Hate Speech
+Harassment or Threats
+Harassment
+Commercial Advertisement
+Description:
+Please specify why you are reporting this content:
+Unsupported Video Card
+Unrecognized Video Card
+Your computer has insufficient memory to run The Sims 4 with your currently installed pack(s). This may lead to poor game stability.
+https://help.ea.com/help/the-sims/the-sims-4/the-sims-4-system-requirements/
+The game is running in 32 bit mode, which may lead to poor stability with the currently installed pack(s). You can switch to 64 bit mode in Origin. Click here to learn more.
+https://help.ea.com/help/the-sims/the-sims-4/when-to-use-the-sims-4-64-bit-or-32-bit-version/
+Learn More
+You are running the 64 bit game executable on a system that does not meet recommended specifications and may experience game instability or performance problems. We recommend that you switch to the 32 bit executable in Origin via the Game Properties panel. See the <span class='link'><a href='event:http://help.ea.com/article/when-to-use-the-sims-4-64-bit-or-32-bit-version'>64 Bit FAQ</a></span> for more details.
+Go Back
+Continue Anyway
+Help Center
+Emily here! How can I help?

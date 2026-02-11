@@ -1,0 +1,100 @@
+Chăm sóc Động vật
+Nghiệp khoa học
+Thuốc đặc biệt
+Sáng chế
+Điều tra StrangerVille
+Ghi chú StrangerVille
+Truyền thuyết và Huyền thoại Gibbi Point
+Ghi chú Gibbi Point
+Bị vô hiệu hóa bởi hướng dẫn
+Một ngày nào đó, và hoàn toàn khác sẽ chiếm tâm trí của mọi Sim.
+Các chủ đề này sẽ còn thịnh hành thêm vài ngày nữa.
+Cần khoảng nửa ngày trước khi các xu hướng này không còn nữa.
+Các xu hướng này có lẽ sẽ thay đổi trong vài giờ tới.
+Nấu ăn gia đình
+Nấu ăn cao cấp
+Hài kịch
+Sức hút
+Gốm
+Xăm hình
+Đá quý
+Robot
+Cuộc sống ngôi sao
+Diễn xuất
+Khoa học tên lửa
+Sản xuất truyền thông
+Vlog tập trung
+Vlog buồn
+Bowling
+Vlog vui vẻ
+Vlog truyền cảm hứng
+Vlog vui sướng
+Vlog thả thính
+Vlog tràn đầy năng lượng
+Vlog xấu hổ
+Vlog bối rối
+Vlog tự tin
+Vlog tức giận
+Du lịch
+Nướng bánh
+Trẻ em
+Mẹo thời trang
+Mẹo làm đẹp
+Viết
+Sức khỏe
+Violin
+Chơi game
+Thú y
+Truyền thuyết Ma cà rồng
+Hát
+Khảo cổ
+Lập trình
+Ống organ
+Piano
+Nhiếp ảnh
+Huấn luyện thú cưng
+Làm cha mẹ
+Vẽ tranh
+Pha chế
+Nghịch ngợm
+Lập luận
+Đánh giá đồ chơi
+Văn hóa Selvadoradia
+Thảo mộc
+Khéo léo
+Guitar
+Trồng cây
+Cắm hoa
+Thể dục
+Câu cá
+DJ pha nhạc
+Nhảy
+Đánh giá công nghệ
+Đánh giá làm đẹp
+Các vị khách ở nhà bạn đã về nhà.
+Tìm hiểu thêm...
+Chào mừng đến với Chuyến đi của bạn
+Lô đất này là nhà tạm thời cho tất cả Sim trong Chuyến đi này, bao gồm một Lịch trình để dẫn dắt cuộc phiêu lưu phía trước. Mỗi ngày bao gồm các hoạt động chính và hoạt động vai trò, có thể xem hoặc điều chỉnh bất kỳ lúc nào từ bảng ở góc trên-trái trong Chế độ Sống. Theo kế hoạch hoặc thoát ra, kết quả vẫn mang lại phần thưởng đặc biệt dựa trên cách Chuyến đi diễn ra!\n\nChọn &lt;b&gt;Tìm hiểu thêm&lt;/b&gt; bên dưới để có tổng quan nhanh!
+Với Luật Loại bỏ đang hoạt động, một đặc điểm hoặc vật phẩm thưởng đã được trao! Kiểm tra kho đồ của Sim trong hộ gia đình hoặc bảng Thông tin Sim để tìm hiểu thêm!
+Một phần thưởng đặc biệt từ Luật {0.String} đã được mở khóa! Kiểm tra kho đồ của Sim trong hộ gia đình hoặc Tường Thông báo để xem phần thưởng.
+{0.SimFirstName} đã nhận được Điểm Thỏa mãn từ Chuyến đi!
+Chúc mừng! Chuyến đi đã kết thúc!
+Chuyến đi đã kết thúc do không đủ tiền trong hộ gia đình!
+{1.String}\n{2.String}
+Chuyến đi Hoàn thành!
+Với các Luật Chuyến đi đang áp dụng, bạn đã kiếm được phần thưởng sau:
+Tuyệt vời! Bạn đã hoàn thành nhiều Hoạt động Chính trong lịch trình Chuyến đi này và nhận được đặc điểm thưởng sau:
+Chuyến đi Đã Kết thúc!
+Chuyến đi đã kết thúc vì có thay đổi trong hộ gia đình hiện tại hoặc loại lô đất. Để lên lịch một Chuyến đi khác, hãy đặt loại lô đất đủ điều kiện trong Chế độ Xây dựng.
+Chuyến đi Sắp Kết thúc
+Chỉ còn {0.Number} {S0.hour}{P0.hours} trước khi Chuyến đi kết thúc. Có thể đã đến lúc gói đồ và tạm biệt!
+Chuyến đi Đang Kết thúc
+Còn 1 ngày trong Chuyến đi này. Để gia hạn thời gian lưu trú, hãy sử dụng Điện thoại hoặc Máy tính và chọn Gia hạn Chuyến đi.
+Gia hạn Chuyến đi
+Chào mừng trở lại! Vẫn còn {1.Timespan} trong Chuyến đi. Hãy tận dụng tối đa!
+Chuyến đi đã kiếm được {1.Money} từ ngày hôm trước. Thu nhập dựa trên:\n\n&lt;ul type=&quot;circle&quot;&gt; &lt;li&gt;Giá trị lô đất = {2.Money}&lt;/li&gt; &lt;li&gt;Số lượng Sim không thuộc hộ gia đình tham gia Chuyến đi = Tổng cộng {3.Number} Sim&lt;/li&gt; &lt;/ul&gt; \nMột số khách rời đi sớm, do bị loại hoặc tự nguyện, làm giảm một chút tổng thu nhập. Hãy nhớ: khách có khả năng cao sẽ để lại tiền bo khi họ cảm thấy được chăm sóc tốt và kết nối xã hội.
+Chuyến đi đã kiếm được {1.Money} từ ngày hôm trước. Thu nhập dựa trên:\n\n&lt;ul type=&quot;circle&quot;&gt;&lt;li&gt;Giá trị lô đất = {2.Money}&lt;/li&gt;&lt;li&gt;Số lượng Sim không thuộc hộ gia đình tham gia Chuyến đi = Tổng cộng {3.Number} Sim&lt;/li&gt; &lt;/ul&gt;\nHãy nhớ, khách hàng cảm thấy được chăm sóc tốt và kết nối xã hội sẽ có khả năng cao để lại tiền bo cho bạn!
+Một phí Chuyến đi hàng ngày {1.Money} đã được khấu trừ từ quỹ hộ gia đình. Phí Chuyến đi được tính dựa trên:\n\nGiá trị lô đất = {2.Money}\nTổng số Sim = {3.Number}
+Thu nhập Chuyến đi Giảm
+Thu nhập Chuyến đi
+Không đủ Tiền

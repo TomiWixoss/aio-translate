@@ -1,0 +1,101 @@
+Chia sẻ hình xăm lên Twitter
+Chia sẻ hộ gia đình lên Twitter
+Vật phẩm phải được chia sẻ lên Gallery trước khi chia sẻ lên Twitter.
+Chia sẻ lô đất lên Twitter
+Lưu vào Thư viện Cá nhân trước khi gửi nội dung này.
+Gửi một bản sao của hộ gia đình này tới {0.String}!
+Gửi một bản sao của lô đất này tới {0.String}!
+{0.String}'s {1.String}
+Sim này có một Hoài bão là một phần của nội dung bạn hiện không sở hữu.
+Chia sẻ Phòng lên Gallery
+Chia sẻ hình xăm lên Gallery
+Chia sẻ hộ gia đình lên Gallery
+Vật phẩm này vượt quá giới hạn vật thể độc nhất. Hãy loại bỏ một số vật phẩm này để cho phép chia sẻ.
+Chia sẻ lô đất lên Gallery
+Trưng bày vật phẩm trong Hồ sơ của bạn
+Chọn Ảnh
+Đặt lô đất này sẽ vượt quá giới hạn đơn vị hoặc lô đất của tệp lưu này. Số đơn vị hiện tại cho tệp lưu này là {0.Number}/{1.Number}.
+Lưu Phòng vào Thư viện Cá nhân
+Lưu hình xăm vào Thư viện Cá nhân
+Lưu hộ gia đình vào Thư viện Cá nhân
+Phòng đã được lưu
+Hình xăm đã được lưu
+Hộ gia đình đã được lưu
+Lô đất đã được lưu
+Lưu lô đất vào Thư viện Cá nhân
+Ngẫu nhiên hóa chân dung
+Yêu thích
+Tải xuống
+Vật phẩm Gallery này được tạo bằng Nội dung Tùy chỉnh có thể không có sẵn cho bạn. Nội dung Tùy chỉnh không được Maxis sàng lọc trước. Sử dụng theo ý riêng của bạn.
+Lô đất này được xây dựng với một mã gian lận đã bỏ giới hạn 6 đơn vị cho Thuê nhà Cư dân. Nó có thể không hiển thị như mong đợi.
+Phòng Yêu thích
+Hình xăm Yêu thích
+Hộ gia đình Yêu thích
+Không thể yêu thích vật phẩm của chính bạn.
+Hộ gia đình phải được lưu để thêm vào Yêu thích.
+Lô đất Yêu thích
+Dịch vụ Facebook không khả dụng
+Chia sẻ Phòng lên Facebook
+Chia sẻ hình xăm lên Facebook
+Chia sẻ hộ gia đình lên Facebook
+Vật phẩm phải được chia sẻ lên Gallery trước khi chia sẻ lên Facebook.
+Chia sẻ lô đất lên Facebook
+Xóa khỏi Thư viện Cá nhân
+Vật phẩm phải được chia sẻ để cho phép bình luận.
+Không thể lưu nội dung vì nó được tạo bằng phiên bản game mới hơn. Khởi động lại game để kiểm tra cập nhật.
+Không thể đặt nội dung vì nó được tạo bằng phiên bản game mới hơn. Khởi động lại game để kiểm tra cập nhật.
+Bạn không có nội dung cần thiết cho những hình xăm này.
+Bạn không có nội dung cần thiết cho những thú cưng này.
+Chia sẻ và Chơi
+Lô đất này không thể chỉnh sửa khi đang trong kỳ nghỉ
+Không thể hợp nhất Sim vào một hộ gia đình sống tại Ký túc xá Đại học.
+Đặt lô đất này sẽ vượt quá giới hạn đơn vị hoặc lô đất của tệp lưu này. Hiện tại nó đang ở {0.Number}/{1.Number}.\n\nHãy loại bỏ một số đơn vị khác của bạn trước khi cố gắng đặt lô đất này.
+Bạn không thể đặt một lô đất trên một Thuê nhà Cư dân đang có người thuê.
+Hợp nhất hộ gia đình sẽ vượt quá số lượng tối đa Sims được phép.
+Kích thước lô đất quá nhỏ để chứa bản thiết kế.
+Bạn phải thay đổi loại lô đất trước khi đặt các lô đất không phải là Thuê nhà Cư dân.
+Hình xăm không thể áp dụng cho Servos.
+Hình xăm không thể áp dụng cho Thú cưng.
+Hình xăm phát quang chỉ có thể áp dụng cho Sim Tiên.
+Hình xăm không thể áp dụng cho Sims ở dạng Thú.
+Hình xăm chỉ có thể áp dụng cho Sims Thanh thiếu niên trở lên.
+Không thể hợp nhất Hộ gia đình khi đang ở một lô đất nghề nghiệp đang hoạt động.
+Không thể áp dụng mẫu Gallery trong chế độ chơi này.
+Không đủ tiền để đặt Lô đất.
+Không thể áp dụng Hộ gia đình trong chế độ Tạo Sim này.
+Đặt Lô đất và Chỉnh sửa
+Không khả dụng
+Vật phẩm Gallery này được tạo bằng nội dung đã mua, miễn phí hoặc quảng cáo mà bạn không sở hữu.
+{0.SimPronounReflexive} {0.SimPronounReflexive|xxUpper}
+Sở hữu Độc lập: {M0.his}{F0.hers} {M0.His}{F0.Hers}
+{0.SimPronounPossessiveIndependent} {0.SimPronounPossessiveIndependent|xxUpper}
+Sở hữu Phụ thuộc: {M0.his}{F0.her} {M0.His}{F0.Her}
+{0.SimPronounPossessiveDependent} {0.SimPronounPossessiveDependent|xxUpper}
+{0.SimPronounObjective} {0.SimPronounObjective|xxUpper}
+Mục tiêu:: {M0.him}{F0.her} {M0.Him}{F0.Her}
+{0.SimNameAndPronouns} {0.SimNameAndPronouns|xxUpper}
+{0.DayOfWeekShort} {0.DayOfWeekLong}
+{0.DateShort} {0.DateLong}
+{0.DayOfWeekShort} {0.TimeShort}
+T2
+T3
+T4
+T5
+T6
+T7
+CN
+&lt;span class = 'sunday'&gt;CN&lt;/span&gt; &lt;span class = 'monday'&gt;T2&lt;/span&gt; &lt;span class = 'tuesday'&gt;T3&lt;/span&gt; &lt;span class = 'wednesday'&gt;T4&lt;/span&gt; &lt;span class = 'thursday'&gt;T5&lt;/span&gt; &lt;span class = 'friday'&gt;T6&lt;/span&gt; &lt;span class = 'saturday'&gt;T7&lt;/span&gt;
+T6
+Diễn viên Lồng tiếng Bản địa hóa
+Studio Thu âm Bản địa hóa
+EA Localization Audio Capture
+Maxis xin gửi lời cảm ơn đến Harrie, Thomas Sidney “Thomas TV,” Clare Siobhán Callery, và Devon Bumpkin vì tài năng tuyệt vời và đã giúp chúng tôi tạo ra những lô đất tuyệt vời khiến Henford-on-Bagley thực sự trở thành một nơi tuyệt vời.
+Walt Disney Imagineering Sound & Music
+Giám đốc Sản phẩm & Sáng tạo Âm nhạc Cấp cao
+Biên tập Âm thanh
+Nhà sản xuất Phụ trách, Số hóa
+Nhà thiết kế Phương tiện Âm thanh
+Walt Disney Imagineering
+Nhà sản xuất Cấp cao
+Chuyên gia Thiết kế Tài sản Cấp cao
+Giám đốc Sáng tạo Danh mục

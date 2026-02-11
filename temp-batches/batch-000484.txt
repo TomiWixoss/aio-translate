@@ -1,0 +1,497 @@
+Vâng, đây là một bản dịch phức tạp với nhiều món ăn, công thức nấu ăn, và cả các tên bài hát từ The Sims 4. Mình cần dịch sang tiếng Việt nhưng giữ nguyên các yêu cầu: KHÔNG dịch "The Sims 4", "Sims", "Sim", "Social Bunny", "EA app", "Gallery". Giữ nguyên thẻ HTML, biến {0.String}, ký tự đặc biệt. Trả về đúng số dòng.
+
+Trước tiên, mình xem xét cấu trúc: danh sách gồm hai phần chính - các món ăn/công thức và sau đó là các tên bài hát. Mình cần dịch từng dòng một.
+
+Phần món ăn: 
+- "Cook Eggs and Toast" -> "Chiên Trứng và Bánh Mì Nướng" (vì "cook" ở đây có lẽ là chiên/rán)
+- "Eggs and Toast" -> "Trứng và Bánh Mì Nướng" (tên món)
+- "Cook Crown Roast" -> "Nướng Thịt Heo Vòng" (crown roast là thịt heo rán kiểu vòng)
+- "Crown Roast" -> "Thịt Heo Vòng"
+- "Bake Flirty Heart Cookies" -> "Nướng Bánh Quy Trái Tim Quyến Rũ"
+- "Flirty Heart Cookie" -> "Bánh Quy Trái Tim Quyến Rũ" (số ít)
+- "Flirty Heart Cookies" -> "Bánh Quy Trái Tim Quyến Rũ" (số nhiều, nhưng trong tiếng Việt thường dùng số ít cho tên món)
+- "Bake Chocolate Chip Cookies" -> "Nướng Bánh Quy Socola Chip"
+- "Chocolate Chip Cookie" -> "Bánh Quy Socola Chip"
+- "Serve Chocolate Chip Cookies" -> "Phục vụ Bánh Quy Socola Chip"
+- "Chocolate Chip Cookies" -> "Bánh Quy Socola Chip"
+- "Cook Cioppino" -> "Nấu Cioppino" (giữ nguyên tên món)
+- "Cioppino" -> "Cioppino" (giữ nguyên)
+- Phần mô tả Churrasco: cần dịch đoạn văn nhưng giữ nguyên các yếu tố như "Lactose Free!" và thẻ HTML nếu có. Ở đây có "\n\nAs a bonus, this item is Lactose Free!" -> "\n\nVới điểm cộng, món này không chứa lactose!" nhưng trong phần sau có "Lactose Free" riêng, có lẽ nên giữ nguyên cụm "Lactose Free" như một nhãn. Tuy nhiên, yêu cầu nói giữ nguyên ký tự đặc biệt, nhưng "Lactose Free" có thể dịch. Mình sẽ dịch: "Với điểm cộng, món này là Lactose Free!" hoặc "không chứa lactose". Để an toàn, dịch sang tiếng Việt: "Lactose Free" -> "Không chứa lactose". 
+- "Grill Churrasco" -> "Nướng Churrasco"
+- "Churrasco" -> "Churrasco" (giữ nguyên)
+- "Cook Baked Chocolate Mousse" -> "Nấu Baked Chocolate Mousse" (nhưng "baked" ở đây có nghĩa là nướng? Thực tế mousse thường không nướng, nhưng trong game có thể là một biến thể. Có lẽ dịch là "Baked Chocolate Mousse" -> "Mousse Socola Nướng". Tuy nhiên, tên món là "Baked Chocolate Mousse" nên có thể giữ nguyên hoặc dịch. Mình dịch: "Mousse Socola Nướng" nhưng để tránh nhầm lẫn, có lẽ nên giữ nguyên tên món. Nhưng yêu cầu là dịch, nên dịch: "Nấu Mousse Socola Nướng" cho hành động, và "Mousse Socola Nướng" cho tên món. Phần mô tả có thẻ HTML: "<font color='#199C2C'>Designed by: icemunmun.</font>" -> giữ nguyên, chỉ dịch chữ "Designed by" sang "Thiết kế bởi": "<font color='#199C2C'>Thiết kế bởi: icemunmun.</font>". Phần mô tả tiếp: "A decadent dessert made of chocolate, whipped eggs, and heavy cream." -> "Một món tráng miệng xa hoa làm từ socola, trứng đánh bông và kem nặng." "Vegetarian-Safe" -> "An toàn cho người ăn chay" hoặc "Phù hợp chay". 
+- "Baked Chocolate Mousse" -> "Mousse Socola Nướng"
+- "Make Chips and Salsa" -> "Làm Chip và Salsa" (chips là khoai tây chiên, salsa là nước sốt)
+- "Chips and Salsa" -> "Chip và Salsa"
+- "Serve Chips and Salsa" -> "Phục vụ Chip và Salsa"
+- "Cook Chili" -> "Nấu Chili"
+- "Serve Chili" -> "Phục vụ Chili"
+- "Cook Chicken Stir Fry" -> "Nấu Gà Xào" (stir fry là xào)
+- "Serve Chicken Stir Fry" -> "Phục vụ Gà Xào"
+- Phần mô tả Challah: cần dịch đoạn dài. Giữ nguyên thẻ HTML nếu có, nhưng ở đây không có. Dịch toàn bộ: "Challah is a type of bread..." -> "Challah là một loại bánh mì thường được nướng cho các lễ kỷ niệm Do Thái như Shabbat. Thông thường, challah được chuẩn bị theo cách pareve (không kết hợp sữa với trứng). Những chiếc bánh mì được tết và, vào Rosh Hashanah, thường được trình bày dưới dạng vòng &quot;khăn xếp&quot;. Vào Shabbat, hai chiếc bánh challah được che bằng một tấm vải có thể được thêu hoặc trang trí khá công phu và lời chúc Kiddush được đọc trước khi bánh được cắt và ăn.\n\nTùy theo dịp, challah có thể được phục vụ rắc muối hoặc với mật ong và trong một số nền văn hóa, nho, chà là hoặc các nguyên liệu khác thậm chí có thể được thêm vào! Bất kể bạn cắt nó như thế nào, chiếc bánh mì giàu và nhiều trứng này là một món ăn ngon giúp đoàn kết mọi người trên toàn thế giới.\n\nVegetarian-Safe, Lactose Free" -> "Phù hợp chay, Không chứa lactose". Mình sẽ dịch: "An toàn cho người ăn chay, Không chứa lactose".
+- "Bake Challah" -> "Nướng Challah"
+- "Challah" -> "Challah" (giữ nguyên tên)
+- "Make Tuna Casserole" -> "Làm Casserole Cá Ngừ"
+- "Tuna Casserole" -> "Casserole Cá Ngừ"
+- "Serve Tuna Casserole" -> "Phục vụ Casserole Cá Ngừ"
+- "Make Taco Casserole" -> "Làm Casserole Taco"
+- "Serve Taco Casserole" -> "Phục vụ Casserole Taco"
+- "Taco Casserole" -> "Casserole Taco"
+- "Strawberry Cake" -> "Bánh Dâu"
+- "{0.SimFirstName}'s Signature Cake" -> giữ nguyên biến {0.SimFirstName} và dịch phần còn lại: "Bánh Đặc Trưng của {0.SimFirstName}" nhưng trong tiếng Việt thường nói "Bánh Đặc Sắc" hoặc "Bánh Chữ Ký". "Signature Cake" thường dịch là "Bánh Chữ Ký" hoặc "Bánh Đặc Trưng". Mình dùng "Bánh Chữ Ký".
+- "Bake Cake" -> "Nướng Bánh" (chung chung)
+- "Hamburger Cake" -> "Bánh Hamburger" (bánh hình hamburger)
+- "Chocolate Cake" -> "Bánh Socola"
+- "Blue Confetti Cake" -> "Bánh Confetti Xanh" (confetti là giấy vụn trang trí)
+- Phần mô tả Butter Chicken có thẻ HTML: "<font color='#199C2C'>Designed by: icemunmun.</font>" giữ nguyên, dịch "Designed by" -> "Thiết kế bởi". Mô tả: "A rich dish of chicken in a spiced tomato, butter, and cream sauce." -> "Món ăn giàu của gà trong sốt cà chua gia vị, bơ và kem."
+- "Cook Butter Chicken" -> "Nấu Butter Chicken" (có lẽ nên dịch: "Nấu Gà Bơ" nhưng tên món là Butter Chicken nên giữ nguyên hoặc dịch. Trong tiếng Việt thường gọi là "Gà bơ masala" nhưng ở đây chỉ là Butter Chicken. Mình dịch: "Nấu Gà Bơ").
+- "Butter Chicken" -> "Gà Bơ"
+- "Make Brigadeiro" -> "Làm Brigadeiro" (giữ nguyên tên)
+- Mô tả Brigadeiro: dịch toàn bộ. "The origin of the dessert isn't certain..." -> "Nguồn gốc của món tráng miệng này không chắc chắn..." đến hết. "Vegetarian Safe dish!" -> "món ăn phù hợp chay!"
+- "Serve Brigadeiro" -> "Phục vụ Brigadeiro"
+- "Brigadeiro" -> "Brigadeiro" (giữ nguyên)
+- "Make BLT" -> "Làm BLT" (BLT là bacon, lettuce, tomato sandwich, giữ nguyên)
+- "Bake Black and White Cookies" -> "Nướng Bánh Quy Đen Trắng"
+- "Black and White Cookie" -> "Bánh Quy Đen Trắng"
+- "Serve Black and White Cookies" -> "Phục vụ Bánh Quy Đen Trắng"
+- "Black and White Cookies" -> "Bánh Quy Đen Trắng"
+- "Cook Blackened Bass" -> "Nấu Cá Bass Đen" (blackened là một phương pháp nấu)
+- "Lactose Free" (ở dòng riêng) -> "Không chứa lactose"
+- "Serve Blackened Bass" -> "Phục vụ Cá Bass Đen"
+- "Blackened Bass" -> "Cá Bass Đen"
+- "Bake Apple Pie" -> "Nướng Bánh Táo"
+- Phần các tên bài hát: cần dịch sang tiếng Việt nhưng giữ nguyên định dạng. Ví dụ: "Seriously Suave" -> "Thực Sự Lịch Lãm", "Let's Go Downtown" -> "Đi Về Trung Tâm", v.v. Mình sẽ dịch từng cái.
+
+Liệt kê các tên bài hát và dịch:
+1. "Seriously Suave" -> "Thực Sự Lịch Lãm" (suave = lịch lãm, phong nhã)
+2. "Let's Go Downtown" -> "Đi Về Trung Tâm" hoặc "Đi Vào Thành Phố" (downtown = trung tâm thành phố)
+3. "Often I Wonder" -> "Thường Tôi Wondering" -> dịch: "Thường Tôi Suy Nghĩ"
+4. "Saloon Sweetheart" -> "Người Tình Quán Rượu" (saloon = quán rượu, sweetheart = người yêu)
+5. "Meant to Sims" -> "Dành Cho Sims" (meant to = dành cho, nhưng Sims là tên game, nên có lẽ giữ nguyên "Sims"? Yêu cầu nói KHÔNG dịch "Sims", nên giữ nguyên "Sims". Vậy: "Dành Cho Sims"
+6. "All My Hearts" -> "Tất Cả Trái Tim Tôi" (có thể là "Tất Cả Những Trái Tim")
+7. "Relationship Bits" -> "Mảnh Ghép Mối Quan Hệ" (bits = mảnh, phần)
+8. "For Bella" -> "Cho Bella" (giữ nguyên tên)
+9. "I Failed the Smoke" -> "Tôi Thất Bại Vì Khói" (failed the smoke? Có thể là thất bại trong việc hút thuốc? Nhưng trong ngữ cảnh bài hát, có lẽ là ẩn dụ. Dịch sát: "Tôi Thất Bại Với Khói")
+10. "Where'd the Day Go" -> "Ngày Đi Đâu Rồi" (where'd = where did)
+11. "No Time for Now" -> "Không Có Thời Gian Cho Bây Giờ"
+12. "Social Positioning" -> "Vị Trí Xã Hội"
+13. "Cue the Queue" -> "Bắt Đầu Hàng Chờ" (cue = tín hiệu, queue = hàng chờ)
+14. "PPT on Deck" -> "PPT Trên Boong" (PPT có thể là PowerPoint, deck = boong tàu, nhưng trong ngữ cảnh bài hát, có thể là ẩn dụ. Có lẽ giữ nguyên PPT? Nhưng yêu cầu dịch. Mình dịch: "PowerPoint Trên Boong" hoặc "Slide Trên Boong". Tuy nhiên, PPT là viết tắt, nên có thể giữ nguyên. Nhưng phải dịch, nên dịch: "Slide Trên Boong"
+15. "My Kind of Day" -> "Ngày Của Tôi"
+16. "The Song of Sophistication" -> "Bài Hát Của Sự Tinh Tế"
+17. "The Melody of Mealtime" -> "Giai Điệu Của Bữa Ăn"
+18. "The Etude of Egress" -> "Bài Tập Của Sự Ra Vào" (etude = bài tập, egress = sự ra, lối ra)
+19. "The Ditty of Drowsiness" -> "Bài Hát Ngắn Của Sự Buồn Ngủ"
+20. "The Carol of Cleaning" -> "Bài Hát Karol Của Việc Dọn Dẹp" (carol = bài hát karol, thường dịch là "bài ca" hoặc "khúc ca")
+21. "A Quality Life" -> "Một Cuộc Sống Chất Lượng"
+22. "Llama's Lament" -> "Than Vân Của Lạc Đà" (llama = lạc đà, lament = than khóc)
+23. "Latin Tappin'" -> "Latin Đập Nhịp" (tappin' = đập nhịp, gõ nhịp)
+24. "Los Simoleones" -> giữ nguyên? "Los Simoleones" có vẻ là chơi chữ với "Los Simoleones" (tiền trong game là Simoleon). Có lẽ nên giữ nguyên vì là tên bài hát. Nhưng yêu cầu dịch, nên dịch: "Những Đồng Simoleon" hoặc giữ nguyên. Tuy nhiên, "Los" là tiếng Tây Ban Nha, nghĩa là "những". Vậy: "Những Đồng Simoleon"
+25. "JRBM #2" -> giữ nguyên vì là viết tắt và số.
+26. "Frankly So" -> "Thành Thật Thì" (frankly = thành thật)
+27. "Who's Gone" -> "Ai Đã Đi Rồi"
+28. "The Bitter W" -> "W Đắng Cay" (có lẽ là "The Bitter W" là tên bài, W có thể là viết tắt của từ nào, nhưng dịch sát: "W Đắng Cay")
+29. "The Duke" -> "Công Tước"
+30. "Froggy Country" -> "Đất Nước Ếch"
+31. " Comin' Down the Pipeline" -> có dấu cách ở đầu? Trong danh sách có " Comin' Down the Pipeline" với dấu cách trước, có lẽ là lỗi đánh máy. Mình sẽ dịch: "Đang Đến Từ Đường Ống" (pipeline = đường ống)
+32. "Twasn't True" -> "Không Phải Sự Thật" (twasn't = it was not)
+33. "Neighborhood Walkby" -> "Đi Dạo Quanh Khu Phố"
+34. "Bring my Prop" -> "Mang Đồ Cũ Tôi" (prop = đồ cũ, vật dụng)
+35. "Under a Medieval Moon" -> "Dưới Mặt Trăng Trung Cổ"
+36. "Dragon's Lullaby" -> "Bài Hát Ru Của Rồng"
+37. "For the Realm" -> "Cho Vương Quốc"
+38. "The Princess and the Knave" -> "Công Chúa và Kẻ Lừa Đảo" (knave = kẻ lừa đảo, đồng tú)
+39. "Hogan's Diner Blues" -> "Blues Của Tiệm Ăn Hogan" (blues = nhạc blues, diner = tiệm ăn)
+40. "Lost My Burger" -> "Mất Bánh Hamburger"
+41. "Let's Meet Again" -> "Hẹn Gặp Lại"
+
+Cần lưu ý: Một số dòng có thẻ HTML, cần giữ nguyên. Ví dụ: "<font color='#199C2C'>Designed by: icemunmun.</font>" -> dịch "Designed by" sang "Thiết kế bởi" nhưng giữ nguyên thẻ và màu.
+
+Một số dòng có "\n\n" (xuống dòng), cần giữ nguyên.
+
+Cũng có dòng chỉ có "Lactose Free" riêng, nên dịch là "Không chứa lactose".
+
+Biến {0.SimFirstName} giữ nguyên.
+
+Bây giờ, mình sẽ tổ chức lại bản dịch theo đúng số dòng gốc. Đếm số dòng trong input: từ "Cook Eggs and Toast" đến hết "Let's Meet Again" có tổng cộng bao nhiêu dòng? Mình đếm:
+
+1. Cook Eggs and Toast
+2. Eggs and Toast
+3. Cook Crown Roast
+4. Crown Roast
+5. Bake Flirty Heart Cookies
+6. Flirty Heart Cookie
+7. Flirty Heart Cookies
+8. Bake Chocolate Chip Cookies
+9. Chocolate Chip Cookie
+10. Serve Chocolate Chip Cookies
+11. Chocolate Chip Cookies
+12. Cook Cioppino
+13. Cioppino
+14. [dòng mô tả Churrasco, có nhiều dòng? Trong input, nó là một khối văn bản với \n\n. Nhưng trong danh sách, nó được liệt kê như một mục? Thực tế, input là một danh sách các dòng riêng biệt, nhưng mô tả Churrasco có nhiều dòng. Mình xem input: sau "Cioppino" là dòng "Churrasco is a Brazilian barbecue method..." rồi "\n\nAs a bonus..." rồi "Grill Churrasco" rồi "Churrasco". Vậy có lẽ "Churrasco is..." là một dòng riêng? Không, trong input nó xuất hiện như một đoạn liền mạch với \n\n. Nhưng trong cấu trúc, có vẻ như mỗi món có hành động, tên, và đôi khi mô tả. Mình cần giữ nguyên cấu trúc dòng.
+
+Thực tế, input là một chuỗi các dòng, mỗi dòng là một cụm. Mình sẽ giữ nguyên số dòng bằng cách dịch từng dòng như trong input. Nhưng input có những dòng là đoạn văn dài. Cần xem xét kỹ.
+
+Đọc input: nó bắt đầu bằng "Cook Eggs and Toast" rồi "Eggs and Toast", ... cho đến "Cook Chili", "Serve Chili", ... cho đến "Bake Apple Pie", rồi "Seriously Suave", ... cho đến "Let's Meet Again". Trong đó, có các đoạn mô tả như cho Churrasco, Baked Chocolate Mousse, Challah, Butter Chicken, Brigadeiro. Những đoạn này có nhiều dòng (có \n\n). Trong input, chúng được trình bày như một khối, nhưng thực tế là nối liền với các dòng khác? Không, trong input, sau "Cioppino" là ngay "Churrasco is a Brazilian barbecue method..." rồi "\n\nAs a bonus..." rồi "Grill Churrasco" rồi "Churrasco". Vậy "Churrasco is..." là một dòng? Hay là nhiều dòng? Trong text, nó có dấu \n\n nên có thể coi là hai dòng: dòng mô tả và dòng bonus? Nhưng trong danh sách, nó chỉ xuất hiện một lần.
+
+Để đơn giản, mình sẽ giữ nguyên cấu trúc: dịch từng dòng trong input, nhưng với các đoạn có \n\n, mình giữ nguyên \n\n và dịch nội dung. Tuy nhiên, cần đảm bảo số dòng output bằng số dòng input. Vậy mình phải xác định mỗi dòng trong input là gì.
+
+Phân tích input: nó là một danh sách các mục, mỗi mục có thể là:
+- Một hành động (Cook, Bake, Serve, Make)
+- Một tên món
+- Một đoạn mô tả (có thể nhiều dòng)
+- Sau đó là các tên bài hát, mỗi cái một dòng.
+
+Nhưng trong input, các món được liệt kê liên tiếp, không có ngăn cách rõ ràng. Có lẽ mỗi dòng trong input là một thực thể riêng biệt. Tuy nhiên, các đoạn mô tả dài có thể chiếm nhiều dòng trong input? Trong text input, các đoạn mô tả được viết liền mạch với \n\n, nhưng khi paste vào đây, nó có thể thành một dòng dài? Thực tế, trong tin nhắn, nó được trình bày như một đoạn, nhưng khi xem source, mỗi dòng được ngăn cách bởi newline.
+
+Mình sẽ coi mỗi dòng trong input (khi tách bằng \n) là một dòng riêng. Nhưng có những dòng rỗng? Không thấy. Vậy mình cần đếm số dòng input.
+
+Đếm từ "Cook Eggs and Toast" đến "Let's Meet Again":
+
+List:
+1. Cook Eggs and Toast
+2. Eggs and Toast
+3. Cook Crown Roast
+4. Crown Roast
+5. Bake Flirty Heart Cookies
+6. Flirty Heart Cookie
+7. Flirty Heart Cookies
+8. Bake Chocolate Chip Cookies
+9. Chocolate Chip Cookie
+10. Serve Chocolate Chip Cookies
+11. Chocolate Chip Cookies
+12. Cook Cioppino
+13. Cioppino
+14. [đoạn Churrasco] -> thực tế, trong input, dòng 14 là: "Churrasco is a Brazilian barbecue method where juicy pieces, slices, steaks, and chops of beef, veal, lamb, pork, and chicken are placed on big skewers and grilled over wood fire. This practice started in the early 1800s when the Gaúchos (people that settled in the Rio Grande do Sul area) would get together and start a fire, adding large portions of meat on skewers and slowly grilling the meat.\n\nAs a bonus, this item is Lactose Free!"
+Đây là một dòng dài có \n\n bên trong. Nhưng trong file, nó có thể được coi là một dòng. Tuy nhiên, khi tách bằng newline, nó sẽ thành hai dòng? Vì có \n\n. Thực tế, trong input, nó được viết như một khối, nhưng ký tự \n\n biểu thị xuống dòng. Vậy có thể coi là hai dòng: dòng mô tả chính và dòng "As a bonus...". Nhưng trong danh sách, nó liền mạch. Để chính xác, mình nên giữ nguyên \n\n trong output, và coi đó là một dòng duy nhất? Hoặc tách thành hai dòng? Yêu cầu: "Trả về đúng số dòng." Vậy mình phải biết chính xác số dòng input.
+
+Mình copy input và đếm: sau khi paste, mỗi lần Enter là một dòng. Nhưng trong đoạn mô tả, có thể có nhiều Enter. Thực tế, khi người dùng nhập, họ có thể đã nhập nhiều dòng. Mình cần giả sử rằng mỗi dòng trong input được phân tách bởi ký tự newline. Vậy mình sẽ tách input theo newline và đếm.
+
+Trong input, có các phần:
+- Từ "Cook Eggs and Toast" đến "Churrasco" (dòng 13) là 13 dòng.
+- Sau đó là dòng mô tả Churrasco: thực tế, sau "Cioppino" là "Churrasco is..." rồi "Grill Churrasco" rồi "Churrasco". Vậy dòng 14 là mô tả Churrasco, dòng 15 là "Grill Churrasco", dòng 16 là "Churrasco"? Không, trong input, nó viết: "Churrasco is ...\n\nAs a bonus ...!\n\nGrill Churrasco\nChurrasco". Vậy khi tách newline, sẽ có:
+- Dòng 14: "Churrasco is a Brazilian barbecue method ... meat." (đến hết câu đầu)
+- Dòng 15: "As a bonus, this item is Lactose Free!" (vì có \n\n nên xuống dòng)
+- Dòng 16: "Grill Churrasco"
+- Dòng 17: "Churrasco"
+
+Nhưng trong input gốc, nó được viết liên tục với \n\n. Vậy số dòng sẽ phụ thuộc vào cách tách. Mình nên coi mỗi lần xuống dòng (newline) là một dòng. Vậy từ "Cook Eggs and Toast" đến hết, mình sẽ đếm kỹ.
+
+Để đơn giản, mình sẽ dịch theo từng dòng như hiển thị trong input, nhưng với các đoạn có \n\n, mình giữ nguyên \n\n trong cùng một dòng? Không, vì \n\n là ký tự newline, nên nó tạo ra các dòng mới. Vậy output phải có cùng số dòng với input, nghĩa là cùng số lần xuống dòng.
+
+Mình sẽ xử lý: đầu tiên, tách input thành các dòng bằng \n. Sau đó dịch từng dòng, nhưng với các dòng chứa \n\n, thực tế nó đã bị tách rồi. Tức là input đã có các dòng riêng biệt. Vậy mình chỉ cần dịch từng dòng đó.
+
+Nhưng trong input, các đoạn mô tả dài có thể được viết trong một dòng duy nhất (không có newline), nhưng có \n\n trong nội dung? Trong text, \n\n là ký hiệu xuống dòng, nhưng khi hiển thị, nó có thể thành hai dòng. Vậy nên coi input là một chuỗi có chứa \n, và mỗi khi gặp \n là một dòng mới.
+
+Vì vậy, mình sẽ coi mỗi dòng trong input (sau khi tách bằng \n) là một dòng cần dịch. Và output phải có cùng số dòng.
+
+Bây giờ, mình sẽ dịch từng dòng:
+
+Dòng 1: "Cook Eggs and Toast" -> "Chiên Trứng và Bánh Mì Nướng"
+Dòng 2: "Eggs and Toast" -> "Trứng và Bánh Mì Nướng"
+Dòng 3: "Cook Crown Roast" -> "Nướng Thịt Heo Vòng"
+Dòng 4: "Crown Roast" -> "Thịt Heo Vòng"
+Dòng 5: "Bake Flirty Heart Cookies" -> "Nướng Bánh Quy Trái Tim Quyến Rũ"
+Dòng 6: "Flirty Heart Cookie" -> "Bánh Quy Trái Tim Quyến Rũ"
+Dòng 7: "Flirty Heart Cookies" -> "Bánh Quy Trái Tim Quyến Rũ"
+Dòng 8: "Bake Chocolate Chip Cookies" -> "Nướng Bánh Quy Socola Chip"
+Dòng 9: "Chocolate Chip Cookie" -> "Bánh Quy Socola Chip"
+Dòng 10: "Serve Chocolate Chip Cookies" -> "Phục vụ Bánh Quy Socola Chip"
+Dòng 11: "Chocolate Chip Cookies" -> "Bánh Quy Socola Chip"
+Dòng 12: "Cook Cioppino" -> "Nấu Cioppino"
+Dòng 13: "Cioppino" -> "Cioppino"
+Dòng 14: "Churrasco is a Brazilian barbecue method where juicy pieces, slices, steaks, and chops of beef, veal, lamb, pork, and chicken are placed on big skewers and grilled over wood fire. This practice started in the early 1800s when the Gaúchos (people that settled in the Rio Grande do Sul area) would get together and start a fire, adding large portions of meat on skewers and slowly grilling the meat." -> dịch: "Churrasco là một phương pháp nướng thịt kiểu Brazil trong đó các miếng thịt mọng nước, lát, bít tết và sườn từ bò, bê, cừu, heo và gà được xuyên qua các xiên lớn và nướng trên lửa củi. Thực hành này bắt đầu từ đầu những năm 1800 khi những người Gaúcho (người định cư ở vùng Rio Grande do Sul) tụ tập lại, nhóm lửa, xuyên các phần lớn thịt lên xiên và từ từ nướng thịt."
+Dòng 15: "\n\nAs a bonus, this item is Lactose Free!" -> trong input, dòng này có thể bắt đầu bằng \n\n? Thực tế, khi tách, dòng 14 là đến "...meat." rồi dòng 15 là "As a bonus...". Nhưng trong input gốc, sau đoạn mô tả là "\n\nAs a bonus...", vậy khi tách, dòng 15 sẽ là "As a bonus, this item is Lactose Free!". Vậy dịch: "Với điểm cộng, món này không chứa lactose!" nhưng để giữ nguyên cụm "Lactose Free", có thể dịch: "Với điểm cộng, món này là Lactose Free!" Tuy nhiên, "Lactose Free" thường dịch là "Không chứa lactose". Mình dịch: "Với điểm cộng, món này không chứa lactose!"
+Dòng 16: "Grill Churrasco" -> "Nướng Churrasco"
+Dòng 17: "Churrasco" -> "Churrasco"
+Dòng 18: "Cook Baked Chocolate Mousse" -> "Nấu Mousse Socola Nướng"
+Dòng 19: "<font color='#199C2C'>Designed by: icemunmun.</font>\nA decadent dessert made of chocolate, whipped eggs, and heavy cream.\n\nVegetarian-Safe" -> đây là một dòng? Trong input, nó có \n nên có thể thành nhiều dòng. Thực tế, trong input, nó được viết liền tay với \n. Vậy khi tách, có thể thành:
+- Dòng 19: "<font color='#199C2C'>Designed by: icemunmun.</font>"
+- Dòng 20: "A decadent dessert made of chocolate, whipped eggs, and heavy cream."
+- Dòng 21: "\n\nVegetarian-Safe" -> có lẽ dòng 21 là "Vegetarian-Safe" vì \n\n là newline.
+
+Nhưng trong input gốc, sau "Cook Baked Chocolate Mousse" là dòng chứa thẻ HTML và mô tả. Có thể coi là một dòng dài. Để chính xác, mình phải xem cách input được định dạng. Vì người dùng paste text, và text có chứa \n, nên khi tách, mỗi \n tạo một dòng mới. Vậy với dòng có "<font...>\nA decadent...\n\nVegetarian-Safe", nó sẽ thành ba dòng: dòng chứa thẻ, dòng mô tả, dòng trống rồi "Vegetarian-Safe"? Thực tế, \n là newline, \n\n là hai newline, tức là một dòng trống. Vậy:
+- Phần đầu: "<font color='#199C2C'>Designed by: icemunmun.</font>" (dòng 19)
+- Sau đó là \n nên dòng tiếp theo: "A decadent dessert made of chocolate, whipped eggs, and heavy cream." (dòng 20)
+- Sau đó là \n\n tức là một dòng trống (dòng 21 là rỗng?) và dòng 22: "Vegetarian-Safe"? Không, vì \n\n nghĩa là newline rồi newline, nên sau dòng 20 là một dòng trống, rồi dòng 22 là "Vegetarian-Safe"? Thực tế, khi tách chuỗi bằng \n, mỗi \n tạo một phần tử mới. Với chuỗi "a\nb\n\nc", tách bằng \n sẽ được: ["a", "b", "", "c"]. Vậy với "<font...>\nA decadent...\n\nVegetarian-Safe", tách sẽ được:
+[0]: "<font color='#199C2C'>Designed by: icemunmun.</font>"
+[1]: "A decadent dessert made of chocolate, whipped eggs, and heavy cream."
+[2]: "" (rỗng vì \n\n tạo hai newline, nhưng khi tách, giữa "A decadent..." và "Vegetarian-Safe" có một newline, nên sẽ có một phần tử rỗng? Không, với \n\n, tách bằng \n sẽ tạo ra hai phần tử: phần tử sau newline đầu tiên là "A decadent...", phần tử tiếp theo là rỗng (vì giữa hai newline không có gì), phần tử sau newline thứ hai là "Vegetarian-Safe"? Thực tế, chuỗi: "a\n\nb" tách bằng \n -> ["a", "", "b"]. Vậy với "<font...>\nA decadent...\n\nVegetarian-Safe", giả sử có: "<font...>\nA decadent...\n\nVegetarian-Safe". Tách:
+- Phần 1: "<font...>"
+- Phần 2: "A decadent..."
+- Phần 3: "" (vì có \n\n, nên sau "A decadent..." là \n, tạo phần tử mới rỗng? Không, sau "A decadent..." là \n, nên phần tiếp theo bắt đầu từ sau \n đó. Nhưng trước "Vegetarian-Safe" có \n, nên phần đó là "Vegetarian-Safe"? Hãy viết rõ: chuỗi gốc: "<font...>\nA decadent...\n\nVegetarian-Safe". Có ba ký tự \n: một sau thẻ, một sau mô tả, và một trước Vegetarian-Safe? Thực tế, \n\n là hai ký tự \n liên tiếp. Vậy chuỗi có: ...</font>\n (1) A decadent...\n (2) \n (3) Vegetarian-Safe. Khi tách bằng \n, ta lấy các phần từ sau mỗi \n. Nhưng trước ký tự \n đầu tiên là thẻ, sau đó là "A decadent...", sau \n thứ hai là rỗng (vì không có gì giữa \n thứ hai và \n thứ ba? Không, sau \n thứ hai là \n thứ ba, nên phần giữa hai \n là rỗng? Thực tế, với chuỗi "a\nb\n\nc", tách: ["a", "b", "", "c"]. Vậy ở đây: 
+- Trước ký tự \n đầu tiên: "<font...>"
+- Giữa \n đầu và \n thứ hai: "A decadent..."
+- Giữa \n thứ hai và \n thứ ba: "" (rỗng)
+- Sau \n thứ ba: "Vegetarian-Safe"
+
+Vậy sẽ có 4 dòng từ một dòng input? Điều này không nhất quán. Có lẽ input không có \n\n mà chỉ có \n đơn? Trong text, người dùng viết: "<font color='#199C2C'>Designed by: icemunmun.</font>\nA decadent dessert made of chocolate, whipped eggs, and heavy cream.\n\nVegetarian-Safe". Như vậy, có \n sau thẻ, \n sau mô tả, và \n\n trước Vegetarian-Safe? Thực tế, họ viết "...</font>\nA decadent...\n\nVegetarian-Safe", nghĩa là sau "A decadent..." có \n rồi \n, tức là \n\n. Vậy khi tách, sẽ có:
+1. "<font...>"
+2. "A decadent..."
+3. "" (rỗng)
+4. "Vegetarian-Safe"
+
+Nhưng trong danh sách, dòng "Vegetarian-Safe" có thể là một dòng riêng. Vậy số dòng tăng lên. Điều này phức tạp.
+
+Để tránh nhầm lẫn, mình sẽ giữ nguyên cấu trúc: dịch từng dòng nhưng không tách các đoạn. Có nghĩa là, nếu một dòng input chứa nhiều câu với \n\n, mình giữ nguyên \n\n trong output và dịch toàn bộ nội dung của dòng đó. Nhưng nếu input có nhiều dòng, thì output phải có nhiều dòng tương ứng.
+
+Cách tốt nhất: coi input là một danh sách các dòng, mỗi dòng là một chuỗi không chứa newline. Nhưng trong input, có các dòng chứa newline? Khi người dùng paste, họ có thể đã paste một đoạn có newline. Vậy mình cần tách input bằng newline và đếm số dòng.
+
+Mình sẽ thử tách input bằng \n và đếm. Trong input, có các dòng như:
+- "Cook Eggs and Toast"
+- "Eggs and Toast"
+- ...
+- "Cook Cioppino"
+- "Cioppino"
+- "Churrasco is a Brazilian barbecue method ... meat." (đây là một dòng dài, không có newline trong đó? Thực tế, trong text, nó có dấu chấm và khoảng trắng, nhưng không có \n. Vậy nó là một dòng.)
+- "As a bonus, this item is Lactose Free!" (dòng tiếp theo, vì có \n\n trước đó? Trong input, sau đoạn mô tả là "\n\nAs a bonus...", nghĩa là có newline rồi newline, nên khi tách, dòng tiếp theo là "As a bonus...".)
+- "Grill Churrasco"
+- "Churrasco"
+- "Cook Baked Chocolate Mousse"
+- "<font color='#199C2C'>Designed by: icemunmun.</font>\nA decadent dessert made of chocolate, whipped eggs, and heavy cream.\n\nVegetarian-Safe" -> dòng này có \n bên trong, nên khi tách, nó sẽ thành nhiều dòng. Điều này không hay.
+
+Có lẽ người dùng đã copy từ một nguồn nào đó và paste, và các newline đã được giữ nguyên. Vậy mình nên giữ nguyên tất cả các newline và dịch nội dung trên mỗi dòng.
+
+Quyết định: Mình sẽ dịch từng dòng sau khi tách input bằng \n, và output cũng tách bằng \n tương ứng. Tức là, nếu input có N dòng (sau khi tách), output có N dòng.
+
+Bây giờ, mình cần xác định input có bao nhiêu dòng. Mình copy input vào một trình soạn thảo và đếm. Nhưng ở đây, mình có thể ước lượng.
+
+Dựa trên danh sách, mình thấy:
+- Từ "Cook Eggs and Toast" đến "Churrasco" (dòng 17 trong danh sách trên) là 17 dòng? Không, mình đã đếm từ 1 đến 13 là các món, sau đó:
+14: Churrasco is...
+15: As a bonus...
+16: Grill Churrasco
+17: Churrasco
+18: Cook Baked Chocolate Mousse
+19: <font...> (có thể là một dòng)
+20: A decadent... (dòng tiếp theo từ \n)
+21: (dòng trống từ \n\n? Nhưng khi tách, nếu có \n\n, sẽ có dòng trống)
+22: Vegetarian-Safe? Thực tế, trong input, sau "A decadent..." là \n\n rồi "Vegetarian-Safe", vậy khi tách, dòng sau "A decadent..." là dòng rỗng, rồi dòng "Vegetarian-Safe". Vậy từ dòng 18 trở đi, có thể có nhiều dòng.
+
+Điều này rất rắc rối. Có lẽ nên xem input như một cảnh báo và dịch theo nghĩa, giữ nguyên cấu trúc newline.
+
+Mình sẽ dịch toàn bộ input thành một chuỗi, nhưng thay thế nội dung tiếng Anh bằng tiếng Việt, giữ nguyên các thẻ HTML, biến {0.String}, và ký tự đặc biệt. Và đảm bảo số dòng newline giữ nguyên.
+
+Cách làm: Thay thế từng cụm từ, nhưng phải cẩn thận không làm thay đổi newline.
+
+Mình sẽ duyệt qua từng dòng trong input (tách bằng \n), dịch nội dung của mỗi dòng (trừ các thẻ HTML, biến), rồi nối lại bằng \n.
+
+Nhưng với các dòng chứa thẻ HTML, mình chỉ dịch phần text, giữ nguyên thẻ.
+
+Ví dụ: dòng có "<font color='#199C2C'>Designed by: icemunmun.</font>" -> dịch "Designed by" sang "Thiết kế bởi", được: "<font color='#199C2C'>Thiết kế bởi: icemunmun.</font>".
+
+Dòng có "A decadent dessert..." -> dịch: "Một món tráng miệng xa hoa làm từ socola, trứng đánh bông và kem nặng."
+
+Dòng có "Vegetarian-Safe" -> "An toàn cho người ăn chay" hoặc "Phù hợp chay".
+
+Với các dòng mô tả dài, dịch toàn bộ.
+
+Với các tên bài hát, dịch sang tiếng Việt.
+
+Với biến {0.SimFirstName}, giữ nguyên.
+
+Bây giờ, mình bắt đầu dịch từng dòng:
+
+1. Cook Eggs and Toast -> Chiên Trứng và Bánh Mì Nướng
+2. Eggs and Toast -> Trứng và Bánh Mì Nướng
+3. Cook Crown Roast -> Nướng Thịt Heo Vòng
+4. Crown Roast -> Thịt Heo Vòng
+5. Bake Flirty Heart Cookies -> Nướng Bánh Quy Trái Tim Quyến Rũ
+6. Flirty Heart Cookie -> Bánh Quy Trái Tim Quyến Rũ
+7. Flirty Heart Cookies -> Bánh Quy Trái Tim Quyến Rũ
+8. Bake Chocolate Chip Cookies -> Nướng Bánh Quy Socola Chip
+9. Chocolate Chip Cookie -> Bánh Quy Socola Chip
+10. Serve Chocolate Chip Cookies -> Phục vụ Bánh Quy Socola Chip
+11. Chocolate Chip Cookies -> Bánh Quy Socola Chip
+12. Cook Cioppino -> Nấu Cioppino
+13. Cioppino -> Cioppino
+14. Churrasco is a Brazilian barbecue method where juicy pieces, slices, steaks, and chops of beef, veal, lamb, pork, and chicken are placed on big skewers and grilled over wood fire. This practice started in the early 1800s when the Gaúchos (people that settled in the Rio Grande do Sul area) would get together and start a fire, adding large portions of meat on skewers and slowly grilling the meat. -> Dịch: "Churrasco là một phương pháp nướng thịt kiểu Brazil trong đó các miếng thịt mọng nước, lát, bít tết và sườn từ bò, bê, cừu, heo và gà được xuyên qua các xiên lớn và nướng trên lửa củi. Thực hành này bắt đầu từ đầu những năm 1800 khi những người Gaúcho (người định cư ở vùng Rio Grande do Sul) tụ tập lại, nhóm lửa, xuyên các phần lớn thịt lên xiên và từ từ nướng thịt."
+15. As a bonus, this item is Lactose Free! -> "Với điểm cộng, món này không chứa lactose!"
+16. Grill Churrasco -> Nướng Churrasco
+17. Churrasco -> Churrasco
+18. Cook Baked Chocolate Mousse -> Nấu Mousse Socola Nướng
+19. <font color='#199C2C'>Designed by: icemunmun.</font> -> giữ nguyên thẻ, dịch "Designed by" -> "Thiết kế bởi": "<font color='#199C2C'>Thiết kế bởi: icemunmun.</font>"
+20. A decadent dessert made of chocolate, whipped eggs, and heavy cream. -> "Một món tráng miệng xa hoa làm từ socola, trứng đánh bông và kem nặng."
+21. (có thể là dòng trống nếu input có \n\n) Nhưng trong input, sau dòng 20 là "\n\nVegetarian-Safe", vậy dòng 21 có thể là rỗng? Tuy nhiên, khi tách, nếu có \n\n, sẽ có một dòng trống. Mình cần xem input: sau "A decadent dessert..." là "\n\nVegetarian-Safe", nghĩa là có hai newline, nên khi tách, sẽ có dòng rỗng. Vậy dòng 21: "" (rỗng) -> giữ nguyên rỗng.
+22. Vegetarian-Safe -> "An toàn cho người ăn chay" hoặc "Phù hợp chay". Mình dùng "Phù hợp chay".
+23. Baked Chocolate Mousse -> Mousse Socola Nướng
+24. Make Chips and Salsa -> Làm Chip và Salsa
+25. Chips and Salsa -> Chip và Salsa
+26. Serve Chips and Salsa -> Phục vụ Chip và Salsa
+27. Cook Chili -> Nấu Chili
+28. Serve Chili -> Phục vụ Chili
+29. Cook Chicken Stir Fry -> Nấu Gà Xào
+30. Serve Chicken Stir Fry -> Phục vụ Gà Xào
+31. Challah is a type of bread often baked for Jewish celebrations such as Shabbat. Typically, challah is prepared in a way that's pareve in that it doesn't combine dairy products with egg. The bread loaves are braided and, on Rosh Hashanah, are often presented in a round "turban" form. On Shabbat, two loaves of challah are covered with a cloth that can be rather elaborately embroidered or decorated and Kiddush blessings are recited before the bread is sliced and eaten.\n\nDepending upon the occasion, challah may be served sprinkled with salt or with honey and in some cultures raisins, dates, or other ingredients may even be added! No matter how you slice it, this rich and eggy bread is a delicious treat that helps unite people all around the world.\n\nVegetarian-Safe, Lactose Free -> Dịch toàn bộ: "Challah là một loại bánh mì thường được nướng cho các lễ kỷ niệm Do Thái như Shabbat. Thông thường, challah được chuẩn bị theo cách pareve (không kết hợp sữa với trứng). Những chiếc bánh mì được tết và, vào Rosh Hashanah, thường được trình bày dưới dạng vòng &quot;khăn xếp&quot;. Vào Shabbat, hai chiếc bánh challah được che bằng một tấm vải có thể được thêu hoặc trang trí khá công phu và lời chúc Kiddush được đọc trước khi bánh được cắt và ăn.\n\nTùy theo dịp, challah có thể được phục vụ rắc muối hoặc với mật ong và trong một số nền văn hóa, nho, chà là hoặc các nguyên liệu khác thậm chí có thể được thêm vào! Bất kể bạn cắt nó như thế nào, chiếc bánh mì giàu và nhiều trứng này là một món ăn ngon giúp đoàn kết mọi người trên toàn thế giới.\n\nPhù hợp chay, Không chứa lactose"
+Lưu ý: giữ nguyên &quot; thành " trong output? Trong input là &quot;, nhưng khi dịch, mình có thể để nguyên hoặc chuyển thành ". Vì yêu cầu giữ nguyên ký tự đặc biệt, nên giữ nguyên &quot;. Tuy nhiên, trong output, nếu dịch sang tiếng Việt, có thể dùng dấu ngoặc kép thông thường. Nhưng để an toàn, giữ nguyên &quot;. Tuy nhiên, trong tiếng Việt, dùng dấu ngoặc kép " là bình thường. Mình có thể chuyển &quot; thành " vì đó là ký tự đặc biệt được encode. Nhưng yêu cầu nói "giữ nguyên ... ký tự đặc biệt", có thể hiểu là giữ nguyên các ký tự như &, <, >, nhưng &quot; là thực thể HTML, nên nên giữ nguyên. Tuy nhiên, khi dịch, mình chỉ dịch text, không thay đổi thực thể. Vậy giữ nguyên &quot;.
+
+Nhưng trong câu "round &quot;turban&quot; form", dịch sang tiếng Việt: "dưới dạng vòng &quot;khăn xếp&quot;". Giữ nguyên &quot;.
+
+Vậy dòng 31: cả đoạn dài, giữ nguyên \n\n.
+
+Sau đó, dòng tiếp theo:
+32. Bake Challah -> Nướng Challah
+33. Challah -> Challah
+34. Make Tuna Casserole -> Làm Casserole Cá Ngừ
+35. Tuna Casserole -> Casserole Cá Ngừ
+36. Serve Tuna Casserole -> Phục vụ Casserole Cá Ngừ
+37. Make Taco Casserole -> Làm Casserole Taco
+38. Serve Taco Casserole -> Phục vụ Casserole Taco
+39. Taco Casserole -> Casserole Taco
+40. Strawberry Cake -> Bánh Dâu
+41. {0.SimFirstName}'s Signature Cake -> Bánh Chữ Ký của {0.SimFirstName} (giữ nguyên biến)
+42. Bake Cake -> Nướng Bánh
+43. Hamburger Cake -> Bánh Hamburger
+44. Chocolate Cake -> Bánh Socola
+45. Blue Confetti Cake -> Bánh Confetti Xanh
+46. <font color='#199C2C'>Designed by: icemunmun.</font>\nA rich dish of chicken in a spiced tomato, butter, and cream sauce. -> Dạng này: có thẻ HTML rồi \n rồi mô tả. Khi tách, có thể thành hai dòng? Trong input, dòng này là một dòng có \n bên trong. Vậy khi tách, nó sẽ thành hai dòng: dòng 46: thẻ HTML, dòng 47: mô tả? Thực tế, trong input, sau "Blue Confetti Cake" là dòng này. Có lẽ nó là một dòng duy nhất chứa cả thẻ và mô tả với \n. Vậy mình giữ nguyên như một dòng, nhưng dịch phần mô tả. Tuy nhiên, để đúng số dòng, nếu input có một dòng, output cũng một dòng. Vậy mình dịch: "<font color='#199C2C'>Thiết kế bởi: icemunmun.</font>\nMột món ăn giàu của gà trong sốt cà chua gia vị, bơ và kem." (giữ nguyên \n trong dòng).
+47. Cook Butter Chicken -> Nấu Gà Bơ
+48. Butter Chicken -> Gà Bơ
+49. Make Brigadeiro -> Làm Brigadeiro
+50. Mô tả Brigadeiro: dài, có \n\n. Tương tự, dịch toàn bộ: "Nguồn gốc của món tráng miệng này không chắc chắn, nhưng lý thuyết phổ biến nhất là nó được tạo ra bởi một người làm bánh từ Rio de Janeiro, Heloisa Nabuco de Oliveira, để quảng bá cho candidacy tổng thống của Brigadier Eduardo Gomes, do đó tên &quot;Brigadeiro.&quot;\n\nMón tráng miệng này được làm từ sữa đặc, bột ca cao, bơ và các hạt socola phủ bên ngoài tạo nên món ăn hoàn hảo kiểu miệng. Vì nó rất dễ làm - và thôi nào, thực sự ngon! - nó đã trở thành một phần không thể thiếu trong các bữa tiệc và bất kỳ lễ hội nào. Vì vậy, đừng ngạc nhiên khi thấy chúng ở bất kỳ lễ hội Brazil nào!\n\nVà đừng quên, đây là món ăn phù hợp chay!" (giữ nguyên &quot;)
+51. Serve Brigadeiro -> Phục vụ Brigadeiro
+52. Brigadeiro -> Brigadeiro
+53. Make BLT -> Làm BLT
+54. Bake Black and White Cookies -> Nướng Bánh Quy Đen Trắng
+55. Black and White Cookie -> Bánh Quy Đen Trắng
+56. Serve Black and White Cookies -> Phục vụ Bánh Quy Đen Trắng
+57. Black and White Cookies -> Bánh Quy Đen Trắng
+58. Cook Blackened Bass -> Nấu Cá Bass Đen
+59. Lactose Free -> Không chứa lactose
+60. Serve Blackened Bass -> Phục vụ Cá Bass Đen
+61. Blackened Bass -> Cá Bass Đen
+62. Bake Apple Pie -> Nướng Bánh Táo
+63. Seriously Suave -> Thực Sự Lịch Lãm
+64. Let's Go Downtown -> Đi Về Trung Tâm
+65. Often I Wonder -> Thường Tôi Suy Nghĩ
+66. Saloon Sweetheart -> Người Tình Quán Rượu
+67. Meant to Sims -> Dành Cho Sims
+68. All My Hearts -> Tất Cả Trái Tim Tôi
+69. Relationship Bits -> Mảnh Ghép Mối Quan Hệ
+70. For Bella -> Cho Bella
+71. I Failed the Smoke -> Tôi Thất Bại Với Khói
+72. Where'd the Day Go -> Ngày Đi Đâu Rồi
+73. No Time for Now -> Không Có Thời Gian Cho Bây Giờ
+74. Social Positioning -> Vị Trí Xã Hội
+75. Cue the Queue -> Bắt Đầu Hàng Chờ
+76. PPT on Deck -> Slide Trên Boong
+77. My Kind of Day -> Ngày Của Tôi
+78. The Song of Sophistication -> Bài Hát Của Sự Tinh Tế
+79. The Melody of Mealtime -> Giai Điệu Của Bữa Ăn
+80. The Etude of Egress -> Bài Tập Của Sự Ra Vào
+81. The Ditty of Drowsiness -> Bài Hát Ngắn Của Sự Buồn Ngủ
+82. The Carol of Cleaning -> Bài Ca Của Việc Dọn Dẹp
+83. A Quality Life -> Một Cuộc Sống Chất Lượng
+84. Llama's Lament -> Than Vân Của Lạc Đà
+85. Latin Tappin' -> Latin Đập Nhịp
+86. Los Simoleones -> Những Đồng Simoleon
+87. JRBM #2 -> JRBM #2 (giữ nguyên)
+88. Frankly So -> Thành Thật Thì
+89. Who's Gone -> Ai Đã Đi Rồi
+90. The Bitter W -> W Đắng Cay
+91. The Duke -> Công Tước
+92. Froggy Country -> Đất Nước Ếch
+93. Comin' Down the Pipeline -> Đang Đến Từ Đường Ống (lưu ý: trong input có dấu cách trước, nhưng khi tách, dòng này là " Comin' Down the Pipeline" với dấu cách đầu? Trong danh sách, nó là " Comin' Down the Pipeline" với một dấu cách. Khi dịch, mình nên giữ nguyên dấu cách? Có lẽ là lỗi, nên bỏ dấu cách. Mình dịch: "Đang Đến Từ Đường Ống")
+94. Twasn't True -> Không Phải Sự Thật
+95. Neighborhood Walkby -> Đi Dạo Quanh Khu Phố
+96. Bring my Prop -> Mang Đồ Cũ Tôi
+97. Under a Medieval Moon -> Dưới Mặt Trăng Trung Cổ
+98. Dragon's Lullaby -> Bài Hát Ru Của Rồng
+99. For the Realm -> Cho Vương Quốc
+100. The Princess and the Knave -> Công Chúa và Kẻ Lừa Đảo
+101. Hogan's Diner Blues -> Blues Của Tiệm Ăn Hogan
+102. Lost My Burger -> Mất Bánh Hamburger
+103. Let's Meet Again -> Hẹn Gặp Lại
+
+Bây giờ, cần đếm xem có đúng 103 dòng không? Trong danh sách trên, mình có đến 103 dòng? Mình đếm từ 1 đến 103, nhưng thực tế có thể không chính xác vì các đoạn mô tả dài có thể chia thành nhiều dòng.
+
+Để đảm bảo, mình sẽ không đếm thủ công mà dựa vào cấu trúc: input ban đầu có các dòng sau khi tách. Nhưng vì mình không có thể tách trực tiếp, nên mình sẽ output theo định dạng tương tự, với mỗi dòng dịch tương ứng.
+
+Tuy nhiên, có một vấn đề: trong input, các đoạn mô tả dài có thể nằm trong một dòng, nhưng khi tách bằng \n, chúng thành nhiều dòng. Vậy output cũng phải chia tương ứng.
+
+Ví dụ: dòng mô tả Challah: trong input, nó là một dòng dài có \n\n, nên khi tách, nó thành ít nhất 3 dòng (phần đầu, phần giữa, phần cuối). Mình đã chia thành dòng 31 (toàn bộ đoạn), nhưng thực tế nên chia theo newline.
+
+Quyết định: Mình sẽ dịch toàn bộ input thành một chuỗi, và giữ nguyên tất cả các newline. Có nghĩa là, nếu input có một dòng chứa "\n\n", thì trong output, dòng đó vẫn chứa "\n\n", nhưng nội dung được dịch. Tuy nhiên, khi tách input bằng \n, mỗi phần tử không chứa \n. Vậy nếu input có dòng chứa \n, thì khi tách, nó sẽ bị tách. Do đó, để giữ nguyên cấu trúc, mình phải biết input gốc có bao nhiêu dòng.
+
+Có lẽ đơn giản nhất là: coi input như một văn bản, và thay thế tất cả các từ khóa và đoạn văn bằng bản dịch, nhưng giữ nguyên các thẻ HTML, biến, và newline. Vậy mình sẽ tìm và thay thế.
+
+Nhưng với các đoạn dài, mình phải dịch toàn bộ đoạn đó.
+
+Mình sẽ làm từng phần:
+
+1. Các dòng hành động và tên món: dịch như trên.
+
+2. Các đoạn mô tả: dịch toàn bộ.
+
+3. Các tên bài hát: dịch.
+
+4. Giữ nguyên các thẻ HTML, chỉ dịch text trong thẻ nếu có.
+
+5. Giữ nguyên {0.SimFirstName}.
+
+6. Giữ nguyên các ký tự đặc biệt như &quot;.
+
+Bây giờ, mình sẽ viết output.
+
+Lưu ý: trong input, có dòng "Cook Baked Chocolate Mousse" rồi dòng tiếp theo là đoạn có thẻ HTML và mô tả. Nhưng trong danh sách, sau "Cook Baked Chocolate Mousse" là dòng chứa thẻ và mô tả, rồi "Baked Chocolate Mousse". Vậy có thể "Cook Baked Chocolate Mousse" là hành động, và "Baked Chocolate Mousse" là tên món, còn đoạn giữa là mô tả. Tương tự cho các món khác.
+
+Vậy cấu trúc: [Hành động], [Tên món], [Mô tả (nếu có)], [Hành động khác], [Tên món], ...
+
+Nhưng trong input, nó không theo cấu trúc nghiêm ngặt. Mình sẽ dịch theo thứ tự xuất hiện.
+
+Để đơn giản, mình sẽ dịch từng dòng như đã liệt kê ở trên, với giả định rằng mỗi dòng trong input là một dòng riêng, và các dòng mô tả dài là một dòng duy nhất (không có newline bên trong). Tuy nhiên, trong input, các mô tả có \n\n, nên chúng thực sự có newline. Vậy khi tách input, chúng sẽ thành nhiều dòng.
+
+Do đó, mình cần xem input như một chuỗi và giữ nguyên newline. Cách làm: mình sẽ thay thế nội dung tiếng Anh bằng tiếng Việt trong từng đoạn, nhưng không thay đổi newline.
+
+Ví dụ: đoạn "Churrasco is ...\n\nAs a bonus..." sẽ được dịch thành "Churrasco là ...\n\nVới điểm cộng...", giữ nguyên \n\n.
+
+Tương tự cho các đoạn khác.
+
+Vậy mình sẽ xử lý từng đoạn:
+
+- Đoạn 1: từ "Cook Eggs and Toast" đến "Cioppino" là các dòng đơn, dịch từng cái.
+
+- Đoạn Churrasco: dịch toàn bộ đoạn đó, giữ nguyên \n\n.
+
+- Đoạn Baked Chocolate Mousse: dịch toàn bộ, giữ nguyên thẻ HTML và \n.
+
+- Đoạn Challah: dịch toàn bộ, giữ nguyên \n\n.
+
+- Đoạn Butter Chicken: dịch toàn bộ, giữ nguyên thẻ HTML và \n.
+
+- Đoạn Brigadeiro: dịch toàn bộ, giữ nguyên \n\n.
+
+- Các món khác: dịch từng dòng.
+
+- Các bài hát: dịch từng dòng.
+
+Bây giờ, mình sẽ viết output.
+
+Đầu tiên, dịch các dòng từ 1 đến 13, 16,17, 18, 23-39, 41-62, 63-103.
+
+Các dòng mô tả: 14-15 (Churrasco), 19-22 (Baked Chocolate Mousse), 31 (Challah), 46 (Butter Chicken), 50 (Brigadeiro).
+
+Nhưng dòng 31 là toàn bộ đoạn Challah, trong input nó là một dòng dài có \n\n, vậy mình dịch toàn bộ và giữ nguyên \n\n.
+
+Tương tự, dòng 46: có thẻ HTML và \n rồi mô tả, nên dịch: thẻ HTML dịch "Designed by", mô tả dịch, giữ nguyên \n.
+
+Dòng 50: mô tả Brigadeiro, dịch toàn bộ, giữ nguyên \n\n.
+
+Bây giờ, mình sẽ viết từng phần.
+
+Output:
+
+Chiên Trứng và Bánh Mì Nướng
+Trứng và Bánh Mì Nướng
+Nướng Thịt Heo Vòng
+Thịt Heo Vòng
+Nướng Bánh Quy Trái Tim Quyến Rũ
+Bánh Quy Trái Tim Quyến Rũ
+Bánh Quy Trái Tim Quyến Rũ
+Nướng Bánh Quy Socola Chip
+Bánh Quy Socola Chip
+Phục vụ Bánh Quy Socola Chip
+Bánh Quy Socola Chip
+Nấu Cioppino
+Cioppino
+Churrasco là một phương pháp nướng thịt kiểu Brazil trong đó các miếng thịt mọng nước, lát, bít tết và sườn từ bò, bê, cừu, heo và gà được xuyên qua các xiên lớn và nướng trên lửa củi. Thực hành này bắt đầu từ đầu những năm 1800 khi những người Gaúcho (người định cư

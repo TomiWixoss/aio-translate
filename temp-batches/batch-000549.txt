@@ -1,0 +1,100 @@
+Tiếng Kêu Nghi Ngờ
+Có gì đó nghe hao hao giống với tiếng giày lông thú nhỏ.
+Cơn Giận Bất Ngờ
+Giỏi thì giữ mồm chút đi, mấy con chuột!
+Chuột!
+Eek! Aak! Những sinh vật gây hại đã tự nhiên như ở nhà!
+Làm Tệ Thêm!
+Cố gắng sửa một vấn đề chung cư. Thử và thất bại. Thất bại.
+Anh Hùng Tay Nghề!
+Đúng rồi! Cần gì Landlord khi sửa chung cư dễ như trở bàn tay?
+Gió Mát Mẻ
+Luồng gió mát rượi khiến {0.SimFirstName} sảng khoái.
+Gió Lạnh Cực Độ
+Ở trong tầm ảnh hưởng của luồng khí lạnh từ máy lạnh là một trải nghiệm KHÔNG TỐT.
+Clay có tiềm năng khủng khiếp. Tất cả các khả năng đều truyền cảm hứng!
+Ánh Sáng An Uy
+Ánh sáng dịu từ Đèn Đêm thật sự an ủi!
+Gọi Tôi Là Cupid
+Cho {0.SimFirstName} cung tên và mũi tên, Cupid có đối thủ rồi!
+Kết Nối Bạn Bè
+Giúp người khác kết nối luôn mang lại cảm giác vui sướng!
+Gần Như Yêu
+Gần Bạn Đời
+Cái bụng cổ không được thoải mái cho lắm.
+Một Ngày Âm Nhạc và Cảm Hứng
+Cảm thấy được truyền cảm hứng từ những màn trình diễn âm nhạc tuyệt vời.
+Âm Nhạc Trong Không Khí
+Trải nghiệm một Buổi Biểu Diễn Trực Tuyến tuyệt vời như thế này mang lại tất cả những cảm xúc tốt đẹp! Hạnh phúc quá tải!
+Chứng Kiến Màn Trình Diễn Siêu Sao!
+Một màn trình diễn kinh ngạc! Và {0.SimFirstName} đã có mặt tại đó!!
+Gần Người Biểu Diễn Thế!
+{0.SimFirstName} chạy ra phía trước đám đông và cảm thấy rất phấn khích! {M0.Anh ấy}{F0.Cô ấy} cảm thấy như mình đang ở ngay trên sân khấu!
+Chỗ Hàng Ngay Đầu!
+{0.SimFirstName} không thể tin nổi {M0.anh ấy}{F0.cô ấy} lại gần Bebe Rexha đến thế! VÀ được nghe trực tiếp bản phối acoustic đầy tâm hồn của ca khúc Sabotage. Dù việc lao lên phía trước và vung tay trong không khí có thể không được Sim phía sau {0.SimPronounObjective} thích, khoảnh khắc này quá kỳ diệu để {0.SimPronounObjective} quan tâm.
+Càng Nhiều Càng Vui!
+{0.SimFirstName} đã bắt đầu nghĩ đến những việc vui để làm cùng những người hàng xóm mới. Ghế thăm? Mời họ đến dự tiệc? Tất cả các lựa chọn trên!
+Cảm Thấy Chật Chội
+Có thêm hàng xóm là điều cuối cùng {0.SimFirstName} muốn. Nếu hỏi {0.SimFirstName}, con số vàng về số hàng xóm là... không có ai.
+Vậy Là... Quá... Nhiều... Đồ Đạc...
+{0.SimFirstName} không thể chờ để gặp đồ đạc của người hàng xóm mới! Khoan, không. {F0.Cô ấy}{M0.Anh ấy} không thể chờ để sở hữu đồ đạc của người hàng xóm mới - Ơ, à... Có lẽ {0.SimFirstName} nên ghé chào hỏi thôi (và chắc chắn không trộm cái nào).
+Bẩn Thỉu
+{0.SimFirstName} rất hôi! Tắm cho {0.SimFirstName} để sạch sẽ và thơm tho!
+Bụi Bặm
+Bụi bặm và bùn đất chỉ là một phần của cuộc sống trẻ con, nhưng một cuộc tắm nhỏ cũng không có hại.
+Bẩn Thỉu
+{0.SimFirstName} rất hôi! Tắm cho {0.SimFirstName} để sạch sẽ và thơm tho!
+Bụi Bặm
+Bụi bặm và bùn đất chỉ là một phần của cuộc sống trẻ con, nhưng một cuộc tắm nhỏ cũng không có hại.
+Đói Khát
+{0.SimFirstName} cần ăn ngay!
+Trở Nên Đói Khát Trong: {0.Timespan}
+Đói
+{0.SimFirstName} đang đói! Ăn gì đó trước khi Cơn Đói tệ hơn.
+Đói Khát
+{0.SimFirstName} cần ăn ngay!
+Trở Nên Đói Khát Trong: {0.Timespan}
+Dễ Cáu
+{0.SimFirstName} đang đói! Ăn gì đó trước khi Cơn Đói tệ hơn.
+Khao Khát Vui Chơi Khủng Khiếp
+{0.SimFirstName} đang khao khát các hoạt động vui chơi một cách tuyệt vọng!
+Cần Sự Giải Trí
+{0.SimFirstName} thực sự cần một việc gì đó vui để làm.
+Khao Khát Vui Chơi Khủng Khiếp
+{0.SimFirstName} đang khao khát các hoạt động vui chơi một cách tuyệt vọng!
+Cần Sự Giải Trí
+{0.SimFirstName} thực sự cần một việc gì đó vui để làm.
+Kiệt Sức
+Đứa trẻ này sắp ngất. Đã đến lúc đặt {M0.nó}{F0.nó} dưới chăn để có giấc ngủ cần thiết rồi.
+Mệt Mỏi
+Ngất Trong: {0.Timespan}
+{0.SimFirstName} mệt và sẽ cần nghỉ ngơi sớm.
+Chuyện Gì Vừa Xảy Ra?
+Khi trẻ con ngã, chúng ngã thật sự. Một chút nghỉ ngơi sẽ khắc phục được chuyện này!
+Kiệt Sức
+Đứa trẻ này sắp ngất. Đã đến lúc đặt {M0.nó}{F0.nó} dưới chăn để có giấc ngủ cần thiết rồi.
+Mệt Mỏi
+{0.SimFirstName} mệt và sẽ cần nghỉ ngơi sớm.
+Ngất Trong: {0.Timespan}
+Dùng Bỉm Trong: {0.Timespan}
+Nếu {0.SimFirstName} không nhanh chóng đến Bồn Cầu, sắp có vấn đề vũng nước rồi!
+Sẽ Cực Kỳ Muốn Đi Tiểu Trong: {0.Timespan}
+{0.SimFirstName} cần đi vệ sinh! Sớm thôi!
+Dùng Bỉm Trong: {0.Timespan}
+Cực Kỳ Muốn Đi Tiểu
+Nếu {0.SimFirstName} không nhanh chóng đến Bồn Cầu, sắp có vấn đề vũng nước rồi!
+Sẽ Cực Kỳ Muốn Đi Tiểu Trong: {0.Timespan}
+Muốn Đi Tiểu
+{0.SimFirstName} cần đi vệ sinh! Sớm thôi!
+Một Mình?
+Mình bị bỏ lại một mình lâu thế rồi... Tại sao họ lại bỏ rơi mình?
+Mọi Người Đâu Rồi?
+Một vấp ngã nhục nhã cho nghệ sĩ thoát hiểm nghiệp dư này. May mắn hơn lần sau nhé!
+Sẽ Thành Đồ Ăn. NGAY BÂY GIỜ! Trong: {0.Timespan}
+Ngon Quá!
+Ôi! {0.SimFirstName} nghĩ rằng sự kết hợp hương vị và kết cấu đó ngon ơi là ngon!
+Chán Nản Thực Phẩm
+{0.SimFirstName} muốn khám phá đồ ăn mới, nhưng cứ tiếp tục nhận được những hương vị và kết cấu lặp đi lặp lại.
+Phản Bội
+Kinh! {0.SimFirstName} không thích đồ ăn đó chút nào! Sự phản bội!
+Vảy Ở Mông

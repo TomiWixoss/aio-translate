@@ -1,0 +1,100 @@
+Hào hứng về tính nghịch ngợm
+Hào hứng về sản xuất truyền thông
+Hào hứng về đan móc
+Hào hứng về sự khéo léo
+Hào hứng về đàn guitar phím mỏng
+Hào hứng về làm vườn
+Hào hứng về thể dục
+Hào hứng về câu cá
+Hào hứng về cưỡi ngựa
+Hào hứng về pha tr mix DJ
+Hào hứng về nghiên cứu và tranh luận
+Hào hứng về nhảy múa
+Hào hứng về thêu chữ thập
+Hào hứng về nấu ăn
+Hào hứng về hài kịch
+Hào hứng về bowling
+Hào hứng về làm bánh
+Hào hứng về diễn xuất
+Than phiền về việc viết lách
+Lên án khái niệm sức khỏe
+Phàn nàn về đàn violin
+Rên rỉ về trò chơi điện tử
+Khóc thầm khi trượt tuyết
+Thốt lên <i>"Đưa tôi khỏi ngọn núi này ngay"</i> một cách lịch sự
+Phản đối việc hát <b>MỘT LẦN NỮA</b>
+Tuyên bố lòng căm ghét vô lý đối với khoa học tên lửa
+Phản đối leo núi đá
+Bác bỏ robot học
+Phản đối lập trình
+Không đồng tình với sự tồn tại của đàn ống
+Than khóc về âm thanh của đàn piano
+Tuyên bố căm ghét nhiếp ảnh
+Rên rỉ về hội họa
+Giẫm đạp lên việc làm mật ong
+Lo lắng về pha chế rượu
+Phản đối sự nghịch ngợm
+Than vãn về sản xuất truyền thông
+Lên án việc đan móc
+Lên án những ưu điểm của sự khéo léo
+Phàn nàn về đàn guitar
+Càu nhàu về làm vườn
+Càu nhàu về tập luyện
+Tuyên bố câu cá cực kỳ nhàm chán
+Giẫm đạp lên việc cưỡi ngựa
+Lên tiếng về pha tr mix DJ
+Tuyên bố nghiên cứu và tranh luận là dành cho mấy thằng mọt sách
+Lo lắng về việc nhảy múa
+Chế giễu sự khéo léo trong thêu thùa
+Than thở về nấu ăn
+Lên án hài kịch
+Chia sẻ sự ghê tởm về bowling
+Phản đối việc làm bánh
+Càu nhàu về diễn xuất
+Hỏi về sở thích âm nhạc
+Nói về màu tồi tệ nhất
+Nói về màu tốt nhất
+Hỏi về màu yêu thích
+Hỏi về sở thích và kỹ năng
+Mời {1.SimFirstName} ở lại qua đêm
+Trân trọng việc bạn cho tôi ở nhờ đêm nay trong khi tôi ổn định bản thân. Tôi thực sự nghĩ bạn sẽ cười vào mặt tôi. Cảm ơn, {0.SimFirstName}, tôi sẽ không quên điều này.
+Mời Sim ngủ ở nhà bạn qua đêm.
+Tôi không chắc mình đã nghĩ gì. Tại sao tôi lại mong bạn trong số tất cả mọi người giúp đỡ? Bạn luôn rất háo hức trở thành người giỏi nhất và khoe thành tích trước mặt tôi. Tôi cá là bạn sẽ rất thích khoảnh khắc này. Vậy thì hãy tận hưởng đi, {0.SimFirstName}, vì tôi hứa với bạn, tôi sẽ không ngừng nghỉ cho đến khi trở lại đỉnh cao. Trò chơi bắt đầu rồi, kẻ thua cuộc.
+Hào hứng về việc thắng trò chơi
+Hào hứng về việc thắng MySims Racing
+Hào hứng về việc thắng Party Frenzy
+Khoe khoang về việc thắng trò chơi
+Khoe khoang về việc thắng MySims Racing
+Khoe khoang về việc thắng Party Frenzy
+Chúc mừng chiến thắng trò chơi
+Chúc mừng chiến thắng MySims Racing
+Chúc mừng chiến thắng Party Frenzy
+Đồng cảm với việc thua cuộc
+Đồng cảm với việc thua MySims Racing
+Đồng cảm với việc thua Party Frenzy
+Phỏng vấn {1.SimFirstName}
+Thảo luận về trang phục
+Thảo luận về thời trang
+Chê bai phong cách
+Khen ngợi phong cách
+Tạo mẫu trang phục cho {2.SimFirstName}
+Mời {1.SimFirstName} làm mẫu trang phục
+Cố gắng động viên một cách bi thảm
+Bỏ tắt tiếng
+Tắt tiếng
+Tôi nhận thấy bạn đã ăn uống một lúc lâu rồi, nên đã gọi một chiếc pizza. Nó đang trên đường, nhưng đừng lo về việc trả tiền - lần này tôi mời!
+Tôi nhận thấy bạn có thể dùng đến dọn dẹp, nên đã gửi yêu cầu cho một người giúp việc miễn phí. Người giúp việc của bạn sẽ đến vào {0.DayOfWeekLong} lúc {0.TimeShort}.
+Tôi nhận thấy có thứ gì đó bị hỏng, nên đã gửi yêu cầu cho một kỹ thuật viên sửa chữa miễn phí, người sẽ đến vào {0.DayOfWeekLong} lúc {0.TimeShort}.
+Ngủ ở đây
+Ngủ
+Tiếp tục nâng cấp hiệu suất cao
+Nâng cấp hiệu suất cao
+Nâng cấp hiệu suất cao
+Hoàn thành bản phác thảo nhanh hơn với Nâng cấp này.
+[Không dùng?] Tái tạo tác phẩm nghệ thuật
+Vẽ tranh phun sơn
+Vẽ chân dung
+Vẽ logo
+Vẽ biểu tượng
+Vẽ thiết kế môi trường
+Vẽ thiết kế nhân vật

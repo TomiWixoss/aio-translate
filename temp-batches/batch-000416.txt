@@ -1,0 +1,147 @@
+Loại tiệc đón nhà mới nào phù hợp với bạn? Nếu bạn thích một đêm nhảy và uống rượu, tôi đề xuất một bữa tiệc tại nhà. Nếu bạn tìm kiếm một buổi tiệc ấm cúng hơn, tiệc tối là lựa chọn hoàn hảo—miễn là bạn không đốt cháy ngôi nhà mới khi nấu ăn!
+
+Chuẩn bị không cần thiết nhưng một chút cũng có tác dụng lớn! Bạn có thể bật một vài bài nhạc hay, dọn dẹp chén dĩa, và tự làm mới bản thân. Ngôi nhà của bạn thiếu gì không? Có lẽ một quầy bar phục vụ đồ uống, hoặc một chiếc bàn ăn phù hợp? Mua đi! Một vài đồ trang trí đẹp cũng không có hại!
+
+Khi nào bạn sẵn sàng, chỉ cần lấy điện thoại và mời mọi người đến. Tại thời điểm này, bạn cũng có thể thuê người phục vụ, bartender, và nhiều hơn—nếu ví cho phép!
+
+Đừng lo, bạn làm được! Không thể chờ, hẹn sớm gặp lại!
+Ý bạn không phải là, &quot;Kể tôi nghe thêm về kỹ năng xã hội, &lt;i&gt;đi&lt;/i&gt;?&quot; May mắn là tôi đã gọi!
+
+Nếu bạn tin rằng một trò đùa vui nhộn là chìa khóa đến trái tim Sim, hãy tập trung nỗ lực vào kỹ năng Hài hước. Mọi người đều yêu thích người giải trí!
+
+Kỹ năng Quậy phá là một kỹ năng xã hội khó kiểm soát; một số Sim thích bị chơi khăm, trong khi số khác ghét điều đó. Nhưng nếu bạn làm chủ nghệ thuật quậy phá, bạn sẽ có thể mang nụ cười đến cho những Sim nghiêm túc nhất.
+
+Theo tôi, kỹ năng xã hội quan trọng nhất là Sức hút. Không chỉ bạn phát triển các mối quan hệ mới nhanh hơn, mà tất cả tương tác xã hội của bạn cũng trở nên mạnh mẽ và có khả năng thành công cao hơn! Nếu bạn muốn trở thành một diễn viên hài hay hoặc người chơi khăm giỏi, việc cải thiện Sức hút cũng rất đáng giá.
+Bạn đã thử nước tăng lực mới này, &quot;Moodlet Solver&quot; chưa? Nó khiến tôi tràn đầy năng lượng, tôi có thể nhảy cả đêm!
+Bạn đã thử nước tăng lực mới này, &quot;Moodlet Solver&quot; chưa? Nó khiến tôi tràn đầy năng lượng, tôi có thể nâng tạ cả đêm!
+(Từ Kịch bản Tân Trấn)
+Bạn nên mời họ đi chơi! Và sau đó bạn nên &lt;i&gt;tuyệt đối&lt;/i&gt; kể cho tôi nghe từng chi tiết nhỏ. Đừng quên tự làm mới trước gương trước, nó luôn khiến tôi có tâm trạng Đồng cảm. Tôi đang cầu chúc cho bạn!
+Bạn nên thử vào tâm trạng Tự tin, tôi thấy nó giúp ích rất nhiều trong các tình huống xã hội. Nói về điều đó, tôi sẽ tự tạo động lực trước gương. Tôi không thể chờ để gặp những người bạn còn lại của bạn!
+(Từ Khám phá Tàu Vũ trụ)
+(Từ Việc Đối tượng Bị thu hồi)
+(Từ Cuộc chiến với Người thu hồi)
+{1.SimFirstName} đã xem xét lại Ranh giới Lãng mạn của {1.SimPronounPossessiveDependent} sau khi thảo luận với {0.SimFirstName}.
+
+{1.SimFirstName} sẽ &lt;b&gt;không cảm thấy ghen&lt;/b&gt; khi đối tác thực hiện {T0.Mess Around}{DAE0.WooHoo}.
+{1.SimFirstName} đã xem xét lại Ranh giới Lãng mạn của {1.SimPronounPossessiveDependent} sau khi thảo luận với {0.SimFirstName}.
+
+{1.SimFirstName} sẽ &lt;b&gt;cảm thấy ghen&lt;/b&gt; khi đối tác thực hiện {T0.Mess Around}{DAE0.WooHoo}.
+{1.SimFirstName} đã xem xét lại Ranh giới Lãng mạn của {1.SimPronounPossessiveDependent} sau khi thảo luận với {0.SimFirstName}.
+
+{1.SimFirstName} sẽ &lt;b&gt;không cảm thấy ghen&lt;/b&gt; khi đối tác thực hiện quan hệ lãng mạn &lt;i&gt;(trừ {T0.Mess Around}{DAE0.WooHoo})&lt;/i&gt;.
+{1.SimFirstName} đã xem xét lại Ranh giới Lãng mạn của {1.SimPronounPossessiveDependent} sau khi thảo luận với {0.SimFirstName}.
+
+{1.SimFirstName} sẽ &lt;b&gt;cảm thấy ghen&lt;/b&gt; khi đối tác thực hiện quan hệ lãng mạn &lt;i&gt;(trừ {T0.Mess Around}{DAE0.WooHoo})&lt;/i&gt;.
+{1.SimFirstName} đã xem xét lại Ranh giới Lãng mạn của {1.SimPronounPossessiveDependent} sau khi thảo luận với {0.SimFirstName}.
+
+{1.SimFirstName} sẽ &lt;b&gt;không cảm thấy ghen&lt;/b&gt; khi đối tác thực hiện quan hệ lãng mạn phi vật chất.
+{1.SimFirstName} đã xem xét lại Ranh giới Lãng mạn của {1.SimPronounPossessiveDependent} sau khi thảo luận với {0.SimFirstName}.
+
+{1.SimFirstName} sẽ &lt;b&gt;cảm thấy ghen&lt;/b&gt; khi đối tác thực hiện quan hệ lãng mạn phi vật chất.
+(Từ Sim Trung thành chê bai bạn bè)
+(Từ Sim Trung thành phản bội bạn đời)
+(Từ Lần WooHoo Đầu tiên)
+(Từ Uống Nektar)
+(Từ Một Cặp Đôi Tuyệt vời)
+(Từ Sách Thiếu nhi)
+(Từ Được Trấn an)
+(Từ Bị Hét lên)
+(Từ Nghe lén Sim Chê bai)
+(Từ Nghe lên Nói tốt)
+(Từ Thấy Gà Yêu quý Chết)
+(Từ Bùa Chillio)
+(Từ Đặc điểm Tay Phải của Grim)
+(Từ Thấy Gà Yêu quý Bị Bán đi)
+{0.SimFirstName} thấy {M0.himself}{F0.herself} đang đứng trong một vùng đất thời tiền sử bao quanh bởi thực vật và động vật từ lâu đã qua.
+
+{M0.He}{F0.She} chỉ sắp khám phá, khi {M0.he}{F0.she} cảm thấy cánh cổng cố gắng kéo {0.SimPronounObjective} trở lại. {0.SimFirstName} đạp chân {M0.his}{F0.her} trong sự phản kháng. Không may, nó đạp phải thứ gì đó hơn cả mặt đất.
+
+{M0.He}{F0.She} với tay xuống ngay khi vùng đất biến mất, và {M0.he}{F0.she} đã trở về. Bất cứ thứ gì đó, bây giờ dường như là một tảng đá.
+
+{M0.He}{F0.She} nhặt nó lên.
+{0.SimFirstName} bước vào bóng tối...
+
+&quot;Này! Cậu đang làm gì ở đây?&quot; một giọng nói hỏi. {0.SimFirstName} ngạc nhiên khi thấy có người khác trong cánh cổng, tuy nhiên điều này không ngăn {0.SimPronounObjective} theo sau giọng nói.
+
+&quot;Được rồi thì! Lấy cái này, giữ im lặng, và ra khỏi đây,&quot; giọng nói ra lệnh khi {0.SimFirstName} cảm thấy một thứ gì đó rơi vào túi {M0.his}{F0.her}, theo sau là một cú đột ngột đẩy buộc {0.SimPronounObjective} quay lại con đường {M0.he}{F0.she} đã đi.
+{0.SimFirstName} bước vào cánh cổng, và được đưa đi đến vùng đồng cỏ nắng một lần nữa.
+
+Cây ánh sáng không có quả lần này, tuy nhiên trên mặt đất một khoảng cách ngắn bên ngoài nó, là quả Berry Cowplant hiếm có!
+
+{0.SimFirstName} bỏ vào túi phát hiện chỉ trong khoảnh khắc trước khi sự đưa đi trở lại đưa {M0.him}{F0.her} về nhà.
+{0.SimFirstName} bước vào cánh cổng, nhưng không thấy vùng đồng cỏ nắng quen thuộc. {M0.He}{F0.She} nghe thấy một âm thanh kỳ lạ, và theo sau âm thanh cho đến khi {M0.he}{F0.she} đá vào một tinh thể.
+
+Khi {0.SimFirstName} nhặt tinh thể lên, {M0.he}{F0.she} cảm thấy sự buồn nôn quen thuộc xảy ra khi bị tống ra khỏi Cây Cổng Đậu Thần kỳ.
+Chúng tôi nhận được báo cáo về một người du hành thời gian tiềm năng trong thị trấn.
+
+Danh tính, nguồn gốc và mục đích của họ vẫn chưa được xác nhận. Tuy nhiên, một số Sim đã chú ý đến mái tóc xanh đặc trưng của người mới đến này mà họ tin là Emit Relevart.
+
+Ginny, cô hãy tiếp nhận.
+Bạn tôi có một chiếc váy muy caliente rất hoàn hảo cho việc nhảy. Nhưng nó đã mất tích một thời gian rồi.
+Vật phẩm mất tích
+Có một bài hát cũ... nó là gì nhỉ? La la la la di da?
+Tôi đã lên kế hoạch một bữa tiệc bí mật lớn cho hàng xóm, nhưng chiếc bánh tôi đặt chưa bao giờ tới!
+Nghĩ lại, tôi có một chiếc đồng hồ báo thức mà tôi thực sự yêu thích đã mất tích. Tôi chỉ nghĩ rằng tôi đã để lạc nó.
+Tôi không để ý thấy có gì mất, nhưng xét lại, tôi không chú ý nhiều. Xin lỗi.
+Ai đó nói với tôi họ thấy một tia sáng khi họ ở gần công viên.
+Tôi vừa ở công viên và tôi nghĩ tôi thấy ai đó phù hợp với mô tả đó.
+Tôi vừa đi xem Sim và nghe thấy một tiếng nổ lớn. Có lẽ đó là thứ bạn đang tìm?
+Không, chưa thấy ai như vậy. Tôi sẽ thử công viên, mọi người đều tụ tập ở đó.
+Emit? Không, không biết Emit. Từng biết một Skip. Tôi tự hỏi anh ấy đã thế nào rồi?
+Vị trí của Emit
+Ồ, nếu bạn tìm thấy người du hành thời gian, hãy cho tôi biết. Tôi có nhiều câu hỏi để hỏi.
+Điều đó có thể ư? Tôi nghĩ bạn đã đọc quá nhiều Wells.
+Người du hành thời gian? Thời gian không tồn tại ngoài hiện tại.
+Tôi ước tôi có thể du hành thời gian! Tất nhiên bạn phải lo lắng về việc tái nhập. Một tòa nhà không có ở đó, lại có ở đó... nó làm cho tâm trí bối rối.
+Nếu tôi có thể du hành thời gian, bạn nghĩ tôi sẽ ở đây và không với khủng long ư!?
+Sim bị cáo buộc
+(Từ Thử thách Lô đất Săn Scare)
+Sự kiện Kết thúc
+Sự kiện Phần thưởng của Kẻ Thu hoạch đã kết thúc. Bạn vẫn có thể nhận bất kỳ phần thưởng nào đã được mở khóa trong Giao diện Sự kiện.
+Cảm ơn bạn đã mua! Bạn có thể tìm thấy Hoa Bóng Tử trong kho đồ của Sim.
+Hãy chắc chắn bạn biết cách câu cá. Bạn sẽ cần nó nếu muốn làm Ambrosia.
+Tôi dường như nhớ Ambrosia là một món ăn ngon.
+Ambrosia?! Tôi không chắc làm thế nào để làm nó, nhưng tôi rất muốn học và mang một con ma trở lại sống.
+Nếu bạn muốn làm Ambrosia, bạn sẽ cần sẵn sàng bẩn tay một chút.
+Tôi nghe nói bạn cần làm chủ kỹ năng Nấu ăn và Nấu ăn Cao cấp.
+Tại sao bạn hỏi tôi về Ambrosia? Tôi chưa nghe thấy gì!
+Bạn không thể tra cứu Ambrosia trên máy tính sao?
+Tôi không muốn nói về Ambrosia...
+(Từ Tập thể hình)
+(Từ Shake Protein)
+(Từ Tạo Virus)
+(Từ Tạo Plugin)
+(Từ Hack Hiệu suất Công việc)
+(Từ Thất bại khi Hack Hiệu suất Công việc)
+(Từ Hack Siêu máy tính)
+(Từ Hack Điểm số)
+(Từ Thất bại khi Hack Điểm số)
+(Từ Công việc Phụ tuyệt vời)
+(Từ Sim Đang chuyển cữa)
+Đã chuyển cữa!
+{0.SimFirstName} đang tràn đầy... sự mong chờ để gặp {M0.his}{F0.her} món quà mới!
+(Từ Tưới Cây Chậu)
+Đã bỏ lỡ Nhiệm vụ Khám phá
+Ôi không! Bạn đã bỏ lỡ cuộc gọi Nhiệm vụ Khám phá.
+
+Đừng lo, nó sẽ xuất hiện lại. Bạn cũng có thể mở Menu Tùy chọn, chọn Tùy chọn Game và sau đó Hướng dẫn & Mẹo và Bật hoặc Tắt Nhiệm vụ Khám phá, hoặc Đặt lại chúng.
+Bạn đã bắt đầu Nhiệm vụ Khám phá Trang trí Lên, nơi bạn sẽ học cách mở rộng ngôi nhà và thế giới xung quanh. Hoàn thành nhiệm vụ này để kiếm Simoleon!
+Đã biết về chúng rồi? Bạn luôn có thể hủy Nhiệm vụ Khám phá này với biểu tượng thùng rác hoặc tắt Nhiệm vụ Khám phá trong Menu Tùy chọn dưới Hướng dẫn & Mẹo.
+Trang trí Lên
+{0.SimFirstName} cảm thấy tự tin hơn trong {0.SimPronounReflexive}. Chỉ cần một chút nỗ lực nữa để cuối cùng đối mặt với nỗi sợ này.
+(Từ Trân trọng Ảnh Gia đình)
+{0.SimFirstName} nhận được Magic Bean Tức giận từ {1.SimFirstName}.
+{0.SimFirstName} nhận được Magic Bean Buồn bã từ {1.SimFirstName}.
+{0.SimFirstName} nhận được Magic Bean Đồng cảm từ {1.SimFirstName}.
+{0.SimFirstName} nhận được Magic Bean Tự tin từ {1.SimFirstName}.
+{0.SimFirstName} nhận được Magic Bean Bất an từ {1.SimFirstName}.
+{0.SimFirstName} nhận được Magic Bean Vui vẻ từ {1.SimFirstName}.
+{1.SimFirstName} tặng {0.SimFirstName} một hộp sọ đường để kỷ niệm Ngày của Người chết!
+(Từ Mua Thư viện Hàng xóm Nhỏ nhất)
+(Từ Đính hôn)
+(Từ Uống Thuốc)
+Sao? Bạn không nghĩ tôi sẽ là một phụ huynh tốt?! Tôi sẽ là một phụ huynh tuyệt vời!! Chúng ta sẽ đi Thử cho Bebé <i>ngay bây giờ</i>. Hãy coi đó, ha!
+Tự quyết định cho bản thân? Quá khó!
+Được rồi... well... tôi nghĩ... vâng! Chúng ta sẽ làm! Cảm ơn lời khuyên. Chúng ta đang có em bé!
+Bạn nghĩ vậy? Tôi đoán bạn đúng. Cảm ơn vì đã cho tôi một cú sốc thực tế.
+Tôi muốn <i>gì</i>? Tôi không biết tôi muốn gì! Tôi muốn bạn quyết định cho tôi. Rõ ràng tôi không thể dựa vào bạn cho những quyết định lớn và ảnh hưởng trong cuộc sống không thực sự liên quan đến bạn. Cảm ơn vì không có gì, {0.SimName}.

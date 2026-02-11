@@ -1,0 +1,100 @@
+Đặt một nồi lẩu
+Thăm con đường Ski Bunny
+Gặp gỡ Kodamas
+Lập kế hoạch cho các tuyến leo trèo
+Cần một kỳ nghỉ? Từ Chế độ Xây dựng, hãy chuyển bất kỳ lô đất nào không có cư dân ở bất kỳ Thế giới Cư dân nào thành loại lô Cho thuê, sau đó sử dụng điện thoại để Chọn Đi Nghỉ!
+Không biết tìm Simmi Capsules ở đâu? Có lẽ Yamachan có một hoặc hai ý tưởng về điều đó.
+Cần Nghỉ nhưng không thích điểm đến xa xôi? Đừng sợ nữa! Sim có thể đi nghỉ trong Thế giới Cư dân.
+Muốn làm ấm áp hơn một chút? Một Kotatsu trong nhà sẽ giúp bạn!
+Bạn đã thu thập được Simmi Capsule đầu tiên chưa? Phải thu thập tất cả chúng!
+Nếu thấy Yamachan trong thị trấn, đừng quên chụp một bức ảnh tự sướng!
+Khi Sim có ý thức về cảm xúc, họ có thể bước vào bất kỳ tâm trạng nào họ muốn bằng cách sử dụng Dòng cảm xúc bùng nổ lên chính mình.
+Sim có trở nên có ý thức về cảm xúc bằng cách sử dụng Suối nước nóng, đi dạo thiền định, hoặc nghe Trạm âm nhạc dân gian Nhật Bản!
+Một Cừu Hoàn Hảo là giấc mơ của mọi người chơi bowling… thực hiện mười cú strike liên tiếp trong một ván để đạt được thành tích hiếm này!
+Ăn phải miếng Nigiri Pufferfish làm tồi tệ có thể gây ra một trường hợp nhẹ của… CÁI CHẾT.
+Mọi thứ dường như luôn xảy ra sai với Đặc điểm Lô Đất Điểm Rắc Rối… không thể nói chúng tôi đã không cảnh báo bạn.
+Bạn có thể chơi nhạc với nhiều hơn giọng nói của mình bằng Kỹ năng Hát! Hãy thử sử dụng các nhạc cụ khác để hát và chơi.
+Ăn bằng đũa ban đầu không dễ dàng, nhưng chỉ cần kiên trì với nó!
+Cần ai đó để trò chuyện? Hãy tạo tiếng ồn với Potty Mouth 2.0!
+Học Định mệnh Lãng mạn của bạn từ Bậc Thầy Lãng mạn tại Lễ hội Lãng mạn.
+Rác của Sim này là kho báu của Sim khác. Hãy đến mua và trao đổi đồ sưu tập tại Chợ đồ cũ.
+Đèn Luminous Mycena
+Đèn này tỏa sáng trong đêm mang lại một chút kỳ ảo, cho dù đem thiên nhiên bên ngoài vào trong nhà, hay xây dựng một khu vườn lấy cảm hứng từ tiên.
+Hồ lá trên cao
+Một hồ nhỏ được bao bọc với những viên đá phủ rêu và những chiếc lá khổng lồ khiến nó như một thế giới nhỏ độc đáo riêng.
+Nội dung Kỹ thuật số Thiết lập Cửa hàng
+Đèn Điểm Xinh
+Xuất phát từ một món đồ tìm thấy trong tầng hầm bụi bặm, món này đã được phục chế yêu mến với các đường chỉ vàng làm nổi bật lịch sử của nó. Giờ đây là một trung tâm ấn tượng, nó truyền cảm hứng cho bạn tìm thấy vẻ đẹp trong những món được sửa chữa và giá trị trong sự không hoàn hảo.
+Tủ trưng bày Kẹo ngọt nhất
+Đưa kẹo của bạn ra diễu hành! Với bông kẹo bông mềm, kẹo quay xoáy và đậu phộng kẹo đầy màu sắc. Đó là một sự trưng bày ngọt ngào kinh khủng! Cảnh báo: có thể thu hút những người thích đồ ngọt với kích cỡ Sim.
+Tượng Priscilla Thực hành Mới Thành thạo
+Thêm sự duyên dáng vào không gian của bạn với Priscilla, ngôi sao nhạc rock tối thượng! Sự tự tin vĩnh cửu của cô cho thấy sự hoàn hảo thực sự đến từ sự tận tâm và kiên nhẫn. Một người định hình xu hướng đúng chất rock-solid, có sẵn phiên bản cổ điển hoặc phản kháng có hình xăm.
+~, 1, 2, 3
+Thử thách Tích cực
+Tích cực làm cho thế giới quay. Hãy giúp Sim của bạn lan tỏa một lời tử tế, sự hữu ích và cải thiện khu phố của Sim bạn!
+Thử thách Tích cực
+Sim của bạn đã bao giờ muốn làm cho thế giới tốt đẹp hơn chưa?\n\nTrong một khoảng thời gian giới hạn, Sim của bạn có thể kiếm được các poster truyền cảm hứng với năng lượng tích cực mạnh mẽ như phần thưởng cho việc làm cho khu phố trở nên tốt đẹp hơn.
+Thử thách Tích cực
+Người chơi Sims trên toàn thế giới đã thu thập {0.Number} Poster Tích cực! Đó là rất nhiều năng lượng tốt lành!
+Thử thách Tích cực kết thúc trong &lt;span class="timeremaining"&gt;{3.Number} {S3.day}{P3.days} và {2.Number} {S2.hour}{P2.hours}.&lt;/span&gt;\n\nHộ gia đình này đã thu thập {0.Number} trong số {1.Number} Poster Tích cực.\n\nĐể tham gia thử thách, hãy sử dụng điện thoại của Sim, chọn thẻ Xã hội, sau đó Gọi cho Millie Bobby Brown, Điều phối viên Sự kiện. Khi Millie Bobby Brown đến, nói chuyện với cô ấy để tìm hiểu về Thử thách Tích cực đang diễn ra!
+Chúc mừng, hộ gia đình này đã hoàn thành Thử thách Tích cực!
+Tuần Tăng Ba Lần: Từ Trang trại, đến chụp ảnh, đến Bàn ăn!
+Jasmine trở lại với một đề nghị ngon lành.
+Tăng Cây trồng, và Làm chậm Nhu cầu!
+Chỉ trong hai tuần, hãy tận dụng các Moodlets mạnh mẽ của Jasmine để tăng kỹ năng nghệ thuật, nấu ăn và trồng cây của Sim bạn lên. Bạn sẽ tận hưởng khả năng canh tác một vụ mùa bội thu mới của Sim, có thể được sử dụng trong việc chuẩn bị một bữa ăn bổ dưỡng. Ngoài ra, hãy khám phá phía sáng tạo của họ và tạo ra những bức tranh, tác phẩm điêu khắc hoặc ảnh chụp được đánh giá cao. Và mặc dù Jasmine chưa thể thao túng dòng thời gian, cô ấy có thể giúp làm chậm sự suy giảm Vệ sinh và Đói của Sim, cho bạn nhiều giờ rảnh rỗi hơn trong ngày để mở rộng khả năng của họ. Tận dụng cơ hội tăng ba lần này để giúp Sim của bạn chuẩn bị cho Gói mở rộng The Sims 4 Seasons!
+Thử thách PlantSim
+Thu thập Đậu Ma thuật! Trồng một cái cây! Trở thành một loài thực vật!
+Đậu Ma thuật
+Bạn đã bao giờ muốn Quang hợp chưa? Nghĩ về việc bạn ghét phải đi nhà vệ sinh thế nào chưa? PlantSims đã đến, và bạn cũng có thể trở thành một trong số họ!\n\nTrong một khoảng thời gian giới hạn, Sim có thể có được Đậu Ma thuật từ PlantSims đi lại trong thế giới để hoàn thành Thử thách PlantSims! Tương tác với Jasmine để tìm hiểu thêm và bắt đầu thu thập những Đậu Ma thuật đó!
+Thử thách PlantSim
+Người chơi Sims trên toàn thế giới đã thu thập {0.Number} tổng số đậu ma thuật!
+Thử thách PlantSim kết thúc trong &lt;span class="timeremaining"&gt;{3.Number} ngày và {2.Number} giờ.&lt;/span&gt;\n\nHoàn thành bộ sưu tập này bằng cách nói chuyện với PlantSims, và thu thập Đậu Ma thuật từ họ dựa trên trạng thái cảm xúc hiện tại của họ.\n\nĐể tìm hiểu thêm và có được Magic PlantSim Stump của riêng bạn, Hãy Gọi cho Jasmine Holiday, và khi cô ấy đến, Hỏi về Thử thách PlantSim.
+Chúc mừng, hộ gia đình này đã hoàn thành Thử thách PlantSim!\n\nĐặt sáu loại Đậu Ma thuật độc nhất vào một Magic PlantSim Stump, thêm nước, sau đó xem Cây cổng Đậu Ma thuật Siêu nhiên mọc lên ngay lập tức trước mắt bạn.\n\nBước vào bên trong để tìm phần thưởng của bạn!
+Tuần Tăng Ba Lần: Các Mối quan hệ
+Tìm thấy tình yêu nhanh gấp 3 lần!
+Tăng Các Mối quan hệ
+Tình yêu đang ở đây! Jasmine trở lại thị trấn, đóng vai Cupid. Chỉ trong tuần này, Sim của bạn có thể có được nụ hôn đầu tiên, cuộc hẹn nóng bỏng, hoặc thậm chí kết hôn nhanh gấp ba lần thông thường! Chỉ cần hỏi Jasmine về một sự tăng cường sẽ giúp bạn đạt được mục tiêu mối quan hệ nhanh gấp ba lần. Woohoo!
+Trẻ mới biết đi đã đến!
+Hãy để Sim của bạn yêu thương và chăm sóc chúng.
+Các vật thể mới dễ thương!
+Cho trẻ mới biết đi ăn ở ghế ăn dặm, đặt chúng ngủ trên giường nhỏ xíu của trẻ, và trang trí phòng của chúng với nội thất và hình dán mới. Các vật thể này và nhiều hơn nữa có thể được tìm thấy trong Chế độ Xây dựng.
+Giúp Chúng Phát triển!
+Thể hiện tình yêu thương và sự quan tâm cho các Sim nhỏ khi bạn dạy chúng đi, nói chuyện và sử dụng bô. Phát triển trí óc của chúng bằng cách đọc cho chúng nghe truyện, chơi với thẻ học và xếp khối.
+Những người mới đến!
+Trẻ mới biết đi đã đến! Có ba cách để mang những đứa trẻ dễ thương này vào cuộc sống của Sim bạn. Bạn có thể thêm chúng vào gia đình của mình trong Tạo Sim, để chúng lớn lên từ em bé, hoặc thậm chí nhận nuôi chúng. Mang chúng vào thế giới của bạn và tận hưởng những khoảnh khắc đặc biệt (đôi khi hỗn loạn) chỉ có thể trải nghiệm với trẻ mới biết đi.
+Tuần Tăng Ba Lần: Tất cả về Sự hài lòng
+Kiếm phần thưởng nhanh gấp 3 lần!
+Tăng Sự hài lòng, Làm chậm Nhu cầu!
+Chỉ trong tuần này, hãy giúp Sim của bạn kiếm phần thưởng nhanh hơn và cho họ nhiều thời gian vui vẻ hơn! Chỉ cần tìm bạn tốt của bạn Jasmine Holiday. Cô ấy sẽ tăng gấp ba sự hài lòng cho Sim của bạn và làm chậm nhu cầu thể chất của Sim. Ít phải đi nhà vệ sinh hơn, ít thời gian ngủ hơn và ít ăn hơn có nghĩa là có nhiều thời gian hơn để kiếm điểm và vui vẻ!
+Thử thách Ngày của Người đã Khuất
+Tôn vinh những người đã mất với lễ kỷ niệm sôi động về cuộc sống của họ.
+Đầu người đường đường
+Sim của bạn đã bao giờ muốn cải thiện mối quan hệ với… Tử thần chưa? Vậy bây giờ là cơ hội của họ!\n\nTrong một khoảng thời gian giới hạn, Sim có thể giành chiến thắng một phần thưởng khắc tinh thần tử thần bằng cách tham gia Thử thách Ngày của Người đã Khuất. Tương tác với Jasmine để bắt đầu thử thách, sau đó hỏi những Sim mặc trang phục đầy màu sắc đi ngang qua về một chiếc đầu đường đường. Thu thập cả chín để giành được phần thưởng của bạn!
+Ngày của Người đã Khuất
+Người chơi Sims trên toàn thế giới đã thu thập {0.Number} tổng số đầu đường đường!
+Thử thách Ngày của Người đã Khuất kết thúc trong &lt;span class="timeremaining"&gt;{3.Number} ngày và {2.Number} giờ.&lt;/span&gt;\n\nHộ gia đình này đã thu thập {0.Number} trong số {1.Number} đầu đường đường.\n\nĐể tham gia thử thách, hãy sử dụng điện thoại của Sim, chọn thẻ Xã hội, sau đó Gọi cho Jasmine Holiday. Khi Jasmine đến, nói chuyện với cô ấy để tìm hiểu về các nghi lễ Ngày của Người đã Khuất đang diễn ra!
+Chúc mừng, hộ gia đình này đã hoàn thành Thử thách Ngày của Người đã Khuất!\n\nĐể thu thập phần thưởng của bạn, hãy đặt mỗi chiếc đầu độc nhất vào một Tủ trưng bày Đầu đường đường. Sau đó, chọn tương tác Tôn vinh Người đã Khuất để nhận được một chiếc đầu đường đường mạ vàng và các tương tác nâng cao với Tử thần.
+Jasmine Holiday trở lại!
+Tuần Tăng Ba Lần: Kỹ năng và Sự nghiệp
+Tuần Tăng Ba Lần
+Giúp Sim của bạn đạt được mục tiêu kỹ năng và sự nghiệp nhanh hơn trong tuần này! Khao khát trở thành họa sĩ giỏi nhất tiếp theo? Người phục vụ? Tội phạm? Bất kể con đường sự nghiệp nào Sim của bạn đang theo đuổi, Jasmine muốn giúp họ đến đó NHANH và cô ấy sẽ giúp bằng cách tăng gấp ba Kỹ năng và Sự nghiệp của Sim bạn! Jasmine chỉ ghé thăm trong một khoảng thời gian giới hạn, vì vậy hãy tìm cô ấy và trò chuyện nhanh chóng để tận dụng lòng hào phóng tuyệt vời của cô ấy. Thật là một người bạn tuyệt vời!\n\n*Sẽ yêu cầu bản cập nhật mới nhất để chơi
+Tải The Sims Mobile và nhận một Bức chân dung Gia đình cho hộ gia đình The Sims 4 của bạn!
+Mới! Chơi The Sims Mobile!
+Chơi với cuộc sống trong The Sims Mobile! Hình thành phong cách sống của Sim khi bạn tạo tính cách, mối quan hệ và thế giới độc nhất của họ.\n\nGửi số điện thoại của bạn để nhận một Bức chân dung Gia đình bạn có thể đặt trong hộ gia đình The Sims 4 của bạn, và nhận liên kết để tải The Sims Mobile! Khi Sim của bạn tiến triển hoặc hộ gia đình thay đổi, nó được ghi lại trong khung ảnh này.
+Nhấp “GỬI” để nhận một tin nhắn văn bản từ Electronic Arts Inc., 209 Redwood Shores Parkway, Redwood City, CA 94065, tại số điện thoại trên. Phí tin nhắn và dữ liệu có thể được tính.\n\nBằng cách nhấp “GỬI”, bạn đồng ý với các Điều khoản SMS [ea.com/legal/sms]. Số điện thoại của bạn sẽ không được lưu trữ dưới dạng có thể đọc được và bạn sẽ không nhận được bất kỳ tin nhắn nào khác.
+Đàn Guitar Ma quỷ của Grim
+Đăng ký nhận email về The Sims™ và nhận Đàn Guitar Ma quỷ của Grim!
+The Sims Mobile
+Làm trong sự hợp tác với
+Từ
+{0.SimFirstName} bị &lt;b&gt;Không bị thu hút&lt;/b&gt; với {1.SimFirstName} ngay từ cái nhìn đầu tiên. Điều này sẽ khiến họ khó tương tác lãng mạn hơn, nếu {0.SimFirstName} chọn làm như vậy.
+Ngay lập tức Không bị thu hút
+Sự thu hút ngay lập tức
+{0.SimName} có sự &lt;b&gt;Thu hút&lt;/b&gt; ngay lập tức với {1.SimName}. Nếu {0.SimPronounSubjective} chọn hành động vì nó, {0.SimName} sẽ có xu hướng mạnh mẽ hướng đến lãng mạn với {1.SimName}.
+({0.Number}/{1.Number})
+Tiến độ
+Nguyên liệu:
+{0.String}
+???
+Sách phép thuật của {0.SimName}
+Một Phép thuật sư không thể thiếu Sách phép thuật đáng tin cậy của họ. Mọi thần chú, nghi lễ và đơn phối mà một Phép thuật sư đã học đều được ghi chép ở đây.\n\nMột Phép thuật sư có thể học các bùa chú và công thức hỗn dịch mới bằng cách đọc các Quyển sách Ma thuật, nói chuyện với Các Hiền triết, hoặc bằng cách Thực hành Ma thuật.

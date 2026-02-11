@@ -1,0 +1,100 @@
+Bạn biết bạn có thể làm gì với công việc này không? Bạn có thể nhận nó và... và... thuê người khác làm. Tôi từ chức!
+Tôi không thể chịu đựng việc làm ở đây nữa! Thuê người khác xử lý mọi chuyện này đi! Tôi từ chức!
+Tại sao tôi vẫn còn làm việc ở đây? Tôi rời đi!
+Nơi này kinh khủng! Tôi không thể chịu đựng thêm nữa! Tôi từ chức!
+Sa thải Nhân viên
+Thăng chức Nhân viên
+Thăng chức Nhân viên
+Hạ chức Nhân viên
+Hạ chức Nhân viên
+{0.SimFirstName} rất không hài lòng với công việc {M0.his}{F0.her}. Hãy thử thăng chức hoặc khuyến khích {0.SimPronounObjective} cải thiện tinh thần {M0.his}{F0.her}.
+Xem Túi đồ
+Xem Kho video
+Quản lý Kho ảnh
+Kho Đài tưởng niệm và Bia mộ
+Chơi Tag Sóng
+Rời khỏi Xe
+Bơi xung quanh
+Chuyển sang Hình dạng Thông thường
+Không có hộp thư nào ở gần đây.
+Nở Trứng
+Duyệt Quyên góp
+Quà Tự chế
+Giúp {1.SimFirstName} Thử Thức ăn Trẻ sơ sinh lần đầu
+Giúp {1.SimFirstName} Khám phá Thức ăn
+{1.SimFirstName} chưa thể ngồi dậy bằng {1.SimPronounReflexive}. Cần đạt Cột mốc Ngồi dậy.
+Hiển thị dưới dạng
+Đài tưởng niệm
+Chọn Đài tưởng niệm
+Bia mộ
+Chọn Bia mộ
+Thắp nến lên nào! Làm nó lãng mạn! {0.SimFirstName} và {1.SimFirstName} đang WooHoo lần đầu tiên!
+Thử có em bé trong Bồn tắm nước nóng
+Thử có Hải tặc mới trong Bồn tắm nước nóng
+Thử có em trong Quan tài
+Thử có Hải tặc mới trong Quan tài
+Thử có em trong Bụi cây
+Thử có Hải tặc mới trong Bụi cây
+Thử có em trong Lều
+Thử có Hải tặc mới trong Lều
+Thử có Hải tặc mới
+{1.SimFirstName} không thể làm việc này khi đang mang thai.
+Thử có em
+Bị {1.SimFirstName} Lừa
+Lừa!
+Kẹo!
+Bắt tay với {1.SimFirstName}
+Bắt tay Gây mê
+Đánh
+Kể chuyện cười "có ai không"
+Nói điều vô nghĩa
+Kể chuyện
+Nghe chuyện ngớ ngẩn của {1.SimFirstName}
+Kể chuyện ngớ ngẩn
+Nói về Siêu anh hùng
+Nói về Jedi và Sith
+Nói về Công chúa
+Nói về Màu sắc yêu thích
+Nói về Khủng long
+Nói về Dewback
+Nói về Ngày
+Nói về Nghệ thuật
+Đùa về Mông Gà
+Đùa về Khỉ-thằn lằn
+Nói với Người lạ
+Bị {1.SimFirstName} Ném đồ uống vào
+Ném đồ uống
+Bị {1.SimFirstName} Đe dọa
+Đe dọa
+Lời khen Từ tâm
+Được {1.SimFirstName} Cảm ơn
+Nghe chuyện Không thể tin được
+Kể chuyện Không thể tin được
+Kể về Vấn đề
+{1.SimFirstName} nói với {0.SimFirstName} rằng khi {0.SimPronounSubjective} {S0.gets}{P0.get} lớn lên, những thứ khác nhau bắt đầu khiến {0.SimPronounObjective} quan tâm.\n\nNhưng tất cả những gì {0.SimFirstName} nghe được là điều vô nghĩa và một câu trả lời mơ hồ.\n\n{0.SimPronounSubjective|xxUpper} không thể mất {0.SimPronounPossessiveDependent} người bạn mới—ngay lúc này! Rõ ràng {0.SimFirstName} sẽ phải giải quyết chuyện này một mình.
+Nghe chuyện Quá đáng
+Kể chuyện Quá đáng
+Nghe chuyện Tưởng tượng
+Nghe chuyện cười của {1.SimFirstName}
+Kể chuyện cười
+Đùa về Chuối
+Đùa về Động vật Lạ
+Đùa về Voi
+Đùa về Thức ăn Tệ
+Đùa về Giáo viên
+Đùa về Toilet
+Đùa về Phô mai Nacho
+Đùa về Mông Gà
+Đùa về Dị vật trong mũi
+Đùa về Hoạt hình
+Nghe chuyện cười của {1.SimFirstName}
+Kể chuyện cười Tệ
+Nghe chuyện Thu hút
+Kể chuyện Thu hút
+Kể một Câu chuyện Biển
+Nghe chuyện Kịch tính
+Kể chuyện Kịch tính
+Nghe chuyện cười
+Kể chuyện cười Nhếch nhác
+Nghe chuyện Đám đông thích
+Kể chuyện Đám đông thích

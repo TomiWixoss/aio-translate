@@ -1,0 +1,100 @@
+Hỏi {2.SimFirstName} về Đồ uống  
+Nhấp vào {2.SimFirstName} và sử dụng danh mục Trợ giúp để yêu cầu một chiếc tã sạch.  
+Hỏi {2.SimFirstName} về Tã  
+Nhấp vào {2.SimFirstName} và sử dụng danh mục Thân thiện để yêu cầu Tráng miệng.  
+Hỏi {2.SimFirstName} về Tráng miệng  
+Nhấp vào Máy phát thanh và chọn Yêu cầu Hỗ trợ Nhảy múa từ {2.SimFirstName}.  
+Yêu cầu {2.SimFirstName} Hỗ trợ Nhảy  
+Yêu cầu {2.SimFirstName} Sưởi ấm để cảm thấy tốt hơn.  
+Yêu cầu {2.SimFirstName} Sưởi ấm  
+Nhấp vào Toilet và chọn Vẩy nước.  
+Vẩy nước vào Toilet  
+Nhấp vào một Sim và chọn một câu chuyện cười từ danh mục Vui nhộn. Sim có thể mở khóa thêm câu chuyện cười bằng cách tăng Kỹ năng Diễn hài.  
+Kể một Câu chuyện cười Thành công  
+Mỗi Sim đều có một câu chuyện để kể!\n\nChọn một Sim khác và chia sẻ câu chuyện của bạn!  
+Kể một Câu chuyện  
+Nhấp vào một Sim và chọn Kể Câu chuyện cười Tự chế từ danh mục Vui nhộn. Sim có thể thực hiện Tương tác Xã hội này khi đang Ngại ngùng.  
+Kể một Câu chuyện cười Tự chế  
+Nhấp vào Microphone và chọn Kể một Câu chuyện cười.  
+Kể Câu chuyện cười trên Microphone  
+Nhấp vào một Sim và chọn một Tương tác Xã hội từ danh mục Vui nhộn.  
+Kể một Câu chuyện cười  
+Nhấp vào một Sim và chọn Kể Câu chuyện Không thể Tin nổi từ danh mục Thân thiện. Sim có thể thực hiện Tương tác Xã hội này khi đang Tự tin.  
+Kể một Câu chuyện Không thể Tin nổi  
+Nhấp vào một Sim và chọn Kể Câu chuyện cười "Hắc ám" từ danh mục Vui nhộn. Sim có thể thực hiện Tương tác Xã hội này khi đang Thích tán tỉnh.  
+Kể Câu chuyện cười "Hắc ám" cho Ai đó  
+Nhấp vào Máy tính và chọn Phát trực tiếp Trò chơi trong danh mục Chơi game. Sim có thể mở khóa Tương tác này bằng cách tiến xa trong Lộ trình Đối thủ Esports của Nghề nghiệp Chuyên gia Công nghệ.  
+Phát trực tiếp một Trò chơi  
+Nhấp vào Cây cối và chọn Nói chuyện với Cây. Sim có thể mở khóa Tương tác này bằng cách tăng Kỹ năng Trồng cây và Lấy Cắt từ một cây khác.  
+Nói chuyện với Cây  
+Nhấp vào Bạn đời của Sim của bạn và chọn Tương tác Giải quyết Vấn đề trong danh mục Lãng mạn.  
+Thảo luận Các Vấn đề  
+Nhấp vào một Sim và chọn Nói về Giấc mơ từ danh mục Thân thiện. Sim có thể thực hiện Tương tác Xã hội này khi đang Cảm hứng.  
+Nói về Giấc mơ với Ai đó  
+Nhấp vào một Sim và chọn Nói về Nấu ăn trong danh mục Thân thiện. Sim có thể mở khóa Tương tác Xã hội này bằng cách tăng Kỹ năng Nấu ăn.  
+Nói về Nấu ăn  
+Nhấp vào Vòi sen để chọn loại tắm. Vòi sen và bồn tắm sẽ giúp {1.SimFirstName} bình tĩnh và giảm căng thẳng.  
+Tắm  
+Nhấp vào Vòi sen và chọn Tắm Nước lạnh. Sim có thể thực hiện Tương tác này khi đang Tức giận hoặc Thích tán tỉnh.  
+Tắm Nước lạnh  
+Nhấp vào Vòi sen và chọn Tắm Nhanh. Sim có thể thực hiện Tương tác này khi đang Đầy năng lượng.  
+Tắm Nhanh  
+Nhấp vào Vòi sen và chọn Tắm Nước lạnh. Sim có thể thực hiện Tương tác này khi đang Tức giận hoặc Thích tán tỉnh.  
+Tắm Nước lạnh  
+Nhấp vào Hóa thạch, Tinh thể, Cây trong vườn, hoặc Kim loại và chọn Thu thập Mẫu Kính hiển vi. Sim có thể mở khóa Tương tác này bằng cách tăng Kỹ năng Tư duy và khai quật một trong những vật thể sưu tập này!  
+Nhấp vào Tường vẽ, chọn Tranh Trừu tượng và chọn Kích thước Tranh.  
+Vẽ Tranh Trừu tượng  
+Nhấp vào Tường vẽ và chọn Phô mai nướng!  
+Vẽ Phô mai nướng  
+Nhấp vào Tường vẽ và chọn Tranh Buồn.  
+Bắt đầu Tranh Buồn  
+Nhấp vào Tường vẽ và chọn Tranh Vui tươi.  
+Bắt đầu Tranh Vui tươi  
+Nhấp vào Tường vẽ và chọn Tranh Thích tán tỉnh.  
+Bắt đầu Tranh Thích tán tỉnh  
+Nhấp vào Tường vẽ và chọn Tranh Tự tin.  
+Bắt đầu Tranh Tự tin  
+Nhấp vào Tường vẽ và chọn Tranh Tức giận.  
+Bắt đầu Tranh Tức giận  
+Tránh đổ rác và giữ thùng rác đầy trong 8 giờ.  
+Giữ Thùng rác Tràn đầy trong 8 Giờ  
+Nhấp vào Đài quan sát để Quan sát Bầu trời.  
+Quan sát Bầu trời với Kính viễn vọng  
+Khi hai Sim đang chơi cờ vua, nhấp vào Bàn cờ và chọn Theo dõi Ván cờ.  
+Quan sát Một Ván cờ  
+Mua một Đài quan sát  
+Tránh các hoạt động thể chất và tăng kỹ năng Khéo léo để tránh vấp ngã.  
+Không Vấp Ngã trong 4 Giờ  
+Tránh nhận được Tâm trạng "Nhớ Bạn đời" bằng cách ở gần Bạn đời của bạn suốt ngày.  
+Không Nhớ Bạn đời trong 6 Giờ  
+Nhấp vào {2.SimFirstName} và chọn WooHoo từ danh mục Lãng mạn.  
+Nhấp vào {2.SimFirstName} và chọn Hôn sâu từ danh mục Lãng mạn.  
+Nhấp vào {2.SimFirstName} và chọn Hôn sâu từ danh mục Lãng mạn.  
+Nhấp vào {2.SimFirstName} và chọn Hôn từ danh mục Lãng mạn.  
+Nhấp vào {2.SimFirstName} và chọn Hôn từ danh mục Lãng mạn.  
+Nhấp vào {2.SimFirstName} và chọn Ôm từ danh mục Lãng mạn.  
+Nhấp vào {2.SimFirstName} và chọn Ôm từ danh mục Lãng mạn.  
+Nhấp vào {2.SimFirstName} và chọn Làm Quen từ danh mục "Thân thiện".  
+Nhấp vào {2.SimFirstName} và chọn một Tương tác Xã hội từ danh mục Lãng mạn.  
+Nhấp vào {2.SimFirstName} và chọn một Tương tác Xã hội từ danh mục Lãng mạn.  
+Nhấp vào {2.SimFirstName} và Khen Ngoại hình từ danh mục Lãng mạn.  
+Nhấp vào {2.SimFirstName} và chọn một Tương tác Xã hội từ danh mục Ác.  
+Nhấp vào {2.SimFirstName} và chọn một Tương tác Xã hội từ danh mục Thân thiện.  
+Nhấp vào một vật thể bẩn và chọn Làm sạch.  
+Làm sạch Nhà cửa  
+Nhấp vào một Sim và chọn Thảo luận Ban nhạc Yêu thích. Những Sim thích âm nhạc có thể thực hiện Tương tác Xã hội này.  
+Thảo luận Ban nhạc Yêu thích  
+Lắp một Con cá  
+Nhấp vào bất kỳ Sim nào và thực hiện bất kỳ Tương tác nào.  
+Giao tiếp Xã hội  
+Nhấp vào Bồn tắm hoặc Vòi sen và thực hiện Tương tác phù hợp để làm sạch.  
+Làm sạch Bản thân  
+Chọn Tủ lạnh, Lò vi sóng, bất kỳ thức ăn nào, hoặc mua thức ăn từ Người bán hàng và Ăn!  
+Ăn Thức ăn  
+Hãy để Sim của bạn thực hiện bất kỳ hành động nào làm tăng Nhu cầu Vui vẻ! Các hành động này bao gồm Đọc Sách, Xem TV, Chơi Máy tính, v.v.  
+Có một Chút Vui vẻ  
+Chọn một chiếc giường, ghế sofa, hoặc bất kỳ nơi nào khác Sim của bạn có thể ngủ và chọn Ngủ trưa hoặc Ngủ.  
+Ngủ một Chút  
+Tìm bất kỳ toilet hoặc phòng tắm nào và chọn Sử dụng.  
+Giải quyết Bản thân  
+Nhấp vào một Sim và chọn Chế giễu từ danh mục Ác. Sim có thể thực hiện Tương tác Xã hội này khi đang Tức giận.

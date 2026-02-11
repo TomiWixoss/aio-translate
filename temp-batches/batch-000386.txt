@@ -1,0 +1,100 @@
+Bánh thịt xương chó
+Bánh cá bê và gà
+Xúc xích tẩm ướp Chorizo
+Thịt Francetti hầm nhuyễn
+Pizza Pepperoni
+{S.Mì Ý Phá Cách}{P.Nhiều Mì Ý Phá Cách}
+Bánh kếp Gummy Bear
+{S.Bánh kếp}{P.Nhiều đĩa Bánh kếp}
+Bánh socola Pháp
+{S.Trứng ốp la}{P.Nhiều Trứng ốp la}
+{S.Mì tẩm tỏi}{P.Nhiều Mì tẩm tỏi}
+{S.Bánh ngọt Lò vi sóng}{P.Nhiều Bánh ngọt Lò vi sóng}
+{S.Thức ăn Lò vi sóng}{P.Nhiều Thức ăn Lò vi sóng}
+{S.Cá hồi Meunière}{P.Nhiều Cá hồi Meunière}
+Mì macaroni và phô mai xào
+{S.Mì macaroni và phô mai}{P.Nhiều Mì macaroni và phô mai}
+{S.Tôm hùm Thermidor}{P.Nhiều Tôm hùm Thermidor}
+Bánh tôm hùm
+{S.Hot Dog}{P.Nhiều Hot Dog}
+{S.Bít tết nướng}{P.Nhiều Bít tết nướng}
+{S.Sandwich phô mai nướng}{P.Nhiều Sandwich phô mai nướng}
+{S.Thịt gà nướng}{P.Nhiều Thịt gà nướng}
+{S.Gnocchi bí ngô}{P.Nhiều đĩa Gnocchi bí ngô}
+{S.Frittata rau bina}{P.Nhiều Frittata rau bina}
+{S.French Toast}{P.Nhiều đĩa French Toast}
+{S.Taco cá}{P.Nhiều Taco cá}
+Cá và khoai tây chiên
+{S.Gà Étouffée}{P.Nhiều Gà Étouffée}
+Currywurst
+{S.Bánh cupcake vani cổ điển}{P.Nhiều Bánh cupcake vani cổ điển}
+{S.Bánh cupcake dâu tây}{P.Nhiều Bánh cupcake dâu tây}
+{S.Bánh cupcake Red Velvet}{P.Nhiều Bánh cupcake Red Velvet}
+{S.Bánh cupcake Minty Mocha}{P.Nhiều Bánh cupcake Minty Mocha}
+{S.Bánh cupcake Chocolate Bomb}{P.Nhiều Bánh cupcake Chocolate Bomb}
+{S.Bánh cupcake Carrot Cake}{P.Nhiều Bánh cupcake Carrot Cake}
+{S.Bánh cupcake Butterscotchman}{P.Nhiều Bánh cupcake Butterscotchman}
+{S.Bánh cupcake The Baconing}{P.Nhiều Bánh cupcake The Baconing}
+{S.Crêpe ngọt}{P.Nhiều Crêpe ngọt}
+{S.Bánh quy hình trái tim}{P.Nhiều Bánh quy hình trái tim}
+{S.Bánh quy sô cô la chip}{P.Nhiều Bánh quy sô cô la chip}
+{S.Gà Kiev}{P.Nhiều Gà Kiev}
+{S.Phần thịt gà quay}{P.Nhiều phần thịt gà quay}
+{S.Phần bánh phô mai SimCity}{P.Nhiều phần bánh phô mai SimCity}
+{S.Thịt cá hồi sốt cà ri}{P.Nhiều Thịt cá hồi sốt cà ri}
+Pizza thịt xông khói Canada
+{S.Phần bánh}{P.Nhiều phần bánh}
+{S.Burger}{P.Nhiều Burger}
+Bánh mì
+Cá bass áp chảo
+{S.Bananas Foster}{P.Nhiều Bananas Foster}
+Baked Alaska
+{S.Măng tây bọc thịt nướng}{P.Nhiều Măng tây bọc thịt nướng}
+{S.Trứng và bánh mì}{P.Nhiều đĩa Trứng và bánh mì}
+Bánh trái cây xa xỉ
+Cơm Jollof và đùi gà
+Mucenici
+Mămăligă
+Bánh mì Challah
+Đĩa sườn heo nướng BBQ
+Đĩa cá chiên
+Bánh Zaatar Manakeesh
+Bánh nhồi thịt ưa chuộng của Ả Rập này có thể thưởng thức như một món ăn nhẹ hay khai vị. \nNó gồm một chiếc bánh mì dẹt phết dầu ô liu và za'atar, hỗn hợp các loại thảo mộc, gia vị và hạt mè, và đôi khi có thể bao gồm phô mai trắng.\n\nAn toàn với người ăn chay.
+Pão de Queijo
+Đĩa thịt nướng Churrasco
+Brigadeiro
+Đĩa Acarajé
+Đĩa cá hấp
+Đĩa mì thịt heo xay
+Đĩa Japchae
+Hallaca
+Sữa chua tan chảy
+Bánh lạc bơ đậu phộng
+Oaty O's
+Lát chuối
+Khoai tây trại lửa
+Krabby Patty
+Cá nguyên con bọc lá
+Cá trên que
+Edamame
+Bánh sữa
+Những túi bánh mềm, tan chảy của sữa chua ngọt và chua.
+Những quả bóng nhẹ, giòn với một chút ca cao và đầy ắp vị bơ đậu phộng.
+O's giòn tan với gợi ấm quế và đường.
+Những đĩa trái cây nhỏ, mềm của sự ngọt ngào.
+Củi đốt
+Củi này được làm để đốt.
+firewood_bm
+firewood_bm
+Bảng điều khiển Hệ thống Chống cháy
+An toàn là trên hết! Dùng hộp điều khiển này để quản lý hệ thống sprinkler của tòa nhà trong trường hợp hỏa hoạn hoặc tai nạn công nghiệp khác.\n\nLưu ý: Sprinklers cần một trần để hoạt động.
+Tên lò sưởi: Heat Seeker
+Lò sưởi phẳng này sẽ trở thành trung tâm của phòng khách với những đường nét gọn gàng và màu sắc thiết kế.
+Lò sưởi Viva Victoriana
+Vào những ngày khi bếp lửa là nguồn sưởi ấm chính và không có tivi để ngắm nhìn, lò sưởi phục vụ nhiều hơn một mục đích. Hãy sống lại những ngày đó với món đồ đá và kim loại tuyệt vời này.
+Lò sưởi đá Manoir
+Manoir tin rằng lò sưởi nên là điểm neo của căn phòng nó chiếm giữ, với những kho báu quý giá được bài trí trên mặt kệ và chỉ những món nội thất có gu nhất được sắp xếp gần đó.
+Lò sưởi An toàn Kỳ nghỉ Seal
+Đảm bảo an toàn cho đến khi lớp niêm phong được gỡ bỏ. Bởi vì khi an toàn là quan trọng, Safety Seal!\nLưu ý An toàn: Lớp niêm phong tự động được gỡ bỏ trước khi sử dụng, để đảm bảo an toàn cho bạn.
+Lò sưởi Cổ điển Mantled
+Như đã thấy trong &lt;i&gt;Decorator Living&lt;/i&gt;, lò sưởi cổ điển này chắc chắn sẽ làm nên bất kỳ phòng khách nào. Những đường nét sạch sẽ và viên gạc uy nghi của nó tạo ra một tuyên ngôn nói rằng &quot;chúng ta hơi sang một chút nhưng không nghĩ quá về bản thân&quot;.

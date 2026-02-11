@@ -1,0 +1,100 @@
+Cành cây vườn cắt ghép
+Một cắt từ cây vườn được dùng để ghép.
+Hạt Wolfsbane
+Một gói hạt wolfsbane cơ bản.
+Chậu cây
+Một chậu đất sứ hỗ trợ sự phát triển của một cây vườn đơn lẻ bên ngoài và bên trong.
+Mở khóa bằng cách hoàn thành Thử thách Growfruit Hoàn hảo
+Mở khóa bằng cách hoàn thành Thử thách Growfruit Hoàn hảo
+Chậu cây Thử thách Growfruit Hoàn hảo
+Một chậu đất ăn mừng có được bằng cách hoàn thành Thử thách Growfruit Hoàn hảo. Cây cối sẽ phát triển tốt trong ngôi nhà growfruit lấp lánh này.
+Mở khóa bằng cách hoàn thành Thử thách Growfruit
+Mở khóa bằng cách hoàn thành Thử thách Growfruit
+Chậu cây Thử thách Growfruit
+Một chậu đất ăn mừng có được bằng cách hoàn thành Thử thách Growfruit. Cây cối sẽ phát triển mạnh trong thiên đường growfruit xanh này.
+Cây khoai tây
+Khoai tây mọc thành các cụm củ dạng mạng trong đất mịn, phù sa.
+Cây hành
+Một cây củ có mùi thơm trồng hành.
+Cây cà rốt
+Một cây rễ phổ biến và có lá trồng cà rốt.
+Cây táo (Thử nghiệm VFX)
+gardenPlantTreeGEN_X_apple_vfxTest
+Cây lựu
+Một cây trồng quả lựu quý hiếm.
+Cây chuối tiêu
+Một cây chuối tiêu ngoại lai.
+Cây lê
+Một cây mang quả lê.
+Cây chanh
+Một cây kiên cường sản xuất chanh.
+Cây Growfruit
+Một cây sản xuất growfruit, thường thấy nở hoa trong Thử thách Growfruit.
+Cây quả cấm kỵ
+Cây này sản xuất một loại quả bí ẩn và BỊ CẤM.\n\nĐiều mà rõ ràng bạn đã bỏ qua... vì bạn đã trồng nó. Vì vậy, không phải bị cấm kỵ, mà là cảnh báo nghiêm khắc. Cũng không sao cả - các quy luật tự nhiên đã bị bỏ qua. Chắc vậy, chúng ta cứ tiếp tục.
+Cây anh đào
+Một cây mang quả anh đào.
+Cây táo
+Một cây phổ biến sản xuất táo.
+Cây trái cây
+Một cây đang lớn, mang trái cây.
+gardenPlantSproutGENTuber_01 placeholder name
+gardenPlantSproutGENTuber_01 placeholder description
+gardenPlantSproutGENTrash_01PlaceholderName
+gardenPlantSproutGENTrash_01Placeholder
+gardenPlantSproutGENRoundLeaf_01 placeholder name
+gardenPlantSproutGENRoundLeaf_01 placeholder description
+gardenPlantSproutGENPalm_01_PlaceholderName
+gardenPlantSproutGENPalm_01_Placeholder
+Một chồi nấm
+Với phần dưới có gân và đỉnh thịt, nấm thưởng thức sự phân hủy.
+gardenPlantSproutGENLeafy_01 placeholder name
+gardenPlantSproutGENLeafy_01 placeholder description
+Chồi cây bò
+Một loài cây xanh, có dạng xúc tu, run rẩy khi chạm.
+gardenPlantSproutGEN_02PlaceholderName
+gardenPlantSproutGEN_02Placeholder
+gardenPlantSproutGEN_01
+gardenPlantSprout_GP04GENwolfsbane placeholder name
+gardenPlantSprout_GP04GENwolfsbane placeholder description
+Hoa cái chết
+ Một bông hoa spooky, nhưng thanh lịch. Hoa hồng chỉ không đủ cho Đức Giám Mộ. Hãy thử bông hoa này để xoa dịu nỗi lo của ông và thoát khỏi tình huống chết người.  
+Hoa tulip
+Những bông hoa cho mỗi cây tulip có lá thường có màu sắc tươi sáng, làm chúng hấp dẫn để trang trí.
+Hoa hồng rừng
+Hoa hồng rừng hình thành thành các tháp nhọn đặc trưng, tất cả đều sáng và đầy màu sắc.
+Cây phong lan
+Phong lan mọc trên thân dài - như một con rắn duyên dáng sẵn sàng tấn công.
+Hoa loa kèn
+Gai và cao, hoa loa kèn mọc thành cụm năm hoặc nhiều hơn.
+Hoa cúc
+Với nhiều cánh hoa hơn lá, những bụi cây này gần như sưng lên vì nụ hoa.
+Cây chim ưng
+Gà bơ
+Gà nướng Peru
+Chuối tiêu nướng
+Bắp nướng Mexico
+Xúc xích Argentina
+Xiên gà chimichurri
+Bánh mì Chimi
+Thịt nướng Argentina
+Cá trôi
+Há cảo rau củ
+Bánh ngày Chết
+Một chiếc bánh ngọt truyền thống được nướng trong những tuần trước Ngày Người chết.
+Bánh mì bơ đậu phộng và mứt
+Bánh mì giăm bông và phô mai
+Thịt gà viên
+Ambrosia
+Món ăn huyền thoại ambrosia được biết đến có thể phục hồi sự sống cho người chết và quay ngược thời gian cho người sống.
+{S.Salmon}{P.Salmon}
+Casserole taco
+Bạn không cần phải quay lại trường tiểu học để có được món ăn căn-tin này. Trước đây được gọi là Bất ngờ Casserole Taco của Tia, bộ sưu tập đồ ăn thừa cay này sẽ khiến mọi người đều thưởng thức.
+{S.Tilapia}{P.Tilapia}
+{S.Flaming Spaghetti}{P.Flaming Spaghetti}
+{S.Spaghetti}{P.Spaghetti}
+{S.Herb-Crusted Salmon}{P.Herb-Crusted Salmon}
+{S.Protein Plate}{P.Protein Plates}
+{S.Apple Pie}{P.Apple Pies}
+Pizza pepperoni
+{S.Gummy Bear Pancakes}{P.Gummy Bear Pancakes}

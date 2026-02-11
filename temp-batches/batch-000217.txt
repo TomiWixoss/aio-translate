@@ -1,0 +1,106 @@
+Đọc Như Một Cuốn Sách Mở
+Đừng Vứt Rác (Làm Ơn)
+Tìm Thấy Kho Báu (Lại Một Lần Nữa)
+Rút Lui
+Nhiều Đồ Rác!
+Quay Trở Lên
+Quay Lại Lối Vào Cây
+Theo Dòng Lên Nguồn
+Theo Ánh Sáng
+Đi Đến Đồng Cỏ
+Theo Dòng Xuống
+Tránh Sương Mù
+Theo Âm Thanh
+Bước Vào Sương Mù
+Cuộc Phiêu Lưu Cây
+Thân cây này lớn hơn nhiều so với dự đoán! Tối tăm... nhưng không đáng sợ. Một ánh sáng mờ là nguồn sáng duy nhất, tiếng nước chảy òng ồng là âm thanh duy nhất.
+Sương mù ấm áp và thân thiện, xét về các loại sương mù. Không có báo trước, {0.SimFirstName} cảm thấy cảm giác bị xoay quanh, một lối ra khỏi hang hiện đang nhìn thẳng vào mặt {M0.him}{F0.her}.
+May mắn tránh được sương mù, {0.SimFirstName} đã an toàn, nhưng hoàn toàn bị mất phương hướng. {M0.He}{F0.She} loay hoay, cuối cùng bò về phía lối vào thân hang.
+{0.SimFirstName} đi sâu hơn một chút, và tối hơn một chút. Một tiếng bơi nhẹ báo cho {M0.him}{F0.her} biết rằng {M0.he}{F0.she} vừa bước vào một dòng suối nông.
+Đi theo con đường ít chống trở nhất, và hy vọng nó không kết thúc ở một đường cống chính, {0.SimFirstName} bị phân tâm bởi một làn sương huyền ảo, phát sáng đầy dữ oán.
+{0.SimFirstName} theo ánh sáng, nhưng sớm nhận ra rằng nó đến từ chính nơi {M0.he}{F0.she} đã bước vào.
+{0.SimFirstName} bước lên một con dốc nhẹ, với chỉ có sự chống trở nhẹ của dòng nước để dẫn lối cho {M0.him}{F0.her}. Tuy nhiên, sớm muộn gì mọi thứ cũng khô cằn. Không có ánh sáng hay định hướng, {M0.he}{F0.she} đang đi lạc trong bóng tối.
+Quyên Góp §50
+Quyên Góp §100
+Quyên Góp §10
+Khám Phá Cây Cổng Đậu Ma Thuật
+{0.SimFirstName} bước vào cổng, mong đợi bóng tối, nhưng thay vào đó được chào đón bởi một đồng cỏ nắng sáng rực rỡ, đầy các loài thực vật.
+
+Một cái cây đứng ở một phía, phát sáng và trĩ quả.
+
+{0.SimFirstName} hái một quả từ cây, và ngay lập tức thấy cảnh quan nắng sáng tan rã thành bóng tối. Trước khi {M0.he}{F0.she} kịp biết, {M0.he}{F0.she} đã bước ra khỏi cổng của cây với thứ gì đó trong túi {M0.his}{F0.her}.
+Chúng tôi xin lỗi, nhưng cổng hiện đang đóng. Vui lòng thử lại lúc 10h sáng khi chúng tôi sẽ mở cửa cho công chúng. Chúng tôi đánh giá cao sự chú ý của bạn, và hy vọng sớm gặp lại bạn trong các cành của chúng tôi.
+
+-Dịch Vụ Quản Lý Cổng
+Gặp Khách Hàng
+Gặp Lớp Học
+Tạo Bức Tranh Yêu Cầu Của Khách Hàng
+Đi Đến Hang Đá Bị Lãng Quên
+Tiếp Tục Leo
+Đi Theo Đường Vòng
+Đi Theo Đường Rộng
+Leo Thang
+Đi Theo Đường Hẹp
+Đi Đến Hang Đá
+Quay Lại Lối Vào Hang
+Bước Lên Bệ
+Đường vòng dẫn {0.SimFirstName} lên và xuống một hành lang ẩm ướt, quanh một khúc quanh, và qua một hầm hẹp đặc biệt. {0.SimFirstName} đã quay lại lối vào!
+Không cần thử thứ gì nguy hiểm! {0.SimFirstName} rình rịch đi xuống nhánh chính, và nhìn qua ánh sáng mờ còn lại thấy một đường vòng dần dần lên, và một cái thang giàn lung lay đi xuống.
+Khám Phá Hang
+{0.SimFirstName}, luôn là nhà thám hiểm gan dạ, bắt đầu thám hiểm hang. Có hai con đường. Con đường hẹp hơn hai bên hơi chật, nhưng {0.SimFirstName} có thể vừa nếu {M0.he}{F0.she} chen chúc.
+Một con đường đầy rêu mềm dễ dàng dẫn {0.SimFirstName} về phía trước, cho đến khi {M0.he}{F0.she} nhìn thấy lối vào một hang đá đẹp.
+{0.SimFirstName} cẩn thận lao vào một vực thẳm đen kịt, sờ soạng {M0.his}{F0.her} đường đi dọc theo các thanh gỗ gãy. Sau một cuộc hành trình dài xuống, một ánh sáng xanh lạt bắt đầu lấp đầy khoảng trống bên dưới. {M0.He}{F0.She} có thể bước xuống một bệ rêu mờ, hoặc tiếp tục vào vùng xanh.
+Khe nứt tối tăm, uốn lượn quá khó để điều hướng. {0.SimFirstName} nhanh chóng bị bế tắc và bực bội.
+Những thanh thang dường như vô tận đưa {0.SimFirstName} xuống, xuống, và xuống. Sau một khoảng thời gian mệt mỏi, {M0.he}{F0.she} nhận ra {M0.he}{F0.she} cần phải rút lui, kẻo {M0.he}{F0.she} bị kẹt ở đó mãi mãi...
+Phá Ra
+Yêu Cầu Kỹ Năng Khéo Léo Cấp 10.
+Vượt Xung Lực
+Triệu Hồi Thần Chết
+Thần Chết hiện không khả dụng để triệu hồi thông qua Grimophone.
+Nh Valise
+Đặt {2.SimFirstName} Ở Đây
+Đặt Ở Đây
+Đã có thức ăn trên ghế ăn dặm. Hãy dọn sạch nó trước!
+Đã có đồ uống trên ghế ăn dặm. Hãy dọn sạch nó trước!
+Đọc Sách Cho {2.SimFirstName} Ngủ
+Đặt {2.SimFirstName} Vào Giường
+Tắm Cho {1.SimFirstName}
+Giúp {2.SimFirstName} Leo
+Đặt {2.SimFirstName} Xuống Để Nhảy
+Đặt {2.SimFirstName} Ngủ Ở Đây
+Đặt Xuống
+{0.SimFirstName} không sở hữu vật phẩm này.
+Cho {2.SimFirstName}
+Đặt Cất
+Khuyến Khích Đồ Chơi Vào Nơi Cất
+Quyên Góp Thư Viện Hàng Xóm Nhỏ Nhất
+Không thể làm điều này khi đang trong hồ bơi, spa, hoặc thiết bị thư giãn nước tương tự.
+Duyệt Sách
+Mua Vật Phẩm Xã Hội
+Lạc Đà
+Gà
+Thỏ
+Bò
+Mua Quần Áo Cho Động Vật
+Mua Động Vật
+Cảm ơn đã đặt hàng! Các gói làm vườn {0.SimFirstName} đã mua có thể tìm thấy trong túi đồ {M0.his}{F0.her}.
+Cảm ơn đã mua sắm! Các vật phẩm của bạn đã được giao đến túi đồ của {0.SimFirstName}.
+Mua Búp Bê Voodoo
+Cảm ơn đã đặt hàng! Búp bê Voodoo {0.SimFirstName} đã mua có thể tìm thấy trong túi đồ {M0.his}{F0.her}.
+Đặt Hàng Vật Tư Ngay
+Cảm ơn đã đặt hàng! Các vật phẩm {0.SimFirstName} đã mua có thể tìm thấy trong túi đồ {M0.his}{F0.her}.
+Mua Vật Tư Nghỉ Dưỡng...
+Nội Thất
+Lều
+Đồ Đa Dạng
+Vật Tư
+Giải Trí
+Mua Linh Kiện Nâng Cấp
+Cảm ơn đã đặt hàng! Các linh kiện nâng cấp {0.SimFirstName} đã mua có thể tìm thấy trong túi đồ {M0.his}{F0.her}.
+Cảm ơn đã đặt hàng! Các đồ chơi {0.SimFirstName} đã mua có thể tìm thấy trong túi đồ {M0.his}{F0.her}.
+Cảm ơn đã mua! Các vật phẩm đã mua có thể tìm thấy trong hộp đồ chơi!
+Mua Đồ Chơi
+Mua Sách
+Mua Đồ Chơi
+Mua Hạt Cỏ Lang Trang
+Mua Hạt Cỏ Lang Trang

@@ -1,0 +1,100 @@
+Chất lượng Thành viên
+Xóa Quy tắc Tuyển dụng
+Hiển thị Sims nào đủ điều kiện hoặc không đủ với Yêu cầu Club mới.
+Quy tắc của bạn chưa hoàn chỉnh.
+Bạn không thể tạo quy tắc để loại trừ chính mình.
+Chỉ Club Trưởng mới có thể thay đổi Quy tắc Tuyển dụng.
+Thêm Quy tắc Tuyển dụng
+Bạn có chắc chắn muốn xóa các thành viên Club không? Họ không đáp ứng yêu cầu tuyển dụng.
+Quyền lợi Club
+&lt;span class = 'label'&gt;Perk đang hoạt động: &lt;/span&gt;&lt;span class = 'value'&gt;{0.Number} / {1.Number}&lt;/span&gt;
+&lt;span class = 'label'&gt;Điểm Club: &lt;/span&gt;&lt;span class = 'value'&gt;{0.ClubPoints}&lt;/span&gt;
+Yêu cầu Thành viên
+Chỉ Thành viên Club mới có thể mua Perk cho Club của họ.
+Bạn có chắc chắn muốn mua {0.String} với {1.ClubPoints} điểm?
+Số điểm còn lại của bạn sẽ là: {0.ClubPoints}
+Trang phục Club
+Chọn Trang phục Club
+Phong cách
+Phong cách sẽ cho phép Sim của bạn chọn từ nhiều Phong cách được xác định trước khi họ bắt đầu một cuộc tụ họp Club.
+Không
+Không đặt trang phục cụ thể cho Club của bạn. Sim sẽ mặc trang phục mặc định trong cuộc tụ họp Club.
+Nam Trẻ em
+Nam Người lớn
+Nữ Trẻ em
+Nữ Người lớn
+Tùy chỉnh
+Đặt một bộ trang phục hoàn chỉnh cho Club của bạn. Sim sẽ mặc trang phục được chọn trong cuộc tụ họp Club. Bạn có thể đặt nhiều trang phục trong một phong cách, và Sim sẽ chọn giữa các trang phục được đặt.
+Màu sắc
+Màu sắc sẽ cho phép Sim của bạn chọn một món đồ trang phục để khớp với màu được chọn khi bạn bắt đầu một cuộc tụ họp Club.
+Mua Perk Nâng cấp Sức chứa để thêm một Thành viên Club khác.
+Đuổi ra khỏi Club
+Bạn không có quyền để thêm Sim vào Club này.
+Thêm Sim vào Club
+Các Club của {0.SimFirstName} {0.SimLastName}
+Quản lý Club
+Loại bí mật của bạn khỏi club này.
+Rời Club này?
+Bạn có chắc chắn muốn rời {0.String} không?
+Hủy tư cách thành viên
+Không đủ điều kiện
+Sim của bạn đã là thành viên của 3 Club khác nhau. Hãy rời một Club để tham gia Club khác hoặc để có thể tạo một Club.
+Thêm Sim của bạn vào Club này.
+Tham gia
+Thông báo cho Thành viên Club rằng Sim của bạn muốn tham gia Club của họ.
+Đăng ký Nhận Lời mời
+Sim của bạn không đáp ứng các điều kiện để tham gia Club này.
+Tạo một Club
+Hãy thử lại sau vì Club này đã đầy\nĐừng bỏ cuộc, hãy tiếp tục tìm kiếm!
+Club này đã đầy.
+Xem chi tiết
+Bất kỳ ngôi nhà nào của Thành viên Club
+Địa điểm Chung
+Bất kỳ {0.String} nào
+Tính năng Chọn Địa điểm Chung cho phép bạn chọn một loại địa điểm chung mà Club của bạn thích tụ họp. Khi bạn bắt đầu một cuộc tụ họp, Sim của bạn sẽ đến bất kỳ lô nào có loại địa điểm được chọn này.
+Nơi tụ họp Club
+Chọn nơi Club của bạn sẽ tụ họp.
+Không
+Các thành viên của Club bạn sẽ không có Nơi tụ họp được chỉ định.
+Địa điểm Cụ thể
+{0.String}: {1.String}
+Tính năng Chọn Địa điểm Cụ thể cho phép bạn chọn một lô cụ thể mà bạn muốn Club của bạn tụ họp.
+Chỉ Club Trưởng mới có thể thay đổi Nơi tụ họp Club.
+Chọn Nơi tụ họp Club
+Xem Quyền lợi Club
+Vui lòng nhập tên từ {0.Number} đến {1.Number} ký tự
+Đây là các thành viên hiện đang trong Club này.
+Thành viên
+Chỉ Club Trưởng mới có thể thay đổi trạng thái lời mời của Club.&#xA;
+Lời mời Mở
+Chỉ Lời mời
+Chỉ Club Trưởng mới có thể thay đổi Logo của Club.
+Chọn Biểu tượng Club
+Giải tán Club
+Giải tán Club này?
+Club này sẽ giải tán vì không có thành viên. Bạn có chắc chắn muốn giải tán {0.String} không?
+Bạn có chắc chắn muốn xóa {0.String} không?
+Chỉ Club Trưởng mới có thể giải tán các Club.
+Nhập tên...
+Nhập mô tả ...
+Hoạt động Club xác định cách Sims hành động trong Suốt Cuộc tụ họp Club.
+Hoạt động Club
+Yêu cầu sẽ xác định ai được phép tham gia Club.
+Yêu cầu
+Bỏ phiếu bằng cách nhấp vào bất kỳ Kế hoạch Hành động Khu phố nào mà Sim đang hoạt động ủng hộ. Với đủ &lt;i&gt;Điểm Ảnh hưởng&lt;/i&gt;, Sim có thể bỏ nhiều phiếu.\n\nNếu một Kế hoạch Hành động Khu phố mà Sim không ủng hộ được thực thi, Sim có tùy chọn để &lt;i&gt;Kiến nghị Đề nghị Hủy bỏ&lt;/i&gt; tại &lt;b&gt;Hộp thư&lt;/b&gt; của họ hoặc một &lt;b&gt;Bảng Bỏ phiếu Công cộng&lt;/b&gt; trong khi kỳ bỏ phiếu tiếp theo đang mở. Chỉ cần đảm bảo họ ra ngoài và nói chuyện với các Sim để &lt;i&gt;Thu thập Chữ ký Hủy bỏ&lt;/i&gt; đủ lần trước khi kỳ bỏ phiếu kết thúc!
+Xóa phiếu và nhận lại {0.Influence}.
+Hoàn tác Thay đổi
+Kế hoạch Đang hoạt động và Bỏ phiếu
+{0.Number}/{1.Number}
+Điều này sẽ bị Hủy bỏ khi bỏ phiếu kết thúc.
+Lịch trình Bỏ phiếu:
+Thứ 2 9 giờ sáng - Chủ Nhật 6 giờ chiều
+{0.SimFirstName} muốn bỏ phiếu cho điều gì?
+&lt;font color='#ff0000'&gt; Không đủ Điểm. &lt;/font&gt;
+Chưa có Kế hoạch Hành động Khu phố nào được thực thi. Hãy bắt đầu bỏ phiếu!
+&lt;font color='#ff0000'&gt; Đã đạt số phiếu tối đa. &lt;/font&gt;
+Bỏ phiếu bằng cách nhấp vào bất kỳ Kế hoạch Dự án Không gian Cộng đồng nào mà Sim đang hoạt động ủng hộ. Với đủ &lt;i&gt;Điểm Ảnh hưởng&lt;/i&gt;, Sim có thể bỏ nhiều phiếu.
+Dự án Không gian Cộng đồng Đang hoạt động
+Nhận Điểm Ảnh hưởng bằng cách ủng hộ các Kế hoạch Hành động Khu phố đang hoạt động, kết bạn mới, thực hiện các hoạt động Nghề nghiệp Thiết kế Dân sự, hoặc chỉ đơn giản là là một thành viên đáng giá của cộng đồng bạn.
+Điểm Ảnh hưởng: {0.Influence}
+Điểm Ảnh hưởng: &lt;font color='#38A666'&gt;{0.Influence}&lt;/font&gt;

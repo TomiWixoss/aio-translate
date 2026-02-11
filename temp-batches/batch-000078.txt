@@ -1,0 +1,100 @@
+{0.SimFirstName} cần kỹ năng Thủ Dục cấp 8 để thêm nâng cấp này.
+{0.SimFirstName} cần kỹ năng Thủ Dục cấp 7 để thêm nâng cấp này.
+{0.SimFirstName} cần kỹ năng Thủ Dục cấp 6 để thêm nâng cấp này.
+{0.SimFirstName} cần kỹ năng Thủ Dục cấp 5 để thêm nâng cấp này.
+{0.SimFirstName} cần kỹ năng Thủ Dục cấp 4 để thêm nâng cấp này.
+{0.SimFirstName} cần kỹ năng Thủ Dục cấp 3 để thêm nâng cấp này.
+{0.SimFirstName} cần kỹ năng Thủ Dục cấp 2 để thêm nâng cấp này.
+Viết Bài Hát
+Viết Jingles
+Một tập đoàn lớn đã mua jingle của {0.SimFirstName}. Một khoản tiền đáng kể cho một tác phẩm đáng kể.
+Nhiều công ty thích jingle đó và đấu thầu để sở hữu nó. Trúng lớn!
+Không có công ty nào muốn mua jingle đó. Chúc may mắn lần sau!
+Thực hành guitar có thể rất vui vẻ khi có tâm trạng phù hợp!
+Đánh Đàn Vui Vẻ
+Trổng Tình
+Ru Ngủ
+Nghe
+(Từ Đặc điểm Tính cách Yêu Nhạc)
+Yêu cầu Kỹ năng Guitar Cấp 3
+Hát Bài Hát
+Hát Bài Hát
+Hát Bài Hát
+Thực Hành
+Cảm hứng giúp chơi guitar tốt hơn!
+Thực Hành
+Gõ Đàn Tìm Cảm Hứng
+Chơi Bài Hát
+{0.SimFirstName} chỉ có thể Trổng Tình với người yêu tiềm năng ở gần.
+Trổng Tình
+Ru Ngủ
+(Từ Ghét Chơi Guitar)
+(Từ Thích Chơi Guitar)
+Nghe Và Học
+Jamming
+Cảm hứng giúp chơi guitar tốt hơn!
+Jamming
+Jamming Cho Nhóm
+Yêu Cầu Diễn Viên Cụ Thể
+Đã có một diễn viên trên lô đất.
+Thuê {2.SimName} làm Diễn Viên
+Tham Gia Nấu Ăn
+Tập Họp Nấu Ăn Nhóm
+Mắng Chết bất đắc kỳ tử
+Than khóc cái chết của {2.SimFirstName}
+Khẩn Cầu
+Quyến rũ để tha chết cho {2.SimFirstName}
+Không ai dám khẩn cầu với Trước khi Cái chết ập đến, e rằng chính mình sẽ bị cướp đi mạng sống!
+Đã có người khác khẩn cầu với Chết bất đắc kỳ tử gần đây!
+Một sinh vật hộ mệnh đang canh giữ người đã khuất.
+Tặng Hoa Cái Chết
+Đòi {2.SimFirstName} được Tha
+Nướng BBQ
+Làm Sạch Với Sức Mạnh
+Các Sim được Tỉnh táo làm sạch nhanh hơn nhiều!
+Phục Vụ {1.ObjectName}
+Vỗ Vào Đĩa Đồ Ăn
+Đi Đến Vị Trí Ảnh
+Đi Đến Vị Trí Đã Lưu
+Đi đến Willow Creek
+Bạn có muốn gửi {0.SimFirstName} đến Willow Creek?
+Đi đến Foundry Cove
+Bạn có muốn gửi {0.SimFirstName} đến Foundry Cove?
+Đi đến Desert Bloom Park
+Bạn có muốn gửi {0.SimFirstName} đến Desert Bloom Park?
+Xúc Phạm
+Khen Ngợi
+(Từ Thành Công Khen Ngợi Người Khác)
+(Từ Có Cuộc Trò Chuyện Thu Hút)
+Tôi rất đầy hy vọng khi bắt đầu cuộc trò chuyện đó, nhưng sau một thời gian ngắn bên {2.SimFirstName}, tôi thấy rõ rằng chúng ta không thể trở thành bạn bè.
+Tôi để sự lạc quan chiếm thượng phong, {0.SimFirstName}. {2.SimFirstName} và tôi có những tiêu chuẩn hành động khác nhau; tôi không thấy cách nào để khắc phục điều đó.
+Tiếc là {2.SimFirstName} và tôi đã cố gắng giải quyết, nhưng chúng tôi thực sự chỉ là hai người hoàn toàn khác biệt.
+(Từ Thất Bại Khen Ngợi Người Khác)
+(Từ Có Cuộc Trò Chuyện Khó Chịu)
+Tán Tỉnh
+(Từ Được Ghép Cặp Với Sim Khác)
+(Từ Ghép Cặp Các Sim Với Nhau)
+(Từ Ghép Cặp Các Sim Đang Trong Mối Quan Hệ)
+(Từ Được Ghép Cặp Với Sim Trong Mối Quan Hệ)
+(Từ Thất Bại Ghép Cặp Các Sim)
+(Từ Một Lần Ghép Cặp Thất Bại)
+Chia Tay
+{2.SimFirstName} không chấp nhận điều đó tốt, nhưng tôi không thể ở lại với {F2.her}{M2.him} nữa.
+Chuyện đã xong, {2.SimFirstName} và tôi chấm dứt!
+Đi Học Đại Học
+Bạn có muốn gửi {0.SimFirstName} đến Sylvan Glade?
+Đi Du Lịch
+Về Nhà
+Bạn có muốn gửi {0.SimFirstName} về nhà?
+Bạn có muốn gửi {0.SimFirstName} đến Forgotten Grotto?
+Buổi Hòa Nhạc Sims @ Công viên Hoa Mơ bắt đầu lúc 12h trưa Chủ Nhật!
+Đi Đến Địa Điểm Buổi Hòa Nhạc Sims
+Bồi Dưỡng
+Cảm Ơn!
+Tặng Quà Cho
+Châm Lửa
+{0.SimFirstName} không sở hữu Lô đất này.
+Hồi Sinh
+Sở Hữu Để Phá Huỷ
+Không thể phá đối tượng bất khả phá
+Sở Hữu

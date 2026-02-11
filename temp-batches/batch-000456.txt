@@ -1,0 +1,100 @@
+Ghế ăn
+Phòng ăn
+Thám tử
+Tráng miệng
+Decal
+Cái chết
+Rèm cửa
+Tủ bát
+Cốc
+Ẩm thực
+Khối
+Tội phạm
+Thùng
+Thủ công
+Ghế dài
+Giường gấp
+Tủ đông
+Nấu ăn
+Đầu bếp
+Bê tông
+Máy tính
+Hài kịch
+Máy pha cà phê
+Cà phê
+Quần áo
+Tủ quần áo
+Đất sét
+Giáng sinh
+Ống khói
+Loại móng này yêu cầu một phòng.
+Không thể sử dụng Móng Cột cho Hồ bơi.
+Móng Phải Cao Hơn Tầng Hầm
+Chiều cao móng âm.
+Phải hoàn toàn trên hoặc dưới mực nước.
+Đường diện tích giao với địa hình.
+Vật thể giao với sàn hoặc trần.
+Phải đặt trên sàn.
+Họa tiết sàn giao với vật thể cao bên dưới.
+Phải đặt trên địa hình hoặc sàn.
+Độ Dời Chiều Cao Sàn Ngoài Phạm Vi
+Độ Dời Chiều Cao Sàn Xung Đột Với Khối Bên Dưới
+Chiều Cao Tường Cố Định Không Hợp Lệ Cho Tầng
+Có quá nhiều vật thể thuộc hộ gia đình này.
+Đã có quá nhiều vật thể trên lô đất.
+Phải đặt trên hàng rào thấp hơn.
+Không thể cập nhật quỹ.
+Không thể giải quyết thao tác di chuyển mặt.
+Không thể giải quyết khối từ đa giác.
+Không thể tải vật thể lô đất.
+Không thể tải dữ liệu lô đất.
+Không thể ngoại suy Loại Phạm Vi Khối
+Không thể chia tường
+Không thể tạo không gian khối rỗng
+Không thể tính chi phí.
+Không có gì ở đây có thể sao chép.
+Tối đa 10 tượng người trên mỗi lô đất.
+Chỉ cho phép một thang máy.
+Công cụ Thiết kế không thể sử dụng trên vật thể này.
+Lỗi đọc dữ liệu op
+Bạn không thể thêm phòng hoặc tường mới nào trên cấu trúc hiện có cho Công việc Sửa phòng.
+Bạn không thể thay đổi cấu trúc hiện có.
+Bạn không thể thêm tường mới nào trong Công việc Sửa phòng.
+Bạn không thể thêm ô nào thêm nữa do giới hạn của Khách hàng.
+Bạn không thể chỉnh sửa mái trên cấu trúc hiện có cho Công việc Sửa phòng.
+Khách hàng của bạn chưa cho phép bạn thay đổi điều đó.
+Bạn không thể thực hiện thay đổi nào ngoại trừ cấp độ được chỉ định bởi Công việc.
+Bạn không thể thực hiện thay đổi trên bất kỳ cấu trúc hiện có nào. Hãy thêm chúng vào một phòng mới nối với cấu trúc hiện có.
+Thao tác cơ sở dữ liệu thất bại
+Không thể giao với Móng Cột.
+Ràng buộc Địa hình Xung đột
+Thao tác con xung đột
+Cụm khối xung đột
+Cột không thể ngắn hơn.
+Cột không thể cao hơn.
+Thiết lập thao tác con chưa hoàn thành
+Trần quá thấp
+Trần quá cao.
+Tường quá hẹp để đặt cửa sổ.
+Không thể đặt trong hồ bơi.
+Không thể đặt hồ bơi địa hình dưới bất cứ điều gì.
+Không thể đặt hồ bơi dưới tường.
+Móng Cột và Hồ bơi không tương thích.
+Không thể đặt hồ bơi dưới góc cong.
+Không thể đặt hồ bơi dưới nền.
+Không thể đặt hồ bơi dưới hồ bơi khác.
+Không thể đặt hồ bơi dưới giao nhau chéo giữa ô.
+Không thể đặt hồ bơi dưới tường hoặc hàng rào.
+Không thể đặt hồ bơi cạnh đài phun nước.
+Không thể đặt vật thể trên móng có cột.
+Không thể đặt trên tường cong nhỏ
+Không thể đặt trên dốc.
+Không thể đặt trên mặt đất.
+Không thể Đặt trên Cổng
+Không thể đặt trên tường cong
+Không thể đặt trong nước.
+Không thể đặt trong nước biển sâu
+Không thể đặt trong nước ao cạn.
+Không thể đặt trong nước biển cạn
+Không thể đặt trong hồ bơi.
+Không thể đặt trong ao.

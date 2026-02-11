@@ -1,0 +1,100 @@
+Thả tự do
+Môi trường tăng trưởng
+Mới
+Chưa chín
+Chín
+Quá chín
+Thối rữa
+Giai đoạn tăng trưởng
+Kém
+Tuyệt vời
+Tốt
+Hôi thối
+Xuất sắc
+Trung bình
+Đã bón phân
+Khỏe mạnh
+Cạn kiệt
+Trò chơi gõ phím
+Mô tả trò chơi gõ phím
+Trò chơi tính toán
+Mô tả trò chơi tính toán
+Giao tiếp xã hội
+Ngủ
+Hát
+Làm không
+Ẩn
+Vắng mặt
+Trợ giúp làm vườn đã bật
+Đã gán cho:
+Giường đôi
+Bên trái
+Bên phải
+Giảm bất tiện: 3
+Độ tin cậy: 8
+Độ tin cậy: 5
+Độ tin cậy: 5
+Giảm căng thẳng: 3
+Vệ sinh: {0.Number}
+Bất tiện
+Người lớn
+Thanh niên
+Người cao tuổi
+Vệ sinh: &lt;font color='#FF7800'&gt;Bẩn&lt;/font&gt;
+Sự chú ý: &lt;font color='#1E81E6'&gt;Hài lòng&lt;/font&gt;
+Vệ sinh: &lt;font color='#1E81E6'&gt;Sạch&lt;/font&gt;
+Tuổi: Một... Cuối... Thú cưng...
+Hạnh phúc: &lt;font color='#1E81E6'&gt;Vui vẻ&lt;/font&gt;
+Đói: &lt;font color='#EC262E'&gt;Đói khát&lt;/font&gt;
+Hạnh phúc: &lt;font color='#FF7800'&gt;Không vui&lt;/font&gt;
+Đói: &lt;font color='#1E81E6'&gt;Đã no&lt;/font&gt;
+Sự chú ý: &lt;font color='#1E81E6'&gt;Bình thường&lt;/font&gt;
+Hạnh phúc: &lt;font color='#0949AB'&gt;Rất vui&lt;/font&gt;
+Mức độ thức ăn: &lt;font color='#1E81E6'&gt;Đầy&lt;/font&gt;
+Mức độ thức ăn: &lt;font color='#E0AB00'&gt;Nửa&lt;/font&gt;
+Hiện tại &quot;Đã chiếm&quot; bởi hai Sim.
+Hiện tại đã chiếm bởi một con vật.
+Mức độ thức ăn: &lt;font color='#FF7800'&gt;Trống&lt;/font&gt;
+Trạng thái: &lt;font color='#DA7F1A'&gt;Hơi bẩn&lt;/font&gt;
+Trạng thái: &lt;font color='#D10007'&gt;Bẩn&lt;/font&gt;
+Trạng thái: &lt;font color='#199C2C'&gt;Sạch&lt;/font&gt;
+Trạng thái: &lt;font color='#FF7800'&gt;Rất bẩn&lt;/font&gt;
+Trạng thái: &lt;font color='#FF7800'&gt;Bẩn&lt;/font&gt;
+Trạng thái: &lt;font color='#E0AB00'&gt;Hơi bẩn&lt;/font&gt;
+Trạng thái: &lt;font color='#EC262E'&gt;Rất bẩn&lt;/font&gt;
+Trạng thái: &lt;font color='#1E81E6'&gt;Sạch&lt;/font&gt;
+&lt;b&gt;Dinh dưỡng:&lt;/b&gt; Bình thường
+&lt;b&gt;Dinh dưỡng:&lt;/b&gt; Cỏ đồng
+Tuổi: &lt;font color='#1E81E6'&gt;Người cao tuổi&lt;/font&gt;
+Tuổi: &lt;font color='#1E81E6'&gt;Thanh niên&lt;/font&gt;
+Tuổi: &lt;font color='#1E81E6'&gt;Người lớn&lt;/font&gt;
+Hạnh phúc: &lt;font color='#1E81E6'&gt;Tốt&lt;/font&gt;
+Nhà: &lt;font color='#1E81E6'&gt;{0.ObjectName}&lt;/font&gt;
+{0.ObjectCatalogName}
+Nước: &lt;font color='#E0AB00'&gt;Thấp&lt;/font&gt;
+Nước: &lt;font color='#1E81E6'&gt;Tốt&lt;/font&gt;
+Nước: &lt;font color='#1E81E6'&gt;Tốt&lt;/font&gt;
+Phân bón: &lt;font color='#FF7800'&gt;Cạn kiệt&lt;/font&gt;
+Phân bón: &lt;font color='#1E81E6'&gt;Tốt&lt;/font&gt;
+Được tạo bởi: Máy bán hàng
+Cân nặng: {0.Number} kg (Nhỏ)
+Cân nặng: {0.Number} kg (Trung bình)
+Loại: {0.ObjectCatalogName}\nĐược bắt bởi: {1.SimName}
+Cân nặng: {0.Number} kg (Lớn)
+Môi trường: 2
+Không khí vui tươi: {0.Number}
+Không khí tập trung: {0.Number}
+Không khí buồn bã: {0.Number}
+Không khí tự tin: {0.Number}
+Không khí tức giận: {0.Number}
+Không khí thách đố: {0.Number}
+{0.SimFirstName} - {1.ObjectName}
+Quả cầu thời gian được thấy trong Kho Lưu Trữ The Sims, được để lại cho ai đó khám phá!
+Quả cầu thời gian đặc biệt
+Quả cầu thời gian bí ẩn
+Trang trí truyền cảm hứng: 3
+Trang trí vui tươi: 3
+Một hạt đậu huyền thoại với sức mạnh thật. Thu thập cả sáu để biến đổi ngươi.
+Môi trường: 3
+Trang trí tập trung: 3
+Mức độ sức mạnh: Cao

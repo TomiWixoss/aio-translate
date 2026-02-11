@@ -1,0 +1,101 @@
+Hương vị kỳ lạ
+Có gì đó không đúng với hương vị, nhưng điều đó sẽ không ngăn được {0.SimFirstName} muốn nhảy hoặc tiệc tùng!
+Món ăn cải thiện
+Có gì đó về hương vị món ăn này khiến nó thân thuộc.
+Đồ uống cải thiện
+Có gì đó về hương vị đồ uống này khiến nó thân thuộc.
+Nước táo sủi tuyệt vời
+Luôn có thể tin tưởng vào Nước táo sủi để giữ sức sống.
+Fondue ngon
+Phô mai tan chảy dường như làm tan chảy vị giác của bạn.
+Món ngon trái cây!
+Có thực sự có trái cây trong chiếc bánh đó không? Không quan trọng, nó rất ngon!
+Tôi vừa ăn gì thế?
+Ối! Có ai thực sự ăn món bánh trái cây đó không?!
+(Từ việc hoàn thành buổi tập Epic Gains)
+Cánh tay như sợi mì
+Cẩn thận các lọ dưa chua! Chuẩn bị mở ra! {0.SimFirstName} đang trở nên mạnh mẽ hơn với mỗi buổi tập.
+(Từ việc tập luyện cùng nhau)
+Lợi ích nhóm
+Không có gì như tiếng rên đồng bộ để kéo các Sim lại gần nhau hơn. {0.SimFirstName} vượt qua các lần lặp và lợi ích cảm thấy tốt hơn khi có đội cổ vũ xung quanh!
+(Từ việc hoàn thành Arm Curls)
+Có chút lợi ích
+Cái lấp lánh sau khi nâng tạ là thật. {0.SimFirstName} cảm thấy mạnh mẽ hơn, cơ bắp phồng to hơn và chỉ một chút tự mãn sau bộ đó!
+(Từ việc hoàn thành buổi tập Arm Day)
+Đang phồng cơ
+Endorphin đang bắt đầu tác động, và {0.SimFirstName} đang cảm nhận cơn xung động từ buổi tập tay đó!
+Căng cơ
+Ối, mọi thứ đều đau! Có lẽ mình đã cố gắng quá mức...
+Buổi tập tốt
+Một buổi tập tốt luôn làm tinh thần phấn chấn!
+Nguồn cảm hứng được giải phóng!
+Thực hành thực hành thực hành và kiệt tác hoàn hảo sẽ không lảng tránh một người lâu.
+Biểu hiện nghệ thuật
+Nước sáng tạo đang chảy sau khi hoàn thành canvas vẽ mới.
+Hoan hô! Đồ uống!
+Ngon ngon, đồ uống đó rất ngon!
+Trao đổi chất tăng cao
+Trà đã cho bạn một cú hích năng lượng lớn!
+Hào quang khỏe mạnh
+Trà này có tác dụng chữa lành tuyệt vời.
+Trà nóng
+Trà khiến bạn muốn nói &quot;Hello, Nurse!&quot;
+Cốc Dũng Cảm
+Trà khiến bạn cảm thấy như có thể làm bất cứ điều gì!
+Trà đen tuyền
+Một chút caffeine có thể giúp một Sim tập trung.
+Bối rối Snaggle
+Cái Snaggle Fluster đó đang gây ra một chút hỗn loạn trong bụng của {0.SimFirstName}, nhưng {M0.he}{F0.she} cảm thấy như {M0.he}{F0.she} có thể học mọi thứ ngay bây giờ.
+Chất nhầy ghê tởm
+Ối! Thứ hỗn hợp đó chẳng có gì ngoài sự ghê tởm!
+Ấm áp và dễ chịu
+Thứ hỗn hợp đó thực sự mang lại những năng lượng tốt lành!
+Sự tự tin sục sôi
+Thứ hỗn hợp đó thực sự là một chất tăng cường sự tự tin!
+Không có tác dụng
+Có vẻ như loại thuốc đó không làm được gì nhiều. Thật nhàm chán.
+Tràn đầy sức sống
+{0.SimFirstName} tràn đầy sinh lực, sức căng và thậm chí một chút tự do. Bây giờ là lúc tham gia vào hoạt động thể chất!
+Mọi người đâu rồi? Có ai chú ý đến tôi không?
+Mọi người đâu rồi?!
+Mọi người đã đi hết! Tôi ghét mọi người… tại sao họ lại biến mất?!
+Biến thành 'Mọi người đâu rồi?!' trong: {0.Timespan}
+Mọi người đâu rồi?
+Mọi người đi đâu rồi? Tại sao tôi lại một mình?
+Rất cô đơn
+Các Sim hướng ngoại đặc biệt cô đơn khi họ chưa tương tác với người khác.
+Kéo dài thời gian không có liên lạc xã hội có thể khiến một Sim hướng ngoại cảm thấy như thế giới kết thúc.
+Khát
+{0.SimFirstName} cần được tưới nước. Không có nước, {M0.he}{F0.she} không thể quang hợp!
+Khô nẻ
+Không có nước trong PlantSim này! Tốt hơn nên lấy một ít nước sớm hoặc họ có thể khô nẻ.
+Một mình?
+Tôi đã bị bỏ lại một mình từ lâu…
+Tại sao họ lại bỏ rơi tôi?
+Biến thành 'Một mình?' trong: {0.Timespan}
+Mọi người đâu rồi?
+Mọi người đâu rồi? Có ai chú ý đến tôi không?
+Mọi người đâu rồi?!
+Mọi người đã đi hết! Tôi ghét mọi người… tại sao họ lại biến mất?!
+Biến thành 'Mọi người đâu rồi?!' trong: {0.Timespan}
+Mọi người đâu rồi?
+Ối! {0.SimFirstName} không thích bị bỏ qua và muốn được chú ý ngay lập tức!
+Héo tàn trong: {0.Timespan}
+Héo tàn
+Không có ánh sáng mặt trời hoặc nước có nghĩa là {0.SimFirstName} se lại và héo tàn!
+Chết đói trong: {0.Timespan}
+Đói cực kỳ
+Đối với những người thực phẩm, cơn đói là hơn một chút bất tiện nhẹ...
+Thiếu ánh sáng mặt trời
+PlantSim cần ánh sáng mặt trời và nước để tồn tại! Và thức ăn, mặc dù ngon, không làm gì để giữ họ sống. Hãy chắc chắn lấy cho họ một ít nước và ánh sáng mặt trời sớm!
+Bị gây mê!
+Tôi đã bị gây mê.
+Ngất trong: {0.Timespan}
+Sự cố bàng quang trong: {0.Timespan}
+Biến thành {1.String} trong: {0.Timespan}
+Thầm cảm thấy nhẹ nhõm
+Các trường hợp khẩn cấp về phòng tắm có thể cực kỳ xấu hổ... tức là, trừ khi bạn đã được ngâm trong chất lỏng ấm.
+Thêm thịt xông khói vào mọi thứ
+Hào hứng về trò đùa
+Trò đùa với cốc nước sắp trở thành điên rồ!
+Trò đùa thất bại

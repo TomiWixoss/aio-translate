@@ -1,0 +1,100 @@
+Ngày Tạo
+A - Z
+Chi Tiết Kịch Bản
+Hộ gia đình này không đáp ứng yêu cầu cho kịch bản
+Hộ gia đình này đã có một kịch bản đang hoạt động
+Bắt Đầu Kịch Bản
+Không có hộ gia đình nào được chọn
+Chưa Chơi
+Đã Chơi
+Các Hộ Gia Đình Chưa Chơi
+Sắp Xếp Theo:
+{0.Money}
+Hộ Gia Đình Của Tôi
+Các Hộ Gia Đình Đã Chơi
+Các Hộ Gia Đình Khác
+Tùy Chỉnh
+Số Lượng Sim Tối Đa:
+Hiện Không Có Trong Thế Giới
+Hiển Thị:
+Các hộ gia đình do người chơi tạo, đã chơi hoặc chưa chơi.
+Các Sim trong thẻ này có thể mất thông tin tiến độ như mức kỹ năng, mối quan hệ, v.v.
+Câu Chuyện Khu Phố
+Các hộ gia đình với Cấu hình Mặc định
+Các hộ gia đình với Cấu hình Tùy chỉnh
+Hộ Gia Đình
+Không Có Hộ Gia Đình
+Các Khu Vực
+Không Có Trong Thế Giới
+{0.String} cư dân
+Tất Cả Các Hộ Gia Đình
+Để tiếp tục, hãy di chuyển các hộ gia đình từ "Hộ Gia Đình Của Tôi" sang "Các Hộ Gia Đình Khác".
+Chuyến Đi sẽ kết thúc cho: {0.String}
+Hủy Chuyến Đi
+Hủy Đặt Hộ Gia Đình
+Hủy Đặt Lô Đất
+Hủy Di Chuyển
+Đang Di Chuyển Cùng: {0.String} và bạn bè
+Đang Di Chuyển Cùng: {0.String}
+Đang Di Chuyển Cùng
+Tái Sinh {0.SimFirstName} {0.SimLastName} Vào...
+Đang Mua {1.String} với {0.String}
+Đang Chơi Dưới Dạng
+Di Chuyển Cùng: {0.String}
+Đang Đặt: {0.String}
+Di Chuyển Cùng: {0.String}
+Dấu Chân Môi Trường Của {0.String}
+Thay Đổi Địa Điểm Sự Kiện
+Số Tiền: {0.Money}
+Quỹ:
+Giá: {0.Money}
+tại Nhà
+tại {0.String}
+tại {0.String} trong {1.String}
+Chủ Sở Hữu:
+Bảng Chi Tiết Căn Hộ
+Bảng Thông Tin
+Bảng Chi Tiết Lô Đất
+Bảng Hộ Gia Đình
+Tiền Thuê Hàng Tuần: {0.Money}
+Loại Lô Đất: {0.String}
+Giá: {0.Money}
+Giá Mỗi Ngày: {0.Money}
+Đặc Điểm và Thử Thách Của Căn Hộ:
+Đặc Điểm và Thử Thách Của Lô Đất:
+Không có đặc điểm nào được gán cho lô đất này.
+Tiền Đặt Cọc: {0.Money}
+Cảnh Báo
+Sim mới được thêm vào các hộ gia đình sống trong Nhà Ký Túc Xét Đại Học sẽ bị xóa, bạn có chắc chắn muốn tiếp tục?
+Chuyển Sim giữa các hộ gia đình
+Di chuyển Hộ Gia Đình vào một lô đất
+Đánh Dấu Là Chưa Chơi
+Chỉnh sửa, thêm hoặc xóa Sim khỏi hộ gia đình trong Tạo Sim
+Xóa Hộ Gia Đình
+Bạn không thể di chuyển hộ gia đình này vì nó trống.
+Bạn không thể xóa hộ gia đình cuối cùng của mình.
+Quy Tắc Căn Hộ
+&lt;b&gt;Quy Tắc Căn Hộ&lt;/b&gt; được đặt bởi Chủ Sở Hữu Bất Động Sản, và các Hộ Gia Đình Thuê có thể bị phạt hoặc bị đuổi nếu vi phạm bất kỳ quy tắc nào.
+Đánh Giá Căn Hộ:
+Thông Tin Căn Hộ
+&lt;b&gt;Đánh Giá Căn Hộ&lt;/b&gt; được xác định bởi Kích Thước, Tiện Nghi, Môi Trường và Bảo Trì của căn hộ.\n\n&lt;b&gt;Thời Hạn Thuê&lt;/b&gt; được xác định bởi Chủ Sở Hữu Bất Động Sản, và cho biết tần suất người thuê trả tiền thuê.
+Tiền Thuê: {0.Money} mỗi ngày
+Nội Thất Tùy Chọn: {0.Money}
+Không Có Quy Tắc Căn Hộ Nào Được Đặt
+Thời Hạn Thuê: {0.Timespan}
+Nhập Mô Tả Tại Đây
+Vui lòng nhập một tên có độ dài ít nhất {0.Number}
+Bạn có chắc chắn muốn xóa hộ gia đình {0.String}? Hành động này không thể hoàn tác.
+Đã Qua Đời:\n{0.String}
+Thông Tin
+Đóng
+Rất tiếc chúng tôi không thể chia sẻ lên hồ sơ Facebook của bạn mà không có sự đồng ý của bạn. Vui lòng nhấp vào biểu tượng Facebook để cung cấp sự đồng ý
+&lt;span class='exchPackDetail'&gt;&lt;a href='event:clickEvent'&gt;Xem Chi Tiết &gt;&lt;/a&gt;&lt;/span&gt;
+Đề Xuất Cho Bạn!
+Đã Sở Hữu
+Mục Gallery này phải được lưu để xem nội dung cụ thể gói.
+Mục Gallery này không sử dụng nội dung gói cụ thể nào.
+Tham Dự Bản Dùng Thử
+Sử dụng Mục Từ Các Gói Này
+Miễn Phí
+Mua Ngay

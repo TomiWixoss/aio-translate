@@ -1,0 +1,107 @@
+Con riêng
+Anh/chị/em của cha/mẹ
+Anh/chị/em
+Anh/chị/em họ
+Họ hôn nhân
+Cha mẹ
+Cha mẹ vợ/chồng
+Con của anh/chị/em
+Vợ/chồng
+Anh/chị/em cùng cha/me
+Cụ ông/cụ bà
+Cháu cua
+Anh/chị/em của ông/bà
+Ông bà
+Cháu của anh/chị/em
+Cháu
+Cựu vợ/cựu chồng
+Họ xa
+Họ xa qua hôn nhân
+Hậu duệ
+Vợ/chồng quá cố
+Bạn họ
+Con
+Con dâu/con rể
+Tổ tiên
+{0.String} {1.String}
+Mối quan hệ được tạo ra
+Mối quan hệ gia đình
+Mối quan hệ triều đại
+Đã ly dị
+Bật/tắt chú giải cây gia phả
+Di chuyển cây
+Sim trước
+Mở khe đặc tính
+Khe đặc tính bị khóa 
+Khe đặc tính này bị khóa cho đến khi bạn đạt được Cấp Độ Nổi Tiếng cao hơn.
+Hành vi của một người nổi tiếng quyết định những đặc tính nào họ phát triển.
+Khi một Sim tăng Cấp Độ Nổi Tiếng, họ sẽ càng xa rời cuộc sống bình thường. Ở một số cấp độ nhất định, Sim sẽ nhận được các Khe Đặc Tính mới, có thể được lấp đầy bằng các Đặc Tính dựa trên hành vi họ tham gia.
+
+Một khi đã có được, Đặc Tính có thể bị loại bỏ bằng cách sử dụng Vương Miện Thủy Tinh Thiên Thần hoặc uống thuốc giải Đặc Tính Quirk-B-Gone. Việc loại bỏ một đặc tính sẽ mở khóa khe, và sau đó có thể được lấp đầy bằng một đặc tính mới!
+
+Các đặc tính hiện tại của Sim có thể được xem dưới mục Đặc Tính Đã Có, trong khi tất cả các đặc tính có thể có có thể được xem dưới mục Tất Cả Đặc Tính.
+Đặc Tính Đã Có
+Tất Cả Đặc Tính
+Danh tiếng của Sim này sẽ được đặt lại và họ sẽ không còn nhận được danh tiếng. Cài đặt danh tiếng mặc định cho tất cả Sim có thể được đặt trong Tùy Chọn Trò Chơi.
+Rời Ánh Sáng Đèn Tỏa
+Sim có Đặc Quyền Danh Tiếng không thể rời ánh sáng đèn tỏa. Để loại bỏ Đặc Quyền Danh Tiếng khỏi một Sim, hãy sử dụng điện thoại hoặc máy tính để Đặt Lịch Làm Sạch Danh Tiếng.
+Ở Ngoài Ánh Sáng Đèn Tỏa?
+CẢNH BÁO: Hành động này sẽ đặt lại mọi danh tiếng đã có của Sim này về 0. Nếu Sim bước lại vào ánh sáng đèn tỏa sau này, họ sẽ bắt đầu lại từ đó.
+
+Một khi đã ra khỏi ánh sáng đèn tỏa, Sim sẽ không nhận được danh tiếng hay trở thành người nổi tiếng. Nút này sau đó sẽ cho phép họ đảo ngược quyết định này bất cứ lúc nào.
+Sim này sẽ có thể nhận danh tiếng và trở thành người nổi tiếng. Cài đặt danh tiếng mặc định cho tất cả Sim có thể được đặt trong Tùy Chọn Trò Chơi.
+Bước Vào Ánh Sáng Đèn Tỏa
+Trở Nên Nổi Tiếng!
+Bạn có muốn Sim này có thể trở thành người nổi tiếng không? Họ sẽ phải bắt đầu từ dưới đáy và xây dựng sự nghiệp lên tầm ngôi sao.
+<font color='#EC262E'>• Yêu cầu đặc quyền: {0.String}</font>
+<font color='#EC262E'>• Phải là {0.String}</font>
+Phần Thưởng Ở Hạng Tiếp Theo
+Tên lừa đảo
+Sức đề kháng
+Lệnh Đầu Tiên
+Bạc
+Vàng
+Đồng
+Quá nhiều Sim đã được mời để biến bữa tiệc này thành Mời Riêng
+Bắt Đầu Sự Kiện
+Bắt đầu sự kiện này ngay lập tức.
+Không thể bắt đầu sự kiện ngay lập tức vì một sự kiện đang diễn ra.
+Ngay bây giờ
+{0.TimeShort}
+Một thời gian bắt đầu phải được chọn cho sự kiện này.
+Đặt thời gian bắt đầu cho Chuyến Đi. Sim sẽ di chuyển đến địa điểm Chuyến Đi vào thời gian đã chọn.
+Một kỳ nghỉ đã được lên lịch bắt đầu vào thời gian này.
+Một sự kiện đã được lên lịch bắt đầu vào thời gian này.
+Chọn
+Duyệt Phải
+Duyệt Trái
+Chọn Chỉnh Sửa Trang Phục để thay đổi Trang Phục Lễ cho mỗi Sim trong Cặp Đôi Cưới. Bộ trang phục lễ đầu tiên sẽ được chọn tự động, nhưng những bộ khác có thể được thay đổi sau khi đám cưới bắt đầu thông qua tùy chọn Thay Đổi Trang Phục.
+Bắt Đầu Ngay
+Chọn một địa điểm
+Chọn một Địa Điểm
+Chọn Thời Gian Sự Kiện:
+Bạn không có đủ tiền để bắt đầu Sự Kiện Xã Hội này.
+Chọn một Sự Kiện Xã Hội bên trái để xem chi tiết hơn
+Bạn phải chọn một Sự Kiện Xã Hội từ danh sách bên trái trước
+Sự Kiện Xã Hội là những cách vui vẻ để Sim của bạn tham gia vào các hoạt động đa dạng. Tổ chức tiệc, đi hẹn hò, kiếm phần thưởng, và để họ tận hưởng cuộc sống trọn vẹn.
+Chọn một Sự Kiện Xã Hội
+Không có Sim trong hộ gia đình trong khung thời gian {0.TimeShort}.
+<span class="reward-label">Phần Thưởng Thử Thách:</span> <span class="reward-list">{0.String}</span><br/>
+Chọn xem Chuyến Đi này có nên tự động lên lịch lại trên lịch hàng tuần không. Chuyến Đi này sẽ lặp lại vào những ngày trong tuần đã chọn và kéo dài trong khoảng thời gian đặt bên dưới.
+Lặp Hàng Tuần
+{0.DayOfWeekShort}
+{0.DayOfWeekLong}
+Chọn Nguyện Vọng Mới
+{0.SimFirstName}'s Satisfaction: {1.Points}
+{0.SimFirstName}'s
+Sự Hài Lòng: {1.Points}
+{0.Points}
+Đặc Tính Phần Thưởng: <font color='#38A666'>{0.String}</font>
+Cửa Hàng Phần Thưởng
+{0.SimFirstName} hiện không có nguyện vọng nào được theo dõi. Bạn có thể chọn một nguyện vọng bằng cách nhấp vào nút "Chọn Nguyện Vọng" ở phía trên bên phải.
+{0.String} Cột Mốc
+Khủng hoảng Tuổi Trung Niên!
+Bạn phải là một ma để mở khóa phần còn lại của Hành Trình Linh Hồn.
+{0.String} ({1.Number}/{2.Number})
+Nguyện Vọng
+Nguyện Vọng

@@ -1,0 +1,100 @@
+Bà Công Tước
+Bá Tước
+Bá Tước
+Nữ Bá Tước
+Hiệp Sĩ
+Hiệp Sĩ
+Nữ Hiệp Sĩ
+Bá Tước
+Bá Tước
+Nữ Bá Tước
+Hầu Tước
+Hầu Tước
+Nữ Hầu Tước
+Giao ước Lục Tử
+Các vùng đất của vương quốc sẽ hưng thịnh! Cây cối sẽ phát triển nhanh hơn. Những tinh thể, kim loại, hóa thạch và ếch hiếm có thể xuất hiện khắp vùng đất. Câu cá cũng phong phú hơn với những con cá lớn và hiếm xuất hiện trong nước của Vương Quốc!
+Giáo lý Sinh Khí
+Mọi công dân sẽ được khuyến khích thể hiện sự cường tráng và kỷ luật! Các Sim trong Vương Quốc sẽ dần tăng Kỹ năng Thể dục. Các Sim trong các nghề nghiệp liên quan đến thể dục cũng sẽ có Hiệu suất Nghề nghiệp cao hơn.
+Sắc lệnh Công nghệ
+Vương miện có tầm nhìn về một tương lai được dẫn dắt bởi trí tuệ và sự chính xác. Trong toàn Vương Quốc, các kỹ năng kỹ thuật sẽ tăng, cũng như Hiệu suất Nghề nghiệp kỹ thuật.
+Sắc lệnh Ẩm thực
+Vương miện ca ngợi nghệ thuật ẩm thực. Đồ ăn và thức uống trong toàn Vương Quốc sẽ phát triển và có chất lượng cao hơn. Các nghề nghiệp liên quan đến thực phẩm cũng sẽ được hưởng lợi Hiệu suất Nghề nghiệp.
+Sắc lệnh Giác Ngộ
+Tri thức là xương sống của một vương quốc mạnh mẽ. Các Sim trẻ trong Vương Quốc sẽ hoàn thành bài tập về nhà, dự án học tập và bài thuyết trình nhanh hơn. Việc đạt điểm tốt sẽ dễ dàng hơn.
+Tuyên ngôn Nghệ Nhân
+Hãy biết rằng thủ công sẽ phát triển dưới sự bảo trợ hoàng gia. Các kỹ năng chế tác sẽ tăng nhanh hơn. Biểu diễn đường phố sẽ kiếm được nhiều tiền hơn, và các Sim trong một số nghề sáng tạo sẽ được hưởng lợi Hiệu suất Nghề nghiệp.
+Hiến chép Bạc
+Sự khôn ngoan của tuổi già sẽ được tôn vinh. Vùng đất sẽ bảo vệ những người cao tuổi của mình với sự tôn trọng và chăm sóc! Người cao tuổi có thể tận hưởng việc tăng kỹ năng nhanh hơn và giảm nguy cơ quá sức do WooHoo.
+Giao ước Nôi Cradle
+Vương miện kêu gọi một thời kỳ thịnh vượng và gia đình! Các Sim trong Vương Quốc sẽ có tỷ lệ thành công mang thai cao hơn và cơ hội cao hơn để mang thai sinh đôi hoặc ba trẻ. Trẻ nhỏ cũng sẽ có tốc độ tăng kỹ năng cao hơn.
+Ưu ái Không xác định
+Yêu cầu cấp độ {0.Number} trong Đá quý
+Bắt đầu một Cuộc tụ họp Câu lạc bộ
+{0.SimFirstName} nên gây ấn tượng tốt với {2.String}, những người đang Tụ họp. {M0.Anh ấy}{F0.Cô ấy} nên giao tiếp với các thành viên Câu lạc bộ và xin Đăng ký Vào {2.String} nếu mọi chuyện thuận lợi.
+Xin chào {0.SimFirstName}! Tôi nghe nói bạn quan tâm đến việc gia nhập {2.String}! Hãy đến chơi với chúng tôi và nếu bạn gây ấn tượng tốt, bạn có thể xin được đăng ký vào {2.String}.
+Chào mừng đến với {2.String}! Tôi rất vui vì bạn đã quyết định tham gia Câu lạc bộ của chúng tôi. Chúng tôi đang có một Cuộc tụ họp Câu lạc bộ và rất muốn bạn giới thiệu bản thân với nhóm!
+Ê! Chúng ta đã lâu rồi không gặp. Có lẽ chúng ta nên cùng gặp mặt?
+Tuyệt vời khi bạn quan tâm đến việc gia nhập {2.String}. Chúng tôi rất muốn gặp bạn trực tiếp một khi bạn đã trở về.
+Này {0.SimFirstName}. Chúng tôi rất muốn xem xét đơn xin thành viên của bạn cho {2.String}, nhưng chúng tôi không có chỗ nào để tụ họp lúc này. Hãy liên lạc lại với chúng tôi một khi bạn đã về nhà và chúng tôi sẽ đến nhà bạn.
+Tất nhiên, Hãy đến đây!
+Không, Cảm ơn, Quên đi
+Này {0.SimFirstName}! Thật tuyệt khi bạn quan tâm đến việc gia nhập {2.String}. Chúng tôi không hay tụ họp ở một địa điểm cụ thể nào, vì vậy chúng tôi rất muốn đến nhà bạn để tìm hiểu về bạn. Bạn nghĩ sao?
+Một số Sim trong hộ gia đình của {0.SimFirstName} là thành viên của {2.String}. {M0.Anh ấy}{F0.Cô ấy} nên Mời họ tham gia {2.String} một cách cá nhân.
+{5.String}\n\nTôi đang nghĩ đến việc gặp mặt tại {3.String}. {4.String}\n\nBạn có muốn tham gia cùng chúng tôi không?
+{5.String}\n\nChúng tôi đều sẽ đến {3.String}. {4.String}\n\nBạn có muốn đến không?
+{5.String}\n\nChúng tôi sẽ gặp nhau tại {3.String}. {4.String}\n\nBạn có thể đến được không?
+Người cao tuổi
+Thanh niên
+Trẻ em
+Thanh thiếu niên
+Người trưởng thành
+Đang trong Mối quan hệ
+Độc thân
+Đã kết hôn
+Chưa kết hôn
+Giàu có: Hơn §500,000
+Nghèo: Ít Hơn §10,000
+Trung bình: §10,000 - §500,000
+Ngôi sao 4 sao
+Ngôi sao 2 sao
+Ngôi sao 1 sao
+Ngôi sao 5 sao
+Ngôi sao 3 sao
+Vâng! Tôi sẽ đến ngay
+Không, Cảm ơn
+Nâu đậm
+Xanh lá
+Xanh dương
+Cam
+Xám
+Vàng
+Trắng
+Tím
+Nâu
+Hồng
+Đen
+Nâu nhạt
+Đỏ
+Bỏ phiếu đã bắt đầu!\n\nHãy đến &lt;b&gt;Hộp thư&lt;/b&gt; của bạn hoặc &lt;b&gt;Bảng bỏ phiếu công cộng&lt;/b&gt; gần nhất để đặt phiếu bầu của bạn cho các Kế hoạch Hành động Khu phố có sẵn trong tuần này.
+Giai đoạn bỏ phiếu đã bắt đầu!\n\nSố lượng Kế hoạch Hành động Khu phố tối đa hiện đang hoạt động.\n\nKhiếu nại để Phế bỏ tại &lt;b&gt;Hộp thư&lt;/b&gt; của bạn hoặc &lt;b&gt;Bảng bỏ phiếu công cộng&lt;/b&gt; gần nhất để có cơ hội mở lại bỏ phiếu trong giai đoạn tiếp theo.
+Giai đoạn bỏ phiếu sắp kết thúc. Nhanh chóng thu thập tất cả chữ ký Phế bỏ cần thiết trước {0.DayOfWeekLong} lúc {0.TimeShort}!
+Bỏ phiếu đã đóng và {0.String} đã bị Phế bỏ.\n\nBỏ phiếu mở lại vào {1.DayOfWeekLong} lúc {1.TimeShort}.
+Bỏ phiếu đã đóng và việc Phế bỏ {0.String} không thành công.\n\nCác Khiếu nại Phế bỏ khác có thể được thực hiện khi giai đoạn bỏ phiếu mở lại vào {1.DayOfWeekLong} lúc {1.TimeShort}.
+Bạn không thể thêm một Kế hoạch Hành động Khu phố nào khi bỏ phiếu đang mở!
+&lt;font color='#ff0000'&gt;Bỏ phiếu hiện đang đóng &lt;/font&gt;
+Số lượng Kế hoạch Hành động Khu phố tối đa hiện đang hoạt động. Bắt đầu Quy trình Phế bỏ trên một Kế hoạch đang hoạt động để mở lại Bỏ phiếu.
+&lt;font color='#ff0000'&gt; Bạn không thể bỏ phiếu cho cái này &lt;/font&gt;
+Chỉ cư dân Khu phố mới được phép bỏ phiếu.
+Thêm Kế hoạch Hành động Khu phố…
+Giai đoạn bỏ phiếu sắp kết thúc và {0.String} đang dẫn đầu. Vui lòng đến Bảng bỏ phiếu hoặc Hộp thư gần nhất để đặt phiếu bầu của bạn trước {1.DayOfWeekLong} lúc {1.TimeShort}!
+Bỏ phiếu đã đóng.\n\n{0.String} nhận được nhiều phiếu bầu nhất từ cộng đồng và sẽ có hiệu lực ngay lập tức.\n\nBỏ phiếu mở lại vào {1.DayOfWeekLong} lúc {1.TimeShort}.
+{0.DayOfWeekShort} {0.TimeShort} - {1.DayOfWeekShort} {1.TimeShort}
+Gấu mèo
+Cáo
+Chít chít
+Giọng ngựa
+Khác
+Lạnh
+Trung lập
+Ấm áp
+Tất cả

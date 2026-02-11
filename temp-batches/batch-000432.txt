@@ -1,0 +1,100 @@
+Vùng Bóng Tối
+Tạo Vùng Bóng Tối
+Phim Câm
+Tạo Phim Câm
+Thuốc Yêu #4
+Tạo Thuốc Yêu #4
+Tang và Zing
+Tạo Tang và Zing
+Lạnh và Gió
+Tạo Lạnh và Gió
+Simsmapolitan
+Tạo Simsmapolitan
+Ridgeport
+Tạo Ridgeport
+Bà Ngoại Đập
+Tạo Bà Ngoại Đập
+Bánh Trắng
+Mì ống
+Gà Nướng
+Nước Cam
+Bánh Phô mai SimCity
+Bánh Pasta Lò Vi Sóng
+Bữa Ăn Lò Vi Sóng
+Bánh Mì Kẹp
+Bánh Mì Phô mai Nướng
+Salad Rau Cơ
+Bánh Sữa chiên
+Khoai Tây Chíp
+Ngũ Cốc Sáng
+Tạo Mì ống
+Nướng Bánh Phô mai SimCity
+Nướng Bánh Mì Kẹp
+Nấu Bánh Mì Phô mai Nướng
+Tạo Salad Rau Cơ
+Pha Trà
+Pha Trà Oolong
+Ly Trà Oolong
+Pha Trà Oolong
+Trà Xanh Lành
+Ly Trà Xanh Lành
+Pha Trà Xanh Lành
+Trà Gừng Hơi Nóng
+Ly Trà Gừng Hơi Nóng
+Pha Trà Gừng Hơi Nóng
+Trà Earl Grey, Nóng
+Ly Trà Earl Grey, Nóng
+Pha Trà Earl Grey, Nóng
+Trà Cúc Làm dịu
+Ly Trà Cúc Làm dịu
+Pha Trà Cúc Làm dịu
+Trà Đen Đậm
+Ly Trà Đen Đậm
+Pha Trà Đen Đậm
+Pha Cà phê
+Tạo Cà phê
+Ly Cà phê Americano
+Dịch chuyển đến đây cùng
+Dịch chuyển...
+Dịch chuyển đến đây
+Đi đến đây
+Thiếu niên
+Thiết lập Lô đất (Debug)
+Thiết lập Vườn
+Người già
+Tạo Sim (Debug)
+Nam
+Nữ
+Trẻ em
+Em bé
+Người lớn
+Gọi đến
+{0.SimFirstName} không thể làm điều này khi đang mang thai.
+Xin chào {1.SimFirstName}, đây là {0.SimFirstName}! Tôi muốn cho bạn biết tôi vừa sinh đôi! {2.SimFirstName} và {3.SimFirstName} đều khỏe mạnh!
+Xin chào {1.SimFirstName}, đây là {0.SimFirstName}! Đoán xem? Tôi đã sinh ba! {2.SimFirstName}, {3.SimFirstName}, và {4.SimFirstName} đều đang rất khỏe.
+Xin chào {1.SimFirstName}, đây là {0.SimFirstName}! Tôi muốn cho bạn biết tôi vừa sinh {2.SimFirstName}, một em bé {M2.boy}{F2.girl} xinh xắn.
+Sinh Em bé
+Đó là một {M1.Boy}{F1.Girl}!
+{0.SimFirstName} vừa sinh một em bé {M1.boy}{F1.girl}! Em bé này cần một cái tên. Bạn muốn đặt tên cho {M1.him}{F1.her} là gì?
+Chuyển Hộ gia đình
+Làm Mang thai (Debug)
+Bán
+{0.String} ({1.Money})
+{0.String} &lt;font color='#3AAF69'&gt;(+{1.GalacticCredits})&lt;/font&gt;
+{0.String} ({1.GalacticCredits})
+Đặt lại Đối tượng (Debug)
+Bật Sinh Em bé (Debug)
+Hủy Đối tượng (Debug)
+Lừa Thông tin Sim
+Đặt Kỹ năng
+Lừa Nhu cầu
+Giết chết
+Đặt Kỹ năng {1.String} cho {0.SimName}:
+1
+Thật là một trò hề! {0.SimFirstName} đã thực hiện một trò đùa khá thông minh tại nơi làm việc của {M0.him}{F0.her}.
+{0.SimFirstName} đã cố gắng thực hiện một trò đùa tại nơi làm việc, nhưng thất bại một cách thảm hại.
+Khuynh hướng phóng khoáng rất mạnh mẽ sau khi xem bộ phim lãng mạn nóng bỏng đó!
+Đã xem Phim hài Lãng mạn
+Những chiếc chăn mềm mại đã mang lại cho bạn hạnh phúc chưa từng có!
+Thư giãn Trên Giường
+Tự động lưu

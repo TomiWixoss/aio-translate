@@ -1,0 +1,100 @@
+Có ai đó tặng {0.SimFirstName} một chiếc quạt đi, vì cuốn sách này đang làm tăng nhiệt độ!
+Sôi sục
+Sẵn sàng và Phấn chấn
+Ai ngờ rằng từ ngữ lại có thể khiến {0.SimFirstName} cảm thấy tràn đầy năng lượng như vậy?
+Trao quyền
+Siêu năng lực
+Cuốn sách truyền cảm hứng khiến {0.SimFirstName} cảm thấy tốt về {M0.bản thân}{F0.chính mình}.
+Tinh chất của Sự Khốn khổ
+Tinh chất của Căng thẳng
+Tinh chất của Sự Choáng váng
+Tinh chất của Nỗi buồn
+Tinh chất của Vui vẻ
+Tinh chất của Cuộc sống
+Nó có thể đã dẫn đến sự kết thúc của một Sim khác, nhưng trời ơi, cuộc sống thật ngon lành!
+Tinh chất của Cảm hứng
+Tinh chất của Hạnh phúc
+Tinh chất của Sự Tập trung
+Tinh chất của Lãng mạn
+Tinh chất của Năng lượng
+Tinh chất của Sự Xấu hổ
+Tinh chất của Sự Tự tin
+Tinh chất của Sự Chán nản
+Tinh chất của Sự Tức giận
+Khó chịu
+Sợ hãi
+Căng thẳng
+Căng thẳng
+Choáng váng
+Ngớ ngẩn
+Sợ hãi
+Buồn bã
+Bùng cháy
+Vui vẻ
+Đam mê
+Xấu hổ đến chết được
+Khốn khổ
+Trong phong độ
+Cảm hứng
+Sáng tạo
+Hưng phấn
+Nhục nhã
+Hạnh phúc
+Giận dữ
+Tập trung
+Thích thú
+Không sợ hãi
+Giận điên lên
+Tràn đầy năng lượng
+Xấu hổ
+Hân hoan
+Trầm cảm
+Tự tin
+Chán nản
+Giận dữ
+Người hùng điểm số cao
+{0.SimFirstName} đang lên cấp dưới sự hướng dẫn của một game thủ chuyên nghiệp. {0.SimPronounPossessiveDependent|xxUpper} DPS, APM và MMR đã vượt trội!
+Tự hào
+Nhìn cậu bé này xem! Mọi hy vọng cho tương lai đều dành cho chúng, và tương lai trông thật tươi sáng.
+Hướng dẫn vệ sinh kinh khủng
+Không... không, không phải chỗ đó... trong c... ôi, ức!
+Giấy Giả da thit
+{0.SimFirstName} đang học cách làm Đồ thủ công giấy. Chỉ là một... học viên Đồ thủ công giấy? Một "Giấy Giả da thit"?
+Pha chế Ma thuật
+{0.SimFirstName} đang học những mẹo nghề nghiệp từ một pha chế giàu kinh nghiệm. Những món hỗn hợp này ngon đến mức {0.SimPronounSubjective} gần như có thể thề rằng đó là ma thuật!
+Đồng lõi trong Trò đùa
+Mặc dù {0.SimFirstName} chắc chắn có thể thực hiện một trò đùa hay {0.SimPronounReflexive}, {0.SimPronounSubjective} {S0.là}{P0.là} đang học được đủ loại thủ đoạn tinh ranh từ một kẻ đùa dai.
+Lời nhắc đau đớn
+Khi {0.SimFirstName} cố gắng đến gần {0.SimPronounPossessiveDependent} một nửa còn lại, nỗi tội lỗi tràn ngập. {0.SimPronounSubjective} đang nghĩ gì vậy?
+Tôi phải thú tội!
+{0.SimFirstName} đang bị ám ảnh bởi nỗi tội lỗi. Chỉ cần nhìn thấy {0.SimPronounPossessiveDependent} người thân yêu là tất cả sự hối hận lại trở lại!
+Sự tiết lộ đau lòng
+Làm sao họ có thể làm điều này với {0.SimFirstName}? Đôi khi {0.SimPronounSubjective} nghĩ rằng không biết sẽ tốt hơn là phải chịu đựng nỗi đau này...
+Lòng tin tan vỡ
+Giữ bí mật khó, nhưng nhìn thấy nỗi đau trong mắt người thân yêu còn khó hơn. Giá như {0.SimFirstName} có thể lấy lại lòng tin {0.SimPronounSubjective} đã mất...
+Bị vạch mặt...
+{0.SimFirstName} bị gọi ra vì hành vi {0.SimPronounPossessiveDependent} cay nghiệt của mình đối với một Sim. Thật xấu hổ cho {0.SimPronounObjective}...
+Bị giam hãm
+Sim này cần phải dành thời gian bên ngoài sớm để giảm căng thẳng này!
+Tỉnh giấc Hòa bình
+Những Sim yêu thiên nhiên cũng yêu việc tỉnh giấc với cảnh quan và âm thanh của thiên nhiên!
+Không khí trong lành!
+Những Sim yêu thiên nhiên thích được ở bên ngoài!
+(Từ Đặc điểm Lô đất Residence Quý tộc)
+Tiền mua được Hạnh phúc
+{0.SimFirstName} cảm thấy như ở nhà khi được bao quanh bởi những món đồ đắt tiền!
+Tức giận Bị giảm
+{0.SimFirstName} đang trở nên tức giận vì {0.SimPronounPossessiveDependent} lô đất đã mất quá nhiều giá trị!
+Giận dữ nhưng Sang trọng
+{0.SimFirstName} ghét khi những món đồ bị hỏng nằm gần trong ngôi nhà quý tộc của mình!
+Nguy hiểm Từ người lạ
+Các Sim ích kỷ không thể chịu đựng việc ở quanh người lạ. Ai biết họ có thể đang làm gì??
+Thích Cuộc sống Đơn độc
+Các Sim ích kỷ thích sự tách biệt hơn là đám đông người lạ.
+Couch Potato
+Có gì đó thật ấm áp về ánh sáng ấm áp, rực rỡ, sưởi ấm của TV...
+Giấc ngủ Lười biếng
+Không ai tận hưởng giấc ngủ trưa như một Sim lười biếng!
+Quá nhiều Việc nhà!
+Các Sim lười biếng không thể chịu đựng việc làm việc nhà!
+Đối tượng bị trộm Đã trả lại

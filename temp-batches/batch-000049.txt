@@ -1,0 +1,100 @@
+Đây là một mối quan hệ vững chắc được xây dựng trên sự tin tưởng và những kỷ niệm tuyệt vời.
+Bạn Bè
+Một người bạn sẽ luôn ở đó để nói những lời tử tế.
+Không Thích
+Mối quan hệ này căng thẳng. Mọi thứ có thể trở nên rối ren!
+Ghét Cay Ghét Đắng
+Mối quan hệ này đã trở nên rối ren. Liệu nó có còn cứu vãn được không?
+Quan Biệt
+Không phải bạn cũng không phải thù - chỉ là một mối quan hệ bình thường.
+Lời Khuyên Thân Thiện
+{0.SimFirstName} nhớ khi {1.SimFirstName} lắng nghe {0.SimPronounPossessiveDependent} những vấn đề và chia sẻ những lời khuyên sâu sắc.
+Thất Vọng
+Thật đáng thất vọng khi thấy một khoảng cách trong mối quan hệ từng rất bền chặt. {0.SimFirstName} ước mọi thứ khác đi, và {F0.she}{M0.he} tự hỏi liệu {1.SimFirstName} có cảm thấy giống vậy không.
+Tim Đau Đớn
+Tình yêu cay đắng, khi {0.SimFirstName} nhớ lại khi {F0.she}{M0.he} nghĩ về {1.SimFirstName}.
+Chán Nản Vì Bị Từ Chối
+{0.SimFirstName} không nhất thiết đổ lỗi cho {1.SimFirstName} vì đã từ chối {F0.her}{M0.him}, nhưng đôi khi vẫn cảm thấy tồi tệ khi ở quanh {1.SimFirstName}.
+Tổn Thương
+{0.SimFirstName} cảm thấy bị {1.SimFirstName} bất công, và việc ở quanh {1.SimFirstName} sẽ nhắc nhở {0.SimFirstName} về nỗi đau đó.
+Bị Bỏ Quên
+{0.SimFirstName} đang cảm thấy bị che khuất bởi {0.SimPronounPossessiveDependent} anh chị em.
+Đau Thương Sâu Sắc
+Ghế Ăn Từ Gỗ Tái Chế
+...bởi vì nói với bạn bè &quot;Tôi phải giành chỗ của mình trên Ngai Vàng Gỗ&quot; nghe hay hơn nhiều so với &quot;Tôi đi vào nhà vệ sinh ngoài trời để đi vệ sinh&quot;.
+Ngai Vàng Gỗ
+Tự Tay Chế Tạo Ghế Ăn Từ Gỗ Tái Chế
+Tự Tay Chế Tạo Ngai Vàng Gỗ
+Không có cảm giác nào tuyệt vời hơn là chơi một cây đàn guitar mà bạn tự mình chế tạo. Hãy biến giấc mơ đó thành hiện thực bằng cách tự chế tạo cây đàn guitar của riêng bạn ngay hôm nay.
+Tự Tay Chế Tạo Đàn Guitar
+Đàn Guitar
+Ghế ăn giống như khoai tây chiên - bạn không thể bao giờ có quá nhiều! Hay là, bạn không thể bao giờ chỉ có một? Điều đó có lẽ hợp lý hơn. Bạn có thể đã ăn quá nhiều khoai tây chiên rồi.
+Tự Tay Chế Tạo Ghế Ăn
+Ghế Ăn
+Tắm như người xưa - được bao quanh bởi gỗ! Cách nào tốt hơn để gần gũi với sự thuần khiết tự nhiên hơn là thư giãn trong bồn tắm làm từ cây cối.
+Tự Tay Chế Tạo Bồn Tắm
+Bồn Tắm
+Một chiếc ghế bar là một trong những món đồ nội thất đơn giản nhất có thể được làm thủ công bằng bàn gia công gỗ.
+Tự Tay Chế Tạo Ghế Bar
+Ghế Bar
+Giá Trị: {0.Money}
+Yến Mạch Đã Lục Tìm
+Yến Mạch
+Tranh Minh Họa Nhỏ
+Tranh Minh Họa Trung Bình
+Tranh Minh Họa Lớn
+Thú Lười
+Cú
+Hổ
+Gấu
+Cáo
+Gấu Mèo
+Xương Rồng & Cây Phù Thủy với Chậu Sọc Đỏ Và Trắng
+Xương Rồng & Cây Phù Thủy với Chậu Xanh Lá Và Vàng
+Xương Rồng & Cây Phù Thủy với Chậu Hoa Trắng
+Xương Rồng & Cây Phù Thủy với Chậu Hồng Đỏ
+Xương Rồng & Cây Phù Thủy với Chậu Sọc Tím Và Xanh Dương
+Xương Rồng & Cây Phù Thủy với Chậu Xanh Lục Hồng
+Chim Dẽ
+Bồ Câu
+Bồ Câu Đá
+Hải Âu
+Không Phải Gấu Panda Buồn
+Gấu Đen Dễ Thương
+Gấu Bắc Cực Ấm Áp
+Chim Cất Tuyệt Vời
+Cáo Đỏ Bẽn Lẽn
+Mèo Trắng Đen Ngớ Ngẩn
+Mèo Xám Trêu Đùa
+Mèo Cam Quái Đản
+Mèo Xanh Quái Đản
+Heo Xanh
+Heo Hồng
+Heo Cổ Điển
+Mèo Tím
+Mèo Cam
+Mèo Đen
+Chó Bẹp Nâu
+Chó Bẹp Xanh Nhạt
+Cú Vàng
+Cú Xanh
+Cá Mập Xanh Hải Quân
+Cá Mập Xanh Nhạt
+Llama Simoleon
+Llama Tím
+Llama Xanh
+Llama Xanh Lục
+Llama Vàng
+Llama Đỏ
+Llama Đen
+Llama Trắng
+Tuyệt Yến Ngang Có Mắt Tròn Simoleon
+Tuyệt Yến Ngang Có Mắt Tròn Tím
+Tuyệt Yến Ngang Có Mắt Tròn Xanh
+Tuyệt Yến Ngang Có Mắt Tròn Xanh Lục
+Tuyệt Yến Ngang Có Mắt Tròn Vàng
+Tuyệt Yến Ngang Có Mắt Tròn Đỏ
+Tuyệt Yến Ngang Có Mắt Tròn Đen
+Tuyệt Yến Ngang Có Mắt Tròn Trắng
+Ếch Simoleon
+Ếch Hồng
