@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "aio-llm": "^1.0.5",
+    "dotenv": "^17.2.4"
+  }
+}
