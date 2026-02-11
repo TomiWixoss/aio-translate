@@ -5,7 +5,7 @@ require('dotenv').config();
 
 const BATCH_SIZE = 50;
 const PARALLEL_BATCHES = 10;
-const MAX_RETRIES = 999;
+const MAX_RETRIES = 3; // Sau 3 lần retry sẽ gọi API mới
 const RETRY_DELAY = 2000;
 const PROGRESS_FILE = 'translation-progress-pricone.json';
 const INPUT_FILE = 'merged_translations.xml';
@@ -83,7 +83,7 @@ function saveProgress(progress) {
     fs.writeFileSync(PROGRESS_FILE, JSON.stringify(progress, null, 2), 'utf-8');
 }
 
-async function translateBatch(entries, batchIndex, retryCount = 0, messages = null) {
+async function translateBatch(entries, batchIndex, retryCount = 0, messages = null, totalAttempts = 0) {
     const startIndex = batchIndex * BATCH_SIZE;
     const batch = entries.slice(startIndex, startIndex + BATCH_SIZE);
     const expectedKeys = batch.map(e => e.key);
@@ -92,6 +92,13 @@ async function translateBatch(entries, batchIndex, retryCount = 0, messages = nu
     const xmlInput = batch.map(e => 
         `  <Text Key="${e.key}">${e.text}</Text>`
     ).join('\n');
+    
+    // Nếu retry quá 3 lần, tạo conversation mới (gọi API mới) cho cùng batch
+    if (retryCount > MAX_RETRIES) {
+        console.log(`🔄 Batch ${batchIndex + 1}: Đã retry ${MAX_RETRIES} lần, gọi API mới (vẫn dịch batch này, lần thử ${totalAttempts + 1})...`);
+        retryCount = 0;
+        messages = null;
+    }
     
     // Conversation history để retry
     if (!messages) {
@@ -152,56 +159,40 @@ QUY TẮC BẮT BUỘC:
         const hasError = wrongCount || missingKeys.length > 0 || extraKeys.length > 0 || wrongKeys;
         
         if (hasError) {
-            console.log(`⚠️  Batch ${batchIndex + 1}: Sai Key`);
+            console.log(`⚠️  Batch ${batchIndex + 1}: Sai Key (Retry ${retryCount}/${MAX_RETRIES}, Tổng lần ${totalAttempts + 1})`);
             
-            if (retryCount < MAX_RETRIES) {
-                messages.push({
-                    role: "assistant",
-                    content: translatedContent
-                });
-                
-                let errorMsg = `LỖI: Key không đúng!\n`;
-                errorMsg += `Cần: ${expectedKeys.length} thẻ, Nhận: ${translatedKeys.length} thẻ\n\n`;
-                
-                if (missingKeys.length > 0) {
-                    errorMsg += `❌ THIẾU các Key:\n${missingKeys.join('\n')}\n\n`;
-                }
-                if (extraKeys.length > 0) {
-                    errorMsg += `❌ THỪA các Key:\n${extraKeys.join('\n')}\n\n`;
-                }
-                if (wrongKeys && missingKeys.length === 0 && extraKeys.length === 0) {
-                    errorMsg += `❌ SAI THỨ TỰ!\n\n`;
-                }
-                
-                errorMsg += `✅ Trả về ĐÚNG ${expectedKeys.length} thẻ theo THỨ TỰ này:\n`;
-                expectedKeys.forEach((key, i) => {
-                    errorMsg += `${i + 1}. Key="${key}"\n`;
-                });
-                
-                messages.push({
-                    role: "user",
-                    content: errorMsg
-                });
-                
-                // Giới hạn conversation history: chỉ giữ prompt gốc + 3 lượt retry gần nhất
-                // Format: [user_prompt, assistant_1, user_error_1, assistant_2, user_error_2, assistant_3, user_error_3]
-                // Tổng tối đa: 7 messages (1 prompt gốc + 6 messages từ 3 lượt retry)
-                if (messages.length > 7) {
-                    messages = [
-                        messages[0], // Giữ prompt gốc
-                        ...messages.slice(-6) // Giữ 3 cặp (assistant + user) gần nhất
-                    ];
-                    console.log(`🔄 Giới hạn history: giữ prompt gốc + 3 retry gần nhất`);
-                }
-                
-                console.log(`🔄 Retry ${retryCount + 1}/${MAX_RETRIES}...`);
-                await new Promise(resolve => setTimeout(resolve, RETRY_DELAY));
-                
-                return translateBatch(entries, batchIndex, retryCount + 1, messages);
-            } else {
-                console.error(`❌ Batch ${batchIndex + 1}: Đã retry ${MAX_RETRIES} lần, vẫn sai Key`);
-                return { batchIndex, success: false, entries: batch };
+            messages.push({
+                role: "assistant",
+                content: translatedContent
+            });
+            
+            let errorMsg = `LỖI: Key không đúng!\n`;
+            errorMsg += `Cần: ${expectedKeys.length} thẻ, Nhận: ${translatedKeys.length} thẻ\n\n`;
+            
+            if (missingKeys.length > 0) {
+                errorMsg += `❌ THIẾU các Key:\n${missingKeys.join('\n')}\n\n`;
             }
+            if (extraKeys.length > 0) {
+                errorMsg += `❌ THỪA các Key:\n${extraKeys.join('\n')}\n\n`;
+            }
+            if (wrongKeys && missingKeys.length === 0 && extraKeys.length === 0) {
+                errorMsg += `❌ SAI THỨ TỰ!\n\n`;
+            }
+            
+            errorMsg += `✅ Trả về ĐÚNG ${expectedKeys.length} thẻ theo THỨ TỰ này:\n`;
+            expectedKeys.forEach((key, i) => {
+                errorMsg += `${i + 1}. Key="${key}"\n`;
+            });
+            
+            messages.push({
+                role: "user",
+                content: errorMsg
+            });
+            
+            console.log(`🔄 Retry ${retryCount + 1}/${MAX_RETRIES}...`);
+            await new Promise(resolve => setTimeout(resolve, RETRY_DELAY));
+            
+            return translateBatch(entries, batchIndex, retryCount + 1, messages, totalAttempts + 1);
         }
         
         // Key đúng, lưu file
@@ -225,7 +216,7 @@ QUY TẮC BẮT BUỘC:
         console.log(`🔄 Retry sau ${waitTime/1000}s...`);
         
         await new Promise(resolve => setTimeout(resolve, waitTime));
-        return translateBatch(entries, batchIndex, retryCount + 1, messages);
+        return translateBatch(entries, batchIndex, retryCount + 1, messages, totalAttempts + 1);
     }
 }
 
