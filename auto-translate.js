@@ -134,11 +134,15 @@ async function translateBatch(lines, batchIndex, retryCount = 0) {
     }
 }
 
-async function checkTranslation(originalBatch, translatedLines, batchIndex, checkRetryCount = 0) {
+async function checkTranslation(originalBatch, translatedLines, batchIndex, checkRetryCount = 0, conversationHistory = []) {
     const expectedLineCount = originalBatch.length;
     
     try {
-        const checkPrompt = `Kiểm tra bản dịch sau:
+        // Nếu chưa có conversation history, tạo mới
+        if (conversationHistory.length === 0) {
+            conversationHistory.push({
+                role: "user",
+                content: `Kiểm tra bản dịch sau:
 
 BẢN GỐC (${expectedLineCount} dòng):
 ${originalBatch.join('\n')}
@@ -146,26 +150,43 @@ ${originalBatch.join('\n')}
 BẢN DỊCH (${translatedLines.length} dòng):
 ${translatedLines.join('\n')}
 
-Kiểm tra:
-1. Số dòng có đúng ${expectedLineCount} không?
-2. Có giữ nguyên thẻ HTML, biến {0.String}, ký tự đặc biệt không?
-3. Có dịch đúng nghĩa không?
-4. Có thêm giải thích hay phân tích không cần thiết không?
+NHIỆM VỤ:
+1. Kiểm tra số dòng có đúng ${expectedLineCount} không?
+2. Kiểm tra có giữ nguyên thẻ HTML (&lt;span&gt;, &lt;b&gt;), biến ({0.String}, {0.Number}), ký tự đặc biệt (\\n) không?
+3. Kiểm tra có dịch đúng nghĩa không?
+4. Kiểm tra có thêm giải thích/nhận xét/phân tích không cần thiết không?
 
-Nếu TẤT CẢ đều OK, chỉ trả về chữ "OK".
-Nếu có vấn đề, trả về bản dịch MỚI với ĐÚNG ${expectedLineCount} dòng.`;
+QUY TẮC TRẢ LỜI (BẮT BUỘC):
+- Nếu TẤT CẢ đều hoàn hảo → Chỉ trả về 2 chữ: OK
+- Nếu có BẤT KỲ lỗi nào → Trả về bản dịch MỚI đã sửa với ĐÚNG ${expectedLineCount} dòng (không thêm giải thích, không nhận xét, CHỈ bản dịch)
+
+CẢNH BÁO: KHÔNG được trả về nhận xét, phân tích, hay bất kỳ text nào khác ngoài "OK" hoặc bản dịch mới.`
+            });
+        }
 
         const checkResponse = await aio.chatCompletion({
             provider: "nvidia",
             model: "stepfun-ai/step-3.5-flash",
-            systemPrompt: `Bạn là chuyên gia kiểm tra dịch thuật The Sims 4. Nếu bản dịch hoàn hảo, chỉ trả về "OK". Nếu có lỗi, trả về bản dịch mới với đúng số dòng.`,
-            messages: [{ role: "user", content: checkPrompt }],
+            systemPrompt: `Bạn là chuyên gia kiểm tra dịch thuật The Sims 4. 
+
+QUY TẮC TUYỆT ĐỐI:
+- Nếu bản dịch hoàn hảo → Chỉ trả về đúng 2 chữ "OK" (không thêm gì khác)
+- Nếu có lỗi → Trả về bản dịch mới đã sửa với đúng số dòng (KHÔNG thêm giải thích, nhận xét, phân tích)
+
+NGHIÊM CẤM: Không được trả về nhận xét, giải thích, hay bất kỳ text nào ngoài "OK" hoặc bản dịch.`,
+            messages: conversationHistory,
             temperature: 0.3,
             top_p: 0.9,
             max_tokens: 16384,
         });
 
         const checkResult = checkResponse.choices[0].message.content.trim();
+        
+        // Thêm response vào conversation history
+        conversationHistory.push({
+            role: "assistant",
+            content: checkResult
+        });
         
         // Nếu AI trả về OK
         if (checkResult === 'OK' || checkResult.toUpperCase() === 'OK') {
@@ -184,9 +205,22 @@ Nếu có vấn đề, trả về bản dịch MỚI với ĐÚNG ${expectedLine
             console.log(`⚠️  Batch ${batchIndex + 1}: Bản mới có ${newTranslatedLines.length} dòng, cần ${expectedLineCount}`);
             
             if (checkRetryCount < MAX_RETRIES) {
-                console.log(`🔄 Check retry ${checkRetryCount + 1}/${MAX_RETRIES}...`);
+                console.log(`🔄 Check retry ${checkRetryCount + 1}/${MAX_RETRIES} - Nhắc AI chỉ trả về OK hoặc bản dịch đúng số dòng...`);
+                
+                // Thêm message nhắc nhở vào conversation history
+                conversationHistory.push({
+                    role: "user",
+                    content: `LỖI: Bạn trả về ${newTranslatedLines.length} dòng nhưng cần ĐÚNG ${expectedLineCount} dòng.
+
+CHỈ CÓ 2 CÁCH TRẢ LỜI HỢP LỆ:
+1. Nếu bản dịch ban đầu hoàn hảo → Chỉ trả về 2 chữ: OK
+2. Nếu cần sửa → Trả về bản dịch mới với ĐÚNG ${expectedLineCount} dòng (KHÔNG thêm bất kỳ text nào khác)
+
+NGHIÊM CẤM: Không giải thích, không nhận xét, không phân tích. Chỉ "OK" hoặc bản dịch ${expectedLineCount} dòng.`
+                });
+                
                 await new Promise(resolve => setTimeout(resolve, RETRY_DELAY));
-                return await checkTranslation(originalBatch, translatedLines, batchIndex, checkRetryCount + 1);
+                return await checkTranslation(originalBatch, translatedLines, batchIndex, checkRetryCount + 1, conversationHistory);
             } else {
                 console.log(`⚠️  Batch ${batchIndex + 1}: Dùng bản cũ vì checker không fix được`);
                 const tempFile = path.join(TEMP_DIR, `batch-${String(batchIndex).padStart(6, '0')}.txt`);
