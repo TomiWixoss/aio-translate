@@ -3,7 +3,7 @@ const fs = require('fs');
 const path = require('path');
 require('dotenv').config();
 
-const BATCH_SIZE = 100;
+const BATCH_SIZE = 50;
 const PARALLEL_BATCHES = 10; // Chạy 10 batch song song
 const MAX_RETRIES = 999; // Retry mãi mãi
 const RETRY_DELAY = 2000;
