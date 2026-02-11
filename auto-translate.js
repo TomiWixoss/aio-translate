@@ -183,6 +183,17 @@ QUY TẮC BẮT BUỘC:
                     content: errorMsg
                 });
                 
+                // Giới hạn conversation history: chỉ giữ prompt gốc + 3 lượt retry gần nhất
+                // Format: [user_prompt, assistant_1, user_error_1, assistant_2, user_error_2, assistant_3, user_error_3]
+                // Tổng tối đa: 7 messages (1 prompt gốc + 6 messages từ 3 lượt retry)
+                if (messages.length > 7) {
+                    messages = [
+                        messages[0], // Giữ prompt gốc
+                        ...messages.slice(-6) // Giữ 3 cặp (assistant + user) gần nhất
+                    ];
+                    console.log(`🔄 Giới hạn history: giữ prompt gốc + 3 retry gần nhất`);
+                }
+                
                 console.log(`🔄 Retry ${retryCount + 1}/${MAX_RETRIES}...`);
                 await new Promise(resolve => setTimeout(resolve, RETRY_DELAY));
                 
