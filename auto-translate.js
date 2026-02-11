@@ -26,6 +26,9 @@ const aio = new AIO({
         apiKeys: [{ key: process.env.NVIDIA_API_KEY }],
         models: [{ modelId: "stepfun-ai/step-3.5-flash" }],
     }],
+    disableAutoKeyDisable: true, // Không tự động disable key khi gặp lỗi
+    maxRetries: 3,
+    retryDelay: 1000,
 });
 
 function parseXMLEntries(xmlContent) {
