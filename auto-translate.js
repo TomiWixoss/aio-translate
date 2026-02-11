@@ -38,22 +38,22 @@ function parseXMLEntries(xmlContent) {
     for (let i = 0; i < lines.length; i++) {
         const line = lines[i].trim();
         
-        if (line.includes('<TextStringDefinition')) {
+        if (line.includes('<Text Key=')) {
             let fullLine = line;
             let currentIndex = i;
             
             // Nối các dòng nếu thẻ XML bị ngắt dòng
-            while (!fullLine.includes('/>') && currentIndex < lines.length - 1) {
+            while (!fullLine.includes('</Text>') && currentIndex < lines.length - 1) {
                 currentIndex++;
                 fullLine += ' ' + lines[currentIndex].trim();
             }
             
-            const instanceMatch = fullLine.match(/InstanceID="([^"]+)"/);
-            const textMatch = fullLine.match(/TextString="([^"]*)"/);
+            const keyMatch = fullLine.match(/Key="([^"]+)"/);
+            const textMatch = fullLine.match(/>([^<]*)<\/Text>/);
             
-            if (instanceMatch) {
+            if (keyMatch) {
                 entries.push({
-                    instanceId: instanceMatch[1],
+                    key: keyMatch[1],
                     text: textMatch ? textMatch[1] : ''
                 });
             }
@@ -83,11 +83,11 @@ function saveProgress(progress) {
 async function translateBatch(entries, batchIndex, retryCount = 0, messages = null) {
     const startIndex = batchIndex * BATCH_SIZE;
     const batch = entries.slice(startIndex, startIndex + BATCH_SIZE);
-    const expectedIds = batch.map(e => e.instanceId);
+    const expectedKeys = batch.map(e => e.key);
     
     // Tạo XML input
     const xmlInput = batch.map(e => 
-        `    <TextStringDefinition InstanceID="${e.instanceId}" TextString="${e.text}" />`
+        `  <Text Key="${e.key}">${e.text}</Text>`
     ).join('\n');
     
     // Conversation history để retry
@@ -95,7 +95,7 @@ async function translateBatch(entries, batchIndex, retryCount = 0, messages = nu
         messages = [
             { 
                 role: "user", 
-                content: `Dịch ${batch.length} thẻ XML sau sang tiếng Việt. GIỮ NGUYÊN InstanceID và cấu trúc XML. CHỈ dịch nội dung trong TextString. Trả về ĐÚNG ${batch.length} thẻ với đúng InstanceID.\n\n${xmlInput}` 
+                content: `Dịch ${batch.length} thẻ XML sau sang tiếng Việt. GIỮ NGUYÊN Key và cấu trúc XML. CHỈ dịch nội dung bên trong thẻ <Text>. Trả về ĐÚNG ${batch.length} thẻ với đúng Key.\n\n${xmlInput}` 
             }
         ];
     }
@@ -104,7 +104,7 @@ async function translateBatch(entries, batchIndex, retryCount = 0, messages = nu
         const response = await aio.chatCompletion({
             provider: "nvidia",
             model: "stepfun-ai/step-3.5-flash",
-            systemPrompt: `Bạn là chuyên gia dịch The Sims 4 sang tiếng Việt. Giữ nguyên tên riêng, thẻ HTML, biến, và ký tự đặc biệt. Chỉ dịch văn bản trong TextString, KHÔNG thay đổi InstanceID hay cấu trúc XML.`,
+            systemPrompt: `Bạn là chuyên gia dịch The Sims 4 sang tiếng Việt. Giữ nguyên tên riêng, thẻ HTML (như &lt;span&gt;), biến (như {0.String}), và ký tự đặc biệt. Chỉ dịch văn bản bên trong thẻ <Text>, KHÔNG thay đổi Key hay cấu trúc XML.`,
             messages: messages,
             temperature: 0.3,
             top_p: 0.9,
@@ -115,19 +115,19 @@ async function translateBatch(entries, batchIndex, retryCount = 0, messages = nu
         
         // Parse XML trả về
         const translatedEntries = parseXMLEntries(translatedContent);
-        const translatedIds = translatedEntries.map(e => e.instanceId);
+        const translatedKeys = translatedEntries.map(e => e.key);
         
-        // Kiểm tra InstanceID chi tiết
-        const wrongCount = expectedIds.length !== translatedIds.length;
-        const missingIds = expectedIds.filter(id => !translatedIds.includes(id));
-        const extraIds = translatedIds.filter(id => !expectedIds.includes(id));
-        const wrongIds = expectedIds.length === translatedIds.length && 
-                        expectedIds.some((id, i) => id !== translatedIds[i]);
+        // Kiểm tra Key chi tiết
+        const wrongCount = expectedKeys.length !== translatedKeys.length;
+        const missingKeys = expectedKeys.filter(key => !translatedKeys.includes(key));
+        const extraKeys = translatedKeys.filter(key => !expectedKeys.includes(key));
+        const wrongKeys = expectedKeys.length === translatedKeys.length && 
+                        expectedKeys.some((key, i) => key !== translatedKeys[i]);
         
-        const hasError = wrongCount || missingIds.length > 0 || extraIds.length > 0 || wrongIds;
+        const hasError = wrongCount || missingKeys.length > 0 || extraKeys.length > 0 || wrongKeys;
         
         if (hasError) {
-            console.log(`⚠️  Batch ${batchIndex + 1}: Sai InstanceID`);
+            console.log(`⚠️  Batch ${batchIndex + 1}: Sai Key`);
             
             if (retryCount < MAX_RETRIES) {
                 messages.push({
@@ -135,22 +135,22 @@ async function translateBatch(entries, batchIndex, retryCount = 0, messages = nu
                     content: translatedContent
                 });
                 
-                let errorMsg = `LỖI: InstanceID không đúng!\n`;
-                errorMsg += `Cần: ${expectedIds.length} thẻ, Nhận: ${translatedIds.length} thẻ\n\n`;
+                let errorMsg = `LỖI: Key không đúng!\n`;
+                errorMsg += `Cần: ${expectedKeys.length} thẻ, Nhận: ${translatedKeys.length} thẻ\n\n`;
                 
-                if (missingIds.length > 0) {
-                    errorMsg += `❌ THIẾU các ID:\n${missingIds.join('\n')}\n\n`;
+                if (missingKeys.length > 0) {
+                    errorMsg += `❌ THIẾU các Key:\n${missingKeys.join('\n')}\n\n`;
                 }
-                if (extraIds.length > 0) {
-                    errorMsg += `❌ THỪA các ID:\n${extraIds.join('\n')}\n\n`;
+                if (extraKeys.length > 0) {
+                    errorMsg += `❌ THỪA các Key:\n${extraKeys.join('\n')}\n\n`;
                 }
-                if (wrongIds && missingIds.length === 0 && extraIds.length === 0) {
+                if (wrongKeys && missingKeys.length === 0 && extraKeys.length === 0) {
                     errorMsg += `❌ SAI THỨ TỰ!\n\n`;
                 }
                 
-                errorMsg += `✅ Trả về ĐÚNG ${expectedIds.length} thẻ theo THỨ TỰ này:\n`;
-                expectedIds.forEach((id, i) => {
-                    errorMsg += `${i + 1}. InstanceID="${id}"\n`;
+                errorMsg += `✅ Trả về ĐÚNG ${expectedKeys.length} thẻ theo THỨ TỰ này:\n`;
+                expectedKeys.forEach((key, i) => {
+                    errorMsg += `${i + 1}. Key="${key}"\n`;
                 });
                 
                 messages.push({
@@ -163,19 +163,19 @@ async function translateBatch(entries, batchIndex, retryCount = 0, messages = nu
                 
                 return translateBatch(entries, batchIndex, retryCount + 1, messages);
             } else {
-                console.error(`❌ Batch ${batchIndex + 1}: Đã retry ${MAX_RETRIES} lần, vẫn sai InstanceID`);
+                console.error(`❌ Batch ${batchIndex + 1}: Đã retry ${MAX_RETRIES} lần, vẫn sai Key`);
                 return { batchIndex, success: false, entries: batch };
             }
         }
         
-        // InstanceID đúng, lưu file
+        // Key đúng, lưu file
         console.log(`✅ Batch ${batchIndex + 1}: Hoàn thành với ${translatedEntries.length} thẻ`);
         const tempFile = path.join(TEMP_DIR, `batch-${String(batchIndex).padStart(6, '0')}.xml`);
         
         // Lưu dạng XML
         let xmlOutput = '';
         for (const entry of translatedEntries) {
-            xmlOutput += `    <TextStringDefinition InstanceID="${entry.instanceId}" TextString="${entry.text}" />\n`;
+            xmlOutput += `  <Text Key="${entry.key}">${entry.text}</Text>\n`;
         }
         
         fs.writeFileSync(tempFile, xmlOutput, 'utf-8');
@@ -260,7 +260,7 @@ async function main() {
     
     // Ghép file XML
     console.log('\n📝 Tạo file XML...');
-    let xmlOutput = '<?xml version="1.0" encoding="utf-8"?>\n<StblData>\n  <TextStringDefinitions>\n';
+    let xmlOutput = '<?xml version="1.0" encoding="UTF-8" standalone="yes"?>\n<STBLKeyStringList>\n';
     
     for (let i = 0; i < totalBatches; i++) {
         const tempFile = path.join(TEMP_DIR, `batch-${String(i).padStart(6, '0')}.xml`);
@@ -269,7 +269,7 @@ async function main() {
         }
     }
     
-    xmlOutput += '  </TextStringDefinitions>\n</StblData>';
+    xmlOutput += '</STBLKeyStringList>';
     
     fs.writeFileSync(OUTPUT_FILE, xmlOutput, 'utf-8');
     

@@ -13,21 +13,21 @@ function parseXMLEntries(xmlContent) {
     for (let i = 0; i < lines.length; i++) {
         const line = lines[i].trim();
         
-        if (line.includes('<TextStringDefinition')) {
+        if (line.includes('<Text Key=')) {
             let fullLine = line;
             let currentIndex = i;
             
-            while (!fullLine.includes('/>') && currentIndex < lines.length - 1) {
+            while (!fullLine.includes('</Text>') && currentIndex < lines.length - 1) {
                 currentIndex++;
                 fullLine += ' ' + lines[currentIndex].trim();
             }
             
-            const instanceMatch = fullLine.match(/InstanceID="([^"]+)"/);
-            const textMatch = fullLine.match(/TextString="([^"]*)"/);
+            const keyMatch = fullLine.match(/Key="([^"]+)"/);
+            const textMatch = fullLine.match(/>([^<]*)<\/Text>/);
             
-            if (instanceMatch) {
+            if (keyMatch) {
                 entries.push({
-                    instanceId: instanceMatch[1],
+                    key: keyMatch[1],
                     text: textMatch ? textMatch[1] : ''
                 });
             }
@@ -42,7 +42,7 @@ function parseXMLEntries(xmlContent) {
 // Đọc file EN để lấy format đúng
 const enContent = fs.readFileSync(EN_FILE, 'utf-8');
 const enEntries = parseXMLEntries(enContent);
-const enMap = new Map(enEntries.map(e => [e.instanceId, e.text]));
+const enMap = new Map(enEntries.map(e => [e.key, e.text]));
 
 console.log(`📄 Đã load ${enEntries.length} thẻ từ file EN\n`);
 
@@ -57,21 +57,21 @@ const lines = viContent.split('\n');
 
 let fixedCount = 0;
 const fixedLines = lines.map((line, index) => {
-    if (line.includes('TextString="')) {
-        const instanceMatch = line.match(/InstanceID="([^"]+)"/);
-        const textMatch = line.match(/TextString="([^"]*)"/);
+    if (line.includes('<Text Key=')) {
+        const keyMatch = line.match(/Key="([^"]+)"/);
+        const textMatch = line.match(/>([^<]*)<\/Text>/);
         
-        if (instanceMatch && textMatch) {
-            const instanceId = instanceMatch[1];
+        if (keyMatch && textMatch) {
+            const key = keyMatch[1];
             const viText = textMatch[1];
-            const enText = enMap.get(instanceId);
+            const enText = enMap.get(key);
             
             if (enText) {
                 let fixedText = viText;
                 
                 // Check if EN has HTML tags escaped
                 const enHasEscapedTags = enText.includes('&lt;') || enText.includes('&gt;');
-                const viHasUnescapedTags = /<(?!\/?(TextStringDefinition|StblData))/.test(viText);
+                const viHasUnescapedTags = /<(?!\/?(Text|STBLKeyStringList))/.test(viText);
                 
                 if (enHasEscapedTags && viHasUnescapedTags) {
                     // Escape all < and > in VI text
@@ -86,7 +86,7 @@ const fixedLines = lines.map((line, index) => {
                 
                 if (fixedText !== viText) {
                     fixedCount++;
-                    console.log(`Dòng ${index + 1} (${instanceId}): Đã fix`);
+                    console.log(`Dòng ${index + 1} (${key}): Đã fix`);
                     return line.replace(viText, fixedText);
                 }
             }
