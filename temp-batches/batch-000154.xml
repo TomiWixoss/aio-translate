@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xAEF88C86" TextString="Với cấu trúc bên trong vững chắc, khả năng hỏng hóc sẽ giảm." />
+    <TextStringDefinition InstanceID="0xEF4F8421" TextString="{0.SimFirstName} không thể nâng cấp kính hiển vi này khi nó đang bị hỏng." />
+    <TextStringDefinition InstanceID="0xE05920C4" TextString="Nâng cấp hoàn tất!\n\n{0.SimFirstName} đã hoàn thành việc lắp đặt nâng cấp kính hiển vi." />
+    <TextStringDefinition InstanceID="0x74B956F1" TextString="Sử dụng" />
+    <TextStringDefinition InstanceID="0xA93EB954" TextString="Trạng thái Tập trung giúp ích cho các hoạt động logic!" />
+    <TextStringDefinition InstanceID="0x5CAFB119" TextString="Phân tích mẫu vật để có cơ hội nắm bắt vẻ đẹp của thế giới tự nhiên." />
+    <TextStringDefinition InstanceID="0x1A9C7FC1" TextString="Phân tích Mẫu Thực Vật" />
+    <TextStringDefinition InstanceID="0xB566F9F8" TextString="Phân tích Mẫu Hóa Thạch" />
+    <TextStringDefinition InstanceID="0x17CE3CDC" TextString="Phân tích Mẫu Tinh Thể" />
+    <TextStringDefinition InstanceID="0x91E86BD9" TextString="Đối tượng này hiện đang được sử dụng." />
+    <TextStringDefinition InstanceID="0xC16F4B38" TextString="Kể chuyện cười" />
+    <TextStringDefinition InstanceID="0xA7E6C38F" TextString="Kể chuyện cười" />
+    <TextStringDefinition InstanceID="0xD28DC3A0" TextString="Kể chuyện cười" />
+    <TextStringDefinition InstanceID="0x4F80F0B1" TextString="Biểu diễn &quot;{2.ObjectName}&quot;" />
+    <TextStringDefinition InstanceID="0xEAFFA836" TextString="Đọc Trích đoạn từ {2.ObjectName}" />
+    <TextStringDefinition InstanceID="0xD0BD8FCA" TextString="Đặt lại Microphone" />
+    <TextStringDefinition InstanceID="0x90D06E5D" TextString="Luyện tập Tiết mục Hài kịch" />
+    <TextStringDefinition InstanceID="0xE380116B" TextString="Đọc Trích đoạn từ Sách Viết" />
+    <TextStringDefinition InstanceID="0x9D95BED2" TextString="Các tiết mục hài kịch cần được viết trên máy tính trước khi có thể biểu diễn." />
+    <TextStringDefinition InstanceID="0x469B5166" TextString="Biểu diễn Tiết mục Ngắn" />
+    <TextStringDefinition InstanceID="0x92C408AA" TextString="Biểu diễn &quot;{2.ObjectName}&quot;" />
+    <TextStringDefinition InstanceID="0x1C3B2A5B" TextString="Biểu diễn &quot;What's the Deal with Llamas?&quot;" />
+    <TextStringDefinition InstanceID="0x1EF459FE" TextString="Biểu diễn Enjoying TV Too Much" />
+    <TextStringDefinition InstanceID="0x52985AF2" TextString="Tự ngẫu hứng một Tiết mục Hài kịch" />
+    <TextStringDefinition InstanceID="0xED1587C9" TextString="Yêu cầu Giải trí Cụ thể" />
+    <TextStringDefinition InstanceID="0x76A83D42" TextString="Đã có một nghệ sĩ giải trí trên lô đất." />
+    <TextStringDefinition InstanceID="0xF2AE3278" TextString="Thuê {2.SimName} làm Nghệ sĩ Giải trí" />
+    <TextStringDefinition InstanceID="0xFA9B0ADD" TextString="Chơi đùa với {2.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x055F2D97" TextString="(Từ việc Được Cố vấn)" />
+    <TextStringDefinition InstanceID="0x0B9654ED" TextString="Cố vấn" />
+    <TextStringDefinition InstanceID="0xD93FB734" TextString="Huấn luyện Bơi lội" />
+    <TextStringDefinition InstanceID="0x6DD7A225" TextString="Cố vấn {2.String}" />
+    <TextStringDefinition InstanceID="0x02AD0401" TextString="{0.SimFirstName} phải có cấp độ Kỹ năng cao hơn {1.SimFirstName} để Cố vấn {1.SimPronounObjective}." />
+    <TextStringDefinition InstanceID="0xB12C5494" TextString="Cố vấn {2.String} để Nhận tiền" />
+    <TextStringDefinition InstanceID="0x4587F016" TextString="Yêu cầu Cố vấn {2.String}" />
+    <TextStringDefinition InstanceID="0xF2B00119" TextString="Cố vấn" />
+    <TextStringDefinition InstanceID="0xAC0A2D3B" TextString="(Từ việc Gia sư)" />
+    <TextStringDefinition InstanceID="0x451E31E1" TextString="(Từ việc Được Gia sư)" />
+    <TextStringDefinition InstanceID="0x50F00D32" TextString="Cố vấn" />
+    <TextStringDefinition InstanceID="0xACE0B10E" TextString="Khuyến khích" />
+    <TextStringDefinition InstanceID="0x2AEE061E" TextString="(Từ việc Được Cố vấn bởi một Sim Khôn ngoan)" />
+    <TextStringDefinition InstanceID="0xA9CCD17D" TextString="Giai điệu Bữa ăn" />
+    <TextStringDefinition InstanceID="0x0AAB8FC3" TextString="Chăm sóc Gian hàng" />
+    <TextStringDefinition InstanceID="0x4CA1F364" TextString="Giảm giá 20% Từ việc Mặc cả" />
+    <TextStringDefinition InstanceID="0xE0468D91" TextString="Mua Đồ trang trí" />
+    <TextStringDefinition InstanceID="0xEFA01321" TextString="Mua các Mặt hàng Giảm giá" />
+    <TextStringDefinition InstanceID="0xA0BF93E1" TextString="Đặt đồ uống Giảm giá" />
+    <TextStringDefinition InstanceID="0x0F8512DC" TextString="Đánh giá Đồ ăn" />
+    <TextStringDefinition InstanceID="0x9601A8A6" TextString="Đặt đồ uống" />
+    <TextStringDefinition InstanceID="0x47D1732E" TextString="Đánh giá Đồ ăn hoặc Đồ uống" />

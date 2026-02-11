@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x01CBC596" TextString="Sau vài lần thử, {0.SimFirstName} tìm được công thức chính xác để tự động hóa toàn bộ quá trình tính toán quỹ đạo. {M0.He}{F0.She} hoàn thành nhiệm vụ sớm hơn dự kiến và chia sẻ bí mật {M0.his}{F0.her} của mình với phần còn lại của nhóm." />
+    <TextStringDefinition InstanceID="0x0BAE0513" TextString="Có cả một kho chứa đầy các tấm pin dự phòng, vì vậy {0.SimFirstName} lấy một số tấm mới và lắp đặt chúng. Những tấm cũ sẽ trở thành một bàn bóng bàn mới cho phòng nghỉ ngơi của nhân viên." />
+    <TextStringDefinition InstanceID="0xFC8029B7" TextString="Độc quyền thị trường" />
+    <TextStringDefinition InstanceID="0x0DA959A8" TextString="Kiểm tra hàng hóa" />
+    <TextStringDefinition InstanceID="0xFACED809" TextString="Giảm 25% thưởng mặc cả" />
+    <TextStringDefinition InstanceID="0xEE28911B" TextString="Đuổi đàn" />
+    <TextStringDefinition InstanceID="0x1C2D7E3A" TextString="Làm đàn hoảng sợ" />
+    <TextStringDefinition InstanceID="0x9D5B2F7A" TextString="Xem bắn cung" />
+    <TextStringDefinition InstanceID="0x89B4213E" TextString="Bắn tên" />
+    <TextStringDefinition InstanceID="0xC9273A5F" TextString="Luyện tập bắn cung" />
+    <TextStringDefinition InstanceID="0xD35D992D" TextString="Thi đấu bắn cung" />
+    <TextStringDefinition InstanceID="0x1F5912EB" TextString="Dọn tên khỏi bia" />
+    <TextStringDefinition InstanceID="0xF36F5525" TextString="Xem {1.ObjectName}" />
+    <TextStringDefinition InstanceID="0x33EA7365" TextString="Ngắm {1.ObjectName}" />
+    <TextStringDefinition InstanceID="0x8D65AF63" TextString="Làm {1.ObjectName} hoảng sợ" />
+    <TextStringDefinition InstanceID="0xB9B75C34" TextString="Đối xử tệ với {1.ObjectName}" />
+    <TextStringDefinition InstanceID="0xC7EA267B" TextString="Gửi {1.ObjectName} vào" />
+    <TextStringDefinition InstanceID="0x2E6F4A95" TextString="{1.ObjectName} không đủ thích {0.SimFirstName} để tuân theo mệnh lệnh này." />
+    <TextStringDefinition InstanceID="0xEEBA4333" TextString="Gửi {1.ObjectName} về nhà" />
+    <TextStringDefinition InstanceID="0xA15F4108" TextString="Con gà này không có chuồng! Hãy đảm bảo chúng được gán vào một chuồng hoặc chúng có thể rời đi!" />
+    <TextStringDefinition InstanceID="0xA6A88D23" TextString="Thời điểm của {1.ObjectName} đã đến và giờ đây chúng sẽ dạo quanh những ngọn đồi xanh mênh mông trên trời." />
+    <TextStringDefinition InstanceID="0xD847149B" TextString="Vuốt ve {1.ObjectName}" />
+    <TextStringDefinition InstanceID="0x117BBD06" TextString="Vuốt ve {1.ObjectName} một cách nhiệt tình" />
+    <TextStringDefinition InstanceID="0x76E4C688" TextString="Hệ thống ComfortCare giống như trị liệu bằng mùi hương, trị liệu nghệ thuật và trị liệu âm nhạc, ngoại trừ việc nó không phải là bất kỳ thứ nào trong số đó. Nhưng nó thực sự giúp gia súc thư giãn, dẫn đến tuổi thọ tăng lên!" />
+    <TextStringDefinition InstanceID="0x05A186B6" TextString="Thiết bị hoạt động bằng pin này luôn luôn giữ nguồn thức ăn của nhà kho đầy ắp, mãi mãi. Người chơi không bao giờ cần nạp lại nó. Bao giờ!" />
+    <TextStringDefinition InstanceID="0xFC927B39" TextString="Nâng cấp hoàn tất!\n\n{0.SimFirstName} đã hoàn thành việc lắp đặt nâng cấp nhà kho động vật." />
+    <TextStringDefinition InstanceID="0x60E95A18" TextString="Bộ phận nâng cấp gia súc có thể được nhận bằng cách giúp đỡ người dân trong Henford-on-Bagley!" />
+    <TextStringDefinition InstanceID="0xFCF7A7A7" TextString="Nạp thức ăn" />
+    <TextStringDefinition InstanceID="0x44CF41D5" TextString="Nhà kho đã được nâng cấp với Máy Cho Ăn Tự Động." />
+    <TextStringDefinition InstanceID="0x1B9ADEBB" TextString="Nguồn thức ăn đã đầy." />
+    <TextStringDefinition InstanceID="0x82E87933" TextString="(Từ Đặc điểm Người Chăn Nuôi)" />
+    <TextStringDefinition InstanceID="0xF37A4ABA" TextString="(Từ việc làm việc nhà trong Nhà kho Động vật)" />
+    <TextStringDefinition InstanceID="0xB20070B0" TextString="Ôm {1.ObjectName}" />
+    <TextStringDefinition InstanceID="0xB26CA750" TextString="Đắm {1.ObjectName} trong tình yêu" />
+    <TextStringDefinition InstanceID="0x40EFE152" TextString="{1.ObjectName} chưa sẵn sàng để được cắt lông, hãy thử lại vào sáng mai!" />
+    <TextStringDefinition InstanceID="0xFAE0AAD6" TextString="{1.ObjectName} chưa sẵn sàng để được vắt sữa, hãy thử lại vào sáng mai!" />
+    <TextStringDefinition InstanceID="0xB79C1E79" TextString="Thịt" />
+    <TextStringDefinition InstanceID="0x7C518FC3" TextString="Đổi lấy Thịt" />
+    <TextStringDefinition InstanceID="0x8B412080" TextString="Nguyên liệu và Sản phẩm" />
+    <TextStringDefinition InstanceID="0x41B2FC09" TextString="Đổi lấy Simoleon" />
+    <TextStringDefinition InstanceID="0x07FF01B1" TextString="Thức ăn cho Động vật" />
+    <TextStringDefinition InstanceID="0x2D36763B" TextString="Đổi lấy Thức ăn cho Động vật" />
+    <TextStringDefinition InstanceID="0x0F2E2510" TextString="Bạn có chắc chắn muốn đổi con vật này lấy thức ăn cho động vật? Hành động này không thể hoàn tác!" />
+    <TextStringDefinition InstanceID="0x2771D65F" TextString="Đổi lấy Nguyên liệu" />
+    <TextStringDefinition InstanceID="0x3D92B624" TextString="Bạn có chắc chắn muốn đổi con vật này lấy nguyên liệu? Hành động này không thể hoàn tác!" />
+    <TextStringDefinition InstanceID="0x5B4C28FE" TextString="Simoleon" />
+    <TextStringDefinition InstanceID="0xC4B59FE1" TextString="Bạn có chắc chắn muốn bán con vật này? Hành động này không thể hoàn tác!" />
+    <TextStringDefinition InstanceID="0xA77CCD87" TextString="Yêu cầu ngừng giúp đỡ làm vườn" />
+    <TextStringDefinition InstanceID="0xDBB5BBB4" TextString="Yêu cầu giúp đỡ làm vườn" />
+    <TextStringDefinition InstanceID="0xB451B731" TextString="{1.ObjectName} đã chịu tác động của thức ăn này!" />

@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xEE5F0608" TextString="Nâng cấp kỹ năng" />
+    <TextStringDefinition InstanceID="0x9B72B5A7" TextString="{0.String} Cấp {1.Number}" />
+    <TextStringDefinition InstanceID="0x58F1BB0B" TextString="Đang đi đào tạo" />
+    <TextStringDefinition InstanceID="0x22A20577" TextString="Chọn một Sim bên dưới để thuê" />
+    <TextStringDefinition InstanceID="0x2E8D43D3" TextString="Trang trước - Mũi tên trái" />
+    <TextStringDefinition InstanceID="0xC3EDD74F" TextString="Trang sau - Mũi tên phải" />
+    <TextStringDefinition InstanceID="0x6F4476FC" TextString="Trang đầu tiên" />
+    <TextStringDefinition InstanceID="0x8DEFEE7C" TextString="Tự động lưu trữ bất kỳ thặng dư tiện ích nào" />
+    <TextStringDefinition InstanceID="0xFF79FA23" TextString="Lưu trữ" />
+    <TextStringDefinition InstanceID="0x29066AAD" TextString="Ngay lập tức bán bất kỳ thặng dư đã lưu trữ nào" />
+    <TextStringDefinition InstanceID="0xEC9BDD04" TextString="Bán ngay" />
+    <TextStringDefinition InstanceID="0x94271BF8" TextString="Hiện không đủ để bán." />
+    <TextStringDefinition InstanceID="0x58509BA1" TextString="Quản lý:" />
+    <TextStringDefinition InstanceID="0x81292206" TextString="Tự động bán thặng dư tiện ích" />
+    <TextStringDefinition InstanceID="0x9FFF9571" TextString="Tự động bán" />
+    <TextStringDefinition InstanceID="0xB5CB23EC" TextString="{0.Number} {1.String}" />
+    <TextStringDefinition InstanceID="0x7810A2E9" TextString="Tỷ lệ thay đổi: &lt;span class=&quot;positive&quot;&gt;+{0.Number} mỗi ngày&lt;/span&gt;" />
+    <TextStringDefinition InstanceID="0xDE42F60D" TextString="Tỷ lệ thay đổi: &lt;span class=&quot;neutral&quot;&gt;{0.Number} mỗi ngày&lt;/span&gt;" />
+    <TextStringDefinition InstanceID="0x7B6E07FD" TextString="Tỷ lệ thay đổi: &lt;span class=&quot;negative&quot;&gt;{0.Number} mỗi ngày&lt;/span&gt;" />
+    <TextStringDefinition InstanceID="0xFDE76E08" TextString="Hóa đơn &amp; Tiện ích" />
+    <TextStringDefinition InstanceID="0xF86EC963" TextString="&lt;span class=&quot;neutral&quot;&gt;{0.Money}&lt;/span&gt;" />
+    <TextStringDefinition InstanceID="0x9E38EA75" TextString="Ước tính hóa đơn hiện tại" />
+    <TextStringDefinition InstanceID="0x0F6DDDD8" TextString="&lt;span class=&quot;positive&quot;&gt;+{0.Money}&lt;/span&gt;" />
+    <TextStringDefinition InstanceID="0xF84BED20" TextString="&lt;span class=&quot;negative&quot;&gt;{0.Money}&lt;/span&gt;" />
+    <TextStringDefinition InstanceID="0xC8782CC1" TextString="{0.Number}) {1.String}" />
+    <TextStringDefinition InstanceID="0x1E32DF14" TextString="Bạn đã theo dõi Nguyện vọng này." />
+    <TextStringDefinition InstanceID="0xA7097243" TextString="Hoàn thành!" />
+    <TextStringDefinition InstanceID="0xB5F3D699" TextString="Bạn không thể cuộn thêm nữa!" />
+    <TextStringDefinition InstanceID="0x54B1E216" TextString="Theo dõi Nguyện vọng" />
+    <TextStringDefinition InstanceID="0x40F844E7" TextString="Điều chỉnh Số lượng Sim Tối đa cho bản lưu trò chơi này." />
+    <TextStringDefinition InstanceID="0x3A7CA848" TextString="Số lượng Sim: &lt;span class=&quot;count&quot;&gt;{0.Number}&lt;/span&gt;" />
+    <TextStringDefinition InstanceID="0xF4451BCF" TextString="Số lượng Sim: &lt;span class=&quot;count&quot;&gt;{0.Number}/{1.Number}&lt;/span&gt;" />
+    <TextStringDefinition InstanceID="0x6C047DAC" TextString="Số lượng Sim trong Hộ gia đình của tôi đã vượt quá. Hãy xóa Sim trong Quản lý Hộ gia đình." />
+    <TextStringDefinition InstanceID="0xB43FB4FA" TextString="Không tìm thấy kết quả." />
+    <TextStringDefinition InstanceID="0xC0E2DF03" TextString="Có quá nhiều Sim của người chơi trong tệp trò chơi này. Vui lòng giảm số lượng Sim trong Hộ gia đình của tôi hoặc điều chỉnh Số lượng Sim Tối đa trong Tùy chọn Trò chơi hoặc bên dưới." />
+    <TextStringDefinition InstanceID="0xDF53207A" TextString="Hộ gia đình hiện đang được sử dụng" />
+    <TextStringDefinition InstanceID="0x6D87A1DF" TextString="Quản lý hộ gia đình của bạn bằng cách xóa bất kỳ bản sao nào." />
+    <TextStringDefinition InstanceID="0xF0FD06F2" TextString="Hộ gia đình mới" />
+    <TextStringDefinition InstanceID="0x79CA6332" TextString="Tạo một hộ gia đình mới" />
+    <TextStringDefinition InstanceID="0x3824E4BC" TextString="Chuyển vào Hộ gia đình của tôi" />
+    <TextStringDefinition InstanceID="0x557CB1E2" TextString="Chuyển vào Hộ gia đình khác" />
+    <TextStringDefinition InstanceID="0xCC6076BD" TextString="Bạn kiểm soát quá nhiều Sim! Hãy chuyển các Hộ gia đình từ Hộ gia đình của tôi sang Hộ gia đình khác cho đến khi Số lượng Sim dưới Số lượng Sim Tối đa." />
+    <TextStringDefinition InstanceID="0xBA653F41" TextString="Cấu hình Câu chuyện Khu phố cho tất cả các Hộ gia đình trong &quot;Hộ gia đình khác&quot;" />
+    <TextStringDefinition InstanceID="0xFCAC865B" TextString="Cấu hình Câu chuyện Khu phố cho tất cả các Hộ gia đình trong &quot;Hộ gia đình của tôi&quot;" />
+    <TextStringDefinition InstanceID="0x75699E70" TextString="Xem/Cấu hình Câu chuyện Khu phố của từng Hộ gia đình" />
+    <TextStringDefinition InstanceID="0xA376BB46" TextString="Cấu hình Câu chuyện Khu phố tùy chỉnh cho Hộ gia đình này." />
+    <TextStringDefinition InstanceID="0x3DA1BAAF" TextString="Câu chuyện Khu phố đã bị tắt. Hãy bật lại trong Tùy chọn Trò chơi dưới Menu Chính." />
+    <TextStringDefinition InstanceID="0x3EFF1484" TextString="Hộ gia đình có cấu hình Câu chuyện Khu phố tùy chỉnh" />
+    <TextStringDefinition InstanceID="0x05457F11" TextString="Z - A" />
+    <TextStringDefinition InstanceID="0x36E7A458" TextString="Chỉnh sửa lần cuối" />

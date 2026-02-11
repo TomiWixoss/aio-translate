@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xB11A94AE" TextString="Đáp ứng Tiêu chí" />
+    <TextStringDefinition InstanceID="0xE84EBE3A" TextString="Đồng nghiệp" />
+    <TextStringDefinition InstanceID="0xBE8F467B" TextString="Câu lạc bộ" />
+    <TextStringDefinition InstanceID="0x0053F70D" TextString="Kinh doanh" />
+    <TextStringDefinition InstanceID="0x4F9591B0" TextString="Tất cả" />
+    <TextStringDefinition InstanceID="0x8FEB01AE" TextString="Sắp xếp theo Lợi nhuận" />
+    <TextStringDefinition InstanceID="0x25F1C691" TextString="Lợi nhuận" />
+    <TextStringDefinition InstanceID="0x98A216EF" TextString="Tổng lợi nhuận:" />
+    <TextStringDefinition InstanceID="0x1343B48C" TextString="Bán" />
+    <TextStringDefinition InstanceID="0x429294DC" TextString="Quyền lợi Thú y" />
+    <TextStringDefinition InstanceID="0xD22E6E5D" TextString="Sim của bạn không đáp ứng yêu cầu về độ tuổi phù hợp hoặc vật phẩm này đã được nhận." />
+    <TextStringDefinition InstanceID="0xCEA18A9C" TextString="Cửa hàng Phần thưởng" />
+    <TextStringDefinition InstanceID="0xF5A495A4" TextString="Quyền lợi Bán lẻ" />
+    <TextStringDefinition InstanceID="0x41BCFDD3" TextString="Tên Quyền lợi" />
+    <TextStringDefinition InstanceID="0x7B7E2B90" TextString="Đồ vật" />
+    <TextStringDefinition InstanceID="0x9A8AEBBF" TextString="Trang phục" />
+    <TextStringDefinition InstanceID="0xE5C4D831" TextString="Chi phí Điểm Quyền lợi" />
+    <TextStringDefinition InstanceID="0x33859234" TextString="Hiển thị" />
+    <TextStringDefinition InstanceID="0xECD09801" TextString="Mặc định" />
+    <TextStringDefinition InstanceID="0x5A77CD07" TextString="Độ phân giải Cảnh 3D:" />
+    <TextStringDefinition InstanceID="0x0204DA7A" TextString="Điều khiển chất lượng đồ họa tổng thể và cài đặt nâng cao bên dưới." />
+    <TextStringDefinition InstanceID="0x508F0E0F" TextString="Điều chỉnh chất lượng hạt đàn." />
+    <TextStringDefinition InstanceID="0x52EF108D" TextString="Điều khiển khoảng cách hiển thị thế giới" />
+    <TextStringDefinition InstanceID="0xB5FFE990" TextString="Đồng bộ lật trang với tốc độ làm mới. Có thể giảm hiện tượng rách hình." />
+    <TextStringDefinition InstanceID="0x0F67FF12" TextString="Bật sử dụng kết cấu Sim không nén." />
+    <TextStringDefinition InstanceID="0x5B51A4FB" TextString="Điều chỉnh mức độ chi tiết của Sim. Cài đặt cao hơn có thể ảnh hưởng đến hiệu suất game." />
+    <TextStringDefinition InstanceID="0xEE66ADD5" TextString="Điều chỉnh kích thước cửa sổ và độ phân giải đồ họa. Chọn độ phân giải phù hợp với tỷ lệ khung hình của màn hình." />
+    <TextStringDefinition InstanceID="0xA8FEA7C2" TextString="Điều chỉnh số lần hình ảnh được vẽ lên màn hình. Nếu tốc độ làm mới quá thấp, bạn có thể thấy hiện tượng nhấp nháy." />
+    <TextStringDefinition InstanceID="0x84BEE59E" TextString="Bị vô hiệu hóa trong chế độ cửa sổ." />
+    <TextStringDefinition InstanceID="0x47587CE3" TextString="Điều chỉnh chất lượng phản chiếu trên nước và gương. Cài đặt cao hơn có thể ảnh hưởng đến hiệu suất game." />
+    <TextStringDefinition InstanceID="0x0A6A2F12" TextString="Bật hiệu ứng lấy nét, ánh sáng và bóng đổ toàn cục." />
+    <TextStringDefinition InstanceID="0xAAF30B09" TextString="Điều chỉnh mức độ chi tiết của đồ vật. Cài đặt cao hơn có thể ảnh hưởng đến hiệu suất kết xuất." />
+    <TextStringDefinition InstanceID="0x9D90DECA" TextString="Điều chỉnh chất lượng ánh sáng và bóng đổ. Cài đặt cao hơn có thể ảnh hưởng đến hiệu suất kết xuất." />
+    <TextStringDefinition InstanceID="0xB38B3DDA" TextString="Bật kết xuất nhanh hơn và giảm chất lượng hình ảnh." />
+    <TextStringDefinition InstanceID="0x30A107B3" TextString="DirectX 9 không được hỗ trợ trong chế độ Tăng cường Bộ nhớ. Để truy cập tùy chọn này, hãy tắt Memory Boost." />
+    <TextStringDefinition InstanceID="0xBED27A95" TextString="Khởi động game với DirectX 9." />
+    <TextStringDefinition InstanceID="0x32592E6E" TextString="Điều chỉnh khử răng cưa. Cài đặt cao hơn làm các cạnh mềm mại hơn, nhưng cũng có thể giảm hiệu suất kết xuất." />
+    <TextStringDefinition InstanceID="0x0CD3FB9B" TextString="Điều chỉnh chế độ hiển thị chính của game thành Toàn màn hình, Cửa sổ hoặc Cửa sổ Toàn màn hình." />
+    <TextStringDefinition InstanceID="0xB168FB1C" TextString="Điều chỉnh độ phân giải đối tượng 3D (không giảm độ phân giải giao diện). Cài đặt thấp hơn cải thiện tốc độ khung hình." />
+    <TextStringDefinition InstanceID="0x95A6A5B5" TextString="Hướng dẫn:" />
+    <TextStringDefinition InstanceID="0xE8C1751B" TextString="Câu chuyện Khu phố" />
+    <TextStringDefinition InstanceID="0xF0BE7A7B" TextString="Tất cả cấu hình Câu chuyện Khu phố cho Hộ gia đình Của tôi, Hộ gia đình Khác và bất kỳ hộ gia đình Sim nào riêng lẻ sẽ được đặt lại về mặc định. Bạn có chắc chắn muốn đặt lại? Hành động này không thể hoàn tác." />
+    <TextStringDefinition InstanceID="0x102663F0" TextString="Đặt lại Cấu hình Tùy chỉnh" />
+    <TextStringDefinition InstanceID="0x1B7F53B0" TextString="Câu chuyện Khu phố" />
+    <TextStringDefinition InstanceID="0x645DDC40" TextString="Khi được bật, Câu chuyện Khu phố sẽ kích hoạt những thay đổi cuộc sống cho các Hộ gia đình và Sim cá nhân không đang được chơi. Cấu hình loại thay đổi cuộc sống nào được phép bằng cách truy cập menu Quản lý Hộ gia đình. Tùy chỉnh độc lập cấu hình cho tất cả Hộ gia đình Của tôi, Hộ gia đình Khác hoặc hộ gia đình Sim cụ thể.\n\nBỏ chọn hộp này để tắt hoàn toàn Câu chuyện Khu phố." />
+    <TextStringDefinition InstanceID="0x34C5C777" TextString="Bật Câu chuyện Khu phố" />
+    <TextStringDefinition InstanceID="0xFF40EB23" TextString="Các Sim và Hộ gia đình Không hoạt động (không đang được chơi) có thể trải qua những thay đổi cuộc sống theo cấu hình Câu chuyện Khu phố trong Quản lý Hộ gia đình." />
+    <TextStringDefinition InstanceID="0x9A2D3137" TextString="Trình đơn Xã hội Truyền thống:" />
+    <TextStringDefinition InstanceID="0x52A847A4" TextString="Ẩn Giao diện Thử thách" />
+    <TextStringDefinition InstanceID="0xFE595E20" TextString="Dài" />

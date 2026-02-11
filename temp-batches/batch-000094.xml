@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xCF79A1EC" TextString="Chơi game với bạn luôn vui hơn!" />
+    <TextStringDefinition InstanceID="0xDFE4E8A7" TextString="Các Sim cùng chơi game" />
+    <TextStringDefinition InstanceID="0x6CA6E8F9" TextString="Các Sim cùng nghe nhạc cổ điển" />
+    <TextStringDefinition InstanceID="0x35CAE8C3" TextString="Các Sim cùng nghe đàn piano" />
+    <TextStringDefinition InstanceID="0xB12F8101" TextString="Các Sim cùng nghe radio" />
+    <TextStringDefinition InstanceID="0xFC68D112" TextString="Không có gì là đen trắng, ngoại trừ bữa tiệc Đen Trắng của riêng bạn! Chiêu đãi bạn bè với phong cách sang trọng - áo tuxedo đen hoặc cà vạt trắng, đầm đen nhỏ hay váy trắng tinh, khách mời sẽ ăn mặc thật lịch lãm và sẵn sàng để tiệc." />
+    <TextStringDefinition InstanceID="0xB5F8396A" TextString="Bữa tiệc Đen Trắng" />
+    <TextStringDefinition InstanceID="0xDC940994" TextString="Sinh nhật chỉ đến một lần mỗi năm và đó là sự kiện không nên bỏ lỡ! Mang theo bánh, quà và nụ cười. Chúc mừng sinh nhật!" />
+    <TextStringDefinition InstanceID="0xCFE62BE8" TextString="Bữa tiệc sinh nhật" />
+    <TextStringDefinition InstanceID="0xFECDCF71" TextString="Sự kiện đang diễn ra!" />
+    <TextStringDefinition InstanceID="0xE8A540E3" TextString="Bạn có chắc muốn rời khỏi sự kiện hiện tại và di chuyển đến lô đất khác? Tất cả tiến độ về mục tiêu của bạn sẽ bị mất." />
+    <TextStringDefinition InstanceID="0x68F5DCD1" TextString="Không có ai trong hộ gia đình có sinh nhật hôm nay." />
+    <TextStringDefinition InstanceID="0xF6AEBA30" TextString="Sự kiện này luôn có Mục tiêu và Phần thưởng." />
+    <TextStringDefinition InstanceID="0xB6140662" TextString="Ở đây không có mấy thứ khiến tôi quan tâm, và nhân viên bán hàng cũng không thực sự phục vụ tốt. Tôi sẽ mua hàng ở chỗ khác." />
+    <TextStringDefinition InstanceID="0xA88DB13B" TextString="Tôi muốn mua thứ gì đó, nhưng không tìm thấy thứ nào phù hợp với khoảng giá của tôi. Bạn có thứ nào khác phù hợp với ngân sách của tôi không?" />
+    <TextStringDefinition InstanceID="0xADF48917" TextString="Bạn không thể lưu khi người thu hồi đang tích cực thu hồi." />
+    <TextStringDefinition InstanceID="0x60628188" TextString="Ồ, được thôi. Nếu điều đó quan trọng với bạn, tôi sẽ cân nhắc lấy thứ khác." />
+    <TextStringDefinition InstanceID="0x0B53BCA5" TextString="Không. Bạn nên đã thanh toán hóa đơn! Tôi e là tôi phải lấy thứ này." />
+    <TextStringDefinition InstanceID="0x76919F59" TextString="Mọi thứ trông đã được sửa chữa và ổn định. Đã đến lúc tôi đi, số tiền sẽ là {0.Money}." />
+    <TextStringDefinition InstanceID="0x475BC1FA" TextString="Bạn không thể lưu khi tình huống hộ tống đang diễn ra." />
+    <TextStringDefinition InstanceID="0xC801BE8E" TextString="Tương tác này không khả dụng vì một Sim đang được hộ tống." />
+    <TextStringDefinition InstanceID="0xA001E415" TextString="Bạn dường như không đủ tiền mặt cho chiếc pizza này. Bạn có thể lấy pizza, nhưng đừng nghĩ nó miễn phí! Hóa đơn cho số tiền còn lại {1.Money} sẽ được gửi đến bạn." />
+    <TextStringDefinition InstanceID="0x2651F726" TextString="Đây là pizza của bạn! Số tiền sẽ là {0.Money}." />
+    <TextStringDefinition InstanceID="0xAFC6F048" TextString="Bạn không đến nhận pizza, vì vậy tôi đã tính phí bạn {0.Money} và để nó bên ngoài cho kiến thưởng thức." />
+    <TextStringDefinition InstanceID="0xF9F28D94" TextString="Luôn di chuyển" />
+    <TextStringDefinition InstanceID="0x9F97D4B5" TextString="Các Sim thành thạo" />
+    <TextStringDefinition InstanceID="0x5EDE8178" TextString="Bạn và Điện thoại" />
+    <TextStringDefinition InstanceID="0x10D32F80" TextString="Giữ cho Sim của bạn sống sót và hạnh phúc! Hoàn thành nhiệm vụ này để nhận thuốc đặc biệt." />
+    <TextStringDefinition InstanceID="0x642646A5" TextString="Điều hướng nhu cầu" />
+    <TextStringDefinition InstanceID="0xD00B3177" TextString="Hãy làm cho trời mưa! Hoàn thành nhiệm vụ này để nhận giải thưởng Simoleon!" />
+    <TextStringDefinition InstanceID="0x51FB9468" TextString="Ghi điểm Simoleon" />
+    <TextStringDefinition InstanceID="0x57DDF149" TextString="Khám phá thế giới" />
+    <TextStringDefinition InstanceID="0x2C5ED7A8" TextString="Học cách du lịch khắp thế giới. Hoàn thành nhiệm vụ này để nhận thuốc đặc biệt!" />
+    <TextStringDefinition InstanceID="0xAC8D8983" TextString="Làm quen với thị trấn và người dân để tích hợp hoàn toàn gia đình Sim của bạn vào cộng đồng." />
+    <TextStringDefinition InstanceID="0x5CEC2B4F" TextString="Hàng xóm thân thiện" />
+    <TextStringDefinition InstanceID="0x2BE27B86" TextString="Hoàn thành nhiệm vụ này để trở thành thành viên chính của cộng đồng!" />
+    <TextStringDefinition InstanceID="0xB5612C72" TextString="Điều này sẽ kết thúc Giấc mơ và sẽ không mang lại phần thưởng!\n\nBạn sẽ không thể bắt đầu lại với gia đình này!" />
+    <TextStringDefinition InstanceID="0x0FCFA46A" TextString="Xây dựng và chơi qua một gia đình nhiều thế hệ được lấy cảm hứng từ thiên nhiên." />
+    <TextStringDefinition InstanceID="0xF8342BC2" TextString="Giấc mơ Trang trại Gia đình" />
+    <TextStringDefinition InstanceID="0x6E4F9263" TextString="Hoàn thành nhiệm vụ này để nuôi dưỡng một gia đình nhiều thế hệ!" />
+    <TextStringDefinition InstanceID="0x2ED754CD" TextString="Điều này sẽ kết thúc Giấc mơ và sẽ không mang lại phần thưởng!\n\nBạn sẽ không thể bắt đầu lại với gia đình này!" />
+    <TextStringDefinition InstanceID="0x33E91821" TextString="Xây dựng một gia đình Sim nhiều thế hệ!" />
+    <TextStringDefinition InstanceID="0x126F2E81" TextString="Giấc mơ Các Thế hệ" />
+    <TextStringDefinition InstanceID="0xD0236AF0" TextString="Hoàn thành nhiệm vụ này để xây dựng một gia đình trải qua nhiều thế hệ!" />
+    <TextStringDefinition InstanceID="0x78AB5CEC" TextString="Dẫn dắt một hộ gia đình Sims đến thành công!" />
+    <TextStringDefinition InstanceID="0x81BED220" TextString="Giấc mơ Các Sim Thành công" />
+    <TextStringDefinition InstanceID="0xDDF00AA9" TextString="Hoàn thành nhiệm vụ này để xây dựng một gia đình thành công!" />
+    <TextStringDefinition InstanceID="0x63DAB372" TextString="Hoàn thành nhiệm vụ này để kiếm Simoleon.\n\nBạn cũng có thể sử dụng biểu tượng Thùng rác để loại bỏ nhiệm vụ nếu bạn không muốn theo dõi nó." />
+    <TextStringDefinition InstanceID="0xD92C168A" TextString="Giấc mơ Tùy chọn: Mèo &amp; Chó" />
+    <TextStringDefinition InstanceID="0xF9D2005B" TextString="Nhận một người bạn lông từ the &lt;i&gt;Cats &amp; Dogs Expansion Pack&lt;/i&gt; để làm sống động hộ gia đình!" />

@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xB76D5B65" TextString="Vuốt một vật phẩm" />
+    <TextStringDefinition InstanceID="0x09AC8B40" TextString="Nhấp vào Sim đang hoạt động và chọn Gọi Món Bánh Mì Phô Mai Nướng." />
+    <TextStringDefinition InstanceID="0xD9593528" TextString="Gọi Món Bánh Mì Phô Mai Nướng" />
+    <TextStringDefinition InstanceID="0xDFD0B489" TextString="Nhấp vào một Sim và chọn Đề Xuất Hoạt Vui Vẻ từ danh mục Thân Thiện. Sim có thể thực hiện Tương Tác Xã Hội này khi chán." />
+    <TextStringDefinition InstanceID="0x3BD9BC38" TextString="Đề Xuất Hoạt Vui Vẻ Cho Người Khác" />
+    <TextStringDefinition InstanceID="0xC6D470CA" TextString="Thành công với bất kỳ Tương Tác Xã Hội nào trên một Người Quen." />
+    <TextStringDefinition InstanceID="0x0B55FF72" TextString="Thành Công Trong Việc Giao Tiếp Với Một Sim Mới" />
+    <TextStringDefinition InstanceID="0x8631C4F7" TextString="Chọn một Bảng Phong Cách và thêm Ấn Tượng vào cho đến khi Bảng Phong Cách được lấp đầy." />
+    <TextStringDefinition InstanceID="0x43E2ADDD" TextString="Hoàn Thành Một Bảng Phong Cách Với Các Ấn Tượng" />
+    <TextStringDefinition InstanceID="0x85669D05" TextString="Nhấp vào một Bảng Phong Cách khi Sim của bạn có tâm trạng Ấn Tượng và chọn Thêm Ấn Tượng." />
+    <TextStringDefinition InstanceID="0xAB52B86B" TextString="Thêm Ấn Tượng" />
+    <TextStringDefinition InstanceID="0x9F967762" TextString="Nhấp vào một vũng nước và chọn Giẫm Lên. Sim có thể thực hiện tương tác này khi tức giận." />
+    <TextStringDefinition InstanceID="0x19094C71" TextString="Giẫm Trong Vũng Nước" />
+    <TextStringDefinition InstanceID="0xC96C75F4" TextString="Nhấp vào một đài phát thanh và chọn Nghe Nhạc Thế Giới." />
+    <TextStringDefinition InstanceID="0x93EE54E4" TextString="Nghe Đài Phát Thanh Thế Giới" />
+    <TextStringDefinition InstanceID="0x9D51171A" TextString="Nhấp vào một máy stereo và Nghe bất kỳ đài nào." />
+    <TextStringDefinition InstanceID="0xB961B842" TextString="Nghe Bất Kỳ Đài Phát Thanh Nào" />
+    <TextStringDefinition InstanceID="0xD8A16FD7" TextString="Giữ Sim của bạn bên ngoài và xa nhà cửa trong 8 giờ!" />
+    <TextStringDefinition InstanceID="0x0A73763D" TextString="Ở Bên Ngoài Trong 8 Giờ" />
+    <TextStringDefinition InstanceID="0x3446D9E6" TextString="Giữ Sim của bạn ở cùng một lô đất trong 8 giờ!" />
+    <TextStringDefinition InstanceID="0xE5BF7A96" TextString="Ở Trên Lô Đất Trong 8 Giờ" />
+    <TextStringDefinition InstanceID="0x0D75EF7E" TextString="Hãy hướng nội, tránh đến gần các Sim khác, và nhất định đừng giao tiếp với người khác trong 4 giờ." />
+    <TextStringDefinition InstanceID="0x66B3633E" TextString="Một Chút Bình Yên Sẽ Rất Tốt" />
+    <TextStringDefinition InstanceID="0xFF3AC9B5" TextString="Nhấp vào máy tính và chọn thể loại sách để viết dưới danh mục Viết. Sim có thể mở khóa thêm thể loại bằng cách tăng Kỹ Năng Viết." />
+    <TextStringDefinition InstanceID="0x4E7E5193" TextString="Bắt Đầu Viết Một Cuốn Sách Mới" />
+    <TextStringDefinition InstanceID="0xBD169B99" TextString="Bắt Đầu Tạo Một Ứng Dụng Di Động Mới" />
+    <TextStringDefinition InstanceID="0x11A01D78" TextString="Nhấp vào Máy Tính và chọn Tạo Trò Chơi Máy Tính dưới danh mục Lập Trình. Sim có thể mở khóa tương tác này bằng cách tăng Kỹ Năng Lập Trình." />
+    <TextStringDefinition InstanceID="0x7EFC37E7" TextString="Tạo Một Trò Chơi Máy Tính" />
+    <TextStringDefinition InstanceID="0x9CF27410" TextString="Nhấp vào Kính Thiên Văn vào ban đêm và chọn Ngắm Sao." />
+    <TextStringDefinition InstanceID="0xCDAB464F" TextString="Ngắm Sao" />
+    <TextStringDefinition InstanceID="0x974D8B55" TextString="Nhấp vào Đài Quan Sát và chọn Do Thám Hàng Xóm. Sim có thể mở khóa tương tác này bằng cách tăng Kỹ Năng Gây Hấp." />
+    <TextStringDefinition InstanceID="0xF14C2CB4" TextString="Do Thám Hàng Xóm" />
+    <TextStringDefinition InstanceID="0x88A8BCF1" TextString="Nhấp vào một cây và chọn Phun Thuốc Trừ Côn Trùng. Tương tác này có sẵn trên cây cấp cao bị nhiễm côn trùng." />
+    <TextStringDefinition InstanceID="0x1785D1B0" TextString="Phun Thuốc Cho Cây" />
+    <TextStringDefinition InstanceID="0x09BF3028" TextString="Nhấp vào Sim của bạn và chạy tương tác Giải Quyết Vấn Đề Khó." />
+    <TextStringDefinition InstanceID="0xFA3EBE60" TextString="Giải Quyết Vấn Đề Khó" />
+    <TextStringDefinition InstanceID="0xE95B00FE" TextString="Nhấp vào một tác phẩm nghệ thuật và chọn Phê Bình Tác Phẩm." />
+    <TextStringDefinition InstanceID="0xDCD6304D" TextString="Phê Bình Một Thứ Gì Đó" />
+    <TextStringDefinition InstanceID="0xBCD1407C" TextString="Nhấp vào một nhà búp bê và chọn Đập Phá. Sim tức giận hoặc xấu xa có thể thực hiện tương tác này." />
+    <TextStringDefinition InstanceID="0xA5473C8B" TextString="Đập Phá Nhà Búp Bê" />
+    <TextStringDefinition InstanceID="0xEB08E521" TextString="Vào những lúc như thế này, đôi khi điều tốt nhất cần làm là kết thúc ngày và đi ngủ." />
+    <TextStringDefinition InstanceID="0x65E555E0" TextString="Ngủ Cho Quên" />
+    <TextStringDefinition InstanceID="0x4617B537" TextString="Để tăng Kỹ Năng Viết của {1.SimFirstName}, hãy để {M1.him}{F1.her} Viết trên Máy Tính." />
+    <TextStringDefinition InstanceID="0x1562A3E8" TextString="Để tăng Kỹ Năng Vĩ Cầm của {1.SimFirstName}, hãy để {F1.her}{M1.him} chơi Vĩ Cầm" />
+    <TextStringDefinition InstanceID="0x2C53C957" TextString="Nâng Cấp Kỹ Năng Vĩ Cầm" />
+    <TextStringDefinition InstanceID="0x92BA15F9" TextString="Để tăng Kỹ Năng Chơi Game của {1.SimFirstName}, hãy để {F1.her}{M1.him} Chơi Game bằng Điện Thoại, Máy Tính, hoặc Máy Chơi Game Chuyển Động." />
+    <TextStringDefinition InstanceID="0x33F11568" TextString="Nâng Cấp Kỹ Năng Chơi Game" />
+    <TextStringDefinition InstanceID="0xE42024F1" TextString="Để tăng Kỹ Năng Khoa Học Tên Lửa của {1.SimFirstName}, hãy để {M1.him}{F1.her} xây dựng một Tàu Vũ Trụ." />
+    <TextStringDefinition InstanceID="0xB95209B0" TextString="Nâng Cấp Kỹ Năng Khoa Học Tên Lửa" />
+    <TextStringDefinition InstanceID="0x349CF1E8" TextString="Để tăng Kỹ Năng Lập Trình của {1.SimFirstName}, hãy để {M1.him}{F1.her} Lập Trình trên Máy Tính." />

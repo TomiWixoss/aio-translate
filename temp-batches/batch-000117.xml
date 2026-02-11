@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x21780E75" TextString="Mở khóa ở cấp 10 của sự nghiệp Vận động viên khi ở nhánh Vận động viên Chuyên nghiệp." />
+    <TextStringDefinition InstanceID="0xD9D7AB5E" TextString="Mở khóa phòng này bằng cách đạt cấp 10 của sự nghiệp Vận động viên khi ở nhánh Vận động viên Chuyên nghiệp." />
+    <TextStringDefinition InstanceID="0x109435D2" TextString="Nơi Trốn Chạy Của Vận Động Viên Chuyên Nghiệp" />
+    <TextStringDefinition InstanceID="0xB4B58C12" TextString="Mở khóa ở cấp 10 của sự nghiệp Phi hành gia khi ở nhánh Phi Hành Gia Không Gian." />
+    <TextStringDefinition InstanceID="0x2CF71C1D" TextString="Mở khóa phòng này bằng cách đạt cấp 10 của sự nghiệp Phi hành gia khi ở nhánh Phi Hành Gia Không Gian." />
+    <TextStringDefinition InstanceID="0x2BB9AA29" TextString="Trụ Sở Công Việc An Hùng" />
+    <TextStringDefinition InstanceID="0x987B112D" TextString="Mở khóa ở cấp 10 của sự nghiệp Phi hành gia khi ở nhánh Kẻ Buôn Lậu Liên Ngân Hành." />
+    <TextStringDefinition InstanceID="0xA758D1A6" TextString="Mở khóa phòng này bằng cách đạt cấp 10 của sự nghiệp Phi hành gia khi ở nhánh Kẻ Buôn Lậu Liên Ngân Hành." />
+    <TextStringDefinition InstanceID="0xE39C357A" TextString="Phòng Kiểm Soát Giao Thông" />
+    <TextStringDefinition InstanceID="0x601F06BD" TextString="Đến Mặt Trăng (Trẻ nhỏ)" />
+    <TextStringDefinition InstanceID="0x9250949E" TextString="Đến Mặt Trăng (Em bé)" />
+    <TextStringDefinition InstanceID="0x0B428DE3" TextString="Đến Mặt Trăng (Trẻ sơ sinh)" />
+    <TextStringDefinition InstanceID="0x4732B4FC" TextString="Nhiệm Vụ Ngủ: Có Thể (Trẻ nhỏ)" />
+    <TextStringDefinition InstanceID="0xEC351371" TextString="Nhiệm Vụ Ngủ: Có Thể (Em bé)" />
+    <TextStringDefinition InstanceID="0x9BA41D92" TextString="Nhiều Mây và Có Thể Có Trẻ Nhỏ" />
+    <TextStringDefinition InstanceID="0xE15ADB57" TextString="Nhiều Mây và Có Thể Có Em Bé" />
+    <TextStringDefinition InstanceID="0x76166040" TextString="Nhiều Mây và Có Thể Có Trẻ Sơ Sinh" />
+    <TextStringDefinition InstanceID="0xB405A2DF" TextString="Phòng Ngủ Ru Con" />
+    <TextStringDefinition InstanceID="0xDC89902C" TextString="Phòng Suy Ngẫm" />
+    <TextStringDefinition InstanceID="0x1CE3F464" TextString="Khi Có Khách" />
+    <TextStringDefinition InstanceID="0x0596855D" TextString="Giấc Mơ Linoleum" />
+    <TextStringDefinition InstanceID="0xA7401A74" TextString="Đồ Ăn Thiết Yếu" />
+    <TextStringDefinition InstanceID="0xF766B482" TextString="Cruise Control Giấc Ngủ" />
+    <TextStringDefinition InstanceID="0xC31C3AE8" TextString="Những Thứ Cần Thiết Tối Thiểu" />
+    <TextStringDefinition InstanceID="0x56BCB6A4" TextString="Sức Hút Nhôm" />
+    <TextStringDefinition InstanceID="0x0D5E97BF" TextString="Tối Nay: Hồi Phục Năng Lượng Ma Cà Rồng" />
+    <TextStringDefinition InstanceID="0xEBB4F168" TextString="Hồi Phục Năng Lượng Ma Cà Rồng" />
+    <TextStringDefinition InstanceID="0x3CA5AE57" TextString="Tháo gỡ con búp bê Voodoo khỏi nạn nhân hiện tại." />
+    <TextStringDefinition InstanceID="0x829E3456" TextString="Một Sim đã chết không thể được triệu hồi, ngay cả khi dùng Voodoo." />
+    <TextStringDefinition InstanceID="0x634D1A1C" TextString="Bạn không nên làm phiền những Sim đang làm việc!" />
+    <TextStringDefinition InstanceID="0x584921A2" TextString="Con búp bê Voodoo chỉ có thể ràng buộc với những Sim gần đó và không phải là Trẻ em." />
+    <TextStringDefinition InstanceID="0xB62B676B" TextString="Ràng buộc con búp bê đơn giản này với một Sim khác bằng phép thuật để kiểm soát cảm xúc của Sim bị ràng buộc." />
+    <TextStringDefinition InstanceID="0x49417C5A" TextString="Không thể dùng búp bê Voodoo lên một Sim không hiện diện trên lô đất. Hãy triệu hồi Sim thay thế." />
+    <TextStringDefinition InstanceID="0xA3D1D82C" TextString="Con búp bê Voodoo đã được ràng buộc với {2.SimName}." />
+    <TextStringDefinition InstanceID="0xBCA644DF" TextString="Đi đến cuộc họp Thám tử" />
+    <TextStringDefinition InstanceID="0xB1B6B10A" TextString="Đang ở cuộc họp Thám tử" />
+    <TextStringDefinition InstanceID="0xD42D0317" TextString="{0.SimFirstName} hiện đang làm tình nguyện. {M0.His}{F0.Her} giám sát viên có thể không thích việc {0.SimPronounObjective} bỏ lỡ cái này.\n\nBạn có chắc {M0.he}{F0.she} nên làm vậy không?" />
+    <TextStringDefinition InstanceID="0x5F4BD1E2" TextString="Hát Tình Ca" />
+    <TextStringDefinition InstanceID="0xF5E911A2" TextString="Lắng Nghe" />
+    <TextStringDefinition InstanceID="0xC49C8AA9" TextString="Làm Khóc" />
+    <TextStringDefinition InstanceID="0xB9556FC4" TextString="Luyện Tập" />
+    <TextStringDefinition InstanceID="0x1E29AE30" TextString="Cảm hứng sẽ cải thiện kỹ năng chơi violin!" />
+    <TextStringDefinition InstanceID="0xD3BD26C4" TextString="Luyện Tập" />
+    <TextStringDefinition InstanceID="0x5584E7BC" TextString="Cây violin này được chế tạo đặc biệt và có kích thước để trẻ em sử dụng." />
+    <TextStringDefinition InstanceID="0x07A51CB5" TextString="Chơi" />
+    <TextStringDefinition InstanceID="0xE379B8A8" TextString="Đây là cây violin kích thước tiêu chuẩn và không thể được trẻ em chơi." />
+    <TextStringDefinition InstanceID="0xD7B55C73" TextString="Hát Tình Ca" />
+    <TextStringDefinition InstanceID="0xC073B752" TextString="Không có Sims nào gần đó để làm khóc." />
+    <TextStringDefinition InstanceID="0x6FDCA258" TextString="Làm Khóc" />
+    <TextStringDefinition InstanceID="0x713EC419" TextString="(Từ việc Thích Violin)" />

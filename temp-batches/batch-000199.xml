@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xB0081D47" TextString="Tác giả: Alfred Coholic \n\nSẵn sàng nâng cấp kỹ năng pha chế của bạn? Vậy thì cuốn sách này dành cho bạn!" />
+    <TextStringDefinition InstanceID="0x8C288DF4" TextString="Ở đâu đó, một con Ếch vừa Mới Học Nhảy Dây" />
+    <TextStringDefinition InstanceID="0xFD287FC1" TextString="Tác giả: Emory &quot;Big Boy&quot; Carson \n\nTrong ba bài luận châm biếm, Carson nhắm vào điểm yếu, chế giễu chính trị gia, người nổi tiếng và chính mẹ anh ta." />
+    <TextStringDefinition InstanceID="0x39A1B64A" TextString="Chúa Tể Các Xích Đu" />
+    <TextStringDefinition InstanceID="0x18B2FFCB" TextString="Tác giả: L.E.E. Tompkien \n\nSân chơi trở nên nguy hiểm khi tên bắt nạt trở về. Mọi người đều tranh giành Chiếc Xích Đu Độc Nhất: một chiếc xích đu đu cao và nhanh hơn tất cả. Liệu Eduardo và bạn bè có thể phá hủy Chiếc Xích Đu Độc Nhất trước khi Byron tên bắt nạt đặt bàn tay bẩn thỉu lên nó?" />
+    <TextStringDefinition InstanceID="0xC8D105F1" TextString="Nhanh Nhất và Giận Dữ Nhất" />
+    <TextStringDefinition InstanceID="0x0BAB0FCE" TextString="Tác giả: Dominick VanDeesel \n\nBạn có thể nghĩ rằng sẽ khó lấp đầy 600 trang với những câu chuyện về hai người bạn chiến đấu với tội phạm bằng xe đua, nhưng bạn sẽ rất, rất sai." />
+    <TextStringDefinition InstanceID="0x6EEC871E" TextString="Xúc Xích là Tệ Nhất" />
+    <TextStringDefinition InstanceID="0x042781E7" TextString="Tác giả: Gobias Koffi \n\nMột kẻ ghét nổi tiếng, Gobias Koffi đánh giá hơn một ngàn loại thực phẩm mà ông cho là tệ nhất thế giới: xúc xích." />
+    <TextStringDefinition InstanceID="0x95378650" TextString="M là cho Sự Bất Mãn Sai Lầm" />
+    <TextStringDefinition InstanceID="0x6C9981B5" TextString="Tác giả: Helmuth Von Gluck \n\nMọi thứ dường như ổn trong thị trấn nhỏ Hergstrom, cho đến khi chủ tịch phòng thương mại gửi một email diễn đạt mơ hồ đến một &quot;kẻ thù bạn.&quot; Giờ đây, thị trấn xôn xao và M có thể sớm đại diện cho Giết Người...." />
+    <TextStringDefinition InstanceID="0x52B252C0" TextString="Cách Gây Thương Tích Nghiêm Trọng Cho Người Khác Bằng Cuốn Sách Này" />
+    <TextStringDefinition InstanceID="0x15A8F9C5" TextString="Tác giả: J.N. Brimley \n\nNgòi bút có thể mạnh hơn gươm, nhưng không ai ngờ tới cú đánh sách vào mặt. Học về cú đánh sách vào mặt và nhiều hơn nữa bằng cách đọc cuốn sách này! Cứ đọc đi! Đúng vậy, áp sát vào nào...." />
+    <TextStringDefinition InstanceID="0x6F1939EB" TextString="bookDisplayThinRWSpecArt_01" />
+    <TextStringDefinition InstanceID="0x2AF4F2A4" TextString="bookDisplayThinRWSpecArt_01" />
+    <TextStringDefinition InstanceID="0xAB6E1C58" TextString="bookDisplayThinRWCareerSocialite_01" />
+    <TextStringDefinition InstanceID="0xD46D5F0D" TextString="bookDisplayThinRWCareerSocialite_01" />
+    <TextStringDefinition InstanceID="0xB31ED9FB" TextString="bookDisplayThinRWCareerIntMag_01" />
+    <TextStringDefinition InstanceID="0x7DA3A009" TextString="bookDisplayThinRWCareerCooking_01" />
+    <TextStringDefinition InstanceID="0x5BE79756" TextString="bookDisplayThinRWCareerCooking_01" />
+    <TextStringDefinition InstanceID="0xC13E8C8C" TextString="bookDisplayThinRWCareerASTRMag_01" />
+    <TextStringDefinition InstanceID="0xF71C12A9" TextString="bookDisplayThinRWCareerASTRMag_01" />
+    <TextStringDefinition InstanceID="0x2A8E651D" TextString="bookDisplayThinGENSkill_01" />
+    <TextStringDefinition InstanceID="0x3342D2A2" TextString="bookDisplayThinGENSkill_01" />
+    <TextStringDefinition InstanceID="0xDAF61042" TextString="bookDisplayThinGENScreenPlay_01" />
+    <TextStringDefinition InstanceID="0x9E5FE693" TextString="bookDisplayThinGENScreenPlay_01" />
+    <TextStringDefinition InstanceID="0x1EA26708" TextString="bookDisplayThinGENPoems_01" />
+    <TextStringDefinition InstanceID="0xB0849C1D" TextString="bookDisplayThinGENPoems_01" />
+    <TextStringDefinition InstanceID="0xC08CC686" TextString="bookDisplayThinGENHomework_01" />
+    <TextStringDefinition InstanceID="0x3A50B7DF" TextString="bookDisplayThinGENHomework_01" />
+    <TextStringDefinition InstanceID="0x02B9BC3A" TextString="bookDisplayThinGENChild_01" />
+    <TextStringDefinition InstanceID="0x9C79C65B" TextString="bookDisplayThinGENChild_01" />
+    <TextStringDefinition InstanceID="0x304850BC" TextString="bookDisplayGENsciFi_01" />
+    <TextStringDefinition InstanceID="0xBB956E91" TextString="bookDisplayRWcareerSelfHelp_01" />
+    <TextStringDefinition InstanceID="0xBF1820EE" TextString="bookDisplayRWcareerSelfHelp_01" />
+    <TextStringDefinition InstanceID="0x52B1F45A" TextString="bookDisplayRWcareerScience_01" />
+    <TextStringDefinition InstanceID="0x1EB3C6FB" TextString="bookDisplayRWcareerScience_01" />
+    <TextStringDefinition InstanceID="0xD8913495" TextString="bookDisplayPicture_GENmoon Placeholder Name" />
+    <TextStringDefinition InstanceID="0xB6A5DE8A" TextString="bookDisplayPicture_GENmoon Placeholder Description" />
+    <TextStringDefinition InstanceID="0xF5EA1210" TextString="Lái Xe Đến Sao Hỏa" />
+    <TextStringDefinition InstanceID="0x0DA90F75" TextString="Mặc đồ bảo hộ không gian nhé, tiểu thuyết thám hiểm mặt trăng thô ráp, và nhảy lên chiếc thuyền không gian vì cả gia đình đang đi đến Sao Hỏa! Trong cuốn sách tranh đáng yêu về hệ mặt trời của chúng ta, cùng tham gia với Mary, Pete và Squeazy Tom khi họ khám phá Dải Ngân Hà, và xa hơn, bắt đầu từ Sao Hỏa trong tập đầu tiên này." />
+    <TextStringDefinition InstanceID="0x5EC24AEE" TextString="Chuyện Đồ Chơi" />
+    <TextStringDefinition InstanceID="0xC576FD17" TextString="Hãy tưởng tượng một thế giới mà hộp cát không chỉ chứa đầy đồ chơi lạnh lẽo, vô tri, mà còn sống động với những chiếc đồ chơi biết nói và biểu cảm! Tất cả đều có trong Toy Tales, một câu chuyện ấm áp về cách những đồ chơi của một cô gái nhỏ dạy cô ấy đạt được ước mơ." />
+    <TextStringDefinition InstanceID="0xAF46C532" TextString="MaxisMan Cứu Thành Phố" />
+    <TextStringDefinition InstanceID="0xD0A30063" TextString="Nhìn xuống tầng khí thấp! Bạn thấy gì? Có phải một chuyến tàu hỏa lao xuống khỏi đường ray? Hay một con gấu phàm ăn tìm mật ong thủ công? Không, đó là MaxisMan và anh ấy ở đây để cứu ngày!" />
+    <TextStringDefinition InstanceID="0x130EFEC4" TextString="Như Bạn Trong Khoảnh Khắc" />
+    <TextStringDefinition InstanceID="0x9D8575F1" TextString="Trong một thế giới nơi chúng ta đều là những bông tuyết độc nhất, tốt lành là nhắc nhở trẻ mới biết đi rằng đôi khi họ có nhiều điểm chung với người khác hơn là sự khác biệt. Trước khi mái tóc đẹp mọc, và cơ bắp hình thành, những đứa trẻ mềm mại, bông bỗng đều là những điểm tương đồng trọc đầu. Hãy đón nhận, ít nhất là bây giờ." />
+    <TextStringDefinition InstanceID="0xCCCCDB33" TextString="Hình Vuông và Bạn" />
+    <TextStringDefinition InstanceID="0xEAFA125C" TextString="Trước khi các thiếu nhi sẵn sàng cho đường cong, đường thẳng, hoặc ít hơn bốn cạnh, chúng ta có Hình Vuông…và bạn! Hình Vuông và Bạn là tựa giáo dục địa danh đoạt giải thưởng đã hạ gục Hình Học trong Bụng Mẹ khỏi ngai vàng được ca ngợi và bảo Rhombus Rompus đi chơi!" />
+    <TextStringDefinition InstanceID="0x99ABF2FD" TextString="Mùa Đông Là Khi Nào?" />

@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x4C062CF3" TextString="Nhấp vào Máy tính, chọn Hài kịch, và chọn bất kỳ Routine nào." />
+    <TextStringDefinition InstanceID="0x4C5B8022" TextString="Soạn một Routine Hài kịch" />
+    <TextStringDefinition InstanceID="0x549F2F9A" TextString="Khen ngợi {2.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xAB6152DA" TextString="Nhấp vào một Sim và chọn Khen Ngoại hình từ danh mục Lãng mạn." />
+    <TextStringDefinition InstanceID="0xC0F8CD59" TextString="Khen ngợi Ai đó" />
+    <TextStringDefinition InstanceID="0xB37EA4EF" TextString="Nhấp vào một Sim và chọn Khen Trang phục trong danh mục Thân thiện. Sim có thể mở khóa tương tác xã hội này bằng cách tăng Kỹ năng Sức hút." />
+    <TextStringDefinition InstanceID="0x46FCAE0E" TextString="Khen ngợi Ai đó" />
+    <TextStringDefinition InstanceID="0x953B61EA" TextString="Từ một ý tưởng đơn lẻ đến kiệt tác. Hãy để sự sáng tạo của bạn trôi chảy!\n\nĐi đến bảng Hoài bão để Chọn Hoài bão Mới. Chọn bất kỳ hoài bão nào trong mảng Sáng tạo." />
+    <TextStringDefinition InstanceID="0x9C443C12" TextString="Hoàn thành bất kỳ Hoài bão Sáng tạo nào" />
+    <TextStringDefinition InstanceID="0xFCA4B10A" TextString="Nhấp vào Máy tính và chọn Bắt đầu Công việc Phụ trong danh mục Chương trình. Sim có thể mở khóa tương tác này bằng cách tăng Kỹ năng Lập trình." />
+    <TextStringDefinition InstanceID="0xEAD7AC89" TextString="Hoàn thành một Công việc Phụ trên Máy tính" />
+    <TextStringDefinition InstanceID="0x3A39FC07" TextString="Nhấp vào một Sim và chọn Phàn nàn về Vấn đề từ danh mục Thân thiện. Sim có thể thực hiện Tương tác xã hội này khi đang Bối rối, Buồn bã, hoặc Căng thẳng." />
+    <TextStringDefinition InstanceID="0xBD10AA16" TextString="Phàn nàn về Vấn đề" />
+    <TextStringDefinition InstanceID="0x14D755DC" TextString="Nhấp vào một Sim và chọn Phàn nàn về Đời tình từ danh mục Thân thiện." />
+    <TextStringDefinition InstanceID="0x5EFEF33C" TextString="Phàn nàn về Đời tình" />
+    <TextStringDefinition InstanceID="0x89FDC146" TextString="Nhấp vào người yêu của {1.SimFirstName} và chọn Chia tay." />
+    <TextStringDefinition InstanceID="0x7786B3DC" TextString="Bưu thiếp có thể được thu thập bằng cách chọn Tìm một Bạn thư trên Máy tính." />
+    <TextStringDefinition InstanceID="0x5BA05044" TextString="Thu thập một Viên đá mới" />
+    <TextStringDefinition InstanceID="0xBABB38D7" TextString="Đá vũ trụ có thể được tìm thấy bằng cách sử dụng Tàu vũ trụ!" />
+    <TextStringDefinition InstanceID="0xF19CD2E6" TextString="Thu thập một Đá vũ trụ mới" />
+    <TextStringDefinition InstanceID="0x467C2D6B" TextString="Bản in vũ trụ có thể được khám phá bằng cách sử dụng Đài quan sát." />
+    <TextStringDefinition InstanceID="0x1D5AA14A" TextString="Thu thập một Bản in vũ trụ mới" />
+    <TextStringDefinition InstanceID="0x4A60C967" TextString="Thu thập một Bưu thiếp mới" />
+    <TextStringDefinition InstanceID="0x7ADAF5A5" TextString="Bản in kính hiển vi có thể được khám phá bằng cách lấy mẫu của các Đồ sưu tập khác và phân tích chúng bằng Kính hiển vi." />
+    <TextStringDefinition InstanceID="0xA0F0E6C4" TextString="Thu thập một Bản in kính hiển vi mới" />
+    <TextStringDefinition InstanceID="0x7CA7E09F" TextString="Kim loại có thể được tìm thấy bằng cách chọn Đào trên những tảng đá đặc biệt." />
+    <TextStringDefinition InstanceID="0xFC363BBE" TextString="Thu thập một Kim loại mới" />
+    <TextStringDefinition InstanceID="0x3D4DF516" TextString="Ếch có thể được tìm thấy bằng cách chọn Tìm Ếch trên những khúc gỗ và bơm đặc biệt." />
+    <TextStringDefinition InstanceID="0x8656FA75" TextString="Thu thập một Con ếch mới" />
+    <TextStringDefinition InstanceID="0x1BABB38C" TextString="Hóa thạch có thể được tìm thấy bằng cách chọn Đào trên những tảng đá đặc biệt." />
+    <TextStringDefinition InstanceID="0xC6307EDB" TextString="Thu thập một Hóa thạch mới" />
+    <TextStringDefinition InstanceID="0x0175BC60" TextString="Viên đá có thể được tìm thấy bằng cách chọn Đào trên những tảng đá đặc biệt." />
+    <TextStringDefinition InstanceID="0x6EE7FF0F" TextString="Tìm một Đồ sưu tập mới ở đâu đó trong Khu phố. Đồ sưu tập có thể được tìm thấy bằng cách nhìn dưới các khúc gỗ, đào dưới đá, và sử dụng Đài quan sát." />
+    <TextStringDefinition InstanceID="0xDAA040EE" TextString="Tìm một Đồ sưu tập" />
+    <TextStringDefinition InstanceID="0xCE80095A" TextString="Nhấp vào một vật thể bẩn và chọn Làm sạch." />
+    <TextStringDefinition InstanceID="0x161D9A62" TextString="Nhấp vào một Sim và chọn Kể Chuyện Tưởng tượng trong danh mục Thân thiện. Sim Trẻ em có thể mở khóa tương tác xã hội này bằng cách tăng Kỹ năng Sáng tạo." />
+    <TextStringDefinition InstanceID="0xB1ADF571" TextString="Kể một Chuyện Tưởng tượng" />
+    <TextStringDefinition InstanceID="0xC33FCCA6" TextString="Trò chuyện với Gấu Bông Khổng lồ" />
+    <TextStringDefinition InstanceID="0xC675025B" TextString="Nhấp vào Gấu Bông Khổng lồ và chọn Trò chuyện." />
+    <TextStringDefinition InstanceID="0xD81116CE" TextString="Nhấp vào một Giường có Quái vật bên dưới và chọn Trò chuyện với Quái vật Dưới Giường." />
+    <TextStringDefinition InstanceID="0x7AF9A48E" TextString="Trò chuyện với Quái vật Dưới Giường" />
+    <TextStringDefinition InstanceID="0xFF5166B1" TextString="Để tăng Kỹ năng Xã hội của {1.SimFirstName}, hãy để {M1.him}{F1.her} trò chuyện với các Sim khác hoặc Đồ chơi." />
+    <TextStringDefinition InstanceID="0xBDABF970" TextString="Lên cấp trong Kỹ năng Xã hội" />
+    <TextStringDefinition InstanceID="0x32ED4769" TextString="Để tăng Kỹ năng Vận động của {1.SimFirstName}, hãy để {M1.him}{F1.her} Luyện gõ trên Máy tính hoặc Chơi trên Cầu khỉ." />
+    <TextStringDefinition InstanceID="0x445E4358" TextString="Lên cấp trong Kỹ năng Vận động" />
+    <TextStringDefinition InstanceID="0xC9AE3117" TextString="Để tăng Kỹ năng Trí óc của {1.SimFirstName}, hãy để {M1.him}{F1.her} Chơi Cờ vua hoặc thực hiện các nhiệm vụ trí tuệ khác." />
+    <TextStringDefinition InstanceID="0x8CEC4626" TextString="Lên cấp trong Kỹ năng Trí óc" />
+    <TextStringDefinition InstanceID="0xD8862B86" TextString="Để tăng Kỹ năng Sáng tạo của {1.SimFirstName}, hãy để {M1.him}{F1.her} Chơi với Đồ chơi hoặc tạo ra thứ gì đó bằng Bảng Hoạt động." />
+    <TextStringDefinition InstanceID="0xD3ED50E5" TextString="Lên cấp trong Kỹ năng Sáng tạo" />
+    <TextStringDefinition InstanceID="0x7E861F86" TextString="Thảo luận về Phân số" />

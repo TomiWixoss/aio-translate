@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xE1164D47" TextString="Câu hỏi cho Kẻ Cắp" />
+    <TextStringDefinition InstanceID="0x94163A7A" TextString="Một Dinh Dưỡng Tốt: 101 Công Thức Đầy Dinh Dưỡng" />
+    <TextStringDefinition InstanceID="0x0A71209B" TextString="Đây là sách kỹ năng Nấu ăn." />
+    <TextStringDefinition InstanceID="0x37CA2E04" TextString="Trứng Tráng Dễ Dàng: Bữa Sáng Không Cần Vất Vả" />
+    <TextStringDefinition InstanceID="0xAE4593E8" TextString="Lấy Bánh - Và Ăn Nó, Cũng Thế" />
+    <TextStringDefinition InstanceID="0x0A938925" TextString="...Và Một Điều Nữa!" />
+    <TextStringDefinition InstanceID="0x8AFE0969" TextString="Những Trò Đùa từ Punderground" />
+    <TextStringDefinition InstanceID="0x7B8AAB36" TextString="Đây là một Tiểu Phẩm Hài." />
+    <TextStringDefinition InstanceID="0x06DEB023" TextString="Một Câu Chơi Chữ Mỗi Ngày Giữ Bác Sĩ Xa" />
+    <TextStringDefinition InstanceID="0x74768F17" TextString="Lém Lỉnh Thiếu Trí Tuệ" />
+    <TextStringDefinition InstanceID="0x3684392F" TextString="Những Trò Đùa Hàng Ngày cho Người Cười Khiếm&#xD;&#xA;" />
+    <TextStringDefinition InstanceID="0x526B80E0" TextString="Đây là sách kỹ năng Hài Hước." />
+    <TextStringDefinition InstanceID="0x4D734473" TextString="Làm Chủ Nghệ Thuật Thu Hút Cá Nhân" />
+    <TextStringDefinition InstanceID="0x3E019534" TextString="Làm Thế Nào Để Trở Thành Lãnh Đạo trong 12 Bước Dễ Dàng" />
+    <TextStringDefinition InstanceID="0xBADE3F0E" TextString="Những Lời Nói Có Sức Mạnh" />
+    <TextStringDefinition InstanceID="0x008265B7" TextString="Đây là sách kỹ năng Sức Hút." />
+    <TextStringDefinition InstanceID="0x1D53BC56" TextString="Thả Thính Vui Vẻ và Kiếm Lời" />
+    <TextStringDefinition InstanceID="0x716AB872" TextString="Những Pha Trộn Tò Mò" />
+    <TextStringDefinition InstanceID="0x247A3E78" TextString="Không Gì Tốt Hơn Nectar" />
+    <TextStringDefinition InstanceID="0x2740D0C4" TextString="Làm Chủ Thuốc" />
+    <TextStringDefinition InstanceID="0x0BD65BF1" TextString="Đây là sách kỹ năng Pha Chế." />
+    <TextStringDefinition InstanceID="0x8F3D97DF" TextString="{0.ObjectDescription}" />
+    <TextStringDefinition InstanceID="0xBC11F07F" TextString="{1.String}\n{0.ObjectDescription}" />
+    <TextStringDefinition InstanceID="0xEA4F04C3" TextString="Có thể Ấp: Không" />
+    <TextStringDefinition InstanceID="0x615ED0E4" TextString="Có thể Ấp: Có" />
+    <TextStringDefinition InstanceID="0x948787B0" TextString="Quá Nhiều Gà trong Chuồng Để Ấp!" />
+    <TextStringDefinition InstanceID="0xCCD8A2B2" TextString="&lt;span class=&quot;money&quot;&gt;&lt;/span&gt;\n&lt;b&gt;Dùng cho:&lt;/b&gt; Pha Chế Huyền Bí" />
+    <TextStringDefinition InstanceID="0x4E3F2ABE" TextString="&lt;span class=&quot;money&quot;&gt;&lt;/span&gt;\n&lt;b&gt;Dùng cho:&lt;/b&gt; Thực Phẩm" />
+    <TextStringDefinition InstanceID="0x5B470457" TextString="&lt;span class=&quot;money&quot;&gt;&lt;/span&gt;\n&lt;b&gt;Dùng cho:&lt;/b&gt; Thực Phẩm" />
+    <TextStringDefinition InstanceID="0xEDE4F523" TextString="&lt;span class=&quot;money&quot;&gt;&lt;/span&gt;\n&lt;b&gt;Dùng cho:&lt;/b&gt; Thực Phẩm" />
+    <TextStringDefinition InstanceID="0x13549D92" TextString="&lt;span class=&quot;money&quot;&gt;&lt;/span&gt;\n&lt;b&gt;Dùng cho:&lt;/b&gt; Thực Phẩm&lt;/span&gt;" />
+    <TextStringDefinition InstanceID="0x74AF67B7" TextString="&lt;span class=&quot;money&quot;&gt;&lt;/span&gt;\n&lt;b&gt;Dùng cho:&lt;/b&gt; Thực Phẩm" />
+    <TextStringDefinition InstanceID="0xD50F449A" TextString="&lt;span class=&quot;money&quot;&gt;&lt;/span&gt;\n&lt;b&gt;Dùng cho:&lt;/b&gt; Bón Phân, Simoleon" />
+    <TextStringDefinition InstanceID="0x0A113DF0" TextString="&lt;span class=&quot;money&quot;&gt;&lt;/span&gt;\n&lt;b&gt;Dùng cho:&lt;/b&gt; Ăn và Trở Thực Vật" />
+    <TextStringDefinition InstanceID="0x71C5FEB2" TextString="&lt;span class=&quot;money&quot;&gt;&lt;/span&gt;\n&lt;b&gt;Dùng cho:&lt;/b&gt; Sữa, Bánh" />
+    <TextStringDefinition InstanceID="0x01DD19B6" TextString="&lt;span class=&quot;money&quot;&gt;&lt;/span&gt;\n&lt;b&gt;Dùng cho:&lt;/b&gt; Simoleon" />
+    <TextStringDefinition InstanceID="0xF598EDC4" TextString="&lt;span class=&quot;money&quot;&gt;&lt;/span&gt;\n&lt;b&gt;Dùng cho:&lt;/b&gt; Thực Phẩm\nGhép với Húng Quế để được Rau Mùi Tây" />
+    <TextStringDefinition InstanceID="0x5C6D4C64" TextString="&lt;span class=&quot;money&quot;&gt;&lt;/span&gt;\n&lt;b&gt;Dùng cho:&lt;/b&gt; Thực Phẩm" />
+    <TextStringDefinition InstanceID="0x98F135A9" TextString="&lt;span class=&quot;money&quot;&gt;&lt;/span&gt;\n&lt;b&gt;Dùng cho:&lt;/b&gt; Thực Phẩm\nGhép với Xô Thơm để được Rau Mùi Tây&lt;/span&gt;" />
+    <TextStringDefinition InstanceID="0xAD299B1B" TextString="&lt;span class=&quot;money&quot;&gt;&lt;/span&gt;\n&lt;b&gt;Dùng cho:&lt;/b&gt; Rác" />
+    <TextStringDefinition InstanceID="0xC3F950E3" TextString="&lt;span class=&quot;money&quot;&gt;&lt;/span&gt;\n&lt;b&gt;Dùng cho:&lt;/b&gt; Simoleon, Thực Phẩm" />
+    <TextStringDefinition InstanceID="0x901A4787" TextString="&lt;span class=&quot;money&quot;&gt;&lt;/span&gt;\n&lt;b&gt;Dùng cho:&lt;/b&gt; Simoleon\nGhép với Lan để được Hoa Chết" />
+    <TextStringDefinition InstanceID="0x84D536C2" TextString="&lt;span class=&quot;money&quot;&gt;&lt;/span&gt;\n&lt;b&gt;Dùng cho:&lt;/b&gt; Simoleon, Thực Phẩm" />
+    <TextStringDefinition InstanceID="0x8DB10309" TextString="&lt;span class=&quot;money&quot;&gt;&lt;/span&gt;\n&lt;b&gt;Dùng cho:&lt;/b&gt; Simoleon, Thực Phẩm\nGhép với Chanh để được Chuối" />
+    <TextStringDefinition InstanceID="0x753E40F2" TextString="&lt;span class=&quot;money&quot;&gt;&lt;/span&gt;\n&lt;b&gt;Dùng cho:&lt;/b&gt; Thực Phẩm, Ghép cây\nGhép với Lê để được Chuối" />
+    <TextStringDefinition InstanceID="0xD9BB7CF1" TextString="&lt;span class=&quot;money&quot;&gt;&lt;/span&gt;\n&lt;b&gt;Dùng cho:&lt;/b&gt; Simoleon\nGhép với Hồng để được Mầm Cây Bonsai" />
+    <TextStringDefinition InstanceID="0x7A9760D2" TextString="&lt;span class=&quot;money&quot;&gt;&lt;/span&gt;\n&lt;b&gt;Dùng cho:&lt;/b&gt; Simoleon\nGhép với Hoa Đồng Tiền để được Mầm Bò" />
+    <TextStringDefinition InstanceID="0x9F376E8C" TextString="&lt;span class=&quot;money&quot;&gt;&lt;/span&gt;\n&lt;b&gt;Dùng cho:&lt;/b&gt; Simoleon\nGhép với Táo để được Lựu" />
+    <TextStringDefinition InstanceID="0x2BEEFD2C" TextString="&lt;span class=&quot;money&quot;&gt;&lt;/span&gt;\n&lt;b&gt;Dùng cho:&lt;/b&gt; Simoleon, Thực Phẩm" />
+    <TextStringDefinition InstanceID="0xEF01E4B1" TextString="&lt;span class=&quot;money&quot;&gt;&lt;/span&gt;\n&lt;b&gt;Dùng cho:&lt;/b&gt; Thực Phẩm, Ghép cây\nGhép với Cherry để được Lựu" />

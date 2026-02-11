@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x7DF3130D" TextString="&lt;span class=&quot;negativeFunds&quot;&gt;-  {0.Money}&lt;/span&gt;" />
+    <TextStringDefinition InstanceID="0x11123124" TextString="Chuyển tiền vào doanh nghiệp của bạn." />
+    <TextStringDefinition InstanceID="0x6345DBA9" TextString="Chuyển tiền doanh nghiệp" />
+    <TextStringDefinition InstanceID="0xF12B4701" TextString="Đảo ngược hướng chuyển." />
+    <TextStringDefinition InstanceID="0x3DA6B08A" TextString="Chọn một tài khoản" />
+    <TextStringDefinition InstanceID="0x66977D5A" TextString="Đến:" />
+    <TextStringDefinition InstanceID="0x2682E845" TextString="Từ:" />
+    <TextStringDefinition InstanceID="0xD6CF5A50" TextString="Bạn không thể chuyển từ tài khoản này vì nó có số dư âm." />
+    <TextStringDefinition InstanceID="0x14870D2C" TextString="Chọn tài khoản và nhập số tiền hợp lệ để chuyển." />
+    <TextStringDefinition InstanceID="0xBBF39813" TextString="Xác nhận chuyển" />
+    <TextStringDefinition InstanceID="0x51311B61" TextString="Nhập số tiền cần chuyển:" />
+    <TextStringDefinition InstanceID="0x6186CF2E" TextString="Sự hài lòng của nhân viên thể hiện mức độ hài lòng của nhân viên với công việc của họ. Thăng chức và đối xử tốt với họ sẽ tăng sự hài lòng!" />
+    <TextStringDefinition InstanceID="0x7DA8F8E6" TextString="Thăng chức {0.SimName} lên Cấp {1.Number}" />
+    <TextStringDefinition InstanceID="0xF5684A0E" TextString="Nhấp vào một Sim có sẵn từ phần bên dưới để thuê họ." />
+    <TextStringDefinition InstanceID="0xE4A06304" TextString="Mua perk Ô nhân viên bổ sung từ Business Perks để mở khóa thêm nhân viên để thuê." />
+    <TextStringDefinition InstanceID="0x0CAB5786" TextString="Sa thải {0.SimName}" />
+    <TextStringDefinition InstanceID="0xB2479BDA" TextString="Hạ chức {0.SimName} xuống Cấp {1.Number}" />
+    <TextStringDefinition InstanceID="0x27AAB51C" TextString="{0.SimFirstName} đã được thăng chức đến vị trí cao nhất có thể." />
+    <TextStringDefinition InstanceID="0xF1367556" TextString="Bạn đã đạt số lượng nhân viên tối đa. Sa thải nhân viên hiện tại hoặc mở khóa thêm ô nhân viên từ Retail Perks trước khi thuê người mới." />
+    <TextStringDefinition InstanceID="0x19F4CE9C" TextString="{0.SimFirstName} không thể bị hạ chức thêm nữa. Bạn có thể cân nhắc sa thải {M0.him}{F0.her}!" />
+    <TextStringDefinition InstanceID="0x9A05BB9D" TextString="Quản lý nhân viên" />
+    <TextStringDefinition InstanceID="0x7E951A93" TextString="Bạn có muốn thuê {0.SimName}?" />
+    <TextStringDefinition InstanceID="0xD0FC274D" TextString="Bạn có muốn sa thải {0.SimName}?" />
+    <TextStringDefinition InstanceID="0x0FEBA079" TextString="Quảng cáo sẽ mang thêm khách hàng đến nhà hàng của bạn. Hãy cẩn thận, nó có thể tốn kém nên hãy đảm bảo số tiền bỏ ra xứng đáng!" />
+    <TextStringDefinition InstanceID="0x1E01C660" TextString="Nhân viên phục vụ" />
+    <TextStringDefinition InstanceID="0x99F32473" TextString="Đưa ra các quyết định quản lý cấp cao về nhà hàng của bạn tại đây. Các cài đặt này sẽ có tác động lớn đến số tiền nhà hàng kiếm được và đánh giá của nó!" />
+    <TextStringDefinition InstanceID="0xEE50C3C9" TextString="Cài đặt quản lý" />
+    <TextStringDefinition InstanceID="0x9068D35F" TextString="Thực đơn của bạn sẽ ảnh hưởng đến lợi nhuận và đánh giá nhà hàng. Hãy chọn thực đơn cẩn thận với kỹ năng Đầu bếp trong tâm trí." />
+    <TextStringDefinition InstanceID="0x6FE4384D" TextString="Cài đặt thực đơn" />
+    <TextStringDefinition InstanceID="0x996D61AD" TextString="Chỉnh sửa thực đơn nhà hàng" />
+    <TextStringDefinition InstanceID="0xC8F129DC" TextString="Xác định lợi nhuận trên mỗi bữa ăn.\n\nPhần trăm lợi nhuận cao cần được kết hợp với các bữa ăn chất lượng cao hoặc khách hàng sẽ đánh giá nhà hàng thấp về giá trị." />
+    <TextStringDefinition InstanceID="0xD7ABC82B" TextString="Phần trăm lợi nhuận:" />
+    <TextStringDefinition InstanceID="0xDDFF4CA3" TextString="Ảnh hưởng đến chất lượng và chi phí bữa ăn. Tiết kiệm chi phí với nguyên liệu chất lượng thấp hoặc nhắm mục tiêu ấn tượng với chất lượng cao.\n\nMua perk 'Tùy chọn chất lượng nguyên liệu' để mở khóa." />
+    <TextStringDefinition InstanceID="0x16CEDEA8" TextString="Chất lượng nguyên liệu:" />
+    <TextStringDefinition InstanceID="0xE6254EE1" TextString="Tiếp tân" />
+    <TextStringDefinition InstanceID="0xC02D1AB8" TextString="Thay đổi trang phục nhân viên của bạn." />
+    <TextStringDefinition InstanceID="0xF6F76008" TextString="Cài đặt nhân viên" />
+    <TextStringDefinition InstanceID="0x119E4014" TextString="Điều này quy định khách hàng của bạn mặc gì đến nhà hàng." />
+    <TextStringDefinition InstanceID="0xC256463C" TextString="Quy định trang phục khách hàng" />
+    <TextStringDefinition InstanceID="0x0075F653" TextString="Đầu bếp" />
+    <TextStringDefinition InstanceID="0x9A95F9F7" TextString="Quảng cáo:" />
+    <TextStringDefinition InstanceID="0x6EB97D96" TextString="Hợp đồng thuê" />
+    <TextStringDefinition InstanceID="0xC4E07CD7" TextString="{0.SimFirstName} là {1.String}." />
+    <TextStringDefinition InstanceID="0xC475AD94" TextString="Tình cảm là cách một Sim cảm nhận về một Sim khác dựa trên trải nghiệm gần đây. Tình cảm có thể ảnh hưởng đến Tâm trạng và hành vi của một Sim khi Sim khác ở gần! Một Sim có thể có tối đa bốn Tình cảm về một Sim khác cùng một lúc." />
+    <TextStringDefinition InstanceID="0xEDFC748B" TextString="Tình cảm về {0.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xDCED4228" TextString="Tình cảm" />
+    <TextStringDefinition InstanceID="0x4574E35E" TextString="Hiện không có tình cảm nào. Hãy dành thời gian bên nhau và xem điều gì xảy ra!" />
+    <TextStringDefinition InstanceID="0xA57D903F" TextString="Trạng thái mối quan hệ hiện tại: \n {0.String}" />
+    <TextStringDefinition InstanceID="0x65A3288C" TextString="&lt;font color=&quot;#8080FF&quot;&gt;{0.String}&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x6939035C" TextString="{0.SimFirstName} và {1.SimFirstName} chưa biết nhau." />

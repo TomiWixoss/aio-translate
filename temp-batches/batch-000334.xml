@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x102DE82A" TextString="Phải dựa vào tường và sàn." />
+    <TextStringDefinition InstanceID="0x89CC355D" TextString="Phải dựa vào trần hoặc tường." />
+    <TextStringDefinition InstanceID="0xF1A0EFC5" TextString="Phải dựa vào trần hoặc ở góc." />
+    <TextStringDefinition InstanceID="0xBB1CCAEA" TextString="Phải được đặt trong một phòng." />
+    <TextStringDefinition InstanceID="0xF0FDA0F2" TextString="Phải ở bên trong." />
+    <TextStringDefinition InstanceID="0x88D5AD17" TextString="Phải được hỗ trợ hoàn toàn bởi tường." />
+    <TextStringDefinition InstanceID="0x5AA71980" TextString="Bản đồ độ sâu nước" />
+    <TextStringDefinition InstanceID="0xFEC79F20" TextString="Điều chỉnh tốc độ nước được nâng lên hoặc hạ xuống." />
+    <TextStringDefinition InstanceID="0xBE6BBEFE" TextString="Công cụ Nước" />
+    <TextStringDefinition InstanceID="0x9148CC26" TextString="Điều chỉnh công cụ Đổ đến Chiều cao về một chiều cao cố định." />
+    <TextStringDefinition InstanceID="0x635C9A40" TextString="Công cụ Nâng hoặc Hạ Nước phải được chọn." />
+    <TextStringDefinition InstanceID="0xA6A0AE46" TextString="Công cụ Đổ đến Chiều cao Nước phải được chọn." />
+    <TextStringDefinition InstanceID="0x0C3A6D83" TextString="Điều chỉnh Độ mềm" />
+    <TextStringDefinition InstanceID="0x78242CEE" TextString="Công cụ Sơn" />
+    <TextStringDefinition InstanceID="0xB39284E7" TextString="Đá và Lát đường" />
+    <TextStringDefinition InstanceID="0xC915008E" TextString="Cỏ và Hoa" />
+    <TextStringDefinition InstanceID="0x09F7D4C3" TextString="Bụi bặm và Cát" />
+    <TextStringDefinition InstanceID="0x19407146" TextString="Công cụ Tẩy" />
+    <TextStringDefinition InstanceID="0x862ABA44" TextString="Điều chỉnh Kích thước Cọ Vuông" />
+    <TextStringDefinition InstanceID="0x47902041" TextString="Cọ Vuông Cực Lớn" />
+    <TextStringDefinition InstanceID="0x47902046" TextString="Cọ Vuông Lớn" />
+    <TextStringDefinition InstanceID="0x47902047" TextString="Cọ Vuông Vừa" />
+    <TextStringDefinition InstanceID="0x47902044" TextString="Cọ Vuông Nhỏ" />
+    <TextStringDefinition InstanceID="0x47902045" TextString="Cọ Vuông Cực Nhỏ" />
+    <TextStringDefinition InstanceID="0x34578295" TextString="Điều chỉnh Kích thước Cọ Tròn" />
+    <TextStringDefinition InstanceID="0x78BF2A7A" TextString="Cọ Tròn Cực Lớn" />
+    <TextStringDefinition InstanceID="0x78BF2A7D" TextString="Cọ Tròn Lớn" />
+    <TextStringDefinition InstanceID="0x78BF2A7C" TextString="Cọ Tròn Vừa" />
+    <TextStringDefinition InstanceID="0x78BF2A7F" TextString="Cọ Tròn Nhỏ" />
+    <TextStringDefinition InstanceID="0x78BF2A7E" TextString="Cọ Tròn Cực Nhỏ" />
+    <TextStringDefinition InstanceID="0x7FF0484C" TextString="Điều chỉnh Tốc độ" />
+    <TextStringDefinition InstanceID="0x641BAEB6" TextString="Thao tác Địa hình" />
+    <TextStringDefinition InstanceID="0xA8D70142" TextString="Thanh trượt Làm phẳng đến Chiều cao" />
+    <TextStringDefinition InstanceID="0xC4627582" TextString="Công cụ Làm phẳng đến Chiều cao phải được chọn" />
+    <TextStringDefinition InstanceID="0x118B6F8F" TextString="Không tay" />
+    <TextStringDefinition InstanceID="0x15D26AD7" TextString="Đơn" />
+    <TextStringDefinition InstanceID="0x9E0FD117" TextString="Góc ngoài" />
+    <TextStringDefinition InstanceID="0x59E62CBF" TextString="Mặt nghiêng Lớn" />
+    <TextStringDefinition InstanceID="0x4F891536" TextString="Mặt nghiêng" />
+    <TextStringDefinition InstanceID="0xDD085F3A" TextString="Phẳng" />
+    <TextStringDefinition InstanceID="0xA9C798D7" TextString="Tay vịn Trái" />
+    <TextStringDefinition InstanceID="0x601B1885" TextString="Tay vịn Phải" />
+    <TextStringDefinition InstanceID="0x2F63B178" TextString="Ghế dài Không tay" />
+    <TextStringDefinition InstanceID="0xA2F89398" TextString="Ghế dài Có tay" />
+    <TextStringDefinition InstanceID="0x2D0C9066" TextString="Ghế dài Tay trái" />
+    <TextStringDefinition InstanceID="0x21A0A0E8" TextString="Ghế dài Tay phải" />
+    <TextStringDefinition InstanceID="0xDE662391" TextString="Gạch" />
+    <TextStringDefinition InstanceID="0x841F36CA" TextString="Góc ngoài Được làm tròn" />
+    <TextStringDefinition InstanceID="0x8E47554B" TextString="Góc trong Được làm tròn" />
+    <TextStringDefinition InstanceID="0x8FA658BE" TextString="Mảnh đầu bên phải" />

@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xC01DF7E7" TextString="Con riêng" />
+    <TextStringDefinition InstanceID="0xDDC5ABF0" TextString="Anh/chị/em của cha/mẹ" />
+    <TextStringDefinition InstanceID="0x044B652D" TextString="Anh/chị/em" />
+    <TextStringDefinition InstanceID="0x9EEE60C6" TextString="Anh/chị/em của vợ/chồng" />
+    <TextStringDefinition InstanceID="0xAD6EA19E" TextString="Họ hàng nhà vợ/chồng" />
+    <TextStringDefinition InstanceID="0x221074F5" TextString="Cha/mẹ" />
+    <TextStringDefinition InstanceID="0x1FDE164E" TextString="Cha mẹ vợ/chồng" />
+    <TextStringDefinition InstanceID="0x4C8DDCC2" TextString="Cháu" />
+    <TextStringDefinition InstanceID="0xD22F0E97" TextString="Vợ/chồng" />
+    <TextStringDefinition InstanceID="0xCF2A5192" TextString="Anh/chị/em cùng cha/mẹ" />
+    <TextStringDefinition InstanceID="0xAC92EA78" TextString="Cụ ông/Cụ bà" />
+    <TextStringDefinition InstanceID="0x9CF5779A" TextString="Chắt" />
+    <TextStringDefinition InstanceID="0xF4414F2C" TextString="Anh/chị/em của ông bà" />
+    <TextStringDefinition InstanceID="0x244F217D" TextString="Ông bà" />
+    <TextStringDefinition InstanceID="0x519AB47A" TextString="Cháu của anh/chị/em" />
+    <TextStringDefinition InstanceID="0xCF2E0CFD" TextString="Cháu" />
+    <TextStringDefinition InstanceID="0x8883F9AF" TextString="Vợ/chồng cũ" />
+    <TextStringDefinition InstanceID="0xCC7EBDD2" TextString="Họ hàng xa" />
+    <TextStringDefinition InstanceID="0xDE8A216F" TextString="Họ hàng xa của vợ/chồng" />
+    <TextStringDefinition InstanceID="0xE12A7252" TextString="Con cháu" />
+    <TextStringDefinition InstanceID="0x219A198C" TextString="Vợ/chồng quá cố" />
+    <TextStringDefinition InstanceID="0xDA496EFC" TextString="Bạn họ" />
+    <TextStringDefinition InstanceID="0x271A5665" TextString="Con" />
+    <TextStringDefinition InstanceID="0x05D00ABE" TextString="Con rể/dâu" />
+    <TextStringDefinition InstanceID="0x41F8F6DC" TextString="Tổ tiên" />
+    <TextStringDefinition InstanceID="0x0BC6F117" TextString="{0.String} {1.String}" />
+    <TextStringDefinition InstanceID="0xB1421736" TextString="Mối quan hệ giả mạo" />
+    <TextStringDefinition InstanceID="0xAE77A7C5" TextString="Mối quan hệ gia đình" />
+    <TextStringDefinition InstanceID="0x35AB7883" TextString="Mối quan hệ dòng dõi" />
+    <TextStringDefinition InstanceID="0xF7C0A807" TextString="Đã ly dị" />
+    <TextStringDefinition InstanceID="0x5256750B" TextString="Bật/tắt chú giải cây gia phả" />
+    <TextStringDefinition InstanceID="0xD695E17E" TextString="Di chuyển cây gia phả" />
+    <TextStringDefinition InstanceID="0x8F86BA65" TextString="Sim trước đó" />
+    <TextStringDefinition InstanceID="0xBA3373E7" TextString="Mở ô thói quen" />
+    <TextStringDefinition InstanceID="0x4F98D595" TextString="Ô thói quen bị khóa " />
+    <TextStringDefinition InstanceID="0x88FF923D" TextString="\nÔ thói quen này bị khóa cho đến khi bạn đạt được Cấp độ Người nổi tiếng cao hơn." />
+    <TextStringDefinition InstanceID="0xDAC1801C" TextString="\nHành vi của một người nổi tiếng quyết định những thói quen nào họ phát triển." />
+    <TextStringDefinition InstanceID="0x76E36BFF" TextString="Khi một Sim tăng Cấp độ Người nổi tiếng, họ càng xa rời cuộc sống bình thường. Ở một số cấp độ nhất định, Sim sẽ nhận được Ô Thói quen mới, có thể được điền với các Thói quen dựa trên hành vi họ tham gia.\n\nMột khi đã có được, các Thói quen có thể bị loại bỏ bằng cách sử dụng Vương miện Tinh thể Thiên đường hoặc uống thuốc thưởng Quirk-B-Gone. Việc loại bỏ một thói quen sẽ mở ô đó, và sau đó có thể được điền bằng một thói quen mới!\n\nCác thói quen hiện tại của Sim có thể được xem dưới mục Thói quen Đã Kiếm được, trong khi tất cả các thói quen có thể có có thể được xem dưới mục Tất Cả Thói quen." />
+    <TextStringDefinition InstanceID="0x55DC54AF" TextString="Thói quen Đã Kiếm được" />
+    <TextStringDefinition InstanceID="0x2F1701E3" TextString="Tất Cả Thói quen" />
+    <TextStringDefinition InstanceID="0x78B8F8EF" TextString="Danh tiếng của Sim này sẽ được đặt lại và họ sẽ không còn nhận được danh tiếng nữa. Cài đặt danh tiếng mặc định cho tất cả Sim có thể được đặt trong Tùy chọn Trò chơi." />
+    <TextStringDefinition InstanceID="0x96FE7404" TextString="Rời khỏi ánh đèn sân khấu" />
+    <TextStringDefinition InstanceID="0x9EF06967" TextString="Các Sim có Đặc quyền Danh tiếng không thể rời khỏi ánh đèn sân khấu. Để loại bỏ Đặc quyền Danh tiếng khỏi một Sim, hãy sử dụng điện thoại hoặc máy tính để Đặt lịch Làm sạch Người nổi tiếng." />
+    <TextStringDefinition InstanceID="0x6CD95E90" TextString="Ở ngoài ánh đèn sân khấu?" />
+    <TextStringDefinition InstanceID="0x2F036A37" TextString="CẢNH BÁO: Hành động này sẽ đặt lại bất kỳ danh tiếng nào mà Sim này kiếm được về zero. Nếu Sim bước trở lại ánh đèn sân khấu sau này, họ sẽ bắt đầu lại từ đó.\n\nMột khi ra khỏi ánh đèn sân khấu, Sim sẽ không nhận được bất kỳ danh tiếng nào hoặc trở thành người nổi tiếng. Nút này sau đó sẽ cho phép họ đảo ngược quyết định này bất cứ lúc nào." />
+    <TextStringDefinition InstanceID="0xB1F57708" TextString="Sim này sẽ có thể kiếm được danh tiếng và trở thành người nổi tiếng. Cài đặt danh tiếng mặc định cho tất cả Sim có thể được đặt trong Tùy chọn Trò chơi." />
+    <TextStringDefinition InstanceID="0xB65E6987" TextString="Bước vào ánh đèn sân khấu" />
+    <TextStringDefinition InstanceID="0x6CBB557F" TextString="Trở nên Nổi tiếng!" />
+    <TextStringDefinition InstanceID="0xE1EA0F66" TextString="Bạn có muốn Sim này có thể trở thành người nổi tiếng không? Họ sẽ phải bắt đầu từ dưới đáy và xây dựng con đường đến sự nổi tiếng." />
+    <TextStringDefinition InstanceID="0x14E8F1EF" TextString="&lt;font color='#EC262E'&gt;• Đặc quyền bắt buộc: {0.String}&lt;/font&gt;" />

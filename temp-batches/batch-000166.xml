@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x9E24C20C" TextString="Hoàn hảo đến từng chi tiết" />
+    <TextStringDefinition InstanceID="0x033718B4" TextString="Làm sạch đầy nhiệt huyết" />
+    <TextStringDefinition InstanceID="0xFB266860" TextString="Sim có năng lượng có thể làm sạch nhanh hơn rất nhiều!" />
+    <TextStringDefinition InstanceID="0xDDADFB88" TextString="Làm sạch mạnh mẽ" />
+    <TextStringDefinition InstanceID="0xE954AD1E" TextString="Phục vụ từ kho đồ" />
+    <TextStringDefinition InstanceID="0x4962526E" TextString="Phục vụ Bánh bao rau củ" />
+    <TextStringDefinition InstanceID="0xE23240AC" TextString="Phục vụ Gà nướng" />
+    <TextStringDefinition InstanceID="0x8A800261" TextString="Phục vụ Bánh cupcake bạc hà moka" />
+    <TextStringDefinition InstanceID="0xCC54E118" TextString="Phục vụ Bánh Challah" />
+    <TextStringDefinition InstanceID="0x8421F075" TextString="Phục vụ Gà bơ" />
+    <TextStringDefinition InstanceID="0xD6AC06CA" TextString="Không có chỗ trống nào trên bàn tiệc để đặt thức ăn" />
+    <TextStringDefinition InstanceID="0x8248095E" TextString="Chọn thức ăn để phục vụ" />
+    <TextStringDefinition InstanceID="0x12E12561" TextString="Phục vụ Đa dạng" />
+    <TextStringDefinition InstanceID="0x93FC6D94" TextString="Xóa Tùy chọn Cho ăn" />
+    <TextStringDefinition InstanceID="0x31330A66" TextString="Thích cho uống bằng bình" />
+    <TextStringDefinition InstanceID="0x6D0641FB" TextString="Tùy chọn này đã được chọn" />
+    <TextStringDefinition InstanceID="0x69748EE2" TextString="Thích nuôi con bằng sữa mẹ" />
+    <TextStringDefinition InstanceID="0x2B563DD7" TextString="Tùy chọn này đã được chọn" />
+    <TextStringDefinition InstanceID="0xD9171422" TextString="Không có người chăm sóc nào có thể nuôi con bằng sữa mẹ" />
+    <TextStringDefinition InstanceID="0x7B62F5A5" TextString="Khóc vì em bé" />
+    <TextStringDefinition InstanceID="0x72AAD6F2" TextString="Sử dụng" />
+    <TextStringDefinition InstanceID="0xE0299626" TextString="Trẻ sơ sinh đã quá lớn cho nôi. Hãy thử dùng cũi thay thế!" />
+    <TextStringDefinition InstanceID="0xEFDC30D0" TextString="Nói chuyện" />
+    <TextStringDefinition InstanceID="0xBC36A686" TextString="Được cho xem Trẻ sơ sinh" />
+    <TextStringDefinition InstanceID="0xE217CF1C" TextString="Ấu ê" />
+    <TextStringDefinition InstanceID="0x1DAEB6CD" TextString="Đưa đưa" />
+    <TextStringDefinition InstanceID="0x8B6A7FFF" TextString="Khoe khoang với" />
+    <TextStringDefinition InstanceID="0x08660886" TextString="Hôn trán {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x88041A0B" TextString="Làm mặt ngốc nghếch" />
+    <TextStringDefinition InstanceID="0x358011EF" TextString="{0.SimFirstName} rất đói! Nếu không được cho ăn sớm, em bé này sẽ bị đưa đi!" />
+    <TextStringDefinition InstanceID="0x9CA8E8B9" TextString="Khoe khoang" />
+    <TextStringDefinition InstanceID="0xA71041A2" TextString="Thuê Dịch vụ Bảo mẫu" />
+    <TextStringDefinition InstanceID="0xEA793D97" TextString="Một người bảo mẫu đã được thuê rồi." />
+    <TextStringDefinition InstanceID="0x2F959D8E" TextString="Ôm em bé" />
+    <TextStringDefinition InstanceID="0xFC9881AE" TextString="Giải trí" />
+    <TextStringDefinition InstanceID="0x14558D47" TextString="Ôm ấp" />
+    <TextStringDefinition InstanceID="0xFDA8019A" TextString="Ủ ẵm" />
+    <TextStringDefinition InstanceID="0x83E7A689" TextString="(DEBUG) Đói em bé" />
+    <TextStringDefinition InstanceID="0x5F5A24D4" TextString="S-Pop" />
+    <TextStringDefinition InstanceID="0x4A10C385" TextString="Bài hát ru" />
+    <TextStringDefinition InstanceID="0xADCE8FD7" TextString="Quả bóng len trang trí" />
+    <TextStringDefinition InstanceID="0x3B6E8758" TextString="Một quả bóng len trang trí, để trang trí đồ đạc! Bạn không thể đan len bằng nó, nhưng có thể ngắm nhìn nó. Tuyệt vời." />
+    <TextStringDefinition InstanceID="0x45C9E835" TextString="xRayMachine_bm" />
+    <TextStringDefinition InstanceID="0x878090AA" TextString="xRayMachine_bm" />
+    <TextStringDefinition InstanceID="0x621A12AA" TextString="Máy tập thể dục đa năng PowerFit" />
+    <TextStringDefinition InstanceID="0x2892A3AB" TextString="Mang phòng gym của bạn về nhà với máy tập thể dục này, giá cả phải chăng nhưng hơi ồn." />
+    <TextStringDefinition InstanceID="0xECE2AB6C" TextString="Máy Rack" />
+    <TextStringDefinition InstanceID="0x131F7609" TextString="Gặp gỡ máy tập tối thượng cho cơ lưng, đùi, mông và bụng của bạn. Được phát minh bởi Tiến sĩ Loomen Paine sau sự nghiệp thẩm vấn, Máy Rack hiệu quả cho cả việc tạo cơ bắp và khiến người ta thú nhận sai lầm." />
+    <TextStringDefinition InstanceID="0x183568E2" TextString="Hệ thống phòng tập thể dục tại nhà BodyCrunch Pro" />
+    <TextStringDefinition InstanceID="0xA47C12B3" TextString="Tạo cơ bụng, mông, đùi, ngực và lưng của bạn với hệ thống phòng tập tại nhà hoàn chỉnh này, có bề mặt chống mồ hôi, thanh và cáp tăng cường và mọi thứ đều có thể điều chỉnh." />

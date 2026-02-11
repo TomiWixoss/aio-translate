@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x1C893DE2" TextString="Rèn Luyện" />
+    <TextStringDefinition InstanceID="0x82DED029" TextString="Đối Mặt với Bạn Mới" />
+    <TextStringDefinition InstanceID="0xEB8CF46E" TextString="Thả Lỏng" />
+    <TextStringDefinition InstanceID="0xAD532A1D" TextString="Nhai Kẹo Cao Su" />
+    <TextStringDefinition InstanceID="0xD9DB749B" TextString="Trốn Tránh" />
+    <TextStringDefinition InstanceID="0xB52E7642" TextString="Tìm Thủ Phạm" />
+    <TextStringDefinition InstanceID="0xD90DFEB0" TextString="Nói Sự Thật" />
+    <TextStringDefinition InstanceID="0xA2D498A8" TextString="Mua Hoa Cho Bản Thân" />
+    <TextStringDefinition InstanceID="0x44F70435" TextString="Yêu Cầu Bạn Trẻ Dừng Lại" />
+    <TextStringDefinition InstanceID="0x824AFC85" TextString="Mua Hoa Cho Mọi Người Trong Lớp" />
+    <TextStringDefinition InstanceID="0xE89737CA" TextString="{0.SimFirstName} nhảy khỏi ghế, hét lên, “Ghê quá! Cái GÌ vậy?” Nhưng có vẻ mọi người đều biết rồi và họ thấy thú vị khi {M0.he}{F0.she} ngồi phải nó. {0.SimFirstName} đi thay đồ thể dục cho phần còn lại của ngày. Thật xấu hổ." />
+    <TextStringDefinition InstanceID="0x4617EDD1" TextString="{0.SimFirstName} cẩn thận đặt giày của {M0.him}{F0.her} lên tấm biển và lấy nó khi không ai nhìn. Bạn mới rất nhẹ nhõm và biết ơn, cậu ta tặng {0.SimPronounObjective} bánh quy sữa của mình để cảm ơn." />
+    <TextStringDefinition InstanceID="0xCE25CD1B" TextString="{0.SimFirstName} viết nguệch ngoạc một tờ giấy và chuyển lại cho bạn: “Dừng lại hoặc tôi sẽ báo.” Bạn vo viên giấy và ném về phía {0.SimFirstName}, nhưng trượt và lăn đến chân giáo viên. Giận dữ, giáo viên đuổi cả hai ra hành lang." />
+    <TextStringDefinition InstanceID="0x663EB006" TextString="{0.SimFirstName} liếc qua vai và nhanh chóng trượt dưới ghế khán giả, kẹp người vào một chỗ râm mát. {M0.He}{F0.She} theo dõi Kenny, bạn phía trước {0.SimPronounObjective}. Sau nhiều phút nghỉ ngơi, {0.SimFirstName} lách ra, hoàn thành vòng chạy “cuối cùng” với một tiếng rên. Tuyệt nhất môn thể dục!" />
+    <TextStringDefinition InstanceID="0x0D4DA646" TextString="{0.SimFirstName} chạy ra hành lang, hét lên, “Fluffy đã thoát!” Chẳng mấy chốc phòng thí nghiệm đầy trẻ em trên nhiệm vụ cứu hộ, và con chuột lang được tìm thấy ngay. Trước khi {0.SimFirstName} khuất chân, giáo viên giữ {M0.him}{F0.her} lại và thu hồi quyền chăm sóc chuột lang cho phần còn lại của năm!" />
+    <TextStringDefinition InstanceID="0xA8E92EE0" TextString="Đúng như {0.SimFirstName} lo sợ, giáo viên mắng {0.SimPronounObjective} vì sự cẩu thả của {M0.him}{F0.her} và bắt {0.SimPronounObjective} quay lại giờ giải lao để làm bài kiểm tra lại. Tức giận, {0.SimFirstName} điền một mẫu đẹp, thậm chí không nhìn vào câu hỏi." />
+    <TextStringDefinition InstanceID="0x56C307C2" TextString="{0.SimFirstName} chọn một chỗ ngồi phía sau xa nơi cô gái không muốn đến (quá xa bảng). Tất nhiên, giờ đây tất cả các bạn trẻ ngầu ở phía sau phòng muốn sao chép bài của {0.SimFirstName}!" />
+    <TextStringDefinition InstanceID="0x4ED5ACD2" TextString="{0.SimFirstName} bước đến và vỗ vai cô gái, thì thầm vào tai cô. Cô gái lăn mắt. “Tôi biết rồi, Ngốc,” cô hét lên. Cô và bạn bè bắt đầu cười trong khi {0.SimFirstName} lùi lại. Tại sao {M0.HE}{F0.SHE} lại là người bị chế giễu?" />
+    <TextStringDefinition InstanceID="0xD8915DD1" TextString="{0.SimFirstName} bịa ra chuyện về một trò chơi một người và đuổi {M0.boy}{F0.girl} đi. Sau đó, khi {0.SimFirstName} đến tham gia trò chơi mà {M0.his}{F0.her} những người bạn khác đang chơi, họ cũng đuổi {0.SimPronounObjective} đi! Hừm...có lẽ có một bài học ở đâu đó..." />
+    <TextStringDefinition InstanceID="0xFC80ACEE" TextString="{0.SimFirstName} ném máy bay của {M0.him}{F0.her} ra sân chơi, nơi gió nâng nó cao. Nó thực hiện 3 vòng lặp và một cú lộn trước khi hạ cánh cạnh cầu trượt! Tất cả bạn bè của {0.SimFirstName} muốn {0.SimPronounObjective} dạy họ thiết kế mới của {M0.him}{F0.her}." />
+    <TextStringDefinition InstanceID="0x65E2B9B2" TextString="{0.SimFirstName} được mời hợp tác trong bản nhạc cho một bộ phim hè sắp tới, nhưng đã bỏ lỡ vài buổi. Bản nhạc mà đạo diễn chọn không phản ánh bất kỳ đóng góp nào của {0.SimFirstName}. {M0.He}{F0.She} có thể không nói gì và chỉ tận hưởng phần tín dụng phim, hoặc yêu cầu đạo diễn thay đổi bản nhạc." />
+    <TextStringDefinition InstanceID="0x04DDA90C" TextString="{0.SimFirstName} đang làm MC cho một buổi lễ tại cộng đồng nghỉ hưu thì micro hỏng. Những bộ đầu tóc bạc, xanh và hồng lắc đầu và vài người hét lên, “Chúng tôi không nghe thấy bạn.” {0.SimFirstName} có thể thử hét phần biểu diễn của {M0.him}{F0.her}, hoặc bỏ cuộc và ra hiệu cho người chơi piano." />
+    <TextStringDefinition InstanceID="0x6D9B8704" TextString="Một trại cứu hộ động vật địa phương đã mời {0.SimFirstName} làm MC cho sự kiện gây quỹ, nhưng {M0.he}{F0.she} quên chuẩn bị! {M0.he}{F0.she} nên lục lọi internet tìm trò đùa về động vật, hay làm bừa và hy vọng tốt nhất?" />
+    <TextStringDefinition InstanceID="0xA7060307" TextString="Tất cả các nhà phê bình đang nói về một thiên tài trẻ mới, người đang thử giọng tranh với {0.SimFirstName} cho một buổi biểu diễn với dàn nhạc được kính trọng. Thiên tài đến với một vết bẩn lớn trên áo sơ mi, mà dường như cậu ta không để ý. {0.SimFirstName} đã biểu diễn rồi và có thể nói cho cậu ta biết. Hoặc không." />
+    <TextStringDefinition InstanceID="0x2B5BE36D" TextString="{0.SimFirstName} đang ở nửa chừng phần mở đầu thì bassist của nghệ sĩ chính lảo đảo bước ra và bắt đầu chiếm đoạt buổi diễn. Cậu ta đang ở đoạn solo thứ ba 8 phút và đồng hồ đang chạy hết giờ. {0.SimFirstName} có cắt ngang, hay tiếp tục để bảo vệ chỗ diễn?" />
+    <TextStringDefinition InstanceID="0x3B1A3C99" TextString="Có một trò đùa trong phần biểu diễn của {0.SimFirstName} làm tổn thương một người bạn sẽ ghé qua tối nay. Bỏ nó đi sẽ làm phần biểu diễn mỏng hơn một chút, nhưng {M0.he}{F0.she} không chắc bạn {M0.his}{F0.her} sẽ phản ứng thế nào." />
+    <TextStringDefinition InstanceID="0x1E845381" TextString="{0.SimFirstName} thử vai cho một quảng cáo TV và nhận được vai... của một rau hát. Tệ hơn nữa, lời bài hát thậm chí không vui. {M0.he}{F0.she} nên tuân thủ kịch bản, hay thử làm mới mẻ?" />
+    <TextStringDefinition InstanceID="0x64CC401A" TextString="Ai ngờ một ít kẹo cao su, dây câu và bông bông lại được khách hàng ưa chuộng thế?" />
+    <TextStringDefinition InstanceID="0x08B60085" TextString="Có lẽ {0.SimFirstName} nên từ chối kẹo cao su, dây câu và bông bông. Khách hàng ghét những món tự ý làm, và khách hàng cũng vậy." />
+    <TextStringDefinition InstanceID="0x043818EB" TextString="Nước ép nhập khẩu tốn kém cho quán--nhưng nó phổ biến đến mức kinh doanh tốt hơn bao giờ hết!" />
+    <TextStringDefinition InstanceID="0x5F43DEDE" TextString="{0.SimFirstName} bỏ tiền mua nước ép nhập khẩu đắt tiền, nhưng khách hàng không thích đồ uống {M0.he}{F0.she} làm với nó." />
+    <TextStringDefinition InstanceID="0x041AC34C" TextString="Hoàn hảo! Lò vi sóng có thể tiết kiệm thời gian rất tốt." />
+    <TextStringDefinition InstanceID="0x60E2D7B0" TextString="Nướng Nó" />
+    <TextStringDefinition InstanceID="0xE84771FE" TextString="Làm Món Mới" />
+    <TextStringDefinition InstanceID="0x90C9ACCE" TextString="Hỏi Đầu Bếp" />
+    <TextStringDefinition InstanceID="0xA99D7A75" TextString="Phục Vụ Nó" />
+    <TextStringDefinition InstanceID="0x581C821B" TextString="Ố! Máy rửa bát hỏng. Giờ {0.SimFirstName} phải rửa tất cả chén đĩa bằng tay--và dọn dẹp đống bọt biển." />
+    <TextStringDefinition InstanceID="0x4EF8982A" TextString="Ối! {0.SimFirstName} may mắn. Ngay cả quá tải, máy rửa bát vẫn hoạt động--chén đĩa sạch bây giờ, và {0.SimFirstName} đã trở lại hành trình." />
+    <TextStringDefinition InstanceID="0x7BB1A0B9" TextString="Làm Trang Trí Tạm Thời" />
+    <TextStringDefinition InstanceID="0x70BB643B" TextString="Không Có" />
+    <TextStringDefinition InstanceID="0x57DBB8A6" TextString="Món Chưa Chín!" />
+    <TextStringDefinition InstanceID="0x408E7912" TextString="Một khách hàng không hài lòng đã trả lại một món chưa chín--và không ăn được. {0.SimFirstName} có thể xử lý theo hai cách: hoặc nướng nó trong lò vi sóng hoặc làm món đó lại từ đầu." />
+    <TextStringDefinition InstanceID="0x6E3B3789" TextString="Lô Phô Mai Có Mùi Lạ" />
+    <TextStringDefinition InstanceID="0xE89BF565" TextString="{0.SimFirstName} biết rằng phô mai đắt tiền đôi khi có mùi...chín, nhưng lô hàng mới nhất này thực sự hôi! {0.SimFirstName} nên hỏi đầu bếp ngửi thử hay cứ phục vụ thẳng?" />
+    <TextStringDefinition InstanceID="0x0E9398E4" TextString="Trang Trí Chưa Đến!" />
+    <TextStringDefinition InstanceID="0xDDEE0E48" TextString="{0.SimFirstName} đang phục vụ một bữa tiệc lớn cho một khách hàng quan trọng. Mọi thứ diễn ra suôn sẻ cho đến khi {0.SimFirstName} nhận ra trang trí chưa đến! {M0.He}{F0.She} có thể tự ý làm cái gì đó hoặc không có và hy vọng không ai để ý." />
+    <TextStringDefinition InstanceID="0xA72C1CCD" TextString="Thiếu Tiền Mặt" />
+    <TextStringDefinition InstanceID="0x8A50CCF9" TextString="Cuối cùng cũng đến hết ca của {0.SimFirstName}, nhưng {M0.he}{F0.she} chưa thể về nhà--máy tính tiền thiếu. {0.SimFirstName} biết đây không phải do {M0.him}{F0.her} và phải quyết định báo cáo đồng nghiệp của {M0.him}{F0.her} hoặc giữ im lặng." />
+    <TextStringDefinition InstanceID="0xDD070485" TextString="Quá Nhiều Chén Đĩa" />
+    <TextStringDefinition InstanceID="0xAA6E6F21" TextString="Ố! Chén đĩa bẩn đang chồng chất, và {0.SimFirstName} không thể theo kịp. {0.SimFirstName} có thể quá tải máy rửa bát hoặc bỏ cuộc và để một số chén đĩa chưa rửa." />

@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x73FDA30D" TextString="Bạn mặc cả khó. Này, tôi sẽ giảm 25% cho bất cứ món nào trên bàn này.\n\nThế nào hả?" />
+    <TextStringDefinition InstanceID="0xFE6CB2CE" TextString="{0.SimName} quá xấu hổ để mặc cả." />
+    <TextStringDefinition InstanceID="0x9570AC18" TextString="{0.SimName} đã thuyết phục người bán giảm giá rồi." />
+    <TextStringDefinition InstanceID="0x3F7E3A0E" TextString="Giảm giá Cho Người Biết Trước" />
+    <TextStringDefinition InstanceID="0x4875D7F5" TextString="Mời Hàng Xóm Vào" />
+    <TextStringDefinition InstanceID="0xA21281D8" TextString="Đưa Hàng Xóm Về Nhà" />
+    <TextStringDefinition InstanceID="0xFDBBD032" TextString="Nhớ Chuyện Cũ Cùng {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x5EC4AA6A" TextString="Nhớ Về Cuộc Sống" />
+    <TextStringDefinition InstanceID="0xEACA8FF2" TextString="Nói Về Cái Chết" />
+    <TextStringDefinition InstanceID="0x1D410AD5" TextString="Hù Ma" />
+    <TextStringDefinition InstanceID="0x54AC9963" TextString="Đi Qua" />
+    <TextStringDefinition InstanceID="0x5F567A8E" TextString="Ồ, được rồi! Đó là tín hiệu của tôi! Tạm Biệttttt..." />
+    <TextStringDefinition InstanceID="0x941D476B" TextString="Làm Phiền Cảnh Sát" />
+    <TextStringDefinition InstanceID="0x37147DC0" TextString="{1.SimFirstName} đang bận, hãy đợi đến khi {1.SimPronounSubjective} {S1.wraps}{P1.wrap} xong bên ngoài." />
+    <TextStringDefinition InstanceID="0x41EF1F2D" TextString="Đây là trò đùa với bạn sao?! Trong khi bạn khiến tôi chạy vòng vòng, kẻ trộm đã trốn thoát! Không thể tin được!" />
+    <TextStringDefinition InstanceID="0x803C3FB2" TextString="Đối Mặt Với Kẻ Trộm" />
+    <TextStringDefinition InstanceID="0x142FC286" TextString="Bắn Quả Táo Khỏi Đầu" />
+    <TextStringDefinition InstanceID="0x6DC6B326" TextString="Phá Hủy {1.ObjectName}" />
+    <TextStringDefinition InstanceID="0x185E75B7" TextString="Ôm Giải Quyết Vì Đã Phá Hủy Người Tuyết" />
+    <TextStringDefinition InstanceID="0xEC14B578" TextString="Cho Thời Gian Nghỉ Vì Đã Phá Hủy Người Tuyết" />
+    <TextStringDefinition InstanceID="0xAB4C04AD" TextString="Yêu Cầu Không Được Phá Hủy Người Tuyết" />
+    <TextStringDefinition InstanceID="0x037A944B" TextString="Khuyến Khích Phá Hủy Người Tuyết" />
+    <TextStringDefinition InstanceID="0x59B24458" TextString="Nói Không Được Phá Hủy Người Tuyết" />
+    <TextStringDefinition InstanceID="0x80E151EF" TextString="Thể Hiện Sự Thất Vọng Vì Đã Phá Hủy Người Tuyết" />
+    <TextStringDefinition InstanceID="0x5425266D" TextString="La Hét Vì Đã Phá Hủy Người Tuyết" />
+    <TextStringDefinition InstanceID="0xB2B33050" TextString="Cấm Đi Chơi Vì Đã Phá Hủy Người Tuyết" />
+    <TextStringDefinition InstanceID="0x2D9FB6DC" TextString="Tiếp Tục Xây Dựng Người Tuyết" />
+    <TextStringDefinition InstanceID="0x4E96A11E" TextString="Không đủ tuyết trên mặt đất." />
+    <TextStringDefinition InstanceID="0x5F7989FF" TextString="Mặt đất quá trơn trượt để làm thiên thần tuyết." />
+    <TextStringDefinition InstanceID="0x77D77929" TextString="Làm Thiên Thần Tuyết" />
+    <TextStringDefinition InstanceID="0xBC0B8F37" TextString="Đẩy Tuyết" />
+    <TextStringDefinition InstanceID="0x8B26EA07" TextString="Chơi Trong Tuyết" />
+    <TextStringDefinition InstanceID="0x65251E17" TextString="Tuyết quá trơn trượt để làm thiên thần tuyết." />
+    <TextStringDefinition InstanceID="0x591E33DB" TextString="Xây Dựng Người Tuyết" />
+    <TextStringDefinition InstanceID="0xD7A1E26B" TextString="Khuyến Khích Dọn Tuyết" />
+    <TextStringDefinition InstanceID="0xEB8D3FF6" TextString="Dừng Phát Nhạc" />
+    <TextStringDefinition InstanceID="0xAADBE61F" TextString="Phát Thứ Gì Đó Ngẫu Nhiên" />
+    <TextStringDefinition InstanceID="0xF708C0B5" TextString="Trung Bình" />
+    <TextStringDefinition InstanceID="0x013D3A94" TextString="Thấp" />
+    <TextStringDefinition InstanceID="0x574F0D88" TextString="Cao" />
+    <TextStringDefinition InstanceID="0xF082EEB9" TextString="La Hét" />
+    <TextStringDefinition InstanceID="0xECCDA89E" TextString="Xúc Phạm" />
+    <TextStringDefinition InstanceID="0x85EB8009" TextString="Hỏi Về Một Bí Mật" />
+    <TextStringDefinition InstanceID="0x20F3FDF8" TextString="Xì... có loa thông minh trong thế giới thực không? Hãy thử nói một trong những từ Simlish này vào nó: \n&quot;Farble&quot; \n&quot;Doofka&quot; \n  &quot;Chumcha&quot;" />
+    <TextStringDefinition InstanceID="0x76DB7698" TextString="Yêu Cầu Một Trò Đùa" />
+    <TextStringDefinition InstanceID="0xB2C8363A" TextString="Tin Tức Tóm Tắt" />
+    <TextStringDefinition InstanceID="0x6FD86A8C" TextString="(Thói Quen Hiện Tại)" />
+    <TextStringDefinition InstanceID="0x70F53BC0" TextString="Trò Đùa Hàng Ngày" />
+    <TextStringDefinition InstanceID="0xE7F5F6E1" TextString="Khẳng Định Hàng Ngày" />
+    <TextStringDefinition InstanceID="0x01E06E80" TextString="Chơi Trivia" />

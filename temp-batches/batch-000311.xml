@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x9B6EB47E" TextString="Mới nhất" />
+    <TextStringDefinition InstanceID="0xA5D350BE" TextString="Phổ biến nhất" />
+    <TextStringDefinition InstanceID="0x21CE0DB6" TextString="{S0.player}{P0.players} đang trực tuyến" />
+    <TextStringDefinition InstanceID="0x6BD6CB38" TextString="{S0.venue}{P0.total venues} trong Thư viện" />
+    <TextStringDefinition InstanceID="0x2B8D33C2" TextString="{S0.upload}{P0.total uploads} trong Thư viện" />
+    <TextStringDefinition InstanceID="0xDE1432F0" TextString="{S0.room}{P0.total rooms} trong Thư viện" />
+    <TextStringDefinition InstanceID="0xB76D2CC6" TextString="{S0.tattoo}{P0.total tattoos} trong Thư viện" />
+    <TextStringDefinition InstanceID="0x37E1032A" TextString="{S0.household}{P0.total households} trong Thư viện" />
+    <TextStringDefinition InstanceID="0x2C98EC48" TextString="{S0.lot}{P0.total lots} trong Thư viện" />
+    <TextStringDefinition InstanceID="0xE5BD4B9E" TextString="{S0.venue}{P0.total venues} trong Thư viện của tôi" />
+    <TextStringDefinition InstanceID="0xBB7A41E6" TextString="{S0.room}{P0.total rooms} trong Thư viện của tôi" />
+    <TextStringDefinition InstanceID="0x5CDBC284" TextString="{S0.tattoo}{P0.total tattoos} trong Thư viện của tôi" />
+    <TextStringDefinition InstanceID="0x9A33BA2C" TextString="{S0.household}{P0.total households} trong Thư viện của tôi" />
+    <TextStringDefinition InstanceID="0x8CC07232" TextString="{S0.lot}{P0.total lots} trong Thư viện của tôi" />
+    <TextStringDefinition InstanceID="0xD31EFBE0" TextString="Trực tuyến" />
+    <TextStringDefinition InstanceID="0xFE403A80" TextString="Tin tức" />
+    <TextStringDefinition InstanceID="0xC5FE4472" TextString="Thư viện của tôi" />
+    <TextStringDefinition InstanceID="0x51D3D8B9" TextString="Trang chủ" />
+    <TextStringDefinition InstanceID="0xA8B7CFD5" TextString="Thư viện" />
+    <TextStringDefinition InstanceID="0xDD7B8E79" TextString="Thử thách Spark'd" />
+    <TextStringDefinition InstanceID="0x9F3C6FDC" TextString="Cộng đồng" />
+    <TextStringDefinition InstanceID="0xE6D23B0B" TextString="Hashtag Thịnh hành" />
+    <TextStringDefinition InstanceID="0xD32D653D" TextString="Bạn cần trực tuyến để xem hashtag thịnh hành." />
+    <TextStringDefinition InstanceID="0xB4F67071" TextString="Stylist (Nhà tạo mẫu)" />
+    <TextStringDefinition InstanceID="0xE08853C4" TextString="Kể chuyện (Storyteller)" />
+    <TextStringDefinition InstanceID="0x0FF78319" TextString="Thông tin" />
+    <TextStringDefinition InstanceID="0x91143992" TextString="Kiến trúc sư (Builder)" />
+    <TextStringDefinition InstanceID="0xB4583647" TextString="Hashtag Thịnh hành:" />
+    <TextStringDefinition InstanceID="0xCB48E8D5" TextString="Tìm kiếm tất cả tác phẩm của mọi người!" />
+    <TextStringDefinition InstanceID="0x3BDD3431" TextString="Không thể theo dõi. Bạn đã đạt giới hạn số người chơi được phép theo dõi." />
+    <TextStringDefinition InstanceID="0xB5F85F3F" TextString="Đã xảy ra lỗi khi xử lý yêu cầu đăng ký." />
+    <TextStringDefinition InstanceID="0x74E51603" TextString="Nhập tiểu sử của bạn tại đây..." />
+    <TextStringDefinition InstanceID="0x49BD95FB" TextString="Báo cáo Tiểu sử Người chơi" />
+    <TextStringDefinition InstanceID="0xDC42CE28" TextString="Xem Hồ sơ" />
+    <TextStringDefinition InstanceID="0xDF14199E" TextString="Xem Danh mục" />
+    <TextStringDefinition InstanceID="0x89555860" TextString="Hủy theo dõi" />
+    <TextStringDefinition InstanceID="0xBCEF6F66" TextString="Hủy chặn" />
+    <TextStringDefinition InstanceID="0x6684EDE5" TextString="Trưng bày" />
+    <TextStringDefinition InstanceID="0x2C94084F" TextString="Mục được chia sẻ" />
+    <TextStringDefinition InstanceID="0x26A9C199" TextString="Nội dung được chia sẻ" />
+    <TextStringDefinition InstanceID="0x9FFBEFEC" TextString="Xem thêm" />
+    <TextStringDefinition InstanceID="0x159FE61C" TextString="Xem ít hơn" />
+    <TextStringDefinition InstanceID="0x74CDCF79" TextString="Hồ sơ" />
+    <TextStringDefinition InstanceID="0x1D86F437" TextString="Nội dung Tôi chia sẻ" />
+    <TextStringDefinition InstanceID="0xEEE889A7" TextString="Yêu thích của tôi" />
+    <TextStringDefinition InstanceID="0x6C3BB931" TextString="Bạn chưa trưng bày hoặc chia sẻ mục nào." />
+    <TextStringDefinition InstanceID="0x71E74CB1" TextString="Bạn bè" />
+    <TextStringDefinition InstanceID="0xCECDF537" TextString="Đang theo dõi" />
+    <TextStringDefinition InstanceID="0xB2C33B93" TextString="Người theo dõi" />
+    <TextStringDefinition InstanceID="0x469BB191" TextString="Theo dõi" />

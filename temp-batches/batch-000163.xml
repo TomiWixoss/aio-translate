@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xCC25B4E7" TextString="{0.SimFirstName} cần đợi kết quả từ khoản đầu tư trước của {M0.his}{F0.her}." />
+    <TextStringDefinition InstanceID="0x1ECB87BF" TextString="{0.SimFirstName} đã thực hiện khoản đầu tư. Bây giờ {M0.he}{F0.she} chỉ cần đợi kết quả..." />
+    <TextStringDefinition InstanceID="0x2A98CA22" TextString="Đầu Tư Vào Cổ Phiếu" />
+    <TextStringDefinition InstanceID="0xF87FA167" TextString="Điền Báo Cáo" />
+    <TextStringDefinition InstanceID="0x4F917959" TextString="Không có báo cáo nào cần điền cho đến sau lần tiếp theo Sim đi làm." />
+    <TextStringDefinition InstanceID="0x2A1DEED6" TextString="Duyệt Cơ Sở Dữ Liệu Trí Tuệ" />
+    <TextStringDefinition InstanceID="0x4321D3E2" TextString="Cơ Sở Dữ Liệu Hết Chủ Đề Nghiên Cứu" />
+    <TextStringDefinition InstanceID="0xC1E56BEA" TextString="Tốt (và vui) khi là một Đặc Vụ Bí Mật!" />
+    <TextStringDefinition InstanceID="0x1B746F8A" TextString="Nghiên Cứu Mảnh Thời Gian" />
+    <TextStringDefinition InstanceID="0xC6728FB9" TextString="Duyệt Blog Để Tìm Cuộc Phiêu Lưu Mới" />
+    <TextStringDefinition InstanceID="0x75C03025" TextString="Duyệt Trang Web Thân Thiện Với Trẻ Em" />
+    <TextStringDefinition InstanceID="0x46ABB5CE" TextString="Xem Video Hài Hước Trên Sim.tv" />
+    <TextStringDefinition InstanceID="0x308D42E2" TextString="Duyệt Simpedia" />
+    <TextStringDefinition InstanceID="0x29902574" TextString="Nghiên Cứu Trên Simpedia" />
+    <TextStringDefinition InstanceID="0x447068E5" TextString="Học Hết Mọi Thứ Có Cách Để Tập Trung Tư Tưởng" />
+    <TextStringDefinition InstanceID="0x1FD906EA" TextString="Nghiên Cứu Mẹo Tập Tập Thể" />
+    <TextStringDefinition InstanceID="0xADA91BAC" TextString="(Từ Nghiên Cứu)" />
+    <TextStringDefinition InstanceID="0x3ED32A66" TextString="Nghiên Cứu Đàn Vĩ Cầm" />
+    <TextStringDefinition InstanceID="0xB70D76A6" TextString="Nghiên Cứu Đàn Piano" />
+    <TextStringDefinition InstanceID="0x19B59A0A" TextString="Nghiên Cứu Thành Ngữ" />
+    <TextStringDefinition InstanceID="0x7057321B" TextString="Nghiên Cứu Đàn Ghi Ta" />
+    <TextStringDefinition InstanceID="0x3E8531B0" TextString="Nghiên Cứu Kỹ Thuật Nấu Ăn Nâng Cao" />
+    <TextStringDefinition InstanceID="0xAEAA8083" TextString="Nghiên Cứu Trồng Cây" />
+    <TextStringDefinition InstanceID="0xAB108C65" TextString="Tìm Khóa Đáp Án Bài Tập Về Nhà" />
+    <TextStringDefinition InstanceID="0xB642B5B7" TextString="Học Cách Làm" />
+    <TextStringDefinition InstanceID="0xC8A0008E" TextString="Học Tài Liệu Thiết Kế" />
+    <TextStringDefinition InstanceID="0x8F32AC72" TextString="Học Hệ Thống Bảo Mật" />
+    <TextStringDefinition InstanceID="0xE66FD053" TextString="Học Hình Ảnh Tham Khảo" />
+    <TextStringDefinition InstanceID="0x23A3084C" TextString="Tìm Ý Tưởng Công Thức Mới" />
+    <TextStringDefinition InstanceID="0xAC98969C" TextString="Cảm Hứng Là Nguyên Liệu Tốt Nhất Trong Mọi Công Thức." />
+    <TextStringDefinition InstanceID="0x00DA2B27" TextString="Duyệt Nghệ Thuật" />
+    <TextStringDefinition InstanceID="0x9B00DDED" TextString="Những Người Tìm Cảm Hứng Nên Tìm Kiếm Trong Những Sáng Tạo Của Người Khác" />
+    <TextStringDefinition InstanceID="0x97AFA8EF" TextString="Viết Blog Về Cảm Xúc" />
+    <TextStringDefinition InstanceID="0x1F64194F" TextString="Khuyến Khích Viết Blog Về Cảm Xúc" />
+    <TextStringDefinition InstanceID="0xD089C07F" TextString="Hộ Gia Đình Đã Đạt Số Lượng Tối Đa." />
+    <TextStringDefinition InstanceID="0xFDF9E0E8" TextString="Một Sự Kiện Nhận Con Nuôi Đang Diễn Ra!" />
+    <TextStringDefinition InstanceID="0x4CCF826D" TextString="Phí Đại Lý: {0.Money}" />
+    <TextStringDefinition InstanceID="0x3204C438" TextString="Sim Này Bị Khóa Không Thể Dùng Máy Tính Này." />
+    <TextStringDefinition InstanceID="0x8C7BB072" TextString="SIM THIẾU\nTên: Pit Beast, Dweller in the Dark\n\nPit of Judgement khẩn cấp tìm kiếm sự trở về của sinh vật xúc tu yêu quý được gọi là Pit Beast." />
+    <TextStringDefinition InstanceID="0xC6FBF63B" TextString="SIM THIẾU\nTên: Emit Relevart\n\nĐược biết đến là xuất hiện thỉnh thoảng. Không cần đường. Trả lời “Bác Sĩ” nhưng không có chứng chỉ hành nghề y." />
+    <TextStringDefinition InstanceID="0xCAA993E2" TextString="SIM THIẾU\nTên: Some Sneaky Sim, Not a Raccoon\n\nLần cuối thấy rời hiện trường với một túi nhỏ chứa đồ nội thất lớn." />
+    <TextStringDefinition InstanceID="0xDA3951B9" TextString="SIM THIẾU\nTên: Skip Broke\n\nTóc vàng, mắt xanh, hơi sạch sẽ. Lần cuối thấy gần hồ bơi. Vợ anh lo lắng chờ đợi sự trở về nhưng chưa đưa ra phần thưởng nào." />
+    <TextStringDefinition InstanceID="0xFB0730F2" TextString="SIM THIẾU\nTên: Bella Goth, Starry-Eyed Stargazer\n\nTHIẾU?! Bella thiếu là sao? Cô ấy không ở đây sao? Trong chiếc váy đỏ? ...Cái hộp carton này từ đâu ra vậy?" />
+    <TextStringDefinition InstanceID="0x484B2FE0" TextString="SIM THIẾU\nTên: Ginny, cựu Hải Tặc và Cảnh Sát Trưởng\n\nLần cuối thấy đang cướp bóc... đánh cắp gia súc... viết vé phạt... dập tắt hỏa hoạn... Có khả năng cao được tìm thấy đang lênh đênh trên những luồng gió mặt trời." />
+    <TextStringDefinition InstanceID="0x3FE05D63" TextString="Học" />
+    <TextStringDefinition InstanceID="0x48C8B3E4" TextString="Mở Ra" />
+    <TextStringDefinition InstanceID="0xB513BAA4" TextString="Gửi Đến Hội Địa Chất" />
+    <TextStringDefinition InstanceID="0x98B58F3D" TextString="Mẫu vật đã được gửi đến Hội Địa Chất Quốc Gia Sim để tách nguyên tố. Hãy chờ nhận các nguyên tố đã tách được qua thư trong khoảng một ngày tới!" />
+    <TextStringDefinition InstanceID="0x6D791CEC" TextString="Bán Cho Bảo Tàng Simsonian" />
+    <TextStringDefinition InstanceID="0x6683C3C6" TextString="Bảo Tàng Quốc Gia Simsonian rất biết ơn món quà {0.SimFirstName} đã quyên góp là {1.ObjectName|enAn}. Họ đã gửi cho bạn món quà hào phóng là {2.Money}." />

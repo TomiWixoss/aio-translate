@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x1CDB3430" TextString="Nâng cấp kỹ năng Pha chế" />
+    <TextStringDefinition InstanceID="0xDC5ABFC6" TextString="Làm một người bạn" />
+    <TextStringDefinition InstanceID="0x8171B95C" TextString="Vui vẻ với {2.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x40360E3E" TextString="Tán tỉnh ai đó" />
+    <TextStringDefinition InstanceID="0xCB43E255" TextString="Hỏi ai đó hẹn hò chính thức" />
+    <TextStringDefinition InstanceID="0x51E53CEF" TextString="Xem TV" />
+    <TextStringDefinition InstanceID="0x47038EC4" TextString="Tập thể dục trên máy tập" />
+    <TextStringDefinition InstanceID="0x01DB136D" TextString="Chạy trên máy chạy bộ" />
+    <TextStringDefinition InstanceID="0x20A8B584" TextString="Bộ bài cũ, đáng tin cậy để giết thời gian!" />
+    <TextStringDefinition InstanceID="0x171F3F0D" TextString="Giờ là giờ Blicblock!" />
+    <TextStringDefinition InstanceID="0xE89B4B65" TextString="Nhảy múa theo điệu nhạc!" />
+    <TextStringDefinition InstanceID="0xB1767584" TextString="{1.SimFirstName} muốn đâm chồi nảy lộc và xem tình bạn với thiên nhiên nở hoa." />
+    <TextStringDefinition InstanceID="0x659E8114" TextString="Đằng ngoài là một túi đầy nắng, {1.SimFirstName} chỉ cần nhặt lên. Nhưng đừng bị bắt được." />
+    <TextStringDefinition InstanceID="0xCBF5FF12" TextString="Nhiếp ảnh có thể là một công việc sinh lời nếu như những bức ảnh không bị mờ." />
+    <TextStringDefinition InstanceID="0x52607F96" TextString="Nếu ai cũng biết thì nó không còn là bí mật nữa." />
+    <TextStringDefinition InstanceID="0x3683616D" TextString="Vở kịch phải tiếp diễn! Đến Phòng Lounge!" />
+    <TextStringDefinition InstanceID="0x811B51C5" TextString="Thời gian luyện tập đã qua, {1.SimFirstName} sẵn sàng gây ấn tượng với một màn trình diễn hài hước!" />
+    <TextStringDefinition InstanceID="0xFA5EFA39" TextString="Một ấn tượng tốt khó mà quên." />
+    <TextStringDefinition InstanceID="0x74783314" TextString="Đây là thời điểm trong cuộc đời mà {1.SimFirstName} muốn bị cười! À...thà được cười cùng..." />
+    <TextStringDefinition InstanceID="0x01C448FE" TextString="Đây là thời điểm trong cuộc đời mà {1.SimFirstName} muốn bị cười! À...thà được cười cùng..." />
+    <TextStringDefinition InstanceID="0x0D594042" TextString="Dám mơ. Để tâm trí bay xa." />
+    <TextStringDefinition InstanceID="0xD8616450" TextString="Sống thật với bản thân. Nó có thể đến một cách tự nhiên." />
+    <TextStringDefinition InstanceID="0xC4B6C822" TextString="Sáng tạo! Táo bạo! Có lẽ là súp?" />
+    <TextStringDefinition InstanceID="0x66D68488" TextString="Một kiệt tác thực sự! Đáng để trưng bày!" />
+    <TextStringDefinition InstanceID="0xBA5DFDA7" TextString="Được bao quanh bởi những bậc thầy và trí tuệ nghệ thuật của họ." />
+    <TextStringDefinition InstanceID="0x1E53C714" TextString="*Hôn đầu bếp* Kiệt tác tiếp theo của {1.SimFirstName}!" />
+    <TextStringDefinition InstanceID="0xF4E3AF9F" TextString="Phải bắt trọn khoảnh khắc!" />
+    <TextStringDefinition InstanceID="0x24C30D01" TextString="Kêu gọi các bậc thầy dẫn dắt nét vẽ của ngươi." />
+    <TextStringDefinition InstanceID="0xC11E0D34" TextString="Hình dạng! Màu sắc! Để nó trôi tự do trên canvas." />
+    <TextStringDefinition InstanceID="0xBFFCCA7B" TextString="Nhớ nhé, không có sai lầm nào! Chỉ là những trùng hợp may mắn!" />
+    <TextStringDefinition InstanceID="0xD05C2C8F" TextString="{1.SimFirstName} muốn một lối sống của Thần Nhà Rác, và {M1.he}{F1.she} sẽ có một lối sống của Thần Nhà Rác! Càng nhiều mùi càng tốt!" />
+    <TextStringDefinition InstanceID="0x2D9323FE" TextString="{1.SimFirstName} không thể cưỡng lại! Món ăn từ quầy hàng thịt thơm ngon tuyệt!" />
+    <TextStringDefinition InstanceID="0xC6016D3A" TextString="Độ ngậy ngon gửi tận cửa." />
+    <TextStringDefinition InstanceID="0xACC9E8A8" TextString="{1.SimFirstName} tự hỏi hai người này đang dùng chiến thuật gì." />
+    <TextStringDefinition InstanceID="0xC5D0917B" TextString="Tâm ổn định! Cơ thể ổn định!" />
+    <TextStringDefinition InstanceID="0x519CA3D6" TextString="{1.SimFirstName} mạnh mẽ và có thể vài giờ không nhớ {M1.his}{F1.her} người yêu! Phải không...?" />
+    <TextStringDefinition InstanceID="0xA5835B68" TextString="Nhớ về sự mất mát của người thân." />
+    <TextStringDefinition InstanceID="0x9DD687C3" TextString="Con cá lớn nhất trưng bày! Nó có thể hát được không?" />
+    <TextStringDefinition InstanceID="0x90ED58AB" TextString="Trở thành tâm điểm của bữa tiệc...hoặc ít nhất là vui vẻ." />
+    <TextStringDefinition InstanceID="0xFD3131A0" TextString="Trở thành tâm điểm của bữa tiệc...hoặc ít nhất là vui vẻ." />
+    <TextStringDefinition InstanceID="0x0E0FABEC" TextString="{1.SimFirstName} hít một hơi và eo! Có phải mùi {1.SimFirstName} không?!" />
+    <TextStringDefinition InstanceID="0x877BF84B" TextString="Thức ăn là nhiên liệu và nhiên liệu là cuộc sống!" />
+    <TextStringDefinition InstanceID="0x451F9D80" TextString="Thức ăn là nhiên liệu và nhiên liệu là cuộc sống!" />
+    <TextStringDefinition InstanceID="0xE179941D" TextString="Thả lỏng! Wooo!" />
+    <TextStringDefinition InstanceID="0x0D873D4A" TextString="Thả lỏng! Wooo!" />
+    <TextStringDefinition InstanceID="0x87022D16" TextString="{1.SimFirstName} bắt đầu thấy cừu." />
+    <TextStringDefinition InstanceID="0x33342BE3" TextString="{1.SimFirstName} bắt đầu thấy cừu." />
+    <TextStringDefinition InstanceID="0x463BE269" TextString="Phải đi thôi!" />
+    <TextStringDefinition InstanceID="0x02217509" TextString="Làm một cái xoắn nhỏ." />
+    <TextStringDefinition InstanceID="0x528D8A2A" TextString="Cay và sủi, combo hoàn hảo!" />

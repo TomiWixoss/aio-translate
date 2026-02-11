@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x4F75462E" TextString="aerosolXsmlGENBreath_01" />
+    <TextStringDefinition InstanceID="0x8BB18382" TextString="aerosolSmlFragranceGEN_01&#xD;&#xA;" />
+    <TextStringDefinition InstanceID="0x122052D3" TextString="aerosolSmlFragranceGEN_01" />
+    <TextStringDefinition InstanceID="0x38928743" TextString="Bàn Hoạt Động Nghệ Thuật Sáng Tạo" />
+    <TextStringDefinition InstanceID="0x37C9228C" TextString="Thần đồng nhí... hay chỉ là người may mắn sở hữu Bàn Hoạt Động Nghệ Thuật Sáng Tạo? Khai phá tài năng của con và giữ chúng bận rộn tích cực với bộ bàn ghế được lắp sẵn này. Vật liệu và tài năng không bao gồm." />
+    <TextStringDefinition InstanceID="0x3145F2FC" TextString="Đừng Đánh Thức Con Lạc Đà" />
+    <TextStringDefinition InstanceID="0x8ECFC066" TextString="Phóng Tên" />
+    <TextStringDefinition InstanceID="0xDF40241A" TextString="Bắn Cung" />
+    <TextStringDefinition InstanceID="0x113CDA56" TextString="Kết Nối" />
+    <TextStringDefinition InstanceID="0x203087DB" TextString="Tương lai của bạn trông có vẻ lỗi pixel." />
+    <TextStringDefinition InstanceID="0xAA8607A0" TextString="Tương lai là sắp tới™." />
+    <TextStringDefinition InstanceID="0xBFEFB7D5" TextString="Sự bất định của bạn, chắc chắn sẽ trở nên chắc chắn, trong những tình huống nhất định mà không còn nghi ngờ gì." />
+    <TextStringDefinition InstanceID="0xA04A39A2" TextString="Không nghi ngờ gì, thứ chúng ta đã nói đến sẽ trở thành hiện thực, vì tất cả các dấu hiệu đều chỉ ra câu trả lời mà chúng ta đã đồng ý trong cuộc thảo luận lần trước." />
+    <TextStringDefinition InstanceID="0x74FC9A95" TextString="Điểm đến phổ biến nhất để trốn chạy vẫn chưa được biết đến." />
+    <TextStringDefinition InstanceID="0x2F3272CC" TextString="Cạnh nhau. Chắc.\nXa nhau. Ừ.\nChồng chất lên? Hừ." />
+    <TextStringDefinition InstanceID="0x06A08497" TextString="Ai đó chắc chắn sẽ nhận được chính xác thứ họ muốn." />
+    <TextStringDefinition InstanceID="0x608615D3" TextString="Tôi thấy một chú yêu tinh cầm một con thỏ đông lạnh đang cưỡi lên một con lạc đà để xung trận với một kẻ thù 'sữa' ấn tượng." />
+    <TextStringDefinition InstanceID="0xB57EEB7E" TextString="Hỏi Về Tương Lai" />
+    <TextStringDefinition InstanceID="0x41694F09" TextString="(Từ Việc Tham Khảo Khối Tương Lai)" />
+    <TextStringDefinition InstanceID="0x5AB85374" TextString="Tương Lai Tỏa Sáng" />
+    <TextStringDefinition InstanceID="0xB702EC8E" TextString="Khối Tương Lai đã tiên tri... " />
+    <TextStringDefinition InstanceID="0x333B4EE6" TextString="Phong Cách Để Trở Thành Tôi" />
+    <TextStringDefinition InstanceID="0x3D9F61BF" TextString="Những đường nét táo bạo, hiện đại và những góc cạnh bất thường mang lại sự uy nghiêm kín đáo." />
+    <TextStringDefinition InstanceID="0x29698645" TextString="Phong Cách Hiện Đại" />
+    <TextStringDefinition InstanceID="0xCECC171A" TextString="Những đường nét sạch sẽ được đặt ở các khoảng cách khác nhau gây tò mò cho mắt mà không làm mệt mỏi nó." />
+    <TextStringDefinition InstanceID="0xF0C962B2" TextString="Tinh Thần Phong Cách" />
+    <TextStringDefinition InstanceID="0x47CD6CE3" TextString="Thêm điểm kiến trúc thú vị cho tường nhà bạn mà không trông rối rắm." />
+    <TextStringDefinition InstanceID="0xBF914C1B" TextString="Khung Phong Cách" />
+    <TextStringDefinition InstanceID="0x0D9035B4" TextString="Một điểm nhấn tuyệt vời cho những ngôi nhà trang trọng nhất, phong cách này thực sự vượt thời gian." />
+    <TextStringDefinition InstanceID="0xCA4FEA54" TextString="Bạn Muốn Thêm Phong Cách Không?" />
+    <TextStringDefinition InstanceID="0xAE0AD7A1" TextString="Thêm một nét cổ điển cho mặt tiền nhà bạn với phong cách chạm khắc thanh lịch này." />
+    <TextStringDefinition InstanceID="0xBF1989AE" TextString="Không Có Phong Cách" />
+    <TextStringDefinition InstanceID="0xD500F1D7" TextString="Không Có Phong Cách" />
+    <TextStringDefinition InstanceID="0x53474053" TextString="Nói chuyện với khách hàng này có thể làm {0.SimFirstName} phát điên, nhưng công việc là công việc. Hoàn thành tất cả nhiệm vụ của {F0.her}{M0.his} đúng hạn giữa sự phô trương ngột ngạt chính là dấu hiệu của một chuyên gia thực thụ!" />
+    <TextStringDefinition InstanceID="0xF4033166" TextString="Những người định hướng và thúc đẩy thế giới hiện đại có thể nói một cách kỳ lạ, nhưng họ biết mình đang làm gì. Rất trân trọng sự hoàn thành nhanh chóng của {0.SimFirstName}, công ty đã thưởng cho {F0.her}{M0.him} một khoản thưởng rất tốt, cùng lời hứa rằng {F0.she}{M0.he} đã giúp thay đổi thế giới." />
+    <TextStringDefinition InstanceID="0xCE54D7FA" TextString="&quot;Chúng ta sẽ không bao giờ trải nghiệm tương lai với loại công việc này...&quot;\n\nThật khó nghe, nhưng đúng sự thật. Không hoàn thành công việc đã đủ tồi, nhưng nó còn tàn phá những người có tầm nhìn như vậy. {0.SimFirstName} đã thương lượng được một khoản lương theo tỷ lệ bằng cách sử dụng những từ ngữ này." />
+    <TextStringDefinition InstanceID="0x126DE1AE" TextString="Đôi khi những điều tốt đẹp nhất trong cuộc sống đến từ những tai nạn. Đây là một trong số đó. Khách hàng rất hài lòng với việc hoàn thành công việc và viết một lời giới thiệu rất tốt cho {0.SimFirstName}. Nó không thực sự có thể sử dụng được vì rõ ràng được viết bằng giọng nói chuyển thành văn bản, nhưng ý định là điều quan trọng." />
+    <TextStringDefinition InstanceID="0x4167BA65" TextString="Việc đăng tuyển công việc tưởng chừng vô tình lại hóa ra là cho một sản phẩm được mong đợi. Việc hoàn thành nhanh chóng các trang landing đã giúp tổ chức kế hoạch tiếp thị rất nhiều, và {0.SimFirstName} được thưởng một khoản tốt cho nỗ lực của {F0.her}{M0.his}." />
+    <TextStringDefinition InstanceID="0x52DD5E91" TextString="Xét rằng việc đăng tuyển công việc có vẻ vô tình, {0.SimFirstName} đã ngạc nhiên khi khách hàng dường như rất bực bội khi nó không được hoàn thành. {F0.She}{M0.He} còn ngạc nhiên hơn khi {F0.she}{M0.he} vẫn nhận được thanh toán. Đó là một số tiền nhỏ, nhưng tốt hơn là không có gì!" />
+    <TextStringDefinition InstanceID="0x145B81C1" TextString="Thêm một website thương mại điện tử khác vào vực thẳm là một chiến lược kinh doanh mạo hiểm. Dù sao, công ty đã ra mắt công việc của {0.SimFirstName} và phát hành nó ra thế giới. Chỉ thời gian mới cho biết nó có thành công hay không." />
+    <TextStringDefinition InstanceID="0x77F5A030" TextString="Sau khi website của {0.SimFirstName} được phê duyệt, startup thương mại điện tử ngay lập tức bắt tay vào việc. Hóa ra, họ thực sự rất giỏi và website đã phát triển. Vì sự hoàn thành nhanh chóng của {F0.her}{M0.his} công việc, công ty đã tặng {0.SimPronounObjective} một phần nhỏ doanh số bán hàng ban đầu của họ dưới dạng thưởng!" />
+    <TextStringDefinition InstanceID="0xF9784ABC" TextString="{0.SimFirstName} không thể giao website đã hứa trước thời hạn, vì vậy dự án đã bị hủy. Cố gắng duy trì hình ảnh của một doanh nghiệp thực tế, startup thương mại điện tử đã trả một khoản lương theo tỷ lệ cho thời gian đã dành cho dự án." />
+    <TextStringDefinition InstanceID="0x14372E3F" TextString="&quot;Bất kỳ lúc nào!&quot; Người khai thác tiền ảo đầy hy vọng rất vui mừng với việc giao hàng các virus và ngay lập tức bắt tay vào việc. {0.SimFirstName} nhận được {F0.her}{M0.his} thanh toán và cố gắng bỏ qua những bản cập nhật ngày càng tuyệt vọng mà khách hàng liên tục gửi." />
+    <TextStringDefinition InstanceID="0x7628D562" TextString="Vậy hóa ra SimCoin là thật và được giao dịch tích cực. Mất một khoảng thời gian ngắn bất ngờ để khách hàng báo cáo tìm thấy SimCoin đầu tiên của họ. Cảm ơn {0.SimFirstName} vì tốc độ giao hàng của {F0.her}{M0.his}, cá nhân vô danh đã chuyển khoản thanh toán kèm một khoản thưởng tốt." />
+    <TextStringDefinition InstanceID="0xE0DBD99E" TextString="Người đáng ngờ không vui với tin tức rằng {0.SimFirstName} không thể cung cấp các virus đã hứa. Dù vậy, nhân vật bí ẩn này tuyên bố rằng họ sẽ sớm trở nên giàu có nên vẫn trả một số tiền khiêm tốn cho thời gian đã dành." />
+    <TextStringDefinition InstanceID="0x9B10A8FA" TextString="{0.SimFirstName} đang làm {F0.her}{M0.his} phần trong việc làm cho thế giới an toàn hơn. Ít nhất, đó là điều công ty chống virus liên tục nói trong thư từ. Điều đó tốt và tất cả, nhưng tiền lương còn tốt hơn! " />
+    <TextStringDefinition InstanceID="0xD1E21871" TextString="Công ty chống virus rất vui mừng với tốc độ và sự cần cù trong công việc của {0.SimFirstName}. Họ muốn tặng {F0.her}{M0.him} một huy chương, nhưng {F0.she}{M0.he} khăng khăng rằng tiền thanh toán sẽ đủ. Cuối cùng, họ đồng ý một khoản thưởng có kích cỡ đáng kể. Mọi người đều hài lòng!" />
+    <TextStringDefinition InstanceID="0x3DC165F5" TextString="Công ty chống virus không hài lòng vì {0.SimFirstName} không thể giao bất cứ thứ gì để hỗ trợ nghiên cứu của họ, nhưng vẫn trả một phần lương vì họ không đổ lỗi cho ai về việc &quot;không muốn sa ngã vào bóng tối&quot; như họ nói." />
+    <TextStringDefinition InstanceID="0x6D06E63D" TextString="{0.SimFirstName} đã hoàn thành công việc và giao những virus đó. {F0.She}{M0.He} không cần biết công ty đó muốn dùng chúng để làm gì. Mọi thứ sẽ ổn thôi! Hoàn hảo ổn thỏa, miễn là giao dịch tiền được thực hiện. Bạn không thể chuyển tiền bẩn, phải không?" />
+    <TextStringDefinition InstanceID="0xE56B9C4C" TextString="Tốc độ {0.SimFirstName} hoàn thành những virus đó thậm chí còn khiến cả công ty không mấy thiên thần phải e ngại. Rõ ràng, họ đang đối phó với một chuyên gia mã độc và cần phải cẩn thận. Dù vậy, một công việc xuất sắc cần được thưởng, và công ty đã thêm một khoản thưởng đáng kể vào khoản thanh toán." />

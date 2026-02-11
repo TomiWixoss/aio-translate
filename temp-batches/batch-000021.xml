@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xDDB53EDA" TextString="tại Nhà" />
+    <TextStringDefinition InstanceID="0x2D162AD5" TextString="tại {0.String}" />
+    <TextStringDefinition InstanceID="0x5B5D984B" TextString="tại {0.String} trong {1.String}" />
+    <TextStringDefinition InstanceID="0x0075BCC9" TextString="Chủ sở hữu:" />
+    <TextStringDefinition InstanceID="0xABCBFC4C" TextString="Bảng Chi Tiết Căn Hộ" />
+    <TextStringDefinition InstanceID="0xBC8D2F0F" TextString="Bảng Thông Tin" />
+    <TextStringDefinition InstanceID="0x2AED27F1" TextString="Bảng Chi Tiết Lô Đất" />
+    <TextStringDefinition InstanceID="0x0DA7787B" TextString="Bảng Hộ Gia Đình" />
+    <TextStringDefinition InstanceID="0xD9D8240E" TextString="Tiền Thuê Hàng Tuần: {0.Money}" />
+    <TextStringDefinition InstanceID="0x7C8E5193" TextString="Loại Lô Đất: {0.String}" />
+    <TextStringDefinition InstanceID="0x3D2FDB51" TextString="Giá: {0.Money}" />
+    <TextStringDefinition InstanceID="0xBB2A05CA" TextString="Giá Mỗi Ngày: {0.Money}" />
+    <TextStringDefinition InstanceID="0x30088248" TextString="Đặc Điểm và Thử Thách Của Căn Hộ:" />
+    <TextStringDefinition InstanceID="0xC071869E" TextString="Đặc Điểm và Thử Thách Của Lô Đất:" />
+    <TextStringDefinition InstanceID="0xCE361E84" TextString="Không có đặc điểm nào được gán cho lô đất này." />
+    <TextStringDefinition InstanceID="0x5632D71C" TextString="Tiền Đặt Cọc: {0.Money}" />
+    <TextStringDefinition InstanceID="0xA9D05FEA" TextString="Cảnh Báo" />
+    <TextStringDefinition InstanceID="0x0A209B46" TextString="Các nhân vật mới được thêm vào hộ gia đình sống trong Ký Túc Xá Đại Học sẽ bị xóa, bạn có chắc chắn muốn tiếp tục?" />
+    <TextStringDefinition InstanceID="0x1D0937BD" TextString="Chuyển Nhân Vật Giữa Các Hộ Gia Đình" />
+    <TextStringDefinition InstanceID="0xF0667A3B" TextString="Di Chuyển Hộ Gia Đình Vào Một Lô Đất" />
+    <TextStringDefinition InstanceID="0x08461519" TextString="Đánh Dấu Là Chưa Chơi" />
+    <TextStringDefinition InstanceID="0x744BE550" TextString="Chỉnh sửa, thêm hoặc xóa nhân vật khỏi hộ gia đình trong Tạo Nhân Vật" />
+    <TextStringDefinition InstanceID="0x3536BE65" TextString="Xóa Hộ Gia Đình" />
+    <TextStringDefinition InstanceID="0xF966730E" TextString="Bạn không thể di chuyển hộ gia đình này vì nó trống." />
+    <TextStringDefinition InstanceID="0x809EB6C0" TextString="Bạn không thể xóa hộ gia đình cuối cùng của mình." />
+    <TextStringDefinition InstanceID="0xFAA4C014" TextString="Quy Tắc Căn Hộ" />
+    <TextStringDefinition InstanceID="0x4D89795F" TextString="&lt;b&gt;Quy Tắc Căn Hộ&lt;/b&gt; được đặt bởi Chủ Sở Hữu Bất Động Sản, và các Hộ Gia Đình Thuê có thể phải đối mặt với phạt hoặc bị evict nếu vi phạm bất kỳ quy tắc nào." />
+    <TextStringDefinition InstanceID="0x0C9BFEDE" TextString="Đánh Giá Căn Hộ:" />
+    <TextStringDefinition InstanceID="0x63FC67A7" TextString="Thông Tin Căn Hộ" />
+    <TextStringDefinition InstanceID="0x3AE50CA8" TextString="&lt;b&gt;Đánh Giá Căn Hộ&lt;/b&gt; được xác định bởi Kích Thước, Tiện Nghi, Môi Trường và Bảo Trì của căn hộ.\n\n&lt;b&gt;Thời Hạn Thuê&lt;/b&gt; được xác định bởi Chủ Sở Hữu Bất Động Sản, và cho biết tần suất thanh toán tiền thuê của người thuê" />
+    <TextStringDefinition InstanceID="0x06611052" TextString="Tiền Thuê: {0.Money} mỗi ngày" />
+    <TextStringDefinition InstanceID="0xD40C8BCF" TextString="Nội Thất Tùy Chọn: {0.Money}" />
+    <TextStringDefinition InstanceID="0x8B70CA5B" TextString="Không Có Quy Tắc Căn Hộ Được Đặt" />
+    <TextStringDefinition InstanceID="0x85B55F8F" TextString="Thời Hạn Thuê: {0.Timespan}" />
+    <TextStringDefinition InstanceID="0x114ADCF6" TextString="Nhập Mô Tả Ở Đây" />
+    <TextStringDefinition InstanceID="0x1EB04088" TextString="Vui lòng nhập tên có độ dài ít nhất {0.Number}" />
+    <TextStringDefinition InstanceID="0x612D04C6" TextString="Bạn có chắc chắn muốn xóa hộ gia đình {0.String}? Hành động này không thể hoàn tác." />
+    <TextStringDefinition InstanceID="0x4C75952C" TextString="Đã Mất:\n{0.String}" />
+    <TextStringDefinition InstanceID="0xB0B9DAAB" TextString="Thông Tin" />
+    <TextStringDefinition InstanceID="0x01D98429" TextString="Đóng" />
+    <TextStringDefinition InstanceID="0x9C0449AF" TextString="Thật không may, chúng tôi không thể chia sẻ lên hồ sơ Facebook của bạn mà không có sự đồng ý của bạn. Vui lòng nhấp vào biểu tượng Facebook để cung cấp sự đồng ý" />
+    <TextStringDefinition InstanceID="0x6B61B1E6" TextString="&lt;span class='exchPackDetail'&gt;&lt;a href='event:clickEvent'&gt;Xem Chi Tiết &gt;&lt;/a&gt;&lt;/span&gt;" />
+    <TextStringDefinition InstanceID="0x2FFF00DA" TextString="Đề Xuất Cho Bạn!" />
+    <TextStringDefinition InstanceID="0x95D0D14A" TextString="Đã Sở Hữu" />
+    <TextStringDefinition InstanceID="0xE1394D07" TextString="Mục Gallery này phải được lưu để xem nội dung cụ thể của gói." />
+    <TextStringDefinition InstanceID="0xDFDEC1C6" TextString="Mục Gallery này không sử dụng nội dung cụ thể của bất kỳ gói nào." />
+    <TextStringDefinition InstanceID="0xAB872061" TextString="Tham Dự Bản Dùng Thử" />
+    <TextStringDefinition InstanceID="0xBB900367" TextString="Sử Dụng Mặt Hàng Từ Các Gói Này" />
+    <TextStringDefinition InstanceID="0x44CBC375" TextString="Miễn Phí" />
+    <TextStringDefinition InstanceID="0x9A6D25FB" TextString="Mua Ngay" />

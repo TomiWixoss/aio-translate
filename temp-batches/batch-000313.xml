@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xFF52734A" TextString="Đơn đăng ký thử thách của bạn có loại lô đất không chính xác. Vui lòng xem lại hướng dẫn thử thách và cập nhật cho phù hợp." />
+    <TextStringDefinition InstanceID="0x478CA9E5" TextString="Đơn đăng ký thử thách của bạn có kích thước lô đất không chính xác. Vui lòng xem lại hướng dẫn thử thách và cập nhật cho phù hợp." />
+    <TextStringDefinition InstanceID="0x4A8626B4" TextString="Đơn đăng ký thử thách không được bao gồm Nội dung Tùy chỉnh. Vui lòng xem lại hướng dẫn thử thách và cập nhật cho phù hợp." />
+    <TextStringDefinition InstanceID="0x61D8203F" TextString="Đơn đăng ký thử thách không được là Phòng. Vui lòng xem lại hướng dẫn thử thách và cập nhật cho phù hợp." />
+    <TextStringDefinition InstanceID="0x768EE803" TextString="Đơn đăng ký chứa hashtag không hợp lệ không được chấp nhận cho thử thách." />
+    <TextStringDefinition InstanceID="0x9D5EDA7B" TextString="Không thể lưu trong giai đoạn Tái Sinh" />
+    <TextStringDefinition InstanceID="0x1DC69153" TextString="Lưu dưới dạng..." />
+    <TextStringDefinition InstanceID="0xFF21AE77" TextString="Quay lại trò chơi" />
+    <TextStringDefinition InstanceID="0xD8E7E4AB" TextString="Không thể thoát trò chơi trong giai đoạn Tái Sinh. Tiến độ sẽ không được lưu. " />
+    <TextStringDefinition InstanceID="0xBC50518B" TextString="Thoát trò chơi" />
+    <TextStringDefinition InstanceID="0x92229B9D" TextString="Ghi chú phát hành" />
+    <TextStringDefinition InstanceID="0xA684C740" TextString="Lựa chọn Gói chỉ có sẵn từ Trình đơn chính." />
+    <TextStringDefinition InstanceID="0x3268F757" TextString="Lựa chọn Gói" />
+    <TextStringDefinition InstanceID="0x439AF8D9" TextString="Trình đơn" />
+    <TextStringDefinition InstanceID="0x0B7D6A3E" TextString="Lưu trò chơi?" />
+    <TextStringDefinition InstanceID="0xB66304D4" TextString="Bạn có muốn lưu trò chơi trước khi thoát về trình đơn chính không?" />
+    <TextStringDefinition InstanceID="0x2944CEBA" TextString="Không thể thoát về trình đơn chính trong giai đoạn Tái Sinh." />
+    <TextStringDefinition InstanceID="0x52AB42A0" TextString="Tùy chọn trò chơi" />
+    <TextStringDefinition InstanceID="0x954BE28D" TextString="Thoát về Trình đơn chính" />
+    <TextStringDefinition InstanceID="0xAC30B949" TextString="Kết thúc Hướng dẫn" />
+    <TextStringDefinition InstanceID="0x05A4294D" TextString="Quản lý Thế giới và Chuyển Hộ gia đình không khả dụng trong chế độ này." />
+    <TextStringDefinition InstanceID="0xFCACB061" TextString="Chỉnh sửa thế giới bị vô hiệu hóa trong giai đoạn Tái Sinh" />
+    <TextStringDefinition InstanceID="0xF77D61EF" TextString="Bạn không thể vào Quản lý Thế giới từ Trình đơn chính nếu không có Hộ gia đình" />
+    <TextStringDefinition InstanceID="0x9178BA74" TextString="Bị vô hiệu hóa bởi hướng dẫn" />
+    <TextStringDefinition InstanceID="0xC6A870B1" TextString="Không thể vào Quản lý Thế giới hoặc Chuyển Hộ gia đình trong Sự kiện." />
+    <TextStringDefinition InstanceID="0x7F7910AC" TextString="Quản lý Thế giới" />
+    <TextStringDefinition InstanceID="0xA56D9058" TextString="Thành tựu chỉ có thể truy cập trong chế độ trực tiếp" />
+    <TextStringDefinition InstanceID="0xDF3CAE20" TextString="Thành tựu" />
+    <TextStringDefinition InstanceID="0x068C78C4" TextString="Mua {0.String} dưới dạng Thuê Nhà Cư trú?" />
+    <TextStringDefinition InstanceID="0x5641F9E1" TextString="Mua Lô đất dưới dạng Thuê Nhà Cư trú" />
+    <TextStringDefinition InstanceID="0x8154A516" TextString="Hộ gia đình {0.String} đang lên kế hoạch mua một Thuê Nhà Cư trú mới!" />
+    <TextStringDefinition InstanceID="0x93E04E56" TextString="Lưu ý: Cư trú sẽ trở thành Thuê Nghỉ dưỡng khi được đặt trong Thế giới Điểm đến." />
+    <TextStringDefinition InstanceID="0xADB0CC85" TextString="Không có điều khoản thuê nghỉ dưỡng nào mà hộ gia đình này có thể chi trả." />
+    <TextStringDefinition InstanceID="0x435B840D" TextString="Gia hạn Thuê Nghỉ dưỡng cho {0.String}?" />
+    <TextStringDefinition InstanceID="0x450022B2" TextString="Bán Thuê Nhà Cư trú" />
+    <TextStringDefinition InstanceID="0xE3AE08B0" TextString="Di chuyển Nhà (U) - Đặt lại vị trí nhà của bạn" />
+    <TextStringDefinition InstanceID="0xBB5A2E1B" TextString="Di chuyển Lô đất - Y" />
+    <TextStringDefinition InstanceID="0x28ADB003" TextString="Tiểu địa điểm lô đất cộng đồng có thể không được đặt nếu không chỉnh sửa." />
+    <TextStringDefinition InstanceID="0x4E072F4D" TextString="Bạn có chắc chắn muốn thay đổi Loại Địa điểm?\nĐiều này sẽ xóa tất cả tiểu địa điểm của bạn." />
+    <TextStringDefinition InstanceID="0x26E3CECF" TextString="Điều này hiện đang hoạt động vì Dự án Không gian Cộng đồng đang hoạt động." />
+    <TextStringDefinition InstanceID="0x4BEE80C3" TextString="Hoạt động" />
+    <TextStringDefinition InstanceID="0x18BC6BCC" TextString="Bán thời gian" />
+    <TextStringDefinition InstanceID="0xD95BE548" TextString="Bạn muốn {M0.anh ấy}{F0.cô ấy} làm gì?" />
+    <TextStringDefinition InstanceID="0xC71AB20E" TextString="&lt;font color=&quot;#AE3CDE&quot;&gt;Diễn viên sẽ cần tham gia một Công ty Tài năng&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x0E7CFA88" TextString="{0.SimFirstName} đang ở nơi làm việc!" />
+    <TextStringDefinition InstanceID="0xC3D26A99" TextString="Đã sở hữu {0.Number}" />
+    <TextStringDefinition InstanceID="0x94635F9C" TextString="Số lượng Mặt hàng có sẵn để Mua" />
+    <TextStringDefinition InstanceID="0x4849A1F5" TextString="Mua {0.String} dưới dạng Kinh doanh?" />
+    <TextStringDefinition InstanceID="0x678A9AA2" TextString="Mua Lô đất dưới dạng Kinh doanh" />
+    <TextStringDefinition InstanceID="0xA7A37A0D" TextString="Gia đình {0.String} đang lên kế hoạch mở một Kinh doanh mới!" />

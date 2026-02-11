@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x6AC0429F" TextString="Mặc dù hoạt động lãng mạn của {0.SimPronounPossessiveDependent} nằm trong ranh giới lãng mạn của đối tác {0.SimPronounPossessiveDependent}, {0.SimFirstName} vẫn có một số cảm giác bất an về chuyện tình cảm với nhiều hơn một Sim. {0.SimFirstName} biết rằng những cảm giác này chỉ là một phần trong hành trình quan hệ của {0.SimPronounPossessiveDependent}. Mọi con đường cũng có vài chỗ gập ghềnh, sau cùng." />
+    <TextStringDefinition InstanceID="0x1313CE53" TextString="Sai Lầm Đạo Đức" />
+    <TextStringDefinition InstanceID="0x28EDB4FC" TextString="{0.SimFirstName} cảm thấy khủng khiếp vì đã phá vỡ ranh giới lãng mạn của đối tác {0.SimPronounPossessiveDependent}." />
+    <TextStringDefinition InstanceID="0x5A6720BB" TextString="Bất An Lâu Dài" />
+    <TextStringDefinition InstanceID="0xB20BFFD4" TextString="{0.SimFirstName} nhận ra cơn ghen tuông, ngay cả khi ranh giới lãng mạn của {0.SimPronounPossessiveDependent} đang được tôn trọng. Có những ranh giới lãng mạn khác nhau không khiến {0.SimPronounObjective} miễn nhiễm với cảm giác bất an. Đó không phải là cảm giác dễ chịu, nhưng {0.SimFirstName} biết đây là một mảnh của bức tranh quan hệ lớn hơn của {0.SimPronounPossessiveDependent}!" />
+    <TextStringDefinition InstanceID="0xC166293A" TextString="Tình Yêu Phản Bội" />
+    <TextStringDefinition InstanceID="0xB7B4A55B" TextString="Người yêu chính thức của {0.SimFirstName} đã phản bội {M0.anh ấy}{F0.cô ấy} và {M0.anh ấy}{F0.cô ấy} nghĩ rằng mối quan hệ đang đi đến đâu đó." />
+    <TextStringDefinition InstanceID="0x071796AE" TextString="Kẻ Thù Thực Sự" />
+    <TextStringDefinition InstanceID="0x08C3B0D7" TextString="Điều đáng ghét nhất trong cuộc sống của {0.SimFirstName} là cung cấp &quot;lợi ích&quot; của mình cho người khác và {M0.anh ấy}{F0.cô ấy} bắt gặp họ trong lúc đang làm vậy." />
+    <TextStringDefinition InstanceID="0x8D029590" TextString="Một Mối Quan Hệ Khác" />
+    <TextStringDefinition InstanceID="0xAB73FDF5" TextString="Người bạn đang quan tâm dường như cũng quan tâm đến người khác. Bạn nên cạnh tranh để lấy sự chú ý của họ hay nên lùi bước?" />
+    <TextStringDefinition InstanceID="0xDE73E1C7" TextString="Vợ/Chồng Lả Lơi" />
+    <TextStringDefinition InstanceID="0x18090EA8" TextString="Vợ/chồng của {0.SimFirstName} đã đong đưa với người khác. Họ có đang làm vậy sau lưng {M0.anh ấy}{F0.cô ấy} không?" />
+    <TextStringDefinition InstanceID="0x4F8C1042" TextString="Đối Tác Đã Đính Hôn Lả Lơi" />
+    <TextStringDefinition InstanceID="0xD571E693" TextString="Đối tác đã đính hôn của {0.SimFirstName} đã đong đưa với một Sim khác. Điều gì đã xảy ra sau lưng {0.SimPronounPossessiveDependent}?" />
+    <TextStringDefinition InstanceID="0x3A13AF8A" TextString="Còn Khó Xử Hơn" />
+    <TextStringDefinition InstanceID="0x92B27D3E" TextString="(ẨN) Cần rất nhiều để thỏa mãn một người mê ăn, và bữa ăn đó chưa thực sự đủ." />
+    <TextStringDefinition InstanceID="0x4C453B87" TextString="Khá Ngon" />
+    <TextStringDefinition InstanceID="0x80A14868" TextString="Đó là một món ăn khá ngon." />
+    <TextStringDefinition InstanceID="0x9D5DDF7A" TextString="Thức Ăn Vô Vị" />
+    <TextStringDefinition InstanceID="0xABFBE79B" TextString="Bữa ăn đó là một trải nghiệm rất không thỏa mãn." />
+    <TextStringDefinition InstanceID="0x04677C66" TextString="Có Thể Ăn Được" />
+    <TextStringDefinition InstanceID="0x4FC9FE3F" TextString="Đồ ăn đó không phải thứ tôi gọi là ngon. Nhưng nó cũng không tệ đến thế." />
+    <TextStringDefinition InstanceID="0x7F66170F" TextString="Thức Ăn Tệ Hại" />
+    <TextStringDefinition InstanceID="0x3BB02740" TextString="Đồ ăn đó tệ hơn là khó nuốt; nó thật kinh khủng!" />
+    <TextStringDefinition InstanceID="0x1887109D" TextString="Vị Còn Lại Tệ" />
+    <TextStringDefinition InstanceID="0xD534F922" TextString="Đồ ăn đó không ngon lắm..." />
+    <TextStringDefinition InstanceID="0x755AEC44" TextString="Ngón Tay Khéo Léo" />
+    <TextStringDefinition InstanceID="0x22D15271" TextString="CUỐI CÙNG cũng tìm ra cách này! Các Sim sẽ không đói vì dụng cụ ăn của họ." />
+    <TextStringDefinition InstanceID="0x33D76218" TextString="Ngón Tay Vụng Về" />
+    <TextStringDefinition InstanceID="0x1ACB39CD" TextString="Chỉ... không... thể... dường như... tìm ra... những thứ này... ra." />
+    <TextStringDefinition InstanceID="0x7161A336" TextString="Đầy Sức Sống!" />
+    <TextStringDefinition InstanceID="0x6B00ACEF" TextString="Ambrosia đó tràn ngập năng lượng phục hồi!" />
+    <TextStringDefinition InstanceID="0x0AB64F94" TextString="Tập Trung Bởi Thuốc" />
+    <TextStringDefinition InstanceID="0x844B99E1" TextString="Tuyệt vời! Uống loại thuốc đó tập trung tư duy như không có gì khác!" />
+    <TextStringDefinition InstanceID="0x6E60BDF9" TextString="Lả Lơi Bởi Thuốc" />
+    <TextStringDefinition InstanceID="0xF796D3E6" TextString="Ồ! Thuốc đó thực sự khiến một Sim cảm thấy lả lơi!" />
+    <TextStringDefinition InstanceID="0xA6973FE4" TextString="Sự Cống Hiến Âm Nhạc" />
+    <TextStringDefinition InstanceID="0xA9581191" TextString="Ai đó đã hứa sẽ dành tặng một bài hát cho Sim này. Thật lãng mạn!" />
+    <TextStringDefinition InstanceID="0xF25C8CCF" TextString="Nụ Hôn Đầu Tiên!" />
+    <TextStringDefinition InstanceID="0x99A8F600" TextString="Chuyển động với cảm xúc đam mê và hạnh phúc sau nụ hôn đầu tiên với một người mới!" />
+    <TextStringDefinition InstanceID="0xBB38F0A3" TextString="Chống Cháy!" />
+    <TextStringDefinition InstanceID="0x96D9A36C" TextString="Chừng nào {0.SimFirstName} mặc đồng phục Lính Cứu Hỏa, {M0.anh ấy}{F0.cô ấy} sẽ có cơ hội tốt hơn để chịu được tác động của lửa và sẽ giỏi hơn trong việc dập tắt đám cháy." />
+    <TextStringDefinition InstanceID="0x8803547F" TextString="Cháy!" />
+    <TextStringDefinition InstanceID="0x56CFCD50" TextString="Cháy! Các Sim phải dập tắt hoặc trốn khỏi đám cháy." />
+    <TextStringDefinition InstanceID="0xD6BB47F4" TextString="Bị Cháy Sém!" />
+    <TextStringDefinition InstanceID="0x97DCDDC1" TextString="Phủ đầu đến chân trong bụi than. Tốt nhất nên rửa sạch thứ này.&#xD;&#xA;" />
+    <TextStringDefinition InstanceID="0xDA4C5A5F" TextString="Tôi Đang Cháy!" />
+    <TextStringDefinition InstanceID="0x289237B0" TextString="Ôi không! Sim này cần được dập tắt...và nhanh lên!" />
+    <TextStringDefinition InstanceID="0xD3914FB0" TextString="(Từ Trạng Thái Đã Bị Cháy Trước Đây)" />

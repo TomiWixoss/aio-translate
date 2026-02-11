@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x7C533E2B" TextString="Mô tả Chiến lược Dejarik" />
+    <TextStringDefinition InstanceID="0x3C3B5CAB" TextString="Lắng nghe {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x432C9DFD" TextString="Mô tả Ý tưởng Mới" />
+    <TextStringDefinition InstanceID="0x1B43E9DA" TextString="Lắng nghe {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x6438D512" TextString="Mô tả Bạn Tưởng Tượng" />
+    <TextStringDefinition InstanceID="0x537EE997" TextString="Nghe {1.SimFirstName} kể về Tận Thế" />
+    <TextStringDefinition InstanceID="0x551733B9" TextString="Mô tả Tận Thế" />
+    <TextStringDefinition InstanceID="0x60E88C71" TextString="Lắng nghe {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x789ABA53" TextString="Mô tả Mỹ Thuật" />
+    <TextStringDefinition InstanceID="0x39E7AA85" TextString="Bị {1.SimFirstName} Lăng Mạ" />
+    <TextStringDefinition InstanceID="0xE29B38A7" TextString="Lên án Tình Bạn" />
+    <TextStringDefinition InstanceID="0x5230DDA2" TextString="Lắng nghe Các Yêu Sầu của {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x07CD62FA" TextString="Đòi Quyền Tự Chủ" />
+    <TextStringDefinition InstanceID="0xBEB825BB" TextString="Trò Chuyện Sâu Sắc với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x22A226AD" TextString="Cuộc Trò Chuyện Sâu Sắc" />
+    <TextStringDefinition InstanceID="0x3A23180B" TextString="Kể Chuyện Cướp Biển" />
+    <TextStringDefinition InstanceID="0x32A6667A" TextString="Chia Sẻ Những Câu Chuyện Về Thử Thách Cá Nhân" />
+    <TextStringDefinition InstanceID="0x2C5367C6" TextString="Tuyên Bố Ngừng Bắn với Kẻ Thù" />
+    <TextStringDefinition InstanceID="0x44949E2D" TextString="Trở Thành Kẻ Thù của {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x06B26CAF" TextString="Tuyên Bố Kẻ Thù" />
+    <TextStringDefinition InstanceID="0x9E7C0783" TextString="La Hét Vì Đã Tạo Kẻ Thù" />
+    <TextStringDefinition InstanceID="0xE8B20A77" TextString="Phạt Tạm Giam Vì Tạo Kẻ Thù" />
+    <TextStringDefinition InstanceID="0xB421DC45" TextString="Ôm Cho Quên Vì Tạo Kẻ Thù" />
+    <TextStringDefinition InstanceID="0x7F61D56F" TextString="Nói Đừng Tạo Kẻ Thù" />
+    <TextStringDefinition InstanceID="0x95F4C810" TextString="Cấm Vì Tạo Kẻ Thù" />
+    <TextStringDefinition InstanceID="0xDE1A77A9" TextString="Hỏi Đừng Tạo Kẻ Thù" />
+    <TextStringDefinition InstanceID="0x881BCD4B" TextString="Thể Hiện Sự Thất Vọng Vì Tạo Kẻ Thù" />
+    <TextStringDefinition InstanceID="0x50E94607" TextString="Khuyến Khích Tạo Kẻ Thù" />
+    <TextStringDefinition InstanceID="0x2538A4A7" TextString="Lớp phủ giúp lò vi sóng luôn sạch sẽ" />
+    <TextStringDefinition InstanceID="0x46B03B0C" TextString="Lớp Phủ Bên Trong" />
+    <TextStringDefinition InstanceID="0x8826D2D0" TextString="Tiếp Tục Nâng Cấp Tự Làm Sạch" />
+    <TextStringDefinition InstanceID="0x744ACDF7" TextString="Khóa Độ Bẩn." />
+    <TextStringDefinition InstanceID="0x9C6C7C3C" TextString="Tự Làm Sạch" />
+    <TextStringDefinition InstanceID="0x83B625C7" TextString="Tiếp Tục Nâng Cấp Tăng Cường Hương Vị" />
+    <TextStringDefinition InstanceID="0xFF9DC5B4" TextString="Lắp đặt tính năng tự làm sạch, Khay Chống Bắn và không bao giờ phải lau chùi lò vi sóng nữa." />
+    <TextStringDefinition InstanceID="0xC426242D" TextString="Tăng Cường Hương Vị" />
+    <TextStringDefinition InstanceID="0x54ABD0E5" TextString="Nâng cấp hoàn tất!\n\n{0.SimFirstName} đã hoàn thành việc lắp đặt nâng cấp lò vi sóng." />
+    <TextStringDefinition InstanceID="0xF2919637" TextString="Làm Sạch Với Năng Lượng" />
+    <TextStringDefinition InstanceID="0xD6DE1F71" TextString="Các Sim được Nạp Năng Lượng làm sạch nhanh hơn rất nhiều!" />
+    <TextStringDefinition InstanceID="0xF5BF7389" TextString="Việc lấy mẫu từ loài thực vật nguy hiểm này đòi hỏi các bầu vú của nó phải đầy ắp nhờ được nuôi dưỡng tốt" />
+    <TextStringDefinition InstanceID="0x642273E2" TextString="{0.SimFirstName} sẽ có thể làm việc này khi {M0.he}{F0.she} trưởng thành." />
+    <TextStringDefinition InstanceID="0x01BBD19D" TextString="Thu Thập Mẫu Kính Hiển Vi" />
+    <TextStringDefinition InstanceID="0x1FA40673" TextString="Tiếp Tục Cải Thiện Chất Lượng Ống Kính" />
+    <TextStringDefinition InstanceID="0x5E5A4489" TextString="Cải Thiện Chất Lượng Ống Kính" />
+    <TextStringDefinition InstanceID="0xE06EF0D1" TextString="Tiếp Tục Hoàn Thiện Cơ Chế Bên Trong" />
+    <TextStringDefinition InstanceID="0x8185F8CF" TextString="Hoàn Thiện Cơ Chế Bên Trong" />
+    <TextStringDefinition InstanceID="0x8D827924" TextString="Tiếp Tục Củng Cố Cơ Chế Bên Trong" />
+    <TextStringDefinition InstanceID="0xC8C9F440" TextString="Củng Cố Cơ Chế Bên Trong" />
+    <TextStringDefinition InstanceID="0x601F3D51" TextString="Nâng cấp lên Ống Kính Không Màu 4000X sẽ tăng cơ hội thành công khi sử dụng Kính Hiển Vi." />
+    <TextStringDefinition InstanceID="0xEA88590D" TextString="Sự hoàn hảo không bao giờ hỏng" />

@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xF398DCDD" TextString="Trang phục" />
+    <TextStringDefinition InstanceID="0xAD62932A" TextString="Vòng cổ" />
+    <TextStringDefinition InstanceID="0x35FFD5A1" TextString="Giống" />
+    <TextStringDefinition InstanceID="0x1C06BA7E" TextString="Mã" />
+    <TextStringDefinition InstanceID="0xFEF66485" TextString="Nội dung tùy chỉnh này không tương thích với hình xăm lớp." />
+    <TextStringDefinition InstanceID="0x5D833A04" TextString="Lớp {0.String}" />
+    <TextStringDefinition InstanceID="0xF9C6A25C" TextString="Tóc ưa thích:" />
+    <TextStringDefinition InstanceID="0x581BE664" TextString="Tóc sẽ tiếp tục mọc trong khi chơi." />
+    <TextStringDefinition InstanceID="0x1F795BD3" TextString="Bật tăng trưởng tóc" />
+    <TextStringDefinition InstanceID="0x983D190E" TextString="Thay đổi {0.String} ưa thích? " />
+    <TextStringDefinition InstanceID="0x35A4AB72" TextString="Lông cơ thể" />
+    <TextStringDefinition InstanceID="0xAE871782" TextString="Việc chọn {0.String} mới sẽ đặt lại tăng trưởng tóc hiện tại của Sim. " />
+    <TextStringDefinition InstanceID="0x37596D4F" TextString="Thay đổi màu {0.String} ưa thích? " />
+    <TextStringDefinition InstanceID="0x2E52BCD7" TextString="Việc chọn màu {0.String} mới sẽ đặt lại tăng trưởng {1.String} hiện tại của Sim. " />
+    <TextStringDefinition InstanceID="0xB5A97D8C" TextString="Khớp Mã" />
+    <TextStringDefinition InstanceID="0xAA436CCA" TextString="Khớp Tóc" />
+    <TextStringDefinition InstanceID="0x4DC24813" TextString="Màu tóc" />
+    <TextStringDefinition InstanceID="0x3D4C2973" TextString="Màu râu mép" />
+    <TextStringDefinition InstanceID="0x95E99770" TextString="Màu lông mày" />
+    <TextStringDefinition InstanceID="0x110E0114" TextString="Phụ huynh không xác định" />
+    <TextStringDefinition InstanceID="0xF7A247EE" TextString="Bạn phải Hoàn thành hoặc Hủy việc tạo Sim mới này." />
+    <TextStringDefinition InstanceID="0xEA76DEF7" TextString="Di truyền" />
+    <TextStringDefinition InstanceID="0xE431A2FA" TextString="Không có Sim Người trong hộ gia đình." />
+    <TextStringDefinition InstanceID="0x21546E7F" TextString="Chọn giống ngẫu nhiên" />
+    <TextStringDefinition InstanceID="0x7810BB53" TextString="Quay lại" />
+    <TextStringDefinition InstanceID="0x5A392EB9" TextString="Phải trẻ hơn phụ huynh" />
+    <TextStringDefinition InstanceID="0x3EB3E4FB" TextString="Phải cùng tuổi với sinh đôi" />
+    <TextStringDefinition InstanceID="0x1A975F55" TextString="Phải lớn tuổi hơn con" />
+    <TextStringDefinition InstanceID="0x8BCFDACD" TextString="Ngẫu nhiên hóa Sinh đôi" />
+    <TextStringDefinition InstanceID="0xBF39CB25" TextString="Ngẫu nhiên hóa {M0.Son}{F0.Daughter}" />
+    <TextStringDefinition InstanceID="0x52A2775E" TextString="Ngẫu nhiên hóa {0.String}" />
+    <TextStringDefinition InstanceID="0xAB360BFD" TextString="Ngẫu nhiên hóa {M0.Father}{F0.Mother}" />
+    <TextStringDefinition InstanceID="0x8D6E985B" TextString="Ngẫu nhiên hóa {M0.Brother}{F0.Sister}" />
+    <TextStringDefinition InstanceID="0x389857D0" TextString="Bị vô hiệu hóa khi đang chọn nguồn di truyền" />
+    <TextStringDefinition InstanceID="0x0A2FA55D" TextString="Chọn một Giống" />
+    <TextStringDefinition InstanceID="0x44677483" TextString="Chọn một Sim" />
+    <TextStringDefinition InstanceID="0x206B0DAD" TextString="Chọn một Thú cưng" />
+    <TextStringDefinition InstanceID="0x33238F2A" TextString="Bị vô hiệu hóa khi đang chơi với Di truyền" />
+    <TextStringDefinition InstanceID="0xD1CA11E2" TextString="Người" />
+    <TextStringDefinition InstanceID="0x773BB19E" TextString="Ngựa" />
+    <TextStringDefinition InstanceID="0x09336927" TextString="Chó" />
+    <TextStringDefinition InstanceID="0x272B49C1" TextString="Mèo" />
+    <TextStringDefinition InstanceID="0x9536E86F" TextString="Anh/Chị/Em" />
+    <TextStringDefinition InstanceID="0x5A5BE19A" TextString="Con" />
+    <TextStringDefinition InstanceID="0xB548C773" TextString="Phụ huynh" />
+    <TextStringDefinition InstanceID="0xB26FE7B3" TextString="Con" />
+    <TextStringDefinition InstanceID="0xD780932B" TextString="Tạo một..." />
+    <TextStringDefinition InstanceID="0x97BA8020" TextString="Tạo {M0.His}{F0.Her}..." />
+    <TextStringDefinition InstanceID="0xE747961D" TextString="Tạo Của Họ..." />
+    <TextStringDefinition InstanceID="0xC36118BE" TextString="Tab tiếp theo" />

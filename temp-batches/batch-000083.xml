@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x4D8AB00E" TextString="Nhấp vào Thùng Rác và chọn Đá." />
+    <TextStringDefinition InstanceID="0xE5877A21" TextString="Chọn Tìm Việc từ Điện Thoại hoặc Máy Tính. Chọn một công việc từ danh sách đã cho." />
+    <TextStringDefinition InstanceID="0x89D36E3B" TextString="Tham gia Sự Nghiệp Phi Hành Gia" />
+    <TextStringDefinition InstanceID="0x0ECB8869" TextString="Nhấp vào Đàn Piano và chọn Chơi Concerto. Tương tác này có thể được mở khóa bằng cách tăng kỹ năng Đàn Piano." />
+    <TextStringDefinition InstanceID="0x90FDFF07" TextString="Chơi Concerto Piano" />
+    <TextStringDefinition InstanceID="0xC594E622" TextString="Nhấp vào Đàn Guitar và chọn Jam. Sim có thể mở khóa Tương tác này bằng cách tăng kỹ năng Đàn Guitar." />
+    <TextStringDefinition InstanceID="0xC94854E0" TextString="Jam trên Đàn Guitar" />
+    <TextStringDefinition InstanceID="0x961788A2" TextString="Thực hiện một Tiểu Phẩm Hài" />
+    <TextStringDefinition InstanceID="0xD5848ADF" TextString="Nhấp vào Micro và chọn Cải Tiến một Tiểu Phẩm Hài. Sim có thể mở khóa tương tác này bằng cách tăng kỹ năng Hài." />
+    <TextStringDefinition InstanceID="0x8301EAFE" TextString="Cải Tiến một Tiểu Phẩm Hài" />
+    <TextStringDefinition InstanceID="0x678F6394" TextString="Nhấp vào Tủ Lạnh hoặc Lò Vi Sóng và chọn bất kỳ tùy chọn liên quan đến việc nấu Ăn. Hoặc nhấp vào bất kỳ vật phẩm thực phẩm nào và chọn Ăn." />
+    <TextStringDefinition InstanceID="0xF367FF84" TextString="Giữ Động Cơ Đói Cao trong 6 Giờ" />
+    <TextStringDefinition InstanceID="0x5DE18A7E" TextString="Ôm {2.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x19F78D3A" TextString="Nhấp vào một Sim và chọn Ôm từ danh mục Lãng Mạn." />
+    <TextStringDefinition InstanceID="0xB5C128F9" TextString="Ôm Ai Đó" />
+    <TextStringDefinition InstanceID="0xA6BAAC21" TextString="Nhấp vào Bồn Tắm Nóng và chọn Nâng Cấp. Phụ Tùng Nâng Cấp có thể được mua từ Máy Tính" />
+    <TextStringDefinition InstanceID="0xE680C02F" TextString="Nâng Cấp Bồn Tắm Nóng để Bất Khả Phá Hoại" />
+    <TextStringDefinition InstanceID="0x89E5901D" TextString="Nhấp vào Bồn Tắm Nóng và chọn Nâng Cấp. Phụ Tùng Nâng Cấp có thể được mua từ Máy Tính." />
+    <TextStringDefinition InstanceID="0x0716DE13" TextString="Nâng Cấp Bồn Tắm Nóng với Hệ Thống Âm Thanh" />
+    <TextStringDefinition InstanceID="0x6526DE30" TextString="Nhấp vào Bồn Tắm Nóng và chọn Nâng Cấp. Phụ Tùng Nâng Cấp có thể được mua từ Máy Tính." />
+    <TextStringDefinition InstanceID="0x50EFA2D8" TextString="Nâng Cấp Bồn Tắm Nóng để có Aromatherapy" />
+    <TextStringDefinition InstanceID="0x81454A0C" TextString="Chọn điện thoại của Sim, nhấp vào ứng dụng Xã Hội, sau đó chọn Lập Kế Hoạch Sự Kiện Xã Hội! Điền tất cả các vai trò cần thiết, đảm bảo Sim của bạn là người tổ chức, chọn địa điểm và nhấp Bắt Đầu!" />
+    <TextStringDefinition InstanceID="0x24AA67EC" TextString="Tổ Chức một Bữa Tiệc" />
+    <TextStringDefinition InstanceID="0x162F888A" TextString="Nhấp vào Bài Tập về Nhà và chọn Làm Bài Tập Thêm. Sim có thể mở khóa tương tác này bằng cách là Học Sinh Loại A hoặc B và hoàn thành Bài Tập về Nhà." />
+    <TextStringDefinition InstanceID="0x75768FE6" TextString="Nhấp vào Bài Tập về Nhà và chọn Làm Bài Tập Thêm. Sim có thể mở khóa tương tác này bằng cách là Học Sinh Loại A hoặc B và hoàn thành Bài Tập về Nhà." />
+    <TextStringDefinition InstanceID="0x90F80ACA" TextString="Nhấp vào Bài Tập về Nhà và chọn Làm Bài Tập về Nhà. Đừng quên kiểm tra kho đồ của Sim!" />
+    <TextStringDefinition InstanceID="0xF1318932" TextString="Nhấp vào Bài Tập về Nhà và chọn Làm Bài Tập Bù. Đừng quên kiểm tra kho đồ của Sim!" />
+    <TextStringDefinition InstanceID="0xE014E441" TextString="Hoàn Thành Bài Tập Bù" />
+    <TextStringDefinition InstanceID="0x3398009E" TextString="Nhấp vào Bài Tập về Nhà và chọn Làm Bài Tập Thêm. Sim có thể mở khóa tương tác này bằng cách là Học Sinh Loại A hoặc B và hoàn thành Bài Tập về Nhà." />
+    <TextStringDefinition InstanceID="0xA3ADBCAD" TextString="Hoàn Thành Bài Tập Thêm" />
+    <TextStringDefinition InstanceID="0xCC0A1112" TextString="Nhấp vào Bài Tập về Nhà và chọn Làm Bài Tập về Nhà. Đừng quên kiểm tra kho đồ của Sim!" />
+    <TextStringDefinition InstanceID="0xE5856461" TextString="Hoàn Thành Bài Tập về Nhà" />
+    <TextStringDefinition InstanceID="0x0172FB66" TextString="Nhấp vào {2.SimFirstName} và chọn tương tác xã hội Nắm Tay từ danh mục Lãng Mạn." />
+    <TextStringDefinition InstanceID="0x462D6F16" TextString="Nắm Tay với {2.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x3CF42A94" TextString="Nhấp vào một Sim và chọn Thúc Đụng Hông từ danh mục Thân Thiện. Sim có thể thực hiện tương tác xã hội này khi có năng lượng." />
+    <TextStringDefinition InstanceID="0x584B6E33" TextString="Thúc Đụng Hông Ai Đó!" />
+    <TextStringDefinition InstanceID="0x17119BCD" TextString="Nhấp vào Giường và chọn Ẩn Mình khỏi Mọi Người. Sim có thể thực hiện tương tác này khi bị Lúng Túng." />
+    <TextStringDefinition InstanceID="0xCC2D6204" TextString="Nhấp vào Tủ Lạnh, chọn Nấu một Bữa Ăn Cao Cấp, và chọn công thức từ danh sách." />
+    <TextStringDefinition InstanceID="0x8A301C3A" TextString="Chuẩn Bị Butternut Gnocchi" />
+    <TextStringDefinition InstanceID="0x318C20BA" TextString="Nhấp vào Tủ Lạnh, chọn Nấu một Bữa Ăn Cao Cấp, và chọn công thức từ danh sách." />
+    <TextStringDefinition InstanceID="0xCAAB8448" TextString="Chuẩn Bị Baked Alaska" />
+    <TextStringDefinition InstanceID="0x6EFD9F96" TextString="Nhấp vào Tủ Lạnh, chọn Nấu Ăn, và chọn một công thức từ danh sách." />
+    <TextStringDefinition InstanceID="0xBEBB86C4" TextString="Nướng Bánh Táo" />
+    <TextStringDefinition InstanceID="0x4D76C6F7" TextString="Đi đến Thư Viện bằng cách mở Bản Đồ Thế Giới và nhấp vào Địa Điểm. Khi đến đó, nhấp vào Máy Tính và chọn một chủ đề để Nghiên Cứu dưới danh mục Web. Sim có thể mở khóa các chủ đề mới để Nghiên Cứu bằng cách tăng các Kỹ Năng cụ thể!" />
+    <TextStringDefinition InstanceID="0x3340F0FF" TextString="Nhấp vào Máy Tính và chọn một chủ đề để Nghiên Cứu dưới danh mục Web. Sim có thể mở khóa các chủ đề mới để Nghiên Cứu bằng cách tăng các Kỹ Năng cụ thể!" />
+    <TextStringDefinition InstanceID="0x87D4D45E" TextString="Nghiên Cứu trên Máy Tính" />
+    <TextStringDefinition InstanceID="0xF7375FFE" TextString="Nhấp vào Máy Tính, chọn Hài, và chọn Soạn Thảo Tiểu Phẩm Hài Trung Bình." />
+    <TextStringDefinition InstanceID="0x830B8D4D" TextString="Soạn Thảo một Tiểu Phẩm Hài Trung Bình" />
+    <TextStringDefinition InstanceID="0xF3CDD4B9" TextString="Nhấp vào Máy Tính, chọn Hài, và chọn Soạn Thảo Tiểu Phẩm Hài Dài." />
+    <TextStringDefinition InstanceID="0x1F1C5A28" TextString="Soạn Thảo một Tiểu Phẩm Hài Dài" />

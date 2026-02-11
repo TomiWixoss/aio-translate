@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x55771A32" TextString="Số ngày đến tuổi trưởng thành: {0.Number}" />
+    <TextStringDefinition InstanceID="0xD3F34009" TextString="Sim của bạn đã sống một cuộc đời dài và tràn đầy và không thể lên tuổi nữa." />
+    <TextStringDefinition InstanceID="0xA939F48B" TextString="Sim của bạn đã sẵn sàng lên tuổi! Thực hiện tương tác Thổi Nến, Ước Mơ, hoặc Nếm Phủ Sữa trên Bánh Sinh Nhật để nâng cấp Sim." />
+    <TextStringDefinition InstanceID="0xF234AAB8" TextString="Thống kê Sim" />
+    <TextStringDefinition InstanceID="0x2613D19D" TextString="Điểm Câu lạc bộ:" />
+    <TextStringDefinition InstanceID="0x3595E691" TextString="Mở Trình quản lý Câu lạc bộ" />
+    <TextStringDefinition InstanceID="0xEE23D245" TextString="{0.SimFirstName} không thuộc câu lạc bộ nào." />
+    <TextStringDefinition InstanceID="0x137CCA29" TextString="Tham gia/Tạo Câu lạc bộ (còn {0.Number})" />
+    <TextStringDefinition InstanceID="0x5F1660DC" TextString="Tham gia Câu lạc bộ" />
+    <TextStringDefinition InstanceID="0x8E39AA6D" TextString="Tụ họp Đang hoạt động" />
+    <TextStringDefinition InstanceID="0xA7B8392A" TextString="Bất kỳ nhóm tụ họp nào sẽ bị giải tán khi bắt đầu một Tụ họp Câu lạc bộ mới." />
+    <TextStringDefinition InstanceID="0x4C152318" TextString="Đang Tụ họp" />
+    <TextStringDefinition InstanceID="0x2DC30FF2" TextString="Câu lạc bộ" />
+    <TextStringDefinition InstanceID="0xC9499013" TextString="Thay đổi" />
+    <TextStringDefinition InstanceID="0xC594E19D" TextString="Yêu cầu" />
+    <TextStringDefinition InstanceID="0xF287CF69" TextString="Thay đổi" />
+    <TextStringDefinition InstanceID="0x6BCC4450" TextString="Không có Sim được chọn." />
+    <TextStringDefinition InstanceID="0xBE4DB5E1" TextString="Không có Sim nào khả dụng trên lô đất." />
+    <TextStringDefinition InstanceID="0xDBD28057" TextString="Không có cuộc thi nào được chọn" />
+    <TextStringDefinition InstanceID="0x42C17657" TextString="Bây giờ bạn có thể tham gia vào {0.String}!" />
+    <TextStringDefinition InstanceID="0x13BE1E62" TextString="Giải thưởng" />
+    <TextStringDefinition InstanceID="0xEA9D59B7" TextString="Vị trí" />
+    <TextStringDefinition InstanceID="0xDB27F829" TextString="Đặc điểm Lô đất" />
+    <TextStringDefinition InstanceID="0xB5202BA0" TextString="Ảnh của bạn có thể được xem trong Trình quản lý Ảnh chụp màn hình, nằm trong Tùy chọn Máy ảnh ở Chế độ Sống." />
+    <TextStringDefinition InstanceID="0xDD3CD27C" TextString="Lưu và Đi đến Quản lý Thế giới" />
+    <TextStringDefinition InstanceID="0xDF7DD87A" TextString="&lt;b&gt;Chuyển sang hộ gia đình khác sẽ hủy bỏ mọi Chuyến đi hiện tại hoặc sắp tới vĩnh viễn.&lt;/b&gt;" />
+    <TextStringDefinition InstanceID="0x79311478" TextString="Bạn có muốn lưu trò chơi trước khi đi đến Quản lý Thế giới?" />
+    <TextStringDefinition InstanceID="0x265FEA8E" TextString="Trò chơi không ở trạng thái có thể lưu được. Đi đến Quản lý Thế giới có thể dẫn đến mất dữ liệu." />
+    <TextStringDefinition InstanceID="0x7369B6DC" TextString="Chỉ Đi đến Quản lý Thế giới" />
+    <TextStringDefinition InstanceID="0x6E91CCA5" TextString="Bạn có chắc chắn muốn đi đến Quản lý Thế giới? Địa điểm của bạn vẫn chưa hoàn thành, những thay đổi của bạn sẽ bị mất." />
+    <TextStringDefinition InstanceID="0x0395D718" TextString="Lưu trò chơi thất bại vì trò chơi không thể lưu được vào lúc này." />
+    <TextStringDefinition InstanceID="0x102E2B84" TextString="Đang lưu" />
+    <TextStringDefinition InstanceID="0x9CC274DA" TextString="Lưu và Khởi động lại" />
+    <TextStringDefinition InstanceID="0xE14AD86C" TextString="Khởi động lại Trò chơi" />
+    <TextStringDefinition InstanceID="0x3C66168D" TextString="Bạn có chắc chắn muốn khởi động lại trò chơi?" />
+    <TextStringDefinition InstanceID="0x210056E8" TextString="Trò chơi hiện đang ở trạng thái không thể lưu được.&lt;br&gt;&lt;br&gt;CẢNH BÁO: dữ liệu có thể bị mất nếu bạn khởi động lại. Bạn vẫn muốn khởi động lại?" />
+    <TextStringDefinition InstanceID="0xA61E1E39" TextString="Bạn có chắc chắn muốn khởi động lại trò chơi?" />
+    <TextStringDefinition InstanceID="0x064EAD42" TextString="Bạn có chắc chắn muốn thoát trò chơi?" />
+    <TextStringDefinition InstanceID="0x0BAA304A" TextString="Lưu Trò chơi?" />
+    <TextStringDefinition InstanceID="0x5580EDEA" TextString="Lưu và Thoát" />
+    <TextStringDefinition InstanceID="0x6C2F0F77" TextString="Thoát Trò chơi" />
+    <TextStringDefinition InstanceID="0x8B6E2E22" TextString="Thoát về Trình đơn chính" />
+    <TextStringDefinition InstanceID="0x35B35AA6" TextString="Bạn có chắc chắn muốn thoát trò chơi?" />
+    <TextStringDefinition InstanceID="0xB1F71F27" TextString="Không thể Lưu" />
+    <TextStringDefinition InstanceID="0x85F765AF" TextString="Trò chơi hiện đang ở trạng thái không thể lưu được.&lt;br&gt;&lt;br&gt;CẢNH BÁO: dữ liệu có thể bị mất nếu bạn thoát. Bạn vẫn muốn thoát?" />
+    <TextStringDefinition InstanceID="0x4B45C316" TextString="{0.Number}" />
+    <TextStringDefinition InstanceID="0x9CA42C29" TextString="Trước" />
+    <TextStringDefinition InstanceID="0x7941B194" TextString="Sau" />
+    <TextStringDefinition InstanceID="0x89C9F981" TextString="&lt;span class=&quot;positiveFunds&quot;&gt;+  {0.Money}&lt;/span&gt;" />
+    <TextStringDefinition InstanceID="0xA79A7EE5" TextString="&lt;span class=&quot;neutralFunds&quot;&gt;{0.Money}&lt;/span&gt;" />

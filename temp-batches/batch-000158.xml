@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xCEA0B3AD" TextString="Sửa chữa ma quái" />
+    <TextStringDefinition InstanceID="0x3F16AFD4" TextString="{0.SimFirstName} sắp sinh con! Theo {0.SimFirstName} đến bệnh viện?" />
+    <TextStringDefinition InstanceID="0xFF156CCF" TextString="Chờ xếp hàng" />
+    <TextStringDefinition InstanceID="0xA5462414" TextString="Chờ xếp hàng tại {1.ObjectName}" />
+    <TextStringDefinition InstanceID="0xB925B9DA" TextString="Lên xe đạp" />
+    <TextStringDefinition InstanceID="0x6BBDFF0C" TextString="Ngồi trên xe đạp" />
+    <TextStringDefinition InstanceID="0x0875781E" TextString="Đạp xe" />
+    <TextStringDefinition InstanceID="0x50F43C5E" TextString="Ân ái" />
+    <TextStringDefinition InstanceID="0x5D7BAD59" TextString="Ngồi" />
+    <TextStringDefinition InstanceID="0x0AE3A5CC" TextString="Thư giãn" />
+    <TextStringDefinition InstanceID="0xA3FDAB68" TextString="Loại bỏ những đám cháy ngoài ý muốn với lớp hoàn thiện Ultra-Tempered Fireguard." />
+    <TextStringDefinition InstanceID="0x683C4719" TextString="Bảo vệ cháy" />
+    <TextStringDefinition InstanceID="0x656BC80E" TextString="Dành cho Sim muốn lò sưởi được bật khi họ bước vào phòng" />
+    <TextStringDefinition InstanceID="0x3FE4ACA3" TextString="Tự động bật" />
+    <TextStringDefinition InstanceID="0xCE4F2657" TextString="Nâng cấp hoàn tất!\n\n{0.SimFirstName} đã hoàn thành việc cài đặt nâng cấp lò sưởi." />
+    <TextStringDefinition InstanceID="0x6699F819" TextString="Lò sưởi phải được tắt để nâng cấp." />
+    <TextStringDefinition InstanceID="0x48CB2A38" TextString="Dập tắt" />
+    <TextStringDefinition InstanceID="0x7D85B5A9" TextString="Bật" />
+    <TextStringDefinition InstanceID="0x329D031F" TextString="Bật Tự động bật" />
+    <TextStringDefinition InstanceID="0xF54DE549" TextString="Tắt Tự động bật" />
+    <TextStringDefinition InstanceID="0x4F2AD5DF" TextString="Dập tắt bản thân trước!" />
+    <TextStringDefinition InstanceID="0xFF93520C" TextString="Đám cháy đã được dập tắt. Lần sau hãy cẩn thận hơn một chút, được chứ?" />
+    <TextStringDefinition InstanceID="0xB4AA8DF6" TextString="Chúng ta không thể tiếp cận đám cháy! Có thứ gì đó đang chặn đường! Ôi không!" />
+    <TextStringDefinition InstanceID="0xD8F6420B" TextString="Vô hiệu hóa" />
+    <TextStringDefinition InstanceID="0xBB9B027A" TextString="Thay thế" />
+    <TextStringDefinition InstanceID="0x2F2ABD2B" TextString="Hưng phấn vì lửa" />
+    <TextStringDefinition InstanceID="0x8B1A8CF1" TextString="CHÁY!" />
+    <TextStringDefinition InstanceID="0xB67E707D" TextString="Đang cháy!" />
+    <TextStringDefinition InstanceID="0x43E0976F" TextString="(Do bị cháy)" />
+    <TextStringDefinition InstanceID="0x8B9A1340" TextString="Dập tắt bản thân!" />
+    <TextStringDefinition InstanceID="0x85E238D6" TextString="Dập tắt" />
+    <TextStringDefinition InstanceID="0xFFCE8CB6" TextString="{0.SimFirstName} thà thấy đám cháy này cháy hơn!" />
+    <TextStringDefinition InstanceID="0x0BD45565" TextString="Nấm mốc phải bị cháy trước khi làm việc này." />
+    <TextStringDefinition InstanceID="0xFDF99FA7" TextString="Để vật thể cháy hết trước." />
+    <TextStringDefinition InstanceID="0xE0CAD273" TextString="Không thể dập tắt lửa khi đang mang vác đồ." />
+    <TextStringDefinition InstanceID="0xAE91C7AA" TextString="Sức chứa chuồng" />
+    <TextStringDefinition InstanceID="0xDC0ABBC4" TextString="Đặt động vật" />
+    <TextStringDefinition InstanceID="0x437D9751" TextString="Đặt {2.String}" />
+    <TextStringDefinition InstanceID="0xB0628C91" TextString="Điều này chỉ có thể thực hiện tại Lô nhà." />
+    <TextStringDefinition InstanceID="0x8582ACBB" TextString="Đổ đầy" />
+    <TextStringDefinition InstanceID="0x16ACEF51" TextString="(Từ khoe công việc)" />
+    <TextStringDefinition InstanceID="0x63C5D66D" TextString="Phản ứng tiêu cực về thể hình" />
+    <TextStringDefinition InstanceID="0x137C50A0" TextString="Mở khóa chân dung" />
+    <TextStringDefinition InstanceID="0x24D417E0" TextString="Dùng trang phục bơi" />
+    <TextStringDefinition InstanceID="0xFD462374" TextString="Dùng trang phục ngủ" />
+    <TextStringDefinition InstanceID="0x6C94CE61" TextString="Dùng trang phục dự tiệc" />
+    <TextStringDefinition InstanceID="0x4BFB6508" TextString="Dùng trang phục trang trọng" />
+    <TextStringDefinition InstanceID="0xF1DFF2E8" TextString="Dùng trang phục hàng ngày" />
+    <TextStringDefinition InstanceID="0x45A58BF9" TextString="Dùng trang phục thể thao" />
+    <TextStringDefinition InstanceID="0xDB709C63" TextString="Ngẫu nhiên tư thế" />

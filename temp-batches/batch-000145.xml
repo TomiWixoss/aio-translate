@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x4C2863B5" TextString="Bạn không thể chia tách hộ gia đình khi có Sự Kiện Xã Hội hoặc đang làm việc." />
+    <TextStringDefinition InstanceID="0x95091CF7" TextString="Bạn không thể chia tách hộ gia đình khi đang đi làm." />
+    <TextStringDefinition InstanceID="0x8FDAE170" TextString="Kiểm Tra Dòng Thời Gian Mạng Xã Hội" />
+    <TextStringDefinition InstanceID="0x81DF73C9" TextString="Quá mệt mỏi từ mạng xã hội." />
+    <TextStringDefinition InstanceID="0x8FE8B9CF" TextString="Thêm vào Câu Chuyện Simstagram" />
+    <TextStringDefinition InstanceID="0x5D82C63C" TextString="Đi Du Lịch" />
+    <TextStringDefinition InstanceID="0x9CD70726" TextString="Đi Nghỉ" />
+    <TextStringDefinition InstanceID="0x5D196244" TextString="{0.SimFirstName} quá lo lắng về vụ bắt cóc người ngoài hành tinh để làm việc này ngay bây giờ! Hoàn thành hoặc hủy Kịch Bản để Đi Nghỉ." />
+    <TextStringDefinition InstanceID="0xE4E63E09" TextString="Bạn không thể đi nghỉ khi có Sự Kiện Xã Hội hoặc đang làm việc." />
+    <TextStringDefinition InstanceID="0xD618EA65" TextString="Đi Nghỉ..." />
+    <TextStringDefinition InstanceID="0xADB4B6E7" TextString="Mời tối đa 7 Sim khác đi nghỉ cùng." />
+    <TextStringDefinition InstanceID="0xFF3D7969" TextString="Không ai mà {0.SimFirstName} biết đủ điều kiện để tham gia chuyến nghỉ." />
+    <TextStringDefinition InstanceID="0xB7FCB2AE" TextString="Mời một Sim đi nghỉ cùng bạn." />
+    <TextStringDefinition InstanceID="0x938095ED" TextString="Yêu Cầu Tạo Một Buổi Hẹn Hò với" />
+    <TextStringDefinition InstanceID="0x5536EDE6" TextString="Yêu Cầu Tạo Một Cuộc Hẹn với" />
+    <TextStringDefinition InstanceID="0x76976D6F" TextString="Quyên Góp Tiền Thừa Kế cho Từ Thiện" />
+    <TextStringDefinition InstanceID="0x614404E2" TextString="Quyên Góp Tiền Thừa Kế cho Từ Thiện" />
+    <TextStringDefinition InstanceID="0x6EE1737C" TextString="Đốt Tiền Thừa Kế" />
+    <TextStringDefinition InstanceID="0xDE4AB123" TextString="Nghỉ Hưu" />
+    <TextStringDefinition InstanceID="0x0BB20E7E" TextString="Bạn có chắc {0.SimFirstName} nên nghỉ hưu?\n\nNếu {M0.he}{F0.she} làm vậy, một khoản thanh toán hàng ngày sẽ được thực hiện dựa trên lương theo giờ hiện tại của {M0.his}{F0.her}." />
+    <TextStringDefinition InstanceID="0xB91D560B" TextString="Tăng Tốc Gửi Thư" />
+    <TextStringDefinition InstanceID="0x0205D5B2" TextString="Thư của bạn sẽ đến sớm!" />
+    <TextStringDefinition InstanceID="0x9A36773B" TextString="Đặt Hoa Chết" />
+    <TextStringDefinition InstanceID="0x41A7E0BB" TextString="Thoát Hoạt Học Ngoại Khóa" />
+    <TextStringDefinition InstanceID="0x176F30E4" TextString="(Từ Việc Thôi Nghề Nghiệp)" />
+    <TextStringDefinition InstanceID="0x3368070E" TextString="Gọi Cuộc Gọi Chơi Khăm" />
+    <TextStringDefinition InstanceID="0xEE9E5B9D" TextString="Đồ nhỏ xíu! Có phải tôi sinh ra ngày hôm qua không? Tôi không đủ ngốc để mắc bẫy trò đùa ngớ ngẩn của bạn." />
+    <TextStringDefinition InstanceID="0x16DC93F1" TextString="Rất vui, tôi đã nghe trò đùa đó rồi. Lần sau hãy thử thông minh hơn một chút!" />
+    <TextStringDefinition InstanceID="0x7A9F02AE" TextString="Bạn không thể lừa tôi, đây là {0.SimName} tôi đang nói chuyện! Lần sau hãy thử chơi khăm ai đó dễ tin hơn." />
+    <TextStringDefinition InstanceID="0x7FA9C448" TextString="Bạn đang nói về cái gì? Tôi không đăng quảng cáo bán lạc đà ba chân! Không, bạn không thể đến lấy nó!" />
+    <TextStringDefinition InstanceID="0x323DE169" TextString="Ồ, tôi trúng giải lớn? Tôi thậm chí không tham gia cuộc thi. Tôi không thể chờ giải thưởng của tôi xuất hiện!" />
+    <TextStringDefinition InstanceID="0x821D29DA" TextString="Một lô hàng 100 con lạc đà đang đến nhà tôi? Tôi không đặt hàng đó. Phải có lỗi gì đó!" />
+    <TextStringDefinition InstanceID="0xCB8892B2" TextString="Cái gì? Nói to lên, tôi không nghe thấy bạn... Thực ra tôi có thể nghe thấy bạn, và tôi biết bạn đang chơi khăm tôi!" />
+    <TextStringDefinition InstanceID="0xE7A9EF29" TextString="Ồ rất vui {0.SimFirstName}, lần sau hãy thử cuộc gọi chơi khăm ở chỗ khác!" />
+    <TextStringDefinition InstanceID="0x6EB7684E" TextString="Cái gì?! Ở nhà tôi ngay bây giờ? Tôi, ừm, tôi phải đi {0.SimFirstName}!" />
+    <TextStringDefinition InstanceID="0xE72C6D8C" TextString="{0.SimFirstName} quá xấu hổ về cuộc gọi chơi khăm lần trước để thử một lần nữa ngay bây giờ." />
+    <TextStringDefinition InstanceID="0xA8B06FA6" TextString="Hừm, tôi không đặt pizza, nhưng tôi rất sẵn lòng nhận một cái. Nghe thật ngon lành! Bạn là một người bán hàng khá giỏi!" />
+    <TextStringDefinition InstanceID="0xE9A902B8" TextString="Trốn Học/Trốn Làm" />
+    <TextStringDefinition InstanceID="0x8E8BE825" TextString="Bạn không nghe có vẻ ốm với tôi, {0.SimLastName}! Hẹn sớm gặp lại!" />
+    <TextStringDefinition InstanceID="0x30CD8FA9" TextString="Ồ, chắc chắn rồi, {0.SimFirstName}. Bạn nghỉ ngơi và cảm thấy khỏe hơn." />
+    <TextStringDefinition InstanceID="0x88895880" TextString="{0.SimFirstName} nên đợi một chút trước khi thử trốn học/làm lại." />
+    <TextStringDefinition InstanceID="0x0F3A2A3E" TextString="Buộc Bản Thân Chơi Game" />
+    <TextStringDefinition InstanceID="0x251DC916" TextString="Đi Nghỉ" />
+    <TextStringDefinition InstanceID="0x73849531" TextString="Không thể bắt đầu một Sự Kiện Xã Hội mới khi một sự kiện đang diễn ra hoặc đang làm việc." />
+    <TextStringDefinition InstanceID="0x831A67BE" TextString="Trẻ em không thể lập kế hoạch Sự Kiện Xã Hội." />
+    <TextStringDefinition InstanceID="0x8B8ADC13" TextString="Bạn không thể lập kế hoạch Sự Kiện Xã Hội nếu bạn không được chào đón." />
+    <TextStringDefinition InstanceID="0xAD0D9133" TextString="Đồ tạp hóa đang trên đường đến rồi!" />
+    <TextStringDefinition InstanceID="0x5626392F" TextString="Dịch Vụ Giao Đồ Ăn Zoomers đang trên đường đến rồi!" />
+    <TextStringDefinition InstanceID="0x88F2A5A6" TextString="Trẻ em không thể Mua hoặc Bán Ngựa." />
+    <TextStringDefinition InstanceID="0xAA2291AD" TextString="Không có Ngựa nào trong Hộ Gia Đình này." />

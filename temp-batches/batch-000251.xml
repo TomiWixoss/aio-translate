@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xE5790779" TextString="Chủ nhà đã gửi bạn {1.Money} vì đã giúp giải quyết vấn đề." />
+    <TextStringDefinition InstanceID="0xD3F9D531" TextString="Chủ nhà đã gửi bạn {1.Money} để xin lỗi vì sự bất tiện." />
+    <TextStringDefinition InstanceID="0x63F734F3" TextString="Sau nhiều cân nhắc, {1.SimFirstName} không muốn {0.SimFirstName} chuyển đến sống cùng {M1.him}{F1.her} ngay bây giờ." />
+    <TextStringDefinition InstanceID="0x483EABF1" TextString="Có vẻ như {1.SimFirstName} không muốn chuyển đến ngay bây giờ." />
+    <TextStringDefinition InstanceID="0x0C839FB8" TextString="(Từ việc bị bỏ rơi ở bàn thờ)" />
+    <TextStringDefinition InstanceID="0x5B7A3957" TextString="(Từ việc lạm chân)" />
+    <TextStringDefinition InstanceID="0x7C34C15D" TextString="(Từ việc tái nguyện)" />
+    <TextStringDefinition InstanceID="0x28ED5834" TextString="(Từ hôn nhân)" />
+    <TextStringDefinition InstanceID="0xC253B2F6" TextString="(Từ việc tái nguyện)" />
+    <TextStringDefinition InstanceID="0xEBE98FCB" TextString="(Từ việc làm mặt ngốc)" />
+    <TextStringDefinition InstanceID="0x984140BB" TextString="(Từ việc thư giãn trong ghế bành)" />
+    <TextStringDefinition InstanceID="0x15A7C734" TextString="Hộ gia đình ngoài lưới này đang tạo ra thặng dư nước. Các vật thể sử dụng nước sẽ hoạt động hoàn toàn bình thường miễn là lượng nước được tạo ra nhiều hơn lượng đang sử dụng. " />
+    <TextStringDefinition InstanceID="0x0DA28CFA" TextString="Hộ gia đình ngoài lưới này đã sử dụng hết nguồn nước dự trữ cuối cùng. Cho đến khi đạt được thặng dư nước, các vật thể cần nước sẽ không hoạt động bình thường hoặc hoàn toàn ngừng hoạt động." />
+    <TextStringDefinition InstanceID="0x2DDFB9CA" TextString="Hộ gia đình này đã được kết nối lại với lưới tiện ích. Các vật thể sử dụng nước và điện sẽ hoạt động ngay cả khi không có thặng dư tiện ích, và hóa đơn tiện ích sẽ được tiếp tục. " />
+    <TextStringDefinition InstanceID="0x0F6BB540" TextString="Hộ gia đình ngoài lưới này đang tạo ra thặng dư điện. Các vật thể sử dụng điện sẽ hoạt động hoàn toàn bình thường miễn là lượng điện được tạo ra nhiều hơn lượng đang sử dụng. " />
+    <TextStringDefinition InstanceID="0x4E22FC98" TextString="Hộ gia đình ngoài lưới này đã sử dụng hết nguồn điện dự trữ cuối cùng. Cho đến khi đạt được thặng dư điện, các vật thể cần điện sẽ không hoạt động bình thường hoặc hoàn toàn ngừng hoạt động." />
+    <TextStringDefinition InstanceID="0x1275BD78" TextString="(Từ việc ăn côn trùng khi ở ngoài lưới)" />
+    <TextStringDefinition InstanceID="0x1D066850" TextString="(Từ việc dọn dẹp khi ở ngoài lưới)" />
+    <TextStringDefinition InstanceID="0x0B6F4CDD" TextString="Giá trị tài sản của gia đình {0.SimLastName} hiện trên §250k!\n\n{0.SimPronounPossessiveDependent|xxUpper} nhu cầu được đáp ứng tốt hơn và sẽ suy giảm chậm hơn!" />
+    <TextStringDefinition InstanceID="0x560C7E47" TextString="Giá trị tài sản của gia đình {0.SimLastName} hiện trên §175k!\n\n{0.SimPronounPossessiveDependent|xxUpper} nhu cầu được đáp ứng tốt hơn và sẽ suy giảm chậm hơn!" />
+    <TextStringDefinition InstanceID="0x21914EB7" TextString="Giá trị tài sản của gia đình {0.SimLastName} hiện trên §100k!\n\n{0.SimPronounPossessiveDependent|xxUpper} nhu cầu được đáp ứng tốt hơn và sẽ suy giảm chậm hơn!" />
+    <TextStringDefinition InstanceID="0x3693398B" TextString="Giá trị tài sản của gia đình {0.SimLastName} hiện trên §50k!\n\n{0.SimPronounPossessiveDependent|xxUpper} nhu cầu được đáp ứng tốt hơn và sẽ suy giảm chậm hơn!" />
+    <TextStringDefinition InstanceID="0x560F9BB9" TextString="Giá trị tài sản của gia đình {0.SimLastName} hiện trên §25k!\n\n{0.SimPronounPossessiveDependent|xxUpper} nhu cầu được đáp ứng tốt hơn và sẽ suy giảm chậm hơn!" />
+    <TextStringDefinition InstanceID="0xD1E47684" TextString="Giá trị tài sản của gia đình {0.SimLastName} giảm xuống dưới §250k!\n\n{0.SimPronounPossessiveDependent|xxUpper} nhu cầu không được đáp ứng tốt như trước và sẽ suy giảm nhanh hơn!" />
+    <TextStringDefinition InstanceID="0xF0E59002" TextString="Giá trị tài sản của gia đình {0.SimLastName} giảm xuống dưới §175k!\n\n{0.SimPronounPossessiveDependent|xxUpper} nhu cầu không được đáp ứng tốt như trước và sẽ suy giảm nhanh hơn!" />
+    <TextStringDefinition InstanceID="0x9FDA7610" TextString="Giá trị tài sản của gia đình {0.SimLastName} giảm xuống dưới §100k!\n\n{0.SimPronounPossessiveDependent|xxUpper} nhu cầu không được đáp ứng tốt như trước và sẽ suy giảm nhanh hơn!" />
+    <TextStringDefinition InstanceID="0x2FF528AB" TextString="Giá trị tài sản của gia đình {0.SimLastName} giảm xuống dưới §50k!\n\n{0.SimPronounPossessiveDependent|xxUpper} nhu cầu không được đáp ứng tốt như trước và sẽ suy giảm nhanh hơn!" />
+    <TextStringDefinition InstanceID="0xD094B9E7" TextString="Giá trị tài sản của gia đình {0.SimLastName} giảm xuống dưới §25k!\n\n{0.SimPronounPossessiveDependent|xxUpper} nhu cầu không được đáp ứng tốt như trước và sẽ suy giảm nhanh hơn!" />
+    <TextStringDefinition InstanceID="0x68B7DBC4" TextString="(Từ việc Woohoo trên Chiếc Ngai Gỗ)" />
+    <TextStringDefinition InstanceID="0x65FE67D5" TextString="(Từ việc nô đùa trên Chiếc Ngai Gỗ)" />
+    <TextStringDefinition InstanceID="0xD2E330C0" TextString="(Từ việc ngắm nhìn Mảnh vỡ quá khứ)" />
+    <TextStringDefinition InstanceID="0xF1E59232" TextString="Sau khi thể hiện cảm xúc về nghệ thuật, Simoleons đã được trao!" />
+    <TextStringDefinition InstanceID="0x3436CA99" TextString="Thư viện Hàng xóm Nhỏ của bạn đã mở! Chia sẻ và khám phá sách với cộng đồng của bạn dựa trên hệ thống danh dự. Lấy những gì bạn cần, quyên góp những gì bạn có. Là chủ sở hữu, hãy làm gương. Nếu phát sinh vấn đề, hiệp hội sẽ giải quyết. Chào mừng đến với Hiệp hội Thư viện!" />
+    <TextStringDefinition InstanceID="0xDBD59250" TextString="Thư viện Hàng xóm Nhỏ của bạn hiện đã đóng cửa với công chúng! Chúng tôi sẽ tạm ngừng giám sát hoạt động của bạn, và không ai ngoài hộ gia đình của bạn được phép thêm hoặc lấy bất kỳ cuốn sách nào cho đến khi nó mở lại." />
+    <TextStringDefinition InstanceID="0x370BA7B7" TextString="{0.SimFirstName} đã tìm hiểu về tình hình tài chính của {1.SimFirstName}, và {1.SimFirstName} dường như khá giàu có!" />
+    <TextStringDefinition InstanceID="0x0F6B6E4E" TextString="{0.SimFirstName} đã tìm hiểu về tình hình tài chính của {1.SimFirstName}, và {1.SimFirstName} hơi thiếu tiền." />
+    <TextStringDefinition InstanceID="0x90739192" TextString="{0.SimFirstName} đã tìm hiểu về tình hình tài chính của {1.SimFirstName}, và {1.SimFirstName} dường như ổn." />
+    <TextStringDefinition InstanceID="0x42DFB2F4" TextString="{0.SimFirstName} đã biết rằng {1.SimFirstName} có kỹ năng sau:\n{2.String}" />
+    <TextStringDefinition InstanceID="0x73941D5C" TextString="{0.SimFirstName} đã biết rằng {1.SimFirstName} đang trong một mối quan hệ." />
+    <TextStringDefinition InstanceID="0xBA80DD7E" TextString="{1.SimFirstName} đã biết rằng {0.SimFirstName} có các Lối sống sau:\n{2.String}" />
+    <TextStringDefinition InstanceID="0x685CB02A" TextString="{0.SimFirstName} đã biết rằng {1.SimFirstName} có các Lối sống sau:\n{2.String}" />
+    <TextStringDefinition InstanceID="0xF7AC3CEC" TextString="{0.SimFirstName} đã biết tất cả các đặc điểm của {1.SimFirstName}!" />
+    <TextStringDefinition InstanceID="0x62B99870" TextString="{0.SimFirstName} đã biết các sở thích sau về {1.SimFirstName}:\n{2.String}" />
+    <TextStringDefinition InstanceID="0x07DD5DF3" TextString="Sau một số điều tra, {1.SimFirstName} được phát hiện có đặc điểm này:\n{2.String}" />
+    <TextStringDefinition InstanceID="0x1883D451" TextString="{0.SimFirstName} đã biết các đặc điểm sau về {1.SimFirstName}:\n{2.String}" />
+    <TextStringDefinition InstanceID="0x4F5FC26D" TextString="{0.SimFirstName} đã học cách đạp xe! {0.SimPronounSubjective|xxUpper} giờ có thể &lt;b&gt;Đi vòng quanh&lt;/b&gt; và &lt;b&gt;Di chuyển&lt;/b&gt; trên bất kỳ chiếc xe đạp trẻ em nào. " />
+    <TextStringDefinition InstanceID="0x8CBCEAE2" TextString="(Từ việc học cách đạp xe)" />
+    <TextStringDefinition InstanceID="0x4E7CA181" TextString="(Từ việc dạy trẻ đạp xe)" />
+    <TextStringDefinition InstanceID="0x7C2843E0" TextString="Đã học cách đạp xe" />
+    <TextStringDefinition InstanceID="0x0CA4C0A0" TextString="(Từ việc thực hiện động tác xe đạp)" />

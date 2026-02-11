@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xF629E2AA" TextString="Tốt nghiệp yêu cầu Hiệu suất Xuất sắc và hoàn thành các Nhiệm vụ của bạn." />
+    <TextStringDefinition InstanceID="0xAB90C206" TextString="Những cách tốt nhất để cải thiện hiệu suất công việc là:\n • Đi làm với một Cảm xúc Tích cực\n • Duy trì Mối quan hệ Tốt với đồng nghiệp" />
+    <TextStringDefinition InstanceID="0xE71DC91D" TextString="Hoàn thành các công việc (gigs) để cải thiện hiệu suất nghề nghiệp. Kết thúc các công việc nhanh chóng sẽ dẫn đến việc tăng cường hiệu suất và tiền thưởng. Các công việc bị hủy hoặc chưa hoàn thành sẽ làm giảm hiệu suất.\n\nMặc dù freelancer không được thăng chức, việc cải thiện hiệu suất sẽ làm tăng uy tín của họ với agency (công ty) trong lĩnh vực của họ, dẫn đến mức lương cơ bản cao hơn và phần thưởng có thể mở khóa!" />
+    <TextStringDefinition InstanceID="0x846DE4C5" TextString="Khách hàng sẽ phân bổ một ngân sách nhất định\n để sử dụng cho việc cải tạo. Nếu bạn\n vượt ngân sách, số tiền đó sẽ\n chuyển sang màu đỏ. Việc vượt ngân sách sẽ\n ảnh hưởng tiêu cực đến hiệu suất \n và danh tiếng của bạn.\n\nHiệu suất và danh tiếng tốt hơn\n có thể dẫn đến Khách hàng quay lại hoặc các Công việc (Gigs) mới, \n có khả năng trả lương cao hơn." />
+    <TextStringDefinition InstanceID="0x8005D49E" TextString="Những cách tốt nhất để cải thiện hiệu suất nghề nghiệp là:\n • Hoàn thành các nhiệm vụ thử vai và chuẩn bị công việc (gig prep)\n • Hoàn thành các nhiệm vụ trên trường quay\n • Thành công trong các cảnh quay Mạo hiểm." />
+    <TextStringDefinition InstanceID="0x8E77D63E" TextString="Để được thăng chức nghề nghiệp cần có Hiệu suất Xuất sắc và hoàn thành các Nhiệm vụ Thăng chức." />
+    <TextStringDefinition InstanceID="0x91BEBF75" TextString="Chọn Ngành nghề" />
+    <TextStringDefinition InstanceID="0x0B6BD5A4" TextString="Chọn Agency" />
+    <TextStringDefinition InstanceID="0xCDCFAE06" TextString="Mời Đạo diễn &amp; Diễn viên chính" />
+    <TextStringDefinition InstanceID="0x939EBBA8" TextString="Thực hiện các nhiệm vụ trong suốt tuần để bạn có thể tăng Hiệu suất cho Hoạt động Ngoại khóa này." />
+    <TextStringDefinition InstanceID="0xFAB0F03E" TextString="Những cách tốt nhất để cải thiện hiệu suất nghề nghiệp là:\n • Đi làm với một cảm xúc tích cực\n • Duy trì mối quan hệ tốt với Đồng nghiệp" />
+    <TextStringDefinition InstanceID="0xAFF87C12" TextString="Những cách tốt nhất để cải thiện hiệu suất học tập là:\n • Đi học với một cảm xúc tích cực\n • Hoàn thành bài tập về nhà\n • Duy trì mối quan hệ tốt với bạn học" />
+    <TextStringDefinition InstanceID="0x82896D0A" TextString="Những cách tốt nhất để cải thiện hiệu suất nghề nghiệp là:\n • Hoàn thành các Nhiệm vụ Quý tộc\n • Tham gia các Dự án Quý tộc" />
+    <TextStringDefinition InstanceID="0x7B534CC3" TextString="Những cách tốt nhất để cải thiện hiệu suất nghề nghiệp là:\n • Đi làm với một cảm xúc tích cực\n • Hoàn thành Nhiệm vụ Hàng ngày\n • Duy trì mối quan hệ tốt với Đồng nghiệp" />
+    <TextStringDefinition InstanceID="0x6DB4FC25" TextString="Chủ sở hữu &lt;font color='#1E81E6'&gt;của {0.String}&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xE005235B" TextString="Vượt Ngân sách:" />
+    <TextStringDefinition InstanceID="0xB1DB43FE" TextString="Làm việc Từ xa" />
+    <TextStringDefinition InstanceID="0xF0132EB4" TextString="OK" />
+    <TextStringDefinition InstanceID="0xD5C0CB8F" TextString="Hoàn thành tất cả các nhiệm vụ trước thời hạn. Kết thúc nhanh hơn có thể dẫn đến kết quả tốt hơn." />
+    <TextStringDefinition InstanceID="0x9B637158" TextString="Đi làm đúng giờ đã lên lịch. Hãy chắc chắn kiểm tra mức kỹ năng được khuyến nghị." />
+    <TextStringDefinition InstanceID="0x57E1C77E" TextString="Hủy Công việc (Gig)" />
+    <TextStringDefinition InstanceID="0xD6950FC0" TextString="{0.String}\n\n{1.String}" />
+    <TextStringDefinition InstanceID="0xC1DBD3A2" TextString="Chỉnh sửa Chức danh Vương quốc" />
+    <TextStringDefinition InstanceID="0x794B14B2" TextString="{0.SimFirstName} hiện không đi học." />
+    <TextStringDefinition InstanceID="0xBD8345D0" TextString="Hộ gia đình" />
+    <TextStringDefinition InstanceID="0x538B3C24" TextString="Bạn bè" />
+    <TextStringDefinition InstanceID="0x5F5BE841" TextString="Gia đình" />
+    <TextStringDefinition InstanceID="0x9C01B42C" TextString="Đồng nghiệp" />
+    <TextStringDefinition InstanceID="0x00553BF0" TextString="Câu lạc bộ" />
+    <TextStringDefinition InstanceID="0x82CC8E87" TextString="Kinh doanh" />
+    <TextStringDefinition InstanceID="0x91E71D62" TextString="Tất cả" />
+    <TextStringDefinition InstanceID="0xFFA13C3C" TextString="&lt;font color='#999999'&gt;{0.String}&lt;br&gt;Đã mất&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x281986AA" TextString="Sự tương thích: " />
+    <TextStringDefinition InstanceID="0xAEF6B0C5" TextString="Câu lạc bộ:" />
+    <TextStringDefinition InstanceID="0xB4DF3F53" TextString="Nghề nghiệp:" />
+    <TextStringDefinition InstanceID="0x3FA1D9AB" TextString="Sự thu hút: " />
+    <TextStringDefinition InstanceID="0x93C3FA6F" TextString="+ {0.Number} người khác" />
+    <TextStringDefinition InstanceID="0xD0409E3D" TextString="Phỏng vấn Khách hàng để tìm ra!" />
+    <TextStringDefinition InstanceID="0x4198515E" TextString="Sở thích Khách hàng" />
+    <TextStringDefinition InstanceID="0xB3157918" TextString="Khách hàng: {0.String}" />
+    <TextStringDefinition InstanceID="0x8C9E156A" TextString="Những con cá được hiển thị ở đây dựa trên những con cá Sim của bạn đã khám phá, được theo dõi trong Bộ sưu tập Hộ gia đình. Càng nhiều cá họ tìm thấy ở thế giới bên ngoài, họ càng có thể chọn thêm vào ao của mình.\n\nBạn có thể thay đổi loại cá có sẵn cho việc câu cá bất cứ khi nào bạn muốn. Chỉ cần sử dụng Biển hiệu Câu cá được phép để điều chỉnh ao hiện đang có đầy cá nào." />
+    <TextStringDefinition InstanceID="0x7272A687" TextString="Không thể Du lịch vì một Sự kiện Xã hội đang diễn ra." />
+    <TextStringDefinition InstanceID="0x10B9D565" TextString="Không thể Du lịch trong khi một Sự kiện đang diễn ra." />
+    <TextStringDefinition InstanceID="0x5BCD9664" TextString="…" />
+    <TextStringDefinition InstanceID="0xA20A9962" TextString="{0.String}{1.String}" />
+    <TextStringDefinition InstanceID="0xF68FA42F" TextString="{0.Number} Yêu cầu" />
+    <TextStringDefinition InstanceID="0x7CFA69D3" TextString="Ngân quỹ Có sẵn:" />
+    <TextStringDefinition InstanceID="0x2577C03B" TextString="Người gọi Không xác định" />
+    <TextStringDefinition InstanceID="0xF8A5FCE9" TextString="Danh sách nhiệm vụ sẽ làm mới mỗi Chủ nhật, Thứ ba và Thứ sáng sớm." />
+    <TextStringDefinition InstanceID="0x4A9D7757" TextString="Nhiệm vụ" />

@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x035F3357" TextString="Lên cấp Kỹ năng Lập trình" />
+    <TextStringDefinition InstanceID="0x466B35F0" TextString="Để tăng Kỹ năng Piano của {1.SimFirstName}, hãy để {M1.him}{F1.her} chơi Piano." />
+    <TextStringDefinition InstanceID="0x146B06EF" TextString="Lên cấp Kỹ năng Piano" />
+    <TextStringDefinition InstanceID="0x3B27C553" TextString="Để tăng Kỹ năng Hội họa của {1.SimFirstName}, hãy để {M1.him}{F1.her} sử dụng Ease." />
+    <TextStringDefinition InstanceID="0xA08F8BC3" TextString="Để tăng Kỹ năng Hóc bách của {1.SimFirstName}, hãy để {M1.him}{F1.her} thực hiện các tương tác Xã giao Ác ý với các Sim khác hoặc Troll các Diễn đàn trên Máy tính." />
+    <TextStringDefinition InstanceID="0x6FD78CB2" TextString="Lên cấp Kỹ năng Hóc bách" />
+    <TextStringDefinition InstanceID="0xDE376725" TextString="Để tăng Kỹ năng Logic của {1.SimFirstName}, hãy để {F1.her}{M1.him} sử dụng Kính hiển vi, Đài quan sát hoặc Bàn cờ vua." />
+    <TextStringDefinition InstanceID="0xFE55DB44" TextString="Lên cấp Kỹ năng Logic" />
+    <TextStringDefinition InstanceID="0x8915121E" TextString="Để tăng Kỹ năng Khéo léo của {1.SimFirstName}, hãy để {F1.her}{M1.him} Sửa chữa hoặc Nâng cấp đồ vật. Ngoài ra, {M1.he}{F1.she} cũng có thể tạo đồ vật tại Bàn gia công gỗ!" />
+    <TextStringDefinition InstanceID="0xDC4C912D" TextString="Lên cấp Kỹ năng Khéo léo" />
+    <TextStringDefinition InstanceID="0x3718C3C9" TextString="Để tăng Kỹ năng Guitar của {1.SimFirstName}, hãy để {F1.her}{M1.him} chơi Guitar." />
+    <TextStringDefinition InstanceID="0x82003B78" TextString="Lên cấp Kỹ năng Guitar" />
+    <TextStringDefinition InstanceID="0x21C17C52" TextString="Để tăng Kỹ năng Trồng trọt của {1.SimFirstName}, hãy để {1.SimPronounObjective} Thu hoạch cây trồng hoặc chăm sóc {F1.her}{M1.his} Vườn." />
+    <TextStringDefinition InstanceID="0x8ACEE7A1" TextString="Lên cấp Kỹ năng Trồng trọt" />
+    <TextStringDefinition InstanceID="0xD697A36F" TextString="Để tăng Kỹ năng Thể dục của {1.SimFirstName}, tập luyện bằng cách sử dụng Máy chạy bộ, Máy tập thể dục hoặc Túi đánh. Ngoài ra, {F1.she}{M1.he} cũng có thể Đi chạy bộ!" />
+    <TextStringDefinition InstanceID="0x233ABF35" TextString="Tăng Kỹ năng Câu cá của Sim bằng cách Đi câu cá và bắt được cá!" />
+    <TextStringDefinition InstanceID="0xE1C9A254" TextString="Lên cấp Kỹ năng Câu cá" />
+    <TextStringDefinition InstanceID="0x110441E3" TextString="Để tăng Kỹ năng Nấu ăn của {1.SimFirstName}, sử dụng Tủ lạnh hoặc Bếp để làm thức ăn." />
+    <TextStringDefinition InstanceID="0x3A858B12" TextString="Lên cấp Kỹ năng Nấu ăn" />
+    <TextStringDefinition InstanceID="0x5062823A" TextString="Để tăng Kỹ năng Hài hước của {1.SimFirstName}, sử dụng Microphone hoặc Viết trò đùa trên Máy tính." />
+    <TextStringDefinition InstanceID="0xA62CC7F9" TextString="Lên cấp Kỹ năng Hài hước" />
+    <TextStringDefinition InstanceID="0x2B933635" TextString="Để tăng Kỹ năng Sức hút của {1.SimFirstName}, sử dụng Gương để Tập nói." />
+    <TextStringDefinition InstanceID="0x672D4754" TextString="Lên cấp Kỹ năng Sức hút" />
+    <TextStringDefinition InstanceID="0x1740130F" TextString="Để tăng Kỹ năng Pha chế của {1.SimFirstName}, sử dụng Quầy bar để Pha đồ uống hoặc Phục vụ tại quầy bar." />
+    <TextStringDefinition InstanceID="0xC315C5EE" TextString="Tăng bất kỳ kỹ năng nào bằng cách thực hiện các tương tác liên quan đến kỹ năng đó." />
+    <TextStringDefinition InstanceID="0x71F82E2E" TextString="Tăng Kỹ năng" />
+    <TextStringDefinition InstanceID="0x215B1863" TextString="Nhấp vào Gương và chọn Làm bộ mặt ngớ ngẩn." />
+    <TextStringDefinition InstanceID="0xAFA86E92" TextString="Làm bộ mặt ngớ ngẩn trong Gương" />
+    <TextStringDefinition InstanceID="0x2CD96894" TextString="Nhấp vào một Sim và chọn Khoe cơ bắp từ danh mục Thân thiện. Các Sim có thể thực hiện Tương tác Xã giao này khi ở trạng thái Tự tin." />
+    <TextStringDefinition InstanceID="0x1A1BA833" TextString="Khoe cơ bắp cho Ai đó" />
+    <TextStringDefinition InstanceID="0x18E6486A" TextString="Nhấp vào một Sim và chọn Chia sẻ Bất an từ danh mục Thân thiện." />
+    <TextStringDefinition InstanceID="0x3EEE5F92" TextString="Chia sẻ Bất an" />
+    <TextStringDefinition InstanceID="0xAB128D27" TextString="Nhấp vào một Sim và chọn Chia sẻ Bất an từ danh mục Thân thiện. Các Sim có thể thực hiện Tương tác Xã giao này khi ở trạng thái Ngượng ngùng." />
+    <TextStringDefinition InstanceID="0xADAEC976" TextString="Chia sẻ Bất an với Ai đó" />
+    <TextStringDefinition InstanceID="0x5A1018F6" TextString="Nhấp vào một Sim và chọn tương tác Chia sẻ Ý tưởng dưới danh mục Thân thiện." />
+    <TextStringDefinition InstanceID="0xAACAF195" TextString="Chia sẻ Ý tưởng" />
+    <TextStringDefinition InstanceID="0x040DC80B" TextString="Nhấp vào một Sim và chọn các tương tác từ danh mục Thân thiện cho đến khi họ trở nên Vui vẻ." />
+    <TextStringDefinition InstanceID="0xAFC03BD9" TextString="Làm một Sim khác Vui vẻ" />
+    <TextStringDefinition InstanceID="0x22339ADE" TextString="Nhấp vào một Sim và chọn các tương tác từ danh mục Ác ý cho đến khi họ trở nên Tức giận." />
+    <TextStringDefinition InstanceID="0x458C151E" TextString="Làm một Sim khác Tức giận" />
+    <TextStringDefinition InstanceID="0x1BF07E97" TextString="Nhấp vào Violin, chọn Tình ca, và chọn Sim để dành tình ca." />
+    <TextStringDefinition InstanceID="0x6A435E25" TextString="Dành tình ca cho Ai đó bằng Violin" />
+    <TextStringDefinition InstanceID="0x012399D7" TextString="Nhấp vào Piano, chọn Tình ca, và chọn Sim để dành tình ca." />
+    <TextStringDefinition InstanceID="0xCD8DC765" TextString="Dành tình ca cho Ai đó bằng Piano" />
+    <TextStringDefinition InstanceID="0x6803780C" TextString="Nhấp vào Guitar, chọn Tình ca, và chọn Sim để dành tình ca." />
+    <TextStringDefinition InstanceID="0xA6897432" TextString="Dành tình ca cho Ai đó bằng Guitar" />
+    <TextStringDefinition InstanceID="0x8C867111" TextString="Nhấp vào Máy tính và chọn Gửi Thư chuỗi đến... dưới danh mục Xã giao. Các Sim có thể mở khóa tương tác này bằng cách tăng Kỹ năng Hóc bách của họ." />
+    <TextStringDefinition InstanceID="0x5545916E" TextString="Nhấp vào Ease, chọn Phong cách tranh, và chọn Kích thước tranh. Sau đó, nhấp vào bức tranh để bán nó." />
+    <TextStringDefinition InstanceID="0x90E674BD" TextString="Bán 3 bức tranh" />
+    <TextStringDefinition InstanceID="0xFAA672CB" TextString="Nhấp vào Ease, chọn Phong cách tranh, và chọn Kích thước tranh. Sau đó, nhấp vào bức tranh để bán nó." />

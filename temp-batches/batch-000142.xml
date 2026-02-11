@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xE0B829E6" TextString="Tàn Tích của Nền Văn Minh Ngoài Trái Đất" />
+    <TextStringDefinition InstanceID="0x09212F4F" TextString="Ít nhất thì cũng có một chòm sao đẹp" />
+    <TextStringDefinition InstanceID="0x58F8DA69" TextString="Chào mừng đến với Trại Cứu Hộ" />
+    <TextStringDefinition InstanceID="0x9A82237C" TextString="Thôi, Lãng Phí Thời Gian Quá!" />
+    <TextStringDefinition InstanceID="0x16E694C6" TextString="Quay Về Lớp Hình Học!" />
+    <TextStringDefinition InstanceID="0xAF2D7045" TextString="Quá Nhiều Việc" />
+    <TextStringDefinition InstanceID="0xFE7A03A1" TextString="Trong Bóng Tối" />
+    <TextStringDefinition InstanceID="0x6D677516" TextString="Không Đủ Băng Dính" />
+    <TextStringDefinition InstanceID="0x6B02BFF4" TextString="Không Phải Vấn Đề Của {0.SimFirstName}!" />
+    <TextStringDefinition InstanceID="0x498E8458" TextString="Có Người Ngoài Hành Tinh Trên Tàu!" />
+    <TextStringDefinition InstanceID="0xBAE63060" TextString="Bị Từ Chối!" />
+    <TextStringDefinition InstanceID="0x7959223C" TextString="{0.SimFirstName} đã từng nghe về những bẫy như thế này rồi. Để nguyên các hiện vật, {M0.he}{F0.she} bỏ túi vài tảng đá có vẻ kỳ lạ nhất và quay về tàu vũ trụ của {M0.his}{F0.her}. {M0.He}{F0.She} có lẽ vừa đủ nhiên liệu để trở về nhà và báo cáo về khám phá đáng kinh ngạc của {M0.his}{F0.her}." />
+    <TextStringDefinition InstanceID="0xB6FCF329" TextString="Mất Trí Nhớ" />
+    <TextStringDefinition InstanceID="0xFB797866" TextString="Đã Thu Thập Dữ Liệu" />
+    <TextStringDefinition InstanceID="0x5629BC46" TextString="Một Chiếc Bồn Cầu Đông Dân" />
+    <TextStringDefinition InstanceID="0x0AC0FAB0" TextString="Một Trận Mưa Bánh Mì Phô Mai Không Nướng" />
+    <TextStringDefinition InstanceID="0xB3AF886C" TextString="Hàng Hóa Hơi Mờ Nhạt" />
+    <TextStringDefinition InstanceID="0x13D7B23A" TextString="Chuyện Gì Đã Xảy Ra?" />
+    <TextStringDefinition InstanceID="0xA51EB512" TextString="Một Lần Nhìn Thấy" />
+    <TextStringDefinition InstanceID="0x34C488EC" TextString="Quay Về Chiếc Tàu Đắm" />
+    <TextStringDefinition InstanceID="0x82575D7C" TextString="Một Cảnh Tượng Kỳ Lạ" />
+    <TextStringDefinition InstanceID="0x224AB7D1" TextString="Một Khối Đá" />
+    <TextStringDefinition InstanceID="0x4A6C5BE3" TextString="Kẻ Bắt Nạt Lớn" />
+    <TextStringDefinition InstanceID="0x352E9624" TextString="Chút Ít Trợ Giúp" />
+    <TextStringDefinition InstanceID="0x474131FD" TextString="Chiến Thắng Trận Chiến Không Gian (Lại Một Lần Nữa)" />
+    <TextStringDefinition InstanceID="0xD96541D8" TextString="CẢNH BÁO" />
+    <TextStringDefinition InstanceID="0xDA405B48" TextString="Những Vụt Tỏa Tình Yêu" />
+    <TextStringDefinition InstanceID="0xBA88AAAB" TextString="Một Con Tàu với Ý Định Mờ Nhạt" />
+    <TextStringDefinition InstanceID="0xDB5191AC" TextString="Quá Nhiều Việc" />
+    <TextStringDefinition InstanceID="0x529AF4FC" TextString="Não Đã Ổn Định!" />
+    <TextStringDefinition InstanceID="0xB77D61AB" TextString="Mảng Ghép Xấu Xí" />
+    <TextStringDefinition InstanceID="0x7D632925" TextString="Tôi Nghĩ Tôi Có Thể, Tôi Nghĩ Tôi Có Thể!" />
+    <TextStringDefinition InstanceID="0x091E5EC6" TextString="Trở Nên Tham Lam" />
+    <TextStringDefinition InstanceID="0x7F44FBD0" TextString="Không Thể Giúp Được" />
+    <TextStringDefinition InstanceID="0x9529E953" TextString="Nói Thật Có Lợi" />
+    <TextStringDefinition InstanceID="0xBB85A423" TextString="{0.SimFirstName}, Người Nuôi Ngoài Hành Tinh" />
+    <TextStringDefinition InstanceID="0x48AC74A4" TextString="{0.SimFirstName} đã đặt mục tiêu lên mặt trăng! {F0.she}{M0.he} nên quay quanh và quan sát, hay cố gắng hạ cánh?" />
+    <TextStringDefinition InstanceID="0xE8F5BB61" TextString="Ăn Một Chiếc Bánh Mì Phô Mai Nướng Trong Không Gian" />
+    <TextStringDefinition InstanceID="0xADBE4F6F" TextString="Yêu Cầu Có Một Chiếc Bánh Mì Phô Mai Nướng Trong Hành Trang" />
+    <TextStringDefinition InstanceID="0xEAA51C2D" TextString="Thực Hiện Thủ Tục Thường Ngày Trong Không Gian" />
+    <TextStringDefinition InstanceID="0xFF5EA42F" TextString="Đã thực hiện một thủ tục thường ngày trong không gian quá gần đây." />
+    <TextStringDefinition InstanceID="0x4BCD092B" TextString="Giúp Xây Dựng Tên Lửa" />
+    <TextStringDefinition InstanceID="0x9504AE47" TextString="Yêu Cầu {1.SimFirstName} Giúp Về Tên Lửa" />
+    <TextStringDefinition InstanceID="0x4AF24683" TextString="(Từ việc Thích Khoa Học Tên Lửa)" />
+    <TextStringDefinition InstanceID="0x28CA66C3" TextString="(Từ việc Ghét Khoa Học Tên Lửa)" />
+    <TextStringDefinition InstanceID="0x9E1E6D43" TextString="Tương tác này yêu cầu có một loại quả hoặc rau củ từ vườn để thực hiện" />
+    <TextStringDefinition InstanceID="0xAC5CEF26" TextString="Về Nhà" />
+    <TextStringDefinition InstanceID="0xE048A20C" TextString="Quay Về Lô Đất Đang Hoạt Động" />
+    <TextStringDefinition InstanceID="0x59903C1E" TextString="Bạn không thể làm điều này khi một đứa trẻ đang được cứu hộ!" />
+    <TextStringDefinition InstanceID="0xD0DD2D0B" TextString="Được Cứu Hộ" />

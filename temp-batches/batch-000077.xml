@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xC71B06F5" TextString="Ngày" />
+    <TextStringDefinition InstanceID="0x6DD923CD" TextString="Nói chuyện với một Sim và Yêu cầu họ làm Người cầm nhẫn trong lễ cưới để xem họ trong menu này." />
+    <TextStringDefinition InstanceID="0xD6D26851" TextString="Người cầm nhẫn" />
+    <TextStringDefinition InstanceID="0x8146B85C" TextString="Người chủ lễ" />
+    <TextStringDefinition InstanceID="0x6260FB91" TextString="Nói chuyện với một Sim và Yêu cầu họ làm Người chủ lễ trong lễ cưới để xem họ trong menu này." />
+    <TextStringDefinition InstanceID="0x742F5925" TextString="Người chủ lễ" />
+    <TextStringDefinition InstanceID="0x4097233A" TextString="Sim danh dự" />
+    <TextStringDefinition InstanceID="0x557676AF" TextString="Nói chuyện với một Sim và Yêu cầu họ làm Sim danh dự trong lễ cưới để xem họ trong menu này." />
+    <TextStringDefinition InstanceID="0x780CAEFF" TextString="Các Sim danh dự" />
+    <TextStringDefinition InstanceID="0x47CBC237" TextString="Khách mời" />
+    <TextStringDefinition InstanceID="0x87870F6C" TextString="Chọn các Sim để mời họ đến Sự kiện Cưới." />
+    <TextStringDefinition InstanceID="0xAF97DCDE" TextString="Khách mời" />
+    <TextStringDefinition InstanceID="0xFA912DD4" TextString="Bạn hoa" />
+    <TextStringDefinition InstanceID="0xF254BF79" TextString="Nói chuyện với một Sim và Yêu cầu họ làm Bạn hoa trong lễ cưới để xem họ trong menu này." />
+    <TextStringDefinition InstanceID="0xEEBF436D" TextString="Bạn hoa" />
+    <TextStringDefinition InstanceID="0x340D26AE" TextString="Phải có kỹ năng nấu ăn cao cấp cấp độ 3 trở lên." />
+    <TextStringDefinition InstanceID="0x27E4D302" TextString="Đồ ăn theo chủ đề trang phục là điều chính!" />
+    <TextStringDefinition InstanceID="0xF7810DAB" TextString="Đã đến lúc có một số đồ ăn đen trắng!" />
+    <TextStringDefinition InstanceID="0x005346F9" TextString="Phải có kỹ năng Nấu ăn cấp độ 5 trở lên." />
+    <TextStringDefinition InstanceID="0x59DF6A2A" TextString="Một số bữa tiệc sinh nhật có món khai vị, một số có món chính. Nhưng nếu có một điều chắc chắn được mong đợi, đó là bánh sinh nhật." />
+    <TextStringDefinition InstanceID="0x2772A67D" TextString="Làm tất cả các món ăn xảy ra! Những người kiểm soát chất lượng đồ ăn kiểm soát chất lượng bữa tiệc." />
+    <TextStringDefinition InstanceID="0x4655A5E3" TextString="Kẻ trộm" />
+    <TextStringDefinition InstanceID="0x7F3A1816" TextString="Sim sinh nhật" />
+    <TextStringDefinition InstanceID="0x3307FF06" TextString="Phải đủ điều kiện để lên tuổi" />
+    <TextStringDefinition InstanceID="0x97D8EF63" TextString="Tất cả là về bạn. Hãy làm cho đây là sinh nhật tốt nhất." />
+    <TextStringDefinition InstanceID="0x660B7183" TextString="Sim sinh nhật" />
+    <TextStringDefinition InstanceID="0xEE50160E" TextString="Người ăn mừng sinh nhật cần một chiếc bánh." />
+    <TextStringDefinition InstanceID="0xAEFFC847" TextString="Bạn đang pha đồ uống... có thể trang trí chúng một chút." />
+    <TextStringDefinition InstanceID="0x9C043B16" TextString="Bạn chỉ phục vụ rượu... có thể thêm một số đồ uống đen trắng?" />
+    <TextStringDefinition InstanceID="0x20B7BB0E" TextString="Sinh nhật {M0.Mixologist}{F0.Mixologist}" />
+    <TextStringDefinition InstanceID="0xF22F4660" TextString="Phải có kỹ năng Pha chế cấp độ 5 trở lên." />
+    <TextStringDefinition InstanceID="0x8E0474CB" TextString="Khi bạn cần ai đó rót và pha đồ uống với phong cách, hãy tìm đến Mixologist địa phương của bạn." />
+    <TextStringDefinition InstanceID="0x0B3642AB" TextString="Mixologist" />
+    <TextStringDefinition InstanceID="0x90CF719D" TextString="{M0.Guest}{F0.Guest}" />
+    <TextStringDefinition InstanceID="0x8FE51319" TextString="Phải biết người khởi xướng sự kiện." />
+    <TextStringDefinition InstanceID="0xE870C959" TextString="{M0.Caterer}{F0.Caterer}" />
+    <TextStringDefinition InstanceID="0x07E47797" TextString="Người cung cấp đồ ăn cần một tủ lạnh, một bàn, và một lò nướng." />
+    <TextStringDefinition InstanceID="0x319F5EE4" TextString="{M0.Mixologist}{F0.Mixologist}" />
+    <TextStringDefinition InstanceID="0xF1FA5625" TextString="Mixologist cần một quầy bar." />
+    <TextStringDefinition InstanceID="0x07EB043D" TextString="Nhấp vào một Sim được chọn là Bất thường để sử dụng tương tác Nói chuyện với Bản thân." />
+    <TextStringDefinition InstanceID="0x6F03B94C" TextString="Nói chuyện với Bản thân" />
+    <TextStringDefinition InstanceID="0x8EFA5F39" TextString="Nhấp vào Máy tính và chọn Viết Bài báo hoặc Viết Cột phong cách từ danh mục Sự nghiệp..." />
+    <TextStringDefinition InstanceID="0x0E2B1A17" TextString="Viết Bài báo hoặc Cột phong cách" />
+    <TextStringDefinition InstanceID="0xE5EE2F62" TextString="Sau khi bạn đã hoàn thành Viết Bài báo hoặc Cột phong cách, nhấp vào Máy tính và chọn Nộp Bài báo hoặc Xuất bản Cột từ danh mục Sự nghiệp..." />
+    <TextStringDefinition InstanceID="0xD82D223A" TextString="Nộp Bài báo hoặc Xuất bản Cột" />
+    <TextStringDefinition InstanceID="0x53570822" TextString="Nhấp vào Máy tính và chọn Ghi lại Hướng dẫn Phong cách từ danh mục Sự nghiệp..." />
+    <TextStringDefinition InstanceID="0xE2A651FA" TextString="Ghi lại Hướng dẫn Phong cách" />
+    <TextStringDefinition InstanceID="0xF4A70A8B" TextString="Chọn Quảng bá Thương hiệu từ các tùy chọn trên chân dung Sim của bạn khi họ vắng mặt ở nơi làm việc." />
+    <TextStringDefinition InstanceID="0x26DFF359" TextString="Quảng bá Thương hiệu" />
+    <TextStringDefinition InstanceID="0xA282645E" TextString="Nhấp vào Máy tính và chọn Cập nhật Trạng thái Mạng xã hội." />

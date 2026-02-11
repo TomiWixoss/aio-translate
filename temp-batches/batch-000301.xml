@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xCA11089C" TextString="{0.SimFirstName} <font color='#35c265'>thích</font> truyền thống này." />
+    <TextStringDefinition InstanceID="0x9BD9B9CA" TextString="{0.SimFirstName} <font color='#69696b'>bỏ qua</font> truyền thống này." />
+    <TextStringDefinition InstanceID="0xB61C7312" TextString="Bắt đầu Lễ kỷ niệm!" />
+    <TextStringDefinition InstanceID="0x0D37AA53" TextString="Kết thúc Ngày lễ" />
+    <TextStringDefinition InstanceID="0xC49C78BC" TextString="Truyền thống của Ngày lễ này không thể chỉnh sửa!" />
+    <TextStringDefinition InstanceID="0x0C7A3AC4" TextString="Chỉnh sửa Ngày lễ" />
+    <TextStringDefinition InstanceID="0x0A91460E" TextString="Hiển thị Đồ vật Ngày lễ" />
+    <TextStringDefinition InstanceID="0x3625115A" TextString="Chế độ loại bỏ này sẽ loại bỏ Sim có <b>điểm hiện tại</b> thấp nhất cho một Kỹ năng hoặc Mối quan hệ Bit mỗi ngày. Chọn để chuyển sang chế độ loại bỏ Sim có <b>tiến độ</b> thấp nhất hướng tới Kỹ năng hoặc Mối quan hệ của họ." />
+    <TextStringDefinition InstanceID="0xF1FBD533" TextString="Chế độ loại bỏ này sẽ loại bỏ Sim có <b>tiến độ</b> thấp nhất hướng tới Kỹ năng hoặc Mối quan hệ Bit mỗi ngày. Chọn để chuyển sang chế độ loại bỏ Sim có Kỹ năng hoặc Mối quan hệ hiện tại thấp nhất." />
+    <TextStringDefinition InstanceID="0x8F276955" TextString="Điểm thấp nhất thua" />
+    <TextStringDefinition InstanceID="0x82A463F0" TextString="Tiến độ thấp nhất thua" />
+    <TextStringDefinition InstanceID="0x3FEF5D0C" TextString="Loại bỏ:" />
+    <TextStringDefinition InstanceID="0xA1EDA866" TextString="Đã chọn hơn 5 quy tắc. Vui lòng chọn tối đa 5." />
+    <TextStringDefinition InstanceID="0x1F2F8611" TextString="Về {0.SimNameWithPrefix}" />
+    <TextStringDefinition InstanceID="0x2647415D" TextString="Về {0.SimName}" />
+    <TextStringDefinition InstanceID="0x76555C7F" TextString="Bầy Người sói" />
+    <TextStringDefinition InstanceID="0x36A0D1EE" TextString="WooHoo" />
+    <TextStringDefinition InstanceID="0x33A5A8A3" TextString="Phụ nữ" />
+    <TextStringDefinition InstanceID="0x9EEC82BB" TextString="Không xác định" />
+    <TextStringDefinition InstanceID="0x56237E3B" TextString="Đặc điểm" />
+    <TextStringDefinition InstanceID="0xCFCD074D" TextString="Khuynh hướng tính dục" />
+    <TextStringDefinition InstanceID="0xDDAB0385" TextString="Khám phá Lãng mạn" />
+    <TextStringDefinition InstanceID="0xE3ED471E" TextString="Lãng mạn" />
+    <TextStringDefinition InstanceID="0x3EF51D1E" TextString="Không ai" />
+    <TextStringDefinition InstanceID="0x6B5179B4" TextString="Tán tỉnh" />
+    <TextStringDefinition InstanceID="0xB052B2F1" TextString="Đàn ông" />
+    <TextStringDefinition InstanceID="0x56B310CF" TextString="Lối sống" />
+    <TextStringDefinition InstanceID="0x88A6DEC3" TextString="Giải thưởng" />
+    <TextStringDefinition InstanceID="0xFE173CEB" TextString="Giáo dục:" />
+    <TextStringDefinition InstanceID="0xBA7BEA4C" TextString="Bằng cấp đang theo học:" />
+    <TextStringDefinition InstanceID="0x023332CC" TextString="Cảm xúc Lãng mạn của {0.SimFirstName} về {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xDB2C0EDE" TextString="Cảm xúc Lãng mạn của {1.SimFirstName} về {0.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x9A79A0C2" TextString="Kỹ năng" />
+    <TextStringDefinition InstanceID="0x0CF3315A" TextString="Tình cảm của {0.SimFirstName} về {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x1B4CFD02" TextString="Tình cảm" />
+    <TextStringDefinition InstanceID="0x451BDBFC" TextString="Tình cảm của {1.SimFirstName} về {0.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xE79667E3" TextString="Bí mật" />
+    <TextStringDefinition InstanceID="0xB48C0917" TextString="Bê bối" />
+    <TextStringDefinition InstanceID="0x42E401C8" TextString="Bê bối" />
+    <TextStringDefinition InstanceID="0xC69D96E0" TextString="Đã tiết lộ" />
+    <TextStringDefinition InstanceID="0x4A065C1F" TextString="Đã hứa giữ kín" />
+    <TextStringDefinition InstanceID="0xB9A55BC5" TextString="Bí mật đã phát hiện" />
+    <TextStringDefinition InstanceID="0xE2BF23AE" TextString="Bị tống tiền" />
+    <TextStringDefinition InstanceID="0x8AFAA855" TextString="Mối quan hệ" />
+    <TextStringDefinition InstanceID="0xDC8C82E7" TextString="Ranh giới Lãng mạn" />
+    <TextStringDefinition InstanceID="0x1F8577CF" TextString="Sự nghiệp" />
+    <TextStringDefinition InstanceID="0x59A286E6" TextString="Giá trị của một con ngựa được xác định bởi cấp độ Kỹ năng, giải thưởng từ các cuộc thi và chất lượng chăm sóc nhận được." />
+    <TextStringDefinition InstanceID="0x2B5C9B61" TextString="Giá trị" />
+    <TextStringDefinition InstanceID="0x6727C63C" TextString="Tốt nghiệp Trung học" />
+    <TextStringDefinition InstanceID="0xA608E36C" TextString="Tốt nghiệp trung học với thứ hạng lớp trung bình" />

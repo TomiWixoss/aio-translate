@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x96C4EFC3" TextString="Hoàn tiền đã nhận!" />
+    <TextStringDefinition InstanceID="0x598DBACF" TextString="{0.Number}% giảm giá vì tính tiết kiệm" />
+    <TextStringDefinition InstanceID="0xA6851414" TextString="{0.Number}% giảm giá vì mua nghệ thuật và tận dụng Kết nối then chốt" />
+    <TextStringDefinition InstanceID="0x6996177E" TextString="{0.Number}% giảm giá khi mua sắm vào Ngày hoàn tiền!" />
+    <TextStringDefinition InstanceID="0xE4D048A2" TextString="Một séc hoàn tiền {0.Money} đã được nhận! Các Sim trong hộ gia đình đã có thể tiết kiệm trên những mua sắm gần đây:\n{1.String}" />
+    <TextStringDefinition InstanceID="0xBF269135" TextString="{0.Number} cho việc trồng dừa!" />
+    <TextStringDefinition InstanceID="0x3DC110C6" TextString="Có vẻ như không có dịch vụ điện thoại trong khu vực." />
+    <TextStringDefinition InstanceID="0xFCFF3A01" TextString="Himalayan" />
+    <TextStringDefinition InstanceID="0x11B3BE49" TextString="Những con mèo này có tính dịu dàng, thông minh và thường rất xã hội, là bạn đồng hành tốt. Vì dòng dõi từ mèo Siamese, chúng có xu hướng năng động hơn mèo Persian." />
+    <TextStringDefinition InstanceID="0x6233C156" TextString="Golden Retriever" />
+    <TextStringDefinition InstanceID="0x035C2C00" TextString="Golden Retriever là một giống chó lớn được lai tạo như chó săn để thu hồi chim nước bị bắn như vịt và chim săn trên bộ trong các cuộc săn bắn, và được đặt tên 'retriever' vì khả năng thu hồi con mồi bị bắn không bị hư hại. Jill sẽ thay đổi điều này và có thể sẽ xóa các tham chiếu đến súng và những thứ chúng bắn." />
+    <TextStringDefinition InstanceID="0x11F69E33" TextString="American Bobtail" />
+    <TextStringDefinition InstanceID="0xE54EF757" TextString="American Bobtail là một giống mèo nhà hiếm được phát triển vào cuối những năm 1960. Nó nổi bật với đuôi ngắn &quot;bobbed&quot; dài khoảng một phần ba đến một nửa chiều dài đuôi của mèo thông thường." />
+    <TextStringDefinition InstanceID="0x877D2389" TextString="Standard Schnauzer" />
+    <TextStringDefinition InstanceID="0xA37306A1" TextString="Được nhận diện bởi bộ râu và lông mày dài, Standard Schnauzers luôn có màu tiêu và muối hoặc ít phổ biến hơn là màu đen, với lớp lông cứng và xơ trên cơ thể tương tự như các giống lông xơ khác." />
+    <TextStringDefinition InstanceID="0xDDC3683D" TextString="Chihuahua" />
+    <TextStringDefinition InstanceID="0x1D575715" TextString="Cách một con Chihuahua trở nên phụ thuộc rất nhiều vào tính khí di truyền của cha mẹ và ông bà nó. Chihuahuas có thể dễ dàng bị kích động để tấn công, và do đó thường không phù hợp với các gia đình có trẻ nhỏ. Giống này có xu hướng trung thành mãnh liệt với một người cụ thể và trong một số trường hợp có thể trở nên bảo vệ quá mức người đó, đặc biệt xung quanh người khác hoặc động vật." />
+    <TextStringDefinition InstanceID="0x66CB02B0" TextString="Calico" />
+    <TextStringDefinition InstanceID="0xADC1F5D6" TextString="Mèo Calico là mèo nhà có bộ lông đốm hoặc nhiều màu, chủ yếu là màu trắng, với các mảng hai màu khác." />
+    <TextStringDefinition InstanceID="0xCEA18EC2" TextString="Wire Fox Terrier" />
+    <TextStringDefinition InstanceID="0x0C38E3EC" TextString="Hai đặc điểm nổi bật nhất của wire fox terrier là năng lượng và trí thông minh. Nó có ngưỡng chán buồn thấp và cần được kích thích, tập luyện và chú ý. Wire fox terrier là động vật bạn đồng hành đòi hỏi gần như sự chú ý không ngừng." />
+    <TextStringDefinition InstanceID="0xBAE976D7" TextString="Welsh Springer Spaniel" />
+    <TextStringDefinition InstanceID="0xC12ADD6B" TextString="Welsh Springer Spaniel là năng động, trung thành và yêu thương. Chúng có thể tiếp đón người lạ bằng cách sủa khi ở trên lãnh thổ của chúng, hoặc tỏ ra xa lạ, thận trọng hoặc cảnh giác. Giống này nổi tiếng là thân thiện và thể hiện tình cảm với tất cả các thành viên trong gia đình, đặc biệt là trẻ em, và chấp nhận các thú cưng khác trong nhà với thái độ thân thiện, vui vẻ." />
+    <TextStringDefinition InstanceID="0x47972CDC" TextString="LaPerm" />
+    <TextStringDefinition InstanceID="0xC53CC422" TextString="LaPerm ở nhiều cách là một con mèo của sự điều độ, không có cực đoan và vẫn giữ nguyên kiểu nguyên thủy. Tuy nhiên, nó có một bộ lý bất thường." />
+    <TextStringDefinition InstanceID="0x9632F013" TextString="West Highland White Terrier" />
+    <TextStringDefinition InstanceID="0xD2E182F7" TextString="Tính khí của West Highland White Terrier có thể thay đổi rất lớn, với một số con thân thiện với trẻ em, trong khi số khác thích sự cô độc. Nó sẽ không chịu đựng được sự đối xử thô bạo như trẻ em kéo tai nó, và có thể cả hai là chiếm hữu đồ ăn và đồ chơi." />
+    <TextStringDefinition InstanceID="0x7CC55C42" TextString="Field Spaniel" />
+    <TextStringDefinition InstanceID="0xB87C506C" TextString="Field Spaniel có thể là một con chó gia đình tốt khi nó có một công việc để làm. Chúng phù hợp với khả năng vượt chướng ngại vật và săn bắn. Không có một mục đích nào, con chó thường cố gắng tự giải trí và gây nên sự quậy phá." />
+    <TextStringDefinition InstanceID="0xECF0EAEB" TextString="Persian" />
+    <TextStringDefinition InstanceID="0xEAF05DBF" TextString="Mèo Persian là một giống mèo lông dài được đặc trưng bởi khuôn mặt tròn và mũi ngắn. Ở Anh, nó đôi khi được gọi là Longhair hoặc Persian Longhair. Nó cũng được biết đến là mèo Shirazi hoặc mèo Iran, đặc biệt ở Trung Đông. Jill sẽ thay đổi điều này." />
+    <TextStringDefinition InstanceID="0x029DE56F" TextString="Otterhound" />
+    <TextStringDefinition InstanceID="0x4E428D73" TextString="Otterhound là một giống chó săn lớn, lông thô với đầu ấn tượng. Ban đầu được lai tạo để săn bắn, nó có sức mạnh lớn và cơ thể khỏe mạnh với những bước chân dài. Điều này cho phép nó thực hiện công việc khó khăn kéo dài." />
+    <TextStringDefinition InstanceID="0xA6C5EC8C" TextString="Goldendoodle" />
+    <TextStringDefinition InstanceID="0xFD5C4E32" TextString="Goldendoodle là một giống lai được tạo ra bằng cách lai tạo golden retriever với poodle. Mục đích ban đầu của sự lai tạo này là cố gắng phát triển chó dẫn đường phù hợp cho những người khiếm thị có dị ứng." />
+    <TextStringDefinition InstanceID="0xCADFA93A" TextString="Singapura" />
+    <TextStringDefinition InstanceID="0xE9F39574" TextString="Singapura là một trong những giống mèo nhỏ nhất, được biết đến với đôi mắt và đôi tai lớn, bộ lông nâu đốm và đuôi cùn." />
+    <TextStringDefinition InstanceID="0xECD30694" TextString="Husky" />
+    <TextStringDefinition InstanceID="0x1E918F4A" TextString="Husky là một cái tên chung cho loại chó xe trượt được sử dụng ở các vùng phía bắc, được phân biệt với các loại chó xe trượt khác bởi phong cách kéo nhanh. Chúng là một giống lai không ngừng thay đổi của những con chó nhanh nhất." />
+    <TextStringDefinition InstanceID="0xD1D583F3" TextString="Chesapeake Bay Retriever" />
+    <TextStringDefinition InstanceID="0xF4732D17" TextString="Chesapeake Bay Retriever điển hình có tính tươi sáng và hạnh phúc, thông minh, sự khôn ngoan điềm tĩnh và bản năng bảo vệ yêu thương. Một số có thể khá lớn tiếng khi hạnh phúc, và một số sẽ 'cười' bằng cách lộ răng trước trong một nụ cười kỳ lạ." />
+    <TextStringDefinition InstanceID="0xD5D6F9F9" TextString="Oriental Longhair" />
+    <TextStringDefinition InstanceID="0x5335E1B1" TextString="Mèo Oriental Longhair là một con mèo thực sự năng động thích chơi nhiều. Nếu chủ không có thời gian để chơi cùng, nó sẽ tìm một món đồ chơi để tự chơi. Giống này thích nhảy và nhảy rất tốt, mà không làm vỡ bất kỳ vật thể nào nhờ sự khéo léo và thanh lịch." />
+    <TextStringDefinition InstanceID="0xB5F18051" TextString="Curly Coated Retriever" />
+    <TextStringDefinition InstanceID="0x52A28239" TextString="Curly Coated Retriever ban đầu được phát triển như một con chó săn và tính khí và hình dạng thể chất của chúng phản ánh mục đích này. Curlies vẫn được sử dụng ở nhiều quốc gia như bạn đồng hành săn chim, bao gồm cả săn trên bộ và săn chim nước." />
+    <TextStringDefinition InstanceID="0x23990246" TextString="Afghan Hound" />
+    <TextStringDefinition InstanceID="0x689CE650" TextString="Tính khí của Afghan Hound điển hình có thể xa lạ và trang nghiêm, nhưng hạnh phúc và như chú hề khi nó chơi. Giống này, như trường hợp của nhiều chó săn bằng mắt, có động lực săn mồi cao và có thể không hòa hợp với động vật nhỏ." />
+    <TextStringDefinition InstanceID="0xF408BF4D" TextString="Birman" />
+    <TextStringDefinition InstanceID="0x0141DEC5" TextString="Birman, còn được gọi là &quot;Con mèo thánh của Burma&quot;,[1] là một giống mèo nhà. Birman là một con mèo lông dài, màu điểm được phân biệt bởi bộ lông lụa, đôi mắt xanh lam sâu và &quot;găng tay&quot; hoặc &quot;tất&quot; trắng tương phản trên mỗi chân." />
+    <TextStringDefinition InstanceID="0x2E9F29A4" TextString="Polish Lowland Sheepdog" />

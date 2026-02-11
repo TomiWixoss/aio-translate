@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xB7A99142" TextString="{0.SimFirstName} khó có thể tin rằng một con vật đã phải rời bỏ họ do thiếu chăm sóc. {F0.She}{M0.He} hy vọng ngăn chặn điều này không bao giờ xảy ra lại." />
+    <TextStringDefinition InstanceID="0xCE93EBC5" TextString="(DEBUG) Luôn thành công với các tương tác động vật EP11" />
+    <TextStringDefinition InstanceID="0xAF579B9A" TextString="Luôn thành công với các tương tác với cáo, thỏ, gà, nhà chim, lạc đà và bò nếu kết quả thành công tồn tại." />
+    <TextStringDefinition InstanceID="0x0745B9BA" TextString="(DEBUG) Luôn thất bại với các tương tác động vật EP11" />
+    <TextStringDefinition InstanceID="0x8C5552DB" TextString="Các tương tác với thỏ, cáo, nhà chim, gà, lạc đà và bò luôn nên thất bại nếu có tùy chọn thất bại." />
+    <TextStringDefinition InstanceID="0xF908960C" TextString="Lời đồn ác ý" />
+    <TextStringDefinition InstanceID="0x6D1D6329" TextString="Không ai thích khi có lời đồn được bắt đầu về họ!" />
+    <TextStringDefinition InstanceID="0xBD9C3D96" TextString="Thiện và Ác" />
+    <TextStringDefinition InstanceID="0xFD3F3FAA" TextString="Nó bắt đầu với một tia lửa nghệ thuật và kết thúc với sự thành thạo hoàn toàn về ngôn ngữ viết. {0.SimFirstName} vừa đạt được {M0.his}{F0.her} ước mơ trở thành một nhà văn đa dạng!\n\nĐặc điểm nhận được: Thơ ca\n{0.SimFirstName} có thể viết những câu chuyện thực sự làm sống động các Sim!" />
+    <TextStringDefinition InstanceID="0xC18BCFF5" TextString="Họa sĩ xuất chúng" />
+    <TextStringDefinition InstanceID="0x46A36721" TextString="Sim này muốn {M0.his}{F0.her} cuộc sống xoay quanh nghệ thuật và hội họa!" />
+    <TextStringDefinition InstanceID="0x6ABBB425" TextString="Nghệ thuật tốt là chủ quan, nhưng nghệ thuật ngoạn mục là có thể nhận ra trên toàn thế giới. {0.SimFirstName} đã đạt đến đỉnh cao này bằng cách đạt được {M0.his}{F0.her} ước mơ trở thành một họa sĩ đẳng cấp thế giới!\n\nĐặc điểm nhận được: Biểu cảm\n{0.SimFirstName} có thể tạo ra nghệ thuật cảm xúc bất kể {M0.his}{F0.her} tâm trạng!" />
+    <TextStringDefinition InstanceID="0x55472D9D" TextString="Thần đồng nghệ thuật" />
+    <TextStringDefinition InstanceID="0x8598E8B9" TextString="Sim này có ước mơ thành công trong lĩnh vực nghệ thuật!" />
+    <TextStringDefinition InstanceID="0x94BC07CD" TextString="{0.SimFirstName} vừa đạt được {M0.his}{F0.her} ước mơ thời thơ ấu trở thành một thần đồng nghệ thuật!\n\nĐặc điểm nhận được: Thiên tài sáng tạo\n Xây dựng kỹ năng sáng tạo nhanh hơn!" />
+    <TextStringDefinition InstanceID="0x161FF4CB" TextString="Vận động viên thể hình" />
+    <TextStringDefinition InstanceID="0xE5E17C37" TextString="Sim này muốn tập luyện và trở nên mạnh mẽ nhất có thể!" />
+    <TextStringDefinition InstanceID="0x46EC8E57" TextString="Qua nhiều mồ hôi và nước mắt, {0.SimFirstName} cuối cùng đã đạt được {M0.his}{F0.her} ước mơ trở thành một vận động viên thể hình thực thụ!\n\nĐặc điểm nhận được: Trường thọ\n{0.SimFirstName} sẽ sống lâu hơn!" />
+    <TextStringDefinition InstanceID="0x4D0756F4" TextString="Sự tử tế như vậy đã được thể hiện! {0.SimFirstName} đã hoàn thành Thử thách Tích cực! \n\n{M0.He}{F0.She} bây giờ có thể nhận phần thưởng bằng cách nói chuyện với Millie Bobbie Brown lần nữa.\n\nHãy đảm bảo bạn đã thu thập tất cả các phần thưởng từ Hộp Tử tế trước!" />
+    <TextStringDefinition InstanceID="0xE0F9C6D1" TextString="Thử thách Tích cực" />
+    <TextStringDefinition InstanceID="0xD0CAD3D5" TextString="Thử thách Tích cực đang diễn ra" />
+    <TextStringDefinition InstanceID="0xCB15ACB5" TextString="Chúc mừng! Bằng cách theo sát và vui vẻ khi học, {0.SimFirstName} đã hoàn thành thành công khát vọng Chào mừng và sẵn sàng kể những câu chuyện Sim của chính mình.\n\nĐặc điểm nhận được: Vượt mức\nTăng cường kỹ năng và hiệu suất nghề nghiệp tương lai." />
+    <TextStringDefinition InstanceID="0x4AA53311" TextString="Người thiết lập xu hướng" />
+    <TextStringDefinition InstanceID="0xBCAA9135" TextString="Khát vọng của bạn sẽ giúp định hướng sự tiến bộ của Sim, cũng như giúp họ kiếm được Điểm thỏa mãn để chi tiêu cho phần thưởng." />
+    <TextStringDefinition InstanceID="0x37185680" TextString="Họa sĩ" />
+    <TextStringDefinition InstanceID="0xA7D7A619" TextString="Đầu bếp" />
+    <TextStringDefinition InstanceID="0xF6EB316F" TextString="Vận động viên" />
+    <TextStringDefinition InstanceID="0xC107F668" TextString="Khát vọng Hoàn thành" />
+    <TextStringDefinition InstanceID="0x7E8E7CD3" TextString="Chọn Khát vọng Mới" />
+    <TextStringDefinition InstanceID="0x291C521C" TextString="Thành tựu Ma cà rồng" />
+    <TextStringDefinition InstanceID="0xA69A960A" TextString="Tai ương" />
+    <TextStringDefinition InstanceID="0x75B1D59E" TextString="Mục tiêu" />
+    <TextStringDefinition InstanceID="0x02401866" TextString="Chung" />
+    <TextStringDefinition InstanceID="0xB75A1164" TextString="Chào mừng!" />
+    <TextStringDefinition InstanceID="0xDE41C34A" TextString="Cảm xúc" />
+    <TextStringDefinition InstanceID="0x22AF61D9" TextString="Thử thách" />
+    <TextStringDefinition InstanceID="0x1DB4DC25" TextString="Xã hội" />
+    <TextStringDefinition InstanceID="0xF37E564D" TextString="Vận động" />
+    <TextStringDefinition InstanceID="0x0A5582F7" TextString="Tinh thần" />
+    <TextStringDefinition InstanceID="0x75597CA6" TextString="Sáng tạo" />
+    <TextStringDefinition InstanceID="0x5C55B425" TextString="Độ phổ biến" />
+    <TextStringDefinition InstanceID="0x70DDA211" TextString="Thiên nhiên" />
+    <TextStringDefinition InstanceID="0x502F3B8C" TextString="Tình yêu" />
+    <TextStringDefinition InstanceID="0x0433C63D" TextString="Địa điểm" />
+    <TextStringDefinition InstanceID="0x33A9FCA2" TextString="Tri thức" />
+    <TextStringDefinition InstanceID="0x1C76C835" TextString="Tài lộc" />
+    <TextStringDefinition InstanceID="0x0E731E24" TextString="Thức ăn" />
+    <TextStringDefinition InstanceID="0x7FB46344" TextString="Gia đình" />
+    <TextStringDefinition InstanceID="0xB57D91D3" TextString="Lệch lạc" />
+    <TextStringDefinition InstanceID="0x92F273AA" TextString="Sáng tạo" />

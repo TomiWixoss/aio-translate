@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x795E87D9" TextString="Không Thể Làm Người Khác Mang Thai" />
+    <TextStringDefinition InstanceID="0xA4E82683" TextString="Không Thể Làm Người Khác Mang Thai" />
+    <TextStringDefinition InstanceID="0xBE3383B1" TextString="Không Thể Mang Thai" />
+    <TextStringDefinition InstanceID="0x8804507B" TextString="Không Thể Mang Thai" />
+    <TextStringDefinition InstanceID="0xBEA9CDAE" TextString="Có Thể Làm Người Khác Mang Thai" />
+    <TextStringDefinition InstanceID="0xF7C8E826" TextString="Có Thể Làm Người Khác Mang Thai" />
+    <TextStringDefinition InstanceID="0xEAC6C95B" TextString="Có Thể Mang Thai" />
+    <TextStringDefinition InstanceID="0x6A1925B5" TextString="Có Thể Mang Thai" />
+    <TextStringDefinition InstanceID="0x4E58E6BE" TextString="Không Thể Sản Xuất Sữa" />
+    <TextStringDefinition InstanceID="0xC910F956" TextString="Không Thể Sản Xuất Sữa" />
+    <TextStringDefinition InstanceID="0x8CDF157B" TextString="Có Thể Sản Xuất Sữa" />
+    <TextStringDefinition InstanceID="0xA36C0255" TextString="Có Thể Sản Xuất Sữa" />
+    <TextStringDefinition InstanceID="0xC8D51F19" TextString="Khung Nam Tính" />
+    <TextStringDefinition InstanceID="0x7E20E0E8" TextString="(Từ việc hoàn thành Thử Thách Tích Cực)" />
+    <TextStringDefinition InstanceID="0x86CFB61D" TextString="Đại Sứ Tử Thế có tình bạn mạnh mẽ hơn và ít cảm xúc tiêu cực hơn." />
+    <TextStringDefinition InstanceID="0xFB8795E2" TextString="Đại Sứ Tử Thế" />
+    <TextStringDefinition InstanceID="0x0476F732" TextString="Đại Sứ Tử Thế" />
+    <TextStringDefinition InstanceID="0x84BD8140" TextString="{0.SimFirstName} cần đợi một chút trước khi {0.SimPronounSubjective} có thể làm điều này lại!" />
+    <TextStringDefinition InstanceID="0x127C8897" TextString="Làm Phẳng Địa Hình" />
+    <TextStringDefinition InstanceID="0x20801718" TextString="Công cụ này sẽ làm phẳng địa hình bằng cách lấy chiều cao trung bình của tất cả địa hình trong vùng cọ vẽ. Phím &quot;[ ]&quot; sẽ thay đổi kích thước cọ vẽ của bạn. Giữ Shift và cuộn bánh xe chuột sẽ cho bạn kiểm soát kích thước chi tiết hơn." />
+    <TextStringDefinition InstanceID="0x9761032B" TextString="Nâng Địa Hình" />
+    <TextStringDefinition InstanceID="0xBEAB47E4" TextString="Công cụ này sẽ nâng địa hình. Giữ &quot;Ctrl&quot; khi nhấp chuột sẽ đảo ngược hiệu ứng. Phím &quot;[ ]&quot; sẽ thay đổi kích thước cọ vẽ của bạn. Giữ Shift và cuộn bánh xe chuột sẽ cho bạn kiểm soát kích thước chi tiết hơn." />
+    <TextStringDefinition InstanceID="0x0DD84360" TextString="Hạ Địa Hình" />
+    <TextStringDefinition InstanceID="0xEB8813E5" TextString="Công cụ này sẽ hạ địa hình. Giữ &quot;Ctrl&quot; khi nhấp chuột sẽ đảo ngược hiệu ứng. Phím &quot;[ ]&quot; sẽ thay đổi kích thước cọ vẽ của bạn. Giữ Shift và cuộn bánh xe chuột sẽ cho bạn kiểm soát kích thước chi tiết hơn." />
+    <TextStringDefinition InstanceID="0x8F7D8F5B" TextString="Làm Phẳng Theo Chiều Cao" />
+    <TextStringDefinition InstanceID="0xE28436F4" TextString="Công cụ này sẽ làm phẳng địa hình theo một chiều cao cụ thể. Điều chỉnh chiều cao với thanh trượt chiều cao trong giao diện, hoặc giữ &quot;Ctrl&quot; và phím &quot;[ ]&quot;. Phím &quot;[ ]&quot; sẽ thay đổi kích thước cọ vẽ của bạn. Giữ Shift và cuộn bánh xe chuột sẽ cho bạn kiểm soát kích thước chi tiết hơn." />
+    <TextStringDefinition InstanceID="0x1C6D50FA" TextString="Làm Phẳng Lô Đất" />
+    <TextStringDefinition InstanceID="0x7C6A301B" TextString="Nút này sẽ làm phẳng lô đất của bạn ngay lập tức. Hành động này có thể được hoàn tác bằng cách nhấp vào nút Hoàn Tác ở bảng trên cùng." />
+    <TextStringDefinition InstanceID="0x774E5451" TextString="Làm Phẳng Địa Hình" />
+    <TextStringDefinition InstanceID="0x471170AE" TextString="Công cụ này sẽ làm phẳng địa hình theo chiều cao của khu vực được nhấp đầu tiên. Công cụ sẽ tự động bám vào các đường địa hình nhỏ, giữ &quot;Ctrl&quot; sẽ bám widget chiều cao vào các đường địa hình lớn. Phím &quot;[ ]&quot; sẽ thay đổi kích thước cọ vẽ của bạn. Giữ Shift và cuộn bánh xe chuột sẽ cho bạn kiểm soát kích thước chi tiết hơn." />
+    <TextStringDefinition InstanceID="0x132EC4DD" TextString="Viền Đất Hình Học Tinh Tế" />
+    <TextStringDefinition InstanceID="0x58934E62" TextString="Chúng tôi có thêm viền, vì vậy hãy tận hưởng Viền Đất Hình Học Tinh Tế mới của chúng tôi như một lớp phủ mặt đất!" />
+    <TextStringDefinition InstanceID="0x15E332C8" TextString="Viền Sỏi Nhạt" />
+    <TextStringDefinition InstanceID="0xBE6B8ADD" TextString="Những viền được sắp xếp gọn gàng nhưng đặt một cách chân thực mang lại cá tính cho sân sau chịu nắng." />
+    <TextStringDefinition InstanceID="0xF01EBA4D" TextString="Viền Sỏi Đen" />
+    <TextStringDefinition InstanceID="0x9512C7B2" TextString="Những viền được sắp xếp gọn gàng nhưng đặt một cách chân thực mang lại cá tính cho sân sau chịu nắng." />
+    <TextStringDefinition InstanceID="0xABD67F46" TextString="Viền Sỏi Đất Sét" />
+    <TextStringDefinition InstanceID="0xF239E79F" TextString="Những viền được sắp xếp gọn gàng nhưng đặt một cách chân thực mang lại cá tính cho sân sau chịu nắng." />
+    <TextStringDefinition InstanceID="0xFBE7B4EB" TextString="Viền Sỏi Xám" />
+    <TextStringDefinition InstanceID="0x449B8BA4" TextString="Những viền được sắp xếp gọn gàng nhưng đặt một cách chân thực mang lại cá tính cho sân sau chịu nắng." />
+    <TextStringDefinition InstanceID="0x50CFA6A4" TextString="Viền Sỏi Đỏ" />
+    <TextStringDefinition InstanceID="0xAFDAE051" TextString="Những viền được sắp xếp gọn gàng nhưng đặt một cách chân thực mang lại cá tính cho sân sau chịu nắng." />
+    <TextStringDefinition InstanceID="0x4394878F" TextString="Viền Cỏ Nhạt" />
+    <TextStringDefinition InstanceID="0xA02674C0" TextString="Những mảnh cỏ vươn qua sỏi giữa các viền này - cho thấy chúng không quá nghiêm túc." />
+    <TextStringDefinition InstanceID="0x8DB84C6A" TextString="Viền Cỏ Đen" />
+    <TextStringDefinition InstanceID="0x4615A36B" TextString="Những mảnh cỏ vươn qua sỏi giữa các viền này - cho thấy chúng không quá nghiêm túc." />
+    <TextStringDefinition InstanceID="0xB1F5E469" TextString="Viền Cỏ Xám" />
+    <TextStringDefinition InstanceID="0x7A426436" TextString="Những mảnh cỏ vươn qua sỏi giữa các viền này - cho thấy chúng không quá nghiêm túc." />
+    <TextStringDefinition InstanceID="0x473B5DF4" TextString="Viền Cỏ Đất Sét" />
+    <TextStringDefinition InstanceID="0x3B5A6FC1" TextString="Những mảnh cỏ vươn qua sỏi giữa các viền này - cho thấy chúng không quá nghiêm túc." />

@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x03A69591" TextString="Tìm kiếm Bản vẽ Ngân hàng trên máy tính" />
+    <TextStringDefinition InstanceID="0xE3437F57" TextString="Tương tác Gọi điện Kinh doanh" />
+    <TextStringDefinition InstanceID="0xC627E8FC" TextString="Tương tác Đưa ra Lời khuyên Nghề nghiệp" />
+    <TextStringDefinition InstanceID="0x53A0D79E" TextString="Khoe về Chức danh Công việc" />
+    <TextStringDefinition InstanceID="0xF928E2A1" TextString="Tương tác Bắt chước Sếp" />
+    <TextStringDefinition InstanceID="0xCCBADEAE" TextString="Tương tác Chế giễu Tên côn đồ Doanh nghiệp" />
+    <TextStringDefinition InstanceID="0x04C836E1" TextString="Tương tác Đưa ra Mẹo đầu tư Giả" />
+    <TextStringDefinition InstanceID="0x64ACC17D" TextString="Tương tác Nghiên cứu Đối thủ" />
+    <TextStringDefinition InstanceID="0x542E4E24" TextString="Tương tác Thảo luận Số liệu Thể thao" />
+    <TextStringDefinition InstanceID="0xCC729F94" TextString="Tương tác Đề nghị Tăng cường" />
+    <TextStringDefinition InstanceID="0x4ED5417A" TextString="Tương tác Đề xuất Tập luyện" />
+    <TextStringDefinition InstanceID="0x48D2365C" TextString="Tương tác Cố vấn Thể dục" />
+    <TextStringDefinition InstanceID="0x5DA25948" TextString="Công thức đồ uống Nước Ngoài" />
+    <TextStringDefinition InstanceID="0x4CAACF8A" TextString="Công thức đồ uống Năng lượng Không gian" />
+    <TextStringDefinition InstanceID="0x2A778262" TextString="Quần áo Mới!" />
+    <TextStringDefinition InstanceID="0xBFEABA2F" TextString="Theo dõi Vệ tinh qua kính viễn vọng" />
+    <TextStringDefinition InstanceID="0xFD34A259" TextString="Tương tác Chỉ ra Chòm sao" />
+    <TextStringDefinition InstanceID="0x8828434F" TextString="Dũng cảm" />
+    <TextStringDefinition InstanceID="0x101A9288" TextString="Các Sim có đặc điểm này không dễ bị dọa! Các Sim Dũng cảm lấy lại được bình tĩnh nhanh hơn hầu hết các Sim, và không ngại ở gần những sinh vật siêu nhiên như Ma hay Xương sống!" />
+    <TextStringDefinition InstanceID="0x69CCC1FD" TextString="Phần thưởng Cấp Vàng bao gồm một đối tượng kỹ năng mới." />
+    <TextStringDefinition InstanceID="0x3EE15075" TextString="Buổi tiệc vui vẻ! Bạn sẽ tìm thấy phần thưởng đen trắng trong kho đồ của hộ gia đình." />
+    <TextStringDefinition InstanceID="0xC3FBD7A0" TextString="Phần thưởng Cấp Vàng bao gồm một đối tượng âm nhạc mới." />
+    <TextStringDefinition InstanceID="0x73BAC34C" TextString="Buổi tiệc sang trọng! Bạn xứng đáng nhận một món quà đen trắng đặc biệt. Kiểm tra kho đồ của hộ gia đình." />
+    <TextStringDefinition InstanceID="0x1908EDD7" TextString="Phần thưởng Cấp Bạc bao gồm một đối tượng trang trí mới." />
+    <TextStringDefinition InstanceID="0x89FB6CC3" TextString="Chúc mừng sinh nhật! Thưởng thức một số quả bóng bay lễ hội. Chúng ở trong kho đồ của hộ gia đình." />
+    <TextStringDefinition InstanceID="0x5309511E" TextString="Phần thưởng Cấp Vàng bao gồm một đối tượng phòng ngủ mới." />
+    <TextStringDefinition InstanceID="0x11DFD8C6" TextString="Chúc mừng sinh nhật! Ai đó đã để lại cho bạn một tủ mới trong kho đồ của hộ gia đình. Có lẽ đó là gợi ý để bạn bắt đầu ăn mặc phù hợp với tuổi (mới) của mình." />
+    <TextStringDefinition InstanceID="0x0B118498" TextString="Phần thưởng Cấp Đồng bao gồm một đối tượng sách mới." />
+    <TextStringDefinition InstanceID="0xE7212374" TextString="Chúc mừng sinh nhật! Tiếc là buổi tiệc không vui. Ít nhất thì ai đó cũng để lại một cuốn sách làm quà. Nó ở trong kho đồ của hộ gia đình." />
+    <TextStringDefinition InstanceID="0xF01CDC0E" TextString="Phần thưởng Đã nhận" />
+    <TextStringDefinition InstanceID="0x749178EB" TextString="Sống lâu" />
+    <TextStringDefinition InstanceID="0xEAE56FCA" TextString="Sống lâu" />
+    <TextStringDefinition InstanceID="0x8F8AD9DC" TextString="Lương tăng trên tất cả các Công việc ngắn hạn" />
+    <TextStringDefinition InstanceID="0x80E7B89C" TextString="Khả năng 'Tăng xung nhịp' Máy tính" />
+    <TextStringDefinition InstanceID="0x4B8FB244" TextString="Nhà hàng của bạn, {1.String}, đã bắt đầu thua lỗ! Bạn có thể muốn đóng cửa nó cho đến khi bạn có thể đến thăm và cứu vãn." />
+    <TextStringDefinition InstanceID="0xE505AA28" TextString="Người lạ" />
+    <TextStringDefinition InstanceID="0x021F93D8" TextString="Phụ thuộc" />
+    <TextStringDefinition InstanceID="0x21815918" TextString="Người chăm sóc" />
+    <TextStringDefinition InstanceID="0x515F1B99" TextString="Kẻ thù" />
+    <TextStringDefinition InstanceID="0xE9EFDC71" TextString="Hai Sim này từ chối sống chung!" />
+    <TextStringDefinition InstanceID="0x2B312720" TextString="{0.SimFirstName} và {1.SimFirstName} đã giải quyết xung đột và không còn là Kẻ thù nữa." />
+    <TextStringDefinition InstanceID="0x8E3D6B3A" TextString="{1.SimFirstName} và {0.SimFirstName} đã chán ghét nhau. Giờ đây họ là Kẻ thù!" />
+    <TextStringDefinition InstanceID="0x56F38E69" TextString="Kẻ thù truyền kiếp" />
+    <TextStringDefinition InstanceID="0x02D93561" TextString="Hai Sim này là kẻ thù chính của nhau." />
+    <TextStringDefinition InstanceID="0xA9739FCB" TextString="Đối tác Kinh doanh Bị phản bội" />
+    <TextStringDefinition InstanceID="0x15ADD1E7" TextString="Hai Sim này không thể chịu đựng nhau. Mọi cầu nối đã bị thiêu rụi sau một cuộc tranh cãi nảy lửa về các doanh nghiệp gia đình của họ." />
+    <TextStringDefinition InstanceID="0x79C88D8C" TextString="Bạn tốt" />
+    <TextStringDefinition InstanceID="0x6E18E1F6" TextString="Đây là một mối quan hệ vững chắc được xây dựng trên sự tin tưởng và những kỷ niệm tuyệt vời." />
+    <TextStringDefinition InstanceID="0x0C3B97A0" TextString="Với nhiều khoảnh khắc dịu dàng và những kỷ niệm cảm xúc đã lãng quên, cùng với sự hối tiếc và mất mát chân thành vẫn còn trong tâm trí, {0.SimFirstName} và {1.SimFirstName} không còn là Bạn tri kỷ nữa. Hãy kiên cường." />
+    <TextStringDefinition InstanceID="0xC5E21B1D" TextString="Bạn bè thân thiết" />

@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x106A9D5F" TextString="Ối đau!" />
+    <TextStringDefinition InstanceID="0x5751E8B0" TextString="Sau khi phấn khích thì xuống… có gì đó đau sau cơn giận dữ ồn ào đó." />
+    <TextStringDefinition InstanceID="0x86A46B12" TextString="Lắng nghe tôi" />
+    <TextStringDefinition InstanceID="0x9C601AC3" TextString="Áhhhhhhhhhhhhhhh! Hãy chú ý đến tôi!" />
+    <TextStringDefinition InstanceID="0x91488D51" TextString="Đạt được ý muốn" />
+    <TextStringDefinition InstanceID="0x98E353AE" TextString="Đứa trẻ này cai trị tổ ấm! Không lớn lắm nhưng chắc chắn là người chỉ huy." />
+    <TextStringDefinition InstanceID="0x6DD0626A" TextString="Tình yêu đâu rồi?" />
+    <TextStringDefinition InstanceID="0xF39B356B" TextString="{0.SimFirstName} đã xa cha mẹ quá lâu và bắt đầu cảm thấy buồn." />
+    <TextStringDefinition InstanceID="0x7A7C0C9F" TextString="Bạn mới" />
+    <TextStringDefinition InstanceID="0xB20054F0" TextString="Người quyến rũ thích gặp gỡ sim mới và kết bạn. Điều đó khiến họ rất vui!" />
+    <TextStringDefinition InstanceID="0x9DCABC7A" TextString="Đã bị quyến rũ" />
+    <TextStringDefinition InstanceID="0x9724969B" TextString="Ôôôô, ôm! Hoan hô, ôm!" />
+    <TextStringDefinition InstanceID="0x22C55235" TextString="Dễ tính" />
+    <TextStringDefinition InstanceID="0xBE197EAA" TextString="Cuộc sống không tệ lắm. Quá nhiều lý do để trở thành một đứa trẻ vui vẻ, sôi nổi." />
+    <TextStringDefinition InstanceID="0x2C509A72" TextString="Được bao quanh bởi kẻ hợm hẹn" />
+    <TextStringDefinition InstanceID="0x82A965A3" TextString="Sim hợm hẹn thích ở trong sự hiện diện của các Sim hợm hẹn khác. Người ưu tú đoàn kết!" />
+    <TextStringDefinition InstanceID="0xDAD8ECDD" TextString="(Từ đặc điểm Hợm hẹn)" />
+    <TextStringDefinition InstanceID="0xD3173493" TextString="Thiên tài" />
+    <TextStringDefinition InstanceID="0x3B86D83C" TextString="Học kỹ năng nhanh hơn rất nhiều." />
+    <TextStringDefinition InstanceID="0xACE80229" TextString="Đau khổ vì tình yêu" />
+    <TextStringDefinition InstanceID="0xABE866F6" TextString="Sim lãng mạn cần thể hiện tình yêu và được thể hiện tình yêu!" />
+    <TextStringDefinition InstanceID="0x3D805F0C" TextString="Thật... nhàm chán..." />
+    <TextStringDefinition InstanceID="0x57CB7629" TextString="{0.SimFirstName} đã nghe lời khuyên này trước đây." />
+    <TextStringDefinition InstanceID="0x4576ED24" TextString="Hoàn hảo" />
+    <TextStringDefinition InstanceID="0x15B2FFD1" TextString="{0.SimFirstName} đã đạt tiềm năng cao nhất cho tất cả kỹ năng! Đừng quên tiếp tục luyện tập!" />
+    <TextStringDefinition InstanceID="0x4234D9F3" TextString="{0.SimFirstName} đã đạt tiềm năng cao nhất cho kỹ năng Xã hội, nhưng đừng ngừng luyện tập!" />
+    <TextStringDefinition InstanceID="0x1A4F5EF5" TextString="{0.SimFirstName} đã đạt tiềm năng cao nhất cho kỹ năng Thể chất, nhưng đừng ngừng luyện tập!" />
+    <TextStringDefinition InstanceID="0x75FDE5C5" TextString="{0.SimFirstName} đã đạt tiềm năng cao nhất cho kỹ năng Trí tuệ, nhưng đừng ngừng luyện tập!" />
+    <TextStringDefinition InstanceID="0x577813D9" TextString="Sự cống hiến" />
+    <TextStringDefinition InstanceID="0x4A50C446" TextString="{0.SimFirstName} đã đạt tiềm năng cao nhất cho kỹ năng Sáng tạo, nhưng đừng ngừng luyện tập!" />
+    <TextStringDefinition InstanceID="0x2FE16D03" TextString="{0.SimFirstName} đang lên đà và sẽ hiệu quả hơn ở kỹ năng Xã hội!" />
+    <TextStringDefinition InstanceID="0xDE9DF1C5" TextString="{0.SimFirstName} đang lên đà và sẽ hiệu quả hơn ở kỹ năng Thể chất!" />
+    <TextStringDefinition InstanceID="0x90EB7815" TextString="{0.SimFirstName} đang lên đà và sẽ hiệu quả hơn ở kỹ năng Trí tuệ!" />
+    <TextStringDefinition InstanceID="0x7B247511" TextString="{0.SimFirstName} đang lên đà và sẽ hiệu quả hơn ở kỹ năng Sáng tạo!" />
+    <TextStringDefinition InstanceID="0x59C6A0E9" TextString="Đà" />
+    <TextStringDefinition InstanceID="0x895CCCE9" TextString="Chánh niệm" />
+    <TextStringDefinition InstanceID="0xDA3659B6" TextString="Không có gì như một bước đi bình yên, chánh niệm!" />
+    <TextStringDefinition InstanceID="0x7E7A27C9" TextString="Mẹo sống" />
+    <TextStringDefinition InstanceID="0xA671E316" TextString="Lời khuyên tuyệt vời! {0.SimFirstName} sẵn sàng đưa nó vào hành động." />
+    <TextStringDefinition InstanceID="0xF379A500" TextString="Ối! {0.SimFirstName} đang mất tập trung ở kỹ năng Xã hội. Tiếp tục luyện tập để lấy lại!" />
+    <TextStringDefinition InstanceID="0x33315B66" TextString="Ối! {0.SimFirstName} đang mất tập trung ở kỹ năng Thể chất. Tiếp tục luyện tập để lấy lại!" />
+    <TextStringDefinition InstanceID="0x14EDFC82" TextString="Ối! {0.SimFirstName} đang mất tập trung ở kỹ năng Trí tuệ. Tiếp tục luyện tập để lấy lại!" />
+    <TextStringDefinition InstanceID="0x8A207534" TextString="Thiếu luyện tập" />
+    <TextStringDefinition InstanceID="0xF24DB001" TextString="Ối! {0.SimFirstName} đang mất tập trung ở kỹ năng Sáng tạo. Tiếp tục luyện tập để lấy lại!" />
+    <TextStringDefinition InstanceID="0x6D62F301" TextString="Đặc điểm này giúp Sim học kỹ năng nhanh hơn nếu họ luyện tập cùng một loại kỹ năng (Thể chất, Xã hội, Trí tuệ và Sáng tạo) kiên trì mỗi ngày." />
+    <TextStringDefinition InstanceID="0x8BBBEB26" TextString="Tâm trí trong sáng" />
+    <TextStringDefinition InstanceID="0x859EB5FF" TextString="Ahhh! Đôi khi tốt nhất là làm sạch tâm trí và bắt đầu lại." />
+    <TextStringDefinition InstanceID="0x09078C66" TextString="Khúc ca của sự sạch sẽ" />
+    <TextStringDefinition InstanceID="0xAE79AE3F" TextString="Những nốt nhạc trong đầu {0.SimFirstName} thôi thúc sự sạch sẽ." />
+    <TextStringDefinition InstanceID="0xF893D438" TextString="Công việc không hoàn hảo" />

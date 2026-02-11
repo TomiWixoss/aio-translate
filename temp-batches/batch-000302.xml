@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x098F3BCB" TextString="Câu lạc bộ" />
+    <TextStringDefinition InstanceID="0xCBC9BFD1" TextString="Sự nghiệp &amp;amp; Giáo dục" />
+    <TextStringDefinition InstanceID="0xCF9BD96A" TextString="Sở hữu một doanh nghiệp nhỏ không phải lúc nào cũng dễ dàng, nhưng làm chủ bản thân có sức hút riêng!" />
+    <TextStringDefinition InstanceID="0x2A12606D" TextString="Chủ Doanh Nghiệp Nhỏ" />
+    <TextStringDefinition InstanceID="0xAED967FB" TextString="Tiểu sử:" />
+    <TextStringDefinition InstanceID="0x11E1BBDA" TextString="Thời tiết hiện tại:" />
+    <TextStringDefinition InstanceID="0x9AC8E142" TextString="Bật âm điện thoại" />
+    <TextStringDefinition InstanceID="0xFE8430E1" TextString="Tin nhắn văn bản đến:" />
+    <TextStringDefinition InstanceID="0xC322EE3A" TextString="Quỹ gia đình" />
+    <TextStringDefinition InstanceID="0xD21453E7" TextString="Im điện thoại" />
+    <TextStringDefinition InstanceID="0x9A63CA80" TextString="Mùa đông" />
+    <TextStringDefinition InstanceID="0x7971B058" TextString="Mùa hè" />
+    <TextStringDefinition InstanceID="0x10459F10" TextString="Mùa xuân" />
+    <TextStringDefinition InstanceID="0x35F60DA4" TextString="Mùa thu" />
+    <TextStringDefinition InstanceID="0x1F204B0E" TextString="Nhiệm vụ khám phá đến\n" />
+    <TextStringDefinition InstanceID="0x47225FEC" TextString="Cuộc gọi điện thoại đến:" />
+    <TextStringDefinition InstanceID="0x2E9F7E22" TextString="Không có sẵn cho Sim này." />
+    <TextStringDefinition InstanceID="0x120A06B7" TextString="Dự báo hôm nay:" />
+    <TextStringDefinition InstanceID="0xC6C88C8A" TextString="Dấu chân sinh thái" />
+    <TextStringDefinition InstanceID="0xDC9B0AEB" TextString="Dấu chân sinh thái" />
+    <TextStringDefinition InstanceID="0x1EFCAC59" TextString="Ngày {0.Number} của {1.Number}" />
+    <TextStringDefinition InstanceID="0x9DDD068D" TextString="Thay đổi màu vỏ điện thoại" />
+    <TextStringDefinition InstanceID="0x54262709" TextString="Thay đổi màu nền điện thoại" />
+    <TextStringDefinition InstanceID="0x43A5FDA3" TextString="Bạn không thể đi du lịch khi một tình huống đang diễn ra." />
+    <TextStringDefinition InstanceID="0x55F28259" TextString="Bạn không thể chọn tùy chọn này lúc này vì {0.SimFirstName} không ở đây!" />
+    <TextStringDefinition InstanceID="0x5B5354B7" TextString="Báo thức đến:" />
+    <TextStringDefinition InstanceID="0x2052A67D" TextString="Hoạt động ngoại khóa - J" />
+    <TextStringDefinition InstanceID="0xEF5B7EAF" TextString="Simology - Y" />
+    <TextStringDefinition InstanceID="0xF8EC2A9E" TextString="Kỹ năng - L" />
+    <TextStringDefinition InstanceID="0x4729DA1B" TextString="Trường học" />
+    <TextStringDefinition InstanceID="0xB594AD01" TextString="Trường học - J" />
+    <TextStringDefinition InstanceID="0xD279A823" TextString="Trường học / Hoạt động ngoại khóa / Sự nghiệp - J" />
+    <TextStringDefinition InstanceID="0x01B5FA22" TextString="Doanh nghiệp sở hữu" />
+    <TextStringDefinition InstanceID="0x2EA09855" TextString="Kéo vào đây để thay đổi kích thước bảng." />
+    <TextStringDefinition InstanceID="0x64F1ACEB" TextString="Mối quan hệ - R" />
+    <TextStringDefinition InstanceID="0xD84A2047" TextString="Nhu cầu - O" />
+    <TextStringDefinition InstanceID="0x8E8C6817" TextString="Kho đồ - I" />
+    <TextStringDefinition InstanceID="0x05C16496" TextString="Nhóm xã hội - U" />
+    <TextStringDefinition InstanceID="0x76FCEDA7" TextString="Sự nghiệp - J" />
+    <TextStringDefinition InstanceID="0x163BD064" TextString="{0.String} / {1.String}" />
+    <TextStringDefinition InstanceID="0xC47B30A8" TextString="Đang trải qua kiệt sức" />
+    <TextStringDefinition InstanceID="0x2A341A95" TextString="Kỳ vọng - G" />
+    <TextStringDefinition InstanceID="0xE3031DB6" TextString="Đặc điểm đi lại" />
+    <TextStringDefinition InstanceID="0xD7D1A8AD" TextString="\n• Đặc điểm phần thưởng" />
+    <TextStringDefinition InstanceID="0x8B80B094" TextString="\n• Đặc điểm tính cách" />
+    <TextStringDefinition InstanceID="0x112F6B61" TextString="{0.String}\n{1.String}" />
+    <TextStringDefinition InstanceID="0x73E434ED" TextString="Thống kê" />
+    <TextStringDefinition InstanceID="0x1289BB7A" TextString="{0.SimFirstName} không có đặc điểm nào." />
+    <TextStringDefinition InstanceID="0xA6A5FCDA" TextString="Tổng số ngày đã sống và ở Đời sau: {0.Number}" />
+    <TextStringDefinition InstanceID="0x924A4561" TextString="Số ngày đã sống: {0.Number}" />

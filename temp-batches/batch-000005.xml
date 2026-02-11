@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x80534315" TextString="Chỉ Đặt Lại Mẹo" />
+    <TextStringDefinition InstanceID="0x717C0C87" TextString="Đặt Lại Hệ Thống Hướng Dẫn:" />
+    <TextStringDefinition InstanceID="0x3E4BEA0B" TextString="Việc đặt lại Hệ Thống Hướng Dẫn sẽ khôi phục tất cả các hướng dẫn về trạng thái chưa xem ban đầu." />
+    <TextStringDefinition InstanceID="0x486FBE4E" TextString="Nhiệm Vụ Khám Phá" />
+    <TextStringDefinition InstanceID="0x32882CB1" TextString="Gói Đang Hoạt Động cho Hướng Dẫn Nâng Cao:" />
+    <TextStringDefinition InstanceID="0xA6822F24" TextString="Cuộc Phiêu Lưu Đang Chờ Đón" />
+    <TextStringDefinition InstanceID="0xA98233F8" TextString="Cho Thuê" />
+    <TextStringDefinition InstanceID="0xD7C6BDF5" TextString="Chọn gói mà bạn muốn xem Hệ Thống Hướng Dẫn Nâng Cao." />
+    <TextStringDefinition InstanceID="0x85937C14" TextString="Trò Chơi Cơ Bản" />
+    <TextStringDefinition InstanceID="0x9C431ABE" TextString="Hướng Dẫn" />
+    <TextStringDefinition InstanceID="0xC4044177" TextString="Bật Nhiệm Vụ Khám Phá:" />
+    <TextStringDefinition InstanceID="0xE1ED99FB" TextString="Việc tắt hệ thống Nhiệm Vụ Khám Phá có nghĩa là bạn sẽ không được đưa ra các kịch bản nhiệm vụ hướng dẫn." />
+    <TextStringDefinition InstanceID="0x3D9A012B" TextString="Bật Biểu Tượng Trung Tâm Trợ Giúp &amp; Chú Thích Điều Khiển:" />
+    <TextStringDefinition InstanceID="0xD625D900" TextString="Việc tắt điều này sẽ loại bỏ Trung Tâm Trợ Giúp khỏi giao diện và ẩn Chú Thích Điều Khiển." />
+    <TextStringDefinition InstanceID="0x49DB5A32" TextString="Bật Hệ Thống Hướng Dẫn:" />
+    <TextStringDefinition InstanceID="0x2CE37656" TextString="Việc tắt Hệ Thống Hướng Dẫn có nghĩa là Emily sẽ không tự động xuất hiện để hướng dẫn bạn trong Chế độ Tạo Sim, Chọn Thế Giới và Lô đất, Chế độ Sống và Chế độ Xây Dựng." />
+    <TextStringDefinition InstanceID="0x54A04E41" TextString="Bật Hệ Thống Hướng Dẫn Gói:" />
+    <TextStringDefinition InstanceID="0x3D19DA45" TextString="Việc tắt Hệ Thống Hướng Dẫn Nâng Cao có nghĩa là bạn sẽ không xem được các mẹo onboarding cụ thể cho gói." />
+    <TextStringDefinition InstanceID="0xDD393FFA" TextString="Bật Bão Tuyết Sấm Sét:" />
+    <TextStringDefinition InstanceID="0x4CAC5D15" TextString="Bật Bão Tuyết Sấm Sét" />
+    <TextStringDefinition InstanceID="0x910585E0" TextString="Tùy chọn &quot;Snow Options&quot; trong Mùa phải được đặt để cho phép tuyết trải nghiệm điều kiện thời tiết của Snowy Escape." />
+    <TextStringDefinition InstanceID="0x24429B60" TextString="Bật Điều Kiện Băng Giá:" />
+    <TextStringDefinition InstanceID="0x86CCF217" TextString="Bật Điều Kiện Băng Giá" />
+    <TextStringDefinition InstanceID="0x1FF9BAAD" TextString="Bật Tuyết." />
+    <TextStringDefinition InstanceID="0xA174CD04" TextString="Bật Tuyết:" />
+    <TextStringDefinition InstanceID="0x564091BD" TextString="Nếu bật, thẻ bài Small Business Dilemma có thể kích hoạt, điều này chỉ có thể xảy ra khi Small Business đang hoạt động." />
+    <TextStringDefinition InstanceID="0xE6A31CCF" TextString="Nếu tắt, thẻ bài Small Business Dilemma sẽ không còn cơ hội kích hoạt khi Small Business đang hoạt động." />
+    <TextStringDefinition InstanceID="0xD09C5214" TextString="Bật Các Tình Huống Small Business" />
+    <TextStringDefinition InstanceID="0x37BB533C" TextString="Bật các ảnh hưởng tích cực và tiêu cực của nhiệt độ lên Sim." />
+    <TextStringDefinition InstanceID="0xC89C55E3" TextString="Bật Hiệu Ứng Nhiệt Độ Trên Sim:" />
+    <TextStringDefinition InstanceID="0x3CC69489" TextString="Bật hoặc tắt tuyết và bão tuyết. Sẽ mất một chút thời gian để thay đổi của bạn có hiệu lực." />
+    <TextStringDefinition InstanceID="0xF6D0F2C0" TextString="Tùy Chọn Tuyết:" />
+    <TextStringDefinition InstanceID="0x72A688C1" TextString="Cảnh báo: Thay đổi độ dài mùa sẽ di chuyển vị trí lịch của các ngày lễ và sự kiện." />
+    <TextStringDefinition InstanceID="0x931600E8" TextString="Độ Dài Mùa:" />
+    <TextStringDefinition InstanceID="0x6E9650EE" TextString="Bật hoặc tắt mưa và bão. Sẽ mất một chút thời gian để thay đổi của bạn có hiệu lực." />
+    <TextStringDefinition InstanceID="0x8A8260C9" TextString="Tùy Chọn Mưa:" />
+    <TextStringDefinition InstanceID="0xB0FE1FA3" TextString="Tuyết và Bão Tuyết" />
+    <TextStringDefinition InstanceID="0xF833CF3A" TextString="Tuyết" />
+    <TextStringDefinition InstanceID="0xED010E98" TextString="Mưa và Bão" />
+    <TextStringDefinition InstanceID="0xBED0306D" TextString="Mưa" />
+    <TextStringDefinition InstanceID="0x60DE9113" TextString="Không" />
+    <TextStringDefinition InstanceID="0x702EB6E8" TextString="28 Ngày" />
+    <TextStringDefinition InstanceID="0xA0E0938F" TextString="7 Ngày" />
+    <TextStringDefinition InstanceID="0x2EAD6A54" TextString="14 Ngày" />
+    <TextStringDefinition InstanceID="0x5ECB6542" TextString="Không tìm thấy thư mục" />
+    <TextStringDefinition InstanceID="0x44DD7775" TextString="Cài Đặt Gói" />
+    <TextStringDefinition InstanceID="0x066ECFC4" TextString="Xem Nội Dung Tùy Chỉnh" />
+    <TextStringDefinition InstanceID="0x643CF4EB" TextString="Đăng xuất khỏi Twitter" />
+    <TextStringDefinition InstanceID="0x2DBBA0C5" TextString="Đăng nhập vào Twitter" />
+    <TextStringDefinition InstanceID="0x2B617F5D" TextString="Chia Sẻ Dữ Liệu Sử Dụng:" />

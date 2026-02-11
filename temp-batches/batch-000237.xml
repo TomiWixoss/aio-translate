@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xA6EE38A0" TextString="Lửa đã tắt!" />
+    <TextStringDefinition InstanceID="0x06F00525" TextString="May mà lửa đã tắt. Có thể tồi tệ hơn nữa không? " />
+    <TextStringDefinition InstanceID="0x801D8463" TextString="Cứu mạng!" />
+    <TextStringDefinition InstanceID="0xEB6C612C" TextString="Cứu mạng một Sim khác mang lại một cơn đột ngột tự tin!" />
+    <TextStringDefinition InstanceID="0x04D07AB3" TextString="Lính cứu hỏa!" />
+    <TextStringDefinition InstanceID="0x195974DC" TextString="Dũng cảm dập tắt ngọn lửa thực sự thúc đẩy sự tự tin của Sim!" />
+    <TextStringDefinition InstanceID="0xAD409574" TextString="{0.SimFirstName} không cảm thấy khỏe sau khi xem bạn {M0.his}{F0.her} thua trận đấu đó." />
+    <TextStringDefinition InstanceID="0xB8C27C28" TextString="Chứng kiến một trận đấu đang đè nặng trên tâm trí của {0.SimFirstName}. Có cách tốt hơn để giải quyết tranh cãi!" />
+    <TextStringDefinition InstanceID="0x91ED705F" TextString="Tại sao người khác phải đánh nhau để giải quyết vấn đề? {0.SimFirstName} không quá vui vì họ phải xem một trận đánh nhau diễn ra." />
+    <TextStringDefinition InstanceID="0x6FFD8144" TextString="Xem một cuộc tranh cãi chuyển thành đánh đấm đã cho {0.SimFirstName} một vài ý tưởng tuyệt vời. Giờ thì, nếu họ chỉ biết chính xác điều gì đã gây ra trận đánh." />
+    <TextStringDefinition InstanceID="0x454CC33C" TextString="Đã chứng kiến trận đánh" />
+    <TextStringDefinition InstanceID="0xD2578339" TextString="{0.SimFirstName} rất vui vì bạn {M0.his}{F0.her} đã thắng trận đấu!" />
+    <TextStringDefinition InstanceID="0x950F0C0E" TextString="Sau khi chứng kiến một trận đánh, {0.SimFirstName} sẵn sàng cho một trận đánh của chính mình!" />
+    <TextStringDefinition InstanceID="0x0AC9302D" TextString="{0.SimFirstName} đã hào hứng khi thấy một trận ẩu đả, nhưng nó quá một chiều nên họ ngay lập tức mất hứng thú" />
+    <TextStringDefinition InstanceID="0xBF6AC50D" TextString="Không còn nước" />
+    <TextStringDefinition InstanceID="0x27611E72" TextString="{0.SimFirstName} có thể không biết nhiều hóa chất, nhưng {M0.he}{F0.she} biết mối nguy của dihydrogen monoxide. {M0.He}{F0.She} có thể đã thích nước trước đây nhưng {M0.he}{F0.she} thậm chí không muốn nghĩ đến nước hay những chữ cái đó nữa." />
+    <TextStringDefinition InstanceID="0x2358979F" TextString="Hoảng loạn từ phép thuật" />
+    <TextStringDefinition InstanceID="0xAB309DF0" TextString="Trải nghiệm phép thuật có ý đồ xấu khiến {0.SimFirstName} căng thẳng. Chỉ một chút lấp lánh cũng khiến {0.SimPronounObjective} nghĩ đến việc chạy trốn và trốn tránh." />
+    <TextStringDefinition InstanceID="0x4F3C117A" TextString="Có phải di chuyển đó?" />
+    <TextStringDefinition InstanceID="0x84CEED9B" TextString="Có lẽ chỉ là gió? Liệu nó có thể là một MA THẦN khác, phải không?" />
+    <TextStringDefinition InstanceID="0x578DDE3E" TextString="Nó ĐÃ QUAY TRỞ LẠI" />
+    <TextStringDefinition InstanceID="0x534F4387" TextString="{0.SimFirstName} nghĩ rằng ma chỉ là một lần duy nhất nhưng điều đó dường như chỉ là sự khởi đầu." />
+    <TextStringDefinition InstanceID="0xF4399717" TextString="Nỗi sợ hãi rình rập" />
+    <TextStringDefinition InstanceID="0x36934E98" TextString="Cảm giác khủng khiếp đó rình rập trên {0.SimFirstName} khi {M0.he}{F0.she} khám phá ra điều mới về {M0.himself}{F0.herself}. Một nỗi sợ chưa từng có trước đây, đang lớn lên bên trong. Sẵn sàng khiến {0.SimFirstName} tê liệt bất cứ lúc nào." />
+    <TextStringDefinition InstanceID="0x74B5D891" TextString="Nỗi lo âu rình rập" />
+    <TextStringDefinition InstanceID="0x19F80EEE" TextString="Cảm giác lo âu đó rình rập trên {0.SimFirstName} khi {M0.he}{F0.she} khám phá ra điều mới về {M0.himself}{F0.herself}. Một nỗi sợ chưa từng có trước đây, đang lớn lên bên trong, sẵn sàng khiến {0.SimFirstName} tê liệt bất cứ lúc nào." />
+    <TextStringDefinition InstanceID="0xE8B7C302" TextString="{0.SimFirstName} sợ lửa!" />
+    <TextStringDefinition InstanceID="0x78F453DB" TextString="Biết họ sẽ không thích nó" />
+    <TextStringDefinition InstanceID="0xB714E074" TextString="Thật ngốc nghếch khi nghĩ rằng thứ {0.SimFirstName} làm ra có giá trị ngay từ đầu." />
+    <TextStringDefinition InstanceID="0x5036BDB9" TextString="Thất bại nào đang chờ đón hôm nay?" />
+    <TextStringDefinition InstanceID="0xB7964EA6" TextString="Đến lúc này {0.SimFirstName} nghĩ rằng {M0.he}{F0.she} sẽ quen với việc thất bại ở mọi thứ nhưng mỗi ngày là một bất ngờ mới trong sự thất vọng." />
+    <TextStringDefinition InstanceID="0x8C006EAA" TextString="Không bao giờ đủ tốt" />
+    <TextStringDefinition InstanceID="0x927ED7AB" TextString="Không ngạc nhiên khi bất cứ điều gì {0.SimFirstName} làm đều dẫn đến thất bại, ngay cả những thứ {M0.he}{F0.she} tạo ra." />
+    <TextStringDefinition InstanceID="0x720E463A" TextString="Được công nhận" />
+    <TextStringDefinition InstanceID="0xF7F5145B" TextString="Tất cả công việc chăm chỉ của {0.SimFirstName} đã được công nhận." />
+    <TextStringDefinition InstanceID="0x0FAD52FF" TextString="Vẫn là một kẻ thất bại" />
+    <TextStringDefinition InstanceID="0xF27254D0" TextString="Ngay cả khi được hỏi {0.SimFirstName} thất bại đến mức nào, việc nghe thấy cũng không dễ dàng." />
+    <TextStringDefinition InstanceID="0xB4F7171B" TextString="{0.SimFirstName} sợ cái chết quá nhiều để cầu xin Thần Chết đang làm việc." />
+    <TextStringDefinition InstanceID="0x60AD84D1" TextString="Sợ Thần Chết!" />
+    <TextStringDefinition InstanceID="0x6753FE2E" TextString="Có phải là Thần Chết? Tại sao Thần Chết lại đến gần hơn?" />
+    <TextStringDefinition InstanceID="0x21A6E456" TextString="Sự an ủi hiện sinh nhỏ" />
+    <TextStringDefinition InstanceID="0x4148638F" TextString="Đôi khi hữu ích khi nghĩ về cái chết chỉ là sự khởi đầu của điều mới. Điều mới đó sẽ do {0.SimFirstName} quyết định." />
+    <TextStringDefinition InstanceID="0x3BF67F7E" TextString="Công việc không đam mê" />
+    <TextStringDefinition InstanceID="0xF3575AC7" TextString="Điểm mấu chốt là gì nữa? Đi làm, làm việc một cách vô tâm, nhận lương, ngủ, lặp lại. {0.SimFirstName} thậm chí đang làm gì ở đây?" />
+    <TextStringDefinition InstanceID="0x005CB364" TextString="Không có gì tốt từ công việc này" />
+    <TextStringDefinition InstanceID="0xFCF25011" TextString="Không góc độ, cách suy nghĩ khác, giấc mơ, trí tưởng tượng, hay kịch bản nào đã thuyết phục {0.SimFirstName} rằng công việc này đáng để ở lại. Có lẽ đã đến lúc chuyển tiếp..." />
+    <TextStringDefinition InstanceID="0x8FF28B60" TextString="Thử thách mới" />
+    <TextStringDefinition InstanceID="0xD52CABE5" TextString="Với một sự thay đổi nhỏ về tư duy, {0.SimFirstName} sẵn sàng đi làm với đầu ngẩng cao và đam mê để đối mặt với bất cứ điều gì cuộc sống mang lại." />
+    <TextStringDefinition InstanceID="0xA332A962" TextString="Tiếng ồn đó là gì?" />
+    <TextStringDefinition InstanceID="0x58785033" TextString="Suy nghĩ mơ hồ có thể khiến những bóng đổ trông như những yêu tinh lùn đang cố gắng đánh cắp tiền mua trưa trong phòng tắm." />

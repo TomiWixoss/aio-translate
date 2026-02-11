@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xE588F13C" TextString="Chọn Nhiệm Vụ" />
+    <TextStringDefinition InstanceID="0x299E9122" TextString="{0.SimFirstName} được cơ hội để chọn nhiệm vụ tiếp theo cho đội của {M0.him}{F0.her}. {M0.He}{F0.She} có thể hoặc gửi các phi hành gia của {M0.him}{F0.her} trên một nhiệm vụ mạo hiểm vào vùng ngoài không gian, hoặc {M0.he}{F0.she} có thể gửi họ trên một chuyến đi thu thập thông tin dễ dàng gần Trái Đất. {M0.He}{F0.She} nên chọn cái nào?" />
+    <TextStringDefinition InstanceID="0x2272C469" TextString="Khi {0.SimFirstName} bước đến cửa sổ phía phi công, phi công phóng khỏi tàu trong một phòng thoát hiện! Anh ta đã đi xa, nhưng {0.SimFirstName} kéo tấm bạt ra khỏi kho hàng để lộ ra 13 con Grinx lùn! {0.SimFirstName} gọi cho Bộ Kiểm Soát Sinh Vật Ngoài Hành Tinh và nhận được thưởng vì quan sát rất tinh tường." />
+    <TextStringDefinition InstanceID="0xC31BC2A4" TextString="Lấy của khách hàng" />
+    <TextStringDefinition InstanceID="0x54BE2A81" TextString="Tính giá hợp lý" />
+    <TextStringDefinition InstanceID="0x2BB764C3" TextString="Bên trong buồng lái, {0.SimFirstName} tìm thấy một sinh vật không gian nhỏ xíu. Tuyệt vời! Một dạng sống hoàn toàn chưa được ghi chép! Điều này sẽ trông rất tuyệt trên bàn làm việc của {0.SimFirstName}." />
+    <TextStringDefinition InstanceID="0x5EE65A33" TextString="Khi {0.SimFirstName} mở buồng lái, một làn bụi lấp lánh nhỏ bay ra, và {M0.he}{F0.she} lập tức hít phải. Có lẽ không tốt đâu. Vài phút sau, {0.SimFirstName} cảm thấy rất khó chịu. Cảm ơn nhiều, Bụi Không Gian!" />
+    <TextStringDefinition InstanceID="0x01772561" TextString="Để Mặc Nó" />
+    <TextStringDefinition InstanceID="0x80815A5D" TextString="Điều Tra" />
+    <TextStringDefinition InstanceID="0x759CC551" TextString="Vẫn Cài Đặt" />
+    <TextStringDefinition InstanceID="0x2342A951" TextString="Chờ Phép" />
+    <TextStringDefinition InstanceID="0x448CE1AD" TextString="Đây là nhiệm vụ đầu tiên của {M0.him}{F0.her}, nên thông minh là không nên mạo hiểm. {0.SimFirstName} giữ khoảng cách an toàn với vật thể đó." />
+    <TextStringDefinition InstanceID="0x4F78FA29" TextString="Lính canh không nhúc nhích. Không chớp mắt, không cười, và không di chuyển. {0.SimFirstName} chỉ còn cách nhìn chằm chằm vào các cửa sổ, cố gắng thấy chuyển động bên trong. Điều đó sẽ không đủ để có hành động chống lại nhà máy." />
+    <TextStringDefinition InstanceID="0x5DFA2DEE" TextString="Vài lời nịnh bợ, vài cái chớp mắt, và {0.SimFirstName} đã vào được. Không chỉ nhà máy vi phạm an toàn và được nhân công lao động nhập cư trả lương thấp, mà thiết bị liên lạc duy nhất là một máy fax. {0.SimFirstName} đóng cửa nhà máy và kiếm đồ ăn vặt trong bếp." />
+    <TextStringDefinition InstanceID="0x009BAE4E" TextString="Tàu con thoi lơ lửng vài giây trước khi rơi vỡ xuống Trái Đất. Va chạm làm vỡ khung tàu và cháy thiết bị điện tử. Hơn nữa, tất cả phi hành gia đều kêu ca họ bị chấn thương cổ." />
+    <TextStringDefinition InstanceID="0xDB4E6513" TextString="{0.SimFirstName} thuyết phục toàn bộ phòng điều khiển rằng không có gì phải lo lắng, và quả nhiên vụ phóng diễn ra suôn sẻ. Phi hành gia được phóng an toàn vào quỹ đạo, và {0.SimFirstName} cố gắng không nghĩ về việc hạ cánh sau này." />
+    <TextStringDefinition InstanceID="0x3A1794DD" TextString="Vẫn Hạ Cánh" />
+    <TextStringDefinition InstanceID="0xE20E55B1" TextString="Sửa Động Cơ Phụ" />
+    <TextStringDefinition InstanceID="0xB04EA35C" TextString="Tìm Kiếm Họ" />
+    <TextStringDefinition InstanceID="0xD17CBA90" TextString="Để Họ Đi" />
+    <TextStringDefinition InstanceID="0x25A07F66" TextString="Khi {M0.he}{F0.she} đến gần Vật Thể Nổi Không Xác Định, {0.SimFirstName} nhận ra đó là một tảng đá mặt trăng vô hại nhưng đẹp! {M0.He}{F0.She} phóng cánh tay robot ra để thu thập nó, và {M0.he’ll}{F0.she’ll} giữ nó mãi mãi như một kỷ niệm đẹp về chuyến đi đầu tiên của {M0.him}{F0.her}." />
+    <TextStringDefinition InstanceID="0x503E6148" TextString="Khi {M0.he}{F0.she} đến gần Vật Thể Nổi Không Xác Định, {M0.he}{F0.she} nhận ra đó là một bạch tuộc không gian--và nó đang thực hiện một số cử chỉ đe dọa rất rõ ràng. {0.SimFirstName} bắn tên lửa phản lực trước khi quái vật phun mực khắp tàu của {M0.him}{F0.her}." />
+    <TextStringDefinition InstanceID="0xD69384F7" TextString="Tốt nhất là để những người mặc vest đen xử lý chuyện này. {0.SimFirstName} được khen ngợi vì không hỏi quá nhiều câu hỏi." />
+    <TextStringDefinition InstanceID="0x72C7DCC3" TextString="Kiểm Tra Hàng Hóa" />
+    <TextStringDefinition InstanceID="0x29F1058D" TextString="Tra Cứu Anh Ta" />
+    <TextStringDefinition InstanceID="0x27C7E8BD" TextString="Nó tốn thêm một ít nhiên liệu quý giá của {M0.him}{F0.her}, nhưng {0.SimFirstName} có thể sửa chữa trong chớp mắt. Giảng viên khen ngợi sự nhanh trí và mạo hiểm của {M0.him}{F0.her}." />
+    <TextStringDefinition InstanceID="0x1F6C3B8E" TextString="Việc sửa chữa còn tốn nhiều nhiên liệu hơn, và cuối cùng {M0.he’s}{F0.she’s} chạy bằng hơi còn lại. Nếu đây là một tình huống khẩn cấp thực tế, tàu sẽ không bao giờ về nhà được." />
+    <TextStringDefinition InstanceID="0x17580ED2" TextString="Dừng Làm Sạch" />
+    <TextStringDefinition InstanceID="0xDF8B9E5F" TextString="Làm Cho Nó Bất Hợp Pháp" />
+    <TextStringDefinition InstanceID="0x5CBAECD5" TextString="Tắt Nó Đi" />
+    <TextStringDefinition InstanceID="0x142F2C84" TextString="Nhận Công Việc" />
+    <TextStringDefinition InstanceID="0xE6C26B97" TextString="Tính Từng Cái Một" />
+    <TextStringDefinition InstanceID="0xF85C9C63" TextString="Tìm Một Công Thức" />
+    <TextStringDefinition InstanceID="0xF1975109" TextString="Nhập Nó Vào" />
+    <TextStringDefinition InstanceID="0xCD529546" TextString="Đợi Ở Đó" />
+    <TextStringDefinition InstanceID="0x1BC14103" TextString="Lính canh nói dễ nghe, nhưng anh ta hoàn toàn không đủ trình độ. Huy hiệu của {0.SimFirstName} RẤT LÓNG LÁNH và ấn tượng! Lính canh mở cửa, {0.SimFirstName} ngay lập tức đóng cửa nhà máy, và còn có bánh sinh nhật thừa trong phòng nghỉ. {0.SimFirstName} có một bữa ăn vặt." />
+    <TextStringDefinition InstanceID="0x1B38D7D0" TextString="{0.SimFirstName} không trả lương cho lính canh, chủ nhà máy mới trả. Lính canh không bị lay chuyển, và cũng từ chối di chuyển. {0.SimFirstName} sẽ không vào được nhà máy này!" />
+    <TextStringDefinition InstanceID="0x7BE3B90A" TextString="Hỏi Ông Chủ" />
+    <TextStringDefinition InstanceID="0xD824C71E" TextString="Không Hỏi Câu Hỏi" />
+    <TextStringDefinition InstanceID="0x1106F869" TextString="Bỏ Qua" />
+    <TextStringDefinition InstanceID="0xDFCC03B2" TextString="Điều Tra" />
+    <TextStringDefinition InstanceID="0x6F307226" TextString="Hủy Bỏ Phóng" />
+    <TextStringDefinition InstanceID="0x0603047A" TextString="Vẫn Phóng" />
+    <TextStringDefinition InstanceID="0xBD4E7ABF" TextString="Phản Hồi" />
+    <TextStringDefinition InstanceID="0xD7059CA8" TextString="Bỏ Qua" />
+    <TextStringDefinition InstanceID="0xFA8125A2" TextString="Phi công chắc đã ngửi thấy chuyện rủi ro, vì anh ta bỏ chạy vội. {0.SimFirstName} nhảy vào phòng thuyền tuần tra của {M0.him}{F0.her} và bắt được anh ta sau một cuộc rượt đuổi ngắn qua thiên hà Zoricon-9. Bản ghi hình cuộc rượt đuổi nhận hàng triệu lượt xem trên mạng virus liên hành tinh!" />
+    <TextStringDefinition InstanceID="0xAC434C21" TextString="{0.SimFirstName} mất quá nhiều thời gian để xác định nghi phạm đến nỗi họ đã bỏ chạy. {0.SimFirstName} nhảy vào phòng thuyền tuần tra của {M0.him}{F0.her} để truy đuổi, nhưng phòng thuyền tuần tra tiêu chuẩn chỉ có thể đạt 0.5 vận tốc ánh sáng. {M0.He}{F0.She} mất dấu nghi phạm ở đâu đó quanh thiên hà Zoricon-9." />
+    <TextStringDefinition InstanceID="0xCAE311B1" TextString="Nhiệm Vụ Mạo Hiểm" />
+    <TextStringDefinition InstanceID="0x0C4E3B26" TextString="Nhiệm Vụ Dễ Dàng Gần Nhà" />
+    <TextStringDefinition InstanceID="0xA8925AE3" TextString="Sau hàng chục lần thử, {M0.he}{F0.she} không thể giải được công thức. Giờ {M0.he’s}{F0.she’s} trễ hạn và phải nhờ giúp đỡ về một việc lẽ ra phải dễ dàng." />

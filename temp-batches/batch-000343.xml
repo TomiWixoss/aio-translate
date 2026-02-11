@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xAA787143" TextString="Yêu tinh" />
+    <TextStringDefinition InstanceID="0x364D908C" TextString="Đồ dùng ở đây thường bị hỏng. Có vẻ như có những yêu tinh nhỏ ra ngoài vào ban đêm và phá phách... nhưng điều đó thật ngớ ngẩn, phải không?\n\nCó sẵn với City Living." />
+    <TextStringDefinition InstanceID="0x537D0F95" TextString="Chú lùn" />
+    <TextStringDefinition InstanceID="0xB599978A" TextString="Đồ bị hỏng dường như được sửa chữa qua đêm. Như thể những chú lùn tốt bụng canh giữ nơi này..." />
+    <TextStringDefinition InstanceID="0xC9308141" TextString="Lô Xanh" />
+    <TextStringDefinition InstanceID="0xD22B2EBE" TextString="Lô này tiến tới thân thiện môi trường nhanh hơn các lô khác." />
+    <TextStringDefinition InstanceID="0x777F7D77" TextString="Sâu bọ kinh dị" />
+    <TextStringDefinition InstanceID="0x0FD97778" TextString="Có vẻ như một số loài sâu bọ kinh dị đã đến ở đây. Hãy chuẩn bị; khi chúng tấn công, bạn sẽ không bao giờ thấy chúng đến!" />
+    <TextStringDefinition InstanceID="0x1E030B05" TextString="Không bắt buộc mặc quần áo" />
+    <TextStringDefinition InstanceID="0xC86703DA" TextString="Lô này tôn vinh lối sống cởi mở, tự nhiên, trao quyền cho du khách cởi bỏ những quy ước vật chất cứng nhắc và những chuẩn mực xã hội khép kín… cũng như quần áo của họ." />
+    <TextStringDefinition InstanceID="0xCDABCEF6" TextString="Điểm nóng đang lên" />
+    <TextStringDefinition InstanceID="0x469690AF" TextString="Ít nhất sims của bạn có thể nói rằng họ ‘đã đến đây trước khi nó nổi tiếng.’ Hơn nữa, đồ uống và đồ ăn rẻ cho những người cực kỳ nổi tiếng! Tuyệt hơn nữa, sự kiện Gặp gỡ Người nổi tiếng chỉ có thể xảy ra ở các Phòng khách có trait này." />
+    <TextStringDefinition InstanceID="0x71FECFAC" TextString="Điểm nóng nhất thị trấn" />
+    <TextStringDefinition InstanceID="0xC0452949" TextString="Một nơi cho những Ngôi sao, những VIP, những người đã đánh bại sự phổ quát! Rốt cuộc, ai khác có thể chi trả những giá lô cường điệu này? Không phải bạn... không. Nhưng ít nhất, Sự vinh danh Starlight chỉ có thể xảy ra ở các Phòng khách có trait này." />
+    <TextStringDefinition InstanceID="0xB542E5D5" TextString="Hỗn loạn trộm cắp" />
+    <TextStringDefinition InstanceID="0xAA7162CA" TextString="Khóa cửa và giấu tất cả vật có giá! Kẻ trộm sẽ đến thường xuyên hơn trên lô này, và những tiếng chuông báo động đáng tin cậy có ý thức riêng." />
+    <TextStringDefinition InstanceID="0x99611ABD" TextString="Hoạt động núi lửa" />
+    <TextStringDefinition InstanceID="0xD12FEAC2" TextString="Lô này gần một núi lửa đang hoạt động! Cẩn thận với động đất, ống phát hơi và đôi khi là bom dung nham.\n\nCó sẵn với Island Living." />
+    <TextStringDefinition InstanceID="0x5B81A1EF" TextString="Nơi hẹn hò của người độc thân" />
+    <TextStringDefinition InstanceID="0xD8E9D7A0" TextString="Muốn hòa nhập với một số người độc thân?\n\nTrait Lô này sẽ có nhiều Sims sẵn sàng cho cuộc hẹn đi lại trong khu phố!" />
+    <TextStringDefinition InstanceID="0xA0F68EA8" TextString="Sống giản dị" />
+    <TextStringDefinition InstanceID="0x5A1AA83D" TextString="Lô này yêu cầu nguyên liệu để nấu tất cả các công thức. Nấu ăn với nguyên liệu chỉ làm thức ăn ngon hơn!\n\nCó sẵn với Cottage Living." />
+    <TextStringDefinition InstanceID="0x06A5E1F9" TextString="Kẻ tìm kiếm sự sợ hãi" />
+    <TextStringDefinition InstanceID="0x10511FE6" TextString="Có gì đó trong không khí ở đây lấp đầy bạn với sự phấn khích kỳ bí, và thu hút những Sims tìm kiếm một thời gian kinh dị vui vẻ." />
+    <TextStringDefinition InstanceID="0x379C0DEA" TextString="Sân tập" />
+    <TextStringDefinition InstanceID="0xF16E5BEB" TextString="Sims đạt kỹ năng Huấn luyện Thú cưng nhanh hơn trên lô này." />
+    <TextStringDefinition InstanceID="0x1876540F" TextString="Nơi hẹn hò của chó" />
+    <TextStringDefinition InstanceID="0x6587F640" TextString="Chó hoang sẽ tụ tập ở lô này." />
+    <TextStringDefinition InstanceID="0xADAD69BE" TextString="Thân thiện với chó" />
+    <TextStringDefinition InstanceID="0x6BDF0A07" TextString="Chủ chó sẽ đến thăm lô này và mang theo chó của họ." />
+    <TextStringDefinition InstanceID="0xAC92D995" TextString="Nơi hẹn hò của mèo" />
+    <TextStringDefinition InstanceID="0xF48EA58A" TextString="Mèo hoang thực sự yêu lô này. Meow!" />
+    <TextStringDefinition InstanceID="0x0BD1AF00" TextString="Thân thiện với mèo" />
+    <TextStringDefinition InstanceID="0xC7524205" TextString="Chủ mèo sẽ đến thăm lô này với mèo của họ." />
+    <TextStringDefinition InstanceID="0x16131AD2" TextString="Nơi sinh sản" />
+    <TextStringDefinition InstanceID="0x3FE73A83" TextString="Tăng cơ hội cho thú cưng có những lứa sinh đẻ lớn hơn." />
+    <TextStringDefinition InstanceID="0x2CA00D02" TextString="Giếng nước tự nhiên" />
+    <TextStringDefinition InstanceID="0x3CEB2353" TextString="Nước suối chảy dưới lô này, giảm hóa đơn tiện ích và cung cấp nước tươi, sạch từ vòi." />
+    <TextStringDefinition InstanceID="0x8591ED25" TextString="Địa nhiệt" />
+    <TextStringDefinition InstanceID="0xF6111D7A" TextString="Làm nóng tự nhiên giảm hóa đơn tiện ích bằng cách tạo ra năng lượng, và giữ cho bất kỳ hồ bơi nào ấm áp." />
+    <TextStringDefinition InstanceID="0x39786830" TextString="Cư dân vương giả" />
+    <TextStringDefinition InstanceID="0x40D85315" TextString="Giấc mơ về một cuộc sống giàu có trở thành hiện thực! Nhu cầu của Sims sẽ suy giảm chậm hơn, và tâm trạng của họ cải thiện lâu hơn khi giá trị lô của họ tăng lên!" />
+    <TextStringDefinition InstanceID="0x4C789192" TextString="Ngôi nhà người nổi tiếng" />
+    <TextStringDefinition InstanceID="0x99B7DA43" TextString="Căn nhà này được liệt kê trong Chuyến tham quan Ngôi nhà Người nổi tiếng, trao tăng lợi thế danh tiếng, quyền truy cập hạn chế, và sự ngưỡng mộ từ những du khách được chào đón. Cẩn thận tuy nhiên! Những người sống ở đây nhưng không thực sự nổi tiếng sẽ bị coi là kẻ giả danh!" />
+    <TextStringDefinition InstanceID="0x773F81F0" TextString="Thay đổi lãng mạn" />
+    <TextStringDefinition InstanceID="0x372BD3D5" TextString="Sims có thể bắt đầu mối quan hệ lãng mạn và hoặc nuôi dưỡng hoặc làm hại mối quan hệ của họ." />
+    <TextStringDefinition InstanceID="0xEF3349D9" TextString="Nghỉ hưu từ Sự nghiệp" />
+    <TextStringDefinition InstanceID="0x4446B646" TextString="Những Sims lớn tuổi có việc làm có thể nghỉ hưu từ sự nghiệp của họ." />
+    <TextStringDefinition InstanceID="0xAFFAA31F" TextString="Rời bỏ Sự nghiệp" />
+    <TextStringDefinition InstanceID="0x9BB3E470" TextString="Những Sims có việc làm có thể rời bỏ sự nghiệp của họ." />

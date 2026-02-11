@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x74902D5D" TextString="Thảo luận Hòa bình Thế giới" />
+    <TextStringDefinition InstanceID="0xE1FD6EF3" TextString="Thảo luận Hòa bình Dải Ngân hà" />
+    <TextStringDefinition InstanceID="0x203CD4CA" TextString="Thảo luận về Nhạc công với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x06A4E122" TextString="Thảo luận về Nhạc công Tốt nhất" />
+    <TextStringDefinition InstanceID="0xE7F592F5" TextString="Thảo luận về Thống kê Thể thao với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x9824E277" TextString="Thảo luận về Thống kê Thể thao" />
+    <TextStringDefinition InstanceID="0x814B9B67" TextString="Thảo luận về Những thay đổi trong Khu phố với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xEEF8CCA9" TextString="Thảo luận về Những thay đổi trong Khu phố" />
+    <TextStringDefinition InstanceID="0x1D510E9E" TextString="Thảo luận về Câu đố Logic với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x31FCA426" TextString="Thảo luận về Câu đố Logic" />
+    <TextStringDefinition InstanceID="0xE02A1016" TextString="Thảo luận về Địa điểm Câu cá với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x29C8E7DE" TextString="Thảo luận về Địa điểm Câu cá Địa phương" />
+    <TextStringDefinition InstanceID="0xAD8275C7" TextString="Thảo luận về Địa điểm Câu cá Bí mật Địa phương" />
+    <TextStringDefinition InstanceID="0xA94114E4" TextString="Thảo luận về Trò chơi Mới nhất với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x89319194" TextString="Thảo luận về Trò chơi Mới nhất" />
+    <TextStringDefinition InstanceID="0x7AB1D08F" TextString="Thảo luận về Cuốn Sách Mới nhất với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xE65A81B1" TextString="Thảo luận về Cuốn Sách Mới nhất" />
+    <TextStringDefinition InstanceID="0xEE89DE9D" TextString="Thảo luận về Holobook Mới nhất" />
+    <TextStringDefinition InstanceID="0x40639964" TextString="Thảo luận về Sự Thiếu Báo in với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x9070F714" TextString="Thảo luận về Sự Thiếu Báo in" />
+    <TextStringDefinition InstanceID="0xC8261A83" TextString="Thảo luận về Sở thích với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x5BCB9775" TextString="Thảo luận về Sở thích" />
+    <TextStringDefinition InstanceID="0xAD3FA927" TextString="Thảo luận về Khả năng Phép thuật" />
+    <TextStringDefinition InstanceID="0xA198BD74" TextString="Thảo luận về Hydration với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xDB17B684" TextString="Thảo luận về Hydration" />
+    <TextStringDefinition InstanceID="0xC0D1306F" TextString="Thảo luận về Món Ăn Cao cấp với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xCA649C51" TextString="Thảo luận về Món Ăn Cao cấp" />
+    <TextStringDefinition InstanceID="0xEA4465C5" TextString="Thảo luận về Thể dục với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x389322E7" TextString="Thảo luận về Kỹ thuật Thể dục" />
+    <TextStringDefinition InstanceID="0xA349B64E" TextString="Thảo luận về Ẩm thực Tinh tế với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xAC47E6F6" TextString="Thảo luận về Ẩm thực Tinh tế" />
+    <TextStringDefinition InstanceID="0x11145647" TextString="Thảo luận về Công thức Yêu thích với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x830145C9" TextString="Thảo luận về Công thức Yêu thích" />
+    <TextStringDefinition InstanceID="0xFCC90EC8" TextString="Thảo luận về Ban nhạc Yêu thích với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x27B5AED8" TextString="Thảo luận về Ban nhạc Yêu thích" />
+    <TextStringDefinition InstanceID="0xCC2079ED" TextString="Thảo luận về Tác giả Yêu thích với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x58DBAF6F" TextString="Thảo luận về Tác giả Yêu thích" />
+    <TextStringDefinition InstanceID="0x1864472B" TextString="Thảo luận về Nghệ sĩ Yêu thích với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x71C6557D" TextString="Thảo luận về Nghệ sĩ Yêu thích" />
+    <TextStringDefinition InstanceID="0x8217AFC0" TextString="Thảo luận về Việc Mở rộng Gia đình" />
+    <TextStringDefinition InstanceID="0x3CF6E78F" TextString="{0.SimFirstName} không có tâm trạng để hỏi loại câu hỏi này." />
+    <TextStringDefinition InstanceID="0x26F02B08" TextString="Tuy tuyệt vời thật, nhưng tôi không ở trong tình thế để cảm thấy thoải mái làm điều đó lúc này." />
+    <TextStringDefinition InstanceID="0x4BB7119D" TextString="Thảo luận Trang phục" />
+    <TextStringDefinition InstanceID="0xE94926D0" TextString="Thảo luận Trang phục với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x5BA0A2DD" TextString="Thảo luận về Những Cuộc chinh phục với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x9E531E7F" TextString="Thảo luận về Những Cuộc chinh phục" />
+    <TextStringDefinition InstanceID="0x40812CE4" TextString="Thảo luận về Lý thuyết Màu sắc với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x02465994" TextString="Thảo luận về Lý thuyết Màu sắc" />
+    <TextStringDefinition InstanceID="0x593729B2" TextString="Mô tả Cuộc xâm lược Robot" />
+    <TextStringDefinition InstanceID="0xA85BDD07" TextString="Nghe về Cuộc xâm lược Robot" />

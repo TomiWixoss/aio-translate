@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x449FE201" TextString="Ngày Tạo" />
+    <TextStringDefinition InstanceID="0x06660823" TextString="A - Z" />
+    <TextStringDefinition InstanceID="0x73B5D14D" TextString="Chi Tiết Kịch Bản" />
+    <TextStringDefinition InstanceID="0xB164D4F7" TextString="Hộ gia đình này không đáp ứng yêu cầu cho kịch bản" />
+    <TextStringDefinition InstanceID="0xCB39EF5E" TextString="Hộ gia đình này đã có một kịch bản đang hoạt động" />
+    <TextStringDefinition InstanceID="0xD7D880DA" TextString="Bắt Đầu Kịch Bản" />
+    <TextStringDefinition InstanceID="0x835F7A5B" TextString="Không có hộ gia đình nào được chọn" />
+    <TextStringDefinition InstanceID="0x07ABE2E3" TextString="Chưa Chơi" />
+    <TextStringDefinition InstanceID="0x22F30722" TextString="Đã Chơi" />
+    <TextStringDefinition InstanceID="0x26C57615" TextString="Hộ Gia Đình Chưa Chơi" />
+    <TextStringDefinition InstanceID="0x313D4594" TextString="Sắp Xếp Theo:" />
+    <TextStringDefinition InstanceID="0x1AA07493" TextString="{0.Money}" />
+    <TextStringDefinition InstanceID="0x9EAB958F" TextString="Hộ Gia Đình Của Tôi" />
+    <TextStringDefinition InstanceID="0x6F68AC1E" TextString="Hộ Gia Đình Đã Chơi" />
+    <TextStringDefinition InstanceID="0x016E2DA8" TextString="Hộ Gia Đình Khác" />
+    <TextStringDefinition InstanceID="0x3CFC90DD" TextString="Tùy Chỉnh" />
+    <TextStringDefinition InstanceID="0xE293F54C" TextString="Số Lượng Tối Đa:" />
+    <TextStringDefinition InstanceID="0x57CE5653" TextString="Hiện Không Trong Thế Giới" />
+    <TextStringDefinition InstanceID="0xFFC14639" TextString="Hiển Thị:" />
+    <TextStringDefinition InstanceID="0x2AED22B7" TextString="Hộ gia đình do người chơi tạo, đã chơi hoặc chưa chơi." />
+    <TextStringDefinition InstanceID="0x08F51BE4" TextString="Các Sim trong thẻ này có thể mất thông tin tiến độ như cấp độ kỹ năng, mối quan hệ, v.v." />
+    <TextStringDefinition InstanceID="0xE4F5B1D1" TextString="Câu Chuyện Khu Phố" />
+    <TextStringDefinition InstanceID="0x192596B1" TextString="Hộ gia đình với cấu hình mặc định" />
+    <TextStringDefinition InstanceID="0x830BA855" TextString="Hộ gia đình với cấu hình tùy chỉnh" />
+    <TextStringDefinition InstanceID="0xCA314A16" TextString="Hộ Gia Đình" />
+    <TextStringDefinition InstanceID="0xF3F3C793" TextString="Không Có Hộ Gia Đình" />
+    <TextStringDefinition InstanceID="0x2D697CFE" TextString="Khu Phố" />
+    <TextStringDefinition InstanceID="0xEA2397BC" TextString="Không Trong Thế Giới" />
+    <TextStringDefinition InstanceID="0x568C1B92" TextString="{0.String} cư dân" />
+    <TextStringDefinition InstanceID="0x1E96EA66" TextString="Tất Cả Hộ Gia Đình" />
+    <TextStringDefinition InstanceID="0x0B804BA2" TextString="Để tiếp tục, hãy di chuyển các hộ gia đình từ Hộ Gia Đình Của Tôi sang Hộ Gia Đình Khác." />
+    <TextStringDefinition InstanceID="0x6E0BDBF0" TextString="Chuyến đi sẽ kết thúc cho: {0.String}" />
+    <TextStringDefinition InstanceID="0x4D6464F8" TextString="Hủy Chuyến Đi" />
+    <TextStringDefinition InstanceID="0x4F46495C" TextString="Hủy Đặt Hộ Gia Đình" />
+    <TextStringDefinition InstanceID="0x3D19F4EE" TextString="Hủy Đặt Lô Đất" />
+    <TextStringDefinition InstanceID="0x7FCF727B" TextString="Hủy Di Chuyển" />
+    <TextStringDefinition InstanceID="0x0CDD9BDB" TextString="Đi du lịch với: {0.String} và bạn bè" />
+    <TextStringDefinition InstanceID="0xD3D2BB7D" TextString="Đi du lịch với: {0.String}" />
+    <TextStringDefinition InstanceID="0xBB1E273D" TextString="Đi Du Lịch Cùng" />
+    <TextStringDefinition InstanceID="0x55D914BA" TextString="Tái Sinh {0.SimFirstName} {0.SimLastName} Vào..." />
+    <TextStringDefinition InstanceID="0x1D78560C" TextString="Mua {1.String} với {0.String}" />
+    <TextStringDefinition InstanceID="0x75EF5023" TextString="Chơi Dưới Dạng" />
+    <TextStringDefinition InstanceID="0x8DC0743E" TextString="Di Chuyển Cùng: {0.String}" />
+    <TextStringDefinition InstanceID="0x93C07DB8" TextString="Đặt: {0.String}" />
+    <TextStringDefinition InstanceID="0x3FCC350E" TextString="Di Chuyển Cùng: {0.String}" />
+    <TextStringDefinition InstanceID="0x8FD52F45" TextString="Dấu Chân Môi Trường của {0.String}" />
+    <TextStringDefinition InstanceID="0x4928CA16" TextString="Thay Đổi Địa Điểm Sự Kiện" />
+    <TextStringDefinition InstanceID="0x9655D9C1" TextString="Quỹ: {0.Money}" />
+    <TextStringDefinition InstanceID="0x7A089C96" TextString="Quỹ:" />
+    <TextStringDefinition InstanceID="0x4647A216" TextString="Giá: {0.Money}" />

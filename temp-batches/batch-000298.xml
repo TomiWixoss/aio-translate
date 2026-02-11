@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x73D3A6A0" TextString="Hiển thị xem một Sim có được nhận nuôi bởi cha mẹ trong Hồ sơ Sim của họ hay không." />
+    <TextStringDefinition InstanceID="0x08BDED02" TextString="Đặt lại Tình huống Hướng dẫn" />
+    <TextStringDefinition InstanceID="0x97E31F7E" TextString="Cho phép các Sim gọi và mời Sim của bạn đi hẹn hò hoặc yêu cầu thay đổi trạng thái mối quan hệ lãng mạn với Sim của bạn.\n\nĐiều này bao gồm nhưng không giới hạn ở:\n• Tất cả lời mời hẹn hò\n• Lời mời Prom Lãng mạn &lt;i&gt;(Năm Trung học)&lt;/i&gt;\n• Được hỏi trở thành bạn đời lãng mạn &lt;i&gt;(Năm Trung học&lt;/i&gt; và &lt;i&gt;Mê mệt)&lt;/i&gt;\n• Được hỏi trở thành đã đính hôn &lt;i&gt;(Năm Trung học&lt;/i&gt; và &lt;i&gt;Mê mệt)&lt;/i&gt;" />
+    <TextStringDefinition InstanceID="0x5F0882AE" TextString="Cho phép các Sim gọi và mời Sim của bạn đến các địa điểm khác nhau hoặc yêu cầu thay đổi trạng thái mối quan hệ thân thiện với Sim của bạn.\n\nĐiều này bao gồm nhưng không giới hạn ở:\n• Lời mời Ngày chơi cùng con cái\n• Lời mời Tiệc Sinh nhật\n• Lời mời Nhà hàng &lt;i&gt;(Ăn uống Ngoài)&lt;/i&gt;\n• Lời mời Đêm quán bar &lt;i&gt;(Cùng nhau)&lt;/i&gt;\n• Lời mời Sự kiện Phòng khách &lt;i&gt;(Nổi tiếng)&lt;/i&gt;\n• Lời mời Thành phố &lt;i&gt;(Sống ở Thành phố)&lt;/i&gt;\n• Lời mời Prom Thân thiện &lt;i&gt;(Năm Trung học)&lt;/i&gt;\n• Yêu cầu trở thành Bạn thân &lt;i&gt;(Năm Trung học)&lt;/i&gt;" />
+    <TextStringDefinition InstanceID="0x07790CB2" TextString="Cho phép các Sim chủ động chấm dứt mối quan hệ nếu họ thấy Bạn đời Lãng mạn của mình vi phạm Ranh giới Lãng mạn của họ, hoặc nếu họ đối xử Dữ với nhau trong khi Sự hài lòng Lãng mạn của họ thấp." />
+    <TextStringDefinition InstanceID="0x35F5CA05" TextString="Cho phép các Sim khác gọi và tống tiền các Sim Đang hoạt động có bí mật, gây ra Bê bối nếu Sim không trả tiền." />
+    <TextStringDefinition InstanceID="0x05244846" TextString="Lối sống là sự thể hiện của hành vi và thói quen của một Sim theo thời gian. Khi được bật, các Sim có thể có được Lối sống, thay đổi tính tự chủ và cấp các hiệu ứng chơi khác nhau cho mỗi Sim. &lt;b&gt;&lt;font color=&quot;#EC262E&quot;&gt;Cảnh báo:&lt;/font&gt;&lt;/b&gt; Tắt tùy chọn này sẽ xóa tất cả Lối sống khỏi tệp lưu." />
+    <TextStringDefinition InstanceID="0xF9DBCEE6" TextString="Điều chỉnh tuổi thọ của Sim của bạn. Cài đặt này càng cao, Sim của bạn sống càng lâu." />
+    <TextStringDefinition InstanceID="0x2C64DF78" TextString="Bật thông báo cho các Bài học." />
+    <TextStringDefinition InstanceID="0x99D35F2B" TextString="Cho phép các Sim, Mèo, Chó và Ngựa già đi theo thời gian. Nếu tắt, chúng sẽ không già lên." />
+    <TextStringDefinition InstanceID="0x0231D077" TextString="Cho phép Kẻ trộm đến thăm các lô dân cư và các lô thuộc sở hữu khác thỉnh thoảng, cố gắng đánh cắp tài sản của Sim." />
+    <TextStringDefinition InstanceID="0xF2D2855E" TextString="Tắt tính tự chủ cho thành viên hộ gia đình được chọn trong khi các Sim khác tự do di chuyển với Tự chủ Bật." />
+    <TextStringDefinition InstanceID="0xBCE00852" TextString="Đồng hồ 12 giờ" />
+    <TextStringDefinition InstanceID="0xA13BA70E" TextString="Điều chỉnh mức độ tự do ý chí mà các Sim thể hiện. Khi Tắt, các Sim sẽ chỉ phản ứng với các sự kiện để bảo vệ mạng sống của chính mình" />
+    <TextStringDefinition InstanceID="0x18FC344E" TextString="Cho phép các Sim không được chơi, Mèo, Chó và Ngựa già đi theo thời gian. Nếu tắt, chúng sẽ không già lên." />
+    <TextStringDefinition InstanceID="0x5CF0DC77" TextString="Giải phóng bộ nhớ, giảm giật, cải thiện tốc độ khung hình và giúp ngăn chặn sự cố. Cần khởi động lại.\nCác bản lưu phục hồi sẽ được gắn nhãn &quot;Tăng cường Bộ nhớ&quot;.&lt;i&gt;Chỉ tương thích với DirectX 11.&lt;/i&gt;\nTùy chọn Chuyển đổi: &quot;Tự động&quot; cho cài đặt do game quản lý, &quot;Bật&quot; để kích hoạt (chỉ DirectX 11), hoặc &quot;Tắt&quot; để giữ nguyên cài đặt ban đầu.\n\n&lt;b&gt;Chuyển đổi chế độ có thể ảnh hưởng đến khả năng tương thích của bản lưu.&lt;/b&gt;" />
+    <TextStringDefinition InstanceID="0xBAE835FA" TextString="Tăng cường Bộ nhớ\n(Truy cập sớm)" />
+    <TextStringDefinition InstanceID="0x1C29A58B" TextString="Bật" />
+    <TextStringDefinition InstanceID="0xA12DCC28" TextString="Tắt" />
+    <TextStringDefinition InstanceID="0xD4F81905" TextString="Tự động" />
+    <TextStringDefinition InstanceID="0x3FFEAB63" TextString="Điều chỉnh xem các Sim có mặc định được nổi tiếng hay không. Nếu được chọn, các Sim sẽ không còn được nổi tiếng.\n\nCác Sim sau sẽ bị ảnh hưởng:\n• Các Sim chưa từng có được bất kỳ danh tiếng nào.\n• Tất cả các Sim mới được tạo.\n\nCác Sim sau sẽ không bị ảnh hưởng:\n• Các Sim đã từng có được bất kỳ danh tiếng nào.\n• Các Sim đã được điều chỉnh cài đặt danh tiếng riêng lẻ trong Chế độ Sống.\n\nCài đặt này có thể bị ghi đè, và trạng thái danh tiếng của các Sim riêng lẻ có thể được thay đổi bất cứ lúc nào bằng cách chọn &quot;Bước vào ánh đèn sân khấu&quot; trong cửa sổ Thông tin Danh tiếng." />
+    <TextStringDefinition InstanceID="0x31D9CE8A" TextString="Bật/tắt tùy chọn này sẽ điều chỉnh xem các Sim có khả năng được nổi tiếng theo mặc định hay không." />
+    <TextStringDefinition InstanceID="0x403145A5" TextString="Sim Bắt đầu Từ chối Danh tiếng" />
+    <TextStringDefinition InstanceID="0x60CA85E9" TextString="* Lối chơi Sống Xanh không xuất hiện ở Thế giới Điểm đến hoặc Thành phố Lạ." />
+    <TextStringDefinition InstanceID="0xABABB9D4" TextString="Nếu tắt, việc bỏ phiếu tại Bảng Cộng đồng chỉ do người dùng chỉ đạo." />
+    <TextStringDefinition InstanceID="0xE835940B" TextString="Bật Bỏ phiếu NPC" />
+    <TextStringDefinition InstanceID="0x3D7C3D5E" TextString="Nếu tắt, Các Kế hoạch Hành động Khu phố và các đối tượng game sẽ không còn ảnh hưởng đến môi trường." />
+    <TextStringDefinition InstanceID="0xEEACA575" TextString="Bật Lối chơi Dấu chân Sinh thái" />
+    <TextStringDefinition InstanceID="0x61D19B5B" TextString="Nếu bật, các yếu tố kiến trúc như giấy dán tường, hoa văn sàn, vật liệu mái, cửa, cửa sổ, hồ bơi, đài phun nước, cây cối, và nhiều hơn nữa sẽ cấp các hiệu ứng cho các yếu tố chơi như điểm môi trường, dấu chân sinh thái và tiện ích. Kiểm tra chú thích công cụ cho từng mục để xem chúng có thể áp dụng hiệu ứng gì!" />
+    <TextStringDefinition InstanceID="0x04AA2E33" TextString="Thử Dùng thử Game" />
+    <TextStringDefinition InstanceID="0x6B3329A9" TextString="Thư viện" />
+    <TextStringDefinition InstanceID="0x75763EB9" TextString="Chơi Kịch bản" />
+    <TextStringDefinition InstanceID="0x07A4B7F0" TextString="Tiếp tục Game" />
+    <TextStringDefinition InstanceID="0xD9F5EFCA" TextString="Tùy chọn" />
+    <TextStringDefinition InstanceID="0x0DFED87C" TextString="Game Mới" />
+    <TextStringDefinition InstanceID="0xC05AB8B0" TextString="Game Dùng thử Mới" />
+    <TextStringDefinition InstanceID="0x0E74F3B2" TextString="Tải Game" />
+    <TextStringDefinition InstanceID="0x40709819" TextString="Thư viện" />
+    <TextStringDefinition InstanceID="0xCB0FE029" TextString="Mặt Trăng Trăng Khuyết Đang Tròn" />
+    <TextStringDefinition InstanceID="0xC065BF77" TextString="Mặt Trăng Trăng non Đang Tròn" />
+    <TextStringDefinition InstanceID="0x032DFD77" TextString="Mặt Trăng Trăng Khuyết Đang Tàn" />
+    <TextStringDefinition InstanceID="0x41E24769" TextString="Mặt Trăng Trăng non Đang Tàn" />
+    <TextStringDefinition InstanceID="0x69340BBB" TextString="Mặt Trăng Tư thế Thứ ba" />
+    <TextStringDefinition InstanceID="0x9B4ECFF7" TextString="Mặt Trăng Mới" />
+    <TextStringDefinition InstanceID="0x548D506E" TextString="Mặt Trăng Tròn" />
+    <TextStringDefinition InstanceID="0xC1878B5C" TextString="Mặt Trăng Tư thế Đầu tiên" />
+    <TextStringDefinition InstanceID="0x2F403C90" TextString="Giai đoạn Mặt Trăng Hiện tại:" />
+    <TextStringDefinition InstanceID="0xE7F86F0F" TextString="Đưa Sim của bạn ra ngoài! Nhấp vào Điện thoại để bắt đầu du lịch." />
+    <TextStringDefinition InstanceID="0xFF75580C" TextString="Các Sim Khéo léo có thể sử dụng Bàn Gỗ để tự làm nội thất và điêu khắc của riêng họ." />
+    <TextStringDefinition InstanceID="0x0D79EBC8" TextString="Nhiều Sự nghiệp có nhiệm vụ hàng ngày để tăng hiệu suất! Di chuột qua thanh hiệu suất để tìm hiểu thêm." />

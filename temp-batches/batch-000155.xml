@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x3B03935E" TextString="Đặt Món Ăn hoặc Đồ Uống" />
+    <TextStringDefinition InstanceID="0x43415B3C" TextString="Đặt Món Ăn hoặc Đồ Uống Giảm Giá" />
+    <TextStringDefinition InstanceID="0x8337721E" TextString="Đánh Giá Đồ Uống" />
+    <TextStringDefinition InstanceID="0xBB2F3DBE" TextString="Đặt Món Cùng Bạn Bè" />
+    <TextStringDefinition InstanceID="0x83314C2E" TextString="Đặt Món Ăn Giảm Giá" />
+    <TextStringDefinition InstanceID="0xF9BFF68B" TextString="Đặt Món Ăn" />
+    <TextStringDefinition InstanceID="0xBBB6FDD5" TextString="MỞ DEBUG" />
+    <TextStringDefinition InstanceID="0x53E39A5E" TextString="Mặc Áo Thun Lễ Hội" />
+    <TextStringDefinition InstanceID="0xFDBC0FE0" TextString="Giờ Hoạt Động" />
+    <TextStringDefinition InstanceID="0xE2ABBCFF" TextString="Mở: 9 giờ sáng, Đóng: 3 giờ sáng" />
+    <TextStringDefinition InstanceID="0x530047B3" TextString="Thuê Người Bán Hàng" />
+    <TextStringDefinition InstanceID="0x2F651A92" TextString="Đã có số lượng tối đa Người Bán Hàng tại lô đất." />
+    <TextStringDefinition InstanceID="0x514543EB" TextString="Mua và Mặc Áo Thun Sims Sessions" />
+    <TextStringDefinition InstanceID="0x5FD26A1E" TextString="Mua và Mặc Áo Thun Fan Joy Oladokun" />
+    <TextStringDefinition InstanceID="0x75CD0CD5" TextString="Mua và Mặc Áo Thun Fan Glass Animals" />
+    <TextStringDefinition InstanceID="0xE2B54F29" TextString="Mua và Mặc Áo Thun Fan Bebe Rexha" />
+    <TextStringDefinition InstanceID="0x63E1E20A" TextString="Cảm ơn bạn đã mua áo thun phiên bản giới hạn Sims Sessions! Quần áo bạn mua sẽ có sẵn trong CAS để các Sim trong hộ gia đình sử dụng. Hãy thoải mái thay đổi trang phục tại một trong những lều gần đây! " />
+    <TextStringDefinition InstanceID="0x1F6842D8" TextString="Mua và Mặc Áo Thun Summer of Sims" />
+    <TextStringDefinition InstanceID="0xCFE6E4B8" TextString="Mua Áo" />
+    <TextStringDefinition InstanceID="0x581BE1B7" TextString="Bạn không thể mặc cái này khi đang mặc trang phục toàn thân." />
+    <TextStringDefinition InstanceID="0xC879C3C7" TextString="Mua Một Áo Thun Sims Sessions" />
+    <TextStringDefinition InstanceID="0xDD024BA2" TextString="Mua Một Áo Thun Fan Joy Oladokun" />
+    <TextStringDefinition InstanceID="0x9365C921" TextString="Mua Một Áo Thun Fan Glass Animals" />
+    <TextStringDefinition InstanceID="0x2B94865D" TextString="Mua Một Áo Thun Fan Bebe Rexha" />
+    <TextStringDefinition InstanceID="0x4DE6E2BC" TextString="Mua Một Áo Thun Summer of Sims" />
+    <TextStringDefinition InstanceID="0x6E414328" TextString="Cảm ơn bạn đã mua trang phục lễ hội độc đáo của chúng tôi!" />
+    <TextStringDefinition InstanceID="0x90EBAEDF" TextString="Duyệt Quầy Hàng" />
+    <TextStringDefinition InstanceID="0xD9FAE30F" TextString="Đi Nghỉ" />
+    <TextStringDefinition InstanceID="0xA83E08D4" TextString="Không có lô đất nào có sẵn để mua." />
+    <TextStringDefinition InstanceID="0xA6C420A9" TextString="Hóa đơn chưa đến hạn." />
+    <TextStringDefinition InstanceID="0x34032368" TextString="Bỏ Qua Hóa Đơn" />
+    <TextStringDefinition InstanceID="0x6F78574D" TextString="Duyệt Thư" />
+    <TextStringDefinition InstanceID="0xA7ADCBB0" TextString="Bán Cho Nhà Xuất Bản" />
+    <TextStringDefinition InstanceID="0xA048E9A8" TextString="Bán cho Nhà Xuất Bản sẽ mang lại một khoản tiền bản quyền vừa phải, nhận hàng ngày." />
+    <TextStringDefinition InstanceID="0x63A5AC28" TextString="Nó đã ra thế giới. Giờ mỗi ngày {0.SimFirstName} sẽ kiếm được một khoản tiền bản quyền vừa phải." />
+    <TextStringDefinition InstanceID="0x102A31DE" TextString="Gửi Bản Sao Sách cho Literary Digest" />
+    <TextStringDefinition InstanceID="0x092F9E52" TextString="Gửi Bản Sao Sách cho Literary Digest sẽ mang lại một khoản tiền bản quyền lớn, nhận hàng ngày. Tương tác này chỉ có thể thực hiện một lần mỗi tuần." />
+    <TextStringDefinition InstanceID="0x96C4C132" TextString="Hy vọng Literary Digest sẽ yêu thích tác phẩm của {0.SimFirstName}. Sách chỉ có thể gửi một lần mỗi tuần, nhưng sẽ kiếm được nhiều tiền bản quyền hàng ngày hơn so với Xuất Bản." />
+    <TextStringDefinition InstanceID="0x4FBACEA6" TextString="Tự Xuất Bản" />
+    <TextStringDefinition InstanceID="0xEE42A0FA" TextString="Tự xuất bản sẽ kiếm được một khoản tiền bản quyền nhỏ hàng ngày." />
+    <TextStringDefinition InstanceID="0x7F058647" TextString="Chúc mừng! {0.SimFirstName} đã tự xuất bản một cuốn sách! {M0.Anh ấy}{F0.Cô ấy} sẽ không kiếm được nhiều tiền như bán quyền cho nhà xuất bản, nhưng sẽ nhận được một khoản nhỏ tiền bản quyền hàng ngày." />
+    <TextStringDefinition InstanceID="0xB202C27E" TextString="Quyên Góp Từ Thiện" />
+    <TextStringDefinition InstanceID="0x0B38218F" TextString="Thay Thế Thành Phần Du Hành Thời Gian" />
+    <TextStringDefinition InstanceID="0x1D76C9FB" TextString="Theo {0.SimFirstName} Về Nhà" />
+    <TextStringDefinition InstanceID="0x7DD68563" TextString="Để {0.SimFirstName} Quay Lại Đây" />
+    <TextStringDefinition InstanceID="0x5D7440AF" TextString="{0.SimFirstName} đã xuất viện và đang khỏe. {S1.Đứa bé}{P1.Các đứa bé} đang ở nhà, nghỉ ngơi. Bạn muốn làm gì?" />
+    <TextStringDefinition InstanceID="0xE9465EE4" TextString="Đưa {2.SimFirstName} cho {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x76272C9F" TextString="{0.SimFirstName} cần kỹ năng Khéo Léo cấp 8 để thêm nâng cấp này." />
+    <TextStringDefinition InstanceID="0x33BE3AD3" TextString="{0.SimFirstName} cần kỹ năng Khéo Léo cấp 10 để thêm nâng cấp này." />
+    <TextStringDefinition InstanceID="0xADD97CC1" TextString="{0.SimFirstName} cần kỹ năng Khéo Léo cấp 9 để thêm nâng cấp này." />

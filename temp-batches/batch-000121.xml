@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xB85A25E0" TextString="(Từ khi ngủ)" />
+    <TextStringDefinition InstanceID="0x5871A6E8" TextString="Ẩn náu trong lều" />
+    <TextStringDefinition InstanceID="0xEB6579BA" TextString="Giải tỏa căng thẳng trong lều" />
+    <TextStringDefinition InstanceID="0xEBBA45D2" TextString="Khóc trong lều" />
+    <TextStringDefinition InstanceID="0xCEE2AC30" TextString="Thư giãn" />
+    <TextStringDefinition InstanceID="0x5CC083C5" TextString="Đọc Tạp chí Hoang dã" />
+    <TextStringDefinition InstanceID="0x74263E41" TextString="Chơi trong lều" />
+    <TextStringDefinition InstanceID="0x52014B39" TextString="Ai đó đang kể chuyện ma trong lều này." />
+    <TextStringDefinition InstanceID="0x0F1D603D" TextString="Tham gia chơi trong lều" />
+    <TextStringDefinition InstanceID="0x3519E99A" TextString="Chợp mắt" />
+    <TextStringDefinition InstanceID="0x48FEEE6E" TextString="Lều này hơi ồn để ngủ." />
+    <TextStringDefinition InstanceID="0xED6BE9C0" TextString="(Từ khi chợp mắt)" />
+    <TextStringDefinition InstanceID="0x1FDC5134" TextString="Lắng nghe {0.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x42271544" TextString="Trò chuyện khi thư giãn" />
+    <TextStringDefinition InstanceID="0x42C5D70D" TextString="Lều này không thể sử dụng vào lúc này." />
+    <TextStringDefinition InstanceID="0x5B5EA5D5" TextString="Sưởi ấm" />
+    <TextStringDefinition InstanceID="0x1B3E55D7" TextString="WooHoo" />
+    <TextStringDefinition InstanceID="0x9EFA7DC0" TextString="Do tháp khu phố" />
+    <TextStringDefinition InstanceID="0x025D68E2" TextString="Trinh sát khu phố" />
+    <TextStringDefinition InstanceID="0xB414B3C3" TextString="Tiếp tục Nâng cấp Ống Kính Thiên văn" />
+    <TextStringDefinition InstanceID="0xD361AE79" TextString="Nâng cấp Ống Kính Thiên văn" />
+    <TextStringDefinition InstanceID="0x62E6CA1D" TextString="Tiếp tục Tôi luyện Trục Quay Thiên văn Giáp" />
+    <TextStringDefinition InstanceID="0x5747439B" TextString="Tôi luyện Trục Quay Thiên văn Giáp" />
+    <TextStringDefinition InstanceID="0x494BE5D8" TextString="Tiếp tục Củng cố Trục Quay Thiên văn" />
+    <TextStringDefinition InstanceID="0x600CC8B4" TextString="Củng cố Trục Quay Thiên văn" />
+    <TextStringDefinition InstanceID="0x8409A08D" TextString="Nâng cấp Ống Kính Thiên văn để tăng cơ hội thành công khi sử dụng Kính thiên văn." />
+    <TextStringDefinition InstanceID="0x1802EF91" TextString="Làm cho kính thiên văn không thể vỡ" />
+    <TextStringDefinition InstanceID="0x8099FDE2" TextString="Giảm tần suất kính thiên văn bị vỡ" />
+    <TextStringDefinition InstanceID="0x62AC199E" TextString="{0.SimFirstName} không thể nâng cấp kính thiên văn này khi nó đang bị hỏng." />
+    <TextStringDefinition InstanceID="0xE22B9E2F" TextString="Nâng cấp hoàn tất!\n\n{0.SimFirstName} đã hoàn thành việc lắp đặt nâng cấp kính thiên văn." />
+    <TextStringDefinition InstanceID="0x301C1622" TextString="Theo dõi Vệ tinh" />
+    <TextStringDefinition InstanceID="0x9638CBBC" TextString="Ngắm sao" />
+    <TextStringDefinition InstanceID="0xA45AE060" TextString="Ngắm sao" />
+    <TextStringDefinition InstanceID="0x1512CA14" TextString="Trạng thái Tập trung giúp ích cho các hoạt động thuộc về lô-gic!" />
+    <TextStringDefinition InstanceID="0x0B5B677E" TextString="Chỉ có thể thực hiện vào ban đêm. " />
+    <TextStringDefinition InstanceID="0x199E5FE4" TextString="Do tháp Căn hộ" />
+    <TextStringDefinition InstanceID="0xEE718D22" TextString="Ngắm trăng" />
+    <TextStringDefinition InstanceID="0xB8D515BC" TextString="Chỉ có thể thực hiện vào ban đêm. " />
+    <TextStringDefinition InstanceID="0x2D9521BD" TextString="Ngắm trăng" />
+    <TextStringDefinition InstanceID="0x5BA24D32" TextString="Không thể thực hiện khi được đặt trong nhà. " />
+    <TextStringDefinition InstanceID="0xD0B94B3E" TextString="Tìm kiếm Sự thật" />
+    <TextStringDefinition InstanceID="0x55D4C48B" TextString="Tìm kiếm Dấu hiệu" />
+    <TextStringDefinition InstanceID="0xF9B85DAC" TextString="Trạng thái Tập trung giúp ích cho các hoạt động thuộc về lô-gic!" />
+    <TextStringDefinition InstanceID="0x8A04D261" TextString="Quan sát Bầu trời" />
+    <TextStringDefinition InstanceID="0xB4534BFC" TextString="Đang làm việc" />
+    <TextStringDefinition InstanceID="0xFED38725" TextString="Rời đi?" />
+    <TextStringDefinition InstanceID="0x94778DFD" TextString="{0.SimFirstName} hiện đang làm việc. Sếp của {0.SimPronounObjective} có thể không thích việc {0.SimPronounObjective} nghỉ việc.\n\nBạn có chắc {M0.he}{F0.she} nên làm vậy không?" />
+    <TextStringDefinition InstanceID="0xFD13095F" TextString="Pha trà Táo Ấm áp" />
+    <TextStringDefinition InstanceID="0x5BBBB6C3" TextString="Pha trà Oolong Run" />
+    <TextStringDefinition InstanceID="0xA95602AD" TextString="Pha trà Đen Pitch" />

@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x78E52523" TextString="Xin chào, tên tôi là…" />
+    <TextStringDefinition InstanceID="0xE80DFF68" TextString="Chọn Đặc điểm" />
+    <TextStringDefinition InstanceID="0x03539144" TextString="Chọn Đặc điểm" />
+    <TextStringDefinition InstanceID="0xEDBABAA0" TextString="Chọn một Đặc điểm!" />
+    <TextStringDefinition InstanceID="0x397E8119" TextString="Tính năng ngẫu nhiên hiện không được phép. " />
+    <TextStringDefinition InstanceID="0xCB36FFA9" TextString="Ngẫu nhiên Đặc điểm" />
+    <TextStringDefinition InstanceID="0x264DBC72" TextString="," />
+    <TextStringDefinition InstanceID="0xE4D77A5D" TextString="Xung đột với: " />
+    <TextStringDefinition InstanceID="0xF0668AA7" TextString="Trang phục đã lưu" />
+    <TextStringDefinition InstanceID="0xE6BF1C60" TextString="Chia sẻ Hộ gia đình lên Thư viện" />
+    <TextStringDefinition InstanceID="0xC0F8F986" TextString="Lưu và Chơi" />
+    <TextStringDefinition InstanceID="0x8748FF03" TextString="Xong" />
+    <TextStringDefinition InstanceID="0x03703220" TextString="Nhấn dấu tích để lưu Hộ gia đình này vào Thư viện của bạn và bắt đầu chơi." />
+    <TextStringDefinition InstanceID="0xB99AE3A6" TextString="Câu hỏi mới" />
+    <TextStringDefinition InstanceID="0xC1B26DBE" TextString="Câu chuyện của tôi" />
+    <TextStringDefinition InstanceID="0x8C481305" TextString="Không khả dụng trong khi đang chọn Sim của bạn." />
+    <TextStringDefinition InstanceID="0x664BB507" TextString="Không khả dụng trong khi đang tạo câu chuyện của Sim." />
+    <TextStringDefinition InstanceID="0x6DD07C74" TextString="• Được gán khi tạo câu chuyện của tôi. Điều này không thể chỉnh sửa." />
+    <TextStringDefinition InstanceID="0x8CCE91E3" TextString="Kỹ năng" />
+    <TextStringDefinition InstanceID="0xEB0FA81D" TextString="Số tiền ban đầu" />
+    <TextStringDefinition InstanceID="0x2F3EC73A" TextString="Sự nghiệp" />
+    <TextStringDefinition InstanceID="0x1DEB7AD8" TextString="Câu chuyện của tôi" />
+    <TextStringDefinition InstanceID="0x85817CB0" TextString="Hãy bắt đầu với một câu hỏi dễ... Tôi bao nhiêu tuổi?" />
+    <TextStringDefinition InstanceID="0xEF654AFD" TextString="Người cao tuổi" />
+    <TextStringDefinition InstanceID="0xEF654AFC" TextString="Người trưởng thành" />
+    <TextStringDefinition InstanceID="0xEF654AFF" TextString="Thanh niên" />
+    <TextStringDefinition InstanceID="0xDBB7B208" TextString="Chào, rất vui được gặp bạn! Hãy thoải mái chỉ định giới tính của tôi, điều chỉnh ngoại hình, và chọn trang phục. Nhờ câu chuyện Sim của tôi, tôi đã có ước mơ, đặc điểm và kỹ năng mà bạn có thể cập nhật. Đừng quên đặt tên cho tôi!" />
+    <TextStringDefinition InstanceID="0x044B7685" TextString="Được rồi!" />
+    <TextStringDefinition InstanceID="0x2D62DEFE" TextString="Ngoại hình, giới tính, tuổi, đặc điểm, ước mơ và trang phục của Sim đã được ngẫu nhiên.\n\nChấp nhận Sim này hay ngẫu nhiên lại?\n\nBạn vẫn có thể thay đổi Sim sau khi nhấn chấp nhận. Khi xong, hãy chọn dấu tích ở góc dưới bên phải để vào trò chơi!" />
+    <TextStringDefinition InstanceID="0xF448C366" TextString="Ngẫu nhiên lại" />
+    <TextStringDefinition InstanceID="0xF448C365" TextString="Chấp nhận Sim này" />
+    <TextStringDefinition InstanceID="0x32A5D0CD" TextString="Không thể khởi chạy Tạo Câu chuyện Sim" />
+    <TextStringDefinition InstanceID="0x890F7861" TextString="Bạn đã đạt số lượng Sim tối đa (8) trong một hộ gia đình. Hãy xóa một Sim trước khi thêm thông qua Câu chuyện Sim." />
+    <TextStringDefinition InstanceID="0x58C24386" TextString="Chào! Hãy sẵn sàng đi đến {0.String}.\nBạn có muốn tùy chỉnh Sim của mình?\n\nNếu bạn chọn ngẫu nhiên Sim, giới tính, tên, đặc điểm và trang phục của họ sẽ được chọn cho bạn, nhưng bạn vẫn có thể thay đổi để tùy chỉnh Sim trước khi vào trò chơi." />
+    <TextStringDefinition InstanceID="0xE5C2E81F" TextString="Tìm hiểu về Tạo Sim" />
+    <TextStringDefinition InstanceID="0xE5C2E81E" TextString="Không, Ngẫu nhiên Sim" />
+    <TextStringDefinition InstanceID="0xE5C2E81D" TextString="Có! Tùy chỉnh Sim" />
+    <TextStringDefinition InstanceID="0xE922046E" TextString="Chào! Bạn có muốn tạo câu chuyện của tôi? Chúng ta sẽ bắt đầu với một bài kiểm tra tính cách vui vẻ. Sau đó, bạn có thể tùy chỉnh ngoại hình của tôi." />
+    <TextStringDefinition InstanceID="0x52DB21B6" TextString="Không, cảm ơn!" />
+    <TextStringDefinition InstanceID="0x52DB21B5" TextString="Được rồi!" />
+    <TextStringDefinition InstanceID="0x0E7C79CD" TextString="Chọn Siêu nhiên" />
+    <TextStringDefinition InstanceID="0x8797AA08" TextString="Chọn Nguyên nhân tử vong" />
+    <TextStringDefinition InstanceID="0x3C553004" TextString="Ấm áp" />
+    <TextStringDefinition InstanceID="0x244E59D4" TextString="Trung lập" />
+    <TextStringDefinition InstanceID="0x4334B7A7" TextString="Khác" />
+    <TextStringDefinition InstanceID="0xB52D3848" TextString="Mát mẻ" />
+    <TextStringDefinition InstanceID="0x63DBBAEE" TextString="Dạng Bóng tối của {0.SimName}." />
+    <TextStringDefinition InstanceID="0xBB1F5FFD" TextString="Bạn có chắc chắn muốn xóa Dạng Bóng tối? Bạn không thể hoàn tác thay đổi này." />
+    <TextStringDefinition InstanceID="0xD8350272" TextString="Xóa Dạng Bóng tối" />
+    <TextStringDefinition InstanceID="0x8A3BB7ED" TextString="Sao chép Sim sang Dạng Bóng tối." />

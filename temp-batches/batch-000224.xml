@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x004387D7" TextString="Một vài mối quan hệ mạnh mẽ hơn mối ràng buộc giữa một Sim Trung Thành và người bạn đồng hành yêu quý của họ." />
+    <TextStringDefinition InstanceID="0x3EF99DD2" TextString="Tôi Đã Làm Gì" />
+    <TextStringDefinition InstanceID="0xAFFDAB83" TextString="{0.SimFirstName} đã làm gì? Niềm tin dễ vỡ nhưng khó hàn gắn! Chỉ có sự thú tội mới giúp giảm bớt sự tội lỗi này." />
+    <TextStringDefinition InstanceID="0x3F2216B8" TextString="Tình Bạn Vượt Thời Gian" />
+    <TextStringDefinition InstanceID="0xE08714ED" TextString="{0.SimFirstName} rất vui vì {0.SimPronounPossessiveIndependent} bạn đã có một người bạn thân mới! Vòng tròn bạn bè ngày càng lớn!" />
+    <TextStringDefinition InstanceID="0x970C83B8" TextString="Bị Ma Đánh Trúng" />
+    <TextStringDefinition InstanceID="0x838BF3ED" TextString="Tiếp xúc với thế giới siêu nhiên sẽ khiến tâm hồn mạnh mẽ nhất cũng phải run sợ." />
+    <TextStringDefinition InstanceID="0x5EDFA85E" TextString="Một Khởi Đầu Mới" />
+    <TextStringDefinition InstanceID="0x1C4F6227" TextString="Một khởi đầu mới, không còn vướng bận các mối quan hệ cũ có thể khiến bất kỳ Sim nào cũng hạnh phúc." />
+    <TextStringDefinition InstanceID="0xBF020816" TextString="Nước Vào Mắt" />
+    <TextStringDefinition InstanceID="0x3A971D4F" TextString="Ôi đau! Kẻ vô tâm nào lại văng nước khử trùng vào mặt người khác?" />
+    <TextStringDefinition InstanceID="0x13893CB4" TextString="Lấy Cảm Hứng Từ Đám Mây" />
+    <TextStringDefinition InstanceID="0x913B4A81" TextString="Nhìn lên bầu trời bao la mang lại cảm hứng rằng mọi thứ đều có thể." />
+    <TextStringDefinition InstanceID="0x801714CB" TextString="Tự Tin Với Hệ Thống Tự Làm Sạch" />
+    <TextStringDefinition InstanceID="0x5796A804" TextString="Ôi... Không có gì tuyệt bằng một hệ thống tự làm sạch hoạt động trơn tru!" />
+    <TextStringDefinition InstanceID="0x161EE014" TextString="Bàn Tay Nhẹ Nhàng" />
+    <TextStringDefinition InstanceID="0x423F4761" TextString="Ôi đau! Tấm Pin Mặt Trời đó &lt;i&gt;thật sự&lt;/i&gt; nóng..." />
+    <TextStringDefinition InstanceID="0xC1A3304E" TextString="Những Trò Đùa Ma Quái" />
+    <TextStringDefinition InstanceID="0x7C95EBF7" TextString="Nếu có điều gì vui hơn là cùng ai đó nói đùa, thì đó là vui đùa ở chỗ họ!" />
+    <TextStringDefinition InstanceID="0x08EB0BD5" TextString="Người Trao Kẹo Ma Quái" />
+    <TextStringDefinition InstanceID="0xBBF6A4CA" TextString="Cảm giác khi tặng một món quà ngọt ngào cũng ngọt ngào như món quà ấy!" />
+    <TextStringDefinition InstanceID="0x9382C3DF" TextString="Mệt Mỏi Vì Mạng Xã Hội" />
+    <TextStringDefinition InstanceID="0x5655A830" TextString="Kiểm tra Mạng Xã Hội quá thường xuyên khiến bất kỳ ai cũng căng thẳng, mọi người đều cần một khoảng nghỉ khỏi Mạng Xã Hội de de khi nào đó." />
+    <TextStringDefinition InstanceID="0xE18E2B17" TextString="Cảm Thấy Ánh Sáng" />
+    <TextStringDefinition InstanceID="0x71B06A98" TextString="Đó là một ngôi sao, không phải là một chuyến tàu, không phải là vui quá trời! Cho tôi xem thêm cái nữa!" />
+    <TextStringDefinition InstanceID="0xF154F6C6" TextString="Chán Flash Card" />
+    <TextStringDefinition InstanceID="0x35AB121F" TextString="Đã đến lúc nghỉ... học quá nhiều và tập trung quá mức thật không vui." />
+    <TextStringDefinition InstanceID="0x2ED525B7" TextString="Chán Flash Card" />
+    <TextStringDefinition InstanceID="0x0CDBD4B8" TextString="Không nữa! KHÔNG NỮA nhìn vào flash card!" />
+    <TextStringDefinition InstanceID="0xB18685A3" TextString="Cuộc Trò Chuyện Vui Vẻ" />
+    <TextStringDefinition InstanceID="0x6F76BA6C" TextString="Những câu đùa, nụ cười và sự ngớ ngẩn tràn ngập." />
+    <TextStringDefinition InstanceID="0xC910D72D" TextString="Ngượng Ngùng" />
+    <TextStringDefinition InstanceID="0x76617612" TextString="Tôi chỉ cần thể hiện sự khó chịu này." />
+    <TextStringDefinition InstanceID="0xC2484B61" TextString="Đáng Xấu Hổ" />
+    <TextStringDefinition InstanceID="0x96EDB05E" TextString="Ugh, không có gì trong số đó cảm thấy đúng." />
+    <TextStringDefinition InstanceID="0xB3B875A5" TextString="Căng Thống Hiện Hữu" />
+    <TextStringDefinition InstanceID="0x6166F2FA" TextString="Có lẽ đã đến lúc ngắt kết nối, bước ra và nạp lại năng lượng." />
+    <TextStringDefinition InstanceID="0x58D11014" TextString="Hết Điện" />
+    <TextStringDefinition InstanceID="0xA0345761" TextString="Những bài viết buồn bã với những phản hồi còn buồn bã hơn." />
+    <TextStringDefinition InstanceID="0xDA1563D6" TextString="Niềm Vui Điện Tử" />
+    <TextStringDefinition InstanceID="0x20F1660F" TextString="Tôi đang ở trên mây số 10. Số 9 chưa đủ." />
+    <TextStringDefinition InstanceID="0xE7AAEDCE" TextString="Ôi Trời Ơi!" />
+    <TextStringDefinition InstanceID="0x79C6B877" TextString="Tôi suýt rơi điện thoại khi đọc tin nhắn cuối cùng đó." />
+    <TextStringDefinition InstanceID="0x87F6319B" TextString="100% Đã Sạc" />
+    <TextStringDefinition InstanceID="0xFE773A34" TextString="Những bình luận đến từ điện thoại đang sạc pin cho tôi." />
+    <TextStringDefinition InstanceID="0xF7F5BCA9" TextString="Xấu Hổ Công Khai Tột Cực" />
+    <TextStringDefinition InstanceID="0x1DE44276" TextString="Mỗi bài đăng còn tệ hơn bài trước." />
+    <TextStringDefinition InstanceID="0x0A54CD88" TextString="Đăng Từ Tín" />
+    <TextStringDefinition InstanceID="0xEDC51B9D" TextString="Tôi không thể làm gì sai. Internet đang chờ bài đăng đó." />
+    <TextStringDefinition InstanceID="0x8D62CBB5" TextString="Sự Giận Dữ Của Bọn Khiêu Khích" />

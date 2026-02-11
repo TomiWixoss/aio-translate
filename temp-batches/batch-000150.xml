@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x42518EC2" TextString="Bị {1.SimFirstName} làm phấn khích" />
+    <TextStringDefinition InstanceID="0x018A605A" TextString="Làm phấn khích" />
+    <TextStringDefinition InstanceID="0xE6D75C54" TextString="Bị {1.SimFirstName} kích động" />
+    <TextStringDefinition InstanceID="0x2A7B12A4" TextString="Kích động" />
+    <TextStringDefinition InstanceID="0x069AD490" TextString="Làm {1.SimFirstName} tức giận" />
+    <TextStringDefinition InstanceID="0x102D172D" TextString="Luyện tập Kích động" />
+    <TextStringDefinition InstanceID="0x80AC3723" TextString="Lắng nghe Giải pháp Hợp lý" />
+    <TextStringDefinition InstanceID="0x3D4B5ED5" TextString="Đưa ra Giải pháp Hợp lý" />
+    <TextStringDefinition InstanceID="0x0DADA9EA" TextString="Lắng nghe Kế hoạch Điên rồ của {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x1A510A82" TextString="Đề xuất Kế hoạch Điên rồ" />
+    <TextStringDefinition InstanceID="0x7658A160" TextString="Kết hôn với sinh viên là không phù hợp. Hãy tốt nghiệp hoặc bỏ học để theo đuổi mối quan hệ với giáo sư này." />
+    <TextStringDefinition InstanceID="0x7C2F070B" TextString="Ồ, khoan đã... điều này quá đột ngột! Chúng ta vừa hôn lần đầu, và giờ bạn muốn kết hôn? Gấp gáp gì? Hãy tận hưởng khoảnh khắc; chúng ta có thể nghĩ về hôn nhân sau." />
+    <TextStringDefinition InstanceID="0x0385937A" TextString="Ồ, bạn đã làm tôi vui vẻ chỉ bằng cách hỏi, nhưng tôi e rằng phải từ chối một cách tôn trọng. Tôi hoàn toàn hài lòng và dự định giữ độc thân!" />
+    <TextStringDefinition InstanceID="0x69C73B6C" TextString="Đề nghị Sớm" />
+    <TextStringDefinition InstanceID="0x1AB4D831" TextString="Được Đề nghị" />
+    <TextStringDefinition InstanceID="0xC80A5613" TextString="Đề nghị" />
+    <TextStringDefinition InstanceID="0x6BF15687" TextString="{0.SimFirstName} đang đề nghị với {1.SimFirstName}!" />
+    <TextStringDefinition InstanceID="0xAA19BF49" TextString="{0.SimFirstName} đã đính hôn rồi!" />
+    <TextStringDefinition InstanceID="0x4034CE0C" TextString="{0.SimFirstName} đã kết hôn rồi!" />
+    <TextStringDefinition InstanceID="0xC3AF2609" TextString="Bạn không có đủ Tình bạn để Đề nghị." />
+    <TextStringDefinition InstanceID="0x884F63F7" TextString="{1.SimFirstName} đã đính hôn rồi!" />
+    <TextStringDefinition InstanceID="0xEA33BC38" TextString="{1.SimFirstName} đã kết hôn rồi!" />
+    <TextStringDefinition InstanceID="0x941837EF" TextString="Bạn không có đủ Lãng mạn để Đề nghị." />
+    <TextStringDefinition InstanceID="0x62324F2A" TextString="Bạn không thể làm điều này khi một Sim đang đề nghị!" />
+    <TextStringDefinition InstanceID="0xFA754630" TextString="Nghe về Dành tặng Bài hát" />
+    <TextStringDefinition InstanceID="0xBC94F5C0" TextString="Hứa sẽ Dành tặng Bài hát" />
+    <TextStringDefinition InstanceID="0x976C03D3" TextString="Nghe về Tình yêu Vĩnh cửu của {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x123D9765" TextString="Thổ lộ Tình yêu Vĩnh cửu" />
+    <TextStringDefinition InstanceID="0xD1A3D337" TextString="Thổ lộ Tình yêu Vĩnh cửu một cách Miễn cưỡng" />
+    <TextStringDefinition InstanceID="0x30C04C4C" TextString="Tuyên ngôn Tình yêu Vĩnh cửu" />
+    <TextStringDefinition InstanceID="0x09928C81" TextString="Chơi trò Đùa dai với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xB77E1103" TextString="Giả vờ Bị tát" />
+    <TextStringDefinition InstanceID="0xCE8DD9A1" TextString="Say sưa về Bản giao hưởng Piano" />
+    <TextStringDefinition InstanceID="0xB4D903D2" TextString="Nghe về Bản giao hưởng Piano" />
+    <TextStringDefinition InstanceID="0x5109295F" TextString="Tận hưởng Lời khen của {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xEB3C9561" TextString="Lời khen vì Điểm tốt" />
+    <TextStringDefinition InstanceID="0x6F531F4B" TextString="Luyện tập Đánh nhau với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xDE532FDD" TextString="Luyện tập Đánh nhau" />
+    <TextStringDefinition InstanceID="0xA01D1464" TextString="Lắng nghe {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xCFDE7814" TextString="Tham chiếu Văn hóa Đại chúng" />
+    <TextStringDefinition InstanceID="0x4D8E5D77" TextString="Bị {1.SimFirstName} làm ướt" />
+    <TextStringDefinition InstanceID="0x84CE81C9" TextString="Quan sát Cung hoàng đạo với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xAC94B244" TextString="Chỉ ra Cung hoàng đạo" />
+    <TextStringDefinition InstanceID="0x0EC49D27" TextString="Bị {1.SimFirstName} lừa" />
+    <TextStringDefinition InstanceID="0x2A6D2669" TextString="Lừa bằng Chuông rung Tay" />
+    <TextStringDefinition InstanceID="0x46EC904B" TextString="Lắng nghe {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x9052B2DD" TextString="Gieo hạt giống Sự nghi ngờ" />
+    <TextStringDefinition InstanceID="0x0DB8DBAE" TextString="Lắng nghe Ý tưởng Câu chuyện của {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x9B06E796" TextString="Đề xuất Ý tưởng Câu chuyện" />
+    <TextStringDefinition InstanceID="0xDB8DD64F" TextString="Lắng nghe Câu nói Sến sẩm" />

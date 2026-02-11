@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xA35C7EB2" TextString="Thêm Sự kiện" />
+    <TextStringDefinition InstanceID="0xFB9D1E6B" TextString="Công việc / Trường học" />
+    <TextStringDefinition InstanceID="0x74DF55E0" TextString="Kỳ nghỉ" />
+    <TextStringDefinition InstanceID="0x123842F6" TextString="Hiển thị lịch trình được gắn thẻ với:" />
+    <TextStringDefinition InstanceID="0x7D35642B" TextString="Ngày lễ" />
+    <TextStringDefinition InstanceID="0xADF01F5F" TextString="Lễ hội" />
+    <TextStringDefinition InstanceID="0x57EA11EF" TextString="Sự kiện" />
+    <TextStringDefinition InstanceID="0x30D5E0E6" TextString="Sinh nhật" />
+    <TextStringDefinition InstanceID="0x64ADE610" TextString="Bắt đầu vào Ngày mai" />
+    <TextStringDefinition InstanceID="0xBB4B749C" TextString="Sắp bắt đầu, Hãy sẵn sàng!" />
+    <TextStringDefinition InstanceID="0x31331C34" TextString="Sắp bắt đầu" />
+    <TextStringDefinition InstanceID="0x319484CF" TextString="Bắt đầu trong {0.Timespan}" />
+    <TextStringDefinition InstanceID="0x720EC18B" TextString="Địa điểm: {0.String}" />
+    <TextStringDefinition InstanceID="0xCD63839F" TextString="Nhân vật trong hộ gia đình được mời:" />
+    <TextStringDefinition InstanceID="0xBB2C9A0D" TextString="Đi đến Sự kiện" />
+    <TextStringDefinition InstanceID="0x34E92F22" TextString="Lương còn nợ:" />
+    <TextStringDefinition InstanceID="0xACBFF61A" TextString="Số khách hàng" />
+    <TextStringDefinition InstanceID="0x92F96B42" TextString="Số ca làm việc" />
+    <TextStringDefinition InstanceID="0x697D3D18" TextString="Bán Công việc này" />
+    <TextStringDefinition InstanceID="0xD8A81195" TextString="Lợi nhuận:" />
+    <TextStringDefinition InstanceID="0x0BE0858F" TextString="Giờ mở cửa" />
+    <TextStringDefinition InstanceID="0x9D2874A3" TextString="Bạn không thể bán công việc này khi nó đang hoạt động." />
+    <TextStringDefinition InstanceID="0x4C755DE6" TextString="Chi phí quảng cáo:" />
+    <TextStringDefinition InstanceID="0xC7B02340" TextString="Báo cáo hiển thị tất cả thu nhập và chi phí cho Công việc Nhỏ này, cho đến thời điểm hiện tại nếu công việc đang mở cửa." />
+    <TextStringDefinition InstanceID="0x497C832B" TextString="Cơ hội phát triển là những lĩnh vực cần cải thiện. Hãy cân nhắc cải thiện chúng trước nếu chúng khiến khách hàng không hài lòng.\n\nSự xuất sắc là điều khách hàng thích nhất về Công việc Nhỏ. Tiếp tục phát huy!" />
+    <TextStringDefinition InstanceID="0x0C1575D0" TextString="Cơ hội phát triển là những lĩnh vực mà khách hàng cảm thấy nhà hàng của bạn thiếu nhất. Hãy cân nhắc cải thiện chúng trước nếu đánh giá của bạn đang thấp.\n\nLĩnh vực xuất sắc là điều khách hàng thích nhất về nhà hàng của bạn. Tiếp tục phát huy!" />
+    <TextStringDefinition InstanceID="0x728D2B6F" TextString="Đánh giá của Khách hàng" />
+    <TextStringDefinition InstanceID="0x187BB6AA" TextString="Lượng tiền bạn kiếm được trong ca này, hoặc đã kiếm được trong ca gần nhất đã hoàn thành." />
+    <TextStringDefinition InstanceID="0x4526F4FD" TextString="Báo cáo Tài chính" />
+    <TextStringDefinition InstanceID="0x02F50E4C" TextString="Phần này tóm tắt sự cải thiện kỹ năng, đào tạo và sự hài lòng công việc của nhân viên từ ca làm việc trước." />
+    <TextStringDefinition InstanceID="0x3DB2507B" TextString="Báo cáo Nhân viên" />
+    <TextStringDefinition InstanceID="0x40334FB8" TextString="Cơ hội phát triển là những lĩnh vực mà khách hàng cảm thấy Phòng khám Thú y của bạn thiếu nhất. Hãy cân nhắc cải thiện chúng trước nếu đánh giá của bạn đang thấp.\n\nLĩnh vực xuất sắc là điều khách hàng thích nhất về chuyến thăm đến Phòng khám Thú y của bạn. Tiếp tục phát huy!" />
+    <TextStringDefinition InstanceID="0xBCBAAC3C" TextString="Bác sĩ thú y" />
+    <TextStringDefinition InstanceID="0xE55A6C7C" TextString="Chất lượng vật tư Phòng khám Thú y của bạn có thể cải thiện hiệu quả điều trị. Vật tư chất lượng cao sẽ dẫn đến nhiều khách hàng hài lòng hơn với chi phí cao hơn.\n\nMua nâng cấp 'Mở khóa Chất lượng Vật tư Thú y' để mở khóa." />
+    <TextStringDefinition InstanceID="0x20151423" TextString="Chất lượng Vật tư" />
+    <TextStringDefinition InstanceID="0xB93235A1" TextString="Đưa ra các quyết định quản lý cấp cao về Phòng khám Thú y của bạn tại đây. Những cài đặt này sẽ có tác động lớn đến số tiền Phòng khám Thú y kiếm được và đánh giá của nó!" />
+    <TextStringDefinition InstanceID="0x4F2CF32E" TextString="Xác định lợi nhuận từ các lần khám và điều trị.\n\nTỷ suất lợi nhuận cao cần được kết hợp với chất lượng dịch vụ cao, nếu không khách hàng sẽ đánh giá phòng khám kém." />
+    <TextStringDefinition InstanceID="0xEA59B221" TextString="Cài đặt Phòng khám Thú y" />
+    <TextStringDefinition InstanceID="0x4FB75B22" TextString="Quảng cáo sẽ mang lại nhiều khách hàng hơn cho Phòng khám Thú y của bạn. Hãy cẩn thận, nó có thể trở nên tốn kém nên hãy đảm bảo số tiền bỏ ra xứng đáng!" />
+    <TextStringDefinition InstanceID="0xE84A80E4" TextString="Hiện tại bạn không sở hữu bất kỳ công việc nào. Sử dụng menu thả xuống để mua một công việc." />
+    <TextStringDefinition InstanceID="0xC71A9A74" TextString="Chọn một Tùy chọn" />
+    <TextStringDefinition InstanceID="0x8617BBC6" TextString="Ý kiến Mới nhất:" />
+    <TextStringDefinition InstanceID="0xBB50BCC0" TextString="Mua một Phòng khám Thú y" />
+    <TextStringDefinition InstanceID="0xF7EDDD8A" TextString="Mua một Cửa hàng Bán lẻ" />
+    <TextStringDefinition InstanceID="0xAEDBB936" TextString="Mua một Nhà hàng" />
+    <TextStringDefinition InstanceID="0xC6CF7FA5" TextString="Lợi nhuận Dịch vụ:" />
+    <TextStringDefinition InstanceID="0x8895C854" TextString="Ưu đãi Công việc Nhỏ" />
+    <TextStringDefinition InstanceID="0xF3D0CEC1" TextString="Điểm Ưu đãi:" />
+    <TextStringDefinition InstanceID="0xFB7E3DCD" TextString="Tổng quan Tài chính" />
+    <TextStringDefinition InstanceID="0xF4C60729" TextString="Giá trị Công việc:" />

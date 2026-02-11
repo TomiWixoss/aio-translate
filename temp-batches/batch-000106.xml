@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xAF3AEF2A" TextString="Chia Tay Cặp Đôi" />
+    <TextStringDefinition InstanceID="0x616D101C" TextString="Sử dụng Tương Tác Lãng Mạn để tán tỉnh các Sim khác, sau đó chọn 'Hỏi Trở Thành Bạn Đời'. Khi hai Sim đã là một cặp đôi, chọn 'Chia Tay' (hoặc 'Ly Hôn' nếu Đã Kết Hôn) trong danh mục Mối Quan Hệ." />
+    <TextStringDefinition InstanceID="0x9D3C721B" TextString="Đạt Trạng Thái &quot;Ex&quot; Với Các Sim Khác" />
+    <TextStringDefinition InstanceID="0xBAA143E1" TextString="Thực hiện Tương Tác Lãng Mạn gần người bạn đời (Bạn Đời, Vợ/Chồng, v.v.) của {0.SimFirstName}, với một Sim không phải là người bạn đời của {0.SimPronounPossessiveDependent}." />
+    <TextStringDefinition InstanceID="0xAD66E944" TextString="Bị Bắt Gặp Ngoại Tình" />
+    <TextStringDefinition InstanceID="0xE298B908" TextString="Nhấp vào Máy Tính và chọn 'Luyện Tập Viết'. Máy tính có thể mua ở Chế Độ Xây Dựng trong danh mục Phòng Học." />
+    <TextStringDefinition InstanceID="0x5D29E750" TextString="Luyện Tập Viết Trong 3 Giờ" />
+    <TextStringDefinition InstanceID="0xEF6EAC9A" TextString="Nhấp vào Máy Tính và chọn một thể loại sách để viết trong danh mục 'Viết'. Máy tính có thể mua ở Chế Độ Xây Dựng trong danh mục Phòng Học." />
+    <TextStringDefinition InstanceID="0x14A50785" TextString="Viết Một Cuốn Sách" />
+    <TextStringDefinition InstanceID="0x9E7A345A" TextString="Chơi video game bằng Điện Thoại, Máy Tính Bảng, Máy Tính hoặc Máy Chơi Game Động. Điện thoại có thể truy cập bằng cách nhấp vào Sim được chọn, trong khi các thiết bị khác có thể mua ở Chế Độ Xây Dựng trong danh mục Phòng Học." />
+    <TextStringDefinition InstanceID="0x9F26F245" TextString="Chơi Video Game Trong 4 Giờ" />
+    <TextStringDefinition InstanceID="0xA5CA5C88" TextString="Để mod một trò chơi, nhấp vào Máy Tính, chọn 'Mod Game' trong danh mục 'Lập Trình', và chọn một trò chơi để mod. Sim có thể mở khóa tương tác này bằng cách tăng Kỹ Năng Lập Trình của mình." />
+    <TextStringDefinition InstanceID="0x30481DA7" TextString="Đạt Cấp Độ 6 Kỹ Năng Viết" />
+    <TextStringDefinition InstanceID="0xC575919C" TextString="Tối Đa Kỹ Năng Chơi Game Đến Cấp Độ 10" />
+    <TextStringDefinition InstanceID="0x1E7504FB" TextString="Đạt Cấp Độ 8 Kỹ Năng Chơi Game" />
+    <TextStringDefinition InstanceID="0x0BFD2428" TextString="Đạt Cấp Độ 7 Kỹ Năng Chơi Game" />
+    <TextStringDefinition InstanceID="0x130B75E1" TextString="Đạt Cấp Độ 6 Kỹ Năng Chơi Game" />
+    <TextStringDefinition InstanceID="0xCBE480AE" TextString="Đạt Cấp Độ 5 Kỹ Năng Chơi Game" />
+    <TextStringDefinition InstanceID="0x382C9C6F" TextString="Đạt Cấp Độ 4 Kỹ Năng Chơi Game" />
+    <TextStringDefinition InstanceID="0x4A13EA6C" TextString="Đạt Cấp Độ 3 Kỹ Năng Chơi Game" />
+    <TextStringDefinition InstanceID="0x89D68785" TextString="Đạt Cấp Độ 2 Kỹ Năng Chơi Game" />
+    <TextStringDefinition InstanceID="0x672D9543" TextString="Đạt Cấp Độ 4 Kỹ Năng Khoa Học Tên Lửa" />
+    <TextStringDefinition InstanceID="0xB3F46621" TextString="Đạt Cấp Độ 2 Kỹ Năng Khoa Học Tên Lửa " />
+    <TextStringDefinition InstanceID="0x2EA8D119" TextString="Tối Đa Kỹ Năng Đàn Piano Đến Cấp Độ 10" />
+    <TextStringDefinition InstanceID="0x0CEA308A" TextString="Đạt cấp độ 8 Kỹ năng Đàn piano." />
+    <TextStringDefinition InstanceID="0x4E550BA8" TextString="Đạt cấp độ 6 Kỹ năng Đàn piano." />
+    <TextStringDefinition InstanceID="0x0E3C682E" TextString="Đạt cấp độ 4 Kỹ năng Đàn piano." />
+    <TextStringDefinition InstanceID="0x8C6BD1EC" TextString="Đạt cấp độ 2 Kỹ năng Đàn piano." />
+    <TextStringDefinition InstanceID="0x79016F3D" TextString="Đạt Cấp Độ 5 Kỹ Năng Chụp Ảnh" />
+    <TextStringDefinition InstanceID="0x6342E404" TextString="Đạt Cấp Độ 4 Kỹ Năng Chụp Ảnh" />
+    <TextStringDefinition InstanceID="0xCF4056C7" TextString="Đạt Cấp Độ 3 Kỹ Năng Chụp Ảnh" />
+    <TextStringDefinition InstanceID="0xA2F42966" TextString="Đạt Cấp Độ 2 Kỹ Năng Chụp Ảnh" />
+    <TextStringDefinition InstanceID="0x3BC7A49B" TextString="Tối Đa Kỹ Năng Khéo Léo Đến Cấp Độ 10" />
+    <TextStringDefinition InstanceID="0x2F7170C5" TextString="Nhấp vào một Sim và thực hiện Tương Tác Thân Thiện hoặc Hài Hước để tăng Mối Quan Hệ! Để xem một Sim đã kết bạn với ai, nhấp vào nút 'Bạn Bè' trong bảng Mối Quan Hệ của Sim.&#xD;&#xA;" />
+    <TextStringDefinition InstanceID="0x067891C8" TextString="Có {1.Number} Bạn Bè" />
+    <TextStringDefinition InstanceID="0x8927FEA5" TextString="Làm Vui Vẻ Với {1.Number} Sim" />
+    <TextStringDefinition InstanceID="0x6AEE2D50" TextString="Nhấp vào các Sim chưa quen biết, và chọn một lời giới thiệu!" />
+    <TextStringDefinition InstanceID="0x05947D0F" TextString="Tự Giới Thiệu Với {1.Number} Sim" />
+    <TextStringDefinition InstanceID="0x61B224A6" TextString="Đạt Cấp Độ {1.Number} Kỹ Năng Câu Cá" />
+    <TextStringDefinition InstanceID="0x56934720" TextString="Bắt {1.Number} Cá Bằng Mồi Câu" />
+    <TextStringDefinition InstanceID="0x959C4BBD" TextString="Phát Triển 10 Cây Xuất Sắc" />
+    <TextStringDefinition InstanceID="0x372A315B" TextString="Đạt Cấp Độ {1.Number} Kỹ Năng Trồng Trọt" />
+    <TextStringDefinition InstanceID="0xEA92AA38" TextString="Thu Thập {1.Number} Tinh Thể" />
+    <TextStringDefinition InstanceID="0x6607ABF1" TextString="Gây Giống {1.Number} Ếch" />
+    <TextStringDefinition InstanceID="0x75B43EFE" TextString="Gửi {1.Number} Món Hàng cho Hội Địa Chất" />
+    <TextStringDefinition InstanceID="0x8B849569" TextString="Đạt Cấp Độ {1.Number} Kỹ Năng Câu Cá" />
+    <TextStringDefinition InstanceID="0x7B7F96F0" TextString="Thực Hiện {1.Number} Lần Bắt Cá Tuyệt Vời" />
+    <TextStringDefinition InstanceID="0x92F17217" TextString="Treo hoặc Xơi {1.Number} Cá" />
+    <TextStringDefinition InstanceID="0x58C9FC72" TextString="Phát Triển {1.Number} Loại Cây Khác Nhau" />
+    <TextStringDefinition InstanceID="0xE85D1B23" TextString="Ghép Nối Vào {1.Number} Cây" />

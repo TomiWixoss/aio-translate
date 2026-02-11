@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x763ED16A" TextString="Kết thúc Kỳ nghỉ" />
+    <TextStringDefinition InstanceID="0xC09047E3" TextString="Kết thúc Chuyến đi ngắn" />
+    <TextStringDefinition InstanceID="0xCE5DD57C" TextString="Điều này sẽ kết thúc Kỳ nghỉ và gửi mọi người về Nhà. Bạn có muốn tiếp tục?" />
+    <TextStringDefinition InstanceID="0x2350445B" TextString="Chia sẻ Tình yêu" />
+    <TextStringDefinition InstanceID="0x6D61AD68" TextString="Chơi với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x2E55F285" TextString="Ôm" />
+    <TextStringDefinition InstanceID="0x9E9CF47D" TextString="Sim không thể làm điều này khi không mặc quần áo." />
+    <TextStringDefinition InstanceID="0x151A5F57" TextString="Ôm nhau để hòa giải sau khi đánh nhau" />
+    <TextStringDefinition InstanceID="0x33D5C183" TextString="Thể hiện sự thất vọng vì đánh nhau" />
+    <TextStringDefinition InstanceID="0x71545E91" TextString="Khuyến khích đánh nhau" />
+    <TextStringDefinition InstanceID="0x7164551D" TextString="Yêu cầu không đánh nhau" />
+    <TextStringDefinition InstanceID="0x9F426A1B" TextString="Nói không đánh nhau" />
+    <TextStringDefinition InstanceID="0x8F5092E8" TextString="Cho thời gian nghỉ vì đánh nhau" />
+    <TextStringDefinition InstanceID="0xDCBE25D2" TextString="Cấm túc vì đánh nhau" />
+    <TextStringDefinition InstanceID="0x00EB8F60" TextString="La mắng vì đánh nhau" />
+    <TextStringDefinition InstanceID="0xE204C5F1" TextString="An ủi" />
+    <TextStringDefinition InstanceID="0xDA63BBCD" TextString="Thể hiện tình yêu" />
+    <TextStringDefinition InstanceID="0x302C2440" TextString="Dỗ dành" />
+    <TextStringDefinition InstanceID="0xCE9B4CF2" TextString="Thay tã" />
+    <TextStringDefinition InstanceID="0x370DC98F" TextString="Yêu cầu thay tã" />
+    <TextStringDefinition InstanceID="0x551B2434" TextString="Vỗ tay" />
+    <TextStringDefinition InstanceID="0x9ACB6F04" TextString="Bạn đưa tôi thứ tôi đã làm? Ừ, được..." />
+    <TextStringDefinition InstanceID="0xA714C8DF" TextString="Cái này trông quen. Khoan đã, tôi đã làm cái này!" />
+    <TextStringDefinition InstanceID="0x990851C7" TextString="Nhận quà" />
+    <TextStringDefinition InstanceID="0xA7DEEC89" TextString="Tặng quà" />
+    <TextStringDefinition InstanceID="0x8D9D44A1" TextString="Lều không thể được đặt trong kho đồ của Sim khi đang sử dụng." />
+    <TextStringDefinition InstanceID="0xA96349CE" TextString="Đối tượng này không thể được đặt trong kho đồ của Sim khi đang sử dụng." />
+    <TextStringDefinition InstanceID="0x9323D6C2" TextString="Hãy loại bỏ bất kỳ vật phẩm nào trên đối tượng này trước khi đặt nó vào kho đồ của Sim." />
+    <TextStringDefinition InstanceID="0x82BE095B" TextString="Bài học làm vườn" />
+    <TextStringDefinition InstanceID="0x2DE7D237" TextString="Bài học về nguyện vọng" />
+    <TextStringDefinition InstanceID="0x28569837" TextString="Chào mừng bạn đến với loạt bài mới nhất của chúng tôi, nơi chúng tôi hướng dẫn bạn quy trình nấu Ambrosia!\n\nNếu bạn đã trồng Snapdragon thì bước tiếp theo là phát triển kỹ năng Nấu ăn và Làm vườn. Cách tốt nhất là chăm sóc vườn và bản thân!" />
+    <TextStringDefinition InstanceID="0x4FC40C09" TextString="Bản tin Hiệp hội Ambrosia" />
+    <TextStringDefinition InstanceID="0xC3DEA665" TextString="Bài học nấu ăn" />
+    <TextStringDefinition InstanceID="0x3E4BC8C8" TextString="Tuần này, chúng ta tiếp tục làm việc về Làm vườn. Bạn cũng cần bắt đầu tích lũy Điểm Thỏa mãn, bạn sẽ cần chúng sau!\n\nAmbrosia đòi hỏi một số thao tác sáng tạo với cây, vì vậy bạn cũng nên lấy một cắt của Lily và Snapdragon tuần này. Hãy kiểm tra Công viên Hoa Magnolia ở Willow Creek để tìm một số Lily và Snapdragon hoang dã." />
+    <TextStringDefinition InstanceID="0x4C8491AA" TextString="Bài học câu cá" />
+    <TextStringDefinition InstanceID="0x6B21D92A" TextString="Tuần này chúng ta đang hoàn thiện các chi tiết cuối cùng trước khi sẵn sàng nấu Ambrosia! Bạn cần đạt tối đa kỹ năng Nấu ăn và Nấu ăn Cao cấp trước khi thử nấu món ăn vào tuần sau." />
+    <TextStringDefinition InstanceID="0xEC5E7CBC" TextString="Một tuần khác, một bản tin khác! Tuần này là lúc bắt nguyên liệu đầu tiên, một con Cá thiên thần!\n\nAmbrosia là một món ăn cao cấp, vì vậy đã đến lúc học kỹ năng Nấu ăn Cao cấp.\n\nVườn của bạn có nở hoa chưa? Ambrosia đòi hỏi một Bông hoa Tử thần, vì vậy tuần này, bạn cũng cần ghép cây Orchid và cây Lựu." />
+    <TextStringDefinition InstanceID="0x0C5D8318" TextString="Tuần này, Bông hoa Tử thần có thể trong tầm tay.\n\nTrong khi chờ đợi nó lớn lên, hãy tiếp tục phát triển kỹ năng Nấu ăn và Nấu ăn Cao cấp! Chúng sẽ hữu ích khi bạn cuối cùng sẵn sàng nấu Ambrosia." />
+    <TextStringDefinition InstanceID="0x3D9C8AE6" TextString="Bài học về nguyện vọng" />
+    <TextStringDefinition InstanceID="0xAB24924C" TextString="Chào mừng đến với ấn bản cuối cùng của bản tin! Đã đến lúc công sức của bạn được đền đáp. Hãy nấu Ambrosia từ các công thức Nấu ăn Cao cấp.\n\nMột khi đã nấu xong, bạn có thể hồi sinh một linh hồn với món ăn kỳ diệu này!" />
+    <TextStringDefinition InstanceID="0x0D8026D1" TextString="Bạn biết tôi thích gì không? Đứng dậy và bước ra khỏi phòng, rồi dẫm vào một vũng nước của thứ không biết là gì do không biết ai để lại, đã nằm đó từ không biết bao lâu. Ôi chao, tôi thích nó thật, thật sự thích." />
+    <TextStringDefinition InstanceID="0x900F1B18" TextString="Người bạn cùng phòng yêu quý,\n\nLàm ơn lau chùi tôi để tôi biết bạn quan tâm. KHÔNG, đừng chỉ đặt tôi xuống, đồ quái vật\n\nYêu,\nchiếc đĩa bạn vừa dùng" />
+    <TextStringDefinition InstanceID="0x815D398C" TextString="Có ai sống ở đây đang cố gắng phá kỷ lục về lượng giấy vệ sinh một Sim có thể dùng không? Tôi không nghĩ ra lời giải thích nào khác cho việc chúng ta hết giấy nhanh như vậy." />
+    <TextStringDefinition InstanceID="0xB7EB2052" TextString="Các nhà khoa học nói rằng tắm rửa không chỉ giúp bạn khỏe mạnh hơn mà còn có thể khiến người khác thích bạn hơn! Chỉ muốn chia sẻ sự thật khoa học thú vị này!!" />
+    <TextStringDefinition InstanceID="0xA99130D0" TextString="Hãy tuân theo QUY TẮC VÀNG. Tôi không vào phòng bạn và chạm vào đồ đạc của bạn, phải không? Không, tôi không." />
+    <TextStringDefinition InstanceID="0xBE53F998" TextString="Tôi không nói tôi là bạn cùng phòng tốt nhất, nhưng ít nhất tôi không phải là {0.SimFirstName}." />
+    <TextStringDefinition InstanceID="0xAC795B40" TextString="(Từ việc đọc Ghi chú của Bạn cùng phòng)" />
+    <TextStringDefinition InstanceID="0x3A24CC3F" TextString="(Từ việc đọc Thư Chấp nhận Cũ)" />
+    <TextStringDefinition InstanceID="0xD24F38AF" TextString="Không thể đặt vào Kho đồ Sim khi đang nấu ăn" />
+    <TextStringDefinition InstanceID="0x61B3DC70" TextString="Hãy chạy tương tác Dọn bàn để loại bỏ tất cả vật phẩm khỏi bàn trước." />

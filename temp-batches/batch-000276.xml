@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xC8C283AF" TextString="Hải sản" />
+    <TextStringDefinition InstanceID="0xBE1BFE5A" TextString="Quán ăn" />
+    <TextStringDefinition InstanceID="0xDEE9C033" TextString="Thử nghiệm" />
+    <TextStringDefinition InstanceID="0x6C3C82BA" TextString="Món chính" />
+    <TextStringDefinition InstanceID="0xD6272A5F" TextString="Tráng miệng" />
+    <TextStringDefinition InstanceID="0xA8AB9F41" TextString="Khai vị" />
+    <TextStringDefinition InstanceID="0xA50FBD8A" TextString="Một bộ sưu tập hoàn chỉnh các quả trứng trang trí? Thật tuyệt vời! Một động vật có đuôi bông tơ đang gửi một phần thưởng chúc mừng." />
+    <TextStringDefinition InstanceID="0x97A525EB" TextString="Đá geodes có thể được tìm thấy ở Thế giới Ngoài hành tinh." />
+    <TextStringDefinition InstanceID="0x2A5F232B" TextString="Đá geodes" />
+    <TextStringDefinition InstanceID="0x5E764893" TextString="Bạn đã hoàn thành bộ sưu tập Đá geodes." />
+    <TextStringDefinition InstanceID="0x7DD2D10C" TextString="Côn trùng được tìm thấy và bắt được trong các khu cắm trại." />
+    <TextStringDefinition InstanceID="0x0B38CB16" TextString="Côn trùng" />
+    <TextStringDefinition InstanceID="0x013A4D3C" TextString="Bạn đã hoàn thành bộ sưu tập Côn trùng! Bạn là bậc thầy của những sinh vật nhỏ bé ghê tởm." />
+    <TextStringDefinition InstanceID="0x8E685791" TextString="Cá được tìm thấy - một cách đáng ngạc nhiên - bằng cách câu cá." />
+    <TextStringDefinition InstanceID="0x4D8B1FA9" TextString="Cá" />
+    <TextStringDefinition InstanceID="0x48427045" TextString="Bạn đã hoàn thành bộ sưu tập Câu cá" />
+    <TextStringDefinition InstanceID="0xA1DC0F82" TextString="Đá vũ trụ được tìm thấy bằng cách đi vào không gian bằng tên lửa." />
+    <TextStringDefinition InstanceID="0x83873727" TextString="Người ngoài hành tinh được tìm thấy bằng cách đi vào không gian bằng tên lửa." />
+    <TextStringDefinition InstanceID="0x7FB519AB" TextString="Cây trồng và trái cây trong vườn có thể được trồng, ghép, hoặc đôi khi tìm thấy ngoài tự nhiên." />
+    <TextStringDefinition InstanceID="0x26746953" TextString="Không trái cây nào chưa được chiếm hữu. Không bông hoa nào chưa được tìm thấy. Chúc mừng! Hội Vườn cây Sim vô cùng ngưỡng mộ bộ sưu tập của bạn." />
+    <TextStringDefinition InstanceID="0xA16EDDC6" TextString="Ếch được tìm thấy trong và xung quanh các khúc gỗ, bơm nước, và hố câu cá." />
+    <TextStringDefinition InstanceID="0xB75C762C" TextString="Bây giờ khi bộ sưu tập đầu đường hoàn chỉnh đã được sở hữu, hãy đặt mỗi loại đầu đường trong một Tủ trưng bày Đầu đường để mở khóa khả năng &quot;Tôn vinh người đã khuất&quot;. Khi tương tác này được chọn, khói nhiều màu sẽ tràn ra và một chiếc đầu đường thứ mười độc nhất, được mạ vàng và rực rỡ sẽ xuất hiện." />
+    <TextStringDefinition InstanceID="0x407108C7" TextString="Người thuê đã rời đi" />
+    <TextStringDefinition InstanceID="0xC43299C5" TextString="Một hộ gia đình người thuê đã rời đi. Căn hộ cũ của họ bây giờ không có người ở." />
+    <TextStringDefinition InstanceID="0x4E40547E" TextString="Với Vận may tốt, Sim có thể thấy sự gia tăng trong những phát hiện tốt, tương tác xã hội tích cực, và có thể thậm chí là sự thăng chức đã mong đợi lâu ở công việc!" />
+    <TextStringDefinition InstanceID="0x4F4A8D40" TextString="Vận may tốt" />
+    <TextStringDefinition InstanceID="0xD3C7200D" TextString="{0.SimFirstName} chắc chắn {0.SimPronounSubjective} có thể cảm thấy Vận may tốt đang rực rỡ chiếu trên {0.SimPronounObjective} hôm nay!" />
+    <TextStringDefinition InstanceID="0xC775C4DF" TextString="Với Vận may bình thường, hành động của một Sim không bị ảnh hưởng theo chiều tốt hay xấu bởi Vận may." />
+    <TextStringDefinition InstanceID="0x27971B57" TextString="Vận may bình thường" />
+    <TextStringDefinition InstanceID="0x05A0B5BA" TextString="{0.SimFirstName} có Vận may bình thường trong một ngày bình thường. Không có gì khác để nói!" />
+    <TextStringDefinition InstanceID="0xF0A473B0" TextString="Với Vận may xấu đang lởn vởn, Sim có thể cần phải đề phòng các thất bại, hỏa hoạn, và những tình bạn khó lường." />
+    <TextStringDefinition InstanceID="0x682D66E2" TextString="Vận may xấu" />
+    <TextStringDefinition InstanceID="0x513995B3" TextString="&lt;font color=&quot;#FFFFFF&quot;&gt;{0.SimFirstName} không thể hoàn toàn chắc chắn, nhưng {0.SimPronounSubjective} cảm thấy như Vận may xấu đang lởn vởn trên đầu {0.SimPronounObjective} hôm nay.&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x0EB668F7" TextString="Lễ hội Sims Sessions" />
+    <TextStringDefinition InstanceID="0xC51C4248" TextString="Đi đến Giao diện Sự kiện" />
+    <TextStringDefinition InstanceID="0x56AFFFD5" TextString="Phần thưởng đã mở khóa" />
+    <TextStringDefinition InstanceID="0xC006C217" TextString="Bạn đã kiếm đủ Điểm Sự kiện để nhận phần thưởng! Đi đến Giao diện Sự kiện để nhận nó." />
+    <TextStringDefinition InstanceID="0x1D54DFD6" TextString="{0.String} của {1.String}" />
+    <TextStringDefinition InstanceID="0x2F02E39F" TextString="Rất cao" />
+    <TextStringDefinition InstanceID="0xC7C8813F" TextString="Thấp" />
+    <TextStringDefinition InstanceID="0x63644159" TextString="Bình thường" />
+    <TextStringDefinition InstanceID="0x1C10FEC4" TextString="Bình thường" />
+    <TextStringDefinition InstanceID="0x41CB266D" TextString="Rất thấp" />
+    <TextStringDefinition InstanceID="0x152F669A" TextString="Cao" />
+    <TextStringDefinition InstanceID="0xBC2B6273" TextString="[PH] Hạ bậc toàn bộ gia đình" />
+    <TextStringDefinition InstanceID="0x0C6C23FB" TextString="[PH] Từ chức" />
+    <TextStringDefinition InstanceID="0x58012015" TextString="Nó ảnh hưởng đến tất cả mọi người!" />
+    <TextStringDefinition InstanceID="0x23D04057" TextString="[PH] {0.SimName} đã bị hạ bậc do hiệu suất kém và điều đó ảnh hưởng đến toàn bộ gia đình!" />
+    <TextStringDefinition InstanceID="0x56DF6716" TextString="{0.SimName} là một {1.String}" />
+    <TextStringDefinition InstanceID="0x2A6C526D" TextString="Khi bạn tham gia Sự nghiệp Quý tộc, vợ/chồng và con cái của bạn cũng sẽ trở thành Quý tộc. Hiện tại:\n{0.String}\nHọ sẽ rời bỏ công việc hiện tại để trở thành Quý tộc cùng bạn. Bạn có muốn tiếp tục?\n" />

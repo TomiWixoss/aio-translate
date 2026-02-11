@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x4B94F071" TextString="(Từ việc là Kẻ hề)" />
+    <TextStringDefinition InstanceID="0x5A62DC7B" TextString="(Từ việc là Người tốt)" />
+    <TextStringDefinition InstanceID="0x601EF0FE" TextString="(Từ việc là Người tốt)" />
+    <TextStringDefinition InstanceID="0x00F12F74" TextString="(Từ việc là Kẻ tham ăn)" />
+    <TextStringDefinition InstanceID="0xC45912C0" TextString="(Từ việc là U ám)" />
+    <TextStringDefinition InstanceID="0xACE82AAE" TextString="(Từ việc là Thiên tài)" />
+    <TextStringDefinition InstanceID="0x3814344B" TextString="(Từ việc là Geek)" />
+    <TextStringDefinition InstanceID="0xB1A02E1E" TextString="(Từ việc là Tiết kiệm)" />
+    <TextStringDefinition InstanceID="0x3FC316C5" TextString="(Từ việc là Tín đồ ẩm thực)" />
+    <TextStringDefinition InstanceID="0xD1D9CF0F" TextString="(Từ việc là Hướng gia đình)" />
+    <TextStringDefinition InstanceID="0x4E2CD99D" TextString="(Từ việc là Ác)" />
+    <TextStringDefinition InstanceID="0xC063F12E" TextString="(Từ việc là Sáng tạo)" />
+    <TextStringDefinition InstanceID="0xA09F72AC" TextString="(Từ việc là Không cam kết)" />
+    <TextStringDefinition InstanceID="0xD0A38C70" TextString="(Từ việc là Sưu tầm)" />
+    <TextStringDefinition InstanceID="0x89D60586" TextString="(Từ việc là Vụng về)" />
+    <TextStringDefinition InstanceID="0x6867454D" TextString="(Từ việc là Trẻ con)" />
+    <TextStringDefinition InstanceID="0xA3653A25" TextString="(Từ việc là Trẻ em)" />
+    <TextStringDefinition InstanceID="0x3197317F" TextString="(Từ việc là Vui vẻ)" />
+    <TextStringDefinition InstanceID="0x60086B3A" TextString="(Từ việc là Bro)" />
+    <TextStringDefinition InstanceID="0xB32E6969" TextString="(Từ việc là Mọt sách)" />
+    <TextStringDefinition InstanceID="0x1925F692" TextString="(Từ việc là Người yêu nghệ thuật)" />
+    <TextStringDefinition InstanceID="0xF3D70BFE" TextString="(Từ việc là Tham vọng)" />
+    <TextStringDefinition InstanceID="0x1549AA57" TextString="(Từ việc là Người lớn)" />
+    <TextStringDefinition InstanceID="0xA769E0CB" TextString="(Từ trí tưởng tượng năng động)" />
+    <TextStringDefinition InstanceID="0xC1216EF1" TextString="(Từ việc là Năng động)" />
+    <TextStringDefinition InstanceID="0xE7272EB2" TextString="(Từ đặc điểm Luyện tập tạo nên sự hoàn hảo)" />
+    <TextStringDefinition InstanceID="0x70AE2F90" TextString="(Từ kỹ năng Khéo léo)" />
+    <TextStringDefinition InstanceID="0x596E2578" TextString="(Từ việc ở phòng tập gym)" />
+    <TextStringDefinition InstanceID="0xFF6C1FCD" TextString="(Từ kỹ năng Guitar)" />
+    <TextStringDefinition InstanceID="0xA54DE384" TextString="(Từ việc là Ma)" />
+    <TextStringDefinition InstanceID="0x31F539C1" TextString="Tràn đầy năng lượng" />
+    <TextStringDefinition InstanceID="0xCC6B0337" TextString="Thần đồng" />
+    <TextStringDefinition InstanceID="0x77ABD210" TextString="Nhà khoa học nhí" />
+    <TextStringDefinition InstanceID="0x6E434265" TextString="Thông minh sớm" />
+    <TextStringDefinition InstanceID="0xA35ACC72" TextString="Thần đồng nghệ thuật" />
+    <TextStringDefinition InstanceID="0xD5C36F21" TextString="Người mơ mộng" />
+    <TextStringDefinition InstanceID="0x500FFF3C" TextString="Trí tưởng tượng năng động" />
+    <TextStringDefinition InstanceID="0xEFEBF891" TextString="{0.SimFirstName} đã hoàn thành bài tập thêm của {M0.his}{F0.her} cho ngày hôm nay." />
+    <TextStringDefinition InstanceID="0x1185CF78" TextString="(Từ kỹ năng Xã hội)" />
+    <TextStringDefinition InstanceID="0xC6257C95" TextString="(Từ việc Cảm thấy khỏe mạnh hơn)" />
+    <TextStringDefinition InstanceID="0xBAEC772E" TextString="(Từ việc WooHoo tầm thường)" />
+    <TextStringDefinition InstanceID="0x55DDF09E" TextString="(Từ việc WooHoo dưới trung bình)" />
+    <TextStringDefinition InstanceID="0x44B4251C" TextString="(Từ kỹ năng Xã hội)" />
+    <TextStringDefinition InstanceID="0xCA2A213B" TextString="(Từ bài đăng Social Bunny)" />
+    <TextStringDefinition InstanceID="0x9A6AE269" TextString="(Từ việc Ngủ trong túi ngủ)" />
+    <TextStringDefinition InstanceID="0x013B459F" TextString="(Từ kịch bản In the Moodlet)" />
+    <TextStringDefinition InstanceID="0xC4949A68" TextString="{0.SimFirstName} đã có một cơn ác mộng về một con chó với chi dài như người. Đó là một cảnh tượng khủng khiếp, khủng khiếp." />
+    <TextStringDefinition InstanceID="0xB9FEFA3C" TextString="Ác mộng!" />
+    <TextStringDefinition InstanceID="0xADC36A38" TextString="{0.SimFirstName} đã có một cơn ác mộng về việc bị kẹt trong một hồ bơi không có thang, không thể ra ngoài. Thật sự hơi buồn cười, tại sao {0.SimFirstName} không thể tự kéo mình ra khỏi hồ bơi?" />
+    <TextStringDefinition InstanceID="0x39ED2CA9" TextString="{0.SimFirstName} đã có một cơn ác mộng khủng khiếp về việc bị một chiếc giường Murphy có ý thức ăn thịt." />

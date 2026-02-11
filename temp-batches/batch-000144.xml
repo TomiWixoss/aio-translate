@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x0E6B9703" TextString="An nghỉ. Thêm một lời bia cho bia mộ này." />
+    <TextStringDefinition InstanceID="0x32F759EA" TextString="Chiếc quan tài này sẽ nói điều gì về chủ nhân của nó?" />
+    <TextStringDefinition InstanceID="0x40A5B385" TextString="An nghỉ trong mảnh vụn" />
+    <TextStringDefinition InstanceID="0xC5F6498D" TextString="Khắc Lời Bia" />
+    <TextStringDefinition InstanceID="0x26054C6E" TextString="Đặt tên cho Gia đình Búp bê" />
+    <TextStringDefinition InstanceID="0x132A0FFD" TextString="Đặt tên cho Búp bê" />
+    <TextStringDefinition InstanceID="0x15837A47" TextString="Lắng nghe và Học hỏi" />
+    <TextStringDefinition InstanceID="0x43582650" TextString="Làm cho nơi này sôi động hơn" />
+    <TextStringDefinition InstanceID="0xB1035554" TextString="Làm cho nơi này sôi động hơn" />
+    <TextStringDefinition InstanceID="0xE9001200" TextString="Cảm hứng cải thiện kỹ năng chơi piano!" />
+    <TextStringDefinition InstanceID="0xE30DE42B" TextString="Yêu cầu Giải trí Cụ thể" />
+    <TextStringDefinition InstanceID="0x0B00FC70" TextString="Đã có một nghệ sĩ giải trí trên lô đất." />
+    <TextStringDefinition InstanceID="0x3050244E" TextString="Thuê {2.SimName} làm Nghệ sĩ Giải trí" />
+    <TextStringDefinition InstanceID="0x58C9BBAE" TextString="Chơi Concerto" />
+    <TextStringDefinition InstanceID="0xD7E29F51" TextString="Chơi Concerto cho Nhóm" />
+    <TextStringDefinition InstanceID="0x29F8FEA5" TextString="Chơi Concerto" />
+    <TextStringDefinition InstanceID="0xA2693153" TextString="Cảm hứng cải thiện kỹ năng chơi piano!" />
+    <TextStringDefinition InstanceID="0x7CBD27B7" TextString="Chụp Ảnh" />
+    <TextStringDefinition InstanceID="0x3791EE01" TextString="Tải lên Simstagram" />
+    <TextStringDefinition InstanceID="0xEC281935" TextString="Chụp Ảnh Tự chụp" />
+    <TextStringDefinition InstanceID="0x1EFAFEAC" TextString="Chụp Ảnh Của {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xBDC5C726" TextString="Chụp Ảnh" />
+    <TextStringDefinition InstanceID="0x4FC876AF" TextString="Để đăng ảnh, hãy đặt chúng vào thế giới trước." />
+    <TextStringDefinition InstanceID="0x699278A2" TextString="Bán cho Tạp chí" />
+    <TextStringDefinition InstanceID="0xE63F6D41" TextString="Bán Bản sao cho Tạp chí" />
+    <TextStringDefinition InstanceID="0x165B5760" TextString="Lấy Ngày Nghỉ (Nhà văn)" />
+    <TextStringDefinition InstanceID="0xF241863F" TextString="Lấy Ngày Nghỉ (Bán lẻ)" />
+    <TextStringDefinition InstanceID="0x34987970" TextString="Lấy Ngày Nghỉ (Người lao động thủ công)" />
+    <TextStringDefinition InstanceID="0xB71F3965" TextString="Lấy Ngày Nghỉ (Đồ ăn nhanh)" />
+    <TextStringDefinition InstanceID="0x4EB92D85" TextString="Lấy Ngày Nghỉ (Người chăm sóc trẻ)" />
+    <TextStringDefinition InstanceID="0xA4250692" TextString="Lấy Ngày Nghỉ (Pha chế)" />
+    <TextStringDefinition InstanceID="0x83E7B6E2" TextString="Lấy Ngày Nghỉ (Chuyên gia Công nghệ)" />
+    <TextStringDefinition InstanceID="0x3E6FE663" TextString="Lấy Ngày Nghỉ (Người Ảnh hưởng Xu hướng)" />
+    <TextStringDefinition InstanceID="0x5F08C5CA" TextString="Lấy Ngày Nghỉ (Đặc vụ)" />
+    <TextStringDefinition InstanceID="0xD4E864C4" TextString="Lấy Ngày Nghỉ (Họa sĩ)" />
+    <TextStringDefinition InstanceID="0x2A6ACB5C" TextString="Lấy Ngày Nghỉ (Trường học)" />
+    <TextStringDefinition InstanceID="0x9C3B1B2A" TextString="Lấy Ngày Nghỉ (Nghệ sĩ Giải trí)" />
+    <TextStringDefinition InstanceID="0xEBBEAA7C" TextString="Lấy Ngày Nghỉ (Đầu bếp)" />
+    <TextStringDefinition InstanceID="0x54AA9542" TextString="Lấy Ngày Nghỉ (Tội phạm)" />
+    <TextStringDefinition InstanceID="0xD97711BF" TextString="Lấy Ngày Nghỉ (Kinh doanh)" />
+    <TextStringDefinition InstanceID="0x4FA15465" TextString="Lấy Ngày Nghỉ (Vận động viên)" />
+    <TextStringDefinition InstanceID="0xB8B58CE0" TextString="Lấy Ngày Nghỉ (Phi hành gia)" />
+    <TextStringDefinition InstanceID="0xB9CD9707" TextString="{0.SimFirstName} không có ngày nghỉ nào!" />
+    <TextStringDefinition InstanceID="0xFC9EDC67" TextString="Chỉ có sẵn 24 giờ trước ca làm việc tiếp theo." />
+    <TextStringDefinition InstanceID="0x7D0457C4" TextString="{0.SimFirstName} đã lấy một ngày nghỉ. Tận hưởng ngày nghỉ đi!" />
+    <TextStringDefinition InstanceID="0x731CAD7A" TextString="Lấy Nghỉ Gia đình" />
+    <TextStringDefinition InstanceID="0x6A567957" TextString="{0.SimFirstName} hiện đang nghỉ gia đình một ngày." />
+    <TextStringDefinition InstanceID="0x8FC5641A" TextString="{0.SimFirstName} đã có thời gian nghỉ!" />
+    <TextStringDefinition InstanceID="0x617DD50C" TextString="Chụp Ảnh Ấn tượng" />
+    <TextStringDefinition InstanceID="0x51E8006D" TextString="Tách khỏi Hộ gia đình và Di chuyển" />

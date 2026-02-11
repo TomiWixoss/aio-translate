@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xBF05908A" TextString="Có phải nơi đó trở nên nóng bức, hay chỉ mình tôi? Cái chuông báo cháy thực sự có thể đánh thức bạn khỏi một giấc mơ hơi nóng bức." />
+    <TextStringDefinition InstanceID="0xDBC3737F" TextString="Một lợi ích của việc chuẩn bị phòng cháy là tôi đã được nghỉ học và tránh được bài kiểm tra chớp nhoáng đó." />
+    <TextStringDefinition InstanceID="0x8857045F" TextString="Chúng ta sẽ thất bại thảm hại trong một vụ cháy thật sự! Cuộc sơ tán đó quá chậm. Chỉ có một nửa chuông báo động hoạt động." />
+    <TextStringDefinition InstanceID="0x895705C8" TextString="Ồ, buổi tập trận đó có thể kéo dài hơn nữa không?! Tôi có việc phải làm! Cứ như có cháy và DI CHUYỂN NGAY!" />
+    <TextStringDefinition InstanceID="0x50C622CD" TextString="Cứ tới đây đi, Lửa! Chúng tôi đã sẵn sàng cho bạn rồi!\nSau những bài tập trận phòng cháy này, chúng tôi chắc chắn sẽ giữ bình tĩnh." />
+    <TextStringDefinition InstanceID="0xB9792ACE" TextString="Chân tôi đau và tôi vẫn chưa quyết định như trước. Chỉ nghĩ về tương lai trong Ngày Nghề nghiệp thôi cũng đã mệt mỏi." />
+    <TextStringDefinition InstanceID="0x443AA753" TextString="Tôi đã khóa chặt tương lai rồi! Hãy tin vào bản năng và theo đuổi ước mơ của bạn!" />
+    <TextStringDefinition InstanceID="0x14FA02AC" TextString="Tôi không chắc Ngày Nghề nghiệp có giúp ích... Làm sao ai đó có thể quyết định trở thành gì?" />
+    <TextStringDefinition InstanceID="0xE600E5C1" TextString="Sau Ngày Nghề nghiệp đó, tôi đã sẵn sàng cho tương lai rồi! Thế giới ơi, cứ tới đây!!" />
+    <TextStringDefinition InstanceID="0x38906632" TextString="Có một tương lai tươi sáng phía trước đầy rủi ro và tôi không thể chờ để lao vào." />
+    <TextStringDefinition InstanceID="0x3DF0D267" TextString="Bạo lực trong khuôn viên trường?!? Hoàn toàn vô chính phủ! Tôi không thể vừa tránh điểm kém VÀ nắm đấm." />
+    <TextStringDefinition InstanceID="0x3F51D8FD" TextString="{0.SimFirstName} Còn thức không?" />
+    <TextStringDefinition InstanceID="0x4651E3F8" TextString="Tôi có một ý tưởng. Bạn, tôi, và một ly trà sữa với hai ống hút." />
+    <TextStringDefinition InstanceID="0x4551E24F" TextString="Tôi nghĩ bạn sẽ là một đối tác đánh gối tuyệt vời, {0.SimFirstName}. Thế nào?" />
+    <TextStringDefinition InstanceID="0x4451E022" TextString="Muốn đi đến quán kem không? Tôi muốn một muỗng của bạn." />
+    <TextStringDefinition InstanceID="0x4351DEB1" TextString="Để tôi đưa bạn đến Bến Plumbite. Tôi đã đặt một chỗ trên Xe Ôm dành riêng cho bạn rồi." />
+    <TextStringDefinition InstanceID="0x662E2AA7" TextString="Bạn biết khi mèo vỗ nhau nhưng chạm không? Cuộc đánh nhau đó cũng vậy. Chán quá!" />
+    <TextStringDefinition InstanceID="0xD8824772" TextString="Lin hồn kẻ hèn nhát nằm trong xương này, và nó được chứng minh bởi sự thiếu can thiệp hoàn toàn của tôi trong cuộc đánh nhau đó." />
+    <TextStringDefinition InstanceID="0x0DE82BA5" TextString="Chào mừng đến với bát đấm, nơi của những cú đấm! Thật sự rất hào hứng khi xem một cuộc đánh nhau giữa kẻ thù!" />
+    <TextStringDefinition InstanceID="0x093D4140" TextString="Tôi có thể ngửi thấy không khí tự do ngọt ngào! Và có thể cả mùi mồ hôi của hoạt động ngoại khóa." />
+    <TextStringDefinition InstanceID="0x37643D0B" TextString="Nếu bạn thấy tôi trong phòng giam, không, bạn đã không thấy." />
+    <TextStringDefinition InstanceID="0x01E88B26" TextString="Họ có làm ghế phòng giam thêm bất tiện hay chỉ là sự xấu hổ khi ở đó khiến đau?" />
+    <TextStringDefinition InstanceID="0xADDE8A99" TextString="Tôi đã dùng cả bữa trưa với thức ăn dính trong răng! Không ai định nói với tôi sao?!" />
+    <TextStringDefinition InstanceID="0x9582EB7B" TextString="Thấy ai đó có thức ăn trong răng. Thật xấu hổ!!!" />
+    <TextStringDefinition InstanceID="0x9682ECE4" TextString="Ghê quá! Thức ăn trong căn-tin này trông còn tệ hơn sao?" />
+    <TextStringDefinition InstanceID="0xD5235344" TextString="Mức độ nghiêm trọng: &lt;font color='#E9790A'&gt;{0.String}&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x05C17568" TextString="Mức độ nghiêm trọng: &lt;font color='#EC262E'&gt;{0.String}&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x89439E79" TextString="&lt;font color='#666666'&gt;{0.String}&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xF26112AC" TextString="&lt;font color='#0949AB'&gt;Bị ảnh hưởng: {0.SimName}&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x0ADDE5B4" TextString="&lt;font color='#EC262E'&gt;{0.String}&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x830DABCD" TextString="Đồng phạm: {0.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x8CCA399F" TextString="Chưa tiết lộ" />
+    <TextStringDefinition InstanceID="0xF66AE260" TextString="Bị chôn vùi" />
+    <TextStringDefinition InstanceID="0x739EBBB0" TextString="Đã phát hiện" />
+    <TextStringDefinition InstanceID="0xFB284C70" TextString="Đã thổ lộ" />
+    <TextStringDefinition InstanceID="0xB66933B9" TextString="Đã bị tống tiền" />
+    <TextStringDefinition InstanceID="0xC242B839" TextString="&lt;font color='#0949AB'&gt;Tan vào bóng tối&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xD1D6CEE1" TextString="Thời gian còn lại" />
+    <TextStringDefinition InstanceID="0xA561D236" TextString="Báo cáo Bản quyền" />
+    <TextStringDefinition InstanceID="0xABCCCD41" TextString="{0.String}: {1.Money}" />
+    <TextStringDefinition InstanceID="0x5398308B" TextString="Sách" />
+    <TextStringDefinition InstanceID="0x7B4BA284" TextString="Ứng dụng" />
+    <TextStringDefinition InstanceID="0x4C386A59" TextString="Bài hát" />
+    <TextStringDefinition InstanceID="0x30AA9125" TextString="Bức tranh" />
+    <TextStringDefinition InstanceID="0xDCF7C55B" TextString="Video" />
+    <TextStringDefinition InstanceID="0xC814F47A" TextString="Lời bài hát" />
+    <TextStringDefinition InstanceID="0x8314E55A" TextString="Lời chúc huyền bí" />
+    <TextStringDefinition InstanceID="0x71E6BCF3" TextString="Trò chơi" />
+    <TextStringDefinition InstanceID="0x7E3DFBCA" TextString="Video" />
+    <TextStringDefinition InstanceID="0xE7B08885" TextString="Bản nhạc" />

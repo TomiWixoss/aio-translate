@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xF543998F" TextString="Sim này chết vì phơi nhiễm quá mức hơi nước và liên tục cảm thấy nóng và thiếu nước." />
+    <TextStringDefinition InstanceID="0x4B0F77A8" TextString="Chết bởi Hơi nước" />
+    <TextStringDefinition InstanceID="0x87F60820" TextString="Chết bởi Hơi nước" />
+    <TextStringDefinition InstanceID="0x090DCDAE" TextString="Đồng hồ tò mò đã ngừng hoạt động! Sim này gặp kết thúc khi đùa nghịch với một chiếc đồng hồ cu-cu khó chịu." />
+    <TextStringDefinition InstanceID="0x02261CA9" TextString="Chết bởi Hỏng hóc Đồng hồ Cu cu" />
+    <TextStringDefinition InstanceID="0x23517EF3" TextString="Chết bởi Hỏng hóc Đồng hồ Cu cu" />
+    <TextStringDefinition InstanceID="0x44269063" TextString="Sim này đã khuất bởi Cúm Chuột Dại, và lan truyền nỗi sợ bệnh tật và dịch bệnh ở cõi âm.\n&lt;font color='#FF0000'&gt;Trong Chế độ Sống, Sim này sẽ bị nguyền rủa phải mặc một bộ đồ chuột ma khổng lồ vĩnh viễn!&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xF1007219" TextString="Chết bởi Cúm Chuột Dại" />
+    <TextStringDefinition InstanceID="0xBF7C25C3" TextString="Chết bởi Cúm Chuột Dại" />
+    <TextStringDefinition InstanceID="0x89BF4E9E" TextString="Sim này chỉ là một bóng ma tạm thời!" />
+    <TextStringDefinition InstanceID="0xA9338159" TextString="Bóng Ma Tạm Thời" />
+    <TextStringDefinition InstanceID="0xDB7ACB03" TextString="Bóng Ma Tạm Thời" />
+    <TextStringDefinition InstanceID="0xF3080E8B" TextString="Sim này đã đưa cuộc sống vào miệng và ăn một con cá cực kỳ độc." />
+    <TextStringDefinition InstanceID="0xC3BC0F74" TextString="Chết bởi Cá Nóc" />
+    <TextStringDefinition InstanceID="0x52DD46E4" TextString="Chết bởi Cá Nóc" />
+    <TextStringDefinition InstanceID="0x292E68C1" TextString="Sim này chết vì bị đầu độc." />
+    <TextStringDefinition InstanceID="0xC3604306" TextString="Chết bởi Độc" />
+    <TextStringDefinition InstanceID="0x5BC0C01E" TextString="Chết bởi Độc" />
+    <TextStringDefinition InstanceID="0xABA03179" TextString="Sim này chọn cách đối đầu với vuốt của Đàn Quạ và kết quả là sống sót... một chút ít." />
+    <TextStringDefinition InstanceID="0x8DDF494E" TextString="Chết bởi Bầy Quạ Giết Người" />
+    <TextStringDefinition InstanceID="0xFB20B746" TextString="Chết bởi Bầy Quạ Giết Người" />
+    <TextStringDefinition InstanceID="0x3F492AF1" TextString="Sim này chết vì phơi nhiễm lâu dài với nhiệt độ cao." />
+    <TextStringDefinition InstanceID="0x38505CF6" TextString="Chết bởi Quá Nóng" />
+    <TextStringDefinition InstanceID="0x30D8756E" TextString="Chết bởi Quá Nóng" />
+    <TextStringDefinition InstanceID="0x038FF7C6" TextString="Không cần đau buồn, đây là kết quả của một cuộc sống dài, rất dài." />
+    <TextStringDefinition InstanceID="0x4A2166CE" TextString="Chết bởi Tuổi Già" />
+    <TextStringDefinition InstanceID="0xDB0007C6" TextString="Chết bởi Tuổi Già" />
+    <TextStringDefinition InstanceID="0x481A0525" TextString="Sim này đã tìm thấy cái chết thông qua một chiếc giường Murphy đầy thù hận. " />
+    <TextStringDefinition InstanceID="0xA4D1A83A" TextString="Chết bởi Bị Giường Murphy Đè" />
+    <TextStringDefinition InstanceID="0x953B05AA" TextString="Chết bởi Bị Giường Murphy Đè" />
+    <TextStringDefinition InstanceID="0x93BF84BB" TextString="Sim này đã bị Mẹ Thực vật nuốt chửng và sẽ mãi mãi tận hưởng lợi ích của cô ấy: Không Suy Giảm Nhu Cầu." />
+    <TextStringDefinition InstanceID="0x1A197564" TextString="Bị Mẹ Thực vật Nuốt Chửng" />
+    <TextStringDefinition InstanceID="0x969CF0F4" TextString="Bị Mẹ Thực vật Nuốt Chửng" />
+    <TextStringDefinition InstanceID="0x58AFB47E" TextString="Sim này là hiện thân, hay nên nói là &quot;vô hình thể&quot; của nấm sau khi khuất bởi mốc. Một số người nói rằng họ đã hấp thụ sức mạnh của nấm mốc, nhưng liệu họ có dùng nó cho điều tốt?" />
+    <TextStringDefinition InstanceID="0x7C435139" TextString="Chết bởi Mốc" />
+    <TextStringDefinition InstanceID="0x91658363" TextString="Chết bởi Mốc" />
+    <TextStringDefinition InstanceID="0x2113734B" TextString="Sim này bị một tảng thiên thạch hoành hành mới được phát hiện đánh trúng, dẫn đến sự phấn khích khoa học lớn và một trường hợp nhỏ về cái chết." />
+    <TextStringDefinition InstanceID="0xBF3DA834" TextString="Chết bởi Thiên Thạch" />
+    <TextStringDefinition InstanceID="0x7A5E31A4" TextString="Chết bởi Thiên Thạch" />
+    <TextStringDefinition InstanceID="0x983A3B09" TextString="Sim này bị sét đánh một lần quá nhiều." />
+    <TextStringDefinition InstanceID="0xF857589E" TextString="Chết bởi Sét" />
+    <TextStringDefinition InstanceID="0x32D3ADB6" TextString="Chết bởi Sét" />
+    <TextStringDefinition InstanceID="0x915C4BE5" TextString="Sim này chết vì một cơn cười điên loại vẫn tiếp tục bật lên thỉnh thoảng." />
+    <TextStringDefinition InstanceID="0x4863C8FA" TextString="Chết bởi Cười" />
+    <TextStringDefinition InstanceID="0xFD57216A" TextString="Chết bởi Cười" />
+    <TextStringDefinition InstanceID="0x3FEF70F6" TextString="Sim này chết đói, và cơn đói đã theo họ vào cõi âm." />
+    <TextStringDefinition InstanceID="0xEF2A8BE1" TextString="Chết bởi Đói" />
+    <TextStringDefinition InstanceID="0x4E5F124B" TextString="Chết bởi Đói" />
+    <TextStringDefinition InstanceID="0xF9B387A3" TextString="Sim này chết vì phơi nhiễm quá mức với nhiệt độ đóng băng." />
+    <TextStringDefinition InstanceID="0xF30E1A5C" TextString="Chết bởi Đóng Băng" />

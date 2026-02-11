@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x3611B148" TextString="Nhà thiết kế nhân vật" />
+    <TextStringDefinition InstanceID="0xFB2AD1DF" TextString="Các nhà thiết kế nhân vật" />
+    <TextStringDefinition InstanceID="0xAC59729D" TextString="Nghệ sĩ nhân vật" />
+    <TextStringDefinition InstanceID="0x97B2CFC6" TextString="Giám sát viên CG" />
+    <TextStringDefinition InstanceID="0x01E7D717" TextString="Đội ngũ kiểm thử" />
+    <TextStringDefinition InstanceID="0x6D2F6AAE" TextString="Chuyên gia kiểm thử" />
+    <TextStringDefinition InstanceID="0x2A5E60F1" TextString="Người kiểm thử cấp cao" />
+    <TextStringDefinition InstanceID="0x1A7D7A74" TextString="Quản lý địa điểm" />
+    <TextStringDefinition InstanceID="0x57F7FCEF" TextString="Trưởng dự án" />
+    <TextStringDefinition InstanceID="0xF2E515CD" TextString="Quản lý dự án" />
+    <TextStringDefinition InstanceID="0xDF68B451" TextString="Đội Ngũ Nộp Dự Án Toàn Cầu và Xếp Hạng Độ Tuổi" />
+    <TextStringDefinition InstanceID="0x7BE40430" TextString="Chứng nhận EA" />
+    <TextStringDefinition InstanceID="0x5401CE47" TextString="Celli" />
+    <TextStringDefinition InstanceID="0xA7D696BE" TextString="Người kiểm thử Tương thích và Công nghệ" />
+    <TextStringDefinition InstanceID="0xDF5C7FC8" TextString="Trưởng dự án Tương thích và Công nghệ" />
+    <TextStringDefinition InstanceID="0x33BAF69B" TextString="Phòng thí nghiệm Tương thích và Công nghệ" />
+    <TextStringDefinition InstanceID="0x00CF2687" TextString="Trưởng nhóm Tạo nhân vật (CAS)" />
+    <TextStringDefinition InstanceID="0x9F71AF40" TextString="Đội ngũ Kỹ sư Tạo nhân vật (CAS)" />
+    <TextStringDefinition InstanceID="0x0AD1531C" TextString="Nghệ sĩ Tạo nhân vật (CAS)" />
+    <TextStringDefinition InstanceID="0xA82B921D" TextString="Sản xuất Chiến dịch" />
+    <TextStringDefinition InstanceID="0x1B3ED7E6" TextString="Thiết kế Chiến dịch" />
+    <TextStringDefinition InstanceID="0x73244110" TextString="Giám đốc sáng tạo Chiến dịch" />
+    <TextStringDefinition InstanceID="0x3D572F5B" TextString="Sáng tạo Chiến dịch" />
+    <TextStringDefinition InstanceID="0x2E18A47C" TextString="Phát triển Kinh doanh, Đối tác Nền tảng" />
+    <TextStringDefinition InstanceID="0x85F2325E" TextString="Vấn đề Kinh doanh, Đối tác Nền tảng 1st Party" />
+    <TextStringDefinition InstanceID="0xFCABAC93" TextString="Nhà thiết kế UX" />
+    <TextStringDefinition InstanceID="0x9E82709F" TextString="Nghệ sĩ UI" />
+    <TextStringDefinition InstanceID="0xF484E57C" TextString="Kỹ sư Công cụ" />
+    <TextStringDefinition InstanceID="0xB6738B50" TextString="Giám đốc nghệ thuật Studio" />
+    <TextStringDefinition InstanceID="0xBCC1BADC" TextString="Người kiểm thử cấp cao" />
+    <TextStringDefinition InstanceID="0xCECAFDDD" TextString="Kỹ sư Lối chơi cấp cao" />
+    <TextStringDefinition InstanceID="0x6362C0B6" TextString="Kỹ sư cấp cao" />
+    <TextStringDefinition InstanceID="0xF4637ADC" TextString="Kỹ sư QA" />
+    <TextStringDefinition InstanceID="0xA51C789E" TextString="Giám đốc Sản xuất" />
+    <TextStringDefinition InstanceID="0x32ED1350" TextString="Vận hành" />
+    <TextStringDefinition InstanceID="0x69F8A5F4" TextString="Ủy ban Ombudsman" />
+    <TextStringDefinition InstanceID="0x5B10FFF1" TextString="Trưởng nhóm Nghệ sĩ UI" />
+    <TextStringDefinition InstanceID="0x639470AF" TextString="Trưởng nhóm Kiểm thử QA" />
+    <TextStringDefinition InstanceID="0xA3382074" TextString="Trưởng nhóm Kỹ sư Đồ họa" />
+    <TextStringDefinition InstanceID="0x01B27620" TextString="Trưởng nhóm Kỹ sư" />
+    <TextStringDefinition InstanceID="0x6AED50E0" TextString="Quản lý Nhân sự" />
+    <TextStringDefinition InstanceID="0xF8169351" TextString="Trưởng bộ phận Phát triển Kinh doanh &amp; Chiến lược Toàn cầu" />
+    <TextStringDefinition InstanceID="0x4C0D1045" TextString="Blind Squirrel Games" />
+    <TextStringDefinition InstanceID="0x26D6CEA8" TextString="Các kỹ sư Đồ họa" />
+    <TextStringDefinition InstanceID="0xACFB3688" TextString="Giám đốc Công nghệ Thông tin" />
+    <TextStringDefinition InstanceID="0x3CA7A78D" TextString="Kiến trúc sư Phần mềm Trưởng" />
+    <TextStringDefinition InstanceID="0xB2B939D1" TextString="Bộ điều khiển" />
+    <TextStringDefinition InstanceID="0x71ED5BFA" TextString="Quản lý Cộng đồng" />
+    <TextStringDefinition InstanceID="0x49A7BC0C" TextString="Giám đốc Tài chính (CFO)" />
+    <TextStringDefinition InstanceID="0xC71E7E79" TextString="Người kiểm thử Chứng nhận QA" />

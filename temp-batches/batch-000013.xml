@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x98AA59FA" TextString="Sự kiện tổ chức" />
+    <TextStringDefinition InstanceID="0x7A9EB6C5" TextString="Rời tổ chức" />
+    <TextStringDefinition InstanceID="0x68DDA716" TextString="Rời tổ chức?" />
+    <TextStringDefinition InstanceID="0x33B9EE51" TextString="Bạn có chắc chắn muốn rời tổ chức này?\nBạn có thể tham gia lại bất cứ lúc nào bằng cách hỏi một thành viên đang hoạt động." />
+    <TextStringDefinition InstanceID="0x1BE5D07C" TextString="Tổ chức" />
+    <TextStringDefinition InstanceID="0x5B6011B3" TextString="Sự kiện sắp tới" />
+    <TextStringDefinition InstanceID="0x725B4990" TextString="Đi đến sự kiện" />
+    <TextStringDefinition InstanceID="0xFCE383DE" TextString="Sự kiện hiện không hoạt động." />
+    <TextStringDefinition InstanceID="0xCE2AA250" TextString="{0.SimFirstName} đã ở tại địa điểm sự kiện." />
+    <TextStringDefinition InstanceID="0xFFBDE6A7" TextString="Không thể di chuyển trong khi đang ở sự kiện." />
+    <TextStringDefinition InstanceID="0xDD616C9C" TextString="Sự kiện hiện tại" />
+    <TextStringDefinition InstanceID="0x25C6B8E4" TextString="Tham gia một tổ chức để truy cập vào Nhiệm vụ tổ chức, lịch trình sự kiện cá nhân và trạng thái thành viên tổ chức của bạn." />
+    <TextStringDefinition InstanceID="0xBA6D3C63" TextString="Tổ chức" />
+    <TextStringDefinition InstanceID="0xBB08187C" TextString="Nhiệm vụ và sự kiện sẽ không hoạt động cho đến khi {0.SimFirstName} đăng ký trường Đại học." />
+    <TextStringDefinition InstanceID="0xB9F0EE25" TextString="{0.SimFirstName} không thuộc về bất kỳ tổ chức nào. Bất kỳ Sim nào đăng ký trường Đại học có thể tham gia bằng cách hỏi một thành viên tổ chức đang hoạt động." />
+    <TextStringDefinition InstanceID="0x5FDE43C9" TextString="Không có địa điểm Thư viện nào trên thế giới để hỗ trợ sự kiện." />
+    <TextStringDefinition InstanceID="0x83DE0B9F" TextString="Không có địa điểm Quán bar nào trên thế giới để hỗ trợ sự kiện." />
+    <TextStringDefinition InstanceID="0x6E63B809" TextString="Chọn điểm yếu: {0.Number}" />
+    <TextStringDefinition InstanceID="0x54F6CEDF" TextString="&lt;span class=&quot;selected&quot;&gt;{0.Number}&lt;/span&gt;/{1.Number}" />
+    <TextStringDefinition InstanceID="0xF974A109" TextString="Khi bạn phát triển sức mạnh, đôi khi bạn sẽ phải chấp nhận một điểm yếu. Bạn sẽ không thể học bất kỳ sức mạnh mới nào cho đến khi bạn làm điều đó!" />
+    <TextStringDefinition InstanceID="0x16AF9670" TextString="Hoàn tác thay đổi" />
+    <TextStringDefinition InstanceID="0xC2145E4D" TextString="Thăng hạng để kiếm được nhiều điểm sức mạnh hơn! Khi bạn thăng hạng và học thêm nhiều sức mạnh, bạn cũng sẽ phải chấp nhận thêm nhiều điểm yếu, vì vậy hãy cẩn thận!" />
+    <TextStringDefinition InstanceID="0x458564C5" TextString="Cấp độ tiếp theo:" />
+    <TextStringDefinition InstanceID="0x2A674453" TextString="Cấp độ hiện tại:" />
+    <TextStringDefinition InstanceID="0xA8CB561B" TextString="Mở Sách phép của {0.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x91A66317" TextString="Khả năng tiềm ẩn" />
+    <TextStringDefinition InstanceID="0xF7D16742" TextString="Khả năng tiềm ẩn có sẵn ở mọi cấp độ và không yêu cầu chi điểm Khả năng.\n\nMỗi khả năng được mở khóa bằng cách hoàn thành các mục tiêu liên quan cho khả năng đó." />
+    <TextStringDefinition InstanceID="0x3F40D1E3" TextString="Đặt tên mới cho Đồ chơi này..." />
+    <TextStringDefinition InstanceID="0x45BF3264" TextString="Đặt tên Đồ chơi" />
+    <TextStringDefinition InstanceID="0xF0D261DB" TextString="Đặt tên Đồ Gấu Bông" />
+    <TextStringDefinition InstanceID="0x30FF2A9A" TextString="Đặt tên mới cho Đồ Gấu Bông này..." />
+    <TextStringDefinition InstanceID="0xE5E86014" TextString="Bạn muốn đổi tên đối tượng này thành gì?" />
+    <TextStringDefinition InstanceID="0xBF4C9C8C" TextString="Đồ chơi yêu thích của tôi" />
+    <TextStringDefinition InstanceID="0x1117144C" TextString="Không tiêu đề" />
+    <TextStringDefinition InstanceID="0x325091EA" TextString="Bạn muốn đặt tên cho bức tranh này là gì?" />
+    <TextStringDefinition InstanceID="0xE224BEAB" TextString="Đặt tên Bức tranh" />
+    <TextStringDefinition InstanceID="0x236E404F" TextString="Thống kê Sim" />
+    <TextStringDefinition InstanceID="0x1C605BB4" TextString="Bộ sưu tập Gia đình" />
+    <TextStringDefinition InstanceID="0xB96B310A" TextString="Ảnh hưởng đến: {0.SimName}" />
+    <TextStringDefinition InstanceID="0x05F6A4CA" TextString="{0.String}: {1.Timespan}" />
+    <TextStringDefinition InstanceID="0x3BE4E72B" TextString="{0.Timespan}" />
+    <TextStringDefinition InstanceID="0xB6C60560" TextString="Thuộc về:" />
+    <TextStringDefinition InstanceID="0xD2C504B2" TextString="Quay lại Menu Danh mục" />
+    <TextStringDefinition InstanceID="0xB6C16D48" TextString="Ghi chú của Sim bạn ở đây..." />
+    <TextStringDefinition InstanceID="0xA6AC791B" TextString="Không cần nguyên liệu." />
+    <TextStringDefinition InstanceID="0xCDAC2BC3" TextString="Hiện không có mục nào trong Sổ tay của {0.SimFirstName}." />
+    <TextStringDefinition InstanceID="0xAC43B5E6" TextString="Bạn tri kỷ:" />
+    <TextStringDefinition InstanceID="0x005CE645" TextString="Đồng lõa:\n{0.SimName}" />
+    <TextStringDefinition InstanceID="0x77DD1B76" TextString="Người tống tiền:" />
+    <TextStringDefinition InstanceID="0xD82540C1" TextString="&lt;font color='#EC262E'&gt;• Phải ở cấp độ nghề nghiệp {0.String}&lt;/font&gt;" />

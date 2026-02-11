@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xE77BE3AA" TextString="Kích cỡ Chó" />
+    <TextStringDefinition InstanceID="0x8FE202DF" TextString="Móng guốc" />
+    <TextStringDefinition InstanceID="0x194D90AD" TextString="Cánh" />
+    <TextStringDefinition InstanceID="0x9423B843" TextString="Trang phục" />
+    <TextStringDefinition InstanceID="0xD8ED54BC" TextString="Hình dạng Lông" />
+    <TextStringDefinition InstanceID="0x89C73D0A" TextString="Vòng cổ" />
+    <TextStringDefinition InstanceID="0xAC8BA4D0" TextString="Mái tóc Ngựa" />
+    <TextStringDefinition InstanceID="0x3720D7C4" TextString="Hoa văn Lông" />
+    <TextStringDefinition InstanceID="0xBBF205E3" TextString="Thiết kế bởi" />
+    <TextStringDefinition InstanceID="0xE33C22DD" TextString="Thêm Ngựa" />
+    <TextStringDefinition InstanceID="0x44E14CD2" TextString="{0.SimFirstName} đã nghỉ hưu với tư cách là {1.String|enAn}! {M0.He}{F0.She} sẽ nhận được séc lương hưu hàng ngày dựa trên mức lương của {M0.his}{F0.her} tại thời điểm nghỉ hưu. Đã đến lúc thư giãn và tận hưởng!" />
+    <TextStringDefinition InstanceID="0x14F7CDDB" TextString="Lương hưu của {0.SimFirstName} đã đến từ việc là một {1.String} tận tâm trong Sự nghiệp {2.String}!\n\n{3.Money} đã được gửi trực tiếp vào Quỹ Gia đình của {M0.his}{F0.her}." />
+    <TextStringDefinition InstanceID="0x9814A1B3" TextString="Nhập mô tả công việc." />
+    <TextStringDefinition InstanceID="0x6289634E" TextString="Bạn cần ít nhất một chữ cái trong chức danh công việc." />
+    <TextStringDefinition InstanceID="0x036A39ED" TextString="Có nên để {0.SimFirstName} chuyển sang công việc {4.String} không? {F0.She}{M0.He} sẽ từ chức tất cả các vị trí hiện tại của {F0.her}{M0.his} khi chấp nhận công việc mới." />
+    <TextStringDefinition InstanceID="0x20FAEC73" TextString="&lt;font color=&quot;#0949AB&quot;&gt;Tiền công Gig: &lt;/font&gt;&lt;font color=&quot;#10A317&quot;&gt;{0.Money} đến {1.Money}&lt;/font&gt;\n&lt;font color=&quot;#0949AB&quot;&gt;Thời gian Thử giọng:&lt;/font&gt; &lt;font color=&quot;#10A317&quot;&gt;Có thể bỏ qua! &lt;/font&gt;\n&lt;font color=&quot;#0949AB&quot;&gt;Thời gian Gig:&lt;/font&gt; &lt;font color=&quot;#10A317&quot;&gt;{2.DayOfWeekShort} {2.TimeShort}&lt;/font&gt;\n&lt;font color=&quot;#0949AB&quot;&gt;Kỹ năng Khuyến nghị:&lt;/font&gt;\n{3.String}" />
+    <TextStringDefinition InstanceID="0x8BC32AF2" TextString="&lt;font color=&quot;#0949AB&quot;&gt;Tiền công Gig:&lt;/font&gt;&lt;font color=&quot;#10A317&quot;&gt; {0.Money} đến {1.Money}&lt;/font&gt;\n&lt;font color=&quot;#0949AB&quot;&gt;Thử giọng:&lt;/font&gt;&lt;font color=&quot;#10A317&quot;&gt; {2.DayOfWeekShort} {2.TimeShort}&lt;/font&gt;\n&lt;font color=&quot;#0949AB&quot;&gt;Gig:&lt;/font&gt;&lt;font color=&quot;#10A317&quot;&gt; {3.DayOfWeekShort} {3.TimeShort}&lt;/font&gt;\n&lt;font color=&quot;#0949AB&quot;&gt;Kỹ năng Khuyến nghị:&lt;/font&gt; {4.String}" />
+    <TextStringDefinition InstanceID="0x15840F92" TextString="Tìm Công việc" />
+    <TextStringDefinition InstanceID="0x8A64892B" TextString="Có nên để {0.SimFirstName} ra hưu và làm việc với tư cách {3.String|enAn} không? {F0.She}{M0.He} sẽ mất quyền lợi hưu trí từ việc là {1.String|enAn} khi quay lại làm việc." />
+    <TextStringDefinition InstanceID="0xBD35BBE3" TextString="&lt;font color='#ff0000'&gt;Việc từng là thành viên chính thức của đội tuyển đại học có nghĩa là vị trí chuyên nghiệp này có thể nhận ngay lập tức và sẽ đi kèm với mức lương cao hơn, thăng tiến dễ dàng hơn và nhiều ngày nghỉ phép hơn.&lt;/font&gt;\n" />
+    <TextStringDefinition InstanceID="0x30D41351" TextString="Tìm Công việc" />
+    <TextStringDefinition InstanceID="0xD7CFE7C3" TextString="Có nên để {0.SimFirstName} chuyển sang hoạt động {4.String} không? {F0.She}{M0.He} sẽ từ chức vị trí hiện tại là {1.String} khi chấp nhận thực hiện hoạt động mới." />
+    <TextStringDefinition InstanceID="0x02FFA6C1" TextString="Tiết lộ Ảnh" />
+    <TextStringDefinition InstanceID="0x376EDED2" TextString="Đăng ký Sự nghiệp của Bạn" />
+    <TextStringDefinition InstanceID="0xBCB77B33" TextString="Chức danh của bạn là gì?" />
+    <TextStringDefinition InstanceID="0x46ABB254" TextString="Đăng ký Sự nghiệp của Bạn" />
+    <TextStringDefinition InstanceID="0x36E52F06" TextString="Thôi việc" />
+    <TextStringDefinition InstanceID="0x6A9E0D87" TextString="Bạn có chắc {0.SimFirstName} nên thôi việc với tư cách là {2.String} không?" />
+    <TextStringDefinition InstanceID="0xA0C11A0D" TextString="Nghỉ phép" />
+    <TextStringDefinition InstanceID="0xD8F1DC84" TextString="Vắng mặt" />
+    <TextStringDefinition InstanceID="0x5C71E97E" TextString="Đi làm" />
+    <TextStringDefinition InstanceID="0xF29F397C" TextString="{0.SimFirstName} đang bận một chút. Có nên để {M0.he}{F0.she} vẫn đi làm không?" />
+    <TextStringDefinition InstanceID="0x0168D31E" TextString="Bài tập Công việc: {1.String}" />
+    <TextStringDefinition InstanceID="0x8CE6E590" TextString="Có nên để {0.SimName} bắt đầu sớm và chấp nhận bài tập không?" />
+    <TextStringDefinition InstanceID="0xAAE8C4AA" TextString="{0.SimFirstName} đã biết rằng {1.SimFirstName} là {2.String|enAn}." />
+    <TextStringDefinition InstanceID="0x00E0D6C9" TextString="Đã đến lúc {0.SimFirstName} đi làm. Bạn có muốn theo dõi không?" />
+    <TextStringDefinition InstanceID="0x9CBB2AC5" TextString="Bạn đã nhận được tổng cộng §{0.Number} tiền thuê từ người thuê của mình.\n\nĐiều này không bao gồm tiền thuê từ những người thuê bị quá hạn. Hãy kiểm tra bảng Doanh nghiệp Sở hữu để xem người thuê nào hiện đang bị quá hạn." />
+    <TextStringDefinition InstanceID="0xA776F397" TextString="Tiền thuê Đã thu!" />
+    <TextStringDefinition InstanceID="0x1A5A3D15" TextString="Trong khi bạn vắng mặt, hộ gia đình này đã nhận được tiền thuê và tổng cộng §{0.Number} đã được nhận.\n\nĐiều này không bao gồm tiền thuê từ Người thuê bị quá hạn. Hãy kiểm tra bảng Doanh nghiệp Sở hữu để xem người thuê nào hiện đang bị quá hạn." />
+    <TextStringDefinition InstanceID="0xECDF838E" TextString="Ký ức Lãng mạn" />
+    <TextStringDefinition InstanceID="0x8C997195" TextString="Ký ức Truyền cảm hứng" />
+    <TextStringDefinition InstanceID="0x13A730D9" TextString="Ký ức Tự tin" />
+    <TextStringDefinition InstanceID="0x3856BE8E" TextString="Ký ức Tức giận" />
+    <TextStringDefinition InstanceID="0x5B5AE494" TextString="Ký ức Lúng túng" />
+    <TextStringDefinition InstanceID="0xE2C84B13" TextString="Ký ức Sợ hãi" />
+    <TextStringDefinition InstanceID="0x29CC08A6" TextString="Ký ức Buồn bã" />
+    <TextStringDefinition InstanceID="0x86EE6250" TextString="Ký ức Hạnh phúc" />
+    <TextStringDefinition InstanceID="0xF776E659" TextString="Ghen tị" />
+    <TextStringDefinition InstanceID="0x4D48CC9E" TextString="Hay là vậy? Sim cuối cùng trong hộ gia đình này đã chết, nhưng bạn có thể tạo thêm Sim, chọn một hộ gia đình hiện có để chơi, hoặc chuyển một hộ gia đình khác từ Thư viện." />
+    <TextStringDefinition InstanceID="0xB599D587" TextString="Chứng kiến Cái chết" />

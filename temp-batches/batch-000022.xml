@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xD70A60D1" TextString="Thêm vào giỏ hàng" />
+    <TextStringDefinition InstanceID="0xC55509A3" TextString="Đã thêm" />
+    <TextStringDefinition InstanceID="0xC41AB445" TextString="Lô đất này lớn hơn lô đất hiện tại của bạn, một phần sẽ bị cắt khi đặt." />
+    <TextStringDefinition InstanceID="0x48F181C5" TextString="Tầng {0.Number}" />
+    <TextStringDefinition InstanceID="0xF0FCCC03" TextString="{0.Number} x {1.Number}" />
+    <TextStringDefinition InstanceID="0x4BFE43B2" TextString="Loại:" />
+    <TextStringDefinition InstanceID="0x6ECD71ED" TextString="Giá trị:" />
+    <TextStringDefinition InstanceID="0x3D97E2A0" TextString="Đã mod" />
+    <TextStringDefinition InstanceID="0x92A9F0B3" TextString="Số lượng:" />
+    <TextStringDefinition InstanceID="0x76E21DFC" TextString="Loại:" />
+    <TextStringDefinition InstanceID="0xA3834673" TextString="Giá trị:" />
+    <TextStringDefinition InstanceID="0xEAA62CC3" TextString="Bình luận" />
+    <TextStringDefinition InstanceID="0x5BD7CECC" TextString="Thông tin" />
+    <TextStringDefinition InstanceID="0xA19D0DBE" TextString="Bình luận ({0.Number})" />
+    <TextStringDefinition InstanceID="0xA5B35E44" TextString="{0.Number} TB" />
+    <TextStringDefinition InstanceID="0xBEB385E3" TextString="{0.Number} MB" />
+    <TextStringDefinition InstanceID="0xA1922730" TextString="ít hơn {0.String}" />
+    <TextStringDefinition InstanceID="0xC0B388C5" TextString="{0.Number} KB" />
+    <TextStringDefinition InstanceID="0xB4B375A1" TextString="{0.Number} GB" />
+    <TextStringDefinition InstanceID="0x90E3984F" TextString="{0.Number} bytes" />
+    <TextStringDefinition InstanceID="0x9666C272" TextString="Kích thước tệp:" />
+    <TextStringDefinition InstanceID="0x25DA1F5F" TextString="Mô tả:" />
+    <TextStringDefinition InstanceID="0xD5BFD323" TextString="Áp dụng" />
+    <TextStringDefinition InstanceID="0x564DD8C3" TextString="Tầng hầm {0.Number}" />
+    <TextStringDefinition InstanceID="0x6C659734" TextString=" " />
+    <TextStringDefinition InstanceID="0xDAA7991C" TextString="Chúc mừng!" />
+    <TextStringDefinition InstanceID="0xB5FA3C12" TextString="Gửi ý tưởng của bạn đã được gửi thành công đến thử thách!" />
+    <TextStringDefinition InstanceID="0xF60391DA" TextString="OK" />
+    <TextStringDefinition InstanceID="0xF101F0E7" TextString="Tất cả các bài dự thi đều phải tuân theo Quy tắc chính thức của Spark'd Challenge." />
+    <TextStringDefinition InstanceID="0x33C7392C" TextString="Tôi đồng ý với Quy tắc chính thức" />
+    <TextStringDefinition InstanceID="0x8847993B" TextString="Cảm ơn bạn đã tham gia!" />
+    <TextStringDefinition InstanceID="0x26C8269B" TextString="&lt;span class=&quot;tosLink&quot;&gt;&lt;a href='event:clickEvent'&gt;Xem Quy tắc chính thức&lt;/a&gt;&lt;/span&gt;" />
+    <TextStringDefinition InstanceID="0xE26FFB97" TextString="Spark'd Challenge" />
+    <TextStringDefinition InstanceID="0xF8495333" TextString="Lưu mới" />
+    <TextStringDefinition InstanceID="0xB0FB8C17" TextString="Ghi đè" />
+    <TextStringDefinition InstanceID="0x4B956924" TextString="Mẫu đã tồn tại trong Thư viện của tôi. Bạn muốn làm gì?" />
+    <TextStringDefinition InstanceID="0x5DAAEAD0" TextString="Cảnh báo: Tên phòng hoặc Mô tả hiện đang chứa từ không được phép. Bạn sẽ không có khả năng tải phòng này lên Thư viện sau này. Bạn vẫn muốn tiếp tục?" />
+    <TextStringDefinition InstanceID="0x5476A45E" TextString="Cảnh báo: Tên hình xăm hoặc Mô tả hiện đang chứa từ không được phép. Bạn sẽ không có khả năng tải hình xăm này lên Thư viện sau này. Bạn vẫn muốn tiếp tục?" />
+    <TextStringDefinition InstanceID="0x520E72C4" TextString="Cảnh báo: Tên gia đình, Tên Sim hoặc Mô tả hiện đang chứa từ không được phép. Bạn sẽ không có khả năng tải hộ gia đình này lên Thư viện sau này. Bạn vẫn muốn tiếp tục?" />
+    <TextStringDefinition InstanceID="0xED4636D6" TextString="Cảnh báo: Tên lô đất hoặc Mô tả hiện đang chứa từ không được phép. Bạn sẽ không có khả năng tải lô đất này lên Thư viện sau này. Bạn vẫn muốn tiếp tục?" />
+    <TextStringDefinition InstanceID="0xE00AAF5B" TextString="Bạn có chắc chắn muốn xóa {0.String} khỏi Thư viện?" />
+    <TextStringDefinition InstanceID="0x31DDFD4D" TextString="Bạn có chắc chắn muốn xóa {0.String} khỏi Lưu của tôi?" />
+    <TextStringDefinition InstanceID="0x9F9B6DC1" TextString="Tất cả lượt tải và yêu thích của hộ gia đình sẽ bị xóa." />
+    <TextStringDefinition InstanceID="0xD633A9FF" TextString="Tất cả lượt tải và yêu thích cho mục này sẽ bị xóa." />
+    <TextStringDefinition InstanceID="0x6757F310" TextString="Bạn muốn những bộ trang phục nào?" />
+    <TextStringDefinition InstanceID="0xCB799608" TextString="Phòng này đi kèm với các bộ trang phục ma-nơ-canh bổ sung xung đột với các ma-nơ-canh đã có trên lô đất của bạn. Bạn có muốn giữ các bộ trang phục hiện tại, hoặc thay thế bằng các bộ trang phục từ Thư viện?\n\nLựa chọn này không thể hoàn tác." />
+    <TextStringDefinition InstanceID="0xF33871CD" TextString="Hợp nhất hộ gia đình?" />
+    <TextStringDefinition InstanceID="0x59AF77E5" TextString="Bạn có chắc chắn muốn hợp nhất {0.String} vào hộ gia đình hiện tại?" />
+    <TextStringDefinition InstanceID="0x137AEE17" TextString="Thay thế" />
+    <TextStringDefinition InstanceID="0x15ADA7B7" TextString="Hợp nhất hộ gia đình?" />

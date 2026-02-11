@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x420CCFF0" TextString="cây thước đo toolTapeMeasureGEN_01" />
+    <TextStringDefinition InstanceID="0x6B9D6DC3" TextString="Kiếm ngắn" />
+    <TextStringDefinition InstanceID="0xB6CF220C" TextString="Kiếm ngắn." />
+    <TextStringDefinition InstanceID="0x639520D2" TextString="công cụ SwatchGEN Tên chỗ để điền" />
+    <TextStringDefinition InstanceID="0xF68B1C83" TextString="công cụ SwatchGEN Mô tả chỗ để điền" />
+    <TextStringDefinition InstanceID="0x4C85231B" TextString="công cụ SwatchFanGEN Tên chỗ để điền" />
+    <TextStringDefinition InstanceID="0x44E802B4" TextString="công cụ SwatchFanGEN Mô tả chỗ để điền" />
+    <TextStringDefinition InstanceID="0xCA90323D" TextString="cây tăm công cụ Swab_bm" />
+    <TextStringDefinition InstanceID="0xC44DF542" TextString="cây tăm công cụ Swab_bm" />
+    <TextStringDefinition InstanceID="0xAD4423EB" TextString="công cụ StylusGENPencil_01" />
+    <TextStringDefinition InstanceID="0xDA395042" TextString="công cụ StylusGEN_01" />
+    <TextStringDefinition InstanceID="0x504FA693" TextString="công cụ StylusGEN_01" />
+    <TextStringDefinition InstanceID="0xC23B0124" TextString="công cụ StylusChildGEN_01" />
+    <TextStringDefinition InstanceID="0x32B14D9F" TextString="công cụ SprayCanGEN_makeup Tên chỗ để điền" />
+    <TextStringDefinition InstanceID="0x06930FF0" TextString="công cụ SprayCanGEN_makeup Mô tả chỗ để điền" />
+    <TextStringDefinition InstanceID="0x463DEEEA" TextString="công cụ SprayCanGEN_hair Tên chỗ để điền" />
+    <TextStringDefinition InstanceID="0x2C01F6EB" TextString="công cụ SprayCanGEN_hair Mô tả chỗ để điền" />
+    <TextStringDefinition InstanceID="0xE5705FE5" TextString="công cụ SprayCan_GENsprayPaint Tên chỗ để điền" />
+    <TextStringDefinition InstanceID="0x692AB13A" TextString="công cụ SprayCan_GENsprayPaint Mô tả chỗ để điền" />
+    <TextStringDefinition InstanceID="0x5B5508E0" TextString="Thìa lớn" />
+    <TextStringDefinition InstanceID="0x94D95181" TextString="Thìa" />
+    <TextStringDefinition InstanceID="0x435E61AA" TextString="Xào" />
+    <TextStringDefinition InstanceID="0x1921C07D" TextString="công cụ hàn EP08GEN Tên chỗ để điền" />
+    <TextStringDefinition InstanceID="0x7BAC0D82" TextString="công cụ hàn EP08GEN Mô tả chỗ để điền" />
+    <TextStringDefinition InstanceID="0x9930656D" TextString="công cụ kéo Tên chỗ để điền" />
+    <TextStringDefinition InstanceID="0x91D97B52" TextString="công cụ kéo Mô tả chỗ để điền" />
+    <TextStringDefinition InstanceID="0x050406C5" TextString="công cụ đánh bóng cát_01" />
+    <TextStringDefinition InstanceID="0x7CA39323" TextString="công cụ sửa chữa_01" />
+    <TextStringDefinition InstanceID="0xD4326FE2" TextString="công cụ thước đo góc_01" />
+    <TextStringDefinition InstanceID="0x865AF264" TextString="công cụ dò cổng thành công_bm" />
+    <TextStringDefinition InstanceID="0xA6DE1511" TextString="công cụ dò cổng thành công_bm" />
+    <TextStringDefinition InstanceID="0x6CEB2498" TextString="Cây Poi lửa" />
+    <TextStringDefinition InstanceID="0xBF90ED4D" TextString="Cây Poi... Đang cháy!" />
+    <TextStringDefinition InstanceID="0xDB4101A1" TextString="công cụ bơm hút bồn cầu_01" />
+    <TextStringDefinition InstanceID="0x9C54C073" TextString="đèn pin công cụ PenLight_bm" />
+    <TextStringDefinition InstanceID="0xE376299C" TextString="đèn pin công cụ PenLight_bm" />
+    <TextStringDefinition InstanceID="0x7A8E7EB5" TextString="nắp lọ sơn móng GEN Tên chỗ để điền" />
+    <TextStringDefinition InstanceID="0xE2D6202A" TextString="nắp lọ sơn móng GEN Mô tả chỗ để điền" />
+    <TextStringDefinition InstanceID="0xF93F9E98" TextString="chai lọ sơn móng GEN Tên chỗ để điền" />
+    <TextStringDefinition InstanceID="0x343C8B4D" TextString="chai lọ sơn móng GEN Mô tả chỗ để điền" />
+    <TextStringDefinition InstanceID="0x6D189090" TextString="Cây giũa móng tay&#xA;" />
+    <TextStringDefinition InstanceID="0x9E3516F5" TextString="Hoàn hảo để giũa móng tay." />
+    <TextStringDefinition InstanceID="0x552D85FF" TextString="Đống tiền" />
+    <TextStringDefinition InstanceID="0x187855D0" TextString="Đống tiền." />
+    <TextStringDefinition InstanceID="0x8C6981C3" TextString=" công cụ đập thịt_01" />
+    <TextStringDefinition InstanceID="0x67F10BD3" TextString="Cốc đo lường" />
+    <TextStringDefinition InstanceID="0x4B73017C" TextString="Một vật dụng cần thiết để đổ đúng lượng chất lỏng cho công thức nấu ăn của bạn." />
+    <TextStringDefinition InstanceID="0x1D315779" TextString="công cụ Cốc đo lường_bm" />
+    <TextStringDefinition InstanceID="0x4CC75466" TextString="công cụ Cốc đo lường_bm" />
+    <TextStringDefinition InstanceID="0x4451D634" TextString="công cụ diêm GP01GEN tên chỗ để điền" />

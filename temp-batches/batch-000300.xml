@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xB48823E0" TextString="Hiển thị Chú giải Điều khiển" />
+    <TextStringDefinition InstanceID="0xFDC203BF" TextString="Mẹo Hướng dẫn Nâng cao" />
+    <TextStringDefinition InstanceID="0x8CA50A10" TextString="Đi đến Nơi ở" />
+    <TextStringDefinition InstanceID="0x4DAEF6E6" TextString="Kỳ Nghỉ Ngoài trời" />
+    <TextStringDefinition InstanceID="0x87D42BDA" TextString="{0.String} đã tải xuống thành công. Nhấp vào Thoát Game từ Trình đơn Tùy chọn (Nhấn phím ESC), sau đó khởi động lại The Sims 4 để cài đặt nội dung của bạn." />
+    <TextStringDefinition InstanceID="0x76A7E4F6" TextString="Kỳ nghỉ có sẵn:\n{0.Number} {S0.ngày}{P0.ngày}" />
+    <TextStringDefinition InstanceID="0xC7BF8E69" TextString="&lt;font color='#03ADEE'&gt;Đang Nghỉ - {1.Number} {S1.ngày}{P1.ngày} đã kiếm được. &lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x256650E9" TextString="&lt;font color='#03ADEE'&gt;Đang Nghỉ&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xDA2963FA" TextString="Ảnh chụp màn hình của bạn đã được lưu tại {0.String}" />
+    <TextStringDefinition InstanceID="0x6D0A30FE" TextString="&lt;span class = 'label'&gt; {0.String}: &lt;/span&gt;&lt;span class = 'value'&gt; {1.Number} / {2.Number}&lt;/span&gt;&lt;span class ='bonus'&gt;  + {3.Number} &lt;/span&gt;" />
+    <TextStringDefinition InstanceID="0xC743751B" TextString="Kỳ nghỉ sẽ kết thúc cho: {0.String}" />
+    <TextStringDefinition InstanceID="0xE3223653" TextString="Mọi doanh nghiệp sở hữu sẽ được bán, với giá trị và số dư quỹ bán lẻ được hoàn trả cho hộ gia đình." />
+    <TextStringDefinition InstanceID="0x92CABFD3" TextString="Hộ gia đình không đủ khả năng thuê thời hạn kỳ nghỉ này." />
+    <TextStringDefinition InstanceID="0xF8D52F87" TextString="Thuê lô đất này cho Hộ gia đình {0.String}?" />
+    <TextStringDefinition InstanceID="0xEA5819B7" TextString="Đặt chỗ ngay cho ngôi nhà thứ hai của bạn!" />
+    <TextStringDefinition InstanceID="0xA68D733F" TextString="Thuê cho" />
+    <TextStringDefinition InstanceID="0xE4DFC08A" TextString="Thời gian Nghỉ còn lại: {0.Number} ngày" />
+    <TextStringDefinition InstanceID="0x2E1A31BF" TextString="Thời gian Nghỉ còn lại: ít hơn 1 ngày" />
+    <TextStringDefinition InstanceID="0x140F4046" TextString="Gia hạn Kỳ nghỉ" />
+    <TextStringDefinition InstanceID="0x64E401E7" TextString="Hủy &amp; Kết thúc Kỳ nghỉ" />
+    <TextStringDefinition InstanceID="0x69429E92" TextString="ngày" />
+    <TextStringDefinition InstanceID="0xB5648383" TextString="Quỹ Hộ gia đình {0.String}:\n{1.Money}" />
+    <TextStringDefinition InstanceID="0x48E7712C" TextString="x {0.Money} mỗi ngày =" />
+    <TextStringDefinition InstanceID="0x28F9F20A" TextString="Không khả dụng khi đang nghỉ" />
+    <TextStringDefinition InstanceID="0x6DA59FB0" TextString="Thế giới này không thể truy cập trong chế độ này." />
+    <TextStringDefinition InstanceID="0x069D7491" TextString="Thế giới này không thể sử dụng vì không còn lô đất Cho thuê Kỳ nghỉ nào. Hãy đổi một lô đất trở lại thành Cho thuê Kỳ nghỉ để có thể sử dụng nó lại." />
+    <TextStringDefinition InstanceID="0xDC6E376E" TextString="Lô đất này không có sẵn để thuê tại thời điểm này." />
+    <TextStringDefinition InstanceID="0x7EE99BB9" TextString="Không thể áp dụng bản vẽ kiến trúc cho các lô đất Cho thuê Kỳ nghỉ đã có người ở." />
+    <TextStringDefinition InstanceID="0x22E3341A" TextString="Các Sim khác đã đang nghỉ ở đây." />
+    <TextStringDefinition InstanceID="0x86C591C0" TextString="Phải đặt chỗ du lịch đến Thế giới này qua Điện thoại hoặc Máy tính." />
+    <TextStringDefinition InstanceID="0x0FBF1B4E" TextString="Trẻ em Sims ở nhà một mình không thể được chơi." />
+    <TextStringDefinition InstanceID="0xCC1CAB76" TextString="{0.Money} mỗi ngày" />
+    <TextStringDefinition InstanceID="0x226A435C" TextString="{0.String} và bạn bè" />
+    <TextStringDefinition InstanceID="0x076390B5" TextString="Bán Doanh nghiệp" />
+    <TextStringDefinition InstanceID="0xE158CDB5" TextString="Kết thúc Kỳ nghỉ" />
+    <TextStringDefinition InstanceID="0xC709037C" TextString="Đang Nghỉ" />
+    <TextStringDefinition InstanceID="0xE7CB2FDE" TextString="Hủy Kỳ nghỉ" />
+    <TextStringDefinition InstanceID="0x9B02212D" TextString="&lt;b&gt;Tùy chọn:&lt;/b&gt; {0.String}" />
+    <TextStringDefinition InstanceID="0x5F46A4F6" TextString="Kết thúc Sớm?" />
+    <TextStringDefinition InstanceID="0x5A4B8AAA" TextString="Kết thúc Sự kiện Xã hội" />
+    <TextStringDefinition InstanceID="0x390CE4DA" TextString="Kết thúc Ngày lễ Sớm?" />
+    <TextStringDefinition InstanceID="0x1174056E" TextString="Kết thúc Ngày lễ" />
+    <TextStringDefinition InstanceID="0xB154A177" TextString="Bạn đang kết thúc Ngày lễ!\n\nĐiều này sẽ chỉ kết thúc ngày lễ cho hộ gia đình hiện tại. Bạn có muốn tiếp tục?" />
+    <TextStringDefinition InstanceID="0x55025303" TextString="Mọi người dường như đang rất vui vẻ. Bạn không muốn Sự kiện Xã hội kết thúc sớm vậy, phải không?" />
+    <TextStringDefinition InstanceID="0xED1C0DD2" TextString="Không Kết thúc" />
+    <TextStringDefinition InstanceID="0x83BBB70E" TextString="Kết thúc Nhiệm vụ" />
+    <TextStringDefinition InstanceID="0xB2B0930F" TextString="Thời gian còn lại: {0.String}\nNhấp vào nút này để rời khỏi nơi làm việc sớm hoặc ở lại muộn." />
+    <TextStringDefinition InstanceID="0xA8B9974B" TextString="Thời gian còn lại: {0.String}\nNhấp vào nút này để rời khỏi nơi làm việc sớm." />
+    <TextStringDefinition InstanceID="0x26562CD3" TextString="Phần thưởng sẽ được trao khi hoàn thành Nhiệm vụ." />
+    <TextStringDefinition InstanceID="0xF0E036D3" TextString="{0.SimFirstName} &lt;font color='#fc40ce'&gt;yêu thích&lt;/font&gt; truyền thống này." />

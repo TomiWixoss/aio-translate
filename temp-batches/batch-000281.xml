@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xCCA90F32" TextString="Cái chết của người cao tuổi" />
+    <TextStringDefinition InstanceID="0xDE606857" TextString="Đói!" />
+    <TextStringDefinition InstanceID="0x9B8F39D6" TextString="Lãng mạn" />
+    <TextStringDefinition InstanceID="0x2C120D88" TextString="Về nhà" />
+    <TextStringDefinition InstanceID="0xBE0961F6" TextString="Hài hước" />
+    <TextStringDefinition InstanceID="0x25B715AE" TextString="Ngủ" />
+    <TextStringDefinition InstanceID="0x98D69EAF" TextString="Tiệc" />
+    <TextStringDefinition InstanceID="0x0BD497BA" TextString="Thay đồ" />
+    <TextStringDefinition InstanceID="0xB81C0AD8" TextString="Trang trọng" />
+    <TextStringDefinition InstanceID="0x2A898278" TextString="Hàng ngày" />
+    <TextStringDefinition InstanceID="0x0712554F" TextString="Sự nghiệp" />
+    <TextStringDefinition InstanceID="0xE4BEDCAD" TextString="Thể thao" />
+    <TextStringDefinition InstanceID="0xBB293140" TextString="La hét" />
+    <TextStringDefinition InstanceID="0x923394BB" TextString="Cháy" />
+    <TextStringDefinition InstanceID="0x68338589" TextString="Từ chối" />
+    <TextStringDefinition InstanceID="0xDC38AEC7" TextString="Mời đi chơi" />
+    <TextStringDefinition InstanceID="0x0926D847" TextString="Giao pizza" />
+    <TextStringDefinition InstanceID="0xE48C8ACA" TextString="Người giúp việc" />
+    <TextStringDefinition InstanceID="0x289F3717" TextString="cho {0.Money}/giờ" />
+    <TextStringDefinition InstanceID="0xBD244FD6" TextString="Không phí." />
+    <TextStringDefinition InstanceID="0xDB9A41FF" TextString="cho {0.Money}" />
+    <TextStringDefinition InstanceID="0x8AC131AC" TextString="cho {0.Money} cộng thêm {1.Money}/giờ" />
+    <TextStringDefinition InstanceID="0x65442C6D" TextString="Có vẻ như nhà bạn hôm nay không cần dịch vụ của tôi. Tôi sẽ đi đến khách hàng tiếp theo." />
+    <TextStringDefinition InstanceID="0xF8FC9790" TextString="Tôi không làm việc miễn phí đâu. Nếu bạn muốn tôi giúp đỡ lần nữa, bạn nên tổ chức lại và trả hóa đơn {1.Money} mà tôi sẽ gửi cho bạn." />
+    <TextStringDefinition InstanceID="0x9B15ADA2" TextString="Có vẻ như tôi đã xong ở đây. Số tiền sẽ là {0.Money}." />
+    <TextStringDefinition InstanceID="0x06394632" TextString="Được, tôi nghĩ tôi sẽ dừng làm việc. Phí của tôi sẽ là {0.Money}." />
+    <TextStringDefinition InstanceID="0xDE1C61D5" TextString="Tôi nghĩ tôi đã xong ở đây. Phí của tôi sẽ là {0.Money}." />
+    <TextStringDefinition InstanceID="0xAA03F649" TextString="Cầu xin cho {2.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xB349B9AC" TextString="Thêm lựa chọn" />
+    <TextStringDefinition InstanceID="0x2DC4AB5F" TextString="{1.SimFirstName} không thể bị làm phiền lúc này." />
+    <TextStringDefinition InstanceID="0xC46B57FF" TextString="Lãng mạn" />
+    <TextStringDefinition InstanceID="0x896FD331" TextString="Phát bài hát" />
+    <TextStringDefinition InstanceID="0x6BC74FD3" TextString="Xấu tính" />
+    <TextStringDefinition InstanceID="0x9FA05919" TextString="Đàn violin" />
+    <TextStringDefinition InstanceID="0xFAA15ED1" TextString="Đàn piano" />
+    <TextStringDefinition InstanceID="0x533A4C64" TextString="Đàn guitar" />
+    <TextStringDefinition InstanceID="0x63683796" TextString="Cấp phép bài hát" />
+    <TextStringDefinition InstanceID="0xA4AAD74C" TextString="Hài hước" />
+    <TextStringDefinition InstanceID="0x4C18AADD" TextString="Thân thiện" />
+    <TextStringDefinition InstanceID="0x219108F8" TextString="Đối xử xấu với {1.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x809BA026" TextString="Thân thiện" />
+    <TextStringDefinition InstanceID="0x83DE8701" TextString="Sửa chữa" />
+    <TextStringDefinition InstanceID="0x56B9A604" TextString="Đặt vào kho đồ" />
+    <TextStringDefinition InstanceID="0xD636DC8D" TextString="Đặt xuống" />
+    <TextStringDefinition InstanceID="0xD34C6AB7" TextString="Cất đi" />
+    <TextStringDefinition InstanceID="0x8A90DC2E" TextString="Mở" />
+    <TextStringDefinition InstanceID="0x0B13E0DF" TextString="Đối tượng này hiện đang trống." />
+    <TextStringDefinition InstanceID="0xEE179D4B" TextString="Thu thập" />
+    <TextStringDefinition InstanceID="0x53DB840A" TextString="Dọn dẹp" />
+    <TextStringDefinition InstanceID="0x38DFE289" TextString="Làm sạch" />

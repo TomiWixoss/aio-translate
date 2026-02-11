@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xD26E8E95" TextString="Trong cuộc điều tra cuối cùng của {M0.anh ấy}{F0.cô ấy}, {0.SimFirstName} đã khám phá ra một số chi tiết khá bẩn thỉu về một chính trị gia nhất định. Chính trị gia đó không lặng lẽ ám chỉ rằng {M0.anh ấy}{F0.cô ấy} nên dập tắt câu chuyện - hoặc là... {M0.anh ấy}{F0.cô ấy} nên làm, hay công bố tất cả những chi tiết bẩn thỉu?" />
+    <TextStringDefinition InstanceID="0x613B124A" TextString="Một Nhà Viết Kịch Bản Mới" />
+    <TextStringDefinition InstanceID="0xF24BBD16" TextString="Hollywood đã sẵn sàng làm phim dựa trên cuốn sách mới nhất trong series của {0.SimFirstName}, nhưng nhà sản xuất muốn thay thế {0.SimFirstName} bằng một nhà viết kịch bản khác. {0.SimFirstName} nên cố gắng thuyết phục studio để {M0.anh ấy}{F0.cô ấy} viết, hay từ chối hoàn toàn quyền tác giả?" />
+    <TextStringDefinition InstanceID="0xE9AC5738" TextString="Gọi Bảo Vệ" />
+    <TextStringDefinition InstanceID="0xA1A78577" TextString="Thuyết Phục Anh Ta" />
+    <TextStringDefinition InstanceID="0xB43B6933" TextString="Bùm. Một kẻ lập dị khác đã bị xử lý, và {0.SimFirstName} quay trở lại cuộc sống thường nhật của {M0.anh ấy}{F0.cô ấy}." />
+    <TextStringDefinition InstanceID="0xFF436814" TextString="Công Việc Dễ Dàng" />
+    <TextStringDefinition InstanceID="0x724276F7" TextString="Công Việc Khó Khăn" />
+    <TextStringDefinition InstanceID="0xBC47B6E3" TextString="Chuyên Gia Trung Bình Có Kinh Nghiệm" />
+    <TextStringDefinition InstanceID="0x718C353F" TextString="Nhà Văn Trẻ Nóng Bỏng" />
+    <TextStringDefinition InstanceID="0xABDA3340" TextString="Chia Sẻ" />
+    <TextStringDefinition InstanceID="0x6DF3BCCA" TextString="Không Chia Sẻ" />
+    <TextStringDefinition InstanceID="0xF270EE43" TextString="Cảm thấy tốt khi có nguyên tắc. {0.SimFirstName} kiên định với quan điểm của {M0.anh ấy}{F0.cô ấy} và đã công bố một câu chuyện tuyệt vời." />
+    <TextStringDefinition InstanceID="0xD207D8EB" TextString="Làm Việc Chăm Chỉ" />
+    <TextStringDefinition InstanceID="0xE6A18AAA" TextString="Lười Biếng" />
+    <TextStringDefinition InstanceID="0xF037F979" TextString="Từ Bỏ Nguồn Tin" />
+    <TextStringDefinition InstanceID="0x4835F462" TextString="Giữ Im Lặng" />
+    <TextStringDefinition InstanceID="0xBB265D6A" TextString="Bỏ Qua Kiến Nghị" />
+    <TextStringDefinition InstanceID="0x1750B294" TextString="Đưa Nhân Vật Trở Lại" />
+    <TextStringDefinition InstanceID="0x43BC8806" TextString="Nhận Hối Lộ" />
+    <TextStringDefinition InstanceID="0xA27ACD5A" TextString="Từ Chối" />
+    <TextStringDefinition InstanceID="0x30C11AB1" TextString="Chôn Vùi Nó" />
+    <TextStringDefinition InstanceID="0xA1AFF2AD" TextString="Xuất Bản" />
+    <TextStringDefinition InstanceID="0x03B52E80" TextString="Chờ Đợi và Hy Vọng" />
+    <TextStringDefinition InstanceID="0x69BC5FE2" TextString="Tìm Kiếm Tầng Hầm" />
+    <TextStringDefinition InstanceID="0xF8C13A5B" TextString="Tìm Kiếm Tầng Hầm" />
+    <TextStringDefinition InstanceID="0xA8D6C0DC" TextString="Giữ Im Lặng" />
+    <TextStringDefinition InstanceID="0x35830E44" TextString="Đoán Một Cái" />
+    <TextStringDefinition InstanceID="0xC8A7952B" TextString="Một trong những đặc vụ trẻ và thiếu kinh nghiệm của {0.SimFirstName} đang được gửi đi một nhiệm vụ nguy hiểm. {0.SimFirstName} tự hỏi liệu {M0.anh ấy}{F0.cô ấy} có nên đi theo {M0.chính mình}{F0.chính mình} - cẩn thận một chút. {M0.Anh ấy}{F0.Cô ấy} có thể tham gia nhiệm vụ, hoặc ở lại căn cứ và để cho đặc vụ tự học hỏi." />
+    <TextStringDefinition InstanceID="0xF8DD1FA9" TextString="Buổi Thuyết Trình Của TỘI ÁC!" />
+    <TextStringDefinition InstanceID="0x93D62786" TextString="{0.SimFirstName} đang làm hai vụ án cùng lúc - một vụ án nhàm chán dễ thắng và một vụ án thú vị phức tạp hơn. {M0.Anh ấy}{F0.Cô ấy} chỉ có đủ nguồn lực để theo đuổi một trong số chúng - {M0.anh ấy}{F0.cô ấy} nên theo đuổi vụ nào?" />
+    <TextStringDefinition InstanceID="0x03297909" TextString="Khi {0.SimFirstName} được cấp một chiếc máy tính xách tay mới của công ty, {M0.anh ấy}{F0.cô ấy} phát hiện ra một số bức ảnh khá nhạy cảm trên ổ cứng... những bức ảnh nhạy cảm của một đặc vụ đồng nghiệp và một người phụ nữ không phải vợ anh ta. {0.SimFirstName} có thể hoặc giao những bức ảnh cho bộ phận IT, hoặc giữ chúng lại trong trường hợp sau này cần đến." />
+    <TextStringDefinition InstanceID="0xA2C57C32" TextString="Và giải thưởng cho Gián Điệp Siêu Nhiên của Thiên Niên Kỷ thuộc về... {0.SimFirstName}, tất nhiên. {M0.Anh ấy}{F0.Cô ấy} được vinh danh bởi các đồng nghiệp đại tá trong một bữa tiệc trưa trang trọng. Trong bài phát biểu nhận giải, {M0.anh ấy}{F0.cô ấy} chỉ có thời gian cho một lời cảm ơn. {M0.Anh ấy}{F0.Cô ấy} nên cảm ơn {M0.huấn luyện viên của mình}{F0.huấn luyện viên của mình}, hay cảm ơn {M0.kẻ thù sống còn trong sự nghiệp của mình}{F0.kẻ thù sống còn trong sự nghiệp của mình}?" />
+    <TextStringDefinition InstanceID="0x3635D8CF" TextString="Tất Cả Là Một Phần Của Công Việc" />
+    <TextStringDefinition InstanceID="0xD5857A78" TextString="Sau một cuộc tái cấu trúc tại {M0.cơ quan giả định của mình}{F0.cơ quan giả định của mình}, {0.SimFirstName} được giao một đối tác mới. Thật khó giữ bí mật với một người {M0.anh ấy}{F0.cô ấy} làm việc rất chặt chẽ. {M0.Anh ấy}{F0.Cô ấy} nên tin cậy {M0.lòng trung thành thực sự của mình}{F0.lòng trung thành thực sự của mình} cho người mới, hay giữ {M0.bí mật của mình}{F0.bí mật của mình}?" />
+    <TextStringDefinition InstanceID="0xB9781AEE" TextString="Quyết Định Chia Đôi" />
+    <TextStringDefinition InstanceID="0xF7B30A88" TextString="{0.SimFirstName} đã bị bắt! Trong một cuộc điều tra, một số tay sai đã bắt {0.SimPronounObjective} và bắt đầu tra hỏi {0.SimPronounObjective} về {M0.lòng trung thành của mình}{F0.lòng trung thành của mình}. Thành thật mà nói, ngay cả {0.SimFirstName} cũng không thể nhớ ở thời điểm này! Khi chúng đòi hỏi biết {M0.anh ấy}{F0.cô ấy} thực sự làm việc cho ai, {0.SimFirstName} có thể hoặc đoán một cái, hoặc giữ im lặng và hy vọng có viện trợ." />
+    <TextStringDefinition InstanceID="0x749DB06A" TextString="Quy tắc đầu tiên của việc làm một đặc vụ bí mật là 'Nếu bạn thấy bất cứ điều gì, hãy nói với mọi người.' Hôm nay, {0.SimFirstName} để ý thấy một tiếng kêu kỳ lạ trong văn phòng. Đó có phải là thiết bị nghe lén? Một chương trình phát thanh của kẻ thù? {M0.Anh ấy}{F0.Cô ấy} có thể hoặc bỏ qua nó, hoặc nói với {M0.sếp của mình}{F0.sếp của mình} về {M0.sự nghi ngờ của mình}{F0.sự nghi ngờ của mình}." />
+    <TextStringDefinition InstanceID="0x9F9497CC" TextString="Bí Mật Bị Lộ" />
+    <TextStringDefinition InstanceID="0x7DC7137F" TextString="Ngay giữa một vụ án lớn, một cuộc chiến ngân sách đảng phái đã đóng băng cơ quan! Phòng của {0.SimFirstName} không được tài trợ. {M0.Anh ấy}{F0.Cô ấy} có thể hoặc tiếp tục làm {M0.vụ án của mình}{F0.vụ án của mình} mà không được trả lương, hoặc {M0.anh ấy}{F0.cô ấy} có thể lười biếng như tất cả mọi người khác - mặc dù {M0.mục tiêu của mình}{F0.mục tiêu của mình} có thể trốn thoát." />
+    <TextStringDefinition InstanceID="0x6DD5218E" TextString="Trò Chơi Đặc Vụ" />
+    <TextStringDefinition InstanceID="0x5553B8EE" TextString="Hack Nó" />
+    <TextStringDefinition InstanceID="0x96094C4E" TextString="{M0.Huấn luyện viên}{F0.Huấn luyện viên} có ý nghĩa nhất trong sự nghiệp của {0.SimFirstName} dạo này hành động hơi lạ... tránh né, xa cách và bí mật. {0.SimFirstName} lo rằng {M0.ông ấy}{F0.bà ấy} có thể đã bị một cơ quan địch quyến rũ. {M0.Anh ấy}{F0.Cô ấy} nên báo cáo {M0.sự lo ngại của mình}{F0.sự lo ngại của mình}, hay cố gắng nói chuyện trực tiếp với {M0.huấn luyện viên của mình}{F0.huấn luyện viên của mình}?" />
+    <TextStringDefinition InstanceID="0x5E75747A" TextString="Kho Ẩn Giấu" />
+    <TextStringDefinition InstanceID="0x345A7595" TextString="Một phóng viên tiếp cận {0.SimFirstName} trong bãi đậu xe và hỏi liệu {M0.ông ấy}{F0.bà ấy} có sẵn sàng trở thành một nguồn tin ẩn danh không. Tất cả {M0.ông ấy}{F0.bà ấy} phải làm là rò rỉ vài tài liệu trông khá nhàm chán. {M0.Anh ấy}{F0.Cô ấy} nên đồng ý chuyển giao dữ liệu, hay từ chối?" />
+    <TextStringDefinition InstanceID="0xAD5AF683" TextString="BÙM! Đèn pin chiếu thẳng vào {0.SimFirstName} ngay khi {M0.anh ấy}{F0.cô ấy} đang hoàn thành một nhiệm vụ trinh sát. {M0.Nhiệm vụ của anh ấy}{F0.Nhiệm vụ của cô ấy} là thu thập một tài liệu nhạy cảm, đang nằm trong {M0.tay của mình}{F0.tay của mình}. Trước khi những người gác đến chỗ {0.SimPronounObjective}, {M0.anh ấy}{F0.cô ấy} có thể hoặc ăn tài liệu và hủy diệt nó, hoặc cố gắng bảo tồn nó để phân tích sau." />
+    <TextStringDefinition InstanceID="0x48DB3641" TextString="Thời gian của {0.SimFirstName} với Cơ Quan đã mang lại một số câu chuyện khá tuyệt vời và khó tin. Một nhà xuất bản tiếp cận {0.SimFirstName} về việc viết {M0.tự truyện của mình}{F0.tự truyện của mình}. {M0.Anh ấy}{F0.Cô ấy} nên làm cho vui và cho thế hệ sau, hay duy trì {M0.quy tắc im lặng của mình}{F0.quy tắc im lặng của mình}?" />
+    <TextStringDefinition InstanceID="0x742FEF10" TextString="{0.SimFirstName} có một báo cáo lớn về một mối đe dọa mới nổi cần nộp ngày mai ở công ty, nhưng {M0.anh ấy}{F0.cô ấy} bị quá tải. {M0.Anh ấy}{F0.Cô ấy} có thể hoặc lén hỏi sự giúp đỡ từ một nhà nghiên cứu khác, hoặc làm suốt đêm để hoàn thành. {M0.Anh ấy}{F0.Cô ấy} nên làm gì?" />
+    <TextStringDefinition InstanceID="0x8C45B959" TextString="{0.SimFirstName} đã nghe mọi câu chuyện đau khổ có thể có, nhưng gã đang bị {M0.anh ấy}{F0.cô ấy} chất vấn bây giờ lại có một con chó bệnh, hơn nữa còn nấu yến mạch cho bà ngoại mỗi tối thứ Năm. Hắn hứa rằng hắn sẽ không bao giờ làm điều gì sai nữa, nếu {0.SimFirstName} chỉ cần thả hắn ra. {M0.Anh ấy}{F0.Cô ấy} nên tha cho hắn hay không tỏ ra không thương xót?" />
+    <TextStringDefinition InstanceID="0x0F21C274" TextString="Cảnh Sát Tốt, Cảnh Sát Xấu" />

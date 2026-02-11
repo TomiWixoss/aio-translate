@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x4B53E390" TextString="Kể chuyện" />
+    <TextStringDefinition InstanceID="0x05B94FE6" TextString="Cảm ơn khách đã đến" />
+    <TextStringDefinition InstanceID="0x047AAD85" TextString="Kể chuyện cho người hẹn hò" />
+    <TextStringDefinition InstanceID="0xA6972B2E" TextString="Mục tiêu chính:\n Giao lưu với người hẹn hò vui chơi" />
+    <TextStringDefinition InstanceID="0x52E2E1E8" TextString="Bạn là người bạn tốt để trò chuyện, {0.SimFirstName}!" />
+    <TextStringDefinition InstanceID="0x012A47BB" TextString="Rất vui vì chúng ta có cơ hội trò chuyện!" />
+    <TextStringDefinition InstanceID="0x143054AA" TextString="Thật tuyệt khi được ở cùng ai đó mà tôi có thể trò chuyện hàng giờ!" />
+    <TextStringDefinition InstanceID="0x00B202F4" TextString="Mục tiêu chính:\n Giao lưu với Người hẹn hò" />
+    <TextStringDefinition InstanceID="0xF82C795A" TextString="Ngồi và Trò chuyện với Người hẹn hò" />
+    <TextStringDefinition InstanceID="0x4FB10362" TextString="Nhấp vào người hẹn hò của bạn khi đang ăn và chọn Thảo luận về Thức ăn dưới mục Thân thiện." />
+    <TextStringDefinition InstanceID="0x7BDD1E3A" TextString="Giao lưu về Bữa ăn" />
+    <TextStringDefinition InstanceID="0xF85A8AC6" TextString="Hãy để cặp đôi hôn nhau" />
+    <TextStringDefinition InstanceID="0x37DB4C86" TextString="Bạn không cần phải dùng khung cưới, nhưng đó không phải là đám cưới nếu bạn không kết hôn." />
+    <TextStringDefinition InstanceID="0x4547FBA5" TextString="Nhấp vào Trạm Chủ nhà hoặc Chủ nhà để Yêu cầu Bàn." />
+    <TextStringDefinition InstanceID="0x9B1EAB8B" TextString="Yêu cầu Bàn" />
+    <TextStringDefinition InstanceID="0xE0DE1B18" TextString="Nhấp vào bàn hoặc nhân viên phục vụ và chọn Đặt món cho Bàn." />
+    <TextStringDefinition InstanceID="0xBDF13150" TextString="Đặt món ăn cho bản thân và người hẹn hò" />
+    <TextStringDefinition InstanceID="0x6D901E8E" TextString="Chơi nhạc cụ trong 1 giờ" />
+    <TextStringDefinition InstanceID="0x54944C68" TextString="Chơi một trò chơi với Sim sinh nhật" />
+    <TextStringDefinition InstanceID="0x47645671" TextString="Làm cho các Sim trở nên vui vẻ cùng một lúc" />
+    <TextStringDefinition InstanceID="0x945326D6" TextString="Nghe nhạc với người hẹn hò" />
+    <TextStringDefinition InstanceID="0xE0932CB5" TextString="Biểu diễn hài kịch" />
+    <TextStringDefinition InstanceID="0xF10E3BA3" TextString="Cho người hẹn hò một massage" />
+    <TextStringDefinition InstanceID="0x0C41D145" TextString="Làm hai Sim tức giận" />
+    <TextStringDefinition InstanceID="0x41B2E720" TextString="Đang vui chơi thả ga!" />
+    <TextStringDefinition InstanceID="0x6F30E459" TextString="Trông bạn có vẻ đang có một khoảng thời gian vui vẻ, {0.SimFirstName}!" />
+    <TextStringDefinition InstanceID="0x065C8719" TextString="Đó không phải là một bữa tiệc trừ khi bạn khiến các khách nói chuyện." />
+    <TextStringDefinition InstanceID="0x1BDDCE37" TextString="Mục tiêu chính: \nChủ nhà giao lưu với khách" />
+    <TextStringDefinition InstanceID="0xB475E6ED" TextString="Đó không thực sự là một cuộc hẹn nếu không có cuộc trò chuyện trực tiếp." />
+    <TextStringDefinition InstanceID="0xE7DC822F" TextString="Mục tiêu chính: \nThảo luận về Trang phục với khách" />
+    <TextStringDefinition InstanceID="0xAED22531" TextString="Bạn có thể nghĩ ra những thứ màu đen và/hoặc trắng nào để thảo luận?!" />
+    <TextStringDefinition InstanceID="0x671294F0" TextString="Mục tiêu chính: \nThảo luận về Những thứ Đen &amp; Trắng với khách" />
+    <TextStringDefinition InstanceID="0xB6A3D41E" TextString="Làm các Sim hôn nhau" />
+    <TextStringDefinition InstanceID="0x5D10A0C5" TextString="Hôn người hẹn hò một cách đam mê" />
+    <TextStringDefinition InstanceID="0x20353160" TextString="Cuộc hẹn này cứ ngày càng tốt hơn!" />
+    <TextStringDefinition InstanceID="0x038A980E" TextString="Hôn người hẹn hò" />
+    <TextStringDefinition InstanceID="0x24D4E016" TextString="Kể một câu đùa cho {2.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x5503D186" TextString="Kể các câu đùa khi đang vui vẻ" />
+    <TextStringDefinition InstanceID="0x7EFD9022" TextString="Đừng bao giờ quên mang ngô đến một bữa nướng. Đừng sợ, với sự hoàn hảo của bạn trong nghệ thuật nướng, bạn đã chuẩn bị sẵn những câu đùa ngô. Hãy chắc chắn cho khách của bạn nghe đầy đủ bằng cách sử dụng tương tác Kể Câu Đùa Ngô dưới mục Hài hước." />
+    <TextStringDefinition InstanceID="0x04FCE9FA" TextString="Kể Câu Đùa Ngô cho Khách" />
+    <TextStringDefinition InstanceID="0x0A57C2C0" TextString="Kể Câu Đùa" />
+    <TextStringDefinition InstanceID="0x4BB9BF83" TextString="Đùa với Người hẹn hò" />
+    <TextStringDefinition InstanceID="0x9F032208" TextString="Giao lưu với Khách dự Tân gia" />
+    <TextStringDefinition InstanceID="0x137A96F7" TextString="Kể một câu đùa" />
+    <TextStringDefinition InstanceID="0xDD2D66C0" TextString="Chủ nhà Giao lưu với Khách" />
+    <TextStringDefinition InstanceID="0xE1554AC2" TextString="Làm hai Sim chơi cờ vua cùng một lúc" />
+    <TextStringDefinition InstanceID="0x27700163" TextString="Làm các Sim xem TV cùng một lúc" />
+    <TextStringDefinition InstanceID="0x61B3BBB5" TextString="Tập thể dục với người hẹn hò" />
+    <TextStringDefinition InstanceID="0xA113EE2C" TextString="Làm các Sim xem hài kịch cùng một lúc" />
+    <TextStringDefinition InstanceID="0xB44524B2" TextString="Làm các Sim trò chuyện cùng một lúc" />

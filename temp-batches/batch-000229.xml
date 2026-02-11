@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xAB3114B0" TextString="{0.SimFirstName} buồn về công việc của {F0.her}{M0.his}. {F0.She}{M0.He} thực sự cần một người bạn ngay bây giờ." />
+    <TextStringDefinition InstanceID="0x8A437640" TextString="Đôi khi việc mở rộng gia đình có thể khó khăn hơn mong đợi." />
+    <TextStringDefinition InstanceID="0xF3C99679" TextString="Căng thẳng trước khi làm cha mẹ" />
+    <TextStringDefinition InstanceID="0x55B11966" TextString="Đã đến lúc rồi! Có một em bé sắp chào đời. Một chút hoảng loạn là có thể hiểu được." />
+    <TextStringDefinition InstanceID="0xB0756FD0" TextString="Mang thai: Đang chuyển dạ" />
+    <TextStringDefinition InstanceID="0xE9B77235" TextString="Đã đến lúc rồi!" />
+    <TextStringDefinition InstanceID="0xE924B093" TextString="{1.String} trong {0.Timespan}" />
+    <TextStringDefinition InstanceID="0x960698B6" TextString="Được khen vì điểm số!" />
+    <TextStringDefinition InstanceID="0x2477616F" TextString="Sự công nhận của cha mẹ vì nỗ lực học tập mang lại một bước nhảy vui tươi cho bất kỳ Sim nào!" />
+    <TextStringDefinition InstanceID="0x3AA74596" TextString="Cây Cảnh Thư Giãn" />
+    <TextStringDefinition InstanceID="0x433469CF" TextString="{0.SimFirstName} tìm thấy sự tĩnh lặng khi chăm sóc cây cảnh, cảm nhận nhịp điệu dịu dàng của thiên nhiên. Hoạt động thư giãn này mang lại cảm giác bình yên và thư giãn." />
+    <TextStringDefinition InstanceID="0x49C7EBDF" TextString="Động lực vì điều tốt đẹp" />
+    <TextStringDefinition InstanceID="0x2E83E030" TextString="{0.SimFirstName} đã được truyền cảm hứng để thay đổi thế giới bằng năng lượng tích cực và lòng tốt." />
+    <TextStringDefinition InstanceID="0x5EF7CA8A" TextString="Khao khát làm điều tốt" />
+    <TextStringDefinition InstanceID="0x9190200B" TextString="Chứng kiến cảnh tượng như vậy tạo ra một nhà thiết kế nhiệt thành muốn làm điều tốt cho các Sim khác." />
+    <TextStringDefinition InstanceID="0x1BCABEA9" TextString="Thôi thúc làm điều tốt" />
+    <TextStringDefinition InstanceID="0x76753876" TextString="Những lời đó sẽ mãi mãi được khắc sâu vào Trái tim và Tâm trí của {0.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x59563D24" TextString="Xu hướng làm điều tốt" />
+    <TextStringDefinition InstanceID="0x62666FD1" TextString="Cảnh quan tuyệt vời như vậy! Những lời sống động." />
+    <TextStringDefinition InstanceID="0x21015EF2" TextString="Áp Phích Động Viên" />
+    <TextStringDefinition InstanceID="0x31180F23" TextString="Không chắc điều gì về tấm áp phích đó. Có lẽ là hình ảnh hay thông điệp, nhưng nó chắc chắn đã cung cấp động lực!" />
+    <TextStringDefinition InstanceID="0x7166E066" TextString="Vui Nước" />
+    <TextStringDefinition InstanceID="0x2A210A3F" TextString="Một ít nước bắn tung tóe thực sự làm không khí sôi động lên!" />
+    <TextStringDefinition InstanceID="0xF7D0A585" TextString="Bơi Thư Giãn" />
+    <TextStringDefinition InstanceID="0x85037F5A" TextString="Một chuyến bơi tốt là một cách tuyệt vời để thư giãn và giảm căng thẳng." />
+    <TextStringDefinition InstanceID="0xE1A4F78F" TextString="Vẫn Vui Vẻ!" />
+    <TextStringDefinition InstanceID="0xB28444C0" TextString="Không có Sim nào quá già để thưởng thức một chiếc cầu trượt đẹp! Cuộc sống luôn xứng đáng để tận hưởng, sau cùng thì." />
+    <TextStringDefinition InstanceID="0xEA5E325A" TextString="Phần Thưởng Làm Cha Mẹ" />
+    <TextStringDefinition InstanceID="0x50DC90FB" TextString="Thật khó để diễn tả bằng lời, nhưng {0.SimFirstName} cảm thấy việc xem {0.SimPronounPossessiveDependent} con chơi trên cầu trượt khiến tất cả đều xứng đáng, bạn biết không?" />
+    <TextStringDefinition InstanceID="0x7CABA3BF" TextString="Rơi xuống. Phù du." />
+    <TextStringDefinition InstanceID="0x84BDB590" TextString="Những khoảnh khắc thoáng qua của sự vui vẻ, phù du và phai nhạt. Như mặt trời lặn hoặc bông hoa nở, mọi vẻ đẹp đều có hạn. Thời gian trôi qua, hoa héo tàn và đêm xóa nhòa bầu trời. Chúng ta trân trọng thời gian khi còn có thể, nhưng thời gian chẳng bao giờ trân trọng chúng ta. Chấp nhận những sự tàn nhẫn này là cần thiết, vì phủ nhận chúng còn tàn nhẫn hơn. Không có câu trả lời nào chúng ta muốn nghe.\n\nDù sao thì cầu trượt vẫn vui!" />
+    <TextStringDefinition InstanceID="0x1BEA72A1" TextString="NÓNG! NÓNG! NÓNG! NÓNG!" />
+    <TextStringDefinition InstanceID="0x1EAD8E9E" TextString="Bất chấp nhiều cảnh báo về hành động này, {0.SimFirstName} vẫn quyết định tìm hiểu. Ôi đau quá!" />
+    <TextStringDefinition InstanceID="0x2A561898" TextString="Có lẽ tôi đã quá già cho việc này" />
+    <TextStringDefinition InstanceID="0xEB1E294D" TextString="Ngày nay, cầu trượt chỉ không còn như xưa đối với {0.SimFirstName}. Thật đáng buồn!" />
+    <TextStringDefinition InstanceID="0x1567E58C" TextString="CẦU TRƯỢT. CẦU TRƯỢT. CẦU TRƯỢT." />
+    <TextStringDefinition InstanceID="0xE4A255A9" TextString="Dù {0.SimFirstName} có thể chẳng bao giờ có cơ hội trở lại tuổi thơ, cảm giác này có lẽ là tốt nhất rồi! Cầu trượt vẫn là số một!" />
+    <TextStringDefinition InstanceID="0x1427E38C" TextString="Cầu trượt!" />
+    <TextStringDefinition InstanceID="0x00285FA9" TextString="Chiếc cầu trượt đó là tất cả những gì {0.SimFirstName} nghĩ nó có thể là, và còn hơn thế nữa! Quả thật là một phần không thể thiếu của tuổi thơ." />
+    <TextStringDefinition InstanceID="0xFC1C3813" TextString="Thao tác Tinh tế" />
+    <TextStringDefinition InstanceID="0x6A3346BC" TextString="Một ván cờ vua được chơi tốt có thể khiến tâm trí của Sim tập trung như laser." />
+    <TextStringDefinition InstanceID="0xB9E85E9B" TextString="Nước đi Hợp lý" />
+    <TextStringDefinition InstanceID="0xF0155934" TextString="Một ván cờ vua hoàn hảo để tập trung suy nghĩ." />
+    <TextStringDefinition InstanceID="0xFECEE3DE" TextString="Héo tàn" />
+    <TextStringDefinition InstanceID="0xA6C0B8A7" TextString="{0.SimFirstName} khao khát được sống cuộc đời PlantSim! Hy vọng {F0.she}{M0.he} có thể ăn Trái Cấm của PlantSim trước khi thời gian hết!" />
+    <TextStringDefinition InstanceID="0x9D883629" TextString="Quang hợp" />
+    <TextStringDefinition InstanceID="0x6FAB62F6" TextString="{0.SimFirstName} đang ở ngoài trời biến nước và ánh sáng thành thức ăn! Hãy xem {M0.his}{F0.her} độ đói tăng lên!" />
+    <TextStringDefinition InstanceID="0x9B9B2DC2" TextString="Hãy là PlantSim" />
+    <TextStringDefinition InstanceID="0xA25DD313" TextString="{0.SimFirstName} đã trở thành PlantSim! Hãy đảm bảo cho {M0.him}{F0.her} có đủ nước và ánh sáng mặt trời." />
+    <TextStringDefinition InstanceID="0x0D2429A5" TextString="(Từ việc nuốt chửng Bướm Origami)" />

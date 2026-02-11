@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xCC6B06C4" TextString="&lt;font color='#EC262E'&gt;• Phải là {0.String}&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xE227A8C6" TextString="Phần thưởng ở Hạng tiếp theo" />
+    <TextStringDefinition InstanceID="0x300725D3" TextString="Scoundrel" />
+    <TextStringDefinition InstanceID="0x3FDB14B5" TextString="Resistance" />
+    <TextStringDefinition InstanceID="0xD07AF50E" TextString="First Order" />
+    <TextStringDefinition InstanceID="0x20CAEAD3" TextString="Bạc" />
+    <TextStringDefinition InstanceID="0x82AD9EEA" TextString="Vàng" />
+    <TextStringDefinition InstanceID="0x9224E9B0" TextString="Đồng" />
+    <TextStringDefinition InstanceID="0xCADE593F" TextString="Quá nhiều Sim đã được mời để chuyển bữa tiệc này sang Chỉ mời" />
+    <TextStringDefinition InstanceID="0xF4DEDA8E" TextString="Bắt đầu Sự kiện" />
+    <TextStringDefinition InstanceID="0x2E39CE05" TextString="Bắt đầu sự kiện này ngay lập tức." />
+    <TextStringDefinition InstanceID="0x2A42DED1" TextString="Không thể bắt đầu sự kiện ngay lập tức vì một sự kiện khác đang diễn ra." />
+    <TextStringDefinition InstanceID="0x77E0B12C" TextString="Ngay bây giờ" />
+    <TextStringDefinition InstanceID="0x873223F4" TextString="{0.TimeShort}" />
+    <TextStringDefinition InstanceID="0x934CCF03" TextString="Phải chọn thời gian bắt đầu cho sự kiện này." />
+    <TextStringDefinition InstanceID="0x05430954" TextString="Đặt thời gian bắt đầu cho Chuyến đi này. Các Sim sẽ di chuyển đến địa điểm Chuyến đi vào thời gian đã chọn." />
+    <TextStringDefinition InstanceID="0x68B73A11" TextString="Một kỳ nghỉ đã được lên lịch bắt đầu vào thời gian này." />
+    <TextStringDefinition InstanceID="0xF125205D" TextString="Một sự kiện đã được lên lịch bắt đầu vào thời gian này." />
+    <TextStringDefinition InstanceID="0x50C5A868" TextString="Chọn" />
+    <TextStringDefinition InstanceID="0x87D0D405" TextString="Điều hướng sang phải" />
+    <TextStringDefinition InstanceID="0xC5C93846" TextString="Điều hướng sang trái" />
+    <TextStringDefinition InstanceID="0xB633AB26" TextString="Chọn Chỉnh sửa Trang phục để thay đổi trang phục Lễ nghi cho mỗi Sim trong Cặp đôi cưới. Bộ trang phục Lễ nghi đầu tiên sẽ được chọn tự động, nhưng các bộ khác có thể được thay đổi sau khi lễ cưới bắt đầu thông qua tùy chọn Thay đổi Trang phục." />
+    <TextStringDefinition InstanceID="0x67FB8A89" TextString="Bắt đầu Ngay" />
+    <TextStringDefinition InstanceID="0x120E1493" TextString="Chọn một địa điểm" />
+    <TextStringDefinition InstanceID="0x0840D5BB" TextString="Chọn một địa điểm" />
+    <TextStringDefinition InstanceID="0x87EF827F" TextString="Chọn Thời gian Sự kiện:" />
+    <TextStringDefinition InstanceID="0x7BB8C293" TextString="Bạn không có đủ tiền để bắt đầu Sự kiện Xã hội này." />
+    <TextStringDefinition InstanceID="0xEAEB420C" TextString="Chọn một Sự kiện Xã hội ở bên trái để xem chi tiết hơn" />
+    <TextStringDefinition InstanceID="0x04EA2217" TextString="Bạn phải chọn một Sự kiện Xã hội từ danh sách bên trái trước" />
+    <TextStringDefinition InstanceID="0xC2ED9442" TextString="Sự kiện Xã hội là cách vui vẻ để các Sim của bạn tham gia vào các hoạt động đa dạng. Tổ chức tiệc, đi hẹn hò, kiếm phần thưởng và để họ sống trọn vẹn." />
+    <TextStringDefinition InstanceID="0x328C6C84" TextString="Chọn một Sự kiện Xã hội" />
+    <TextStringDefinition InstanceID="0xECC0C5F7" TextString="Không có Sim trong hộ gia đình trong khung thời gian {0.TimeShort}." />
+    <TextStringDefinition InstanceID="0x7A953F31" TextString="&lt;span class=&quot;reward-label&quot;&gt;Phần thưởng Thử thách:&lt;/span&gt; &lt;span class=&quot;reward-list&quot;&gt;{0.String}&lt;/span&gt;&lt;br/&gt;" />
+    <TextStringDefinition InstanceID="0x76C14892" TextString="Chọn xem Chuyến đi này có nên tự động lên lịch lại trên lịch hàng tuần không. Chuyến đi này sẽ lặp lại vào những ngày trong tuần đã chọn và kéo dài trong thời gian đặt bên dưới." />
+    <TextStringDefinition InstanceID="0x1208C09D" TextString="Lặp lại Hàng tuần" />
+    <TextStringDefinition InstanceID="0xB840ED6D" TextString="{0.DayOfWeekShort}" />
+    <TextStringDefinition InstanceID="0x023B9C01" TextString="{0.DayOfWeekLong}" />
+    <TextStringDefinition InstanceID="0x0769FB91" TextString="Chọn Nguyện vọng Mới" />
+    <TextStringDefinition InstanceID="0x57D1DE32" TextString="Sự hài lòng của {0.SimFirstName}: {1.Points}" />
+    <TextStringDefinition InstanceID="0x2A125ECD" TextString="Sự hài lòng của {0.SimFirstName}:\n{1.Points}" />
+    <TextStringDefinition InstanceID="0xC416C7D1" TextString="{0.Points}" />
+    <TextStringDefinition InstanceID="0x5CCAA43E" TextString="Đặc điểm Phần thưởng: &lt;font color='#38A666'&gt;{0.String}&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x00FEDE62" TextString="Cửa hàng Phần thưởng" />
+    <TextStringDefinition InstanceID="0x4AE8BB90" TextString="{0.SimFirstName} hiện không có nguyện vọng nào được theo dõi. Bạn có thể chọn một nguyện vọng bằng cách nhấp vào nút &quot;Chọn một Nguyện vọng&quot; ở phía trên bên phải." />
+    <TextStringDefinition InstanceID="0x73F40E08" TextString="Cột mốc {0.String}" />
+    <TextStringDefinition InstanceID="0x886203B0" TextString="Khủng hoảng Tuổi trung niên!" />
+    <TextStringDefinition InstanceID="0xDB531AAF" TextString="Bạn phải là ma để mở khóa phần còn lại của Hành trình Linh hồn." />
+    <TextStringDefinition InstanceID="0xE880F0BF" TextString="{0.String} ({1.Number}/{2.Number})" />
+    <TextStringDefinition InstanceID="0x7E71D991" TextString="Nguyện vọng" />
+    <TextStringDefinition InstanceID="0xEC790AC5" TextString="Nguyện vọng" />

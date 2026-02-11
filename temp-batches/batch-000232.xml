@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xA4DF059E" TextString="Cái thức uống đó cháy bùng! Và giờ nó trong miệng tôi! Tuyệt vời." />
+    <TextStringDefinition InstanceID="0x9F633B9A" TextString="Uống Nhẹ Nhàng" />
+    <TextStringDefinition InstanceID="0x4286D23B" TextString="Giờ thì đã khát! Nó gần như đủ để làm một người chóng mặt." />
+    <TextStringDefinition InstanceID="0x3469E838" TextString="Thức Uống Thất Vọng" />
+    <TextStringDefinition InstanceID="0xBCBB7D6D" TextString="Một Sim Đam Mê Ẩm Thực chỉ thích những thức uống thực sự đầy cảm hứng. Đây không phải một trong số đó." />
+    <TextStringDefinition InstanceID="0xF73BCDB2" TextString="Uống Ấm" />
+    <TextStringDefinition InstanceID="0x3F7055E3" TextString="Một thức uống ấm có thể mang lại một ánh sáng ấm áp cho bất kỳ khoảnh khắc nào." />
+    <TextStringDefinition InstanceID="0x38809881" TextString="Uống Mượt Mà" />
+    <TextStringDefinition InstanceID="0x6F06E5FE" TextString="Một thức uống mượt mà giúp làm cho bất kỳ ngày nào cũng tươi sáng hơn." />
+    <TextStringDefinition InstanceID="0x989437C6" TextString="Thức Uống Tồi Tệ" />
+    <TextStringDefinition InstanceID="0x810BCD1F" TextString="Một vị giác tinh tế sẽ không chịu đựng được thứ rác rưởi như vậy!" />
+    <TextStringDefinition InstanceID="0x7DD24E3B" TextString="Hơi Có Vẻ Khó Chịu" />
+    <TextStringDefinition InstanceID="0x0BFB9C54" TextString="Cái thức uống đó không có vị đúng." />
+    <TextStringDefinition InstanceID="0xFA05C2A8" TextString="Sức Quyến Rũ Của Người Ngoài Hành Tinh Lớn Tuổi" />
+    <TextStringDefinition InstanceID="0x66B2A43D" TextString="Sức quyến rũ dạng lỏng là một món ngon trong không gian, nhưng không thường thấy ở đây trên mặt đất. Cái thức uống đó chứa một cú bùng nổ của sự tự tin và quyến rũ!" />
+    <TextStringDefinition InstanceID="0x5F058613" TextString="Hòa Trộn Tư Tưởng" />
+    <TextStringDefinition InstanceID="0x22FAC0BC" TextString="Thông tin bất ngờ về tư tưởng của các Sim xung quanh khiến một người cảm thấy như một sinh vật xã hội ưu tú." />
+    <TextStringDefinition InstanceID="0x90A6F3ED" TextString="Tăng Cường Cảm Giác Người Ngoài Hành Tinh" />
+    <TextStringDefinition InstanceID="0x1ECD32D2" TextString="Mỗi cơ bắp dường như đột nhiên nhạy bén hơn với thế giới xung quanh." />
+    <TextStringDefinition InstanceID="0x76F24D3E" TextString="Trông Tuyệt Vời!" />
+    <TextStringDefinition InstanceID="0x0DAC1887" TextString="Bạn cảm thấy thật xinh đẹp sau khi thử tất cả những bộ trang phục đó!" />
+    <TextStringDefinition InstanceID="0xD29018C4" TextString="Con Lạc Đà Thua Đêm Nay" />
+    <TextStringDefinition InstanceID="0x6871F3F1" TextString="Thua thử thách Đừng Đánh Thức Con Lạc Đà? Đừng cảm thấy quá tệ. Luôn có vòng tiếp theo..." />
+    <TextStringDefinition InstanceID="0xA6DB0A0F" TextString="Con Lạc Đà Ngủ Đêm Nay" />
+    <TextStringDefinition InstanceID="0xA1AE6840" TextString="Ồ chiến thắng ngọt ngào của việc không phải là kẻ ngốc nghếch kéo cây que cuối cùng." />
+    <TextStringDefinition InstanceID="0x3CC8D767" TextString="Con Lạc Đà Khóc Đêm Nay" />
+    <TextStringDefinition InstanceID="0xE59F73C8" TextString="Sự nhục nhã! Không chỉ Sim của bạn phải đối mặt với sự bất nhã, mà còn phải dọn dẹp đống que buồn bã." />
+    <TextStringDefinition InstanceID="0x0F906128" TextString="Con Lạc Đà Suýt Ngã" />
+    <TextStringDefinition InstanceID="0xF7120BBD" TextString="Suyýt. Đống củi rung đung không phải là đối thủ của đôi bàn tay vững chãi, dữ dội của {0.SimFirstName}." />
+    <TextStringDefinition InstanceID="0x262A9F01" TextString="Có lẽ {0.SimFirstName} không xuất sắc ở Đừng Đánh Thức Con Lạc Đà như {M0.he}{F0.she} nghĩ." />
+    <TextStringDefinition InstanceID="0xE2FA2A3A" TextString="Kẻ Giả Dạng Lạc Đà" />
+    <TextStringDefinition InstanceID="0x9F18C1EC" TextString="Kẻ Phá Rối Nhà Cửa" />
+    <TextStringDefinition InstanceID="0xB6BD8589" TextString="Một số Sim thích chứng kiến và thực hiện sự phá hoại vô cớ!" />
+    <TextStringDefinition InstanceID="0x74A8DEEC" TextString="Vui Vẻ Với Nhà Búp Bê!" />
+    <TextStringDefinition InstanceID="0x8675F489" TextString="Tạo ra những câu chuyện cho những người nhỏ bé luôn là một khoảng thời gian vui vẻ!" />
+    <TextStringDefinition InstanceID="0xF4F14869" TextString="Cảm Hứng Từ Nhà Búp Bê" />
+    <TextStringDefinition InstanceID="0xB2AD7036" TextString="Sự sáng tạo mạnh mẽ với người này." />
+    <TextStringDefinition InstanceID="0xF1B5F03E" TextString="Kẻ Phá Rối Nhà Cửa" />
+    <TextStringDefinition InstanceID="0xD910E987" TextString="Chơi với búp bê vui vẻ, nhưng {0.SimFirstName} tìm thấy niềm vui lớn hơn trong việc phá hủy ngôi nhà búp bê này. Một số thứ chỉ được tạo ra để bị phá hủy! Rar!" />
+    <TextStringDefinition InstanceID="0x2C2ECB61" TextString="Người Xây Dựng Nhà" />
+    <TextStringDefinition InstanceID="0xC1ED305E" TextString="À, tốt hơn nhiều! Giờ thì có mái che trên đầu họ." />
+    <TextStringDefinition InstanceID="0xBC09429F" TextString="(Từ Lặn)" />
+    <TextStringDefinition InstanceID="0xCEDC3982" TextString="Nghệ Thuật Trên Không" />
+    <TextStringDefinition InstanceID="0xB468C4D3" TextString="Thật là một cú lặn đáng kinh ngạc! Như nghệ thuật sống bay qua không khí. Có lẽ lặn là sứ mệnh thực sự của {0.SimFirstName}." />
+    <TextStringDefinition InstanceID="0x13F65F00" TextString="Đồ Bơi Đánh Mất" />
+    <TextStringDefinition InstanceID="0x628AD205" TextString="{0.SimFirstName} không thể tin rằng đồ bơi của {0.SimPronounPossessiveDependent} đã trở nên phóng khoáng sau cú lặn đó! Hy vọng không ai thấy..." />
+    <TextStringDefinition InstanceID="0x34D7429A" TextString="Nguy Hiểm Khi Lặn" />
+    <TextStringDefinition InstanceID="0xD0CDAF3B" TextString="Thật không may, hạ cánh xuống nước có thể gây đau nếu ở tốc độ hoặc góc không đúng. Và &lt;b&gt;ốc&lt;/b&gt;, đó là một cú hạ cánh rough. Nó khiến {0.SimFirstName} cảm thấy hơi choáng váng..." />
+    <TextStringDefinition InstanceID="0x80D5585B" TextString="Thất Bại Lộn Ngược Khủng Khiếp!" />
+    <TextStringDefinition InstanceID="0xCCD249F4" TextString="Thật là một sự thất vọng lộn ngược! Có lẽ đã đến lúc {0.SimFirstName} luyện tập lặn thêm một chút, hoặc simply chìm đắm trong thất bại. Cả hai đều hiệu quả!" />

@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xCD5B7895" TextString="Kiếm được Huy hiệu Bạc trên {1.Number} Cuộc hẹn với Vợ/Chồng" />
+    <TextStringDefinition InstanceID="0xFC8F5D84" TextString="Kết hôn với Bạn thân thiết nhất (BFF)" />
+    <TextStringDefinition InstanceID="0x59C18326" TextString="Đã có {1.Number} Bạn tình lãng mạn" />
+    <TextStringDefinition InstanceID="0x26654D28" TextString="Nhấp vào một Sim và chọn 'Mời Hẹn Hò' từ danh mục Lãng mạn. Khi Sự kiện bắt đầu, hoàn thành các Mục tiêu xuất hiện để đạt điểm cao hơn!" />
+    <TextStringDefinition InstanceID="0x3582BB5E" TextString="Nhấp vào một Sim và chọn 'Hôn' từ danh mục Lãng mạn. Tương tác này được mở khóa bằng cách thực hiện thành công các Tương tác Lãng mạn để tăng Mối quan hệ!" />
+    <TextStringDefinition InstanceID="0x6B59C7DD" TextString="Chọn các Tương tác Lãng mạn để xây dựng Mối quan hệ Lãng mạn. Xây dựng Mối quan hệ cho đến khi Thanh Lãng mạn ít nhất là một nửa đầy." />
+    <TextStringDefinition InstanceID="0x073E6B48" TextString="Để tăng kỹ năng Sức quyến rũ của Sim, giao tiếp với các Sim khác, sử dụng Gương để Luyện nói, hoặc đọc Sách kỹ năng Sức quyến rũ. Sách kỹ năng có thể được mua trực tiếp từ Kệ sách bằng cách sử dụng tương tác Mua Sách!" />
+    <TextStringDefinition InstanceID="0x67289445" TextString="Nhấp vào người yêu hiện tại của một Sim và chọn tương tác 'Chia tay' từ Danh mục Mối quan hệ." />
+    <TextStringDefinition InstanceID="0x706600C0" TextString="Thực hiện các Tương tác Lãng mạn với các Sim mà Sim của bạn chưa từng hôn để mở khóa tương tác 'Nụ hôn Đầu tiên'" />
+    <TextStringDefinition InstanceID="0x601E348A" TextString="Đã có {1.Number} Nụ hôn Đầu tiên" />
+    <TextStringDefinition InstanceID="0x3B789927" TextString="Để tăng kỹ năng Sức quyến rũ của Sim, giao tiếp với các Sim khác, sử dụng Gương để Luyện nói, hoặc đọc Sách kỹ năng Sức quyến rũ. Sách kỹ năng có thể được mua trực tiếp từ Kệ sách bằng cách sử dụng tương tác Mua Sách!" />
+    <TextStringDefinition InstanceID="0x5EEE86D3" TextString="Nhấp vào Vợ/Chồng của một Sim và chọn tương tác 'Mời Hẹn Hò' từ danh mục Lãng mạn. Khi Sự kiện bắt đầu, hoàn thành các Mục tiêu xuất hiện để đạt điểm cao hơn!" />
+    <TextStringDefinition InstanceID="0x415FEDF2" TextString="Đối xử xa hoa với Vợ/Chồng của Sim bằng các Tương tác Lãng mạn sau khi đạt trạng thái Bạn tâm giao." />
+    <TextStringDefinition InstanceID="0x5D64916A" TextString="Mối quan hệ này được kiếm được bằng cách có Mức độ Bạn bè và Lãng mạn cực kỳ cao với một Sim khác." />
+    <TextStringDefinition InstanceID="0x76384EAB" TextString="Nhấp vào Vợ/Chồng của một Sim và chọn tương tác 'Mời Hẹn Hò' từ danh mục Lãng mạn. Khi Sự kiện bắt đầu, hoàn thành các Mục tiêu xuất hiện để đạt điểm cao hơn!" />
+    <TextStringDefinition InstanceID="0x81762CF1" TextString="Nhấp vào người yêu hiện tại của một Sim và chọn 'Kết hôn' dưới danh mục Lãng mạn. Sim có thể mở khóa tương tác này bằng cách Đề nghị hôn với người yêu hiện tại của họ." />
+    <TextStringDefinition InstanceID="0xFBB8592C" TextString="Để ăn mừng, nhấp vào bếp lò để chọn Công thức Bánh. Sau đó, Sim có thể Thêm Nến sinh nhật và sau đó Tổ chức buổi lễ!" />
+    <TextStringDefinition InstanceID="0xF1ECEAF8" TextString="Nhấp vào một Sim và chọn các tương tác &quot;Mời Hẹn Hò&quot; hoặc &quot;Yêu cầu Tạo Cuộc hẹn&quot; từ danh mục Lãng mạn hoặc Bảng Mối quan hệ. Các tương tác này được mở khóa bằng cách thực hiện thành công các Tương tác Lãng mạn để tăng Mối quan hệ!" />
+    <TextStringDefinition InstanceID="0xE0320577" TextString="Tham gia {1.Number} Cuộc hẹn" />
+    <TextStringDefinition InstanceID="0x77A8ECD3" TextString="Sau khi thực hiện các tương tác lãng mạn với một Sim khác, nhấp vào họ và chọn 'Yêu cầu trở thành Bạn tình lãng mạn' từ danh mục Lãng mạn." />
+    <TextStringDefinition InstanceID="0x464F39CD" TextString="Nhấp vào một Sim và chọn 'Hôn' từ danh mục Lãng mạn. Tương tác này được mở khóa bằng cách thực hiện thành công các Tương tác Lãng mạn để tăng Mối quan hệ!" />
+    <TextStringDefinition InstanceID="0x88109E50" TextString="Có một Bạn tình lãng mạn" />
+    <TextStringDefinition InstanceID="0xC4D5C1FA" TextString="Sửa chữa hoặc Nâng cấp {1.Number} Đồ vật" />
+    <TextStringDefinition InstanceID="0xB31C7EAA" TextString="Để tăng kỹ năng Tư duy, chơi Cờ vua hoặc thực hiện các nhiệm vụ trí tuệ khác." />
+    <TextStringDefinition InstanceID="0x498A738E" TextString="Với một Sim người lớn được chọn, nhấp vào một Cuốn sách và chọn 'Đọc cho Trẻ em' khi có trẻ em hiện diện." />
+    <TextStringDefinition InstanceID="0x2E912A09" TextString="Đọc chung với Người lớn trong {1.Number} Giờ" />
+    <TextStringDefinition InstanceID="0xE2FF8FAF" TextString="Bàn Cờ vua có thể được mua từ Chế độ Xây dựng dưới Lựa chọn Phòng học." />
+    <TextStringDefinition InstanceID="0xC287407D" TextString="Đạt Trình độ 10 Kỹ năng Sáng tạo" />
+    <TextStringDefinition InstanceID="0x61B2BA44" TextString="Vẽ Tất cả {1.Number} Loại Hình trên Bàn Hoạt động" />
+    <TextStringDefinition InstanceID="0x80D79D32" TextString="Vẽ {1.Number} Bức tranh khi ở Trạng thái Cảm hứng" />
+    <TextStringDefinition InstanceID="0x87095B4C" TextString="Đạt Trình độ 5 Kỹ năng Sáng tạo" />
+    <TextStringDefinition InstanceID="0xC5316789" TextString="Có một Bàn Hoạt động" />
+    <TextStringDefinition InstanceID="0xD5E22F2E" TextString="Để tăng Kỹ năng Sáng tạo, chơi với Đồ chơi hoặc tạo ra thứ gì đó bằng cách sử dụng Bàn Hoạt động." />
+    <TextStringDefinition InstanceID="0xA5DB37AD" TextString="Nhấp vào Bàn Hoạt động để chọn một loại hình tranh để vẽ." />
+    <TextStringDefinition InstanceID="0x64F4A7D8" TextString="Trẻ em Sim có thể chơi Đàn piano hoặc Đàn violin trẻ em. Các nhạc cụ này có thể được mua từ Chế độ Xây dựng dưới Lựa chọn Phòng học." />
+    <TextStringDefinition InstanceID="0x4CE6AF97" TextString="Chơi Nhạc cụ tổng cộng {1.Number} Giờ" />
+    <TextStringDefinition InstanceID="0xF1C81D15" TextString="Nhấp vào Bàn Hoạt động và chọn một bức tranh để vẽ khi ở trạng thái Cảm hứng. Để trở nên Cảm hứng, hãy tắm Suy nghĩ, Đọc sách, hoặc làm Công việc Sáng tạo." />
+    <TextStringDefinition InstanceID="0x35FF4450" TextString="Trẻ em có thể chơi với nhà búp bê, hộp đồ chơi, thú bông, hoặc thiết bị sân chơi!" />
+    <TextStringDefinition InstanceID="0x1FFCE971" TextString="Chơi với {1.Number} Đồ chơi" />
+    <TextStringDefinition InstanceID="0xCDE92177" TextString="Để tăng Kỹ năng Sáng tạo, chơi với Đồ chơi hoặc tạo ra thứ gì đó bằng cách sử dụng Bàn Hoạt động." />
+    <TextStringDefinition InstanceID="0x9D386413" TextString="Bàn Hoạt động có thể được mua từ Chế độ Xây dựng dưới Lựa chọn Phòng trẻ em." />
+    <TextStringDefinition InstanceID="0xAD4BB47C" TextString="Đạt Cân nặng Tối đa của Sim" />
+    <TextStringDefinition InstanceID="0x70327715" TextString="Đạt Trình độ 10 Kỹ năng Thể hình" />
+    <TextStringDefinition InstanceID="0x65A516FE" TextString="Đạt Trình độ 6 Kỹ năng Thể hình" />
+    <TextStringDefinition InstanceID="0x731B3BEF" TextString="Vượt qua Giới hạn trong 1 Giờ khi ở Trạng thái Đầy năng lượng" />
+    <TextStringDefinition InstanceID="0x40E8D269" TextString="Tập luyện Tổng cộng 8 Giờ" />
+    <TextStringDefinition InstanceID="0xDE4002B6" TextString="Sở hữu 2 Món thiết bị Tập thể dục" />
+    <TextStringDefinition InstanceID="0xEC1F4728" TextString="Tiếp tục tập luyện một cách đều đặn để đạt được cơ bắp tối đa!" />
+    <TextStringDefinition InstanceID="0xC7780FDF" TextString="Để tăng Kỹ năng Thể hình, tập luyện bằng cách sử dụng Máy chạy bộ, Máy tập thể dục, hoặc Túi đánh bóng. Ngoài ra, Sim cũng có thể Chạy bộ!" />
+    <TextStringDefinition InstanceID="0x51D17210" TextString="Dành {1.Number} Giờ cho Việc tập thể dục" />

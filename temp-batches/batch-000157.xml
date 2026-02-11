@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x0C6BD0DF" TextString="Yêu cầu {2.SimFirstName} được tha" />
+    <TextStringDefinition InstanceID="0x3C41F093" TextString="Nướng thịt" />
+    <TextStringDefinition InstanceID="0xB4D98219" TextString="Làm sạch đầy nhiệt huyết" />
+    <TextStringDefinition InstanceID="0x60A3755F" TextString="Sim có năng lượng làm sạch nhanh hơn nhiều!" />
+    <TextStringDefinition InstanceID="0xA4D58921" TextString="Phục vụ {1.ObjectName}" />
+    <TextStringDefinition InstanceID="0x27AE7778" TextString="Vỗ về chiếc đĩa" />
+    <TextStringDefinition InstanceID="0x3B057E10" TextString="Đi đến vị trí của bức ảnh" />
+    <TextStringDefinition InstanceID="0x597A947C" TextString="Đi đến vị trí đã lưu" />
+    <TextStringDefinition InstanceID="0x82FA825D" TextString="Đi đến Willow Creek" />
+    <TextStringDefinition InstanceID="0xE79B1E3F" TextString="Bạn có muốn gửi {0.SimFirstName} đến Willow Creek?" />
+    <TextStringDefinition InstanceID="0xF8122509" TextString="Đi đến Foundry Cove" />
+    <TextStringDefinition InstanceID="0x277C9EDB" TextString="Bạn có muốn gửi {0.SimFirstName} đến Foundry Cove?" />
+    <TextStringDefinition InstanceID="0x9C191043" TextString="Đi đến Công viên Desert Bloom" />
+    <TextStringDefinition InstanceID="0xAF27ED51" TextString="Bạn có muốn gửi {0.SimFirstName} đến Công viên Desert Bloom?" />
+    <TextStringDefinition InstanceID="0x4603DFFD" TextString="Xúc phạm" />
+    <TextStringDefinition InstanceID="0x15DF92E3" TextString="Khen ngợi" />
+    <TextStringDefinition InstanceID="0x7419426B" TextString="(Từ việc thành công khi khen ngợi ai đó)" />
+    <TextStringDefinition InstanceID="0x84542BAB" TextString="(Từ việc có một cuộc trò chuyện hấp dẫn)" />
+    <TextStringDefinition InstanceID="0x1FA9BA4D" TextString="Tôi rất đầy hy vọng khi bước vào cuộc trò chuyện đó, nhưng sau khi dành một khoảng thời gian ngắn với {2.SimFirstName}, tôi đã nhận ra rõ ràng rằng chúng tôi không phải là người bạn dành cho nhau." />
+    <TextStringDefinition InstanceID="0x4FB9CE2B" TextString="Tôi để lạc quan chiếm lấy tôi, {0.SimFirstName}. {2.SimFirstName} và tôi có những tiêu chuẩn hành động khác nhau; tôi không thấy cách nào để vượt qua điều đó." />
+    <TextStringDefinition InstanceID="0xD3C814C8" TextString="Thật không may, {2.SimFirstName} và tôi đã cố gắng giải quyết, nhưng chúng tôi thực sự chỉ là hai người hoàn toàn khác biệt." />
+    <TextStringDefinition InstanceID="0xB00114EF" TextString="(Từ việc thất bại khi khen ngợi ai đó)" />
+    <TextStringDefinition InstanceID="0x58DB76A0" TextString="(Từ việc có một cuộc trò chuyện không thu hút)" />
+    <TextStringDefinition InstanceID="0xE8CAD9D0" TextString="Thả thính" />
+    <TextStringDefinition InstanceID="0x658E5C87" TextString="(Từ việc được kết nối với một Sim khác)" />
+    <TextStringDefinition InstanceID="0x6F2961D3" TextString="(Từ việc kết nối các Sim khác)" />
+    <TextStringDefinition InstanceID="0x92F17E49" TextString="(Từ việc kết nối các Sim đang trong một mối quan hệ)" />
+    <TextStringDefinition InstanceID="0x987E6C27" TextString="(Từ việc bị kết nối với một Sim trong một mối quan hệ)" />
+    <TextStringDefinition InstanceID="0x47AFDE39" TextString="(Từ việc thất bại khi kết nối các Sim)" />
+    <TextStringDefinition InstanceID="0x57354059" TextString="(Từ một lần kết nối thất bại)" />
+    <TextStringDefinition InstanceID="0xCD75E7D3" TextString="Chia tay" />
+    <TextStringDefinition InstanceID="0x0253923B" TextString="{2.SimFirstName} không chịu nổi, nhưng tôi không thể ở lại với {F2.cô ấy}{M2.anh ấy} nữa." />
+    <TextStringDefinition InstanceID="0x4CBB4EEA" TextString="Xong rồi, {2.SimFirstName} và tôi đã kết thúc!" />
+    <TextStringDefinition InstanceID="0xD1E8A0E3" TextString="Đi đến Đại học" />
+    <TextStringDefinition InstanceID="0x21C9EBF3" TextString="Bạn có muốn gửi {0.SimFirstName} đến Sylvan Glade?" />
+    <TextStringDefinition InstanceID="0xD3113738" TextString="Đi du lịch" />
+    <TextStringDefinition InstanceID="0xF771C1A7" TextString="Đi về nhà" />
+    <TextStringDefinition InstanceID="0x7077A726" TextString="Bạn có muốn gửi {0.SimFirstName} về nhà?" />
+    <TextStringDefinition InstanceID="0x51341F24" TextString="Bạn có muốn gửi {0.SimFirstName} đến Hang động Bị Lãng Quên?" />
+    <TextStringDefinition InstanceID="0x4CA3A556" TextString="Buổi họp Sim tại Công viên Magnolia Blossom bắt đầu lúc 12 giờ trưa vào Chủ nhật!" />
+    <TextStringDefinition InstanceID="0x8332FA1A" TextString="Đi đến Địa điểm của Buổi họp Sim" />
+    <TextStringDefinition InstanceID="0x465D4C96" TextString="Cho tiền boa" />
+    <TextStringDefinition InstanceID="0x1D8057D6" TextString="Cảm ơn!" />
+    <TextStringDefinition InstanceID="0x50FBF23D" TextString="Quà tặng cho" />
+    <TextStringDefinition InstanceID="0x4ADDEA61" TextString="Đốt lửa" />
+    <TextStringDefinition InstanceID="0x0CDEE464" TextString="{0.SimFirstName} không sở hữu Lô đất này." />
+    <TextStringDefinition InstanceID="0x8DDF0684" TextString="Hồi sinh" />
+    <TextStringDefinition InstanceID="0xF0403A82" TextString="Chiếm hữu để phá hủy" />
+    <TextStringDefinition InstanceID="0xBD936B9B" TextString="Không thể phá hủy vật thể không thể phá hủy" />
+    <TextStringDefinition InstanceID="0x2D3EBD19" TextString="Chiếm hữu" />

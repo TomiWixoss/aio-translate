@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x66623CE2" TextString="Trò Đùa" />
+    <TextStringDefinition InstanceID="0xB1989A3F" TextString="Thủ Đoạn" />
+    <TextStringDefinition InstanceID="0xE8AD7CE5" TextString="Chăm Sóc Trẻ Em" />
+    <TextStringDefinition InstanceID="0x33DA4551" TextString="Người Khác" />
+    <TextStringDefinition InstanceID="0x9BB70A2D" TextString="Chọn Tùy Chọn Cho Ăn" />
+    <TextStringDefinition InstanceID="0x38FD5141" TextString="Đặt Màu Sắc và Cường Độ" />
+    <TextStringDefinition InstanceID="0xCC42E959" TextString="Pha Thuốc" />
+    <TextStringDefinition InstanceID="0xAD752559" TextString="Yêu Cầu Rời Đi" />
+    <TextStringDefinition InstanceID="0xD004A284" TextString="Yêu Cầu Ở Lại" />
+    <TextStringDefinition InstanceID="0xE4B5FD32" TextString="Giả Vờ Chơi" />
+    <TextStringDefinition InstanceID="0xAAE589BF" TextString="Hoạt Động Lễ Cưới" />
+    <TextStringDefinition InstanceID="0xD2FB1AF2" TextString="Hàng Hóa Bí Ẩn" />
+    <TextStringDefinition InstanceID="0xCFC23DF6" TextString="Làm Ma Thuật" />
+    <TextStringDefinition InstanceID="0x87B6A2AC" TextString="Sửa Đổi Kết Quả Máy Bán Hàng" />
+    <TextStringDefinition InstanceID="0x9C527C3B" TextString="Tiện Ích" />
+    <TextStringDefinition InstanceID="0xC9516238" TextString="Mở Khóa Máy Tính Cho" />
+    <TextStringDefinition InstanceID="0x7E8F0140" TextString="Trang Phục Đi Bơi" />
+    <TextStringDefinition InstanceID="0x3CC5E42A" TextString="Trang Phục Ngủ" />
+    <TextStringDefinition InstanceID="0x8F893955" TextString="Trang Phục Tiệc" />
+    <TextStringDefinition InstanceID="0x7C9F1716" TextString="Truyền Cảm Hứng Cho Trang Phục Bằng Cảm Xúc" />
+    <TextStringDefinition InstanceID="0xC8816C74" TextString="Trang Phục Lễ Trang" />
+    <TextStringDefinition InstanceID="0x0BB88908" TextString="Trang Phục Hàng Ngày" />
+    <TextStringDefinition InstanceID="0x56B1ACEA" TextString="Tùy Chỉnh Bảng" />
+    <TextStringDefinition InstanceID="0x79B0FFF9" TextString="Trang Phục Nghề Nghiệp" />
+    <TextStringDefinition InstanceID="0xBDA7362B" TextString="Trang Phục Thể Thao" />
+    <TextStringDefinition InstanceID="0x43F37952" TextString="Thay Đổi Mối Quan Hệ" />
+    <TextStringDefinition InstanceID="0xA274263C" TextString="Tìm Hiểu Thêm" />
+    <TextStringDefinition InstanceID="0x07C2FA45" TextString="Thẻ Học Tập" />
+    <TextStringDefinition InstanceID="0x3E9EF089" TextString="Hỗ Trợ" />
+    <TextStringDefinition InstanceID="0x710A2195" TextString="Cài Đặt Lô Đất" />
+    <TextStringDefinition InstanceID="0x705B5BC4" TextString="Đặt Loại Bồn Rửa" />
+    <TextStringDefinition InstanceID="0x8B597502" TextString="Thách thức kẻ thù đã tuyên bố bằng một trò chơi... và thắng!" />
+    <TextStringDefinition InstanceID="0x696AF14D" TextString="Thắng Một Trò Chơi Chống Lại Kẻ Thù" />
+    <TextStringDefinition InstanceID="0x8852F2CC" TextString="Sử dụng tương tác Nói Xấu với các Sim khác ngoài kẻ thù, sau đó chọn kẻ thù của bạn." />
+    <TextStringDefinition InstanceID="0x365E04EB" TextString="Nói Xấu Kẻ Thù" />
+    <TextStringDefinition InstanceID="0xDC94D8B9" TextString="Thực hiện các hành động logic cho đến khi Sim đạt cấp độ 3 trong Logic." />
+    <TextStringDefinition InstanceID="0xC891BFBC" TextString="Đạt Cấp Độ 3 Trong Logic" />
+    <TextStringDefinition InstanceID="0xDEEB6B0A" TextString="Thực hiện các hành động thủ đoạn cho đến khi Sim đạt cấp độ 3 trong Thủ Đoạn." />
+    <TextStringDefinition InstanceID="0xA6786D55" TextString="Đạt Cấp Độ 3 Trong Thủ Đoạn" />
+    <TextStringDefinition InstanceID="0x76F0204B" TextString="Khi đang trong tâm trạng tức giận, hãy xả căng thẳng và làm sạch tâm trí thông qua tập luyện." />
+    <TextStringDefinition InstanceID="0x671B6562" TextString="Tập Luyện Để Có Tâm Trí Thông Thái" />
+    <TextStringDefinition InstanceID="0x415D1B70" TextString="Hoàn thành các tương tác khi đang trong tâm trạng tức giận." />
+    <TextStringDefinition InstanceID="0x836217EF" TextString="Thực Hiện Tương Tác Khi Tức Giận" />
+    <TextStringDefinition InstanceID="0xD4E373C7" TextString="Hãy chắc chắn rằng bạn đã có một kẻ thù đã tuyên bố, sau đó đối xử tệ bạc với họ như họ xứng đáng!" />
+    <TextStringDefinition InstanceID="0x1719FC2E" TextString="Đối Xử Tệ Bạc Với Một Kẻ Thù Đã Tuyên Bố" />
+    <TextStringDefinition InstanceID="0x27B512A6" TextString="Tiếp tục đối xử tệ bạc với một Sim cho đến khi bạn có thể tuyên bố họ là kẻ thù." />
+    <TextStringDefinition InstanceID="0x5E40F161" TextString="Có Một Kẻ Thù Đã Tuyên Bố" />
+    <TextStringDefinition InstanceID="0xEF9F9C94" TextString="Đi du lịch khỏi lô đất nhà của bạn bằng Bản Đồ Thế Giới, sau đó Cố Gắng Đánh Cắp các vật có giá trị tìm thấy ở đó!" />
+    <TextStringDefinition InstanceID="0x8C5134D3" TextString="Đánh Cắp Đồ Có Giá Trị {1.Money}" />
+    <TextStringDefinition InstanceID="0x6F6657B3" TextString="Dưới mục Xã Hội Xấu, trong mục &quot;Người Khác...&quot; thực hiện tương tác Chia Tay để thuyết phục một Sim chia tay hoặc ly dị người yêu của họ." />

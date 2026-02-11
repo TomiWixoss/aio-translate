@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x55A0E0C2" TextString="Quy tắc Căn hộ" />
+    <TextStringDefinition InstanceID="0x3831DD9D" TextString="Đánh giá Căn hộ" />
+    <TextStringDefinition InstanceID="0xF204A228" TextString="Chi tiết Căn hộ cho {0.String}" />
+    <TextStringDefinition InstanceID="0xF38BD1A2" TextString="Đây là chi tiết hợp đồng thuê được đặt cho căn hộ này" />
+    <TextStringDefinition InstanceID="0xC29629AF" TextString="Chọn một hộ gia đình để chuyển vào căn hộ này." />
+    <TextStringDefinition InstanceID="0x729333B2" TextString="Điền vào vị trí trống" />
+    <TextStringDefinition InstanceID="0xE63B1C83" TextString="Chỉnh sửa danh hiệu Vương quốc" />
+    <TextStringDefinition InstanceID="0x2E836E4A" TextString="Sắc lệnh Quý tộc Đang hoạt động" />
+    <TextStringDefinition InstanceID="0x89BD32A7" TextString="Chỉnh sửa danh hiệu Vương quốc" />
+    <TextStringDefinition InstanceID="0x91E76A57" TextString="Gán danh hiệu Tùy chỉnh cho Vương quốc {0.String}" />
+    <TextStringDefinition InstanceID="0x1295973D" TextString="Trước khi bạn có thể điền vào vị trí trống cho căn hộ này, bạn phải quay về nhà." />
+    <TextStringDefinition InstanceID="0x1C04F6A6" TextString="Hoàn tất" />
+    <TextStringDefinition InstanceID="0x88F49E4F" TextString="Tìm một Hộ Gia đình Thuê để sống trong Căn hộ này và trở thành Chủ Sở hữu Bất động sản! Thiết lập Thời hạn Thuê và Tiền Thuê Mỗi Ngày thông qua Thỏa thuận Thuê trước khi chuyển người thuê vào. Tiền thuê cho tất cả các căn hộ sở hữu sẽ được thu vào cuối tuần cùng với các hóa đơn đến hạn. Cẩn thận khi thay đổi bất kỳ chi tiết nào trên Thỏa thuận Thuê sau khi Người thuê đã chuyển vào, vì điều đó sẽ ảnh hưởng tiêu cực đến đánh giá căn hộ!" />
+    <TextStringDefinition InstanceID="0x0198D4F5" TextString="Chọn Nguyên nhân Tử vong!" />
+    <TextStringDefinition InstanceID="0x07CDB929" TextString="Concept Artist Chính - Backyard Stuff" />
+    <TextStringDefinition InstanceID="0xC58DDBF4" TextString="Bạn đang Ngoại tuyến." />
+    <TextStringDefinition InstanceID="0x5DF94BA4" TextString="Thiết lập kết nối Internet để xem những tác phẩm mới nhất trong The Gallery!" />
+    <TextStringDefinition InstanceID="0x05347521" TextString="Bạn đang Ngoại tuyến." />
+    <TextStringDefinition InstanceID="0xCA65537E" TextString="Tham gia vui vẻ!" />
+    <TextStringDefinition InstanceID="0x8FAE0772" TextString="Xem những tác phẩm mới nhất trong The Gallery &amp; chia sẻ những mình yêu thích trên Facebook." />
+    <TextStringDefinition InstanceID="0x9CC0328A" TextString="Không thể sửa đổi tiêu chí cho một vai trò trong một khung thời gian cụ thể." />
+    <TextStringDefinition InstanceID="0xDE8E3FC7" TextString="Đặt tổng số Sim cho vai trò này. Nếu ít Sim được chỉ định hơn tổng số, các vị trí còn lại sẽ được điền bởi các Sim ngẫu nhiên đáp ứng tiêu chí." />
+    <TextStringDefinition InstanceID="0x37BF7ADD" TextString="Thêm Tiêu chí" />
+    <TextStringDefinition InstanceID="0xB5CCA6ED" TextString="Số Sim hiện tại vượt quá số Sim được chỉ định cho vai trò này." />
+    <TextStringDefinition InstanceID="0xCC7FAA7D" TextString="Chấp nhận" />
+    <TextStringDefinition InstanceID="0xCD0EABA6" TextString="Thuộc tính Vai trò" />
+    <TextStringDefinition InstanceID="0xE8F818C1" TextString="Không thể chỉ định Sim trong chế độ chỉnh sửa lô đất" />
+    <TextStringDefinition InstanceID="0x612F2B13" TextString="Lưu vai trò này dưới dạng vai trò mới trong lịch trình." />
+    <TextStringDefinition InstanceID="0x669224BA" TextString="Vai trò phải có tên." />
+    <TextStringDefinition InstanceID="0xF3B4241B" TextString="Nếu được chọn, vai trò này cũng sẽ được lưu vào &lt;b&gt;Thư viện Vai trò&lt;/b&gt;." />
+    <TextStringDefinition InstanceID="0x2AC4F22B" TextString="Cũng lưu vào thư viện" />
+    <TextStringDefinition InstanceID="0x2C62CBC7" TextString="Không thể chỉnh sửa vai trò trong Thư viện." />
+    <TextStringDefinition InstanceID="0x4BCF960B" TextString="Chỉ định Sim" />
+    <TextStringDefinition InstanceID="0x8441D0EE" TextString="Vai trò mới chưa được tạo." />
+    <TextStringDefinition InstanceID="0xB681DAF0" TextString="Xóa {0.String}?" />
+    <TextStringDefinition InstanceID="0xFF6966BF" TextString="Bạn có chắc chắn muốn xóa {0.String}?  Điều này sẽ không ảnh hưởng đến lịch trình hiện tại hoặc bất kỳ lịch trình nào khác có vai trò dựa trên vai trò thư viện này." />
+    <TextStringDefinition InstanceID="0x32563C61" TextString="Bạn có chắc chắn muốn xóa {0.String}?  Tất cả các trường hợp sử dụng nó trong lịch trình này cũng sẽ bị xóa." />
+    <TextStringDefinition InstanceID="0x12122815" TextString="Xóa Vai trò" />
+    <TextStringDefinition InstanceID="0x108BF462" TextString="Một vai trò với tên này đã tồn tại trong Thư viện Vai trò. Vui lòng chọn một tên khác." />
+    <TextStringDefinition InstanceID="0x554AA34E" TextString="Tên này đã được sử dụng. Vui lòng chọn một tên khác để lưu dưới dạng vai trò mới." />
+    <TextStringDefinition InstanceID="0x9A1A80FA" TextString="Một vai trò với tên này đã tồn tại. Vui lòng chọn một tên khác để lưu dưới dạng vai trò mới." />
+    <TextStringDefinition InstanceID="0xDE77612C" TextString="Không thể xóa các vai trò được tạo sẵn." />
+    <TextStringDefinition InstanceID="0xCAFAD710" TextString="Loại bỏ Thay đổi?" />
+    <TextStringDefinition InstanceID="0x92E55A08" TextString="Bạn có chắc chắn muốn loại bỏ những thay đổi bạn đã thực hiện?" />
+    <TextStringDefinition InstanceID="0x820C8C35" TextString="Không thể thêm vai trò vào lịch trình. Bạn đã đạt đến số lượng tối đa là {0.Number} vai trò." />
+    <TextStringDefinition InstanceID="0xF6BF5807" TextString="Đã Thêm Thành công" />
+    <TextStringDefinition InstanceID="0x43C9548F" TextString="Vai trò này đã được thêm thành công vào lịch trình hiện tại." />
+    <TextStringDefinition InstanceID="0x77632EA5" TextString="Thêm vào Vai trò Hiện tại" />
+    <TextStringDefinition InstanceID="0x6A476CB4" TextString="Xác nhận thay đổi" />
+    <TextStringDefinition InstanceID="0x85939574" TextString="Lưu Vai trò" />

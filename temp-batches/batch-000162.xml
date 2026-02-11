@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xD9B244CB" TextString="Không có người phát trực tiếp nào đang hoạt động." />
+    <TextStringDefinition InstanceID="0xA1B587B4" TextString="Nghiên cứu Chiến lược Game Nâng cao" />
+    <TextStringDefinition InstanceID="0xD939F911" TextString="Hiện không còn gì để học." />
+    <TextStringDefinition InstanceID="0xC78054D0" TextString="Sử dụng Máy tính Cầm tay" />
+    <TextStringDefinition InstanceID="0x2C96D1C5" TextString="Tiếp tục Cài đặt RAM ECC" />
+    <TextStringDefinition InstanceID="0x518E1C1E" TextString="RAM ECC, hay bộ nhớ kiểm tra và sửa lỗi, sẽ giảm khả năng máy tính bị hỏng." />
+    <TextStringDefinition InstanceID="0xFB9C7613" TextString="Bộ nhớ ECC" />
+    <TextStringDefinition InstanceID="0x1CFDD4AD" TextString="Tiếp tục Cài đặt IP Spoofer" />
+    <TextStringDefinition InstanceID="0x65964166" TextString="Một nâng cấp tiện lợi cho những người quan tâm đến hacking." />
+    <TextStringDefinition InstanceID="0xF1ED80CB" TextString="IP Spoofer" />
+    <TextStringDefinition InstanceID="0xFADE32DC" TextString="Tiếp tục Cài đặt Card đồ họa Tốt hơn" />
+    <TextStringDefinition InstanceID="0xE94F12AB" TextString="Bất kỳ game thủ nào cũng muốn có một card đồ họa được nâng cấp." />
+    <TextStringDefinition InstanceID="0x554CCF88" TextString="Card đồ họa Tốt hơn" />
+    <TextStringDefinition InstanceID="0x5229978D" TextString="Nâng cấp hoàn tất!\n\n{0.SimFirstName} đã hoàn thành việc cài đặt nâng cấp máy tính." />
+    <TextStringDefinition InstanceID="0x8111C77A" TextString="Xóa Tự doanh" />
+    <TextStringDefinition InstanceID="0x05D0A6C9" TextString="Hộ gia đình" />
+    <TextStringDefinition InstanceID="0x21080D75" TextString="Nhân viên" />
+    <TextStringDefinition InstanceID="0xE7707C02" TextString="Người quản gia" />
+    <TextStringDefinition InstanceID="0x5B30B5ED" TextString="{0.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xFE2EDD72" TextString="Ôm nhau vì Trolling Diễn đàn" />
+    <TextStringDefinition InstanceID="0xD2637213" TextString="Cho Thời gian Nghỉ vì Trolling Diễn đàn" />
+    <TextStringDefinition InstanceID="0x8937B055" TextString="Mắng vì Trolling Diễn đàn" />
+    <TextStringDefinition InstanceID="0x46C4BE07" TextString="Yêu cầu Không Trolling Diễn đàn" />
+    <TextStringDefinition InstanceID="0xABBC9D62" TextString="Nói Không Trolling Diễn đàn" />
+    <TextStringDefinition InstanceID="0xCC11626A" TextString="Thể hiện Sự thất vọng về Trolling Diễn đàn" />
+    <TextStringDefinition InstanceID="0x8DE2BE62" TextString="Cấm túc vì Trolling Diễn đàn" />
+    <TextStringDefinition InstanceID="0xBEE4D1A0" TextString="Khuyến khích Trolling Diễn đàn" />
+    <TextStringDefinition InstanceID="0xBB3550C4" TextString="Ghi lại Hướng dẫn Phong cách" />
+    <TextStringDefinition InstanceID="0xCDBE6B1C" TextString="Blog Thời trang" />
+    <TextStringDefinition InstanceID="0xB146ADA5" TextString="Hướng dẫn Phong cách Blog" />
+    <TextStringDefinition InstanceID="0x1C101757" TextString="Gửi Bài viết" />
+    <TextStringDefinition InstanceID="0x1D099DD2" TextString="Xuất bản Chuyên mục" />
+    <TextStringDefinition InstanceID="0x830287CC" TextString="Nghiên cứu Đối thủ" />
+    <TextStringDefinition InstanceID="0xCB44ED17" TextString="Viết Câu chuyện Nhà búp bê" />
+    <TextStringDefinition InstanceID="0x6793DF76" TextString="{0.SimFirstName} cần mở khóa nhà văn bên trong {F0.her}{M0.his} để làm việc này. Hãy đi tìm điều gì đó vui để làm một lúc!" />
+    <TextStringDefinition InstanceID="0xDA0F3E38" TextString="Tách khỏi Hộ gia đình và Di chuyển" />
+    <TextStringDefinition InstanceID="0xAB1BC457" TextString="Gửi Yêu cầu Tiền Spam" />
+    <TextStringDefinition InstanceID="0x4343EE1C" TextString="Kế hoạch của {0.SimFirstName} đã thành công và lấy được một ít tiền cho {M0.him}{F0.her}!" />
+    <TextStringDefinition InstanceID="0x3E5BF43D" TextString="Nỗ lực lừa đảo tiền từ những người Sims vô tội của {0.SimFirstName} đã thất bại thảm hại!" />
+    <TextStringDefinition InstanceID="0x35417937" TextString="Tải lên Video Virus" />
+    <TextStringDefinition InstanceID="0xFEB63BA1" TextString="Ghi chép Nghiên cứu" />
+    <TextStringDefinition InstanceID="0x2512EAFE" TextString="Thật là một thành tựu! {0.SimFirstName} đã hoàn thành việc viết một cuốn sách. Cuốn sách sẽ được thêm vào kho đồ của {M0.his}{F0.her} để thưởng thức đọc sách trong tương lai." />
+    <TextStringDefinition InstanceID="0x75AFAAF1" TextString="Thật là một thành tựu! {0.SimFirstName} đã hoàn thành việc viết một cuốn sách. Cuốn sách sẽ được thêm vào kho đồ của {M0.his}{F0.her} để thưởng thức đọc sách trong tương lai. {0.SimFirstName} cũng có thể Xuất bản nó--chỉ cần nhấp vào Hộp thư!" />
+    <TextStringDefinition InstanceID="0xE6D690C1" TextString="Soạn Thảo Chương trình Ngắn" />
+    <TextStringDefinition InstanceID="0x3B2D2B20" TextString="Soạn Thảo Chương trình Trung bình" />
+    <TextStringDefinition InstanceID="0x2EE1A885" TextString="Soạn Thảo Chương trình Dài" />
+    <TextStringDefinition InstanceID="0xA78AACC3" TextString="Trò chuyện trong Phòng trò chuyện Trẻ em" />
+    <TextStringDefinition InstanceID="0x52F88217" TextString="Kiểm tra Công việc" />
+    <TextStringDefinition InstanceID="0x31B707D3" TextString="Nghiên cứu Cổ phiếu" />
+    <TextStringDefinition InstanceID="0x2BA38F0B" TextString="Đầu tư vào Cổ phiếu" />

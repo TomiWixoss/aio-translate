@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x468E9B98" TextString="{0.SimFirstName} đã mơ bị người ngoài hành tinh bắt cóc. Thật là một cơn ác mộng! Tuy nhiên, theo ý kiến của {0.SimFirstName}, thì hơi nhàm chán một chút." />
+    <TextStringDefinition InstanceID="0xC7881E59" TextString="{0.SimFirstName} có một cơn ác mộng về việc được tặng tai nghe miễn phí. {0.SimFirstName} không chắc tại sao, nhưng chỉ cảm thấy có gì đó không ổn." />
+    <TextStringDefinition InstanceID="0xC5DA6EAD" TextString="{0.SimFirstName} có một cơn ác mộng về việc mua một bức tranh hề kỳ lạ từ một phiên bán đồ cũ... và sau đó có tiếng gõ cửa..." />
+    <TextStringDefinition InstanceID="0xF5BA4E41" TextString="{0.SimFirstName} có một cơn ác mộng về việc trở thành thí sinh trong một chương trình truyền hình thực tế bị một giám khắc khó tính với bộ ria đẹp chê bai. Kinh quá!" />
+    <TextStringDefinition InstanceID="0x3EA22D44" TextString="{0.SimFirstName} có một cơn ác mộng về việc phải thuyết trình về việc tạo đường cong (reticulating splines), nhưng không thể làm cho các đường cong đó tạo được. Mọi người chỉ trỏ và cười!" />
+    <TextStringDefinition InstanceID="0xB04B3109" TextString="{0.SimFirstName} có một cơn ác mộng lặp đi lặp lại về việc làm bài kiểm tra trong trạng thái khỏa thân. Điển hình!" />
+    <TextStringDefinition InstanceID="0x0F118BDF" TextString="{0.SimFirstName} có một cơn ác mộng về việc trở thành một con kiến nhỏ bé cố gắng sống sót bằng cách tích trữ những viên thức ăn xanh, cuối cùng bị hút vào máy cắt cỏ." />
+    <TextStringDefinition InstanceID="0x972BC127" TextString="{0.SimFirstName} có một cơn ác mộng về việc trò chơi điện tử đang phát triển của họ bị rò rỉ sớm! Không giống như chuyện đó sẽ bao giờ xảy ra. Bao giờ cũng không." />
+    <TextStringDefinition InstanceID="0x6E44851E" TextString="{0.SimFirstName} có một cơn ác mộng u ám về việc đạt được mọi thứ {0.SimPronounSubjective} từng muốn trong cuộc sống. May mắn là chuyện đó sẽ không bao giờ xảy ra!" />
+    <TextStringDefinition InstanceID="0x00D43935" TextString="{0.SimFirstName} có một cơn ác mộng về việc bị một Yamachan quá cơ bắp đuổi theo. Giấc mơ đã kết thúc, nhưng hình ảnh sẽ kéo dài suốt đời." />
+    <TextStringDefinition InstanceID="0x73C1D440" TextString="{0.SimFirstName} tỉnh dậy trong mồ hôi lạnh vì có một cơn ác mộng... về việc có một cơn ác mộng. Ôi, thôi nào!" />
+    <TextStringDefinition InstanceID="0x87DFD694" TextString="{0.SimFirstName} có một giấc mơ kỳ lạ trong đó một Bóng ma tròn vàng đeo kính cầu hôn. Thật là... một cơn ác mộng? {0.SimFirstName} không chắc mình nên cảm thấy thế nào về nó." />
+    <TextStringDefinition InstanceID="0xBE77FD50" TextString="{0.SimFirstName} có một cơn ác mộng về việc bị một con búp bê rất đáng sợ theo dõi một cách im lặng." />
+    <TextStringDefinition InstanceID="0x57914155" TextString="(Từ việc Hoài niệm)" />
+    <TextStringDefinition InstanceID="0xB142AAB9" TextString="Cảm ơn vì đã dọa! Đây là một món quà:\n{1.String}" />
+    <TextStringDefinition InstanceID="0xBA7D872E" TextString="(Từ việc Sử dụng Nước Ngoài Lưới)" />
+    <TextStringDefinition InstanceID="0xACD1DBC9" TextString="(Từ việc Sử dụng Điện thoại khi Ngoài Lưới)" />
+    <TextStringDefinition InstanceID="0x865B7328" TextString="(Từ việc Nấu ăn khi Ngoài Lưới)" />
+    <TextStringDefinition InstanceID="0x23CE1143" TextString="(Từ việc Ăn Trái cây hoặc Rau củ Thu hoạch)" />
+    <TextStringDefinition InstanceID="0x70469A79" TextString="(Từ việc Dọn dẹp khi Ngoài Lưới)" />
+    <TextStringDefinition InstanceID="0xEE156012" TextString="(Từ việc Bị Đặt xuống)" />
+    <TextStringDefinition InstanceID="0x2B48C39D" TextString="(Từ việc Được Mang)" />
+    <TextStringDefinition InstanceID="0xCD8F160B" TextString="(Từ việc Tỉnh dậy)" />
+    <TextStringDefinition InstanceID="0x399EFEAA" TextString="(Từ việc Xem một Tấm Poster Tích cực)" />
+    <TextStringDefinition InstanceID="0xA0373A8B" TextString="(Từ việc Trí tưởng tượng Sôi động)" />
+    <TextStringDefinition InstanceID="0xF5BDCA0E" TextString="(Từ việc Cảm thấy Giận dữ với Ai đó Đang Cảm thấy Hạnh phúc)" />
+    <TextStringDefinition InstanceID="0x423B4F48" TextString="(Từ việc Cảm thấy Giận dữ với Ai đó Ở Gần)" />
+    <TextStringDefinition InstanceID="0xBE483204" TextString="(Từ việc Cảm thấy Mê mẩn với Ai đó Ở Gần)" />
+    <TextStringDefinition InstanceID="0x02384363" TextString="(Từ việc Cảm thấy Gần gũi với Ai đó Ở Gần)" />
+    <TextStringDefinition InstanceID="0xCF6C0D6D" TextString="(Từ một Cảm xúc Gần gũi đối với Ai đó Đang Cảm thấy Tốt)" />
+    <TextStringDefinition InstanceID="0xE2A183C5" TextString="(Từ một Cảm xúc Gần gũi đối với Ai đó Đang Cảm thấy Tệ)" />
+    <TextStringDefinition InstanceID="0x88F2A7E3" TextString="(Từ một Cảm xúc Đắng cay đối với Ai đó Đang Cảm thấy Tệ)" />
+    <TextStringDefinition InstanceID="0x80B0BD91" TextString="(Từ việc Cảm thấy Đắng cay về Ai đó Ở Gần)" />
+    <TextStringDefinition InstanceID="0x64A75C54" TextString="(Từ Cảm xúc Lời khuyên Thân thiện)" />
+    <TextStringDefinition InstanceID="0xEE053CD2" TextString="(Từ việc Cảm thấy Được Động lực bởi Ai đó Ở Gần)" />
+    <TextStringDefinition InstanceID="0x5F1E9B69" TextString="(Từ việc Cảm thấy Bị tổn thương bởi Ai đó Ở Gần)" />
+    <TextStringDefinition InstanceID="0x09F2098F" TextString="(Từ việc Cảm thấy Bị tổn thương bởi Ai đó Ở Gần)" />
+    <TextStringDefinition InstanceID="0x600372C4" TextString="(Từ việc Cảm thấy Tội lỗi về Ai đó Đang Cảm thấy Tệ)" />
+    <TextStringDefinition InstanceID="0xFBF6F736" TextString="(Từ việc Cảm thấy Tội lỗi khi Ở Gần Ai đó)" />
+    <TextStringDefinition InstanceID="0xD663DB5B" TextString="(Từ việc Cảm thấy Đắng cay về Kẻ trộm Ở Gần)" />
+    <TextStringDefinition InstanceID="0x063D9E0B" TextString="(Từ việc Ở Gần một Anh hùng Cứu mạng)" />
+    <TextStringDefinition InstanceID="0xED047D62" TextString="(Từ việc Cảm thấy Ấn tượng bởi Ai đó Ở Gần)" />
+    <TextStringDefinition InstanceID="0x6DFC3E44" TextString="(Từ việc Ngưỡng mộ Ai đó Đang Cảm thấy Hạnh phúc)" />
+    <TextStringDefinition InstanceID="0xF886BDC6" TextString="(Từ việc Ngưỡng mộ Ai đó Ở Gần)" />
+    <TextStringDefinition InstanceID="0x86160D88" TextString="(Từ Đặc điểm Vật chất)" />
+    <TextStringDefinition InstanceID="0x59762AE2" TextString="(Từ Bàng quang Thấp)" />
+    <TextStringDefinition InstanceID="0x243183C9" TextString="(Từ Bàng quang Thấp)" />
+    <TextStringDefinition InstanceID="0x77138401" TextString="(Từ việc Đi giày trong Nhà)" />
+    <TextStringDefinition InstanceID="0xDA203818" TextString="(Từ việc Đi giày trong Nhà)" />
+    <TextStringDefinition InstanceID="0x54858256" TextString="Chúc mừng bạn đã hoàn thành Kịch bản!\n\nNhư một phần thưởng, mỗi Sim trong hộ gia đình này đã nhận được đặc điểm Ngón tay Xanh Siêu cấp, làm tăng tốc độ phát triển cây trồng đồng thời giảm nhu cầu tưới nước và sâu bệnh!" />

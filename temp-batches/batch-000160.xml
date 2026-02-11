@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x5C8DA989" TextString="Bạn không thể rót đồ uống cho đến khi đã đun sôi một ấm đầy nước." />
+    <TextStringDefinition InstanceID="0x78E1542F" TextString="Đun Nước" />
+    <TextStringDefinition InstanceID="0xBDE476C7" TextString="Giải Các Bài Toán" />
+    <TextStringDefinition InstanceID="0xFA22E7B9" TextString="Vẽ Bức Tranh Bánh Mì Phô Mai Nướng" />
+    <TextStringDefinition InstanceID="0xC051940E" TextString="Cảm Hứng sẽ giúp ích cho kỹ năng vẽ tranh!" />
+    <TextStringDefinition InstanceID="0x168F09A3" TextString="Luyện Tập Vẽ Tranh" />
+    <TextStringDefinition InstanceID="0xC0B6E043" TextString="Không thể thực hiện điều này trong khi đang chụp ảnh." />
+    <TextStringDefinition InstanceID="0xBA6618B2" TextString="(Từ việc Thích Vẽ Tranh)" />
+    <TextStringDefinition InstanceID="0xA036E65F" TextString="(Từ việc Ghét Vẽ Tranh)" />
+    <TextStringDefinition InstanceID="0x0A3CC480" TextString="Ngắm Nhìn Ly Đầy" />
+    <TextStringDefinition InstanceID="0xD07548DC" TextString="Ngắm Nhìn Ly Trống" />
+    <TextStringDefinition InstanceID="0xB9C4453F" TextString="Làm Tươi Đồ Uống" />
+    <TextStringDefinition InstanceID="0xAA3B7BC5" TextString="Một chút thứ gì đó sẽ giúp đồ uống của bạn ngon lâu hơn một chút!" />
+    <TextStringDefinition InstanceID="0x8155A340" TextString="Uống Tinh Thể Của Cuộc Đời {2.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x429A4CC8" TextString="Uống {2.SimFirstName}'s {1.ObjectName}" />
+    <TextStringDefinition InstanceID="0x5BFDC3BF" TextString="Thử Đồ" />
+    <TextStringDefinition InstanceID="0x1EB97B45" TextString="Trông đẹp có thể khiến Sims cảm thấy lả lơi!" />
+    <TextStringDefinition InstanceID="0x96DB3901" TextString="Cởi Quần Áo" />
+    <TextStringDefinition InstanceID="0x11076F97" TextString="Thay Đổi Trang Phục Cho Trẻ Sơ Sinh Hoặc Trẻ Mới Biết Đi" />
+    <TextStringDefinition InstanceID="0x01DF7085" TextString="Thay Đổi Trang Phục Của {2.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x677D8ED1" TextString="Thay Đổi Trang Phục Cho {2.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x9BEE0D22" TextString="Dấu Cách" />
+    <TextStringDefinition InstanceID="0x42887194" TextString="Chim" />
+    <TextStringDefinition InstanceID="0xF1C9A378" TextString="Kể Chuyện Về Tương Lai Trước Khi Ngủ" />
+    <TextStringDefinition InstanceID="0xACD1A890" TextString="Đèn Khuya Màu Sao" />
+    <TextStringDefinition InstanceID="0xDBB391D1" TextString="Ngủ Đi Con" />
+    <TextStringDefinition InstanceID="0xC56A35AE" TextString="Đưa Con Ngủ" />
+    <TextStringDefinition InstanceID="0x0BD10287" TextString="Hush Little Baby" />
+    <TextStringDefinition InstanceID="0xDE65DAAD" TextString="Anh Trai Giác" />
+    <TextStringDefinition InstanceID="0xB197F250" TextString="Bạn phải nâng cấp Crib với Đèn Đêm Treo." />
+    <TextStringDefinition InstanceID="0x082A7317" TextString="Chuyển Đổi Thành Crib" />
+    <TextStringDefinition InstanceID="0x7ED1EF9D" TextString="Chuyển Đổi Giường Trẻ Mới Biết Đi Thành Crib khi bạn cần!" />
+    <TextStringDefinition InstanceID="0x720289A5" TextString="Tiếp Tục Chuyển Đổi Thành Giường Trẻ Mới Biết Đi" />
+    <TextStringDefinition InstanceID="0x61C8AAF2" TextString="Chuyển Đổi Thành Giường Trẻ Mới Biết Đi" />
+    <TextStringDefinition InstanceID="0x68FC52ED" TextString="Nâng Cấp Hoàn Thành!\n\nCrib đã được chuyển đổi thành Giường Trẻ Mới Biết Đi!" />
+    <TextStringDefinition InstanceID="0xB4E269B5" TextString="Nâng Cấp Hoàn Thành!\n\nGiường Trẻ Mới Biết Đi đã được chuyển đổi thành Crib!" />
+    <TextStringDefinition InstanceID="0x5DB31ABE" TextString="Chuyển Đổi Crib thành Giường Trẻ Mới Biết Đi khi trẻ sơ sinh của bạn trưởng thành." />
+    <TextStringDefinition InstanceID="0x924F993B" TextString="Tiếp Tục Thêm Đèn Đêm Treo" />
+    <TextStringDefinition InstanceID="0xC2D64108" TextString="Thêm Đèn Đêm Treo" />
+    <TextStringDefinition InstanceID="0x6D16F103" TextString="Nâng Cấp Hoàn Thành!\n\nCrib giờ đã có Đèn Đêm Treo gắn liền!" />
+    <TextStringDefinition InstanceID="0x98C51DE0" TextString="Thêm Điện Thoại Di Động Điện Tử vào Crib để nó quay và phát một bài hát ru." />
+    <TextStringDefinition InstanceID="0x14608F4A" TextString="Hôn Chúc Ngủ Ngon" />
+    <TextStringDefinition InstanceID="0x74368947" TextString="Dỗ Ngủ" />
+    <TextStringDefinition InstanceID="0xD5C1FE27" TextString="Kể Chuyện Trước Khi Ngủ" />
+    <TextStringDefinition InstanceID="0xB4401C94" TextString="Phát Bài Hát Ru" />
+    <TextStringDefinition InstanceID="0x9CEFD375" TextString="Mời Tham Gia" />
+    <TextStringDefinition InstanceID="0xC6E781DA" TextString="Phục Vụ Bàn Ăn" />
+    <TextStringDefinition InstanceID="0x4A623F37" TextString="Làm Đầy Bàn Ăn" />
+    <TextStringDefinition InstanceID="0xB2E09CC8" TextString="Bàn ăn của bạn đã hết chỗ để chứa các món bạn đang cố gắng bày lên. Hãy thử làm đầy lại sau khi dọn chỗ trống." />
+    <TextStringDefinition InstanceID="0xB5B1C800" TextString="Không có gì để lấy từ kho của bàn ăn." />

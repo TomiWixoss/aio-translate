@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x0E5634F7" TextString="Mục này không thể bán hoặc xóa." />
+    <TextStringDefinition InstanceID="0xF7CA5E8F" TextString="+99" />
+    <TextStringDefinition InstanceID="0x19D6795A" TextString="{0.String}\n{1.String}\n\n{2.String}" />
+    <TextStringDefinition InstanceID="0x2BD560E4" TextString="Nhân viên &lt;font color='#1E81E6'&gt;tại {0.String}&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x36E31FF6" TextString="Đối thủ quý tộc có thể được giải quyết một cách thân thiện, danh dự hoặc bằng cách phá hoại chúng:\n• Khuyến khích từ bỏ quyền lực\n• Đấu tay đôi để giành danh hiệu quý tộc\n Áp lực để từ bỏ quyền lực hoặc quyến rũ để từ bỏ quyền lực\n• tống tiền để từ bỏ quyền lực\n• Hôn nhân\n• Mối hận thù cũng có thể kết thúc nếu một Sim chết hoặc bị giáng chức. Hãy cân nhắc can thiệp vào một Đường hầm Bí mật, có thể có hậu quả chết người… " />
+    <TextStringDefinition InstanceID="0x02B66427" TextString="Có nhiều cách để kết thúc một mối hận thù. Các Tông giọng Công việc &quot;Làm bạn với đối thủ&quot; và &quot;Phá hoại đối thủ&quot; cho phép bạn giải quyết vấn đề trong khi đang làm việc. Gặp gỡ sau giờ làm việc cũng là một lựa chọn, dù bạn chọn thân thiện hay thử những giải pháp... sáng tạo hơn." />
+    <TextStringDefinition InstanceID="0x8BBAD819" TextString="Đối thủ quý tộc:" />
+    <TextStringDefinition InstanceID="0xBA2BC6F8" TextString="Đối thủ nơi làm việc:" />
+    <TextStringDefinition InstanceID="0x59B03511" TextString="Một Đối thủ quý tộc là kẻ đối diện tại triều đình, người cản đường thăng tiến." />
+    <TextStringDefinition InstanceID="0x37612C70" TextString="Luôn cản đường, một đối thủ nơi làm việc ngăn cản con đường thăng tiến." />
+    <TextStringDefinition InstanceID="0x2388B85C" TextString="Hiệu suất Công việc" />
+    <TextStringDefinition InstanceID="0xDBCA2FC7" TextString="Làm việc trong {0.Timespan}" />
+    <TextStringDefinition InstanceID="0x842F718A" TextString="Đi làm" />
+    <TextStringDefinition InstanceID="0x3BEE6C5B" TextString="Hiệu suất" />
+    <TextStringDefinition InstanceID="0xD871AC3A" TextString="Hoạt động bắt đầu trong {0.Timespan}" />
+    <TextStringDefinition InstanceID="0x33394885" TextString="Tham gia Hoạt động" />
+    <TextStringDefinition InstanceID="0xE042B2AA" TextString="Không thể nhập học trong {0.Number} ngày" />
+    <TextStringDefinition InstanceID="0xEFFA34AA" TextString="Bị đình chỉ" />
+    <TextStringDefinition InstanceID="0xC7C9651B" TextString="Đang trong thời gian thử việc" />
+    <TextStringDefinition InstanceID="0xA0BEB079" TextString="Hiệu suất Lớp học" />
+    <TextStringDefinition InstanceID="0x8B1C5C99" TextString="Có nhiều cách để sinh viên thành công trong một môn học đại học:\n\n• Đi học\n• Làm bài tập về nhà\n• Học trên sách giáo trình, máy tính hoặc kho lưu trữ nghiên cứu\n• Luyện tập kỹ năng liên quan đến môn học\n• Nộp bài luận cuối kỳ hoặc thuyết trình tốt\n• Ghé thăm giáo sư trong giờ làm việc\n\nSinh viên có thể không cần làm tất cả những việc này, nhưng bỏ bê quá nhiều chắc chắn sẽ dẫn đến điểm kém. Sinh viên muốn biết trình độ của mình trong một lớp học có thể hỏi giáo sư qua điện thoại hoặc máy tính, mặc dù điểm cuối kỳ chỉ được công bố sau khi học kỳ kết thúc." />
+    <TextStringDefinition InstanceID="0x81F8FAE2" TextString="Lịch Lớp học" />
+    <TextStringDefinition InstanceID="0x9F21BC6C" TextString="Lớp học trong {0.Timespan}" />
+    <TextStringDefinition InstanceID="0x50DA334E" TextString="Nhập học" />
+    <TextStringDefinition InstanceID="0x265A4C70" TextString="&lt;span class='skillsText'&gt;Kỹ năng: {0.String}&lt;/span&gt;" />
+    <TextStringDefinition InstanceID="0xC6BC682E" TextString="Đi học" />
+    <TextStringDefinition InstanceID="0xF60E5476" TextString="Không cần kỳ nghỉ." />
+    <TextStringDefinition InstanceID="0xC09FF504" TextString="Không đủ điều kiện nghỉ phép" />
+    <TextStringDefinition InstanceID="0x96A5BF41" TextString="&lt;font color='#EB9B29'&gt;Đến giờ làm việc rồi!&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xC6084047" TextString="&lt;font color='#EB9B29'&gt; Đến giờ họp rồi! &lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x8C2EB57A" TextString="&lt;font color='#EB9B29'&gt; Đến giờ học rồi! &lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xC8CF2CCE" TextString="&lt;font color='#EB9B29'&gt; Đến giờ đi học rồi! &lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x3025B755" TextString="Nhiệm vụ Thăng tiến:" />
+    <TextStringDefinition InstanceID="0x73C9FCF0" TextString="Nhiệm vụ Thăng cấp:" />
+    <TextStringDefinition InstanceID="0xDAD86174" TextString="Nhiệm vụ:" />
+    <TextStringDefinition InstanceID="0x7636A59A" TextString="Nhiệm vụ Điểm số:" />
+    <TextStringDefinition InstanceID="0x619D2345" TextString="Nhiệm vụ Chuẩn bị:" />
+    <TextStringDefinition InstanceID="0x4F1AC797" TextString="Bắt đầu {0.String}" />
+    <TextStringDefinition InstanceID="0xB6AE4ED5" TextString="{0.Number}/{1.Number}" />
+    <TextStringDefinition InstanceID="0xA5800210" TextString="Chọn một Nghề nghiệp" />
+    <TextStringDefinition InstanceID="0xD0747C87" TextString="Chọn một Công ty" />
+    <TextStringDefinition InstanceID="0x2B7E9B61" TextString="Hiệu suất Trường học" />
+    <TextStringDefinition InstanceID="0x6E4E36D8" TextString="Lớp học trong {0.Timespan}" />
+    <TextStringDefinition InstanceID="0xF2474B57" TextString="Đi học" />
+    <TextStringDefinition InstanceID="0xA4CB153D" TextString="{0.SimName} đã nghỉ hưu. Làm một công việc khác?" />
+    <TextStringDefinition InstanceID="0x6C58799E" TextString="Kỹ năng Khuyến nghị:" />
+    <TextStringDefinition InstanceID="0x9F761F1B" TextString="Thoát Công việc Kinh doanh Nhỏ" />
+    <TextStringDefinition InstanceID="0xDA983DC0" TextString="Hoàn thành các nhiệm vụ được liệt kê để kết thúc việc cần làm này và nhận phần thưởng.\n\nBạn có thể di chuột qua mỗi nhiệm vụ để biết thêm thông tin chi tiết về cách hoàn thành nó.\n\nKiểm tra lại vì các nhiệm vụ có thể được hoàn thành; các nhiệm vụ mới có thể xuất hiện khi bạn tiến bộ trong việc cần làm." />
+    <TextStringDefinition InstanceID="0x80FC26D0" TextString="Bỏ cuộc" />
+    <TextStringDefinition InstanceID="0xDBA43E00" TextString="Thực hiện các nhiệm vụ trong suốt tuần để bạn có thể tăng Hiệu suất của mình cho Hoạt động này." />

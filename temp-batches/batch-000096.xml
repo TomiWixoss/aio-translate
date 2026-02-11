@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x578CFCE2" TextString="Bắt đầu trồng vườn và trồng các nguyên liệu cần thiết cho Ambrosia!" />
+    <TextStringDefinition InstanceID="0x59EFD7BA" TextString="Đào Hố" />
+    <TextStringDefinition InstanceID="0xFC4660A9" TextString="Làm việc trên kỹ năng của bạn để chuẩn bị làm Ambrosia." />
+    <TextStringDefinition InstanceID="0xBD031EA9" TextString="Một Cuộc Gọi Đến" />
+    <TextStringDefinition InstanceID="0x70B9D074" TextString="Thần Chết đang yêu cầu sự hỗ trợ của bạn! Giúp Grim nghiên cứu Ambrosia." />
+    <TextStringDefinition InstanceID="0xE3DB7488" TextString="Trợ lý cho Thần Chết" />
+    <TextStringDefinition InstanceID="0x2FC5F035" TextString="Phew! Mùa lễ hội dường như rất bận rộn. Hãy thử truyền thống thư giãn với một số đồ uống ngọt và TV lễ hội, tôi nghe nói họ chiếu các bộ phim truyền thống vào thời điểm này trong năm!" />
+    <TextStringDefinition InstanceID="0x986C98F0" TextString="Trong nghiên cứu trực tuyến, tôi thấy rằng các Sim khác thích tụ tập và nhảy. Tôi nghĩ đã đến lúc lấp đầy nơi này với Tinh Thần Lễ Hội và mời một số bạn bè đến!" />
+    <TextStringDefinition InstanceID="0x402872F7" TextString="Bạn đã nghe những truyền thống mà người khác có ở khu vực địa phương của mình nhưng có cả một thế giới rộng lớn bên ngoài. Tôi tự hỏi những truyền thống nào khác tồn tại, hãy sử dụng Internet để xem cách khác các Sim ăn mừng và hãy bắt đầu một số âm nhạc để thực sự tạo không khí lễ hội!" />
+    <TextStringDefinition InstanceID="0x25A1A442" TextString="Bạn có biết điều gì phù hợp với thực phẩm truyền thống không? Đồ uống truyền thống! Hãy làm một ít cả hai để kiểm tra lý thuyết của tôi." />
+    <TextStringDefinition InstanceID="0x465BD889" TextString="Bạn đã bắt đầu rất tốt khi học về các truyền thống và thực phẩm khác nhau. Tiếp tục và trò chuyện với các Sim về các kỳ nghỉ, thử một số thực phẩm mới ngon lành và sau đó cho tôi biết những gì bạn khám phá!" />
+    <TextStringDefinition InstanceID="0x562EB1D4" TextString="Các nền văn hóa khác nhau đều có truyền thống lễ hội riêng của mình, hãy hỏi các Sim khác về Truyền Thống Lễ Hội của họ để tìm hiểu về chúng." />
+    <TextStringDefinition InstanceID="0xC9ED941C" TextString="Điều này sẽ kết thúc Nhiệm Vụ Sự Kiện, nhưng bạn vẫn sẽ nhận được Điểm Sự Kiện!" />
+    <TextStringDefinition InstanceID="0x50F1D779" TextString="Lễ Cưới" />
+    <TextStringDefinition InstanceID="0x1E8A5B9A" TextString="Sự Kiện Thử Nghiệm Nguy Hiểm" />
+    <TextStringDefinition InstanceID="0xF3A73F7F" TextString="Tôi thậm chí không biết thứ này làm gì. Chỉ là... đừng." />
+    <TextStringDefinition InstanceID="0x2E9C7D1F" TextString="Bạn không thể sửa đổi lô đất trong khi Sim của bạn đang làm việc." />
+    <TextStringDefinition InstanceID="0x3EC9A8F6" TextString="Trên Công Việc!" />
+    <TextStringDefinition InstanceID="0xA19B9708" TextString="{0.SimFirstName} nên kết thúc những gì {M0.he}{F0.she} đang làm ở đây trước khi rời đi." />
+    <TextStringDefinition InstanceID="0x1B8B744D" TextString="Johnny" />
+    <TextStringDefinition InstanceID="0xE261EC52" TextString="Zest" />
+    <TextStringDefinition InstanceID="0x9F4FA6F0" TextString="Uống cái này để trở thành một phiên bản lớn hơn của bạn!" />
+    <TextStringDefinition InstanceID="0x39E8EAF5" TextString="Uống cái này để tạm thời khiến Sim của bạn được Truyền Cảm Hứng!" />
+    <TextStringDefinition InstanceID="0x7A1EE907" TextString="Uống cái này để tạm thời khiến Sim của bạn Hạnh Phúc!" />
+    <TextStringDefinition InstanceID="0xE34D5FED" TextString="Uống cái này để tạm thời khiến Sim của bạn Tập Trung!" />
+    <TextStringDefinition InstanceID="0x77E86C99" TextString="Uống cái này để tạm thời khiến Sim của bạn Lãng Mạn!" />
+    <TextStringDefinition InstanceID="0x7103B25A" TextString="Uống cái này để loại bỏ Một Nỗi Sợ khỏi Sim của bạn mà không cần những cuộc đối đầu giải tỏa." />
+    <TextStringDefinition InstanceID="0x5C50B524" TextString="Uống cái này để tạm thời khiến Sim của bạn Tràn Đầy Năng Lượng!" />
+    <TextStringDefinition InstanceID="0x9E796949" TextString="Uống cái này để tạm thời khiến Sim của bạn Tự Tin!" />
+    <TextStringDefinition InstanceID="0x3C824F72" TextString="Thuốc Thay Đổi Tính Cách Lại" />
+    <TextStringDefinition InstanceID="0x8BCBAD48" TextString="Đại Sứ Tử Thần có mối quan hệ tốt hơn với các Sim khác, ít Cảm Xúc Tiêu Cực hơn và có thể thách thức các Sim khác để tử tế." />
+    <TextStringDefinition InstanceID="0xBD11EA23" TextString="Đại Sứ Tử Thần" />
+    <TextStringDefinition InstanceID="0x0AB32F9E" TextString="Tương Tác Đề Xuất Ý Tưởng Câu Chuyện" />
+    <TextStringDefinition InstanceID="0xA5AF4632" TextString="Cửa Trực Giác Đã Mở" />
+    <TextStringDefinition InstanceID="0xAC63CFBE" TextString="Tương Tác Khoe Khoang về Startup" />
+    <TextStringDefinition InstanceID="0x8BD6D826" TextString="Tương Tác Khoe Khoang về Kỹ Năng" />
+    <TextStringDefinition InstanceID="0x3CE73FE0" TextString="Cửa Tủ Sách Ẩn Đã Mở" />
+    <TextStringDefinition InstanceID="0x5EE617A3" TextString="Điều Tra Trên Máy Tính" />
+    <TextStringDefinition InstanceID="0xFF88AEAC" TextString="Tương Tác Bắt Tay Trấn Tĩnh" />
+    <TextStringDefinition InstanceID="0x8F0797C7" TextString="Nghiên Cứu Trí Tuệ Trên Máy Tính" />
+    <TextStringDefinition InstanceID="0xD69BD26C" TextString="Thu Thập Cảm Hứng Từ Nghệ Thuật" />
+    <TextStringDefinition InstanceID="0xFA9B1A84" TextString="Thuê Đại Lý Từ Điện Thoại" />
+    <TextStringDefinition InstanceID="0x355043E6" TextString="Đánh Giá Tranh Một Cách Phê Phán" />
+    <TextStringDefinition InstanceID="0x98F1B019" TextString="Nghiên Cứu Tài Liệu Nghệ Thuật Trên Máy Tính" />
+    <TextStringDefinition InstanceID="0x1657CA30" TextString="Biểu Diễn Hài Kịch Trong Không Gian" />
+    <TextStringDefinition InstanceID="0xC90AD98F" TextString="Thử Nghiệm Vật Liệu Xã Hội" />
+    <TextStringDefinition InstanceID="0x109CBD51" TextString="Viết Sách Nấu Ăn Trên Máy Tính" />
+    <TextStringDefinition InstanceID="0xBB5EDA26" TextString="Viết Sách Hướng Dẫn Quán Bar Trên Máy Tính" />
+    <TextStringDefinition InstanceID="0x418201A2" TextString="Hack Máy Chủ Chính Trên Máy Tính" />
+    <TextStringDefinition InstanceID="0xB29A0D9F" TextString="Tương Tác Đánh Cắp Túi" />

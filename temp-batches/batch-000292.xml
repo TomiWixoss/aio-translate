@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xC2905E4B" TextString="Lưu Vai trò" />
+    <TextStringDefinition InstanceID="0x8EC83A6B" TextString="Bạn muốn lưu vai trò này như thế nào?" />
+    <TextStringDefinition InstanceID="0x5C6A0A79" TextString="Ghi đè lên Vai trò Hiện có" />
+    <TextStringDefinition InstanceID="0x5F373B87" TextString="Không thể lưu dưới dạng vai trò mới, vì đã đạt số lượng tối đa Sim {0.Number}" />
+    <TextStringDefinition InstanceID="0x2C5919C7" TextString="Lưu dưới dạng Vai trò Mới" />
+    <TextStringDefinition InstanceID="0x476B3996" TextString="Khôi phục Hoạt động Vai trò Mặc định" />
+    <TextStringDefinition InstanceID="0x7BCBC499" TextString="Đặt lại Thay đổi" />
+    <TextStringDefinition InstanceID="0x4199A8E5" TextString="Bạn có muốn đặt lại các thay đổi không? Nếu đặt lại, các thay đổi về hoạt động và trang phục trong khung thời gian này sẽ trở về mặc định ban đầu." />
+    <TextStringDefinition InstanceID="0xF618E0D5" TextString="Bạn đã đạt số lượng tối đa {0.Number} Vai trò được phép trong Lịch trình này." />
+    <TextStringDefinition InstanceID="0x99580E85" TextString="Thư viện Vai trò" />
+    <TextStringDefinition InstanceID="0x70952116" TextString="Chọn Vai trò..." />
+    <TextStringDefinition InstanceID="0xC6000D0A" TextString="Xóa vai trò khỏi khung thời gian hiện tại" />
+    <TextStringDefinition InstanceID="0x2563DAC5" TextString="Xóa {0.String}" />
+    <TextStringDefinition InstanceID="0x1A739FEA" TextString="Bạn có chắc chắn muốn xóa vai trò {0.String} khỏi khung thời gian này không? Hành động này sẽ không ảnh hưởng đến các khung thời gian khác, và vai trò vẫn sẽ còn trong bảng Vai trò Hiện tại." />
+    <TextStringDefinition InstanceID="0x15FE477B" TextString="Vai trò Hiện tại" />
+    <TextStringDefinition InstanceID="0xA7A903C3" TextString="+ Tạo Vai trò" />
+    <TextStringDefinition InstanceID="0x0DA2046C" TextString="Xóa vai trò khỏi khung thời gian." />
+    <TextStringDefinition InstanceID="0x349CA003" TextString="Xóa {0.String}?" />
+    <TextStringDefinition InstanceID="0x621C186C" TextString="Bạn có chắc chắn muốn xóa vai trò {0.String} này khỏi khung thời gian hiện tại không?" />
+    <TextStringDefinition InstanceID="0x80A19375" TextString="Đã có một thể hiện của vai trò này trong khung thời gian này rồi." />
+    <TextStringDefinition InstanceID="0x141C56E5" TextString="Tổng số Sim: {0.Number}/{1.Number}" />
+    <TextStringDefinition InstanceID="0x907D9791" TextString="{0.TimeShort}" />
+    <TextStringDefinition InstanceID="0x3A88BA19" TextString="Các khung thời gian phải kéo dài ít nhất 3 giờ. Thời điểm này đã được một khung thời gian khác bao phủ." />
+    <TextStringDefinition InstanceID="0x18A09FC7" TextString="Hoán đổi với Khung thời gian {0.TimeShort}" />
+    <TextStringDefinition InstanceID="0xDE7F99EC" TextString="Thời điểm Bắt đầu" />
+    <TextStringDefinition InstanceID="0xF041C51C" TextString="Xóa" />
+    <TextStringDefinition InstanceID="0x83213051" TextString="Không thể thêm vai trò mới vào khung thời gian này cho đến khi một preset đã được chỉ định cho vai trò hiện có." />
+    <TextStringDefinition InstanceID="0xE4986C15" TextString="&lt;font color=&quot;#EC262E&quot;&gt;Khung thời gian này đang thiếu một Sim hộ gia đình hợp lệ!&lt;/font&gt;\n\nHãy đảm bảo bảng &lt;b&gt;Vai trò Hiện tại&lt;/b&gt; có một Sim hộ gia đình hợp lệ được gán vào một vai trò, sau đó thêm vai trò đó vào khung thời gian này." />
+    <TextStringDefinition InstanceID="0x7D23FC4C" TextString="Bạn đã đạt số lượng tối đa vai trò cho khung thời gian này." />
+    <TextStringDefinition InstanceID="0x60BD6C3D" TextString="Khung thời gian {0.TimeShort}:" />
+    <TextStringDefinition InstanceID="0xA197C692" TextString="&lt;font color='#FF0000'&gt;Thay đổi sang thời điểm bắt đầu này sẽ dịch chuyển tất cả các khung thời gian đã lên lịch lên 1 giờ.&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x33425AC2" TextString="{0.TimeShort}: {1.String}" />
+    <TextStringDefinition InstanceID="0x7FC0D785" TextString="Ít nhất một Sim hộ gia đình được gán cho khung thời gian." />
+    <TextStringDefinition InstanceID="0xED4A67A4" TextString="\nQuá nhiều Sim được yêu cầu trên tất cả các vai trò trong khung thời gian này." />
+    <TextStringDefinition InstanceID="0x62C94A30" TextString="&lt;font color='#EC262E'&gt;Một hoặc nhiều Sim được gán cho nhiều vai trò trong khung thời gian này.&lt;/font&gt;\n\nĐể tránh xung đột, hãy xóa bất kỳ sự gán trùng lặp nào bên dưới:" />
+    <TextStringDefinition InstanceID="0x055457ED" TextString="Xóa khung thời gian này" />
+    <TextStringDefinition InstanceID="0xBFE7C237" TextString="Xóa Khung thời gian {0.TimeShort}?" />
+    <TextStringDefinition InstanceID="0x4FB0C8BF" TextString="Bạn có chắc chắn muốn xóa toàn bộ khung thời gian {0.TimeShort} không? Hành động này không thể hoàn tác." />
+    <TextStringDefinition InstanceID="0xB12CB934" TextString="Xóa Hoạt động" />
+    <TextStringDefinition InstanceID="0x4B62418A" TextString="&lt;font color='#FF0000'&gt;Thay đổi sang thời điểm bắt đầu này sẽ dịch chuyển tất cả các khung thời gian đã lên lịch lùi lại 1 giờ.&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xD56C6259" TextString="Chọn Hành vi" />
+    <TextStringDefinition InstanceID="0x2CE6E3E6" TextString="Lên kế hoạch cho những gì các Sim sẽ làm trong suốt ngày! Lịch trình của một Địa điểm Tùy chỉnh được chia thành các khung thời gian, và trong mỗi khung, cả &lt;b&gt;Hoạt động Chính&lt;/b&gt; và &lt;b&gt;hoạt động Vai trò&lt;/b&gt; đều có thể được đặt.\n\nHoạt động Chính đặt tông giọng và hướng dẫn những gì các Sim trên lô đất sẽ tự nhiên làm trong thời gian đó. Các hoạt động Vai trò mang lại cho từng Sim một việc làm được cá nhân hóa hơn dựa trên vai trò của họ trong sự kiện. Hãy nhớ rằng mỗi khung thời gian phải kéo dài ít nhất 3 giờ." />
+    <TextStringDefinition InstanceID="0x5759FDFA" TextString="Lên kế hoạch cho những gì các Sim sẽ làm trong suốt ngày! Lịch trình của một Chuyến đi được chia thành các khung thời gian, và trong mỗi khung, cả &lt;b&gt;Hoạt động Chính&lt;/b&gt; và &lt;b&gt;hoạt động Vai trò&lt;/b&gt; đều có thể được đặt.\n\nHoạt động Chính đặt tông giọng và hướng dẫn những gì các Sim trên lô đất sẽ tự nhiên làm trong thời gian đó. Các hoạt động Vai trò mang lại cho từng Sim một việc làm được cá nhân hóa hơn dựa trên vai trò của họ trong sự kiện.\n\nBất kỳ thay đổi nào được thực hiện cho một vai trò mà khác với các hoạt động Vai trò Mặc định của nó sẽ được đánh dấu bằng một chấm vàng! Để lưu các thay đổi của bạn dưới dạng một vai trò mới hoặc hiện có, hãy chọn &lt;b&gt;Lưu Vai trò&lt;/b&gt; trong khung thời gian." />
+    <TextStringDefinition InstanceID="0x39F477AA" TextString="Không có thời điểm nào có sẵn để thêm một khung thời gian mới." />
+    <TextStringDefinition InstanceID="0x7C13DBA2" TextString="Thêm khung thời gian mới vào lịch trình" />
+    <TextStringDefinition InstanceID="0xA7CB35ED" TextString="Thêm Khung thời gian" />
+    <TextStringDefinition InstanceID="0xD9F1C622" TextString="Thêm vai trò vào khung thời gian hiện tại" />
+    <TextStringDefinition InstanceID="0xD373ED6D" TextString="Thêm Vai trò" />
+    <TextStringDefinition InstanceID="0x3406281A" TextString="Hoạt động Chính" />
+    <TextStringDefinition InstanceID="0x896D137E" TextString="Xem Vai trò" />

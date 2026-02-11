@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x3E3E7200" TextString="{0.SimFirstName} không thể tin rằng {0.SimPronounSubjective} vừa mới làm điều đó." />
+    <TextStringDefinition InstanceID="0x4F5AB6C0" TextString="Dây Nhạc Thư Giãn" />
+    <TextStringDefinition InstanceID="0x86B305C5" TextString="Một giai điệu violin mềm mại hoàn hảo có thể vô cùng thư giãn. " />
+    <TextStringDefinition InstanceID="0xA298931E" TextString="Dây Nhạc Lấp Lánh" />
+    <TextStringDefinition InstanceID="0x7E2745E7" TextString="Không có gì làm một người yêu âm nhạc hạnh phúc hơn là khoe khoang kỹ năng của họ!" />
+    <TextStringDefinition InstanceID="0x895EB49E" TextString="Ối" />
+    <TextStringDefinition InstanceID="0x15F41E67" TextString="Hừ... {0.SimFirstName} khá chắc rằng đó không phải là cách trang điểm trông như thế khi người lớn đeo nó." />
+    <TextStringDefinition InstanceID="0xA4192975" TextString="Quyến Rũ!" />
+    <TextStringDefinition InstanceID="0x70E5C9EA" TextString="{0.SimFirstName} đã thêm vài lớp trang điểm... chỉ để chắc chắn! {M0.Anh ấy}{F0.Cô ấy} thậm chí còn phần lớn đã đặt đúng chỗ!" />
+    <TextStringDefinition InstanceID="0xCF67492A" TextString="Trong Ký Ức Yêu Thương" />
+    <TextStringDefinition InstanceID="0x2B5D132B" TextString="Một Sim được yêu quý gần đây đã qua đời đến một nơi tốt đẹp hơn. Dù họ đã đi, họ không bị lãng quên." />
+    <TextStringDefinition InstanceID="0xC658DA92" TextString="Tạm Biệt Đồ Cản Trở" />
+    <TextStringDefinition InstanceID="0xEFDB6D43" TextString="Thả linh hồn của một Sim vừa mới qua đời là một trải nghiệm mạnh mẽ và giải thoát" />
+    <TextStringDefinition InstanceID="0xBC6ECC46" TextString="Nhớ Nhau Một Sim Đã Qua Đời" />
+    <TextStringDefinition InstanceID="0x8439669F" TextString="Cuộc sống quá ngắn ngủi. Hãy kéo dài nó trong menu tùy chọn." />
+    <TextStringDefinition InstanceID="0x1A5612D3" TextString="Một Người Thân Đã Qua Đời" />
+    <TextStringDefinition InstanceID="0x3FEA7B03" TextString="Một Bạn Bè Đã Qua Đời" />
+    <TextStringDefinition InstanceID="0x9F2A9D4C" TextString="Điều quan trọng là phải tang tóc và nhớ những khoảnh khắc đẹp đẽ trong cuộc sống đã có với một Sim đã khuất." />
+    <TextStringDefinition InstanceID="0xADD6B005" TextString="Sống Lâu Hơn Kẻ Thù" />
+    <TextStringDefinition InstanceID="0xA535CADA" TextString="Bạn có thể chưa bao giờ hòa thuận, nhưng sâu thẳm bên trong, giờ đây họ đã chết." />
+    <TextStringDefinition InstanceID="0xB0EA3C11" TextString="Nội Dung Sang Chảnh" />
+    <TextStringDefinition InstanceID="0xFE979D6E" TextString="Người hợm hẹn trân trọng các chương trình truyền hình không làm hỏng não bộ." />
+    <TextStringDefinition InstanceID="0x649176A1" TextString="Chán Ngán Thế Giới" />
+    <TextStringDefinition InstanceID="0xB3DE7A9E" TextString="Đối với những người có gu tinh tế, một số kênh TV chỉ là những thứ vô nghĩa ồn ào." />
+    <TextStringDefinition InstanceID="0x434F3437" TextString="Đồ Trẻ Con..." />
+    <TextStringDefinition InstanceID="0xCE3E0C38" TextString="Một số người mặc quần, nhưng những người khác thì không. Chuyện gì đang xảy ra ở đó?" />
+    <TextStringDefinition InstanceID="0xFC58F59E" TextString="Cướp Biển và Dứa!" />
+    <TextStringDefinition InstanceID="0x8D01B05A" TextString="Vui Sướng Tột Độ" />
+    <TextStringDefinition InstanceID="0x5E711AFB" TextString="{0.SimFirstName} đang cảm thấy thông minh và muốn học hỏi. Đây là thời điểm hoàn hảo để làm một việc gì đó có logic." />
+    <TextStringDefinition InstanceID="0x11EA090E" TextString="Cảm Thấy Thích Thú" />
+    <TextStringDefinition InstanceID="0xA7A973B7" TextString="{0.SimFirstName} cảm thấy sẵn sàng cho một chút lãng mạn." />
+    <TextStringDefinition InstanceID="0x9F3C54CF" TextString="Bị Thần Tình Yêu Bắn Trúng" />
+    <TextStringDefinition InstanceID="0xECF20E00" TextString="Như một tia chớp từ trên trời, ly rượu đó đã đánh trúng trái tim {0.SimFirstName}." />
+    <TextStringDefinition InstanceID="0x47E34273" TextString="Bị Thần Tình Yêu Đấm Mạnh" />
+    <TextStringDefinition InstanceID="0x78E79F9C" TextString="Ly rượu đó đã mang lại cho {0.SimFirstName} một số cảm giác ấm áp và mơ hồ." />
+    <TextStringDefinition InstanceID="0x5222FB19" TextString="Nước Sáng Tạo Chảy Đầy" />
+    <TextStringDefinition InstanceID="0x4E69B086" TextString="Nước sáng tạo của {0.SimFirstName} đang chảy đầy. Đã đến lúc làm một số việc viết lách hoặc vẽ tranh!" />
+    <TextStringDefinition InstanceID="0x9E5230A1" TextString="Điểm Sôi" />
+    <TextStringDefinition InstanceID="0x58ACD89E" TextString="Ly rượu đó đã đưa {0.SimFirstName} đến trạng thái cảm xúc sôi nhỏ." />
+    <TextStringDefinition InstanceID="0x9E7A987D" TextString="Sôi Tràn" />
+    <TextStringDefinition InstanceID="0xDF67D582" TextString="Ly rượu đó đã đưa {0.SimFirstName} đến trạng thái cảm xúc sôi trào." />
+    <TextStringDefinition InstanceID="0x26D3070A" TextString="Đồ Uống Thiên Đường" />
+    <TextStringDefinition InstanceID="0x65C2718B" TextString="Đồ uống ngon như thế này chính là tất cả cuộc sống! Đơn giản là tuyệt vời!" />
+    <TextStringDefinition InstanceID="0xB4275878" TextString="Ngọn Lửa Huyền Thoại" />
+    <TextStringDefinition InstanceID="0x5993C9AD" TextString="Ly rượu! Ly rượu! Ly rượu đang cháy! À, nó đã cháy. Và nó là huyền thoại." />
+    <TextStringDefinition InstanceID="0x93FE07D7" TextString="Đồ Uống Ngon" />
+    <TextStringDefinition InstanceID="0xD3192F58" TextString="Ly rượu đó là không thể tin nổi. Thế giới là một nơi tuyệt vời ngay lúc này." />
+    <TextStringDefinition InstanceID="0x99025655" TextString="Đồ Uống Tốt" />
+    <TextStringDefinition InstanceID="0x1E12B04A" TextString="Hương vị tinh tế của một ly rượu được pha chế tốt có thể làm sáng ngày bất kỳ! " />
+    <TextStringDefinition InstanceID="0x1C0727A1" TextString="Ly Rượu Cháy" />

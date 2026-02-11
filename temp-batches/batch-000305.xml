@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x7CB3FB6F" TextString="Hoạt động sau giờ học:" />
+    <TextStringDefinition InstanceID="0xD6BB3A38" TextString="Giáo dục:" />
+    <TextStringDefinition InstanceID="0x05C248AD" TextString="Đặc điểm chưa biết" />
+    <TextStringDefinition InstanceID="0xB8A03B4B" TextString="Đặc điểm:" />
+    <TextStringDefinition InstanceID="0x0D22B2AB" TextString="&lt;span class='schedule'&gt;{0.String}&lt;/span&gt;" />
+    <TextStringDefinition InstanceID="0x6E6C02A8" TextString="&lt;span class='companyName'&gt;tại {0.String}&lt;/span&gt; " />
+    <TextStringDefinition InstanceID="0x40D3D851" TextString="{0.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x41197BD2" TextString="Mối quan hệ:" />
+    <TextStringDefinition InstanceID="0x180CBBF0" TextString="Vợ/chồng: " />
+    <TextStringDefinition InstanceID="0x919217AC" TextString="{0.SimFirstName} không có mối quan hệ với bất kỳ Sim nào khác." />
+    <TextStringDefinition InstanceID="0x6DE854DC" TextString="Lãng mạn" />
+    <TextStringDefinition InstanceID="0xB1706A53" TextString="Thú cưng" />
+    <TextStringDefinition InstanceID="0x232912C3" TextString="Vật nuôi" />
+    <TextStringDefinition InstanceID="0x433CDE08" TextString="Hộ gia đình/Bạn cùng phòng" />
+    <TextStringDefinition InstanceID="0x46A59E2B" TextString="&lt;font color=&quot;#EC262E&quot;&gt;Ngày lễ phải có tên hợp lệ.&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x73BF524A" TextString="Chọn phong tục mới" />
+    <TextStringDefinition InstanceID="0x024B5DA5" TextString="Thêm ngày lễ" />
+    <TextStringDefinition InstanceID="0xBEFD0D1A" TextString="Xóa" />
+    <TextStringDefinition InstanceID="0xF6C27365" TextString="{0.Points}" />
+    <TextStringDefinition InstanceID="0x0C77136C" TextString="({0.String})" />
+    <TextStringDefinition InstanceID="0x65FB8E6C" TextString="{0.TimeShort}" />
+    <TextStringDefinition InstanceID="0x02DE97E5" TextString="Thời gian còn lại: {0.TimespanShortCondensed}" />
+    <TextStringDefinition InstanceID="0xADEB0839" TextString="Chọn để gia hạn hoặc kết thúc kỳ nghỉ sớm." />
+    <TextStringDefinition InstanceID="0x475C16A1" TextString="Thu gọn / Mở tất cả" />
+    <TextStringDefinition InstanceID="0x7A46A4D4" TextString="Chỉnh sửa kỳ nghỉ" />
+    <TextStringDefinition InstanceID="0xE3EAF1A2" TextString=", " />
+    <TextStringDefinition InstanceID="0xAC375103" TextString="Vai trò {0.String} được chọn trong nhiều nhóm." />
+    <TextStringDefinition InstanceID="0x046D8523" TextString="• {0.String}" />
+    <TextStringDefinition InstanceID="0x87E31731" TextString="{0.SimFirstName} không được phép vào {1.String}." />
+    <TextStringDefinition InstanceID="0x26289761" TextString="Không có vai trò nào được chọn" />
+    <TextStringDefinition InstanceID="0xF964008D" TextString="Trạng thái" />
+    <TextStringDefinition InstanceID="0xEEE216E1" TextString="(Đã chết)" />
+    <TextStringDefinition InstanceID="0x7E0D242D" TextString="Tạo kết nối" />
+    <TextStringDefinition InstanceID="0x40B03D6D" TextString="Không có cách nào để kết nối hai Sim này thông qua sự giả mạo. Bạn có thể cần thêm các Sim ở giữa (như cha mẹ hoặc anh chị em) để sử dụng như các bước trung gian. Hãy thử gặp thêm họ hàng của Sim kia, hoặc mở rộng gia đình để có thêm tùy chọn liên kết." />
+    <TextStringDefinition InstanceID="0x8DDAD103" TextString="Mối quan hệ" />
+    <TextStringDefinition InstanceID="0x0626DB3D" TextString="Không có cách phù hợp nào để đạt được kết nối gia đình này. Bạn có thể cần thêm các Sim ở giữa để sử dụng như các bước trung gian, chẳng hạn như cha mẹ hoặc anh chị em bổ sung. Hãy thử gặp thêm họ hàng của Sim kia, hoặc mở rộng gia đình để có thêm tùy chọn liên kết." />
+    <TextStringDefinition InstanceID="0x80DE5007" TextString="Thêm Sim" />
+    <TextStringDefinition InstanceID="0xEA93BD04" TextString="Kết nối đã tạo" />
+    <TextStringDefinition InstanceID="0x06C22ACD" TextString="Cây gia phả của {0.SimFirstNameWithPrefix}" />
+    <TextStringDefinition InstanceID="0x6A1A57D9" TextString="Cây gia phả của {0.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x1AB0349D" TextString="Cây gia phả của {0.String}" />
+    <TextStringDefinition InstanceID="0x1727E4EA" TextString="Đã kết hôn với:\n{0.String}" />
+    <TextStringDefinition InstanceID="0x50927FF8" TextString="Hiển thị cây gia phả của {0.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x5B333E59" TextString="Hiển thị chú giải" />
+    <TextStringDefinition InstanceID="0x6BBF96E5" TextString="Kết nối bí mật" />
+    <TextStringDefinition InstanceID="0x1F878B6A" TextString="&quot;{0.String}&quot;" />
+    <TextStringDefinition InstanceID="0x031EFA5F" TextString="Đã kết hôn" />
+    <TextStringDefinition InstanceID="0x1DC1FE1C" TextString="Ẩn chú giải" />
+    <TextStringDefinition InstanceID="0xAA67C20B" TextString="Anh chị em hờ" />
+    <TextStringDefinition InstanceID="0x4B87FE47" TextString="Cha/mẹ hờ" />

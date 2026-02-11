@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x0E259C5D" TextString="Thư viện chứa những tác phẩm tuyệt vời từ các Simmers khác!" />
+    <TextStringDefinition InstanceID="0x245D4006" TextString="Bạn có thể nhấn và giữ một chiếc Dĩa trong Chế độ Sống để kéo nó vào thùng rác!" />
+    <TextStringDefinition InstanceID="0xF9F88BD8" TextString="Mua Hạt giống bằng cách nhấp vào Hộp cây, mua được trong Chế độ Xây dựng, để bắt đầu làm vườn." />
+    <TextStringDefinition InstanceID="0xFAADB9ED" TextString="Nhấn F4 để mở Thư viện!" />
+    <TextStringDefinition InstanceID="0x4AECBE66" TextString="Ngôi nhà của bạn có kho đồ trong Chế độ Xây dựng nơi các phần thưởng nghề nghiệp được chứa!" />
+    <TextStringDefinition InstanceID="0xB5198BDE" TextString="Thông tin về Sim của bạn có thể được tìm thấy trong các Bảng thông tin ở góc dưới bên phải." />
+    <TextStringDefinition InstanceID="0xDF0FBAE1" TextString="Thay đổi cài đặt Máy ảnh trong Menu Tùy chọn." />
+    <TextStringDefinition InstanceID="0x1CB4DCBF" TextString="Nhấn &quot;G&quot; để bật/tắt Lưới trong Chế độ Xây dựng." />
+    <TextStringDefinition InstanceID="0x9CA21DCB" TextString="Sử dụng phím tắt &quot;B&quot; trong Chế độ Xây dựng để nhanh chóng chọn Công cụ Tường." />
+    <TextStringDefinition InstanceID="0xEE0BC39B" TextString="Nhấp vào các biển báo câu cá tìm thấy khắp thế giới gần nước để câu cá." />
+    <TextStringDefinition InstanceID="0xFB11E8EB" TextString="Khát vọng có thể được chuyển đổi bất cứ lúc nào mà không mất tiến độ!" />
+    <TextStringDefinition InstanceID="0x8FB4BEE2" TextString="Máy tính có tương tác cho phép bạn Nhận nuôi một thành viên gia đình mới." />
+    <TextStringDefinition InstanceID="0x8FE9A3AC" TextString="Nhặt một cây đàn guitar, violin, hoặc piano để tặng món quà âm nhạc cho Sim của bạn!" />
+    <TextStringDefinition InstanceID="0x1CB8850C" TextString="Thay đổi kích thước cửa sổ trò chơi bằng cách kéo cạnh trong chế độ cửa sổ." />
+    <TextStringDefinition InstanceID="0x58158A95" TextString="Lô đất xây dựng" />
+    <TextStringDefinition InstanceID="0x95FAC497" TextString="Điều chỉnh độ sáng" />
+    <TextStringDefinition InstanceID="0xDE1747E0" TextString="Màu sắc" />
+    <TextStringDefinition InstanceID="0x8F56709F" TextString="Tính năng này hiện không khả dụng." />
+    <TextStringDefinition InstanceID="0xAED7F945" TextString="&lt;font color='#ff0000'&gt; Hư hỏng &lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x3AE698E7" TextString="Khắc: {0.String}" />
+    <TextStringDefinition InstanceID="0xE4055C8F" TextString="{0.Money}" />
+    <TextStringDefinition InstanceID="0xE19C866D" TextString="Phong cách nghệ thuật: {0.String}" />
+    <TextStringDefinition InstanceID="0x948A28DB" TextString="Báo cáo" />
+    <TextStringDefinition InstanceID="0x621B7C0D" TextString="Báo cáo của bạn đã được ghi nhận thành công." />
+    <TextStringDefinition InstanceID="0x1757A7AB" TextString="Chúng tôi không thể xử lý báo cáo của bạn lúc này. Vui lòng thử lại." />
+    <TextStringDefinition InstanceID="0xAA5DA349" TextString="Báo cáo" />
+    <TextStringDefinition InstanceID="0x6CDE56F6" TextString="Đạo văn" />
+    <TextStringDefinition InstanceID="0xCB5FF646" TextString="Mối đe dọa khủng bố" />
+    <TextStringDefinition InstanceID="0x4E5C6218" TextString="Mối đe dọa tự tử" />
+    <TextStringDefinition InstanceID="0x2ECE54FC" TextString="Mời gọi trẻ em" />
+    <TextStringDefinition InstanceID="0xF4F987C9" TextString="Nội dung xúc phạm" />
+    <TextStringDefinition InstanceID="0x832B1549" TextString="Nội dung không phù hợp" />
+    <TextStringDefinition InstanceID="0xBF6E5AEC" TextString="Phát biểu thù hận" />
+    <TextStringDefinition InstanceID="0xFD6E49F6" TextString="Quấy rối hoặc đe dọa" />
+    <TextStringDefinition InstanceID="0x68DFBC84" TextString="Quấy rối" />
+    <TextStringDefinition InstanceID="0x8390171F" TextString="Quảng cáo thương mại" />
+    <TextStringDefinition InstanceID="0x865AB8D3" TextString="Mô tả:" />
+    <TextStringDefinition InstanceID="0x0D0FB63B" TextString="Vui lòng nêu rõ lý do bạn báo cáo nội dung này:" />
+    <TextStringDefinition InstanceID="0x51AEA14B" TextString="Card đồ họa không được hỗ trợ" />
+    <TextStringDefinition InstanceID="0xB0A5FAF9" TextString="Card đồ họa không được nhận diện" />
+    <TextStringDefinition InstanceID="0x8B36C007" TextString="Máy tính của bạn không đủ bộ nhớ để chạy The Sims 4 với các gói (pack) đã cài đặt hiện tại. Điều này có thể dẫn đến sự ổn định kém của trò chơi." />
+    <TextStringDefinition InstanceID="0xAF5E71BC" TextString="https://help.ea.com/help/the-sims/the-sims-4/the-sims-4-system-requirements/" />
+    <TextStringDefinition InstanceID="0xC7DE0F0D" TextString="Trò chơi đang chạy ở chế độ 32 bit, có thể dẫn đến sự ổn định kém với các gói đã cài đặt hiện tại. Bạn có thể chuyển sang chế độ 64 bit trong Origin. Nhấn vào đây để tìm hiểu thêm." />
+    <TextStringDefinition InstanceID="0xD0C63E22" TextString="https://help.ea.com/help/the-sims/the-sims-4/when-to-use-the-sims-4-64-bit-or-32-bit-version/" />
+    <TextStringDefinition InstanceID="0xED12C49E" TextString="Tìm hiểu thêm" />
+    <TextStringDefinition InstanceID="0x5EBFA593" TextString="Bạn đang chạy bản thực thi trò chơi 64 bit trên hệ thống không đáp ứng các thông số kỹ thuật được khuyến nghị và có thể gặp phải sự bất ổn hoặc vấn đề về hiệu năng. Chúng tôi khuyên bạn nên chuyển sang bản thực thi 32 bit trong Origin thông qua bảng Thuộc tính trò chơi. Xem &lt;span class='link'&gt;&lt;a href='event:http://help.ea.com/article/when-to-use-the-sims-4-64-bit-or-32-bit-version'&gt;64 Bit FAQ&lt;/a&gt;&lt;/span&gt; để biết thêm chi tiết." />
+    <TextStringDefinition InstanceID="0x78946363" TextString="Quay lại" />
+    <TextStringDefinition InstanceID="0x2FCD72CF" TextString="Vẫn tiếp tục" />
+    <TextStringDefinition InstanceID="0x2C5DF42B" TextString="Trung tâm trợ giúp" />
+    <TextStringDefinition InstanceID="0x48ED4E4B" TextString="Emily đây! Tôi có thể giúp gì cho bạn?" />

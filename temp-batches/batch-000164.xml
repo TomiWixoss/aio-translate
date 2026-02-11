@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xB8CF566C" TextString="Gọi Hội đồng Địa chất về Mẫu vật" />
+    <TextStringDefinition InstanceID="0x2349F3FE" TextString="Thu thập Côn trùng" />
+    <TextStringDefinition InstanceID="0xB1F937A2" TextString="Sim của bạn quá ghê sợ côn trùng để làm việc này ngay bây giờ!" />
+    <TextStringDefinition InstanceID="0xC8D4ED4E" TextString="Hiện không có dấu hiệu của lưỡng cư." />
+    <TextStringDefinition InstanceID="0x55A50B2B" TextString="{0.SimFirstName} đã gây giống một con ếch mới." />
+    <TextStringDefinition InstanceID="0x24F9860C" TextString="{0.SimFirstName} không bắt được ếch. Chúng trơn quá! Chúc may mắn lần sau." />
+    <TextStringDefinition InstanceID="0x8CFBEBFE" TextString="Trích xuất Hóa thạch" />
+    <TextStringDefinition InstanceID="0xE4B4AB8E" TextString="Đào Tìm Kho báu" />
+    <TextStringDefinition InstanceID="0x8F1A6187" TextString="Đào Tìm Thời gian Đặc biệt" />
+    <TextStringDefinition InstanceID="0xEEB8DA18" TextString="Đào" />
+    <TextStringDefinition InstanceID="0xFBFDEDC4" TextString="{0.SimFirstName} tìm thấy một mảnh đá vôi! Bên trong có lẽ có hóa thạch." />
+    <TextStringDefinition InstanceID="0x200F57E3" TextString="{0.SimFirstName} đào được một bản đồ kho báu! Chắc chắn sẽ dẫn đến những điều tuyệt vời." />
+    <TextStringDefinition InstanceID="0xD19E0645" TextString="{0.SimFirstName} đã khai quật được một con búp bê Voodoo. {M0.Anh ấy}{F0.Cô ấy} có thể làm gì với nó?" />
+    <TextStringDefinition InstanceID="0x75BDA9D0" TextString="{0.SimFirstName} đào được một ống! Bên trong có thể là gì?" />
+    <TextStringDefinition InstanceID="0x3DBA5283" TextString="Mở Quà tặng Hội đồng Địa chất" />
+    <TextStringDefinition InstanceID="0x31591FA6" TextString="Gây giống Ếch với" />
+    <TextStringDefinition InstanceID="0x0D313521" TextString="Việc gây giống ếch mệt mỏi. Thử lại sau." />
+    <TextStringDefinition InstanceID="0x12BAF284" TextString="Ếch Tử thần không phù hợp để gây giống." />
+    <TextStringDefinition InstanceID="0xF06A3E0C" TextString="Xem {1.ObjectName}" />
+    <TextStringDefinition InstanceID="0xB5540D46" TextString="Có {0.ObjectName|enAn} trong lồng bò sát này." />
+    <TextStringDefinition InstanceID="0x10576069" TextString="Có {0.ObjectName|enAn} trong lồng bò sát này." />
+    <TextStringDefinition InstanceID="0xCB3CF8DE" TextString="Vứt bỏ Tất cả" />
+    <TextStringDefinition InstanceID="0xD42AEFF8" TextString="Tiêu hủy Cây chết" />
+    <TextStringDefinition InstanceID="0xE23DC127" TextString="Nhổ Cây" />
+    <TextStringDefinition InstanceID="0x4E61450B" TextString="Không thể dọn dẹp khi một Sim đang ẩn náo bên trong!" />
+    <TextStringDefinition InstanceID="0x7D4925D1" TextString="Cần một thùng rác để dọn dẹp điều này." />
+    <TextStringDefinition InstanceID="0x37C9F536" TextString="Chỉ có ma cà rồng mới muốn bắt đầu làm bậy trong quan tài." />
+    <TextStringDefinition InstanceID="0xDC6D3FEC" TextString="Nồi vẫn đang ủ." />
+    <TextStringDefinition InstanceID="0x96C65763" TextString="Cốc vẫn đang ủ." />
+    <TextStringDefinition InstanceID="0x69A8F0BD" TextString="Làm rỗng {1.ObjectName}" />
+    <TextStringDefinition InstanceID="0x47EF94CE" TextString="Cần một thùng rác hoặc bồn rửa để dọn dẹp điều này." />
+    <TextStringDefinition InstanceID="0xA945E259" TextString="Dọn dẹp" />
+    <TextStringDefinition InstanceID="0x6EBB512A" TextString="(Từ Tính cách Werewolf)" />
+    <TextStringDefinition InstanceID="0xE52C8466" TextString="Nằm xuống" />
+    <TextStringDefinition InstanceID="0xE9DB7FB5" TextString="{0.SimName} quá sợ giường để ngủ trưa trên đó!" />
+    <TextStringDefinition InstanceID="0x238BFEB0" TextString="Ngủ trưa Nhanh" />
+    <TextStringDefinition InstanceID="0xEA71AFFD" TextString="Ngủ trưa Ma cà rồng" />
+    <TextStringDefinition InstanceID="0x1298F5B9" TextString="Kích hoạt Quái vật Dưới Giường (DEBUG)" />
+    <TextStringDefinition InstanceID="0x789238FA" TextString="Hét lên với" />
+    <TextStringDefinition InstanceID="0x88D7532E" TextString="Kể bí mật" />
+    <TextStringDefinition InstanceID="0x6D50BA17" TextString="Gọi tên" />
+    <TextStringDefinition InstanceID="0x89735ABE" TextString="Yêu cầu Quái vật Dưới Giường rời đi" />
+    <TextStringDefinition InstanceID="0x6E7577F9" TextString="Hỏi về việc Sống dưới Giường" />
+    <TextStringDefinition InstanceID="0x77FDA71A" TextString="Nói chuyện với Quái vật Dưới Giường" />
+    <TextStringDefinition InstanceID="0xDFDE0051" TextString="{0.SimFirstName} đã thất bại trong nỗ lực giao tiếp với Quái vật Dưới {M0.anh ấy}{F0.cô ấy} giường. Có vẻ như nó không muốn kết bạn ngay bây giờ." />
+    <TextStringDefinition InstanceID="0x69804C62" TextString="{0.SimFirstName} vừa kết bạn với Quái vật Dưới {M0.anh ấy}{F0.cô ấy} Giường! {M0.Anh ấy}{F0.Cô ấy} không thể chờ để tìm hiểu thêm về nó!" />
+    <TextStringDefinition InstanceID="0x10E71426" TextString="Chơi với Quái vật Dưới Giường" />
+    <TextStringDefinition InstanceID="0x940E28B3" TextString="Đề xuất Chơi đùa Lưng tựa lưng với {2.SimFirstName}" />
+    <TextStringDefinition InstanceID="0xDAE878BA" TextString="Yêu sách" />
+    <TextStringDefinition InstanceID="0xFF79606E" TextString="{0.SimFirstName} đã yêu sách chiếc giường này." />

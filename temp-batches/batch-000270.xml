@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xC54A6280" TextString="{2.SimName} trong hộ gia đình {4.String} đã qua đời.\n\n{2.SimFirstName} có thể đã yêu quá nhiều cho độ tuổi {F2.her}{M2.his} của mình." />
+    <TextStringDefinition InstanceID="0xF430D6AE" TextString="{2.SimName} trong hộ gia đình {4.String} đã qua đời.\n\n{2.SimFirstName} đã ở dưới nắng quá lâu và bị quá nhiệt." />
+    <TextStringDefinition InstanceID="0xB37644B1" TextString="{2.SimName} trong hộ gia đình {4.String} đã qua đời.\n\nMột cách đáng kinh ngạc, {2.SimFirstName} đã sửa chữa tồi tệ và bị điện giật." />
+    <TextStringDefinition InstanceID="0x2F3BB884" TextString="{2.SimName} trong hộ gia đình {4.String} đã qua đời.\n\n{2.SimFirstName} đã làm một con gà tức giận." />
+    <TextStringDefinition InstanceID="0x80607AE9" TextString="{2.SimName} trong hộ gia đình {4.String} đã qua đời.\n\n{2.SimFirstName} đã sa vào bẫy bánh của cây bò. {F2.She}{M2.He} không thể vừa có bánh vừa ăn bánh." />
+    <TextStringDefinition InstanceID="0x78354B1A" TextString="{2.SimName} trong hộ gia đình {4.String} đã qua đời.\n\nKhông có kết thúc mở ở đây; {2.SimFirstName} trượt chân khi leo núi đá." />
+    <TextStringDefinition InstanceID="0xBE91F30C" TextString="{2.SimName} trong hộ gia đình {4.String} đã qua đời.\n\n{2.SimFirstName} lẽ ra nên học bơi." />
+    <TextStringDefinition InstanceID="0xFE95DD83" TextString="{2.SimName} trong hộ gia đình {4.String} đã qua đời.\n\n{2.SimFirstName} là nạn nhân của một cuộc tấn công từ con gà hung dữ." />
+    <TextStringDefinition InstanceID="0xC8F69C87" TextString="{2.SimName} trong hộ gia đình {4.String} đã qua đời.\n\n{2.SimFirstName} đã thọc ngón tay vào ổ cắm và điện phát ra." />
+    <TextStringDefinition InstanceID="0xD01E0146" TextString="{2.SimName} trong hộ gia đình {4.String} đã qua đời.\n\n{2.SimFirstName} đã có nụ cười cuối cùng của {F2.her}{M2.his}." />
+    <TextStringDefinition InstanceID="0x09A06AA7" TextString="{2.SimName} trong hộ gia đình {4.String} đã qua đời.\n\n{2.SimFirstName} đã blush (thẹn) đến mức {F2.she}{M2.he} nổ tung." />
+    <TextStringDefinition InstanceID="0xBC310E0C" TextString="{2.SimName} trong hộ gia đình {4.String} đã qua đời.\n\n{2.SimFirstName} đã tập luyện quá nhiều cho độ tuổi {F2.her}{M2.his}." />
+    <TextStringDefinition InstanceID="0x6A705C81" TextString="{2.SimName} trong hộ gia đình {4.String} đã qua đời.\n\n{2.SimFirstName} đã cố gắng niệm quá nhiều phép thuật." />
+    <TextStringDefinition InstanceID="0x4BEF41C3" TextString="Lối Sống Ẩn Đang Tiến Triển" />
+    <TextStringDefinition InstanceID="0xF5F5D9D2" TextString="Lối Sống là sự thể hiện của hành vi và thói quen của một Sim theo thời gian. Một Sim chỉ có thể làm việc theo hoặc chống lại một lối sống một chút trong một ngày nhất định.&#xD;&#xA;&lt;font color='#D91A1A'&gt;Sim của bạn sẽ cần mất đi một Lối Sống đang hoạt động để tiến triển trong một lối sống mới.&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xB93138B0" TextString="Sim của bạn chưa thực hiện bất kỳ hành động nào có thể mở khóa Lối Sống này. Hãy để Sim của bạn thử điều gì đó mà họ chưa từng làm trước đây." />
+    <TextStringDefinition InstanceID="0x53E928F1" TextString="Lối Sống" />
+    <TextStringDefinition InstanceID="0xC21B9E63" TextString="Lối Sống là sự thể hiện của hành vi và thói quen của một Sim theo thời gian. Một Sim chỉ có thể làm việc theo hoặc chống lại một lối sống một chút trong một ngày nhất định." />
+    <TextStringDefinition InstanceID="0x583AF1C5" TextString="???" />
+    <TextStringDefinition InstanceID="0x85FB5140" TextString="Ẩn" />
+    <TextStringDefinition InstanceID="0x48C8E48D" TextString="Có Nguy Cơ!" />
+    <TextStringDefinition InstanceID="0x95CBB1C7" TextString="Hoạt Động" />
+    <TextStringDefinition InstanceID="0x4A28CAFC" TextString="Đang Tiến Triển" />
+    <TextStringDefinition InstanceID="0x43EB2D5B" TextString="Đã Khóa" />
+    <TextStringDefinition InstanceID="0x21607E63" TextString="Lối Sống Đang Tiến Triển" />
+    <TextStringDefinition InstanceID="0xF00BB1F1" TextString="{0.SimFirstName} đã bước đầu tiên để mở khóa một Lối Sống. Xem bảng Lối Sống trong bảng Simology để tìm hiểu thêm!" />
+    <TextStringDefinition InstanceID="0x6B6CB222" TextString="{0.SimFirstName} đã khám phá ra một Lối Sống trước đây bị ẩn! Xem menu Lối Sống trong bảng Simology để tìm hiểu thêm." />
+    <TextStringDefinition InstanceID="0xD14CB58F" TextString="Đã Đạt Giới Hạn Hàng Ngày Của Lối Sống" />
+    <TextStringDefinition InstanceID="0x7915951D" TextString="Tất cả các Lối Sống đều có một lượng tiến triển giới hạn có thể đạt được mỗi ngày. {0.SimFirstName} đã đạt Giới Hạn Hàng Ngày cho một Lối Sống." />
+    <TextStringDefinition InstanceID="0x689A2DA3" TextString="Việc đi chơi cảm giác thú vị hơn khi bạn phải lén lút ra ngoài để làm điều đó!" />
+    <TextStringDefinition InstanceID="0x9A93D4DE" TextString="Bữa tiệc đó là một hương vị của cuộc sống sẽ như thế nào một ngày nào đó và một kỷ niệm thực sự tuyệt vời khi tôi già và nhàm chán." />
+    <TextStringDefinition InstanceID="0x18C66C69" TextString="Mọi người đều lớn tuổi hơn và đáng sợ. Tôi cảm thấy như một đứa trẻ suốt thời gian. Thật tồi tệ." />
+    <TextStringDefinition InstanceID="0xFDEDFE34" TextString="Tôi không nghĩ mình đã sẵn sàng cho một bữa tiệc đại học. Quá nhiều thứ để lo lắng và căng thẳng!" />
+    <TextStringDefinition InstanceID="0x784AF04F" TextString="Đó là phong cách của tôi! Đó là người của tôi! Tôi không thể chờ để đó trở thành cuộc sống của tôi mọi lúc!" />
+    <TextStringDefinition InstanceID="0x4A16E09A" TextString="Lần đầu lén lút ra ngoài! Không chắc là paranoia hay adrenaline nhưng tôi cảm thấy SIÊU NGƯỜI." />
+    <TextStringDefinition InstanceID="0x142F5B35" TextString="Không thể tin là tôi bị bắt. Tôi đổ lỗi cho khung cửa kêu cót két." />
+    <TextStringDefinition InstanceID="0x15D2B2D0" TextString="Một chút rắc rối chưa bao giờ làm ai bị thương và tôi sẽ nói đêm nay thành công hơn mong đợi." />
+    <TextStringDefinition InstanceID="0x98F6B8DB" TextString="Tôi sẽ ra ngoài tối nay. Không nhớ cha mẹ tôi có rình rập không nhưng nếu có, bạn đã không thấy điều này." />
+    <TextStringDefinition InstanceID="0xE92FECF6" TextString="Nó dễ dàng hơn nhiều khi nhảy ra từ tủ hơn là chờ đợi trong những hang động ẩm ướt cũ để nhảy ra và dọa người qua đường." />
+    <TextStringDefinition InstanceID="0xF19FA856" TextString="Cập Nhật Người Theo Dõi: Hôm nay số người theo dõi của bạn đã thay đổi {0.Number}." />
+    <TextStringDefinition InstanceID="0x1495EEE8" TextString="Con dơi đó họ không ngờ tới! Không ai mong đợi một con dơi trong tủ của họ." />
+    <TextStringDefinition InstanceID="0xEDC1FC6D" TextString="Tôi là sự kinh hoàng vỗ cánh trong đêm! Tôi là con chó ăn bài tập của bạn!\nẨn mình trong tủ đó là trò đùa hoàn hảo." />
+    <TextStringDefinition InstanceID="0x51D0542A" TextString="Tôi đã cố gắng che giấu nước mắt và nín khóc trong tủ của mình. Mọi người vẫn nhận thấy." />
+    <TextStringDefinition InstanceID="0x8A86599F" TextString="Thật an ủi khi khóc vào cửa tủ của tôi. Những tiếng khóc vang lên và cảm giác như tôi ít cô đơn hơn." />
+    <TextStringDefinition InstanceID="0x8A5E693B" TextString="Muốn được thêm vào danh bạ của bạn." />
+    <TextStringDefinition InstanceID="0x980A1DD0" TextString="Ngay cả một cây bò cũng không muốn ở quanh bạn, {0.SimFirstName}." />
+    <TextStringDefinition InstanceID="0x910A12D5" TextString="Làm ơn, hãy quay vào nhà và tháo cửa ra. Không ai muốn thấy bạn ở nơi công cộng." />
+    <TextStringDefinition InstanceID="0x920A1446" TextString="Liệu có phải sẽ thật tệ nếu bạn tình cờ tìm thấy một số vật bị phá hoại trong tương lai không." />
+    <TextStringDefinition InstanceID="0x930A15F3" TextString="Bạn trông giống như một con lạc đà bị cạo lông!" />
+    <TextStringDefinition InstanceID="0x940A171C" TextString="Số người theo dõi của bạn và bạn là như nhau. Một con số 0 lớn." />

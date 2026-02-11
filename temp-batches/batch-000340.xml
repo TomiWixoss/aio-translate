@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x66520D12" TextString="Tăng âm lượng lên và để nó chiếm lĩnh bạn." />
+    <TextStringDefinition InstanceID="0x928A35D2" TextString="Nhạc đã bật rồi!" />
+    <TextStringDefinition InstanceID="0x8724928E" TextString="Cần thứ gì đó chảy trôi." />
+    <TextStringDefinition InstanceID="0x79191446" TextString="Điều cổ điển chưa bao giờ thất bại." />
+    <TextStringDefinition InstanceID="0x85D06629" TextString="Đó là một điểm khởi đầu tốt." />
+    <TextStringDefinition InstanceID="0xE044E878" TextString="Nếu nó không có mùi, thì liệu nó có bẩn không?" />
+    <TextStringDefinition InstanceID="0xB83FEA7C" TextString="Hãy hôn nhau!" />
+    <TextStringDefinition InstanceID="0x6B991AA3" TextString="Hãy hôn nhau!" />
+    <TextStringDefinition InstanceID="0xE2277FDF" TextString="Chu môi lên {2.SimFirstName}!" />
+    <TextStringDefinition InstanceID="0x77A1AEA8" TextString="Chu môi lên {2.SimFirstName}!" />
+    <TextStringDefinition InstanceID="0xA9C051A5" TextString="Chu môi lên!" />
+    <TextStringDefinition InstanceID="0xF274092C" TextString="Coi chừng đấy, bựa!" />
+    <TextStringDefinition InstanceID="0xB0E5DDB6" TextString="Bắt tốt!" />
+    <TextStringDefinition InstanceID="0x7B548814" TextString="Như một tấm lưới an toàn!" />
+    <TextStringDefinition InstanceID="0xA10FEB15" TextString="Dù vì tiền bạc hay mục đích cao cả, tìm được công việc yêu thích có thể vô cùng thỏa mãn!" />
+    <TextStringDefinition InstanceID="0x9919C72C" TextString="Dâu tây hay nho? Hãy theo nhịp điệu của bạn!" />
+    <TextStringDefinition InstanceID="0xA9C759F9" TextString="Có bạn bè có thể là một sự thay đổi đáng hoan nghênh." />
+    <TextStringDefinition InstanceID="0x719C683E" TextString="Đặt những câu hỏi khó và đánh hơi ra câu trả lời." />
+    <TextStringDefinition InstanceID="0xA7D5D20F" TextString="Phải hỏi những câu hỏi khó ấy!" />
+    <TextStringDefinition InstanceID="0xE3F9B7E7" TextString="Luôn phải chuẩn bị cho công việc này." />
+    <TextStringDefinition InstanceID="0x0BE85D5F" TextString="{2.SimFirstName} đang bay hơi cao, đến lúc hạ {M2.him}{F2.her} xuống một bậc với những lời chế giễu tinh tế." />
+    <TextStringDefinition InstanceID="0x11AB281C" TextString="Cải lương là một nghệ thuật mà {1.SimFirstName} sẵn sàng thể hiện trong buổi biểu diễn tiếp theo của {F1.her}{M1.his}!" />
+    <TextStringDefinition InstanceID="0x66DF1218" TextString="Cú chụm lớn! Đuôi bò! Skipper nhỏ!" />
+    <TextStringDefinition InstanceID="0xA8C01DE2" TextString="Thức ăn là nhiên liệu và nhiên liệu là cuộc sống!" />
+    <TextStringDefinition InstanceID="0x5E3F47EA" TextString="{2.SimFirstName} đang ôm kiểu gì? Ôm bên hông? Ôm thường?!" />
+    <TextStringDefinition InstanceID="0x9AC3B98D" TextString="{2.SimFirstName} đang ôm kiểu gì? Ôm bên hông? Ôm thường?!" />
+    <TextStringDefinition InstanceID="0xDE5B0987" TextString="Chiếu bí &#xD;&#xA;" />
+    <TextStringDefinition InstanceID="0xD7D56A20" TextString="Keo sụn" />
+    <TextStringDefinition InstanceID="0x327B0E69" TextString="Blues Nhà Tắm" />
+    <TextStringDefinition InstanceID="0xD088A39F" TextString="Phòng Riêng Của Nữ Hoàng" />
+    <TextStringDefinition InstanceID="0x940FA9BF" TextString="Tường Trơn" />
+    <TextStringDefinition InstanceID="0xEE84D36B" TextString="Vô Trùng&#xD;&#xA;" />
+    <TextStringDefinition InstanceID="0x1FF8C139" TextString="Chút Màu Sắc" />
+    <TextStringDefinition InstanceID="0xB9A44053" TextString="Hoàn Hảo Từng Pixel" />
+    <TextStringDefinition InstanceID="0x59D22553" TextString="Thế Giới Số" />
+    <TextStringDefinition InstanceID="0xC6D584AE" TextString="Vỏ Sò Trên Bãi Biển" />
+    <TextStringDefinition InstanceID="0x1739D366" TextString="Giấc Mơ Khảm&#xD;&#xA;" />
+    <TextStringDefinition InstanceID="0x0E563C83" TextString="Giấc Mơ Trong Giấc Mơ&#xD;&#xA;" />
+    <TextStringDefinition InstanceID="0x8058DD2E" TextString="Gạch Ốp Tàu Điện Ngầm Bóng Và Có Góc Bevel" />
+    <TextStringDefinition InstanceID="0x416CE3DA" TextString="Tường Hai Tông Không Có Wainscoting Hay Trim" />
+    <TextStringDefinition InstanceID="0xB63A3BDB" TextString="Gạch Lấp Lánh Có Đốm" />
+    <TextStringDefinition InstanceID="0xD53E7120" TextString="Vừa Vặn Và Gọn Gàng" />
+    <TextStringDefinition InstanceID="0x76E6F747" TextString="Terracotta Trima" />
+    <TextStringDefinition InstanceID="0x30C56227" TextString="Đất Sao Hỏa" />
+    <TextStringDefinition InstanceID="0x03E2E795" TextString="Stucco Bạn" />
+    <TextStringDefinition InstanceID="0xF185E6B6" TextString="Gỗ Sâu" />
+    <TextStringDefinition InstanceID="0x221C6E83" TextString="Bánh Mì Sandwich Stucco Trên Bánh Mì Sourdough&#xD;&#xA;" />
+    <TextStringDefinition InstanceID="0x19B2B159" TextString="Stucina" />
+    <TextStringDefinition InstanceID="0x81118BC1" TextString="Quần Vaiyon&#xD;&#xA;" />
+    <TextStringDefinition InstanceID="0x50E539D4" TextString="Dải Sọc" />

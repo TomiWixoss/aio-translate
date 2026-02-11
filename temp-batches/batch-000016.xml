@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xB5147272" TextString="Điểm Ưu Đãi:" />
+    <TextStringDefinition InstanceID="0x39861BE2" TextString="Mở Liên minh &amp; Đối thủ" />
+    <TextStringDefinition InstanceID="0x1F933B8C" TextString="Không có Sim nào đủ điều kiện để thêm vào Triều đại." />
+    <TextStringDefinition InstanceID="0x74313D6A" TextString="Tạo Triều đại không có Người thừa kế?" />
+    <TextStringDefinition InstanceID="0xE38E8CC6" TextString="Một Người thừa kế sẽ có thể tạo ra nhiều Danh vọng hơn một Thành viên thông thường. Người đứng đầu Triều đại có thể chỉ định hoặc thay đổi Người thừa kế bất kỳ lúc nào.\n\nBạn có chắc chắn muốn tạo Triều đại này mà không chỉ định Người thừa kế trước?" />
+    <TextStringDefinition InstanceID="0x6B71C36A" TextString="Một Triều đại bao gồm một nhóm các Sim có quan hệ huyết thống. Bất kỳ ai có quan hệ với Người đứng đầu Triều đại, hoặc là con, cháu, hoặc con riêng của một thành viên khác, đều được phép tham gia. \n\nKhông phải tất cả các Sim có thể tham gia đều muốn tham gia, hoặc được Người đứng đầu Triều đại cho phép! Cải thiện mối quan hệ giữa Sim và Người đứng đầu Triều đại, và tăng Danh vọng của Triều đại, có thể giúp trong những tình huống như vậy." />
+    <TextStringDefinition InstanceID="0xFFB83605" TextString="Thành viên" />
+    <TextStringDefinition InstanceID="0xE2F3FA33" TextString="Thành viên" />
+    <TextStringDefinition InstanceID="0x13F591E8" TextString="Chỉ người đứng đầu Triều đại mới có thể chỉnh sửa điều này." />
+    <TextStringDefinition InstanceID="0xDD22126B" TextString="Rời Triều đại" />
+    <TextStringDefinition InstanceID="0xBA71FCB3" TextString="Bạn có muốn đuổi Thành viên này ra khỏi Triều đại?" />
+    <TextStringDefinition InstanceID="0x86F55FD3" TextString="Việc đuổi thành viên này ra khỏi Triều đại có thể có hậu quả.\n\nBạn có chắc chắn muốn làm điều này?" />
+    <TextStringDefinition InstanceID="0x51F08DE3" TextString="Đuổi khỏi Triều đại" />
+    <TextStringDefinition InstanceID="0x53A91ED4" TextString="Thành viên" />
+    <TextStringDefinition InstanceID="0x159C08EC" TextString="Triều đại cần một Người đứng đầu." />
+    <TextStringDefinition InstanceID="0x82360643" TextString="&lt;font color='#AE3CDE'&gt;Đang trong Bê bối&lt;/font&gt;\n&lt;font color='#1E81E6'&gt;Thời gian còn lại:&lt;/font&gt; &lt;font color='#199C2C'&gt;{0.Timespan}&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xF66EB301" TextString="Các Triều đại có thể chọn tối đa ba Lý tưởng để tôn thờ như Giá trị Triều đại.\n\nCác Thành viên tham gia vào các Hoạt động được Khuyến khích của Lý tưởng, đi làm trong Sự nghiệp được Khuyến khích, hoặc tham gia vào Hoạt động ngoại khóa được Khuyến khích sẽ tạo ra Danh vọng cho Triều đại. Các Thành viên tham gia vào các Hoạt động bị Khước từ của Lý tưởng hoặc đi làm trong Sự nghiệp bị Khước từ sẽ khiến Triều đại mất Danh vọng.\n\nHầu hết các Thành viên sẽ tự tham gia vào các Hoạt động được Khuyến khích của Lý tưởng thường xuyên hơn nhưng chỉ khi Tự chủ được đặt là Đầy đủ trong Tùy chọn Trò chơi &gt; Chơi. Tuy nhiên, các thành viên có Đặc điểm đối lập với một Lý tưởng (ví dụ, Đặc điểm Ác đối lập với Lý tưởng Trắc ẩn) có thể tham gia vào các Hoạt động bị Khước từ thường xuyên hơn!" />
+    <TextStringDefinition InstanceID="0x9B33C928" TextString="Lý tưởng" />
+    <TextStringDefinition InstanceID="0x207C5C30" TextString="&lt;font color='#EC262E'&gt;Lý tưởng này đã được chọn.&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xD2F8E780" TextString="Thêm Lý tưởng" />
+    <TextStringDefinition InstanceID="0xF872A3E7" TextString="Người thừa kế Triều đại" />
+    <TextStringDefinition InstanceID="0x0B842C89" TextString="Thêm thành viên vào Triều đại trước để chọn Người thừa kế." />
+    <TextStringDefinition InstanceID="0x51BD3DC9" TextString="Người đứng đầu Triều đại" />
+    <TextStringDefinition InstanceID="0x8798D405" TextString="\n&lt;b&gt;&lt;font color='#199C2C'&gt;Sự nghiệp &amp; Hoạt động ngoại khóa được Khuyến khích&lt;/font&gt;&lt;/b&gt;" />
+    <TextStringDefinition InstanceID="0x5DE3D76F" TextString="&lt;b&gt;&lt;font color='#199C2C'&gt;Hoạt động được Khuyến khích&lt;/font&gt;&lt;/b&gt;" />
+    <TextStringDefinition InstanceID="0xC7A8529A" TextString="Không có Liên minh hay Đối thủ" />
+    <TextStringDefinition InstanceID="0xC0B0EA09" TextString="Cấp độ Danh vọng {0.Number}" />
+    <TextStringDefinition InstanceID="0xA274FC08" TextString="&lt;font color='#1E81E6'&gt;{0.Number} Thành viên&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0xF8A9A682" TextString="Triều đại của {0.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x1457DCFA" TextString="&lt;font color='#EC262E'&gt;Đối thủ&lt;/font&gt;\n&lt;font color='#1E81E6'&gt;{0.Number} Thành viên&lt;/font&gt;\nCấp độ Danh vọng {1.Number}" />
+    <TextStringDefinition InstanceID="0x64E78576" TextString="&lt;font color='#199C2C'&gt;Đồng minh&lt;/font&gt;\n&lt;font color='#1E81E6'&gt;{0.Number} Thành viên&lt;/font&gt;\nCấp độ Danh vọng {1.Number}" />
+    <TextStringDefinition InstanceID="0x1F85232C" TextString="\n&lt;b&gt;&lt;font color='#EC262E'&gt;Sự nghiệp bị Khước từ&lt;/font&gt;&lt;/b&gt;" />
+    <TextStringDefinition InstanceID="0x1AC53D34" TextString="\n&lt;b&gt;&lt;font color='#EC262E'&gt;Hoạt động bị Khước từ&lt;/font&gt;&lt;/b&gt;" />
+    <TextStringDefinition InstanceID="0xEC77877F" TextString="Bạn có chắc chắn muốn chỉ định thành viên này làm Người thừa kế?" />
+    <TextStringDefinition InstanceID="0xDF376787" TextString="Một Sim khác đã là Người thừa kế của Triều đại này, họ sẽ mất vị trí và có thể phản ứng tiêu cực.\n\nBạn có chắc chắn muốn thay đổi này?" />
+    <TextStringDefinition InstanceID="0x4DD15F17" TextString="Một Kẻ bị ruồng bỏ không thể được chỉ định làm Người thừa kế." />
+    <TextStringDefinition InstanceID="0x7C64A57D" TextString="Chỉ định Người thừa kế" />
+    <TextStringDefinition InstanceID="0x0C8DA135" TextString="Đã được chỉ định là Kẻ bị ruồng bỏ." />
+    <TextStringDefinition InstanceID="0x2AF91A73" TextString="Người thừa kế không thể được chỉ định là Kẻ bị ruồng bỏ." />
+    <TextStringDefinition InstanceID="0xA8449E11" TextString="Phải là thiếu niên hoặc lớn hơn để được chỉ định là Kẻ bị ruồng bỏ." />
+    <TextStringDefinition InstanceID="0x997C3A23" TextString="Tuyên bố Kẻ bị ruồng bỏ" />
+    <TextStringDefinition InstanceID="0x5B433290" TextString="Xóa Kỹ năng" />
+    <TextStringDefinition InstanceID="0xAC8EC00B" TextString="Xóa Thành viên" />
+    <TextStringDefinition InstanceID="0xF79C1DF8" TextString="Xóa Lý tưởng" />
+    <TextStringDefinition InstanceID="0x4B20862D" TextString="Tên Triều đại" />
+    <TextStringDefinition InstanceID="0xB9A60B12" TextString="Nhập Mô tả..." />
+    <TextStringDefinition InstanceID="0x2389FCF9" TextString="Tạo Triều đại của Bạn" />
+    <TextStringDefinition InstanceID="0x5A6307BB" TextString="Tạo Triều đại Mới" />
+    <TextStringDefinition InstanceID="0x114A0142" TextString="Triều đại phải có tên hợp lệ." />
+    <TextStringDefinition InstanceID="0x5BCD1989" TextString="&lt;font color='#1E81E6'&gt;Kẻ bị ruồng bỏ&lt;/font&gt;" />

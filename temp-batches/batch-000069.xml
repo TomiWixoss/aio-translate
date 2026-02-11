@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x3576B68C" TextString="{0.SimFirstName} hiện đang là PlantSim." />
+    <TextStringDefinition InstanceID="0x672D671C" TextString="{0.SimFirstName} hiện đang là Werewolf. " />
+    <TextStringDefinition InstanceID="0x4FD77E22" TextString="{0.SimFirstName} hiện đang là Fairy. " />
+    <TextStringDefinition InstanceID="0x5D1C2C40" TextString="{0.SimFirstName} đang trở thành Fairy." />
+    <TextStringDefinition InstanceID="0xC7AD7C96" TextString="{0.SimFirstName} đã là Spellcaster rồi." />
+    <TextStringDefinition InstanceID="0x82BCB56D" TextString="{0.SimFirstName} đang trở thành Mermaid." />
+    <TextStringDefinition InstanceID="0x5DAF8BD0" TextString="{0.SimFirstName} là Robot." />
+    <TextStringDefinition InstanceID="0x2C022876" TextString="{0.SimFirstName} đang trở thành Werewolf." />
+    <TextStringDefinition InstanceID="0x0C814DAE" TextString="{0.SimFirstName} hiện đang là Vampire." />
+    <TextStringDefinition InstanceID="0x08E6271F" TextString="{0.SimFirstName} hiện đang là Alien." />
+    <TextStringDefinition InstanceID="0x7E1A14C9" TextString="{1.SimFirstName} hiện đang là Spellcaster." />
+    <TextStringDefinition InstanceID="0xFD462985" TextString="{1.SimFirstName} hiện đang là Vampire." />
+    <TextStringDefinition InstanceID="0x35DE5C00" TextString="{1.SimFirstName} hiện đang là Alien." />
+    <TextStringDefinition InstanceID="0x3DF3A847" TextString="Bạn không thể tương tác với Sim đó lúc này." />
+    <TextStringDefinition InstanceID="0x1D291D0A" TextString="Bạn không thể làm điều này khi chó của bạn đang được xích." />
+    <TextStringDefinition InstanceID="0x29A87C8C" TextString="Bạn không thể mặc thứ này khi bạn đang mặc trang phục Toàn thân." />
+    <TextStringDefinition InstanceID="0x2D9B10B0" TextString="Bạn không thể mặc áo thun khi trang phục hàng ngày đầu tiên của bạn là trang phục Toàn thân." />
+    <TextStringDefinition InstanceID="0xAEBB7D85" TextString="{0.SimFirstName} phải ở trên lô đất nhà của {M0.his}{F0.her} để làm điều này." />
+    <TextStringDefinition InstanceID="0xBFBBE699" TextString="Không được phép trong nước." />
+    <TextStringDefinition InstanceID="0x84D6BF65" TextString="Không thể làm điều này khi một Sim đang sử dụng balo sau." />
+    <TextStringDefinition InstanceID="0x9C92F1F0" TextString="Hiện tại không có gì để dập tắt." />
+    <TextStringDefinition InstanceID="0xF3998ECC" TextString="{1.SimFirstName} đang kết hôn ngay bây giờ!" />
+    <TextStringDefinition InstanceID="0x7CEF73DB" TextString="{0.SimFirstName} không quan tâm đến {1.SimFirstName} về mặt tình cảm." />
+    <TextStringDefinition InstanceID="0xB94701E6" TextString="{1.SimFirstName} là Bộ xương và không thể làm điều này ngay bây giờ." />
+    <TextStringDefinition InstanceID="0xF0E987AA" TextString="Không thể trồng cái này khi có hạt giống cây đang chiếm không gian của hộp trồng." />
+    <TextStringDefinition InstanceID="0xB885E068" TextString="Không thể trồng cây khi có hạt giống khác ở gần đang chiếm không gian của hộp trồng." />
+    <TextStringDefinition InstanceID="0x8F7107F3" TextString="{0.SimFirstName} không đủ Kỹ năng Tinh thần để làm điều này." />
+    <TextStringDefinition InstanceID="0x016FDD68" TextString="Không thể trồng thêm gì ở đây, cây trồng khổng lồ cần không gian." />
+    <TextStringDefinition InstanceID="0x1350A32A" TextString="Các Sim hiện đang bị khóa trong một trận chiến thử thách hoành tráng" />
+    <TextStringDefinition InstanceID="0xFEF9C49A" TextString="{0.SimFirstName} quá khó chịu để làm điều này ngay bây giờ." />
+    <TextStringDefinition InstanceID="0x16E4EA30" TextString="{0.SimFirstName} quá khó chịu để làm điều này." />
+    <TextStringDefinition InstanceID="0xDD07D404" TextString="Trẻ mới biết đi tài năng" />
+    <TextStringDefinition InstanceID="0x9D33B238" TextString="Trẻ mới biết đi đạt cấp 3 trong 4 kỹ năng" />
+    <TextStringDefinition InstanceID="0xF46CA2CA" TextString="Chúng lớn nhanh thật!" />
+    <TextStringDefinition InstanceID="0xE80FC376" TextString="Bạn bè, Kỹ năng, Giấc mơ... Trở nên cân bằng hoàn hảo, như tất cả Sim đáng lẽ phải vậy." />
+    <TextStringDefinition InstanceID="0x5504046C" TextString="Người cố vấn truyền cảm hứng" />
+    <TextStringDefinition InstanceID="0xB4CDB909" TextString="Sim này rất tập trung vào việc học hỏi và chia sẻ kiến thức, và mục tiêu của cô ấy là giúp người khác phát triển! Các Sim có thể cố vấn trong các kỹ năng: Lập trình, Khoa học tên lửa, Hài hước, Viết, Vẽ, Câu cá, Thủ công, Logic, Đàn piano, Đàn violin, Đàn guitar, Thể dục, Robot, Chế tạo và Đan móc.\nĐể cố vấn, đạt cấp 10 trong một kỹ năng có thể cố vấn và sử dụng tương tác &quot;Cố vấn&quot; lên một Sim khác trong khi họ đang luyện tập kỹ năng đó. Để viết sách kỹ năng, đạt cấp 5 trong một kỹ năng và sử dụng máy tính để &quot;Viết sách kỹ năng&quot; trong danh mục &quot;Viết&quot;." />
+    <TextStringDefinition InstanceID="0x08949998" TextString="Người cố vấn truyền cảm hứng" />
+    <TextStringDefinition InstanceID="0x84972674" TextString="Sim đạt tối đa một kỹ năng, cố vấn cho thanh thiếu niên 5 lần, là bạn thân với người được cố vấn và viết một sách kỹ năng." />
+    <TextStringDefinition InstanceID="0x78531950" TextString="Tổ chức Carnaval" />
+    <TextStringDefinition InstanceID="0xDFC222DD" TextString="Carnaval đã đến - thời gian để ăn mừng với âm nhạc, đồ ăn và nhảy! Ăn mặc đẹp, vui vẻ và thưởng thức sự hiện diện của bạn, tiệc tùng thả ga, và dành thời gian ăn các món đặc sản. Bạn sẽ ăn mừng Carnaval như thế nào?" />
+    <TextStringDefinition InstanceID="0x22009DC8" TextString="Nhảy" />
+    <TextStringDefinition InstanceID="0xA4534564" TextString="Hãy để một Sim lắng nghe Nhịp điệu Carnaval và nhảy theo" />
+    <TextStringDefinition InstanceID="0xF23E89CA" TextString="Tiệc" />
+    <TextStringDefinition InstanceID="0x73BBE8D2" TextString="Tổ chức một bữa tiệc. Trang phục hóa trang được khuyến khích mạnh mẽ." />
+    <TextStringDefinition InstanceID="0xE036450A" TextString="Cỗ bàn" />
+    <TextStringDefinition InstanceID="0xBC79DB12" TextString="Nấu Acarajé, Pão de Queijo hoặc Brigadeiro cùng với ít nhất một Sim khác" />
+    <TextStringDefinition InstanceID="0xA49285ED" TextString="Làm cho ước nguyện của họ thành hiện thực, tất cả những gì họ muốn cho Winterfest là... hòa thuận!" />
+    <TextStringDefinition InstanceID="0xBA098A69" TextString="Sống sót qua các kỳ nghỉ" />
+    <TextStringDefinition InstanceID="0xE7A62730" TextString="Hai Sim ghét nhau bị mắc kẹt sống chung với nhau do một câu chuyện quá khứ phức tạp liên quan đến một số yêu tinh và bẫy bất động sản, và cả hai đều quá cứng đầu để dọn đi. Trong tinh thần của mùa lễ hội, liệu họ có tìm được cách hàn gắn sự khác biệt? Hoặc mùa lễ hội này sẽ là giọt nước tràn ly?\n" />

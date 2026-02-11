@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x4DED0DE4" TextString="[PH] Xóa khuyết điểm" />
+    <TextStringDefinition InstanceID="0x9ADD0F65" TextString="Pha Trăng Đêm Nay:" />
+    <TextStringDefinition InstanceID="0x667FB3D6" TextString="Xung Đột Mở Cửa Kinh Doanh" />
+    <TextStringDefinition InstanceID="0x8716C511" TextString="Sự kiện {0.String} đang diễn ra gần khu vực kinh doanh này. Mở cửa sẽ khiến Lễ Hội bị đóng cửa." />
+    <TextStringDefinition InstanceID="0x637A5B72" TextString="Mở Cửa Kinh Doanh" />
+    <TextStringDefinition InstanceID="0x86FE7DDB" TextString="Giữ Cửa Đóng" />
+    <TextStringDefinition InstanceID="0xB088EC51" TextString="Các Cột Mốc Của {0.SimFirstName}" />
+    <TextStringDefinition InstanceID="0x2C11B9CD" TextString="Theo Thứ Tự Thời Gian" />
+    <TextStringDefinition InstanceID="0x9277C040" TextString="Loại Cột Mốc" />
+    <TextStringDefinition InstanceID="0x77D05CC0" TextString="{0.SimFirstName} không thể đạt được bất kỳ Cột Mốc nào trong danh mục này." />
+    <TextStringDefinition InstanceID="0xF4DD7A5B" TextString="{0.SimFirstName} chưa đạt được bất kỳ Cột Mốc nào trong danh mục này cho nhóm tuổi được chọn." />
+    <TextStringDefinition InstanceID="0x520123D9" TextString="{0.SimFirstName} không có Cột Mốc nào!" />
+    <TextStringDefinition InstanceID="0x2EF74239" TextString="Sắp xếp theo:" />
+    <TextStringDefinition InstanceID="0x01DAFE94" TextString="Nhóm tuổi này không áp dụng." />
+    <TextStringDefinition InstanceID="0xB6C9B69A" TextString="Duy trì Hành Vi để Mở Khóa" />
+    <TextStringDefinition InstanceID="0x8B67F2AC" TextString="&lt;font color='#d91a1a'&gt;Lối Sống này đang có nguy cơ bị Mất&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x458950BE" TextString="Chồng Thực Phẩm Hư" />
+    <TextStringDefinition InstanceID="0x1FE017B2" TextString="Các vật phẩm trong chồng này đã bị hư. Để loại bỏ chúng khỏi kho đồ, hãy cân nhắc bán chúng hoặc vứt chúng bằng cách kéo chồng đến phần Bán hoặc sử dụng tương tác Dọn Sạch Thực Phẩm Hư bằng cách chọn Sim của bạn." />
+    <TextStringDefinition InstanceID="0x414D5C73" TextString="Giá" />
+    <TextStringDefinition InstanceID="0xCEF3539E" TextString="Mới" />
+    <TextStringDefinition InstanceID="0x6D1738ED" TextString="Tên" />
+    <TextStringDefinition InstanceID="0x16B8B38A" TextString="Bộ Lọc" />
+    <TextStringDefinition InstanceID="0x933F521A" TextString="Sắp Xếp: Đảo Ngược" />
+    <TextStringDefinition InstanceID="0x6D736A0A" TextString="Sắp Xếp: Mặc Định" />
+    <TextStringDefinition InstanceID="0x142BA3B6" TextString="Bật/Tắt Chọn Nhiều - E" />
+    <TextStringDefinition InstanceID="0x045BFF10" TextString="Đang Bán Vật Phẩm..." />
+    <TextStringDefinition InstanceID="0x4876BBAF" TextString="Bán vật phẩm đã chọn - K" />
+    <TextStringDefinition InstanceID="0x8606D6AA" TextString="Bán" />
+    <TextStringDefinition InstanceID="0x02D55AA2" TextString="Bán ({0.Number})\n{1.String}" />
+    <TextStringDefinition InstanceID="0xAFAD7F3B" TextString="Chọn/Bỏ Chọn Tất Cả Vật Phẩm - Ctrl + A" />
+    <TextStringDefinition InstanceID="0x27B9D13E" TextString="Chọn Tất Cả" />
+    <TextStringDefinition InstanceID="0x1E0C165A" TextString="Xóa Khỏi Yêu Thích ({0.Number})" />
+    <TextStringDefinition InstanceID="0x2E9B213D" TextString="Chọn Nhiều:" />
+    <TextStringDefinition InstanceID="0x3F49DD2B" TextString="Thêm/Xóa Khỏi Yêu Thích - F" />
+    <TextStringDefinition InstanceID="0x673500D6" TextString="Yêu Thích" />
+    <TextStringDefinition InstanceID="0x0BBF95EE" TextString="Yêu Thích ({0.Number})" />
+    <TextStringDefinition InstanceID="0x3DD95DF5" TextString="Bỏ Chọn Tất Cả" />
+    <TextStringDefinition InstanceID="0x4B2152DA" TextString="Sự Ổn Định của Đoàn Kết" />
+    <TextStringDefinition InstanceID="0xC9EB72FF" TextString="Trạng thái của một Triều Đại được thể hiện qua Độ Danh Vọng, tức là mức độ thành công của nó, và Đoàn Kết, tức là mức độ hòa hợp giữa các Thành Viên.\n\nĐộ Danh Vọng và Đoàn Kết được xây dựng (hoặc phá hủy) bởi tất cả các thành viên của Triều Đại cùng nhau, và tất cả họ đều được hưởng lợi (hoặc chịu hậu quả) từ những điều đó." />
+    <TextStringDefinition InstanceID="0x556CA672" TextString="Độ Danh Vọng &amp; Đoàn Kết" />
+    <TextStringDefinition InstanceID="0xEAD6F803" TextString="Triều Đại này đang trải qua Khủng Hoảng Đoàn Kết! Tập trung xây dựng mối quan hệ tích cực giữa các thành viên Triều Đại để giải quyết." />
+    <TextStringDefinition InstanceID="0x74B64279" TextString="Khủng Hoảng Đoàn Kết" />
+    <TextStringDefinition InstanceID="0xB6037A8E" TextString="Lợi Ích Triều Đại" />
+    <TextStringDefinition InstanceID="0x3BBD9E94" TextString="{0.SimFirstName} không thuộc về bất kỳ Triều Đại nào." />
+    <TextStringDefinition InstanceID="0xA01E1342" TextString="Trạng Thái Thành Viên" />
+    <TextStringDefinition InstanceID="0x5DE20B0B" TextString="Chi Tiết Triều Đại" />
+    <TextStringDefinition InstanceID="0x1A5963A8" TextString="Hạng: {0.Number}" />
+    <TextStringDefinition InstanceID="0x768ECAD8" TextString="Xem Tất Cả Triều Đại" />
+    <TextStringDefinition InstanceID="0x6BDB2056" TextString="Triều Đại" />
+    <TextStringDefinition InstanceID="0x6FDA3ABE" TextString="Thành Lập Triều Đại" />

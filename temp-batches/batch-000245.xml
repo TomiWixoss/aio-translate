@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x9330B262" TextString="Não Chim" />
+    <TextStringDefinition InstanceID="0xEEC72333" TextString="{0.SimFirstName} đã dạy cho lũ chim một bài học rồi!" />
+    <TextStringDefinition InstanceID="0xB5F43960" TextString="Say Đắm" />
+    <TextStringDefinition InstanceID="0x795A45E5" TextString="Đôi mắt mơ màng ấy đã khiến Sim này rơi vào trạng thái thích thú!" />
+    <TextStringDefinition InstanceID="0x71C790B5" TextString="Độ Cứng Hoàn Hảo" />
+    <TextStringDefinition InstanceID="0xC442C62A" TextString="Như ngủ trên một đám mây, hoặc ít nhất thì đám mây cũng sẽ cảm thấy như vậy." />
+    <TextStringDefinition InstanceID="0xC59C500D" TextString="Ngất Xỉu" />
+    <TextStringDefinition InstanceID="0x2EE86772" TextString="Có vẻ như cái &quot;giấc ngủ trưa&quot; ấy đã biến thành một giấc ngủ mê man..." />
+    <TextStringDefinition InstanceID="0xF6E0ABE0" TextString="Tỉnh Táo Nhờ Ngủ Trưa" />
+    <TextStringDefinition InstanceID="0x1ED48965" TextString="Không gì có thể hồi phục cơ thể bằng một giấc ngủ trưa ngắn ngủi." />
+    <TextStringDefinition InstanceID="0x9A12E201" TextString="Rác" />
+    <TextStringDefinition InstanceID="0x306B2663" TextString="Mồi Cá Nhỏ (ẩn)" />
+    <TextStringDefinition InstanceID="0xC112AC18" TextString="Mồi Trái Cây Thối (ẨN)" />
+    <TextStringDefinition InstanceID="0xABF312D7" TextString="Nhóm Mồi - Hữu Cơ (ẨN)" />
+    <TextStringDefinition InstanceID="0xC5E7640D" TextString="Mồi Kim Loại (ẩn)" />
+    <TextStringDefinition InstanceID="0x915AFE93" TextString="Mồi Cá Vừa (ẨN)" />
+    <TextStringDefinition InstanceID="0x890D9F78" TextString="Mồi Ếch (ẩn)" />
+    <TextStringDefinition InstanceID="0x70A180B0" TextString="Mồi Trái Cây Tươi (ẨN)" />
+    <TextStringDefinition InstanceID="0x9061FD45" TextString="Mồi Hoa Tươi (ẨN)" />
+    <TextStringDefinition InstanceID="0xBF52A47E" TextString="Mồi Nguyên Tố (ẩn)" />
+    <TextStringDefinition InstanceID="0x1FEFFFEC" TextString="Mồi Pha Lê (ẩn)" />
+    <TextStringDefinition InstanceID="0x46AF745F" TextString="Bài Tập Thêm" />
+    <TextStringDefinition InstanceID="0xAD14B5B0" TextString="Bạn đã gặp rắc rối ở trường và kết quả là bị kết án tử bằng bài tập. Rất nhiều bài tập!" />
+    <TextStringDefinition InstanceID="0x40C2D71C" TextString="Thay Đổi Cuộc Sống Nghiêm Túc" />
+    <TextStringDefinition InstanceID="0x9F9AB899" TextString="Ảnh hưởng ai đó để họ đưa ra quyết định lớn như vậy thật hơi khó chịu." />
+    <TextStringDefinition InstanceID="0x4E78FC32" TextString="Chỉ Đang Cố Giúp Đỡ" />
+    <TextStringDefinition InstanceID="0x35A2ED63" TextString="Nếu bạn nghĩ lời khuyên nghề nghiệp lúc nào cũng được chào đón... thì hãy suy nghĩ lại!" />
+    <TextStringDefinition InstanceID="0xD64EEAA6" TextString="Chuyên Gia Tư Vấn Sự Nghiệp" />
+    <TextStringDefinition InstanceID="0x4D11387F" TextString="Đôi khi một cú hích đúng hướng là tất cả những gì ai đó cần!" />
+    <TextStringDefinition InstanceID="0x25B62C51" TextString="Nhà Tư Vấn Sự Nghiệp Nghiệp Dư" />
+    <TextStringDefinition InstanceID="0x508238AE" TextString="Khi ai đó không muốn thực hiện các bước để đạt được ước mơ, {0.SimFirstName} còn có thể làm gì nữa?" />
+    <TextStringDefinition InstanceID="0x5A050F79" TextString="Sốc Ngạc Nhiên" />
+    <TextStringDefinition InstanceID="0x1E7CBC66" TextString="Thật là một màn trình diễn! Hóa ra bắn cung mới là kỹ năng tuyệt nhất! May mắn thay, mũi tên đã xuyên qua quả táo chứ không phải bất cứ thứ gì khác xung quanh, đặc biệt là {0.SimFirstName}." />
+    <TextStringDefinition InstanceID="0x0B1861D3" TextString="Xạ Thủ" />
+    <TextStringDefinition InstanceID="0xF3EC537C" TextString="Màn trình diễn nhỏ ấy có thể đã xảy ra &lt;i&gt;rất&lt;/i&gt; tồi tệ, nhưng may mắn thay {0.SimFirstName} là bậc thầy bắn cung tối thượng! À, ít nhất là lần này, {0.SimPronounSubjective} {S0.was}{P0.were}..." />
+    <TextStringDefinition InstanceID="0xC018A4C7" TextString="(Từ Màn Trình Diễn Bắn Quả Táo)" />
+    <TextStringDefinition InstanceID="0xE66BBECC" TextString="Suýt Nữa Thì" />
+    <TextStringDefinition InstanceID="0x374EA2E9" TextString="Đây là điều xảy ra khi các Sim có ảo tưởng về sự vĩ đại trong bắn cung! Không bao giờ nữa. Mọi thứ có thể đã tệ hơn nhiều." />
+    <TextStringDefinition InstanceID="0xC9547909" TextString="Thành Thạo Nhờ Luyện Tập" />
+    <TextStringDefinition InstanceID="0x2D485A56" TextString="Thật tuyệt khi thấy mũi tên trúng đích. Bắn trúng tâm bia mang lại cảm giác phấn khích khó tả!" />
+    <TextStringDefinition InstanceID="0xE560AD5D" TextString="Roi Cơ Vai Rách" />
+    <TextStringDefinition InstanceID="0x919043E2" TextString="Cơn đau từ " />
+    <TextStringDefinition InstanceID="0x95BA8948" TextString="Khuỷu Tay Xạ Thủ" />
+    <TextStringDefinition InstanceID="0x32235A5D" TextString="Ôi đau! Bắn cung quá nhiều khiến {0.SimFirstName} cảm thấy hơi đau ở khuỷu tay. Có lẽ đã đến lúc nghỉ ngơi và hồi phục rồi?" />
+    <TextStringDefinition InstanceID="0x9BB85915" TextString="Bậc Thầy Bắn Cung!" />
+    <TextStringDefinition InstanceID="0x3DA4A80A" TextString="{0.SimFirstName} sẽ say sưa với chiến thắng bắn cung đầy huyền thoại này một thời gian!" />
+    <TextStringDefinition InstanceID="0x9FB5A588" TextString="Trượt Mục Tiêu" />
+    <TextStringDefinition InstanceID="0xE958E39D" TextString="Ồ, có lẽ {0.SimFirstName} nên rèn luyện {0.SimPronounPossessiveDependent} Kỹ Năng Bắn Cung trước khi thi đấu lại. Lần này không phải là màn trình diễn tốt nhất!" />
+    <TextStringDefinition InstanceID="0x6B226CE5" TextString="(Từ Bắn Cung)" />
+    <TextStringDefinition InstanceID="0x7758463D" TextString="Bị Bỏ Lại" />

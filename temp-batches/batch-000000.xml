@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x09BE34A6" TextString="&lt;span class=&quot;pink&quot;&gt;Bắt đầu lại với những Sim mới, một ngôi nhà mới và một câu chuyện mới.&lt;/span&gt;" />
+    <TextStringDefinition InstanceID="0xDE0FE3F6" TextString="&lt;span class=&quot;blue&quot;&gt;TIẾP TỤC CHƠI&lt;/span&gt;" />
+    <TextStringDefinition InstanceID="0x97687C57" TextString="&lt;span class=&quot;blue&quot;&gt;Hướng dẫn đã kết thúc nhưng bạn có thể tiếp tục chơi hộ gia đình này.&lt;/span&gt;" />
+    <TextStringDefinition InstanceID="0xD433D7DB" TextString="&lt;span class=&quot;green&quot;&gt;THÊM SIM MỚI VÀO HỘ GIA ĐÌNH NÀY&lt;/span&gt;" />
+    <TextStringDefinition InstanceID="0x4BCB0D58" TextString="&lt;span class=&quot;green&quot;&gt;Việc thêm Sim thứ hai vào hộ gia đình này sẽ làm cho The Sims 4 trở nên phong phú hơn.&lt;/span&gt;" />
+    <TextStringDefinition InstanceID="0xBA2EDB6C" TextString="CHỌN KHÁT VỌNG MỚI" />
+    <TextStringDefinition InstanceID="0x1726ADF2" TextString="Có rất nhiều câu chuyện bạn có thể kể trong The Sims 4. Dưới đây là một vài lựa chọn!" />
+    <TextStringDefinition InstanceID="0x84C43BF7" TextString="&lt;span class=&quot;green&quot;&gt;XẢO QUYỀT&lt;/span&gt;" />
+    <TextStringDefinition InstanceID="0x2BE9E8C7" TextString="&lt;span class=&quot;green&quot;&gt;KẺ THÙ CÔNG CHÚNG&lt;/span&gt;" />
+    <TextStringDefinition InstanceID="0xC9AC102C" TextString="&lt;span class=&quot;green&quot;&gt;Con đường hoàn hảo cho những Sim tìm kiếm mặt tối của cuộc sống.&lt;/span&gt;" />
+    <TextStringDefinition InstanceID="0x9C81534E" TextString="&lt;span class=&quot;pink&quot;&gt;KIẾN TRÚC SƯ&lt;/span&gt;" />
+    <TextStringDefinition InstanceID="0x1F740528" TextString="&lt;span class=&quot;pink&quot;&gt;CHỦ NHÂN DINH THỜI&lt;/span&gt;" />
+    <TextStringDefinition InstanceID="0xE30EA75F" TextString="&lt;span class=&quot;pink&quot;&gt;Tiết kiệm từng xu để đầu tư lại vào những ngôi nhà tuyệt vời mà BẠN thiết kế cho Sim của mình.&lt;/span&gt;" />
+    <TextStringDefinition InstanceID="0x8FCBD26D" TextString="&lt;span class=&quot;blue&quot;&gt;LÃNG MẠN&lt;/span&gt;" />
+    <TextStringDefinition InstanceID="0x5B9343B1" TextString="&lt;span class=&quot;blue&quot;&gt;NGƯỜI BẠN ĐỜI&lt;/span&gt;" />
+    <TextStringDefinition InstanceID="0xAD35964E" TextString="&lt;span class=&quot;blue&quot;&gt;Ghép đôi hai Sim để chứng kiến tình yêu đích thực.&lt;/span&gt;" />
+    <TextStringDefinition InstanceID="0x4738F59C" TextString="&lt;span class=&quot;yellow&quot;&gt;TẬP TRUNG VÀO SỰ NGHIỆP&lt;/span&gt;" />
+    <TextStringDefinition InstanceID="0x84A26BC2" TextString="&lt;span class=&quot;yellow&quot;&gt;SIÊU GIÀU CÓ&lt;/span&gt;" />
+    <TextStringDefinition InstanceID="0x862CC361" TextString="&lt;span class=&quot;yellow&quot;&gt;Gửi Sim của bạn thẳng lên đỉnh cao của thang công sức để giàu có và thành công.&lt;/span&gt;" />
+    <TextStringDefinition InstanceID="0xBAFDB049" TextString="Bài học" />
+    <TextStringDefinition InstanceID="0xCECE297E" TextString="CỤ THỂ \n HÌNH ẢNH BÀI HỌC" />
+    <TextStringDefinition InstanceID="0xD7E3833E" TextString="{0.Number}/{1.Number}" />
+    <TextStringDefinition InstanceID="0x07C688D6" TextString="Lỗi Tải" />
+    <TextStringDefinition InstanceID="0x6004327F" TextString="Chuyển Tiền" />
+    <TextStringDefinition InstanceID="0x7AF4064A" TextString="Không Thể Có Nhiều Tiền Như Vậy" />
+    <TextStringDefinition InstanceID="0x5CAB5EA3" TextString="Không Đủ Tiền Để Chuyển" />
+    <TextStringDefinition InstanceID="0xB7B26A6F" TextString="Chuyển Tiền" />
+    <TextStringDefinition InstanceID="0x3ED5C907" TextString="Số Tiền Chuyển:" />
+    <TextStringDefinition InstanceID="0x31146585" TextString="Bạn Đang Trực Tuyến!" />
+    <TextStringDefinition InstanceID="0x418A59C1" TextString="Bạn Đang Ngoại Tuyến" />
+    <TextStringDefinition InstanceID="0xE7B048FC" TextString="Tốc Độ Nhanh - 2" />
+    <TextStringDefinition InstanceID="0x864EA962" TextString="Tốc Độ Cực Nhanh - 3" />
+    <TextStringDefinition InstanceID="0xE09A775A" TextString="Tốc Độ Bình Thường - 1" />
+    <TextStringDefinition InstanceID="0x4F86CCE1" TextString="Tạm Dừng - 0" />
+    <TextStringDefinition InstanceID="0x070F7D64" TextString="Tùy Chọn Máy Quay" />
+    <TextStringDefinition InstanceID="0x57056C16" TextString="{0.Number}/{1.Number}" />
+    <TextStringDefinition InstanceID="0x8FE40C44" TextString="0-9" />
+    <TextStringDefinition InstanceID="0xF7CE8E27" TextString="Không Thể Mở Lớp Phủ Trong Trò Chơi" />
+    <TextStringDefinition InstanceID="0x21DD8894" TextString="Gỡ Lỗi" />
+    <TextStringDefinition InstanceID="0x7CB865BF" TextString="Trò Chơi Cơ Bản" />
+    <TextStringDefinition InstanceID="0x2105ABBA" TextString="Không Có Mối Quan Hệ Lãng Mạn" />
+    <TextStringDefinition InstanceID="0xAE76D244" TextString="Nâng Cấp" />
+    <TextStringDefinition InstanceID="0x4D35F9BF" TextString="Giá" />
+    <TextStringDefinition InstanceID="0x7D77DD42" TextString="Không, Cảm Ơn" />
+    <TextStringDefinition InstanceID="0x13C5A61A" TextString="{0.String} là một phần của {1.String}!" />
+    <TextStringDefinition InstanceID="0x6516FA49" TextString="Bạn có muốn nâng cấp mua hàng của mình lên {0.String}?" />
+    <TextStringDefinition InstanceID="0xB2091266" TextString="Đang Chuẩn Bị Gói Tải Xuống" />
+    <TextStringDefinition InstanceID="0xA30DD319" TextString="Bạn sẽ nhận được thông báo khi tải xuống hoàn tất." />
+    <TextStringDefinition InstanceID="0x5EE5D536" TextString="Phòng {0.String} đã được lưu vào Thư Viện Cá Nhân." />
+    <TextStringDefinition InstanceID="0x66564284" TextString="Hình Xăm {0.String} đã được lưu vào Thư Viện Cá Nhân." />

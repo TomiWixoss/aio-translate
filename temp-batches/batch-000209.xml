@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xC11FB25E" TextString="Sim sẽ pha và uống trà ở:" />
+    <TextStringDefinition InstanceID="0x8BCF1FB3" TextString="Không uống cà phê" />
+    <TextStringDefinition InstanceID="0x78F9004F" TextString="Uống cà phê" />
+    <TextStringDefinition InstanceID="0x30624C9B" TextString="Sim sẽ pha và uống đồ uống từ:" />
+    <TextStringDefinition InstanceID="0xE8045BC9" TextString="Không uống đồ uống ở quầy bar" />
+    <TextStringDefinition InstanceID="0x16143819" TextString="Uống đồ uống ở quầy bar" />
+    <TextStringDefinition InstanceID="0xE0832B26" TextString="Sim sẽ gọi và uống đồ uống từ:" />
+    <TextStringDefinition InstanceID="0xCDBCA7DE" TextString="Không làm bài tập" />
+    <TextStringDefinition InstanceID="0x4C3A6148" TextString="Làm bài tập" />
+    <TextStringDefinition InstanceID="0xCA347BE7" TextString="Làm bài tập" />
+    <TextStringDefinition InstanceID="0x62397579" TextString="Sim sẽ làm bài tập và học tập với:" />
+    <TextStringDefinition InstanceID="0xB5E9C706" TextString="Không nhảy" />
+    <TextStringDefinition InstanceID="0x22D9F070" TextString="Nhảy" />
+    <TextStringDefinition InstanceID="0x4AD90F9F" TextString="Nhảy" />
+    <TextStringDefinition InstanceID="0xF70FD2B8" TextString="Sim sẽ nhảy với:" />
+    <TextStringDefinition InstanceID="0xD15C7934" TextString="Không dọn dẹp" />
+    <TextStringDefinition InstanceID="0x0F7D7A6A" TextString="Dọn dẹp" />
+    <TextStringDefinition InstanceID="0x7DE33349" TextString="Dọn dẹp" />
+    <TextStringDefinition InstanceID="0x892700AB" TextString="Sim sẽ dọn các vật thể bẩn và cất đồ đạc đi." />
+    <TextStringDefinition InstanceID="0xDC3D1C19" TextString="Không lướt web" />
+    <TextStringDefinition InstanceID="0x39EFD769" TextString="Lướt web" />
+    <TextStringDefinition InstanceID="0x75F888CA" TextString="Lướt web" />
+    <TextStringDefinition InstanceID="0x8FD4767A" TextString="Không tụ tập gần lửa" />
+    <TextStringDefinition InstanceID="0x38248E04" TextString="Tụ tập gần lửa" />
+    <TextStringDefinition InstanceID="0x962DBBCB" TextString="Tụ tập gần lửa" />
+    <TextStringDefinition InstanceID="0xDEE102C9" TextString="Sim sẽ sử dụng:\n• Lò sưởi\n• Lửa ngoài trời" />
+    <TextStringDefinition InstanceID="0x54872BA9" TextString="Chơi mũi tên" />
+    <TextStringDefinition InstanceID="0x1B86830A" TextString="Chơi mũi tên" />
+    <TextStringDefinition InstanceID="0x3C2F0559" TextString="Không sử dụng bồn tắm nước nóng" />
+    <TextStringDefinition InstanceID="0x02BAC1EB" TextString="Không chơi hoặc nghe nhạc" />
+    <TextStringDefinition InstanceID="0x7455D207" TextString="Chơi hoặc nghe nhạc" />
+    <TextStringDefinition InstanceID="0x5F715E08" TextString="Nhạc" />
+    <TextStringDefinition InstanceID="0x78ADD5E9" TextString="Sim sẽ chơi các nhạc cụ có sẵn, hát, nghe nhạc và xem người khác biểu diễn. Sim sẽ sử dụng các vật thể như:" />
+    <TextStringDefinition InstanceID="0x33B86C4D" TextString="Không sử dụng búp bê Voodoo" />
+    <TextStringDefinition InstanceID="0x07234F16" TextString="Sử dụng búp bê Voodoo" />
+    <TextStringDefinition InstanceID="0x843389D9" TextString="Không gây rối và hỗn loạn" />
+    <TextStringDefinition InstanceID="0x039AB029" TextString="Gây rối và hỗn loạn" />
+    <TextStringDefinition InstanceID="0xA089AF8A" TextString="Gây rối và hỗn loạn" />
+    <TextStringDefinition InstanceID="0x70B324CC" TextString="Sim sẽ gây ra nhiều loại rối loạn và hỗn loạn. Sim có thể chọn trò đùa, lấy cắp đồ vật, phá hoại Sim khác và sử dụng sức mạnh ma thuật để làm phiền Sim khác và đồ đạc của họ." />
+    <TextStringDefinition InstanceID="0x8AD59BC2" TextString="Không lấy cắp đồ vật" />
+    <TextStringDefinition InstanceID="0x0F9E0103" TextString="Lấy cắp đồ vật" />
+    <TextStringDefinition InstanceID="0x20DEA7CA" TextString="Sim sẽ lấy cắp đồ vật không thuộc về họ." />
+    <TextStringDefinition InstanceID="0xD67A70C7" TextString="Không xây dựng kỹ năng trẻ em" />
+    <TextStringDefinition InstanceID="0xC0C04ADC" TextString="Xây dựng kỹ năng trẻ em" />
+    <TextStringDefinition InstanceID="0x2ED36069" TextString="Sim trẻ em sẽ xây dựng cả bốn kỹ năng chính của chúng—Sáng tạo, Vận động, Trí tuệ và Xã hội—sử dụng nhiều hoạt động và vật thể khác nhau, chẳng hạn:\n• Đồ chơi\n• Kính viễn vọng\n• Lều trẻ em\n• Thiết bị bắn cung\n• Bộ đồ giấy\n• Nhạc cụ\n• Bàn khoa học\n• Bàn hoạt động\n• Biển báo câu cá\n• Hồ bơi" />
+    <TextStringDefinition InstanceID="0x8F56FB8B" TextString="Không xây dựng kỹ năng xã hội" />
+    <TextStringDefinition InstanceID="0x2EE2E528" TextString="Xây dựng kỹ năng xã hội" />
+    <TextStringDefinition InstanceID="0x5F3E9128" TextString="Sim trẻ em sẽ tương tác với các Sim khác để xây dựng kỹ năng xã hội. " />
+    <TextStringDefinition InstanceID="0xC9D5604D" TextString="Không xây dựng kỹ năng thể chất" />
+    <TextStringDefinition InstanceID="0x8C004B16" TextString="Xây dựng kỹ năng thể chất" />

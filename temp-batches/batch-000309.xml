@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x4AF74B64" TextString="Đi du lịch" />
+    <TextStringDefinition InstanceID="0x8DA3BFA5" TextString="Chọn một tùy chọn" />
+    <TextStringDefinition InstanceID="0x3DEA7043" TextString="Chọn một doanh nghiệp để thăm như một khách hàng,\nhoặc thăm hộ gia đình như một khách." />
+    <TextStringDefinition InstanceID="0x657C231E" TextString="Không có" />
+    <TextStringDefinition InstanceID="0x7B227F1C" TextString="Hoạt động:" />
+    <TextStringDefinition InstanceID="0x4CBF6761" TextString="Chủ doanh nghiệp, thành viên trong hộ gia đình của chủ, hoặc nhân viên hiện đang là thành viên trong nhóm của bạn. Họ có thể thực hiện các hoạt động kinh doanh khi ở trên lô đất." />
+    <TextStringDefinition InstanceID="0xA5197106" TextString="Không có hộ gia đình nào trong danh mục này" />
+    <TextStringDefinition InstanceID="0x0826BC7D" TextString="Hộ gia đình mới" />
+    <TextStringDefinition InstanceID="0xA9712795" TextString="Chuyển Sim" />
+    <TextStringDefinition InstanceID="0x45987083" TextString="Chưa chọn hộ gia đình đích" />
+    <TextStringDefinition InstanceID="0xC1BB4D34" TextString="Chưa chọn Sim nào" />
+    <TextStringDefinition InstanceID="0xA618198B" TextString="Tạo hộ gia đình mới" />
+    <TextStringDefinition InstanceID="0xDD5AAC80" TextString="Danh sách chuyển trống" />
+    <TextStringDefinition InstanceID="0xFFD6704F" TextString="Hộ gia đình của bạn vượt quá số lượng Sim tối đa. Bạn chỉ có thể di chuyển 8 Sim trong hộ gia đình. Sim mang thai được tính là 2 Sim." />
+    <TextStringDefinition InstanceID="0xB6B54E09" TextString="Hộ gia đình phải chứa ít nhất một Sim ở độ tuổi Thiếu niên, Thanh niên, Người lớn, hoặc Người cao tuổi." />
+    <TextStringDefinition InstanceID="0x6885C4FE" TextString="Tách khỏi hộ gia đình và di chuyển" />
+    <TextStringDefinition InstanceID="0x118A70BD" TextString="Tách và Hợp nhất hộ gia đình" />
+    <TextStringDefinition InstanceID="0xB75C8591" TextString="Chưa chơi" />
+    <TextStringDefinition InstanceID="0x7612991C" TextString="Đã chơi" />
+    <TextStringDefinition InstanceID="0x65D7F42C" TextString="Chọn một hộ gia đình khác" />
+    <TextStringDefinition InstanceID="0x8966D011" TextString="Chọn một hộ gia đình hoặc" />
+    <TextStringDefinition InstanceID="0x82F03AF0" TextString="Tiền: {0.Money}" />
+    <TextStringDefinition InstanceID="0x9DAB5ECF" TextString="Không trong thế giới" />
+    <TextStringDefinition InstanceID="0x43E9380F" TextString="Nếu tất cả các Sim được chuyển khỏi hộ gia đình này, tất cả tài sản của hộ gia đình sẽ được bán hoặc chuyển sang hộ gia đình mới." />
+    <TextStringDefinition InstanceID="0x6D30D698" TextString="bán tất cả nội thất lô đất" />
+    <TextStringDefinition InstanceID="0x198B2804" TextString="Bạn sắp tạo một hộ gia đình không có tiền. Hộ gia đình của bạn sẽ không thể mua một lô đất mới, nhưng có thể hợp nhất với hộ gia đình khác. Bạn có chắc chắn muốn làm điều này?" />
+    <TextStringDefinition InstanceID="0x37B585E0" TextString="Bạn sắp sửa đổi một hộ gia đình đang tham gia một Kịch bản. Những thay đổi của bạn có thể khiến Kịch bản kết thúc tùy theo mục tiêu của Kịch bản. Bạn có chắc chắn muốn làm điều này?" />
+    <TextStringDefinition InstanceID="0x1B8082A8" TextString="Gia đình này hiện tại không có nhà. Bạn có muốn dọn vào ngay bây giờ hoặc sau?" />
+    <TextStringDefinition InstanceID="0xEE90483A" TextString="Không được phép chuyển" />
+    <TextStringDefinition InstanceID="0xB2D8B335" TextString="Sim đã chọn không thể được chuyển" />
+    <TextStringDefinition InstanceID="0xC748EC14" TextString="Dọn vào ngay" />
+    <TextStringDefinition InstanceID="0xBE27513A" TextString="Dọn vào sau" />
+    <TextStringDefinition InstanceID="0xF7A3834E" TextString="Không thể chuyển Sim vào Ký túc xá Đại học" />
+    <TextStringDefinition InstanceID="0xA015C8D2" TextString="Tạo một hộ gia đình mới" />
+    <TextStringDefinition InstanceID="0xB2383BC6" TextString="CHỌN MỘT MÙA ĐỂ CHƠI!" />
+    <TextStringDefinition InstanceID="0x3D4C94FE" TextString="Khi bạn không phải mặc ấm trong nhà, hãy vui chơi trong tuyết hoặc trên băng. Đừng quên trang trí cho Lễ hội Mùa đông và lập kế hoạch cho những lời hứa năm mới!" />
+    <TextStringDefinition InstanceID="0xE5B7E130" TextString="Mùa đông" />
+    <TextStringDefinition InstanceID="0x3B692A26" TextString="Nhiệt độ đang tăng lên, vì vậy hãy chống lại cái nóng bằng bóng nước và máy phun nước. Cẩn thận với những cơn bão, chúng có thể rất điện!" />
+    <TextStringDefinition InstanceID="0x60AD2448" TextString="Mùa hè" />
+    <TextStringDefinition InstanceID="0x048E9AAE" TextString="Mùa xuân là thời điểm tuyệt vời để trồng vườn nhằm tận dụng mưa xuân, nhưng hãy cẩn thận với những vũng bùn!" />
+    <TextStringDefinition InstanceID="0x4022B800" TextString="Mùa xuân" />
+    <TextStringDefinition InstanceID="0xD9EBD992" TextString="Thu thập sản vụ vườn của bạn để làm một bữa tiệc Harvestfest để ăn mừng với bạn bè và gia đình. Thưởng thức những chiếc lá thay đổi (và đống lá) trước khi thời tiết trở nên lạnh giá." />
+    <TextStringDefinition InstanceID="0x2F6517B4" TextString="Mùa thu" />
+    <TextStringDefinition InstanceID="0x1B96D230" TextString="Tiếp tục" />
+    <TextStringDefinition InstanceID="0xE68171F0" TextString="Chọn một mùa để tiếp tục" />
+    <TextStringDefinition InstanceID="0xBCDC39DD" TextString="&lt;font color='#199C2C'&gt;{0.Money}&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x48DA5FF6" TextString="{0.Number} Phòng ngủ, {1.Number} Phòng tắm" />
+    <TextStringDefinition InstanceID="0x4A9C1656" TextString="Hộ gia đình này không có đủ Simoleon để gia hạn Kỳ nghỉ." />
+    <TextStringDefinition InstanceID="0xE64440B4" TextString="Gia hạn Kỳ nghỉ tại {0.String}?" />
+    <TextStringDefinition InstanceID="0xADAD788A" TextString="Thời gian còn lại: {0.Number} ngày" />

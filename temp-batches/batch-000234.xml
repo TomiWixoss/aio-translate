@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x78695692" TextString="Việc làm những công việc gia đình ở lô đất này cảm thấy rất tự nhiên." />
+    <TextStringDefinition InstanceID="0xC23BC679" TextString="Hang Ẩn Dật" />
+    <TextStringDefinition InstanceID="0xB8E62966" TextString="Không gian tách biệt có nghĩa là có ít điều gì đó xao nhãng những bộ óc xuất sắc khỏi việc nghiên cứu Logic hoặc Khoa học Tên lửa." />
+    <TextStringDefinition InstanceID="0xECC11258" TextString="Ánh Sáng Tự Nhiên" />
+    <TextStringDefinition InstanceID="0x5F2C910D" TextString="Chất lượng ánh sáng ở đây thực sự truyền cảm hứng để các Sim sáng tạo." />
+    <TextStringDefinition InstanceID="0xB0809755" TextString="Internet Nhanh" />
+    <TextStringDefinition InstanceID="0x1B386B4A" TextString="Không có độ trễ ở đây! Tốc độ kết nối quá tốt, khiến các Sim hào hứng làm nhiều hơn." />
+    <TextStringDefinition InstanceID="0xD33B6340" TextString="Âm Thanh Tuyệt Vời" />
+    <TextStringDefinition InstanceID="0xD87A2745" TextString="Âm thanh ở đây hoàn hảo! Đây là một nơi tuyệt vời để thể hiện kỹ năng âm nhạc của Sim." />
+    <TextStringDefinition InstanceID="0xB0C486BB" TextString="Thân Thiện" />
+    <TextStringDefinition InstanceID="0xCE4701D4" TextString="Bầu không khí rộng rãi nhưng ấm cúng khiến các Sim tự tin khi sử dụng kỹ năng của mình với các Sim khác." />
+    <TextStringDefinition InstanceID="0x491FA383" TextString="Làm Da Hoàn Hảo" />
+    <TextStringDefinition InstanceID="0x335752CC" TextString="{0.SimFirstName} có làn da &lt;i&gt;hoàn hảo&lt;/i&gt; dưới nắng! Không một vệt nám nào cho {F0.her}{M0.him}!" />
+    <TextStringDefinition InstanceID="0xBE553789" TextString="Bơi Không Quần Áo" />
+    <TextStringDefinition InstanceID="0xE9F921D6" TextString="Bơi khỏa thân vui hơn nhiều khi mọi người cùng làm với bạn! " />
+    <TextStringDefinition InstanceID="0xD00E876E" TextString="Cát &lt;i&gt;Mọi Nơi&lt;/i&gt;" />
+    <TextStringDefinition InstanceID="0x57744E97" TextString="Được rồi... có lẽ quần áo tốt cho một số việc—như giữ cát khỏi những nơi không nên có! Ugh." />
+    <TextStringDefinition InstanceID="0xA1C0FCCB" TextString="Thô Kịch!" />
+    <TextStringDefinition InstanceID="0x708D2004" TextString="Cát vương vào những nơi không nên có rất khó chịu. Mặc quần áo lên và chà xát vào—&lt;b&gt;tệ hơn nhiều&lt;/b&gt;!" />
+    <TextStringDefinition InstanceID="0x29E0B55C" TextString="Rủi Ro Kinh Doanh" />
+    <TextStringDefinition InstanceID="0xEB5A98D9" TextString="Điều gì có thể tăng cường nghệ thuật khiêu vũ hơn việc mất quần?" />
+    <TextStringDefinition InstanceID="0xD44D199C" TextString="Ôi, Tự Nhiên!" />
+    <TextStringDefinition InstanceID="0x0C8FEC19" TextString="Đâu là nơi tốt hơn để tôn vinh hình thức tự nhiên của bản thân ngoài trời?" />
+    <TextStringDefinition InstanceID="0x0FBF7201" TextString="Không Một Mối Lo" />
+    <TextStringDefinition InstanceID="0x4750267E" TextString="Spa chữa lành cơ thể và tâm trí. Tại sao {0.SimFirstName} lại để quần áo cản trở {F0.her}{M0.him} và sự &lt;i&gt;tĩnh lặng tối thượng&lt;/i&gt;? " />
+    <TextStringDefinition InstanceID="0xC706BC07" TextString="Hình Thái Tự Nhiên" />
+    <TextStringDefinition InstanceID="0x110845E8" TextString="{0.SimFirstName} cảm thấy đặc biệt được truyền cảm hứng khi xem nghệ thuật và tôn vinh hình thức tự nhiên của {F0.her}{M0.his}. Rốt cuộc, cơ thể có lẽ là kiệt tác vĩ đại nhất." />
+    <TextStringDefinition InstanceID="0xD8EAC00B" TextString="Lô Đất Tụ Họp" />
+    <TextStringDefinition InstanceID="0x1995C844" TextString="Ai mà không muốn &lt;i&gt;thư giãn&lt;/i&gt; và &lt;i&gt;tụ họp&lt;/i&gt; ở sự kiện xã hội này? " />
+    <TextStringDefinition InstanceID="0xCC7A9A0B" TextString="Trần Trụi" />
+    <TextStringDefinition InstanceID="0xFBF88644" TextString="{0.SimFirstName} trần truồng! \nTrên lô đất này, {F0.she's}{M0.he's} tự do!\nVì vậy đừng nhìn và chằm chằm...\nNếu bạn không muốn thấy!" />
+    <TextStringDefinition InstanceID="0x1DACDB52" TextString="Cảm Thấy Trẻ Lại" />
+    <TextStringDefinition InstanceID="0xDF54F803" TextString="Vài điều khiến một Sim già cảm thấy trẻ lại như cởi bỏ quần áo và chạy tự do! {0.SimFirstName} cảm thấy sống động!" />
+    <TextStringDefinition InstanceID="0xA2144CFF" TextString="Trong Nguyên Tố Của Mình" />
+    <TextStringDefinition InstanceID="0x814172D0" TextString="Cảm giác này tự nhiên hơn. Quần áo kỳ quặc thôi." />
+    <TextStringDefinition InstanceID="0xF0708569" TextString="Hãy Có Chút Đạo Đức" />
+    <TextStringDefinition InstanceID="0x435A3F36" TextString="Một số Sim không có lòng xấu hổ. Thật khó xử cho họ khi bị nhìn thấy trong trạng thái như vậy..." />
+    <TextStringDefinition InstanceID="0xA692AE58" TextString="Các Sim Ngày Nay!" />
+    <TextStringDefinition InstanceID="0xAFC0850D" TextString="Hồi {0.SimFirstName} còn là một Sim trẻ, không ai lại thô lỗ đến mức cư xử theo cách này! &lt;i&gt;Thật không đứng đắn&lt;/i&gt;! " />
+    <TextStringDefinition InstanceID="0x05089E2D" TextString="Đang Tập Thể Hình" />
+    <TextStringDefinition InstanceID="0x60D59312" TextString="{0.SimFirstName} khá chắc chắn rằng {F0.she's}{M0.he's} đang tập luyện tốt hơn bình thường, và nếu không... nhìn thấy &lt;i&gt;tất cả&lt;/i&gt; là một động lực tuyệt vời!" />
+    <TextStringDefinition InstanceID="0x672988F2" TextString="Ối Dơ!" />
+    <TextStringDefinition InstanceID="0x5B913D23" TextString="{0.SimFirstName} đã thấy những &lt;i&gt;chuyện Sim&lt;/i&gt; không thể không thấy. Thật kinh tởm!" />
+    <TextStringDefinition InstanceID="0xE1FBC767" TextString="Thấy Nhiều Điều" />
+    <TextStringDefinition InstanceID="0xDCD0C3C8" TextString="Lần này, {0.SimFirstName} mừng vì thị lực {F0.her}{M0.his} không còn như xưa! &lt;i&gt;Thật không may,&lt;/i&gt; giờ thì quá muộn cho {F0.her}{M0.his} cảm giác thèm ăn rồi..." />
+    <TextStringDefinition InstanceID="0xFC0E576C" TextString="Thôi, Sao Không?" />
+    <TextStringDefinition InstanceID="0xC0C11A09" TextString="Đây không phải là việc {0.SimFirstName} thường làm, nhưng tất cả những gì uống rượu đã khiến {F0.her}{M0.him} suy nghĩ..." />
+    <TextStringDefinition InstanceID="0x97B3EDA4" TextString="Thực Khách Mạo Hiểm" />
+    <TextStringDefinition InstanceID="0x0AE38D5A" TextString="Tình huống ngớ ngẩn thật! {0.SimFirstName} đang có một trải nghiệm tuyệt vời (và vài tràng cười) với trải nghiệm ăn uống &lt;i&gt;mới này&lt;/i&gt;. " />
+    <TextStringDefinition InstanceID="0x10052A85" TextString="&lt;i&gt;Ôi, la la&lt;/i&gt;! {0.SimFirstName} cảm thấy hơi ấm. Một trải nghiệm ăn uống độc đáo!" />

@@ -3,18 +3,21 @@ const fs = require('fs');
 const path = require('path');
 require('dotenv').config();
 
-const BATCH_SIZE = 50;
-const PARALLEL_BATCHES = 10; // Chạy 10 batch song song
-const MAX_RETRIES = 999; // Retry mãi mãi
+const BATCH_SIZE = 50; // 50 thẻ XML mỗi batch
+const PARALLEL_BATCHES = 10;
+const MAX_RETRIES = 999;
 const RETRY_DELAY = 2000;
 const PROGRESS_FILE = 'translation-progress.json';
-const INPUT_FILE = 'original-texts.txt';
-const OUTPUT_FILE = 'translated-texts.txt';
+const INPUT_FILE = 'en/Strings_ENG_US/Strings_ENG_US.xml';
+const OUTPUT_FILE = 'vi/Strings_ENG_US/Strings_VIE_VI.xml';
 const TEMP_DIR = 'temp-batches';
 
 // Tạo thư mục temp
 if (!fs.existsSync(TEMP_DIR)) {
     fs.mkdirSync(TEMP_DIR);
+}
+if (!fs.existsSync(path.dirname(OUTPUT_FILE))) {
+    fs.mkdirSync(path.dirname(OUTPUT_FILE), { recursive: true });
 }
 
 const aio = new AIO({
@@ -24,6 +27,40 @@ const aio = new AIO({
         models: [{ modelId: "stepfun-ai/step-3.5-flash" }],
     }],
 });
+
+function parseXMLEntries(xmlContent) {
+    const entries = [];
+    const lines = xmlContent.split('\n');
+    
+    for (let i = 0; i < lines.length; i++) {
+        const line = lines[i].trim();
+        
+        if (line.includes('<TextStringDefinition')) {
+            let fullLine = line;
+            let currentIndex = i;
+            
+            // Nối các dòng nếu thẻ XML bị ngắt dòng
+            while (!fullLine.includes('/>') && currentIndex < lines.length - 1) {
+                currentIndex++;
+                fullLine += ' ' + lines[currentIndex].trim();
+            }
+            
+            const instanceMatch = fullLine.match(/InstanceID="([^"]+)"/);
+            const textMatch = fullLine.match(/TextString="([^"]*)"/);
+            
+            if (instanceMatch) {
+                entries.push({
+                    instanceId: instanceMatch[1],
+                    text: textMatch ? textMatch[1] : ''
+                });
+            }
+            
+            i = currentIndex;
+        }
+    }
+    
+    return entries;
+}
 
 function loadProgress() {
     if (fs.existsSync(PROGRESS_FILE)) {
@@ -40,17 +77,22 @@ function saveProgress(progress) {
     fs.writeFileSync(PROGRESS_FILE, JSON.stringify(progress, null, 2), 'utf-8');
 }
 
-async function translateBatch(lines, batchIndex, retryCount = 0, messages = null) {
+async function translateBatch(entries, batchIndex, retryCount = 0, messages = null) {
     const startIndex = batchIndex * BATCH_SIZE;
-    const batch = lines.slice(startIndex, startIndex + BATCH_SIZE);
-    const expectedLineCount = batch.length;
+    const batch = entries.slice(startIndex, startIndex + BATCH_SIZE);
+    const expectedIds = batch.map(e => e.instanceId);
+    
+    // Tạo XML input
+    const xmlInput = batch.map(e => 
+        `    <TextStringDefinition InstanceID="${e.instanceId}" TextString="${e.text}" />`
+    ).join('\n');
     
     // Conversation history để retry
     if (!messages) {
         messages = [
             { 
                 role: "user", 
-                content: `Dịch ${expectedLineCount} dòng sau sang tiếng Việt. Trả về ĐÚNG ${expectedLineCount} dòng, mỗi dòng gốc = 1 dòng dịch. KHÔNG thêm giải thích hay phân tích.\n\n${batch.join('\n')}` 
+                content: `Dịch ${batch.length} thẻ XML sau sang tiếng Việt. GIỮ NGUYÊN InstanceID và cấu trúc XML. CHỈ dịch nội dung trong TextString. Trả về ĐÚNG ${batch.length} thẻ với đúng InstanceID.\n\n${xmlInput}` 
             }
         ];
     }
@@ -59,7 +101,7 @@ async function translateBatch(lines, batchIndex, retryCount = 0, messages = null
         const response = await aio.chatCompletion({
             provider: "nvidia",
             model: "stepfun-ai/step-3.5-flash",
-            systemPrompt: `Bạn là chuyên gia dịch The Sims 4 sang tiếng Việt. Giữ nguyên tên riêng, thẻ HTML, biến, và ký tự đặc biệt. Chỉ dịch văn bản, không thêm giải thích.`,
+            systemPrompt: `Bạn là chuyên gia dịch The Sims 4 sang tiếng Việt. Giữ nguyên tên riêng, thẻ HTML, biến, và ký tự đặc biệt. Chỉ dịch văn bản trong TextString, KHÔNG thay đổi InstanceID hay cấu trúc XML.`,
             messages: messages,
             temperature: 0.3,
             top_p: 0.9,
@@ -67,67 +109,97 @@ async function translateBatch(lines, batchIndex, retryCount = 0, messages = null
         });
 
         const translatedContent = response.choices[0].message.content.trim();
-        const translatedLines = translatedContent.split('\n');
         
-        // Kiểm tra số dòng
-        if (translatedLines.length !== expectedLineCount) {
-            console.log(`⚠️  Batch ${batchIndex + 1}: Nhận ${translatedLines.length} dòng, cần ${expectedLineCount}`);
+        // Parse XML trả về
+        const translatedEntries = parseXMLEntries(translatedContent);
+        const translatedIds = translatedEntries.map(e => e.instanceId);
+        
+        // Kiểm tra InstanceID chi tiết
+        const wrongCount = expectedIds.length !== translatedIds.length;
+        const missingIds = expectedIds.filter(id => !translatedIds.includes(id));
+        const extraIds = translatedIds.filter(id => !expectedIds.includes(id));
+        const wrongIds = expectedIds.length === translatedIds.length && 
+                        expectedIds.some((id, i) => id !== translatedIds[i]);
+        
+        const hasError = wrongCount || missingIds.length > 0 || extraIds.length > 0 || wrongIds;
+        
+        if (hasError) {
+            console.log(`⚠️  Batch ${batchIndex + 1}: Sai InstanceID`);
             
             if (retryCount < MAX_RETRIES) {
-                // Thêm vào conversation history
                 messages.push({
                     role: "assistant",
                     content: translatedContent
                 });
                 
+                let errorMsg = `LỖI: InstanceID không đúng!\n`;
+                errorMsg += `Cần: ${expectedIds.length} thẻ, Nhận: ${translatedIds.length} thẻ\n\n`;
+                
+                if (missingIds.length > 0) {
+                    errorMsg += `❌ THIẾU các ID:\n${missingIds.join('\n')}\n\n`;
+                }
+                if (extraIds.length > 0) {
+                    errorMsg += `❌ THỪA các ID:\n${extraIds.join('\n')}\n\n`;
+                }
+                if (wrongIds && missingIds.length === 0 && extraIds.length === 0) {
+                    errorMsg += `❌ SAI THỨ TỰ!\n\n`;
+                }
+                
+                errorMsg += `✅ Trả về ĐÚNG ${expectedIds.length} thẻ theo THỨ TỰ này:\n`;
+                expectedIds.forEach((id, i) => {
+                    errorMsg += `${i + 1}. InstanceID="${id}"\n`;
+                });
+                
                 messages.push({
                     role: "user",
-                    content: `LỖI: Bạn trả về ${translatedLines.length} dòng nhưng cần ĐÚNG ${expectedLineCount} dòng. Hãy dịch lại và trả về ĐÚNG ${expectedLineCount} dòng, không nhiều hơn, không ít hơn.`
+                    content: errorMsg
                 });
                 
                 console.log(`🔄 Retry ${retryCount + 1}/${MAX_RETRIES}...`);
                 await new Promise(resolve => setTimeout(resolve, RETRY_DELAY));
                 
-                // Retry với conversation history
-                return translateBatch(lines, batchIndex, retryCount + 1, messages);
+                return translateBatch(entries, batchIndex, retryCount + 1, messages);
             } else {
-                console.error(`❌ Batch ${batchIndex + 1}: Đã retry ${MAX_RETRIES} lần, vẫn sai số dòng`);
-                // Lưu bản gốc
-                const tempFile = path.join(TEMP_DIR, `batch-${String(batchIndex).padStart(6, '0')}.txt`);
-                fs.writeFileSync(tempFile, batch.join('\n'), 'utf-8');
-                return { batchIndex, success: false };
+                console.error(`❌ Batch ${batchIndex + 1}: Đã retry ${MAX_RETRIES} lần, vẫn sai InstanceID`);
+                return { batchIndex, success: false, entries: batch };
             }
         }
         
-        // Số dòng đúng, lưu file
-        console.log(`✅ Batch ${batchIndex + 1}: Hoàn thành với ${expectedLineCount} dòng`);
-        const tempFile = path.join(TEMP_DIR, `batch-${String(batchIndex).padStart(6, '0')}.txt`);
-        fs.writeFileSync(tempFile, translatedLines.join('\n'), 'utf-8');
-        return { batchIndex, success: true };
+        // InstanceID đúng, lưu file
+        console.log(`✅ Batch ${batchIndex + 1}: Hoàn thành với ${translatedEntries.length} thẻ`);
+        const tempFile = path.join(TEMP_DIR, `batch-${String(batchIndex).padStart(6, '0')}.xml`);
+        
+        // Lưu dạng XML
+        let xmlOutput = '';
+        for (const entry of translatedEntries) {
+            xmlOutput += `    <TextStringDefinition InstanceID="${entry.instanceId}" TextString="${entry.text}" />\n`;
+        }
+        
+        fs.writeFileSync(tempFile, xmlOutput, 'utf-8');
+        return { batchIndex, success: true, entries: translatedEntries };
         
     } catch (error) {
-        // Retry mãi mãi khi gặp lỗi (rate limit, network, etc.)
         const isRateLimit = error.message.includes('rate limit') || error.message.includes('429');
-        const waitTime = isRateLimit ? 5000 : RETRY_DELAY; // Rate limit chờ 5s
+        const waitTime = isRateLimit ? 5000 : RETRY_DELAY;
         
         console.error(`❌ Batch ${batchIndex + 1} lỗi: ${error.message}`);
         console.log(`🔄 Retry sau ${waitTime/1000}s...`);
         
         await new Promise(resolve => setTimeout(resolve, waitTime));
-        return translateBatch(lines, batchIndex, retryCount + 1, messages);
+        return translateBatch(entries, batchIndex, retryCount + 1, messages);
     }
 }
 
 
 
 async function main() {
-    console.log('🚀 Dịch The Sims 4 (Song song x10)\n');
+    console.log('🚀 Dịch The Sims 4 XML (Song song x10)\n');
     
-    const content = fs.readFileSync(INPUT_FILE, 'utf-8');
-    const lines = content.split('\n');
-    const totalBatches = Math.ceil(lines.length / BATCH_SIZE);
+    const xmlContent = fs.readFileSync(INPUT_FILE, 'utf-8');
+    const entries = parseXMLEntries(xmlContent);
+    const totalBatches = Math.ceil(entries.length / BATCH_SIZE);
     
-    console.log(`📊 ${lines.length} dòng, ${totalBatches} batch\n`);
+    console.log(`📊 ${entries.length} thẻ XML, ${totalBatches} batch\n`);
     
     let progress = loadProgress();
     if (progress.completedBatches.length === 0) {
@@ -154,12 +226,12 @@ async function main() {
         
         console.log(`⚡ Batch ${batchIndex + 1}/${totalBatches}`);
         
-        const result = await translateBatch(lines, batchIndex);
+        const result = await translateBatch(entries, batchIndex);
         
         progress.completedBatches.push(result.batchIndex);
         saveProgress(progress);
         
-        console.log(`✅ Batch ${result.batchIndex + 1} → temp-batches/batch-${String(result.batchIndex).padStart(6, '0')}.txt`);
+        console.log(`✅ Batch ${result.batchIndex + 1} → temp-batches/batch-${String(result.batchIndex).padStart(6, '0')}.xml`);
         
         if (currentIndex < pendingBatches.length) {
             const promise = processNextBatch();
@@ -183,21 +255,24 @@ async function main() {
         await new Promise(resolve => setTimeout(resolve, 100));
     }
     
-    // Ghép file
-    console.log('\n📝 Ghép file...');
-    const finalLines = [];
+    // Ghép file XML
+    console.log('\n📝 Tạo file XML...');
+    let xmlOutput = '<?xml version="1.0" encoding="utf-8"?>\n<StblData>\n  <TextStringDefinitions>\n';
+    
     for (let i = 0; i < totalBatches; i++) {
-        const tempFile = path.join(TEMP_DIR, `batch-${String(i).padStart(6, '0')}.txt`);
+        const tempFile = path.join(TEMP_DIR, `batch-${String(i).padStart(6, '0')}.xml`);
         if (fs.existsSync(tempFile)) {
-            finalLines.push(fs.readFileSync(tempFile, 'utf-8'));
+            xmlOutput += fs.readFileSync(tempFile, 'utf-8');
         }
     }
     
-    fs.writeFileSync(OUTPUT_FILE, finalLines.join('\n'), 'utf-8');
+    xmlOutput += '  </TextStringDefinitions>\n</StblData>';
+    
+    fs.writeFileSync(OUTPUT_FILE, xmlOutput, 'utf-8');
     
     console.log('\n🎉 HOÀN THÀNH!');
     console.log(`✅ ${OUTPUT_FILE}`);
-    console.log(`\n▶️  node translate-xml.js apply`);
+    console.log(`📊 Đã dịch ${entries.length} thẻ`);
     
     if (fs.existsSync(PROGRESS_FILE)) {
         fs.unlinkSync(PROGRESS_FILE);

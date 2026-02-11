@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x5AC1A9BF" TextString="Thời gian còn lại: dưới 1 ngày" />
+    <TextStringDefinition InstanceID="0xED883846" TextString="Gia hạn Kỳ nghỉ" />
+    <TextStringDefinition InstanceID="0xF7627639" TextString="Gia hạn thêm" />
+    <TextStringDefinition InstanceID="0xBCD2559F" TextString="Hủy &amp; Kết thúc Kỳ nghỉ" />
+    <TextStringDefinition InstanceID="0x4E0C902E" TextString="&lt;span class='cannotAfford'&gt;{0.Money}&lt;/span&gt;" />
+    <TextStringDefinition InstanceID="0x828B314F" TextString="&lt;span class='canAfford'&gt;{0.Money}&lt;/span&gt;" />
+    <TextStringDefinition InstanceID="0xF798E0BF" TextString="Vào Khu phố" />
+    <TextStringDefinition InstanceID="0x5DD668BD" TextString="Dấu chân môi trường - {0.String}" />
+    <TextStringDefinition InstanceID="0xDCB4BAE0" TextString="Việc chọn Lô đất không khả dụng khi ở Chế độ Dấu chân môi trường. Hãy chuyển Chế độ Dấu chân môi trường để chọn một lô đất." />
+    <TextStringDefinition InstanceID="0xBA3C9739" TextString="Đã chia sẻ câu chuyện Facebook thành công!" />
+    <TextStringDefinition InstanceID="0x1BA00634" TextString="Lỗi" />
+    <TextStringDefinition InstanceID="0x34F03AF2" TextString="Đóng" />
+    <TextStringDefinition InstanceID="0x7D3E8EAE" TextString="Không thể chia sẻ lên Facebook! Vui lòng thử lại sau." />
+    <TextStringDefinition InstanceID="0xA0EE7FF0" TextString="&lt;span class=&quot;originLink&quot;&gt;{0.String}&lt;/span&gt;" />
+    <TextStringDefinition InstanceID="0x8D1BEBCC" TextString="Bởi: &lt;span class=&quot;originLink&quot;&gt;{0.String}&lt;/span&gt;" />
+    <TextStringDefinition InstanceID="0xCC167D33" TextString="Bởi: &lt;span class=&quot;originLink&quot;&gt;&lt;a href='event:clickEvent'&gt;{0.String}&lt;/a&gt;&lt;/span&gt;" />
+    <TextStringDefinition InstanceID="0xBBC75D4A" TextString="The Sims 4: Chia sẻ tác phẩm của bạn với thế giới!" />
+    <TextStringDefinition InstanceID="0xAAFC8DE8" TextString="Tìm kiếm, lưu và chơi với những Sim độc nhất" />
+    <TextStringDefinition InstanceID="0x77FF33CD" TextString="Mọi nội dung được lưu trữ và kiểm duyệt bởi Maxis" />
+    <TextStringDefinition InstanceID="0x0D1D2E19" TextString="Khám phá và lưu những Lô đất mới đầy cảm hứng" />
+    <TextStringDefinition InstanceID="0xCD6CA7CC" TextString="Chia sẻ tác phẩm của bạn với Cộng đồng" />
+    <TextStringDefinition InstanceID="0x997F1FA6" TextString="Đăng nhập vào Thư viện The Sims 4 cho phép bạn xem những tác phẩm do người chơi khác tạo, đăng bình luận, nhận cập nhật từ những người sáng tạo bạn đang theo dõi, và chọn các mục từ Thư viện để sau này tải vào trò chơi The Sims 4 của bạn.\n\nNgười chơi khác, bao gồm bạn bè của bạn, có thể theo dõi bạn trong Thư viện và xem hồ sơ Thư viện của bạn. Bạn cũng có thể xem ai đang theo dõi bạn. Nếu bạn không muốn ai theo dõi hoặc xem hồ sơ Thư viện của bạn, chỉ cần thay đổi cài đặt quyền riêng tư Tài khoản EA của bạn để “Không ai” có thể xem hồ sơ của bạn. Với cài đặt này, người chơi khác vẫn có thể xem và bình luận về nội dung bạn đã tải lên Thư viện.\n\nBằng việc sử dụng, bạn xác nhận tuân thủ &lt;span class=&quot;tosLink&quot;&gt;&lt;a href='event:clickEvent'&gt;Thỏa thuận Người dùng của EA&lt;/a&gt;&lt;/span&gt;." />
+    <TextStringDefinition InstanceID="0x3F08F6B7" TextString="#{0.String}" />
+    <TextStringDefinition InstanceID="0xAE01AE46" TextString="Đã chia sẻ: {0.String}" />
+    <TextStringDefinition InstanceID="0xE8A383F8" TextString="Đã sửa đổi: {0.String}" />
+    <TextStringDefinition InstanceID="0xE2DC16DF" TextString="Đã tạo: {0.String}" />
+    <TextStringDefinition InstanceID="0x51903FC1" TextString="bạn" />
+    <TextStringDefinition InstanceID="0x5B93ACB5" TextString="Nguyên tác bởi: &lt;span class=&quot;originLink&quot;&gt;{0.String}&lt;/span&gt;" />
+    <TextStringDefinition InstanceID="0x39D37208" TextString="Nguyên tác bởi: &lt;span class=&quot;originLink&quot;&gt;&lt;a href='event:clickEvent'&gt;{0.String}&lt;/a&gt;&lt;/span&gt;" />
+    <TextStringDefinition InstanceID="0x27987941" TextString="SparkdChallenges" />
+    <TextStringDefinition InstanceID="0xE12C6F29" TextString="Mục này đã được lưu vào Thư viện của bạn với phiên bản cũ của The Sims 4. Vui lòng lưu mục này một lần nữa trước khi chia sẻ lên Thư viện." />
+    <TextStringDefinition InstanceID="0xBB922E2F" TextString="Phòng" />
+    <TextStringDefinition InstanceID="0x89D8B5F5" TextString="Hình xăm" />
+    <TextStringDefinition InstanceID="0x6686C0AD" TextString="Hộ gia đình" />
+    <TextStringDefinition InstanceID="0x56901AA3" TextString="Lô đất" />
+    <TextStringDefinition InstanceID="0xA3224061" TextString="Ngừng theo dõi người dùng này" />
+    <TextStringDefinition InstanceID="0x2791F979" TextString="Kích thước tệp của mục này quá lớn để tải lên Thư viện." />
+    <TextStringDefinition InstanceID="0xC8326D2E" TextString="Theo dõi người dùng này" />
+    <TextStringDefinition InstanceID="0x5B1EBFEB" TextString="Người chơi bị chặn không thể được Theo dõi." />
+    <TextStringDefinition InstanceID="0x7C1290B0" TextString="Xem Hồ sơ Người chơi" />
+    <TextStringDefinition InstanceID="0x55EF010F" TextString="Đã tải lên để Chia sẻ" />
+    <TextStringDefinition InstanceID="0x2EF48AA7" TextString="{0.Number} em bé trong hộ gia đình" />
+    <TextStringDefinition InstanceID="0xE9793F93" TextString="Không thể áp dụng cho penthouse" />
+    <TextStringDefinition InstanceID="0x3DD7F6D8" TextString="Đang theo dõi\n{0.Number}" />
+    <TextStringDefinition InstanceID="0x59CD9504" TextString="Người theo dõi\n{0.Number}" />
+    <TextStringDefinition InstanceID="0x8C320251" TextString="Đã chặn\n{0.Number}" />
+    <TextStringDefinition InstanceID="0x5010950B" TextString="{0.Number} Người theo dõi{P0.s}" />
+    <TextStringDefinition InstanceID="0x3565ED34" TextString="Đang Theo dõi Bạn" />
+    <TextStringDefinition InstanceID="0x6C16CCA3" TextString="Vô danh" />
+    <TextStringDefinition InstanceID="0x17EE793F" TextString="Phổ biến Hiện tại" />

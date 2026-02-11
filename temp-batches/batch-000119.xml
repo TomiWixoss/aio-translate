@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xB7FA2CA4" TextString="Đang chơi Giải đấu Party Frenzy Sơ cấp" />
+    <TextStringDefinition InstanceID="0x7B011D4D" TextString="Giải đấu Lời Nguyền Thần Linh Sơ cấp" />
+    <TextStringDefinition InstanceID="0x2702B057" TextString="Đang chơi Giải đấu Lời Nguyền Thần Linh Sơ cấp" />
+    <TextStringDefinition InstanceID="0x96622597" TextString="Giải đấu chưa kết thúc! Có phải máy chủ vừa mất kết nối?" />
+    <TextStringDefinition InstanceID="0xB885350C" TextString="Chơi Hiệu ứng Mật độ" />
+    <TextStringDefinition InstanceID="0xD543736C" TextString="Đang chơi Hiệu ứng Mật độ" />
+    <TextStringDefinition InstanceID="0x6C7B8E33" TextString="Chơi MySims Racing" />
+    <TextStringDefinition InstanceID="0x99A33D89" TextString="Đang chơi MySims Racing" />
+    <TextStringDefinition InstanceID="0xE91C57E9" TextString="Chơi Party Frenzy" />
+    <TextStringDefinition InstanceID="0xC335BBF3" TextString="Đang chơi Party Frenzy" />
+    <TextStringDefinition InstanceID="0x8B414171" TextString="Đang chơi MySims Racing trực tuyến" />
+    <TextStringDefinition InstanceID="0x2D7DCFDB" TextString="Đang chơi Party Frenzy trực tuyến" />
+    <TextStringDefinition InstanceID="0x0B8842D0" TextString="Ở cuối một trận đấu rất sít sao, {0.SimFirstName} không thể kết thúc để giành chiến thắng. Chúc may mắn lần sau!" />
+    <TextStringDefinition InstanceID="0x063A15FA" TextString="“TẤT CẢ ĐIỂM THUỘC VỀ {0.SimFirstName|xxAllCaps},” trò chơi tuyên bố, với kiểu chữ retro lớn, khi trận đấu kết thúc. {0.SimFirstName} là nhà vô địch kỹ thuật số!" />
+    <TextStringDefinition InstanceID="0x0ADE1014" TextString="Zap! Vroom! Dag Dag! {0.SimFirstName} đã phá hủy đối thủ trong một màn thể hiện sự thành thạo ảo. Không ai sẽ gọi {M0.him}{F0.her} là n00b sớm đâu." />
+    <TextStringDefinition InstanceID="0xAF75C899" TextString="Ồ, thật đáng thất vọng. Một nhóm thanh thiếu niên khó chịu tham gia trận đấu trực tuyến đã cười nhạo {0.SimFirstName} suốt cả thời gian!" />
+    <TextStringDefinition InstanceID="0x3C90CBF1" TextString="Đó là một cuộc cạnh tranh sít sao, nhưng {0.SimFirstName} giữ power-up cho vài giây cuối cùng là một nước đi thông minh. {M0.His}{F0.Her} đối thủ không ngờ tới!" />
+    <TextStringDefinition InstanceID="0xB305C518" TextString="Trò chơi chưa kết thúc! Có phải máy chủ vừa mất kết nối?" />
+    <TextStringDefinition InstanceID="0xF8426FC1" TextString="Mọi người đôi khi cũng thua một trò chơi. Đó là chuyện bình thường! {0.SimFirstName} không may đã thua trò chơi này." />
+    <TextStringDefinition InstanceID="0x80A64344" TextString="Đang chơi MySims Racing nhiều người chơi" />
+    <TextStringDefinition InstanceID="0x3C81DE60" TextString="Đang chơi Party Frenzy nhiều người chơi" />
+    <TextStringDefinition InstanceID="0x1E87C9EB" TextString="Buộc bản thân chơi Hiệu ứng Mật độ" />
+    <TextStringDefinition InstanceID="0xDD13FF81" TextString="Đang buộc bản thân chơi Hiệu ứng Mật độ" />
+    <TextStringDefinition InstanceID="0x6B2B370A" TextString="Buộc bản thân chơi MySims Racing" />
+    <TextStringDefinition InstanceID="0x2115F4CE" TextString="Đang buộc bản thân chơi MySims Racing" />
+    <TextStringDefinition InstanceID="0x70F7B52E" TextString="Buộc bản thân chơi Party Frenzy" />
+    <TextStringDefinition InstanceID="0xB01642E2" TextString="Đang buộc bản thân chơi Party Frenzy" />
+    <TextStringDefinition InstanceID="0xF78FAF4B" TextString="Buộc bản thân chơi Lời Nguyền Thần Linh" />
+    <TextStringDefinition InstanceID="0x00851DE1" TextString="Đang buộc bản thân chơi Lời Nguyền Thần Linh" />
+    <TextStringDefinition InstanceID="0x40E7C6CC" TextString="Chơi Lời Nguyền Thần Linh" />
+    <TextStringDefinition InstanceID="0xD84ADAAC" TextString="Đang chơi Lời Nguyền Thần Linh" />
+    <TextStringDefinition InstanceID="0xE2602AE6" TextString="Đang chờ tham gia trò chơi" />
+    <TextStringDefinition InstanceID="0x4E78941A" TextString="Tham gia trò chơi" />
+    <TextStringDefinition InstanceID="0xA6CCC9E8" TextString="Không thể tham gia Hiệu ứng Mật độ" />
+    <TextStringDefinition InstanceID="0x4CC71096" TextString="Tham gia một ván Party Frenzy" />
+    <TextStringDefinition InstanceID="0xE326D88F" TextString="Tham gia một ván MySims Racing" />
+    <TextStringDefinition InstanceID="0xAF25ECDE" TextString="Đang tham gia" />
+    <TextStringDefinition InstanceID="0x72BFC7C8" TextString="Đã đang chơi {1.ObjectName}" />
+    <TextStringDefinition InstanceID="0x06279BAE" TextString="{0.SimFirstName} phải hoàn thành trò chơi hiện tại trước khi bắt đầu một trò chơi mới!" />
+    <TextStringDefinition InstanceID="0x67B8B54C" TextString="Bật Ghi đè Màn hình Không dây" />
+    <TextStringDefinition InstanceID="0xD6AE7298" TextString="Tắt Ghi đè Màn hình Không dây" />
+    <TextStringDefinition InstanceID="0x4D96ECC6" TextString="{1.ObjectName} đã mất kết nối!" />
+    <TextStringDefinition InstanceID="0x7E551B2A" TextString="{1.ObjectName} đã cháy!" />
+    <TextStringDefinition InstanceID="0xEC675154" TextString="Thay thế {1.ObjectName}." />
+    <TextStringDefinition InstanceID="0xCC7F1016" TextString="{1.ObjectName} đã hỏng!" />
+    <TextStringDefinition InstanceID="0xA6F05942" TextString="Sửa chữa hoặc thay thế {1.ObjectName}." />
+    <TextStringDefinition InstanceID="0x720248A1" TextString="Mua hàng" />
+    <TextStringDefinition InstanceID="0x8B20FE71" TextString="Đã nhận đồ từ Máy bán hàng" />
+    <TextStringDefinition InstanceID="0xF02BD818" TextString="{0.SimFirstName} không thể tập luyện với cơ bị kéo!" />
+    <TextStringDefinition InstanceID="0x25AB3290" TextString="Chạy bộ Năng lượng" />

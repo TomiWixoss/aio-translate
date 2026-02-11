@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0x1C5932D0" TextString="Kết thúc thành công lớn của Freelancer chung TNS [Không hiển thị cho người chơi]" />
+    <TextStringDefinition InstanceID="0x66053875" TextString="Kết thúc thất bại của Freelancer chung TNS [Không hiển thị cho người chơi]" />
+    <TextStringDefinition InstanceID="0x3EF65648" TextString="Gig của Freelancer bị hủy. Điều này sẽ ảnh hưởng xấu đến hiệu suất công việc của {0.SimFirstName}." />
+    <TextStringDefinition InstanceID="0xBF05B947" TextString="Khách hàng của {0.SimFirstName} tức giận vì {M0.he}{F0.she} đã không hoàn thành bất kỳ mục tiêu nào trước thời hạn của gig. Sự cẩu thả của {M0.His}{F0.Her} đã dẫn đến mất mát đáng kể về hiệu suất công việc." />
+    <TextStringDefinition InstanceID="0x82BA6D7E" TextString="{0.SimFirstName} được Tin!" />
+    <TextStringDefinition InstanceID="0xFBE6CCB4" TextString="{0.SimFirstName} được Bạc!" />
+    <TextStringDefinition InstanceID="0x1B95DB2B" TextString="{0.SimFirstName} được Vàng!" />
+    <TextStringDefinition InstanceID="0xF9525A1D" TextString="{0.SimFirstName} được Đồng!" />
+    <TextStringDefinition InstanceID="0xB2DB1D70" TextString="Landgraab Elementary" />
+    <TextStringDefinition InstanceID="0x842A6A8C" TextString="{0.SimFirstName} đi đến buổi họp Hướng đạo" />
+    <TextStringDefinition InstanceID="0xCDF0850F" TextString="Bỏ Hoạt động Sau giờ học" />
+    <TextStringDefinition InstanceID="0x831C404D" TextString="Bạn có chắc {0.SimFirstName} nên từ bỏ vị trí {2.String} của {M0.his}{F0.her} không?" />
+    <TextStringDefinition InstanceID="0x348A352A" TextString="Đi đến buổi họp Hướng đạo" />
+    <TextStringDefinition InstanceID="0x253AE052" TextString="Bỏ lỡ buổi họp Hướng đạo" />
+    <TextStringDefinition InstanceID="0x3D96C02E" TextString="{0.SimFirstName} đang bận một chút. {M0.he}{F0.she} vẫn nên đi đến buổi họp Hướng đạo của {M0.him}{F0.her} không?" />
+    <TextStringDefinition InstanceID="0x036E444B" TextString="{0.SimFirstName} đã rời {3.String}." />
+    <TextStringDefinition InstanceID="0xC19BFE43" TextString="{0.SimFirstName} đã được thăng chức thành {1.String}!" />
+    <TextStringDefinition InstanceID="0xF3ECCB4C" TextString="{0.SimFirstName} đã được thăng chức thành {1.String}!\n\n{M0.He}{F0.She} cũng đã nhận được phần thưởng sau:\n{8.String}\n\n" />
+    <TextStringDefinition InstanceID="0x68B74BDD" TextString="{0.SimFirstName} đã được công nhận vì sự cống hiến tuyệt vời!" />
+    <TextStringDefinition InstanceID="0xD76B0BA8" TextString="Bị đuổi" />
+    <TextStringDefinition InstanceID="0x43F19A4E" TextString="Tin xấu! {0.SimFirstName} đã bị sa thải." />
+    <TextStringDefinition InstanceID="0x2DFB48C1" TextString="{0.SimFirstName} đã nghỉ ngơi." />
+    <TextStringDefinition InstanceID="0xAC7E9D13" TextString="Điều phối viên của tôi đang gọi. Tôi nên nghe không?" />
+    <TextStringDefinition InstanceID="0x461221CE" TextString="Buổi họp Hướng đạo cho {0.SimFirstName} sẽ bắt đầu trong khoảng một giờ nữa." />
+    <TextStringDefinition InstanceID="0x250BF64C" TextString="Đi đến buổi họp Hướng đạo" />
+    <TextStringDefinition InstanceID="0xFC5D9869" TextString="Hoạt động tình nguyện cho {0.SimFirstName} sẽ bắt đầu trong khoảng một giờ nữa. Bạn muốn làm gì?" />
+    <TextStringDefinition InstanceID="0xAB94F4D4" TextString="{0.SimFirstName} đang đi đến buổi họp Hướng đạo của {M0.him}{F0.her}!" />
+    <TextStringDefinition InstanceID="0xD2CAFA21" TextString="{0.SimFirstName} đã trở về từ buổi họp Hướng đạo của {M0.him}{F0.her}" />
+    <TextStringDefinition InstanceID="0xD48E9BB0" TextString="&lt;font color='#03ADEE'&gt;Nghỉ lễ - {1.Number} {S1.day}{P1.days} đã kiếm được. &lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x99DDA42A" TextString="&lt;font color='#03ADEE'&gt;Nghỉ lễ&lt;/font&gt;" />
+    <TextStringDefinition InstanceID="0x22D43999" TextString="Có vẻ như {0.SimFirstName} đang gặp vấn đề với bảng chữ cái. {M0.He}{F0.She} dường như không thể vượt qua chữ 'A'! Hoan hô!" />
+    <TextStringDefinition InstanceID="0xDCA7BB11" TextString="{0.SimFirstName} đã trở về từ trường học. {M0.He}{F0.She} là một trong những học sinh hàng đầu tại {3.String}. Tiếp tục phát huy!" />
+    <TextStringDefinition InstanceID="0x2A44F71A" TextString="Tuyệt vời! {0.SimFirstName} chắc chắn có thể tận hưởng cuối tuần với tư cách là một trong những học sinh hàng đầu tại {3.String}. Có lẽ {M0.he}{F0.she} có thể dành thời gian cho một số bài tập thêm điểm, đề phòng." />
+    <TextStringDefinition InstanceID="0xB6B3E22E" TextString="Không có cảm giác nào tuyệt vời hơn là bắt đầu cuối tuần với tư cách là học sinh toàn A. {0.SimFirstName} nên cảm thấy tự hào!" />
+    <TextStringDefinition InstanceID="0xA23D73EA" TextString="Mong rằng kế hoạch cuối tuần của {0.SimFirstName} bao gồm việc tập trung vào bài tập. Nhận những điểm thấp như vậy có thể ảnh hưởng đến tương lai của {M0.his}{F0.her}!" />
+    <TextStringDefinition InstanceID="0x6F834D9F" TextString="Nhận điểm D ở trường không phải chuyện đùa. {0.SimFirstName} nên dùng cuối tuần để suy ngẫm và nỗ lực hơn trong việc học của {M0.his}{F0.her}." />
+    <TextStringDefinition InstanceID="0x1B1C2BB0" TextString="{0.SimFirstName} đã xong việc học cho hôm nay. Một điểm 'B' không phải là điểm tồi, nhưng điều đó không có nghĩa là không có chỗ để cải thiện." />
+    <TextStringDefinition InstanceID="0xE4F762ED" TextString="Trường đã tan học cho hôm nay. {3.String} đầy rẫy học sinh được điểm 'B'. {0.SimFirstName} là một trong số đó. Có lẽ {M0.he}{F0.she} có thể thử tự làm nổi bật hơn?" />
+    <TextStringDefinition InstanceID="0x053917BF" TextString="Trường đã kết thúc, và {0.SimFirstName} không học giỏi lắm. Thực tế, {M0.he}{F0.she} đang học rất kém." />
+    <TextStringDefinition InstanceID="0x83326EAE" TextString="{0.SimFirstName} đã trở về từ trường cho hôm nay và bảng điểm của {M0.him}{F0.her} đầy rẫy điểm D. Điều đó chắc chắn không dễ chịu cho bất kỳ ai." />
+    <TextStringDefinition InstanceID="0xD42EC535" TextString="{0.SimFirstName} đã xong việc học cho hôm nay. {M0.He}{F0.She} đang làm việc một cách đủ, nhưng các giáo viên của {M0.him}{F0.her} tại {3.String} nghĩ rằng {M0.he}{F0.she} có thể dễ dàng cải thiện với chỉ một chút nỗ lực thêm." />
+    <TextStringDefinition InstanceID="0xBE83FB84" TextString="{0.SimFirstName} đã về nhà từ trường. Không cần phải dọn chỗ trên cửa tủ lạnh... Công việc của {M0.him}{F0.her} chỉ mới đủ." />
+    <TextStringDefinition InstanceID="0x1A5A99CE" TextString="{0.SimFirstName} đã trở về từ trường. Các tối thứ Sáu là thời điểm tuyệt vời để biến điểm B thành điểm A. {M0.He}{F0.She} có thể tập trung vào việc đó, có lẽ." />
+    <TextStringDefinition InstanceID="0x60A0DA43" TextString="{0.SimFirstName} đã xong việc học cho tuần này. {M0.He}{F0.She} đang học tốt, nhưng không sao nếu nỗ lực thêm một chút. Có lẽ cuối tuần sẽ là thời điểm tốt để làm điều đó." />
+    <TextStringDefinition InstanceID="0x962CA34A" TextString="Đó là cuối tuần. {0.SimFirstName} kết thúc tuần này với điểm 'C' ở trường. Điều đó thực sự đủ hài lòng sao?" />
+    <TextStringDefinition InstanceID="0xFD9E8283" TextString="{0.SimFirstName} không phải là học sinh đầu tiên được điểm 'C' tại {3.String}, và {M0.he}{F0.she} chắc chắn sẽ không phải là người cuối cùng. Cuối tuần sẽ không phải là thời điểm tuyệt vời để {0.SimPronounObjective} nâng cao điểm số của {M0.his}{F0.her} lên sao?" />
+    <TextStringDefinition InstanceID="0xE3C508FB" TextString="{0.SimFirstName} đang trượt! {M0.He}{F0.She} cần hành động và cải thiện những điểm số đó nếu {M0.he}{F0.she} muốn có một tương lai tươi sáng." />
+    <TextStringDefinition InstanceID="0xC9697CB8" TextString="Điểm F! {0.SimFirstName} đang học rất thất vọng ở trường. {M0.He}{F0.She} nên cải thiện sớm!" />
+    <TextStringDefinition InstanceID="0x8620DB4A" TextString="{0.SimFirstName} đang trượt! {M0.He}{F0.She} nên dùng cuối tuần để tập trung vào bài tập về nhà. Bằng cách này, {M0.he}{F0.she} sẽ có cơ hội không xuất hiện trong Đại sảnh của những người bỏ học nổi tiếng của {3.String}." />
+    <TextStringDefinition InstanceID="0x649433E8" TextString="Một tuần học khác đã kết thúc và {0.SimFirstName} đã khẳng định bản thân là một trong những học sinh có thứ hạng thấp nhất của {3.String}. Thật đáng xấu hổ!" />

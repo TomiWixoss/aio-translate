@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xB0D48039" TextString="Xóa Trang Phục" />
+    <TextStringDefinition InstanceID="0x5FB8255F" TextString="Món đồ bị hỏng, bạn có muốn loại bỏ nó không?" />
+    <TextStringDefinition InstanceID="0x78A8B064" TextString="Giảm Chiều Cao Bảng" />
+    <TextStringDefinition InstanceID="0x283DB365" TextString="Giảm Lượng" />
+    <TextStringDefinition InstanceID="0x72C5FE2D" TextString="Xóa Tất Cả Bộ Lọc" />
+    <TextStringDefinition InstanceID="0xCF6ABE76" TextString="Hủy Chế Độ" />
+    <TextStringDefinition InstanceID="0x570EBEDF" TextString="Tùy Chọn Vắng Mặt" />
+    <TextStringDefinition InstanceID="0x9E83547A" TextString="Thay Đổi Hồ Sơ" />
+    <TextStringDefinition InstanceID="0xBAD35844" TextString="Tùy Chọn Sim" />
+    <TextStringDefinition InstanceID="0x57995840" TextString="Ghim Mong Ước" />
+    <TextStringDefinition InstanceID="0x0AB1443A" TextString="Xóa Mong Ước" />
+    <TextStringDefinition InstanceID="0xE5C5717E" TextString="Hủy Hành Động" />
+    <TextStringDefinition InstanceID="0x15D07B4F" TextString="Đặt Vào Kho Đồ" />
+    <TextStringDefinition InstanceID="0xDA2C68AC" TextString="Đặt Vật Thể" />
+    <TextStringDefinition InstanceID="0x69368B9A" TextString="Hủy Lựa Chọn" />
+    <TextStringDefinition InstanceID="0x0D496984" TextString="Bán Vật Thể" />
+    <TextStringDefinition InstanceID="0x2509C2A4" TextString="Kéo Thả Trực Tiếp Vật Thể" />
+    <TextStringDefinition InstanceID="0x06C67206" TextString="Chọn Sim Tiếp Theo" />
+    <TextStringDefinition InstanceID="0x69D062D6" TextString="Chuyển Đổi Hộp Kiểm" />
+    <TextStringDefinition InstanceID="0xE84AD844" TextString="Gắn vào Sim Bên Phải" />
+    <TextStringDefinition InstanceID="0xE2C837D1" TextString="Gắn vào Sim Bên Trái" />
+    <TextStringDefinition InstanceID="0x74C3856C" TextString="Kéo Thả Trực Tiếp Món Đồ" />
+    <TextStringDefinition InstanceID="0x177C9F0E" TextString="Tăng Tốc Độ Trò Chơi" />
+    <TextStringDefinition InstanceID="0x1C294B93" TextString="Chuyển Đổi Camera Theo Dõi" />
+    <TextStringDefinition InstanceID="0x70338E7B" TextString="Camera Theo Dõi Sim" />
+    <TextStringDefinition InstanceID="0x63D413F6" TextString="Giảm Tốc Độ Trò Chơi" />
+    <TextStringDefinition InstanceID="0xBCC113B9" TextString="Hủy Hành Động Hiện Tại" />
+    <TextStringDefinition InstanceID="0x48457F9B" TextString="Ghim Trình Đơn" />
+    <TextStringDefinition InstanceID="0xEE6E23B5" TextString="Lặp Danh Mục Sang Phải" />
+    <TextStringDefinition InstanceID="0x7072B2B6" TextString="Lặp Danh Mục Sang Trái" />
+    <TextStringDefinition InstanceID="0xF1021AD0" TextString="Bán Tất Cả Đã Chọn" />
+    <TextStringDefinition InstanceID="0xB92A8573" TextString="Bán" />
+    <TextStringDefinition InstanceID="0xAA3D2538" TextString="Chuyển Đổi Yêu Thích Tất Cả Đã Chọn" />
+    <TextStringDefinition InstanceID="0xAF01D172" TextString="Xóa" />
+    <TextStringDefinition InstanceID="0xE02F672D" TextString="Xóa Điểm" />
+    <TextStringDefinition InstanceID="0x3E8331D8" TextString="Thêm Điểm" />
+    <TextStringDefinition InstanceID="0x5647615B" TextString="Xóa Hình Dạng Tối" />
+    <TextStringDefinition InstanceID="0x99773997" TextString="Xóa Đơn Hàng Đồ Ăn" />
+    <TextStringDefinition InstanceID="0xAAB45F07" TextString="Xóa Đơn Hàng Đồ Uống" />
+    <TextStringDefinition InstanceID="0x32A69B67" TextString="Phóng To / Xoay Camera" />
+    <TextStringDefinition InstanceID="0x5A7AD93F" TextString="Phóng To / Thu Nhỏ" />
+    <TextStringDefinition InstanceID="0x3FAFDFE4" TextString="Tầng Trên" />
+    <TextStringDefinition InstanceID="0x6423504C" TextString="Góc Nhìn Trên Cao" />
+    <TextStringDefinition InstanceID="0x915762F8" TextString="Chuyển Đổi Hướng Camera" />
+    <TextStringDefinition InstanceID="0x061AF27C" TextString="Chuyển Đổi Đèn Flash Camera" />
+    <TextStringDefinition InstanceID="0x441673F4" TextString="(GIỮ) Chuyển Đổi Góc Nhìn Người Thứ Nhất" />
+    <TextStringDefinition InstanceID="0x7BA05D6C" TextString="Chuyển Đổi Con Trỏ" />
+    <TextStringDefinition InstanceID="0xE6A28C7E" TextString="Chuyển Sang Chọn Tư Thế" />
+    <TextStringDefinition InstanceID="0x7B6C35B7" TextString="Chuyển Sang Chọn Bộ Lọc" />
+    <TextStringDefinition InstanceID="0x017FD412" TextString="Chọn" />

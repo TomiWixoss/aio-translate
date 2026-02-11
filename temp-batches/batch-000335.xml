@@ -1,0 +1,50 @@
+    <TextStringDefinition InstanceID="0xC8544291" TextString="Góc Ngoài" />
+    <TextStringDefinition InstanceID="0xEA69F9D9" TextString="Mảnh Đầu Trái" />
+    <TextStringDefinition InstanceID="0x75E10BAC" TextString="Góc Trong" />
+    <TextStringDefinition InstanceID="0x2222D2EA" TextString="Nửa Ô" />
+    <TextStringDefinition InstanceID="0xE10B7F7A" TextString="Hai Ô" />
+    <TextStringDefinition InstanceID="0x762E399C" TextString="Thang Bên Trái" />
+    <TextStringDefinition InstanceID="0x1F0DFECA" TextString="Thang Bên Phải" />
+    <TextStringDefinition InstanceID="0xEF0246F8" TextString="Hai Thang" />
+    <TextStringDefinition InstanceID="0x04B507FE" TextString="Bạn có {0.Number} manơquin quá nhiều trên lô đất! Hãy loại bỏ chúng trước khi thực hiện." />
+    <TextStringDefinition InstanceID="0x154F0D8F" TextString="Bạn chưa đáp ứng yêu cầu vật thể trên lô đất. Hãy đặt các vật thể yêu cầu trước khi thực hiện." />
+    <TextStringDefinition InstanceID="0x655C6D18" TextString="Không thể thoát khỏi lô đất!" />
+    <TextStringDefinition InstanceID="0xA9DC0807" TextString="Bạn có {0.Number} manơquin quá nhiều trên lô đất! Hãy loại bỏ chúng trước khi thoát Chế Độ Xây Dựng. Mỗi lô đất chỉ có thể có tối đa mười manơquin." />
+    <TextStringDefinition InstanceID="0xEB718F3F" TextString="Bạn có {0.Number} thang máy quá nhiều trên lô đất! Hãy loại bỏ chúng trước khi thoát Chế Độ Xây Dựng. Mỗi lô đất chỉ có thể có một thang máy." />
+    <TextStringDefinition InstanceID="0xB51439F5" TextString="Bạn không thể thoát khi có em bé trong túi đồ." />
+    <TextStringDefinition InstanceID="0xF1DB3089" TextString="Chia Sẻ Thành Tích lên Twitter" />
+    <TextStringDefinition InstanceID="0xF1CB21D7" TextString="Tổng Điểm:" />
+    <TextStringDefinition InstanceID="0xCC1ACBFA" TextString="Thành Tích" />
+    <TextStringDefinition InstanceID="0x13AF1201" TextString="Tiến Độ:" />
+    <TextStringDefinition InstanceID="0x1A42D02D" TextString="Điểm" />
+    <TextStringDefinition InstanceID="0x0317B619" TextString="     ---" />
+    <TextStringDefinition InstanceID="0x2AB3A3EC" TextString="Chia Sẻ Thành Tích lên Facebook" />
+    <TextStringDefinition InstanceID="0x175E87C9" TextString="TẤT CẢ" />
+    <TextStringDefinition InstanceID="0x74C35BF8" TextString=" {0.Number}/{1.Number}" />
+    <TextStringDefinition InstanceID="0x7DE8AF0A" TextString=" {0.Money}/{1.Money}" />
+    <TextStringDefinition InstanceID="0x8E35A533" TextString="Mang Thai" />
+    <TextStringDefinition InstanceID="0xC90E1F8C" TextString="Chế Độ Sống" />
+    <TextStringDefinition InstanceID="0x550BDC97" TextString="Kể Chuyện Cười về Giáo Sư" />
+    <TextStringDefinition InstanceID="0x7F83263A" TextString="Trang Trí với Họa Tiết Thú Cưng" />
+    <TextStringDefinition InstanceID="0x7E832489" TextString="Trang Phục cho Mèo và Chó" />
+    <TextStringDefinition InstanceID="0x818329D0" TextString="Chăm Sóc Thú Cưng Mới" />
+    <TextStringDefinition InstanceID="0x84ACC20D" TextString="Trang Phục Phong Cách Nông Thôn" />
+    <TextStringDefinition InstanceID="0x85ACC3BE" TextString="Xây Dựng Ngôi Nhà Đồng Quê" />
+    <TextStringDefinition InstanceID="0x86ACC52B" TextString="Giặt Tủ Quần Áo" />
+    <TextStringDefinition InstanceID="0x6B212DF8" TextString="Tổ Chức Ngày Chơi" />
+    <TextStringDefinition InstanceID="0x6A212C4F" TextString="Nhảy Vào Niềm Vui" />
+    <TextStringDefinition InstanceID="0x69212A22" TextString="Trang Phục Dễ Thương" />
+    <TextStringDefinition InstanceID="0xB0DD434B" TextString="Tối Ưu Không Gian" />
+    <TextStringDefinition InstanceID="0xB1DD44F4" TextString="Thể Dục Phong Cách" />
+    <TextStringDefinition InstanceID="0xAEDD3FAD" TextString="Leo Tường Trèo" />
+    <TextStringDefinition InstanceID="0x12B6D506" TextString="Thời Trang Mới Ấn Tượng" />
+    <TextStringDefinition InstanceID="0x11B6D395" TextString="Đưa Sim Đi Bowling" />
+    <TextStringDefinition InstanceID="0x14B6D8DC" TextString="Xây Dựng Điểm Hẹn Bowling" />
+    <TextStringDefinition InstanceID="0x774C4050" TextString="Trang Trí Lộng Lẫy" />
+    <TextStringDefinition InstanceID="0x764C3E27" TextString="Bàn Trang Điểm Mới Toàn Diện" />
+    <TextStringDefinition InstanceID="0x754C3CBA" TextString="Thuê Người Hầu Cá Nhân" />
+    <TextStringDefinition InstanceID="0x860D48A5" TextString="Thư Giãn với Thời Trang Mới" />
+    <TextStringDefinition InstanceID="0x870D4AD6" TextString="Cá Nhân Hóa Sân Sau" />
+    <TextStringDefinition InstanceID="0x880D4C43" TextString="Trượt, Trượt và Nước Văng" />
+    <TextStringDefinition InstanceID="0x568D78CA" TextString="Tùy Chỉnh Phòng Trẻ Em" />
+    <TextStringDefinition InstanceID="0x558D7759" TextString="Chơi với Con Rối" />
