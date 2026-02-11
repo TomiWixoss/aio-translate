@@ -3,14 +3,14 @@ const fs = require('fs');
 const path = require('path');
 require('dotenv').config();
 
-const BATCH_SIZE = 50; // 50 thẻ XML mỗi batch
+const BATCH_SIZE = 50;
 const PARALLEL_BATCHES = 10;
 const MAX_RETRIES = 999;
 const RETRY_DELAY = 2000;
-const PROGRESS_FILE = 'translation-progress.json';
-const INPUT_FILE = 'en/Strings_ENG_US/Strings_ENG_US.xml';
-const OUTPUT_FILE = 'vi/Strings_ENG_US/Strings_VIE_VI.xml';
-const TEMP_DIR = 'temp-batches';
+const PROGRESS_FILE = 'translation-progress-pricone.json';
+const INPUT_FILE = 'merged_translations.xml';
+const OUTPUT_FILE = 'merged_translations_vi.xml';
+const TEMP_DIR = 'temp-batches-pricone';
 
 // Tạo thư mục temp
 if (!fs.existsSync(TEMP_DIR)) {
@@ -107,7 +107,29 @@ async function translateBatch(entries, batchIndex, retryCount = 0, messages = nu
         const response = await aio.chatCompletion({
             provider: "nvidia",
             model: "stepfun-ai/step-3.5-flash",
-            systemPrompt: `Bạn là chuyên gia dịch The Sims 4 sang tiếng Việt. Giữ nguyên tên riêng, thẻ HTML (như &lt;span&gt;), biến (như {0.String}), và ký tự đặc biệt. Chỉ dịch văn bản bên trong thẻ <Text>, KHÔNG thay đổi Key hay cấu trúc XML.`,
+            systemPrompt: `Bạn là chuyên gia dịch game Princess Connect! Re:Dive sang tiếng Việt.
+
+QUY TẮC BẮT BUỘC:
+1. TUYỆT ĐỐI giữ nguyên:
+   - Tên nhân vật, guild, địa danh, boss
+   - Tên kỹ năng và phép thuật
+
+2. TUYỆT ĐỐI giữ nguyên cú pháp:
+   - Biến số và placeholder
+   - Thẻ màu và format
+   - Ký tự xuống dòng
+   - Ký tự đặc biệt và biểu tượng
+   - Pattern regex
+
+3. Dịch tự nhiên:
+   - Phong cách game anime Nhật
+   - Giữ cảm xúc và ngữ điệu nhân vật
+   - Dịch sát nghĩa, không thêm bớt
+
+4. Cấu trúc XML:
+   - CHỈ dịch nội dung trong thẻ <Text>
+   - Giữ nguyên Key
+   - Giữ nguyên số lượng và thứ tự thẻ`,
             messages: messages,
             temperature: 0.3,
             top_p: 0.9,
@@ -199,7 +221,7 @@ async function translateBatch(entries, batchIndex, retryCount = 0, messages = nu
 
 
 async function main() {
-    console.log('🚀 Dịch The Sims 4 XML (Song song x10)\n');
+    console.log('🚀 Dịch Princess Connect! Re:Dive XML (Song song x10)\n');
     
     const xmlContent = fs.readFileSync(INPUT_FILE, 'utf-8');
     const entries = parseXMLEntries(xmlContent);

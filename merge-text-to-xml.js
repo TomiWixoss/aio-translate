@@ -37,15 +37,33 @@ function getAllTextFiles(dir, fileList = []) {
   return fileList;
 }
 
-// Hàm parse file .txt và trích xuất các cặp key-value
+// Hàm parse file .txt và trích xuất các cặp key-value (GIỮ NGUYÊN CẤU TRÚC)
 function parseTextFile(filePath) {
   const content = fs.readFileSync(filePath, 'utf8');
   const lines = content.split('\n');
   const entries = [];
   
-  for (const line of lines) {
-    // Bỏ qua dòng trống và dòng comment (bắt đầu với ---)
-    if (!line.trim() || line.trim().startsWith('---')) {
+  for (let lineNum = 0; lineNum < lines.length; lineNum++) {
+    const line = lines[lineNum];
+    const trimmed = line.trim();
+    
+    // Lưu dòng trống
+    if (!trimmed) {
+      entries.push({ 
+        type: 'empty',
+        lineNum: lineNum + 1,
+        original: line
+      });
+      continue;
+    }
+    
+    // Lưu dòng comment
+    if (trimmed.startsWith('---')) {
+      entries.push({ 
+        type: 'comment',
+        lineNum: lineNum + 1,
+        original: line
+      });
       continue;
     }
     
@@ -75,7 +93,13 @@ function parseTextFile(filePath) {
       const english = line.substring(equalIndex + 1).trim();
       
       if (japanese && english) {
-        entries.push({ japanese, english });
+        entries.push({ 
+          type: 'entry',
+          lineNum: lineNum + 1,
+          japanese, 
+          english,
+          original: line
+        });
       }
     }
   }
@@ -93,32 +117,49 @@ function mergeTextToXml() {
   console.log(`Tìm thấy ${textFiles.length} file .txt`);
   
   const xmlEntries = [];
-  const keyMap = new Map(); // Để tránh trùng key
+  const keyMap = new Map();
+  let globalIndex = 0; // Thêm index toàn cục
   
   textFiles.forEach(filePath => {
     console.log(`Đang xử lý: ${filePath}`);
     const relativePath = path.relative(textDir, filePath);
     const entries = parseTextFile(filePath);
     
-    entries.forEach(({ japanese, english }) => {
-      // Tạo key duy nhất dựa trên đường dẫn file, Japanese và English
-      const key = generateKey(relativePath, japanese, english);
-      
-      // Với thuật toán mới, key sẽ unique hơn nhiều
-      if (!keyMap.has(key)) {
-        keyMap.set(key, { filePath: relativePath, japanese, english });
+    entries.forEach((entry) => {
+      if (entry.type === 'entry') {
+        const { japanese, english } = entry;
+        // Tạo key duy nhất: hash + index
+        const baseKey = generateKey(relativePath, japanese, english);
+        const key = `${baseKey}_${globalIndex}`;
+        globalIndex++;
+        
+        keyMap.set(key, { 
+          filePath: relativePath, 
+          japanese, 
+          english,
+          lineNum: entry.lineNum,
+          type: 'entry'
+        });
         xmlEntries.push({
           key: key,
           value: escapeXml(english),
           japanese: japanese,
           metadata: {
             file: relativePath,
-            japanese: japanese
+            japanese: japanese,
+            lineNum: entry.lineNum,
+            type: 'entry'
           }
         });
       } else {
-        // Trường hợp cực kỳ hiếm: collision thực sự
-        console.warn(`Key collision detected: ${key} for ${relativePath}`);
+        // Lưu dòng trống và comment vào mapping (không vào XML)
+        const key = `${relativePath}::LINE${entry.lineNum}`;
+        keyMap.set(key, {
+          filePath: relativePath,
+          lineNum: entry.lineNum,
+          type: entry.type,
+          original: entry.original
+        });
       }
     });
   });
@@ -139,14 +180,46 @@ function mergeTextToXml() {
   fs.writeFileSync(outputFile, xml, 'utf8');
   console.log(`Đã tạo file: ${outputFile}`);
   
-  // Tạo file mapping để tra cứu
+  // Tạo file mapping để tra cứu (bao gồm cả empty lines và comments)
   const mappingFile = './key_mapping.json';
   const mapping = {};
+  
+  // Thêm entries từ XML
   xmlEntries.forEach(entry => {
     mapping[entry.key] = entry.metadata;
   });
+  
+  // Thêm empty lines và comments từ keyMap
+  keyMap.forEach((value, key) => {
+    if (value.type === 'empty' || value.type === 'comment') {
+      mapping[key] = value;
+    }
+  });
+  
   fs.writeFileSync(mappingFile, JSON.stringify(mapping, null, 2), 'utf8');
   console.log(`Đã tạo file mapping: ${mappingFile}`);
+  
+  // Lưu template files (toàn bộ cấu trúc gốc)
+  const templateDir = './Text_Templates';
+  if (!fs.existsSync(templateDir)) {
+    fs.mkdirSync(templateDir, { recursive: true });
+  }
+  
+  console.log('\nĐang lưu template files...');
+  textFiles.forEach(filePath => {
+    const relativePath = path.relative(textDir, filePath);
+    const templatePath = path.join(templateDir, relativePath);
+    const templateDirPath = path.dirname(templatePath);
+    
+    if (!fs.existsSync(templateDirPath)) {
+      fs.mkdirSync(templateDirPath, { recursive: true });
+    }
+    
+    // Copy file gốc
+    fs.copyFileSync(filePath, templatePath);
+  });
+  
+  console.log(`Đã lưu ${textFiles.length} template files vào: ${templateDir}`);
 }
 
 // Chạy script
