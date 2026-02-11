@@ -1,50 +1,50 @@
-  <Text Key="B7256D84">Lô đất này hiện tại không bị ám. Trong &lt;b&gt;Chế độ Xây dựng&lt;/b&gt;, đặt &lt;b&gt;Loại Lô đất thành Nhà ám dân cư&lt;/b&gt; để bắt đầu cuộc phiêu lưu Nhà ám!</Text>
-  <Text Key="3BFE7A84">Hoàn thành Khát vọng Thử thách Tích cực để nhận phần thưởng.</Text>
-  <Text Key="B97692B7">Đào tạo này đã trở nên quá đơn giản đối với trình độ kỹ năng của {1.SimName}.</Text>
-  <Text Key="AED4A688">{1.SimFirstName} gần đây đã được đào tạo.</Text>
-  <Text Key="E42AB8F1">{1.SimFirstName} đã đẩy kỹ năng {M1.của mình}{F1.của mình} lên tối đa.</Text>
-  <Text Key="194C560C">{1.ObjectName} đang được sử dụng.</Text>
-  <Text Key="29D7B4E7">Phải tháo Bộ đồ ExoMech để thay trang phục</Text>
-  <Text Key="2C0C23F0">{0.SimFirstName} cảm thấy quá tội lỗi về sự phản bội {0.SimPronounPossessiveDependent} và muốn thú nhận trước.</Text>
-  <Text Key="A1A5E66C">Thú bông không có nhà.</Text>
-  <Text Key="7A53098D">Bạn không thể làm điều này trong nước.</Text>
-  <Text Key="DA0B24CD">{0.SimFirstName} quá xa.</Text>
-  <Text Key="7854CE53">{0.SimFirstName} không thể làm điều này trong khi {1.SimFirstName} đang ở nước sâu!</Text>
-  <Text Key="CC9B7E2B">{0.SimFirstName} không thể làm điều này khi đang ở nước sâu!</Text>
-  <Text Key="BACCA3C0">Bạn không thể làm điều này khi Nhà máy Bánh cupcake đang được sử dụng.</Text>
-  <Text Key="9D92F0D7">{0.SimFirstName} cần học cách đạp xe đạp trước!</Text>
-  <Text Key="B431FBD3">Trẻ sơ sinh Thiên thần chỉ có thể Nổi cáu nếu chúng rất tức giận.</Text>
-  <Text Key="B36A6F93">Việc biến đổi chỗ ngồi là trái với quy tắc ẩm thực nhà hàng.</Text>
-  <Text Key="CB0CBA91">Điều này cần nước nóng. Kiểm tra Bình nước nóng của bạn để đảm bảo nó hoạt động bình thường.</Text>
-  <Text Key="919B1150">Với tư cách là một Sim Không thích tán tỉnh, {0.SimFirstName} quá Khó chịu để làm điều này!</Text>
-  <Text Key="BD997B99">Thôi đi! Cố gắng đừng quá háo hức ở nơi công cộng. Bạn không bao giờ biết ai đang xem.</Text>
-  <Text Key="491CCC77">Với tư cách là một Sim Không thích tán tỉnh, {0.SimFirstName} quá Xấu hổ để làm điều này!</Text>
-  <Text Key="DD40C1BF">{0.SimFirstName} không thể đi du lịch vì đang có Sự kiện Xã hội diễn ra.</Text>
-  <Text Key="FA1D63B4">{0.SimFirstName} không thể đi du lịch vì {M0.anh ấy}{F0.cô ấy} đang làm việc.</Text>
-  <Text Key="894E151E">{0.SimFirstName} không thể đi du lịch vì {M0.anh ấy}{F0.cô ấy} đang chuyển dạ!</Text>
-  <Text Key="62F3F8AF">Chỉ có thể kết hôn với Ma trong hộ gia đình của bạn</Text>
-  <Text Key="DC08A504">{0.SimFirstName} biết rằng sở thích {M0.của mình}{F0.của mình} không khớp.</Text>
-  <Text Key="50E845F8">{0.SimFirstName} biết rằng {1.SimFirstName} không quan tâm đến việc WooHoo với {M0.anh ấy}{F0.cô ấy}.</Text>
-  <Text Key="8D13CD20">Hoặc là {0.SimFirstName} biết rằng {1.SimFirstName} không có hứng thú lãng mạn với {0.SimPronounObjective}, hoặc {1.SimFirstName} gần đây đã trở nên Thật và cần thời gian để tìm hiểu sở thích {1.SimPronounPossessiveDependent}.</Text>
-  <Text Key="6BEF6620">{0.SimFirstName} biết rằng {1.SimFirstName} không có hứng thú lãng mạn với {M0.anh ấy}{F0.cô ấy}.</Text>
-  <Text Key="80D85D61">Không thể mời đến Lô đất này một khi Sim của bạn đã được ngồi ở bàn.</Text>
-  <Text Key="5695567E">Bạn không thể thay đổi trang phục của mình một khi đã được ngồi ở bàn.</Text>
-  <Text Key="CA353396">Điều này chỉ có thể được thực hiện ở các địa điểm không phải là nơi ở.</Text>
-  <Text Key="24EB18B4">Chỉ một người thực sự cuồng sạch sẽ mới cố gắng lau vũng nước trên mặt đất tự nhiên.</Text>
-  <Text Key="FA4E18BD">{0.SimFirstName} không thể làm điều này trong khi {1.SimFirstName} đang mang thai.</Text>
-  <Text Key="598E3F9C">{0.SimFirstName} không thể làm điều này với Sim được chọn vì họ đang mang thai.</Text>
-  <Text Key="5767E49E">Đào tạo này quá nâng cao đối với trình độ kỹ năng của {1.SimName}.</Text>
-  <Text Key="69B78448">Sim đang làm việc!</Text>
-  <Text Key="0E683F4D">Sim đang làm việc!</Text>
-  <Text Key="420CFE5A">Sim đang làm việc!</Text>
-  <Text Key="585D3E57">{1.SimFirstName} hiện đang là một Nàng tiên cá.</Text>
-  <Text Key="DB767092">{1.SimFirstName} hiện đang biến thành Ma cà rồng.</Text>
-  <Text Key="10D73C64">{1.SimFirstName} hiện đang là một Người cây.</Text>
-  <Text Key="3E9CEE4A">{1.SimFirstName} hiện đang là một Tiên.</Text>
-  <Text Key="27DE2008">{1.SimFirstName} đang biến thành Tiên.</Text>
-  <Text Key="C071E240">{1.SimFirstName} hiện đang là một Người sói.</Text>
-  <Text Key="F45E4455">{1.SimFirstName} hiện đang biến thành Nàng tiên cá.</Text>
-  <Text Key="5BEACAC8">{1.SimFirstName} là một Robot.</Text>
-  <Text Key="5E5B482A">{1.SimFirstName} hiện đang biến thành Người sói.</Text>
-  <Text Key="F84B213F">{0.SimFirstName} hiện đang là một Nàng tiên cá.</Text>
-  <Text Key="5AD9BE4A">{0.SimFirstName} hiện đang biến thành Ma cà rồng.</Text>
+  <Text Key="76CB66E2">Ối! Mùi thối rữa đó có thể là gì? {0.SimFirstName} không thể thoát khỏi mùi tanh tanh trong không khí. Có thể nó đến từ Sim đó chăng?</Text>
+  <Text Key="61045649">&lt;font color='#510061'&gt;Máu nhỏ giọt&lt;/font&gt;</Text>
+  <Text Key="46BA1646">Ôi trời, máu dường như đang tích tụ ở vùng háng của {0.SimFirstName}, làm bẩn quần áo của {M0.his}{F0.her}. {M0.He}{F0.She} nên nhanh chóng sử dụng tampon hoặc băng vệ sinh. Nếu {0.SimFirstName} chưa có sẵn, có lẽ {0.SimFirstName} có thể nhờ giúp đỡ.</Text>
+  <Text Key="E2711462">&lt;font color='#510061'&gt;Đẫm máu&lt;/font&gt;</Text>
+  <Text Key="622D0162">Ồ không, thảm họa! {0.SimFirstName} đã không sử dụng băng vệ sinh hay tampon khi {M0.he}{F0.she} cần và giờ máu đã làm bẩn quần áo của {M0.his}{F0.her}. Đây là một tình huống tồi tệ, hy vọng ai đó gần đó có thể giúp nếu {0.SimFirstName} chưa có gì trên tay.</Text>
+  <Text Key="3F49C256">&lt;font color='#510061'&gt;Nhuộm đẫm máu&lt;/font&gt;</Text>
+  <Text Key="4215F985">MÁU! MÁU KHẮP NƠI! Quần áo của {0.SimFirstName} trông như nạn nhân trong phim kinh dị và {M0.he}{F0.she} cần gấp một chiếc băng vệ sinh hoặc tampon ngay lập tức trước khi tình hình tệ hơn nữa. Nhanh lên! Nếu không có vật bảo vệ nào trên tay, có lẽ Sim khác có thể giúp.</Text>
+  <Text Key="ED1D3890">&lt;font color='#510061'&gt;Băng vệ sinh rò rỉ&lt;/font&gt;</Text>
+  <Text Key="D4A4582C">Có cảm giác nhẹ nhàng chảy dọc theo chân của {0.SimFirstName}. Có vẻ như băng vệ sinh của {M0.his}{F0.her} đã hoàn thành nhiệm vụ nhưng cuối cùng chỉ có thể hút được một chút. {0.SimFirstName} nên xử lý điều này bằng cách thay thế ngay lập tức, để lại trong tình trạng như vậy sẽ không vệ sinh.</Text>
+  <Text Key="125F14DD">&lt;font color='#510061'&gt;Băng vệ sinh vỡ&lt;/font&gt;</Text>
+  <Text Key="F7747F84">Băng vệ sinh đã hoàn thành nhiệm vụ nhưng nó chỉ có thể hút được một chút! Sự chảy máu tiếp theo giờ đã phá hủy quần áo của {0.SimFirstName}. Máu đã chảy dọc theo chân của {M0.his}{F0.her} để lại những vết bẩn rõ rệt trên vải. Đây là một trạng thái đáng thương, {0.SimFirstName} nên sử dụng một cái thay thế.</Text>
+  <Text Key="64BAA19B">&lt;font color='#510061'&gt;Băng vệ sinh ngập&lt;/font&gt;</Text>
+  <Text Key="4479E57E">Băng vệ sinh đã cố gắng hết sức nhưng trước dòng máu nặng như vậy, nó không có cơ hội. Máu đã thấm qua cotton và chảy dọc theo chân của {0.SimFirstName}, phá hủy quần áo của {M0.his}{F0.her} càng lâu nó còn lại đó. Chắc chắn không còn sử dụng được chiếc băng vệ sinh này nữa, cần tìm một cái thay thế ngay lập tức!</Text>
+  <Text Key="9CBE332C">&lt;font color='#510061'&gt;Tampon rò rỉ&lt;/font&gt;</Text>
+  <Text Key="DE5A1F3C">Có cảm giác nhẹ nhàng chảy dọc theo chân của {0.SimFirstName}. Có vẻ như tampon của {M0.his}{F0.her} đã hoàn thành nhiệm vụ nhưng cuối cùng chỉ có thể hút được một chút. {0.SimFirstName} nên xử lý điều này bằng cách thay thế ngay lập tức, để lại trong tình trạng như vậy sẽ không vệ sinh.</Text>
+  <Text Key="C5511B6F">&lt;font color='#510061'&gt;Tampon vỡ&lt;/font&gt;</Text>
+  <Text Key="45B7C948">Tampon đã hoàn thành nhiệm vụ nhưng nó chỉ có thể hút được một chút! Sự chảy máu tiếp theo giờ đã phá hủy quần áo của {0.SimFirstName}. Máu đã chảy dọc theo chân của {M0.his}{F0.her} để lại những vết bẩn rõ rệt trên vải. Đây là một trạng thái đáng thương, {0.SimFirstName} nên sử dụng một cái thay thế.</Text>
+  <Text Key="B80F2EF1">&lt;font color='#510061'&gt;Tampon ngập&lt;/font&gt;</Text>
+  <Text Key="B289992C">Tampon đã cố gắng hết sức nhưng trước dòng máu nặng như vậy, nó không có cơ hội. Máu đã thấm qua cotton và chảy dọc theo chân của {0.SimFirstName}, phá hủy quần áo của {M0.his}{F0.her} càng lâu nó còn lại đó. Chắc chắn không còn sử dụng được chiếc tampon này nữa, cần tìm một cái thay thế ngay lập tức!</Text>
+  <Text Key="7ADBF8FE">(Từ Hội chứng Tiền kinh nguyệt)</Text>
+  <Text Key="89B249B4">(Từ việc đang có kinh nguyệt)</Text>
+  <Text Key="ECDF94FA">&lt;font color='#510061'&gt;Không còn Thay đổi Tâm trạng&lt;/font&gt;</Text>
+  <Text Key="692AC5B7">Các thay đổi tâm trạng kinh nguyệt của {0.SimFirstName} đã bị ức chế một cách kỳ diệu nhờ các chất mà {M0.he}{F0.she} đã sử dụng.</Text>
+  <Text Key="3E4F78BF">&lt;font color='#510061'&gt;Buồn nôn&lt;/font&gt;</Text>
+  <Text Key="00BFB768">{0.SimFirstName} không thể thoát khỏi cảm giác buồn nôn xuyên qua tâm trí và bụng của {M0.his}{F0.her}. Giống như đang ở trên một chiếc thuyền nhỏ giữa làn nước gợn sóng. {0.SimFirstName} không có năng lượng để làm bất cứ điều gì và hoàn toàn không có cảm giác thèm ăn.</Text>
+  <Text Key="E7491E06">&lt;font color='#510061'&gt;Bực bội&lt;/font&gt;</Text>
+  <Text Key="6779605D">Ngay bây giờ không phải là thời điểm tốt cho bất kỳ Sim nào để làm phiền {0.SimFirstName}. Căng thẳng mà chu kỳ kinh nguyệt của {M0.his}{F0.her} có thể gây ra khiến cả thế giới trở nên khó chịu hơn. Bất kỳ Sim nào can thiệp tốt nhất nên cẩn thận vì {M0.he}{F0.she} đang thấy đỏ!</Text>
+  <Text Key="CBF31437">&lt;font color='#510061'&gt;Chóng mặt&lt;/font&gt;</Text>
+  <Text Key="19524941">Một điều gì đó không cảm thấy đúng. Có thể là tác dụng phụ từ chu kỳ hàng tháng của {M0.his}{F0.her} nhưng {0.SimFirstName} không thể thoát khỏi cảm giác chóng mặt rằng thế giới xung quanh {0.SimPronounObjective} đang xoay vặn không kiểm soát.</Text>
+  <Text Key="6E5DEF06">&lt;font color='#510061'&gt;Quá nhạy cảm&lt;/font&gt;</Text>
+  <Text Key="FD4F6F3D">Có vẻ như không ai hiểu hoặc quan tâm đến điều {0.SimFirstName} đang trải qua ngay bây giờ. Hiện tại, {M0.he}{F0.she} dường như không thể giữ được cảm xúc của {M0.his}{F0.her}. Tác động của việc có một chu kỳ hàng tháng đã để lại {0.SimPronounObjective} trong tình trạng hoàn toàn tan nát.</Text>
+  <Text Key="D61738A5">&lt;font color='#510061'&gt;Đau bụng&lt;/font&gt;</Text>
+  <Text Key="F3413535">{0.SimFirstName} đang có một cảm giác đau đớn phát ra từ cơ thể của {M0.his}{F0.her} mà {M0.he}{F0.she} không thể bỏ qua. Cảm giác đau nhức này xảy ra trong chu kỳ của một người chưa bao giờ là trải nghiệm thú vị nhưng lần này đặc biệt khó khăn. Hy vọng sự đau khổ này sẽ giảm bớt.</Text>
+  <Text Key="12883293">&lt;font color='#510061'&gt;Lo lắng&lt;/font&gt;</Text>
+  <Text Key="C41140D2">{0.SimFirstName} hiện đang căng thẳng và dường như không thể tập trung. {M0.He}{F0.She} gặp khó khăn trong việc giữ mình bất động và đang căng thẳng {0.SimPronounReflexive} về những điều nhỏ nhặt. Có một tử cung không vui vẻ khi bạn phải trải qua điều này.</Text>
+  <Text Key="F0146EFF">&lt;font color='#510061'&gt;Kích thích&lt;/font&gt;</Text>
+  <Text Key="3EB28A36">{0.SimFirstName} thực sự đang có tâm trạng để hành động. {M0.He}{F0.She} dường như có một khao khát đột ngột để quan hệ tình dục. Có thể là do máu đang được bơm nhưng {M0.he}{F0.she} đang cảm thấy đặc biệt kích thích ngay bây giờ.</Text>
+  <Text Key="A5C21AAF">&lt;font color='#510061'&gt;Rụng trứng&lt;/font&gt;</Text>
+  <Text Key="EB6D4E87">Đó là ngày trong chu kỳ! {0.SimFirstName} đang rụng trứng!</Text>
+  <Text Key="BC451E50">Khả năng Hút thêm</Text>
+  <Text Key="C7F4881D">Khả năng Hút thêm</Text>
+  <Text Key="1216D5ED">Các Sim có Khả năng Hút thêm sẽ không phải thay tampon và băng vệ sinh thường xuyên.</Text>
+  <Text Key="53E48ECE">Băng vệ sinh kinh nguyệt</Text>
+  <Text Key="39E3BD54">{0.SimFirstName} đã sử dụng băng vệ sinh kinh nguyệt.</Text>
+  <Text Key="0133EBD6">{0.SimFirstName} đã thay thế băng vệ sinh kinh nguyệt của {0.SimPronounPossessiveDependent}.</Text>
+  <Text Key="2BF3FB6F">Tampon</Text>
+  <Text Key="9FA07323">{0.SimFirstName} đã sử dụng tampon.</Text>
+  <Text Key="2898CBE5">{0.SimFirstName} đã thay thế tampon của {0.SimPronounPossessiveDependent}.</Text>
+  <Text Key="8A607CE7">{0.SimFirstName} sắp có kinh nguyệt. Tốt nhất nên chuẩn bị và mua Tampon và Băng vệ sinh để bảo vệ {0.SimPronounObjective} khỏi máu kinh nguyệt rò rỉ. Hoặc bắt đầu sử dụng Thuốc tránh thai để ngăn ngừa Chu kỳ Kinh nguyệt tự nhiên.  Tampon, Băng vệ sinh, và Thuốc tránh thai có thể được đặt hàng từ máy tính.</Text>
+  <Text Key="E44EA775">{0.SimFirstName} sắp có kỳ kinh nguyệt đầu tiên. Tốt nhất nên chuẩn bị và mua Tampon và Băng vệ sinh để bảo vệ {0.SimPronounObjective} khỏi máu kinh nguyệt rò rỉ. Hoặc bắt đầu sử dụng Thuốc tránh thai để ngăn ngừa Chu kỳ Kinh nguyệt tự nhiên.  Tampon, Băng vệ sinh, và Thuốc tránh thai có thể được đặt hàng từ máy tính.</Text>

@@ -1,50 +1,50 @@
-  <Text Key="720D4B08">Suỵt! Hãy đến thư viện nơi chúng ta sẽ gặp mặt.</Text>
-  <Text Key="D76C8D00">Chúng tôi muốn gặp bạn ở thư viện. Hãy đến và đúng giờ.</Text>
-  <Text Key="8962ACBE">Quán Karaoke</Text>
-  <Text Key="634613C3">Đồi Cây Xanh</Text>
-  <Text Key="4C50D623">Đồi Cây Xanh</Text>
-  <Text Key="35257EE9">Hang Đã Quên</Text>
-  <Text Key="C3825F21">Hang Đã Quên</Text>
-  <Text Key="4B3F1381">Phòng tập gym địa phương là nơi bạn đến để khỏe mạnh, trở nên mạnh mẽ và hấp dẫn hơn.</Text>
-  <Text Key="F17D47B0">Phòng tập gym - Chưa hoàn thành</Text>
-  <Text Key="B29479C9">Phòng tập gym</Text>
-  <Text Key="63E4F257">Ghé thăm phòng tập gym...</Text>
-  <Text Key="057168B2">Ghé thăm phòng tập gym</Text>
-  <Text Key="982E98CC">Hãy tham gia cùng chúng tôi để tập luyện một chút.</Text>
-  <Text Key="76AA76CF">Đã đến lúc tập luyện cùng chúng tôi.</Text>
-  <Text Key="A6E073B8">Chúng tôi muốn tập luyện cùng nhau.</Text>
-  <Text Key="6B7DB9D6">Thông thường</Text>
-  <Text Key="BF25B80F">Địa điểm này không thuộc loại nào và do đó không thể kích hoạt Sự kiện Xã hội.</Text>
-  <Text Key="690F2462">Thông thường - Chưa hoàn thành</Text>
-  <Text Key="2A5DA0B9">Ghé thăm nơi hoang vắng, bị lãng quên này...</Text>
-  <Text Key="0A078878">Ghé thăm nơi hoang vắng, bị lãng quên</Text>
-  <Text Key="776D8E51">Nướng hot dog và thưởng thức bữa dã ngoại gia đình trong rừng yên tĩnh.</Text>
-  <Text Key="9F8055C0">Công viên quốc gia - Chưa hoàn thành</Text>
-  <Text Key="6C9DF159">Công viên quốc gia</Text>
-  <Text Key="34C82C42">Bàn dã ngoại</Text>
-  <Text Key="051975A2">Bếp nướng</Text>
-  <Text Key="E5252CEE">Thùng rác</Text>
-  <Text Key="B3733987">Chợ</Text>
-  <Text Key="C6D028FD">Không gian sáng tạo</Text>
-  <Text Key="CBE992AC">Vườn cộng đồng</Text>
-  <Text Key="0B532F4C">Câu lạc bộ đêm là một nơi tuyệt vời để nhảy, thưởng thức âm nhạc và thưởng thức một ly đồ uống ngon.</Text>
-  <Text Key="DC51528D">Câu lạc bộ đêm - Chưa hoàn thành</Text>
-  <Text Key="A1871D2A">Câu lạc bộ đêm</Text>
-  <Text Key="1B643C3F">(Từ đặc điểm Dance Machine)</Text>
-  <Text Key="3AE30807">(Đặc điểm Môi trường Lạ và Khó xử trong Xã hội)</Text>
-  <Text Key="EB6605D8">Ghé thăm câu lạc bộ đêm...</Text>
-  <Text Key="3F323E77">Ghé thăm câu lạc bộ đêm</Text>
-  <Text Key="3F6F8D56">Dàn âm thanh</Text>
-  <Text Key="0B4F554F">Đã đến lúc chúng ta chiếm lĩnh câu lạc bộ.</Text>
-  <Text Key="6CA95D1D">Chúng ta sẽ bắt đầu bữa tiệc!</Text>
-  <Text Key="C4F5260B">Bạn nên ra ngoài tối nay! Chúng tôi sẽ là linh hồn của bữa tiệc ở câu lạc bộ.</Text>
-  <Text Key="90366C51">Quán cà phê</Text>
-  <Text Key="B86CCE1D">Bãi biển là một nơi tuyệt vời để thư giãn bên nước. Dù bạn thích tắm nắng, xây lâu đài cát hay tận hưởng nước ấm, ở đây có điều gì đó cho gần như mọi người.</Text>
-  <Text Key="4ED71F15">Bãi biển</Text>
-  <Text Key="7E2DE251">Ghế nổi</Text>
-  <Text Key="A44C0DFB">Ghế dài</Text>
-  <Text Key="9294FAB2">Phương tiện trên nước</Text>
-  <Text Key="246E1E2F">Quán bar là một nơi tuyệt vời để thư giãn cuối ngày và gặp gỡ vài người bạn (hoặc làm quen người mới).</Text>
-  <Text Key="D4036742">Quán bar - Chưa hoàn thành</Text>
-  <Text Key="13EE9D99">Ghé thăm quán bar...</Text>
-  <Text Key="C4C16A98">Ghé thăm quán bar</Text>
+  <Text Key="EDE001FE">Danh mục Hậu môn</Text>
+  <Text Key="E3BCE870">Danh mục Cực khoái</Text>
+  <Text Key="799635E7">Hoạt ảnh tình dục</Text>
+  <Text Key="53FBD5C7">Chọn hoạt ảnh tình dục để chạy.</Text>
+  <Text Key="8933D1B4">Danh mục tình dục</Text>
+  <Text Key="58E99F90">Ngữ cảnh tình dục</Text>
+  <Text Key="1BB9A6D3">Đổi chỗ của {0.SimFirstName}</Text>
+  <Text Key="F7507D17">Chọn một Sim để đổi chỗ với {0.SimFirstName}.</Text>
+  <Text Key="1B7580BD">Chọn bạn tình cho hoạt động tình dục hoặc chính mình cho đơn thân.</Text>
+  <Text Key="2C915A14">Chọn bạn tình để mời cho hoạt động tình dục nhóm.</Text>
+  <Text Key="281247E5">Chọn NPC Sim để quan hệ tình dục.</Text>
+  <Text Key="F5CA46E7">Sức bền tình dục</Text>
+  <Text Key="AB6920E2">Sim thường không thể kéo dài mãi mãi và sẽ dừng quan hệ tình dục khi sức bền tình dục của họ cạn kiệt.</Text>
+  <Text Key="92C0C143">Không thể Chuẩn bị Hoạt ảnh!</Text>
+  <Text Key="F8B804AA">Không thể Chuẩn bị Sim!</Text>
+  <Text Key="DE6BEC2F">Không thể Chuẩn bị Vị trí!</Text>
+  <Text Key="3BB333DE">Không thể Chuẩn bị Sim hoặc Vị trí!</Text>
+  <Text Key="F565B8BF">Không thể Chuẩn bị Sim, Vị trí hoặc Hoạt ảnh!</Text>
+  <Text Key="78428CF8">Với các tiêu chí đã cung cấp của các Sim tham gia và vị trí/đối tượng đã chọn, không tìm thấy hoạt ảnh tình dục phù hợp.\n\n&lt;b&gt;Mã thông báo: 11&lt;/b&gt;\n{0.String}</Text>
+  <Text Key="4E1441C7">Với các tiêu chí đã cung cấp của các Sim tham gia mới, vị trí/đối tượng đã chọn và danh mục/ngữ cảnh tình dục đã chọn, không tìm thấy hoạt ảnh tình dục phù hợp.\n\n&lt;b&gt;Mã thông báo: 12&lt;/b&gt;\n{0.String}</Text>
+  <Text Key="B32D4298">Với các tiêu chí đã cung cấp của các Sim tham gia mới, vị trí/đối tượng đã chọn và danh mục/ngữ cảnh tình dục đã chọn, không tìm thấy hoạt ảnh tình dục phù hợp.\n\n&lt;b&gt;Mã thông báo: 13&lt;/b&gt;\n{0.String}</Text>
+  <Text Key="D8466AB7">Với các tiêu chí đã cung cấp của các Sim tham gia mới và vị trí/đối tượng đã chọn, không tìm thấy hoạt ảnh tình dục ngẫu nhiên phù hợp.\n\n&lt;b&gt;Mã thông báo: 14&lt;/b&gt;\n{0.String}</Text>
+  <Text Key="56EA36C2">Với các tiêu chí đã cung cấp của vị trí/đối tượng đã chọn và danh mục/ngữ cảnh tình dục đã chọn, không tìm thấy hoạt ảnh tình dục phù hợp.\n\n&lt;b&gt;Mã thông báo: 15&lt;/b&gt;\n{0.String}</Text>
+  <Text Key="43BCBD6C">Với các tiêu chí đã cung cấp của các Sim tham gia và vị trí/đối tượng đã chọn, không tìm thấy hoạt ảnh tình dục ngẫu nhiên phù hợp.\n\n&lt;b&gt;Mã thông báo: 16&lt;/b&gt;\n{0.String}</Text>
+  <Text Key="517820C1">Với các tiêu chí đã cung cấp của các Sim tham gia, vị trí/đối tượng đã chọn và danh mục/ngữ cảnh tình dục đã chọn, không tìm thấy hoạt ảnh tình dục phù hợp.\n\n&lt;b&gt;Mã thông báo: 17&lt;/b&gt;\n{0.String}</Text>
+  <Text Key="C32BCA7D">Với các tiêu chí đã cung cấp của các Sim tham gia và Hoạt ảnh tình dục, không tìm thấy Sim phù hợp để thực hiện việc đổi chỗ.\n\n&lt;b&gt;Mã thông báo: 18&lt;/b&gt;\n{0.String}</Text>
+  <Text Key="1C4CF0A2">Với các tiêu chí đã cung cấp của vị trí/đối tượng đã chọn, các Sim tham gia, Hạn chế Tuổi tác và Cài đặt Giới tính, không tìm thấy Sim phù hợp ở gần đó.\n\n&lt;b&gt;Mã thông báo: 19&lt;/b&gt;\n{0.String}</Text>
+  <Text Key="64A9FF4C">Ồ, điều đó thú vị...</Text>
+  <Text Key="E1C97186">&lt;b&gt;Có {S1.is}{P1.are} {1.Number} Sim {P1.s} khả dụng gần {0.SimName}, nhưng không ai trong số họ có khả năng thực hiện {2.String} quan hệ tình dục.&lt;/b&gt;\nĐiều này có thể do thiếu hoạt ảnh phù hợp cho đối tượng '{5.String}' ({6.String}) hoặc vì giới tính/tuổi tác của các Sim gần đó không phù hợp.\n\n&lt;font size="11"&gt;&lt;i&gt;Các Sim có thể không &lt;u&gt;khả dụng&lt;/u&gt; do đang quan hệ tình dục, ngủ, rời khỏi khu vực, hoặc đặc biệt bận rộn.&lt;/i&gt;&lt;/font&gt;\n\n&lt;font size="8"&gt;Mã thông báo: {10.Number}\nNhiệm vụ: {11.String}&lt;/font&gt;</Text>
+  <Text Key="1AE7AF56">&lt;b&gt;Có {S1.is}{P1.are} {1.Number} Sim {P1.s} khả dụng gần {0.SimName}, việc thực hiện {2.String} quan hệ tình dục là không thể.&lt;/b&gt;\n\n&lt;font size="11"&gt;&lt;i&gt;Nếu có bất kỳ Sim nào gần đó, họ không được coi là lựa chọn phù hợp cho một tương tác tình dục.&lt;/i&gt;&lt;/font&gt;\n\n&lt;font size="8"&gt;Mã thông báo: {10.Number}\nNhiệm vụ: {11.String}&lt;/font&gt;</Text>
+  <Text Key="C4F3794E">&lt;b&gt;Có {S1.is}{P1.are} {1.Number} NPC Sim {P1.s} gần '{5.String}' ({6.String}), nhưng không ai trong số họ có khả năng thực hiện {2.String} quan hệ tình dục.&lt;/b&gt;\nĐiều này có thể do thiếu hoạt ảnh phù hợp cho đối tượng '{5.String}' ({6.String}) hoặc vì giới tính/tuổi tác của các NPC Sim gần đó không phù hợp.\n\n&lt;font size="11"&gt;&lt;i&gt;Các NPC Sim có thể không &lt;u&gt;khả dụng&lt;/u&gt; do đang quan hệ tình dục, ngủ, rời khỏi khu vực, hoặc đặc biệt bận rộn.&lt;/i&gt;&lt;/font&gt;\n\n&lt;font size="8"&gt;Mã thông báo: {10.Number}\nNhiệm vụ: {11.String}&lt;/font&gt;</Text>
+  <Text Key="00D05924">&lt;b&gt;Có {S1.is}{P1.are} {1.Number} NPC Sim {P1.s} gần '{5.String}' ({6.String}), việc thực hiện {2.String} quan hệ tình dục là không thể.&lt;/b&gt;\n\n&lt;font size="11"&gt;&lt;i&gt;Nếu có bất kỳ NPC Sim nào gần đó, họ không được coi là lựa chọn phù hợp cho một tương tác tình dục.&lt;/i&gt;&lt;/font&gt;\n\n&lt;font size="8"&gt;Mã thông báo: {10.Number}\nNhiệm vụ: {11.String}&lt;/font&gt;</Text>
+  <Text Key="CCDF5D59">&lt;b&gt;Có {S1.is}{P1.are} {1.Number} Sim {P1.s} gần '{5.String}' ({6.String}), nhưng không ai trong số họ có khả năng thực hiện {2.String} quan hệ tình dục nhóm.&lt;/b&gt;\nĐiều này có thể do thiếu hoạt ảnh phù hợp cho đối tượng '{5.String}' ({6.String}) hoặc vì giới tính/tuổi tác của các Sim gần đó không phù hợp trong một nhóm.\n\n&lt;font size="11"&gt;&lt;i&gt;Các Sim có thể không &lt;u&gt;khả dụng&lt;/u&gt; do đang quan hệ tình dục, ngủ, rời khỏi khu vực, hoặc đặc biệt bận rộn.&lt;/i&gt;&lt;/font&gt;\n\n&lt;font size="8"&gt;Mã thông báo: {10.Number}\nNhiệm vụ: {11.String}&lt;/font&gt;</Text>
+  <Text Key="FC358CBA">&lt;b&gt;Có {S1.is}{P1.are} {1.Number} Sim {P1.s} gần '{5.String}' ({6.String}), việc thực hiện {2.String} quan hệ tình dục nhóm là không thể.&lt;/b&gt;\n\n&lt;font size="11"&gt;&lt;i&gt;Nếu có bất kỳ Sim nào gần đó, họ không được coi là lựa chọn phù hợp cho một tương tác tình dục nhóm.&lt;/i&gt;&lt;/font&gt;\n\n&lt;font size="8"&gt;Mã thông báo: {10.Number}\nNhiệm vụ: {11.String}&lt;/font&gt;</Text>
+  <Text Key="9A992D3C">&lt;b&gt;Có {S1.is}{P1.are} {1.Number} NPC Sim {P1.s} gần '{5.String}' ({6.String}), nhưng không ai trong số họ có khả năng thực hiện {2.String} quan hệ tình dục nhóm.&lt;/b&gt;\nĐiều này có thể do thiếu hoạt ảnh phù hợp cho đối tượng '{5.String}' ({6.String}) hoặc vì giới tính/tuổi tác của các NPC Sim gần đó không phù hợp trong một nhóm.\n\n&lt;font size="11"&gt;&lt;i&gt;Các NPC Sim có thể không &lt;u&gt;khả dụng&lt;/u&gt; do đang quan hệ tình dục, ngủ, rời khỏi khu vực, hoặc đặc biệt bận rộn.&lt;/i&gt;&lt;/font&gt;\n\n&lt;font size="8"&gt;Mã thông báo: {10.Number}\nNhiệm vụ: {11.String}&lt;/font&gt;</Text>
+  <Text Key="F0624EDE">&lt;b&gt;Có {S1.is}{P1.are} {1.Number} NPC Sim {P1.s} gần '{5.String}' ({6.String}), việc thực hiện {2.String} quan hệ tình dục nhóm là không thể.&lt;/b&gt;\n\n&lt;font size="11"&gt;&lt;i&gt;Nếu có bất kỳ NPC Sim nào gần đó, họ không được coi là lựa chọn phù hợp cho một tương tác tình dục nhóm.&lt;/i&gt;&lt;/font&gt;\n\n&lt;font size="8"&gt;Mã thông báo: {10.Number}\nNhiệm vụ: {11.String}&lt;/font&gt;</Text>
+  <Text Key="5D6497C7">Muốn thêm Hoạt ảnh tình dục?</Text>
+  <Text Key="EE78F04A">Có vẻ như bạn chưa cài đặt bất kỳ Hoạt ảnh tình dục bổ sung nào!</Text>
+  <Text Key="37058861">Có vẻ như bạn chưa cài đặt bất kỳ Hoạt ảnh tình dục bổ sung nào!\n\n&lt;b&gt;Hiện tại bạn chỉ có một vài hoạt ảnh xem trước để thử.&lt;/b&gt; Có hàng ngàn vị trí tình dục khác nhau để có được, hãy xem chúng!\n\nTruy cập trang &lt;b&gt;&lt;span class='link'&gt;&lt;a href='event:https://wickedwhimsmod.com/extra-download'&gt;WickedWhims Tải xuống Bổ sung&lt;/a&gt;&lt;/span&gt;&lt;/b&gt;.\n\n</Text>
+  <Text Key="EF5C3F23">Truy cập WickedWhims Tải xuống Bổ sung</Text>
+  <Text Key="B404E49E">Các Loại Sắp xếp Hoạt ảnh tình dục</Text>
+  <Text Key="C3E0E8E5">Loại Sắp xếp Hoạt ảnh</Text>
+  <Text Key="83A1ABC2">Chọn loại sắp xếp hoạt ảnh tình dục.\nLoại Sắp xếp Hiện tại: {0.String}</Text>
+  <Text Key="169AB3CE">Mặc định</Text>
+  <Text Key="5B631FA4">Sắp xếp hoạt ảnh theo thứ tự ban đầu của tác giả.</Text>
+  <Text Key="0E9C99AA">Vị trí</Text>
+  <Text Key="242321EF">Sắp xếp hoạt ảnh theo vị trí.</Text>
+  <Text Key="6FC205AF">Số lượng Người tham gia</Text>
+  <Text Key="0A146C86">Sắp xếp hoạt ảnh theo số lượng người tham gia.</Text>
+  <Text Key="58329FF1">Yêu thích</Text>

@@ -8,8 +8,8 @@ const PARALLEL_BATCHES = 10;
 const MAX_RETRIES = 999;
 const RETRY_DELAY = 2000;
 const PROGRESS_FILE = 'translation-progress.json';
-const INPUT_FILE = 'en/Strings_ENG_US/Strings_ENG_US.xml';
-const OUTPUT_FILE = 'vi/Strings_ENG_US/Strings_VIE_VI.xml';
+const INPUT_FILE = 'en/Strings_ENG_US/Strings_ENG_US_MOD.xml';
+const OUTPUT_FILE = 'vi/Strings_ENG_US/Strings_VIE_VI_MOD.xml';
 const TEMP_DIR = 'temp-batches';
 
 // Tạo thư mục temp

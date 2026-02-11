@@ -1,50 +1,50 @@
-  <Text Key="E1164D47">Câu hỏi chọc tức</Text>
-  <Text Key="94163A7A">Một Dáng vẻ Khỏe mạnh: 101 Công thức Dinh dưỡng</Text>
-  <Text Key="0A71209B">Đây là sách kỹ năng Nấu ăn.</Text>
-  <Text Key="37CA2E04">Trứng ẹp: Bữa sáng Không rườm rà</Text>
-  <Text Key="AE4593E8">Lấy Bánh - Và Ăn Nó Nữa</Text>
-  <Text Key="0A938925">...Và Một Điều Nữa!</Text>
-  <Text Key="8AFE0969">Những Trò đùa từ Punderground</Text>
-  <Text Key="7B8AAB36">Đây là một Tiểu phẩm Hài.</Text>
-  <Text Key="06DEB023">Một Câu chơi chữ Mỗi Ngày Giữ Bác sĩ Xa</Text>
-  <Text Key="74768F17">Hài hước Thiếu Trí tuệ</Text>
-  <Text Key="3684392F">Những Trò đùa Hàng ngày cho Người Cười Khó </Text>
-  <Text Key="526B80E0">Đây là sách kỹ năng Hài hước.</Text>
-  <Text Key="4D734473">Làm Chủ Nghệ thuật Sức Hút Cá nhân</Text>
-  <Text Key="3E019534">Làm Thế Nào Để Trở Thành Lãnh đạo Trong 12 Bước Dễ dàng</Text>
-  <Text Key="BADE3F0E">Những Lời Có Sức Mạnh</Text>
-  <Text Key="008265B7">Đây là sách kỹ năng Sức hút.</Text>
-  <Text Key="1D53BC56">Thả thính Vui vẻ và Lợi nhuận</Text>
-  <Text Key="716AB872">Potion Tò mò</Text>
-  <Text Key="247A3E78">Không Có Gì Tốt hơn Nước Nho</Text>
-  <Text Key="2740D0C4">Làm Chủ Thuốc độc</Text>
-  <Text Key="0BD65BF1">Đây là sách kỹ năng Pha chế.</Text>
-  <Text Key="8F3D97DF">{0.ObjectDescription}</Text>
-  <Text Key="BC11F07F">{1.String}\n{0.ObjectDescription}</Text>
-  <Text Key="EA4F04C3">Có thể Ấp: Không</Text>
-  <Text Key="615ED0E4">Có thể Ấp: Có</Text>
-  <Text Key="948787B0">Quá Nhiều Gà Trong Chuồng Này Để Ấp!</Text>
-  <Text Key="CCD8A2B2">&lt;span class="money"&gt;&lt;/span&gt;\n&lt;b&gt;Dùng cho:&lt;/b&gt; Pha chế Ma thuật</Text>
-  <Text Key="4E3F2ABE">&lt;span class="money"&gt;&lt;/span&gt;\n&lt;b&gt;Dùng cho:&lt;/b&gt; Thực phẩm</Text>
-  <Text Key="5B470457">&lt;span class="money"&gt;&lt;/span&gt;\n&lt;b&gt;Dùng cho:&lt;/b&gt; Thực phẩm</Text>
-  <Text Key="EDE4F523">&lt;span class="money"&gt;&lt;/span&gt;\n&lt;b&gt;Dùng cho:&lt;/b&gt; Thực phẩm</Text>
-  <Text Key="13549D92">&lt;span class="money"&gt;&lt;/span&gt;\n&lt;b&gt;Dùng cho:&lt;/b&gt; Thực phẩm&lt;/span&gt;</Text>
-  <Text Key="74AF67B7">&lt;span class="money"&gt;&lt;/span&gt;\n&lt;b&gt;Dùng cho:&lt;/b&gt; Thực phẩm</Text>
-  <Text Key="D50F449A">&lt;span class="money"&gt;&lt;/span&gt;\n&lt;b&gt;Dùng cho:&lt;/b&gt; Bón phân, Simoleons</Text>
-  <Text Key="0A113DF0">&lt;span class="money"&gt;&lt;/span&gt;\n&lt;b&gt;Dùng cho:&lt;/b&gt; Ăn và Biến thành Cây</Text>
-  <Text Key="71C5FEB2">&lt;span class="money"&gt;&lt;/span&gt;\n&lt;b&gt;Dùng cho:&lt;/b&gt; Sữa, Bánh</Text>
-  <Text Key="01DD19B6">&lt;span class="money"&gt;&lt;/span&gt;\n&lt;b&gt;Dùng cho:&lt;/b&gt; Simoleons</Text>
-  <Text Key="F598EDC4">&lt;span class="money"&gt;&lt;/span&gt;\n&lt;b&gt;Dùng cho:&lt;/b&gt; Thực phẩm\nGhép với Húng quế để lấy Húng quế tây</Text>
-  <Text Key="5C6D4C64">&lt;span class="money"&gt;&lt;/span&gt;\n&lt;b&gt;Dùng cho:&lt;/b&gt; Thực phẩm</Text>
-  <Text Key="98F135A9">&lt;span class="money"&gt;&lt;/span&gt;\n&lt;b&gt;Dùng cho:&lt;/b&gt; Thực phẩm\nGhép với Xô thơm để lấy Húng quế tây&lt;/span&gt;</Text>
-  <Text Key="AD299B1B">&lt;span class="money"&gt;&lt;/span&gt;\n&lt;b&gt;Dùng cho:&lt;/b&gt; Rác</Text>
-  <Text Key="C3F950E3">&lt;span class="money"&gt;&lt;/span&gt;\n&lt;b&gt;Dùng cho:&lt;/b&gt; Simoleons, Thực phẩm</Text>
-  <Text Key="901A4787">&lt;span class="money"&gt;&lt;/span&gt;\n&lt;b&gt;Dùng cho:&lt;/b&gt; Simoleons\nGhép với Phong lan để lấy Hoa tử thần</Text>
-  <Text Key="84D536C2">&lt;span class="money"&gt;&lt;/span&gt;\n&lt;b&gt;Dùng cho:&lt;/b&gt; Simoleons, Thực phẩm</Text>
-  <Text Key="8DB10309">&lt;span class="money"&gt;&lt;/span&gt;\n&lt;b&gt;Dùng cho:&lt;/b&gt; Simoleons, Thực phẩm\nGhép với Chanh để lấy Chuối tiêu</Text>
-  <Text Key="753E40F2">&lt;span class="money"&gt;&lt;/span&gt;\n&lt;b&gt;Dùng cho:&lt;/b&gt; Thực phẩm, Ghép cây\nGhép với Lê để lấy Chuối tiêu</Text>
-  <Text Key="D9BB7CF1">&lt;span class="money"&gt;&lt;/span&gt;\n&lt;b&gt;Dùng cho:&lt;/b&gt; Simoleons\nGhép với Hồng để lấy Mầm cây cảnh</Text>
-  <Text Key="7A9760D2">&lt;span class="money"&gt;&lt;/span&gt;\n&lt;b&gt;Dùng cho:&lt;/b&gt; Simoleons\nGhép với Hoa trà để lấy Mầm bò</Text>
-  <Text Key="9F376E8C">&lt;span class="money"&gt;&lt;/span&gt;\n&lt;b&gt;Dùng cho:&lt;/b&gt; Simoleons\nGhép với Táo để lấy Lựu</Text>
-  <Text Key="2BEEFD2C">&lt;span class="money"&gt;&lt;/span&gt;\n&lt;b&gt;Dùng cho:&lt;/b&gt; Simoleons, Thực phẩm</Text>
-  <Text Key="EF01E4B1">&lt;span class="money"&gt;&lt;/span&gt;\n&lt;b&gt;Dùng cho:&lt;/b&gt; Thực phẩm, Ghép cây\nGhép với Cherry để lấy Lựu</Text>
+  <Text Key="AE1BB032">Thuộc tính Mối quan hệ</Text>
+  <Text Key="71C828CC">Thuộc tính Khác</Text>
+  <Text Key="0EDF0CFF">Thuộc tính Ác</Text>
+  <Text Key="8E870A36">Thuộc tính Ác</Text>
+  <Text Key="58C75C19">Chọn một thuộc tính để trao cho {0.SimFirstName}.</Text>
+  <Text Key="3A902D79">Chọn một thuộc tính để lấy đi từ {0.SimFirstName}.</Text>
+  <Text Key="AC353D97">Bạn có muốn trao cho {0.SimFirstName} thuộc tính {1.String} không?</Text>
+  <Text Key="D7E18CBD">{0.SimFirstName} bây giờ có thuộc tính {1.String}.\n\n{2.String}</Text>
+  <Text Key="940BED3F">{0.SimFirstName} đã có thuộc tính này rồi.</Text>
+  <Text Key="BE342D85">Thuộc tính này xung đột với tính cách/thuộc tính {0.String}.</Text>
+  <Text Key="708BD356">Thuộc tính này không có sẵn cho {0.SimFirstName}.</Text>
+  <Text Key="2B6F9DDB">Bạn có muốn lấy đi thuộc tính {0.String} khỏi {1.SimFirstName} không?</Text>
+  <Text Key="8D97E8D0">{0.SimFirstName} không còn có thuộc tính {1.String} nữa.</Text>
+  <Text Key="528FD15C">Chọn các Sim để ngẫu nhiên hóa thuộc tính.</Text>
+  <Text Key="9C695D07">Chọn các thuộc tính để ngẫu nhiên hóa trên các Sim đã chọn.</Text>
+  <Text Key="A0FA05F6">Chọn các Sim để trao thuộc tính.</Text>
+  <Text Key="048AD98E">Chọn các thuộc tính để trao cho các Sim đã chọn.</Text>
+  <Text Key="B7D862EA">Chọn các thuộc tính để lấy đi từ các Sim đã chọn.</Text>
+  <Text Key="A28734C4">Không có Sim nào được chọn có Thuộc tính Ác được gán.</Text>
+  <Text Key="8DE97AE5">Đang ngẫu nhiên hóa {0.String} Thuộc tính Ác đã chọn trên {1.String} Sim đã chọn.</Text>
+  <Text Key="F58EC90F">Số lượng Thuộc tính Ác để phân phối cho mỗi Sim (1-{0.String})</Text>
+  <Text Key="3B28AC1D">Tỷ lệ phần trăm dân số Sim để phân phối Thuộc tính Ác (1-100%)\n(Ví dụ: 100% của {0.String} Sim = {0.String} Sim, 33% của {0.String} Sim = {1.String} Sim)</Text>
+  <Text Key="D9C267E5">Một hoặc nhiều giá trị nhập vào không phải là số.</Text>
+  <Text Key="3C95298F">Đang ngẫu nhiên hóa {0.String} Thuộc tính Ác đã chọn trên {1.String} Sim đã chọn.\n\n{2.String}\n\nKhoảng {3.String}% của các Sim đã chọn ({4.String}) sẽ nhận được {5.String} Thuộc tính Ác đã chọn{P5.s}.\n\nBạn có muốn ngẫu nhiên hóa?</Text>
+  <Text Key="BFC0D83A">Chọn loại Sim để phân phối Thuộc tính Ác.</Text>
+  <Text Key="05DF78FC">Tạo Nhóm Phân phối Sim</Text>
+  <Text Key="DA85CEC3">Chọn bất kỳ sự kết hợp nào của giới tính, bộ phận sinh dục, độ tuổi và bí ẩn của Sim để phân phối Thuộc tính Ác.</Text>
+  <Text Key="1F295240">Loại Sim Thuộc tính Ác</Text>
+  <Text Key="86D5FCE7">Chọn bất kỳ sự kết hợp nào của giới tính, bộ phận sinh dục, độ tuổi và bí ẩn.</Text>
+  <Text Key="E38F1B5C">Bao gồm Sim Nữ</Text>
+  <Text Key="9516375D">Bao gồm Sim Nam</Text>
+  <Text Key="3AFCE966">Bao gồm Sim Phi nhị giới</Text>
+  <Text Key="0726A893">Bao gồm Sim có Bộ phận sinh dục Nam</Text>
+  <Text Key="D6D921F0">Bao gồm Sim có Bộ phận sinh dục Nữ</Text>
+  <Text Key="4171AAB3">Bao gồm Sim Tuổi vị thành niên</Text>
+  <Text Key="CB103F57">Bao gồm Sim Tuổi thanh niên</Text>
+  <Text Key="1772E9EF">Bao gồm Sim Tuổi trưởng thành</Text>
+  <Text Key="E2D3A91B">Bao gồm Sim Tuổi cao tuổi</Text>
+  <Text Key="EB2E90BF">Bao gồm Sim Ngoài hành tinh Bí ẩn</Text>
+  <Text Key="A7E18D6C">Bao gồm Sim Ma cà rồng Bí ẩn</Text>
+  <Text Key="E50B40FB">Bao gồm Sim Người cá Bí ẩn</Text>
+  <Text Key="00BCAD78">Bao gồm Sim Pháp sư Bí ẩn</Text>
+  <Text Key="A91A2669">Bao gồm Sim Sói biến hình Bí ẩn</Text>
+  <Text Key="F2362EE5">Bao gồm Sim Servo Bí ẩn</Text>
+  <Text Key="F021B26F">Bao gồm Sim Ma Bí ẩn</Text>
+  <Text Key="4E31E561">Bao gồm Sim Tiên Bí ẩn</Text>
+  <Text Key="951671ED">Loại Sim: {0.String}</Text>
+  <Text Key="8A4BF62F">Nam</Text>
+  <Text Key="15F20E6C">Nữ</Text>
+  <Text Key="6AF474A1">Dương vật</Text>

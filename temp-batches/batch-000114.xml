@@ -1,50 +1,50 @@
-  <Text Key="4D18EC6A">&lt;span class="money"&gt;&lt;/span&gt;\n&lt;b&gt;Dùng cho:&lt;/b&gt; Simoleons, Tặng quà, Cắm hoa\nGhép với Cúc Cúc để được Chim Khổng Tước</Text>
-  <Text Key="A9265497">&lt;span class="money"&gt;&lt;/span&gt;\n&lt;b&gt;Dùng cho:&lt;/b&gt; Simoleons, Tặng quà, Cắm hoa\nGhép với Nho để được Mầm Cây Bonsai</Text>
-  <Text Key="BF779A5B">&lt;span class="money"&gt;&lt;/span&gt;\n&lt;b&gt;Dùng cho:&lt;/b&gt; Simoleons, Tặng quà, Cắm hoa\nGhép với Lựu để được Hoa Cái Chết</Text>
-  <Text Key="82E6E234">&lt;span class="money"&gt;&lt;/span&gt;\n&lt;b&gt;Dùng cho:&lt;/b&gt; Simoleons, Tặng quà, Cắm hoa\nGhép với Hoa Mõm Chó để được Phong Lan</Text>
-  <Text Key="050AF12F">&lt;span class="money"&gt;&lt;/span&gt;\n&lt;b&gt;Dùng cho:&lt;/b&gt; Lời cầu xin của Grim, Nấu Ambrosia</Text>
-  <Text Key="AF158BF8">&lt;span class="money"&gt;&lt;/span&gt;\n&lt;b&gt;Dùng cho:&lt;/b&gt; Tặng quà, Cắm hoa, Ghép cây\nGhép với Dâu tây để được Mầm Cây Bonsai</Text>
-  <Text Key="7966C73A">&lt;span class="money"&gt;&lt;/span&gt;\n&lt;b&gt;Dùng cho:&lt;/b&gt; Tặng quà, Cắm hoa, Ghép cây\nGhép với Tulip để được Chim Khổng Tước</Text>
-  <Text Key="6964E282">&lt;span class="money"&gt;&lt;/span&gt;\n&lt;b&gt;Dùng cho:&lt;/b&gt; Vui vẻ, Thư giãn</Text>
-  <Text Key="8CBF5721">&lt;span class="money"&gt;&lt;/span&gt;\n&lt;b&gt;Dùng cho:&lt;/b&gt; Cắm hoa\nGhép với Dâu tây để được Nho</Text>
-  <Text Key="DA263E8F">&lt;span class="money"&gt;&lt;/span&gt;\n&lt;b&gt;Dùng cho:&lt;/b&gt; Simoleons, Tặng quà, Cắm hoa</Text>
-  <Text Key="254769E3">&lt;span class="money"&gt;{0.Money}&lt;/span&gt;</Text>
-  <Text Key="1F3376E1">&lt;span class="money"&gt;&lt;b&gt;Thu hoạch đầu tiên:&lt;/b&gt; 5 ngày\n&lt;b&gt;Các lần thu hoạch tiếp theo:&lt;/b&gt; 4 ngày\n&lt;/span&gt;\n&lt;b&gt;Dùng cho:&lt;/b&gt; Simoleons, Tặng quà, Cắm hoa\nGhép với {P0.ObjectName} để được {P1.ObjectName}</Text>
-  <Text Key="69565021">&lt;span class="rarity"&gt;{0.String}&lt;/span&gt;</Text>
-  <Text Key="5EE34E14">&lt;span class="money"&gt;Giá trị thu hoạch trung bình: {0.Money}&lt;/span&gt;</Text>
-  <Text Key="B81EC998">&lt;span class="default"&gt;Ghép với {P0.ObjectName} để được {P1.ObjectName}&lt;/span&gt;</Text>
-  <Text Key="913B946B">&lt;span class="money"&gt;&lt;b&gt;Mùa:&lt;/b&gt; {0.String}&lt;/span&gt;</Text>
-  <Text Key="EB881F7C">&lt;span class="rarity"&gt;Độ hiếm: {0.String}&lt;/span&gt;</Text>
-  <Text Key="923679AA">(Trung bình)</Text>
-  <Text Key="59120675">(Lớn)</Text>
-  <Text Key="EA243E16">(Nhỏ)</Text>
-  <Text Key="6A0B412F">&lt;b&gt;Người tạo gốc:&lt;/b&gt; {0.String}</Text>
-  <Text Key="84117ACC">Công thức Gia đình</Text>
-  <Text Key="28F5CEBC">Công thức Gia đình</Text>
-  <Text Key="2C586E23">&lt;b&gt;Nguyên liệu Bí mật&lt;/b&gt;</Text>
-  <Text Key="6FCD218B">&lt;b&gt;Chạm Đặc biệt&lt;/b&gt;</Text>
-  <Text Key="E3CBD235">&lt;b&gt;Công thức Cơ bản&lt;/b&gt;</Text>
-  <Text Key="C8D35014">The Sims™ 4 Ma cà rồng</Text>
-  <Text Key="81691761">Biến các Sim của bạn thành những ma cà rồng mạnh mẽ và sống vĩnh cửu trong một điểm đến mới đầy rùng rợn với The Sims™ 4 Ma cà rồng. Tạo ra nhiều loại ma cà rồng bằng các công cụ hoàn toàn mới và mở khóa các Sức mạnh Siêu nhiên độc nhất mang lại cho Sim của bạn khả năng siêu nhiên. Thoát đến Forgotton Hollow, xây dựng một tổ ấm và quây quần với các bất tử khác.\n\n&lt;font color="#1A81E1"&gt;Tính năng Game Pack:&lt;/font&gt;\n\n&lt;ul type="circle"&gt;&lt;li&gt;Tạo Ma cà rồng&lt;/li&gt;&lt;li&gt;Giải phóng Sức mạnh Siêu nhiên&lt;/li&gt;&lt;li&gt;Thoát đến Forgotton Hollow&lt;/li&gt;&lt;li&gt;Sống Cuộc đời Bất tử&lt;/li&gt;&lt;/ul&gt;\n\nBạn đang mua giấy phép để truy cập nội dung kỹ thuật số theo &lt;span class="link"&gt;&lt;a href="event:https://www.ea.com/legal/user-agreement"&gt;Thỏa thuận Người dùng EA&lt;/a&gt;&lt;/span&gt;.</Text>
-  <Text Key="E3174EE1">Nội dung Kỹ thuật số Up All Night</Text>
-  <Text Key="50A81EDE">Nội dung Kỹ thuật số Up All Night chỉ có sẵn khi mua bất kỳ phiên bản Premium Edition, Collector’s Edition, và Digital Deluxe Edition nào của The Sims 4 hoặc khi nâng cấp The Sims 4 Standard Edition hoặc Limited Edition với The Sims 4 Digital Deluxe Upgrade. Bao gồm Laser Light Show, đồ trang trí vui nhộn và trang phục tiệc phóng khoáng để đi cùng với hai bữa tiệc nóng bỏng và các công thức độc đáo của chúng!</Text>
-  <Text Key="0B45799D">The Sims™ 4 Đồ dùng cho Trẻ sơ sinh</Text>
-  <Text Key="20A1EC22">Trao cho trẻ sơ sinh của bạn những cách mới để thể hiện tính cách, đốt cháy năng lượng và kết bạn với The Sims™ 4 Đồ dùng cho Trẻ sơ sinh. Mặc cho các Sim nhỏ của bạn nhiều bộ trang phục dễ thương và kiểu tóc xinh xắn. Sử dụng đồ trang trí đầy màu sắc để xây dựng không gian chơi ngoài trời nơi trẻ sơ sinh có thể tận hưởng cầu trượt, đường hầm bò và hồ bóng với bạn bè.\n\n&lt;font color="#1A81E1"&gt;Tính năng Stuff Pack:&lt;/font&gt;\n\n&lt;ul type="circle"&gt;&lt;li&gt;Mặc Trang phục Dễ thương&lt;/li&gt;&lt;li&gt;Nhảy vào Niềm vui&lt;/li&gt;&lt;li&gt;Tổ chức Ngày chơi cùng bạn&lt;/li&gt;&lt;/ul&gt;\n\nBạn đang mua giấy phép để truy cập nội dung kỹ thuật số theo &lt;span class="link"&gt;&lt;a href="event:https://www.ea.com/legal/user-agreement"&gt;Thỏa thuận Người dùng EA&lt;/a&gt;&lt;/span&gt;.</Text>
-  <Text Key="E66E2F51">Vật phẩm Tặng thêm</Text>
-  <Text Key="33AEEAE1">The Sims™ 4 Thành phố Bí ẩn</Text>
-  <Text Key="9D5E12DE">Bắt đầu cuộc điều tra và giải quyết bí ẩn về một thị trấn sa mạc giữ một bí mật sâu kín, tối tăm trong The Sims™ 4 Thành phố Bí ẩn. Trong thị trấn đầy ám ảnh này, các Sim hành động kỳ lạ vì những lý do chưa biết. Có âm mưu gì không? Lực lượng kỳ lạ dường như này sẽ chiếm hữu Sim của bạn? Khám phá câu chuyện về phòng thí nghiệm bí mật nơi các Sim sẽ gặp phải những loài thực vật kỳ dị và tương tác với các thiết bị đặc biệt. Bạn có thể giải quyết được bí ẩn không?\n\n&lt;font color="#1A81E1"&gt;Tính năng Game Pack:&lt;/font&gt;\n\n&lt;ul type="circle"&gt;&lt;li&gt;Một Thế giới Khác&lt;/li&gt;&lt;li&gt;Giải mã Câu chuyện&lt;/li&gt;&lt;li&gt;Giải mã Mật mã&lt;/li&gt;&lt;li&gt;Trang bị cho Sim của Bạn&lt;/li&gt;&lt;/ul&gt;\n\nBạn đang mua giấy phép để truy cập nội dung kỹ thuật số theo &lt;span class="link"&gt;&lt;a href="event:https://www.ea.com/legal/user-agreement"&gt;Thỏa thuận Người dùng EA&lt;/a&gt;&lt;/span&gt;.</Text>
-  <Text Key="1E6F757A">The Sims™ 4 Đồ trang trí Rùng rợn</Text>
-  <Text Key="5821F99B">Khắc bí ngô và xem bạn có thể gây sợ hãi những trò vui nào với The Sims™ 4 Đồ trang trí Rùng rợn. Biến đổi ngôi nhà của Sim với những món đồ trang trí vui nhộn đầy ma quái. Chọn từ nhiều trang phục và lớp trang điểm mới để tạo ra diện mạo đùa cợt mới cho các Sim của bạn. Khám phá một cách mới để chế tác với trạm khắc bí ngô hoàn toàn mới và giúp các Sim của bạn tổ chức một bữa tiệc rùng rợn mà ai cũng sẽ chết khiếp muốn tham dự.\n\n&lt;font color="#1A81E1"&gt;Tính năng Stuff Pack:&lt;/font&gt;\n\n&lt;ul type="circle"&gt;&lt;li&gt;Trạm Khắc Bí ngô Hoàn toàn mới&lt;/li&gt;&lt;li&gt;Bát Kẹo Rùng rợn Hoàn toàn mới&lt;/li&gt;&lt;li&gt;Tổ chức Bữa tiệc Rùng rợn mới&lt;/li&gt;&lt;li&gt;Thêm đồ trang trí và vật thể vui nhộn ma quái&lt;/li&gt;&lt;li&gt;Trang phục và lớp trang điểm mới&lt;/li&gt;&lt;/ul&gt;\n\nBạn đang mua giấy phép để truy cập nội dung kỹ thuật số theo &lt;span class="link"&gt;&lt;a href="event:https://www.ea.com/legal/user-agreement"&gt;Thỏa thuận Người dùng EA&lt;/a&gt;&lt;/span&gt;.</Text>
-  <Text Key="69B5C9B2">The Sims™ 4 Bộ Kit Sân vườn Quyến rũ</Text>
-  <Text Key="FF9A69E3">Thêm quyến rũ vào sân cỏ của Sim không phải về sự hoàn hảo—mà là về cá tính. Trở nên đầy phong cách sân vườn với The Sims™ 4 Bộ Kit Sân vườn Quyến rũ! Bộ sưu tập vui nhộn này biến những hành lang đơn điệu và bãi cỏ cũ kỹ thành những góc ấm cúng bùng nét màu sắc. Phối trộn các tông màu hiện đại, kết cấu và chi tiết vượt thời gian để tạo ra vẻ ngoài thủ công cho bất kỳ khu phố nào. Dù hàng xóm của bạn mang bánh quế đến hay liếc qua hàng rào, các Sim của bạn vẫn sẽ thời trang, xã giao và hoàn toàn bắt kịp với dòng họ Goths. Được tạo bởi Ravasheen.\n\n&lt;font color="#1A81E1"&gt;Tính năng Kit:&lt;/font&gt;\n\n&lt;ul type="circle"&gt;&lt;li&gt;Trộn, Phối và Nói Đó là Của Bạn - Làm cho thư gửi nhầm trở thành quá khứ! Các con số hiện đại có đèn nền sáng trên các đế theo phong cách tự làm, cho phép các Sim của bạn tùy chỉnh cách để cho cả khu phố biết họ sống ở đâu—và rằng đúng, đây là ngôi nhà cho chiếc bánh quế của họ.&lt;/li&gt;&lt;li&gt;Những Chạm Quyến rũ - Trang trí lối đi của bạn với vẻ ngoại tự làm quyến rũ với những món đồ được chế tác để làm hài lòng người đi ngang—trong khi nhẹ nhàng nhắc nhở họ phong cách này chỉ để ngắm nhìn. Dù bạn đang tiếp đón hàng xóm hay bỏ mặc họ, sân vườn của bạn vẫn được sắp xếp một cách dễ dàng.&lt;/li&gt;&lt;/ul&gt;\n\nBạn đang mua giấy phép để truy cập nội dung kỹ thuật số theo &lt;span class="link"&gt;&lt;a href="event:https://www.ea.com/legal/user-agreement"&gt;Thỏa thuận Người dùng EA&lt;/a&gt;&lt;/span&gt;.</Text>
-  <Text Key="ACDEE81C">The Sims™ 4 Bộ Kit Giấc mơ Đồng cỏ</Text>
-  <Text Key="5A3B6399">Trộn thời trang đồng cỏ quyến rũ và những món đồ cổ điển với The Sims™ 4 Bộ Kit Giấc mơ Đồng cỏ. Từ mộc mạc đến thanh lịch, những phong cách này mang lại sự lãng mạn của vùng nông thôn đến bất cứ nơi nào các Sim của bạn sống. Bộ kit này là về việc phối trộn thời trang mộc mạc và cổ điển cho một thẩm mỹ vượt thời gian. Với những món đồ như quần yếm ngắn, ủng da, trang sức hoa cúc và váy viền ren, những cảm giác dịu dàng và mơ mộng của cuộc sống đồng cỏ có thể trở thành một phần của câu chuyện bất kỳ Sim nào. Được tạo bởi Miiko.\n\n&lt;font color="#1A81E1"&gt;Tính năng Kit:&lt;/font&gt;\n\n&lt;ul type="circle"&gt;&lt;li&gt;Hòa mình vào cuộc sống đồng cỏ – Gửi các Sim của bạn ra ngoài với những bộ trang phục mộc mạc cân bằng giữa tính thực tế và quyến rũ. Mặc để làm việc trong vườn với quần yếm ngắn, vải kẻ ô và ủng da.&lt;/li&gt;&lt;li&gt;Phong cách cho các Sim với sự lãng mạn vượt thời gian – Dù là một buổi hẹn hò lãng mạn hay một buổi chiều tự do dưới nắng, tôn vinh tình yêu và sự giải trí với những bộ trang phục cổ điển, họa tiết hoa và chi tiết mơ mộng.&lt;/li&gt;&lt;/ul&gt;\n\nBạn đang mua giấy phép để truy cập nội dung kỹ thuật số theo &lt;span class="link"&gt;&lt;a href="event:https://www.ea.com/legal/user-agreement"&gt;Thỏa thuận Người dùng EA&lt;/a&gt;&lt;/span&gt;.</Text>
-  <Text Key="EAD3E474">The Sims™ 4 Bộ Kit Nhà kính Trà chiều</Text>
-  <Text Key="1ABC4F41">Uống trà dưới nắng trong khi được bao quanh bởi đồ trang trí thanh lịch và những người bạn thân với The Sims™ 4 Bộ Kit Nhà kính Trà chiều. Tổ chức những buổi tụ tập tinh tế, sang trọng với bộ đồ trà, khay đồ ăn và ánh sáng tự nhiên tràn ngập qua những cửa sổ lớn, đẹp mắt cũng như cửa và mái nhà bằng kính.\n\n&lt;font color="#1A81E1"&gt;Tính năng Kit:&lt;/font&gt;\n\n&lt;ul type="circle"&gt;&lt;li&gt;Tụ tập trong Kính – Thiết kế một không gian xã hội không phải hoàn toàn bên ngoài, và vẫn tách biệt với nhịp sống bộn bề hàng ngày của ngôi nhà chính. Với những bức tường có cửa sổ, giàn leo hoa, một loa kín đáo hình như một tảng đá, và đồ nội thất phù hợp cho vườn hoặc phòng khách, bạn sẽ tạo ra điểm đến hoàn hảo để trò chuyện phiếm với bạn bè.&lt;/li&gt;&lt;li&gt;Tinh tế &amp; Ngon miệng – Một bữa tiệc trà thanh lịch đòi hỏi một không gian đẹp, cuộc trò chuyện tốt và—tất nhiên—trà, cũng như các món khác. Bộ sưu tập này có một bộ đồ trà tinh tế và khay đồ ăn vừa có chức năng vừa đẹp mắt, cũng như một chiếc bàn tiệc mới.&lt;/li&gt;&lt;/ul&gt;\n\nBạn đang mua giấy phép để truy cập nội dung kỹ thuật số theo &lt;span class="link"&gt;&lt;a href="event:https://www.ea.com/legal/user-agreement"&gt;Thỏa thuận Người dùng EA&lt;/a&gt;&lt;/span&gt;.</Text>
-  <Text Key="ABBD1168">The Sims™ 4 Bộ Kit Phong cách Màn ảnh Bạc</Text>
-  <Text Key="42FAB9FD">Tạo dáng táo bạo trong những phong cách ấn tượng lấy cảm hứng từ vẻ bí ẩn của một thời cổ điển với The Sims™ 4 Bộ Kit Phong cách Màn ảnh Bạc. Tỏa ra sức mạnh duyên dáng khi làm trưởng gia đình bằng cách kết hợp một chiếc váy kịch tính với phụ kiện táo bạo, hoặc chọn vẻ ngoài biểu tượng, đầy mê hoặc của một chiếc áo khoác trench và mũ, để che mắt trong khi bạn tìm kiếm bí mật. Bộ kit này là về việc bước vào các vai trò của những nhân vật lớn hơn cuộc sống.\n\n&lt;font color="#1A81E1"&gt;Tính năng Kit:&lt;/font&gt;\n\n&lt;ul type="circle"&gt;&lt;li&gt;Táo bạo, Đẹp đẽ và Nguy hiểm – Trông tự tin và có năng lực trong trang sức lấp lánh, một chiếc áo khoác viền lông giả và giày gọn nhẹ bên cạnh những chiếc váy và vest tạo ra đường nét cổ điển.&lt;/li&gt;&lt;li&gt;Trông như Vai trò Đó – Thể hiện một nhân cách không thể ngăn cản. Mặc cho khoảnh khắc bạn khám phá một bê bối, tiết lộ âm mưu bí mật của mình, hoặc trốn thoát với phần thưởng. Đây là những phong cách kịch tính cho khi bạn muốn cảm thấy biểu tượng.&lt;/li&gt;&lt;/ul&gt;\n\nBạn đang mua giấy phép để truy cập nội dung kỹ thuật số theo &lt;span class="link"&gt;&lt;a href="event:https://www.ea.com/legal/user-agreement"&gt;Thỏa thuận Người dùng EA&lt;/a&gt;&lt;/span&gt;.</Text>
-  <Text Key="854574AC">The Sims™ 4 Bộ Kit Phòng chơi Thế giới Kỳ diệu</Text>
-  <Text Key="D2D4F049">Sử dụng đồ trang trí kỳ ảo để tạo một không gian chơi đầy mơ mộng với The Sims™ 4 Bộ Kit Phòng chơi Thế giới Kỳ diệu. Bộ sưu tập này nâng tầm các hoạt động, bữa tiệc trà giả định, bài tập về nhà, hoặc thậm chí là mơ mộng lên những tầng cao mới với đồ nội thất trang trí bằng lá bài, tách trà, lỗ khóa, và nhiều điểm nhấn phù hợp cho một truyện cổ tích.\n\n&lt;font color="#1A81E1"&gt;Tính năng Kit:&lt;/font&gt;\n\n&lt;ul type="circle"&gt;&lt;li&gt;Ngày Frabjous – Đây là nơi trí tưởng tượng có thể bay cao, cho dù trẻ em đang chơi hay học tập. Với những kệ sách kỳ ảo, một chiếc bàn khớp và một bộ cờ vua, phòng chơi này đóng vai trò kép là nơi cho trẻ em học hỏi và phát triển.&lt;/li&gt;&lt;li&gt;Tò mò hơn nữa – Một con thỏ bông đáng yêu, những chiếc mũ treo lủng lẳng và đồ trang trí tường với chim đu dở hoặc mèo cười là chỉ một vài cách bộ kit này sẽ đưa bạn đến một thế giới vừa quen thuộc vừa kỳ diệu.&lt;/li&gt;&lt;/ul&gt;\n\nBạn đang mua giấy phép để truy cập nội dung kỹ thuật số theo &lt;span class="link"&gt;&lt;a href="event:https://www.ea.com/legal/user-agreement"&gt;Thỏa thuận Người dùng EA&lt;/a&gt;&lt;/span&gt;.</Text>
-  <Text Key="CFD7AFCC">The Sims™ 4 Bộ Kit Từ Vườn đến Bàn ăn</Text>
-  <Text Key="E3BFEDE9">Biến không gian ăn ngoài trời của bạn thành một nơi trú ẩn mộc mạc nơi các mùa màng từ vườn là nền tảng của bữa ăn với The Sims™ 4 Bộ Kit Từ Vườn đến Bàn ăn. Pha trộn sự quyến rũ mộc mạc và phong cách hiện đại với đồ nội thất đa năng được chế tác từ gỗ tự nhiên và đá cánh đồng xếp chồng mịn. Vật liệu tự nhiên cung cấp hơi ấm hữu cơ, trong khi các món bằng kim loại và gốm thêm điểm nhấn hiện đại. Giữ trung tính cho cảm giác mộc mạc hoặc thêm những đốm màu cho một sự xoay chiều hiện đại. Kết nối tất cả và làm sống động không gian ngoài trời của bạn với đồ trang trí lấy cảm hứng từ rau củ và những chậu cây xanh um tùm. Được tạo bởi BrazenLotus.\n\n&lt;font color="#1A81E1"&gt;Tính năng Kit:&lt;/font&gt;\n\n&lt;ul type="circle"&gt;&lt;li&gt;Tự nhiên và Hấp dẫn một cách Mộc mạc - Định hình không gian ăn ngoài trời của bạn với một bếp nướng đá cánh đồng xếp chồng kèm theo bàn bên đồng bộ để tạo cảm hứng tự nhiên, hấp dẫn. Định nghĩa không gian bằng cách sử dụng một chiếc ghế dài đá cánh đồng xếp chồng thông minh đóng vai trò kép là một bức tường vườn thấp. Lớn thêm sức hấp dẫn mộc mạc với đồ nội thất gỗ thô ráp, và trưng bày đồ trang trí mùa màng của bạn với một chiếc thang gỗ tái sử dụng.&lt;/li&gt;&lt;li&gt;Hiện đại với Hơi ấm Mộc mạc - Nâng tầm điểm giải trí ngoài trời của bạn với đồ nội thất hiện đại dựa trên hơi ấm mộc mạc. Một bếp nướng than chì bóng bẩu và các bàn bên đồng bộ có đường nét sạch sẽ được làm mềm bởi kết cấu gỗ mịn. Một bồn rửa đá phong cách mộc hiện đại đơn giản hóa việc dọn dẹp bữa ăn ngoài trời và thêm sức hấp dẫn thực tế. Những chiếc ghế ăn bằng mây sáng màu, thảm rực rỡ và đồ trang trí lấy cảm hứng từ vườn rau củ cung cấp những đốm màu năng động.&lt;/li&gt;&lt;/ul&gt;\n\nBạn đang mua giấy phép để truy cập nội dung kỹ thuật số theo &lt;span class="link"&gt;&lt;a href="event:https://www.ea.com/legal/user-agreement"&gt;Thỏa thuận Người dùng EA&lt;/a&gt;&lt;/span&gt;.</Text>
-  <Text Key="368B9A43">The Sims™ 4 Bộ Kit Nghỉ ngơi Hiện đại</Text>
+  <Text Key="8ABDDD58">Âm đạo</Text>
+  <Text Key="651E7CF8">Thiếu niên</Text>
+  <Text Key="D3EFCF64">Thanh thiếu niên</Text>
+  <Text Key="8D2A1D7C">Người lớn</Text>
+  <Text Key="ABACCED8">Người cao tuổi</Text>
+  <Text Key="4971B069">Người ngoài hành tinh</Text>
+  <Text Key="EC96B8DA">Ma cà rồng</Text>
+  <Text Key="CDC85D55">Người cá</Text>
+  <Text Key="41767B5E">Pháp sư</Text>
+  <Text Key="836DAAEF">Người sói</Text>
+  <Text Key="5AD5301B">Servo</Text>
+  <Text Key="0AB9FCC9">Ma</Text>
+  <Text Key="A654A7DF">Tiên</Text>
+  <Text Key="B3FBE814">{0.String}/{1.String}</Text>
+  <Text Key="D7F1B526">{0.String} và {1.String}</Text>
+  <Text Key="EC59EA07">Số lượng Đặc điểm Xấu Xa đã phân phối: {0.String}</Text>
+  <Text Key="4F73C04C">Xác suất mặc định Đặc điểm Xấu Xa</Text>
+  <Text Key="E20282D4">{0.String} &lt;b&gt;(Xác suất: {1.String}%)&lt;/b&gt;</Text>
+  <Text Key="E9910917">Phần trăm cơ hội để Đặc điểm Xấu Xa {0.String} được thêm vào cho Sim mới tạo (0-100%)</Text>
+  <Text Key="E2252581">Tổng cộng {0.Number} đặc điểm đã được thêm vào {1.Number} Sim.</Text>
+  <Text Key="ECF035D6">Tổng cộng {0.Number} đặc điểm đã được loại bỏ khỏi {1.Number} Sim.</Text>
+  <Text Key="24656CCB">--------------- Bộ chọn Sim Toàn diện ---------------</Text>
+  <Text Key="ED1E52AA">Các Sim cần Chọn trước</Text>
+  <Text Key="7A22E1BD">Chọn loại Sim để chọn trước.</Text>
+  <Text Key="DD5A636A">Các Sim cần Chọn</Text>
+  <Text Key="BDF107B8">Không có Sim nào để chọn!</Text>
+  <Text Key="CDF927C5">Không tìm thấy Sim nào để chọn!</Text>
+  <Text Key="EECE38F8">Không chọn Sim nào</Text>
+  <Text Key="EA6FB8D4">Chọn Tất cả Sim</Text>
+  <Text Key="0A3FAA55">Chọn Sim Nữ</Text>
+  <Text Key="65377FCA">Chọn Sim Nam</Text>
+  <Text Key="354613CF">Chọn Sim Giới tính Không xác định</Text>
+  <Text Key="80CE8440">Chọn Sim có Cơ quan sinh dục Nam</Text>
+  <Text Key="2EDD3A19">Chọn Sim có Cơ quan sinh dục Nữ</Text>
+  <Text Key="E2C1EBF0">Chọn Sim Độ tuổi Thiếu niên</Text>
+  <Text Key="FFE546A4">Chọn Sim Độ tuổi Thanh thiếu niên</Text>
+  <Text Key="B3E34F5C">Chọn Sim Độ tuổi Người lớn</Text>
+  <Text Key="1E1E7960">Chọn Sim Độ tuổi Người cao tuổi</Text>
+  <Text Key="FB8B40AC">Chọn Sim Ngoài hành tinh</Text>
+  <Text Key="F24C54A5">Chọn Sim Ma cà rồng</Text>
+  <Text Key="DCCC09D8">Chọn Sim Người cá</Text>
+  <Text Key="BAF19D79">Chọn Sim Pháp sư</Text>
+  <Text Key="CA387D46">Chọn Sim Người sói</Text>
+  <Text Key="2240A586">Chọn Sim Tiên</Text>
+  <Text Key="DA0A4DF2">Chọn Sim Servo</Text>
+  <Text Key="2E41221C">Chọn Sim Ma</Text>
+  <Text Key="22F57C13">Chọn Sim Vô gia cư</Text>
+  <Text Key="F2CA93D0">Chọn Sim Ngẫu nhiên</Text>
+  <Text Key="703AC0FC">--------------- Giao thức / Vòng tròn ---------------</Text>
+  <Text Key="B9299DD8">Giao thức của Sim</Text>
