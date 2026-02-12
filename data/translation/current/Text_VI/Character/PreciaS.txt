@@ -2,12 +2,12 @@
 
 #UB##
 ビッグピッグヒップドロップ=Cú Đạp Mông Lợn Lớn
-目の前の敵１キャラに対象の物理防御力が魔法防御力より低い場合、物理ダメージ扱いになる魔法特大ダメージを与え、追加の物理特大ダメージを与える。さらに、味方全体の物理攻撃力を特大アップ、物理クリティカルを大アップさせる。物理攻撃力アップと物理クリティカルアップの効果量は味方の数に応じて変化する。=
+目の前の敵１キャラに対象の物理防御力が魔法防御力より低い場合、物理ダメージ扱いになる魔法特大ダメージを与え、追加の物理特大ダメージを与える。さらに、味方全体の物理攻撃力を特大アップ、物理クリティカルを大アップさせる。物理攻撃力アップと物理クリティカルアップの効果量は味方の数に応じて変化する。=Gây sát thương phép thuật (M.DMG) cực lớn (tính là sát thương vật lý P.DMG nếu P.DEF của mục tiêu < M.DEF) và thêm sát thương vật lý (P.DMG) cực lớn lên 1 kẻ địch phía trước. Tăng mạnh P.ATK và P.CRIT RATE cho toàn đội. Hiệu quả tăng theo số lượng đồng minh.
 r:"^敵単体に(\d+)の低い側の防御力で防御する魔法ダメージ敵単体に(\d+)の物理ダメージ味方全体の物理攻撃力を(\d+)アップ味方全体の物理クリティカルを100アップ$"=►Gây $1 sát thương ma thuật lên một kẻ địch (dùng giá trị DEF thấp hơn)\n►Gây $2 sát thương vật lý lên một kẻ địch\n►Tăng P.ATK cho toàn đồng đội bằng $3\n►Tăng Tỷ lệ Chí mạng Vật lý cho toàn đồng đội bằng 100
 
 ##S1##
 たねれんしゃ=Mưa Hạt Giống
-目の前の敵１キャラに対象の物理防御力が魔法防御力より低い場合、物理ダメージ扱いになる魔法大ダメージを与える。さらに、味方全体の物理攻撃力を特大アップ、物理攻撃クリティカル時のダメージを小アップさせ、物理無効バリアを展開する。物理攻撃力アップ、物理攻撃クリティカル時のダメージアップの効果量とバリアの無効ダメージ量は味方の数に応じて変化する。=
+目の前の敵１キャラに対象の物理防御力が魔法防御力より低い場合、物理ダメージ扱いになる魔法大ダメージを与える。さらに、味方全体の物理攻撃力を特大アップ、物理攻撃クリティカル時のダメージを小アップさせ、物理無効バリアを展開する。物理攻撃力アップ、物理攻撃クリティカル時のダメージアップの効果量とバリアの無効ダメージ量は味方の数に応じて変化する。=Gây sát thương phép thuật (M.DMG) lớn (tính là sát thương vật lý P.DMG nếu P.DEF của mục tiêu < M.DEF) lên 1 kẻ địch phía trước. Tăng mạnh P.ATK, tăng nhẹ P.CRIT DMG cho toàn đội, và tạo Khiên Phản Vật Lý. Hiệu quả tăng theo số lượng đồng minh.
 r:"^敵単体に(\d+)の低い側の防御力で防御する魔法ダメージ味方全体の物理攻撃力を(\d+)アップ味方全体の物理クリダメを8％アップ(\d+)ダメージ分の物理無効バリアを展開する$"=►Gây $1 sát thương ma thuật lên một kẻ địch (dùng giá trị DEF thấp hơn)\n►Tăng P.ATK cho toàn đồng đội bằng $2\n►Tăng Sát thương Chí mạng Vật lý cho toàn đồng đội bằng 8%\n►Triển khai Rào cản Phản Ma thuật ($3 sát thương)
 
 ##S2##

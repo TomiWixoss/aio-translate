@@ -4,7 +4,7 @@
 ##UB##
 究極錬成‐氷炎融合=Magnum Opus – Flamma Glacies Unita
 r:"^敵単体に(\d+)の低い側の防御力で防御する魔法ダメージ味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを100アップ味方全体の魔法クリダメを5％アップ$"=►Gây $1 sát thương phép lên một kẻ địch (sử dụng chỉ số phòng thủ thấp hơn).\n►Tăng M.ATK của toàn đồng đội lên $2.\n►Tăng Tỷ lệ chí mạng phép của toàn đồng đội lên 100.\n►Tăng Sát thương chí mạng phép của toàn đồng đội lên 5%.
-目の前の敵１キャラに対象の物理防御力が魔法防御力より低い場合、物理ダメージ扱いになる魔法特大ダメージを与え、味方全体の魔法攻撃力を特大アップ、魔法クリティカルを大アップ、魔法クリダメを小アップさせる。このスキルを使用するたび、最大２回までダメージが増加し、３回目以降はステータスアップの効果時間が増加する。=
+目の前の敵１キャラに対象の物理防御力が魔法防御力より低い場合、物理ダメージ扱いになる魔法特大ダメージを与え、味方全体の魔法攻撃力を特大アップ、魔法クリティカルを大アップ、魔法クリダメを小アップさせる。このスキルを使用するたび、最大２回までダメージが増加し、３回目以降はステータスアップの効果時間が増加する。=Gây sát thương phép thuật (M.DMG) cực lớn lên 1 kẻ địch phía trước (tính là sát thương vật lý P.DMG nếu P.DEF của mục tiêu < M.DEF), tăng mạnh M.ATK cho toàn đội, tăng đáng kể M.CRIT RATE, và tăng nhẹ M.CRIT DMG. Mỗi lần dùng tăng thêm sát thương (tối đa 2 lần), sau lần dùng thứ 3 sẽ kéo dài thời gian buff.
 
 ##S1##
 インフラマエ=Inflamare
