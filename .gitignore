@@ -2,3 +2,13 @@ node_modules/
 .env
 *.log
 .DS_Store
+
+# Data directories
+data/temp/
+data/source/versions/
+data/translation/versions/
+
+# Keep structure but ignore content
+!data/temp/.gitkeep
+!data/source/versions/.gitkeep
+!data/translation/versions/.gitkeep

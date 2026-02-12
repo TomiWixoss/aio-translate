@@ -1,3 +1,0 @@
-レシピ=Recipe
-sr:"^(.+)のレシピ$"=Recipe for $1
-sr:"^料理のレシピ。「(.+)」がマイルショップに並ぶようになる。$"=A cooking recipe. $1 will now be available in the Mile Shop.

@@ -1,4 +1,27 @@
 {
+  "name": "princess-connect-translation",
+  "version": "2.0.0",
+  "description": "Princess Connect! Re:Dive - Translation Tool (EN → VI)",
+  "main": "scripts/update.js",
+  "scripts": {
+    "import": "node scripts/1-import-source.js",
+    "detect": "node scripts/2-detect-changes.js",
+    "translate": "node scripts/3-translate.js",
+    "merge": "node scripts/4-merge.js",
+    "export": "node scripts/5-export.js",
+    "update": "node scripts/update.js",
+    "compare": "node scripts/utils/compare-xml.js",
+    "count": "node scripts/utils/count-words.js",
+    "check-empty": "node scripts/utils/find-empty-entries.js"
+  },
+  "keywords": [
+    "princess-connect",
+    "translation",
+    "game-localization",
+    "ai-translation"
+  ],
+  "author": "",
+  "license": "MIT",
   "dependencies": {
     "aio-llm": "^1.0.5",
     "dotenv": "^17.2.4"

@@ -1,0 +1,40 @@
+r:"^紅焔の深域(.{0,5})$"=Crimson Flame Depths $1
+r:"^翠嵐の深域(.{0,5})$"=Jade Storm Depths $1
+r:"^紫冥の深域(.{0,5})$"=Violet Abyss Depths $1
+r:"^蒼波の深域(.{0,5})$"=Azure Wave Depths $1
+r:"^珀天の深域(.{0,5})$"=Amber Sky Depths $1
+
+深域クエストパック効果適用中=Deep Zone Quest Pack effects are currently active.
+
+Deep Questへ=To Deep Quest
+深域クエストへ=To Deep Quest
+Talent Questへ=To Deep Quest
+闇属性=Dark
+光属性=Light
+風属性=Wind
+水属性=Water
+火属性=Fire
+sr:"^(.+)をクリアで解放されます。$"=Clear $1 to unlock.
+
+カスタム設定=Custom settings
+属性ボーナスがOFFに設定されています。=Elemental bonus is set to off.
+属性ボーナス=Elemental Bonus
+属性弱点=Elemental Weakness
+
+火属性キャラ=All Fire Character
+水属性キャラ=All Water Character
+風属性キャラ=All Wind Character
+光属性キャラ=All Light Character
+闇属性キャラ=All Dark Character
+
+
+All [FF7C4E]Fire[-] Character
+All [DAA520]Water[-] Character
+All [006400]Wind[-] Character
+All [cc9900]Light[-] Character
+All [800080]Dark[-] Character
+
+
+チェック引継ぎ確認=Check Handover Confirmation
+
+新しい深域クエストがクリアされたため、\n最新のクリア済みクエストをチェックしました。=Checked the latest completed quests due a new deep quest has been completed.

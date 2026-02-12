@@ -1,5 +1,0 @@
-コンサートポスター=Concert poster
-前後編のEXを除く=Excluding the first and second parts of EX
-
-
-r:"^イベントクエスト ([ A-Za-z\-0-9]+)$"=Event Quest $1
