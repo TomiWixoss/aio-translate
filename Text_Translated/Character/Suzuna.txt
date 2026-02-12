@@ -1,53 +1,53 @@
 ##Profile##
-【物理】後衛からクリティカル攻撃するカリスマモデル。ダメージ2倍のクリティカルダメージはスキルによる攻撃力アップでさらに破壊力を増す。=[Physical] A charming model that deals critical damage from the rearguard. Her double-damage critical hits are further enhanced by attack power-boosting skills.
-天真爛漫で人気者のカリスマモデル=A charismatic fashion model who's naïve yet popular
+【物理】後衛からクリティカル攻撃するカリスマモデル。ダメージ2倍のクリティカルダメージはスキルによる攻撃力アップでさらに破壊力を増す。=[Vật lý] Một người mẫu quyến rũ tấn công từ hậu phương với đòn chí mạng gây sát thương gấp đôi. Các đòn chí mạng gây sát thương gấp đôi này còn được tăng cường thêm bởi kỹ năng tăng sức mạnh tấn công.
+天真爛漫で人気者のカリスマモデル=Một người mẫu thời trang đầy mê hoặc, ngây thơ nhưng lại rất nổi tiếng
 
-ファッション=Fashion
+ファッション=Thời trang
 
-狙い撃っちゃうんでよろ♪=I'm going to shoot him.
-それがうちのポリシーだし=That's our policy.
-おにやばオファーじゃね？=I'm sorry, I thought you were going to make me an offer.
-もにカワ最高フィーリング=Monikawa best feeling
-キミだけのランウェイ=A Runway to You
-うちのカレシになってよ=Be My BF
-消えたステージ衣装=Costume Conondrum
-カジノバブル=Luck of Draw
-グラビア撮影は表情が命♪=Looks Are Everythings
-ベストなパフューム探そ！=The Perfect Perfume!
-カリスマモデル、スズナ！=Fashion Model, Suzuna!
-計算とかオニ苦手だし～=Hella Bad at Math
+狙い撃っちゃうんでよろ♪=Tớ sẽ bắn hắn.
+それがうちのポリシーだし=Đó là chính sách của chúng tôi.
+おにやばオファーじゃね？=Xin lỗi, tôi nghĩ cô định đưa ra một đề nghị cho tôi.
+もにカワ最高フィーリング=Cảm giác tuyệt nhất là Monikawa
+キミだけのランウェイ=Một Lối Đi Cho Bạn
+うちのカレシになってよ=Hãy Làm Bạn Trai Của Tớ
+消えたステージ衣装=Bí Ẩn Trang Phục
+カジノバブル=May Mắn Khi Rút Thăm
+グラビア撮影は表情が命♪=Ngoại Hình Là Mọi Thứ
+ベストなパフューム探そ！=Tinh Dầu Hoàn Hảo!
+カリスマモデル、スズナ！=Người Mẫu Thời Trang, Suzuna!
+計算とかオニ苦手だし～=Quá Tệ Với Toán
 
 ##UB##
-ハートブレイク=Heart Breaker
-目の前の敵１キャラに物理特大ダメージを与える。このスキルは必ずクリティカルする。=Deals large P.DMG to an enemy directly in front. This always results in a critical hit.
+ハートブレイク=Kẻ Phá Tan Trái Tim
+目の前の敵１キャラに物理特大ダメージを与える。このスキルは必ずクリティカルする。=Gây lượng lớn sát thương vật lý lên kẻ địch phía trước. Đòn này luôn là chí mạng.
 
 ##S1##
 おこぷんダーツ=Meany Missile
-目の前の敵１キャラに物理中ダメージを与える。このスキルは必ずクリティカルする。=Deals moderate P.DMG to an enemy directly in front. This always results in a critical hit.
+目の前の敵１キャラに物理中ダメージを与える。このスキルは必ずクリティカルする。=Gây lượng vừa phải sát thương vật lý lên kẻ địch phía trước. Đòn này luôn là chí mạng.
 
 ##S2##
-カリスマオーラ♪=Charming Aura ♪
-自分の物理攻撃力を中アップさせる。=Moderate boost to own P.ATK.
+カリスマオーラ♪=Aura Quyến Rũ ♪
+自分の物理攻撃力を中アップさせる。=Tăng vừa phải tấn công vật lý của bản thân.
 
 ##EX##
-もにカワフィーリング=Super Cute Sensation
-もにカワフィーリング+=Super Cute Sensation+
+もにカワフィーリング=Siêu Dễ Thương Cảm Xúc
+もにカワフィーリング+=Siêu Dễ Thương Cảm Xúc+
 
 ##UB+##
-オートクチュール・ハート=Haute Couture Heart
-自分の物理攻撃クリティカル時のダメージを中アップさせる。さらに目の前の敵１キャラに物理特大ダメージを与える。このスキルの１ヒットのダメージは必ずクリティカルする。=Moderately boost your P.ATK Crit DMG. Deals massive P.DMG to one enemy character in front. This skill's 1-hit damage is always a critical hit.
-r:"^自分の物理攻撃クリティカル時のダメージを25％アップ敵単体に(\d+)の物理ダメージ$"=►Boosts own P.CRIT DMG by 25% for 18s.\n►Deals $1 P.DMG to an enemy.\nGuaranteed to crit.
+オートクチュール・ハート=Trái Tim Haute Couture
+自分の物理攻撃クリティカル時のダメージを中アップさせる。さらに目の前の敵１キャラに物理特大ダメージを与える。このスキルの１ヒットのダメージは必ずクリティカルする。=Tăng vừa phải sát thương chí mạng vật lý của bản thân. Gây lượng lớn sát thương vật lý lên một kẻ địch phía trước. Sát thương một đòn của kỹ năng này luôn là chí mạng.
+r:"^自分の物理攻撃クリティカル時のダメージを25％アップ敵単体に(\d+)の物理ダメージ$"=►Tăng 25% sát thương chí mạng vật lý của bản thân trong 18s.\n►Gây $1 sát thương vật lý lên kẻ địch.\nLuôn chí mạng.
 
 ##S1+##
 おこぷんダーツ+=Meany Missile+
-目の前の敵１キャラに計３回ヒットし、クリティカル時のダメージが２倍ではなく３倍になる物理大ダメージを与える。このスキルの１ヒットのダメージは必ずクリティカルする。=Hits 1 enemy in front of you 3 times in total, dealing large P.DMG that x3 the damage of a critical hit instead of x2 it. This skill's 1-hit damage is always a critical hit.
-r:"^敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ$"=►Deals $1 P.DMG to an enemy.\n►Deals $2 P.DMG to an enemy.\n►Deals $3 P.DMG to an enemy.
+目の前の敵１キャラに計３回ヒットし、クリティカル時のダメージが２倍ではなく３倍になる物理大ダメージを与える。このスキルの１ヒットのダメージは必ずクリティカルする。=Tấn công kẻ địch phía trước tổng cộng 3 lần, gây lượng lớn sát thương vật lý với hệ số chí mạng x3 thay vì x2. Sát thương một đòn của kỹ năng này luôn là chí mạng.
+r:"^敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Gây $2 sát thương vật lý lên kẻ địch.\n►Gây $3 sát thương vật lý lên kẻ địch.
 
 ##S2+##
-カリスマオーラ♪+=Charisma Aura ♪+
-自分の物理攻撃力を特大アップ、物理攻撃クリティカル時のダメージを小アップし、ＴＰを中回復する。=Boosts own P.ATK and P.CRIT DMG. Recovers own TP.
-r:"^自分の物理攻撃力を(\d+)アップ自分の物理攻撃クリティカル時のダメージを15％アップ自分のＴＰを150回復$"=►Boosts own P.ATK by $1.\n►Boosts own P.CRIT DMG by 15%.\n►Boosts own TP by 150.
+カリスマオーラ♪+=Aura Quyến Rũ ♪+
+自分の物理攻撃力を特大アップ、物理攻撃クリティカル時のダメージを小アップし、ＴＰを中回復する。=Tăng tấn công vật lý và sát thương chí mạng vật lý của bản thân. Hồi TP của bản thân.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理攻撃クリティカル時のダメージを15％アップ自分のＴＰを150回復$"=►Tăng $1 tấn công vật lý của bản thân.\n►Tăng 15% sát thương chí mạng vật lý của bản thân.\n►Tăng 150 TP của bản thân.
 
 ##UE##
-クリティカルキス=Critical Kiss
-カリスマオートクチュール=Charisma Haute Couture
+クリティカルキス=Nụ Hôn Chí Mạng
+カリスマオートクチュール=Haute Couture Quyến Rũ

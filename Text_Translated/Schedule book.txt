@@ -1,50 +1,50 @@
-予定帳=Schedule
-主さま、ご用事が立て込んでいらっしゃるようですね。\n日々のご予定の管理はわたくしにおまかせくださいまし。=My Lord, it seems that you have alot of business to attend to.\nPlease allow me to manage your daily tasks.
+予定帳=Lịch Trình
+主さま、ご用事が立て込んでいらっしゃるようですね。\n日々のご予定の管理はわたくしにおまかせくださいまし。=Chủ nhân, dường như ngài có nhiều việc cần xử lý.\nXin hãy để tôi quản lý các nhiệm vụ hàng ngày của ngài.
 
-まとめておまかせ=Complete All
-リストの設定=List Settings
-実行=Do
+まとめておまかせ=Hoàn Tất Tất Cả
+リストの設定=Cài Đặt Danh Sách
+実行=Thực hiện
 
-メインかイベントクエストを10回クリアしよう=Clear "Main Quest" or "Event Quest" 10 times
-メインかイベントクエストを20回クリアしよう=Clear "Main Quest" or "Event Quest" 20 times
-イベントクエストを10回クリアしよう=Clear "Event Quest" 10 times
-メイン(HARD、VERY HARD)かイベントクエスト(HARD)を3回クリアしよう=Clear Main/Event Quest HARD/VERY HARD 3 times
-バトルアリーナで1回戦おう=Participate in the "Battle Arena" 1 time
-プリンセスアリーナで1回戦おう=Participate in the "Princess Arena" 1 time
-アリーナコインを1回受け取ろう=Collect Battle Arena Coin(s) once
-プリンセスアリーナコインを1回受け取ろう=Collect Princess Arena Coin(s) once
-ギルドハウスでアイテムを受け取ろう=Collect item(s) at the Guildhouse
-マナクエストを残り挑戦回数分クリアしよう=Clear the remaining Mana Quests
-経験値クエストを残り挑戦回数分クリアしよう=Clear the remaining EXP Potion Quests
-ノーマルガチャを引こう=Pull the Normal Gacha
+メインかイベントクエストを10回クリアしよう=Hoàn thành "Chính tuyến" hoặc "Sự kiện" 10 lần
+メインかイベントクエストを20回クリアしよう=Hoàn thành "Chính tuyến" hoặc "Sự kiện" 20 lần
+イベントクエストを10回クリアしよう=Hoàn thành "Sự kiện" 10 lần
+メイン(HARD、VERY HARD)かイベントクエスト(HARD)を3回クリアしよう=Hoàn thành Chính tuyến/Sự kiện độ HARD/VERY HARD 3 lần
+バトルアリーナで1回戦おう=Tham gia "Battle Arena" 1 lần
+プリンセスアリーナで1回戦おう=Tham gia "Princess Arena" 1 lần
+アリーナコインを1回受け取ろう=Thu thập Xu Battle Arena 1 lần
+プリンセスアリーナコインを1回受け取ろう=Thu thập Xu Princess Arena 1 lần
+ギルドハウスでアイテムを受け取ろう=Thu thập vật phẩm tại Nhà guild
+マナクエストを残り挑戦回数分クリアしよう=Hoàn thành các Nhiệm vụ Ma lực còn lại
+経験値クエストを残り挑戦回数分クリアしよう=Hoàn thành các Nhiệm vụ Kinh nghiệm còn lại
+ノーマルガチャを引こう=Rút Gacha thường
 
-イベントのデイリーミッション報酬を受け取ろう=Receive event daily mission rewards
-ダンジョンを1回クリアしよう=Clear 1 floor of a dungeon
-キャラのスキルを1回強化しよう=Enhance a character's skill 1 time
-装備強化で装備の★を1つ増やそう=Refine a character's equipment 1 time
-マナを1回購入しよう=Purchase Mana 1 time
-クランメンバーに「いいね」しよう=Like a clan member
-ルナの塔に1回挑戦しよう=Challenge the Tower of Luna 1 time
-クランバトルに1回挑戦しよう=Participate in the Clan Battle 1 time
-ダンジョンに1回挑戦しよう=Attempt a Dungeon 1 time
-マナを購入しよう=Buy 1 set of Mana
+イベントのデイリーミッション報酬を受け取ろう=Nhận phần thưởng nhiệm vụ hàng ngày sự kiện
+ダンジョンを1回クリアしよう=Hoàn thành 1 tầng hầm ngục
+キャラのスキルを1回強化しよう=Nâng cấp kỹ năng nhân vật 1 lần
+装備強化で装備の★を1つ増やそう=Làm tinh khiết trang bị nhân vật 1 lần
+マナを1回購入しよう=Mua Ma lực 1 lần
+クランメンバーに「いいね」しよう=Thích một thành viên bang hội
+ルナの塔に1回挑戦しよう=Thử thách Tháp Luna 1 lần
+クランバトルに1回挑戦しよう=Tham gia Trận chiến bang hội 1 lần
+ダンジョンに1回挑戦しよう=Thử hầm ngục 1 lần
+マナを購入しよう=Mua 1 gói Ma lực
 
 
-限定ショップで買い物をしよう=Purchase items at the Bonus Shop
-通常ショップで買い物をしよう=Purchase items at the Normal Shop
+限定ショップで買い物をしよう=Mua vật phẩm tại Cửa hàng Bonus
+通常ショップで買い物をしよう=Mua vật phẩm tại Cửa hàng thường
 
-スキップする項目がありません。=There are no mission to skip.
+スキップする項目がありません。=Không có nhiệm vụ nào để bỏ qua.
 
-ダンジョンスキップ確認=Dungeon Skip Confirmation
-ダンジョンの全バトルをスキップして、報酬を獲得しますか？=Do you want to skip all dungeon battles and get rewards?
+ダンジョンスキップ確認=Xác nhận bỏ qua hầm ngục
+ダンジョンの全バトルをスキップして、報酬を獲得しますか？=Bạn có muốn bỏ qua tất cả trận đấu hầm ngục và nhận phần thưởng không?
 
-マナクエストスキップ確認=Mana Quest Skip Confirmation
-経験値クエストスキップ確認=EXP Quest Skip Confirmation
-スキップしますクエストを 実行します。\nよろしいですか？=Skipping the quest.\nIs it OK?
-スキップチケットと挑戦回数を消費してマナクエストを実行します。よろしいですか？=Consume Skip Tickets and Attempts to clear Mana Quests.\nIs it OK?
-スキップチケットと挑戦回数を消費して経験値クエストを実行します。よろしいですか？=Consume Skip Tickets and Attempts to clear EXP Quests.\nIs it OK?
+マナクエストスキップ確認=Xác nhận bỏ qua Nhiệm vụ Ma lực
+経験値クエストスキップ確認=Xác nhận bỏ qua Nhiệm vụ Kinh nghiệm
+スキップしますクエストを 実行します。\nよろしいですか？=Đang bỏ qua nhiệm vụ.\nBạn có chắc không?
+スキップチケットと挑戦回数を消費してマナクエストを実行します。よろしいですか？=Tiêu thụ Vé bỏ qua và Lượt thử để hoàn thành Nhiệm vụ Ma lực.\nBạn có chắc không?
+スキップチケットと挑戦回数を消費して経験値クエストを実行します。よろしいですか？=Tiêu thụ Vé bỏ qua và Lượt thử để hoàn thành Nhiệm vụ Kinh nghiệm.\nBạn có chắc không?
 
-スキップ失敗=Skip Failed
-ダンジョン突入中のためダンジョンのスキップを実行できませんでした。=Dungeon could not be skipped because you have already entered a Dungeon.
-グループシャッフル後、プリンセスアリーナに移動していないためプリンセスアリーナコインが受け取れません=Cannot receive Princess Arena Coins because you haven't entered the Princess Arena since the arena brackets were shuffled.
-グループシャッフル後、バトルアリーナに移動していないためアリーナコインが受け取れません=Cannot receive Arena Coins because you haven't entered the Battle Arena since the arena brackets were shuffled.
+スキップ失敗=Không thể bỏ qua
+ダンジョン突入中のためダンジョンのスキップを実行できませんでした。=Không thể bỏ qua hầm ngục vì bạn đã vào hầm ngục rồi.
+グループシャッフル後、プリンセスアリーナに移動していないためプリンセスアリーナコインが受け取れません=Không thể nhận Xu Princess Arena vì bạn chưa tham gia Princess Arena kể từ khi lứa đấu bị xáo trộn.
+グループシャッフル後、バトルアリーナに移動していないためアリーナコインが受け取れません=Không thể nhận Xu Arena vì bạn chưa tham gia Battle Arena kể từ khi lứa đấu bị xáo trộn.

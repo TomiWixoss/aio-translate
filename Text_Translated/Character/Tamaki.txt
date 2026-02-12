@@ -1,51 +1,51 @@
 ##Profile##
-【物理】前衛の、対魔法パーティが得意な気まぐれ猫娘。攻撃スキルは、「魔法攻撃力が一番高い敵」を狙い撃ち、ダメージ、魔法攻撃力ダウン、ＴＰ吸収と畳み掛ける。=[Physical] A fickle catgirl who goes after spellcasters from the vanguard. Her attack skill targets foes with the highest magical attack power, combining damage, reduction of magical attack power, and TP drain.
-弱きを助け強きをくじく猫娘=A catgirl who fights against the strong on behalf of the weak
+【物理】前衛の、対魔法パーティが得意な気まぐれ猫娘。攻撃スキルは、「魔法攻撃力が一番高い敵」を狙い撃ち、ダメージ、魔法攻撃力ダウン、ＴＰ吸収と畳み掛ける。=[Vật Lý] Một cô mèo khó tính tấn công phép thuật từ tuyến đầu. Kỹ năng tấn công của cọ nhắm vào kẻ thù có sức mạnh phép thuật cao nhất, kết hợp sát thương, giảm sức mạnh phép thuật và hút TP.
+弱きを助け強きをくじく猫娘=Một cô mèo chiến đấu thay cho người yếu đuối trước kẻ mạnh
 
-巨悪に挑むは二人の義賊=Two Righteous Thieves vs the Great Evil
-乙女心とたい焼きと=Maiden's Heart and Taiyaki
-ショック・ザ・キャット！=Shock the Cat!
-猫の心配、相棒知らず=Cat's Concern, Unaware of a Partner
+巨悪に挑むは二人の義賊=Hai Kẻ Trộm Chính Tráng vs Đại Ác
+乙女心とたい焼きと=Trái Tim Trinh Nữ và Bánh Taiyaki
+ショック・ザ・キャット！=Sốc Mèo!
+猫の心配、相棒知らず=Nỗi Lo Của Mèo, Không Biết Đồng Đội
 
-ドギマギ☆ダイエット=Dieting Delights
-発見せよビッグキャット=Finding Bigcat
-ファントムキャッツ再び=The Phantom Cat Return
-仕組まれていた陰謀=Krook'd Konspiracy
-タマキの奇策！=Tamaki's Tactics!
-ファントムキャッツ現る=The Phantom Cat Appears
-真夜中の大捜査線=Missing Mini Me
-猫のちゃっかり恩返し=The Cheeky Cat Returns
+ドギマギ☆ダイエット=Niềm Vui Ăn Kiêng
+発見せよビッグキャット=Tìm Kiếm Bigcat
+ファントムキャッツ再び=Sự Trở Lại Của Mèo Ma
+仕組まれていた陰謀=Âm Mưu Của Krook
+タマキの奇策！=Chiến Thuật Của Tamaki!
+ファントムキャッツ現る=Mèo Ma Xuất Hiện
+真夜中の大捜査線=Bản Sao Nhỏ Mất Tích
+猫のちゃっかり恩返し=Mèo Tinh Nghịch Trở Về
 
 ##UB##
-ねこねこファイナルブレイク=Kitty Cat-aclysm
-魔法攻撃力が最も高い敵１キャラに物理特大ダメージを与える。=Deals massive P.DMG to an enemy with the highest M.ATK.
-r:"^敵単体に(\d+)の物理ダメージ\$"=►Deals Large $1 P.DMG to the enemy with the highest M.ATK.
+ねこねこファイナルブレイク=Thảm Họa Mèo
+魔法攻撃力が最も高い敵１キャラに物理特大ダメージを与える。=Gây sát thương vật lý lớn lên kẻ địch có M.ATK cao nhất.
+r:"^敵単体に(\d+)の物理ダメージ\$"=►Gây sát thương vật lý lớn $1 lên kẻ địch có M.ATK cao nhất.
 
 ##S1##
-ねこねこスローイング=Feline Fling
-魔法攻撃力が最も高い敵１キャラに物理中ダメージを与え、さらに魔法攻撃力を小ダウンさせる。=Deals moderate P.DMG to the enemy with the highest M.ATK and lowers its M.ATK by a small amount.
-r:"^敵単体に(\d+)の物理ダメージ敵単体の魔法攻撃力を(\d+)ダウン$"=►Deals $1 P.DMG to an enemy.\n►Lowers an enemy's M.ATK by $2 for 12s.
+ねこねこスローイング=Đòn Ném Mèo
+魔法攻撃力が最も高い敵１キャラに物理中ダメージを与え、さらに魔法攻撃力を小ダウンさせる。=Gây sát thương vật lý trung bình lên kẻ địch có M.ATK cao nhất và giảm M.ATK của mục tiêu một chút.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の魔法攻撃力を(\d+)ダウン$"=►Gây sát thương vật lý $1 lên kẻ địch.\n►Giảm M.ATK của kẻ địch $2 trong 12s.
 
 ##S2##
-猫の気まぐれ=Finicky Feline
-魔法攻撃力が最も高い敵１キャラのＴＰを小ダウンさせ、さらに自分のＴＰを小回復する。=Reduces the TP of the enemy with the highest M.ATK power by a small amount while also recovering own TP by a small amount.
-魔法攻撃力が最も高い敵１キャラのＴＰを小ダウンさせ、さらに自分のＴＰを小回復し、物理攻撃力を小アップさせる。=Reduces the TP of the enemy with the highest M.ATK power by a small amount. Recovers own TP by a small amount. Boosts own P.ATK by a small amount.
-r:"^敵単体のＴＰを(\d+)失わせる自分のＴＰを(\d+)回復自分の物理攻撃力を(\d+)アップ$"=►Reduces an enemy's TP by $1.\n►Recovers own TP by $2.\n►Boosts own P.ATK by $3.
+猫の気まぐれ=Mèo Khó Tính
+魔法攻撃力が最も高い敵１キャラのＴＰを小ダウンさせ、さらに自分のＴＰを小回復する。=Giảm TP của kẻ địch có M.ATK cao nhất một chút và đồng thời phục hồi TP của bản thân một chút.
+魔法攻撃力が最も高い敵１キャラのＴＰを小ダウンさせ、さらに自分のＴＰを小回復し、物理攻撃力を小アップさせる。=Giảm TP của kẻ địch có M.ATK cao nhất một chút. Phục hồi TP của bản thân một chút. Tăng P.ATK của bản thân một chút.
+r:"^敵単体のＴＰを(\d+)失わせる自分のＴＰを(\d+)回復自分の物理攻撃力を(\d+)アップ$"=►Giảm TP của kẻ địch $1.\n►Phục hồi TP của bản thân $2.\n►Tăng P.ATK của bản thân $3.
 ## Same as STamaki S1
 
 ##EX##
-マーベラスキャッツ=One Myarvelous Cat
-マーベラスキャッツ+=One Myarvelous Cat+
+マーベラスキャッツ=Một Con Mèo Tuyệt Vời
+マーベラスキャッツ+=Một Con Mèo Tuyệt Vời+
 
 ##UB+##
-ねこねこファントムラッシュ=Kitty Cat-astrophic Rush
-魔法攻撃力が最も高い敵１キャラに物理特大ダメージを与える。対象が魔法攻撃をする敵だった場合、ダメージが増加し、さらに物理防御力を特大ダウンさせる。=Deals massive P.DMG to the enemy with the highest M.ATK. If the target is an M-type, the damage is increased and additional P.DEF debuff by large amount.
-r:"^対象が物理攻撃をする敵だった場合(\d+)の物理ダメージ対象が魔法攻撃をする敵だった場合(\d+)の物理ダメージ対象が魔法攻撃をする敵だった場合物理防御力を(\d+)ダウン$"=If the target is physical:\n►Deals $1 P.DMG.\n\nIf target is magic:\n►Deals $2 P.DMG.\n►Lowers P.DEF by $3 for 18s.
+ねこねこファントムラッシュ=Xung Kích Mèo Thảm Họa
+魔法攻撃力が最も高い敵１キャラに物理特大ダメージを与える。対象が魔法攻撃をする敵だった場合、ダメージが増加し、さらに物理防御力を特大ダウンさせる。=Gây sát thương vật lý lớn lên kẻ địch có M.ATK cao nhất. Nếu mục tiêu là kiểu M, sát thương tăng lên và thêm hiệu ứng giảm P.DEF lớn.
+r:"^対象が物理攻撃をする敵だった場合(\d+)の物理ダメージ対象が魔法攻撃をする敵だった場合(\d+)の物理ダメージ対象が魔法攻撃をする敵だった場合物理防御力を(\d+)ダウン$"=Nếu mục tiêu là vật lý:\n►Gây sát thương vật lý $1.\n\nNếu mục tiêu là phép thuật:\n►Gây sát thương vật lý $2.\n►Giảm P.DEF $3 trong 18s.
 
 ##S1+##
-ねこねこスローイング+=Feline Fling+
-魔法攻撃力が最も高い敵１キャラに物理中ダメージを与え、さらに魔法攻撃力を中ダウンさせスタンさせる。=Deals moderate P.DMG to the enemy with the highest M.ATK, lowers its M.ATK by a moderate amount, and inflicts Stun.
-r:"^敵単体に(\d+)の物理ダメージ敵単体の魔法攻撃力を(\d+)ダウン敵単体を一定時間行動不能にする$"=►Deals $1 P.DMG to an enemy.\n►Lowers an enemy's M.ATK by $2.\n►Inflicts Stun on damaged target for 1.5s.
+ねこねこスローイング+=Đòn Ném Mèo+
+魔法攻撃力が最も高い敵１キャラに物理中ダメージを与え、さらに魔法攻撃力を中ダウンさせスタンさせる。=Gây sát thương vật lý trung bình lên kẻ địch có M.ATK cao nhất, giảm M.ATK của mục tiêu một lượng trung bình và gây choáng.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の魔法攻撃力を(\d+)ダウン敵単体を一定時間行動不能にする$"=►Gây sát thương vật lý $1 lên kẻ địch.\n►Giảm M.ATK của kẻ địch $2.\n►Gây choáng lên mục tiêu bị thương trong 1.5s.
 
 ##UE##
-ファンタズムタイヤキ=Phantom Taiyaki
+ファンタズムタイヤキ=Bánh Taiyaki Ma

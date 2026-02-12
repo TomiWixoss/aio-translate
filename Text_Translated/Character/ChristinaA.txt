@@ -1,23 +1,23 @@
 ##Profile##  
-【物理】前衛で、始原の冠装の力を振るう『誓約女君』。\n10行動目に攻撃力を大幅アップし、スキルに追撃を発生\nさせる【虚数】を得て隔絶した力で楯突く敵を抹消する。=[Physical] An "Regina Geas" wielding primordial crown attire's power. Gains massive P.ATK boost on 10th action and obtains [Imaginary Numbers] status to trigger follow-up attacks, erasing defiant enemies with transcendent force.
+【物理】前衛で、始原の冠装の力を振るう『誓約女君』。\n10行動目に攻撃力を大幅アップし、スキルに追撃を発生\nさせる【虚数】を得て隔絶した力で楯突く敵を抹消する。=[Vật lý] Một "Regina Geas" sử dụng sức mạnh của trang phục vương miện nguyên thủy. Nhận tăng P.ATK khổng lồ ở hành động thứ 10 và có được trạng thái [Imaginary Numbers] để kích hoạt đòn tấn công tiếp theo, xóa sổ kẻ thù phản kháng với lực lượng siêu việt.
 
 ##UB##  
 虚数魔境=Imaginary Hellscape
-自分の物理攻撃力を大アップし、敵全体に物理大ダメージを与え、物理防御力を小ダウンさせる。自分に【虚数】が付与されている場合、さらに最も物理防御力の低い敵１キャラに物理特大ダメージを与える。=Greatly boosts own P.ATK, deals major P.DMG to all enemies and slightly lowers their P.DEF. When [Imaginary Numbers] is active, additionally deals massive P.DMG to enemy with lowest P.DEF.
+自分の物理攻撃力を大アップし、敵全体に物理大ダメージを与え、物理防御力を小ダウンさせる。自分に【虚数】が付与されている場合、さらに最も物理防御力の低い敵１キャラに物理特大ダメージを与える。=Tăng rất lớn P.ATK của bản thân, gây sát thương vật lý (P.DMG) lớn lên tất cả kẻ địch và giảm nhẹ P.DEF của chúng. Khi [Imaginary Numbers] đang hoạt động, thêm vào đó gây sát thương vật lý (P.DMG) khổng lồ lên kẻ địch có P.DEF thấp nhất.
 
-r:"^自分の物理攻撃力を(\d+)アップ敵全体に(\d+)の物理ダメージ敵全体の物理防御力を(\d+)ダウン虚数付与中、敵単体に(\d+)の物理ダメージ$"=►Boosts own P.ATK by $1.\n►Deals $2 P.DMG to all enemies.\n►Lowers all enemies' P.DEF by $3.\n\nWhile [Imaginary Numbers] is active:\n►Deals $4 P.DMG to a single enemy.
+r:"^自分の物理攻撃力を(\d+)アップ敵全体に(\d+)の物理ダメージ敵全体の物理防御力を(\d+)ダウン虚数付与中、敵単体に(\d+)の物理ダメージ$"=►Tăng P.ATK của bản thân lên $1.\n►Gây $2 P.DMG lên tất cả kẻ địch.\n►Giảm P.DEF của tất cả kẻ địch đi $3.\n\nKhi [Imaginary Numbers] đang hoạt động:\n►Gây $4 P.DMG lên một kẻ địch.
 
 ##S1##  
 デモニックスラスト=Demonic Thrust
 デモニックスラスト+=Demonic Thrust+
-前方の敵すべてに物理中ダメージを与える。自分に【虚数】が付与されている場合、さらに前方の敵の中で最も物理防御力の低い敵１キャラに物理大ダメージを与え、自分のＴＰを中回復する。=Deals medium P.DMG to all front enemies. When [Imaginary Numbers] is active, additionally deals major P.DMG to front enemy with lowest P.DEF and moderately recovers own TP.
+前方の敵すべてに物理中ダメージを与える。自分に【虚数】が付与されている場合、さらに前方の敵の中で最も物理防御力の低い敵１キャラに物理大ダメージを与え、自分のＴＰを中回復する。=Gây sát thương vật lý (P.DMG) trung bình lên tất cả kẻ địch phía trước. Khi [Imaginary Numbers] đang hoạt động, thêm vào đó gây sát thương vật lý (P.DMG) lớn lên kẻ địch phía trước có P.DEF thấp nhất và hồi trung bình TP của bản thân.
 
-r:"^範囲内の敵に(\d+)の物理ダメージ虚数付与中、敵単体に(\d+)の物理ダメージ虚数付与中、自分のＴＰを150回復$"=►Deals $1 P.DMG to enemies within range.\n\nWhile [Imaginary Numbers] is active:\n►Deals $2 P.DMG to a single enemy.\n►Recovers own TP by 150.
+r:"^範囲内の敵に(\d+)の物理ダメージ虚数付与中、敵単体に(\d+)の物理ダメージ虚数付与中、自分のＴＰを150回復$"=►Gây $1 P.DMG lên kẻ địch trong phạm vi.\n\nKhi [Imaginary Numbers] đang hoạt động:\n►Gây $2 P.DMG lên một kẻ địch.\n►Hồi TP của bản thân 150.
 
 ##S2##  
 アブソリュート・ワン=Absolute One
-自分に【虚数】を付与し、物理攻撃力を特大アップ、物理攻撃クリティカル時のダメージとＴＰ上昇を小アップし、全ての物理攻撃を回避する。闇属性の味方の数に応じて物理攻撃力と物理攻撃クリティカル時のダメージの上昇量が最大４倍までアップする。【虚数】が付与されている間、このキャラのユニオンバーストとスキルのダメージは必ず命中し、クリティカルする。=Grants [Imaginary Numbers], massively boosts P.ATK, slightly increases P.CRIT DMG and TP Boost, while evading all physical attacks. Dark-element allies increase P.ATK/P.CRIT DMG boosts up to 4x. During [Imaginary Numbers], all UBs/skills guarantee hits and critical strikes.
-r:"^自分に虚数を付与する自分の物理攻撃力を(\d+)アップ自分の物理攻撃クリティカル時のダメージを10％アップ自分のＴＰ上昇を15アップ全ての物理攻撃を回避する$"=►Grants [Imaginary Numbers] to self.\n►Boosts own P.ATK by $1.\n►Boosts own P.CRIT DMG by 10％.\n►Boosts own TP Boost by 15.\n►Dodges all physical attacks.
+自分に【虚数】を付与し、物理攻撃力を特大アップ、物理攻撃クリティカル時のダメージとＴＰ上昇を小アップし、全ての物理攻撃を回避する。闇属性の味方の数に応じて物理攻撃力と物理攻撃クリティカル時のダメージの上昇量が最大４倍までアップする。【虚数】が付与されている間、このキャラのユニオンバーストとスキルのダメージは必ず命中し、クリティカルする。=Cấp [Imaginary Numbers], tăng P.ATK khổng lồ, tăng nhẹ P.CRIT DMG và TP Boost, đồng thời né mọi đòn tấn công vật lý. Đồng minh thuộc tính Hắc làm tăng hiệu quả tăng P.ATK/P.CRIT DMG lên tối đa 4 lần. Trong khi [Imaginary Numbers], tất cả UB/kỹ năng đảm bảo đánh trúng và chí mạng.
+r:"^自分に虚数を付与する自分の物理攻撃力を(\d+)アップ自分の物理攻撃クリティカル時のダメージを10％アップ自分のＴＰ上昇を15アップ全ての物理攻撃を回避する$"=►Cấp [Imaginary Numbers] cho bản thân.\n►Tăng P.ATK của bản thân lên $1.\n►Tăng P.CRIT DMG của bản thân lên 10%.\n►Tăng TP Boost của bản thân lên 15.\n►Né mọi đòn tấn công vật lý.
 
 ##EX##  
 イニシャライズディアブロ=Initialize Diablo

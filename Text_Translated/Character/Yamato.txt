@@ -1,27 +1,27 @@
 ##Profile##
-【物理】前衛で、豪胆にスリルを嗜む盗賊ギルドの長女。最前線で命を張りながら、獲得した【バンディダイス】の消費によって自らを大幅強化し、有象無象を地に伏せる。=[Physical] The older sister of the Bandy Sister guild, she is bold and thrill-loving. While risking her life on the frontlines, she uses the [Bandy Dice] to greatly strengthen herself and bring down the incompetent to the ground.
+【物理】前衛で、豪胆にスリルを嗜む盗賊ギルドの長女。最前線で命を張りながら、獲得した【バンディダイス】の消費によって自らを大幅強化し、有象無象を地に伏せる。=[Vật Lý] Chị cả trong bang Bandy Sister, mạnh mẽ và thích mạo hiểm. Trong khi liều lĩnh ở tuyến đầu, cô sử dụng [Xúc Xắc Bandy] để tăng cường bản thân mạnh mẽ và hạ gục kẻ yếu kém.
 ファイルーズあい=Fairouz Ai
 
 ##UB##
-ティース・ワインディング=Teeth Winding
-敵全体の物理防御力を小ダウンさせ、クリティカルを受けた際のダメージを小アップさせ、前方範囲内の敵すべてに物理大ダメージを与える。さらに、自分のＨＰを中回復する。このスキルのダメージは、１ヒットは必ずクリティカルする。=Moderately lowers all enemies' P.DEF and boosts their P.CRIT DMG taken, and deals large P.DMG to enemies in range. Also moderately recovers own HP. At least one hit of the UB will always be a critical hit.
-r:"^敵全体の物理防御力を(\d+)ダウン敵全体の被クリダメを5％アップ範囲内の敵に(\d+)の物理ダメージ自分のＨＰを(\d+)回復$"=►Lowers all enemies' P.DEF by $1 for 18s.\n►Boosts all enemies' P.CRIT DMG taken by 5% for 18s.\n►Deals $2 P.DMG to enemies in 500 range.\n►Recovers own HP by $3.
+ティース・ワインディング=Răng Quấn Quýt
+敵全体の物理防御力を小ダウンさせ、クリティカルを受けた際のダメージを小アップさせ、前方範囲内の敵すべてに物理大ダメージを与える。さらに、自分のＨＰを中回復する。このスキルのダメージは、１ヒットは必ずクリティカルする。=Giảm vừa phải Phòng Thủ Vật Lý của tất cả kẻ địch và tăng SÁT THƯƠNG CHÍ MẠNG VẬT LÝ mà chúng nhận, đồng thời gây sát thương vật lý lớn lên kẻ địch trong phạm vi. Cũng hồi phục vừa phải HP của bản thân. Ít nhất một đòn của UB sẽ luôn là chí mạng.
+r:"^敵全体の物理防御力を(\d+)ダウン敵全体の被クリダメを5％アップ範囲内の敵に(\d+)の物理ダメージ自分のＨＰを(\d+)回復$"=►Giảm Phòng Thủ Vật Lý của tất cả kẻ địch đi $1 trong 18s.\n►Tăng SÁT THƯƠNG CHÍ MẠNG VẬT LÝ mà tất cả kẻ địch nhận lên 5% trong 18s.\n►Gây $2 sát thương vật lý lên kẻ địch trong phạm vi 500.\n►Hồi HP của bản thân lên $3.
 
 ##S1##
-チェーンエッジ=Chain Edge
-前方範囲内の敵すべてに物理中ダメージを２回与え、物理防御力を小ダウンさせる。さらに、自分のＨＰを中回復する。=Deals two instances of moderate P.DMG enemies in front and slightly lowers their P.DEF. Also moderately recovers own HP.
-r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理防御力を(\d+)ダウン自分のＨＰを(\d+)回復$"=►Deals $1 P.DMG to enemies in 500 range.\n►Deals $2 P.DMG to enemies in 500 range.\n►Lowers enemies' P.DEF in 500 range by $3 for 12s.\n►Recovers own HP by $4.
+チェーンエッジ=Lưỡi Liên Hoàn
+前方範囲内の敵すべてに物理中ダメージを２回与え、物理防御力を小ダウンさせる。さらに、自分のＨＰを中回復する。=Gây hai lần sát thương vật lý vừa phải lên kẻ địch phía trước và giảm nhẹ Phòng Thủ Vật Lý của chúng. Cũng hồi phục vừa phải HP của bản thân.
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理防御力を(\d+)ダウン自分のＨＰを(\d+)回復$"=►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi 500.\n►Gây $2 sát thương vật lý lên kẻ địch trong phạm vi 500.\n►Giảm Phòng Thủ Vật Lý của kẻ địch trong phạm vi 500 đi $3 trong 12s.\n►Hồi HP của bản thân lên $4.
 
 ##S2##
-バンディットダイス=Bandy Dice
-自分の物理攻撃力を大アップ、物理攻撃クリティカル時のダメージを小アップさせる。さらに、【バンディダイス】をすべて消費するが、消費した【バンディダイス】の数に応じて効果量がアップする。【バンディダイス】を８つ消費した場合、効果量の上昇量と効果時間が増加する。=Greatly boosts own P.ATK and slightly boosts own P.CRIT DMG. Also consumes all [Bandy Dice] stacks, but increases the effects of the skill based on the number of [Bandy Dice] stacks consumed. If 8 [Bandy Dice] stacks are consumed, both the effects and the duration increase.
-r:"^自分の物理攻撃力を(\d+)アップ自分の物理攻撃クリティカル時のダメージを1％アップバンディダイスを全て消費する$"=►Boosts own P.ATK by $1 (+0.25×$1×\n[Bandy Dice]) for 12s.\n►Boosts own P.CRIT DMG by 1% (+1%×[Bandy Dice]) for 12s.\n►Consumes all {Bandy Dice].
+バンディットダイス=Xúc Xắc Bandy
+自分の物理攻撃力を大アップ、物理攻撃クリティカル時のダメージを小アップさせる。さらに、【バンディダイス】をすべて消費するが、消費した【バンディダイス】の数に応じて効果量がアップする。【バンディダイス】を８つ消費した場合、効果量の上昇量と効果時間が増加する。=Tăng mạnh TẤN CÔNG VẬT LÝ và tăng nhẹ SÁT THƯƠNG CHÍ MẠNG VẬT LÝ của bản thân. Đồng thời tiêu thụ toàn bộ lớp [Xúc Xắc Bandy], nhưng tăng hiệu ứng kỹ năng dựa trên số lớp [Xúc Xắc Bandy] đã tiêu thụ. Nếu tiêu thụ 8 lớp [Xúc Xắc Bandy], cả hiệu ứng và thời gian đều tăng.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理攻撃クリティカル時のダメージを1％アップバンディダイスを全て消費する$"=►Tăng TẤN CÔNG VẬT LÝ của bản thân lên $1 (+0.25×$1×\n[Xúc Xắc Bandy]) trong 12s.\n►Tăng SÁT THƯƠNG CHÍ MẠNG VẬT LÝ của bản thân lên 1% (+1%×[Xúc Xắc Bandy]) trong 12s.\n►Tiêu thụ toàn bộ {Xúc Xắc Bandy].
 
 ##SP1##
-水分補給だよ=Rehydration
-自分の物理防御力と魔法防御力を大アップする。さらに、自分を敵にクリティカルでダメージを与えるたびに【バンディダイス】が１つ追加される状態にし、自分に【バンディダイス】を３つ付与する。【バンディダイス】は最大８つまで追加される。=Greatly boosts own P.DEF and M.DEF, gains 3 [Bandy Dice] stacks, and adds one [Bandy Dice] stack for each time she lands a critical hit, up to a maximum of 8.
-r:"^クリティカルでダメージを与えるたびにバンディダイスを付与する状態になる自分にバンディダイスを３つ付与する自分の物理防御力を(\d+)アップ自分の魔法防御力を(\d+)アップ$"=►Boosts own P.DEF by $1 for 180s.\n►Boosts own M.DEF by $2 for 180s.\n►When landing a critical hit, gains 1 [Bandy Dice] stack.\n►Gains 3 [Bandy Dice] stacks.
+水分補給だよ=Tái Hợp Nước
+自分の物理防御力と魔法防御力を大アップする。さらに、自分を敵にクリティカルでダメージを与えるたびに【バンディダイス】が１つ追加される状態にし、自分に【バンディダイス】を３つ付与する。【バンディダイス】は最大８つまで追加される。=Tăng mạnh Phòng Thủ Vật Lý và Phòng Thủ Phép Thuật của bản thân, nhận 3 lớp [Xúc Xắc Bandy], và nhận thêm 1 lớp [Xúc Xắc Bandy] cho mỗi lần đánh chí mạng, tối đa 8 lớp.
+r:"^クリティカルでダメージを与えるたびにバンディダイスを付与する状態になる自分にバンディダイスを３つ付与する自分の物理防御力を(\d+)アップ自分の魔法防御力を(\d+)アップ$"=►Tăng Phòng Thủ Vật Lý của bản thân lên $1 trong 180s.\n►Tăng Phòng Thủ Phép Thuật của bản thân lên $2 trong 180s.\n►Khi đánh chí mạng, nhận 1 lớp [Xúc Xắc Bandy].\n►Nhận 3 lớp [Xúc Xắc Bandy].
 
 ##EX##
-品定めの時間=Time to check the goods
-品定めの時間+=Time to check the goods+
+品定めの時間=Đến lúc kiểm tra hàng rồi
+品定めの時間+=Đến lúc kiểm tra hàng rồi+

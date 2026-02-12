@@ -1,23 +1,23 @@
 ##Profile##
-【物理】前衛で敵の物理攻撃を妨害する吸血鬼テーラー。挑発と物理無効バリア、さらに最も物理攻撃力が高い敵を狙った妨害スキルによって、鉄壁の防御を織り上げる。=[Physical] A vampire tailor who disrupts enemy physical attacks. With skills like Taunt, Physical Null Barrier, and interference targeting the enemy with the highest physical attack, she weaves an ironclad defense.
+【物理】前衛で敵の物理攻撃を妨害する吸血鬼テーラー。挑発と物理無効バリア、さらに最も物理攻撃力が高い敵を狙った妨害スキルによって、鉄壁の防御を織り上げる。=[Vật lý] Một Tailor ma cà rồng phá rối các đòn tấn công vật lý của kẻ địch. Với các kỹ năng như Khiêu khích, Rào cản Phản Vật lý và can thiệp nhắm vào kẻ địch có sát thương vật lý cao nhất, cô dệt nên một phòng thủ kiên cố.
 
 ##UB##
 ストリングカーニバル=String Carnival
-最も物理攻撃力が高い敵１キャラに物理大ダメージを与え、さらに物理攻撃力と行動速度を特大ダウンさせる。=Deals massive P.DMG to the enemy with the highest P.ATK and massively decreases their P.ATK and action speed.
-r:"^敵単体に(\d+)の物理ダメージ敵単体の物理攻撃力を(\d+)ダウン敵単体の行動速度を一定時間低下させる$"=►Deals $1 P.DMG to an enemy.\n►Lowers an enemy's P.ATK by $2 for 18s.\n►Reduces an enemy's action speed to 20% for 18s.
+最も物理攻撃力が高い敵１キャラに物理大ダメージを与え、さらに物理攻撃力と行動速度を特大ダウンさせる。=Gây sát thương vật lý lớn lên kẻ địch có sát thương vật lý cao nhất và giảm mạnh sát thương vật lý cùng tốc độ hành động của chúng.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理攻撃力を(\d+)ダウン敵単体の行動速度を一定時間低下させる$"=►Gây $1 sát thương vật lý lên một kẻ địch.\n►Giảm sát thương vật lý của một kẻ địch đi $2 trong 18s.\n►Giảm tốc độ hành động của một kẻ địch xuống 20% trong 18s.
 
 ##S1##
 テーラードハロウィン=Tailor Halloween
-自分に物理無効バリアを展開し、さらに物理防御力を大アップさせる。=Deploys a barrier around oneself that negates P.DMG. Massively boosts own P.DEF.
-r:"^(\d+)ダメージ分の物理無効バリアを展開する自分の物理防御力を(\d+)アップ$"=Cast time: 0.715s\n►Deploys Barrier over oneself that negates $1 P.DMG for 12s.\n►Boosts own P.DEF by $2 for 12s.
+自分に物理無効バリアを展開し、さらに物理防御力を大アップさせる。=Triển khai một rào cản xung quanh bản thân phủ nhận sát thương vật lý. Tăng mạnh phòng thủ vật lý của bản thân.
+r:"^(\d+)ダメージ分の物理無効バリアを展開する自分の物理防御力を(\d+)アップ$"=Thời gian niệm: 0.715s\n►Triển khai Rào cản trên bản thân phủ nhận $1 sát thương vật lý trong 12s.\n►Tăng phòng thủ vật lý của bản thân lên $2 trong 12s.
 
 ##S2##
 フィアーアテンション=Fear Attention
-敵全体を挑発し、自分のＨＰを中回復する。さらに最も物理攻撃力が高い敵１キャラを恐慌状態にする。=Taunts all enemies and recovers own HP by a large amount. Additionally, inflicts Fear to an enemy with highest P.ATK.
-【挑発】敵全体を挑発し、自分のＨＰを中回復する。さらに最も物理攻撃力が高い敵１キャラを恐慌状態にする。=【Taunt】 Taunts all enemies and recovers own HP by a large amount. Additionally, inflicts Fear to an enemy with highest P.ATK.
+敵全体を挑発し、自分のＨＰを中回復する。さらに最も物理攻撃力が高い敵１キャラを恐慌状態にする。=Khiêu khích tất cả kẻ địch và hồi một lượng lớn máu cho bản thân. Ngoài ra, gây [Sợ hãi] lên kẻ địch có sát thương vật lý cao nhất.
+【挑発】敵全体を挑発し、自分のＨＰを中回復する。さらに最も物理攻撃力が高い敵１キャラを恐慌状態にする。=【Khiêu khích】 Khiêu khích tất cả kẻ địch và hồi một lượng lớn máu cho bản thân. Ngoài ra, gây [Sợ hãi] lên kẻ địch có sát thương vật lý cao nhất.
 
-敵全体を挑発し、自分のＨＰを大回復する。さらに最も物理攻撃力が高い敵１キャラを恐慌状態にする。=Taunts all enemies and recovers own HP by a large amount. Additionally, inflicts Fear to an enemy with highest P.ATK.
-r:"^敵全体を挑発する自分のＨＰを(\d+)回復敵単体を恐慌状態にする$"=Cast time: 0.715s\n►Provokes all enemies for 19s.\n►Recovers own HP by $1.\n►Inflicts Fear to an enemy for 8s.
+敵全体を挑発し、自分のＨＰを大回復する。さらに最も物理攻撃力が高い敵１キャラを恐慌状態にする。=Khiêu khích tất cả kẻ địch và hồi một lượng lớn máu cho bản thân. Ngoài ra, gây [Sợ hãi] lên kẻ địch có sát thương vật lý cao nhất.
+r:"^敵全体を挑発する自分のＨＰを(\d+)回復敵単体を恐慌状態にする$"=Thời gian niệm: 0.715s\n►Khiêu khích tất cả kẻ địch trong 19s.\n►Hồi máu cho bản thân $1.\n►Gây [Sợ hãi] lên một kẻ địch trong 8s.
 
 ##EX##
 テラーデコレーション=Tailor Decoration
@@ -25,8 +25,8 @@ r:"^敵全体を挑発する自分のＨＰを(\d+)回復敵単体を恐慌状�
 
 ##S1+##
 テーラードハロウィン+=Tailor Halloween+
-自分に物理無効バリアを展開し、さらに物理防御力を大アップさせ、継続ＨＰ回復状態を付与する。=Deploys a barrier around oneself that negates P.DMG. Massively boosts own P.DEF, and grants a continuous HP recovery to self.
-r:"^(\d+)ダメージ分の物理無効バリアを展開する自分の物理防御力を(\d+)アップ毎秒ＨＰを(\d+)回復する$"=Cast time: 0.715s\n►Deploys Barrier over oneself that negates $1 P.DMG for 12s.\n►Boosts own P.DEF by $2 for 12s.\n►Recovers own HP by $3/s for 6s.
+自分に物理無効バリアを展開し、さらに物理防御力を大アップさせ、継続ＨＰ回復状態を付与する。=Triển khai một rào cản xung quanh bản thân phủ nhận sát thương vật lý. Tăng mạnh phòng thủ vật lý của bản thân và cấp hiệu ứng hồi máu liên tục cho bản thân.
+r:"^(\d+)ダメージ分の物理無効バリアを展開する自分の物理防御力を(\d+)アップ毎秒ＨＰを(\d+)回復する$"=Thời gian niệm: 0.715s\n►Triển khai Rào cản trên bản thân phủ nhận $1 sát thương vật lý trong 12s.\n►Tăng phòng thủ vật lý của bản thân lên $2 trong 12s.\n►Hồi máu cho bản thân $3/giây trong 6s.
 
 ##UE##
 ハロウィンナイトドレス=Halloween Night Dress
@@ -34,6 +34,6 @@ r:"^(\d+)ダメージ分の物理無効バリアを展開する自分の物理�
 ##S2+##
 ハロウィンナイトヘアバンド=Halloween Night Hairband
 フィアーアテンション+=Fear Attention+
-【挑発】敵全体を挑発し、自分に魔法無効バリアを展開し、魔法防御力を大アップし、ＨＰを大回復する。さらに最も物理攻撃力が高い敵１キャラの物理攻撃力を大ダウン、物理防御力を中ダウンさせ、恐慌状態にする。また、最も魔法攻撃力が高い敵１キャラの魔法攻撃力を大ダウン、物理防御力を中ダウンさせ、クリティカルを受けた際のダメージを小アップさせる。=[Taunt] Taunts all enemies, deploys a magic invalid barrier to self, greatly boosts M.DEF, and greatly recovers HP. Furthermore, greatly lowers the P.ATK of the enemy with the highest P.ATK, moderately lowers their P.DEF, and inflicts panic state. Also, greatly lowers the M.ATK of the enemy with the highest M.ATK, moderately lowers their P.DEF, and slightly increases the damage they receive from critical hits.
+【挑発】敵全体を挑発し、自分に魔法無効バリアを展開し、魔法防御力を大アップし、ＨＰを大回復する。さらに最も物理攻撃力が高い敵１キャラの物理攻撃力を大ダウン、物理防御力を中ダウンさせ、恐慌状態にする。また、最も魔法攻撃力が高い敵１キャラの魔法攻撃力を大ダウン、物理防御力を中ダウンさせ、クリティカルを受けた際のダメージを小アップさせる。=[Khiêu khích] Khiêu khích tất cả kẻ địch, triển khai rào cản phản phép cho bản thân, tăng mạnh phòng thủ phép và hồi máu rất nhiều. Hơn nữa, giảm mạnh sát thương vật lý của kẻ địch có sát thương vật lý cao nhất, giảm trung bình phòng thủ vật lý của chúng và gây trạng thái hoảng loạn. Cũng giảm mạnh sát thương phép của kẻ địch có sát thương phép cao nhất, giảm trung bình phòng thủ vật lý của chúng và tăng nhẹ sát thương chí mạng mà chúng nhận.
 
-r:"^敵全体を挑発する(\d+)ダメージ分の魔法無効バリアを展開する自分の魔法防御力を(\d+)アップ自分のＨＰを(\d+)回復敵単体の物理攻撃力を(\d+)ダウン敵単体の物理防御力を(\d+)ダウン敵単体を恐慌状態にする敵単体の魔法攻撃力を(\d+)ダウン敵単体の物理防御力を(\d+)ダウン敵単体の被クリダメを16％アップ$"=►Taunts all enemies.\n►Deploys a Magic Null Barrier absorbing $1 DMG.\n►Boosts own M.DEF by $2.\n►Restores own HP by $3.\n►Lowers a single enemy's P.ATK by $4.\n►Lowers a single enemy's P.DEF by $5.\n►Inflicts [Panic] to a single enemy.\n►Lowers a single enemy's M.ATK by $6.\n►Lowers a single enemy's P.DEF by $7.\n►Boosts a single enemy's CRIT DMG taken by 16%.
+r:"^敵全体を挑発する(\d+)ダメージ分の魔法無効バリアを展開する自分の魔法防御力を(\d+)アップ自分のＨＰを(\d+)回復敵単体の物理攻撃力を(\d+)ダウン敵単体の物理防御力を(\d+)ダウン敵単体を恐慌状態にする敵単体の魔法攻撃力を(\d+)ダウン敵単体の物理防御力を(\d+)ダウン敵単体の被クリダメを16％アップ$"=►Khiêu khích tất cả kẻ địch.\n►Triển khai Rào cản Phản Phép hấp thụ $1 sát thương.\n►Tăng phòng thủ phép của bản thân lên $2.\n►Hồi máu cho bản thân $3.\n►Giảm sát thương vật lý của một kẻ địch đi $4.\n►Giảm phòng thủ vật lý của một kẻ địch đi $5.\n►Gây [Hoảng loạn] lên một kẻ địch.\n►Giảm sát thương phép của một kẻ địch đi $6.\n►Giảm phòng thủ vật lý của một kẻ địch đi $7.\n►Tăng sát thương chí mạng mà một kẻ địch nhận lên 16%.

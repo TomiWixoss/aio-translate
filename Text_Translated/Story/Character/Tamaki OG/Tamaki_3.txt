@@ -1,47 +1,47 @@
-タマキからのお願いで、指定の通路の見張り番をした{playername}は、お礼にとたい焼きを貰う。翌日、美少女義賊「ファントムキャッツ」が出没したというニュースが、ランドソルの街を駆け巡った。=As a favor for Tamaki, {playername} kept watch over a designated passage and received some taiyaki as a reward. The next day, news of the appearance of the beautiful girl bandit "Phantom Cat" spread throughout the city of Landosol.
-ある日、{playername}は、\nタマキに呼び出されて市街地の大きな屋敷の側にきた。=One day, {playername} was called by Tamaki to the side of a large mansion in the city.
-{playername}、よく来てくれたにゃ。\n今日はちょっと、キミに話したいことがあるのにゃ。={playername}, I'm glad you came~nya. I have something to talk to you about today~nya.
-{playername}は、\n最近この辺に現れる謎の義賊・ファントムキャッツっていうのを\n知っているかにゃ？={playername}, do you know about the mysterious bandit who appears around here lately~nya? The Phantom Cat~nya?
-知らないのかにゃ？\n弱きを助け強きを挫く、美少女義賊……\nその名もファントムキャッツ……！=You don't know~nya?\nThe beautiful girl bandit who helps the weak and crushes the strong...\nher name is Phantom Cat...!
-いったい、正体は何者なのにゃ……！=Who is she, really~nya...!
-おっさん？=An old man?
-にゃーっ！　誰がおっさんにゃ……\nこ、こほん、おっさんではきっとないのにゃ……=Nya-! Who are you calling an old man~nya...\nc-cough, she's definitely not an old man~nya...
-と、とにかく、ファントムキャッツは可愛い美少女義賊だと\n聞いたにゃ。=Anyway, I heard that Phantom Cat is a cute and beautiful girl bandit~nya.
-……ところで義賊といえば……=...Speaking of bandits...
-{playername}は、義賊ってどう思うかにゃ……？={playername}, what do you think of bandits~nya...?
-悪いやつからだけお金を盗む、正義の泥棒……\nそんな義賊がにゃ、例えば目の前にいたとしたら……=Stealing money only from bad guys, a thief of justice...\nif such a bandit was in front of you~nya, for example...
-ゆすって分け前をいただく。=I'd shake him down and take my cut.
-泥棒は泥棒だ。すぐ捕まえよう。=Thieves are thieves. Must catch them right away.
-にゃっ！？　そ、それはだめにゃ！\nっていうか、そっちの方が悪いやつにゃ！=Nya-!? N-no, that's not good~nya!\nThat's what I mean, you're the bad guy~nya!
+タマキからのお願いで、指定の通路の見張り番をした{playername}は、お礼にとたい焼きを貰う。翌日、美少女義賊「ファントムキャッツ」が出没したというニュースが、ランドソルの街を駆け巡った。=Như một ân huệ cho Tamaki, {playername} đã canh gác một lối đi được chỉ định và nhận được một ít bánh taiyaki làm phần thưởng. Ngày hôm sau, tin tức về sự xuất hiện của cô gái trộm xinh đẹp "Phantom Cat" đã lan truyền khắp thành phố Landosol.
+ある日、{playername}は、\nタマキに呼び出されて市街地の大きな屋敷の側にきた。=Một ngày nọ, {playername} được Tamaki gọi đến bên một biệt thự lớn trong thành phố.
+{playername}、よく来てくれたにゃ。\n今日はちょっと、キミに話したいことがあるのにゃ。={playername}, mừng là mày tới~nya. Hôm nay tao có chuyện muốn nói với mày~nya.
+{playername}は、\n最近この辺に現れる謎の義賊・ファントムキャッツっていうのを\n知っているかにゃ？={playername}, mày có biết về tên trộm bí ẩn xuất hiện gần đây không~nya? Phantom Cat~nya?
+知らないのかにゃ？\n弱きを助け強きを挫く、美少女義賊……\nその名もファントムキャッツ……！=Mày không biết~nya?\nCô gái trộm xinh đẹp giúp đỡ kẻ yếu và đánh bại kẻ mạnh...\ntên cô ấy là Phantom Cat...!
+いったい、正体は何者なのにゃ……！=Cô ấy thực sự là ai~nya...!
+おっさん？=Một lão già?
+にゃーっ！　誰がおっさんにゃ……\nこ、こほん、おっさんではきっとないのにゃ……=Nya-! Ai là lão già đâu~nya...\nc-cough, cô ấy chắc chắn không phải lão già~nya...
+と、とにかく、ファントムキャッツは可愛い美少女義賊だと\n聞いたにゃ。=Dù sao thì, tao nghe nói Phantom Cat là một cô gái trộm dễ thương và xinh đẹp~nya.
+……ところで義賊といえば……=...Nói về tên trộm...
+{playername}は、義賊ってどう思うかにゃ……？={playername}, mày nghĩ sao về tên trộm~nya...?
+悪いやつからだけお金を盗む、正義の泥棒……\nそんな義賊がにゃ、例えば目の前にいたとしたら……=Chỉ trộm tiền từ kẻ xấu, một kẻ trộm mang lẽ phải...\nnếu có một tên trộm như vậy đứng trước mặt mày~nya, ví dụ như...
+ゆすって分け前をいただく。=Tao sẽ bóp cổ hắn và lấy phần của tao.
+泥棒は泥棒だ。すぐ捕まえよう。=Trộm cắp là trộm cắp. Phải bắt ngay lập tức.
+にゃっ！？　そ、それはだめにゃ！\nっていうか、そっちの方が悪いやつにゃ！=Nya-!? K-không, như vậy không tốt~nya!\nĐó là ý tao, mày mới là kẻ xấu~nya!
 
-ううん……やっぱり、軽々しく正体は明かせないにゃ……\nいくら{playername}でも……=No... I really can't reveal my true identity so lightly, nya... Even if it's {playername}...
-ま、それはそれとしてにゃ。\n実は今日は、キミに相談があって、\n呼び出させてもらったにゃ。=Well, that's beside the point~nya. Actually, I have a favor to ask you today, and that's why I called you here~nya.
-ここの屋敷は、巷で暴利をむさぼる高利貸し、アクドーイの\n家だと言われているにゃ。=This mansion is said to belong to a usurer named Krook'd, who makes a fortune by exploiting people in the streets~nya.
-善人から不当に奪った財産で私腹を肥やす……\nきっと、義賊の天誅が下ってもしかたないやつにゃ！=He fattens his own pockets with the property he unjustly took from good people... surely, he deserves the divine punishment of a bandit~nya!
-で……ええと……\nそれとは関係ない話なんだけどにゃ……=So... um... this has nothing to do with that, but~nya...
-今日これからここの逃走経路……じゃなかった、ごほん、\n通路に人が通らないように、さりげなく見張っていてほしいにゃ。=I want you to keep an eye on this escape route... I mean, cough, this passage, and make sure no one passes through it casually~nya.
-え、なんでかってにゃ？　それは……\nええと……ちょっと、人に見られると\n恥ずかしい魔法の練習をするのにゃ。=Why, you ask~nya? That's because... um... I'm going to practice some magic that's embarrassing to be seen by people~nya.
-今晩はギルドのみんなも手が離せなくて……\nお願いにゃ！　頼まれてくれないかにゃ……？=Everyone in the guild is busy tonight... please~nya! Won't you do me a favor~nya...?
-ほんとかにゃ！\n引き受けてくれるにゃ！？=Really~nya! You'll accept it~nya!?
-さっすが{playername}にゃ！\nそれでこそあたしが見込んだだけあるにゃ！=That's {playername} for you!\nThat's why I had high hopes for you~nya!
-とりあえず、あたしが戻ってくるまで、\nここで見張っててほしいにゃ。\n頼んだにゃ！=For now, I want you to keep an eye on this place until I come back~nya. I'm counting on you~nya!
-にゃーっ！　大漁、大漁♪=Nya-! A big catch, a big catch♪
-おまたー、にゃ！　見張り、ありがとうにゃ！=See you later~nya! Thanks for keeping watch~nya!
-その担いでいる大きな風呂敷は……？=What's that big cloth bag you're carrying...?
-細かいことを気にしたらダメにゃ！=Don't worry about the details~nya!
-さ、もうここに用事はないにゃ。\n早く離れるにゃ。=There's nothing more to do here~nya. Let's get away quickly~nya.
-いつまでぼーっとしてるにゃ？\n早く逃げないと見つかるにゃ……っとと。=How long are you going to space out~nya?\nHurry up and run or you'll get caught~nya...
-夜も遅くなってるし、早く帰らないと危ないにゃよ？\nにゃっ！=It's late at night, so it's dangerous if you don't go home soon~nya? Nya-!
-おっと、分かれ道に来たのにゃ。\n今日はこれで……=Oops, we came to a fork in the road~nya. This is it for today...
-あ、忘れてたのにゃ。\n今日は付き合ってくれてありがとにゃ{playername}！\nこれはお礼にゃ！=Oh, I forgot~nya.\nThank you for sticking with me today {playername}!\nThis is a thank you gift~nya!
-あたしのバイトのまかないとしてもらった、\nたい焼きの詰め合わせにゃ！=I got these as part of my part-time job, a set of taiyaki~nya!
-すっごく美味しいにゃ！\nきっとキミも気に入ってくれると思うのにゃ。=They're really delicious~nya! I'm sure you'll like them too~nya.
-それじゃあ、またにゃ！\n今日は本当にありがとにゃ～！=Well then, see you later~nya! Thank you so much for today~nya!
-上機嫌なタマキを見送った{playername}。\nその翌日、ファントムキャッツが出たというニュースで\nランドソルは騒然となったのだった。={playername} watched Tamaki leave in a good mood. The next day, Landosol was in an uproar with news of Phantom Cat' appearance.
+ううん……やっぱり、軽々しく正体は明かせないにゃ……\nいくら{playername}でも……=Không... Thật sự tao không thể tiết lộ danh tính thật một cách dễ dàng như vậy, nya... Ngay cả nếu là {playername}...
+ま、それはそれとしてにゃ。\n実は今日は、キミに相談があって、\n呼び出させてもらったにゃ。=Thôi, chuyện đó không quan trọng~nya. Thực ra, hôm nay tao có một việc muốn nhờ mày, và đó là lý do tao gọi mày tới đây~nya.
+ここの屋敷は、巷で暴利をむさぼる高利貸し、アクドーイの\n家だと言われているにゃ。=Tòa biệt thự này được cho là thuộc về một tên cho vay nặng lãi tên là Krook'd, người làm giàu bằng cách bóc lột người dân trên đường phố~nya.
+善人から不当に奪った財産で私腹を肥やす……\nきっと、義賊の天誅が下ってもしかたないやつにゃ！=Hắn béo bụng túi tiền bằng tài sản mà hắn đã chiếm đoạt bất hợp pháp từ người lương thiện... chắc chắn rồi, hắn xứng đáng nhận sự trừng phạt thần thánh của một tên trộm~nya!
+で……ええと……\nそれとは関係ない話なんだけどにゃ……=Vậy... ừm... chuyện này không liên quan gì cả, nhưng~nya...
+今日これからここの逃走経路……じゃなかった、ごほん、\n通路に人が通らないように、さりげなく見張っていてほしいにゃ。=Tao muốn mày canh gác lối thoát này... ý tao là, cough, con đường này, và đảm bảo không ai đi qua một cách tùy tiện~nya.
+え、なんでかってにゃ？　それは……\nええと……ちょっと、人に見られると\n恥ずかしい魔法の練習をするのにゃ。=Tại sao, mày hỏi~nya? Bởi vì... ừm... tao sắp tập phép thuật mà thấy ngượng nếu bị người khác thấy~nya.
+今晩はギルドのみんなも手が離せなくて……\nお願いにゃ！　頼まれてくれないかにゃ……？=Mọi người trong guild đều bận tối nay... làm ơn đi~nya! Mày sẽ không giúp tao một chút~nya...?
+ほんとかにゃ！\n引き受けてくれるにゃ！？=Thật hả~nya! Mày sẽ nhận đấy~nya!?
+さっすが{playername}にゃ！\nそれでこそあたしが見込んだだけあるにゃ！=Đó là phong cách của {playername} mà!\nĐó là lý do tao rất kỳ vọng ở mày~nya!
+とりあえず、あたしが戻ってくるまで、\nここで見張っててほしいにゃ。\n頼んだにゃ！=Trước mắt, tao muốn mày canh gác nơi này cho đến khi tao quay lại~nya. Tao tin tưởng mày~nya!
+にゃーっ！　大漁、大漁♪=Nya-! Mẻ lớn, mẻ lớn♪
+おまたー、にゃ！　見張り、ありがとうにゃ！=Hẹn gặp lại sau~nya! Cảm ơn vì đã canh gác~nya!
+その担いでいる大きな風呂敷は……？=Cái túi vải to mà mày đang mang đó là gì vậy...?
+細かいことを気にしたらダメにゃ！=Đừng bận tâm chi tiết~nya!
+さ、もうここに用事はないにゃ。\n早く離れるにゃ。=Không còn việc gì để làm ở đây nữa~nya. Đi nhanh đi~nya.
+いつまでぼーっとしてるにゃ？\n早く逃げないと見つかるにゃ……っとと。=Mày còn đứng đực ra đến bao lâu~nya?\nNhanh lên và chạy đi không là bị bắt~nya...
+夜も遅くなってるし、早く帰らないと危ないにゃよ？\nにゃっ！=Trời đã khuya rồi, nguy hiểm nếu không về nhà sớm~nya? Nya-!
+おっと、分かれ道に来たのにゃ。\n今日はこれで……=Ối, chúng ta tới ngã ba rồi~nya. Chỉ tới đây thôi hôm nay...
+あ、忘れてたのにゃ。\n今日は付き合ってくれてありがとにゃ{playername}！\nこれはお礼にゃ！=Ồ, tao quên~nya.\nCảm ơn vì đã đi cùng tao hôm nay {playername}!\nĐây là quà cảm ơn~nya!
+あたしのバイトのまかないとしてもらった、\nたい焼きの詰め合わせにゃ！=Tao được chúng làm phần thưởng từ công việc bán thời gian, một bộ taiyaki~nya!
+すっごく美味しいにゃ！\nきっとキミも気に入ってくれると思うのにゃ。=Chúng thật sự ngon~nya! Tớ chắc chắn mày cũng sẽ thích~nya.
+それじゃあ、またにゃ！\n今日は本当にありがとにゃ～！=Vậy thì, hẹn gặp lại sau~nya! Cảm ơn rất nhiều vì hôm nay~nya!
+上機嫌なタマキを見送った{playername}。\nその翌日、ファントムキャッツが出たというニュースで\nランドソルは騒然となったのだった。={playername} quan sát Tamaki rời đi trong tâm trạng tốt. Ngày hôm sau, Landosol rối loạn với tin tức về sự xuất hiện của Phantom Cat.
 
 
 
-奇跡のような美少女に違いない。=She had to be a miraculously beautiful girl.
+奇跡のような美少女に違いない。=Cô ấy phải là một cô gái xinh đẹn một cách kỳ diệu.
 
 
 

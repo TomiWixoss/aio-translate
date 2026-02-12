@@ -1,18 +1,18 @@
 ##Profile##
-【物理】後衛で、攻撃と支援を担う聖夜のアーチャー。物理攻撃力と物理クリティカルアップスキルで周囲を強化し、クリティカルで威力が増大するＵＢで敵を粉砕する。=[Physical] A Christmas archer who is in charge of offense and support in the rearguard. She uses her physical attack and physical critical boost skills to strengthen her allies, then crushes enemies with her critical and powerful UB.
+【物理】後衛で、攻撃と支援を担う聖夜のアーチャー。物理攻撃力と物理クリティカルアップスキルで周囲を強化し、クリティカルで威力が増大するＵＢで敵を粉砕する。=[Vật lý] Một cung thủ Giáng sinh đảm nhận tấn công và hỗ trợ ở hậu quân. Cô sử dụng kỹ năng tăng tấn công vật lý và tỷ lệ chí mạng vật lý để củng cố đồng minh, sau đó đè bẹp kẻ địch với UB chí mạng và mạnh mẽ.
 
 ##UB##
 クリスマススターダスト=Christmas Stardust
-自分の物理クリティカルを大アップし、前方範囲内の敵すべてに物理大ダメージを与える。このスキルがクリティカルした場合のダメージは、２倍ではなく３倍になる。=Greatly boosts own P.CRIT Rate and deals large P.DMG to enemies in range. If this skill hits a critical hit, the damage will be tripled.
-r:"^範囲内の敵に(\d+)の物理ダメージ自分の物理クリティカルを(\d+)アップ$"=►Deals $1 to enemies in range.\n►Boosts own P.CRIT Rate by $2 for 180s.
+自分の物理クリティカルを大アップし、前方範囲内の敵すべてに物理大ダメージを与える。このスキルがクリティカルした場合のダメージは、２倍ではなく３倍になる。=Tăng rất nhiều tỷ lệ chí mạng vật lý của bản thân và gây sát thương vật lý lớn cho kẻ địch trong phạm vi. Nếu kỹ năng này gây chí mạng, sát thương sẽ được nhân ba.
+r:"^範囲内の敵に(\d+)の物理ダメージ自分の物理クリティカルを(\d+)アップ$"=►Gây $1 sát thương cho kẻ địch trong phạm vi.\n►Tăng tỷ lệ chí mạng vật lý của bản thân lên $2 trong 180s.
 
 ##S1##
 ブレッシングリース=Blessing Wreath
-自分を中心とした範囲内の味方すべての物理攻撃力と物理クリティカルを中アップする。=Moderately boosts allies' P.ATK and P.CRIT Rate in range around oneself.
+自分を中心とした範囲内の味方すべての物理攻撃力と物理クリティカルを中アップする。=Tăng vừa phải tấn công vật lý và tỷ lệ chí mạng vật lý của đồng minh trong phạm vi xung quanh bản thân.
 
 ##S2##
 ジングルアロー=Jingle Arrow
-前方範囲内の敵すべてに物理小ダメージを与え、さらに物理防御力を小ダウンさせる。範囲内の敵の数に応じて、防御力の減少量が最大４倍までアップする。このスキルがクリティカルした場合のダメージは、２倍ではなく３倍になる。=Deals small P.DMG to enemies in range, and slightly lowers their P.DEF. The lowered P.DEF increases according to number of enemies, up to 4 times. If this skill hits a critical hit, the damage will be tripled.
+前方範囲内の敵すべてに物理小ダメージを与え、さらに物理防御力を小ダウンさせる。範囲内の敵の数に応じて、防御力の減少量が最大４倍までアップする。このスキルがクリティカルした場合のダメージは、２倍ではなく３倍になる。=Gây sát thương vật lý nhỏ cho kẻ địch trong phạm vi và giảm nhẹ phòng thủ vật lý của chúng. Lượng phòng thủ vật lý bị giảm tăng theo số lượng kẻ địch, tối đa 4 lần. Nếu kỹ năng này gây chí mạng, sát thương sẽ được nhân ba.
 
 ##EX##
 クリスマスアプローチ=Christmas Approach
@@ -20,8 +20,8 @@ r:"^範囲内の敵に(\d+)の物理ダメージ自分の物理クリティカ�
 
 ##S1+##
 ブレッシングリース+=Blessing Wreath+
-自分を中心とした範囲内の味方すべてのＨＰを小回復するフィールドを展開し、自分を中心とした範囲内の味方すべての物理攻撃力を特大アップさせ、物理クリティカルを中アップする。=Deploys a field that slightly recovers allies' HP in range of oneself. Greatly boosts allies' P.ATK in range, and boosts their P.CRIT Rate by a moderate amount.
-r:"^範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理クリティカルを70アップ毎秒ＨＰを(\d+)回復するフィールドを展開する$"=►Boosts allies' P.ATK in 150 range by $1 for 180s.\n►Boosts allies' P.CRIT Rate in 150 range by 70 for 180s.\n►Deploys a 260 radius field that recovers allies' HP by $2/s for 8.5s.
+自分を中心とした範囲内の味方すべてのＨＰを小回復するフィールドを展開し、自分を中心とした範囲内の味方すべての物理攻撃力を特大アップさせ、物理クリティカルを中アップする。=Triển khai một vùng hiệu quả nhẹ nhàng hồi HP cho đồng minh trong phạm vi xung quanh bản thân. Tăng rất nhiều tấn công vật lý của đồng minh trong phạm vi và tăng tỷ lệ chí mạng vật lý của họ một lượng vừa phải.
+r:"^範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理クリティカルを70アップ毎秒ＨＰを(\d+)回復するフィールドを展開する$"=►Tăng tấn công vật lý của đồng minh trong phạm vi 150 lên $1 trong 180s.\n►Tăng tỷ lệ chí mạng vật lý của đồng minh trong phạm vi 150 lên 70 trong 180s.\n►Triển khai vùng hiệu quả bán kính 260 hồi HP của đồng minh lên $2/s trong 8.5s.
 
 ##UE##
 ノエルブレッシングボウ=Noel Blessing Bow

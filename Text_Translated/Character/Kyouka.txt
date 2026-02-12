@@ -1,46 +1,46 @@
 ##Profile##
 ョウカ=Kyouka
-お勉強=Studying
-礼儀正しくしっかり者のちびっ子優等生=A Polite, level-headed young honor student
+お勉強=Học Tập
+礼儀正しくしっかり者のちびっ子優等生=Một học sinh gương mẫu, lịch thiệp và thận trọng
 
-【魔法】後衛から強力な魔法で攻撃するちびっこ優等生。スキルで魔法攻撃力を瞬間的に高めた後に放つユニオンバーストは敵単体への威力抜群。=[Magic] A tiny honor student who casts fierce spells from the rearguard. Using her Cosmo Blue Flash right after she briefly boosts her magic attack with skills is a great way to destroy single targets.
+【魔法】後衛から強力な魔法で攻撃するちびっこ優等生。スキルで魔法攻撃力を瞬間的に高めた後に放つユニオンバーストは敵単体への威力抜群。=[Ma Thuật] Một học sinh gương mẫu nhỏ bé phóng các phép thuật mãnh liệt từ hàng sau. Dùng kỹ năng Cosmo Blue Flash ngay sau khi tăng tấn công ma thuật là cách tuyệt vời để tiêu diệt mục tiêu đơn.
 
-赤面フォトフレーム=Blush Photo Frame
-子供と大人の真ん中で=In Between Children and Adult
-うれしはずかし授業参観=Visiting the Class
-ワクワク身体測定=Exciting Body Measurement
-お買いものハプニング=Shopping Calamity
-大人の女性になりたいな=Dreams of Adulthood
-ピーマン克服特訓！=Perfect Pepper Plan!
-初めての○○○=My Very First...
-宿題お手伝い=Homework Helper
-逆上がり特訓！=The Path of Gymnast
-かくれんぼの助っ人=Hide-and-Seeker
-へんたいふしんしゃさん=A Very Suspicious Creep
+赤面フォトフレーム=Khung Ảnh Bẽn Lẽn
+子供と大人の真ん中で=Giữa Trẻ Con và Người Lớn
+うれしはずかし授業参観=Thăm Lớp Học
+ワクワク身体測定=Đo Cân Thân Thể Hưng Phấn
+お買いものハプニング=Thảm Họa Mua Sắm
+大人の女性になりたいな=Giấc Mơ Trưởng Thành
+ピーマン克服特訓！=Kế Hoạch Ớt Hoàn Hảo!
+初めての○○○=Lần Đầu Tiên Của Em...
+宿題お手伝い=Trợ Giảng Bài Tập
+逆上がり特訓！=Con Đường Của Vận Động Viên Thể Dục
+かくれんぼの助っ人=Kẻ Trốn Tìm
+へんたいふしんしゃさん=Một Kẻ Đáng Nghi Ngờ Rất Đáng Sợ
 
 ##UB##
 コスモブルーフラッシュ=Cosmo Blue Flash
-目の前の敵１キャラに魔法大ダメージを与える。このスキルがクリティカルした場合のダメージは、２倍ではなく４倍になる。=Deals large M.DMG to an enemy directly in front. When critical occurs deals x4 damage instead x2.
+目の前の敵１キャラに魔法大ダメージを与える。このスキルがクリティカルした場合のダメージは、２倍ではなく４倍になる。=Gây sát thương phép lớn trực tiếp trước mặt kẻ địch. Khi chí mạng, sát thương nhân 4 thay vì nhân 2.
 
 ##S1##
-アイスランス=Ice Lance
-目の前の敵１キャラに魔法特大ダメージを与える。=Deals massive M.DMG to an enemy directly in front.
+アイスランス=Giáo Xuyên Băng
+目の前の敵１キャラに魔法特大ダメージを与える。=Gây sát thương phép khổng lồ trực tiếp trước mặt kẻ địch.
 
 ##S2##
-マジックブースト=Magic Surge
-自分の魔法攻撃力を短時間大アップさせる。=Large boost to own M.ATK for brief period (9s).
+マジックブースト=Sóng Ma Thuật
+自分の魔法攻撃力を短時間大アップさせる。=Tăng lớn M.ATK của bản thân trong thời gian ngắn (9s).
 
 ##EX##
-小さな勇気=Pinch of Bravery
-小さな勇気+=Pinch of Bravery+
+小さな勇気=Một Chút Dũng Khí
+小さな勇気+=Một Chút Dũng Khí+
 
 ##UB+##
 コスモブループラネット=Cosmo Blue Planet
-目の前の敵１キャラに魔法大ダメージを与える。このスキルがクリティカルした場合のダメージは、２倍ではなく４倍になる。=Deals large M.DMG to an enemy directly in front. When critical occurs deals x4 damage instead x2.
+目の前の敵１キャラに魔法大ダメージを与える。このスキルがクリティカルした場合のダメージは、２倍ではなく４倍になる。=Gây sát thương phép lớn trực tiếp trước mặt kẻ địch. Khi chí mạng, sát thương nhân 4 thay vì nhân 2.
 
 ##S1+##
-アイスランス+=Ice Lance+
-目の前の敵１キャラに魔法特大ダメージを与える。このスキルがクリティカルした場合のダメージは、２倍ではなく４倍になる。=Deals massive M.DMG to an enemy directly in front. When critical occurs deals x4 damage instead x2.
+アイスランス+=Giáo Xuyên Băng+
+目の前の敵１キャラに魔法特大ダメージを与える。このスキルがクリティカルした場合のダメージは、２倍ではなく４倍になる。=Gây sát thương phép khổng lồ trực tiếp trước mặt kẻ địch. Khi chí mạng, sát thương nhân 4 thay vì nhân 2.
 
 ##UE##
-コスモブルーロッド=Cosmo Blue Rod
+コスモブルーロッド=Gậy Cosmo Blue

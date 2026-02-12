@@ -1,30 +1,30 @@
 ##Profile##
-さまよえる謎の少女=A young wanderer with a mysterious past
+さまよえる謎の少女=Một người lữ khách trẻ với quá khứ bí ẩn
 
-【物理】前衛で、伝説の剣「天楼覇断剣」を振るう少女。\n小技を駆使する通常の戦闘スタイルから一転、ユニオン\nバースト後は「天楼覇断剣」を携え、敵を薙ぎ払う。=[Physical] A headstrong waif who deals out punishment from the vanguard with her legendary sword. When she equips the Spiresbane Blade following her Union Burst, she shifts her fighting style from more technical skills to an all-out offensive rush.
+【物理】前衛で、伝説の剣「天楼覇断剣」を振るう少女。\n小技を駆使する通常の戦闘スタイルから一転、ユニオン\nバースト後は「天楼覇断剣」を携え、敵を薙ぎ払う。=[Vật lý] Một cô gái kiên quyết trừng phạt từ tuyến đầu với thanh kiếm huyền thoại của mình. Khi cô trang bị thanh Spiresbane Blade sau Union Burst, cô chuyển phong cách chiến đấu từ kỹ năng kỹ thuật sang một cuộc xung kích toàn diện.
 
 ##UB##
 天楼覇断剣=Spiresbane Blade
-目の前の敵１キャラに物理特大ダメージを与える。さらにＴＰが無くなるまでの間天楼覇断剣を装備する。=Deals massive P.DMG to an enemy directly in front. Equips the Spiresbane Blade until TP is fully depleted.\nChanges her Skills' Effects until her TP is Depleted (100 TP/s) and changes her rotation into Loop Rotation (UB).\nChanges her Skills' Effects back after TP reaches 0.\n(UB Does Not Cost Any TP)
+目の前の敵１キャラに物理特大ダメージを与える。さらにＴＰが無くなるまでの間天楼覇断剣を装備する。=Gây sát thương vật lý lớn lên kẻ địch phía trước trực tiếp. Trang bị Spiresbane Blade cho đến khi TP cạn kiệt.\nThay đổi Hiệu quả Kỹ năng cho đến khi TP cạn (100 TP/s) và thay đổi vòng xoay thành Vòng xoay Lặp (UB).\nKhôi phục Hiệu quả Kỹ năng sau khi TP về 0.\n(UB Không Tốn TP)
 
 ##S1##
 ビビらせてやる！=Feeling Scared Yet?!
-前方範囲内の敵すべてに物理小ダメージを与え、さらにスタンさせて小さく吹き飛ばす。=Deals small P.DMG to all enemies in range, inflicts Stun, and knocks them back slightly.
-r:"^斬撃で範囲内の敵に(\d+)の物理ダメージ蹴りで範囲内の敵に(\d+)の物理ダメージ範囲内の敵を一定時間行動不能にする$"=Cast time: 0.34s\n►Deals $1 P.DMG to enemies in range.\n►Deals $2 P.DMG to enemies in range.\n►Inflicts Stun on targets damaged by act 1 for 1.5s.\n►Knock targets damaged by act 2.
+前方範囲内の敵すべてに物理小ダメージを与え、さらにスタンさせて小さく吹き飛ばす。=Gây sát thương vật lý nhỏ lên tất cả kẻ địch trong phạm vi, gây choáng, và đẩy lùi chúng một chút.
+r:"^斬撃で範囲内の敵に(\d+)の物理ダメージ蹴りで範囲内の敵に(\d+)の物理ダメージ範囲内の敵を一定時間行動不能にする$"=Thời gian niệm: 0.34s\n►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi.\n►Gây $2 sát thương vật lý lên kẻ địch trong phạm vi.\n►Gây choáng trên mục tiêu bị act 1 gây sát thương trong 1.5s.\n►Đẩy lùi mục tiêu bị act 2 gây sát thương.
 
 ##S2##
 こっちだこっち！=Right This Way!
-前方範囲内の敵すべての物理防御力を小ダウンさせる。=Lowers the P.DEF of all enemies within range by a small amount.
-r:"^範囲内の敵の物理防御力を(\d+)ダウン$"=►Lowers enemies' P.DEF in range by $1.
+前方範囲内の敵すべての物理防御力を小ダウンさせる。=Giảm P.DEF của tất cả kẻ địch trong phạm vi một lượng nhỏ.
+r:"^範囲内の敵の物理防御力を(\d+)ダウン$"=►Giảm P.DEF của kẻ địch trong phạm vi lên $1.
 
 ##SP1##
-装備中=In the equipment
-このスキルのスキルレベルは「天楼覇断剣」と連動しています=This skill's level is linked to "Spiresbane Blade"
+装備中=Trong trang bị
+このスキルのスキルレベルは「天楼覇断剣」と連動しています=Cấp độ kỹ năng này được liên kết với "Spiresbane Blade"
 天楼廻刃斬=Spiresplitter Sweep
 
 ##SP2##
 天楼閃薙斬=Spirespin Slice
-自分を中心とした範囲内の敵すべてに物理大ダメージを与える。=Inflicts great P.DMG to all enemies within range around you.
+自分を中心とした範囲内の敵すべてに物理大ダメージを与える。=Gây sát thương vật lý lớn lên tất cả kẻ địch trong phạm vi xung quanh bạn.
 
 ##EX##
 ポテンシャルフォース=Potential Force
@@ -32,12 +32,12 @@ r:"^範囲内の敵の物理防御力を(\d+)ダウン$"=►Lowers enemies' P.DE
 
 ##UB+##
 真破・天楼覇断剣=True Destruction: Spiresbane Blade
-前方の敵すべてに物理特大ダメージを与える。ＴＰが無くなるまでの間、真破・天楼覇断剣を装備し、装備中にスキルを使用する際、追加の物理大ダメージを与える。さらにバトル終了まで自分が敵から受ける行動不能を無効化する。=Deals massive P.DMG to all enemies in front. While TP remains, equip the "True Destruction: Spiresbane Blade" and when using skills while equipped, deal additional massive P.DMG. Additionally, nullify any Crowd Control inflicted on oneself by enemies until the end of the battle.
-r:"^範囲内の敵に(\d+)の物理ダメージ自分が敵から受ける行動不能を無効化する$"=►Deals $1 P.DMG to enemies in range.\n►Switch to Attack Pattern 2 until 0 TP.\n►Nullifies immobility effects on self.\n►Consumes 100 TP/s.
+前方の敵すべてに物理特大ダメージを与える。ＴＰが無くなるまでの間、真破・天楼覇断剣を装備し、装備中にスキルを使用する際、追加の物理大ダメージを与える。さらにバトル終了まで自分が敵から受ける行動不能を無効化する。=Gây sát thương vật lý lớn lên tất cả kẻ địch phía trước. Trong khi TP còn lại, trang bị "True Destruction: Spiresbane Blade" và khi sử dụng kỹ năng khi đã trang bị, gây thêm sát thương vật lý lớn. Ngoài ra, vô hiệu hóa mọi Kiểm soát Đám đông (Crowd Control) bị áp dụng lên bản thân bởi kẻ địch cho đến hết trận.
+r:"^範囲内の敵に(\d+)の物理ダメージ自分が敵から受ける行動不能を無効化する$"=►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi.\n►Chuyển sang Mẫu Tấn công 2 cho đến khi TP về 0.\n►Vô hiệu hóa hiệu ứng vô hiệu hóa di chuyển trên bản thân.\n►Tiêu thụ 100 TP/s.
 
 ##S1+##
 ビビらせてやる！+=Feeling Scared Yet?!+
-前方範囲内の敵すべてに物理中ダメージを与え、さらにスタンさせて小さく吹き飛ばす。=Deals moderate P.DMG to all enemies in range, inflicts Stun, and knocks them back slightly.
+前方範囲内の敵すべてに物理中ダメージを与え、さらにスタンさせて小さく吹き飛ばす。=Gây sát thương vật lý vừa phải lên tất cả kẻ địch trong phạm vi, gây choáng, và đẩy lùi chúng một chút.
 
 ##SP1+##
 天楼廻刃斬+=Spiresplitter Sweep+

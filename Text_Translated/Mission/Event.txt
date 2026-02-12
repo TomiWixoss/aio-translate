@@ -1,68 +1,68 @@
 ---Task Quest---
 ボス=Boss
 SPECIALのボス=Special Boss
-エキシビジョン+解放=Exhibition+ Unlocked
-ミッションレベルが対象外になった場合、達成することはできません。=If the mission level is not covered, it can not be achieved.
-SPECIALかEXHIBITIONでボスを5回以内に討伐しよう=Clear the Special or Exhibition mode within 5 or less attempts.
-SPECIALかEXHIBITIONのバトルでボスを5回以内に討伐しよう=Clear the Special or Exhibition mode within 5 or less attempts.
-[FFFFFF]SPECIALかEXHIBITIONでボスを5回以内に討伐しよう[-]=[FFFFFF]Clear the Special or Exhibition mode within 5 or less attempts.[-]
-[FFFFFF]SPECIALかEXHIBITIONのバトルでボスを5回以内に討伐しよう[-]=[FFFFFF]Clear the Special or Exhibition mode within 5 or less attempts.[-]
+エキシビジョン+解放=Exhibition+ Đã mở khóa
+ミッションレベルが対象外になった場合、達成することはできません。=Nếu nhiệm vụ chưa đủ cấp, không thể hoàn thành.
+SPECIALかEXHIBITIONでボスを5回以内に討伐しよう=Hoàn thành chế độ Special hoặc Exhibition trong vòng 5 lần thử hoặc ít hơn.
+SPECIALかEXHIBITIONのバトルでボスを5回以内に討伐しよう=Hoàn thành chế độ Special hoặc Exhibition trong vòng 5 lần thử hoặc ít hơn.
+[FFFFFF]SPECIALかEXHIBITIONでボスを5回以内に討伐しよう[-]=[FFFFFF]Hoàn thành chế độ Special hoặc Exhibition trong vòng 5 lần thử hoặc ít hơn.[-]
+[FFFFFF]SPECIALかEXHIBITIONのバトルでボスを5回以内に討伐しよう[-]=[FFFFFF]Hoàn thành chế độ Special hoặc Exhibition trong vòng 5 lần thử hoặc ít hơn.[-]
 
-[3C404E]MODE2のお供のモンスターを全て倒そう[-]=[3C404E]Defeat all monsters on MODE 2.[-]
-sr:"^(\[[0-9A-F]{6}\])?スペシャルかエキシビションのバトルで(.+)を(\d)回以内に討伐しよう(\[-\])?$"=$1Defeat the $2 within $3 attempts in SP or Exhibition Battles.$4
+[3C404E]MODE2のお供のモンスターを全て倒そう[-]=[3C404E]Đánh bại tất cả quái vật ở MODE 2.[-]
+sr:"^(\[[0-9A-F]{6}\])?スペシャルかエキシビションのバトルで(.+)を(\d)回以内に討伐しよう(\[-\])?$"=$1Đánh bại $2 trong vòng $3 lần thử ở trận đấu SP hoặc Exhibition.$4
 
-EXHIBITION＋でボスを5回以内に討伐しよう=Clear the Exhibition＋ within 5 attempts.
-[FFFFFF]EXHIBITION＋でボスを5回以内に討伐しよう[-]=[FFFFFF]Clear the Exhibition＋ within 5 attempts.[-]
+EXHIBITION＋でボスを5回以内に討伐しよう=Hoàn thành Exhibition+ trong vòng 5 lần thử.
+[FFFFFF]EXHIBITION＋でボスを5回以内に討伐しよう[-]=[FFFFFF]Hoàn thành Exhibition+ trong vòng 5 lần thử.[-]
 
-【前編】ボスに1回挑戦しよう=[Part 1] Challenge the boss once
-【後編】ボスに1回挑戦しよう=[Part 1] Challenge the boss once
-ボスに1回挑戦しよう=Challenge the boss once
+【前編】ボスに1回挑戦しよう=[Phần 1] Thử thách boss một lần
+【後編】ボスに1回挑戦しよう=[Phần 1] Thử thách boss một lần
+ボスに1回挑戦しよう=Thử thách boss một lần
 
-sr:"^(\[[0-9A-F]{6}\])?(.+)を(\d+)体倒そう ?(?:（|\()EX(?:・EX\＋)?を除く(?:）|\)) ?(\[-\])?$"="$1Defeat $2 $3 times (Excluding EX and EX+).$4"
+sr:"^(\[[0-9A-F]{6}\])?(.+)を(\d+)体倒そう ?(?:（|\()EX(?:・EX\＋)?を除く(?:）|\)) ?(\[-\])?$"="$1Đánh bại $2 $3 lần (không bao gồm EX và EX+).$4"
 
-sr:"^(\[[0-9A-F]{6}\])?(スペシャルバトルの)?(.+)を討伐しよう(\[-\])?$"=$1Defeat $3.$4
-sr:"^(\[[0-9A-F]{6}\])?(スペシャルバトルの)?(.+)のHPを([0-9,]+)まで減らそう(\[-\])?$"="$1Reduce $3's HP to $4.$5"
-r:"^(\[[0-9A-F]{6}\])?討伐証交換の報酬ラインナップを(\d)回リセットしよう(\[-\])?$"=$1Reset the reward lineup of subjugation exchange $2 Time.$3
-r:"^(\[[0-9A-F]{6}\])?スペシャルバトルのMODE(\d)をクリアしよう(\[-\])?$"=$1 Clear Special Battles MODE $2.$3
-sr:"^(\[[0-9A-F]{6}\])?(.+)のMODE(\d)をクリアしよう(\[-\])?$"=$1 Clear $2 Mode$3$4
-r:"^(\[[0-9A-F]{6}\])?MODE(\d)のお供のモンスターを全て倒そう(\[-\])?$"=$1Defeat all companion monsters on MODE $2.$3
-r:"^(\[[0-9A-F]{6}\])?スペシャルバトルのボスのHPを(\d+)まで減らそう(\[-\])?$"="$1Reduce Sp Boss's HP to $2.$3"
-sr:"^(\[[0-9A-F]{6}\])?(.+)に1回挑戦しよう（全難易度共通） (\[-\])?$"="$1Battle $2 once (Any Difficulty).$3"
-sr:"^(\[[0-9A-F]{6}\])?(.+)に1回挑戦しよう（EX(?:・EX＋)?を除く） ?(\[-\])?$"="$1Battle $2 once (Excluding EX and EX+).$3"
-sr:"^(\[[0-9A-F]{6}\])?(.+)を(\d+)体倒そう（全難易度共通）(\[-\])?$"="$1Defeat $2 $3 times (Any Difficulty).$4"
-sr:"^(\[[0-9A-F]{6}\])?(.+)を(\d+)体倒そう \(全難易度共通\)(\[-\])?$"="$1Defeat $2 $3 times (Any Difficulty).$4"
-sr:"^(\[[0-9A-F]{6}\])?(.+)を1体倒そう ?\((.+)?限定\)(\[-\])?$"="$1Clear $2 ($3 Limited) once.$4"
-sr:"^(\[[0-9A-F]{6}\])?(.+)を1体倒そう ?（(.+)?限定）(\[-\])?$"="$1Clear $2 ($3 Limited) once.$4"
-sr:"^(\[[0-9A-F]{6}\])?(.+)を(\d+)体倒そう(\[-\])?$"="$1Defeat $3 $2.$4"
+sr:"^(\[[0-9A-F]{6}\])?(スペシャルバトルの)?(.+)を討伐しよう(\[-\])?$"=$1Đánh bại $3.$4
+sr:"^(\[[0-9A-F]{6}\])?(スペシャルバトルの)?(.+)のHPを([0-9,]+)まで減らそう(\[-\])?$"="$1Giảm HP của $3 xuống $4.$5"
+r:"^(\[[0-9A-F]{6}\])?討伐証交換の報酬ラインナップを(\d)回リセットしよう(\[-\])?$"=$1Đặt lại danh sách phần thưởng của trao đổi chinh phạt $2 lần.$3
+r:"^(\[[0-9A-F]{6}\])?スペシャルバトルのMODE(\d)をクリアしよう(\[-\])?$"=$1 Hoàn thành trận đấu đặc biệt MODE $2.$3
+sr:"^(\[[0-9A-F]{6}\])?(.+)のMODE(\d)をクリアしよう(\[-\])?$"=$1 Hoàn thành $2 Mode$3$4
+r:"^(\[[0-9A-F]{6}\])?MODE(\d)のお供のモンスターを全て倒そう(\[-\])?$"=$1Đánh bại tất cả quái vật đồng hành ở MODE $2.$3
+r:"^(\[[0-9A-F]{6}\])?スペシャルバトルのボスのHPを(\d+)まで減らそう(\[-\])?$"="$1Giảm HP của Boss đặc biệt xuống $2.$3"
+sr:"^(\[[0-9A-F]{6}\])?(.+)に1回挑戦しよう（全難易度共通） (\[-\])?$"="$1Chiến đấu với $2 một lần (bất kỳ độ khó nào).$3"
+sr:"^(\[[0-9A-F]{6}\])?(.+)に1回挑戦しよう（EX(?:・EX＋)?を除く） ?(\[-\])?$"="$1Chiến đấu với $2 một lần (không bao gồm EX và EX+).$3"
+sr:"^(\[[0-9A-F]{6}\])?(.+)を(\d+)体倒そう（全難易度共通）(\[-\])?$"="$1Đánh bại $2 $3 lần (bất kỳ độ khó nào).$4"
+sr:"^(\[[0-9A-F]{6}\])?(.+)を(\d+)体倒そう \(全難易度共通\)(\[-\])?$"="$1Đánh bại $2 $3 lần (bất kỳ độ khó nào).$4"
+sr:"^(\[[0-9A-F]{6}\])?(.+)を1体倒そう ?\((.+)?限定\)(\[-\])?$"="$1Hoàn thành $2 (giới hạn $3) một lần.$4"
+sr:"^(\[[0-9A-F]{6}\])?(.+)を1体倒そう ?（(.+)?限定）(\[-\])?$"="$1Hoàn thành $2 (giới hạn $3) một lần.$4"
+sr:"^(\[[0-9A-F]{6}\])?(.+)を(\d+)体倒そう(\[-\])?$"="$1Đánh bại $3 $2.$4"
 
-sr:"^(\[[0-9A-F]{6}\])?(.+)のシャドウを倒そう(\[-\])?$"=$1Defeat the shadow of the $2.$3
+sr:"^(\[[0-9A-F]{6}\])?(.+)のシャドウを倒そう(\[-\])?$"=$1Đánh bại bóng ma của $2.$3
 
-sr:"^(.+)を(\d)体倒そう　（(.+)限定）$"="Clear $1 ($3 Limited) $2 time."
+sr:"^(.+)を(\d)体倒そう　（(.+)限定）$"="Hoàn thành $1 (giới hạn $3) $2 lần."
 
 
 
-r:"^(\[[0-9A-F]{6}\])?イベント前編クエスト([ A-Za-z\-0-9]+)をクリアしよう(\[-\])?$"=$1Clear Event Part 1 Quest$2$3
-r:"^(\[[0-9A-F]{6}\])?イベント後編クエスト([ A-Za-z\-0-9]+)をクリアしよう(\[-\])?$"=$1Clear Event Part 2 Quest$2$3
+r:"^(\[[0-9A-F]{6}\])?イベント前編クエスト([ A-Za-z\-0-9]+)をクリアしよう(\[-\])?$"=$1Hoàn thành Phần 1 Nhiệm vụ Sự kiện$2$3
+r:"^(\[[0-9A-F]{6}\])?イベント後編クエスト([ A-Za-z\-0-9]+)をクリアしよう(\[-\])?$"=$1Hoàn thành Phần 2 Nhiệm vụ Sự kiện$2$3
 
-イベントストーリー オープニングを閲覧しよう=View the Event Story Opening
-r:"^イベントストーリー 第(\d)話を閲覧しよう$"=Event Story: viewing Episode $1
-r:"^第(\d)話を閲覧で解放$"=Unlock by viewing Episode $1
+イベントストーリー オープニングを閲覧しよう=Xem mở đầu Câu chuyện Sự kiện
+r:"^イベントストーリー 第(\d)話を閲覧しよう$"=Câu chuyện Sự kiện: xem Tập $1
+r:"^第(\d)話を閲覧で解放$"=Mở khóa bằng cách xem Tập $1
 
-イベントクエストを1回クリアしよう=Clear 1 time Event Quest
+イベントクエストを1回クリアしよう=Hoàn thành 1 lần Nhiệm vụ Sự kiện
 
-ボスバトル（SPECIAL）をクリアしよう=Clear boss battle (SPECIAL)
-前編ボスバトル（SPECIAL）をクリアしよう=Clear Part 1 boss battle (SPECIAL)
-前編ボスバトル（SPECIAL）を挑戦回数5回以内でクリアしよう=Clear Part 1 boss battle (SPECIAL) within 5 challenges
-前編ボスバトル（SPECIAL＋）を挑戦回数5回以内でクリアしよう=Clear Part 1 boss battle (SPECIAL+) within 5 challenges
-後編ボスバトル（SPECIAL）をクリアしよう=Clear Part 2 boss battle (SPECIAL)
-後編ボスバトル（SPECIAL）を挑戦回数5回以内でクリアしよう=Clear Part 2 boss battle (SPECIAL) within 5 challenges
-後編ボスバトル（SPECIAL＋）を挑戦回数5回以内でクリアしよう=Clear Part 2 boss battle (SPECIAL+) within 5 challenges
-ボスバトル（SPECIAL）を挑戦回数5回以内でクリアしよう=Clear boss battle (SPECIAL) within 5 challenges
-ボスバトル（SPECIAL＋）を挑戦回数5回以内でクリアしよう=Clear boss battle (SPECIAL+) within 5 challenges
+ボスバトル（SPECIAL）をクリアしよう=Hoàn thành trận đấu boss (ĐẶC BIỆT)
+前編ボスバトル（SPECIAL）をクリアしよう=Hoàn thành trận đấu boss Phần 1 (ĐẶC BIỆT)
+前編ボスバトル（SPECIAL）を挑戦回数5回以内でクリアしよう=Hoàn thành trận đấu boss Phần 1 (ĐẶC BIỆT) trong 5 lần thử
+前編ボスバトル（SPECIAL＋）を挑戦回数5回以内でクリアしよう=Hoàn thành trận đấu boss Phần 1 (ĐẶC BIỆT+) trong 5 lần thử
+後編ボスバトル（SPECIAL）をクリアしよう=Hoàn thành trận đấu boss Phần 2 (ĐẶC BIỆT)
+後編ボスバトル（SPECIAL）を挑戦回数5回以内でクリアしよう=Hoàn thành trận đấu boss Phần 2 (ĐẶC BIỆT) trong 5 lần thử
+後編ボスバトル（SPECIAL＋）を挑戦回数5回以内でクリアしよう=Hoàn thành trận đấu boss Phần 2 (ĐẶC BIỆT+) trong 5 lần thử
+ボスバトル（SPECIAL）を挑戦回数5回以内でクリアしよう=Hoàn thành trận đấu boss (ĐẶC BIỆT) trong 5 lần thử
+ボスバトル（SPECIAL＋）を挑戦回数5回以内でクリアしよう=Hoàn thành trận đấu boss (ĐẶC BIỆT+) trong 5 lần thử
 
 
 
 
 ---Tittle---
 
-sr:"^(\[[0-9A-F]{6}\])?(.+)を()体倒そう（([\w ]+)限定）(\[-\])?$"="$1Defeat $2 once ($3)."
+sr:"^(\[[0-9A-F]{6}\])?(.+)を()体倒そう（([\w ]+)限定）(\[-\])?$"="$1Đánh bại $2 một lần ($3)."

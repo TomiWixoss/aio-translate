@@ -1,19 +1,19 @@
 ##Profile##
-【物理】前衛で水刃の加護を纏い水面を駆ける渚の剣士。クリティカル時のダメージを底上げしＵＢ発動の度、纏う【水刃の加護】で全スキルダメージを上げ、敵陣を穿つ。=[Physical] A frontline swordswoman who adorns the protection of water blades and traverses the water's surface. With each activation of UB, allies' P.CRIT Rate is enhanced, and enveloping "Water Blade's Blessing" raises the damage of all skills, piercing through enemy lines.
+【物理】前衛で水刃の加護を纏い水面を駆ける渚の剣士。クリティカル時のダメージを底上げしＵＢ発動の度、纏う【水刃の加護】で全スキルダメージを上げ、敵陣を穿つ。=[Vật lý] Một kiếm sĩ tiền tuyến trang trí bằng bảo vệ lưỡi kiếm nước và di chuyển trên mặt nước. Mỗi lần kích hoạt UB, tỷ lệ chí mạng vật lý của đồng đội được tăng cường, và 'Lời Chúc Lưỡi Kiếm Nước' bao trùm làm tăng sát thương mọi kỹ năng, xuyên thấu hàng ngũ kẻ địch.
 
 ##UB##
 サマーオーシャングレイス=Summer Ocean Grace
-目の前の敵１キャラに物理特大ダメージを与え、さらに自分に【水刃の加護】を７つ追加する。【水刃の加護】は最大10まで追加される。このスキルのダメージは、【水刃の加護】の数に応じて増加し、１ヒットは必ずクリティカルする。=Deals massive P.DMG to an enemy in front, and gains 7 [Water Blade's Blessing], up to a a maximum of 10. The P.DMG increases according to number of [Water Blade's Blessing], and each hit is guaranteed to be critical.
+目の前の敵１キャラに物理特大ダメージを与え、さらに自分に【水刃の加護】を７つ追加する。【水刃の加護】は最大10まで追加される。このスキルのダメージは、【水刃の加護】の数に応じて増加し、１ヒットは必ずクリティカルする。=Gây sát thương vật lý lớn cho kẻ địch phía trước, và nhận 7 [Lời Chúc Lưỡi Kiếm Nước], tối đa 10. Sát thương vật lý tăng theo số [Lời Chúc Lưỡi Kiếm Nước], và mỗi đòn đánh đều chắc chắn là chí mạng.
 
 ##S1##
 レイジングフラッド=Raging Flood
-自分の周囲の味方すべての物理攻撃力を特大アップさせ、目の前の敵１キャラに物理小ダメージを与える。このスキルの物理攻撃力の上昇量とダメージは、【水刃の加護】の数に応じて増加する。【水刃の加護】を１つ消費する。=Greatly boosts allies' P.ATK and P.CRIT Rate in range and deals small P.DMG to an enemy in front. The P.ATK boost and P.DMG dealt based on number of [Water Blade's Blessing]. Consumes 1 [Water Blade's Blessing].
-r:"^範囲内の味方の物理攻撃力を(\d+)アップ敵単体に(\d+)の物理ダメージ$"=►Boosts allies' P.ATK in range by $1 for 12s.\n►Deals $2 P.DMG to an enemy.
+自分の周囲の味方すべての物理攻撃力を特大アップさせ、目の前の敵１キャラに物理小ダメージを与える。このスキルの物理攻撃力の上昇量とダメージは、【水刃の加護】の数に応じて増加する。【水刃の加護】を１つ消費する。=Tăng mạnh tấn công vật lý và tỷ lệ chí mạng vật lý của đồng đội trong phạm vi và gây sát thương vật lý nhỏ cho kẻ địch phía trước. Mức tăng tấn công vật lý và sát thương gây ra phụ thuộc vào số [Lời Chúc Lưỡi Kiếm Nước]. Tiêu thụ 1 [Lời Chúc Lưỡi Kiếm Nước].
+r:"^範囲内の味方の物理攻撃力を(\d+)アップ敵単体に(\d+)の物理ダメージ$"=►Tăng tấn công vật lý của đồng đội trong phạm vi lên $1 trong 12s.\n►Gây $2 sát thương vật lý cho kẻ địch.
 
 ##S2##
 アズールショット=Azure Shot
-目の前の敵１キャラに物理中ダメージを与え、クリティカルを受けた際のダメージを小アップさせる。このスキルのダメージは、【水刃の加護】の数に応じて増加する。【水刃の加護】を１つ消費する。=Deals moderate P.DMG to an enemy in front and slightly boosts its P.CRIT DMG taken. The P.DMG dealt based on number of [Water Blade's Blessing]. Consumes 1 [Water Blade's Blessing].
-r:"^敵単体に(\d+)の物理ダメージ敵単体のクリティカルを受けた際のダメージを16％アップ$"=►Deals $1 P.DMG to an enemy.\n►Boosts an enemy's P.CRIT DMG taken by 16% for 12s\n►Consumes 1 [Water Blade's Blessing].
+目の前の敵１キャラに物理中ダメージを与え、クリティカルを受けた際のダメージを小アップさせる。このスキルのダメージは、【水刃の加護】の数に応じて増加する。【水刃の加護】を１つ消費する。=Gây sát thương vật lý vừa phải cho kẻ địch phía trước và tăng nhẹ sát thương chí mạng vật lý mà nó nhận. Sát thương vật lý gây ra phụ thuộc vào số [Lời Chúc Lưỡi Kiếm Nước]. Tiêu thụ 1 [Lời Chúc Lưỡi Kiếm Nước].
+r:"^敵単体に(\d+)の物理ダメージ敵単体のクリティカルを受けた際のダメージを16％アップ$"=►Gây $1 sát thương vật lý cho kẻ địch.\n►Tăng sát thương chí mạng vật lý mà kẻ địch nhận lên 16% trong 12s.\n►Tiêu thụ 1 [Lời Chúc Lưỡi Kiếm Nước].
 
 ##EX##
 アンリミットサマー=Unlimited Summer
@@ -21,8 +21,8 @@ r:"^敵単体に(\d+)の物理ダメージ敵単体のクリティカルを受�
 
 ##S1+##
 レイジングフラッド+=Raging Flood+
-自分の周囲の味方すべての物理攻撃力を特大アップ、物理クリティカルを大アップさせ、目の前の敵１キャラに物理大ダメージを与える。このスキルの物理攻撃力の上昇量とダメージは、【水刃の加護】の数に応じて増加する。さらに、自分のＴＰを中回復し、【水刃の加護】を１つ消費する。=Massively boosts allies' P.ATK and P.CRIT Rate in range and deals massive P.DMG to an enemy in front. The P.ATK boost and P.DMG dealt based on number of [Water Blade's Blessing]. Also, moderately recovers own TP and consumes 1 [Water Blade's Blessing].
-r:"^範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理クリティカルを(\d+)アップ敵単体に(\d+)の物理ダメージ自分のＴＰを175回復$"=►Boosts allies' P.ATK in range by $1 for 12s.\n►Boosts allies' P.CRIT Rate in range by $2 for 12s.\n►Deals $3 P.DMG to an enemy.\n►Recovers own TP by 175.\n►Consumes 1 [Water Blade's Blessing].
+自分の周囲の味方すべての物理攻撃力を特大アップ、物理クリティカルを大アップさせ、目の前の敵１キャラに物理大ダメージを与える。このスキルの物理攻撃力の上昇量とダメージは、【水刃の加護】の数に応じて増加する。さらに、自分のＴＰを中回復し、【水刃の加護】を１つ消費する。=Tăng cực mạnh tấn công vật lý và tỷ lệ chí mạng vật lý của đồng đội trong phạm vi và gây sát thương vật lý lớn cho kẻ địch phía trước. Mức tăng tấn công vật lý và sát thương gây ra phụ thuộc vào số [Lời Chúc Lưỡi Kiếm Nước]. Đồng thời, hồi phục vừa phải TP của bản thân và tiêu thụ 1 [Lời Chúc Lưỡi Kiếm Nước].
+r:"^範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理クリティカルを(\d+)アップ敵単体に(\d+)の物理ダメージ自分のＴＰを175回復$"=►Tăng tấn công vật lý của đồng đội trong phạm vi lên $1 trong 12s.\n►Tăng tỷ lệ chí mạng vật lý của đồng đội trong phạm vi lên $2 trong 12s.\n►Gây $3 sát thương vật lý cho kẻ địch.\n►Hồi phục 175 TP cho bản thân.\n►Tiêu thụ 1 [Lời Chúc Lưỡi Kiếm Nước].
 
 ##UE##
 トゥインクルサマーソード=Twinkle Summer Sword

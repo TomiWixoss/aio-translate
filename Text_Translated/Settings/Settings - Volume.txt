@@ -1,8 +1,8 @@
-音量=Volume\n(Sound)
+音量=Âm lượng\n(Âm thanh)
 
-各種音量とミュートの設定は、ムービーにも適応されます。=Volume and mute settings will also be applied to movies.
+各種音量とミュートの設定は、ムービーにも適応されます。=Cài đặt âm lượng và tắt âm cũng sẽ được áp dụng cho phim.
 
-※音量の初期設定値はすべて「7」です。=*All volume settings are at 7 by default.
+※音量の初期設定値はすべて「7」です。=*Tất cả cài đặt âm lượng mặc định là 7.
 
-効果音=SFX
-ボイス=Voice
+効果音=Hiệu ứng âm thanh
+ボイス=Giọng nói

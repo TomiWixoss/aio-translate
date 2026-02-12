@@ -1,24 +1,24 @@
 篠田みなみ=Shinoda Minami
-偉大にして優雅、時々ぴよぴよ=Great and graceful, sometimes piyopiyo
+偉大にして優雅、時々ぴよぴよ=Vĩ đại và duyên dáng, đôi khi piyopiyo
 ##Profile##
-【物理】中衛で、華麗に舞い踊る五色絢爛な煉華の鳳凰。攻撃力バフやバリア展開などの攻防支援と、多彩で豊富なＨＰ・ＴＰ供給を両立し、浄化の力で皆に安寧を授ける。=[Physical] A phoenix of refined splendor in the midline, dancing gracefully in five radiant colors. She balances offensive and defensive support with attack buffs and barrier deployment, along with a diverse and abundant supply of HP and TP, granting peace to all with her purifying power.
+【物理】中衛で、華麗に舞い踊る五色絢爛な煉華の鳳凰。攻撃力バフやバリア展開などの攻防支援と、多彩で豊富なＨＰ・ＴＰ供給を両立し、浄化の力で皆に安寧を授ける。=[Vật Lý] Một chú phượng hoàng rực rỡ tinh xảo ở trung tuyến, nhảy múa duyên dáng trong năm màu rực rỡ. Cô cân bằng giữa hỗ trợ tấn công và phòng thủ với buff tấn công và triển khai rào cản, cùng với nguồn cung cấp HP và TP đa dạng và phong phú, ban bình an cho tất cả với sức mạnh thanh tẩy của mình.
 
 ##UB##
-五色絢爛の浄炎=Prismatic Inferno of Purification
-物理攻撃を行う味方の物防、魔防中\nアップ、物魔吸収バリア展開、物\n理・魔法ダメージカット付与、物攻\n大アップ、物理クリダメ小アップ。\n目の前の敵１キャラに物理中ダメー\nジを与える。物攻の上昇量とダメー\nジ倍率は、自分を除く味方の残りＨ\nＰに応じて最大５倍までアップ。=Boosts P.DEF and M.DEF, grants P/M.DMG Cut, deploys a P/M absorb barrier, greatly boosts P.ATK, and slightly increases P.Crit DMG for allies using physical attacks. Deals moderate P.DMG to the frontmost enemy. P.ATK boost and damage scale up to 5x based on remaining HP of allies (excluding self).
-r:"^対象の味方の物理・魔法防御力を(\d+)アップ(\d+)ダメージ分の物魔吸収バリアを展開する対象の味方が受ける物理・魔法ダメージを(\d+％)カット対象の味方の物理攻撃力を(\d+)アップ対象の味方の物理クリダメを(\d+％)アップ敵単体に(\d+)の物理ダメージ$"=►Boosts P/M.DEF of allies with physical attacks by $1.\n►Deploys a Barrier that absorbs $2 P/M.DMG.\n►Grants $3 P/M.DMG Cut to those allies.\n►Boosts their P.ATK by $4.\n►Increases their P.Crit DMG by $5.\n►Deals $6 P.DMG to the frontmost enemy.\n►P.ATK boost and damage scale up to 5x based on remaining HP of allies (excluding self).
+五色絢爛の浄炎=Hỏa Ngục Ngũ Sắc Thanh Tẩy
+物理攻撃を行う味方の物防、魔防中\nアップ、物魔吸収バリア展開、物\n理・魔法ダメージカット付与、物攻\n大アップ、物理クリダメ小アップ。\n目の前の敵１キャラに物理中ダメー\nジを与える。物攻の上昇量とダメー\nジ倍率は、自分を除く味方の残りＨ\nＰに応じて最大５倍までアップ。=Tăng Phòng Thủ Vật Lý và Phòng Thủ Ma Thuật, tặng Cắt Sát Thương Vật Lý/Ma Thuật, triển khai rào cản hấp thụ Vật Lý/Ma Thuật, tăng cực lớn Tấn Công Vật Lý và tăng nhẹ Sát Thương Chí Mạng Vật Lý cho đồng minh sử dụng tấn công vật lý. Gây sát thương vật lý vừa phải lên kẻ địch phía trước nhất. Buff Tấn Công Vật Lý và sát thương sẽ tăng lên tối đa 5 lần dựa trên HP còn lại của đồng minh (không bao gồm bản thân).
+r:"^対象の味方の物理・魔法防御力を(\d+)アップ(\d+)ダメージ分の物魔吸収バリアを展開する対象の味方が受ける物理・魔法ダメージを(\d+％)カット対象の味方の物理攻撃力を(\d+)アップ対象の味方の物理クリダメを(\d+％)アップ敵単体に(\d+)の物理ダメージ$"=►Tăng Phòng Thủ Vật Lý/Ma Thuật cho đồng minh sử dụng tấn công vật lý bằng $1.\n►Triển khai Rào Cản hấp thụ $2 sát thương Vật Lý/Ma Thuật.\n►Tặng $3 Cắt Sát Thương Vật Lý/Ma Thuật cho những đồng minh đó.\n►Tăng Tấn Công Vật Lý của họ bằng $4.\n►Tăng Sát Thương Chí Mạng Vật Lý của họ bằng $5.\n►Gây $6 sát thương vật lý lên kẻ địch phía trước nhất.\n►Buff Tấn Công Vật Lý và sát thương sẽ tăng lên tối đa 5 lần dựa trên HP còn lại của đồng minh (không bao gồm bản thân).
 
 ##S1##
-リカバリーオブフェニクス=Phoenix's Recovery
-物理攻撃を行うすべての味方キャラ\nの物理攻撃力を中アップ、ＨＰ吸収\nを小アップさせる。自分を中心とし\nた範囲内の味方すべてのＨＰを小回\n復するフィールドを展開する。さら\nに、火属性の味方すべてのＨＰを小\n回復させ、継続ＨＰ回復状態を付与\nする。物理攻撃力の上昇量は、自分\nを除く味方の残りＨＰに応じて最大\n５倍までアップする。=Boosts P.ATK and HP Steal for allies using physical attacks. Deploys a field around self that heals nearby allies. Also heals and grants HP Regen to all Fire allies. P.ATK boost scales up to 5x based on remaining HP of other allies (excluding self).
-r:"^対象の味方の物理攻撃力を(\d+)アップ対象の味方のＨＰ吸収を(\d+)アップ毎秒ＨＰを(\d+)回復するフィールドを展開する火属性の味方のＨＰを(\d+)回復毎秒ＨＰを(\d+)回復する$"=►Boosts P.ATK of allies with physical attacks by $1.\n►Increases their HP Steal by $2.\n►Deploys a field that recovers $3 HP/s for allies in range.\n►Recovers HP of Fire-element allies by $4.\n►Grants HP Regen to Fire-element allies for $5 HP/s.\n►P.ATK boost scales up to 5x based on remaining HP of allies (excluding self).
+リカバリーオブフェニクス=Hồi Phục Của Phượng Hoàng
+物理攻撃を行うすべての味方キャラ\nの物理攻撃力を中アップ、ＨＰ吸収\nを小アップさせる。自分を中心とし\nた範囲内の味方すべてのＨＰを小回\n復するフィールドを展開する。さら\nに、火属性の味方すべてのＨＰを小\n回復させ、継続ＨＰ回復状態を付与\nする。物理攻撃力の上昇量は、自分\nを除く味方の残りＨＰに応じて最大\n５倍までアップする。=Tăng Tấn Công Vật Lý và Đánh Trộm HP cho đồng minh sử dụng tấn công vật lý. Triển khai một vùng trường xung quanh bản thân hồi HP cho đồng minh lân cận. Đồng thời hồi HP và tặng Hồi HP cho toàn bộ đồng minh thuộc thuộc tính Lửa. Buff Tấn Công Vật Lý sẽ tăng lên tối đa 5 lần dựa trên HP còn lại của đồng minh khác (không bao gồm bản thân).
+r:"^対象の味方の物理攻撃力を(\d+)アップ対象の味方のＨＰ吸収を(\d+)アップ毎秒ＨＰを(\d+)回復するフィールドを展開する火属性の味方のＨＰを(\d+)回復毎秒ＨＰを(\d+)回復する$"=►Tăng Tấn Công Vật Lý cho đồng minh sử dụng tấn công vật lý bằng $1.\n►Tăng Đánh Trộm HP của họ bằng $2.\n►Triển khai vùng trường hồi $3 HP/giây cho đồng minh trong phạm vi.\n►Hồi HP cho đồng minh thuộc thuộc tính Lửa bằng $4.\n►Tặng Hồi HP cho đồng minh thuộc thuộc tính Lửa với $5 HP/giây.\n►Buff Tấn Công Vật Lý tăng lên tối đa 5 lần dựa trên HP còn lại của đồng minh (không bao gồm bản thân).
 
 
 ##S2##
-鳳凰の庭炎=Phoenix's Garden Flame
-物理攻撃を行うすべての味方キャラ\nの物理攻撃力を中アップ、ＴＰ上昇\nを小アップさせる。自分を中心とし\nた範囲内の味方すべてのＴＰを小回\n復するフィールドを展開する。さら\nに、火属性の味方すべてのＴＰを小\n回復させ、継続ＴＰ回復状態を付与\nする。物理攻撃力の上昇量は、自分\nを除く味方の残りＨＰに応じて最大\n５倍までアップする。=Boosts P.ATK and TP Boost for allies using physical attacks. Deploys a field around self that restores TP to nearby allies. Also restores TP and grants TP Regen to all Fire allies. P.ATK boost scales up to 5x based on remaining HP of other allies.
-r:"^対象の味方の物理攻撃力を(\d+)アップ対象の味方のＴＰ上昇を(\d+)アップ毎秒ＴＰを(\d+)回復するフィールドを展開する火属性の味方のＴＰを(\d+)回復毎秒ＴＰを(\d+)回復する$"=►Boosts P.ATK of allies with physical attacks by $1.\n►Increases their TP Boost by $2.\n►Deploys a field that restores $3 TP/s to nearby allies.\n►Restores $4 TP to Fire-element allies.\n►Grants TP Regen of $5 TP/s to Fire-element allies.\n►P.ATK boost scales up to 5x based on remaining HP of allies (excluding self).
+鳳凰の庭炎=Ngọn Lửa Vườn Phượng Hoàng
+物理攻撃を行うすべての味方キャラ\nの物理攻撃力を中アップ、ＴＰ上昇\nを小アップさせる。自分を中心とし\nた範囲内の味方すべてのＴＰを小回\n復するフィールドを展開する。さら\nに、火属性の味方すべてのＴＰを小\n回復させ、継続ＴＰ回復状態を付与\nする。物理攻撃力の上昇量は、自分\nを除く味方の残りＨＰに応じて最大\n５倍までアップする。=Tăng Tấn Công Vật Lý và Tăng TP cho đồng minh sử dụng tấn công vật lý. Triển khai một vùng trường xung quanh bản thân hồi TP cho đồng minh lân cận. Đồng thời hồi TP và tặng Hồi TP cho toàn bộ đồng minh thuộc thuộc tính Lửa. Buff Tấn Công Vật Lý sẽ tăng lên tối đa 5 lần dựa trên HP còn lại của đồng minh khác.
+r:"^対象の味方の物理攻撃力を(\d+)アップ対象の味方のＴＰ上昇を(\d+)アップ毎秒ＴＰを(\d+)回復するフィールドを展開する火属性の味方のＴＰを(\d+)回復毎秒ＴＰを(\d+)回復する$"=►Tăng Tấn Công Vật Lý cho đồng minh sử dụng tấn công vật lý bằng $1.\n►Tăng Tăng TP của họ bằng $2.\n►Triển khai vùng trường hồi $3 TP/giây cho đồng minh lân cận.\n►Hồi $4 TP cho đồng minh thuộc thuộc tính Lửa.\n►Tặng Hồi TP với $5 TP/giây cho đồng minh thuộc thuộc tính Lửa.\n►Buff Tấn Công Vật Lý tăng lên tối đa 5 lần dựa trên HP còn lại của đồng minh (không bao gồm bản thân).
 
 ##EX##
-讃える権利をあげましょう=You May Praise Me
-讃える権利をあげましょう+=You May Praise Me+
+讃える権利をあげましょう=Ngươi Có Thể Ca Ngợi Ta
+讃える権利をあげましょう+=Ngươi Có Thể Ca Ngợi Ta+

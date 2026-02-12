@@ -1,8 +1,8 @@
-キャラクター\n図鑑=Character\nInfo
-アイテム\n図鑑=Item\nInfo
-用語集=Glossary
+キャラクター\n図鑑=Nhân Vật\nThông Tin
+アイテム\n図鑑=Vật Phẩm\nThông Tin
+用語集=Từ Điển
 ---アA---
-キャラクター図鑑=Character Info
-思い出アルバム=Memory Album
-イテム図鑑=Item Info
-sr:"^([べ-ヺー＆＝]+)(（.+）)? 第(\d+)話を見ると確認できます。$"=Viewable after watching $1$2 Episode $3.
+キャラクター図鑑=Thông Tin Nhân Vật
+思い出アルバム=Album Kỷ Niệm
+イテム図鑑=Thông Tin Vật Phẩm
+sr:"^([べ-ヺー＆＝]+)(（.+）)? 第(\d+)話を見ると確認できます。$"=Có thể xem sau khi xem Tập $3 của $1$2.

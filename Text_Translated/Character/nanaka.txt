@@ -1,56 +1,56 @@
 ##Profile##
-【魔法】後衛から多彩な魔法を放つ、オタク魔法少女。体力が一番多い相手を狙うユニオンバーストやスキルは、敵のＨＰ状況により攻撃対象が変わる高威力の魔法攻撃。=[Magic] A nerdy magical girl who unleashes a variety of spells from the rearguard. Her Union Burst and skills feature high-powered magical attacks that strategically target the enemy with the greatest remaining HP.
+【魔法】後衛から多彩な魔法を放つ、オタク魔法少女。体力が一番多い相手を狙うユニオンバーストやスキルは、敵のＨＰ状況により攻撃対象が変わる高威力の魔法攻撃。=[Ma Thuật] Một cô gái ma thuật mọt sách, phóng ra nhiều loại phép thuật từ hậu phương. Union Burst và kỹ năng của cô là những đòn tấn công ma thuật mạnh mẽ, chủ đích nhắm vào kẻ thù có HP còn lại cao nhất.
 
-読書、魔法=Reading, magic
-オタク全開な魔法少女=An extrovert otaku mahoushoujo
+読書、魔法=Đọc sách, ma thuật
+オタク全開な魔法少女=Một cô gái ma thuật otaku hướng ngoại
 
-伝説の魔導書求む！=Seeking:One Legendary Spellbook!
-初めてのバディタッグ=A Magical Duo Is Born
-悪の影との邂逅=Traces of Evil
-愛しい尊い定期巡回=Doing the Rounds Together
-闇の蒐集家=The Dark Collector
-この気持ちは君のために=For Whom I Fight
-私たちが魔法少女！=Magical Girls Unite!
-華麗なるメタモルフォーゼ=Beautiful Metamorphosis
+伝説の魔導書求む！=Tìm kiếm: Một Cuốn Sách Phép Thần Thánh!
+初めてのバディタッグ=Một Cặp Đôi Ma Thuật Ra Đời
+悪の影との邂逅=Dấu Vết Của Ác Quỷ
+愛しい尊い定期巡回=Cùng Nhau Đi Tuần
+闇の蒐集家=Kẻ Sưu Tầm Bóng Tối
+この気持ちは君のために=Vì Ai Tôi Chiến Đấu
+私たちが魔法少女！=Các Cô Gái Ma Thuật, Đoàn Kết!
+華麗なるメタモルフォーゼ=Biến Hình Tuyệt Mỹ
 
-魔法少女の真なる望み=Magical Girl's True Wish
-それは二人の愛の力？=Is it the Power Love?
-オタクの道というものは=Way of Otaku
-望みをもたらすもの=What Brings Hope
+魔法少女の真なる望み=Ước Nguyện Thật Sự Của Cô Gái Ma Thuật
+それは二人の愛の力？=Có Phải Là Sức Mạnh Của Tình Yêu?
+オタクの道というものは=Con Đường Của Otaku
+望みをもたらすもの=Điều Gì Mang Đến Hy Vọng
 
 ##UB##
-ナナカ・∞・ブラスト=Nanaka Infinite Blast
-残りＨＰが最も高い敵１キャラに魔法特大ダメージを与える。=Deals massive M.DMG to an enemy with the highest remaining HP.
-最もＨＰの割合が高い敵１キャラに魔法特大ダメージを与える。=Deals massive M.DMG to an enemy with the highest remaining HP.
+ナナカ・∞・ブラスト=Nanaka Vô Tận Bùng Nổ
+残りＨＰが最も高い敵１キャラに魔法特大ダメージを与える。=Gây ra lượng sát thương ma thuật lớn lên kẻ thù có HP còn lại cao nhất.
+最もＨＰの割合が高い敵１キャラに魔法特大ダメージを与える。=Gây ra lượng sát thương ma thuật lớn lên kẻ thù có HP còn lại cao nhất.
 
 ##S1##
-スターダストマジック=Stardust Magic
-目の前の敵１キャラを中心とした範囲内の敵すべての魔法防御力を小ダウンさせる。=Slightly lowers enemies' M.DEF in range.
+スターダストマジック=Ma Thuật Bụi Sao
+目の前の敵１キャラを中心とした範囲内の敵すべての魔法防御力を小ダウンさせる。=Giảm nhẹ Phòng Thủ Ma Thuật của kẻ thù trong phạm vi.
 
 ##S2##
-エナジーインパクト=Energy Impact
-残りＨＰが最も高い敵１キャラに魔法中ダメージを与え、さらにスタンさせる。=Deals moderate M.DMG to an enemy with the highest remaining HP and inflicts Stun for 1.5s.
-最もＨＰの割合が高い敵１キャラに魔法中ダメージを与え、さらにスタンさせる。=Deals moderate M.DMG to an enemy with the highest %HP and inflicts Stun for 1.5s.
+エナジーインパクト=Va Chạm Năng Lượng
+残りＨＰが最も高い敵１キャラに魔法中ダメージを与え、さらにスタンさせる。=Gây ra lượng sát thương ma thuật trung bình lên kẻ thù có HP còn lại cao nhất và gây choáng trong 1.5 giây.
+最もＨＰの割合が高い敵１キャラに魔法中ダメージを与え、さらにスタンさせる。=Gây ra lượng sát thương ma thuật trung bình lên kẻ thù có %HP cao nhất và gây choáng trong 1.5 giây.
 
 ##EX##
-アウェイクニングモード=Awakening Mode
-アウェイクニングモード+=Awakening Mode+
+アウェイクニングモード=Chế Độ Tỉnh Thức
+アウェイクニングモード+=Chế Độ Tỉnh Thức+
 
 ##UB+##
-ナナカ・∞・グリッター=Nanaka Infinite Glitter
-最もＨＰの割合が高い敵１キャラに魔法特大ダメージを与え、さらに魔法防御力を小ダウンさせる。=Deals massive M.DMG to an enemy with the highest remaining HP, and also slightly lowers its M.DEF.
-残りＨＰが最も高い敵１キャラに魔法特大ダメージを与え、さらに魔法防御力を小ダウンさせる。=Deals massive M.DMG to an enemy with the highest remaining HP, and also slightly lowers its M.DEF.
+ナナカ・∞・グリッター=Nanaka Vô Tân Lấp Lánh
+最もＨＰの割合が高い敵１キャラに魔法特大ダメージを与え、さらに魔法防御力を小ダウンさせる。=Gây ra lượng sát thương ma thuật lớn lên kẻ thù có HP còn lại cao nhất, và đồng thời giảm nhẹ Phòng Thủ Ma Thuật của nó.
+残りＨＰが最も高い敵１キャラに魔法特大ダメージを与え、さらに魔法防御力を小ダウンさせる。=Gây ra lượng sát thương ma thuật lớn lên kẻ thù có HP còn lại cao nhất, và đồng thời giảm nhẹ Phòng Thủ Ma Thuật của nó.
 
 ##S1+##
-スターダストマジック+=Stardust Magic+
-目の前の敵１キャラを中心とした範囲内の敵すべての魔法防御力を中ダウンさせる。=Moderately lowers enemies' M.DEF in range.
-r:"^範囲内の敵の魔法防御力を(\d+)ダウン$"=►Lowers enemies' M.DEF in 200 range by $1 for 12s.
+スターダストマジック+=Ma Thuật Bụi Sao+
+目の前の敵１キャラを中心とした範囲内の敵すべての魔法防御力を中ダウンさせる。=Giảm trung bình Phòng Thủ Ma Thuật của kẻ thù trong phạm vi.
+r:"^範囲内の敵の魔法防御力を(\d+)ダウン$"=►Giảm Phòng Thủ Ma Thuật của kẻ thù trong phạm vi 200 đơn vị bằng $1 trong 12 giây.
 
 ##S2+##
-エナジーインパクト+=Energy Impact+
-最もＨＰの割合が高い敵１キャラに魔法特大ダメージを与えてスタンさせ、さらにＨＰ回復量を特大ダウンさせる。=Deals massive M.DMG to an enemy with the highest %HP, inflicts Stun and also massively reduces its HP Recovery Rate.
-r:"^敵単体に(\d+)の魔法ダメージ敵単体を一定時間行動不能にする敵単体のＨＰ回復量を90％ダウン$"=►Deals $1 M.DMG to an enemy.\n►Inflicts Stun to an enemy for 4.5s.\n►Reduces an enemy's HP Recovery Rate to 10% for 18s.
+エナジーインパクト+=Va Chạm Năng Lượng+
+最もＨＰの割合が高い敵１キャラに魔法特大ダメージを与えてスタンさせ、さらにＨＰ回復量を特大ダウンさせる。=Gây ra lượng sát thương ma thuật lớn lên kẻ thù có %HP cao nhất, gây choáng và đồng thời giảm mạnh Tỷ Lệ Hồi HP của nó.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体を一定時間行動不能にする敵単体のＨＰ回復量を90％ダウン$"=►Gây $1 sát thương ma thuật lên kẻ thù.\n►Gây choáng lên kẻ thù trong 4.5 giây.\n►Giảm Tỷ Lệ Hồi HP của kẻ thù xuống 10% trong 18 giây.
 
 ##UE##
-ナナカサイツヨロッド=Nanaka's Kickass Rod
-ナナカマジカルマスカレード=Nanaka's Magical Masquerade
+ナナカサイツヨロッド=Gậy Ma Thuật Đỉnh Cao Của Nanaka
+ナナカマジカルマスカレード=Lễ Hội Hóa Trang Ma Thuật Của Nanaka

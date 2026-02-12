@@ -1,35 +1,35 @@
 ##Profile##
-【物理】前衛で、味方の補助に秀でた、新風の巫女。物理クリティカル時のダメージアップのスキルで味方の殲滅力を高めつつ、挑発や継続回復で耐久面を支える。=[Physical] A New Year's priestess who takes the vanguard to support her allies. With skills that power up physical critical hits, she heightens her allies' ability to strike down the enemy, while protecting them with taunts and healing over time.
+【物理】前衛で、味方の補助に秀でた、新風の巫女。物理クリティカル時のダメージアップのスキルで味方の殲滅力を高めつつ、挑発や継続回復で耐久面を支える。=[Vật Lý] Miko Năm Mới đóng vai trò hậu viện hỗ trợ đồng minh. Với kỹ năng tăng cường phản chí mạng vật lý, nâng cao khả năng đánh gục kẻ thù của đồng minh, đồng thời bảo vệ họ bằng khiêu khích và hồi máu theo thời gian.
 
-お正月験担ぎガイド=A Lucky New Year's Guide
-二人羽織チャレンジ=Two Bodies as One
-一年の計は元旦にあり=The Key to the Year
-舞い上がる願い=Dance of Fortune
+お正月験担ぎガイド=Người Hướng Dẫn May Mắn Năm Mới
+二人羽織チャレンジ=Hai Thể Thành Một
+一年の計は元旦にあり=Chìa Khóa Của Năm
+舞い上がる願い=Vũ Điệu May Mắn
 
 ##UB##
-ニューイヤーズブライト=New Year's Light
-自分のＨＰを中回復し、味方全体に継続ＨＰ回復を付与し、さらに物理攻撃力を大アップさせる。=Recovers own HP to medium, grants HP Regen to all allies and boost allies' P.ATK by a large amount.
-r:"^自分のＨＰを(\d+)回復毎秒ＨＰを(\d+)回復する味方全体の物理攻撃力を(\d+)アップ$"=►Recovers own HP by $1.\n►Recovers allies' HP by $2/s for 10s.\n►Boosts allies' P.ATK by $3 for 18s.
+ニューイヤーズブライト=Ánh Sáng Năm Mới
+自分のＨＰを中回復し、味方全体に継続ＨＰ回復を付与し、さらに物理攻撃力を大アップさせる。=Hồi HP bản thân lên mức trung bình, tăng HP Regen cho tất cả đồng minh và tăng P.ATK của đồng minh một lượng lớn.
+r:"^自分のＨＰを(\d+)回復毎秒ＨＰを(\d+)回復する味方全体の物理攻撃力を(\d+)アップ$"=►Hồi HP bản thân lên $1.\n►Hồi HP đồng minh $2/giây trong 10 giây.\n►Tăng P.ATK của đồng minh lên $3 trong 18 giây.
 
 ##S1##
-スピリットウォール=Spirit Wall
-【挑発】自身に物理/魔法吸収バリアを展開し、さらに敵全体を挑発する。=[Taunt] Deploy a barrier around self that absorbs P/M DMG, and taunts all enemies.
-r:"^(\d+)ダメージ分の物理魔法吸収バリアを展開する敵全体を挑発する$"=►Deploys Barrier over oneself that absorbs $1 P/M.DMG for 12s.\n►Provokes all allies for 17s.
+スピリットウォール=Tường Linh Hồn
+【挑発】自身に物理/魔法吸収バリアを展開し、さらに敵全体を挑発する。=[Khiêu Khích] Triển khai một rào cản xung quanh bản thân hấp thụ sát thương Vật Lý/Ma Thuật và khiêu khích tất cả kẻ địch.
+r:"^(\d+)ダメージ分の物理魔法吸収バリアを展開する敵全体を挑発する$"=►Triển khai Barrier trên bản thân hấp thụ $1 P/M.DMG trong 12 giây.\n►Khiêu khích tất cả kẻ địch trong 17 giây.
 
 ##S2##
-ブレッシングスピリット=Spiritual Blessing
-最も物理攻撃力が高い味方の物理攻撃力を中アップ、物理クリティカルを大アップさせ、さらに物理攻撃クリティカル時のダメージを中アップさせる。=Moderate boost to P.ATK, large boost to P.CRIT Rate, and Moderate boost to P.CRIT DMG for the ally with the highest P.ATK.
-r:"^味方単体の物理攻撃力を(\d+)アップ味方単体の物理クリティカルを100アップ味方単体の物理攻撃クリティカル時のダメージを30％アップ$"=►Boosts a highest P.ATK ally's P.ATK by $1 for 12s.\n►Boosts a highest P.ATK ally's P.CRIT Rate by 100 for 12s.\n►Boosts a highest P.ATK ally's P.CRIT DMG by 30% for 12s.
+ブレッシングスピリット=Lời Chúc Linh Hồn
+最も物理攻撃力が高い味方の物理攻撃力を中アップ、物理クリティカルを大アップさせ、さらに物理攻撃クリティカル時のダメージを中アップさせる。=Tăng vừa phải P.ATK, tăng lớn P.CRIT Rate, và tăng vừa phải P.CRIT DMG cho đồng minh có P.ATK cao nhất.
+r:"^味方単体の物理攻撃力を(\d+)アップ味方単体の物理クリティカルを100アップ味方単体の物理攻撃クリティカル時のダメージを30％アップ$"=►Tăng P.ATK của đồng minh có P.ATK cao nhất lên $1 trong 12 giây.\n►Tăng P.CRIT Rate của đồng minh có P.ATK cao nhất lên 100 trong 12 giây.\n►Tăng P.CRIT DMG của đồng minh có P.ATK cao nhất lên 30% trong 12 giây.
 
 ##EX##
-祝福の新風=Auspicious Wind
-祝福の新風+=Auspicious Wind+
+祝福の新風=Gió May Mắn
+祝福の新風+=Gió May Mắn+
 
 ##S1+##
-スピリットウォール+=Spirit Wall+
-【挑発】自身に物理/魔法吸収バリアを展開し、味方全体の物理攻撃力を小アップさせ、さらに敵全体を挑発する。=[Taunt] Deploy a barrier around self that absorbs P/M DMG, boosts the all allies' P.ATK, and taunts all enemies.
-【挑発】自身に物理/魔法吸収バリアを展開し、味方全体の物理攻撃力を大アップさせ、さらに敵全体を挑発する。=[Taunt] Deploy a barrier around self that absorbs P/M DMG, boosts the all allies' P.ATK, and taunts all enemies.
-r:"^(\d+)ダメージ分の物理魔法吸収バリアを展開する味方全体の物理攻撃力を(\d+)アップ敵全体を挑発する$"=►Deploys Barrier over oneself that absorbs $1 P/M.DMG for 12s.\n►Boosts all allies' P.ATK by $2 for 12s.\n►Provokes all enemies for 17s.
+スピリットウォール+=Tường Linh Hồn+
+【挑発】自身に物理/魔法吸収バリアを展開し、味方全体の物理攻撃力を小アップさせ、さらに敵全体を挑発する。=[Khiêu Khích] Triển khai một rào cản xung quanh bản thân hấp thụ sát thương Vật Lý/Ma Thuật, tăng P.ATK cho tất cả đồng minh và khiêu khích tất cả kẻ địch.
+【挑発】自身に物理/魔法吸収バリアを展開し、味方全体の物理攻撃力を大アップさせ、さらに敵全体を挑発する。=[Khiêu Khích] Triển khai một rào cản xung quanh bản thân hấp thụ sát thương Vật Lý/Ma Thuật, tăng P.ATK cho tất cả đồng minh và khiêu khích tất cả kẻ địch.
+r:"^(\d+)ダメージ分の物理魔法吸収バリアを展開する味方全体の物理攻撃力を(\d+)アップ敵全体を挑発する$"=►Triển khai Barrier trên bản thân hấp thụ $1 P/M.DMG trong 12 giây.\n►Tăng P.ATK của tất cả đồng minh lên $2 trong 12 giây.\n►Khiêu khích tất cả kẻ địch trong 17 giây.
 
 ##UE##
-新春祈幸の精霊杖=New Year Prayer Spirit Staff
+新春祈幸の精霊杖=Gậy Linh Hồn Cầu Nguyện Năm Mới

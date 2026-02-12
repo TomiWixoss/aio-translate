@@ -1,22 +1,22 @@
 ##Profile##
 ピアノ=Piano
-半人半竜=Half-human half-dragon
-人を超越した力を有す心優しい竜姫=A kind-hearted dragon princess with powers that transcend humans.
-【魔法】中衛で、炎を操り敵を薙ぎ払う、竜人の少女。高い魔法攻撃力を生かした範囲攻撃を得意とする。また、飛行能力を駆使して放つ突進攻撃も強力。=[Magic] A Dragoness that obliterates foes from the midguard with her powerful flames. Boasting high magic power, she deals with crowds well, but don't underestimate her physical capacities. Her aerial charges are just as lethal as her magic.
+半人半竜=Nửa người nửa rồng
+人を超越した力を有す心優しい竜姫=Một nàng công chúa rồng tốt bụng với sức mạnh vượt qua con người.
+【魔法】中衛で、炎を操り敵を薙ぎ払う、竜人の少女。高い魔法攻撃力を生かした範囲攻撃を得意とする。また、飛行能力を駆使して放つ突進攻撃も強力。=[Ma Thuật] Một nữ rồng hủy diệt kẻ thù từ vị trí giữa trận với ngọn lửa mạnh mẽ. Tự hào với sức ma thuật cao, cô xử lý đám đông tốt, nhưng đừng coi thường khả năng vật lý của cô. Các đòn xung kích trên không của cô cũng chết người như phép thuật vậy.
 
 ##UB##
 マッドネスクリーヴ=Madness Cleave
-前方範囲内の敵すべてに魔法大ダメージを与える。=Deals large M.DMG to all enemies in range.
+前方範囲内の敵すべてに魔法大ダメージを与える。=Gây sát thương ma thuật lớn cho tất cả kẻ địch trong phạm vi.
 
 ##S1##
 ドラグインフェルノ=Dragon Inferno
-目の前の敵１キャラの所まで無敵状態で突進し、魔法中ダメージを与える。=Gains invincibility and charges toward an enemy directly in front, dealing moderate M.DMG.
-r:"^飛行中無敵状態になる敵単体に(\d+)の魔法ダメージ$"=►Becomes immune to all damage during flight.\n►Deals $1 M.DMG to an enemy.
+目の前の敵１キャラの所まで無敵状態で突進し、魔法中ダメージを与える。=Nhận miễn nhiễm và xung kích về phía kẻ địch ngay phía trước, gây sát thương ma thuật trung bình.
+r:"^飛行中無敵状態になる敵単体に(\d+)の魔法ダメージ$"=►Nhận miễn nhiễm với mọi sát thương trong khi bay.\n►Gây $1 sát thương ma thuật cho một kẻ địch.
 
 ##S2##
 ドラグアグニ=Dragon Agni
-最も物理攻撃力が高い敵を中心として、魔法ダメージフィールドを展開する。=Deploys a field that deals M.DMG around the enemy with the highest P.ATK.
-r:"^毎秒(\d+)の魔法ダメージを与えるフィールドを展開する$"=►Deploys a field that deals $1 M.DMG/s.
+最も物理攻撃力が高い敵を中心として、魔法ダメージフィールドを展開する。=Triển khai một trường gây sát thương ma thuật xung quanh kẻ địch có P.ATK cao nhất.
+r:"^毎秒(\d+)の魔法ダメージを与えるフィールドを展開する$"=►Triển khai một trường gây $1 sát thương ma thuật/giây.
 
 ##EX##
 ドラグハート=Dragonheart
@@ -24,8 +24,8 @@ r:"^毎秒(\d+)の魔法ダメージを与えるフィールドを展開する$"
 
 ##S1+##
 ドラグインフェルノ+=Dragon Inferno+
-目の前の敵１キャラの所まで無敵状態で突進し、魔法大ダメージを与え、さらにその周囲の敵に魔法中ダメージを与える。=It rushes to one character in front of you in invincible state, causes M.DMG, and also causes M.DMG to the surrounding enemies.
-r:"^突進中無敵状態になる敵単体に(\d+)の魔法ダメージ範囲内の敵に(\d+)の魔法ダメージ$"=►Become invincible during flight\n►Deals $1 M.DMG to an enemy.\n►Deals $2 M.DMG to enemies in range.
+目の前の敵１キャラの所まで無敵状態で突進し、魔法大ダメージを与え、さらにその周囲の敵に魔法中ダメージを与える。=Nó lao về phía một nhân vật phía trước bạn ở trạng thái bất khả xâm phạm, gây sát thương phép, và cũng gây sát thương phép cho kẻ địch xung quanh.
+r:"^突進中無敵状態になる敵単体に(\d+)の魔法ダメージ範囲内の敵に(\d+)の魔法ダメージ$"=►Trở nên bất khả xâm phạm trong khi bay\n►Gây $1 sát thương phép lên kẻ địch.\n►Gây $2 sát thương phép lên kẻ địch trong phạm vi.
 
 ##UE##
 ドラグアミュレット=Dragon Amulet

@@ -1,259 +1,259 @@
-男１=Male 1
-男２=Male 2
-猫=Cat
-男の子=Boy
-遠くの声=Distant Voice
-人さらい１=Kidnapper 1
-人さらい２=Kidnapper 2
-人さらいたち=Kidnappers
-兵士=Knights
+男１=Nam 1
+男２=Nam 2
+猫=Mèo
+男の子=Con trai
+遠くの声=Tiếng nói xa
+人さらい１=Kẻ bắt cóc 1
+人さらい２=Kẻ bắt cóc 2
+人さらいたち=Những kẻ bắt cóc
+兵士=Hiệp sĩ
 
-ミソラと再びデートする条件として、{playername}は一緒に人助けをしていくが、人さらいと遭遇したミソラは相手を撃ち殺そうとする。それを止められたミソラは気持ちが冷めたと言い、去っていった。=To get {playername} to date her again, Misora had to do 'Good Deeds' together with him. In the middle of that, they encountered a group of kidnappers and she tried to gun down all of them. {playername} stopped her but also ended up making Misora leave, leaving {playername} with mixed feelings.
+ミソラと再びデートする条件として、{playername}は一緒に人助けをしていくが、人さらいと遭遇したミソラは相手を撃ち殺そうとする。それを止められたミソラは気持ちが冷めたと言い、去っていった。=Để khiến {playername} hẹn hò với cô ấy lần nữa, Misora phải làm 'Việc Tốt' cùng anh ấy. Giữa chừng, họ gặp một nhóm kẻ bắt cóc và cô ấy cố gắng bắn hạ tất cả chúng. {playername} đã ngăn cô ấy nhưng cũng khiến Misora rời đi, để lại {playername} với những cảm xúc phức tạp.
 
 ──どるるるる～んっ★=──Dorururu～n ★
 
 ぎゃあああっ！=Gyahhhh!
-逃げろ！\n逃げろ～っ！！=Run! We have to run away!!
+逃げろ！\n逃げろ～っ！！=Chạy! Chúng ta phải chạy đi!!
 
-もー、動かないでくださいよぅ。\nわたし、偏差射撃とかへたっぴなんですから。\nね？=Awwー don't move around so much.\nI'm no-good at shooting moving targets. Okay?
+もー、動かないでくださいよぅ。\nわたし、偏差射撃とかへたっぴなんですから。\nね？=Ơー đừng cử động nhiều thế.\nTôi dở bắn mục tiêu di chuyển lắm. Được chứ?
 
-ダメだ！=Stop it!
+ダメだ！=Dừng lại!
 
-騎士さーん？\nそこに立つと、当たっちゃうかもですよー=Kishi-san? You can get shot if you stand thereー
+騎士さーん？\nそこに立つと、当たっちゃうかもですよー=Kishi-san? Anh có thể bị bắn nếu đứng đóー
 
-こういうとき、なんて言うんでしたっけ。\nえーっと……=At times like these, what're you supposed to say...\nHmm...
+こういうとき、なんて言うんでしたっけ。\nえーっと……=Vào lúc như thế này, bạn được nói gì...\nHmm...
 
-「どいてください、そのひと殺せません！」\n……とか？★='I don't want to kill you, so please move out of the way!'\n...Something like that?★
+「どいてください、そのひと殺せません！」\n……とか？★='Tôi không muốn giết anh, nên làm ơn tránh ra!'\n...Thứ gì đó như vậy?★
 
-──しばらく前のこと。=──A while ago.
+──しばらく前のこと。=──Một lúc trước.
 
-{playername}が、街を歩いていると……={playername} is walking around the streets...
+{playername}が、街を歩いていると……={playername} đang đi bộ trên phố...
 
-だ～～れだっ？=Whooo do you think I am?
+だ～～れだっ？=Bạn nghĩ tôi là ai?
 
-あはっ★\nすみません、ちょっとワンパターンでしたねー=Ehe★ Sorry if it's too obviousー
+あはっ★\nすみません、ちょっとワンパターンでしたねー=Ehe★ Xin lỗi nếu quá rõ ràngー
 
-今日は、どうしたの？=What're you doing today?
+今日は、どうしたの？=Hôm nay bạn đang làm gì?
 
-ふふっ♪\nもちろん、騎士さんとデート！　しにきたんですよー=Ehehe♪ Naturally, I came to date Kishi-san!
+ふふっ♪\nもちろん、騎士さんとデート！　しにきたんですよー=Ehehe♪ Tất nhiên, tôi đến để hẹn hò với Kishi-san!
 
-ダメ、なんて言わないでくださいね？\nまぁ言われてもー、ラチっちゃうんですけど★=And please don't say no, okay?\nWell, even if you didー I'll still force you anyway★
+ダメ、なんて言わないでくださいね？\nまぁ言われてもー、ラチっちゃうんですけど★=Và đừng nói không, được chứ?\nThôi, ngay cả nếu anh nóiー tôi vẫn sẽ ép anh bất cứ thế nào★
 
-……分かった。でも……=...Alright, but...
+……分かった。でも……=...Được rồi, nhưng...
 
-その前に、僕の頼みも聞いてほしい。=Listen to my request first.
+その前に、僕の頼みも聞いてほしい。=Hãy lắng nghe yêu cầu của tôi trước đi.
 
-なるほど♪\n交換条件ってやつですね。\nそーゆーの、わかりやすくてスキですよ★=I see♪\nThere's a condition. I like how simple that is★
+なるほど♪\n交換条件ってやつですね。\nそーゆーの、わかりやすくてスキですよ★=Ra vậy♪\nCó điều kiện nhỉ. Tôi thích sự đơn giản như vậy★
 
-じゃあ騎士さん？\n騎士さんは、わたしに「デートさせられる」かわりに。\nわたしに、どんなことをさせたいんですか？=So, Kishi-san...\nWhat do I need to do for you to date me?
+じゃあ騎士さん？\n騎士さんは、わたしに「デートさせられる」かわりに。\nわたしに、どんなことをさせたいんですか？=Vậy, Kishi-san...\nTôi phải làm gì để được hẹn hò với cậu đây?
 
-一緒に、いいことをしよう。=Let's do good things together.
+一緒に、いいことをしよう。=Hãy cùng làm những việc tốt đẹp nhé.
 
-わぁっ★\nそれって──=Wah★ That's──
+わぁっ★\nそれって──=Oa★ Cái đó là──
 
-わぁ～んっ！\nペロちゃ～ん！\nどこ行ったの～！！=Uwaaah! Pero-chan! Where did you run off!
+わぁ～んっ！\nペロちゃ～ん！\nどこ行ったの～！！=Uwaaah! Pero-chan! Cậu chạy đi đâu rồi!
 
-んー\n飼ってる猫が、迷子になっちゃってるっぽいですねーあの子。=Hmmー Looks like that girl lost her pet cat.
+んー\n飼ってる猫が、迷子になっちゃってるっぽいですねーあの子。=Hmmー Có vẻ cô bé đó đã làm mất mèo của mình.
 
-捜してあげよう！=Let's find it!
+捜してあげよう！=Đi tìm thôi!
 
-はーい。\nそれじゃ、サイコメトリーで痕跡を探査してー=Alright～ Then I'll use psychometry to look for a leadー
+はーい。\nそれじゃ、サイコメトリーで痕跡を探査してー=Được rồi～ Vậy tôi sẽ dùng cảm xúc để tìm manh mốiー
 
 ミャ～=Meow～
 
-はい、ペロちゃん発見です★=Alright, we have discovered Pero-chan★
+はい、ペロちゃん発見です★=Được rồi, chúng ta đã tìm thấy Pero-chan★
 
-わぁ～っ！\nこんなにすぐ見つけてくれるなんて……\nありがとうお姉ちゃん！=Wow! You found my cat so fast...\nMiss, thank you so much!
+わぁ～っ！\nこんなにすぐ見つけてくれるなんて……\nありがとうお姉ちゃん！=Ồ! Cậu tìm thấy mèo của tôi nhanh thế...\nCô nương, cảm ơn cậu nhiều lắm!
 
-はぁ、ふぅ……\nこんなにたくさん買い物すると、坂道を上るのも億劫だねぇ……=Huff, huff...\nAfter shopping so much, climbing up this slope is so tiring...
+はぁ、ふぅ……\nこんなにたくさん買い物すると、坂道を上るのも億劫だねぇ……=Huff, huff...\nSau khi mua sắm nhiều thế, leo lên con dốc này mệt thật...
 
-んー\n荷物がいっぱいで、困ってるみたいですねーあのおばあさん。=Hmm～ That old lady seems to have a hard time carrying all of that.
+んー\n荷物がいっぱいで、困ってるみたいですねーあのおばあさん。=Hmm～ Bà cụ kia có vẻ gặp khó khăn khi mang nhiều đồ vậy.
 
-運んであげよう！=Let's carry it for her!
+運んであげよう！=Đi giúp bà ấy mang nào!
 
-おばあさーん。\nそれ運ぶの、手伝ってあげますね？=Grandma, can I help you carry those？
+おばあさーん。\nそれ運ぶの、手伝ってあげますね？=Bà ơi, cháu có thể giúp bà mang những thứ này không？
 
-おや？\n悪いねぇお嬢ちゃん。\nでもお米もあるしね、ほんとうに重いんだよ。=Oh? Sorry, little girl but... there's rice in here so it's really heavy.
+おや？\n悪いねぇお嬢ちゃん。\nでもお米もあるしね、ほんとうに重いんだよ。=Ồ? Xin lỗi nhỏ, nhưng... trong này có gạo nên rất nặng.
 
-大丈夫ですってー♪\nそれじゃ、念動で持ち上げてー=That's fineー♪ Then, I'll carry it with telekinesisー
+大丈夫ですってー♪\nそれじゃ、念動で持ち上げてー=Không saoー♪ Vậy, cháu sẽ dùng ngoại lực để mang chúngー
 
-んんっ！？\n米の袋が、浮き袋みたいにっ……！？=Hiee!? The sacks of rice... they're swimming!?
+んんっ！？\n米の袋が、浮き袋みたいにっ……！？=Hiee!? Những bao gạo... chúng đang bơi!?
 
-ついでにおばあさんも持ち上げてー=And let's carry you tooー
+ついでにおばあさんも持ち上げてー=Và còn mang cả bà ấy nữaー
 
-わあああっ！？\nなんだいこれはっ……！=Wahhh!? What is this...！
+わあああっ！？\nなんだいこれはっ……！=Wahhh!? Cái gì đây...！
 
-んー\nこのままじゃ、ちょっと目立っちゃいそうですね。=Hmmmー We might be standing out too much.
+んー\nこのままじゃ、ちょっと目立っちゃいそうですね。=Hmmmー Có lẽ chúng ta đang gây chú ý quá mức.
 
-じゃ、おうちに送ってあげます★\nテレポーテーショーン♪=Then I'll just send her home directly★\nTeleportation♪
+じゃ、おうちに送ってあげます★\nテレポーテーショーン♪=Vậy cháu sẽ gửi bà ấy về nhà luôn★\nDịch chuyển♪
 
-えええぇっ！？\nどこだい、ここはっ……！=Ehhhh!? Where are we...!
+えええぇっ！？\nどこだい、ここはっ……！=Ehhhh!? Chúng ta đang ở đâu...!
 
-ありゃ？\nすみませーん、座標間違えちゃいました★=Oh? Sorry, I messed up the coordinates★
+ありゃ？\nすみませーん、座標間違えちゃいました★=Ồ? Xin lỗi, cháu sai tọa độ rồi★
 
-モノが多いと難しいんですよねー、跳躍王じゃないですし。\nってコトで、もー一回★=It's hard to teleport lots of stuffs at onceー\nI'm not the best at this after all. Now, let's try it again★
+モノが多いと難しいんですよねー、跳躍王じゃないですし。\nってコトで、もー一回★=Dịch chuyển nhiều thứ cùng lúc khó lắmー\nDù sao cháu cũng không giỏi việc này. Được rồi, thử lại lần nữa★
 
-今度はあたしの家じゃないか……！\nなにがどうなってるんだい、あんたたち……！？=This isn't my home either...! What are you really doing...!?
+今度はあたしの家じゃないか……！\nなにがどうなってるんだい、あんたたち……！？=Đây cũng không phải nhà tôi...! Cậu thực sự đang làm gì...!?
 
-すみません、お邪魔しました……！=Sorry for the inconvenience.
+すみません、お邪魔しました……！=Xin lỗi vì đã gây bất tiện.
 
-……ふふっ♪\n迷子の猫を見つけて、おばあさんを助けて……=...Hehe♪ We found a lost cat, and we helped an old lady...
+……ふふっ♪\n迷子の猫を見つけて、おばあさんを助けて……=...Hehe♪ Chúng ta vừa tìm thấy mèo lạc, và vừa giúp một bà cụ...
 
-ねー騎士さん★\nわたし、だいぶイイコトしたんじゃないですか？=Hey, Kishi-san★ I did a lot of good deeds, right？
+ねー騎士さん★\nわたし、だいぶイイコトしたんじゃないですか？=Này, Kishi-san★ Cháu đã làm nhiều việc tốt đẹp rồi, đúng chứ？
 
-やり方をもっと考えよう。=You need to think about your methods more.
+やり方をもっと考えよう。=Cậu cần suy nghĩ kỹ hơn về phương pháp của mình.
 
-えっ？\nもーやですねー、ちゃんと考えてますよ？\nわたしなりにですけど♪=Eh? That can't be rightー\nI did think a lot about it, you know?
+えっ？\nもーやですねー、ちゃんと考えてますよ？\nわたしなりにですけど♪=Hả? Điều đó không thể đúngー\nCháu có suy nghĩ kỹ mà, bạn biết đấy?
 
-やりすぎたら、迷惑になっちゃうよ。=If you overdo it, it'll bother everyone.
+やりすぎたら、迷惑になっちゃうよ。=Nếu cậu làm quá đáng, sẽ phiền phức cho mọi người.
 
-んー\n……ムズカシーですね、イイコトって。=Uuuー\n...Doing good deeds is so hard.
+んー\n……ムズカシーですね、イイコトって。=Uuuー\n...Làm việc tốt đẹp khó thật.
 
-イイコト初心者のわたしには、\nもっと採点甘くしてくれてもいいのになーって思うんですけど。\nそれとも、何かアドバイスしてくれます？=As a beginner in doing good deeds, I think you should be more lenient in my grading～\nAlso, is there any other advice you want to give?
+イイコト初心者のわたしには、\nもっと採点甘くしてくれてもいいのになーって思うんですけど。\nそれとも、何かアドバイスしてくれます？=Là một người mới bắt đầu làm việc tốt, cháu nghĩ cậu nên dễ dãi hơn trong việc đánh giá cháu～\nNgoài ra, còn lời khuyên nào khác cậu muốn cho cháu không?
 
-超能力は使わないほうがいいんじゃ……=It's probably better to not use your powers...
+超能力は使わないほうがいいんじゃ……=Có lẽ tốt hơn là không nên dùng năng lực của cậu...
 
-でもでもー\nこれまでは結果オーライだったわけですし……\n……んっ？=Butー I did get a good result in the end...\nHmm?
+でもでもー\nこれまでは結果オーライだったわけですし……\n……んっ？=Nhưngー cuối cùng cháu vẫn có kết quả tốt mà...\nHmm?
 
-わぁ～ん！\nフーセン、木に引っかかっちゃった～！=Waaah～！ My kite got stuck in a tree～！
+わぁ～ん！\nフーセン、木に引っかかっちゃった～！=Waaah～！ Cái diều của tôi bị kẹt trên cây～！
 
-……あの子、困ってるみたいですけど。\nどうしますー？　騎士さん。\nわたしやります？=...That boy seems to be troubled.\nKishi-san, what should I do? Should I help？
+……あの子、困ってるみたいですけど。\nどうしますー？　騎士さん。\nわたしやります？=...Cậu bé đó có vẻ đang gặp khó khăn.\nKishi-san, cháu nên làm gì? Có nên giúp không？
 
-……僕が取ってくるよ。=...I'll get the kite.
+……僕が取ってくるよ。=...Tôi sẽ lấy cái diều.
 
-あ♪\n能力を使わない見本ですか？\n木から落っこちちゃわないように、気をつけてくださいねー=Aha♪ You want to show me how to do it without using my power?\nThat tree looks like it's gonna break, so be careful～
+あ♪\n能力を使わない見本ですか？\n木から落っこちちゃわないように、気をつけてくださいねー=Aha♪ Cậu muốn cho tôi xem cách làm mà không dùng năng lực à?\nCái cây đó trông như sắp gãy, nên cẩn thận nhé～
 
-お兄ちゃん、おねがい……！=Onii-chan, please...!
+お兄ちゃん、おねがい……！=Anh trai, làm ơn...!
 
-がんばれがんばれ、騎士さーん★=Do your best, Kishi-san★
+がんばれがんばれ、騎士さーん★=Cố lên, Kishi-san★
 
-取った……！=I got it...！
+取った……！=Tôi hiểu rồi...！
 
-……あっ！\nお兄ちゃん、危ない！\n枝が……！=...Ah! Onii-chan, watch out! The branch...！
+……あっ！\nお兄ちゃん、危ない！\n枝が……！=...Á! Anh trai, coi chừng! Cành cây...！
 
-折れるっ……！？=It's breaking...!?
+折れるっ……！？=Nó đang gãy...!?
 
-お兄ちゃーん！=Onii-chan!
+お兄ちゃーん！=Anh trai!
 
-……あ、あれ？\nう、浮いてる……？=...W-what? You're floating……?
+……あ、あれ？\nう、浮いてる……？=...S-sao? Cậu đang bay lên……?
 
-はい。\n空中浮遊でーす。=Yep. It's levitation.
+はい。\n空中浮遊でーす。=Ừ. Đó là nâng lên.
 
-わぁ、すごい！\nお姉ちゃん、魔法使いなの！？=Wow, amazing! Onee-chan is a magician!?
+わぁ、すごい！\nお姉ちゃん、魔法使いなの！？=Ồ, tuyệt vời! Chị là pháp sư ư!?
 
-……ふふっ。\nそうですよー\nミソラお姉ちゃんは、ちょっとトクベツな魔法使いなんです。=...Ehehe. That's rightー\nSister Misora can use a special kind of magic.
+……ふふっ。\nそうですよー\nミソラお姉ちゃんは、ちょっとトクベツな魔法使いなんです。=...Ehehe. Đúng rồiー\nChị Misora có thể dùng một loại ma thuật đặc biệt.
 
-でもでも。\nこのコトは、ヒミツにしてくださいね？\nでないとお姉ちゃん、悪いひとに狙われちゃいますから。=But... Can you keep this a secret?\nIf you don't, I'll get chased by some bad guys.
+でもでも。\nこのコトは、ヒミツにしてくださいね？\nでないとお姉ちゃん、悪いひとに狙われちゃいますから。=Nhưng... Cậu có thể giữ bí mật chứ?\nNếu không, tớ sẽ bị những kẻ xấu đuổi theo.
 
-うん、わかった！=Yeah, I got it!
+うん、わかった！=Ừ, tớ hiểu rồi!
 
-お兄ちゃんもフーセン、ありがとー！\nばいばーい！=Onii-chan, thanks for getting my kite! Bye-bye!
+お兄ちゃんもフーセン、ありがとー！\nばいばーい！=Anh, cảm ơn vì đã lấy diều cho tớ! Tạm biệt nhé!
 
-さようならー=Goodbyeー
+さようならー=Tạm biệtー
 
-……騎士さん、ごめんなさい？\nさっきの「超能力つかうなー」ってアドバイス、\n秒で破っちゃいました。=...Kishi-san, I'm sorry.\nYou gave me advice earlier but I ignored it right away.
+……騎士さん、ごめんなさい？\nさっきの「超能力つかうなー」ってアドバイス、\n秒で破っちゃいました。=...Kishi-san, xin lỗi nhé.\nCậu đã khuyên tớ trước đó nhưng tớ đã bỏ qua ngay lập tức.
 
-……助けてくれて、ありがとう。=...Thank you for saving me.
+……助けてくれて、ありがとう。=...Cảm ơn vì đã cứu tớ.
 
-どういたしまして、ですけど。\n……いいんです？=You're welcome, but...\nIs it really fine？
+どういたしまして、ですけど。\n……いいんです？=Không có gì, nhưng...\nThật sự ổn chứ？
 
-やりすぎなければね。=Just don't overdo it.
+やりすぎなければね。=Chỉ cần đừng quá sức thôi.
 
-ふふっ。\nはーい★=Ehehe. Alright～★
+ふふっ。\nはーい★=Ehehe. Được rồi～★
 
-それじゃ騎士さん★\nだいぶ人助けもしましたしー？\nそろそろわたしとデートしてくれて、いいんじゃないですか♪=Now then Kishi-san★ I helped a lot of people, rightー?\nIt'd be really nice if we could go on a date soon♪
+それじゃ騎士さん★\nだいぶ人助けもしましたしー？\nそろそろわたしとデートしてくれて、いいんじゃないですか♪=Vậy thì Kishi-san★ Tớ đã giúp đỡ nhiều người, đúng khôngー?\nThật tuyệt nếu chúng ta có thể đi hẹn hò sớm♪
 
-……今の声。\nさっきの男の子の……？=...That sound.\nIs that the boy from earlier...？
+……今の声。\nさっきの男の子の……？=...Âm thanh đó.\nCó phải là cậu bé lúc trước...？
 
 ……んぐっ！\nむぐぅっ……！=...Mmph! Mmmph...!
 
-へへっ！\n捕まえたぜ～！=Hehe! Caught one～!
+へへっ！\n捕まえたぜ～！=Hehe! Bắt được một tên～!
 
-おう！\n誰かに見つかったら厄介だ、とっとと袋に押し込んじまいな！=Nice! It'll be troublesome if someone heard him, so stuff him in the sack quickly!
+おう！\n誰かに見つかったら厄介だ、とっとと袋に押し込んじまいな！=Tuyệt! Sẽ rắc rối nếu ai đó nghe thấy hắn, nên nhanh chóng nhét hắn vào bao!
 
 んーーっ！=MMMMMー!
 
-待って！=Hold it！
+待って！=Khoan đã！
 
-チッ。\n言ってる傍から……=Tch. Just as you said that...
+チッ。\n言ってる傍から……=Tch. Vừa nói thế...
 
-んぐっ！\nお、お兄ちゃん！　お姉ちゃんっ……！=Mmph! Onii-chan! Onee-chan!
+んぐっ！\nお、お兄ちゃん！　お姉ちゃんっ……！=Mmph! Anh! Chị!
 
-いま助けるから！=We'll save you!
+いま助けるから！=Chúng tớ sẽ cứu cậu!
 
-ハッ！\nガキ二人が何ができるってんだ！=Hah! What can two brats possibly do!
+ハッ！\nガキ二人が何ができるってんだ！=Hah! Hai đứa nhóc có thể làm được gì!
 
-おい兄弟。\nそっちの女は、高く売れそうじゃないか？\nそいつらも捕まえちまおうぜ！=Hey, brother. Wouldn't that girl fetch a huge price?\nLet's catch her too!
+おい兄弟。\nそっちの女は、高く売れそうじゃないか？\nそいつらも捕まえちまおうぜ！=Này, anh. Cô gái đó không đáng giá lớn sao?\nCũng bắt cô ấy đi!
 
-ああ！\n用が済んだら、とっととこんな街おさらばだ！\n騎士団が来たらメンドクセーからな！=Yeah! And after we finish this, we can say goodbye to this town! It'll be troublesome if the knights came!
+ああ！\n用が済んだら、とっととこんな街おさらばだ！\n騎士団が来たらメンドクセーからな！=Ừ! Và sau khi xong việc này, chúng ta có thể tạm biệt thị trấn này! Sẽ rắc rối nếu các hiệp sĩ đến!
 
-そうと決まったら──おう、オメーら出てこい！=Then it's decided── You guys! Come out!
+そうと決まったら──おう、オメーら出てこい！=Vậy là quyết định── Các ngươi! Ra đây!
 
 ぁ、ああぁっ……=Ahh... Ahhhh...
  
-よぅ！\n加減しろよテメーら！\nあんま怪我さすと、売値が下がっちまうからなあ！=Yo! Keep it down in there!\nYou wouldn't wanna get hurt, that'll lower your price!
+よぅ！\n加減しろよテメーら！\nあんま怪我さすと、売値が下がっちまうからなあ！=Này! Giữ yên lặng ở đó!\nCác ngươi không muốn bị thương đâu, vì thế sẽ giảm giá của các ngươi!
 
-ぎゃははっ！\n大人しくしてりゃ、俺たちもやさ～しくしてやるよ！=Gyahaha!\nIf you behave, we'll be real nice!
+ぎゃははっ！\n大人しくしてりゃ、俺たちもやさ～しくしてやるよ！=Gyahaha!\nNếu các ngươi ngoan, chúng ta sẽ đối xử tốt!
 
-...Haah.\n武器を持った男の人が、ん～\n見張りも含めて、ざっと10人前後ってところですか──=...Haah. The people holding weapons are... Hmm～ around 10 people I think? Including the guards──
+...Haah.\n武器を持った男の人が、ん～\n見張りも含めて、ざっと10人前後ってところですか──=...Haah. Những người cầm vũ khí là... Hmm～ khoảng 10 người tôi nghĩ? Bao gồm lính gác──
 
-それっぽっちで、いいんですかぁ？=Is it really fine to only have that much people?
+それっぽっちで、いいんですかぁ？=Chỉ có bấy nhiêu người thôi được sao?
 
-──は？=──Huh?
+──は？=──Hả?
 
 どるるるる～んっ★=Dorururu～n ★
 
-やっちゃえ、ぺんぽこりん★=Get them, Pempokorin★
+やっちゃえ、ぺんぽこりん★=Đánh chúng, Pempokorin★
 
 ぺんぽこりん=Pempokorin
 
 うびゃあああっ！！=Ugyaaah!!
 
-な、なんだこのアマっ！=W-What's with this girl!
+な、なんだこのアマっ！=C-Cô gái này sao thế!
 
-殺しちゃダメだ。=Don't kill them.
+殺しちゃダメだ。=Đừng giết chúng.
 
-……いちおー、ゆっときますけどー\nわたし的には？　ヨソのお子さんがどんな目にあっても\n別にどうでもーってカンジなんですけど……=...Not even one?\nI don't really care about the kid, but...
+……いちおー、ゆっときますけどー\nわたし的には？　ヨソのお子さんがどんな目にあっても\n別にどうでもーってカンジなんですけど……=...Không phải một tên nào sao?\nTôi không thực sự quan tâm đến đứa nhóc, nhưng...
 
-でーもー\nぶっちゃけ、人さらいとか\nこの世にいないほうが良くないです？=Honestly, wouldn't the world be a better place without these kidnappers?
+でーもー\nぶっちゃけ、人さらいとか\nこの世にいないほうが良くないです？=Thực sự, thế giới này sẽ tốt đẹp hơn nếu không có những kẻ bắt cóc này phải không?
 
-サイテーじゃないですか。\n抵抗できないちっちゃい子を狙って、\n人生メチャクチャにして、小遣い稼ぎとか。=Aren't they just the worst? They're fine with capturing childrens and messing up people's life for money.
+サイテーじゃないですか。\n抵抗できないちっちゃい子を狙って、\n人生メチャクチャにして、小遣い稼ぎとか。=Chúng chẳng phải là tệ nhất sao? Chúng sẵn sàng bắt cóc trẻ em và làm hỏng cuộc sống của người khác vì tiền.
 
-だーかーらー\nわたし、『イイコト』しちゃおっかなーって★\nこんなふーに♪=That'sー Whyー I'll be doing 'Good Deeds' now★\nJust like this♪
+だーかーらー\nわたし、『イイコト』しちゃおっかなーって★\nこんなふーに♪=Chính vì thếー Tôi sẽ làm 'Việc thiện' ngay bây giờ★\nNhư thế này♪
 
 ぎゃああああっ！=Gyaaaah!
 
-あとは騎士団に任せて！=Let the Knights do the rest!
+あとは騎士団に任せて！=Để các Hiệp sĩ lo phần còn lại!
 
-やりすぎだ！=You're going too far!
+やりすぎだ！=Các ngươi đi quá xa rồi!
 
-……どうしても、なんですね。=...I don't really know about that.
-他のひとならともかく。\n騎士さんが、それだけ言うなら……=I don't quite care what other people says.\nBut I guess, if it's Kishi-san...
+……どうしても、なんですね。=...Tôi không thực sự biết về việc đó.
+他のひとならともかく。\n騎士さんが、それだけ言うなら……=Tôi không thực sự quan tâm đến điều người khác nói.\nNhưng tôi nghĩ, nếu là Kishi-san...
 
-デートするから。=I'll date you.
+デートするから。=Tôi sẽ đi hẹn hò với cậu.
 
 っ……=Mmm...
 
-もーいーです。\nなんかシラケーってゆーかー\nそんな気分じゃ、なくなっちゃいました。=It's fine, you don't have to. I'm not in the mood anymore.
+もーいーです。\nなんかシラケーってゆーかー\nそんな気分じゃ、なくなっちゃいました。=Được rồi, cậu không cần phải thế. Tôi không còn hứng thú nữa.
 
-わたし、帰りまーす。=I'll just go home.
+わたし、帰りまーす。=Tôi sẽ về nhà thôi.
 
-……ほんとは。\nそのひとたちのこと、\nワッフルみたいに蜂の巣にしてあげたいところですけど……=Honestly. I really wanted to fill these people full of leads...
+……ほんとは。\nそのひとたちのこと、\nワッフルみたいに蜂の巣にしてあげたいところですけど……=Thật đấy. Tớ thực sự muốn cho lũ đó ăn đạn đầy mình...
 
-ひぃっ！=Hiee!
+ひぃっ！=Hự!
 
-あとは、そっちでどーにかしてくださいね。\n騎士さん。=Please do something about them afterwards, Kishi-san.
+あとは、そっちでどーにかしてくださいね。\n騎士さん。=Sau này hãy xử lý chúng giúp tớ, Kishi-san.
 
-き、消えたっ！？=S-She's gone!?
+き、消えたっ！？=C-Cô ấy biến mất rồi!?
 
-助かったぁ……=We're saved...
+助かったぁ……=Chúng ta được cứu rồi...
 
-お前たち！\n何の騒ぎだっ！！=You guys! What's with all the ruckus here!!
+お前たち！\n何の騒ぎだっ！！=Các ngươi! Ở đây ồn ào thế nào!!
 
-あっ！\n【王宮騎士団（NIGHTMARE）】だ～っ♪=Ah! It's the Royal Knights!
+あっ！\n【王宮騎士団（NIGHTMARE）】だ～っ♪=À! Là Hiệp sĩ Hoàng gia!
 
-助かってねェ～！！=We're not saved!
+助かってねェ～！！=Chúng ta chưa được cứu!
 
 ……ミソラちゃん……=Misora-chan...
 
-ケンカ別れのような形で去っていったミソラ。\n{playername}は、複雑な思いで\n彼女のことを考えるのだった……=Misora fought with {playername} and split up in the end.\n{playername} is left thinking about her with mixed feeling...
+ケンカ別れのような形で去っていったミソラ。\n{playername}は、複雑な思いで\n彼女のことを考えるのだった……=Misora đã chiến đấu với {playername} và cuối cùng lại chia tay.\n{playername} còn lại đang suy nghĩ về cô ấy với cảm xúc phức tạp...

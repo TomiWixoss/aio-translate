@@ -1,29 +1,29 @@
 ##Profile##
-【魔法】後衛でぬいぐるみ達と大冒険に挑むマホ隊員。味方に付与する【ふわふわウール】は被ダメージ時に消費されＴＰを回復し、一気呵成の反撃で活路を切り拓く。=[Magic] A Maho's Squad who challenges a big adventure with stuffed animals in the RG. [Fluffy Wool] granted to allies is consumed when damaged, recovering TP, and opening up a way out with a one-shot counterattack.
+【魔法】後衛でぬいぐるみ達と大冒険に挑むマホ隊員。味方に付与する【ふわふわウール】は被ダメージ時に消費されＴＰを回復し、一気呵成の反撃で活路を切り拓く。=[Ma Thuật] Một Đội Ma Thuật Maho thử thách cuộc phiêu lưu lớn với gấu bông trong RG. [Lông Mềm] tặng cho đồng minh sẽ bị tiêu hao khi nhận sát thương, hồi TP, và mở đường với phản công một phát.
 
 ##UB##
-メルヘンエクスプロール=Fairy-tale Explorer
-前方範囲内の敵すべてに魔法大ダメージを与え、味方全体の魔法攻撃力を大アップする。=Deals large M.DMG to enemies in range, and greatly boosts all allies' M.ATK.
-r:"^範囲内の敵に(\d+)の魔法ダメージ味方全体の魔法攻撃力を(\d+)アップ$"=►Deals $1 M.DMG to enemies in 1000 range.\n►Boosts all allies' M.ATK by $2 for 18s.
+メルヘンエクスプロール=Nhà Thám Hiểm Cổ Tích
+前方範囲内の敵すべてに魔法大ダメージを与え、味方全体の魔法攻撃力を大アップする。=Gây Sát Thương Ma Thuật lớn cho kẻ địch trong phạm vi, và tăng mạnh M.ATK của tất cả đồng minh.
+r:"^範囲内の敵に(\d+)の魔法ダメージ味方全体の魔法攻撃力を(\d+)アップ$"=►Gây $1 Sát Thương Ma Thuật cho kẻ địch trong phạm vi 1000.\n►Tăng M.ATK của tất cả đồng minh bằng $2 trong 18s.
 
 ##S1##
-マホマホユニコーンスタンプ=Maho-Maho Unicorn Stamp
-味方全体の魔法攻撃力と魔法クリティカルを大アップさせ、前方範囲内の敵すべてに魔法中ダメージを与える。=Greatly boosts all allies' M.ATK and M.CRIT Rate, and deals moderate M.DMG to enemies in range.
-r:"^範囲内の敵に(\d+)の魔法ダメージ味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを100アップ$"=Cast time: 0.72s\n►Deals $1 M.DMG to enemies in 1000 range.\n►Boosts all allies' M.ATK by $2 for 12s.\n►Boosts all allies' M.CRIT Rate by 100 for 12s.
+マホマホユニコーンスタンプ=Con Dấu Kỳ Lân Ma Thuật
+味方全体の魔法攻撃力と魔法クリティカルを大アップさせ、前方範囲内の敵すべてに魔法中ダメージを与える。=Tăng mạnh M.ATK và Tỷ Lệ Chí Mạng Ma Thuật của tất cả đồng minh, và gây Sát Thương Ma Thuật vừa phải cho kẻ địch trong phạm vi.
+r:"^範囲内の敵に(\d+)の魔法ダメージ味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを100アップ$"=Thời gian niệm: 0.72s\n►Gây $1 Sát Thương Ma Thuật cho kẻ địch trong phạm vi 1000.\n►Tăng M.ATK của tất cả đồng minh bằng $2 trong 12s.\n►Tăng Tỷ Lệ Chí Mạng Ma Thuật của tất cả đồng minh bằng 100 trong 12s.
 
 ##S2##
-マホマホフェルトエール=Maho-Maho Felt Cheer
-味方全体に【ふわふわウール】を１つ付与し、ＨＰを中回復する。さらに自分のＴＰを中回復する。【ふわふわウール】はダメージを受けるたびに消費され、ＴＰを小回復する。【ふわふわウール】は最大２まで追加される。=Grants 1 [Fluffy Wool] to all allies and recovers their HP by a moderate amount. Additionally, moderately recovers own TP. [Fluffy Wool] is consumed each time an ally receives damage, and slightly recovers their TP. [Fluffy Wool] can be added up to 2.
-r:"^ダメージを受けた時、ＴＰを100回復して消失する【ふわふわウール】を味方全体に１つ付与する味方全体のＨＰを(\d+)回復自分のＴＰを250回復$"=Cast time: 1.00s\n►Grants 1 [Fluffy Wool] to all allies that recovers 100 TP when damaged.\n►Recovers all allies' HP by $1.\n►Recovers own TP by 250.
+マホマホフェルトエール=Lời Cửu Lông Ma Thuật
+味方全体に【ふわふわウール】を１つ付与し、ＨＰを中回復する。さらに自分のＴＰを中回復する。【ふわふわウール】はダメージを受けるたびに消費され、ＴＰを小回復する。【ふわふわウール】は最大２まで追加される。=Tặng 1 [Lông Mềm] cho tất cả đồng minh và hồi một lượng HP vừa phải cho họ. Ngoài ra, hồi TP của bản thân một lượng vừa phải. [Lông Mềm] bị tiêu hao mỗi khi đồng minh nhận sát thương, và hồi một lượng TP nhỏ cho họ. Có thể thêm [Lông Mềm] lên tối đa 2.
+r:"^ダメージを受けた時、ＴＰを100回復して消失する【ふわふわウール】を味方全体に１つ付与する味方全体のＨＰを(\d+)回復自分のＴＰを250回復$"=Thời gian niệm: 1.00s\n►Tặng 1 [Lông Mềm] cho tất cả đồng minh, hồi 100 TP khi nhận sát thương.\n►Hồi HP của tất cả đồng minh bằng $1.\n►Hồi TP của bản thân bằng 250.
 
 ##EX##
-メルヘンハートビート=Fairy-tale Heartbeat
-メルヘンハートビート+=Fairy-tale Heartbeat+
+メルヘンハートビート=Nhịp Đập Cổ Tích
+メルヘンハートビート+=Nhịp Đập Cổ Tích+
 
 ##S1+##
-マホマホユニコーンスタンプ+=Maho-Maho Unicorn Stamp+
-味方全体の魔法攻撃力を特大アップ、魔法クリティカルを大アップさせ、魔法攻撃クリティカル時のダメージを小アップさせる。さらに、前方範囲内の敵すべてに魔法大ダメージを与える。=Massively boosts all allies' M.ATK, greatly boosts their M.CRIT Rate, and slightly boosts their M.CRIT DMG. Additionally, deals massive M.DMG to enemies in range.
-r:"^範囲内の敵に(\d+)の魔法ダメージ味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを120アップ味方全体の魔法攻撃クリティカル時のダメージを5％アップ$"=►Deals $1 M.DMG to enemies in 1000 range.\n►Boosts all allies' M.ATK by $2 for 12s.\n►Boosts all allies' M.CRIT Rate by 120 for 12s.\n►Boosts all allies' M.CRIT DMG by 5% for 12s.
+マホマホユニコーンスタンプ+=Con Dấu Kỳ Lân Ma Thuật+
+味方全体の魔法攻撃力を特大アップ、魔法クリティカルを大アップさせ、魔法攻撃クリティカル時のダメージを小アップさせる。さらに、前方範囲内の敵すべてに魔法大ダメージを与える。=Tăng cực mạnh M.ATK của tất cả đồng minh, tăng mạnh Tỷ Lệ Chí Mạng Ma Thuật của họ, và hơi tăng Sát Thương Chí Mạng Ma Thuật của họ. Ngoài ra, gây Sát Thương Ma Thuật cực lớn cho kẻ địch trong phạm vi.
+r:"^範囲内の敵に(\d+)の魔法ダメージ味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを120アップ味方全体の魔法攻撃クリティカル時のダメージを5％アップ$"=►Gây $1 Sát Thương Ma Thuật cho kẻ địch trong phạm vi 1000.\n►Tăng M.ATK của tất cả đồng minh bằng $2 trong 12s.\n►Tăng Tỷ Lệ Chí Mạng Ma Thuật của tất cả đồng minh bằng 120 trong 12s.\n►Tăng Sát Thương Chí Mạng Ma Thuật của tất cả đồng minh bằng 5% trong 12s.
 
 ##UE##
-マホマホトラベラースーツ=Maho-Maho Traveler Suit
+マホマホトラベラースーツ=Bộ Đồ Du Khích Ma Thuật

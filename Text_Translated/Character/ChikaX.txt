@@ -1,42 +1,42 @@
 ##Profile##
-【魔法】後衛で、精霊を唱喚して戦う雪華の歌姫。ユニオンバーストで呼び出す精霊たちはＨＰやＴＰを回復する能力を持ち、不利な戦況をも一変させる。=[Magic] A winter songstress who fights from the backlines with the aid of ethereal spirits. The spirits she summons with her Union Burst can turn the tides of the fight by recovering allies' HP and TP.
+【魔法】後衛で、精霊を唱喚して戦う雪華の歌姫。ユニオンバーストで呼び出す精霊たちはＨＰやＴＰを回復する能力を持ち、不利な戦況をも一変させる。=[Phép thuật] Một nữ ca sĩ mùa đông chiến đấu ở hậu phương với sự giúp đỡ của các linh hồn hư ảo. Các linh hồn được triệu hồi bởi Union Burst của cô có thể xoay chuyển cục diện trận đấu bằng cách hồi HP và TP cho đồng đội.
 
 ##UB##
-シルフィードキャロル=Sylphid Carol
-【召喚】自分の目の前に３体の精霊を唱喚する。=[Summon] Summons three spirits directly in front of oneself.
-魔法攻撃を行う精霊を唱喚する最もＨＰが低い味方のＨＰを回復する精霊を唱喚する味方全体のＴＰを回復する精霊を唱喚する=Summons a spirit that performs M.ATKs.\nSummons a spirit that recovers the HP of the ally with the lowest HP.\nSummons a spirit that recovers the TP of all allies.
+シルフィードキャロル=Khúc ca Sylphid
+【召喚】自分の目の前に３体の精霊を唱喚する。=[Triệu hồi] Triệu hồi ba linh hồn ngay phía trước bản thân.
+魔法攻撃を行う精霊を唱喚する最もＨＰが低い味方のＨＰを回復する精霊を唱喚する味方全体のＴＰを回復する精霊を唱喚する=Triệu hồi một linh hồn thực hiện tấn công phép thuật (M.ATK).\nTriệu hồi một linh hồn hồi HP cho đồng đội có HP thấp nhất.\nTriệu hồi một linh hồn hồi TP cho tất cả đồng đội.
 
 ##S1##
-アセンションワルツ=Ascension Waltz
-一番物理攻撃力が高い味方１キャラの物理攻撃力を大アップさせる。=Large boost to the P.ATK of the ally with the highest P.ATK.
-r:"^味方単体の物理攻撃力を(\d+)アップ$"=►Boosts an ally's P.ATK by $1.
+アセンションワルツ=Điệu Van xứ Thăng tiến
+一番物理攻撃力が高い味方１キャラの物理攻撃力を大アップさせる。=Tăng rất lớn tấn công vật lý (P.ATK) của đồng đội có P.ATK cao nhất.
+r:"^味方単体の物理攻撃力を(\d+)アップ$"=►Tăng P.ATK của đồng đội lên $1.
 
 ##S2##
-ガーディアンメロディ=Guardian Melody
-自分を中心とした範囲内の味方すべての物理防御力を中アップさせ、さらにＴＰを小回復する。=Moderate boost to the allies' P.DEF in range, and recovers their TP by a small amount.
-自分を中心とした範囲内の味方すべての物理防御力を大アップさせ、さらにＴＰを小回復する。=massively boost to the allies' P.DEF in range, and recovers their TP by a small amount.
+ガーディアンメロディ=Giai điệu Bảo vệ
+自分を中心とした範囲内の味方すべての物理防御力を中アップさせ、さらにＴＰを小回復する。=Tăng khả năng phòng thủ vật lý (P.DEF) của đồng đội trong phạm vi một cách vừa phải, và hồi một chút TP cho họ.
+自分を中心とした範囲内の味方すべての物理防御力を大アップさせ、さらにＴＰを小回復する。=tăng rất lớn khả năng phòng thủ vật lý (P.DEF) của đồng đội trong phạm vi, và hồi một chút TP cho họ.
 
-r:"^範囲内の味方の物理防御力を(\d+)アップ範囲内の味方のＴＰを(\d+)回復$"=►Boosts allies' P.DEF in range by $1.\n►Recovers allies' TP in range by $2.
+r:"^範囲内の味方の物理防御力を(\d+)アップ範囲内の味方のＴＰを(\d+)回復$"=►Tăng P.DEF của đồng đội trong phạm vi lên $1.\n►Hồi TP của đồng đội trong phạm vi bằng $2.
 
 ##EX##
-ギフテッドアンセム=Gifted Anthem
-ギフテッドアンセム+=Gifted Anthem+
+ギフテッドアンセム=Bài ca Tài năng
+ギフテッドアンセム+=Bài ca Tài năng+
 
 ##S1+##
-アセンションワルツ+=Ascension Waltz+
-一番物理攻撃力が高い味方１キャラの物理攻撃力と物理クリティカルを大アップさせる。このキャラの魔法攻撃力が高い程、物理攻撃力の上昇量がアップする。=Greatly boosts the P.ATK and P.CRIT Rate of the ally with the highest P.ATK. The boost in P.ATK is further enhanced based on the character's M.ATK.
-r:"^味方単体の物理攻撃力を(\d+)アップ味方単体の物理クリティカルを(\d+)アップ$"=►Boosts an ally's P.ATK by $1.\n►Boosts an ally's P.CRIT Rate by $2.
+アセンションワルツ+=Điệu Van xứ Thăng tiến+
+一番物理攻撃力が高い味方１キャラの物理攻撃力と物理クリティカルを大アップさせる。このキャラの魔法攻撃力が高い程、物理攻撃力の上昇量がアップする。=Tăng rất lớn tấn công vật lý (P.ATK) và tỷ lệ chí mạng (P.CRIT Rate) của đồng đội có P.ATK cao nhất. Mức tăng P.ATK còn được tăng cường thêm dựa trên M.ATK của nhân vật.
+r:"^味方単体の物理攻撃力を(\d+)アップ味方単体の物理クリティカルを(\d+)アップ$"=►Tăng P.ATK của đồng đội lên $1.\n►Tăng tỷ lệ chí mạng (P.CRIT Rate) của đồng đội lên $2.
 
 ##S2+##
-ガーディアンメロディ+=Guardian Melody+
+ガーディアンメロディ+=Giai điệu Bảo vệ+
 
-自分の魔法攻撃力を特大アップさせ、自分を中心とした範囲内の味方すべての物理攻撃力を特大アップ、物理防御力を中アップし、さらにＴＰを小回復する。このキャラの魔法攻撃力に応じて最大２倍まで物理攻撃力の上昇量がアップする。=Boosts own M.ATK massively, and within a range centered around the user, boost allies' P.ATK massively , boost P.DEF moderately, and further recovers TP slightly. The boost in P.ATK is further enhanced, up to a maximum of two times, based on this character's M.ATK.
+自分の魔法攻撃力を特大アップさせ、自分を中心とした範囲内の味方すべての物理攻撃力を特大アップ、物理防御力を中アップし、さらにＴＰを小回復する。このキャラの魔法攻撃力に応じて最大２倍まで物理攻撃力の上昇量がアップする。=Tăng rất lớn M.ATK của bản thân, và trong phạm vi xung quanh người dùng, tăng rất lớn P.ATK của đồng đội, tăng vừa phải P.DEF, và hồi thêm một chút TP. Mức tăng P.ATK còn được tăng cường thêm, tối đa hai lần, dựa trên M.ATK của nhân vật này.
 
-自分の魔法攻撃力を特大アップさせ、自分を中心とした範囲内の味方すべての物理攻撃力を特大アップ、物理防御力を大アップし、さらにＴＰを小回復する。このキャラの魔法攻撃力に応じて最大２倍まで物理攻撃力の上昇量がアップする。=Boosts own M.ATK massively, and within a range centered around the user, boost allies' P.ATK massively , boost P.DEF massively, and further recovers TP slightly. The boost in P.ATK is further enhanced, up to a maximum of two times, based on this character's M.ATK.
+自分の魔法攻撃力を特大アップさせ、自分を中心とした範囲内の味方すべての物理攻撃力を特大アップ、物理防御力を大アップし、さらにＴＰを小回復する。このキャラの魔法攻撃力に応じて最大２倍まで物理攻撃力の上昇量がアップする。=Tăng rất lớn M.ATK của bản thân, và trong phạm vi xung quanh người dùng, tăng rất lớn P.ATK của đồng đội, tăng rất lớn P.DEF, và hồi thêm một chút TP. Mức tăng P.ATK còn được tăng cường thêm, tối đa hai lần, dựa trên M.ATK của nhân vật này.
 
 
-r:"^自分の魔法攻撃力を(\d+)アップ範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理防御力を(\d+)アップ範囲内の味方のＴＰを(\d+)回復$"=►Boosts own M.ATK by $1 for 18s.\n►Boosts allies' P.ATK in 400 range by $2 for 18s.\n►Boosts allies' P.DEF in 400 range by $3 for 18s.\n►Recovers allies' TP in 400 range by $4.
+r:"^自分の魔法攻撃力を(\d+)アップ範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理防御力を(\d+)アップ範囲内の味方のＴＰを(\d+)回復$"=►Tăng M.ATK của bản thân lên $1 trong 18 giây.\n►Tăng P.ATK của đồng đội trong phạm vi 400 lên $2 trong 18 giây.\n►Tăng P.DEF của đồng đội trong phạm vi 400 lên $3 trong 18 giây.\n►Hồi TP của đồng đội trong phạm vi 400 bằng $4.
 
 ##UE##
-翠霊杖ルーンスノウ=Jadestaff Rune Snow
-ルーンノエルドレス=Rune-Noel Dress
+翠霊杖ルーンスノウ=Rune - Áo choàng Tuyết
+ルーンノエルドレス=Trang phục Rune-Noel

@@ -1,33 +1,33 @@
 ##Profile##
-【魔法】後衛で皆を支える、ギルド管理協会の職員さん。通常攻撃の代わりに味方の能力を高める魔法を掛け、味方の守護や敵への妨害など、完璧なサポートをこなす。=[Magic] A staff member of the Guild Management Association who supports everyone from rearguard. Instead of normal attacks, she casts magic to enhance allies' abilities and provides perfect support such as protection for allies and interference against enemies.
+【魔法】後衛で皆を支える、ギルド管理協会の職員さん。通常攻撃の代わりに味方の能力を高める魔法を掛け、味方の守護や敵への妨害など、完璧なサポートをこなす。=[Ma thuật] Một nhân viên của Hiệp hội Quản lý Guild hỗ trợ mọi người từ hậu phương. Thay vì tấn công thường, cô ấy thi triển ma thuật để tăng cường khả năng của đồng minh và cung cấp hỗ trợ hoàn hảo như bảo vệ đồng minh và gây nhiễu loạn cho kẻ thù.
 
-書類仕事、散歩、ボードゲーム=Document Work, Walk, Board game
+書類仕事、散歩、ボードゲーム=Công việc văn thư, Đi dạo, Trò chơi bảng
 
-事件調査もお仕事です=Incident Investigation is Also a Job.
-新人サポートもお仕事です=New employee support is also a Job.
-犯人逮捕もお仕事です=A Job to Catch Criminals.
-人材発見がお仕事です=A Job to Find Talent
-【ギルド管理協会】職員の親切なお姉さん=Kind lady of Guild Management Association staff
+事件調査もお仕事です=Điều tra sự kiện cũng là Công việc.
+新人サポートもお仕事です=Hỗ trợ nhân viên mới cũng là Công việc.
+犯人逮捕もお仕事です=Một Công việc để Bắt tội phạm.
+人材発見がお仕事です=Một Công việc để Tìm kiếm Nhân tài
+【ギルド管理協会】職員の親切なお姉さん=Quý cô tử tế của nhân viên Hiệp hội Quản lý Guild
 
 ##UB##
-コールオブギルド=Call of Guild
-味方全体のクリティカル時のダメージを小アップさせ、敵全体のクリティカル時のダメージを中ダウンさせる。さらに、味方全体に物理/魔法無効バリアを展開する。=Slightly boosts all allies' P/M.CRIT DMG, and moderately lowers all enemies' P/M.CRIT DMG. Additionally, deploys Barrier over all allies that negates P/M.DMG.
-r:"^味方全体のクリティカル時のダメージを10%アップ敵全体のクリティカル時のダメージを25%ダウン(\d+)ダメージ分の物理魔法無効バリアを展開する$"=►Boosts all allies' P/M.CRIT DMG by 10% for 18s.\n►Lowers all enemies' P/M.CRIT DMG by 25% for 18s.\n►Deploys Barrier over all allies that negates $1 P/M.DMG for 18s.
+コールオブギルド=Lời Hiệu triệu Guild
+味方全体のクリティカル時のダメージを小アップさせ、敵全体のクリティカル時のダメージを中ダウンさせる。さらに、味方全体に物理/魔法無効バリアを展開する。=Tăng nhỏ Sát thương Vật lý/Ma thuật phê phán của tất cả đồng minh, và giảm đáng kể Sát thương Vật lý/Ma thuật phê phán của tất cả kẻ thù. Ngoài ra, triển khai Mặt trận bảo vệ lên tất cả đồng minh, vô hiệu hóa Sát thương Vật lý/Ma thuật.
+r:"^味方全体のクリティカル時のダメージを10%アップ敵全体のクリティカル時のダメージを25%ダウン(\d+)ダメージ分の物理魔法無効バリアを展開する$"=►Tăng Sát thương Vật lý/Ma thuật phê phán của tất cả đồng minh lên 10% trong 18s.\n►Giảm Sát thương Vật lý/Ma thuật phê phán của tất cả kẻ thù lên 25% trong 18s.\n►Triển khai Mặt trận bảo vệ lên tất cả đồng minh, vô hiệu hóa $1 Sát thương Vật lý/Ma thuật trong 18s.
 
 ##S1##
-ギルドオブストレングス=Guild of Strength
-味方全体の物理攻撃力と魔法攻撃力を大アップさせ、さらに力の魔字を刻む。力の魔字が刻まれている間、味方の行動速度を大アップさせる。（このスキルの効果は他の行動速度変化スキルと重複する）=Greatly boosts all allies' P/M.ATK, and engraves the power spell. Boosts all allies action speed by 50% (can overlap) when power spell is engraved.
+ギルドオブストレングス=Guild Sức mạnh
+味方全体の物理攻撃力と魔法攻撃力を大アップさせ、さらに力の魔字を刻む。力の魔字が刻まれている間、味方の行動速度を大アップさせる。（このスキルの効果は他の行動速度変化スキルと重複する）=Tăng rất mạnh Tấn công Vật lý/Ma thuật của tất cả đồng minh, và khắc ấn phép tăng sức mạnh. Khi phép tăng sức mạnh được khắc ấn, tăng tốc độ hành động của tất cả đồng minh thêm 50% (có thể chồng lấn).
 
 ##S2##
-ギルドオブデトネーション=Guild of Detonation
-敵全体に魔法中ダメージを与え、さらに大きく吹き飛ばす。=Deals moderate M.DMG to all enemies and blows them away.
+ギルドオブデトネーション=Guild Động đất
+敵全体に魔法中ダメージを与え、さらに大きく吹き飛ばす。=Gây Sát thương Ma thuật vừa phải lên tất cả kẻ thù và đánh bay chúng.
 
 ##SP1##
-エグゼクティブサポート=Executive Support
-このスキルのスキルレベルは「コールオブギ\nルド」と連動しています=This skill's level is linked to "Call of Guild"
-味方全体の物理攻撃力と魔法攻撃力と物理防御力と魔法防御力を中アップさせる。=Moderately boosts all allies' P.ATK, M.ATK, P.DEF, and M.DEF.
-味方全体の物理攻撃力を初期値の20%アップ\n味方全体の魔法攻撃力を初期値の20%アップ\n味方全体の物理防御力を初期値の20%アップ\n味方全体の魔法防御力を初期値の20%アップ=Cast time: 1.75s\n►Boosts all allies' P.ATK by 20% for 12s.\n►Boosts all allies' M.ATK by 20% for 12s.\n►Boosts all allies' P.DEF by 20% for 12s.\n►Boosts all allies' M.DEF by 20% for 12s.
+エグゼクティブサポート=Hỗ trợ Điều hành
+このスキルのスキルレベルは「コールオブギ\nルド」と連動しています=Cấp độ kỹ năng này liên kết với "Lời Hiệu triệu Guild"
+味方全体の物理攻撃力と魔法攻撃力と物理防御力と魔法防御力を中アップさせる。=Tăng vừa phải Tấn công Vật lý, Tấn công Ma thuật, Phòng thủ Vật lý và Phòng thủ Ma thuật của tất cả đồng minh.
+味方全体の物理攻撃力を初期値の20%アップ\n味方全体の魔法攻撃力を初期値の20%アップ\n味方全体の物理防御力を初期値の20%アップ\n味方全体の魔法防御力を初期値の20%アップ=Thời gian niệm: 1.75s\n►Tăng Tấn công Vật lý của tất cả đồng minh lên 20% trong 12s.\n►Tăng Tấn công Ma thuật của tất cả đồng minh lên 20% trong 12s.\n►Tăng Phòng thủ Vật lý của tất cả đồng minh lên 20% trong 12s.\n►Tăng Phòng thủ Ma thuật của tất cả đồng minh lên 20% trong 12s.
 
 ##EX##
-ペンオブハーモニー=Pen of Harmony
-ペンオブハーモニー+=Pen of Harmony+
+ペンオブハーモニー=Bút Hòa hợp
+ペンオブハーモニー+=Bút Hòa hợp+

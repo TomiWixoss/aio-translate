@@ -1,22 +1,22 @@
-【物理】中衛で巨大ロボを駆り戦うぼっちのパイロット。敵の弱体化や、味方へバリアを展開するスキルを持ち、鋼鉄の乙女から放つ光線はいかに堅固な守りも打ち破る。=[Physical] A bocchi pilot who driving a giant robot from the midlines. She weakens the enemy and protects her allies with a barrier. The beam of light that she shoots out of her Steel Maiden can pierce through any enemy, no matter how tough.
+【物理】中衛で巨大ロボを駆り戦うぼっちのパイロット。敵の弱体化や、味方へバリアを展開するスキルを持ち、鋼鉄の乙女から放つ光線はいかに堅固な守りも打ち破る。=[Thể chất] Một phi công "bocchi" điều khiển robot khổng lồ từ tuyến giữa. Cô yếu kẻ thù và bảo vệ đồng đội bằng một lá chắn. Tia sáng mà cô bắn ra từ "Thiếu Nữ Thép" có thể xuyên thấu mọi kẻ thù, dù chúng cứng rắn đến đâu.
 
 ##UB##
-ギガンティックキャノン発射！=Gigantic Cannon, fire!
+ギガンティックキャノン発射！=Pháo Khổng Lồ, bắn!
 
-自分の物理攻撃力を特大アップし、\n目の前の敵１キャラに物理特大ダ\nメージを与える。さらに目の前の敵\n１キャラを中心に、物理ダメージ\nフィールドと、物理攻撃力を大ダウ\nン、物理防御力を特大ダウンさせる\nフィールドを展開する。=Massively increases own P.ATK, deals massive P.DMG to the frontmost enemy. Also deploys a field centered on that enemy that deals P.DMG over time, greatly reduces their P.ATK, and massively reduces their P.DEF.
-r:"^自分の物理攻撃力を(\d+)アップ敵単体に(\d+)の物理ダメージフィールド内の敵の物理攻撃力(\d+)ダウンフィールド内の敵の物理防御力(\d+)ダウン毎秒(\d+)の物理ダメージを与えるフィールドを展開する$"=►Boosts own P.ATK by $1.\n►Deals $2 P.DMG to the frontmost enemy.\n►Lowers P.ATK of enemies in the field by $3.\n►Lowers P.DEF of enemies in the field by $4.\n►Field deals $5 P.DMG/s.
+自分の物理攻撃力を特大アップし、\n目の前の敵１キャラに物理特大ダ\nメージを与える。さらに目の前の敵\n１キャラを中心に、物理ダメージ\nフィールドと、物理攻撃力を大ダウ\nン、物理防御力を特大ダウンさせる\nフィールドを展開する。=Tăng mạnh P.ATK của bản thân, gây sát thương thể chất lớn lên kẻ thù phía trước nhất. Đồng thời triển khai một vùng hiệu ứng xoay quanh kẻ thù đó, gây sát thương thể chất theo thời gian, giảm mạnh P.ATK và giảm cực mạnh P.DEF của chúng.
+r:"^自分の物理攻撃力を(\d+)アップ敵単体に(\d+)の物理ダメージフィールド内の敵の物理攻撃力(\d+)ダウンフィールド内の敵の物理防御力(\d+)ダウン毎秒(\d+)の物理ダメージを与えるフィールドを展開する$"=►Tăng P.ATK của bản thân lên $1.\n►Gây $2 sát thương thể chất lên kẻ thù phía trước nhất.\n►Giảm P.ATK của kẻ thù trong vùng hiệu ứng xuống $3.\n►Giảm P.DEF của kẻ thù trong vùng hiệu ứng xuống $4.\n►Vùng hiệu ứng gây $5 sát thương thể chất/giây.
 
 ##S1##
-クロースぼっちコンバット=Close Bocchi Combat
+クロースぼっちコンバット=Chiến Đấu Cận Chiến Bocchi
 
-目の前の敵１キャラに物理大ダメー\nジを与える。さらにそのキャラを中\n心とした範囲内の敵すべてに物理中\nダメージを与え、物理攻撃力を中ダ\nウン、物理防御力を小ダウンさせ\nる。【フィールド展開中】このスキ\nルのダメージがアップし、目の前の\n敵１キャラを中心とした範囲内の敵\nすべてのクリティカルを受けた際の\nダメージを小アップさせる。=Deals large P.DMG to the frontmost enemy. Also deals moderate P.DMG to enemies in an area centered on that target, moderately lowers their P.ATK, and slightly lowers their P.DEF. [While field is active] Damage increases, and enemies in range take slightly more critical damage.
-r:"^敵単体に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理攻撃力を(\d+)ダウン範囲内の敵の物理防御力を(\d+)ダウンフィールド展開中、範囲内の敵の被クリダメを(\d+％)アップ$"=►Deals $1 P.DMG to the frontmost enemy.\n►Deals $2 P.DMG to enemies in range.\n►Lowers P.ATK of enemies in range by $3.\n►Lowers P.DEF of enemies in range by $4.\n►Increases crit DMG taken by enemies in range by $5 while field is active.
+目の前の敵１キャラに物理大ダメー\nジを与える。さらにそのキャラを中\n心とした範囲内の敵すべてに物理中\nダメージを与え、物理攻撃力を中ダ\nウン、物理防御力を小ダウンさせ\nる。【フィールド展開中】このスキ\nルのダメージがアップし、目の前の\n敵１キャラを中心とした範囲内の敵\nすべてのクリティカルを受けた際の\nダメージを小アップさせる。=Gây sát thương thể chất lớn lên kẻ thù phía trước nhất. Đồng thời gây sát thương thể chất trung bình lên kẻ thù trong vùng xoay quanh mục tiêu đó, giảm trung bình P.ATK của chúng và giảm nhẹ P.DEF. [Trong khi vùng hiệu ứng còn hoạt động] Sát thương tăng lên, và kẻ thù trong phạm vi nhận thêm sát thương phán đoán nhẹ.
+r:"^敵単体に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理攻撃力を(\d+)ダウン範囲内の敵の物理防御力を(\d+)ダウンフィールド展開中、範囲内の敵の被クリダメを(\d+％)アップ$"=►Gây $1 sát thương thể chất lên kẻ thù phía trước nhất.\n►Gây $2 sát thương thể chất lên kẻ thù trong phạm vi.\n►Giảm P.ATK của kẻ thù trong phạm vi xuống $3.\n►Giảm P.DEF của kẻ thù trong phạm vi xuống $4.\n►Tăng sát thương phán đoán mà kẻ thù trong phạm vi phải nhận khi vùng hiệu ứng còn hoạt động lên $5.
 
 ##S2##
-ピンポイントぼっちバリア=Pinpoint Bocchi Barrier
+ピンポイントぼっちバリア=Lá Chắn Bocchi Chính Xác
 
-自分に物理無効バリアを展開し、さ\nらに自分の物理攻撃力を特大アッ\nプ、ＴＰ上昇を小アップし、ＴＰを\n中回復する。【フィールド展開中】\n味方全体に物理/魔法吸収バリアを\n展開し、さらに味方全体の物理攻撃\n力を特大アップ、ＴＰを小回復させ\nる。=Deploys a physical-nullifying barrier for self, massively increases own P.ATK, slightly boosts TP Boost, and moderately recovers TP. [While field is active] Deploys a physical/magical absorption barrier to all allies, greatly increases their P.ATK, and slightly recovers their TP.
-r:"^(\d+)ダメージ分の物理無効バリアを展開する自分の物理攻撃力を(\d+)アップ自分のＴＰ上昇を(\d+)アップ自分のＴＰを(\d+)回復フィールド展開中、以下の効果が発動する(\d+)ダメージ分の物理魔法吸収バリアを展開する味方全体の物理攻撃力を(\d+)アップ味方全体のＴＰを(\d+)回復$"=►Deploys phys-nullifying Barrier on self that negates $1 P.DMG.\n►Boosts own P.ATK by $2.\n►Boosts own TP Boost by $3.\n►Recovers own TP by $4.\n►[If field is active]:\n　►Deploys phys/magic absorb Barrier to all allies that absorbs $5 damage.\n　►Boosts all allies' P.ATK by $6.\n　►Recovers all allies' TP by $7.
+自分に物理無効バリアを展開し、さ\nらに自分の物理攻撃力を特大アッ\nプ、ＴＰ上昇を小アップし、ＴＰを\n中回復する。【フィールド展開中】\n味方全体に物理/魔法吸収バリアを\n展開し、さらに味方全体の物理攻撃\n力を特大アップ、ＴＰを小回復させ\nる。=Triển khai một lá chắn phản thể chất cho bản thân, tăng mạnh P.ATK của bản thân, tăng nhẹ Hiệu Quả Tăng TP và hồi trung bình TP. [Trong khi vùng hiệu ứng còn hoạt động] Triển khai lá chắn hấp thụ thể chất/phép cho tất cả đồng đội, tăng mạnh P.ATK của họ và hồi nhẹ TP của họ.
+r:"^(\d+)ダメージ分の物理無効バリアを展開する自分の物理攻撃力を(\d+)アップ自分のＴＰ上昇を(\d+)アップ自分のＴＰを(\d+)回復フィールド展開中、以下の効果が発動する(\d+)ダメージ分の物理魔法吸収バリアを展開する味方全体の物理攻撃力を(\d+)アップ味方全体のＴＰを(\d+)回復$"=►Triển khai Lá Chắn phản thể chất trên bản thân, phản $1 sát thương thể chất.\n►Tăng P.ATK của bản thân lên $2.\n►Tăng Hiệu Quả Tăng TP của bản thân lên $3.\n►Hồi TP của bản thân lên $4.\n►[Nếu vùng hiệu ứng còn hoạt động]:\n　►Triển khai Lá Chắn hấp thụ thể chất/phép cho tất cả đồng đội, hấp thụ $5 sát thương.\n　►Tăng P.ATK của tất cả đồng đội lên $6.\n　►Hồi TP của tất cả đồng đội lên $7.
 
 ##EX##
-ぼっちの出撃+=Bocchi's sortie +
+ぼっちの出撃+=Xuất Kích Bocchi +

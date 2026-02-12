@@ -1,54 +1,52 @@
-魔物退治の特訓をするためモニカが街の外に出ようとするのを見て、{playername}が子供が魔物と戦うのは危険だと諭す。自分は子供ではないと否定し魔物と戦うモニカを{playername}は助ける。=To train in monster extermination, Monika tries to go outside the town. {playername} warns that it's dangerous for a child to fight monsters. Monika denies being a child and {playername} helps her fight monsters.
+魔物退治の特訓をするためモニカが街の外に出ようとするのを見て、{playername}が子供が魔物と戦うのは危険だと諭す。自分は子供ではないと否定し魔物と戦うモニカを{playername}は助ける。=Để rèn luyện trong việc tiêu diệt quái vật, Monika cố gắng ra ngoài thị trấn. {playername} cảnh báo rằng nguy hiểm cho một đứa trẻ chiến đấu với quái vật. Monika phủ nhận mình là đứa trẻ và {playername} giúp cô chiến đấu với quái vật.
 
-{playername}が散歩をしていると、\n頭を抱えている女の子を目撃した。=While taking a walk, {playername} witnesses a girl clutching her head.
-うーむ……\nギルドを結成したのはいいが、\nまさか、まともに魔物退治もできないとは……=Hmmm... It's good that we formed a guild, but I never expected us to be incapable of proper monster extermination...
-全ては、私に司令官としての能力が欠如していたせいだ。\nもっと的確に指示を出せていれば……=It's all because of my lacking abilities as a commander. If only I could give more accurate instructions...
-よしっ！　ならば特訓あるのみだ！\n私が強くなれば、その分ギルドが強くなるだろう！=Alright! We have no choice but to train! If I become stronger, the guild will become stronger as well!
-……しかし街中では人がいて危険だな。\n仕方ない、外に出て特訓するか。=...But it's dangerous with people around in the town. Well, I guess I'll have to train outside.
+{playername}が散歩をしていると、\n頭を抱えている女の子を目撃した。=Trong khi đi dạo, {playername} chứng kiến một cô gái nắm chặt đầu mình.
+うーむ……\nギルドを結成したのはいいが、\nまさか、まともに魔物退治もできないとは……=Hừm... Tốt là chúng ta đã thành lập guild, nhưng tôi chưa bao giờ ngờ rằng chúng ta không thể tiêu diệt quái vật một cách thích hợp...
+全ては、私に司令官としての能力が欠如していたせいだ。\nもっと的確に指示を出せていれば……=Tất cả đều do khả năng chỉ huy thiếu sót của tôi. Giá như tôi có thể đưa ra chỉ dẫn chính xác hơn...
+よしっ！　ならば特訓あるのみだ！\n私が強くなれば、その分ギルドが強くなるだろう！=Được rồi! Chúng ta không còn lựa chọn nào khác ngoài việc rèn luyện! Nếu tôi mạnh hơn, guild cũng sẽ mạnh lên!
+……しかし街中では人がいて危険だな。\n仕方ない、外に出て特訓するか。=...Nhưng nguy hiểm khi có người xung quanh trong thị trấn. Chà, tôi nghĩ tôi sẽ phải rèn luyện bên ngoài.
 
-呼び止める。=Call out her.
-む？　なんだ、貴公は？\n私に用か？=Huh? Who are you? What do you want from me?
-街の外は危険……だと？\nそんなことはわかっている。\n危険だからこそ、訓練になるのではないか。=It's dangerous outside the town...? I know that. It's precisely because it's dangerous that it becomes training, isn't it?
-なに……？\n子供が一人で出てはダメ……？=What...? A child shouldn't go out alone...?
-こ、子供ではないっ！=I-I'm not a child!
-私はモニカ・ヴァイスヴィント！\n誇り高きヴァイスフリューゲルに所属する、\n立派な軍人だ！=I am Monika Weisswind, a proud member of the Weissflügel, a distinguished soldier!
-軍人ごっこ、楽しいよね。=Playing soldier is fun, isn't it?
-ごっこ、ではない！=It's not playing soldier!
-貴公、さては信じていないな！？\n嘘ではない、私は本当に軍人なのだ！=You... You don't believe me, do you?! It's not a lie, I really am a soldier!
-ん？　両親の居場所？　私の家……？\nなぜ、そんなことを聞く？=Huh? My parents' whereabouts? My home...? Why are you asking such things?
-送り届けるため……？\nだから、私は子供ではないと言っているっ！=To escort me home...?\nI told you, I'm not a child!
-ぐぬぬ……\nどうやら貴公は、私を怒らせたいようだな。=Grrr... It seems you're trying to provoke me.
-もう、貴公など知らん！\n私は特訓に向かう。止めても無駄だ！=Fine, I don't care about you anymore! I'm heading for my training. It's useless to try and stop me!
-後を追う。=Follow her.
-ふむ……\nここなら、広いし訓練にもちょうどいいな。=Hmm... This place is wide enough and suitable for training.
-……なんだ貴公、ついてきたのか？\n心配しなくとも、街を出たからといって、\nすぐに魔物と遭遇するはずが──=...What's the matter? Why did you follow me? Even if we left the town, it doesn't mean we'll encounter monsters immediately...
-ま、魔物！？\n噂をすればなんとやら、か……=Well, a monster?! So it's true after all...
-なに？　逃げよう、だと？\nなら、一人で逃げるのだな。=What? You're suggesting we run away? Then go ahead and run alone.
-私は軍人だ。魔物相手でも逃げたりはしない。\nたとえ一人でも戦ってみせる。=I'm a soldier. I won't run away even if it's against monsters. I'll fight, even if I'm alone.
-なんだ……なにを呆れている？\n仕方ない、とはどういうことだ？=What...? Why are you so astonished? What do you mean, "it can't be helped"?
-モニカをパワーアップする。=Power up Monika.
-……む！？\nなんだ、これは……？\n力がみなぎってくる！？=Hmm?!\nWhat's this...?\nPower is surging within me!
-これならば、魔物も怖れることはない！\nくらえっ！=With this, even monsters have nothing to fear! Take this!
-ふふ、どうだ私の実力は？\n素晴らしいだろう？=Hehe, how's my strength? It's magnificent, isn't it?
-そうか、すごいか！\nやっと貴公も私を軍人と認める気に……=I see, it's amazing! Finally, you acknowledge me as a soldier, too...
-え？　すごく強い子供でびっくりした？\nわ、私は子供ではないっ！=Huh? You're surprised that a child is so strong? I... I'm not a child!
-お、おい！　なぜ手をつかむ！？\n誰が触れていいと言った！？=Hey! Why are you grabbing my hand? Who said you could touch me?
-は……？　危ないからおうちまで\n送ってあげるだと？=Huh...? You'll take me home because it's dangerous?
-う、うぐぐ……\nだから、私を子供扱いするなっ！=U-Ugh... I... I told you not to treat me like a child!
-貴公は、そんなに私を愚弄したいのか！？\n不愉快だ！=Do you want to mock me that much? It's unpleasant!
-これをあげるから、機嫌なおして。=I'll give you this, so cheer up.
-ふん、そのようなもの受け取る気は……=Hmph, I don't feel like accepting such a thing...
-それは……アメか？\n……し、仕方ない。\nどうしてもというなら、受け取ってやろう。=Is this... candy?... Sigh, fine. If you insist, I'll accept it.
+呼び止める。=Gọi cô ấy.
+む？　なんだ、貴公は？\n私に用か？=Hả? Cậu là ai? Cậu muốn gì từ tôi?
+街の外は危険……だと？\nそんなことはわかっている。\n危険だからこそ、訓練になるのではないか。=Nguy hiểm bên ngoài thị trấn...? Tôi biết. Chính vì nguy hiểm mà nó trở thành rèn luyện, phải không?
+なに……？\n子供が一人で出てはダメ……？=Cái gì...? Một đứa trẻ không nên đi ra ngoài một mình...?
+こ、子供ではないっ！=T-Tôi không phải trẻ con!
+私はモニカ・ヴァイスヴィント！\n誇り高きヴァイスフリューゲルに所属する、\n立派な軍人だ！=Tôi là Monika Weisswind, một thành viên tự hào của Weissflügel, một binh sĩ ưu tú!
+軍人ごっこ、楽しいよね。=Chơi binh sĩ vui vẻ, phải không?
+ごっこ、ではない！=Đó không phải chơi binh sĩ!
+貴公、さては信じていないな！？\n嘘ではない、私は本当に軍人なのだ！=Cậu... Cậu không tin tôi, phải không?! Đó không phải nói dối, tôi thực sự là binh sĩ!
+ん？　両親の居場所？　私の家……？\nなぜ、そんなことを聞く？=Hả? Vị trí của cha mẹ tôi? Nhà tôi...? Tại sao cậu hỏi những thứ như vậy?
+送り届けるため……？\nだから、私は子供ではないと言っているっ！=Để hộ tống tôi về nhà...?\nTôi đã nói với cậu, tôi không phải đứa trẻ!
+ぐぬぬ……\nどうやら貴公は、私を怒らせたいようだな。=Grrr... Có vẻ như cậu đang cố kích thích tôi.
+もう、貴公など知らん！\n私は特訓に向かう。止めても無駄だ！=Được rồi, tôi không quan tâm đến cậu nữa! Tôi sẽ đi rèn luyện. Vô ích nếu cố gắng ngăn cản tôi!
+後を追う。=Theo sau cô ấy.
+ふむ……\nここなら、広いし訓練にもちょうどいいな。=Hừm... Nơi này đủ rộng và phù hợp để rèn luyện.
+……なんだ貴公、ついてきたのか？\n心配しなくとも、街を出たからといって、\nすぐに魔物と遭遇するはずが──=...Sao vậy? Tại sao cậu theo tôi? Ngay cả khi chúng ta rời thị trấn, điều đó không có nghĩa là chúng ta sẽ gặp quái vật ngay lập tức...
+ま、魔物！？\n噂をすればなんとやら、か……=Ồ, một con quái vật?! Vậy là đúng thật rồi...
+なに？　逃げよう、だと？\nなら、一人で逃げるのだな。=Cái gì? Cậu đề nghị chúng ta chạy trốn? Vậy cứ chạy một mình đi.
+私は軍人だ。魔物相手でも逃げたりはしない。\nたとえ一人でも戦ってみせる。=Tôi là binh sĩ. Tôi sẽ không chạy trốn ngay cả khi đối mặt với quái vật. Tôi sẽ chiến đấu, ngay cả khi tôi một mình.
+なんだ……なにを呆れている？\n仕方ない、とはどういうことだ？=Cái gì...? Tại sao cậu ngạc nhiên vậy? Ý cậu là 'không thể tránh khỏi' là sao?
+モニカをパワーアップする。=Tăng cường Monika.
+……む！？\nなんだ、これは……？\n力がみなぎってくる！？=Hừm?!\nĐây là cái gì...?\nSức mạnh đang trào dâng trong tôi!
+これならば、魔物も怖れることはない！\nくらえっ！=Với thế này, ngay cả quái vật cũng không có gì đáng sợ! Nhận lấy!
+ふふ、どうだ私の実力は？\n素晴らしいだろう？=Hehe, sức mạnh của tôi thế nào? Tuyệt vời, phải không?
+そうか、すごいか！\nやっと貴公も私を軍人と認める気に……=Tôi hiểu rồi, thật tuyệt vời! Cuối cùng cậu cũng công nhận tôi là binh sĩ...
+え？　すごく強い子供でびっくりした？\nわ、私は子供ではないっ！=Hả? Cậu ngạc nhiên vì một đứa trẻ mạnh đến vậy? Tôi... Tôi không phải đứa trẻ!
+お、おい！　なぜ手をつかむ！？\n誰が触れていいと言った！？=Này! Tại sao cậu nắm tay tôi? Ai cho phép cậu chạm vào tôi?
+は……？　危ないからおうちまで\n送ってあげるだと？=Hả...? Cậu sẽ đưa tôi về nhà vì nguy hiểm?
+う、うぐぐ……\nだから、私を子供扱いするなっ！=U-Ugh... Tôi... Tôi đã nói với cậu đừng đối xử với tôi như đứa trẻ!
+貴公は、そんなに私を愚弄したいのか！？\n不愉快だ！=Cậu muốn chế giễu tôi đến vậy sao? Khó chịu quá!
+これをあげるから、機嫌なおして。=Tôi sẽ tặng cậu cái này, vì vậy hãy vui lên.
+ふん、そのようなもの受け取る気は……=Hmph, tôi không muốn nhận thứ như vậy...
+それは……アメか？\n……し、仕方ない。\nどうしてもというなら、受け取ってやろう。=Đây là... kẹo?... Thở dài, được rồi. Nếu cậu cứng nhắc, tôi sẽ nhận.
 
-あむっ……！\nうん、なかなかの味だ！=Munch... Mmm, it tastes pretty good!
+あむっ……！\nうん、なかなかの味だ！=Nhai... Mmm, nó ngon thật!
 
-貴公、名前は？\n……{playername}か。=Your name?... {playername}, is it?
-{playername}、このアメに免じて、\nさっきの非礼は許そう。={playername}, in consideration of this candy, I'll forgive your rudeness earlier.
-では、今日の特訓はこれくらいにしておこう。\n{playername}、帰るぞ！=Well, let's call it a day for today's training. {playername}, let's go back!
+貴公、名前は？\n……{playername}か。=Tên cậu?... {playername}, phải không?
+{playername}、このアメに免じて、\nさっきの非礼は許そう。={playername}, xét đến việc có cái kẹo này, tôi sẽ tha thứ cho sự thô lỗ trước đó của cậu.
+では、今日の特訓はこれくらいにしておこう。\n{playername}、帰るぞ！=Chà, hôm nay chúng ta kết thúc buổi rèn luyện đi. {playername}, chúng ta về thôi!
 
-アメ一つで、すっかり機嫌を良くするモニカであった。=With just one candy, Monika's mood brightened considerably.
-
-
+アメ一つで、すっかり機嫌を良くするモニカであった。=Chỉ với một cái kẹo, tâm trạng của Monika đã sáng láng đáng kể.
 
 
 
@@ -56,10 +54,12 @@
 
 
 
-こ、子供ではないっ！=I-I'm not a child!
 
 
-軍人ダッタノカー=Yes yes, a soldier in a duty
+こ、子供ではないっ！=T-Tôi không phải trẻ con!
+
+
+軍人ダッタノカー=Vâng vâng, một người lính đang làm nhiệm vụ
 
 
 

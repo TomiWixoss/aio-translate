@@ -1,14 +1,14 @@
 リトル・サマー・メモリーズ　渚でみつけた小さな幸せ
-r:"^ちいさな出会いの海岸([0-9\-\(\)\w （）]*)$"=Beach of Small Encounter $1
-ムーンレイゲート=Moonlight Gate
-みゅ～ちゃん すくすく日記=Myu-chan's Diary
-前へ=Back
-一覧に戻る=back to index
+r:"^ちいさな出会いの海岸([0-9\-\(\)\w （）]*)$"=Bãi biển Cuộc gặp gỡ nhỏ $1
+ムーンレイゲート=Cổng Ánh trăng
+みゅ～ちゃん すくすく日記=Nhật ký của Myu-chan
+前へ=Quay lại
+一覧に戻る=quay lại chỉ mục
 
-みゅ～ちゃんすくすく日記その1=Myu-chan's Diary No. 1
-みゅ～ちゃんすくすく日記その2=Myu-chan's Diary No. 2
-みゅ～ちゃんすくすく日記その3=Myu-chan's Diary No. 3
-みゅ～ちゃんすくすく日記その4=Myu-chan's Diary No. 4
-絵日記解放=Unlock the picture diary
-スペシャルバトル解放チュートリアル=Special Battle Tutorial
+みゅ～ちゃんすくすく日記その1=Nhật ký của Myu-chan Số 1
+みゅ～ちゃんすくすく日記その2=Nhật ký của Myu-chan Số 2
+みゅ～ちゃんすくすく日記その3=Nhật ký của Myu-chan Số 3
+みゅ～ちゃんすくすく日記その4=Nhật ký của Myu-chan Số 4
+絵日記解放=Mở khóa nhật ký tranh
+スペシャルバトル解放チュートリアル=Hướng dẫn Trận đặc biệt
 

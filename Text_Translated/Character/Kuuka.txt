@@ -1,50 +1,50 @@
 ##Profile##
-妄想大好き！　ほんとは照れ屋な女の子=A shy girl who loves fantasizing
-小説を読むこと=Reading novel
+妄想大好き！　ほんとは照れ屋な女の子=Một cô gái nhút nhát thích mộng tưởng
+小説を読むこと=Đọc tiểu thuyết
 
-【物理】前衛で囮となり、攻撃を引き付ける暴走ドＭ娘。ユニオンバーストにより、自身に魔法バリアを張り、敵の魔法攻撃を吸収してＨＰを回復する。=[Physical] A raging masochist who acts as a decoy in the vanguard to draw attacks. Her Union Burst erects a barrier that heals her by absorbing magical attacks.
+【物理】前衛で囮となり、攻撃を引き付ける暴走ドＭ娘。ユニオンバーストにより、自身に魔法バリアを張り、敵の魔法攻撃を吸収してＨＰを回復する。=[Vật lý] Một người thích bị hành hạ điên cuồng, đóng vai mồi nhử ở tiền tuyến để thu hút tấn công. Kỹ năng đoàn kết của cô ấy dựng một barrier chữa lành cho cô ấy bằng cách hấp thụ các đòn tấn công phép.
 
 空花大回転=Half flower large rotation
-体が刺激を求めています=Body wants stimulation
-クウカ、変態の時=Kuuka's Ultimate Reward
-ないとダメなんです…=A Dangerous Addiction
-大衆の目にさらされて=Exhibitionist Tendencies
-クウカの処女作！？=Kuuka's Big Debut?!
-クウカの秘密の花園=Garden of Secrets
+体が刺激を求めています=Cơ thể muốn được kích thích
+クウカ、変態の時=Phần thưởng tối thượng của Kuuka
+ないとダメなんです…=Một sự nghiện nguy hiểm
+大衆の目にさらされて=Khuynh hướng phô trương
+クウカの処女作！？=Sự ra mắt lớn của Kuuka?!
+クウカの秘密の花園=Vườn bí mật
 まずはおつきあいから=Giration Blues
-遭遇！妄想爆発少女=Fantasies Gone Wild!
+遭遇！妄想爆発少女=Mộng tưởng hoang dã!
 
 ##UB##
-エクスタシートリップ=Throes of Ecstasy
-自分に魔法吸収バリアを展開し、さらにＨＰを中回復する。=Deploy a barrier around oneself that absorb M.DMG, and recovers own HP by a moderate amount.
-r:"^(\d+)ダメージ分の魔法吸収バリアを展開する自分のＨＰを(\d+)回復$"=►Deploys Barrier over oneself that absorbs $1 M.DMG.\n►Recovers own HP by $2.
+エクスタシートリップ=Cơn điên cuồng của khoái cảm
+自分に魔法吸収バリアを展開し、さらにＨＰを中回復する。=Triển khai một barrier xung quanh bản thân hấp thụ sát thương phép, và hồi phục lượng HP vừa phải.
+r:"^(\d+)ダメージ分の魔法吸収バリアを展開する自分のＨＰを(\d+)回復$"=►Triển khai Barrier trên bản thân hấp thụ $1 sát thương phép.\n►Hồi phục $2 HP.
 
 ##S1##
-狙うならクウカを！=Play with Me Instead!
-【挑発】敵全体を挑発し、さらに自分の物理防御力を大アップさせる。=[Taunt] Taunts all enemies. Small boost to own physical defense.
-r:"^敵全体を挑発する自分の物理防御力を(\d+)アップ$"=►Provokes all enemies.\n►Boosts own P.DEF by $1.
+狙うならクウカを！=Chơi với tôi thay vào đó!
+【挑発】敵全体を挑発し、さらに自分の物理防御力を大アップさせる。=[Khiêu khích] Khiêu khích tất cả kẻ địch. Tăng nhẹ phòng thủ vật lý của bản thân.
+r:"^敵全体を挑発する自分の物理防御力を(\d+)アップ$"=►Khiêu khích tất cả kẻ địch.\n►Tăng $1 P.DEF của bản thân.
 
 ##S2##
-激しいの歓迎ですう！=I Like It Rough!
-自分の魔法防御力を大アップする。=Moderate boost to own M.DEF.
-r:"^自分の魔法防御力を(\d+)アップ$"=►Boosts own M.DEF by $1.
+激しいの歓迎ですう！=Tôi thích thô bạo!
+自分の魔法防御力を大アップする。=Tăng vừa phải M.DEF của bản thân.
+r:"^自分の魔法防御力を(\d+)アップ$"=►Tăng $1 M.DEF của bản thân.
 
 ##EX##
-妄想プロテクション=Sheltered by Fantasy
-妄想プロテクション+=Sheltered by Fantasy+
-バトル開始時に自分の魔法防御力を大アップさせる。=Large boost to own M.DEF at start of battle.
-バトル開始時に自分の魔法防御力を中アップさせる。=Moderate boost to own M.DEF at start of battle.
-r:"^自分の魔法防御力を(\d+)アップ$"=►Boosts own M.DEF by $1.
+妄想プロテクション=Được che chở bởi ảo tưởng
+妄想プロテクション+=Được che chở bởi ảo tưởng+
+バトル開始時に自分の魔法防御力を大アップさせる。=Tăng lớn M.DEF của bản thân ở đầu trận.
+バトル開始時に自分の魔法防御力を中アップさせる。=Tăng vừa phải M.DEF của bản thân ở đầu trận.
+r:"^自分の魔法防御力を(\d+)アップ$"=►Tăng $1 M.DEF của bản thân.
 
 ##UB+##
-エクスタシートランス=Trance of Ecstasy
-自分に魔法吸収バリアを展開し、ＨＰを中回復する。さらに自分に魔法ダメージカット効果を付与する。=Deploys Barrier over oneself that absorb M.DMG, recovers own HP by a moderate amount, and grants M.DMG Cut to self.
-r:"^(\d+)ダメージ分の魔法吸収バリアを展開する自分のＨＰを(\d+)回復自分が受ける魔法ダメージを25％カット$"=►Deploys Barrier over oneself that absorbs $1 M.DMG for 18s.\n►Recovers own HP by $2.\n►Grants M.DMG Cut to self by 25％ for 18s.
+エクスタシートランス=Trance của khoái cảm
+自分に魔法吸収バリアを展開し、ＨＰを中回復する。さらに自分に魔法ダメージカット効果を付与する。=Triển khai Barrier trên bản thân hấp thụ sát thương phép, hồi phục lượng HP vừa phải, và ban cho bản thân M.DMG Cut.
+r:"^(\d+)ダメージ分の魔法吸収バリアを展開する自分のＨＰを(\d+)回復自分が受ける魔法ダメージを25％カット$"=►Triển khai Barrier trên bản thân hấp thụ $1 sát thương phép trong 18 giây.\n►Hồi phục $2 HP.\n►Ban cho bản thân M.DMG Cut 25% trong 18 giây.
 
 ##S1+##
-狙うならクウカを！+=Play with Me Instead!+
-【挑発】敵全体を挑発し、自分の物理防御力を大アップさせる。さらに自分のＨＰを中回復させる。=[Taunt] Taunts all enemies. Greatly boosts own P.DEF, and recovers own HP by moderate amount.
-r:"^敵全体を挑発する自分の物理防御力を(\d+)アップ自分のＨＰを(\d+)回復$"=►Provokes all enemies for 16.6-17.1s.\n►Boosts own P.DEF by $1.\n►Recovers own HP by $2.
+狙うならクウカを！+=Chơi với tôi thay vào đó!+
+【挑発】敵全体を挑発し、自分の物理防御力を大アップさせる。さらに自分のＨＰを中回復させる。=[Khiêu khích] Khiêu khích tất cả kẻ địch. Tăng lớn P.DEF của bản thân, và hồi phục lượng HP vừa phải.
+r:"^敵全体を挑発する自分の物理防御力を(\d+)アップ自分のＨＰを(\d+)回復$"=►Khiêu khích tất cả kẻ địch trong 16.6-17.1 giây.\n►Tăng $1 P.DEF của bản thân.\n►Hồi phục $2 HP.
 
 ##UE##
-プレジャーチョーカー=Choker of Pleasure
+プレジャーチョーカー=Vòng Cổ Khoái Lạc

@@ -1,49 +1,49 @@
 ##Profile## 
-【物理】中衛で、強力な範囲攻撃を操る、忍術の使い手。範囲攻撃のスキルで敵を倒す事で、自分のＴＰを回復し、強力なユニオンバーストの発動頻度を上げる。=[Physical] A ninja that uses powerful area attacks from the midguard. Recovers her own TP by felling foes with her area attack skill, allowing her to use her devastating Union Burst more frequently.
+【物理】中衛で、強力な範囲攻撃を操る、忍術の使い手。範囲攻撃のスキルで敵を倒す事で、自分のＴＰを回復し、強力なユニオンバーストの発動頻度を上げる。=[Vật Lý] Một ninja sử dụng đòn tấn công diện rộng mạnh mẽ từ tư thế giữa. Hồi TP của bản thân bằng cách hạ gục kẻ thù với kỹ năng tấn công diện rộng, cho phép cô sử dụng Union Burst hủy diệt thường xuyên hơn.
 
-忍法開発=Developing ninja arts
+忍法開発=Nghệ thuật Ninja đang phát triển
 Profile
-トーゴクの神秘、オシエテクダサイ！=Teach me all the mysteries of Togoku!
+トーゴクの神秘、オシエテクダサイ！=Dạy cho tôi tất cả bí ẩn của Togoku!
 
-険しきセイシツへの道=The Steep Road to Seisitsu
-笑顔を作る力=The Power of a Smile
-チューシン・ニノン誕生！=Chushin Ninon is born!
-新たな家来=A new Retainer.
+険しきセイシツへの道=Con Đường Dốc Đến Seisitsu
+笑顔を作る力=Sức Mạnh Của Nụ Cười
+チューシン・ニノン誕生！=Chushin Ninon ra đời!
+新たな家来=Một Trợ lý mới.
 
-風雲のユウギジョー！=A Fine Day for Recreation!
-ユメに向かってシノブデス=Dream of Ninjadom
-開催！H－１グランプリ=The Incredible H-1 Grand Prix!
-料理はアイジョーデス！=Cooking Like a Samurai!
-合言葉は『天下統一』=Mission Improbable
-とっておきの忍法！=Ninja Secret Weapon!
-町外れのクニトリ合戦！=Conquering the outskirts!
-炸裂！秘剣チュバメ切り=Secret Strike: Slicey Swallow
+風雲のユウギジョー！=Một Ngày Tuyệt Vời Để Giải Trí!
+ユメに向かってシノブデス=Giấc Mơ Về Thế Giới Ninja
+開催！H－１グランプリ=Đại Hội H-1 Kỳ Tích!
+料理はアイジョーデス！=Nấu Ăn Như Một Samurai!
+合言葉は『天下統一』=Nhiệm Vụ Không Thể
+とっておきの忍法！=Vũ Khí Bí Mật Của Ninja!
+町外れのクニトリ合戦！=Chinh Phục vùng ngoại ô!
+炸裂！秘剣チュバメ切り=Đòn Đánh Bí Mật: Chim Swallow Chém
 
 ##UB##
-忍法・灼熱地獄=Ninpo: Scorching Hell
+忍法・灼熱地獄=Ninpo: Địa Ngục Cháy Rực
 
 ##S1##
-旋風撃=Hurricane Assault
-前方範囲内の敵すべてに物理小ダメージを与え、さらにこのスキルで敵を倒した場合、自分のＴＰを中回復する。とどめを刺した敵の数に応じてＴＰの回復量が増加する。=Deals small P.DMG to all enemies in range. Recovers own TP by a moderate amount if an enemy is defeated by this skill.
-r:"^範囲内の敵に(\d+)の物理ダメージとどめを刺した時、自分のＴＰを150回復$"=Cast time: 1.85s\n►Deals $1 P.DMG to enemies in 750 range.\n►Recovers own TP by 150 for each fallen enemy.
+旋風撃=Cuộc Tấn Công Bão
+前方範囲内の敵すべてに物理小ダメージを与え、さらにこのスキルで敵を倒した場合、自分のＴＰを中回復する。とどめを刺した敵の数に応じてＴＰの回復量が増加する。=Gây sát thương vật lý nhỏ lên tất cả kẻ địch trong phạm vi. Hồi TP của bản thân một lượng vừa nếu kẻ địch bị hạ gục bởi kỹ năng này.
+r:"^範囲内の敵に(\d+)の物理ダメージとどめを刺した時、自分のＴＰを150回復$"=Thời gian niệm: 1.85s\n►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi 750.\n►Hồi TP của bản thân 150 cho mỗi kẻ địch bị hạ gục.
 
 ##S2##
-火炎扇=Blazing Fan
-目の前の敵１キャラに物理中ダメージを与え、さらに小さく吹き飛ばす。=Deals moderate P.DMG to an enemy directly in front and knocks them back slightly.
+火炎扇=Quạt Cháy Rực
+目の前の敵１キャラに物理中ダメージを与え、さらに小さく吹き飛ばす。=Gây sát thương vật lý vừa lên kẻ địch phía trực tiếp và đẩy lùi chúng một chút.
 
 ##EX##
-ホンノウジブースト=Honnoji Hustle
-ホンノウジブースト+=Honnoji Hustle+
+ホンノウジブースト=Sức Mạnh Honnoji
+ホンノウジブースト+=Sức Mạnh Honnoji+
 
 ##UB+##
-忍法・烈火之紅蓮旋風=Ninpo: Crimson Conflagration Gale
-前方範囲内の敵すべてに物理大ダメージを与え、自分の物理攻撃力を大アップさせ、ＴＰを小回復する。とどめを刺した敵の数に応じて物理攻撃力の上昇量とＴＰの回復量が増加する。=Damage all of the enemies within the front range, increase your P.ATK, and recover the TP small. The amount of P.ATK boost and the amount of TP recovery boost according to the number of enemies that stabbed the end.
-r:"^範囲内の敵に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップ自分のＴＰを100回復$"=►Deals $1 P.DMG to enemies in 815 range.\n►Boosts own P.ATK by $2 for 12s.\n►Recovers own TP by 100.\n►Recovers own TP by 200 for each fallen enemy.
+忍法・烈火之紅蓮旋風=Ninpo: Gió Lốc Cháy Rực Crimson
+前方範囲内の敵すべてに物理大ダメージを与え、自分の物理攻撃力を大アップさせ、ＴＰを小回復する。とどめを刺した敵の数に応じて物理攻撃力の上昇量とＴＰの回復量が増加する。=Gây sát thương lên tất cả kẻ địch trong phạm vi phía trước, tăng P.ATK của bạn, và hồi TP một chút. Lượng tăng P.ATK và lượng hồi TP tăng theo số kẻ địch bị đâm đến cuối.
+r:"^範囲内の敵に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップ自分のＴＰを100回復$"=►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi 815.\n►Tăng P.ATK của bản thân lên $2 trong 12s.\n►Hồi TP của bản thân 100.\n►Hồi TP của bản thân 200 cho mỗi kẻ địch bị hạ gục.
 
 ##S1+##
-旋風撃+=Hurricane Assault+
-前方範囲内の敵すべてに物理中ダメージを与え、さらにこのスキルで敵を倒した場合、自分のＴＰを特大回復する。=Deals moderate P.DMG to all enemies in range. Recovers own TP by a massive amount if an enemy is defeated by this skill.
-r:"^範囲内の敵に(\d+)の物理ダメージとどめを刺した時、自分のＴＰを1000回復$"=Cast time: 1.85s\n►Deals $1 P.DMG to enemies in 750 range.\n►Recovers own TP by 1000 for each fallen enemy.
+旋風撃+=Cuộc Tấn Công Bão+
+前方範囲内の敵すべてに物理中ダメージを与え、さらにこのスキルで敵を倒した場合、自分のＴＰを特大回復する。=Gây sát thương vật lý vừa lên tất cả kẻ địch trong phạm vi. Hồi TP của bản thân một lượng lớn nếu kẻ địch bị hạ gục bởi kỹ năng này.
+r:"^範囲内の敵に(\d+)の物理ダメージとどめを刺した時、自分のＴＰを1000回復$"=Thời gian niệm: 1.85s\n►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi 750.\n►Hồi TP của bản thân 1000 cho mỗi kẻ địch bị hạ gục.
 
 ##UE##
-紅蓮爆炎扇=Crimson Blaze
+紅蓮爆炎扇=Ngọn Lửa Crimson

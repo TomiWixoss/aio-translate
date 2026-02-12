@@ -1,41 +1,41 @@
-思い出と共に、前へ！=Going forward with memories!
-全員=All
+思い出と共に、前へ！=Tiếp tục tiến về phía trước với những ký ức!
+全員=Tất cả
 
-これからも一緒に=From now on together
-みんなの想い=Everyone's Thoughts
-Re:member　僕の願いが紡ぐ未来【前編】=Re: Member's future spun by my wish[Part 1]
-Re:member　僕の願いが紡ぐ未来【後編】=Re: Member's future spun by my wish[Part 2]
+これからも一緒に=Từ giờ trở đi, cùng nhau
+みんなの想い=Suy Nghĩ Của Mọi Người
+Re:member　僕の願いが紡ぐ未来【前編】=Re: Tương lai của Thành viên do ước nguyện của tôi xoay vần [Phần 1]
+Re:member　僕の願いが紡ぐ未来【後編】=Re: Tương lai của Thành viên do ước nguyện của tôi xoay vần [Phần 2]
 
-sr:"^(\[[0-9A-F]{6}\])?(.+)と(.+)を倒そう(\[-\])?$"=$1Defeat the $2 and $3.$4
+sr:"^(\[[0-9A-F]{6}\])?(.+)と(.+)を倒そう(\[-\])?$"=$1Đánh bại $2 và $3.$4
 
-眠ったまま目を覚まさない主人公を起こすため、コッコロたちはランドソルに住む人々と共に手を尽くす。多少行きすぎた手段を用いて起こそうとするものの、なかなか結果は出ないのであった。=Kokkoro and the others work together with the people living in Landosol to wake up the sleeping protagonist. Although he tried to wake up by using a somewhat excessive means, it was not easy to get results.
+眠ったまま目を覚まさない主人公を起こすため、コッコロたちはランドソルに住む人々と共に手を尽くす。多少行きすぎた手段を用いて起こそうとするものの、なかなか結果は出ないのであった。=Kokkoro và những người khác hợp tác với người dân Landosol để đánh thức nhân vật chính đang ngủ. Mặc dù cô ấy đã cố gắng đánh thức bằng những phương tiện khá quá mức, nhưng không dễ dàng để đạt được kết quả.
 
-【美食殿】のギルドハウスには多くの人々が押し寄せていた。交わしたお願いや約束を自分たちが果たそうと決意するシェフィたち。しかし想像を超える過密スケジュールに驚愕するのであった。=Many people crowded into the guildhouse of the Gourmet Guild. Sheffy and her friends were determined to fulfill the requests and promises they had made. However, they were astonished by the overcrowded schedule beyond their imagination.
+【美食殿】のギルドハウスには多くの人々が押し寄せていた。交わしたお願いや約束を自分たちが果たそうと決意するシェフィたち。しかし想像を超える過密スケジュールに驚愕するのであった。=Rất nhiều người chen chúc vào nhà guild của Gourmet Guild. Sheffy và bạn bè của cô ấy quyết tâm thực hiện các yêu cầu và lời hứa đã đưa ra. Tuy nhiên, họ đã choáng ngợp trước lịch trình quá tải vượt ra ngoài sự tưởng tượng của họ.
 
-過去と今を伝える覚悟=The Resolve to Convey The Past and Present
-心刺す託宣=The Heart Piercing Oracle
-歪み、歪んで=The Distortion Distorts
-絆を手放さないように=Trying to Keep Hold of Bonds
-当たり前のはずの景色=The Scenery that Should be Normal
-兆しなき眠り=A Slumber with No Symptoms
-『こっち』の世界="This" World
+過去と今を伝える覚悟=Quyết Tâm Truyền Đạt Quá Khứ và Hiện Tại
+心刺す託宣=Lời Tiên Tri Xuyên Thấu Trái Tim
+歪み、歪んで=Sự Biến Dạng Biến Dạng
+絆を手放さないように=Cố Gắng Giữ Lấy Những Mối Ràng Buộc
+当たり前のはずの景色=Cảnh Quan Lẽ Ra Bình Thường
+兆しなき眠り=Giấc Ngủ Không Có Triệu Chứng
+『こっち』の世界=Thế Giới "Này"
 
-r:"^世界と世界の狭間([0-9\-\(\)\w （）]*)$"=Between worlds $1
-オーバーロードフォース=Overload Force
+r:"^世界と世界の狭間([0-9\-\(\)\w （）]*)$"=Giữa các thế giới $1
+オーバーロードフォース=Lực Quá Tải
 ペコリーヌ、キャル、コッコロ、シェフィ=Pecorine, Kyaru, Kokkoro, Sheffy
 
-{playername}に異変が起き、ラビリスタが姿を現す。彼女に導かれ、キャルはいまだ心の中にあり続けるかつての主、覇瞳皇帝と対峙する。想いを尽くしたキャルに、覇瞳皇帝は向かうべき場所を示す。={playername} has an incident, and Labyrista appears. She is guided by her, and Kyaru confronts the former Lord Hitomi, who is still in her heart. The Emperor Hitomi indicates the place to go to Kyaru who has made his thoughts.
-あなたのそばにいるから=Because You're By My Side
-悩みを抱える{playername}を気晴らしに誘うペコリーヌ。記憶にある人々と言葉を交わしながら悩みを晴らしてゆく{playername}だったが、そこに聞き覚えのある声が響き、謎の影が姿を現す。=Pecorine invites {playername} with trouble. {playername} cleared her worries while exchanging words with the people in her memory, but a memorable voice resounded there, and a mysterious shadow appears.
-本心と、偽りと=Real Feelings and Lies
-覇瞳皇帝の言葉を信じソルの塔を登るキャルたち、そして自分自身の力と相対する{playername}。ペコリーヌとキャル、お互いに手の届かない二つの世界で、それぞれが窮地に立たされようとしていた。=Kyaru climbing the tower of Sol, believing in the words of Emperor Hitomi, and {playername} opposite their own power. Pecorine and Kyaru, each of them, were trying to be in trouble in two out of reach of each other.
-絆はここに=The Bonds are Here
-絶体絶命のキャルたちを救ったのは、これまでつないできた仲間との絆だった。その力は手の届かないはずの二つの世界をもつなげ、{playername}は自分自身の力ですべての原因に終止符を打つ。=It was a bond with a friend who had been able to save the desperate characters. The power connects the two worlds that should not be reached, and {playername} ends all causes with its own power.
-幸せを部屋に詰め込んで=A Room filled with Happiness
-戦いは終わり、大切な記憶たちと一時の別れを告げる{playername}。そしてランドソルで迎える朝、仲間たちの『おはよう』の声に囲まれながら、{playername}は心地良く目を覚ますのであった。=The battle is over, and {playername} tells the important memories of the important memories. And on the morning of Landosol, {playername} woke up comfortably, surrounded by his friends' good morning.
+{playername}に異変が起き、ラビリスタが姿を現す。彼女に導かれ、キャルはいまだ心の中にあり続けるかつての主、覇瞳皇帝と対峙する。想いを尽くしたキャルに、覇瞳皇帝は向かうべき場所を示す。={playername} gặp một sự cố, và Labyrista xuất hiện. Cô ấy được cô ấy dẫn dắt, và Kyaru đối mặt với cựu Chúa tể Hitomi, người vẫn còn trong trái tim cô ấy. Hoàng đế Hitomi chỉ ra nơi cần đến cho Kyaru, người đã suy nghĩ thấu đáo.
+あなたのそばにいるから=Bởi Vì Bạn Ở Bên Cạnh Tôi
+悩みを抱える{playername}を気晴らしに誘うペコリーヌ。記憶にある人々と言葉を交わしながら悩みを晴らしてゆく{playername}だったが、そこに聞き覚えのある声が響き、謎の影が姿を現す。=Pecorine mời {playername} vì có vấn đề. {playername} xoa dịu mối lo của cô ấy khi trao đổi với những người trong ký ức của cô ấy, nhưng một giọng nói đáng nhớ vang lên ở đó, và một bóng đen bí ẩn xuất hiện.
+本心と、偽りと=Cảm Xúc Thật và Sự Dối Trá
+覇瞳皇帝の言葉を信じソルの塔を登るキャルたち、そして自分自身の力と相対する{playername}。ペコリーヌとキャル、お互いに手の届かない二つの世界で、それぞれが窮地に立たされようとしていた。=Kyaru leo lên tháp Sol, tin vào lời của Hoàng đế Hitomi, và {playername} đối lập với sức mạnh của chính mình. Pecorine và Kyaru, mỗi người, đang cố gắng cho mỗi người trong hai nơi không với tới nhau.
+絆はここに=Những Mối Ràng Buộc Ở Đây
+絶体絶命のキャルたちを救ったのは、これまでつないできた仲間との絆だった。その力は手の届かないはずの二つの世界をもつなげ、{playername}は自分自身の力ですべての原因に終止符を打つ。=Đó là một mối ràng buộc với một người bạn đã có thể cứu những nhân vật tuyệt vọng. Sức mạnh kết nối hai thế giới lẽ ra không thể với tới, và {playername} kết thúc mọi nguyên nhân bằng sức mạnh của chính mình.
+幸せを部屋に詰め込んで=Một căn Phòng Đầy Đủ Hạnh Phúc
+戦いは終わり、大切な記憶たちと一時の別れを告げる{playername}。そしてランドソルで迎える朝、仲間たちの『おはよう』の声に囲まれながら、{playername}は心地良く目を覚ますのであった。=Trận chiến đã kết thúc, và {playername} kể về những ký ức quan trọng. Và vào buổi sáng ở Landosol, {playername} thức dậy thư thái, được bao quanh bởi lời chào buổi sáng tốt lành của bạn bè.
 
-ペコリーヌたちはランドソルへの帰還。\nキャルたちは大切な人の目覚め。\nそれぞれが、お互いに手の届かない世界で自分に\nできることを探し、答えを求め続けていた。=Pecorine and her friends return to Landosol. Kyaru and the others awakened their loved ones. Each was searching for answers, looking for what they could do in a world that was out of reach for both of them.
+ペコリーヌたちはランドソルへの帰還。\nキャルたちは大切な人の目覚め。\nそれぞれが、お互いに手の届かない世界で自分に\nできることを探し、答えを求め続けていた。=Pecorine và bạn bè trở về Landosol. Kyaru và những người khác đánh thức những người họ yêu quý. Mỗi người đang tìm kiếm câu trả lời, tìm kiếm điều họ có thể làm trong một thế giới mà cả hai họ đều không thể với tới.
 
-現在起きている事態を解決するため、ソルの塔を\nのぼるキャルたち。その歩みに迷いはなく、\n大切な人のために進み続ける。\nたとえその先に、なにが待ち受けていようとも。=Kyaru climbing the tower of Sol to solve the situation that is currently happening. There is no hesitation in the step and keep moving for important people. No matter what you are waiting for.
+現在起きている事態を解決するため、ソルの塔を\nのぼるキャルたち。その歩みに迷いはなく、\n大切な人のために進み続ける。\nたとえその先に、なにが待ち受けていようとも。=Kyaru leo lên tháp Sol để giải quyết tình hình đang xảy ra. Không có sự do dự trong bước chân và tiếp tục tiến về phía trước vì những người quan trọng. Bất kể điều gì đang chờ đợi.
 
-迷宮女王の興味=Interest of the Labyrinth Queen
+迷宮女王の興味=Sự Quan Tâm Của Nữ Hoàng Mê Cung

@@ -56,81 +56,81 @@ sr:"^(【物理】|【魔法】|【回復】|【補助】|【ＭＯＤＥ１】|
 
 
 
-ＭＯＤＥ１=Mode 1
-ＭＯＤＥ２=Mode 2
-ＭＯＤＥ３=Mode 3
-物理=Physical
-魔法=Magic
-回復=Healer
+ＭＯＤＥ１=Chế độ 1
+ＭＯＤＥ２=Chế độ 2
+ＭＯＤＥ３=Chế độ 3
+物理=Vật lý
+魔法=Ma thuật
+回復=Hồi phục
 
-【ＭＯＤＥ１】=[Mode 1]
-【ＭＯＤＥ２】=[Mode 2]
-【ＭＯＤＥ３】=[Mode 3]
-【物理】=[Physical]
-【魔法】=[Magic]
-【回復】=[Healer]
+【ＭＯＤＥ１】=[Chế độ 1]
+【ＭＯＤＥ２】=[Chế độ 2]
+【ＭＯＤＥ３】=[Chế độ 3]
+【物理】=[Vật lý]
+【魔法】=[Ma thuật]
+【回復】=[Hồi phục]
 
-【補助】=[Support]
-【召喚】=[Summon]
-【防御】=[Tank]
-【範囲】=[Area]
-【魔法防御】=[Magic Tank]
-【物理防御】=[Physical Tank]
-【中距離】=[Mid-range]
-【妨害】=[Obstruction]
-【遠距離】=[Long-range]
+【補助】=[Hỗ trợ]
+【召喚】=[Triệu hồi]
+【防御】=[Đỡ đòn]
+【範囲】=[Khu vực]
+【魔法防御】=[Đỡ đòn ma thuật]
+【物理防御】=[Đỡ đòn vật lý]
+【中距離】=[Tầm trung]
+【妨害】=[Cản trở]
+【遠距離】=[Tầm xa]
 
-【通常攻撃】=\n\n[Normal Attack]
-【特殊効果】=\n\n[Special Effects]
+【通常攻撃】=\n\n[Tấn công thường]
+【特殊効果】=\n\n[Hiệu ứng đặc biệt]
 【ユニオンバースト】=\n\n[Union Burst]
-【スキル１】=\n\n[Skill 1]
-【スキル２】=\n\n[Skill 2]
-【スキル３】=\n\n[Skill 3]
-【スキル４】=\n\n[Skill 4]
-【召喚体特殊効果】=\n\n[Summoned Creature Special Effects]
-【召喚体スキル１】=\n\n[Summoned Creature Skill 1]
-【召喚体スキル２】=\n\n[Summoned Creature Skill 2]
-【召喚体スキル３】=\n\n[Summoned Creature Skill 3]
-【召喚体スキル４】=\n\n[Summoned Creature Skill 4]
-【強化状態：スキル１】=\n\n[Enhanced State: Skill 1]
-【強化状態：スキル２】=\n\n[Enhanced State: Skill 2]
-【強化状態：スキル３】=\n\n[Enhanced State: Skill 2]
-【強化状態：スキル４】=\n\n[Enhanced State: Skill 2]
+【スキル１】=\n\n[Kỹ năng 1]
+【スキル２】=\n\n[Kỹ năng 2]
+【スキル３】=\n\n[Kỹ năng 3]
+【スキル４】=\n\n[Kỹ năng 4]
+【召喚体特殊効果】=\n\n[Hiệu ứng đặc biệt của sinh vật triệu hồi]
+【召喚体スキル１】=\n\n[Kỹ năng 1 của sinh vật triệu hồi]
+【召喚体スキル２】=\n\n[Kỹ năng 2 của sinh vật triệu hồi]
+【召喚体スキル３】=\n\n[Kỹ năng 3 của sinh vật triệu hồi]
+【召喚体スキル４】=\n\n[Kỹ năng 4 của sinh vật triệu hồi]
+【強化状態：スキル１】=\n\n[Trạng thái tăng cường: Kỹ năng 1]
+【強化状態：スキル２】=\n\n[Trạng thái tăng cường: Kỹ năng 2]
+【強化状態：スキル３】=\n\n[Trạng thái tăng cường: Kỹ năng 2]
+【強化状態：スキル４】=\n\n[Trạng thái tăng cường: Kỹ năng 2]
 
 
 
 
-一定時間無敵=\n►Invincible for a certain time.
-中距離攻撃=\n►Mid-range Attack.
-近接攻撃=\n►Close-range attack.
-近接攻撃ハイ=\n►Close-range attack.
-近距離攻撃=\n►Close-range attack.
-遠距離攻撃=\n►Long-range attack.
-範囲攻撃=\n►Area attack.
+一定時間無敵=\n►Bất khả xâm phạm trong một khoảng thời gian.
+中距離攻撃=\n►Tấn công tầm trung.
+近接攻撃=\n►Tấn công cận chiến.
+近接攻撃ハイ=\n►Tấn công cận chiến.
+近距離攻撃=\n►Tấn công cận chiến.
+遠距離攻撃=\n►Tấn công tầm xa.
+範囲攻撃=\n►Tấn công diện rộng.
 
-範囲回復=\n►Area Healing.
-単体回復=\n►Single-target healing.
-全体回復=\n►Complete recovery.
-単体ＴＰ回復=\n►Single-target TP recovery.
-単体継続回復=\n►Single-target regen.
-全体継続回復=\n►Continuous recovery for all.
-ＨＰ・ＴＰ回復=\n►HP/TP recovery.
-攻撃力ダウン=\n►Attack Power Down.
-ダメージカット=\n►Damage Cutter.
-物理・魔法範囲攻撃=\n►Physical/Magic range attack.
-防御力ダウン=\n►Defense Down
+範囲回復=\n►Hồi máu diện rộng.
+単体回復=\n►Hồi máu đơn mục tiêu.
+全体回復=\n►Hồi phục hoàn toàn.
+単体ＴＰ回復=\n►Hồi TP đơn mục tiêu.
+単体継続回復=\n►Hồi máu liên tục đơn mục tiêu.
+全体継続回復=\n►Hồi máu liên tục cho tất cả.
+ＨＰ・ＴＰ回復=\n►Hồi HP/TP.
+攻撃力ダウン=\n►Giảm Tấn công.
+ダメージカット=\n►Cắt giảm sát thương.
+物理・魔法範囲攻撃=\n►Tấn công vật lý/phép thuật tầm xa.
+防御力ダウン=\n►Giảm Phòng thủ.
 
-後ろから３番目攻撃=Attack 3rd enemy from the back.
-後ろから２番目攻撃=Attack 2nd enemy from the back.
-後ろから３番目中心範囲攻撃=Area attack 3rd enemy from the back.
-近接２体攻撃=Attack 2nd front enemy.
-全体魔攻アップ=Boosts ally's M.ATK.
-全体防御力ダウン=Lowering All Enemies' P.DEF.
-全体防御力ダウン（ダメージ無効化時も付与）=Lowering All Enemies' P.DEF (applies even damage is nullified).
-近接攻撃、ノックバック（ダメージ無効化時も付与）=Melee attack, knockback (applies even damage is nullified).
+後ろから３番目攻撃=Tấn công kẻ địch thứ 3 từ phía sau.
+後ろから２番目攻撃=Tấn công kẻ địch thứ 2 từ phía sau.
+後ろから３番目中心範囲攻撃=Tấn công diện rộng kẻ địch thứ 3 từ phía sau.
+近接２体攻撃=Tấn công kẻ địch thứ 2 từ phía trước.
+全体魔攻アップ=Tăng M.ATK cho đồng đội.
+全体防御力ダウン=Giảm P.DEF của tất cả kẻ địch.
+全体防御力ダウン（ダメージ無効化時も付与）=Giảm P.DEF của tất cả kẻ địch (có hiệu lực ngay cả khi sát thương bị vô hiệu hóa).
+近接攻撃、ノックバック（ダメージ無効化時も付与）=Tấn công cận chiến, đẩy lùi (có hiệu lực ngay cả khi sát thương bị vô hiệu hóa).
 全体防御力ダウン（ダメージ無効化時も付与）
-r:"^与えるダメージによるＴＰ回復量(\d+)％ダウン$"=$1% reduction in TP recovery amount due to damage dealt.
+r:"^与えるダメージによるＴＰ回復量(\d+)％ダウン$"=$1% giảm lượng TP hồi phục do sát thương gây ra.
 
-必中=sure shot
-ダウン不可=Cannot be down
+必中=Đòn chắc chắn trúng
+ダウン不可=Không thể bị hạ gục
 

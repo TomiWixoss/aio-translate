@@ -1,38 +1,38 @@
 ##Profile##
-救護院を経営する優しい庶民派お嬢様=A kind, humble young lady who runs an orphanage
-【物理】中衛で一発逆転を狙う、みんなのサレンママ。ＨＰが下がるほどダメージが上昇するユニオンバーストと味方のＴＰを回復するスキルで、一気に形勢を逆転する。=[Physical] The motherly Saren reverses the state of battles in one shot from the midguard. Can swiftly turn the tables with a Union Burst that does more damage the lower her HP, and skills that recover party TP.
+救護院を経営する優しい庶民派お嬢様=Một cô gái trẻ dịu dàng, khiêm tốn, điều hành một trại mồ côi
+【物理】中衛で一発逆転を狙う、みんなのサレンママ。ＨＰが下がるほどダメージが上昇するユニオンバーストと味方のＴＰを回復するスキルで、一気に形勢を逆転する。=[Vật lý] Người mẹ Saren đảo ngược cục diện trận đấu trong một phát từ tuyến giữa. Có thể nhanh chóng đảo ngược tình thế với Union Burst gây sát thương càng lớn khi HP càng thấp, và kỹ năng hồi phục TP cho đội.
 
-経営、お茶会=Management, Tea Party
+経営、お茶会=Quản lý, Tiệc Trà
 
-風が招いた出会い=A Breezy Encounter
-飛んで火に入る夏の虫=Moths to the Flame
-ハッピービジネス=Pleasure Doing Business
-夕暮れのデジャヴ=Déjà vu at Dusk
-頑張る娘に愛の手を=What a Diligent Daughter Deserves
-思い出の焼きそばパン=Yakisoba Bun Flashbacks
-古き日の面影=Shadows of Bygone Days
-大切な思い出に導かれて=Led by Precious Memories
-真心込めた取引を=I'll give you a real deal
-子どもたちは見ている=The children are watching
-共に過ごす未来=A future together
-ありのままのあたしで=I'm who I am
+風が招いた出会い=Một Cuộc Gặp Gỡ Nhẹ Nhàng
+飛んで火に入る夏の虫=Bướm Vào Ngọn Lửa
+ハッピービジネス=Niềm Vui Kinh Doanh
+夕暮れのデジャヴ=Déjà vu Lúc Hoàng Hôn
+頑張る娘に愛の手を=Điều Một Người Con Gái Siêng Năng Xứng Đáng
+思い出の焼きそばパン=Ký Ức Về Bánh Mì Yakisoba
+古き日の面影=Bóng Ma Của Những Ngày Xưa
+大切な思い出に導かれて=Được Dẫn Dắt Bởi Kỷ Niệm Quý Giá
+真心込めた取引を=Tôi sẽ cho bạn một món thật sự
+子どもたちは見ている=Lũ trẻ đang nhìn đấy
+共に過ごす未来=Một tương lai bên nhau
+ありのままのあたしで=Tôi là chính tôi
 
 ##UB##
 ソードオブフェニックス=Phoenix Sword
-前方範囲内の敵すべてに物理中ダメージを与える。サレンのＨＰが低いほど、ダメージがアップする。=Deals moderate P.DMG to all enemies in range. The lower Saren's HP, the greater the damage dealt.
+前方範囲内の敵すべてに物理中ダメージを与える。サレンのＨＰが低いほど、ダメージがアップする。=Gây sát thương vật lý vừa phải cho tất cả kẻ địch trong phạm vi. HP của Saren càng thấp, sát thương càng cao.
 
 ##S1##
 ファイアスラッシュ=Fiery Slash
-前方範囲内の敵すべてに物理小ダメージを与える。=Deals small P.DMG to all enemies in range.
+前方範囲内の敵すべてに物理小ダメージを与える。=Gây sát thương vật lý nhỏ cho tất cả kẻ địch trong phạm vi.
 
 ##S2##
 エレガンスエール=Elegant Ovation
-最も近くの味方１キャラのＴＰを中回復する。=Recovers the TP of the closest party member by a moderate amount.
-r:"^味方単体のＴＰを(\d+)回復$"=►Recovers an ally's TP by $1.
+最も近くの味方１キャラのＴＰを中回復する。=Hồi một lượng TP vừa phải cho thành viên gần nhất trong đội.
+r:"^味方単体のＴＰを(\d+)回復$"=►Hồi TP cho đồng đội bằng $1.
 ## 260lvl
 # Same with Yukari
-最も近くの味方１キャラのＴＰを中回復し、物理攻撃力と魔法攻撃力を小アップさせる。=Recovers the TP of the closest party member by a moderate amount, and raise P.ATK and M.ATK by small amount.
-r:"^味方単体のＴＰを(\d+)回復味方単体の物理攻撃力を(\d+)アップ味方単体の魔法攻撃力を(\d+)アップ$"=►Recovers an ally's TP by $1.\n►Boosts an ally's P.ATK by $2 for 12s.\n►Boosts an ally's M.ATK by $3 for 12s.
+最も近くの味方１キャラのＴＰを中回復し、物理攻撃力と魔法攻撃力を小アップさせる。=Hồi một lượng TP vừa phải cho thành viên gần nhất trong đội, và tăng P.ATK và M.ATK một chút.
+r:"^味方単体のＴＰを(\d+)回復味方単体の物理攻撃力を(\d+)アップ味方単体の魔法攻撃力を(\d+)アップ$"=►Hồi TP cho đồng đội bằng $1.\n►Tăng P.ATK của đồng đội lên $2 trong 12s.\n►Tăng M.ATK của đồng đội lên $3 trong 12s.
 
 ##EX##
 ノーブルエレガントソウル=Aristocratic Spirit
@@ -40,31 +40,31 @@ r:"^味方単体のＴＰを(\d+)回復味方単体の物理攻撃力を(\d+)ア
 
 ##UB+##
 エンドオブフェニックス=End of Phoenix
-前方範囲内の敵すべてに物理大ダメージを与え、さらに味方全体の物理攻撃力と魔法攻撃力を大アップさせる。サレンのＨＰが低いほど、ダメージと攻撃力の上昇量がアップする。=Inflicts a large amount of P.DMG to all enemies within range, and large boost to the allies' P/M.ATK. The lower Saren's HP, the more damage and attack power Boost.
-r:"^範囲内の敵に(\d+)の物理ダメージ味方全体の物理攻撃力を(\d+)アップ味方全体の魔法攻撃力を(\d+)アップ$"=►Deals $1 P.DMG to enemies in 900 range.\n►Deals additional P.DMG by x2.5 HP lost.\n►Boosts allies' P.ATK by $2 for 18s.\n►Boosts allies' M.ATK by $3 for 18s.\n►Boosts additional P/M.ATK by x0.2 HP lost.
+前方範囲内の敵すべてに物理大ダメージを与え、さらに味方全体の物理攻撃力と魔法攻撃力を大アップさせる。サレンのＨＰが低いほど、ダメージと攻撃力の上昇量がアップする。=Gây một lượng sát thương vật lý lớn cho tất cả kẻ địch trong phạm vi, và tăng lớn P/M.ATK cho đồng minh. HP của Saren càng thấp, sát thương và sức mạnh tấn công càng tăng.
+r:"^範囲内の敵に(\d+)の物理ダメージ味方全体の物理攻撃力を(\d+)アップ味方全体の魔法攻撃力を(\d+)アップ$"=►Gây $1 sát thương vật lý cho kẻ địch trong phạm vi 900.\n►Gây thêm sát thương vật lý bằng x2.5 HP mất.\n►Tăng P.ATK của đồng minh lên $2 trong 18s.\n►Tăng M.ATK của đồng minh lên $3 trong 18s.\n►Tăng thêm P/M.ATK bằng x0.2 HP mất.
 
 ##S1+##
 ファイアスラッシュ+=Fiery Slash+
-前方範囲内の敵すべてに物理中ダメージを与える。サレンのＨＰが低いほど、ダメージがアップする。=Deals moderate P.DMG to all enemies in range. The lower Saren's HP, the greater the damage dealt.
+前方範囲内の敵すべてに物理中ダメージを与える。サレンのＨＰが低いほど、ダメージがアップする。=Gây sát thương vật lý vừa phải cho tất cả kẻ địch trong phạm vi. HP của Saren càng thấp, sát thương càng cao.
 
 ##UE##
 グロリアスフェザー=Glorious Feather
 
 ##Comments##
-クレヨンと絵本と積み木が\nいっぺんに買えて\nしかも安い店を見つけたの！\n選ぶのを手伝ってくれない？=I found a store that sells crayons, coloring books, and blocks for cheap! Help me shop!
-料理をする時は、\n食材の隅から隅まで\n使い切らないとね\nもったいないじゃない！=When cooking, you need to use every last bit of your ingredients. Waste not, want not!
-お金も大事だけど、あたしはただ\nみんなの笑顔が見たいの\nもちろん、その中には\nあんたも入ってるんだからね=Money is important, but I just want to see a smile on everyone's face. Including yours!
-あんたと今度、\nどこかに遊びに行きたいわね\nあ、もちろん、\nお金のかからないところによ？=You and I should go somewhere fun sometime. Just as long as it's free, of course.
-お茶会を開こうと思うの\nもちろん、\nあんたも招待してあげるから\n楽しみにしてなさい！=I want to have a tea party. You'll be invited, of course. It'll be lots of fun!
-限定アイテムの列はこちらが\n最後尾です…あら、奇遇ね\nあんたも寄ってかない？\nあたしたちが主催するバザー！=The line for limited items starts here... Oh, you came too! Welcome to our bazaar!
-あたしがお客さん呼び込むから、\nあんたはこの看板持って\n誘導してくれる？=I'll call out to the customers. Can you twirl this sign to draw them in?
-予想以上にお客さんが来てくれて\nビックリだわ！　せっかくだし\nあんたも寄ってきなさいよ！=I can't believe we got so many customers! You may as well go do your shopping, too!
-整列手伝ってくれてありがと♪\nあんたと一緒だといつもより\n何倍も仕事が楽しいわ♪\nまたお願いね！=Thanks for helping me manage the lines. Work is so much more fun with you around!
-バザーは大盛況よ♪\nこのあとパーッとご飯でも\n行きましょ！　あんたがいれば\n疲れなんか吹っ飛んじゃう♪=The bazaar was a hit! Let's celebrate with a feast. You'll be the ultimate refreshment!
-ハッピーバースデー♪\n救護院のみんながプレゼントを\n選んだわ。もちろんあたしもね\nありがたく受け取りなさい！=Happy birthday! ♪ Here's a present from everyone at the orphanage. Myself included, of course. I hope you'll accept it!
-誕生日だったわね？\nお祝いに遊びに行くわよ\nこんな日くらいはしっかり休んで\nたまには楽しみましょ♪=It's your birthday, right? Then let's take the day off and have some fun. Days like this are meant to be enjoyed! ♪
-みんなが楽しそうに笑ってるのが\n何よりもうれしいの\nそんな場所であんたと過ごせるの\n本当に幸せよ=I'm happier than ever to see everyone laughing and having fun. Being able to spend time with you makes me really happy.
-帰れる場所があるって、本当に\n素敵よね。あんたも疲れたら\nいつでもここに来なさい\n待ってるから=It's so wonderful to have a place to return to. If you ever get tired, come here anytime. I'll be waiting for you.
-見慣れた何気ない光景だけど\nこういう当たり前の日々を\n大切にしていきたいわよね=It's just a familiar, casual sight, but I want to treasure these ordinary days.
-あんたもだいぶここに\nなじんでるわよね\nこのままずっと\n居てくれてもいいのよ？=You're pretty familiar with this place, right? You can stay as long as you want, you know?
-あんたの前でくらい、肩の力を\n抜いてもいいわよね\nママ・サレンはちょっとお休み\n…なんてね♪=I can relax in front of you, can't I? Mama Saren is taking a break... just kidding♪
+クレヨンと絵本と積み木が\nいっぺんに買えて\nしかも安い店を見つけたの！\n選ぶのを手伝ってくれない？=Tôi tìm thấy một cửa hàng bán bút chì, sách tô màu và khối xếp rẻ! Giúp tôi mua sắm nhé!
+料理をする時は、\n食材の隅から隅まで\n使い切らないとね\nもったいないじゃない！=Khi nấu ăn, bạn cần sử dụng hết nguyên liệu. Tiết kiệm nguyên liệu, không lãng phí!
+お金も大事だけど、あたしはただ\nみんなの笑顔が見たいの\nもちろん、その中には\nあんたも入ってるんだからね=Tiền bạc quan trọng, nhưng tôi chỉ muốn thấy nụ cười trên mọi người. Bao gồm cả của bạn!
+あんたと今度、\nどこかに遊びに行きたいわね\nあ、もちろん、\nお金のかからないところによ？=Chúng ta nên đi chơi ở đâu đó một lần. Chỉ cần miễn phí, tất nhiên.
+お茶会を開こうと思うの\nもちろん、\nあんたも招待してあげるから\n楽しみにしてなさい！=Tôi muốn tổ chức một bữa trà. Bạn sẽ được mời, tất nhiên. Sẽ rất vui!
+限定アイテムの列はこちらが\n最後尾です…あら、奇遇ね\nあんたも寄ってかない？\nあたしたちが主催するバザー！=Hàng đợi cho hàng giới hạn bắt đầu từ đây... Ồ, bạn cũng đến! Chào mừng đến chợ của chúng tôi!
+あたしがお客さん呼び込むから、\nあんたはこの看板持って\n誘導してくれる？=Tôi sẽ kêu gọi khách hàng. Bạn có thể xoay biển hiệu này để thu hút họ không?
+予想以上にお客さんが来てくれて\nビックリだわ！　せっかくだし\nあんたも寄ってきなさいよ！=Tôi không thể tin là chúng ta có nhiều khách hàng thế! Bạn cũng nên đi mua sắm đi!
+整列手伝ってくれてありがと♪\nあんたと一緒だといつもより\n何倍も仕事が楽しいわ♪\nまたお願いね！=Cảm ơn vì giúp tôi quản lý hàng đợi. Công việc vui hơn nhiều khi có bạn ở đây!
+バザーは大盛況よ♪\nこのあとパーッとご飯でも\n行きましょ！　あんたがいれば\n疲れなんか吹っ飛んじゃう♪=Chợ đã thành công! Hãy ăn mừng với một bữa tiệc. Bạn sẽ là món giải khí tốt nhất!
+ハッピーバースデー♪\n救護院のみんながプレゼントを\n選んだわ。もちろんあたしもね\nありがたく受け取りなさい！=Chúc mừng sinh nhật! ♪ Đây là món quà từ tất cả mọi người ở trại mồ côi. Bao gồm cả tôi, tất nhiên. Hy vọng bạn sẽ nhận nó!
+誕生日だったわね？\nお祝いに遊びに行くわよ\nこんな日くらいはしっかり休んで\nたまには楽しみましょ♪=Đó là sinh nhật của bạn, phải không? Vậy hãy nghỉ ngày và vui chơi đi. Những ngày như thế này là để tận hưởng! ♪
+みんなが楽しそうに笑ってるのが\n何よりもうれしいの\nそんな場所であんたと過ごせるの\n本当に幸せよ=Tôi hạnh phúc hơn bao giờ hết khi thấy mọi người cười và vui vẻ. Được dành thời gian với bạn khiến tôi thực sự hạnh phúc.
+帰れる場所があるって、本当に\n素敵よね。あんたも疲れたら\nいつでもここに来なさい\n待ってるから=Thật tuyệt vời khi có một nơi để trở về. Nếu bạn mệt mỏi, hãy đến đây bất cứ lúc nào. Tôi sẽ chờ bạn.
+見慣れた何気ない光景だけど\nこういう当たり前の日々を\n大切にしていきたいわよね=Đó chỉ là một cảnh quen thuộc, bình thường, nhưng tôi muốn trân trọng những ngày bình thường này.
+あんたもだいぶここに\nなじんでるわよね\nこのままずっと\n居てくれてもいいのよ？=Bạn khá quen thuộc với nơi này, phải không? Bạn có thể ở lại bao lâu tùy thích, bạn biết không?
+あんたの前でくらい、肩の力を\n抜いてもいいわよね\nママ・サレンはちょっとお休み\n…なんてね♪=Tôi có thể thư giãn trước mặt bạn, phải không? Mẹ Saren đang nghỉ... đùa thôi♪

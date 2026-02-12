@@ -2,63 +2,63 @@
 r:"^ランフェス会場([0-9\-\(\)\w （）]*)$"=Lando Comi Fes $1
 狂乱の配信者・カガミ=Mad Streamer Kagami
 
-漫画の\nアシスタント=Doujin\nAssistant
-興味のある\nゲーム=Interested in\ngames
-ファンについて=About Fans
-フェスの見どころ=FES highlights
-同人誌即売会=Doujinshi sale
-オススメの配信=Recommended delivery
-ゲームについて=About the Game
-ランフェスに\nついて=About\nLanFES
-同人誌について=About\nDoujinshi
-もし自分が\n配信するなら=If I were to\nIf I'm going to deliver
-フェスについて=About Festivals
+漫画の\nアシスタント=Doujin\nTrợ lý
+興味のある\nゲーム=Quan tâm đến\ngame
+ファンについて=Về Người Hâm Mộ
+フェスの見どころ=Điểm nhấn FES
+同人誌即売会=Bán Doujinshi
+オススメの配信=Phát trực tiếp được đề xuất
+ゲームについて=Về Game
+ランフェスに\nついて=Về\nLanFES
+同人誌について=Về\nDoujinshi
+もし自分が\n配信するなら=Nếu tôi phải\nNếu tôi định phát trực tiếp
+フェスについて=Về Lễ Hội
 
-ゲーム実況って面白いの？=Is it fun to play video games?
-配信、よく見てるの？=The delivery, do you watch it often?
-フェスには毎回参加してるの？=Do you attend every festival?
+ゲーム実況って面白いの？=Chơi game có vui không?
+配信、よく見てるの？=Bạn có thường xem phát trực tiếp không?
+フェスには毎回参加してるの？=Bạn có tham dự mọi lễ hội không?
 
-強くなる必要があるの？=Do you need to be strong?
-ゲームの特訓をしよう！=Let's train for the game!
-打倒ヨリを目標に頑張ろう。=Let's do our best to defeat Yori.
+強くなる必要があるの？=Có cần phải mạnh không?
+ゲームの特訓をしよう！=Hãy luyện tập cho game!
+打倒ヨリを目標に頑張ろう。=Hãy cố gắng hết sức để đánh bại Yori.
 
-同人魔導書を見て回ろう。=Let's look around at the doujinshi grimoires.
-魔法少女ものを探しに行こう。=Let's go find some magical girl stuff.
-知り合いのサークルを見に行こう。=Let's go see a circle of acquaintances.
+同人魔導書を見て回ろう。=Hãy đi xem các cuốn sách phép doujinshi.
+魔法少女ものを探しに行こう。=Hãy đi tìm đồ về magical girl.
+知り合いのサークルを見に行こう。=Hãy đi gặp một vòng tròn quen biết.
 
-いろんなゲストを呼ぼう。=Invite all kinds of guests.
-カップルチャンネルとか？=Maybe a couples channel?
-好きなものを紹介する配信者になろう。=Be a distributor of your favorite things.
+いろんなゲストを呼ぼう。=Mời đủ loại khách mời.
+カップルチャンネルとか？=Có lẽ là kênh cặp đôi?
+好きなものを紹介する配信者になろう。=Trở thành người phát trực tiếp thứ bạn yêu thích.
 
-食べられる魔物の見分け方。=How to recognize an edible Monster.
-魔法少女の同人誌が欲しい。=I want a magical girl doujinshi.
-料理のレシピ本を探したい。=I want to find a recipe book.
+食べられる魔物の見分け方。=Cách nhận biết quái vật có thể ăn được.
+魔法少女の同人誌が欲しい。=Tôi muốn một doujinshi về magical girl.
+料理のレシピ本を探したい。=Tôi muốn tìm một cuốn sách công thức.
 
-まずはご飯が食べたいかも。=Maybe I'll have some rice first.
-みんなでフェスを楽しもう！=Let's all enjoy the festival!
-お祭り好きなんだ？=Do you like festivals?
+まずはご飯が食べたいかも。=Có lẽ tôi sẽ ăn cơm trước đã.
+みんなでフェスを楽しもう！=Hãy cùng nhau tận hưởng lễ hội!
+お祭り好きなんだ？=Bạn có thích lễ hội không?
 
-大会に出てみたら？=Why don't you go to the competition?
-僕とも勝負しよう。=Let's fight with me
-格ゲー以外にもヨリと遊ぶの？=Do you play with Yori besides gaming?
+大会に出てみたら？=Sao bạn không tham gia cuộc thi?
+僕とも勝負しよう。=Hãy chiến đấu với tôi
+格ゲー以外にもヨリと遊ぶの？=Bạn chơi với Yori ngoài chơi game ra còn làm gì nữa?
 
-とあるプリン好きな幽霊の動画。=The animation of a certain pudding-loving ghost.
-カルミナ公式チャンネル。=Carmina official channel.
-ミサト先生の絵本読み聞かせ。=Misato-sensei reads picture books to the children.
+とあるプリン好きな幽霊の動画。=Hoạt hình về con ma mê pudding.
+カルミナ公式チャンネル。=Kênh chính thức của Carmina.
+ミサト先生の絵本読み聞かせ。=Misato-sensei đọc sách tranh cho các em nhỏ.
 
-配信者にならないの？=You're not gonna be a distributor?
-ファンのためにこれからも頑張ろう。=Let's keep up the good work for the fans.
-僕も写真を撮りたい！=I wanna take a picture too!
+配信者にならないの？=Cậu sẽ không trở thành người phát trực tiếp sao?
+ファンのためにこれからも頑張ろう。=Hãy tiếp tục nỗ lực vì người hâm mộ.
+僕も写真を撮りたい！=Tớ cũng muốn chụp ảnh!
 
-一緒に同人誌を作ろう！=Let's make a doujinshi together!
-トモちゃんのイラストを描いてみたい。=I want to draw an illustration of Tomo-chan.
-絵には自信あるよ。=I'm confident in my drawings.
+一緒に同人誌を作ろう！=Hãy cùng nhau làm một bộ doujinshi!
+トモちゃんのイラストを描いてみたい。=Mình muốn vẽ một bức tranh minh họa về Tomo-chan.
+絵には自信あるよ。=Mình tự tin vào khả năng vẽ của mình.
 
-ホラーゲーム。=Horror game.
-野球ゲーム。=Baseball game.
-ギャルゲー=Galgame
+ホラーゲーム。=Trò chơi kinh dị.
+野球ゲーム。=Trò chơi bóng chày.
+ギャルゲー=Gal game
 
-配信者のイベントを見に行こう。=Let's go see the distributor's event.
-フィギュアから見に行こう！=Let's go see it from the figure!
-同人誌を見て回ろう。=Let's look around at doujinshi.
+配信者のイベントを見に行こう。=Đi xem sự kiện của nhà phân phối thôi.
+フィギュアから見に行こう！=Đi xem từ phía figure thôi!
+同人誌を見て回ろう。=Đi dạo quanh khu doujinshi thôi.
 

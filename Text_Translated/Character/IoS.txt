@@ -1,20 +1,20 @@
 ##Profile##
-【魔法】後衛で、敵の体力を奪い取る、夏の夜の先生。ダメージを与えつつ味方を回復するスキルを複数持ち、攻守どちらの側でも高い能力を発揮する。=[Magic] A summertime teacher who steals away foes' health from the rearguard. Her posession of multiple skills that both deal damage and heal allies makes her shine on both offensive and defensive fronts.
+【魔法】後衛で、敵の体力を奪い取る、夏の夜の先生。ダメージを与えつつ味方を回復するスキルを複数持ち、攻守どちらの側でも高い能力を発揮する。=[Ma pháp] Một giáo viên mùa hè đánh cắp sức khỏe của kẻ thù từ hậu phương. Việc sở hữu nhiều kỹ năng vừa gây sát thương vừa hồi HP cho đồng đội khiến cô tỏa sáng trên cả mặt trận tấn công và phòng thủ.
 
 ##UB##
 タイフーン・ラブドリーム=Love Dream Typhoon
-敵全体に魔法中ダメージを与え、さらに味方全体のＨＰを中回復させる。=Deals moderate M.DMG to all enemies and recovers all allies' HP by a moderate amount.
-r:"^敵全体に(\d+)の魔法ダメージ味方全体のＨＰを(\d+)回復$"=►Deals $1 M.DMG to all enemies.\n►Recovers allies' HP by $2.
+敵全体に魔法中ダメージを与え、さらに味方全体のＨＰを中回復させる。=Gây sát thương ma thuật vừa phải cho tất cả kẻ địch và hồi máu vừa phải cho toàn bộ đồng đội.
+r:"^敵全体に(\d+)の魔法ダメージ味方全体のＨＰを(\d+)回復$"=►Gây $1 sát thương ma thuật cho tất cả kẻ địch.\n►Hồi $2 máu cho đồng đội.
 
 ##S1##
 ラブスティール=Love Bandit
-前方範囲内の敵すべてに魔法小ダメージを与え、さらに最もＨＰが低い味方１キャラのＨＰを小回復する。範囲内の敵の数に応じて回復量が増加する。=Deals small M.DMG to enemies in range, and slightly recovers HP of the ally with the lowest HP. HP recovery increases according to number of enemies in range.
-r:"^範囲内の敵すべてに(\d+)の魔法ダメージ味方単体のＨＰを(\d+)回復$"=►Deals $1 M.DMG to enemies in range.\n►Recovers an ally's HP by $2.
+前方範囲内の敵すべてに魔法小ダメージを与え、さらに最もＨＰが低い味方１キャラのＨＰを小回復する。範囲内の敵の数に応じて回復量が増加する。=Gây sát thương ma thuật nhỏ cho kẻ địch trong phạm vi, và hồi máu nhẹ cho đồng đội có máu thấp nhất. Lượng máu hồi tăng theo số kẻ địch trong phạm vi.
+r:"^範囲内の敵すべてに(\d+)の魔法ダメージ味方単体のＨＰを(\d+)回復$"=►Gây $1 sát thương ma thuật cho kẻ địch trong phạm vi.\n►Hồi $2 máu cho một đồng đội.
 
 ##S2##
 ラブスプラッシュ=Love Splash
-前方範囲内の敵すべてに魔法小ダメージを与え、さらに魔法防御力を小ダウンさせる。=Deals small M.DMG to enemies in range and slightly lowers their M.DEF.
-r:"^範囲内の敵すべてに(\d+)の魔法ダメージ範囲内の敵すべての魔法防御力を(\d+)ダウン$"=►Deals $1 M.DMG to enemies in range.\n►Lowers enemies' M.DEF in range by $2.
+前方範囲内の敵すべてに魔法小ダメージを与え、さらに魔法防御力を小ダウンさせる。=Gây sát thương ma thuật nhỏ cho kẻ địch trong phạm vi và giảm nhẹ phòng thủ ma thuật của chúng.
+r:"^範囲内の敵すべてに(\d+)の魔法ダメージ範囲内の敵すべての魔法防御力を(\d+)ダウン$"=►Gây $1 sát thương ma thuật cho kẻ địch trong phạm vi.\n►Giảm $2 phòng thủ ma thuật của kẻ địch trong phạm vi.
 
 ##EX##
 ラブサマーティーチング=Lovely Summer Lesson
@@ -22,12 +22,12 @@ r:"^範囲内の敵すべてに(\d+)の魔法ダメージ範囲内の敵すべ�
 
 ##S1+##
 ラブスティール+=Love Bandit+
-前方範囲内の敵すべてに魔法中ダメージを与え、さらに最もＨＰが低い味方１キャラのＨＰを小回復する。範囲内の敵の数に応じて回復量が増加する。=Deals moderate M.DMG to enemies in range, and slightly recovers HP of the ally with the lowest HP. HP recovery increases according to number of enemies in range.
+前方範囲内の敵すべてに魔法中ダメージを与え、さらに最もＨＰが低い味方１キャラのＨＰを小回復する。範囲内の敵の数に応じて回復量が増加する。=Gây sát thương ma thuật vừa phải cho kẻ địch trong phạm vi, và hồi máu nhẹ cho đồng đội có máu thấp nhất. Lượng máu hồi tăng theo số kẻ địch trong phạm vi.
 
 ##S2+##
 ラブスプラッシュ+=Love Splash+
-自分の魔法攻撃力を大アップ、魔法クリティカルを大アップする。さらに前方範囲内の敵すべてに魔法中ダメージを与え、魔法防御力を小ダウンさせる。範囲内の敵の数に応じてダメージと魔法防御力のダウン量がアップする。=Deals moderate M.DMG to enemies in range and slightly lowers their M.DEF. Also greatly boosts own M.ATK and M.CRIT Rate. The M.DMG dealt and lowered M.DEF increase according to number of enemies in range.
-r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の魔法防御力を(\d+)ダウン自分の魔法攻撃力を(\d+)アップ自分の魔法クリティカルを150アップ$"=►Deals $1 (+0.18×$1×Enemy Count) M.DMG to enemies in 1100 range.\n►Lowers enemies' M.DEF in 1100 range by $2 (+0.1×$2×Enemy Count) for 18s.\n►Boosts own M.ATK by $3 for 180s.\n►Boosts own M.CRIT Rate by 150 for 180s.
+自分の魔法攻撃力を大アップ、魔法クリティカルを大アップする。さらに前方範囲内の敵すべてに魔法中ダメージを与え、魔法防御力を小ダウンさせる。範囲内の敵の数に応じてダメージと魔法防御力のダウン量がアップする。=Gây sát thương ma thuật vừa phải cho kẻ địch trong phạm vi và giảm nhẹ phòng thủ ma thuật của chúng. Đồng thời tăng mạnh sát thương ma thuật và tỷ lệ chí mạng ma thuật của bản thân. Sát thương ma thuật gây ra và phòng thủ ma thuật bị giảm tăng theo số kẻ địch trong phạm vi.
+r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の魔法防御力を(\d+)ダウン自分の魔法攻撃力を(\d+)アップ自分の魔法クリティカルを150アップ$"=►Gây $1 (+0.18×$1×Số kẻ địch) sát thương ma thuật cho kẻ địch trong phạm vi 1100.\n►Giảm $2 (+0.1×$2×Số kẻ địch) phòng thủ ma thuật của kẻ địch trong phạm vi 1100 trong 18s.\n►Tăng $3 sát thương ma thuật cho bản thân trong 180s.\n►Tăng 150 tỷ lệ chí mạng ma thuật cho bản thân trong 180s.
 
 ##UE##
 恵愛剣サマーラブファミリア=Lovely Summer Familia Sword

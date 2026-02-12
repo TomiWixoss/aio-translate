@@ -1,27 +1,27 @@
 ##Profile##
-【物理】前衛で、華装に身を包み流麗な剣舞を舞う狼娘。周囲の味方の数に応じて、スキルの威力と物理攻撃力アップのスキル効果が上がり、鼓舞激励の一斬を振るう。=[Physical] A wolf girl who is dressed in fancy clothes performs a graceful sword dance in the vanguard. Depending on the number of allies around her, the skill's power and physical attack power increased, and she swings an encouraging slash.
+【物理】前衛で、華装に身を包み流麗な剣舞を舞う狼娘。周囲の味方の数に応じて、スキルの威力と物理攻撃力アップのスキル効果が上がり、鼓舞激励の一斬を振るう。=[Vật lý] Một cô gái sói khoác trang phục lộng lẫy thực hiện một điệu múa kiếm duyên dáng ở tuyến đầu. Tùy theo số lượng đồng minh xung quanh, sức mạnh kỹ năng và lực công vật lý tăng lên, cô vung một nhát chém đầy khích lệ.
 
 ##UB##
-ウルフェンロンド=Wolven Rondo
-自分を中心とした範囲内の味方の物理攻撃力と行動速度を中アップさせ、目の前の敵１キャラに物理特大ダメージを与える。範囲内の味方の人数に応じて、攻撃力の上昇量がアップする。=Moderately boosts allies' P.ATK and action speed in range, and deals massive P.DMG to an enemy in front. The P.ATK boost increases according to the number of allies in range.
-r:"^敵単体に(\d+)の物理ダメージ範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の行動速度アップ$"=►Deals $1 P.DMG to an enemy.\n►Boosts allies' P.ATK in 180 range by $2 for 18s.\n►Boosts allies' action speed in 180 range to 125% for 12s.
+ウルフェンロンド=Khúc Giao Hưởng Sói
+自分を中心とした範囲内の味方の物理攻撃力と行動速度を中アップさせ、目の前の敵１キャラに物理特大ダメージを与える。範囲内の味方の人数に応じて、攻撃力の上昇量がアップする。=Tăng V.ATK và tốc độ hành động của đồng minh trong phạm vi một lượng vừa phải, và gây sát thương V.ATK khổng lồ lên kẻ địch phía trước. Lượng tăng V.ATK tăng theo số lượng đồng minh trong phạm vi.
+r:"^敵単体に(\d+)の物理ダメージ範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の行動速度アップ$"=►Gây $1 sát thương V.ATK lên kẻ địch.\n►Tăng V.ATK của đồng minh trong phạm vi 180 lên $2 trong 18s.\n►Tăng tốc độ hành động của đồng minh trong phạm vi 180 lên 125% trong 12s.
 
 ##S1##
-シュバルリックオーダー=Chivalric Order
-自分を中心とした範囲内の味方の物理攻撃力を小アップさせる。範囲内の味方の人数に応じて、攻撃力の上昇量がアップする。=Slightly boosts allies' P.ATK in range. The P.ATK boost increases according to the number of allies in range.
+シュバルリックオーダー=Đạo Hiệp Sĩ
+自分を中心とした範囲内の味方の物理攻撃力を小アップさせる。範囲内の味方の人数に応じて、攻撃力の上昇量がアップする。=Tăng nhẹ V.ATK của đồng minh trong phạm vi. Lượng tăng V.ATK tăng theo số lượng đồng minh trong phạm vi.
 
 ##S2##
-クルーエルダンス=Cruel Dance
-目の前の敵１キャラに物理中ダメージを与え、物理防御力を小ダウンさせる。自分を中心とした範囲内の味方の人数に応じて、与えるダメージがアップする。=Deals moderate P.DMG to an enemy in front, and slightly lowers its P.DEF. The P.ATK boost increases according to the number of allies in range.
+クルーエルダンス=Điệu Múa Tàn Khốc
+目の前の敵１キャラに物理中ダメージを与え、物理防御力を小ダウンさせる。自分を中心とした範囲内の味方の人数に応じて、与えるダメージがアップする。=Gây sát thương V.ATK vừa phải lên kẻ địch phía trước, và giảm nhẹ P.DEF của nó. Lượng tăng V.ATK tăng theo số lượng đồng minh trong phạm vi.
 
 ##EX##
-麗狼の剣舞=Beautiful Wolf's Sword Dance
-麗狼の剣舞+=Beautiful Wolf's Sword Dance+
+麗狼の剣舞=Điệu Múa Kiếm Sói Xinh Đẹp
+麗狼の剣舞+=Điệu Múa Kiếm Sói Xinh Đẹp+
 
 ##S1+##
-シュバルリックオーダー+=Chivalric Order+
-自分を中心とした範囲内の味方の物理攻撃力を中アップさせ、さらに自分の物理攻撃力を中アップさせる。範囲内の味方の人数に応じて、物理攻撃力の上昇量がアップする。=Moderately boosts allies' P.ATK in range, and also moderately boosts own P.ATK. The P.ATK boost increases according to the number of allies in range.
-r:"^範囲内の味方の物理攻撃力を(\d+)アップ自分の物理攻撃力を(\d+)アップ$"=►Boosts allies' P.ATK in 180 range by $1 for 12s.\n►Boosts own P.ATK by $2 for 12s.
+シュバルリックオーダー+=Đạo Hiệp Sĩ+
+自分を中心とした範囲内の味方の物理攻撃力を中アップさせ、さらに自分の物理攻撃力を中アップさせる。範囲内の味方の人数に応じて、物理攻撃力の上昇量がアップする。=Tăng V.ATK của đồng minh trong phạm vi một lượng vừa phải, và cũng tăng V.ATK của bản thân một lượng vừa phải. Lượng tăng V.ATK tăng theo số lượng đồng minh trong phạm vi.
+r:"^範囲内の味方の物理攻撃力を(\d+)アップ自分の物理攻撃力を(\d+)アップ$"=►Tăng V.ATK của đồng minh trong phạm vi 180 lên $1 trong 12s.\n►Tăng V.ATK của bản thân lên $2 trong 12s.
 
 ##UE##
-ウルフェンロンドドレス=Wolven Rondo Dress
+ウルフェンロンドドレス=Trang Phục Khúc Giao Hưởng Sói

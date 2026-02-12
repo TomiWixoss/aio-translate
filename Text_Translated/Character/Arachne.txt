@@ -1,38 +1,38 @@
-【物理】後衛で、喪われた光を求めてもがく元『六凶』。敵のＵＢを遅延する【遮絶の操糸】や、味方単体のＵＢを連続発動可能にする【賦活の糸】を戦場に張り巡らせる。=[Physical] Rearguard former "Six Calamities" seeking lost light. Deploys threads that delay enemy UBs and enable ally UB spamming across the battlefield.
-光を追うこと、整理整頓=Chasing the light, organizing and tidying up.
+【物理】後衛で、喪われた光を求めてもがく元『六凶』。敵のＵＢを遅延する【遮絶の操糸】や、味方単体のＵＢを連続発動可能にする【賦活の糸】を戦場に張り巡らせる。=[Vật Lý] Cựu hậu quân "Sáu Tai Họa" tìm kiếm ánh sáng đã mất. Triển khai sợi chỉ làm chậm UB của địch và cho phép đồng minh spam UB trên chiến trường.
+光を追うこと、整理整頓=Theo đuổi ánh sáng, sắp xếp và dọn dẹp.
 
-新たな道を歩み始めた女郎蜘蛛=An arachne who has begun walking a new path
+新たな道を歩み始めた女郎蜘蛛=Một arachne đã bước đi trên con đường mới
 
 ##UB##
-ウィドウ・ウェヴ・ウィーヴ=Widow Web Weave
-味方全体に物理/魔法無効バリアを展開し、継続ＨＰ回復状態を付与する。自分以外の物理攻撃をする味方のうち最も物理攻撃力が高い味方１キャラの物理攻撃力を特大アップさせ、【賦活の糸】を１つ付与する。【賦活の糸】が付与されているキャラがＵＢを使用した場合、そのキャラの【賦活の糸】を１つ消費し、ＴＰを特大回復する。【賦活の糸】は最大１つまで追加される。=Deploys a physical/magic invalid barrier to all allies and grants continuous HP recovery state. Massively boosts the P.ATK of the ally with the highest P.ATK among allies other than self who perform physical attacks, and grants 1 [Revitalizing Thread]. If a character with [Revitalizing Thread] uses UB, consumes 1 [Revitalizing Thread] from that character and massively recovers their TP. [Revitalizing Thread] can be added up to a maximum of 1.
-r:"^(\d+)ダメージ分の物理魔法無効バリアを展開する毎秒ＨＰを(\d+)回復する対象の味方の物理攻撃力を(\d+)アップ対象の味方に賦活の糸を付与する対象の味方がＵＢを使用した時に、賦活の糸を１つ消費し、ＴＰを1000回復$"=►Deploys a Phys/Mag Null Barrier absorbing $1 DMG.\n►Recovers HP by $2 per second.\n►Boosts target ally's P.ATK by $3.\n►Grants [Activation Thread] to target ally.\n►When target ally uses UB: Consumes 1 [Activation Thread] and recovers TP by 1000.
+ウィドウ・ウェヴ・ウィーヴ=Lưới Gióng Nhện
+味方全体に物理/魔法無効バリアを展開し、継続ＨＰ回復状態を付与する。自分以外の物理攻撃をする味方のうち最も物理攻撃力が高い味方１キャラの物理攻撃力を特大アップさせ、【賦活の糸】を１つ付与する。【賦活の糸】が付与されているキャラがＵＢを使用した場合、そのキャラの【賦活の糸】を１つ消費し、ＴＰを特大回復する。【賦活の糸】は最大１つまで追加される。=Triển khai một rào cản vô hiệu hóa vật lý/phép thuật cho tất cả đồng minh và trao trạng thái hồi HP liên tục. Tăng cường mạnh mẽ tấn công vật lý của đồng minh có tấn công vật lý cao nhất ngoài bản thân, và trao 1 [Sợi Chỉ Hồi Sức]. Nếu nhân vật có [Sợi Chỉ Hồi Sức] dùng UB, tiêu hao 1 [Sợi Chỉ Hồi Sức] của nhân vật đó và hồi TP cực lớn. [Sợi Chỉ Hồi Sức] có thể được thêm tối đa 1.
+r:"^(\d+)ダメージ分の物理魔法無効バリアを展開する毎秒ＨＰを(\d+)回復する対象の味方の物理攻撃力を(\d+)アップ対象の味方に賦活の糸を付与する対象の味方がＵＢを使用した時に、賦活の糸を１つ消費し、ＴＰを1000回復$"=►Triển khai Rào Cản Vô Hiệu Hóa Vật Lý/Phép Thuật hấp thụ $1 sát thương.\n►Hồi HP $2 mỗi giây.\n►Tăng tấn công vật lý của đồng minh mục tiêu lên $3.\n►Trao [Sợi Chỉ Kích Hoạt] cho đồng minh mục tiêu.\n►Khi đồng minh mục tiêu dùng UB: Tiêu hao 1 [Sợi Chỉ Kích Hoạt] và hồi TP 1000.
 
 ##S1##
-忘却の財禍=Oblivion's Calamity
-味方全体のＴＰ上昇を小アップし、自分以外の味方全体のＴＰを小回復する。さらに、味方全体の物理攻撃力を特大アップ、物理防御力と魔法防御力を中アップする。=Slightly boosts all allies' TP Boost, and slightly recovers TP of all allies other than self. Furthermore, massively boosts all allies' P.ATK, and moderately boosts their P.DEF and M.DEF.
-r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の物理防御力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ味方全体のＴＰ上昇を5アップ自分以外の味方全体のＴＰを100回復$"=►Boosts all allies' P.ATK by $1.\n►Boosts all allies' P.DEF by $2.\n►Boosts all allies' M.DEF by $3.\n►Boosts all allies' TP Boost by 5.\n►Recovers TP for all allies except self by 100.
+忘却の財禍=Tai Họa Quên Lãng
+味方全体のＴＰ上昇を小アップし、自分以外の味方全体のＴＰを小回復する。さらに、味方全体の物理攻撃力を特大アップ、物理防御力と魔法防御力を中アップする。=Tăng nhẹ Tăng TP cho tất cả đồng minh, và hồi TP nhẹ cho tất cả đồng minh ngoại trừ bản thân. Hơn nữa, tăng mạnh tấn công vật lý cho tất cả đồng minh, và tăng trung bình phòng thủ vật lý và phòng thủ phép thuật của họ.
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の物理防御力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ味方全体のＴＰ上昇を5アップ自分以外の味方全体のＴＰを100回復$"=►Tăng tấn công vật lý của tất cả đồng minh lên $1.\n►Tăng phòng thủ vật lý của tất cả đồng minh lên $2.\n►Tăng phòng thủ phép thuật của tất cả đồng minh lên $3.\n►Tăng Tăng TP của tất cả đồng minh lên 5.\n►Hồi TP cho tất cả đồng minh trừ bản thân 100.
 
 ##S2##
-粘つく白糸=Sticky White Thread
-目の前の敵１キャラの物理攻撃力と魔法攻撃力を大ダウン、物理防御力を小ダウンさせ、物理攻撃を受けた際のダメージを小アップさせる。=Greatly lowers an enemy in front's P.ATK and M.ATK, slightly lowers their P.DEF, and slightly increases the damage they receive from physical attacks.
+粘つく白糸=Sợi Chỉ Trắng Dính Dính
+目の前の敵１キャラの物理攻撃力と魔法攻撃力を大ダウン、物理防御力を小ダウンさせ、物理攻撃を受けた際のダメージを小アップさせる。=Giảm mạnh tấn công vật lý và tấn công phép thuật của kẻ địch phía trước, giảm nhẹ phòng thủ vật lý của chúng, và tăng nhẹ sát thương vật lý mà chúng phải nhận.
 
-r:"^敵単体の物理攻撃力を(\d+)ダウン敵単体の魔法攻撃力を(\d+)ダウン敵単体の物理防御力を(\d+)ダウン敵単体が受ける物理ダメージを3％アップ$"=►Lowers a single enemy's P.ATK by $1.\n►Lowers a single enemy's M.ATK by $2.\n►Lowers a single enemy's P.DEF by $3.\n►Boosts physical damage taken by a single enemy by 3%.
+r:"^敵単体の物理攻撃力を(\d+)ダウン敵単体の魔法攻撃力を(\d+)ダウン敵単体の物理防御力を(\d+)ダウン敵単体が受ける物理ダメージを3％アップ$"=►Giảm tấn công vật lý của một kẻ địch lên $1.\n►Giảm tấn công phép thuật của một kẻ địch lên $2.\n►Giảm phòng thủ vật lý của một kẻ địch lên $3.\n►Tăng sát thương vật lý nhận vào của một kẻ địch lên 3%.
 
 ##EX##
-光射す方へ=Toward the Shining Light
-光射す方へ+=Toward the Shining Light+
+光射す方へ=Hướng Về Ánh Sáng
+光射す方へ+=Hướng Về Ánh Sáng+
 
-逃れ得ぬカルマ=Inescapable Karma
-敵単体を遮絶の操糸状態にする物理攻撃力、魔法攻撃力いずれかで、最も攻撃力が高い敵１キャラを遮絶の操糸状態にする。遮絶の操糸状態の間はＴＰが増加しない。=Inflicts Isolation Thread string state on a single enemy.\nInflicts Isolation Thread string state on the enemy with the highest attack power, whether P.ATK or M.ATK. While in Isolation Thread string state, TP does not increase.
+逃れ得ぬカルマ=Nhân Quả Không Thoát
+敵単体を遮絶の操糸状態にする物理攻撃力、魔法攻撃力いずれかで、最も攻撃力が高い敵１キャラを遮絶の操糸状態にする。遮絶の操糸状態の間はＴＰが増加しない。=Khiến một kẻ địch trạng thái chuỗi Sợi Chỉ Cô Lập.\nKhiến kẻ địch có tấn công cao nhất (dù là P.ATK hay M.ATK) trạng thái chuỗi Sợi Chỉ Cô Lập. Khi ở trạng thái chuỗi Sợi Chỉ Cô Lập, TP sẽ không tăng.
 
-物理攻撃力、魔法攻撃力いずれかで、最も攻撃力が高い敵１キャラを遮絶の操糸状態にする。遮絶の操糸状態の間はＴＰが増加しない。=Inflicts Isolation Thread string state on the enemy with the highest attack power, whether P.ATK or M.ATK. While in Isolation Thread string state, TP does not increase.
-敵単体を遮絶の操糸状態にする=Inflicts Isolation Thread string state on a single enemy.
+物理攻撃力、魔法攻撃力いずれかで、最も攻撃力が高い敵１キャラを遮絶の操糸状態にする。遮絶の操糸状態の間はＴＰが増加しない。=Khiến kẻ địch có tấn công cao nhất (dù là P.ATK hay M.ATK) trạng thái chuỗi Sợi Chỉ Cô Lập. Khi ở trạng thái chuỗi Sợi Chỉ Cô Lập, TP sẽ không tăng.
+敵単体を遮絶の操糸状態にする=Khiến một kẻ địch trạng thái chuỗi Sợi Chỉ Cô Lập.
 
 Story Title Cards
-逃れられない過去=An Inescapable Past
-脱出、あるいは運命の再会=Escape or Fateful Reunion
-小さな従者と大きな従者=Little Servant and Big Servant
-わたしの光=My Light
+逃れられない過去=Quá Khứ Không Thể Thoát
+脱出、あるいは運命の再会=Đồng Hành hay Đoàn Tụ
+小さな従者と大きな従者=Tớ Lớn và Cậu Nhỏ
+わたしの光=Ánh Sáng Của Tớ
 
 

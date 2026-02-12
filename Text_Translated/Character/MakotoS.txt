@@ -1,19 +1,19 @@
 ##Profile##
-【物理】前衛で攻撃対象が１つの敵に特化した海の狼娘。攻撃対象が１つの場合、スキルとユニオンバーストともに真価を発揮し他を圧倒する絶大な破壊力で敵をなぎ払う。=[Physical] A wolfgirl on the beach who crushes foes from the vanguard. Her skills and Union Burst achieve their full potential when only a single target remains, allowing her to overwhelm it with a flurry of devastating blows.
+【物理】前衛で攻撃対象が１つの敵に特化した海の狼娘。攻撃対象が１つの場合、スキルとユニオンバーストともに真価を発揮し他を圧倒する絶大な破壊力で敵をなぎ払う。=[Vật lý] Một cô gái sói trên bãi biển đè bẹp kẻ thù từ tuyến đầu. Kỹ năng và Union Burst của cô đạt được tiềm năng tối đa khi chỉ còn một mục tiêu địch, cho phép cô áp đảo nó bằng một loạt những đòn đánh hủy diệt.
 
 ##UB##
-サマーウルフェンブリッツ=Summer Wolven Blitz
-目の前の敵１キャラに物理大ダメージを与える。残りの攻撃対象が１つの場合、代わりに物理特大ダメージを与え、さらに物理防御力を大ダウンさせる。=Deals large P.DMG to an enemy directly in front. If only one enemy target remains in battle, instead deals massive P.DMG and lowers its P.DEF by a large amount.
-r:"^残りの攻撃対象が１つの場合、敵単体に(\d+)の物理ダメージ残りの攻撃対象が２つ以上の場合、敵単体に(\d+)の物理ダメージ残りの攻撃対象が１つの場合、敵単体の物理防御力を(\d+)ダウン$"=If only one enemy remains in battle:\n►Deals $1 P.DMG to an enemy.\n►Lowers an enemy's P.DEF by $3.\n\nIf two or more enemies remain in battle:\n►Deals $2 P.DMG to an enemy.
+サマーウルフェンブリッツ=Cuộc Tấn Công Sói Mùa Hè
+目の前の敵１キャラに物理大ダメージを与える。残りの攻撃対象が１つの場合、代わりに物理特大ダメージを与え、さらに物理防御力を大ダウンさせる。=Gây sát thương V.ATK lớn lên kẻ địch ngay phía trước. Nếu chỉ còn một mục tiêu địch trong trận chiến, thay vào đó gây sát thương V.ATK khổng lồ và giảm P.DEF của nó một lượng lớn.
+r:"^残りの攻撃対象が１つの場合、敵単体に(\d+)の物理ダメージ残りの攻撃対象が２つ以上の場合、敵単体に(\d+)の物理ダメージ残りの攻撃対象が１つの場合、敵単体の物理防御力を(\d+)ダウン$"=Nếu chỉ còn một kẻ địch trong trận:\n►Gây $1 Sát Thương Vật Lý lên kẻ địch.\n►Giảm Phòng Thủ Vật Lý của kẻ địch đi $3.\n\nNếu còn hai kẻ địch trở lên:\n►Gây $2 Sát Thương Vật Lý lên kẻ địch.
 
 ##S1##
 アクアクロッシング=Aqua Crossing
-目の前の敵１キャラに物理中ダメージを与える。残りの攻撃対象が１つの場合、追加で物理小ダメージを与え、さらに物理防御力を小ダウンさせる。=Deals moderate P.DMG to an enemy directly in front. If only one enemy target remains in battle, additionally deals small P.DMG and lowers its P.DEF by a small amount.
-r:"^敵単体に(\d+)の物理ダメージ残りの攻撃対象が１つの場合、敵単体に(\d+)の追加物理ダメージ残りの攻撃対象が１つの場合、敵単体の物理防御力を(\d+)ダウン$"=If only one enemy remains in battle:\n►Deals $2 P.DMG to an enemy.\n►Lowers an enemy's P.DEF by $3.\n\nIf two or more enemies remain in battle:\n►Deals $1 P.DMG to an enemy.
+目の前の敵１キャラに物理中ダメージを与える。残りの攻撃対象が１つの場合、追加で物理小ダメージを与え、さらに物理防御力を小ダウンさせる。=Gây sát thương vật lý vừa phải lên kẻ địch đứng trước mặt. Nếu chỉ còn một mục tiêu kẻ địch trong trận, cộng thêm gây sát thương vật lý nhỏ và giảm phòng thủ vật lý của mục tiêu một chút.
+r:"^敵単体に(\d+)の物理ダメージ残りの攻撃対象が１つの場合、敵単体に(\d+)の追加物理ダメージ残りの攻撃対象が１つの場合、敵単体の物理防御力を(\d+)ダウン$"=Nếu chỉ còn một kẻ địch trong trận:\n►Gây $2 Sát Thương Vật Lý lên kẻ địch.\n►Giảm Phòng Thủ Vật Lý của kẻ địch đi $3.\n\nNếu còn hai kẻ địch trở lên:\n►Gây $1 Sát Thương Vật Lý lên kẻ địch.
 
 ##S2##
 ブルーハウリング=Blue Howling
-自分の物理攻撃力を中アップさせる。残りの攻撃対象が１つの場合、この攻撃力アップは時間によって解除されなくなる。=Moderate boost to own P.ATK. If only one enemy target remains in battle, this boost remains effective indefinitely.
+自分の物理攻撃力を中アップさせる。残りの攻撃対象が１つの場合、この攻撃力アップは時間によって解除されなくなる。=Tăng Tấn Công Vật Lý của bản thân một cách vừa phải. Nếu chỉ còn một mục tiêu kẻ địch trong trận, hiệu quả tăng này duy trì vĩnh viễn.
 
 ##EX##
 海狼の闘気=Sea Wolf's Vigor
@@ -21,13 +21,13 @@ r:"^敵単体に(\d+)の物理ダメージ残りの攻撃対象が１つの場�
 
 ##S1+##
 アクアクロッシング+=Aqua Crossing+
-目の前の敵１キャラに物理中ダメージを与える。残りの攻撃対象が１つの場合、追加で物理中ダメージを与え、物理防御力を小ダウンさせ、さらに自分の物理攻撃力を小アップさせる。=Deals moderate P.DMG to an enemy directly in front. If only one enemy target remains in battle, additionally deals moderate P.DMG and lowers its P.DEF by a moderate amount. Also, boosts own P.ATK by a small amount.
-r:"^敵単体に(\d+)の物理ダメージ残りの攻撃対象が１つの場合、敵単体に(\d+)の追加物理ダメージ残りの攻撃対象が１つの場合、敵単体の物理防御力を(\d+)ダウン残りの攻撃対象が１つの場合、自分の物理攻撃力を(\d+)アップ$"=If only one enemy remains in battle:\n►Deals $2 P.DMG to an enemy.\n►Lowers an enemy's P.DEF by $3.\n►Boosts own P.ATK by $4.\n\nIf two or more enemies remain in battle:\n►Deals $1 P.DMG to an enemy.
+目の前の敵１キャラに物理中ダメージを与える。残りの攻撃対象が１つの場合、追加で物理中ダメージを与え、物理防御力を小ダウンさせ、さらに自分の物理攻撃力を小アップさせる。=Gây sát thương vật lý vừa phải lên kẻ địch đứng trước mặt. Nếu chỉ còn một mục tiêu kẻ địch trong trận, cộng thêm gây sát thương vật lý vừa phải và giảm phòng thủ vật lý của mục tiêu một cách vừa phải. Đồng thời, tăng Tấn Công Vật Lý của bản thân một chút.
+r:"^敵単体に(\d+)の物理ダメージ残りの攻撃対象が１つの場合、敵単体に(\d+)の追加物理ダメージ残りの攻撃対象が１つの場合、敵単体の物理防御力を(\d+)ダウン残りの攻撃対象が１つの場合、自分の物理攻撃力を(\d+)アップ$"=Nếu chỉ còn một kẻ địch trong trận:\n►Gây $2 Sát Thương Vật Lý lên kẻ địch.\n►Giảm Phòng Thủ Vật Lý của kẻ địch đi $3.\n►Tăng Tấn Công Vật Lý của bản thân đi $4.\n\nNếu còn hai kẻ địch trở lên:\n►Gây $1 Sát Thương Vật Lý lên kẻ địch.
 
 ##S2+##
 ブルーハウリング+=Blue Howling+
-自分の物理攻撃力を特大アップ、物理攻撃クリティカル時のダメージを小アップし、ＴＰを中回復する。残りの攻撃対象が１つの場合、この物理攻撃力アップと物理攻撃クリティカル時のダメージアップは時間によって解除されなくなる。=Massively boosts own P.ATK, slightly boosts own P.CRIT DMG and moderately recovers own TP. If only one enemy target remains in battle, this boost remains effective indefinitely.
-r:"^自分の物理攻撃力を(\d+)アップ自分の物理攻撃クリティカル時のダメージを9％アップ自分のＴＰを150回復$"=►Boosts own P.ATK by $1.\n►Boosts own P.CRIT DMG by 9%.\n►Recovers own TP by 150.
+自分の物理攻撃力を特大アップ、物理攻撃クリティカル時のダメージを小アップし、ＴＰを中回復する。残りの攻撃対象が１つの場合、この物理攻撃力アップと物理攻撃クリティカル時のダメージアップは時間によって解除されなくなる。=Tăng mạnh Tấn Công Vật Lý của bản thân, tăng nhỏ Sát Thương Chí Mạng Vật Lý của bản thân và hồi phục vừa phải TP của bản thân. Nếu chỉ còn một mục tiêu kẻ địch trong trận, hiệu quả tăng này duy trì vĩnh viễn.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理攻撃クリティカル時のダメージを9％アップ自分のＴＰを150回復$"=►Tăng Tấn Công Vật Lý của bản thân đi $1.\n►Tăng Sát Thương Chí Mạng Vật Lý của bản thân 9%.\n►Hồi phục TP của bản thân 150.
 
 ##UE##
 サマーウルフェンソード=Summer Wolven Sword

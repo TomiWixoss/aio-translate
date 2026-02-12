@@ -1,28 +1,28 @@
 ##Profile##
-【魔法】後衛で、オタ活に精を出すハロウィン魔法少女。ＨＰ回復量ダウンで敵の戦略を崩し、ダメージフィールドと対象の数で火傷の威力を増す熱狂の炎が敵を包み込む。=[Magic] A rearguard Halloween Mahou Shoujo geek. The amount of HP recovered breaks down the enemy's strategy, and the damage field and the number of targets increase the power of burns, enveloping the enemy in a frenzied flame.
+【魔法】後衛で、オタ活に精を出すハロウィン魔法少女。ＨＰ回復量ダウンで敵の戦略を崩し、ダメージフィールドと対象の数で火傷の威力を増す熱狂の炎が敵を包み込む。=[Ma Thuật] Một cô gái ma thuật Halloween mọt sách ở hậu phương. Lượng HP hồi phục phá vỡ chiến thuật của kẻ thù, và vùng sát thương cùng số mục tiêu tăng sức mạnh của hiệu ứng cháy, bao trùm kẻ thù trong ngọn lửa điên cuồng.
 
 ##UB##
-ナナカ・マニアックフレイム=Nanaka Maniac Flame
-残りＨＰが最も高い敵を中心とした範囲内の敵すべてに魔法大ダメージを与え、火傷状態にする。火傷のダメージは範囲内の敵の数に応じて増加する。=Deals large M.DMG to enemies in range around an enemy with highest remaining HP, and inflicts Burn to them. Burn damage increases with the number of enemies in range.
-r:"^範囲内の敵に(\d+)の魔法ダメージ(\d+)ダメージを与える火傷状態にする$"=►Deals $1 M.DMG to enemies in 300 range.\n►Inflicts Burn to enemies in 300 range that deals $2/s for 7s.
+ナナカ・マニアックフレイム=Ngọn Lửa Cuồng Nhiệt Của Nanaka
+残りＨＰが最も高い敵を中心とした範囲内の敵すべてに魔法大ダメージを与え、火傷状態にする。火傷のダメージは範囲内の敵の数に応じて増加する。=Gây ra lượng sát thương ma thuật lớn lên kẻ thù trong phạm vi xung quanh kẻ thù có HP còn lại cao nhất, và gây hiệu ứng cháy cho chúng. Sát thương cháy tăng theo số lượng kẻ thù trong phạm vi.
+r:"^範囲内の敵に(\d+)の魔法ダメージ(\d+)ダメージを与える火傷状態にする$"=►Gây $1 sát thương ma thuật lên kẻ thù trong phạm vi 300.\n►Gây hiệu ứng cháy lên kẻ thù trong phạm vi 300, gây $2/giây trong 7 giây.
 
 ##S1##
-ジャックオーサークル=Jack-o'-Circle
-残りＨＰが最も高い敵を中心として、魔法ダメージフィールドを展開する。=Deploys a M.DMG field around an enemy with highest remaining HP.
+ジャックオーサークル=Vòng Tròn Ma Quỷ
+残りＨＰが最も高い敵を中心として、魔法ダメージフィールドを展開する。=Triển khai một vùng sát thương ma thuật xung quanh kẻ thù có HP còn lại cao nhất.
 
 ##S2##
-ナナカちゃんトリック=Nanaka-chan Trick
-残りＨＰが最も高い敵を中心とした範囲内の敵すべてのＨＰ回復量を特大ダウンさせ、魔法防御力を小ダウンさせる。=Greatly reduces enemies' HP Recovery Rate in range around an enemy with highest remaining HP, and slightly lowers their M.DEF.
-r:"^範囲内の敵のＨＰ回復量を80％ダウン範囲内の敵の魔法防御力を(\d+)ダウン$"=►Reduces enemies' HP Recovery Rate in 300 range around an enemy with highest remaining HP to 20% for 12s.\n►Lowers enemies' M.DEF in 300 range around an enemy with highest remaining HP by $1 for 12s.
+ナナカちゃんトリック=Thủ Thuật Của Nanaka-chan
+残りＨＰが最も高い敵を中心とした範囲内の敵すべてのＨＰ回復量を特大ダウンさせ、魔法防御力を小ダウンさせる。=Giảm mạnh Tỷ Lệ Hồi HP của kẻ thù trong phạm vi xung quanh kẻ thù có HP còn lại cao nhất, và giảm nhẹ Phòng Thủ Ma Thuật của chúng.
+r:"^範囲内の敵のＨＰ回復量を80％ダウン範囲内の敵の魔法防御力を(\d+)ダウン$"=►Giảm Tỷ Lệ Hồi HP của kẻ thù trong phạm vi 300 xung quanh kẻ thù có HP còn lại cao nhất xuống 20% trong 12 giây.\n►Giảm Phòng Thủ Ma Thuật của kẻ thù trong phạm vi 300 xung quanh kẻ thù có HP còn lại cao nhất bằng $1 trong 12 giây.
 
 ##EX##
-コスプレマジック=Cosplay Magic
-コスプレマジック+=Cosplay Magic+
+コスプレマジック=Ma Thuật Hóa Trang
+コスプレマジック+=Ma Thuật Hóa Trang+
 
 ##S1+##
 ジャックオーサークル+=Jack-o'-Circle+
-残りＨＰが最も高い敵を中心として、魔法ダメージフィールドを展開する。さらに、残りＨＰが最も高い敵を中心とした範囲内の敵すべてのＴＰ上昇を中ダウンさせる。=Deploys a M.DMG field around an enemy with highest remaining HP. Additionally, moderately lowers their TP Boost.
-r:"^毎秒(\d+)の魔法ダメージを与えるフィールドを展開する範囲内の敵のＴＰ上昇を(\d+)ダウン$"=►Deploys a 410 radius field around an enemy with highest remaining HP that deals $1/s M.DMG for 12s.\n►Lowers enemies' TP Boost in 300 range by $2 for 12s.
+残りＨＰが最も高い敵を中心として、魔法ダメージフィールドを展開する。さらに、残りＨＰが最も高い敵を中心とした範囲内の敵すべてのＴＰ上昇を中ダウンさせる。=Triển khai một vùng sát thương phép (M.DMG) xung quanh kẻ địch có HP còn lại cao nhất. Ngoài ra, giảm một chút TP Boost của chúng.
+r:"^毎秒(\d+)の魔法ダメージを与えるフィールドを展開する範囲内の敵のＴＰ上昇を(\d+)ダウン$"=►Triển khai một vùng sát thương phép (M.DMG) với bán kính 410 xung quanh kẻ địch có HP còn lại cao nhất, gây $1/s M.DMG trong 12s.\n►Giảm TP Boost của kẻ địch trong phạm vi 300 bằng $2 trong 12s.
 
 ##UE##
-ナナカちゃんウィッチコス=Nanaka-chan Witch Cosplay
+ナナカちゃんウィッチコス=Nanaka-chan Trang Phục Phù Thủy

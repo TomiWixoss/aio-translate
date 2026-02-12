@@ -1,33 +1,33 @@
 ##Profile##
-【魔法】前衛で己を鼓舞し高めた魔力を放つ蒼海の冥姫。発動の度、攻撃力とクリティカル時ダメージが上昇するＵＢと自己犠牲を払う強力な範囲攻撃技で敵を撃滅する。=[Magic] A dark princess of the Azure Sea who inspires herself to awaken new levels of magical power from the frontlines. Her UB bolsters her M.ATK and M.CRIT damage before unleashing a devastating AoE attack at the cost of her own vitality.
+【魔法】前衛で己を鼓舞し高めた魔力を放つ蒼海の冥姫。発動の度、攻撃力とクリティカル時ダメージが上昇するＵＢと自己犠牲を払う強力な範囲攻撃技で敵を撃滅する。=[Ma Thuật] Một nàng công chúa tối của Biển Xanh, tự mình khơi dậy những tầng năng lượng ma thuật mới từ mặt trận. UB của cô tăng sức mạnh ma thuật và sát thương phê phẩm ma thuật trước khi tung ra một đòn tấn công diện rộng hủy diệt, đánh đổi bằng sức khỏe của chính mình.
 
-大迷宮のつくりかた=How to Build a Great Labyrinth
-出航！　ヘカーテ船長=Set Sail! Captain Hecate
-鷹になりたい白鳥の子=A Swan's Child Who Wants to Become a Hawk
-賞金首のすすめ=Recommendations for Bounty Hunters
+大迷宮のつくりかた=Xây Dựng Một Mê Cung Tuyệt Vời
+出航！　ヘカーテ船長=Hãy Cánh Nhé! Đội Trưởng Hecate
+鷹になりたい白鳥の子=Đứa Con Thiên Nga Mong Muốn Trở Thành Đại Bàng
+賞金首のすすめ=Khuyến Nghị Cho Thợ Săn Tiền Thưởng
 
 ##UB##
-覇海姫・竜征冥風裂波斬=Supreme Sea Princess: Dragon's Gale-Splitting Wave Slash
-前方範囲内の敵すべてに魔法大ダメージを与え、自分の魔法攻撃力を大アップし、魔法攻撃クリティカル時のダメージを小アップさせる。=Deals large M.DMG to enemies in range, greatly boosts own M.ATK, and slightly boosts own M.CRIT DMG.
-r:"^範囲内の敵に(\d+)の魔法ダメージ自分の魔法攻撃力を(\d+)アップ自分の魔法攻撃クリティカル時のダメージを2％アップ$"=►Deals $1 M.DMG to enemies in 600 range.\n►Boosts own M.ATK by $2 for 180s.\n►Boosts own M.CRIT DMG by by 2% for 180s.
+覇海姫・竜征冥風裂波斬=Công Chúa Biển Tối Thượng: Sóng Gió Rồng Chém Trời
+前方範囲内の敵すべてに魔法大ダメージを与え、自分の魔法攻撃力を大アップし、魔法攻撃クリティカル時のダメージを小アップさせる。=Gây sát thương ma thuật lớn cho kẻ địch trong phạm vi, tăng cường mạnh mẽ sức mạnh ma thuật của bản thân và tăng nhẹ sát thương phê phẩm ma thuật của bản thân.
+r:"^範囲内の敵に(\d+)の魔法ダメージ自分の魔法攻撃力を(\d+)アップ自分の魔法攻撃クリティカル時のダメージを2％アップ$"=►Gây $1 sát thương ma thuật cho kẻ địch trong phạm vi 600.\n►Tăng sức mạnh ma thuật của bản thân lên $2 trong 180s.\n►Tăng sát thương phê phẩm ma thuật của bản thân lên 2% trong 180s.
 
 ##S1##
-羅刹涅槃・絶海=Demonic Salvation: Boundless Sea
-前方範囲内の敵すべてに魔法中ダメージを与え、魔法防御力を小ダウンさせる。=Deals moderate M.DMG to enemies in range, and lowers their M.DEF.
+羅刹涅槃・絶海=Cứu Rỗi Quỷ Dữ: Biển Vô Hạn
+前方範囲内の敵すべてに魔法中ダメージを与え、魔法防御力を小ダウンさせる。=Gây sát thương ma thuật vừa phải cho kẻ địch trong phạm vi và giảm phòng thủ ma thuật của chúng.
 
 ##S2##
-覇海魔封印弾・禍式=Supreme Sea Demon Sealing Bullet: Calamity Style
-前方範囲内の敵すべてに魔法中ダメージを与え、さらに自分のＴＰ上昇を小アップさせるが、残りＨＰの30％を消費する。自分の魔法攻撃力が高いほど、消費するＨＰが最大60％まで増加する。=Deals moderate M.DMG to all enemies within front-range and slightly increases own TP Boost. Consumes 30% of remaining HP. The amount of HP consumed increases up to a maximum of 60% based on own M.ATK.
-r:"^範囲内の敵に(\d+)の魔法ダメージ自分のＴＰ上昇を20アップ自分の残りＨＰの30％を消費$"=►Deals $1 M.DMG to enemies in 600 range.\n►Boosts own TP Boost by 20 for 12s.\n►Consumes 30% of own remaining HP.
+覇海魔封印弾・禍式=Đạn Trấn Yêu Biển Tối Thượng: Phong Cách Tai Ương
+前方範囲内の敵すべてに魔法中ダメージを与え、さらに自分のＴＰ上昇を小アップさせるが、残りＨＰの30％を消費する。自分の魔法攻撃力が高いほど、消費するＨＰが最大60％まで増加する。=Gây sát thương ma thuật vừa phải cho tất cả kẻ địch trong phạm vi phía trước và tăng nhẹ Hiệu Quả Tăng TP của bản thân. Tiêu hao 30% HP còn lại. Lượng HP tiêu hao tăng lên tối đa 60% dựa trên sức mạnh ma thuật của bản thân.
+r:"^範囲内の敵に(\d+)の魔法ダメージ自分のＴＰ上昇を20アップ自分の残りＨＰの30％を消費$"=►Gây $1 sát thương ma thuật cho kẻ địch trong phạm vi 600.\n►Tăng Hiệu Quả Tăng TP của bản thân lên 20 trong 12s.\n►Tiêu hao 30% HP còn lại của bản thân.
 
 ##EX##
-深淵冥魔蒼海呪=Abyssal Necromancer: Azure Sea Curse
-深淵冥魔蒼海呪+=Abyssal Necromancer: Azure Sea Curse+
+深淵冥魔蒼海呪=Thầy Tu Xác: Lời Nguyền Biển Xanh
+深淵冥魔蒼海呪+=Thầy Tu Xác: Lời Nguyền Biển Xanh+
 
 ##S1+##
-羅刹涅槃・絶海+=Demonic Salvation: Boundless Sea+
-前方範囲内の敵すべてに魔法大ダメージを与え、魔法防御力を小ダウンさせ、魔法攻撃力を特大ダウンさせる。=Deals massive M.DMG to enemies in range, lowers their M.DEF, and greatly lowers their M.ATK.
-r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の魔法防御力を(\d+)ダウン範囲内の敵の魔法攻撃力を(\d+)ダウン$"=►Deals $1 M.DMG to enemies in 600 range.\n►Lowers all enemies' M.DEF in 600 range by $2 for 18s.\n►Lowers all enemies' M.ATK in 600 range by $3 for 18s.
+羅刹涅槃・絶海+=Cứu Rỗi Quỷ Dữ: Biển Vô Hạn+
+前方範囲内の敵すべてに魔法大ダメージを与え、魔法防御力を小ダウンさせ、魔法攻撃力を特大ダウンさせる。=Gây sát thương ma thuật khủng khiếp cho kẻ địch trong phạm vi, giảm phòng thủ ma thuật của chúng và giảm mạnh sức mạnh ma thuật của chúng.
+r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の魔法防御力を(\d+)ダウン範囲内の敵の魔法攻撃力を(\d+)ダウン$"=►Gây $1 sát thương ma thuật cho kẻ địch trong phạm vi 600.\n►Giảm phòng thủ ma thuật của tất cả kẻ địch trong phạm vi 600 xuống $2 trong 18s.\n►Giảm sức mạnh ma thuật của tất cả kẻ địch trong phạm vi 600 xuống $3 trong 18s.
 
 ##UE##
-七界覇王晦冥喝破之装=Supreme Overlord of the Seven Realms: Darkened Roar of Destruction Armor
+七界覇王晦冥喝破之装=Bạo Chúa Trên Bảy Vương Quốc: Giáp Rống Hủy Diệt Bóng Đêm

@@ -1,24 +1,24 @@
 ##Profile##
-【魔法】後衛で、黄昏の水面に舞い降りる水着姿の妖精。行動速度アップやＴＰ支援をはじめとした多数のサポートを施しつつ、ＵＢの攻防弱体化で清爽に勝利へと導く。=[Magic] A swimsuit fairy who dances atop the golden surface of the sea. She has many support skills, including speed buffs and TP, And her UB decreases the attack and defense of the enemy. With these, she guides us to a refreshing victory.
+【魔法】後衛で、黄昏の水面に舞い降りる水着姿の妖精。行動速度アップやＴＰ支援をはじめとした多数のサポートを施しつつ、ＵＢの攻防弱体化で清爽に勝利へと導く。=[Ma Pháp] Một tiên mặc đồ bơi nhảy múa trên mặt biển vàng rực. Cô có nhiều kỹ năng hỗ trợ, bao gồm tăng tốc độ và Tăng TP, và UB của cô giảm tấn công và phòng thủ của kẻ địch. Với những thứ này, cô dẫn dắt chúng ta đến chiến thắng tươi mới.
 
 ##UB##
 フィオレ・オセアーノ=Fiore Oceano
-目の前の敵１キャラに魔法特大ダメージを与え、物理攻撃力と魔法攻撃力を大ダウン、魔法防御力を小ダウンさせる。=Deals massive M.DMG to an enemy in front, greatly lowers its P.ATK and M.ATK, and slightly lowers its M.DEF.
-r:"^敵単体に(\d+)の魔法ダメージ敵単体の物理攻撃力を(\d+)ダウン敵単体の魔法攻撃力を(\d+)ダウン敵単体の魔法防御力を(\d+)ダウン$"=►Deals $1 M.DMG to an enemy.\n►Lowers an enemy's P.ATK by $2 for 18s.\n►Lowers an enemy's M.ATK by $3 for 18s.\n►Lowers an enemy's M.DEF by $4 for 18s.
+目の前の敵１キャラに魔法特大ダメージを与え、物理攻撃力と魔法攻撃力を大ダウン、魔法防御力を小ダウンさせる。=Gây sát thương ma pháp cực lớn lên kẻ địch phía trước, giảm rất lớn P.ATK và M.ATK của chúng và giảm nhẹ M.DEF.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体の物理攻撃力を(\d+)ダウン敵単体の魔法攻撃力を(\d+)ダウン敵単体の魔法防御力を(\d+)ダウン$"=►Gây $1 sát thương ma pháp lên kẻ địch.\n►Giảm P.ATK của kẻ địch $2 trong 18 giây.\n►Giảm M.ATK của kẻ địch $3 trong 18 giây.\n►Giảm M.DEF của kẻ địch $4 trong 18 giây.
 
 ##S1##
 アクア・メンブラーナ=Aqua Membrana
-味方全体に物理/魔法無効バリアを展開する。さらに、最もＴＰが低い味方１キャラのＴＰを小回復させ、そのキャラを中心とした範囲内の味方すべてに継続ＴＰ回復状態を付与する。=Deploys Barrier over all allies that negates P/M.DMG. Also slightly recovers TP of lowest TP ally, and continuously recovers allies' TP in range of that ally.
-r:"^(\d+)ダメージ分の物理魔法無効バリアを展開する味方単体のＴＰを50回復毎秒ＴＰを10回復する$"=►Deploys Barrier over all allies that negates $1 P/M.DMG for 18s.\n►Recovers an ally's TP by 50.\n►Recovers allies' TP in 300 range by 10/s for 10s.
+味方全体に物理/魔法無効バリアを展開する。さらに、最もＴＰが低い味方１キャラのＴＰを小回復させ、そのキャラを中心とした範囲内の味方すべてに継続ＴＰ回復状態を付与する。=Triển khai Lá Chắn lên toàn bộ đồng minh, chống lại Sát Thương Vật Lý/Phép Thuật. Đồng thời hồi một lượng TP nhỏ cho đồng minh có TP thấp nhất, và liên tục hồi TP cho đồng minh trong phạm vi xung quanh đồng minh đó.
+r:"^(\d+)ダメージ分の物理魔法無効バリアを展開する味方単体のＴＰを50回復毎秒ＴＰを10回復する$"=►Triển khai Lá Chắn lên toàn bộ đồng minh, chống lại $1 Sát Thương Vật Lý/Phép Thuật trong 18s.\n►Hồi 50 TP cho một đồng minh.\n►Hồi TP cho đồng minh trong phạm vi 300 với tốc độ 10/s trong 10s.
 
 ##S1+##
 アクア・メンブラーナ+=Aqua Membrana+
-r:"^(\d+)ダメージ分の物理魔法無効バリアを展開する味方全体に調和状態を付与する味方単体のＴＰを50回復毎秒ＴＰを10回復する$"="►Deploys P.DMG/M.DMG Null Barrier ($1)\n►Grants [Harmony] to all allies\n►Recovers 50 TP for ally with lowest TP\n►Grants 10 TP per second"
-r:"^味方全体に物理/魔法無効バリアを展開し、調和状態を付与する。さらに、最もＴＰが低い味方１キャラのＴＰを小回復させ、そのキャラを中心とした範囲内の味方すべてに継続ＴＰ回復状態を付与する。調和状態の間は物理防御力と魔法防御力のうち高い方によって計算されたダメージを受ける。$"="Deploys P.DMG/M.DMG Null Barrier for all allies and grants [Harmony]. Also slightly recovers TP for ally with lowest TP and grants continuous TP recovery to allies around them. During [Harmony], damage taken is calculated using the higher of P.DEF or M.DEF."
+r:"^(\d+)ダメージ分の物理魔法無効バリアを展開する味方全体に調和状態を付与する味方単体のＴＰを50回復毎秒ＴＰを10回復する$"="►Triển khai Lá Chắn Phế Truyền Sát Thương Vật Lý/Phép Thuật ($1)\n►Cấp [Sự Hài Hòa] cho toàn bộ đồng minh\n►Hồi 50 TP cho đồng minh có TP thấp nhất\n►Cấp 10 TP mỗi giây"
+r:"^味方全体に物理/魔法無効バリアを展開し、調和状態を付与する。さらに、最もＴＰが低い味方１キャラのＴＰを小回復させ、そのキャラを中心とした範囲内の味方すべてに継続ＴＰ回復状態を付与する。調和状態の間は物理防御力と魔法防御力のうち高い方によって計算されたダメージを受ける。$"="Triển khai Lá Chắn Phế Truyền Sát Thương Vật Lý/Phép Thuật cho toàn bộ đồng minh và cấp [Sự Hài Hòa]. Đồng thời hồi một lượng TP nhỏ cho đồng minh có TP thấp nhất và cấp hồi TP liên tục cho đồng minh xung quanh. Trong khi [Sự Hài Hòa] còn hiệu lực, sát thương nhận được được tính bằng giá trị DEF cao hơn giữa P.DEF và M.DEF."
 ##S2##
 ヴィータ・オペラーレ=Vita Operare
-味方全体の行動速度を大アップさせる。さらに、最もＨＰが低い味方１キャラのＨＰを中回復させ、そのキャラを中心とした範囲内の味方すべてに継続ＨＰ回復状態を付与する。=Greatly boosts all allies' action speed. Also moderately recovers HP of lowest HP ally, and continuously recovers allies' HP in range of that ally.
-r:"^味方全体の行動速度アップ味方単体のＨＰを(\d+)回復毎秒ＨＰを(\d+)回復する$"=►Boosts all allies' action speed to 200% for 12s.\n►Recovers an ally's HP by $1.\n►Recovers allies' HP in 300 range by $2/s for 10s.
+味方全体の行動速度を大アップさせる。さらに、最もＨＰが低い味方１キャラのＨＰを中回復させ、そのキャラを中心とした範囲内の味方すべてに継続ＨＰ回復状態を付与する。=Tăng cường mạnh mẽ tốc độ hành động của toàn bộ đồng minh. Đồng thời hồi một lượng HP vừa phải cho đồng minh có HP thấp nhất, và liên tục hồi HP cho đồng minh trong phạm vi xung quanh đồng minh đó.
+r:"^味方全体の行動速度アップ味方単体のＨＰを(\d+)回復毎秒ＨＰを(\d+)回復する$"=►Tăng tốc độ hành động của toàn bộ đồng minh lên 200% trong 12s.\n►Hồi $1 HP cho một đồng minh.\n►Hồi HP cho đồng minh trong phạm vi 300 với tốc độ $2/s trong 10s.
 
 ##EX##
 ファータスプルッツォ=Fata Spruzzo

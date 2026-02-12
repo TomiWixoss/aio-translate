@@ -1,22 +1,22 @@
 ##Profile##
-【魔法】中衛から全体魔法攻撃を放つ超能力チアガール。ユニオンバーストで敵全体に絶大な一撃を放ち、その後、超能力発動の反動で枕を抱えて夢の中へ。=[Magic] A supernatural cheerleader who unleashes an all-out magic assault from the midlines. She delivers a devastating blow to all enemies with her Union Blast, then drifts into a dreamland while clutching her pillow thanks to the recoil from her psychic powers.
+【魔法】中衛から全体魔法攻撃を放つ超能力チアガール。ユニオンバーストで敵全体に絶大な一撃を放ち、その後、超能力発動の反動で枕を抱えて夢の中へ。=[Phép] Một cô cổ vũ siêu nhiên tung ra cuộc tấn công phép toàn diện từ hàng giữa. Cô ấy đánh một đòn hủy diệt lên tất cả kẻ địch với Union Blast của mình, sau đó trôi vào vùng đất mơ ước khi ôm chiếc gối nhờ phản lực từ năng lực tâm linh của mình.
 
-妹と遊ぶこと、二度寝、昼寝、早寝=Playing with my little sister, heading back to sleep, napping, going to bed early
+妹と遊ぶこと、二度寝、昼寝、早寝=Chơi với em gái, quay trở lại giấc ngủ, chập chờn, đi ngủ sớm
 
 ##UB##
 サマーチアリング☆スター=Summer Cheering☆Star
-敵全体に魔法大ダメージを与えるが、自分を睡眠状態にする。このスキルで付与された睡眠は、攻撃を受けたときにのみ解除される。=Deals heavy M.DMG to all enemies, but puts herself into a sleep state. The sleep status inflicted by this skill is only lifted when she is attacked.
-r:"^敵全体に(\d+)の魔法ダメージ自分を行動不能にする$"=►Deals $1 M.DMG to all enemies.\n►Inflicts Disable to self.
+敵全体に魔法大ダメージを与えるが、自分を睡眠状態にする。このスキルで付与された睡眠は、攻撃を受けたときにのみ解除される。=Gây sát thương phép nặng lên tất cả kẻ địch, nhưng khiến bản thân rơi vào trạng thái ngủ. Trạng thái ngủ do kỹ năng này gây ra chỉ kết thúc khi cô ấy bị tấn công.
+r:"^敵全体に(\d+)の魔法ダメージ自分を行動不能にする$"=►Gây $1 sát thương phép lên tất cả kẻ địch.\n►Gây Disable cho bản thân.
 
 ##S1##
 ポンポンエール☆シュート=Pom-Pom Yell☆Shoot
-敵全体に魔法小ダメージを与え、さらに自分のＴＰを中回復する。敵の数に応じてＴＰの回復量が増加する。=Deals small M.DMG to all enemies and further restores her own TP. The TP recovery amount increases based on the number of enemies.
-敵全体に魔法中ダメージを与え、さらに自分のＴＰを中回復する。敵の数に応じてＴＰの回復量が増加する。=Deals moderate M.DMG to all enemies and further restores her own TP. The TP recovery amount increases based on the number of enemies.
+敵全体に魔法小ダメージを与え、さらに自分のＴＰを中回復する。敵の数に応じてＴＰの回復量が増加する。=Gây sát thương phép nhỏ lên tất cả kẻ địch và phục hồi thêm TP cho bản thân. Lượng TP phục hồi tăng dựa trên số lượng kẻ địch.
+敵全体に魔法中ダメージを与え、さらに自分のＴＰを中回復する。敵の数に応じてＴＰの回復量が増加する。=Gây sát thương phép trung bình lên tất cả kẻ địch và phục hồi thêm TP cho bản thân. Lượng TP phục hồi tăng dựa trên số lượng kẻ địch.
 
 ##S2##
 チアフル☆ハピネス=Cheerful☆Happiness
-自分を中心とした範囲内の味方すべての魔法攻撃力と魔法クリティカルを中アップさせる。=Boosts the M.ATK and allies' M.CRIT Rate within the range centered around herself.
-r:"^範囲内の味方の魔法攻撃力を(\d+)アップ範囲内の味方の魔法クリティカルを50アップ$"=►Boosts allies' M.ATK in range by $1 for 12s.\n►Boosts allies' M.CRIT Rate in range by 50 for 12s.
+自分を中心とした範囲内の味方すべての魔法攻撃力と魔法クリティカルを中アップさせる。=Tăng M.ATK và tỷ lệ chí mạng phép của đồng minh trong phạm vi xung quanh bản thân.
+r:"^範囲内の味方の魔法攻撃力を(\d+)アップ範囲内の味方の魔法クリティカルを50アップ$"=►Tăng M.ATK của đồng minh trong phạm vi đi $1 trong 12 giây.\n►Tăng tỷ lệ chí mạng phép của đồng minh trong phạm vi thêm 50 trong 12 giây.
 
 ##EX##
 ハッピー☆チアボイス=Happy☆Cheer Voice
@@ -24,8 +24,8 @@ r:"^範囲内の味方の魔法攻撃力を(\d+)アップ範囲内の味方の�
 
 ##S1+##
 ポンポンエール☆シュート+=Pom-Pom Yell☆Shoot+
-敵全体に魔法中ダメージを与え、さらに自分のＴＰを中回復する。敵の数に応じて与えるダメージとＴＰの回復量が増加する。=Deals moderate M.DMG to all enemies and further restores her own TP. The damage dealt and TP recovery amount increase based on the number of enemies.
-r:"^敵全体に(\d+)の魔法ダメージ自分のＴＰを(\d+)回復$"=►Deals $1 M.DMG to all enemies.\n►Recovers own TP by $2.
+敵全体に魔法中ダメージを与え、さらに自分のＴＰを中回復する。敵の数に応じて与えるダメージとＴＰの回復量が増加する。=Gây sát thương ma thuật vừa phải cho tất cả kẻ thù và tiếp tục hồi lại TP cho bản thân. Sát thương và lượng TP hồi tăng lên dựa trên số lượng kẻ thù.
+r:"^敵全体に(\d+)の魔法ダメージ自分のＴＰを(\d+)回復$"=►Gây $1 sát thương ma thuật cho tất cả kẻ thù.\n►Hồi TP cho bản thân $2.
 
 ##UE##
 グリッタースターズ☆ポンポン=Glitter Stars☆Pom-Pom
@@ -34,6 +34,6 @@ r:"^敵全体に(\d+)の魔法ダメージ自分のＴＰを(\d+)回復$"=►Dea
 チアリーダー☆ミーティア=Cheerleader☆Mitia
 チアフル☆ハピネス+=Cheerful☆Happiness+
 
-自分を中心とした範囲内の味方すべての魔法攻撃力を特大アップ、魔法クリティカルを大アップさせる。さらに、バトル開始後、初弾のこのスキルは自分を中心とした範囲内の味方すべてのＴＰを特大回復させる。=Massively boosts all allies in range centered on self's M.ATK, and greatly boosts M.CRIT RATE. Furthermore, after battle start, the first use of this skill massively recovers all allies in range centered on self's TP.
+自分を中心とした範囲内の味方すべての魔法攻撃力を特大アップ、魔法クリティカルを大アップさせる。さらに、バトル開始後、初弾のこのスキルは自分を中心とした範囲内の味方すべてのＴＰを特大回復させる。=Tăng cường cực lớn M.ATK cho tất cả đồng minh trong phạm vi xung quanh bản thân, và tăng cực lớn M.CRIT RATE. Hơn nữa, sau khi trận đấu bắt đầu, lần sử dụng đầu tiên của kỹ năng này sẽ hồi TP cực lớn cho tất cả đồng minh trong phạm vi xung quanh bản thân.
 
-r:"^範囲内の味方の魔法攻撃力を(\d+)アップ範囲内の味方の魔法クリティカルを80アップ初使用時、範囲内の味方のＴＰを500回復$"=►Boosts M.ATK of allies within range by $1.\n►Boosts M.CRIT RATE of allies within range by 80.\n►On first use, recovers TP for allies within range by 500.
+r:"^範囲内の味方の魔法攻撃力を(\d+)アップ範囲内の味方の魔法クリティカルを80アップ初使用時、範囲内の味方のＴＰを500回復$"=►Tăng M.ATK cho đồng minh trong phạm vi $1.\n►Tăng M.CRIT RATE cho đồng minh trong phạm vi 80.\n►Khi dùng lần đầu, hồi TP cho đồng minh trong phạm vi 500.

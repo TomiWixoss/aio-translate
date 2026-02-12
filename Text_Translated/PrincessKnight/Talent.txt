@@ -1,31 +1,31 @@
-r:"^紅焔の深域(.{0,5})$"=Crimson Flame Depths $1
-r:"^翠嵐の深域(.{0,5})$"=Jade Storm Depths $1
-r:"^紫冥の深域(.{0,5})$"=Violet Abyss Depths $1
-r:"^蒼波の深域(.{0,5})$"=Azure Wave Depths $1
-r:"^珀天の深域(.{0,5})$"=Amber Sky Depths $1
+r:"^紅焔の深域(.{0,5})$"=Vực Lửa Đỏ $1
+r:"^翠嵐の深域(.{0,5})$"=Vực Bão Ngọc $1
+r:"^紫冥の深域(.{0,5})$"=Vực Bóng Tối Tím $1
+r:"^蒼波の深域(.{0,5})$"=Vực Sóng Xanh $1
+r:"^珀天の深域(.{0,5})$"=Vực Bầu Trời Hổ Phách $1
 
-深域クエストパック効果適用中=Deep Zone Quest Pack effects are currently active.
+深域クエストパック効果適用中=Hiệu ứng Gói Nhiệm Vụ Vực Sâu hiện đang hoạt động.
 
-Deep Questへ=To Deep Quest
-深域クエストへ=To Deep Quest
-Talent Questへ=To Deep Quest
-闇属性=Dark
-光属性=Light
-風属性=Wind
-水属性=Water
-火属性=Fire
-sr:"^(.+)をクリアで解放されます。$"=Clear $1 to unlock.
+Deep Questへ=Đến Nhiệm Vụ Vực Sâu
+深域クエストへ=Đến Nhiệm Vụ Vực Sâu
+Talent Questへ=Đến Nhiệm Vụ Vực Sâu
+闇属性=Bóng Tối
+光属性=Ánh Sáng
+風属性=Gió
+水属性=Nước
+火属性=Lửa
+sr:"^(.+)をクリアで解放されます。$"=Hoàn thành $1 để mở khóa.
 
-カスタム設定=Custom settings
-属性ボーナスがOFFに設定されています。=Elemental bonus is set to off.
-属性ボーナス=Elemental Bonus
-属性弱点=Elemental Weakness
+カスタム設定=Cài đặt tùy chỉnh
+属性ボーナスがOFFに設定されています。=Phần thưởng nguyên tố được đặt thành tắt.
+属性ボーナス=Lợi Thế Nguyên Tố
+属性弱点=Điểm Yếu Nguyên Tố
 
-火属性キャラ=All Fire Character
-水属性キャラ=All Water Character
-風属性キャラ=All Wind Character
-光属性キャラ=All Light Character
-闇属性キャラ=All Dark Character
+火属性キャラ=Toàn Bộ Nhân Vật Lửa
+水属性キャラ=Toàn Bộ Nhân Vật Nước
+風属性キャラ=Toàn Bộ Nhân Vật Gió
+光属性キャラ=Toàn Bộ Nhân Vật Ánh Sáng
+闇属性キャラ=Toàn Bộ Nhân Vật Bóng Tối
 
 
 All [FF7C4E]Fire[-] Character
@@ -35,6 +35,6 @@ All [cc9900]Light[-] Character
 All [800080]Dark[-] Character
 
 
-チェック引継ぎ確認=Check Handover Confirmation
+チェック引継ぎ確認=Kiểm Tra Xác Nhận Chuyển Giao
 
-新しい深域クエストがクリアされたため、\n最新のクリア済みクエストをチェックしました。=Checked the latest completed quests due a new deep quest has been completed.
+新しい深域クエストがクリアされたため、\n最新のクリア済みクエストをチェックしました。=Đã kiểm tra các nhiệm vụ hoàn thành gần đây do một nhiệm vụ Deep mới đã được hoàn thành.

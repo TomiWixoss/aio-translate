@@ -1,52 +1,52 @@
 ##Profile##
-【物理】中衛で、どたばたと敵をかく乱する、純情少女。敵をスタンさせるスキルのほか、ユニオンバーストでは暗闇と混乱を付与することで敵を邪魔することができる。=[Physical] A purehearted girl who wildly disrupts the enemy from the midlines. Aside from stunning foes with her skills, she can also inflict Blind and Confusion with her Union Burst to prevent their attacks from finding their mark.
+【物理】中衛で、どたばたと敵をかく乱する、純情少女。敵をスタンさせるスキルのほか、ユニオンバーストでは暗闇と混乱を付与することで敵を邪魔することができる。=[Vật lý] Một cô gái lòng dạ trong sáng tấn công kẻ thù từ tuyến giữa một cách điên cuồng. Ngoài việc làm choáng địch bằng kỹ năng, cô ấy còn có thể gây Mù và Bối rối với Union Burst để ngăn các đòn tấn công của chúng trúng mục tiêu.
 
 観察=Observation
 
-どこまでも一途に慕う、純情乙女=An innocent girl who yearns for you with all her heart
+どこまでも一途に慕う、純情乙女=Một cô gái vô tội khao khát bạn với toàn bộ trái tim
 
-超個性派ヒロイン、誕生？=Birth of an Ultra-Unique Heroine?
+超個性派ヒロイン、誕生？=Sự ra đời của một Nữ chính Siêu Độc nhất?
 
-名前も知らないあの人=My Nameless Hero
-恥ずかしパニックガール=Perpetual Panic
-幸せな迷い道=Lost and Found
-名前を呼ばれて=From Those Lips
-アドバイスは気合と勇気=Assertive Advice
-出会った頃とは違う距離=Somehow Closer Than Before
-振り絞る勇気の一歩=A Brave Step Forward
-憧れの始まり=Where It All Began
+名前も知らないあの人=Anh hùng vô danh của tôi
+恥ずかしパニックガール=Hoảng loại không ngừng
+幸せな迷い道=Đánh mất và tìm thấy
+名前を呼ばれて=Từ đôi môi đó
+アドバイスは気合と勇気=Lời khuyên quyết đoán
+出会った頃とは違う距離=Bỗng nhiên gần hơn trước
+振り絞る勇気の一歩=Một bước tiến dũng cảm
+憧れの始まり=Nơi mọi thứ bắt đầu
 
 ##UB##
-勇気を出して突撃です～！=I Can Do This If I Try!
-前方範囲内の敵すべてに物理中ダメージを与え、さらに暗闇・混乱状態にする。=Deals moderate P.DMG to all enemies in range and inflicts Blind and Confuse.
-前方範囲内の敵すべてに物理中ダメージを与え、さらに暗闇=Deals moderate P.DMG to all enemies in range and inflicts Blind.
-混乱状態にする。=and confusion.
-けんぞくにしてあげる！=I'll kick your ass!
-r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵を暗闇状態にする範囲内の敵を混乱させる$"=►Deals $1 P.DMG to all enemies in 1200 range to enemies.\n►Inflicts Blind to enemies in range for 6s (-70% hit rate).\n►Confuses enemies in range for 4s.
+勇気を出して突撃です～！=Tôi có thể làm được nếu cố gắng!
+前方範囲内の敵すべてに物理中ダメージを与え、さらに暗闇・混乱状態にする。=Gây sát thương vật lý vừa phải cho tất cả kẻ địch trong phạm vi và gây Mù và Bối rối.
+前方範囲内の敵すべてに物理中ダメージを与え、さらに暗闇=Gây sát thương vật lý vừa phải cho tất cả kẻ địch trong phạm vi và gây Mù.
+混乱状態にする。=và bối rối.
+けんぞくにしてあげる！=Tôi sẽ cho bạn một trận!
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵を暗闇状態にする範囲内の敵を混乱させる$"=►Gây $1 sát thương vật lý cho tất cả kẻ địch trong phạm vi 1200. ►Gây Mù cho kẻ địch trong phạm vi trong 6s (-70% tỷ lệ đánh trúng). ►Gây Bối rối cho kẻ địch trong phạm vi trong 4s.
 
 ##S1##
-つ、突き刺します！=I-I'll Stab You!
-自分を中心とした範囲内の敵すべてに物理小ダメージを与え、さらに物理攻撃力を小ダウンさせる。=Deals small P.DMG to all enemies and lowers their P.ATK by a small amount.
-r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理攻撃力を(\d+)ダウン$"=►Deals $1 P.DMG to all enemies.\n►Lowers all enemies' P.ATK by $2 for 12s.
+つ、突き刺します！=T-Tôi sẽ đâm bạn!
+自分を中心とした範囲内の敵すべてに物理小ダメージを与え、さらに物理攻撃力を小ダウンさせる。=Gây sát thương vật lý nhỏ cho tất cả kẻ địch và giảm P.ATK của chúng một chút.
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理攻撃力を(\d+)ダウン$"=►Gây $1 sát thương vật lý cho tất cả kẻ địch. ►Giảm P.ATK của tất cả kẻ địch đi $2 trong 12s.
 
 ##S2##
-目を閉じて行けるかな…？=Can I keep my eyes closed...?
+目を閉じて行けるかな…？=Tôi có thể giữ mắt nhắm...?
 
 ##EX##
-湧き出す勇気=Burst of Courage
-湧き出す勇気+=Burst of Courage+
-バトル開始時に自分の物理防御力を大アップさせる。=Large boost to own physical defense at start of battle.
-バトル開始時に自分の物理防御力を中アップさせる。=Moderate boost to own physical defense at start of battle.
-r:"^自分の物理防御力を(\d+)アップ$"=►Boosts own P.DEF by $1.
+湧き出す勇気=Bùng Nổ Dũng Khí
+湧き出す勇気+=Bùng Nổ Dũng Khí+
+バトル開始時に自分の物理防御力を大アップさせる。=Tăng lớn phòng thủ thể chất cho bản thân khi bắt đầu trận đấu.
+バトル開始時に自分の物理防御力を中アップさせる。=Tăng vừa phải phòng thủ thể chất cho bản thân khi bắt đầu trận đấu.
+r:"^自分の物理防御力を(\d+)アップ$"=►Tăng P.DEF của bản thân lên $1.
 
 ##UB+##
-はわわわ、大変です～！？=Hawawa, Isn't this a Disaster~!?
-前方範囲内の敵すべてに物理大ダメージを与え、暗闇・混乱状態にし、さらにＴＰ上昇を大ダウンさせる。このスキルを使用するたび、最大３回までダメージが増加する。=Deals massive P.DMG to all enemies within range, inflicts darkness and confusion, and greatly reduces TP Boost. Each time you use this skill, damage increases up to 3 times.
-r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵を暗闇状態にする範囲内の敵を混乱させる範囲内の敵のＴＰ上昇を(\d+)ダウン$"=►Deals $1 P.DMG to all enemies in 1200 range to enemies.\n►Inflicts Blind to enemies in range for 12s (-70% hit rate).\n►Confuses enemies in range for 8s.\n►Lowers enemies TP Boost in range by $2 for 12s.
+はわわわ、大変です～！？=Hawawa, Có phải đây là thảm họa~!?
+前方範囲内の敵すべてに物理大ダメージを与え、暗闇・混乱状態にし、さらにＴＰ上昇を大ダウンさせる。このスキルを使用するたび、最大３回までダメージが増加する。=Gây sát thương thể chất lớn lên tất cả kẻ địch trong phạm vi, gây tối và hỗn loạn, và giảm mạnh TP Boost. Mỗi lần sử dụng kỹ năng này, sát thương tăng lên tối đa 3 lần.
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵を暗闇状態にする範囲内の敵を混乱させる範囲内の敵のＴＰ上昇を(\d+)ダウン$"=►Gây $1 sát thương thể chất lên tất cả kẻ địch trong phạm vi 1200.\n►Gây tình trạng Mù lên kẻ địch trong phạm vi trong 12s (-70% tỷ lệ chính xác).\n►Gây hỗn loạn lên kẻ địch trong phạm vi trong 8s.\n►Giảm TP Boost của kẻ địch trong phạm vi đi $2 trong 12s.
 
 ##S1+##
-つ、突き刺します！+=I-I'll Stab You!+
-自分を中心とした範囲内の敵すべてに物理中ダメージを与え、さらに物理攻撃力を中ダウンさせる。=Deals moderate P.DMG to all enemies and lowers their P.ATK by a moderate amount.
+つ、突き刺します！+=Tao Đâm Mày!+
+自分を中心とした範囲内の敵すべてに物理中ダメージを与え、さらに物理攻撃力を中ダウンさせる。=Gây sát thương thể chất vừa phải lên tất cả kẻ địch và giảm sát thương thể chất của chúng một chút.
 
 ##UE##
-ストーキングマント=Stalking Cloak
+ストーキングマント=Áo Choàng Trộm

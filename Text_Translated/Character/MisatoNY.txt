@@ -1,5 +1,5 @@
 ##Profile##
-【魔法】後衛で真心重ねて味方をもてなす仲居姿の先生。全スキルで味方の物理攻撃力とクリティカル能力を上げ、魔防やＴＰ上昇の支援とＨＰ、ＴＰの回復で万福を願う。=[Magic] A teacher in a waitress attire who treats allies with sincerity in a rearguard. She boosts allies' P.ATK, P.CRIT, M.DEF and TP Boost, and recovers HP and TP to bring blessings to all.
+【魔法】後衛で真心重ねて味方をもてなす仲居姿の先生。全スキルで味方の物理攻撃力とクリティカル能力を上げ、魔防やＴＰ上昇の支援とＨＰ、ＴＰの回復で万福を願う。=[Ma thuật] Một giáo viên mặc đồ hầu gái, chân thành chăm sóc đồng minh ở hậu phương. Cô tăng P.ATK, P.CRIT, M.DEF và TP Boost của đồng minh, đồng thời hồi HP và TP để ban phước lành cho tất cả.
 
 たくさんの笑顔を祈って=Wish You Lots of Smiles
 あたたか～いお正月=Warm New Year
@@ -8,18 +8,18 @@
 
 ##UB##
 新春・真心三段重ね=New Year: Sincerity Triple Stack
-味方全体に継続ＨＰ回復状態を付与し、物理攻撃を行うすべての味方キャラの物理攻撃力を特大アップ、物理クリティカルを大アップさせ、さらに、ＴＰ上昇を小アップさせる。=Grants continuous HP recovery to all allies, greatly boosts all P-type allies' P.ATK and P.CRIT Rate, and also slightly boosts their TP Boost.
-r:"^味方全体の毎秒ＨＰを(\d+)回復する対象の味方の物理攻撃力を(\d+)アップ対象の味方の物理クリティカルを80アップ対象の味方のＴＰ上昇を10アップ$"=►Recovers all allies' HP by $1/s for 10.5s.\n►Boosts all P-type allies' P.ATK by $2 for 18s.\n►Boosts all P-type allies' P.CRIT Rate by 80 for 18s.\n►Boosts all P-type allies' TP Boost by 10 for 18s.
+味方全体に継続ＨＰ回復状態を付与し、物理攻撃を行うすべての味方キャラの物理攻撃力を特大アップ、物理クリティカルを大アップさせ、さらに、ＴＰ上昇を小アップさせる。=Ban phục hồi HP liên tục cho tất cả đồng minh, tăng lớn P.ATK và tỷ lệ P.CRIT của tất cả đồng minh thuộc type P, và cũng tăng nhẹ TP Boost của họ.
+r:"^味方全体の毎秒ＨＰを(\d+)回復する対象の味方の物理攻撃力を(\d+)アップ対象の味方の物理クリティカルを80アップ対象の味方のＴＰ上昇を10アップ$"=►Hồi HP của tất cả đồng minh $1/giây trong 10.5s.\n►Tăng P.ATK của tất cả đồng minh type P lên $2 trong 18s.\n►Tăng tỷ lệ P.CRIT của tất cả đồng minh type P lên 80 trong 18s.\n►Tăng TP Boost của tất cả đồng minh type P lên 10 trong 18s.
 
 ##S1##
 ハッピーニューテイスト=Happy New Taste
-味方全体の物理攻撃力を大アップ、物理クリティカルを中アップさせ、さらに、ＴＰを小回復する。=Greatly boosts all allies' P.ATK, moderately boosts their P.CRIT Rate, and recovers their TP by a small amount.
-r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の物理クリティカルを50アップ味方全体のＴＰを100回復$"=Cast time: 0.59s.\n►Boosts all allies' P.ATK by $1 for 12s.\n►Boosts all allies' P.CRIT Rate by 50 for 12s.\n►Recovers all allies' TP by 100.
+味方全体の物理攻撃力を大アップ、物理クリティカルを中アップさせ、さらに、ＴＰを小回復する。=Tăng lớn P.ATK của tất cả đồng minh, tăng trung bình tỷ lệ P.CRIT của họ, và hồi một lượng nhỏ TP của họ.
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の物理クリティカルを50アップ味方全体のＴＰを100回復$"=Thời gian niệm: 0.59s.\n►Tăng P.ATK của tất cả đồng minh lên $1 trong 12s.\n►Tăng tỷ lệ P.CRIT của tất cả đồng minh lên 50 trong 12s.\n►Hồi TP của tất cả đồng minh 100.
 
 ##S2##
 ニューイヤーアフェクション=New Year Affection
-最もＨＰが低い味方１キャラのＨＰを中回復させ、さらに、そのキャラを中心とした範囲内の味方すべての物理攻撃力を大アップ、物理攻撃クリティカル時のダメージを小アップさせ、魔法防御力を大アップさせる。=Moderately recovers an ally's HP with lowest HP, greatly boosts allies' P.ATK in range around that ally, slightly boosts their P.CRIT DMG, and greatly boosts their M.DEF.
-r:"^味方単体のＨＰを(\d+)回復範囲内の味方の物理攻撃クリティカル時のダメージを16％アップ範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の魔法防御力を(\d+)アップ$"=Cast time: 0.59s.\n►Recovers an ally's HP by $1.\n►Boosts allies' P.CRIT DMG in 200 range by 16% for 12s.\n►Boosts allies' P.ATK in 200 range by $2.\n►Boosts allies' M.DEF in 200 range by $3 for 12s.
+最もＨＰが低い味方１キャラのＨＰを中回復させ、さらに、そのキャラを中心とした範囲内の味方すべての物理攻撃力を大アップ、物理攻撃クリティカル時のダメージを小アップさせ、魔法防御力を大アップさせる。=Hồi trung bình HP của đồng minh có HP thấp nhất, tăng lớn P.ATK của đồng minh trong phạm vi xung quanh đồng minh đó, tăng nhẹ P.CRIT DMG của họ, và tăng lớn M.DEF của họ.
+r:"^味方単体のＨＰを(\d+)回復範囲内の味方の物理攻撃クリティカル時のダメージを16％アップ範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の魔法防御力を(\d+)アップ$"=Thời gian niệm: 0.59s.\n►Hồi HP của đồng minh $1.\n►Tăng P.CRIT DMG của đồng minh trong phạm vi 200 lên 16% trong 12s.\n►Tăng P.ATK của đồng minh trong phạm vi 200 lên $2.\n►Tăng M.DEF của đồng minh trong phạm vi 200 lên $3 trong 12s.
 
 ##EX##
 ニューイヤーズスマイル=New Year's Smile
@@ -27,8 +27,8 @@ r:"^味方単体のＨＰを(\d+)回復範囲内の味方の物理攻撃クリ�
 
 ##S1+##
 ハッピーニューテイスト+=Happy New Taste+
-味方全体の物理攻撃力を特大アップ、物理クリティカルを大アップさせ、ＴＰを小回復し、さらに魔法無効バリアを展開する。=Greatly boosts all allies' P.ATK and P.CRIT Rate, recovers their TP by a small amount, and deploys Barrier over them that negates M.DMG.
-r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の物理クリティカルを(\d+)アップ味方全体のＴＰを(\d+)回復(\d+)ダメージ分の魔法無効バリアを展開する$"=Cast time: 0.59s.\n►Boosts all allies' P.ATK by $1 for 12s.\n►Boosts all allies' P.CRIT Rate by $2 for 12s.\n►Recovers all allies' TP by $3.\n►Deploys Barrier over allies that negates $4 M.DMG for 12s.
+味方全体の物理攻撃力を特大アップ、物理クリティカルを大アップさせ、ＴＰを小回復し、さらに魔法無効バリアを展開する。=Tăng lớn P.ATK và tỷ lệ P.CRIT của tất cả đồng minh, hồi một lượng nhỏ TP của họ, và triển khai Barrier lên họ để chống lại M.DMG.
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の物理クリティカルを(\d+)アップ味方全体のＴＰを(\d+)回復(\d+)ダメージ分の魔法無効バリアを展開する$"=Thời gian niệm: 0.59s.\n►Tăng P.ATK của tất cả đồng minh lên $1 trong 12s.\n►Tăng tỷ lệ P.CRIT của tất cả đồng minh lên $2 trong 12s.\n►Hồi TP của tất cả đồng minh $3.\n►Triển khai Barrier lên đồng minh để chống lại $4 M.DMG trong 12s.
 
 ##UE##
 湯煙母情若女将装束=Motherly Young Proprietress's Attire

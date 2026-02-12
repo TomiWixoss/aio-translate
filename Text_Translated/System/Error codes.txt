@@ -1,44 +1,44 @@
-タイトルへ=Back To Title
-エラー=Error
-アプリ終了=Exit Application
-タイムアウト=Time Out
-[3C404E]しばらく操作されなかったため、\nゲームを終了して、DMM GAME PLAYERから再起動してください。[-]=[3C404E]No responding for a while\nPlease quit the game and restart from DMM GAME PLAYER. [-]
-新しいバージョンがあります。\nゲームを一度終了し、DMM GAME PLAYERから再起動を行ってください。=New game version available.\nPlease exit the game and restart from DMM GAME PLAYER.
-[3C404E]エラーコード：201\n接続が途切れました。\nタイトルに戻ります。[-]=[3C404E]Error Code:201\nConnection was interrupted.\nReturn to the title.[-]
+タイトルへ=Về Màn hình chính
+エラー=Lỗi
+アプリ終了=Thoát Ứng dụng
+タイムアウト=Hết thời gian
+[3C404E]しばらく操作されなかったため、\nゲームを終了して、DMM GAME PLAYERから再起動してください。[-]=[3C404E]Không phản hồi trong một thời gian\nVui lòng thoát game và khởi động lại từ DMM GAME PLAYER. [-]
+新しいバージョンがあります。\nゲームを一度終了し、DMM GAME PLAYERから再起動を行ってください。=Phiên bản game mới có sẵn.\nVui lòng thoát game và khởi động lại từ DMM GAME PLAYER.
+[3C404E]エラーコード：201\n接続が途切れました。\nタイトルに戻ります。[-]=[3C404E]Mã lỗi:201\nKết nối bị gián đoạn.\nTrở về màn hình chính.[-]
 
-ネットワーク接続エラーが発生しました。\nエラーコード：1-3-0=Network connection error has occurred.\nError Code: 1-3-0
+ネットワーク接続エラーが発生しました。\nエラーコード：1-3-0=Lỗi kết nối mạng đã xảy ra.\nMã lỗi: 1-3-0
 
 
-エラーコード：3319\nプリンセスアリーナにおける接続が途切れました。\nタイトルに戻ります。=Error code: 3319\nThe connection in the Princess Arena has been interrupted.\nReturn to the title.
-エラーコード：2002\nこのプレゼントは受け取り期限を過ぎています。=Error Code: 2002\nThis present is past its expiration date.
-[3C404E]エラーコード：216\nエラーが発生しました。\n直接ゲームを起動することはできません。\nプラットフォーム指定の方法で\nゲームを起動してください。[-]=[3C404E]Error code: 216\nYou cannot launch the game directly.\nPlease launch the game using the method specified by the platform.[-]
-[3C404E]タイムアウトしました。[-]=[3C404E]Timed out [-].
-[3C404E]エラーコード：3511\n開催中のクエストがありません。[-]=[3C404E]Error code: 3511\nNo quests are being held.[-]
+エラーコード：3319\nプリンセスアリーナにおける接続が途切れました。\nタイトルに戻ります。=Mã lỗi: 3319\nKết nối trong Princess Arena đã bị gián đoạn.\nTrở về màn hình chính.
+エラーコード：2002\nこのプレゼントは受け取り期限を過ぎています。=Mã lỗi: 2002\nQuà tặng này đã quá hạn.
+[3C404E]エラーコード：216\nエラーが発生しました。\n直接ゲームを起動することはできません。\nプラットフォーム指定の方法で\nゲームを起動してください。[-]=[3C404E]Mã lỗi: 216\nBạn không thể khởi chạy trò chơi trực tiếp.\nVui lòng khởi chạy trò chơi bằng phương thức được nền tảng chỉ định.[-]
+[3C404E]タイムアウトしました。[-]=[3C404E]Hết thời gian chờ [-].
+[3C404E]エラーコード：3511\n開催中のクエストがありません。[-]=[3C404E]Mã lỗi: 3511\nKhông có nhiệm vụ nào đang diễn ra.[-]
 
-[3C404E]エラーコード：205\nエラーが発生しました。\nタイトルに戻ります。[-]=[3C404E]Error code: 205\nAn error has occurred\nBack to title.[-]
-[3C404E]エラーコード：501\nエラーが発生しました。\nタイトルに戻ります。[-]=[3C404E]Error code: 501\nAn error has occurred\nBack to title.[-]
-エラーコード：501\nエラーが発生しました。\nタイトルに戻ります。=Error code: 501\nAn error has occurred\nBack to title.
-エラーコード:2\n処理中にエラーが発生しました=Error code: 2\nerror occurred during processing
-[3C404E]エラーコード:2\n処理中にエラーが発生しました[-]=[3C404E]Error code: 2\nerror occurred during processing[-]
+[3C404E]エラーコード：205\nエラーが発生しました。\nタイトルに戻ります。[-]=[3C404E]Mã lỗi: 205\nĐã xảy ra lỗi\nQuay về màn hình chính.[-]
+[3C404E]エラーコード：501\nエラーが発生しました。\nタイトルに戻ります。[-]=[3C404E]Mã lỗi: 501\nĐã xảy ra lỗi\nQuay về màn hình chính.[-]
+エラーコード：501\nエラーが発生しました。\nタイトルに戻ります。=Mã lỗi: 501\nĐã xảy ra lỗi\nQuay về màn hình chính.
+エラーコード:2\n処理中にエラーが発生しました=Mã lỗi: 2\nlỗi xảy ra trong quá trình xử lý
+[3C404E]エラーコード:2\n処理中にエラーが発生しました[-]=[3C404E]Mã lỗi: 2\nlỗi xảy ra trong quá trình xử lý[-]
 
-エラーコード：208\nエラーが発生しました。=Error code: 208\nAn error has occurred.
+エラーコード：208\nエラーが発生しました。=Mã lỗi: 208\nĐã xảy ra lỗi.
 ---System---
-[3C404E]ネットワーク接続エラーが発生しました。[-]=[3C404E]A network connection error has occurred. [-]
-[3C404E]新しいデータがあります。\nタイトルへをタップすると\nダウンロードが始まります。[-]=[3C404E]There is new data.\nTap to the title\nto start the download. [-]
-[3C404E]エラーコード：218-40\nエラーが発生しました[-]=[3C404E]Error code: 218-40\nError occurred[-]
-ネットワーク接続エラーが発生しました。\nエラーコード：1-2-0=Network connection error has occurred.\nError Code: 1-2-0
-[3C404E]ただいまメンテナンス中です。\n完了までしばらくお待ちください。[-]=[3C404E]Currently undergoing maintenance.
-r:"^\[3C404E\]\[FFBB00\,CE4F00\]([0-9/ :]+)～ 翌([0-9/ :]+)\[-\]に\nメンテナンスを実施いたします。\n詳細はお知らせをご確認ください。\[-\]$"=[3C404E]At[FFBB00,CE4F00] $1 until next day $2[-]\nwill be performed maintenance.\nPlease check the announcement for details. [-]
+[3C404E]ネットワーク接続エラーが発生しました。[-]=[3C404E]Đã xảy ra lỗi kết nối mạng. [-]
+[3C404E]新しいデータがあります。\nタイトルへをタップすると\nダウンロードが始まります。[-]=[3C404E]Có dữ liệu mới.\nChạm vào màn hình chính\nđể bắt đầu tải xuống. [-]
+[3C404E]エラーコード：218-40\nエラーが発生しました[-]=[3C404E]Mã lỗi: 218-40\nĐã xảy ra lỗi[-]
+ネットワーク接続エラーが発生しました。\nエラーコード：1-2-0=Đã xảy ra lỗi kết nối mạng.\nMã lỗi: 1-2-0
+[3C404E]ただいまメンテナンス中です。\n完了までしばらくお待ちください。[-]=[3C404E]Hiện đang bảo trì.
+r:"^\[3C404E\]\[FFBB00\,CE4F00\]([0-9/ :]+)～ 翌([0-9/ :]+)\[-\]に\nメンテナンスを実施いたします。\n詳細はお知らせをご確認ください。\[-\]$"=[3C404E]Từ [FFBB00,CE4F00] $1 đến trước ngày $2[-]\n sẽ tiến hành bảo trì.\nVui lòng kiểm tra thông báo để biết chi tiết. [-]
 
-[3C404E]ダウンロード中にエラーが発生しました。[-]=[3C404E]An error occurred while downloading. [-]
-リトライ=Retry
-ダウンロードエラー=Download Error
+[3C404E]ダウンロード中にエラーが発生しました。[-]=[3C404E]Đã xảy ra lỗi khi tải xuống. [-]
+リトライ=Thử lại
+ダウンロードエラー=Lỗi tải xuống
 
-通信がタイムアウトしました\n通信環境を確認し、再度お試しください=The connection timed out.\nPlease check your connection and try again.
-通信中にエラーが発生しました\n通信環境を確認し、再度お試しください=An error occurred during connecting Please check your internet environment and try again.
+通信がタイムアウトしました\n通信環境を確認し、再度お試しください=Kết nối đã hết thời gian chờ.\nVui lòng kiểm tra kết nối và thử lại.
+通信中にエラーが発生しました\n通信環境を確認し、再度お試しください=Đã xảy ra lỗi khi kết nối. Vui lòng kiểm tra môi trường internet và thử lại.
 
-通信エラー=Communication error
+通信エラー=Lỗi truyền thông
 
-対戦相手との通信がタイムアウトしました。\nリトライしてください。=Communication with your opponent timed out.\nPlease try again.
+対戦相手との通信がタイムアウトしました。\nリトライしてください。=Truyền thông với đối thủ đã hết thời gian chờ.\nVui lòng thử lại.
 
-[FF7C4E,D62146]タイムアウトが続く場合は\nアプリの再起動をお試しください[-]=[FFF7C4E,D62146]If the timeout continues, please try restarting the app.[-]
+[FF7C4E,D62146]タイムアウトが続く場合は\nアプリの再起動をお試しください[-]=[FFF7C4E,D62146]Nếu tình trạng timeout tiếp diễn, vui lòng thử khởi động lại ứng dụng.[-]

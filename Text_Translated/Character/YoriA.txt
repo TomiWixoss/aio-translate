@@ -1,21 +1,21 @@
 ##Profile##
-【魔法】中衛で、補助魔法で味方を助ける双子の姉天使。防御力を大幅に高めつつ、対象の味方に敵の注意を引かせるなど、特殊で強力なスキルを駆使し敵を翻弄する。=[Magic] A twin sister angel who helps allies with support magic in midlines. While greatly increasing her defense power, she uses special and powerful skills to toy with the enemy, such as drawing the enemy's attention to the target ally.
+【魔法】中衛で、補助魔法で味方を助ける双子の姉天使。防御力を大幅に高めつつ、対象の味方に敵の注意を引かせるなど、特殊で強力なスキルを駆使し敵を翻弄する。=[Ma pháp] Một thiên thần song sinh giúp đỡ đồng minh bằng ma pháp hỗ trợ ở hàng giữa. Trong khi tăng cực lớn sức phòng thủ, cô sử dụng kỹ năng đặc biệt và mạnh mẽ để đùa giỡn kẻ thù, như thu hút sự chú ý của kẻ thù vào đồng minh mục tiêu.
 
 ##UB##
 ヘブンリーハーツ=Heavenly Hearts
-最もＴＰが多い敵１キャラに魔法中ダメージを与え、ＴＰを中ダウンさせ、さらに魔法防御力を中ダウンさせる。=Deals moderate M.DMG to an enemy with the most TP, moderately lowers its TP, and also moderately lowers its M.DEF.
-最もＴＰが多い敵１キャラに魔法大ダメージを与え、ＴＰを中ダウンさせ、さらに魔法防御力を中ダウンさせる。=Deals large M.DMG to an enemy with the most TP, moderately lowers its TP, and also moderately lowers its M.DEF.
-r:"^敵単体に(\d+)の魔法ダメージ敵単体のＴＰを(\d+)失わせる敵単体の魔法防御力を(\d+)ダウン$"=►Deals $1 M.DMG to an enemy.\n►Reduces an enemy's TP by $2.\n►Lowers an enemy's M.DEF by $3 for 18s.
+最もＴＰが多い敵１キャラに魔法中ダメージを与え、ＴＰを中ダウンさせ、さらに魔法防御力を中ダウンさせる。=Gây sát thương phép trung bình cho kẻ địch có TP cao nhất, giảm trung bình TP của nó, và cũng giảm trung bình M.DEF của nó.
+最もＴＰが多い敵１キャラに魔法大ダメージを与え、ＴＰを中ダウンさせ、さらに魔法防御力を中ダウンさせる。=Gây sát thương phép lớn cho kẻ địch có TP cao nhất, giảm trung bình TP của nó, và cũng giảm trung bình M.DEF của nó.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体のＴＰを(\d+)失わせる敵単体の魔法防御力を(\d+)ダウン$"=►Gây $1 sát thương phép cho kẻ địch.\n►Giảm TP của kẻ địch bằng $2.\n►Giảm M.DEF của kẻ địch bằng $3 trong 18s.
 
 ##S1##
 エンジェルアテンション=Angel Attention
-【挑発】ヨリの背後にいないキャラの内、最も残りＨＰの値が多い味方１キャラが、敵全体を挑発する。さらにそのキャラの物理防御力と魔法防御力を大アップさせる。=[Taunt] Grants Taunt to an ally not behind Yori with the highest remaining HP. Additionally, greatly boosts an ally's P.DEF and M.DEF.
-r:"^対象の味方を挑発状態にする対象の味方の物理防御力を(\d+)アップ対象の味方の魔法防御力を(\d+)アップ$"=►Grants Taunt to an ally for 12s.\n►Boosts an ally's P/M.DEF by $1 for 12s.
+【挑発】ヨリの背後にいないキャラの内、最も残りＨＰの値が多い味方１キャラが、敵全体を挑発する。さらにそのキャラの物理防御力と魔法防御力を大アップさせる。=[Thách thức] Gán Thách thức cho đồng minh không đứng sau Yori có HP còn lại cao nhất. Ngoài ra, tăng cực lớn P.DEF và M.DEF của đồng minh.
+r:"^対象の味方を挑発状態にする対象の味方の物理防御力を(\d+)アップ対象の味方の魔法防御力を(\d+)アップ$"=►Gán Thách thức cho đồng minh trong 12s.\n►Tăng P/M.DEF của đồng minh bằng $1 trong 12s.
 
 ##S2##
 エンジェルブレッシング=Angel Blessing
-味方全体の物理クリティカルと魔法クリティカルを大アップさせ、さらにＨＰを小回復する。=Greatly boosts P/M.CRIT Rate for all allies, and also slightly recovers HP.
-r:"^味方全体の物理クリティカルを(\d+)アップ味方全体の魔法クリティカルを(\d+)アップ味方全体のＨＰを(\d+)回復$"=►Boosts all allies' P/M.CRIT Rate by $1 for 12s.\n►Restores all allies' HP by $3.
+味方全体の物理クリティカルと魔法クリティカルを大アップさせ、さらにＨＰを小回復する。=Tăng cực lớn Tỷ Lệ Chí Mạng P/M cho tất cả đồng minh, và cũng hồi một chút HP.
+r:"^味方全体の物理クリティカルを(\d+)アップ味方全体の魔法クリティカルを(\d+)アップ味方全体のＨＰを(\d+)回復$"=►Tăng Tỷ Lệ Chí Mạng P/M của tất cả đồng minh bằng $1 trong 12s.\n►Hồi HP của tất cả đồng minh bằng $3.
 
 ##EX##
 不器用なエンジェルハート=Clumsy Angel Heart
@@ -23,8 +23,8 @@ r:"^味方全体の物理クリティカルを(\d+)アップ味方全体の魔�
 
 ##S1+##
 エンジェルアテンション+=Angel Attention+
-【挑発】ヨリの背後にいないキャラの内、最も残りＨＰの値が多い味方１キャラが、敵全体を挑発する。さらにそのキャラの物理防御力と魔法防御力を特大アップ、物理攻撃力と魔法攻撃力を中アップさせ、継続ＨＰ回復状態を付与する。=[Taunt] Among the characters not behind Yori, the ally with the highest remaining HP provokes all enemies. Additionally, it greatly boosts its P.DEF and M.DEF, moderately boosts its P.ATK and M.ATK, and gives it a continuous HP recovery.
-r:"^対象の味方を挑発状態にする対象の味方の物理防御力を(\d+)アップ対象の味方の魔法防御力を(\d+)アップ対象の味方の物理攻撃力を(\d+)アップ対象の味方の魔法攻撃力を(\d+)アップ毎秒ＨＰを(\d+)回復する$"=►Grants Taunt to an ally for 12s.\n►Boosts an ally's P/M.DEF by $1 for 12s.\n►Boosts an ally's P/M.ATK by $3 for 12s.\n►Recovers an ally's HP by $5/s for 12s.
+【挑発】ヨリの背後にいないキャラの内、最も残りＨＰの値が多い味方１キャラが、敵全体を挑発する。さらにそのキャラの物理防御力と魔法防御力を特大アップ、物理攻撃力と魔法攻撃力を中アップさせ、継続ＨＰ回復状態を付与する。=[Thách thức] Trong số các nhân vật không đứng sau Yori, đồng minh có HP còn lại cao nhất khiêu khích tất cả kẻ thù. Ngoài ra, nó tăng cực lớn P.DEF và M.DEF, tăng trung bình P.ATK và M.ATK, và cho nó hồi HP liên tục.
+r:"^対象の味方を挑発状態にする対象の味方の物理防御力を(\d+)アップ対象の味方の魔法防御力を(\d+)アップ対象の味方の物理攻撃力を(\d+)アップ対象の味方の魔法攻撃力を(\d+)アップ毎秒ＨＰを(\d+)回復する$"=►Gán Thách thức cho đồng minh trong 12s.\n►Tăng P/M.DEF của đồng minh bằng $1 trong 12s.\n►Tăng P/M.ATK của đồng minh bằng $3 trong 12s.\n►Hồi HP của đồng minh bằng $5/giây trong 12s.
 
 ##UE##
 ハッピーエンジェルアロー=Happy Angel Arrow
@@ -34,5 +34,5 @@ r:"^対象の味方を挑発状態にする対象の味方の物理防御力を(
 ##UE2##
 エンジェリックピュアドレス=Angelic Pure Dress
 エンジェルブレッシング+=Angel Blessing+
-味方全体の魔法攻撃力を特大アップ、物理クリティカルと魔法クリティカルを大アップ、物理防御力と魔法防御力を小アップさせ、さらにＨＰを小回復する。また、自分のＴＰを中回復する。=Massively boosts all allies' M.ATK, greatly boosts P.CRIT RATE and M.CRIT RATE, slightly boosts P.DEF and M.DEF, and additionally slightly recovers HP. Also moderately recovers own TP.
-r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体の物理クリティカルを125アップ味方全体の魔法クリティカルを125アップ味方全体の物理防御力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ味方全体のＨＰを(\d+)回復自分のＴＰを150回復$"=►Boosts all allies' M.ATK by $1.\n►Boosts all allies' P.CRIT RATE by 125.\n►Boosts all allies' M.CRIT RATE by 125.\n►Boosts all allies' P.DEF by $2.\n►Boosts all allies' M.DEF by $3.\n►Restores all allies' HP by $4.\n►Recovers own TP by 150.
+味方全体の魔法攻撃力を特大アップ、物理クリティカルと魔法クリティカルを大アップ、物理防御力と魔法防御力を小アップさせ、さらにＨＰを小回復する。また、自分のＴＰを中回復する。=Tăng cực lớn M.ATK của tất cả đồng minh, tăng lớn Tỷ Lệ Chí Mạng P và Tỷ Lệ Chí Mạng M, tăng một chút P.DEF và M.DEF, và còn hồi thêm một chút HP. Đồng thời hồi trung bình TP của bản thân.
+r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体の物理クリティカルを125アップ味方全体の魔法クリティカルを125アップ味方全体の物理防御力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ味方全体のＨＰを(\d+)回復自分のＴＰを150回復$"=►Tăng M.ATK của tất cả đồng minh bằng $1.\n►Tăng Tỷ Lệ Chí Mạng P của tất cả đồng minh bằng 125.\n►Tăng Tỷ Lệ Chí Mạng M của tất cả đồng minh bằng 125.\n►Tăng P.DEF của tất cả đồng minh bằng $2.\n►Tăng M.DEF của tất cả đồng minh bằng $3.\n►Hồi HP của tất cả đồng minh bằng $4.\n►Hồi TP của bản thân bằng 150.

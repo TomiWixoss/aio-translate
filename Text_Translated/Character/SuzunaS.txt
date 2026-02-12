@@ -1,35 +1,35 @@
 ##Profile##
-【物理】後衛で高威力の弓技を放つ夏のカリスマモデル。バトル中に一度だけ放つ「サマーランウェイ♪」でＴＰを全回復し、以降ユニオンバーストがクリティカルになる。=[Physical] A charismatic model whose archery skills shine from the rearguard. Though her Summer Catwalk can only be used once per battle, it restores her TP entirely and causes her Union Burst to always result in a critical hit.
-後衛で高威力の弓技を放つ夏のカリスマモデル。バトル中に放つ「サマーランウェイ♪」でＴＰを全回復して、発動後のユニオンバーストがクリティカルになる。=A charismatic model whose archery skills shine from the rearguard. Though her Summer Catwalk can only be used once per battle, it restores her TP entirely and causes her Union Burst to always result in a critical hit.
+【物理】後衛で高威力の弓技を放つ夏のカリスマモデル。バトル中に一度だけ放つ「サマーランウェイ♪」でＴＰを全回復し、以降ユニオンバーストがクリティカルになる。=[Vật Lý] Một người mẫu quyến rũ với kỹ năng cung thuật tỏa sáng từ vị trí phía sau. Dù Summer Catwalk chỉ có thể dùng một lần mỗi trận, nó vẫn hồi hoàn toàn TP của cô và khiến Union Burst của cô luôn chí mạng.
+後衛で高威力の弓技を放つ夏のカリスマモデル。バトル中に放つ「サマーランウェイ♪」でＴＰを全回復して、発動後のユニオンバーストがクリティカルになる。=Một người mẫu quyến rũ với kỹ năng cung thuật tỏa sáng từ vị trí phía sau. Dù Summer Catwalk chỉ có thể dùng một lần mỗi trận, nó vẫn hồi hoàn toàn TP của cô và khiến Union Burst của cô luôn chí mạng.
 
 ##UB##
-トロピカルスプラッシュ=Tropical Splash
-目の前の敵１キャラに物理特大ダメージを与える。既に「サマーランウェイ♪」を使用していた場合、このスキルは確定でクリティカルする。=Deals massive P.ATK to an enemy directly in front. If Summer Catwalk has already been used, this skill always results in a critical hit.
+トロピカルスプラッシュ=Rừng Xanh Mùa Hè
+目の前の敵１キャラに物理特大ダメージを与える。既に「サマーランウェイ♪」を使用していた場合、このスキルは確定でクリティカルする。=Gây sát thương vật lý lớn lên kẻ địch ngay phía trước. Nếu Summer Catwalk đã được dùng, kỹ năng này luôn chí mạng.
 
 ##S1##
-トロピカルダーツ=Tropical Darts
-目の前の敵１キャラに物理小ダメージを３回与える。=Deals small P.DMG to an enemy directly in front 3 times.
-r:"^敵単体に(\d+)の物理ダメージを３回与える$"=►Deals $1 P.DMG to an enemy 3 times.
+トロピカルダーツ=Phi Tiêu Nhiệt Đới
+目の前の敵１キャラに物理小ダメージを３回与える。=Gây sát thương vật lý nhỏ lên kẻ địch ngay phía trước 3 lần.
+r:"^敵単体に(\d+)の物理ダメージを３回与える$"=►Gây $1 sát thương vật lý lên kẻ địch 3 lần.
 
 ##S2##
-サマーランウェイ♪=Summer Runway♪
-自身の物理攻撃力を特大アップさせ、さらにＴＰを特大回復させる。=Massively boosts own P.ATK. Recovers own TP by a massive amount.
-r:"^自分の物理攻撃力を(\d+)アップ自分のＴＰを全回復$"=►Boosts own P.ATK by $1 for 180s.\n►Recovers own TP by 1000.
+サマーランウェイ♪=Sân Khấu Mùa Hè♪
+自身の物理攻撃力を特大アップさせ、さらにＴＰを特大回復させる。=Tăng mạnh P.ATK của bản thân. Hồi TP của bản thân một lượng lớn.
+r:"^自分の物理攻撃力を(\d+)アップ自分のＴＰを全回復$"=►Tăng P.ATK của bản thân lên $1 trong 180s.\n►Hồi TP của bản thân thêm 1000.
 
 ##EX##
-真夏のバイブス=Midsummer Vibes
-真夏のバイブス+=Midsummer Vibes+
+真夏のバイブス=Cảm Giác Mùa Hè
+真夏のバイブス+=Cảm Giác Mùa Hè+
 
 ##S1+##
-トロピカルダーツ+=Tropical Darts+
-目の前の敵１キャラに物理小ダメージを３回与え、さらに自分の物理攻撃力を中アップさせる。このスキルは確定でクリティカルする。=Deals small P.DMG to an enemy directly in front 3 times. Additionally, boosts own P.ATK by moderate amount. This attack is always a critical hit.
-r:"^敵単体に(\d+)の物理ダメージを３回与える自分の物理攻撃力を(\d+)アップ$"=►Deals $1 P.DMG to an enemy 3 times.\n►Boosts own P.ATK by $2 for 12s.
+トロピカルダーツ+=Phi Tiêu Nhiệt Đới+
+目の前の敵１キャラに物理小ダメージを３回与え、さらに自分の物理攻撃力を中アップさせる。このスキルは確定でクリティカルする。=Gây sát thương vật lý nhỏ lên kẻ địch ngay phía trước 3 lần. Ngoài ra, tăng P.ATK của bản thân một lượng vừa phải. Đòn tấn công này luôn chí mạng.
+r:"^敵単体に(\d+)の物理ダメージを３回与える自分の物理攻撃力を(\d+)アップ$"=►Gây $1 sát thương vật lý lên kẻ địch 3 lần.\n►Tăng P.ATK của bản thân lên $2 trong 12s.
 
 ##S2+##
-サマーランウェイ♪+=Summer Runway♪+
-自分の物理攻撃力を特大アップ、物理攻撃クリティカル時のダメージを中アップし、ＴＰを特大回復させる。このスキルの初回使用後、行動パターンが変化する。=Massively boosts own P.ATK, moderately boosts own P.CRIT DMG, and recovers TP by a massive amount. After 1st skill usage, changes attack pattern.
-r:"^自分の物理攻撃力を(\d+)アップ自分の物理攻撃クリティカル時のダメージを28％アップ自分のＴＰを全回復$"=►Boosts own P.ATK by $1 for 180s.\n►Boosts own P.CRIT DMG by 28% for 180s.\n►Recovers own TP by 1000.\n\nFor the 1st skill usage:\n►Switches to Attack Pattern 2 for 180s.
+サマーランウェイ♪+=Sân Khấu Mùa Hè♪+
+自分の物理攻撃力を特大アップ、物理攻撃クリティカル時のダメージを中アップし、ＴＰを特大回復させる。このスキルの初回使用後、行動パターンが変化する。=Tăng mạnh P.ATK của bản thân, hơi tăng P.CRIT DMG của bản thân và hồi TP một lượng lớn. Sau lần dùng kỹ năng đầu tiên, thay đổi mẫu tấn công.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理攻撃クリティカル時のダメージを28％アップ自分のＴＰを全回復$"=►Tăng P.ATK của bản thân lên $1 trong 180s.\n►Tăng P.CRIT DMG của bản thân lên 28% trong 180s.\n►Hồi TP của bản thân thêm 1000.\n\nĐối với lần dùng kỹ năng đầu tiên:\n►Chuyển sang Mẫu Tấn Công 2 trong 180s.
 
 ##UE##
-盛夏弓スプラッシュハート=Midsummer Bow Splash Heart
-ヤバ盛りフルーツパフェ=Dope Fruit Parfait
+盛夏弓スプラッシュハート=Trái Tim Cung Thần Bắn Tung Tóe
+ヤバ盛りフルーツパフェ=Parfait Trái Cây Dope

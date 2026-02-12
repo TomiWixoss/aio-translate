@@ -1,20 +1,20 @@
 Anne's Birthday
 
-その日、{playername}はアンの誕生日祝いとして\n彼女が知らない場所──{playername}の地元を案内していた。\n商店街や駅など、いくつかの場所を巡り……=That day, as a birthday present, {playername} took Anne around places she'd never seen before -- his hometown. They visited the shopping district, the station, and a few other spots...
-うわぁ～、本がたくさん！\nここ、図書館だよね？\nここにある本は全部自由に読んでいいんだよね！？=Wow, so many books! This is a library, isn't it? You can read all of these freely, right!?
-やったぁ！\nどれから読もうかな～……\n見慣れない難しい字も多いけど、不思議と意味はわかるみたいだし……=Yay! Where should I even start...? There are a lot of characters I'm not familiar with, but for some reason, I kind of... understand them anyway...
-それに、この装丁とかもどうやって描いてるんだろ……！？\n『しーじー』……？\nこっちの世界の技術、本当にすごいね！　魔法みたい！=And the cover art -- how do they even make this...!? "C-G"...? The technology in this world is amazing! It's practically magic!
-もちろん！\n商店街とか駅を回ったのも\nここのことが知れて楽しかったし……=Of course! Walking around the shopping district and the station was fun too, now that I understand more about this place...
-何よりあなたが、私が本好きだって覚えてくれてたこと！\nそれがやっぱり一番うれしいよ！=But more than anything -- I'm happiest that you remembered how much I love books!
-やっぱり国によって所蔵してる本も全然違うね。\n魔導書とかはないみたいだけど……この棚にあるのは、技術書？\nわぁ、数式がいっぱい書いてある！=The books here really are completely different from country to country. There don't seem to be any grimoires or anything... Is this shelf full of technical manuals? Wow, look at all these formulas!
-こっちの棚は普通の小説かな？\n学園ものに……ファンタジー？\n魔法っていう概念自体はあるんだね！　へぇ～……！=And this shelf... looks like for normal novels? A school life......fantasy? So this world does have the concept of magic! Eeeh...!
-はぁ、グレアも連れてきてあげたかったな～\nというかこれ、全部読むのに何日かかるんだろう？\n一日あれば棚の一段目くらいは読めるかな？　なら……=*sigh* I wish I could've brought Grea with me. How many days would it even take to read all of this? Maybe I could finish the first row in a day? In that case...
-うっ、やっぱりダメかぁ～……\nでも本当に泊まりたくなるくらい素敵な場所だって思ったの！\nこんなの最高のプレゼントだよ～っ！=Ugh, I knew you wouldn't let that pass... But seriously, this place is so amazing it makes me want to stay overnight! This is the best present ever!
-ふふ、ありがとう！\n……あ、そうだ！　もしよかったら、ここにある本のことを\nあなたにもっと聞いてもいいかな？=Hehe, thank you! ...Oh, right! If you don't mind, could I ask you more about the books here?
-文化とか技術とか、わからないことも多いし……\nもっともっとここのこと、知りたいから。=There's still so much I don't understand -- your culture, your technology... So I want to learn even more about this place.
-ありがとう！\nじゃあ引き続き、残りの時間もよろしくお願いしますっ！\nどこから読み始めようかな！　ふふっ♪=Thank you! Then I'll be in your care for the rest of the day! Now... where should I start reading? Hehe♪
+その日、{playername}はアンの誕生日祝いとして\n彼女が知らない場所──{playername}の地元を案内していた。\n商店街や駅など、いくつかの場所を巡り……=Ngày đó, như một món quà sinh nhật, {playername} đưa Anne đi tham quan những nơi cô ấy chưa từng thấy trước đây -- quê hương của cậu ấy. Họ đã đến khu mua sắm, nhà ga, và vài địa điểm khác...
+うわぁ～、本がたくさん！\nここ、図書館だよね？\nここにある本は全部自由に読んでいいんだよね！？=Ồ, nhiều sách thế! Đây là thư viện, phải không? Có thể đọc tất cả những cuốn này tự do, đúng không!?
+やったぁ！\nどれから読もうかな～……\n見慣れない難しい字も多いけど、不思議と意味はわかるみたいだし……=Yay! Tớ nên bắt đầu từ đâu...? Có nhiều nhân vật tớ chưa quen, nhưng tại sao đó, tớ cứ... hiểu họ dù sao thì...
+それに、この装丁とかもどうやって描いてるんだろ……！？\n『しーじー』……？\nこっちの世界の技術、本当にすごいね！　魔法みたい！=Và bìa sách -- làm sao họ tạo ra được cái này chứ...!? "C-G"...? Công nghệ thế giới này tuyệt vời thật! Gần như là phép thuật!
+もちろん！\n商店街とか駅を回ったのも\nここのことが知れて楽しかったし……=Tất nhiên! Đi dạo quanh khu mua sắm và nhà ga cũng vui khi hiểu thêm về nơi này...
+何よりあなたが、私が本好きだって覚えてくれてたこと！\nそれがやっぱり一番うれしいよ！=Nhưng hơn hết -- tớ hạnh phúc nhất vì cậu nhớ tớ thích sách đến mức nào!
+やっぱり国によって所蔵してる本も全然違うね。\n魔導書とかはないみたいだけど……この棚にあるのは、技術書？\nわぁ、数式がいっぱい書いてある！=Những cuốn sách ở đây thực sự hoàn toàn khác biệt từ quốc gia này sang quốc gia khác. Dường như không có sách phép thuật hay gì cả... Kệ này đầy sách hướng dẫn kỹ thuật à? Ồ, nhìn những công thức này!
+こっちの棚は普通の小説かな？\n学園ものに……ファンタジー？\n魔法っていう概念自体はあるんだね！　へぇ～……！=Và kệ này... trông như dành cho tiểu thuyết thông thường? Cuộc sống trường học......giả tưởng? Vậy thế giới này có khái niệm phép thuật! Eeeh...!
+はぁ、グレアも連れてきてあげたかったな～\nというかこれ、全部読むのに何日かかるんだろう？\n一日あれば棚の一段目くらいは読めるかな？　なら……=*thở dài* Tớ ước mình có thể mang Grea theo. Mất bao nhiêu ngày mới đọc hết tất cả? Có lẽ tớ có thể xong hàng đầu tiên trong một ngày? Nếu vậy...
+うっ、やっぱりダメかぁ～……\nでも本当に泊まりたくなるくらい素敵な場所だって思ったの！\nこんなの最高のプレゼントだよ～っ！=Ugh, tớ biết cậu sẽ không bỏ qua điều đó... Nhưng thật sự, nơi này tuyệt vời đến mức muốn ở lại qua đêm! Đây là món quà tuyệt nhất!
+ふふ、ありがとう！\n……あ、そうだ！　もしよかったら、ここにある本のことを\nあなたにもっと聞いてもいいかな？=Hehe, cảm ơn! ...Ồ, phải rồi! Nếu cậu không phiền, tớ có thể hỏi thêm về những cuốn sách ở đây không?
+文化とか技術とか、わからないことも多いし……\nもっともっとここのこと、知りたいから。=Vẫn còn nhiều thứ tớ chưa hiểu -- văn hóa của cậu, công nghệ của cậu... Vì vậy tớ muốn học thêm về nơi này.
+ありがとう！\nじゃあ引き続き、残りの時間もよろしくお願いしますっ！\nどこから読み始めようかな！　ふふっ♪=Cảm ơn! Vậy tớ sẽ nhờ cậu chăm sóc cho phần còn lại của ngày hôm nay! Giờ... tớ nên bắt đầu đọc từ đâu? Hehe♪
 
 Player Prompts
-誕生日のお祝いは気に入ってくれた？=Did you like how we celebrated your birthday?
-泊まりこみとかはできないからね……？=You can't stay overnight or anything, okay...?
-お誕生日おめでとう、アン。=Happy birthday, Anne
+誕生日のお祝いは気に入ってくれた？=Cậu có thích cách chúng ta ăn mừng sinh nhật cậu không?
+泊まりこみとかはできないからね……？=Cậu không thể ở lại qua đêm hay gì đâu, đúng chứ...?
+お誕生日おめでとう、アン。=Chúc mừng sinh nhật, Anne

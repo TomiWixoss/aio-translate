@@ -1,28 +1,28 @@
 ##Profile##
-【物理】前衛で、空飛ぶ絨毯で巡り回るオアシスの姉御。自分の物防を大幅に高めて敵を挑発するスキルと敵のＴＰとＴＰ上昇をダウンさせるＵＢで、爽やかに勝利を掴む。=[Physical] A frontline oasis guardian Anego soaring on a flying carpet. With a skill that inflicts massive physical damage on the front enemy, decreasing their TP Boost and TP amount, she gracefully secures victory.
+【物理】前衛で、空飛ぶ絨毯で巡り回るオアシスの姉御。自分の物防を大幅に高めて敵を挑発するスキルと敵のＴＰとＴＰ上昇をダウンさせるＵＢで、爽やかに勝利を掴む。=[Vật lý] Một người gác cổng tiền tuyến Anego đang bay trên chiếc thảm bay. Với kỹ năng gây sát thương vật lý khổng lồ lên kẻ địch phía trước, làm giảm Tăng TP và lượng TP của chúng, cô thanh thoát giành chiến thắng.
 
 ##UB##
-急の太刀・流れ八艘=Swift Blade: Flow of Eight Boats
-目の前の敵１キャラに物理大ダメージを与え、ＴＰ上昇を小ダウンさせ、ＴＰを中ダウンさせる。さらに、自分のＨＰを中回復する。=Deals massive P.DMG to an enemy in front, slightly lowers its TP Boost, and moderately lowers its TP. Additionally, moderately recovers own HP.
-r:"^敵単体に(\d+)の物理ダメージ敵単体のＴＰ上昇を20ダウン敵単体のＴＰを250失わせる自分のＨＰを(\d+)回復$"=►Deals $1 P.DMG to an enemy.\n►Lowers an enemy's TP Boost by 20 for 18s.\n►Reduces an enemy's TP by 250.\n►Recovers own HP by $2.
+急の太刀・流れ八艘=Lưỡi Kiếm Nhanh: Dòng Chảy Tám Thuyền
+目の前の敵１キャラに物理大ダメージを与え、ＴＰ上昇を小ダウンさせ、ＴＰを中ダウンさせる。さらに、自分のＨＰを中回復する。=Gây sát thương vật lý khổng lồ lên kẻ địch phía trước, giảm nhẹ Tăng TP của chúng, và giảm vừa phải lượng TP của chúng. Ngoài ra, hồi phục vừa phải HP của bản thân.
+r:"^敵単体に(\d+)の物理ダメージ敵単体のＴＰ上昇を20ダウン敵単体のＴＰを250失わせる自分のＨＰを(\d+)回復$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Giảm Tăng TP của kẻ địch đi 20 trong 18s.\n►Giảm TP của kẻ địch đi 250.\n►Hồi phục HP của bản thân đi $2.
 
 ##S1##
-序の太刀・流水刃=First Blade: Flowing Water Edge
-目の前の敵１キャラに物理中ダメージを与え、物理防御力を中ダウンさせる。=Deals moderate P.DMG to an enemy in front, and moderately lowers its P.DEF.
+序の太刀・流水刃=Kiếm Thứ Nhất: Lưỡi Kiếm Nước Chảy
+目の前の敵１キャラに物理中ダメージを与え、物理防御力を中ダウンさせる。=Gây sát thương vật lý vừa phải lên kẻ địch phía trước, và giảm vừa phải phòng thủ vật lý của chúng.
 
 ##S2##
-破の太刀・巴円舞=Destruction Blade: Tomoe Embodied Dance
-【挑発】自分の物理防御力を特大アップし、物理吸収バリアを展開する。さらに、敵全体を挑発して自分のＴＰを中回復する。=[Taunt] Greatly boosts own P.DEF and deploys Barrier over oneself that absorbs P.DMG. Taunts all enemies and moderately recovers own TP.
-r:"^自分の物理防御力を(\d+)アップ(\d+)ダメージ分の物理吸収バリアを展開する敵全体を挑発する自分のＴＰを200回復$"=►Boosts own P.DEF by $1 for 12s.\n►Deploys Barrier over oneself that absorbs $2 P.DMG for 12s.\n►Provokes all enemies for 12s.\n►Recovers own TP by 200.
+破の太刀・巴円舞=Kiếm Tàn Phá: Vũ Điệu Hóa Tomoe
+【挑発】自分の物理防御力を特大アップし、物理吸収バリアを展開する。さらに、敵全体を挑発して自分のＴＰを中回復する。=[Khiêu khích] Tăng mạnh phòng thủ vật lý của bản thân và tạo khiên hấp thụ sát thương vật lý lên bản thân. Khiêu khích tất cả kẻ địch và hồi phục vừa phải TP của bản thân.
+r:"^自分の物理防御力を(\d+)アップ(\d+)ダメージ分の物理吸収バリアを展開する敵全体を挑発する自分のＴＰを200回復$"=►Tăng phòng thủ vật lý của bản thân đi $1 trong 12s.\n►Tạo khiên hấp thụ $2 sát thương vật lý lên bản thân trong 12s.\n►Khiêu khích tất cả kẻ địch trong 12s.\n►Hồi phục TP của bản thân đi 200.
 
 ##EX##
-水郷の契=Waterside Promise
-水郷の契+=Waterside Promise+
+水郷の契=Lời Hứa Bên Bờ Nước
+水郷の契+=Lời Hứa Bên Bờ Nước+
 
 ##S1+##
-序の太刀・流水刃+=First Blade: Flowing Water Edge+
-目の前の敵１キャラに物理大ダメージを与え、物理攻撃力を特大ダウン、物理防御力を大ダウンさせる。さらに、自分のＨＰを中回復する。=Deals large P.DMG to an enemy in front, greatly lowers its P.DEF, and massively lowers its P.ATK. Also moderately recovers own HP.
-r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン自分のＨＰを(\d+)回復敵単体の物理攻撃力を(\d+)ダウン$"=►Deals $1 P.DMG to an enemy.\n►Lowers an enemy's P.DEF by $2 for 12s.\n►Lowers an enemy's P.ATK by $4 for 12s.\n►Recovers own HP by $3.
+序の太刀・流水刃+=Kiếm Thứ Nhất: Lưỡi Kiếm Nước Chảy+
+目の前の敵１キャラに物理大ダメージを与え、物理攻撃力を特大ダウン、物理防御力を大ダウンさせる。さらに、自分のＨＰを中回復する。=Gây sát thương vật lý lớn lên kẻ địch phía trước, giảm mạnh phòng thủ vật lý của chúng, và giảm cực lớn tấn công vật lý của chúng. Đồng thời hồi phục vừa phải HP của bản thân.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン自分のＨＰを(\d+)回復敵単体の物理攻撃力を(\d+)ダウン$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Giảm phòng thủ vật lý của kẻ địch đi $2 trong 12s.\n►Giảm tấn công vật lý của kẻ địch đi $4 trong 12s.\n►Hồi phục HP của bản thân đi $3.
 
 ##UE##
-涼しき水辺のサラサリアン=Salasaria of the Cool Water
+涼しき水辺のサラサリアン=Salasaria Nước Mát Lạnh

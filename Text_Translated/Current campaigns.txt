@@ -1,50 +1,50 @@
-開催中キャンペーン=Special Campaign
-r:"^メインクエスト エリア([0-9～ ]+)$"=Main Quest Area $1
-復刻イベントクエスト=Revival Event Quest
-復刻イベントクエスト（NORMAL）=Revival Event Quest (Normal)
-復刻イベントクエスト（HARD）=Revival Event Quest (Hard)
-イベントクエスト（NORMAL）=Event Quest (NORMAL)
-イベントクエスト（HARD）=Event Quest (Hard)
-サイドストーリークエスト=Side story quest
-SPダンジョン=Secret Dungeon
-聖跡調査クエスト=Sanctum Survey Quest
-神殿調査クエスト=Temple Trek Quest
-スキップ確認=Skip Confirmation
-全バトルをスキップして、報酬を獲得しますか？=Do you want to skip all battles and get rewards?
+開催中キャンペーン=Chiến dịch đặc biệt
+r:"^メインクエスト エリア([0-9～ ]+)$"=Khu vực Nhiệm vụ Chính $1
+復刻イベントクエスト=Nhiệm vụ Sự kiện Hồi sinh
+復刻イベントクエスト（NORMAL）=Nhiệm vụ Sự kiện Hồi sinh (Thường)
+復刻イベントクエスト（HARD）=Nhiệm vụ Sự kiện Hồi sinh (Khó)
+イベントクエスト（NORMAL）=Nhiệm vụ Sự kiện (THƯỜNG)
+イベントクエスト（HARD）=Nhiệm vụ Sự kiện (Khó)
+サイドストーリークエスト=Nhiệm vụ cốt truyện phụ
+SPダンジョン=Hầm ngục bí mật
+聖跡調査クエスト=Nhiệm vụ Khảo sát Thánh địa
+神殿調査クエスト=Nhiệm vụ Hành trình Đền thờ
+スキップ確認=Xác nhận Bỏ qua
+全バトルをスキップして、報酬を獲得しますか？=Bạn có muốn bỏ qua tất cả trận đấu và nhận phần thưởng?
 ---Half Stamina---
-r:"^\[475F7B\]メインクエスト(.+|)の\n消費スタミナが半減\[-\]$"=[475F7B]Consumption Stamina halved \nfor Main Quest$1[-]
-消費スタミナ半減=Consumption Stamina Halved
+r:"^\[475F7B\]メインクエスト(.+|)の\n消費スタミナが半減\[-\]$"=[475F7B]Tiêu hao Thể lực giảm một nửa \ncho Nhiệm vụ Chính $1[-]
+消費スタミナ半減=Tiêu hao Thể lực Giảm một nửa
 ---mana---
-マナドロップ量アップ=Mana Drops Up
+マナドロップ量アップ=Lượng Mana Rơi Tăng
 [475F7B]メインクエスト（NORMAL）         の\nマスターコイン獲得量が1.5倍にアップ[-]
-sr:"^\[475F7B\](.+?)((?:（|\().+(?:）|\)))?\n?の\n?(.+)(ドロップ|獲得)量が\n?([0-9.]+)倍にアップ\[-\]$"=[475F7B]$3 $4 × $5\nfor $1 $2[-]
-獲得=Acquired
-ドロップ=Drop
-残り挑戦回数が0回です。=The remaining challenge is 0 times.
+sr:"^\[475F7B\](.+?)((?:（|\().+(?:）|\)))?\n?の\n?(.+)(ドロップ|獲得)量が\n?([0-9.]+)倍にアップ\[-\]$"=[475F7B]$3 $4 × $5\ncho $1 $2[-]
+獲得=Đã nhận
+ドロップ=Rơi
+残り挑戦回数が0回です。=Số lần thử còn lại là 0.
 
 ---exp---
-プレイヤーEXP獲得量アップ=EXP Up
+プレイヤーEXP獲得量アップ=EXP Tăng
 
 ---reward---
-報酬ドロップ量アップ=Reward Drops Up
-デイリージュエルパック効果=Daily Jewel Pack Effect
+報酬ドロップ量アップ=Phần thưởng Rơi Tăng
+デイリージュエルパック効果=Hiệu Ứng Gói Ngọc Hàng Ngày
 
 ---Master Coin---
-マスターコイン獲得量アップ=Master Coin Reward Up
+マスターコイン獲得量アップ=Tăng Phần Thưởng Master Coin
 
-r:"^あと(\d+)日$"=$1d left
-r:"^あと(\d+)時間$"=$1h left
-r:"^あと(\d+)分$"=$1m left
+r:"^あと(\d+)日$"=$1d còn lại
+r:"^あと(\d+)時間$"=$1h còn lại
+r:"^あと(\d+)分$"=$1m còn lại
 
-r:"^Lv(\d+)まで$"=Until Lv$1
+r:"^Lv(\d+)まで$"=Đến Cấp $1
 
-アプリ配信期間終了=End of app period
+アプリ配信期間終了=Kết thúc thời gian ứng dụng
 
 
-パスポート獲得数増加=Passport Acquisition Increase
-[475F7B]黎明界ラビリンスの\nパスポート獲得数が通常よりも1枚増加[-]=[475F7B]Dawn Realm Labyrinth\nPassport acquisition increased by 1[-]
+パスポート獲得数増加=Tăng Số Lượng Nhận Hộ Chiếu
+[475F7B]黎明界ラビリンスの\nパスポート獲得数が通常よりも1枚増加[-]=[475F7B]Địa Ngục Bình Minh\nSố Passport nhận được tăng thêm 1[-]
 
 ---attempt---
-挑戦回数アップ=Increase attempt count
+挑戦回数アップ=Tăng số lần thử
 
-sr:"^\[475F7B\](.+?)((?:（|\().+(?:）|\)))?\n?の\n?挑\n?戦\n?回\n?数\n?が\n?通常よりも(\d+)回増加\[-\]$"=[475F7B]The number of attempts for the $1$2 has increased by $3 times.[-]
+sr:"^\[475F7B\](.+?)((?:（|\().+(?:）|\)))?\n?の\n?挑\n?戦\n?回\n?数\n?が\n?通常よりも(\d+)回増加\[-\]$"=[475F7B]Số lần thử cho $1$2 đã tăng lên $3 lần.[-]

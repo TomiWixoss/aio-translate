@@ -1,5 +1,5 @@
 ##Profile##
-【魔法】後衛から強力な単体攻撃を放つ真夏の猫娘。\nスキルで敵の魔法防御力を下げた上で、\n敵単体への魔法攻撃を繰り出し、大ダメージを与える。=[Magical] A cat-eared sorceress who fires off devastating single-target spells from the rearguard. She generates big damage by lowering a single enemy's magical defense before blasting them with her spells.
+【魔法】後衛から強力な単体攻撃を放つ真夏の猫娘。\nスキルで敵の魔法防御力を下げた上で、\n敵単体への魔法攻撃を繰り出し、大ダメージを与える。=[Phép] Một pháp sư tai mèo phóng đại phép đơn mục tiêu từ hậu phương. Cô tạo ra sát thương lớn bằng cách giảm phòng thủ phép của một kẻ địch trước khi oanh tạc chúng bằng phép thuật.
 
 ##UB##
 レイジングフローター=Rubber Rampage
@@ -9,7 +9,7 @@
 
 ##S2##
 スパイラルウェーブ=Spiral Wave
-目の前の敵１キャラに魔法小ダメージを与え、さらに魔法防御力を中ダウンさせる。=Deals small M.DMG to an enemy directly in front and lowers their M.DEF by a moderate amount.
+目の前の敵１キャラに魔法小ダメージを与え、さらに魔法防御力を中ダウンさせる。=Gây sát thương phép nhỏ lên kẻ địch ngay phía trước và giảm M.DEF của chúng một lượng vừa phải.
 
 ##EX##
 ハイドロリンク=Hydro Link
@@ -17,8 +17,8 @@
 
 ##UB+##
 サマーフルフローター=Summer Full Floater
-目の前の敵１キャラに魔法特大ダメージを与え、魔法防御力を小ダウンさせる。発動時既にこのスキルの対象が魔法防御力ダウン状態だった場合、さらに魔法大ダメージを与える。=Deals massive M.DMG to an enemy directly in front, and reduces M.DEF by small amount. If the target of this skill is already in the M.DEF down state at the time of activation, it will do more M.DMG.
-r:"^敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン対象が魔法防御力ダウン状態の時、敵単体に(\d+)の魔法ダメージ$"=►Deals $1 M.DMG to an enemy.\n►Lowers an enemy's M.DEF by $2.\n\nIf enemy's M.DEF is already lowered:\n►Deals $3 M.DMG to an enemy.
+目の前の敵１キャラに魔法特大ダメージを与え、魔法防御力を小ダウンさせる。発動時既にこのスキルの対象が魔法防御力ダウン状態だった場合、さらに魔法大ダメージを与える。=Gây sát thương phép cực lớn lên kẻ địch ngay phía trước và giảm M.DEF một lượng nhỏ. Nếu mục tiêu của kỹ năng này đã ở trạng thái giảm M.DEF khi kích hoạt, nó sẽ gây thêm sát thương phép.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン対象が魔法防御力ダウン状態の時、敵単体に(\d+)の魔法ダメージ$"=►Gây $1 sát thương phép lên kẻ địch.\n►Giảm M.DEF của kẻ địch đi $2.\n\nNếu M.DEF của kẻ địch đã bị giảm:\n►Gây $3 sát thương phép lên kẻ địch.
 
 ##S1+##
 ウォーターバレット+=Aqua Bullet+

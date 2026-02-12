@@ -1,32 +1,32 @@
 ##Profile##
-【魔法】後衛で祈りによるサポートを行うドジっ娘巫女。スキルの魔法無効バリアで耐久力を高め、ユニオンバーストでＨＰ回復と行動速度アップで戦況を整える。=[Magic] A clumsy maid-turned-shrine-maiden who provides support through prayers from the rearguard. Not only can she bestow protection with a barrier that nullifies magic damage, her Union Burst heals HP while boosting her allies' speed.
+【魔法】後衛で祈りによるサポートを行うドジっ娘巫女。スキルの魔法無効バリアで耐久力を高め、ユニオンバーストでＨＰ回復と行動速度アップで戦況を整える。=[Ma Thuật] Một hầu gái vụng về trở thành miko, hỗ trợ từ hậu phương thông qua lời cầu nguyện. Ngoài việc ban pháp bảo vệ chống lại sát thương phép, Union Burst của cô ấy vừa hồi máu vừa tăng tốc độ hành động cho đồng minh.
 
 ##UB##
-祝福ノ巫女神楽=Ceremony of Blessings
-味方全体のＨＰを中回復し、さらに行動速度を大アップさせる。=Recovers all allies' HP by a moderate amount and boosts their action speed by a large amount.
-r:"^味方全体のＨＰを(\d+)回復味方全体の行動速度アップ$"=►Recovers all allies' HP by $1.\n►Boosts all allies' action speed to 160%.
+祝福ノ巫女神楽=Lễ Nghi Ban Phước
+味方全体のＨＰを中回復し、さらに行動速度を大アップさせる。=Hồi một lượng máu vừa phải cho toàn bộ đồng minh và tăng tốc độ hành động của họ một lượng lớn.
+r:"^味方全体のＨＰを(\d+)回復味方全体の行動速度アップ$"=►Hồi máu cho toàn bộ đồng minh bằng $1.\n►Tăng tốc độ hành động của toàn bộ đồng minh lên 160%.
 
 ##S1##
-賀春旋風=Fresh New Breeze
-最も遠くの敵に魔法小ダメージを与え、さらに大きく吹き飛ばす。=Deals small M.DMG to the farthest enemy and knocks them back a large distance.
+賀春旋風=Làn Gió Mới Mẻ
+最も遠くの敵に魔法小ダメージを与え、さらに大きく吹き飛ばす。=Gây sát thương phép nhỏ cho kẻ địch xa nhất và đẩy lùi chúng một khoảng xa.
 
 ##S2##
-加護ノ破魔矢=Warding Arrow
+加護ノ破魔矢=Mũi Tên Xua Tan Tà Khí
 
 
 ##S2+##
-加護ノ破魔矢+=Blessed Purifying Arrow+
-味方全体の物理攻撃力と魔法攻撃力\nを大アップさせ、物理無効バリアと\n魔法無効バリアを展開する。=Greatly increases all allies' P.ATK and M.ATK, and deploys both a phys-nullification barrier and a magic-nullification barrier to all allies.
-r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の魔法攻撃力を(\d+)アップ(\d+)ダメージ分の物理無効バリアを展開する(\d+)ダメージ分の魔法無効バリアを展開する$"=►Boosts all allies' P.ATK by $1.\n►Boosts all allies' M.ATK by $2.\n►Deploys phys-nullifying Barrier to all allies that nullifies $3 P.DMG.\n►Deploys magic-nullifying Barrier to all allies that nullifies $4 M.DMG.
+加護ノ破魔矢+=Mũi Tên Thanh Tẩy Ban Phước+
+味方全体の物理攻撃力と魔法攻撃力\nを大アップさせ、物理無効バリアと\n魔法無効バリアを展開する。=Tăng cường P.ATK và M.ATK của toàn bộ đồng minh rất lớn, và triển khai cả khiên phòng thủ vật lý lẫn khiên phòng thủ phép cho toàn bộ đồng minh.
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の魔法攻撃力を(\d+)アップ(\d+)ダメージ分の物理無効バリアを展開する(\d+)ダメージ分の魔法無効バリアを展開する$"=►Tăng P.ATK của toàn bộ đồng minh bằng $1.\n►Tăng M.ATK của toàn bộ đồng minh bằng $2.\n►Triển khai khiên phòng thủ vật lý cho toàn bộ đồng minh, hóa giải $3 sát thương vật lý.\n►Triển khai khiên phòng thủ phép cho toàn bộ đồng minh, hóa giải $4 sát thương phép.
 
 ##EX##
-新年ノ加護=New Year's Blessings
-新年ノ加護+=New Year's Blessings+
+新年ノ加護=Lộc Tết Năm Mới
+新年ノ加護+=Lộc Tết Năm Mới+
 
 ##S1+##
-賀春旋風+=Fresh New Breeze+
-最も遠くの敵を中心とした範囲内の敵すべてに魔法小ダメージを与え、さらに大きく吹き飛ばしてスタンさせる。ダメージを与えた敵の数に応じて、スタンの効果時間が増加する。=Deals small M.DMG to the farthest enemy, knocks them back a large distance and inflicts Stun. Duration of Stun increases depending on the number of enemies damaged.
+賀春旋風+=Làn Gió Mới Mẻ+
+最も遠くの敵を中心とした範囲内の敵すべてに魔法小ダメージを与え、さらに大きく吹き飛ばしてスタンさせる。ダメージを与えた敵の数に応じて、スタンの効果時間が増加する。=Gây sát thương phép nhỏ cho kẻ địch xa nhất, đẩy lùi chúng một khoảng xa và gây choáng. Thời gian choáng tăng lên tùy theo số lượng kẻ địch bị sát thương.
 
 ##UE##
-神殿巫女の鈴飾り=Shrine Maiden's Bell Decoration
-神殿巫女の装束=Shrine Maiden's Costume
+神殿巫女の鈴飾り=Trang Trí Chuông Miko
+神殿巫女の装束=Trang Phục Miko

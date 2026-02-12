@@ -1,32 +1,32 @@
 ##Profile##
-【魔法】後衛で、美しい旋律を紡ぎ支援する幽寂の歌姫。味方の強化と敵の弱体化の両方面での補助を行い、さらに召喚した鉱石の飛竜との波状攻撃により敵を鎮圧する。=[Magic] A gloomy diva who spins beautiful melodies and supports allies in rearguard. She assists in both strengthening allies and weakening enemies, and subdues them with wave attacks with her summoned Nephrite Wyvern.
+【魔法】後衛で、美しい旋律を紡ぎ支援する幽寂の歌姫。味方の強化と敵の弱体化の両方面での補助を行い、さらに召喚した鉱石の飛竜との波状攻撃により敵を鎮圧する。=[Phép thuật] Một diva ủ rũ quay những giai điệu tuyệt đẹp và hỗ trợ đồng đội ở hậu phương. Cô hỗ trợ cả việc tăng cường đồng đội và suy yếu kẻ địch, và khuất phục chúng với đợt tấn công sóng từ con rồng Nephrite được triệu hồi.
 
-静寂を求め歌う陰気少女=A gloomy girl who sings for silence
-歌、読書、詩を書くこと=Writing songs, reading, and poetry
+静寂を求め歌う陰気少女=Một cô gái ủ rũ hát để tìm sự tĩnh lặng
+歌、読書、詩を書くこと=Viết bài hát, đọc sách và thơ
 
-prelude　～前奏曲～=Prelude ~Intro~
-etude　～練習曲～=Etude ~Practice song~
+prelude　～前奏曲～=Prelude ~Mở đầu~
+etude　～練習曲～=Etude ~Bài tập~
 
 ##UB##
-クリスタルララバイ=Crystal Lullaby
-前方の敵すべてに魔法中ダメージを与え、さらに魔法防御力を中ダウンさせる。=Deals moderate M.DMG to all enemies, and moderately lowers their M.DEF.
-r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の魔法防御力を(\d+)ダウン$"=►Deals $1 M.DMG to all enemies.\n►Lowers all enemies' M.DEF by $2.
+クリスタルララバイ=Bài Hát Ru Ngọc
+前方の敵すべてに魔法中ダメージを与え、さらに魔法防御力を中ダウンさせる。=Gây sát thương phép thuật trung bình cho tất cả kẻ địch và giảm phòng thủ phép thuật của chúng một chút.
+r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の魔法防御力を(\d+)ダウン$"=►Gây $1 sát thương Phép thuật cho tất cả kẻ địch.\n►Giảm phòng thủ Phép thuật của tất cả kẻ địch $2.
 
 ##S1##
-ミスティックハーモニー=Mystic Harmony
-【召喚】味方全体の魔法攻撃力を大アップさせる。ネフライトワイバーンが味方にいない場合、さらにネフライトワイバーンを召喚する。=[Summon] Greatly boosts all allies' M.ATK. If Nephrite Wyvern is not in battle, summons Nephrite Wyvern.
-r:"^味方全体の魔法攻撃力を(\d+)アップネフライトワイバーンを召喚する$"=Cast time: 0.733s\n►Boosts all allies' M.ATK by $1 for 180s.\n►Summons a Nephrite Wyvern at 125 in front of self.
+ミスティックハーモニー=Sự Hài Hòa Thần Bí
+【召喚】味方全体の魔法攻撃力を大アップさせる。ネフライトワイバーンが味方にいない場合、さらにネフライトワイバーンを召喚する。=[Triệu hồi] Tăng tấn công phép thuật của tất cả đồng đội rất lớn. Nếu Rồng Nephrite không có trận, triệu hồi Rồng Nephrite.
+r:"^味方全体の魔法攻撃力を(\d+)アップネフライトワイバーンを召喚する$"=Thời gian niệm: 0.733s\n►Tăng tấn công Phép thuật của tất cả đồng đội $1 trong 180s.\n►Triệu hồi Rồng Nephrite ở vị trí 125 phía trước bản thân.
 
 ##SP1##
 ミスティックハーモニー+=Mystic Harmony+
-【召喚】味方全体の魔攻特大アッ\nプ、魔クリ中アップ、物理無効バリ\nアを展開する。ネフライトワイバー\nンが味方にいる場合、ネフライトワ\nイバーンの魔攻と魔クリ特大アッ\nプ、ＨＰ中回復、ＴＰ特大回復、【\n翡翠の葬歌】を付与し、そうでない\n場合召喚する。【翡翠の葬歌】が付\n与されている間ネフライトワイバー\nンのＵＢとスキルは前方の最も魔防\nの低い敵１キャラを対象とする。=Massively boosts all allies' M.ATK, moderately boosts M.Crit, and deploys a Phys-nullifying Barrier. If Nephrite Wyvern is present, boosts its M.ATK and M.Crit, restores its HP and TP, and grants [Jade Requiem]. Otherwise, summons it. With [Jade Requiem], its UB and skills target the frontmost enemy with the lowest M.DEF.
-r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを(\d+)アップ(\d+)ダメージ分の物理無効バリアを展開する味方単体の魔法攻撃力を(\d+)アップ味方単体の魔法クリティカルを(\d+)アップ味方単体のＨＰを(\d+)回復・ＴＰを(\d+)回復ネフライトワイバーンを召喚する$"=►Boosts all allies' M.ATK by $1.\n►Boosts all allies' M.Crit by $2.\n►Deploys a Phys-nullifying Barrier that nullifies $3 damage.\n►Boosts Nephrite Wyvern’s M.ATK by $4.\n►Boosts Nephrite Wyvern’s M.Crit by $5.\n►Recovers Nephrite Wyvern’s HP by $6.\n►Recovers Nephrite Wyvern’s TP by $7.\n►Summons Nephrite Wyvern if not present.\n►Grants [Jade Requiem] if already present.
+【召喚】味方全体の魔攻特大アッ\nプ、魔クリ中アップ、物理無効バリ\nアを展開する。ネフライトワイバー\nンが味方にいる場合、ネフライトワ\nイバーンの魔攻と魔クリ特大アッ\nプ、ＨＰ中回復、ＴＰ特大回復、【\n翡翠の葬歌】を付与し、そうでない\n場合召喚する。【翡翠の葬歌】が付\n与されている間ネフライトワイバー\nンのＵＢとスキルは前方の最も魔防\nの低い敵１キャラを対象とする。=Tăng cường mạnh M.ATK cho toàn bộ đồng đội, tăng trung bình M.Crit, và tạo ra Màn Chắn Vô Hình Phép. Nếu có Nephrite Wyvern, tăng M.ATK và M.Crit cho nó, hồi HP và TP, và ban cho nó [Jade Requiem]. Ngược lại, triệu hồi nó. Khi có [Jade Requiem], UB và kỹ năng của nó sẽ nhắm vào kẻ địch phía trước nhất có M.DEF thấp nhất.
+r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを(\d+)アップ(\d+)ダメージ分の物理無効バリアを展開する味方単体の魔法攻撃力を(\d+)アップ味方単体の魔法クリティカルを(\d+)アップ味方単体のＨＰを(\d+)回復・ＴＰを(\d+)回復ネフライトワイバーンを召喚する$"=►Tăng M.ATK cho toàn bộ đồng đội bởi $1.\n►Tăng M.Crit cho toàn bộ đồng đội bởi $2.\n►Triển khai Màn Chắn Vô Hình Phép, vô hiệu hóa $3 sát thương.\n►Tăng M.ATK của Nephrite Wyvern bởi $4.\n►Tăng M.Crit của Nephrite Wyvern bởi $5.\n►Hồi HP của Nephrite Wyvern bởi $6.\n►Hồi TP của Nephrite Wyvern bởi $7.\n►Triệu hồi Nephrite Wyvern nếu không có.\n►Ban [Jade Requiem] nếu đã có.
 
 
 ##S2##
 ティアーズソング=Tears Song
-敵全体の魔法防御力を小ダウンさせ、さらにクリティカルを受けた際のダメージを小アップさせる。=Lowers all enemies' M.DEF by a small amount, also slightly boosts their M.CRIT DMG taken.
-r:"^敵全体の魔法防御力を(\d+)ダウン敵全体のクリティカルを受けた際のダメージを2％アップ$"=Cast time: 0.733s\n►Lowers all enemies' M.DEF by $1 for 12s.\n►Boosts all enemies' M.CRIT DMG taken by 2% for 180s.
+敵全体の魔法防御力を小ダウンさせ、さらにクリティカルを受けた際のダメージを小アップさせる。=Giảm M.DEF của toàn bộ kẻ địch một chút, và đồng thời tăng nhẹ sát thương phép mà chúng nhận.
+r:"^敵全体の魔法防御力を(\d+)ダウン敵全体のクリティカルを受けた際のダメージを2％アップ$"=Thời gian niệm: 0.733s\n►Giảm M.DEF của toàn bộ kẻ địch bởi $1 trong 12s.\n►Tăng sát thương phép mà toàn bộ kẻ địch nhận bởi 2% trong 180s.
 
 ##SP1##
 スケルトンブレス=Skeleton Breath

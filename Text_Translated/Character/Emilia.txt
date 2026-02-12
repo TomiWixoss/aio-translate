@@ -1,23 +1,23 @@
 ##Profile##
-銀髪のおっとりハーフエルフ=A gentle silver-haired half elf
-ハーフエルフ=Half-elf
-パックの毛繕い、勉強=Grooming Puck, studying
-【魔法】後衛で、攻撃と回復をこなす、ハーフエルフ。高い魔力で攻撃魔法を繰り出して敵を蹴散らしつつ、ユニオンバーストは瀕死の味方すらも瞬時に癒す。=[Magic] A half elf who combines healing and offense from the rearguard. Her innate magical talent produces powerful spells that leave enemies no quarter, while her Union Burst can bring allies back from the brink of death in an instant.
+銀髪のおっとりハーフエルフ=Một tiên nửa người tóc bạc dịu dàng
+ハーフエルフ=Tiên Nửa Người
+パックの毛繕い、勉強=Puck Đang Chải Lông, Đang Học
+【魔法】後衛で、攻撃と回復をこなす、ハーフエルフ。高い魔力で攻撃魔法を繰り出して敵を蹴散らしつつ、ユニオンバーストは瀕死の味方すらも瞬時に癒す。=[Ma Thuật] Một tiên nửa người kết hợp hồi phục và tấn công từ hàng sau. Tài năng ma thuật bẩm sinh của cô ấy tạo ra những phép thuật mạnh mẽ không cho kẻ địch chút đường sống, trong khi Union Burst có thể đưa đồng minh trở lại từ bờ vực cái chết trong tích tắc.
 
 ##UB##
-約束の花園=Promised Field
-最もＨＰが低い味方１キャラのＨＰを特大回復させ、さらに味方全体の物理防御力と魔法防御力を中アップさせる。=Recovers the HP of the ally with the lowest HP by a massive amount. Moderate boost to the P.DEF and allies' M.DEF.
-r:"^味方単体のＨＰを(\d+)回復味方全体の物理防御力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ$"=►Recovers an ally's HP by $1.\n►Boosts allies' P.DEF by $2.\n►Boosts allies' M.DEF by $3.
+約束の花園=Cánh Đồng Được Hứa
+最もＨＰが低い味方１キャラのＨＰを特大回復させ、さらに味方全体の物理防御力と魔法防御力を中アップさせる。=Hồi lượng lớn HP của đồng minh có HP thấp nhất. Tăng trung bình P.DEF và M.DEF của đồng minh.
+r:"^味方単体のＨＰを(\d+)回復味方全体の物理防御力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ$"=►Hồi HP của đồng minh lên $1.\n►Tăng P.DEF của đồng minh lên $2.\n►Tăng M.DEF của đồng minh lên $3.
 
 ##S1##
-お願い、パック！=Help Me Out, Puck!
-目の前の敵１キャラに魔法中ダメージを与え、さらに自分の魔法攻撃力を中アップさせる。=Deals moderate M.DMG to an enemy directly in front, and also boosts own M.ATK by moderate amount.
-r:"^敵単体に(\d+)の魔法ダメージ自分の魔法攻撃力を(\d+)アップ$"=►Deals $1 M.DMG to an enemy.\n►Boosts own M.ATK by $2.
+お願い、パック！=Giúp Tôi Với, Puck!
+目の前の敵１キャラに魔法中ダメージを与え、さらに自分の魔法攻撃力を中アップさせる。=Gây sát thương phép trung bình lên kẻ địch phía trước trực tiếp, và cũng tăng M.ATK của bản thân lên một lượng trung bình.
+r:"^敵単体に(\d+)の魔法ダメージ自分の魔法攻撃力を(\d+)アップ$"=►Gây $1 sát thương phép lên kẻ địch.\n►Tăng M.ATK của bản thân lên $2.
 
 ##S2##
-氷の飛礫=Ice Needles
-前方範囲内のランダムな敵キャラに、単体魔法小ダメージを計４回与える。=Deals small M.DMG to a random enemy in range 4 times.
-r:"^敵単体に(\d+)の魔法ダメージ敵単体に(\d+)の魔法ダメージ敵単体に(\d+)の魔法ダメージ敵単体に(\d+)の魔法ダメージ$"=►Deals $1 M.DMG to an enemy.\n►Deals $2 M.DMG to an enemy.\n►Deals $3 M.DMG to an enemy.\n►Deals $4 M.DMG to an enemy.
+氷の飛礫=Kim Băng
+前方範囲内のランダムな敵キャラに、単体魔法小ダメージを計４回与える。=Gây sát thương phép nhỏ lên một kẻ địch ngẫu nhiên trong phạm vi 4 lần.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体に(\d+)の魔法ダメージ敵単体に(\d+)の魔法ダメージ敵単体に(\d+)の魔法ダメージ$"=►Gây $1 sát thương phép lên một kẻ địch.\n►Gây $2 sát thương phép lên một kẻ địch.\n►Gây $3 sát thương phép lên một kẻ địch.\n►Gây $4 sát thương phép lên một kẻ địch.
 
 ##EX##
 大精霊との契約=Great Spirit Contract
@@ -25,12 +25,12 @@ r:"^敵単体に(\d+)の魔法ダメージ敵単体に(\d+)の魔法ダメージ
 
 ##UB+##
 祝福の花園=Blessed Field
-最もＨＰが低い味方１キャラのＨＰを特大回復させ、味方全体の魔法攻撃力を特大アップ、物理・魔法防御力を大アップし、継続ＨＰ回復状態を付与し、物理/魔法無効バリアを展開する。このＵＢの初回使用後、自分に【情熱の花束】を付与、行動パターンが変化し、通常攻撃が強化通常攻撃になる。=Massively recovers HP of the lowest HP ally. Massively boosts all allies' P.DEF, M.DEF, and MATK, grants HP regen to them and deploys Barrier over them that negates P/M.DMG. After this UB is used, grants [Passionate Bouquet] effect to self, changes own attacks pattern, and enhances own normal attacks.
-r:"^味方単体のＨＰを(\d+)回復味方全体の物理・魔法防御力を(\d+)アップ味方全体の魔法攻撃力を(\d+)アップ毎秒ＨＰを(\d+)回復する(\d+)ダメージ分の物魔無効バリアを展開する自分に情熱の花束を付与する$"=►Recovers an ally's HP by $1.\n►Boosts all allies' P/M.DEF by $2 for 18s.\n►Boosts all allies' M.ATK by $3 for 18s.\n►Recovers all allies' HP by $4/s for 18s.\n►Deploys Barrier over all allies that negates $5 P/M.DMG for 18s.\n►Switches to Attack Pattern 2 once.
+最もＨＰが低い味方１キャラのＨＰを特大回復させ、味方全体の魔法攻撃力を特大アップ、物理・魔法防御力を大アップし、継続ＨＰ回復状態を付与し、物理/魔法無効バリアを展開する。このＵＢの初回使用後、自分に【情熱の花束】を付与、行動パターンが変化し、通常攻撃が強化通常攻撃になる。=Hồi HP cực lớn cho đồng minh có HP thấp nhất. Tăng cực lớn P.DEF, M.DEF và MATK cho tất cả đồng minh, tăng hồi HP cho họ và thi triển Barrier chống lại sát thương vật lý/phép. Sau khi UB này được sử dụng, tặng hiệu ứng [Passionate Bouquet] cho bản thân, thay đổi mẫu tấn công và tăng cường tấn công thường của bản thân.
+r:"^味方単体のＨＰを(\d+)回復味方全体の物理・魔法防御力を(\d+)アップ味方全体の魔法攻撃力を(\d+)アップ毎秒ＨＰを(\d+)回復する(\d+)ダメージ分の物魔無効バリアを展開する自分に情熱の花束を付与する$"=►Hồi $1 HP cho một đồng minh.\n►Tăng P/M.DEF của tất cả đồng minh lên $2 trong 18s.\n►Tăng M.ATK của tất cả đồng minh lên $3 trong 18s.\n►Hồi $4/s HP cho tất cả đồng minh trong 18s.\n►Thi triển Barrier cho tất cả đồng minh, chống lại $5 sát thương vật lý/phép trong 18s.\n►Chuyển sang Mẫu tấn công 2 một lần.
 
 ##S1+##
 お願い、パック！+=Help Me Out, Puck!+
-目の前の敵１キャラに魔法大ダメージを与え、さらに自分の魔法攻撃力を特大アップさせる。=Deals large M.DMG to one enemy in front of you, and also boosts own M.ATK by massive amount.
+目の前の敵１キャラに魔法大ダメージを与え、さらに自分の魔法攻撃力を特大アップさせる。=Gây sát thương phép lớn lên một kẻ địch phía trước, và tăng cực lớn M.ATK của bản thân.
 
 ##UE##
 約束の花束=Promised Bouquet

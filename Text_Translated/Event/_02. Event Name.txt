@@ -1,362 +1,362 @@
-sr:"^(.+) エンディングを閲覧で解放$"=Unlocked by Viewing the Ending of \n$1
-sr:"^(.+) ?次回予告$"=""$1" Next Episode Preview"
+sr:"^(.+) エンディングを閲覧で解放$"=Mở khóa bằng cách xem kết thúc của \n$1
+sr:"^(.+) ?次回予告$"=""$1" Xem trước Tập tiếp theo"
 
 
 no index
-ゾンビランドコネクト！\nRe:DIEve=Zombieland Connect! Re:DIEVE
-ゾンビランドコネクト！Re:DIEve=Zombieland Connect! Re:DIEVE
+ゾンビランドコネクト！\nRe:DIEve=Zombieland Kết nối! Re:DIEVE
+ゾンビランドコネクト！Re:DIEve=Zombieland Kết nối! Re:DIEVE
 
 
 1
-ハツネのプレゼント大作戦=Hatsune's Perfect Present
+ハツネのプレゼント大作戦=Món quà hoàn hảo của Hatsune
 
 2
-リトル・リリカル・アドベンチャーズ！=Little Lyrical Adventures!
+リトル・リリカル・アドベンチャーズ！=Những cuộc phiêu lưu lyrical nhỏ!
 
 3
-ヴァンパイアハンターwithイリヤ=Vampire Hunter with Ilyya
+ヴァンパイアハンターwithイリヤ=Săn ma cà rồng cùng Ilyya
 
 4
-デンジャラスバカンス！渚のグルメプリンセス=Dangerous Vacation! Gourmet Princess on the Beach
+デンジャラスバカンス！渚のグルメプリンセス=Kỳ nghỉ nguy hiểm! Nàng công chúa ẩm thực trên bãi biển
 
 5
-タマキとミフユの無人島０ルピ生活=Tamaki and Mifuyu's Desert island 0-rupie Life!
+タマキとミフユの無人島０ルピ生活=Cuộc sống 0-rupia trên đảo hoang của Tamaki và Mifuyu!
 
 6
-黒鉄の亡霊（ナイトメア）=Ironclad Nightmare
+黒鉄の亡霊（ナイトメア）=Ác mộng áo giáp
 
 7
-トリックオアプリン！約束のハロウィンパーティー=Trick or Pudding! The Promised Halloween Party
+トリックオアプリン！約束のハロウィンパーティー=Trick or Pudding! Bữa tiệc Halloween đã hứa
 
 8
-トワイライトブレイカーズ=Twilight Breakers
+トワイライトブレイカーズ=Kẻ phá vỡ hoàng hôn
 
 9
-忘却のキャロル=The Carol That Never Was
+忘却のキャロル=Bài hát carol chưa từng tồn tại
 
 10
-新春トゥインクルクライシス！=New Year's Twinkle Crisis!
+新春トゥインクルクライシス！=Khủng hoảng lấp lánh năm mới!
 
 11
-バトルオブバレンタイン！想いぶつかるスウィートバトル=Rumble on Valentine's Day! Fight for Your Right to Love
+バトルオブバレンタイン！想いぶつかるスウィートバトル=Ảo đảo trong ngày Valentine! Chiến đấu vì quyền được yêu
 
 12
-王都の名探偵嘆きの追跡者（ストーカー）=Landosol's Ace Detective: The Case of the Woeful Stalker
+王都の名探偵嘆きの追跡者（ストーカー）=Thám tử tinh hoa Landosol: Vụ án kẻ theo dõi đau khổ
 
 13
-アストルムに咲く双輪の華=The Twin Flowers of Astrum
+アストルムに咲く双輪の華=Hai bông hoa của Astrum
 
 14
-ショーグン道中記　白翼のサムライ=Shogun Chronicles: the Whitewing Samurai
+ショーグン道中記　白翼のサムライ=Truyện ký Shogun: Samurai cánh trắng
 
 15
-Re:ゼロから集まる異世界食卓=Re:ZERO -Sharing Lunch in Another World-
+Re:ゼロから集まる異世界食卓=Re:ZERO -Chia sẻ bữa trưa ở thế giới khác-
 
 16
-スズナレインボーステージ！=Suzuna Rainbow Stage!
+スズナレインボーステージ！=Sân khấu cầu vồng của Suzuna!
 
 17
-真夏のマホマホ王国波打ち際のソウルサマー！=Dog Days in the Maho-Maho Kingdom: A Soulful Seaside Summer!
+真夏のマホマホ王国波打ち際のソウルサマー！=Dog Days trong Vương quốc Maho-Maho: Mùa hè bên biển đầy tâm hồn!
 
 18
-森の臆病者と聖なる学舎の異端児=The Woodland Loner and the Saintly School Lycéennes
+森の臆病者と聖なる学舎の異端児=Kẻ cô độc trong rừng và các nữ sinh trường thánh
 
 19
-リトル・ブレイブ・ハロウィンナイト！=Little Brave Halloween Night!
+リトル・ブレイブ・ハロウィンナイト！=Đêm Halloween nhỏ dũng cảm!
 
 20
-ドラゴンエクスプローラーズ=Dragon Explorers
+ドラゴンエクスプローラーズ=Nhà thám hiểm rồng
 
 21
-プレゼントパニック！　ランドソルのサンタたち=Present panic! The Santa of Landosol
+プレゼントパニック！　ランドソルのサンタたち=Cơn hoảng loạn quà tặng! Ông già Noel của Landosol
 
 22
-激走！　ランドソルギルドレース=Ready, Set, Go! The Landosol Guild Race
+激走！　ランドソルギルドレース=Sẵn sàng, bắt đầu! Cuộc đua guild Landosol
 
 23
-魔法少女　二人はミスティ＆ピュアリー=We Are Magical Girls: Misty & Purely
+魔法少女　二人はミスティ＆ピュアリー=Chúng Là Các Nữ Thần Ma Thuật: Misty & Purely
 
 24
 スターライトプリンセス　Re:M@STER！=Starlight Princess Re:M@STER!
 
 25
-授けの財団と聖なる学舎の異端児=The Angelic Foundation and the Saintly School Lycéennes
+授けの財団と聖なる学舎の異端児=Tổ Chức Thiên Thần và Trường Nữ Sinh Thánh
 
 26
-まきばの四農士　貧乏牧場奮闘記！=Four Farmers on the Pasture: Struggle of the Poor Ranch
+まきばの四農士　貧乏牧場奮闘記！=Bốn Nông Dân Trên Đồng Cỏ: Cuộc Đấu Tranh Của Trang Trại Nghèo
 
 27
-不思議の国のリノ　小さなアリスと希望の絵本=Rino in Wonderland: Little Alice and the Book of Hope
+不思議の国のリノ　小さなアリスと希望の絵本=Rino Trong Vùng Đất Kỳ Diệu: Alice Nhỏ và Cuốn Sách Hy Vọng
 
 28
-七夕剣客旅情譚　天に流れる夏の恋=Swordmaster's Tanabata Travel Journal: Summer Love Flowing in Heaven
+七夕剣客旅情譚　天に流れる夏の恋=Nhật Ký Du Lịch Tanabata Của Kiếm Sư: Tình Yêu Mùa Hè Trôi Nổi Trên Trời
 
 29
-ミサトサマーエール！　夢追う真夏のナイン=Misato Summer Ale! Dream-Chasing Summer Nine
+ミサトサマーエール！　夢追う真夏のナイン=Misato Summer Ale! Mùa Hè Chín Giấc Mơ
 
 30
-ハッピー・チェンジ・エンジェルズ=Happy Change Angels
+ハッピー・チェンジ・エンジェルズ=Các Thiên Thần Hạnh Phúc Thay Đổi
 
 31
-響け！絶叫！ハロウィンゴーストフェスティバル=Tremble! Scream! Halloween Ghost Festival
+響け！絶叫！ハロウィンゴーストフェスティバル=Run Rẩy! Hét Lên! Lễ Hội Ma Cà Rồng Halloween
 
 32
-魔法提督ラブリー★モニカレッツゴー！マジカルカルテット！=Admiral Lovely★Monika Let's Go! Magical Quartet!
+魔法提督ラブリー★モニカレッツゴー！マジカルカルテット！=Đô Đốc Dễ Thương★Monika Cùng Đi! Bộ Tứ Ma Thuật!
 
 33 fix
-デビュタント・シャングリ・ラ　聖夜のラブゲーム=Debutante Shangri-La Sacred Night Love Game
+デビュタント・シャングリ・ラ　聖夜のラブゲーム=Cô Dào Shangri-La Đêm Thánh Trò Chơi Tình Yêu
 
 34
-新春グルメプリンセス！　一投にかけた乙女たち=New Year Gourmet Princesses! Maidens Dedicated to One Shot
+新春グルメプリンセス！　一投にかけた乙女たち=Các Công Chúa Ẩm Thực Năm Mới! Các Thiếu Nữ Dành Cho Một Phát
 
 35
-絆、つないで。こころ、結んで。=Bonds Connected; Hearts Tied
-絆ダイアリー=Bond Diary
+絆、つないで。こころ、結んで。=Mối Duyên Kết Nối; Trái Tim Buộc Chặt
+絆ダイアリー=Nhật Ký Mối Duyên
 
 36
-シンデレラレッスン　華やかなる日々はリンゴの味=Cinderella Lessons: Gorgeous Days Taste of Apples
+シンデレラレッスン　華やかなる日々はリンゴの味=Bài Học Cinderella: Những Ngày Lộng Lẫy Hương Vị Táo
 
 37
-鋼の聖女と聖なる学舎の異端児=The Steel Saint and the St. Lycéenne's Delinquents
+鋼の聖女と聖なる学舎の異端児=Thánh Thép và Các Sinh Viên Nghịch Ngợm Của Trường St. Lycéenne
 
 38
-イノリＳＯＳ！！　タイムトラベル・ドラゴンズ=Inori's SOS!! Time Travel Dragons
+イノリＳＯＳ！！　タイムトラベル・ドラゴンズ=SOS Của Inori!! Rồng Du Hành Thời Gian
 
 39
-以心電心！アオイ トイ フレンズ=Telepathy and Sincerity! Aoi and Her Toy Friends
+以心電心！アオイ トイ フレンズ=Đồng Cảm và Chân Thành! Aoi và Bạn Bè Đồ Chơi Của Cô Ấy
 
 40
-エンドレスサマープロデュース　真夏のふたり占めパラダイス=Endless Summer Produce - A Paradise Shared by Two in the Middle of Summer
-エンドレスサマープロデュース真夏のふたり占めパラダイス=Endless Summer Produce - A Paradise Shared by Two in the Middle of Summer
+エンドレスサマープロデュース　真夏のふたり占めパラダイス=Sản Phẩm Mùa Hè Vô Tận - Một Thiên Đường Được Chia Sẻ Bởi Hai Người Giữa Mùa Hè
+エンドレスサマープロデュース真夏のふたり占めパラダイス=Sản Phẩm Mùa Hè Vô Tận - Một Thiên Đường Được Chia Sẻ Bởi Hai Người Giữa Mùa Hè
 
 41
-カルミナサマーライブ　ジャスト ア モーメント！=Carmina Summer Live - Just a Moment!
-カルミナサマーライブジャストアモーメント！=Carmina Summer Live - Just a Moment!
-カルミナサマーライブ　\nジャスト ア モーメント！=Carmina Summer Live Just a Moment!
+カルミナサマーライブ　ジャスト ア モーメント！=Carmina Summer Live - Chỉ Một Khoảnh Khắc!
+カルミナサマーライブジャストアモーメント！=Carmina Summer Live - Chỉ Một Khoảnh Khắc!
+カルミナサマーライブ　\nジャスト ア モーメント！=Carmina Summer Live Chỉ Một Khoảnh Khắc!
 42
-イリーガルオーエドカルテ　Dr.ミツキの診察室=Illegal Oedo Carte - Dr. Mitsuki's Clinic
-イリーガルオーエドカルテDr.ミツキの診察室=Illegal Oedo Carte - Dr. Mitsuki's Clinic
+イリーガルオーエドカルテ　Dr.ミツキの診察室=Illegal Oedo Carte - Phòng Khám Bác Sĩ Mitsuki
+イリーガルオーエドカルテDr.ミツキの診察室=Illegal Oedo Carte - Phòng Khám Bác Sĩ Mitsuki
 
 43
-ハロウィンセイバーズ・スクランブル！　もふもふ捕獲大作戦=Halloween Savers Scramble! Fluffy Capture Operation
+ハロウィンセイバーズ・スクランブル！　もふもふ捕獲大作戦=Cứu Hoa Halloween! Cuộc Tranh giành Bông Bông
 
 44
-魔法少女外伝　マジカル★ノワールズ！=Magical Girl Side Story - Magical Noir
-魔法少女外伝マジカル★ノワールズ！=Magical Girl Side Story - Magical Noir
+魔法少女外伝　マジカル★ノワールズ！=Chuyện Phụ Của Các Nữ Thần Ma Thuật - Magical Noir
+魔法少女外伝マジカル★ノワールズ！=Chuyện Phụ Của Các Nữ Thần Ma Thuật - Magical Noir
 
 45
-メリープリンクリスマス！　空舞う少女とまごころのお菓子=Merry Pink Christmas! Dancing in the Air with Heartfelt Sweets
-メリープリンクリスマス！空舞う少女とまごころのお菓子=Merry Pink Christmas! Dancing in the Air with Heartfelt Sweets
+メリープリンクリスマス！　空舞う少女とまごころのお菓子=Giáng Sinh Hồng Vui Vẻ! Nhảy Trong Không Khí Cùng Đồ Ngọt Từ Trái Tim
+メリープリンクリスマス！空舞う少女とまごころのお菓子=Giáng Sinh Hồng Vui Vẻ! Nhảy Trong Không Khí Cùng Đồ Ngọt Từ Trái Tim
 
 46
-新春美食メモリーズ　シェフィのおつかい大作戦！=New Year's Gourmet Memories - Sheffy's Mission
-新春美食メモリーズシェフィのおつかい大作戦！=New Year's Gourmet Memories - Sheffy's Mission
+新春美食メモリーズ　シェフィのおつかい大作戦！=Kỷ Niệm Ẩm Thực Năm Mới - Sứ Mệnh Của Sheffy
+新春美食メモリーズシェフィのおつかい大作戦！=Kỷ Niệm Ẩm Thực Năm Mới - Sứ Mệnh Của Sheffy
 
 47
-Re:member　僕の願いが紡ぐ未来=Re: Member's future spun by my wish
+Re:member　僕の願いが紡ぐ未来=Tương Lai của Thành Viên được xoay bởi ước nguyện của tôi
 
 48 
-スイート・タイニー・ステージ！駆け出し女優とリトルレディ=Sweet Tiny Stage! Rookie Actress and Little Lady
-スイート・タイニー・ステージ！　駆け出し女優とリトルレディ=Sweet Tiny Stage! Rookie Actress and Little Lady
-スイート・タイニー・ステージ！　 駆け出し女優とリトルレディ=Sweet Tiny Stage! Rookie Actress and Little Lady
+スイート・タイニー・ステージ！駆け出し女優とリトルレディ=Sân Khấu Ngọt Ngào Nhỏ Bé! Diễn Viên Mới và Tiểu Thư Nhỏ
+スイート・タイニー・ステージ！　駆け出し女優とリトルレディ=Sân Khấu Ngọt Ngào Nhỏ Bé! Diễn Viên Mới và Tiểu Thư Nhỏ
+スイート・タイニー・ステージ！　 駆け出し女優とリトルレディ=Sân Khấu Ngọt Ngào Nhỏ Bé! Diễn Viên Mới và Tiểu Thư Nhỏ
 
 49
-お宝頂戴！　インビジブル・スティーラーズ=Give Us the Treasure! Invisible Stealers
+お宝頂戴！　インビジブル・スティーラーズ=Hãy Cho Chúng Tôi Kho Báu! Kẻ Trộm Vô Hình
 
 50
-エピソード・オブ・パイレーツ海賊島の呪われし遺宝=Episode of Pirates: The Cursed Treasure of Pirate Island
-エピソード・オブ・パイレーツ　海賊島の呪われし遺宝=Episode of Pirates: The Cursed Treasure of Pirate Island
+エピソード・オブ・パイレーツ海賊島の呪われし遺宝=Tập của Cướp Biển: Kho Báu Nguyền Rủa Của Đảo Cướp Biển
+エピソード・オブ・パイレーツ　海賊島の呪われし遺宝=Tập của Cướp Biển: Kho Báu Nguyền Rủa Của Đảo Cướp Biển
 
 51
-エンジョイ＆リフレッシュ！でこぼこガールズ・キャンプ=Enjoy & Refresh! Bumpy Girls' Camp
-エンジョイ＆リフレッシュ！　 でこぼこガールズ・キャンプ=Enjoy & Refresh! Bumpy Girls' Camp
-エンジョイ＆リフレッシュ！　でこぼこガールズ・キャンプ=Enjoy & Refresh! Bumpy Girls' Camp
+エンジョイ＆リフレッシュ！でこぼこガールズ・キャンプ=Thưởng Thức & Tươi Mới! Trại Của Các Cô Gái Gập Gềnh
+エンジョイ＆リフレッシュ！　 でこぼこガールズ・キャンプ=Thưởng Thức & Tươi Mới! Trại Của Các Cô Gái Gập Gềnh
+エンジョイ＆リフレッシュ！　でこぼこガールズ・キャンプ=Thưởng Thức & Tươi Mới! Trại Của Các Cô Gái Gập Gềnh
 
 52
-トゥインクルサマーゲーム　夏海にきらめく三つの想い=Twinkle Summer Games: Three Sparkling Thoughts on the Summer Sea
-トゥインクルサマーゲーム夏海にきらめく三つの想い=Twinkle Summer Games: Three Sparkling Thoughts on the Summer Sea
+トゥインクルサマーゲーム　夏海にきらめく三つの想い=Trò Chơi Mùa Hè Lấp Lánh: Ba Suy Nghĩ Lấp Lánh Trên Biển Mùa Hè
+トゥインクルサマーゲーム夏海にきらめく三つの想い=Trò Chơi Mùa Hè Lấp Lánh: Ba Suy Nghĩ Lấp Lánh Trên Biển Mùa Hè
 
 53
-リトル・サマー・メモリーズ渚でみつけた小さな幸せ=Little Summer Memories: Finding Small Happiness on the Beach
-リトル・サマー・メモリーズ　渚でみつけた小さな幸せ=Little Summer Memories: Finding Small Happiness on the Beach
-リトル・サマー・メモリーズ　 渚でみつけた小さな幸せ=Little Summer Memories: Finding Small Happiness on the Beach
+リトル・サマー・メモリーズ渚でみつけた小さな幸せ=Kỷ Niệm Mùa Hè Nhỏ Bé: Tìm Kiếm Hạnh Phúc Nhỏ Trên Bãi Biển
+リトル・サマー・メモリーズ　渚でみつけた小さな幸せ=Kỷ Niệm Mùa Hè Nhỏ Bé: Tìm Kiếm Hạnh Phúc Nhỏ Trên Bãi Biển
+リトル・サマー・メモリーズ　 渚でみつけた小さな幸せ=Kỷ Niệm Mùa Hè Nhỏ Bé: Tìm Kiếm Hạnh Phúc Nhỏ Trên Bãi Biển
 54
-マホマホ・ミラクル・ジャーニー！旅する少女と最果ての大樹=Mahomaho Miracle Journey! The Traveling Girl and the Farthest Tree
-マホマホ・ミラクル・ジャーニー！　旅する少女と最果ての大樹=Mahomaho Miracle Journey! The Traveling Girl and the Farthest Tree
-マホマホ・ミラクル・ジャーニー！　 旅する少女と最果ての大樹=Mahomaho Miracle Journey! The Traveling Girl and the Farthest Tree
+マホマホ・ミラクル・ジャーニー！旅する少女と最果ての大樹=Hành Trình Kỳ Diệu Mahomaho! Cô Gái Du Lịch và Cây Xa Nhất
+マホマホ・ミラクル・ジャーニー！　旅する少女と最果ての大樹=Hành Trình Kỳ Diệu Mahomaho! Cô Gái Du Lịch và Cây Xa Nhất
+マホマホ・ミラクル・ジャーニー！　 旅する少女と最果ての大樹=Hành Trình Kỳ Diệu Mahomaho! Cô Gái Du Lịch và Cây Xa Nhất
 
 55
-ファボ！ラブ！大集合！至高の祭典と少女の秘めた推し事=Favo! Love! Grand Gathering! The Ultimate Festival and a Girl's Hidden Obsession
-ファボ！ラブ！大集合！　至高の祭典と少女の秘めた推し事=Favo! Love! Grand Gathering! The Ultimate Festival and a Girl's Hidden Obsession
-ファボ！ラブ！大集合！　 至高の祭典と少女の秘めた推し事=Favo! Love! Grand Gathering! The Ultimate Festival and a Girl's Hidden Obsession
+ファボ！ラブ！大集合！至高の祭典と少女の秘めた推し事=Yêu Thương! Tình Yêu! Đại Hội Tụ Hội! Lễ Hội Tối Thượng Và Sự Mê Muội Giấu Kín Của Một Cô Gái
+ファボ！ラブ！大集合！　至高の祭典と少女の秘めた推し事=Yêu Thương! Tình Yêu! Đại Hội Tụ Hội! Lễ Hội Tối Thượng Và Sự Mê Muội Giấu Kín Của Một Cô Gái
+ファボ！ラブ！大集合！　 至高の祭典と少女の秘めた推し事=Yêu Thương! Tình Yêu! Đại Hội Tụ Hội! Lễ Hội Tối Thượng Và Sự Mê Muội Giấu Kín Của Một Cô Gái
 
 56
-トライバルスピリッツ掲げる剣と誇りの架け橋=Tribal Spirits: The Bridge of Pride and Raised Swords
-トライバルスピリッツ　掲げる剣と誇りの架け橋=Tribal Spirits: The Bridge of Pride and Raised Swords
-トライバルスピリッツ　 掲げる剣と誇りの架け橋=Tribal Spirits: The Bridge of Pride and Raised Swords
+トライバルスピリッツ掲げる剣と誇りの架け橋=Tinh Thần Bộ Lạc: Cây Cầu Kiêu Hãnh Và Kiếm Vung Lên
+トライバルスピリッツ　掲げる剣と誇りの架け橋=Tinh Thần Bộ Lạc: Cây Cầu Kiêu Hãnh Và Kiếm Vung Lên
+トライバルスピリッツ　 掲げる剣と誇りの架け橋=Tinh Thần Bộ Lạc: Cây Cầu Kiêu Hãnh Và Kiếm Vung Lên
 
 57
-ハッピー・ハプニング幸せの双子天使と聖夜の贈り物=Happy Happening: Happy Twin Angels and Holy Night Gifts
-ハッピー・ハプニング　幸せの双子天使と聖夜の贈り物=Happy Happening: Happy Twin Angels and Holy Night Gifts
-ハッピー・ハプニング　 幸せの双子天使と聖夜の贈り物=Happy Happening: Happy Twin Angels and Holy Night Gifts
+ハッピー・ハプニング幸せの双子天使と聖夜の贈り物=Hạnh Phúc Diễn Ra: Hai Thiên Thần Hạnh Phúc Và Món Quà Đêm Thánh
+ハッピー・ハプニング　幸せの双子天使と聖夜の贈り物=Hạnh Phúc Diễn Ra: Hai Thiên Thần Hạnh Phúc Và Món Quà Đêm Thánh
+ハッピー・ハプニング　 幸せの双子天使と聖夜の贈り物=Hạnh Phúc Diễn Ra: Hai Thiên Thần Hạnh Phúc Và Món Quà Đêm Thánh
 58
-湯けむり忘年奇譚初日の出に盃を=Steamy Year-End Strange Tale: Raising a Cup to the First Sunrise
-湯けむり忘年奇譚　初日の出に盃を=Steamy Year-End Strange Tale: Raising a Cup to the First Sunrise
-湯けむり忘年奇譚　 初日の出に盃を=Steamy Year-End Strange Tale: Raising a Cup to the First Sunrise
+湯けむり忘年奇譚初日の出に盃を=Chuyện Lạ Nóng Hổi Cuối Năm: Nâng Ly Chào Mừng Bình Minh Đầu Năm
+湯けむり忘年奇譚　初日の出に盃を=Chuyện Lạ Nóng Hổi Cuối Năm: Nâng Ly Chào Mừng Bình Minh Đầu Năm
+湯けむり忘年奇譚　 初日の出に盃を=Chuyện Lạ Nóng Hổi Cuối Năm: Nâng Ly Chào Mừng Bình Minh Đầu Năm
 
 59
-リベレイト・ジ・エデン　 いつか、また会う未来で=Liberate the Eden: Someday in the Future, We Will Meet Again
-リベレイト・ジ・エデン　いつか、また会う未来で=Liberate the Eden: Someday in the Future, We Will Meet Again
-リベレイト・ジ・エデン　いつか、また会う未来で=Liberate the Eden: Someday in the Future, We Will Meet Again
-リベレイト・ジ・エデンいつか、また会う未来で=Liberate the Eden: Someday in the Future, We Will Meet Again
+リベレイト・ジ・エデン　 いつか、また会う未来で=Giải Phóng Vườn Địa Đàng: Một Ngày Nào Đó Trong Tương Lai, Chúng Ta Sẽ Gặp Lại Nhau
+リベレイト・ジ・エデン　いつか、また会う未来で=Giải Phóng Vườn Địa Đàng: Một Ngày Nào Đó Trong Tương Lai, Chúng Ta Sẽ Gặp Lại Nhau
+リベレイト・ジ・エデン　いつか、また会う未来で=Giải Phóng Vườn Địa Đàng: Một Ngày Nào Đó Trong Tương Lai, Chúng Ta Sẽ Gặp Lại Nhau
+リベレイト・ジ・エデンいつか、また会う未来で=Giải Phóng Vườn Địa Đàng: Một Ngày Nào Đó Trong Tương Lai, Chúng Ta Sẽ Gặp Lại Nhau
 
 60
-猫と駄菓子の喫茶店　カフェ・ナッシュカッツェにようこそ=Welcome to Café Naschkatze: The Coffee Shop for Cats and Snacks
-猫と駄菓子の喫茶店　カフェ・ナッシュカッツェにようこそ=Welcome to Café Naschkatze: The Coffee Shop for Cats and Snacks
-猫と駄菓子の喫茶店　 カフェ・ナッシュカッツェにようこそ=Welcome to Café Naschkatze: The Coffee Shop for Cats and Snacks
-猫と駄菓子の喫茶店　カフェ・ ナッシュカッツェにようこそ=Welcome to Café Naschkatze: The Coffee Shop for Cats and Snacks
+猫と駄菓子の喫茶店　カフェ・ナッシュカッツェにようこそ=Chào Mừng Đến Quán Cà Phê Naschkatze: Quán Cà Phê Cho Mèo Và Đồ Ăn Vặt
+猫と駄菓子の喫茶店　カフェ・ナッシュカッツェにようこそ=Chào Mừng Đến Quán Cà Phê Naschkatze: Quán Cà Phê Cho Mèo Và Đồ Ăn Vặt
+猫と駄菓子の喫茶店　 カフェ・ナッシュカッツェにようこそ=Chào Mừng Đến Quán Cà Phê Naschkatze: Quán Cà Phê Cho Mèo Và Đồ Ăn Vặt
+猫と駄菓子の喫茶店　カフェ・ ナッシュカッツェにようこそ=Chào Mừng Đến Quán Cà Phê Naschkatze: Quán Cà Phê Cho Mèo Và Đồ Ăn Vặt
 
 61
-Dears　 おかえりとただいまの約束=Dears: Promise of "Welcome back" and "I'm home"
-Dears　おかえりとただいまの約束=Dears: Promise of "Welcome back" and "I'm home"
-Dears　おかえりとただいまの約束=Dears: Promise of "Welcome back" and "I'm home"
-Dearsおかえりとただいまの約束=Dears: Promise of "Welcome back" and "I'm home"
+Dears　 おかえりとただいまの約束=Người Thân Yêu: Lời Hứa Của "Chào Mừng Trở Về" Và "Về Nhà Rồi"
+Dears　おかえりとただいまの約束=Người Thân Yêu: Lời Hứa Của "Chào Mừng Trở Về" Và "Về Nhà Rồi"
+Dears　おかえりとただいまの約束=Người Thân Yêu: Lời Hứa Của "Chào Mừng Trở Về" Và "Về Nhà Rồi"
+Dearsおかえりとただいまの約束=Người Thân Yêu: Lời Hứa Của "Chào Mừng Trở Về" Và "Về Nhà Rồi"
 
 62
-コネクト・ウィズ・ブルー　 少女が空に至るまで=Connect with Blue ~ Until she reaches the sky
-コネクト・ウィズ・ブルー 少女が空に至るまで=Connect with Blue ~ Until she reaches the sky
-コネクト・ウィズ・ブルー　少女が空に至るまで=Connect with Blue ~ Until she reaches the sky
-コネクト・ウィズ・ブルー少女が空に至るまで=Connect with Blue ~ Until she reaches the sky
+コネクト・ウィズ・ブルー　 少女が空に至るまで=Kết Nối Với Màu Xanh ~ Cho Đến Khi Cô Ắt Chạm Trời
+コネクト・ウィズ・ブルー 少女が空に至るまで=Kết Nối Với Màu Xanh ~ Cho Đến Khi Cô Ắt Chạm Trời
+コネクト・ウィズ・ブルー　少女が空に至るまで=Kết Nối Với Màu Xanh ~ Cho Đến Khi Cô Ắt Chạm Trời
+コネクト・ウィズ・ブルー少女が空に至るまで=Kết Nối Với Màu Xanh ~ Cho Đến Khi Cô Ắt Chạm Trời
 
 63
 
-ヴァンパイアフォークロア　 夜と美の饗宴=Vampire Folklore: Banquet of Night and Beauty
-ヴァンパイアフォークロア 夜と美の饗宴=Vampire Folklore: Banquet of Night and Beauty
-ヴァンパイアフォークロア　夜と美の饗宴=Vampire Folklore: Banquet of Night and Beauty
-ヴァンパイアフォークロア夜と美の饗宴=Vampire Folklore: Banquet of Night and Beauty
+ヴァンパイアフォークロア　 夜と美の饗宴=Tục Ngữ Ma Cà Rồng: Tiệc Đêm Và Vẻ Đẹp
+ヴァンパイアフォークロア 夜と美の饗宴=Tục Ngữ Ma Cà Rồng: Tiệc Đêm Và Vẻ Đẹp
+ヴァンパイアフォークロア　夜と美の饗宴=Tục Ngữ Ma Cà Rồng: Tiệc Đêm Và Vẻ Đẹp
+ヴァンパイアフォークロア夜と美の饗宴=Tục Ngữ Ma Cà Rồng: Tiệc Đêm Và Vẻ Đẹp
 
 64
-オーマの水からっぽ大作戦　 秘密主義者と禁断の海=Oma's Sea Draining Operations: Personal Secret and the Forbidden Sea
-オーマの水からっぽ大作戦 秘密主義者と禁断の海=Oma's Sea Draining Operations: Personal Secret and the Forbidden Sea
-オーマの水からっぽ大作戦　秘密主義者と禁断の海=Oma's Sea Draining Operations: Personal Secret and the Forbidden Sea
-オーマの水からっぽ大作戦秘密主義者と禁断の海=Oma's Sea Draining Operations: Personal Secret and the Forbidden Sea
+オーマの水からっぽ大作戦　 秘密主義者と禁断の海=Chiến Dịch Rút Nước Biển Của Oma: Bí Mật Cá Nhân Và Biển Cấm
+オーマの水からっぽ大作戦 秘密主義者と禁断の海=Chiến Dịch Rút Nước Biển Của Oma: Bí Mật Cá Nhân Và Biển Cấm
+オーマの水からっぽ大作戦　秘密主義者と禁断の海=Chiến Dịch Rút Nước Biển Của Oma: Bí Mật Cá Nhân Và Biển Cấm
+オーマの水からっぽ大作戦秘密主義者と禁断の海=Chiến Dịch Rút Nước Biển Của Oma: Bí Mật Cá Nhân Và Biển Cấm
 
 65
-戦慄幽奇海岸　 ～サマーリゾートスリラーズ～=Horror Ghost Coast - Summer Resort Thrillers
-戦慄幽奇海岸　～サマーリゾートスリラーズ～=Horror Ghost Coast - Summer Resort Thrillers
-戦慄幽奇海岸～サマーリゾートスリラーズ～=Horror Ghost Coast - Summer Resort Thrillers
+戦慄幽奇海岸　 ～サマーリゾートスリラーズ～=Bờ Biển Ma Quái - Các Bí Ẩn Khu Nghỉ Dưỡng Mùa Hè
+戦慄幽奇海岸　～サマーリゾートスリラーズ～=Bờ Biển Ma Quái - Các Bí Ẩn Khu Nghỉ Dưỡng Mùa Hè
+戦慄幽奇海岸～サマーリゾートスリラーズ～=Bờ Biển Ma Quái - Các Bí Ẩn Khu Nghỉ Dưỡng Mùa Hè
 
 66
-ウィザーディング・アオハル・デイズ　 魔法学園と奇跡の鐘=Wizarding Youth Days: The Magic Academy and the Bell of Miracles
-ウィザーディング・アオハル・デイズ　魔法学園と奇跡の鐘=Wizarding Youth Days: The Magic Academy and the Bell of Miracles
+ウィザーディング・アオハル・デイズ　 魔法学園と奇跡の鐘=Nhật Ký Tuổi Trẻ Phép Thuật: Học Viện Ma Thuật Và Chuông Gọi Phép Mầu Nhiệm
+ウィザーディング・アオハル・デイズ　魔法学園と奇跡の鐘=Nhật Ký Tuổi Trẻ Phép Thuật: Học Viện Ma Thuật Và Chuông Gọi Phép Mầu Nhiệm
 
 67
-ロマンシング・サラサリア　～砂漠の花嫁と不思議のランプ～=Romancing Salasaria: The Bride of the Desert and the Lamp of Wonders
-ロマンシング・サラサリア　 ～砂漠の花嫁と不思議のランプ～=Romancing Salasaria: The Bride of the Desert and the Lamp of Wonders
+ロマンシング・サラサリア　～砂漠の花嫁と不思議のランプ～=Lãng Mạn Salasaria: Cô Dâu Sa Mạc Và Chiếc Đèn Kỳ Diệu
+ロマンシング・サラサリア　 ～砂漠の花嫁と不思議のランプ～=Lãng Mạn Salasaria: Cô Dâu Sa Mạc Và Chiếc Đèn Kỳ Diệu
 
 68
-クリミナルルーキー　天使たちのパラドクス=Criminal Rookie: Paradox of the Angels
-クリミナル ルーキー　天使たちのパラドクス=Criminal Rookie: Paradox of the Angels
-クリミナル ルーキー　 天使たちのパラドクス=Criminal Rookie: Paradox of the Angels
+クリミナルルーキー　天使たちのパラドクス=Tân Binh Tội Phạm: Nghịch Lý Của Các Thiên Thần
+クリミナル ルーキー　天使たちのパラドクス=Tân Binh Tội Phạm: Nghịch Lý Của Các Thiên Thần
+クリミナル ルーキー　 天使たちのパラドクス=Tân Binh Tội Phạm: Nghịch Lý Của Các Thiên Thần
 
 69
-クライ・ベイビー・クリスマス　誰が為の幸福なる日=Crybaby Christmas: A Blessed Day for Another's Sake
+クライ・ベイビー・クリスマス　誰が為の幸福なる日=Giáng Sinh Khóc Lóc: Một Ngày May Mắn Vì Người Khác
 
 70
-迎春ドリーマーズ！　新年、あけましてお隕石（メテオ）！？=Spring Greeting Dreamers! Happy New Meteor?!
+迎春ドリーマーズ！　新年、あけましてお隕石（メテオ）！？=Lời Chào Mừng Mùa Xuân, Các Giấc Mơ! Chúc Mừng Năm Mới Sao Băng?!
 
 71
-I Wish　 握りしめるこの手を【前編】=I Wish: This Hand I Hold [Part 1]
-I Wish　 握りしめるこの手を【後編】=I Wish: This Hand I Hold [Part 2]
-I Wish　 握りしめるこの手を=I Wish: This Hand I Hold
+I Wish　 握りしめるこの手を【前編】=Tôi Mong: Bàn Tay Này Tôi Nắm [Phần 1]
+I Wish　 握りしめるこの手を【後編】=Tôi Mong: Bàn Tay Này Tôi Nắm [Phần 2]
+I Wish　 握りしめるこの手を=Ước Nguyện: Bàn Tay Nắm Giữ
 
 72
-真冬の真夏と聖なる学舎の異端児=Midwinter’s Midsummer and the Saintly School Lycéennes
+真冬の真夏と聖なる学舎の異端児=Mùa Hè Giữa Mùa Đông và Các Nữ Sinh Trường Thánh
 
 73
-クーリィ・フューリィ・ブートキャンプ　鬼教官と鞭と…飴？=Coolly Fury Boot Camp: Drill Instructor From Hell, Punishment and... Reward?
+クーリィ・フューリィ・ブートキャンプ　鬼教官と鞭と…飴？=Trại Huấn Luyện Sự Tức Giận Lạnh Lùng: Huấn Luyện Viên Từ Địa Ngục, Trừng Phạt và... Phần Thưởng?
 
 74
-花咲く季節のサンセリテ=Blooming Season Sincérité
+花咲く季節のサンセリテ=Mùa Nở Rộ Sincérité
 
 75
-グランドリーム・オンパレード宝石兎と秘密の仲間たち=Grand Dream On Parade: Carbuncle and Secret Friends
-グランドリーム・オンパレード　宝石兎と秘密の仲間たち=Grand Dream On Parade: Carbuncle and Secret Friends
-グランドリーム・オンパレード　 宝石兎と秘密の仲間たち=Grand Dream On Parade: Carbuncle and Secret Friends
+グランドリーム・オンパレード宝石兎と秘密の仲間たち=Đại Hội Mơ Ước: Carbuncle và Bạn Bí Mật
+グランドリーム・オンパレード　宝石兎と秘密の仲間たち=Đại Hội Mơ Ước: Carbuncle và Bạn Bí Mật
+グランドリーム・オンパレード　 宝石兎と秘密の仲間たち=Đại Hội Mơ Ước: Carbuncle và Bạn Bí Mật
 
 76
-あつまれイイコトクラブ！ミソラの愉快な夏休み=Gather all! The Good Things Club! ~Misora's Amusing Summer Vacation~
-あつまれイイコトクラブ！　ミソラの愉快な夏休み=Gather all! The Good Things Club! ~Misora's Amusing Summer Vacation~
-あつまれイイコトクラブ！　 ミソラの愉快な夏休み=Gather all! The Good Things Club! ~Misora's Amusing Summer Vacation~
+あつまれイイコトクラブ！ミソラの愉快な夏休み=Tập Hết! Câu Lạc Bộ Những Điều Tốt Đẹp! ~Kỳ Nghỉ Hè Vui Vẻ Của Misora~
+あつまれイイコトクラブ！　ミソラの愉快な夏休み=Tập Hết! Câu Lạc Bộ Những Điều Tốt Đẹp! ~Kỳ Nghỉ Hè Vui Vẻ Của Misora~
+あつまれイイコトクラブ！　 ミソラの愉快な夏休み=Tập Hết! Câu Lạc Bộ Những Điều Tốt Đẹp! ~Kỳ Nghỉ Hè Vui Vẻ Của Misora~
 
 77
-幻惑の妖精‐真夏の園で舞踊る影‐=Bewitching Fairy - The Shadow dancing in the Midsummer Garden
-幻惑の妖精　‐真夏の園で舞踊る影‐=Bewitching Fairy - The Shadow dancing in the Midsummer Garden
-幻惑の妖精　 ‐真夏の園で舞踊る影‐=Bewitching Fairy - The Shadow dancing in the Midsummer Garden
+幻惑の妖精‐真夏の園で舞踊る影‐=Yêu Tinh Quyến Rũ - Bóng Đêm Vũ Đạo trong Vườn Mùa Hè Giữa
+幻惑の妖精　‐真夏の園で舞踊る影‐=Yêu Tinh Quyến Rũ - Bóng Đêm Vũ Đạo trong Vườn Mùa Hè Giữa
+幻惑の妖精　 ‐真夏の園で舞踊る影‐=Yêu Tinh Quyến Rũ - Bóng Đêm Vũ Đạo trong Vườn Mùa Hè Giữa
 
 78
-Re:ゼロから楽しむ異世界サマー=Re: Summer in a Different World From Zero
+Re:ゼロから楽しむ異世界サマー=Re: Mùa Hè Ở Thế Giới Khác Từ Số Không
 みんなの ラジーオタイソー
 Everyone's Radio Exercise
 
 79
-ノゾミの一日店長記こちらアルケス錬金堂=Records of Nozomi - Store Manager for a Day
-ノゾミの一日店長記　こちらアルケス錬金堂=Records of Nozomi - Store Manager for a Day
-ノゾミの一日店長記　 こちらアルケス錬金堂=Records of Nozomi - Store Manager for a Day
+ノゾミの一日店長記こちらアルケス錬金堂=Hồi Ký Của Nozomi - Quản Lý Cửa Hàng Trong Một Ngày
+ノゾミの一日店長記　こちらアルケス錬金堂=Hồi Ký Của Nozomi - Quản Lý Cửa Hàng Trong Một Ngày
+ノゾミの一日店長記　 こちらアルケス錬金堂=Hồi Ký Của Nozomi - Quản Lý Cửa Hàng Trong Một Ngày
 
 80
-バンディット・リターンズ炎国の無法姉妹=Bandit Returns! - Lawless Sisters of the Inferno Kingdom
-バンディット・リターンズ　炎国の無法姉妹=Bandit Returns! - Lawless Sisters of the Inferno Kingdom
-バンディット・リターンズ　 炎国の無法姉妹=Bandit Returns! - Lawless Sisters of the Inferno Kingdom
+バンディット・リターンズ炎国の無法姉妹=Cướp Trở Lại! - Các Chị Em Vô Luật Của Vương Quốc Địa Ngục
+バンディット・リターンズ　炎国の無法姉妹=Cướp Trở Lại! - Các Chị Em Vô Luật Của Vương Quốc Địa Ngục
+バンディット・リターンズ　 炎国の無法姉妹=Cướp Trở Lại! - Các Chị Em Vô Luật Của Vương Quốc Địa Ngục
 
 81
-ラブ＆パニッシュメント悪魔が届けるクリスマス=Love & Punishment: Christmas brought to you by a demon
-ラブ＆パニッシュメント　悪魔が届けるクリスマス=Love & Punishment: Christmas brought to you by a demon
-ラブ＆パニッシュメント　 悪魔が届けるクリスマス=Love & Punishment: Christmas brought to you by a demon
+ラブ＆パニッシュメント悪魔が届けるクリスマス=Tình Yêu & Trừng Phạt: Giáng Sinh Được Mang Đến Bởi Ma Quỷ
+ラブ＆パニッシュメント　悪魔が届けるクリスマス=Tình Yêu & Trừng Phạt: Giáng Sinh Được Mang Đến Bởi Ma Quỷ
+ラブ＆パニッシュメント　 悪魔が届けるクリスマス=Tình Yêu & Trừng Phạt: Giáng Sinh Được Mang Đến Bởi Ma Quỷ
 
 82
-迎春ジオ・ゲヘナ　蛇乙女と双麗の剣士=New Year's Gio Gehenna: Serpent Maiden and Twin Swordswomen
-迎春ジオ・ゲヘナ　 蛇乙女と双麗の剣士=New Year's Gio Gehenna: Serpent Maiden and Twin Swordswomen
+迎春ジオ・ゲヘナ　蛇乙女と双麗の剣士=Năm Mới Gio Gehenna: Thiếu Nữ Rắn và Hai Nữ Kiếm Sĩ
+迎春ジオ・ゲヘナ　 蛇乙女と双麗の剣士=Năm Mới Gio Gehenna: Thiếu Nữ Rắn và Hai Nữ Kiếm Sĩ
 
 83
-ダイブ・アストルム　七つの願いと創世の残響=Dive Astrum: Seven Wishes and the Echoes of Genesis
-ダイブ・アストルム　 七つの願いと創世の残響=Dive Astrum: Seven Wishes and the Echoes of Genesis
+ダイブ・アストルム　七つの願いと創世の残響=Dive Astrum: Bảy Ước Nguyện và Tiếng Vang Của Sự Khởi Đầu
+ダイブ・アストルム　 七つの願いと創世の残響=Dive Astrum: Bảy Ước Nguyện và Tiếng Vang Của Sự Khởi Đầu
 
 84
-アンダンテ・ウィズ・ユー　祈りの双唱が響く時=Andante With You: When the Duet of Prayer Resounds
-アンダンテ・ウィズ・ユー　 祈りの双唱が響く時=Andante With You: When the Duet of Prayer Resounds
+アンダンテ・ウィズ・ユー　祈りの双唱が響く時=Andante Cùng Bạn: Khi Bản Đối Tụng Cầu Nguyện Vang Lên
+アンダンテ・ウィズ・ユー　 祈りの双唱が響く時=Andante Cùng Bạn: Khi Bản Đối Tụng Cầu Nguyện Vang Lên
 
 85
-超鋼乙女ギガンティックローチェ　～大出撃！ランドソル爆発４.１秒前～=Ultra RoboGirl Gigantic Croce - Grand Sortie! Landosol Explosion 4.1 Seconds Before
-超鋼乙女ギガンティックローチェ　 ～大出撃！ランドソル爆発４.１秒前～=Ultra RoboGirl Gigantic Croce - Grand Sortie! Landosol Explosion 4.1 Seconds Before
+超鋼乙女ギガンティックローチェ　～大出撃！ランドソル爆発４.１秒前～=Ultra RoboGirl Gigantic Croce - Đợt Ra Trận Lớn! Nổ Landosol 4.1 Giây Trước
+超鋼乙女ギガンティックローチェ　 ～大出撃！ランドソル爆発４.１秒前～=Ultra RoboGirl Gigantic Croce - Đợt Ra Trận Lớn! Nổ Landosol 4.1 Giây Trước
 
 86
-結集！　アルケス＆トワイライト　闇医者と二人の錬金術師=Unite! Alces & Twilight: The Back-alley Doctor and the Two Alchemists
+結集！　アルケス＆トワイライト　闇医者と二人の錬金術師=Đoàn Kết! Alces & Twilight: Bác Sĩ Hẻm Lưng và Hai Nhà Giả Kim
 
 87
-ド令嬢カノンの華麗なるおリベンジ　～ツンデレおピンクを添えて～=Lady Kanon's Magnificent Revenge ~With a Touch of Tsundere Pink~
-ド令嬢カノンの華麗なるおリベンジ ～ツンデレおピンクを添えて～=Lady Kanon's Magnificent Revenge ~With a Touch of Tsundere Pink~
+ド令嬢カノンの華麗なるおリベンジ　～ツンデレおピンクを添えて～=Sự Trả Thù Lộng Lẫy Của Lady Kanon ~Với Một Chút Tsundere Hồng~
+ド令嬢カノンの華麗なるおリベンジ ～ツンデレおピンクを添えて～=Sự Trả Thù Lộng Lẫy Của Lady Kanon ~Với Một Chút Tsundere Hồng~
 
 88
-サマードリーム・リフレイン　\n水平線の彼方の旅路=Summer Dream Refrain: A Journey Beyond the Horizon
-サマードリーム・リフレイン　水平線の彼方の旅路=Summer Dream Refrain: A Journey Beyond the Horizon
+サマードリーム・リフレイン　\n水平線の彼方の旅路=Mùa Hè Mơ Giữ Lại: Hành Trình Vượt Qua Đường Chân Trời
+サマードリーム・リフレイン　水平線の彼方の旅路=Mùa Hè Mơ Giữ Lại: Hành Trình Vượt Qua Đường Chân Trời
 
 90
-, And I Will　掴み取るこの手で=And I Will Grab It With These Hands
+, And I Will　掴み取るこの手で=Và Tôi Sẽ Nắm Lấy Nó Bằng Những Bàn Tay Này
 
 91
-Demon/Snow　起死回生ノ冥府旅情=Demon/Snow: Netherworld Journey of Resurrection
+Demon/Snow　起死回生ノ冥府旅情=Ma/Đồng: Hành Trình Phục Sinh Từ Địa Ngục
 
 92
-煉獄の名探偵　すべてがＷ（ウェブ）になる=The Great Detective of Purgatory: Everything Turns to Web
+煉獄の名探偵　すべてがＷ（ウェブ）になる=Thám Tử Lớn Của Purgatory: Mọi Thứ Đều Biến Thành Mạng Nhện
 
 93
-サイレント（ラスト）ナイト　ユイvsミソラのクリスマス大決戦=Silent (Last) Night: Yui vs Misora's Christmas Showdown
-サイレント（ラスト）ナイトユイvsミソラのクリスマス大決戦=Silent (Last) Night: Yui vs Misora's Christmas Showdown
+サイレント（ラスト）ナイト　ユイvsミソラのクリスマス大決戦=Đêm Tĩnh Lặng (Cuối Cùng): Trận Chiến Giáng Sinh Của Yui vs Misora
+サイレント（ラスト）ナイトユイvsミソラのクリスマス大決戦=Đêm Tĩnh Lặng (Cuối Cùng): Trận Chiến Giáng Sinh Của Yui vs Misora
 
 
 94
-Labyrinth -reboot　重なる黎明の標=Labyrinth-reboot: The Overlapping Sign of Dawn
+Labyrinth -reboot　重なる黎明の標=Mê Cung-Khởi Động Lại: Dấu Hiệu Chồng Chéo Bình Minh
 
 95
-Grand Cru Royal　召しませ！ハートフルコース=Grand Cru Royal: Invitation to a heartfull course
+Grand Cru Royal　召しませ！ハートフルコース=Grand Cru Royal: Lời Mời Đến Khóa Học Từ Trái Tim

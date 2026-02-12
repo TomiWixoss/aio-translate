@@ -1,27 +1,27 @@
 ##Profile##
-【魔法】前衛で、猛攻をバリアで受けきる闇のドＭ娘。最も魔法攻撃力が高い味方の魔法攻撃力とクリティカルをアップさせ、魔法防御力ダウンスキルで敵を怯ませる。=[Magic] A dark and masochistic girl who stands at the front line, enduring fierce attacks with her barrier. She boosts the M.ATK and M.CRIT Rate of an ally with the highest M.ATK, and uses a skill to lower enemies' M.DEF, making them flinch.
+【魔法】前衛で、猛攻をバリアで受けきる闇のドＭ娘。最も魔法攻撃力が高い味方の魔法攻撃力とクリティカルをアップさせ、魔法防御力ダウンスキルで敵を怯ませる。=[Ma Thuật] Một cô gái masochist tối tăm đứng ở tuyến đầu, chịu đựng những đòn tấn công dữ dội bằng rào cản của mình. Cô tăng M.ATK và Tỷ Lệ Chí Mạng Ma Thuật cho đồng minh có M.ATK cao nhất, và dùng kỹ năng để hạ M.DEF của kẻ địch, khiến chúng giật mình.
 
 ##UB##
-クウカ・ドМ・エクスプロージョン=Kuuka's M Explosion
+クウカ・ドМ・エクスプロージョン=Bùng Nổ Ma Thuật Của Kuuka
 
 ##S1##
-ドМ・シェアリング=M Sharing
-自分に物理/魔法無効バリアを展開し、さらに最も魔法攻撃力が高い味方１キャラの魔法攻撃力と魔法クリティカルを大アップさせる。=Deploys Barrier over oneself that absorbs P/M.DMG. Additionally, greatly boosts an ally's M.ATK and M.CRIT Rate with the highest M.ATK.
-r:"^味方単体の魔法攻撃力を(\d+)アップ味方単体の魔法クリティカルを(\d+)アップ(\d+)ダメージ分の物理魔法無効バリアを展開する$"=►Boosts an ally's M.ATK by $1 for 12s.\n►Boosts an ally's M.CRIT Rate by $2 for 12s.\n►Deploys Barrier over oneself that absorbs $3 P/M.DMG for 12s.
+ドМ・シェアリング=Chia Sẻ Ma Thuật
+自分に物理/魔法無効バリアを展開し、さらに最も魔法攻撃力が高い味方１キャラの魔法攻撃力と魔法クリティカルを大アップさせる。=Triển khai Rào Cản lên bản thân hấp thụ Sát Thương Vật Lý/Ma Thuật. Ngoài ra, tăng mạnh M.ATK và Tỷ Lệ Chí Mạng Ma Thuật cho đồng minh có M.ATK cao nhất.
+r:"^味方単体の魔法攻撃力を(\d+)アップ味方単体の魔法クリティカルを(\d+)アップ(\d+)ダメージ分の物理魔法無効バリアを展開する$"=►Tăng M.ATK của đồng minh lên $1 trong 12s.\n►Tăng Tỷ Lệ Chí Mạng Ma Thuật của đồng minh lên $2 trong 12s.\n►Triển khai Rào Cản lên bản thân hấp thụ $3 Sát Thương Vật Lý/Ma Thuật trong 12s.
 
 ##S2##
-ドМ・パッション=M Passion
-目の前の敵１キャラに魔法小ダメージを与え、魔法防御力を小ダウンさせる。さらに、自分のＨＰを大回復し、物理防御力を大アップさせる。=Deals small M.DMG to an enemy in front and lowers its M.DEF. Additionally, greatly recovers own HP and greatly boosts own P.DEF.
-r:"^敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン自分のＨＰを(\d+)回復自分の物理防御力を(\d+)アップ$"=►Deals $1 M.DMG to an enemy.\n►Lowers an enemy's M.DEF by $2 for 12s.\n►Recovers own HP by $3.\n►Boosts own P.DEF by $4 for 12s.
+ドМ・パッション=Nhiệt Huyết Ma Thuật
+目の前の敵１キャラに魔法小ダメージを与え、魔法防御力を小ダウンさせる。さらに、自分のＨＰを大回復し、物理防御力を大アップさせる。=Gây sát thương ma thuật nhỏ cho kẻ địch phía trước và hạ M.DEF của chúng. Ngoài ra, hồi HP bản thân rất lớn và tăng P.DEF bản thân rất lớn.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン自分のＨＰを(\d+)回復自分の物理防御力を(\d+)アップ$"=►Gây $1 Sát Thương Ma Thuật cho kẻ địch.\n►Hạ M.DEF của kẻ địch đi $2 trong 12s.\n►Hồi HP bản thân thêm $3.\n►Tăng P.DEF bản thân lên $4 trong 12s.
 
 ##EX##
-ドＭ・フィールド=M Field
-ドＭ・フィールド+=M Field+
+ドＭ・フィールド=Vùng Ma Thuật
+ドＭ・フィールド+=Vùng Ma Thuật+
 
 ##S1+##
-ドМ・シェアリング+=M Sharing+
-自分に物理/魔法吸収バリアを展開し、継続ＨＰ回復状態を付与する。さらに、最も魔法攻撃力が高い味方１キャラの魔法攻撃力と魔法クリティカルを特大アップさせ、魔法攻撃クリティカル時のダメージを小アップさせる。=Deploys Barrier over oneself that absorbs P/M.DMG and grants continuous HP recovery. Additionally, greatly boosts an ally's M.ATK and M.CRIT Rate with the highest M.ATK, and slightly boosts its M.CRIT DMG.
-r:"^味方単体の魔法攻撃力を(\d+)アップ味方単体の魔法クリティカルを(\d+)アップ味方単体の魔法攻撃クリティカル時のダメージを10%アップ(\d+)ダメージ分の物理魔法吸収バリアを展開する毎秒ＨＰを(\d+)回復する$"=►Boosts an ally's M.ATK by $1 for 12s.\n►Boosts an ally's M.CRIT Rate by $2 for 12s.\n►Boosts an ally's M.CRIT DMG by 10% for 12s.\n►Deploys Barrier over oneself that absorbs $3 P/M.DMG for 12s.\n►Recovers own HP by $4/s for 6s.
+ドМ・シェアリング+=Chia Sẻ Ma Thuật+
+自分に物理/魔法吸収バリアを展開し、継続ＨＰ回復状態を付与する。さらに、最も魔法攻撃力が高い味方１キャラの魔法攻撃力と魔法クリティカルを特大アップさせ、魔法攻撃クリティカル時のダメージを小アップさせる。=Triển khai Rào Cản lên bản thân hấp thụ Sát Thương Vật Lý/Ma Thuật và cấp hồi HP liên tục. Ngoài ra, tăng mạnh M.ATK và Tỷ Lệ Chí Mạng Ma Thuật cho đồng minh có M.ATK cao nhất, và tăng nhẹ Sát Thương Chí Mạng Ma Thuật của họ.
+r:"^味方単体の魔法攻撃力を(\d+)アップ味方単体の魔法クリティカルを(\d+)アップ味方単体の魔法攻撃クリティカル時のダメージを10%アップ(\d+)ダメージ分の物理魔法吸収バリアを展開する毎秒ＨＰを(\d+)回復する$"=►Tăng M.ATK của đồng minh lên $1 trong 12s.\n►Tăng Tỷ Lệ Chí Mạng Ma Thuật của đồng minh lên $2 trong 12s.\n►Tăng Sát Thương Chí Mạng Ma Thuật của đồng minh lên 10% trong 12s.\n►Triển khai Rào Cản lên bản thân hấp thụ $3 Sát Thương Vật Lý/Ma Thuật trong 12s.\n►Hồi HP bản thân $4/giây trong 6s.
 
 ##UE##
-闇のドＭオーブ=Dark M Orb
+闇のドＭオーブ=Quỷ Thể Ma Thuật

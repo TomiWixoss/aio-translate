@@ -1,20 +1,20 @@
 ##Profile##
-【物理】前衛で、夏の麦しゅわを嗜むビーチの元聖騎士。敵単体にダメージを与えながら、周囲の味方への魔法無効バリア付与と魔防アップで守りを固めて勝利の波に乗る。=[Physical] A former paladin drinking sparkling wheat juice in the summer frontlines. She deals single target damage, and protects nearby allies with an anti-magic barrier and buffing their magic defense. With these skills, she rides the wave of victory!
+【物理】前衛で、夏の麦しゅわを嗜むビーチの元聖騎士。敵単体にダメージを与えながら、周囲の味方への魔法無効バリア付与と魔防アップで守りを固めて勝利の波に乗る。=[Vật Lý] Một cựu kỵ sĩ thiêng liêng uống nước lúa mạch có ga ở mặt trận mùa hè. Cô gây sát thương mục tiêu đơn, và bảo vệ đồng minh gần đó với rào chống phép thuật và tăng phòng thủ ma thuật. Với những kỹ năng này, cô cưỡi làn sóng chiến thắng!
 
 ##UB##
 サント・ミ・チェラーダ=Saint Michelada
-自分の物理攻撃力を大アップし、目の前の敵１キャラに物理特大ダメージを与える。さらに自分のＨＰを中回復し、自分を中心とした範囲内の味方すべてに魔法無効バリアを展開する。=Greatly boosts own P.ATK and deals massive P.DMG to an enemy in front. Additionally, moderately recovers own HP and deploys Barrier over allies in range that negates M.DMG.
-r:"^自分の物理攻撃力を(\d+)アップ敵単体に(\d+)の物理ダメージ自分のＨＰを(\d+)回復(\d+)ダメージ分の魔法無効バリアを展開する$"=►Boosts own P.ATK by $1 for 18s.\n►Deals $2 P.DMG to an enemy.\n►Recovers own HP by $3.\n►Deploys Barrier over allies in 350 range that negates $4 M.DMG for 18s.
+自分の物理攻撃力を大アップし、目の前の敵１キャラに物理特大ダメージを与える。さらに自分のＨＰを中回復し、自分を中心とした範囲内の味方すべてに魔法無効バリアを展開する。=Tăng mạnh Tấn Công Vật Lý của bản thân và gây sát thương Vật Lý lớn lên kẻ địch phía trước. Ngoài ra, hồi phục một lượng nhỏ HP của bản thân và triển khai Rào Chống Phép Thuật lên đồng minh trong phạm vi, bỏ qua Sát Thương Ma Thuật.
+r:"^自分の物理攻撃力を(\d+)アップ敵単体に(\d+)の物理ダメージ自分のＨＰを(\d+)回復(\d+)ダメージ分の魔法無効バリアを展開する$"=►Tăng Tấn Công Vật Lý của bản thân lên $1 trong 18s.\n►Gây $2 Sát Thương Vật Lý lên kẻ địch.\n►Hồi phục HP của bản thân lên $3.\n►Triển khai Rào Chống Phép Thuật lên đồng minh trong phạm vi 350, bỏ qua $4 Sát Thương Ma Thuật trong 18s.
 
 ##S1##
 サマーディライト=Summer Delight
-自分を中心とした範囲内の味方すべての魔法防御力を中アップし、自分のＴＰを小回復する。=Moderately boosts allies' M.DEF in range, and slightly recovers own TP.
-r:"^範囲内の味方の魔法防御力を(\d+)アップ自分のＴＰを100回復$"=►Boosts allies' M.DEF in 350 range by $1 for 12s.\n►Recovers own TP by 100.
+自分を中心とした範囲内の味方すべての魔法防御力を中アップし、自分のＴＰを小回復する。=Tăng trung bình Phòng Thủ Ma Thuật của đồng minh trong phạm vi, và hồi phục nhỏ TP của bản thân.
+r:"^範囲内の味方の魔法防御力を(\d+)アップ自分のＴＰを100回復$"=►Tăng Phòng Thủ Ma Thuật của đồng minh trong phạm vi 350 lên $1 trong 12s.\n►Hồi phục TP của bản thân lên 100.
 
 ##S2##
 シャンディガフ=Shandy Gaff
-目の前の敵１キャラに物理大ダメージを与え、自分を中心とした範囲内の味方すべての物理攻撃力を大アップさせる。=Deals large P.DMG to an enemy in front and greatly boosts allies' P.ATK in range.
-r:"^敵単体に(\d+)の物理ダメージ範囲内の味方の物理攻撃力を(\d+)アップ$"=►Deals $1 P.DMG to an enemy.\n►Boosts allies' P.ATK in 350 range by $2 for 12s.
+目の前の敵１キャラに物理大ダメージを与え、自分を中心とした範囲内の味方すべての物理攻撃力を大アップさせる。=Gây sát thương Vật Lý lớn lên kẻ địch phía trước và tăng mạnh Tấn Công Vật Lý của đồng minh trong phạm vi.
+r:"^敵単体に(\d+)の物理ダメージ範囲内の味方の物理攻撃力を(\d+)アップ$"=►Gây $1 Sát Thương Vật Lý lên kẻ địch.\n►Tăng Tấn Công Vật Lý của đồng minh trong phạm vi 350 lên $2 trong 12s.
 
 ##EX##
 サマー・パナシェ=Summer Panaché
@@ -22,22 +22,22 @@ r:"^敵単体に(\d+)の物理ダメージ範囲内の味方の物理攻撃力�
 
 ##S1+##
 サマーディライト+=Summer Delight+
-自分を中心とした範囲内の味方すべての物理攻撃力を大アップ、魔法防御力を中アップさせ、目の前の敵１キャラの魔法攻撃力を特大ダウンさせる。さらに自分のＴＰを中回復する。=Greatly boosts allies' P.ATK in range and moderately boosts their M.DEF. Massively lowers an enemy's M.ATK, and moderately recovers own TP.
-r:"^範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の魔法防御力を(\d+)アップ敵単体の魔法攻撃力を(\d+)ダウン自分のＴＰを200回復$"=►Boosts allies' P.ATK in 350 range by $1 for 12s.\n►Boosts allies' M.DEF in 350 range by $2 for 12s.\n►Lowers an enemy's M.ATK by $3 for 12s.\n►Recovers own TP by 200.
+自分を中心とした範囲内の味方すべての物理攻撃力を大アップ、魔法防御力を中アップさせ、目の前の敵１キャラの魔法攻撃力を特大ダウンさせる。さらに自分のＴＰを中回復する。=Tăng mạnh Tấn Công Vật Lý của đồng minh trong phạm vi và tăng trung bình Phòng Thủ Ma Thuật của họ. Giảm mạnh Tấn Công Ma Thuật của kẻ địch, và hồi phục trung bình TP của bản thân.
+r:"^範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の魔法防御力を(\d+)アップ敵単体の魔法攻撃力を(\d+)ダウン自分のＴＰを200回復$"=►Tăng Tấn Công Vật Lý của đồng minh trong phạm vi 350 lên $1 trong 12s.\n►Tăng Phòng Thủ Ma Thuật của đồng minh trong phạm vi 350 lên $2 trong 12s.\n►Giảm Tấn Công Ma Thuật của kẻ địch lên $3 trong 12s.\n►Hồi phục TP của bản thân lên 200.
 
 ##UE##
 夏の聖騎士ジョッキ=Holy Knight Summer Tankard
 
 ##Comments##
-ふう、暑いわね…\n熱中症には気を付けないと\n喉がかわいたらすぐに言ってね？\n麦しゅわ以外も用意してるわよ♪=*Sigh* It's so hot... If you're thirsty, tell me right away so you don't get heatstroke, okay? I've got everything you need than just barley soda♪
-夏の海辺の仕事なら水着が効率的\nってみんなが言ってたけど\nもしかして…うちのギルドだけの\n常識だったんじゃ…=Everyone said swimsuits are more efficient when it comes to beach work in the summer, but maybe... maybe it was just common sense only in my guild...
-聖騎士っぽい水着、って\n注文したんだけど…\nどの辺がそれっぽいのかしら？\n…もしかして、色？=I ordered a Holy Knight-esque swimsuit... I wonder what part of it looks like that? Could it be the color?
-キミに見られるなら、\nもう少しおとなしいデザインの\n水着がよかったかも…\nう、ううん…なんでもないわ=If you were going to see it, I might have preferred a slightly more subdued design... N-No... It's nothing.
-この水着、どう…かな？\n少しは夏っぽい格好してたほうが\nキミも涼しく感じるかな、なんて\n思ったんだけど…=What do you think of this swimsuit? I thought it'd be cooler if I wore something a little summery, but...
-せっかくの海なんだもの\nタマキさんとミフユさんに\n負けないくらい\n楽しんじゃいましょ♪=Since we're at the beach, let's have so much fun that we won't lose to Tamaki-san and Mifuyu-san♪
-暑いときはすっきりした\nセゾン系もいいけど…\n私はボディがしっかりしてる\nアベイ系が好きだわ♪=When it's hot, the refreshing Saizon drink is nice, but... I also like the Abbay drink with a solid texture♪
-普段忙しければ忙しいほど\n遊べるときにしっかりと遊んで\n日常とメリハリをつけるの\n社会人からのアドバイスよ♪=The busier you are, the more you should play when you can to keep your daily life in balance. That's some advice from a working adult♪
-青い海！　白い泡！\nそして、キミ…！\n必要なものが全部あるんだもの\nふふっ、ここはまるで天国ね=Blue sea! White foam! And you...! I have everything I need! Hehehe, this is like heaven.
-せっかくのバカンスが\nキミと二人きりじゃないのは\nちょっと残念だけど…\nそれはまた今度、ね♪=It's a bit of a shame that my vacation isn't just alone with you, but... I'll save that for another time♪
-お誕生日おめでとう♪\n急いで来ちゃったから\nこんな格好でごめんね？\n少しでも早くお祝いしたかったの=Happy Birthday♪ I came in a hurry, so I'm sorry I dressed like this, okay? I wanted to celebrate as soon as possible.
-ハッピーバースデー、キーミッ♪\nさあ、めでたい日なんだから\n盛大にお祝いしなくちゃ\nはい、カンパーイ♪=Happy Birthday, dear♪ Now, it's a happy day, so we've gotta celebrate it with all our might! Here we go! Cheers!
+ふう、暑いわね…\n熱中症には気を付けないと\n喉がかわいたらすぐに言ってね？\n麦しゅわ以外も用意してるわよ♪=*Thở dài* Trời nóng quá... Nếu khát, cậu hãy nói ngay để tránh say nắng, được chứ? Tôi có mọi thứ cậu cần ngoài cả barley soda♪
+夏の海辺の仕事なら水着が効率的\nってみんなが言ってたけど\nもしかして…うちのギルドだけの\n常識だったんじゃ…=Mọi người nói đồ bơi hiệu quả hơn khi làm việc ở bãi biển vào mùa hè, nhưng có lẽ... có lẽ đó chỉ là ý thức chung trong guild của tôi...
+聖騎士っぽい水着、って\n注文したんだけど…\nどの辺がそれっぽいのかしら？\n…もしかして、色？=Tôi đã đặt một bộ đồ bơi theo phong cách Holy Knight... Tôi tự hỏi phần nào trông giống thế? Có phải màu sắc không?
+キミに見られるなら、\nもう少しおとなしいデザインの\n水着がよかったかも…\nう、ううん…なんでもないわ=Nếu cậu định nhìn thấy nó, tôi có thể thích một thiết kế điềm tĩnh hơn một chút... K-Không... Không có gì.
+この水着、どう…かな？\n少しは夏っぽい格好してたほうが\nキミも涼しく感じるかな、なんて\n思ったんだけど…=Cậu nghĩ sao về bộ đồ bơi này? Tôi nghĩ sẽ mát hơn nếu mặc thứ gì đó hơi mùa hè một chút, nhưng...
+せっかくの海なんだもの\nタマキさんとミフユさんに\n負けないくらい\n楽しんじゃいましょ♪=Vì chúng ta đang ở bãi biển, hãy vui vẻ đến mức không thua kém Tamaki-san và Mifuyu-san♪
+暑いときはすっきりした\nセゾン系もいいけど…\n私はボディがしっかりしてる\nアベイ系が好きだわ♪=Khi trời nóng, đồ uống Saizon mát là tốt, nhưng... Tôi cũng thích đồ uống Abbay có kết cấu chắc chắn♪
+普段忙しければ忙しいほど\n遊べるときにしっかりと遊んで\n日常とメリハリをつけるの\n社会人からのアドバイスよ♪=Bạn càng bận rộn, bạn càng nên chơi khi có thể để giữ cân bằng cuộc sống hàng ngày. Đó là một lời khuyên từ người đi làm trưởng thành♪
+青い海！　白い泡！\nそして、キミ…！\n必要なものが全部あるんだもの\nふふっ、ここはまるで天国ね=Biển xanh! Bọt trắng! Và cậu...! Tôi có tất cả những gì cần! Hehehe, đây giống như thiên đường.
+せっかくのバカンスが\nキミと二人きりじゃないのは\nちょっと残念だけど…\nそれはまた今度、ね♪=Hơi tiếc vì kỳ nghỉ của tôi không chỉ riêng với cậu, nhưng... Tôi sẽ giữ điều đó cho lần khác♪
+お誕生日おめでとう♪\n急いで来ちゃったから\nこんな格好でごめんね？\n少しでも早くお祝いしたかったの=Chúc mừng sinh nhật♪ Tôi đến vội, nên xin lỗi nếu tôi ăn mặc như thế này, được chứ? Tôi muốn chúc mừng càng sớm càng tốt.
+ハッピーバースデー、キーミッ♪\nさあ、めでたい日なんだから\n盛大にお祝いしなくちゃ\nはい、カンパーイ♪=Chúc mừng sinh nhật, người yêu dấu♪ Nào, hôm nay là một ngày hạnh phúc, vì vậy chúng ta phải ăn mừng nó hết mình! Bắt đầu thôi! Nâng ly!

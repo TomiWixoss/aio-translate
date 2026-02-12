@@ -1,19 +1,19 @@
 ##Profile##
-【物理】後衛で、希望の力で戦う、不思議の国の救世主。クリティカルすると効果アップのスキルや味方の数が多い程、威力がアップするユニオンバーストで敵を殲滅する。=[Physical] A savior of Wonderland who fights in the rearguard with the power of hope. When critical, she annihilates enemies with Union Burst, which increases in power the more skills and allies she has.
+【物理】後衛で、希望の力で戦う、不思議の国の救世主。クリティカルすると効果アップのスキルや味方の数が多い程、威力がアップするユニオンバーストで敵を殲滅する。=[Vật Lý] Một cứu tinh của Wonderland, chiến đấu ở hậu phương với sức mạnh của hy vọng. Khi chí mạng, cô tiêu diệt kẻ thù bằng Union Burst, sức mạnh tăng lên theo số kỹ năng và đồng đội cô có.
 
 ##UB##
-ファンタジックユニゾン=Fantastic Unison
-目の前の敵１キャラに物理中ダメージを与える。味方の人数に応じて、このスキルのダメージがアップする。このスキルがクリティカルした場合のダメージは、２倍ではなく３倍になる。=Deals moderate P.DMG to an enemy in front. Increases this skill's DMG based on the number of allies around. If this skill is critical, the DMG will tripled.
+ファンタジックユニゾン=Hòa Âm Kỳ Diệu
+目の前の敵１キャラに物理中ダメージを与える。味方の人数に応じて、このスキルのダメージがアップする。このスキルがクリティカルした場合のダメージは、２倍ではなく３倍になる。=Gây sát thương vật lý trung bình cho kẻ thù phía trước. Tăng sát thương kỹ năng này dựa trên số đồng đội xung quanh. Nếu kỹ năng này chí mạng, sát thương sẽ tăng gấp ba.
 
 ##S1##
-ワンダーイリュージョン=Wonder Illusion
-目の前の敵１キャラに物理小ダメージを与え、自分の物理クリティカルを中アップさせ、さらにＴＰを中回復する。=Deals small P.DMG to an enemy in front. Boosts own P.CRIT Rate by a moderate amount, and recovers own TP by a moderate amount.
-目の前の敵１キャラに物理中ダメージを与え、自分の物理クリティカルを中アップさせ、さらにＴＰを中回復する。=Deals moderate P.DMG to an enemy in front. Boosts own P.CRIT Rate by a moderate amount, and recovers own TP by a moderate amount.
-r:"^敵単体に(\d+)の物理ダメージ自分の物理クリティカルを(\d+)アップ自分のＴＰを(\d+)回復$"=►Deals $1 P.DMG to an enemy.\n►Boosts own P.CRIT Rate by $2 for 180s.\n►Recovers own TP by $3.
+ワンダーイリュージョン=Ảo Ảnh Kỳ Diệu
+目の前の敵１キャラに物理小ダメージを与え、自分の物理クリティカルを中アップさせ、さらにＴＰを中回復する。=Gây sát thương vật lý nhỏ cho kẻ thù phía trước. Tăng Tỷ Lệ Chí Mạng Vật Lý của bản thân một chút, và hồi một lượng TP vừa phải cho bản thân.
+目の前の敵１キャラに物理中ダメージを与え、自分の物理クリティカルを中アップさせ、さらにＴＰを中回復する。=Gây sát thương vật lý vừa phải cho kẻ địch phía trước. Tăng tỷ lệ chí mạng vật lý của bản thân một lượng vừa phải và hồi TP của bản thân một lượng vừa phải.
+r:"^敵単体に(\d+)の物理ダメージ自分の物理クリティカルを(\d+)アップ自分のＴＰを(\d+)回復$"=►Gây $1 sát thương vật lý cho kẻ địch.\n►Tăng tỷ lệ chí mạng vật lý của bản thân lên $2 trong 180s.\n►Hồi TP của bản thân lên $3.
 
 ##S2##
 ワンダーアロー=Wonder Arrow
-目の前の敵１キャラに物理中ダメージを与える。このスキルがクリティカルした場合、さらに物理防御力を中ダウンさせる。=Deals moderate P.DMG to an enemy in front. If this skill is critical, it will further lower an enemy's P.DEF by a moderate amount.
+目の前の敵１キャラに物理中ダメージを与える。このスキルがクリティカルした場合、さらに物理防御力を中ダウンさせる。=Gây sát thương vật lý vừa phải cho kẻ địch phía trước. Nếu kỹ năng này gây chí mạng, sẽ làm giảm thêm phòng thủ vật lý của kẻ địch một lượng vừa phải.
 
 ##EX##
 ハートフルフレンズ=Heartful Friends
@@ -21,7 +21,7 @@ r:"^敵単体に(\d+)の物理ダメージ自分の物理クリティカルを(\
 
 ##S1+##
 ワンダーイリュージョン+=Wonder Illusion+
-目の前の敵１キャラに物理中ダメージを与え、自分の物理クリティカルを中アップさせ、さらにＴＰを中回復する。味方の人数に応じて、このスキルの効果値が増加する。=Deals moderate P.DMG to an enemy in front. Boosts own P.CRIT Rate by a moderate amount, and recovers own TP by a moderate amount. This skill's effects increase depending amount of allies.
+目の前の敵１キャラに物理中ダメージを与え、自分の物理クリティカルを中アップさせ、さらにＴＰを中回復する。味方の人数に応じて、このスキルの効果値が増加する。=Gây sát thương vật lý vừa phải cho kẻ địch phía trước. Tăng tỷ lệ chí mạng vật lý của bản thân một lượng vừa phải và hồi TP của bản thân một lượng vừa phải. Hiệu quả kỹ năng này tăng lên tùy theo số lượng đồng minh.
 
 ##UE##
 ワンダーランドボウ=Wonderland Bow

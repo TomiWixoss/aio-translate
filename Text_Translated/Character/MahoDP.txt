@@ -1,30 +1,30 @@
 ##Profile##
-【魔法】後衛で、サーカスの舞台に輝くメルヘン少女。味方の攻防支援や敵の攻防弱体化の他【カーテンコール】付与時の追加ダメージスキルで、勝利のライトを照らす。=[Magic] A fairy-tale girl who shines on the circus stage in the rear guard. In addition to supporting allies in offense and defense and weakening enemies in offense and defense, she shines the light of victory with her additional damage skill when granted [Curtain Call].
+【魔法】後衛で、サーカスの舞台に輝くメルヘン少女。味方の攻防支援や敵の攻防弱体化の他【カーテンコール】付与時の追加ダメージスキルで、勝利のライトを照らす。=[Ma Thuật] Một cô gái truyện kể tỏa sáng trên sân khấu tuồng ở hậu phương. Ngoài việc hỗ trợ đồng minh trong tấn công và phòng thủ, yếu đi kẻ địch trong tấn công và phòng thủ, cô còn tỏa sáng ánh sáng chiến thắng với kỹ năng gây thêm sát thương khi được trao [Curtain Call].
 
 ##UB##
-メルヘンカーテンコール=Fairy-tale Curtain Call
-前方範囲内の敵すべての魔法防御力を小ダウンさせる。さらに、味方全体の魔法攻撃力を特大アップ、魔法クリティカルを大アップさせ、自分の魔法攻撃クリティカル時のダメージを小アップさせて、【カーテンコール】を付与する。=Slightly lowers enemies' M.DEF in range. Additionally, greatly boosts all allies' M.ATK and M.CRIT Rate, and slightly boosts their M.CRIT DMG. Grants [Curtain Call] to self.
-r:"^範囲内の敵の魔法防御力を(\d+)ダウン味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを150アップ自分の魔法攻撃クリティカル時のダメージを15％アップ自分にカーテンコールを付与する$"=►Lowers enemies' M.DEF in 1400 range by $1 for 18s.\n►Boosts all allies' M.ATK by $2 for 18s.\n►Boosts all allies' M.CRIT Rate by 60 for 18s.\n►Boosts all allies' M.CRIT DMG by 15% for 18s.\n►Grants [Curtain Call] to self.
+メルヘンカーテンコール=Lời Chào Cổ Tích
+前方範囲内の敵すべての魔法防御力を小ダウンさせる。さらに、味方全体の魔法攻撃力を特大アップ、魔法クリティカルを大アップさせ、自分の魔法攻撃クリティカル時のダメージを小アップさせて、【カーテンコール】を付与する。=Hơi giảm M.DEF của kẻ địch trong phạm vi. Ngoài ra, tăng mạnh M.ATK và Tỷ Lệ Chí Mạng Ma Thuật của tất cả đồng minh, và hơi tăng Sát Thương Chí Mạng Ma Thuật của họ. Tặng [Lời Chào] cho bản thân.
+r:"^範囲内の敵の魔法防御力を(\d+)ダウン味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを150アップ自分の魔法攻撃クリティカル時のダメージを15％アップ自分にカーテンコールを付与する$"=►Giảm M.DEF của kẻ địch trong phạm vi 1400 bằng $1 trong 18s.\n►Tăng M.ATK của tất cả đồng minh bằng $2 trong 18s.\n►Tăng Tỷ Lệ Chí Mạng Ma Thuật của tất cả đồng minh bằng 60 trong 18s.\n►Tăng Sát Thương Chí Mạng Ma Thuật của tất cả đồng minh bằng 15% trong 18s.\n►Tặng [Lời Chào] cho bản thân.
 
 ##S1##
-マホマホファンシーボール=Maho-Maho Fancy Ball
-マホマホファンシーボール+=Maho-Maho Fancy Ball+
-前方範囲内の敵すべてに魔法中ダメージを与え、魔法防御力を小ダウンさせる。さらに、味方全体の魔法攻撃力を特大アップ、魔法クリティカルを大アップ、物理防御力と魔法防御力を小アップさせる。【カーテンコール】が付与されている場合、前方範囲内の敵すべてに追加の魔法大ダメージを与える。=Deals moderate M.DMG to enemies in range and slightly lowers their M.DEF. Additionally, greatly boosts all allies M.ATK, P.DEF and M.DEF. If [Curtain Call] is active, deals additional M.DMG to enemies in range.
-r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の魔法防御力を(\d+)ダウンカーテンコール付与中、範囲内の敵に(\d+)の追加魔法ダメージ味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを100アップ味方全体の物理防御力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ$"=►Deals $1 M.DMG to enemies in 1400 range.\n►Lowers enemies' M.DEF in 1400 range by $2 for 12s.\n►If [Curtain Call] is active, deals $3 M.DMG to enemies' in 1400 range.\n►Boosts all allies' M.ATK by $4 for 12s.\n►Boosts all allies' P.DEF by $5 for 12s.\n►Boosts all allies' M.DEF by $5 for 12s.
+マホマホファンシーボール=Quả Cầu Ma Thuật Lộng Lẫy
+マホマホファンシーボール+=Quả Cầu Ma Thuật Lộng Lẫy+
+前方範囲内の敵すべてに魔法中ダメージを与え、魔法防御力を小ダウンさせる。さらに、味方全体の魔法攻撃力を特大アップ、魔法クリティカルを大アップ、物理防御力と魔法防御力を小アップさせる。【カーテンコール】が付与されている場合、前方範囲内の敵すべてに追加の魔法大ダメージを与える。=Gây Sát Thương Ma Thuật vừa phải cho kẻ địch trong phạm vi và hơi giảm M.DEF của chúng. Ngoài ra, tăng mạnh M.ATK, P.DEF và M.DEF của tất cả đồng minh. Nếu [Lời Chào] đang hoạt động, gây thêm Sát Thương Ma Thuật cho kẻ địch trong phạm vi.
+r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の魔法防御力を(\d+)ダウンカーテンコール付与中、範囲内の敵に(\d+)の追加魔法ダメージ味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを100アップ味方全体の物理防御力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ$"=►Gây $1 Sát Thương Ma Thuật cho kẻ địch trong phạm vi 1400.\n►Giảm M.DEF của kẻ địch trong phạm vi 1400 bằng $2 trong 12s.\n►Nếu [Lời Chào] đang hoạt động, gây $3 Sát Thương Ma Thuật cho kẻ địch trong phạm vi 1400.\n►Tăng M.ATK của tất cả đồng minh bằng $4 trong 12s.\n►Tăng P.DEF của tất cả đồng minh bằng $5 trong 12s.\n►Tăng M.DEF của tất cả đồng minh bằng $5 trong 12s.
 
 ##Skill+##
-前方範囲内の敵すべてに魔法大ダメージを与え、魔法防御力を小ダウンさせる。さらに、味方全体の魔法攻撃力を特大アップ、魔法クリティカルを大アップさせ、魔法攻撃クリティカル時のダメージ、物理防御力、魔法防御力を小アップさせる。【カーテンコール】が付与されている場合、前方範囲内の敵すべてに追加の魔法大ダメージを与える。=Deals large M.DMG to all enemies in a forward area and slightly lowers their M.DEF. Additionally, massively boosts all allies’ M.ATK, greatly boosts their M.CRIT RATE, and slightly boosts their M.CRIT DMG, P.DEF, and M.DEF. If Curtain Call is active, deals additional large M.DMG to all enemies in the forward area.
+前方範囲内の敵すべてに魔法大ダメージを与え、魔法防御力を小ダウンさせる。さらに、味方全体の魔法攻撃力を特大アップ、魔法クリティカルを大アップさせ、魔法攻撃クリティカル時のダメージ、物理防御力、魔法防御力を小アップさせる。【カーテンコール】が付与されている場合、前方範囲内の敵すべてに追加の魔法大ダメージを与える。=Gây Sát Thương Ma Thuật lớn cho tất cả kẻ địch trong vùng phía trước và hơi giảm M.DEF của chúng. Ngoài ra, tăng cực mạnh M.ATK của tất cả đồng minh, tăng mạnh Tỷ Lệ Chí Mạng Ma Thuật của họ, và hơi tăng Sát Thương Chí Mạng Ma Thuật, P.DEF và M.DEF của họ. Nếu Lời Chào đang hoạt động, gây thêm Sát Thương Ma Thuật lớn cho tất cả kẻ địch trong vùng phía trước.
 
-r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の魔法防御力を(\d+)ダウンカーテンコール付与中、範囲内の敵に(\d+)の追加魔法ダメージ味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを100アップ味方全体の魔法クリダメを10％アップ味方全体の物理防御力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ$"=►Deals $1 M.DMG to enemies within 1400 range.\n►Lowers enemies' M.DEF within 1400 range by $2 for 12s.\n►During [Curtain Call]: Deals additional $3 M.DMG.\n►Boosts all allies' M.ATK by $4 for 12s.\n►Boosts all allies' M.CRIT RATE by 100 for 12s.\n►Boosts all allies' M.CRIT DMG by 10％ for 12s.\n►Boosts all allies' P.DEF by $5 for 12s.\n►Boosts all allies' M.DEF by $6 for 12s.
+r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の魔法防御力を(\d+)ダウンカーテンコール付与中、範囲内の敵に(\d+)の追加魔法ダメージ味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを100アップ味方全体の魔法クリダメを10％アップ味方全体の物理防御力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ$"=►Gây $1 Sát Thương Ma Thuật cho kẻ địch trong phạm vi 1400.\n►Giảm M.DEF của kẻ địch trong phạm vi 1400 bằng $2 trong 12s.\n►Trong [Lời Chào]: Gây thêm $3 Sát Thương Ma Thuật.\n►Tăng M.ATK của tất cả đồng minh bằng $4 trong 12s.\n►Tăng Tỷ Lệ Chí Mạng Ma Thuật của tất cả đồng minh bằng 100 trong 12s.\n►Tăng Sát Thương Chí Mạng Ma Thuật của tất cả đồng minh bằng 10% trong 12s.\n►Tăng P.DEF của tất cả đồng minh bằng $5 trong 12s.\n►Tăng M.DEF của tất cả đồng minh bằng $6 trong 12s.
 
 ##S2##
-マホマホワンダーフープ=Maho-Maho Wonder Hoop
-前方範囲内の敵すべてに魔法中ダメージを与え、物理攻撃力と魔法攻撃力を大ダウンさせる。さらに味方全体のＴＰ上昇を小アップさせ、ＴＰを小回復する。【カーテンコール】が付与されている場合、前方範囲内の敵すべてに追加の魔法大ダメージを与える。=Deals moderate M.DMG to enemies in range and greatly lowers their P.ATK and M.ATK. Also slightly boosts all allies' TP Boost and recovers their TP by a small amount. If [Curtain Call] is active, deals additional large M.DMG to all enemies in range.
-r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の物理攻撃力を(\d+)ダウン範囲内の敵の魔法攻撃力を(\d+)ダウンカーテンコール付与中、範囲内の敵に(\d+)の追加魔法ダメージ味方全体のＴＰ上昇を5アップ味方全体のＴＰを80回復$"=►Deals $1 M.DMG to enemies in 1400 range.\n►Lower enemies' P.ATK in 1400 range by $2 for 12s.\n►Lower enemies' M.ATK in 1400 range by $3 for 12s.\n►If [Curtain Call] is active, deals $4 M.DMG to enemies' in 1400 range.\n►Boosts all allies' TP Boost by 5 for 12s.\n►Recovers all allies' TP by 80.
+マホマホワンダーフープ=Vòng Ma Thuật Kỳ Diệu
+前方範囲内の敵すべてに魔法中ダメージを与え、物理攻撃力と魔法攻撃力を大ダウンさせる。さらに味方全体のＴＰ上昇を小アップさせ、ＴＰを小回復する。【カーテンコール】が付与されている場合、前方範囲内の敵すべてに追加の魔法大ダメージを与える。=Gây Sát Thương Ma Thuật vừa phải cho kẻ địch trong phạm vi và giảm mạnh P.ATK và M.ATK của chúng. Đồng thời hơi tăng TP Boost và hồi một lượng TP nhỏ cho tất cả đồng minh. Nếu [Lời Chào] đang hoạt động, gây thêm Sát Thương Ma Thuật lớn cho tất cả kẻ địch trong phạm vi.
+r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の物理攻撃力を(\d+)ダウン範囲内の敵の魔法攻撃力を(\d+)ダウンカーテンコール付与中、範囲内の敵に(\d+)の追加魔法ダメージ味方全体のＴＰ上昇を5アップ味方全体のＴＰを80回復$"=►Gây $1 Sát Thương Ma Thuật cho kẻ địch trong phạm vi 1400.\n►Giảm P.ATK của kẻ địch trong phạm vi 1400 bằng $2 trong 12s.\n►Giảm M.ATK của kẻ địch trong phạm vi 1400 bằng $3 trong 12s.\n►Nếu [Lời Chào] đang hoạt động, gây $4 Sát Thương Ma Thuật cho kẻ địch trong phạm vi 1400.\n►Tăng TP Boost của tất cả đồng minh bằng 5 trong 12s.\n►Hồi TP cho tất cả đồng minh bằng 80.
 
 ##EX##
-メルヘンサーカス=Fairy-tale Circus
-メルヘンサーカス+=Fairy-tale Circus+
+メルヘンサーカス=Tuần Hành Cổ Tích
+メルヘンサーカス+=Tuần Hành Cổ Tích+
 
 ##Unique Equipment##
-マホマホドリームスーツ=Maho-Maho Dream Suit
+マホマホドリームスーツ=Bộ Đồ Ma Thuật Giấc Mơ

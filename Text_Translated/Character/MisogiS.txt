@@ -1,47 +1,47 @@
 ##Profile##
-【物理】前衛で敵後方に花火を仕掛ける夜涼みの悪戯娘。敵の最前衛をスタンで足止めしつつ、最後衛を中心としたＵＢで狭範囲の敵を引き寄せ、ＴＰダウンで攻勢を阻む。=[Physical] A mischievous girl who sets off firecrackers behind enemy lines in frontline. She uses Stun to immobilize the enemy's vanguard and draws in enemies with her UB centered around the rearguard. Also, she employs TP reduction to impede enemy offensives.
+【物理】前衛で敵後方に花火を仕掛ける夜涼みの悪戯娘。敵の最前衛をスタンで足止めしつつ、最後衛を中心としたＵＢで狭範囲の敵を引き寄せ、ＴＰダウンで攻勢を阻む。=[Vật Lý] Một cô gái nghịch ngợm, đặt pháo hoặc vật nổ phía sau hàng ngũ địch ở tuyến đầu. Cô dùng Khiến Choáng để cố định tiền tuyến địch và thu hút kẻ địch bằng UB tập trung vào hậu phương. Ngoài ra, cô còn dùng giảm TP để cản trở sự tấn công của đối phương.
 
-逆転のイタズラシュート！=Reversal Prank Shot!
-船の上の鬼ごっこ！=On-board Game of Tag!
-お宝はトロピカル！=Treasure is Tropical!
-線香花火に火をつけて！=Lighting the Sparklers!
+逆転のイタズラシュート！=Pháo Đùa Đảo Ngược!
+船の上の鬼ごっこ！=Trò Chơi Đuổi Bắt Trên Tàu!
+お宝はトロピカル！=Kho Báu Nhiệt Đới!
+線香花火に火をつけて！=Thắp Sáng Pháo Hoài!
 
 ##UB##
-ビックリ・ファイヤーワーク=Surprised Firecracker
-前方の最も遠い敵を中心に、範囲内の敵すべてに物理大ダメージを与え、自分の目の前まで引き寄せる。=Deals large P.DMG to enemies in range, and pulls them in front of oneself.
+ビックリ・ファイヤーワーク=Pháo Hoài Bất Ngờ
+前方の最も遠い敵を中心に、範囲内の敵すべてに物理大ダメージを与え、自分の目の前まで引き寄せる。=Gây sát thương vật lý lớn lên kẻ địch trong phạm vi và kéo chúng ra phía trước mình.
 
 ##S1##
-サマースプラッシュボム=Summer Splash Bomb
-前方範囲内の敵すべてに物理中ダメージを与え、ＴＰを中ダウンさせる。=Deals moderate P.DMG to enemies in range and moderately reduces their TP.
+サマースプラッシュボム=Bom Nước Hè Hội
+前方範囲内の敵すべてに物理中ダメージを与え、ＴＰを中ダウンさせる。=Gây sát thương vật lý trung bình lên kẻ địch trong phạm vi và giảm TP của chúng một chút.
 
 ##S2##
-トロピカルサンシャイン=Tropical Sunshine
-目の前の敵１キャラに物理中ダメージを与え、スタンさせる。さらに物理防御力を小ダウンさせる。=Deals moderate P.DMG to an enemy in front and inflicts Stun to them. Additionally, lowers an enemy's P.DEF by a small amount.
-r:"^敵単体に(\d+)の物理ダメージ敵単体を一定時間行動不能にする敵単体の物理防御力を(\d+)ダウン$"=Cast time: 0.45s\n►Deals $1 P.DMG to an enemy.\n►Inflicts Stun to an enemy for 1.5s.\n►Lowers an enemy's P.DEF by $2 for 12s.
+トロピカルサンシャイン=Nắng Nhiệt Đới
+目の前の敵１キャラに物理中ダメージを与え、スタンさせる。さらに物理防御力を小ダウンさせる。=Gây sát thương vật lý trung bình lên kẻ địch phía trước và gây Khiến Choáng cho chúng. Ngoài ra, giảm phòng thủ vật lý của kẻ địch một chút.
+r:"^敵単体に(\d+)の物理ダメージ敵単体を一定時間行動不能にする敵単体の物理防御力を(\d+)ダウン$"=Thời gian niệm: 0.45s\n►Gây $1 sát thương vật lý lên kẻ địch.\n►Gây Khiến Choáng cho kẻ địch trong 1.5s.\n►Giảm phòng thủ vật lý của kẻ địch đi $2 trong 12s.
 
 ##EX##
-サマートリック=Summer Tricks
-サマートリック+=Summer Tricks+
+サマートリック=Mẹo Hè Hội
+サマートリック+=Mẹo Hè Hội+
 
 ##S1+##
-サマースプラッシュボム+=Summer Splash Bomb+
-前方範囲内の敵すべてに物理中ダメージを与え、ＴＰを中ダウンさせ、行動速度を小ダウンさせる。=Deals moderate P.DMG to enemies in range, moderately reduces their TP, and slightly reduces their action speed (95%).
-r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵のＴＰを(\d+)失わせる範囲内の敵の行動速度を一定時間低下させる$"=►Deals $1 P.DMG to enemies in range.\n►Reduces enemies' TP in range by $2.\n►Reduces enemies' action speed in range for 12s.
+サマースプラッシュボム+=Bom Nước Hè Hội+
+前方範囲内の敵すべてに物理中ダメージを与え、ＴＰを中ダウンさせ、行動速度を小ダウンさせる。=Gây sát thương vật lý trung bình lên kẻ địch trong phạm vi, giảm TP của chúng một chút và giảm nhẹ tốc độ hành động của chúng (95%).
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵のＴＰを(\d+)失わせる範囲内の敵の行動速度を一定時間低下させる$"=►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi.\n►Giảm TP của kẻ địch trong phạm vi đi $2.\n►Giảm tốc độ hành động của kẻ địch trong phạm vi trong 12s.
 ## Same as PTAyumi and Nea skill
 
 ##UE##
-浜辺のトリックシューズ=Pranker Beach Shoes
+浜辺のトリックシューズ=Giày Biển Khiêu Khích
 
 ##Comments##
-にいちゃん、線香花火しようよ！=Nii-chan, let's light some sparklers!
-やっぱり海水浴場は人がたくさんいるのかな～\nきっとみんな浮かれ気分だよね！\nにいちゃん、ミソギたちも思いっきり楽しんじゃおう！\n=I wonder if the beach will be crowded after all... Surely everyone will be in a festive mood! Nii-chan, let's have a blast with Misogi too!
-にいちゃん泳ぐのあんまり得意じゃないの？\nう～ん、水場を探検することもあるよね～\nよし！　イタズラの特訓と一緒に泳ぐのも特訓しよう！\n=Nii-chan, swimming isn't really your strong suit, is it? Hmm, but exploring the water can be fun too. Alright! Let's practice swimming together as part of our mischief training!
-あ、さっきからミソギのやりたいことばっかりだね\nにいちゃんはやりたいことある？\n=Oh, Misogi has been talking about the things she wants to do since earlier. Do you have anything you want to do, Nii-chan?
-かき氷に～スイカわりに～砂のお城作りでしょ～\nああ～、海でやりたいことがいっぱいだよぉ～！\n=Shaved ice, smashing watermelons, building sandcastles, right? Ahh, there are so many things I want to do at the beach!
-え？　ミソギと遊びたいの？\nもー、それじゃあ今まで通りじゃん！\n…えへへ、でも嬉しいな。じゃあ覚悟してね！\n=Huh? You want to play with Misogi? Well, then it's just like before! ...Ehehe, but I'm happy about it. So be prepared!
-ミソギは楽しいイタズラが好きなんだ～！\nミソギも、引っ掛かった人も笑顔になれなきゃね！\nだからにいちゃん、これからも笑ってほしいな！\n=Misogi loves fun pranks! Both Misogi and the person who falls for it should end up with a smile! That's why, Nii-chan, I want you to keep smiling too!
-毎日夏休みならずっとにいちゃんといられるのにな～\nでもそれだと宿題もいっぱいになっちゃうか…\nにいちゃんか、宿題か…きゅうきょくのせんたくだ…\n=If every day was summer vacation, I could be with Nii-chan all the time. But then I would have so much homework... Nii-chan or homework... it's a difficult choice in the end...
-水着を着るとなんだかワクワクしてくるよね～！\n一年中着てたいな！　…え、寒い日は風邪ひいちゃう？\nじゃあいつか一年中あったかい島を探す冒険にいこう！\n=Wearing a swimsuit makes me feel excited, you know? I want to wear it all year round! ...Huh, catching a cold on cold days? Then let's go on an adventure to find an always-warm island someday!
-でも安心してね、にいちゃん！\nイタズラのアイデアはまだまだあるから！\nミソギのひらめきは止まらないよー！\n=But don't worry, Nii-chan!\nI still have plenty of prank ideas!\nMisogi's inspiration never stops!
-ってにいちゃんに言っちゃったらダメじゃん！\n何にも知らないにいちゃんに仕掛けないと、\nビックリも半減しちゃうもんね～…\n=But if I told Nii-chan about them, it wouldn't be good, right?If I don't surprise you,  Nii-chan, and set up pranks without you knowing, the element of surprise would be reduced...
-海でのイタズラ考えてるんだ～！\n今思いついてるのは、激辛かき氷とか～、\n暴走バナナボートとか～、炸裂ビーチボールとか～…\n=I'm thinking of pranks at the beach! The ideas that came to mind now are things like super spicy shaved ice, a wild banana boat ride, and explosive beach balls...
+にいちゃん、線香花火しようよ！=Nii-chan, thắp pháo hoài nào!
+やっぱり海水浴場は人がたくさんいるのかな～\nきっとみんな浮かれ気分だよね！\nにいちゃん、ミソギたちも思いっきり楽しんじゃおう！\n=Biển chắc sẽ đông đúc thôi... Chắc chắn mọi người sẽ có tâm trạng lễ hội! Nii-chan, cùng Misogi vui vẻ một chút đi!
+にいちゃん泳ぐのあんまり得意じゃないの？\nう～ん、水場を探検することもあるよね～\nよし！　イタズラの特訓と一緒に泳ぐのも特訓しよう！\n=Nii-chan, bơi không phải sở trường của anh, phải không? Hmm, nhưng khám phá dưới nước cũng vui. Được rồi! Cùng tập bơi như một phần của buổi tập nghịch ngợm nhé!
+あ、さっきからミソギのやりたいことばっかりだね\nにいちゃんはやりたいことある？\n=Ồ, Misogi đã nói về những điều muốn làm từ lâu rồi. Có điều gì anh muốn làm không, Nii-chan?
+かき氷に～スイカわりに～砂のお城作りでしょ～\nああ～、海でやりたいことがいっぱいだよぉ～！\n=Đá bào, đập dưa hấu, xây lâu đài cát, đúng không? À, còn nhiều thứ muốn làm ở biển lắm!
+え？　ミソギと遊びたいの？\nもー、それじゃあ今まで通りじゃん！\n…えへへ、でも嬉しいな。じゃあ覚悟してね！\n=Hả? Anh muốn chơi với Misogi à? Vậy thì giống như trước rồi! ...Ehehe, nhưng mình vui lắm. Vậy chuẩn bị kỹ nhé!
+ミソギは楽しいイタズラが好きなんだ～！\nミソギも、引っ掛かった人も笑顔になれなきゃね！\nだからにいちゃん、これからも笑ってほしいな！\n=Misogi thích những trò đùa vui vẻ! Cả Misogi lẫn người bị lừa đều phải cười cuối cùng! Chính vì vậy, Nii-chan, anh cũng phải luôn cười nữa!
+毎日夏休みならずっとにいちゃんといられるのにな～\nでもそれだと宿題もいっぱいになっちゃうか…\nにいちゃんか、宿題か…きゅうきょくのせんたくだ…\n=Nếu mỗi ngày đều là kỳ nghỉ hè, mình có thể ở với Nii-chan mãi. Nhưng lúc đó bài tập về nhà sẽ nhiều lắm... Nii-chan hay bài tập... cuối cùng vẫn là lựa chọn khó khăn...
+水着を着るとなんだかワクワクしてくるよね～！\n一年中着てたいな！　…え、寒い日は風邪ひいちゃう？\nじゃあいつか一年中あったかい島を探す冒険にいこう！\n=Mặc đồ tắm khiến mình thấy háo hức, biết không? Mình muốn mặc quanh năm! ...Hả, bị cảm lạnh vào ngày lạnh ư? Vậy thì một ngày nào đó chúng ta cùng đi khám phá một hòn đảo luôn ấm áp nhé!
+でも安心してね、にいちゃん！\nイタズラのアイデアはまだまだあるから！\nミソギのひらめきは止まらないよー！\n=Nhưng đừng lo, Nii-chan!\nMình còn đầy ý tưởng đùa nghịch!\nCảm hứng của Misogi không bao giờ dừng!
+ってにいちゃんに言っちゃったらダメじゃん！\n何にも知らないにいちゃんに仕掛けないと、\nビックリも半減しちゃうもんね～…\n=Nhưng nếu kể cho Nii-chan nghe thì không tốt, phải không? Nếu không bất ngờ, Nii-chan, và bẫy đùa nghịch mà không để anh biết, yếu tố bất ngờ sẽ giảm...
+海でのイタズラ考えてるんだ～！\n今思いついてるのは、激辛かき氷とか～、\n暴走バナナボートとか～、炸裂ビーチボールとか～…\n=Mình đang nghĩ đến những trò đùa ở biển! Ý tưởng vừa nghĩ ra là như đá bào siêu cay, chuyến đi thuyền chuối hoang dã, và bóng bè nổ tung...

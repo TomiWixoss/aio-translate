@@ -1,40 +1,40 @@
 ##Profile##
-【物理】中衛の、貧乏クジを引きがちな盗賊ギルド次女。召喚したスキッドがワカナをかばって前線に立ち、自身は攻撃支援にＨＰとＴＰ回復まで、献身的に味方を支える。=[Physical] The second daughter of Bandy Sisters guild who tends to get the short end of the stick in midlines. The summoned Spike Brothers stand on the front lines to protect Wakana, while she herself devotedly supports her allies by providing attack support and recovering HP and TP.
+【物理】中衛の、貧乏クジを引きがちな盗賊ギルド次女。召喚したスキッドがワカナをかばって前線に立ち、自身は攻撃支援にＨＰとＴＰ回復まで、献身的に味方を支える。=[Vật Lý] Con gái thứ hai của guild Bandy Sisters, thường bị bỏ quên ở hàng giữa. Các Spike Brothers được triệu hồi đứng ở tuyến đầu để bảo vệ Wakana, còn cô tận tâm hỗ trợ đồng minh bằng cách tăng cường tấn công và hồi phục HP và TP.
 石見舞菜香=Iwami Mainaka
-編み物=Knitting
-大変だけど元気です。盗賊ギルドの次女=She's tough, but she's doing well. The second daughter of the Thieves Guild
+編み物=Đan móc
+大変だけど元気です。盗賊ギルドの次女=Cô ấy cứng rắn, nhưng đang làm rất tốt. Con gái thứ hai của Thieves Guild
 ##UB##
-お願い！スパイクブラザーズ=Please! Spike Brothers!
-【召喚】味方全体の物理攻撃力を特大アップさせ、目の前の敵１キャラに物理特大ダメージを与え、物理防御力を小ダウンさせる。さらにワカナが呼び出したスパイクブラザーズが味方にいる場合、スパイクブラザーズのＨＰを大回復し、そうでない場合スパイクブラザーズを１体呼び出す。=[Summon] Massively boosts all allies' P.ATK, deals massive P.DMG to an enemy in front and lowers its P.DEF. If the Spike Brothers are on the field, greatly recovers their HP; otherwise, summons the Spike Brothers onto the field.
-r:"^味方全体の物理攻撃力を(\d+)アップ敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウンスパイクブラザーズのＨＰを(\d+)回復スパイクブラザーズを呼び出す$"=►Boosts all allies' P.ATK by $1 for 18s.\n►Deals $2 P.DMG to an enemy.\n►Lowers an enemy's P.DEF by $3 for 18s.\n►If Spike Brothers are on the field, recovers their HP by $4; Otherwise, summons Spike Brothers.
+お願い！スパイクブラザーズ=Làm ơn đi! Spike Brothers!
+【召喚】味方全体の物理攻撃力を特大アップさせ、目の前の敵１キャラに物理特大ダメージを与え、物理防御力を小ダウンさせる。さらにワカナが呼び出したスパイクブラザーズが味方にいる場合、スパイクブラザーズのＨＰを大回復し、そうでない場合スパイクブラザーズを１体呼び出す。=[Triệu Hồi] Tăng mạnh P.ATK của tất cả đồng minh, gây sát thương P.DMG lớn lên kẻ địch phía trước và giảm P.DEF của chúng. Nếu Spike Brothers có mặt, hồi phục mạnh HP của chúng; nếu không, triệu hồi Spike Brothers ra trận.
+r:"^味方全体の物理攻撃力を(\d+)アップ敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウンスパイクブラザーズのＨＰを(\d+)回復スパイクブラザーズを呼び出す$"=►Tăng P.ATK của tất cả đồng minh đi $1 trong 18s.\n►Gây $2 P.DMG lên kẻ địch.\n►Giảm P.DEF của kẻ địch đi $3 trong 18s.\n►Nếu Spike Brothers có mặt, hồi phục HP của chúng bằng $4; Nếu không, triệu hồi Spike Brothers.
 
 ##S1##
-カレー、いかがです？=Would You Like Some Curry?
-自分以外の味方全体の物理攻撃力と物理クリティカルを特大アップさせ、ＨＰとＴＰを中回復させる。さらに、自分の物理攻撃力を中アップ、物理クリティカルを大アップし、ＨＰとＴＰを小回復する。=Massively boosts all other allies' P.ATK and P.CRIT Rate, and moderately recovers their HP and TP. Also moderately boosts own P.ATK, greatly boosts own P.CRIT Rate, and slightly recovers own HP and TP.
-r:"^自分以外の味方全体の物理攻撃力を(\d+)アップ自分以外の味方全体の物理クリティカルを180アップ自分以外の味方全体のＨＰを(\d+)回復自分以外の味方全体のＴＰを150回復自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを90アップ自分のＨＰを(\d+)回復自分のＴＰを75回復$"=►Boosts all other allies' P.ATK by $1 for 12s.\n►Boosts all other allies' P.CRIT Rate by 180 for 12s.\n►Recovers all other allies' HP by $2.\n►Recovers all other allies' TP by 150.\n►Boosts own P.ATK by $3 for 12s.\n►Boosts own P.CRIT Rate by 90 for 12s.\n►Recovers own HP by $3.\n►Recovers own TP by 75.
+カレー、いかがです？=Muốn Ăn Cà Ri Không?
+自分以外の味方全体の物理攻撃力と物理クリティカルを特大アップさせ、ＨＰとＴＰを中回復させる。さらに、自分の物理攻撃力を中アップ、物理クリティカルを大アップし、ＨＰとＴＰを小回復する。=Tăng mạnh P.ATK và Tỷ Lệ Chí Mạng của tất cả đồng minh khác, và hồi phục vừa phải HP và TP của họ. Đồng thời tăng vừa phải P.ATK của bản thân, tăng mạnh Tỷ Lệ Chí Mạng của bản thân, và hồi phục nhẹ HP và TP của bản thân.
+r:"^自分以外の味方全体の物理攻撃力を(\d+)アップ自分以外の味方全体の物理クリティカルを180アップ自分以外の味方全体のＨＰを(\d+)回復自分以外の味方全体のＴＰを150回復自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを90アップ自分のＨＰを(\d+)回復自分のＴＰを75回復$"=►Tăng P.ATK của tất cả đồng minh khác đi $1 trong 12s.\n►Tăng Tỷ Lệ Chí Mạng của tất cả đồng minh khác đi 180 trong 12s.\n►Hồi phục HP của tất cả đồng minh khác bằng $2.\n►Hồi phục TP của tất cả đồng minh khác bằng 150.\n►Tăng P.ATK của bản thân đi $3 trong 12s.\n►Tăng Tỷ Lệ Chí Mạng của bản thân đi 90 trong 12s.\n►Hồi phục HP của bản thân bằng $3.\n►Hồi phục TP của bản thân bằng 75.
 
 
 
 ##S2##
 スパイクラッシュ=Spiral Crash
-目の前の敵１キャラに物理大ダメージを与え、味方全体に物理/魔法無効バリアを展開する。=Deals large P.DMG to an enemy in front, and deploys Barrier over all allies that negates P/M.DMG.
-r:"^敵単体に(\d+)の物理ダメージ(\d+)ダメージ分の物理魔法無効バリアを展開する$"=►Deals $1 P.DMG to an enemy.\n►Deploys Barrier over all allies that negates $2 P/M.DMG for 12s.
+目の前の敵１キャラに物理大ダメージを与え、味方全体に物理/魔法無効バリアを展開する。=Gây sát thương P.DMG lớn lên kẻ địch phía trước, và triển khai Rào Cản trên tất cả đồng minh phản P/M.DMG.
+r:"^敵単体に(\d+)の物理ダメージ(\d+)ダメージ分の物理魔法無効バリアを展開する$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Triển khai Màn Chắn lên toàn bộ đồng minh, chống lại $1 sát thương vật lý/phép thuật trong 12s.
 
 ##SP1##
-誰か助けて～！=Somebody Help Me!
-このスキルのスキルレベルは「お願い！スパ\nイクブラザーズ」と連動しています=This skill's level is linked to "Please! Spike Brothers!"
-【召喚】ワカナが呼び出したスパイクブラザーズが味方にいない場合、スパイクブラザーズを１体呼び出す。スパイクブラザーズは召喚後、ワカナに【スパイクガード】を付与し、敵から攻撃を受けるたび、その敵の最大ＨＰに応じて最大99999の割合ダメージを与える状態になる。さらに次の行動から、スパイクブラザーズがスキルを発動した後、一定時間【スパイクガード】が付与されているキャラへの敵の攻撃を代わりに受ける。=[Summon] If the Spike Brothers are not on the field, summons them onto the field. After they are summoned, grants [Spike Guard] to Wakana, which deals damage to the enemy based on their maximum HP (max 99999) for each attack that Wakana receives. From the next action onward, they will receive the damage for the character with the [Spike Guard] status.
-スパイクブラザーズを呼び出す=►Summons Spike Brothers.
+誰か助けて～！=Cứu Tôi!
+このスキルのスキルレベルは「お願い！スパ\nイクブラザーズ」と連動しています=Cấp độ kỹ năng này liên kết với "Xin Hãy! Spike Brothers!"
+【召喚】ワカナが呼び出したスパイクブラザーズが味方にいない場合、スパイクブラザーズを１体呼び出す。スパイクブラザーズは召喚後、ワカナに【スパイクガード】を付与し、敵から攻撃を受けるたび、その敵の最大ＨＰに応じて最大99999の割合ダメージを与える状態になる。さらに次の行動から、スパイクブラザーズがスキルを発動した後、一定時間【スパイクガード】が付与されているキャラへの敵の攻撃を代わりに受ける。=[Triệu Hồi] Nếu Spike Brothers chưa xuất hiện, sẽ triệu hồi chúng lên chiến trường. Sau khi được triệu hồi, cấp cho Wakana hiệu ứng [Spike Guard], gây sát thương cho kẻ địch dựa trên HP tối đa của chúng (tối đa 99999) với mỗi đòn tấn công mà Wakana nhận. Từ lượt hành động tiếp theo trở đi, chúng sẽ nhận sát thương thay cho nhân vật có trạng thái [Spike Guard].
+スパイクブラザーズを呼び出す=►Triệu hồi Spike Brothers.
 
 ##EX##
-とっておき節約レシピ=Best Money-Saving Recipe
-とっておき節約レシピ+=Best Money-Saving Recipe+
+とっておき節約レシピ=Công Thức Tiết Kiệm Tốt Nhất
+とっておき節約レシピ+=Công Thức Tiết Kiệm Tốt Nhất+
 
 
 ##UE##
-ワカナのお手製エプロン=Wakana's Handmade Apron
+ワカナのお手製エプロン=Tạp Dề Tay Làm Của Wakana
 ##S1+##
-カレー、いかがです？+=Would You Like Some Curry?+
-自分以外の味方全体の物理攻撃力と物理クリティカルを特大アップ、物理攻撃クリティカル時のダメージを小アップさせ、ＨＰとＴＰを中回復させる。さらに、自分の物理攻撃力を中アップ、物理クリティカルを大アップ、物理攻撃クリティカル時のダメージを小アップし、ＨＰとＴＰを小回復する。=Massively boosts all other allies' P.ATK and P.CRIT RATE, slightly boosts their P.CRIT DMG, and moderately recovers their HP and TP. Additionally, moderately boosts own P.ATK, greatly boosts own P.CRIT RATE, slightly boosts own P.CRIT DMG, and slightly recovers own HP and TP.
+カレー、いかがです？+=Ăn Cà Ri Không?
+自分以外の味方全体の物理攻撃力と物理クリティカルを特大アップ、物理攻撃クリティカル時のダメージを小アップさせ、ＨＰとＴＰを中回復させる。さらに、自分の物理攻撃力を中アップ、物理クリティカルを大アップ、物理攻撃クリティカル時のダメージを小アップし、ＨＰとＴＰを小回復する。=Tăng mạnh TẤN CÔNG VẬT LÝ và TỶ LỆ CHÍ MẠNG VẬT LÝ của tất cả đồng minh khác, tăng nhẹ SÁT THƯƠNG CHÍ MẠNG VẬT LÝ của họ, và hồi phục vừa phải HP và TP của họ. Ngoài ra, tăng vừa phải TẤN CÔNG VẬT LÝ của bản thân, tăng mạnh TỶ LỆ CHÍ MẠNG VẬT LÝ của bản thân, tăng nhẹ SÁT THƯƠNG CHÍ MẠNG VẬT LÝ của bản thân, và hồi phục nhẹ HP và TP của bản thân.
 
-r:"^自分以外の味方全体の物理攻撃力を(\d+)アップ自分以外の味方全体の物理クリティカルを180アップ自分以外の味方全体のＨＰを(\d+)回復自分以外の味方全体のＴＰを150回復自分以外の味方全体の物理クリダメを6％アップ自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを90アップ自分のＨＰを(\d+)回復自分のＴＰを75回復自分の物理クリダメを3％アップ$"=►Boosts P.ATK of all allies except self by $1.\n►Boosts P.CRIT RATE of all allies except self by 180.\n►Restores HP of all allies except self by $2.\n►Recovers TP of all allies except self by 150.\n►Boosts P.CRIT DMG of all allies except self by 6%.\n►Boosts own P.ATK by $3.\n►Boosts own P.CRIT RATE by 90.\n►Restores own HP by $4.\n►Recovers own TP by 75.\n►Boosts own P.CRIT DMG by 3%.
+r:"^自分以外の味方全体の物理攻撃力を(\d+)アップ自分以外の味方全体の物理クリティカルを180アップ自分以外の味方全体のＨＰを(\d+)回復自分以外の味方全体のＴＰを150回復自分以外の味方全体の物理クリダメを6％アップ自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを90アップ自分のＨＰを(\d+)回復自分のＴＰを75回復自分の物理クリダメを3％アップ$"=►Tăng TẤN CÔNG VẬT LÝ của tất cả đồng minh trừ bản thân lên $1.\n►Tăng TỶ LỆ CHÍ MẠNG VẬT LÝ của tất cả đồng minh trừ bản thân lên 180.\n►Hồi HP của tất cả đồng minh trừ bản thân lên $2.\n►Hồi TP của tất cả đồng minh trừ bản thân lên 150.\n►Tăng SÁT THƯƠNG CHÍ MẠNG VẬT LÝ của tất cả đồng minh trừ bản thân lên 6%.\n►Tăng TẤN CÔNG VẬT LÝ của bản thân lên $3.\n►Tăng TỶ LỆ CHÍ MẠNG VẬT LÝ của bản thân lên 90.\n►Hồi HP của bản thân lên $4.\n►Hồi TP của bản thân lên 75.\n►Tăng SÁT THƯƠNG CHÍ MẠNG VẬT LÝ của bản thân lên 3%.

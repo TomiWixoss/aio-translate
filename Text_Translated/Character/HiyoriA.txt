@@ -1,20 +1,20 @@
 ##Profile##
-【物理】前衛で、煌炎宿し希望を振りまく覚醒の元気娘。放つ炎は敵を攻守ともに弱化させて同時に味方を鼓舞し、２種のＴＰ回復効果で攻勢を絶やさず勝利を呼び込む。=[Physical] An awakened energetic girl who fights in the vanguard and is full of sparks and hope. She unleashes flames that weakens both offense and defense, simultaneously encouraging her allies, and uses two types of TP recovery effects to bring her victory.
+【物理】前衛で、煌炎宿し希望を振りまく覚醒の元気娘。放つ炎は敵を攻守ともに弱化させて同時に味方を鼓舞し、２種のＴＰ回復効果で攻勢を絶やさず勝利を呼び込む。=[Vật lý] Một cô gái tràn đầy năng lượng đã thức tỉnh, chiến đấu ở tiền tuyến và đầy sự tia chớp và hy vọng. Cô giải phóng ngọn lửa làm suy yếu cả tấn công lẫn phòng thủ, đồng thời khích lệ đồng đội, và sử dụng hai loại hiệu ứng hồi TP để đem lại chiến thắng.
 
 ##UB##
 ヒヨリアストラルフレア=Hiyori Astral Flare
-目の前の敵１キャラに物理特大ダメージを与え、物理攻撃力を大ダウン、物理防御力を小ダウンさせる。=Deals massive P.DMG to an enemy in front, greatly lowers its P.ATK and slightly lowers its P.DEF.
-r:"^敵単体に(\d+)の物理ダメージ敵単体の物理攻撃力を(\d+)ダウン敵単体の物理防御力を(\d+)ダウン$"=►Deals $1 P.DMG to an enemy.\n►Lowers an enemy's P.ATK by $2 for 18s.\n►Lowers an enemy's P.DEF by $3 for 18s.
+目の前の敵１キャラに物理特大ダメージを与え、物理攻撃力を大ダウン、物理防御力を小ダウンさせる。=Gây sát thương vật lý lớn cho kẻ địch phía trước, giảm mạnh sát thương vật lý của nó và giảm nhẹ sát thương vật lý nhận.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理攻撃力を(\d+)ダウン敵単体の物理防御力を(\d+)ダウン$"=►Gây $1 sát thương vật lý cho kẻ địch.\n►Giảm sát thương vật lý của kẻ địch đi $2 trong 18s.\n►Giảm sát thương vật lý nhận của kẻ địch đi $3 trong 18s.
 
 ##S1##
 レゾナンスファイア=Resonance Fire
-味方全体の物理攻撃力を大アップさせ、物理攻撃クリティカル時のダメージを小アップさせる。さらに、敵全体の物理攻撃力を大ダウンさせ、物理攻撃クリティカル時のダメージを小ダウンさせる。=Greatly boosts all allies' P.ATK, and slightly boosts their P.CRIT DMG. Also, greatly lowers all enemies' P.ATK, and slightly lowers their P.CRIT DMG.
-r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の物理攻撃クリティカル時のダメージを10％アップ敵全体の物理攻撃力を(\d+)ダウン敵全体の物理攻撃クリティカル時のダメージを10％ダウン$"=Cast time: 1.05s\n►Boosts all allies' P.ATK by $1 for 12s.\n►Boosts all allies' P.CRIT DMG by 10% for 12s.\n►Lowers all enemies' P.ATK by $2 for 12s.\n►Lowers all enemies' P.CRIT DMG by 10% for 12s.
+味方全体の物理攻撃力を大アップさせ、物理攻撃クリティカル時のダメージを小アップさせる。さらに、敵全体の物理攻撃力を大ダウンさせ、物理攻撃クリティカル時のダメージを小ダウンさせる。=Tăng mạnh sát thương vật lý của tất cả đồng đội, và tăng nhẹ sát thương vật lý chí mạng của họ. Đồng thời, giảm mạnh sát thương vật lý của tất cả kẻ địch, và giảm nhẹ sát thương vật lý chí mạng của chúng.
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の物理攻撃クリティカル時のダメージを10％アップ敵全体の物理攻撃力を(\d+)ダウン敵全体の物理攻撃クリティカル時のダメージを10％ダウン$"=Thời gian niệm chú: 1.05s\n►Tăng sát thương vật lý của tất cả đồng đội đi $1 trong 12s.\n►Tăng sát thương vật lý chí mạng của tất cả đồng đội đi 10% trong 12s.\n►Giảm sát thương vật lý của tất cả kẻ địch đi $2 trong 12s.\n►Giảm sát thương vật lý chí mạng của tất cả kẻ địch đi 10% trong 12s.
 
 ##S2##
 ブレイズエール=Blaze Cheer
-味方全体の物理攻撃力を大アップさせ、ＴＰを小回復し、継続ＴＰ回復状態を付与する。=Greatly boosts all allies' P.ATK, slightly recovers their TP, and grants continuous TP recovery to them.
-r:"^味方全体の物理攻撃力を(\d+)アップ味方全体のＴＰを50回復毎秒ＴＰを10回復する$"=Cast time: 1.05s\n►Boosts all allies' P.ATK by $1 for 12s.\n►Recovers all allies' TP by 50.\n►Recovers all allies' TP by 10/s for 12.5s.
+味方全体の物理攻撃力を大アップさせ、ＴＰを小回復し、継続ＴＰ回復状態を付与する。=Tăng mạnh sát thương vật lý của tất cả đồng đội, hồi nhẹ TP của họ, và ban cấp hồi TP liên tục cho họ.
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体のＴＰを50回復毎秒ＴＰを10回復する$"=Thời gian niệm chú: 1.05s\n►Tăng sát thương vật lý của tất cả đồng đội đi $1 trong 12s.\n►Hồi TP của tất cả đồng đội 50.\n►Hồi TP của tất cả đồng đội 10/giây trong 12.5s.
 
 ##EX##
 アストラルブレイズ=Astral Blaze
@@ -23,5 +23,5 @@ r:"^味方全体の物理攻撃力を(\d+)アップ味方全体のＴＰを50回
 ##UE##
 レゾナンスファイア+=Resonance Fire+
 火焔のアストラ=Astrea of Blaze
-味方全体の物理攻撃力を特大アップ、物理攻撃クリティカル時のダメージを小アップさせ、ＴＰ上昇を小アップさせる。さらに、敵全体の物理攻撃力を特大ダウン、物理攻撃クリティカル時のダメージを小ダウンさせ、ＴＰ上昇を小ダウンさせる。=Massively boosts allies' P.ATK/P.CRIT DMG/TP Boost. Severely lowers enemies' P.ATK/P.CRIT DMG/TP Boost.
-r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の物理攻撃クリティカル時のダメージを12％アップ味方全体のＴＰ上昇を5アップ敵全体の物理攻撃力を(\d+)ダウン敵全体の物理攻撃クリティカル時のダメージを12％ダウン敵全体のＴＰ上昇を5ダウン$"=►Boosts allies' P.ATK by $1.\n►Boosts allies' P.CRIT DMG by 12%.\n►Boosts allies' TP Boost by 5.\n►Lowers all enemies' P.ATK by $2.\n►Lowers all enemies' P.CRIT DMG by 12%.\n►Lowers all enemies' TP Boost by 5.
+味方全体の物理攻撃力を特大アップ、物理攻撃クリティカル時のダメージを小アップさせ、ＴＰ上昇を小アップさせる。さらに、敵全体の物理攻撃力を特大ダウン、物理攻撃クリティカル時のダメージを小ダウンさせ、ＴＰ上昇を小ダウンさせる。=Tăng mạnh sát thương vật lý/sát thương vật lý chí mạng/tăng TP của đồng đội. Giảm mạnh sát thương vật lý/sát thương vật lý chí mạng/tăng TP của kẻ địch.
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の物理攻撃クリティカル時のダメージを12％アップ味方全体のＴＰ上昇を5アップ敵全体の物理攻撃力を(\d+)ダウン敵全体の物理攻撃クリティカル時のダメージを12％ダウン敵全体のＴＰ上昇を5ダウン$"=►Tăng sát thương vật lý của đồng đội đi $1.\n►Tăng sát thương vật lý chí mạng của đồng đội đi 12%.\n►Tăng Tăng TP của đồng đội đi 5.\n►Giảm sát thương vật lý của tất cả kẻ địch đi $2.\n►Giảm sát thương vật lý chí mạng của tất cả kẻ địch đi 12%.\n►Giảm Tăng TP của tất cả kẻ địch đi 5.

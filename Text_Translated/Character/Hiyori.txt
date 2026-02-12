@@ -1,8 +1,8 @@
 ##Profile##
-人助け、応援=Helping people, giving support
-人助けが大好き！　前向き格闘娘=Always happy to help! An optimistic fighter
+人助け、応援=Giúp đỡ mọi người, hỗ trợ
+人助けが大好き！　前向き格闘娘=Luôn sẵn sàng giúp đỡ! Một người chiến đấu lạc quan
 
-【物理】前衛で、敵前線を押し返す笑顔の元気娘。前衛に対して大ダメージを与えるユニオンバーストと、自身の攻撃力を強化するスキルを持つ攻撃役。=[Physical] An energetic girl who fights in the frontlines to push back the enemy's guard. She's an attaker with a Union Burst that inflicts heavy damage on the frontlines, which can be bolstered further with skills that boost her P.ATK.
+【物理】前衛で、敵前線を押し返す笑顔の元気娘。前衛に対して大ダメージを与えるユニオンバーストと、自身の攻撃力を強化するスキルを持つ攻撃役。=[Vật Lý] Một cô gái năng động chiến đấu ở tuyến đầu để đẩy lùi phòng thủ của kẻ thù. Cô là một tấn công với Union Burst gây sát thương nặng cho tuyến đầu, có thể được củng cố thêm bằng kỹ năng tăng P.ATK.
 
 ドキドキがくれるパワー=The Power Of A Racing Heartbeat
 ストレイキャットメモリー=Memory of a Stray Cat
@@ -20,18 +20,18 @@
 
 ##UB##
 ヒヨリラッシュ=Hiyori Rush
-目の前の敵１キャラに物理大ダメージを与え、さらに自分を中心とした範囲内の敵すべてに物理中ダメージを与える。=Deals large P.DMG to an enemy directly in front and deals moderate P.DMG to all enemies in a small radius around it.
-r:"^敵単体に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理ダメージ$"=►Deals $1 P.DMG to an enemy.\n►Deals $2 P.DMG to enemies in range.
+目の前の敵１キャラに物理大ダメージを与え、さらに自分を中心とした範囲内の敵すべてに物理中ダメージを与える。=Gây sát thương vật lý lớn cho kẻ thù ngay phía trước và gây sát thương vật lý vừa phải cho tất cả kẻ thù trong bán kính nhỏ xung quanh nó.
+r:"^敵単体に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理ダメージ$"=►Gây $1 sát thương vật lý cho một kẻ thù.\n►Gây $2 sát thương vật lý cho kẻ thù trong phạm vi.
 
 ##S1##
 キャットストライク=Kitty Kapow
-目の前の敵１キャラに物理中ダメー\nジを与える。=Deals moderate P.DMG to an enemy directly in front.
-## r:"^敵単体に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理ダメージ$"=This value is ignored because it's the same as UB. Cast time can't be include.
+目の前の敵１キャラに物理中ダメー\nジを与える。=Gây sát thương vật lý vừa phải cho kẻ địch đứng trước mặt.
+## r:"^敵単体に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理ダメージ$"=Giá trị này bị bỏ qua vì nó giống với UB. Thời gian niệm chú không thể bao gồm.
 
 ##S2##
 キャットコンビネーション=Kitty Combo
-目の前の敵１キャラに物理小ダメージを与え、さらに自分の物理攻撃力を中アップさせる。=Deals small P.DMG to an enemy directly in front. Boosts own P.ATK by a moderate amount.
-## r:"^敵単体に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップ$"=This value is ignored because it's the same as Djeeta UB. Cast time can't be include.
+目の前の敵１キャラに物理小ダメージを与え、さらに自分の物理攻撃力を中アップさせる。=Gây sát thương vật lý nhỏ cho kẻ địch đứng trước mặt. Tăng sát thương vật lý của bản thân một lượng vừa phải.
+## r:"^敵単体に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップ$"=Giá trị này bị bỏ qua vì nó giống với UB của Djeeta. Thời gian niệm chú không thể bao gồm.
 
 ##EX##
 肉球パワー！=Paw Power!
@@ -39,32 +39,32 @@ r:"^敵単体に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理ダメ
 
 ##UB+##
 ヒヨリバーニングラッシュ=Hiyori Burning Rush
-目の前の敵１キャラに物理特大ダメージを与え、さらに自分を中心とした範囲内の敵すべてに物理大ダメージを与える。=Deals massive P.DMG to an enemy directly in front and deals moderate P.DMG to all enemies in a radius around it.
+目の前の敵１キャラに物理特大ダメージを与え、さらに自分を中心とした範囲内の敵すべてに物理大ダメージを与える。=Gây sát thương vật lý lớn cho kẻ địch đứng trước mặt và gây sát thương vật lý vừa phải cho tất cả kẻ địch trong phạm vi xung quanh nó.
 
 ##S1+##
 キャットストライク+=Kitty Kapow+
-目の前の敵１キャラに物理大ダメージを与え、さらに自分を中心とした範囲内の敵すべてに物理小ダメージを与える。=Deals large P.DMG to an enemy directly in front and deals small P.DMG to all enemies in a small radius around it.
-## r:"^敵単体に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理ダメージ$"=This value is ignored because it's the same as UB. Cast time can't be include.
+目の前の敵１キャラに物理大ダメージを与え、さらに自分を中心とした範囲内の敵すべてに物理小ダメージを与える。=Gây sát thương vật lý lớn cho kẻ địch đứng trước mặt và gây sát thương vật lý nhỏ cho tất cả kẻ địch trong một phạm vi nhỏ xung quanh nó.
+## r:"^敵単体に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理ダメージ$"=Giá trị này bị bỏ qua vì nó giống với UB. Thời gian niệm chú không thể bao gồm.
 
 ##UE##
 ニャンピオンベルト=Nyanpion's Belt
 
 ##Comments##
-みんなが笑顔でいられるように！\nヒヨリ、頑張りまーっす！　いぇい！=So everyone can smile!\nHiyori'll do her best! Yay!
-この間は助けてくれてありがとう！\nやっぱり困った時はお互いさまさま、だよね！\nこれからも、一緒に助け合っていけたらいいな！=Thank you for saving me the other day! We really are\nin each other's debt when we're in trouble, aren't we?!\nI hope we can keep helping each other out from now on!
-ゆびきりなんて久しぶりだったよー！\n誰かに頼れるって、嬉しいな…\n騎士くんも、どんどんあたしを頼ってね！=It's been a while since I've been able to relax!\nI'm so happy to be able to rely on someone else...\nYou keep relying on me, too, Kishi-kun!
-なんだったんだろう…あの気持ち\n胸の奥が、きゅって苦しくなって…\nあーもー！　分かんないよぉー！=What was that all about...?\nI can feel a pain deep in my chest...\nAaah, geez! I don't get iiit!
-騎士くんに聞いたら、分かるのかな…？\n…ダメだー！　想像しただけで\nなんかドキドキしちゃうー！=I wonder if Kishi-kun would\nbe able to tell me...? ...Nooo!\nJust imagining it makes my heart race!
-お医者さんに行ってみようかな…\nでもなぁー…うーん…\nうーん…！　分かんないよぉー！=Maybe I should go see a doctor...\nbut... hmm... hmmm...! I don't know!
-あの夢、なんだったんだろう…？\n夢の中でも…騎士くんは優しかったな\nあたしも…あんな風になりたい！=What was that dream all about...?\nEven in my dreams... you were so kind, Kishi-kun...\nI want to be like that too!
-大きな大会の前だからって緊張してたのかも…\n騎士くんが言ってくれた通りに、いつものあたしで！\n武闘会、全力で頑張ってくるね！=Maybe I was just nervous because it's before the big\n tournament... Just like Kishi-kun said, I just\nhave to be the usual me! I'll give it my all in the tournament!
-胸の奥から、すっごい力が湧いてくるの！\nいつかあたしも…騎士くんがすっごい力を\n出せるような人になりたいな…=A great power wells up from deep within my chest!\nSomeday... I want to be the kind of person\nwho can bring out your full power...
-やっぱりあたし、騎士くんがいてくれたら\n出来ないかもって思ったことだって、\nやりきれちゃうみたい…=It's as I thought, being with Kishi-kun\ngives me the strength to do\nthings I thought I couldn't...
-騎士くん。応援に来てくれてありがとう！\n聞こえたよ…騎士くんの声\nちゃんとあたしに届いたよ…！=Kishi-kun, thank you for coming to cheer me on!\nI heard you... Your voice reached me!
-もう、しっぽはダメだって言ったのに…\nお詫びに、えーっと…\n甘いものが食べたいなー…なんてね=Geez, I told you not to touch the tail...\nAs an apology, umm... I want to eat something sweet...\nJust kidding~.
-騎士くんを見てたら、もっと強くならなきゃって！\n優しい笑顔を、ずっとずーっと守りたいから…\nだから見ててね、騎士くん！　約束だよっ！=When I saw you, Kishi-kun, I thought I had to\nget stronger! I wanted to protect that gentle smile\non your face forever and ever... So just you watch,\Kishi-kun! It's a promise!
-誰も困ったりしないような…そんな世界になったらいいな\nそのためにも、あたしもーっと強くなるよ！\n騎士くん、一緒にみんなの笑顔を守っていこうね！=It'd be nice if it turned into a world where no \none would be troubled... I'll get stronger too!\nKishi-kun, let's protect everyone's smiles together!
-騎士くんとなら、世界だって変えられそうだよ！\nどんな人助けも一つ一つ積み重ねていけば、きっと…\nほら、特訓と同じかなーって！　そんな気がするんだ！=I think I'll be able to change the world with you, Kishi-kun!\nIf I help everyone one by one, I'm sure of it!\nSee, it's like a sort of special training!\nThat's how I feel!
-決めたっ！　騎士くんと離れて一人でいるより\n騎士くんのそばでドキドキしてるほうがいいや！\nほらほら行こっ！　…やっぱりドキドキするよー！=I've made up my mind! It's better for my heart to race by\nKishi-kun's side than to be alone without him!\nCome on, let's go! ...I'm still nervous!
-ねえねえ騎士くんも一緒に行く？\nあ…でもそしたらあたし、ドキドキしっぱなしだー！\nうぅー、騎士くんといたいけど、どーしよー…=Hey, hey, wanna come with me? Oh...\nBut then my heart's beating like crazy!\nUgh, I want to be with you, but what should I do...?
-騎士くんのそばにいると\nなんだかドキドキして落ち着かないよー！\nどこかにお出かけして、気分転換しよっと！=My heart's beating so fast when I'm with you,\nI can't calm down!\nI'll go out somewhere for a change of pace!
+みんなが笑顔でいられるように！\nヒヨリ、頑張りまーっす！　いぇい！=Để mọi người có thể cười!\nHiyori sẽ cố gắng hết sức! Yay!
+この間は助けてくれてありがとう！\nやっぱり困った時はお互いさまさま、だよね！\nこれからも、一緒に助け合っていけたらいいな！=Cảm ơn vì đã cứu tôi hôm kia! Thật sự chúng ta\nnợ nhau khi gặp khó khăn, phải không?!\nHy vọng chúng ta có thể tiếp tục giúp đỡ nhau từ giờ!
+ゆびきりなんて久しぶりだったよー！\n誰かに頼れるって、嬉しいな…\n騎士くんも、どんどんあたしを頼ってね！=Đã lâu rồi tôi mới được thư giãn!\nTôi rất vui vì có thể dựa vào người khác...\nCậu cũng hãy dựa vào tôi nhé, Kishi-kun!
+なんだったんだろう…あの気持ち\n胸の奥が、きゅって苦しくなって…\nあーもー！　分かんないよぉー！=Chuyện đó là sao...?\nTôi có thể cảm thấy một nỗi đau sâu trong lồng ngực...\nAaaah, chán quá! Tôi không hiểu!
+騎士くんに聞いたら、分かるのかな…？\n…ダメだー！　想像しただけで\nなんかドキドキしちゃうー！=Tôi tự hỏi liệu Kishi-kun có\nthể nói cho tôi biết được không...? ...Không!\nChỉ nghĩ đến thôi tim tôi đã đập thình thịch rồi!
+お医者さんに行ってみようかな…\nでもなぁー…うーん…\nうーん…！　分かんないよぉー！=Có lẽ tôi nên đi gặp bác sĩ...\nnhưng... hmm... hmmm...! Tôi không biết!
+あの夢、なんだったんだろう…？\n夢の中でも…騎士くんは優しかったな\nあたしも…あんな風になりたい！=Giấc mơ đó là về chuyện gì...?\nNgay cả trong giấc mơ... cậu vẫn rất tốt bụng, Kishi-kun...\nTôi cũng muốn trở thành người như thế!
+大きな大会の前だからって緊張してたのかも…\n騎士くんが言ってくれた通りに、いつものあたしで！\n武闘会、全力で頑張ってくるね！=Có lẽ tôi chỉ hơi căng thẳng vì trước giải đấu lớn...\nNhư Kishi-kun nói, tôi chỉ cần là chính mình!\nTôi sẽ cố gắng hết sức trong giải đấu!
+胸の奥から、すっごい力が湧いてくるの！\nいつかあたしも…騎士くんがすっごい力を\n出せるような人になりたいな…=Một sức mạnh lớn trào dâng từ sâu trong lồng ngực tôi!\nMột ngày nào đó... tôi muốn trở thành người\ncó thể đánh thức toàn bộ sức mạnh của cậu...
+やっぱりあたし、騎士くんがいてくれたら\n出来ないかもって思ったことだって、\nやりきれちゃうみたい…=Đúng như tôi nghĩ, được ở bên Kishi-kun\ncho tôi thêm sức mạnh để làm\nnhững điều tôi nghĩ mình không thể...
+騎士くん。応援に来てくれてありがとう！\n聞こえたよ…騎士くんの声\nちゃんとあたしに届いたよ…！=Kishi-kun, cảm ơn vì đã đến cổ vũ tôi!\nTôi nghe thấy rồi... Giọng nói của cậu đã đến được với tôi!
+もう、しっぽはダメだって言ったのに…\nお詫びに、えーっと…\n甘いものが食べたいなー…なんてね=Chán quá, tôi đã bảo đừng chạm vào đuôi rồi mà...\nNhư một lời xin lỗi, à... tôi muốn ăn thứ gì đó ngọt...\nĐùa thôi~.
+騎士くんを見てたら、もっと強くならなきゃって！\n優しい笑顔を、ずっとずーっと守りたいから…\nだから見ててね、騎士くん！　約束だよっ！=Khi thấy cậu, Kishi-kun, tôi nghĩ mình phải\ntrở nên mạnh mẽ hơn! Tôi muốn bảo vệ nụ cười dịu dàng\n trên khuôn mặt cậu mãi mãi... Vì vậy, hãy nhìn kỹ nhé,\nKishi-kun! Đó là lời hứa!
+誰も困ったりしないような…そんな世界になったらいいな\nそのためにも、あたしもーっと強くなるよ！\n騎士くん、一緒にみんなの笑顔を守っていこうね！=Sẽ thật tuyệt nếu thế giới trở nên không còn ai gặp khó khăn...\nTôi cũng sẽ trở nên mạnh mẽ!\nKishi-kun, hãy bảo vệ nụ cười của mọi người cùng nhau!
+騎士くんとなら、世界だって変えられそうだよ！\nどんな人助けも一つ一つ積み重ねていけば、きっと…\nほら、特訓と同じかなーって！　そんな気がするんだ！=Tôi nghĩ tôi sẽ có thể thay đổi thế giới với cậu, Kishi-kun!\nNếu tôi giúp từng người một, tôi chắc chắn!\nNhìn kìa, giống như một loại huấn luyện đặc biệt!\nĐó là cảm giác của tôi!
+決めたっ！　騎士くんと離れて一人でいるより\n騎士くんのそばでドキドキしてるほうがいいや！\nほらほら行こっ！　…やっぱりドキドキするよー！=Tôi đã quyết định! Tốt hơn là tim tôi đập thình thịch bên\ncạnh Kishi-kun còn hơn là một mình không có cậu!\nNào, đi thôi! ...Tôi vẫn còn hơi căng thẳng!
+ねえねえ騎士くんも一緒に行く？\nあ…でもそしたらあたし、ドキドキしっぱなしだー！\nうぅー、騎士くんといたいけど、どーしよー…=Này, này, muốn đi cùng tôi không? Ồ...\nNhưng mà tim tôi đập như điên!\nUgh, tôi muốn ở bên cậu, nhưng tôi nên làm gì...?
+騎士くんのそばにいると\nなんだかドキドキして落ち着かないよー！\nどこかにお出かけして、気分転換しよっと！=Tim tôi đập nhanh quá khi ở bên cậu,\ntôi không thể bình tĩnh lại!\nTôi sẽ ra ngoài chỗ khác để thay đổi không khí!

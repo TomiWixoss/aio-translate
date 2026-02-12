@@ -1,37 +1,37 @@
 ##Profile##
-【物理】最前衛で、敵の物理攻撃を邪魔するいたずら娘。目の前の敵を暗闇状態にし、命中率を大幅に下げるほか、敵一体の物理攻撃力を下げるスキルを持つ。=[Physical] A little prankster who gets up close and personal to obstruct the enemy's physical attacks. By inflicting Blind, she obliterates the foe's ability to aim effectively, and she can also decrease an enemy's attack stat directly.
+【物理】最前衛で、敵の物理攻撃を邪魔するいたずら娘。目の前の敵を暗闇状態にし、命中率を大幅に下げるほか、敵一体の物理攻撃力を下げるスキルを持つ。=[Vật lý] Một tên quậy phá nhỏ, tiếp cận kẻ địch để cản trở đòn tấn công vật lý. Bằng cách gây Blind, cô phá hủy khả năng ngắm bắn hiệu quả của kẻ thù, và còn có thể giảm trực tiếp chỉ số tấn công của kẻ địch.
 いたずら、探検=Prank, exploration
 探検好きのイタズラっ子=A prankster who loves exploring
 
 ##UB##
 トリックボマー=Trick Bomber
-自分から２番目に近い敵を中心とした範囲内の敵すべてに物理中ダメージを与える。=Deals moderate P.DMG to enemies in a radius around the 2nd closest enemy.
+自分から２番目に近い敵を中心とした範囲内の敵すべてに物理中ダメージを与える。=Gây lượng P.DMG trung bình cho kẻ địch trong bán kính xung quanh kẻ địch thứ hai gần nhất.
 
 ##S1##
 インクシューター=Ink Spray
-自分から２番目に近い敵１キャラに物理小ダメージを与え、さらに暗闇状態にする。=Deals small P.DMG to the 2nd closest enemy and inflicts Blind.
-r:"^敵単体に(\d+)の物理ダメージ敵単体を暗闇状態にする$"=►Deals $1 P.DMG to an enemy.\n►Inflicts Blind.
+自分から２番目に近い敵１キャラに物理小ダメージを与え、さらに暗闇状態にする。=Gây lượng P.DMG nhỏ cho kẻ địch thứ hai gần nhất và gây Blind.
+r:"^敵単体に(\d+)の物理ダメージ敵単体を暗闇状態にする$"=►Gây $1 P.DMG cho kẻ địch.\n►Gây Blind.
 
 ##S2##
 ウォーターバルーン=Water Balloon
-最も物理攻撃力が高い敵１キャラに物理小ダメージを与え、物理攻撃力を小ダウンさせ、さらに自分の物理攻撃力を小アップさせる。=Deals small P.DMG to an enemy with the highest P.ATK and lowers its P.ATK by a small amount. Small boost to own P.ATK.
-r:"^敵単体に(\d+)の物理ダメージ敵単体の物理攻撃力を(\d+)ダウン自分の物理攻撃力を(\d+)アップ$"=Cast time: 1.18s\n►Deals $1 P.DMG to an enemy.\n►Lowers an enemy's P.ATK by $2 for 99s.\n►Boosts own P.ATK by $3 for 99s.
+最も物理攻撃力が高い敵１キャラに物理小ダメージを与え、物理攻撃力を小ダウンさせ、さらに自分の物理攻撃力を小アップさせる。=Gây sát thương vật lý nhỏ lên kẻ địch có tấn công vật lý cao nhất và giảm một chút tấn công vật lý của chúng. Tăng một chút tấn công vật lý của bản thân.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理攻撃力を(\d+)ダウン自分の物理攻撃力を(\d+)アップ$"=Thời gian niệm: 1.18s\n►Gây $1 sát thương vật lý lên một kẻ địch.\n►Giảm tấn công vật lý của kẻ địch đi $2 trong 99s.\n►Tăng tấn công vật lý của bản thân đi $3 trong 99s.
 
 ##EX##
 トラップエキスパート=Professional Prankster
 トラップエキスパート+=Professional Prankster+
-バトル開始時に自分の物理防御力を中アップさせ、さらに自分の物理攻撃力を小アップさせる。=Moderate boost to own P.DEF and small boost to P.ATK at start of battle.
-r:"^自分の物理防御力を(\d+)アップ自分の物理攻撃力を(\d+)アップ$"=►Boosts own P.DEF by $1.\n►Boosts own P.ATK by $2.
+バトル開始時に自分の物理防御力を中アップさせ、さらに自分の物理攻撃力を小アップさせる。=Tăng phòng thủ vật lý của bản thân một chút và tăng tấn công vật lý một chút khi trận đấu bắt đầu.
+r:"^自分の物理防御力を(\d+)アップ自分の物理攻撃力を(\d+)アップ$"=►Tăng phòng thủ vật lý của bản thân đi $1.\n►Tăng tấn công vật lý của bản thân đi $2.
 
 ##UB+##
 トリックハート=Trick Heart
-敵全体に物理大ダメージを与え、物理攻撃力と物理クリティカルを特大ダウンさせる。さらに、物理攻撃クリティカル時のダメージを中ダウンさせる。=Deals large P.DMG to all enemies. Lowers enemies P.ATK and P.CRIT Rate by a massive amount, and lowers enemies P.CRIT DMG by a moderate amount.
-r:"^敵全体に(\d+)の物理ダメージ敵全体の物理攻撃力を(\d+)ダウン敵全体の物理クリティカルを(\d+)ダウン敵全体の物理攻撃クリティカル時のダメージを25％ダウン$"=►Deals $1 P.DMG to all enemies.\n►Lowers all enemies' P.ATK by $2 for 18s.\n►Lowers all enemies' P.CRIT Rate by $3 for 18s.\n►Lowers all enemies' P.CRIT DMG by 25% for 18s.
+敵全体に物理大ダメージを与え、物理攻撃力と物理クリティカルを特大ダウンさせる。さらに、物理攻撃クリティカル時のダメージを中ダウンさせる。=Gây sát thương vật lý lớn lên tất cả kẻ địch. Giảm một lượng lớn tấn công vật lý và tỷ lệ chí mạng vật lý của kẻ địch, và giảm một lượng vừa phải sát thương chí mạng vật lý của kẻ địch.
+r:"^敵全体に(\d+)の物理ダメージ敵全体の物理攻撃力を(\d+)ダウン敵全体の物理クリティカルを(\d+)ダウン敵全体の物理攻撃クリティカル時のダメージを25％ダウン$"=►Gây $1 sát thương vật lý lên tất cả kẻ địch.\n►Giảm tấn công vật lý của tất cả kẻ địch đi $2 trong 18s.\n►Giảm tỷ lệ chí mạng vật lý của tất cả kẻ địch đi $3 trong 18s.\n►Giảm sát thương chí mạng vật lý của tất cả kẻ địch 25% trong 18s.
 
 ##S1+##
 インクシューター+=Ink Spray+
-自分から２番目に近い敵１キャラに物理中ダメージを与え、暗闇状態にする。さらに範囲内の敵すべての物理攻撃力を小ダウンさせる。=Deals small P.DMG to the 2nd closest enemy and inflicts Blind. Lowers the P.ATK of all enemies within range by a small amount.
-r:"^敵単体に(\d+)の物理ダメージ敵単体を暗闇状態にする範囲内の敵の物理攻撃力を(\d+)ダウン$"=Cast time: 1.55s\n►Deals $1 P.DMG to an enemy.\n►Inflicts Blind for 10s.\n►Lowers enemies' P.ATK in 200 range by $2 for 180s.
+自分から２番目に近い敵１キャラに物理中ダメージを与え、暗闇状態にする。さらに範囲内の敵すべての物理攻撃力を小ダウンさせる。=Gây sát thương vật lý nhỏ lên kẻ địch đứng thứ hai từ xa nhất và gây hiệu ứng Mù. Giảm một chút tấn công vật lý của tất cả kẻ địch trong phạm vi.
+r:"^敵単体に(\d+)の物理ダメージ敵単体を暗闇状態にする範囲内の敵の物理攻撃力を(\d+)ダウン$"=Thời gian niệm: 1.55s\n►Gây $1 sát thương vật lý lên một kẻ địch.\n►Gây Mù trong 10s.\n►Giảm tấn công vật lý của kẻ địch trong phạm vi 200 đi $2 trong 180s.
 
 ##UE##
 トリックギフト=Trick Gift

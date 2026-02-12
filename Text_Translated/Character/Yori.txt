@@ -1,36 +1,36 @@
 ##Profile##
-人見知りであまのじゃくな女の子=A timid girl who's scared of strangers
+人見知りであまのじゃくな女の子=Một cô gái nhút nhát, sợ người lạ
 
-【魔法】中衛から、強力な魔法で攻め立てる、双子の姉。自身のＨＰと引き換えに魔法攻撃力を増幅し、ユニオンバーストやスキルの威力を高めて攻撃する。=[Magic] An elder twin who attacks with powerful magic from the midguard. Boosts magic power at the cost of her own HP to enhance the destructive ability of her Union Burst and skills.
-ゲーム全般=All type games
+【魔法】中衛から、強力な魔法で攻め立てる、双子の姉。自身のＨＰと引き換えに魔法攻撃力を増幅し、ユニオンバーストやスキルの威力を高めて攻撃する。=[Phép Thuật] Chị cả song sinh tấn công bằng phép thuật mạnh mẽ từ trung tuyến. Tăng sức mạnh phép thuật bằng chi phí HP của bản thân để tăng cường khả năng phá hủy của Union Burst và kỹ năng.
+ゲーム全般=Tất cả thể loại game
 
-最高のパートナー=The Best Partner
-約束のコンティニュー=Promised Continuation
-『好き』が集まる場所=A Place Where "Love" Gathers
-ゲームがつなぐ縁と絆=Ties that games Connect
+最高のパートナー=Đối Tác Tốt Nhất
+約束のコンティニュー=Sự Tiếp Nối Đã Hứa
+『好き』が集まる場所=Một Nơi Tập Hợp Của "Tình Yêu"
+ゲームがつなぐ縁と絆=Mối Liên Kết Của Game
 
-お礼、言えた！…かな？=A Sort-Of Success
-本当に伝えたかった事=My True Feelings
-いつか素直な気持ちを……=Maybe Someday...
-レアアイテムをゲットせよ=Rare Fruit Hunting
-乙女の問題発言！=A Questionable Suggestion
-ゲームだったら負けません=Games Are My Speciality!
-ありがとうが言えなくて=Thank You Is the Hardest Word
-わ…私、人見知りで…=A Shy Girl's Struggles
+お礼、言えた！…かな？=Một Thành Công Tương Đối
+本当に伝えたかった事=Cảm Xúc Thật Của Tôi
+いつか素直な気持ちを……=Có Thẽ Một Ngày...
+レアアイテムをゲットせよ=Săn Trái Cây Hiếm
+乙女の問題発言！=Một Gợi Ý Đáng Ngờ
+ゲームだったら負けません=Game Là Sở Trường Của Tôi!
+ありがとうが言えなくて=Cảm Ơn Là Từ Khó Nhất
+わ…私、人見知りで…=Sự Vất Vả Của Cô Gái Nhút Nhát
 
 
 ##UB##
 ライトニングジャベリン=Lightning Javelin
-前方範囲内の敵すべてに魔法中ダメージを与える。=Deals moderate M.DMG to all enemies in range.
+前方範囲内の敵すべてに魔法中ダメージを与える。=Gây sát thương phép trung bình cho tất cả kẻ địch trong phạm vi.
 
 ##S1##
 オーバーチャージ=Overcharge
-ＨＰを消費して、自分の魔法攻撃力を大アップさせる。=Large boost to own M.ATK at the cost of HP.
-r:"^自分のＨＰを(\d+)消費自分の魔法攻撃力を(\d+)アップ$"=Cast Time: 1.25s\n►Reduces own HP by $1.\n►Boosts own M.ATK by $2.
+ＨＰを消費して、自分の魔法攻撃力を大アップさせる。=Tăng mạnh M.ATK của bản thân nhưng giảm HP.
+r:"^自分のＨＰを(\d+)消費自分の魔法攻撃力を(\d+)アップ$"=Thời gian niệm: 1.25s\n►Giảm HP của bản thân bằng $1.\n►Tăng M.ATK của bản thân bằng $2.
 
 ##S2##
 シャドウブラスト=Shadow Blast
-前方範囲内の敵すべてに魔法小ダメージを与える。=Deals moderate M.DMG to all enemies in range.
+前方範囲内の敵すべてに魔法小ダメージを与える。=Gây sát thương phép trung bình cho tất cả kẻ địch trong phạm vi.
 
 ##EX##
 ライトニングブースト=Lightning Surge
@@ -38,12 +38,12 @@ r:"^自分のＨＰを(\d+)消費自分の魔法攻撃力を(\d+)アップ$"=Cas
 
 ##UB+##
 ジャッジメントジャベリン=Judgment Javelin
-前方範囲内の敵すべてに魔法大ダメージを与える。ヨリのＨＰが低いほど、ダメージがアップする。=Great M.DMG to all enemies within the front range. The lower the HP of Yori, the more damage it will increase.
+前方範囲内の敵すべてに魔法大ダメージを与える。ヨリのＨＰが低いほど、ダメージがアップする。=Gây sát thương phép lớn cho tất cả kẻ địch trong phạm vi phía trước. HP càng thấp của Yori, sát thương càng tăng.
 
 ##S1+##
 オーバーチャージ+=Overcharge+
-ＨＰを消費して、自分の魔法攻撃力を特大アップさせ、さらにＴＰを中回復させる。=Massive boost to own M.ATK at the cost of HP. Recovers own TP by a moderate amount.
-r:"^自分のＨＰを(\d+)消費自分の魔法攻撃力を(\d+)アップ自分のＴＰを(\d+)回復$"=Cast Time: 1.25s\n►Reduces own HP by $1.\n►Boosts own M.ATK by $2.\n►Recovers own TP by $3.
+ＨＰを消費して、自分の魔法攻撃力を特大アップさせ、さらにＴＰを中回復させる。=Tăng cực lớn M.ATK của bản thân với cái giá là HP. Hồi một lượng trung bình TP của bản thân.
+r:"^自分のＨＰを(\d+)消費自分の魔法攻撃力を(\d+)アップ自分のＴＰを(\d+)回復$"=Thời gian niệm: 1.25s\n►Giảm HP của bản thân bằng $1.\n►Tăng M.ATK của bản thân bằng $2.\n►Hồi TP của bản thân bằng $3.
 
 ##UE##
 デモンズジャベリン=Demon's Javelin

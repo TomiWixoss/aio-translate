@@ -1,19 +1,19 @@
 ##Profile##
-【物理】前衛から、ベルの音色で味方を守る小さな女優。攻撃を受けるまで周囲にいる味方の防御力を大きく高めるスキルを持つ。活用できれば無類の耐久力を誇る。=[Physical] An aspiring young actress who protects her friends from the vanguard with the sound of her bell. By greatly boosting the defense of allies around her until she is attacked, she can render a party nigh invulnerable in the right situation.
+【物理】前衛から、ベルの音色で味方を守る小さな女優。攻撃を受けるまで周囲にいる味方の防御力を大きく高めるスキルを持つ。活用できれば無類の耐久力を誇る。=[Vật Lý] Một diễn viên trẻ đầy khát vọng bảo vệ bạn bè ở tuyến trước với âm thanh chuông của mình. Bằng cách tăng rất lớn phòng thủ cho đồng đội xung quanh cho đến khi bị tấn công, cô ấy có thể khiến cả đội gần như bất khả xâm phạm trong tình huống phù hợp.
 
 ##UB##
 ウィンターコールベル=Winter Chimes
-味方全体の魔法防御力を中アップさせ、さらに自分に魔法吸収バリアを展開する。=Moderate boost to allies' M.DEF. Deploys a barrier around oneself that absorbs M.DMG.
-r:"^味方全体の魔法防御力を(\d+)アップ(\d+)ダメージ分の魔法吸収バリアを展開する$"=►Boosts allies' M.DEF by $1.\n►Deploys Barrier that absorbs $2 M.DMG.
+味方全体の魔法防御力を中アップさせ、さらに自分に魔法吸収バリアを展開する。=Tăng vừa M.DEF của đồng đội. Triển khai một rào cản xung quanh bản thân hấp thụ sát thương ma thuật.
+r:"^味方全体の魔法防御力を(\d+)アップ(\d+)ダメージ分の魔法吸収バリアを展開する$"=►Tăng M.DEF của đồng đội bởi $1.\n►Triển khai Rào Cản hấp thụ $2 sát thương ma thuật.
 
 ##S1##
 ベルチアリング=Jingling Cheer
-攻撃を受けるか一定時間経過するまでの間、ベルを鳴らして自分を中心とした範囲内の味方の物理防御力を特大アップさせる。=Rings a bell to massively boost the allies' P.DEF in range. This effect continues for a set time or until attacked.
-r:"^ベルを鳴らしている間、範囲内の味方の物理防御力を(\d+)アップ$"=►While ringing the bell, boosts allies' P.DEF in range by $1.
+攻撃を受けるか一定時間経過するまでの間、ベルを鳴らして自分を中心とした範囲内の味方の物理防御力を特大アップさせる。=Rung chuông để tăng cực lớn P.DEF của đồng đội trong phạm vi. Hiệu ứng này kéo dài trong một khoảng thời gian cố định hoặc cho đến khi bị tấn công.
+r:"^ベルを鳴らしている間、範囲内の味方の物理防御力を(\d+)アップ$"=►Trong khi đang rung chuông, tăng P.DEF cho đồng đội trong phạm vi bởi $1.
 
 ##S2##
 ヒーリングベル=Healing Bell
-自分の周囲に、範囲内の味方すべてのＨＰを小回復するフィールドを展開する。=Deploys a field 410 range that recovers HP of all nearby allies by a small amount.
+自分の周囲に、範囲内の味方すべてのＨＰを小回復するフィールドを展開する。=Triển khai một vùng phạm vi 410 hồi HP một lượng nhỏ cho tất cả đồng minh gần đó.
 
 ##EX##
 セイントエトワール=Saint Etoile
@@ -21,13 +21,13 @@ r:"^ベルを鳴らしている間、範囲内の味方の物理防御力を(\d+
 
 ##S1+##
 ベルチアリング+=Jingling Cheer+
-５回攻撃を受けるか一定時間経過するまでの間、ベルを鳴らして自分を中心とした範囲内の味方の物理防御力を特大アップさせる。さらに味方全体の物理防御力を中アップさせ、自分のＴＰを小回復する。=Rings a bell to massively boost the P.DEF of all allies in range. This effect continues for a set time or until attacked 5 times. Additionally boosts all allies' P.DEF by a moderate amount and recovers own TP by a small amount.
-r:"^ベルを鳴らしている間、範囲内の味方の物理防御力を(\d+)アップ味方全体の物理防御力を(\d+)アップ自分のＴＰを(\d+)回復$"=Cast time: 1.05s\n►While ringing the bell, boosts allies' P.DEF in range by $1.\n►Boosts allies' P.DEF by $2.\n►Recovers own TP by $3.
+５回攻撃を受けるか一定時間経過するまでの間、ベルを鳴らして自分を中心とした範囲内の味方の物理防御力を特大アップさせる。さらに味方全体の物理防御力を中アップさせ、自分のＴＰを小回復する。=Rung chuông để tăng cực lớn P.DEF của tất cả đồng đội trong phạm vi. Hiệu ứng này kéo dài trong một khoảng thời gian cố định hoặc cho đến khi bị tấn công 5 lần. Ngoài ra, tăng vừa P.DEF cho tất cả đồng đội và hồi TP của bản thân một lượng nhỏ.
+r:"^ベルを鳴らしている間、範囲内の味方の物理防御力を(\d+)アップ味方全体の物理防御力を(\d+)アップ自分のＴＰを(\d+)回復$"=Thời gian niệm: 1.05s\n►Trong khi đang rung chuông, tăng P.DEF cho đồng đội trong phạm vi bởi $1.\n►Tăng P.DEF cho đồng đội bởi $2.\n►Hồi TP của bản thân bởi $3.
 
 ##S2+##
 ヒーリングベル+=Healing Bell+
-自分の周囲に、範囲内の味方すべての物理攻撃力と魔法攻撃力を特大アップし、ＨＰを小回復するフィールドを展開する。=Deploys a field 410 range around herself, greatly boosting the P.ATK and M.ATK of all allies within range and slightly recovering HP.
-r:"^物理攻撃力を(\d+)アップさせるフィールドを展開する魔法攻撃力を(\d+)アップさせるフィールドを展開する毎秒ＨＰを(\d+)回復するフィールドを展開する$"=Cast time: 1.19s\n►Deploys a field that boosts P.ATK by $1 for 12s.\n►Deploys a field that boosts M.ATK by $2 for 12s.\n►Deploys a field that recovers allies' HP by $3/s for 12s.
+自分の周囲に、範囲内の味方すべての物理攻撃力と魔法攻撃力を特大アップし、ＨＰを小回復するフィールドを展開する。=Triển khai một vùng phạm vi 410 xung quanh bản thân, tăng rất lớn P.ATK và M.ATK của tất cả đồng đội trong phạm vi và hồi nhỏ HP.
+r:"^物理攻撃力を(\d+)アップさせるフィールドを展開する魔法攻撃力を(\d+)アップさせるフィールドを展開する毎秒ＨＰを(\d+)回復するフィールドを展開する$"=Thời gian niệm: 1.19s\n►Triển khai vùng tăng P.ATK bởi $1 trong 12s.\n►Triển khai vùng tăng M.ATK bởi $2 trong 12s.\n►Triển khai vùng hồi HP cho đồng đội bởi $3/s trong 12s.
 
 ##UE##
 クリスマスアクトベル=Festive Actress Bell

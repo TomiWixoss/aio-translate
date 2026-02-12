@@ -1,478 +1,478 @@
-枚数選択=Select
+枚数選択=Chọn
 
-カムバック スペシャルフェス=Return SpecialFes
-ムバック スペシャルフェス=-Ching: Return SpecialFes
-ガチャ結果=Gacha Results
+カムバック スペシャルフェス=Quay lại SpecialFes
+ムバック スペシャルフェス=-Ching: Quay lại SpecialFes
+ガチャ結果=Kết quả Gacha
 Sダッシュ=S:Dash
 プリフェス=PriFES
-プリフェスガチャ=PriFES Gacha
-★3確定=Guarantee ★3
-★3確定（火）=3★ Fire
-★3確定（水）=3★ Water
-★3確定（風）=3★ Wind
-★3確定（光）=3★ Light
-★3確定（闇）=3★ Dark
+プリフェスガチャ=Gacha PriFES
+★3確定=Đảm bảo ★3
+★3確定（火）=3★ Lửa
+★3確定（水）=3★ Nước
+★3確定（風）=3★ Gió
+★3確定（光）=3★ Ánh sáng
+★3確定（闇）=3★ Bóng tối
 
 プラチナ=Premium
-ピックアップ=Focus
-プラチナガチャ=Premium Gacha
-ノーマルガチャ=Normal Gacha
-プライズガチャ=Prize gacha
-選べる★3(闇)=3★ Dark
-選べる★3(光)=3★ Light
-選べる★3(水)=3★ Water
-選べる★3(火)=3★ Fire
-選べる★3(風)=3★ Wind
-マスターピース残り獲得可能回数=Master Pc. left
+ピックアップ=Tập trung
+プラチナガチャ=Gacha Premium
+ノーマルガチャ=Gacha Thường
+プライズガチャ=Gacha Giải thưởng
+選べる★3(闇)=3★ Bóng tối
+選べる★3(光)=3★ Ánh sáng
+選べる★3(水)=3★ Nước
+選べる★3(火)=3★ Lửa
+選べる★3(風)=3★ Gió
+マスターピース残り獲得可能回数=Số lần chơi Master còn lại
 
 残り=/
-対象キャラを仲間にすると=Rate-up recruit bonus:
-選択人数=Select
+対象キャラを仲間にすると=Tỷ lệ tuyển chọn được tăng:
+選択人数=Chọn
 
-クリスマス★3確定プラチナガチャ=Guarantee ★3 Christmas Platinum Gacha
-闇属性 選べる★3確定プラチナガチャ=Guarantee ★3 Dark Platinum Gacha
-光属性 選べる★3確定プラチナガチャ=Guarantee ★3 Light Platinum Gacha
-火属性 選べる★3確定プラチナガチャ=Guarantee ★3 Fire Platinum Gacha
-水属性 選べる★3確定プラチナガチャ=Guarantee ★3 Water Platinum Gacha
-風属性 選べる★3確定プラチナガチャ=Guarantee ★3 Wind Platinum Gacha
-火属性 ★3確定プラチナガチャ=Guarantee ★3 Fire Platinum Gacha
-水属性 ★3確定プラチナガチャ=Guarantee ★3 Water Platinum Gacha
-風属性 ★3確定プラチナガチャ=Guarantee ★3 Wind Platinum Gacha
-光属性 ★3確定プラチナガチャ=Guarantee ★3 Light Platinum Gacha
-闇属性 ★3確定プラチナガチャ=Guarantee ★3 Dark Platinum Gacha
+クリスマス★3確定プラチナガチャ=Đảm bảo ★3 Gacha Platin Giáng Sinh
+闇属性 選べる★3確定プラチナガチャ=Đảm bảo ★3 Gacha Platin Bóng Tối
+光属性 選べる★3確定プラチナガチャ=Đảm bảo ★3 Gacha Platin Ánh Sáng
+火属性 選べる★3確定プラチナガチャ=Đảm bảo ★3 Gacha Platin Lửa
+水属性 選べる★3確定プラチナガチャ=Đảm bảo ★3 Gacha Platin Nước
+風属性 選べる★3確定プラチナガチャ=Đảm bảo ★3 Gacha Platin Gió
+火属性 ★3確定プラチナガチャ=Đảm bảo ★3 Gacha Platin Lửa
+水属性 ★3確定プラチナガチャ=Đảm bảo ★3 Gacha Platin Nước
+風属性 ★3確定プラチナガチャ=Đảm bảo ★3 Gacha Platin Gió
+光属性 ★3確定プラチナガチャ=Đảm bảo ★3 Gacha Platin Ánh Sáng
+闇属性 ★3確定プラチナガチャ=Đảm bảo ★3 Gacha Platin Bóng Tối
 
-限定★3確定=Limited ★3\nGuarantee
-限定★3確定ガチャ=Guarantee ★3\nLim gacha
-r:"^([0-9.]+)Year Anniversaryガチャ$"=$1 Year Anniversary Gacha
-r:"^([0-9.]+)th Anniversaryガチャ$"=$1th Anniversary Gacha
-限定スタートダッシュガチャ=Limited Start Dash Gacha
-★3確定 ガチャチケットについて=Guarantee ★3 Gacha Ticket
-Anniv. スペシャル交換チケットについて=Anniv. Sp Exchange Ticket
+限定★3確定=Hạn Chế ★3 Đảm Bảo
+限定★3確定ガチャ=Đảm bảo ★3 Gacha hạn chế
+r:"^([0-9.]+)Year Anniversaryガチャ$"=Gacha Kỷ Niệm $1 Năm
+r:"^([0-9.]+)th Anniversaryガチャ$"=Gacha Kỷ Niệm $1th
+限定スタートダッシュガチャ=Gacha Start Dash Hạn Chế
+★3確定 ガチャチケットについて=Vé Gacha Đảm Bảo ★3
+Anniv. スペシャル交換チケットについて=Vé Đổi Đặc Biệt Kỷ Niệm
 
-★3確定 アニメガチャチケットについて=Guarantee ★3 Anime Gacha Ticket
-★3確定 プリコネフェス記念ガチャチケット=Guarantee ★3 Pricone-FES Memorial Gacha Ticket
-r:"^★3確定 プリコネフェス(\d*)記念ガチャチケット$"=Guarantee ★3 PriCone-FES $1 Memorial gacha ticket
-r:"^★3確定 ([0-9.]+)周年記念ガチャチケット$"=Guarantee ★3 $1th Anniversary Gacha Ticket
-★3確定プラチナガチャ=Guarantee ★3 Premium Gacha
-★3確定ガチャ=Guarantee ★3 Gacha
-sr:"^★3確定( )?(.*)?(ガチャ)(チケット)?$"=Guarantee ★3 $2 $3 $4
-出現率UP=Boosted rates
+★3確定 アニメガチャチケットについて=Vé Gacha Anime Đảm Bảo ★3
+★3確定 プリコネフェス記念ガチャチケット=Vé Gacha Kỷ Niệm Pricone-FES Đảm Bảo ★3
+r:"^★3確定 プリコネフェス(\d*)記念ガチャチケット$"=Vé Gacha Kỷ Niệm PriCone-FES $1 Đảm Bảo ★3
+r:"^★3確定 ([0-9.]+)周年記念ガチャチケット$"=Vé Gacha Kỷ Niệm $1th Đảm Bảo ★3
+★3確定プラチナガチャ=Gacha Cao Cấp Đảm Bảo ★3
+★3確定ガチャ=Gacha Đảm Bảo ★3
+sr:"^★3確定( )?(.*)?(ガチャ)(チケット)?$"=Đảm bảo ★3 $2 $3 $4
+出現率UP=Tỷ lệ tăng
 
-選択人数が不足しています。=The number of selections is insufficient.
-購入Lv制限解除中=Purchase Lv restrictions are being lifted
-所持制限数を越えたアイテムは、プレゼントに送られます。=Items beyond the possession limit will be sent to the present.
-r:"^提供期間：([0-9/ :]+)まで$"=Provision Until: $1(JST)
-r:"^あと ([0-9:]{8})$"=$1 Left
-ガチャリセットまで=Until the gacha reset
+選択人数が不足しています。=Số lựa chọn không đủ.
+購入Lv制限解除中=Hạn chế mua theo Lv đã được gỡ bỏ
+所持制限数を越えたアイテムは、プレゼントに送られます。=Các vật phẩm vượt quá giới hạn sở hữu sẽ được gửi dưới dạng quà tặng.
+r:"^提供期間：([0-9/ :]+)まで$"=Thời hạn cung cấp: $1 (JST)
+r:"^あと ([0-9:]{8})$"=Còn $1
+ガチャリセットまで=Cho đến khi gacha được reset
 ------
-交換ラインナップ=Exchange Lineup
-所持キャラ交換Pt=Char. Exchange Pts
-所持キャラ交換Pt1=Char. Exchange Pts1
-所持キャラ交換Pt2=Char. Exchange Pts2
-所持数=Held
-有償=Paid
-限定Sダッシュ=Limited S Dash
-無償=Free
-プライズ=Prize
-キャラ詳細=Chara Details
-有償ジュエルで！=Use Paid Jewels!
-r:"^ストーリー (\d+)話$"=Story Episode $1
+交換ラインナップ=Danh sách đổi
+所持キャラ交換Pt=Điểm Đổi Nhân Vật
+所持キャラ交換Pt1=Điểm Đổi Nhân Vật 1
+所持キャラ交換Pt2=Điểm Đổi Nhân Vật 2
+所持数=Đang giữ
+有償=Đã trả phí
+限定Sダッシュ=S Dash Hạn Chế
+無償=Miễn phí
+プライズ=Giải thưởng
+キャラ詳細=Chi Tiết Nhân Vật
+有償ジュエルで！=Sử dụng Ngọc Trả Phí!
+r:"^ストーリー (\d+)話$"=Chương Truyện $1
 
-キャラ交換Ptに応じて、以下のアイテムが獲得できます。=Depending on Character Exchange Pt, the following items can be obtained.
-対象キャラクターが交換可能！=Target characters exchangeable!
-このメッセージを自動表示しない※メニューから設定が可能です=Do not auto-display this message ※Can be set from menu
-r:"^(\d+)Ptで $"=$1 Pts
+キャラ交換Ptに応じて、以下のアイテムが獲得できます。=Tùy theo Điểm Đổi Nhân Vật, các vật phẩm sau có thể được nhận.
+対象キャラクターが交換可能！=Nhân vật mục tiêu có thể đổi!
+このメッセージを自動表示しない※メニューから設定が可能です=Không tự động hiển thị tin nhắn này ※Có thể đặt từ menu
+r:"^(\d+)Ptで $"=$1 Điểm
 
-キャラ交換=Exchange
+キャラ交換=Đổi
 
-キャラ交換Ptを200Pt消費して、\n対象のラインナップから1キャラ仲間にできます。=You can use 200 Chara Exchange Points to recruit one character from the lineup.
+キャラ交換Ptを200Pt消費して、\n対象のラインナップから1キャラ仲間にできます。=Bạn có thể sử dụng 200 Điểm Trao Đổi Nhân Vật để tuyển dụng một nhân vật từ danh sách.
 
-おまけ:=Bonus
-秘石交換=Trade for Amulets
+おまけ:=Lượt tặng thêm
+秘石交換=Đổi lấy Bùa
 
-もう一度引く=Try Again
-キャラ交換Ptが不足しています。=Insufficient Chara Exchange Pt.
-[FF7C4E,D62146]すでに仲間になったキャラは女神の秘石に変換されます。[-]=[FF7C4E,D62146]Duplicate characters will be converted to Divine Amulets.[-]
+もう一度引く=Thử lại
+キャラ交換Ptが不足しています。=Điểm Trao Đổi Nhân Vật không đủ.
+[FF7C4E,D62146]すでに仲間になったキャラは女神の秘石に変換されます。[-]=[FF7C4E,D62146]Nhân vật trùng lặp sẽ được chuyển thành Bùa Thần.[-]
 
-[FF7C4E,D62146]すでに仲間になったキャラは女神の秘石に変換されます。\nおまけで獲得できるメモリーピースは直接付与されます。[-]=[FF7C4E,D62146]Duplicate characters will be converted to Divine Amulets.[-]
-追加データは、アプリ起動時に削除されます。=Additional data is deleted at app startup.
-[FF7C4E,D62146]追加データは、アプリ起動時に削除されます。[-]=[FF7C4E,D62146]Additional data is deleted at app startup.[-]
-未解放キャラを仲間にする際に、1キャラあたり\n最大55MBの追加データをダウンロードします。=You will download up to 55MB of additional\ndata per unowned character.
-r:"^ガチャチケットを消費してガチャを (\d+) 回引きます。\nよろしいですか？$"=Consume $1 Gacha Ticket to draw 1 time.\nIs this OK?
+[FF7C4E,D62146]すでに仲間になったキャラは女神の秘石に変換されます。\nおまけで獲得できるメモリーピースは直接付与されます。[-]=[FF7C4E,D62146]Nhân vật trùng lặp sẽ được chuyển thành Bùa Thần.[-]
+追加データは、アプリ起動時に削除されます。=Dữ liệu bổ sung sẽ bị xóa khi khởi động ứng dụng.
+[FF7C4E,D62146]追加データは、アプリ起動時に削除されます。[-]=[FF7C4E,D62146]Dữ liệu bổ sung sẽ bị xóa khi khởi động ứng dụng.[-]
+未解放キャラを仲間にする際に、1キャラあたり\n最大55MBの追加データをダウンロードします。=Bạn sẽ tải xuống tối đa 55MB dữ liệu bổ sung\ncho mỗi nhân vật chưa sở hữu.
+r:"^ガチャチケットを消費してガチャを (\d+) 回引きます。\nよろしいですか？$"=Tiêu thụ $1 Vé Gacha để quay 1 lần.\nBạn có chắc không?
 
-r:"^消費チケット(\d+)枚$"=Use $1 Tix
-・キャラ交換Ptを「200Pt」以上所持している場合、\nキャラ交換Ptを使用してキャラを仲間にするか、すでに仲間にしているキャラを選択して「女神の秘石」を獲得するまで、キャラ交換Ptが共通のガチャを利用できません。\n・チュートリアル中に引くガチャでは、キャラ交換Ptを獲得できません。\n・「有効期間」内にキャラ交換Ptを200Pt以上保持したまま「有効期間」が終了した場合も、キャラ交換Ptは\n「0Pt」にリセットされてPt数と同枚数の\n「スキップチケット」に変換されるため、キャラを仲間にすることはできません。\n・キャラ交換の有効期間、内容は予告なく変更する場合があります。\n・おまけでメモリーピースが獲得できる場合、直接付与されます。ただし、獲得したメモリーピースが所持上限に達している場合、プレゼントボックスに贈られます。=►If you have more than 200 "Chara Exchange Pt", you cannot draw any gacha with a shared "Chara Exchange Pt" counter until you use them either to recruit a new character or recruit a character you already have for Divine Amulets.\n・Chara Exchange Pt cannot be earned from gacha draws used during the tutorial.\n・If you have 200 or more "Chara Exchange Pt" when the Validity Period ends, the points will be converted into Skip Tickets and the point count will reset to 0, so you will not be able to recruit a character.\n・The Validity Period and options for Chara Exchange are subject to change without notice.\n・If Memory Shards are obtained as an extra, they will be sent directly to your inventory. However, if the acquired Memory Shard has reached the possession limit, it will be sent to the gift box.
-・キャラ交換Ptを「200Pt」以上所持している場合、\nキャラ交換Ptを使用してキャラを仲間にするか、すでに仲間にしているキャラを選択して「女神の秘石」を獲得するまで、キャラ交換Ptが共通のガチャを利用できません。\n・チュートリアル中に引くガチャでは、キャラ交換Ptを獲得できません。\n・「有効期間」内にキャラ交換Ptを200Pt以上保持したまま「有効期間」が終了した場合も、キャラ交換Ptは\n「0Pt」にリセットされてPt数と同枚数の\n「スキップチケット」に変換されるため、キャラを仲間にすることはできません。\n・キャラ交換の有効期間、内容は予告なく変更する場合があります。\n・メモリーピース、マスターピースが獲得できる場合、直接付与されます。ただし、獲得したメモリーピース、マスターピースが所持上限に達している場合、プレゼントボックスに贈られます。=►If you have more than 200 "Chara Exchange Pt", you cannot draw any gacha with a shared "Chara Exchange Pt" counter until you use them either to recruit a new character or recruit a character you already have for Divine Amulets.\n・Chara Exchange Pt cannot be earned from gacha draws used during the tutorial.\n・If you have 200 or more "Chara Exchange Pt" when the Validity Period ends, the points will be converted into Skip Tickets and the point count will reset to 0, so you will not be able to recruit a character.\n・The Validity Period and options for Chara Exchange are subject to change without notice.\n・If Memory Shards are obtained as an extra, they will be sent directly to your inventory. However, if the acquired Memory Shard has reached the possession limit, it will be sent to the gift box.
-キャラ交換Ptを200Pt消費して\n以下のキャラと交換しますか?=Would you like to spend 200pt\nto exchange for the selected character?
-既に仲間にしているキャラなので=This character has already been recruited.
-[FF7C4E,D62146]女神の秘石に変換されます。　[-]=[FF7C4E,D62146]It will be converted into Divine Amulet[-]
-キャラ交換へ=Character\nExchange
-このプライズは現在選択されています。=This prize is currently selected.
+r:"^消費チケット(\d+)枚$"=Sử dụng $1 Vé
+・キャラ交換Ptを「200Pt」以上所持している場合、\nキャラ交換Ptを使用してキャラを仲間にするか、すでに仲間にしているキャラを選択して「女神の秘石」を獲得するまで、キャラ交換Ptが共通のガチャを利用できません。\n・チュートリアル中に引くガチャでは、キャラ交換Ptを獲得できません。\n・「有効期間」内にキャラ交換Ptを200Pt以上保持したまま「有効期間」が終了した場合も、キャラ交換Ptは\n「0Pt」にリセットされてPt数と同枚数の\n「スキップチケット」に変換されるため、キャラを仲間にすることはできません。\n・キャラ交換の有効期間、内容は予告なく変更する場合があります。\n・おまけでメモリーピースが獲得できる場合、直接付与されます。ただし、獲得したメモリーピースが所持上限に達している場合、プレゼントボックスに贈られます。=►Nếu bạn có hơn 200 "Điểm Trao Đổi Nhân Vật", bạn không thể quay bất kỳ gacha nào với bộ đếm "Điểm Trao Đổi Nhân Vật" chung cho đến khi bạn sử dụng chúng để tuyển dụng nhân vật mới hoặc tuyển dụng nhân vật bạn đã có để đổi lấy Bùa Thần.\n・Điểm Trao Đổi Nhân Vật không thể kiếm được từ các lần quay gacha được sử dụng trong phần hướng dẫn.\n・Nếu bạn có 200 hoặc nhiều "Điểm Trao Đổi Nhân Vật" khi Thời Hạn Hiệu Lực kết thúc, điểm sẽ được chuyển thành Vé Bỏ Qua và số điểm sẽ được đặt lại thành 0, vì vậy bạn sẽ không thể tuyển dụng nhân vật.\n・Thời Hạn Hiệu Lực và các tùy chọn cho Trao Đổi Nhân Vật có thể thay đổi mà không báo trước.\n・Nếu Mảnh Ký Ức được nhận như phần thưởng phụ, chúng sẽ được gửi trực tiếp vào kho đồ của bạn. Tuy nhiên, nếu Mảnh Ký Ức đã đạt đến giới hạn sở hữu, nó sẽ được gửi đến hộp quà.
+・キャラ交換Ptを「200Pt」以上所持している場合、\nキャラ交換Ptを使用してキャラを仲間にするか、すでに仲間にしているキャラを選択して「女神の秘石」を獲得するまで、キャラ交換Ptが共通のガチャを利用できません。\n・チュートリアル中に引くガチャでは、キャラ交換Ptを獲得できません。\n・「有効期間」内にキャラ交換Ptを200Pt以上保持したまま「有効期間」が終了した場合も、キャラ交換Ptは\n「0Pt」にリセットされてPt数と同枚数の\n「スキップチケット」に変換されるため、キャラを仲間にすることはできません。\n・キャラ交換の有効期間、内容は予告なく変更する場合があります。\n・メモリーピース、マスターピースが獲得できる場合、直接付与されます。ただし、獲得したメモリーピース、マスターピースが所持上限に達している場合、プレゼントボックスに贈られます。=►Nếu bạn có hơn 200 "Điểm Trao Đổi Nhân Vật", bạn không thể quay bất kỳ gacha nào với bộ đếm "Điểm Trao Đổi Nhân Vật" chung cho đến khi bạn sử dụng chúng để tuyển dụng nhân vật mới hoặc tuyển dụng nhân vật bạn đã có để đổi lấy Bùa Thần.\n・Điểm Trao Đổi Nhân Vật không thể kiếm được từ các lần quay gacha được sử dụng trong phần hướng dẫn.\n・Nếu bạn có 200 hoặc nhiều "Điểm Trao Đổi Nhân Vật" khi Thời Hạn Hiệu Lực kết thúc, điểm sẽ được chuyển thành Vé Bỏ Qua và số điểm sẽ được đặt lại thành 0, vì vậy bạn sẽ không thể tuyển dụng nhân vật.\n・Thời Hạn Hiệu Lực và các tùy chọn cho Trao Đổi Nhân Vật có thể thay đổi mà không báo trước.\n・Nếu Mảnh Ký Ức được nhận như phần thưởng phụ, chúng sẽ được gửi trực tiếp vào kho đồ của bạn. Tuy nhiên, nếu Mảnh Ký Ức đã đạt đến giới hạn sở hữu, nó sẽ được gửi đến hộp quà.
+キャラ交換Ptを200Pt消費して\n以下のキャラと交換しますか?=Bạn có muốn dùng 200 điểm\nđể đổi lấy nhân vật đã chọn không?
+既に仲間にしているキャラなので=Nhân vật này đã được tuyển dụng rồi.
+[FF7C4E,D62146]女神の秘石に変換されます。　[-]=[FF7C4E,D62146]Nó sẽ được chuyển thành Bùa Thần.[-]
+キャラ交換へ=Trao Đổi\nNhân Vật
+このプライズは現在選択されています。=Phần thưởng này hiện đã được chọn.
 
 ---Time---
-次回ガチャリセット時間=Next Gacha Reset
-イベント限定キャラをGET！=GET event-limited characters!
+次回ガチャリセット時間=Lần Reset Gacha Tiếp Theo
+イベント限定キャラをGET！=NHẬN các nhân vật giới hạn sự kiện!
 ---Preview chara---
-r:"^RANK(\d+)/Lv(\d+)/装備強化MAX/RANKボーナスを含むステータスです。$"=Rank$1/Lv$2/MAX Refined Equipment/Status including Rank Bonus.
-強化済=Enhanced
-所持スキル=Possessed skill
-イベントを進めてボスを討伐しよう！\n残り25体 BOSS討伐で解放=Advance the event and defeat the boss!\nRemaining 25 subjugating BOSS
+r:"^RANK(\d+)/Lv(\d+)/装備強化MAX/RANKボーナスを含むステータスです。$"=Hạng $1/Cấp $2/Trang Bị Tinh Hoa MAX/Tình Trạng bao gồm Thưởng Hạng.
+強化済=Được Tăng Cường
+所持スキル=Kỹ năng sở hữu
+イベントを進めてボスを討伐しよう！\n残り25体 BOSS討伐で解放=Tiến lên trong sự kiện và đánh bại boss!\nCòn lại 25 boss cần chinh phục.
 ---Banner time---
-r:"^(\[[0-9A-F,]{6,13}\])([0-9/ :]{16})～([0-9/ :]{11,16})まで\[-\]$"="$1$2 to $3 (JST)[-]"
-r:"^(\[[0-9A-F,]{6,13}\])有効期間:([0-9/ :]{16}) ～ ([0-9/ :]{11,16})\[-\]$"="$1 Period: $2 to $3 (JST)[-]"
+r:"^(\[[0-9A-F,]{6,13}\])([0-9/ :]{16})～([0-9/ :]{11,16})まで\[-\]$"="$1$2 đến $3 (JST)[-]"
+r:"^(\[[0-9A-F,]{6,13}\])有効期間:([0-9/ :]{16}) ～ ([0-9/ :]{11,16})\[-\]$"="$1 Thời gian: $2 đến $3 (JST)[-]"
 ---Banner Description---
 
-sr:"^(\[[0-9A-F,]{6,13}\])★3キャラ出現率2倍\n限定(?:キャラ)?「([べ-ヺー＆＝]+)(（.+）)?」登場！期間中出現率UP！\[-\]$"="$1$1Boosted rates for the Limited ★3\n$2$3![-]"
+sr:"^(\[[0-9A-F,]{6,13}\])★3キャラ出現率2倍\n限定(?:キャラ)?「([べ-ヺー＆＝]+)(（.+）)?」登場！期間中出現率UP！\[-\]$"="$1$1Tỷ lệ tăng cho ★3 giới hạn\n$2$3![-]"
 
-r:"^(\[[0-9A-F,]{6,13}\])『10回引く』は(\[[0-9A-F,]{6,13}\])★2以上\[-\]1キャラ確定！\n対象キャラを仲間にする度に(\[[0-9A-F,]{6,13}\])対象メモピ(\d+)個\[-\]GET！\[-\]$"="$1A $2★2 or higher[-] character is guaranteed with each "10x draw"!\nRate-up characters come with a bonus of $3$4 Memory Shards[-]![-]"
+r:"^(\[[0-9A-F,]{6,13}\])『10回引く』は(\[[0-9A-F,]{6,13}\])★2以上\[-\]1キャラ確定！\n対象キャラを仲間にする度に(\[[0-9A-F,]{6,13}\])対象メモピ(\d+)個\[-\]GET！\[-\]$"="$1Mỗi lần "10x draw" đảm bảo 1 nhân vật $2★2 trở lên[-]!\nNhân vật được tăng tỷ lệ đi kèm bonus $3$4 Mảnh Ký Ức[-]![-]"
 
-[FFBB00,CE4F00]限定スタートダッシュガチャ開催！[-]=[FFBB00,CE4F00]Limited Start Dash Gacha![-]
-[3C404E]10キャラ目は[-][FFBB00,CE4F00]限定★3キャラ確定！\n[-][3C404E]※すでに仲間にしているキャラは女神の秘石に変換されます。[-]=[3C404E]A [FFBB00,CE4F00]★3 character[-] is guaranteed with a 10x draw!\n    ►Already recruited characters will be converted to Divine Amulets[-]
+[FFBB00,CE4F00]限定スタートダッシュガチャ開催！[-]=[FFBB00,CE4F00]Gacha Start Dash Giới Hạn![-]
+[3C404E]10キャラ目は[-][FFBB00,CE4F00]限定★3キャラ確定！\n[-][3C404E]※すでに仲間にしているキャラは女神の秘石に変換されます。[-]=[3C404E]Mỗi lần 10x draw đảm bảo 1 nhân vật [FFBB00,CE4F00]★3[-]!\n    ►Nhân vật đã tuyển dụng sẽ được chuyển thành Bùa Thần[-]
 
-、新キャラ=New Chara
-sr:"^(\[[0-9A-F,]{6,13}\])★3(?:キャラ)?出現率2倍！限定「([べ-ヺー＆＝]+)(（.+）)?」(、新キャラ)?「([べ-ヺー＆＝]+)(（.+）)?」(?:登場|出現率UP)！\n対象キャラ(?:を仲間に|が加入)する度に対象メモピ(\d+)個GET！\[-\]$"="$1Boosted rates for the Limited ★3\n$2$3 & $4$5$6!\nRate-up characters come with a bonus of $7 Memory Shards![-]"
+、新キャラ=Nhân Vật Mới
+sr:"^(\[[0-9A-F,]{6,13}\])★3(?:キャラ)?出現率2倍！限定「([べ-ヺー＆＝]+)(（.+）)?」(、新キャラ)?「([べ-ヺー＆＝]+)(（.+）)?」(?:登場|出現率UP)！\n対象キャラ(?:を仲間に|が加入)する度に対象メモピ(\d+)個GET！\[-\]$"="$1Tỷ lệ tăng cho ★3 giới hạn\n$2$3 & $4$5$6!\nNhân vật được tăng tỷ lệ đi kèm bonus $7 Mảnh Ký Ức![-]"
 
-sr:"^「([べ-ヺー＆＝]+?)(（.+）)?のメモリーピース」\nに変更しますか？$"="Do you want to swap to\n"$1$2 Memory Shard"?"
-sr:"^(\[[0-9A-F,]{6,13}\])★3キャラ出現率2倍\n新キャラ「([べ-ヺー＆＝]+)(（.+）)?」登場！期間中出現率UP！\[-\]$"="$1Double rates for the New character\n$2$3![-]"
-sr:"^(\[[0-9A-F,]{6,13}\])新キャラ「([べ-ヺー＆＝]+)(（.+）)?」登場！\n期間中出現率UP！\[-\]$"="$1Boosted rates for the New character\n$2$3![-]"
+sr:"^「([べ-ヺー＆＝]+?)(（.+）)?のメモリーピース」\nに変更しますか？$"="Bạn có muốn đổi sang\n"$1$2 Mảnh Ký Ức" không?"
+sr:"^(\[[0-9A-F,]{6,13}\])★3キャラ出現率2倍\n新キャラ「([べ-ヺー＆＝]+)(（.+）)?」登場！期間中出現率UP！\[-\]$"="$1Tỷ lệ gấp đôi cho Nhân Vật Mới\n$2$3![-]"
+sr:"^(\[[0-9A-F,]{6,13}\])新キャラ「([べ-ヺー＆＝]+)(（.+）)?」登場！\n期間中出現率UP！\[-\]$"="$1Tỷ lệ tăng cho Nhân Vật Mới\n$2$3![-]"
 
-sr:"^(\[[0-9A-F,]{6,13}\])★3キャラ出現率2倍！限定「([べ-ヺー＆＝]+)(（.+）)?」(?:登場|出現率UP)！\n対象キャラ(?:を仲間に|が加入)する度に対象メモピ(\d+)個GET！\[-\]$"="$1Boosted rates for the Limited ★3 $2$3!\nRate-up characters come with a bonus of $4 Memory Shards![-]"
-
-
-sr:"^(\[[0-9A-F,]{6,13}\])限定「([べ-ヺー＆＝]+)(（.+）)?」登場！\n期間中出現率UP！\[-\]$"=$1Boosted rates for the Limited ★3\n$2$3![-]
-
-下記リストの中からプライズのメモリーピースキャラを\n選択してください。=Select the prize memory shard character\nfrom the list below.
-[3C404E]『10回引く』は[FFBB00,CE4F00]★2以上[-]1キャラ確定！\n※すでに仲間にしているキャラは女神の秘石に変換されます。[-]=[3C404E]A [FFBB00,CE4F00]★2 or higher[-] character is guaranteed with each 10x draw!\n    ►Already recruited characters will be converted to Divine Amulets[-].
-※すでに仲間にしているキャラは女神の秘石に変換されます。=※Already recruited characters will be converted to Divine Amulets
-r:"^(\[[0-9A-F,]{6,13}\])10キャラ目は(\[[0-9A-F,]{6,13}\])限定★3キャラ確定！\[-\]\n対象キャラを仲間にする度に(\[[0-9A-F,]{6,13}\])対象メモピ(\d+)個\[-\]GET！\[-\]$"=$1A $2Limited ★3 character[-] is guaranteed with a 10x draw!\n    ►Rate-up characters come with a bonus of $3$4 Memory Shards[-]![-]
-
-r:"^(\[[0-9A-F,]{6,13}\])10キャラ目は(\[[0-9A-F,]{6,13}\])★3キャラ確定！\[-\]\n対象キャラを仲間にする度に(\[[0-9A-F,]{6,13}\])対象メモピ(\d+)個\[-\]GET！\[-\]$"=$1A $2★3 character[-] is guaranteed with each 10x draw!\n    ►Rate-up characters come with a bonus of $3$4 Memory Shards[-]![-]
-
-[FFBB00,CE4F00]プラチナガチャはキャラのみ出現！[-]=[FFBB00,CE4F00]Only characters appear in the Premium Gacha![-].
-キャラ交換Ptの説明=Chara Exchange Pt description
+sr:"^(\[[0-9A-F,]{6,13}\])★3キャラ出現率2倍！限定「([べ-ヺー＆＝]+)(（.+）)?」(?:登場|出現率UP)！\n対象キャラ(?:を仲間に|が加入)する度に対象メモピ(\d+)個GET！\[-\]$"="$1Tỷ lệ tăng cho ★3 giới hạn $2$3!\nNhân vật được tăng tỷ lệ đi kèm bonus $4 Mảnh Ký Ức![-]"
 
 
-[3C404E]『10回引く』は[FFBB00,CE4F00]★2以上[-]1キャラ確定！[-]=[3C404E]A [FFBB00,CE4F00]2★ character[-] is guaranteed with each 10x draw![-]
+sr:"^(\[[0-9A-F,]{6,13}\])限定「([べ-ヺー＆＝]+)(（.+）)?」登場！\n期間中出現率UP！\[-\]$"=$1Tỷ lệ tăng cho ★3 giới hạn\n$2$3![-]
 
-[3C404E]対象キャラを仲間にする度に[FFBB00,CE4F00]対象メモピ200個[-]GET！[-]=[3C404E]Rate-up characters come with a bonus of [FFBB00,CE4F00]200 Memory Shards[-]![-]
-[3C404E]対象キャラが加入する度に[FFBB00,CE4F00]対象メモピ200個[-]GET！[-]=[3C404E]Rate-up characters come with a bonus of [FFBB00,CE4F00]200 Memory Shards[-]![-]
-対象キャラが加入にする度に[FFBB00,CE4F00]対象メモピ200個[-]GET！=[3C404E]Rate-up characters come with a bonus of [FFBB00,CE4F00]200 Memory Shards[-]![-]
+下記リストの中からプライズのメモリーピースキャラを\n選択してください。=Chọn nhân vật mảnh ký ức phần thưởng\ntừ danh sách bên dưới.
+[3C404E]『10回引く』は[FFBB00,CE4F00]★2以上[-]1キャラ確定！\n※すでに仲間にしているキャラは女神の秘石に変換されます。[-]=[3C404E]Mỗi lần 10x draw đảm bảo 1 nhân vật [FFBB00,CE4F00]★2 trở lên[-]!\n    ►Nhân vật đã tuyển dụng sẽ được chuyển thành Bùa Thần[-].
+※すでに仲間にしているキャラは女神の秘石に変換されます。=※Nhân vật đã tuyển dụng sẽ được chuyển thành Bùa Thần
+r:"^(\[[0-9A-F,]{6,13}\])10キャラ目は(\[[0-9A-F,]{6,13}\])限定★3キャラ確定！\[-\]\n対象キャラを仲間にする度に(\[[0-9A-F,]{6,13}\])対象メモピ(\d+)個\[-\]GET！\[-\]$"=$1Mỗi lần 10x draw đảm bảo 1 nhân vật $2★3 giới hạn[-]!\n    ►Nhân vật được tăng tỷ lệ đi kèm bonus $3$4 Mảnh Ký Ức[-]![-]
+
+r:"^(\[[0-9A-F,]{6,13}\])10キャラ目は(\[[0-9A-F,]{6,13}\])★3キャラ確定！\[-\]\n対象キャラを仲間にする度に(\[[0-9A-F,]{6,13}\])対象メモピ(\d+)個\[-\]GET！\[-\]$"=$1Mỗi lần 10x draw đảm bảo 1 nhân vật $2★3[-]!\n    ►Nhân vật được tăng tỷ lệ đi kèm bonus $3$4 Mảnh Ký Ức[-]![-]
+
+[FFBB00,CE4F00]プラチナガチャはキャラのみ出現！[-]=[FFBB00,CE4F00]Chỉ có nhân vật xuất hiện trong Premium Gacha![-].
+キャラ交換Ptの説明=Mô tả Điểm Trao Đổi Nhân Vật
+
+
+[3C404E]『10回引く』は[FFBB00,CE4F00]★2以上[-]1キャラ確定！[-]=[3C404E]Mỗi lần 10x draw đảm bảo 1 nhân vật [FFBB00,CE4F00]2★[-]![-]
+
+[3C404E]対象キャラを仲間にする度に[FFBB00,CE4F00]対象メモピ200個[-]GET！[-]=[3C404E]Nhân vật được tăng tỷ lệ đi kèm bonus [FFBB00,CE4F00]200 Mảnh Ký Ức[-]![-]
+[3C404E]対象キャラが加入する度に[FFBB00,CE4F00]対象メモピ200個[-]GET！[-]=[3C404E]Nhân vật được tăng tỷ lệ đi kèm bonus [FFBB00,CE4F00]200 Mảnh Ký Ức[-]![-]
+対象キャラが加入にする度に[FFBB00,CE4F00]対象メモピ200個[-]GET！=[3C404E]Nhân vật được tăng tỷ lệ đi kèm bonus [FFBB00,CE4F00]200 Mảnh Ký Ức[-]![-]
 ---Banner---
 
-無料で10回ガチャは\n毎日5時と12時にリセットされます。=Free 10x Gacha resets daily at\n5:00 and 12:00 (JST).
-ノーマルガチャを無料で10回引きます。\nよろしいですか？=Draw Normal Gacha 10x for free?
-キャラ交換Ptリセット=Char Exchange Pt Reset
-ガチャが更新されました。\n所持していたキャラ交換Ptがリセットされました。\n\n※キャラ交換PtはPt数と同枚数、\nスキップチケットに変換されました。=The Gacha has been updated, and the Chara Exchange Points you had have been reset.\n\nYour Chara Exchange Points have been converted to Skip Tickets.
+無料で10回ガチャは\n毎日5時と12時にリセットされます。=Gacha 10x miễn phí được reset hàng ngày lúc\n5:00 và 12:00 (JST).
+ノーマルガチャを無料で10回引きます。\nよろしいですか？=Rút 10 lần Gacha thường miễn phí?
+キャラ交換Ptリセット=Đặt lại Điểm Trao Đổi Nhân Vật
+ガチャが更新されました。\n所持していたキャラ交換Ptがリセットされました。\n\n※キャラ交換PtはPt数と同枚数、\nスキップチケットに変換されました。=Gacha đã được cập nhật và Điểm Trao Đổi Nhân Vật của bạn đã được đặt lại.\n\nĐiểm Trao Đổi Nhân Vật của bạn đã được chuyển thành Vé Bỏ Qua.
 
-ピックアップガチャ=Focus Gacha
+ピックアップガチャ=Gacha Tập Trung
 
-r:"^ジュエルを消費してガチャを (\d+) 回引きます。\nよろしいですか？$"=Spend Jewels for $1 draw?
+r:"^ジュエルを消費してガチャを (\d+) 回引きます。\nよろしいですか？$"=Dùng Ngọc để rút 1 lần?
 
 ---prize gacha---
-[FFBB00,CE4F00]限定キャラ復刻！出現率が期間中UP！\n『10回引く』で5等以上1個確定！[-]=[FFBB00,CE4F00]Limited Character Rerun! Boosted rates during the period!\n"10x Draw" will guarantee 1x 5th Prize or higher![-]
+[FFBB00,CE4F00]限定キャラ復刻！出現率が期間中UP！\n『10回引く』で5等以上1個確定！[-]=[FFBB00,CE4F00]Nhân Vật Giới Hạn Quay Lại! Tỷ lệ tăng trong thời gian!\n"Rút 10 lần" sẽ đảm bảo 1 giải 5 hoặc cao hơn![-]
 
-sr:"^\[FFBB00,CE4F00\]「([べ-ヺー＆＝]+)(\（.{3,10}\）)?(\s|)」(「|)([べ-・ー＆]{2,11}|)(\（.{2,10}\）)?(\s|)(」|)の\n出現率が期間中UP！『10回引く』で5等以上1個確定！\[-\]$"="[FFBB00,CE4F00]Boosted rates for 「$1$2」$4$5$6$7$8 !\n"10x Draw" will guarantee 1x 5th Prize or higher![-]"
+sr:"^\[FFBB00,CE4F00\]「([べ-ヺー＆＝]+)(\（.{3,10}\）)?(\s|)」(「|)([べ-・ー＆]{2,11}|)(\（.{2,10}\）)?(\s|)(」|)の\n出現率が期間中UP！『10回引く』で5等以上1個確定！\[-\]$"="[FFBB00,CE4F00]Tỷ lệ tăng cho 「$1$2」$4$5$6$7$8 !\n"Rút 10 lần" sẽ đảm bảo 1 giải 5 hoặc cao hơn![-]"
 
-選択する=Select
-プライズ選択=Prize Selection
-プライズ詳細=Prize Details
-プライズ履歴=Prize History
-プライズ内容=Prize Contents
-履歴がありません。=No history available.
-提供割合=Rates
-メモリーピース選択=Memory Shard Selection
-選択中=Selected
-1等に当選し、以下のプライズを入手しました。=You won the 1st prize and got the following items.
-2等に当選し、以下のプライズを入手しました。=You won the 2nd prize and got the following items.
-3等に当選し、以下のプライズを入手しました。=You won the 3rd prize and got the following items.
-r:"^(1?[4-9,0])等に当選し、以下のプライズを入手しました。$"=You won the $1th prize and got the following items.
-アメス賞に当選し、以下のプライズを入手しました。=You won the Ameth prize and got the following items.
-シェフィ賞に当選し、以下のプライズを入手しました。=You won the Sheffy prize and got the following items.
-キャル賞に当選し、以下のプライズを入手しました。=You won the Kyaru prize and got the following items.
-コッコロ賞に当選し、以下のプライズを入手しました。=You won the Kokkoro prize and got the following items.
-ペコリーヌ賞に当選し、以下のプライズを入手しました。=You won the Pecorine prize and got the following items.
-獲得したプライズは直接所持数に加算されます。=The prizes you win will be sent directly to your inventory.
+選択する=Chọn
+プライズ選択=Lựa Chọn Giải Thưởng
+プライズ詳細=Chi Tiết Giải Thưởng
+プライズ履歴=Lịch Sử Giải Thưởng
+プライズ内容=Nội Dung Giải Thưởng
+履歴がありません。=Không có lịch sử nào.
+提供割合=Tỷ Lệ
+メモリーピース選択=Lựa Chọn Mảnh Ký Ức
+選択中=Đã chọn
+1等に当選し、以下のプライズを入手しました。=Bạn đã trúng giải nhất và nhận được vật phẩm sau.
+2等に当選し、以下のプライズを入手しました。=Bạn đã trúng giải nhì và nhận được vật phẩm sau.
+3等に当選し、以下のプライズを入手しました。=Bạn đã trúng giải ba và nhận được vật phẩm sau.
+r:"^(1?[4-9,0])等に当選し、以下のプライズを入手しました。$"=Bạn đã trúng giải $1 và nhận được vật phẩm sau.
+アメス賞に当選し、以下のプライズを入手しました。=Bạn đã trúng giải Ameth và nhận được vật phẩm sau.
+シェフィ賞に当選し、以下のプライズを入手しました。=Bạn đã trúng giải Sheffy và nhận được vật phẩm sau.
+キャル賞に当選し、以下のプライズを入手しました。=Bạn đã trúng giải Kyaru và nhận được vật phẩm sau.
+コッコロ賞に当選し、以下のプライズを入手しました。=Bạn đã trúng giải Kokkoro và nhận được vật phẩm sau.
+ペコリーヌ賞に当選し、以下のプライズを入手しました。=Bạn đã trúng giải Pecorine và nhận được vật phẩm sau.
+獲得したプライズは直接所持数に加算されます。=Các giải thưởng bạn trúng sẽ được gửi trực tiếp vào kho đồ của bạn.
 
-1等  0.50％\n2等  1.00％\n3等  5.00％\n4等  10.00％\n5等  23.50％\n6等  60.00％\n\n※1回ごとに、その提供割合にもとづいて抽選を行っております。\n※『1回引く』と『10回引く』（1～9プライズ目まで）は、\n同じ提供割合です。\n=1st   0.50%\n2nd  1.00%\n3rd  5.00%\n4th 10.00%\n5th 23.50%\n6th 60.00%\n\n    ►Each seperate draw uses these percentages.\n    ►"1x Drawく" and "10x Drawく" (1st to 9th draws)\nshare the same odds.\n
+1等  0.50％\n2等  1.00％\n3等  5.00％\n4等  10.00％\n5等  23.50％\n6等  60.00％\n\n※1回ごとに、その提供割合にもとづいて抽選を行っております。\n※『1回引く』と『10回引く』（1～9プライズ目まで）は、\n同じ提供割合です。\n=1st   0.50%\n2nd  1.00%\n3rd  5.00%\n4th 10.00%\n5th 23.50%\n6th 60.00%\n\n    ►Mỗi lần rút riêng lẻ dùng tỷ lệ này.\n    ►"Rút 1 lần" và "Rút 10 lần" (lần 1-9)\nchia tỷ lệ giống nhau.\n
 
-1等  0.50％\n2等  1.00％\n3等  5.00％\n4等  10.00％\n5等  83.50％\n\n※『10回引く』では、10プライズ目に5等以上が必ず出現します。=1st   0.50%\n2nd  1.00%\n3rd  5.00%\n4th 10.00%\n5th 83.50%\n\n    ►In "10 draw", 5th prize or higher will appear on the 10th pull.\n
-
-
-・獲得方法\nガチャを引きキャラを仲間にするごとに、キャラ交換Ptを「1Pt」獲得できます。\n※獲得したキャラの★に関わらず、1キャラにつき獲得できるキャラ交換Ptは「1Pt」です。\n※すでに仲間にしているキャラが出現して\n「女神の秘石」を獲得した際も、1キャラごとに「1Pt」獲得できます。\n※「プラチナガチャチケット」を消費してガチャを引いた場合も、キャラ交換Ptを獲得できます。\n\n・使い方\n開催中のガチャの期間内にキャラ交換Ptが「200Pt」に達すると、キャラ交換Ptを「200Pt」消費して\n「交換ラインナップ」内の対象キャラの中から1キャラを仲間にできます。\nすでに仲間にしているキャラを選択した場合は、\n対象キャラの★の数に応じた「女神の秘石」を獲得できます。\n\n女神の秘石の獲得数は下記のとおりです。\n\n★★★キャラの場合：女神の秘石×50\n★★キャラの場合：女神の秘石×10\n★キャラの場合：女神の秘石×1\n\n※獲得したキャラ交換Ptの保持、および対象のガチャのキャラ交換は「交換ラインナップ」タブ内の\n「有効期間」の期間のみ可能です。\n※「有効期間」終了後に、キャラ交換Ptは「0Pt」にリセットされ、Pt数と同枚数の「スキップチケット」に変換されます。\n※「有効期間」中に獲得したキャラ交換Ptが、\n「有効期間」終了後に別のガチャへ引き継がれる場合があります。\nその場合キャラ交換Ptの「スキップチケット」への変換は行われません。キャラ交換Ptが引き継がれる場合については「ガチャ詳細」やゲーム内お知らせにてお知らせします。\n\n・交換対象キャラ\nキャラ交換の対象キャラは、開催されているガチャに\nよって異なります。\n［交換ラインナップ］タブをご確認ください。=►Acquisition Method\nEach time you recruit a character through the Gacha, you will earn 1 Chara Exchange Point (Pt).\n    ►Regardless of the ★ rating of the recruited character, you will obtain a point for each character recruited.\n    ►Even if a character that you have already recruited is drawn and you acquire "Divine Amulets," you will still obtain 1 Chara Exchange Pt per character.\n    ►Even when you consume a "Draw Ticket" to draw the gacha, you will still obtain Chara Exchange Points.\n\n・Usage\nWhen you have obtained 200 Chara Exchange Points within the duration of the ongoing rate-up, you can spend 200 points to recruit one character from the eligible options in the "Exchange Lineup".\nIf you select a character that you already have as an ally, you will obtain "Divine Amulets" corresponding to the number of ★ of the selected character.\n\nThe number of obtained Divine Amulets is as follows:\n\n★★★ characters: Divine Amulets × 50\n★★ characters: Divine Amulets × 10\n★ characters: Divine Amulets × 1\n\n    ►The retention of acquired Chara Exchange Points and the exchange of characters in the eligible gacha are only possible within the "Validity Period" in the "Exchange Lineup" tab.\n    ►After the "Validity Period" ends, the Chara Exchange Points will be reset to "0 Pt" and converted into an equal number of "Skip Tickets".\n    ►The Chara Exchange Points acquired during the "Validity Period" may be carried over to another gacha after the "Validity Period" ends. In such cases, they will not be converted into "Skip Tickets". Details regarding the carryover of Chara Exchange Points will be provided in the "Gacha Details" or in-game announcements.\n\n・Eligible Characters for Exchange\nThe eligible characters for the Chara Exchange vary depending on the ongoing rate-up. Please check the "[Exchange Lineup]" tab for more information.
+1等  0.50％\n2等  1.00％\n3等  5.00％\n4等  10.00％\n5等  83.50％\n\n※『10回引く』では、10プライズ目に5等以上が必ず出現します。=1st   0.50%\n2nd  1.00%\n3rd  5.00%\n4th 10.00%\n5th 83.50%\n\n    ►Trong "Rút 10 lần", giải thưởng 5 trở lên sẽ xuất hiện ở lần rút thứ 10.\n
 
 
-『10回引く』（10プライズ目）="10 times" (10th prize)
-『10回引く』（1～9プライズ目）="10 times" (1st-9th prize)
-プライズ1個つき=1 prizes included
-プライズ10個つき=10 prizes included
+・獲得方法\nガチャを引きキャラを仲間にするごとに、キャラ交換Ptを「1Pt」獲得できます。\n※獲得したキャラの★に関わらず、1キャラにつき獲得できるキャラ交換Ptは「1Pt」です。\n※すでに仲間にしているキャラが出現して\n「女神の秘石」を獲得した際も、1キャラごとに「1Pt」獲得できます。\n※「プラチナガチャチケット」を消費してガチャを引いた場合も、キャラ交換Ptを獲得できます。\n\n・使い方\n開催中のガチャの期間内にキャラ交換Ptが「200Pt」に達すると、キャラ交換Ptを「200Pt」消費して\n「交換ラインナップ」内の対象キャラの中から1キャラを仲間にできます。\nすでに仲間にしているキャラを選択した場合は、\n対象キャラの★の数に応じた「女神の秘石」を獲得できます。\n\n女神の秘石の獲得数は下記のとおりです。\n\n★★★キャラの場合：女神の秘石×50\n★★キャラの場合：女神の秘石×10\n★キャラの場合：女神の秘石×1\n\n※獲得したキャラ交換Ptの保持、および対象のガチャのキャラ交換は「交換ラインナップ」タブ内の\n「有効期間」の期間のみ可能です。\n※「有効期間」終了後に、キャラ交換Ptは「0Pt」にリセットされ、Pt数と同枚数の「スキップチケット」に変換されます。\n※「有効期間」中に獲得したキャラ交換Ptが、\n「有効期間」終了後に別のガチャへ引き継がれる場合があります。\nその場合キャラ交換Ptの「スキップチケット」への変換は行われません。キャラ交換Ptが引き継がれる場合については「ガチャ詳細」やゲーム内お知らせにてお知らせします。\n\n・交換対象キャラ\nキャラ交換の対象キャラは、開催されているガチャに\nよって異なります。\n［交換ラインナップ］タブをご確認ください。=►Phương Thức Nhận\nMỗi lần tuyển nhân vật qua Gacha, bạn được 1 Điểm Trao Đổi Nhân Vật (Pt).\n    ►Bất kể ★ của nhân vật, vẫn được 1 điểm mỗi người.\n    ►Ngay cả khi rút nhân vật đã có và nhận "Thần Bài", vẫn được 1 Điểm Trao Đổi Nhân Vật.\n    ►Dùng "Vé Rút" để rút Gacha vẫn được Điểm Trao Đổi Nhân Vật.\n\n・Cách Dùng\nKhi đã có 200 Điểm Trao Đổi Nhân Vật trong thời gian tăng tỷ lệ đang diễn ra, bạn có thể dùng 200 điểm để tuyển 1 nhân vật từ danh sách đủ điều kiện trong "Hàng Đổi".\nNếu chọn nhân vật đã có, bạn sẽ nhận "Thần Bài" tương ứng với số ★ của nhân vật đó.\n\nSố Thần Bài nhận được như sau:\n\n★★★ nhân vật: Thần Bài × 50\n★★ nhân vật: Thần Bài × 10\n★ nhân vật: Thần Bài × 1\n\n    ►Việc giữ Điểm Trao Đổi Nhân Vật và đổi nhân vật chỉ có thể trong "Thời Hạn Hiệu Lực" ở tab "Hàng Đổi".\n    ►Sau khi "Thời Hạn Hiệu Lực" kết thúc, Điểm Trao Đổi Nhân Vật sẽ về "0 Pt" và đổi thành "Vé Bỏ Qua" tương đương.\n    ►Điểm Trao Đổi Nhân Vật nhận trong "Thời Hạn Hiệu Lực" có thể mang sang Gacha khác sau khi kết thúc. Lúc đó sẽ không đổi thành "Vé Bỏ Qua". Chi tiết sẽ thông báo trong "Chi Tiết Gacha" hoặc thông báo trong game.\n\n・Nhân Vật Đủ Điều Kiện Đổi\nNhân vật đủ điều kiện đổi thay đổi theo tăng tỷ lệ đang diễn ra. Vui lòng xem tab "[Hàng Đổi]".
 
-カテゴリ別の提供割合=Percentage per category
 
-下記リストの中からプライズのメモリーピースキャラを\n選択してください。\n※選択したキャラはいつでも変更可能です。=Please select a character's Memory Shard\nfrom the list below.\nThe selected character can be changed at any time.
+『10回引く』（10プライズ目）="10 lần" (giải thưởng lần thứ 10)
+『10回引く』（1～9プライズ目）="10 lần" (giải thưởng lần 1-9)
+プライズ1個つき=1 giải thưởng
+プライズ10個つき=10 giải thưởng
 
-1回ガチャを引くごとに、下記リストの中から\nプライズが1つ抽選されます。\n獲得したプライズは直接所持数に加算されます。=One prize from the list below\nwill be drawn for each gacha drawn.
+カテゴリ別の提供割合=Tỷ lệ theo hạng
 
-プライズガチャで獲得したプライズ報酬の\n履歴を見ることができます。=You can view the history of the prize rewards you have won in the Prize Gacha.
-10回目ピックアップキャラ出現率3倍ガチャ=10th Pull Pickup Character Appearance Rate x3 Gacha
+下記リストの中からプライズのメモリーピースキャラを\n選択してください。\n※選択したキャラはいつでも変更可能です。=Vui lòng chọn Mảnh Ký Ức của nhân vật\ntừ danh sách dưới.\nNhân vật đã chọn có thể đổi bất kỳ lúc nào.
 
-[FFBB00,CE4F00]ピックアップキャラを選べる！\n『10回引く』で5等以上1個確定！[-]=[FFBB00,CE4F00]You can choose your Rate-up Character!!\n"Draw 10 times" to guarantee a 5th prize or higher! [-]
-ピックアップキャラ選択=Select Focus Character
-残り1人選択してください。=Please select the remaining one.
-r:"^残り([2-9])人選択してください。？$"=Please select $1 characters.
-下記リストの中から\nピックアップキャラを選択してください。\n※選択したキャラはいつでも変更可能です。=Please select a Rate-up Character from the list below. \n    ►Selected characters can be changed at any time.
-必要人数選択済みです。=Character has been selected.
-選択中のキャラの選択状態を解除してください。=Please cancel the selection status of the selected character.
-解放済みのキャラがピックアップ対象に選択されています。=A recruited character has been\n              selected as a Rate-up target.
-sr:"^「([べ-ヺー＆＝]+)(（.+）)?」\n\nにピックアップ対象を変更しますか？$"=Do you want to change the rate-up target to\n\n$1$2?
+1回ガチャを引くごとに、下記リストの中から\nプライズが1つ抽選されます。\n獲得したプライズは直接所持数に加算されます。=Một giải từ danh sách dưới\nsẽ được rút cho mỗi lần rút Gacha.
+
+プライズガチャで獲得したプライズ報酬の\n履歴を見ることができます。=Bạn có thể xem lịch sử giải thưởng đã trúng trong Gacha Giải Thưởng.
+10回目ピックアップキャラ出現率3倍ガチャ=Gacha Tỷ Lệ Tăng 3 Lần cho Nhân Vật Xuất Hiện Lần Rút Thứ 10
+
+[FFBB00,CE4F00]ピックアップキャラを選べる！\n『10回引く』で5等以上1個確定！[-]=[FFBB00,CE4F00]Bạn có thể chọn Nhân Vật Tăng Tỷ Lệ!!\n"Rút 10 lần" sẽ đảm bảo giải 5 trở lên! [-]
+ピックアップキャラ選択=Chọn Nhân Vật Tập Trung
+残り1人選択してください。=Vui lòng chọn người còn lại.
+r:"^残り([2-9])人選択してください。？$"=Vui lòng chọn $1 nhân vật.
+下記リストの中から\nピックアップキャラを選択してください。\n※選択したキャラはいつでも変更可能です。=Vui lòng chọn Nhân Vật Tăng Tỷ Lệ từ danh sách dưới. \n    ►Nhân vật đã chọn có thể đổi bất kỳ lúc nào.
+必要人数選択済みです。=Nhân vật đã được chọn.
+選択中のキャラの選択状態を解除してください。=Vui lòng hủy trạng thái chọn của nhân vật đã chọn.
+解放済みのキャラがピックアップ対象に選択されています。=Một nhân vật đã tuyển đã được\n              chọn làm mục tiêu Tăng Tỷ Lệ.
+sr:"^「([べ-ヺー＆＝]+)(（.+）)?」\n\nにピックアップ対象を変更しますか？$"=Bạn có muốn đổi mục tiêu tăng tỷ lệ thành\n\n$1$2?
 ---Free Gacha---
-無料=Free
-[3C404E]アイテムやメモリーピースをGET！[-]=[3C404E] Get items and Memory Shards! [-]
-所持上限を超えるアイテムはプレゼントに送られます。=Items over the possession limit will be sent to the present box.
-日   回無料！=Daily free!
+無料=Miễn phí
+[3C404E]アイテムやメモリーピースをGET！[-]=[3C404E] Nhận vật phẩm và Mảnh Ký Ức! [-]
+所持上限を超えるアイテムはプレゼントに送られます。=Vật phẩm vượt giới hạn sẽ được gửi đến hộp quà.
+日   回無料！=Miễn phí hàng ngày!
 日最大     度引ける=.　roll,　        x / day
 時と     時リセット=&        : Reset
 毎日   時にリセット=am       :00 Reset
 1度= 
-だけ引ける!=Once Pull!
-すでに\n引き終わっています=Already\npulled
-すでに\\n引き終わっています=Already\npulled
+だけ引ける!=Rút một lần!
+すでに\n引き終わっています=Đã rút rồi
+すでに\\n引き終わっています=Đã rút rồi
 ---Pri Fes---
-プリンセスフェス開催！=Princess Festival!
-プリンセスフェスへ=To the Princess Fes
-日付が変わるまで表示しない=Don't show until the date changes
+プリンセスフェス開催！=Lễ hội Công chúa!
+プリンセスフェスへ=Đến Lễ hội Công chúa
+日付が変わるまで表示しない=Không hiển thị cho đến khi ngày thay đổi
 
-無料でガチャを10回引きます。\nよろしいですか？=Draw 10 times for free.\nIs this OK?
-残り回数=Left:
+無料でガチャを10回引きます。\nよろしいですか？=Rút miễn phí 10 lần.\nBạn có chắc không?
+残り回数=Còn lại:
 ---Special Tickets---
-最終確認=Final Confirmation
-スペシャル交換チケットについて=About Special Exchange Tickets
-EX装備交換=EX Equipment Exchange
-交換が完了すると、変更はできません。=Once the exchange is complete, it cannot be changed.
-下記リストの中から選択してください。\n選択したキャラのピースと交換できます。=Please select from the list below.\nYou can exchange for the Shards of the selected character.
-[FF7C4E,D62146]強化済みか全強化可能なピースを\n所持しているキャラがいます。[-]=[FF7C4E,D62146]You have characters that either have been enhanced\nor have pieces that can be fully enhanced.[-]
-下記と交換します。=Will exchange for the following.
-ピース交換=Shard Exchange
-下記リストの中から選択してください。\n選択したEX装備と交換できます。=Please select from the list below.\nYou can exchange for the selected EX equipment.
+最終確認=Xác nhận cuối cùng
+スペシャル交換チケットについて=Về Vé Đổi Đặc biệt
+EX装備交換=Đổi Trang bị EX
+交換が完了すると、変更はできません。=Sau khi hoàn tất đổi, không thể thay đổi.
+下記リストの中から選択してください。\n選択したキャラのピースと交換できます。=Vui lòng chọn từ danh sách dưới đây.\nBạn có thể đổi lấy Mảnh ký ức của nhân vật đã chọn.
+[FF7C4E,D62146]強化済みか全強化可能なピースを\n所持しているキャラがいます。[-]=[FF7C4E,D62146]Bạn có nhân vật đã được nâng cấp\nhoặc có mảnh có thể nâng cấp hoàn toàn.[-]
+下記と交換します。=Sẽ đổi cho những sau đây.
+ピース交換=Đổi Mảnh ký ức
+下記リストの中から選択してください。\n選択したEX装備と交換できます。=Vui lòng chọn từ danh sách dưới đây.\nBạn có thể đổi lấy Trang bị EX đã chọn.
 
-・使用期限\nチケットには、使用期限が設定されているものがあります。使用期限については［所持チケット］から対象のチケットの［使用期限］をご確認ください。=►Expiration Date \nSome tickets have an expiration date. For the expiration date, please check the [Expiration Date] of the selected ticket from [Possession Ticket].
-[FF7C4E,D62146]所持しているチケットがありません。[-]=[FF7C4E,D62146]You don't have the ticket.[-]
-メモリーピース交換チケットについて=About Memory Shards Exchange Ticket
+・使用期限\nチケットには、使用期限が設定されているものがあります。使用期限については［所持チケット］から対象のチケットの［使用期限］をご確認ください。=►Ngày hết hạn \nMột số vé có ngày hết hạn. Về ngày hết hạn, vui lòng kiểm tra [Ngày hết hạn] của vé đã chọn từ [Vé đang sở hữu].
+[FF7C4E,D62146]所持しているチケットがありません。[-]=[FF7C4E,D62146]Bạn không có vé.[-]
+メモリーピース交換チケットについて=Về Vé Đổi Mảnh ký ức
 ---A-memory shard,B-200/100,C-1---
-・交換対象のキャラのメモリーピース交換チケット1枚につき1キャラのメモリーピース×100と交換できるチケットです。・獲得したメモリーピースは直接付与されます。メモリーピースの所持数が上限に達している場合、プレゼントボックスに贈られます。※交換対象のキャラは、各チケットのメモリーピース交換ダイアログ内をご確認ください。=►Each character's Memory Shard exchange ticket can be exchanged for 1 character's Memory Shard × 100.\n・Acquired Memory Shard will be given directly. If you have reached the maximum number of Memory Shards, you will be given to the present box.\n    ►For the characters to be exchanged, please check the memory piece exchange dialog for each ticket.
-・★3確定 ガチャチケット1枚につき特定の★3キャラが1キャラ獲得できるチケットです。・出現するキャラにつきましては各チケットの［提供割合］ボタンよりご確認ください。・★3確定 ガチャチケットではキャラ交換Ptを獲得できません。・すでに仲間になったキャラが出現した場合、「女神の秘石」に変換されます。・変換された女神の秘石は、プレゼントボックスに贈られずに、直接所持数に加算されます。・女神の秘石の所持数が上限に達している場合、プレゼントボックスに贈られます。・ガチャは1回ごとに提供割合にもとづいて抽選を行います。そのため、提供割合が1％のキャラが、100回中1回必ず出現するわけではありません。=►This is a ticket that guarantees one specific 3★ character per 3★ Guaranteed Gacha Ticket.\n\n►Please check the [Drop Rates] button on each ticket for available characters.\n\n►Chara Exchange Points cannot be obtained from 3★ Guaranteed Gacha Tickets.\n\n►If you obtain a character you already have, it will be converted to "Divine Amulets".\n\n►Converted Divine Amulets will be added directly to your total and not sent to the Present Box.\n\n►If you reach the maximum limit of Divine Amulets, they will be sent to the Present Box.\n\n►Each gacha pull is determined by the stated drop rates. Therefore, a character with a 1% drop rate is not guaranteed to appear once in 100 pulls.
-購入した商品が反映されました。=Your purchased items have been reflected.
-商品が反映されました。=Your purchased items have been reflected.
-Cygames WebStore開設記念 スペシャルキャラ交換ガチャセット=Special Chara Exchange gacha set to celebrate the launch of Cygames WebStore
-「スペシャル キャラ交換ガチャセット」の購入は、販売期間中におひとり様1回のみです。=The purchase of the "Special Chara Exchange Gacha Set" is limited to one per person during the sales period.
-「スペシャル キャラ交換ガチャセット」の販売後、獲得したスペシャル交換チケットの交換対象は変更しません。=After the sale of the "Special Chara Exchange Gacha Set," the target for exchanging acquired Special Exchange Tickets will not be changed.
-「スペシャル交換チケット」にてキャラを交換する場合は「スペシャル キャラ交換ガチャセット」ダイアログ内にある「選択可能キャラ一覧」をご確認のうえ、ご使用ください。=When exchanging characters with the "Special Exchange Ticket," please confirm the "List of Selectable Characters" in the "Special Chara Exchange Gacha Set" dialog box before use.
-交換対象のキャラをスペシャル交換チケット1枚につき1キャラ交換できるチケットになります。・すでに、仲間にしているキャラを交換した場合は、女神の秘石×50に変換されます。※変換された女神の秘石は、プレゼントボックスに贈られずに、直接所持数に加算されます。※女神の秘石の所持数が上限に達している場合、プレゼントボックスに贈られます。・交換した際、交換したキャラのメモリーピース×200を獲得することができます。※2022/08/15 14:59以前に購入したスペシャル交換チケットでは、交換したキャラのメモリーピース×100を獲得することができます。・獲得したメモリーピースは直接付与されます。※メモリーピースの所持数が上限に達している場合、プレゼントボックスに贈られます。・一部★3キャラ、限定★3キャラ、★2キャラ、★1キャラは交換対象外になります。※交換対象のキャラは、購入ダイアログ内の「選択可能キャラ一覧」をご確認ください。※スペシャル交換チケットを期限内に使用していない場合は、表示された画面にてキャラ交換を行うまで、ゲームをプレイできません。=You can exchange 1 character per 1 Special Exchange Ticket.\n\n►If you exchange for a character you already have, it will be converted to 50 Divine Amulets.\n※Converted Divine Amulets will be added directly to your total and not sent to the Present Box.\n※If you reach the maximum limit of Divine Amulets, they will be sent to the Present Box.\n\n►When exchanging, you can obtain 200 Memory Shards of the exchanged character.\n※For Special Exchange Tickets purchased before 2022/08/15 14:59, you can obtain 100 Memory Shards of the exchanged character.\n\n►Obtained Memory Shards will be granted directly.\n※If you reach the maximum limit of Memory Shards, they will be sent to the Present Box.\n\n►Some 3★ characters, limited 3★ characters, 2★ characters, and 1★ characters are not eligible for exchange.\n※Please check the "List of Available Characters" in the purchase dialog for exchangeable characters.\n※If you haven't used your Special Exchange Ticket within the time limit, you won't be able to play the game until you make a Chara Exchange on the displayed screen.
-「Anniv. スペシャル キャラ交換ガチャセット」の販売後、獲得したAnniv. スペシャル交換チケットの交換対象は変更しません。=After the sale of the "Anniversary Special Chara Exchange Gacha Set," the target for exchanging acquired Anniversary Special Exchange Tickets will not be changed.
-「Anniv. スペシャル キャラ交換ガチャセット」の購入は、販売期間中におひとり様1回のみです。=The purchase of the "Anniversary Special Chara Exchange Gacha Set" is limited to one per person during the sales period.
-「Anniv. スペシャル交換チケット」にてキャラを交換する場合は「Anniv. スペシャル キャラ交換ガチャセット」ダイアログ内にある「選択可能キャラ一覧」をご確認のうえ、ご使用ください。=When exchanging characters with the "Anniversary Special Exchange Ticket," please confirm the "List of Selectable Characters" in the "Anniversary Special Chara Exchange Gacha Set" dialog box before use.
-交換対象のキャラをAnniv. スペシャル交換チケット1枚につき1キャラ交換できるチケットになります。・すでに、仲間にしているキャラを交換した場合は、女神の秘石×50に変換されます。※変換された女神の秘石は、プレゼントボックスに贈られずに、直接所持数に加算されます。※女神の秘石の所持数が上限に達している場合、プレゼントボックスに贈られます。・交換した際、交換したキャラのメモリーピース×200を獲得することができます。※2023/02/15 14:59以前に購入したAnniv. スペシャル交換チケットでは、交換したキャラのメモリーピース×100を獲得することができます。・獲得したメモリーピースは直接付与されます。※メモリーピースの所持数が上限に達している場合、プレゼントボックスに贈られます。・一部★3キャラ、一部限定★3キャラ、★2キャラ、★1キャラは交換対象外になります。※交換対象のキャラは、各チケット購入ダイアログ内の「選択可能キャラ一覧」をご確認ください。※Anniv. スペシャル交換チケットを期限内に使用していない場合は、表示された画面にてキャラ交換を行うまで、ゲームをプレイできません。=You can exchange 1 character per 1 Anniv. Special Exchange Ticket.\n\n►If you exchange for a character you already have, it will be converted to 50 Divine Amulets.\n※Converted Divine Amulets will be added directly to your total and not sent to the Present Box.\n※If you reach the maximum limit of Divine Amulets, they will be sent to the Present Box.\n\n►When exchanging, you can obtain 200 Memory Shards of the exchanged character.\n※For Anniv. Special Exchange Tickets purchased before 2023/02/15 14:59, you can obtain 100 Memory Shards of the exchanged character.\n\n►Obtained Memory Shards will be granted directly.\n※If you reach the maximum limit of Memory Shards, they will be sent to the Present Box.\n\n►Some 3★ characters, some limited 3★ characters, 2★ characters, and 1★ characters are not eligible for exchange.\n※Please check the "List of Available Characters" in each ticket purchase dialog for exchangeable characters.\n※If you haven't used your Anniv. Special Exchange Ticket within the time limit, you won't be able to play the game until you make a Chara Exchange on the displayed screen.
-コラボ記念 スペシャル交換チケットについて=Regarding the Collaboration Anniversary Special Exchange Ticket:
-「コラボ記念 スペシャル キャラ交換ガチャセット」の販売後、獲得したコラボ記念 スペシャル交換チケットの交換対象は変更しません。=After the sale of the "Collaboration Anniversary Special Chara Exchange Gacha Set," the target for exchanging acquired Collaboration Anniversary Special Exchange Tickets will not be changed.
-「コラボ記念 スペシャル キャラ交換ガチャセット」の購入は、販売期間中におひとり様1回のみです。=The purchase of the "Collaboration Anniversary Special Chara Exchange Gacha Set" is limited to one per person during the sales period.
-「コラボ記念 スペシャル交換チケット」にてキャラを交換する場合は「コラボ記念 スペシャル キャラ交換ガチャセット」ダイアログ内にある「選択可能キャラ一覧」をご確認のうえ、ご使用ください。=When exchanging characters with the "Collaboration Anniversary Special Exchange Ticket," please confirm the "List of Selectable Characters" in the "Collaboration Anniversary Special Chara Exchange Gacha Set" dialog box before use.
-交換対象のキャラをコラボ記念 スペシャル交換チケット1枚につき1キャラ交換できるチケットになります。・すでに、仲間にしているキャラを交換した場合は、女神の秘石×50に変換されます。※変換された女神の秘石は、プレゼントボックスに贈られずに、直接所持数に加算されます。※女神の秘石の所持数が上限に達している場合、プレゼントボックスに贈られます。・交換した際、交換したキャラのメモリーピース×200を獲得することができます。・獲得したメモリーピースは直接付与されます。※メモリーピースの所持数が上限に達している場合、プレゼントボックスに贈られます。・一部★3キャラ、一部限定★3キャラ、★2キャラ、★1キャラは交換対象外になります。※交換対象のキャラは、各チケット購入ダイアログ内の「選択可能キャラ一覧」をご確認ください。※コラボ記念 スペシャル交換チケットを期限内に使用していない場合は、表示された画面にてキャラ交換を行うまで、ゲームをプレイできません。=Each Collab Commemoration Special Exchange Ticket can be exchanged for one eligible character.\n\n►If you exchange for a character you already own, it will be converted into 50 Divine Amulets.\n※Converted Divine Amulets are added directly to your inventory and will not be sent to the Present Box.\n※If the maximum limit for Divine Amulets is reached, they will be sent to the Present Box.\n\n►When you exchange a ticket, you will also receive 200 Memory Shards for the exchanged character.\n\n►The obtained Memory Shards are granted directly.\n※If the maximum limit for Memory Shards is reached, they will be sent to the Present Box.\n\n►Some ★3 characters, certain limited ★3 characters, ★2 characters, and ★1 characters are not eligible for exchange.\n※Please check the "List of Selectable Characters" in the purchase dialog of each ticket for eligible characters.\n※If you do not use the Collab Commemoration Special Exchange Ticket within the validity period, you will not be able to play the game until you complete the Chara Exchange on the displayed screen.
-Sダッシュ スペシャル交換チケットについて=Regarding the S-Dash Special Exchange Ticket:
-「スタートダッシュ スペシャル キャラ交換ガチャセット」の販売後、獲得したSダッシュ スペシャル交換チケットの交換対象は変更しません。=After the sale of the "Start Dash Special Chara Exchange Gacha Set," the target for exchanging acquired S-Dash Special Exchange Tickets will not be changed.
-「スタートダッシュ スペシャル キャラ交換ガチャセット」の購入は、販売期間中におひとり様1回のみです。=The purchase of the "Start Dash Special Chara Exchange Gacha Set" is limited to one per person during the sales period.
-「Sダッシュ スペシャル交換チケット」にてキャラを交換する場合は「スタートダッシュ スペシャル キャラ交換ガチャセット」ダイアログ内にある「選択可能キャラ一覧」をご確認のうえ、ご使用ください。=When exchanging characters with the "S-Dash Special Exchange Ticket," please confirm the "List of Selectable Characters" in the "Start Dash Special Chara Exchange Gacha Set" dialog box before use.
-交換対象のキャラをSダッシュ スペシャル交換チケット1枚につき1キャラ交換できるチケットになります。・すでに、仲間にしているキャラを交換した場合は、女神の秘石×50に変換されます。※変換された女神の秘石は、プレゼントボックスに贈られずに、直接所持数に加算されます。※女神の秘石の所持数が上限に達している場合、プレゼントボックスに贈られます。・交換した際、交換したキャラのメモリーピース×200を獲得することができます。・獲得したメモリーピースは直接付与されます。※メモリーピースの所持数が上限に達している場合、プレゼントボックスに贈られます。・一部★3キャラ、一部限定★3キャラ、★2キャラ、★1キャラは交換対象外になります。※交換対象のキャラは、各チケット購入ダイアログ内の「選択可能キャラ一覧」をご確認ください。※Sダッシュ スペシャル交換チケットを期限内に使用していない場合は、表示された画面にてキャラ交換を行うまで、ゲームをプレイできません。=►Each S-Dash Special Exchange Ticket can be exchanged for one eligible character.\n\n►If you exchange for a character you already own, it will be converted into 50 Divine Amulets.\n※Converted Divine Amulets are added directly to your inventory and will not be sent to the Present Box.\n※If the maximum limit for Divine Amulets is reached, they will be sent to the Present Box.\n\n►When you exchange a ticket, you will also receive 200 Memory Shards for the exchanged character.\n\n►The obtained Memory Shards are granted directly.\n※If the maximum limit for Memory Shards is reached, they will be sent to the Present Box.\n\n►Some ★3 characters, certain limited ★3 characters, ★2 characters, and ★1 characters are not eligible for exchange.\n※Please check the "List of Selectable Characters" in the purchase dialog of each ticket for eligible characters.\n※If you do not use the S-Dash Special Exchange Ticket within the validity period, you will not be able to play the game until you complete the Chara Exchange on the displayed screen.
-スペシャル交換チケット（限定+）について=Regarding the Special Exchange Ticket (Limited+):
-スペシャル交換チケット（限定＋）期限通知=Regarding the Special Exchange Ticket (Limited+) Due Date Notice
-・交換対象のキャラをスペシャル交換チケット（限定+）1枚につき1キャラ交換できるチケットになります。・すでに、仲間にしているキャラを交換した場合は、女神の秘石×50に変換されます。※変換された女神の秘石は、プレゼントボックスに贈られずに、直接所持数に加算されます。※女神の秘石の所持数が上限に達している場合、プレゼントボックスに贈られます。・交換した際、交換したキャラのメモリーピース×200を獲得することができます。・獲得したメモリーピースは直接付与されます。※メモリーピースの所持数が上限に達している場合、プレゼントボックスに贈られます。・一部★3キャラ、一部限定★3キャラ、★2キャラ、★1キャラは交換対象外になります。※交換対象のキャラは、各チケット購入ダイアログ内の「選択可能キャラ一覧」をご確認ください。※スペシャル交換チケット（限定+）を期限内に使用していない場合は、表示された画面にてキャラ交換を行うまで、ゲームをプレイできません。・「スペシャル交換チケット（限定+）」にてキャラを交換する場合は「スペシャル キャラ交換ガチャセット」ダイアログ内にある「選択可能キャラ一覧」をご確認のうえ、ご使用ください。・「スペシャル キャラ交換ガチャセット」の購入は、販売期間中におひとり様1回のみです。・「スペシャル キャラ交換ガチャセット」の販売後、獲得したスペシャル交換チケット（限定+）の交換対象は変更しません。=►Each Special Exchange Ticket (Limited+) can be exchanged for one eligible character.\n\n►If you exchange for a character you already own, it will be converted into 50 Divine Amulets.\n※Converted Divine Amulets are added directly to your inventory and will not be sent to the Present Box.\n※If the maximum limit for Divine Amulets is reached, they will be sent to the Present Box.\n\n►When you exchange a ticket, you will also receive 200 Memory Shards for the exchanged character.\n\n►The obtained Memory Shards are granted directly.\n※If the maximum limit for Memory Shards is reached, they will be sent to the Present Box.\n\n►Some ★3 characters, certain limited ★3 characters, ★2 characters, and ★1 characters are not eligible for exchange.\n※Please check the "List of Selectable Characters" in the purchase dialog of each ticket for eligible characters.\n※If you do not use the Special Exchange Ticket (Limited+) within the validity period, you will not be able to play the game until you complete the Chara Exchange on the displayed screen.\n\n►When using the "Special Exchange Ticket (Limited+)" to exchange for a character, please check the "List of Selectable Characters" in the "Special Chara Exchange Gacha Set" dialog before proceeding.\n\n►Each player can only purchase the "Special Chara Exchange Gacha Set" once during the sales period.\n\n►After purchasing the "Special Chara Exchange Gacha Set," the list of exchangeable characters for the acquired Special Exchange Ticket (Limited+) will not change.
-■メモリーピース交換チケットについて\n・交換対象のキャラのメモリーピース交換チケット1枚につき1キャラのメモリーピース×100と交換できるチケットです。\n・獲得したメモリーピースは直接付与されます。メモリーピースの所持数が上限に達している場合、プレゼントボックスに贈られます。\n※交換対象のキャラは、各チケットの交換ダイアログ内をご確認ください。\n\n■GWメモリーピース交換チケット、6.5周年メモリーピース交換チケット、2024 年末年始メモリーピース交換チケット、7周年メモリーピース交換チケットについて\n・交換対象のキャラのメモリーピース交換チケット1枚につき1キャラのメモリーピース×50と交換できるチケットです。\n・獲得したメモリーピースは直接付与されます。メモリーピースの所持数が上限に達している場合、プレゼントボックスに贈られます。\n※交換対象のキャラは、各チケットの交換ダイアログ内をご確認ください。\n\n■ピュアメモリーピース交換チケットについて\n・交換対象のキャラのピュアメモリーピース交換チケット1枚につき1キャラのピュアメモリーピース×50と交換できるチケットです。\n・獲得したピュアメモリーピースは直接付与されます。ピュアメモリーピースの所持数が上限に達している場合、プレゼントボックスに贈られます。\n※交換対象のキャラは、各チケットの交換ダイアログ内をご確認ください。\n\n■EX★5武器交換チケットについて\n・交換対象のEX★5武器を交換チケット1枚につきEX★5武器1つと交換できるチケットです。\n・獲得したEX★5武器は直接付与されます。EX装備の所持数が上限に達している場合、プレゼントボックスに贈られます。\n※交換対象のEX★5武器は、各チケットの交換ダイアログ内をご確認ください。\n=■About Memory Piece Exchange Tickets:\n►Each Memory Piece Exchange Ticket can be exchanged for 100 Memory Shards of a specified character.\n\n►The obtained Memory Shards are granted directly. If the maximum limit is reached, they will be sent to the Present Box.\n※Please check the exchange dialog of each ticket for the eligible characters.\n\n■About GW Memory Piece Exchange Tickets, 6.5th Anniversary Memory Piece Exchange Tickets, 2024 Year-End/New Year Memory Piece Exchange Tickets, and 7th Anniversary Memory Piece Exchange Tickets:\n►Each of these special Memory Piece Exchange Tickets can be exchanged for 50 Memory Shards of a specified character.\n\n►The obtained Memory Shards are granted directly. If the maximum limit is reached, they will be sent to the Present Box.\n※Please check the exchange dialog of each ticket for the eligible characters.\n\n■About Pure Memory Piece Exchange Tickets:\n►Each Pure Memory Piece Exchange Ticket can be exchanged for 50 Pure Memory Shards of a specified character.\n\n►The obtained Pure Memory Shards are granted directly. If the maximum limit is reached, they will be sent to the Present Box.\n※Please check the exchange dialog of each ticket for the eligible characters.\n\n■About EX★5 Weapon Exchange Tickets:\n►Each EX★5 Weapon Exchange Ticket can be exchanged for one EX★5 weapon.\n\n►The obtained EX★5 weapon is granted directly. If the maximum limit is reached, it will be sent to the Present Box.\n※Please check the exchange dialog of each ticket for the eligible EX★5 weapons.\n
+・交換対象のキャラのメモリーピース交換チケット1枚につき1キャラのメモリーピース×100と交換できるチケットです。・獲得したメモリーピースは直接付与されます。メモリーピースの所持数が上限に達している場合、プレゼントボックスに贈られます。※交換対象のキャラは、各チケットのメモリーピース交換ダイアログ内をご確認ください。=►Mỗi Vé Đổi Mảnh ký ức của nhân vật có thể đổi lấy 1 Mảnh ký ức × 100 của nhân vật đó.\n・Mảnh ký ức nhận được sẽ được trao trực tiếp. Nếu bạn đã đạt số lượng tối đa Mảnh ký ức, nó sẽ được gửi vào hộp quà.\n    ►Đối với nhân vật được đổi, vui lòng kiểm tra hộp thoại đổi mảnh cho từng vé.
+・★3確定 ガチャチケット1枚につき特定の★3キャラが1キャラ獲得できるチケットです。・出現するキャラにつきましては各チケットの［提供割合］ボタンよりご確認ください。・★3確定 ガチャチケットではキャラ交換Ptを獲得できません。・すでに仲間になったキャラが出現した場合、「女神の秘石」に変換されます。・変換された女神の秘石は、プレゼントボックスに贈られずに、直接所持数に加算されます。・女神の秘石の所持数が上限に達している場合、プレゼントボックスに贈られます。・ガチャは1回ごとに提供割合にもとづいて抽選を行います。そのため、提供割合が1％のキャラが、100回中1回必ず出現するわけではありません。=►Đây là vé đảm bảo 1 nhân vật 3★ cụ thể mỗi Vé Gacha Đảm bảo 3★.\n\n►Vui lòng kiểm tra nút [Tỷ lệ Rơi] trên mỗi vé để xem nhân vật có sẵn.\n\n►Không nhận được Điểm Đổi Nhân vật từ Vé Gacha Đảm bảo 3★.\n\n►Nếu bạn nhận được nhân vật đã có, nó sẽ được chuyển thành "Talisman Thiêng liêng".\n\n►Talisman Thiêng liêng đã chuyển đổi sẽ được thêm trực tiếp vào tổng số của bạn và không gửi vào Hộp quà.\n\n►Nếu bạn đạt giới hạn tối đa Talisman Thiêng liêng, chúng sẽ được gửi vào Hộp quà.\n\n►Mỗi lần rút gacha được xác định theo tỷ lệ rơi đã nêu. Do đó, một nhân vật với tỷ lệ rơi 1% không được đảm bảo xuất hiện một lần trong 100 lần rút.
+購入した商品が反映されました。=Các vật phẩm bạn mua đã được áp dụng.
+商品が反映されました。=Các vật phẩm bạn mua đã được áp dụng.
+Cygames WebStore開設記念 スペシャルキャラ交換ガチャセット=Bộ gacha Đổi Nhân vật Đặc biệt để ăn mừng ra mắt Cygames WebStore
+「スペシャル キャラ交換ガチャセット」の購入は、販売期間中におひとり様1回のみです。=Việc mua "Bộ Gacha Đổi Nhân vật Đặc biệt" bị giới hạn 1 cái cho mỗi người trong thời gian bán.
+「スペシャル キャラ交換ガチャセット」の販売後、獲得したスペシャル交換チケットの交換対象は変更しません。=Sau khi bán "Bộ Gacha Đổi Nhân vật Đặc biệt," mục tiêu đổi Vé Đổi Đặc biệt đã nhận sẽ không được thay đổi.
+「スペシャル交換チケット」にてキャラを交換する場合は「スペシャル キャラ交換ガチャセット」ダイアログ内にある「選択可能キャラ一覧」をご確認のうえ、ご使用ください。=Khi đổi nhân vật bằng "Vé Đổi Đặc biệt," vui lòng xác nhận "Danh sách Nhân vật Có thể Chọn" trong hộp thoại "Bộ Gacha Đổi Nhân vật Đặc biệt" trước khi sử dụng.
+交換対象のキャラをスペシャル交換チケット1枚につき1キャラ交換できるチケットになります。・すでに、仲間にしているキャラを交換した場合は、女神の秘石×50に変換されます。※変換された女神の秘石は、プレゼントボックスに贈られずに、直接所持数に加算されます。※女神の秘石の所持数が上限に達している場合、プレゼントボックスに贈られます。・交換した際、交換したキャラのメモリーピース×200を獲得することができます。※2022/08/15 14:59以前に購入したスペシャル交換チケットでは、交換したキャラのメモリーピース×100を獲得することができます。・獲得したメモリーピースは直接付与されます。※メモリーピースの所持数が上限に達している場合、プレゼントボックスに贈られます。・一部★3キャラ、限定★3キャラ、★2キャラ、★1キャラは交換対象外になります。※交換対象のキャラは、購入ダイアログ内の「選択可能キャラ一覧」をご確認ください。※スペシャル交換チケットを期限内に使用していない場合は、表示された画面にてキャラ交換を行うまで、ゲームをプレイできません。=Bạn có thể đổi 1 nhân vật cho mỗi Vé Đổi Đặc biệt.\n\n►Nếu bạn đổi lấy nhân vật đã có, nó sẽ được chuyển thành 50 Talisman Thiêng liêng.\n※Talisman Thiêng liêng đã chuyển đổi sẽ được thêm trực tiếp vào tổng số của bạn và không gửi vào Hộp quà.\n※Nếu bạn đạt giới hạn tối đa Talisman Thiêng liêng, chúng sẽ được gửi vào Hộp quà.\n\n►Khi đổi, bạn có thể nhận được 200 Mảnh ký ức của nhân vật đã đổi.\n※Đối với Vé Đổi Đặc biệt mua trước 2022/08/15 14:59, bạn có thể nhận 100 Mảnh ký ức của nhân vật đã đổi.\n\n►Mảnh ký ức nhận được sẽ được trao trực tiếp.\n※Nếu bạn đạt số lượng tối đa Mảnh ký ức, chúng sẽ được gửi vào Hộp quà.\n\n►Một số nhân vật 3★, nhân vật 3★ giới hạn, nhân vật 2★ và nhân vật 1★ không đủ điều kiện để đổi.\n※Vui lòng kiểm tra "Danh sách Nhân vật Có thể Đổi" trong hộp thoại mua vé để xem nhân vật có thể đổi.\n※Nếu bạn chưa sử dụng Vé Đổi Đặc biệt trong thời hạn, bạn sẽ không thể chơi game cho đến khi thực hiện Đổi Nhân vật trên màn hình hiển thị.
+「Anniv. スペシャル キャラ交換ガチャセット」の販売後、獲得したAnniv. スペシャル交換チケットの交換対象は変更しません。=Sau khi bán "Bộ Gacha Đổi Nhân vật Đặc biệt Kỷ niệm," mục tiêu đổi Vé Đổi Đặc biệt Kỷ niệm đã nhận sẽ không được thay đổi.
+「Anniv. スペシャル キャラ交換ガチャセット」の購入は、販売期間中におひとり様1回のみです。=Việc mua "Bộ Gacha Đổi Nhân vật Đặc biệt Kỷ niệm" bị giới hạn 1 cái cho mỗi người trong thời gian bán.
+「Anniv. スペシャル交換チケット」にてキャラを交換する場合は「Anniv. スペシャル キャラ交換ガチャセット」ダイアログ内にある「選択可能キャラ一覧」をご確認のうえ、ご使用ください。=Khi đổi nhân vật bằng "Vé Đổi Đặc biệt Kỷ niệm," vui lòng xác nhận "Danh sách Nhân vật Có thể Chọn" trong hộp thoại "Bộ Gacha Đổi Nhân vật Đặc biệt Kỷ niệm" trước khi sử dụng.
+交換対象のキャラをAnniv. スペシャル交換チケット1枚につき1キャラ交換できるチケットになります。・すでに、仲間にしているキャラを交換した場合は、女神の秘石×50に変換されます。※変換された女神の秘石は、プレゼントボックスに贈られずに、直接所持数に加算されます。※女神の秘石の所持数が上限に達している場合、プレゼントボックスに贈られます。・交換した際、交換したキャラのメモリーピース×200を獲得することができます。※2023/02/15 14:59以前に購入したAnniv. スペシャル交換チケットでは、交換したキャラのメモリーピース×100を獲得することができます。・獲得したメモリーピースは直接付与されます。※メモリーピースの所持数が上限に達している場合、プレゼントボックスに贈られます。・一部★3キャラ、一部限定★3キャラ、★2キャラ、★1キャラは交換対象外になります。※交換対象のキャラは、各チケット購入ダイアログ内の「選択可能キャラ一覧」をご確認ください。※Anniv. スペシャル交換チケットを期限内に使用していない場合は、表示された画面にてキャラ交換を行うまで、ゲームをプレイできません。=Bạn có thể đổi 1 nhân vật cho mỗi Vé Đổi Đặc biệt Kỷ niệm.\n\n►Nếu bạn đổi lấy nhân vật đã có, nó sẽ được chuyển thành 50 Talisman Thiêng liêng.\n※Talisman Thiêng liêng đã chuyển đổi sẽ được thêm trực tiếp vào tổng số của bạn và không gửi vào Hộp quà.\n※Nếu bạn đạt giới hạn tối đa Talisman Thiêng liêng, chúng sẽ được gửi vào Hộp quà.\n\n►Khi đổi, bạn có thể nhận được 200 Mảnh ký ức của nhân vật đã đổi.\n※Đối với Vé Đổi Đặc biệt Kỷ niệm mua trước 2023/02/15 14:59, bạn có thể nhận 100 Mảnh ký ức của nhân vật đã đổi.\n\n►Mảnh ký ức nhận được sẽ được trao trực tiếp.\n※Nếu bạn đạt số lượng tối đa Mảnh ký ức, chúng sẽ được gửi vào Hộp quà.\n\n►Một số nhân vật 3★, một số nhân vật 3★ giới hạn, nhân vật 2★ và nhân vật 1★ không đủ điều kiện để đổi.\n※Vui lòng kiểm tra "Danh sách Nhân vật Có thể Đổi" trong hộp thoại mua vé của mỗi vé để xem nhân vật có thể đổi.\n※Nếu bạn chưa sử dụng Vé Đổi Đặc biệt Kỷ niệm trong thời hạn, bạn sẽ không thể chơi game cho đến khi thực hiện Đổi Nhân vật trên màn hình hiển thị.
+コラボ記念 スペシャル交換チケットについて=Về Vé Đổi Đặc biệt Kỷ niệm Hợp tác:
+「コラボ記念 スペシャル キャラ交換ガチャセット」の販売後、獲得したコラボ記念 スペシャル交換チケットの交換対象は変更しません。=Sau khi bán "Bộ Gacha Đổi Nhân vật Đặc biệt Kỷ niệm Hợp tác," mục tiêu đổi Vé Đổi Đặc biệt Kỷ niệm Hợp tác đã nhận sẽ không được thay đổi.
+「コラボ記念 スペシャル キャラ交換ガチャセット」の購入は、販売期間中におひとり様1回のみです。=Việc mua "Bộ Gacha Đổi Nhân vật Đặc biệt Kỷ niệm Hợp tác" bị giới hạn 1 cái cho mỗi người trong thời gian bán.
+「コラボ記念 スペシャル交換チケット」にてキャラを交換する場合は「コラボ記念 スペシャル キャラ交換ガチャセット」ダイアログ内にある「選択可能キャラ一覧」をご確認のうえ、ご使用ください。=Khi đổi nhân vật bằng "Vé Đổi Đặc biệt Kỷ niệm Hợp tác," vui lòng xác nhận "Danh sách Nhân vật Có thể Chọn" trong hộp thoại "Bộ Gacha Đổi Nhân vật Đặc biệt Kỷ niệm Hợp tác" trước khi sử dụng.
+交換対象のキャラをコラボ記念 スペシャル交換チケット1枚につき1キャラ交換できるチケットになります。・すでに、仲間にしているキャラを交換した場合は、女神の秘石×50に変換されます。※変換された女神の秘石は、プレゼントボックスに贈られずに、直接所持数に加算されます。※女神の秘石の所持数が上限に達している場合、プレゼントボックスに贈られます。・交換した際、交換したキャラのメモリーピース×200を獲得することができます。・獲得したメモリーピースは直接付与されます。※メモリーピースの所持数が上限に達している場合、プレゼントボックスに贈られます。・一部★3キャラ、一部限定★3キャラ、★2キャラ、★1キャラは交換対象外になります。※交換対象のキャラは、各チケット購入ダイアログ内の「選択可能キャラ一覧」をご確認ください。※コラボ記念 スペシャル交換チケットを期限内に使用していない場合は、表示された画面にてキャラ交換を行うまで、ゲームをプレイできません。=Mỗi Vé Đổi Đặc biệt Kỷ niệm Hợp tác có thể đổi lấy 1 nhân vật đủ điều kiện.\n\n►Nếu bạn đổi lấy nhân vật đã sở hữu, nó sẽ được chuyển thành 50 Talisman Thiêng liêng.\n※Talisman Thiêng liêng đã chuyển đổi sẽ được thêm trực tiếp vào kho đồ của bạn và không gửi vào Hộp quà.\n※Nếu đạt giới hạn tối đa Talisman Thiêng liêng, chúng sẽ được gửi vào Hộp quà.\n\n►Khi bạn đổi vé, bạn cũng sẽ nhận được 200 Mảnh ký ức của nhân vật đã đổi.\n\n►Mảnh ký ức nhận được sẽ được trao trực tiếp.\n※Nếu đạt số lượng tối đa Mảnh ký ức, chúng sẽ được gửi vào Hộp quà.\n\n►Một số nhân vật ★3, một số nhân vật ★3 giới hạn, nhân vật ★2 và nhân vật ★1 không đủ điều kiện để đổi.\n※Vui lòng kiểm tra "Danh sách Nhân vật Có thể Chọn" trong hộp thoại mua vé của mỗi vé để xem nhân vật đủ điều kiện.\n※Nếu bạn không sử dụng Vé Đổi Đặc biệt Kỷ niệm Hợp tác trong thời hạn hiệu lực, bạn sẽ không thể chơi game cho đến khi hoàn thành Đổi Nhân vật trên màn hình hiển thị.
+Sダッシュ スペシャル交換チケットについて=Về Vé Đổi Đặc biệt S-Dash:
+「スタートダッシュ スペシャル キャラ交換ガチャセット」の販売後、獲得したSダッシュ スペシャル交換チケットの交換対象は変更しません。=Sau khi bán "Bộ Gacha Đổi Nhân vật Đặc biệt Start Dash," mục tiêu đổi Vé Đổi Đặc biệt S-Dash đã nhận sẽ không được thay đổi.
+「スタートダッシュ スペシャル キャラ交換ガチャセット」の購入は、販売期間中におひとり様1回のみです。=Việc mua "Bộ Gacha Đổi Nhân vật Đặc biệt Start Dash" bị giới hạn 1 cái cho mỗi người trong thời gian bán.
+「Sダッシュ スペシャル交換チケット」にてキャラを交換する場合は「スタートダッシュ スペシャル キャラ交換ガチャセット」ダイアログ内にある「選択可能キャラ一覧」をご確認のうえ、ご使用ください。=Khi đổi nhân vật bằng "Vé Đổi Đặc biệt S-Dash," vui lòng xác nhận "Danh sách Nhân vật Có thể Chọn" trong hộp thoại "Bộ Gacha Đổi Nhân vật Đặc biệt Start Dash" trước khi sử dụng.
+交換対象のキャラをSダッシュ スペシャル交換チケット1枚につき1キャラ交換できるチケットになります。・すでに、仲間にしているキャラを交換した場合は、女神の秘石×50に変換されます。※変換された女神の秘石は、プレゼントボックスに贈られずに、直接所持数に加算されます。※女神の秘石の所持数が上限に達している場合、プレゼントボックスに贈られます。・交換した際、交換したキャラのメモリーピース×200を獲得することができます。・獲得したメモリーピースは直接付与されます。※メモリーピースの所持数が上限に達している場合、プレゼントボックスに贈られます。・一部★3キャラ、一部限定★3キャラ、★2キャラ、★1キャラは交換対象外になります。※交換対象のキャラは、各チケット購入ダイアログ内の「選択可能キャラ一覧」をご確認ください。※Sダッシュ スペシャル交換チケットを期限内に使用していない場合は、表示された画面にてキャラ交換を行うまで、ゲームをプレイできません。=►Mỗi Vé Đổi Đặc biệt S-Dash có thể đổi lấy 1 nhân vật đủ điều kiện.\n\n►Nếu bạn đổi lấy nhân vật đã sở hữu, nó sẽ được chuyển thành 50 Talisman Thiêng liêng.\n※Talisman Thiêng liêng đã chuyển đổi sẽ được thêm trực tiếp vào kho đồ của bạn và không gửi vào Hộp quà.\n※Nếu đạt giới hạn tối đa Talisman Thiêng liêng, chúng sẽ được gửi vào Hộp quà.\n\n►Khi bạn đổi vé, bạn cũng sẽ nhận được 200 Mảnh ký ức của nhân vật đã đổi.\n\n►Mảnh ký ức nhận được sẽ được trao trực tiếp.\n※Nếu đạt số lượng tối đa Mảnh ký ức, chúng sẽ được gửi vào Hộp quà.\n\n►Một số nhân vật ★3, một số nhân vật ★3 giới hạn, nhân vật ★2 và nhân vật ★1 không đủ điều kiện để đổi.\n※Vui lòng kiểm tra "Danh sách Nhân vật Có thể Chọn" trong hộp thoại mua vé của mỗi vé để xem nhân vật đủ điều kiện.\n※Nếu bạn không sử dụng Vé Đổi Đặc biệt S-Dash trong thời hạn hiệu lực, bạn sẽ không thể chơi game cho đến khi hoàn thành Đổi Nhân vật trên màn hình hiển thị.
+スペシャル交換チケット（限定+）について=Về Vé Đổi Đặc biệt (Limited+):
+スペシャル交換チケット（限定＋）期限通知=Thông báo Ngày hết hạn Vé Đổi Đặc biệt (Limited+)
+・交換対象のキャラをスペシャル交換チケット（限定+）1枚につき1キャラ交換できるチケットになります。・すでに、仲間にしているキャラを交換した場合は、女神の秘石×50に変換されます。※変換された女神の秘石は、プレゼントボックスに贈られずに、直接所持数に加算されます。※女神の秘石の所持数が上限に達している場合、プレゼントボックスに贈られます。・交換した際、交換したキャラのメモリーピース×200を獲得することができます。・獲得したメモリーピースは直接付与されます。※メモリーピースの所持数が上限に達している場合、プレゼントボックスに贈られます。・一部★3キャラ、一部限定★3キャラ、★2キャラ、★1キャラは交換対象外になります。※交換対象のキャラは、各チケット購入ダイアログ内の「選択可能キャラ一覧」をご確認ください。※スペシャル交換チケット（限定+）を期限内に使用していない場合は、表示された画面にてキャラ交換を行うまで、ゲームをプレイできません。・「スペシャル交換チケット（限定+）」にてキャラを交換する場合は「スペシャル キャラ交換ガチャセット」ダイアログ内にある「選択可能キャラ一覧」をご確認のうえ、ご使用ください。・「スペシャル キャラ交換ガチャセット」の購入は、販売期間中におひとり様1回のみです。・「スペシャル キャラ交換ガチャセット」の販売後、獲得したスペシャル交換チケット（限定+）の交換対象は変更しません。=►Mỗi Vé Đổi Đặc biệt (Limited+) có thể đổi lấy 1 nhân vật đủ điều kiện.\n\n►Nếu bạn đổi lấy nhân vật đã sở hữu, nó sẽ được chuyển thành 50 Talisman Thiêng liêng.\n※Talisman Thiêng liêng đã chuyển đổi sẽ được thêm trực tiếp vào kho đồ của bạn và không gửi vào Hộp quà.\n※Nếu đạt giới hạn tối đa Talisman Thiêng liêng, chúng sẽ được gửi vào Hộp quà.\n\n►Khi bạn đổi vé, bạn cũng sẽ nhận được 200 Mảnh ký ức của nhân vật đã đổi.\n\n►Mảnh ký ức nhận được sẽ được trao trực tiếp.\n※Nếu đạt số lượng tối đa Mảnh ký ức, chúng sẽ được gửi vào Hộp quà.\n\n►Một số nhân vật ★3, một số nhân vật ★3 giới hạn, nhân vật ★2 và nhân vật ★1 không đủ điều kiện để đổi.\n※Vui lòng kiểm tra "Danh sách Nhân vật Có thể Chọn" trong hộp thoại mua vé của mỗi vé để xem nhân vật đủ điều kiện.\n※Nếu bạn không sử dụng Vé Đổi Đặc biệt (Limited+) trong thời hạn hiệu lực, bạn sẽ không thể chơi game cho đến khi hoàn thành Đổi Nhân vật trên màn hình hiển thị.\n\n►Khi sử dụng "Vé Đổi Đặc biệt (Limited+)" để đổi nhân vật, vui lòng kiểm tra "Danh sách Nhân vật Có thể Chọn" trong hộp thoại "Bộ Gacha Đổi Nhân vật Đặc biệt" trước khi tiến hành.\n\n►Mỗi người chơi chỉ có thể mua "Bộ Gacha Đổi Nhân vật Đặc biệt" một lần trong thời gian bán.\n\n►Sau khi mua "Bộ Gacha Đổi Nhân vật Đặc biệt," danh sách nhân vật có thể đổi cho Vé Đổi Đặc biệt (Limited+) đã nhận sẽ không thay đổi.
+■メモリーピース交換チケットについて\n・交換対象のキャラのメモリーピース交換チケット1枚につき1キャラのメモリーピース×100と交換できるチケットです。\n・獲得したメモリーピースは直接付与されます。メモリーピースの所持数が上限に達している場合、プレゼントボックスに贈られます。\n※交換対象のキャラは、各チケットの交換ダイアログ内をご確認ください。\n\n■GWメモリーピース交換チケット、6.5周年メモリーピース交換チケット、2024 年末年始メモリーピース交換チケット、7周年メモリーピース交換チケットについて\n・交換対象のキャラのメモリーピース交換チケット1枚につき1キャラのメモリーピース×50と交換できるチケットです。\n・獲得したメモリーピースは直接付与されます。メモリーピースの所持数が上限に達している場合、プレゼントボックスに贈られます。\n※交換対象のキャラは、各チケットの交換ダイアログ内をご確認ください。\n\n■ピュアメモリーピース交換チケットについて\n・交換対象のキャラのピュアメモリーピース交換チケット1枚につき1キャラのピュアメモリーピース×50と交換できるチケットです。\n・獲得したピュアメモリーピースは直接付与されます。ピュアメモリーピースの所持数が上限に達している場合、プレゼントボックスに贈られます。\n※交換対象のキャラは、各チケットの交換ダイアログ内をご確認ください。\n\n■EX★5武器交換チケットについて\n・交換対象のEX★5武器を交換チケット1枚につきEX★5武器1つと交換できるチケットです。\n・獲得したEX★5武器は直接付与されます。EX装備の所持数が上限に達している場合、プレゼントボックスに贈られます。\n※交換対象のEX★5武器は、各チケットの交換ダイアログ内をご確認ください。\n=■Về Vé Đổi Mảnh Ký Ức:\n►Mỗi Vé Đổi Mảnh Ký Ức có thể đổi lấy 100 Mảnh Ký Ức của một nhân vật được chỉ định.\n\n►Các Mảnh Ký Ức nhận được sẽ được trao trực tiếp. Nếu đạt giới hạn tối đa, chúng sẽ được gửi đến Hộp Thư.\n※Vui lòng kiểm tra hộp thoại đổi của mỗi vé để xem các nhân vật đủ điều kiện.\n\n■Về Vé Đổi Mảnh Ký Ức GW, Vé Đổi Mảnh Ký Ức Kỷ Niệm 6.5, Vé Đổi Mảnh Ký Ức Cuối Năm/Năm Mới 2024, và Vé Đổi Mảnh Ký Ức Kỷ Niệm 7:\n►Mỗi Vé Đổi Mảnh Ký Ức đặc biệt này có thể đổi lấy 50 Mảnh Ký Ức của một nhân vật được chỉ định.\n\n►Các Mảnh Ký Ức nhận được sẽ được trao trực tiếp. Nếu đạt giới hạn tối đa, chúng sẽ được gửi đến Hộp Thư.\n※Vui lòng kiểm tra hộp thoại đổi của mỗi vé để xem các nhân vật đủ điều kiện.\n\n■Về Vé Đổi Mảnh Ký Ức Thuần Khiết:\n►Mỗi Vé Đổi Mảnh Ký Ức Thuần Khiết có thể đổi lấy 50 Mảnh Ký Ức Thuần Khiết của một nhân vật được chỉ định.\n\n►Các Mảnh Ký Ức Thuần Khiết nhận được sẽ được trao trực tiếp. Nếu đạt giới hạn tối đa, chúng sẽ được gửi đến Hộp Thư.\n※Vui lòng kiểm tra hộp thoại đổi của mỗi vé để xem các nhân vật đủ điều kiện.\n\n■Về Vé Đổi Vũ Khí EX★5:\n►Mỗi Vé Đổi Vũ Khí EX★5 có thể đổi lấy một vũ khí EX★5.\n\n►Vũ khí EX★5 nhận được sẽ được trao trực tiếp. Nếu đạt giới hạn tối đa, nó sẽ được gửi đến Hộp Thư.\n※Vui lòng kiểm tra hộp thoại đổi của mỗi vé để xem các vũ khí EX★5 đủ điều kiện.
 
 
 
 
-・交換対象のキャラをスペシャル交換チケット1枚につき1キャラ交換できるチケットになります。・すでに、仲間にしているキャラを交換した場合は、女神の秘石×50に変換されます。※変換された女神の秘石は、プレゼントボックスに贈られずに、直接所持数に加算されます。※女神の秘石の所持数が上限に達している場合、プレゼントボックスに贈られます。・交換した際、交換したキャラのメモリーピース×200を獲得することができます。※2022/08/15 14:59以前に購入したスペシャル交換チケットでは、交換したキャラのメモリーピース×100を獲得することができます。・獲得したメモリーピースは直接付与されます。※メモリーピースの所持数が上限に達している場合、プレゼントボックスに贈られます。・一部★3キャラ、限定★3キャラ、★2キャラ、★1キャラは交換対象外になります。※交換対象のキャラは、購入ダイアログ内の「選択可能キャラ一覧」をご確認ください。※スペシャル交換チケットを期限内に使用していない場合は、表示された画面にてキャラ交換を行うまで、ゲームをプレイできません。・「スペシャル交換チケット」にてキャラを交換する場合は「スペシャル キャラ交換ガチャセット」ダイアログ内にある「選択可能キャラ一覧」をご確認のうえ、ご使用ください。・「スペシャル キャラ交換ガチャセット」の購入は、販売期間中におひとり様1回のみです。・「スペシャル キャラ交換ガチャセット」の販売後、獲得したスペシャル交換チケットの交換対象は変更しません。=►Each Special Exchange Ticket can be exchanged for one eligible character.\n\n►If you exchange for a character you already own, it will be converted into 50 Divine Amulets.\n※Converted Divine Amulets are added directly to your inventory and will not be sent to the Present Box.\n※If the maximum limit for Divine Amulets is reached, they will be sent to the Present Box.\n\n►When you exchange a ticket, you will also receive 200 Memory Shards for the exchanged character.\n※For Special Exchange Tickets purchased before 2022/08/15 14:59, you will receive 100 Memory Shards instead.\n\n►The obtained Memory Shards are granted directly.\n※If the maximum limit for Memory Shards is reached, they will be sent to the Present Box.\n\n►Some ★3 characters, limited ★3 characters, ★2 characters, and ★1 characters are not eligible for exchange.\n※Please check the "List of Selectable Characters" in the purchase dialog for eligible characters.\n※If you do not use the Special Exchange Ticket within the validity period, you will not be able to play the game until you complete the Chara Exchange on the displayed screen.\n\n►When using the "Special Exchange Ticket" to exchange for a character, please check the "List of Selectable Characters" in the "Special Chara Exchange Gacha Set" dialog before proceeding.\n\n►Each player can only purchase the "Special Chara Exchange Gacha Set" once during the sales period.\n\n►After purchasing the "Special Chara Exchange Gacha Set," the list of exchangeable characters for the acquired Special Exchange Ticket will not change.
+・交換対象のキャラをスペシャル交換チケット1枚につき1キャラ交換できるチケットになります。・すでに、仲間にしているキャラを交換した場合は、女神の秘石×50に変換されます。※変換された女神の秘石は、プレゼントボックスに贈られずに、直接所持数に加算されます。※女神の秘石の所持数が上限に達している場合、プレゼントボックスに贈られます。・交換した際、交換したキャラのメモリーピース×200を獲得することができます。※2022/08/15 14:59以前に購入したスペシャル交換チケットでは、交換したキャラのメモリーピース×100を獲得することができます。・獲得したメモリーピースは直接付与されます。※メモリーピースの所持数が上限に達している場合、プレゼントボックスに贈られます。・一部★3キャラ、限定★3キャラ、★2キャラ、★1キャラは交換対象外になります。※交換対象のキャラは、購入ダイアログ内の「選択可能キャラ一覧」をご確認ください。※スペシャル交換チケットを期限内に使用していない場合は、表示された画面にてキャラ交換を行うまで、ゲームをプレイできません。・「スペシャル交換チケット」にてキャラを交換する場合は「スペシャル キャラ交換ガチャセット」ダイアログ内にある「選択可能キャラ一覧」をご確認のうえ、ご使用ください。・「スペシャル キャラ交換ガチャセット」の購入は、販売期間中におひとり様1回のみです。・「スペシャル キャラ交換ガチャセット」の販売後、獲得したスペシャル交換チケットの交換対象は変更しません。=►Mỗi Vé Đổi Đặc Biệt có thể đổi lấy một nhân vật đủ điều kiện.\n\n►Nếu bạn đổi lấy một nhân vật đã sở hữu, nó sẽ được chuyển thành 50 Thiên Thần Bùa.\n※Các Thiên Thần Bùa được chuyển đổi sẽ được thêm trực tiếp vào kho đồ và sẽ không được gửi đến Hộp Thư.\n※Nếu đạt giới hạn tối đa cho Thiên Thần Bùa, chúng sẽ được gửi đến Hộp Thư.\n\n►Khi bạn đổi một vé, bạn cũng sẽ nhận được 200 Mảnh Ký Ức cho nhân vật đã đổi.\n※Đối với Vé Đổi Đặc Biệt được mua trước 2022/08/15 14:59, bạn sẽ nhận được 100 Mảnh Ký Ức thay vào đó.\n\n►Các Mảnh Ký Ức nhận được sẽ được trao trực tiếp.\n※Nếu đạt giới hạn tối đa cho Mảnh Ký Ức, chúng sẽ được gửi đến Hộp Thư.\n\n►Một số nhân vật ★3, nhân vật ★3 giới hạn, nhân vật ★2 và nhân vật ★1 không đủ điều kiện để đổi.\n※Vui lòng kiểm tra "Danh Sách Nhân vật Có Thể Chọn" trong hộp thoại mua để xem các nhân vật đủ điều kiện.\n※Nếu bạn không sử dụng Vé Đổi Đặc Biệt trong thời hạn hiệu lực, bạn sẽ không thể chơi game cho đến khi hoàn thành Trao Đổi Nhân vật trên màn hình hiển thị.\n\n►Khi sử dụng "Vé Đổi Đặc Biệt" để đổi lấy một nhân vật, vui lòng kiểm tra "Danh Sách Nhân vật Có Thể Chọn" trong hộp thoại "Bộ Gacha Trao Đổi Nhân vật Đặc Biệt" trước khi tiến hành.\n\n►Mỗi người chơi chỉ có thể mua "Bộ Gacha Trao Đổi Nhân vật Đặc Biệt" một lần trong thời gian bán hàng.\n\n►Sau khi mua "Bộ Gacha Trao Đổi Nhân vật Đặc Biệt," danh sách các nhân vật có thể đổi cho Vé Đổi Đặc Biệt đã nhận sẽ không thay đổi.
 
 
-・交換対象のキャラをAnniv. スペシャル交換チケット1枚につき1キャラ交換できるチケットになります。・すでに、仲間にしているキャラを交換した場合は、女神の秘石×50に変換されます。※変換された女神の秘石は、プレゼントボックスに贈られずに、直接所持数に加算されます。※女神の秘石の所持数が上限に達している場合、プレゼントボックスに贈られます。・交換した際、交換したキャラのメモリーピース×200を獲得することができます。※2023/02/15 14:59以前に購入したAnniv. スペシャル交換チケットでは、交換したキャラのメモリーピース×100を獲得することができます。・獲得したメモリーピースは直接付与されます。※メモリーピースの所持数が上限に達している場合、プレゼントボックスに贈られます。・一部★3キャラ、一部限定★3キャラ、★2キャラ、★1キャラは交換対象外になります。※交換対象のキャラは、各チケット購入ダイアログ内の「選択可能キャラ一覧」をご確認ください。※Anniv. スペシャル交換チケットを期限内に使用していない場合は、表示された画面にてキャラ交換を行うまで、ゲームをプレイできません。・「Anniv. スペシャル交換チケット」にてキャラを交換する場合は「Anniv. スペシャル キャラ交換ガチャセット」ダイアログ内にある「選択可能キャラ一覧」をご確認のうえ、ご使用ください。・「Anniv. スペシャル キャラ交換ガチャセット」の購入は、販売期間中におひとり様1回のみです。・「Anniv. スペシャル キャラ交換ガチャセット」の販売後、獲得したAnniv. スペシャル交換チケットの交換対象は変更しません。=►Each Anniv. Special Exchange Ticket can be exchanged for one eligible character.\n\n►If you exchange for a character you already own, it will be converted into 50 Divine Amulets.\n※Converted Divine Amulets are added directly to your inventory and will not be sent to the Present Box.\n※If the maximum limit for Divine Amulets is reached, they will be sent to the Present Box.\n\n►When you exchange a ticket, you will also receive 200 Memory Shards for the exchanged character.\n※For Anniv. Special Exchange Tickets purchased before 2023/02/15 14:59, you will receive 100 Memory Shards instead.\n\n►The obtained Memory Shards are granted directly.\n※If the maximum limit for Memory Shards is reached, they will be sent to the Present Box.\n\n►Some ★3 characters, certain limited ★3 characters, ★2 characters, and ★1 characters are not eligible for exchange.\n※Please check the "List of Selectable Characters" in the purchase dialog of each ticket for eligible characters.\n※If you do not use the Anniv. Special Exchange Ticket within the validity period, you will not be able to play the game until you complete the Chara Exchange on the displayed screen.\n\n►When using the "Anniv. Special Exchange Ticket" to exchange for a character, please check the "List of Selectable Characters" in the "Anniv. Special Chara Exchange Gacha Set" dialog before proceeding.\n\n►Each player can only purchase the "Anniv. Special Chara Exchange Gacha Set" once during the sales period.\n\n►After purchasing the "Anniv. Special Chara Exchange Gacha Set," the list of exchangeable characters for the acquired Anniv. Special Exchange Ticket will not change.
+・交換対象のキャラをAnniv. スペシャル交換チケット1枚につき1キャラ交換できるチケットになります。・すでに、仲間にしているキャラを交換した場合は、女神の秘石×50に変換されます。※変換された女神の秘石は、プレゼントボックスに贈られずに、直接所持数に加算されます。※女神の秘石の所持数が上限に達している場合、プレゼントボックスに贈られます。・交換した際、交換したキャラのメモリーピース×200を獲得することができます。※2023/02/15 14:59以前に購入したAnniv. スペシャル交換チケットでは、交換したキャラのメモリーピース×100を獲得することができます。・獲得したメモリーピースは直接付与されます。※メモリーピースの所持数が上限に達している場合、プレゼントボックスに贈られます。・一部★3キャラ、一部限定★3キャラ、★2キャラ、★1キャラは交換対象外になります。※交換対象のキャラは、各チケット購入ダイアログ内の「選択可能キャラ一覧」をご確認ください。※Anniv. スペシャル交換チケットを期限内に使用していない場合は、表示された画面にてキャラ交換を行うまで、ゲームをプレイできません。・「Anniv. スペシャル交換チケット」にてキャラを交換する場合は「Anniv. スペシャル キャラ交換ガチャセット」ダイアログ内にある「選択可能キャラ一覧」をご確認のうえ、ご使用ください。・「Anniv. スペシャル キャラ交換ガチャセット」の購入は、販売期間中におひとり様1回のみです。・「Anniv. スペシャル キャラ交換ガチャセット」の販売後、獲得したAnniv. スペシャル交換チケットの交換対象は変更しません。=►Mỗi Vé Đổi Đặc Biệt Kỷ Niệm có thể đổi lấy một nhân vật đủ điều kiện.\n\n►Nếu bạn đổi lấy một nhân vật đã sở hữu, nó sẽ được chuyển thành 50 Thiên Thần Bùa.\n※Các Thiên Thần Bùa được chuyển đổi sẽ được thêm trực tiếp vào kho đồ và sẽ không được gửi đến Hộp Thư.\n※Nếu đạt giới hạn tối đa cho Thiên Thần Bùa, chúng sẽ được gửi đến Hộp Thư.\n\n►Khi bạn đổi một vé, bạn cũng sẽ nhận được 200 Mảnh Ký Ức cho nhân vật đã đổi.\n※Đối với Vé Đổi Đặc Biệt Kỷ Niệm được mua trước 2023/02/15 14:59, bạn sẽ nhận được 100 Mảnh Ký Ức thay vào đó.\n\n►Các Mảnh Ký Ức nhận được sẽ được trao trực tiếp.\n※Nếu đạt giới hạn tối đa cho Mảnh Ký Ức, chúng sẽ được gửi đến Hộp Thư.\n\n►Một số nhân vật ★3, một số nhân vật ★3 giới hạn, nhân vật ★2 và nhân vật ★1 không đủ điều kiện để đổi.\n※Vui lòng kiểm tra "Danh Sách Nhân vật Có Thể Chọn" trong hộp thoại mua của mỗi vé để xem các nhân vật đủ điều kiện.\n※Nếu bạn không sử dụng Vé Đổi Đặc Biệt Kỷ Niệm trong thời hạn hiệu lực, bạn sẽ không thể chơi game cho đến khi hoàn thành Trao Đổi Nhân vật trên màn hình hiển thị.\n\n►Khi sử dụng "Vé Đổi Đặc Biệt Kỷ Niệm" để đổi lấy một nhân vật, vui lòng kiểm tra "Danh Sách Nhân vật Có Thể Chọn" trong hộp thoại "Bộ Gacha Trao Đổi Nhân vật Đặc Biệt Kỷ Niệm" trước khi tiến hành.\n\n►Mỗi người chơi chỉ có thể mua "Bộ Gacha Trao Đổi Nhân vật Đặc Biệt Kỷ Niệm" một lần trong thời gian bán hàng.\n\n►Sau khi mua "Bộ Gacha Trao Đổi Nhân vật Đặc Biệt Kỷ Niệm," danh sách các nhân vật có thể đổi cho Vé Đổi Đặc Biệt Kỷ Niệm đã nhận sẽ không thay đổi.
 
 
-・交換対象のキャラをコラボ記念 スペシャル交換チケット1枚につき1キャラ交換できるチケットになります。・すでに、仲間にしているキャラを交換した場合は、女神の秘石×50に変換されます。※変換された女神の秘石は、プレゼントボックスに贈られずに、直接所持数に加算されます。※女神の秘石の所持数が上限に達している場合、プレゼントボックスに贈られます。・交換した際、交換したキャラのメモリーピース×200を獲得することができます。・獲得したメモリーピースは直接付与されます。※メモリーピースの所持数が上限に達している場合、プレゼントボックスに贈られます。・一部★3キャラ、一部限定★3キャラ、★2キャラ、★1キャラは交換対象外になります。※交換対象のキャラは、各チケット購入ダイアログ内の「選択可能キャラ一覧」をご確認ください。※コラボ記念 スペシャル交換チケットを期限内に使用していない場合は、表示された画面にてキャラ交換を行うまで、ゲームをプレイできません。・「コラボ記念 スペシャル交換チケット」にてキャラを交換する場合は「コラボ記念 スペシャル キャラ交換ガチャセット」ダイアログ内にある「選択可能キャラ一覧」をご確認のうえ、ご使用ください。・「コラボ記念 スペシャル キャラ交換ガチャセット」の購入は、販売期間中におひとり様1回のみです。・「コラボ記念 スペシャル キャラ交換ガチャセット」の販売後、獲得したコラボ記念 スペシャル交換チケットの交換対象は変更しません。=►Each Collaboration Commemoration Special Exchange Ticket can be exchanged for one eligible character.\n\n►If you exchange for a character you already own, it will be converted into 50 Divine Amulets.\n※Converted Divine Amulets are added directly to your inventory and will not be sent to the Present Box.\n※If the maximum limit for Divine Amulets is reached, they will be sent to the Present Box.\n\n►When you exchange a ticket, you will also receive 200 Memory Shards for the exchanged character.\n\n►The obtained Memory Shards are granted directly.\n※If the maximum limit for Memory Shards is reached, they will be sent to the Present Box.\n\n►Some ★3 characters, certain limited ★3 characters, ★2 characters, and ★1 characters are not eligible for exchange.\n※Please check the "List of Selectable Characters" in the purchase dialog of each ticket for eligible characters.\n※If you do not use the Collaboration Commemoration Special Exchange Ticket within the validity period, you will not be able to play the game until you complete the Chara Exchange on the displayed screen.\n\n►When using the "Collaboration Commemoration Special Exchange Ticket" to exchange for a character, please check the "List of Selectable Characters" in the "Collaboration Commemoration Special Chara Exchange Gacha Set" dialog before proceeding.\n\n►Each player can only purchase the "Collaboration Commemoration Special Chara Exchange Gacha Set" once during the sales period.\n\n►After purchasing the "Collaboration Commemoration Special Chara Exchange Gacha Set," the list of exchangeable characters for the acquired Collaboration Commemoration Special Exchange Ticket will not change.
+・交換対象のキャラをコラボ記念 スペシャル交換チケット1枚につき1キャラ交換できるチケットになります。・すでに、仲間にしているキャラを交換した場合は、女神の秘石×50に変換されます。※変換された女神の秘石は、プレゼントボックスに贈られずに、直接所持数に加算されます。※女神の秘石の所持数が上限に達している場合、プレゼントボックスに贈られます。・交換した際、交換したキャラのメモリーピース×200を獲得することができます。・獲得したメモリーピースは直接付与されます。※メモリーピースの所持数が上限に達している場合、プレゼントボックスに贈られます。・一部★3キャラ、一部限定★3キャラ、★2キャラ、★1キャラは交換対象外になります。※交換対象のキャラは、各チケット購入ダイアログ内の「選択可能キャラ一覧」をご確認ください。※コラボ記念 スペシャル交換チケットを期限内に使用していない場合は、表示された画面にてキャラ交換を行うまで、ゲームをプレイできません。・「コラボ記念 スペシャル交換チケット」にてキャラを交換する場合は「コラボ記念 スペシャル キャラ交換ガチャセット」ダイアログ内にある「選択可能キャラ一覧」をご確認のうえ、ご使用ください。・「コラボ記念 スペシャル キャラ交換ガチャセット」の購入は、販売期間中におひとり様1回のみです。・「コラボ記念 スペシャル キャラ交換ガチャセット」の販売後、獲得したコラボ記念 スペシャル交換チケットの交換対象は変更しません。=►Mỗi Vé Đổi Đặc Biệt Kỷ Niệm Hợp Tác có thể đổi lấy một nhân vật đủ điều kiện.\n\n►Nếu bạn đổi lấy một nhân vật đã sở hữu, nó sẽ được chuyển thành 50 Thiên Thần Bùa.\n※Các Thiên Thần Bùa được chuyển đổi sẽ được thêm trực tiếp vào kho đồ và sẽ không được gửi đến Hộp Thư.\n※Nếu đạt giới hạn tối đa cho Thiên Thần Bùa, chúng sẽ được gửi đến Hộp Thư.\n\n►Khi bạn đổi một vé, bạn cũng sẽ nhận được 200 Mảnh Ký Ức cho nhân vật đã đổi.\n\n►Các Mảnh Ký Ức nhận được sẽ được trao trực tiếp.\n※Nếu đạt giới hạn tối đa cho Mảnh Ký Ức, chúng sẽ được gửi đến Hộp Thư.\n\n►Một số nhân vật ★3, một số nhân vật ★3 giới hạn, nhân vật ★2 và nhân vật ★1 không đủ điều kiện để đổi.\n※Vui lòng kiểm tra "Danh Sách Nhân vật Có Thể Chọn" trong hộp thoại mua của mỗi vé để xem các nhân vật đủ điều kiện.\n※Nếu bạn không sử dụng Vé Đổi Đặc Biệt Kỷ Niệm Hợp Tác trong thời hạn hiệu lực, bạn sẽ không thể chơi game cho đến khi hoàn thành Trao Đổi Nhân vật trên màn hình hiển thị.\n\n►Khi sử dụng "Vé Đổi Đặc Biệt Kỷ Niệm Hợp Tác" để đổi lấy một nhân vật, vui lòng kiểm tra "Danh Sách Nhân vật Có Thể Chọn" trong hộp thoại "Bộ Gacha Trao Đổi Nhân vật Đặc Biệt Kỷ Niệm Hợp Tác" trước khi tiến hành.\n\n►Mỗi người chơi chỉ có thể mua "Bộ Gacha Trao Đổi Nhân vật Đặc Biệt Kỷ Niệm Hợp Tác" một lần trong thời gian bán hàng.\n\n►Sau khi mua "Bộ Gacha Trao Đổi Nhân vật Đặc Biệt Kỷ Niệm Hợp Tác," danh sách các nhân vật có thể đổi cho Vé Đổi Đặc Biệt Kỷ Niệm Hợp Tác đã nhận sẽ không thay đổi.
 
 
-・交換対象のキャラをSダッシュ スペシャル交換チケット1枚につき1キャラ交換できるチケットになります。・すでに、仲間にしているキャラを交換した場合は、女神の秘石×50に変換されます。※変換された女神の秘石は、プレゼントボックスに贈られずに、直接所持数に加算されます。※女神の秘石の所持数が上限に達している場合、プレゼントボックスに贈られます。・交換した際、交換したキャラのメモリーピース×200を獲得することができます。・獲得したメモリーピースは直接付与されます。※メモリーピースの所持数が上限に達している場合、プレゼントボックスに贈られます。・一部★3キャラ、一部限定★3キャラ、★2キャラ、★1キャラは交換対象外になります。※交換対象のキャラは、各チケット購入ダイアログ内の「選択可能キャラ一覧」をご確認ください。※Sダッシュ スペシャル交換チケットを期限内に使用していない場合は、表示された画面にてキャラ交換を行うまで、ゲームをプレイできません。・「Sダッシュ スペシャル交換チケット」にてキャラを交換する場合は「スタートダッシュ スペシャル キャラ交換ガチャセット」ダイアログ内にある「選択可能キャラ一覧」をご確認のうえ、ご使用ください。・「スタートダッシュ スペシャル キャラ交換ガチャセット」の購入は、販売期間中におひとり様1回のみです。・「スタートダッシュ スペシャル キャラ交換ガチャセット」の販売後、獲得したSダッシュ スペシャル交換チケットの交換対象は変更しません。=►Each S-Dash Special Exchange Ticket can be exchanged for one eligible character.\n\n►If you exchange for a character you already own, it will be converted into 50 Divine Amulets.\n※Converted Divine Amulets are added directly to your inventory and will not be sent to the Present Box.\n※If the maximum limit for Divine Amulets is reached, they will be sent to the Present Box.\n\n►When you exchange a ticket, you will also receive 200 Memory Shards for the exchanged character.\n\n►The obtained Memory Shards are granted directly.\n※If the maximum limit for Memory Shards is reached, they will be sent to the Present Box.\n\n►Some ★3 characters, certain limited ★3 characters, ★2 characters, and ★1 characters are not eligible for exchange.\n※Please check the "List of Selectable Characters" in the purchase dialog of each ticket for eligible characters.\n※If you do not use the S-Dash Special Exchange Ticket within the validity period, you will not be able to play the game until you complete the Chara Exchange on the displayed screen.\n\n►When using the "S-Dash Special Exchange Ticket" to exchange for a character, please check the "List of Selectable Characters" in the "Start Dash Special Chara Exchange Gacha Set" dialog before proceeding.\n\n►Each player can only purchase the "Start Dash Special Chara Exchange Gacha Set" once during the sales period.\n\n►After purchasing the "Start Dash Special Chara Exchange Gacha Set," the list of exchangeable characters for the acquired S-Dash Special Exchange Ticket will not change.
+・交換対象のキャラをSダッシュ スペシャル交換チケット1枚につき1キャラ交換できるチケットになります。・すでに、仲間にしているキャラを交換した場合は、女神の秘石×50に変換されます。※変換された女神の秘石は、プレゼントボックスに贈られずに、直接所持数に加算されます。※女神の秘石の所持数が上限に達している場合、プレゼントボックスに贈られます。・交換した際、交換したキャラのメモリーピース×200を獲得することができます。・獲得したメモリーピースは直接付与されます。※メモリーピースの所持数が上限に達している場合、プレゼントボックスに贈られます。・一部★3キャラ、一部限定★3キャラ、★2キャラ、★1キャラは交換対象外になります。※交換対象のキャラは、各チケット購入ダイアログ内の「選択可能キャラ一覧」をご確認ください。※Sダッシュ スペシャル交換チケットを期限内に使用していない場合は、表示された画面にてキャラ交換を行うまで、ゲームをプレイできません。・「Sダッシュ スペシャル交換チケット」にてキャラを交換する場合は「スタートダッシュ スペシャル キャラ交換ガチャセット」ダイアログ内にある「選択可能キャラ一覧」をご確認のうえ、ご使用ください。・「スタートダッシュ スペシャル キャラ交換ガチャセット」の購入は、販売期間中におひとり様1回のみです。・「スタートダッシュ スペシャル キャラ交換ガチャセット」の販売後、獲得したSダッシュ スペシャル交換チケットの交換対象は変更しません。=►Mỗi Vé Đổi Đặc Biệt S-Dash có thể đổi lấy một nhân vật đủ điều kiện.\n\n►Nếu bạn đổi lấy một nhân vật đã sở hữu, nó sẽ được chuyển thành 50 Thiên Thần Bùa.\n※Các Thiên Thần Bùa được chuyển đổi sẽ được thêm trực tiếp vào kho đồ và sẽ không được gửi đến Hộp Thư.\n※Nếu đạt giới hạn tối đa cho Thiên Thần Bùa, chúng sẽ được gửi đến Hộp Thư.\n\n►Khi bạn đổi một vé, bạn cũng sẽ nhận được 200 Mảnh Ký Ức cho nhân vật đã đổi.\n\n►Các Mảnh Ký Ức nhận được sẽ được trao trực tiếp.\n※Nếu đạt giới hạn tối đa cho Mảnh Ký Ức, chúng sẽ được gửi đến Hộp Thư.\n\n►Một số nhân vật ★3, một số nhân vật ★3 giới hạn, nhân vật ★2 và nhân vật ★1 không đủ điều kiện để đổi.\n※Vui lòng kiểm tra "Danh Sách Nhân vật Có Thể Chọn" trong hộp thoại mua của mỗi vé để xem các nhân vật đủ điều kiện.\n※Nếu bạn không sử dụng Vé Đổi Đặc Biệt S-Dash trong thời hạn hiệu lực, bạn sẽ không thể chơi game cho đến khi hoàn thành Trao Đổi Nhân vật trên màn hình hiển thị.\n\n►Khi sử dụng "Vé Đổi Đặc Biệt S-Dash" để đổi lấy một nhân vật, vui lòng kiểm tra "Danh Sách Nhân vật Có Thể Chọn" trong hộp thoại "Bộ Gacha Trao Đổi Nhân vật Start Dash Đặc Biệt" trước khi tiến hành.\n\n►Mỗi người chơi chỉ có thể mua "Bộ Gacha Trao Đổi Nhân vật Start Dash Đặc Biệt" một lần trong thời gian bán hàng.\n\n►Sau khi mua "Bộ Gacha Trao Đổi Nhân vật Start Dash Đặc Biệt," danh sách các nhân vật có thể đổi cho Vé Đổi Đặc Biệt S-Dash đã nhận sẽ không thay đổi.
 
-■メモリーピース交換チケットについて\n・交換対象のキャラのメモリーピース交換チケット1枚につき1キャラのメモリーピース×100と交換できるチケットです。\n・獲得したメモリーピースは直接付与されます。メモリーピースの所持数が上限に達している場合、プレゼントボックスに贈られます。\n※交換対象のキャラは、各チケットの交換ダイアログ内をご確認ください。\n\n■GWメモリーピース交換チケットについて\n・交換対象のキャラのメモリーピース交換チケット1枚につき1キャラのメモリーピース×50と交換できるチケットです。\n・獲得したメモリーピースは直接付与されます。メモリーピースの所持数が上限に達している場合、プレゼントボックスに贈られます。\n※交換対象のキャラは、各チケットの交換ダイアログ内をご確認ください。\n\n■ピュアメモリーピース交換チケットについて\n・交換対象のキャラのピュアメモリーピース交換チケット1枚につき1キャラのピュアメモリーピース×50と交換できるチケットです。\n・獲得したピュアメモリーピースは直接付与されます。ピュアメモリーピースの所持数が上限に達している場合、プレゼントボックスに贈られます。\n※交換対象のキャラは、各チケットの交換ダイアログ内をご確認ください。=■About Memory Piece Exchange Tickets:\n►This is a ticket that can be exchanged for 100 Memory Shards of one eligible character per Memory Piece Exchange Ticket.\n\n►Obtained Memory Shards will be granted directly. If you reach the maximum limit of Memory Shards, they will be sent to the Present Box.\n※Please check within each ticket's exchange dialog for eligible characters.\n\n■About GW Memory Piece Exchange Tickets:\n►This is a ticket that can be exchanged for 50 Memory Shards of one eligible character per Memory Piece Exchange Ticket.\n\n►Obtained Memory Shards will be granted directly. If you reach the maximum limit of Memory Shards, they will be sent to the Present Box.\n※Please check within each ticket's exchange dialog for eligible characters.\n\n■About Pure Memory Piece Exchange Tickets:\n►This is a ticket that can be exchanged for 50 Pure Memory Shards of one eligible character per Pure Memory Piece Exchange Ticket.\n\n►Obtained Pure Memory Shards will be granted directly. If you reach the maximum limit of Pure Memory Shards, they will be sent to the Present Box.\n※Please check within each ticket's exchange dialog for eligible characters.
+■メモリーピース交換チケットについて\n・交換対象のキャラのメモリーピース交換チケット1枚につき1キャラのメモリーピース×100と交換できるチケットです。\n・獲得したメモリーピースは直接付与されます。メモリーピースの所持数が上限に達している場合、プレゼントボックスに贈られます。\n※交換対象のキャラは、各チケットの交換ダイアログ内をご確認ください。\n\n■GWメモリーピース交換チケットについて\n・交換対象のキャラのメモリーピース交換チケット1枚につき1キャラのメモリーピース×50と交換できるチケットです。\n・獲得したメモリーピースは直接付与されます。メモリーピースの所持数が上限に達している場合、プレゼントボックスに贈られます。\n※交換対象のキャラは、各チケットの交換ダイアログ内をご確認ください。\n\n■ピュアメモリーピース交換チケットについて\n・交換対象のキャラのピュアメモリーピース交換チケット1枚につき1キャラのピュアメモリーピース×50と交換できるチケットです。\n・獲得したピュアメモリーピースは直接付与されます。ピュアメモリーピースの所持数が上限に達している場合、プレゼントボックスに贈られます。\n※交換対象のキャラは、各チケットの交換ダイアログ内をご確認ください。=■Về Vé Đổi Mảnh Ký Ức:\n►Đây là vé có thể đổi lấy 100 Mảnh Ký Ức của một nhân vật đủ điều kiện cho mỗi Vé Đổi Mảnh Ký Ức.\n\n►Các Mảnh Ký Ức nhận được sẽ được trao trực tiếp. Nếu bạn đạt giới hạn tối đa của Mảnh Ký Ức, chúng sẽ được gửi đến Hộp Thư.\n※Vui lòng kiểm tra trong hộp thoại đổi của mỗi vé để xem các nhân vật đủ điều kiện.\n\n■Về Vé Đổi Mảnh Ký Ức GW:\n►Đây là vé có thể đổi lấy 50 Mảnh Ký Ức của một nhân vật đủ điều kiện cho mỗi Vé Đổi Mảnh Ký Ức.\n\n►Các Mảnh Ký Ức nhận được sẽ được trao trực tiếp. Nếu bạn đạt giới hạn tối đa của Mảnh Ký Ức, chúng sẽ được gửi đến Hộp Thư.\n※Vui lòng kiểm tra trong hộp thoại đổi của mỗi vé để xem các nhân vật đủ điều kiện.\n\n■Về Vé Đổi Mảnh Ký Ức Thuần Khiết:\n►Đây là vé có thể đổi lấy 50 Mảnh Ký Ức Thuần Khiết của một nhân vật đủ điều kiện cho mỗi Vé Đổi Mảnh Ký Ức Thuần Khiết.\n\n►Các Mảnh Ký Ức Thuần Khiết nhận được sẽ được trao trực tiếp. Nếu bạn đạt giới hạn tối đa của Mảnh Ký Ức Thuần Khiết, chúng sẽ được gửi đến Hộp Thư.\n※Vui lòng kiểm tra trong hộp thoại đổi của mỗi vé để xem các nhân vật đủ điều kiện.
 
-r:"^([0-9.]+)th Anniv\. スペシャル交換チケットについて$"=About $1th Anniv. special exchange tickets
-r:"^([0-9.]+)th Anniv\. スペシャル交換チケットを所持していません。$"=Insufficient $1th Anniv. Special Exchange Ticket.
-r:"^([0-9.]+)th Anniv\. スペシャル交換チケット$"=$1th Anniv. Special Exchange Ticket
+r:"^([0-9.]+)th Anniv\. スペシャル交換チケットについて$"=Về vé đổi đặc biệt kỷ niệm $1
+r:"^([0-9.]+)th Anniv\. スペシャル交換チケットを所持していません。$"=Không đủ Vé Đổi Đặc Biệt Kỷ Niệm $1.
+r:"^([0-9.]+)th Anniv\. スペシャル交換チケット$"=Vé Đổi Đặc Biệt Kỷ Niệm $1
 
-r:"^([0-9.]+)th Year Anniversary スペシャル$"=$1th Anniversary Special
-r:"^([0-9.]+)周年 ピュアメモリーピース交換チケット$"=$1th Anniversary Pure Memory Shards Exchange Ticket
-マスタリーチケット=Mastery Ticket
-チケットガチャではキャラ交換Ptは獲得できません。=Chara Exchange Pt cannot be earned\nwith this Gacha Ticket .
-sr:"^(.+)\nを消費してガチャを1回引きます。よろしいですか\?$"=Use $1 to draw Gacha.\nIs this OK?
+r:"^([0-9.]+)th Year Anniversary スペシャル$"=Đặc Biệt Kỷ Niệm $1
+r:"^([0-9.]+)周年 ピュアメモリーピース交換チケット$"=Vé Đổi Mảnh Ký Ức Thuần Khiết Kỷ Niệm $1
+マスタリーチケット=Vé Thành Thạo
+チケットガチャではキャラ交換Ptは獲得できません。=Không thể kiếm được Điểm Trao Đổi Nhân vật\nvới Vé Gacha này.
+sr:"^(.+)\nを消費してガチャを1回引きます。よろしいですか\?$"=Dùng $1 để quay Gacha.\nTiếp tục?
 ---Guarantee 3---
-[3C404E]キャラ交換Ptが共通のガチャ[-]=[3C404E]Exchange Pt Chara Gacha[-]
-ピックアップキャラなし=No pickup character
+[3C404E]キャラ交換Ptが共通のガチャ[-]=[3C404E]Gacha Chara Đổi Điểm[-]
+ピックアップキャラなし=Không có nhân vật được chọn
 
-有償ジュエルが不足しています。=Insufficient paid jewels.
-ジュエルが不足しています。=Insufficient jewels.
-このガチャは有償ジュエルで引くことができます。=This gacha can only be drawn with Paid Jewels.
-[FFBB00,CE4F00]有償ジュエル限定\n限定★3確定ガチャ開催！[-]=[FFBB00,CE4F00]Guarantee ★3 Limited character\nGuaranteed Gacha[-]
-[FFBB00,CE4F00]有償ジュエル限定\n選べる★3確定プラチナガチャ開催！[-]=[FFBB00,CE4F00]Guarantee ★3 Limited character\nGuaranteed Gacha[-]
-
-
-[FFBB00,CE4F00]有償ジュエル限定\n第2弾 限定★3確定ガチャ開催！[-]=[FFBB00,CE4F00]Guarantee ★3 Limited character\nGuaranteed Gacha Part 2[-]
-[3C404E]10キャラ目は[FFBB00,CE4F00]限定★3キャラ確定！[-]=[3C404E]A [FFBB00,CE4F00]Limited ★3 character[-] is guaranteed with a 10x draw!
-
-[3C404E]10キャラ目は[FFBB00,CE4F00]選択した★3キャラ確定！[-]\n※選択したキャラはいつでも変更可能です[-]=[3C404E]A [FFBB00,CE4F00]Limited ★3 character[-] is guaranteed with a 10x draw!\n    ►Selected characters can be changed at any time.[-]
-
-[3C404E]10キャラ目は[FFBB00,CE4F00]★3キャラ確定！[-] マスターピース×１獲得可能！[-]=[3C404E]A [FFBB00,CE4F00]Limited ★3 character[-] is guaranteed with a 10x draw!\nMasterpiece x1 can be obtained!\n[-]
+有償ジュエルが不足しています。=Không đủ đá quý trả phí.
+ジュエルが不足しています。=Không đủ đá quý.
+このガチャは有償ジュエルで引くことができます。=Gacha này chỉ có thể quay bằng Đá Quý Trả Phí.
+[FFBB00,CE4F00]有償ジュエル限定\n限定★3確定ガチャ開催！[-]=[FFBB00,CE4F00]Đảm bảo nhân vật ★3 giới hạn\nGacha Đảm Bảo[-]
+[FFBB00,CE4F00]有償ジュエル限定\n選べる★3確定プラチナガチャ開催！[-]=[FFBB00,CE4F00]Đảm bảo nhân vật ★3 giới hạn\nGacha Đảm Bảo[-]
 
 
-[3C404E]10キャラ目は[FFBB00,CE4F00]火属性の★3キャラ確定！[-]=[3C404E]A [FFBB00,CE4F00]★3 Fire Character[-] is guaranteed with a 10x draw!
-[3C404E]10キャラ目は[FFBB00,CE4F00]水属性の★3キャラ確定！[-]=[3C404E]A [FFBB00,CE4F00]★3 Water Character[-] is guaranteed with a 10x draw!
-[3C404E]10キャラ目は[FFBB00,CE4F00]風属性の★3キャラ確定！[-]=[3C404E]A [FFBB00,CE4F00]★3 Wind Character[-] is guaranteed with a 10x draw!
-[3C404E]10キャラ目は[FFBB00,CE4F00]光属性の★3キャラ確定！[-]=[3C404E]A [FFBB00,CE4F00]★3 Light Character[-] is guaranteed with a 10x draw!
-[3C404E]10キャラ目は[FFBB00,CE4F00]闇属性の★3キャラ確定！[-]=[3C404E]A [FFBB00,CE4F00]★3 Dark Character[-] is guaranteed with a 10x draw!
+[FFBB00,CE4F00]有償ジュエル限定\n第2弾 限定★3確定ガチャ開催！[-]=[FFBB00,CE4F00]Đảm bảo nhân vật ★3 giới hạn\nGacha Đảm Bảo Phần 2[-]
+[3C404E]10キャラ目は[FFBB00,CE4F00]限定★3キャラ確定！[-]=[3C404E]Một [FFBB00,CE4F00]nhân vật ★3 giới hạn[-] được đảm bảo khi quay 10 lần!
+
+[3C404E]10キャラ目は[FFBB00,CE4F00]選択した★3キャラ確定！[-]\n※選択したキャラはいつでも変更可能です[-]=[3C404E]Một [FFBB00,CE4F00]nhân vật ★3 giới hạn[-] được đảm bảo khi quay 10 lần!\n    ►Các nhân vật đã chọn có thể thay đổi bất kỳ lúc nào.[-]
+
+[3C404E]10キャラ目は[FFBB00,CE4F00]★3キャラ確定！[-] マスターピース×１獲得可能！[-]=[3C404E]Một [FFBB00,CE4F00]nhân vật ★3 giới hạn[-] được đảm bảo khi quay 10 lần!\nCó thể nhận được Tác Phẩm Vĩ Đại x1!\n[-]
+
+
+[3C404E]10キャラ目は[FFBB00,CE4F00]火属性の★3キャラ確定！[-]=[3C404E]Một [FFBB00,CE4F00]nhân vật ★3 Hỏa[-] được đảm bảo khi quay 10 lần!
+[3C404E]10キャラ目は[FFBB00,CE4F00]水属性の★3キャラ確定！[-]=[3C404E]Một [FFBB00,CE4F00]nhân vật ★3 Thủy[-] được đảm bảo khi quay 10 lần!
+[3C404E]10キャラ目は[FFBB00,CE4F00]風属性の★3キャラ確定！[-]=[3C404E]Một [FFBB00,CE4F00]nhân vật ★3 Phong[-] được đảm bảo khi quay 10 lần!
+[3C404E]10キャラ目は[FFBB00,CE4F00]光属性の★3キャラ確定！[-]=[3C404E]Một [FFBB00,CE4F00]nhân vật ★3 Quang[-] được đảm bảo khi quay 10 lần!
+[3C404E]10キャラ目は[FFBB00,CE4F00]闇属性の★3キャラ確定！[-]=[3C404E]Một [FFBB00,CE4F00]nhân vật ★3 Ám[-] được đảm bảo khi quay 10 lần!
 
 
 
-[FFBB00,CE4F00]有償ジュエル限定\nクリスマス★3確定プラチナガチャ開催！[-]=[FFBB00,CE4F00]Paid Jewels Only\nLimited Christmas ★3 Guaranteed Platinum Gacha Now Underway![-]
-[3C404E]10キャラ目は[FFBB00,CE4F00]クリスマス★3キャラ確定！[-]=[3C404E]A [FFBB00,CE4F00]Limited ★3 Christmas Character[-] is guaranteed with a 10x draw!
-10キャラ目は[FFBB00,CE4F00]クリスマス★3キャラ確定！[-]=[3C404E]A [FFBB00,CE4F00]Limited ★3 Christmas Characters[-] is guaranteed with a 10x draw!
-[FFBB00,CE4F00]有償ジュエル限定\nハロウィン★3確定プラチナガチャ開催！[-]=[FFBB00,CE4F00]Paid Jewels Only\nLimited Halloween ★3 Guaranteed Platinum Gacha Now Underway![-]
-10キャラ目は[FFBB00,CE4F00]ハロウィン★3キャラ確定！=A [FFBB00,CE4F00]Limited ★3 Halloween Characters[-] is guaranteed with a 10x draw!
-[FFBB00,CE4F00]有償ジュエル限定\nニューイヤー★3確定プラチナガチャ開催！[-]=[FFBB00,CE4F00]Paid Jewels Only\nLimited New Year ★3 Guaranteed Platinum Gacha Now Underway![-]
-10キャラ目は[FFBB00,CE4F00]ニューイヤー★3キャラ確定！=A [FFBB00,CE4F00]Limited ★3 New Year Characters[-] is guaranteed with a 10x draw!
-期間限定特別スパイス=Limited-time special spice
+[FFBB00,CE4F00]有償ジュエル限定\nクリスマス★3確定プラチナガチャ開催！[-]=[FFBB00,CE4F00]Chỉ Dùng Đá Quý Trả Phí\nGacha Bạch Kim Đảm Bảo Nhân vật ★3 Giới Hạn Giáng Sinh Đang Diễn Ra![-]
+[3C404E]10キャラ目は[FFBB00,CE4F00]クリスマス★3キャラ確定！[-]=[3C404E]Một [FFBB00,CE4F00]nhân vật ★3 Giới Hạn Giáng Sinh[-] được đảm bảo khi quay 10 lần!
+10キャラ目は[FFBB00,CE4F00]クリスマス★3キャラ確定！[-]=[3C404E]Một [FFBB00,CE4F00]nhân vật ★3 Giới Hạn Giáng Sinh[-] được đảm bảo khi quay 10 lần!
+[FFBB00,CE4F00]有償ジュエル限定\nハロウィン★3確定プラチナガチャ開催！[-]=[FFBB00,CE4F00]Chỉ Dùng Đá Quý Trả Phí\nGacha Bạch Kim Đảm Bảo Nhân vật ★3 Giới Hạn Halloween Đang Diễn Ra![-]
+10キャラ目は[FFBB00,CE4F00]ハロウィン★3キャラ確定！=Một [FFBB00,CE4F00]nhân vật ★3 Giới Hạn Halloween[-] được đảm bảo khi quay 10 lần!
+[FFBB00,CE4F00]有償ジュエル限定\nニューイヤー★3確定プラチナガチャ開催！[-]=[FFBB00,CE4F00]Chỉ Dùng Đá Quý Trả Phí\nGacha Bạch Kim Đảm Bảo Nhân vật ★3 Giới Hạn Năm Mới Đang Diễn Ra![-]
+10キャラ目は[FFBB00,CE4F00]ニューイヤー★3キャラ確定！=Một [FFBB00,CE4F00]nhân vật ★3 Giới Hạn Năm Mới[-] được đảm bảo khi quay 10 lần!
+期間限定特別スパイス=Gia vị đặc biệt giới hạn thời gian
 
-[FFBB00,CE4F00]有償ジュエル限定\n★3確定プラチナガチャ開催！[-]=[FFBB00,CE4F00]Paid Jewels Only\nGuarantee ★3 Paid Jewel Premium Gacha! [-]
-[FFBB00,CE4F00]有償ジュエル限定\n10キャラ目は選択した★3キャラ確定！[-]=[FFBB00,CE4F00]Paid Jewels Only\nLimited ★3 character is guaranteed with a 10x draw![-]
-有償ジュエルを消費してガチャを 10 回引きます。\nよろしいですか？=Consume Paid Jewels and draw 10 times.\nIs this OK?
-有償ジュエルを消費してガチャを 1 回引きます。\nよろしいですか？=Consume Paid Jewels and draw 1 times.\nIs this OK?
-※選択したキャラはいつでも変更可能です=※Selected characters can be changed at any time
+[FFBB00,CE4F00]有償ジュエル限定\n★3確定プラチナガチャ開催！[-]=[FFBB00,CE4F00]Chỉ Dùng Đá Quý Trả Phí\nĐảm bảo ★3 Gacha Cao Cấp Đá Quý Trả Phí! [-]
+[FFBB00,CE4F00]有償ジュエル限定\n10キャラ目は選択した★3キャラ確定！[-]=[FFBB00,CE4F00]Chỉ Dùng Đá Quý Trả Phí\nNhân vật ★3 giới hạn được đảm bảo khi quay 10 lần![-]
+有償ジュエルを消費してガチャを 10 回引きます。\nよろしいですか？=Tiêu hao Đá Quý Trả Phí và quay 10 lần.\nTiếp tục?
+有償ジュエルを消費してガチャを 1 回引きます。\nよろしいですか？=Tiêu hao Đá Quý Trả Phí và quay 1 lần.\nTiếp tục?
+※選択したキャラはいつでも変更可能です=※Các nhân vật đã chọn có thể thay đổi bất kỳ lúc nào
 
 ---Special Tickets use---
-スペシャル キャラ交換ガチャセット=Special Chara Exchange
-GW SPキャラ交換ガチャセット=Golden Week SP Chara Exchange Gacha Set
-r:"^([0-9.]+)th Anniv. SPキャラ交換ガチャセット$"=$1th Anniv. Special Chara Exchange
-年末年始 SPキャラ交換ガチャセット=New Year's holiday SP Special Chara Exchange
-限定＋=Limited+
-クランバトル同窓会=Clan Battle Class reunion
+スペシャル キャラ交換ガチャセット=Trao Đổi Nhân vật Đặc Biệt
+GW SPキャラ交換ガチャセット=Bộ Gacha Trao Đổi Nhân vật SP Golden Week
+r:"^([0-9.]+)th Anniv. SPキャラ交換ガチャセット$"=Trao Đổi Đặc Biệt Kỷ Niệm $1
+年末年始 SPキャラ交換ガチャセット=Trao Đổi Đặc Biệt SP Nghỉ Lễ Tết Nguyên Đán
+限定＋=Giới Hạn+
+クランバトル同窓会=Tái ngộ Chiến Đấu Clan
 
-選択可能キャラ一覧=Select a character
-キャラ一覧から仲間にしたいキャラを選択してください。=Choose the character you want.
-未解放=Locked
-解放済み=Unlocked
-限定キャラ=Limited
-スペシャル キャラ交換ガチャセットについて=About Special Chara Exchange
-[3C404E]外部ブラウザを開きますがよろしいですか？[-]=[3C404E]Are you sure you want to open an external browser?[-]
-交換可能=Purchased
-交換する=Exchange
-スペシャル交換チケット=Special Exchange Ticket
-チケットガチャ=Ticket Gacha
-所持チケット=Tickets Owned
-使用期限=Expiry:
+選択可能キャラ一覧=Chọn một nhân vật
+キャラ一覧から仲間にしたいキャラを選択してください。=Chọn nhân vật bạn muốn.
+未解放=Đã khóa
+解放済み=Đã mở khóa
+限定キャラ=Giới hạn
+スペシャル キャラ交換ガチャセットについて=Về Trao Đổi Nhân Vật Đặc Biệt
+[3C404E]外部ブラウザを開きますがよろしいですか？[-]=[3C404E]Bạn có chắc muốn mở trình duyệt bên ngoài không?[-]
+交換可能=Đã mua
+交換する=Trao đổi
+スペシャル交換チケット=Vé Trao Đổi Đặc Biệt
+チケットガチャ=Gacha Vé
+所持チケット=Số Vé Đang Có
+使用期限=Hết hạn:
 ---first time in gacha---
-未解放キャラを仲間にした場合、ガチャ演出前に\n「ダウンロード中」表示ができます。=If you recruit a character for the first time, you will see "Downloading" before the gacha animation.
-ガチャ設定=Gacha Settings
+未解放キャラを仲間にした場合、ガチャ演出前に\n「ダウンロード中」表示ができます。=Nếu bạn tuyển dụng một nhân vật lần đầu, bạn sẽ thấy "Đang tải xuống" trước hoạt ảnh gacha.
+ガチャ設定=Cài Đặt Gacha
 ---Start Dash Gacha---
 
-[3C404E]スタートダッシュガチャ開催！[-]=[3C404E]Start Dash Gacha is Available![-]
-[3C404E]ゲーム開始から７日間限定！[-]=[3C404E]Only available for 7 days from when you start the game![-]
-・ピックアップキャラなし=►No pickup character
-プリンセスフェス=Princess Festival
-スタートダッシュガチャ=Start Dash Gacha
-選べるプライズガチャ=Choose prize gacha
+[3C404E]スタートダッシュガチャ開催！[-]=[3C404E]Gacha Start Dash đã có sẵn![-]
+[3C404E]ゲーム開始から７日間限定！[-]=[3C404E]Chỉ có sẵn trong 7 ngày kể từ khi bạn bắt đầu chơi![-]
+・ピックアップキャラなし=►Không có nhân vật được chọn
+プリンセスフェス=Lễ Hội Công Chúa
+スタートダッシュガチャ=Gacha Start Dash
+選べるプライズガチャ=Chọn gacha giải thưởng
 
-選択のピックアップキャラがプライズと一致していません。=The selected rate-up\ndoes not match with the selected prize.
+選択のピックアップキャラがプライズと一致していません。=Tỷ lệ tăng đã chọn\nkhông khớp với giải thưởng đã chọn.
 ---SP FES---
-スペシャルフェスガチャ=SpFES Gacha
-[3C404E]キャラ交換Ptが共通のガチャ[-]=[3C404E]Exchange Pt Chara Gacha[-]
-SPフェスキャラ交換Ptが共通のガチャ=Exchange Pt Sp FES Chara Gacha
-SPフェスキャラ交換Ptの説明=SpFES Chara Exchange Pt description
-所持SPフェスキャラ交換Pt=SpFES Char. Exchange Pts
-SPフェスキャラ交換Ptリセット=SpFES Char. Exchange Pt Reset
-SPフェスキャラ交換Ptが不足しています。=Insufficient SpFES Chara Exchange Pt.
-r:"^(\[[0-9A-F,]{6,13}\])終了まであと([0-9: ]+)\[-\]$"=$1End in: $2[-]
+スペシャルフェスガチャ=Gacha SpFES
+[3C404E]キャラ交換Ptが共通のガチャ[-]=[3C404E]Gacha Chara Đổi Điểm[-]
+SPフェスキャラ交換Ptが共通のガチャ=Gacha Sp FES Chara Đổi Điểm
+SPフェスキャラ交換Ptの説明=Mô tả Điểm Trao Đổi SpFES Chara
+所持SPフェスキャラ交換Pt=Điểm Trao Đổi SpFES Char.
+SPフェスキャラ交換Ptリセット=Đặt lại Điểm Trao Đổi SpFES Char.
+SPフェスキャラ交換Ptが不足しています。=Không đủ Điểm Trao Đổi SpFES Chara.
+r:"^(\[[0-9A-F,]{6,13}\])終了まであと([0-9: ]+)\[-\]$"=$1Kết thúc trong: $2[-]
 
 
-有償ジュエルで=Use Paid Jewels
-スペシャルフェス=Special Festival
-sr:"^\[FFBB00\,CE4F00\]★3キャラ出現率2倍\n限定「([べ-ヺー＆＝]+)(（.+）)?」出現率UP！\[-\]$"=[FFBB00,CE4F00]Boosted rates for the Limited ★3\n「$1$2」![-]
+有償ジュエルで=Sử dụng Ngọc Trả Phí
+スペシャルフェス=Lễ Hội Đặc Biệt
+sr:"^\[FFBB00\,CE4F00\]★3キャラ出現率2倍\n限定「([べ-ヺー＆＝]+)(（.+）)?」出現率UP！\[-\]$"=[FFBB00,CE4F00]Tỷ lệ tăng cho ★3 giới hạn\n「$1$2」![-]
 
 
-sr:"^(.{2,12}ガチャ)「(\d+)回引く」$"="$1 "Draw $2 Times"."
+sr:"^(.{2,12}ガチャ)「(\d+)回引く」$"="$1 "Rút $2 Lần"."
 
 
-選択キャラ確認=Confirm Selected Character
+選択キャラ確認=Xác Nhận Nhân Vật Đã Chọn
 
-解放済みのキャラを選択していますがよろしいですか。=You have selected a chara that has already been unlocked.
+解放済みのキャラを選択していますがよろしいですか。=Bạn đã chọn một chara đã được mở khóa.
 
-選択した内容で確定しますか？\n※選択したキャラはいつでも変更可能です。=Would you like to confirm your selection?\n※You can change the character you select at any time.
-
-
-メモリーピース、マスターピースが獲得できる場合、直接付与されます。ただし、獲得したメモリーピース、マスターピースが所持上限に達している場合、プレゼントボックスに贈られます。=When Memory Shards and Masterpieces can be acquired, they will be directly granted. However, if the acquired Memory Shards and Masterpieces reach the possession limit, they will be sent to the present box.
-キャラ交換の有効期間、内容は予告なく変更する場合があります。=The duration and content of the Chara Exchange may be changed without notice.
-「有効期間」内にキャラ交換Ptを200Pt以上保持したまま「有効期間」が終了した場合も、キャラ交換Ptは\n「0Pt」にリセットされてPt数と同枚数の\n「スキップチケット」に変換されるため、キャラを仲間にすることはできません。=Even if you have 200 or more Chara Exchange Points (Pt) within the "validity period" and the period ends, the Chara Exchange Points will be reset to "0 Pt." They will be converted into an equal number of "Skip Tickets," so it will not be possible to recruit characters at that point.
-キャラ交換Ptを「200Pt」以上所持している場合、\nキャラ交換Ptを使用してキャラを仲間にするか、すでに仲間にしているキャラを選択して「女神の秘石」を獲得するまで、キャラ交換Ptが共通のガチャを利用できません。\n・チュートリアル中に引くガチャでは、キャラ交換Ptを獲得できません。=If you possess "200 Pt" or more in Chara Exchange Points, you cannot use the shared gacha for Chara Exchange Points until you either recruit a character using the points or select an already recruited character to obtain "Goddess Jewels." \n・During the tutorial, you cannot acquire Chara Exchange Points from the gacha.
-アイテム:=Item:
-[FF7C4E,D62146]すでに仲間になったキャラは女神の秘石に変換されます。\n獲得アイテムは直接付与されます。[-]=[FF7C4E,D62146]Duplicate characters will be converted to Divine Amulets.\n The acquired item will be directly obtained. [-]
-マスターピース=Masterpiece
-獲得済み=Get
-対象キャラ=Character
+選択した内容で確定しますか？\n※選択したキャラはいつでも変更可能です。=Bạn có muốn xác nhận lựa chọn không?\n※Bạn có thể thay đổi nhân vật bạn chọn bất kỳ lúc nào.
 
 
-ピース交換チケットについて=Regarding Shard Exchange Tickets
+メモリーピース、マスターピースが獲得できる場合、直接付与されます。ただし、獲得したメモリーピース、マスターピースが所持上限に達している場合、プレゼントボックスに贈られます。=Khi Mảnh Ký Ức và Tác Phẩm Đỉnh Cao có thể nhận được, chúng sẽ được trao trực tiếp. Tuy nhiên, nếu số Mảnh Ký Ức và Tác Phẩm Đỉnh Cao nhận được vượt quá giới hạn sở hữu, chúng sẽ được gửi đến hộp quà.
+キャラ交換の有効期間、内容は予告なく変更する場合があります。=Thời hạn và nội dung của Trao Đổi Nhân Vật có thể được thay đổi mà không cần thông báo trước.
+「有効期間」内にキャラ交換Ptを200Pt以上保持したまま「有効期間」が終了した場合も、キャラ交換Ptは\n「0Pt」にリセットされてPt数と同枚数の\n「スキップチケット」に変換されるため、キャラを仲間にすることはできません。=Ngay cả khi bạn có 200 Điểm Trao Đổi Nhân Vật (Pt) trở lên trong "thời hạn hiệu lực" và thời hạn kết thúc, Điểm Trao Đổi Nhân Vật sẽ được đặt lại thành "0 Pt." Chúng sẽ được chuyển đổi thành số "Vé Bỏ Qua" tương đương, do đó sẽ không thể tuyển dụng nhân vật tại thời điểm đó.
+キャラ交換Ptを「200Pt」以上所持している場合、\nキャラ交換Ptを使用してキャラを仲間にするか、すでに仲間にしているキャラを選択して「女神の秘石」を獲得するまで、キャラ交換Ptが共通のガチャを利用できません。\n・チュートリアル中に引くガチャでは、キャラ交換Ptを獲得できません。=Nếu bạn sở hữu "200 Pt" trở lên trong Điểm Trao Đổi Nhân Vật, bạn không thể sử dụng gacha chung cho Điểm Trao Đổi Nhân Vật cho đến khi bạn tuyển dụng một nhân vật bằng điểm hoặc chọn một nhân vật đã được tuyển dụng để nhận "Ngọc Thần." \n・Trong phần hướng dẫn, bạn không thể nhận Điểm Trao Đổi Nhân Vật từ gacha.
+アイテム:=Vật phẩm:
+[FF7C4E,D62146]すでに仲間になったキャラは女神の秘石に変換されます。\n獲得アイテムは直接付与されます。[-]=[FF7C4E,D62146]Nhân vật trùng lặp sẽ được chuyển thành Phù Thủy Thiêng.\n Vật phẩm nhận được sẽ được có trực tiếp. [-]
+マスターピース=Tác Phẩm Đỉnh Cao
+獲得済み=Nhận
+対象キャラ=Nhân vật
 
 
-[FFBB00,CE4F00]有償ジュエル限定\n黎明界ラビリンス追加ギルド★3確定プラチナガチャ開催！[-]=[FFBB00,CE4F00]Paid jewel-only New Guild in Dawn Realm Labyrinth ★3 guaranteed platinum gacha now available![-]
-10キャラ目は[FFBB00,CE4F00]黎明界ラビリンス追加ギルド★3キャラ確定！=A [FFBB00,CE4F00]★3 character Dawn Realm Labyrinth[-] is guaranteed with a 10x draw!
-
-ラビリンス追加ギルド★3確定プラチナガチャ=Dawn Realm Labyrinth ★3 guaranteed platinum gacha
+ピース交換チケットについて=Về Vé Trao Đổi Mảnh
 
 
-EX★5武器交換チケット=EX★5 Weapon Exchange Ticket
-交換チケットについて=About the exchange tickets
-交換チケットは、\nガチャTOPにある「チケット」ボタン内か、\nアイテム一覧から使用することができます。=Exchange tickets can be used from the "Ticket" button on the Gacha TOP page or from the item list.
+[FFBB00,CE4F00]有償ジュエル限定\n黎明界ラビリンス追加ギルド★3確定プラチナガチャ開催！[-]=[FFBB00,CE4F00]Gacha bạch kim ★3 đảm bảo "Guild Mới" chỉ dùng Ngọc Trả Phí trong Labyrinth Vương Quốc Bình Minh đã có sẵn![-]
+10キャラ目は[FFBB00,CE4F00]黎明界ラビリンス追加ギルド★3キャラ確定！=Một [FFBB00,CE4F00]★3 nhân vật Labyrinth Vương Quốc Bình Minh[-] được đảm bảo với 10 lần rút!
+
+ラビリンス追加ギルド★3確定プラチナガチャ=Gacha bạch kim ★3 đảm bảo Labyrinth Vương Quốc Bình Minh
 
 
-[FF7C4E,D62146]スペシャル交換チケット（限定＋）と\n10回ガチャチケットは直接付与されます。[-]=[FF7C4E,D62146]Special exchange ticket (limited +) and\n10x gacha ticket will be given directly.[-]
-r:"^交換期間:([0-9 /:]+)まで$"=Exchange period: $1
+EX★5武器交換チケット=Vé Trao Đổi Vũ Khí EX★5
+交換チケットについて=Về vé đổi
+交換チケットは、\nガチャTOPにある「チケット」ボタン内か、\nアイテム一覧から使用することができます。=Vé đổi có thể được sử dụng từ nút "Vé" trên trang Gacha TOP hoặc từ danh sách vật phẩm.
 
 
-
-新春記念 スペシャルキャラ交換ガチャセット=New Year's Anniversary Special Character Exchange Gacha Set
-
-スタートダッシュキャラ交換チケット=Start Dash Chara Exchange Ticket
-交換キャラ選択=Select Exchange Character
-
-キャラ交換チケットについて=About Chara Exchange Tickets
-スペシャル交換チケット、キャラ交換チケットについて=Special Exchange Tickets, Chara Exchange Tickets
-
-交換チケットは、\nガチャTOPにある「チケット」ボタン内、\n限定ミッションの「チケット使用」ボタン内から\n使用することができます。=Exchange Tickets can be used\nvia the "Tickets" button on the Gacha Top screen\nor the "Use Ticket" button in Limited Missions.
-
-
-・★3確定 ガチャチケット1枚につき特定の★3キャラが1キャラ獲得できるチケットです。\n・ビギナー＆カムバックガチャチケットパックで獲得したチケットは1枚につき特定の属性の★3キャラが1キャラ獲得できるチケットです。\n・カムバック10連ガチャチケット、カムバック10連SPガチャチケットは1枚につき特定のキャラが10キャラ獲得できるチケットです。\n※10キャラのうち1キャラは必ず★3キャラが獲得できます。\n・出現するキャラにつきましては各チケットの［提供割合］ボタンよりご確認ください。\n・特殊なガチャチケットではキャラ交換Ptを獲得できません。\n・すでに仲間になったキャラが出現した場合、「女神の秘石」に変換されます。\n・変換された女神の秘石は、プレゼントボックスに贈られずに、直接所持数に加算されます。\n・女神の秘石の所持数が上限に達している場合、プレゼントボックスに贈られます。\n・ガチャは1回ごとに提供割合にもとづいて抽選を行います。そのため、提供割合が1％のキャラが、100回中1回必ず出現するわけではありません。=・★3 Guaranteed Gacha Ticket: Each ticket guarantees one specific ★3 character.\n►Beginner & Comeback Gacha Ticket Pack Tickets: Each ticket grants one ★3 character of a specific attribute.\n►Comeback 10-Pull Gacha Ticket/SP Ticket: Each ticket grants 10 characters from a specific pool.\n※Includes at least one ★3 character per 10-pull.\n►Check each ticket's [Appearance Rates] button for available characters.\n►Special gacha tickets do not grant Chara Exchange Points.\n►Duplicate characters convert into Divine Amulets.\n►Divine Amulets are added directly to your inventory.\n►Excess Divine Amulets go to your Present Box if inventory is full.\n►Each pull has independent probability based on appearance rates.\nAppearance rates do not guarantee a 1% character will appear within 100 pulls.
-
-・交換対象のキャラを1枚につき1キャラ交換できるチケットになります。\n・すでに、仲間にしているキャラを交換した場合は、女神の秘石×50に変換されます。\n※変換された女神の秘石は、プレゼントボックスに贈られずに、直接所持数に加算されます。\n※女神の秘石の所持数が上限に達している場合、プレゼントボックスに贈られます。\n・交換した際、交換したキャラのメモリーピース×200を獲得することができます。\n※2022/02/25 15:00以前に購入したスペシャル交換チケットでは、交換したキャラのメモリーピース×100を獲得することができます。\n・獲得したメモリーピースは直接付与されます。\n※メモリーピースの所持数が上限に達している場合、プレゼントボックスに贈られます。\n・一部キャラは交換対象外になります。\n※交換対象のキャラは、各チケットの「選択可能キャラ一覧」をご確認ください。\n※スペシャル交換チケットを期限内に使用していない場合は、表示された画面にてキャラ交換を行うまで、ゲームをプレイできません。\n・交換対象のキャラは、各チケット提供開始時点の内容から変更・更新されません。=・Each ticket allows exchanging for one selectable character.\n►Exchanging for an owned character yields Divine Amulets x50.\n※Divine Amulets are added directly to your inventory.\n※Excess goes to Present Box if inventory is full.\n►You'll receive Memory Shards x200 for the exchanged character.\n※Special Exchange Tickets purchased before 2/25/2022 15:00 (UTC) grant Memory Shards x100.\n►Memory Shards are granted directly.\n※Excess goes to Present Box if inventory is full.\n►Some characters are unavailable for exchange.\n※Check "Selectable Characters" list for each ticket.\n※You must use Special Exchange Tickets before expiration, or you'll be unable to play until exchanging.\n►Exchangeable characters are fixed at ticket release and won't update.
-
-
-■特定のキャラのメモリーピース交換チケット、プリンセスフェス限定メモリーピース交換チケット2023、限定メモリーピース交換チケット2023、メモリーピース交換チケット2023について\n・交換対象のキャラのメモリーピース交換チケット1枚につき1キャラのメモリーピース×100と交換できるチケットです。\n・獲得したメモリーピースは直接付与されます。メモリーピースの所持数が上限に達している場合、プレゼントボックスに贈られます。\n※交換対象のキャラは、各チケットの交換ダイアログ内をご確認ください。\n\n■その他のメモリーピース交換チケットについて\n・交換対象のキャラのメモリーピース交換チケット1枚につき1キャラのメモリーピース×50と交換できるチケットです。\n・獲得したメモリーピースは直接付与されます。メモリーピースの所持数が上限に達している場合、プレゼントボックスに贈られます。\n※交換対象のキャラは、各チケットの交換ダイアログ内をご確認ください。\n\n■ピュアメモリーピース交換チケットについて\n・交換対象のキャラのピュアメモリーピース交換チケット1枚につき1キャラのピュアメモリーピース×50と交換できるチケットです。\n・獲得したピュアメモリーピースは直接付与されます。ピュアメモリーピースの所持数が上限に達している場合、プレゼントボックスに贈られます。\n※交換対象のキャラは、各チケットの交換ダイアログ内をご確認ください。\n\n■EX★5装備交換チケットについて\n・1枚につき交換対象のEX★5装備1つと交換できるチケットです。\n・獲得したEX★5装備は直接付与されます。EX装備の所持数が上限に達している場合、プレゼントボックスに贈られます。\n※交換対象のEX★5装備は、各チケットの交換ダイアログ内をご確認ください。=■Specific Character Memory Shard Exchange Tickets/Princess Fes Limited 2023/Limited 2023/Memory Shard Exchange Tickets 2023:\n►Each ticket exchanges for Memory Shards x100 of one selectable character.\n►Memory Shards are granted directly. Excess goes to Present Box if inventory is full.\n※Check exchange dialog for available characters.\n\n\n■Other Memory Shard Exchange Tickets:\n►Each ticket exchanges for Memory Shards x50 of one selectable character.\n►Memory Shards are granted directly. Excess goes to Present Box if inventory is full.\n※Check exchange dialog for available characters.\n\n\n■Pure Memory Shard Exchange Tickets:\n►Each ticket exchanges for Pure Memory Shards x50 of one selectable character.\n►Pure Memory Shards are granted directly. Excess goes to Present Box if inventory is full.\n※Check exchange dialog for available characters.■EX★5 Equipment Exchange Tickets:\n►Each ticket exchanges for one selectable EX★5 equipment.\n►Equipment is granted directly. Excess goes to Present Box if inventory is full.\n※Check exchange dialog for available equipment.
-特殊なガチャチケットについて=About the special gacha tickets
+[FF7C4E,D62146]スペシャル交換チケット（限定＋）と\n10回ガチャチケットは直接付与されます。[-]=[FF7C4E,D62146]Vé đổi đặc biệt (hạn giới +) và\nvé gacha 10 lần sẽ được trao trực tiếp.[-]
+r:"^交換期間:([0-9 /:]+)まで$"=Thời gian đổi: $1
 
 
 
+新春記念 スペシャルキャラ交換ガチャセット=Bộ Gacha Đổi Nhân Vật Đặc Biệt Kỷ Niệm Năm Mới
+
+スタートダッシュキャラ交換チケット=Vé Đổi Nhân Vật Start Dash
+交換キャラ選択=Chọn Nhân Vật Đổi
+
+キャラ交換チケットについて=Về Vé Đổi Nhân Vật
+スペシャル交換チケット、キャラ交換チケットについて=Vé Đổi Đặc Biệt, Vé Đổi Nhân Vật
+
+交換チケットは、\nガチャTOPにある「チケット」ボタン内、\n限定ミッションの「チケット使用」ボタン内から\n使用することができます。=Vé Đổi có thể được sử dụng\nqua nút "Vé" trên màn hình Gacha Top\nhoặc nút "Sử dụng Vé" trong Nhiệm Vụ Hạn Giới.
+
+
+・★3確定 ガチャチケット1枚につき特定の★3キャラが1キャラ獲得できるチケットです。\n・ビギナー＆カムバックガチャチケットパックで獲得したチケットは1枚につき特定の属性の★3キャラが1キャラ獲得できるチケットです。\n・カムバック10連ガチャチケット、カムバック10連SPガチャチケットは1枚につき特定のキャラが10キャラ獲得できるチケットです。\n※10キャラのうち1キャラは必ず★3キャラが獲得できます。\n・出現するキャラにつきましては各チケットの［提供割合］ボタンよりご確認ください。\n・特殊なガチャチケットではキャラ交換Ptを獲得できません。\n・すでに仲間になったキャラが出現した場合、「女神の秘石」に変換されます。\n・変換された女神の秘石は、プレゼントボックスに贈られずに、直接所持数に加算されます。\n・女神の秘石の所持数が上限に達している場合、プレゼントボックスに贈られます。\n・ガチャは1回ごとに提供割合にもとづいて抽選を行います。そのため、提供割合が1％のキャラが、100回中1回必ず出現するわけではありません。=・Vé Gacha ★3 Đảm Bảo: Mỗi vé đảm bảo một nhân vật ★3 cụ thể.\n►Vé từ Gói Vé Gacha Tân Thủ & Tái Xuất: Mỗi vé trao một nhân vật ★3 thuộc thuộc tính cụ thể.\n►Vé Gacha 10 Lần Tái Xuất/ Vé SP: Mỗi vé trao 10 nhân vật từ một pool cụ thể.\n※Bao gồm ít nhất một nhân vật ★3 mỗi lần 10 lần.\n►Nhấn nút [Tỷ Lệ Xuất Hiện] của mỗi vé để xem nhân vật có sẵn.\n►Vé gacha đặc biệt không cấp Điểm Đổi Nhân Vật.\n►Nhân vật trùng lặp sẽ chuyển thành Pháp Khí Thiêng.\n►Pháp Khí Thiêng được thêm trực tiếp vào kho đồ.\n►Pháp Khí Thiêng dư sẽ chuyển đến Hộp Quà nếu kho đầy.\n►Mỗi lần quay có xác suất độc lập dựa trên tỷ lệ xuất hiện.\nTỷ lệ xuất hiện không đảm bảo nhân vật 1% sẽ xuất hiện sau 100 lần.
+
+・交換対象のキャラを1枚につき1キャラ交換できるチケットになります。\n・すでに、仲間にしているキャラを交換した場合は、女神の秘石×50に変換されます。\n※変換された女神の秘石は、プレゼントボックスに贈られずに、直接所持数に加算されます。\n※女神の秘石の所持数が上限に達している場合、プレゼントボックスに贈られます。\n・交換した際、交換したキャラのメモリーピース×200を獲得することができます。\n※2022/02/25 15:00以前に購入したスペシャル交換チケットでは、交換したキャラのメモリーピース×100を獲得することができます。\n・獲得したメモリーピースは直接付与されます。\n※メモリーピースの所持数が上限に達している場合、プレゼントボックスに贈られます。\n・一部キャラは交換対象外になります。\n※交換対象のキャラは、各チケットの「選択可能キャラ一覧」をご確認ください。\n※スペシャル交換チケットを期限内に使用していない場合は、表示された画面にてキャラ交換を行うまで、ゲームをプレイできません。\n・交換対象のキャラは、各チケット提供開始時点の内容から変更・更新されません。=・Mỗi vé cho phép đổi lấy một nhân vật có thể chọn.\n►Đổi lấy nhân vật đã sở hữu sẽ nhận được Pháp Khí Thiêng x50.\n※Pháp Khí Thiêng được thêm trực tiếp vào kho đồ.\n※Dư sẽ chuyển đến Hộp Quà nếu kho đầy.\n►Bạn sẽ nhận được Mảnh Ký Ức x200 cho nhân vật đã đổi.\n※Vé Đổi Đặc Biệt mua trước 15:00 (UTC) ngày 25/02/2022 trao Mảnh Ký Ức x100.\n►Mảnh Ký Ức được trao trực tiếp.\n※Dư sẽ chuyển đến Hộp Quà nếu kho đầy.\n►Một số nhân vật không có sẵn để đổi.\n※Kiểm tra danh sách "Nhân Vật Có Thể Chọn" của mỗi vé.\n※Bạn phải sử dụng Vé Đổi Đặc Biệt trước khi hết hạn, nếu không sẽ không thể chơi cho đến khi đổi.\n►Nhân vật có thể đổi được cố định khi vé phát hành và không cập nhật.
+
+
+■特定のキャラのメモリーピース交換チケット、プリンセスフェス限定メモリーピース交換チケット2023、限定メモリーピース交換チケット2023、メモリーピース交換チケット2023について\n・交換対象のキャラのメモリーピース交換チケット1枚につき1キャラのメモリーピース×100と交換できるチケットです。\n・獲得したメモリーピースは直接付与されます。メモリーピースの所持数が上限に達している場合、プレゼントボックスに贈られます。\n※交換対象のキャラは、各チケットの交換ダイアログ内をご確認ください。\n\n■その他のメモリーピース交換チケットについて\n・交換対象のキャラのメモリーピース交換チケット1枚につき1キャラのメモリーピース×50と交換できるチケットです。\n・獲得したメモリーピースは直接付与されます。メモリーピースの所持数が上限に達している場合、プレゼントボックスに贈られます。\n※交換対象のキャラは、各チケットの交換ダイアログ内をご確認ください。\n\n■ピュアメモリーピース交換チケットについて\n・交換対象のキャラのピュアメモリーピース交換チケット1枚につき1キャラのピュアメモリーピース×50と交換できるチケットです。\n・獲得したピュアメモリーピースは直接付与されます。ピュアメモリーピースの所持数が上限に達している場合、プレゼントボックスに贈られます。\n※交換対象のキャラは、各チケットの交換ダイアログ内をご確認ください。\n\n■EX★5装備交換チケットについて\n・1枚につき交換対象のEX★5装備1つと交換できるチケットです。\n・獲得したEX★5装備は直接付与されます。EX装備の所持数が上限に達している場合、プレゼントボックスに贈られます。\n※交換対象のEX★5装備は、各チケットの交換ダイアログ内をご確認ください。=■Vé Đổi Mảnh Ký Ức Nhân Vật Cụ thể / Princess Fes Limited 2023 / Limited 2023 / Vé Đổi Mảnh Ký Ức 2023:\n►Mỗi vé đổi lấy Mảnh Ký Ức x100 của một nhân vật có thể chọn.\n►Mảnh Ký Ức được trao trực tiếp. Dư sẽ chuyển đến Hộp Quà nếu kho đầy.\n※Kiểm tra hộp thoại đổi để xem nhân vật có sẵn.\n\n\n■Các Vé Đổi Mảnh Ký Ức Khác:\n►Mỗi vé đổi lấy Mảnh Ký Ức x50 của một nhân vật có thể chọn.\n►Mảnh Ký Ức được trao trực tiếp. Dư sẽ chuyển đến Hộp Quà nếu kho đầy.\n※Kiểm tra hộp thoại đổi để xem nhân vật có sẵn.\n\n\n■Vé Đổi Mảnh Ký Ức Thuần Khiết:\n►Mỗi vé đổi lấy Mảnh Ký Ức Thuần Khiết x50 của một nhân vật có thể chọn.\n►Mảnh Ký Ức Thuần Khiết được trao trực tiếp. Dư sẽ chuyển đến Hộp Quà nếu kho đầy.\n※Kiểm tra hộp thoại đổi để xem nhân vật có sẵn.■Vé Đổi Trang Bị EX★5:\n►Mỗi vé đổi lấy một trang bị EX★5 có thể chọn.\n►Trang bị được trao trực tiếp. Dư sẽ chuyển đến Hộp Quà nếu kho đầy.\n※Kiểm tra hộp thoại đổi để xem trang bị có sẵn.
+特殊なガチャチケットについて=Về vé gacha đặc biệt
 
 
 
 
 
 
-・★3確定 ガチャチケット1枚につき特定の★3キャラが1キャラ獲得できるチケットです。\n・ビギナー＆カムバックガチャチケットパックで獲得したチケットは1枚につき特定の属性の★3キャラが1キャラ獲得できるチケットです。\n・カムバック10連ガチャチケット、カムバック10連SPガチャチケットは1枚につき特定のキャラが10キャラ獲得できるチケットです。\n※10キャラのうち1キャラは必ず★3キャラが獲得できます。\n・使用期限を過ぎたチケットは消滅します。\n・出現するキャラにつきましては各チケットの［提供割合］ボタンよりご確認ください。\n・特殊なガチャチケットではキャラ交換Ptを獲得できません。\n・すでに仲間になったキャラが出現した場合、「女神の秘石」に変換されます。\n・変換された女神の秘石は、プレゼントボックスに贈られずに、直接所持数に加算されます。\n・女神の秘石の所持数が上限に達している場合、プレゼントボックスに贈られます。\n・ガチャは1回ごとに提供割合にもとづいて抽選を行います。そのため、提供割合が1％のキャラが、100回中1回必ず出現するわけではありません。=►Each 3★ Guaranteed Gacha Ticket entitles you to one specific 3★ character. \n►Tickets obtained from the Beginner & Comeback Gacha Ticket Pack entitle you to one 3★ character of a specific attribute. \n►The Comeback 10-Pack Gacha Ticket and Comeback SP 10-Pack Gacha Ticket entitle you to ten specific characters. \n*One of the 10 characters is guaranteed to be a 3★ character. \n►Tickets that have expired will expire. \n►Please check the characters that will appear by clicking the [Offer Rate] button on each ticket. \n►Special Gacha Tickets do not grant you Chara Exchange Points. \n►If a character you've already recruited appears, it will be converted into a "Divine Amulets." \n►The converted Divine Amulets will be added directly to your inventory, not sent to your gift box. \n►If you have reached your limit of Divine Amuletss, they will be sent to your gift box. \n►A lottery is held for each gacha based on the offer rate. Therefore, a character with a 1% availability rate will not necessarily appear once in 100 times.
 
-[FFBB00,CE4F00]有償ジュエル限定\n10回目ピックアップキャラ出現率3倍ガチャ開催！[-]=[FFBB00,CE4F00]Paid jewels only\n10th gacha with 3x the chance of featured characters appearing![-]
-[3C404E]10キャラ目は[FFBB00,CE4F00]ピックアップキャラの出現率3倍！=[3C404E]10th character has a [FFBB00,CE4F00]3x the chance of featured characters appearing!
-スペシャルガチャ=Special Gacha
+
+
+・★3確定 ガチャチケット1枚につき特定の★3キャラが1キャラ獲得できるチケットです。\n・ビギナー＆カムバックガチャチケットパックで獲得したチケットは1枚につき特定の属性の★3キャラが1キャラ獲得できるチケットです。\n・カムバック10連ガチャチケット、カムバック10連SPガチャチケットは1枚につき特定のキャラが10キャラ獲得できるチケットです。\n※10キャラのうち1キャラは必ず★3キャラが獲得できます。\n・使用期限を過ぎたチケットは消滅します。\n・出現するキャラにつきましては各チケットの［提供割合］ボタンよりご確認ください。\n・特殊なガチャチケットではキャラ交換Ptを獲得できません。\n・すでに仲間になったキャラが出現した場合、「女神の秘石」に変換されます。\n・変換された女神の秘石は、プレゼントボックスに贈られずに、直接所持数に加算されます。\n・女神の秘石の所持数が上限に達している場合、プレゼントボックスに贈られます。\n・ガチャは1回ごとに提供割合にもとづいて抽選を行います。そのため、提供割合が1％のキャラが、100回中1回必ず出現するわけではありません。=►Mỗi Vé Gacha ★3 Đảm Bảo cho phép bạn nhận một nhân vật ★3 cụ thể. \n►Vé nhận từ Gói Vé Gacha Tân Thủ & Tái Xuất cho phép bạn nhận một nhân vật ★3 thuộc thuộc tính cụ thể. \n►Vé Gacha 10 Lần Tái Xuất và Vé Gacha SP 10 Lần Tái Xuất cho phép bạn nhận mười nhân vật cụ thể. \n*Một trong mười nhân vật được đảm bảo là nhân vật ★3. \n►Vé đã hết hạn sẽ hết hạn. \n►Vui lòng kiểm tra nhân vật sẽ xuất hiện bằng cách nhấn nút [Tỷ Lệ Cung Cấp] trên mỗi vé. \n►Vé Gacha Đặc Biệt không cấp Điểm Đổi Nhân Vật. \n►Nếu một nhân vật bạn đã tuyển dụng xuất hiện, nó sẽ được chuyển thành "Pháp Khí Thiêng". \n►Pháp Khí Thiêng đã chuyển đổi sẽ được thêm trực tiếp vào kho đồ của bạn, không gửi đến hộp quà. \n►Nếu bạn đã đạt giới hạn Pháp Khí Thiêng, chúng sẽ được gửi đến hộp quà. \n►Một lựa chọn ngẫu nhiên được tổ chức cho mỗi gacha dựa trên tỷ lệ cung cấp. Do đó, một nhân vật có tỷ lệ khả dụng 1% sẽ không nhất thiết xuất hiện một lần sau 100 lần.
+
+[FFBB00,CE4F00]有償ジュエル限定\n10回目ピックアップキャラ出現率3倍ガチャ開催！[-]=[FFBB00,CE4F00]Chỉ kim cương trả phí\nLần gacha thứ 10 có cơ hội nhân vật nổi bật xuất hiện gấp 3 lần![-]
+[3C404E]10キャラ目は[FFBB00,CE4F00]ピックアップキャラの出現率3倍！=[3C404E]Nhân vật thứ 10 có [FFBB00,CE4F00]cơ hội nhân vật nổi bật xuất hiện gấp 3 lần!
+スペシャルガチャ=Gacha Đặc Biệt
 

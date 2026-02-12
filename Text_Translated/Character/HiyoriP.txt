@@ -1,32 +1,32 @@
 ##Profile##
-【物理】前衛で炎翼を背に敵を粉砕する、陽気な元気娘。戦いが続く程に自身の攻撃能力を強めるスキルを操り、高めた力で放つ超爆の一撃は、あらゆる敵を塵と化す。=[Physical] A cheerful and energetic girl on the frontlines, spreading out her wings of flame to crush her enemies. Her skills increase her offensive prowess as the battle continues, she uses this boost in power to unleash an explosive blow that turns her enemies into dust.
+【物理】前衛で炎翼を背に敵を粉砕する、陽気な元気娘。戦いが続く程に自身の攻撃能力を強めるスキルを操り、高めた力で放つ超爆の一撃は、あらゆる敵を塵と化す。=[Vật Lý] Một cô gái vui tươi, năng động trên tuyến đầu, dang rộng đôi cánh lửa để đè bẹp kẻ thù. Kỹ năng của cô tăng cường sức mạnh tấn công khi trận đấu diễn ra, và cô sử dụng sức mạnh được tăng cường đó để tung ra đòn đánh nổ tung kẻ địch thành bụi.
 
-さらなる強さを求めて=Seeking Greater Power
-特訓、心重ねて=Fully Motivated Special Training
-守りたい想いを力に変えて=Drawing Strength From The Desire To Protect
-未来に高鳴る胸の音=My Heartbeat for the Future
+さらなる強さを求めて=Khát Vọng Sức Mạnh To Lớn
+特訓、心重ねて=Tập Luyện Đặc Biệt Đầy Nhiệt Huyết
+守りたい想いを力に変えて=Rút Sức Mạnh Từ Khát Vọng Bảo Vệ
+未来に高鳴る胸の音=Nhịp Đập Trái Tim Vì Tương Lai
 
 ##UB##
-ヒヨリブレイジングインパクト=Hiyori Blazing Impact
-目の前の敵１キャラに物理特大ダメージを与え、さらに物理防御力を小ダウンさせる。このスキルで与えたダメージ量に応じて、防御力の減少量が最大６倍までアップする。=Deals large P.DMG to an enemy in front, and also slightly lowers its P.DEF. The greater P.DMG dealt by this skill, the greater lowered P.DEF, up to 6 times.\nP.DEF: (+0.0004×P.DMG)
+ヒヨリブレイジングインパクト=Hiyori Đập Tan
+目の前の敵１キャラに物理特大ダメージを与え、さらに物理防御力を小ダウンさせる。このスキルで与えたダメージ量に応じて、防御力の減少量が最大６倍までアップする。=Gây sát thương vật lý lớn lên kẻ địch phía trước, và đồng thời nhẹ nhàng giảm Phòng Thủ Vật Lý (P.DEF) của chúng. Sát thương vật lý (P.DMG) càng lớn do kỹ năng này gây ra, mức giảm Phòng Thủ Vật Lý (P.DEF) càng cao, tối đa 6 lần.\nPhòng Thủ Vật Lý (P.DEF): (+0.0004×Sát Thương Vật Lý (P.DMG))
 
 ##S1##
-トゥインクルブレイブ=Twinkle Brave
-自分の物理攻撃力を中アップさせ、さらに物理クリティカルと物理攻撃クリティカル時のダメージを小アップさせる。=Moderately boosts own P.ATK, and also slightly boosts own P.CRIT Rate and P.CRIT DMG.
-r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを25アップ自分の物理攻撃クリティカル時のダメージを5％アップ$"=Cast Time: 0.6s\n►Boosts own P.ATK by $1 for 180s.\n►Boosts own P.CRIT Rate by 25 for 180s.\n►Boosts own P.CRIT DMG by 5% for 180s.
+トゥインクルブレイブ=Dũng Sĩ Lấp Lánh
+自分の物理攻撃力を中アップさせ、さらに物理クリティカルと物理攻撃クリティカル時のダメージを小アップさせる。=Tăng vừa phải Tấn Công Vật Lý (P.ATK) của bản thân, và đồng thời nhẹ nhàng tăng Tỷ Lệ Chí Mạng (P.CRIT Rate) và Sát Thương Chí Mạng (P.CRIT DMG) của bản thân.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを25アップ自分の物理攻撃クリティカル時のダメージを5％アップ$"=Thời gian niệm: 0.6s\n►Tăng Tấn Công Vật Lý (P.ATK) của bản thân lên $1 trong 180s.\n►Tăng Tỷ Lệ Chí Mạng (P.CRIT Rate) của bản thân lên 25 trong 180s.\n►Tăng Sát Thương Chí Mạng (P.CRIT DMG) của bản thân lên 5% trong 180s.
 
 ##S2##
-バーニングサンライズ=Burning Sunrise
-自分の物理攻撃力を小アップさせ、さらに目の前の敵１キャラに物理中ダメージを与える。=Slightly boosts own P.ATK, and deals moderate P.DMG to an enemy in front.
+バーニングサンライズ=Bình Minh Cháy Bỏng
+自分の物理攻撃力を小アップさせ、さらに目の前の敵１キャラに物理中ダメージを与える。=Nhẹ nhàng tăng Tấn Công Vật Lý (P.ATK) của bản thân, và gây sát thương vật lý vừa phải lên kẻ địch phía trước.
 
 ##EX##
-バーニングソウル=Burning Soul
-バーニングソウル+=Burning Soul+
+バーニングソウル=Lin Hồn Cháy Bỏng
+バーニングソウル+=Lin Hồn Cháy Bỏng+
 
 ##S1+##
-トゥインクルブレイブ+=Twinkle Brave+
-自分の物理攻撃力と物理クリティカルを中アップさせ、さらに物理攻撃クリティカル時のダメージを小アップし、ＴＰを小回復させる。=Moderately boosts own P.ATK, slightly boosts own P.CRIT Rate and P.CRIT DMG, and also slightly recovers own TP.
-r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを40アップ自分の物理攻撃クリティカル時のダメージを10％アップ自分のＴＰを100回復$"=Cast Time: 0.6s\n►Boosts own P.ATK by $1 for 180s.\n►Boosts own P.CRIT Rate by 40 for 180s.\n►Boosts own P.CRIT DMG by 10% for 180s.\n►Recovers own TP by 100.
+トゥインクルブレイブ+=Dũng Sĩ Lấp Lánh+
+自分の物理攻撃力と物理クリティカルを中アップさせ、さらに物理攻撃クリティカル時のダメージを小アップし、ＴＰを小回復させる。=Tăng vừa phải Tấn Công Vật Lý (P.ATK) của bản thân, nhẹ nhàng tăng Tỷ Lệ Chí Mạng (P.CRIT Rate) và Sát Thương Chí Mạng (P.CRIT DMG) của bản thân, và còn nhẹ nhàng hồi TP cho bản thân.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを40アップ自分の物理攻撃クリティカル時のダメージを10％アップ自分のＴＰを100回復$"=Thời gian niệm: 0.6s\n►Tăng Tấn Công Vật Lý (P.ATK) của bản thân lên $1 trong 180s.\n►Tăng Tỷ Lệ Chí Mạng (P.CRIT Rate) của bản thân lên 40 trong 180s.\n►Tăng Sát Thương Chí Mạng (P.CRIT DMG) của bản thân lên 10% trong 180s.\n►Hồi TP cho bản thân lên 100.
 
 ##UE##
-ワイルドプリンセスナックル=Wild Princess Knuckle
+ワイルドプリンセスナックル=Quyền Đấm Hoang Dã

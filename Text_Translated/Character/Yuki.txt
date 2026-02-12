@@ -1,50 +1,50 @@
 ##Profile##
-ボクは誰よりも美しい=Believes himself to be the fairest of them all
+ボクは誰よりも美しい=Tin rằng mình là người đẹp nhất
 
-【魔法】後衛で物理パーティを補助する、歩く芸術作品。味方のユニオンバースト発動を早めるスキルのほか、暗闇状態にするスキルで敵の物理攻撃を封じる。=[Magic] A living work of art that buffs physical parties from the rearguard. Uses skills that allow allies to use Union Bursts more quickly, and hampers enemy offense with blinding status effects.
-鏡で自分を見ること=Looking at himself in the mirror
+【魔法】後衛で物理パーティを補助する、歩く芸術作品。味方のユニオンバースト発動を早めるスキルのほか、暗闇状態にするスキルで敵の物理攻撃を封じる。=[Phép thuật] Một tác phẩm sống động tăng cường cho đội hình vật lý từ hậu phương. Sử dụng kỹ năng giúp đồng minh sử dụng Union Burst nhanh hơn, và cản trở sức mạnh tấn công của kẻ địch bằng hiệu ứng làm choáng.
+鏡で自分を見ること=Nhìn mình trong gương
 
-ずっとボクを離さないでね=Don't Ever Let Me Go
-ウェディング・オア・ダイ=Marry Me or Else
-究極のユキvs至高のユキ=Yuki vs. Yuki
-遥かなる旅路へ……！？=A World Tour?!
-悠久の街角スナップ=Forever Posing
-いたずらな雨=A Mischievous Rain
-華麗にワーキング！=Gorgeous on the Job
-美しすぎる邂逅=A Stunning Encounter
+ずっとボクを離さないでね=Đừng bao giờ để ta đi
+ウェディング・オア・ダイ=Kết hôn với ta, hoặc...
+究極のユキvs至高のユキ=Yuki đấu với Yuki
+遥かなる旅路へ……！？=Một vòng tour thế giới?!
+悠久の街角スナップ=Mãi mãi tạo dáng
+いたずらな雨=Một cơn mưa nghịch ngợm
+華麗にワーキング！=Rạng rỡ khi làm việc
+美しすぎる邂逅=Một cuộc gặp gỡ ngoạn mục
 
 ##UB##
-ボクの美にひれ伏すがいい！=Bow to My Beauty!
-敵全体に魔法小ダメージを与え、さらに物理防御力を小ダウンさせる。=Deals small M.DMG to all enemies in the front and lowers their P.DEF by a small amount.
-r:"^敵全体に(\d+)の魔法ダメージ敵全体の物理防御力を(\d+)ダウン$"=►Deals $1 M.DMG to all enemies.\n►Lowers all enemies' P.DEF by $2 for 18s.
+ボクの美にひれ伏すがいい！=Cúi đầu trước vẻ đẹp của ta!
+敵全体に魔法小ダメージを与え、さらに物理防御力を小ダウンさせる。=Gây sát thương phép (M.DMG) nhỏ cho tất cả kẻ địch ở mặt trước và giảm phòng thủ vật lý (P.DEF) của chúng một chút.
+r:"^敵全体に(\d+)の魔法ダメージ敵全体の物理防御力を(\d+)ダウン$"=►Gây $1 sát thương phép (M.DMG) cho tất cả kẻ địch.\n►Giảm phòng thủ vật lý (P.DEF) của tất cả kẻ địch $2 trong 18s.
 
 ##S1##
-ボクの目が眩む程の美しさ♪=My Beauty Is Blinding ♪
-自分から２番目に近い敵１キャラに魔法中ダメージを与え、さらに暗闇状態にする。=Deals small M.DMG to the 2nd closest enemy and inflicts Blind.
-r:"^敵単体に(\d+)の魔法ダメージ敵単体を暗闇状態にする$"=Cast Time: 1.93s\n►Deals $1 M.DMG to an enemy.\n►Inflicts Blind (60% miss) for 8s.
+ボクの目が眩む程の美しさ♪=Vẻ đẹp của ta làm loá mắt ♪
+自分から２番目に近い敵１キャラに魔法中ダメージを与え、さらに暗闇状態にする。=Gây sát thương phép (M.DMG) nhỏ cho kẻ địch thứ 2 gần nhất và gây hiệu ứng Mù (Blind).
+r:"^敵単体に(\d+)の魔法ダメージ敵単体を暗闇状態にする$"=Thời gian niệm chú: 1.93s\n►Gây $1 sát thương phép (M.DMG) cho một kẻ địch.\n►Gây hiệu ứng Mù (60% bỏ lỡ) trong 8s.
 
 ##S2##
-可愛いボクが応援するよ♪=The Cutest Supporter ♪
-最もＴＰが多い味方１キャラのＴＰを中回復する。=Recovers the TP of the party member with the highest TP by a medium amount.
+可愛いボクが応援するよ♪=Đồng minh hỗ trợ dễ thương nhất ♪
+最もＴＰが多い味方１キャラのＴＰを中回復する。=Hồi một lượng TP trung bình cho thành viên đội có lượng TP cao nhất.
 
 ##EX##
-可愛いボクががんばるよ=The Cutest Hard Worker
-可愛いボクががんばるよ+=The Cutest Hard Worker+
-バトル開始時に自分の魔法攻撃力を中アップさせ、さらに自分の物理防御力を小アップさせる。=Moderate boost to own M.ATK and small boost to P.DEF at start of battle.
-r:"^自分の魔法攻撃力を(\d+)アップ自分の物理防御力を(\d+)アップ$"=►Boosts own M.ATK by $1.\n►Boosts own P.DEF by $2.
+可愛いボクががんばるよ=Người Chăm Chỉ Dễ Thương Nhất
+可愛いボクががんばるよ+=Người Chăm Chỉ Dễ Thương Nhất+
+バトル開始時に自分の魔法攻撃力を中アップさせ、さらに自分の物理防御力を小アップさせる。=Tăng nhẹ M.ATK của bản thân và tăng nhỏ P.DEF khi bắt đầu trận đấu.
+r:"^自分の魔法攻撃力を(\d+)アップ自分の物理防御力を(\d+)アップ$"=►Tăng M.ATK của bản thân lên $1.\n►Tăng P.DEF của bản thân lên $2.
 
 ##UB+##
-美の神の降臨をご覧よ！=Behold the Descent of the Beauty Goddess!
-敵全体に対象の物理防御力が魔法防御力より低い場合、物理ダメージ扱いになる魔法中ダメージを与え、物理防御力を中ダウンさせ、さらに誘惑状態にする。=If the target's P.DEF is lower than their M.DEF, deals moderate M.DMG as P.DMG to all enemies, reduces their P.DEF, and inflicts Charm status.
-r:"^敵全体に(\d+)の低い側の防御力で防御する魔法ダメージ敵全体の物理防御力を(\d+)ダウン敵全体を誘惑する$"=►Deals $1 M/P.DMG to all enemies based on their lowest defense between P/M.DEF.\n►Lowers all enemies' P.DEF by $2 for 18s.\n►Inflicts Charm to all enemies for 4s.
+美の神の降臨をご覧よ！=Hãy Ngắm Nhìn Sự Giáng Trần Của Nữ Thần Sắc Đẹp!
+敵全体に対象の物理防御力が魔法防御力より低い場合、物理ダメージ扱いになる魔法中ダメージを与え、物理防御力を中ダウンさせ、さらに誘惑状態にする。=Nếu P.DEF của mục tiêu thấp hơn M.DEF của họ, gây sát thương Phép/Thể lên tất cả kẻ địch, giảm P.DEF của chúng và gây trạng thái Mê Hoặc.
+r:"^敵全体に(\d+)の低い側の防御力で防御する魔法ダメージ敵全体の物理防御力を(\d+)ダウン敵全体を誘惑する$"=►Gây $1 sát thương Phép/Thể lên tất cả kẻ địch dựa trên phòng thủ thấp nhất giữa P/M.DEF của chúng.\n►Giảm P.DEF của tất cả kẻ địch đi $2 trong 18s.\n►Gây trạng thái Mê Hoặc lên tất cả kẻ địch trong 4s.
 
 ##S1+##
-ボクの目が眩む程の美しさ♪+=My Beauty Is Blinding ♪+
-自分から２番目に近い敵１キャラに魔法中ダメージを与え、さらに暗闇状態と誘惑状態にする。=Deals moderate M.DMG to the 2nd closest enemy and inflicts Blind and Charm.
-r:"^敵単体に(\d+)の魔法ダメージ敵単体を暗闇状態にする敵単体を誘惑する$"=Cast Time: 1.93s\n►Deals $1 M.DMG to an enemy.\n►Inflicts Blind (60% miss) to an enemy for 8s.\n►Inflicts Charm to an enemy for 8s.
+ボクの目が眩む程の美しさ♪+=Vẻ Đẹp Của Ta Là Đáng Sợ ♪+
+自分から２番目に近い敵１キャラに魔法中ダメージを与え、さらに暗闇状態と誘惑状態にする。=Gây sát thương Phép trung bình lên kẻ địch thứ 2 từ xa nhất và gây trạng thái Mù và Mê Hoặc.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体を暗闇状態にする敵単体を誘惑する$"=Thời gian Triệu hồi: 1.93s\n►Gây $1 sát thương Phép lên một kẻ địch.\n►Gây trạng thái Mù (60% đánh trượt) lên một kẻ địch trong 8s.\n►Gây trạng thái Mê Hoặc lên một kẻ địch trong 8s.
 ## 260lvl
-最もＴＰが多い味方１キャラのＴＰを中回復し、物理攻撃力を小アップさせる。=Recovers an ally's TP with the most TP by a moderate amount and slightly boosts its P.ATK.
-r:"^味方単体のＴＰを(\d+)回復味方単体の物理攻撃力を(\d+)アップ$"=►Recovers an ally's TP by $1.\n►Boosts an ally's P.ATK by $2 for 12s.
+最もＴＰが多い味方１キャラのＴＰを中回復し、物理攻撃力を小アップさせる。=Hồi một lượng TP trung bình cho đồng minh có TP cao nhất và tăng nhẹ P.ATK của họ.
+r:"^味方単体のＴＰを(\d+)回復味方単体の物理攻撃力を(\d+)アップ$"=►Hồi $1 TP cho một đồng minh.\n►Tăng P.ATK của một đồng minh lên $2 trong 12s.
 
 ##UE##
-グリッターコンパクト=Glitter Compact
+グリッターコンパクト=Lắc Lư Lấp Lánh

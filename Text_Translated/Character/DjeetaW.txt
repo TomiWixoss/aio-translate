@@ -1,25 +1,25 @@
 ##Profile##
-【魔法】中衛で、他の術者と魔力を束ねる究竟の魔導士。味方への魔法攻撃支援とＴＰ回復に加え、敵陣の攻防両面の弱体化で戦況を整え、自らも強力な攻撃魔法を放つ。=[Magic] A superb wizard who governs over other mages and magic from the midline. In addition to a magical attack support and TP heals to her allies, she creates an attack and defense debuffing field to prepare for battles, while also firing powerful magic attacks.
+【魔法】中衛で、他の術者と魔力を束ねる究竟の魔導士。味方への魔法攻撃支援とＴＰ回復に加え、敵陣の攻防両面の弱体化で戦況を整え、自らも強力な攻撃魔法を放つ。=[Phép] Một pháp sư xuất sắc cai quản các pháp sư và phép thuật khác từ tuyến giữa. Ngoài việc hỗ trợ tấn công phép và hồi TP cho đồng minh, cô tạo ra một trường giảm tấn công và phòng thủ để chuẩn bị cho trận chiến, đồng thời bắn các đòn phép mạnh mẽ.
 
-騎空士に大切なこと=Something Important to Kishi
-天を穿つ魔法=Magic That Pierces the Heavens
-それでも空は繋がっている=But the Sky is Still Connected
-魔導の果てに極めし叡智=The Ultimate Wisdom at the End of Magic
+騎空士に大切なこと=Điều Quan Trọng Với Kishi
+天を穿つ魔法=Ma Thuật Xuyên Thấu Trời
+それでも空は繋がっている=Nhưng Bầu Trời Vẫn Được Kết Nối
+魔導の果てに極めし叡智=Trí Tuệ Tối Thượng Ở Đầu Của Ma Thuật
 
 ##UB##
 エーテルブラスト=Æther Blast
-自分の魔法攻撃力を大アップさせ、目の前の敵１キャラに魔法特大ダメージを与える。さらに自分に【万象の刻印】を付与する。=Greatly boosts own M.ATK, and deals large M.DMG to an enemy in front. Grants [Crest of All Creation] to self.
-r:"^自分の魔法攻撃力を(\d+)アップ敵単体に(\d+)の魔法ダメージ自分に万象の刻印を付与する$"=►Boosts own M.ATK by $1.\n►Deals $2 M.DMG to an enemy.\n►Grants [Crest of All Creation] to self for 18s.
+自分の魔法攻撃力を大アップさせ、目の前の敵１キャラに魔法特大ダメージを与える。さらに自分に【万象の刻印】を付与する。=Tăng lớn M.ATK của bản thân, và gây sát thương phép lớn lên kẻ địch phía trước. Tặng cho bản thân [Dấu Ấn Sáng Tạo Vạn Vật].
+r:"^自分の魔法攻撃力を(\d+)アップ敵単体に(\d+)の魔法ダメージ自分に万象の刻印を付与する$"=►Tăng M.ATK của bản thân lên $1.\n►Gây $2 sát thương phép lên kẻ địch.\n►Tặng [Dấu Ấn Sáng Tạo Vạn Vật] cho bản thân trong 18s.
 
 ##S1##
 ブラックヘイズ=Black Haze
-目の前の敵１キャラを中心に魔法ダメージフィールドと、魔法攻撃力と魔法防御力を中ダウンさせるフィールドを展開する。=Deploys a 400 radius field around an enemy in front that deals M.DMG every second, and moderately lowers enemies' M.ATK and M.DEF in 400 range.
-r:"^毎秒(\d+)の魔法ダメージを与えるフィールドを展開するフィールド内の敵の魔法攻撃力(\d+)ダウンフィールド内の敵の魔法防御力(\d+)ダウン$"=►Deploys a field around an enemy in front that deals $1 M.DMG/s for 12s.\n►Lowers enemies' M.ATK in range by $2 for 12s.\n►Lowers enemies' M.DEF in range by $3 for 12s.
+目の前の敵１キャラを中心に魔法ダメージフィールドと、魔法攻撃力と魔法防御力を中ダウンさせるフィールドを展開する。=Triển khai một vùng trường bán kính 400 xung quanh kẻ địch phía trước, gây sát thương phép mỗi giây, và giảm trung bình M.ATK và M.DEF của kẻ địch trong phạm vi 400.
+r:"^毎秒(\d+)の魔法ダメージを与えるフィールドを展開するフィールド内の敵の魔法攻撃力(\d+)ダウンフィールド内の敵の魔法防御力(\d+)ダウン$"=►Triển khai một vùng trường xung quanh kẻ địch phía trước gây $1 sát thương phép/giây trong 12s.\n►Giảm M.ATK của kẻ địch trong phạm vi lên $2 trong 12s.\n►Giảm M.DEF của kẻ địch trong phạm vi lên $3 trong 12s.
 
 ##S2##
 チェイサー=Chaser
-味方全体の魔法攻撃力を大アップさせ、魔法クリティカルを中アップし、魔法攻撃クリティカル時のダメージを小アップさせ、さらにＴＰを小回復させる。自分に【万象の刻印】が付与されている場合、この魔法攻撃力と魔法クリティカルと魔法攻撃クリティカル時のダメージアップの効果量が上昇する。=Greatly boosts all allies' M.ATK, moderately boosts their M.CRIT Rate, and boosts their M.CRIT DMG and recovers their TP by a small amount. If Djeeta has [Crest of All Creation], all boosts double in effect.
-r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを(\d+)アップ味方全体の魔法クリティカル時のダメージを10％アップ味方全体のＴＰを75回復$"=►Boosts all allies' M.ATK by $1 for 12s.\n►Boosts all allies' M.CRIT Rate by $2 for 12s.\n►Boosts all allies' M.CRIT DMG by 10% for 12s.\n►Recovers all allies' TP by 75.
+味方全体の魔法攻撃力を大アップさせ、魔法クリティカルを中アップし、魔法攻撃クリティカル時のダメージを小アップさせ、さらにＴＰを小回復させる。自分に【万象の刻印】が付与されている場合、この魔法攻撃力と魔法クリティカルと魔法攻撃クリティカル時のダメージアップの効果量が上昇する。=Tăng lớn M.ATK của tất cả đồng minh, tăng trung bình Tỷ Lệ Chí Mạng Phép của họ, và tăng Sát Thương Chí Mạng Phép, đồng thời hồi một lượng TP nhỏ. Nếu Djeeta có [Dấu Ấn Sáng Tạo Vạn Vật], tất cả các tăng trưởng sẽ nhân đôi hiệu quả.
+r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを(\d+)アップ味方全体の魔法クリティカル時のダメージを10％アップ味方全体のＴＰを75回復$"=►Tăng M.ATK của tất cả đồng minh lên $1 trong 12s.\n►Tăng Tỷ Lệ Chí Mạng Phép của tất cả đồng minh lên $2 trong 12s.\n►Tăng Sát Thương Chí Mạng Phép của tất cả đồng minh lên 10% trong 12s.\n►Hồi TP của tất cả đồng minh lên 75.
 
 #EX#
 魔導の達士=Master of Magic
@@ -30,4 +30,4 @@ r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリ�
 
 ##S1+##
 ブラックヘイズ+=Black Haze+
-目の前の敵１キャラを中心に魔法ダメージフィールドと、魔法攻撃力と魔法防御力を中ダウンさせるフィールドを展開する。自分に【万象の刻印】が付与されている場合、このスキルの効果量が上昇する。=Deploys a field around an enemy in front that deals M.DMG every second, and moderately lowers enemies' M.ATK and M.DEF in range. If Djeeta has [Crest of All Creation], boosts all skill effects by x1.22.
+目の前の敵１キャラを中心に魔法ダメージフィールドと、魔法攻撃力と魔法防御力を中ダウンさせるフィールドを展開する。自分に【万象の刻印】が付与されている場合、このスキルの効果量が上昇する。=Triển khai một vùng trường xung quanh kẻ địch phía trước gây sát thương phép mỗi giây, và giảm trung bình M.ATK và M.DEF của kẻ địch trong phạm vi. Nếu Djeeta có [Dấu Ấn Sáng Tạo Vạn Vật], tăng tất cả hiệu quả kỹ năng lên x1.22.

@@ -1,8 +1,8 @@
-アイテム一覧=Item list
-売却=Sell
-売却マナ=Mana Value
+アイテム一覧=Danh sách vật phẩm
+売却=Bán
+売却マナ=Giá trị Mana
 
-確認したいアイテムを選択してください=Select the item you want to see
-所持していません。=You don't have any.
+確認したいアイテムを選択してください=Chọn vật phẩm bạn muốn xem
+所持していません。=Bạn không có gì.
 
-アイテム詳細=Item Info
+アイテム詳細=Thông tin vật phẩm

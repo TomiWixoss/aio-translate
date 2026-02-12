@@ -1,20 +1,20 @@
 ##Profile##
-【魔法】中衛でみんなに笑顔を届ける腹ペコサンタ王女。前線で敵の攻撃を耐えながら範囲内の味方の防御サポートと敵の防御ダウンまでこなし、聖夜に勝利の輝きを灯す。=[Magic] A hungry princess Santa bringing smiles to everyone's homes from the midlines! She can tank enemy hits in the frontlines while boosting defense of all allies around and lowering defense of enemies. With these skills, she shines the light of victory onto the Holy Night.
+【魔法】中衛でみんなに笑顔を届ける腹ペコサンタ王女。前線で敵の攻撃を耐えながら範囲内の味方の防御サポートと敵の防御ダウンまでこなし、聖夜に勝利の輝きを灯す。=[Phép] Công chúa Santa đói khát mang nụ cười đến mọi nhà từ tuyến giữa! Cô ấy có thể đỡ đòn kẻ địch ở tuyến đầu trong khi tăng phòng thủ cho đồng minh xung quanh và giảm phòng thủ kẻ địch. Với những kỹ năng này, cô tỏa sáng ánh sáng chiến thắng trong Đêm Thánh.
 
 ##UB##
 プレシャスストライク=Precious Strike
-目の前の敵１キャラに魔法特大ダメージを与え、魔法防御力を小ダウンさせる。さらに、自分に物理ダメージカット効果と魔法ダメージカット効果を付与してＨＰを中回復する。=Deals massive M.DMG to an enemy in front, slightly lowers its M.DEF. Additionally, grants P/M.DMG Cut to self and moderately recovers own HP.
-r:"^敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン自分が受ける物理ダメージを15％カット自分が受ける魔法ダメージを15％カット自分のＨＰを(\d+)回復$"=►Deals $1 M.DMG to an enemy.\n►Lowers an enemy's M.DEF by $2 for 18s.\n►Grants P.DMG Cut to self by 15% for 18s.\n►Grants M.DMG Cut to self by 15% for 18s.\n►Recovers own HP by $3.
+目の前の敵１キャラに魔法特大ダメージを与え、魔法防御力を小ダウンさせる。さらに、自分に物理ダメージカット効果と魔法ダメージカット効果を付与してＨＰを中回復する。=Gây sát thương phép khổng lồ cho kẻ địch phía trước, giảm nhẹ phòng thủ phép của mục tiêu. Ngoài ra, còn cho bản thân Khả năng Cắt Sát Thương Vật Lý/Phép và hồi HP vừa phải.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン自分が受ける物理ダメージを15％カット自分が受ける魔法ダメージを15％カット自分のＨＰを(\d+)回復$"=►Gây $1 sát thương phép cho kẻ địch.\n►Giảm phòng thủ phép của kẻ địch đi $2 trong 18s.\n►Cho bản thân Khả năng Cắt Sát Thương Vật Lý 15% trong 18s.\n►Cho bản thân Khả năng Cắt Sát Thương Phép 15% trong 18s.\n►Hồi HP của bản thân lên $3.
 
 ##S1##
 ロイヤルアフェクション=Royal Affection
-最もＨＰが低い味方１キャラのＨＰを中回復させる。さらに、そのキャラを中心とした範囲内の味方すべての物理防御力と魔法防御力を中アップさせる。=Moderately recovers an ally's HP with the lowest HP. Additionally, moderately boosts allies' P.DEF and M.DEF in range.
-r:"^味方単体のＨＰを(\d+)回復範囲内の味方の物理防御力を(\d+)アップ範囲内の味方の魔法防御力を(\d+)アップ$"=►Recovers an ally's HP by $1.\n►Boosts allies' P.DEF in 300 range by $2 for 12s.\n►Boosts allies' M.DEF in 300 range by $3 for 12s.
+最もＨＰが低い味方１キャラのＨＰを中回復させる。さらに、そのキャラを中心とした範囲内の味方すべての物理防御力と魔法防御力を中アップさせる。=Hồi HP vừa phải cho đồng minh có HP thấp nhất. Ngoài ra, tăng vừa phải phòng thủ vật lý và phòng thủ phép cho đồng minh trong phạm vi.
+r:"^味方単体のＨＰを(\d+)回復範囲内の味方の物理防御力を(\d+)アップ範囲内の味方の魔法防御力を(\d+)アップ$"=►Hồi HP của đồng minh lên $1.\n►Tăng phòng thủ vật lý của đồng minh trong phạm vi 300 lên $2 trong 12s.\n►Tăng phòng thủ phép của đồng minh trong phạm vi 300 lên $3 trong 12s.
 
 ##S2##
 フローズンスラッシュ=Frozen Slash
-目の前の敵１キャラに魔法大ダメージを与える。さらに自分を中心とした範囲内の味方すべてに物理/魔法無効バリアを展開し、ＴＰを小回復させる。=Deals massive M.DMG to an enemy in front. Additionally, deploys Barrier over allies in range that negates P/M.DMG, and slightly recovers their TP.
-r:"^敵単体に(\d+)の魔法ダメージ(\d+)ダメージ分の物理魔法無効バリアを展開する範囲内の味方のＴＰを50回復$"=►Deals $1 M.DMG to an enemy.\n►Deploys Barrier over allies in 300 range that negates P/M.DMG by $2 for 12s.\n►Recovers allies' TP in 300 range by 50.
+目の前の敵１キャラに魔法大ダメージを与える。さらに自分を中心とした範囲内の味方すべてに物理/魔法無効バリアを展開し、ＴＰを小回復させる。=Gây sát thương phép khổng lồ cho kẻ địch phía trước. Ngoài ra, triển khai Khiên bảo vệ đồng minh trong phạm vi có khả năng phản sát thương vật lý/phép, và hồi nhẹ TP của họ.
+r:"^敵単体に(\d+)の魔法ダメージ(\d+)ダメージ分の物理魔法無効バリアを展開する範囲内の味方のＴＰを50回復$"=►Gây $1 sát thương phép cho kẻ địch.\n►Triển khai Khiên bảo vệ đồng minh trong phạm vi 300 có khả năng phản $2 sát thương vật lý/phép trong 12s.\n►Hồi TP của đồng minh trong phạm vi 300 lên 50.
 
 ##EX##
 聖夜の晩餐パワー=Holy Night Supper Power
@@ -22,8 +22,8 @@ r:"^敵単体に(\d+)の魔法ダメージ(\d+)ダメージ分の物理魔法無
 
 ##S1+##
 ロイヤルアフェクション+=Royal Affection+
-最もＨＰが低い味方１キャラのＨＰを中回復させる。さらに、そのキャラを中心とした範囲内の味方すべての物理防御力と魔法防御力を大アップさせ、自分のＴＰを中回復する。=Moderately recovers an ally's HP with the lowest HP, moderately boosts allies' P.DEF and M.DEF in range of that ally, and moderately recovers own TP.
-r:"^味方単体のＨＰを(\d+)回復範囲内の味方の物理防御力を(\d+)アップ範囲内の味方の魔法防御力を(\d+)アップ自分のＴＰを220回復$"=►Recovers an ally's HP by $1.\n►Boosts allies' P.DEF in 300 range by $2 for 12s.\n►Boosts allies' M.DEF in 300 range by $3 for 12s.\n►Recovers own TP by 220.
+最もＨＰが低い味方１キャラのＨＰを中回復させる。さらに、そのキャラを中心とした範囲内の味方すべての物理防御力と魔法防御力を大アップさせ、自分のＴＰを中回復する。=Hồi phục một phần HP của đồng minh có HP thấp nhất, tăng một phần P.DEF và M.DEF của đồng minh trong phạm vi của đồng minh đó, và hồi phục một phần TP của bản thân.
+r:"^味方単体のＨＰを(\d+)回復範囲内の味方の物理防御力を(\d+)アップ範囲内の味方の魔法防御力を(\d+)アップ自分のＴＰを220回復$"=►Hồi phục HP của đồng minh bằng $1.\n►Tăng P.DEF của đồng minh trong phạm vi 300 bằng $2 trong 12s.\n►Tăng M.DEF của đồng minh trong phạm vi 300 bằng $3 trong 12s.\n►Hồi phục TP của bản thân bằng 220.
 
 ##UE##
 クリスマスプリンセス=Christmas Princess

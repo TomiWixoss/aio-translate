@@ -1,4 +1,4 @@
-r:"^愛を失ったランドソル([0-9\-\(\)\w （）]*)$"=Loveless Landosol $1
-ゴーストキッド・ベロリー=Ghost Kid Bellory
-スペシャルエピソード=Special Episode
-エピソード一覧=List of episodes
+r:"^愛を失ったランドソル([0-9\-\(\)\w （）]*)$"=Landosol Không Tình Yêu $1
+ゴーストキッド・ベロリー=Ma Nhi Bellory
+スペシャルエピソード=Tập Đặc Biệt
+エピソード一覧=Danh sách các tập

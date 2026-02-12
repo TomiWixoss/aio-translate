@@ -1,23 +1,23 @@
-コッコロのおさいふ=Kokkoro's Wallet
-コッコロの\nおさいふ=Kokkoro's\nWallet
-「コッコロのおさいふ」からマナを引き出し可能です。=Mana can be drawn from "Kokkoro's Wallet".
-所持上限を超えたマナはギルドハウスの\n「コッコロのおさいふ」に自動で送られます。=Mana that exceeds the maximum is automatically sent to the Guildhouse "Kokkoro's Wallet".
-このメッセージを以降は表示しない\n※メニューから設定が可能です=Do not display this message anymore\n※Can be set from the menu
+コッコロのおさいふ=Ví của Kokkoro
+コッコロの\nおさいふ=Ví của\nKokkoro
+「コッコロのおさいふ」からマナを引き出し可能です。=Mana có thể được rút từ "Kokkoro's Wallet".
+所持上限を超えたマナはギルドハウスの\n「コッコロのおさいふ」に自動で送られます。=Mana vượt quá giới hạn tối đa sẽ tự động được chuyển đến Guildhouse "Kokkoro's Wallet".
+このメッセージを以降は表示しない\n※メニューから設定が可能です=Không hiển thị thông báo này nữa\n※Có thể thiết lập từ menu
 
-引き出すマナは1以上で入力してください。=Please enter at least 1 mana to be withdrawn.
-マナが所持上限に達しているため引き出せません。=Already carrying max Mana. Cannot withdraw.
-sr:"^(?:\[3C404E\])?所持上限に達しているため\nプレゼントは受け取れませんでした。\n\n\[3C404E\](.+)×\[-\]\[FFBB00,CE4F00\]([0-9,]+)\[-\](?:\[-\])?$"=[3C404E]Already carrying max $1.\nCannot withdraw.\n\n$1 × [FFBB00,CE4F001]$2[-][-]
+引き出すマナは1以上で入力してください。=Vui lòng nhập ít nhất 1 mana để rút.
+マナが所持上限に達しているため引き出せません。=Đã mang theo mana tối đa. Không thể rút.
+sr:"^(?:\[3C404E\])?所持上限に達しているため\nプレゼントは受け取れませんでした。\n\n\[3C404E\](.+)×\[-\]\[FFBB00,CE4F00\]([0-9,]+)\[-\](?:\[-\])?$"=[3C404E]Đã mang theo $1 tối đa.\nKhông thể rút.\n\n$1 × [FFBB00,CE4F001]$2[-][-]
 
 
-所持上限をこえている、\nまたは期限を過ぎているため\nプレゼントを受け取れませんでした。=You have exceeded the limit of your possession, or have passed the expiration date, so you were unable to receive a present.
+所持上限をこえている、\nまたは期限を過ぎているため\nプレゼントを受け取れませんでした。=Bạn đã vượt quá giới hạn sở hữu hoặc đã quá hạn, nên không thể nhận quà tặng.
 
-引き出し後の所持マナ=Current Mana
-ストックしたマナを引き出します。=Withdraw stocked Mana.
-マナを引き出す=Mana Withdraw
-引き出し結果=Result of Withdraw
-r:"^\[FFBB00,CE4F00\]([0-9,]+)\[-\]\[3C404E\]マナを引き出しました。\[-\]$"=[3C404E]Withdraw [FFBB00,CE4F00]$1[-] Manas.[-]
-引き出せるマナがありません。=There is no mana that can be withdraw.
-マナ所持上限をこえました=Exceeded the Mana Possession Limit
+引き出し後の所持マナ=Mana Hiện Tại
+ストックしたマナを引き出します。=Rút mana đã được tích lũy.
+マナを引き出す=Rút Mana
+引き出し結果=Kết Quả Rút
+r:"^\[FFBB00,CE4F00\]([0-9,]+)\[-\]\[3C404E\]マナを引き出しました。\[-\]$"=[3C404E]Rút [FFBB00,CE4F00]$1[-] Mana.[-]
+引き出せるマナがありません。=Không có mana nào có thể rút.
+マナ所持上限をこえました=Vượt Quá Giới Hạn Sở Hữu Mana
 ---setting---
-マナ所持上限時の「コッコロのおさいふ」ダイアログ表示=Kokkoro's Wallet prompt when max Mana has reached
-所持上限を超えた獲得マナが、「コッコロのおさいふ」に送られたことの確認ダイアログを表示するか設定します。=Set whether or not to display a dialog box to confirm\nwhen acquired mana that exceeds the limit has been sent to Kokkoro's Wallet.
+マナ所持上限時の「コッコロのおさいふ」ダイアログ表示=Lời nhắc của Kokkoro's Wallet khi mana đã đạt tối đa
+所持上限を超えた獲得マナが、「コッコロのおさいふ」に送られたことの確認ダイアログを表示するか設定します。=Thiết lập có hiển thị hộp thoại xác nhận hay không\nkhi mana vượt giới hạn được tích lũy đã được chuyển đến Kokkoro's Wallet.

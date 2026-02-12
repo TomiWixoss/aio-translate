@@ -1,28 +1,28 @@
 ##Profile##
 読書=Reading
 
-【魔法】後衛で、英霊の召喚術を武器に戦うお姫様。味方に英霊の加護を付与するスキルによるサポーターと、高威力の魔法によるアタッカーの二つの役割を併せ持つ。=[Magic] The princess of Manaria who fights in the backlines, using the spirits of mighty warriors as her weapon of choice. She can take up the role of a supporter, granting her allies the Spirit's Blessing, but she can also make use of her powerful magic to go on the offensive.
+【魔法】後衛で、英霊の召喚術を武器に戦うお姫様。味方に英霊の加護を付与するスキルによるサポーターと、高威力の魔法によるアタッカーの二つの役割を併せ持つ。=[Phép] Công chúa Manaria chiến đấu ở hậu phương, sử dụng linh hồn của các chiến binh mạnh mẽ như vũ khí. Cô có thể đóng vai trò người hỗ trợ, ban Spirit's Blessing cho đồng đội, nhưng cũng có thể sử dụng phép thuật mạnh mẽ để tấn công.
 
-英霊と契約を結んだマナリアの天才王女=The spirit-summoning royal prodigy of Manaria
+英霊と契約を結んだマナリアの天才王女=Thần đồng triệu hồi linh hồn của vương quốc Manaria
 
-好奇心旺盛な王女=The Ever-Curious Princess
-王女の青空魔法教室=Lessons with the Princess
-王女の弱点=The Princess's Weakness
-王女が捧げる親愛の歌=From the Princess, with Love
+好奇心旺盛な王女=Công chúa luôn tò mò
+王女の青空魔法教室=Bài học với công chúa
+王女の弱点=Điểm yếu của công chúa
+王女が捧げる親愛の歌=Từ công chúa, với tình yêu
 
 ##UB##
 ディターレントスラスト=Deterrent Thrust
-目の前の敵１キャラに魔法特大ダメージを与え、さらに英霊の加護を受けているキャラの魔法攻撃力を大アップさせる。=Deals massive M.DMG to an enemy directly in front. Boosts the allies' M.ATK under Spirit's Blessing by a large amount.
-r:"^敵単体に(\d+)の魔法ダメージ対象の味方の魔法攻撃力を(\d+)アップ$"=►Deals $1 M.DMG to an enemy.\n►Boosts target allies' M.ATK by $2 for 18s.
+目の前の敵１キャラに魔法特大ダメージを与え、さらに英霊の加護を受けているキャラの魔法攻撃力を大アップさせる。=Gây sát thương phép cực lớn lên kẻ địch phía trước. Tăng mạnh M.ATK của đồng đội khi có Spirit's Blessing.
+r:"^敵単体に(\d+)の魔法ダメージ対象の味方の魔法攻撃力を(\d+)アップ$"=►Gây $1 sát thương phép lên kẻ địch.\n►Tăng M.ATK của đồng đội mục tiêu lên $2 trong 18s.
 
 ##S1##
 コリジョンスペル=Collision Spell
-目の前の敵１キャラに魔法大ダメージを与える。=Deals moderate magical damage to an enemy directly in front.
+目の前の敵１キャラに魔法大ダメージを与える。=Gây sát thương phép vừa phải lên kẻ địch phía trước.
 
 ##S2##
 プリンセスコーリング=Princess Calling
-自分を中心とした範囲内の味方すべてに英霊の加護を付与し、さらに魔法攻撃力を中アップさせ、行動速度を小アップさせる。=Grants Spirit's Blessing to all nearby allies. Boosts their M.ATK by a large amount and their action speed by a small amount.
-r:"^範囲内の味方に英霊の加護を付与範囲内の味方の行動速度アップ範囲内の味方の魔法攻撃力を(\d+)アップ$"=►Grants Spirit's Blessing to allies in range for 12s.\n►Boosts allies' action speed to 110% in 200 range.\n►Boosts allies' M.ATK in range by $1 for 12s.
+自分を中心とした範囲内の味方すべてに英霊の加護を付与し、さらに魔法攻撃力を中アップさせ、行動速度を小アップさせる。=Ban Spirit's Blessing cho tất cả đồng đội gần đó. Tăng mạnh M.ATK và tăng nhẹ tốc độ hành động của họ.
+r:"^範囲内の味方に英霊の加護を付与範囲内の味方の行動速度アップ範囲内の味方の魔法攻撃力を(\d+)アップ$"=►Ban Spirit's Blessing cho đồng đội trong phạm vi trong 12s.\n►Tăng tốc độ hành động của đồng đội lên 110% trong phạm vi 200.\n►Tăng M.ATK của đồng đội trong phạm vi lên $1 trong 12s.
 
 ##EX##
 レイディアントコーリング=Radiant Calling
@@ -30,8 +30,8 @@ r:"^範囲内の味方に英霊の加護を付与範囲内の味方の行動速�
 
 ##S1+##
 コリジョンスペル+=Collision Spell+
-目の前の敵１キャラに魔法大ダメージを与え、自分が英霊の加護を受けている場合味方全体のＴＰを小回復し、自分が英霊の加護を受けていない場合自分の行動速度を中アップさせる。=Deals large M.DMG to an enemy directly in front. If Anne has Spirit's Blessing, recovers all allies' TP by a small amount. If Anne does not have Spirit's Blessing, boosts own action speed by a moderate amount.
-r:"^敵単体に(\d+)の魔法ダメージ味方全体のＴＰを(\d+)回復自分の行動速度アップ$"=►Deals $1 M.DMG to an enemy.\n►Recovers all other allies' TP by $2 if Anne is under Spirit's Blessing.\n►Boosts own action speed to 125% if Anne is not under Spirit's Blessing for 12s.
+目の前の敵１キャラに魔法大ダメージを与え、自分が英霊の加護を受けている場合味方全体のＴＰを小回復し、自分が英霊の加護を受けていない場合自分の行動速度を中アップさせる。=Gây sát thương phép lớn lên kẻ địch phía trước. Nếu Anne có Spirit's Blessing, hồi một ít TP cho tất cả đồng đội. Nếu Anne không có Spirit's Blessing, tăng tốc độ hành động của bản thân một chút.
+r:"^敵単体に(\d+)の魔法ダメージ味方全体のＴＰを(\d+)回復自分の行動速度アップ$"=►Gây $1 sát thương phép lên kẻ địch.\n►Hồi $2 TP cho tất cả đồng đội khác nếu Anne có Spirit's Blessing.\n►Tăng tốc độ hành động của bản thân lên 125% nếu Anne không có Spirit's Blessing trong 12s.
 
 ##UE##
 アンの魔導書=Anne's Grimoire

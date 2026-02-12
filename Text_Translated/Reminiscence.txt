@@ -1,36 +1,36 @@
-３rdアニバーサリーフォトブック=3rd Anniversary Photobook
+３rdアニバーサリーフォトブック=Photobook Kỷ niệm 3 Năm
 フォト\nブック=Photobook
-追憶の戦域=Battlefield of Reminiscence
-追憶戦=Reminiscence
-追憶戦・覇=Reminiscence and Conquest
-Reminiscence &\nConquestへ=To Reminiscence and Conquest
-追憶戦・覇へ=To Reminiscence and Conquest
+追憶の戦域=Chiến trường Ký ức
+追憶戦=Ký ức
+追憶戦・覇=Ký ức và Chinh phục
+Reminiscence &\nConquestへ=Đến Ký ức và Chinh phục
+追憶戦・覇へ=Đến Ký ức và Chinh phục
 
-宝箱詳細=Chest Details
-受け取り=Receipt
-次の報酬まで\n--:--=Until the next reward:
+宝箱詳細=Chi tiết Rương
+受け取り=Biên lai
+次の報酬まで\n--:--=Cho đến phần thưởng tiếp theo:
 
-ゼーンの領域=Zane's Domain
-r:"^ゼーンの領域(\d+)層$"=Zane Level $1
-覇瞳皇帝の領域=Kaiser Insight's\nDomain
-r:"^覇瞳皇帝の領域(\d+)層$"=Kaiser Insight Level $1
+ゼーンの領域=Lãnh địa của Zane
+r:"^ゼーンの領域(\d+)層$"=Cấp độ Zane $1
+覇瞳皇帝の領域=Lãnh địa của Kaiser Insight\n
+r:"^覇瞳皇帝の領域(\d+)層$"=Cấp độ Kaiser Insight $1
 
-ミロクの領域=Miroku's Domain
-r:"^ミロクの領域(\d+)層$"=Miroku Level $1
+ミロクの領域=Lãnh địa của Miroku
+r:"^ミロクの領域(\d+)層$"=Cấp độ Miroku $1
 
 
-r:"^記憶領域(\d+)層$"=Memory Phase $1
+r:"^記憶領域(\d+)層$"=Giai đoạn Ký ức $1
 
-r:"^(\d+)層$"=Phase $1
-r:"^記憶領域(\d+)層をクリアしよう$"=Clear Phase $1 of the Memory Domain
-追憶戦宝箱詳細=Reminiscence Chest Details
-一定時間ごとにクリア済みの階層に応じて\n以下のアイテムが獲得できます。=At regular intervals, you can obtain the following items according to the levels you have cleared.
-記憶領域1層クリアで解放されます。=Clear the Phase 1 of Memory Domain to unlock it.
-r:"^次の報酬まで\n([0-9:]+)$"=Until next reward\n$1
-挑戦する難易度を変更できます。=You can change the challenge difficulty.
+r:"^(\d+)層$"=Giai đoạn $1
+r:"^記憶領域(\d+)層をクリアしよう$"=Hoàn thành Giai đoạn $1 của Lãnh địa Ký ức
+追憶戦宝箱詳細=Chi tiết Rương Ký ức
+一定時間ごとにクリア済みの階層に応じて\n以下のアイテムが獲得できます。=Theo khoảng thời gian nhất định, bạn có thể nhận được các vật phẩm sau tùy theo cấp độ bạn đã hoàn thành.
+記憶領域1層クリアで解放されます。=Hãy hoàn thành Giai đoạn 1 của Lãnh địa Ký ức để mở khóa.
+r:"^次の報酬まで\n([0-9:]+)$"=Cho đến phần thưởng tiếp theo\n$1
+挑戦する難易度を変更できます。=Bạn có thể thay đổi độ khó thử thách.
 
-毎月更新 究極錬成パック=Monthly Update Ultimate Synthesis Pack
-追憶戦・覇に挑戦しよう=Challenge the Reminiscence and Conquest
-追憶戦の報酬を受け取ろう=Receive the Reminiscence Battle Rewards
-サーヴァント・ブレド=Servant Blade
-サーヴァント・マギ=Servant Magi
+毎月更新 究極錬成パック=Gói Tổng hợp Tối thượng Cập nhật Hàng tháng
+追憶戦・覇に挑戦しよう=Thử thách Ký ức và Chinh phục
+追憶戦の報酬を受け取ろう=Nhận Phần thưởng Trận chiến Ký ức
+サーヴァント・ブレド=Lưỡi kiếm Tôi lệnh
+サーヴァント・マギ=Phép thuật Tôi lệnh

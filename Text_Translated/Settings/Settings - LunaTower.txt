@@ -1,16 +1,16 @@
-ルナの塔 通常階＆ボス階バトルスキップ=Luna Tower Normal Floor & Boss Floor Battle Skip
-ルナの塔の通常階とボス階で、パーティ決定直後スキップを行うか設定します。\n※スキップ中は、「AUTO」で戦闘が実行されます。=You can set whether to skip the party selection process on the normal\nand boss floors of Luna Tower immediately after the decision is made.\n※During the skip, battles will be executed automatically with "AUTO".
-通常階=Normal floors
-ボス階=Boss floor
-ルナの塔 回廊探索＆EX階バトルスキップ=Luna Tower Phantom Passage Search & EX Floor Battle Skip
-ルナの塔の回廊探索とEX階で、パーティ決定直後スキップを行うか設定します。\n※スキップ中は、「AUTO」で戦闘が実行されます。=You can set whether to skip the party selection process on the Phantom Passage\nand EX Boss floors of Luna Tower immediately after the decision is made.\n※During the skip, battles will be executed automatically with "AUTO".
-EX階=EX floor
-ルナの塔 バトルスキップ完了後のスキップ確認ダイアログ表示=Luna Tower Battle Skip After completing the skip check dialog display
-ルナの塔のバトルスキップ後のダイアログにて、スキップ選択時に確認ダイアログを表示するか設定します。\n※ボスEX階では、ダイアログは表示されません。=Setting to display a confirmation dialog when selecting to\nskip battles in the dialog box after the battle in the Luna Tower.\n※The dialog box will not be displayed on the Boss EX floor.
-ルナの塔 バトルスキップ完了後のリタイア確認ダイアログ表示=Retire confirmation dialog display after completing Luna Tower Battle Skip
-ルナの塔のバトルスキップ後のダイアログにて、スキップ選択時にリタイアを表示するか設定します。\n※ボスEX階では、ダイアログは表示されません。=Setting to display the "Retire" option when selecting "Skip"\nin the dialog box that appears after skipping battles in Luna Tower.\n※The dialog box will not be displayed on Boss EX floors."
-ルナの塔 バトルスキップ確認ダイアログ表示=Luna Tower Battle Skip Confirmation Dialog display
-ルナの塔にてバトルスキップを押したときに、確認ダイアログを表示するか設定します。=When you press the battle skip in the Luna Tower, set the confirmation dialog.
+ルナの塔 通常階＆ボス階バトルスキップ=Bỏ Qua Trận Đấu Tầng Thường & Tầng Boss Tháp Luna
+ルナの塔の通常階とボス階で、パーティ決定直後スキップを行うか設定します。\n※スキップ中は、「AUTO」で戦闘が実行されます。=Bạn có thể đặt việc bỏ qua bước chọn đội ngay sau khi quyết định trên các tầng thường và tầng boss của Tháp Luna.\n※Trong lúc bỏ qua, các trận đấu sẽ được thực hiện tự động với chế độ "AUTO".
+通常階=Tầng thường
+ボス階=Tầng boss
+ルナの塔 回廊探索＆EX階バトルスキップ=Bỏ Qua Trận Đấu Tầng Hư Ảo & Tầng EX Tháp Luna
+ルナの塔の回廊探索とEX階で、パーティ決定直後スキップを行うか設定します。\n※スキップ中は、「AUTO」で戦闘が実行されます。=Bạn có thể đặt việc bỏ qua bước chọn đội ngay sau khi quyết định trên các tầng Hư Ảo và tầng Boss EX của Tháp Luna.\n※Trong lúc bỏ qua, các trận đấu sẽ được thực hiện tự động với chế độ "AUTO".
+EX階=Tầng EX
+ルナの塔 バトルスキップ完了後のスキップ確認ダイアログ表示=Hiển Thị Hộp Thoại Xác Nhận Sau Khi Hoàn Thành Bỏ Qua Trận Đấu Tháp Luna
+ルナの塔のバトルスキップ後のダイアログにて、スキップ選択時に確認ダイアログを表示するか設定します。\n※ボスEX階では、ダイアログは表示されません。=Cài đặt hiển thị hộp thoại xác nhận khi chọn bỏ qua trận đấu trong hộp thoại sau trận đấu ở Tháp Luna.\n※Hộp thoại sẽ không được hiển thị ở tầng Boss EX.
+ルナの塔 バトルスキップ完了後のリタイア確認ダイアログ表示=Hiển Thị Hộp Thoại Xác Nhận Rút Sau Khi Hoàn Thành Bỏ Qua Trận Đấu Tháp Luna
+ルナの塔のバトルスキップ後のダイアログにて、スキップ選択時にリタイアを表示するか設定します。\n※ボスEX階では、ダイアログは表示されません。=Cài đặt hiển thị tùy chọn "Rút" khi chọn "Bỏ qua" trong hộp thoại xuất hiện sau khi bỏ qua trận đấu ở Tháp Luna.\n※Hộp thoại sẽ không được hiển thị ở các tầng Boss EX."
+ルナの塔 バトルスキップ確認ダイアログ表示=Hiển Thị Hộp Thoại Xác Nhận Bỏ Qua Trận Đấu Tháp Luna
+ルナの塔にてバトルスキップを押したときに、確認ダイアログを表示するか設定します。=Khi bạn nhấn bỏ qua trận đấu ở Tháp Luna, hãy đặt hộp thoại xác nhận.
 
 
 
@@ -25,41 +25,41 @@ EX階=EX floor
 
 ------
 
-バトル中、「バトル中継続物理攻撃力アップ」、「バトル中継続魔法攻撃力アップ」効果が発動する。=During battle, the effects “Continuous P.ATK Up (During Battle)” and “Continuous M.ATK Up (During Battle)” are activated.
+バトル中、「バトル中継続物理攻撃力アップ」、「バトル中継続魔法攻撃力アップ」効果が発動する。=Trong trận đấu, hiệu ứng “Tăng P.ATK Liên Tục (Trong Trận)” và “Tăng M.ATK Liên Tục (Trong Trận)” được kích hoạt.
 
-みんなのカレンダーのデータ保存設定=Everyone’s Calendar data save settings
-バトル中のダメージ数字の大きさ=Damage number size during battle
-バトル中に表示されるダメージの数字の大きさの設定です。=Sets the size of the damage numbers displayed during battle.
-バトル中の回復数字の大きさ=Recovery number size during battle
-バトル中に表示されるＨＰ・ＴＰ回復の数字の大きさの設定です。=Sets the size of the HP/TP recovery numbers displayed during battle.
-バトル中の数字の表示　ユニオンバースト=Number display during battle: Union Burst
-バトル中、ユニオンバーストで表示されるダメージやＨＰ・ＴＰ回復の数字の表示設定です。\n「全て表示」に設定するとダメージやＨＰ回復とＴＰ回復、全ての数字を表示します。=Sets the display of damage and HP/TP recovery numbers shown during Union Bursts in battle.\nIf set to “Show All,” all numbers for damage, HP recovery, and TP recovery will be displayed.
-ダメージのみ表示=Show damage only
-回復のみ表示=Show recovery only
-バトル中の数字の表示　ユニオンバースト以外=Number display during battle: Other than Union Burst
-バトル中、ユニオンバースト以外で表示されるダメージやＨＰ・ＴＰ回復の数字の表示設定です。\n「全て表示」に設定するとダメージやＨＰ回復とＴＰ回復、全ての数字を表示します。=Sets the display of damage and HP/TP recovery numbers shown during battle other than Union Bursts.\nIf set to “Show All,” all numbers for damage, HP recovery, and TP recovery will be displayed.
-バトル中の回復エフェクトの表示設定=Recovery effect display settings during battle
-バトル中に表示されるＨＰ・ＴＰ回復のエフェクトの表示設定です。\n　「表示する」に設定するとＨＰ回復とＴＰ回復のエフェクトを表示します。=Sets the display of HP/TP recovery effects during battle.\nIf set to “Show,” HP recovery and TP recovery effects will be displayed.
-バトル中のバフ・デバフエフェクトの表示設定=Buff/Debuff effect display settings during battle
-バトル中に表示されるバフ・デバフのエフェクトの表示設定です。\n　「表示する」に設定するとバフとデバフのエフェクトを表示します。=Sets the display of buff and debuff effects during battle.\nIf set to “Show,” buff and debuff effects will be displayed.
-75％で表示する=Display at 75%
-同じ名前のキャラを同一パーティ内に編成できるようにするかの設定です。\nアメスとフィオは同名キャラとして扱います。=Sets whether characters with the same name can be placed in the same party.\nAmes and Fio are treated as characters with the same name.
-ルナの塔 EX階バトルスキップ=Luna Tower EX Floor Battle Skip
-ルナの塔のEX階で、パーティ決定直後スキップを行うか設定します。\n※スキップ中は、「AUTO」で戦闘が実行されます。=Sets whether to skip immediately after party selection on EX floors of Luna Tower.\n*During skip, the battle is carried out on “AUTO.”
-EX装備おまかせ装備時の除外設定=Exclusion settings when using Auto-Equip for EX equipment
-「他キャラが装備中のEX装備を選択する」にチェックを入れた際に以下のEX装備を対象から除外します=When “Select EX equipment currently equipped by other characters” is checked, the following EX equipment will be excluded from selection.
-3パーティバトル中の、他キャラが装備しているもの=EX equipment equipped by other characters in 3-party battles
-アリーナの防衛に設定しているキャラが装備しているもの=EX equipment equipped by characters set for Arena defense
-サポートに設定しているキャラが装備しているもの=EX equipment equipped by characters set as Support
+みんなのカレンダーのデータ保存設定=Cài đặt lưu dữ liệu Lịch của mọi người
+バトル中のダメージ数字の大きさ=Kích thước số sát thương trong trận đấu
+バトル中に表示されるダメージの数字の大きさの設定です。=Đặt kích thước của các con số sát thương hiển thị trong trận đấu.
+バトル中の回復数字の大きさ=Kích thước số hồi phục trong trận đấu
+バトル中に表示されるＨＰ・ＴＰ回復の数字の大きさの設定です。=Đặt kích thước của các con số hồi phục HP/TP hiển thị trong trận đấu.
+バトル中の数字の表示　ユニオンバースト=Hiển thị số trong trận đấu: Union Burst
+バトル中、ユニオンバーストで表示されるダメージやＨＰ・ＴＰ回復の数字の表示設定です。\n「全て表示」に設定するとダメージやＨＰ回復とＴＰ回復、全ての数字を表示します。=Đặt việc hiển thị số sát thương và số hồi phục HP/TP trong Union Burst trong trận đấu.\nNếu đặt thành “Hiển thị tất cả”, tất cả các con số cho sát thương, hồi phục HP và hồi phục TP sẽ được hiển thị.
+ダメージのみ表示=Chỉ hiển thị sát thương
+回復のみ表示=Chỉ hiển thị hồi phục
+バトル中の数字の表示　ユニオンバースト以外=Hiển thị số trong trận đấu: Ngoài Union Burst
+バトル中、ユニオンバースト以外で表示されるダメージやＨＰ・ＴＰ回復の数字の表示設定です。\n「全て表示」に設定するとダメージやＨＰ回復とＴＰ回復、全ての数字を表示します。=Đặt việc hiển thị số sát thương và số hồi phục HP/TP trong trận đấu ngoài Union Burst.\nNếu đặt thành “Hiển thị tất cả”, tất cả các con số cho sát thương, hồi phục HP và hồi phục TP sẽ được hiển thị.
+バトル中の回復エフェクトの表示設定=Cài đặt hiển thị hiệu ứng hồi phục trong trận đấu
+バトル中に表示されるＨＰ・ＴＰ回復のエフェクトの表示設定です。\n　「表示する」に設定するとＨＰ回復とＴＰ回復のエフェクトを表示します。=Đặt việc hiển thị hiệu ứng hồi phục HP/TP trong trận đấu.\nNếu đặt thành “Hiển thị”, hiệu ứng hồi phục HP và TP sẽ được hiển thị.
+バトル中のバフ・デバフエフェクトの表示設定=Cài đặt hiển thị hiệu ứng Buff/Debuff trong trận đấu
+バトル中に表示されるバフ・デバフのエフェクトの表示設定です。\n　「表示する」に設定するとバフとデバフのエフェクトを表示します。=Đặt việc hiển thị hiệu ứng buff và debuff trong trận đấu.\nNếu đặt thành “Hiển thị”, hiệu ứng buff và debuff sẽ được hiển thị.
+75％で表示する=Hiển thị ở 75%
+同じ名前のキャラを同一パーティ内に編成できるようにするかの設定です。\nアメスとフィオは同名キャラとして扱います。=Đặt việc có thể đặt các nhân vật cùng tên vào cùng một đội hay không.\nAmes và Fio được tính là các nhân vật cùng tên.
+ルナの塔 EX階バトルスキップ=Bỏ Qua Trận Đấu Tầng EX Tháp Luna
+ルナの塔のEX階で、パーティ決定直後スキップを行うか設定します。\n※スキップ中は、「AUTO」で戦闘が実行されます。=Đặt việc bỏ qua ngay sau khi chọn đội ở các tầng EX của Tháp Luna.\n*Trong lúc bỏ qua, trận đấu được tiến hành ở chế độ “AUTO”.
+EX装備おまかせ装備時の除外設定=Cài đặt loại trừ khi sử dụng Tự Đồng Bộ EX equipment
+「他キャラが装備中のEX装備を選択する」にチェックを入れた際に以下のEX装備を対象から除外します=Khi tùy chọn “Chọn EX equipment hiện đang được trang bị bởi nhân vật khác” được đánh dấu, các EX equipment sau sẽ bị loại khỏi lựa chọn.
+3パーティバトル中の、他キャラが装備しているもの=EX equipment được trang bị bởi nhân vật khác trong trận 3 đội
+アリーナの防衛に設定しているキャラが装備しているもの=EX equipment được trang bị bởi nhân vật được đặt cho phòng thủ Đấu Trường
+サポートに設定しているキャラが装備しているもの=EX equipment được trang bị bởi nhân vật được đặt làm Hỗ Trợ
 
 
-ミニゲーム スキップの確認ダイアログ表示=Show confirmation dialog when skipping minigames
-ミニゲームでスキップを選択したとき、確認ダイアログを表示するか設定します。=Sets whether to display a confirmation dialog when selecting Skip in a minigame.
-みんなのゲームテーブルのデータ保存設定=Everyone’s Game Table data save settings
-ダウンロードした追加データを保存するか設定します。\n「保存しない」を選択すると、追加データはアプリ起動のたびに削除されます。=Sets whether to save downloaded additional data.\nIf “Do Not Save” is selected, the additional data will be deleted each time the app is launched.
+ミニゲーム スキップの確認ダイアログ表示=Hiển thị hộp thoại xác nhận khi bỏ qua minigame
+ミニゲームでスキップを選択したとき、確認ダイアログを表示するか設定します。=Thiết lập có hiển thị hộp thoại xác nhận khi chọn Bỏ qua trong mini-game hay không.
+みんなのゲームテーブルのデータ保存設定=Cài đặt lưu dữ liệu Bàn Của Mọi Người
+ダウンロードした追加データを保存するか設定します。\n「保存しない」を選択すると、追加データはアプリ起動のたびに削除されます。=Thiết lập có lưu dữ liệu bổ sung đã tải xuống hay không.\nNếu chọn "Không lưu", dữ liệu bổ sung sẽ bị xóa mỗi khi khởi động ứng dụng.
 
-黎明界ラビリンス設定=Dawnrealm Labyrinth settings
-黎明界ラビリンスが解放されている状態でラビリンスパスポートを所持しているとき予定帳に表示するかどうかを設定できます。=Sets whether to display the Dawnrealm Labyrinth in the Schedule when it is unlocked and you possess a Labyrinth Passport.
-コラボレイドイベントのデイリーミッションを達成していないとき、予定帳に表示するかを設定できます。=Sets whether to display the Collaboration Raid Event daily missions in the Schedule when they have not been completed.
-コラボレイドイベントのデイリーミッション設定=Collaboration Raid Event daily mission settings
+黎明界ラビリンス設定=Cài đặt Mê Cung Bình Minh
+黎明界ラビリンスが解放されている状態でラビリンスパスポートを所持しているとき予定帳に表示するかどうかを設定できます。=Thiết lập có hiển thị Mê Cung Bình Minh trong Lịch trình hay không khi nó đã được mở khóa và bạn sở hữu Hộ Chiếu Mê Cung.
+コラボレイドイベントのデイリーミッションを達成していないとき、予定帳に表示するかを設定できます。=Thiết lập có hiển thị nhiệm vụ hàng ngày của Sự Kiện Đoàn Đột Kết Hợp trong Lịch trình hay không khi chúng chưa được hoàn thành.
+コラボレイドイベントのデイリーミッション設定=Cài đặt nhiệm vụ hàng ngày Sự Kiện Đoàn Đột Kết Hợp
 

@@ -1,102 +1,102 @@
-プリンセスアリーナコイン=Princess Arena Coin
-アリーナコイン=Battle Arena Coin
-ダンジョンコイン=Dungeon Coin
-マスターコイン=Master Coin
-クランコイン=Clan Coin
-アルケスコイン=Alces coin
-コネクトコイン=Connect coin
+プリンセスアリーナコイン=Xu Đấu trường Công chúa
+アリーナコイン=Xu Đấu trường Chiến đấu
+ダンジョンコイン=Xu Hầm ngục
+マスターコイン=Xu Bậc thầy
+クランコイン=Xu Gia tộc
+アルケスコイン=Xu Alces
+コネクトコイン=Xu Kết nối
 
-スタミナ=Stamina
+スタミナ=Thể lực
 マナ=Mana
-ルピ=Rupies
-ジュエル=Jewel
-プレイヤー経験値=Player Exp
-ランダム装備BOX=Random Equipment BOX
-みんなでお花見=Everyone cherry blossom viewing
-みんなの好きなもの=Everyone's favorite
+ルピ=Rupie
+ジュエル=Ngọc
+プレイヤー経験値=Kinh nghiệm người chơi
+ランダム装備BOX=Hộp Trang bị Ngẫu nhiên
+みんなでお花見=Mọi người đi ngắm hoa anh đào
+みんなの好きなもの=Món yêu thích của mọi người
 
 
 
 
 
-討伐依頼証=Hunting Ticket
-深淵討伐戦期間中に入手できる証。\n消費してボスバトルに挑戦できる。=Proof that can be obtained during the Abyss Battle period. \n Use it to challenge the boss battle.
-ランダムなアストラルスフィアが獲得できる。=Random Astral Spheres can be obtained.
-ランダムアストラルスフィアBOX=Random Astral Sphere Box
-アストラルの顕在化により発生したマスターピースの欠片。互いに引きあう性質を持ち複数を集めることで合体し、マスターピースとなる。=Fragments of Masterpieces created by the manifestation of Astral. They attract each other, so by collecting multiple pieces, they combine to become a Masterpiece.
+討伐依頼証=Vé Săn bắn
+深淵討伐戦期間中に入手できる証。\n消費してボスバトルに挑戦できる。=Bằng chứng có thể nhận được trong thời kỳ Trận chiến Vực thẳm. \n Dùng nó để thử thách trận chiến với boss.
+ランダムなアストラルスフィアが獲得できる。=Có thể nhận được Hộp Cầu vồng Astral ngẫu nhiên.
+ランダムアストラルスフィアBOX=Hộp Cầu vồng Astral Ngẫu nhiên
+アストラルの顕在化により発生したマスターピースの欠片。互いに引きあう性質を持ち複数を集めることで合体し、マスターピースとなる。=Mảnh của Kiệt tác được tạo ra từ sự hiện hình của Astral. Chúng thu hút lẫn nhau, vì vậy bằng cách thu thập nhiều mảnh, chúng kết hợp lại thành một Kiệt tác.
 
-ハロウィンパーティ=Halloween party
+ハロウィンパーティ=Tiệc Halloween
 
-イベント期間中にモンスターを討伐した証。集めて討伐証交換ができる。=Proof of defeating monsters during the event period. You can collect them and exchange them for subjugation certificates.
-イベント期間中に入手できるチケット。消費してボスバトルに挑戦できる。=Tickets available during the event period. Spend to challenge the boss battle.
+イベント期間中にモンスターを討伐した証。集めて討伐証交換ができる。=Bằng chứng đánh bại quái vật trong thời gian sự kiện. Bạn có thể thu thập chúng và đổi lấy chứng nhận tiêu diệt.
+イベント期間中に入手できるチケット。消費してボスバトルに挑戦できる。=Vé có sẵn trong thời gian sự kiện. Tiêu hao để thử thách trận chiến với boss.
 
-プレイヤーLvを最大まで高めた者のみが獲得できる特別な通貨。マスターショップで買い物ができる。=A special currency that can only be earned by those who have raised the player Lv to the maximum.\nYou can shop at the Master Shop.
-この世界での衣食住に不可欠なアストルムの流通通貨。ギルドハウスのショップで買い物ができる。=Astrum's currency, which is indispensable for food, clothing and shelter in this world.\nYou can shop at Guildhouse Shop.
-バトルアリーナに挑戦した者のみが獲得できる特別な通貨。アリーナショップで買い物ができる。=A special currency that can only be earned by those who challenge the battle arena.\nYou can shop at Arena Shop.
-プリンセスアリーナに挑戦した者のみが獲得できる特別な通貨。Pアリーナショップで買い物ができる。=A special currency that can only be earned by those who challenge the Princess Arena.\nYou can shop at P Arena shop.
-様々な物質に宿る力の源で、キャラの成長には欠かせない。ショップで買い物もできる。=It is a source of power that resides in various substances and is indispensable for the growth of characters.\nYou can also use it at the shop.
-ダンジョンに挑戦した者のみが獲得できる特別な通貨。ダンジョンショップで買い物ができる。=A special currency that only those who challenged the dungeon acquire.\nYou can shop at Dungeon Shop.
-クランバトルに挑戦した者のみが獲得できる特別な通貨。クランショップで買い物ができる。=A special currency that can only be obtained by those who challenge Clan Battles. You can shop at Clan Shops.
+プレイヤーLvを最大まで高めた者のみが獲得できる特別な通貨。マスターショップで買い物ができる。=Một loại tiền tệ đặc biệt chỉ có thể nhận được bởi những người đã nâng cấp Lv người chơi lên tối đa.\nBạn có thể mua sắm tại Cửa hàng Chủ nhân.
+この世界での衣食住に不可欠なアストルムの流通通貨。ギルドハウスのショップで買い物ができる。=Tiền tệ của Astrum, không thể thiếu cho ăn, mặc, ở trong thế giới này.\nBạn có thể mua sắm tại Cửa hàng Guildhouse.
+バトルアリーナに挑戦した者のみが獲得できる特別な通貨。アリーナショップで買い物ができる。=Một loại tiền tệ đặc biệt chỉ có thể nhận được bởi những người tham gia đấu trường.\nBạn có thể mua sắm tại Cửa hàng Arena.
+プリンセスアリーナに挑戦した者のみが獲得できる特別な通貨。Pアリーナショップで買い物ができる。=Một loại tiền tệ đặc biệt chỉ có thể nhận được bởi những người tham gia Princess Arena.\nBạn có thể mua sắm tại Cửa hàng P Arena.
+様々な物質に宿る力の源で、キャラの成長には欠かせない。ショップで買い物もできる。=Đây là nguồn sức mạnh tồn tại trong nhiều chất liệu và không thể thiếu cho sự phát triển của nhân vật.\nBạn cũng có thể sử dụng chúng tại cửa hàng.
+ダンジョンに挑戦した者のみが獲得できる特別な通貨。ダンジョンショップで買い物ができる。=Một loại tiền tệ đặc biệt chỉ có thể nhận được bởi những người thách thức Dungeon.\nBạn có thể mua sắm tại Cửa hàng Dungeon.
+クランバトルに挑戦した者のみが獲得できる特別な通貨。クランショップで買い物ができる。=Một loại tiền tệ đặc biệt chỉ có thể nhận được bởi những người tham gia Clan Battles. Bạn có thể mua sắm tại Cửa hàng Clan.
 
-EX装備(アクセサリー)を分解するこ\nとで獲得できる特別な通貨。EX装備\nショップで買い物ができる。=A special currency obtained by dismantling EX equipment (accessory). You can shop at EX equipment shops.
-EX装備(防具)を分解することで獲得\nできる特別な通貨。EX装備ショップ\nで買い物ができる。=A special currency obtained by dismantling EX equipment (armor). You can shop at EX equipment shops.
-EX装備(武器)を分解することで獲得\nできる特別な通貨。EX装備ショップ\nで買い物ができる。=A special currency obtained by dismantling EX equipment (weapon). You can shop at EX equipment shops.
+EX装備(アクセサリー)を分解するこ\nとで獲得できる特別な通貨。EX装備\nショップで買い物ができる。=Tiền tệ đặc biệt nhận được từ việc tháo dỡ thiết bị EX (phụ kiện). Bạn có thể mua sắm tại các cửa hàng thiết bị EX.
+EX装備(防具)を分解することで獲得\nできる特別な通貨。EX装備ショップ\nで買い物ができる。=Tiền tệ đặc biệt nhận được từ việc tháo dỡ thiết bị EX (giáp). Bạn có thể mua sắm tại các cửa hàng thiết bị EX.
+EX装備(武器)を分解することで獲得\nできる特別な通貨。EX装備ショップ\nで買い物ができる。=Tiền tệ đặc biệt nhận được từ việc tháo dỡ thiết bị EX (vũ khí). Bạn có thể mua sắm tại các cửa hàng thiết bị EX.
 
 
-銅枠（RANK2～4）のRANK装備作成時に必要な欠片・設計図の代用として使える、貴重な資材。=A valuable material that can be used as a substitute for the fragments and blueprints required when creating RANK equipment (RANK 2-4).
-銀枠（RANK3～8）のRANK装備作成時に必要な欠片・設計図の代用として使える、貴重な資材。=A valuable material that can be used as a substitute for the fragments and blueprints required when creating RANK equipment for silver frames (RANK 3-8).
-金枠（RANK6～11）のRANK装備作成時に必要な欠片・設計図の代用として使える、貴重な資材。=A valuable material that can be used as a substitute for the fragments and blueprints required when creating RANK equipment for gold frames (RANK 6-11).
-紫枠（RANK10～18）のRANK装備作成時に必要な欠片・設計図の代用として使える、貴重な資材。=A valuable material that can be used as a substitute for the fragments and blueprints required when creating RANK equipment for purple frames (RANK10-18).
-赤枠（RANK17～21）のRANK装備作成時に必要な欠片・設計図の代用として使える、貴重な資材。=A valuable material that can be used as a substitute for the fragments and blueprints required when creating RANK equipment for red frames (RANK17-21).
-緑枠（RANK20～24）のRANK装備作成時に必要な欠片・設計図の代用として使える、貴重な資材。=A valuable material that can be used as a substitute for the fragments and blueprints required when creating RANK equipment for green frames (RANK20-24).
-橙枠（RANK23～28）のRANK装備作成時に必要な欠片・設計図の代用として使える、貴重な資材。=A valuable material that can be used as a substitute for the fragments and blueprints required when creating RANK equipment for orange frames (RANK23-28).
-空枠（RANK27～32）のRANK装備作成時に必要な欠片・設計図の代用として使える、貴重な資材。=A valuable material that can be used as a substitute for the pieces and blueprints required when creating RANK equipment for Sky-blue frames (RANK27-32).
-桃枠（RANK31～36）のRANK装備作成時に必要な欠片・設計図の代用として使える、貴重な資材。=A valuable material that can be used as a substitute for the pieces and blueprints required when creating RANK equipment for pink frames (RANK31-36).
+銅枠（RANK2～4）のRANK装備作成時に必要な欠片・設計図の代用として使える、貴重な資材。=Một nguyên liệu quý giá có thể dùng thay thế cho mảnh vỡ và bản vẽ cần thiết khi chế tạo thiết bị RANK (RANK 2-4).
+銀枠（RANK3～8）のRANK装備作成時に必要な欠片・設計図の代用として使える、貴重な資材。=Một nguyên liệu quý giá có thể dùng thay thế cho mảnh vỡ và bản vẽ cần thiết khi chế tạo thiết bị RANK cho khung bạc (RANK 3-8).
+金枠（RANK6～11）のRANK装備作成時に必要な欠片・設計図の代用として使える、貴重な資材。=Một nguyên liệu quý giá có thể dùng thay thế cho mảnh vỡ và bản vẽ cần thiết khi chế tạo thiết bị RANK cho khung vàng (RANK 6-11).
+紫枠（RANK10～18）のRANK装備作成時に必要な欠片・設計図の代用として使える、貴重な資材。=Một nguyên liệu quý giá có thể dùng thay thế cho mảnh vỡ và bản vẽ cần thiết khi chế tạo thiết bị RANK cho khung tím (RANK10-18).
+赤枠（RANK17～21）のRANK装備作成時に必要な欠片・設計図の代用として使える、貴重な資材。=Một nguyên liệu quý giá có thể dùng thay thế cho mảnh vỡ và bản vẽ cần thiết khi chế tạo thiết bị RANK cho khung đỏ (RANK17-21).
+緑枠（RANK20～24）のRANK装備作成時に必要な欠片・設計図の代用として使える、貴重な資材。=Một nguyên liệu quý giá có thể dùng thay thế cho mảnh vỡ và bản vẽ cần thiết khi chế tạo thiết bị RANK cho khung xanh lá (RANK20-24).
+橙枠（RANK23～28）のRANK装備作成時に必要な欠片・設計図の代用として使える、貴重な資材。=Một nguyên liệu quý giá có thể dùng thay thế cho mảnh vỡ và bản vẽ cần thiết khi chế tạo thiết bị RANK cho khung cam (RANK23-28).
+空枠（RANK27～32）のRANK装備作成時に必要な欠片・設計図の代用として使える、貴重な資材。=Một nguyên liệu quý giá có thể dùng thay thế cho mảnh và bản vẽ cần thiết khi chế tạo thiết bị RANK cho khung xanh da trời (RANK27-32).
+桃枠（RANK31～36）のRANK装備作成時に必要な欠片・設計図の代用として使える、貴重な資材。=Một nguyên liệu quý giá có thể dùng thay thế cho mảnh và bản vẽ cần thiết khi chế tạo thiết bị RANK cho khung hồng (RANK31-36).
 
-EX★5装備を分解することで獲得できる特別な通貨。EX装備ショップでEX★5装備と交換ができる。=A special currency that can be acquired by dismantling EX★5 equipment. It can be exchanged for EX★5 equipment at the EX Equipment Shop.
-EX装備の錬成に使用することができる。=Can be used to Synthesis EX equipment.
-ランダムなEX★5装備が獲得できる。=Random EX★5 equipment can be obtained.
+EX★5装備を分解することで獲得できる特別な通貨。EX装備ショップでEX★5装備と交換ができる。=Một loại tiền tệ đặc biệt có thể nhận được từ việc tháo dỡ thiết bị EX★5. Có thể đổi lấy thiết bị EX★5 tại Cửa hàng Thiết bị EX.
+EX装備の錬成に使用することができる。=Có thể dùng để Tổng hợp thiết bị EX.
+ランダムなEX★5装備が獲得できる。=Có thể nhận được thiết bị EX★5 ngẫu nhiên.
 ランダムEX★5装備BOX=ランダムEX★5装備BOX
 
-虹色に輝く不思議な力をまとった宝石。=A jewel with a mysterious rainbow-colored power.
+虹色に輝く不思議な力をまとった宝石。=Một viên ngọc với sức mạnh cầu vồng bí ẩn.
 
-ランダムな原鉱が獲得できる。=You can get a random original ore.
+ランダムな原鉱が獲得できる。=Bạn có thể nhận được một quặng nguyên thạch ngẫu nhiên.
 ランダム原鉱BOX=Random Original Ore Box
 
-ランダムなEXPポーションが獲得できる。=Random EXP potions can be obtained.
+ランダムなEXPポーションが獲得できる。=Có thể nhận được các loại rượu tăng EXP ngẫu nhiên.
 ランダムEXPポーションBOX=Random EXP Potion BOX
 
-EX装備の強化に使用すると、強化Ptが1加算される。=When used to enhance the EX equipment, 1 enhanced PT is added.
-オーマ地域振興ポスター『新春トゥンヌス釣上図柄』=New Year Tuna Fishing Poster for Ohma Regional Development
-王宮騎士団×ランフェス求人ポスター=Royal Knights' Lan-Fest Recruitment Poster
-ストーリー閲覧で獲得したアイテムです。=It's an item obtained from reading the story.
-『ナッシュカッツェ』の招き猫=Nashkatze's Maneki Neko
+EX装備の強化に使用すると、強化Ptが1加算される。=Khi dùng để nâng cấp thiết bị EX, sẽ thêm 1 điểm nâng cấp.
+オーマ地域振興ポスター『新春トゥンヌス釣上図柄』=Áp phích Câu Cá Ngừ Tết cho Phát triển Vùng Ohma
+王宮騎士団×ランフェス求人ポスター=Áp phích Tuyển dụng Lễ hội của Hiệp sĩ Hoàng gia
+ストーリー閲覧で獲得したアイテムです。=Đây là một vật phẩm nhận được từ việc đọc câu chuyện.
+『ナッシュカッツェ』の招き猫=Con Mèo May Mắn của Nashkatze
 
-マイページに設定できるフレーム画像。=Frame drawing that can be set on Home.
-オーマ地域振興ポスター『新春トゥンヌス釣上図柄』=New Year Tuna Fishing Poster for Ohma Regional Development
-カスタムマイページのフレーム=Custom Home's frame
-銀だこハイボール酒場コラボ記念カスタムマイページ=Gindako Highball Tavern Collaboration Commemorative Custom My Page
+マイページに設定できるフレーム画像。=Tranh khung có thể đặt tại Trang chủ.
+オーマ地域振興ポスター『新春トゥンヌス釣上図柄』=Áp phích Câu Cá Ngừ Tết cho Phát triển Vùng Ohma
+カスタムマイページのフレーム=Khung trang trí Trang chủ Tùy chỉnh
+銀だこハイボール酒場コラボ記念カスタムマイページ=Trang My Page Tùy chỉnh kỷ niệm hợp tác Quán Rượu Gindako Highball
 
-TANITAコラボ記念カスタムマイページ=Custom My Page to commemorate the Tanita collaboration
-TANITAコラボログイン=TANITA Collab log in
+TANITAコラボ記念カスタムマイページ=Trang My Page Tùy chỉnh kỷ niệm hợp tác Tanita
+TANITAコラボログイン=Đăng nhập hợp tác TANITA
 
-7周年記念カスタムマイページ=7th Anniversary Custom My Page
-追想のデフラグ カスタムマイページ=Remarkable defragmentation custom My page
-豊島園 庭の湯コラボ記念カスタムマイページ　クロエ=Toshimaen Garden Spa for Smoother Readability Custom My Page: Chloe
-豊島園 庭の湯コラボ記念カスタムマイページ　チエル=Toshimaen Garden Spa for Smoother Readability Custom My Page: Chieru
-豊島園 庭の湯コラボ記念カスタムマイページ　ユニ=Toshimaen Garden Spa for Smoother Readability Custom My Page: Yuni
-豊島園 庭の湯コラボ記念カスタムマイページ　【なかよし部】=Toshimaen Garden Spa for Smoother Readability Custom My Page: [Nakayoshi Club]
+7周年記念カスタムマイページ=Trang My Page Tùy chỉnh Kỷ niệm 7 Năm
+追想のデフラグ カスタムマイページ=Trang My Page Tùy chỉnh Phân mảnh đáng kể
+豊島園 庭の湯コラボ記念カスタムマイページ　クロエ=Trang My Page Tùy chỉnh Toshimaen Garden Spa for Smoother Readability: Chloe
+豊島園 庭の湯コラボ記念カスタムマイページ　チエル=Trang My Page Tùy chỉnh Toshimaen Garden Spa for Smoother Readability: Chieru
+豊島園 庭の湯コラボ記念カスタムマイページ　ユニ=Trang My Page Tùy chỉnh Toshimaen Garden Spa for Smoother Readability: Yuni
+豊島園 庭の湯コラボ記念カスタムマイページ　【なかよし部】=Trang My Page Tùy chỉnh Toshimaen Garden Spa for Smoother Readability: [Câu lạc bộ Bạn bè]
 
 
-主さま、カスタムマイページのフレームを獲得いたしましたよ。\nフレームを設定してマイページを飾ってみましょう。=My Lord, we have won the custom My page frame. Set the frame and decorate your page.
+主さま、カスタムマイページのフレームを獲得いたしましたよ。\nフレームを設定してマイページを飾ってみましょう。=Thưa ngài, chúng ta đã chiến thắng, nhận được khung trang trí My Page. Hãy đặt khung và trang trí trang của ngài.
 
-アストラルスフィア=Astral Sphere
-世界を構成している属性の力であるアストラルの結晶。内に秘めた属性が未分化の不安定な状態ゆえに励起されると莫大な属性の力を放つ。=An astral crystal that is the power of the attributes that make up the world. Because the attributes hidden within are in an undifferentiated and unstable state, when they are excited, they release an enormous amount of attribute power.
-世界を構成している属性の力であるアストラルのうち闇の属性が結晶化した宝玉。使用することで対応する属性を活性化させることができる。=A crystallized orb composed of the dark elements of astral that make up the world. By using it, you can activate the corresponding element.
-世界を構成している属性の力であるアストラルのうち光の属性が結晶化した宝玉。使用することで対応する属性を活性化させることができる。=A crystallized orb composed of the light elements of astral that make up the world. By using it, you can activate the corresponding element.
-世界を構成している属性の力であるアストラルのうち風の属性が結晶化した宝玉。使用することで対応する属性を活性化させることができる。=A crystallized orb composed of the wind elements of astral that make up the world. By using it, you can activate the corresponding element.
-世界を構成している属性の力であるアストラルのうち水の属性が結晶化した宝玉。使用することで対応する属性を活性化させることができる。=A crystallized orb composed of the water elements of astral that make up the world. By using it, you can activate the corresponding element.
-世界を構成している属性の力であるアストラルのうち火の属性が結晶化した宝玉。使用することで対応する属性を活性化させることができる。=A crystallized orb composed of the fire elements of astral that make up the world. By using it, you can activate the corresponding element.
+アストラルスフィア=Cầu vồng Tinh thể
+世界を構成している属性の力であるアストラルの結晶。内に秘めた属性が未分化の不安定な状態ゆえに励起されると莫大な属性の力を放つ。=Một tinh thể cầu vồng là sức mạnh của các thuộc tính cấu thành nên thế giới. Vì các thuộc tính ẩn bên trong đang ở trạng thái chưa phân hóa và bất ổn, khi được kích thích, chúng giải phóng một lượng lớn sức mạnh thuộc tính.
+世界を構成している属性の力であるアストラルのうち闇の属性が結晶化した宝玉。使用することで対応する属性を活性化させることができる。=Một quả cầu tinh thể kết tụ từ các yếu tố bóng tối của cầu vồng cấu thành nên thế giới. Bằng cách sử dụng nó, bạn có thể kích hoạt phần tử tương ứng.
+世界を構成している属性の力であるアストラルのうち光の属性が結晶化した宝玉。使用することで対応する属性を活性化させることができる。=Một quả cầu tinh thể kết tụ từ các yếu tố ánh sáng của cầu vồng cấu thành nên thế giới. Bằng cách sử dụng nó, bạn có thể kích hoạt phần tử tương ứng.
+世界を構成している属性の力であるアストラルのうち風の属性が結晶化した宝玉。使用することで対応する属性を活性化させることができる。=Một quả cầu tinh thể được tạo thành từ các yếu tố gió của axtral cấu thành nên thế giới. Bằng cách sử dụng nó, bạn có thể kích hoạt yếu tố tương ứng.
+世界を構成している属性の力であるアストラルのうち水の属性が結晶化した宝玉。使用することで対応する属性を活性化させることができる。=Một quả cầu tinh thể được tạo thành từ các yếu tố nước của axtral cấu thành nên thế giới. Bằng cách sử dụng nó, bạn có thể kích hoạt yếu tố tương ứng.
+世界を構成している属性の力であるアストラルのうち火の属性が結晶化した宝玉。使用することで対応する属性を活性化させることができる。=Một quả cầu tinh thể được tạo thành từ các yếu tố lửa của axtral cấu thành nên thế giới. Bằng cách sử dụng nó, bạn có thể kích hoạt yếu tố tương ứng.
 
 ---Dedicated Ring---
-sr:"^([べ-ヺー＆＝]+)(（.+）)?\s?専用リング$"=Dedicated $1$2's Ring
+sr:"^([べ-ヺー＆＝]+)(（.+）)?\s?専用リング$"=Nhẫn dành riêng cho $1$2

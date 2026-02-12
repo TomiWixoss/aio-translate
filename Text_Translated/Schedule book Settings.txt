@@ -1,85 +1,85 @@
-予定の整理=Schedule Book Settings
-イベントのデイリーミッション設定=Event Daily Mission Setting
-開催中のイベントのデイリーミッションが達成済みで、報酬を受け取っていないものがあるとき\n予定帳に表示するかどうかを設定できます。=You can set whether or not the schedule displays a task for completed daily event missions\nwith unclaimed rewards.
+予定の整理=Cài đặt Sổ lịch trình
+イベントのデイリーミッション設定=Cài đặt Nhiệm vụ Hàng ngày Sự kiện
+開催中のイベントのデイリーミッションが達成済みで、報酬を受け取っていないものがあるとき\n予定帳に表示するかどうかを設定できます。=Bạn có thể thiết lập xem lịch trình có hiển thị nhiệm vụ cho các nhiệm vụ hàng ngày sự kiện đã hoàn thành\nvà chưa nhận thưởng hay không.
 
-イベントボス設定=Event Boss Setting
-イベントボス（VERY HARD）を討伐していないときに予定帳に表示するかどうかを設定できます。\n開催中のイベントが無い、イベントボス（VERY HARD）が未解放の場合は設定によらず表示されません。\n複数のイベントが平行して開催されている場合はイベントごとに表示されます。=You can set whether or not the schedule displays a task for an undefeated event boss (VERY HARD).\nIf there is no event in progress or the event boss (VERY HARD) isn't unlocked,\nit won't be displayed regardless of this setting.\nIf multiple events are held in parallel, there will be one task for each event.
+イベントボス設定=Cài đặt Trùm Sự kiện
+イベントボス（VERY HARD）を討伐していないときに予定帳に表示するかどうかを設定できます。\n開催中のイベントが無い、イベントボス（VERY HARD）が未解放の場合は設定によらず表示されません。\n複数のイベントが平行して開催されている場合はイベントごとに表示されます。=Bạn có thể thiết lập xem lịch trình có hiển thị nhiệm vụ cho trùm sự kiện chưa bị đánh bại (RẤT KHÓ) hay không.\nNếu không có sự kiện nào đang diễn ra hoặc trùm sự kiện (RẤT KHÓ) chưa được mở khóa,\nnó sẽ không được hiển thị bất kể thiết lập này.\nNếu nhiều sự kiện được tổ chức song song, sẽ có một nhiệm vụ cho mỗi sự kiện.
 
-通常ショップ設定=Normal Shop Settings
-通常ショップで購入されていないアイテムがある場合、予定帳に表示するかどうかを設定できます。=You can set a task for purchasing items in the Normal Shop.
+通常ショップ設定=Cài đặt Cửa hàng Thường
+通常ショップで購入されていないアイテムがある場合、予定帳に表示するかどうかを設定できます。=Bạn có thể thiết lập một nhiệm vụ để mua vật phẩm trong Cửa hàng Thường.
 
-通常ショップ詳細設定=Normal Shop Detailed Settings
-通常ショップに指定したアイテムに購入していないものがある場合、予定帳に表示する設定ができます。\n「通常ショップ設定」の項目で「表示しない」設定にしている場合は購入の有無によらず表示されません。=You can set a task for a specific type of item in the Normal Shop that hasn't been purchased.\nIf you have set "Normal Shop Settings" to "Do not display", it will not be displayed regardless of this setting.
+通常ショップ詳細設定=Cài đặt Chi tiết Cửa hàng Thường
+通常ショップに指定したアイテムに購入していないものがある場合、予定帳に表示する設定ができます。\n「通常ショップ設定」の項目で「表示しない」設定にしている場合は購入の有無によらず表示されません。=Bạn có thể thiết lập một nhiệm vụ cho một loại vật phẩm cụ thể trong Cửa hàng Thường chưa được mua.\nNếu bạn đã thiết lập "Cài đặt Cửa hàng Thường" thành "Không hiển thị", nó sẽ không được hiển thị bất kể thiết lập này.
 
-限定ショップ設定=Bonus Shop Settings
-限定ショップで購入されていないアイテムがある場合、予定帳に表示するかどうかを設定できます。=You can set a task for purchasing items in the Bonus Shop.
+限定ショップ設定=Cài đặt Cửa hàng Thưởng
+限定ショップで購入されていないアイテムがある場合、予定帳に表示するかどうかを設定できます。=Bạn có thể thiết lập một nhiệm vụ để mua vật phẩm trong Cửa hàng Thưởng.
 
-限定ショップ詳細設定=Bonus Shop Details Settings
-限定ショップに指定したアイテムに購入していないものがある場合、予定帳に表示する設定ができます。\n「限定ショップ設定」の項目で「表示しない」設定にしている場合は購入の有無によらず表示されません。=You can set a task to purchase a specific type of item in the Bonus Shop.\nIf you have set "Bonus Shop Settings" to "Do not display", it will not be shown regardless of this setting.
+限定ショップ詳細設定=Cài Đặt Chi Tiết Cửa Hàng Phần Thưởng
+限定ショップに指定したアイテムに購入していないものがある場合、予定帳に表示する設定ができます。\n「限定ショップ設定」の項目で「表示しない」設定にしている場合は購入の有無によらず表示されません。=Bạn có thể đặt một nhiệm vụ để mua một loại vật phẩm cụ thể trong Cửa Hàng Phần Thưởng.\nNếu bạn đã đặt "Cài Đặt Cửa Hàng Phần Thưởng" thành "Không Hiển Thị", nó sẽ không được hiển thị bất kể thiết lập này.
 
-ダンジョン設定=Dungeon Settings
-ダンジョンの挑戦回数が残っているとき予定帳からスキップ可能にするか、表示するか設定できます。=You can set a task that will attempt or skip Dungeon if you still have attempts remaining.
+ダンジョン設定=Cài Đặt Hầm Ngục
+ダンジョンの挑戦回数が残っているとき予定帳からスキップ可能にするか、表示するか設定できます。=Bạn có thể đặt một nhiệm vụ sẽ cố gắng thử hoặc bỏ qua Hầm Ngục nếu bạn vẫn còn lượt thử.
 
-スペシャルダンジョン開催中詳細設定=Special Dungeon Detailed Settings
-スペシャルダンジョン開催中にダンジョンの挑戦回数が残っているとき\n予定帳からダンジョンをスキップ可能にするか表示するかを設定できます。\n「ダンジョン設定」の項目で「表示する」設定にしている場合はスキップできません。\n「ダンジョン設定」の項目で「表示しない」設定にしている場合はスキップできず表示もされません。=You can set a task that will attempt or skip Special Dungeon if you still have attempts remaining.\nYou cannot skip it if you set "Display" for "Dungeon Settings".\nIf you set "Do not display" for "Dungeon Settings", it will not be shown regardless of this setting.
-ダンジョンの挑戦回数が残っているとき予定帳からスキップ可能にするか、表示するか設定できます。\nスキップの設定であってもスペシャルダンジョンの開催期間中はスキップできません。=When there are remaining dungeon challenge attempts,\nyou can set whether to enable skipping from the schedule or just display it.\nEven if set to enable skipping, skipping is not possible during the special dungeon event period.
+スペシャルダンジョン開催中詳細設定=Cài Đặt Chi Tiết Hầm Ngục Đặc Biệt
+スペシャルダンジョン開催中にダンジョンの挑戦回数が残っているとき\n予定帳からダンジョンをスキップ可能にするか表示するかを設定できます。\n「ダンジョン設定」の項目で「表示する」設定にしている場合はスキップできません。\n「ダンジョン設定」の項目で「表示しない」設定にしている場合はスキップできず表示もされません。=Bạn có thể đặt một nhiệm vụ sẽ cố gắng thử hoặc bỏ qua Hầm Ngục Đặc Biệt nếu bạn vẫn còn lượt thử.\nBạn không thể bỏ qua nếu bạn đặt "Hiển Thị" cho "Cài Đặt Hầm Ngục".\nNếu bạn đặt "Không Hiển Thị" cho "Cài Đặt Hầm Ngục", nó sẽ không được hiển thị bất kể thiết lập này.
+ダンジョンの挑戦回数が残っているとき予定帳からスキップ可能にするか、表示するか設定できます。\nスキップの設定であってもスペシャルダンジョンの開催期間中はスキップできません。=Khi còn lượt thử hầm ngục,\nbạn có thể đặt liệu có cho phép bỏ qua từ lịch trình hay chỉ hiển thị nó.\nNgay cả khi đặt để cho phép bỏ qua, việc bỏ qua là không thể trong thời gian sự kiện hầm ngục đặc biệt.
 
-追憶戦報酬受け取り設定=Reminiscence Battle Reward Collection Setting
-追憶戦の報酬を受け取っていないとき\n予定帳から報酬を受け取れるようにするか、表示するか設定できます。\n記憶領域1層をクリアしていない場合は設定によらず表示されません。=When there are uncollected rewards from Reminiscence Battles,\nyou can set whether to enable collecting rewards from the schedule or just display it.\nIf you have not cleared Memory Area Floor 1, it will not be displayed regardless of the setting.
+追憶戦報酬受け取り設定=Cài Đặt Thu Thập Phần Thưởng Trận Chiến Hồi Ức
+追憶戦の報酬を受け取っていないとき\n予定帳から報酬を受け取れるようにするか、表示するか設定できます。\n記憶領域1層をクリアしていない場合は設定によらず表示されません。=Khi có phần thưởng chưa thu thập từ Trận Chiến Hồi Ức,\nbạn có thể đặt liệu có cho phép thu thập phần thưởng từ lịch trình hay chỉ hiển thị nó.\nNếu bạn chưa mở được Tầng 1 Khu Vực Ký Ức, nó sẽ không được hiển thị bất kể thiết lập.
 
-追憶戦・覇設定=Reminiscence and Conquest Setting
-追憶戦・覇の挑戦回数が残っているとき予定帳に表示するか設定できます。\n挑戦できるボスがいない場合は設定によらず表示されません。=You can set whether to display Reminiscence and Conquest\nin the schedule when there are remaining challenge attempts.\nIf there are no bosses available to challenge, it will not be displayed regardless of the setting.
-
-
-経験値クエスト設定=EXP Quest Settings
-経験値クエストの挑戦回数が残っているとき予定帳からスキップ可能にするか、表示するか設定できます。\nスキップ可能なクエストが無い場合はスキップできません。=You can set a task that will display or skip EXP Grotto quests if you still have attempts remaining.\nIf there is no skippable quest, it will not be displayed regardless of the setting.
-
-マナクエスト設定=Mana Quest Settings
-マナクエストの挑戦回数が残っているとき予定帳からスキップ可能にするか、表示するか設定できます。\nスキップ可能なクエストが無い場合はスキップできません。=You can set a task that will display or skip Mana Grotto quests if you still have attempts remaining.\nIf there is no skippable quest, it will not be displayed regardless of the setting.
-
-バトルアリーナ設定=Battle Arena Settings
-バトルアリーナで1度もバトルしていないとき予定帳に表示するかどうかを設定できます。=You can set a reminder to fight in the Battle Arena if you haven't done it yet today.
-
-アリーナコイン受け取り設定=Arena Coin Collection Settings
-
-バトルアリーナで1度もアリーナコインを受け取っていないとき\n予定帳からアリーナコインを受け取れるようにするか、表示するか設定できます。\n受け取れるアリーナコインがない場合は予定帳に表示されません。=You can set a task that will display or collect Arena Coins\nif you haven't collected any from the Battle Arena yet.\nIf there are no Arena Coins to collect, this task will not be shown.
-
-プリンセスアリーナ設定=Princess Arena Settings
-プリンセスアリーナで1度もバトルしていないとき予定帳に表示するかどうかを設定できます。=You can set a reminder to fight in the Princess Arena if you haven't done it yet today.
-
-プリンセスアリーナコイン受け取り設定=Princess Arena Coin Collection Settings
-
-プリンセスアリーナで1度もプリンセスアリーナコインを受け取っていないとき\n予定帳からプリンセスアリーナコインを受け取れるようにするか、表示するか設定できます。\n受け取れるプリンセスアリーナコインがない場合は予定帳に表示されません。=You can set a task that will display or collect Princess Arena Coins\nif you haven't collected any from the Battle Arena yet.\nIf there are no Princess Arena Coins to collect, this task will not be shown.
-
-ノーマルガチャ設定=Normal Gacha Settings
-ガチャを引く=Pull the Gacha
-ノーマルガチャを1度も引いていないとき予定帳からノーマルガチャを引けるようにするか、\n表示するか設定できます。=You can set a task that will display or pull the Normal Gacha if you haven't done it yet today.
-
-ノーマルガチャ詳細設定=Normal Gacha Detailed Settings
-ノーマルガチャの利用回数がリセットされたとき「ノーマルガチャ設定」の項目の達成状況を\nリセットするか設定できます。=You can decide if the completion status of the task in "Normal Gacha Settings" will be reset when Normal Gacha is available to pull again within the day.
-リセットしない=Do not Reset
-
-「いいね」設定="Like" Settings
-「いいね」をしていないとき予定帳から「いいね」できるようにするか、表示するか設定できます。\n予定帳から「いいね」する場合はランダムなクランメンバーが選択されます。\nクランに所属していないまたはクランに自分以外のクランメンバーがいない場合は「いいね」できません。=You can set a task that will display or automatically "Like" a guildhouse.\nA random clan member will be selected if you choose to "Like" from the Schedule.\nYou cannot "Like" if you are not in a clan or if you are the only member of your clan.
-「いいね」する="Like"
+追憶戦・覇設定=Cài Đặt Hồi Ức và Chinh Phục
+追憶戦・覇の挑戦回数が残っているとき予定帳に表示するか設定できます。\n挑戦できるボスがいない場合は設定によらず表示されません。=Bạn có thể đặt liệu có hiển thị Hồi Ức và Chinh Phục\ntrong lịch trình khi còn lượt thử thử thách.\nNếu không có boss nào có thể thử thách, nó sẽ không được hiển thị bất kể thiết lập.
 
 
-ギルドハウス設定=Guildhouse Settings
-ギルドハウスから1度もアイテムを受け取っていないとき予定帳からアイテムを受け取れるようにするか、\n表示するか設定できます。受け取れるアイテムがない場合は予定帳に表示されません。=You can set a task that will collect items from the Guildhouse if you haven't done it yet today.\nIf there are no items to receive, this task will not be shown.
+経験値クエスト設定=Cài Đặt Nhiệm Vụ EXP
+経験値クエストの挑戦回数が残っているとき予定帳からスキップ可能にするか、表示するか設定できます。\nスキップ可能なクエストが無い場合はスキップできません。=Bạn có thể đặt một nhiệm vụ sẽ hiển thị hoặc bỏ qua nhiệm vụ Hang Động EXP nếu bạn vẫn còn lượt thử.\nNếu không có nhiệm vụ nào có thể bỏ qua, nhiệm vụ này sẽ không được hiển thị bất kể thiết lập.
 
-マナ購入設定=Mana Purchase Settings
-設定した回数マナを購入していないとき予定帳からマナを購入可能にするか、表示するか設定できます。=You can set a task that will display the Mana Purchase menu or purchase Mana directly from the Schedule.
+マナクエスト設定=Cài Đặt Nhiệm Vụ Mana
+マナクエストの挑戦回数が残っているとき予定帳からスキップ可能にするか、表示するか設定できます。\nスキップ可能なクエストが無い場合はスキップできません。=Bạn có thể đặt một nhiệm vụ sẽ hiển thị hoặc bỏ qua nhiệm vụ Hang Động Mana nếu bạn vẫn còn lượt thử.\nNếu không có nhiệm vụ nào có thể bỏ qua, nhiệm vụ này sẽ không được hiển thị bất kể thiết lập.
 
-マナ購入回数設定=Mana Purchase Amount Settings
-予定帳からマナを購入する回数を設定できます。\n事前にマナを購入していた場合はその購入回数とあわせて設定した回数になるようマナを購入します。=You can choose the number of times to purchase mana via the Schedule task.\nIf you have already purchased Mana for the day,\nthe task will purchase Mana enough times to match the number you set here.
+バトルアリーナ設定=Cài Đặt Đấu Trường
+バトルアリーナで1度もバトルしていないとき予定帳に表示するかどうかを設定できます。=Bạn có thể đặt một lời nhắc để chiến đấu trong Đấu Trường nếu bạn chưa làm hôm nay.
 
-マナ購入詳細設定=Mana Purchase Detailed Settings
-消費する=Consume
-消費しない=Do Not
-予定帳からマナを購入するときに無償ジュエルが不足していた場合、有償ジュエルを消費するか設定できます。=You can choose whether you consume Paid Jewels while purchasing Mana via the Schedule if you do not have enough Free Jewels.
+アリーナコイン受け取り設定=Cài Đặt Thu Thập Xu Đấu Trường
 
-ルナの塔設定=Luna Tower Settings
-ルナの塔に1度も挑戦していないとき予定帳に表示するかどうかを設定できます。\nルナの塔が開催中でない場合は設定によらず表示されません。=You can set a reminder to fight in the Luna Tower if you haven't challenged it yet today.\nIf the Luna Tower is not open, this task will not be displayed regardless of the settings.
+バトルアリーナで1度もアリーナコインを受け取っていないとき\n予定帳からアリーナコインを受け取れるようにするか、表示するか設定できます。\n受け取れるアリーナコインがない場合は予定帳に表示されません。=Bạn có thể đặt một nhiệm vụ sẽ hiển thị hoặc thu thập Xu Đấu Trường\nnếu bạn chưa thu thập bất kỳ Xu nào từ Đấu Trường.\nNếu không có Xu Đấu Trường nào để thu thập, nhiệm vụ này sẽ không được hiển thị.
 
-クランバトル設定=Clan Battle Settings
-クランバトルに1度も挑戦していないとき予定帳に表示するかどうかを設定できます。\nクランバトルが開催されていない、クランに所属していない場合は設定によらず表示されません。=You can set a reminder to fight in the Clan Battle if you haven't battled yet today.\nIf a Clan Battle is not running, this task will not be displayed regardless of the settings.
+プリンセスアリーナ設定=Cài Đặt Đấu Trường Công Chúa
+プリンセスアリーナで1度もバトルしていないとき予定帳に表示するかどうかを設定できます。=Bạn có thể đặt một lời nhắc để chiến đấu trong Đấu Trường Công Chúa nếu bạn chưa làm hôm nay.
+
+プリンセスアリーナコイン受け取り設定=Cài Đặt Thu Thập Xu Đấu Trường Công Chúa
+
+プリンセスアリーナで1度もプリンセスアリーナコインを受け取っていないとき\n予定帳からプリンセスアリーナコインを受け取れるようにするか、表示するか設定できます。\n受け取れるプリンセスアリーナコインがない場合は予定帳に表示されません。=Bạn có thể đặt một nhiệm vụ sẽ hiển thị hoặc thu thập Xu Đấu Trường Công Chúa\nnếu bạn chưa thu thập bất kỳ Xu nào từ Đấu Trường.\nNếu không có Xu Đấu Trường Công Chúa nào để thu thập, nhiệm vụ này sẽ không được hiển thị.
+
+ノーマルガチャ設定=Cài Đặt Gacha Thường
+ガチャを引く=Quay Gacha
+ノーマルガチャを1度も引いていないとき予定帳からノーマルガチャを引けるようにするか、\n表示するか設定できます。=Bạn có thể đặt một nhiệm vụ sẽ hiển thị hoặc quay Gacha Thường nếu bạn chưa làm hôm nay.
+
+ノーマルガチャ詳細設定=Cài Đặt Chi Tiết Gacha Thường
+ノーマルガチャの利用回数がリセットされたとき「ノーマルガチャ設定」の項目の達成状況を\nリセットするか設定できます。=Bạn có thể quyết định liệu trạng thái hoàn thành nhiệm vụ trong "Cài Đặt Gacha Thường" có được đặt lại khi Gacha Thường có thể quay lại trong ngày hay không.
+リセットしない=Không Đặt Lại
+
+「いいね」設定=Cài Đặt "Thích"
+「いいね」をしていないとき予定帳から「いいね」できるようにするか、表示するか設定できます。\n予定帳から「いいね」する場合はランダムなクランメンバーが選択されます。\nクランに所属していないまたはクランに自分以外のクランメンバーがいない場合は「いいね」できません。=Bạn có thể đặt một nhiệm vụ sẽ hiển thị hoặc tự động "Thích" một nhà guild.\nMột thành viên bang hội ngẫu nhiên sẽ được chọn nếu bạn chọn "Thích" từ Lịch Trình.\nBạn không thể "Thích" nếu bạn không trong bang hội hoặc nếu bạn là thành viên duy nhất của bang hội mình.
+「いいね」する="Thích"
+
+
+ギルドハウス設定=Cài Đặt Nhà Guild
+ギルドハウスから1度もアイテムを受け取っていないとき予定帳からアイテムを受け取れるようにするか、\n表示するか設定できます。受け取れるアイテムがない場合は予定帳に表示されません。=Bạn có thể đặt một nhiệm vụ sẽ thu thập vật phẩm từ Nhà Guild nếu bạn chưa làm hôm nay.\nNếu không có vật phẩm nào để nhận, nhiệm vụ này sẽ không được hiển thị.
+
+マナ購入設定=Cài Đặt Mua Mana
+設定した回数マナを購入していないとき予定帳からマナを購入可能にするか、表示するか設定できます。=Bạn có thể đặt một nhiệm vụ sẽ hiển thị menu Mua Mana hoặc mua Mana trực tiếp từ Lịch Trình.
+
+マナ購入回数設定=Cài Đặt Số Lượng Mua Mana
+予定帳からマナを購入する回数を設定できます。\n事前にマナを購入していた場合はその購入回数とあわせて設定した回数になるようマナを購入します。=Bạn có thể chọn số lần mua mana thông qua nhiệm vụ Lịch Trình.\nNếu bạn đã mua Mana cho hôm nay,\nnhiệm vụ sẽ mua Mana đủ số lần để khớp với số bạn đặt ở đây.
+
+マナ購入詳細設定=Cài Đặt Chi Tiết Mua Mana
+消費する=Tiêu Dùng
+消費しない=Không
+予定帳からマナを購入するときに無償ジュエルが不足していた場合、有償ジュエルを消費するか設定できます。=Bạn có thể chọn liệu bạn có tiêu dùng Ngọc Trả Phí khi mua Mana thông qua Lịch Trình nếu bạn không có đủ Ngọc Miễn Phí hay không.
+
+ルナの塔設定=Cài Đặt Tháp Trăng
+ルナの塔に1度も挑戦していないとき予定帳に表示するかどうかを設定できます。\nルナの塔が開催中でない場合は設定によらず表示されません。=Bạn có thể đặt một lời nhắc để chiến đấu trong Tháp Trăng nếu bạn chưa thử thách hôm nay.\nNếu Tháp Trăng không mở, nhiệm vụ này sẽ không được hiển thị bất kể thiết lập.
+
+クランバトル設定=Cài Đặt Trận Chiến Bang Hội
+クランバトルに1度も挑戦していないとき予定帳に表示するかどうかを設定できます。\nクランバトルが開催されていない、クランに所属していない場合は設定によらず表示されません。=Bạn có thể đặt một lời nhắc để chiến đấu trong Trận Chiến Bang Hội nếu bạn chưa chiến đấu hôm nay.\nNếu Trận Chiến Bang Hội không diễn ra, nhiệm vụ này sẽ không được hiển thị bất kể thiết lập.

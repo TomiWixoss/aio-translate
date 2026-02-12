@@ -1,45 +1,45 @@
 ##Profile##
-【魔法】後衛の、補助魔法に特化した、晴れ姿の癒し手。自身の攻撃力と引き換えに強力なバリアと継続回復状態を味方全体に付与する。絶大な防御能力は他を圧倒する。=[Magic] A rearguard user of healing and support magic, decked out in traditional garb. By sacrificing her own offensive power, she creates powerful barriers that heal her friends, giving her defensive potential that is second to none.
+【魔法】後衛の、補助魔法に特化した、晴れ姿の癒し手。自身の攻撃力と引き換えに強力なバリアと継続回復状態を味方全体に付与する。絶大な防御能力は他を圧倒する。=[Ma thuật] Người dùng hậu phương của ma thuật hồi phục và hỗ trợ, khoác trang phục truyền thống. Bằng cách hy sinh sức mạnh tấn công của bản thân, cô tạo ra những rào cản mạnh mẽ hồi phục bạn bè, mang lại tiềm năng phòng thủ không ai sánh kịp.
 
-初日の出までのひと時=New Beginnings, Together
-今年初めての共同作業=New Year's Teamwork
-変わらぬ優しさ=Always Kind, Always Caring
-育む二人とつなぐ味=The Flavor That Nurtures Two Hearts
-あなたの成長がくれた魔法=The Magic Your Growth Gave Me
-買い物帰りの道で……=On the Way Home from Shopping…
-願いで結ばれた契り=A Bond Forged by Wishes
-ドキドキのお参り=A Heart-Pounding Shrine Visit
+初日の出までのひと時=Khởi Đầu Mới, Cùng Nhau
+今年初めての共同作業=Tinh Thần Đội Ngũ Năm Mới
+変わらぬ優しさ=Luôn Tử Tế, Luôn Quan Tâm
+育む二人とつなぐ味=Hương Vị Nuôi Dưỡng Hai Trái Tim
+あなたの成長がくれた魔法=Phép Thuật Mà Sự Trưởng Thành Của Bạn Đã Cho Tôi
+買い物帰りの道で……=Trên Đường Về Nhà Sau Khi Mua Sắm…
+願いで結ばれた契り=Mối Ràng Buộc Được Rèn Luyện Bởi Những Ước Nguyện
+ドキドキのお参り=Chuyến Thăm Đền Đầy Hồi Hộp
 
-約束の大晦日=The Promised New Year's Eve.
+約束の大晦日=Đêm Giao Thừa Được Hứa.
 
 ##UB##
-サンライズプロテクション=Sunrise Protection
-味方全体に物理/魔法無効バリアと継続ＨＰ回復状態を付与するが、自身の魔法攻撃力を特大ダウンさせる。=Deploys Barrier over all allies that negates P/M.DMG and grants continuous HP recovery to them, but lowers own M.ATK by a massive amount.
-味方全体に物理/魔法無効バリアを展開し、継続ＨＰ回復状態を付与するが、自身の魔法攻撃力を特大ダウンさせる。=Deploys Barrier over all allies that negates P/M.DMG and grants continuous HP recovery to them, but lowers own M.ATK by a massive amount.
-r:"^(\d+)ダメージ分の物理魔法無効バリアを展開する毎秒ＨＰを(\d+)回復する自分の魔法攻撃力を初期値の90%ダウン$"=►Deploys Barrier that negates $1 P/M.DMG for 18s.\n►Recovers all allies' HP by $2/s for 10s.\n►Lowers own M.ATK by 90% for 18s.
+サンライズプロテクション=Bảo Vệ Bình Minh
+味方全体に物理/魔法無効バリアと継続ＨＰ回復状態を付与するが、自身の魔法攻撃力を特大ダウンさせる。=Triển Khai Lá Chắn trên tất cả đồng minh, chống lại Sát Thương Vật Lý/Phép và cấp phục hồi HP liên tục cho họ, nhưng giảm Tấn Công Phép của bản thân một lượng lớn.
+味方全体に物理/魔法無効バリアを展開し、継続ＨＰ回復状態を付与するが、自身の魔法攻撃力を特大ダウンさせる。=Triển Khai Lá Chắn trên tất cả đồng minh, chống lại Sát Thương Vật Lý/Phép và cấp phục hồi HP liên tục cho họ, nhưng giảm Tấn Công Phép của bản thân một lượng lớn.
+r:"^(\d+)ダメージ分の物理魔法無効バリアを展開する毎秒ＨＰを(\d+)回復する自分の魔法攻撃力を初期値の90%ダウン$"=►Triển Khai Lá Chắn chống lại $1 Sát Thương Vật Lý/Phép trong 18s.\n►Phục Hồi HP của tất cả đồng minh $2/s trong 10s.\n►Giảm Tấn Công Phép của bản thân 90% trong 18s.
 
 ##S1##
-ウィークネスペタル=Weakening Petals
-前から２番目の敵１キャラの物理攻撃力と魔法攻撃力を中ダウンさせる。=Moderately lowers P.ATK and M.ATK of the 2nd closest enemy.
+ウィークネスペタル=Cánh Hoa Suy Yếu
+前から２番目の敵１キャラの物理攻撃力と魔法攻撃力を中ダウンさせる。=Giảm trung bình Tấn Công Vật Lý và Tấn Công Phép của kẻ địch thứ 2 gần nhất.
 
 ##S2##
-ブルーミングチアーズ=Cheerful Bloom
-魔法攻撃を行う全ての味方キャラの魔法攻撃力を大アップさせる。=Greatly boosts all M-type allies' M.ATK.
-r:"^対象の味方の魔法攻撃力を(\d+)アップ$"=Cast time: 1.19s.\n►Boosts all M-type allies' M.ATK by $1 for 12s.
+ブルーミングチアーズ=Nở Rộ Vui Vẻ
+魔法攻撃を行う全ての味方キャラの魔法攻撃力を大アップさせる。=Tăng mạnh Tấn Công Phép của tất cả đồng minh thuộc kiểu M.
+r:"^対象の味方の魔法攻撃力を(\d+)アップ$"=Thời gian Triệu Hồi: 1.19s.\n►Tăng Tấn Công Phép của tất cả đồng minh thuộc kiểu M lên $1 trong 12s.
 
 ##EX##
-ブライトネスニューイヤー=Bright New Year
-ブライトネスニューイヤー+=Bright New Year+
+ブライトネスニューイヤー=Năm Mới Tươi Sáng
+ブライトネスニューイヤー+=Năm Mới Tươi Sáng+
 
 ##UB+##
-フォーチュンプロテクション=Fortune Protection
-味方全体に物理/魔法吸収バリアを展開し、物理ダメージカット効果と魔法ダメージカット効果、継続ＨＰ回復状態を付与する。さらに、味方全体の行動速度を大アップさせるが、自分の魔法攻撃力を特大ダウンさせる。=Deploys Barrier over all allies that absorbs P/M.DMG and grant continuous HP recovery and P/M.DMG Cut to them. Additionally, greatly boosts all allies' action speed, but lowers own M.ATK by a massive amount.
-r:"^(\d+)ダメージ分の物理魔法吸収バリアを展開する毎秒ＨＰを(\d+)回復する自分の魔法攻撃力を初期値の90%ダウン味方全体が受ける物理ダメージを5％カット味方全体が受ける魔法ダメージを5％カット味方全体の行動速度をアップ$"=►Deploys Barrier that absorbs $1 P/M.DMG for 18s.\n►Recovers all allies' HP by $2/s for 10s.\n►Lowers own M.ATK by 90% for 18s.\n►Grants P.DMG Cut to all allies by 5% for 18s.\n►Grants M.DMG Cut to all allies by 5% for 18s.\n►Boosts all allies' action speed to 200% for 18s.
+フォーチュンプロテクション=Bảo Vệ May Mắn
+味方全体に物理/魔法吸収バリアを展開し、物理ダメージカット効果と魔法ダメージカット効果、継続ＨＰ回復状態を付与する。さらに、味方全体の行動速度を大アップさせるが、自分の魔法攻撃力を特大ダウンさせる。=Triển Khai Lá Chắn trên tất cả đồng minh, hấp thụ Sát Thương Vật Lý/Phép và cấp phục hồi HP liên tục cùng Cắt Sát Thương Vật Lý/Phép cho họ. Ngoài ra, tăng mạnh Tốc Độ Hành Động của tất cả đồng minh, nhưng giảm Tấn Công Phép của bản thân một lượng lớn.
+r:"^(\d+)ダメージ分の物理魔法吸収バリアを展開する毎秒ＨＰを(\d+)回復する自分の魔法攻撃力を初期値の90%ダウン味方全体が受ける物理ダメージを5％カット味方全体が受ける魔法ダメージを5％カット味方全体の行動速度をアップ$"=►Triển Khai Lá Chắn hấp thụ $1 Sát Thương Vật Lý/Phép trong 18s.\n►Phục Hồi HP của tất cả đồng minh $2/s trong 10s.\n►Giảm Tấn Công Phép của bản thân 90% trong 18s.\n►Cấp Cắt Sát Thương Vật Lý cho tất cả đồng minh 5% trong 18s.\n►Cấp Cắt Sát Thương Phép cho tất cả đồng minh 5% trong 18s.\n►Tăng Tốc Độ Hành Động của tất cả đồng minh lên 200% trong 18s.
 
 ##S1+##
-ウィークネスペタル+=Weakening Petals+
-前から２番目の敵１キャラの物理攻撃力と魔法攻撃力と魔法防御力とＴＰ上昇を中ダウンさせる。=Moderately lowers P.ATK, M.ATK, M.DEF and TP Boost of the 2nd closest enemy.
-r:"^敵単体の物理攻撃力を(\d+)ダウン敵単体の魔法攻撃力を(\d+)ダウン敵単体の魔法防御力を(\d+)ダウン敵単体のＴＰ上昇を(\d+)ダウン$"=Cast time: 1.05s.\n►Lowers an enemy's P.ATK by $1 for 12s.\n►Lowers an enemy's M.ATK by $2 for 12s.\n►Lowers an enemy's M.DEF by $3 for 12s.\n►Lowers an enemy's TP Boost by $3 for 12s.
+ウィークネスペタル+=Cánh Hoa Suy Yếu+
+前から２番目の敵１キャラの物理攻撃力と魔法攻撃力と魔法防御力とＴＰ上昇を中ダウンさせる。=Giảm trung bình Tấn Công Vật Lý, Tấn Công Phép, Phòng Thủ Phép và Tăng TP của kẻ địch thứ 2 gần nhất.
+r:"^敵単体の物理攻撃力を(\d+)ダウン敵単体の魔法攻撃力を(\d+)ダウン敵単体の魔法防御力を(\d+)ダウン敵単体のＴＰ上昇を(\d+)ダウン$"=Thời gian Triệu Hồi: 1.05s.\n►Giảm Tấn Công Vật Lý của kẻ địch $1 trong 12s.\n►Giảm Tấn Công Phép của kẻ địch $2 trong 12s.\n►Giảm Phòng Thủ Phép của kẻ địch $3 trong 12s.\n►Giảm Tăng TP của kẻ địch $3 trong 12s.
 
 ##UE##
-曉の祝杖ブロッサム=Sunrise Blossom
+曉の祝杖ブロッサム=Hoa Bình Minh

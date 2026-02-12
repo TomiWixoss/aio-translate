@@ -1,35 +1,35 @@
-EX装備ショップアイテム表示順=Ex Equipment Shop Item Display Order
-EX装備ショップで販売されているアイテムを、所持数の昇順か、レア度の降順のどちらで表示するか設定します。=Set whether to display items sold in the EX Equipment Shop in\nascending order of quantity owned or descending order of rarity.
+EX装備ショップアイテム表示順=Thứ tự hiển thị vật phẩm Cửa hàng EX Trang bị
+EX装備ショップで販売されているアイテムを、所持数の昇順か、レア度の降順のどちらで表示するか設定します。=Đặt xem có hiển thị vật phẩm được bán trong Cửa hàng EX Trang bị theo thứ tự số lượng đang sở hữu tăng dần hay theo thứ tự độ hiếm giảm dần.
 
-アドベンチャーおまかせ編成=Adventure Auto Formation
-おまかせ編成時に、重視する内容を設定できます。=You can set which one will focus on when you select Random.
+アドベンチャーおまかせ編成=Trận hình Tự động Phiêu lưu
+おまかせ編成時に、重視する内容を設定できます。=Bạn có thể đặt cái nào sẽ được ưu tiên khi chọn Ngẫu nhiên.
 
-「必要戦力重視」の場合、アドベンチャー開始に必要な戦力が最小限となるようにキャラを編成します。=In the case of "Focus on required power", girls are organized so that the power required to start the adventure is minimized.
-「時間短縮重視」の場合、編成可能なキャラのうち、戦力の高い順に編成可能上限まで編成します。=In the case of "Focus on time reduction", girls will be organized in descending order of combat power.
+「必要戦力重視」の場合、アドベンチャー開始に必要な戦力が最小限となるようにキャラを編成します。=Trong trường hợp "Tập trung vào sức mạnh yêu cầu", các cô gái sẽ được sắp xếp sao cho sức mạnh cần thiết để bắt đầu phiêu lưu được giảm thiểu.
+「時間短縮重視」の場合、編成可能なキャラのうち、戦力の高い順に編成可能上限まで編成します。=Trong trường hợp "Tập trung vào giảm thời gian", các cô gái sẽ được sắp xếp theo thứ tự sức chiến đấu giảm dần.
 
-「必要戦力重視」の場合、アドベンチャー開始に必要な戦力が最小限となるようにキャラを編成します。\n\n「時間短縮重視」の場合、編成可能なキャラのうち、\n戦力の高い順に編成可能上限まで編成します。=In the case of "Focus on required power", girls are organized so that the power required to start the adventure is minimized.\n\nIn the case of "Focus on time reduction", girls will be organized in descending order of combat power.
+「必要戦力重視」の場合、アドベンチャー開始に必要な戦力が最小限となるようにキャラを編成します。\n\n「時間短縮重視」の場合、編成可能なキャラのうち、\n戦力の高い順に編成可能上限まで編成します。=Trong trường hợp "Tập trung vào sức mạnh yêu cầu", các cô gái sẽ được sắp xếp sao cho sức mạnh cần thiết để bắt đầu phiêu lưu được giảm thiểu.\n\nTrong trường hợp "Tập trung vào giảm thời gian", các cô gái sẽ được sắp xếp theo thứ tự sức chiến đấu giảm dần.
 
-必要戦力重視\n（最小戦力）=Focus on\nrequired power\n(Min Power)
+必要戦力重視\n（最小戦力）=Tập trung vào\nsức mạnh yêu cầu\n(Sức mạnh tối thiểu)
 
-時間短縮重視\n（最大戦力）=Focus on\ntime reduction\n(Max Power)
+時間短縮重視\n（最大戦力）=Tập trung vào\ngiảm thời gian\n(Sức mạnh tối đa)
 
-EX装備選択を閉じる際の確認ダイアログ=Confirmation dialog when closing Ex Equipment selection
+EX装備選択を閉じる際の確認ダイアログ=Hộp thoại xác nhận khi đóng lựa chọn EX Trang bị
 
-EX装備選択で変更を反映せずに閉じる際に、確認ダイアログを表示するか設定します。=Set whether to display a confirmation dialog when closing without commit changes in Ex Equipment selection.
+EX装備選択で変更を反映せずに閉じる際に、確認ダイアログを表示するか設定します。=Đặt xem có hiển thị hộp thoại xác nhận khi đóng mà không lưu thay đổi trong lựa chọn EX Trang bị hay không.
 
-EX装備上限解放の確認ダイアログ=Confirmation dialog for unlocking the upper limit of Ex Equipment
-EX装備を上限解放する際に、消費アイテムを確認するダイアログを開きます。=Open a dialog to confirm consumable items when unlock the limit break of Ex Equipment.
+EX装備上限解放の確認ダイアログ=Hộp thoại xác nhận để mở khóa giới hạn cấp EX Trang bị
+EX装備を上限解放する際に、消費アイテムを確認するダイアログを開きます。=Mở hộp thoại để xác nhận các vật phẩm tiêu hao khi mở khóa giới hạn cấp của EX Trang bị.
 
-EX装備強化の確認ダイアログ=Confirmation of Ex Equipment enhancement dialog
-EX装備を強化する際に、消費アイテムを確認するダイアログを開きます。=When enhancing Ex Equipment, open the dialog to check the consumption items.
+EX装備強化の確認ダイアログ=Xác nhận hộp thoại nâng cấp EX Trang bị
+EX装備を強化する際に、消費アイテムを確認するダイアログを開きます。=Khi nâng cấp EX Trang bị, mở hộp thoại để kiểm tra các vật phẩm tiêu hao.
 
-EX装備消費時のアラート表示設定=Alert display setting when Ex Equipment is consumed
-EX装備を消費する際に、アラート表示をするレアリティ条件を設定します。=Set the rarity condition to display an alert when consuming Ex Equipment.
+EX装備消費時のアラート表示設定=Cài đặt cảnh báo khi EX Trang bị bị tiêu hao
+EX装備を消費する際に、アラート表示をするレアリティ条件を設定します。=Đặt điều kiện độ hiếm để hiển thị cảnh báo khi tiêu hao EX Trang bị.
 ★3以上=+★3
 ★4以上=+★4
 
-EX装備ショップ購入回数設定=EX Equipment Shop Purchase Quantity Settings
-EX装備ショップの購入時に、購入回数を最小回数か最大回数のどちらにするか設定します。=When purchasing at the EX Equipment Shop, you can choose to set\nthe purchase quantity to either the minimum or maximum value.
+EX装備ショップ購入回数設定=Cài Đặt Số Lượng Mua Cửa Hàng EX Equipment
+EX装備ショップの購入時に、購入回数を最小回数か最大回数のどちらにするか設定します。=Khi mua tại Cửa hàng EX Equipment, bạn có thể chọn cài đặt số lượng mua ở mức tối thiểu hoặc tối đa.
 
-マスターショップ購入回数設定=Master Shop Purchase Quantity Settings
-マスターショップの購入時に、購入回数を最小回数か最大回数のどちらにするか設定します。\n※マスターピースは対象外です。=When purchasing at the Master Shop, set whether to use the minimum or maximum number of purchases.\n※Masterpieces are not included.
+マスターショップ購入回数設定=Cài Đặt Số Lượng Mua Cửa hàng Master
+マスターショップの購入時に、購入回数を最小回数か最大回数のどちらにするか設定します。\n※マスターピースは対象外です。=Khi mua tại Cửa hàng Master, hãy đặt việc sử dụng số lượng mua tối thiểu hay tối đa.\n※Tác phẩm Masterpiece không được bao gồm.

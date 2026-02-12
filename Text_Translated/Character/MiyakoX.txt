@@ -1,34 +1,34 @@
 ##Profile##
-【物理】中衛で、味方をプリンで強化する幽霊聖少女。物理攻撃力と物理クリティカルアップのプリンパワーのフィールドで自分のスキルも強化し、猛攻を繰り出す。=[Physical] A midliner, a holy ghost girl who buffs her allies with pudding. She also buffs her own P.ATK and P.CRIT Rate with her pudding power field and unleashes her fierce attacks.
+【物理】中衛で、味方をプリンで強化する幽霊聖少女。物理攻撃力と物理クリティカルアップのプリンパワーのフィールドで自分のスキルも強化し、猛攻を繰り出す。=[Vật Lý] Linh hồn nữ thần ở vị trí giữa, tăng cường đồng minh bằng pudding. Cô cũng tăng P.ATK và Tỷ Lệ Chí Mạng của bản thân với trường pudding và tung ra những đòn tấn công dữ dội.
 
-聖夜の甘い伝説=Sweet Legend of the Holy Night
-悪のサンタクロース！？=Bad Santa Claus!?
-聖夜に心を響かせて=Let Your Heart Resonate on the Holy Night
-めぐるメリー・メモリー=Meguru Mary Memory
+聖夜の甘い伝説=Huyền Thuyết Ngọt Ngào Của Đêm Thánh
+悪のサンタクロース！？=Ông già Noel Xấu Xa!?
+聖夜に心を響かせて=Để Trái Tim Của Bạn Cộng Hưởng Trong Đêm Thánh
+めぐるメリー・メモリー=Ký Ức Meguru Mary
 
 ##UB##
-ミヤコとくせいプリンなの=Miyako Special Pudding
-目の前の敵１キャラに物理特大ダメージを与え、物理防御力を小ダウンさせる。【フィールド展開中】ダメージがアップする。=Deals large P.DMG to an enemy in front, and slightly lowers its P.DEF. If field is active, boosts P.DMG dealt.
-r:"^敵単体に(\d+)の物理ダメージフィールド展開中、敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン$"=If field is not active:\n►Deals $1 P.DMG to an enemy.\n►Lowers an enemy's P.DEF by $3 for 18s.\n\nIf field is active:\n►Deals $2 P.DMG to an enemy.\n►Lowers an enemy's P.DEF by $3 for 18s.
+ミヤコとくせいプリンなの=Pudding Đặc Biệt Của Miyako
+目の前の敵１キャラに物理特大ダメージを与え、物理防御力を小ダウンさせる。【フィールド展開中】ダメージがアップする。=Gây sát thương P.DMG lớn lên kẻ địch phía trước và giảm nhẹ P.DEF của nó. Nếu trường kích hoạt, tăng sát thương P.DMG gây ra.
+r:"^敵単体に(\d+)の物理ダメージフィールド展開中、敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン$"=Nếu trường chưa kích hoạt:\n►Gây $1 P.DMG lên kẻ địch.\n►Giảm P.DEF của kẻ địch lên $3 trong 18 giây.\n\nNếu trường đã kích hoạt:\n►Gây $2 P.DMG lên kẻ địch.\n►Giảm P.DEF của kẻ địch lên $3 trong 18 giây.
 
 ##S1##
-ゆきだるまにしてやるの=I'll Make You a Snowman
-目の前の敵１キャラに物理中ダメージを与え、自分の物理攻撃力を大アップさせる。【フィールド展開中】ダメージがアップし、自分の周囲の味方すべての物理攻撃力を大アップさせる。=Deals moderate P.DMG to an enemy in front, and greatly boosts own P.ATK. If field is active, boosts P.DMG dealt and greatly boosts allies' P.ATK in range instead of only oneself.
-r:"^敵単体に(\d+)の物理ダメージフィールド展開中、敵単体に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップフィールド展開中、範囲内の味方の物理攻撃力を(\d+)アップ$"=Cast time: 0.94s\nIf field not active:\n►Deals $1 P.DMG to an enemy.\n►Boosts own P.ATK by $3 for 12s.\n\nIf field is active:\n►Deals $2 P.DMG to an enemy.\n►Boosts allies' P.ATK in 150 range by $4 for 12s.
+ゆきだるまにしてやるの=Tôi Sẽ Biến Bạn Thành Người Tuyết
+目の前の敵１キャラに物理中ダメージを与え、自分の物理攻撃力を大アップさせる。【フィールド展開中】ダメージがアップし、自分の周囲の味方すべての物理攻撃力を大アップさせる。=Gây sát thương P.DMG vừa phải lên kẻ địch phía trước và tăng mạnh P.ATK của bản thân. Nếu trường kích hoạt, tăng sát thương P.DMG gây ra và tăng mạnh P.ATK của đồng minh trong phạm vi thay vì chỉ bản thân.
+r:"^敵単体に(\d+)の物理ダメージフィールド展開中、敵単体に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップフィールド展開中、範囲内の味方の物理攻撃力を(\d+)アップ$"=Thời gian niệm: 0.94 giây\nNếu trường chưa kích hoạt:\n►Gây $1 P.DMG lên kẻ địch.\n►Tăng P.ATK của bản thân lên $3 trong 12 giây.\n\nNếu trường đã kích hoạt:\n►Gây $2 P.DMG lên kẻ địch.\n►Tăng P.ATK của đồng minh trong phạm vi 150 lên $4 trong 12 giây.
 
 ##S2##
-ひとくちだけなの=Just a Bite
-自分の周囲に物理攻撃力と物理クリティカルを大アップさせるフィールドを展開する。さらに自分の周囲の味方すべての物理攻撃クリティカル時のダメージを小アップさせ、自分のＴＰ上昇を中アップさせる。=Deploys a field that greatly boosts allies' P.ATK and P.CRIT Rate in range. Additionally, slightly boosts allies' P.CRIT DMG in range, and moderately boosts own TP Boost.
-r:"^物理攻撃力を(\d+)アップさせるフィールドを展開する物理クリティカルを(\d+)アップさせるフィールドを展開する範囲内の味方の物理攻撃クリティカル時のダメージを8％アップ自分のＴＰ上昇を30アップ$"=Cast time: 0.6s\n►Deploys a 260 radius field that boosts allies' P.ATK by $1 and P.CRIT Rate by $2 for 12s.\n►Boosts allies' P.CRIT DMG in 150 range by 8% for 12s.\n►Boosts own TP Boost by 30 for 12s.
+ひとくちだけなの=Chỉ Một Cái Cắn
+自分の周囲に物理攻撃力と物理クリティカルを大アップさせるフィールドを展開する。さらに自分の周囲の味方すべての物理攻撃クリティカル時のダメージを小アップさせ、自分のＴＰ上昇を中アップさせる。=Triển khai một vùng làm tăng cực lớn Tấn công Vật lý và Tỷ lệ Chí mạng Vật lý của đồng minh trong phạm vi. Ngoài ra, làm tăng một chút Sát thương Chí mạng Vật lý của đồng minh trong phạm vi, và làm tăng vừa phải TP Tăng của bản thân.
+r:"^物理攻撃力を(\d+)アップさせるフィールドを展開する物理クリティカルを(\d+)アップさせるフィールドを展開する範囲内の味方の物理攻撃クリティカル時のダメージを8％アップ自分のＴＰ上昇を30アップ$"=Thời gian niệm: 0.6s\n►Triển khai một vùng bán kính 260 làm tăng Tấn công Vật lý của đồng minh lên $1 và Tỷ lệ Chí mạng Vật lý lên $2 trong 12s.\n►Làm tăng Sát thương Chí mạng Vật lý của đồng minh trong phạm vi 150 lên 8% trong 12s.\n►Làm tăng TP Tăng của bản thân lên 30 trong 12s.
 
 ##EX##
-プレゼントしてやるの～=I'll give you a present~
-プレゼントしてやるの～+=I'll give you a present~+
+プレゼントしてやるの～=Tớ sẽ tặng em món quà~
+プレゼントしてやるの～+=Tớ sẽ tặng em món quà~+
 
 ##S1+##
-ゆきだるまにしてやるの+=I'll Make You a Snowman+
-目の前の敵１キャラに物理中ダメージを与え、自分の物理攻撃力を大アップさせ、さらに自分の周囲の味方すべてのＴＰを小回復する。【フィールド展開中】ダメージがアップし、自分の周囲の味方すべての物理攻撃力を大アップさせ、ＴＰを小回復する。=Deals moderate P.DMG to an enemy, and greatly boosts own P.ATK. If field is active, boosts P.DMG dealt and massively boosts allies' P.ATK in range. Also slightly recovers allies' TP in range.
-r:"^敵単体に(\d+)の物理ダメージフィールド展開中、敵単体に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップフィールド展開中、範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方のＴＰを80回復$"=Cast time: 0.94s\n►Recovers allies' TP in 150 range by 80.\nIf field is not active:\n►Deals $1 P.DMG to an enemy.\n►Boosts own P.ATK by $3 for 12s.\n\nIf field is active:\n►Deals $2 P.DMG to an enemy.\n►Boosts allies' P.ATK in 150 range by $4 for 12s.
+ゆきだるまにしてやるの+=Tớ sẽ làm người tuyết cho em+
+目の前の敵１キャラに物理中ダメージを与え、自分の物理攻撃力を大アップさせ、さらに自分の周囲の味方すべてのＴＰを小回復する。【フィールド展開中】ダメージがアップし、自分の周囲の味方すべての物理攻撃力を大アップさせ、ＴＰを小回復する。=Gây ra Sát thương Vật lý vừa phải cho kẻ địch, và làm tăng cực lớn Tấn công Vật lý của bản thân. Nếu vùng đang hoạt động, làm tăng Sát thương Vật lý gây ra và làm tăng cực lớn Tấn công Vật lý của đồng minh trong phạm vi. Đồng thời, hồi lại một chút TP của đồng minh trong phạm vi.
+r:"^敵単体に(\d+)の物理ダメージフィールド展開中、敵単体に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップフィールド展開中、範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方のＴＰを80回復$"=Thời gian niệm: 0.94s\n►Hồi lại TP của đồng minh trong phạm vi 150 lên 80.\nNếu vùng chưa hoạt động:\n►Gây $1 Sát thương Vật lý cho kẻ địch.\n►Làm tăng Tấn công Vật lý của bản thân lên $3 trong 12s.\n\nNếu vùng đang hoạt động:\n►Gây $2 Sát thương Vật lý cho kẻ địch.\n►Làm tăng Tấn công Vật lý của đồng minh trong phạm vi 150 lên $4 trong 12s.
 
 ##UE##
-プリンパティシエコート=Pudding Patisserie Coat
+プリンパティシエコート=Áo khoác Patisserie Pudding

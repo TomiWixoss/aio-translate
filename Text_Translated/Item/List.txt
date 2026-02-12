@@ -1,4 +1,4 @@
-第1条件=1st Order
-条件設定=Sort and Filter Setting
-第2条件=2nd Order
-設計図・欠片=Blueprint/Fragment
+第1条件=Lệnh 1
+条件設定=Cài đặt Sắp xếp và Lọc
+第2条件=Lệnh 2
+設計図・欠片=Bản vẽ/Khối

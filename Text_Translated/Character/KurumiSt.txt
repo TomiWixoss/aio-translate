@@ -1,20 +1,20 @@
 ##Profile##
-【物理】後衛で、皆のため意を決し奮起する小さな女優。残りＨＰが多いほど物理攻撃力がアップし、物理攻撃無効バリアのスキルやＨＰ・ＴＰ継続回復で味方を支援する。=[Physical] As a backliner, she is a small actress who gathers her courage and rises up for everyone's sake. Her physical attack power increases the more HP she has left, and she supports her allies with skills such as a physical attack nullifying barrier and continuous HP/TP recovery.
+【物理】後衛で、皆のため意を決し奮起する小さな女優。残りＨＰが多いほど物理攻撃力がアップし、物理攻撃無効バリアのスキルやＨＰ・ＴＰ継続回復で味方を支援する。=[Vật Lý] Là một diễn viên nhỏ ở hậu phương, cô ấy tập hợp can đảm, đứng lên vì tất cả mọi người. Lực tấn công vật lý của cô ấy tăng theo lượng HP còn lại, và cô ấy hỗ trợ đồng đội với các kỹ năng như rào cản phản sát thương vật lý và hồi HP/TP liên tục.
 
 ##UB##
 ブルーミングスポットライト=Blooming Spotlight
-物理攻撃を行うすべての味方キャラの物理攻撃力を中アップさせる。自分の残りＨＰが多いほど、物理攻撃力の上昇量がアップする。=Boosts all P-type allies' P.ATK by a moderate amount. The higher own remaining %HP, the greater P.ATK\nboost is.
-r:"^対象の味方の物理攻撃力を(\d+)アップ$"=►Boosts all P-type allies' P.ATK by $1 (+0.14×HP) for 18s.
+物理攻撃を行うすべての味方キャラの物理攻撃力を中アップさせる。自分の残りＨＰが多いほど、物理攻撃力の上昇量がアップする。=Tăng P.ATK cho tất cả đồng đội thuộc kiểu P một lượng vừa. Tỷ lệ %HP còn lại của bản thân càng cao, mức tăng P.ATK càng lớn.
+r:"^対象の味方の物理攻撃力を(\d+)アップ$"=►Tăng P.ATK cho tất cả đồng đội thuộc kiểu P bởi $1 (+0.14×HP) trong 18s.
 
 ##S1##
 タイニーエール=Tiny Cheer
-自分のＴＰを小回復させ、物理攻撃を行うすべての味方キャラに継続ＨＰ回復状態と継続ＴＰ回復状態を付与する。=Recovers own TP by a small amount, and grants all P-type allies continuous HP and TP recovery.
-r:"^自分のＴＰを(\d+)回復毎秒ＨＰを(\d+)回復する毎秒ＴＰを10回復する$"=Cast time: 1.27s\n►Recovers own TP by $1.\n►Recovers all P-type allies' HP by $2/s for 10.5s.\n►Recovers all P-type allies' TP by 10/s for 10.5s.
+自分のＴＰを小回復させ、物理攻撃を行うすべての味方キャラに継続ＨＰ回復状態と継続ＴＰ回復状態を付与する。=Hồi TP của bản thân một lượng nhỏ, và trao cho tất cả đồng đội thuộc kiểu P trạng thái hồi HP và TP liên tục.
+r:"^自分のＴＰを(\d+)回復毎秒ＨＰを(\d+)回復する毎秒ＴＰを10回復する$"=Thời gian niệm: 1.27s\n►Hồi TP của bản thân bởi $1.\n►Hồi HP cho tất cả đồng đội thuộc kiểu P bởi $2/s trong 10.5s.\n►Hồi TP cho tất cả đồng đội thuộc kiểu P bởi 10/s trong 10.5s.
 
 ##S2##
 プロテクトベル=Protection Bell
-物理攻撃を行うすべての味方キャラに物理無効バリアを展開し、物理攻撃力を小アップさせる。自分の残りＨＰが多いほど、バリアの無効ダメージ量と物理攻撃力の上昇量がアップする。=Deploys Barrier over all P-type allies that negates P.DMG, and slightly boosts their P.ATK. The higher own remaining %HP, the stronger Barrier and greater P.ATK boost are.
-r:"^(\d+)ダメージ分の物理無効バリアを展開する対象の味方の物理攻撃力を(\d+)アップ$"=►Deploys Barrier over all P-type allies that negates $1(+0.14×HP) P.DMG for 12s.\n►Boosts all P-type allies' P.ATK by $2(+14%×HP) for 12s.
+物理攻撃を行うすべての味方キャラに物理無効バリアを展開し、物理攻撃力を小アップさせる。自分の残りＨＰが多いほど、バリアの無効ダメージ量と物理攻撃力の上昇量がアップする。=Triển khai Rào Cản lên tất cả đồng đội thuộc kiểu P, phản sát thương vật lý, và tăng nhỏ P.ATK của họ. Tỷ lệ %HP còn lại của bản thân càng cao, Rào Cản và mức tăng P.ATK càng mạnh.
+r:"^(\d+)ダメージ分の物理無効バリアを展開する対象の味方の物理攻撃力を(\d+)アップ$"=►Triển khai Rào Cản lên tất cả đồng đội thuộc kiểu P, phản $1(+0.14×HP) sát thương vật lý trong 12s.\n►Tăng P.ATK cho tất cả đồng đội thuộc kiểu P bởi $2(+14%×HP) trong 12s.
 
 ##EX##
 ステージの魔法=Magic of the Stage
@@ -22,8 +22,8 @@ r:"^(\d+)ダメージ分の物理無効バリアを展開する対象の味方�
 
 ##S1+##
 タイニーエール+=Tiny Cheer+
-物理攻撃を行うすべての味方キャラの物理クリティカルを中アップさせ、継続ＨＰ回復状態と継続ＴＰ回復状態を付与する。自分の残りＨＰが多いほど、継続ＨＰ回復量がアップし、継続ＴＰ回復量が最大1.4倍までアップする。さらに、自分のＴＰを中回復する。=Boosts all P-type allies' P.CRIT Rate, and grants continuous HP and TP to them. The higher own remaining %HP, the greater HP/TP Regen is. Additionally, recovers own TP by a moderate amount.
-r:"^自分のＴＰを200回復毎秒ＨＰを(\d+)回復する毎秒ＴＰを10回復する対象の味方の物理クリティカルを50アップ$"=Cast time: 1.27s\n►Recovers own TP by 200.\n►Recovers all P-type allies' HP by $1(+0.005×HP)/s for 10.5s.\n►Recovers all P-type allies TP' by 10(+0.00006×HP)/s for 10.5s.\n►Boosts all P-type allies' P.CRIT Rate by 50 for 12s.
+物理攻撃を行うすべての味方キャラの物理クリティカルを中アップさせ、継続ＨＰ回復状態と継続ＴＰ回復状態を付与する。自分の残りＨＰが多いほど、継続ＨＰ回復量がアップし、継続ＴＰ回復量が最大1.4倍までアップする。さらに、自分のＴＰを中回復する。=Tăng Tỷ lệ Chí Mạng P cho tất cả đồng đội thuộc kiểu P, và trao cho họ trạng thái hồi HP và TP liên tục. Tỷ lệ %HP còn lại của bản thân càng cao, mức hồi HP/TP càng lớn. Ngoài ra, hồi TP của bản thân một lượng vừa.
+r:"^自分のＴＰを200回復毎秒ＨＰを(\d+)回復する毎秒ＴＰを10回復する対象の味方の物理クリティカルを50アップ$"=Thời gian niệm: 1.27s\n►Hồi TP của bản thân bởi 200.\n►Hồi HP cho tất cả đồng đội thuộc kiểu P bởi $1(+0.005×HP)/s trong 10.5s.\n►Hồi TP cho tất cả đồng đội thuộc kiểu P bởi 10(+0.00006×HP)/s trong 10.5s.\n►Tăng Tỷ lệ Chí Mạng P cho tất cả đồng đội thuộc kiểu P bởi 50 trong 12s.
 
 ##UE##
 リトルアクトドレス=Little Act Dress

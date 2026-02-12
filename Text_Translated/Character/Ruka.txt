@@ -1,46 +1,46 @@
 ##Profile##
-人情味溢れる粋でいなせな「姉御」=A smart and sophisticated elder sister-type overflowing with kindness
-釣り=Fishing
-さまよう刃を断て！=Cut the wandering blade!
-因果応報の切れ味=The Cutting Edge of Causes and Effects
-お見合いハプニング=Matchmaking Happening
-幽霊退治はお手の物？=Are you good at exterminating ghosts?
-お魚くわえた野良猫=Stray cat with a fish in its mouth
-その女、姉御肌につき=That woman has a big sisterly heart
-波打ち際の一閃=A flash of light on the beach
-放っておけない性分=I can't leave her alone
+人情味溢れる粋でいなせな「姉御」=Một kiểu chị cả thông minh và tinh tế, tràn đầy lòng tốt
+釣り=Câu Cá
+さまよう刃を断て！=Chém thanh kiếm lang thang!
+因果応報の切れ味=Lưỡi Kiếm Cắt Nguyên Nhân và Kết Quả
+お見合いハプニング=Sự Kiện Hẹn Hò
+幽霊退治はお手の物？=Cô có giỏi trừ tà không?
+お魚くわえた野良猫=Mèo hoang với con cá trong miệng
+その女、姉御肌につき=Người phụ nữ đó có trái tim như một người chị
+波打ち際の一閃=Một tia sáng trên bãi biển
+放っておけない性分=Em không thể để cô ấy một mình
 
-【物理】前衛で味方のため剣を振るう、いなせな姉御。相手へのカウンターも行う挑発や、敵の防御力を下げるユニオンバーストを持ち、攻防両面で実力を発揮する。=[Physical] An honorable swordswoman who wields her blade in the vanguard to protect her allies. Not only can she draw enemy attacks to herself while countering their strikes, her Union Burst lowers their defense, giving her a strong balance of offensive and defensive abilities.
+【物理】前衛で味方のため剣を振るう、いなせな姉御。相手へのカウンターも行う挑発や、敵の防御力を下げるユニオンバーストを持ち、攻防両面で実力を発揮する。=[Vật lý] Một kiếm sĩ đáng kính đứng ở tiền tuyến để bảo vệ đồng minh. Không chỉ có thể rút đòn tấn công của kẻ địch về mình khi đánh trả, Union Burst của cô còn hạ thấp phòng thủ của chúng, mang lại khả năng cân bằng mạnh mẽ giữa tấn công và phòng thủ.
 
 ##UB##
-零の太刀・水月鏡花=Origin Strike: Severing Moon
-目の前の敵１キャラに物理大ダメージを与え、さらに物理防御力を大ダウンさせる。=Deals large P.DMG to an enemy directly in front and lowers their P.DEF by a large amount.
+零の太刀・水月鏡花=Đòn Chí Mạng: Trăng Cắt
+目の前の敵１キャラに物理大ダメージを与え、さらに物理防御力を大ダウンさせる。=Gây sát thương vật lý lớn lên kẻ địch ngay phía trước và giảm P.DEF của chúng một lượng lớn.
 
 ##S1##
-一の太刀・雫薙ぎ=First Strike: Reticence
-敵全体を挑発する。挑発後のモーション中に攻撃を受けた場合、前方範囲内の敵すべてに物理中ダメージを与え、さらに小さく吹き飛ばす。=Taunts all enemies and enters a stance. If attacked during this stance, deals moderate P.DMG to all enemies in range and knocks them back slightly.
-r:"^敵全体を挑発する範囲内の敵に(\d+)の物理ダメージ$"=►Provokes all enemies for 17s.\n►Counter if damage is taken in next 2s by $1 P.DMG in 200 range\n►Knockbacks all enemies by 200 units.
+一の太刀・雫薙ぎ=Đòn Đầu Tiên: Sự Kiềm Chế
+敵全体を挑発する。挑発後のモーション中に攻撃を受けた場合、前方範囲内の敵すべてに物理中ダメージを与え、さらに小さく吹き飛ばす。=Khiêu khích tất cả kẻ địch và vào tư thế. Nếu bị tấn công trong tư thế này, gây sát thương vật lý vừa phải lên tất cả kẻ địch trong phạm vi và đẩy lùi chúng nhẹ.
+r:"^敵全体を挑発する範囲内の敵に(\d+)の物理ダメージ$"=►Khiêu khích tất cả kẻ địch trong 17s.\n►Phản đòn nếu nhận sát thương trong 2s tiếp theo bằng $1 sát thương vật lý trong phạm vi 200\n►Đẩy lùi tất cả kẻ địch 200 đơn vị.
 
 ##S2##
 海内無双の型=Peerless Stance
-自分のＨＰを中回復し、さらに物理防御力を中アップさせる。=Recovers own HP by a small amount and boosts P.DEF by a moderate amount.
-r:"^自分のＨＰを(\d+)回復自分の物理防御力を(\d+)アップ$"=►Recovers own HP by $1.\n►Boosts own P.DEF by $2.
+自分のＨＰを中回復し、さらに物理防御力を中アップさせる。=Hồi một lượng nhỏ HP cho bản thân và tăng phòng thủ vật lý một lượng vừa phải.
+r:"^自分のＨＰを(\d+)回復自分の物理防御力を(\d+)アップ$"=►Hồi $1 HP cho bản thân.\n►Tăng phòng thủ vật lý của bản thân lên $2.
 
 ##EX##
 明鏡止水の境地=True Enlightenment
 明鏡止水の境地+=True Enlightenment+
-バトル開始時に自分の魔法防御力を大アップさせる。=Large boost to own M.DEF at start of battle.
-r:"^自分の魔法防御力を(\d+)アップ$"=►Boosts own M.DEF by $1.
+バトル開始時に自分の魔法防御力を大アップさせる。=Tăng phòng thủ ma thuật lớn cho bản thân khi bắt đầu trận đấu.
+r:"^自分の魔法防御力を(\d+)アップ$"=►Tăng phòng thủ ma thuật của bản thân lên $1.
 
 ##UB+##
 極の太刀・止水龍吟の哮り=Ultimate Strike: Water Dragon Roar
-目の前の敵１キャラに物理特大ダメージを与え、物理防御力を特大ダウンさせる。さらに自分に【絶海の型】を１つ付与する。【絶海の型】が付与されている間に１回ダメージを受けると【絶海の型】を１つ消費してダメージを無効化し、同時に敵に物理特大ダメージを与える。このスキルによるダメージは必ずクリティカルする。=Deals massive P.DMG to an enemy in front and massively lowers its P.DEF. Also gains [Distant Sea Form] status. When taking damage with [Distant Sea Form] status active, consumes the status, nullifies incoming damage once, and deals massive P.DMG to the attacking enemy. This attack is always a critical hit.
-r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン攻撃してきた敵に(\d+)の物理ダメージを与えて消失する絶海の型を最大１つまで付与する$"=►Deals $1 P.DMG to an enemy.\n►Lowers an enemy's P.DEF by $2 for 24s.\n►Gains [Distant Sea Form] status, which nullifies incoming DMG and deals $3 P.DMG to an attacking enemy once.
+目の前の敵１キャラに物理特大ダメージを与え、物理防御力を特大ダウンさせる。さらに自分に【絶海の型】を１つ付与する。【絶海の型】が付与されている間に１回ダメージを受けると【絶海の型】を１つ消費してダメージを無効化し、同時に敵に物理特大ダメージを与える。このスキルによるダメージは必ずクリティカルする。=Gây sát thương vật lý khủng khiếp lên kẻ địch phía trước và giảm phòng thủ vật lý của chúng một cách khủng khiếp. Đồng thời nhận trạng thái [Distant Sea Form]. Khi nhận sát thương với trạng thái [Distant Sea Form] đang hoạt động, tiêu hao trạng thái, phản lại toàn bộ sát thương nhận vào một lần và gây sát thương vật lý khủng khiếp lên kẻ địch tấn công. Đòn tấn công này luôn là chí mạng.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン攻撃してきた敵に(\d+)の物理ダメージを与えて消失する絶海の型を最大１つまで付与する$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Giảm phòng thủ vật lý của kẻ địch đi $2 trong 24s.\n►Nhận trạng thái [Distant Sea Form], có khả năng phản toàn bộ sát thương nhận vào và gây $3 sát thương vật lý lên kẻ địch tấn công một lần.
 
 ##S1+##
 一の太刀・雫薙ぎ+=First Strike: Reticence+
-敵全体を挑発する。挑発後のモーション中に攻撃を受けた場合、前方範囲内の敵すべてに物理大ダメージを与え、物理防御力を小ダウンさせ、さらに小さく吹き飛ばす。=Taunts all enemies. If attacked during the provoke action, deals large P.DMG to enemies in range, lowers their P.DMG by a small amount, and blows them up into small pieces.
-r:"^敵全体を挑発する範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理防御力を(\d+)ダウン$"=►Provokes all enemies for 17s.\n►Counter if damage is taken in next 2s by $1 P.DMG in 200 range.\n►Knockbacks all enemies by 200 units.\n►Lowers enemies' P.DEF in 200 range by $2 for 12s.
+敵全体を挑発する。挑発後のモーション中に攻撃を受けた場合、前方範囲内の敵すべてに物理大ダメージを与え、物理防御力を小ダウンさせ、さらに小さく吹き飛ばす。=Khiêu khích tất cả kẻ địch. Nếu bị tấn công trong lúc hành động khiêu khích, gây sát thương vật lý lớn lên kẻ địch trong phạm vi, giảm sát thương vật lý của chúng một chút và thổi chúng thành những mảnh nhỏ.
+r:"^敵全体を挑発する範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理防御力を(\d+)ダウン$"=►Khiêu khích tất cả kẻ địch trong 17s.\n►Phản đòn nếu nhận sát thương trong 2s tiếp theo bằng $1 sát thương vật lý trong phạm vi 200.\n►Đẩy lùi tất cả kẻ địch 200 đơn vị.\n►Giảm phòng thủ vật lý của kẻ địch trong phạm vi 200 đi $2 trong 12s.
 
 ##UE##
 真打 絶海・波浪丸=Zekkai & Haromaru - Origin

@@ -1,23 +1,23 @@
 ##Profile##
-【物理】中衛で、振袖姿で旅館に手を貸す隻眼の闇医者。朧ろ状態にした敵への攻撃時、スキルのダメージや防御力のダウン値が上昇し、紫煙に捉えた敵を艶然と討ち取る。=[Physics] A one-eyed dark doctor who lends a helping hand to the inn in furisode attire in midlines. When attacking a stunned enemy, the skills damage and lowered P.DEF increase, and the enemy caught in purple smoke is brilliantly defeated.
+【物理】中衛で、振袖姿で旅館に手を貸す隻眼の闇医者。朧ろ状態にした敵への攻撃時、スキルのダメージや防御力のダウン値が上昇し、紫煙に捉えた敵を艶然と討ち取る。=[Vật Lý] Một bác sĩ tối tăm một mắt mặc kimono giúp đỡ quán trọ ở vị trí giữa. Khi tấn công kẻ địch bị choáng, sát thương kỹ năng và mức hạ P.DEF tăng lên, và kẻ địch mắc kẹt trong làn khói tím sẽ bị đánh bại rực rỡ.
 
 闇医者の憂鬱=Back Alley Doctor's Melancholy
 闇医者のヤキモチ=Back Alley Doctor's Jealously
 
 ##UB##
 風雲初春ノ渦=Spring Whirlwind of Turbulence
-目の前の敵１キャラに物理特大ダメージを与え、クリティカルを受けた際のダメージを小アップさせる。対象が朧ろ状態だった場合、自分の物理攻撃力と物理クリティカルを中アップさせる。=Deals large P.DMG to an enemy in front, and slightly boosts its P.CRIT DMG taken. Moderately boosts own P.ATK and P.CRIT when an enemy has [Daze].
-r:"^敵単体に(\d+)の物理ダメージ敵単体のクリティカルを受けた際のダメージを6％アップ敵が朧ろ状態の時、自分の物理攻撃力を(\d+)アップ敵が朧ろ状態の時、自分の物理クリティカルを(\d+)アップ$"=►Deals $1 P.DMG to an enemy.\n►Boosts an enemy's P.CRIT DMG take by 6% for 18s.\n\nIf an enemy has [Daze]:\n►Boosts own P.ATK by $2 for 180s.\n►Boosts own P.CRIT Rate by $3 for 180s.
+目の前の敵１キャラに物理特大ダメージを与え、クリティカルを受けた際のダメージを小アップさせる。対象が朧ろ状態だった場合、自分の物理攻撃力と物理クリティカルを中アップさせる。=Gây sát thương vật lý lớn lên kẻ địch phía trước, và tăng nhẹ lượng sát thương chí mạng vật lý mà chúng phải nhận. Tăng sát thương vật lý và tỷ lệ chí mạng vật lý của bản thân một cách vừa phải khi kẻ địch có [Choáng].
+r:"^敵単体に(\d+)の物理ダメージ敵単体のクリティカルを受けた際のダメージを6％アップ敵が朧ろ状態の時、自分の物理攻撃力を(\d+)アップ敵が朧ろ状態の時、自分の物理クリティカルを(\d+)アップ$"=►Gây $1 sát thương vật lý lên một kẻ địch.\n►Tăng lượng sát thương chí mạng vật lý mà kẻ địch phải nhận thêm 6% trong 18s.\n\nNếu kẻ địch có [Choáng]:\n►Tăng sát thương vật lý của bản thân lên $2 trong 180s.\n►Tăng tỷ lệ chí mạng vật lý của bản thân lên $3 trong 180s.
 
 ##S1##
 滅封刻印初め=Seal-Breaking First Mark
-目の前の敵１キャラに物理中ダメージを与え、朧ろ状態を付与し、クリティカルを受けた際のダメージを小アップさせる。=Deals moderate P.DMG to an enemy in front, grants [Daze] to them, and slightly boosts its P.CRIT DMG taken.
-r:"^敵単体に(\d+)の物理ダメージ敵単体のクリティカルを受けた際のダメージを6％アップ$"=Cast time: 0.59s.\n►Deals $1 P.DMG to an enemy.\n►Grants [Daze] to an enemy for 12s.\n►Boosts an enemy's P.CRIT DMG take by 6% for 12s.
+目の前の敵１キャラに物理中ダメージを与え、朧ろ状態を付与し、クリティカルを受けた際のダメージを小アップさせる。=Gây sát thương vật lý trung bình lên kẻ địch phía trước, ban cho chúng [Choáng], và tăng nhẹ lượng sát thương chí mạng vật lý mà chúng phải nhận.
+r:"^敵単体に(\d+)の物理ダメージ敵単体のクリティカルを受けた際のダメージを6％アップ$"=Thời gian niệm: 0.59s.\n►Gây $1 sát thương vật lý lên một kẻ địch.\n►Ban [Choáng] cho một kẻ địch trong 12s.\n►Tăng lượng sát thương chí mạng vật lý mà kẻ địch phải nhận thêm 6% trong 12s.
 
 ##S2##
 孟春ノ荒灸治=Early Spring Scorching Treatment
-目の前の敵１キャラに物理中ダメージを与え、物理防御力を小ダウンさせる。対象が朧ろ状態だった場合、ダメージと防御力のダウン値が上昇する。=Deals moderate P.DMG to an enemy in front, and slightly lowers its P.DEF. If an enemy has [Daze], P.DMG dealt and lowered P.DEF increase.
-r:"^敵が朧ろ状態でない時、敵単体に(\d+)の物理ダメージ敵が朧ろ状態でない時、敵単体の物理防御力を(\d+)ダウン敵が朧ろ状態の時、敵単体に(\d+)の物理ダメージ敵が朧ろ状態の時、敵単体の物理防御力を(\d+)ダウン$"=Cast time: 0.59s\nIf an enemy doesn't [Daze]:\n►Deals $1 P.DMG to an enemy.\n►Lowers an enemy's P.DEF by $2 for 18s.\n\nIf an enemy has have [Daze]:\n►Deals $3 P.DMG to an enemy.\n►Lowers an enemy's P.DEF by $4 for 18s.
+目の前の敵１キャラに物理中ダメージを与え、物理防御力を小ダウンさせる。対象が朧ろ状態だった場合、ダメージと防御力のダウン値が上昇する。=Gây sát thương vật lý trung bình lên kẻ địch phía trước, và hạ nhẹ P.DEF của chúng. Nếu kẻ địch có [Choáng], sát thương vật lý gây ra và mức hạ P.DEF sẽ tăng.
+r:"^敵が朧ろ状態でない時、敵単体に(\d+)の物理ダメージ敵が朧ろ状態でない時、敵単体の物理防御力を(\d+)ダウン敵が朧ろ状態の時、敵単体に(\d+)の物理ダメージ敵が朧ろ状態の時、敵単体の物理防御力を(\d+)ダウン$"=Thời gian niệm: 0.59s\nNếu kẻ địch KHÔNG có [Choáng]:\n►Gây $1 sát thương vật lý lên một kẻ địch.\n►Hạ P.DEF của một kẻ địch xuống $2 trong 18s.\n\nNếu kẻ địch CÓ [Choáng]:\n►Gây $3 sát thương vật lý lên một kẻ địch.\n►Hạ P.DEF của một kẻ địch xuống $4 trong 18s.
 
 ##EX##
 新春荒療治=New Year's Disorderly Healing
@@ -25,8 +25,8 @@ r:"^敵が朧ろ状態でない時、敵単体に(\d+)の物理ダメージ敵�
 
 ##S1+##
 滅封刻印初め+=Seal-Breaking First Mark+
-目の前の敵１キャラに物理中ダメージを与え、朧ろ状態を付与し、物理防御力を小ダウンさせ、クリティカルを受けた際のダメージを小アップさせる。=Deals moderate P.DMG to an enemy in front, grants [Daze] to them, slightly lowers its P.DEF, and slightly boosts its P.CRIT DMG taken.
-r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン敵単体のクリティカルを受けた際のダメージを6％アップ$"=Cast time: 0.59s.\n►Deals $1 P.DMG to an enemy.\n►Grants [Daze] to an enemy for 12s.\n►Lowers an enemy's P.DEF by $2 for 12s.\n►Boosts an enemy's P.CRIT DMG take by 6% for 12s.
+目の前の敵１キャラに物理中ダメージを与え、朧ろ状態を付与し、物理防御力を小ダウンさせ、クリティカルを受けた際のダメージを小アップさせる。=Gây sát thương vật lý trung bình lên kẻ địch phía trước, ban cho chúng [Choáng], hạ nhẹ P.DEF của chúng, và tăng nhẹ lượng sát thương chí mạng vật lý mà chúng phải nhận.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン敵単体のクリティカルを受けた際のダメージを6％アップ$"=Thời gian niệm: 0.59s.\n►Gây $1 sát thương vật lý lên một kẻ địch.\n►Ban [Choáng] cho một kẻ địch trong 12s.\n►Hạ P.DEF của một kẻ địch xuống $2 trong 12s.\n►Tăng lượng sát thương chí mạng vật lý mà kẻ địch phải nhận thêm 6% trong 12s.
 
 ##UE##
 薔薇女将の湯治煙管=Rose Proprietress's Hot Spring Kiseru

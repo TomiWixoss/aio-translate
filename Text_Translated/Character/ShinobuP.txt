@@ -1,25 +1,25 @@
 ##Profile##
-【物理】中衛で、彷徨える魂を解き放つ海星の霊能少女。攻撃の際、付与する【霊錨の刻印】を駆使し、ダメージ量アップのスキルと防御力ダウンのＵＢで敵を浄滅へ導く。=[Physical] A psychic girl from Neptune who unleashes wandering souls in midlines. She attaches [Soul Anchor Mark] during her attacks to increase her DMG and leads enemies to pure destruction with her UB that lowers enemies' P.DEF.
+【物理】中衛で、彷徨える魂を解き放つ海星の霊能少女。攻撃の際、付与する【霊錨の刻印】を駆使し、ダメージ量アップのスキルと防御力ダウンのＵＢで敵を浄滅へ導く。=[Vật lý] Một cô gái tâm linh từ Neptune giải phóng những linh hồn lang thang ở tuyến giữa. Cô đánh dấu [Dấu neo linh hồn] trong các đòn tấn công để tăng sát thương và dẫn dắt kẻ địch đến sự hủy diệt hoàn toàn với UB của mình, làm giảm phòng thủ vật lý của kẻ địch.
 
 ##UB##
 ソウルリベレーション=Soul Liberation
-目の前の敵１キャラに物理大ダメージを与え、物理防御力を大ダウンさせる。対象の敵に【霊錨の刻印】が付与されている場合、【霊錨の刻印】の数に応じて最大８つ分までダメージを増加させ、【霊錨の刻印】を８つ消費する。=Deals large P.DMG to an enemy in front, greatly lowers its P.DEF. The damage of this skill increases with the number of [Soul Anchor Mark] on enemy. Consumes up to 8 of [Soul Anchor Mark] from an enemy.
-r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン霊錨の刻印を８つ消費する$"=►Deals $1 (+0.4×$1×[Soul Anchor Mark]) P.DMG to an enemy.\n►Lowers an enemy's P.DEF by $2 for 12s.\n►Consumes up to 8 of [Soul Anchor Mark] from an enemy.
+目の前の敵１キャラに物理大ダメージを与え、物理防御力を大ダウンさせる。対象の敵に【霊錨の刻印】が付与されている場合、【霊錨の刻印】の数に応じて最大８つ分までダメージを増加させ、【霊錨の刻印】を８つ消費する。=Gây sát thương vật lý lớn lên kẻ địch phía trước, giảm mạnh phòng thủ vật lý của nó. Sát thương của kỹ năng này tăng theo số lượng [Dấu neo linh hồn] trên kẻ địch. Tiêu thụ tối đa 8 [Dấu neo linh hồn] từ kẻ địch.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン霊錨の刻印を８つ消費する$"=►Gây $1 (+0.4×$1×[Dấu neo linh hồn]) sát thương vật lý lên kẻ địch.\n►Giảm phòng thủ vật lý của kẻ địch đi $2 trong 12s.\n►Tiêu thụ tối đa 8 [Dấu neo linh hồn] từ kẻ địch.
 
 ##S1##
 ソウルバインド=Soul Bind
-目の前の敵１キャラに物理中ダメージを与え、物理防御力を小ダウンさせる。さらに、【霊錨の刻印】を２つ追加で付与する。=Deals moderate P.DMG to an enemy in front, and lowers its P.DMG by a small amount. Additionally, grants 2 [Soul Anchor Mark] to an enemy.
-r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン霊錨の刻印を追加で２つ付与する$"=►Deals $1 P.DMG to an enemy.\n►Lowers an enemy's P.DEF by $2 for 12s.\n►Grants 2 [Soul Anchor Mark] to an enemy.
+目の前の敵１キャラに物理中ダメージを与え、物理防御力を小ダウンさせる。さらに、【霊錨の刻印】を２つ追加で付与する。=Gây sát thương vật lý vừa phải lên kẻ địch phía trước, và giảm sát thương vật lý của nó một chút. Ngoài ra, trao 2 [Dấu neo linh hồn] cho kẻ địch.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン霊錨の刻印を追加で２つ付与する$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Giảm phòng thủ vật lý của kẻ địch đi $2 trong 12s.\n►Trao 2 [Dấu neo linh hồn] cho kẻ địch.
 
 ##S2##
 ボイドスラッシュ=Void Slash
-目の前の敵１キャラに物理中ダメージを与え、自分の物理攻撃力を小アップ、ＴＰを小回復させる。対象の敵に【霊錨の刻印】が付与されている場合、【霊錨の刻印】の数に応じて最大３つ分まで物理攻撃力の上昇量とＴＰの回復量をアップさせ、【霊錨の刻印】を３つ消費する。=Deals moderate P.DMG to an enemy in front, slightly boosts own P.ATK, and slightly recovers own TP. The damage and TP recovery of this skill increase with the number of [Soul Anchor Mark] on enemy. Consumes up to 3 of [Soul Anchor Mark] from an enemy.
-r:"^敵単体に(\d+)の物理ダメージ自分のＴＰを(\d+)回復自分の物理攻撃力を(\d+)アップ霊錨の刻印を３つ消費する$"=►Deals $1 (+$1×[Soul Anchor Mark]) P.DMG to an enemy.\n►Recovers own TP by $2 (+$2×[Soul Anchor Mark]).\n►Boosts own P.ATK by $3 for 180s.
+目の前の敵１キャラに物理中ダメージを与え、自分の物理攻撃力を小アップ、ＴＰを小回復させる。対象の敵に【霊錨の刻印】が付与されている場合、【霊錨の刻印】の数に応じて最大３つ分まで物理攻撃力の上昇量とＴＰの回復量をアップさせ、【霊錨の刻印】を３つ消費する。=Gây sát thương vật lý vừa phải lên kẻ địch phía trước, tăng nhỏ tấn công vật lý của bản thân, và hồi nhỏ TP của bản thân. Sát thương và hồi TP của kỹ năng này tăng theo số lượng [Dấu neo linh hồn] trên kẻ địch. Tiêu thụ tối đa 3 [Dấu neo linh hồn] từ kẻ địch.
+r:"^敵単体に(\d+)の物理ダメージ自分のＴＰを(\d+)回復自分の物理攻撃力を(\d+)アップ霊錨の刻印を３つ消費する$"=►Gây $1 (+$1×[Dấu neo linh hồn]) sát thương vật lý lên kẻ địch.\n►Hồi TP của bản thân lên $2 (+$2×[Dấu neo linh hồn]).\n►Tăng tấn công vật lý của bản thân lên $3 trong 180s.
 
 ##SP1##
 アストラルシール=Astral Seal
-このスキルのスキルレベルは「ソウルリベ\nレーション」と連動しています=This skill's level is linked to "Soul Liberation"
-【霊錨の刻印】を敵へ付与できる状態になる。攻撃が敵に当たるたび【霊錨の刻印】を１つ付与する。【霊錨の刻印】は最大15まで追加される。=Whenever one of Shinobu's attacks hit an enemy, that enemy gains one stack of [Spiritual Anchor Mark], up to a maximum of 15.
+このスキルのスキルレベルは「ソウルリベ\nレーション」と連動しています=Cấp độ kỹ năng này được liên kết với "Soul Liberation"
+【霊錨の刻印】を敵へ付与できる状態になる。攻撃が敵に当たるたび【霊錨の刻印】を１つ付与する。【霊錨の刻印】は最大15まで追加される。=Mỗi khi một đòn tấn công của Shinobu trúng kẻ địch, kẻ địch đó nhận được một tầng [Dấu neo tâm linh], tối đa 15 tầng.
 
 ##EX##
 海星の小夜歌=Starfish's Night Song
@@ -27,8 +27,8 @@ r:"^敵単体に(\d+)の物理ダメージ自分のＴＰを(\d+)回復自分の
 
 ##S1+##
 ソウルバインド+=Soul Bind+
-目の前の敵１キャラに物理大ダメージを与え、物理防御力を中ダウンさせ、自分の物理攻撃力を小アップし、物理クリティカルを中アップする。さらに、【霊錨の刻印】を２つ追加で付与する。=Deals large P.DMG to an enemy in front, moderately lowers its P.DMG, slightly boosts own P.ATK, and moderately boosts P.CRIT Rate. Additionally, grants 2 [Soul Anchor Mark] to an enemy.
-r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン霊錨の刻印を追加で２つ付与する自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを(\d+)アップ$"=►Deals $1 P.DMG to an enemy.\n►Lowers an enemy's P.DEF by $2 for 12s.\n►Grants 2 [Soul Anchor Mark] to an enemy.\n►Boosts own P.ATK by $3 for 180s.\n►Boosts own P.CRIT Rate by $4 for 180s.
+目の前の敵１キャラに物理大ダメージを与え、物理防御力を中ダウンさせ、自分の物理攻撃力を小アップし、物理クリティカルを中アップする。さらに、【霊錨の刻印】を２つ追加で付与する。=Gây sát thương vật lý lớn lên kẻ địch phía trước, giảm vừa phải sát thương vật lý của nó, tăng nhỏ tấn công vật lý của bản thân, và tăng vừa phải tỷ lệ chí mạng vật lý. Ngoài ra, trao 2 [Dấu neo linh hồn] cho kẻ địch.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン霊錨の刻印を追加で２つ付与する自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを(\d+)アップ$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Giảm phòng thủ vật lý của kẻ địch đi $2 trong 12s.\n►Trao 2 [Dấu neo linh hồn] cho kẻ địch.\n►Tăng tấn công vật lý của bản thân lên $3 trong 180s.\n►Tăng tỷ lệ chí mạng vật lý của bản thân lên $4 trong 180s.
 
 ##UE##
 霊錨斧グリムアンカー=Spiritual Grim Anchor Axe

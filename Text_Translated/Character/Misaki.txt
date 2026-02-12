@@ -1,6 +1,6 @@
 ##Profile##
-ちょっとおませな恋に恋する女の子=A mischevious child who longs for adulthood
-【魔法】後衛から、範囲攻撃を行う、レディ・ウィッチ。複数回の範囲攻撃を放つスキルや、目の前の敵全てを攻撃するユニオンバーストを持ち、範囲殲滅に特化する。=[Magic] A witch that launches area attacks from the rearguard. Specializes in mass destruction using multi-hit area effect skills along with a Union Burst that strikes all foes before her.
+ちょっとおませな恋に恋する女の子=Một đứa trẻ nghịch ngợm khao khát trở thành người lớn.
+【魔法】後衛から、範囲攻撃を行う、レディ・ウィッチ。複数回の範囲攻撃を放つスキルや、目の前の敵全てを攻撃するユニオンバーストを持ち、範囲殲滅に特化する。=[Magic] Một phù thủy phóng các đòn tấn công diện tích từ hậu phương. Chuyên về hủy diệt hàng loạt với các kỹ năng đa đánh diện tích cùng Union Burst tấn công tất cả kẻ thù trước mặt.
 
 誰にも負けたくない気持ち=I Don't Want to Lose to Anyone's Feelings
 レディの最高の一枚=Lady's Best Card
@@ -16,20 +16,20 @@
 エレガントで大人な夜=Adults' Night Out
 大人なレディ、ミサキ=Adult Lady, Misaki
 
-ファッション誌鑑賞、コスメ集め=Fashion magazine appreciation, collecting cosmetics
+ファッション誌鑑賞、コスメ集め=Thích xem tạp chí thời trang, sưu tập mỹ phẩm.
 
 ##UB##
 デストロイアイ=All-Destroying Eye
 
 ##S1##
 ダークフォトン=Dark Photon
-目の前の敵１キャラに魔法小ダメージを与え、さらに行動速度を小ダウンさせる。=Deals small M.DMG to an enemy directly in front and reduces their action speed by a small amount.
-r:"^敵単体に(\d+)の魔法ダメージ敵単体の行動速度を一定時間低下させる$"=►Deals $1 M.DMG to an enemy.\n►Reduces an enemy's action speed for a set period of time.
+目の前の敵１キャラに魔法小ダメージを与え、さらに行動速度を小ダウンさせる。=Gây sát thương phép thuật nhỏ lên kẻ thù đứng ngay trước mặt và giảm tốc độ hành động của chúng một chút.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体の行動速度を一定時間低下させる$"=►Gây $1 M.DMG lên kẻ thù.\n►Giảm tốc độ hành động của kẻ thù trong một khoảng thời gian cố định.
 
 ##S2##
 スローイングアイ=Eyeball Volley
-範囲内の敵すべてに魔法小ダメージを３回与える。範囲の中心になる敵はミサキの前方から近い順に選ばれる。=Deals small M.DMG to all enemies in a radius around the closest enemy 3 times.
-r:"^範囲内の敵にそれぞれ(\d+)の魔法ダメージ$"=►Deals $1 M.DMG per hit to enemies in range.
+範囲内の敵すべてに魔法小ダメージを３回与える。範囲の中心になる敵はミサキの前方から近い順に選ばれる。=Gây sát thương phép thuật nhỏ lên tất cả kẻ thù trong bán kính xung quanh kẻ thù gần nhất 3 lần.
+r:"^範囲内の敵にそれぞれ(\d+)の魔法ダメージ$"=►Gây $1 M.DMG mỗi lần đánh lên kẻ thù trong phạm vi.
 
 ##EX##
 レディのたしなみ=True Lady's Etiquette
@@ -37,13 +37,13 @@ r:"^範囲内の敵にそれぞれ(\d+)の魔法ダメージ$"=►Deals $1 M.DMG
 
 ##UB+##
 ヴィーナス・ドゥームアイ=Venus Doom Eye
-敵全体に魔法中ダメージを与え、呪詛状態にする。呪詛状態だった場合は代わりに呪い状態にする。呪いか呪詛状態だった場合、ダメージ量が増加し誘惑状態にする。呪詛による継続ダメージは毎秒ごとに増加する。=Deals moderate M.DMG to all enemies and curse them. If it is in a curse or hexed state, the amount of damage will increase and it will be in a charmed state. The continuous damage caused by the hexed boost every second.
-r:"^呪いまたは呪詛状態ではない敵に(\d+)の魔法ダメージ呪いまたは呪詛状態の敵に(\d+)の魔法ダメージ敵が呪いまたは呪詛状態の場合、誘惑する毎秒ダメージが初期値(\d+)の30％ずつアップするダメージを与える呪詛状態にする(\d+)ダメージを与える呪い状態にする$"=If the enemies are not cursed/hexed:\n►Deals $1 M.DMG to enemies.\n►Inflicts Curse $3 M.DMG/s.\n\nIf the enemies are cursed/hexed:\n►Deals $2 M.DMG to enemies.\n►Inflicts Hex $4+30% M.DMG/s.\n►Inflicts Charm for 5s.
+敵全体に魔法中ダメージを与え、呪詛状態にする。呪詛状態だった場合は代わりに呪い状態にする。呪いか呪詛状態だった場合、ダメージ量が増加し誘惑状態にする。呪詛による継続ダメージは毎秒ごとに増加する。=Gây sát thương phép thuật vừa phải lên tất cả kẻ thù và nguyền rủa chúng. Nếu chúng đang trong trạng thái nguyền rủa hay bị ám, lượng sát thương sẽ tăng và chúng sẽ ở trạng thái mê hoặc. Sát thương liên tục do ám tăng lên mỗi giây.
+r:"^呪いまたは呪詛状態ではない敵に(\d+)の魔法ダメージ呪いまたは呪詛状態の敵に(\d+)の魔法ダメージ敵が呪いまたは呪詛状態の場合、誘惑する毎秒ダメージが初期値(\d+)の30％ずつアップするダメージを与える呪詛状態にする(\d+)ダメージを与える呪い状態にする$"=Nếu kẻ thù chưa bị nguyền/ám:\n►Gây $1 M.DMG lên kẻ thù.\n►Gây Curse $3 M.DMG/s.\n\nNếu kẻ thù bị nguyền/ám:\n►Gây $2 M.DMG lên kẻ thù.\n►Gây Hex $4+30% M.DMG/s.\n►Gây Charm trong 5s.
 
 ##S1+##
 ダークフォトン+=Dark Photon+
-最も近くの敵１キャラを中心とした範囲内の敵すべてに魔法中ダメージを与え、さらに行動速度を大ダウンさせる。=Deals moderate M.DMG to all enemies in range and reduces their action speed by a large amount.
-r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の行動速度を一定時間低下させる$"=►Deals $1 M.DMG to enemies in range.\n►Reduces enemies' action speed in range.
+最も近くの敵１キャラを中心とした範囲内の敵すべてに魔法中ダメージを与え、さらに行動速度を大ダウンさせる。=Gây sát thương phép thuật vừa phải lên tất cả kẻ thù trong phạm vi và giảm tốc độ hành động của chúng một lượng lớn.
+r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の行動速度を一定時間低下させる$"=►Gây $1 M.DMG lên kẻ thù trong phạm vi.\n►Giảm tốc độ hành động của kẻ thù trong phạm vi.
 
 ##UE##
 魔眼杖デモネス・アイ=Eye of the Demoness

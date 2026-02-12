@@ -1,113 +1,113 @@
-深淵討伐戦=Abyss Battle
-前哨クエスト=Outpost Quests
-前哨クエストで討伐依頼証を獲得しよう！=Get Hunting Tickets in Outpost Quests!
-朱火の深淵=Crimson Abyss
-轟流の深淵=Turbulent Abyss
-玄闇の深淵=Oblivion Abyss
-烈風の深淵=Gale Abyss
-燦爛の深淵=Brilliant Abyss
+深淵討伐戦=Trận Chiến Vực Sâu
+前哨クエスト=Nhiệm Vụ Tiền Đồn
+前哨クエストで討伐依頼証を獲得しよう！=Nhận Vé Săn Bắn từ Nhiệm Vụ Tiền Đồn!
+朱火の深淵=Vực Sâu Đỏ Thẫm
+轟流の深淵=Vực Sâu Bão Táp
+玄闇の深淵=Vực Sâu Quên Lãng
+烈風の深淵=Vực Sâu Gió Lốc
+燦爛の深淵=Vực Sâu Rực Rỡ
 
-深淵討伐戦へ=To the Abyss Battle
-スタミナ不足のため実行しません。=Not executed due to lack of stamina.
-スコア報酬=Score Reward
-r:"^スコアを([0-9,]+)pt獲得しよう$"=Get a score of $1pt
-r:"^\[3C404E\]初回クリアでスコア\[-\]\[FFBB00,CE4F00\]([0-9,]+)pt\[-\]\[3C404E\]獲得！\[-\]$"=[3C404E] Earn a score of [FFBB00,CE4F00]$1pt[-] on your first clear![-]
-スコアレート=Score rate
-ボスリザルト=Boss Result
-初回クリアボーナス=First Clear Bonus
-模擬戦のためスコア、報酬は獲得できません。=Scores and rewards will not be obtained for mock battles.
-サポートキャラが編成されているため再戦できません。=Rematch is not possible because a support character is included in the team.
-リタイアすると報酬を\n獲得することができません。\n討伐依頼証は消費されません。\n\nよろしいですか？\n=If you quit, you will not receive any rewards. The Subjugation Request Form will not be consumed.\n\nAre you sure?
+深淵討伐戦へ=Đến Trận Chiến Vực Sâu
+スタミナ不足のため実行しません。=Không thể thực hiện do không đủ thể lực.
+スコア報酬=Phần Thưởng Điểm Số
+r:"^スコアを([0-9,]+)pt獲得しよう$"=Đạt được $1 điểm
+r:"^\[3C404E\]初回クリアでスコア\[-\]\[FFBB00,CE4F00\]([0-9,]+)pt\[-\]\[3C404E\]獲得！\[-\]$"=[3C404E] Lần đầu tiên đạt được [FFBB00,CE4F00]$1 điểm[-] để nhận thưởng![-]
+スコアレート=Tỷ lệ điểm
+ボスリザルト=Kết Quả Trận Boss
+初回クリアボーナス=Thưởng Lần Đầu Vượt Ảo
+模擬戦のためスコア、報酬は獲得できません。=Điểm số và phần thưởng sẽ không được nhận cho trận đấu giả lập.
+サポートキャラが編成されているため再戦できません。=Không thể đấu lại vì đội có nhân vật hỗ trợ.
+リタイアすると報酬を\n獲得することができません。\n討伐依頼証は消費されません。\n\nよろしいですか？\n=Nếu bạn thoát, bạn sẽ không nhận được phần thưởng nào. Phiếu Yêu Cầu Chinh Phạt sẽ không bị tiêu hao.\n\nBạn có chắc không?
 
-難易度HARD=Hard
-難易度NORMAL=Normal
-スキップ可能な前哨クエストがありません。=There are no skipping Outpost Quests.
-r:"^\[FFBB00,CE4F00\]([0-9,]+)\[-\]\[3C404E\]枚で挑戦\[-\]$"=[3C404E]Challenge with [FFBB00,CE4F00]$1[-] Form(s)[-]
+難易度HARD=Khó
+難易度NORMAL=Bình Thường
+スキップ可能な前哨クエストがありません。=Không có nhiệm vụ tiền đồn nào để bỏ qua.
+r:"^\[FFBB00,CE4F00\]([0-9,]+)\[-\]\[3C404E\]枚で挑戦\[-\]$"=[3C404E]Thử thách với [FFBB00,CE4F00]$1[-] Biểu Mẫu[-]
 
-撃破回数=Defeat count
-消費討伐依頼証=Use Hunting Tickets
-r:"^スキップチケットと討伐依頼証を消費して\n([0-9]+)回バトルをスキップします。$"=Spend Skip Ticket and Hunting Tickets to skip $1 battles.
+撃破回数=Số lần đánh bại
+消費討伐依頼証=Sử dụng Vé Săn Bắn
+r:"^スキップチケットと討伐依頼証を消費して\n([0-9]+)回バトルをスキップします。$"=Tiêu hao Vé Bỏ Qua và Vé Săn Bắn để bỏ qua $1 trận đấu.
 
-ボス難易度選択=Boss difficulty selection
-模擬戦のため報酬は獲得できません。=Rewards will not be obtained for the mock battles.
-モンスターＨＰを本戦状態\\nにする=Set monster HP to main battle state
-モンスターＨＰを本戦状態\nにする=Set monster HP to main battle state
-モンスターＨＰを本戦状態\にする=Set monster HP to battle status
-討伐依頼証枚数=Number of Hunting Tickets
-スキップダメージ=Skip Damage
-sr:"^(.{2,6})の所持数が足りません。$"=Insufficient $1.
+ボス難易度選択=Chọn độ khó boss
+模擬戦のため報酬は獲得できません。=Phần thưởng sẽ không được nhận cho các trận đấu giả lập.
+モンスターＨＰを本戦状態\\nにする=Đặt HP quái về trạng thái trận chính
+モンスターＨＰを本戦状態\nにする=Đặt HP quái về trạng thái trận chính
+モンスターＨＰを本戦状態\にする=Đặt HP quái về trạng thái trận đấu
+討伐依頼証枚数=Số lượng Vé Săn Bắn
+スキップダメージ=Sát Thương Bỏ Qua
+sr:"^(.{2,6})の所持数が足りません。$"=Không đủ $1.
 
-[FFFFFF]深淵討伐戦の前哨クエストを1回クリアしよう[-]=[FFFFFF]Clear 1 time Abyss Subjugation Outpost Quest[-]
-深淵討伐戦の前哨クエストを1回クリアしよう=Clear 1 time Abyss Subjugation Outpost Quest
-[FFFFFF]深淵討伐戦で全ボスのVERY HARDをクリアしよう[-]=[FFFFFF]Clear all bosses in the Abyss Battle on VERY HARD.[-]
-深淵討伐戦で全ボスのVERY HARDをクリアしよう=Clear all bosses in the Abyss Battle on VERY HARD.
+[FFFFFF]深淵討伐戦の前哨クエストを1回クリアしよう[-]=[FFFFFF]Vượt 1 lần Nhiệm Vụ Tiền Đồn Chinh Phạt Vực Sâu[-]
+深淵討伐戦の前哨クエストを1回クリアしよう=Vượt 1 lần Nhiệm Vụ Tiền Đồn Chinh Phạt Vực Sâu
+[FFFFFF]深淵討伐戦で全ボスのVERY HARDをクリアしよう[-]=[FFFFFF]Vượt tất cả boss trong Trận Chiến Vực Sâu ở độ RẤT KHÓ.[-]
+深淵討伐戦で全ボスのVERY HARDをクリアしよう=Vượt tất cả boss trong Trận Chiến Vực Sâu ở độ RẤT KHÓ.
 ---NPC Tutorial Kokkoro---
-深淵討伐戦では特定の属性ボーナスが強化されるようです。\n前哨クエストで討伐依頼証を集めることで\nボスに挑戦できるようです。=It seems certain elemental bonuses will be strengthened during the Abyss Subjugation Battle. You can challenge the boss by collecting Hunting Tickets for the Subjugation in the Outpost Quests.
-ボス戦では、与えたダメージに応じてスコアが加算されます。ボスの\n初回クリアや到達スコアの報酬として、マスターピースのかけらが手に\n入りますよ。万全の準備を整えて挑戦いたしましょう。=In boss battles, your score will be increased based on the damage you inflict. As a reward for completing the boss's first round and completing the final score, you will obtain a Masterpiece Fragment. Make sure you are fully prepared for the challenge.
+深淵討伐戦では特定の属性ボーナスが強化されるようです。\n前哨クエストで討伐依頼証を集めることで\nボスに挑戦できるようです。=Có vẻ như các bonus nguyên tố cụ thể sẽ được tăng cường trong Trận Chiến Chinh Phạt Vực Sâu. Bạn có thể thử thách boss bằng cách thu thập Vé Săn Bắn cho Cuộc Chinh Phạt từ các Nhiệm Vụ Tiền Đồn.
+ボス戦では、与えたダメージに応じてスコアが加算されます。ボスの\n初回クリアや到達スコアの報酬として、マスターピースのかけらが手に\n入りますよ。万全の準備を整えて挑戦いたしましょう。=Trong trận đấu boss, điểm số của bạn sẽ được tăng dựa trên sát thương bạn gây ra. Như một phần thưởng cho việc hoàn thành vòng đầu tiên của boss và hoàn thành điểm số cuối cùng, bạn sẽ nhận được Mảnh Kiệt Tác. Hãy đảm bảo bạn đã sẵn sàng hoàn toàn cho thử thách.
 
-[3C404E]討伐依頼証を[FFBB00,CE4F00]1[-]枚消費して、同じパーティでもう一度クエストをプレイします。[-]=[3C404E]Use[FFBB00,CE4F00]1[-] Hunting Tickets to play another quest with the same party. [-]
-[3C404E]討伐依頼証を[FFBB00,CE4F00]1[-]消費して、同じパーティで\nもう一度クエストをプレイします。よろしいですか？[-]=[3C404E]Use[FFBB00,CE4F00]1[-] Hunting Tickets to play another quest with the same party.\nIs that okay?[-]
+[3C404E]討伐依頼証を[FFBB00,CE4F00]1[-]枚消費して、同じパーティでもう一度クエストをプレイします。[-]=[3C404E]Sử dụng[FFBB00,CE4F00]1[-] Vé Săn Bắn để chơi một nhiệm vụ khác với cùng một đội. [-]
+[3C404E]討伐依頼証を[FFBB00,CE4F00]1[-]消費して、同じパーティで\nもう一度クエストをプレイします。よろしいですか？[-]=[3C404E]Sử dụng[FFBB00,CE4F00]1[-] Vé Săn Bắn để chơi một nhiệm vụ khác với cùng một đội.\nBạn có đồng ý không?[-]
 
 
 
 
 ---Tutorial First Time---
-き、き、緊急事態です！　『深域』の最奥地帯である『深淵』から、\nとてつもなく強力な魔物が現れたようです！=Emergency! There's a tremendously powerful monster emerging from the deepest region of the 'Abyss'!
-カリンさん！？　ここまで走ってきたんですか！？\nそれに強力な魔物って……？=Karin!? Did you run all the way here? And a powerful monster, you say...?
+き、き、緊急事態です！　『深域』の最奥地帯である『深淵』から、\nとてつもなく強力な魔物が現れたようです！=Khẩn cấp! Một sinh vật cực kỳ mạnh mẽ đang xuất hiện từ khu vực sâu nhất của 'Vực Sâu'!
+カリンさん！？　ここまで走ってきたんですか！？\nそれに強力な魔物って……？=Karin!? Cô chạy tới đây ư...? Và một quái vật mạnh, cô nói ư...?
 
-はいはい、いつもの「もっと強い敵が現れた！」ね。\nまっかせなさい！　そんなのソッコーでぶっ倒してきてやるわ！=Yeah, yeah, the usual "There's a stronger enemy now!" Leave it to me! I'll knock it out in no time!
+はいはい、いつもの「もっと強い敵が現れた！」ね。\nまっかせなさい！　そんなのソッコーでぶっ倒してきてやるわ！=Ừ, ừ, thường lệ rồi "Có kẻ địch mạnh hơn xuất hiện!" Giao cho tôi! Tôi sẽ đánh bại nó trong chớp mắt!
 
-キャルさま！？\n一人で行ってしまわれました……！\n大丈夫でしょうか？=Kyaru-sama!? She went alone...! Will she be okay?
+キャルさま！？\n一人で行ってしまわれました……！\n大丈夫でしょうか？=Kyaru-sama!? Cô ấy đi một mình...! Có ổn không?
 
-あ！　でも、引き返してきましたよ～？=Ah! But she's already coming back!
+あ！　でも、引き返してきましたよ～？=À! Nhưng cô ấy đã quay về rồi!
 
-無理無理無理無理ぃ！\nちょっとシャレになってないわよアレ！=No way, no way, no way! That thing's no joke!
+無理無理無理無理ぃ！\nちょっとシャレになってないわよアレ！=Không thể nào, không thể nào, không thể nào! Cái thứ đó đùa đấy à!
 
-はい。洒落にならないのも当然です。\n言ってしまえばあの魔物は、\n『深域』の魔物たちの親玉ですから……！=Of course it's no joke. To put it simply, that monster is the boss of the 'Abyss' monsters...
+はい。洒落にならないのも当然です。\n言ってしまえばあの魔物は、\n『深域』の魔物たちの親玉ですから……！=Tất nhiên là không đùa. Nói đơn giản, quái vật đó là boss của loài quái 'Vực Thẳm'...
 
-親玉ですか～！　それは強そうですし……\n食べ応えもありそうですね☆　じゅるり♪=The boss, huh? That sounds tough... and delicious☆ Yum!
+親玉ですか～！　それは強そうですし……\n食べ応えもありそうですね☆　じゅるり♪=Boss hả? Nghe thật khó... và ngon quá☆ Ngon!
 
-い、言っておくけど、アレは今度こそ食べられないと思うわよ！？\nていうかそもそも、あんなのどうやって倒せってのよ～！？=I-I'll just say this: I don't think you can eat this one! And seriously, how are we supposed to defeat something like that!?
+い、言っておくけど、アレは今度こそ食べられないと思うわよ！？\nていうかそもそも、あんなのどうやって倒せってのよ～！？=T-Tôi chỉ nói thế này: Tôi nghĩ cô không ăn được cái này! Và nghiêm túc đấy, làm sao chúng ta đánh bại thứ như thế!?
 
-そうですね……肝心なのは『属性』です。\n『深淵』での戦闘は、これまでの『深域』クエストと同様に\n『属性の力』を活用すれば有利に進められるはずですよ。=The key lies in 'attributes.' Just like previous 'Abyss' quests, using the power of 'attributes' will give us an advantage in this fight.
+そうですね……肝心なのは『属性』です。\n『深淵』での戦闘は、これまでの『深域』クエストと同様に\n『属性の力』を活用すれば有利に進められるはずですよ。=Chìa khóa nằm ở 'thuộc tính.' Giống như các nhiệm vụ 'Vực Thẳm' trước, sử dụng sức mạnh của 'thuộc tính' sẽ cho chúng ta lợi thế trong trận chiến này.
 
-なるほど。\nでは主さま、引き続き『属性』を揃えることを意識して\n戦ってまいりましょう。=I see. So, Aruji-sama, let's continue focusing on gathering the right 'attributes' as we battle.
+なるほど。\nでは主さま、引き続き『属性』を揃えることを意識して\n戦ってまいりましょう。=Ra vậy. Vậy, Aruji-sama, hãy tiếp tục tập trung vào việc thu thập 'thuộc tính' phù hợp khi chiến đấu.
 
-ま、戦い方はそれでいいとして……報酬は弾むんでしょうね？\nしょっぱいアイテムしかなかったら承知しないわよ？=Alright, the strategy is fine and all, but... the rewards better be worth it! I won't settle for any lame items!
+ま、戦い方はそれでいいとして……報酬は弾むんでしょうね？\nしょっぱいアイテムしかなかったら承知しないわよ？=Được rồi, chiến lược ổn và mọi chuyện, nhưng... phần thưởng phải xứng đáng! Tôi sẽ không chấp nhận món đồ nào tệ!
 
-ふふふ♪　報酬に関しては、お任せください！\n現地で取得した『アストラルスフィア』や『アストラルシャード』は\nこれまで通り自由に持ち帰っていただいて構いません。さらに──=Hehe♪ Leave the rewards to me! You can still freely take home any 'Astral Spheres' or 'Astral Shards' you obtain on-site. Additionally──
+ふふふ♪　報酬に関しては、お任せください！\n現地で取得した『アストラルスフィア』や『アストラルシャード』は\nこれまで通り自由に持ち帰っていただいて構いません。さらに──=Hehe♪ Giao phần thưởng cho tôi! Bạn vẫn có thể tự do mang về bất kỳ 'Vũ Trụ Cầu' hay 'Vũ Trụ Mảnh' nào bạn thu được tại hiện trường. Ngoài ra──
 
-今回は特別報酬として、\n『マスターピースの欠片』もご用意します！=For this special occasion, we're offering 'Masterpiece Fragments' as well!
+今回は特別報酬として、\n『マスターピースの欠片』もご用意します！=Nhân dịp đặc biệt này, chúng tôi cũng tặng 'Mảnh Kiệt Tác'!
 
-大変豪華な報酬ですね。\nそれがあれば、主さまのお力もさらに強くなられるかと。=What splendid rewards. With those, Master's power will surely increase further.
+大変豪華な報酬ですね。\nそれがあれば、主さまのお力もさらに強くなられるかと。=Phần thưởng tuyệt vời thật. Với những thứ đó, sức mạnh của Master chắc chắn sẽ tăng thêm.
 
-あのさ……手際が良すぎて怖いんだけど……\n走ってきたのも実はわざとだったりしない？=You know... the way you're so prepared is kind of scary... Did you plan running here on purpose too?
+あのさ……手際が良すぎて怖いんだけど……\n走ってきたのも実はわざとだったりしない？=Anh biết không... cách anh chuẩn bị kỹ thế này hơi đáng sợ... Anh có chủ ý chạy tới đây từ trước không?
 
-そんなことはありませんよ？\nそういうわけで、この『深淵討伐戦』──\nお願いしますみなさん！　力を貸してください！=Of course not. So, with that, please take on this 'Abyss Conquest'! We need your strength!
+そんなことはありませんよ？\nそういうわけで、この『深淵討伐戦』──\nお願いしますみなさん！　力を貸してください！=Tất nhiên là không. Vậy, với điều đó, hãy nhận lấy 'Chinh Phục Vực Thẳm' này! Chúng tôi cần sức mạnh của bạn!
 
-主さまのためとあっては、いてもたってもいられません……\n早速編成を組み、挑戦してみましょう！=If it's for Master, I can't just sit around... Let's assemble the team and give it a try!
+主さまのためとあっては、いてもたってもいられません……\n早速編成を組み、挑戦してみましょう！=Nếu vì Master, tôi không thể ngồi yên... Hãy tập hợp đội và thử xem!
 
-……あーもうしょうがないわね！　とっとと片付けてきてやるから、\n報酬いーっぱい用意しときなさいよね！=...Oh, fine! I'll take care of this quickly, so make sure you have plenty of rewards ready!
-【美食殿】、レッツゴーです☆=[Gourmet Guild], let's go☆
+……あーもうしょうがないわね！　とっとと片付けてきてやるから、\n報酬いーっぱい用意しときなさいよね！=...Ừ, được! Tôi sẽ xử lý nhanh chóng, nên hãy chuẩn bị thật nhiều phần thưởng nhé!
+【美食殿】、レッツゴーです☆=[Guild Ẩm Thực], đi thôi☆
 
 
 
 
 ####
-消費討伐チケット=Expendable Subjugation Ticket
-討伐チケットを消費して\n5回バトルをスキップします。=Spend Subjugation Ticket to skip 5 battles.
-討伐報酬券=Subjugation Reward Ticket
-r:"^キャラストーリー(\d+)話解放中！$"=Character Story $1: Unlocked!
+消費討伐チケット=Vé Tiêu Diệt Dùng Một Lần
+討伐チケットを消費して\n5回バトルをスキップします。=Dùng Vé Tiêu Diệt để bỏ qua 5 trận chiến.
+討伐報酬券=Vé Phần Thưởng Tiêu Diệt
+r:"^キャラストーリー(\d+)話解放中！$"=Câu Chuyện Nhân Vật $1: Đã Mở Khóa!
 
-強敵との手合わせ、夜廻り=A sparring match with a formidable enemy, and a night shift
+強敵との手合わせ、夜廻り=Một trận đấu tập với kẻ thù đáng gờm, và ca làm đêm
 
-新刊入荷=New books in stock
-ログインボーナスとして以下のアイテムを受け取りました。=Received the following items as a login bonus:
-チャレンジ報酬=Challenge Reward
-初回討伐完了まではチャレンジ報酬は獲得できません。=Challenge rewards will not be obtained until the first subjugation is complete.
+新刊入荷=Sách mới về hàng
+ログインボーナスとして以下のアイテムを受け取りました。=Đã nhận được các vật phẩm sau làm phần thưởng đăng nhập:
+チャレンジ報酬=Phần Thưởng Thử Thách
+初回討伐完了まではチャレンジ報酬は獲得できません。=Phần thưởng thử thách sẽ không được nhận cho đến khi hoàn thành lần tiêu diệt đầu tiên.
 
-r:"^(\d+)枚の討伐報酬券をまとめて交換しますか？$"=Would you like to exchange $1 subjugation reward tickets at once?
-討伐報酬券を集めて、豪華報酬をGET!=Collect monster hunting reward tickets to get amazing rewards!
-こんにちは！ギルド管理協会です！\nとっておきの報酬も用意していますので頑張ってくださいね=Hello! This is the Guild Management Association! We've prepared some special rewards, so please do your best!
+r:"^(\d+)枚の討伐報酬券をまとめて交換しますか？$"=Bạn có muốn đổi $1 vé phần thưởng tiêu diệt ngay lập tức không?
+討伐報酬券を集めて、豪華報酬をGET!=Thu thập vé phần thưởng săn quái để nhận những phần thưởng tuyệt vời!
+こんにちは！ギルド管理協会です！\nとっておきの報酬も用意していますので頑張ってくださいね=Xin chào! Đây là Hiệp Hội Quản Lý Guild! Chúng tôi đã chuẩn bị một số phần thưởng đặc biệt, vì vậy hãy cố gắng hết sức!
 
-ナーナ、すいりとかろんぱとか、\nむずかしくてわかんないけど…\nお友だちとドーナツのためならっ\nせーいっぱいがんばるよっ！=Nana, I don't understand difficult things like deduction and logic puzzles... but for my friends and for donuts, I'll do my very best!
+ナーナ、すいりとかろんぱとか、\nむずかしくてわかんないけど…\nお友だちとドーナツのためならっ\nせーいっぱいがんばるよっ！=Nana, tôi không hiểu những thứ khó như suy luận và câu đố... nhưng vì bạn bè và vì bánh donut, tôi sẽ cố gắng hết sức!

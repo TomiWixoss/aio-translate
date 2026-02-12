@@ -1,45 +1,45 @@
 ##Profile##
-【物理】前衛で、素早い斬撃を仕掛け敵を屠る剣術少女。ユニオンバーストで自分の攻撃力と行動速度を上昇させ、ほか攻撃スキルの殲滅能力を極限まで高め敵を圧倒する。=[Physical] An avid fencer who delivers swift sword strikes to slay enemies from the vanguard. Her Union Burst increases both her attack power and action speed, maximizing the deadliness of her attack skills.
-義理堅くてからかい好きな剣術少女=A swordfighter with a strong sense of duty who loves to tease
+【物理】前衛で、素早い斬撃を仕掛け敵を屠る剣術少女。ユニオンバーストで自分の攻撃力と行動速度を上昇させ、ほか攻撃スキルの殲滅能力を極限まで高め敵を圧倒する。=[Vật lý] Một kiếm sĩ đam mê, tung những đòn kiếm nhanh như chớp để tiêu diệt kẻ thù từ tiền tuyến. Union Burst của cô tăng cả sức mạnh tấn công và tốc độ hành động, tối đa hóa sự nguy hiểm của các kỹ năng tấn công.
+義理堅くてからかい好きな剣術少女=Một kiếm sĩ có ý thức trách nhiệm cao và thích trêu chọc
 
-剣術、年長者をからかう=Swordsmanship, teasing elders.
+剣術、年長者をからかう=Kiếm thuật, trêu chọc người lớn.
 
-本当の気持ちを探して=Find your true feelings.
-秘められし才能！？=A hidden talent!
-邪で純粋な気持ち=Evil and pure of heart.
-想定外な一生の不覚=A lifetime of unforeseen disappointments.
-好意と厚意の違い=The difference between a favor and a kindness
-それが勝者の権利=It's the winner's right.
-嘘か真かそれとも恋か=Is it true or false, or is it love?
-からかい上手な剣術少女=The teasing sword fighting girl
+本当の気持ちを探して=Tìm ra cảm xúc thật của bản thân.
+秘められし才能！？=Một tài năng ẩn!
+邪で純粋な気持ち=Ác nhưng lòng trong sáng.
+想定外な一生の不覚=Một cuộc đời đầy thất vọng ngoài ý muốn.
+好意と厚意の違い=Sự khác biệt giữa một ân huệ và một điều tử tế
+それが勝者の権利=Đó là quyền của người chiến thắng.
+嘘か真かそれとも恋か=Đó là thật hay giả, hay là tình yêu?
+からかい上手な剣術少女=Cô gái kiếm đạo trêu chọc
 ボーイミーツお喋りガール=Boy meets girl
-剣に賭した願い事=Wish that bet on the sword
+剣に賭した願い事=Lời nguyền đặt cược trên thanh kiếm
 
 ##UB##
 ミクマ流奥義・阿修羅=Mikuma Hidden Art: Asura
-目の前の敵１キャラに物理大ダメージを与え、さらに自分の物理攻撃力を特大アップさせ、行動速度を中アップさせる。=Deals moderate P.DMG to an enemy directly in front. Massive boost to own P.ATK and 125% boost to own action speed for 24s.
-r:"^敵単体に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップ自分の行動速度アップ$"=►Deals $1 P.DMG to an enemy.\n►Boosts own P.ATK by $2.\n►Boosts own action speed.
+目の前の敵１キャラに物理大ダメージを与え、さらに自分の物理攻撃力を特大アップさせ、行動速度を中アップさせる。=Gây P.DMG vừa phải lên kẻ địch phía trước. Tăng cực mạnh P.ATK của bản thân và tăng 125% tốc độ hành động trong 24s.
+r:"^敵単体に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップ自分の行動速度アップ$"=►Gây $1 P.DMG lên kẻ địch.\n►Tăng P.ATK của bản thân bằng $2.\n►Tăng tốc độ hành động của bản thân.
 
 ##S1##
 ミクマ流剣術・陣風=Mikuma style: Gale Strike
-前方範囲内の敵すべてに物理小ダメージを与える。=Deals moderate P.DMG to all enemies in range.
+前方範囲内の敵すべてに物理小ダメージを与える。=Gây P.DMG vừa phải lên toàn kẻ địch trong phạm vi.
 
 ##S2##
 ミクマ流剣術・燕返し=Mikuma style: Returning Swallow
-目の前の敵１キャラに物理中ダメージを与え、さらに自分のＴＰを小回復させる。=Deals moderate P.DMG to an enemy directly in front and recovers own TP by a small amount.
+目の前の敵１キャラに物理中ダメージを与え、さらに自分のＴＰを小回復させる。=Gây P.DMG vừa phải lên kẻ địch phía trước và hồi lại một chút TP của bản thân.
 
 ##EX##
 気脈呼応・波動の型=Vital Resonance: Sheer Focus
-気脈呼応・波動の型+=Vital Resonance: Sheer Focus+
+気脈呼応・波動の型+=Cộng hưởng Sinh mệnh: Tập trung Tối đa+
 
 ##UB+##
-ミクマ流奥義・烈風迅光=Mikuma Hidden Art: Gale Swift Light
-目の前の敵２キャラに物理特大ダメージを与え、さらに自分を中心とした範囲内の味方すべての物理攻撃力を特大アップさせ、行動速度を大アップさせる。=Deals massive P.DMG to the 2 enemies in front, and Large boost the physical attack power and action speed of all allies within range.
-r:"^敵２体に(\d+)の物理ダメージ範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の行動速度アップ$"=►Deals $1 P.DMG to 2 enemies.\n►Boosts allies' P.ATK in 150 range by $2 for 24s.\n►Boosts allies' action speed in 150 range to 160% for 24s.
+ミクマ流奥義・烈風迅光=Bí kỹ Mikuma: Ánh Sáng Gió Lướt
+目の前の敵２キャラに物理特大ダメージを与え、さらに自分を中心とした範囲内の味方すべての物理攻撃力を特大アップさせ、行動速度を大アップさせる。=Gây sát thương vật lý cực lớn lên 2 kẻ địch phía trước, và tăng cường mạnh mẽ lực tấn công vật lý cùng tốc độ hành động của toàn đồng minh trong phạm vi.
+r:"^敵２体に(\d+)の物理ダメージ範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の行動速度アップ$"=►Gây $1 sát thương vật lý lên 2 kẻ địch.\n►Tăng P.ATK của đồng minh trong phạm vi 150 lên $2 trong 24s.\n►Tăng tốc độ hành động của đồng minh trong phạm vi 150 lên 160% trong 24s.
 
 ##S1+##
-ミクマ流剣術・陣風+=Mikuma style: Gale Strike+
-前方範囲内の敵すべてに物理中ダメージを与える。前方範囲内の敵の数に応じて、ダメージが増加する。=Deals moderate P.DMG to all enemies in range. Damage boost based on the number of targets.
+ミクマ流剣術・陣風+=Phong cách Mikuma: Đòn Gió Cường Hóa+
+前方範囲内の敵すべてに物理中ダメージを与える。前方範囲内の敵の数に応じて、ダメージが増加する。=Gây sát thương vật lý trung bình lên toàn kẻ địch trong phạm vi. Sát thương được tăng cường dựa trên số lượng mục tiêu.
 
 ##UE##
-天剣白嵐=Heavensbrand: White Squall
+天剣白嵐=Kiếm Thiên: Bão Trắng

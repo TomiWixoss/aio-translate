@@ -1,25 +1,25 @@
 ##Profile##
-【魔法】後衛で、聖なる光に包まれ微笑み祈るシスター。攻防デバフを操り【真実の導き】が集まると最大３キャラへの攻撃が最も魔防の低い敵を追及し、真理を照らす。=[Magic] A backline sister wrapped in holy light, smiling as she prays. She manipulates offensive and defensive debuffs, and when [True Guidance] accumulates, her attacks targeting up to 3 enemies pursue the foe with the lowest M.DEF, illuminating the truth.
+【魔法】後衛で、聖なる光に包まれ微笑み祈るシスター。攻防デバフを操り【真実の導き】が集まると最大３キャラへの攻撃が最も魔防の低い敵を追及し、真理を照らす。=[Phép] Một vị thần nữ ở hậu phương được bao quanh bởi ánh sáng thánh, mỉm cười khi cầu nguyện. Cô điều khiển các debuff tấn công và phòng thủ, và khi [True Guidance] tích lũy, các đòn tấn công nhắm vào tối đa 3 kẻ thù sẽ truy đuổi kẻ thù có M.DEF thấp nhất, chiếu sáng chân lý.
 
 ##UB##
 ルクス・イン・テネブリス=Lux in Tenebris
-敵全体の魔法防御力とＴＰを中ダウンさせ、目の前の最大２キャラまでの敵に魔法大ダメージを与える。【真実の導き】が40の場合、このスキルのダメージは最も魔法防御力の低い敵１キャラに計２回与えるようになり、追加で最も魔法防御力の低い敵１キャラに魔法特大ダメージを与える。=Moderately lowers all enemies' M.DEF and TP, and deals large M.DMG to up to 2 enemies in front. If [True Guidance] is 40, this skill's damage is dealt a total of 2 times to the enemy with the lowest M.DEF, and additionally deals massive M.DMG to the enemy with the lowest M.DEF.
+敵全体の魔法防御力とＴＰを中ダウンさせ、目の前の最大２キャラまでの敵に魔法大ダメージを与える。【真実の導き】が40の場合、このスキルのダメージは最も魔法防御力の低い敵１キャラに計２回与えるようになり、追加で最も魔法防御力の低い敵１キャラに魔法特大ダメージを与える。=Hạ thấp M.DEF và TP của tất cả kẻ thù một cách vừa phải, và gây lượng lớn sát thương phép lên tối đa 2 kẻ thù phía trước. Nếu [True Guidance] là 40, sát thương của kỹ năng này sẽ được gây tổng cộng 2 lần lên kẻ thù có M.DEF thấp nhất, và ngoài ra gây lượng lớn sát thương phép lên kẻ thù có M.DEF thấp nhất.
 
-r:"^敵全体の魔法防御力を(\d+)ダウン敵全体のＴＰを(\d+)失わせる１番目に近い敵単体に(\d+)の魔法ダメージ真実の導きが40の場合、最も魔法防御力の低い敵に(\d+)の魔法ダメージ２番目に近い敵単体に(\d+)の魔法ダメージ真実の導きが40の場合、最も魔法防御力の低い敵に(\d+)の魔法ダメージ真実の導きが40の場合、最も魔法防御力の低い敵に(\d+)の魔法ダメージ$"=►Lowers all enemies' M.DEF by $1.\n►Depletes all enemies' TP by $2.\n►Deals $3 M.DMG to the closest enemy.\n►If [Truth Guidance] is 40: Deals $4 M.DMG to the enemy with lowest M.DEF.\n►Deals $5 M.DMG to the second closest enemy.\n►If [Truth Guidance] is 40: Deals $6 M.DMG to the enemy with lowest M.DEF.\n►If [Truth Guidance] is 40: Deals $7 M.DMG to the enemy with lowest M.DEF.
+r:"^敵全体の魔法防御力を(\d+)ダウン敵全体のＴＰを(\d+)失わせる１番目に近い敵単体に(\d+)の魔法ダメージ真実の導きが40の場合、最も魔法防御力の低い敵に(\d+)の魔法ダメージ２番目に近い敵単体に(\d+)の魔法ダメージ真実の導きが40の場合、最も魔法防御力の低い敵に(\d+)の魔法ダメージ真実の導きが40の場合、最も魔法防御力の低い敵に(\d+)の魔法ダメージ$"=►Hạ thấp M.DEF của tất cả kẻ thù đi $1.\n►Làm cạn TP của tất cả kẻ thù đi $2.\n►Gây $3 sát thương phép lên kẻ thù gần nhất.\n►Nếu [Truth Guidance] là 40: Gây $4 sát thương phép lên kẻ thù có M.DEF thấp nhất.\n►Gây $5 sát thương phép lên kẻ thù gần thứ hai.\n►Nếu [Truth Guidance] là 40: Gây $6 sát thương phép lên kẻ thù có M.DEF thấp nhất.\n►Nếu [Truth Guidance] là 40: Gây $7 sát thương phép lên kẻ thù có M.DEF thấp nhất.
 
 
 ##S1##
-ミラーオブトゥルース=Mirror of Truth
-敵全体の魔法防御力を小ダウン、魔法攻撃力を大ダウンさせ、目の前の最大３キャラまでの敵に魔法中ダメージを与える。発動時既に【真実の導き】が40の場合、行動パターンが変化する。=Slightly lowers all enemies' M.DEF, greatly lowers their M.ATK, and deals moderate M.DMG to up to 3 enemies in front. If [True Guidance] is already 40 upon activation, the action pattern changes.
+ミラーオブトゥルース=Gương Chân Lý
+敵全体の魔法防御力を小ダウン、魔法攻撃力を大ダウンさせ、目の前の最大３キャラまでの敵に魔法中ダメージを与える。発動時既に【真実の導き】が40の場合、行動パターンが変化する。=Hạ thấp nhẹ M.DEF của tất cả kẻ thù, hạ thấp đáng kể M.ATK của chúng, và gây sát thương phép vừa phải lên tối đa 3 kẻ thù phía trước. Nếu [True Guidance] đã là 40 khi kích hoạt, mẫu hành động thay đổi.
 
-r:"^カスミ（シスター）の攻撃が当たるたびに真実の導きを１つ獲得真実の導きを６つ獲得味方全体の魔法防御力を(\d+)アップ味方全体のＨＰを(\d+)回復(\d+)ダメージ分の魔法無効バリアを展開する$"=►Each time Kasumi (Sister) hits with an attack, gain 1 [Truth Guidance].\n►Gains 6 [Truth Guidance].\n►Boosts all allies' M.DEF by $1.\n►Restores all allies' HP by $2.\n►Deploys a Magic Nullification Barrier absorbing $3 DMG.
+r:"^カスミ（シスター）の攻撃が当たるたびに真実の導きを１つ獲得真実の導きを６つ獲得味方全体の魔法防御力を(\d+)アップ味方全体のＨＰを(\d+)回復(\d+)ダメージ分の魔法無効バリアを展開する$"=►Mỗi lần Kasumi (Sister) đánh trúng với đòn tấn công, nhận 1 [Truth Guidance].\n►Nhận 6 [Truth Guidance].\n►Tăng M.DEF cho tất cả đồng minh đi $1.\n►Phục hồi HP cho tất cả đồng minh đi $2.\n►Triển khai Rào cản Phép thuật Không, hấp thụ $3 sát thương.
 
 
 ##S2##
-セイントヴェール=Saint Veil
-バトル開始後、初弾のこのスキルは、敵に攻撃が当たるたびに【真実の導き】が１つ追加される状態にする。【真実の導き】は最大40まで追加される。自分に【真実の導き】を６つ追加し、味方全体の魔法防御力を中アップ、ＨＰを小回復して魔法無効バリアを展開する。発動時既に【真実の導き】が40の場合、行動パターンが変化する。=After battle start, the first use of this skill enables a state where [True Guidance] +1 is added each time an attack lands on an enemy. [True Guidance] can accumulate up to a maximum of 40. Adds 6 [True Guidance] to self, moderately boosts all allies' M.DEF, slightly recovers their HP, and deploys a magic-nullifying barrier. If [True Guidance] is already 40 upon activation, the action pattern changes.
+セイントヴェール=Màn Sương Thánh
+バトル開始後、初弾のこのスキルは、敵に攻撃が当たるたびに【真実の導き】が１つ追加される状態にする。【真実の導き】は最大40まで追加される。自分に【真実の導き】を６つ追加し、味方全体の魔法防御力を中アップ、ＨＰを小回復して魔法無効バリアを展開する。発動時既に【真実の導き】が40の場合、行動パターンが変化する。=Sau khi trận đấu bắt đầu, lần đầu tiên sử dụng kỹ năng này kích hoạt trạng thái mà mỗi lần đòn tấn công đánh trúng kẻ thù sẽ thêm 1 [True Guidance]. [True Guidance] có thể tích lũy tối đa 40. Thêm 6 [True Guidance] cho bản thân, tăng M.DEF cho tất cả đồng minh một cách vừa phải, phục hồi nhẹ HP của họ, và triển khai rào cản triệt tiêu phép thuật. Nếu [True Guidance] đã là 40 khi kích hoạt, mẫu hành động thay đổi.
 
-r:"^敵全体の魔法防御力を(\d+)ダウン敵全体の魔法攻撃力を(\d+)ダウン１番目に近い敵単体に(\d+)の魔法ダメージ２番目に近い敵単体に(\d+)の魔法ダメージ３番目に近い敵単体に(\d+)の魔法ダメージ$"=►Lowers all enemies' M.DEF by $1.\n►Lowers all enemies' M.ATK by $2.\n►Deals $3 M.DMG to the closest enemy.\n►Deals $4 M.DMG to the second closest enemy.\n►Deals $5 M.DMG to the third closest enemy.
+r:"^敵全体の魔法防御力を(\d+)ダウン敵全体の魔法攻撃力を(\d+)ダウン１番目に近い敵単体に(\d+)の魔法ダメージ２番目に近い敵単体に(\d+)の魔法ダメージ３番目に近い敵単体に(\d+)の魔法ダメージ$"=►Hạ thấp M.DEF của tất cả kẻ thù đi $1.\n►Hạ thấp M.ATK của tất cả kẻ thù đi $2.\n►Gây $3 sát thương phép lên kẻ thù gần nhất.\n►Gây $4 sát thương phép lên kẻ thù gần thứ hai.\n►Gây $5 sát thương phép lên kẻ thù gần thứ ba.
 
 
 ##EX##
@@ -28,14 +28,14 @@ r:"^敵全体の魔法防御力を(\d+)ダウン敵全体の魔法攻撃力を(\
 
 
 ##S1##
-パターン変化後=After Pattern Change
-敵全体の魔法防御力を小ダウン、魔法攻撃力を大ダウンさせ、最も魔法防御力の低い敵１キャラに魔法中ダメージを３回与える。=Slightly lowers all enemies' M.DEF, greatly lowers their M.ATK, and deals moderate M.DMG 3 times to the enemy with the lowest M.DEF.
+パターン変化後=Sau Khi Thay Đổi Mẫu
+敵全体の魔法防御力を小ダウン、魔法攻撃力を大ダウンさせ、最も魔法防御力の低い敵１キャラに魔法中ダメージを３回与える。=Hạ thấp nhẹ M.DEF của tất cả kẻ thù, hạ thấp đáng kể M.ATK của chúng, và gây sát thương phép vừa phải 3 lần lên kẻ thù có M.DEF thấp nhất.
 
-r:"^敵全体の魔法防御力を(\d+)ダウン敵全体の魔法攻撃力を(\d+)ダウン最も魔法防御力の低い敵に(\d+)の魔法ダメージ最も魔法防御力の低い敵に(\d+)の魔法ダメージ最も魔法防御力の低い敵に(\d+)の魔法ダメージ$"=►Lowers all enemies' M.DEF by $1.\n►Lowers all enemies' M.ATK by $2.\n►Deals $3 M.DMG to the enemy with lowest M.DEF.\n►Deals $4 M.DMG to the enemy with lowest M.DEF.\n►Deals $5 M.DMG to the enemy with lowest M.DEF.
+r:"^敵全体の魔法防御力を(\d+)ダウン敵全体の魔法攻撃力を(\d+)ダウン最も魔法防御力の低い敵に(\d+)の魔法ダメージ最も魔法防御力の低い敵に(\d+)の魔法ダメージ最も魔法防御力の低い敵に(\d+)の魔法ダメージ$"=►Hạ thấp M.DEF của tất cả kẻ thù đi $1.\n►Hạ thấp M.ATK của tất cả kẻ thù đi $2.\n►Gây $3 sát thương phép lên kẻ thù có M.DEF thấp nhất.\n►Gây $4 sát thương phép lên kẻ thù có M.DEF thấp nhất.\n►Gây $5 sát thương phép lên kẻ thù có M.DEF thấp nhất.
 
 
 ##S2##
-自分の魔法攻撃力を大アップ、魔法クリティカルを中アップ、魔法攻撃クリティカル時のダメージを小アップする。さらに味方全体の魔法防御力を中アップ、ＨＰを小回復して魔法無効バリアを展開する。=Greatly boosts own M.ATK, moderately boosts own M.CRIT RATE, and slightly boosts own M.CRIT DMG. Additionally, moderately boosts all allies' M.DEF, slightly recovers their HP, and deploys a magic-nullifying barrier.
+自分の魔法攻撃力を大アップ、魔法クリティカルを中アップ、魔法攻撃クリティカル時のダメージを小アップする。さらに味方全体の魔法防御力を中アップ、ＨＰを小回復して魔法無効バリアを展開する。=Tăng đáng kể M.ATK của bản thân, tăng M.CRIT RATE của bản thân một cách vừa phải, và tăng nhẹ M.CRIT DMG của bản thân. Ngoài ra, tăng M.DEF cho tất cả đồng minh một cách vừa phải, phục hồi nhẹ HP của họ, và triển khai rào cản triệt tiêu phép thuật.
 
-r:"^自分の魔法攻撃力を(\d+)アップ自分の魔法クリティカルを(\d+)アップ自分の魔法クリダメを(\d+)％アップ味方全体の魔法防御力を(\d+)アップ味方全体のＨＰを(\d+)回復(\d+)ダメージ分の魔法無効バリアを展開する$"=►Boosts own M.ATK by $1.\n►Boosts own M.CRIT RATE by $2.\n►Boosts own M.CRIT DMG by $3％.\n►Boosts all allies' M.DEF by $4.\n►Restores all allies' HP by $5.\n►Deploys a Magic Nullification Barrier absorbing $6 DMG.
+r:"^自分の魔法攻撃力を(\d+)アップ自分の魔法クリティカルを(\d+)アップ自分の魔法クリダメを(\d+)％アップ味方全体の魔法防御力を(\d+)アップ味方全体のＨＰを(\d+)回復(\d+)ダメージ分の魔法無効バリアを展開する$"=►Tăng M.ATK của bản thân đi $1.\n►Tăng M.CRIT RATE của bản thân đi $2.\n►Tăng M.CRIT DMG của bản thân đi $3％.\n►Tăng M.DEF cho tất cả đồng minh đi $4.\n►Phục hồi HP cho tất cả đồng minh đi $5.\n►Triển khai Rào cản Phép thuật Không hấp thụ $6 sát thương.
 

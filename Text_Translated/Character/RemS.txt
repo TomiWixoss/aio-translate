@@ -1,47 +1,47 @@
 ##Profile##
-【物理】前衛で夏の日差しの中、余暇を楽しむ双子の妹。ＵＢで鬼族の力を解放すると攻防両面に加えＨＰ吸収が上昇し、目に映る全てを【狂騒】のままに叩き伏せる。=[Physical] A younger twin who enjoys her leisure time in the summer sun in frontlines. When she unleashes Oni powers through UB, her HP absorption increases in addition to her offensive and defensive abilities, and she smashes down everything she sees in her [Mania].
+【物理】前衛で夏の日差しの中、余暇を楽しむ双子の妹。ＵＢで鬼族の力を解放すると攻防両面に加えＨＰ吸収が上昇し、目に映る全てを【狂騒】のままに叩き伏せる。=[Vật lý] Một song sinh nhỏ tận hưởng thời gian rảnh rỗi dưới nắng hè ở tiền tuyến. Khi cô giải phóng sức mạnh Oni qua UB, khả năng hút HP của cô tăng lên cùng với khả năng tấn công và phòng thủ, và cô đập nát mọi thứ cô thấy trong [Mania].
 鬼化中=Oni Mode
 
 ##UB##
 納涼 アル・ヒューマ=Summer Al Huma
-目の前の敵１キャラに物理特大ダメージを与え、自分に【狂騒】を１つ付与する。【狂騒】は最大５まで追加される。さらに鬼化していない時、自分の物理攻撃力、物理防御力、魔法防御力を特大アップ、ＨＰ吸収を大アップして鬼化する。=Deals massive P.DMG to an enemy in front, and gains 1 [Mania] stack, to a maximum of 5. While not in [Oni Mode], massively boosts own P.ATK, P.DEF, M.DEF, and HP Drain, and enters [Oni Mode].
-r:"^自分に狂騒を付与する敵単体に(\d+)の物理ダメージ鬼化状態でない場合、鬼化状態になり以下の効果が発動する自分の物理攻撃力を(\d+)アップ自分の物理防御力を(\d+)アップ自分の魔法防御力を(\d+)アップ自分のＨＰ吸収を(\d+)アップ$"=►Deals $1 P.DMG to an enemy.\n►Gains 1 [Mania] stack.\n\nIf not in [Oni Mode]:\n►Boosts own P.ATK by $2 for 180s.\n►Boosts own P.DEF by $3 for 180s.\n►Boosts own M.DEF by $4 for 180s.\n►Boosts own HP Drain by $5 for 180s.\n►Enters [Oni Mode] for 180s.
+目の前の敵１キャラに物理特大ダメージを与え、自分に【狂騒】を１つ付与する。【狂騒】は最大５まで追加される。さらに鬼化していない時、自分の物理攻撃力、物理防御力、魔法防御力を特大アップ、ＨＰ吸収を大アップして鬼化する。=Gây sát thương vật lý lớn cho kẻ địch phía trước, và nhận 1 ngăn [Mania], tối đa 5. Khi không ở trong [Oni Mode], tăng cực mạnh tấn công vật lý, phòng thủ vật lý, phòng thủ ma thuật và hút HP của bản thân, và vào [Oni Mode].
+r:"^自分に狂騒を付与する敵単体に(\d+)の物理ダメージ鬼化状態でない場合、鬼化状態になり以下の効果が発動する自分の物理攻撃力を(\d+)アップ自分の物理防御力を(\d+)アップ自分の魔法防御力を(\d+)アップ自分のＨＰ吸収を(\d+)アップ$"=►Gây $1 sát thương vật lý cho kẻ địch.\n►Nhận 1 ngăn [Mania].\n\nNếu không ở trong [Oni Mode]:\n►Tăng tấn công vật lý của bản thân lên $2 trong 180s.\n►Tăng phòng thủ vật lý của bản thân lên $3 trong 180s.\n►Tăng phòng thủ ma thuật của bản thân lên $4 trong 180s.\n►Tăng hút HP của bản thân lên $5 trong 180s.\n►Vào [Oni Mode] trong 180s.
 
 ##S1##
 ビーチサイドスター=Beachside Star
-目の前の敵１キャラに物理大ダメージを与え、自分の物理攻撃力を大アップする。=Deals large P.DMG to an enemy in front and greatly boosts own P.ATK.
+目の前の敵１キャラに物理大ダメージを与え、自分の物理攻撃力を大アップする。=Gây sát thương vật lý lớn cho kẻ địch phía trước và tăng mạnh tấn công vật lý của bản thân.
 
 ##S2##
 水際の癒し=Waterside Healing
 
 ##SPUB##
-このスキルのスキルレベルは「納涼 アル・ヒューマ」と連動しています=This skill’s skill level is linked to Summer Al Huma
-目の前の敵１キャラに物理特大ダメージを与え、自分に【狂騒】を１つ付与する。【狂騒】は最大５まで追加される。=Deals massive P.DMG to an enemy in front, and gains 1 [Mania] stack, to a maximum of 5.
-r:"^自分に狂騒を付与する敵単体に(\d+)の物理ダメージ$"=►Deals $1 P.DMG to an enemy.\n►Gains 1 [Mania] stack.
+このスキルのスキルレベルは「納涼 アル・ヒューマ」と連動しています=Cấp độ kỹ năng của kỹ năng này liên kết với Summer Al Huma
+目の前の敵１キャラに物理特大ダメージを与え、自分に【狂騒】を１つ付与する。【狂騒】は最大５まで追加される。=Gây sát thương vật lý khủng khiếp lên kẻ địch phía trước và nhận 1 ngăn [Mania], tối đa 5 ngăn.
+r:"^自分に狂騒を付与する敵単体に(\d+)の物理ダメージ$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Nhận 1 ngăn [Mania].
 
 ##SP1##
-逆巻く鉄球=Raging Morningstar
-目の前の敵１キャラに物理特大ダメージを与え、自分のＴＰを中回復する。さらに、自分以外の味方全員に最大ＨＰに応じた物理割合ダメージを与える。このスキルのダメージは、【狂騒】の数に応じて増加する。このスキルによる味方へのダメージでは味方のＴＰは回復しない。=Deals massive P.DMG to an enemy in front and moderately recovers own TP. Also deals damage to all allies based on their maximum HP. The P.DMG dealt increases according to number of [Mania] stacks. Allies do not gain TP from damage inflicted by this skill.
-r:"^敵単体に(\d+)の物理ダメージ自分のＴＰを200回復自分以外の味方全体に最大ＨＰの１％の物理割合ダメージ$"=►Deals $1 (+0.4×$1×[Mania]) P.DMG to an enemy.\n►Recovers own TP by 200.\n►Deals DMG equal to 1% (+0.8%×[Mania]) HP to all allies.
+逆巻く鉄球=Sao Bão Giận Dữ
+目の前の敵１キャラに物理特大ダメージを与え、自分のＴＰを中回復する。さらに、自分以外の味方全員に最大ＨＰに応じた物理割合ダメージを与える。このスキルのダメージは、【狂騒】の数に応じて増加する。このスキルによる味方へのダメージでは味方のＴＰは回復しない。=Gây sát thương vật lý khủng khiếp lên kẻ địch phía trước và hồi phục TP của bản thân ở mức trung bình. Đồng thời, gây sát thương cho toàn bộ đồng minh dựa trên HP tối đa của họ. Sát thương vật lý gây ra tăng theo số ngăn [Mania]. Đồng minh không nhận TP từ sát thương kỹ năng này.
+r:"^敵単体に(\d+)の物理ダメージ自分のＴＰを200回復自分以外の味方全体に最大ＨＰの１％の物理割合ダメージ$"=►Gây $1 (+0.4×$1×[Mania]) sát thương vật lý lên kẻ địch.\n►Hồi phục 200 TP cho bản thân.\n►Gây sát thương bằng 1% (+0.8%×[Mania]) HP cho toàn bộ đồng minh.
 
 ##SP2##
-ブレイジングフリーズ=Blazing Freeze
-目の前の敵１キャラに物理特大ダメージを与え、自分のＨＰを中回復する。さらに、自分以外の味方全員に最大ＨＰに応じた物理割合ダメージを与える。このスキルのダメージは、【狂騒】の数に応じて増加する。このスキルによる味方へのダメージでは味方のＴＰは回復しない。=Deals massive P.DMG to an enemy in front and moderately recovers own HP. Also deals damage to all allies based on their maximum HP. The P.DMG dealt increases according to number of [Mania] stacks. Allies do not gain TP from damage inflicted by this skill.
-r:"^敵単体に(\d+)の物理ダメージ自分のＨＰを(\d+)回復自分以外の味方全体に最大ＨＰの１％の物理割合ダメージ$"=►Deals $1 (+0.4×$1×[Mania]) P.DMG to an enemy.\n►Recovers own HP by $2.\n►Deals DMG equal to 1% (+0.8%×[Mania]) HP to all allies.
+ブレイジングフリーズ=Đóng Băng Rực Lửa
+目の前の敵１キャラに物理特大ダメージを与え、自分のＨＰを中回復する。さらに、自分以外の味方全員に最大ＨＰに応じた物理割合ダメージを与える。このスキルのダメージは、【狂騒】の数に応じて増加する。このスキルによる味方へのダメージでは味方のＴＰは回復しない。=Gây sát thương vật lý khủng khiếp lên kẻ địch phía trước và hồi phục HP của bản thân ở mức trung bình. Đồng thời, gây sát thương cho toàn bộ đồng minh dựa trên HP tối đa của họ. Sát thương vật lý gây ra tăng theo số ngăn [Mania]. Đồng minh không nhận TP từ sát thương kỹ năng này.
+r:"^敵単体に(\d+)の物理ダメージ自分のＨＰを(\d+)回復自分以外の味方全体に最大ＨＰの１％の物理割合ダメージ$"=►Gây $1 (+0.4×$1×[Mania]) sát thương vật lý lên kẻ địch.\n►Hồi phục $2 HP cho bản thân.\n►Gây sát thương bằng 1% (+0.8%×[Mania]) HP cho toàn bộ đồng minh.
 
 ##EX##
-夏まっ盛りです！=Summer in Full Swing!
-夏まっ盛りです！+=Summer in Full Swing!+
+夏まっ盛りです！=Mùa Hè Rực Rỡ!
+夏まっ盛りです！+=Mùa Hè Rực Rỡ!+
 
 
 
 ##S1+##
-サマーモーニングスター=Summer Morning Star
-ビーチサイドスター+=Beachside Star+
-逆巻く鉄球+=Raging Morningstar+
+サマーモーニングスター=Sao Sáng Buổi Sáng Hè
+ビーチサイドスター+=Ngôi Sao Bãi Biển+
+逆巻く鉄球+=Sao Bão Giận Dữ+
 
-目の前の敵１キャラに物理特大ダメージを与え、自分の物理攻撃力を大アップする。=Deals massive P.DMG to an enemy in front and greatly boosts own P.ATK.
+目の前の敵１キャラに物理特大ダメージを与え、自分の物理攻撃力を大アップする。=Gây sát thương vật lý khủng khiếp lên kẻ địch phía trước và tăng mạnh lực tấn công vật lý của bản thân.
 
-目の前の敵１キャラに物理特大ダメージを２回与え、物理防御力を小ダウンさせ、自分のＴＰを中回復する。さらに、自分以外の味方全員に最大ＨＰに応じた物理割合ダメージを与える。このスキルのダメージは、【狂騒】の数に応じて増加する。このスキルによる味方へのダメージでは味方のＴＰは回復しない。=Deals massive P.DMG twice to an enemy in front, slightly lowers their P.DEF, and moderately recovers own TP. Furthermore, deals physical proportional damage to all allies other than self based on their max HP. This skill's damage increases based on the number of [Mania]. The damage to allies from this skill does not recover their TP.
+目の前の敵１キャラに物理特大ダメージを２回与え、物理防御力を小ダウンさせ、自分のＴＰを中回復する。さらに、自分以外の味方全員に最大ＨＰに応じた物理割合ダメージを与える。このスキルのダメージは、【狂騒】の数に応じて増加する。このスキルによる味方へのダメージでは味方のＴＰは回復しない。=Gây sát thương vật lý khủng khiếp 2 lần lên kẻ địch phía trước, giảm nhẹ phòng thủ vật lý của chúng và hồi phục TP của bản thân ở mức trung bình. Hơn nữa, gây sát thương tỷ lệ vật lý cho toàn bộ đồng minh ngoại trừ bản thân dựa trên HP tối đa của họ. Sát thương kỹ năng này tăng dựa trên số ngăn [Mania]. Sát thương gây ra cho đồng minh từ kỹ năng này không hồi TP cho họ.
 
-r:"^敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン自分のＴＰを200回復自分以外の味方全体に最大ＨＰの１％の物理割合ダメージ$"=►Deals $1 P.DMG to a single enemy.\n►Deals $2 P.DMG to a single enemy.\n►Lowers a single enemy's P.DEF by $3.\n►Recovers own TP by 200.\n►Deals physical proportional damage equal to 1% of max HP to all allies except self.
+r:"^敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン自分のＴＰを200回復自分以外の味方全体に最大ＨＰの１％の物理割合ダメージ$"=►Gây $1 sát thương vật lý lên một kẻ địch.\n►Gây $2 sát thương vật lý lên một kẻ địch.\n►Giảm $3 phòng thủ vật lý của một kẻ địch.\n►Hồi phục 200 TP cho bản thân.\n►Gây sát thương tỷ lệ vật lý bằng 1% HP tối đa cho toàn bộ đồng minh trừ bản thân.

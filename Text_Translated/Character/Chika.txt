@@ -1,52 +1,52 @@
 ##Profile##
-【魔法】後衛から、前衛の戦いをサポートする唱喚士。ユニオンバーストで、味方の回復と敵への攻撃を行う精霊を最前線に唱喚する。=[Magic] A Song Summoner who supports her allies from the backlines. Her Union Burst heals allies while also summoning a spirit who will attack the enemy from the frontlines.
+【魔法】後衛から、前衛の戦いをサポートする唱喚士。ユニオンバーストで、味方の回復と敵への攻撃を行う精霊を最前線に唱喚する。=[Phép thuật] Một Song Summoner hỗ trợ đồng đội từ hậu phương. Union Burst của cô hồi phục đồng đội đồng thời triệu hồi một linh hồn tấn công kẻ địch từ tiền tuyến.
 
-各種楽器=Various instruments
+各種楽器=Đa dạng nhạc cụ
 
-人々を守るために歌う、唱喚士の少女=A girl who protects others with song, summoning spirits to do so
+人々を守るために歌う、唱喚士の少女=Một cô gái bảo vệ người khác bằng bài hát, triệu hồi linh hồn để làm điều đó
 
-歌姫と迷い子の森=Diva and lost children
-空回りの仮想デート=Idle virtual date
-千歌・オンステージ=Chika onstage
-森の奥に響く歌声=Song From the Woods
-迷いを振り切りたくて=Singing with You
-好きになってくれる人へ=What Makes You happy
-楽譜に導かれた出会い=Dream Encounters
-もう一人の唱喚士=Another Summoner
-最初の一人はあなたがいい=I Want It to Be You
-新しい旋律の生まれる時=Birth of a Melody
-あなたのためだけの歌=A Song Just For You
+歌姫と迷い子の森=Diva và những đứa trẻ lạc
+空回りの仮想デート=Ngày hẹn ảo
+千歌・オンステージ=Chika trên sân khấu
+森の奥に響く歌声=Bài Hát Từ Rừng
+迷いを振り切りたくて=Hát Cùng Bạn
+好きになってくれる人へ=Điều Gì Khiến Bạn Hạnh Phúc
+楽譜に導かれた出会い=Gặp Gỡ Giấc Mơ
+もう一人の唱喚士=Một Triệu Hồi Sĩ Khác
+最初の一人はあなたがいい=Mong Sẽ Là Bạn
+新しい旋律の生まれる時=Sự Ra Đời Của Một Giai Điệu
+あなたのためだけの歌=Một Bài Hát Riêng Cho Bạn
 
 ##UB##
-シルフィードブレス=Sylphid Blessing
-【召喚】チカの背後にいないすべての味方のＨＰを中回復し、さらに最も前の味方のそばに精霊を唱喚する。=[Summon] Recovers allies' HP in front of her by a moderate amount and summons a fairy beside the foremost ally.
-r:"^範囲内の味方のＨＰを(\d+)回復精霊を唱喚する$"=►Recovers allies' HP in front of her by $1.\n►Summons a spirit next to foremost ally.
+シルフィードブレス=Lời Chúc Sylphid
+【召喚】チカの背後にいないすべての味方のＨＰを中回復し、さらに最も前の味方のそばに精霊を唱喚する。=[Triệu hồi] Hồi máu cho đồng đội phía trước một lượng vừa phải và triệu hồi một tiên nữ bên cạnh đồng đội phía trước nhất.
+r:"^範囲内の味方のＨＰを(\d+)回復精霊を唱喚する$"=►Hồi máu cho đồng đội phía trước $1.\n►Triệu hồi một linh hồn bên cạnh đồng đội phía trước nhất.
 
 ##S1##
-チアーソング=Rousing Ballad
-最も前の味方を中心として、範囲内の全味方の物理攻撃力を中アップさせる。=Small boost to allies' P.ATK in a radius around the foremost ally.
-r:"^範囲内の味方の物理攻撃力を(\d+)アップ$"=►Boosts allies' P.ATK in range by $1.
+チアーソング=Bài Ca Hào Hứng
+最も前の味方を中心として、範囲内の全味方の物理攻撃力を中アップさせる。=Tăng nhẹ Tấn công Vật lý (P.ATK) cho đồng đội trong phạm vi xung quanh đồng đội phía trước nhất.
+r:"^範囲内の味方の物理攻撃力を(\d+)アップ$"=►Tăng Tấn công Vật lý (P.ATK) của đồng đội trong phạm vi $1.
 
 ##S2##
-フェアリーズララバイ=Fairy's Lullaby
-目の前の敵１キャラの物理攻撃力を中ダウンさせる。=Lowers P.ATK of an enemy directly in front by a moderate amount.
-r:"^敵単体の物理攻撃力を(\d+)ダウン$"=►Lowers an enemy's P.ATK by $1.
+フェアリーズララバイ=Bài Hát Ru Của Tiên Nữ
+目の前の敵１キャラの物理攻撃力を中ダウンさせる。=Giảm Tấn công Vật lý (P.ATK) của kẻ địch đứng trực diện một lượng vừa phải.
+r:"^敵単体の物理攻撃力を(\d+)ダウン$"=►Giảm Tấn công Vật lý (P.ATK) của kẻ địch $1.
 
 ##EX##
-ギフテッドボイス=Gifted Voice
-ギフテッドボイス+=Gifted Voice+
-バトル開始時に自分の魔法攻撃力を中アップさせ、さらに自分の魔法防御力を小アップさせる。=At the start of the battle, increase your M.ATK power and increase your M.DEF power.
-r:"^自分の魔法攻撃力を(\d+)アップ自分の魔法防御力を(\d+)アップ$"=►Boosts own M.ATK by $1.\n►Boosts own M.DEF by $2.
+ギフテッドボイス=Giọng Hát Thiên Tài
+ギフテッドボイス+=Giọng Hát Thiên Tài+
+バトル開始時に自分の魔法攻撃力を中アップさせ、さらに自分の魔法防御力を小アップさせる。=Ngay từ đầu trận đấu, tăng Lực Ma Thuật (M.ATK) của bản thân và tăng Lực Phòng Thủ Ma Thuật (M.DEF) của bản thân.
+r:"^自分の魔法攻撃力を(\d+)アップ自分の魔法防御力を(\d+)アップ$"=►Tăng M.ATK của bản thân $1.\n►Tăng M.DEF của bản thân $2.
 
 ##UB+##
-シルフィードオーケストラ=Sylphid Orchestra
-【召喚】味方全体のＨＰを中回復し、物理攻撃力を特大アップさせ、物理攻撃クリティカル時のダメージを中アップさせ、継続ＨＰ回復状態を付与する。さらに最も前の味方のそばに精霊を唱喚する。=[Summon] Moderately recovers all allies' HP, massively boosts their P.ATK, moderately boost their P.CRIT DMG, and grants small continuous HP recovery. Additionally, summons a spirit next to foremost ally.
-r:"^味方全体のＨＰを(\d+)回復味方全体の物理攻撃力を(\d+)アップ味方全体の物理攻撃クリティカル時のダメージを28％アップ毎秒ＨＰを(\d+)回復する精霊を唱喚する$"=►Recovers all allies' HP by $1.\n►Boosts all allies' P.ATK by $2 for 18s.\n►Boosts all allies' P.CRIT DMG by 28％ for 18s.\n►Recovers all allies' HP by $3/s for 18.5s.\n►Summons a spirit next to foremost\nally.
+シルフィードオーケストラ=Dàn Nhạc Sylphid
+【召喚】味方全体のＨＰを中回復し、物理攻撃力を特大アップさせ、物理攻撃クリティカル時のダメージを中アップさせ、継続ＨＰ回復状態を付与する。さらに最も前の味方のそばに精霊を唱喚する。=[Triệu hồi] Hồi máu tất cả đồng đội một lượng vừa phải, tăng mạnh Tấn công Vật lý (P.ATK) của họ, tăng vừa phải Sát Thương Chí Mạng Vật lý (P.CRIT DMG), và ban cho khả năng hồi máu liên tục nhỏ. Ngoài ra, triệu hồi một linh hồn bên cạnh đồng đội phía trước nhất.
+r:"^味方全体のＨＰを(\d+)回復味方全体の物理攻撃力を(\d+)アップ味方全体の物理攻撃クリティカル時のダメージを28％アップ毎秒ＨＰを(\d+)回復する精霊を唱喚する$"=►Hồi máu tất cả đồng đội $1.\n►Tăng P.ATK của tất cả đồng đội $2 trong 18s.\n►Tăng P.CRIT DMG của tất cả đồng đội 28％ trong 18s.\n►Hồi máu tất cả đồng đội $3/giây trong 18.5s.\n►Triệu hồi một linh hồn bên cạnh đồng đội phía trước nhất.
 
 ##S1+##
-チアーソング+=Rousing Ballad+
-最も前の味方を中心として、範囲内の味方すべての物理攻撃力を大アップ、物理クリティカルを中アップさせ、さらに範囲内の味方すべてを小回復するフィールドを展開する。=Large boost to P.ATK, moderate boost to P.CRIT Rate, and recovers allies' HP in a radius around the foremost ally.
-r:"^範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理クリティカルを50アップ毎秒ＨＰを(\d+)回復するフィールドを展開する$"=Cast time: 1.5s\n►Boosts allies' P.ATK in 200 range by $1 for 12s.\n►Boosts allies' P.CRIT Rate in 200 range by 50 for 12s.\n►Deploys a 250 radius field that recovers allies' HP by $2/s for 8s.
+チアーソング+=Bài Ca Hào Hứng+
+最も前の味方を中心として、範囲内の味方すべての物理攻撃力を大アップ、物理クリティカルを中アップさせ、さらに範囲内の味方すべてを小回復するフィールドを展開する。=Tăng lớn P.ATK, tăng vừa phải Tỷ Lệ Chí Mạng Vật lý (P.CRIT Rate), và hồi máu cho đồng đội trong phạm vi xung quanh đồng đội phía trước nhất.
+r:"^範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理クリティカルを50アップ毎秒ＨＰを(\d+)回復するフィールドを展開する$"=Thời gian niệm: 1.5s\n►Tăng P.ATK của đồng đội trong phạm vi 200 $1 trong 12s.\n►Tăng P.CRIT Rate của đồng đội trong phạm vi 200 50 trong 12s.\n►Triển khai một vùng phạm vi 250 hồi máu cho đồng đội $2/giây trong 8s.
 
 ##UE##
-翠霊譜ルーンノーツ=Jadesheet Rune Notes
+翠霊譜ルーンノーツ=Ghi Chú Bia Ngọc
