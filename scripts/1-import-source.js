@@ -12,16 +12,6 @@ function generateKey(filePath, lineNum, japanese, english) {
   return crypto.createHash('md5').update(combined).digest('hex').substring(0, 12).toUpperCase();
 }
 
-// Hàm escape XML entities
-function escapeXml(text) {
-  return text
-    .replace(/&/g, '&amp;')
-    .replace(/</g, '&lt;')
-    .replace(/>/g, '&gt;')
-    .replace(/"/g, '&quot;')
-    .replace(/'/g, '&apos;');
-}
-
 // Hàm đọc tất cả file .txt trong thư mục
 function getAllTextFiles(dir, fileList = []) {
   const files = fs.readdirSync(dir);
