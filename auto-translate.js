@@ -7,6 +7,7 @@ const BATCH_SIZE = 50;
 const PARALLEL_BATCHES = 10;
 const MAX_RETRIES = 3; // Sau 3 lần retry sẽ gọi API mới
 const RETRY_DELAY = 2000;
+const DUPLICATE_THRESHOLD = 10; // Khi còn dưới 10 batch, chạy song song duplicate
 const PROGRESS_FILE = 'translation-progress-pricone.json';
 const INPUT_FILE = 'merged_translations.xml';
 const OUTPUT_FILE = 'merged_translations_vi.xml';
@@ -245,8 +246,16 @@ async function main() {
     
     console.log(`📋 Còn lại: ${pendingBatches.length} batch\n`);
     
+    // Nếu còn dưới DUPLICATE_THRESHOLD batch, chạy song song duplicate
+    const useDuplicateMode = pendingBatches.length < DUPLICATE_THRESHOLD && pendingBatches.length > 0;
+    
+    if (useDuplicateMode) {
+        console.log(`🔥 Chế độ tăng tốc: Chạy ${PARALLEL_BATCHES} request song song cho mỗi batch\n`);
+    }
+    
     let currentIndex = 0;
     const runningPromises = new Set();
+    const completedBatches = new Set(progress.completedBatches);
     
     async function processNextBatch() {
         if (currentIndex >= pendingBatches.length) return;
@@ -254,14 +263,28 @@ async function main() {
         const batchIndex = pendingBatches[currentIndex];
         currentIndex++;
         
+        // Nếu batch này đã hoàn thành (do duplicate request), bỏ qua
+        if (completedBatches.has(batchIndex)) {
+            if (currentIndex < pendingBatches.length) {
+                const promise = processNextBatch();
+                runningPromises.add(promise);
+                promise.finally(() => runningPromises.delete(promise));
+            }
+            return;
+        }
+        
         console.log(`⚡ Batch ${batchIndex + 1}/${totalBatches}`);
         
         const result = await translateBatch(entries, batchIndex);
         
-        progress.completedBatches.push(result.batchIndex);
-        saveProgress(progress);
-        
-        console.log(`✅ Batch ${result.batchIndex + 1} → temp-batches/batch-${String(result.batchIndex).padStart(6, '0')}.xml`);
+        // Đánh dấu batch đã hoàn thành
+        if (!completedBatches.has(result.batchIndex)) {
+            completedBatches.add(result.batchIndex);
+            progress.completedBatches.push(result.batchIndex);
+            saveProgress(progress);
+            
+            console.log(`✅ Batch ${result.batchIndex + 1} → temp-batches/batch-${String(result.batchIndex).padStart(6, '0')}.xml`);
+        }
         
         if (currentIndex < pendingBatches.length) {
             const promise = processNextBatch();
@@ -271,17 +294,44 @@ async function main() {
     }
     
     // Khởi động batch song song
-    for (let i = 0; i < Math.min(PARALLEL_BATCHES, pendingBatches.length); i++) {
-        const promise = processNextBatch();
-        runningPromises.add(promise);
-        promise.finally(() => runningPromises.delete(promise));
+    if (useDuplicateMode) {
+        // Chế độ duplicate: Mỗi batch chạy PARALLEL_BATCHES lần song song
+        for (const batchIndex of pendingBatches) {
+            for (let i = 0; i < PARALLEL_BATCHES; i++) {
+                const promise = (async () => {
+                    // Kiểm tra xem batch đã hoàn thành chưa
+                    if (completedBatches.has(batchIndex)) return;
+                    
+                    console.log(`⚡ Batch ${batchIndex + 1}/${totalBatches} (duplicate ${i + 1}/${PARALLEL_BATCHES})`);
+                    
+                    const result = await translateBatch(entries, batchIndex);
+                    
+                    // Chỉ lưu lần đầu tiên hoàn thành
+                    if (!completedBatches.has(result.batchIndex)) {
+                        completedBatches.add(result.batchIndex);
+                        progress.completedBatches.push(result.batchIndex);
+                        saveProgress(progress);
+                        
+                        console.log(`✅ Batch ${result.batchIndex + 1} → temp-batches/batch-${String(result.batchIndex).padStart(6, '0')}.xml`);
+                    }
+                })();
+                
+                runningPromises.add(promise);
+                promise.finally(() => runningPromises.delete(promise));
+            }
+        }
+    } else {
+        // Chế độ bình thường: Chạy PARALLEL_BATCHES batch khác nhau
+        for (let i = 0; i < Math.min(PARALLEL_BATCHES, pendingBatches.length); i++) {
+            const promise = processNextBatch();
+            runningPromises.add(promise);
+            promise.finally(() => runningPromises.delete(promise));
+        }
     }
     
     // Chờ xong
-    while (runningPromises.size > 0 || currentIndex < pendingBatches.length) {
-        if (runningPromises.size > 0) {
-            await Promise.race(Array.from(runningPromises));
-        }
+    while (runningPromises.size > 0) {
+        await Promise.race(Array.from(runningPromises));
         await new Promise(resolve => setTimeout(resolve, 100));
     }
     
