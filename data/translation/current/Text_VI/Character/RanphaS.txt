@@ -1,0 +1,29 @@
+##Profile##
+【魔法】後衛で、密やかな潮騒に耳を傾ける晩陽の歌姫。魔法クリティカルの極大アップを筆頭に攻防両面で周囲の味方を強化し、さらに自身もＵＢで数多の敵を退かせる。=[Phép] Hậu quân ca sĩ hoàng hôn lắng nghe tiếng sóng thầm thì. Kỹ năng xuất sắc trong việc tăng cường đồng minh xung quanh cả công lẫn thủ, tăng trung bình M.CRIT, và UB có thể đẩy lùi nhiều kẻ địch.
+
+##UB##
+ネフライトアリア=Nephrite Aria
+自分を中心とした範囲内の敵すべてに魔法大ダメージを与え、自分を中心とした範囲内の味方すべての魔法攻撃力を特大アップさせる。範囲内の敵の数に応じて、ダメージと魔法攻撃力の上昇量が増加する。=Gây sát thương phép lớn lên kẻ địch trong phạm vi 850 và tăng mạnh M.ATK cho đồng minh trong phạm vi 150 trong 18s. Sát thương phép và tăng M.ATK tăng theo số kẻ địch trong phạm vi.\nSát thương phép: (+0.6×Sát thương phép× Số kẻ địch)\nM.ATK: (+0.5×M.ATK× Số kẻ địch)
+r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の味方の魔法攻撃力を(\d+)アップ$"=►Gây $1 sát thương phép lên kẻ địch trong phạm vi.\n►Tăng M.ATK của đồng minh trong phạm vi lên $2.
+## Same as SNanaka S1
+
+##S1##
+セイレーンブレス=Hơi thở của Siren
+自分を中心とした範囲内の味方すべての魔法攻撃力を大アップ、魔法クリティカルを極大アップ、魔法攻撃クリティカル時のダメージを小アップさせる。=Tăng mạnh M.ATK và Tỷ lệ Chí mạng phép của đồng minh trong phạm vi, và tăng nhẹ Sát thương Chí mạng phép của họ.
+r:"^範囲内の味方の魔法攻撃力を(\d+)アップ範囲内の味方の魔法クリティカルを700アップ範囲内の味方の魔法攻撃クリティカル時のダメージを10％アップ$"=►Tăng M.ATK của đồng minh trong phạm vi 150 lên $1 trong 12s.\n►Tăng Tỷ lệ Chí mạng phép của đồng minh trong phạm vi 150 lên 700 trong 12s.\n►Tăng Sát thương Chí mạng phép của đồng minh trong phạm vi 150 lên 10% trong 12s.
+
+##S2##
+サンシェイドバリア=Rào cản Dưới bóng Mặt trời
+自分を中心とした範囲内の味方すべてに物理/魔法無効バリアを展開し、継続ＨＰ回復状態と継続ＴＰ回復状態を付与する。=Triển khai Màn chắn lên đồng minh trong phạm vi, chống lại sát thương vật lý/phép, và cấp cho họ hồi HP và TP liên tục.
+r:"^(\d+)ダメージ分の物理魔法無効バリアを展開する毎秒ＨＰを(\d+)回復する毎秒ＴＰを10回復する$"=►Triển khai Màn chắn lên đồng minh trong phạm vi 150, chống lại sát thương vật lý/phép $1 trong 12s.\n►Hồi HP của đồng minh trong phạm vi 150 lên $2/giây trong 10.5s.\n►Hồi TP của đồng minh trong phạm vi 150 lên 10/giây trong 10.5s.
+
+##EX##
+マリンボイス=Giọng nói Biển cả
+マリンボイス+=Giọng nói Biển cả+
+
+##S1+##
+セイレーンブレス+=Hơi thở của Siren+
+自分を中心とした範囲内の味方すべての魔法攻撃力を大アップ、魔法クリティカルを極大アップ、魔法攻撃クリティカル時のダメージを小アップさせる。範囲内の味方の人数に応じて、魔法攻撃クリティカル時のダメージの上昇量が最大７キャラ分まで増加する。=Tăng mạnh M.ATK và Tỷ lệ Chí mạng phép của đồng minh trong phạm vi, và tăng nhẹ Sát thương Chí mạng phép của họ. Sát thương Chí mạng phép tăng theo số đồng minh trong phạm vi, tối đa 7.\nSát thương Chí mạng phép: (+2%×Số đồng minh)
+
+##UE##
+歌姫の翳傘=Ô của Nữ Ca sĩ

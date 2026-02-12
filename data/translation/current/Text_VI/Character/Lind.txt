@@ -1,0 +1,34 @@
+##Profile##
+【魔法】後衛で、メイド業に奔走する双子ドラゴンの姉。ＵＢのフィールド展開中は攻撃、防御、ＴＰ回復と多彩な支援スキルの効果が再発動し味方を手厚くサポートする。=[Phép thuật] Chị cả trong cặp song sinh hầu gái rồng, cống hiến cho nhiệm vụ hầu gái ở hậu phương. UB của cô ấy triển khai một trường buff tấn công và phòng thủ và cho TP, và kích hoạt lại hiệu ứng của kỹ năng hỗ trợ. Với những điều này, cô ấy mang lại sự hỗ trợ tinh tế và lịch sự.
+
+豊田萌絵=Toyoda Moe
+妹と過ごす休日=Ngày nghỉ cùng chị gái
+真面目で一生懸命なドラゴンメイド=Một hầu gái rồng nghiêm túc, chăm chỉ
+姉=Chị cả
+
+##UB##
+シンシアリーサービス=Dịch vụ chân thành
+自分を中心とした範囲内の味方すべての魔法攻撃力を特大アップ、魔法クリティカルを大アップ、魔法攻撃クリティカル時のダメージを小アップさせる。さらに、ＨＰを中回復し、範囲内の味方すべてのＨＰを小回復するフィールドを展開する。=Tăng cực lớn M.ATK cho đồng đội trong phạm vi, tăng mạnh Tỷ lệ chí mạng ma thuật của họ, tăng nhỏ Sát thương chí mạng ma thuật của họ, và phục hồi trung bình HP của họ. Đồng thời triển khai một trường xung quanh bản thân liên tục phục hồi HP của đồng đội trong phạm vi.
+r:"^範囲内の味方の魔法攻撃力を(\d+)アップ範囲内の味方の魔法クリティカルを100アップ範囲内の味方の魔法攻撃クリティカル時のダメージを10％アップ範囲内の味方のＨＰを(\d+)回復毎秒ＨＰを(\d+)回復するフィールドを展開する$"=►Tăng M.ATK của đồng đội trong phạm vi 300 thêm $1 trong 18s.\n►Tăng Tỷ lệ chí mạng ma thuật của đồng đội trong phạm vi 300 thêm 100 trong 18s.\n►Tăng Sát thương chí mạng ma thuật của đồng đội trong phạm vi 300 thêm 10% trong 18s.\n►Phục hồi HP của đồng đội trong phạm vi 300 thêm $2.\n►Triển khai một trường bán kính 410 phục hồi HP của đồng đội thêm $3/giây trong 18s.
+
+##S1##
+お掃除します！=Tôi sẽ dọn dẹp!
+自分を中心とした範囲内の味方すべての魔法攻撃力と魔法クリティカルを中アップ、魔法攻撃クリティカル時のダメージを小アップさせる。【フィールド展開中】このスキルの効果がもう一度発動する。=Tăng trung bình M.ATK và Tỷ lệ chí mạng ma thuật cho đồng đội trong phạm vi, và tăng nhỏ Sát thương chí mạng ma thuật của họ. Kỹ năng này kích hoạt hai lần nếu trường của cô ấy đang có hiệu lực.
+r:"^フィールド展開中、以下の効果がもう一度発動する範囲内の味方の魔法攻撃力を(\d+)アップ範囲内の味方の魔法クリティカルを50アップ範囲内の味方の魔法攻撃クリティカル時のダメージを4％アップ$"=►Tăng M.ATK của đồng đội trong phạm vi 300 thêm $1 trong 12s.\n►Tăng Tỷ lệ chí mạng ma thuật của đồng đội trong phạm vi 300 thêm 50 trong 12s.\n►Tăng Sát thương chí mạng ma thuật của đồng đội trong phạm vi 300 thêm 4% trong 12s.
+
+##S2##
+差し入れですよ♪=Món quà cho bạn ♪
+自分を中心とした範囲内の味方すべての魔法攻撃力と魔法防御力を中アップし、魔法無効バリアを展開する。さらに、ＴＰを小回復する。【フィールド展開中】このスキルの効果がもう一度発動する。=Tăng trung bình M.ATK và M.DEF cho đồng đội trong phạm vi, triển khai Barrier trên đồng đội trong phạm vi chống lại sát thương ma thuật, và phục hồi nhỏ TP của họ. Kỹ năng này kích hoạt hai lần nếu trường của cô ấy đang có hiệu lực.
+r:"^フィールド展開中、以下の効果がもう一度発動する範囲内の味方の魔法攻撃力を(\d+)アップ範囲内の味方の魔法防御力を(\d+)アップ(\d+)ダメージ分の魔法無効バリアを展開する範囲内の味方のＴＰを60回復$"=►Tăng M.ATK của đồng đội trong phạm vi 300 thêm $1 trong 12s.\n►Tăng M.DEF của đồng đội trong phạm vi 300 thêm $2 trong 12s.\n►Triển khai Barrier trên đồng đội trong phạm vi 300 chống lại $3 sát thương ma thuật trong 12s.\n►Phục hồi TP của đồng đội trong phạm vi thêm 60.
+
+##EX##
+お洗濯マイスター=Laundry Meister
+お洗濯マイスター+=Laundry Meister+
+
+##S1+##
+お掃除します！+=Tôi sẽ dọn dẹp!+
+ドラゴンメイドモップ=Dragon Maid Mop
+
+自分を中心とした範囲内の味方すべての魔法攻撃力を大アップ、魔法クリティカルを中アップ、魔法攻撃クリティカル時のダメージを小アップさせる。【フィールド展開中】このスキルの効果がもう一度発動する。=Tăng mạnh M.ATK cho tất cả đồng đội trong phạm vi lấy bản thân làm trung tâm, tăng trung bình Tỷ lệ chí mạng ma thuật, và tăng nhỏ Sát thương chí mạng ma thuật. [Trong khi trường đang triển khai] Hiệu ứng kỹ năng này kích hoạt thêm một lần nữa.
+
+r:"^フィールド展開中、以下の効果がもう一度発動する範囲内の味方の魔法攻撃力を(\d+)アップ範囲内の味方の魔法クリティカルを50アップ範囲内の味方の魔法クリダメを6％アップ$"=►Khi [Trường] đang hoạt động, các hiệu ứng sau kích hoạt lại:\n►Tăng M.ATK của đồng đội trong phạm vi thêm $1.\n►Tăng Tỷ lệ chí mạng ma thuật của đồng đội trong phạm vi thêm 50.\n►Tăng Sát thương chí mạng ma thuật của đồng đội trong phạm vi thêm 6%.

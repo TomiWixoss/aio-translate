@@ -1,0 +1,82 @@
+ラウンド=Vòng
+進行度=Giai Đoạn
+未達成ラウンド=Các Vòng Chưa Hoàn Thành
+未達成のラウンドがありません。=Không có vòng nào chưa hoàn thành.
+バトル効果=Hiệu Ứng Trận Đấu
+挑戦目標=Mục Tiêu Thử Thách
+
+バトル効果詳細=Chi Tiết Hiệu Ứng Trận Đấu
+r:"^味方のTotal HPが(\d+)%以上で勝利$"=Chiến thắng khi Tổng HP của đồng đội vượt quá $1%
+r:"^バトルの残り時間が([0-9:]+)以上で勝利$"=Chiến thắng với thời gian còn lại $1 hoặc hơn
+ダウン=Giảm
+アップ=Tăng Cường
+sr:"^(戦力|物攻|魔攻|物防|魔防|HP吸収|HP自動回復|TP上昇|ＴＰ上昇|TP自動回復|TP消費軽減|物理攻撃力|物理防御力|物理クリティカル|魔法攻撃力|魔法防御力|魔法クリティカル|回復量上昇|命中|回避)(アップ|ダウン)$"=$1 $2
+sr:"^バトル中、(.+)が(極大|絶大|特大|大|中|小|大幅)に(アップ|ダウン)する。$"=$2 $3 $1 trong trận đấu.
+r:"^戦闘不能になったキャラが(\d)人以下で勝利$"=Chiến thắng với $1 hoặc ít nhân vật bị hạ gục.
+
+
+バトル開始時ＴＰ特大回復=Hồi TP cực lớn ở đầu trận
+バトル開始時、ＴＰが特大回復する。=Ở đầu trận, TP được hồi cực lớn.
+
+火傷ダメージアップ=Sát thương Bỏng tăng
+火傷効果時間増加=Thời gian Bỏng tăng
+バトル中、「火傷」のダメージが大幅にアップする。=Trong trận đấu, sát thương do "Bỏng" gây ra tăng lên rất nhiều.
+バトル中、「火傷」の効果時間が増加する。=Trong trận đấu, thời gian duy trì hiệu ứng "Bỏng" tăng lên.
+スタン効果時間増加=Thời gian Choáng tăng
+バトル中、「スタン」の効果時間が増加する。=Trong trận đấu, thời gian duy trì hiệu ứng "Choáng" tăng lên.
+
+誘惑効果時間増加=Thời gian Mê tăng
+バトル中、「誘惑」の効果時間が増加する。=Trong trận đấu, thời gian duy trì hiệu ứng "Mê" tăng lên.
+
+毒/猛毒ダメージアップ=Sát thương Độc/Chất Độc tăng
+毒/猛毒効果時間増加=Thời gian Độc/Chất Độc tăng
+バトル中、「毒」「猛毒」の効果時間が増加する。=Trong trận đấu, thời gian duy trì hiệu ứng "Độc" và "Chất Độc" tăng lên.
+バトル中、「毒」「猛毒」のダメージが大幅にアップする。=Trong trận đấu, sát thương do "Độc" và "Chất Độc" gây ra tăng lên rất nhiều.
+
+
+呪い/呪詛効果時間増加=Thời gian Nguyền/Ru ngũ tăng
+呪い/呪詛ダメージアップ=Sát thương Nguyền/Ru ngũ tăng
+バトル中、「呪い」「呪詛」の効果時間が増加する。=Trong trận đấu, thời gian duy trì hiệu ứng "Nguyền" và "Ru ngũ" tăng lên.
+バトル中、「呪い」「呪詛」のダメージが大幅にアップする。=Trong trận đấu, sát thương do "Nguyền" và "Ru ngũ" gây ra tăng lên rất nhiều.
+
+束縛効果時間増加=Thời gian Trói tăng
+バトル中、「束縛」の効果時間が増加する。=Trong trận đấu, thời gian duy trì hiệu ứng "Trói" tăng lên.
+
+混乱効果時間増加=Thời gian Hoảng Loạn tăng
+バトル中、「混乱」の効果時間が増加する。=Trong trận đấu, thời gian duy trì hiệu ứng "Hoảng Loạn" tăng lên.
+
+麻痺効果時間増加=Thời gian Tê Liệt tăng
+バトル中、「麻痺」の効果時間が増加する。=Trong trận đấu, thời gian duy trì hiệu ứng "tê liệt" tăng lên.
+
+凍結効果時間増加=Thời gian hiệu ứng Đóng băng tăng
+バトル中、「凍結」の効果時間が増加する。=Trong trận đấu, thời gian hiệu ứng "Đóng băng" được tăng lên.
+
+---Mission---
+r:"^(\[[0-9A-F]{6}\])?★を累計(\d+)個獲得しよう(\[-\])?$"="$1Thu thập sao $2★$3"
+★獲得ミッション=Nhiệm vụ thu thập sao ★
+
+r:"^([0-9/]+)\n([0-9:]+) 解放$"=Mở khóa vào\n$1 $2 (JST).
+r:"^([0-9/ :]+)に解放されます。$"=Mở khóa vào $1 (JST).
+バトルスタジアムではオートのみになります。=Trong Đấu Trường, chỉ có chế độ tự động.
+火傷確定付与=Đảm bảo gây ra Hiệu ứng Bỏng
+毒/猛毒確定付与=Đảm bảo gây ra Hiệu ứng Độc/Côn trùng
+呪い/呪詛確定付与=Đảm bảo gây ra Hiệu ứng Nguyền/Ám
+スタン確定付与=Đảm bảo gây ra Hiệu ứng Choáng
+束縛確定付与=Đảm bảo gây ra Hiệu ứng Trói buộc
+麻痺確定付与=Đảm bảo gây ra Hiệu ứng Tê liệt
+混乱確定付与=Đảm bảo gây ra Hiệu ứng Hoảng loạn
+誘惑確定付与=Đảm bảo gây ra Hiệu ứng Mê hoặc
+凍結確定付与=Đảm bảo gây ra Hiệu ứng Đóng băng
+バトル中、「スタン」を必ず付与できる状態になる。=Trong trận đấu, bạn sẽ có thể gây ra hiệu ứng "Choáng".
+バトル中、「束縛」を必ず付与できる状態になる。=Trong trận đấu, bạn sẽ có thể gây ra hiệu ứng "Trói buộc".
+バトル中、「麻痺」を必ず付与できる状態になる。=Trong trận đấu, bạn sẽ có thể gây ra hiệu ứng "Tê liệt".
+バトル中、「混乱」を必ず付与できる状態になる。=Trong trận đấu, bạn sẽ có thể gây ra hiệu ứng "Hoảng loạn".
+バトル中、「誘惑」を必ず付与できる状態になる。=Trong trận đấu, bạn sẽ có thể gây ra hiệu ứng "Mê hoả".
+バトル中、「火傷」を必ず付与できる状態になる。=Trong trận đấu, bạn sẽ có thể gây ra hiệu ứng "Bỏng".
+バトル中、「毒」「猛毒」を必ず付与できる状態になる。=Trong trận đấu, bạn sẽ có thể gây ra hiệu ứng "Độc/Côn trùng".
+バトル中、「呪い」「呪詛」を必ず付与できる状態になる。=Trong trận đấu, bạn sẽ có thể gây ra hiệu ứng "Nguyền/Ám".
+バトル中、「凍結」を必ず付与できる状態になる。=Trong trận đấu, bạn sẽ có thể gây ra hiệu ứng "凍結".
+---Kokkoro Tutorial---
+バトルスタジアムでは、ラウンドごとに特定のスキルやステータスが\n強化されるバトル効果が発生するようです。\nバトルには何度も挑戦可能ですので、編成を工夫して挑みましょう。=Trong Đấu Trường, dường như có hiệu ứng trận đấu xảy ra mạnh lên kỹ năng và thuộc tính nhất định mỗi hiệp. Bạn có thể thử thách nhiều lần, hãy thử tính toán đội hình và thử thách.
+挑戦目標を達成することで★を獲得できますよ。\nより多くの★を集めてミッション報酬の獲得を目指しましょう。=Bạn có thể kiếm được sao★ bằng cách đạt mục tiêu thử thách. Thu thập càng nhiều sao để nhận phần thưởng nhiệm vụ.
+★3クリアしていないラウンドを確認できます。=Bạn có thể kiểm tra các hiệp bạn chưa giải được ★3.

@@ -1,0 +1,39 @@
+##Profile##
+【物理】前衛で敵の物理攻撃を妨害する吸血鬼テーラー。挑発と物理無効バリア、さらに最も物理攻撃力が高い敵を狙った妨害スキルによって、鉄壁の防御を織り上げる。=[Vật Lý] Một thợ may ma cà rồng phá rối tấn công vật lý của địch. Với các kỹ năng như Khiêu Khích, Rào Cản Phản Vật, và can thiệp nhắm vào kẻ địch có tấn công vật cao nhất, cô ấy dệt nên một phòng thủ sắt thép.
+
+##UB##
+ストリングカーニバル=Lễ Hội Dây
+最も物理攻撃力が高い敵１キャラに物理大ダメージを与え、さらに物理攻撃力と行動速度を特大ダウンさせる。=Gây sát thương vật lớn lên kẻ địch có P.ATK cao nhất và giảm mạnh P.ATK cùng tốc độ hành động của chúng.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理攻撃力を(\d+)ダウン敵単体の行動速度を一定時間低下させる$"=►Gây $1 Sát thương Vật lý lên kẻ địch.\n►Giảm Tấn công Vật lý của kẻ địch đi $2 trong 18s.\n►Giảm tốc độ hành động của kẻ địch xuống 20% trong 18s.
+
+##S1##
+テーラードハロウィン=Thợ May Halloween
+自分に物理無効バリアを展開し、さらに物理防御力を大アップさせる。=Tạo một rào cản xung quanh bản thân, hóa giải Sát thương Vật lý. Tăng phòng thủ Vật lý của bản thân rất lớn.
+r:"^(\d+)ダメージ分の物理無効バリアを展開する自分の物理防御力を(\d+)アップ$"=Thời gian niệm: 0.715s\n►Tạo Rào cản quanh bản thân, hóa giải $1 Sát thương Vật lý trong 12s.\n►Tăng Phòng thủ Vật lý của bản thân lên $2 trong 12s.
+
+##S2##
+フィアーアテンション=Thu hút Sợ hãi
+敵全体を挑発し、自分のＨＰを中回復する。さらに最も物理攻撃力が高い敵１キャラを恐慌状態にする。=Thu hút tất cả kẻ địch và hồi lại một lượng lớn HP cho bản thân. Ngoài ra, gây [Sợ hãi] lên kẻ địch có Tấn công Vật lý cao nhất.
+【挑発】敵全体を挑発し、自分のＨＰを中回復する。さらに最も物理攻撃力が高い敵１キャラを恐慌状態にする。=【Thu hút】 Thu hút tất cả kẻ địch và hồi lại một lượng lớn HP cho bản thân. Ngoài ra, gây [Sợ hãi] lên kẻ địch có Tấn công Vật lý cao nhất.
+
+敵全体を挑発し、自分のＨＰを大回復する。さらに最も物理攻撃力が高い敵１キャラを恐慌状態にする。=Thu hút tất cả kẻ địch và hồi lại một lượng lớn HP cho bản thân. Ngoài ra, gây [Sợ hãi] lên kẻ địch có Tấn công Vật lý cao nhất.
+r:"^敵全体を挑発する自分のＨＰを(\d+)回復敵単体を恐慌状態にする$"=Thời gian niệm: 0.715s\n►Khiêu khích tất cả kẻ địch trong 19s.\n►Hồi HP cho bản thân $1.\n►Gây [Sợ hãi] lên kẻ địch trong 8s.
+
+##EX##
+テラーデコレーション=Thợ May Trang Trí
+テラーデコレーション+=Thợ May Trang Trí+
+
+##S1+##
+テーラードハロウィン+=Thợ May Halloween+
+自分に物理無効バリアを展開し、さらに物理防御力を大アップさせ、継続ＨＰ回復状態を付与する。=Tạo một rào cản xung quanh bản thân, hóa giải Sát thương Vật lý. Tăng phòng thủ Vật lý của bản thân rất lớn, và cho phép hồi HP liên tục.
+r:"^(\d+)ダメージ分の物理無効バリアを展開する自分の物理防御力を(\d+)アップ毎秒ＨＰを(\d+)回復する$"=Thời gian niệm: 0.715s\n►Tạo Rào cản quanh bản thân, hóa giải $1 Sát thương Vật lý trong 12s.\n►Tăng Phòng thủ Vật lý của bản thân lên $2 trong 12s.\n►Hồi HP cho bản thân $3/giây trong 6s.
+
+##UE##
+ハロウィンナイトドレス=Đầm Dự Tiệc Halloween
+
+##S2+##
+ハロウィンナイトヘアバンド=Băng đô Đêm Halloween
+フィアーアテンション+=Thu hút Sợ hãi+
+【挑発】敵全体を挑発し、自分に魔法無効バリアを展開し、魔法防御力を大アップし、ＨＰを大回復する。さらに最も物理攻撃力が高い敵１キャラの物理攻撃力を大ダウン、物理防御力を中ダウンさせ、恐慌状態にする。また、最も魔法攻撃力が高い敵１キャラの魔法攻撃力を大ダウン、物理防御力を中ダウンさせ、クリティカルを受けた際のダメージを小アップさせる。=[Thu hút] Thu hút tất cả kẻ địch, tạo rào cản phép thuật vô hiệu cho bản thân, tăng phòng thủ Ma thuật rất lớn, và hồi HP rất nhiều. Hơn nữa, giảm Tấn công Vật lý của kẻ địch có Tấn công Vật lý cao nhất một cách lớn, giảm Phòng thủ Vật lý của chúng một cách vừa phải, và gây trạng thái hoảng loạn. Ngoài ra, giảm Tấn công Ma thuật của kẻ địch có Tấn công Ma thuật cao nhất một cách lớn, giảm Phòng thủ Vật lý của chúng một cách vừa phải, và tăng nhẹ sát thương chịu từ đòn chí mạng.
+
+r:"^敵全体を挑発する(\d+)ダメージ分の魔法無効バリアを展開する自分の魔法防御力を(\d+)アップ自分のＨＰを(\d+)回復敵単体の物理攻撃力を(\d+)ダウン敵単体の物理防御力を(\d+)ダウン敵単体を恐慌状態にする敵単体の魔法攻撃力を(\d+)ダウン敵単体の物理防御力を(\d+)ダウン敵単体の被クリダメを16％アップ$"=►Thu hút tất cả kẻ địch.\n►Tạo Rào cản Phép thuật Vô hiệu, hấp thụ $1 Sát thương.\n►Tăng Phòng thủ Ma thuật của bản thân lên $2.\n►Hồi HP cho bản thân $3.\n►Giảm Tấn công Vật lý của một kẻ địch lên $4.\n►Giảm Phòng thủ Vật lý của một kẻ địch lên $5.\n►Gây [Hoảng loạn] lên một kẻ địch.\n►Giảm Tấn công Ma thuật của một kẻ địch lên $6.\n►Giảm Phòng thủ Vật lý của một kẻ địch lên $7.\n►Tăng Sát thương Chí mạng mà một kẻ địch nhận thêm 16%.

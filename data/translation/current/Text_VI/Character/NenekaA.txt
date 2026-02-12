@@ -1,0 +1,36 @@
+##Profile##
+【魔法】後衛から、始原の姿で戦況を操る『変貌大妃』。召喚したグレゴールから攻撃支援とＴＰ回復を受け、互いの魔力を合わせた連携攻撃で、幽玄なる玉座に君臨する。=[Phép thuật] Một "Metamorph Regnant" điều khiển trận đấu từ hậu phương dưới dạng nguyên thủy. Nhận được hỗ trợ tấn công và hồi phục TP từ Gregor được triệu hồi, trị vì ngai vàng huyền bí thông qua các đòn phép đồng bộ.
+
+##UB##
+ティル・ナ・ノーグ=Tír na nÓg
+目の前の敵１キャラを中心とした範囲内の敵すべてに魔法大ダメージを与え、魔法防御力を小ダウン、クリティカルを受けた際のダメージを小アップさせる。ネネカ（アルファ）が召喚したグレゴールが味方にいる場合、グレゴールの魔法攻撃力に応じて与えるダメージがアップし、追加で敵全体の魔法防御力を小ダウンさせる。=Gây sát thương phép thuật lớn lên kẻ địch xung quanh mục tiêu. Giảm nhẹ M.DEF và tăng sát thương phản công nhận. Khi có Gregor được triệu hồi, sát thương tỷ lệ với M.ATK của Gregor và thêm vào đó giảm M.DEF của toàn kẻ địch.
+r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の魔法防御力を(\d+)ダウン範囲内の敵の被クリダメを7％アップグレゴールがいる場合、敵全体の魔法防御力を(\d+)ダウン$"=►Gây $1 M.DMG lên kẻ địch trong phạm vi.\n►Giảm M.DEF của kẻ địch trong phạm vi $2.\n►Tăng sát thương phản công mà kẻ địch trong phạm vi nhận thêm 7%.\n\nNếu Gregor có mặt:\n►Giảm M.DEF của toàn kẻ địch $3.
+
+##S1##
+ティターニアブライト=Titania Bright
+目の前の敵１キャラを中心とした範囲内の敵すべてに魔法中ダメージを与え、魔法防御力を小ダウン、物理攻撃力と魔法攻撃力を大ダウンさせる。ネネカ（アルファ）が召喚したグレゴールが味方にいる場合、グレゴールの魔法攻撃力に応じて与えるダメージがアップし、追加で敵全体の魔法防御力を小ダウンさせる。=Gây sát thương phép thuật vừa phải lên kẻ địch trong khu vực, giảm M.DEF đồng thời giảm cực lớn P.ATK/M.ATK. Khi có Gregor được triệu hồi, sát thương tỷ lệ với M.ATK của anh ấy và thêm hiệu ứng giảm M.DEF nhóm.
+r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の魔法防御力を(\d+)ダウン範囲内の敵の物理攻撃力を(\d+)ダウン範囲内の敵の魔法攻撃力を(\d+)ダウングレゴールがいる場合、敵全体の魔法防御力を(\d+)ダウン$"=►Gây $1 M.DMG lên kẻ địch trong phạm vi.\n►Giảm M.DEF của kẻ địch trong phạm vi $2.\n►Giảm P.ATK của kẻ địch trong phạm vi $3.\n►Giảm M.ATK của kẻ địch trong phạm vi $4.\n\nNếu Gregor có mặt:\n►Giảm M.DEF của toàn kẻ địch $5.
+
+召喚体スキル=Kỹ Năng Triệu Hồi
+##S2##
+フォスフォレセント=Phosphorescent
+【召喚】自分を中心とした範囲内の味方すべての魔法攻撃力、魔法クリティカルを大アップ、魔法攻撃クリティカル時のダメージを小アップさせる。闇属性のキャラに対してはこの効果が２回発動する。さらに、ネネカ（アルファ）が召喚したグレゴールが味方にいる場合、グレゴールのＴＰを小回復させ、そうでない場合グレゴールを召喚する。=[Triệu Hồi] Tăng cực lớn M.ATK/M.CRIT Rate của đồng đội, tăng nhẹ M.CRIT DMG trong khu vực. Đồng đội nguyên tố Bóng Tối nhận đôi hiệu ứng. Hồi phục TP của Gregor nếu có, nếu không thì triệu hồi anh ấy.
+r:"^範囲内の味方の魔法攻撃力を(\d+)アップ範囲内の味方の魔法クリティカルを80アップ範囲内の味方の魔法攻撃クリティカル時のダメージを10％アップグレゴールを召喚するグレゴールのＴＰを75回復$"=►Tăng M.ATK của đồng đội trong phạm vi $1.\n►Tăng M.CRIT RATE của đồng đội trong phạm vi 80.\n►Tăng M.CRIT DMG của đồng đội trong phạm vi 10%.\n►Triệu hồi Gregor.\n►Hồi phục TP của Gregor 75.
+##EX##
+フェアリーサークル=Fairy Circle
+フェアリーサークル+=Fairy Circle+
+
+##SP1##
+グレゴリアライト=Gregorian Light
+グレゴール以外の味方すべてのＴＰ上昇を小アップさせ、ＴＰを小回復させる。さらにグレゴールのＴＰを全て消費し、消費した量に応じてグレゴール以外の闇属性の味方すべてのＴＰを回復する。=Tăng nhẹ Hiệu quả Tăng TP và hồi TP cho đồng minh không phải Gregor. Tiêu hao toàn bộ TP của Gregor để hồi TP cho đồng minh tối thuộc tính theo lượng TP tiêu hao.
+r:"^対象の味方のＴＰ上昇を5アップ対象の味方のＴＰを50回復グレゴールのＴＰを全て消費消費したＴＰに応じて、対象の味方のＴＰを回復$"=►Tăng Hiệu quả Tăng TP của mục tiêu lên 5.\n►Hồi TP của mục tiêu lên 50.\n►Tiêu hao toàn bộ TP của Gregor.\n►Hồi TP của mục tiêu dựa trên lượng TP đã tiêu hao.
+##SP2##
+妖精の羽ばたき=Faerie Flutter
+目の前の敵１キャラを中心とした範囲内の敵すべてに魔法大ダメージを与え、ＴＰを小ダウンさせ、グレゴールのＨＰとＴＰを小回復する。また、グレゴール以外の味方すべての魔法攻撃力と魔法クリティカルを大アップさせる。グレゴール以外の闇属性のキャラに対してはこの効果が２回発動する。=Gây sát thương phép lớn và giảm TP. Hồi HP/TP cho Gregor. Tăng mạnh Tấn công phép/Tỷ lệ Chí mạng phép cho đồng minh không phải Gregor, đồng minh tối thuộc tính được kích hoạt 2 lần.
+r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵のＴＰを100失わせるグレゴールのＨＰを(\d+)回復グレゴールのＴＰを100回復対象の味方の魔法攻撃力を(\d+)アップ対象の味方の魔法クリティカルを80アップ$"=►Gây $1 sát thương phép cho kẻ địch trong phạm vi.\n►Hút 100 TP từ kẻ địch trong phạm vi.\n►Hồi HP của Gregor lên $2.\n►Hồi TP của Gregor lên 100.\n►Tăng Tấn công phép của mục tiêu lên $3.\n►Tăng Tỷ lệ Chí mạng phép của mục tiêu lên 80.
+
+##S1+##
+グレゴール・オリジン=Gregory Origin
+ティターニアブライト+=Titania Bright+
+目の前の敵１キャラを中心とした範囲内の敵すべてに魔法大ダメージを与え、魔法防御力を小ダウン、物理・魔法攻撃力を大ダウンさせる。ネネカ（アルファ）が召喚したグレゴールが味方にいる場合、グレゴールの魔法攻撃力に応じて与えるダメージがアップし、追加で敵全体の魔法防御力を小ダウンさせる。=Gây sát thương phép lớn cho tất cả kẻ địch trong vùng tròn xung quanh một kẻ địch phía trước, giảm nhẹ Phòng thủ phép của chúng, và giảm mạnh Tấn công vật lý/Tấn công phép của chúng. Nếu có Gregor được Neneka (Alpha) triệu hồi trong đội đồng minh, sát thương gây ra sẽ tăng dựa trên Tấn công phép của Gregory, và thêm vào đó giảm nhẹ Phòng thủ phép của tất cả kẻ địch.
+r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の魔法防御力を(\d+)ダウン範囲内の敵の物理・魔法攻撃力を(\d+)ダウングレゴールがいる場合、敵全体の魔法防御力を(\d+)ダウン$"=►Gây $1 sát thương phép cho kẻ địch trong phạm vi.\n►Giảm Phòng thủ phép của kẻ địch trong phạm vi lên $2.\n►Giảm Tấn công vật lý và Tấn công phép của kẻ địch trong phạm vi lên $3.\n\nNếu có [Gregor] trong đội:\n►Giảm Phòng thủ phép của tất cả kẻ địch lên $4.

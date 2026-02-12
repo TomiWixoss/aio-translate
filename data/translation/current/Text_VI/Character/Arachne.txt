@@ -1,0 +1,38 @@
+【物理】後衛で、喪われた光を求めてもがく元『六凶』。敵のＵＢを遅延する【遮絶の操糸】や、味方単体のＵＢを連続発動可能にする【賦活の糸】を戦場に張り巡らせる。=[Vật lý] Hậu quân cựu "Sáu Tai Họa" tìm kiếm ánh sáng đã mất. Triển khai các sợi tơ làm chậm UB kẻ địch và cho phép đồng đội spam UB trên chiến trường.
+光を追うこと、整理整頓=Theo đuổi ánh sáng, sắp xếp và dọn dẹp.
+
+新たな道を歩み始めた女郎蜘蛛=Một arachne đã bước đi trên con đường mới
+
+##UB##
+ウィドウ・ウェヴ・ウィーヴ=Widow Web Weave
+味方全体に物理/魔法無効バリアを展開し、継続ＨＰ回復状態を付与する。自分以外の物理攻撃をする味方のうち最も物理攻撃力が高い味方１キャラの物理攻撃力を特大アップさせ、【賦活の糸】を１つ付与する。【賦活の糸】が付与されているキャラがＵＢを使用した場合、そのキャラの【賦活の糸】を１つ消費し、ＴＰを特大回復する。【賦活の糸】は最大１つまで追加される。=Triển khai khiên vô hiệu hóa vật lý/phép thuật cho toàn đồng đội và trao trạng thái hồi HP liên tục. Tăng mạnh tấn công vật lý của đồng đội có tấn công vật lý cao nhất ngoài bản thân thực hiện tấn công vật lý, và trao 1 [Sợi tơ hồi phục]. Nếu nhân vật có [Sợi tơ hồi phục] dùng UB, tiêu hao 1 [Sợi tơ hồi phục] từ nhân vật đó và hồi TP cực lớn. Có thể thêm [Sợi tơ hồi phục] lên tối đa 1.
+r:"^(\d+)ダメージ分の物理魔法無効バリアを展開する毎秒ＨＰを(\d+)回復する対象の味方の物理攻撃力を(\d+)アップ対象の味方に賦活の糸を付与する対象の味方がＵＢを使用した時に、賦活の糸を１つ消費し、ＴＰを1000回復$"=►Triển khai khiên Vật lý/Phép Null hấp thụ $1 sát thương.\n►Hồi HP $2/giây.\n►Tăng tấn công vật lý của đồng đội mục tiêu lên $3.\n►Trao [Sợi tơ kích hoạt] cho đồng đội mục tiêu.\n►Khi đồng đội mục tiêu dùng UB: Tiêu hao 1 [Sợi tơ kích hoạt] và hồi TP 1000.
+
+##S1##
+忘却の財禍=Oblivion's Calamity
+味方全体のＴＰ上昇を小アップし、自分以外の味方全体のＴＰを小回復する。さらに、味方全体の物理攻撃力を特大アップ、物理防御力と魔法防御力を中アップする。=Tăng nhẹ Tăng TP cho toàn đồng đội, và hồi TP nhẹ cho toàn đồng đội ngoại trừ bản thân. Hơn nữa, tăng mạnh tấn công vật lý cho toàn đồng đội, và tăng trung bình phòng thủ vật lý và phép thuật của họ.
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の物理防御力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ味方全体のＴＰ上昇を5アップ自分以外の味方全体のＴＰを100回復$"=►Tăng tấn công vật lý của toàn đồng đội lên $1.\n►Tăng phòng thủ vật lý của toàn đồng đội lên $2.\n►Tăng phòng thủ phép thuật của toàn đồng đội lên $3.\n►Tăng Tăng TP của toàn đồng đội lên 5.\n►Hồi TP cho toàn đồng đội trừ bản thân 100.
+
+##S2##
+粘つく白糸=Sticky White Thread
+目の前の敵１キャラの物理攻撃力と魔法攻撃力を大ダウン、物理防御力を小ダウンさせ、物理攻撃を受けた際のダメージを小アップさせる。=Giảm mạnh tấn công vật lý và tấn công phép thuật của kẻ địch trước mặt, giảm nhẹ phòng thủ vật lý của chúng, và tăng nhẹ sát thương vật lý mà chúng phải nhận.
+
+r:"^敵単体の物理攻撃力を(\d+)ダウン敵単体の魔法攻撃力を(\d+)ダウン敵単体の物理防御力を(\d+)ダウン敵単体が受ける物理ダメージを3％アップ$"=►Giảm tấn công vật lý của một kẻ địch lên $1.\n►Giảm tấn công phép thuật của một kẻ địch lên $2.\n►Giảm phòng thủ vật lý của một kẻ địch lên $3.\n►Tăng 3% sát thương vật lý mà một kẻ địch phải nhận.
+
+##EX##
+光射す方へ=Toward the Shining Light
+光射す方へ+=Toward the Shining Light+
+
+逃れ得ぬカルマ=Inescapable Karma
+敵単体を遮絶の操糸状態にする物理攻撃力、魔法攻撃力いずれかで、最も攻撃力が高い敵１キャラを遮絶の操糸状態にする。遮絶の操糸状態の間はＴＰが増加しない。=Gây trạng thái chuỗi Sợi tơ Cô lập lên một kẻ địch.\nGây trạng thái chuỗi Sợi tơ Cô lập lên kẻ địch có sức mạnh tấn công cao nhất, dù là P.ATK hay M.ATK. Khi ở trạng thái chuỗi Sợi tơ Cô lập, TP sẽ không tăng.
+
+物理攻撃力、魔法攻撃力いずれかで、最も攻撃力が高い敵１キャラを遮絶の操糸状態にする。遮絶の操糸状態の間はＴＰが増加しない。=Gây trạng thái chuỗi Sợi tơ Cô lập lên kẻ địch có sức mạnh tấn công cao nhất, dù là P.ATK hay M.ATK. Khi ở trạng thái chuỗi Sợi tơ Cô lập, TP sẽ không tăng.
+敵単体を遮絶の操糸状態にする=Gây trạng thái chuỗi Sợi tơ Cô lập lên một kẻ địch.
+
+Story Title Cards
+逃れられない過去=An Inescapable Past
+脱出、あるいは運命の再会=Escape or Fateful Reunion
+小さな従者と大きな従者=Little Servant and Big Servant
+わたしの光=My Light
+
+

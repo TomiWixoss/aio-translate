@@ -1,0 +1,37 @@
+##Profile##
+読書=Reading
+
+【魔法】後衛で、英霊の召喚術を武器に戦うお姫様。味方に英霊の加護を付与するスキルによるサポーターと、高威力の魔法によるアタッカーの二つの役割を併せ持つ。=[Ma thuật] Công chúa Manaria chiến đấu ở hậu phương, sử dụng linh hồn của các chiến binh mạnh mẽ như vũ khí. Cô có thể đóng vai trò người hỗ trợ, ban cho đồng đội Lời Chúc Linh Hồn, hoặc sử dụng ma thuật mạnh mẽ để tấn công.
+
+英霊と契約を結んだマナリアの天才王女=Thần đồng triệu hồi linh hồn của Vương quốc Manaria
+
+好奇心旺盛な王女=Công Chúa Luôn Tò Mò
+王女の青空魔法教室=Những Bài Học Cùng Công Chúa
+王女の弱点=Điểm Yếu Của Công Chúa
+王女が捧げる親愛の歌=Từ Công Chúa, Với Tình Yêu
+
+##UB##
+ディターレントスラスト=Deterrent Thrust
+目の前の敵１キャラに魔法特大ダメージを与え、さらに英霊の加護を受けているキャラの魔法攻撃力を大アップさせる。=Gây sát thương ma thuật khổng lồ lên kẻ địch ngay phía trước. Tăng mạnh M.ATK của đồng đội có Lời Chúc Linh Hồn.
+r:"^敵単体に(\d+)の魔法ダメージ対象の味方の魔法攻撃力を(\d+)アップ$"=►Gây $1 sát thương ma thuật lên kẻ địch.\n►Tăng M.ATK của đồng đội mục tiêu thêm $2 trong 18 giây.
+
+##S1##
+コリジョンスペル=Collision Spell
+目の前の敵１キャラに魔法大ダメージを与える。=Gây sát thương ma thuật vừa phải lên kẻ địch ngay phía trước.
+
+##S2##
+プリンセスコーリング=Princess Calling
+自分を中心とした範囲内の味方すべてに英霊の加護を付与し、さらに魔法攻撃力を中アップさせ、行動速度を小アップさせる。=Ban Lời Chúc Linh Hồn cho tất cả đồng đội gần đó. Tăng M.ATK của họ một cách lớn và tốc độ hành động một chút.
+r:"^範囲内の味方に英霊の加護を付与範囲内の味方の行動速度アップ範囲内の味方の魔法攻撃力を(\d+)アップ$"=►Ban Lời Chúc Linh Hồn cho đồng đội trong phạm vi trong 12 giây.\n►Tăng tốc độ hành động của đồng đội lên 110% trong phạm vi 200.\n►Tăng M.ATK của đồng đội trong phạm vi thêm $1 trong 12 giây.
+
+##EX##
+レイディアントコーリング=Radiant Calling
+レイディアントコーリング+=Radiant Calling+
+
+##S1+##
+コリジョンスペル+=Collision Spell+
+目の前の敵１キャラに魔法大ダメージを与え、自分が英霊の加護を受けている場合味方全体のＴＰを小回復し、自分が英霊の加護を受けていない場合自分の行動速度を中アップさせる。=Gây sát thương ma thuật lớn lên kẻ địch ngay phía trước. Nếu Anne có Lời Chúc Linh Hồn, hồi một chút TP cho tất cả đồng đội. Nếu Anne không có Lời Chúc Linh Hồn, tăng tốc độ hành động của bản thân một cách vừa phải.
+r:"^敵単体に(\d+)の魔法ダメージ味方全体のＴＰを(\d+)回復自分の行動速度アップ$"=►Gây $1 sát thương ma thuật lên kẻ địch.\n►Hồi TP cho tất cả đồng đội khác $2 nếu Anne có Lời Chúc Linh Hồn.\n►Tăng tốc độ hành động của bản thân lên 125% nếu Anne không có Lời Chúc Linh Hồn trong 12 giây.
+
+##UE##
+アンの魔導書=Anne's Grimoire

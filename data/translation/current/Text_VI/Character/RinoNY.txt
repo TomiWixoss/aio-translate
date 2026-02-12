@@ -1,0 +1,21 @@
+##Profile##
+【魔法】後衛で絵馬に込めた想いを胸に抱く晴れ着の妹。クリティカル時に威力が上がる矢で敵を撃ち抜き、味方全体への攻撃支援や継続ＴＰ回復で厄を払い福を届ける。=[Magic] Một em gái mặc kimono ở hàng sau, nắm chặt những điều ước được viết trên bảng ema. Cô xuyên thấu kẻ địch bằng những mũi tên mạnh lên khi chí mạng, đồng thời xua tan vận hạn và mang lại phước lành thông qua hỗ trợ tấn công cho tất cả đồng minh và hồi TP liên tục.
+
+##UB##
+ハッピーニューアロー=Happy New Arrow
+前方の敵すべてに魔法中ダメージを２回与える。このスキルがクリティカルした場合のダメージは、２倍ではなく４倍になる。さらに味方全体の魔法攻撃力と魔法クリティカルを特大アップ、魔法攻撃クリティカル時のダメージを小アップさせる。発動時既に自分が魔法クリティカルアップ状態だった場合、味方全体の魔法攻撃のダメージを小アップさせる。=Gây sát thương ma thuật trung bình cho tất cả kẻ địch phía trước hai lần. Nếu kỹ năng này đánh trúng chí mạng, sát thương sẽ là 4× thay vì 2×. Ngoài ra, tăng mạnh M.ATK và M.CRIT RATE cho tất cả đồng minh, và tăng nhẹ M.CRIT DMG của họ. Nếu bản thân đã có hiệu ứng tăng M.CRIT RATE khi kích hoạt, tăng nhẹ M.DMG cho tất cả đồng minh.
+r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵に(\d+)の魔法ダメージ味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを180アップ味方全体の魔法クリダメを8％アップ自分が魔法クリティカルアップ状態の時、味方全体が与える魔法ダメージを3％アップ$"=►Gây $1 sát thương ma thuật cho kẻ địch trong phạm vi. ►Gây $2 sát thương ma thuật cho kẻ địch trong phạm vi. ►Tăng M.ATK của đồng minh lên $3. ►Tăng M.CRIT RATE của đồng minh lên 180. ►Tăng M.CRIT DMG của đồng minh lên 8%.  Nếu M.CRIT RATE của bản thân được tăng: ►Tăng M.DMG mà đồng minh gây ra lên 3%.
+
+##S1##
+ハピネスシャトル=Happiness Shuttle
+味方全体の魔法攻撃力を特大アップ、魔法攻撃クリティカル時のダメージを小アップさせる。自分が魔法クリティカルアップ状態だった場合、追加で味方全体の魔法攻撃力を特大アップ、ＨＰを小回復、継続ＴＰ回復状態を付与する。=Tăng mạnh M.ATK cho tất cả đồng minh và tăng nhẹ M.CRIT DMG của họ. Nếu bản thân đang có hiệu ứng tăng M.CRIT RATE, còn tăng mạnh thêm M.ATK cho tất cả đồng minh, hồi nhẹ HP của họ, và mang lại hiệu ứng hồi TP liên tục.
+r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリダメを6％アップ自分が魔法クリティカルアップ状態の時、以下の効果が発動する味方全体の魔法攻撃力を(\d+)アップ味方全体のＨＰを(\d+)回復毎秒ＴＰを10回復する$"=►Tăng M.ATK của đồng minh lên $1. ►Tăng M.CRIT DMG của đồng minh lên 6%.  Nếu M.CRIT RATE của bản thân được tăng: ►Tăng M.ATK của đồng minh lên $2. ►Hồi HP cho tất cả đồng minh lên $3. ►Hồi 10 TP mỗi giây cho tất cả đồng minh.
+
+##S2##
+スピニングトップシュート=Spinning Top Shoot
+前方の敵すべてに魔法中ダメージを与え、物理攻撃力と魔法攻撃力を大ダウンさせ、スタンさせる。自分が魔法クリティカルアップ状態だった場合、前方の敵すべてに追加の魔法中ダメージを与える。このスキルがクリティカルした場合のダメージは、２倍ではなく４倍になる。=Gây sát thương ma thuật trung bình cho tất cả kẻ địch phía trước, giảm mạnh P.ATK và M.ATK của chúng, và làm choáng họ. Nếu bản thân đang có hiệu ứng tăng M.CRIT RATE, gây thêm sát thương ma thuật trung bình cho tất cả kẻ địch phía trước. Nếu kỹ năng này đánh trúng chí mạng, sát thương sẽ là 4× thay vì 2×.
+r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の物理攻撃力を(\d+)ダウン範囲内の敵の魔法攻撃力を(\d+)ダウン範囲内の敵を一定時間行動不能にする自分が魔法クリティカルアップ状態の時、範囲内の敵に(\d+)の魔法ダメージ$"=►Gây $1 sát thương ma thuật cho kẻ địch trong phạm vi. ►Giảm P.ATK của kẻ địch trong phạm vi lên $2. ►Giảm M.ATK của kẻ địch trong phạm vi lên $3. ►Gây hiệu ứng vô hiệu hóa cho kẻ địch trong phạm vi trong một khoảng thời gian.  Nếu M.CRIT RATE của bản thân được tăng: ►Gây $4 sát thương ma thuật cho kẻ địch trong phạm vi.
+
+##EX##
+フォーチュンシスター=Fortune Sister
+フォーチュンシスター+=Fortune Sister+

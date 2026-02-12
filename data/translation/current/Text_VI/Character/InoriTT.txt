@@ -1,0 +1,27 @@
+##Profile##
+【物理】前衛で威勢よく、まくしたてる口撃系ドラゴン。全体物理攻撃力アップのＵＢは、味方の防御力を下げる代わりにＨＰが多いほど効果を高め、味方を勝利に導く。=[Vật Lý] Một con rồng đánh tan địch với những cú đấm tả xơi tơi ở tuyến đầu. UB tăng tấn công vật lý của toàn bộ đồng đội nhưng hy sinh phòng thủ của họ; hiệu quả càng tốt khi đồng độí còn nhiều máu, dẫn dắt họ đến chiến thắng.
+
+##UB##
+ドラゴンズタクト=Kỹ Năng Rồng
+味方全体の物理攻撃力を特大アップさせるが、自分以外の味方の物理防御力と魔法防御力を中ダウンさせる。自分の残りＨＰが多いほど攻撃力の増加量がアップする。=Tăng mạnh tất cả đồng minh P.ATK, nhưng giảm trung bình P.DEF và M.DEF của tất cả đồng minh khác. HP càng cao, mức tăng P.ATK càng lớn.
+r:"^味方全体の物理攻撃力を(\d+)アップ自分以外の味方の物理防御力を初期値の20%ダウン自分以外の味方の魔法防御力を初期値の20%ダウン$"=►Tăng P.ATK của tất cả đồng minh $1(+0.225×HP) trong 18s.\n►Giảm P.DEF của tất cả đồng minh khác 20% trong 18s.\n►Giảm M.DEF của tất cả đồng minh khác 20% trong 18s.
+
+##S1##
+ドラゴニックショット=Đạn Rồng
+目の前の敵１キャラに物理中ダメージを与え、さらに物理防御力を小ダウンさせる。=Gây sát thương vật lý vừa phải cho kẻ địch phía trước và giảm nhẹ P.DEF của chúng.
+
+##S2##
+ドラモフレイム=Ngọn Lửa Dramo
+目の前の敵１キャラに物理中ダメージを与える。自分の残りＨＰが多いほどダメージがアップする。=Gây sát thương vật lý vừa phải cho kẻ địch phía trước. HP càng cao, sát thương càng lớn.
+
+##EX##
+下剋上ですよ！=Đây là Cuộc Khởi Nghĩa!
+下剋上ですよ！+=Đây là Cuộc Khởi Nghĩa!+
+
+##S1+##
+ドラゴニックショット+=Đạn Rồng+
+目の前の敵１キャラに物理中ダメージを与え、さらに物理防御力を大ダウンさせる。自分の残りＨＰが多いほどダメージがアップする。さらに味方全体の物理攻撃力を大アップさせる。=Gây sát thương vật lý vừa phải cho kẻ địch phía trước, giảm mạnh P.DEF của chúng. HP càng cao, sát thương càng lớn. Ngoài ra, tăng mạnh P.ATK cho tất cả đồng minh.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン味方全体の物理攻撃力を(\d+)アップ$"=►Gây $1(+4×HP) sát thương vật lý cho kẻ địch.\n►Giảm P.DEF của kẻ địch $2 trong 12s.\n►Tăng P.ATK cho tất cả đồng minh $3 trong 12s.
+
+##UE##
+ドラちゃんハンマー=Búa Dora-chan

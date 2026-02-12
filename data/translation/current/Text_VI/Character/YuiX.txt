@@ -1,0 +1,26 @@
+##Profile##
+【魔法】中衛で、騎士の隣に一歩踏み出す聖夜の魔法士。敵の注目を集めながら攻防支援を行い【聖夜の愛慕】が高まると、ＴＰ支援やダメージカットで優しく包み込む。=[Phép thuật] Một pháp sư tuyến giữa bước ra bên cạnh Kishi trong đêm thánh này. Cô thu hút sự chú ý của kẻ địch trong khi cung cấp hỗ trợ tấn công/phòng thủ, và khi [Sùng Bái Đêm Thánh] tích lũy, cô nhẹ nhàng bao bọc đồng minh với hỗ trợ TP và giảm sát thương.
+
+##UB##
+ルミナリィギフト=Món Quà Tỏa Sáng
+目の前の敵１キャラに魔法特大ダメージを与え、魔法防御力を中ダウンさせる。さらに味方全体のＨＰを中回復し、物理無効バリアを展開する。【聖夜の愛慕】の数に応じてバリアの無効ダメージ量がアップする。【聖夜の愛慕】が40の場合、味方全体に物理ダメージカット効果と魔法ダメージカット効果を付与し、魔法攻撃クリティカル時のダメージを小アップさせる。=Gây M.DMG khổng lồ lên kẻ địch phía trước và giảm đáng kể M.DEF của chúng. Ngoài ra, phục hồi đáng kể HP cho tất cả đồng minh và triển khai một hàng rào phản chọi vật lý. Lượng sát thương bị phản chọi của hàng rào tăng dựa trên số lượng [Sùng Bái Đêm Thánh]. Nếu [Sùng Bái Đêm Thánh] đạt 40, ban tặng giảm sát thương vật lý và giảm sát thương phép thuật cho tất cả đồng minh, và tăng nhẹ M.CRIT DMG của họ.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン味方全体のＨＰを(\d+)回復(\d+)ダメージ分の物理無効バリアを展開する聖夜の愛慕が40の場合、以下の効果が発動する味方全体が受ける物理ダメージを15％カット味方全体が受ける魔法ダメージを15％カット味方全体の魔法クリダメを9％アップ$"=►Gây $1 M.DMG lên một kẻ địch.\n►Giảm M.DEF của một kẻ địch đi $2.\n►Phục hồi HP cho tất cả đồng minh đi $3.\n►Triển khai Barrier Phản Chọi Vật Lý hấp thụ $4 sát thương.\n\nNếu [Sùng Bái Đêm Thánh] là 40:\n►Giảm sát thương vật lý mà đồng minh nhận đi 15%.\n►Giảm sát thương phép thuật mà đồng minh nhận đi 15%.\n►Tăng M.CRIT DMG cho tất cả đồng minh đi 9%.
+
+##S1##
+ハートフルスター=Trái Tim Vì Sao
+【挑発】味方全体に継続ＨＰ回復状態を付与して物理防御力と魔法防御力を中アップし、自分が敵全体を挑発する。【聖夜の愛慕】の数に応じて物理防御力アップと魔法防御力アップの効果量が上昇する。【聖夜の愛慕】が40の場合、味方全体に継続ＴＰ回復状態を付与する。=[Kích động] Ban tặng phục hồi HP liên tục cho tất cả đồng minh, tăng đáng kể P.DEF và M.DEF của họ, và tự kích động (kích thích) tất cả kẻ địch. Lượng tăng P.DEF và M.DEF tăng dựa trên số lượng [Sùng Bái Đêm Thánh]. Nếu [Sùng Bái Đêm Thánh] đạt 40, ban tặng phục hồi TP liên tục cho tất cả đồng minh.
+r:"^毎秒ＨＰを(\d+)回復する味方全体の物理防御力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ敵全体を挑発する聖夜の愛慕が40の場合、毎秒ＴＰを10回復する$"=►Phục hồi HP đi $1 mỗi giây.\n►Tăng P.DEF cho tất cả đồng minh đi $2.\n►Tăng M.DEF cho tất cả đồng minh đi $3.\n►Kích thích (kích động) tất cả kẻ địch.\n\nNếu [Sùng Bái Đêm Thánh] là 40:\n►Phục hồi TP đi 10 mỗi giây.
+
+##S1 Start##
+【挑発】味方全体に継続ＨＰ回復状態を付与して物理防御力と魔法防御力を中アップし、自分が敵全体を挑発する。さらに、自分がステータスアップ効果を受ける度に【聖夜の愛慕】が１つ追加される状態にする。【聖夜の愛慕】は最大40まで追加される。=[Kích động] Ban tặng phục hồi HP liên tục cho tất cả đồng minh, tăng đáng kể P.DEF và M.DEF của họ, và tự kích động (kích thích) tất cả kẻ địch. Ngoài ra, vào trạng thái mỗi khi bản thân nhận hiệu ứng tăng trạng thái thì thêm 1 [Sùng Bái Đêm Thánh]. [Sùng Bái Đêm Thánh] có thể tích lũy tối đa 40.
+r:"^毎秒ＨＰを(\d+)回復する味方全体の物理防御力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ敵全体を挑発するステータスアップ効果を受けるたびに自分に聖夜の愛慕を追加する状態になる$"=►Phục hồi HP đi $1 mỗi giây.\n►Tăng P.DEF cho tất cả đồng minh đi $2.\n►Tăng M.DEF cho tất cả đồng minh đi $3.\n►Kích thích (kích động) tất cả kẻ địch.\n►Mỗi khi nhận một hiệu ứng tăng trạng thái, thêm 1 [Sùng Bái Đêm Thánh] cho bản thân.
+
+##S2##
+ホワイトプロミス=Lời Hứa Trắng Ngần
+目の前の敵１キャラの魔法防御力を小ダウン、物理攻撃力を大ダウンさせ、味方全体の魔法攻撃力を大アップ、物理防御力、魔法防御力を小アップさせる。【聖夜の愛慕】の数に応じて魔法攻撃力アップと物理防御力アップと魔法防御力アップの効果量が上昇する。【聖夜の愛慕】が40の場合、味方全体に魔法無効バリアを展開する。=Giảm nhẹ M.DEF và giảm mạnh P.ATK của kẻ địch phía trước, tăng mạnh M.ATK cho tất cả đồng minh, và tăng nhẹ P.DEF và M.DEF của họ. Lượng tăng M.ATK, P.DEF và M.DEF tăng dựa trên số lượng [Sùng Bái Đêm Thánh]. Nếu [Sùng Bái Đêm Thánh] đạt 40, triển khai một hàng rào phản chọi phép thuật cho tất cả đồng minh.
+r:"^敵単体の魔法防御力を(\d+)ダウン敵単体の物理攻撃力を(\d+)ダウン味方全体の魔法攻撃力を(\d+)アップ味方全体の物理防御力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ聖夜の愛慕が40の場合、(\d+)ダメージ分の魔法無効バリアを展開する$"=►Giảm M.DEF của một kẻ thù $1.\n►Giảm P.ATK của một kẻ thù $2.\n►Tăng M.ATK cho tất cả đồng đội $3.\n►Tăng P.DEF cho tất cả đồng đội $4.\n►Tăng M.DEF cho tất cả đồng đội $5.\n\nNếu [Sự Sùng Kính Đêm Thánh] là 40:\n►Triển khai Rào Cản Phớt Lờ Ma Thuật hấp thụ $6 sát thương.
+
+##EX##
+ブレッシングスノー+=Blessing Snow+
+ブレッシングスノー=Blessing Snow
+

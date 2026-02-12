@@ -1,0 +1,49 @@
+##Profile##
+乙女チックなもふもふアニマル=Một sinh vật mềm mại với trái tim người con gái.
+
+毛繕い、お喋り=Chải lông, trò chuyện.
+【物理】最前衛で味方を守る、恋する乙女。バトル開始後、しばらくしてから最前線まで突進してきて、敵の目の前に立ちはだかる。=[Vật Lý] Một cô gái ngây thơ bảo vệ bạn bè từ mặt trận. Xông vào trận chiến ngay sau khi trận đánh bắt đầu để cản trở sự tiến quân của kẻ thù.
+
+魔法のリンゴがなくても=Ngay cả khi không có quả táo ma thuật.
+特別なぬくもり=Sự ấm áp đặc biệt.
+着ぐるみラプソディ=Cats Rhapsody
+愛の逃避行=Escape of love
+
+あなたに会えて良かった=I'm Grateful We Met
+お姫様にはなれなくても=Princess or Not
+魔法の時間=Magic Time
+森の中の不思議な出会い=A Curious Contact
+絵本みたいな奇跡=Like a Fairy Tale
+駱馬(リマ)の王子様=Lima's Knight
+ロマンチックに憧れて=Lover of Romance
+いっけな～い、遅刻遅刻！=I'm Late, I'm Late!
+
+##UB##
+もふもふストライク=Woolly Wallop
+前方範囲内の敵すべてに物理中ダメージを与え、さらに自分の物理防御力を特大アップさせる。=Gây sát thương vật lý vừa phải cho toàn kẻ địch trong phạm vi. Tăng mạnh phòng thủ vật lý của bản thân.
+r:"^範囲内の敵に(\d+)の物理ダメージ自分の物理防御力を(\d+)アップ$"=►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi 400.\n►Đẩy lùi một kẻ địch 50 đơn vị.\n►Tăng phòng thủ vật lý của bản thân lên $2 trong 18s.
+
+##S1##
+もふもふアサルト=Fuzzy Fury
+バトル開始後暫くして、最も前の敵まで突進し、その敵に物理中ダメージを与え、自分の物理防御力を中アップさせる。=Xông thẳng vào kẻ địch phía trước ngay sau khi trận đánh bắt đầu và gây sát thương vật lý vừa phải. Tăng nhẹ phòng thủ vật lý của bản thân.
+r:"^敵単体に(\d+)の物理ダメージ自分の物理防御力を(\d+)アップ$"=►Gây $1 sát thương vật lý lên một kẻ địch.\n►Tăng phòng thủ vật lý của bản thân lên $2.
+
+##S2##
+もふもふヘッドバット=Hairy Headbutt
+
+##EX##
+プロテクトファー=Downy Defense
+プロテクトファー+=Downy Defense+
+
+##UB+##
+メリーウールストライク=Whopping Woolly Wallop
+前方範囲内の敵すべてに物理大ダメージを与えて小さく吹き飛ばし、さらに自分の物理防御力を特大アップさせ、味方全体に物理無効バリアを展開する。=Gây sát thương vật lý lớn cho toàn kẻ địch trong phạm vi và đẩy chúng đi, tăng mạnh phòng thủ vật lý của bản thân, và tạo Màn Chắn Vật Lý cho toàn đồng minh.
+r:"^範囲内の敵に(\d+)の物理ダメージ自分の物理防御力を(\d+)アップ(\d+)ダメージ分の物理無効バリアを展開する$"=►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi 400.\n►Đẩy lùi một kẻ địch 50 đơn vị.\n►Tăng phòng thủ vật lý của bản thân lên $2 trong 18s.\n►Tạo Màn Chắn cho toàn đồng minh, phản chọi $3 sát thương vật lý trong 18s.
+
+##S1+##
+もふもふアサルト+=Fuzzy Fury+
+バトル開始後暫くして、最も前の敵まで突進し、その敵に物理中ダメージを与え、自分の物理防御力を中アップさせる。さらに味方全体に物理無効バリアを展開する。=Xông thẳng vào kẻ địch phía trước ngay sau khi trận đánh bắt đầu và gây sát thương vật lý vừa phải. Tăng mạnh phòng thủ vật lý của bản thân. Tạo Màn Chắn phản chọi sát thương vật lý xung quanh toàn đồng minh.
+r:"^敵単体に(\d+)の物理ダメージ自分の物理防御力を(\d+)アップ(\d+)ダメージ分の物理無効バリアを展開する$"=►Xuất hiện sau 1s khi đợt quái bắt đầu, ở phía trước 100 đơn vị so với kẻ địch gần nhất.\n►Miễn nhiễm sát thương với bản thân trong 1s.\n►Gây $1 sát thương vật lý lên một kẻ địch.\n►Tăng phòng thủ vật lý của bản thân lên $2 trong 16s.\n►Tạo Màn Chắn cho toàn đồng minh, phản chọi $3 sát thương vật lý trong 16s.
+
+##UE##
+アンビシャスドレス=Dreamer's Dress

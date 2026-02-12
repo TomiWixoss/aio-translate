@@ -1,0 +1,81 @@
+プリンセスナイト強化=Princess Knight
+
+プリンセスナイト=Princess Knight
+強化詳細=Chi tiết Tăng cường
+強化Lv=Cấp Tăng cường
+属性レベル=Cấp nguyên tố
+属性スキル=Kỹ năng Nguyên tố
+マスタースキル=Kỹ năng Chủ
+火属性攻撃力=Sức mạnh Thuộc tính Lửa
+水属性攻撃力=Sức mạnh Thuộc tính Nước
+風属性攻撃力=Sức mạnh Thuộc tính Gió
+光属性攻撃力=Sức mạnh Thuộc tính Ánh sáng
+闇属性攻撃力=Sức mạnh Thuộc tính Bóng tối
+
+属性=Nguyên tố
+未強化=Chưa tăng cường
+このノードは強化済みです。=Nút này đã được tăng cường.
+所持シャード=Mảnh Đang có
+消費シャード=Chi phí Mảnh
+ノード詳細=Chi tiết Nút
+選択したノードの強化詳細です。\n未強化の前提ノードは自動で強化されます。=Đây là chi tiết tăng cường của nút đã chọn. Nút chưa tăng cường sẽ tự động được tăng cường.
+強化済みです。=Đã tăng cường.
+強化可能なノードがありません。=Không có nút nào có thể tăng cường.
+消費マスターピース=Chi phí MP
+所持マスターピース=MP Đang có
+所持マスターピース(欠片)=MP Đang có (Mảnh)
+消費マスターピース(欠片)=Chi phí MP (Mảnh)
+
+sr:"^(?:\[3C404E\])?(.+)の(.+)が\[-\]\[FFBB00\,CE4F00\]([0-9.％%]+)\[-\]\[3C404E\]アップ(?:\[-\])?$"=[3C404E]$1 của $2 tăng lên [FFBB00,CE4F00]$3[-].[-]
+sr:"^(?:\[3C404E\])?(.+)の(.+)が\[-\]\[FFBB00\,CE4F00\]([0-9.％%]+)\[-\]\[3C404E\]アップ(?:\[-\])?(?:\r)?\n(?:\[3C404E\])?(.+)?の(.+)が\[-\]\[FFBB00\,CE4F00\]([0-9.％%]+)\[-\]\[3C404E\]アップ(?:\[-\])?$"=[3C404E]$1 của $2 tăng lên [FFBB00,CE4F00]$3[-].\n$4 của $5 tăng lên [FFBB00,CE4F00]$6[-].[-]
+
+魔法与ダメージ=Sát thương Ma thuật
+物理与ダメージ=Sát thương Vật lý
+ＴＰ上昇強化=Tăng TP
+属性ボーナス強化=Tăng Bón Nguyên tố
+物理攻撃力強化=Tăng Tấn công Vật lý
+魔法攻撃力強化=Tăng Tấn công Ma thuật
+
+ＨＰ強化=Tăng HP Tối Đa
+HP吸収強化=Hút HP Tăng
+HP自動回復強化=Hồi HP Tăng
+TP自動回復強化=Hồi TP Tăng
+TP消費軽減強化=Giữ TP Tăng
+物理防御力強化=Tăng Phòng Thủ Vật Lý
+魔法防御力強化=Tăng Phòng Thủ Ma Thuật
+魔法与ダメージ強化=Tăng Sát Thương Ma Thuật
+物理与ダメージ強化=Tăng Sát Thương Vật Lý
+物理クリティカルダメージ強化=Tăng Sát Thương Vật Lý Chí Mạng
+魔法クリティカルダメージ強化=Tăng Sát Thương Ma Thuật Chí Mạng
+物理クリティカル強化=Tỷ Lệ Chí Mạng Vật Lý Tăng
+魔法クリティカル強化=Tỷ Lệ Chí Mạng Ma Thuật Tăng
+回復量上昇強化=Tăng Hồi Máu
+命中強化=Tăng Độ Chính Xác
+回避強化=Tăng Né Tránh
+魔法クリティカルダメージ=Sát Thương Ma Thuật Chí Mạng
+魔法クリダメ強化=Tăng Sát Thương Ma Thuật Chí Mạng
+物理クリティカルダメージ=Sát Thương Vật Lý Chí Mạng
+物理クリダメ強化=Tăng Sát Thương Vật Lý Chí Mạng
+物理・魔法クリティカル強化=Tăng Tỷ Lệ Chí Mạng Vật Lý và Ma Thuật
+物理・魔法防御力強化=Tăng Phòng Thủ Vật Lý và Ma Thuật
+物理・魔法攻撃力強化=Tăng Tấn Công Vật Lý và Ma Thuật
+物理・魔法クリティカルダメージ強化=Tăng Sát Thương Chí Mạng Vật Lý và Ma Thuật
+
+強化地点へ=Đến Nút Hiện Tại
+
+強化可能なマスタースキル=Kỹ Năng Chủ Có Thể Tăng Cường
+以下のノードの強化を実行しますか？=Bạn có muốn thực hiện tăng cường các nút sau không?
+
+属性攻撃力=Lực Nguyên Tố Tấn Công
+火属性の強化詳細=Chi Tiết Tăng Cường Nguyên Tố Lửa
+水属性の強化詳細=Chi Tiết Tăng Cường Nguyên Tố Nước
+風属性の強化詳細=Chi Tiết Tăng Cường Nguyên Tố Gió
+光属性の強化詳細=Chi Tiết Tăng Cường Nguyên Tố Ánh Sáng
+闇属性の強化詳細=Chi Tiết Tăng Cường Nguyên Tố Bóng Tối
+
+強化内容がありません。=Không có nút nào có thể tăng cường.
+ノードをすべて強化すると解放されます。=Hãy tăng cường tất cả các nút để mở khóa chúng.
+前提ノードの強化が必要です。=Bạn cần tăng cường các nút tiền đề.
+
+強化可能な属性スキル=Kỹ Năng Nguyên Tố Có Thể Tăng Cường
+r:"^\[FFBB00\,CE4F00\]([0-9.％%]+)\[-\]\[3C404E\]アップ\[-\]$"=[FFBB00,CE4F00]+$1[-]

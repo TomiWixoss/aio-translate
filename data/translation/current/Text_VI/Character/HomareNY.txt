@@ -1,0 +1,32 @@
+##Profile##
+【魔法】後衛で、魔力を笑顔に隠す晴れ着姿の龍の首魁。自分の攻撃強化とＴＰ回復をし、ＵＢで放つ曙光の落涙は敵数で威力と防御力の減少量を上げ、全ての災厄を祓う。=[Phép] Một boss rồng trong trang phục nắng, ẩn sức mạnh phép thuật sau nụ cười. Cô tăng cường đòn tấn công của bản thân, hồi TP và dùng UB tăng sức mạnh, giảm phòng thủ theo số kẻ địch, và trừ tà.
+
+ボスの極楽もてなし術=Nghệ Thuật Tiếp Đón Cực Đoan Của Boss
+臥竜を揺さぶる同人誌=Một doujinshi khiến rồng xúc động
+優しい願いを憂う臥竜=Một con rồng lo lâu về một điều ước dịu dàng
+臥竜の仁義=Phong thái của một con rồng nằm nghỉ
+
+##UB##
+ドラゴンズティアー=Nước Mắt Rồng
+敵全体に魔法中ダメージを与え、さらに魔法防御力を小ダウンさせる。敵の数に応じて、ダメージと防御力の減少量が増加する。=Gây sát thương phép vừa phải cho tất cả địch và giảm nhẹ Phép Ngự của chúng. Sát thương phép và mức giảm Phép Ngự tăng theo số kẻ địch. Sát thương phép: (+Sát thương phép × 0.65 × Số kẻ địch) Phép Ngự: (+Phép Ngự × Số kẻ địch)
+r:"^敵全体に(\d+)の魔法ダメージ敵全体の魔法防御力を(\d+)ダウン$"=►Gây $1 sát thương phép cho tất cả địch. ►Giảm Phép Ngự của tất cả địch đi $2.
+
+##S1##
+スティッキーバイト=Cắn Dính
+自分の魔法攻撃力と魔法クリティカルを特大アップ、魔法攻撃クリティカル時のダメージを小アップし、ＴＰを中回復させる。=Tăng mạnh M.ATK và Tỷ lệ Chí Mạng Phép của bản thân, tăng nhẹ Sát thương Chí Mạng Phép, và hồi vừa phải TP cho bản thân.
+
+##S2##
+クルーエルブルーム=Hoa Tàn Ác
+敵全体に魔法中ダメージを与え、魔法防御力を中ダウンさせる。=Gây sát thương phép vừa phải cho tất cả địch và giảm vừa phải Phép Ngự của chúng.
+
+##EX##
+サンライズフォーカス=Tập Trung Bình Minh
+サンライズフォーカス+=Tập Trung Bình Minh+
+
+##S1+##
+スティッキーバイト+=Cắn Dính+
+自分の魔法攻撃力と魔法クリティカルを特大アップ、魔法攻撃クリティカル時のダメージを小アップし、ＴＰを中回復させる。敵の数に応じて、魔法攻撃力と魔法クリティカルと魔法攻撃クリティカル時のダメージの上昇量が増加する。=Tăng mạnh M.ATK và Tỷ lệ Chí Mạng Phép của bản thân, tăng nhẹ Sát thương Chí Mạng Phép, và hồi vừa phải TP cho bản thân. Mức tăng M.ATK, Tỷ lệ Chí Mạng Phép và Sát thương Chí Mạng Phép tăng theo số kẻ địch.
+r:"^自分の魔法攻撃力を(\d+)アップ自分の魔法クリティカルを(\d+)アップ自分の魔法攻撃クリティカル時のダメージを10％アップ自分のＴＰを(\d+)回復$"=Thời gian niệm: 0.59s ►Tăng M.ATK của bản thân lên $1 (+0.2×$1×Số kẻ địch) trong 12s. ►Tăng Tỷ lệ Chí Mạng Phép của bản thân lên $2 (+20×Số kẻ địch) trong 12s. ►Tăng Sát thương Chí Mạng Phép của bản thân lên 10% (+1%×Số kẻ địch) trong 12s. ►Hồi TP của bản thân lên $3.
+
+##UE##
+竜女将の極道扇子=Quạt Gia Đình Chủ Rồng

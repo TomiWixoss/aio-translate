@@ -1,0 +1,28 @@
+##Profile##
+【魔法】後衛で後ろの味方を強化する魔法少女の看板娘。後衛の味方をバリアとＴＰ継続回復で支援し、自分の魔法攻撃力に応じ強化される攻撃力アップスキルで鼓舞する。=[Ma thuật] Một magical girl tăng cường đồng minh hậu phương. Cô hỗ trợ đồng minh hậu phương với rào cản và hồi TP, và khích lệ họ với kỹ năng tăng tấn công được tăng cường theo sức mạnh ma thuật của chính cô.
+
+##UB##
+ディライトフェスタ=Lễ hội vui vẻ
+自分を中心とした範囲内の味方すべての魔法攻撃力を中アップし、魔法クリティカルを特大アップさせる。自分の魔法攻撃力が高い程、魔法攻撃力の上昇量が最大10倍までアップする。=Tăng M.ATK của đồng minh trong phạm vi một lượng vừa phải và tăng lớn tỷ lệ M.CRIT của họ. Tăng M.ATK lên tới x10 dựa trên sức mạnh M.ATK của bản thân.
+r:"^範囲内の味方の魔法攻撃力を(\d+)アップ範囲内の味方の魔法クリティカルを180アップ$"=►Tăng M.ATK của đồng minh trong phạm vi 100 lên $1(+0.25×M.ATK) trong 18s.\n►Tăng tỷ lệ M.CRIT của đồng minh trong phạm vi 100 thêm 180 trong 18s.
+
+##S1##
+ブースターアイ=Mắt tăng cường
+自分を中心とした範囲内の味方すべての魔法攻撃力を小アップさせる。自分の魔法攻撃力が高い程、魔法攻撃力の上昇量が最大10倍までアップする。=Tăng M.ATK của đồng minh trong phạm vi một lượng nhỏ. Tăng M.ATK lên tới x10 dựa trên sức mạnh M.ATK của bản thân.
+
+##S2##
+カオスドレスアップ=Hóa trang hỗn loạn
+自分を中心とした範囲内の味方すべてに継続ＴＰ回復状態を付与し、魔法無効バリアを展開する。=Phục hồi TP liên tục cho toàn bộ đồng minh trong phạm vi và tạo lớp khiên che chở cho đồng minh trong phạm vi, chống lại sát thương phép (M.DMG).
+r:"^毎秒ＴＰを10回復する(\d+)ダメージ分の魔法無効バリアを展開する$"=Thời gian niệm: 0.94 giây ►Phục hồi TP cho đồng minh trong phạm vi 100, 10 TP/giây trong 12.5 giây. ►Tạo lớp khiên che chở cho đồng minh trong phạm vi 100, chống lại $1 sát thương phép (M.DMG) trong 12 giây.
+
+##EX##
+看板娘のプライド=Niềm tự hào của Cô gái Poster
+看板娘のプライド+=Niềm tự hào của Cô gái Poster+
+
+##S1+##
+ブースターアイ+=Mắt Bổ Trợ+
+自分を中心とした範囲内の味方すべての魔法攻撃力を小アップさせる。自分の魔法攻撃力が高い程、魔法攻撃力の上昇量が最大10倍までアップする。さらに、自分を中心とした範囲内の味方すべての魔法攻撃クリティカル時のダメージを小アップさせる。=Tăng nhẹ M.ATK cho đồng minh trong phạm vi. Mức tăng M.ATK lên tới x10 dựa trên sức mạnh M.ATK của bản thân. Ngoài ra, tăng nhẹ M.CRIT DMG cho đồng minh trong phạm vi.
+r:"^範囲内の味方の魔法攻撃力を(\d+)アップ範囲内の味方の魔法攻撃クリティカル時のダメージを6%アップ$"=Thời gian niệm: 0.94 giây ►Tăng M.ATK cho đồng minh trong phạm vi 100, $1(+0.125×M.ATK) trong 12 giây. ►Tăng M.CRIT DMG cho đồng minh trong phạm vi 100, 6% trong 12 giây.
+
+##UE##
+魔眼販売所アイ・ワゴン=Xe hàng Cửa hàng của Mắt Phép

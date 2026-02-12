@@ -1,0 +1,39 @@
+##Profile##
+【物理】前衛で、堅牢に仲間を守る海辺のお姉ちゃん。物理防御力が高い程、効果が高まる複数のスキルを巧みに操り防御と補助役をしつつ範囲攻撃で攻撃役をもこなす。=[Vật lý] Một chị gái vững chãi, là tiền tuyến bên bờ biển bảo vệ đồng đội. Cô sử dụng khéo léo nhiều kỹ năng có hiệu quả tăng lên theo phòng thủ thể chất của mình để đóng vai trò phòng thủ và hỗ trợ, đồng thời thực hiện các đòn tấn công diện rộng.
+
+##UB##
+サマーセイクリッドスプラッシュ=Mưa Lễ Hội Mùa Hè
+前方範囲内の敵すべてに物理中ダメージを与え、さらに自分に物理吸収バリアを展開する。自分の物理防御力が高い程ダメージとバリアの吸収ダメージ量がアップする。=Gây sát thương vừa phải P.DMG lên kẻ địch trong phạm vi, và đồng thời tạo Barrier trên bản thân hấp thụ P.DMG. Càng cao P.DEF của bản thân, sát thương P.DMG gây ra và lượng P.DMG hấp thụ bởi Barrier càng lớn.
+r:"^範囲内の敵に(\d+)の物理ダメージ(\d+)ダメージ分の物理吸収バリアを展開する$"=►Gây $1(+50×P.DEF) P.DMG lên kẻ địch trong phạm vi 500.\n►Tạo Barrier trên bản thân hấp thụ $2(+4×P.DEF) P.DMG trong 18s.
+
+##S1##
+ブルーウェービング=Làn Sóng Xanh
+前方範囲内の敵すべてに物理小ダメージを与え、自分の物理防御力を大アップさせ、さらに自分のＨＰを小回復する。自分の物理防御力が高い程ダメージとＨＰの回復量がアップする。=Gây sát thương nhỏ P.DMG lên kẻ địch trong phạm vi, tăng mạnh P.DEF của bản thân, và phục hồi một ít HP. Càng cao P.DEF của bản thân, sát thương P.DMG gây ra và lượng HP phục hồi càng lớn.
+r:"^範囲内の敵に(\d+)の物理ダメージ自分の物理防御力を(\d+)アップ自分のＨＰを(\d+)回復$"=►Gây $1(+20×P.DEF) P.DMG lên kẻ địch trong phạm vi 500.\n►Tăng P.DEF của bản thân lên $2 trong 12s.\n►Phục hồi HP của bản thân lên $3(+1.6×P.DEF).
+
+##S2##
+サン・フラワリー=Hoa Mặt Trời
+味方全体の物理攻撃力を小アップし、さらにＨＰを小回復する。自分の物理防御力が高い程、物理攻撃力の上昇量とＨＰの回復量がアップする。=Tăng P.ATK cho tất cả đồng đội và phục hồi một ít HP của họ. Càng cao P.DEF của bản thân, mức tăng P.ATK và lượng HP phục hồi càng lớn.
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体のＨＰを(\d+)回復$"=►Tăng P.ATK cho tất cả đồng đội lên $1(+2.7×P.DEF) trong 12s.\n►Phục hồi HP cho tất cả đồng đội lên $2(+0.9×P.DEF).
+
+##EX##
+お姉ちゃんサマーサンライズEX=Bình Minh Mùa Hè Của Chị Gái EX
+お姉ちゃんサマーサンライズEX+=Bình Minh Mùa Hè Của Chị Gái EX+
+
+##S1+##
+ブルーウェービング+=Làn Sóng Xanh+
+前方範囲内の敵すべてに物理中ダメージを与え、自分の物理防御力を大アップさせ、さらに自分のＨＰを小回復し、味方全体の物理攻撃力を中アップする。自分の物理防御力が高い程ダメージとＨＰの回復量と物理攻撃力の上昇量がアップする。=Gây sát thương vừa phải P.DMG lên kẻ địch trong phạm vi, tăng mạnh P.DEF của bản thân, phục hồi một ít HP, và tăng vừa phải P.ATK cho tất cả đồng đội. Càng cao P.DEF của bản thân, sát thương P.DMG gây ra, lượng HP phục hồi và mức tăng P.ATK càng lớn.
+r:"^範囲内の敵に(\d+)の物理ダメージ自分の物理防御力を(\d+)アップ自分のＨＰを(\d+)回復味方全体の物理攻撃力を(\d+)アップ$"=►Gây $1(+40×P.DEF) P.DMG lên kẻ địch trong phạm vi 500.\n►Tăng P.DEF của bản thân lên $2 trong 12s.\n►Phục hồi HP của bản thân lên $3(+3.2×P.DEF).\n►Tăng P.ATK cho tất cả đồng đội lên $4(+1.6×P.DEF) trong 12s.
+
+
+##S2+##
+サン・フラワリー+=Hoa Mặt Trời+
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体のＨＰを(\d+)回復毎秒ＨＰを(\d+)回復する自分の物理攻撃力を(\d+)アップ自分の物理防御力を(\d+)アップ$"=►Tăng P.ATK cho tất cả đồng đội lên $1(+2.7xPDEF).\n►Phục hồi HP cho tất cả đồng đội lên $2(+0.9xPDEF).\n►Trao Hiệu Hồi HP, phục hồi $3 HP mỗi giây(+0.2xPDEF).\n►Tăng P.ATK của bản thân lên $4(+2.7xPDEFxSố kẻ địch).\n►Tăng P.DEF của bản thân lên $5.
+
+味方全体の物理攻撃力を大アップ、ＨＰを小回復させ、継続ＨＰ回復状態を付与する。さらに、自分の物理攻撃力を大アップ、物理防御力を小アップする。自分の物理防御力が高い程、味方全体の物理攻撃力の上昇量とＨＰの回復量がアップし、自分の物理防御力と敵の数に応じて、自分の物理攻撃力の上昇量がアップする。=Tăng mạnh P.ATK cho tất cả đồng đội, phục hồi một chút HP của họ, và trao trạng thái Hiệu Hồi HP. Đồng thời tăng mạnh P.ATK của bản thân và tăng nhẹ P.DEF của bản thân. Càng cao P.DEF của bản thân, mức tăng P.ATK cho đồng đội và lượng HP phục hồi càng lớn. Lượng P.ATK tăng lên của bản thân phụ thuộc vào P.DEF và số kẻ địch.
+
+##UE##
+スプラッシュハート=Trái Tim Tung Hoa
+
+##UE2##
+夏のお姉ちゃん帽子=Mũ Hè Thanh Lịch

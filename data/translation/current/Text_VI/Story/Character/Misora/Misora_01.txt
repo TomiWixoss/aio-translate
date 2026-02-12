@@ -1,0 +1,245 @@
+船員=Thủy thủ
+船長=Thuyền trưởng
+幽霊？=Ma?
+幽霊役のアクター=Diễn viên ma
+ごろつき１=Punk 1
+ごろつき２=Punk 2
+ディーラー=Người bán
+
+突如現れたミソラに、半ば強引にデートへ連れ出された{playername}。テレポーテーションで様々なデートスポットを回った後、ミソラはその真意を語り、「騎士さんラブになりたい」と宣言する。=Misora đột nhiên xuất hiện và rủ {playername} đi chơi.\nSau khi dịch chuyển qua nhiều địa điểm hẹn hò, cô tiết lộ ý định thực sự và tuyên bố 'Tớ muốn yêu Kishi-san'.
+
+ある日。\n{playername}が、バイトから帰る途中──=Một ngày nọ, {playername} đang trở về nhà sau ca làm thêm.
+
+ふふっ★\nだ～～れだっ？=Hehe★ Tớ là ai đây?
+
+分からない。=Tớ không biết.
+
+んもー\nわたしのこと、忘れたなんて言わせませんよ？\nあんなにいっぱい、コロシアイした仲じゃないですか★=Ơ, sao cậu quên tớ rồi～\nChúng ta có kết nối rồi mà, sau tất cả những gì đã xảy ra★
+
+ミソラちゃん……=Misora-chan...
+
+まさか、ミソラちゃんっ……？=Không thể nào, Misora-chan...？
+
+はい★\nなんだかご無沙汰ですね、騎士さん♪=Đúng rồi★ Lâu rồi không gặp, Kishi-san♪
+
+ふふっ★\nそれはもちろん……=Ehehe★ Rõ ràng là để...
+騎士さんと、デートしに来たんです★=Đi chơi với Kishi-san★
+
+いいよ。=Được thôi.
+断る。=Tớ từ chối.
+
+わぁ★\nさっすが騎士さん、オンナノコ慣れしちゃってますねー♪=Như mong đợi của Kishi-san, cậu biết cách chiều lòng con gái♪
+
+んーっと、それじゃどうしましょっか。\nぶっちゃけ９割お断りされると思ってたので\n結構ノープラン気味なんですよね♪=Vậy thì, giờ chúng ta nên làm gì đây?\nTớ thực sự nghĩ mình sẽ bị từ chối 9 trên 10 lần.\nVậy nên giờ tớ không biết phải làm gì♪
+
+そのへんで、食べ歩きとか……？=Cậu muốn tìm gì đó để ăn không?
+
+なるほどなるほど★\nとりあえず、そのへんをブラブラするってカンジですかね♪=Ồ, tớ hiểu rồi★\nVậy thì đi đến một nơi tớ biết nhé♪
+
+警戒する。=*Giữ cảnh giác*
+
+んもぅ、やですねー★\nそんなにコワイカオ、しないでくださいよぅ♪=Đau đấy cậu biết khôngー★ \nĐừng làm cái mặt đáng sợ vậy mà♪
+今のわたしは、【レイジ・レギオン】でもなんでもない\nフツーのオンナノコですから★\n騎士さんに怒られるようなこと、なーんにもしないですよ？=Ngay bây giờ, tớ không phải Misora từ 'Rage Legion' mà chỉ là một cô gái bình thường★\nTớ sẽ không làm gì xấu～
+
+それじゃ、何をしにきたの？=Vậy thì, sao cậu ở đây?
+
+えーっ、いいじゃないですかぁ。\n騎士さんいつも、いろんなオンナノコを\nとっかえひっかえしてるんですしー=Ehhhー tại sao không?\nKishi-san lúc nào cũng đi chơi với một cô gái mới màー
+そ・れ・にー\n騎士さんがイヤって言ってもー？\nえいっ★=Và ngay cả khi cậu không muốn, tớ sẽ cứ──\nLấy cái này★
+
+こーやってー\nラブラブってカンジで、ぎゅっとくっついて──=Như thế này──\nTớ sẽ đến gần cậu hơn──
+
+それじゃ、\nラブラブってカンジで、ぎゅっとくっついて──=Bây giờ── Hãy đến gần tớ──
+
+はい★\nテレポーテーション～=Được rồi★ Dịch chuyển～
+
+船の上……！？=Chúng ta đang trên một chiếc thuyền!?
+
+ふふっ★\n記念すべき、騎士さんとわたしの初デートなわけですし？\nとっても美味しいものが食べたいなーって。=Hehe★ Lần hẹn hò đầu tiên của chúng ta, phải không?\nTớ muốn ăn thứ gì đó thực sự ngon.
+
+それに今ちょっと、和食な気分ですし？\n新鮮なお刺身とか、いいですよね★=Ừ, giờ tớ đang thích thứ gì đó truyền thống...\nSashimi từ con cá tươi sẽ tuyệt lắm★
+
+あっ。\nでもでも、釣り竿とかエサがありませんでした。\nそれじゃあ──=Á! Nhưng chúng ta không có cần câu hay mồi câu.\nVậy thì──
+
+よいしょっと★=Thế là xong★
+
+じゃーん♪\nダイナマイト漁ならぬ、ガトリング漁ですよ～★=Tadaa♪ Đi câu cá bằng đạn súng máy nào!
+
+うおっ！？\nなんだお前ら！=Ái chà!? Các ngươi là ai vậy?
+
+
+密航者か！？\nどこに隠れてやがった！=Kẻ lén lên tàu!? Chúng ẩn ở đâu vậy!
+
+んー\n騒ぎになっちゃいましたかぁ。=Ồー Chúng ta làm ồn quá rồi。
+
+あっ★\nイイコト思いつきました♪\nこのひとたちを撒き餌に──=À★ Tớ nghĩ ra ý hay rồi♪\nDùng mấy người này làm mồi nhử──
+
+ダメだよ。=Đừng làm thế.
+
+ふふっ、冗談ですって★=Ehehe, chỉ đùa thôi★
+
+それじゃあもう一回──ぎゅっ♪=Thôi thì, thử một lần nữa nào──♪
+
+おい！\n──って、消えたぁっ！？=Gì!? C-Các ngươi biến mất rồi!?
+
+お、おおお化けェッ！？=L-L-LINH HỒN!?
+
+う～ら～め～し～や～……=Tớ sẽ đ⾣... nguyền rủa các cậu...
+
+やーん、こわーい★\n騎士さぁん、たすけてくださーい♪=Kyaaa, tớ sợ quá★ \nKishi-san, cứu tớ với ♪
+
+ぜんぜん怖そうじゃない……=Cậu không sợ chút nào đâu...
+
+えっ？\nそんなことないですってー=Hả? Hoàn toàn không phải thếー
+
+ほらほら見てくださいよ、\n指も声もこんなに震えて……=Nhìn tớ này, tay và giọng tớ đang run rẩy...
+
+ないね……=Không phải...
+
+……あはっ。=...Ehe.
+
+そうですねー\n「オバケ屋敷でカレシにオンナノコっぽくアピール」するのって、\nデートの定番かなって思ったんですけど……=Cậu không saiー Và tớ nghĩ 「Sợ hãi trong nhà ma」\nlà tình huống hẹn hò phổ biến để gần nhau hơn...
+
+アトラクションの幽霊さんが怖いかって聞かれても、\nしょせん作り物ですし？\n壊そうと思えば、簡単に壊せちゃいますからねー=Nếu hỏi tớ là những con ma này có đáng sợ không, tớ đã biết chúng là giả nên dễ dàng phá hủy chúngー
+
+ひぃっ……！？=Hiee...!
+
+ふふっ、わかってますって★=Ehehe, được rồi★
+
+んーでも。\nちょーっと目当てハズレちゃいましたかねー\n次はもっと、楽しそうなところにしましょっか★=Dù sao thì, tớ thấy nơi này hơi nhạt nhẽoー\nLàm gì đó vui hơn nhé★
+
+赤っ！\n赤の奇数こい！=Đỏ! Lên, số đỏ lẻ!
+
+黒っ！\n黒のローこいぃぃっ！=Đen! Lên, số đen chẵn!
+
+騎士さん騎士さん、\nわたしたちはどこにベットします？=Kishi-san! Chúng ta đặt cược ở đâu?
+
+ルーレット、よく分からないんだけど……=Tớ không hiểu Roulette...
+
+テキトーでいいですよ♪\n一番上の、ゼロが二つ並んでるのとかどうですか？=Được rồi, cố lên nào♪\nCá ở cái trên cùng được không?
+
+じゃあ、それで。=Vậy, cái đó.
+
+はーい★\nそれじゃあディーラーさん、00に有り金全部です♪=Được rồi★\nThì Dealer-san, tất cả tiền vào 00♪
+
+ノー・モア・ベット。\nグッドラック。=Không・Còn・Đặt・Cược.\nChúc may mắn.
+
+コロコロコロコロ……=*xúc xắc lăn*
+
+フッ。\n嬢ちゃん坊ちゃん、おのぼりさん丸だしだぜ！=Heh.\nThua rồi, tớ biết cậu là tay mới!
+
+そーそー！\nストレートアップなんざ、狙うもんじゃねーっての！=Ừ, chắc chắn!\nKhông ai đặt hết vào một số duy nhất trừ khi là tay mới!
+
+えーっ、そうなんですかー♪=Ồ, vậy àー♪
+
+ああ。\nたしか、確率３％もいかねーはずだかんなぁ！=Ừ. Nhớ thì tỷ lệ thắng một số không đâu vào 3%!
+
+クク……残念だが、０％だよ。\nわたしのボールコントロールは正確無比。\n子供たちには悪いが、勉強代と思ってもらおうか……=Heheh... Thật không may cho các cậu, thực tế là 0%.\nTớ có thể kiểm soát nơi quả bóng dừng khi tớ ném. Tớ thấy tội cho mấy đứa trẻ, nhưng cứ coi như là trải nghiệm học hỏi!
+
+わぁ★\nそろそろ玉が落ちそうですよ騎士さんっ。\nドキドキしますね～♪=Ồô★\nKishi-san, quả bóng sắp dừng rồi.\nCăng thẳng quá～♪
+
+赤！\n赤の奇数～っ！=Đỏ! Là số đỏ lẻ!
+
+黒のローこいぃぃっ！=Đen! Là số đen chẵn!
+
+──黒の29。\n間違いなく……=──Tớ biết rồi, nó sẽ dừng ở 29 Đen.
+
+……よっと。=...Chỉ cần một chút nữa.
+
+うぉっ！？\n玉が跳ねた！？=Gì!? Quả bóng nảy!?
+
+なんだぁ！？\nありえねえ、あんな動き……！=Không thể, chuyển động như vậy...！
+
+00！\nやったぁ、騎士さんすごーい★=Dừng ở 00! Hoan hô!\nKishi-san tuyệt quá★
+
+バ、バカなっ……！\nどんなイカサマだ、魔法の対策だって万全のはずなのに……！=K-Không thể nào...! Cô ấy gian lận thế nào?\nBiện pháp phòng ngừa của chúng ta đáng lẽ phải phát hiện được...
+
+帰ろう。=Về nhà thôi.
+
+……はーい。=...Được.
+
+ディーラーさん、ごめんなさーい♪\n配当は結構ですのでー=Xin lỗi, Dealer-san♪ Cứ giữ tiền thưởng của chúng tớー
+
+き、消えた……=C-Các người đi rồi...
+
+なんだったんだ、一体……=Vừa rồi... chuyện gì vừa xảy ra...
+
+ふぅ★\n誰もいない教室って、落ち着きますねー=Phew～★\nLớp học trống thật là thư thái～
+
+イカサマしちゃダメだよ。=Đừng gian lận nữa.
+
+んーでもでもー\nあのディーラーさん、投げるときにコントロールしてたみたいですし。\nちょっとくらい、痛い目にあってもらったって──=Ư ừ～ Nhưng...\nLúc Dealer-san ném bóng, rõ ràng là cố ý để chúng ta thua. Em chỉ muốn trêu chọc anh ta một chút thôi──
+
+はーい。=Được rồi rồi.
+……はぁ。=...Haah.
+
+ごめんなさい。\nデートだったのに、騎士さん楽しくなさそうですね。\nやっぱり、わたしなんかと一緒じゃ……=Em xin lỗi. Dù chúng ta đang hẹn hò, nhưng anh dường như không vui.\nThì ra, nếu ở bên cạnh anh...
+
+それより、どうしてデートしたいの？=Tại sao em muốn hẹn hò với anh?
+
+もー\nそんなの、決まってるじゃないですか。\nわたしが騎士さんのコトを、「ダイスキ」だからでーす。=Ư ừ～ Điều đó phải rõ ràng chứ.\nBởi vì... em "yêu" Kishi-san mà.
+
+……本当に？=...Thật sao?
+
+……あはっ。=...Ehe.
+
+……覚えてますか？\n騎士さん。\nわたしたちが、最初に会ったときのコト。=Anh còn nhớ không, Kishi-san? Lần đầu chúng ta gặp nhau.
+
+この教室で。\n転校してきたペコリーヌさんや、キャルさんと。\n遊んで勉強して給食を食べて、仲良くなって──=Cùng với Pecorine-chan và Kyaru-chan trong lớp học này. Chơi đùa, học tập, và ăn uống cùng nhau trong trường học, dần dần trở nên thân thiết──
+
+それから、コロシアイしましたね★=Sau đó, chúng ta đã đánh nhau★
+
+その次は、オーエドでしたっけ。\nふふっ、あのときは楽しかったですね。=Sự kiện tiếp theo là lễ hội Ooedo, phải không? Hehe, vui thật đấy.
+
+ランファさんと温泉に入ったり、騎士さんの夢に入ったり──=Cùng với Ranpha-san trong suối nước nóng, và với Kishi-san trong giấc mơ──
+
+そのあとは、ちょっと時間があきましたけど。\n【レイジ・レギオン】総出で、コロシアイでした♪\nそれでそれでー=Sau đó chúng ta có một khoảng thời gian nghỉ ngơi. Nhưng không lâu sau 【Rage Legion】 đã ra tay toàn lực và chúng ta lại đánh nhau♪\nVà sau đó～
+
+……それで、最後に……=Cuối cùng...
+
+……そうですね。\n【悪魔偽王国軍（ディアボロス）】や他のみなさんと、ゲームして。\nコロシアイして……わたし、負けちゃったんですよね。=...Đúng vậy.\nChúng ta đã chơi đùa với Diabolos và mọi người.\nChúng ta đã chiến đấu... và cuối cùng đã thua.
+
+思い出してみると、わたしたちコロシアイばっかりでしたよね。\nまぁウザ絡み好きっぽいわたしとしては、\nそれでもフツーに楽しかったんですけど。でも……=Nhìn lại, chúng ta chỉ đang đánh nhau suốt thời gian qua.\nEm vẫn vui, nhưng...
+
+もう、騎士さんたちと戦う理由もないですし。\nわたしも戦うこと自体がスキっていうよりは、\n構ってもらうのがスキってカンジなので。=Bởi vì Kishi-san, chúng ta không còn lý do để đánh nhau nữa.\nDù chủ yếu em chỉ muốn được mọi người chú ý～
+
+それなら……戦い以外の方法で、\n騎士さんに構ってもらうのもありかな～？\nって★=Và nếu là vậy...\nCó lẽ em vẫn có thể nhận được sự chú ý của Kishi-san mà không cần đánh nhau～? Ehe★
+
+それで、デートを？=Đó là lý do cho buổi hẹn hò sao?
+
+……ふふっ♪\nもちろん、それだけじゃないですよ。=...Ehehe♪ Tất nhiên không chỉ vậy.
+
+だって──\nとっても楽しそうじゃないですか、恋愛って★=Bởi vì──\nCảm giác yêu đương nghe có vẻ rất vui, đúng không?★
+
+ランファさんも、騎士さんのまわりのオンナノコたちも。\nわたしより、かわいそうだったあの人も……\nみーんな恋してて。=Ranpha-san và các cô gái cùng Kishi-san cũng đang yêu đương. Ngay cả những người khác trông thương hại hơn em...\nTất cả họ đều đang yêu.
+
+喜んだり。ときめいたり。苦しんだりして。\nなんだかみなさん、生きてるーってカオしてるんですよね。=Hạnh phúc. Hào hứng. Và buồn bã...\nDường như ai cũng chỉ có vẻ mặt nói rằng họ đang sống.
+
+わたしは、恋愛とかよくわからないんですけど。\nそんなふうに生き生きしてるみなさんのことは、\nうらやましいなーって思うんです。=Em không hiểu lắm về tình yêu. Nhưng mỗi khi thấy người khác như vậy, em cảm thấy rất ghen tịー em nghĩ vậy.
+
+だから、とりあえず？　じゃないですけど──=Chính vì vậy, ngay cả nếu không phải bây giờ──
+
+騎士さんに、恋してみちゃおっかなーって★=Em muốn yêu Kishi-san★
+
+よく分からない……=Em chưa hiểu lắm...
+
+あはっ★\nわからないほうがいいかもですよ♪\nそれって騎士さんが、マトモってコトだと思いますから。=Ehe★ Có lẽ tốt hơn nếu anh không hiểu♪ Kishi-san là người tốt mà.
+
+……わたし、ですね？\n今までイロイロ……諦めちゃってたんですよね。=Nhưng em...? Cho đến tận hôm nay, vẫn còn nhiều thứ em đã từ bỏ.
+
+恋とか。\n生きることとか。\n誰かを本当に好きになったりとか、好きになってもらったりとか。=Chẳng hạn như yêu đương. Hoặc thậm chí bản thân sự sống.\nEm đã từ bỏ kỳ vọng được yêu ai đó và được yêu lại với mức độ tương tự.
+
+でも──この前。\nどんなことがあっても、諦めずに戦ってる騎士さんたちを見て。\nわたしももうちょっとだけ……諦めないでみようかなーって。=Nhưng── lần trước khi em thấy Kishi-san kiên trì chiến đấu mà không bỏ cuộc.\nEm có một suy nghĩ... rằng có lẽ em cũng không nên từ bỏ.
+
+……ぎゅっ★=*ôm*★
+
+わたし騎士さんのこと、スキですよ？\nそれはホントにホントです。\nもし恋をするなら、相手は騎士さんがいいなって思います。=Em thực sự thích Kishi-san, anh biết chứ? Hoàn toàn thật.\nNếu em phải yêu ai đó, em không ngại nếu đó là anh.
+
+でもでも……\nん～=Nhưng...～
+
+まだ、ドキドキが足りないっていうか。\nラブなひとに「ぎゅっ」てしたら、ハートも「ぎゅっ」とか\n「キュン★」ってなるかなーって思うんですけど。=Hiện tại vẫn chưa đủ.\nNếu em thực sự yêu, trái tim em sẽ đập "Gyuuu★"\nva "Kyuun★" khi em ôm anh, đúng chứ?
+
+……まだ、やっぱり。\n今のわたしは、騎士さんラブじゃなくて\nライクみたいなんですよねー=...Như em nghĩ, ngay bây giờ em vẫn chưa "yêu" Kishi-san.\nTối đa chỉ là "thích" thôi──
+
+でもでも？\nさっきも言ったとおり、わたし諦めないですから♪\n騎士さんラブになれるように、これからがんばりまーす★=Nhưng...! Em sẽ không bỏ cuộc♪\nEm sẽ cố gắng từ bây giờ để có thể yêu Kishi-san★
+
+──かつて敵として出会い、\n{playername}たちと何度も争った少女・ミソラ。\n果たして彼女は、{playername}ラブになれるのだろうか……？=──họ gặp nhau lần đầu như kẻ thù, cô gái đã chiến đấu với {playername} nhiều lần trước đây, Misora.\nLiệu cô ấy có thực sự có thể yêu {playername}...?

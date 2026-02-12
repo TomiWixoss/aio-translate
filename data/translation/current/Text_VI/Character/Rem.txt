@@ -1,0 +1,34 @@
+##Profile##
+鬼がかりの万能妹メイド=Một hầu gái song sinh nhỏ tuổi cuồng nhiệt như ác quỷ
+演劇鑑賞、詩文=Xem kịch, thơ ca
+【物理】中衛で、鬼の力で敵を粉砕する、双子の妹。回復スキルの他にも、温度を操るスキルを得意とし、敵を凍結させた上でユニオンバーストで薙ぎ払う。=[Vật lý] Một song sinh nhỏ tuổi đập tan kẻ thù từ tuyến giữa với sức mạnh quỷ dữ. Ngoài chữa lành, cô còn có thể kiểm soát nhiệt độ, cho phép cô đóng băng kẻ thù trước khi xóa sổ chúng bằng Union Burast của mình.
+
+##UB##
+アル・ヒューマ=Al Huma
+前方範囲内の敵すべてに物理大ダメージを与える。行動不能状態の敵に対してはダメージが上昇する。=Gây lượng lớn Sát thương Vật lý lên kẻ thù trong tầm. Sát thương Vật lý tăng lên với kẻ thù không thể di chuyển.
+r:"^範囲内の行動不能の敵すべてに(\d+)の物理ダメージ範囲内のその他の敵すべてに(\d+)の物理ダメージ$"=►Gây $1 Sát thương Vật lý lên tất cả kẻ thù bất động trong tầm.\n►Gây $2 Sát thương Vật lý lên tất cả kẻ thù khác trong tầm.
+
+##S1##
+エル・ヒューマ=El Huma
+目の前の敵１キャラに物理中ダメージを与え、さらに凍結させる。=Gây lượng vừa phải Sát thương Vật lý lên kẻ thù ngay phía trước và gây hiệu ứng Đóng băng.
+
+##S2##
+アクアヒーリング=Hồi phục Nước
+最もＨＰが低い味方１キャラのＨＰを中回復させる。=Hồi một lượng vừa phải HP cho đồng minh có HP thấp nhất.
+
+##EX##
+鬼がかってます！=Cuồng nhiệt như Ác quỷ
+鬼がかってます！+=Cuồng nhiệt như Ác quỷ+
+
+##UB+##
+鬼がかったアル・ヒューマ=Chế độ Oni: Al Huma
+前方の敵すべてに物理大ダメージを与える。行動不能状態の敵に対してはこのダメージが上昇する。さらに、最も遠くの敵１キャラを中心とした範囲内の敵すべてに物理大ダメージを与える。=Gây lượng lớn Sát thương Vật lý lên kẻ thù trong tầm. Sát thương Vật lý tăng lên với kẻ thù không thể di chuyển. Đồng thời gây thêm một đợt Sát thương Vật lý lên kẻ thù trong tầm của kẻ thù xa nhất.
+r:"^範囲内の行動不能の敵すべてに(\d+)の物理ダメージ範囲内のその他の敵すべてに(\d+)の物理ダメージ範囲内の敵すべてに(\d+)の物理ダメージ$"=►Gây $1 Sát thương Vật lý lên tất cả kẻ thù bất động trong tầm 800.\n►Gây $2 Sát thương Vật lý lên tất cả kẻ thù khác trong tầm 800.\n►Gây $3 Sát thương Vật lý lên kẻ thù trong tầm 50 của kẻ thù xa nhất.
+
+##S1+##
+エル・ヒューマ+=El Huma+
+目の前の敵１キャラを中心とした範囲内の敵すべてに物理中ダメージを与え、さらに凍結させる。=Gây lượng vừa phải Sát thương Vật lý lên kẻ thù trong tầm và gây hiệu ứng Đóng băng.
+r:"^範囲内の敵すべてに(\d+)の物理ダメージ範囲内の敵を一定時間行動不能にする$"=►Gây $1 Sát thương Vật lý lên kẻ thù trong tầm.\n►Làm kẻ thù trong tầm bất động trong một khoảng thời gian.
+
+##UE##
+レムの髪飾り=Món trang sức tóc của Rem

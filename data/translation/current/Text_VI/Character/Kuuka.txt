@@ -1,0 +1,50 @@
+##Profile##
+妄想大好き！　ほんとは照れ屋な女の子=Một cô gái nhút nhát thích mộng tưởng
+小説を読むこと=Đọc tiểu thuyết
+
+【物理】前衛で囮となり、攻撃を引き付ける暴走ドＭ娘。ユニオンバーストにより、自身に魔法バリアを張り、敵の魔法攻撃を吸収してＨＰを回復する。=[Vật lý] Một kẻ thích bị đánh đập điên cuồng đóng vai mồi nhử ở tiền tuyến để thu hút đòn tấn công. Union Burst của cô tạo một khiên hồi máu bằng cách hấp thụ các đòn tấn công ma thuật.
+
+空花大回転=Bánh xe lớn nửa bông hoa
+体が刺激を求めています=Cơ thể muốn được kích thích
+クウカ、変態の時=Phần Thưởng Tối Thượng của Kuuka
+ないとダメなんです…=Một Nghiện Ngập Nguy Hiểm
+大衆の目にさらされて=Khuynh Hướng Thể Hiện Bản Thân
+クウカの処女作！？=Sự Ra Mắt Lớn của Kuuka?!
+クウカの秘密の花園=Vườn Những Bí Mật
+まずはおつきあいから=Blues Vòng Quay
+遭遇！妄想爆発少女=Những Mộng Tưởng Tràn Trề!
+
+##UB##
+エクスタシートリップ=Cơn Thịnh Nộ của Thác Loạn
+自分に魔法吸収バリアを展開し、さらにＨＰを中回復する。=Tạo một khiên xung quanh bản thân hấp thụ Sát thương ma thuật, và hồi một lượng máu vừa phải.
+r:"^(\d+)ダメージ分の魔法吸収バリアを展開する自分のＨＰを(\d+)回復$"=►Tạo khiên xung quanh bản thân hấp thụ $1 Sát thương ma thuật.\n►Hồi máu bản thân $2.
+
+##S1##
+狙うならクウカを！=Chơi với Tôi Thay Thế!
+【挑発】敵全体を挑発し、さらに自分の物理防御力を大アップさせる。=[Khiêu khích] Khiêu khích tất cả kẻ địch. Tăng nhẹ phòng thủ vật lý của bản thân.
+r:"^敵全体を挑発する自分の物理防御力を(\d+)アップ$"=►Khiêu khích tất cả kẻ địch.\n►Tăng P.DEF của bản thân $1.
+
+##S2##
+激しいの歓迎ですう！=Tôi Thích Cái Cách Dữ Dội!
+自分の魔法防御力を大アップする。=Tăng vừa phải M.DEF của bản thân.
+r:"^自分の魔法防御力を(\d+)アップ$"=►Tăng M.DEF của bản thân $1.
+
+##EX##
+妄想プロテクション=Được Bảo Vệ Bởi Điều Viễn Vông
+妄想プロテクション+=Được Bảo Vệ Bởi Điều Viễn Vông+
+バトル開始時に自分の魔法防御力を大アップさせる。=Tăng lớn M.DEF của bản thân khi bắt đầu trận đấu.
+バトル開始時に自分の魔法防御力を中アップさせる。=Tăng vừa phải M.DEF của bản thân khi bắt đầu trận đấu.
+r:"^自分の魔法防御力を(\d+)アップ$"=►Tăng M.DEF của bản thân $1.
+
+##UB+##
+エクスタシートランス=Trance của Thác Loạn
+自分に魔法吸収バリアを展開し、ＨＰを中回復する。さらに自分に魔法ダメージカット効果を付与する。=Triển khai Barrier xung quanh bản thân, hấp thụ M.DMG, hồi một lượng HP vừa phải và giảm sát thương phép thuật nhận vào.
+r:"^(\d+)ダメージ分の魔法吸収バリアを展開する自分のＨＰを(\d+)回復自分が受ける魔法ダメージを25％カット$"=►Triển khai Barrier xung quanh bản thân, hấp thụ $1 M.DMG trong 18 giây.\n►Hồi $2 HP.\n►Giảm sát thương phép thuật nhận vào 25% trong 18 giây.
+
+##S1+##
+狙うならクウカを！+=Play with Me Instead!+
+【挑発】敵全体を挑発し、自分の物理防御力を大アップさせる。さらに自分のＨＰを中回復させる。=[Khiêu khích] Khiêu khích tất cả kẻ thù. Tăng mạnh P.DEF của bản thân và hồi một lượng HP vừa phải.
+r:"^敵全体を挑発する自分の物理防御力を(\d+)アップ自分のＨＰを(\d+)回復$"=►Khiêu khích tất cả kẻ thù trong 16.6-17.1 giây.\n►Tăng P.DEF của bản thân lên $1.\n►Hồi $2 HP.
+
+##UE##
+プレジャーチョーカー=Choker of Pleasure

@@ -1,0 +1,49 @@
+##Profile##
+ちょっとおませな恋に恋する女の子=Một đứa trẻ nghịch ngợm khao khát trưởng thành
+【魔法】後衛から、範囲攻撃を行う、レディ・ウィッチ。複数回の範囲攻撃を放つスキルや、目の前の敵全てを攻撃するユニオンバーストを持ち、範囲殲滅に特化する。=[Ma Thuật] Một phù thủy phóng các đòn tấn công vùng từ hậu phương. Chuyên về hủy diệt hàng loạt với kỹ năng đánh nhiều lần hiệu ứng vùng và Union Burst đánh tất cả kẻ thù trước mặt.
+
+誰にも負けたくない気持ち=Tôi Không Muốn Thua Cảm Xúc Của Bất Kỳ Ai
+レディの最高の一枚=Bộ Bài Tốt Nhất Của Phu Nhân
+見せかけなんて言わせない=Đừng Để Người Ta Gọi Là Lừa Đảo
+真のレディになるために=Để Trở Thành Một Phu Nhân Thực Sự
+
+憧れドレスアップ=Trang Phục Sang Trọng
+レディの休日デートコース=Khóa Học Hẹn Hò Cấp Tốc
+リトルウェディング=Đám Cưới Nhỏ
+カフェテラスの勉強会=Gia sư quán cà phê
+レディの優雅な遊び=Thư giãn sang trọng
+大人のスイーツデビュー=Khẩu vị trưởng thành
+エレガントで大人な夜=Đêm vui người lớn
+大人なレディ、ミサキ=Quý cô trưởng thành, Misaki
+
+ファッション誌鑑賞、コスメ集め=Sưu tập tạp chí thời trang, sưu tập mỹ phẩm
+
+##UB##
+デストロイアイ=Mắt hủy diệt
+
+##S1##
+ダークフォトン=Photon hắc ám
+目の前の敵１キャラに魔法小ダメージを与え、さらに行動速度を小ダウンさせる。=Gây sát thương ma thuật nhỏ cho kẻ địch phía trước và giảm nhỏ tốc độ hành động của chúng.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体の行動速度を一定時間低下させる$"=►Gây $1 sát thương ma thuật cho kẻ địch.\n►Giảm tốc độ hành động của kẻ địch trong một khoảng thời gian cố định.
+
+##S2##
+スローイングアイ=Mưa mắt
+範囲内の敵すべてに魔法小ダメージを３回与える。範囲の中心になる敵はミサキの前方から近い順に選ばれる。=Gây sát thương ma thuật nhỏ cho tất cả kẻ địch trong bán kính xung quanh kẻ địch gần nhất 3 lần.
+r:"^範囲内の敵にそれぞれ(\d+)の魔法ダメージ$"=►Gây $1 sát thương ma thuật mỗi lần đánh cho kẻ địch trong phạm vi.
+
+##EX##
+レディのたしなみ=Lễ nghi quý cô
+レディのたしなみ+=Lễ nghi quý cô+
+
+##UB+##
+ヴィーナス・ドゥームアイ=Mắt định mệnh Venus
+敵全体に魔法中ダメージを与え、呪詛状態にする。呪詛状態だった場合は代わりに呪い状態にする。呪いか呪詛状態だった場合、ダメージ量が増加し誘惑状態にする。呪詛による継続ダメージは毎秒ごとに増加する。=Gây sát thương ma thuật vừa phải cho tất cả kẻ địch và nguyền rủa chúng. Nếu chúng đang trong trạng thái nguyền rủa hay bị ám, lượng sát thương sẽ tăng và chúng sẽ ở trạng thái mê hoả. Sát thương liên tục do bị ám tăng lên mỗi giây.
+r:"^呪いまたは呪詛状態ではない敵に(\d+)の魔法ダメージ呪いまたは呪詛状態の敵に(\d+)の魔法ダメージ敵が呪いまたは呪詛状態の場合、誘惑する毎秒ダメージが初期値(\d+)の30％ずつアップするダメージを与える呪詛状態にする(\d+)ダメージを与える呪い状態にする$"=Nếu kẻ địch không bị nguyền rủa/ám:\n►Gây $1 sát thương ma thuật cho kẻ địch.\n►Gây Nguyền rủa $3 sát thương/giây.\n\nNếu kẻ địch bị nguyền rủa/ám:\n►Gây $2 sát thương ma thuật cho kẻ địch.\n►Gây Ám $4+30% sát thương ma thuật/giây.\n►Gây Mê hoả trong 5s.
+
+##S1+##
+ダークフォトン+=Photon hắc ám+
+最も近くの敵１キャラを中心とした範囲内の敵すべてに魔法中ダメージを与え、さらに行動速度を大ダウンさせる。=Gây sát thương ma thuật vừa phải cho tất cả kẻ địch trong phạm vi và giảm lớn tốc độ hành động của chúng.
+r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の行動速度を一定時間低下させる$"=►Gây $1 sát thương ma thuật cho kẻ địch trong phạm vi.\n►Giảm tốc độ hành động của kẻ địch trong phạm vi.
+
+##UE##
+魔眼杖デモネス・アイ=Mắt nữ quỷ

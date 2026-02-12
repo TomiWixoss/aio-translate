@@ -1,0 +1,51 @@
+##Profile##
+【物理】中衛で、味方の速攻を支える海辺のサレンママ。バトル開始時に味方全体のＴＰを一気に溜めることで、迅速にユニオンバーストを発動させることを可能にする。=[Vật lý] Người mẹ Saren giữ đồng đội của mình ở vị trí tấn công từ trung lộ. Khả năng tăng TP cho đồng đội ở đầu mỗi trận cho phép sử dụng nhanh chóng các Union Burst mạnh mẽ.
+
+##UB##
+サマーブライトフォース=Summer Bright Force
+味方全体の物理攻撃力と魔法攻撃力と行動速度を大アップさせる。=Tăng lớn P.ATK, M.ATK và tốc độ hành động của tất cả đồng đội.
+
+##S1##
+スプラッシュトワリング=Twilight Splash
+味方全体のＴＰを大回復させ。=Hồi một lượng lớn TP cho tất cả đồng đội.
+味方全体のＴＰを大回復させる。=Hồi một lượng lớn TP cho tất cả đồng đội.
+味方全体のＴＰを大回復させ、さらに物理攻撃力と魔法攻撃力を小アップさせる。=Hồi một lượng lớn TP cho tất cả đồng đội và tăng nhẹ P.ATK và M.ATK của họ.
+r:"^味方全体のＴＰを(\d+)回復$"=►Hồi $1 TP cho tất cả đồng đội.
+
+##S2##
+ブライトエール=Sunlight Cheer
+味方全体の物理攻撃力と魔法攻撃力と物理クリティカルと魔法クリティカルを小アップさせる。=Tăng nhẹ P.ATK, M.ATK, tỷ lệ chí mạng vật lý và tỷ lệ chí mạng phép của tất cả đồng đội.
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の魔法攻撃力を(\d+)アップ味方全体の物理クリティカルを20アップ味方全体の魔法クリティカルを20アップ$"=►Tăng P.ATK của tất cả đồng đội lên $1 trong 12s.\n►Tăng M.ATK của tất cả đồng đội lên $2 trong 12s.\n►Tăng tỷ lệ chí mạng vật lý của tất cả đồng đội lên 20 trong 12s.\n►Tăng tỷ lệ chí mạng phép của tất cả đồng đội lên 20 trong 12s.
+
+##EX##
+ノーブルバケーション=Noble Vacation
+ノーブルバケーション+=Noble Vacation+
+
+##S1+##
+スプラッシュトワリング+=Twilight Splash+
+味方全体のＴＰを大回復させ、さらに物理攻撃力と魔法攻撃力を大アップさせる。=Hồi một lượng lớn TP cho tất cả đồng đội và tăng lớn P.ATK và M.ATK của họ.
+味方全体のＴＰを大回復させ、さらに物理攻撃力と魔法攻撃力を特大アップさせる。=Hồi một lượng lớn TP cho tất cả đồng đội và tăng lớn P.ATK và M.ATK của họ.
+r:"^味方全体のＴＰを(\d+)回復味方全体の物理攻撃力を(\d+)アップ味方全体の魔法攻撃力を(\d+)アップ$"=►Hồi $1 TP cho tất cả đồng đội.\n►Tăng P.ATK của tất cả đồng đội lên $2 trong 20s.\n►Tăng M.ATK của tất cả đồng đội lên $3 trong 20s.
+
+##S2+##
+ブライトエール+=Sunlight Cheer+
+味方全体の物理攻撃力と魔法攻撃力を特大アップ、物理クリティカルと魔法クリティカルを大アップさせる。さらに味方全体の物理防御力と魔法防御力を中アップさせる。=Tăng lớn P.ATK, M.ATK, tỷ lệ chí mạng vật lý và tỷ lệ chí mạng phép của tất cả đồng đội. Đồng thời tăng trung bình P.DEF và M.DEF của tất cả đồng đội.
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の魔法攻撃力を(\d+)アップ味方全体の物理クリティカルを100アップ味方全体の魔法クリティカルを100アップ味方全体の物理防御力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ$"=►Tăng P.ATK của tất cả đồng đội lên $1 trong 12s.\n►Tăng M.ATK của tất cả đồng đội lên $2 trong 12s.\n►Tăng tỷ lệ chí mạng vật lý của tất cả đồng đội lên 100 trong 12s.\n►Tăng tỷ lệ chí mạng phép của tất cả đồng đội lên 100 trong 12s.\n►Tăng P.DEF của tất cả đồng đội lên $3 trong 12s.\n►Tăng M.DEF của tất cả đồng đội lên $4 trong 12s.
+
+##UE##
+繊麗剣サマーブライト=Graceful Summer Bright Sword
+ブライトサマーメモリー=Kỷ niệm Mùa Hè Tươi Sáng
+
+##Comments##
+あははっ\n日が暮れるまで浜辺でゆっくり…\nこんな日があってもいいわよね=Ahaha. Đôi khi thích thú thả lỏng trên bãi biển cho đến khi mặt trời lặn, phải không?
+貝殻を集めてアクセサリー作り\nなんてのも悪くないわね\n思い出作りよ？　売ろうなんて\n考えてないわよ？　たぶんね=Nhặt vỏ sò và làm đồ trang sức từ chúng nghe có vẻ hay đấy. Nhưng không phải để bán hay gì đâu. Có lẽ vậy.
+海の砂ってサラサラしてて気持ち\nいいわよね。持ち帰って救護院に\n砂場を作ったりできないかしら？=Cát bãi biển cảm giác mịn màng và dễ chịu quá. Nếu chúng ta mang ít về trại mồ côi để làm một chiếc hố cát thì sao?
+子どもたちと賑やかに\n過ごすのはもちろん楽しいけど\nあんたと二人きりで過ごすのも\nなかなかいいわね=Đừng hiểu lầm, mình thích vui chơi với các con lắm. Nhưng đôi khi được ở riêng với cậu cũng thật tuyệt.
+あたしの水着をこんな間近で\n見られるなんて、あんた本当に\n得してるわよ♪=Cậu nên tự thấy may mắn đó. Không nhiều người được thấy mình trong đồ tắm, huống chi là gần thế này. ♪
+エレガントじゃないかもだけど\n今だけは許してね\nあたし今、とびっきり\n舞い上がっちゃってる！=Giờ mình chẳng có vẻ gì là thanh lịch, nhưng cậu bỏ qua lần này nhé. Mình háo hức quá mà!
+夏の日差しって、開放的な\n気分にさせるわよね！\nあたしももう少し\n冒険してみようかしら♪=Nắng hè thật mang lại cảm giác tự do, phải không? Mình cảm thấy muốn đi chút phiêu lưu nhỏ. ♪
+海に来るのなんて久しぶりね～\nせっかくのバカンスなんだから\n楽しまなきゃ損よ！=Đã lâu rồi kể từ lần cuối mình đến bãi biển. Và sẽ là phí phạm nếu không tận hưởng kỳ nghỉ này!
+本当にきれいな海よね\nもし誰もいない浜辺であんたと\n二人っきりだったら…って！\nなんであたしそんなことを！=Biển cả đẹp quá. Nếu cuối cùng chúng ta lại ở một mình trên bãi biển, mình sẽ... Khoan, mình đang nói gì vậy?!
+捕まえてみなさ～い♪\nな、なんてことあたしが\nできるわけないじゃない！！=Bắt được mình nếu cậu có thể! ♪ T-tất nhiên mình không thực sự nói được thứ như thế!
+誕生日おめでとう♪\n救護院のみんなもあんたの\n誕生日を祝いたがってるから\n楽しみにしてなさいね！=Chúc mừng sinh nhật! ♪ Mọi người ở trại mồ côi đều muốn ăn mừng với cậu, hãy chờ xem chúng tôi có gì!
+誕生日おめでとう！\n二人きりでバースデーパーティー\nしましょうか♪　なんてね=Chúc mừng sinh nhật! Mình đề nghị chúng ta có một bữa tiệc sinh nhật nhỏ, chỉ hai đứa mình. Đùa thôi.

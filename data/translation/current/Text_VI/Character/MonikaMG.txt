@@ -1,0 +1,28 @@
+##Profile##
+【物理】中衛で愛と希望の力を胸に指揮を執る魔法提督。ユニオンバーストで敵単体の物理防御力を下げ、範囲内の味方の物理攻撃力アップスキルで、一気に戦況を決める。=[Vật Lý] Một Đô đốc Ma thuật lãnh đạo bằng sức mạnh của tình yêu và hy vọng trong trái tim từ tuyến giữa. Sau khi giảm P.DEF của một kẻ địch bằng Union Burst và tăng P.ATK cho đồng đội gần đó bằng kỹ năng, cô quyết định cục diện trận đấu chỉ trong một lần.
+
+##UB##
+スカイラブリーハリケーン=Sky Lovely Hurricane
+目の前の敵１キャラに物理大ダメージを与え、さらに自分の行動速度を大アップさせる。このスキルのダメージと行動速度の上昇量は、ユニオンバーストを使用するたび増加する。（最大４回）=Gây sát thương P.DMG khủng khiếp cho kẻ địch phía trước và tăng mạnh tốc độ hành động của bản thân. Sát thương và tăng tốc độ hành động của kỹ năng này tích lũy với mỗi lần dùng Union Burst. (Tối đa 4 lần)
+r:"^敵単体に(\d+)の物理ダメージ自分の行動速度アップ$"=►Gây $1 P.DMG cho một kẻ địch.\n►Tăng tốc độ hành động của bản thân lên 150% trong 12s.
+
+##S1##
+ラブリーオーダー=Lovely Order
+自分を中心とした範囲内の味方の物理攻撃力を中アップさせる。自分の物理攻撃力が高い程、攻撃力の上昇量がアップする。=Tăng trung bình P.ATK cho đồng đội trong phạm vi xung quanh mình. Lượng tăng P.ATK tỷ lệ với P.ATK của bản thân.
+
+##S2##
+ラブリーインパルス=Lovely Impulse
+目の前の敵１キャラに物理中ダメージを与え、さらに最もＨＰが低い味方１キャラのＨＰを小回復させる。このスキルで与えたダメージ量に応じてＨＰの回復量がアップする。=Gây sát thương P.DMG trung bình cho kẻ địch phía trước và đồng thời hồi nhẹ HP cho đồng đội có HP thấp nhất. Lượng HP hồi tỷ lệ với lượng sát thương gây ra bằng kỹ năng này.
+r:"^敵単体に(\d+)の物理ダメージ味方単体のＨＰを(\d+)回復$"=►Gây $1 P.DMG cho một kẻ địch.\n►Hồi $2 HP cho một đồng đội.
+
+##EX##
+マジカルブレイブ=Magical Brave
+マジカルブレイブ+=Magical Brave+
+
+##S1+##
+ラブリーオーダー+=Lovely Order+
+自分を中心とした範囲内の味方の物理攻撃力を中アップさせ、物理クリティカルを大アップさせる。自分の物理攻撃力と自分を中心とした範囲内の味方の人数に応じて、物理攻撃力の上昇量がアップする。=Tăng trung bình P.ATK cho đồng đội trong phạm vi 150 xung quanh mình và tăng mạnh Tỷ lệ Chí mạng P.CRIT của họ. Lượng tăng P.ATK tỷ lệ với P.ATK của bản thân và số lượng đồng đội trong phạm vi xung quanh mình.
+r:"^範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理クリティカルを(\d+)アップ$"=►Tăng P.ATK cho đồng đội trong phạm vi $1.\n►Tăng Tỷ lệ Chí mạng P.CRIT cho đồng đội trong phạm vi $2.
+
+##UE##
+マジカルラブリーソード=Magical Lovely Sword

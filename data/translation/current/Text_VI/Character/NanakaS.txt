@@ -1,0 +1,35 @@
+##Profile##
+【魔法】中衛の多勢相手の戦いが得意な真夏の魔法少女。敵の数に応じて効果が上昇する防御力ダウンのスキルや、多彩な範囲攻撃を操り、真夏の戦いをサイカワに制する。=[Ma Thuật] Một Mahou Shoujo giữa mùa hè giỏi chiến đấu với số lượng lớn đối thủ trung bình. Sử dụng kỹ năng giảm phòng ngự ma thuật, hiệu quả tăng theo số lượng kẻ địch, cùng với đa dạng đòn tấn công xa, Saikawa giành chiến thắng trong trận chiến mùa hè.
+
+##UB##
+ナナカ・サマー・カーニバル=Lễ Hội Hè Của Nanaka
+前方範囲内の敵すべてに魔法大ダメージを与え、さらに魔法防御力を小ダウンさせる。=Gây sát thương Ma Thuật lớn lên tất cả kẻ địch phía trước, và giảm nhẹ Phòng Ngự Ma Thuật của chúng.
+
+##S1##
+ドルフィンマジック=Ma Thuật Cá Heo
+目の前の敵１キャラを中心とした範囲内の敵すべてに魔法中ダメージを与え、さらに自分を中心とした範囲内の味方すべての魔法攻撃力を大アップさせる。=Gây sát thương Ma Thuật vừa phải lên kẻ địch trong phạm vi của kẻ địch phía trước nhất, và tăng mạnh Sát Thương Ma Thuật của đồng minh trong phạm vi xung quanh bản thân.
+r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の味方の魔法攻撃力を(\d+)アップ$"=►Gây $1 sát thương Ma Thuật lên kẻ địch trong phạm vi.\n►Tăng Sát Thương Ma Thuật của đồng minh trong phạm vi lên $2.
+
+##S2##
+ブレイクスプラッシュ=Vỡ Tan Bắn Toé
+敵全体の魔法防御力を小ダウンさせる。敵の数に応じて、このスキルの効果値が増加する。=Giảm Phòng Ngự Ma Thuật của tất cả kẻ địch một chút. Hiệu quả kỹ năng này tăng lên dựa trên số lượng kẻ địch.
+r:"^敵全体の魔法防御力を(\d+)ダウン$"=►Giảm Phòng Ngự Ma Thuật của tất cả kẻ địch lên $1.
+
+##EX##
+サマーホリデー=Kỳ Nghỉ Hè
+サマーホリデー+=Kỳ Nghỉ Hè+
+
+##S1+##
+ドルフィンマジック+=Ma Thuật Cá Heo+
+目の前の敵１キャラを中心とした範囲内の敵すべてに魔法中ダメージを与え、さらに自分を中心とした範囲内の味方すべての魔法攻撃力を特大アップさせる。対象になる敵が多いほど、ダメージと魔法攻撃力の上昇量がアップする。=Gây sát thương Ma Thuật vừa phải lên kẻ địch trong phạm vi của kẻ địch phía trước nhất, và tăng mạnh Sát Thương Ma Thuật của đồng minh trong phạm vi xung quanh bản thân. Càng nhiều kẻ địch trong trận, sát thương Ma Thuật và buff Sát Thương Ma Thuật càng lớn.
+
+##UE##
+ナナカナツカワロッド=Cây Đũa Nanaka Natsukawa
+
+
+
+##S2##
+ブレイクスプラッシュ+=Vỡ Tan Bắn Toé+
+ナナカエモナツメモリー=Kỷ Niệm Mùa Hè Nồng Nàn Của Nanaka
+敵全体の物理攻撃力と魔法攻撃力を大ダウン、魔法防御力を中ダウンさせ、そのキャラの最大ＨＰに応じて最大200万の魔法割合ダメージを与える。敵の数に応じて、このスキルの効果量が増加する。=Giảm mạnh Tấn Công Vật Lý và Sát Thương Ma Thuật của tất cả kẻ địch, và giảm nhẹ Phòng Ngự Ma Thuật của chúng.\nGây sát thương Ma Thuật theo phần trăm lên tới 2.000.000 dựa trên HP tối đa của mục tiêu.\nCường độ hiệu quả tăng dựa trên số lượng kẻ địch.
+r:"^敵全体の物理攻撃力を(\d+)ダウン敵全体の魔法攻撃力を(\d+)ダウン敵全体の魔法防御力を(\d+)ダウン敵全体に最大200万の魔法割合ダメージを与える$"=►Giảm Tấn Công Vật Lý của tất cả kẻ địch lên $1\n►Giảm Sát Thương Ma Thuật của tất cả kẻ địch lên $2\n►Giảm Phòng Ngự Ma Thuật của tất cả kẻ địch lên $3\n►Gây lên tất cả kẻ địch sát thương Ma Thuật theo phần trăm tối đa 2.000.000

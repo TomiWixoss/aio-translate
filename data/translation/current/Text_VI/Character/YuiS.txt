@@ -1,0 +1,29 @@
+##Profile##
+【魔法】中衛で、魔法キャラを補助する夜凪の魔法士。累積する攻撃強化スキルとＴＰ回復、物魔両面の無効バリアや継続ＨＰ回復で攻守共に味方を支え勝利へ導く。=[Phép thuật] Một pháp sư của đêm tĩnh lặng hỗ trợ đồng minh thuộc kiểu phép thuật ở tuyến giữa. Họ hỗ trợ đồng minh với các kỹ năng tích lũy tăng cường tấn công, phục hồi TP, hàng rào bảo vệ kép chống P/M.DMG và phục hồi HP liên tục, dẫn dắt đến chiến thắng cả trong tấn công lẫn phòng thủ.
+
+##UB##
+スプレッドアフェクション=Lan Tỏa Tình Cảm
+魔法攻撃を行うすべての味方キャラの魔法攻撃力を中アップさせ、物理/魔法無効バリアを展開し、さらに継続ＨＰ回復状態を付与する。このスキルの魔法攻撃力の上昇量は自分の残りＨＰに応じて最大２倍までアップする。=Tăng đáng kể M.ATK cho tất cả đồng minh thuộc kiểu M, triển khai Barrier phủ lên họ có khả năng phản chọi P/M.DMG, và ban tặng phục hồi HP liên tục cho họ. Lượng tăng M.ATK tăng lên tới gấp đôi, dựa trên HP còn lại của bản thân.
+r:"^対象の味方の魔法攻撃力を(\d+)アップ(\d+)ダメージ分の物理魔法無効バリアを展開する毎秒ＨＰを(\d+)回復する$"=►Tăng M.ATK cho tất cả đồng minh thuộc kiểu M đi $1 trong 180s.\n►Triển khai Barrier phủ lên tất cả đồng minh thuộc kiểu M phản chọi $2 P/M.DMG trong 18s.\n►Phục hồi HP cho tất cả đồng minh thuộc kiểu M đi $3/giây trong 18s.
+
+##S1##
+マリンコンフィデンス=Sự Tự Tin Dưới Biển
+魔法攻撃を行うすべての味方キャラの魔法攻撃力と魔法クリティカルと魔法攻撃クリティカル時のダメージを小アップさせる。=Tăng nhẹ M.ATK, Tỷ lệ M.CRIT và M.CRIT DMG cho tất cả đồng minh thuộc kiểu M.
+r:"^対象の味方の魔法攻撃力を(\d+)アップ対象の味方の魔法クリティカルを30アップ対象の味方の魔法攻撃クリティカル時のダメージを1％アップ$"=►Tăng M.ATK cho tất cả đồng minh thuộc kiểu M đi $1 trong 180s.\n►Tăng Tỷ lệ M.CRIT cho tất cả đồng minh thuộc kiểu M đi 30 trong 180s.\n►Tăng M.CRIT DMG cho tất cả đồng minh thuộc kiểu M đi 1% trong 180s.
+
+##S2##
+ヴァイタルウェーブ=Sóng Sinh Khí
+魔法攻撃を行うすべての味方キャラのＴＰを小回復させ、自分のＨＰを小回復する。=Phục hồi TP một chút cho tất cả đồng minh thuộc kiểu M, và phục hồi HP của bản thân một chút.
+r:"^対象の味方のＴＰを100回復自分のＨＰを(\d+)回復$"=Thời gian niệm: 0.66 giây\n►Phục hồi TP cho tất cả đồng minh thuộc kiểu M đi 100.\n►Phục hồi HP của bản thân đi $1.
+
+##EX##
+ラバーズオンザビーチ=Người Tình Trên Bãi Biển
+ラバーズオンザビーチ+=Người Tình Trên Bãi Biển+
+
+##S1+##
+マリンコンフィデンス+=Sự Tự Tin Dưới Biển+
+魔法攻撃を行うすべての味方キャラの魔法攻撃力と魔法クリティカルを中アップし、魔法攻撃クリティカル時のダメージを小アップさせる。このスキルの魔法攻撃力の上昇量は自分の残りＨＰに応じて最大２倍までアップする。=Tăng đáng kể M.ATK và Tỷ lệ M.CRIT cho tất cả đồng minh thuộc kiểu M, và tăng nhẹ M.CRIT DMG của họ. Lượng tăng M.ATK tăng lên tới gấp đôi, dựa trên HP còn lại của bản thân.
+r:"^対象の味方の魔法攻撃力を(\d+)アップ対象の味方の魔法クリティカルを60アップ対象の味方の魔法攻撃クリティカル時のダメージを(3|３)％アップ$"=►Tăng M.ATK cho tất cả đồng minh thuộc kiểu M đi $1 trong 180s.\n►Tăng Tỷ lệ M.CRIT cho tất cả đồng minh thuộc kiểu M đi 60 trong 180s.\n►Tăng M.CRIT DMG cho tất cả đồng minh thuộc kiểu M đi 3% trong 180s.
+
+##UE##
+トゥインクルサマーバンド=Ban Nhạc Hè Lấp Lánh

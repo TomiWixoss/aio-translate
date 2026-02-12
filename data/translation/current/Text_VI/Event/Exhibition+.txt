@@ -1,0 +1,78 @@
+現在挑戦しているEXHIBITIONを\nリタイアして、ボスの状態と挑戦回数を\n【MODE1】挑戦前に戻しますか？\n=Hiện đang thử thách Trận Exhibition.\nBạn có muốn nghỉ và quay về trạng thái trước khi thử thách trong CHẾ ĐỘ 1 không?
+現在挑戦しているEXHIBITION＋を\nリタイアして、ボスの状態と挑戦回数を\n【MODE1】挑戦前に戻しますか？\n=Hiện đang thử thách Trận Exhibition+.\nBạn có muốn nghỉ và quay về trạng thái trước khi thử thách trong CHẾ ĐỘ 1 không?
+現在挑戦しているエキシビション\nバトルをリタイアして、\n【MODE1】挑戦前の状態にしますか？\n=Hiện đang thử thách Trận Exhibition.\nBạn có muốn nghỉ và quay về trạng thái trước khi thử thách trong CHẾ ĐỘ 1 không?
+
+現在挑戦しているSPECIALを\nリタイアして、ボスの状態と挑戦回数を\n【MODE1】挑戦前に戻しますか？\n=Hiện đang thử thách Trận Đặc Biệt.\nBạn có muốn nghỉ và quay về trạng thái trước khi thử thách trong CHẾ ĐỘ 1 không?
+現在挑戦しているSPECIAL＋を\nリタイアして、ボスの状態と挑戦回数を\n【MODE1】挑戦前に戻しますか？\n=Hiện đang thử thách Trận Đặc Biệt+.\nBạn có muốn nghỉ và quay về trạng thái trước khi thử thách trong CHẾ ĐỘ 1 không?
+
+アドバンス効果対象キャラ=Nhân Vật Đủ Điều Kiện Cho Hiệu Ứng Nâng Cao
+アドバンス効果詳細=Chi Tiết Hiệu Ứng Nâng Cao
+極大=Tối Đa
+絶大=Khổng Lồ
+特大=Lớn Vô Cùng
+大=Lớn
+中=Trung Bình
+小=Nhỏ
+大幅=Vĩ Đại
+
+全キャラ　アドバンス効果詳細=Chi Tiết Hiệu Ứng Nâng Cao Cho Tất Cả Nhân Vật
+r:"^効果(\d)$"=Hiệu Ứng $1
+sr:"^バトル開始後(\d+)秒間(.{2,12}?)(極(?:\n　)?大|絶(?:\n　)?大|特(?:\n　)?大|大|中|小|大(?:\n　)?幅)\n?アップ$"=$3 tăng $2 cho $1s ở đầu trận chiến.
+バトル開始後90秒間物理防御力と魔法防御力極大アップ=Trong 90s ở đầu trận chiến, tăng tối đa P.DEF và M.DEF của bản thân.
+バトル開始後90秒間ＨＰが０になると倒れずにHP回復（１回のみ）=Trong 90s sau khi trận chiến bắt đầu, khi HP của bạn về 0, hồi HP của bản thân (chỉ một lần) mà không ngã.
+バトル開始後90秒間魔法防御力極大アップ、行動不能無効=Trong 90s sau khi trận chiến bắt đầu, phòng thủ ma thuật tối đa, và miễn nhiễm với trạng thái bất động.
+r:"^【(.+)】付与$"=[b][$1][/b] được áp dụng\nTN:xem kỹ năng nhân vật để biết thêm thông tin.
+r:"^【残り挑戦回数 ([0-9/]+)】$"=[Lượt Thử Còn Lại: $1]
+
+r:"^バトル開始後味方全体の行動不能(\d)回無効$"=Sau khi trận chiến bắt đầu, vô hiệu hóa tất cả tình trạng bất lực của đồng minh $1 lần
+
+
+ボスのフィールド効果無効=Hiệu ứng trường boss bị vô hiệu hóa
+ボスの環境効果無効=Hiệu ứng môi trường boss bị vô hiệu hóa
+
+ボスの毒無効=Boss miễn nhiễm độc
+ボスの猛毒無効=Boss miễn nhiễm nọc độc
+ボスの呪い無効=Boss miễn nhiễm nguyền rủa
+ボスの呪詛無効=Boss miễn nhiễm bùa ngải
+ボスの火傷無効=Boss miễn nhiễm bỏng
+ボスの誘惑無効=Boss miễn nhiễm mê hoặc
+ボスのスタン無効=Boss miễn nhiễm choáng
+ボスの束縛無効=Boss miễn nhiễm trói
+ボスの混乱無効=Boss miễn nhiễm hỗn loạn
+
+こちらから、より強大な力を得た魔物に挑戦することができます。\nあなたとみなさんの総力を合わせ、全身全霊で挑みましょう！=Từ đây, bạn có thể thử thách những quái vật đã có được sức mạnh lớn hơn. Cùng nhau, bạn và tất cả mọi người, hãy cố gắng hết sức!
+EXHIBITION＋は、SPECIALがさらに強力になったボスバトルです。\nボスチケットは消費されませんが、討伐までの挑戦回数に制限がござい\nます。アドバンス効果で強化されたキャラと共に強敵に挑みましょう。=EXHIBITION+ là trận chiến boss mạnh hơn nữa. Vé boss sẽ không bị tiêu hao, nhưng có giới hạn số lần thử thách trước khi chinh phục chúng. Hãy thử thách đối thủ mạnh với các nhân vật được tăng cường bởi Hiệu Ứng Nâng Cao.
+全キャラ詳細=Danh Sách Chi Tiết
+このバトルでは以下のキャラに\nアドバンス効果が付与されます。=Trong trận chiến này, các nhân vật sau sẽ được trao Hiệu Ứng Nâng Cao.
+キャラアイコンをタップすることで効果の詳細を確認できます。=Nhấn vào biểu tượng nhân vật để xem chi tiết hiệu ứng.
+
+
+
+
+SPECIALはバトルモードが３段階変化するバトルです。\nより豪華な報酬やミッション報酬をゲットしましょう。期間中１体しか討伐できないので編成を工夫して挑戦しましょう。=Chế Độ Trận Đặc Biệt là trận chiến thay đổi ba cấp độ chế độ chiến đấu. Bạn sẽ nhận được nhiều phần thưởng và nhiệm vụ hơn. Bạn chỉ có thể chinh phục một lần trong sự kiện, vì vậy hãy cố gắng tổ chức.
+EXHIBITIONでは、SPECIALのボスと何度も戦えます。\nまた、バトルのログを保存して振り返ることができるので、\n独自の攻略法を見つけたり、様々な編成を試してみましょう。=Trong EXHIBITION, bạn có thể đánh các boss ĐẶC BIỆT nhiều lần. Bạn cũng có thể lưu nhật ký trận đấu và xem lại sau để phát triển chiến thuật độc đáo với các đội hình khác nhau.
+
+ボスの麻痺無効=Miễn nhiễm tê liệt của boss
+バトル開始後90秒間物理攻撃力絶大アップ、味方全体の物理攻撃力と魔法攻撃力極大アップ=Trong 90 giây đầu trận, sức tấn công vật lý tăng tối đa, và sức tấn công vật lý cùng sức tấn công ma thuật của tất cả đồng đội đều tăng rất lớn.
+バトル開始後90秒間魔法攻撃力絶大アップ、味方全体の物理攻撃力と魔法攻撃力極大アップ=Trong 90 giây đầu trận, sức tấn công ma thuật tăng tối đa, và sức tấn công vật lý cùng sức tấn công ma thuật của tất cả đồng đội đều tăng rất lớn.
+
+
+バトル開始後90秒間味方全体の魔法防御力特大アップ=Trong 90 giây đầu trận, tăng tối đa M.DEF cho tất cả đồng đội.
+バトル開始後90秒間味方全体の物理防御力特大アップ=Trong 90 giây đầu trận, tăng tối đa P.DEF cho tất cả đồng đội.
+バトル開始後味方全体のＴＰ大回復=Sau khi trận đấu bắt đầu, tất cả đồng đội hồi một lượng lớn TP.
+バトル開始後90秒間味方全体の物理攻撃力特大アップ=Trong 90 giây đầu trận, tăng tối đa P.ATK cho tất cả đồng đội.
+バトル開始後90秒間味方全体の魔法攻撃力特大アップ=Trong 90 giây đầu trận, tăng tối đa M.ATK cho tất cả đồng đội.
+
+バトル開始後90秒間敵全体の魔法攻撃力中ダウン=Trong 90 giây đầu trận, giảm tối đa M.ATK của tất cả kẻ địch.
+バトル開始後90秒間敵全体の物理攻撃力中ダウン=Trong 90 giây đầu trận, giảm tối đa P.ATK của tất cả kẻ địch.
+バトル開始後90秒間敵全体の魔法防御力特大ダウン=Trong 90 giây đầu trận, giảm tối đa M.DEF của tất cả kẻ địch.
+バトル開始後90秒間敵全体の物理防御力特大ダウン=Trong 90 giây đầu trận, giảm tối đa P.DEF của tất cả kẻ địch.
+
+バトル開始後90秒間味方全体に継続ＴＰ回復状態付与=Trong 90 giây đầu trận, thêm trạng thái hồi TP liên tục cho tất cả đồng đội.
+バトル開始後90秒間味方全体に継続ＨＰ回復状態付与=Trong 90 giây đầu trận, thêm trạng thái hồi HP liên tục cho tất cả đồng đội.
+バトル開始後90秒間継続ＴＰ回復状態付与=Trong 90 giây đầu trận, thêm trạng thái hồi TP liên tục.
+バトル開始後90秒間継続ＨＰ回復状態付与=Trong 90 giây đầu trận, thêm trạng thái hồi HP liên tục.
+
+
+バトル開始後90秒間味方全体の行動速度大アップ（重複可能）=Trong 90 giây đầu tiên sau khi trận đấu bắt đầu, tăng rất lớn tốc độ hành động của tất cả đồng đội (có thể chồng).
+バトル開始後90秒間味方全体のＴＰ上昇中アップ=Trong 90 giây đầu tiên của trận, Tăng TP của tất cả đồng đội được tăng rất lớn.

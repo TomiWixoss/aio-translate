@@ -1,0 +1,64 @@
+##Profile##
+冒険、おしゃべり=Phiêu lưu, trò chuyện
+空への冒険を夢見る騎空士の少女=Một người bay trên trời mơ ước về những cuộc phiêu lưu trên bầu trời
+
+【物理】前衛で、先手必勝の大技を繰り出す騎空士。スキルによるＴＰ回復は、ユニオンバーストの発動を早めバトルの序盤から敵前衛に大ダメージを与える。=[Vật lý] Một người bay trên trời tấn công nhanh nhẹn với những đòn lớn từ tuyến đầu. Kỹ năng hồi TP cho phép cô ấy dùng Union Burst nhanh chóng và đánh kẻ địch phía trước với sát thương lớn ngay từ đầu trận.
+
+蒼い空と大切な仲間=Bầu Trời Xanh và Bạn Bè Quý Giá
+離れても、通じる心=Dù Xa Cách, Trái Tim Vẫn Như Một
+騎空士は初めての空へ=Chuyến Bay Đầu Tiên Của Người Bay Trên Trời
+夢への助走をあなたと=Theo Đuổi Giấc Mơ Cùng Bạn
+
+とっておきの場所=Một Nơi Đặc Biệt
+秘めたる力=Sức Mạnh Tiềm Ẩn
+団長の悩み=Nỗi Lo Của Một Người Lãnh Đạo
+噂の騎空団=Đội Ngũ Được Nhắc Đến
+空を越えて来た少女=Cô Gái Từ Phía Bên Kia Bầu Trời
+仲間のいる喜び=Niềm Vui Của Tình Đồng Đội
+黄昏の空に思いを馳せて=Ký Ức Về Bầu Trời Hoàng Hôn
+騎空士見習いの少女=Người Bay Trên Trời Mới Chập Chững
+
+##UB##
+テンペストブレード=Lưỡi Kiếm Bão Tố
+
+##S1##
+ワイドブレード=Lưỡi Kiếm Rộng
+目の前の敵１キャラに物理中ダメージを与える。=Gây sát thương vật lý vừa phải lên kẻ địch đứng thẳng trước mặt.
+
+##S2##
+ウェポンバースト=Vũ Khí Bùng Nổ
+自分のＴＰを中回復する。=Hồi phục TP của bản thân một lượng vừa phải.
+r:"^自分のＴＰを(\d+)回復$"=►Hồi phục TP của bản thân lên $1.
+## 260lvl
+自分のＴＰを中回復し、物理攻撃力を小アップさせる。=Hồi phục TP của bản thân một lượng vừa phải. Cũng tăng nhẹ P.ATK của bản thân.
+r:"^自分のＴＰを(\d+)回復自分の物理攻撃力を(\d+)アップ$"=►Hồi phục TP của bản thân lên $1.\n►Tăng P.ATK của bản thân lên $1 trong 12s.
+
+##EX##
+竜巻の攻刃=Lưỡi Kiếm Xoáy
+竜巻の攻刃+=Lưỡi Kiếm Xoáy+
+
+##S1+##
+ワイドブレード+=Lưỡi Kiếm Rộng+
+目の前の敵１キャラに物理大ダメージを与える。さらに、自分のＴＰを中回復し、自分以外の味方全てのＴＰを小回復させる。=Gây sát thương vật lý lớn lên kẻ địch đứng thẳng trước mặt. Hồi phục TP của bản thân một lượng vừa phải, và TP của tất cả đồng minh khác một lượng nhỏ.
+r:"^敵単体に(\d+)の物理ダメージ自分のＴＰを200回復自分以外の味方全員のＴＰを100回復$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Hồi phục TP của bản thân lên 200.\n►Hồi phục TP của đồng minh lên 100.
+
+##UE##
+アシュケロン=Aschallon
+
+##UB-Kai##
+星河一天=Dòng Chảy Thiên Không
+目の前の敵１キャラに物理特大ダメージを与え、さらに自分の物理攻撃力を特大アップさせる。=Gây sát thương vật lý cực lớn lên kẻ địch đứng thẳng trước mặt, và tăng cực mạnh tấn công vật lý của bản thân.
+r:"^敵単体に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップ$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Tăng P.ATK của bản thân lên $2.
+
+##S1-Kai##
+アウレア=Aurea
+目の前の敵１キャラに物理特大ダメージを与える。さらに、自分のＴＰを中回復し、自分以外の味方全てのＴＰを小回復させる。=Gây sát thương vật lý lớn lên kẻ địch đứng thẳng trước mặt. Hồi phục TP của bản thân một lượng vừa phải, và TP của tất cả đồng minh khác một lượng nhỏ.
+r:"^敵単体に(\d+)の物理ダメージ自分のＴＰを200回復自分以外の味方全員のＴＰを100回復$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Hồi phục TP của bản thân lên 200.\n►Hồi phục TP của đồng minh lên 100.
+
+##S2-Kai##
+トリプルアタック=Ba Đòn Liên Hoàn
+目の前の敵１キャラに物理大ダメージを与え、さらに自分のＴＰを大回復する。=Gây sát thương vật lý lớn lên kẻ địch đứng trước mặt, và hồi một lượng TP lớn cho bản thân.
+r:"^敵単体に(\d+)の物理ダメージ自分のＴＰを(\d+)回復$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Hồi $2 TP cho bản thân.
+
+##EX-Kai##
+剣聖の賦性=Kiếm Thánh

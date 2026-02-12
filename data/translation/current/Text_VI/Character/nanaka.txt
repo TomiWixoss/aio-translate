@@ -1,0 +1,56 @@
+##Profile##
+【魔法】後衛から多彩な魔法を放つ、オタク魔法少女。体力が一番多い相手を狙うユニオンバーストやスキルは、敵のＨＰ状況により攻撃対象が変わる高威力の魔法攻撃。=[Ma Thuật] Một cô gái ma thuật mọt sách phóng đại nhiều loại phép thuật từ tuyến sau. Union Burst và kỹ năng của cô là những đòn tấn công ma thuật mạnh mẽ nhắm mục tiêu chiến lược vào kẻ địch còn nhiều HP nhất.
+
+読書、魔法=Đọc sách, ma thuật
+オタク全開な魔法少女=Một otaku hướng ngoại, cô gái ma thuật
+
+伝説の魔導書求む！=Tìm Kiếm: Một Cuốn Sách Phép Thần Thánh!
+初めてのバディタッグ=Một Cặp Đôi Ma Thuật Ra Đời
+悪の影との邂逅=Dấu Vết Của Ác Quỷ
+愛しい尊い定期巡回=Cùng Nhau Tuần Tra
+闇の蒐集家=Kẻ Sưu Tầm Bóng Tối
+この気持ちは君のために=Vì Ai Ta Chiến Đấu
+私たちが魔法少女！=Các Cô Gái Ma Thuật Hợp Lực!
+華麗なるメタモルフォーゼ=Sự Biến Hóa Tuyệt Đẹp
+
+魔法少女の真なる望み=Nguyện Ước Thật Sự Của Cô Gái Ma Thuật
+それは二人の愛の力？=Liệu Có Phải Là Sức Mạnh Của Tình Yêu?
+オタクの道というものは=Đạo Otaku
+望みをもたらすもの=Điều Mang Đến Hy Vọng
+
+##UB##
+ナナカ・∞・ブラスト=Nanaka Infinite Blast
+残りＨＰが最も高い敵１キャラに魔法特大ダメージを与える。=Gây sát thương ma thuật khổng lồ lên kẻ địch còn nhiều HP nhất.
+最もＨＰの割合が高い敵１キャラに魔法特大ダメージを与える。=Gây sát thương ma thuật khổng lồ lên kẻ địch còn nhiều HP nhất.
+
+##S1##
+スターダストマジック=Ma Thuật Bụi Sao
+目の前の敵１キャラを中心とした範囲内の敵すべての魔法防御力を小ダウンさせる。=Giảm nhẹ phòng thủ ma thuật của kẻ địch trong phạm vi.
+
+##S2##
+エナジーインパクト=Năng Lượng Va Chạm
+残りＨＰが最も高い敵１キャラに魔法中ダメージを与え、さらにスタンさせる。=Gây sát thương ma thuật vừa phải lên kẻ địch còn nhiều HP nhất và gây choáng trong 1.5s.
+最もＨＰの割合が高い敵１キャラに魔法中ダメージを与え、さらにスタンさせる。=Gây sát thương Ma Thuật vừa phải lên kẻ địch có %HP cao nhất và gây choáng trong 1,5 giây.
+
+##EX##
+アウェイクニングモード=Chế độ Tỉnh Thức
+アウェイクニングモード+=Chế độ Tỉnh Thức+
+
+##UB+##
+ナナカ・∞・グリッター=Nanaka Infinite Glitter
+最もＨＰの割合が高い敵１キャラに魔法特大ダメージを与え、さらに魔法防御力を小ダウンさせる。=Gây sát thương Ma Thuật lớn lên kẻ địch còn nhiều HP nhất, và đồng thời giảm nhẹ Phòng Ngự Ma Thuật của mục tiêu.
+残りＨＰが最も高い敵１キャラに魔法特大ダメージを与え、さらに魔法防御力を小ダウンさせる。=Gây sát thương Ma Thuật lớn lên kẻ địch còn nhiều HP nhất, và đồng thời giảm nhẹ Phòng Ngự Ma Thuật của mục tiêu.
+
+##S1+##
+スターダストマジック+=Bụi Tinh Thần+
+目の前の敵１キャラを中心とした範囲内の敵すべての魔法防御力を中ダウンさせる。=Giảm nhẹ Phòng Ngự Ma Thuật của kẻ địch trong phạm vi.
+r:"^範囲内の敵の魔法防御力を(\d+)ダウン$"=►Giảm Phòng Ngự Ma Thuật của kẻ địch trong phạm vi 200 lên $1 trong 12s.
+
+##S2+##
+エナジーインパクト+=Năng Lượng Va Chạm+
+最もＨＰの割合が高い敵１キャラに魔法特大ダメージを与えてスタンさせ、さらにＨＰ回復量を特大ダウンさせる。=Gây sát thương Ma Thuật lớn lên kẻ địch có %HP cao nhất, gây choáng và giảm mạnh Tỷ Lệ Hồi HP của mục tiêu.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体を一定時間行動不能にする敵単体のＨＰ回復量を90％ダウン$"=►Gây $1 sát thương Ma Thuật lên kẻ địch.\n►Gây choáng lên kẻ địch trong 4,5s.\n►Giảm Tỷ Lệ Hồi HP của kẻ địch xuống 10% trong 18s.
+
+##UE##
+ナナカサイツヨロッド=Đũa Phép Của Nanaka
+ナナカマジカルマスカレード=Lễ Hội Hóa Trang Ma Thuật Của Nanaka

@@ -1,0 +1,35 @@
+##Profile##
+【物理】前衛で元気いっぱいに新年を祝う腹ペコお姫様。物理攻撃力を高めるスキルで味方を強化し、ＨＰが多いほどダメージが上昇するユニオンバーストで敵を討つ。=[Vật lý] Một nàng công chúa luôn đói bụng, ăn mừng năm mới với năng lượng lớn ở tuyến đầu. Cô tăng tấn công vật lý cho đồng đội, và đánh bại kẻ địch với UB, sát thương tăng theo lượng HP của cô.
+
+すごろくがつなぐ縁=Sugoroku Kết Nối Chúng Ta Với Thế Giới
+待ち人はすぐそばに=Những Người Chờ Đón Ở Ngay Bên Cạnh Bạn
+おせちが彩る王女との絆=Mối Duyên Với Công Chúa Được Tô Màu Bởi Osechi
+美食の新年を迎えるために=Để Ăn Mừng Năm Mới Với Đồ Ăn Ngon
+
+##UB##
+ニューイヤーストライク=New Year Strike
+目の前の敵１キャラに物理中ダメージを与える。自分の残りＨＰが80％以上だった場合、物理大ダメ―ジを与える。自分の残りＨＰに応じて、このスキルのダメージがアップする。自分の残りＨＰが90％以上だった場合、さらに自分の物理攻撃力を特大アップさせる。=Gây sát thương vật lý vừa phải lên một kẻ địch phía trước. Nếu HP ≥ 80%, gây một lượng sát thương vật lý lớn. Sát thương của kỹ năng này tăng theo lượng HP còn lại. Nếu HP > 90%, tăng tấn công vật lý của bản thân rất lớn.
+r:"^自分の残りＨＰが最大ＨＰの80％未満の場合、敵単体に(\d+)の物理ダメージ自分の残りＨＰが最大ＨＰの80％以上の場合、敵単体に(\d+)の物理ダメージ自分の残りＨＰが最大ＨＰの90％以上の場合、自分の物理攻撃力を(\d+)アップ$"= 90%, tăng tấn công vật lý của bản thân lên $3 trong 18s.
+
+##S1##
+ダイフクタイム=Daifuku Time
+自分の物理攻撃力を小アップさせる。自分の残りＨＰが80％以上だった場合、さらに味方全体の物理攻撃力を中アップさせる。自分の残りＨＰに応じて、物理攻撃力の上昇量がアップする。=Tăng tấn công vật lý của cậu một chút. Nếu HP > 80%, tiếp tục tăng tấn công vật lý của đồng đội một chút. Lượng tăng tấn công vật lý tăng theo lượng HP còn lại.
+r:"^自分の物理攻撃力を(\d+)アップ自分の残りＨＰが最大ＨＰの80％以上の場合、味方全体の物理攻撃力を(\d+)アップ$"=Thời gian niệm: 0.465s.\n►Tăng tấn công vật lý của bản thân lên $1 (+0.09×HP) trong 12s.\n►Nếu HP > 80%, tăng tấn công vật lý của đồng đội lên $2 (+0.05×HP) trong 12s.
+
+##S2##
+ライジングサン=Rising Sun
+目の前の敵１キャラに物理中ダメージを与える。自分の残りＨＰが80％以上だった場合、さらに物理防御力を小ダウンさせる。自分の残りＨＰに応じて、このスキルのダメージがアップする。=Gây sát thương vật lý vừa phải lên một kẻ địch phía trước. Nếu lượng HP còn lại của cậu là 80% hoặc hơn, tiếp tục giảm phòng thủ vật lý một chút. Sát thương của kỹ năng này tăng theo lượng HP còn lại.
+r:"^敵単体に(\d+)の物理ダメージ自分の残りＨＰが最大ＨＰの80％以上の場合、敵単体の物理防御力を(\d+)ダウン$"=Thời gian niệm: 0.795s.\n►Gây $1 sát thương vật lý lên kẻ địch.\n►Nếu HP > 80%, giảm phòng thủ vật lý của kẻ địch lên $2 trong 12s.
+
+##EX##
+新春美食パワー=New Year Gourmet Power
+新春美食パワー+=New Year Gourmet Power+
+
+##S1+##
+ダイフクタイム+=Daifuku Time+
+自分の物理攻撃力を小アップさせる。自分の残りＨＰが80％以上だった場合、さらに味方全体の物理攻撃力を中アップさせる。自分の残りＨＰに応じて、物理攻撃力の上昇量がアップする。自分の残りＨＰが90％以上だった場合、さらに自分のＴＰを中回復する。=Tăng tấn công vật lý của cậu một chút. Nếu HP > 80%, tiếp tục tăng tấn công vật lý của đồng đội một chút. Lượng tăng tấn công vật lý tăng theo lượng HP còn lại. Nếu HP > 90%, hồi TP của bản thân một chút.
+自分の物理攻撃力を中アップさせる。自分の残りＨＰが80％以上だった場合、さらに味方全体の物理攻撃力を中アップさせる。自分の残りＨＰに応じて、物理攻撃力の上昇量がアップする。自分の残りＨＰが90％以上だった場合、さらに自分のＴＰを中回復する。=Tăng ST lực công vật một chút. Nếu HP > 80%, tiếp tục tăng ST lực công vật cho đồng đội một chút. Mức độ tăng ST lực công vật càng cao khi HP còn lại càng nhiều. Nếu HP > 90%, hồi một chút TP cho bản thân.
+r:"^自分の物理攻撃力を(\d+)アップ自分の残りＨＰが最大ＨＰの80％以上の場合、味方全体の物理攻撃力を(\d+)アップ自分の残りＨＰが最大ＨＰの90％以上の場合、自分のＴＰを(\d+)回復$"=Thời gian niệm: 0.465s\n►Tăng ST lực công vật của bản thân $1 (+0.11×HP) trong 12s.\n►Nếu HP > 80%, tăng ST lực công vật của đồng đội $2 (+0.06×HP) trong 12s.\n►Nếu HP > 90%, hồi TP cho bản thân $3.
+
+##UE##
+迎春美食の晴着=Ẩm Thực Đặc Sự Năm Mới

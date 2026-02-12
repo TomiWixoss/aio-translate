@@ -1,0 +1,31 @@
+##Profile##
+【魔法】後衛で、敵の脅威から生徒を守る夏女神な先生。味方の魔法防御力を高め、ＨＰを継続回復するスキルや、バリア展開のユニオンバーストで味方を堅固に守護する。=[Phép] Một vị thần mùa hạ, giáo viên bảo vệ học sinh khỏi mối đe dọa từ hậu phương. Với các kỹ năng tăng M.DEF và phục hồi HP liên tục cho đồng minh, cùng Union Burst tạo lớp khiên, có thể kiên cường bảo vệ đồng đội.
+
+##UB##
+サマーゴッデスコーチング=Huấn luyện Thần Mùa hạ
+物理攻撃を行うすべての味方キャラに魔法無効バリアを展開し、さらに魔法攻撃を行うすべての味方キャラに物理無効バリアを展開する。=Tạo khiên trên toàn đồng minh, chống lại sát thương vật lý nếu có đồng minh thuộc kiểu V, hoặc chống lại sát thương ma thuật nếu có đồng minh thuộc kiểu M.
+r:"^(\d+)ダメージ分の魔法無効バリアを展開する(\d+)ダメージ分の物理無効バリアを展開する$"=►Tạo khiên trên toàn đồng minh kiểu V, chống lại $1 sát thương ma thuật trong 45 giây.\n►Tạo khiên trên toàn đồng minh kiểu M, chống lại $2 sát thương vật lý trong 45 giây.
+
+##S1##
+ヒーリングドリンク=Nước uống hồi phục
+一番前の味方１キャラの魔法防御力を大アップさせ、さらに継続ＨＰ回復状態を付与する。=Tăng mạnh phòng thủ ma thuật của đồng minh đứng đầu và cho phép hồi phục HP liên tục.
+r:"^味方単体の魔法防御力を(\d+)アップ毎秒ＨＰを(\d+)回復する$"=Thời gian niệm: 0.94 giây\n►Tăng phòng thủ ma thuật của đồng minh lên $1 trong 12 giây.\n►Hồi phục HP của đồng minh $2/giây trong 7 giây.
+
+##S2##
+アドバイスエール=Lời khuyên hét vang
+味方全体の物理攻撃力と魔法防御力を中アップさせる。=Tăng vừa phải sát thương vật lý và phòng thủ ma thuật cho toàn đồng minh.
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ$"=Thời gian niệm: 0.94 giây\n►Tăng sát thương vật lý của toàn đồng minh lên $1 trong 12 giây.\n►Tăng phòng thủ ma thuật của toàn đồng minh lên $2 trong 12 giây.
+
+##EX##
+サマーガイダンス=Hướng dẫn Hè
+サマーガイダンス+=Hướng dẫn Hè+
+バトル開始時に自分の魔法防御力を中アップさせ、さらに自分の魔法攻撃力を小アップさせる。=Ngay từ đầu trận, tăng vừa phải phòng thủ ma thuật và tăng nhỏ sát thương ma thuật của bản thân.
+r:"^自分の魔法防御力を(\d+)アップ自分の魔法攻撃力を(\d+)アップ$"=►Tăng phòng thủ ma thuật của bản thân lên $1.\n►Tăng sát thương ma thuật của bản thân lên $2.
+
+##S1+##
+ヒーリングドリンク+=Nước uống hồi phục+
+一番前の味方１キャラの魔法防御力を大アップさせ、さらに継続ＨＰ回復状態を付与する。対象が物理攻撃をするキャラの場合さらに魔法防御力を大アップさせ、魔法攻撃をする場合物理防御力を大アップさせる。=Tăng mạnh phòng thủ ma thuật của đồng minh đứng đầu và cho phép hồi phục HP liên tục. Nếu đồng minh thuộc kiểu V, tăng thêm phòng thủ ma thuật; nếu đồng minh thuộc kiểu M, tăng thêm phòng thủ vật lý.
+r:"^味方単体の魔法防御力を(\d+)アップ毎秒ＨＰを(\d+)回復する対象が物理攻撃をする場合味方単体の魔法防御力を(\d+)アップ対象が魔法攻撃をする場合味方単体の物理防御力を(\d+)アップ$"=Thời gian niệm: 0.94 giây\n►Tăng phòng thủ ma thuật của đồng minh lên $1 trong 12 giây.\n►Hồi phục HP của đồng minh $2/giây trong 7 giây.\n►Nếu đồng minh thuộc kiểu V, tăng phòng thủ ma thuật của đồng minh lên $3 trong 12 giây.\n►Nếu đồng minh thuộc kiểu M, tăng phòng thủ vật lý của đồng minh lên $4 trong 12 giây.
+
+##UE##
+ビーチビーナスメガホン=Loa Biển Venus

@@ -1,0 +1,26 @@
+##Profile##
+【物理】前衛で、元日も元気にはしゃぎまわる軍人少女。与ダメージに応じて追加効果が強化されるＵＢと、発動ごとに成長する自己強化スキルで秩序を乱す者の目を回す。=[Vật Lý] Một cô gái quân sự chạy xung quanh tuyến trước với sự phấn khích ngay cả trong ngày Tết. Cô có UB có hiệu ứng bổ sung khi gây sát thương lớn, và có kỹ năng tự tăng cường tăng lên mỗi lần kích hoạt. Với chúng, cô đánh choáng tất cả những kẻ muốn phá rối trật tự.
+
+##UB##
+絢爛廻天麗舞！=Magnificent Circling Heavenly Dance!
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理防御力を(\d+)ダウン自分の物理攻撃力を(\d+)アップ$"=►Gây $1 P.DMG cho kẻ địch trong tầm.\n►Giảm P.DEF của kẻ địch trong tầm $2.\n►Tăng P.ATK của bản thân $3.
+
+
+目の前の敵１キャラを中心とした範囲内の敵すべてに物理大ダメージを与え、物理防御力を小ダウンさせる。さらに、自分の物理攻撃力を大アップする。このスキルで与えたダメージ量に応じて、防御力ダウンと攻撃力アップの効果量が最大５倍までアップする。=Gây sát thương P.DMG lớn cho tất cả kẻ địch trong phạm vi xung quanh kẻ địch gần nhất và giảm nhẹ P.DEF của chúng. Đồng thời, tăng mạnh P.ATK của bản thân. Lượng giảm P.DEF và tăng P.ATK tăng lên tối đa 5 lần dựa trên sát thương gây ra bằng kỹ năng này.
+
+##S1##
+飛空蛮衝！=Skyward Reckless Charge!
+飛空蛮衝！+=Skyward Reckless Charge!+
+
+##S2##
+世界巡礼玉！=World Pilgrimage Gem!
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理攻撃クリティカル時のダメージを3％アップ自分のＴＰを75回復$"=►Tăng P.ATK của bản thân $1.\n►Tăng Sát thương Chí mạng P.CRIT DMG của bản thân 3%.\n►Khôi phục TP cho bản thân 75.
+
+
+自分の物理攻撃力を大アップ、物理攻撃クリティカル時のダメージを小アップし、ＴＰを小回復する。このスキルを使用するたび、最大４回まで効果量がアップする。=Tăng mạnh P.ATK của bản thân, tăng nhẹ P.CRIT DMG của bản thân, và hồi một lượng TP nhỏ. Mỗi lần kỹ năng này được dùng, lượng hiệu ứng tăng lên tối đa bốn lần.
+
+
+
+##EX##
+迎春の戯れ=Trò chơi Tết Nguyên Đán
+迎春の戯れ+=Trò chơi Tết Nguyên Đán+

@@ -1,0 +1,29 @@
+##Profile##
+【魔法】後衛で、敵の防御力を削ぎ取る渚の名探偵。攻撃力が高い敵に目標を定めて防御力を下げつつ、味方を強化するスキルで、どんな難事件も解決へと導く。=[Phép thuật] Một thám tử tuyệt vời trên bãi biển, hoạt động ở hậu phương và làm suy yếu phòng thủ của kẻ địch. Với kỹ năng nhắm vào kẻ địch có sức tấn công cao và giảm phòng thủ của chúng trong khi tăng cường đồng minh, cô có thể giải quyết mọi vụ án khó.
+
+##UB##
+サマー・ディテクティブ=Thám Tử Hè
+物理攻撃力、魔法攻撃力いずれかで、最も攻撃力が高い敵１キャラに魔法大ダメージを与え、魔法防御力を中ダウンさせる。さらに物理クリティカルと魔法クリティカルを特大ダウンさせる。=Gây lượng M.DMG lớn cho kẻ địch có P/M.ATK cao nhất (cái nào cao hơn), và giảm M.DEF của nó một cách vừa phải. Ngoài ra, giảm mạnh Tỷ lệ Chí Mạng P (P.CRIT Rate) và Tỷ lệ Chí Mạng M (M.CRIT Rate) của nó.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン敵単体の物理クリティカルを(\d+)ダウン敵単体の魔法クリティカルを(\d+)ダウン$"=►Gây $1 M.DMG cho kẻ địch.\n►Giảm M.DEF của kẻ địch đi $2 trong 18s.\n►Giảm P.CRIT Rate của kẻ địch đi $3 trong 18s.\n►Giảm M.CRIT Rate của kẻ địch đi $4 trong 18s.
+
+##S1##
+アクアキャプチャー=Bắt Nước
+物理攻撃力、魔法攻撃力いずれかで、最も攻撃力が高い敵１キャラの魔法防御力を中ダウンさせ、さらにクリティカルを受けた際のダメージを小アップさせる。=Giảm M.DEF của kẻ địch có P/M.ATK cao nhất (cái nào cao hơn) một cách vừa phải, và tăng nhẹ lượng M.CRIT DMG mà nó nhận phải.
+r:"^敵単体の魔法防御力を(\d+)ダウンクリティカルを受けた際のダメージを12％アップ$"=►Giảm M.DEF của kẻ địch đi $1 trong 12s.\n►Tăng M.CRIT DMG mà kẻ địch nhận phải lên 12% trong 12s.
+
+##S2##
+ショアインテリジェンス=Trí Tuệ Bờ Biển
+自分以外の味方全体の魔法攻撃力と魔法クリティカルを大アップさせる。自分の魔法攻撃力に応じて、魔法攻撃力の上昇量がアップする。=Tăng mạnh M.ATK và M.CRIT Rate cho tất cả đồng minh khác. Mức tăng M.ATK tỷ lệ với M.ATK của bản thân.
+r:"^対象の味方の魔法攻撃力を(\d+)アップ対象の味方の魔法クリティカルを(\d+)アップ$"=►Tăng M.ATK cho tất cả đồng minh khác lên $1 (+0.035×M.ATK) trong 12s.\n►Tăng M.CRIT Rate cho tất cả đồng minh khác lên $2 trong 12s.
+
+##EX##
+ミスティックサマー=Hè Huyền Ảo
+ミスティックサマー+=Hè Huyền Ảo+
+
+##S1+##
+アクアキャプチャー+=Bắt Nước+
+物理攻撃力、魔法攻撃力いずれかで、最も攻撃力が高い敵１キャラの魔法防御力を特大ダウンさせ、クリティカルを受けた際のダメージを小アップさせる。さらに魔法中ダメージを与える。このスキルは必ずクリティカルする。=Giảm mạnh M.DEF của kẻ địch có P/M.ATK cao nhất (cái nào cao hơn), và tăng nhẹ lượng M.CRIT DMG mà nó nhận phải. Ngoài ra, gây sát thương M.DMG vừa phải cho kẻ địch, luôn chí mạng.
+r:"^敵単体の魔法防御力を(\d+)ダウンクリティカルを受けた際のダメージを16％アップ敵単体に(\d+)の魔法ダメージ$"=►Giảm M.DEF của kẻ địch đi $1 trong 12s.\n►Tăng M.CRIT DMG mà kẻ địch nhận phải lên 16% trong 12s.\n►Gây $2 M.DMG cho kẻ địch.
+
+##UE##
+サマーディテクティブロッド=Gậy Thám Tử Hè

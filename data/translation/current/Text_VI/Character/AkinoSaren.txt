@@ -1,0 +1,43 @@
+##Profile##
+【物理】中衛で背を預けあう最高の好敵手で親友の二人。味方の物理攻撃をサポートしつつＨＰとＴＰを継続回復しＨＰが多いほど威力が増すＵＢで、共に勝利の道を征く。=[Vật Lý] Hai người bạn thân ở tuyến giữa, bất chấp sự cạnh tranh, vẫn che chở cho nhau khi cần. Cặp đôi có thể tăng tấn công vật lý cho đồng minh, cùng với việc hồi phục HP và TP của họ. Họ có thể mở đường đến chiến thắng bằng UB của mình, mạnh lên theo lượng HP của họ.
+
+ヒューマン、エルフ=Nhân Loại, Tiên Tộc
+松嵜麗、堀江由衣=Rei Matsuzaki, Yui Horie
+気高き友情で結ばれた好敵手=Đối thủ gắn bó bởi tình đồng chí cao quý
+-月-日=N/A
+-型=N/A
+切磋琢磨=Làm Việc Chăm Chỉ
+
+メルクリウス財団、サレンディア救護院=Tổ Chức Lính Đánh Thuê, Saren. Trại Mồ Côi
+
+未来はふわふわ未確定=Tương lai mờ mịt và bất định
+３人だからできたこと=Cả Ba Đã Làm Được
+三角形の旅路=Hành Trình Tam Giác
+好敵手たちの共闘関係=Sự Hợp Tác Giữa Những Đối Thủ Xứng Đáng
+
+##UB##
+ノーブルブレイズ=Ngọn Lửa Quý Tộc
+目の前の敵１キャラに物理特大ダメージを与える。自分の残りＨＰが高い程、このダメージがアップする。さらにその敵を中心として物理ダメージフィールドを展開する。=Gây lượng lớn sát thương vật lý cho kẻ địch phía trước. Càng nhiều HP của bản thân, sát thương vật lý càng cao. Ngoài ra, triển khai một vùng gây sát thương vật lý cho kẻ địch trong phạm vi.
+r:"^敵単体に(\d+)の物理ダメージ毎秒(\d+)の物理ダメージを与えるフィールドを展開する$"=►Gây $1 sát thương vật lý cho kẻ địch.\n►Triển khai vùng bán kính 300 xung quanh kẻ địch gây $2 sát thương vật lý trong 15.5 giây.
+
+##S1##
+ファイアエンハンスメント=Tăng Cường Hỏa
+味方全体の物理攻撃力を特大アップさせ、物理クリティカルと物理攻撃クリティカル時のダメージを小アップさせる。=Tăng mạnh tấn công vật lý cho tất cả đồng minh, và tăng nhỏ tỷ lệ chí mạng và sát thương chí mạng vật lý của họ.
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の物理クリティカルを(\d+)アップ味方全体の物理攻撃クリティカル時のダメージを10％アップ$"=Thời gian niệm: 0.59s\n►Tăng tấn công vật lý cho tất cả đồng minh lên $1 trong 12 giây.\n►Tăng tỷ lệ chí mạng vật lý cho tất cả đồng minh lên $2 trong 12 giây.\n►Tăng sát thương chí mạng vật lý cho tất cả đồng minh thêm 10% trong 12 giây.
+
+##S2##
+グリッターフォース=Glitter Force
+自分の周囲に範囲内の味方すべてのＨＰとＴＰを小回復するフィールドを展開する。さらに自分のＴＰを大回復する。=Triệu hồi một trường lực xung quanh bản thân, hồi phục một chút HP và TP cho đồng đội trong phạm vi. Ngoài ra, còn hồi phục rất nhiều TP cho chính mình.
+r:"^毎秒ＴＰを10回復するフィールドを展開する毎秒ＨＰを(\d+)回復するフィールドを展開する自分のＴＰを280回復$"=Thời gian niệm: 0.59s ►Triệu hồi một trường lực bán kính 300 xung quanh bản thân, hồi phục HP đồng đội $1/s và TP 10/s trong 12.5s. ►Hồi phục TP cho chính mình 280.
+
+##EX##
+ノーブルグリッター=Noble Glitter
+ノーブルグリッター+=Noble Glitter+
+
+##S1+##
+ファイアエンハンスメント+=Fire Enhancement+
+味方全体の物理攻撃力を特大アップ、物理クリティカルを大アップさせ、物理攻撃クリティカル時のダメージを小アップさせる。さらに、自分の物理攻撃力と物理クリティカルを特大アップ、物理攻撃クリティカル時のダメージを中アップし、ＨＰを小回復、ＴＰを大回復する。=Tăng cường rất mạnh P.ATK cho tất cả đồng đội, tăng nhẹ Tỷ lệ Chí Mạng và Sát Thương Chí Mạng của họ. Đồng thời, tăng cường rất mạnh P.ATK và Tỷ lệ Chí Mạng của bản thân, tăng trung bình Sát Thương Chí Mạng, hồi phục một chút HP và hồi phục trung bình TP của bản thân.
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の物理クリティカルを100アップ味方全体の物理攻撃クリティカル時のダメージを12％アップ自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを200アップ自分の物理攻撃クリティカル時のダメージを24％アップ自分のＴＰを280回復自分のＨＰを(\d+)回復$"=►Tăng P.ATK của tất cả đồng đội $1 trong 12s. ►Tăng Tỷ lệ Chí Mạng của tất cả đồng đội 100 trong 12s. ►Tăng Sát Thương Chí Mạng của tất cả đồng đội 12% trong 12s. ►Tăng P.ATK của bản thân $2 trong 12s. ►Tăng Tỷ lệ Chí Mạng của bản thân 200 trong 12s. ►Tăng Sát Thương Chí Mạng của bản thân 24% trong 12s. ►Hồi phục TP của bản thân 280. ►Hồi phục HP của bản thân $3.
+
+##UE##
+好敵手たちの輝き=The Radiance Of Rivals

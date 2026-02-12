@@ -1,0 +1,33 @@
+##Profile##
+【魔法】最前衛で、味方を鼓舞する着物姿のドＭ娘。\n味方の魔法攻撃力を高め、敵の魔法防御力を下げる事で、\n魔法パーティのサポート兼防御役として活躍する。=[Phép thuật] Một kẻ thích bị hành hạ tuyệt vọng, cung cấp hỗ trợ từ mặt trận trong một chiếc kimono xinh xắn. Bằng cách tăng tấn công phép thuật cho đồng minh và giảm phòng thủ phép thuật của kẻ thù, cô mang lại lợi ích lớn cho đội phép thuật đồng thời bảo vệ họ khỏi nguy hiểm.
+
+##UB##
+恍惚絶頂の舞～！=Dance of Purest Ecstasy
+自身のＨＰを特大回復し、さらに自分を中心とした範囲内の味方の物理防御力と魔法防御力を大アップさせる。=Hồi lớn HP của bản thân. Tăng lớn P.DEF và M.DEF cho tất cả đồng minh gần đó.
+r:"^自分のＨＰを(\d+)回復範囲内の味方の物理防御力を(\d+)アップ範囲内の味方の魔法防御力を(\d+)アップ$"=►Hồi $1 HP.\n►Tăng P.DEF của đồng minh trong phạm vi lên $2.\n►Tăng M.DEF của đồng minh trong phạm vi lên $3.
+
+##S1##
+みんな昂りますよぉ！=Let's Get Passionate!
+味方全体の魔法攻撃力を中アップさせる。=Tăng vừa phải M.ATK cho đồng minh.
+
+##S2##
+妖しい桃色吐息ですぅ！=My Breath Is Bewitching!
+目の前の敵１キャラに魔法小ダメージを与え、さらに魔法防御力を小ダウンさせる。=Gây sát thương phép thuật nhỏ cho kẻ thù ngay phía trước và giảm nhẹ M.DEF của chúng.
+
+##EX##
+絢爛トリップゾーン=Opulent Trip Zone
+絢爛トリップゾーン+=Opulent Trip Zone+
+
+##S1+##
+みんな昂りますよぉ！+=Let's Get Passionate!+
+味方全体の魔法攻撃力を大アップさせ、さらに魔法クリティカルと行動速度を中アップさせる。=Tăng lớn M.ATK cho đồng minh, tăng Tỷ lệ Chí mạng Phép thuật và tăng vừa phải Tốc độ hành động.
+r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを(\d+)アップ味方全体の行動速度アップ$"=►Tăng M.ATK của đồng minh lên $1 trong 12 giây.\n►Tăng Tỷ lệ Chí mạng Phép thuật của đồng minh lên $2 trong 12 giây.\n►Tăng Tốc độ hành động của đồng minh lên 125% trong 12 giây.
+
+##S2+##
+妖しい桃色吐息ですぅ！+=My Breath Is Bewitching!+
+自分に物理/魔法無効バリアを展開し、物理防御力と魔法防御力を中アップさせる。さらに目の前の敵１キャラに魔法大ダメージを与え、魔法防御力を特大ダウンさせる。=Triển khai Barrier xung quanh bản thân, phản chọi P/M.DMG, tăng vừa phải P.DEF và M.DEF của bản thân. Ngoài ra, gây sát thương phép thuật lớn lên kẻ thù và giảm mạnh M.DEF của chúng.
+r:"^(\d+)ダメージ分の物理魔法無効バリアを展開する自分の物理防御力を(\d+)アップ自分の魔法防御力を(\d+)アップ敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン$"=►Triển khai Barrier xung quanh bản thân, phản chọi $1 P/M.DMG trong 18 giây.\n►Tăng P.DEF của bản thân lên $2 trong 18 giây.\n►Tăng M.DEF của bản thân lên $3 trong 18 giây.\n►Gây $4 M.DMG lên kẻ thù.\n►Giảm M.DEF của kẻ thù đi $5 trong 18 giây.
+
+##UE##
+千紫万紅艶椿=Thousands Red Camellia
+千変万化艶椿=Ever-changing Red Camellia

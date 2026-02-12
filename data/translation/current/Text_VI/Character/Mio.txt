@@ -1,0 +1,33 @@
+##Profile##
+スーパースターを目指す元気娘☆☆★=Cô gái tràn đầy năng lượng hướng tới danh vọng siêu sao ☆☆★
+
+【魔法】後衛で攻防共に活躍するパッション溢れる少女。ダメージを受けた味方中心に回復魔法で補助をし、さらに魔法攻撃を仕掛けて、敵を一網打尽にする。=[Ma Thuật] Một cô gái nhiệt huyết đóng góp cho cả tấn công và phòng thủ từ hậu phương. Trong khi hỗ trợ đồng minh bị thương với hồi máu nhắm mục tiêu, cô ấy phóng ra những đòn tấn công ma thuật để quét sạch đội hình kẻ thù.
+
+##UB##
+スパークル・マジック=Ma Thuật Lấp Lánh
+目の前の敵１キャラに魔法特大ダメージを与え、さらに自分の魔法攻撃力を大アップさせる。=Gây sát thương ma thuật khổng lồ lên kẻ thù ngay phía trước. Tăng cực lớn M.ATK của bản thân.
+
+##S1##
+トリプル・スター=Ba Ngôi Sao
+目の前の最大３キャラまでの敵に魔法小ダメージを与える。このダメージは、遠い敵ほど増加する。=Gây sát thương ma thuật nhỏ lên tối ba kẻ thù ngay phía trước. Sát thương này tăng lên khi kẻ thù càng xa.
+
+##S2##
+進め☆ファイトエール=Hãy Tiếp Tục Chiến Đấu! ☆
+最もＨＰが低い味方１キャラを中心とした範囲内の味方すべてのＨＰを小回復する。=Áp dụng Trói lên tất cả kẻ thù trong phạm vi.
+
+##EX##
+天性の魅力=Sức Hấp Dẫn Tự Nhiên
+天性の魅力+=Sức Hấp Dẫn Tự Nhiên+
+
+##S1+##
+トリプル・スター+=Ba Ngôi Sao+
+目の前の最大３キャラまでの敵に魔法中ダメージを与え、自分のＴＰを小回復し、魔法攻撃力を中アップ。このダメージは、遠い敵ほど増加する。=Gây sát thương ma thuật vừa phải lên tối ba kẻ thù ngay phía trước, hồi một chút TP cho bản thân và tăng M.ATK của bản thân một chút. Sát thương này tăng lên khi kẻ thù càng xa.
+r:"^１番目に近い敵単体に(\d+)の魔法ダメージ２番目に近い敵単体に(\d+)の魔法ダメージ３番目に近い敵単体に(\d+)の魔法ダメージ自分のＴＰを(\d+)回復自分の魔法攻撃力を(\d+)アップ$"=►Gây $1 sát thương ma thuật lên kẻ thù gần nhất thứ 1.\n►Gây $2 sát thương ma thuật lên kẻ thù gần nhất thứ 2.\n►Gây $3 sát thương ma thuật lên kẻ thù gần nhất thứ 3.\n►Hồi $4 TP cho bản thân.\n►Tăng M.ATK của bản thân lên $5 trong 180s.
+
+##UE##
+ステージオブパッション=Sân Khấu Đam Mê
+
+##UE2##
+スターライトドレス・ミオ=Váy Áo Tinh Khôi Mio
+進め☆ファイトエール+=Tiếng Hò Hẹn Tiến Lên☆+
+r:"^範囲内の味方の魔法攻撃力を(\d+)アップ範囲内の味方のＨＰを(\d+)回復毎秒ＨＰを(\d+)回復するフィールドを展開する自分のＴＰを150回復$"=►Tăng M.ATK của đồng minh trong phạm vi lên $1.\n►Hồi HP của đồng minh trong phạm vi lên $2.\n►Triển khai một vùng hiệu ứng hồi HP $3 mỗi giây.\n►Hồi 150 TP cho bản thân.

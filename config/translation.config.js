@@ -11,7 +11,7 @@ module.exports = {
   // Translation settings
   translation: {
     batchSize: 50,              // Số entries mỗi batch
-    parallelBatches: 10,        // Số batch chạy song song
+    parallelBatches: 15,        // Số batch chạy song song
     maxRetries: 3,              // Số lần retry trước khi gọi API mới
     retryDelay: 2000,           // Delay giữa các retry (ms)
   },

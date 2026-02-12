@@ -1,0 +1,28 @@
+##Profile##
+【物理】中衛で、味方を鼓舞して戦う、キュートな少女。味方をＴＰや攻撃力をアップさせるスキルでサポートし、自身も強力な範囲攻撃で敵をなぎ払う。=[Vật lý] Một cô gái dễ thương hỗ trợ và cổ vũ đồng đội từ vị trí giữa. Cùng với kỹ năng có thể tăng TP và sức mạnh tấn công cho bạn bè, cô ấy cũng có thể xử lý nhanh kẻ địch bằng các đòn tấn công diện rộng mạnh mẽ.
+
+##UB##
+スマイリング・ブレイブ=Dũng cảm Nụ cười
+前方範囲内の敵すべてに物理大ダメージを与え、さらに味方全体の物理攻撃力と魔法攻撃力を中アップさせる。=Gây Sát thương Vật lý lớn lên tất cả kẻ địch trong phạm vi. Tăng vừa phải Tấn công Vật lý và Ma thuật cho tất cả đồng đội.
+
+##S1##
+レボリューションスマイル=Nụ cười Cách mạng
+味方全体のＴＰを小回復し、さらにＴＰ上昇を小アップさせる。=Hồi một lượng nhỏ TP cho tất cả đồng đội và tăng lượng TP khôi phục của họ một chút.
+## 260lvl
+味方全体のＴＰを小回復し、さらにＴＰ上昇を小アップさせ、さらに物理攻撃力と魔法攻撃力を小アップさせる。=Hồi một lượng nhỏ TP cho tất cả đồng đội và tăng lượng TP khôi phục của họ một chút. Đồng thời, tăng nhẹ Tấn công Vật lý và Ma thuật của họ.
+
+##S2##
+ピンキー・ライブリィ=Sôi nổi Hồng
+自分を中心とした範囲内の敵すべてに物理中ダメージを与える。=Gây Sát thương Vật lý vừa phải lên tất cả kẻ địch trong phạm vi.
+
+##EX##
+笑顔の魔法=Nụ cười Ma thuật
+笑顔の魔法+=Nụ cười Ma thuật+
+
+##S1+##
+レボリューションスマイル+=Nụ cười Cách mạng+
+味方全体のＴＰを小回復し、ＴＰ上昇を小アップさせ、さらに物理攻撃力と魔法攻撃力を大アップさせる。=Hồi một lượng nhỏ TP cho tất cả đồng đội, tăng lượng TP khôi phục của họ một chút, và tăng lớn Tấn công Vật lý và Ma thuật của họ.
+r:"^味方全体のＴＰを(\d+)回復\n味方全体のＴＰ上昇を(\d+)アップ\n味方全体の物理攻撃力を(\d+)アップ\n味方全体の魔法攻撃力を(\d+)アップ$"=►Hồi TP cho tất cả đồng đội $1.\n►Tăng lượng TP khôi phục cho tất cả đồng đội $2.\n►Tăng Tấn công Vật lý cho tất cả đồng đội $3 trong 12s.\n►Tăng Tấn công Ma thuật cho tất cả đồng đội $4 trong 12s.
+
+##UE##
+ステージオブキュート=Sân khấu Dễ thương

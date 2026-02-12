@@ -1,0 +1,29 @@
+##Profile##
+【魔法】後衛でぬいぐるみ達と大冒険に挑むマホ隊員。味方に付与する【ふわふわウール】は被ダメージ時に消費されＴＰを回復し、一気呵成の反撃で活路を切り拓く。=[Ma thuật] Đội Maho thử thách cuộc phiêu lưu lớn với những con thú bông trong RG. [Lông mềm] tặng cho đồng minh sẽ bị tiêu hao khi nhận sát thương, hồi TP, và mở ra lối thoát với một phản đòn một lần.
+
+##UB##
+メルヘンエクスプロール=Nhà thám hiểm Cổ tích
+前方範囲内の敵すべてに魔法大ダメージを与え、味方全体の魔法攻撃力を大アップする。=Gây sát thương ma thuật lớn cho kẻ địch trong phạm vi, và tăng mạnh sức tấn công ma thuật của tất cả đồng minh.
+r:"^範囲内の敵に(\d+)の魔法ダメージ味方全体の魔法攻撃力を(\d+)アップ$"=►Gây $1 sát thương ma thuật cho kẻ địch trong phạm vi 1000.\n►Tăng sức tấn công ma thuật của tất cả đồng minh lên $2 trong 18s.
+
+##S1##
+マホマホユニコーンスタンプ=Dấu ấn Kỳ lân Maho-Maho
+味方全体の魔法攻撃力と魔法クリティカルを大アップさせ、前方範囲内の敵すべてに魔法中ダメージを与える。=Tăng mạnh sức tấn công ma thuật và Tỷ lệ Chí mạng ma thuật của tất cả đồng minh, và gây sát thương ma thuật vừa phải cho kẻ địch trong phạm vi.
+r:"^範囲内の敵に(\d+)の魔法ダメージ味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを100アップ$"=Thời gian niệm: 0.72s\n►Gây $1 sát thương ma thuật cho kẻ địch trong phạm vi 1000.\n►Tăng sức tấn công ma thuật của tất cả đồng minh lên $2 trong 12s.\n►Tăng Tỷ lệ Chí mạng ma thuật của tất cả đồng minh lên 100 trong 12s.
+
+##S2##
+マホマホフェルトエール=Lời cổ vũ Phủ nhung Maho-Maho
+味方全体に【ふわふわウール】を１つ付与し、ＨＰを中回復する。さらに自分のＴＰを中回復する。【ふわふわウール】はダメージを受けるたびに消費され、ＴＰを小回復する。【ふわふわウール】は最大２まで追加される。=Tặng 1 [Lông mềm] cho tất cả đồng minh và hồi HP của họ một lượng vừa phải. Đồng thời, hồi TP của bản thân một lượng vừa phải. [Lông mềm] bị tiêu hao mỗi khi đồng minh nhận sát thương, và hồi một chút TP của họ. Có thể thêm [Lông mềm] lên tối đa 2.
+r:"^ダメージを受けた時、ＴＰを100回復して消失する【ふわふわウール】を味方全体に１つ付与する味方全体のＨＰを(\d+)回復自分のＴＰを250回復$"=Thời gian niệm: 1.00s\n►Tặng 1 [Lông mềm] cho tất cả đồng minh, khi bị sát thương sẽ hồi 100 TP.\n►Hồi HP của tất cả đồng minh lên $1.\n►Hồi TP của bản thân lên 250.
+
+##EX##
+メルヘンハートビート=Fairy-tale Heartbeat
+メルヘンハートビート+=Fairy-tale Heartbeat+
+
+##S1+##
+マホマホユニコーンスタンプ+=Maho-Maho Unicorn Stamp+
+味方全体の魔法攻撃力を特大アップ、魔法クリティカルを大アップさせ、魔法攻撃クリティカル時のダメージを小アップさせる。さらに、前方範囲内の敵すべてに魔法大ダメージを与える。=Tăng rất lớn sát thương phép của tất cả đồng minh, tăng lớn tỷ lệ chí mạng phép của họ, và tăng nhẹ sát thương chí mạng phép của họ. Ngoài ra, gây sát thương phép lớn vượt trội lên kẻ địch trong phạm vi.
+r:"^範囲内の敵に(\d+)の魔法ダメージ味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを120アップ味方全体の魔法攻撃クリティカル時のダメージを5％アップ$"=►Gây $1 sát thương phép lên kẻ địch trong phạm vi 1000.\n►Tăng sát thương phép của tất cả đồng minh lên $2 trong 12s.\n►Tăng tỷ lệ chí mạng phép của tất cả đồng minh lên 120 trong 12s.\n►Tăng sát thương chí mạng phép của tất cả đồng minh lên 5% trong 12s.
+
+##UE##
+マホマホトラベラースーツ=Maho-Maho Traveler Suit

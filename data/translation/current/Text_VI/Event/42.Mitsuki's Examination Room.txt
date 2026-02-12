@@ -1,0 +1,6 @@
+ミツキの診察室　エピソード解放=Phòng Khám Của Mitsuki - Tập Mở Khóa
+麗しのレッスンが解放されました。=Bài học Tuyệt đẹp đã được Mở khóa.
+r:"^オーエド町([0-9\-\(\)\w （）]*)$"=Thị trấn Oedo $1
+ドクターギグル=Bác sĩ Gigle
+
+sr:"^([べ-ヺー＆＝]+)のカルテ　その([１２３])$"=Hồ sơ Y tế Của $1 Phần $2

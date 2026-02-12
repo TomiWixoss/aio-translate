@@ -1,0 +1,19 @@
+マコト累計獲得スコア=Tổng điểm Makoto
+訓練進捗=Tiến Độ Huấn Luyện
+エリコ累計獲得スコア=Điểm Của Eriko Đã Nhận
+プレイ\nキャラ選択=Chọn\nNhân Vật
+
+あいうえおかきくけこ\r\nさしすせそたちつてと=Aiue okakikukekosashisusesotachiteto
+ここからは\n前人未到の領域です！=Từ đây trở đi, là vùng đất chưa được khám phá!
+はっはっは！\n任せろ！=Ha ha ha! Cứ để tôi!
+
+r:"^参加回数 x ([0-9,]+)回 / ([0-9,]+)pt$"=Tổng x$1/$2điểm
+まったくもって不甲斐ない結果です\nしかし、挽回の機会はまだありますわ\n次はゴミ虫の地位から脱却できるよう\n死力を尽くしなさい。いいですね？=Đó là một kết quả hoàn toàn không đủ, nhưng cậu vẫn còn cơ hội để bù đắp. Lần sau, cố gắng thoát khỏi vị trí của một con côn trùng rác rưởi nhé. Được chứ?
+助っ人参加ボーナス=Phần thưởng trợ giúp
+討伐スコア=Điểm chinh phục
+
+エリコ班の最終兵器=Vũ khí tối thượng của nhóm Eriko
+CHALLENGEモードで1度にスコアを50000以上獲得しよう=Đạt được 50.000 điểm trở lên trong chế độ THỬ THÁCH chỉ một lần
+マコトでスコアを累計50000獲得しよう=Đạt được 50.000 điểm từ Makoto
+エリコでスコアを累計50000獲得しよう=Đạt được 50.000 điểm từ Eriko
+

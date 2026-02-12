@@ -1,0 +1,26 @@
+##Profile##
+【魔法】後衛で、パックと共に戦う真夏のハーフエルフ。\n氷壁を生成するスキルや、強力なダメージと速度ダウンを\n付与するユニオンバーストで、敵の侵攻を食い止める。=[Ma Thuật] Một tiên nữ bán người ưa mặc váy ngắn chiến đấu cùng Puck từ hàng sau. Cô có thể ngăn chặn địch tiến lên với kỹ năng tạo tường băng và Union Burst gây sát thương mạnh và làm chậm địch.
+
+##UB##
+氷結の海原=Đại Dương Đóng Băng
+前から３番目の敵１キャラを中心とした範囲内の敵すべてに魔法大ダメージを与え、行動速度を大ダウンさせる。=Gây sát thương ma thuật lớn cho địch trong phạm vi 200 của kẻ địch thứ 3 phía trước, và giảm tốc độ của chúng (xuống 50%) trong 18s.
+
+##S1##
+氷壁の護り=Bảo Vệ Tường Băng
+【召喚】前から３番目の敵の後ろに氷の壁を生成し、味方全体に物理/魔法無効バリアを展開する。氷の壁は一定時間後に消滅する。=[Triệu Hồi] Tạo một Tường Băng phía sau kẻ địch thứ 3 phía trước, đặt Barrier chống lại sát thương vật lý/ma thuật cho tất cả đồng đội. Tường Băng biến mất sau một khoảng thời gian.
+r:"^氷の壁を生成する(\d+)ダメージ分の物理魔法無効バリアを展開する$"=►Triệu Hồi Tường Băng.\n►Đặt Barrier chống lại $1 sát thương vật lý/ma thuật cho tất cả đồng đội trong 12s.
+
+##S2##
+精霊の導き=Sự Dẫn Lối Linh Hồn
+前から３番目の敵１キャラを中心とした範囲内の敵すべてに魔法大ダメージを与え、味方全体のＨＰを小回復する。=Gây sát thương ma thuật lớn cho địch trong phạm vi 200 của kẻ địch thứ 3 phía trước, và hồi máu nhẹ cho tất cả đồng đội.
+
+##EX##
+大精霊とのばかんす=Kỳ Nghỉ Cùng Linh Hồn Vĩ Đại
+大精霊とのばかんす+=Kỳ Nghỉ Cùng Linh Hồn Vĩ Đại+
+
+
+##S1+##
+氷壁の護り+=Bảo Vệ Tường Băng+
+【召喚】前から３番目の敵の後ろに氷の壁を生成し、その敵を中心とした範囲内の敵すべてを凍結させる。さらに味方全体の物理防御力と魔法防御力を中アップさせ、物理/魔法無効バリアを展開する。氷の壁は一定時間後に消滅する。=[Triệu Hồi] Tạo một tường băng phía sau kẻ địch thứ 3 từ phía trước, và làm đông cứng tất cả kẻ địch trong phạm vi xung quanh kẻ địch đó. Hơn nữa, tăng vừa phải P.DEF và M.DEF cho tất cả đồng đội, và đặt Barrier chống lại sát thương vật lý/ma thuật. Tường băng biến mất sau một thời gian.
+
+r:"^氷の壁を生成する範囲内の敵を一定時間行動不能にする味方全体の物理防御力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ(\d+)ダメージ分の物理魔法無効バリアを展開する$"=►Tạo [Tường Băng].\n►Gây choáng cho kẻ địch trong phạm vi.\n►Tăng P.DEF của tất cả đồng đội $1.\n►Tăng M.DEF của tất cả đồng đội $2.\n►Đặt Barrier hấp thụ $3 sát thương vật lý/ma thuật.

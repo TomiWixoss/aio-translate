@@ -1,0 +1,40 @@
+三味線、死魔エナガのお世話=Shamisen, hãy chăm sóc Chim Khác Họa Đuôi Dài
+雪女=Yuki-onna
+ポップ・タルト=Bánh tart
+ジオ・ニヴルヘル_久遠氷河=Gio Nivlhel: Sông Băng Vĩnh Cửu
+真白き冬化粧を纏う、一途な心の雪女=Một yuki-onna trung thành khoác lên mình lớp trang điểm mùa đông thuần khiết.
+
+雪女の慟哭=Lời Than Thở Của Yuki-onna
+純朴雪女、初めての都会へ=Yuki-onna vô tội lần đầu tiên xuống phố
+はじめておけいこ=Bài học đầu tiên
+雪女、ラブラブ夫婦になる=Yuki-onna và người thân yêu trở thành một cặp đôi yêu nhau
+
+##Profile##
+【魔法】後衛から、雪魄氷姿の三味を弾じる初心な雪女。多様なデバフ効果で敵を弱体化させ、最も魔防の低い敵の状態に応じて発生する追加効果で、冥府を真白に染める。=[Phép thuật] Một yuki-onna thuần khiết, vô tội ở hàng sau, chơi shamisen với vẻ đẹp băng giá nguyên sơ. Cô làm yếu kẻ thù với nhiều loại debuff khác nhau, và tùy điều kiện của kẻ thù có M.DEF thấp nhất, kích hoạt hiệu ứng bổ sung khiến địa ngục trở nên trắng tuyết.
+
+##UB##
+涅槃雪・勧進帳=Tuyết Niết Bàn: Sự Lừa Dối Thánh Thiện
+前方の敵すべてに魔法大ダメージを与え、魔法防御力を小ダウンさせる。発動時既に最も魔法防御力の低い敵１キャラが魔法攻撃力ダウン状態だった場合、その敵のクリティカルを受けた際のダメージを小アップさせる。発動時既に最も魔法防御力の低い敵１キャラがＴＰ上昇ダウン状態だった場合、その敵に追加の魔法特大ダメージを与え、魔法攻撃を受けた際のダメージを小アップさせる。このスキルを使用するたび、最大３回までダメージが増加する。=Gây sát thương phép thuật lớn lên tất cả kẻ thù phía trước và giảm nhẹ M.DEF của chúng. Nếu khi kích hoạt, kẻ thù có M.DEF thấp nhất đã chịu hiệu ứng giảm M.ATK, tăng nhẹ sát thương mà kẻ thù đó nhận khi bị chí mạng. Nếu khi kích hoạt, kẻ thù có M.DEF thấp nhất đã chịu hiệu ứng giảm TP Boost, gây thêm sát thương phép thuật khổng lồ lên kẻ thù đó và tăng nhẹ sát thương phép thuật mà chúng nhận. Mỗi lần kỹ năng này được dùng, sát thương tăng lên, tối đa 3 lần.
+
+r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の魔法防御力を(\d+)ダウン最も魔法防御力の低い敵が魔法攻撃力ダウン状態の時、敵単体の被クリダメを6％アップ最も魔法防御力の低い敵がＴＰ上昇ダウン状態の時、以下の効果が発動する敵単体に(\d+)の魔法ダメージ敵単体が受ける魔法ダメージを3％アップ$"=►Gây $1 M.DMG lên kẻ thù trong phạm vi.\n►Giảm M.DEF của kẻ thù trong phạm vi xuống $2.\n\nNếu kẻ thù có M.DEF thấp nhất có M.ATK Down:\n►Tăng sát thương chí mạng mà một kẻ thù nhận lên 6％.\n\nNếu kẻ thù có M.DEF thấp nhất có TP Boost Down:\n►Gây $3 M.DMG lên một kẻ thù.\n►Tăng M.DMG mà một kẻ thù nhận lên 3％.
+
+
+##S1##
+すくたれ・霜枯=Sukutare: Sương Giá Tàn Lụi
+前方の敵すべてに魔法中ダメージを与え、魔法防御力を小ダウンさせる。発動時既に最も魔法防御力の低い敵１キャラが魔法防御力ダウン状態だった場合、その敵の魔法攻撃力を大ダウンさせる。発動時既に最も魔法防御力の低い敵１キャラが魔法攻撃力ダウン状態だった場合、その敵に追加の魔法大ダメージを与え、ＴＰ上昇を小ダウンさせ、さらに味方全体のＨＰを小回復させる。=Gây sát thương phép thuật trung bình lên tất cả kẻ thù phía trước và giảm nhẹ M.DEF của chúng. Nếu khi kích hoạt, kẻ thù có M.DEF thấp nhất đã chịu hiệu ứng giảm M.DEF, giảm mạnh M.ATK của kẻ thù đó. Nếu khi kích hoạt, kẻ thù có M.DEF thấp nhất đã chịu hiệu ứng giảm M.ATK, gây thêm sát thương phép thuật lớn lên kẻ thù đó, giảm nhẹ TP Boost của chúng và hồi phục nhẹ HP cho tất cả đồng minh.
+
+r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の魔法防御力を(\d+)ダウン最も魔法防御力の低い敵が魔法防御力ダウン状態の時、敵単体の魔法攻撃力を(\d+)ダウン最も魔法防御力の低い敵が魔法攻撃力ダウン状態の時、以下の効果が発動する敵単体に(\d+)の魔法ダメージ敵単体のＴＰ上昇を(\d+)ダウン味方全体のＨＰを(\d+)回復$"=►Gây $1 M.DMG lên kẻ thù trong phạm vi.\n►Giảm M.DEF của kẻ thù trong phạm vi xuống $2.\n\nNếu kẻ thù có M.DEF thấp nhất có M.DEF Down:\n►Giảm M.ATK của một kẻ thù xuống $3.\n\nNếu kẻ thù có M.DEF thấp nhất có M.ATK Down:\n►Gây $4 M.DMG lên một kẻ thù.\n►Giảm TP Boost của một kẻ thù xuống $5.\n►Hồi HP cho tất cả đồng minh lên $6.
+
+
+##S2##
+早雪・河東節=Tuyết đầu mùa: Khúc Ca
+味方全体の魔法攻撃力を特大アップ、魔法クリティカルを大アップ、魔法攻撃クリティカル時のダメージを小アップさせ、さらに、敵全体の行動速度を大ダウン、移動速度を小ダウンさせる。発動時既に最も魔法防御力の低い敵１キャラがＴＰ上昇ダウン状態だった場合、敵全体に魔法大ダメージを与え、ＴＰを中ダウンさせる。=Tăng mạnh M.ATK cho tất cả đồng minh, tăng rất mạnh M.CRIT RATE và tăng nhẹ M.CRIT DMG. Ngoài ra, giảm mạnh tốc độ hành động của tất cả kẻ thù và giảm nhẹ tốc độ di chuyển của chúng. Nếu khi kích hoạt, kẻ thù có M.DEF thấp nhất đã chịu hiệu ứng giảm TP Boost, gây sát thương phép thuật lớn lên tất cả kẻ thù và giảm trung bình TP của chúng.
+
+r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを120アップ味方全体の魔法クリダメを8％アップ敵全体の行動速度50％ダウン敵全体の移動速度を一定時間低下させる最も魔法防御力の低い敵がＴＰ上昇ダウン状態の時、以下の効果が発動する敵全体に(\d+)の魔法ダメージ敵全体のＴＰを150失わせる$"=►Tăng M.ATK của đồng minh lên $1.\n►Tăng M.CRIT RATE của đồng minh lên 120.\n►Tăng M.CRIT DMG của đồng minh lên 8％.\n►Giảm tốc độ hành động của tất cả kẻ thù xuống 50％.\n►Giảm tốc độ di chuyển của tất cả kẻ thù trong một khoảng thời gian.\n\nNếu kẻ thù có M.DEF thấp nhất có TP Boost Down:\n►Gây $2 M.DMG lên tất cả kẻ thù.\n►Giảm TP của tất cả kẻ thù xuống 150.
+
+
+r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを120アップ味方全体の魔法クリダメを8％アップ敵全体の行動速度を一定時間低下させる敵全体の移動速度を一定時間低下させる最も魔法防御力の低い敵がＴＰ上昇ダウン状態の時、以下の効果が発動する敵全体に(\d+)の魔法ダメージ敵全体のＴＰを150失わせる$"=►Tăng M.ATK của đồng minh lên $1.\n►Tăng M.CRIT RATE của đồng minh lên 120.\n►Tăng M.CRIT DMG của đồng minh lên 8％.\n►Giảm tốc độ hành động của tất cả kẻ thù trong một khoảng thời gian.\n►Giảm tốc độ di chuyển của tất cả kẻ thù trong một khoảng thời gian.\n\nNếu kẻ thù có M.DEF thấp nhất có TP Boost Down:\n►Gây $2 M.DMG lên tất cả kẻ thù.\n►Giảm TP của tất cả kẻ thù xuống 150.
+
+##EX##
+幽天・月冴え=Trời U ám: Trăng Trong
+幽天・月冴え+=Trời U ám: Trăng Trong+

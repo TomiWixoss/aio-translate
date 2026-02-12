@@ -1,0 +1,23 @@
+##Profile##
+【物理】前衛で、宙を舞うように戦う幽霊の守護騎士。ＵＢで味方の攻撃と速度支援を行い、【レイスボディ】で敵の目を逃れ、不意を突く一撃で永遠の眠りにつかせる。=[Vật lý] Một kiếm sĩ ma quỷ chiến đấu ở tuyến trước như đang nhảy múa trên không trung. UB của cô tăng cường tấn công và tốc độ cho đồng đội, và cô sử dụng khả năng [Thân xác Ma quỷ] để thoát khỏi mắt kẻ thù, tấn công ở nơi chúng ít ngờ nhất, và gửi chúng vào giấc ngủ vĩnh cửu.
+富田美憂=Tomita Miyuu
+水墨画=Tranh mực
+
+##UB##
+グレイテスト・スラスト=Đòn Thrust Tối thượng
+目の前の敵１キャラに物理特大ダメージを与え、自分を中心とした範囲内の味方すべての物理攻撃力を特大アップさせ、行動速度を大アップさせる。さらに、自分に【レイスボディ】を３つ付与する。【レイスボディ】が付与されている間は敵からの攻撃の対象にならない。【レイスボディ】は最大３つまで追加される。=Gây lượng lớn sát thương vật lý lên kẻ thù phía trước, và tăng cường mạnh mẽ Tấn công vật lý của đồng đội trong phạm vi và tăng cường mạnh mẽ tốc độ hành động của họ. Ngoài ra còn tặng 3 ngăn [Thân xác Ma quỷ] cho bản thân, tối đa là 3. Trong khi Grace có ngăn [Thân xác Ma quỷ] có hiệu lực, cô không thể bị kẻ thù nhắm đến.
+r:"^敵単体に(\d+)の物理ダメージ範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の行動速度アップ自分にレイスボディを３つ付与する$"=►Gây $1 sát thương vật lý lên một kẻ thù.\n►Tăng Tấn công vật lý của đồng đội trong phạm vi $2 trong 18s.\n►Tăng tốc độ hành động của đồng đội trong phạm vi lên 200% trong 18s.\n►Nhận 3 ngăn [Thân xác Ma quỷ].
+
+##S1##
+レイスドロップ=Wraith Drop
+目の前の敵１キャラに物理大ダメージを与え、自分を中心とした範囲内の味方すべての物理攻撃力を特大アップ、物理クリティカルを大アップさせる。自分に【レイスボディ】が付与されている場合、【レイスボディ】を１つ消費し、追加で目の前の敵１キャラに物理防御力を一定値無視する物理大ダメージを与える。=Gây lượng lớn sát thương vật lý lên kẻ thù phía trước, và tăng cường mạnh mẽ Tấn công vật lý và Tỷ lệ phán đoán vật lý của đồng đội trong phạm vi. Nếu Grace có ngăn [Thân xác Ma quỷ] có hiệu lực, tiêu thụ 1 ngăn [Thân xác Ma quỷ] và gây thêm một lần lượng lớn sát thương vật lý lên kẻ thù phía trước bỏ qua một lượng nhất định Sát thương vật lý của chúng.
+r:"^敵単体に(\d+)の物理ダメージ範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理クリティカルを150アップレイスボディを１つ消費する敵単体に物理防御力を50無視する(\d+)の物理ダメージ$"=►Gây $1 sát thương vật lý lên một kẻ thù.\n►Tăng Tấn công vật lý của đồng đội trong phạm vi $2 trong 12s.\n►Tăng Tỷ lệ phán đoán vật lý của đồng đội trong phạm vi 150 trong 12s.\n\nNếu Grace có 1+ ngăn [Thân xác Ma quỷ]:\n►Gây $3 sát thương vật lý lên một kẻ thù, bỏ qua 50 Sát thương vật lý của chúng.\n►Tiêu thụ 1 ngăn [Thân xác Ma quỷ].
+
+##S2##
+ファントム大車輪=Phantom Wheel
+自分の物理攻撃力を大アップ、ＴＰを特大回復し、自分以外の味方全体のＴＰを中回復させる。自分に【レイスボディ】が付与されている場合、【レイスボディ】をすべて消費し、消費した【レイスボディ】の数に応じて物理攻撃力の上昇量がアップする。=Tăng cường mạnh mẽ Tấn công vật lý của bản thân và hồi phục TP của bản thân rất nhiều, và hồi phục TP trung bình cho tất cả đồng đội khác. Nếu Grace có ngăn [Thân xác Ma quỷ] có hiệu lực, tiêu thụ tất cả ngăn [Thân xác Ma quỷ] và tăng mức tăng Tấn công vật lý theo số ngăn [Thân xác Ma quỷ] đã tiêu thụ.
+r:"^自分のＴＰを725回復自分以外の味方全体のＴＰを150回復レイスボディを全て消費する自分の物理攻撃力を(\d+)アップ$"=►Hồi TP của bản thân 725.\n►Hồi TP của tất cả đồng đội khác 150.\n►Tăng Tấn công vật lý của bản thân $1 trong 12s.\n►Tiêu thụ tất cả ngăn [Thân xác Ma quỷ].
+
+##EX##
+丑三つ時オーラ=Midnight Aura
+丑三つ時オーラ+=Midnight Aura+

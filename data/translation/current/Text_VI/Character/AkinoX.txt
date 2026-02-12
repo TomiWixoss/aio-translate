@@ -1,0 +1,41 @@
+##Profile##
+【物理】前衛で味方のサポートを力に戦う、聖夜の令嬢。ステータスアップ効果を受けると増加する【聖夜の煌き】でスキルを大きく強化し、聖夜を彩る強烈な一撃を放つ。=[Vật Lý] Một nàng tiệc tùng chiến đấu ở tuyến đầu với sự hỗ trợ của đồng đội. Cô ấy có thể tăng cường kỹ năng bằng [Christmas Sparkles] - thứ thu được khi nhận hiệu ứng tăng trạng thái. Với sức mạnh đó, cô ấy có thể tung một đòn đánh mạnh mẽ rực rỡ trong ngày Giáng Sinh tuyệt vời này.
+
+##UB##
+ノーブルイルミネーション=Noble Illumination
+目の前の敵１キャラに物理大ダメージを与える。このスキルのダメージは、【聖夜の煌き】の数に応じて増加する。=Gây ra sát thương vật lý khổng lồ cho kẻ địch phía trước. Sát thương của kỹ năng này tăng lên tùy theo số lớp [Christmas Sparkle].
+
+##S1##
+ホーリープライズ=Holy Prize
+自分がステータスアップ効果を受ける度に、【聖夜の煌き】が１つ追加される。【聖夜の煌き】は最大25まで追加される。さらに自分の物理攻撃力と物理クリティカルを大アップさせる。あわせてＴＰ上昇を小アップさせる。=Mỗi lần người dùng nhận được hiệu ứng tăng trạng thái, tặng 1 lớp [Christmas Sparkle] cho bản thân, tối đa 25 lớp. Tăng cường rất lớn P.ATK và Tỷ lệ Chí Mạng của bản thân. Đồng thời, tăng nhẹ TP Boost của bản thân.
+r:"^ステータスアップ効果を受けるたびに聖夜の煌きを付与する状態になる自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを(\d+)アップ自分のＴＰ上昇を(\d+)アップ$"=Thời gian niệm: 0.4s ►Nhận 1 [Christmas Sparkle] mỗi khi có hiệu ứng tăng trạng thái. ►Tăng P.ATK $1 và Tỷ lệ Chí Mạng $2 của bản thân trong 30s. ►Tăng TP Boost $5 của bản thân trong 30s.
+
+##S2##
+ブリリアントスラッシュ=Brilliant Slash
+目の前の敵１キャラに物理小ダメージを与える。このスキルのダメージは、【聖夜の煌き】の数に応じて増加する。=Gây sát thương vật lý nhỏ cho kẻ địch phía trước. Sát thương tăng dựa trên số lớp [Christmas Sparkle].
+
+##EX##
+セイント・オブリージュ=Saint Oblige
+セイント・オブリージュ+=Saint Oblige+
+
+##S1+##
+ホーリープライズ+=Holy Prize+
+自分がステータスアップ効果を受ける度に、【聖夜の煌き】が１つ追加される。【聖夜の煌き】は最大50まで追加される。さらに自分の物理攻撃力と物理クリティカルを大アップさせ、味方全体の物理攻撃力と物理クリティカルを大アップさせる。あわせて自分のＴＰ上昇を小アップさせる。=Mỗi lần người dùng nhận được hiệu ứng tăng trạng thái, tặng 1 lớp [Christmas Sparkle] cho bản thân, tối đa 50 lớp. Tăng cường rất lớn P.ATK và Tỷ lệ Chí Mạng của bản thân, và tăng cường rất lớn P.ATK, Tỷ lệ Chí Mạng của đồng đội. Đồng thời, tăng nhẹ TP Boost của bản thân.
+r:"^ステータスアップ効果を受けるたびに聖夜の煌きを付与する状態になる自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを(\d+)アップ味方全体の物理攻撃力を(\d+)アップ味方全体の物理クリティカルを(\d+)アップ自分のＴＰ上昇を(\d+)アップ$"=Thời gian niệm: 0.4s ►Nhận 1 [Christmas Sparkle] mỗi khi có hiệu ứng tăng trạng thái. ►Tăng P.ATK $1 và Tỷ lệ Chí Mạng $2 của bản thân trong 180s. ►Tăng P.ATK $3 và Tỷ lệ Chí Mạng $4 của đồng đội trong 180s. ►Tăng TP Boost $5 của bản thân trong 180s.
+
+##UE##
+ウィスタリアノエルドレス=Wisteria Noel Dress
+
+
+##UE2##
+ウィスタリアノエルターキー=Wisteria Christmas Turkey
+ブリリアントスラッシュ+=Brilliant Slash+
+【聖夜の煌き】を10消費するが、目の前の敵１キャラに物理特大ダメージを２回与え、自分の物理攻撃力を大アップし、ＴＰを特大回復する。このスキルの発動後、【聖夜の煌き】が20以下の場合、行動パターン変化を解除する。このスキルのスキルレベルは「ブリリアントスラッシュ」と連動しています=Tiêu hao 10 [Christmas Sparkle] để gây sát thương vật lý khổng lồ 2 lần cho 1 kẻ địch phía trước, tăng cường rất lớn P.ATK của bản thân và hồi phục rất nhiều TP. Sau khi kích hoạt, hủy thay đổi mẫu hành động nếu [Christmas Sparkle] ≤ 20. Cấp độ kỹ năng này liên kết với "Brilliant Slash."
+目の前の敵１キャラに物理小ダメージを与える。このスキルのダメージは、【聖夜の煌き】の数に応じて増加する。【聖夜の煌き】が50の場合、行動パターンが変化する。=Gây sát thương vật lý nhỏ cho 1 kẻ địch phía trước. Sát thương kỹ năng này tăng dựa trên số lớp [Christmas Sparkle]. Mẫu hành động thay đổi khi [Christmas Sparkle] đạt 50.
+パターン変化中=Trong Thời Gian Thay Đổi Mẫu Hành Động
+専用装備２を装備すると、行動パターン変化が発生するようになります。=Trang bị Trang Bị Chuyên Dùng 2 sẽ kích hoạt khả năng thay đổi mẫu hành động.
+【聖夜の煌き】を10消費するが、目の前の敵１キャラに物理特大ダメージを２回与え、自分の物理攻撃力を大アップし、ＴＰを特大回復する。このスキルの発動後、【聖夜の煌き】が20以下の場合、行動パターン変化を解除する。=Tiêu hao 10 [Christmas Sparkle] để gây sát thương vật lý khổng lồ 2 lần cho 1 kẻ địch phía trước, tăng cường rất lớn P.ATK của bản thân và hồi phục rất nhiều TP. Sau khi kích hoạt, hủy thay đổi mẫu hành động nếu [Christmas Sparkle] ≤ 20.
+
+r:"^聖夜の煌きを10消費する敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップ自分のＴＰを1000回復$"=►Tiêu hao 10 [Holy Night's Radiance]. ►Gây $1 sát thương vật lý cho một kẻ địch. ►Gây $2 sát thương vật lý cho một kẻ địch. ►Tăng P.ATK của bản thân $3. ►Hồi phục TP của bản thân 1000.
+
+

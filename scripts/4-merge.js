@@ -28,10 +28,22 @@ function mergeTranslations(enFile, viOldFile, viNewFile, outputFile, enOldFile =
     console.error(`❌ File không tồn tại: ${enFile}`);
     return;
   }
+  
+  // Tạo file VI cũ rỗng nếu chưa có (lần đầu dịch)
   if (!fs.existsSync(viOldFile)) {
-    console.error(`❌ File không tồn tại: ${viOldFile}`);
-    return;
+    console.log(`⚠️  File VI cũ chưa tồn tại, tạo file rỗng: ${viOldFile}`);
+    const emptyXml = '<?xml version="1.0" encoding="UTF-8" standalone="yes"?>\n<STBLKeyStringList>\n</STBLKeyStringList>';
+    
+    // Tạo thư mục nếu chưa có
+    const dir = path.dirname(viOldFile);
+    if (!fs.existsSync(dir)) {
+      fs.mkdirSync(dir, { recursive: true });
+    }
+    
+    fs.writeFileSync(viOldFile, emptyXml, 'utf8');
+    console.log(`✅ Đã tạo file rỗng`);
   }
+  
   if (!fs.existsSync(viNewFile)) {
     console.error(`❌ File không tồn tại: ${viNewFile}`);
     return;

@@ -1,0 +1,32 @@
+##Profile##
+【物理】前衛で、ピンチをチャンスに変える愛の壊し屋。\nスキルはＨＰを消費し、自身の攻撃力を高める。また、\nユニオンバーストはＨＰが低いほど超絶威力を発揮する。=[Vật lý] Kẻ Phá Hại tiến lên tiền tuyến để giật lấy cơ hội từ nanh tay của tuyệt vọng trong tên yêu. Kỹ năng của cô hút máu của chính mình để tăng sức mạnh tấn công, và Union Burst của cô sở hữu lực lượng khủng khiếp khi máu của cô thấp.
+
+##UB##
+ラブパニッシュメント=Hình Phạt Tình Yêu
+目の前の敵１キャラに物理特大ダメージを与える。エリコのＨＰが低いほど、ダメージがアップする。=Gây sát thương vật lý lớn cho kẻ địch phía trước trực tiếp. Sát thương tăng khi máu của Eriko càng thấp.
+
+##S1##
+ヘヴィミキシング=Pha Chế Nặng Nề
+目の前の敵１キャラに物理中ダメージを与える。エリコのＨＰが低いほど、ダメージがアップする。=Gây sát thương vật lý vừa phải cho kẻ địch phía trước trực tiếp. Sát thương tăng khi máu của Eriko càng thấp.
+
+##S2##
+スウィートサクリファイス=Hy Sinh Ngọt Ngào
+自分のＨＰを消費し、物理攻撃力を中アップさせる。エリコのＨＰが低いほど、効果がアップする。=Tăng sức mạnh tấn công vật lý của bản thân một lượng vừa phải với cái giá là máu. Buff tăng khi máu của Eriko càng thấp.
+r:"^自分のＨＰを(\d+)消費自分の物理攻撃力を(\d+)アップ$"=►Giảm máu của bản thân lên $1.\n►Tăng sức mạnh tấn công vật lý của bản thân lên $2 trong 12s.
+
+##EX##
+ディープスピリット=Tinh Thần Sâu Sắc
+ディープスピリット+=Deep Spirit+
+
+##S1+##
+ヘヴィミキシング+=Heavy Mixing+
+目の前の敵１キャラに物理大ダメージを与える。エリコのＨＰが低いほど、ダメージがアップする。このスキルがクリティカルした場合のダメージは、２倍ではなく４倍になる。=Gây sát thương Vật Lý vừa phải cho kẻ địch đứng trước mặt. Sát thương tăng lên khi HP của Eriko càng thấp.\nKhi đánh chí mạng, sát thương là x4 thay vì x2.
+
+##S2+##
+スウィートサクリファイス+=Sweet Sacrifice+
+自分の残りＨＰの50％を消費し、一定時間無敵状態になり、物理攻撃力と物理クリティカルを特大アップ、物理攻撃クリティカル時のダメージを中アップする。さらに自分のＴＰを大回復する。エリコのＨＰが低いほど、物理攻撃力と物理クリティカルと物理攻撃クリティカル時のダメージアップの効果量が上昇する。=Giảm HP của bản thân xuống còn 50% HP còn lại, trở nên bất khả xâm phạm trong một khoảng thời gian. Tăng Vật Lực Tấn Công và Tỷ Lệ Chí Mạng Vật Lý một lượng lớn, tăng Sát Thương Chí Mạng Vật Lý một lượng vừa phải. HP của Eriko càng thấp thì các hiệu ứng trên càng mạnh. Ngoài ra, phục hồi TP của bản thân một lượng lớn.
+r:"^自分の残りＨＰの50%を消費一定時間無敵状態になる自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを(\d+)アップ自分の物理攻撃クリティカル時のダメージを25％アップ自分のＴＰを(\d+)回復$"=►Tiêu thụ 50% HP còn lại của bản thân.\n►Miễn nhiễm với mọi sát thương trong 6s.\n►Tăng Vật Lực Tấn Công của bản thân lên $1.\n►Tăng Tỷ Lệ Chí Mạng Vật Lý của bản thân lên $2.\n►Tăng Sát Thương Chí Mạng Vật Lý của bản thân lên 25%.\n►Phục hồi TP của bản thân lên $3.
+
+##UE##
+デストロイホイッパー=Whisk of Destruction
+クレイジーラブ=Crazy Love

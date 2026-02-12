@@ -1,0 +1,32 @@
+##Profile##
+【魔法】中衛で、魔法攻撃をお見舞いする双子の妹天使。効果時間が短い分、絶大な効果の強化魔法で自身の攻撃力を大きく高め、威力抜群の単体魔法で敵を一掃する。=[Phép] Một thiên thần song sinh, chuyên gây sát thương phép ở vị trí giữa. Vì thời gian hiệu lực ngắn, phép tăng cường mạnh mẽ của cô ấy làm tăng đáng kể sức tấn công của bản thân, và cô ấy quét sạch kẻ địch bằng phép đơn cực mạnh.
+
+##UB##
+ヘブンリーキス=Nụ Hôn Thiên Đường
+
+##S1##
+エンジェルチャージ=Tăng Cường Thiên Thần
+自分の魔法攻撃力と魔法クリティカルを短時間特大アップさせ、さらに魔法攻撃クリティカル時のダメージを短時間中アップさせる。=Tăng mạnh M.ATK và Tỷ lệ Chí Mạng M. của bản thân trong thời gian ngắn, và tăng mạnh Sát Thương Chí Mạng M. của bản thân một chút trong thời gian ngắn.
+r:"^自分の魔法攻撃力を(\d+)アップ自分の魔法クリティカルを(\d+)アップ自分の魔法攻撃クリティカル時のダメージを24％アップ$"=►Tăng M.ATK của bản thân lên $1 trong 6s.\n►Tăng Tỷ lệ Chí Mạng M. của bản thân lên $1 trong 6s.\n►Tăng Sát Thương Chí Mạng M. của bản thân lên 24% trong 6s.
+
+##S2##
+エンジェルシュート=Bắn Thiên Thần
+目の前の敵１キャラに魔法中ダメージを与える。このスキルがクリティカルした場合のダメージは、２倍ではなく３倍になる。=Gây sát thương phép vừa phải cho kẻ địch phía trước. Nếu kỹ năng này đánh trúng chí mạng, sát thương sẽ tăng lên gấp 3.
+
+##EX##
+甘々エンジェルハート=Trái Tim Thiên Thần Ngọt Ngào
+甘々エンジェルハート+=Trái Tim Thiên Thần Ngọt Ngào+
+
+##S1+##
+エンジェルチャージ+=Tăng Cường Thiên Thần+
+自分の魔法攻撃力と魔法クリティカルを短時間特大アップ、魔法攻撃クリティカル時のダメージを短時間中アップさせ、さらに自分のＴＰを中回復させる。=Tăng mạnh M.ATK và Tỷ lệ Chí Mạng M. của bản thân trong thời gian ngắn, và tăng mạnh Sát Thương Chí Mạng M. của bản thân một chút trong thời gian ngắn. Ngoài ra, hồi một lượng TP vừa phải cho bản thân.
+r:"^自分の魔法攻撃力を(\d+)アップ自分の魔法クリティカルを(\d+)アップ自分の魔法攻撃クリティカル時のダメージを24％アップ自分のＴＰを(\d+)回復$"=►Tăng M.ATK của bản thân lên $1 trong 6s.\n►Tăng Tỷ lệ Chí Mạng M. của bản thân lên $1 trong 6s.\n►Tăng Sát Thương Chí Mạng M. của bản thân lên 24% trong 6s.\n►Hồi TP của bản thân lên $3.
+
+##UE##
+ハッピーエンジェルボウ=Cung Thiên Thần Hạnh Phúc
+
+##UE2##
+エンジェリックラブドレス=Váy Tình Yêu Thiên Thần
+エンジェルシュート+=Bắn Thiên Thần+
+自分の魔法攻撃力を短時間特大アップし、目の前の敵１キャラに魔法大ダメージを３回与える。このスキルがクリティカルした場合のダメージは、２倍ではなく３倍になる。このスキルの初回使用後、行動パターンが変化する。=Tăng mạnh M.ATK của bản thân trong thời gian ngắn và gây sát thương phép lớn 3 lần cho 1 kẻ địch phía trước. Nếu kỹ năng này chí mạng, sát thương sẽ thành gấp 3 thay vì gấp 2. Mẫu hành động thay đổi sau lần dùng đầu tiên của kỹ năng này.
+r:"^自分の魔法攻撃力を(\d+)アップ敵単体に(\d+)の魔法ダメージ敵単体に(\d+)の魔法ダメージ敵単体に(\d+)の魔法ダメージ$"=►Tăng M.ATK của bản thân lên $1.\n►Gây $2 sát thương phép cho một kẻ địch.\n►Gây $3 sát thương phép cho một kẻ địch.\n►Gây $4 sát thương phép cho một kẻ địch.

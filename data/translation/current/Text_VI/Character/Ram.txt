@@ -1,0 +1,35 @@
+##Profile##
+毒舌系鬼姉メイド=Nàng hầu gái song sinh lớn tuổi với lưỡi đanh như dao
+村川梨衣=Rii Murakawa
+【魔法】中衛で、特殊能力で味方を補助する、双子の姉。相手の物理攻撃を見切って回避させる「千里眼」や、敵全体を束縛するユニオンバーストの補助は効果絶大。=[Ma thuật] Người chị song sinh lớn tuổi hỗ trợ đồng đội với khả năng đặc biệt từ vị trí hậu phương. Khả năng Tiên tri của cô ấy cho phép xác định và vô hiệu hóa đòn tấn công vật lý, trong khi UB của cô ấy có hiệu ứng mạnh mẽ là trói toàn bộ kẻ địch.
+
+##UB##
+ラムの邪魔をしないで=Tránh Ra
+敵全体に魔法中ダメージを与え、さらに束縛する。=Gây sát thương phép trung bình cho tất cả kẻ thù và gây hiệu ứng Trói (4s).
+r:"^敵全体に(\d+)の魔法ダメージ敵全体を一定時間行動不能にする$"=►Gây $1 sát thương phép cho tất cả kẻ thù.\n►Làm kẻ thù trong phạm vi bất động trong một khoảng thời gian.
+
+##S1##
+フーラ=Fura
+目の前の敵１キャラが行動不能状態だった場合魔法大ダメージを与えて大きく吹き飛ばし、そうでない場合魔法中ダメージを与えて小さく吹き飛ばす。=Nếu kẻ thù ngay trước mặt không thể di chuyển, gây sát thương phép lớn và đẩy lùi xa. Nếu không, gây sát thương phép trung bình và đẩy lùi gần.
+r:"^敵単体に、行動不能の時(\d+)の魔法ダメージ敵単体に、行動不能でない時(\d+)の魔法ダメージ$"=►Gây $1 sát thương phép cho kẻ thù nếu chúng bất động.\n►Gây $1 sát thương phép cho kẻ thù nếu chúng không bất động.
+
+##S2##
+千里眼=Clairvoyance
+最も物理攻撃力が高い敵１キャラを、次に使う物理攻撃が必ず回避される状態にする。=Gây một trạng thái đặc biệt lên kẻ thù có Sát Thương Vật Lý (P.ATK) cao nhất, khiến đòn tấn công vật lý tiếp theo của chúng bị trượt.
+r:"^敵単体に次の物理攻撃が確定で回避される状態を付与する$"=►Gây một trạng thái lên kẻ thù khiến đòn tấn công vật lý tiếp theo của chúng bị trượt.
+
+##EX##
+傲岸不遜=Pure Arrogance
+傲岸不遜+=Pure Arrogance+
+
+##UB+##
+死にたくなりなさい=Please Die Already
+敵全体に魔法中ダメージを与え、大きく吹き飛ばし、さらに長時間束縛する。=Gây sát thương phép trung bình cho tất cả kẻ thù, gây hiệu ứng Trói (5s) và đẩy lùi mạnh.
+
+##S1+##
+フーラ+=Fura+
+目の前の敵１キャラが行動不能状態だった場合魔法特大ダメージを与えて大きく吹き飛ばし、そうでない場合魔法大ダメージを与えて小さく吹き飛ばす。=Nếu kẻ thù ngay phía trước không thể di chuyển, gây sát thương phép cực lớn và đẩy lùi xa. Nếu không, gây sát thương phép trung bình và đẩy lùi gần.
+r:"^敵単体に、行動不能の時(\d+)の魔法ダメージ敵単体に、行動不能でない時(\d+)の魔法ダメージ$"=►Gây $1 sát thương phép cho kẻ thù nếu chúng bất động.\n►Gây $1 sát thương phép cho kẻ thù nếu chúng không bất động.
+
+##UE##
+ラムの髪飾り=Phụ Kiện Tóc Của Ram

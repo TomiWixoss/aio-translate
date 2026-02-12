@@ -1,0 +1,18 @@
+##Profile##
+【物理】中衛から、新たな素材で紡ぐワイルドテーラー。最も物攻が高い他の味方へ重複速度アップやＴＰ・攻撃支援を仕立て、全体へのＨＰ回復と併せ攻守を両立させる。=[Vật Lý] Một Thợ May Hoang Dã được dệt từ vật liệu mới, tạo dấu ấn từ tuyến giữa. Cô ấy thiết kế hỗ trợ tăng tốc độ tích lũy TP và tấn công cho đồng minh có P.ATK cao nhất, đồng thời cân bằng công thủ bằng cách hồi máu cho tất cả đồng minh.
+
+##UB##
+ブレイジングダンス=Vụt Cháy
+目の前の敵１キャラに物理特大ダメージを与え、魔法攻撃力を大ダウン、物理防御力を小ダウンさせる。さらに、味方全体の物理攻撃力と物理クリティカルを特大アップさせ、ＨＰを中回復させる。=Gây sát thương vật lớn lên kẻ địch phía trước, giảm mạnh M.ATK của chúng và giảm nhẹ P.DEF. Ngoài ra, tăng mạnh P.ATK và P.CRIT RATE cho tất cả đồng minh, và hồi máu vừa phải.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の魔法攻撃力を(\d+)ダウン敵単体の物理防御力を(\d+)ダウン味方全体の物理攻撃力を(\d+)アップ味方全体の物理クリティカルを160アップ味方全体のＨＰを(\d+)回復$"=►Gây $1 sát thương vật lên một kẻ địch.\n►Giảm M.ATK của một kẻ địch đi $2.\n►Giảm P.DEF của một kẻ địch đi $3.\n►Tăng P.ATK của tất cả đồng minh lên $4.\n►Tăng P.CRIT RATE của tất cả đồng minh lên 160.\n►Hồi máu cho tất cả đồng minh lên $5.
+##S1##
+テーラードブースト=Tăng Cường Được May Mặc
+自分以外の最も物理攻撃力が高い味方１キャラの行動速度を大アップ、物理攻撃力を特大アップさせ、ＴＰを小回復させる。（このスキルの効果は他の行動速度変化スキルと重複する）さらに、味方全体の物理攻撃力と物理クリティカルを大アップさせる。=Tăng mạnh tốc độ hành động của đồng minh (không bao gồm bản thân) có P.ATK cao nhất, tăng mạnh P.ATK của họ, và hồi nhẹ TP của họ. (Hiệu ứng kỹ năng này chồng với các kỹ năng thay đổi tốc độ hành động khác.) Ngoài ra, tăng mạnh P.ATK và P.CRIT RATE cho tất cả đồng minh.
+r:"^対象の味方の行動速度アップ対象の味方の物理攻撃力を(\d+)アップ対象の味方のＴＰを100回復味方全体の物理攻撃力を(\d+)アップ味方全体の物理クリティカルを100アップ$"=►Tăng Tốc Độ Hành Động của đồng minh mục tiêu.\n►Tăng P.ATK của đồng minh mục tiêu lên $1.\n►Hồi TP của đồng minh mục tiêu lên 100.\n►Tăng P.ATK của tất cả đồng minh lên $2.\n►Tăng P.CRIT RATE của tất cả đồng minh lên 100.
+##S2##
+エンハンスフルーツ=Trái Cây Tăng Cường
+自分以外の最も物理攻撃力が高い味方１キャラの物理攻撃力を特大アップさせ、ＴＰを小回復させる。さらに、味方全体の物理攻撃力を大アップ、魔法防御力を中アップ、魔法無効バリアを展開し、ＨＰを中回復、ＴＰを小回復させる。=Tăng mạnh P.ATK của đồng minh (không bao gồm bản thân) có P.ATK cao nhất và hồi nhẹ TP của họ. Ngoài ra, tăng mạnh P.ATK cho tất cả đồng minh, tăng vừa phải M.DEF, triển khai rào cản phản phép, hồi máu vừa phải cho họ, và hồi nhẹ TP của họ.
+r:"^対象の味方の物理攻撃力を(\d+)アップ対象の味方のＴＰを50回復味方全体の物理攻撃力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ(\d+)ダメージ分の魔法無効バリアを展開する味方全体のＨＰを(\d+)回復味方全体のＴＰを50回復$"=►Tăng P.ATK của đồng minh mục tiêu lên $1.\n►Hồi TP của đồng minh mục tiêu lên 50.\n►Tăng P.ATK của tất cả đồng minh lên $2.\n►Tăng M.DEF của tất cả đồng minh lên $3.\n►Triển khai Rào Cản Phản Phép hấp thụ $1 sát thương.\n►Hồi máu cho tất cả đồng minh lên $5.\n►Hồi TP của tất cả đồng minh lên 50.
+##EX##
+ゲヘナトレンド=Xu Hướng Gehenna
+ゲヘナトレンド+=Xu Hướng Gehenna+

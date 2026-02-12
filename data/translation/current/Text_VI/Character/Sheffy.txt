@@ -1,0 +1,51 @@
+##Profile##
+記憶喪失のドラゴン娘=Cô gái rồng mất trí nhớ
+読書、ストレッチ=Đọc sách, Vận động
+
+【物理】中衛で氷雪を操り敵を凍滅する、氷竜の少女。ユニオンバーストで獲得する【氷竜の印】を消費して、スキルの効果を増幅し、清廉な剣技で敵を切り伏せる。=[Vật Lý] Cô gái rồng điều khiển băng và đóng băng kẻ địch. Cô tiêu thụ [Dấu Rồng Băng] nhận được từ UB, khuếch đại kỹ năng và chém kẻ địch với sự ngây thơ của mình.
+
+シェフィの一人旅=Hành trình một mình của Sheffy
+割れた氷=Băng vỡ
+シェフィの好きなもの=Đồ yêu thích của Sheffy
+エンジョイタイム=Thưởng thức thời gian
+シェフィのギルド活動=Hoạt động Guild của Sheffy
+薄氷=Băng mỏng
+シェフィの決意=Quyết tâm của Sheffy
+戸惑う竜少女=Cô gái rồng lú lẫn
+シェフィの記憶探し=Tìm kiếm ký ức của Sheffy
+
+##UB##
+舞斬・月下氷竜=Vũ điệu: Rồng Băng Trăng
+目の前の敵１キャラに物理特大ダメージを与え、さらに自分に【氷竜の印】を５つ追加する。このバトル中にユニオンバーストを使用する度に、追加する印の数が１つ増える。【氷竜の印】は最大10まで追加される。=Gây sát thương vật lý nhỏ lên kẻ địch phía trước, và nhận 5 cấp [Dấu Rồng Băng]. Sau mỗi UB nhận thêm 1 [Dấu Rồng Băng], tối đa 10.
+
+##S1##
+雪沓=Giày Băng
+目の前の敵１キャラに物理小ダメージを与え、さらに物理防御力を小ダウンさせる。このスキルのダメージは、【氷竜の印】の数に応じて増加する。【氷竜の印】を１つ消費する。=Gây sát thương vật lý nhỏ lên kẻ địch phía trước và giảm nhẹ phòng thủ vật lý của chúng. Sát thương của kỹ năng này tăng theo số cấp [Dấu Rồng Băng]. Tiêu thụ 1 [Dấu Rồng Băng].
+
+##S2##
+凍る湖=Hồ Băng
+自分の周囲に、物理攻撃力を小アップさせるフィールドを展開する。物理攻撃力の上昇量は、【氷竜の印】の数に応じて増加する。【氷竜の印】を１つ消費する。=Triển khai một vùng trường xung quanh bản thân tăng nhẹ sát thương tấn công vật lý. Mức tăng sát thương tấn công vật lý tăng theo số cấp [Dấu Rồng Băng]. Tiêu thụ 1 [Dấu Rồng Băng].
+r:"^物理攻撃力を(\d+)アップさせるフィールドを展開する$"=►Triển khai một trường có bán kính 400 tăng sát thương tấn công vật lý của đồng đội lên $1 trong 12s.
+
+##SP1##
+氷竜の印=Dấu Rồng Băng
+【氷竜の印】を４つ得る。=Nhận 4 lần [Dấu Rồng Băng].
+
+##EX##
+アクセルロンド=Accel Rondo
+アクセルロンド+=Accel Rondo+
+
+##UB+##
+フロストファング=Răng Băng
+目の前の敵１キャラに物理特大ダメージを与え、さらに自分に【氷竜の印】を７つ追加する。このバトル中にユニオンバーストを使用する度に、追加する印の数が１つ増える。【氷竜の印】は最大20まで追加される。【凍る湖】のフィールド展開中、自分に継続ＴＰ回復状態を付与する。このスキルのＴＰの回復量は【氷竜の印】の数に応じて増加する。=Gây sát thương vật lý khổng lồ lên kẻ địch phía trước và nhận 7 lần [Dấu Rồng Băng]. Sau mỗi lần dùng UB, nhận thêm 1 [Dấu Rồng Băng], tối đa 20 lần. Tự phục hồi TP liên tục khi triển khai [Hồ Băng] (vùng hiệu quả). Lượng phục hồi TP tăng theo số lần [Dấu Rồng Băng].
+r:"^敵単体に(\d+)の物理ダメージフィールド展開中、毎秒ＴＰを10回復する$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Triển khai vùng hiệu quả phục hồi 10 TP/giây cho bản thân trong 10.5 giây.
+r:"^敵単体に(\d+)の物理ダメージ毎秒ＴＰを10回復する$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Triển khai vùng hiệu quả phục hồi 10 TP/giây cho bản thân trong 10.5 giây.
+
+##S1+##
+雪沓+=Giày Tuyết+
+目の前の敵１キャラに物理小ダメージを与え、物理防御力を中ダウンさせ、さらに自分の物理攻撃力を小アップさせる。このスキルのダメージと物理攻撃力の上昇量は、【氷竜の印】の数に応じて増加する。【氷竜の印】を１つ消費する。=Gây sát thương vật lý lớn lên kẻ địch phía trước, giảm phòng thủ vật lý của chúng và tăng tấn công vật lý của bản thân trong 12 giây. Sát thương và mức tăng tấn công vật lý của kỹ năng này tăng theo số lần [Dấu Rồng Băng]. Tiêu hao 1 [Dấu Rồng Băng].
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン自分の物理攻撃力を(\d+)アップ$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Giảm phòng thủ vật lý của kẻ địch đi $2.\n►Tăng tấn công vật lý của bản thân lên $3.
+## Same with SEriko
+
+##UE##
+氷竜剣=Kiếm Rồng Băng

@@ -1,0 +1,43 @@
+##Profile##
+【物理】前衛で、夏の麦しゅわを嗜むビーチの元聖騎士。敵単体にダメージを与えながら、周囲の味方への魔法無効バリア付与と魔防アップで守りを固めて勝利の波に乗る。=[Vật Lý] Một cựu kỵ sĩ uống nước lúa mì sủi bọt ở tuyến trước mùa hè. Cô gây sát thương mục tiêu đơn và bảo vệ đồng đội lân cận với rào chống phép và tăng phòng thủ ma thuật của họ. Với những kỹ năng này, cô cưỡi làn sóng chiến thắng!
+
+##UB##
+サント・ミ・チェラーダ=Saint Michelada
+自分の物理攻撃力を大アップし、目の前の敵１キャラに物理特大ダメージを与える。さらに自分のＨＰを中回復し、自分を中心とした範囲内の味方すべてに魔法無効バリアを展開する。=Tăng mạnh P.ATK của bản thân và gây sát thương P.DMG lớn lên kẻ địch phía trước. Ngoài ra, hồi phục một lượng HP vừa phải và tạo Barrier cho đồng minh trong phạm vi, chống lại M.DMG.
+r:"^自分の物理攻撃力を(\d+)アップ敵単体に(\d+)の物理ダメージ自分のＨＰを(\d+)回復(\d+)ダメージ分の魔法無効バリアを展開する$"=►Tăng P.ATK của bản thân lên $1 trong 18s.\n►Gây $2 P.DMG lên kẻ địch.\n►Hồi phục $3 HP cho bản thân.\n►Tạo Barrier cho đồng minh trong phạm vi 350, chống lại $4 M.DMG trong 18s.
+
+##S1##
+サマーディライト=Summer Delight
+自分を中心とした範囲内の味方すべての魔法防御力を中アップし、自分のＴＰを小回復する。=Tăng vừa phải M.DEF cho đồng minh trong phạm vi và hồi phục một ít TP cho bản thân.
+r:"^範囲内の味方の魔法防御力を(\d+)アップ自分のＴＰを100回復$"=►Tăng M.DEF của đồng minh trong phạm vi 350 lên $1 trong 12s.\n►Hồi phục 100 TP cho bản thân.
+
+##S2##
+シャンディガフ=Shandy Gaff
+目の前の敵１キャラに物理大ダメージを与え、自分を中心とした範囲内の味方すべての物理攻撃力を大アップさせる。=Gây sát thương P.DMG lớn lên kẻ địch phía trước và tăng mạnh P.ATK cho đồng minh trong phạm vi.
+r:"^敵単体に(\d+)の物理ダメージ範囲内の味方の物理攻撃力を(\d+)アップ$"=►Gây $1 P.DMG lên kẻ địch.\n►Tăng P.ATK của đồng minh trong phạm vi 350 lên $2 trong 12s.
+
+##EX##
+サマー・パナシェ=Summer Panaché
+サマー・パナシェ+=Summer Panaché+
+
+##S1+##
+サマーディライト+=Summer Delight+
+自分を中心とした範囲内の味方すべての物理攻撃力を大アップ、魔法防御力を中アップさせ、目の前の敵１キャラの魔法攻撃力を特大ダウンさせる。さらに自分のＴＰを中回復する。=Tăng mạnh P.ATK cho đồng minh trong phạm vi và tăng vừa phải M.DEF của họ. Giảm mạnh M.ATK của kẻ địch và hồi phục một lượng TP vừa phải cho bản thân.
+r:"^範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の魔法防御力を(\d+)アップ敵単体の魔法攻撃力を(\d+)ダウン自分のＴＰを200回復$"=►Tăng P.ATK của đồng minh trong phạm vi 350 lên $1 trong 12s.\n►Tăng M.DEF của đồng minh trong phạm vi 350 lên $2 trong 12s.\n►Giảm M.ATK của kẻ địch đi $3 trong 12s.\n►Hồi phục 200 TP cho bản thân.
+
+##UE##
+夏の聖騎士ジョッキ=Holy Knight Summer Tankard
+
+##Comments##
+ふう、暑いわね…\n熱中症には気を付けないと\n喉がかわいたらすぐに言ってね？\n麦しゅわ以外も用意してるわよ♪=*Thở dài* Trời nóng quá... Nếu khát, nói ngay kẻo bị say nắng nhé? Em có đủ thứ cho cậu, không chỉ có bia lúa mạch thôi♪
+夏の海辺の仕事なら水着が効率的\nってみんなが言ってたけど\nもしかして…うちのギルドだけの\n常識だったんじゃ…=Mọi người nói đồ bơi hiệu quả hơn khi làm việc trên bãi biển vào mùa hè, nhưng có lẽ... có lẽ đó chỉ là hiểu biết chung trong guild của em...
+聖騎士っぽい水着、って\n注文したんだけど…\nどの辺がそれっぽいのかしら？\n…もしかして、色？=Em đặt một bộ đồ bơi theo phong cách Holy Knight... Không biết phần nào trông giống vậy? Có phải màu sắc không?
+キミに見られるなら、\nもう少しおとなしいデザインの\n水着がよかったかも…\nう、ううん…なんでもないわ=Nếu cậu định xem, em có lẽ thích thiết kế dịu hơn một chút... K-Không... Không có gì.
+この水着、どう…かな？\n少しは夏っぽい格好してたほうが\nキミも涼しく感じるかな、なんて\n思ったんだけど…=Cậu nghĩ sao về bộ đồ bơi này? Em nghĩ sẽ mát mẻ hơn nếu mặc thứ gì đó hơi mùa hè một chút, nhưng...
+せっかくの海なんだもの\nタマキさんとミフユさんに\n負けないくらい\n楽しんじゃいましょ♪=Vì chúng ta đang ở bãi biển, hãy vui vẻ đến mức không thua Tamaki-san và Mifuyu-san♪
+暑いときはすっきりした\nセゾン系もいいけど…\n私はボディがしっかりしてる\nアベイ系が好きだわ♪=Khi trời nóng, đồ uống Saizon mát mẻ rất tốt, nhưng... em cũng thích đồ uống Abbay có kết cấu đặc♪
+普段忙しければ忙しいほど\n遊べるときにしっかりと遊んで\n日常とメリハリをつけるの\n社会人からのアドバイスよ♪=Càng bận rộn, bạn càng nên chơi khi có thể để giữ cân bằng cuộc sống hàng ngày. Đó là lời khuyên từ người đi làm♪
+青い海！　白い泡！\nそして、キミ…！\n必要なものが全部あるんだもの\nふふっ、ここはまるで天国ね=Biển xanh! Bọt trắng! Và cậu...! Em có tất cả những gì cần! Hehehe, như thiên đường vậy.
+せっかくのバカンスが\nキミと二人きりじゃないのは\nちょっと残念だけど…\nそれはまた今度、ね♪=Hơi tiếc là kỳ nghỉ của em không chỉ một mình với cậu, nhưng... em sẽ giữ điều đó cho lần khác♪
+お誕生日おめでとう♪\n急いで来ちゃったから\nこんな格好でごめんね？\n少しでも早くお祝いしたかったの=Chúc mừng sinh nhật♪ Em đến vội, nên xin lỗi vì mặc như vậy nhé? Em muốn chúc mừng càng sớm càng tốt.
+ハッピーバースデー、キーミッ♪\nさあ、めでたい日なんだから\n盛大にお祝いしなくちゃ\nはい、カンパーイ♪=Chúc mừng sinh nhật, người yêu dấu♪ Giờ đây là một ngày hạnh phúc, chúng ta phải ăn mừng hết mình! Đi thôi! Lên tiếng!

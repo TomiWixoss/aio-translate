@@ -1,0 +1,32 @@
+##Profile##
+【魔法】後衛で、攻防双方で活躍する晴れ着姿の猫娘。与ダメージに応じて魔法攻撃力がアップするユニオンバーストで、高いベースの攻撃力がさらに強大になる。=[Phép thuật] Một cô gái mèo trong trang phục truyền thống, cung cấp cả tấn công và phòng thủ từ hàng sau. Union Burst của cô ấy tăng tấn công phép thuật dựa trên sát thương gây ra, làm tăng sức tấn công đáng sợ của cô ấy.
+
+宛先不明の年賀状=Người nhận không xác định
+ネコミミ娘捕物帳=Hồi ký của Thám Tử Tai Mèo
+ドキドキの書初め=Niềm vui trong thư pháp
+やさしさに触れるとき=Một chút tử tế
+優しさに触れるとき=Một chút tử tế
+
+##UB##
+ニューイヤーバースト=Bùng nổ năm mới
+目の前の敵１キャラに魔法特大ダメージを与え、さらに魔法攻撃力を中アップさせる。このスキルで与えたダメージ量に応じて、攻撃力の上昇量がアップする。=Gây sát thương phép thuật lớn lên kẻ địch ngay phía trước và tăng nhẹ M.ATK của bản thân. Tăng M.ATK dựa trên sát thương gây ra bởi kỹ năng này.
+
+##S1##
+シャドウバレット=Shadow Bullet
+目の前の敵１キャラに魔法中ダメージを与える。=Gây sát thương phép thuật vừa phải lên kẻ địch ngay phía trước.
+
+##S2##
+ウィッシングフィールド=Wishing Field
+味方全体の魔法攻撃力を中アップさせ、さらに物理無効バリアを展開する。自分の魔法攻撃力が高い程、バリアの無効ダメージ量がアップする。=Tăng nhẹ M.ATK cho đồng minh và triển khai một rào cản phớt lờ P.DMG xung quanh họ. Sát thương bị phớt lờ bởi rào cản tăng dựa trên M.ATK của bản thân.
+r:"^味方全体の魔法攻撃力を(\d+)アップ(\d+)ダメージ分の物理無効バリアを展開する$"=►Tăng M.ATK của đồng minh bởi $1 trong 12s.\n►Triển khai Barrier trên tất cả đồng minh phớt lờ $2 (+0.08×M.ATK) P.DMG trong 12s.
+
+##EX##
+デザイアベール=Veil of Desire
+デザイアベール+=Veil of Desire+
+
+##S1+##
+シャドウバレット+=Shadow Bullet+
+目の前の敵１キャラを中心とした範囲内の敵すべてに魔法大ダメージを与える。=Gây sát thương phép thuật lớn lên tất cả kẻ địch trong phạm vi của kẻ địch ngay phía trước.
+
+##UE##
+賀正猫耳の羽子板=Gasho Cat's Ear Racket

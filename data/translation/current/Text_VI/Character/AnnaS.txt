@@ -1,0 +1,27 @@
+##Profile##
+【魔法】前衛で皆の力を借り受け力を振るう真夏の冥姫。味方全体の魔法攻撃力を代償に自身の魔法攻撃力を劇的に高め、熾烈な攻撃魔法を繰り出し大ダメージを与える。=[Ma thuật] Meihime mùa hè oai nghi mượn sức mạnh của mọi người và vũ trang ở tiền tuyến. Đánh đổi bằng sức tấn công ma thuật của tất cả đồng đội, cô tăng vọt sức tấn công ma thuật của bản thân và phóng thích ma thuật tấn công dữ dội, gây thiệt hại lớn.
+
+##UB##
+冥海竜蒼夏耀破=Summer Dragonics Breaker
+目の前の敵１キャラに魔法特大ダメージを与える。残りの攻撃対象が１つの場合、さらに自分の魔法攻撃力を大アップさせる。=Gây sát thương ma thuật khủng khiếp cho kẻ địch phía trước. Nếu chỉ còn một mục tiêu kẻ địch trong trận, tăng mạnh sức tấn công ma thuật của bản thân.
+r:"^敵単体に(\d+)の魔法ダメージ残りの攻撃対象が１つの場合、自分の魔法攻撃力を(\d+)アップ$"=►Gây $1 sát thương ma thuật cho một kẻ địch.\n\nNếu chỉ còn một kẻ địch trong trận:\n►Tăng sức tấn công ma thuật của bản thân lên $2 trong 18s.
+
+##S1##
+羅刹涅槃・海獄泉=Cứu rỗi quỷ quyệt: Nhà ngục biển
+目の前の敵１キャラに魔法中ダメージを与え、さらに魔法防御力を中ダウンさせる。=Gây sát thương ma thuật vừa phải cho kẻ địch phía trước và giảm phòng thủ ma thuật của chúng một lượng vừa phải.
+
+##S2##
+夏極・吸冥姫=Kakyoku: Suimeiki
+自分以外の味方全体の魔法攻撃力を特大ダウンさせるが、自分の魔法攻撃力を特大アップさせ、魔法クリティカルを大アップさせる。=Làm giảm M.ATK của tất cả đồng đội khác một cách lớn, nhưng tăng mạnh M.ATK và Tỷ lệ Chí Mạng Ma thuật của bản thân.
+r:"^自分以外の味方全体の魔法攻撃力を初期値の90%ダウン自分の魔法攻撃力を(\d+)アップ自分の魔法クリティカルを(\d+)アップ$"=►Giảm M.ATK của tất cả đồng đội khác 90% trong 12 giây.\n►Tăng M.ATK của bản thân thêm $1 trong 12 giây.\n►Tăng Tỷ lệ Chí Mạng Ma thuật của bản thân thêm $2 trong 12 giây.
+
+##EX##
+海極・冥縛連鎖=Kaikyoku: Meibaku Rensa
+海極・冥縛連鎖+=Kaikyoku: Meibaku Rensa+
+
+##S1+##
+羅刹涅槃・海獄泉+=Demonic Salvation: Sea Prison+
+目の前の敵１キャラに魔法大ダメージを与え、さらに魔法防御力を特大ダウンさせる。=Gây sát thương ma thuật lớn lên kẻ địch phía trước và giảm mạnh M.DEF của chúng.
+
+##UE##
+海魔獄滅縛鎖錨=Neptune Chain Anchor

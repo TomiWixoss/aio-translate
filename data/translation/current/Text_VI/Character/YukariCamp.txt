@@ -1,0 +1,59 @@
+##Profile##
+【物理】中衛で最高の一杯を自然と共に愉しむ元聖騎士。【至福のひと時】が増えるほどに、味方の物理攻撃力やクリティカル時のダメージを強力に強化し、勝利を掴む。=[Vật Lý] Một cựu kỵ sĩ thích thưởng thức thức uống ngon giữa thiên nhiên ở tuyến trước. Càng nhiều [Khoảnh Khắc Hạnh Phúc], sức tấn công vật lý và tỷ lệ chí mạng vật lý của đồng đội càng cao.
+
+気持ちよくなるジュース=Nước Ép Tươi Mát
+楽しさを持ち寄って=Mang Lại Niềm Vui Cùng Nhau
+本当の最高の一杯=Ly Cà Phê Tuyệt Vời Nhất
+キミが追いつく日まで=Cho Đến Khi Cậu Bắt Kịp
+
+##UB##
+キャンピングライムライト=Ánh Đèn Trại Cắm Trại
+目の前の敵に物理特大ダメージを与える。このスキルがクリティカルした場合のダメージは２倍ではなく３倍になる。【至福のひと時】が３以上の場合、味方全体の物理攻撃力を小アップし物理クリティカルを大アップする。このスキルのクリティカルした場合のダメージと物理攻撃力と物理クリティカルの上昇量は【至福のひと時】に応じて増加する。=Gây sát thương vật lý lớn lên kẻ địch phía trước. Gây x3 sát thương vật lý nếu chí mạng. Nếu Yukari có 3 hoặc nhiều hơn [Khoảnh Khắc Hạnh Phúc], tăng sức tấn công vật lý và tỷ lệ chí mạng vật lý cho tất cả đồng đội.
+r:"^敵単体に(\d+)の物理ダメージ至福のひと時が３以上の場合、味方全体の物理攻撃力を(\d+)アップ至福のひと時が３以上の場合、味方全体の物理クリティカルを(\d+)アップ$"=►Gây $1 sát thương vật lý lên kẻ địch.\n\nNếu [Khoảnh Khắc Hạnh Phúc] ≥ 3:\n►Tăng sức tấn công vật lý của tất cả đồng đội bởi $2 (+$2×[Khoảnh Khắc Hạnh Phúc]) trong 18s.\n►Tăng tỷ lệ chí mạng vật lý của tất cả đồng đội bởi $3 (+$3×[Khoảnh Khắc Hạnh Phúc]) trong 18s.
+
+##S1##
+ラスティネイル=Móng Vuốt Gỉ Sét
+前方範囲内のランダムな敵キャラに単体物理小ダメージを与える。【至福のひと時】が３以上の場合、このスキルによるダメージが上昇しクリティカルした場合のダメージは、２倍ではなく３倍になり、【至福のひと時】に応じてクリティカルした場合のダメージが増加する。=Nếu [Khoảnh Khắc Hạnh Phúc] ≥ 3, gây sát thương vật lý lớn lên một kẻ địch ngẫu nhiên phía trước. Gây x3 sát thương vật lý nếu chí mạng. Nếu [Khoảnh Khắc Hạnh Phúc] < 3, gây sát thương vật lý trung bình lên một kẻ địch ngẫu nhiên phía trước.
+r:"^至福のひと時が３以上の場合、敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ$"=►Nếu [Khoảnh Khắc Hạnh Phúc] ≥ 3, gây $1 sát thương vật lý lên kẻ địch ngẫu nhiên.\n►Nếu [Khoảnh Khắc Hạnh Phúc] < 3, gây $2 sát thương vật lý lên kẻ địch ngẫu nhiên.
+
+##S2##
+グリルパラダイス=Thiên Đường Nướng
+自分に【至福のひと時】を１つ追加して、ＴＰを中回復し、物理攻撃力を中アップする。【至福のひと時】は最大７まで追加される。さらに【至福のひと時】が３未満の場合、自分以外のＴＰが低い味方２キャラのＴＰを中回復させ、【至福のひと時】が３以上の場合は、自分以外のＴＰが低い味方３キャラのＴＰを中回復させ、物理攻撃力を中アップする。=Tặng 1 [Khoảnh Khắc Hạnh Phúc] cho bản thân, tối đa 7. Hồi TP của bản thân một lượng trung bình và tăng sức tấn công vật lý của bản thân. Nếu [Khoảnh Khắc Hạnh Phúc] < 3, hồi TP trung bình cho 2 đồng đội khác có TP thấp nhất. Nếu [Khoảnh Khắc Hạnh Phúc] ≥ 3, hồi TP trung bình cho 3 đồng đội khác có TP thấp nhất và tăng sức tấn công vật lý của họ.
+r:"^自分のＴＰを150回復対象の味方のＴＰを150回復自分の物理攻撃力を(\d+)アップ至福のひと時が３以上の場合、対象の味方の物理攻撃力を(\d+)アップ$"=►Hồi TP của bản thân thêm 150.\n►Tăng sức tấn công vật lý của bản thân bởi $1 trong 12s.\n►Nếu [Khoảnh Khắc Hạnh Phúc] < 3, hồi TP của 2 đồng đội khác thêm 150.\n►Nếu [Khoảnh Khắc Hạnh Phúc] ≥ 3, hồi TP của 3 đồng đội khác thêm 150 và tăng sức tấn công vật lý của họ bởi $2 trong 12s.
+
+##EX##
+ブルームーン=Trăng Xanh
+ブルームーン+=Trăng Xanh+
+
+##S1+##
+ラスティネイル+=Móng Vuốt Gỉ Sét+
+前方範囲内のランダムな敵１キャラに物理中ダメージを与える。【至福のひと時】が３以上の場合、ダメージが上昇しクリティカルした場合のダメージは、２倍ではなく３倍になる。さらに【至福のひと時】に応じてこのスキルがクリティカルした場合のダメージが増加する。【至福のひと時】が６以上の場合、前方範囲内のランダムな敵１キャラにクリティカルした場合のダメージが２倍ではなく４倍になる追加の物理大ダメージを与える。=Gây sát thương vật lý trung bình lên một kẻ địch ngẫu nhiên phía trước. Nếu [Khoảnh Khắc Hạnh Phúc] ≥ 3, gây sát thương vật lý lớn lên một kẻ địch ngẫu nhiên phía trước, gây x3 sát thương vật lý nếu chí mạng. Nếu [Khoảnh Khắc Hạnh Phúc] ≥ 6, gây sát thương vật lý lớn lên một kẻ địch ngẫu nhiên phía trước, gây x4 sát thương vật lý nếu chí mạng.
+r:"^至福のひと時が３以上の場合、敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ至福のひと時が６以上の場合、敵単体に(\d+)の物理ダメージ$"=►Gây $2 sát thương vật lý lên kẻ địch ngẫu nhiên.\n►Nếu [Khoảnh Khắc Hạnh Phúc] ≥ 3, gây\n$1 sát thương vật lý lên kẻ địch ngẫu nhiên.\n►Nếu [Khoảnh Khắc Hạnh Phúc] ≥ 6, gây\n$3 sát thương vật lý lên kẻ địch ngẫu nhiên.
+
+##UE##
+キャンピングペアマグ=Cốc Cà Phê Trại Cắm Trại
+
+##Comments##
+キャンプの心得その一！　麦しゅわを欠かすべからず！\n本には書いてなかったけど楽しみかたは\n人ぞれぞれでしょ？　さ、飲んじゃうわよ～♪\n=Quy Tắc Trại Cắm Trại #1: Đừng bao giờ thiếu Bia Lúa Mì! Có lẽ không được viết trong sách, nhưng ai cũng thưởng thức theo cách riêng của mình, phải không? Nào, cùng uống nào~♪
+キャンプを始めてから、デスクワークで落ちてた\n体力を取り戻せたの！\nオンオフのメリハリもついて、いいことばかりだわ♪\n=Từ khi bắt đầu cắm trại, em đã lấy lại năng lượng mất đi từ công việc văn phòng. Tất cả đều tốt đẹp, với sự cân bằng giữa công việc và giải trí♪
+しょれにね、万一酔い潰れたってぇ～…\nキミがぜーったい介抱してくれるれしょ？\nだから安心して飲めるの～…えへ、いつもありがとね♪\n=Hơn nữa, trong trường hợp hiếm hoi là em uống quá chén... Cậu chắc chắn sẽ chăm sóc em, phải không? Chính vì vậy em mới uống mà không lo lắng~ Ehe, cảm ơn cậu như mọi khi♪
+んぇ？　ふふ、もちろん飲んじゃってましゅよ～\nらってキャンプは～自由に楽しんだ者勝ちなんらもの♪\n麦しゅわだって飲みほーだいよ～！\n=Hm? Hehe, tất nhiên em đã uống rồi~ Vì cắm trại là phải tận hưởng tự do! Em sẽ thưởng thức Bia Lúa Mì thoả thích!
+森よ、ありがとー！　山よ、ありがとー！\nうぇへへへ、大自然にぃ…かんぱぁーいっ！\nおまけにもひとちゅ、キミにもかんぱぁーいっ！\n=Cảm ơn rừng! Cảm ơn núi! Wehehe, nâng ly vì thiên nhiên... Và một ly đặc biệt nâng lên cho cậu nữa♪
+週末が充実してるからこそ、いい仕事ができる…\nいい仕事をした分、キャンプがもっと楽しくなる…\nうん！　最高のサイクルね！\n=Có một cuối tuần viên mãn cho phép em làm việc tốt... Và làm việc tốt làm cho cắm trại còn thú vị hơn... Đúng rồi! Đó là vòng lặp hoàn hảo!
+はぁ…そろそろ帰る時間ね…明日からまた仕事かぁ…\nでも、キャンプ場は逃げないわよね…！\n仕事を頑張って、また一緒に楽しみにきましょう♪\n=*thở dài* Đã đến lúc về rồi... Trở lại công việc từ ngày mai... Nhưng khu cắm trại chẳng đi đâu cả! Cố gắng hết sức ở công việc và hẹn gặp lại để cùng nhau tận hưởng♪
+な、なにが言いたいかっていうとね…\nこれからもキャンプに付き合ってほしいってこと！\nキミが一緒じゃなきゃ、私のキャンプじゃないから♪\n=Ơ, ý em là... Em muốn cậu tiếp tục đồng hành cùng em trong những chuyến cắm trại! Không phải trại của em nếu thiếu cậu♪
+一番の理由は、キミと過ごしてるから…なんだと思う\nきっとソロキャンプだったら\nこんなにもおいしいと感じないはずだわ！\n=Lý do lớn nhất là em đang dành thời gian với cậu... Em chắc rằng nếu là cắm trại một mình, nó sẽ không ngon như bây giờ!
+最近、麦しゅわが前よりもっとおいしく感じるの！\n景色のおかげかキャンプ飯のおかげか…\nなにがおいしくしてるのか、考えてみたんだけどね…\n=Dạo này, Bia Lúa Mì còn ngon hơn trước. Dù là vì cảnh quan hay đồ ăn trại... Em đã suy nghĩ về điều gì làm cho nó ngon như vậy...
+ふふ、ハッピーバースデー！\nキャンプ場でケーキだなんて\n他には体験できないでしょ？\nほらほら、早速食べてみて！=Hehe, Chúc Mừng Sinh Nhật! Một chiếc bánh ở khu cắm trại là trải nghiệm độc nhất, phải không? Nào, nào, thử đi!
+お誕生日おめでと～！\nとっておきのキャンプ飯を\n振る舞ってあげるね？\n特別なキャンプにしてあげる！=Chúc Mừng Sinh Nhật! Em sẽ làm một bữa ăn trại đặc biệt, được chứ? Chúng ta sẽ biến nó thành một chuyến cắm trại đặc biệt!
+
+おはよう。コーヒー飲むでしょ？\nふふ、普段とは大違いね…\nだって、私がキミを起こして\n飲み物も二人分あるんだもん=Chào buổi sáng. Cậu muốn uống cà phê không? Hehe, khác với bình thường đấy... vì em đã đánh thức cậu dậy và có đủ để cả hai cùng uống.
+キャンプ場で迎える朝って新鮮ね\n当たり前のことが\nなんだか当たり前じゃないみたい\nそれともキミと一緒だからかな？=Buổi sáng ở khu cắm trại thật mới lạ. Có phải tự nhiên xảy ra như vậy không? Hay là vì em ở bên cậu?
+わ、私だって麦しゅわ以外の\n飲み物も飲むんだからっ！\nそれに、コーヒーなら\nキミと一緒に楽しめるでしょ？=Em-Em uống cả thứ khác ngoài lúa mì nữa! Hơn nữa, em có thể thưởng thức cà phê với cậu, phải không?
+朝日って本当にきれい…\nランドソルじゃこんな景色は\nなかなか見られないわよね\n存分に味わいましょう♪=Bình minh thật đẹp... Khó thấy cảnh như thế này ở Landosol, phải không? Hãy tận hưởng nó thỏa thích ♪
+すぅ〜…うん、空気がおいしい…\nもうこれだけで永遠に飲めそう…\n自然そのものが最高のおつまみ…\n朝から乾杯…しちゃおっかしら…=*thở dài* Không khí tốt quá... Em cảm thấy em có thể uống nó mãi mãi chỉ với thứ này... Thiên nhiên bản thân là món ăn nhẹ tốt nhất... Có lẽ em nên nâng ly... vào buổi sáng...
+キャンプって楽しいけど\n不便なこともあるわよね…\nなにか困ったことがあったら\nお姉さんに頼っていいからね？=Cắm trại vui vẻ, nhưng có thể bất tiện... Nếu cậu có vấn đề gì, có thể dựa vào chị, được chứ?
+どう？　この服、素敵でしょ？\n見た目だけじゃなく機能性も\n抜群なの。キャンプ用品店で\n一目惚れして買っちゃった♪=Cậu nghĩ sao? Bộ trang phục này tuyệt vời chứ? Nó không chỉ đẹp mắt mà còn chức năng cao. Em đã phải lòng nó ngay từ cái nhìn đầu tiên ở cửa hàng đồ cắm trại và mua nó ♪
+またまたキャンプ道具を\n買い足しちゃった…\n元を取れるくらい使いたいから\nキミと何度も来なくっちゃね？=Em lại mua thêm đồ cắm trại rồi... Em muốn sử dụng nó đủ để lấy lại tiền, vì vậy em sẽ phải đi với cậu nhiều lần, được chứ?
+んー！　なんて開放感なのー！\nもうこの眺めだけで\n麦しゅわが飲めるわ！\nさあ、キャンプを始めましょ！=Hmm! Cảm giác giải phóng thật! Em có thể uống bia lúa mì chỉ từ cảnh này! Nào, bắt đầu cắm trại thôi!
+えっへへへ〜♪\nとっことんキャンプ飯で\n飲んじゃうわよ〜♪\n最高の一杯、さいこーっ！=Ehehehe~♪ Em sẽ uống hết với cơm trại~♪ Đồ uống tuyệt vời nhất, tuyệt quá~!

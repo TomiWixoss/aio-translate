@@ -1,0 +1,22 @@
+【魔法】中衛で陽光の下、煌く水面を共に駆けるシノビ。【水遁の印】を自らの攻撃力へと変え、束縛フィールドと水遁の術で最も遠い敵とその周囲に速やかな天誅を下す。=[Phép] Một shinobi lao qua mặt nước lấp lánh dưới nắng. Chuyển [Dấu ấn trói bằng sóng] thành sức mạnh tấn công, trút phạt thần nhanh nhẹn lên kẻ địch xa nhất và vùng xung quanh chúng thông qua trường trói và thuật thoát nước.
+
+##UB##
+常夏忍法・ノウリョウ背水之陣=Ninjutsu Mùa Hè Vĩnh Cửu: Đứng Vững Rồng Vươn
+r:"^敵単体に(\d+)の魔法ダメージ水遁の印が１つ以上の場合、以下の効果が発動する水遁の印を１つ消費する自分の魔法攻撃力を(\d+)アップ範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の魔法防御力を(\d+)ダウン範囲内の敵の被クリダメを4％アップ$"="►Gây $1 sát thương phép (M.DMG) lên một kẻ địch đơn lẻ\n\nNếu [Dấu ấn trói bằng sóng] ≥ 1:\n►Tiêu hao 1 [Dấu ấn trói bằng sóng]\n►Tăng sức mạnh phép (M.ATK) của bản thân lên $2\n►Gây $3 sát thương phép (M.DMG) lên kẻ địch trong phạm vi\n►Giảm phòng thủ phép (M.DEF) của kẻ địch trong phạm vi đi $4\n►Tăng sát thương phá hủy (CRIT DMG) mà kẻ địch nhận lên 4%"
+前方の最も遠い敵１キャラに魔法特大ダメージを与える。自分に【水遁の印】が付与されている場合、【水遁の印】を１つ消費して自分の魔法攻撃力を大アップし、追加で前方の最も遠い敵１キャラを中心とした範囲内の敵すべてに魔法大ダメージを与え、魔法防御力を小ダウン、クリティカルを受けた際のダメージを小アップさせる。=Gây sát thương phép (M.DMG) cực lớn lên kẻ địch xa nhất. Với [Dấu ấn trói bằng sóng], tiêu hao 1 để tăng cực lớn sức mạnh phép (M.ATK) của bản thân và gây thêm lượng sát thương phép (M.DMG) lớn lên kẻ địch xung quanh mục tiêu xa nhất, đồng thời giảm nhẹ phòng thủ phép (M.DEF) và tăng sát thương phá hủy (CRIT DMG) mà chúng nhận."
+
+
+##S1##
+常夏忍法・まきびし貝の術=Ninjutsu Mùa Hè Vĩnh Cửu: Thuật vỏ chông
+r:"^敵単体に(\d+)の魔法ダメージ敵を行動不能にするフィールドを展開する水遁の印が１つ以上の場合、以下の効果が発動する水遁の印を１つ消費する自分の魔法攻撃力を(\d+)アップ範囲内の敵に(\d+)の魔法ダメージ$"="►Gây $1 sát thương phép (M.DMG) lên một kẻ địch đơn lẻ\n►Triển khai trường trói\n\nNếu [Dấu ấn trói bằng sóng] ≥ 1:\n►Tiêu hao 1 [Dấu ấn trói bằng sóng]\n►Tăng sức mạnh phép (M.ATK) của bản thân lên $2\n►Gây $3 sát thương phép (M.DMG) lên kẻ địch trong phạm vi"
+前方の最も遠い敵１キャラに魔法特大ダメージを与え、そのキャラを中心とした範囲内の敵すべてを束縛するフィールドを展開する。自分に【水遁の印】が付与されている場合、【水遁の印】を１つ消費して自分の魔法攻撃力を大アップし、追加で前方の最も遠い敵１キャラを中心とした範囲内の敵すべてに魔法中ダメージを与える。=Gây sát thương phép (M.DMG) cực lớn lên kẻ địch xa nhất và triển khai trường trói xung quanh chúng. Với [Dấu ấn trói bằng sóng], tiêu hao 1 để tăng cực lớn sức mạnh phép (M.ATK) của bản thân và gây thêm lượng sát thương phép (M.DMG) trung bình lên kẻ địch xung quanh mục tiêu xa nhất.
+
+
+##S2##
+常夏忍法・水遁印ムスビ=Ninjutsu Mùa Hè Vĩnh Cửu: Dấu Nước - Musubi
+r:"^自分の魔法攻撃力を(\d+)アップ自分の魔法クリティカルを150アップ自分の魔法クリダメを8％アップ自分のＴＰを250回復敵の数に応じて、水遁の印を獲得$"="►Tăng sức mạnh phép (M.ATK) của bản thân lên $1\n►Tăng tỷ lệ phá hủy phép (M.CRIT RATE) của bản thân lên 150\n►Tăng sát thương phá hủy phép (M.CRIT DMG) của bản thân lên 8%\n►Hồi TP của bản thân lên 250\n►Nhận [Dấu ấn trói bằng sóng] dựa trên số lượng kẻ địch"
+自分の魔法攻撃力を特大アップ、魔法クリティカルを大アップ、魔法攻撃クリティカル時のダメージを小アップ、ＴＰを中回復し、さらに【水遁の印】を獲得する。敵の数に応じて、【水遁の印】の獲得量が増加する。【水遁の印】は最大５つまで獲得できる。=Tăng cực lớn sức mạnh phép (M.ATK), tăng rất lớn tỷ lệ phá hủy phép (M.CRIT RATE), tăng nhỏ sát thương phá hủy phép (M.CRIT DMG), hồi TP vừa phải và nhận [Dấu ấn trói bằng sóng]. Lượng dấu ấn tăng theo số lượng kẻ địch (Tối đa: 5).
+
+##EX##
+トトノイサウナの極み=Đỉnh cao Sauna Totono
+トトノイサウナの極み+=Đỉnh cao Sauna Totono+

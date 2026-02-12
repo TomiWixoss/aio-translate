@@ -1,0 +1,22 @@
+
+鈴代紗弓=Suzuyo Sayumi
+【魔法】後衛で、底知れぬ叡智を秘めた天才錬金術師。高い方の防御力でダメージを受ける調和状態を付与し、２回まで性能が上昇していくＵＢで、妄想を爆発させる。=[Ma pháp] Một thiên tài luyện kim thuật ở hàng sau, mang trong mình trí tuệ vô biên. Ban cho đồng đội trạng thái [Hài hòa] sử dụng chỉ số phòng thủ cao hơn (P.DEF/M.DEF) để tính sát thương, còn UB của cô ấy có thể tăng lên tới hai cấp để giải phóng sức mạnh ảo tưởng bùng nổ.
+##UB##
+究極錬成‐氷炎融合=Magnum Opus – Flamma Glacies Unita
+r:"^敵単体に(\d+)の低い側の防御力で防御する魔法ダメージ味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを100アップ味方全体の魔法クリダメを5％アップ$"=►Gây $1 sát thương phép lên một kẻ địch (sử dụng chỉ số phòng thủ thấp hơn).\n►Tăng M.ATK của toàn đồng đội lên $2.\n►Tăng Tỷ lệ chí mạng phép của toàn đồng đội lên 100.\n►Tăng Sát thương chí mạng phép của toàn đồng đội lên 5%.
+目の前の敵１キャラに対象の物理防御力が魔法防御力より低い場合、物理ダメージ扱いになる魔法特大ダメージを与え、味方全体の魔法攻撃力を特大アップ、魔法クリティカルを大アップ、魔法クリダメを小アップさせる。このスキルを使用するたび、最大２回までダメージが増加し、３回目以降はステータスアップの効果時間が増加する。=
+
+##S1##
+インフラマエ=Inflamare
+インフラマエ+=Inflamare+
+味方全体の魔法攻撃力を特大アップ、Ｔ\nＰ上昇を小アップさせる。さらに、目の\n前の敵１キャラに対象の物理防御力が魔\n法防御力より低い場合、物理ダメージ扱\nいになる魔法大ダメージを与え、魔法防\n御力を小ダウンさせる。=Tăng mạnh M.ATK cho toàn đồng đội và tăng nhỏ lượng TP của họ. Ngoài ra, gây sát thương phép lớn lên kẻ địch phía trước dựa trên phòng thủ thấp hơn của chúng, và giảm nhỏ M.DEF của chúng.
+r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体のＴＰ上昇を(\d+)アップ敵単体に(\d+)の低い側の防御力で防御する魔法ダメージ敵単体の魔法防御力を(\d+)ダウン$"=►Tăng M.ATK của toàn đồng đội lên $1.\n►Tăng lượng TP của toàn đồng đội lên $2.\n►Gây $3 sát thương phép lên một kẻ địch, tính theo chỉ số phòng thủ thấp hơn giữa P.DEF và M.DEF.\n►Giảm M.DEF của một kẻ địch lên $4.
+
+##S2##
+アクシリウム=Auxilium
+r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ味方全体に調和状態を付与する味方全体のＨＰを(\d+)回復味方全体のＴＰを80回復$"=►Tăng M.ATK của đồng đội lên $1.\n►Tăng M.DEF của đồng đội lên $2.\n►Ban [Hài hòa] cho toàn đồng đội.\n►Hồi HP cho đồng đội lên $3.\n►Hồi TP cho đồng đội lên 80.
+味方全体の魔法攻撃力を特大アップ、魔法防御力を大アップ、調和状態を付与し、ＨＰとＴＰを小回復させる。調和状態の間は物理防御力と魔法防御力のうち高い方によって計算されたダメージを受ける。=Tăng mạnh M.ATK cho đồng đội, tăng đáng kể M.DEF, ban [Hài hòa], và hồi nhỏ HP/TP.\nKhi ở trạng thái [Hài hòa], sát thương được tính bằng giá trị cao hơn giữa P.DEF và M.DEF.
+
+##EX##
+基創錬成+=Genesis Refinement +
+基創錬成=Genesis Refinement

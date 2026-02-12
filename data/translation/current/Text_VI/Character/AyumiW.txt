@@ -1,0 +1,29 @@
+##Profile##
+【物理】中衛で、戦場の動向を自在に操る白兎の乙女。敵の行動速度をダウンさせ、味方の速度をアップさせるスキルと敵の時を止めるスキルで、常に味方を支える。=[Vật lý] Một Thị Nữ Thỏ Trắng ở hàng giữa có thể tự do kiểm soát di chuyển trên chiến trường. Cô ấy luôn hỗ trợ đồng đội với kỹ năng làm chậm di chuyển kẻ địch, tăng tốc độ đồng đội, và đôi khi khiến chúng dừng lại.
+
+##UB##
+クロック・オブ・ラビット=Đồng Hồ Thỏ
+味方全体の行動速度を大アップさせ、さらに物理防御力を小アップさせる。=Tăng mạnh tốc độ hành động của tất cả đồng đội, và tăng nhẹ phòng thủ vật lý của họ.
+r:"^味方全体の行動速度アップ味方全体の物理防御力を(\d+)アップ$"=►Tăng tốc độ hành động của tất cả đồng đội lên 200% trong 18s.\n►Tăng $1 phòng thủ vật lý của tất cả đồng đội trong 18s.
+
+##S1##
+クロックダウン=Đồng Hồ Lùi
+敵全体の行動速度を小ダウンさせ、物理攻撃力を中ダウンさせ、命中を小ダウンさせる。=Giảm nhẹ tốc độ hành động của tất cả kẻ địch, và giảm vừa phải tấn công vật lý của chúng. Ngoài ra, giảm vừa phải độ chính xác của tất cả kẻ địch.
+r:"^敵全体の行動速度を一定時間低下させる敵全体の物理攻撃力を(\d+)ダウン敵全体の命中を(\d+)ダウン$"=►Giảm tốc độ hành động của tất cả kẻ địch xuống 90% trong 12s.\n►Giảm $1 tấn công vật lý của tất cả kẻ địch trong 12s.\n►Giảm $2 độ chính xác của tất cả kẻ địch trong 12s.
+
+##S2##
+クロックエンド=Đồng Hồ Kết Thúc
+最も物理攻撃力が高い敵１キャラの行動時間を停止させる。=Gây Tạm Dừng Thời Gian cho kẻ địch có tấn công vật lý cao nhất.
+r:"^敵単体を一定時間行動不能にする$"=►Gây Tạm Dừng Thời Gian cho kẻ địch trong 1.75s.
+
+##EX##
+ラビットソウル=Hồn Thỏ
+ラビットソウル+=Hồn Thỏ+
+
+##S1+##
+クロックダウン+=Đồng Hồ Lùi+
+敵全体の行動速度を大ダウンさせ、物理攻撃力を大ダウンさせる。さらに、命中を中ダウンさせ、物理クリティカルを大ダウンさせる。=Giảm mạnh tốc độ hành động của tất cả kẻ địch, và giảm mạnh tấn công vật lý của chúng. Ngoài ra, giảm vừa phải độ chính xác của tất cả kẻ địch và giảm mạnh tỷ lệ chí mạng vật lý của chúng.
+r:"^敵全体の行動速度を一定時間低下させる敵全体の物理攻撃力を(\d+)ダウン敵全体の命中を(\d+)ダウン敵全体の物理クリティカルを(\d+)ダウン$"=►Giảm tốc độ hành động của tất cả kẻ địch xuống 60% trong 12s.\n►Giảm $1 tấn công vật lý của tất cả kẻ địch trong 12s.\n►Giảm $2 độ chính xác của tất cả kẻ địch trong 12s.\n►Giảm $3 tỷ lệ chí mạng vật lý của tất cả kẻ địch trong 12s.
+
+##UE##
+ワンダーランドクロック=Đồng Hồ Thế Giới Kỳ Diệu

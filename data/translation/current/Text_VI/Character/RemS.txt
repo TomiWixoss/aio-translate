@@ -1,0 +1,47 @@
+##Profile##
+【物理】前衛で夏の日差しの中、余暇を楽しむ双子の妹。ＵＢで鬼族の力を解放すると攻防両面に加えＨＰ吸収が上昇し、目に映る全てを【狂騒】のままに叩き伏せる。=[Vật lý] Một song sinh nhỏ tuổi thích tận hưởng thời gian rảnh rỗi dưới ánh mặt trời mùa hè ở tuyến đầu. Khi cô giải phóng sức mạnh Oni qua UB, khả năng hút HP của cô tăng lên cùng với sức tấn công và phòng thủ, và cô đập tan mọi thứ cô thấy trong [Sự cuồng loạn].
+鬼化中=Chế độ Oni
+
+##UB##
+納涼 アル・ヒューマ=Al Huma Mùa hè
+目の前の敵１キャラに物理特大ダメージを与え、自分に【狂騒】を１つ付与する。【狂騒】は最大５まで追加される。さらに鬼化していない時、自分の物理攻撃力、物理防御力、魔法防御力を特大アップ、ＨＰ吸収を大アップして鬼化する。=Gây lượng cực lớn Sát thương Vật lý lên kẻ thù phía trước và nhận 1 ngăn [Sự cuồng loạn], tối đa 5. Khi không ở trong [Chế độ Oni], tăng cực lớn Sát thương Vật lý, Phòng thủ Vật lý, Phòng thủ Ma thuật và Hút HP của bản thân, và vào [Chế độ Oni].
+r:"^自分に狂騒を付与する敵単体に(\d+)の物理ダメージ鬼化状態でない場合、鬼化状態になり以下の効果が発動する自分の物理攻撃力を(\d+)アップ自分の物理防御力を(\d+)アップ自分の魔法防御力を(\d+)アップ自分のＨＰ吸収を(\d+)アップ$"=►Gây $1 Sát thương Vật lý lên kẻ thù.\n►Nhận 1 ngăn [Sự cuồng loạn].\n\nNếu không ở trong [Chế độ Oni]:\n►Tăng Sát thương Vật lý của bản thân lên $2 trong 180s.\n►Tăng Phòng thủ Vật lý của bản thân lên $3 trong 180s.\n►Tăng Phòng thủ Ma thuật của bản thân lên $4 trong 180s.\n►Tăng Hút HP của bản thân lên $5 trong 180s.\n►Vào [Chế độ Oni] trong 180s.
+
+##S1##
+ビーチサイドスター=Ngôi sao bên bờ biển
+目の前の敵１キャラに物理大ダメージを与え、自分の物理攻撃力を大アップする。=Gây lượng lớn Sát thương Vật lý lên kẻ thù phía trước và tăng cực lớn Sát thương Vật lý của bản thân.
+
+##S2##
+水際の癒し=Hồi phục bên bờ nước
+
+##SPUB##
+このスキルのスキルレベルは「納涼 アル・ヒューマ」と連動しています=Cấp độ kỹ năng này liên kết với Al Huma Mùa hè
+目の前の敵１キャラに物理特大ダメージを与え、自分に【狂騒】を１つ付与する。【狂騒】は最大５まで追加される。=Gây lượng cực lớn Sát thương Vật lý lên kẻ thù phía trước và nhận 1 ngăn [Sự cuồng loạn], tối đa 5.
+r:"^自分に狂騒を付与する敵単体に(\d+)の物理ダメージ$"=►Gây $1 Sát thương Vật lý lên kẻ thù.\n►Nhận 1 ngăn [Sự cuồng loạn].
+
+##SP1##
+逆巻く鉄球=Ngôi sao sáng bừng sớm mai
+目の前の敵１キャラに物理特大ダメージを与え、自分のＴＰを中回復する。さらに、自分以外の味方全員に最大ＨＰに応じた物理割合ダメージを与える。このスキルのダメージは、【狂騒】の数に応じて増加する。このスキルによる味方へのダメージでは味方のＴＰは回復しない。=Gây lượng cực lớn Sát thương Vật lý lên kẻ thù phía trước và hồi một lượng vừa phải TP của bản thân. Đồng thời gây sát thương lên tất cả đồng minh dựa trên HP tối đa của họ. Sát thương Vật lý tăng theo số ngăn [Sự cuồng loạn]. Đồng minh không nhận TP từ sát thương do kỹ năng này gây ra.
+r:"^敵単体に(\d+)の物理ダメージ自分のＴＰを200回復自分以外の味方全体に最大ＨＰの１％の物理割合ダメージ$"=►Gây $1 (+0.4×$1×[Mania]) Sát thương Vật lý lên kẻ thù.\n►Hồi 200 TP của bản thân.\n►Gây Sát thương bằng 1% (+0.8%×[Mania]) HP lên tất cả đồng minh.
+
+##SP2##
+ブレイジングフリーズ=Đóng băng cháy bừng
+目の前の敵１キャラに物理特大ダメージを与え、自分のＨＰを中回復する。さらに、自分以外の味方全員に最大ＨＰに応じた物理割合ダメージを与える。このスキルのダメージは、【狂騒】の数に応じて増加する。このスキルによる味方へのダメージでは味方のＴＰは回復しない。=Gây lượng cực lớn Sát thương Vật lý lên kẻ thù phía trước và hồi một lượng vừa phải HP của bản thân. Đồng thời gây sát thương lên tất cả đồng minh dựa trên HP tối đa của họ. Sát thương Vật lý tăng theo số ngăn [Sự cuồng loạn]. Đồng minh không nhận TP từ sát thương do kỹ năng này gây ra.
+r:"^敵単体に(\d+)の物理ダメージ自分のＨＰを(\d+)回復自分以外の味方全体に最大ＨＰの１％の物理割合ダメージ$"=►Gây $1 (+0.4×$1×[Mania]) Sát thương Vật lý lên kẻ thù.\n►Hồi $2 HP của bản thân.\n►Gây Sát thương bằng 1% (+0.8%×[Mania]) HP lên tất cả đồng minh.
+
+##EX##
+夏まっ盛りです！=Mùa hè sôi động!
+夏まっ盛りです！+=Mùa hè sôi động!+
+
+
+
+##S1+##
+サマーモーニングスター=Ngôi sao sáng bừng sớm mai
+ビーチサイドスター+=Ngôi sao bên bờ biển+
+逆巻く鉄球+=Ngôi sao sáng bừng sớm mai+
+
+目の前の敵１キャラに物理特大ダメージを与え、自分の物理攻撃力を大アップする。=Gây lượng cực lớn Sát thương Vật lý lên kẻ thù phía trước và tăng cực lớn Sát thương Vật lý của bản thân.
+
+目の前の敵１キャラに物理特大ダメージを２回与え、物理防御力を小ダウンさせ、自分のＴＰを中回復する。さらに、自分以外の味方全員に最大ＨＰに応じた物理割合ダメージを与える。このスキルのダメージは、【狂騒】の数に応じて増加する。このスキルによる味方へのダメージでは味方のＴＰは回復しない。=Gây lượng cực lớn Sát thương Vật lý hai lần lên kẻ thù phía trước, giảm một chút Phòng thủ Vật lý của chúng, và hồi một lượng vừa phải TP của bản thân. Hơn nữa, gây sát thương tỷ lệ vật lý lên tất cả đồng minh ngoại trừ bản thân dựa trên HP tối đa của họ. Sát thương của kỹ năng này tăng dựa trên số [Sự cuồng loạn]. Sát thương lên đồng minh từ kỹ năng này không hồi TP cho họ.
+
+r:"^敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン自分のＴＰを200回復自分以外の味方全体に最大ＨＰの１％の物理割合ダメージ$"=►Gây $1 Sát thương Vật lý lên một kẻ thù.\n►Gây $2 Sát thương Vật lý lên một kẻ thù.\n►Giảm $3 Phòng thủ Vật lý của một kẻ thù.\n►Hồi 200 TP của bản thân.\n►Gây sát thương tỷ lệ vật lý bằng 1% HP tối đa lên tất cả đồng minh trừ bản thân.

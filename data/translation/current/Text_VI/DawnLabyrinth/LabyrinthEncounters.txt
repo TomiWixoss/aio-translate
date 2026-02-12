@@ -1,0 +1,67 @@
+chris & matsuri encounter
+魔物たちが集まる闘技場を見つけた！=Tìm thấy một đấu trường đang tập hợp quái vật!
+バトルマス(EXTREME)の\n敵に挑戦する\n＋アルファルピ=Thử thách kẻ thù trong Ô chiến trận (CỰC KHÓ) + αRupees
+強敵との戦いは心躍る！=Đánh nhau với đối thủ mạnh\nkhiến mình hào hứng thật!
+バトルマス(NORMAL)の\n敵に挑戦する\n＋アルファルピ=Thử thách kẻ thù trong Ô chiến trận (THƯỜNG) + αRupees
+腕試しッス！=Hãy thử sức mình nào!
+サポートキャラはマイパーティに設定できません。=Nhân vật hỗ trợ không thể được bổ sung vào đội của bạn.
+
+エクストラ\nクエスト=Nhiệm vụ\nbổ sung
+
+黎明界ラビリンスに挑戦しよう=Thử thách thế giới bình minh của Mê cung
+どんな体操でも楽しむ準備は万全です。一緒にがんばりましょう！=Mình đã sẵn sàng tận hưởng mọi bài tập rồi. Cố lên cùng nhau nhé!
+夏の海辺でラジーオタイソーができるなんて、すごーく楽しみ！=Mình không thể chờ được để được chơi đùa trên bãi biển vào mùa hè nữa!
+ここで習った体操のことは、必ずや主さまにお伝えいたします=Mình chắc chắn sẽ kể cho chủ nhân nghe về những bài tập mình học được ở đây.
+
+
+GMA encounter
+ギルド管理協会です！どんなお仲間をお探しですか？=Đó là GMA, cậu đang tìm đồng minh loại nào vậy?
+バッファーロールの\nランダムサイン×2\n＋アルファルピ=Nhân vật vai trò Buffer ngẫu nhiên x2\n+αRupees
+バッファーを\n仲間にしたい！=Mình muốn có một\ndồng minh Buffer!
+ブースターロールの\nランダムサイン×2\n＋アルファルピ=Nhân vật vai trò Booster ngẫu nhiên x2\n+αRupees
+ブースターを\n仲間にしたい！=Mình muốn có một\ndồng minh Booster!
+ブレイカーロールの\nランダムサイン×2\n＋アルファルピ=Nhân vật vai trò Breaker ngẫu nhiên x2\n+αRupees
+ブレイカーを\n仲間にしたい！=Mình muốn có một\ndồng minh Breaker!
+アタッカーロールの\nランダムサイン×2\n＋アルファルピ=Nhân vật vai trò Attacker ngẫu nhiên x2\n+αRupees
+アタッカーを\n仲間にしたい！=Mình muốn có một\ndồng minh Attacker!
+
+タンクロールの\nランダムサイン×2\n＋アルファルピ=Nhân vật vai trò Tank ngẫu nhiên x2\n+αRupees
+タンクを\n仲間にしたい！=Tôi muốn một\nđồng minh Tank!
+ヒーラーロールの\nランダムサイン×2\n＋アルファルピ=Ngẫu nhiên Healer\nx2 nhân vật\n+αRupees
+ヒーラーを\n仲間にしたい！=Tôi muốn một\nđồng minh Healer!
+
+ジャマーロールの\nランダムサイン×2\n＋アルファルピ=Ngẫu nhiên Jammer\nx2 nhân vật\n+αRupees
+ジャマーを\n仲間にしたい！=Tôi muốn một\nđồng minh Jammer!
+デバッファーロールの\nランダムサイン×2\n＋アルファルピ=Ngẫu nhiên Debuffer\nx2 nhân vật\n+αRupees
+デバッファーを\n仲間にしたい！=Tôi muốn một\nđồng minh Debuffer!
+
+
+jun tomo
+イベント会場に魔物=Quái vật trong phòng sự kiện
+ジュンが仲間になる\n＋オールランダムサイン×2～4=Jun tham gia làm đồng minh\n+Ngẫu nhiên tất cả nhân vật x2~4
+ここは私たちに\n任せて！=Để đó\ncho bọn tôi!
+ミクマ流の\n剣技にかけて！=Thay mặt cho\nphong cách Mikuma!
+
+ruka fishing
+釣りスポットを発見！=Tìm thấy chỗ câu cá!
+50％で★1迷宮遺物×1\nさらに次のイベントへ=50% để nhận ★1 Di vật Mê cung x1, và chuyển sang sự kiện tiếp theo.
+のんびり\n釣りでもしようか=Sao không thư giãn\nmột chút khi câu cá?
+25％で★2迷宮遺物×1\nさらに次のイベントへ=25% để nhận ★2 Di vật Mê cung x1, và chuyển sang sự kiện tiếp theo.
+もう一回挑戦だ！=Hãy thử lại!
+ラッキー！もう一回釣れるぞ！=May mắn! Em có thể câu được thêm một con!
+報酬を獲得できませんでした。=Không nhận được phần thưởng.
+
+peco picnic
+絶好のピクニック日和だ！=Thời tiết tuyệt vời cho buổi dã ngoại!
+50％で次のイベントへ=50% để vào sự kiện tiếp theo.
+みんなで\n料理を作りましょう☆=Cùng nhau\nnấu ăn nhé☆
+まだまだ\n食べ足りません☆=Em vẫn chưa\năn đủ☆
+ランダムなロールの\nランダムサイン=Ngẫu nhiên vai trò\nnhân vật
+それくらいで\nいいんじゃない？=Đồ ăn nhiều vậy\nchưa đủ sao?
+料理ができた！でも、まだ材料はあるぞ！=Đồ ăn đã xong, nhưng em vẫn còn nguyên liệu!
+
+Akisaren
+ダンジョンで迷った！どっちに進む？=Bạn lạc trong hầm ngục! Đi hướng nào?
+右に決まっていますわ！=Phải, chứ còn gì!
+左じゃないかしら？=Chẳng lẽ là Trái?
+50％で★1迷宮遺物×1\n50％でランダムなロールの\nランダムサイン=50% để nhận ★1 Di vật Mê cung x1.\n50% để nhận nhân vật có vai trò ngẫu nhiên.

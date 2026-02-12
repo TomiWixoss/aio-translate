@@ -1,0 +1,27 @@
+##Profile##
+【物理】前衛で、旋風を纏い未来へ駆ける覚醒の剣士。目にも止まらぬ速さの剣技で敵を吹き飛ばしスタンさせ、仲間の守りを固めるスキルを駆使し勝利の道を切り開く。=[Vật lý] Kiếm sĩ thức tỉnh ở tiền tuyến, lao vào tương lai với một cơn cuồng phong. Cô sử dụng kỹ năng kiếm nhanh hơn mắt có thể theo dõi để đánh bay kẻ thù và làm choáng, đồng thời dùng kỹ năng để tăng phòng thủ cho đồng minh, mở đường đến chiến thắng.
+
+##UB##
+アストラルソニック=Astral Sonic
+前方範囲内の敵すべてに物理大ダメージを与え、大きく吹き飛ばす。=Gây sát thương vật lý lớn cho kẻ thù trong phạm vi 1000 và đánh bay chúng.
+
+##S1##
+エリアルエッジ=Aerial Edge
+目の前の敵１キャラに物理大ダメージを与え、スタンさせて大きく吹き飛ばし、さらに移動速度を中ダウンさせる。=Gây sát thương vật lý lớn cho kẻ thù phía trước, gây choáng và đánh bay chúng, đồng thời giảm nhẹ tốc độ di chuyển của chúng.
+r:"^敵単体に(\d+)の物理ダメージ敵単体を一定時間行動不能にする敵単体の移動速度を一定時間低下させる$"=Thời gian niệm: 0.415s\n►Gây $1 sát thương vật lý cho kẻ thù.\n►Gây choáng kẻ thù trong 2s.\n►Đẩy lùi kẻ thù 600 đơn vị.\n►Giảm tốc độ di chuyển của kẻ thù xuống 33% trong 12s.
+
+##S2##
+ゲイルチャージ=Gale Charge
+自分を中心とした範囲内の味方すべての物理防御力と魔法防御力を中アップさせ、物理/魔法無効バリアを展開する。=Tăng phòng thủ vật lý và phòng thủ ma thuật cho đồng minh trong phạm vi một cách vừa phải, và triển khai Lá chắn bảo vệ họ khỏi sát thương vật lý/phép thuật.
+r:"^範囲内の味方の物理防御力を(\d+)アップ範囲内の味方の魔法防御力を(\d+)アップ(\d+)ダメージ分の物理魔法無効バリアを展開する$"=Thời gian niệm: 1.05s\n►Tăng phòng thủ vật lý của đồng minh trong phạm vi 300 lên $1 trong 12s.\n►Tăng phòng thủ ma thuật của đồng minh trong phạm vi 300 lên $2 trong 12s.\n►Triển khai Lá chắn bảo vệ đồng minh trong phạm vi 300 khỏi $3 sát thương vật lý/phép thuật trong 12s.
+
+##EX##
+アストラルウィンド=Astral Wind
+アストラルウィンド+=Astral Wind+
+
+
+##UE##
+疾風のアストラ=Astrea of Gale
+エリアルエッジ+=Aerial Edge+
+目の前の敵１キャラに物理大ダメージを与え、スタンさせて大きく吹き飛ばし、移動速度を中ダウンさせる。さらに、自分のＴＰを中回復する。=Gây sát thương vật lý lớn cho kẻ thù phía trước, gây choáng/đẩy lùi đồng thời giảm nhẹ tốc độ di chuyển. Hồi phục TP của bản thân một cách vừa phải.
+r:"^敵単体に(\d+)の物理ダメージ敵単体を一定時間行動不能にする敵単体の移動速度を一定時間低下させる自分のＴＰを250回復$"=►Gây $1 sát thương vật lý cho một kẻ thù đơn.\n►Gây choáng một kẻ thù đơn trong một khoảng thời gian.\n►Làm chậm một kẻ thù đơn trong một khoảng thời gian.\n►Hồi phục TP của bản thân thêm 250.

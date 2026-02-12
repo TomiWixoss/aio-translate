@@ -1,0 +1,42 @@
+##Profile##
+【魔法】後衛で、精霊を唱喚して戦う雪華の歌姫。ユニオンバーストで呼び出す精霊たちはＨＰやＴＰを回復する能力を持ち、不利な戦況をも一変させる。=[Phép thuật] Một nữ ca sĩ mùa đông chiến đấu từ hậu phương với sự trợ giúp của linh hồn hư ảo. Các linh hồn cô triệu hồi bằng Union Burst có thể đảo ngược tình thế trận đấu bằng cách hồi HP và TP cho đồng minh.
+
+##UB##
+シルフィードキャロル=Sylphid Carol
+【召喚】自分の目の前に３体の精霊を唱喚する。=[Triệu hồi] Triệu hồi ba linh hồn ngay phía trước bản thân.
+魔法攻撃を行う精霊を唱喚する最もＨＰが低い味方のＨＰを回復する精霊を唱喚する味方全体のＴＰを回復する精霊を唱喚する=Triệu hồi một linh hồn thực hiện M.ATK.\nTriệu hồi một linh hồn hồi HP cho đồng minh có HP thấp nhất.\nTriệu hồi một linh hồn hồi TP cho tất cả đồng minh.
+
+##S1##
+アセンションワルツ=Ascension Waltz
+一番物理攻撃力が高い味方１キャラの物理攻撃力を大アップさせる。=Tăng lớn P.ATK cho đồng minh có P.ATK cao nhất.
+r:"^味方単体の物理攻撃力を(\d+)アップ$"=►Tăng P.ATK cho đồng minh $1.
+
+##S2##
+ガーディアンメロディ=Guardian Melody
+自分を中心とした範囲内の味方すべての物理防御力を中アップさせ、さらにＴＰを小回復する。=Tăng vừa phải P.DEF cho đồng minh trong phạm vi, và hồi một chút TP cho họ.
+自分を中心とした範囲内の味方すべての物理防御力を大アップさせ、さらにＴＰを小回復する。=Tăng khủng khiếp P.DEF cho đồng minh trong phạm vi, và hồi một chút TP cho họ.
+
+r:"^範囲内の味方の物理防御力を(\d+)アップ範囲内の味方のＴＰを(\d+)回復$"=►Tăng P.DEF cho đồng minh trong phạm vi $1.\n►Hồi TP cho đồng minh trong phạm vi $2.
+
+##EX##
+ギフテッドアンセム=Gifted Anthem
+ギフテッドアンセム+=Gifted Anthem+
+
+##S1+##
+アセンションワルツ+=Ascension Waltz+
+一番物理攻撃力が高い味方１キャラの物理攻撃力と物理クリティカルを大アップさせる。このキャラの魔法攻撃力が高い程、物理攻撃力の上昇量がアップする。=Tăng rất lớn P.ATK và Tỷ lệ Chí mạng P.ATK cho đồng minh có P.ATK cao nhất. Độ tăng P.ATK còn được tăng thêm dựa trên M.ATK của nhân vật.
+r:"^味方単体の物理攻撃力を(\d+)アップ味方単体の物理クリティカルを(\d+)アップ$"=►Tăng P.ATK cho đồng minh $1.\n►Tăng Tỷ lệ Chí mạng P.ATK cho đồng minh $2.
+
+##S2+##
+ガーディアンメロディ+=Guardian Melody+
+
+自分の魔法攻撃力を特大アップさせ、自分を中心とした範囲内の味方すべての物理攻撃力を特大アップ、物理防御力を中アップし、さらにＴＰを小回復する。このキャラの魔法攻撃力に応じて最大２倍まで物理攻撃力の上昇量がアップする。=Tăng khủng khiếp M.ATK cho bản thân, và trong phạm vi xung quanh người dùng, tăng khủng khiếp P.ATK cho đồng minh, tăng vừa phải P.DEF, và tiếp tục hồi một chút TP. Độ tăng P.ATK còn được tăng thêm, tối đa hai lần, dựa trên M.ATK của nhân vật này.
+
+自分の魔法攻撃力を特大アップさせ、自分を中心とした範囲内の味方すべての物理攻撃力を特大アップ、物理防御力を大アップし、さらにＴＰを小回復する。このキャラの魔法攻撃力に応じて最大２倍まで物理攻撃力の上昇量がアップする。=Tăng khủng khiếp M.ATK cho bản thân, và trong phạm vi xung quanh người dùng, tăng khủng khiếp P.ATK cho đồng minh, tăng khủng khiếp P.DEF, và tiếp tục hồi một chút TP. Độ tăng P.ATK còn được tăng thêm, tối đa hai lần, dựa trên M.ATK của nhân vật này.
+
+
+r:"^自分の魔法攻撃力を(\d+)アップ範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理防御力を(\d+)アップ範囲内の味方のＴＰを(\d+)回復$"=►Tăng M.ATK cho bản thân $1 trong 18s.\n►Tăng P.ATK cho đồng minh trong phạm vi 400 đơn vị $2 trong 18s.\n►Tăng P.DEF cho đồng minh trong phạm vi 400 đơn vị $3 trong 18s.\n►Hồi TP cho đồng minh trong phạm vi 400 đơn vị $4.
+
+##UE##
+翠霊杖ルーンスノウ=Jadestaff Rune Snow
+ルーンノエルドレス=Rune-Noel Dress

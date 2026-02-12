@@ -1,0 +1,13 @@
+のメモリーピース=Mảnh Ký Ức của
+のピュアメモリーピース=Mảnh Ký Ức Thuần Khiết của
+sr:"^([べ-ヺー＆＝]+?) ?(（.+）)?\n?の\n?メ\n?モ\n?リ\n?ー\n?ピ\n?ー\n?ス ?$"=Mảnh Ký Ức của $1$2
+
+sr:"^([べ-ヺー＆＝]+?)(（.+）)?\n?の\n?ピ\n?ュ\n?ア\n?メ\n?モ\n?リ\n?ー\n?ピ\n?ー\n?ス$ ?"="Mảnh Ký Ức Thuần Khiết của $1$2"
+
+sr:"^([べ-ヺー＆＝]+)(（.+）)?の記憶の欠片が封印されたアイテム。一定数集めると、キャラの秘められた力を解き放つ。$"="Một mảnh ký ức bị phong ấn của $1$2. Thu thập các vật phẩm này để giải phóng sức mạnh ẩn của nhân vật."
+カヤの記憶の欠片が封印されたアイテム。一定数集めると、キャラの秘められた力を解き放つ。
+   記憶の欠片が封印されたアイテム。一定数集めると、キャラの秘められた力を解き放つ。
+sr:"^([べ-ヺー＆＝]+)(（.+）)?の純真なる記憶の断片が封印されたアイテム。一定数集めると、キャラの最奥に秘められた真の力を解き放つ。$"="Một mảnh ký ức thuần khiết bị phong ấn của $1$2. Thu thập các vật phẩm này để giải phóng sức mạnh thật sự ẩn của nhân vật."
+
+女神の秘石=Phù Thủy Thiêng
+神秘の力を宿した不思議な石。女神\nの秘石ショップで任意のメモリー\nピースを購入することができる。=Một viên đá bí ẩn chứa đựng năng lượng huyền bí; bất kỳ mảnh ký ức nào cũng có thể được mua tại Cửa Hàng Phù Thủy Thiêng.

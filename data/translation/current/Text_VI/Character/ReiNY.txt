@@ -1,0 +1,34 @@
+##Profile##
+【物理】前衛で、魔法攻撃から味方を守る、華麗な剣士。スキルで範囲内の味方に魔法無効バリアを展開し、さらにユニオンバーストで敵をスタンさせ攻撃を断つ。=[Vật lý] Một tín đồ thanh lịch của lưỡi kiếm, đi đầu tiên để bảo vệ khỏi các mối đe dọa ma thuật. Với kỹ năng của mình, cô dựng lên những rào cản phản ma thuật xung quanh đồng minh, và Union Burst của cô gây choáng kẻ thù, cắt đứt hoàn toàn các đòn tấn công của chúng.
+
+##UB##
+細氷剣・雪華=Icy Edge: Snowbloom
+敵全体に物理中ダメージを与え、さらにスタンさせる。=Gây sát thương vật lý trung bình cho tất cả kẻ thù và gây choáng.
+r:"^敵全体に(\d+)の物理ダメージ敵全体を一定時間行動不能にする$"=►Gây $1 sát thương vật lý cho tất cả kẻ thù.\n►Làm tất cả kẻ thù bất động trong một khoảng thời gian.
+
+##S1##
+雪崩返し=Avalanche Reversal
+【挑発】敵全体を挑発する。挑発後のモーション中に攻撃を受けた場合、前方範囲内の敵すべてに物理小ダメージを与え、さらに物理防御力を小ダウンさせる。=[Taunt] Khiêu khích tất cả kẻ thù và vào tư thế. Nếu bị tấn công trong tư thế này, gây sát thương vật lý nhỏ cho tất cả kẻ thù trong phạm vi và giảm phòng thủ vật lý của chúng một chút.
+r:"^敵全体を挑発する範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理防御力を(\d+)ダウン$"=Thời gian niệm: 1.7325s.\n►Khiêu khích tất cả kẻ thù trong 17s.\n\n►Nếu nhận sát thương trong 2s:\n►Gây $1 sát thương vật lý cho kẻ thù trong phạm vi 280.\n►Giảm phòng thủ vật lý của kẻ th'ù đi $2 trong 12s.
+
+##S2##
+白銀冬仕度=Silvery Wintertime
+自分の周囲の味方すべてに魔法無効バリアを展開し、さらに自身の魔法防御力を中アップさせる。=Triển khai một rào cản triệt tiêu sát thương ma thuật xung quanh các đồng minh gần. Tăng phòng thủ ma thuật của bản thân một chút.
+r:"^(\d+)ダメージ分の魔法無効バリアを展開する自分の魔法防御力を(\d+)アップ$"=Thời gian niệm: 0.0s.\n►Triển khai Rào cản lên đồng minh trong phạm vi 280, triệt tiêu $1 sát thương ma thuật trong 12s.\n►Tăng phòng thủ ma thuật của bản thân đi $2 trong 12s.
+
+##EX##
+氷壁の構え=Glacier Stance
+氷壁の構え+=Glacier Stance+
+
+##UB+##
+細氷零剣・雪華絢爛=Freezing Edge: Gorgeous Snowbloom
+敵全体の物理防御力を中ダウンさせ、物理大ダメージを与え、スタンさせる。さらに、自分に魔法吸収バリアを展開する。=Giảm phòng thủ vật lý của tất cả kẻ thù một chút, gây sát thương vật lý lớn lên chúng và gây choáng. Ngoài ra, triển khai Rào cản lên bản thân hấp thụ sát thương ma thuật.
+r:"^敵全体の物理防御力を(\d+)ダウン敵全体に(\d+)の物理ダメージ敵全体を一定時間行動不能にする(\d+)ダメージ分の魔法吸収バリアを展開する$"=►Giảm phòng thủ vật lý của tất cả kẻ th'ù đi $1 trong 18s.\n►Gây $2 sát thương vật lý cho tất cả kẻ thù.\n►Gây choáng cho tất cả kẻ thù trong 4s.\n►Triển khai Rào cản lên bản thân hấp thụ $3 sát thương ma thuật trong 18s.
+
+##S1+##
+雪崩返し+=Avalanche Reversal+
+【挑発】敵全体を挑発し、自分の魔法防御力を特大アップ。挑発後のモーション中に攻撃された場合、前方範囲内の敵に物理中ダメージを与え、物理防御力を小ダウンさせスタンさせる。=[Taunt] Khiêu khích tất cả kẻ thù, vào tư thế và tăng phòng thủ ma thuật một cách khủng khiếp. Nếu bị tấn công trong tư thế này, gây sát thương vật lý trung bình cho tất cả kẻ thù trong phạm vi, giảm phòng thủ vật lý của chúng một chút và gây choáng.
+r:"^敵全体を挑発する範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理防御力を(\d+)ダウン自分の魔法防御力を(\d+)アップ範囲内の敵を一定時間行動不能にする$"=Thời gian niệm: 1.7325s.\n►Khiêu khích tất cả kẻ thù trong 17s.\n►Tăng phòng thủ ma thuật của bản thân đi $3 trong 12s.\n\nNếu nhận sát thương trong 2s:\n►Gây $1 sát thương vật lý cho kẻ thù trong phạm vi 430.\n►Giảm phòng thủ vật lý của kẻ th'ù đi $2 trong 12s.\n►Gây choáng cho kẻ thù trong phạm vi 430 trong 1.5s.
+
+##UE##
+氷麗刀・初華=Frostblade New Bloom

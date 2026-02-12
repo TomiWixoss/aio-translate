@@ -1,0 +1,25 @@
+##Profile##
+【魔法】後衛で、アストルムの冒険へと導くガイド妖精。バフとバリアで味方を護りバリアを起点とする攻撃支援、風属性の味方への行動速度とＴＰの支援で仲間を支える。=[Ma Thuật] Một Fairy Hướng Dẫn ở hậu phương dẫn đầu những cuộc phiêu lưu Astrum. Bảo vệ đồng đội với các buff/khiên, cung cấp hỗ trợ tấn công kích hoạt khiên, và tăng tốc độ hành động/TP cho đồng đội nguyên tố gió.
+
+##S1##
+ルーチェ・プロデューレ=Luce Produrre
+バリアが展開されている味方すべてに物理ダメージカット効果と魔法ダメージカット効果を付与する。さらに、風属性の味方すべてのＨＰを中回復させ、行動速度を大アップさせる。=Giảm sát thương vật lý và ma thuật cho đồng đội có [Khiên]. Hồi phục một lượng HP trung bình và tăng cường tốc độ hành động mạnh cho tất cả đồng đội nguyên tố gió.
+r:"^バリアが展開されている味方が受ける物理ダメージを15％カットバリアが展開されている味方が受ける魔法ダメージを15％カット風属性の味方のＨＰを(\d+)回復風属性の味方の行動速度アップ$"=►Giảm sát thương vật lý nhận bởi đồng đội có [Khiên] 15%.\n►Giảm sát thương ma thuật nhận bởi đồng đội có [Khiên] 15%.\n►Hồi HP cho đồng đội Nguyên tố Gió $1.\n►Tăng Tốc độ hành động cho đồng đội Nguyên tố Gió.
+
+##S2##
+ファータ・パルピト=Fata Palpito
+味方全体の物理攻撃力と魔法攻撃力を大アップ、物理攻撃クリティカル時のダメージと魔法攻撃クリティカル時のダメージを小アップさせる。この効果はバリアが展開されている味方に対して効果量がアップする。さらに、風属性の味方すべてのＴＰを中回復させる。=Tăng cường mạnh mẽ Tấn công vật lý/ma thuật của toàn bộ đồng đội + tăng nhẹ Sát thương phán đoán vật lý/ma thuật. Hiệu quả được tăng cường cho đồng đội có [Khiên]. Hồi TP trung bình cho đồng đội Nguyên tố Gió.
+r:"^バリアが展開されている味方の物理攻撃力と魔法攻撃力を(\d+)アップバリアが展開されている味方の物理クリダメと魔法クリダメを16％アップバリアが展開されていない味方の物理攻撃力と魔法攻撃力を(\d+)アップバリアが展開されていない味方の物理クリダメと魔法クリダメを8％アップ風属性の味方のＴＰを200回復$"=►Tăng Tấn công vật lý & ma thuật của đồng đội có [Khiên] $1.\n►Tăng Sát thương phán đoán vật lý & ma thuật của đồng đội có [Khiên] 16%.\n►Tăng Tấn công vật lý & ma thuật của đồng đội không có [Khiên] $2.\n►Tăng Sát thương phán đoán vật lý & ma thuật của đồng đội không có [Khiên] 8%.\n►Hồi TP cho đồng đội Nguyên tố Gió 200.
+##EX##
+リトルノピウマ=Little Piuma
+リトルノピウマ+=Little Piuma+
+
+
+
+
+
+
+
+
+
+

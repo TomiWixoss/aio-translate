@@ -1,0 +1,33 @@
+##Profile##
+かわいいもの集め=Bộ Sưu Tập Đồ Dễ Thương
+お歌もにんじんも、ウサギさんも大好き♪=Yêu thích hát, cà rốt và thỏ
+【物理】中衛で、敵前衛を崩す、うさぎっこ。ユニオンバーストは、最も近い敵に大ダメージを与えた後隣の敵にも攻撃するので、前衛を早期に攻め落とせる。=[Vật lý] Một cô gái thỏ đánh tan hàng ngũ tiền tuyến địch từ trung tuyến. Union Burst của cô ấy gây sát thương lớn lên kẻ địch gần nhất, sau đó tấn công kẻ địch bên cạnh nó, nhanh chóng loại bỏ hàng phòng thủ của chúng.
+
+##UB##
+うさぎさんスラッシュ=Lưỡi Kiếm Thỏ
+目の前の敵１キャラに物理中ダメージを与え、さらに２番目に近い敵１キャラに物理大ダメージを与える。=Gây sát thương vật lý vừa phải lên kẻ địch đứng trước mặt và sát thương vật lý lớn lên kẻ địch đứng thứ hai gần nhất.
+r:"^目の前の敵単体に(\d+)の物理ダメージ２番目に近い敵単体に(\d+)の物理ダメージ$"=►Gây $1 sát thương vật lý lên kẻ địch gần nhất.\n►Gây $1 sát thương vật lý lên mục tiêu thứ hai gần nhất.
+
+##S1##
+ぴょんぴょんアタック=Nhảy Loạn Xạ Thỏ
+味方全体の物理攻撃力を小アップさせる。=Tăng nhỏ Tấn công Vật lý cho đồng minh.
+r:"^味方全体の物理攻撃力を(\d+)アップ$"=►Tăng Tấn công Vật lý của đồng minh bằng $1.
+
+##S2##
+うさぎさんエール=Sức Mạnh Thỏ
+
+##EX##
+うさぎさんパワー=Sức Mạnh Thỏ
+うさぎさんパワー+=Sức Mạnh Thỏ+
+
+##UB+##
+うさぎさんレボリューション=Cách Mạng Thỏ
+前方範囲内の敵すべてに物理大ダメージを与え、さらに自分から２番目に近い敵を中心とした範囲内の敵すべてに物理特大ダメージを与える。=Gây sát thương vật lý lớn lên tất cả kẻ địch trong tầm và sát thương vật lý khổng lồ lên tất cả kẻ địch đứng thứ hai gần nhất trong tầm.
+r:"^前方範囲内の敵に(\d+)の物理ダメージ２番目に近い敵を中心とした範囲内の敵に(\d+)の物理ダメージ$"=►Gây $1 sát thương vật lý lên tất cả kẻ địch trong tầm.\n►Gây $2 sát thương vật lý lên mục tiêu thứ hai gần nhất trong tầm.
+
+##S1+##
+ぴょんぴょんアタック+=Nhảy Loạn Xạ Thỏ+
+前方範囲内の敵すべてに物理大ダメージを与える。=Gây sát thương vật lý lớn lên kẻ địch trong tầm.
+
+##UE##
+うさぎさんブレード=Lưỡi Kiếm Thỏ Lớn

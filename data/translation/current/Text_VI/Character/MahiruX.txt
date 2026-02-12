@@ -1,0 +1,28 @@
+##Profile##
+【物理】中衛で味方を支援し、守護する聖夜の牧場主。範囲内の敵をノックバックさせることで相手の隊列を崩し全体物理バリア展開と単体ＨＰ回復で激戦を勝利に導く。=[Vật Lý] Chủ trang trại đêm thánh, hỗ trợ và bảo vệ đồng đội ở tuyến giữa. Bằng cách đẩy lùi kẻ thù trong tầm, cô phá rối hàng ngũ của chúng và dẫn dắt trận chiến đến chiến thắng với việc triển khai khiên phòng thủ diện rộng và hồi máu cho một mục tiêu đơn lẻ.
+
+##UB##
+エリザベスドリームランド=Đất Nước Giấc Mơ Elizabeth
+味方全体の物理防御力を中アップさせ、さらに物理無効バリアを展開する。=Tăng trung bình phòng thủ vật lý cho tất cả đồng đội, và triển khai khiên cho tất cả đồng đội, khiên này chống lại sát thương vật lý.
+r:"^味方全体の物理防御力を(\d+)アップ(\d+)ダメージ分の物理無効バリアを展開する$"=►Tăng phòng thủ vật lý của đồng đội lên $1 trong 18s.\n►Triển khai khiên cho tất cả đồng đội, chống lại $2 sát thương vật lý trong 18s.
+
+##S1##
+セイントハーベスト=Mùa Vụ Thánh
+最もＨＰが低い味方１キャラのＨＰを大回復させ、さらに物理防御力を中アップする。=Hồi máu cực lớn cho đồng đội có máu thấp nhất và tăng phòng thủ vật lý của họ một chút.
+
+##S2##
+ワイルドホイール=Bánh Xe Hoang Dã
+目の前の敵１キャラを中心とした範囲内の敵すべてに物理中ダメージを与え、さらに行動速度を大ダウンさせ、大きく吹き飛ばす。範囲内の敵の数に応じて吹き飛ばしの距離がダウンする。=Gây sát thương vật lý trung bình lên kẻ địch trong tầm của kẻ địch ở phía trước nhất, giảm mạnh tốc độ hành động của chúng và đánh bay chúng. Khoảng cách đánh bay phụ thuộc vào số kẻ địch trong tầm.
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵の行動速度を一定時間低下させる$"=►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi 150.\n►Giảm tốc độ hành động của kẻ địch trong phạm vi 150 xuống 60% trong 12s.\n►Đẩy lùi kẻ địch 600 đơn vị.
+
+##EX##
+クリスマスファーミング=Nông Trại Giáng Sinh
+クリスマスファーミング+=Nông Trại Giáng Sinh+
+
+##S1+##
+セイントハーベスト+=Mùa Vụ Thánh+
+最もＨＰが低い味方１キャラのＨＰを大回復させ、さらに物理防御力を中アップする。さらに味方全体の物理攻撃力を大アップし、ＨＰとＴＰを小回復する。=Hồi máu cực lớn cho đồng đội có máu thấp nhất và tăng phòng thủ vật lý của họ một chút. Ngoài ra, tăng mạnh tấn công vật lý cho tất cả đồng đội, và hồi nhẹ máu và TP của họ.
+r:"^味方単体のＨＰを(\d+)回復味方単体の物理防御力を(\d+)アップ味方全体の物理攻撃力を(\d+)アップ味方全体のＴＰを(\d+)回復味方全体のＨＰを(\d+)回復$"=►Hồi máu của đồng đội lên $1.\n►Tăng phòng thủ vật lý của đồng đội lên $2 trong 12s.\n►Tăng tấn công vật lý của tất cả đồng đội lên $3 trong 12s.\n►Hồi TP của tất cả đồng đội lên $4.\n►Hồi máu của tất cả đồng đội lên $5.
+
+##UE##
+大聖牧杖エリザベス=Great Holy Staff Elizabeth

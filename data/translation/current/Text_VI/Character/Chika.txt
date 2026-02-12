@@ -1,0 +1,52 @@
+##Profile##
+【魔法】後衛から、前衛の戦いをサポートする唱喚士。ユニオンバーストで、味方の回復と敵への攻撃を行う精霊を最前線に唱喚する。=[Ma Thuật] Một Song Summoner hỗ trợ đồng đội từ hậu phương. Union Burst của cô vừa hồi máu cho đồng đội vừa triệu hồi một linh hồn sẽ tấn công kẻ địch từ tuyến trước.
+
+各種楽器=Various instruments
+
+人々を守るために歌う、唱喚士の少女=Cô gái bảo vệ người khác bằng ca hát, triệu hồi tinh linh hỗ trợ
+
+歌姫と迷い子の森=Nữ diva và những đứa trẻ lạc lối
+空回りの仮想デート=Cuộc hẹn ảo nhàn nhã
+千歌・オンステージ=Chika trên sân khấu
+森の奥に響く歌声=Bài Hát Từ Rừng
+迷いを振り切りたくて=Hát Cùng Em
+好きになってくれる人へ=Điều Gì Khiến Em Hạnh Phúc
+楽譜に導かれた出会い=Gặp Gỡ Trong Giấc Mơ
+もう一人の唱喚士=Một Triệu Hồi Sư Khác
+最初の一人はあなたがいい=Mong Là Chỉ Có Em
+新しい旋律の生まれる時=Sự Ra Đời Của Giai Điệu
+あなたのためだけの歌=Một Bài Hát Dành Riêng Cho Em
+
+##UB##
+シルフィードブレス=Lời Chúc Sylphid
+【召喚】チカの背後にいないすべての味方のＨＰを中回復し、さらに最も前の味方のそばに精霊を唱喚する。=[Triệu Hồi] Hồi một lượng vừa phải HP cho đồng minh phía trước và triệu hồi một tiên phong bên cạnh đồng minh tiên phong.
+r:"^範囲内の味方のＨＰを(\d+)回復精霊を唱喚する$"=►Hồi HP cho đồng minh phía trước bằng $1.\n►Triệu hồi một tinh linh bên cạnh đồng minh tiên phong.
+
+##S1##
+チアーソング=Bản Ca Hùng Tráng
+最も前の味方を中心として、範囲内の全味方の物理攻撃力を中アップさせる。=Tăng nhỏ P.ATK cho đồng minh trong phạm vi xung quanh đồng minh tiên phong.
+r:"^範囲内の味方の物理攻撃力を(\d+)アップ$"=►Tăng P.ATK cho đồng minh trong phạm vi bằng $1.
+
+##S2##
+フェアリーズララバイ=Bản Ru Của Tiên
+目の前の敵１キャラの物理攻撃力を中ダウンさせる。=Giảm một lượng vừa phải P.ATK của kẻ địch đối diện trực tiếp.
+r:"^敵単体の物理攻撃力を(\d+)ダウン$"=►Giảm P.ATK của kẻ địch bằng $1.
+
+##EX##
+ギフテッドボイス=Giọng Hát Thiên Tài
+ギフテッドボイス+=Giọng Hát Thiên Tài+
+バトル開始時に自分の魔法攻撃力を中アップさせ、さらに自分の魔法防御力を小アップさせる。=Ngay từ đầu trận, tăng sức mạnh M.ATK và tăng sức mạnh M.DEF của bản thân.
+r:"^自分の魔法攻撃力を(\d+)アップ自分の魔法防御力を(\d+)アップ$"=►Tăng M.ATK của bản thân bằng $1.\n►Tăng M.DEF của bản thân bằng $2.
+
+##UB+##
+シルフィードオーケストラ=Dàn Nhạc Sylphid
+【召喚】味方全体のＨＰを中回復し、物理攻撃力を特大アップさせ、物理攻撃クリティカル時のダメージを中アップさせ、継続ＨＰ回復状態を付与する。さらに最も前の味方のそばに精霊を唱喚する。=[Triệu Hồi] Hồi vừa phải HP cho toàn bộ đồng minh, tăng mạnh P.ATK của họ, tăng vừa phải P.CRIT DMG, và ban hiệu ứng hồi HP liên tục nhỏ. Ngoài ra, triệu hồi một tinh linh bên cạnh đồng minh tiên phong.
+r:"^味方全体のＨＰを(\d+)回復味方全体の物理攻撃力を(\d+)アップ味方全体の物理攻撃クリティカル時のダメージを28％アップ毎秒ＨＰを(\d+)回復する精霊を唱喚する$"=►Hồi HP cho toàn bộ đồng minh bằng $1.\n►Tăng P.ATK cho toàn bộ đồng minh bằng $2 trong 18s.\n►Tăng P.CRIT DMG cho toàn bộ đồng minh bằng 28％ trong 18s.\n►Hồi HP cho toàn bộ đồng minh bằng $3/s trong 18.5s.\n►Triệu hồi một tinh linh bên cạnh đồng minh tiên phong.
+
+##S1+##
+チアーソング+=Bản Ca Hùng Tráng+
+最も前の味方を中心として、範囲内の味方すべての物理攻撃力を大アップ、物理クリティカルを中アップさせ、さらに範囲内の味方すべてを小回復するフィールドを展開する。=Tăng lớn P.ATK, tăng vừa phải P.CRIT Rate, và hồi HP cho đồng minh trong phạm vi xung quanh đồng minh tiên phong.
+r:"^範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理クリティカルを50アップ毎秒ＨＰを(\d+)回復するフィールドを展開する$"=Thời gian niệm: 1.5s\n►Tăng P.ATK cho đồng minh trong phạm vi 200 bằng $1 trong 12s.\n►Tăng P.CRIT Rate cho đồng minh trong phạm vi 200 bằng 50 trong 12s.\n►Triển khai một trường phạm vi 250 hồi HP cho đồng minh bằng $2/s trong 8s.
+
+##UE##
+翠霊譜ルーンノーツ=Ghi Chú Bản Nhạc Ngọc Bích

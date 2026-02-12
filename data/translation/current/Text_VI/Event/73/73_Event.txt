@@ -1,0 +1,20 @@
+r:"^訓練キャンプ([0-9\-\(\)\w （）]*)$"=Trại Huấn luyện $1
+剛雷獣・ライガホーン=Raigahorn Quái Thú Sấm Sét Vĩ Đại
+剛雷獣=Gou Raiju
+
+最も近い敵３キャラに物理大ダメージを与える。=Gây sát thương P.DMG lên 3 nhân vật địch gần nhất.
+ユニオンバーストは、敵全体に自身の物理防御力に応じた物理大ダメージと、自身の魔法防御力に応じた魔法大ダメージを与える。=Union Burst gây sát thương P.DMG khổng lồ lên tất cả kẻ địch dựa trên sức mạnh phòng thủ vật lý của chính nó, và sát thương M.DMG khổng lồ dựa trên M.DEF của chính nó.
+最終訓練にて遭遇した剛力無双の一角獣。筋骨隆々の怪腕が大地を割り、稲妻纏う雷角が新兵たちの喉元に突き立てられる。=Một kỳ lân với sức mạnh vô song gặp phải trong đợt huấn luyện cuối. Một cánh tay cơ bắp, bí ẩn chẻ đất, và một chiếc sừng sấm sét được bọc trong tia chớp được thọc vào cổ các tân binh.
+自身のＨＰが30％を切ると、自身の物理防御力と魔法防御力が大アップする。さらに自身の行動速度が大アップする。=Khi HP của nó giảm dưới 30%, P.DEF và M.DEF của nó sẽ tăng lên rất lớn. Hơn nữa, tốc độ hành động của nó cũng sẽ tăng lên rất lớn.
+
+ユニオンバーストは、敵全体に物理特大ダメージと魔法特大ダメージを与える。さらに【滅却の蛮雷】使用までのカウントダウンが進む。【滅却の蛮雷】使用までのカウントダウンが０回になった時、【滅却の蛮雷】を使用する。=Union Burst gây sát thương Vật Lý và Ma Thuật khổng lồ lên tất cả đối thủ. Ngoài ra, bộ đếm ngược để sử dụng [Trận Mưa Lửa Phá Hủy] sẽ tiến triển. Khi bộ đếm ngược cho việc sử dụng [Sự Sụp Đổ] về 0, hãy sử dụng [Quyết Định Sụp Đổ].
+最も近い敵１キャラに物理特大ダメージを与え、スタン状態を付与する。このスキルの状態異常はダメージを無効化しても付与される。【滅却の蛮雷】=
+最も近い敵１キャラに物理特大ダメージを与え、\n　スタン状態を付与する。このスキルの状態異常\n　はダメージを無効化しても付与される。【滅却の蛮雷】\n=Gây sát thương P.DMG khổng lồ lên nhân vật địch gần nhất và gây hiệu ứng trạng thái choáng. Các tình trạng bệnh của kỹ năng này có thể được truyền vào ngay cả khi sát thương bị loại bỏ.\n\n[Sấm Sét Phá Hủy]
+
+飛行状態のキャラを含む敵全体に999999×５ヒットの魔法固定ダメージを与える。このスキルで受けるダメージでは、敵のＴＰが回復しない。=Gây 999×5 lần sát thương ma thuật cố định lên tất cả đối thủ, bao gồm cả nhân vật đang bay. Kỹ năng này sẽ không hồi TP cho đối thủ.
+ライガホーンから受けるすべてのダメージで発生する、パーティキャラのＴＰ回復量を中ダウンさせる。=Điều này làm giảm tốc độ hồi TP của thành viên trong party từ mọi sát thương nhận vào từ Laiga Horn.
+巨角を蒼く輝かせ、雄々しき肉体は雷を蓄える。臨界点に達せば勝負はそれまで。降り注ぐ蛮雷はあたり一面を塵へと変えるだろう。=Những chiếc sừng khổng lồ của nó phát ra màu xanh ngọc, cơ thể nam tính tích tụ sấm sét. Một khi đạt đến điểm tới hạn, trận chiến kết thúc. Cơn sấm man rợ sẽ biến toàn bộ khu vực thành tro bụi.
+森の魔物を従属させるは恐れ慕いし教官たちの影。真の『壊し屋』の教え子なれば、紛いものになど屈することは許されない。=Bóng tối của những người hướng dẫn vừa sợ hãi vừa ngưỡng mộ khi chinh phục quỷ dữ ở rìa rừng. Một học trò thực sự của "người môi giới" sẽ không được phép khuất phục trước điều giả dối.
+ライガホーンは環境効果によるダメージを受けない。=Raigahorns không nhận sát thương từ các hiệu ứng môi trường.
+自身のＨＰが50％を切ると、自身の物理防御力と魔法防御力が大アップする。さらに自身の行動速度が大アップする。=Khi HP của chính mình giảm xuống dưới 50%, phòng thủ vật lý và ma thuật của chính mình sẽ tăng lên rất lớn. Tốc độ di chuyển của chính mình còn tăng lên thêm nữa.
+猛る獣は死力を尽くし雷光を迸らせる。厳しくも実り豊かなブートキャンプの集大成！恐怖に打ち勝ち、一人前の『騎士』と成れ！=Những con thú điên cuồng dùng hết sức mình để giải phóng sấm sét. Đỉnh cao của một khóa huấn luyện khắc nghiệt nhưng bội thu! Vượt qua nỗi sợ và trở thành "hiệp sĩ" thực thụ!

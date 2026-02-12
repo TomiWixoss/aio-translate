@@ -1,0 +1,33 @@
+##Profile##
+【物理】中衛の、ナマイキで超天才な盗賊ギルドの三女。【味方バリアー♡】で自分へのダメージを味方に押し付けＨＰ最大でダメージアップする範囲攻撃で敵を蹂躙する。=[Vật lý] Em gái thứ ba của bang Bandy Sister, một tuyến giữa nghịch ngợm và là thiên tài siêu phàm. Với [Khiên Đồng đội♡], cô đẩy sát thương lên đồng đội và đè bẹp kẻ thù bằng các đòn tấn công diện rộng có sức mạnh tăng lên khi HP ở tối đa.
+ワカナをいぢめること=Để trêu chọc Wakana
+花井美春=Hanai Miharu
+妹=Chị gái em
+生意気だけど超天才！　盗賊ギルドの三女=Nghịch ngợm nhưng thiên tài siêu phàm! Con gái thứ ba của bang Đạo tặc
+
+##UB##
+しんじゃえ♡フルバースト=Die♡ Full Burst
+自分の物理攻撃力を特大アップさせる。さらに目の前の敵１キャラを中心とした範囲内の敵すべてに物理大ダメージを与え、物理防御力を中ダウンさせ、スタンさせる。ＨＰが最大の場合、このスキルのダメージがアップし、追加で最も物理防御力の低い敵１キャラに物理特大ダメージを与える。=Tăng cường mạnh mẽ Tấn công vật lý của bản thân, và gây lượng lớn sát thương vật lý lên kẻ thù trong phạm vi, hạ thấp Sát thương vật lý của chúng và làm choáng. Nếu HP của Fubuki là 100%, sát thương kỹ năng này tăng lên, và gây thêm một lần lượng lớn sát thương vật lý lên kẻ thù có Sát thương vật lý thấp nhất.
+r:"^自分の物理攻撃力を(\d+)アップ範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理防御力を(\d+)ダウン範囲内の敵を一定時間行動不能にするＨＰが最大の場合、敵単体に(\d+)の物理ダメージ$"=►Tăng Tấn công vật lý của bản thân $1 trong 18s.\n►Gây $2 sát thương vật lý lên kẻ thù trong phạm vi 1000.\n►Gây choáng lên kẻ thù trong phạm vi 1000 trong 2.5s.\n►Hạ thấp Sát thương vật lý của kẻ thù trong phạm vi 1000 $3 trong 18s.\n\nNếu HP bản thân là 100%:\n►Gây $4 sát thương vật lý lên một kẻ thù.
+
+##S1##
+かばって♡味方シールド=Protect Me♡Ally Shield
+前方の自分以外の一番前の味方１キャラに【味方バリアー♡】を付与する。【味方バリアー♡】が付与されている間、自分への攻撃を【味方バリアー♡】が付与されている味方１キャラが代わりに受ける。さらに自分の物理攻撃力と物理クリティカルを大アップ、物理攻撃クリティカル時のダメージを小アップして、ＨＰを中回復、ＴＰを小回復する。=Áp dụng trạng thái [Khiên Đồng đội♡] lên đồng đội phía trước nhất. Trong khi [Khiên Đồng đội♡] có hiệu lực, mọi đòn tấn công nhắm vào bản thân sẽ do đồng đội mang trạng thái [Khiên Đồng đội♡] nhận lấy. Đồng thời tăng cường mạnh mẽ Tấn công vật lý và Tỷ lệ phán đoán vật lý của bản thân, tăng nhẹ Sát thương phán đoán vật lý, hồi phục lượng trung bình HP và hồi nhẹ TP của bản thân.
+r:"^味方単体に【味方バリアー♡】を付与自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを150アップ自分の物理攻撃クリティカル時のダメージを7％アップ自分のＨＰを(\d+)回復自分のＴＰを80回復$"=►Áp dụng [Khiên Đồng đội♡] lên một đồng đội.\n►Tăng Tấn công vật lý của bản thân $1 trong 12s.\n►Tăng Tỷ lệ phán đoán vật lý của bản thân 150 trong 12s.\n►Tăng Sát thương phán đoán vật lý của bản thân 7% trong 12s.\n►Hồi HP của bản thân $2.\n►Hồi TP của bản thân 80.
+
+r:"^味方単体に【味方バリアー♡】を付与自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを(\d+)アップ自分の物理クリダメを(\d+)％アップ自分のＨＰを(\d+)回復自分のＴＰを(\d+)回復$"="►Tặng [Khiên Đồng đội♡] cho một đồng đội đơn lẻ.\n►Tăng Tấn công vật lý của bản thân $1.\n►Tăng TỶ LỆ PHÁN ĐOÁN VẬT LÝ của bản thân $2.\n►Tăng SÁT THƯƠNG PHÁN ĐOÁN VẬT LÝ của bản thân $3%.\n►Hồi HP của bản thân $4.\n►Hồi TP của bản thân $5."
+
+##S2##
+きゅっ♡イズナランチャー=Kyuu♡ Izuna Launcher
+目の前の敵１キャラを中心とした範囲内の敵すべてに物理中ダメージを与え、物理防御力を小ダウンさせる。ＨＰが最大の場合、このスキルのダメージがアップする。=Gây sát thương vật lý trung bình lên kẻ thù trong phạm vi, và hạ thấp Sát thương vật lý của chúng. Nếu HP của Fubuki là 100%, sát thương kỹ năng này tăng lên.
+
+##EX##
+ナマイキ♡ジーニアス=Cheeky♡Genius
+ナマイキ♡ジーニアス+=Cheeky♡Genius+
+
+##UE##
+イズナランチャー♡かすたむ=Izuna Launcher♡Kasumi
+##S1+##
+かばって♡味方シールド+=Protect Me♡Ally Shield+
+前方の自分以外の一番前の味方１キャラに【味方バリアー♡】を付与してＨＰを小回復する。【味方バリアー♡】が付与されている間、自分への攻撃を【味方バリアー♡】が付与されている味方１キャラが代わりに受ける。さらに自分の物理攻撃力と物理クリティカルを特大アップ、物理攻撃クリティカル時のダメージを小アップして、ＨＰを中回復、ＴＰを小回復する。ＨＰが最大の場合、ＴＰの回復量がアップする。=Tặng [Khiên Đồng đội♡] cho đồng đội phía trước nhất (trừ bản thân) ở phía trước, hồi nhẹ HP của họ. Trong khi [Khiên Đồng đội♡] còn hiệu lực, các đòn tấn công nhắm vào bản thân sẽ do đồng đội có [Khiên Đồng đội♡] nhận lấy. Ngoài ra, tăng cường mạnh mẽ Tấn công vật lý và Tỷ lệ phán đoán vật lý của bản thân, tăng nhẹ Sát thương phán đoán vật lý, hồi phục lượng trung bình HP, và hồi nhẹ TP của bản thân. Nếu HP ở tối đa, lượng hồi TP tăng lên.
+r:"^味方単体に【味方バリアー♡】を付与味方単体のＨＰを(\d+)回復自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを200アップ自分の物理クリダメを12％アップ自分のＨＰを(\d+)回復自分のＴＰを80回復ＨＰが最大の場合、自分のＴＰを300回復$"=►Tặng [Khiên Đồng đội♡] cho một đồng đội đơn lẻ.\n►Hồi HP của một đồng đội đơn lẻ $1.\n►Tăng Tấn công vật lý của bản thân $2.\n►Tăng Tỷ lệ phán đoán vật lý của bản thân 200.\n►Tăng Sát thương phán đoán vật lý của bản thân 12%.\n►Hồi HP của bản thân $3.\n►Hồi TP của bản thân 80.\n►Nếu HP đầy, hồi TP của bản thân 300.

@@ -1,0 +1,98 @@
+オートで次のクエストへ進行！=Tiến tới nhiệm vụ tiếp theo với Tự động!
+オート進行=Tự động Tiến
+スキップチケットを使ってクエストをスキップ!=Bỏ qua nhiệm vụ bằng vé bỏ qua!
+オート進行設定中=Cài đặt Tự động Tiến
+主さま、オート進行が使えるようになりましたよ。\nオート進行はまだクリアしていないイベントクエストで使用できます。\nクエストの攻略が便利になりますので、さっそく使ってみましょう。=Chủ nhân, tính năng Tự động Tiến hiện đã có thể sử dụng. Tự động Tiến có thể được dùng trong nhiệm vụ sự kiện chưa được hoàn thành. Việc chinh phục nhiệm vụ sẽ thuận tiện hơn, hãy dùng ngay đi.
+
+停止する=Dừng
+停止しない=Không
+合計消費スタミナ=Tổng Thể lực Đã Tiêu
+オート進行設定=Cài đặt Tự động Tiến
+使用しない=Không dùng
+回復なしで開始=Bắt đầu mà không hồi phục
+sr:"^(メイン|イベント)クエスト(.+)まで進めるには、スタミナ回復が必要です。$"=Để tiến đến $1 Quest $2, bạn cần hồi phục thể lực.
+
+sr:"^オート進行で(メイン|イベント)(前編|後編|中編)?クエスト(.+)まで進めた場合、最大で以下のスタミナを消費します。$"=Nếu bạn tiến đến $2$1 Quest $2 với Tự động Tiến,\nbạn sẽ tiêu hao thể lực sau ở mức tối đa.
+プレイヤーLvアップ時や特別なコンテンツが解放された際、オート進行が停止する場合があります。=Khi người chơi lên cấp hoặc nội dung đặc biệt được phát hành, Tự động Tiến có thể dừng lại.
+オート進行中にユニオンバーストを使用するか設定します。=Thiết lập có sử dụng Union Burst khi Tự động Tiến hay không.
+オート進行中のユニオンバースト使用設定=Cài đặt Sử dụng Union Burst khi Tự động Tiến
+イベントストーリー解放時にオート進行を停止するか設定します。=Thiết lập có dừng Tự động Tiến khi cốt truyện sự kiện được phát hành hay không.
+イベントストーリー解放時のオート進行停止設定=Cài đặt Dừng Tự động Tiến Khi Cốt truyện Sự kiện Được Phát hành
+オート進行設定中はサポートキャラを編成できません。=Không thể chọn nhân vật hỗ trợ khi đang chạy chế độ Tự động Tiếp tục.
+オート進行を停止しますか？\n本オート進行により以下のスタミナ消費は実行されています。\n※リタイア、敗北時のスタミナ消費は含まれていません。=Bạn có muốn dừng Tự động Tiếp tục không?\nLượng Thể lực tiêu hao sau đây đã được xử lý bởi lần Tự động Tiếp tục này.\n※Lượng thể lực tiêu hao do rút lui hoặc thất bại không được tính vào.
+
+敗北のためオート進行を停止しました。\n本オート進行により以下のスタミナ消費は実行されています。\n※リタイア、敗北時のスタミナ消費は含まれていません。=Do thất bại, Tự động Tiếp tục đã bị tạm dừng. Lượng Thể lực tiêu hao sau đây đã được thực hiện theo lần Tự động Tiếp tục này.\n※Lượng thể lực tiêu hao do rút lui hoặc thất bại không được tính vào.
+
+スタミナ不足のためオート進行を停止しました。\n本オート進行により以下のスタミナ消費は実行されています。\n※リタイア、敗北時のスタミナ消費は含まれていません。=Tự động Tiếp tục đã dừng do không đủ thể lực.\nLượng thể lực tiêu hao sau đây đã được sử dụng trong lần tự di chuyển này.\n※Lượng thể lực tiêu hao do rút lui hoặc thất bại không được tính vào.
+
+☆3クリア未達成のためオート進行を停止しました。\n本オート進行により以下のスタミナ消費は実行されています。\n※リタイア、敗北時のスタミナ消費は含まれていません。=Tự động Tiếp tục đã dừng do không đạt được mức xếp hạng 3☆.\nLượng thể lực tiêu hao sau đây đã được sử dụng trong lần Tự động Tiếp tục này.\n※Lượng thể lực tiêu hao do rút lui hoặc thất bại không được tính vào.
+
+
+最終クエストのためオート進行を終了しました。\n本オート進行により以下のスタミナ消費は実行されています。\n※リタイア、敗北時のスタミナ消費は含まれていません。=Tự động Tiếp tục đã kết thúc do đã đến nhiệm vụ cuối cùng.\nLượng thể lực sau đây đã được tiêu hao trong phiên tự di chuyển này.\nLượng thể lực tiêu hao do rút lui hoặc thất bại không được tính vào.
+
+プレイヤーLvアップのためオート進行を停止しました。\n本オート進行により以下のスタミナ消費は実行されています。\n※リタイア、敗北時のスタミナ消費は含まれていません。=Tự động Tiếp tục đã bị tạm dừng do Cấp người chơi tăng lên.\nLượng thể lực sau đây đã được tiêu hao trong phiên Tự động Tiếp tục này.\n※Lượng thể lực tiêu hao do rút lui hoặc thất bại không được tính vào.
+
+エリア最終クエストのためオート進行を終了しました。\n本オート進行により以下のスタミナ消費は実行されています。\n※リタイア、敗北時のスタミナ消費は含まれていません。=Tự động Tiếp tục đã kết thúc do đã đến nhiệm vụ cuối cùng của khu vực.\nLượng thể lực sau đây đã được tiêu hao trong phiên Tự động Tiếp tục này.\n※Lượng thể lực tiêu hao do rút lui hoặc thất bại không được tính vào.
+
+
+イベントストーリー解放時に自動進行を停止するかの設定です。=Đặt để dừng Tự động Tiếp tục khi cốt truyện sự kiện được mở khóa.
+イベントストーリー解放時オート進行停止=Tự động Tiếp tục dừng lại khi cốt truyện sự kiện được mở khóa
+
+
+
+
+クエストクリア数=Nhiệm vụ Đã Hoàn Thành
+オート進行停止=Tạm Dừng Tự động Tiếp tục
+オート進行終了=Kết Thúc Tự động Tiếp tục
+オート進行報酬一覧=Danh Sách Phần Thưởng Tự động Tiếp tục
+[FF7C4E,D62146]所持上限を超えたアイテムはプレゼントに送られました。[-]=[FF7C4E,D62146]Các vật phẩm vượt quá giới hạn sở hữu\nđã được gửi đến món quà. [-]
+サブストーリー=Câu Chuyện Phụ
+メインストーリー解放=Mở Khóa Câu Chuyện Chính
+信頼度エピソード=Tập Câu Chuyện Thân Mật
+サブストーリー解放=Mở Khóa Câu Chuyện Phụ
+r:"^イベントストーリーが\n(\d+)[つ個]解放されました。$"=$1 Câu Chuyện Sự Kiện\nđã được mở khóa.
+r:"^メインストーリーが\n(\d+)[つ個]解放されました。$"=$1 Câu Chuyện Chính\nđã được mở khóa.
+r:"^サイドストーリーが\n(\d+)[つ個]解放されました。$"=$1 Câu Chuyện Phụ\nđã được mở khóa.
+r:"^サブストーリーが\n(\d+)[つ個]解放されました。$"=$1 Câu Chuyện Phụ\nđã được mở khóa.
+r:"^信頼度エピソードが\n(\d+)[つ個]解放されました。$"=$1 Tập Câu Chuyện Thân Mật\nđã được mở khóa.
+
+イベントストーリー解放=Mở Khóa Câu Chuyện Sự Kiện
+限定ショップにアイテムが\n追加されました。=Một vật phẩm đã được thêm vào cửa hàng giới hạn.
+オート進行解放コンテンツ一覧=Danh Sách Nội Dung Mở Khóa Bởi Tự động Tiếp tục
+キャラクターストーリー解放=Mở Khóa Câu Chuyện Nhân Vật
+sr:"^([べ-ヺー＆＝]+)の\n絆ランクが(\d+)になりました。$"=$1\nMức độ gắn bó là $2.
+
+特別なコンテンツの解放のため、オート進行を停止しました。\n本オート進行により以下のスタミナ消費は実行されています。\n※リタイア、敗北時のスタミナ消費は含まれていません。=Để mở khóa nội dung đặc biệt, tự di chuyển đã bị dừng lại.\nLượng thể lực tiêu hao sau đây đã được thực hiện bởi tự di chuyển này.\n※Lượng thể lực tiêu hao trong lúc rút lui hoặc thất bại không được tính vào.
+
+
+最小=Tối thiểu
+最大=Tối đa
+自動選択する=Tự động chọn
+ストーリーのオート再生時、複数の選択肢が表示された際に、選択肢を自動選択させるか設定します。\n「自動選択する」を選択すると、一番上の選択肢が自動選択されます。\n「自動選択しない」を選択すると、複数の選択肢が表示された際に、オート再生が一時停止します。\n※表示される選択肢が１つだけの場合、設定によらず自動選択されます。=Khi tự động phát cốt truyện, hãy chọn xem có tự động chọn lựa chọn khi nhiều lựa chọn được hiển thị hay không.\nChọn "Tự động chọn" sẽ tự động chọn lựa chọn đầu tiên.\nChọn "Không tự động chọn" sẽ tạm dừng tự động phát\nkhi nhiều lựa chọn được hiển thị.\n※Nếu chỉ có một lựa chọn được hiển thị, nó sẽ được tự động chọn bất kể cài đặt.
+ストーリーのオート再生設定=Cài đặt tự động phát cốt truyện
+クエスト挑戦時に挑戦回数の設定を、最小回数か最大回数のどちらにするか設定します。=Đặt số lượng vé bỏ qua mặc định để sử dụng cho nhiệm vụ giới hạn số lần thử.
+挑戦回数上限設定=Cài đặt số lượng bỏ qua
+自動選択しない=Không tự động chọn
+
+主さま、オート進行が使えるようになりましたよ。\nオート進行はまだクリアしていないメインクエストで使用できます。=Chủ nhân, tiến độ của Tự động Tiếp tục hiện đã sẵn sàng. Tự động Tiếp tục có thể được sử dụng trong nhiệm vụ chính chưa được hoàn thành.
+オート進行中の各条件は主さまお好みの設定ができるようです。\nクエストの攻略が便利になりますので、さっそく使ってみましょう。=Mỗi điều kiện trong Tự động Tiếp tục dường như có thể đặt Nhiệm vụ Chính yêu thích của bạn. Việc chinh phục sẽ rất tiện lợi, vì vậy hãy sử dụng ngay lập tức.
+
+クエストクリアごとの最大消費マナ=Lượng Tiêu Hao Mana Tối Đa Mỗi Nhiệm Vụ Đã Hoàn Thành
+最大消費マナ=Lượng Tiêu Hao Mana Tối Đa
+r:"^プレイヤーLv(\d+)以下は実際に消費するマナが上記より少ない場合があります。$"=Người chơi cấp $1 hoặc thấp hơn thực tế có thể tiêu hao ít mana hơn mức trên.
+マナが不足した場合、オート進行が停止します。=Nếu mana không đủ, Tự động Tiếp tục sẽ dừng lại.
+オート進行停止条件設定=Cài đặt điều kiện dừng Tự động Tiếp tục
+オート進行が停止する条件を設定します。\n選択した停止条件に該当しない難易度の場合は、エリアの最終クエストクリアでオート進行が停止します。=Đặt các điều kiện để dừng Tự động Tiếp tục. Trong trường hợp mức độ khó không nằm\n trong các điều kiện dừng đã chọn, Tự động Tiếp tục sẽ dừng bằng cách hoàn thành nhiệm vụ cuối cùng trong khu vực.
+
+スタミナが不足するまで=Cho đến khi hết thể lực
+BOSS出現クエスト直前=Trước khi gặp BOSS
+ストーリー解放時=Mở khóa cốt truyện
+☆3クリア未達成時の停止設定=Dừng cài đặt khi chưa đạt được xếp hạng ☆3
+☆3クリアが出来なかった場合にオート進行を停止するか設定します。=Đặt để dừng Tự động tiến lên nếu không thể hoàn thành sao 3.
+スタミナが不足するまでクエストをオートで進行します。オート進行中に回復したスタミナも消費します。=Nhiệm vụ sẽ tự động tiến lên cho đến khi hết thể lực.\nĐồng thời tiêu hao cả thể lực đã hồi trong quá trình tự động.
+特別なコンテンツが解放された場合、オート進行が停止する場合があります。=Dừng Tự động tiến lên khi mở khóa nội dung đặc biệt.
+バトル中のボス会話をスキップするか設定します。=Bỏ qua hoặc đặt đối thoại với boss trong trận chiến.
+ボスバトル時会話のスキップ設定=Cài đặt bỏ qua đối thoại trong trận chiến với boss
+
+オート進行中サポート確認=Xác nhận Hỗ trợ Tự động tiến lên
+オート進行中は2戦目以降も\n選択したサポートキャラが\n編成されます。=Trong khi Tự động tiến lên,\nnhân vật hỗ trợ đã chọn sẽ được thêm vào đội\nngay cả từ trận chiến thứ hai trở đi.

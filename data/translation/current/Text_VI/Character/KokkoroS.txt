@@ -1,0 +1,31 @@
+##Profile##
+【物理】中衛で、物理キャラの補助を行う癒しの巫女。ＨＰが一番少ない味方単体への特大回復スキルを持ち、瀕死の味方ですら瞬時に治癒する。=[Vật Lý] Một nữ tu sĩ hồi phục hỗ trợ nhân vật vật lý từ trung tuyến. Với khả năng hồi phục cực mạnh cho thành viên đội có HP thấp nhất, cô có thể đưa đồng minh trở lại từ bờ vực cái chết trong tích tắc.
+
+##UB##
+オーシャンヒール=Hồi phục Đại dương
+最もＨＰが低い味方１キャラのＨＰを特大回復させる。=Hồi phục cực mạnh HP của một đồng minh có HP thấp nhất.
+最もＨＰの割合が低い味方１キャラのＨＰを特大回復させる。=Hồi phục cực mạnh HP của một đồng minh có HP thấp nhất.
+
+##S1##
+ネレイドスピア=Thương Nereid
+
+##S2##
+ネーブルサポート=Hỗ trợ Rốn
+味方全体の物理攻撃力を中アップさせる。=Tăng nhẹ P.ATK cho tất cả đồng minh.
+
+##EX##
+夏の天啓=Tiên tri Mùa hè
+夏の天啓+=Tiên tri Mùa hè+
+
+##UB+##
+オーシャンサンクチュアリ=Thánh địa Đại dương
+最もＨＰの割合が低い味方１キャラのＨＰを特大回復させる。さらに味方全体のＨＰを中回復し、物理攻撃力を特大アップ、ＴＰ上昇を小アップさせ、物理攻撃クリティカル時のダメージを中アップさせる。さらに敵全体の物理防御力を小ダウンさせる。=Hồi phục cực mạnh HP của một đồng minh có HP thấp nhất, và hồi phục trung bình HP cho tất cả đồng minh. Tăng mạnh P.ATK cho tất cả đồng minh, tăng trung bình P.CRIT DMG và tăng nhẹ Cường TP của họ. Ngoài ra, giảm nhẹ P.DEF của tất cả kẻ địch. Tất cả hiệu quả kéo dài 18s.
+最もＨＰが低い味方１キャラのＨＰを特大回復させる。さらに味方全体のＨＰを中回復し、物理攻撃力を特大アップ、ＴＰ上昇を小アップさせ、物理攻撃クリティカル時のダメージを中アップさせる。さらに敵全体の物理防御力を小ダウンさせる。=Hồi phục cực mạnh HP của một đồng minh có HP thấp nhất, và hồi phục trung bình HP cho tất cả đồng minh. Tăng mạnh P.ATK cho tất cả đồng minh, tăng trung bình P.CRIT DMG và tăng nhẹ Cường TP của họ. Ngoài ra, giảm nhẹ P.DEF của tất cả kẻ địch. Tất cả hiệu quả kéo dài 18s.
+r:"^味方単体のＨＰを(\d+)回復味方全体のＨＰを(\d+)回復味方全体の物理攻撃力を(\d+)アップ味方全体のＴＰ上昇を10アップ味方全体の物理攻撃クリティカル時のダメージを20％アップ敵全体の物理防御力を(\d+)ダウン$"=►Hồi phục HP của một đồng minh lên $1.\n►Hồi phục HP của tất cả đồng minh lên $2.\n►Tăng P.ATK của tất cả đồng minh lên $3.\n►Tăng Cường TP của tất cả đồng minh lên 10.\n►Tăng P.CRIT DMG của tất cả đồng minh lên 20%.\n►Giảm P.DEF của tất cả kẻ địch lên $4.
+
+##S1+##
+ネレイドスピア+=Thương Nereid+
+目の前の敵１キャラに物理小ダメージを与え、さらに物理防御力を大ダウンさせる。=Gây ra một lượng Sát Thương Vật Lý nhỏ cho kẻ địch phía trước và giảm mạnh Phòng Thủ Vật Lý của chúng.
+
+##UE##
+涼槍アクアスカッシュ=Gió Biển Lances

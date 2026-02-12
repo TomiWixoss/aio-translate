@@ -1,0 +1,26 @@
+##Profile##
+【物理】中衛で、駄菓子を振舞い福を蒔く猫カフェ店員。攻撃を３回受けるまで味方全体の物理攻撃力を極大アップさせ、２種の物防ダウンスキルで序盤を一気に加勢する。=[Vật Lý] Nhân viên quán cà phê mèo mang lại niềm vui bằng cách phục vụ đồ ăn vặt ở tuyến giữa. Cho đến khi nhận 3 lần tấn công, tăng mạnh tấn công vật lý cho toàn đội và hỗ trợ đội với 2 loại kỹ năng giảm phòng thủ vật lý để bắt đầu trận đấu.
+
+##UB##
+招福カッツェンレーゲン=Fortune Call Katzenregen
+目の前の敵１キャラに物理特大ダメージを与え、物理防御力を中ダウンさせる。=Gây sát thương P.DMG lớn cho kẻ địch phía trước và giảm trung bình P.DEF của chúng.
+
+##S1##
+バブルガムポップ=Bubble Gum Pop
+目の前の敵１キャラに物理中ダメージを与え、物理防御力を小ダウンさせる。=Gây sát thương P.DMG trung bình cho kẻ địch phía trước và giảm nhẹ P.DEF của chúng.
+
+##S2##
+キャンディシャワー=Candy Shower
+自分に継続ＴＰ回復状態を付与し、味方全体の物理防御力を中アップさせる。さらに３回攻撃を受けるか一定時間経過するまでの間、味方全体の物理攻撃力を極大アップさせる。=Khôi phục TP cho bản thân và tăng trung bình P.DEF cho toàn đội. Đồng thời, tăng mạnh P.ATK cho toàn đội cho đến khi Monika bị tấn công 3 lần hoặc một khoảng thời gian nhất định trôi qua.
+r:"^キャンディを振りまいている間、味方全体の物理攻撃力を(\d+)アップ味方全体の物理防御力を(\d+)アップ毎秒ＴＰを15回復する$"=Thời gian niệm: 0.59s\n►Tăng P.ATK cho toàn đội $1 trong 24s, nhưng bị gián đoạn khi nhận sát thương 3 lần.\n►Tăng P.DEF cho toàn đội $2 trong 24s.\n►Khôi phục TP cho bản thân 15/s trong 24.5s.
+
+##EX##
+コーヒーブレイク=Coffee Break
+コーヒーブレイク+=Coffee Break+
+
+##S1+##
+バブルガムポップ+=Bubble Gum Pop+
+目の前の敵１キャラに物理大ダメージを与え、物理防御力を小ダウンさせる。バトル開始後、初弾のこのスキルは追加で目の前の敵１キャラの物理防御力を大ダウンさせる。=Gây sát thương P.DMG lớn cho kẻ địch phía trước và giảm nhẹ P.DEF của chúng trong 12s. Khi trận đấu bắt đầu, lần dùng kỹ năng đầu tiên giảm P.DEF của kẻ địch một lượng trung bình trong 30s.
+
+##UE##
+ナッシュカッツェ店長服=Naschkatze Manager Uniform

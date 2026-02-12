@@ -1,0 +1,42 @@
+##Profile##
+【魔法】後衛で、敵全体を誘惑するセクシー先生。敵のＴＰを奪うスキルでユニオンバースト発動を遅らせ、誘惑のユニオンバーストを放ち、戦場を大混乱に陥れる。=[Phép thuật] Một giáo viên quyến rũ mê hoặc phe địch từ hàng sau. Đánh cắp TP của đối thủ để làm chậm Union Burst của họ, đồng thời gây hỗn loạn với Union Burst quyến rũ của chính mình.
+
+恋愛小説、恋愛舞台、恋愛漫画の鑑賞=Tiểu thuyết lãng mạn, kịch lãng mạn và truyện tranh lãng mạn
+多くの男性を魅了する無垢な女教師=Một giáo viên lòng dạ trong trẻo\nquyến rũ trái tim đàn ông
+
+##UB##
+ハートラブストーム=Cơn Bão Trái Tim Đáng Yêu
+敵全体に魔法小ダメージを与え、さらに誘惑状態にする。=Gây sát thương phép nhỏ và khiến tất cả kẻ địch bị Mê hoặc.
+r:"^敵全体に(\d+)の魔法ダメージ敵全体を誘惑する$"=►Gây $1 sát thương phép cho tất cả kẻ địch.\n►Khiến tất cả kẻ địch bị Mê hoặc trong 4s.
+
+##S1##
+テイルウィップ=Voi Quất
+前から２番目の敵１キャラを中心とした範囲内の敵すべてに魔法小ダメージを与える。=Gây sát thương phép nhỏ cho tất cả kẻ địch trong phạm vi, tâm là nhân vật thứ hai từ phía trước.
+
+##S2##
+ソウルドレイン=Hút Hồn
+ランダムな敵１キャラのＴＰを小ダウンさせ、さらに自分のＴＰを小回復する。=Giảm TP của một kẻ địch ngẫu nhiên một chút và đồng thời hồi lại TP của bản thân một chút.
+r:"^敵単体のＴＰを(\d+)失わせる自分のＴＰを(\d+)回復$"=►Giảm TP của kẻ địch $1.\n►Hồi TP của bản thân $2.
+## 260lvl
+ランダムな敵１キャラのＴＰを小ダウンさせ、物理攻撃力と魔法攻撃力を小ダウンさせる。さらに自分のＴＰを小回復する。=Giảm TP, P.ATK và M.ATK của một kẻ địch ngẫu nhiên một chút và đồng thời hồi lại TP của bản thân một chút.
+r:"^敵単体のＴＰを(\d+)失わせる敵単体の物理攻撃力を(\d+)ダウン敵単体の魔法攻撃力を(\d+)ダウン自分のＴＰを(\d+)回復$"=Thời gian niệm: 1.33s\n►Giảm TP của kẻ địch $1.\n►Giảm P.ATK của kẻ địch $2.\n►Giảm M.ATK của kẻ địch $3.\n►Hồi TP của bản thân $4.
+
+##EX##
+スウィートラブリーハート=Trái Tim Ngọt Ngào Yêu Thương
+スウィートラブリーハート+=Trái Tim Ngọt Ngào Yêu Thương+
+
+##UB+##
+ハートラブサイクロン=Xoáy Trái Tim Đáng Yêu
+Deals moderate M.DMG and inflicts Charm to all enemies.
+敵全体に魔法中ダメージを与え、ＴＰを小ダウンさせ、ＴＰ上昇を小ダウンさせ、さらに誘惑状態にする。=Gây sát thương phép vừa phải, giảm TP kẻ địch một chút, giảm Tăng TP kẻ địch một chút và khiến tất cả kẻ địch bị Mê hoặc.
+r:"^敵全体に(\d+)の魔法ダメージ敵全体のＴＰを(\d+)失わせる敵全体のＴＰ上昇を(\d+)ダウン敵全体を誘惑する$"=►Gây $1 sát thương phép cho tất cả kẻ địch.\n►Khiến tất cả kẻ địch bị Mê hoặc trong 5s.\n►Giảm TP kẻ địch $2.\n►Giảm Tăng TP của kẻ địch $3 trong 18s.
+
+##S1+##
+テイルウィップ+=Voi Quất+
+前から２番目の敵１キャラを中心とした範囲内の敵すべてに魔法中ダメージを与え、さらに誘惑状態の敵のＴＰを大ダウンさせ、そうでない敵の物理攻撃力と魔法攻撃力を中ダウンさせる。=Gây sát thương phép vừa phải cho tất cả kẻ địch trong phạm vi. Nếu chúng bị Mê hoặc, giảm TP của chúng rất nhiều; nếu không, giảm P.ATK và M.ATK của chúng một cách vừa phải.
+r:"^範囲内の敵に(\d+)の魔法ダメージ敵が誘惑状態の時、敵単体のＴＰを(\d+)失わせる敵が誘惑状態でない時、範囲内の敵の物理攻撃力を(\d+)ダウン$"=Thời gian niệm: 1.66s\n►Gây $1 sát thương phép cho kẻ địch trong phạm vi.\n\nNếu kẻ địch trong phạm vi bị Mê hoặc:\n►Giảm TP kẻ địch $2.\n►Giảm P.ATK của kẻ địch $3.
+## 260lvl
+r:"^範囲内の敵に(\d+)の魔法ダメージ敵が誘惑状態の時、敵単体のＴＰを(\d+)失わせる敵が誘惑状態でない時、範囲内の敵の物理攻撃力を(\d+)ダウン敵が誘惑状態でない時、範囲内の敵の魔法攻撃力を(\d+)ダウン$"=Thời gian niệm: 1.66s\n►Gây $1 sát thương phép cho kẻ địch trong phạm vi.\n\nNếu kẻ địch trong phạm vi bị Mê hoặc:\n►Giảm TP kẻ địch $2.\n►Giảm P.ATK của kẻ địch $3.\n►Giảm M.ATK của kẻ địch $4.
+
+##UE##
+グラマーウィップ=Voi Quyến Rũ

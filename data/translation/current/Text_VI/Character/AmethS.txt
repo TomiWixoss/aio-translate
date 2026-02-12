@@ -1,0 +1,29 @@
+##Profile##
+【魔法】後衛で、黄昏の水面に舞い降りる水着姿の妖精。行動速度アップやＴＰ支援をはじめとした多数のサポートを施しつつ、ＵＢの攻防弱体化で清爽に勝利へと導く。=[Phép Thuật] Một tiên mặc đồ bơi, nhảy múa trên mặt biển vàng rực. Cô ấy có nhiều kỹ năng hỗ trợ, bao gồm tăng tốc độ và TP. Và UB của cô ấy làm giảm tấn công và phòng thủ của kẻ địch. Với những thứ đó, cô ấy dẫn dắt chúng ta đến chiến thắng tươi mới.
+
+##UB##
+フィオレ・オセアーノ=Fiore Oceano
+目の前の敵１キャラに魔法特大ダメージを与え、物理攻撃力と魔法攻撃力を大ダウン、魔法防御力を小ダウンさせる。=Gây sát thương phép thuật lớn lên kẻ địch phía trước, giảm mạnh P.ATK và M.ATK của chúng, và giảm nhẹ M.DEF.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体の物理攻撃力を(\d+)ダウン敵単体の魔法攻撃力を(\d+)ダウン敵単体の魔法防御力を(\d+)ダウン$"=►Gây $1 sát thương phép thuật lên kẻ địch.\n►Giảm P.ATK của kẻ địch bằng $2 trong 18s.\n►Giảm M.ATK của kẻ địch bằng $3 trong 18s.\n►Giảm M.DEF của kẻ địch bằng $4 trong 18s.
+
+##S1##
+アクア・メンブラーナ=Màng Nước
+味方全体に物理/魔法無効バリアを展開する。さらに、最もＴＰが低い味方１キャラのＴＰを小回復させ、そのキャラを中心とした範囲内の味方すべてに継続ＴＰ回復状態を付与する。=Triển khai Màn Chắn lên toàn bộ đồng đội, chống lại sát thương vật lý/phép thuật. Đồng thời hồi phục nhẹ TP cho đồng đội có TP thấp nhất, và liên tục hồi phục TP cho đồng đội trong phạm vi xung quanh họ.
+r:"^(\d+)ダメージ分の物理魔法無効バリアを展開する味方単体のＴＰを50回復毎秒ＴＰを10回復する$"=►Triển khai Màn Chắn lên toàn bộ đồng đội, chống lại $1 sát thương vật lý/phép thuật trong 18s.\n►Hồi phục 50 TP cho một đồng đội.\n►Hồi phục 10 TP/giây cho đồng đội trong phạm vi 300 trong 10s.
+
+##S1+##
+アクア・メンブラーナ+=Màng Nước+
+r:"^(\d+)ダメージ分の物理魔法無効バリアを展開する味方全体に調和状態を付与する味方単体のＴＰを50回復毎秒ＴＰを10回復する$"="►Triển khai Màn Chắn Phá Sát Thương Vật Lý/Phép Thuật ($1)\n►Tặng [Hòa Hợp] cho toàn bộ đồng đội\n►Hồi phục 50 TP cho đồng đội có TP thấp nhất\n►Tặng 10 TP mỗi giây"
+r:"^味方全体に物理/魔法無効バリアを展開し、調和状態を付与する。さらに、最もＴＰが低い味方１キャラのＴＰを小回復させ、そのキャラを中心とした範囲内の味方すべてに継続ＴＰ回復状態を付与する。調和状態の間は物理防御力と魔法防御力のうち高い方によって計算されたダメージを受ける。$"="Triển khai Màn Chắn Phá Sát Thương Vật Lý/Phép Thuật cho toàn bộ đồng đội và tặng [Hòa Hợp]. Đồng thời hồi phục nhẹ TP cho đồng đội có TP thấp nhất và tặng hồi phục TP liên tục cho đồng đội xung quanh họ. Trong khi [Hòa Hợp] có hiệu lực, sát thương nhận được được tính bằng giá trị cao hơn giữa P.DEF và M.DEF."
+##S2##
+ヴィータ・オペラーレ=Vita Operare
+味方全体の行動速度を大アップさせる。さらに、最もＨＰが低い味方１キャラのＨＰを中回復させ、そのキャラを中心とした範囲内の味方すべてに継続ＨＰ回復状態を付与する。=Tăng mạnh tốc độ hành động của toàn bộ đồng đội. Đồng thời hồi phục trung bình HP cho đồng đội có HP thấp nhất, và liên tục hồi phục HP cho đồng đội trong phạm vi xung quanh họ.
+r:"^味方全体の行動速度アップ味方単体のＨＰを(\d+)回復毎秒ＨＰを(\d+)回復する$"=►Tăng tốc độ hành động của toàn bộ đồng đội lên 200% trong 12s.\n►Hồi phục HP của một đồng đội bằng $1.\n►Hồi phục HP của đồng đội trong phạm vi 300 bằng $2/giây trong 10s.
+
+##EX##
+ファータスプルッツォ=Fata Spruzzo
+ファータスプルッツォ+=Fata Spruzzo+
+
+
+##UE##
+アクア・ファータ=Aqua Fata

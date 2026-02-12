@@ -1,0 +1,147 @@
+ラン加入=Tham Gia Clan
+クラン検索=Tìm Kiếm Clan
+クラン結成=Tạo Clan
+勧誘リスト=Danh Sách Mời
+
+条件:誰でも加入=Mở Cho Tất Cả
+方針:指定なし=Chính Sách: Không Có
+人数:指定なし=Thành Viên: Không Có
+クランバトル:クランモード=CB: Chế Độ Clan
+
+勧誘設定:受け付ける=Sẽ nhận được lời mời
+勧誘設定:受け付けない=Không nhận được lời mời
+設定変更=Thay Đổi Cài Đặt
+勧誘設定を変更しますか？=Thay đổi cài đặt lời mời?
+クランからの勧誘を受け付けるか選択できます。\nすでにクランに所属している場合は、新たに勧誘はされません。=Chọn có nhận lời mời từ các bang hội hay không.\nBạn sẽ không nhận được lời mời nếu đã ở trong một Clan.
+受け付けない=Không chấp nhận
+受け付ける=Chấp nhận
+
+※2文字以上=Ít nhất 2 ký tự
+クラン名検索=Tìm kiếm theo Tên Clan
+メンバー人数=Thành Viên
+
+活動方針=Phong Cách
+自由にプレイ=Tự Do Chơi
+まったりプレイ=Thư Giãn
+がっつりプレイ=Chuyên Nghiệp
+初心者OK=Chào Đón Người Mới
+わいわいプレイ=Chỉ Vui Vẻ Thôi
+r:"^クランバトル([0-9,]+)位以内$"=Top $1
+毎日ログイン=Online Mỗi Ngày
+2日以内ログイン=Hoạt động trong 2 ngày
+朝プレイメイン=Chủ yếu buổi sáng
+昼プレイメイン=Chủ yếu buổi chiều
+夜プレイメイン=Chủ yếu buổi tối
+深夜プレイメイン=Chủ yếu ban đêm
+
+加入条件=Yêu cầu
+誰でも加入=Mở cho tất cả
+承認あり=Cần phê duyệt
+勧誘のみ=Chỉ theo lời mời
+
+シングルモード=Chế độ solo
+クランモード=Chế độ clan
+
+申請中=Đang chờ
+勧誘を拒否する=Từ chối lời mời
+加入申請する=Đăng ký
+
+プレイヤー情報を見る=Xem dữ liệu người chơi
+
+r:"^\[3C404E\]\[3C404E\]\[FFBB00\,CE4F00\](.+)\[-\]\nに加入申請を出しますか？\[-\]\[-\]$"=[3C404E]Đăng ký tham gia\n[FFBB00,CE4F00]$1[-]?[-]
+加入申請確認=Đơn đăng ký
+
+r:"^\[3C404E\]\[3C404E\]\[FFBB00\,CE4F00\](.+)\[-\]\nに加入申請を出しました。\[-\]\[-\]$"=[3C404E]Bạn đã đăng ký tham gia\n[FFBB00,CE4F00]$1[-].[-]
+加入申請完了=Đã gửi đơn
+
+r:"^\[3C404E\]\[3C404E\]\[FFBB00\,CE4F00\](.+)\[-\]に申請中です。\n申請を取り消しますか？\[-\]\[-\]$"=[3C404E]Hủy đơn đăng ký tham gia\n[FFBB00,CE4F00]$1[-]?[-]
+申請取り消し確認=Hủy đơn
+
+r:"^\[3C404E\]\[3C404E\]\[FFBB00\,CE4F00\](.+)\[-\]への\n申請を取り消しました。\[-\]\[-\]$"=[3C404E]Bạn đã hủy đơn đăng ký tham gia\n[FFBB00,CE4F00]$1[-].[-]
+申請取り消し完了=Đơn đã hủy
+
+[FF7C4E,D62146]検索結果に一致するクランが見つかりませんでした。[-]=[FF7C4E,D62146]Không tìm thấy clan nào phù hợp với tìm kiếm của bạn.[-]
+
+交代=Chuyển đổi
+サブリーダー=Phó lãnh đạo
+任命=Bổ nhiệm
+勧誘や、加入申請の管理=Tuyển dụng, quản lý đơn đăng ký
+クラン名やクラン説明の編集\nクランメンバーの管理\n勧誘や、加入申請の管理=Chỉnh sửa tên clan, mô tả clan, tuyển thành viên và quản lý đơn đăng ký tham gia
+以下のメンバーの役職変更・管理を行います。=Vai trò của thành viên sau sẽ được thay đổi.
+[3C404E][3C404E]<Player name regex here>を\nクランから除名しますか？[-][-]=[3C404E]Có nên loại bỏ <Regex capture here> khỏi clan không?[-]
+[3C404E][3C404E]<Player name regex here>を\nクランから除名しました。[-][-]=[3C404E]<Regex capture here> đã bị loại bỏ khỏi clan.[-]
+除名を取り消すことはできません。=Việc loại bỏ người chơi này không thể hoàn tác.
+除名確認=Xác nhận loại bỏ
+除名完了=Đã loại bỏ
+クラン説明=Mô tả clan
+クラン名=Tên clan
+クランの情報を設定します。=Thiết lập thông tin clan.
+※60文字以内=※Tối đa 60 ký tự
+※2文字以上10文字以内=※Từ 2 đến 10 ký tự
+クラン名を2文字以上入力してください。=Tên clan phải có ít nhất 2 ký tự.
+結成する=Tạo
+[FF7C4E,D62146]設定内容は結成後でも変更できます。[-]=[FF7C4E,D62146]Cài đặt có thể thay đổi sau.[-]
+r:"^\[3C404E\]\[3C404E\]クラン\[FFBB00\,CE4F00\](.+)\[-\]を\n結成しました。\[-\]\[-\]$"=[3C404E]Đã tạo clan\n[FFBB00,CE4F00]$1[-].[-]
+クラン結成完了=Clan đã tạo
+解散=Giải tán
+[3C404E][3C404E]クランを[-][FF7C4E,D62146]解散[-][3C404E]します。\nよろしいですか？[-][-]=[FF7C4E,D62146]Giải tán[-][3C404E] clan này?[-]
+[FF7C4E,D62146]解散後24時間はクランの結成・加入ができません。[-]=[FF7C4E,D62146]Bạn không thể tham gia hoặc tạo clan trong\n24 giờ sau khi giải tán.[-]
+クラン編集=Chỉnh sửa clan
+[FF7C4E,D62146]加入申請中のプレイヤーがいません。[-]=[FF7C4E,D62146]Không có đơn đăng ký từ người chơi.[-]
+メンバー管理=Quản lý thành viên
+勧誘プレイヤーリスト=Danh sách mời người chơi
+加入申請リスト=Danh sách đăng ký tham gia
+加入/勧誘リスト=Danh sách Mời/Tham gia
+メンバーを探す=Tìm thành viên
+r:"^プレイヤーLv ： ([0-9 ～]+)$"=Cấp người chơi: $1
+プレイヤー情報=Thông tin người chơi
+勧誘=Mời
+勧誘を解除=Hủy lời mời
+除名する=Xóa
+クラン勧誘=Mời gia nhập bang hội
+よろしくお願いします。=Rất vui được gặp cậu.
+シングルモード参加=Tham gia chế độ đơn
+r:"^(.+)をクランに勧誘しますか？$"=Mời $1 gia nhập bang hội?
+勧誘コメント=Lời mời
+r:"^(.+)を勧誘しました。$"=Cậu đã gửi lời mời tới $1.
+
+r:"^(.+)への勧誘を取り消しました。$"=Lời mời tới $1 đã bị hủy.
+勧誘取り消し=Hủy lời mời
+すでに勧誘済みです。=Đã mời rồi
+加入する=Tham gia
+勧誘
+r:"^\[3C404E\]\[3C404E\]\[FFBB00\,CE4F00\](.+)\[-\]からの勧誘を\n拒否しますか？\[-\]\[-\]$"=[3C404E]Từ chối lời mời từ\n[FFBB00,CE4F00]$1[-]?[-]
+勧誘拒否確認=Từ chối lời mời
+
+r:"^\[3C404E\]\[3C404E\]\[FFBB00\,CE4F00\](.+)\[-\]からの勧誘を\n拒否しました。\[-\]\[-\]$"=[3C404E]Cậu đã từ chối lời mời từ\n[FFBB00,CE4F00]$1[-].[-]
+勧誘拒否完了=Lời mời đã bị từ chối
+
+r:"^\[3C404E\]\[3C404E\]\[FFBB00\,CE4F00\](.+)\[-\]からの加入を\n拒否しますか？\[-\]\[-\]$"=[3C404E]Từ chối đơn đăng ký từ\n[FFBB00,CE4F00]$1[-]?[-]
+加入拒否確認=Từ chối đơn đăng ký
+
+r:"^\[3C404E\]\[3C404E\]\[FFBB00\,CE4F00\](.+)\[-\]からの加入を\n拒否しました。\[-\]\[-\]$"=[3C404E]Cậu đã từ chối đơn đăng ký từ\n[FFBB00,CE4F00]$1[-].[-]
+加入拒否完了=Đơn đăng ký bị từ chối
+
+r:"^\[3C404E\]\[3C404E\]\[FFBB00\,CE4F00\](.+)\[-\]\nに加入しますか？\[-\]\[-\]$"=[3C404E]Cậu có muốn tham gia\n[FFBB00,CE4F00]$1[-]?[-]
+加入確認=Xác nhận tham gia
+
+r:"^\[3C404E\]\[3C404E\]\[FFBB00\,CE4F00\](.+)\[-\]\nに加入しました。\[-\]\[-\]$"=[3C404E]Đã tham gia\n[FFBB00,CE4F00]$1[-].[-]
+加入完了=Gia nhập Bang hội
+
+クランを解散しました。=Bang hội đã giải tán.
+r:"^(\d+)時間(\d+)分後にクラン結成が可能です。$"=Cậu có thể tạo bang hội sau $1 giờ $2 phút.
+r:"^(\d+)分後にクラン結成が可能です。$"=Cậu có thể tạo bang hội sau $1 phút.
+r:"^(\d+)時間(\d+)分後にクラン加入が可能です。$"=Cậu có thể tham gia bang hội sau $1 giờ $2 phút.
+r:"^(\d+)分後にクラン加入が可能です。$"=Cậu có thể tham gia bang hội sau $1 phút.
+初心者応援クラン=Bang hội hỗ trợ người mới
+まったりやりましょう=Cứ thoải mái đi.
+サーバーエラー=Lỗi máy chủ
+前回、このプレイヤーから勧誘を拒否されました。\n勧誘拒否から24時間以内は勧誘できません。=Lần trước cậu đã từ chối lời mời từ người chơi này. Cậu không thể
+Invite within 24 hours after the Invitation is rejected.
+NPC
+他のプレイヤーと、クランを結成しましょう。\nクランを結成すると、クランバトルやダンジョンで協力して戦えます。=Cùng với người chơi khác tạo thành một bang hội.\nViệc này cho phép các cậu chiến đấu cùng nhau trong Trận chiến Bang hội và Hầm ngục.
+
+クランに入れるらしいわよ\nせっかくだから入ってみたら？\nけっこう楽しいみたいよ♪=Có vẻ như cậu có thể tham gia một Bang hội.\nSao không thử xem?\nSẽ vui lắm đấy!♪
+こちらでクランに加入できます\n素敵なクランがたくさんあって、\n目移りしてしまいますね=Cậu có thể tham gia Bang hội ở đây.\nCó quá nhiều Bang hội tuyệt vời, khó mà chọn lắm.
+クランに加入してみませんか？\nみんなといっしょに冒険した方が、\n楽しいですよ！=Muốn tham gia bang hội?\n Cùng nhau đi phiêu lưu sẽ vui hơn nhiều!
+ねぇ…クランに加入してみない？\n一人も楽しいけど、みんなと\n一緒も賑やかでいいと思うの=Này... Sao không tham gia bang hội? Một mình cũng tốt, nhưng mình nghĩ một nhóm ồn ào cũng không tệ.

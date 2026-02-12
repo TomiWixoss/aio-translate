@@ -1,0 +1,34 @@
+##Profile##
+【物理】中衛で、彷徨える魂を解き放つ海星の霊能少女。攻撃の際、付与する【霊錨の刻印】を駆使し、ダメージ量アップのスキルと防御力ダウンのＵＢで敵を浄滅へ導く。=[Vật Lý] Một cô gái tâm linh từ Neptune giải phóng linh hồn lạc trong tuyến giữa. Cô đánh dấu [Dấu Neo Linh Hồn] trong các đòn tấn công để tăng sát thương và dẫn dắt kẻ địch đến sự hủy diệt hoàn toàn với UB của mình, kỹ năng giảm P.DEF của kẻ địch.
+
+##UB##
+ソウルリベレーション=Giải Phóng Linh Hồn
+目の前の敵１キャラに物理大ダメージを与え、物理防御力を大ダウンさせる。対象の敵に【霊錨の刻印】が付与されている場合、【霊錨の刻印】の数に応じて最大８つ分までダメージを増加させ、【霊錨の刻印】を８つ消費する。=Gây sát thương vật lý lớn lên kẻ địch phía trước, giảm P.DEF của nó một cách nghiêm trọng. Sát thương của kỹ năng này tăng lên theo số lượng [Dấu Neo Linh Hồn] trên kẻ địch. Tiêu thụ tối đa 8 [Dấu Neo Linh Hồn] từ một kẻ địch.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン霊錨の刻印を８つ消費する$"=►Gây $1 (+0.4×$1×[Số Dấu Neo Linh Hồn]) sát thương vật lý lên một kẻ địch.\n►Giảm P.DEF của một kẻ địch bằng $2 trong 12s.\n►Tiêu thụ tối đa 8 [Dấu Neo Linh Hồn] từ một kẻ địch.
+
+##S1##
+ソウルバインド=Ràng Buộc Linh Hồn
+目の前の敵１キャラに物理中ダメージを与え、物理防御力を小ダウンさせる。さらに、【霊錨の刻印】を２つ追加で付与する。=Gây sát thương vật lý trung bình lên kẻ địch phía trước và giảm Sát Thương Vật Lý của nó một chút. Ngoài ra, tặng 2 [Dấu Neo Linh Hồn] cho một kẻ địch.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン霊錨の刻印を追加で２つ付与する$"=►Gây $1 sát thương vật lý lên một kẻ địch.\n►Giảm P.DEF của một kẻ địch bằng $2 trong 12s.\n►Tặng 2 [Dấu Neo Linh Hồn] cho một kẻ địch.
+
+##S2##
+ボイドスラッシュ=Chém Khoảng Không
+目の前の敵１キャラに物理中ダメージを与え、自分の物理攻撃力を小アップ、ＴＰを小回復させる。対象の敵に【霊錨の刻印】が付与されている場合、【霊錨の刻印】の数に応じて最大３つ分まで物理攻撃力の上昇量とＴＰの回復量をアップさせ、【霊錨の刻印】を３つ消費する。=Gây sát thương vật lý trung bình lên kẻ địch phía trước, tăng P.ATK của bản thân một chút và phục hồi TP của bản thân một chút. Sát thương và lượng phục hồi TP của kỹ năng này tăng lên theo số lượng [Dấu Neo Linh Hồn] trên kẻ địch. Tiêu thụ tối đa 3 [Dấu Neo Linh Hồn] từ một kẻ địch.
+r:"^敵単体に(\d+)の物理ダメージ自分のＴＰを(\d+)回復自分の物理攻撃力を(\d+)アップ霊錨の刻印を３つ消費する$"=►Gây $1 (+$1×[Số Dấu Neo Linh Hồn]) sát thương vật lý lên một kẻ địch.\n►Phục hồi TP của bản thân bằng $2 (+$2×[Số Dấu Neo Linh Hồn]).\n►Tăng P.ATK của bản thân bằng $3 trong 180s.
+
+##SP1##
+アストラルシール=Dấu Ấn Tinh Cầu
+このスキルのスキルレベルは「ソウルリベ\nレーション」と連動しています=Cấp độ kỹ năng này liên kết với "Giải Phóng Linh Hồn"
+【霊錨の刻印】を敵へ付与できる状態になる。攻撃が敵に当たるたび【霊錨の刻印】を１つ付与する。【霊錨の刻印】は最大15まで追加される。=Mỗi khi một đòn tấn công của Shinobu trúng kẻ địch, kẻ địch đó sẽ nhận được một chồng [Dấu Neo Tinh Thần], tối đa 15 chồng.
+
+##EX##
+海星の小夜歌=Bản Ca Đêm Của Sao Biển
+海星の小夜歌+=Bản Ca Đêm Của Sao Biển+
+
+##S1+##
+ソウルバインド+=Ràng Buộc Linh Hồn+
+目の前の敵１キャラに物理大ダメージを与え、物理防御力を中ダウンさせ、自分の物理攻撃力を小アップし、物理クリティカルを中アップする。さらに、【霊錨の刻印】を２つ追加で付与する。=Gây sát thương vật lý lớn lên kẻ địch phía trước, giảm Sát Thương Vật Lý của nó một mức trung bình, tăng P.ATK của bản thân một chút và tăng Tỷ Lệ Chí Mạng Vật Lý một mức trung bình. Ngoài ra, tặng 2 [Dấu Neo Linh Hồn] cho một kẻ địch.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン霊錨の刻印を追加で２つ付与する自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを(\d+)アップ$"=►Gây $1 sát thương vật lý lên một kẻ địch.\n►Giảm phòng thủ vật lý của kẻ địch đi $2 trong 12 giây.\n►Tặng 2 [Dấu neo linh hồn] cho kẻ địch.\n►Tăng tấn công vật lý của bản thân lên $3 trong 180 giây.\n►Tăng tỷ lệ chí mạng vật lý của bản thân lên $4 trong 180 giây.
+
+##UE##
+霊錨斧グリムアンカー=Spiritual Grim Anchor Axe

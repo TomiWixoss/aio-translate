@@ -1,0 +1,137 @@
+距離は普通、天候が荒れる時もある。道中は様々な障害物が邪魔をする。=Khoảng cách Bình Thường, đôi khi có bão. Các chướng ngại vật khác nhau xuất hiện trên đường đi.
+距離は短く、天候が荒れやすい。道中は暴れる魔物が行く手を阻む。=Khoảng cách Ngắn, thường có bão. Trên đường, quái vật hoành hành chặn đường.
+距離は長く、天候が落ち着いている。道中は大きめの障害物が立ち塞がる。=Khoảng cách Xa, Thời tiết dịu. Một chướng ngại vật lớn đứng trên đường.
+
+難易度EXTRAで、1度にスコアを135000以上獲得しつつ、全ラウンド1着でゴールしよう=Đạt điểm 135.000 trở lên trong một lần ở độ khó EXTRA, và kết thúc đầu tiên ở tất cả các vòng.
+難易度EXTRAで、1度にスコアを115000以上獲得しよう=Đạt điểm 115.000 trở lên trong một lần ở độ khó EXTRA
+
+ベーシックGPのNORMALを1度プレイすると解放されます。=Sẽ được mở khóa khi chơi NORMAL của Basic GP.
+ベーシックGPのHARDを1度プレイすると解放されます。=Sẽ được mở khóa khi chơi HARD của Basic GP.
+ャラ選択=Chọn Nhân Vật
+天候適正=Thời Tiết Thuận Lợi
+ガッツ=Tinh Thần
+ジャンプ=Nhảy
+スピード=Tốc Độ
+プレイするキャラを\n選択してください=Vui lòng chọn\nmột nhân vật để chơi
+ＵＢ効果=Hiệu Ứng UB
+
+夏と言えばかき氷！\nシロップはー……\n禁断の全部混ぜだー！=Nói đến mùa hè thì có gì nhanh hơn đá bào!\nVà siro thì.. trộn hết lại!
+そんなに冷たいもの\nばかり食べて…\n走れなくなっても\n知らないよ？=Ăn thứ lạnh thế này thôi\n... không biết có chạy nổi không?
+平気平気ぃ♪\n…あれっ？\nなんか頭がキーンって\nいたたたたぁー！？=Không sao♪\n... hả?\nđầu óc em đông cứng rồi\nát-at-at-at?
+相手がヒヨリとはいえ\n負けるつもりは\nないからね=Dù đối thủ là\nHiyori đi nữa...\nta cũng sẽ không thua!
+レイさんが相手なら\nあたしだって\n全力全開だよ！=Nếu Rei là\nđối thủ,\ntôi sẽ dùng toàn lực!
+ねぇユイ\n水着で走るのって\nちょっと…=Này Yui\nChạy trong đồ bơi\nCó chút...
+うん、恥ずかしいよね\n騎士クンに\n見られてると思うと…\n…うぅ～～～！=Ừ, xấu hổ thật.
+いや、待てよ…\nユイは恥ずかしい時\n逃げ足が速くなる…\nそれを利用すれば…！=Không, chờ đã... Yui thấy xấu hổ khi trốn chạy nhanh hơn... nếu cô ấy dùng nó...!
+レイちゃんと\nヒヨリちゃん…\n二人に負けないよう\nわたしも全力で…！=Rei-chan và Hiyori-chan... Em sẽ cố gắng hết sức để không thua các chị ấy...!
+変わったコースが\nいっぱいあるね\nどれに出ようかな…=Có nhiều chặng đua khác lạ, nên mình chọn chạy chỗ nào đây...
+
+日照り=Khô
+雨=雨
+
+最終リザルトへ=Đến Kết quả
+次ラウンドへ=Vòng tiếp theo
+ガンガン照り=Đập thình thịch
+長い=Dài
+普通=Trung bình
+とても長い=Rất dài
+長時間、スピード特大アップ！=Tốc độ Cực lớn trong thời gian dài!
+r:"^([0-9.]+)秒$"=$1s
+タイムボーナス=Thưởng thời gian
+着順ボーナス=Thưởng thứ tự về đích
+sr:"^ラウンド(\d+) ([べ-ヺー＆＝]+)のスコア詳細$"=Chi tiết điểm vòng $1 $2
+難易度ボーナス=Thưởng độ khó
+r:"^([0-9.]+)倍$"=$1 lần
+回避ボーナス=Thưởng Né tránh
+今回のスコア=Điểm
+結果発表へ=Đến Kết quả
+アスリート=Vận động viên
+ワイルド=Hoang dã
+[レッツゴー初心者]=[Hãy Cùng nhau Người mới bắt đầu]
+sr:"^(.+)GP・(.+)において下記の成績を収められましたので、その栄誉を讃えます。$"=Những kết quả sau đã đạt được trong $1 GP / $2, và chúng tôi tán dương vinh dự này
+ラウンド2=Vòng 2
+ラウンドスコア=Điểm vòng
+ラウンド1=Vòng 1
+再挑戦=Thử lại
+以下の報酬を獲得しました。=Những phần thưởng sau đã được nhận.
+
+
+Yui
+短時間、障害物バリアを展開する　（ＴＰ上昇率：大）=Triển khai chướng ngại vật trong thời gian ngắn(Tăng TP: Lớn)
+仲間と夏を楽しむ、夏海の魔法士。自分を変えたいという固い決意で、障害物を無効化して走り続ける。=Một pháp sư của biển mùa hè, tận hưởng mùa hè cùng bạn bè. Với quyết tâm mạnh mẽ thay đổi bản thân, cô ấy loại bỏ chướng ngại vật và tiếp tục chạy.
+
+Hiyori
+太陽よりも輝く、夏海の元気娘。　持ち前の身体能力で、どんなコースも柔軟に対応し、駆け抜ける。=Một cô gái tràn đầy năng lượng từ Mùa Hè, rực rỡ hơn cả mặt trời. Với khả năng thể chất bẩm sinh, cô  có thể linh hoạt ứng phó với mọi chặng và vượt qua.
+中時間、スピードとジャンプを　　小アップ（ＴＰ上昇率：小）=Thời gian trung bình, tốc độ và nhảy nhỏ tăng(Tăng TP: Nhỏ)
+
+Rei
+波打ち際に煌めく、夏海の剣士。　日々の鍛錬で鍛えた脚で、長い距離も速度を落とさず走り切る。=Một kiếm sĩ Mùa Hè lấp lánh trên bãi biển. Đôi chân được rèn luyện hàng ngày, anh ta chạy khoảng cách xa mà không chậm lại.
+短時間、スピードを中アップ　　　（ＴＰ上昇率：中）=Tăng tốc độ trung bình trong thời gian ngắn(Tăng TP: Trung bình)
+
+Peco
+海の幸に目がない、渚のお姫様。　『王家の装備』の力を解放し、障害物をものともせず前へと進む。=Công chúa biển, không mấy quan tâm đến hải sản. Cô  giải phóng sức mạnh "Trang bị Hoàng gia" và tiến về phía trước mà không có chướng ngại vật nào.
+中時間、障害物バリアを展開する　（ＴＰ上昇率：小）=Triển khai chướng ngại vật trong thời gian trung bình(Tăng TP: Nhỏ)
+
+korosuke
+海でも主さまをお世話する、白浜の巫女。精霊の力で自身を加速させ、誰よりも速くゴールを目指す。=Một Miko của Biển, chăm sóc chủ nhân ngay cả trên biển. Cô  tăng tốc bản thân với sức mạnh của linh hồn và nhắm đến đích nhanh hơn mọi người.
+中時間、スピードを小アップ　　　（ＴＰ上昇率：小）=Thời gian trung bình, tăng tốc một chút(Tăng TP: Nhỏ)
+
+TsundereCat
+水着姿を恥じらう、ツンデレ猫娘。お得意の魔法で、対戦相手の走りを妨害し、レースを有利に進める。=Một cô gái mèo tsundere, xấu hổ với bộ đồ bơi của mình. Với ma thuật yêu thích, cô  quấy rối việc chạy của đối thủ và đẩy cuộc đua theo lợi thế của mình.
+中時間、対戦相手のスピードを　　小ダウン（ＴＰ上昇率：大）=Thời gian trung bình, giảm tốc độ kẻ địch nhỏ(Tăng TP: Lớn)
+
+Maho
+優雅に浜を駆ける、真夏のマホ姫。しゃなりしゃなりと、雅な身のこなしで障害物を跳び越えていく。=Một công chúa Maho mùa hè, chạy duyên dáng trên bãi biển. Cô  nhảy qua chướng ngại vật với phong cách thanh lịch.
+中時間、スピードとジャンプを　　特大アップ（ＴＰ上昇率：小）=Thời gian trung bình, tốc độ và nhảy lớn tăng(Tăng TP: Nhỏ)
+
+Wanchan
+浜の平和を守る、真夏の狼娘。　　獣人の強靭なスタミナで、レース　後半にスパートをかける。=Một con gái sói giữa mùa hè, bảo vệ hòa bình của bãi biển. Cô  có thể bền sức như thú vật, và bùng nổ ở nửa sau cuộc đua.
+ラウンド中、スピードを中アップ　（ＴＰ上昇率：小）=Tăng tốc độ trung bình trong suốt vòng(Tăng TP: Nhỏ)
+
+Kaori
+浜に力強く舞う、真夏の南国娘。　レースの喧噪の中でも精神を乱さず後半に大きな捲りを見せる。=Một cô gái nhiệt đới giữa mùa hè, nhảy múa mạnh mẽ trên bãi biển. Cô  không bị xao nhãng ngay cả trong sự hỗn loạn của cuộc đua và thể hiện bước ngoặt lớn ở nửa sau.
+短時間、スピードを特大アップ　　（ＴＰ上昇率：特小）=Tăng tốc cực lớn trong thời gian ngắn (TP Boost: Nhỏ)
+
+浜の事件を嗅ぎ付けた、真夏の　　名探偵。高い推理力と魔法で、的確に対戦相手の走りを乱す。=Một thám tử giữa mùa hè, theo dõi vụ việc trên bãi biển. Anh ta có tư duy và ma thuật xuất chúng, và gây nhiễu loạn cho đối thủ một cách chính xác.
+ラウンド中、対戦相手のスピードを中ダウン（ＴＰ上昇率：小）=Trong vòng đấu, tốc độ của đối thủ bị giảm (TP Boost: Nhỏ)
+再び鎧を脱いだ、灼熱の騎士団長。実戦で培った判断力で、瞬時にバリアを展開し、障害物を無力化する。=Hiệp sĩ bừng cháy lãnh tụ lại cởi áo giáp. Với kinh nghiệm chiến đấu, anh ấy lập tức dựng rào cản và hóa giải chướng ngại.
+ごく短時間、障害物バリアを　　　展開する（ＴＰ上昇率：大）=Triển khai chướng ngại trong thời gian rất ngắn (TP Boost: Lớn)
+水が苦手な、海辺の気まぐれ猫娘。浜に現れた美少女義賊は、対戦相手のスピードを奪いとる。=Cô gái mèo lập dị trên bãi biển, không giỏi bơi lội. Cô gái xinh đẹp xuất hiện trên bãi cát đánh cắp tốc độ của đối thủ.
+短時間、先頭の対戦相手のスピードを大ダウン（ＴＰ上昇率：小）=Làm giảm mạnh tốc độ đối thủ dẫn đầu trong thời gian ngắn (TP Boost: Nhỏ)
+バカンスも効率第一な、海の傭兵。レースでも最高効率を求め、どんな状況でも隙のない走りを見せる。=Lính đánh thuê biển tận dụng nghỉ phép hiệu quả nhất. Anh ta tối ưu hóa hiệu suất trong cuộc đua và chạy một cách không cho đối thủ cơ hội nào.
+中時間、スピードを小アップ　　　（ＴＰ上昇率：大）=Tăng tốc trong thời gian trung bình (TP Boost: Lớn)
+真夏の太陽が良く似合う、海辺の　サレンママ。多才で器用、どんな　障害物もエレガントに越えていく。=Mẹ Saren trên bãi biển trông thật hợp với nắng giữa hè. Bí ẩn và khéo léo, bất kỳ chướng ngại nào cũng vượt qua một cách thanh lịch.
+中時間、ジャンプを小アップ　　　（ＴＰ上昇率：大）=Nhảy lên nhỏ trong thời gian trung bình (TP Boost: Lớn)
+海に嵐を呼ぶ夏のドジっ娘メイド。日頃から災難に慣れており、多少　のトラブルには動じたりしない。=Hầu gái mùa hè gọi cơn bão trên biển. Cô ấy quen với thảm họa trong cuộc sống hàng ngày và không nao núng trước khó khăn.
+長時間、能力ダウンを防ぐバリアを展開する（ＴＰ上昇率：特大）=Tạo rào cản ngăn giảm năng lực trong thời gian dài (TP Boost: Cực lớn)
+無し=Không
+粋な夏を愉しむ、若夏の姉御。　　流麗な身体捌きで、始・継・終と、UBを重ねるごとに、加速する。=Cô em mùa hè trẻ trung tận hưởng mùa hè phong cách. Với động tác cơ thể đẹp mắt, cô ấy tăng tốc khi kết hợp UB ở đầu, giữa và cuối cuộc đua.
+累積で、スピードを小アップ　　　（ＴＰ上昇率：特大）=Tăng tốc tích lũy (TP Boost: Cực lớn)
+夏のトキメキに触れた、オタク魔法少女。多彩な魔法を操り、少しずつ他の走者の速度を落とし続ける。=Ma pháp thiếu nữ mọt sách cảm nhận mùa hè rung động. Cô ấy sử dụng đủ loại ma thuật và từ từ làm chậm tốc độ của đối thủ.
+累積で、対戦相手のスピードを　　小ダウン（ＴＰ上昇率：特大）=Tích lũy làm chậm nhẹ đối thủ (TP Boost: Cực lớn)
+海獄に降臨せし、真夏の冥姫。　　レース後半に魔力を全解放し、　　蒼き疾風と成りて浜を駆け抜ける。=Midsummer, kẻ xuống địa ngục biển. Cô ấy giải phóng ma thuật ở nửa sau cuộc đua và lao qua bãi biển như cơn gió xanh.
+長時間、スピードとジャンプを　　特大アップ（ＴＰ上昇率：中）=Tăng tốc cực lớn và nhảy lên trong thời gian dài (TP Boost: Trung bình)
+夏の夕を火花で彩る、渚の壊し屋。『壊し屋』の異名と過激な愛情は、対戦相手にプレッシャーを与える。=Kẻ phá đập biển, tô điểm buổi chiều hè bằng tia lửa. Biệt danh "Breakthrough" và sự yêu thích tuyệt đối tạo áp lực lên đối thủ.
+短時間、先頭の対戦相手のスピードを大ダウン（ＴＰ上昇率：中）=Làm giảm mạnh tốc độ đối thủ dẫn đầu trong thời gian ngắn (TP Boost: Trung bình)
+青春に生きる者を導く、夏の先生。夢へと邁進する聖母の加護が、その身をあらゆる困難から守る。=Giáo viên mùa hè dẫn dắt những người sống trong tuổi trẻ. Lời chúc của Our Lady, người phấn đấu cho ước mơ, bảo vệ cô khỏi mọi khó khăn.
+長時間、能力ダウンを防ぐバリアを展開する（ＴＰ上昇率：大）=Tạo rào cản ngăn chặn khả năng trong thời gian dài (TP Boost: Lớn)
+笑顔の応援が眩しい、夏の超能力　ガール。超能力を駆使して、どんな障害物もひとっ飛びで乗り越える。=Cô gái thiên tư mùa hè với nụ cười rực rỡ. Sử dụng năng lực psi, cô vượt qua mọi chướng ngại bằng những cú nhảy.
+長時間、ジャンプを特大アップ　　（ＴＰ上昇率：中）=Nhảy lên cực lớn trong thời gian dài (TP Boost: Trung bình)
+海辺で大人の魅力を放つ、夏の　　セクシー先生。その魅力に囚われた対戦相手は、走りを乱してしまう。=Giáo viên mùa hè gợi cảm tỏa ra sức hấp dẫn người lớn ở bãi biển. Đối thủ bị mê hoặc bởi sức hấp dẫn đó sẽ làm gián đoạn cuộc chạy.
+累積で、先頭の対戦相手のスピードを大ダウン（ＴＰ上昇率：中）=Tích lũy giảm tốc độ đối thủ dẫn đầu (TP Boost: Trung bình)
+水着も絶対外さない、夏のカリスマモデル。走りのバイブスは超テンアゲで、スピードはおにやば。=Người mẫu mùa hè quyến rũ không bao giờ thay đồ bơi. Khí chất lái xe siêu -mười -tuổi, và tốc độ là Oniyaba.
+短時間スピード大アップ後、　　　スピードダウン（ＴＰ上昇率：大）=Sau khi tăng tốc ngắn, giảm tốc (TP Boost: Lớn)
+南の島も盛り上げる、真夏のアイドル。悪天候でも笑顔を絶やさず後半もリズムを上げて走り切る。=Thần tượng giữa mùa hè khiến đảo phía nam phấn khởi. Cô ấy chạy theo nhịp của mình ở nửa sau, không tắt nụ cười ngay cả trong thời tiết xấu.
+長時間、スピードを中アップ　　　（ＴＰ上昇率：大）=Tăng lên trong thời gian dài (TP Boost: Lớn)
+海原に美声を響かす、渚の歌姫。　守護の賛歌と精霊の加護により、　障害物から身を守る。=Diva biển với giọng hát đẹp trên biển. Cô ấy bảo vệ khỏi chướng ngại bằng những bài thánh ca của người bảo vệ và sự chúc phúc của linh hồn.
+短時間、障害物バリアを展開する　（ＴＰ上昇率：中）=Triển khai chướng ngại trong thời gian ngắn (TP Boost: Trung bình)
+夏でも天邪鬼な、夕凪のテーラー。張り巡らされた魔法の糸で、他の走者の自由を奪う。=Ngay cả vào mùa hè, thợ may Yunagi vẫn là một con quỷ khó chịu. Với sợi chỉ ma thuật, anh ta tước đoạt tự do của các vận động viên khác.
+向日葵が良く似合う、海辺の　　　お姉ちゃん。秘密結社の一員で、　抜群の身体能力が一番の武器。=Em gái bãi biển trông thật hợp với hoa hướng dương. Cô ấy là thành viên của hội kín, khả năng thể chất xuất sắc là vũ khí tốt nhất của cô.
+長時間、スピードを特大アップ　　（ＴＰ上昇率：特小）=Tăng tốc cực lớn trong thời gian dài (TP Boost: Nhỏ)
+
+
+NPC korochan
+夏の海でみんなでビーチフラッグを楽しみましょう。\n障害物に当たらないよう、うまく飛び越えて１番をめざしてくださいまし\nみなさまのとっておきのユニオンバーストも必見でございます。=Hãy cùng nhau thưởng thức cờ bãi biển trên biển mùa hè. Hãy nhảy qua và nhắm đến vị trí số 1 để không va chạm chướng ngại. Union burst đặc biệt của bạn cũng là điều không thể bỏ lỡ.
+みなさまそれぞれ、得意なことがあるようです。\n主さまはみなさまの得意分野をご存じかとは思いますが今一度、ご確認いただくと安心でございます。=Có vẻ mọi người đều giỏi ở lĩnh vực riêng. Tôi nghĩ bạn biết chuyên môn của mình, nhưng nên kiểm tra lại cho chắc.
+ビーチフラッグには特徴が大きく３つのGP（グランプリ）があるようで\nす。それぞれの特徴を見極めながら１番を目指してくださいまし。=Cờ bãi biển dường như có ba GP (Grand Prix) với tính năng lớn. Hãy nhắm đến vị trí đầu tiên trong khi xác định đặc điểm của mỗi người.
+このビーチフラッグでは条件を満たすと、称号ももらえるようです。\n水着姿のみなさまと協力して称号GETをめざしましょう。\nコッコロも水着に着替えて参りますのでぜひお供させてくださいまし！=Trong cờ bãi biển này, nếu bạn đáp ứng điều kiện, bạn sẽ nhận được danh hiệu. Hãy cùng mọi người trong đồ bơi để giành danh hiệu. Kokkoro cũng sẽ thay đồ bơi, vì vậy hãy cho chúng tôi biết!
