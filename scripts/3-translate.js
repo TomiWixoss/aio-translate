@@ -185,9 +185,9 @@ async function main() {
     if (mode === 'fix-empty') {
         console.log('🔧 Sửa thẻ trống trong file dịch\n');
         
-        // Đọc cả 2 file
-        const enContent = fs.readFileSync(INPUT_FILE, 'utf-8');
-        const viContent = fs.readFileSync(OUTPUT_FILE, 'utf-8');
+        // Đọc cả 2 file (EN gốc và VI hiện tại)
+        const enContent = fs.readFileSync(PATHS.SOURCE.CURRENT_XML, 'utf-8');
+        const viContent = fs.readFileSync(PATHS.TRANSLATION.CURRENT_XML, 'utf-8');
         
         const enEntries = parseXMLEntries(enContent);
         const viEntries = parseXMLEntries(viContent);
@@ -299,7 +299,7 @@ async function main() {
     
     if (mode === 'fix-empty') {
         // Mode fix-empty: Cập nhật file hiện tại
-        const viContent = fs.readFileSync(OUTPUT_FILE, 'utf-8');
+        const viContent = fs.readFileSync(PATHS.TRANSLATION.CURRENT_XML, 'utf-8');
         let updatedContent = viContent;
         
         // Đọc các thẻ đã dịch từ temp files
@@ -321,14 +321,14 @@ async function main() {
         }
         
         // Backup
-        fs.copyFileSync(OUTPUT_FILE, OUTPUT_FILE + '.backup');
-        console.log(`💾 Đã backup → ${OUTPUT_FILE}.backup`);
+        fs.copyFileSync(PATHS.TRANSLATION.CURRENT_XML, PATHS.TRANSLATION.CURRENT_XML + '.backup');
+        console.log(`💾 Đã backup → ${path.basename(PATHS.TRANSLATION.CURRENT_XML)}.backup`);
         
         // Lưu file mới
-        fs.writeFileSync(OUTPUT_FILE, updatedContent, 'utf-8');
+        fs.writeFileSync(PATHS.TRANSLATION.CURRENT_XML, updatedContent, 'utf-8');
         
         console.log('\n🎉 HOÀN THÀNH!');
-        console.log(`✅ ${OUTPUT_FILE}`);
+        console.log(`✅ ${PATHS.TRANSLATION.CURRENT_XML}`);
         console.log(`📊 Đã sửa ${fixedEntries.size} thẻ trống`);
     } else {
         // Mode normal: Tạo file mới

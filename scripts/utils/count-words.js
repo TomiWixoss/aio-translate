@@ -1,4 +1,6 @@
 const fs = require('fs');
+const path = require('path');
+const PATHS = require('../../config/paths.config');
 
 function parseXMLEntries(xmlContent) {
     const entries = [];
@@ -92,8 +94,14 @@ function analyzeFile(filePath) {
 console.log('🚀 Đếm số từ trong file XML\n');
 console.log('='.repeat(50));
 
-const enStats = analyzeFile('merged_translations.xml');
-const viStats = analyzeFile('merged_translations_vi.xml');
+const enFile = PATHS.SOURCE.CURRENT_XML;
+const viFile = PATHS.TRANSLATION.CURRENT_XML;
+
+console.log(`\n📁 File EN: ${path.basename(enFile)}`);
+console.log(`📁 File VI: ${path.basename(viFile)}`);
+
+const enStats = analyzeFile(enFile);
+const viStats = analyzeFile(viFile);
 
 if (enStats && viStats) {
     console.log('\n' + '='.repeat(50));
