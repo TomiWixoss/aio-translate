@@ -1,0 +1,83 @@
+プリンセスハート=Trái Tim Công Chúa
+プラチナガチャチケット=Vé Gacha Cao Cấp
+選択したメモリーピース=Mảnh Ký Ức Đã Chọn
+ミニEXPポーション=Mẫu Rượu EXP Nhỏ
+EXPポーション=Potion EXP
+EXPハイポーション=Siêu Tinh Thể EXP
+EXPメガポーション=Cực Tinh Thể EXP
+EXPギガポーション=Giga Tinh Thể EXP
+プリンセスオーブ=Vòng Tròn Công Chúa
+アストライアリング=Nhẫn Astraea
+精錬結晶=Tinh Thể Tinh Chế Tối Thượng
+上精錬石=Tinh Thể Tinh Chế Nâng Cao
+精錬石=Tinh Thể Tinh Chế
+緑枠の原鉱=Quặng Xanh
+紫枠の原鉱=Quặng Tím
+金枠の原鉱=Quặng Vàng
+銀枠の原鉱=Quặng Bạc
+銅枠の原鉱=Quặng Đồng
+赤枠の原鉱=Quặng Đỏ
+橙枠の原鉱=Quặng Cam
+空枠の原鉱=Quặng Xanh Lơ
+桃枠の原鉱=Quặng Hồng
+
+アストラルシャード=Mảnh Tinh Hoa
+（闇）=(Bóng Tối)
+（光）=(Ánh Sáng)
+（風）=(Gió)
+（水）=(Nước)
+（火）=(Lửa)
+
+属性素材=Nguyên Liệu Nguyên Tố
+
+スカルプト=Scalput
+ワンドオブミラージュ=Gậy Ảo Ảnh
+ファストチケット=Vé Nhanh
+スキップチケット=Vé Bỏ Qua
+ミックスベリーケーキ=Bánh Dâu Tầng
+アップルパイ=Táo Tây Nướng
+ハートチュロ=Trái Tim Bánh Churro
+
+
+６thアニバーサリーオルゴール=Hộp Nhạc Kỷ Niệm 6 Năm
+ボスチケット=Vé Đấu Trường Boss
+イベント報酬券=Vé Phần Thưởng Sự Kiện
+（前編専用）=(Phần 1)
+（後編専用）=(Phần 2)
+([0-9.A-Za-z ]+)カウントダウン=$1Đếm Ngược
+Lv/RANK シンクロ機能実装に伴う配布です。=Triển khai các hàm đồng bộ: Cấp./Hạng.
+
+正月のひと時=Thời khúc Giao Thừa
+------------
+ランダムな装備が獲得できる。=Có thể nhận được trang bị ngẫu nhiên.
+大天使の泪=Nước Mắt Thiên Thần
+一見ただの飴玉だが実は霊験あらた\nかな聖遺物であり、巷では模造品や\n偽物が出回る超レアアイテム。=Nhìn thoáng qua thì giống hệt quả kẹo, nhưng thực chất là một di vật thánh có thử thách tâm linh, và là một vật cực kỳ hiếm với hàng giả, hàng nhái tràn lan trên phố.
+
+r:"^EXPを ([0-9,]+) 獲得できる$"=Nhận được $1 EXP.
+r:"^キャラのLv強化に使用すると、キャラEXPが([0-9,]+)加算される。$"=Dùng để nâng cấp cấp độ nhân vật. Tăng $1 EXP cho nhân vật.
+r:"^ギルドハウス内で使用すると、キャラの絆Ptが([0-9,]+)加算される。$"=Dùng trong Nhà Guild. Tăng $1 điểm gắn bó của nhân vật.
+r:"^キャラの装備強化に使用すると、装備強化Ptが([0-9,]+)加算される。$"=Dùng để tinh chế trang bị của nhân vật. Tăng $1 điểm tinh chế trang bị.
+
+r:"^ギルドハウスやキャラの強化画面で使用すると、キャラの絆Ptが([0-9,]+)加算される。$"=Khi dùng trong nhà guild hoặc màn hình tăng cường nhân vật, điểm gắn bó của nhân vật sẽ được tăng lên $1.
+
+sr:"^(.+?)ロールのマスタリー強化用素材。(.+?)(?:アップ)?の強化に使用できる。$"=Nguyên liệu dùng để tăng cường $1 thành thạo vai trò. Có thể dùng để tăng cường $2 của họ.
+マスタリー強化用素材。全てのロールの強化に使用できる。=Nguyên liệu dùng để tăng cường thành thạo. Có thể dùng để tăng cường tất cả các vai trò.
+
+
+アルケス錬金堂の最高の秘術である究極錬成において使用される宝玉。装備の効果自体を物質化したもので特殊な武具に付与することが可能。=Một viên ngọc được dùng trong Tổng Hợp Tối Thượng, kỹ thuật mạnh nhất của xưởng Alces. Đây là phiên bản hữu hình của hiệu ứng của chính trang bị và có thể áp dụng cho vũ khí đặc biệt.
+
+クリアランク★3を獲得したクエストの、プレイ時間をスキップするチケット。=Vé có thể bỏ qua nhiệm vụ đã đạt hạng 3 sao.
+プラチナガチャやピックアップガチャを1回引くことができるガチャチケット。=Vé gacha có thể dùng để rút Premium hoặc Focus Gacha.
+アドベンチャーのクエストにかかる時間を短縮することができるチケット。=Vé giảm thời gian cần thiết để hoàn thành nhiệm vụ phiêu lưu.
+特定のキャラのピュアメモリーピースを交換できるチケット。=Vé có thể đổi lấy Mảnh Ký ức Thuần khiết của nhân vật cụ thể.
+
+特定のEX★5武器と交換できるチケット。=Vé có thể đổi lấy vũ khí EX 5★ cụ thể.
+キャラ専用装備の作成に必要なアイ\nテム。=Vật phẩm cần thiết để tạo trang bị độc quyền của nhân vật.
+古より伝わる、装備者の力の極限を\n超えて引き上げるとされる指輪。装\n備するとプレイヤーLvを超えてキャ\nラLv限界突破が可能。=Chiếc nhẫn được truyền từ thời cổ đại, được cho là có thể đẩy giới hạn sức mạnh của người đeo vượt qua mức tối đa. Khi trang bị, nó cho phép nhân vật phá vỡ giới hạn cấp vượt quá cấp của người chơi.
+
+
+
+アストラルの顕在化により発生した宝珠。未確認物質でできており使用するとなぜかプリンセスナイトの　権能を強化拡張することができる。=Hạt ngọc kho báu được tạo ra từ sự hiện hình của Astral. Làm từ vật liệu chưa xác định, việc sử dụng nó somehow tăng cường và mở rộng khả năng của các Hiệp sĩ Công chúa.
+
+
+黎明界ラビリンスで報酬を獲得する際に消費されるチケット。=Vé tiêu hao để nhận phần thưởng trong Mê cung Vùng Đất Bình Minh.

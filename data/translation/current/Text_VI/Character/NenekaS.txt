@@ -1,0 +1,36 @@
+##Profile##
+【魔法】後衛で、涼しげに微笑む夏色姿の『変貌大妃』。スキルで味方を大幅に強化し、最も魔法攻撃力が高い味方の魔法攻撃力を写し取った攻撃力で、強力なＵＢを放つ。=[Ma thuật] Chúa Tể Biến Hóa, mỉm cười lạnh lùng trong trang phục hè. Bà tăng cường mạnh mẽ đồng minh bằng kỹ năng từ hàng sau, và có thể sao chép giá trị tấn công phép của đồng minh có tấn công phép cao nhất để phóng thích UB mạnh mẽ.
+
+浮島と飛空艇フレーム=Đảo Trôi Và Khung Không Khí
+変貌大妃のバカンス=Kỳ Nghỉ Của Hoàng Hậu Biến Hình
+オーママフィアを追え！=Đuổi Theo Omega Mafia!
+シークレット・ミッション=Nhiệm vụ Bí mật
+貴方の見ている世界=Thế Giới Bạn Đang Nhìn Thấy
+
+##UB##
+シークレットフロート=Bí Mật Trôi Nổi
+最も魔法攻撃力が高い味方１キャラを中心とした範囲内の味方すべての魔法攻撃力を大アップさせ、目の前の敵１キャラに魔法大ダメージを与え、さらに最も魔法攻撃力が高い味方の魔法攻撃力をもとにした魔法大ダメージを与える。=Tăng cường mạnh mẽ M.ATK cho đồng minh trong phạm vi xung quanh đồng minh có M.ATK cao nhất, và gây sát thương phép mạnh mẽ lên kẻ địch phía trước. Ngoài ra, gây sát thương phép dựa trên M.ATK của đồng minh có M.ATK cao nhất.
+r:"^範囲内の味方の魔法攻撃力を(\d+)アップ敵単体に(\d+)の魔法ダメージ敵単体に(\d+)の魔法ダメージ$"=►Tăng M.ATK cho đồng minh trong phạm vi 200 lên $1 trong 18s.\n►Gây $2 sát thương phép lên kẻ địch.\n►Gây $3 sát thương phép lên kẻ địch.
+
+##S1##
+ブルーシーブリーズ=Làn Gió Biển Xanh
+最も魔法攻撃力が高い味方１キャラを中心とした範囲内の味方すべての魔法攻撃力を大アップ、ＴＰ上昇を小アップさせ、さらにＨＰとＴＰを小回復するフィールドを展開する。=Tăng cường mạnh mẽ M.ATK cho đồng minh trong phạm vi xung quanh đồng minh có M.ATK cao nhất, tăng nhẹ TP Boost của họ, và liên tục hồi phục HP và TP một lượng nhỏ.
+r:"^範囲内の味方の魔法攻撃力を(\d+)アップ範囲内の味方のＴＰ上昇を5アップ毎秒ＨＰを(\d+)回復するフィールドを展開する毎秒ＴＰを10回復するフィールドを展開する$"=►Tăng M.ATK cho đồng minh trong phạm vi 200 lên $1 trong 12s.\n►Tăng TP Boost cho đồng minh trong phạm vi 200 lên 5 trong 12s.\n►Triển khai vùng phạm vi 315 hồi HP $2/s trong 12.5s.\n►Triển khai vùng phạm vi 315 hồi TP 10/s trong 12.5s.
+
+##S2##
+スパークルミラー=Gương Lấp Lánh
+最も魔法攻撃力が高い味方１キャラを中心とした範囲内の味方すべての魔法攻撃力を大アップ、魔法攻撃クリティカル時のダメージを小アップし、物理防御力を中アップさせ、物理無効バリアを展開する。=Tăng M.ATK cho đồng minh trong phạm vi xung quanh đồng minh có M.ATK cao nhất, tăng nhẹ M.CRIT DMG của họ, tăng vừa P.DEF, và triển khai Barrier trên họ phản chọi sát thương vật lý.
+r:"^範囲内の味方の魔法攻撃力を(\d+)アップ範囲内の味方の魔法攻撃クリティカル時のダメージを8％アップ範囲内の味方の物理防御力を(\d+)アップ(\d+)ダメージ分の物理無効バリアを展開する$"=►Tăng M.ATK cho đồng minh trong phạm vi 200 lên $1 trong 12s.\n►Tăng M.CRIT DMG cho đồng minh trong phạm vi 200 lên 8% trong 12s.\n►Tăng P.DEF cho đồng minh trong phạm vi 200 lên $2 trong 12s.\n►Triển khai Barrier trên đồng minh trong phạm vi 200 phản chọi $3 sát thương vật lý trong 12s.
+
+##EX##
+サマーナイトミラージュ=Ảo Ảnh Đêm Hè
+サマーナイトミラージュ+=Ảo Ảnh Đêm Hè+
+バトル開始時に自分の魔法攻撃力を中アップさせる、さらに自分の魔法クリティカルを小アップさせる。=Tăng vừa M.ATK của bản thân và tăng nhỏ M.CRIT Rate của bản thân khi bắt đầu trận đấu.
+r:"^自分の魔法攻撃力を(\d+)アップ自分の魔法クリティカルを(\d+)アップ$"=►Tăng M.ATK của bản thân lên $1.\n►Tăng M.CRIT Rate của bản thân lên $2.
+
+##S1+##
+ブルーシーブリーズ+=Làn Gió Biển Xanh+
+最も魔法攻撃力が高い味方１キャラを中心とした範囲内の味方すべての魔法攻撃力を大アップ、ＴＰ上昇を小アップさせ、さらにＨＰとＴＰを小回復するフィールドを展開する。魔法攻撃力の上昇量は最も魔法攻撃力が高い味方の魔法攻撃力に応じて最大３倍までアップする。=Tăng cường mạnh mẽ M.ATK cho đồng minh trong phạm vi xung quanh đồng minh có M.ATK cao nhất, tăng nhẹ TP Boost của họ, và liên tục hồi phục HP và TP một lượng nhỏ. Độ tăng M.ATK lên tới x3 theo M.ATK của đồng minh có M.ATK cao nhất.
+
+##UE##
+メタモリックサマー=Mùa Hè Biến Hình

@@ -1,0 +1,29 @@
+##Profile##
+【物理】前衛で新たな刺激を追い求める水着姿のドＭ娘。自分のＨＰが下がるほど効果量が上昇するスキルの物理攻撃力アップとＵＢのダメージで、勝利の大海へ飛び込む。=[Vật Lý] Một cô gái masochist mặc đồ bơi tìm kiếm cảm giác mới và kích thích. Với kỹ năng tăng sức tấn công vật lý dựa trên HP giảm dần và UB gây sát thương, cô lao vào đại dương chiến thắng.
+
+##UB##
+エレクトリカルサマープレイ=Trò Chơi Điện Mùa Hè
+前方範囲内の敵すべてに物理中ダメージを与える。自分のＨＰが低いほど、このスキルで与えるダメージがアップする。さらに自分のＨＰを小回復させる。=Gây sát thương vật lý vừa phải cho kẻ địch trong phạm vi. Sát thương vật lý gây ra tăng theo HP đã mất của bản thân. Ngoài ra, hồi nhẹ HP bản thân.
+r:"^範囲内の敵に(\d+)の物理ダメージ自分のＨＰを(\d+)回復$"=►Gây $1 (+0.0001×HP-Mất) Sát Thương Vật Lý cho kẻ địch trong phạm vi 750.\n►Hồi HP bản thân thêm $2.
+
+##S1##
+アクアダンシング=Điệu Nhảy Dưới Nước
+前方範囲内の敵すべてに物理中ダメージを与え、物理攻撃力と魔法攻撃力を大ダウンさせる。=Gây sát thương vật lý vừa phải cho kẻ địch trong phạm vi và hạ rất lớn P/M.ATK của chúng.
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理攻撃力を(\d+)ダウン範囲内の敵の魔法攻撃力を(\d+)ダウン$"=►Gây $1 Sát Thương Vật Lý cho kẻ địch trong phạm vi 750.\n►Hạ P.ATK của kẻ địch trong phạm vi 750 đi $2 trong 12s.\n►Hạ M.ATK của kẻ địch trong phạm vi 750 đi $3 trong 12s.
+
+##S2##
+夏は体が熱くなります～！=Mùa Hè Làm Cơ Thể Nóng Lên~!
+自分の物理攻撃力と物理防御力と魔法防御力を小アップさせ、ＴＰを中回復する。自分のＨＰが低いほど、物理攻撃力の上昇量がアップする。=Tăng nhẹ P.ATK, P.DEF và M.DEF của bản thân, và hồi trung bình TP bản thân. HP bản thân càng thấp, mức tăng P.ATK càng cao.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理防御力を(\d+)アップ自分の魔法防御力を(\d+)アップ自分のＴＰを150回復$"=►Tăng P.ATK bản thân lên $1 (+0.25×HP-Mất) trong 12s.\n►Tăng P.DEF bản thân lên $2 trong 12s.\n►Tăng M.DEF bản thân lên $3 trong 12s.\n►Hồi TP bản thân thêm 150.
+
+##EX##
+サマーエクスタシー=Khoái Lạc Mùa Hè
+サマーエクスタシー+=Khoái Lạc Mùa Hè+
+
+##S1+##
+アクアダンシング+=Điệu Nhảy Dưới Nước+
+前方範囲内の敵すべてに物理中ダメージを与えてスタンさせ、物理攻撃力と魔法攻撃力を大ダウンさせる。自分のＨＰが低いほど、このスキルで与えるダメージがアップする。=Gây sát thương vật lý vừa phải cho kẻ địch trong phạm vi, gây choáng họ, và hạ rất lớn P/M.ATK của chúng. Sát thương vật lý gây ra tăng theo HP đã mất của bản thân.
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵を一定時間行動不能にする範囲内の敵の物理攻撃力を(\d+)ダウン範囲内の敵の魔法攻撃力を(\d+)ダウン$"=►Gây $1 (+0.00005×HP-Mất) Sát Thương Vật Lý cho kẻ địch trong phạm vi 750.\n►Hạ P.ATK của kẻ địch trong phạm vi 750 đi $2 trong 12s.\n►Hạ M.ATK của kẻ địch trong phạm vi 750 đi $3 trong 12s.\n►Gây choáng kẻ địch trong phạm vi 750 trong 1.5s.
+
+##UE##
+クウカメイクドミネーション=Sự Thống Trị Trang Điểm Của Kuuka

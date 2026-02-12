@@ -1,0 +1,38 @@
+##Profile##
+【物理】中衛で、敵弱体化フィールドを操る隻眼の悪魔。フィールドの持続時間は短いが、範囲内の敵の物理防御力を大幅に減らす効果を持つ。=[Vật Lý] Ác quỷ một mắt sử dụng các vùng làm suy yếu kẻ thù từ trung tuyến. Các vùng của cô ấy không kéo dài lâu, nhưng kẻ thù trong chúng có phòng thủ vật lý bị giảm mạnh.
+
+研究、実験=Nghiên cứu, thí nghiệm
+実験が趣味の危険な科学者=Một nhà khoa học điên rất thích\ntiến hành các thí nghiệm
+
+##UB##
+ブラッディローズ=Bloody Rose
+前方範囲内の敵すべてに物理中ダメージを与える。このスキルでとどめを刺した敵の数に応じて、自分のＨＰを回復する。=Gây sát thương vật lý trung bình lên tất cả kẻ địch trong phạm vi. Hồi máu cho bản thân cho mỗi kẻ thù bị kỹ năng này đánh bại.
+r:"^範囲内の敵に(\d+)の物理ダメージ敵を倒した数×20%のＨＰを回復$"=►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi.\n►Hồi máu dựa trên số kẻ thù bị đánh bại ×20%.
+
+##S1##
+カースブルーム=Curse Bloom
+
+前方範囲内の敵すべてを呪い状態にする。=Khiến Nguyền Rủa lên tất cả kẻ địch trong phạm vi.
+r:"^(\d+)ダメージを与える呪い状態にする$"=Thời gian niệm: 1.41s\n►Khiến Nguyền Rủa trong phạm vi 620 gây $1 sát thương vật lý/giây.
+
+##S2##
+ローズフィールド=Field of Thorns
+自分の前の一定範囲に、物理防御力を大ダウンさせるフィールドを展開する。=Triển khai một vùng giảm Phòng Ngự Vật Lý của tất cả kẻ địch trong phạm vi.
+r:"^フィールド内の敵の物理防御力(\d+)ダウン$"=Thời gian niệm: 0.28s\n►Triển khai vùng bán kính 250 giảm Phòng Ngự Vật Lý của kẻ địch trong phạm vi đi $1 trong 8s.
+
+##EX##
+隻眼の悪魔=One-Eyed Devil
+隻眼の悪魔+=One-Eyed Devil+
+
+##UB+##
+ブルータルローズ=Brutal Rose
+前方の敵すべての物理防御力を大ダウンさせ、物理大ダメージを与える。このスキルでとどめを刺した敵の数に応じて、自分のＨＰを回復する。=Gây sát thương vật lý lớn lên tất cả kẻ địch phía trước và hạ P.DEF của chúng. Hồi HP theo số kẻ địch bị tiêu diệt bởi kỹ năng này.
+r:"^範囲内の敵の物理防御力を(\d+)ダウン範囲内の敵に(\d+)の物理ダメージ敵を倒した数×20%のＨＰを回復$"=►Hạ P.DEF của tất cả kẻ địch xuống $1 trong 18s.\n►Gây $2 sát thương vật lý lên tất cả kẻ địch trong phạm vi.\n►Hồi HP dựa trên số kẻ địch đã tiêu diệt ×20%.
+
+##S1+##
+カースブルーム+=Curse Bloom+
+前方範囲内の敵すべてを呪い状態にし、さらに行動速度を小ダウンさせる。=Gây nguyền rủa lên tất cả kẻ địch trong phạm vi và giảm tốc độ hành động của chúng một chút.
+r:"^(\d+)ダメージを与える呪い状態にする範囲内の敵の行動速度を一定時間低下させる$"=Thời gian niệm: 1.41s\n►Gây nguyền rủa trong phạm vi 620, gây $1 sát thương vật lý/giây.\n►Giảm tốc độ hành động của kẻ địch trong phạm vi 620 xuống 95% trong 12s.
+
+##UE##
+ローズオブカース=Rose of Curses

@@ -1,0 +1,49 @@
+##Profile##
+乙女チックなもふもふアニマル=Một sinh vật mềm mại với trái tim của một thiếu nữ
+
+毛繕い、お喋り=Grooming, chatting
+【物理】最前衛で味方を守る、恋する乙女。バトル開始後、しばらくしてから最前線まで突進してきて、敵の目の前に立ちはだかる。=[Vật Lý] Một thiếu nữ thuần khiết bảo vệ bạn bè từ mặt trận. Xông vào trận chiến ngay sau khi trận đấu bắt đầu để cản trở sự tiến công của kẻ thù.
+
+魔法のリンゴがなくても=Ngay cả khi không có quả táo ma thuật
+特別なぬくもり=Special warmth
+着ぐるみラプソディ=Cats Rhapsody
+愛の逃避行=Escape of love
+
+あなたに会えて良かった=Tôi Biết Ơn Vì Chúng Ta Đã Gặp Nhau
+お姫様にはなれなくても=Là Công Chúa Hay Không?
+魔法の時間=Thời Gian Ma Thuật
+森の中の不思議な出会い=Một Sự Tiếp Xúc Tò Mò
+絵本みたいな奇跡=Như Một Truyện Cổ Tích
+駱馬(リマ)の王子様=Hiệp Sĩ Của Lima
+ロマンチックに憧れて=Người Mê Lãng Mạn
+いっけな～い、遅刻遅刻！=Trễ Rồi, Trễ Rồi!
+
+##UB##
+もふもふストライク=Woolly Wallop
+前方範囲内の敵すべてに物理中ダメージを与え、さらに自分の物理防御力を特大アップさせる。=Gây sát thương vật lý vừa phải cho tất cả kẻ thù trong phạm vi. Tăng phòng thủ vật lý của bản thân đáng kể.
+r:"^範囲内の敵に(\d+)の物理ダメージ自分の物理防御力を(\d+)アップ$"=►Gây $1 sát thương vật lý cho kẻ thù trong phạm vi 400.\n►Đẩy lùi kẻ thù 50 đơn vị.\n►Tăng phòng thủ vật lý của bản thân lên $2 trong 18s.
+
+##S1##
+もふもふアサルト=Fuzzy Fury
+バトル開始後暫くして、最も前の敵まで突進し、その敵に物理中ダメージを与え、自分の物理防御力を中アップさせる。=Xông thẳng vào kẻ thù đầu tiên ngay sau khi trận đấu bắt đầu và gây sát thương vật lý vừa phải. Tăng phòng thủ vật lý của bản thân một chút.
+r:"^敵単体に(\d+)の物理ダメージ自分の物理防御力を(\d+)アップ$"=►Gây $1 sát thương vật lý cho kẻ thù.\n►Tăng phòng thủ vật lý của bản thân lên $2.
+
+##S2##
+もふもふヘッドバット=Hairy Headbutt
+
+##EX##
+プロテクトファー=Downy Defense
+プロテクトファー+=Downy Defense+
+
+##UB+##
+メリーウールストライク=Whopping Woolly Wallop
+前方範囲内の敵すべてに物理大ダメージを与えて小さく吹き飛ばし、さらに自分の物理防御力を特大アップさせ、味方全体に物理無効バリアを展開する。=Gây sát thương vật lý lớn cho tất cả kẻ thù trong phạm vi và đẩy chúng đi, tăng phòng thủ vật lý của bản thân đáng kể, và triển khai một rào cản vật lý cho tất cả đồng đội.
+r:"^範囲内の敵に(\d+)の物理ダメージ自分の物理防御力を(\d+)アップ(\d+)ダメージ分の物理無効バリアを展開する$"=►Gây $1 sát thương vật lý cho kẻ thù trong phạm vi 400.\n►Đẩy lùi kẻ thù 50 đơn vị.\n►Tăng phòng thủ vật lý của bản thân lên $2 trong 18s.\n►Triển khai Barrier trên tất cả đồng đội, chống lại $3 sát thương vật lý trong 18s.
+
+##S1+##
+もふもふアサルト+=Fuzzy Fury+
+バトル開始後暫くして、最も前の敵まで突進し、その敵に物理中ダメージを与え、自分の物理防御力を中アップさせる。さらに味方全体に物理無効バリアを展開する。=Xông thẳng vào kẻ thù đầu tiên ngay sau khi trận đấu bắt đầu và gây sát thương vật lý vừa phải. Tăng phòng thủ vật lý của bản thân đáng kể. Triển khai một rào cản chống sát thương vật lý xung quanh tất cả đồng đội.
+r:"^敵単体に(\d+)の物理ダメージ自分の物理防御力を(\d+)アップ(\d+)ダメージ分の物理無効バリアを展開する$"=►Xuất hiện sau 1s khi đợt quái bắt đầu, ở phía trước 100 đơn vị của kẻ thù gần nhất.\n►Bất khả xâm phạm trên bản thân trong 1s.\n►Gây $1 sát thương vật lý cho kẻ thù.\n►Tăng phòng thủ vật lý của bản thân lên $2 trong 16s.\n►Triển khai Barrier trên tất cả đồng đội, chống lại $3 sát thương vật lý trong 16s.
+
+##UE##
+アンビシャスドレス=Dreamer's Dress

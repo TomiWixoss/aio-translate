@@ -1,0 +1,28 @@
+##Profile##
+【物理】中衛で敵を妨害する、作業服姿のぼっちエルフ。友情の絆で結ばれた『マイフレンドくん』と放つＵＢは、敵の動きを阻み、物理防御力を劇的に下げる。=[Thể chất] Một tiên elf cô độc mặc đồng phục làm việc cản trở kẻ thù ở tuyến giữa. UB giải phóng "Bạn Tôi-kun", người được ràng buộc bởi tình bạn, chặn đường di chuyển của kẻ thù và giảm mạnh phòng thủ thể chất của chúng.
+
+##UB##
+フレンドリーコンボショット=Combo Bắn Thân Thiện
+前方の最も遠い敵を中心に、範囲内の敵すべてを行動する度にダメージを与える毒状態にし、行動速度を小ダウンさせ、さらに物理防御力を特大ダウンさせるフィールドを展開する。=Triển khai một vùng hiệu ứng xung quanh kẻ thù xa nhất, gây Độc lên kẻ thù trong phạm vi và gây sát thương mỗi khi chúng hành động, giảm nhẹ tốc độ hành động của chúng và giảm mạnh P.DEF.
+r:"^行動する度に(\d+)ダメージを与える毒状態にするフィールドを展開する敵の行動速度を低下させるフィールドを展開するフィールド内の敵の物理防御力(\d+)ダウン$"=►Triển khai vùng hiệu ứng bán kính 250 xung quanh kẻ thù xa nhất:\n►Gây Độc lên kẻ thù trong phạm vi, gây $1/sát thương mỗi hành động của kẻ thù trong 18s.\n►Giảm tốc độ hành động của kẻ thù trong phạm vi còn 80% trong 18s.\n►Giảm P.DEF của kẻ thù trong phạm vi xuống $2 trong 18s.
+
+##S1##
+ポイゾナスバレット=Đạn Độc
+目の前の敵１キャラを中心とした範囲内の敵すべてに物理小ダメージを与え、毒状態にし、さらに物理防御力を小ダウンさせる。=Gây sát thương thể chất nhỏ lên kẻ thù trong phạm vi, gây Độc cho chúng và giảm nhẹ P.DEF của chúng.
+r:"^範囲内の敵に(\d+)の物理ダメージ(\d+)ダメージを与える毒状態にする範囲内の敵の物理防御力を(\d+)ダウン$"=►Gây $1 sát thương thể chất lên kẻ thù trong phạm vi 300.\n►Gây Độc lên kẻ thù trong phạm vi 300, gây $2/s trong 24s.\n►Giảm P.DEF của kẻ thù trong phạm vi 300 xuống $3 trong 12s.
+
+##S2##
+スタンバレット=Đạn Choáng
+目の前の敵１キャラを中心とした範囲内の敵すべてに物理小ダメージを与え、さらに麻痺状態にする。=Gây sát thương thể chất nhỏ lên kẻ thù trong phạm vi, và gây Choáng cho chúng.
+
+##EX##
+ぼっち精神=Tinh Thần Cô Độc
+ぼっち精神+=Tinh Thần Cô Độc+
+
+##S1+##
+ポイゾナスバレット+=Đạn Độc+
+目の前の敵１キャラを中心とした範囲内の敵すべてに物理小ダメージを与え、毒状態にし、さらに物理防御力を小ダウンさせる。さらに対象が毒状態の場合、物理中ダメージを与える。=Gây sát thương vật lý nhỏ lên kẻ địch trong phạm vi, khiến chúng trúng độc và giảm phòng thủ vật lý của chúng một chút. Ngoài ra, nếu kẻ địch đã trúng độc, sẽ gây sát thương vật lý trung bình.
+r:"^範囲内の敵に(\d+)の物理ダメージ(\d+)ダメージを与える毒状態にする範囲内の敵の物理防御力を(\d+)ダウン敵が毒状態の時、範囲内の敵に(\d+)の物理ダメージ$"=►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi 300.\n►Khiến kẻ địch trong phạm vi 300 trúng Độc, gây $2/giây trong 24s.\n►Giảm phòng thủ vật lý của kẻ địch trong phạm vi 300 đi $3 trong 12s.\n►Nếu kẻ địch trong phạm vi đã trúng Độc, gây $4 sát thương vật lý lên kẻ địch trong phạm vi 300.
+
+##UE##
+トイスリングショット=Ná Tự Làm

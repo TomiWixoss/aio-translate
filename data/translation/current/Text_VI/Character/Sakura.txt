@@ -1,0 +1,24 @@
+【物理】中衛で不運に抗い歌い続けるゾンビィアイドル。一度倒れても立ち上がり、ＴＰを糧に強化されるスキルのダメージと味方の支援で、サガの心をアストルムに刻む。=[Vật lý] Thần tượng zombie tuyến giữa hát lên trước nghịch cảnh. Ngay cả khi bị đánh bại, cô cũng đứng dậy lại, khắc ghi tinh thần Saga vào Astrum qua kỹ năng tăng cường TP và hỗ trợ đồng đội.
+お菓子作り、パズルゲーム=Làm bánh, chơi trò giải đố
+サガを救うアイドルゾンビ=Thần Tượng Zombie Cứu Saga
+##UB##
+グッドモーニングサガ=Chào Buổi Sáng Saga
+味方全体のＴＰを中回復、自分の物理攻撃力を特大アップし、さらに、前方の敵すべてにそのキャラの最大ＨＰに応じて最大4444444の物理割合ダメージを与えるが、自分の残りＨＰを全て消費する。=Hồi phục vừa phải TP cho tất cả đồng đội, tăng mạnh tấn công vật lý của bản thân, và đồng thời gây sát thương vật lý tỷ lệ lên tất cả kẻ địch phía trước tối đa 4,444,444 dựa trên HP tối đa của nhân vật đó, nhưng tiêu hao toàn bộ HP còn lại của bản thân.
+r:"^味方全体のＴＰを(\d+)回復自分の物理攻撃力を(\d+)アップ範囲内の敵に最大(\d+)の物理割合ダメージを与える自分の残りＨＰを全て消費$"=►Hồi phục TP của tất cả đồng đội đi $1.\n►Tăng tấn công vật lý của bản thân đi $2.\n►Gây sát thương vật lý tỷ lệ lên tối đa $3 lên kẻ địch trong phạm vi.\n►Tiêu hao toàn bộ HP còn lại.
+
+##S1##
+ゾンビオンステージ=Zombie Trên Sân Khấu
+味方全体の物理攻撃力を特大アップ、物理クリティカルを大アップ、物理攻撃クリティカル時のダメージを小アップさせる。ゾンビ状態の時、さらに前方の敵すべてに物理大ダメージを与え、発動時の自分の残りＴＰに応じてこのスキルの効果量がアップするが、自分のＴＰを400消費する。=Tăng mạnh tấn công vật lý cho tất cả đồng đội, tăng mạnh tỷ lệ chí mạng vật lý, và tăng nhẹ sát thương chí mạng vật lý. Khi ở trạng thái zombie, đồng thời gây sát thương vật lý lớn lên tất cả kẻ địch phía trước, và lượng hiệu quả của kỹ năng này tăng dựa trên TP của bản thân khi kích hoạt, nhưng tiêu hao 400 TP của bản thân.
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の物理クリティカルを120アップ味方全体の物理クリダメを7％アップゾンビ状態の場合、範囲内の敵に(\d+)の物理ダメージゾンビ状態の場合、自分のＴＰを(\d+)消費$"=►Tăng tấn công vật lý của tất cả đồng đội đi $1.\n►Tăng tỷ lệ chí mạng vật lý của tất cả đồng đội lên 120.\n►Tăng sát thương chí mạng vật lý của tất cả đồng đội lên 7%.\n\nNếu [Zombie] đang hoạt động:\n►Gây $2 sát thương vật lý lên kẻ địch trong phạm vi.\n►Tiêu hao TP của bản thân đi $3.
+
+##S2##
+リベンジングチューン=Giai Điệu Trả Thù
+味方全体の物理攻撃力を特大アップ、ＨＰを中回復、ＴＰを小回復させる。ゾンビ状態の時、さらに前方の敵すべてに物理大ダメージを与え、発動時の自分の残りＴＰに応じて物理攻撃力の上昇量とダメージがアップするが、自分のＴＰを400消費する。=Tăng mạnh tấn công vật lý cho tất cả đồng đội, hồi phục vừa phải HP của họ, và hồi phục nhẹ TP của họ. Khi ở trạng thái zombie, đồng thời gây sát thương vật lý lớn lên tất cả kẻ địch phía trước, và lượng tăng tấn công vật lý cùng sát thương tăng dựa trên TP của bản thân khi kích hoạt, nhưng tiêu hao 400 TP của bản thân.
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体のＨＰを(\d+)回復味方全体のＴＰを100回復ゾンビ状態の場合、範囲内の敵に(\d+)の物理ダメージゾンビ状態の場合、自分のＴＰを(\d+)消費$"=►Tăng tấn công vật lý của tất cả đồng đội đi $1.\n►Khôi phục HP của tất cả đồng đội đi $2.\n►Hồi phục TP của tất cả đồng đội đi 100.\n\nNếu [Zombie] đang hoạt động:\n►Gây $3 sát thương vật lý lên kẻ địch trong phạm vi.\n►Tiêu hao TP của bản thân đi $4.
+
+##EX##
+私のSAGA=MY SAGA
+私のSAGA+=MY SAGA+
+
+死んでも叶えたい！=Tôi Muốn Đạt Được Nó Ngay Cả Khi Tôi Chết!
+自分のＨＰを全回復ＵＢを発動できなくなる\nＨＰが０になった時に発動し、倒れずに自分のＨＰを極大回復させるが、ゾンビ状態になり、バトル終了までユニオンバーストが発動できなくなる。このスキルはバトル中一度しか発動しない。=Hoàn toàn hồi phục HP của bản thân nhưng không thể kích hoạt UB.\nKích hoạt khi HP về 0, hồi phục cực lớn HP của bản thân mà không ngã, nhưng chuyển sang trạng thái zombie và không thể kích hoạt Union Burst cho đến hết trận. Kỹ năng này chỉ kích hoạt một lần mỗi trận.

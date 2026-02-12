@@ -1,0 +1,35 @@
+##Profile##
+【物理】前衛で、味方の補助に秀でた、新風の巫女。物理クリティカル時のダメージアップのスキルで味方の殲滅力を高めつつ、挑発や継続回復で耐久面を支える。=[Vật Lý] Miko Năm Mới đóng vai trò hậu viện hỗ trợ đồng minh. Với kỹ năng tăng cường phản chí mạng vật lý, nâng cao khả năng đánh gục kẻ thù của đồng minh, đồng thời bảo vệ họ bằng khiêu khích và hồi máu theo thời gian.
+
+お正月験担ぎガイド=Hướng dẫn may mắn cho năm mới
+二人羽織チャレンジ=Hai thân thể như một
+一年の計は元旦にあり=Chìa khóa cho năm mới
+舞い上がる願い=Vũ điệu vận may
+
+##UB##
+ニューイヤーズブライト=Ánh Sáng Năm Mới
+自分のＨＰを中回復し、味方全体に継続ＨＰ回復を付与し、さらに物理攻撃力を大アップさせる。=Hồi HP bản thân lên mức trung bình, tăng HP Regen cho tất cả đồng minh và tăng P.ATK của đồng minh một lượng lớn.
+r:"^自分のＨＰを(\d+)回復毎秒ＨＰを(\d+)回復する味方全体の物理攻撃力を(\d+)アップ$"=►Hồi HP bản thân lên $1.\n►Hồi HP đồng minh $2/giây trong 10 giây.\n►Tăng P.ATK của đồng minh lên $3 trong 18 giây.
+
+##S1##
+スピリットウォール=Tường Linh Hồn
+【挑発】自身に物理/魔法吸収バリアを展開し、さらに敵全体を挑発する。=[Khiêu Khích] Triển khai một rào cản xung quanh bản thân hấp thụ sát thương Vật Lý/Ma Thuật và khiêu khích tất cả kẻ địch.
+r:"^(\d+)ダメージ分の物理魔法吸収バリアを展開する敵全体を挑発する$"=►Triển khai Barrier trên bản thân hấp thụ $1 P/M.DMG trong 12 giây.\n►Khiêu khích tất cả kẻ địch trong 17 giây.
+
+##S2##
+ブレッシングスピリット=Lời Chúc Linh Hồn
+最も物理攻撃力が高い味方の物理攻撃力を中アップ、物理クリティカルを大アップさせ、さらに物理攻撃クリティカル時のダメージを中アップさせる。=Tăng vừa phải P.ATK, tăng lớn P.CRIT Rate, và tăng vừa phải P.CRIT DMG cho đồng minh có P.ATK cao nhất.
+r:"^味方単体の物理攻撃力を(\d+)アップ味方単体の物理クリティカルを100アップ味方単体の物理攻撃クリティカル時のダメージを30％アップ$"=►Tăng P.ATK của đồng minh có P.ATK cao nhất lên $1 trong 12 giây.\n►Tăng P.CRIT Rate của đồng minh có P.ATK cao nhất lên 100 trong 12 giây.\n►Tăng P.CRIT DMG của đồng minh có P.ATK cao nhất lên 30% trong 12 giây.
+
+##EX##
+祝福の新風=Gió May Mắn
+祝福の新風+=Gió May Mắn+
+
+##S1+##
+スピリットウォール+=Tường Linh Hồn+
+【挑発】自身に物理/魔法吸収バリアを展開し、味方全体の物理攻撃力を小アップさせ、さらに敵全体を挑発する。=[Khiêu Khích] Triển khai một rào cản xung quanh bản thân hấp thụ sát thương Vật Lý/Ma Thuật, tăng P.ATK cho tất cả đồng minh và khiêu khích tất cả kẻ địch.
+【挑発】自身に物理/魔法吸収バリアを展開し、味方全体の物理攻撃力を大アップさせ、さらに敵全体を挑発する。=[Khiêu Khích] Triển khai một rào cản xung quanh bản thân hấp thụ sát thương Vật Lý/Ma Thuật, tăng P.ATK cho tất cả đồng minh và khiêu khích tất cả kẻ địch.
+r:"^(\d+)ダメージ分の物理魔法吸収バリアを展開する味方全体の物理攻撃力を(\d+)アップ敵全体を挑発する$"=►Triển khai Barrier trên bản thân hấp thụ $1 P/M.DMG trong 12 giây.\n►Tăng P.ATK của tất cả đồng minh lên $2 trong 12 giây.\n►Khiêu khích tất cả kẻ địch trong 17 giây.
+
+##UE##
+新春祈幸の精霊杖=Gậy Linh Hồn Cầu Nguyện Năm Mới

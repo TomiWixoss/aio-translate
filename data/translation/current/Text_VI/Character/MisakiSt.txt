@@ -1,0 +1,28 @@
+##Profile##
+【魔法】後衛で後ろの味方を強化する魔法少女の看板娘。後衛の味方をバリアとＴＰ継続回復で支援し、自分の魔法攻撃力に応じ強化される攻撃力アップスキルで鼓舞する。=[Ma thuật] Một pháp sư thiếu nữ củng cố đồng minh phía sau. Cô hỗ trợ đồng minh phía sau với các khiên và hồi TP, và khích lệ họ với kỹ năng tăng tấn công được tăng cường theo sức mạnh ma thuật của chính mình.
+
+##UB##
+ディライトフェスタ=Delight Festa
+自分を中心とした範囲内の味方すべての魔法攻撃力を中アップし、魔法クリティカルを特大アップさせる。自分の魔法攻撃力が高い程、魔法攻撃力の上昇量が最大10倍までアップする。=Tăng Tấn công Ma thuật của đồng minh trong phạm vi một lượng vừa phải và tăng mạnh Tỷ lệ Chí mạng Ma thuật của họ. Mức tăng Tấn công Ma thuật lên tới x10 dựa trên sức mạnh Tấn công Ma thuật của bản thân.
+r:"^範囲内の味方の魔法攻撃力を(\d+)アップ範囲内の味方の魔法クリティカルを180アップ$"=►Tăng Tấn công Ma thuật của đồng minh trong phạm vi 100 lên $1(+0.25×M.ATK) trong 18s.\n►Tăng Tỷ lệ Chí mạng Ma thuật của đồng minh trong phạm vi 100 lên 180 trong 18s.
+
+##S1##
+ブースターアイ=Booster Eye
+自分を中心とした範囲内の味方すべての魔法攻撃力を小アップさせる。自分の魔法攻撃力が高い程、魔法攻撃力の上昇量が最大10倍までアップする。=Tăng Tấn công Ma thuật của đồng minh trong phạm vi một lượng nhỏ. Mức tăng Tấn công Ma thuật lên tới x10 dựa trên sức mạnh Tấn công Ma thuật của bản thân.
+
+##S2##
+カオスドレスアップ=Chaos Dress-up
+自分を中心とした範囲内の味方すべてに継続ＴＰ回復状態を付与し、魔法無効バリアを展開する。=Cấp hồi phục TP liên tục cho tất cả đồng minh trong phạm vi và triển khai Khiên bảo vệ đồng minh trong phạm vi, chống lại Sát thương Ma thuật.
+r:"^毎秒ＴＰを10回復する(\d+)ダメージ分の魔法無効バリアを展開する$"=Thời gian niệm: 0.94s\n►Hồi TP của đồng minh trong phạm vi 100 lên 10/s trong 12.5s.\n►Triển khai Khiên bảo vệ đồng minh trong phạm vi 100, chống lại $1 Sát thương Ma thuật trong 12s.
+
+##EX##
+看板娘のプライド=Poster Girl's Pride
+看板娘のプライド+=Poster Girl's Pride+
+
+##S1+##
+ブースターアイ+=Booster Eye+
+自分を中心とした範囲内の味方すべての魔法攻撃力を小アップさせる。自分の魔法攻撃力が高い程、魔法攻撃力の上昇量が最大10倍までアップする。さらに、自分を中心とした範囲内の味方すべての魔法攻撃クリティカル時のダメージを小アップさせる。=Tăng nhẹ Tấn công Ma thuật của đồng minh trong phạm vi. Mức tăng Tấn công Ma thuật lên tới x10 dựa trên sức mạnh Tấn công Ma thuật của bản thân. Ngoài ra, tăng nhẹ Sát thương Chí mạng Ma thuật của đồng minh trong phạm vi.
+r:"^範囲内の味方の魔法攻撃力を(\d+)アップ範囲内の味方の魔法攻撃クリティカル時のダメージを6%アップ$"=Thời gian niệm: 0.94s\n►Tăng Tấn công Ma thuật của đồng minh trong phạm vi 100 lên $1(+0.125×M.ATK) trong 12s.\n►Tăng Sát thương Chí mạng Ma thuật của đồng minh trong phạm vi 100 lên 6% trong 12s.
+
+##UE##
+魔眼販売所アイ・ワゴン=Mystic Eye's Shop Wagon

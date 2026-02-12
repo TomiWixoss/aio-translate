@@ -1,0 +1,50 @@
+##Profile##
+ボクは誰よりも美しい=Tin rằng mình là người đẹp nhất
+
+【魔法】後衛で物理パーティを補助する、歩く芸術作品。味方のユニオンバースト発動を早めるスキルのほか、暗闇状態にするスキルで敵の物理攻撃を封じる。=[Phép thuật] Một tác phẩm sống động tăng cường cho đội hình vật lý từ hậu phương. Sử dụng kỹ năng giúp đồng minh sử dụng Union Burst nhanh hơn, và cản trở sức mạnh tấn công của kẻ địch bằng hiệu ứng làm choáng.
+鏡で自分を見ること=Nhìn mình trong gương
+
+ずっとボクを離さないでね=Đừng Bao Giờ Buông Tay
+ウェディング・オア・ダイ=Kết Hôn Đi, Nếu Không...
+究極のユキvs至高のユキ=Yuki Đấu với Yuki
+遥かなる旅路へ……！？=Một Chuyến Du Lịch Toàn Cầu?!
+悠久の街角スナップ=Mãi Mãi Tạo Dáng
+いたずらな雨=Một Cơn Mưa Nghịch Ngợm
+華麗にワーキング！=Rạng Rỡ Trên Công Việc
+美しすぎる邂逅=Một Cuộc Gặp Gỡ Đầy Ấn Tượng
+
+##UB##
+ボクの美にひれ伏すがいい！=Cúi đầu trước vẻ đẹp của ta!
+敵全体に魔法小ダメージを与え、さらに物理防御力を小ダウンさせる。=Gây sát thương phép (M.DMG) nhỏ cho tất cả kẻ địch ở mặt trước và giảm phòng thủ vật lý (P.DEF) của chúng một chút.
+r:"^敵全体に(\d+)の魔法ダメージ敵全体の物理防御力を(\d+)ダウン$"=►Gây $1 sát thương phép (M.DMG) cho tất cả kẻ địch.\n►Giảm phòng thủ vật lý (P.DEF) của tất cả kẻ địch $2 trong 18s.
+
+##S1##
+ボクの目が眩む程の美しさ♪=Vẻ đẹp của ta làm loá mắt ♪
+自分から２番目に近い敵１キャラに魔法中ダメージを与え、さらに暗闇状態にする。=Gây sát thương phép (M.DMG) nhỏ cho kẻ địch thứ 2 gần nhất và gây hiệu ứng Mù (Blind).
+r:"^敵単体に(\d+)の魔法ダメージ敵単体を暗闇状態にする$"=Thời gian niệm chú: 1.93s\n►Gây $1 sát thương phép (M.DMG) cho một kẻ địch.\n►Gây hiệu ứng Mù (60% bỏ lỡ) trong 8s.
+
+##S2##
+可愛いボクが応援するよ♪=Đồng minh hỗ trợ dễ thương nhất ♪
+最もＴＰが多い味方１キャラのＴＰを中回復する。=Hồi một lượng TP trung bình cho thành viên đội có lượng TP cao nhất.
+
+##EX##
+可愛いボクががんばるよ=Người Chăm Chỉ Dễ Thương Nhất
+可愛いボクががんばるよ+=Người Chăm Chỉ Dễ Thương Nhất+
+バトル開始時に自分の魔法攻撃力を中アップさせ、さらに自分の物理防御力を小アップさせる。=Tăng nhẹ M.ATK của bản thân và tăng nhỏ P.DEF khi bắt đầu trận đấu.
+r:"^自分の魔法攻撃力を(\d+)アップ自分の物理防御力を(\d+)アップ$"=►Tăng M.ATK của bản thân lên $1.\n►Tăng P.DEF của bản thân lên $2.
+
+##UB+##
+美の神の降臨をご覧よ！=Hãy Ngắm Nhìn Sự Giáng Trần Của Nữ Thần Sắc Đẹp!
+敵全体に対象の物理防御力が魔法防御力より低い場合、物理ダメージ扱いになる魔法中ダメージを与え、物理防御力を中ダウンさせ、さらに誘惑状態にする。=Nếu P.DEF của mục tiêu thấp hơn M.DEF của họ, gây sát thương Phép/Thể lên tất cả kẻ địch, giảm P.DEF của chúng và gây trạng thái Mê Hoặc.
+r:"^敵全体に(\d+)の低い側の防御力で防御する魔法ダメージ敵全体の物理防御力を(\d+)ダウン敵全体を誘惑する$"=►Gây $1 sát thương Phép/Thể lên tất cả kẻ địch dựa trên phòng thủ thấp nhất giữa P/M.DEF của chúng.\n►Giảm P.DEF của tất cả kẻ địch đi $2 trong 18s.\n►Gây trạng thái Mê Hoặc lên tất cả kẻ địch trong 4s.
+
+##S1+##
+ボクの目が眩む程の美しさ♪+=Vẻ Đẹp Của Ta Là Đáng Sợ ♪+
+自分から２番目に近い敵１キャラに魔法中ダメージを与え、さらに暗闇状態と誘惑状態にする。=Gây sát thương Phép trung bình lên kẻ địch thứ 2 từ xa nhất và gây trạng thái Mù và Mê Hoặc.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体を暗闇状態にする敵単体を誘惑する$"=Thời gian Triệu hồi: 1.93s\n►Gây $1 sát thương Phép lên một kẻ địch.\n►Gây trạng thái Mù (60% đánh trượt) lên một kẻ địch trong 8s.\n►Gây trạng thái Mê Hoặc lên một kẻ địch trong 8s.
+## 260lvl
+最もＴＰが多い味方１キャラのＴＰを中回復し、物理攻撃力を小アップさせる。=Hồi một lượng TP trung bình cho đồng minh có TP cao nhất và tăng nhẹ P.ATK của họ.
+r:"^味方単体のＴＰを(\d+)回復味方単体の物理攻撃力を(\d+)アップ$"=►Hồi $1 TP cho một đồng minh.\n►Tăng P.ATK của một đồng minh lên $2 trong 12s.
+
+##UE##
+グリッターコンパクト=Lắc Lư Lấp Lánh

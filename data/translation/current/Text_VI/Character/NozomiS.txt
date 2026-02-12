@@ -1,0 +1,30 @@
+##Profile##
+【物理】中衛でみんなを応援する真夏のトップアイドル。すべてのスキルで味方全体の物理攻撃をサポートし、バトル中盤から味方全体のＴＰ回復で、皆を勝利に導く。=[Vật Lý] Một thần tượng mùa hè đứng ở hàng giữa để cổ vũ mọi người. Cô sử dụng tất cả kỹ năng để hỗ trợ Tấn Công Vật Lý của đồng minh, và hồi TP cho tất cả đồng minh giữa trận, dẫn dắt mọi người đến chiến thắng.
+
+##UB##
+メモリーズ・オブ・サマー=Ký Ức Mùa Hè
+味方全体の物理攻撃クリティカル時のダメージを小アップさせ、目の前の敵１キャラに物理特大ダメージを与える。=Tăng một chút Sát Thương Chí Mạng Vật Lý cho tất cả đồng minh, và gây sát thương Vật Lý rất lớn lên kẻ địch phía trước.
+r:"^味方全体の物理攻撃クリティカル時のダメージを16％アップ敵単体に(\d+)の物理ダメージ$"=►Tăng Sát Thương Chí Mạng Vật Lý cho tất cả đồng minh 16% trong 18s.\n►Gây $1 sát thương Vật Lý lên kẻ địch.
+
+##S1##
+サマーアイドルエール=Cổ Vũ Thần Tượng Mùa Hè
+味方全体の物理攻撃力を大アップさせ、物理防御力と魔法防御力を中アップさせる。=Tăng rất lớn Tấn Công Vật Lý cho tất cả đồng minh, và tăng vừa phải Phòng Thủ Vật Lý và Phòng Thủ Ma Thuật của họ.
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の物理防御力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ$"=►Tăng Tấn Công Vật Lý cho tất cả đồng minh đi $1 trong 12s.\n►Tăng Phòng Thủ Vật Lý cho tất cả đồng minh đi $2 trong 12s.\n►Tăng Phòng Thủ Ma Thuật cho tất cả đồng minh đi $3 trong 12s.
+
+##S2##
+サマーブリーズ=Gió Mùa Hè
+味方全体のＴＰを小回復させ、さらに物理攻撃力を中アップさせる。=Hồi một chút TP cho tất cả đồng minh, và tăng Tấn Công Vật Lý của họ một lượng vừa phải.
+r:"^味方全体のＴＰを(\d+)回復味方全体の物理攻撃力を(\d+)アップ$"=►Hồi TP cho tất cả đồng minh đi $1.\n►Tăng Tấn Công Vật Lý cho tất cả đồng minh đi $2 trong 12s.
+## Same with WTamaki S2
+
+##EX##
+サンシャインスマイル=Nụ Cười Nắng Vàng
+サンシャインスマイル+=Nụ Cười Nắng Vàng+
+
+##S1+##
+サマーアイドルエール+=Cổ Vũ Thần Tượng Mùa Hè+
+味方全体の物理攻撃力を特大アップさせ、物理防御力と魔法防御力を中アップさせ、さらにＴＰ上昇を小アップさせる。=Tăng rất lớn Tấn Công Vật Lý cho tất cả đồng minh, tăng vừa phải Phòng Thủ Vật Lý và Phòng Thủ Ma Thuật của họ, và còn tăng thêm một chút Hiệu Quả Hồi TP.
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の物理防御力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ味方全体のＴＰ上昇を５アップ$"=►Tăng Tấn Công Vật Lý cho tất cả đồng minh đi $1 trong 12s.\n►Tăng Phòng Thủ Vật Lý cho tất cả đồng minh đi $2 trong 12s.\n►Tăng Phòng Thủ Ma Thuật cho tất cả đồng minh đi $3 trong 12s.\n►Tăng Hiệu Quả Hồi TP cho tất cả đồng minh 5 trong 12s.
+
+##UE##
+ブリリアントサマー=Mùa Hè Rực Rỡ

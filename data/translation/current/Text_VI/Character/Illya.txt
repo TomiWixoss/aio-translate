@@ -1,0 +1,48 @@
+##Profile##
+世界征服=World Domination
+かつては夜を支配した最強の吸血鬼=Một ma cà rồng huyền thoại từng cai trị đêm tối
+
+【魔法】中衛で命を削り攻撃する「夜を統べる者」。自身のＨＰと引き換えに放つスキルは高い殲滅力を誇り範囲攻撃における威力では他の追随を許さない。=[Ma thuật] Chúa tể Đêm tối rút cạn sinh mệnh kẻ thù từ trung tuyến. Nàng sở hữu kỹ năng đổi HP của bản thân lên những đòn tấn công diện rộng cực kỳ phá hủy, gây sát thương vô song.
+
+夜を統べる者の最期？=Một Kết Thúc Không Vinh Quang?
+復活の秘宝を求めて=Trong hành trình tìm kho báu Hiếm
+妹吸血鬼と眷属お兄ちゃん=Ma cà rồng em gái và Anh trai Tinh linh
+地下墓地での復活儀礼=Sự Ác Nham Thẳm
+美しき吸血鬼への献上品=Lễ Cúng Dâng Cho Ma Cà Rồng
+復活の原因を解き明かせ！=Sự trưởng thành bí ẩn
+大人になりたい少女の悩み=Cô gái muốn lớn lên
+夜を統べる者との出会い=Chúa Đêm
+紅き月の女帝=Red Moon Emperor
+
+##UB##
+ヴァーミリオンバイト=Vermilion Bite
+最も近くの敵１キャラを中心とした範囲内の敵すべてに魔法大ダメージを与え、さらに自分のＨＰを中回復させる。=Gây sát thương phép lớn lên tất cả kẻ địch trong phạm vi và hồi một lượng HP vừa phải cho bản thân.
+r:"^範囲内の敵に(\d+)の魔法ダメージ自分のＨＰを(\d+)回復$"=►Dịch chuyển đến mục tiêu kẻ địch gần nhất và quay về vị trí ban đầu sau khi kỹ năng kết thúc.\n►Gây $1 sát thương phép lên kẻ địch trong phạm vi 250.\n►Hồi $2 HP cho bản thân.
+
+##S1##
+ブリーディングブラスト=Bloodthirsty Blast
+自分の魔法攻撃力を中アップさせ、さらに目の前の敵１キャラに魔法中ダメージを与えるが、自分のＨＰを消費する。=Tăng M.ATK vừa phải cho bản thân. Gây sát thương phép vừa phải lên kẻ địch đứng trước mặt với chi phí mất HP.
+
+##S2##
+ブラッディスピア=Bloody Spear
+前方範囲内の敵すべてに魔法中ダメージを与えるが、自分のＨＰを消費する。=Gây sát thương phép vừa phải lên tất cả kẻ địch ở hàng frontal với chi phí mất HP.
+r:"^自分のＨＰを(\d+)消費範囲内の敵に(\d+)の魔法ダメージ$"=►Giảm $1 HP của bản thân.\n►Gây $2 sát thương phép lên tất cả kẻ địch trong phạm vi 600.
+
+##EX##
+血の契約=Blood Pact
+血の契約+=Blood Pact+
+バトル開始時に自分の魔法攻撃力を大アップさせる。=Tăng M.ATK lớn cho bản thân khi bắt đầu trận đấu.
+r:"^自分の魔法攻撃力を(\d+)アップ$"=►Tăng M.ATK của bản thân lên $1.
+
+##UB+##
+ヴァーミリオンエンプレス=Vermilion Empress
+最も近くの敵１キャラを中心とした範囲内の敵すべてに魔法大ダメージを与え、自分のＨＰを中回復し、クリティカルを受けた際のダメージを大ダウンさせる。さらに【宵闇の加護】を１つ追加する。【宵闇の加護】を得た状態で使用するスキルのダメージが【宵闇の加護】の個数に応じて増加する。【宵闇の加護】は最大４まで追加される。=Gây sát thương phép lên tất cả kẻ địch trong phạm vi xoay quanh kẻ địch gần nhất, hồi một lượng HP vừa phải cho bản thân, và giảm lớn sát thương nhận từ đòn chí mạng. Đồng thời, thêm một ngăn 【Blessing of Twilight】, tăng sát thương của kỹ năng sử dụng cùng nó (tối đa 4 ngăn).
+r:"^範囲内の敵に(\d+)の魔法ダメージ自分のＨＰを(\d+)回復自分がクリティカルを受けた際のダメージを50％ダウン$"=►Dịch chuyển đến mục tiêu kẻ địch gần nhất và quay về vị trí ban đầu sau khi kỹ năng kết thúc.\n►Gây $1 sát thương phép lên kẻ địch trong phạm vi 250.\n►Hồi $2 HP cho bản thân.\n►Tăng kháng sát thương phép chí mạng của bản thân lên 50% trong 18 giây.\n►Nhận được Blessing of Twilight.
+
+##S1+##
+ブリーディングブラスト+=Bloodthirsty Blast+
+自分の魔法攻撃力を中アップさせ、さらに目の前の敵１キャラに魔法大ダメージを与えるが、自分のＨＰを消費する。=Tăng M.ATK vừa phải cho bản thân. Gây sát thương phép vừa phải lên kẻ địch đứng trước mặt với chi phí mất HP.
+r:"^自分のＨＰを(\d+)消費自分の魔法攻撃力を(\d+)アップ敵単体に(\d+)の魔法ダメージ$"=►Giảm $1 HP của bản thân.\n►Tăng M.ATK của bản thân lên $2.\n►Gây $3 sát thương phép lên kẻ địch.
+
+##UE##
+闇斧ナハトファング=Dark Axe Nachfang

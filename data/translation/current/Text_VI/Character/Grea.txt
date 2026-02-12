@@ -1,0 +1,31 @@
+##Profile##
+ピアノ=Piano
+半人半竜=Nửa người nửa rồng
+人を超越した力を有す心優しい竜姫=Một nàng công chúa rồng tốt bụng với sức mạnh vượt qua con người.
+【魔法】中衛で、炎を操り敵を薙ぎ払う、竜人の少女。高い魔法攻撃力を生かした範囲攻撃を得意とする。また、飛行能力を駆使して放つ突進攻撃も強力。=[Ma Thuật] Một nữ rồng hủy diệt kẻ thù từ vị trí giữa trận với ngọn lửa mạnh mẽ. Tự hào với sức ma thuật cao, cô xử lý đám đông tốt, nhưng đừng coi thường khả năng vật lý của cô. Các đòn xung kích trên không của cô cũng chết người như phép thuật vậy.
+
+##UB##
+マッドネスクリーヴ=Madness Cleave
+前方範囲内の敵すべてに魔法大ダメージを与える。=Gây sát thương ma thuật lớn cho tất cả kẻ địch trong phạm vi.
+
+##S1##
+ドラグインフェルノ=Dragon Inferno
+目の前の敵１キャラの所まで無敵状態で突進し、魔法中ダメージを与える。=Nhận miễn nhiễm và xung kích về phía kẻ địch ngay phía trước, gây sát thương ma thuật trung bình.
+r:"^飛行中無敵状態になる敵単体に(\d+)の魔法ダメージ$"=►Nhận miễn nhiễm với mọi sát thương trong khi bay.\n►Gây $1 sát thương ma thuật cho một kẻ địch.
+
+##S2##
+ドラグアグニ=Dragon Agni
+最も物理攻撃力が高い敵を中心として、魔法ダメージフィールドを展開する。=Triển khai một trường gây sát thương ma thuật xung quanh kẻ địch có P.ATK cao nhất.
+r:"^毎秒(\d+)の魔法ダメージを与えるフィールドを展開する$"=►Triển khai một trường gây $1 sát thương ma thuật/giây.
+
+##EX##
+ドラグハート=Dragonheart
+ドラグハート+=Dragonheart+
+
+##S1+##
+ドラグインフェルノ+=Dragon Inferno+
+目の前の敵１キャラの所まで無敵状態で突進し、魔法大ダメージを与え、さらにその周囲の敵に魔法中ダメージを与える。=Nó lao về phía một nhân vật phía trước bạn ở trạng thái bất khả xâm phạm, gây sát thương phép, và cũng gây sát thương phép cho kẻ địch xung quanh.
+r:"^突進中無敵状態になる敵単体に(\d+)の魔法ダメージ範囲内の敵に(\d+)の魔法ダメージ$"=►Trở nên bất khả xâm phạm trong khi bay\n►Gây $1 sát thương phép lên kẻ địch.\n►Gây $2 sát thương phép lên kẻ địch trong phạm vi.
+
+##UE##
+ドラグアミュレット=Dragon Amulet

@@ -1,0 +1,29 @@
+##Profile##
+【魔法】中衛で森羅万象を究め味方を支援する錬金術師。物理、魔法の属性を問わない敵の弱体化と味方の強化に加え、スキルによる高頻度のＨＰ回復で盤石な戦局を築く。=[Ma thuật] Một nhà giả kim đã làm chủ mọi sự sáng tạo để hỗ trợ đồng minh từ trung tuyến. Ngoài các hiệu ứng tăng cường bất kể kẻ thù là vật lý hay ma thuật, cô ấy xây dựng nền tảng vững chắc cho trận chiến với tần suất hồi HP cao của mình.
+
+##UB##
+鬼神の丸薬=Thuốc Thần kỳ
+前方の味方すべての物理攻撃力と魔法攻撃力を特大アップさせ、継続ＨＰ回復状態を付与する。=Tăng rất mạnh Tấn công Vật lý và Tấn công Ma thuật của tất cả đồng minh tiền phương (bao gồm bản thân) và ban cho họ hồi HP liên tục.
+r:"^範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の魔法攻撃力を(\d+)アップ毎秒ＨＰを(\d+)回復する$"=►Tăng Tấn công Vật lý của tất cả đồng minh tiền phương trong phạm vi lên $1 trong 18s.\n►Tăng Tấn công Ma thuật của tất cả đồng minh tiền phương trong phạm vi lên $2 trong 18s.\n►Hồi HP của tất cả đồng minh tiền phương trong phạm vi $1/giây trong 10s.
+
+##S1##
+ミゼラブルミスト=Sương Mù Khốn khổ
+前方の敵すべての物理攻撃力と魔法攻撃力を大ダウンさせ、物理防御力と魔法防御力を小ダウンさせる。=Giảm rất mạnh Tấn công Vật lý và Tấn công Ma thuật của tất cả kẻ thù tiền phương và giảm nhỏ Phòng thủ Vật lý và Phòng thủ Ma thuật của chúng.
+r:"^範囲内の敵の物理攻撃力を(\d+)ダウン範囲内の敵の魔法攻撃力を(\d+)ダウン範囲内の敵の物理防御力を(\d+)ダウン範囲内の敵の魔法防御力を(\d+)ダウン$"=►Giảm Tấn công Vật lý của tất cả kẻ thù tiền phương lên $1 trong 12s.\n►Giảm Tấn công Ma thuật của tất cả kẻ thù tiền phương lên $2 trong 12s.\n►Giảm Phòng thủ Vật lý của tất cả kẻ thù tiền phương lên $3 trong 12s.\n►Giảm Phòng thủ Ma thuật của tất cả kẻ thù tiền phương lên $4 trong 12s.
+
+##S2##
+メディク=Bác sĩ
+前方の味方すべてのＨＰを中回復させ、物理防御力と魔法防御力を中アップさせる。=Hồi HP vừa phải cho tất cả đồng minh tiền phương (bao gồm bản thân) và tăng Phòng thủ Vật lý và Phòng thủ Ma thuật của họ.
+r:"^範囲内の味方のＨＰを(\d+)回復範囲内の味方の物理防御力を(\d+)アップ範囲内の味方の魔法防御力を(\d+)アップ$"=►Hồi HP của tất cả đồng minh tiền phương lên $1.\n►Tăng Phòng thủ Vật lý của tất cả đồng minh tiền phương lên $2 trong 12s.\n►Tăng Phòng thủ Ma thuật của tất cả đồng minh tiền phương lên $3 trong 12s.
+
+##EX##
+アルケミックハーモニー=Hòa hợp Giả kim
+アルケミックハーモニー+=Hòa hợp Giả kim+
+
+##UE##
+ポーションボトル=Chai Thuốc
+
+##S1+##
+ミゼラブルミスト+=Sương Mù Khốn khổ+
+前方の敵すべての物理攻撃力と魔法攻撃力を大ダウンさせ、物理防御力と魔法防御力と行動速度を小ダウンさせる。=Giảm rất mạnh Tấn công Vật lý và Tấn công Ma thuật của tất cả kẻ thù tiền phương và giảm nhỏ Phòng thủ Vật lý, Phòng thủ Ma thuật và Tốc độ hành động của chúng.
+r:"^範囲内の敵の物理攻撃力を(\d+)ダウン範囲内の敵の魔法攻撃力を(\d+)ダウン範囲内の敵の物理防御力を(\d+)ダウン範囲内の敵の魔法防御力を(\d+)ダウン範囲内の敵の行動速度を一定時間低下させる$"=►Giảm Tấn công Vật lý của tất cả kẻ thù tiền phương lên $1 trong 12s.\n►Giảm Tấn công Ma thuật của tất cả kẻ thù tiền phương lên $2 trong 12s.\n►Giảm Phòng thủ Vật lý của tất cả kẻ thù tiền phương lên $3 trong 12s.\n►Giảm Phòng thủ Ma thuật của tất cả kẻ thù tiền phương lên $4 trong 12s.\n►Giảm Tốc độ hành động của tất cả kẻ thù tiền phương xuống 90% trong 12s.

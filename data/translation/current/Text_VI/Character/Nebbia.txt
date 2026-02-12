@@ -1,0 +1,26 @@
+##Profile##
+【魔法】後衛を飛び出し悪戯の限りを尽くす幻惑の妖精。敵陣を勝手気ままに飛び回り、敵の攻撃を空振りさせて、ＵＢで４種の妨害効果をランダムに与え大混乱に陥れる。=[Ma Thuật] Một tiên nữ tinh nghịch lao ra từ hậu phương và chơi đủ trò quậy phá. Cô bay lượn tự do trong đội hình địch, khiến đòn tấn công của chúng trượt và gây hỗn loạn bằng cách ngẫu nhiên áp dụng bốn loại hiệu ứng phá rối với UB của mình.
+悪戯をすること=Đang chơi khăm
+幻霧に戯れる悪戯好きなガイド妖精=Một hướng dẫn viên tiên nữ tinh nghịch, chơi đùa với làn sương ảo ảnh
+##UB##
+ネビア・インフェリチータ=Nebbia Infelicità
+敵全体を混乱状態、恐慌状態、暗闇状態、スタン状態のいずれかにし、自分を一定時間無敵状態にする。=Gây một trong các trạng thái Hoảng Loạn, Sợ Hãi, Mù Quáng hay Choáng Vững lên tất cả kẻ địch, và trở nên miễn nhiễm với mọi sát thương trong một khoảng thời gian.
+敵全体を混乱させる敵全体を恐慌状態にする敵全体を暗闇状態にする敵全体を一定時間行動不能にする一定時間無敵状態になる=►Trở nên miễn nhiễm với mọi sát thương trong 6 giây.\n\nKích hoạt ngẫu nhiên một trong 4 hiệu ứng sau:\n►Gây Hoảng Loạn lên tất cả kẻ địch trong 6 giây.\n►Gây Sợ Hãi lên tất cả kẻ địch trong 6 giây.\n►Gây Mù Quáng lên tất cả kẻ địch trong 6 giây.\n►Gây Choáng Vững lên tất cả kẻ địch trong 6 giây.
+
+##S1##
+スケルツォ=Scherzo
+最も物理攻撃力が高い敵１キャラを執着状態にし、自分のＨＰを小回復し、一定時間全ての物理攻撃を回避する。さらに、ランダムな敵の傍に移動する。=Gây [Gắn Bó] lên kẻ địch có P.ATK cao nhất, hồi máu nhẹ cho bản thân và nhận hiệu ứng né P.ATK trong một khoảng thời gian. Đồng thời di chuyển ngẫu nhiên đến một kẻ địch.
+r:"^敵単体を執着状態にする自分のＨＰを(\d+)回復一定時間全ての物理攻撃を回避する$"=►Dịch chuyển đến kẻ địch có P.ATK cao nhất.\n►Gây [Gắn Bó] lên kẻ địch trong 4 giây.\n►Hồi máu cho bản thân $1.\n►Dịch chuyển đến một kẻ địch ngẫu nhiên.
+
+##S2##
+カプリッチョ=Capriccio
+最も魔法攻撃力が高い敵１キャラを執着状態にし、自分のＨＰを小回復し、一定時間全ての魔法攻撃を回避する。さらに、ランダムな敵の傍に移動する。=Gây [Gắn Bó] lên kẻ địch có M.ATK cao nhất, hồi máu nhẹ cho bản thân và nhận hiệu ứng né M.ATK trong một khoảng thời gian. Đồng thời di chuyển ngẫu nhiên đến một kẻ địch.
+r:"^敵単体を執着状態にする自分のＨＰを(\d+)回復一定時間全ての魔法攻撃を回避する$"=►Dịch chuyển đến kẻ địch có M.ATK cao nhất.\n►Gây [Gắn Bó] lên kẻ địch trong 4 giây.\n►Hồi máu cho bản thân $1.\n►Dịch chuyển đến một kẻ địch ngẫu nhiên.
+
+##SP1##
+ネルシエロ=Nel Cielo
+このスキルのスキルレベルは「ネビア・イン\nフェリチータ」と連動しています=Cấp độ kỹ năng này liên kết với "Nebbia Infelicità"
+
+##EX##
+ディスペットピウマ=Dispetto Piuma
+ディスペットピウマ+=Dispetto Piuma+

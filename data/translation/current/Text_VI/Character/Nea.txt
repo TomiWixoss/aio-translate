@@ -1,0 +1,35 @@
+##Profile##
+【物理】中衛で粘液を振りまくキイロいスライムギャル。スキルで敵全体の物理攻撃能力やＴＰ上昇を低下させ、ＵＢでスライム化し全敵を攻撃しつつ無敵ボディを得る。=[Vật Lý] Một slime vàng (ko) phát tán dịch nhầy ở trung tuyến. Dùng kỹ năng để giảm P.ATK và TP Boost của tất cả kẻ địch, có được thân thể bất khả xâm phạm, khiêu khích tất cả kẻ địch và tấn công tất cả kẻ địch với UB.
+
+可愛いショタと遊ぶ、買い物=Chơi với shota dễ thương, mua sắm
+
+魔族？=Bộ lạc quỷ?
+スライム・ミーツ・ボーイ=Slime Gặp Chàng Trai
+ランドソルであ・そ・ぼ♪=Cùng chơi ở Ra.n.do.sol♪
+ショタ大好き♪　ギャル系スライム娘=Yêu Shota♪ Gyaru Slime.
+
+##UB##
+スライミィストリーム=Dòng Chảy Nhầy Slime
+敵全体に物理大ダメージを与え、短時間無敵状態になり敵全体を挑発する。=Gây sát thương vật lý (P.DMG) lớn cho tất cả kẻ địch, trở nên bất khả xâm phạm trong thời gian ngắn và khiêu khích tất cả kẻ địch.
+r:"^敵全体に(\d+)の物理ダメージ一定時間無敵状態になる敵全体を挑発する$"=►Gây $1 P.DMG cho tất cả kẻ địch\n►Trở nên miễn nhiễm với mọi sát thương trong 3s.\n►Khiêu khích tất cả kẻ địch trong 3s.
+
+##S1##
+カムカムスライム=Slime Camu-Camu
+最もＴＰが多い敵１キャラに物理中ダメージを与え、ＴＰを中ダウンさせる。ＴＰが最大値に達しているキャラを除く。=Gây sát thương vật lý (P.DMG) vừa phải cho kẻ địch có TP cao nhất (trừ TP tối đa), và giảm TP của chúng một cách vừa phải.
+r:"^敵単体に(\d+)の物理ダメージ敵単体のＴＰを(\d+)失わせる$"=Thời gian niệm: 0.59s\n►Gây $1 P.DMG cho kẻ địch có TP cao nhất.\n►Giảm TP của kẻ địch bằng $2.
+
+##S2##
+ジャムジャムスライム=Slime Jam-Jam
+敵全体の物理攻撃力を大ダウンさせ、物理クリティカルとＴＰ上昇を中ダウンさせる。=Giảm P.ATK của tất cả kẻ địch một cách lớn, và giảm Tỷ Lệ Chí Mạng Phép (P.CRIT Rate) và TP Boost của chúng một cách vừa phải.
+r:"^敵全体の物理攻撃力を(\d+)ダウン敵全体の物理クリティカルを(\d+)ダウン敵全体のＴＰ上昇を(\d+)ダウン$"=Thời gian niệm: 0.59s\n►Giảm P.ATK của tất cả kẻ địch bằng $1 trong 12s.\n►Giảm Tỷ Lệ Chí Mạng Phép (P.CRIT Rate) của tất cả kẻ địch bằng $2 trong 12s.\n►Giảm TP Boost của tất cả kẻ địch bằng $3 trong 12s.
+
+##EX##
+イエロージェル=Nhầy Vàng
+イエロージェル+=Nhầy Vàng+
+
+##S1+##
+カムカムスライム+=Slime Camu-Camu+
+ＴＰが最大値に達しているキャラを除く最もＴＰが多い敵１キャラを中心とした範囲内の敵すべてに物理大ダメージを与え、ＴＰを中ダウンさせ、行動速度を大ダウンさせる。このスキルによるダメージでは敵のＴＰは回復しない。=Gây sát thương vật lý (P.DMG) lớn cho kẻ địch trong phạm vi xung quanh kẻ địch có TP cao nhất (trừ TP tối đa), giảm TP của chúng một cách vừa phải, và giảm tốc độ hành động (Tốc Độ Hành Động) của chúng một cách lớn (60%). Sát thương của kỹ năng này không phục hồi TP của kẻ địch.
+
+##UE##
+スライミィフェザーローブ=Áo Choàng Lông Vũ Nhầy

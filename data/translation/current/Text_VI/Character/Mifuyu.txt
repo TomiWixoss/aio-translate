@@ -1,0 +1,31 @@
+##Profile##
+傭兵などのアルバイト=Công việc bán thời gian làm lính đánh thuê
+仕事も私事も効率優先な傭兵少女=Một lính đánh thuê ưu tiên hiệu quả\ncả trong công việc và đời tư
+
+【物理】中衛の、スタンと回復のスキルを持つ傭兵戦士。\n高い防御力と自己回復能力を併せ持つ事で、\n中衛の守りを堅固にし、パーティを底支えする。=[Vật Lý] Một lính đánh thuê chiến đấu từ hàng giữa với kỹ năng choáng và hồi phục. Sự kết hợp giáp cao và khả năng tự hồi phục của cô tạo nền tảng cho đội nhóm bằng cách giữ hàng giữa vững chắc.
+
+##UB##
+スプラッシュダイブ=Tsunami Dive
+
+##S1##
+ファーストエイド=First Aid
+
+##S2##
+ハイドロスラッシュ=Hydro Slash
+
+##EX##
+マーセナリープライド=Mercenary's Pride
+マーセナリープライド+=Mercenary's Pride+
+
+##UB+##
+ボルテクスストリーム=Vortex Stream
+目の前の敵１キャラに物理特大ダメージを与え、さらにスタンさせる。そのキャラがユニオンバースト発動時既に行動不能状態だった場合、さらに敵全体に物理特大ダメージを与え、スタンさせる。=Gây lượng lớn Sát Thương Vật Lý lên kẻ địch ngay phía trước và choáng chúng thêm. Nếu mục tiêu đã bị vô hiệu hóa khi UB được kích hoạt, nó sẽ gây thêm Sát Thương Vật Lý lên tất cả kẻ địch và choáng chúng.
+r:"^敵単体に(\d+)の物理ダメージ敵単体を一定時間行動不能にする敵全体に(\d+)の物理ダメージ敵全体を一定時間行動不能にする$"=►Gây $1 Sát Thương Vật Lý lên kẻ địch.\n►Gây hiệu ứng Choáng lên kẻ địch trong 4s.\n\nNếu đã bị choáng:\n►Gây $2 Sát Thương Vật Lý lên tất cả kẻ địch.\n►Gây hiệu ứng Choáng lên tất cả kẻ địch trong 4s.
+
+##S1+##
+ファーストエイド+=First Aid+
+自分のＨＰを大回復し、さらに自分の物理防御力と魔法防御力を大アップし、自分の周りに範囲内の味方すべてを小回復するフィールドを展開する。=Hồi một lượng lớn HP của bản thân. Tăng mạnh P.DEF và M.DEF của bản thân. Triển khai một vùng xung quanh bản thân hồi một lượng nhỏ HP cho đồng minh trong phạm vi.
+r:"^自分のＨＰを(\d+)回復自分の物理防御力を(\d+)アップ自分の魔法防御力を(\d+)アップ毎秒ＨＰを(\d+)回復するフィールドを展開する$"=►Hồi $1 HP của bản thân.\n►Tăng P.DEF của bản thân lên $2 trong 12s.\n►Tăng M.DEF của bản thân lên $3 trong 12s.\n►Triển khai một vùng (Bán kính 150) hồi $4 HP/giây trong 8.5s.
+
+##UE##
+溟竜槍レヴィアタン=Leviathan Fang

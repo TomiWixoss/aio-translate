@@ -1,0 +1,68 @@
+検索=Tìm kiếm
+チェック全解除=Bỏ chọn tất cả
+リスト切替=Chuyển đổi
+クエスト一覧=Danh sách nhiệm vụ
+チェックのみ=Chỉ chọn
+検索結果=Kết quả tìm kiếm
+絞り込み中=Lọc
+絞り込みが設定されています。=Đã lọc lựa chọn.
+対象のクエストがありません。=Không có nhiệm vụ nào được chọn.
+まとめてスキップ=Bỏ qua
+アイテム名から検索=Tên vật phẩm
+アイテム長押しで詳細を=Giữ để xem thông tin vật phẩm.
+選択全解除=Xóa
+選択中アイテム=Đã chọn
+装備品=Trang bị
+ピュアメモリーピース=Mảnh Thuần Khiết
+レア度=Độ hiếm
+アイテム種類=Loại Vật Phẩm
+チケット=Vé
+１クエストの使用チケット枚数=Vé dùng mỗi nhiệm vụ
+全クエスト=Tất cả Nhiệm vụ
+サイドスト…=Ngoại truyện
+残り挑戦回数がありません。=Không còn lượt thử.
+[FF7C4E,D62146]残り挑戦回数がありません。[-]=[FF7C4E,D62146]Không còn lượt thử.[-]
+実行可能なクエストがありません。=Không có nhiệm vụ nào có thể tham gia.
+本日挑戦できないクエストのみ選択されています。=Chỉ có các nhiệm vụ không thể tham gia\nđược chọn.
+装備済み=Đã trang bị
+装備可能キャラ=Có thể trang bị
+装備可能なキャラがいません=Không có nhân vật nào.
+チェックしたクエストがありません。=Không có nhiệm vụ nào được chọn.
+以下クエストは次回まとめてスキップの対象外です=Các nhiệm vụ này không đủ điều kiện để bỏ qua hàng loạt.
+スタミナ、挑戦回数不足のため\n実行できないクエストがあります。=Một số nhiệm vụ không thể bỏ qua\ndo thiếu Thể Lực hoặc Lượt thử.
+以下クエストの残り挑戦回数をまとめて回復しますか？=Bạn có muốn khôi phục toàn bộ lượt thử còn lại cho các nhiệm vụ sau cùng một lúc không?
+以下クエストの残り挑戦回数をまとめて回復します。\nよろしいですか？=Bạn có muốn khôi phục toàn bộ lượt thử còn lại cho các nhiệm vụ sau cùng một lúc không?
+チェック済みのクエストがあります。=Có những nhiệm vụ đã được đánh dấu.
+同時に検索できるアイテムは３個までです。=Chỉ được tìm kiếm tối đa ba vật phẩm cùng một lúc.
+サイドストーリー HARD=Ngoại truyện (KHÓ)
+プリセット編集=Chỉnh sửa Tên Cài đặt
+スキップボーナス=Lượt Bỏ Qua
+キャラを選択してください。=Vui lòng chọn một nhân vật
+
+スキップするクエスト=Số lượng Nhiệm vụ
+合計スキップ回数=Số vé bỏ qua
+
+確認できます。= 
+クエスト検索=Xác nhận
+
+表示クエスト=Hiển thị Nhiệm vụ
+キャンペーン一覧=Danh sách Chiến dịch
+スタミナ不足のため実行できないクエストがあります。=Một số nhiệm vụ không thể bỏ qua\ndo thiếu Thể Lực.
+
+回復なしで次へ=Không Đặt lại
+回復する=Đặt lại
+
+まとめて挑戦回数回復=Xác nhận Đặt lại
+残り挑戦回数が0のクエストがあります。=Các nhiệm vụ này có 0 lượt thử còn lại.
+ジュエルを消費して、以下のクエストの\n残り挑戦回数をまとめて回復しますか？=Bạn có muốn đặt lại bằng Đá Quý không?
+
+まとめてスキップ確認=Xác nhận Bỏ Qua
+スキップチケットとスタミナを消費して、以下のクエストを実行します。よろしいですか？=Sử dụng Vé Bỏ Qua và Thể Lực để thực hiện các nhiệm vụ sau. Được chứ?
+スキップチケットを消費して、以下のクエストを実行します。よろしいですか？=Sử dụng Vé Bỏ Qua để thực hiện các nhiệm vụ sau. Được chứ?
+
+
+スキップ済み確認=Xác nhận Bỏ Qua
+前回まとめてスキップ時にスキップできなかった\nクエストが次回まとめてスキップの対象となります。=Các nhiệm vụ không thể bỏ qua lần này sẽ được bỏ qua vào lần sau.
+
+対象のアイテムがありません。=Không có vật phẩm mục tiêu.
+対象クエストの残り挑戦回数を超えてスキップはできません。=Bạn không thể bỏ qua vượt quá số lượt thử còn lại của nhiệm vụ đã chọn.

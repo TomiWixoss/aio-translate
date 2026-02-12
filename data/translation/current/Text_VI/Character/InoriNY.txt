@@ -1,0 +1,28 @@
+##Profile##
+【物理】前衛で相手をからかうお調子者の年神ドラゴン。敵全体を挑発し、敵の妨害スキルにカウンターして前方の敵すべてをスタンさせるスキルで戦局を引っ掻き回す。=[Vật lý] Một cô gái rồng vui tươi, đứng ở tuyến đầu và chế giễu đối thủ. Cô khuấy động trận chiến với kỹ năng khiêu khích tất cả kẻ địch và phản đòn kỹ năng cố định của địch, đồng thời choáng tất cả kẻ địch phía trước mình.
+
+##UB##
+大怪竜イノリ！=Rồng Vĩ Đại Inori!
+前方の敵すべてに物理大ダメージを与え、自分の物理攻撃力と物理クリティカルを特大アップする。=Gây sát thương vật lý khổng lồ cho tất cả kẻ địch tuyến đầu, và tăng cường mạnh mẽ tấn công vật lý và tỷ lệ chí mạng của bản thân.
+r:"^範囲内の敵に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを160アップ$"=►Gây $1 sát thương vật lý cho tất cả kẻ địch tuyến đầu.\n►Tăng tấn công vật lý của bản thân lên $2 trong 18s.\n►Tăng tỷ lệ chí mạng của bản thân lên 160 trong 18s.
+
+##S1##
+ドラゴンズノック=Đấm Rồng
+前方の敵すべてに物理中ダメージを与え、自分の物理攻撃力を大アップする。=Gây sát thương vật lý vừa phải cho tất cả kẻ địch tuyến đầu và tăng cường mạnh mẽ tấn công vật lý của bản thân.
+【挑発】敵全体を挑発する。挑発モーション中に行動不能、吹き飛ばし、引き寄せを受けた場合、目の前の敵１キャラを大きく吹き飛ばし、前方の敵すべてに物理大ダメージを与え、スタンさせる。このスキルが終了するまで自分が敵から受ける行動不能、吹き飛ばし、引き寄せを無効化する。=[Khiêu khích] Khiêu khích tất cả kẻ địch. Nếu bản thân bị ảnh hưởng bởi Choáng, đẩy lùi hoặc thay đổi vị trí trong khi đang khiêu khích, gây sát thương vật lý lớn cho tất cả kẻ địch và khiến chúng bị Choáng. Phá bỏ Choáng, đẩy lùi hoặc thay đổi vị trí cho đến khi kỹ năng kết thúc.
+r:"^敵全体を挑発する範囲内の敵に(\d+)の物理ダメージ範囲内の敵を一定時間行動不能にする$"=►Khiêu khích tất cả kẻ địch trong 3s.\n\nNếu bản thân bị ảnh hưởng bởi Choáng, đẩy lùi hoặc thay đổi vị trí:\n►Đẩy lùi một kẻ địch 300 đơn vị.\n►Gây $1 sát thương vật lý cho tất cả kẻ địch.\n►Khiến tất cả kẻ địch bị Choáng trong 1.5s.
+
+##S1+##
+ドラゴンズノック+=Đấm Rồng+
+前方の敵すべてに物理大ダメージを与え、大きく吹き飛ばし、自分の物理攻撃力を大アップする。行動不能状態の敵に対してはダメージが上昇する。=Gây sát thương vật lý khổng lồ cho tất cả kẻ địch phía trước, đẩy lùi chúng mạnh, và tăng tấn công vật lý của người dùng lên một lượng khổng lồ. Sát thương còn tăng thêm đối với kẻ địch bị vô hiệu hóa.
+
+r:"^範囲内の行動不能でない敵に(\d+)の物理ダメージ範囲内の行動不能の敵に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップ$"=►Gây $1 sát thương vật lý cho kẻ địch trong phạm vi không bị vô hiệu hóa.\n►Gây $2 sát thương vật lý cho kẻ địch bị vô hiệu hóa trong phạm vi.\n►Tăng tấn công vật lý của bản thân lên $3.
+
+辰年神之大槌=Búa Lớn Của Năm Thần Rồng
+
+##S2##
+かかってきやがれです！=Cứ Tới Đây!
+
+##EX##
+景気よくいくですよ！=Sẽ Tuyệt Vời!
+景気よくいくですよ！+=Sẽ Tuyệt Vời!+

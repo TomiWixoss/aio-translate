@@ -1,0 +1,41 @@
+##Profile##
+【物理】中衛から、敵陣の後方を狙い撃つ幽霊狼少女。前方の相手を無視して妨害スキルやユニオンバーストを敵後方に放ち、特に防御力が低いキャラの脅威になる。=[Vật Lý] Ma sói tấn công hàng sau địch từ vị trí giữa. Bỏ qua hàng trước, kỹ năng và Union Burst của cô nhắm vào kẻ địch xa nhất, cản trở hành động và gây hỗn loạn lên kẻ địch có phòng thủ thấp.
+
+##UB##
+トリックオアプリンなの=Thích Thích Hay Pudding!
+一番遠くの敵１キャラに物理特大ダメージを与え、さらに呪い状態にする。=Gây sát thương P.DMG lớn lên kẻ địch xa nhất và khiến Nguyền Rủa.
+r:"^敵単体に(\d+)の物理ダメージ(\d+)ダメージを与える呪い状態にする$"=►Gây $1 P.DMG lên kẻ địch.\n►Khiến Nguyền Rủa gây $2 P.DMG/giây.
+
+##S1##
+おおかみおんななの=Tôi Là Ma Sói Miyako!
+前方範囲内の一番遠くの敵１キャラのＴＰを小ダウンさせ、さらにスタンさせる。=Giảm TP của kẻ địch xa nhất một chút và khiến Choáng.
+r:"^敵単体のＴＰを(\d+)失わせる敵単体を一定時間行動不能にする$"=Thời gian niệm: 0.75 giây\n►Giảm TP của kẻ địch lên $1.\n►Khiến Choáng trong 1.8 giây.
+## 260lvl
+前方範囲内の一番遠くの敵１キャラのＴＰを小ダウン、物理攻撃力と魔法攻撃力を小ダウンさせ、さらにスタンさせる。=Giảm TP của kẻ địch xa nhất một chút, giảm P.ATK/M.ATK một chút và khiến Choáng.
+r:"^敵単体のＴＰを(\d+)失わせる敵単体の物理攻撃力を(\d+)ダウン敵単体の魔法攻撃力を(\d+)ダウン敵単体を一定時間行動不能にする$"=Thời gian niệm: 0.75 giây\n►Giảm TP của kẻ địch lên $1.\n►Giảm P.ATK của kẻ địch lên $2.\n►Giảm M.ATK của kẻ địch lên $3.\n►Khiến Choáng cho kẻ địch trong 1.8 giây.
+
+##S2##
+おばけごーらんどなの=Ma Quay Tròn!
+一番遠くの敵１キャラの物理攻撃力と魔法攻撃力を中ダウンさせる。=Giảm vừa phải P.ATK và M.ATK của kẻ địch xa nhất.
+r:"^敵単体の物理攻撃力を(\d+)ダウン敵単体の魔法攻撃力を(\d+)ダウン$"=Thời gian niệm: 0.75 giây\n►Giảm P.ATK của kẻ địch lên $1.\n►Giảm M.ATK của kẻ địch lên $2.
+
+##EX##
+がおがお～なの～=Gầm Gừ Gầm Gừ!
+がおがお～なの～+=Gầm Gừ Gầm Gừ!+
+
+##S1+##
+おおかみおんななの+=Tôi Là Ma Sói Miyako!+
+前方範囲内の一番遠くの敵１キャラのＴＰを小ダウンさせ、さらにスタンさせて恐慌状態にする。=Giảm TP của kẻ địch xa nhất một chút, khiến Choáng và Sợ Hãi.
+r:"^敵単体のＴＰを(\d+)失わせる敵単体を一定時間行動不能にする敵単体を恐慌状態にする$"=Thời gian niệm: 0.75 giây\n►Giảm TP của kẻ địch lên $1.\n►Khiến Choáng cho kẻ địch trong 1.8 giây.\n►Khiến Sợ Hãi cho kẻ địch trong 8 giây.
+## 260lvl
+前方範囲内の一番遠くの敵１キャラのＴＰを小ダウン、物理攻撃力と魔法攻撃力を小ダウンさせ、さらにスタンさせて恐慌状態にする。=Giảm TP của kẻ địch xa nhất một chút, giảm P.ATK/M.ATK một chút và khiến Choáng và Sợ Hãi.
+r:"^敵単体のＴＰを(\d+)失わせる敵単体の物理攻撃力を(\d+)ダウン敵単体の魔法攻撃力を(\d+)ダウン敵単体を一定時間行動不能にする敵単体を恐慌状態にする$"=Thời gian niệm: 0.75 giây\n►Giảm TP của kẻ địch lên $1.\n►Giảm P.ATK của kẻ địch lên $2.\n►Giảm M.ATK của kẻ địch lên $3.\n►Khiến Choáng cho kẻ địch trong 1.8 giây.\n►Khiến Sợ Hãi cho kẻ địch trong 8 giây.
+
+##S2+##
+おばけごーらんどなの+=Ma Quay Tròn!+
+一番遠くの敵１キャラの物理攻撃力と魔法攻撃力を大ダウンさせ、物理特大ダメージを与える。対象が呪いか呪詛状態だった場合、与えるダメージがアップする。=Giảm mạnh P.ATK và M.ATK của kẻ địch xa nhất, và gây sát thương P.DMG lớn. Nếu mục tiêu đang bị Nguyền Rủa hoặc Trúng Bùa, sát thương gây ra sẽ tăng.
+r:"^敵単体の物理攻撃力を(\d+)ダウン敵単体の魔法攻撃力を(\d+)ダウン敵単体に(\d+)の物理ダメージ対象の敵が呪いまたは呪詛状態の場合、敵単体に(\d+)の物理ダメージ$"=Thời gian niệm: 0.75 giây\n►Giảm P.ATK của kẻ địch lên $1 trong 12 giây.\n►Giảm M.ATK của kẻ địch lên $2 trong 12 giây.\n►Gây $3 P.DMG lên kẻ địch.\n►Nếu mục tiêu đang bị Nguyền Rủa hoặc Trúng Bùa, gây $4 P.DMG lên kẻ địch.
+
+##UE##
+プリンオブハロウィン=Pudding Dịp Halloween
+おおかみおんなせっと=Woolfe, Đi Thôi!

@@ -1,0 +1,33 @@
+##Profile##
+みんなのために超能力を使う眠り姫=Một thiên thần ngủ say sử dụng siêu năng lực để giúp đỡ người khác
+【魔法】後衛の、対物理パーティが得意な超能力ガール。スキルが物理攻撃の敵に対して真価を発揮するため、物理攻撃型の敵パーティを一網打尽にする。=[Phép] Một cô gái siêu nhiên ở hàng sau, thành thạo trong việc đối đầu với kẻ địch dùng tấn công vật lý. Kỹ năng của cô ấy có thêm hiệu ứng khi dùng chống lại kẻ địch gây sát thương Vật lý, cho phép cô ấy đánh bại cả một đội của chúng chỉ trong một lần.
+
+##UB##
+シューティング☆スター=Shooting☆Star
+物理攻撃をする敵すべてに魔法小ダメージを与え、さらに敵全体に魔法中ダメージを与える。=Gây sát thương phép nhỏ lên tất cả kẻ địch dùng tấn công vật lý. Gây sát thương phép trung bình lên tất cả kẻ địch.
+r:"^物理攻撃をする敵に(\d+)の追加魔法ダメージ敵全体に(\d+)の魔法ダメージ$"=►Gây thêm $1 sát thương phép lên kẻ địch dùng P.ATK.\n►Gây $1 sát thương phép lên tất cả kẻ địch.
+
+##S1##
+サイコ☆ブラスト=Psychic☆Blast
+最も物理攻撃力が高い敵１キャラに魔法中ダメージを与える。=Gây sát thương phép trung bình lên kẻ địch có tấn công vật lý cao nhất.
+
+##S2##
+スター☆ライト=Star☆Light
+最も物理攻撃力が高い敵１キャラに魔法小ダメージを与え、さらにスタンさせる。=Gây sát thương phép nhỏ lên kẻ địch có P.ATK cao nhất và gây choáng trong 1.5 giây.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体を一定時間行動不能にする$"=►Gây $1 sát thương phép lên kẻ địch.\n►Làm kẻ địch bất động.
+
+##EX##
+ハピネス☆エナジー=Happiness☆Energy
+ハピネス☆エナジー+=Happiness☆Energy+
+
+##UB+##
+シューティング☆ミーティア=Shooting☆Meteor
+物理攻撃をする敵すべてに魔法大ダメージを与え、魔法防御力を小ダウンさせ長時間スタンさせる。さらに敵全体に魔法中ダメージを与える。=Gây sát thương phép lớn lên tất cả kẻ địch dùng tấn công vật lý, giảm M.DEF một chút và gây choáng trong thời gian dài. Ngoài ra, nó còn gây sát thương phép lên tất cả kẻ địch.
+r:"^物理攻撃をする敵に(\d+)の追加魔法ダメージ物理攻撃をする敵の魔法防御力を(\d+)ダウン物理攻撃をする敵を一定時間行動不能にする敵全体に(\d+)の魔法ダメージ$"=►Gây thêm $1 sát thương phép lên tất cả kẻ địch dùng P.ATK.\n►Giảm M.DEF của tất cả kẻ địch dùng P.ATK đi $2 trong 6 giây.\n►Làm tất cả kẻ địch dùng P.ATK bất động trong 6 giây.\n►Gây $3 sát thương phép lên tất cả kẻ địch.
+
+##S1+##
+サイコ☆ブラスト+=Psychic☆Blast+
+最も物理攻撃力が高い敵１キャラに魔法中ダメージを与え、さらに魔法防御力を小ダウンさせる。=Gây sát thương phép trung bình lên kẻ địch có tấn công vật lý cao nhất và giảm M.DEF của nó một chút.
+
+##UE##
+ミーティア☆リボン=Meteor☆Ribbon

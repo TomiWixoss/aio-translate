@@ -1,0 +1,29 @@
+##Profile##
+【物理】中衛で、戦況のすべてを見据える隻眼の闇医者。ＨＰが低い敵を束縛し防御力ダウンスキルで仕掛けつつ呪詛の毎秒増加する継続ダメージで敵の命を刻々と蝕む。=[Vật Lý] Một bác sĩ chợ đen một mắt quan sát toàn bộ trận chiến từ vị trí giữa. Cô trói kẻ địch có HP thấp và dùng kỹ năng hạ P.DEF của kẻ địch để liên tục tăng sát thương trong khi dần dần cạn kiệt mạng sống của chúng bằng nguyền rủa.
+
+##UB##
+ローズデストラクション=Rose Destruction
+前方範囲内の敵すべてに物理大ダメージを与え、呪い状態にする。範囲内の敵がすでに呪い状態だった場合、さらに呪詛状態にする。呪詛による継続ダメージは毎秒ごとに増加する。=Gây sát thương vật lý lớn lên kẻ địch trong phạm vi 900 và nguyền rủa chúng. Nếu kẻ địch trong phạm vi 900 đã bị nguyền rủa, sẽ gây nguyền thêm. Sát thương liên tục do nguyền gây ra tăng lên mỗi giây.
+r:"^範囲内の敵に(\d+)の物理ダメージ敵が呪い状態の時、毎秒ダメージが初期値(\d+)の30％ずつアップするダメージを与える呪詛状態にする敵が呪い状態でない時、(\d+)ダメージを与える呪い状態にする$"=►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi.\n►Nếu kẻ địch trong phạm vi bị nguyền rủa, gây nguyền gây $2/giây và sát thương tăng thêm 30% mỗi giây trong 19s.\n►Nếu kẻ địch trong phạm vi KHÔNG bị nguyền rủa, gây nguyền gây $3/giây trong 13s.
+
+##S1##
+ローズカルテ=Rose Chart
+すべての敵のうち最もＨＰの割合が低い敵１キャラに物理中ダメージを与え、物理防御力と魔法防御力を小ダウンさせ、さらに束縛する。=Gây sát thương vật lý trung bình lên kẻ địch có tỷ lệ HP thấp nhất trong số tất cả kẻ địch, hạ nhẹ P.DEF và M.DEF của chúng, và trói chúng.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン敵単体の魔法防御力を(\d+)ダウン敵単体を一定時間行動不能にする$"=►Gây $1 sát thương vật lý lên một kẻ địch.\n►Hạ P/M.DEF của một kẻ địch xuống $2 trong 12s.\n►Gây trói lên một kẻ địch trong 3.5s.
+
+##S2##
+アポトーシスエンハンサー=Apoptosis Enhancer
+前方範囲内の敵すべてを呪い状態にし、物理防御力と魔法防御力を小ダウンさせる。=Gây nguyền rủa lên kẻ địch trong phạm vi và hạ P.DEF và M.DEF của chúng một chút.
+r:"^(\d+)ダメージを与える呪い状態にする範囲内の敵の物理防御力を(\d+)ダウン範囲内の敵の魔法防御力を(\d+)ダウン$"=►Gây nguyền rủa lên kẻ địch trong phạm vi 900 gây $1/giây trong 13s.\n►Hạ P/M.DEF của kẻ địch trong phạm vi 900 xuống $2 trong 12s.
+
+##EX##
+ブラックメディカルケア=Black Medical Care
+ブラックメディカルケア+=Black Medical Care+
+
+##S1+##
+ローズカルテ+=Rose Chart+
+すべての敵のうち最もＨＰの割合が低い敵１キャラに物理大ダメージを与え、物理防御力と魔法防御力を中ダウン、物理攻撃力と魔法攻撃力を中ダウンさせ、さらに束縛する。=Gây sát thương vật lý lớn lên kẻ địch có tỷ lệ HP thấp nhất trong số tất cả kẻ địch, hạ trung bình P.DEF, M.DEF, P.ATK và M.ATK của chúng, và trói chúng.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン敵単体の魔法防御力を(\d+)ダウン敵単体の物理攻撃力を(\d+)ダウン敵単体の魔法攻撃力を(\d+)ダウン敵単体を一定時間行動不能にする$"=►Gây $1 sát thương vật lý lên một kẻ địch.\n►Hạ P/M.DEF của một kẻ địch xuống $2 trong 12s.\n►Hạ P/M.ATK của một kẻ địch xuống $4 trong 12s.\n►Gây trói lên một kẻ địch trong 3.5s.
+
+##UE##
+ローゼスシリンジ=Rose's Syringe

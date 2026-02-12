@@ -1,0 +1,32 @@
+##Profile##
+【魔法】後衛で、傍らで心を重ねる振袖姿の救護院の主。味方へのＴＰ回復の支援をしつつ、味方がＵＢを発動するたびダメージが上がるスキルで、共に困難を乗り越える。=[Ma thuật] Người quản lý trại mồ côi, mặc kimono dài với nhiều lớp trái tim. Cô ấy tăng TP cho đồng minh, và có kỹ năng tăng sát thương mỗi khi đồng minh sử dụng UB. Với những điều này, cô ấy giúp những người gần mình vượt qua khó khăn cùng nhau.
+
+##UB##
+ライジングフェニックス=Rising Phoenix
+r:"^敵単体に(\d+)の魔法ダメージ敵単体に(\d+)の魔法ダメージ自分の魔法攻撃力を(\d+)アップ$"=►Gây $1 sát thương ma thuật cho một kẻ địch.\n►Gây $2 sát thương ma thuật cho một kẻ địch.\n►Tăng M.ATK của bản thân lên $3.
+
+目の前の敵１キャラに魔法特大ダメージを２回与え、自分の魔法攻撃力を特大アップする。このスキルのダメージは【火の鳥】の数に応じて増加する。=Gây 2 lần sát thương ma thuật lớn cho kẻ địch phía trước nhất và tăng mạnh M.ATK của bản thân. Sát thương kỹ năng này tăng tỷ lệ với số chồng [Phoenix]. [+9% mỗi chồng]
+
+##S1##
+コーリングフェザー=Calling Feather
+コーリングフェザー+=Calling Feather+
+r:"^敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン自分のＴＰを250回復自分の火の鳥が10以上の時、敵単体に(\d+)の魔法ダメージ自分の火の鳥が10以上の時、敵単体の被クリダメを5％アップ$"=►Gây $1 sát thương ma thuật cho một kẻ địch.\n►Giảm M.DEF của một kẻ địch đi $2.\n►Hồi TP của bản thân thêm 250.\n\nNếu [Phoenix] từ 10 trở lên:\n►Gây $3 sát thương ma thuật cho một kẻ địch.\n►Tăng sát thương phản ma thuật chí mạng của kẻ địch nhận 5%.
+
+目の前の敵１キャラに魔法大ダメージを与え、魔法防御力を小ダウンさせる。さらに自分のＴＰを中回復する。【火の鳥】の数が10以上の場合、目の前の敵１キャラに追加の魔法大ダメージを与え、クリティカルを受けた際のダメージを小アップさせる。このスキルのダメージは【火の鳥】の数に応じて増加する。=Gây sát thương ma thuật lớn cho kẻ địch phía trước, và giảm mạnh M.DEF của nó, và còn hồi thêm TP cho bản thân. Nếu số [Phoenix] từ 10 trở lên, gây thêm sát thương ma thuật lớn cho kẻ địch đó và tăng nhẹ sát thương vật lý chí mạng mà nó nhận. Sát thương kỹ năng này tăng theo số [Phoenix].
+
+##S2##
+メディテーションダンス=Meditation Dance
+r:"^自分の魔法攻撃力を(\d+)アップ自分以外の味方全体の魔法攻撃力を(\d+)アップ自分の魔法クリティカルを100アップ自分以外の味方全体の魔法クリティカルを60アップ自分のＴＰを250回復自分以外の味方全体のＴＰを150回復初使用時、味方がＵＢを使用するたびに自分に火の鳥が１つ付与される状態にする$"=►Tăng M.ATK của bản thân lên $1.\n►Tăng M.ATK của đồng minh (trừ bản thân) lên $2.\n►Tăng tỷ lệ chí mạng ma thuật của bản thân thêm 100.\n►Tăng tỷ lệ chí mạng ma thuật của đồng minh (trừ bản thân) thêm 60.\n►Hồi TP của bản thân thêm 250.\n►Hồi TP cho tất cả đồng minh (trừ bản thân) thêm 150.\n►Khi dùng lần đầu, mỗi lần đồng minh dùng UB, thêm 1 [Phoenix] cho bản thân.
+
+
+バトル開始後、初弾のこのスキルは味方がＵＢを使用するたびに自分に【火の鳥】が１つ追加される状態にする。【火の鳥】は最大20まで追加される。味方全体の魔法攻撃力を特大アップ、魔法クリティカルを中アップさせ、ＴＰを中回復させる。この効果は自分に対してのみ効果量がアップする。=Sau lần dùng đầu tiên, UB của đồng minh sẽ thêm một chồng [Phoenix] cho cô ấy. Số chồng [Phoenix] tối đa 20. Tăng mạnh M.ATK, tăng vừa phải M.CRIT và hồi vừa phải TP cho tất cả đồng minh. Hiệu quả kỹ năng này chỉ tăng thêm cho bản thân cô ấy.
+
+##EX##
+ノーブルニューイヤー=Noble New Year
+ノーブルニューイヤー+=Noble New Year+
+
+
+
+##S1+##
+救護院長の新春晴れ着=Infirmary Director's New Year Kimono
+r:"^敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン自分の魔法攻撃力を(\d+)アップ自分のＴＰを250回復自分の火の鳥が10以上の時、敵単体に(\d+)の魔法ダメージ自分の火の鳥が10以上の時、敵単体の被クリダメを8％アップ$"=►Gây $1 Sát thương phép lên 1 kẻ địch.\n►Giảm $2 Phòng thủ phép của 1 kẻ địch.\n►Tăng Tấn công phép của bản thân lên $3.\n►Hồi 250 TP cho bản thân.\n\nNếu [Phượng Hoàng] đạt 10 trở lên:\n►Gây $4 Sát thương phép lên 1 kẻ địch.\n►Tăng Sát thương phép mà kẻ địch nhận lên 8％.

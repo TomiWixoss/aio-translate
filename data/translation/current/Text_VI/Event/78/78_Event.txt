@@ -1,0 +1,23 @@
+r:"^異世界さまぁばけぇしょん([0-9\-\(\)\w （）]*)$"=Kỳ nghỉ hè ở thế giới khác $1
+記憶喰い・シロクジラ=Cá voi trắng - Kẻ ăn mộng
+シロクジラ=Cá voi trắng
+ボスの沈黙無効=Hiệu ứng im lặng của boss bị vô hiệu hóa
+
+
+
+
+
+
+彼方よりの訪客から異世界の因子を取り込み、種を超えし力を会得した巨鯨の魔物。遥か高みを回遊する脅威に、世界を跨ぐ絆が試される。=Một con quái vật cá voi khổng lồ đã hấp thụ các yếu tố dị giới từ một vị khách từ rất xa và có được sức mạnh vượt xa mọi loài khác. Những mối liên kết xuyên thế giới bị thử thách bởi mối đe dọa này luôn di chuyển từ phía trên cao.
+
+敵全体の物理攻撃力と魔法攻撃力を中ダウンさせる。=Giảm một phần sức tấn công vật lý và ma thuật của tất cả kẻ địch.
+味方全体のＴＰを大回復させる。=Phục hồi rất nhiều TP cho toàn bộ đồng đội.
+
+記憶喰い=Kẻ ăn mộng
+
+シロクジラから受けるすべてのダ\n　メージで発生する、パーティキャラのＴＰ回復\n　量を中ダウンさせる。\n=Nó trung hòa lượng phục hồi TP của các thành viên trong party do tất cả sát thương nhận từ con cá voi trắng gây ra.\n
+敵の挑発を無視して、召喚体、分身を除いた最\n　も遠い敵１キャラに、物理中ダメージを与え、\n　沈黙状態をバトル終了まで付与する。\n=Bỏ qua khiêu khích của đối phương, tôi gây Sát Thương Vật Lý lên một nhân vật địch xa nhất (trừ thân triệu hồi và bản sao), và áp dụng hiệu ứng im lặng cho đến hết trận.\n
+敵の挑発を無視して、召喚体、分身を除いた後\n　ろから２番目の敵に、物理中ダメージを与え、\n　沈黙状態をバトル終了まで付与する。\n=Bỏ qua khiêu khích của đối phương, tôi gây Sát Thương Vật Lý lên kẻ địch thứ hai tính từ phía sau (trừ thân triệu hồi và bản sao), và áp dụng hiệu ứng im lặng cho đến hết trận.\n
+敵の挑発を無視して、召喚体、分身を除いた後\n　ろから３番目の敵に、物理中ダメージを与え、\n　沈黙状態をバトル終了まで付与する。=Bỏ qua khiêu khích của đối phương, tôi gây Sát Thương Vật Lý lên kẻ địch thứ ba tính từ phía sau (trừ thân triệu hồi và bản sao), và áp dụng hiệu ứng im lặng cho đến hết trận.
+
+

@@ -1,0 +1,115 @@
+プレゼントボックス=Hộp Quà
+すべて受け取る=Nhận Tất Cả
+受け取り履歴=Lịch Sử
+[FF7C4E,D62146]期限が切れたプレゼントは自動的に削除されます。一度に受け取れるプレゼントは100件までです。[-]=[FF7C4E,D62146]Quà tặng sẽ tự động bị xóa khi hết hạn.\nTối đa 100 món quà có thể được nhận cùng một lúc.[-]
+スタミナ以外=Ngoại trừ thể lực
+新しい順=Mới nhất
+古い順=Cũ nhất
+家具=Nội thất
+ギルドハウス家具は、メインクエスト2-1（NORMAL）クリアで受け取れます。=Nội thất Công hội có thể nhận được bằng cách hoàn thành nhiệm vụ chính $1.
+[FF7C4E,D62146]受け取れるアイテムがありません。[-]=[FF7C4E,D62146]Không có vật phẩm nào.[-]
+[FF7C4E,D62146]受け取ったアイテムはありません。[-]=[FF7C4E,D62146]Không có vật phẩm nào.[-]
+
+運営からの補てんの品です。=Đây là sự bồi thường từ ban quản lý.
+以下のプレゼントをまとめて受け取りますか？=Bạn có muốn chấp nhận tất cả các món quà sau đây không?
+プレゼント受け取り=Nhận Quà
+報酬はプレゼントに送られました。=Phần thưởng đã được gửi đến Hộp Quà.
+所持上限を超えたアイテムはプレゼントに送られました。=Các vật phẩm vượt quá giới hạn sở hữu đã được gửi dưới dạng quà tặng.
+「信頼度エピソード」で獲得したアイテムです。=Vật phẩm nhận được từ "Tập riêng tư"
+運営からのお詫びの品です。=Lời xin lỗi từ ban quản lý.
+ミニゲームで獲得したアイテムです。=Vật phẩm nhận được từ một trò chơi nhỏ.
+プレゼントに送られたアイテムがあります。=Một số vật phẩm đã được gửi đến Hộp Quà.
+
+ガチャ更新によりキャラ交換Ptを変換したアイテムです。=Đổi từ điểm Trao đổi Nhân vật do cập nhật gacha.
+sr:"^(.+)を購入して獲得したアイテムです。$"=Vật phẩm nhận được từ một $1.
+---Item Receive---
+sr:"^(\[[0-9A-Fa-f,]{6,13}\])?([\s\S]+?)(（.+）)?(の(?:ピュア)?メモリーピース|の設計図)?(?:\[-\])?(?:\[[0-9A-Fa-f,]{6,13}\])? ?(?:×|x)(?:\[-\])?(\[[0-9A-Fa-f,]{6,13}\])?([0-9,]+)(\[-\])?(?:\[-\])?$"=$1$2$3$4 × $5$6$7
+
+sr:"^「(.+)」キービジュアル カスタムマイぺージ$"="$1" Key Visual Custom My Page"
+
+以下の交換結果になりました。=Kết quả trao đổi sau đây như sau:
+
+
+
+---sort---
+フィルタ=Bộ lọc
+期限あり=Thời gian giới hạn
+期限なし=Không giới hạn
+プレゼントの種類=Loại Quà
+メモリーピース=Mảnh ký ức
+コイン=Đồng xu
+その他=Khác
+
+---items---
+受け取り期限=Hạn chót
+獲得日時=Nhận được
+受け取り日時=Ngày và giờ
+プリンセスアリーナの防衛報酬です。=Phần thưởng phòng thủ Đấu trường Công chúa.
+バトルアリーナの防衛報酬です。=Phần thưởng phòng thủ Đấu trường Chiến đấu.
+sr:"^「(.+)」で獲得したアイテムです。$"="Đây là vật phẩm nhận được trong \"$1\"."
+sr:"^バトルアリーナ(\d+位)のランキング報酬です。$"="Phần thưởng xếp hạng Đấu trường Chiến đấu $1."
+sr:"^プリンセスアリーナ(\d+位)のランキング報酬です。$"="Phần thưởng xếp hạng Đấu trường Công chúa $1."
+sr:"^(\d+月)クランバトルランキング(\d+位)の報酬です。$"="Phần thưởng xếp hạng Trận chiến Bang hội ($1) $2."
+みんなのカレンダー内で獲得したアイテムです。=Vật phẩm này đã được nhận trong lịch của mọi người.
+マスターショップ=Cửa hàng Chủ nhân
+このアイテムはメインクエスト等では入手できません=Vật phẩm này không thể nhận được từ nhiệm vụ chính hoặc các nhiệm vụ khác
+
+スタミナ\n受取対象外=Loại trừ\nThể lực
+期限を過ぎていたため、一部のプレゼントは受け取れませんでした。=Một số quà tặng đã không được nhận vì đã hết hạn.
+所持上限を超えて獲得したスタミナです。=Đây là thể lực nhận được vượt quá giới hạn tối đa.
+スタミナ受取対象外にチェックしているため受け取れません。=Thể lực hiện đang bị loại trừ. Vui lòng bỏ chọn "Loại trừ Thể lực" để nhận.
+ウマ娘「The Game Awards 2025」受賞記念★3確定ガチャチケット=Vé Gacha Đảm Bảo ★3 Kỷ Niệm Giải Thưởng "The Game Awards 2025" Của Uma Musume =
+---Login Bonus---
+
+クリスマス=Giáng sinh
+謹賀新年 お正月=Chúc mừng năm mới
+元日特別=Đặc biệt Ngày đầu năm mới
+元日特別ログインボーナス=Ưu đãi đăng nhập đặc biệt ngày đầu năm mới
+復刻イベント=Sự kiện Hồi sinh
+スタートダッシュログイン=Đăng nhập Khởi động Nhanh
+事前登録=Đăng ký trước
+メインストーリー第3部開始記念ログイン=Đăng nhập kỷ niệm Phần 3 câu chuyện chính
+
+大吉=Đại Cát
+中吉=Thường Cát
+吉=Phúc
+小吉=Bình Cát
+末吉=Tương lai Thường Cát
+末小吉=Tương lai Bình Cát
+末中吉=Tương lai Thường Cát
+大凶=Đại Xui
+凶=Xui Xẻo
+吉凶未分=Chưa Xác Định
+sr:"^「(.*)ログインボーナス」(\d+日)目「(.+)」で獲得したアイテムです。$"="Vật phẩm nhận được vào ngày $2 ($3) "$1 Đăng nhập Thưởng"."
+sr:"^「(.+)ログインボーナス」(\d+日)目で獲得したアイテムです。$"="Vật phẩm nhận được vào ngày $2 của "$1 Đăng nhập Thưởng"."
+
+
+r:"^([0-9.]+) Year Anniversary カウントダウン$"=$1 Năm Kỷ Niệm Đếm Ngược
+r:"^([0-9.]+)th Anniversary カウントダウンログインボーナス$"=$1th Anniversary Countdown Log-in Bonus
+
+r:"^([0-9.]+) Year Anniversary スペシャル$"=$1 Năm Kỷ Niệm Đặc Biệt
+期間限定ストーリーの通知=Thông báo Cốt truyện Giới hạn thời gian
+r:"^([0-9.]+) Year Anniversary カウントダウンログインボーナスの開催期間中、通知を表示するか設定します。$"=$1 Năm Kỷ Niệm Được thiết lập để hiển thị thông báo trong sự kiện đăng nhập thưởng đếm ngược.
+謹賀新年 お正月ログインボーナス」2日目「大吉=⁇  Thưởng Đăng nhập Năm Mới ⁇  Ngày 2, ⁇ Đại Cát ⁇
+
+sr:"^「ログインボーナス」(\d+日)目で獲得したアイテムです。$"="Vật phẩm nhận được vào ngày $1 của "Đăng nhập Thưởng"."
+sr:"^「(.+)キャンペーン」(\d+日)目で獲得したアイテムです。$"="Vật phẩm nhận được vào ngày $2 của "$1 Chiến dịch"."
+
+メンテナンスにご協力いただいたお礼です。=Cảm ơn bạn đã hợp tác trong bảo trì.
+運営からのプレゼントです。=Quà từ ban quản lý.
+
+---Premium---
+sr:"^(?:\[3C404E\])?([0-9]*.+?)(\d+)日目のアイテムセット\[-\] \[3C404E\]あと\[-\]\[FFBB00,CE4F00\]([0-9,]+)\[-\]\[3C404E\]日有効(?:\[-\])?(?: \[3C404E\](\+\d+)日予約中(?:\[-\])?)?$"=[3C404E]$1: Phần thưởng ngày $2. [FFBB00,CE4F00]$3[-]$4[3C404E] ngày còn lại.[-]
+
+sr:"^(?:\[3C404E\])?(.+)「(.+)」\[-\] \[3C404E\]あと\[-\]\[FFBB00\,CE4F00\]([0-9,]+)\[-\]\[3C404E\]日有効$"=$1 [$2] phần thưởng. [FFBB00,CE4F00]$3[-][3C404E] ngày còn lại.[-]
+
+
+sr:"^(?:\[3C404E\])?(.+)のアイテムです。(?:\[-\])?$"="Vật phẩm nhận từ "$1""
+
+スタミナ上限に到達しました。\n獲得したスタミナをプレゼントに送ります。=Stamina của bạn đã đạt tối đa. Stamina còn lại sẽ được gửi đến Hộp Quà.
+
+所持上限に達しているアイテムがあります。\n対象アイテムは受け取れませんでした。=Đã đạt giới hạn vật phẩm.\nKhông thể nhận vật phẩm được chỉ định.
+
+無料対象キャラは無料分のみの強化になります。=Nhân vật miễn phí chỉ có thể được tăng cường miễn phí.
+所持上限を超えて獲得したダイスです。=Xúc xắc nhận được vượt quá giới hạn sở hữu.
+ダイス=Xúc xắc

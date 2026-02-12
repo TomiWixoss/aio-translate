@@ -1,0 +1,35 @@
+##Profile##
+【物理】後衛で毒を操る、ぼっちエルフの編入生。敵が毒や猛毒になっていると強化される攻撃スキルと、敵の物理防御力を下げるスキルで味方をサポートする。=[Thể chất] Một tiên elf học sinh chuyển trường "cô độc" sử dụng chất độc chết người từ tuyến sau. Kỹ năng của cô được tăng cường chống lại kẻ thù đã bị đầu độc, và cô cũng có thể hỗ trợ đồng đội bằng cách giảm phòng thủ thể chất của kẻ thù.
+
+##UB##
+ヴェノムブラスト=Vụ Nổ Độc Dịch
+目の前の敵１キャラに物理大ダメージを与えて毒状態にし、さらに物理防御力を大ダウンさせる。=Gây sát thương thể chất lớn lên kẻ thù phía trước, gây Độc và giảm mạnh P.DEF của chúng.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン(\d+)ダメージを与える毒状態にする$"=►Gây $1 sát thương thể chất lên một kẻ thù.\n►Giảm P.DEF của một kẻ thù xuống $2.\n►Gây Độc, gây $3 sát thương thể chất/giây trong 20s.
+
+##S1##
+スパイクサークル=Vòng Gai Độc
+目の前の敵１キャラを中心に物理ダメージフィールドを展開する。対象が毒か猛毒状態だった場合、フィールドのダメージ量が増加する。=Triển khai một vùng hiệu ứng gây sát thương thể chất xung quanh kẻ thù phía trước. Sát thương vùng hiệu ứng tăng lên nếu mục tiêu đang chịu Độc hoặc Nọc.
+r:"^発動時の中心の敵が毒または猛毒状態の時、毎秒(\d+)の物理ダメージを与えるフィールドを展開する発動時の中心の敵が毒または猛毒状態でない時、毎秒(\d+)の物理ダメージを与えるフィールドを展開する$"=Nếu mục tiêu không bị Độc hoặc Nọc:\n►Triển khai vùng hiệu ứng gây $2 sát thương thể chất/giây trong 8s.\n\nNếu mục tiêu bị Độc hoặc Nọc:\n►Triển khai vùng hiệu ứng gây $1 sát thương thể chất/giây trong 8s.
+
+##S2##
+アシッドヴァイン=Dây Leo Axit
+目の前の敵１キャラの物理防御力を中ダウンさせる。対象が毒か猛毒状態だった場合、さらに対象に物理中ダメージを与える。=Giảm trung bình P.DEF của một kẻ thù. Nếu mục tiêu đang chịu Độc hoặc Nọc, gây thêm sát thương thể chất trung bình.
+r:"^敵単体の物理防御力を(\d+)ダウン対象が毒または猛毒状態の時、敵単体に(\d+)の物理ダメージ$"=►Giảm P.DEF của một kẻ thù xuống $1 trong 12s.\n\nNếu mục tiêu bị Độc hoặc Nọc:\n►Gây $2 sát thương thể chất lên một kẻ thù.
+
+##EX##
+ぼっちの矜持=Phẩm Giá Kẻ Cô Độc
+ぼっちの矜持+=Phẩm Giá Kẻ Cô Độc +
+
+##S1+##
+スパイクサークル+=Vòng Gai Độc +
+目の前の敵１キャラを中心に物理ダメージフィールドと、物理防御力を小ダウンさせるフィールドを展開する。対象が毒か猛毒状態だった場合、フィールドのダメージ量が増加する。=Triển khai một vùng hiệu ứng gây sát thương thể chất xung quanh kẻ thù phía trước, và giảm nhẹ P.DEF của chúng. Sát thương vùng hiệu ứng tăng lên nếu mục tiêu đang chịu Độc hoặc Nọc.
+r:"^発動時の中心の敵が毒または猛毒状態の時、毎秒(\d+)の物理ダメージを与えるフィールドを展開する発動時の中心の敵が毒または猛毒状態でない時、毎秒(\d+)の物理ダメージを与えるフィールドを展開するフィールド内の敵の物理防御力(\d+)ダウン$"=►Triển khai vùng hiệu ứng giảm P.DEF xuống $3 trong 8s.\n\nNếu mục tiêu không bị Độc hoặc Nọc:\n►Triển khai vùng hiệu ứng gây $2 sát thương thể chất/giây trong 8s.\n\nNếu mục tiêu bị Độc hoặc Nọc:\n►Triển khai vùng hiệu ứng gây $1 sát thương thể chất/giây trong 8s.
+
+##S2+##
+アシッドヴァイン+=Dây Leo Axit +
+目の前の敵１キャラの物理防御力を大ダウンさせ、物理大ダメージを与え、自分のＴＰを大回復する。対象が毒か猛毒状態だった場合、さらに物理大ダメージを与える。=Giảm mạnh P.DEF của một kẻ thù, gây sát thương thể chất lớn lên chúng và hồi mạnh TP của bản thân. Nếu mục tiêu đang chịu Độc hoặc Nọc, gây thêm sát thương thể chất trung bình.
+r:"^敵単体の物理防御力を(\d+)ダウン対象が毒または猛毒状態の時、敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ自分のＴＰを450回復$"=►Giảm P.DEF của một kẻ thù xuống $1 trong 12s.\n►Nếu mục tiêu bị Độc hoặc Nọc, gây $2 sát thương thể chất lên một kẻ thù.\n►Gây $3 sát thương thể chất lên một kẻ thù.\n►Hồi TP của bản thân lên 450.
+
+##UE##
+なかよしの弓琴=Cung Tình Bạn
+アオイのなかよし手帳=Sổ Tay Tình Bạn Của Aoi

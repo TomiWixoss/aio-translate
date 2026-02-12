@@ -1,0 +1,37 @@
+マイパーティ一覧=Danh Sách Đội
+「編成」ボタンからマイパーティの登録ができます。=Bạn có thể đăng ký đội của mình bằng cách nhấp vào nút "Chỉnh sửa".
+
+マイパーティ編成=Chỉnh Sửa Đội
+
+この編成を呼び出す=Sử Dụng Đội
+呼び出す=Sử Dụng
+呼び出すパーティを選択=Chọn Đội Để Sử Dụng
+
+登録済みのパーティを呼び出して編成を行います。=Chỉnh sửa các đội được tạo sẵn khác.
+この編成を呼び出す=Sử Dụng Đội
+
+タブ名編集=Chỉnh Sửa Tên Tab
+変更するタブを選択してください。=Chọn tab để chỉnh sửa.
+変更後名称=Tên Đã Chỉnh Sửa
+
+sr:"^(\d+)文字以上(\d+)文字以下$"=Giữa $1-$2 ký tự
+
+sr:"^編成(\d+)$"=Cài Đặt Sẵn $1
+コピーするパーティを選択=Chọn ô
+ここにコピー=Sao Chép Ở Đây
+登録済みのパーティを他のパーティにコピーします。=Sao chép một đội đã đăng ký sang ô khác.
+
+クリア確認=Xóa Đội
+下記のパーティ情報をクリアしますか？=Xóa đội sau đây?
+[FF7C4E,D62146]一度クリアするとパーティ情報はもとに戻りません。[-]=[FF7C4E,D62146]Thông tin đội sẽ mất mãi mãi một khi đã xóa.[-]
+クリアする=Xóa
+
+変更反映=Thay Đổi Đã Lưu
+[3C404E]変更内容を反映しました。[-]=[3C404E]Thay đổi của bạn đã được lưu.[-]
+
+上書き保存=Ghi Đè Lưu
+[FF7C4E,D62146]一度上書きするとパーティ情報はもとに戻りません。[-]=[FF7C4E,D62146]Một khi đã ghi đè,\nthông tin đội sẽ không được khôi phục.[-]
+保存先のタブ=Lưu Tab
+上書きされるパーティ=Đội Đã Ghi Đè
+コピーするパーティ=Đội Để Sao Chép
+現在設定しているパーティ情報に\n上書き保存してよろしいですか？=Bạn có chắc chắn muốn ghi đè\nthông tin đội hiện đang được thiết lập?

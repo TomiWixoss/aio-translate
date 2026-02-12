@@ -1,0 +1,27 @@
+##Profile##
+【物理】中衛で正義の力を魔法にのせて戦う魔法剣士。自身の物理攻撃力を魔法攻撃力に加える魔法少女の力と、たゆまぬ努力で獲得した剣技で、華麗な魔法攻撃を放つ。=[Vật lý] Một Kiếm sĩ Ma pháp sử dụng sức mạnh công lý trong ma pháp để chiến đấu từ tuyến giữa. Với sức mạnh của thiếu nữ ma pháp để tăng cường M.ATK của bản thân thông qua P.ATK và kỹ thuật kiếm đã học được qua nỗ lực không ngừng, cô giải phóng những đòn tấn công ma pháp rực rỡ.
+
+##UB##
+シャイニーアクアストリーム=Dòng Nước Ánh Kim Lấp Lánh
+目の前の敵１キャラに物理攻撃力と魔法攻撃力を合わせた攻撃力をもとにした魔法特大ダメージを与える。=Gây sát thương ma pháp cực lớn lên kẻ địch phía trước dựa trên tổng P.ATK và M.ATK.
+
+##S1##
+シャイニーブレード=Lưỡi Kiếm Ánh Kim
+目の前の敵１キャラに物理攻撃力と魔法攻撃力を合わせた攻撃力をもとにした魔法大ダメージを与える。=Gây sát thương ma pháp lớn lên kẻ địch phía trước dựa trên tổng P.ATK và M.ATK.
+
+##S2##
+シャイニーアクア=Aqua Ánh Kim
+自分の物理攻撃力を中アップさせ、さらに魔法クリティカルと行動速度を大アップさせる。=Tăng trung bình P.ATK của bản thân, và tăng mạnh Tỷ lệ Chí mạng ma pháp cùng tốc độ hành động của bản thân.
+r:"^自分の物理攻撃力を(\d+)アップ自身の行動速度を一定時間上昇させる自分の魔法クリティカルを(\d+)アップ$"=►Tăng P.ATK của bản thân lên $1 trong 12s.\n►Tăng tốc độ hành động của bản thân lên 150% trong 12s.\n►Tăng Tỷ lệ Chí mạng ma pháp của bản thân lên $2 trong 180s.
+
+##EX##
+シャイニーアティチュード=Thái độ Ánh Kim
+シャイニーアティチュード+=Thái độ Ánh Kim+
+
+##S1+##
+シャイニーブレード+=Lưỡi Kiếm Ánh Kim+
+自分の物理攻撃力を短時間大アップ、魔法クリティカルを短時間特大アップさせ、目の前の敵１キャラに物理攻撃力と魔法攻撃力を合わせた攻撃力をもとにした魔法特大ダメージを与える。=Tăng cường P.ATK và M.ATK của bản thân một lượng lớn trong thời gian ngắn, và gây sát thương ma pháp cực lớn lên kẻ địch phía trước dựa trên tổng P.ATK và M.ATK.
+r:"^自分の物理攻撃力を(\d+)アップ自分の魔法クリティカルを(\d+)アップ敵単体に(\d+)の魔法ダメージ$"=►Tăng P.ATK của bản thân lên $1 trong 9s.\n►Tăng M.ATK của bản thân lên $2 trong 9s.\n►Gây $3 sát thương vật lý lên một kẻ địch.
+
+##UE##
+マジカルシャイニーレイピア=Kiếm nhọn ma thuật lấp lánh

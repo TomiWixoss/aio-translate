@@ -1,0 +1,31 @@
+##Profile##
+【魔法】後衛で、敵の脅威から生徒を守る夏女神な先生。味方の魔法防御力を高め、ＨＰを継続回復するスキルや、バリア展開のユニオンバーストで味方を堅固に守護する。=[Ma thuật] Một giáo viên như nữ thần mùa hè bảo vệ học sinh khỏi mối đe dọa ở hậu phương. Với kỹ năng tăng M.DEF và phục hồi HP liên tục của đồng minh, cùng Union Burst triển khai barrier, kiên cường bảo vệ đồng minh.
+
+##UB##
+サマーゴッデスコーチング=Summer Goddess Coaching
+物理攻撃を行うすべての味方キャラに魔法無効バリアを展開し、さらに魔法攻撃を行うすべての味方キャラに物理無効バリアを展開する。=Triển khai Barrier lên tất cả đồng minh, chống lại P.DMG nếu đồng minh là type P hoặc M.DMG nếu đồng minh là type M.
+r:"^(\d+)ダメージ分の魔法無効バリアを展開する(\d+)ダメージ分の物理無効バリアを展開する$"=►Triển khai Barrier lên tất cả đồng minh type P, chống lại $1 M.DMG trong 45s.\n►Triển khai Barrier lên tất cả đồng minh type M, chống lại $2 P.DMG trong 45s.
+
+##S1##
+ヒーリングドリンク=Healing Drink
+一番前の味方１キャラの魔法防御力を大アップさせ、さらに継続ＨＰ回復状態を付与する。=Tăng lớn M.DEF của đồng minh phía trước nhất và ban phục hồi HP liên tục.
+r:"^味方単体の魔法防御力を(\d+)アップ毎秒ＨＰを(\d+)回復する$"=Thời gian niệm: 0.94s\n►Tăng M.DEF của đồng minh lên $1 trong 12s.\n►Hồi HP của đồng minh $2/giây trong 7s.
+
+##S2##
+アドバイスエール=Advise Yell
+味方全体の物理攻撃力と魔法防御力を中アップさせる。=Tăng trung bình P.ATK và M.DEF của tất cả đồng minh.
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ$"=Thời gian niệm: 0.94s\n►Tăng P.ATK của tất cả đồng minh lên $1 trong 12s.\n►Tăng M.DEF của tất cả đồng minh lên $2 trong 12s.
+
+##EX##
+サマーガイダンス=Summer Guidance
+サマーガイダンス+=Summer Guidance+
+バトル開始時に自分の魔法防御力を中アップさせ、さらに自分の魔法攻撃力を小アップさせる。=Ở đầu trận, tăng trung bình M.DEF của bản thân và tăng nhẹ M.ATK của bản thân.
+r:"^自分の魔法防御力を(\d+)アップ自分の魔法攻撃力を(\d+)アップ$"=►Tăng M.DEF của bản thân lên $1.\n►Tăng M.ATK của bản thân lên $2.
+
+##S1+##
+ヒーリングドリンク+=Healing Drink+
+一番前の味方１キャラの魔法防御力を大アップさせ、さらに継続ＨＰ回復状態を付与する。対象が物理攻撃をするキャラの場合さらに魔法防御力を大アップさせ、魔法攻撃をする場合物理防御力を大アップさせる。=Tăng lớn M.DEF của đồng minh phía trước nhất và ban phục hồi HP liên tục. Nếu đồng minh là type P, tiếp tục tăng M.DEF; nếu đồng minh là type M, tiếp tục tăng P.DEF.
+r:"^味方単体の魔法防御力を(\d+)アップ毎秒ＨＰを(\d+)回復する対象が物理攻撃をする場合味方単体の魔法防御力を(\d+)アップ対象が魔法攻撃をする場合味方単体の物理防御力を(\d+)アップ$"=Thời gian niệm: 0.94s\n►Tăng M.DEF của đồng minh lên $1 trong 12s.\n►Hồi HP của đồng minh $2/giây trong 7s.\n►Nếu đồng minh là type P, tăng M.DEF của đồng minh lên $3 trong 12s.\n►Nếu đồng minh là type M, tăng P.DEF của đồng minh lên $4 trong 12s.
+
+##UE##
+ビーチビーナスメガホン=Beach Venus Megaphone

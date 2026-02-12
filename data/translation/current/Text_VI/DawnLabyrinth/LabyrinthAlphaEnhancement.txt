@@ -1,0 +1,51 @@
+挑戦開始時、アルファルピを[-][FFBB00,CE4F00]1000[-][3C404E]多く所持して出発できる=Khi bắt đầu lần thử Mê Cung, bắt đầu với [-][FFBB00,CE4F00]1000[-][3C404E] αRupee nhiều hơn trong kho của bạn.
+
+挑戦開始時のアルファルピ増加=Tăng αRupee khi Bắt Đầu.
+
+
+挑戦中、ショップに並ぶアイテムの価格が[-][FFBB00,CE4F00]25％OFF[-][3C404E]になる=Trong lần thử Mê Cung, giá của các món hàng\nđược trưng bày trong cửa hàng sẽ là [-][FFBB00,CE4F00]GIẢM 25%[-][3C404E].
+「アルファルピ」を使用して購入するショップのみ有効=Chỉ có hiệu lực với các cửa hàng chấp nhận\nαRupees.
+
+アルファルピショップ割引=Giảm Giá Cửa Hàng αRupees
+
+
+挑戦開始時、選択したギルドに応じた[-][FFBB00,CE4F00]迷宮遺物[-][3C404E]を追加獲得できる=Khi bắt đầu lần thử Mê Cung, nhận thêm một [-][FFBB00,CE4F00]Di Vật Mê Cung[-][3C404E].
+挑戦開始時の迷宮遺物追加=Nhận Thêm Di Vật Mê Cung Khi Bắt Đầu.
+
+バトル勝利時のアルファルピ獲得量が[-][FFBB00,CE4F00]50％[-][3C404E]増加する=Trong lần thử Mê Cung, tăng αRupees nhận được từ chiến thắng trận đấu lên [-][FFBB00,CE4F00]50%[-][3C404E].
+
+バトル勝利時報酬増加=Phần Thưởng Chiến Thắng Trận Đấu Tăng Lên
+
+全キャラ 物理攻撃力強化=Tăng Tấn Công Vật Lý cho Tất Cả Nhân Vật
+全キャラ 物理クリダメ強化=Tăng Sát Thương Vật Lý Chí Mạng cho Tất Cả Nhân Vật
+回復強化ステータス=Trạng Thái Tăng Hồi Phục
+全キャラ 回復強化=Tăng Hiệu Quả Hồi Phục cho Tất Cả Nhân Vật
+通常攻撃強化ステータス=Trạng Thái Tăng Tấn Công Tấn Công Bình Thường
+全キャラ 通常攻撃強化=Tăng Tấn Công Tấn Công Bình Thường cho Tất Cả Nhân Vật
+全キャラ 魔法攻撃力強化=Tăng Tấn Công Ma Thuật cho Tất Cả Nhân Vật
+全キャラ 魔法防御力強化=Tăng Phòng Thủ Ma Thuật cho Tất Cả Nhân Vật
+全キャラ 物理防御力強化=Tăng Phòng Thủ Vật Lý cho Tất Cả Nhân Vật
+全キャラ 物理クリティカル強化=Tăng Chí Mạng Vật Lý cho Tất Cả Nhân Vật
+全キャラ ＨＰ強化=Tăng HP cho Tất Cả Nhân Vật
+状態異常命中ステータス=Trạng Thái Độ Chính Xác Ảnh Hưởng Trạng Thái
+全キャラ 状態異常命中強化=Tăng Độ Chính Xác Ảnh Hưởng Trạng Thái cho Tất Cả Nhân Vật
+全キャラ 魔法クリティカル強化=Tăng Chí Mạng Ma Thuật cho Tất Cả Nhân Vật
+
+全キャラ バフ強化=Tăng Hiệu Quả Tăng Trạng Thái cho Tất Cả Nhân Vật
+全キャラのバフ強化ステータスを[-][FFBB00,CE4F00]10[-][3C404E]アップ=Tăng trạng thái tăng hiệu quả buff của tất cả nhân vật lên [-][FFBB00,CE4F00]10[-][3C404E].
+全キャラのバフ強化ステータスが[-][FFBB00,CE4F00]15[-][3C404E]アップ=Tăng trạng thái tăng hiệu quả buff của tất cả nhân vật lên [-][FFBB00,CE4F00]15[-][3C404E].
+※対象となる強化効果はロールマスタリーと共通=※Hiệu quả tăng cường của mục tiêu tương tự như Lĩnh Vực Chuyên Môn (Role Mastery)
+
+
+全キャラ 魔法クリダメ強化=Tăng Sát Thương Ma Thuật Chí Mạng cho Tất Cả Nhân Vật
+全キャラのデバフ強化ステータスを[-][FFBB00,CE4F00]10[-][3C404E]アップ=Tăng trạng thái tăng hiệu quả debuff của tất cả nhân vật lên [-][FFBB00,CE4F00]10[-][3C404E].
+全キャラのデバフ強化ステータスが[-][FFBB00,CE4F00]15[-][3C404E]アップ=Tăng trạng thái tăng hiệu quả debuff của tất cả nhân vật lên [-][FFBB00,CE4F00]15[-][3C404E].
+※対象となる弱体化効果はロールマスタリーと共通=*Hiệu quả suy yếu của mục tiêu tương tự như lĩnh vực chuyên môn (role mastery)
+
+全キャラ デバフ強化=Tăng Hiệu Quả Debuff cho Tất Cả Nhân Vật
+全キャラ 物理与ダメージ強化=Tăng Sát Thương Vật Lý cho Tất Cả Nhân Vật
+全キャラ 魔法与ダメージ強化=Tăng Sát Thương Ma Thuật cho Tất Cả Nhân Vật
+
+解放されるノードの効果=Xem Trước Hiệu Quả Nút Đã Mở Khóa
+以下のノードの解放を行いますか？=Mở khóa các nút sau?
+解放確認=Xác nhận mở khóa

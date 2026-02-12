@@ -1,0 +1,28 @@
+##Profile##
+【物理】前衛で水刃の加護を纏い水面を駆ける渚の剣士。クリティカル時のダメージを底上げしＵＢ発動の度、纏う【水刃の加護】で全スキルダメージを上げ、敵陣を穿つ。=[Vật lý] Một kiếm sĩ tiền tuyến trang trí bằng bảo vệ lưỡi kiếm nước và di chuyển trên mặt nước. Mỗi lần kích hoạt UB, tỷ lệ chí mạng vật lý của đồng đội được tăng cường, và 'Lời Chúc Lưỡi Kiếm Nước' bao trùm làm tăng sát thương mọi kỹ năng, xuyên thấu hàng ngũ kẻ địch.
+
+##UB##
+サマーオーシャングレイス=Summer Ocean Grace
+目の前の敵１キャラに物理特大ダメージを与え、さらに自分に【水刃の加護】を７つ追加する。【水刃の加護】は最大10まで追加される。このスキルのダメージは、【水刃の加護】の数に応じて増加し、１ヒットは必ずクリティカルする。=Gây sát thương vật lý lớn cho kẻ địch phía trước, và nhận 7 [Lời Chúc Lưỡi Kiếm Nước], tối đa 10. Sát thương vật lý tăng theo số [Lời Chúc Lưỡi Kiếm Nước], và mỗi đòn đánh đều chắc chắn là chí mạng.
+
+##S1##
+レイジングフラッド=Raging Flood
+自分の周囲の味方すべての物理攻撃力を特大アップさせ、目の前の敵１キャラに物理小ダメージを与える。このスキルの物理攻撃力の上昇量とダメージは、【水刃の加護】の数に応じて増加する。【水刃の加護】を１つ消費する。=Tăng mạnh tấn công vật lý và tỷ lệ chí mạng vật lý của đồng đội trong phạm vi và gây sát thương vật lý nhỏ cho kẻ địch phía trước. Mức tăng tấn công vật lý và sát thương gây ra phụ thuộc vào số [Lời Chúc Lưỡi Kiếm Nước]. Tiêu thụ 1 [Lời Chúc Lưỡi Kiếm Nước].
+r:"^範囲内の味方の物理攻撃力を(\d+)アップ敵単体に(\d+)の物理ダメージ$"=►Tăng tấn công vật lý của đồng đội trong phạm vi lên $1 trong 12s.\n►Gây $2 sát thương vật lý cho kẻ địch.
+
+##S2##
+アズールショット=Azure Shot
+目の前の敵１キャラに物理中ダメージを与え、クリティカルを受けた際のダメージを小アップさせる。このスキルのダメージは、【水刃の加護】の数に応じて増加する。【水刃の加護】を１つ消費する。=Gây sát thương vật lý vừa phải cho kẻ địch phía trước và tăng nhẹ sát thương chí mạng vật lý mà nó nhận. Sát thương vật lý gây ra phụ thuộc vào số [Lời Chúc Lưỡi Kiếm Nước]. Tiêu thụ 1 [Lời Chúc Lưỡi Kiếm Nước].
+r:"^敵単体に(\d+)の物理ダメージ敵単体のクリティカルを受けた際のダメージを16％アップ$"=►Gây $1 sát thương vật lý cho kẻ địch.\n►Tăng sát thương chí mạng vật lý mà kẻ địch nhận lên 16% trong 12s.\n►Tiêu thụ 1 [Lời Chúc Lưỡi Kiếm Nước].
+
+##EX##
+アンリミットサマー=Unlimited Summer
+アンリミットサマー+=Unlimited Summer+
+
+##S1+##
+レイジングフラッド+=Raging Flood+
+自分の周囲の味方すべての物理攻撃力を特大アップ、物理クリティカルを大アップさせ、目の前の敵１キャラに物理大ダメージを与える。このスキルの物理攻撃力の上昇量とダメージは、【水刃の加護】の数に応じて増加する。さらに、自分のＴＰを中回復し、【水刃の加護】を１つ消費する。=Tăng cực mạnh tấn công vật lý và tỷ lệ chí mạng vật lý của đồng đội trong phạm vi và gây sát thương vật lý lớn cho kẻ địch phía trước. Mức tăng tấn công vật lý và sát thương gây ra phụ thuộc vào số [Lời Chúc Lưỡi Kiếm Nước]. Đồng thời, hồi phục vừa phải TP của bản thân và tiêu thụ 1 [Lời Chúc Lưỡi Kiếm Nước].
+r:"^範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理クリティカルを(\d+)アップ敵単体に(\d+)の物理ダメージ自分のＴＰを175回復$"=►Tăng tấn công vật lý của đồng đội trong phạm vi lên $1 trong 12s.\n►Tăng tỷ lệ chí mạng vật lý của đồng đội trong phạm vi lên $2 trong 12s.\n►Gây $3 sát thương vật lý cho kẻ địch.\n►Hồi phục 175 TP cho bản thân.\n►Tiêu thụ 1 [Lời Chúc Lưỡi Kiếm Nước].
+
+##UE##
+トゥインクルサマーソード=Twinkle Summer Sword

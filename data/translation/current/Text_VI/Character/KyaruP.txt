@@ -1,0 +1,31 @@
+##Profile##
+【魔法】後衛で、極大魔法を操り敵を討つ姫装の猫娘。回復や補助を兼ねた各攻撃スキルを駆使し戦況を整え、極大威力のユニオンバーストを撃ち込み敵を燼滅する。=[Ma Thuật] Một thiếu nữ mèo dưới dạng công chúa, vũ bão ma thuật khủng khiếp từ tuyến sau để đánh bại kẻ địch. Cô ấy khéo léo sử dụng nhiều kỹ năng tấn công khác nhau vừa có chức năng hồi phục và hỗ trợ để thao túng chiến trường, sau đó giải phóng Union Burst với sức mạnh cực hạn để tiêu diệt kẻ địch.
+
+素直な気持ちと恩返し=Chân Thành và Lòng Biết Ơn
+二人で歩んで目指す場所=Nơi chúng ta hướng đến cùng nhau
+反省と誠意のお節介=Sự Phản Chiếu và Lời Cầu Nguyện Chân Thành
+復興と責任のお手伝い=Hỗ Trợ Hồi Phục và Trách Nhiệm
+
+##UB##
+アビスエンドバースト=Bùng Nổ Vực Sâu
+目の前の敵１キャラに魔法極大ダメージを与える。=Gây ra lượng lớn Sát Thương Ma Thuật lên kẻ địch phía trước.
+
+##S1##
+カラミティサンダー=Calamity Thunder
+
+##S2##
+アビスコールエイド=Abyss Call Aid
+目の前の敵１キャラに魔法中ダメージを与え、さらに最もＨＰが低い味方１キャラのＨＰを小回復させる。このスキルで与えたダメージ量に応じて、ＨＰの回復量が増加する。=Gây sát thương phép vừa phải lên kẻ địch phía trước và hồi phục một chút HP cho đồng minh có HP thấp nhất. Lượng HP hồi phục tăng theo sát thương phép gây ra bởi kỹ năng này.
+r:"^敵単体に(\d+)の魔法ダメージ味方単体のＨＰを(\d+)回復$"=Thời gian niệm: 0.66s\n►Gây $1 sát thương phép lên kẻ địch.\n►Hồi phục $2 HP cho đồng minh.
+
+##EX##
+ダークフルムーン=Dark Full Moon
+ダークフルムーン+=Dark Full Moon+
+
+##S1+##
+カラミティサンダー+=Calamity Thunder+
+目の前の敵１キャラに魔法中ダメージを与え、魔法防御力を大ダウンさせ、クリティカルを受けた際のダメージを小アップさせる。さらに、自分の魔法攻撃力を小アップさせ、ＴＰを大回復する。このスキルで与えたダメージ量に応じて、攻撃力の上昇量がアップする。=Gây sát thương phép vừa phải lên kẻ địch phía trước, giảm mạnh M.DEF của chúng, và tăng nhẹ M.CRIT DMG mà chúng nhận. Ngoài ra, tăng nhẹ M.ATK của bản thân và hồi phục TP của bản thân một lượng lớn. Lượng tăng M.ATK tăng theo sát thương phép gây ra bởi kỹ năng này.
+r:"^敵単体に(\d+)の魔法ダメー?ジ敵単体の魔法防御力を(\d+)ダウ?ン敵単体のクリティカルを受けた?際のダメージを10％アップ自分のＴＰを350回復自分の魔法攻撃力を(\d+)アッ?プ$"=Thời gian niệm: 0.66s\n►Gây $1 sát thương phép lên kẻ địch.\n►Giảm M.DEF của kẻ địch đi $2 trong 12s.\n►Tăng M.CRIT DMG mà kẻ địch nhận thêm 10% trong 12s.\n►Hồi phục 350 TP cho bản thân.\n►Tăng M.ATK của bản thân lên $3 (+0.06×$1) trong 18s.
+
+##UE##
+フィアレスプリンセスロッド=Fearless Princess Rod

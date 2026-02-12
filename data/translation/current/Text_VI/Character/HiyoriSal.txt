@@ -1,0 +1,21 @@
+##Profile##
+【物理】前衛で、二人きりの月下の空旅にときめく黒猫。物防弱体の他、ダメージ100ヒット後には華麗なステップの追撃とＴＰ回復量増加で、砂漠の夜空に花を咲かせる。=[Vật Lý] Mèo đen trên tuyến đầu hào hứng với chuyến du hành dưới ánh trăng chỉ dành cho hai người. Ngoài việc giảm Phòng Thủ Vật Lý (P.DEF), sau khi nhận 100 lần sát thương, cô sẽ thực hiện một đòn bước theo sau tuyệt vời, tăng khả năng hồi TP, khiến những bông hoa nở rộ trên bầu trời sao đêm sa mạc.
+
+##UB##
+ヒヨリムーンフィナーレ=Hiyori Moon Finale
+目の前の敵１キャラに物理特大ダメージを与える。対象の敵が継続ダメージ状態だった場合、このダメージのヒット数が増加する。さらに闇属性の味方すべてに継続ＨＰ回復状態と継続ＴＰ回復状態を付与する。【サラサリアンステップ】を獲得している場合、追加で目の前の敵１キャラに物理大ダメージを与える。=Gây sát thương vật lý cực lớn lên kẻ địch phía trước. Nếu mục tiêu đang trong trạng thái chịu sát thương liên tục, số lần đánh của sát thương này sẽ tăng. Ngoài ra, tặng trạng thái hồi HP liên tục và trạng thái hồi TP liên tục cho toàn bộ đồng minh thuộc thuộc tính Hắc Ám. Nếu đang sở hữu [Bước Chân Sarasarian], cũng gây sát thương vật lý lớn lên kẻ địch phía trước.
+r:"^敵単体に(\d+)の物理ダメージ毎秒ＨＰを(\d+)回復する毎秒ＴＰを10回復するサラサリアンステップを獲得している時、敵単体に(\d+)の物理ダメージ$"=►Gây $1 sát thương vật lý lên một kẻ địch đơn.\n►Hồi HP bằng $2 mỗi giây.\n►Hồi TP bằng 10 mỗi giây.\n\nNếu [Bước Chân Sarasarian] đang hoạt động:\n►Gây $3 sát thương vật lý lên một kẻ địch đơn.
+
+##S1##
+流麗キャットステップ=Bước Chân Mèo Tinh Khôi
+闇属性の味方すべての物理クリティカルを大アップ、物理攻撃クリティカル時のダメージを小アップさせ、ＨＰを中回復させる。バトル開始後初めてこのスキルを使用した後、10回ダメージを与えるたびに、最大10回まで闇属性の味方すべての物理攻撃力を大アップさせる。さらに100回ダメージを与えた時、【サラサリアンステップ】を獲得する。=Tăng cực lớn Tỷ Lệ Chí Mạng Vật Lý và tăng nhẹ Sát Thương Chí Mạng Vật Lý cho toàn bộ đồng minh thuộc thuộc tính Hắc Ám, đồng thời hồi HP một lượng vừa phải cho họ. Sau khi dùng kỹ năng này lần đầu tiên sau khi bắt đầu trận đấu, cứ mỗi 10 lần sát thương gây ra, tối đa 10 lần, sẽ tăng cực lớn Tấn Công Vật Lý cho toàn bộ đồng minh thuộc thuộc tính Hắc Ám. Hơn nữa, khi đạt 100 lần sát thương, nhận được [Bước Chân Sarasarian].
+r:"^闇属性の味方の物理クリティカルを120アップ闇属性の味方の物理クリダメを10％アップ闇属性の味方のＨＰを(\d+)回復(\d+)回ダメージを与えるたびに、闇属性の味方の物理攻撃力を(\d+)アップ100回ダメージを与えた時、サラサリアンステップを獲得$"=►Tăng Tỷ Lệ Chí Mạng Vật Lý cho đồng minh Hắc Ám bằng 120.\n►Tăng Sát Thương Chí Mạng Vật Lý cho đồng minh Hắc Ám bằng 10％.\n►Hồi HP cho đồng minh Hắc Ám bằng $1.\n►Mỗi $2 lần gây sát thương: Tăng Tấn Công Vật Lý cho đồng minh Hắc Ám bằng $3.\n►Đạt 100 lần gây sát thương: Tặng [Bước Chân Sarasarian].
+
+##S2##
+サラサリアンラッシュ=Xung Kích Sarasarian
+目の前の敵１キャラに物理大ダメージを与え、物理防御力を小ダウンさせる。対象の敵が継続ダメージ状態だった場合、このスキルのダメージのヒット数が増加する。【サラサリアンステップ】を獲得していない場合、闇属性の味方すべてのＴＰを小回復させ、獲得している場合、闇属性の味方すべての物理攻撃クリティカル時のダメージを小アップ、ＴＰを中回復させる。=Gây sát thương vật lý lớn lên kẻ địch phía trước và giảm nhẹ Phòng Thủ Vật Lý của chúng. Nếu mục tiêu đang trong trạng thái chịu sát thương liên tục, số lần đánh của sát thương này sẽ tăng. Nếu không sở hữu [Bước Chân Sarasarian], hồi TP một chút cho toàn bộ đồng minh thuộc thuộc tính Hắc Ám; nếu đang sở hữu, tăng nhẹ Sát Thương Chí Mạng Vật Lý và hồi TP một lượng vừa phải cho toàn bộ đồng minh thuộc thuộc tính Hắc Ám.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウンサラサリアンステップを獲得していない時、闇属性の味方のＴＰを50回復サラサリアンステップを獲得している時、闇属性の味方の物理クリダメを15％アップサラサリアンステップを獲得している時、闇属性の味方のＴＰを200回復$"=►Gây $1 sát thương vật lý lên một kẻ địch đơn.\n►Giảm Phòng Thủ Vật Lý của một kẻ địch đơn bằng $2.\n\nNếu [Bước Chân Sarasarian] không hoạt động:\n►Hồi TP cho đồng minh Hắc Ám bằng 50.\n\nNếu [Bước Chân Sarasarian] đang hoạt động:\n►Tăng Sát Thương Chí Mạng Vật Lý cho đồng minh Hắc Ám bằng 15％.\n►Hồi TP cho đồng minh Hắc Ám bằng 200.
+
+##EX##
+アンダーザムーン=Dưới Vầng Trăng
+アンダーザムーン+=Dưới Vầng Trăng+

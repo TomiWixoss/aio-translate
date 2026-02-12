@@ -1,0 +1,47 @@
+##Profile##
+【物理】後衛で百千の矢を放つ、ぼっちの山籠りエルフ。物理魔法無効バリアで耐え凌ぎ、敵全体への射撃と自分の間合いに入った敵への強力な弓雨の追撃で掃討する。=[Vật lý] Một tiên ẩn cư núi phóng hàng loạt mũi tên từ hậu phương. Cô có thể vượt qua bằng cách phản sát thương với rào cản, đồng thời nhanh chóng loại bỏ nhiều kẻ địch với loạt tên mạnh mẽ, tập trung vào kẻ địch phía trước.
+
+キャンプ講座はじめます！=Khóa học cắm trại cơ bản!
+密着取材！　アオイの流儀=Phân tích chuyên sâu! Phong cách Aoi
+みんなで笑って輪になって=Cùng cười trong vòng tròn
+手作りの理想郷=Đất nước lý tưởng tự làm
+
+##UB##
+キャンピングブラスト=Vụ nổ cắm trại
+敵全体に物理中ダメージを与え、さらに前方範囲内の敵すべてに物理大ダメージを与える。=Gây sát thương vật lý trung bình cho tất cả kẻ địch, và cũng gây sát thương vật lý lớn cho kẻ địch trong phạm vi.
+r:"^敵全体に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理ダメージ$"=►Gây $1 Sát thương vật lý cho tất cả kẻ địch.\n►Gây $2 Sát thương vật lý cho kẻ địch trong phạm vi.
+
+##S1##
+ブッシュショット=Bắn bụi cây
+敵全体に物理小ダメージを与え、さらに前方範囲内の敵すべてに物理中ダメージを与える。=Gây sát thương vật lý nhỏ cho tất cả kẻ địch, và cũng gây sát thương vật lý trung bình cho kẻ địch trong phạm vi.
+
+##S2##
+プレシャスコーヒー=Cà phê quý giá
+自分に物理/魔法無効バリアを展開し、さらにＴＰ上昇を小アップする。=Triển khai Rào cản lên bản thân, phản sát thương vật lý/phép, và cũng tăng Tăng TP của bản thân.
+r:"^(\d+)ダメージ分の物理魔法無効バリアを展開する自分のＴＰ上昇を(\d+)アップ$"=►Triển khai Rào cản lên bản thân, phản sát thương vật lý/phép bằng $1 trong 12s.\n►Tăng Tăng TP của bản thân bằng $2 trong 12s.
+
+##EX##
+ぼっちキャンパーの流儀=Phong cách cắm trại cô độc
+ぼっちキャンパーの流儀+=Phong cách cắm trại cô độc+
+
+##S1+##
+ブッシュショット+=Bắn bụi cây+
+敵全体に物理中ダメージを与え、さらに前方範囲内の敵すべてに物理大ダメージを与え、スタンさせる。=Gây sát thương vật lý trung bình cho tất cả kẻ địch, và cũng gây sát thương vật lý lớn cho kẻ địch trong phạm vi. Ngoài ra, gây choáng cho chúng.
+r:"^敵全体に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理ダメージ範囲内の敵を一定時間行動不能にする$"=►Gây $1 Sát thương vật lý cho tất cả kẻ địch.\n►Gây $2 Sát thương vật lý cho kẻ địch trong phạm vi.\n►Gây choáng cho kẻ địch trong phạm vi trong 2.5s.
+
+##UE##
+ソロキャンパーボウガン=Cung nỏ cắm trại đơn độc
+
+##Comments##
+森を出てから、たくさんのことがありました…\nだから、いくら私でも少しは成長できたと思うんです！\nそんな私の姿を、あなたに見てもらいたいです…！\n=Kể từ khi rời rừng, đã xảy ra nhiều chuyện... Đó là lý do em nghĩ ngay cả em cũng đã lớn lên một chút! Hãy nhìn nhìn em theo cách đó đi...!
+ソロキャンでもグループキャンプでもない\n私たちのキャンプ…その名もＢＢキャンです\n=Đó không phải cắm trại đơn độc hay cắm trại nhóm.\nPhong cách cắm trại của chúng tôi gọi là BB Camp.
+自信を持つのって、なかなか難しいですけど…\nキャンプのことなら、それなりに出来るかもしれません\nだって…正しい知識は嘘をつきませんから！\n=Có tự tin khá khó... Nhưng khi đến với cắm trại, em có thể xử lý được ở một mức độ nào đó vì... Kiến thức chính xác không nói dối!
+こんな未熟な私ですけど…\nどうか、これからも…その、あの…\n私の、な、仲間でいてくださいっ！　お願いします！\n=Dù tôi vẫn còn non nớt... Nhưng từ giờ trở đi... Ưm, thì... Hãy làm... làm đồng đội của tôi đi! Tôi xin người!
+でも、団長さんはそんな私を心配してくれました\n呆れたりなんかせず、思いやってくれました\nそのことに気付いた時…とってもうれしかったです…！\n=Tuy nhiên, đội trưởng đã lo lắng cho tôi. Thay vì bực mình, họ lại tỏ ra quan tâm. Khi tôi nhận ra điều đó... Tôi thực sự rất vui!
+都会での生活で浮かれて、から回って…\nその挙句に疲れちゃうなんて…\n私、ダメダメですよね。あはは…\n=Theo đuổi cuộc sống thành phố đến mức kiệt sức... Tôi thật thất bại. Aha ha...
+アイコンタクトで意思疎通ができると\nかなり友達っぽいですよね。さっそく練習しましょう！\nじ～～っ…………あ、これ、かなり…照れますね……っ\n=Có thể giao tiếp bằng ánh mắt khiến người ta cảm thấy rất thân thiện, phải không? Hãy luyện tập ngay đi! *Nhìn chằm chằm*... À, ừm... Thật ngượng quá...
+ありのままでいるのって、実は難しいんですね…\n張りきると、カッコつけたくなっちゃいますし\nいつも自然体でいられる秘訣を教えてもらえませんか？\n=Sống thật với chính mình thực ra khó lắm... Khi hăng hái, bạn lại muốn khoe khoang. Bạn có thể cho tôi biết bí quyết để lúc nào cũng tự nhiên không?
+どれだけ多くの人と一緒にいても…\n気がついたら、あなたのことを探してるんですよ…\nだから…なるべくそばにいてくれますか…？\n=Dù có đi cùng bao nhiêu người... Trước khi biết chừng, tôi lại thấy mình tìm kiếm bạn... Vì vậy... Bạn có thể ở gần tôi càng nhiều càng tốt không?
+あなたが、私のそばにいてくれることが…\nなんだか奇跡みたいだなって思うんです\nこれはもう大事にするしかないですね、ぼっちの奇跡！\n=Việc bạn ở bên cạnh tôi... Nó cảm giác như một phép màu, bạn biết đấy. Tôi không còn cách nào khác ngoài việc trân trọng nó, phép màu của một kẻ cô độc!
+当たり前ですよね？　自分でも分かってます\n私なんて、どこにでもいる普通のぼっちですから…\n目立つことのほうが珍しいです。だからこそ…\n=Điều này rõ ràng, phải không? Tôi cũng hiểu. Tôi chỉ là một kẻ cô độc bình thường, có thể tìm thấy ở bất cứ đâu... Nổi bật mới là điều bất thường. Chính vì vậy...
+都会には、たくさんの人がいますよね\nでも人がいればいるほど…\n私のことを知らない人も、多く感じちゃうんです\n=Ở thành phố, có rất nhiều người, phải không? Nhưng càng nhiều người, tôi lại càng cảm thấy có nhiều người không biết tôi.

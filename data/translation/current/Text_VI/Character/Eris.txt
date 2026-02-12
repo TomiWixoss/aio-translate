@@ -1,0 +1,36 @@
+##Profile
+【魔法】後衛で、眠りから目覚め美しく咲き誇る黒薔薇。終焉を超えし【回帰の薔薇】と、行動速度アップを始めとした多種の攻防支援で味方を強化し、新たな未来を掴む。=[Ma Thuật] Một bông hồng đen thức tỉnh từ giấc ngủ và nở đẹp ở tuyến sau. Cô vượt qua cái chết với [Rose of Regression] và sử dụng nhiều loại kỹ năng hỗ trợ tấn công/phòng thủ, bao gồm tăng tốc độ hành động, để củng cố đồng minh và nắm bắt tương lai mới.
+
+桑島法子=Kuwashima Houko
+騎士クンの話を聞くこと=Lắng nghe câu chuyện của Kishi-kun
+悲劇の根源に咲き誇る美しき黒薔薇=Một bông hồng đen đẹp đẽ nở rộ tại gốc của bi kịch
+
+未練=Regret
+余裕=Composure
+名前=Name
+節介=Nuisance
+
+##UB##
+マクリア・エリュシオン=Macaria Elysium
+味方全体に継続ＨＰ回復状態を付与し、行動速度を大アップさせる。さらに物理/魔法無効バリアを展開する。=Trao hồi HP liên tục cho tất cả đồng minh, tăng mạnh tốc độ hành động của họ. Ngoài ra, triển khai Barrier cho tất cả đồng minh, phớt lờ sát thương P/M.
+r:"^毎秒ＨＰを(\d+)回復する味方全体の行動速度アップ(\d+)ダメージ分の物理魔法無効バリアを展開する$"=►Hồi HP cho tất cả đồng minh $1/giây trong 18.5 giây.\n►Tăng tốc độ hành động của tất cả đồng minh lên 200% trong 18 giây.\n►Triển khai Barrier cho tất cả đồng minh, phớt lờ $2 sát thương P/M trong 18 giây.
+
+##S1##
+ネオス・プネウマ=Neos Pneuma
+味方全体の物理防御力と魔法防御力を中アップさせ、ＨＰとＴＰを小回復させる。=Tăng vừa phòng thủ P/M của tất cả đồng minh, và hồi nhẹ HP và TP của họ.
+r:"^味方全体の物理防御力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ味方全体のＨＰを(\d+)回復味方全体のＴＰを50回復$"=Thời gian niệm: 1.6 giây\n►Tăng P.DEF của tất cả đồng minh lên $1 trong 12 giây.\n►Tăng M.DEF của tất cả đồng minh lên $2 trong 12 giây.\n►Hồi HP cho tất cả đồng minh $3.\n►Hồi TP cho tất cả đồng minh 50.
+
+##S2##
+アンドレイア=Andreia
+味方全体の物理攻撃力と魔法攻撃力を大アップさせ、クリティカル時のダメージを小アップさせる。攻撃力の上昇量は自分の残りＨＰに応じて最大５倍までアップする。=Tăng mạnh P/M.ATK của tất cả đồng minh, và tăng nhẹ P/M.CRIT DMG của họ. Mức tăng P/M.ATK tăng theo HP còn lại của bản thân, tối đa 5 lần.
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の魔法攻撃力を(\d+)アップ味方全体の物理攻撃クリティカル時のダメージを5％アップ味方全体の魔法攻撃クリティカル時のダメージを5％アップ$"=Thời gian niệm: 1.6 giây\n►Tăng P.ATK của tất cả đồng minh lên $1 trong 12 giây.\n►Tăng M.ATK của tất cả đồng minh lên $2 trong 12 giây.\n►Tăng P.CRIT DMG của tất cả đồng minh lên 5% trong 12 giây.\n►Tăng M.CRIT DMG của tất cả đồng minh lên 5% trong 12 giây.
+
+##SP1##
+アタナシア=Athanasia
+このスキルのスキルレベルは「マクリア・エリュシオン」と連動しています=Cấp độ kỹ năng này liên kết với "Macaria Elysium"
+味方全体に回帰の薔薇を付与する。回帰の薔薇付与時にＨＰが０になると、倒れずに回帰の薔薇を消費してＨＰを回復する。=Trao [Rose of Regression] cho tất cả đồng minh. Nếu HP của đồng minh có [Rose of Regression] giảm về 0 sau khi nhận đòn chí mạng, tiêu thụ [Rose of Regression] và hồi HP mà không ngã.
+r:"^回帰の薔薇付与中にＨＰが0になった場合、戦闘不能になる前に回帰の薔薇を消費してＨＰを(\d+)回復する$"=►Nếu HP của đồng minh có [Rose of Regression] giảm về 0, tiêu thụ [Rose of Regression] và hồi $1 HP.
+
+##EX##
+プレネーシス=Prenesis
+プレネーシス+=Prenesis+

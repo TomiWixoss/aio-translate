@@ -1,0 +1,27 @@
+##Profile##
+【物理】前衛で、華奢な体躯に厚い仁義を宿す鬼のお嬢。攻防自己強化や行動不能無効化で豪胆に立ち続け、自分が呪詛状態の時に振るう追加攻撃で、怪力無双の力を示す。=[Vật Lý] Oni nữ hàng đầu, một người phụ nữ mảnh khảnh ẩn chứa cảm giác công lý mạnh mẽ. Bà vững vàng đứng vững với các buff tự tấn công và phòng thủ, cũng như vô hiệu hóa các trạng thái mất khả năng, và thể hiện sức mạnh siêu nhân vượt trội với các đòn tấn công bổ sung khi ở trạng thái nguyền rủa.
+
+鬼族=Oni
+怪力無双、ハードボイルドな仁義の鬼嬢=Một người phụ nữ mạnh mẽ bậc nhất, một oni nữ cứng rắn và đạo đức
+
+##UB##
+六角納骨・陰入蟻落とし=Lăng Mộ Rokkaku - Nhện Nguyền Rủa
+目の前の敵１キャラに物理極大ダメージを与えてバリアを解除する。さらに、自分と目の前の敵１キャラを呪詛状態にする。呪詛による継続ダメージは毎秒ごとに増加する。発動時既に自分が呪詛状態だった場合、追加で目の前の敵１キャラに物理大ダメージを２回与える。このスキルの呪詛による自分へのダメージでは自分のＴＰは回復しない。=Gây sát thương vật lý cực lớn lên kẻ địch phía trước và phá hủy khiên của chúng. Hơn nữa, gây trạng thái Nguyền Rủa lên bản thân và kẻ địch phía trước. Sát thương theo thời gian từ Nguyền Rủa tăng lên mỗi giây. Nếu đã ở trạng thái Nguyền Rủa khi kích hoạt, còn gây thêm sát thương vật lý lớn hai lần lên kẻ địch phía trước. Sát thương từ Nguyền Rủa của kỹ năng này không hồi TP cho bản thân.
+r:"^敵単体に(\d+)の物理ダメージ敵単体のバリアを解除する自分を毎秒ダメージが初期値(\d+)の(\d+)％ずつアップするダメージを与える呪詛状態にする敵単体を毎秒ダメージが初期値(\d+)の(\d+)％ずつアップするダメージを与える呪詛状態にする自分が呪詛状態の時、敵単体に(\d+)の物理ダメージ自分が呪詛状態の時、敵単体に(\d+)の物理ダメージ$"=►Gây $1 sát thương vật lý lên một kẻ địch.\n►Xóa khiên của một kẻ địch.\n►Gây Nguyền Rủa lên bản thân, gây sát thương mỗi giây bắt đầu từ $2 và tăng $3% mỗi lần.\n►Gây Nguyền Rủa lên một kẻ địch, gây sát thương mỗi giây bắt đầu từ $4 và tăng $5% mỗi lần.\n►Khi đã bị Nguyền Rủa, gây $6 sát thương vật lý lên một kẻ địch.\n►Khi đã bị Nguyền Rủa, gây $7 sát thương vật lý lên một kẻ địch.
+
+##S1##
+六角納骨・引き独鈷=Lăng Mộ Rokkaku - Vajra Kéo
+目の前の敵１キャラに物理大ダメージを与え、物理防御力を小ダウンさせ、自分のＴＰを中回復する。発動時既に自分が呪詛状態だった場合、追加で目の前の敵１キャラに物理大ダメージを与え、自分の物理攻撃のダメージを小アップする。=Gây sát thương vật lý lớn lên kẻ địch phía trước, giảm nhẹ phòng thủ vật lý của chúng, và hồi một lượng vừa phải TP cho bản thân. Nếu đã ở trạng thái Nguyền Rủa khi kích hoạt, còn gây thêm sát thương vật lý lớn lên kẻ địch phía trước và tăng nhẹ sát thương vật lý của bản thân.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン自分のＴＰを(\d+)回復自分が呪詛状態の時、敵単体に(\d+)の物理ダメージ自分が呪詛状態の時、自分が与える物理ダメージを(\d+)％アップ$"=►Gây $1 sát thương vật lý lên một kẻ địch.\n►Giảm phòng thủ vật lý của một kẻ địch lên $2.\n►Hồi TP của bản thân lên $3.\n►Khi đã bị Nguyền Rủa, gây $4 sát thương vật lý lên một kẻ địch.\n►Khi đã bị Nguyền Rủa, tăng sát thương vật lý gây ra lên $5%.
+
+##S2##
+奉献の盃=Ly Cống Hiến
+自分の物理攻撃力を特大アップ、物理攻撃クリティカル時のダメージを小アップ、物理防御力と魔法防御力を中アップする。発動時既に自分が呪詛状態だった場合、自分のＨＰ吸収を中アップする。=Tăng cực lớn tấn công vật lý của bản thân, tăng nhẹ sát thương chí mạng vật lý, và tăng vừa phải phòng thủ vật lý và phòng thủ ma thuật. Nếu đã ở trạng thái Nguyền Rủa khi kích hoạt, tăng vừa phải hấp thụ HP của bản thân.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリダメを(\d+)％アップ自分の物理防御力を(\d+)アップ自分の魔法防御力を(\d+)アップ自分が呪詛状態の時、自分のＨＰ吸収を(\d+)アップ$"=►Tăng tấn công vật lý của bản thân lên $1.\n►Tăng sát thương chí mạng vật lý của bản thân lên $2%.\n►Tăng phòng thủ vật lý của bản thân lên $3.\n►Tăng phòng thủ ma thuật của bản thân lên $4.\n►Khi đã bị Nguyền Rủa, tăng hấp thụ HP của bản thân lên $5.
+
+##EX##
+不屈の鬼=Oni Bất Khả Chiến Bại
+不屈の鬼+=Oni Bất Khả Chiến Bại+
+
+自分の物理攻撃力を特大アップ、物理クリティカルを極大アップ、物理攻撃クリティカル時のダメージを小アップ、物理防御力と魔法防御力を特大アップし、バトル終了まで自分が敵から受ける行動不能を無効化して自分のＴＰを特大回復する。発動時既に自分が呪詛状態だった場合、自分のＨＰ吸収を中アップする。=Tăng mạnh Tấn Công Vật Lý của bản thân, tăng cực mạnh Tỷ Lệ Chí Mạng Vật Lý, tăng nhỏ Sát Thương Chí Mạng Vật Lý, tăng mạnh Phòng Thủ Vật Lý và Phòng Thủ Ma Thuật, vô hiệu hóa các hiệu ứng mất khả năng từ kẻ địch đến hết trận, và hồi TP cực lớn cho bản thân. Nếu đã ở trạng thái Nguyền Rủa khi kích hoạt, tăng nhỏ Hút Máu của bản thân.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを(\d+)アップ自分の物理クリダメを(\d+)％アップ自分の物理防御力を(\d+)アップ自分の魔法防御力を(\d+)アップ自分が呪詛状態の時、自分のＨＰ吸収を(\d+)アップ自分が敵から受ける行動不能を無効化する自分のＴＰを(\d+)回復$"=►Tăng Tấn Công Vật Lý của bản thân lên $1.\n►Tăng Tỷ Lệ Chí Mạng Vật Lý của bản thân lên $2.\n►Tăng Sát Thương Chí Mạng Vật Lý của bản thân lên $3%.\n►Tăng Phòng Thủ Vật Lý của bản thân lên $4.\n►Tăng Phòng Thủ Ma Thuật của bản thân lên $5.\n►Khi dưới trạng thái Nguyền Rủa, tăng Hút Máu của bản thân lên $6.\n►Vô hiệu hóa choáng từ kẻ địch.\n►Hồi TP của bản thân lên $7.

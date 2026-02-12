@@ -1,0 +1,112 @@
+受付係=Lễ tân
+参加者１=Đối thủ 1
+参加者２=Đối thủ 2
+
+決闘大会当日、モニカは身長制限に引っかかり出場が認められない。モニカは怒って暴れてしまい、警備員につまみ出されてしまう。しゅんとするモニカだが{playername}と話して本来の目標を思い出す。=Vào ngày giải đấu đấu song, Monika bị loại do hạn chế về chiều cao. Cô tức giận và gây chuyện, bị bảo vệ dẫn ra. Cảm thấy buồn bã, Monika nói chuyện với {playername} và nhớ lại mục tiêu thực sự của mình.
+
+モニカが出場することにした決闘大会、当日。=Ngày của giải đấu đấu song mà Monika quyết định tham gia.
+……さ、さぁ、ついにこの日がきたな！=...Vậy là ngày đó cuối cùng cũng đã đến!
+貴公が特訓に付き合ってくれたおかげで、\n私もかなり強くなれた。\nこの大会でも、大活躍だろうな！=Nhờ có cậu đồng hành cùng tớ trong lúc tập luyện, tớ đã trở nên khá mạnh. Tớ chắc chắn sẽ tạo được ấn tượng lớn tại giải đấu này!
+そのはずだったのだが……=Hay là tớ đã nghĩ nhầm...
+あぁ、いや、なんでもない！\nわ、私はエントリーの確認があるから、もう行くぞ。\n次に会う時は、優勝した後だ！　ではっ！=À, không, chẳng có gì đâu! Tớ, ừm, cần phải kiểm tra giấy khai sinh nên phải đi đây. Lần gặp lại sau sẽ là sau khi tớ đã giành chiến thắng! Hẹn gặp lại!
+うぅ……しまったな……\n結局、本当のことを言えなかった……=Ừ... Tớ làm hỏng rồi... Cuối cùng tớ cũng không nói được sự thật...
+まさか、大会に身長制限があったとは……\n私の身長では……=Tớ không ngờ lại có quy định về chiều cao trong giải đấu... và với chiều cao của tớ...
+し、しかし特訓を手伝ってもらっておいて、\n出場もできなかった、とは言いにくいし……=Nhưng, khó nói là tớ không thể tham gia sau khi đã nhận được sự giúp đỡ trong việc tập luyện...
+どうしたものか……\n一応エントリー表には、\n水増しした身長を書いておいたが……=Mình nên làm sao đây... Tớ có viết chiều cao lên giấy khai sinh một chút, phòng trường hợp...
+いや、諦めてはダメだ！\nもしかしたら、この一晩で背が伸びたかもしれない！=Không, tớ không thể bỏ cuộc! Có thể tớ đã cao lên một chút trong một đêm!
+それに、細かいチェックがあるとも限らないのだ。\n試しに受付に行ってみよう！=Hơn nữa, không ai đảm bảo họ sẽ kiểm tra kỹ lưỡng đâu. Đi thôi, đến quầy tiếp nhận và thử vậy!
+では、順番に身長を測っていきまーす！=Được rồi, bắt đầu đo chiều cao từng người nào!
+終わった……\nやはり実際に測られるのか……=Xong rồi... Họ thực sự đo luôn...
+次の方ー！\nそこのお嬢さんですよ。\nここに乗ってください。=Người tiếp theo! Cô bé kia, lên đây bước lên đây.
+い、いや、私は……ちょっとトイレに。=K-Không, tớ... tớ cần đi vệ sinh.
+すぐに済みますから。\nさぁ、乗ってください。=Nhanh thôi. Nào, bước lên đi.
+う、うむ……観念するしかないか。=Ừ... Chắc tớ phải chấp nhận thôi.
+どれどれ……？\nえっと、138cmですね。=Để tớ xem... Hmm, 138cm.
+申し訳ありません。\n危険防止のために140cm以下の方は参加できないんです。=Xin lỗi. Vì lý do an toàn, những người dưới 140cm không thể tham gia.
+やはりか……\nし、しかし、私は充分に実力がある！=Tớ biết mà... Nhưng, tớ có đủ kỹ năng!
+それに、今日のために\nわざわざ特訓に付き合ってくれた仲間がいるんだ。\n仲間のためにも、不参加というわけにはいかない！=Và còn có những đồng đội đã trải qua huấn luyện đặc biệt chỉ vì hôm nay. Tớ không thể đơn giản là không tham gia vì lý do đó!
+どうか、頼む！\n私も参加させてくれ！=Làm ơn, tớ xin cậu! Cho tớ tham gia nữa!
+そう言われても、規則ですので……=Dù cô nói thế nào thì cũng vi phạm quy tắc...
+そこをなんとかっ！=Hãy tạo ngoại lệ đi!
+なんだ、なんだ？\nどうかしたのか？=Chuyện gì vậy?\nCó chuyện gì sao?
+身長が足りない？\nいいじゃねぇか。\nこんなに頼んでるんだから、出してやれよ。=Không đủ cao? Ai quan tâm? Tớ đang xin như thế này, cứ để cô ấy vào thôi!
+貴公たち……！=Các người...!
+ですが、規則なので……\nダメなものはダメなんです。=Tuy nhiên, đó là vi phạm quy tắc... Điều không được phép thì không được phép.
+子供にそんなこと言ったら、かわいそうだろ。\nってか、子供部門くらい作ってやれよ！=Nói thế với một đứa trẻ thật tệ. Nào, hãy tạo một giải thiếu nhi đi!
+そうだ、そうだ！\nどうして子供部門がないんだ？\nそれさえあれば、解決すんだろ！=Đúng vậy, đúng vậy! Tại sao không có giải thiếu nhi? Nếu có giải đó, vấn đề sẽ được giải quyết!
+あ……い、いや……\n私は子供というわけでは……=À... K-Không, tớ không phải trẻ con...
+子供部門！　子供部門！=Giải thiếu nhi! Giải thiếu nhi!
+参加者たち=Người tham gia:
+だから、違うと──=Tớ đã bảo rồi, không phải──
+子供部門！！　子供部門っ！！=Giải thiếu nhi!! Giải thiếu nhi!!
+わ、わかりました！\n私が間違ってました！\nだから、お静かに！！=Được rồi, được rồi! Tớ hiểu rồi! Tớ nhầm lẫn rồi! Vì vậy, xin hãy yên lặng!!
+おお！？\nまさか、私も参加できるのか！？=Ồ?! Có phải là, tớ cũng có thể tham gia?!
+次回からは子供部門を作ります。\nだから、お嬢ちゃんも次回までいい子で待っててね？=Từ lần sau, chúng tôi sẽ có giải thiếu nhi. Vì vậy, cô bé, hãy là một cô bé ngoan cho đến lúc đó, được chứ?
+う……うぐ、ぐぬぬ……！\nだから、私は子供ではない！\n子供、子供、といい加減にしろぉおおお！！=Ơ... Ừ, grr... Tớ không phải trẻ con, tớ đã nói rồi! Dừng việc gọi tớ là trẻ con, trẻ con điên cuồng này!!
+う、うわぁ！\n暴れ出したぞ！？\n誰か、止めろー！！=Ơ, ối dồi! Cô ấy gây gổ rồi! Ai đó, ngăn cô ấy lại!!
+止めに入る。=Đang can thiệp.
+{playername}……見ていたのか！？\n止めてくれるな！\n私はこいつらに引導を渡さねばならないっ！={playername}... Cậu có nghe thấy không?\nĐừng cản tớ!\nTớ phải dạy cho chúng một bài học!
+し、失格！　しっかーく！！\n警備を呼んでくれ！\n強制退場させるんだー！=B-Bị loại! Yên lặng đi!! Gọi bảo vệ và đuổi họ đi!!
+す、すまない……\nせっかく貴公が特訓に付き合ってくれたのに、\nこんな結果になってしまった……=T-Tớ xin lỗi... Dù cậu đã đồng hành cùng tớ trong lúc tập luyện, cuối cùng lại kết thúc như thế này...
+謝らなくてもいい。=Cậu không cần phải xin lỗi.
+
+ゆ、許してくれるのか？\n優勝どころか、出場すらできなかったのに……=C-Cậu tha thứ cho tớ ư? Chúng ta thậm chí còn không thể tham gia, huống chi là chiến thắng...
+ん？\n大会で勝つことが目標だったのか……だと？\nいや、それは……=Hả? Chiến thắng giải đấu là mục tiêu của cậu... đúng chứ? À, thì đó là...
+……言われてみれば、私の目標はそうではないな。=...Giờ nhắc lại thì, đó không phải là mục tiêu của tớ.
+誇り高きヴァイスフリューゲルの一員として、\n立派な軍人になる！\nそれこそが、私の目標だ！=Mục tiêu của tớ là trở thành một thành viên tự hào của Weissflügel và một người lính xuất sắc! Đó mới là mục tiêu thực sự của tớ!
+
+一番の目標を失念するところだった。\n{playername}、感謝するぞ。=Tớ suýt quên mất mục tiêu chính.\nCảm ơn cậu, {playername}.
+
+では、真の目標のために、\nこれからも二人でがんばるぞ！\nさあ、帰ろう、{playername}！=Vì vậy, vì mục tiêu thực sự của chúng ta, hãy cùng nhau cố gắng hết sức từ bây giờ!\nNào, chúng ta về thôi, {playername}!
+
+{playername}の言葉に、気持ちを新たにするモニカであった。=Với lời nói của {playername}, tinh thần của Monika được phục hồi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+そんなに出たかったの？=Cô thực sự muốn tham gia đến mức đó sao?
+
+
+
+
+
+
+

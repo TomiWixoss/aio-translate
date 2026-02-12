@@ -1,0 +1,40 @@
+##Profile##
+妖しい微笑で全てを見透かす臥竜の頭領=Người lãnh đạo Rồng nhìn thấu mọi thứ với nụ cười bí ẩn
+
+【魔法】後衛から無窮の魔力で全てを支配する龍の首領。障壁となる敵を龍眼で捉え、多彩な補助系スキルで敵の魔法攻撃からの耐性を弱め、雷霆の一撃で灰燼に帰す。=[Ma Thuật] Một người lãnh đạo rồng kiểm soát mọi thứ với sức ma thuật vô hạn từ hậu phương. Với đôi mắt rồng, hắn bắt giữ kẻ thù trở thành rào cản và làm suy yếu khả năng kháng Tấn Công Ma Thuật của chúng với các kỹ năng hỗ trợ đa dạng trước khi đốt cháy chúng bằng một đòn đánh sấm sét.
+
+絵画、読書=Vẽ tranh, đọc sách
+
+青空ドローイング=Bức Tranh Bầu Trời Xanh
+女王との会談=Nói Chuyện Với Nữ Hoàng
+君と未来を見る眼=Đôi mắt nhìn thấy tương lai cùng ngươi
+埒外の再会=Tái ngộ bên ngoài
+作者と読者と奇妙な縁と=Tác giả, độc giả và mối quan hệ kỳ lạ
+クラック・ザ・リドル=Giải Mã Đố Vui
+ボスとないしょのおしごと=Công Việc Cùng Boss
+臥竜点睛=Điểm ngủ của con rồng
+
+##UB##
+ドラゴンズドゥーム=Số Phận Của Rồng
+最も魔法攻撃力が高い敵１キャラが龍眼状態だった場合に魔法特大ダメージを与え、魔法防御力を中ダウンさせる。さらに敵全体に魔法中ダメージを与える。=Gây sát thương ma thuật cực lớn và giảm vừa phải Phòng Thủ Ma Thuật của kẻ địch có M.ATK cao nhất đang bị ảnh hưởng bởi Mắt Rồng, đồng thời gây sát thương ma thuật vừa phải lên toàn bộ kẻ địch.
+r:"^対象が龍眼状態だった場合(\d+)の魔法ダメージ龍眼状態の敵の魔法防御力を(\d+)ダウン敵全体に(\d+)の魔法ダメージ$"=►Gây $3 sát thương ma thuật lên toàn bộ kẻ địch.\n\nNếu kẻ địch đang bị ảnh hưởng bởi Mắt Rồng:\n►Gây $1 sát thương ma thuật lên kẻ địch.\n►Giảm Phòng Thủ Ma Thuật của kẻ địch bằng $2 trong 18s.
+
+##S1##
+マインドクラック=Vỡ Tan Tâm Trí
+龍眼状態の敵すべての魔法防御力を中ダウンさせる。龍眼状態の敵がいない場合、最も魔法攻撃力が高い敵１キャラを龍眼状態にし、さらに魔法攻撃を受けた際のダメージを小アップさせる。=Giảm vừa phải Phòng Thủ Ma Thuật của toàn bộ kẻ địch đang bị ảnh hưởng bởi Mắt Rồng.\nNếu không có kẻ địch nào bị ảnh hưởng bởi Mắt Rồng, áp dụng Mắt Rồng lên kẻ địch có M.ATK cao nhất.
+r:"^龍眼状態の敵の魔法防御力を(\d+)ダウン龍眼状態中、その敵が受ける魔法ダメージを12％アップ$"=Thời gian niệm: 1.09s\n►Giảm Phòng Thủ Ma Thuật của kẻ địch đang bị ảnh hưởng bởi Mắt Rồng bằng $1 trong 12s.\n►Nếu không có kẻ địch nào bị ảnh hưởng bởi Mắt Rồng: áp dụng Mắt Rồng lên kẻ địch có M.ATK cao nhất.\n\n►Mắt Rồng: tăng sát thương ma thuật nhận vào 12%.
+
+##S2##
+エクスプロイトフレイム=Khai Thác Hỏa Diệm
+龍眼状態の敵すべてに魔法中ダメージを与え、魔法防御力を小ダウンさせ、クリティカルを受けた際のダメージを小アップさせる。さらに自分のＴＰを小回復する。=Gây sát thương ma thuật vừa phải lên toàn bộ kẻ địch đang bị ảnh hưởng bởi Mắt Rồng, giảm nhẹ Phòng Thủ Ma Thuật và tăng nhẹ Sát Thương Chí Mạng Ma Thuật. Ngoài ra, hồi TP cho bản thân một lượng nhỏ.
+r:"^龍眼状態の敵に(\d+)の魔法ダメージ龍眼状態の敵の魔法防御力を(\d+)ダウン龍眼状態の敵がクリティカルを受けた際のダメージを10％アップ自分のＴＰを(\d+)回復$"=Thời gian niệm: 1.09s\n►Hồi TP cho bản thân bằng $3.\n\nNếu kẻ địch đang bị ảnh hưởng bởi Mắt Rồng:\n►Gây $1 sát thương ma thuật lên kẻ địch.\n►Giảm Phòng Thủ Ma Thuật của kẻ địch bằng $2 trong 12s.\n►Tăng Sát Thương Chí Mạng Ma Thuật mà kẻ địch nhận vào bằng 10% trong 12s.
+
+##SP1##
+龍眼=Mắt Rồng
+このスキルのスキルレベルは「ドラゴンズ\nドゥーム」と連動しています=Cấp độ kỹ năng này liên kết với "Số Phận Của Rồng"
+最も魔法攻撃力が高い敵１キャラを龍眼状態にし、さらに魔法攻撃を受けた際のダメージを小アップさせる。=Áp dụng Mắt Rồng lên kẻ địch có M.ATK cao nhất hiện tại.
+龍眼状態中、その敵が受ける魔法ダメージを12％アップ=Thời gian niệm: 0.93s\n►Đánh dấu kẻ địch với trạng thái Mắt Rồng trong 180s.\n►Mắt Rồng: tăng sát thương ma thuật nhận vào 12%.
+
+##EX##
+クロージングアイズ+=Nhắm Mắt+
+クロージングアイズ=Closing Eyes

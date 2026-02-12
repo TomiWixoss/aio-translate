@@ -1,0 +1,319 @@
+シャドウ=Shadow
+ウキキー=Ukiki
+
+ワッパダヌキ=Wappadanuki
+幼いながらも巧みな変化で攻守を必死にこなす豆狸の魔物。=Quái vật Tanuki non trẻ nhưng vẫn cố gắng tấn công và phòng thủ với những biến hóa khéo léo.
+
+サンドワーム=Sandworm
+砂地の地中で獲物を待ち、一気に大顎で仕留めるムカデの魔物=Quái vật rắn độc chờ mồi dưới cát và giết chết trong một lần bằng hàm răng.
+
+タビガラス=Tabiglas
+アストルム中の強い魔物を倒して回ったという放浪カラス。=Con quạ lang thang được cho là đã đánh bại nhiều quái vật mạnh trên khắp Astrum.
+
+ビッグル=Biggle
+岩を食べられるほど頑丈な歯をもつ山の精霊。=Thần núi với hàm răng đủ mạnh để ăn đá.
+
+ウパルパ=Upalpa
+ヘドロの沼に棲み、口から強力な毒を吐く山椒魚の魔物。=Quái vật cá ớt sống trong đầm lầy bùn và phun độc mạnh từ miệng.
+
+イクト=Ikuto
+ルインドール=Ruindoll
+ガラディオンに付き従う古代の自動人形。意思を持たず、自身が瓦解するまで戦い続ける。=Automaton cổ xưa tuân theo Galadion. Nó không có ý chí và tiếp tục chiến đấu cho đến khi tan rã.
+
+
+尾先の炎を燃やし続けることで常に躰を温めているトカゲの魔物。=Quái vật thằn lằn liên tục sưởi ấm cơ thể bằng ngọn lửa ở đuôi.
+サンドボア=Sandbore
+砂を固めて鎧のように纏うのは、捨て身を恐れない一族の戦士の証。=Cát cứng lại và đeo như áo giáp là bằng chứng cho những chiến binh của bộ tộc không ngại hy sinh.
+
+ゴブリンリトル=Goblin Little
+幼くも、勇猛な見習いゴブリン。非力を補う動きで、前線を駆ける。=Thiếu niên Goblin mạnh mẽ dù còn non trẻ. Di chuyển để bù đắp cho sự non nớt, cô chạy xuyên qua mặt trận.
+
+スノウゴート=Snow Goat
+高山に住み、分厚い毛皮の下に、強靭な体を持つトナカイの魔物。=Quái vật tuần lộng sống trong núi với cơ thể khỏe mạnh dưới bộ lông dày.
+
+ワイルドボア=Wild Bore
+熱地に生きる、原始の大イノシシ。数多のマグマ岩を突き続けた先に、鎧をも砕く牙の一撃を体得した。=Lợn lớn nguyên thủy sống ở vùng nóng. Sau khi liên tục đấm vào nhiều đá magma, nó trải nghiệm cú đập từ ngà có thể vỡ áo giáp.
+
+近接攻撃しなやかな枝を、ムチのように使い攻撃する木の魔物。=Quái vật cây dùng cành mềm dẻo như roi để tấn công.
+
+イカリイカ=Ikariika
+イカリ頭のイカ魔物。金属質の錨は高硬度のかわりに重く、バランスを崩しよくひっくり返る。=Quái vật mực với đầu mực. Mặc dù neo kim loại cứng, chúng nặng và thường mất thăng bằng đổ ngã.
+
+アイスモール=Ice Mall
+発達したツメで氷を砕き攻撃する雪モグラの魔物。=Quái vật chuột tuyết tấn công bằng cách đập băng bằng vuốt phát triển.
+
+カクタスフラワー=Cactus flower
+触ると痺れる針山を無限に飛ばしてくる、動くサボテン。=Cây xương rồng di động không ngừng bắn kim núi, gây tê liệt khi chạm.
+
+ロックフラワー=Rock Flower
+小石を弾丸のように飛ばして攻撃する、岩でできた動く花。=Bông hoa di động làm từ đá, tấn công bằng cách bắn đá nhỏ như đạn.
+
+ブルーゴーレム=Blue Golem
+魔力を秘めた岩から生まれた、魔法耐性のあるゴーレム。=Golem kháng ma pháp sinh ra từ tảng đá chứa ma lực ẩn.
+
+ハイオーク=High orc
+厳しい鍛錬を重ね、強靭な肉体を手に入れたオークの上位種。=Orc cấp cao đã có được cơ thể cứng cáp qua những luyện tập khắc nghiệt lặp đi lặp lại.
+
+ウーピーオーク=Woopy orc
+大人を真似て、楽器をたたく、悪戯好きなオークのこども。=Orc con nhái người lớn bằng cách chơi nhạc cụ và thích chơi khăm.
+
+キラービー=Killer bee
+脅威となる敵をいち早く察知し、的確に狙い穿つハチの魔物。=Quái vật giống ong nhanh chóng phát hiện kẻ thù đe dọa và chính xác đâm xuyên qua chúng.
+
+スパイククラブ=Spike club
+巨大なハサミと硬い殻が自慢のカニの魔物。砂に潜んで気長に獲物を待つ姿はどこか愛らしい。=Quái vật cua với càng to và vỏ cứng. Nó rình rập trong cát và kiên nhẫn chờ mồi, mang lại vẻ ngoài hơi đáng yêu.
+
+ゼラチナ=Zerachina
+物理攻撃が当たりにくいとってもヌルヌルなゼリーの魔物。=Quái vật giống nước thật trơn trượt, khiến tấn công vật lý khó chính xác.
+とってもヌルヌルなゼリーの魔物。=Quái vật giống nước thật trơn trượt.
+
+ＨＰ高いキャラ攻撃、束縛　（ダメージ無効化時も付与）=Tấn công nhân vật có HP cao, trói\n (cũng được áp dụng khi sát thương bị vô hiệu)
+ＨＰ高いキャラ攻撃、束縛\n　（ダメージ無効化時も付与）\n=Tấn công nhân vật có HP cao, trói\n (cũng được áp dụng khi sát thương bị vô hiệu)
+
+ＴＰ高いキャラ攻撃、ＨＰ50％以下麻痺\n=Tấn công nhân vật có TP cao, tê liệt khi HP dưới 50%
+
+サラマンダー=Thằn lằn lửa
+尾先の炎を燃やし続けることで常に躰を温め、二連撃を繰り出すトカゲの魔物。=Một quái vật hình thằn lằn liên tục đốt đuôi để giữ ấm và thực hiện tấn công kép.
+
+マッドフラワー=Hoa bùn
+尾の花はひどい臭いを放つが、慣れると案外癖になるらしい。=Bông hoa trên đuôi nó phát ra mùi khó chịu, nhưng nghe nói có thể quen dần và thậm chí cảm thấy gây nghiện.
+
+ランドスネーク=Rắn đất
+穴を掘って獲物をじっと待ち、毒牙で確実に仕留めるヘビの魔物。=Một quái vật rắn đào hố chờ đợi con mồi kiên nhẫn, sau đó tấn công bằng răng độc để giết chết.
+
+ファイヤーメイジ=Pháp sư lửa
+地獄から呼び寄せた炎で魔法を飛ばす上級悪魔。=Một ác quỷ cấp cao đến từ địa ngục, sử dụng ngọn lửa triệu hồi để phóng thích các đòn tấn công phép thuật.
+
+ポイドン=Poydon
+するどいキバで咬みつき致命的な傷を残す毒トカゲの魔物。=Một quái vật thằn lằn độc, gây ra vết thương chết người bằng những chiếc răng nanh sắc nhọn.
+
+コドモオオトカゲ=Thằn lằn khổng lồ con
+小さくても強力な炎を吐く、こどものオオトカゲ。=Một thằn lằn khổng lồ con có thể thở ra ngọn lửa mạnh mẽ bất chấp kích thước nhỏ bé.
+
+ワイズワンド=Đũa phép khôn ngoan
+浴びれば凍える冷気の魔法で、戦意を奪うオウムガイ型の魔物。=Một quái vật hình cú sử dụng đũa phép có khả năng đóng băng đối thủ và tước đoạt ý chí chiến đấu của họ.
+
+クレイジードギー=Chó điên
+主人と共に生み出された、凶暴な改造犬。大きな頭を支えようと、必死な顔が殊更、怖い。=Một con chó hung dữ được tạo ra bằng kỹ thuật cải tiến gen cùng chủ nhân. Nét mặt tuyệt vọng khi nó phải nâng đầu lớn khiến nó trông còn đáng sợ hơn.
+
+タツノコナイト=Kỵ sĩ Tatsunoko
+海で溺れた騎士の槍を奪い、縄張りを警備するタツノコの戦士。=Một chiến binh của bộ tộc Tatsunoko, bảo vệ lãnh thổ bằng ngọn giáo đánh cắp từ một kỵ sĩ chết đuối ngoài biển.
+
+ウェアウルフ=Người sói
+するどいツメで敵を切り刻む、オオカミの魔物。=Một quái vật hình sói chém đối thủ bằng những móng vuốt sắc nhọn.
+
+ゲートキーパー=Người gác cổng
+地獄のトビラを開き、火傷を伴う炎を吐きだす魔界の番人。=Một ác quỷ của cõi âm mở cổng địa ngục và thở ra ngọn lửa đầy cháy bùng.
+
+スカルフレイム=Đầu lâu lửa
+地獄の炎をまとい、生者に襲い掛かる怨念の集合体。=Một tập hợp linh hồn oán hận bao bọc trong ngọn lửa địa ngục, tấn công người sống.
+
+ベニタケ=Nấm đỏ
+煮込むと意外と美味いというウワサの歩くキノコ。=Một quái vật nấm di chuyển được, nghe nói khi nấu ăn thì bất ngờ rất ngon.
+
+アルトバード=Chim Alt
+癒しの歌声が遠くまでよく届くトリ魔物界の有名歌手。=Một quái vật hình chim nổi tiếng trong thế giới phép thuật, được biết đến với những bài hát chữa lành có thể vang xa.
+
+ワイルドホーン=Hươu sừng hoang dã
+大きな角を攻撃にも防御にも使う、シカの魔物。=Một quái vật hình hươu sử dụng đôi sừng lớn của mình cho cả tấn công lẫn phòng thủ.
+
+オーク=Orc
+倒した冒険者の鎧をまとい斧を振り回す凶暴な森の獣人。=Một sinh vật người hình hung bạo sống trong rừng, mặc áo giáp của những nhà mạo hiểm đã bị đánh bại và cầm một chiếc rìu.
+
+バットケイブ=Hang dơi
+洞窟に棲み、獲物の足音を聞いて襲い掛かる、コウモリの魔物。=Một quái vật hình dơi cư trú trong hang động và tấn công con mồi khi nghe thấy tiếng bước chân.
+
+グラスリザード=Thằn lằn cỏ
+葉っぱの襟巻が鮮やかなトカゲ魔物界のオシャレ番長。=Một quái vật thằn lằn phong cách từ thế giới phép thuật, nổi bật với chiếc cổ áo lá sặc sỡ.
+
+ゴブリンガード=Lính gác goblin
+身の丈ほどもある、巨大な盾で仲間を護る見習いゴブリン兵。=Một lính goblin học việc bảo vệ đồng đội bằng một tấm khiên khổng lồ.
+
+インプ=Imps
+身の丈に合わない大きなカギ爪でひっかき攻撃する、見習い悪魔。=Ác quỷ học việc cào và tấn công bằng những móng vuốt lớn không phù hợp với chiều cao tấn công cận chiến của cô ấy.
+
+ホオズキムシ=Đom đóm Hōzuki
+お尻に溜まった蜜が、魔物の栄養源になる、不思議なホタル。=Một sinh vật đom đóm bí ẩn có mật lưu giữ ở phần sau, phục vụ như nguồn thức ăn cho các quái vật khác.
+
+ケイブスネイル=Ốc hang
+分泌するヌルヌルが美容にいいとウワサの、カタツムリの魔物。=Một quái vật ốc, tiếng đồn rằng chất nhầy của nó tốt cho làm đẹp.
+
+ドリアード=Dryad
+大地の魔力でキノコの魔物を自在に生やす、森の精霊。=Một linh hồn rừng có khả năng sử dụng ma thuật đất để triệu hồi sinh vật nấm theo ý muốn.
+
+ロックリザード=Thằn lằn đá
+頭の皮膚が固くなり鎧のようになった岩トカゲの魔物。=Một quái vật thằn lằn với làn da cứng trên đầu giống như áo giáp.
+
+ハーミットナイト=Kỵ sĩ ẩn sĩ
+倒した騎士の兜を、貝殻の代わりに被るヤドカリの戦士。=Một chiến binh cua ẩn sĩ đội mũ trụ của những kỵ sĩ đã bị đánh bại thay vì vỏ.
+
+モグリクラゲ=Mogurikurage
+拾った潜水服に水を溜め、陸でも戦えるクラゲの魔物。=Một quái giống sứa có thể tích trữ nước trong bộ đồ lặn nó nhặt được và chiến đấu cả trên cạn.
+
+ウイングロップ=Wingropp
+大きな耳をはばたかせて、勢いよく突き上げるウサギの魔物。=Một quái giống thỏ sử dụng đôi tai lớn để vỗ và tung ra những đòn tấn công với lực lượng khủng khiếp.
+
+ケイブエイプ=Caveape
+強靭な腕の筋肉で、鍾乳石を掴んで渡る大ザルの魔物。=Một quái khỉ lớn di chuyển trong hang động bằng cách bám vào các mạch đá với cơ bắp tay mạnh mẽ.
+
+エルダークラウド=Eldercloud
+気象を自在に操り、雷を落とす雲の魔物。=Một quái giống đám mây có khả năng kiểm soát thời tiết, có thể triệu hồi tia chớp.
+
+ゴーレム=Golem
+頑丈な身体で、攻守を備えた岩の魔物。=Một quái bằng đá với cơ thể vững chắc, thành thạo cả tấn công lẫn phòng thủ.
+
+バルーンバード=Balloonbird
+ぷっくりお腹に溜めた魔力を、癒しの波動に変えるトリの魔物。=Một quái giống chim tích trữ ma lực trong cái bụng phình và biến nó thành những đợt sóng hồi phục.
+
+ツキツキ=Tsukitsuki
+魔力の流れに敏感なキツツキ。鋭い嘴の攻撃で気力を減衰させる。=Một vị trí chật hẹp nhạy cảm với dòng chảy năng lượng ma thuật. Một đòn mỏi nhọn làm suy giảm ý chí chiến đấu.
+
+ツチノコブラ=Tsuchinocobra
+物陰から飛びかかり魔力を吸って腹を満たすという魔物ヘビの変種。魔力が高いほど狙われやすい。=Biến thể của con rắn quái nhảy ra từ bóng tối và hấp thụ năng lượng ma thuật để lấp đầy bụng. Càng nhiều ma lực, càng dễ trở thành mục tiêu.
+
+コボルト=Kobold
+ブーメランのように組んだ骨を、投げて攻撃する山犬の魔物。=Một quái chó hoang dã ném và tấn công bằng xương tạo thành vòng cung.
+
+マジックレイ=Magic Ray
+頭部の石から発する超音波で巧みに狩りをするエイの魔物。=Các quái cá đuối gấm săn mồi khéo léo bằng sóng siêu âm phát ra từ viên đá trên đầu.
+
+コボルトアサシン=Kobold Assassin
+素早いステップで翻弄し、わずかな隙にナイフを飛ばす、山犬の魔物。=Một quái chó hoang dã đùa giỡn với những bước chân nhanh nhẹn và dùng một khe hở nhỏ để phóng dao.
+
+ポイズンポッド=Poison Pod
+大きく開いた口に溜めた溶解液で獲物を食らう。=Ăn mồi với chất hòa tan tích tụ trong cái miệng mở rộng.
+
+フェアリー=Tiên
+風を自在に操り、冒険者を翻弄する花の精霊。=Một linh hồn hoa có thể tự do kiểm soát gió Tấn công Tầm trung và đùa giỡn với các nhà mạo hiểm.
+
+ポーチカ=Poochka
+花畑に棲み、特殊な光線で獲物を弱らせる、花つぼみの魔物。=Một quái nụ hoa sống trong cánh đồng hoa và làm suy yếu con mồi bằng một tia sáng đặc biệt.
+
+ドリルモール=Drill Mall
+地中に手を伸ばし、足元から攻撃するモグラの魔物。=Các quái chuột chũi tấn công từ dưới đất lên chân.
+
+スタンプ=Sticker
+しなやかな枝を、ムチのように使い攻撃する木の魔物。=Quái cây sử dụng cánh quân tiên phong và những cành mềm dẻo như roi để tấn công.
+
+イワアライグマ=Rock raccoons
+行き過ぎた綺麗好きのアライグマ。特製のガマ油石鹸を一度浴びると、まともに武器も握れない。=Gấu mèo thích sạch sẽ sau khi lạm dụng Tấn công Tầm trung. Khi đã tắm trong xà phòng Gama Oil đặc biệt, nó không còn cầm vũ khí cho đúng nữa.
+
+ルナポッド=Lunapod
+ルナの塔建造と共に造られた、エネルギー増幅器。漂う魔力を濃縮し、供給することで守護者を強化する。=Một máy khuếch đại năng lượng được tạo ra cùng với việc xây dựng Tháp Luna. Nó tập trung và cung cấp năng lượng ma thuật nổi để tăng cường các bảo vệ.
+
+ギャングオッター=Gang Otter
+貝殻をぶつけて不意をつく、意地悪な北海のチンピラっこ。=Một tên du côn nghịch ngợm từ biển phía bắc làm kinh động đối thủ bằng cách ném vỏ sò.
+
+エンゼルダーツ=Angel Darts
+熱帯魚のカタチをした魚の魔物。その優雅な姿とは裏腹に、鋭いアゴを獲物めがけて突き立てる。=Trái ngược với vẻ ngoài thanh lịch, nó thọc những hàm nhọn vào con mồi.
+
+スリーピィオウル=Sleepy Owl
+寝不足で気怠げなフクロウの魔物。敵を睨み術をかけ、動きを奪う。=Quái cú lười biếng vì thiếu ngủ. Nó trừng mắt nhìn kẻ thù và cố định họ.
+
+ニンフ=Nymph
+遊び相手を見つけては、見境なしにイタズラをする、森の精霊。=Một linh hồn rừng tìm bạn chơi và quậy phá một cách bừa bãi.
+
+
+イビルキャノン=Evil Cannon
+長年使われるうちに悪魔の魂が宿った、命ある砲台。=Một khẩu đại bác sống thấm nhuần linh hồn ác quỷ qua nhiều năm.
+
+ウキキーがより成長した姿。幼少より大岩を投げ続けたその太腕は、絶大な打撃を繰り出す。=Phiên bản lớn tuổi hơn của Ukiki. Từ nhỏ, cậu ta đã ném đá lớn, và cánh tay dày cho phép cậu ta tung ra những đòn đánh khủng khiếp.
+
+マインリザード=Mine Lizard
+ガルグのおこぼれにあずかる、岩トカゲ。ルナの魔力でより堅牢な鉱石の表皮に変貌した。=Một thằn lằn đá lợi dụng chiến lợi phẩm của Garg. Năng lượng ma thuật của Luna biến nó thành lớp ngoài của quặng cứng hơn.
+
+リーフボア=Leafboa
+固い葉っぱを鎧のように纏い、痛烈な体当たりをする大イノシシ。だが所詮葉っぱ。魔法は防げない。=Lợn Lớn quấn những chiếc lá cứng quanh người như áo giáp và lao vào với đau đớn. Nhưng rốt cuộc, nó chỉ là một chiếc lá. Không thể chặn được phép thuật.
+
+スティンクスカンク=Stinxkank
+目にしみる激臭ガス爆弾を、自在に駆使する、スカンクの魔物。=Quái vật Stink có thể tự do sử dụng bom khí độc gây tấn công diện rộng.
+
+大きな岩を投げて、遠くから攻撃してくるサルの魔物。=Quái vật khỉ ném những tảng đá lớn và tấn công từ xa.
+
+マグマフィッシュ=Cá Ma Túy
+岩石をも噛み砕く強靭なアゴで辺りを喰い荒らすサカナの魔物。=Một quái vật cá nuốt chửng khu vực xung quanh với hàm răng mạnh có thể nghiền nát đá.
+
+翼が小さく、まだ飛べないこどものグリフォン。=Một chú chim thần nhỏ với đôi cánh nhỏ và chưa thể bay được.
+
+ラットン=Chuột Tơ
+威力は軽くても、すばしこく何度も攻撃するネズミの魔物。=Mặc dù sức mạnh nhẹ, đây là quái vật chuột tấn công nhanh và liên tục.
+
+ムックル=Mukkul
+氷の塊を武器にも食料にもする雪山の精霊。=Một linh hồn núi tuyết sử dụng những khối băng vừa là vũ khí vừa là thức ăn.
+
+アイスチック=Băng Xác
+氷を纏う尾羽根を飛ばして攻撃するトリの魔物。=Một quái vật chim tấn công bằng cách vẫy đuôi lông phủ băng của nó.
+
+プチデビル=Ma Nhi
+覚えたての魔法で手当り次第に攻撃する赤ちゃん悪魔。=Một con quỷ bé tấn công ngẫu nhiên với phép thuật vừa mới học.
+
+ロックソウル=Hồn Đá
+燃えさかる炎を投げつけ、火傷の追加ダメージを与える呪いの石像。=Một bức tượng đá bị nguyền rủa ném ngọn lửa cháy bừng và gây thêm sát thương bỏng.
+
+トドドン=Toddon
+身体も態度も巨漢な北海のドン。纏う厚い脂肪が敵からの物理攻撃を押止める。=Một con Don Biển Bắc với cơ thể khổng lồ và thái độ. Lớp mỡ dày nó mặc chặn các đòn tấn công vật lý từ kẻ thù.
+身体も態度も巨漢な北海のドン。纏う厚い脂肪が敵からの攻撃を押止める。=Một con Don Biển Bắc với cơ thể khổng lồ và thái độ. Lớp mỡ dày nó mặc chặn các đòn tấn công từ kẻ thù.
+
+
+ワタリトビ=Wataritobi
+荒野に生き、荒野に死ぬという生き様に憧れ、独り旅をするトビ。=Tobi mơ ước sống và chết trong vùng hoang dã, và đi một mình.
+
+ポイズントード=Ếch Độc
+擬態した宝石に釣られた者を捕食する、毒舌ガマの魔物。=Một quái vật có lưỡi độc săn mồi những kẻ bị lừa bởi những viên ngọc giả dạng tấn công.
+
+片っ端から木を削り倒すビーバー。削った木片は家作りだけでなく、家を守るための飛び道具となる。=Một con hải cẩu đốn cây từ đầu. Những mảnh gỗ khắc có thể dùng không chỉ để xây nhà, mà còn như đạn để bảo vệ nhà.
+
+ノーティビーバー=Hải Cẩu Noti
+トゲトゲのおなかを勢いよくぶつけ敵を弾き飛ばす、不思議な見た目のカエル。=Một con ếch trông bí ẩn đánh kẻ thù bằng bụng có gai.
+
+ガマボックリ=Gamabokkuri
+ねじれ集まった枝で、冒険者を森の奥に引き込むマメの木の魔物。=Một quái vật cây đậu dụ dục nhà thám hiểm sâu vào rừng với những cành uốn lượn.
+
+ネジレアカシア=Nejirecacia
+大きな爪と固い殻で、どんな大きな相手にも向かっていく、カニの魔物。=Một quái vật cua sử dụng càng lớn và vỏ cứng để tấn công bất kỳ đối thủ lớn nào.
+
+ハンマーキャンサー=Cua Búa
+お尻の花から鱗粉を振りまき、魔物を癒す、不思議なホタル。=Một con đom đóm bí ẩn hồi phục quái vật bằng cách rải vảy từ bông hoa trên mông hồi phục của nó.
+
+スズランムシ=Bọ Chân Giả
+顔にも見える大きな盾で敵を威嚇し侵入者を阻む、ジャングルの護り人。=Một người bảo vệ rừng nhiệt đới đe dọa kẻ thù và cản trở kẻ xâm nhập với một tấm khiên lớn trông như khuôn mặt nó.
+
+ジャングルガード=Lính Canh Rừng Nhiệt Đới
+美しい歌声を響かせる妖鳥。獲物の守りを緩め、鋭い爪で狩る。=Một chim tiên với giọng hát đẹp. Nó hạ thấp phòng thủ của con mồi và săn mồi bằng vuốt sắc.
+
+アルトハーピィ=Harpy Cao
+食べたナッツの殻をぶつけてくる意地悪なリスの魔物。=Một quái vật sóc xấu tính đánh bạn bằng vỏ những quả hạt nó ăn.
+
+ナッツシューター=Xạ Thủ Hạt
+魔力の弾を投げつけて、少し後ろを攻撃する朽木の魔物。=Một quái vật Kuchiki tấn công từ phía sau bằng cách ném đạn lực ma thuật.
+
+ウッドソウル=Hồn Gỗ
+枝を自在に伸ばし、老練な技で痛いところに手が届く朽木の魔物。=Một quái vật Kuchiki có thể tự do kéo dài cành và sử dụng kỹ năng khéo léo để chạm vào vùng đau.
+
+トレント=Trent
+
+マグマウパルパ=Magma Upalpa
+熔岩の海に潜み、近づくものには灼熱の体液を吐く、山椒魚の魔物。=Ẩn náu trong biển đá nóng chảy, phun chất lỏng cơ thể thiêu đốt vào bất cứ thứ gì tiếp cận.
+
+で、敵前衛を崩す、うさぎっこ。ユニオンバーストは、最も近い敵に大ダメージを与えた後隣の敵にも攻撃するので、前衛を早期に攻め落とせる。=một thỏ thành thạo việc phá vỡ tiền tuyến địch. Union Burst gây sát thương lớn cho kẻ thù gần nhất rồi tấn công kẻ thù liền kề, cho phép tấn công sớm lên tiền tuyến.
+
+タートルタイラント=Rùa Bạo Chúa
+あらゆる攻撃を甲羅ではじく、巨大ガメの魔物。=Một quái vật rùa khổng lồ đẩy lùi mọi đòn tấn công với vỏ nó.
+
+動く戦士像=Tượng Chiến Binh Sống
+あらゆる攻撃を防ぐ盾をもった、命ある石像。=Một bức tượng sống có khiên chặn mọi đòn tấn công.
+
+動く剣士像=Bức Tượng Kiếm Sĩ Sống
+あらゆる攻撃を剣ではじき返す、命ある石像。=Một bức tượng sống đẩy lùi mọi đòn tấn công bằng thanh kiếm của mình.
+
+アイスフィッシュ=Icefish
+氷河を削って巣を作り、近づく者は無差別に襲うサカナの魔物。=Một quái cá đục hang ổ vào sông băng và tấn công bừa bãi bất kỳ ai đến gần.
+
+泥人形=Con rối bùn
+禁術で操られた意志なき土塊人形。\n怨念染みつく戦場の土が贄となる。=Một con rối đất sét vô tri bị ma thuật cấm kỵ điều khiển. Đất chiến trường, nhuộm đẫm hận thù, trở thành vật hiến tế.
+
+
+キョウオウショウジョウ=Kyooh Shojo
+
+
+イクト・ガラディオンに付き従う古代の自動人形。意思を持たず、自身が瓦解するまで戦い続ける。=Một cỗ máy tự động cổ xưa tuân theo Ikt Galadeon. Nó không có ý chí riêng và tiếp tục chiến đấu cho đến khi sụp đổ.

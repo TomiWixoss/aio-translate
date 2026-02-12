@@ -1,0 +1,51 @@
+##Profile##
+【物理】後衛から、矢の雨を降らせる妹系アーチャー。クリティカル率を高める重ね掛け可能なスキルを持ち、ダメージ回数の多いユニオンバーストをより強力にする。=[Vật Lý] Một cung thủ kiểu em gái, bắn mưa tên vào kẻ thù từ hậu phương. Có kỹ năng có thể tích lũy tăng tỷ lệ chí mạng, tăng cường Union Burst gây nhiều đòn đánh.
+ 
+人懐っこくてマシンガントークな妹系少女=Kiểu em gái thân thiện và nói nhiều
+お裁縫=May vá
+
+ボロは着ててもお兄ちゃん=Từ Vải Rách Đến Quần Dài
+少女物覚え悪く学成り難し=Một Chút Học Hành Là Một Điều Gian Nan
+桜は散るけどいつか咲く=Nếu Cuối Cùng Bạn Không Thành Công...
+心配ショウタイム☆=Một Môn Thể Thao Lo Lắng Thật★
+七転び再起動！=Một Mũi Kim trong Hương Thảo
+旅は道連れ命がけ=Treo Bằng Sợi Lụa
+光陰アローシャワーの如し=Thời Gian Trôi Nhanh Như Mưa Tên
+ドキドキのおまじない=May Mắn Cho Một Số Người
+門前の兄習わぬ学を識る？=Để Có Một Chút Kiến Thức, Phải Đi Một Chặng Dài?
+瓢箪からでもコマります！=Luôn Đột Ngột Từ Trời Xanh
+先ずカレーより始めよ=Làm Cà Ri Khi Mặt Trời Tỏa Sáng
+少女、千リノ的を射る！=Khi Mưa Tên, Thì Đổ Xuống!
+
+##UB##
+アローレイン=Mưa Tên
+
+##S1##
+コンセントレーション=Tập Trung
+自分の物理攻撃力と物理クリティカルを中アップさせる。=Tăng vừa phải Tấn Công Vật Lý và Tỷ Lệ Chí Mạng của bản thân.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを(\d+)アップ$"=►Boosts own P.ATK by $1 for 12s.\n►Boosts own P.CRIT Rate by $2.
+
+##S2##
+ブレイクアロー=Đòn Bắn Nghiền Nát
+
+##EX##
+ペネトレーション=Xuyên Thấu
+ペネトレーション+=Xuyên Thấu+
+
+##UB+##
+コロナレイン=Mưa Vương Miện
+前方範囲内の敵すべてに物理大ダメージを与える。このスキルがクリティカルした場合のダメージは、２倍ではなく3.5倍になる。=Gây sát thương vật lý lớn cho kẻ thù trong phạm vi. Nếu kỹ năng này đánh chí mạng, sát thương sẽ là 3.5 lần thay vì 2 lần.
+
+##S1+##
+コンセントレーション+=Tập Trung+
+自分の物理攻撃力を大アップ、物理クリティカルを中アップさせ、さらに行動速度を大アップさせる。=Tăng mạnh Tấn Công Vật Lý và Tốc Độ Hành Động của bản thân, và tăng vừa phải Tỷ Lệ Chí Mạng của bản thân.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを(\d+)アップ自分の行動速度アップ$"=Thời gian niệm: 1.07s\n►Tăng Tấn Công Vật Lý của bản thân lên $1 trong 12s.\n►Tăng Tỷ Lệ Chí Mạng của bản thân lên $2 trong 99s.\n►Tăng Tốc Độ Hành Động của bản thân lên 180% trong 12s.
+
+##S2+##
+ブレイクアロー+=Đòn Bắn Nghiền Nát+
+自分の物理攻撃力を特大アップ、物理攻撃クリティカル時のダメージを小アップし、前方範囲内の敵すべてに物理大ダメージを与える。さらに、自分のＴＰを特大回復する。=Tăng mạnh Tấn Công Vật Lý của bản thân, tăng nhỏ Sát Thương Chí Mạng Vật Lý của bản thân, và gây sát thương vật lý lớn cho kẻ thù trong phạm vi. Ngoài ra, hồi một lượng lớn TP của bản thân.
+r:"^範囲内の敵に(\d+)の物理ダメージ自分の物理攻撃クリティカル時のダメージを15％アップ自分の物理攻撃力を(\d+)アップ自分のＴＰを650回復$"=►Gây $1 sát thương vật lý cho kẻ thù trong phạm vi 1300.\n►Tăng Sát Thương Chí Mạng Vật Lý của bản thân lên 15% trong 18s.\n►Tăng Tấn Công Vật Lý của bản thân lên $2 trong 18s.\n►Hồi 650 TP cho bản thân.
+
+##UE##
+プロミネンスアロー=Mũi Tên Nổi Bật
+チアフルシスターボウ=Cung Chị Em Vui Vẻ

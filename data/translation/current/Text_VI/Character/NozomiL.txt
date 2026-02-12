@@ -1,0 +1,35 @@
+##Profile##
+【物理】中衛で、未来を信じ希望を灯すトップアイドル。バトル開始時に物理キャラのＴＰ特大回復と敵の永続物防ダウンで加勢し、物理攻撃強化とＴＰ回復で勝利へ導く。=[Vật Lý] Một thần tượng đỉnh cao tin tưởng vào tương lai và thắp lên hy vọng ở tuyến giữa. Khi trận đấu bắt đầu, cô ấy hồi một lượng lớn TP cho tất cả đồng đội thuộc kiểu P và giảm vĩnh viễn phòng thủ vật lý (P.DEF) của tất cả kẻ địch, dẫn đến chiến thắng bằng cách tăng tấn công vật lý (P.ATK) và Khả Năng Tăng TP của đồng đội.
+
+ホープフルスマイル=Nụ Cười Hy Vọng
+思い出プレイバック=Phát lại Ký Ức
+見つめてリミテッド=Nhìn Chằm Chằm và Giới Hạn
+『今』から『いつか』へ=Từ "hiện tại" đến "một ngày nào đó"
+学んで進んで乗りこえて=Học, Tiến Lên và Vượt Qua
+
+##UB##
+ホープ・オンステージ=Hy Vọng Trên Sân Khấu
+目の前の敵１キャラに物理大ダメージを与え、物理防御力を小ダウンさせる。さらに、物理攻撃を行うすべての味方キャラの物理攻撃力を特大アップさせる。=Gây sát thương Vật Lý lớn lên kẻ địch ở hàng trước, và giảm một chút Phòng Thủ Vật Lý của chúng. Ngoài ra, tăng tấn công Vật Lý cho tất cả đồng minh thuộc type Vật Lý một lượng lớn.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン対象の味方の物理攻撃力を(\d+)アップ$"=►Gây $1 sát thương Vật Lý lên kẻ địch.\n►Giảm Phòng Thủ Vật Lý của kẻ địch đi $2 trong 18s.\n►Tăng Tấn Công Vật Lý cho tất cả đồng minh type Vật Lý đi $3 trong 18s.
+
+##S1##
+グロウイレーション=Hào Quang Phấn Khởi
+物理攻撃を行うすべての味方キャラの物理攻撃力と物理クリティカルを大アップさせ、物理攻撃クリティカル時のダメージを小アップさせる。=Tăng rất lớn Tấn Công Vật Lý và Tỷ Lệ Chí Mạng Vật Lý cho tất cả đồng minh type Vật Lý, và tăng một chút Sát Thương Chí Mạng Vật Lý của họ.
+r:"^対象の味方の物理攻撃力を(\d+)アップ対象の味方の物理クリティカルを(\d+)アップ対象の味方の物理攻撃クリティカル時のダメージを10％アップ$"=Thời gian niệm: 1.05s\n►Tăng Tấn Công Vật Lý cho tất cả đồng minh type Vật Lý đi $1 trong 12s.\n►Tăng Tỷ Lệ Chí Mạng Vật Lý cho tất cả đồng minh type Vật Lý đi $2 trong 12s.\n►Tăng Sát Thương Chí Mạng Vật Lý cho tất cả đồng minh type Vật Lý 10% trong 12s.
+
+##S2##
+エールフォーフューチャー=Cùng Cười Vì Tương Lai
+物理攻撃を行うすべての味方キャラの物理攻撃力を大アップさせ、ＴＰを小回復させる。バトル開始後、初弾のこのスキルはＴＰの回復量が大幅アップし、敵全体の物理防御力を小ダウンさせる。=Tăng rất lớn Tấn Công Vật Lý cho tất cả đồng minh type Vật Lý, và hồi một chút TP của họ. Khi trận đấu bắt đầu, lần dùng kỹ năng đầu tiên sẽ hồi TP rất lớn cho tất cả đồng minh type Vật Lý và giảm một chút Phòng Thủ Vật Lý cho tất cả kẻ địch.
+r:"^対象の味方の物理攻撃力を(\d+)アップ対象の味方のＴＰを(\d+)回復初使用時、対象の味方のＴＰを(\d+)回復初使用時、敵全体の物理防御力を(\d+)ダウン$"=Thời gian niệm: 1.05s\n►Tăng Tấn Công Vật Lý cho tất cả đồng minh type Vật Lý đi $1 trong 12s.\n\nĐối với lần dùng kỹ năng đầu tiên:\n►Hồi TP cho tất cả đồng minh type Vật Lý đi $3.\n►Giảm Phòng Thủ Vật Lý của tất cả kẻ địch đi $4 trong 180s\n\nĐối với lần dùng kỹ năng thứ 2 trở đi:\n►Hồi TP cho tất cả đồng minh type Vật Lý đi $2.
+
+##EX##
+ホープフルスマイル=Nụ Cười Hy Vọng
+ホープフルスマイル+=Nụ Cười Hy Vọng+
+
+##S1+##
+グロウイレーション+=Hào Quang Phấn Khởi+
+物理攻撃を行うすべての味方キャラの物理攻撃力を特大アップ、物理クリティカルを大アップし、物理攻撃クリティカル時のダメージを小アップさせ、さらにＴＰ上昇を小アップさせる。=Tăng rất lớn Tấn Công Vật Lý và Tỷ Lệ Chí Mạng Vật Lý cho tất cả đồng minh type Vật Lý, và tăng một chút Sát Thương Chí Mạng Vật Lý của họ. Ngoài ra, tăng một chút Hiệu Quả Hồi TP của họ.
+r:"^対象の味方の物理攻撃力を(\d+)アップ対象の味方の物理クリティカルを(\d+)アップ対象の味方の物理攻撃クリティカル時のダメージを12％アップ対象の味方のＴＰ上昇を(\d+)アップ$"=Thời gian niệm: 1.05s\n►Tăng Tấn Công Vật Lý cho tất cả đồng minh type Vật Lý đi $1 trong 12s.\n►Tăng Tỷ Lệ Chí Mạng Vật Lý cho tất cả đồng minh type Vật Lý đi $2 trong 12s.\n►Tăng Sát Thương Chí Mạng Vật Lý cho tất cả đồng minh type Vật Lý 12% trong 12s.\n►Tăng Hiệu Quả Hồi TP cho tất cả đồng minh type Vật Lý đi $3 trong 12s.
+
+##UE##
+ハートリベレイター=Trái Tim Giải Phóng

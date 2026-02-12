@@ -1,0 +1,55 @@
+##Profile##
+【物理】後衛の、長期戦に優れた、森の守護者見習い。ＴＰ回復によるユニオンバーストの速攻が可能。さらに使用後はスキル効果が上昇するため高い殲滅力を誇る。=[Vật Lý] Một người bảo vệ rừng đầy nhiệt huyết, giỏi chiến đấu lâu dài từ hậu phương. Hồi TP cho phép dùng Union Burst nhanh, kỹ năng này tăng cường hiệu quả kỹ năng để tăng sức mạnh tấn công.
+
+キレイな葉っぱを集めること=Thu thập những chiếc lá đẹp
+
+森番を目指すエルフの少女=Một elf trẻ đang nỗ lực trở thành người bảo vệ rừng
+
+自然の導き=Sự Dẫn Dắt Của Thiên Nhiên
+深緑の守護者=Người Quản Lý Xanh Tươi
+収穫祭=Lễ Hội Mùa Gặt
+妖精のいたずら=Sự Phá Phách Của Tiên Nữ
+エルフの弓術=Tên Bắn Cung Của Loài Người Elf
+まどろみの森=Rừng Giấc Mơ
+放浪するエルフ=Kẻ Lang Thang Của Loài Người Elf
+妖精の楽園=Thiên Đường Của Tiên Nữ
+フォレストムーブ=Chuyển Động Trong Rừng
+森の意志=Ý Chí Của Rừng
+妖精の調べ=Điều Tra Tiên
+重なり合う決意=Quyết Tâm Chồng Chéo
+
+##UB##
+私の矢があなたを貫く！=Tớ Sẽ Bắn Cho Cậu Đầy Mũi Tên!
+目の前の敵１キャラに物理特大ダメージを与える。このスキルを既に使用していた場合、ダメージが増加する。=Gây sát thương vật lý khổng lồ lên kẻ địch phía trước trực tiếp. Sát thương tăng nếu kỹ năng này đã từng được dùng trước đó.
+r:"^敵単体に(\d+)の物理ダメージユニオンバースト使用後、敵単体に(\d+)の物理ダメージ$"=►Gây $1 sát thương vật lý lên một kẻ địch.\n►Sau khi dùng Union Burst, gây $2 sát thương vật lý lên một kẻ địch.
+
+##S1##
+絡みつく蔦=Dây Leo Trói Buộc
+最も魔法攻撃力が高い敵１キャラに物理小ダメージを与え、さらに行動速度を小ダウンさせる。=Gây sát thương vật lý nhỏ lên kẻ địch có tấn công phép thuật cao nhất và giảm tốc độ hành động của chúng một chút.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の行動速度を一定時間低下させる$"=►Gây $1 sát thương vật lý lên một kẻ địch.\n►Giảm tốc độ hành động của một kẻ địch.
+
+##S2##
+翅の輝き=Cánh Tay Lấp Lánh
+自分のＴＰを中回復する。既にユニオンバーストを使用していた場合、回復量が増加する。=Hồi TP của bản thân một lượng trung bình. Lượng này tăng lên khi một UB đã được dùng.
+r:"^自分のＴＰを(\d+)回復ユニオンバースト使用後、自分のＴＰを(\d+)回復$"=►Hồi $1 TP cho bản thân.\n►Sau khi dùng UB, hồi $2 TP cho bản thân.
+## 260lvl
+自分のＴＰを中回復する。既にユニオンバーストを使用していた場合、回復量が増加する。さらに自分の物理攻撃力を小アップさせる。=Hồi một lượng TP vừa phải cho bản thân. Lượng này sẽ tăng lên sau khi đã dùng UB. Đồng thời tăng nhỏ P.ATK cho bản thân.
+r:"^自分のＴＰを(\d+)回復ユニオンバースト使用後、自分のＴＰを(\d+)回復自分の物理攻撃力を(\d+)アップ$"=►Hồi $1 TP cho bản thân.\n►Sau khi dùng UB, hồi $2 TP cho bản thân.\n►Tăng P.ATK cho bản thân lên $3.
+
+##EX##
+エルフの弓術=Tên Bắn Cung Của Loài Người Elf
+エルフの弓術+=Elven Archery+
+バトル開始時に自分の物理攻撃力を大アップさせる。=Tăng lớn tấn công vật lý cho bản thân ở đầu trận.
+
+##UB+##
+この矢に未来を乗せて！=Tôi sẽ đặt tương lai vào mũi tên này!
+目の前の敵１キャラに物理特大ダメージを与える。このスキルを使用するたび、最大４回までダメージが増加する。=Gây sát thương lớn lên kẻ địch đứng ngay trước mặt. Nhận một ngăn tăng sát thương mỗi lần dùng UB, tối đa 5 ngăn.
+r:"^敵単体に(\d+)の物理ダメージ５回目以降の使用時、敵単体に(\d+)の物理ダメージ$"=Đối với UB lần 1-4:\n►Gây $1 sát thương vật lý lên kẻ địch.\n\nĐối với UB lần 5 trở lên:\n►Gây $2 sát thương vật lý lên kẻ địch.
+
+##S1+##
+絡みつく蔦+=Clinging Vines+
+最も魔法攻撃力が高い敵１キャラに物理中ダメージを与え、さらに魔法攻撃力と行動速度を小ダウンさせる。=Gây sát thương vật lý vừa phải lên kẻ địch có M.ATK cao nhất. Giảm M.ATK và tốc độ hành động của chúng một chút.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の行動速度を一定時間低下させる敵単体の魔法攻撃力を(\d+)ダウン$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Giảm tốc độ hành động của kẻ địch còn 80% trong 12s.\n►Giảm M.ATK của kẻ địch đi $2 trong 12s.
+
+##UE##
+クインティタニアス=Quintitanius

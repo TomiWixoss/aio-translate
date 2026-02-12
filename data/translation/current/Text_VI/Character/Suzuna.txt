@@ -1,0 +1,53 @@
+##Profile##
+【物理】後衛からクリティカル攻撃するカリスマモデル。ダメージ2倍のクリティカルダメージはスキルによる攻撃力アップでさらに破壊力を増す。=[Vật lý] Một người mẫu quyến rũ tấn công từ hậu phương với đòn chí mạng gây sát thương gấp đôi. Các đòn chí mạng gây sát thương gấp đôi này còn được tăng cường thêm bởi kỹ năng tăng sức mạnh tấn công.
+天真爛漫で人気者のカリスマモデル=Một người mẫu thời trang đầy mê hoặc, ngây thơ nhưng lại rất nổi tiếng
+
+ファッション=Thời trang
+
+狙い撃っちゃうんでよろ♪=Tớ sẽ bắn hắn.
+それがうちのポリシーだし=Đó là chính sách của chúng tôi.
+おにやばオファーじゃね？=Xin lỗi, tôi nghĩ cô định đưa ra một đề nghị cho tôi.
+もにカワ最高フィーリング=Cảm giác tuyệt nhất là Monikawa
+キミだけのランウェイ=Đường Băng Đến Bên Em
+うちのカレシになってよ=Hãy Là Bạn Trai Của Em
+消えたステージ衣装=Bí Ẩn Trang Phục
+カジノバブル=May Mắn Khi Rút Thăm
+グラビア撮影は表情が命♪=Ngoại Hình Là Mọi Thứ
+ベストなパフューム探そ！=Tinh Dầu Hoàn Hảo!
+カリスマモデル、スズナ！=Người Mẫu Thời Trang, Suzuna!
+計算とかオニ苦手だし～=Kém Toán Kinh Khủng
+
+##UB##
+ハートブレイク=Kẻ Phá Tan Trái Tim
+目の前の敵１キャラに物理特大ダメージを与える。このスキルは必ずクリティカルする。=Gây lượng lớn sát thương vật lý lên kẻ địch phía trước. Đòn này luôn là chí mạng.
+
+##S1##
+おこぷんダーツ=Meany Missile
+目の前の敵１キャラに物理中ダメージを与える。このスキルは必ずクリティカルする。=Gây lượng vừa phải sát thương vật lý lên kẻ địch phía trước. Đòn này luôn là chí mạng.
+
+##S2##
+カリスマオーラ♪=Aura Quyến Rũ ♪
+自分の物理攻撃力を中アップさせる。=Tăng vừa phải tấn công vật lý của bản thân.
+
+##EX##
+もにカワフィーリング=Siêu Dễ Thương Cảm Xúc
+もにカワフィーリング+=Siêu Dễ Thương Cảm Xúc+
+
+##UB+##
+オートクチュール・ハート=Trái Tim Haute Couture
+自分の物理攻撃クリティカル時のダメージを中アップさせる。さらに目の前の敵１キャラに物理特大ダメージを与える。このスキルの１ヒットのダメージは必ずクリティカルする。=Tăng vừa phải sát thương chí mạng vật lý của bản thân. Gây lượng lớn sát thương vật lý lên một kẻ địch phía trước. Sát thương một đòn của kỹ năng này luôn là chí mạng.
+r:"^自分の物理攻撃クリティカル時のダメージを25％アップ敵単体に(\d+)の物理ダメージ$"=►Tăng 25% sát thương chí mạng vật lý của bản thân trong 18s.\n►Gây $1 sát thương vật lý lên kẻ địch.\nLuôn chí mạng.
+
+##S1+##
+おこぷんダーツ+=Meany Missile+
+目の前の敵１キャラに計３回ヒットし、クリティカル時のダメージが２倍ではなく３倍になる物理大ダメージを与える。このスキルの１ヒットのダメージは必ずクリティカルする。=Tấn công kẻ địch phía trước tổng cộng 3 lần, gây lượng lớn sát thương vật lý với hệ số chí mạng x3 thay vì x2. Sát thương một đòn của kỹ năng này luôn là chí mạng.
+r:"^敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Gây $2 sát thương vật lý lên kẻ địch.\n►Gây $3 sát thương vật lý lên kẻ địch.
+
+##S2+##
+カリスマオーラ♪+=Aura Quyến Rũ ♪+
+自分の物理攻撃力を特大アップ、物理攻撃クリティカル時のダメージを小アップし、ＴＰを中回復する。=Tăng tấn công vật lý và sát thương chí mạng vật lý của bản thân. Hồi TP của bản thân.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理攻撃クリティカル時のダメージを15％アップ自分のＴＰを150回復$"=►Tăng $1 tấn công vật lý của bản thân.\n►Tăng 15% sát thương chí mạng vật lý của bản thân.\n►Tăng 150 TP của bản thân.
+
+##UE##
+クリティカルキス=Nụ Hôn Chí Mạng
+カリスマオートクチュール=Haute Couture Quyến Rũ

@@ -1,0 +1,75 @@
+##Profile##
+瞑想、動植物の飼育=Meditation, breeding animals and plants
+主を慕う、小さなガイド役=Một hướng dẫn viên nhỏ chăm sóc chủ nhân của mình
+【物理】中衛で、補助と攻撃で皆を支える、導きの巫女。ユニオンバーストは、味方全体の攻撃力アップに加えて自らも回復するため、継続的なサポートが可能となる。=[Vật Lý] Một hướng dẫn viên tận tâm hỗ trợ mọi người từ tuyến giữa với các buff và đòn tấn công. Union Burst của cô tăng sức mạnh tấn công cho tất cả đồng đội đồng thời hồi phục máu cho bản thân, cho phép cô ở lại trận đấu lâu hơn.
+
+覚醒と芽生える想い=Awakened Heart and Budding Feelings
+こころの拠り所=Heart's Refuge
+導き導かれて=Guidance for The Guide
+ガイド役の憂鬱=A Melancholic Little Guide
+コッコロのこころ=Trái tim Kokkoro
+懐かしいぬくもり=Nostalgic Warmth
+しっぽのある迷い子=A Fluffy Lost Child with a Tail
+保護者はどっち？=Which One is The Guardian?
+『はじめまして、主さま』=『Nice to meet you, my Lord』
+ふるさとへの手紙=A Letter to my Home Village
+青くて広くてまぶしくて=Biển xanh lấp lánh vĩ đại
+ちっちゃな新米ガイド役=Ngày đầu tiên đi hướng dẫn của một hướng dẫn viên nhỏ
+
+##UB##
+オーロラ=Aurora
+味方全体の物理攻撃力と魔法攻撃力を小アップさせ、さらに自分のＨＰを中回復させる。=Tăng P.ATK và M.ATK của tất cả đồng đội một chút, và hồi phục HP của bản thân một chút.
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の魔法攻撃力を(\d+)アップ自分のＨＰを(\d+)回復$"=►Tăng Tấn Công Vật Lý (P.ATK) cho đồng đội lên $1 trong 18s.\n►Tăng Tấn Công Ma Thuật (M.ATK) cho đồng đội lên $2 trong 18s.\n►Hồi máu cho bản thân $3.
+
+##S1##
+トライスラッシュ=Tri-Slash
+
+##S2##
+スピードアップ=Tăng Tốc
+味方全体の行動速度を小アップさせ、さらに物理攻撃力を小アップさせる。=Tăng nhẹ Tốc Độ Hành Động và Tấn Công Vật Lý (P.ATK) cho đồng đội.
+r:"^味方全体の行動速度アップ味方全体の物理攻撃力を(\d+)アップ$"=►Đặt Tốc Độ Hành Động của tất cả đồng đội lên 120% trong 12s.\n►Tăng Tấn Công Vật Lý (P.ATK) của đồng đội lên $1 trong 12s.
+
+##EX##
+精霊の啓示=Giác Ngộ Tâm Linh
+精霊の啓示+=Giác Ngộ Tâm Linh+
+
+##UB+##
+オーロラブルーミング=Hoa Đồng Tiêu
+自分のＨＰを大回復させる。味方全体のＨＰを中回復し、物理攻撃力と魔法攻撃力を大アップさせ、さらにＴＰ上昇を小アップさせる。=Tăng mạnh Tấn Công Vật Lý (P.ATK) và Tấn Công Ma Thuật (M.ATK) cho tất cả đồng đội, tăng nhẹ Hiệu Quả Tăng TP (TP Boost) cho tất cả đồng đội, hồi lượng máu lớn cho bản thân và hồi lượng máu vừa phải cho đồng đội.
+r:"^自分のＨＰを(\d+)回復味方全体のＨＰを(\d+)回復味方全体の物理攻撃力を(\d+)アップ味方全体の魔法攻撃力を(\d+)アップ味方全体のＴＰ上昇を(\d+)アップ$"=►Hồi máu cho bản thân $1.\n►Hồi máu cho tất cả đồng đội $2.\n►Tăng Tấn Công Vật Lý (P.ATK) của đồng đội lên $3 trong 18s.\n►Tăng Tấn Công Ma Thuật (M.ATK) của đồng đội lên $4 trong 18s.\n►Tăng Hiệu Quả Tăng TP (TP Boost) của đồng đội lên $5 trong 18s.
+
+##S1+##
+トライスラッシュ+=Tri-Slash+
+目の前の敵１キャラに物理中ダメージを与え、さらに自分の物理攻撃力を中アップさせ、ＴＰ上昇を小アップさせる。=Gây sát thương vật lý (P.DMG) vừa phải cho kẻ địch phía trước. Tăng vừa phải Tấn Công Vật Lý (P.ATK) của bản thân và tăng nhẹ Hiệu Quả Tăng TP (TP Boost) của bản thân.
+r:"^敵単体に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップ自分のＴＰ上昇を(\d+)アップ$"=►Gây $1 sát thương vật lý (P.DMG) cho kẻ địch.\n►Tăng Tấn Công Vật Lý (P.ATK) của bản thân lên $2 trong 12s.\n►Tăng Hiệu Quả Tăng TP (TP Boost) của bản thân lên $3 trong 12s.
+
+##S2+##
+スピードアップ+=Tăng Tốc+
+味方全体の行動速度を大アップさせ、さらに物理攻撃力を特大アップ、物理クリティカルを大アップさせる。さらに最も物理攻撃力が高い味方１キャラの物理攻撃力を特大アップ、物理クリティカルを大アップさせ、味方全体のＴＰを小回復させる。=Tăng cực mạnh Tốc Độ Hành Động, tăng khủng khiếp Tấn Công Vật Lý (P.ATK) và tăng rất mạnh Tỷ Lệ Chí Mạng Vật Lý (P.CRIT Rate) cho tất cả đồng đội. Đồng thời, tăng khủng khiếp Tấn Công Vật Lý (P.ATK) và tăng rất mạnh Tỷ Lệ Chí Mạng Vật Lý (P.CRIT Rate) cho đồng đội có Tấn Công Vật Lý (P.ATK) cao nhất, và hồi nhẹ TP cho tất cả đồng đội.
+r:"^味方全体の行動速度アップ味方全体の物理攻撃力を(\d+)アップ味方全体の物理クリティカルを100アップ味方単体の物理攻撃力を(\d+)アップ味方単体の物理クリティカルを100アップ味方全体のＴＰを50回復$"=►Đặt Tốc Độ Hành Động của tất cả đồng đội lên 160% trong 18s.\n►Tăng Tấn Công Vật Lý (P.ATK) của tất cả đồng đội lên $1 trong 18s.\n►Tăng Tỷ Lệ Chí Mạng Vật Lý (P.CRIT Rate) của tất cả đồng đội lên 100 trong 18s.\n►Tăng Tấn Công Vật Lý (P.ATK) của đồng đội có Tấn Công Vật Lý (P.ATK) cao nhất lên $2 trong 18s.\n►Tăng Tỷ Lệ Chí Mạng Vật Lý (P.CRIT Rate) của đồng đội có Tấn Công Vật Lý (P.ATK) cao nhất lên 100 trong 18s.\n►Hồi 50 TP cho tất cả đồng đội.
+
+##UE##
+アメスアミュレット=Amulet Tím
+コッコロの精霊=Tinh Thần Kokkoro
+
+##Comments##
+
+主さまのガイドを務めさせていただきます\n以後お見知りおきを=Thưa ngài, tôi sẽ là người dẫn lối cho ngài.\nRất vui được gặp ngài.
+ランドソルのような都会での生活には、\nまだ慣れません…ですが、ガイド役として、\nしっかりと主さまをご案内いたします=Dù sống ở một thành phố rộng lớn như Landosol,\nthưa ngài, tôi vẫn thấy hơi khó thích nghi...\nTuy nhiên, tôi sẽ cố gắng hết sức để tư vấn cho ngài thật tốt, với tư cách là người dẫn lối của ngài.
+わたくし、故郷から遠く離れて過ごしておりますが、\n寂しくなどありませんよ\n主さまが傍にいてくださいますから=Dù ở xa quê hương,\nthưa ngài, tôi hoàn toàn không cảm thấy cô đơn.\nTất cả bởi vì ngài ở đây bên cạnh tôi.
+主さまが困ったり心配したり迷ったりされた時には\nわたくしがお導きいたします、ガイド役として\nお任せくださいませ=Thưa ngài, nếu ngài lạc lối, lo lắng hay phiền muộn,\ntôi sẽ dốc hết sức mình...
+effort in guiding you.\nplease leave everything to me. 
+ガイド役がお世話をするのは、当然のこと\nむしろ、わたくしのようなものを傍に置いていただいて…\nお礼をいうのはわたくしの方でございます=Việc người dẫn lối chăm sóc chủ nhân là điều tự nhiên.\nThực ra, tôi mới là người nên cảm ơn ngài\nvì đã cho phép tôi được ở bên cạnh.
+いつもありがとう…ですか？\nそんな滅相もございません\nお礼をいわれるようなことなど、何もしておりませんよ=Cảm ơn ngài... như thường lệ?\nĐừng ngớ ngẩn thế, thưa ngài.\nTôi chưa làm gì đáng để ngài cảm ơn đâu.
+おはようございます、主さま\n素敵な朝ですよ。起きてください\n起きないと…イタズラしてしまいますよ♪=Chào buổi sáng, thưa ngài.\nHôm nay trời đẹp quá. Hãy thức dậy đi.\nNếu không... tôi sẽ trêu ngài♪
+主さまに看病をしていただくなんて…\nガイド役失格、身が縮む思いです\nですが…とても、うれしいです。えへへ=Làm sao tôi có thể để ngài chăm sóc mình được...?\nNghĩ đến sự thiếu sót trong nhiệm vụ của mình, tôi thấy đau lòng.\nVà mà... điều đó cũng khiến tôi rất vui. Hehehe...
+山育ちですので、ずっと動物と触れ合って育ちました\nわんわんも、にゃんにゃんも、モーモーも、ブーブーも\n生き物はみんな愛らしいですね=Lớn lên trong núi, tôi có nhiều tiếp xúc với\nđộng vật. Tôi yêu chó con, mèo con, heo con, bò con...\nTất cả sinh vật đều đáng yêu.
+ですから今、このように主さまの\nお世話をさせていただけて、とてもうれしいのです\nこれからもずっとお傍にいさせてください=Chính vì vậy, tôi rất vui khi cuối cùng\ncó thể chăm sóc ngài như bây giờ.\nHãy để tôi được ở bên cạnh ngài mãi mãi.
+わたくし、小さな頃よりずっと、\n主さまにお仕えすることを\n夢見ておりました=Thực tế, tôi đã mơ về ngày phục vụ ngài, thưa ngài.\nKể từ khi tôi còn nhỏ.
+わたくしに至らぬ点などございませんでしょうか\n御不快なことがあれば、なんなりと\nおっしゃってください、主さま=Có điều gì không ổn trong dịch vụ của tôi không?\nNếu ngài thấy bất cứ điều gì không vừa ý,\nthưa ngài, xin hãy thông báo ngay cho tôi.
+主さまがアメスさまの託宣を受けられている最中、\n一人で暇ではないか、ですか？\n主さまの寝顔を見られて、むしろ幸せでございます♪=Ngài hỏi tôi có thấy nhàm chán khi ngài trò chuyện\nvới tiểu thư Ameth không? Ồ, không. Nhìn gương mặt ngài\nđang ngủ khiến tôi chỉ cảm thấy hạnh phúc.♪
+主さま。もし寝つけないようなことがありましたら、\nわたくしが添い寝いたしますので仰ってくださいね\nそれにその…わたくしも独り寝は寂しいので…=Thưa ngài... nếu ngài gặp khó khăn trong việc ngủ,\nxin hãy cho tôi biết, và tôi sẽ vui vẻ nằm bên cạnh ngài,\nBởi sau cùng... tôi cũng không muốn ngủ một mình...
+主さまも、随分と生活に慣れてこられましたね…\nわたくしなど居なくても…え、ずっと一緒だよって…\nはいっ！　これからも全身全霊でお仕えいたします♪=Ngài đã quen với cuộc sống rồi, phải không,\nthưa ngài...? Ngay cả khi tôi không ở đây... Hả?\nChúng ta sẽ luôn ở bên nhau? Vâng!\nTôi sẽ tiếp tục phục vụ ngài hết mình♪
+あ、だからといって、急になでるのをやめなくても…\nきょ、今日はこのままにしていただき、明日からは、\nわたくしががんばったときに甘やかしてくださいまし♪=À... tôi không có ý ngài phải dừng ngay việc vuốt ve...\nHôm nay tôi sẽ cho phép, nhưng từ giờ trở đi, xin hãy\ntrì hoãn việc đó cho đến khi tôi vượt quá nhiệm vụ thông thường♪
+んもう…主さまは最近、わたくしを甘やかしすぎです\n主さまをお世話するのはわたくしにとって喜びであり、\nさらにご褒美をいただいていては天罰が下ります=Thật sự... dạo gần đây ngài đã chiều quá tôi rồi.\nChăm sóc ngài đã là niềm vui lớn nhất của tôi,\nnên việc nhận thêm phần thưởng là không nên.
+今日も主さまにお仕えできて、充実した一日でした♪\nわわっ…あ、主さま、なぜ急に頭をなでて…\nえ、今日もお世話になったから？=À, một ngày phục vụ thưa ngài thật đáng giá♪\nÀ... À, thưa ngài, sao ngài đột nhiên vuốt đầu tôi... Hả?\nĐể cảm ơn tôi vì đã giúp đỡ?

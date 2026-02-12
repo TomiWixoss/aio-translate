@@ -1,0 +1,34 @@
+##Profile##
+【魔法】後衛で特別な景色を共にする初夢超能力ガール。敵が物理攻撃を行う場合、攻撃性能の強化に加えて複数の弱体効果が追加され、攻守ともに味方を支援し敵を掃う。=[Phép] Một cô gái siêu nhiên đang trải nghiệm giấc mơ đầu tiên và thưởng thức cảnh quan ở hàng sau. Nếu kẻ địch dùng tấn công vật lý, cô ấy sẽ làm yếu chúng với nhiều debuffs đồng thời tăng cường đồng minh của mình, cho phép họ quét sạch kẻ địch một cách dễ dàng.
+
+##UB##
+ラッキーチャーム☆ドロップス=Lucky Charm☆Drops
+目の前の敵１キャラに魔法大ダメージを与え、味方全体の魔法攻撃力を大アップさせる。対象が物理攻撃をする敵だった場合、ダメージと攻撃力の上昇量がアップし、さらに物理攻撃力を大ダウンさせる。=Gây sát thương phép cực lớn lên kẻ địch phía trước và tăng cường mạnh mẽ M.ATK cho tất cả đồng minh. Nếu kẻ địch thuộc tính Vật lý (P-type), sát thương phép và tăng M.ATK sẽ tăng thêm, và cũng giảm mạnh P.ATK của kẻ địch.
+r:"^対象が魔法攻撃をする敵だった場合、味方全体の魔法攻撃力を(\d+)アップ対象が物理攻撃をする敵だった場合、味方全体の魔法攻撃力を(\d+)アップ対象の敵単体に(\d+)の魔法ダメージ対象の敵単体に(\d+)の魔法ダメージ対象が物理攻撃をする敵だった場合、物理攻撃力を(\d+)ダウン$"=Nếu kẻ địch thuộc tính Phép (M-type):\n►Tăng M.ATK cho tất cả đồng minh đi $1 trong 18 giây.\n►Gây $3 sát thương phép lên kẻ địch.\n\nNếu kẻ địch thuộc tính Vật lý (P-type):\n►Tăng M.ATK cho tất cả đồng minh đi $2 trong 18 giây.\n►Gây $4 sát thương phép lên kẻ địch.\n►Giảm P.ATK của kẻ địch đi $5 trong 18 giây.
+
+##S1##
+ドリーム☆シュート=Dream☆Shoot
+目の前の敵１キャラに魔法中ダメージを与える。対象が物理攻撃をする敵だった場合、ダメージがアップし、さらに物理攻撃力を大ダウン、魔法防御力を小ダウンさせ、クリティカルを受けた際のダメージを小アップさせる。=Gây sát thương phép trung bình lên kẻ địch phía trước. Nếu kẻ địch thuộc tính Vật lý (P-type), sát thương phép tăng lên, và cũng giảm mạnh P.ATK của kẻ địch, giảm nhẹ M.DEF và tăng nhẹ sát thương phép chí mạng mà kẻ địch nhận.
+r:"^対象の敵単体に(\d+)の魔法ダメージ対象の敵単体に(\d+)の魔法ダメージ対象が物理攻撃をする敵だった場合、物理攻撃力を(\d+)ダウン対象が物理攻撃をする敵だった場合、魔法防御力を(\d+)ダウン対象が物理攻撃をする敵だった場合、クリティカルを受けた際のダメージを5％アップ$"=Nếu kẻ địch thuộc tính Phép (M-type):\n►Gây $1 sát thương phép lên kẻ địch.\n\nNếu kẻ địch thuộc tính Vật lý (P-type):\n►Gây $2 sát thương phép lên kẻ địch.\n►Giảm P.ATK của kẻ địch đi $3 trong 12 giây.\n►Giảm M.DEF của kẻ địch đi $4 trong 12 giây.\n►Tăng sát thương phép chí mạng mà kẻ địch nhận thêm 5% trong 12 giây.
+
+##S1+##
+ドリーム☆シュート+=Dream☆Shoot+
+r:"^対象の敵単体に(\d+)の魔法ダメージ対象の敵単体に(\d+)の魔法ダメージ対象が物理攻撃をする敵だった場合、物理攻撃力を([0-9]+)ダウン対象が物理攻撃をする敵だった場合、魔法防御力を(\d+)ダウン対象が物理攻撃をする敵だった場合、被クリダメを5％アップ対象の敵単体に(\d+)の魔法ダメージ$"=►Gây $1 sát thương phép lên một kẻ địch đơn.\n►Gây $2 sát thương phép lên một kẻ địch đơn.\n\nNếu mục tiêu là kẻ tấn công vật lý:\n►Giảm P.ATK đi $3.\n►Giảm M.DEF đi $4.\n►Tăng sát thương chí mạng vật lý mà mục tiêu nhận thêm 5%.\n►Gây $5 sát thương phép lên một kẻ địch đơn.
+
+
+
+目の前の敵１キャラに魔法大ダメージを与える。対象が物理攻撃をする敵だった場合、ダメージがアップし、さらに物理攻撃力を大ダウン、魔法防御力を小ダウン、クリティカルを受けた際のダメージを小アップさせ、追加の魔法中ダメージを与える。=Gây sát thương phép lớn lên kẻ địch phía trước nhất. Nếu mục tiêu dùng tấn công vật lý, tăng sát thương, giảm mạnh P.ATK của chúng, giảm nhẹ M.DEF, tăng nhẹ sát thương chí mạng mà chúng nhận, và thêm một lần sát thương phép trung bình.
+
+
+
+
+##S2##
+ミラクル☆スパークル=Miracle☆Sparkle
+目の前の敵１キャラに魔法中ダメージを与え、味方全体の魔法攻撃力を大アップさせる。対象が物理攻撃をする敵だった場合、ダメージと攻撃力の上昇量がアップし、味方全体に物理無効バリアを展開する。=Gây sát thương phép trung bình lên kẻ địch phía trước và tăng cường mạnh mẽ M.ATK cho tất cả đồng minh. Nếu kẻ địch thuộc tính Vật lý (P-type), sát thương phép và tăng M.ATK sẽ tăng thêm, và cũng triển khai Barrier trên tất cả đồng minh, chống lại sát thương vật lý.
+r:"^対象が魔法攻撃をする敵だった場合、味方全体の魔法攻撃力を(\d+)アップ対象が物理攻撃をする敵だった場合、味方全体の魔法攻撃力を(\d+)アップ対象の敵単体に(\d+)の魔法ダメージ対象の敵単体に(\d+)の魔法ダメージ対象が物理攻撃をする敵だった場合(\d+)ダメージ分の物理無効バリアを展開する$"=Nếu kẻ địch thuộc tính Phép (M-type):\n►Tăng M.ATK cho đồng minh đi $1 trong 12 giây.\n►Gây $3 sát thương phép lên kẻ địch.\n\nNếu kẻ địch thuộc tính Vật lý (P-type):\n►Tăng M.ATK cho đồng minh đi $2.\n►Gây $4 sát thương phép lên kẻ địch.\n►Triển khai Barrier trên tất cả đồng minh, chống lại $5 sát thương vật lý trong 12 giây.
+
+##EX##
+ニューイヤー☆ドリーム=New Year☆Dream
+ニューイヤー☆ドリーム+=New Year☆Dream+
+
+ニューイヤー☆ミーティア=New Year's☆Meteor

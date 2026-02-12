@@ -1,0 +1,48 @@
+カスタムマイページ=Cài Đặt Nhà
+ストーリーイベント=Sự Kiện Cốt Truyện
+設定完了=Lưu
+順番入れ替え=Thứ Tự
+ミニゲーム=Mini Game
+カスタムマイページ1=Nhà Tùy Chỉnh 1
+カスタムマイページ2=Nhà Tùy Chỉnh 2
+カスタムマイページ3=Nhà Tùy Chỉnh 3
+カスタムマイページ4=Nhà Tùy Chỉnh 4
+カスタムマイページ5=Nhà Tùy Chỉnh 5
+変更=+
+はずす=-
+マイページに移動する\nたびにランダム表示する=Xáo trộn mỗi lần\ntrở về Màn hình chính
+BGM変更=Nhạc nền
+現在のBGM=♪Đang phát
+表示設定=Cài đặt hiển thị
+マイページBGM設定=Cài đặt nhạc nền
+初期BGMに戻す=Nhạc nền mặc định
+BGM購入へ=Mua nhạc nền
+変更確認=Xác nhận cài đặt
+並べ替えたい順に押してください。=Nhấn theo thứ tự bạn muốn sắp xếp.
+最低1つ以上設定する必要があります。=Phải có ít nhất một.
+
+
+アニメ内\n音声=Lồng tiếng\nHoạt hình
+
+マイページ1のBGMを初期設定に戻します。\nよろしいですか？=Đặt lại nhạc nền trên Màn hình chính 1 về cài đặt mặc định.
+
+BGM購入ページへ移動=Chuyển đến Cửa hàng nhạc nền
+[3C404E]BGM購入ページへ移動しますか?[-]=[3C404E]Bạn có muốn đến Cửa hàng nhạc nền?
+移動する=Chuyển
+[FF7C4E,D62146]設定を完了していないカスタムマイページ\n設定は破棄されます。[-]=[FF7C4E,D62146]Cài đặt Trang chủ tùy chỉnh chưa hoàn thành\nsẽ bị loại bỏ.[-]
+購入順=Đơn hàng
+発売順=Ngày phát hành
+曲名順=Tên bài hát
+
+---Sort---
+あ行=A, I, U, E, O, V, W
+か行=K/C/Q, G
+さ行=S/Z, J/Dj
+な行=N
+は行=H, B, V, F, P
+ま行=M
+や行=Y
+ら行=L, R
+わ行=Wa
+た行=T, D, Ch
+表示絞り込み=Bộ lọc

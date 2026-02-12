@@ -1,0 +1,32 @@
+##Profile##
+【物理】中衛でパーティの守りを支えるサンタアイドル。\nスキルで物理攻撃を無効化し、後方の味方が多いほど\n物理防御力を高めるユニオンバーストで生存力を高める。=[Vật Lý] Một thần tượng Giáng Sinh bảo vệ phòng thủ cho đồng minh từ vị trí trung lập. Kỹ năng của cô có thể vô hiệu hóa các đòn tấn công vật lý đang đến, và Union Burst của cô cung cấp buff phòng thủ càng lớn khi càng có nhiều đồng minh đứng phía sau cô.
+
+##UB##
+ライド・オン・クリスマス=Lên Đường Nào, Giáng Sinh!
+味方全体の物理防御力を小アップさせる。自分より後方にいる味方の人数に応じて、防御力の上昇量がアップする。=Tăng nhỏ Phòng Thủ Vật Lý cho tất cả đồng minh. Lượng tăng Phòng Thủ Vật Lý tỷ lệ với số lượng đồng minh đứng phía sau bản thân.
+
+##S1##
+クリスマスエール=Khí Thế Lễ Hội
+味方全体に物理無効バリアを展開する。=Triển khai một lá chắn vô hiệu hóa sát thương Vật Lý xung quanh tất cả đồng minh trong 18s.
+
+##S2##
+フロストスラッシュ=Chém Băng Giá
+フロストスラッシュ+=Chém Băng Giá+
+
+味方全体に物理/魔法無効バリアを展開する。さらに目の前の敵１キャラを中心とした範囲内の敵すべてに物理大ダメージを与え、長時間凍結させて大きく吹き飛ばす。=Triển khai một lá chắn vô hiệu hóa vật lý/phép thuật cho tất cả đồng minh. Ngoài ra, gây sát thương Vật Lý lớn lên tất cả kẻ địch trong vùng tròn tập trung lên kẻ địch phía trước, làm chúng đóng băng trong thời gian dài và đẩy lùi chúng rất mạnh.
+
+r:"^(\d+)ダメージ分の物理魔法無効バリアを展開する範囲内の敵に(\d+)の物理ダメージ範囲内の敵を一定時間行動不能にする$"=►Triển khai Lá Chắn lên tất cả đồng minh, hấp thụ $1 sát thương Vật Lý/Phép Thuật trong 12s.\n►Gây $2 sát thương Vật Lý lên kẻ địch trong phạm vi 400.\n►Gây hiệu ứng Đóng Băng lên kẻ địch trong phạm vi 400 trong 6s.\n►Đẩy lùi mục tiêu kẻ địch trong phạm vi 400 đi 600.
+
+
+##EX##
+イルミネイトスマイル=Nụ Cười Tỏa Sáng
+イルミネイトスマイル+=Nụ Cười Tỏa Sáng+
+
+##S1+##
+クリスマスエール+=Khí Thế Lễ Hội+
+自分のＨＰを小回復する。味方全体に物理無効バリアを展開し、物理防御力を小アップさせ、さらに継続ＨＰ回復状態を付与する。自分より後方にいる味方の人数に応じて、ＨＰ回復量と物理防御力の上昇量と継続ＨＰ回復量がアップする。=Hồi một chút HP của bản thân. Triển khai một lá chắn vô hiệu hóa sát thương Vật Lý lên tất cả đồng minh. Tăng Phòng Thủ Vật Lý của đồng minh, và ban cho họ khả năng hồi HP liên tục. Lượng HP hồi, Phòng Thủ Vật Lý và hiệu quả hồi HP liên tục tăng lên tỷ lệ với số lượng đồng minh đứng phía sau bản thân.
+r:"^自分のＨＰを(\d+)回復(\d+)ダメージ分の物理無効バリアを展開する味方全体の物理防御力を(\d+)アップ毎秒ＨＰを(\d+)回復する$"=►Hồi HP của bản thân đi $1.\n►Triển khai Lá Chắn lên tất cả đồng minh, vô hiệu hóa $2 sát thương Vật Lý trong 27s.\n►Tăng Phòng Thủ Vật Lý của đồng minh đi $3 trong 27s.\n►Hồi HP của đồng minh $4/giây trong 8.5s.
+
+##UE##
+聖霊剣セイントホープ=Kiếm Thánh Hy Vọng Nozomi
+ノゾミ担サイリウム=Đèn Cầu Vồng Của Fan Nozomi

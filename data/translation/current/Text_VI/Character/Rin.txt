@@ -1,0 +1,35 @@
+##Profile##
+リン=Rin
+【物理】中衛で物理パーティを強化するものぐさ少女。味方の物理攻撃力をアップしつつ、味方の魔法防御を高めることで攻守ともにパーティをサポートする。=[Vật lý] Một cô gái lười biếng tăng cường đội hình dựa trên vật lý từ vị trí giữa. Cung cấp hỗ trợ toàn diện bằng cách tăng tấn công vật lý và phòng thủ ma thuật cho đồng minh.
+
+遊びと睡眠が何より大事なぐうたら娘=Một kẻ lười biếng coi trọng chơi đùa và ngủ hơn mọi thứ
+
+##UB##
+お手製あんパンチャージ=Tăng Cường Bánh Ngọt Tự Làm
+味方全体のＨＰを小回復し、さらに物理攻撃力と魔法防御力を中アップさせる。=Hồi phục HP đồng minh một chút. Tăng nhẹ tấn công vật lý và phòng thủ ma thuật của họ.
+r:"^味方全体のＨＰを(\d+)回復味方全体の物理攻撃力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ$"=►Hồi phục $1 HP cho đồng minh.\n►Tăng $2 tấn công vật lý cho đồng minh trong 18s.\n►Tăng $3 phòng thủ ma thuật cho đồng minh trong 18s.
+
+##S1##
+果報は寝て待てモード=Kiên Nhẫn Là Đức Tính
+自分の周囲の味方すべての魔法防御力を大アップさせる。=Tăng mạnh phòng thủ ma thuật cho toàn bộ đồng minh gần đó.
+r:"^範囲内の味方の魔法防御力を(\d+)アップ$"=►Tăng $1 phòng thủ ma thuật cho đồng minh trong phạm vi 150 trong 12s.
+
+##S2##
+ドングリスローイング=Mưa Quả Công
+
+##EX##
+ドングリチャージ=Say Sưa Vì Quả Công
+ドングリチャージ+=Say Sưa Vì Quả Công+
+
+##UB+##
+あんパン・バケーション=Kỳ Nghỉ Bánh Anpan
+味方全体のＨＰを小回復し、物理攻撃力と魔法防御力を特大アップ、物理クリティカルを大アップ、ＴＰ上昇を小アップさせる。さらに次の攻撃のダメージ量に応じて追加でＨＰを回復させる。=Hồi phục HP đồng minh một chút, tăng mạnh tấn công vật lý, phòng thủ ma thuật và tỷ lệ chí mạng vật lý, đồng thời tăng nhẹ Tăng TP. Ngoài ra, trao hiệu ứng Hút HP cho toàn bộ đồng minh tương ứng với lượng sát thương của đòn tấn công tiếp theo.
+r:"^味方全体のＨＰを(\d+)回復味方全体の物理攻撃力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ味方全体の物理クリティカルを(\d+)アップ味方全体のＴＰ上昇を(\d+)アップ$"=►Hồi phục $1 HP cho đồng minh.\n►Áp dụng hiệu ứng Hút HP cho đòn tấn công tiếp theo của toàn bộ đồng minh.\n►Tăng $2 tấn công vật lý cho đồng minh trong 18s.\n►Tăng $3 phòng thủ ma thuật cho đồng minh trong 18s.\n►Tăng $4 tỷ lệ chí mạng vật lý cho đồng minh trong 18s.\n►Tăng $5 Tăng TP cho đồng minh trong 18s.
+
+##S1+##
+果報は寝て待てモード+=Kiên Nhẫn Là Đức Tính+
+自分の周囲の味方すべての魔法防御力を大アップさせ、さらに物理攻撃力を大アップ、物理クリティカルを中アップさせる。=Tăng mạnh phòng thủ ma thuật cho toàn bộ đồng minh gần đó, tăng trung bình tấn công vật lý của họ và tăng nhẹ tỷ lệ chí mạng vật lý.
+r:"^範囲内の味方の魔法防御力を(\d+)アップ範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理クリティカルを(\d+)アップ$"=Thời gian niệm: 0.59s\n►Tăng $1 phòng thủ ma thuật cho đồng minh trong phạm vi 250 trong 12s.\n►Tăng $2 tấn công vật lý cho đồng minh trong phạm vi 250 trong 12s.\n►Tăng $3 tỷ lệ chí mạng vật lý cho đồng minh trong phạm vi 250 trong 12s.
+
+##UE##
+ジュエリズムドングリ=Ngọc Rừng

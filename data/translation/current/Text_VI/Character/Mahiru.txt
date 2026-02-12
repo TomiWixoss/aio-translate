@@ -1,0 +1,39 @@
+##Profile## 
+みんなを笑顔にするお笑い牧場主=Một cô gái nông trại hài hước, thích làm mọi người cười.
+
+【物理】中衛で、相手の動きを乱す牧場主。敵前衛をノックバックさせることで、隊列を崩し、他のキャラが使う範囲攻撃の対象に敵を押し込む。=[Vật lý] Một nông dân phá rối chuyển động kẻ thù từ trung tuyến. Đẩy lùi kẻ thù ở hàng trước, đặt chúng vào phạm vi tấn công diện rộng của đồng minh.
+
+##UB## 
+エリザベス=Elizabeth
+目の前の敵１キャラに物理特大ダメージを与え、さらにスタンさせる。=Gây sát thương vật lý lớn cho kẻ thù ngay phía trước và gây choáng.
+
+##S1##
+ミルクタンクアタック=Milk Can Slam
+目の前の敵１キャラに物理小ダメージを与え、さらに小さく吹き飛ばす。=Gây sát thương vật lý nhỏ cho kẻ thù ngay phía trước và đẩy lùi nhẹ.
+
+##S2##
+フォークスラッシュ=Pitchfork Pummel
+目の前の敵１キャラに物理中ダメージを与え、さらに自分の物理攻撃力を小アップさせる。=Gây sát thương vật lý vừa phải cho kẻ thù ngay phía trước. Tăng nhẹ P.ATK của bản thân.
+
+##EX## 
+つかみの鉄板ネタ=Opening One-Liner
+つかみの鉄板ネタ+=Opening One-Liner+
+
+##UB+## 
+エリザベスコンビネーション=Elizabeth Combination
+目の前の敵１キャラに物理特大ダメージを与え、長時間スタンさせて大きく吹き飛ばし、さらにそのキャラを中心とした範囲内の敵すべてに物理大ダメージを与え、混乱させる。=Gây sát thương vật lý khổng lồ cho kẻ thù ngay phía trước và gây choáng cùng đẩy lùi mục tiêu. Sau đó, gây sát thương vật lý lớn cho tất cả kẻ thù ở hàng trước và gây bối rối cho các mục tiêu.
+r:"^敵単体に(\d+)の物理ダメージ敵単体を一定時間行動不能にする範囲内の敵に(\d+)の物理ダメージ範囲内の敵を混乱させる$"=►Gây $1 sát thương vật lý cho kẻ thù.\n►Gây choáng cho kẻ thù trong 5s.\n►Đẩy lùi kẻ thù 300 đơn vị.\n►Gây $2 sát thương vật lý cho kẻ thù trong phạm vi 300.\n►Gây bối rối cho kẻ thù trong phạm vi 300 trong 4s.
+
+##S1+## 
+ミルクタンクアタック+=Milk Can Slam+
+目の前の敵１キャラに物理大ダメージを与え、さらに混乱状態を付与し、大きく吹き飛ばす。=Gây sát thương vật lý vừa phải cho kẻ thù ngay phía trước, gây bối rối, và đẩy lùi chúng một khoảng xa.
+r:"^敵単体に(\d+)の物理ダメージ敵単体を混乱させる$"=►Gây $1 sát thương vật lý cho kẻ thù.\n►Gây bối rối cho kẻ thù.
+
+##S2+## 
+フォークスラッシュ+=Pitchfork Pummel+
+目の前の敵１キャラに物理大ダメージを与え、スタンさせる。さらに自分の物理攻撃力を大アップさせる。=Gây sát thương vật lý cho kẻ thù phía trước và gây choáng. Đồng thời, tăng sức mạnh tấn công vật lý của bản thân.
+r:"^敵単体に(\d+)の物理ダメージ敵単体を一定時間行動不能にする自分の物理攻撃力を(\d+)アップ$"=Thời gian niệm: 1.4s\n►Gây $1 sát thương vật lý cho kẻ thù.\n►Gây choáng cho kẻ thù trong 1s.\n►Tăng P.ATK của bản thân lên $2 trong 12s.
+
+##UE##
+エリザベスポンチョ=Elizabeth Poncho
+特濃【牧場】ミルク=Sữa [b]Ranch[/b] siêu đặc

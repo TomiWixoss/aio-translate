@@ -1,0 +1,51 @@
+##Profile##
+【物理】中衛で、万有を自在に創造する『迷宮女王』。七冠としての権能を解放するユニオンバーストで自身を極大に強化し比類ない攻撃能力で仇なす者を剿滅する。=[Vật Lý] Một tấn công tầm trung, "Nữ Hoàng Mê Cung" có thể tạo ra bất cứ thứ gì theo ý muốn. Với Union Burst mở khóa quyền năng Seven Crowns, cô ấy tự tăng cường đến mức tối đa và loại bỏ kẻ địch với sức mạnh tấn công vô song.
+
+秘密結社ラビリンスの『迷宮女王』="Nữ Hoàng Mê Cung" của Hội Mê Cung Bí Mật
+
+##UB##
+オブジェクトクリエイション=Object Creation
+自分の物理攻撃力と物理クリティカルを特大アップする。さらに七冠の権能を解放し、味方の物理攻撃クリティカル時のダメージを小アップする。=Tăng mạnh sức tấn công vật lý và sát thương chí mạng vật lý của bản thân. Ngoài ra, mở khóa quyền năng của Seven Crowns, tăng sát thương gây ra bởi đòn tấn công chí mạng vật lý của đồng đội.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを(\d+)アップ物理攻撃クリティカル時のダメージを(\d+)％アップさせるフィールドを展開する$"=►Tăng P.ATK của bản thân lên $1.\n►Tăng P.CRIT Rate của bản thân lên $2.\n►Triển khai một trường tăng sát thương chí mạng lên $3%.\n►Chuyển sang Mẫu Hình Tấn Công 2.
+
+##S1##
+オプティマイズ=Optimize
+味方全体の物理攻撃力を大アップさせ、物理クリティカルを中アップさせる。=Tăng mạnh sức tấn công vật lý của tất cả đồng đội, và tăng vừa phải tỷ lệ chí mạng vật lý của tất cả đồng đội.
+
+##S2##
+ビルド=Build
+
+##SP1##
+イニシャライズ=Initialization
+このスキルのスキルレベルは「オブジェクトクリエイション」と連動しています=Cấp độ kỹ năng này liên kết với "Object Creation"
+敵全体に物理特大ダメージを与え、七冠の権能を解除する。自分のＴＰを-1000する。=Gây sát thương vật lý lớn lên tất cả kẻ địch và khóa quyền năng của Bảy Vương Miện. Giảm 1000 TP của bản thân.
+r:"^敵全体に(\d+)の物理ダメージ自分のＴＰを1000失わせる七冠の権能を解除する$"=►Gây $1 sát thương vật lý lên tất cả kẻ địch.\n►Giảm 1000 TP của bản thân.\n►Khóa quyền năng của Bảy Vương Miện (Chuyển sang Mẫu Tấn Công 1).
+
+##SP2##
+アクセラレーション=Tăng Tốc
+味方全体の物理攻撃力を特大アップさせ、物理クリティカルを中アップさせ、行動速度を大アップさせる。=Tăng cường mạnh mẽ sức tấn công vật lý cho tất cả đồng minh, tăng trung bình tỷ lệ chí mạng vật lý, và tăng rất mạnh tốc độ hành động của tất cả đồng minh.
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の物理クリティカルを75アップ味方全体の行動速度をアップ$"=Thời gian niệm: 0.00s\n►Tăng P.ATK của đồng minh lên $1 trong 12s.\n►Tăng Tỷ lệ P.CRIT của đồng minh lên 75 trong 12s.\n►Tăng tốc độ hành động của đồng minh lên 150% trong 12s.
+
+##SP3##
+エクスポート=Export
+目の前の敵１キャラに物理大ダメージを与え、さらに物理防御力を小ダウンさせる。=Gây một lượng lớn sát thương vật lý lên kẻ địch đầu tiên phía trước, và đồng thời giảm nhẹ P.DEF của chúng.
+
+##EX##
+クイーンズドメイン=Queen's Domain
+クイーンズドメイン+=Queen's Domain+
+
+##S1+##
+オプティマイズ+=Optimize+
+味方全体の物理攻撃力を特大アップさせ、物理クリティカルを中アップさせる。さらに自分のＴＰを中回復する。=Tăng cường mạnh mẽ sức tấn công vật lý cho tất cả đồng minh, và tăng trung bình tỷ lệ chí mạng vật lý của tất cả đồng minh. Ngoài ra, phục hồi trung bình TP của bản thân.
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の物理クリティカルを(\d+)アップ自分のＴＰを200回復$"=Thời gian niệm: 0.59s\n►Tăng P.ATK của đồng minh lên $1 trong 12s.\n►Tăng Tỷ lệ P.CRIT của đồng minh lên $2 trong 12s.\n►Phục hồi 200 TP cho bản thân.
+
+##SP2+##
+アクセラレーション+=Acceleration+
+味方全体の物理攻撃力を特大アップさせ、物理クリティカルを大アップさせ、行動速度を大アップさせる。=Tăng rất mạnh sức tấn công vật lý, tỷ lệ chí mạng vật lý và tốc độ hành động của tất cả đồng minh.
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の物理クリティカルを100アップ味方全体の行動速度をアップ$"=Thời gian niệm: 0.00s\n►Tăng P.ATK của đồng minh lên $1 trong 12s.\n►Tăng Tỷ lệ P.CRIT của đồng minh lên 100 trong 24s.\n►Tăng tốc độ hành động của đồng minh lên 200% trong 24s.
+
+味方全体の物理攻撃力を特大アップさせ、物理クリティカルを大アップさせ、行動速度を大アップさせる。このスキルのスキルレベルは「オブジェクトクリエイション」と連動しています=Tăng rất mạnh sức tấn công vật lý, tỷ lệ chí mạng vật lý và tốc độ hành động của tất cả đồng minh. Cấp độ kỹ năng này được liên kết với "Object Creation".
+
+##UE##
+クイーンズコンソール=Queen's Console
+権能解放中=Upon Authority Unlock

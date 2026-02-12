@@ -1,0 +1,46 @@
+##Profile##
+小説執筆=Viết Tiểu Thuyết
+
+【魔法】中衛から圧倒的な魔力で攻撃する、疾風の冥姫。ユニオンバーストで敵全体に大ダメージを与えるが、高すぎる魔力の為、自分自身にも相応のリスクが生じる。=[Phép Thuật] Hecate of the Gale tấn công từ trung tuyến với sức mạnh phép thuật áp đảo. UB của cô gây sát thương khổng lồ cho toàn đội địch, nhưng sức mạnh phép thuật quá mức của cô là rủi ro lớn ngay cả với chính cô.
+
+前世を信じる中二病患者、「疾風の冥姫」=Một cô gái ảo tưởng tin rằng mình là một anh hùng tên "Hecate of the Gale" trong kiếp trước
+
+邂逅、閃光のシグルド！=Sigurd! Gặp Lại Nhau!
+盟友との共同戦線=Đồng Đội Trên Chiến Trường
+喪った記憶の在処=Tìm kiếm ký ức đã mất
+異世界で出会う二人=Tiếng Vọng Từ Vương Quốc Xa Xôi
+魔狼のごとく駆け抜けろ！=Bay Như Con Chó Địa Ngục Rực Lửa!
+なくした自分を取り戻せ！=Tìm Kiếm Vinh Quang Quá Khứ
+「組織」との対決=Sự Trỗi Dậy Của Tổ Chức
+前世での関係=Mối Quan Hệ Quá Khứ
+
+##UB##
+羅刹涅槃・極光終天冥壊破=Raksha Nirvana: Bình Minh Tận Thế
+敵全体に魔法中ダメージを与えるが、使用後アンナの物理防御力と魔法防御力が特大ダウンする。=Gây sát thương ma thuật vừa phải cho tất cả kẻ địch. Giảm phòng thủ vật lý và phòng thủ ma thuật của bản thân một lượng lớn sau khi dùng.
+and M.DEF by a massive amount after use.
+r:"^敵全体に(\d+)の魔法ダメージ自分の物理防御力を0にする自分の魔法防御力を0にする$"=►Gây $1 sát thương ma thuật cho tất cả kẻ địch.\n►Giảm phòng thủ vật lý của bản thân xuống 0 trong 99s.\n►Giảm phòng thủ ma thuật của bản thân xuống 0 trong 99s.\n►Làm bản thân bị choáng trong 2s.
+
+##S1##
+羅刹涅槃・無式=Raksha Nirvana: Vô Cực
+目の前の敵１キャラに魔法中ダメージを与える。=Gây sát thương phép trung bình lên kẻ địch phía trước.
+
+##S2##
+冥空天昇=Sự Tham Nhập Của Hư Không
+【自爆】アンナのＨＰが最大ＨＰの１０％以下になった時に発動し、周囲の敵すべてに魔法大ダメージを与えるが、自身は戦闘不能になる。=[Tự Hủy] Kích hoạt khi HP giảm xuống 10% hoặc thấp hơn. Gây sát thương ma thuật lớn cho tất cả kẻ địch trong phạm vi nhưng đánh bật bản thân ra khỏi trận.
+r:"^範囲内の敵に(\d+)の魔法ダメージ$"=►Gây $1 sát thương ma thuật cho kẻ địch trong phạm vi.
+
+##EX##
+覇叉冥滅獄炎呪=Ngọn Lửa Địa Ngục Của Bạo Chúa
+覇叉冥滅獄炎呪+=Ngọn Lửa Địa Ngục Của Bạo Chúa+
+
+##UB+##
+羅刹涅槃・《覇極》万象無尽冥壊破=Raksha Nirvana: Thế Giới Song Song Kết Thúc
+自分の魔法攻撃力を短時間特大アップさせ、敵全体に魔法特大ダメージを与えるが、使用後アンナの物理防御力と魔法防御力が特大ダウンする。=Tạm thời tăng cường mạnh mẽ sức mạnh ma thuật của Anna, gây sát thương ma thuật khủng khiếp cho tất cả kẻ địch, nhưng sau khi dùng, phòng thủ vật lý và phòng thủ ma thuật của Anna sẽ giảm mạnh.
+r:"^自分の魔法攻撃力を(\d+)アップ敵全体に(\d+)の魔法ダメージ自分の物理防御力を初期値の100%ダウン自分の魔法防御力を初期値の100%ダウン$"=►Tăng sức mạnh ma thuật của bản thân lên $1 trong 8s.\n►Gây $2 sát thương ma thuật cho tất cả kẻ địch.\n►Giảm phòng thủ vật lý của bản thân xuống 0 trong 99s.\n►Giảm phòng thủ ma thuật của bản thân xuống 0 trong 99s.\n
+
+##S1+##
+羅刹涅槃・無式+=Raksha Nirvana: Vô Cực+
+目の前の敵１キャラに魔法中ダメージを与え、さらに魔法防御力を小ダウンさせる。=Gây sát thương ma thuật vừa phải cho kẻ địch đứng ngay phía trước và giảm phòng thủ ma thuật của chúng một chút.
+
+##UE##
+螺旋霊撃疾風飛剣=Lưỡi Gió Xoáy Trời

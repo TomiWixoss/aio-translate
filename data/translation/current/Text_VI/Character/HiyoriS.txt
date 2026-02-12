@@ -1,0 +1,29 @@
+##Profile##
+【物理】前衛で皆にエールを送り鼓舞する真夏の元気娘。味方のＨＰを継続回復し行動速度アップの他、味方の数に応じてクリティカル強化と攻撃力を引き上げ勝利に導く。=[Vật Lý] Một cô gái vui tươi tận hưởng mùa hè rực rỡ, người khích lệ và truyền cảm hứng cho đồng đội từ tuyến đầu. Cô liên tục hồi HP cho đồng đội, tăng Tốc Độ Hành Động của họ, và dẫn dắt họ đến chiến thắng bằng cách tăng cường đòn chí mạng và tăng sức mạnh tấn công dựa trên số lượng đồng đội còn lại.
+
+##UB##
+ヒヨリチアーサンシャイン=Hiyori Nắng Hè Vui Vẻ
+自分を中心とした範囲内の味方すべての物理攻撃力と物理クリティカルを中アップし、物理攻撃クリティカル時のダメージを小アップする。範囲内の味方の人数に応じて、物理攻撃力と物理クリティカルの上昇量が増加する。=Tăng vừa phải Tấn Công Vật Lý (P.ATK) và Tỷ Lệ Chí Mạng (P.CRIT Rate) cho đồng đội trong phạm vi, và nhẹ nhàng tăng Sát Thương Chí Mạng (P.CRIT DMG) của họ. Mức tăng Tấn Công Vật Lý (P.ATK) và Tỷ Lệ Chí Mạng (P.CRIT Rate) tăng lên theo số lượng đồng đội trong phạm vi.
+r:"^範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理クリティカルを20アップ範囲内の味方の物理攻撃クリティカル時のダメージを3％アップ$"=►Tăng Tấn Công Vật Lý (P.ATK) của đồng đội trong phạm vi 80 lên $1 (+$1×Số Đồng Đội) trong 18s.\n►Tăng Tỷ Lệ Chí Mạng (P.CRIT Rate) của đồng đội trong phạm vi 80 lên 20 (+20×Số Đồng Đội) trong 18s.\n►Tăng Sát Thương Chí Mạng (P.CRIT DMG) của đồng đội trong phạm vi 80 lên 3% trong 18s.
+
+##S1##
+肉球スプラッシュ=Vũ Điệu Móng Vuốt
+自分を中心とした範囲内の味方すべての物理攻撃力を小アップし、行動速度を大アップする。範囲内の味方の人数に応じて、物理攻撃力の上昇量が増加する。=Nhẹ nhàng tăng Tấn Công Vật Lý (P.ATK) của đồng đội trong phạm vi, và tăng mạnh Tốc Độ Hành Động của họ. Mức tăng Tấn Công Vật Lý (P.ATK) tăng lên theo số lượng đồng đội trong phạm vi.
+r:"^範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の行動速度アップ$"=Thời gian niệm: 0.59s.\n►Tăng Tấn Công Vật Lý (P.ATK) của đồng đội trong phạm vi 80 lên $1 (+$1×Số Đồng Đội) trong 12s.\n►Tăng Tốc Độ Hành Động của đồng đội trong phạm vi 80 lên 150% trong 12s.
+
+##S2##
+ハートリィハイブイ=Trái Tim Vui Vẻ Cao Trào
+自分を中心とした範囲内の味方すべてのＨＰを小回復し、継続ＨＰ回復状態を付与する。=Hồi một lượng nhỏ HP cho đồng đội trong phạm vi, và trao cho họ khả năng hồi HP liên tục.
+r:"^範囲内の味方のＨＰを(\d+)回復毎秒ＨＰを(\d+)回復する$"=Thời gian niệm: 0.59s\n►Hồi HP cho đồng đội trong phạm vi 80 lên $1.\n►Hồi HP cho đồng đội trong phạm vi 80 lên $2/giây trong 10.5s.
+
+##EX##
+ミッドサマーエール=Cùng Cảm Xúc Mùa Hè
+ミッドサマーエール+=Cùng Cảm Xúc Mùa Hè+
+
+##S1+##
+肉球スプラッシュ+=Vũ Điệu Móng Vuốt+
+自分を中心とした範囲内の味方すべての物理攻撃力を大アップ、物理クリティカルを小アップし、行動速度を大アップする。範囲内の味方の人数に応じて、物理攻撃力と物理クリティカルの上昇量が増加する。=Tăng mạnh Tấn Công Vật Lý (P.ATK) của đồng đội trong phạm vi, nhẹ nhàng tăng Tỷ Lệ Chí Mạng (P.CRIT Rate) của họ, và tăng mạnh Tốc Độ Hành Động của họ. Mức tăng Tấn Công Vật Lý (P.ATK) và Tỷ Lệ Chí Mạng (P.CRIT Rate) tăng lên theo số lượng đồng đội trong phạm vi.
+r:"^範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理クリティカルを10アップ範囲内の味方の行動速度アップ$"=►Tăng Tấn Công Vật Lý (P.ATK) của đồng đội trong phạm vi 80 lên $1 (+$1×Số Đồng Đội) trong 12s.\n►Tăng Tỷ Lệ Chí Mạng (P.CRIT Rate) của đồng đội trong phạm vi 80 lên 10 (+10×Số Đồng Đội) trong 12s.\n►Tăng Tốc Độ Hành Động của đồng đội trong phạm vi 80 lên 150% trong 12s.
+
+##UE##
+トゥインクルサマービキニ=Bikini Mùa Hè Lấp Lánh

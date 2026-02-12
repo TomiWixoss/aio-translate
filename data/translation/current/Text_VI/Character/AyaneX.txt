@@ -1,0 +1,33 @@
+##Profile##
+【物理】前衛で、敵をなぎ倒していく聖夜のくまっ子。ユニオンバーストはＨＰを消費するが威力は絶大。スキルで物理攻撃力を上げ、さらにダメージアップ。=[Vật lý] Một cô gái yêu gấu không ngần ngại xé nát kẻ thù trong đêm tưởng chừng im lặng này. Union Burst của cô ấy tiêu hao HP của chính mình để đạt được sức mạnh kinh ngạc, và kỹ năng của cô ấy tăng tấn công vật lý để gây thêm nhiều sát thương.
+
+##UB##
+ぷうきちサンタ・ストーム=Pukichi Santa Storm
+目の前の敵１キャラに物理特大ダメージを与えるが、自分のＨＰを消費する。=Gây sát thương vật lý cực lớn cho kẻ địch ngay phía trước, với cái giá là HP.
+r:"^敵単体に(\d+)の物理ダメージ自分のＨＰを(\d+)消費$"=►Gây $1 sát thương vật lý cho kẻ địch. ►Giảm HP của bản thân đi $2.
+
+##S1##
+ぷうきちエール=Pukichi Cheering
+自分の物理攻撃力を大アップさせる。=Tăng cực lớn P.ATK của bản thân.
+
+##S2##
+ぷうきちラッシュ=Pukichi Rush
+目の前の敵１キャラに物理中ダメージを与え、さらに小さく吹き飛ばす。=Gây sát thương vật lý vừa lên kẻ địch phía trực tiếp và đẩy lùi chúng một chút.
+
+##EX##
+ホーリーナイトスラッガー=Holy Night Slugger
+ホーリーナイトスラッガー+=Holy Night Slugger+
+
+##S1+##
+ぷうきちエール+=Pukichi Cheering+
+自分の物理攻撃力を特大アップさせ、さらに行動速度を大アップさせる。=Tăng cực lớn P.ATK của bản thân và tăng rất nhiều tốc độ hành động.
+r:"^自分の物理攻撃力を(\d+)アップ自分の行動速度アップ$"=►Tăng P.ATK của bản thân bằng $1.\n►Tăng tốc độ hành động của bản thân.
+
+##S2+##
+ぷうきちラッシュ+=Pukichi Rush+
+目の前の敵１キャラに物理特大ダメージを与え、クリティカルを受けた際のダメージを小アップさせ、小さく吹き飛ばす。さらに、自分の物理攻撃力を特大アップさせ、ＴＰを大回復し、【ぷうきちクッション】を付与する。【ぷうきちクッション】が付与されている間、ユニオンバーストで消費するＨＰは残りＨＰの40％になる。=Gây sát thương vật lý cực lớn cho kẻ địch phía trước và thổi bay chúng nhẹ nhàng, tăng nhẹ Sát thương chí mạng vật lý. Ngoài ra, tăng cực lớn P.ATK của bản thân, hồi rất nhiều TP, và cấp [Pukichi Cushion] (UB tiêu hao HP trở thành 40% HP còn lại).
+r:"^敵単体に(\d+)の物理ダメージ敵単体のクリティカルを受けた際のダメージを14％アップ自分の物理攻撃力を(\d+)アップ自分のＴＰを500回復自分にぷうきちクッションを付与する$"=►Gây $1 sát thương vật lý cho một kẻ địch đơn. ►Đẩy lùi kẻ địch 200 đơn vị. ►Tăng Sát thương chí mạng của bản thân lên 14% trong 12s. ►Tăng P.ATK của bản thân lên $2 trong 180s. ►Hồi TP của bản thân 500. ►Cấp Pukichi Cushion cho bản thân.
+
+##UE#
+クリスマス王ぷうきち=Pukichi, King of Christmas
+ぷうきちスノーマン=Pukichi Snowman

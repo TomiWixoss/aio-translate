@@ -1,0 +1,29 @@
+##Profile##
+【魔法】後衛から、優雅に味方を支援するマホ先生。物理攻撃をする味方の攻撃力アップや、最遠の味方のＴＰを回復するスキルで、しゃなりしゃなりと戦況を変える。=[Ma Thuật] Maho-sensei hỗ trợ đồng minh một cách duyên dáng từ hậu phương. Với kỹ năng tăng sức mạnh tấn công vật lý cho đồng minh thuộc type P và hồi TP cho đồng minh xa nhất, cô thay đổi cục diện trận đấu một cách mạnh mẽ.
+
+##UB##
+メルヘンダンスステージ=Fairy-tale Dance Stage
+物理攻撃をする味方全員の物理攻撃力と自分の魔法攻撃力を中アップさせ、さらに魔法攻撃をするすべての敵の物理防御力と魔法攻撃力を中ダウンさせる。自分の魔法攻撃力が高い程、攻撃力の上昇量がアップする。=Tăng vừa phải P.ATK cho tất cả đồng minh type P và tăng M.ATK của bản thân một lượng vừa phải, đồng thời giảm vừa phải P.DEF và P.ATK của tất cả kẻ địch type M. Lượng tăng M.ATK tỷ lệ với M.ATK của bản thân.
+r:"^対象の味方の物理攻撃力を(\d+)アップ自分の魔法攻撃力を(\d+)アップ魔法攻撃をする敵の物理防御力を(\d+)ダウン魔法攻撃をする敵の魔法攻撃力を(\d+)ダウン$"=►Tăng P.ATK cho tất cả đồng minh type P lên $1 trong 18s.\n►Tăng M.ATK của bản thân lên $2 (+0.27×M.ATK) trong 18s.\n►Giảm P.DEF của tất cả kẻ địch type M lên $3 trong 18s.\n►Giảm M.ATK của tất cả kẻ địch type M lên $4 trong 18s.
+
+##S1##
+マホマホフラワーサークル=Maho-Maho Flower Circle
+最も物理攻撃力が高い味方１キャラの物理攻撃力を中アップさせる。自分の魔法攻撃力が高い程、攻撃力の上昇量がアップする。=Tăng vừa phải P.ATK cho đồng minh có P.ATK cao nhất. Lượng tăng P.ATK tỷ lệ với M.ATK của bản thân.
+
+##S2##
+マホマホハピネスタクト=Maho-Maho Happiness Tact
+最も遠くの味方1キャラのＴＰを小回復させる。=Hồi TP một chút cho đồng minh xa nhất.
+## 260lvl
+最も遠くの味方1キャラのＴＰを小回復し、物理攻撃力を小アップさせる。=Hồi TP một chút và tăng P.ATK một chút cho đồng minh xa nhất.
+
+##EX##
+メルヘンプリズム=Fairy-tale Prism
+メルヘンプリズム+=Fairy-tale Prism+
+
+##S1+##
+マホマホフラワーサークル+=Maho-Maho Flower Circle+
+最も物理攻撃力が高い味方１キャラの物理攻撃力を大アップさせ、ＴＰ上昇を小アップさせる。自分の魔法攻撃力が高い程、物理攻撃力の上昇量がアップする。=Tăng lớn P.ATK cho đồng minh có P.ATK cao nhất, và tăng nhỏ TP Boost của họ. Lượng tăng P.ATK tỷ lệ với M.ATK của bản thân.
+r:"^味方単体の物理攻撃力を(\d+)アップ味方単体のＴＰ上昇を(\d+)アップ$"=►Tăng P.ATK của đồng minh lên $1 (+0.375×M.ATK) trong 12s.\n►Tăng TP Boost của đồng minh lên $2 trong 12s.
+
+##UE##
+マホマホメルヘンドレス=Maho-Maho Fairy-tale Dress

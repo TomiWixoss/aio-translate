@@ -1,0 +1,53 @@
+##Profile##
+強敵との闘争=Đấu với các đối thủ mạnh
+傍若無人な王宮騎士団副団長=Phó Đội Trưởng táo bạo của Nightmare
+
+【物理】前衛で、絶対的な制圧力を誇る『誓約女君』。攻防一体かつ超大な破壊力を誇るユニオンバーストと、その発動を加速するＴＰ上昇アップスキルを併せ持つ。=[Vật Lý] Bà chúa Regina Geas vô song, thi triển quyền lực từ tuyến đầu. Union Burst khủng khiếp hủy diệt kẻ thù và bảo vệ cô khỏi tổn thương, nhờ kỹ năng tăng TP, cô có thể sử dụng nó với tần suất đáng sợ.
+
+『七冠』の余暇は３０分=30 Phút Nghỉ Ngơi Của Bảy Vương Miện
+絶対の誓約=Một Lời Nguyền Tuyệt Đối
+命がけの余興=Một Sự Xao Lộng Chết Người
+ワガママ副団長は問題児=Phó Đội Trưởng Gây Rắc Rối
+
+押しかけ新婚生活=Thúc Đẩy Cuộc Sống Tân Duyên
+ある家出少女の翻意=Sự Thay Đổi Tâm Trí Của Kẻ Trốn Chạy
+女傑のツケ=Động Cơ Của Người Phụ Nữ Dũng Cảm
+つがいの絆=Mối Ràng Buộc Của Cặp Đôi
+
+##UB##
+ナンバーズアヴァロン=Numbers Avalon
+目の前の敵１キャラに物理大ダメージを与え、さらに自分は一定時間全ての物理攻撃を回避する。この攻撃は必ず命中し、クリティカルする。=Gây sát thương vật lý (P.DMG) lớn lên kẻ địch phía trước và né mọi đòn tấn công vật lý (P.ATK) trong một khoảng thời gian nhất định. Đòn tấn công này không thể trượt và luôn là đòn chí mạng.
+r:"^敵単体に(\d+)の物理ダメージ一定時間全ての物理攻撃を回避する$"=►Gây $1 P.DMG khó tránh lên kẻ địch.\n►Né mọi đòn tấn công vật lý (P.ATK) trong 3(+0.01×Lv) giây.
+## 260lvl
+目の前の敵１キャラに物理大ダメージを与え、自分の物理攻撃力を小アップする。さらに自分は一定時間全ての物理攻撃を回避する。この攻撃は必ず命中し、クリティカルする。=Gây sát thương vật lý (P.DMG) lớn lên kẻ địch phía trước và né mọi đòn tấn công vật lý (P.ATK) trong một khoảng thời gian nhất định. Đòn tấn công này không thể trượt và luôn là đòn chí mạng. Đồng thời, tăng nhẹ tấn công vật lý (P.ATK) của bản thân.
+r:"^敵単体に(\d+)の物理ダメージ一定時間全ての物理攻撃を回避する自分の物理攻撃力を{0}アップ$"=►Gây $1 P.DMG khó tránh lên kẻ địch.\n►Né mọi đòn tấn công vật lý (P.ATK) trong 3(+0.01×Lv) giây.\n►Tăng P.ATK của bản thân lên $2 trong 18 giây.
+
+##S1##
+オーバーレイ=Overlay
+自分の物理攻撃力を中アップさせ、さらにＴＰ上昇を小アップさせる。=Tăng vừa phải tấn công vật lý (P.ATK) và tăng nhỏ TP Boost của bản thân.
+r:"^自分の物理攻撃力を(\d+)アップ自分のＴＰ上昇を(\d+)アップ$"=►Tăng P.ATK của bản thân lên $1.\n►Tăng TP Boost của bản thân lên $2.
+
+##S2##
+インジェクション=Injection
+目の前の敵１キャラに物理中ダメージを与え、さらに物理防御力を小ダウンさせる。=Gây sát thương vật lý (P.DMG) vừa phải lên kẻ địch phía trước và giảm nhỏ P.DEF của chúng.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン$"=►Gây $1 sát thương vật lý cho kẻ địch.\n►Giảm phòng thủ vật lý của kẻ địch đi $2.
+
+##EX##
+イグナイトエグゼ=Ignition EX
+イグナイトエグゼ+=Ignition EX+
+
+##UB+##
+アルティマスアヴァロン=Ultimus Avalon
+目の前の敵１キャラに物理防御力を一定値無視する物理大ダメージを２回与え、物理防御力を小ダウンさせる。さらに自分は一定時間全ての物理攻撃を回避する。この攻撃は必ず命中し、クリティカルする。=Gây hai đòn sát thương vật lý (P.DMG) khổng lồ lên kẻ địch phía trước, bỏ qua một phần P.DEF của chúng và giảm nhẹ P.DEF của chúng. Người dùng cũng được né mọi đòn tấn công vật lý (P.ATK) trong một khoảng thời gian. Đòn tấn công này không thể trượt và luôn là đòn chí mạng.
+r:"^敵単体に物理防御力を(\d+)無視する(\d+)の物理ダメージ敵単体に物理防御力を(\d+)無視する(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン一定時間全ての物理攻撃を回避する$"=►Gây $2 P.DMG khó tránh lên kẻ địch, bỏ qua $1 P.DEF của chúng.\n►Gây $4 P.DMG khó tránh lên kẻ địch, bỏ qua $3 P.DEF của chúng.\n►Giảm P.DEF của kẻ địch đi $5 trong 18 giây.\n►Né mọi đòn tấn công vật lý (P.ATK) trong 3(+0.01×Lv) giây.
+## 260lvl
+目の前の敵１キャラに物理防御力を一定値無視する物理大ダメージを２回与え、物理防御力を小ダウンさせる。さらに自分の物理攻撃力を小アップし、一定時間全ての物理攻撃を回避する。この攻撃は必ず命中し、クリティカルする。=Gây hai đòn sát thương vật lý (P.DMG) khổng lồ lên kẻ địch phía trước, bỏ qua một phần P.DEF của chúng và giảm nhẹ P.DEF của chúng. Tăng nhẹ P.ATK của bản thân. Người dùng cũng được né mọi đòn tấn công vật lý (P.ATK) trong một khoảng thời gian. Đòn tấn công này không thể trượt và luôn là đòn chí mạng.
+r:"^絶氷中、敵単体に(\d+)の物理ダメージ絶氷中、敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ絶氷中、敵単体の物理防御力を(\d+)ダウン敵単体の物理防御力を(\d+)ダウン絶氷中、敵単体の被クリダメを8％アップ$"=►Gây $2 P.DMG khó tránh lên kẻ địch, bỏ qua $1 P.DEF của chúng.\n►Gây $4 P.DMG khó tránh lên kẻ địch, bỏ qua $3 P.DEF của chúng.\n►Giảm P.DEF của kẻ địch đi $5 trong 18 giây.\n►Né mọi đòn tấn công vật lý (P.ATK) trong 3(+0.01×Lv) giây.\n►Tăng P.ATK của bản thân lên $6.
+
+##S1+##
+オーバーレイ+=Overlay+
+自分の物理攻撃力を特大アップさせ、ＴＰ上昇を中アップさせ、ＴＰを中回復し、さらに物理攻撃クリティカル時のダメージを小アップさせる。=Tăng lớn P.ATK của bản thân. Tăng vừa phải TP Boost của bản thân. Hồi một lượng lớn TP của bản thân và tăng nhỏ sát thương chí mạng vật lý của bản thân.
+r:"^自分の物理攻撃力を(\d+)アップ自分のＴＰ上昇を(\d+)アップ自分のＴＰを(\d+)回復自分の物理攻撃クリティカル時のダメージを10％アップ$"=►Tăng P.ATK của bản thân lên $1.\n►Tăng TP Boost của bản thân lên $2 trong 15 giây.\n►Hồi TP của bản thân lên $3.\n►Tăng P.CRIT DMG của bản thân lên 10% trong 180 giây.
+
+##UE##
+聖域剣アヴァロン=Sanctum Blade Avalon

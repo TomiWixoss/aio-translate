@@ -1,0 +1,28 @@
+##Profile##
+【物理】前衛で、情と熱意で仲間を束ねる指揮官の狼娘。敵の攻守を削りつつ、自分のＴＰ回復や対象が物防ダウン状態の時に発生する追撃で猛攻を仕掛け前線を突破する。=[Vật lý] Một chỉ huy sói cô dùng cảm xúc và nhiệt huyết để tập hợp đồng minh. Cô xói mòn tấn công và phòng thủ của kẻ thù, tăng TP của bản thân và có những đòn đặc biệt kích hoạt khi phòng thủ vật lý của kẻ địch bị giảm, phá vỡ hàng ngũ địch.
+
+##UB##
+ウルフェンラッシュレイド=Cuộc Đột Kích Sói Vội Vã
+目の前の敵１キャラに物理特大ダメージを与え、物理攻撃力を大ダウン、物理防御力を小ダウンさせる。発動時既にこのスキルの対象が物理防御力ダウン状態だった場合、さらに追加の物理大ダメージを与える。=Gây sát thương V.ATK khổng lồ lên kẻ địch phía trước, giảm rất nhiều V.ATK của nó và giảm nhẹ P.DEF. Nếu P.DEF của kẻ địch đã bị giảm trước đó, gây thêm sát thương V.ATK lớn.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理攻撃力を(\d+)ダウン敵単体の物理防御力を(\d+)ダウン対象が物理防御力ダウン状態の時、敵単体に(\d+)の物理ダメージ$"=►Gây $1 sát thương V.ATK lên kẻ địch.\n►Giảm V.ATK của kẻ địch đi $2 trong 18s.\n►Giảm P.DEF của kẻ địch đi $3 trong 18s.\n►Nếu P.DEF của kẻ địch bị giảm, gây $4 sát thương V.ATK lên kẻ địch.
+
+##S1##
+スピアヘッド=Mũi Giáp
+目の前の敵１キャラに物理大ダメージを与え、物理防御力を小ダウンさせる。発動時既にこのスキルの対象が物理防御力ダウン状態だった場合、さらに追加の物理中ダメージを与える。=Gây sát thương V.ATK lớn lên kẻ địch phía trước và giảm nhẹ P.DEF của nó. Nếu P.DEF của kẻ địch đã bị giảm trước đó, gây thêm sát thương V.ATK vừa phải.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン対象が物理防御力ダウン状態の時、敵単体に(\d+)の物理ダメージ$"=►Gây $1 sát thương V.ATK lên kẻ địch.\n►Giảm P.DEF của kẻ địch đi $2 trong 12s.\n►Nếu P.DEF của kẻ địch bị giảm, gây $3 sát thương V.ATK lên kẻ địch.
+
+##SP2##
+スピアヘッド+=Mũi Giáp+
+目の前の敵１キャラに物理大ダメー\nジを与え、物理防御力を小ダウンさ\nせ、クリティカルを受けた際のダ\nメージを小アップさせる。発動時既\nにこのスキルの対象が物理防御力ダ\nウン状態だった場合、さらに追加の\n物理大ダメージを与える。=Gây sát thương V.ATK lớn lên kẻ địch phía trước nhất, giảm nhẹ P.DEF của chúng, và tăng nhẹ Sát Thương Chí Mạng Vật Lý nhận. Nếu mục tiêu đã có debuff P.DEF, gây thêm sát thương V.ATK.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン対象が物理防御力ダウン状態の時、敵単体に(\d+)の物理ダメージ敵単体の被クリダメを(\d+％)アップ$"=►Gây $1 sát thương V.ATK lên kẻ địch phía trước nhất.\n►Giảm P.DEF của mục tiêu đi $2.\n►Nếu mục tiêu có debuff P.DEF, gây thêm $3 sát thương V.ATK.\n►Tăng Sát Thương Chí Mạng Vật Lý nhận của mục tiêu đi $4.
+
+##S2##
+ウォリアーズコード=Quy Tắc Chiến Binh
+自分の物理攻撃力と物理クリティカルを大アップし、ＴＰを特大回復させる。=Tăng rất nhiều V.ATK và Tỷ Lệ Chí Mạng của bản thân, và hồi TP của bản thân một lượng rất lớn. Tất cả hiệu ứng kéo dài 180s.
+
+##EX##
+騎士狼の教え=Bài Học Của Sói Hiệp Sĩ
+騎士狼の教え+=Bài Học Của Sói Hiệp Sĩ+
+
+##UE##
+ウルフェンブレンドコーヒー=Cà Phê Pha Sói

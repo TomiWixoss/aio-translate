@@ -1,0 +1,31 @@
+##Profile## 
+【物理】最前衛で、忍法を駆使して敵と戦うクノイチ。ユニオンバーストはクリティカル時のダメージを１．５倍にする特性を持ち、うまくかみ合った時の威力は抜群。=[Vật lý] Một cô gái ninja phóng thích kỹ thuật đặc biệt lên kẻ địch từ tiền tuyến. Khi Union Burst của cô là chí mạng, nó gây ra 1.5 lần sát thương của một cú chí mạng thông thường, trở nên vô cùng mạnh mẽ trong hoàn cảnh phù hợp.
+
+##UB##
+忍法・フジヤマ手裏剣=Ninpo: Shuriken Fujiyama
+目の前の敵１キャラに物理特大ダメージを与える。このスキルがクリティカルした場合のダメージは、２倍ではなく３倍になる。=Gây sát thương vật lý lớn lên kẻ địch ngay phía trước. Khi kỹ năng này là chí mạng, sát thương được nhân ba thay vì hai.
+
+##S1##
+忍法・チュバメ返し=Ninpo: Chim én lượn
+目の前の敵１キャラに物理中ダメージを与え、さらに物理防御力を小ダウンさせる。=Gây sát thương vật lý vừa phải cho kẻ địch phía trước và giảm nhỏ phòng thủ vật lý của nó.
+
+##S2##
+忍法・影分身の術=Ninpo: Thuật Bản Thể Bóng Tối
+自分の物理攻撃力を中アップさせ、さらに行動速度を大アップさせる。=Tăng vừa phải tấn công vật lý của bản thân và tăng mạnh tốc độ hành động của bản thân.
+
+##EX##
+忍法・剛力ハッスルの極み=Ninpo: Siêu Năng Lực Vượt Trội
+忍法・剛力ハッスルの極み+=Ninpo: Siêu Năng Lực Vượt Trội+
+
+##S1+##
+忍法・チュバメ返し+=Ninpo: Chim én lượn+
+目の前の敵１キャラに物理中ダメージを与え、さらに物理防御力を小ダウンさせる。このスキルがクリティカルした場合のダメージは、２倍ではなく３倍になる。=Nó gây sát thương vật lý lên một nhân vật phía trước bạn, và cũng giảm phòng thủ vật lý. Sát thương khi kỹ năng này chí mạng được nhân ba thay vì hai.
+
+##S2+##
+忍法・影分身の術+=Ninpo: Thuật Bản Thể Bóng Tối+
+自分の物理攻撃力を特大アップ、物理攻撃クリティカル時のダメージを小アップし、自分の行動速度を大アップさせ、ＴＰを大回復する。=Tăng mạnh tấn công vật lý của bản thân, tăng nhỏ sát thương chí mạng vật lý của bản thân, tăng mạnh tốc độ hành động của bản thân, và hồi lại một lượng lớn TP của bản thân.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理攻撃クリティカル時のダメージを10％アップ自分の行動速度アップ自分のＴＰを500回復$"=►Tăng tấn công vật lý của bản thân lên $1 trong 180s.\n►Tăng sát thương chí mạng vật lý của bản thân lên 10% trong 180s.\n►Tăng tốc độ hành động của bản thân lên 200%.\n►Hồi lại 500 TP của bản thân.
+
+##UE##
+なりきりクノイチセット=Bộ Narikiri Kunoichi
+スゴウデクノイチセット=Bộ Dekunoichi Tuyệt Vời

@@ -1,0 +1,34 @@
+##Profile##
+【物理】後衛で、わんわんと一緒の新緑レンジャー少女。自分の攻撃力に応じて強化される物理攻撃支援スキルやＨＰ継続回復、バリアで周囲を支え、絆の勝利へと導く。=[Vật lý] Một nữ thợ săn với trang phục xanh mới, chiến đấu từ hậu phương cùng chú cún dễ thương. Cô hỗ trợ đồng đội với kỹ năng tăng Tấn công vật lý, Hồi máu, và khiên phòng thủ mạnh lên theo sức tấn công của bản thân. Cô dẫn dắt đội đến chiến thắng thông qua sự gắn bó.
+
+人と自然、交わるココロ=Những Trái Tim Nơi Con Người Gặp Gỡ Thiên Nhiên
+森の恵みと薬草泥棒=Lời Chúc Từ Rừng và Kẻ Trộm Thảo Mộc
+大自然のガイド役=Hướng Dẫn Đến Thiên Nhiên Tự Do
+こころからの憧れ=Khát Khao Từ Trái Tim
+
+##UB##
+主従の絆風=Master-Servant Bond Style
+自分を中心とした範囲内の味方すべての物理攻撃力を特大アップさせ、物理クリティカルを中アップさせる。自分の物理攻撃力が高い程、物理攻撃力と物理クリティカルの上昇量が最大５倍までアップする。=Tăng cực lớn Tấn công vật lý của đồng đội trong phạm vi 100, và tăng trung bình Tỷ lệ chí mạng vật lý của họ trong 18s. Càng cao Tấn công vật lý của bản thân, tăng Tấn công vật lý và Tỷ lệ chí mạng vật lý càng lớn, tối đa 5 lần.
+## Same as MGMonikas
+
+##S1##
+わんわんと一緒=With Doggie My Lord
+自分を中心とした範囲内の味方すべての物理攻撃力を大アップさせ、物理攻撃クリティカル時のダメージを小アップさせる。自分の物理攻撃力が高い程、物理攻撃力の上昇量が最大５倍までアップする。=Tăng cực lớn Tấn công vật lý của đồng đội trong phạm vi, và tăng nhẹ Sát thương chí mạng vật lý của họ. Càng cao Tấn công vật lý của bản thân, tăng Tấn công vật lý càng lớn, tối đa 5 lần.
+r:"^範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理攻撃クリティカル時のダメージを5％アップ$"=►Tăng Tấn công vật lý của đồng đội trong phạm vi 100 lên $1 (+0.145×$1) trong 12s.\n►Tăng Sát thương chí mạng vật lý của đồng đội trong phạm vi 100 lên 5% trong 12s.
+
+##S2##
+深緑の癒風=Deep Green Healing Breeze
+自分を中心とした範囲内の味方すべてに継続ＨＰ回復状態を付与し、物理/魔法吸収バリアを展開する。=Trao cho đồng đội trong phạm vi khả năng hồi máu liên tục, và triển khai Khiên phòng thủ lên họ có khả năng hấp thụ Sát thương vật lý/ma thuật.
+r:"^毎秒ＨＰを(\d+)回復する(\d+)ダメージ分の物理魔法吸収バリアを展開する$"=►Hồi máu cho đồng đội trong phạm vi 100 $1/giây trong 12.5s.\n►Triển khai Khiên phòng thủ lên đồng đội trong phạm vi 100 có khả năng hấp thụ $2 Sát thương vật lý/ma thuật trong 12s.
+
+##EX##
+わんわんコンビネーション=Doggie My Lord Combination
+わんわんコンビネーション+=Doggie My Lord Combination+
+
+##S1+##
+わんわんと一緒+=With Doggie My Lord+
+自分を中心とした範囲内の味方すべての物理攻撃力を大アップ、物理攻撃クリティカル時のダメージと物理防御力と魔法防御力を小アップさせる。さらに、自分を中心とした範囲内の味方すべてのＴＰを小回復させる。自分の物理攻撃力が高い程、物理攻撃力の上昇量が最大５倍までアップする。=Tăng cực lớn Tấn công vật lý của đồng đội trong phạm vi, và tăng nhẹ Sát thương chí mạng vật lý, Phòng thủ vật lý và Phòng thủ ma thuật của họ. Ngoài ra, hồi nhẹ Năng lượng của đồng đội trong phạm vi. Càng cao Tấn công vật lý của bản thân, tăng Tấn công vật lý càng lớn, tối đa 5 lần.
+r:"^範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理攻撃クリティカル時のダメージを5％アップ範囲内の味方の物理防御力を(\d+)アップ範囲内の味方の魔法防御力を(\d+)アップ範囲内の味方のＴＰを80回復$"=►Tăng Tấn công vật lý của đồng đội trong phạm vi 100 lên $1 (+0.145×$1) trong 12s.\n►Tăng Sát thương chí mạng vật lý của đồng đội trong phạm vi 100 lên 5% trong 12s.\n►Tăng Phòng thủ vật lý của đồng đội trong phạm vi 100 lên $2 trong 12s.\n►Tăng Phòng thủ ma thuật của đồng đội trong phạm vi 100 lên $3 trong 12s.\n►Hồi Năng lượng cho đồng đội trong phạm vi 100 lên 80.
+
+##UE##
+わんわんの主さま=Doggie My Lord

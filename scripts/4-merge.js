@@ -1,4 +1,5 @@
 const fs = require('fs');
+const path = require('path');
 const PATHS = require('../config/paths.config');
 const { parseXMLToMap, unescapeXml } = require('./utils/xml-parser');
 const { findLatestBackup, backupFile } = require('./utils/backup');
@@ -13,17 +14,25 @@ function mergeTranslations(enFile, viOldFile, viNewFile, outputFile, enOldFile =
   console.log(`VI cũ: ${viOldFile}`);
   console.log(`VI mới: ${viNewFile}`);
   
-  // Tìm file EN cũ (backup)
+  // Tìm file EN cũ (backup) - tự động tìm backup mới nhất
   if (!enOldFile) {
-    const dir = '.';
-    const files = require('fs').readdirSync(dir);
-    const backupFiles = files.filter(f => 
-      f.startsWith('merged_translations.backup_') && f.endsWith('.xml')
-    ).sort().reverse();
+    // Tìm trong thư mục backup_YYYY-MM-DD trước
+    const backupDir = path.join(PATHS.SOURCE.VERSIONS, `backup_${new Date().toISOString().split('T')[0]}`);
+    if (fs.existsSync(backupDir)) {
+      const files = fs.readdirSync(backupDir);
+      const backupFiles = files.filter(f => f.startsWith('merged_translations.backup_') && f.endsWith('.xml')).sort().reverse();
+      if (backupFiles.length > 0) {
+        enOldFile = path.join(backupDir, backupFiles[0]);
+        console.log(`EN cũ: ${enOldFile} (tự động tìm từ backup folder)`);
+      }
+    }
     
-    if (backupFiles.length > 0) {
-      enOldFile = backupFiles[0];
-      console.log(`EN cũ: ${enOldFile} (tự động tìm)`);
+    // Nếu không tìm thấy, tìm trong versions
+    if (!enOldFile) {
+      enOldFile = findLatestBackup('merged.xml', PATHS.SOURCE.VERSIONS);
+      if (enOldFile) {
+        console.log(`EN cũ: ${enOldFile} (tự động tìm)`);
+      }
     }
   }
   

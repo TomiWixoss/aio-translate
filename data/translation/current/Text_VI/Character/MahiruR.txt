@@ -1,0 +1,28 @@
+##Profile##
+【物理】中衛で、多勢相手が十八番のまきばの戦士。相手を吹き飛ばすスキルを多用し敵の陣形を押し込む。範囲攻撃と混乱付与スキルを駆使し一気に殲滅する。=[Vật lý] Một chiến binh chuyên về cận chiến, xuất sắc trong trận chiến chống lại nhiều kẻ thù. Thường xuyên sử dụng kỹ năng đẩy lùi đối thủ, đẩy lùi đội hình kẻ thù. Sử dụng chiến thuật tấn công diện rộng và kỹ năng gây bối rối để nhanh chóng tiêu diệt tất cả kẻ thù.
+
+##UB##
+エリザベスカーニバル=Elizabeth Carnival
+前方範囲内の敵すべてに物理中ダメージを与え、さらに混乱状態にする。=Gây sát thương vật lý vừa phải cho tất cả kẻ thù trong khu vực phía trước và gây bối rối.
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵を混乱させる$"=►Gây $1 sát thương vật lý cho kẻ thù trong phạm vi 825.\n►Gây bối rối cho kẻ thù trong phạm vi 825 trong 6s.
+
+##S1##
+ノーミルクノーライフ=No Milk No Life
+自分の物理攻撃力を中アップさせ、さらに継続ＴＰ回復状態を付与する。=Tăng sát thương vật lý (P.ATK) của bản thân và hồi TP liên tục.
+r:"^自分の物理攻撃力を(\d+)アップ毎秒ＴＰを15回復する$"=Thời gian niệm: 0.59s.\n►Tăng sát thương vật lý (P.ATK) của bản thân lên $1 trong 12s.\n►Hồi TP của bản thân 15/s trong 8s.
+
+##S2##
+ファーマーズラッシュ=Farmer's Rush
+前方範囲内の敵すべてに物理中ダメージを与える。範囲内の敵の数に応じて、ダメージが増加する。さらに、目の前の敵１キャラを大きく吹き飛ばす。=Gây sát thương vật lý (P.DMG) vừa phải cho tất cả kẻ địch trong khu vực phía trước. Sát thương tăng dựa trên số lượng kẻ địch trong khu vực. Ngoài ra, đẩy lùi nhân vật kẻ địch phía trước.
+
+##EX##
+オールフォーエリザベス=All For Elizabeth
+オールフォーエリザベス+=All For Elizabeth+
+
+##S1+##
+ノーミルクノーライフ+=No Milk No Life+
+自分の物理攻撃力を大アップ、物理クリティカルを中アップさせ、さらに継続ＴＰ回復状態を付与する。敵の数に応じて攻撃力とクリティカルの上昇量が増加する。=Tăng mạnh sát thương vật lý (P.ATK) của bản thân, tăng vừa phải tỷ lệ chí mạng (P.CRIT Rate), và hồi TP liên tục. Mức tăng P.ATK và P.CRIT Rate phụ thuộc vào số lượng kẻ địch.
+r:"^自分の物理攻撃力を(\d+)アップ毎秒ＴＰを15回復する自分の物理クリティカルを50アップ$"=Thời gian niệm: 0.59s.\n►Tăng sát thương vật lý (P.ATK) của bản thân lên $1 trong 12s.\n►Hồi TP của bản thân 15/s trong 8s.\n►Tăng tỷ lệ chí mạng (P.CRIT Rate) của bản thân lên 50 trong 12s.
+
+##UE##
+エリザベスフォーク=Elizabeth Fork

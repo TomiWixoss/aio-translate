@@ -1,0 +1,28 @@
+##Profile##
+【物理】前衛で猛攻から味方を守護する闇のお姉ちゃん。バトル開始時の行動不能無効スキルで周囲の味方を守り、範囲を束縛するスキルで敵を牽制し、戦況を一変する。=[Vật lý] Một Onee-chan bóng tối bảo vệ đồng đội khỏi những đòn tấn công khốc liệt ở tiền tuyến. Với kỹ năng phản hiệu ứng bất tỉnh ngay từ đầu trận, cô bảo vệ đồng đội xung quanh và có thể thay đổi cục diện trận đấu với kỹ năng trói kẻ địch trong phạm vi.
+
+##UB##
+ダークネスコンビ姉ーション=Hợp Kết Chị Hai Bóng Tối
+前方範囲内の敵すべてに物理大ダメージを与え、味方全体の物理攻撃力を大アップさせ、さらに自分のＨＰを中回復させる。このスキルで与えたダメージに応じて物理攻撃力アップの効果量が最大２倍までアップする。=Gây sát thương vật lý (P.DMG) lớn lên kẻ địch trong phạm vi và tăng cường rất lớn P.ATK cho tất cả đồng đội, đồng thời phục hồi một lượng HP vừa phải cho bản thân. Mức tăng P.ATK sẽ tăng theo sát thương vật lý (P.DMG) mà kỹ năng này gây ra, tối đa 2 lần.
+r:"^範囲内の敵に(\d+)の物理ダメージ味方全体の物理攻撃力を(\d+)アップ自分のＨＰを(\d+)回復$"=►Gây $1 P.DMG lên kẻ địch trong phạm vi 600.\n►Tăng P.ATK của tất cả đồng đội lên $2 trong 18s.\n►Phục hồi HP của bản thân lên $3.
+
+##S1##
+闇のお姉ちゃんが守るよ♪=Onee-chan Bóng Tối Sẽ Bảo Vệ♪
+自分を中心とした範囲内の味方すべての物理攻撃力を大アップさせ、物理無効バリアを展開する。バトル開始後、初弾のこのスキルは範囲内の味方が敵から受ける行動不能を３回まで無効にする。=Tăng cường rất lớn P.ATK của đồng đội trong phạm vi, và triển khai Khiên phản sát thương vật lý (P.DMG). Khi trận đấu bắt đầu, lần dùng kỹ năng đầu tiên trao khả năng miễn nhiễm bất tỉnh tối đa 3 lần cho đồng đội trong phạm vi.
+r:"^範囲内の味方の物理攻撃力を(\d+)アップ(\d+)ダメージ分の物理無効バリアを展開する初使用時、範囲内の味方の受ける行動不能を３回まで無効化する$"=Thời gian niệm: 0.94s\n►Tăng P.ATK của đồng đội trong phạm vi 300 lên $1 trong 12s.\n►Triển khai Khiên trên đồng đội trong phạm vi 300 phản $2 P.DMG trong 12s.\n\nĐối với lần dùng kỹ năng đầu tiên:\n►Phản up đến 3 lần hiệu ứng khiến đồng đội trong phạm vi 300 bất tỉnh.
+
+##S2##
+ノワールホールド=Khống Chế Noir
+前方範囲内の敵すべてに物理中ダメージを与え、束縛する。=Gây sát thương vật lý (P.DMG) vừa phải lên kẻ địch trong phạm vi và trói chúng.
+
+##EX##
+闇のお姉ちゃんパワー=Sức Mạnh Onee-chan Bóng Tối
+闇のお姉ちゃんパワー+=Sức Mạnh Onee-chan Bóng Tối+
+
+##S1+##
+闇のお姉ちゃんが守るよ♪+=Onee-chan Bóng Tối Sẽ Bảo Vệ♪+
+自分を中心とした範囲内の味方すべての物理攻撃力を特大アップ、物理クリティカルを大アップさせ、物理無効バリアを展開する。バトル開始後、初弾のこのスキルは範囲内の味方が敵から受ける行動不能を３回まで無効にする。=Tăng cường rất lớn P.ATK và Tỷ lệ Chí Mạng (P.CRIT Rate) của đồng đội trong phạm vi, và triển khai Khiên phản sát thương vật lý (P.DMG). Khi trận đấu bắt đầu, lần dùng kỹ năng đầu tiên trao khả năng miễn nhiễm bất tỉnh tối đa 3 lần cho đồng đội trong phạm vi.
+r:"^範囲内の味方の物理攻撃力を(\d+)アップ(\d+)ダメージ分の物理無効バリアを展開する初使用時、範囲内の味方の受ける行動不能を３回まで無効化する範囲内の味方の物理クリティカルを100アップ$"=Thời gian niệm: 0.94s\n►Tăng P.ATK của đồng đội trong phạm vi 300 lên $1 trong 12s.\n►Triển khai Khiên trên đồng đội trong phạm vi 300 phản $2 P.DMG trong 12s.\n►Tăng Tỷ lệ Chí Mạng (P.CRIT Rate) của đồng đội trong phạm vi 300 thêm 100 trong 12s.\n\nĐối với lần dùng kỹ năng đầu tiên:\n►Phản up đến 3 lần hiệu ứng khiến đồng đội trong phạm vi 300 bất tỉnh.
+
+##UE##
+キング弟くん=Anh Trai Vua

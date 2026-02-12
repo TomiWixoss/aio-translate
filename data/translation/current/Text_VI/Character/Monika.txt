@@ -1,0 +1,53 @@
+##Profile##
+お菓子屋通い=Đi đến tiệm bánh
+見た目も中身もお子ちゃまな異国の軍人=Một người lính từ vùng đất xa lạ\nnhìn và hành động như một đứa trẻ
+【物理】中衛で、味方の攻撃を鼓舞する、軍人娘。味方全体の物理、魔法攻撃力の大幅アップに加えて、攻撃速度もあげることで、戦闘の早期終結を実現する。=[Vật lý] Một người lính tăng cường sức tấn công đồng minh từ tuyến giữa. Kết thúc trận chiến nhanh chóng bằng cách làm tăng cực lớn sức tấn công vật lý và ma thuật cũng như tốc độ tấn công của toàn đội.
+
+背中を預ける者の条件=Điều kiện để giao phó lưng
+勝利の風を掴むためには=Để nắm bắt làn gió chiến thắng
+絆の力で放つ奥義=Bí kích được giải phóng bởi sức mạnh của tình bạn
+努力の先に求める強さ=Sức mạnh được tìm kiếm vượt qua nỗ lực
+甘い甘いお礼の証=Lòng Biết Ơn Ngọt Ngào
+目をつぶれ、貴公=Đôi Mắt Nhắm Để Nhìn Tôi
+穴の中に隠された真実=Những Diễn Biến Không Ngờ Tới
+モニカの秘密小隊=Trung Đội Bí Mật Của Monika
+スイミング・バディ=Bạn Bè Cùng Bơi
+求める強さは志のために=Về Lòng Tự Hào Của Bản Thân
+白き翼で空を舞う=Đôi Cánh Trắng Vươn Cao
+体は小さく誇りは高く=Một Chỉ Huy Nhỏ Nhỏ, Nhưng Đáng Kính
+
+##UB##
+紫電一閃=Violetshock Flare
+前方範囲内の敵すべてに物理中ダメージを与える。=Gây ra Sát thương Vật lý lớn cho kẻ địch trong phạm vi.
+
+##S1##
+フリューゲルエール=Flügel Fanfare
+味方全体の物理攻撃力と魔法攻撃力を小アップさせ、さらに行動速度を大アップさせる。=Làm tăng một chút Tấn công Vật lý và tốc độ hành động của tất cả đồng minh.
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の魔法攻撃力を(\d+)アップ味方全体の行動速度アップ$"=►Làm tăng Tấn công Vật lý của tất cả đồng minh lên $1.\n►Làm tăng Tấn công Ma thuật của tất cả đồng minh lên $2.\n►Làm tăng tốc độ hành động của tất cả đồng minh.
+# Same with Karin, SSaren
+
+##S2##
+マスケットショット=Musket Shot
+
+##EX##
+白翼の加護=Lời chúc của đôi cánh trắng
+白翼の加護+=Lời chúc của đôi cánh trắng+
+
+##UB+##
+旋風雷閃撃鎖斬=Archon Squallchain
+前方範囲内の敵すべてに物理大ダメージを与え、スタンさせる。さらに、味方全体の物理攻撃力と魔法攻撃力を大アップさせ、行動速度を大アップさせる。=Gây ra Sát thương Vật lý cực lớn cho kẻ địch trong phạm vi, và gây hiệu ứng Choáng cho chúng. Ngoài ra, làm tăng cực lớn Tấn công Vật lý, Tấn công Ma thuật và tốc độ hành động của tất cả đồng minh.
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵を一定時間行動不能にする味方全体の物理攻撃力を(\d+)アップ味方全体の魔法攻撃力を(\d+)アップ味方全体の行動速度アップ$"=►Gây $1 Sát thương Vật lý cho kẻ địch trong phạm vi 820.\n►Gây hiệu ứng Choáng cho kẻ địch trong phạm vi 820 trong 2.5s.\n►Làm tăng Tấn công Vật lý của tất cả đồng minh lên $2 trong 30s.\n►Làm tăng Tấn công Ma thuật của tất cả đồng minh lên $3 trong 30s.\n►Làm tăng tốc độ hành động của tất cả đồng minh lên 200% trong 30s.
+
+##S1+##
+フリューゲルエール+=Flügel Fanfare+
+味方全体の物理攻撃力と魔法攻撃力を大アップさせ、さらに行動速度を大アップさせる。=Tăng lớn Tấn công vật lý, Tấn công phép và Tốc độ hành động cho toàn đồng đội.
+r:"^敵単体に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理防御力を(\d+)ダウン$"=►Gây $1 Sát thương Vật lý cho một kẻ địch đơn.\n►Gây $2 Sát thương Vật lý cho kẻ địch trong phạm vi.\n►Giảm Phòng thủ Vật lý của kẻ địch trong phạm vi đi $3.
+
+##UE##
+フリューゲルコート=Áo khoác Flügel
+
+
+
+
+
+

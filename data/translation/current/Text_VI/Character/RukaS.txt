@@ -1,0 +1,35 @@
+##Profile##
+【物理】前衛で、流麗な太刀捌きを魅せる若夏の姉御。ダメージを与えた回数に応じて攻撃力が高まるスキルと、携えた二刀の幾刃もの斬撃で、眼前の敵を薙ぎ払う。=[Vật Lý] Chị lớn tiên phong mặc trang phục mùa hè, có thể cầm một thanh trường kiếm uốn lượn. Sức tấn công của cô tăng lên tùy theo số lần gây sát thương, và cô chém ngã kẻ địch phía trước bằng vô số nhát chém từ hai thanh kiếm.
+
+##UB##
+終の太刀・青嵐頒つ白糸=Final Strike: Seiran Wakatsu Shiraito
+前方範囲内の敵すべてに物理大ダメージを与える。バトル開始後初めてこのスキルを使用した後、15回ダメージを与えるたびに、自分の物理攻撃力を中アップさせる。=Gây sát thương vật lý khủng khiếp lên tất cả kẻ địch phía trước. Sau khi dùng UB lần đầu, tăng sát thương vật lý của bản thân lên một lượng vừa phải sau mỗi 15 lần gây sát thương.
+r:"^範囲内の敵に(\d+)の物理ダメージ15回ダメージを与えるたびに、自分の物理攻撃力を(\d+)アップ$"=►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi 500.\n\nĐối với UB lần 1:\n►Tự trao trạng thái đặc biệt tăng sát thương vật lý của bản thân lên $2 trong 180s sau mỗi 15 lần gây sát thương.
+
+##S1##
+始の太刀・暁けの水無月=First Strike: Ake no Minazuki
+前方範囲内の敵すべてに物理中ダメージを与え、さらに自分の物理攻撃力を中アップさせる。=Gây sát thương vật lý vừa phải lên tất cả kẻ địch trong phạm vi và tăng sát thương vật lý của bản thân lên một lượng vừa phải.
+
+##S2##
+継の太刀・薫風そよぐ=Second Strike: Kunpuu Soyogu
+最も物理攻撃力が高い敵１キャラの行動時間を停止させる。=Áp dụng Dừng Thời lên kẻ địch có sát thương vật lý cao nhất.
+r:"^敵単体を一定時間行動不能にする$"=►Áp dụng Dừng Thời lên kẻ địch trong 1.75s.
+
+##EX##
+若夏の理=Young Summer Law
+若夏の理+=Young Summer Law+
+
+##S1+##
+始の太刀・暁けの水無月+=First Strike: Ake no Minazuki+
+前方範囲内の敵すべてに物理中ダメージを与え、さらに自分の物理攻撃力を大アップさせる。=Gây sát thương vật lý vừa phải lên tất cả kẻ địch trong phạm vi, và tăng mạnh tấn công vật lý của bản thân.
+
+##UE##
+絶海・波浪丸 拵違=Zekkai & Haromaru - Fake
+
+
+
+##S2##
+継の太刀・薫風そよぐ+=Đòn Thứ Hai: Kunpuu Soyogu+
+パレオ・純白人絹小笹原=Pareo・Lụa Trắng Thuần khiết Osasahara
+前方範囲内の敵すべてに物理大ダメージを２回与え、物理防御力を中ダウンさせ、クリティカルを受けた際のダメージを小アップさせる。さらに、バトル開始後初めてこのスキルを発動した後、15回ダメージを与えるたびに、自分の物理攻撃クリティカル時のダメージを小アップする。=Gây sát thương vật lý lớn hai lần lên tất cả kẻ địch trong phạm vi phía trước, giảm nhẹ phòng thủ vật lý của chúng, và tăng nhẹ sát thương nhận từ đòn chí mạng. Ngoài ra, sau khi kích hoạt kỹ năng này lần đầu trong trận đấu, cứ sau 15 lần gây sát thương sẽ tăng nhẹ sát thương chí mạng vật lý của bản thân.
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理防御力を(\d+)ダウン範囲内の敵の被クリダメを5％アップ15回ダメージを与えるたびに、自分の物理クリダメを2％アップ$"=►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi.\n►Gây $2 sát thương vật lý lên kẻ địch trong phạm vi.\n►Giảm phòng thủ vật lý của kẻ địch trong phạm vi đi $3.\n►Tăng sát thương chí mạng nhận của kẻ địch trong phạm vi lên 5%.\nCứ sau 15 lần gây sát thương:\n►Tăng sát thương chí mạng vật lý của bản thân lên 2%.

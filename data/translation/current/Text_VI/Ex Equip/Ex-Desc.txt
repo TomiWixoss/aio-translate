@@ -1,0 +1,593 @@
+量産型フブキちゃんレンチ=Cờ Lực Điện Tiêu Dùng Fubuki-chan
+バトル中敵防御中ダウン=Giảm DEF kẻ thù trong trận chiến
+バトル開始後90秒間敵全体の物理防御力を５％ダウンさせる。=Trong 90s sau khi trận chiến bắt đầu, P.DEF của tất cả đối thủ giảm 5%.
+
+量産型ワカナのフライパン=Chảo Rán Sản Xuất Hàng Loạt Wakana
+バトル中盤攻撃力中アップ=Thưởng Tấn Công Vật Lý Trong Trận
+バトルの残り時間が45秒を切ると味方全体の物理攻撃力を５％アップさせる。=Khi thời gian còn lại của trận chiến ít hơn 45s, sức tấn công vật lý của tất cả đồng đội tăng 5%.
+
+
+量産型ヤマトの蛇腹剣=Kiếm Rắn Yamato Sản Xuất Hàng Loạt
+
+愛情つなぐ健康エプロン=Tạp Dục Yêu Thương
+ユイが料理をする時に着用していたエプロン。食べる人のことを一番に考えることで優しい想いがつまった素敵なお弁当を作ることができる。=Một chiếc tạp dục Yui mặc khi nấu ăn. Bằng cách ưu tiên người sẽ ăn, cô ấy có thể tạo ra một hộp cơm tuyệt vời đầy cảm xúc dịu dàng.
+The apron 
+
+心想いエプロン=Tạp Dục Từ Trái Tim
+コッコロが新たなレシピに挑戦した際着用したエプロン。主さまの為に想いを込め一生懸命考えて作られたお弁当は慈母の愛の如く皆を癒す。=Một chiếc tạp dục Kokkoro mặc khi thử công thức mới. Hộp cơm được làm với sự cống hiến chân thành cho chủ nhân của cô ấy, chữa lành cho mọi người như tình yêu của một người mẹ quan tâm.
+
+---Dawn Realm Labyrinth---
+
+黎明光環アルファドミナント=Vòng Tay Ánh Sáng Bình Minh Alpha Dominant
+黎明風環アルファドミナント=Vòng Tay Gió Bình Minh Alpha Dominant
+黎明水環アルファドミナント=Vòng Tay Nước Bình Minh Alpha Dominant
+黎明火環アルファドミナント=Vòng Tay Lửa Bình Minh Alpha Dominant
+黎明闇環アルファドミナント=Vòng Tay Bóng Tối Bình Minh Alpha Dominant
+
+黎明闇輪アルファプレイズ=Nhẫn Bóng Tối Bình Minh Alpha Praise
+黎明光輪アルファプレイズ=Nhẫn Ánh Sáng Bình Minh Alpha Praise
+黎明風輪アルファプレイズ=Nhẫn Gió Bình Minh Alpha Praise
+黎明水輪アルファプレイズ=Nhẫn Nước Bình Minh Alpha Praise
+黎明火輪アルファプレイズ=Nhẫn Lửa Bình Minh Alpha Praise
+
+黎明闇装アルファハイネス=Vòng cổ Bình minh Hắc Ám Cao quý
+黎明光装アルファハイネス=Vòng cổ Bình minh Ánh sáng Cao quý
+黎明風装アルファハイネス=Vòng cổ Bình minh Gió Cao quý
+黎明水装アルファハイネス=Vòng cổ Bình minh Nước Cao quý
+黎明火装アルファハイネス=Vòng cổ Bình minh Lửa Cao quý
+
+黎明闇玉アルファプレシャス=Quả cầu quý Bình minh Hắc Ám Alpha
+黎明光玉アルファプレシャス=Quả cầu quý Bình minh Ánh sáng Alpha
+黎明風玉アルファプレシャス=Quả cầu quý Bình minh Gió Alpha
+黎明水玉アルファプレシャス=Quả cầu quý Bình minh Nước Alpha
+黎明火玉アルファプレシャス=Quả cầu quý Bình minh Lửa Alpha
+
+黎明闇飾アルファグローリー=Bông tai Vinh quang Bình minh Hắc Ám Alpha
+黎明光飾アルファグローリー=Bông tai Vinh quang Bình minh Ánh sáng Alpha
+黎明風飾アルファグローリー=Bông tai Vinh quang Bình minh Gió Alpha
+黎明水飾アルファグローリー=Bông tai Vinh quang Bình minh Nước Alpha
+黎明火飾アルファグローリー=Bông tai Vinh quang Bình minh Lửa Alpha
+
+黎明火輪アルファストリクト=Nhẫn Kiên định Bình minh Lửa Alpha
+黎明水輪アルファストリクト=Nhẫn Kiên định Bình minh Nước Alpha
+黎明風輪アルファストリクト=Nhẫn Kiên định Bình minh Gió Alpha
+黎明光輪アルファストリクト=Nhẫn Kiên định Bình minh Ánh sáng Alpha
+黎明闇輪アルファストリクト=Nhẫn Kiên định Bình minh Hắc Ám Alpha
+
+黎明火環アルファエミネンス=Vòng tay Uy nghi Bình minh Lửa Alpha
+黎明水環アルファエミネンス=Vòng tay Uy nghi Bình minh Nước Alpha
+黎明風環アルファエミネンス=Vòng tay Uy nghi Bình minh Gió Alpha
+黎明光環アルファエミネンス=Vòng tay Uy nghi Bình minh Ánh sáng Alpha
+黎明闇環アルファエミネンス=Vòng tay Uy nghi Bình minh Hắc Ám Alpha
+
+黎明闇装アルファアダマント=Vòng cổ Kiên cố Bình minh Hắc Ám Alpha
+黎明光装アルファアダマント=Vòng cổ Kiên cố Bình minh Ánh sáng Alpha
+黎明風装アルファアダマント=Vòng cổ Kiên cố Bình minh Gió Alpha
+黎明水装アルファアダマント=Vòng cổ Kiên cố Bình minh Nước Alpha
+黎明火装アルファアダマント=Vòng cổ Kiên cố Bình minh Ngọn lửa Alpha
+
+黎明闇玉アルファプライマル=Quả cầu nguyên thủy Bình minh Hắc Ám Alpha
+黎明光玉アルファプライマル=Quả cầu nguyên thủy Bình minh Ánh sáng Alpha
+黎明風玉アルファプライマル=Quả cầu nguyên thủy Bình minh Gió Alpha
+黎明水玉アルファプライマル=Quả cầu nguyên thủy Bình minh Nước Alpha
+黎明火玉アルファプライマル=Quả cầu nguyên thủy Bình minh Lửa Alpha
+
+黎明闇飾アルファトレランス=Bông tai Dung nạp Bình minh Hắc Ám Alpha
+黎明光飾アルファトレランス=Bông tai Dung nạp Bình minh Ánh sáng Alpha
+黎明風飾アルファトレランス=Bông tai Dung nạp Bình minh Gió Alpha
+黎明水飾アルファトレランス=Bông tai Dung nạp Bình minh Nước Alpha
+黎明火飾アルファトレランス=Bông tai Dung nạp Bình minh Ngọn lửa Alpha
+
+
+
+
+
+
+---Alchemist---
+残痕の盾アブソリュート=Khiên Còn sót lại Tuyệt đối
+残炎の拳フォイア・ドラッヘ=Quyền hỏa Còn sót lại Feuer Drache
+覇瞳神弓アメノマカコユミ=Cung thần thánh tối thượng Amenomakakoyumi
+残壊の斧シュライエン=Rìu hủy diệt Còn sót lại Schreien
+覇瞳神槍アメノヌボコ=Thương thần thánh tối thượng Amenonuboko
+覇瞳霊刃フツノミタマ=Kiếm linh thần thánh tối thượng Futsunomitama
+残懐の大剣ブラウ・イデア=Đại kiếm ký ức Còn sót lại Blau Idea
+残燭の刃リジル・レギオン=Kiếm nến Còn sót lại Rigel Legion
+特殊装備=Trang bị Đặc biệt
+覇瞳神言フルコトフミ=Lời thần thánh tối thượng Furukotofumi
+覇瞳神杖アメノミハシラ=Gậy Thần Tối Thượng Amenomihashira
+---Pink ----------------------------------------------------------
+ソードオブエレメント=Kiếm Nguyên Tố
+貴忠装リヴガルデット=Buổi Sống Tươi Vui Của Gardette
+ルミナスエンゲージメント=Lời Hứa Rực Rỡ
+疾風弓ワールウィンド=Cung Thế Giới Gió Lốc
+アメイジングアーケイン=Archine Tuyệt Vời
+福音装イノセントプレイヤー=Lời Cầu Nguyện Vô Tội
+エンドレスエクリプス=Mặt Trăng Tối Vô Tận
+ゲーズオブジャッジメント=Trò Chơi Phán Xét
+暗夜剣アルプトラオム=Kiếm Đêm Tối Alptraom
+アースオブジャイアント=Đất Của Người Khổng Lồ
+ホープフルブルー=Hy vọng xanh
+ブルーノヴァ=Brunova
+雷鳴剣ユニコーンヴォルト=Kiếm Sấm Sét Kho Báu Kỳ Lân
+ヘブンリーナックル=Nắm Đấm Thiên Giới
+イモータルティアーズ=Nước Mắt Bất Tử
+とある騎士の愛用バット=Gậy Baseball Yêu Thích Của Một Hiệp Sĩ
+アルベドの剣=Kiếm Của Albedo
+
+気高き竜戦士の残火を越えた勇者に\n託された剛腕。その勇猛たる拳は英\n雄をも滅ぼす剛力を与え、鈍色の宿\n業を砕く勇者の闘志となるだろう。=Một cánh tay mạnh mẽ được trao cho một anh hùng đã vượt qua ngọn lửa tàn lụi của chiến binh rồng quý tộc. Nắm đấm hung dữ của nó ban cho sức mạnh có thể hủy diệt ngay cả các anh hùng, trở thành ý chí chiến đấu của một anh hùng phá vỡ nghiệp màu xám xịt.
+
+ヒヒイロカネの盾=Khiên Hihiirokane
+ルイズマリーがアルケス錬金堂の秘術の粋を凝らして生み出した無垢なる剣。如何なる物質へも変性可能な無限の可能性を秘めている。=Một thanh kiếm hoàn hảo do Louise Marie tạo ra bằng bí thuật của trường Alchemy Alces. Nó có tiềm năng vô hạn để biến đổi thành bất kỳ vật liệu nào.
+【シルバーオクトパス商会】が特別な顧客に配布した耳飾り。同商会の看板メニュー『たこ焼』をモチーフにしたユニークかつ高性能な逸品。=Bộ tai nữ trang phát cho khách hàng đặc biệt của Công Ty Bạch Tuộc Bạc. Một món đồ độc nhất, chức năng cao với biểu tượng lấy cảm hứng từ món ăn đặc trưng của công ty, takoyaki.
+六凶が一角、魔蜘アラクネの遺した骸片を用いジオ・ゲヘナの鍛冶師が造り出した呪槍。爪、宝玉、蜘蛛糸の布、全素材が特級の厄物である。=Một ngọn giáo bị nguyền rủa do một thợ rèn ở Gio Gehenna tạo ra bằng xác của một trong Sáu Quỷ, nhện ma Arachne. Tất cả nguyên liệu dùng, bao gồm móng vuốt, ngọc và vải tơ nhện, đều thuộc hàng cao cấp nhất.
+討伐された魔物の怨嗟が宿る鮮赤の肉片を象ったイヤリング。血の滴るような鮮やかな赤色が食欲を掻きたて、危険な魔物を惹きつける。=Một chiếc tai hình dáng như một miếng thịt tươi đỏ thẫm ngấm đầy oán hận của một quái vật bị áp bức. Màu đỏ rực rỡ nhễu máu khuấy động cơn thèm ăn, thu hút những quái vật nguy hiểm.
+グラッジチャンクの耳飾り=Vòng tai Gradge chank
+不死者の涙を繋いで作ったとされる首飾り。身に着けた者は死の運命さえ変えられるほどの力を宿すことができるという。=Một chiếc vòng cổ được cho là được làm bằng cách kết nối những giọt nước mắt của người chết. Người đeo nó được cho là có đủ sức mạnh để thay đổi số phận của cái chết.
+憤激の破壊神との戦いの果てに生み出された、此岸の全てを焼き尽くす神威の劫火を放つ杖。紅蓮の焔は世界を深紅に塗り替える。=Một cây gậy được tạo ra vào cuối trận chiến chống lại Thần Phá Hoại giận dữ. Nó phát ra ngọn lửa thiêng liêng của quyền năng thần, thiêu rụi mọi thứ trên bến bờ này. Ngọn lửa đỏ thẫm sơn đỏ thế giới một màu đỏ sâu.
+ニーラカンタ=Neelakanta
+異国で見つかる非常に希少な金属、ヒヒイロカネで作られた盾。その希少さに見合っただけの強度を誇り如何なる攻撃も受け止める。=Một tấm khiên làm từ hihiirokane, một kim loại cực kỳ hiếm tìm thấy ở nước ngoài. Nó tự hào về sức mạnh xứng đáng với sự quý hiếm của nó và có thể chặn mọi đòn tấn công.
+保護を解除できないEX装備です。=Đó là trang bị EX không thể tháo khỏi bảo vệ.
+創世樹から一人の騎空士に託された弓。射抜いた獲物を喰らい糧とし、その花は異なる空の下であっても静寂の元に咲き誇る。=Một cây cung được Cây Thế Giới ban cho một hiệp sĩ. Nó nuốt chửng con mồi nó xuyên qua, và những bông hoa của nó nở lặng lẽ ngay cả dưới bầu trời khác.
+究極の拳打を追求した鉄拳。伝説の職人と魔法使いが持てる技の全てを費やし、あらゆる魔物を一撃で昇天させる威力を実現した。=Một nắm đấm sắt theo đuổi cú đấm tối thượng. Nó đã dùng hết tài hoa của một nghệ nhân huyền thoại và pháp sư để đạt được sức mạnh lên trời mọi quái vật trong một cú đánh.
+厳しい修行を乗り越えた者だけが手にすることを許された籠手。ひと度身に着ければ精霊の力が漲り、黄金に輝く拳は如何なる岩盤をも穿つ。=Những chiếc găng tay này chỉ được phép cầm nắm bởi những ai đã trải qua huấn luyện khắc nghiệt. Khi đeo vào, chúng được lấp đầy sức mạnh của linh hồn, và những nắm đấm vàng của chúng đè bẹp mọi nền đá.
+ワカナ愛用フライパン…の複製品。フブキに無理矢理改造されており凶悪な見た目になっているが何故か作る料理まで美味しくなっている。=Một bản sao của chiếc chảo rán yêu thích của Wakana. Nó đã bị cải tạo cưỡng ép thành một Fubuki, trông có vẻ hung dữ, nhưng vì lý do nào đó, ngay cả đồ ăn nó làm ra cũng ngon.
+ヤマト御用達のスネークソード…の複製品。折れた剣を直すついでにフブキが伸縮機構を追加。鞭の如く扱えるが、自傷には注意が必要。=Đó là một bản sao của Kiếm Rắn Yamato. Trong khi sửa thanh kiếm gãy, Fubuki thêm cơ chế mở rộng. Nó có thể được vung như một chiếc roi, nhưng cần cẩn thận không để làm tổn thương chính nó.
+ただ一人で戦を勝利に導いた、ある戦士の大剣。一振りで数百人は薙ぎ払えたとされ、敵対国が次の夜明けを迎えることはなかったという。=Đó là thanh đại kiếm của một chiến binh đã dẫn dắt cuộc chiến đến chiến thắng một mình. Người ta nói rằng nó có thể chặt hàng trăm người chỉ trong một vung, và quốc gia thù địch chưa bao giờ chứng kiến bình minh tiếp theo.
+フブキ特製万能レンチ…の複製品。本来の変形機構を削除し、剣モードに固定されているが、動くギザ刃は切れ味が良く工作などにも使える。=Một bản sao của chiếc cờ-vít vạn năng đặc biệt của Fubuki. Cơ chế biến đổi nguyên bản của nó đã bị xóa và cố định ở chế độ kiếm, nhưng lưỡi dao cưa đang chuyển động sắc bén và có thể dùng để chế tác và tương tự.
+苦しみ嘆く人々のため悪を斬る心と呼応し真なる姿を解放した剣。絶望に沈みゆく人々の心を掬い、邪悪の心を持つ存在を滅し、安寧を齎す。=Một thanh kiếm đã giải phóng hình thái thật của mình để đáp lại trái tim đã giết chết cái ác vì những kẻ đang chịu đau khổ và than khóc. Nó vớt lên trái tim của những kẻ chìm vào tuyệt vọng, hủy diệt những kẻ sở hữu trái tim xấu xa, và mang lại hòa bình.
+
+
+
+
+インファーナルオーブ=Quả Cầu Địa Ngục
+冥府から現世に運び込まれたとされる宝玉。玉の中では邪悪な竜の魂がのたうち回っており、もし解放すれば破壊の限りを尽くすという。=Một quả cầu được tin là đã được vận chuyển từ cõi âm đến cõi trần. Bên trong viên ngọc, linh hồn ác độc của một con rồng quằn quại, và người ta nói rằng nếu được giải thoát, nó sẽ giải phóng sự hủy diệt hoàn toàn.
+
+虹色に輝く鉱石を、一流の職人が心血を注いで加工した弓。絆の力を弦に宿すことで、あらゆる鎧を貫く必殺の一矢を放つことができる。=Một cây cung được chế tác từ quặng cầu vồng bởi nghệ nhân giỏi nhất. Có thể bắn một mũi tên chết người có thể xuyên qua mọi loại áo giáp.
+伝承において、大地の巨人が鋳造したとされる大斧。地面をたたき割るほどの一撃は、巨人の怒りにも例えられる。=Một chiếc rìu lớn được cho là đã được một người khổng lồ của trái đất rèn theo truyền thuyết. Một đòn đánh chẻ đôi mặt đất có thể so sánh với cơn thịnh nộ của một người khổng lồ.
+恒星の生命力を宿す杖。そのひと振りは新星の誕生を思わせる爆発を引き起こし、敵対者を極光で焼き尽くすという。=Một cây gậy nắm giữ sức sống của một ngôi sao. Người ta nói rằng một vung sẽ gây ra một vụ nổ gợi nhớ sự ra đời của một ngôi sao mới, thiêu đốt đối thủ với cực quang.
+
+かつて格闘王が身に着け、その魂が乗り移ったとされる指輪。指にはめるだけで岩をも砕く怪力が得られ、無双の強さを発揮できる。=Một chiếc nhẫn từng được vua chiến binh đeo và linh hồn đã được chuyển giao. Bạn có thể nhận được sức mạnh để nghiền nát tảng đá chỉ bằng cách đeo nó trên ngón tay, và có thể thể hiện sức mạnh của các chiến binh.
+悪魔が宿るとされるローブ。まとうと邪悪なささやきが聞こえてくようになるが、それに従えば高度な魔法も難なく扱えるようになる。=Áo choàng được cho là của một con quỷ. Bạn có thể nghe thấy tiếng thì thầm độc ác khi bạn mặc nó, nhưng nếu bạn làm theo nó, bạn sẽ có thể xử lý ma thuật nâng cao mà không gặp khó khăn.
+死霊を操る魔女がまとうドレス。その製法には黒い噂が囁かれ、強大な魔力を得られるが、死者の念に呪われるとも言われている。=Một chiếc váy của một phù thủy điều khiển linh hồn người chết. Những tin đồn đen đã được thì thầm về phương pháp sản xuất, và người ta nói rằng cô bị nguyền rủa bởi người chết, mặc dù cô giành được ma thuật mạnh mẽ.
+森で暮らすエルフたちが、その豊富な知識を用いて制作したローブ。自然の魔力を吸収し、着用者に還元することができる。=Áo choàng được tạo ra bởi các elf sống trong rừng bằng kiến thức phong phú của họ. Nó có thể hấp thụ ma thuật tự nhiên và trả lại cho người mặc.
+
+
+追憶輪ディバイングリフ=Ký Hiệu Thần Ghi Nhớ
+太古の歴史が記録されている腕輪。問いかけに応じて文字が浮かび上がり、失われた英知を持ち主に授け、未来を拓く助けになるという。=Một chiếc vòng tay có lịch sử cổ xưa. Những chữ cái xuất hiện để đáp lại câu hỏi, cho trí tuệ đã mất, và giúp mở ra tương lai.
+
+ドラグーンファング=Răng Rồng
+獄炎をまとう竜の牙から作られた大槍。穂先で大地をなぞるだけで炎が吹き上がり、瞬く間に周囲を煉獄に変えてしまうという。=Một cây giáo lớn được chế tạo từ răng nanh rồng lửa địa ngục. Người ta nói rằng chỉ cần quét đầu giáo xuống mặt đất, ngọn lửa sẽ bùng lên, biến xung quanh thành địa ngục trong chớp mắt.
+
+---Gold ----------------------------------------------------------
+【クラン】フェイトオブワンダラー=[Dòng họ] Số phận của Kẻ Lữ Hành
+【クラン】オナーオブワンダラー=[Dòng họ] Vinh quang của Kẻ Lữ Hành
+【クラン】フェイトオブセンチネル=[Dòng họ] Số phận của Vệ Sĩ
+【クラン】オナーオブセンチネル=[Dòng họ] Vinh quang của Vệ Sĩ
+【クラン】フェイトオブプリースト=[Dòng họ] Số phận của Tế Tư
+【クラン】オナーオブプリースト=[Dòng họ] Vinh quang của Tế Tư
+【クラン】フェイトオブソーサラー=[Dòng họ] Số phận của Pháp Sư
+【クラン】オナーオブソーサラー=[Dòng họ] Vinh quang của Pháp Sư
+
+【クラン】ウィズダムオブノーブル=[Dòng họ] Trí tuệ của Quý Tộc
+【クラン】ワイズオブノーブル=[Dòng họ] Sự khôn ngoan của Quý Tộc
+【クラン】ウィズダムオブシャーマン=[Dòng họ] Trí tuệ của Thầy Bói
+【クラン】ワイズオブシャーマン=[Dòng họ] Sự khôn ngoan của Thầy Bói
+【クラン】ウィズダムオブビショップ=[Dòng họ] Trí tuệ của Giám Mục
+【クラン】ワイズオブビショップ=[Dòng họ] Sự khôn ngoan của Giám Mục
+【クラン】ウィズダムオブアルケミスト=[Dòng họ] Trí tuệ của Nhà Giả Kim
+【クラン】ワイズオブアルケミスト=[Dòng họ] Sự khôn ngoan của Nhà Giả Kim
+【クラン】ウィズダムオブメイガス=[Dòng họ] Trí tuệ của Meigas
+【クラン】ワイズオブメイガス=[Dòng họ] Sự khôn ngoan của Meigas
+
+虹色に輝く鉱石を、一流の職人が心血を注いで加工した法衣。大切な人を守り抜くという決意に呼応し、瀕死の者さえ癒す奇跡を起こす。=Áo choàng được một nghệ nhân bậc thầy chế tác từ khoáng thạch sắc cầu vồng. Thấm đẫm tấm lòng bảo vệ người thân của nghệ nhân, nó thậm chí có thể làm nên phép lạ, hồi sinh những kẻ đang trên bờ vực cái chết.
+虹色に輝く鉱石を、一流の職人が心血を注いで加工した魔装。大切な人を守り抜くという決意に呼応し、あらゆる魔法の力を覚醒させる。=Trang bị phép thuật được một nghệ nhân bậc thầy chế tác từ khoáng thạch sắc cầu vồng. Đồng điệu với ý chí bảo vệ người thân, nó đánh thức sức mạnh của nhiều loại phép thuật khác nhau.
+虹色に輝く鉱石を、一流の職人が心血を注いで加工した服。大切な人を守り抜くという決意に呼応し、運命さえ克服する力を与えてくれる。=Trang phục được chăm chút chế tác bởi một nghệ nhân bậc thầy từ khoáng thạch sắc cầu vồng. Hòa hợp với quyết tâm bảo vệ người thân, nó ban cho sức mạnh vượt qua cả số phận.
+虹色に輝く鉱石を、一流の職人が心血を注いで加工した鎧。大切な人を守り抜くという決意に呼応し、要塞の如き堅牢さを発揮する。=Giáp được chế tác công phu bởi một nghệ nhân bậc thầy từ khoáng thạch sắc cầu vồng. Cộng hưởng với ý chí bảo vệ người thân, nó thể hiện sức bền như pháo đài.
+虹色に輝く鉱石を、一流の職人が心血を注いで加工した耳飾り。愛する人を守り抜くと誓うとき、雄大な自然の恩恵を与えるという。=Bông tai được chế tác với tất cả tâm huyết bởi những nghệ nhân hàng đầu từ khoáng thạch phát sáng màu cầu vồng. Người ta nói rằng nó cung cấp phước lành của thiên nhiên uy nghi khi thề nguyện bảo vệ người thân đến tận cùng.
+月と星々から光を奪うという伝承が残るドレス。周囲の光を吸収して力に変えることで、無尽蔵の魔力をとめどなく供給できる。=Một chiếc váy mang truyền thuyết về việc đánh cắp ánh sáng từ mặt trăng và các vì sao. Hấp thụ ánh sáng xung quanh và có thể liên tục cung cấp năng lượng ma thuật.
+伝承に謳われる精霊の加護を宿した霊剣。風の元素をまとうその刃はあらゆる鎧を両断し、使い手に勝利をもたらしたという。=Một thanh kiếm linh hồn mang phước lành của các linh hồn huyền thoại. Lưỡi kiếm mang nguyên tố gió của nó có thể cắt qua mọi loại áo giáp và mang lại chiến thắng cho người cầm.
+古代王国の伝承にも残る魔法書。あらゆる属性魔法について記されており、太古の魔法使いはそれらを駆使して敵の軍勢を打ち破ったという。=Một quyển sách phép thuật chứa kiến thức về mọi thuộc tính phép. Các pháp sư cổ đại từng sử dụng chúng để đánh bại kẻ thù.
+幾千の人々の平和への祈りが形を成したローブ。その純粋な願いの力からもたらされる加護は、祈祷の効果を極限にまで高めるという。=Một chiếc áo choàng được hình thành từ những lời cầu nguyện cho hòa bình của hàng ngàn người. Phước lành của nó cực kỳ khuếch đại hiệu quả của các lời cầu nguyện.
+虹色に輝く鉱石を、一流の職人が心血を注いで加工した耳飾り。愛する人を守り抜くと誓うとき、雄大な自然の恩恵を与えるという。=Bông tai được chế tác với tất cả tâm huyết bởi những nghệ nhân hàng đầu từ khoáng thạch phát sáng màu cầu vồng. Người ta nói rằng nó cung cấp phước lành của thiên nhiên uy nghi khi thề nguyện bảo vệ người thân đến tận cùng.
+非常に強力な癒しの力を有する耳飾り。結晶の形状も相まって、傷ついた者のために流された慈母の涙であると信じられている。=Bông tai với khả năng chữa lành mạnh mẽ. Được tin là giọt nước mắt của một người mẹ yêu thương có hình dạng pha lê ở phần trên.
+高位の占い師が身に着ける首飾り。運命を読み取る力があるといわれ、迷える者に進むべき正しい未来を示してくれる。=Một chiếc vòng cổ dành cho các nhà bói toán cấp cao. Có thể dự đoán số phận và dẫn lối cho một tâm hồn lạc lối về tương lai đúng đắn.
+稀代の大道芸人が遺した手記。魔法を大道芸に応用する方法が記されている。その柔軟な発想は、既存の魔導書とは一線を画す。=Một bản ghi chép để lại bởi một nghệ sĩ biểu diễn đường phố nổi tiếng về cách áp dụng phép thuật vào biểu diễn đường phố. Ý tưởng của ông khác biệt hoàn toàn với các sách phép thuật hiện có.
+あらゆる負傷者を分け隔てなく癒した祈り手について記された本。その物語は、読んだ者に慈愛の精神と癒しの奇跡を授けるという。=Một quyển sách ghi chép về một người chữa lành có thể chữa lành bất kỳ ai bị thương. Câu chuyện của nó ban cho người đọc tinh thần từ bi và phép lạ chữa lành.
+禍々しい輝きを放つ、赤い宝石がはめ込まれた魔導書。強力な魔法と引き換えに術者の生命力を奪うとされ取り扱いには慎重を要する。=Một quyển sách phép thuật có viên đỏ rực với ánh sáng đầy ám khí. Các phép nguy hiểm của nó có cái giá phải trả là cạn kiệt sức mạnh ma thuật của người sử dụng.
+暴虐の限りを尽くした将軍が身に着けていたという手甲。殴打の威力を高める突起部は、半端な鎧であれば容赦なく粉砕してしまう。=Giáp được mặc bởi một tướng quân bạo chúa. Các phần có gai đủ sức mạnh để nghiền nát mọi loại áo giáp một cách dễ dàng.
+森を根城にする、ある義賊が使っていたクロスボウ。その一矢はどんなに深い森の中でも、標的を見失うことなく射抜いてしまうという。=Một chiếc ná được sử dụng bởi một tên cướp nào đó có rừng làm căn cứ. Mũi tên của nó không bao giờ sai mục tiêu, ngay cả trong những khu rừng sâu.
+勇猛な白馬を思わせる戦弓。騎馬戦を得意とする騎士のために作られた特注品であり、弦を素早く引き絞ることに特化した性能となっている。=Một cây cung chiến đấu gợi nhớ một con ngựa trắng dũng cảm. Được chế tác riêng cho các hiệp sĩ cưỡi ngựa, đặc điểm nổi bật là khả năng rút cung nhanh.
+謎多き暗殺者が任務の際に用いていたナイフ。他人の命を奪うたびに鋭さが増すが、その刃はやがて持ち主にも向けられると伝わっている。=Một con dao được sử dụng bởi một sát thủ bí ẩn. Độ sắc của nó tăng lên với mỗi mạng người nó lấy đi, nhưng người ta nói rằng nó cuối cùng sẽ quay sang phản chủ.
+神霊への畏敬の念を込めて打たれた霊剣。怒り猛る神々を鎮めるための剣であり、使い手の霊感を大きく高める効果があるという。=Một thanh kiếm linh hồn được tạo ra với sự kính sợ thần linh. Giúp xoa dịu các vị thần điên cuồng và tăng khả năng cảm nhận tâm linh của người cầm.
+一般騎士などが用いる、シンプルな盾。安価でありながら性能も決して低くはなく、人気が高い。=Một tấm khiên đơn giản được sử dụng bởi các hiệp sĩ thường. Chi phí thấp nhưng hiệu quả tốt, khiến nó trở nên phổ biến.
+
+虹色に輝く鉱石を、一流の職人が心血を注いで加工した宝石。愛する人を守り抜くという決意に呼応し、比類なき英知を授けてくれるという。=Một viên đá quý được chế tác bởi những nghệ nhân tài ba với khoáng thạch phát sáng màu cầu vồng. Người ta nói rằng nó ban cho trí tuệ vượt trội khi quyết tâm bảo vệ người thân.
+虹色に輝く鉱石を、一流の職人が心血を注いで加工した首飾り。愛する人を守り抜くという決意に呼応し、驚くべき奇跡を発現させるという。=Một chiếc vòng cổ được chế tác bởi những nghệ nhân tài ba với khoáng thạch phát sáng màu cầu vồng. Người ta nói rằng nó hiện ra những phép lạ kỳ diệu khi quyết tâm bảo vệ người thân.
+虹色に輝く鉱石を、一流の職人が心血を注いで加工した腕輪。愛する人を守り抜くという決意に呼応し、聖なる光で邪を払う力を得るという。=Một chiếc vòng tay được chế tác bởi những nghệ nhân tài ba với khoáng thạch phát sáng màu cầu vồng. Người ta nói rằng nó ban cho sức mạnh trừ tà với ánh sáng thánh khi quyết tâm bảo vệ người thân.
+虹色に輝く鉱石を、一流の職人が心血を注いで加工した指輪。愛する人を守り抜くという決意に呼応し、大いなる繁栄を約束するという。=Một chiếc nhẫn được chế tác bởi những nghệ nhân tài ba với khoáng thạch phát sáng màu cầu vồng. Người ta nói rằng nó hứa hẹn sự thịnh vượng lớn lao khi quyết tâm bảo vệ người thân.
+虹色に輝く鉱石を、職人が丁寧に加工した宝石。誰かを守りたいと強く願うと、呼応するかのように新たな知恵を与えてくれる。=Một viên đá quý được chế tác cẩn thận bởi các nghệ nhân với khoáng thạch phát sáng màu cầu vồng. Nếu bạn ước muốn mạnh mẽ bảo vệ ai đó, nó sẽ cung cấp trí tuệ mới mẻ để đáp lại.
+虹色に輝く鉱石を、職人が丁寧に加工した首飾り。誰かを守りたいと強く願うと、呼応するかのように不思議な力を現すという。=Một chiếc vòng cổ được chế tác cẩn thận bởi các nghệ nhân với khoáng thạch phát sáng màu cầu vồng. Người ta nói rằng nó hiện ra một sức mạnh bí ẩn để đáp lại khát vọng mạnh mẽ bảo vệ ai đó.
+虹色に輝く鉱石を、職人が丁寧に加工した指輪。誰かを守りたいと強く願うと、呼応するかのように幸運を招き寄せてくれる。=Một chiếc nhẫn được chế tác cẩn thận bởi các nghệ nhân với khoáng thạch phát sáng màu cầu vồng. Người ta nói rằng nó thu hút vận may tốt để đáp lại ước nguyện mạnh mẽ bảo vệ ai đó.
+
+【クラン】ブレイブオブガード=[Dòng họ] Lòng Dũng Cảm của Lính Gác
+虹色に輝く鉱石を、一流の職人が心血を注いで加工した盾。人々の絆の力がそのまま堅牢さとなり、どんな攻撃からも使い手を守り抜く。=Một tấm khiên được chế tác từ quặng cầu vồng bởi một nghệ nhân tốt nhất. Sức mạnh của sự gắn bó của mọi người trở nên vững chắc, bảo vệ người dùng khỏi mọi cuộc tấn công.
+
+【クラン】ブレイブオブトルーパー=[Dòng họ] Lòng Dũng Cảm của Bộ Binh
+虹色に輝く鉱石を、一流の職人が心血を注いで加工した槍。人々の絆の力を穂先に込めることで、あらゆる邪悪を穿ち、祓うことができる。=Một cây thương được chế tạo từ quặng cầu vồng bởi một thợ lành nghề nhất. Bằng cách đặt sức mạnh của sự gắn bó vào mũi nhọn, mọi loại tà ác đều có thể bị mài mòn và thanh tẩy.
+
+【クラン】ホープオブナイト=[Clan] Hy Vọng của Kỵ Sĩ
+虹色に輝く鉱石を、一流の職人が心血を注いで鍛え上げた剣。人々の絆を鋭さに変え、それを脅かそうとする全てを斬り払う力を持つ。=Một thanh kiếm được chế tạo từ quặng cầu vồng bởi một thợ lành nghề nhất. Nó có sức mạnh để mài nhọn sự gắn bó của con người và chém đứt mọi thứ đe dọa họ.
+
+【クラン】ブレイブオブグラップラー=[Clan] Dũng Cảm của Đấu Sĩ
+虹色に輝く鉱石を、一流の職人が心血を注いで加工した手甲。人々の絆の力によって強化された拳打は音よりも速く飛び、敵対者を打ち砕く。=Một đôi găng tay được chế tạo từ quặng cầu vồng bởi một thợ lành nghề nhất. Được củng cố bởi sức mạnh của sự gắn bó con người, một cú đấm có thể nhanh hơn âm thanh và nghiền nát đối thủ.
+
+【クラン】ブレイブオブウォーリアー=[Clan] Dũng Cảm của Chiến Binh
+虹色に輝く鉱石を、一流の職人が心血を注いで加工した大斧。人々の絆の力によって苛烈な攻撃が可能となり、悪意ある者を粉砕する。=Một rìu lớn được chế tạo từ quặng cầu vồng bởi một thợ lành nghề nhất. Sức mạnh của sự gắn bó con người cho phép một cuộc tấn công dữ dội, nghiền nát những kẻ có ý đồ xấu.
+
+【クラン】ホープオブレンジャー=[Clan] Hy Vọng của Xạ Thủ
+虹色に輝く鉱石を、一流の職人が心血を注いで鍛え上げた剣。絆の力を刃に帯びることで全ての障害を切り払い、進路を拓くことができる。=Một thanh kiếm được rèn từ quặng cầu vồng bởi một thợ lành nghề nhất. Bằng cách mang theo sức mạnh của sự gắn bó trên lưỡi kiếm, nó có thể cắt qua mọi trở ngại và mở ra một con đường.
+
+【クラン】ブレイブオブホプライト=[Clan] Dũng Cảm của Hoplite
+虹色に輝く鉱石を、一流の職人が心血を注いで加工した大剣。人々の絆の力を刀身にまとい、悪意ある者を一刀で斬り伏せる。=Một thanh đại kiếm được chế tạo từ quặng cầu vồng bởi một thợ lành nghề nhất. Với sức mạnh của sự gắn bó con người trong lưỡi kiếm, nó chém đổ những kẻ có ý đồ xấu chỉ trong một nhát.
+
+【クラン】ホープオブセージ=[Clan] Hy Vọng của Đạo Sĩ
+虹色に輝く鉱石を、一流の職人が心血を注いで加工した魔導書。人々の絆に呼応し、使い手に英知を与え、あらゆる秘術の行使を可能にする。=Một cuốn sách ma thuật được chế tạo từ quặng cầu vồng bởi một thợ lành nghề nhất. Phản ứng với sự gắn bó của con người, ban cho người sử dụng trí tuệ và cho phép sử dụng mọi loại bí thuật.
+
+【クラン】ホープオブウィザード=[Clan] Hy Vọng của Pháp Sư
+虹色に輝く鉱石を、一流の職人が心血を注いで加工した杖。絆の力を球体部に集中させることで、圧倒的な威力を誇る魔法を放つ。=Một cây gậy được chế tạo từ quặng cầu vồng bởi một thợ lành nghề nhất. Bằng cách tập trung sức mạnh của sự gắn bó vào quả cầu, nó giải phóng ma thuật sở hữu sức mạnh áp đảo.
+
+大神官の聖杖=Quyền Trượng của Tư Tế
+大神官が携えている聖杖。権威の証であるだけでなく、あらゆる邪悪を打ち払い、人々を信仰の光で照らしてくれるという。=Quyền trượng thiêng liêng mà vị tư tế lớn đang mang theo. Không chỉ là biểu tượng của quyền uy, nó còn tiếp nhận mọi tà ác và chiếu sáng con người bằng ánh sáng của tôn giáo.
+
+テンペストオーダー=Trật Tự Bão Tố
+荒れ狂う風の力を宿した杖。魔力によって制御された暴風は、敵の軍勢だけを的確に薙ぎ払い、圧倒的な勝利を術者にもたらすという。=Một cây gậy với cơn gió thô bạo. Cơn bão được kiểm soát bởi ma thuật được cho là có thể chính xác hủy diệt quân đội kẻ thù và mang lại chiến thắng áp đảo cho bác sĩ.
+
+ストームガード=Lá Chắn Bão
+風の力を宿す、特殊な魔石を用いた丸盾。攻撃しようとしても剣ははじき返され、矢はことごとく叩き落されるという。=Một tấm khiên tròn sử dụng một viên đá ma thuật đặc biệt phát ra sức mạnh của gió. Ngay cả khi cố gắng tấn công, thanh kiếm cũng bị đẩy lùi, và mọi mũi tên đều bị đánh gục.
+
+紅蓮の大盾=Lá Chắn Lớn Đỏ Thẫm
+幾千もの戦場を駆け抜けていきた大盾。頑強な面の縁を紅く彩るのは屠ってきた数多の魔物の返り血だと云われている。=Một lá chắn lớn đã trải qua hàng nghìn chiến trường. Người ta nói rằng máu của nhiều quái vật đã bị tàn sát là nguyên nhân làm cho màu sắc của cạnh cứng rắn.
+
+ゆらぎの星石=Viên Đá Sao Biến Động
+不確かな未来を象徴するといわれる魔石。魔力を大きく強化する効果があるものの、非常に不安定であり、優秀な魔法使いにしか扱えない。=Một viên đá ma thuật được cho là tượng trưng cho tương lai bất định. Mặc dù nó có hiệu quả tăng cường ma thuật lớn, nó rất bất ổn và chỉ có thể được xử lý bởi một pháp sư ưu tú.
+
+グローリーオブマーセナリー=Vinh Quang của Lính Thuê
+あらゆる戦に参加して財を成した、ある傭兵団長の腕輪。贅沢な造りが目を引くが、重ね掛けされた魔法によって圧倒的な防御力も備える。=Một lãnh đạo đoàn xe đã tham gia mọi trận chiến và vận chuyển hàng hóa. Cấu trúc xa hoa thu hút ánh nhìn, nhưng ma thuật áp đảo cũng có sức phòng thủ áp đảo.
+
+灼熱の指輪=Chiếc Nhẫn Cháy
+燃え盛る炎の力を宿すと言われている指輪。身に着けると肉体に煮えたぎるような活力をが溢れ、どんな困難にも打ち勝つ強さを発揮できる。=Một chiếc nhẫn được cho là có sức mạnh của ngọn lửa cháy bỏng. Khi đeo nó, bạn có thể tràn đầy sinh khí sôi sục trong cơ thể và thể hiện sức mạnh để vượt qua mọi khó khăn.
+
+エンシェントオーブ=Quả Cầu Cổ Đại
+古代の遺跡から発掘された宝珠。一流の魔法使いであっても扱いには危険を伴うが、得られる膨大な魔力は極上の魔法を実現させる。=Một viên ngọc được khai quật từ một di chỉ cổ. Ngay cả một pháp sư hàng đầu cũng nguy hiểm khi sử dụng, nhưng lượng ma lực khổng lồ có thể thu được cho phép hiện thực hóa ma thuật tinh tế nhất.
+
+ホーリーエイド=Sự Giúp Đỡ Thánh Thiện
+回復魔法を扱う者のための装束。清らかな心で負傷者を救ってほしいという願いが込められており、着用者は速やかな治療が可能になる。=Một chiếc áo cho những người xử lý ma thuật hồi phục. Mong muốn cứu chữa người bị thương bằng một trái tim trong sạch được bao gồm, và người mặc sẽ có thể điều trị nhanh chóng.
+
+プロミネンススタッフ=Gậy Prominence
+燃え盛る炎の力を封じ込めたという杖。その一撃は瞬く間に戦場を火の海に変えてしまうほどで、扱うには相応の技量を要する。=Một cây gậy chứa đựng sức mạnh của ngọn lửa cháy bỏng. Cú đánh nhanh chóng biến chiến trường thành biển lửa, và cần có kỹ năng phù hợp để xử lý nó.
+
+白翼の銀盾=Lá Chắn Bạc Cánh Trắng
+高潔な騎士が愛用した盾。使い手が盾に認められると羽毛のように軽く認められなければ鉄塊の如く重くなることから試しの盾とも言われる。=Một tấm khiên được sử dụng bởi một kỵ sĩ quý tộc. Nếu người sử dụng được lá chắn công nhận, nó sẽ nặng như một khối sắt; nếu không được công nhận, nó sẽ nhẹ như lông vũ.
+
+僧兵の槍斧=Rìu-Thương của Tăng Sĩ
+聖職者が悪しき存在と戦う時に用いる槍斧。聖水を用いて研がれた刃には破魔の効果が宿り、巨大な魔物をも退けるという。=Một rìu-thương được sử dụng khi một tăng sĩ chiến đấu với những sinh vật xấu. Người ta nói rằng lưỡi rìu được thánh hóa bằng nước thánh có tác dụng chống lại quỷ dữ, để lại những quái vật khổng lồ.
+
+
+ゴールデンソーン=Gai Vàng
+金色の棘を刀身に備えたレイピア。聖者が祝福した薔薇を用いて作ったとされ、あらゆる困難を耐え忍ぶ信仰心を持ち主に与えるという。=Một thanh rapier với những gai vàng trên lưỡi kiếm. Người ta cho rằng nó được làm bởi một vị thánh bằng một bông hồng được ban phước, trao cho chủ nhân có thể chịu đựng mọi khó khăn.
+
+キングスプライド=Niềm Kiêu Hãnh của Vua
+王に認められた騎士にのみ与えられる大斧。これを携えながら敗走するということは許されず、使い手は決死の覚悟を求められる。=Một rìu lớn chỉ được trao cho kỵ sĩ được vua công nhận. Không được phép thua khi mang theo nó, và người sử dụng được quyết định sống còn.
+
+天空のネックレス=Chiếc Dây Chuyền Trên Bầu Trời
+青い魔法石が繋がれたネックレス。元来は天空に祈りを捧げる巫女の装飾品であり、敬虔な祈りを捧ぐ者には星の加護を与えてくれるという。=Một chiếc dây chuyền với những viên đá ma thuật xanh. Ban đầu là phụ kiện cho một miko cầu nguyện bầu trời, những ai dâng lên những lời cầu nguyện thành tâm sẽ được ban phước bởi những vì sao.
+
+ネイチャーズブレス=Hơi Thở của Thiên Nhiên
+大自然の魔力を帯びる宝石を用いた腕輪。着用者はその一身に木々と大地の力を得て、あらゆる災害から身を護る術を得る。=Một chiếc vòng tay sử dụng trang sức có sức mạnh của thiên nhiên. Người đeo nhận được sức mạnh của cây cối và đất, và sự bảo vệ khỏi mọi thảm họa.
+
+ゴシックアイリス=Đài Iris Gothic
+貴族向けのドレスの中でも最高級の逸品。たおやかに咲く花を思わせる美しい装飾の数々は、見た者を恍惚とさせるという。=Viên ngọc tinh xảo nhất trong những bộ trang phục của quý tộc. Nhiều trang trí đẹp mắt gợi nhớ một bông hoa nở nhẹ nhàng.
+
+蓮花宣誓の装束=Áo Choàng Lời Thề Hoa Sen
+咲き誇る蓮の花に向かい、神々への誓いを立てるための装束。誓いと引き換えに得られた加護は、あらゆる災いから着用者を守り抜く。=Áo choàng thề nguyện với các vị thần, hướng về những đóa sen nở rộ. Lời chúc được ban tặng để đổi lấy lời thề ấy bảo vệ người mặc khỏi mọi tai ương.
+
+エメラルドホーク=Diều Hâu Ngọc Lục
+風の魔法がかけられている鎧。これをまとった戦士は鷲のように戦場を飛び回る身軽さを得て、あらゆる攻撃を避けられるようになる。=Áo giáp mang phong cách ma thuật gió. Chiến binh mặc nó sẽ có thể tránh mọi đòn tấn công, đạt được sự nhẹ nhàng như đang bay lượn trên chiến trường như một đại bàng.
+
+深紅の宝石が目を引く聖鎧。祖国に尽くした騎士の魂が宿るとされ、身に着けた者は一撃で敵を葬る剣技を繰り出せるようになる。=Áo giáp thánh với viên ngọc đỏ thẫm. Người ta nói rằng linh hồn của hiệp sĩ đã cống hiến cho quê hương sẽ trú ngụ trong đó, và ai mặc nó sẽ có thể thi triển kiếm thuật chôn vùi kẻ thù chỉ trong một đòn.
+
+ゴールデンソルジャー=Binh Vàng
+戦場でもはっきりとわかるほど、金色に煌めく鎧。その輝きは魔力による加工を経たためで、身体能力を限界まで高める効果を備えている。=Một bộ áo giáp lấp lánh màu vàng rõ rệt đến mức có thể nhìn thấy trên chiến trường. Ánh sáng ấy đã vượt qua sức mạnh ma thuật, và có hiệu quả tăng cường khả năng thể chất lên tối đa.
+
+桜花蒼天の戦装束=Chiến Y Hoa Anh Đào Trời Xanh
+鮮やかな桜色と青色が目を引く、戦用の装束。着用すれば宙に舞う花びらのように自在な剣捌きが可能となり、曇りなき勝利が得られる。=Một chiếc váy chiến tranh với màu hoa anh đào sống động và màu xanh. Nếu mặc nó, bạn sẽ có thể sử dụng kiếm tự do như cánh hoa đang bay lượn trong không khí, và chiến thắng rực rỡ sẽ được giành lấy.
+
+シャドウオブローズ=Bóng Hồng
+かつて世間を騒がせた怪盗が用いていたという装束。施された派手な装飾は、それでも盗みを成功させるという怪盗の自信のあらわれである。=Áo choàng từng được một tên trộm ảo ảnh gây chấn động thế giới mặc. Những trang trí lộng lẫy trên đó là biểu hiện của sự tự tin của tên trộm ảo ảnh rằng hắn sẽ thành công trong vụ trộm.
+
+デーモンハンド=Bàn Tay Quỷ
+邪悪な魔力を帯びているかぎづめ。やすやすと鎧を切り裂き、確実に致命傷を与えてくるため、悪魔の手招きとも例えられている。=Một chiếc vuốt ngấm đầy ma thuật tà ác. Vì dễ dàng cắt xuyên áo giáp và gây thương tích chết người, nó còn được gọi là lời mời gọi của quỷ dữ.
+
+ゴールデンサウンド=Âm Thanh Vàng
+純金を贅沢に用いた多弦弓。この弓で奏でられる旋律は黄金に等しい価値があると称えられ、戦場に立つ全ての兵士を奮い立たせる。=Một cung nhiều dây làm bằng vàng nguyên chất. Giai điệu được chơi bởi cung này được ca ngợi là xứng đáng với vàng, truyền cảm hứng cho mọi binh lính trên chiến trường.
+
+イビルホーン=Sừng Quỷ
+悪魔の角を切り落として作られた片手斧。邪気をまとった黒い刃は、使い手の心から慈悲をなくし、敵対者に致命の一撃を与える。=Một rìu một tay được làm từ sừng quỷ bị chặt đứt. Lưỡi bị bao bọc trong sự tà ác, lấy đi sự thương xót khỏi trái tim người sử dụng và gây ra đòn đánh chí mạng cho kẻ thù.
+
+エンドレスバーン=Ngọn Lửa Vô Tận
+烈火の如き猛攻を可能にする、炎の魔力を帯びた大斧。使い手の闘争心を高め、一度振り下ろすと相手が倒れるまで連撃を止められなくなる。=Một rìu lớn ngấm đầy ma thuật lửa, cho phép những đòn tấn công dữ dội như ngọn lửa cuồng nộ. Nâng cao tinh thần chiến đấu của người sử dụng, và một khi bạn vung xuống, bạn sẽ không thể dừng chuỗi tấn công liên tục cho đến khi đối thủ bị hạ gục.
+
+コマンダーランス=Giáp Lân Tướng
+軍隊の指揮官が用いるランス。階級を示すための装備であり、混乱した戦場においても、兵士たちはこの槍を持つ者に付き従う。=Giáp lân được các tướng lĩnh quân đội sử dụng. Đây là trang bị để thể hiện cấp bậc, và ngay cả trên chiến trường hỗn loạn, binh lính cũng tuân theo ngọn giáo.
+
+エルダーナイトランス=Giáp Lân Hiệp Sĩ Lão Luyện
+優秀な騎士のみが持つことを許されるランス。これを持っていること自体が一騎当千の証とされ、敵対者の戦意を奪う。=Một ngọn giáo chỉ các hiệp sĩ ưu tú được phép cầm. Sở hữu nó bản thân đã được coi là bằng chứng của Ikki Tousen, và nó tước đi tinh thần chiến đấu của đối thủ.
+
+祈りの小剣=Dao Găm Lời Cầu Nguyện
+信仰にその身を捧げる人々が携えている小剣。信心の高い持ち主には神聖な加護が与えられ、邪悪な存在から身を守るという。=Một con dao găm được những người dành trọn đời cho đức tin mang theo. Người ta nói rằng chủ nhân có đức tin cao sẽ được ban tặng sự bảo hộ thần thánh và sẽ tự bảo vệ mình khỏi những sinh vật ác.
+
+ウナーデシュヴァリエ=Unadeschevalier
+主君に命懸けの誓いを立てた、ある騎士の短剣。誓いは剣に力を与え、細身の刀身から想像もできないほど強烈な刺突を放つことができる。=Một con dao găm của hiệp sĩ đã thề nguyện với chủ nhân mình. Lời thề ban cho lưỡi kiếm sức mạnh và có thể phát ra những đòn chém đủ mạnh để tưởng tượng từ một lưỡi kiếm mảnh khảnh.
+
+ドラゴンネイル=Móng Vuốt Rồng
+竜を崇める傭兵団が使っていたとされる大剣。その刀身自体が黒い竜の爪先を模しているとされ、頑強な鎧でもたやすく切り裂いてしまう。=Một thanh đại kiếm được cho là đã được một nhóm lính đánh thuê thờ phụng rồng sử dụng. Lưỡi kiếm bản thân được cho là giống với ngón chân của một con rồng đen, và có thể dễ dàng chém xuyên qua cả áo giáp cứng nhất.
+
+アイスバウンド=Băng Giá Trói Buộc
+氷のように冷たい鋼材を用いた剣。寒冷地を守護する騎士が用いたとされ、氷点下で打ち合っても刃こぼれひとつしないという。=Một thanh kiếm sử dụng thép lạnh như băng. Người ta nói rằng nó được hiệp sĩ bảo vệ vùng lạnh giá sử dụng, và sẽ không đổ máu ngay cả khi bạn đánh nó trong điều kiện đóng băng.
+
+暗殺者の装飾剣=Kiếm Trang Trí Sát Thủ
+遺跡から発掘された、美しい装飾の曲剣。伝承では、暗殺者がこれを王に献上するふりをして近づき、一刀で命を絶ったという。=Một thanh kiếm cong được trang trí đẹp mắt được khai quật từ những phế tích. Huyền thoại kể rằng một sát thủ giả vờ tặng nó cho vua và tiếp cận, giết ông ta chỉ bằng một nhát chém.
+
+ノーブルフラッシュ=Tia Chớp Quý Tộc
+ある貴族のために制作された長剣。その絢爛ながらも上品な装飾には、強さと優雅さを備えた貴族たれ、という願いが込められている。=Một thanh kiếm dài được làm cho một quý tộc. Sự trang trí lộng lẫy nhưng thanh lịch tràn đầy khát vọng trở thành một quý tộc mạnh mẽ và thanh thoát.
+
+インドミタブルスカイ=Bầu Trời Bất Khả Chiến Bại
+自由のために命を懸けた、ある英雄の鎧。誰も大空を支配することができないように、この鎧の着用者を屈服させることは不可能である。=Áo giáp của một vị anh hùng đã chết vì tự do. Không thể để kẻ mặc chiếc áo giáp này khuất phục để không ai có thể kiểm soát bầu trời.
+
+伊藤美来すこすこ侍=Áo Giáp Samurai Mika Ito
+貴族が決闘の際に着用する服装。見事な装飾が目を引くが、使われている生地は強力な魔物の皮であり、並の鎧よりはるかに堅牢である。=Quần áo mặc bởi các quý tộc trong trận đấu. Những trang trí đẹp mắt thu hút ánh nhìn, nhưng vải được sử dụng là da quái vật mạnh mẽ, vững chắc hơn nhiều so với áo giáp thông thường.
+
+---Silver---------------------------------------------------------------------------------
+【クラン】ウィッシュオブセージ=[Clan] Nguyện Ước của Đạo Sư
+虹色に輝く鉱石を、職人が丁寧に加工した魔導書。強く他者を想うほど鉱石に力が宿り、多彩な秘術を扱えるようになる。=Một quyển sách ma thuật được các nghệ nhân chế tác cẩn thận bằng quặng cầu vồng. Bạn càng suy nghĩ mạnh mẽ về người khác, bạn càng trở nên mạnh mẽ, và bạn sẽ có thể xử lý nhiều bí mật khác nhau.
+
+【クラン】ウィッシュオブウィザード=[Clan] Nguyện Ước của Pháp Sư
+虹色に輝く鉱石を、職人が丁寧に加工した杖。強く他者を想うほど鉱石に力が宿り、より強力な魔法を放つことができる。=Một cây gậy được một nghệ nhân chế tác cẩn thận bằng quặng cầu vồng. Bạn càng suy nghĩ mạnh mẽ về người khác, bạn càng có thể phát ra ma thuật mạnh mẽ hơn.
+
+【クラン】ウィルオブガード=[Clan] Ý Chí của Người Bảo Vệ
+虹色に輝く鉱石を、職人が丁寧に加工した盾。強く他者を想うほど鉱石に力が宿り、強力な攻撃に耐えられる強度を得る。=Một tấm khiên được một nghệ nhân chế tác cẩn thận bằng quặng cầu vồng. Bạn càng suy nghĩ mạnh mẽ về người khác, sức mạnh càng tăng lên, tạo ra sức mạnh có thể chống lại những đòn tấn công mạnh mẽ.
+
+【クラン】ウィルオブグラップラー=[Clan] Ý Chí của Đấu Sĩ
+虹色に輝く鉱石を、職人が丁寧に加工した手甲。強く他者を想うほど鉱石に力が宿り、困難を打ち砕く拳打を放つことができる。=Một quyền cước được một nghệ nhân chế tác cẩn thận bằng quặng cầu vồng. Bạn càng suy nghĩ mạnh mẽ về người khác, sức mạnh càng được chứa đựng trong quặng, cho phép bạn tung ra một cú đấm phá tan mọi khó khăn.
+
+【クラン】ウィッシュオブアーチャー=[Clan] Nguyện Ước của Xạ Thủ
+虹色に輝く鉱石を、職人が丁寧に加工した弓。強く他者を想うほど鉱石に力が宿り、より正確な一矢を放つことができる。=Một cây cung được một nghệ nhân chế tác cẩn thận bằng quặng cầu vồng. Bạn càng suy nghĩ mạnh mẽ về người khác, bạn càng có thể bắn ra những mũi tên chính xác hơn.
+
+【クラン】ウィルオブウォーリアー=[Clan] Ý Chí của Chiến Binh
+虹色に輝く鉱石を、職人が丁寧に加工した大斧。強く他者を想うほど鉱石に力が宿り、相手を防具ごと両断できる一撃を放つことができる。=Một rìu lớn được các nghệ nhân chế tác cẩn thận bằng quặng cầu vồng. Bạn càng suy nghĩ mạnh mẽ về người khác, bạn càng có thể phát ra những đòn đánh mạnh mẽ, có thể chém xuyên qua cả áo giáp.
+
+【クラン】ウィルオブトルーパー=[Clan] Ý Chí của Bộ Binh
+虹色に輝く鉱石を、職人が丁寧に加工した槍。強く他者を想うほど鉱石に力が宿り、より強烈な刺突を放つことができる。=Một ngọn giáo được các nghệ nhân chế tạo tỉ mỉ từ quặng cầu vồng. Bạn càng suy nghĩ về người khác, gậy càng trở nên mạnh mẽ và có thể phát ra sức xuyên phá càng mãnh liệt.
+
+【クラン】ウィッシュオブレンジャー=[Clan] Nguyện Ước của Xạ Thủ
+虹色に輝く鉱石を、職人が丁寧に鍛え上げた短剣。強く他者を想うほど鉱石に力が宿り、切っ先が鋭さを増していく性質を持つ。=Một con dao găm được các nghệ nhân rèn luyện tỉ mỉ từ quặng cầu vồng. Người khác càng suy nghĩ về người khác, sức mạnh trong đá càng lớn, và những nhát chém càng sắc bén.
+
+【クラン】ウィルオブホプライト=[Clan] Ý Chí của Hộ Pháp
+虹色に輝く鉱石を、職人が丁寧に加工した大剣。強く他者を想うほど鉱石に力が宿り、斬撃の重みが増す性質を持つ。=Một thanh đại kiếm được các nghệ nhân chế tác tỉ mỉ từ quặng cầu vồng. Bạn càng nhớ đến người khác, sức mạnh trong đá càng lớn, và sức nặng của những nhát chém càng tăng lên.
+
+【クラン】ウィッシュオブナイト=[Clan] Nguyện Ước của Kỵ Sĩ
+虹色に輝く鉱石を、職人が丁寧に鍛え上げた剣。強く他者を想うほど鉱石に力が宿り、刃が強靭になっていく性質を持つ。=Một thanh kiếm được các nghệ nhân rèn luyện tỉ mỉ từ quặng cầu vồng. Người khác càng suy nghĩ về người khác, sức mạnh trong đá càng lớn, và lưỡi kiếm càng trở nên dai dẳng.
+
+ネクロマンサースタッフ=Gậy của Necromancer
+ネクロマンサーが亡霊を使役する際に用いる杖。霊木の枝から作られており、霊を操る精度を高める効果がある。=Một cây gậy được Necromancer sử dụng để điều khiển ma quỷ. Được làm từ cành của cây linh hồn và có tác dụng tăng độ chính xác khi điều khiển linh hồn.
+
+カーススタッフ=Gậy Nguyền Rủa
+呪術師たちのために造られた杖。未熟な術者は自ら呪いを被ってしまうこともあるため、扱いには注意が必要である。=Một cây đũa được xây dựng cho các pháp sư. Người phẫu thuật non kinh nghiệm có thể bị chính mình nguyền rủa, vì vậy cần hết sức thận trọng khi sử dụng.
+
+ハイワンド=Gậy Cao Cấp
+占星術に基づいた中級魔法を扱うための杖。初学を修めた魔法使いが次に手にする定番の杖として、広く親しまれる。=Một cây gậy cho ma thuật trung cấp dựa trên chiêm tinh học. Nó được ưa chuộng rộng rãi như cây gậy kinh điển tiếp theo mà pháp sư học xong nghiên cứu đầu tiên sẽ sở hữu.
+
+アイアンシールド=Khiên Sắt
+オーソドックスな性能の大盾。値段と使い勝手の良さから、幅広い冒険者の間で長く愛用されている。=Một tấm khiên lớn với hiệu năng chính thống. Nhờ giá cả và dễ sử dụng, nó đã được sử dụng lâu dài trong số một loạt các mạo hiểm giả.
+
+クリティカルリング=Critical Ring
+施された魔法によって、正確な攻撃を可能にする指輪。その性質から弓兵たちに重宝されている。=Một chiếc nhẫn cho phép tấn công chính xác nhờ ma thuật được áp dụng. Do bản chất của nó, nó hữu ích cho các tay cung.
+
+パールドレス=Váy Ngọc Trai
+高級感溢れる純白のドレス。貴族の女性が舞踏会などで身に着けることが多く、清純な印象を与えられるようデザインされている。=Một chiếc váy trắng tinh khiết đầy xa hoa. Nó thường được thiết kế bởi những phụ nữ quý tộc tại các buổi khiêu vũ, gây ấn tượng thuần khiết.
+
+
+ヒールイヤリング=Tai Nghe Hồi Phục
+鮮やかな紫色の宝石を用いたイヤリング。癒しの力が宿っており回復魔法の使い手が好んで身に着けている。=Tai nghe sử dụng trang sức màu tím sáng. Sức mạnh hồi phục đang cư trú, và người dùng ma thuật hồi phục ưa thích và đeo nó.
+
+ロッククリスタル=Tinh Thể Đá
+破邪の力を宿すと言われる宝石。実際に魔法と相性がよく、魔法使いが魔法の触媒として採用することが多い。=Một viên ngọc được cho là có sức mạnh của điều ác. Trên thực tế, nó rất hợp với ma thuật và pháp sư thường được sử dụng như chất xúc tác ma thuật.
+
+マジシャンズオーブ=Quả Cầu của Pháp Sư
+特殊な鉱石を加工して製作された宝珠。十分な魔力を蓄えることができ、魔法使いが戦いの際に力を補給するために用いる。=Một viên ngọc được chế tạo từ một loại quặng đặc biệt. Nó có thể tích lũy đủ ma thuật và sử dụng nó để bổ sung sức mạnh trong trường hợp pháp sư.
+
+隠者の装束=Lễ Phục của Ẩn Sĩ
+俗世から離れ、魔法の探求に没頭する者のための装束。より高位の魔法を扱えるようにするため、魔力を高める特殊な素材で作られている。=Một bộ trang phục cho những người chìm đắm trong các nhiệm vụ ma thuật, xa rời thế giới. Nó được làm từ vật liệu đặc biệt tăng cường sức mạnh ma thuật để có thể sử dụng ma thuật cấp cao hơn.
+
+ブロンズバックラー=Khiên Đồng Con
+小型で取り回しに優れた丸盾。その扱いやすさから、的確に攻撃を防御できると評判の中級者向き装備。=Một tấm khiên tròn nhỏ nhưng xuất sắc. Trang bị cho người chơi trung cấp có thể bảo vệ chính xác nhờ dễ xử lý.
+
+ブロンズガントレット=Găng Tay Đồng
+主に銅を用いて作られた手甲。腐食に強いため、湿気の多い場所では鉄製のものより重宝される。=Lưng bàn tay chủ yếu được làm bằng đồng. Vì nó kháng ăn mòn, nó hữu dụng hơn cả những chiếc bằng sắt ở nơi ẩm ướt.
+
+アイアンクロー=Vuốt Sắt
+裂傷を与えることを目的とした、鉄製のかぎづめ。拳と刃を一体化させたことにより、格闘と同じ感覚で斬撃を繰り出すことができる。=Móng vuốt sắt nhằm gây vết cắt. Bằng cách tích hợp nắm đấm và lưỡi dao, bạn có thể chém giống như khi đánh đấm.
+
+祈願の鉄槍=Giáo Cầu Nguyện Sắt
+軍隊で正式に採用されている槍。隊列を組み、盾と組み合わせて使うことで、陣形を崩すことなく敵軍を打ち破れる。=Một ngọn giáo được quân đội chính thức chấp nhận. Bằng cách thành lập một đội hình và sử dụng kết hợp với khiên, quân địch bị phá vỡ mà không phá vỡ đội hình.
+
+ソルジャーランス=Giáo Binh Lính
+僧兵が自衛のために装備する鉄槍。単に武器としてだけではなく、神々に祈りを捧ぐ儀式などにも用いる。=Một ngọn giáo sắt mà một binh sĩ tu sĩ trang bị để tự vệ. Nó được sử dụng không chỉ như một vũ khí, mà còn cho các nghi lễ cầu nguyện các vị thần.
+
+傭兵隊のハルバード=Rìu Đòn Bộ Binh
+主に傭兵たちが用いている槍斧。その形状ゆえに多様な戦法が取れるが、扱いにはそれなりの訓練が必要である。=Một rìu giáo chủ yếu được lính đánh thuê sử dụng. Do hình dạng của nó, nhiều chiến thuật khác nhau có thể được thực hiện, nhưng điều trị đòi hỏi một số đào tạo.
+
+ヘビーブレード=Lưỡi Kiếm Nặng
+扱いやすく、あらゆる場面に対応できる大剣。重さと切れ味が両立されており、鎧に有効であるため兵士から人気が高い。=Một thanh kiếm lớn dễ xử lý và có thể xử lý mọi cảnh. Cả trọng lượng và độ sắc đều tương thích, và được yêu thích bởi binh lính vì hiệu quả với áo giáp.
+
+アイアンレイピア=Kiếm Rapier Sắt
+刺突に特化した鉄製の剣。兵士よりは貴族に好んで用いられ、決闘などで使われることが多い。=Một thanh kiếm sắt chuyên về đâm xuyên. Nó được ưa chuộng sử dụng bởi các quý tộc hơn là binh lính và thường được dùng trong các trận đấu.
+
+パイレーツカットラス=Dao Cắt Hải Tặc
+やや短く、湾曲した刀身を持つ剣。閉所でも存分に振るえることから、船上で戦う海賊たちがよく携えている。=Một thanh kiếm với lưỡi hơi ngắn, cong. Hải tặc chiến đấu trên tàu thường mang theo vì nó có thể vung mạnh ngay cả ở nơi kín đáo.
+
+スティールソード=Kiếm Thép
+広く普及している鉄製の剣。安価だがしっかりとした造りで、旅人の護身用の武器としても人気が高い。=Một thanh kiếm sắt phổ biến. Nó không đắt tiền nhưng chắc chắn, và cũng phổ biến như một vũ khí cho người du lịch.
+
+マジカルドレス=Trang Phục Ma Thuật
+装備した者の魔力を高めることに重点を置いたドレス。あしらわれた宝石によって魔法が強化され、より強力な一撃を放つことができる。=Một chiếc váy tập trung vào tăng cường ma thuật của người trang bị. Ma thuật được tăng cường bởi viên ngọc đã được xử lý, và có thể giải phóng một cú đánh mạnh hơn.
+
+パワーリング=Power Ring
+施された魔法によって、筋力を強化できる指輪。戦士のために作られた装備だが、力仕事に勤しむ市民からも需要がある。=Một chiếc nhẫn có thể tăng cường sức mạnh cơ bắp nhờ ma thuật áp dụng. Mặc dù là trang bị được chế tạo cho chiến binh, nhưng cũng có nhu cầu từ người dân làm công việc vất vả.
+
+ファングイヤリング=Hoa Tai Nanh Thú
+獣の牙を模したイヤリング。大地の力を借り受けて、攻撃魔法の威力を高める効果があるとされている。=Hoa tai mô phỏng nanh của thú. Người ta nói nó có tác dụng mượn sức mạnh của đất và tăng cường sức mạnh phép thuật tấn công.
+
+ターコイズペンダント=Mặt Dây Ngọc Tím
+ターコイズを用いたペンダント。健康への願いが込められており、身に着けると病気にかかりにくくなるという。=Mặt dây sử dụng ngọc tím. Nó mang ý chúc sức khỏe, và nếu đeo nó, sẽ ít có khả năng bị ốm hơn.
+
+シルバーネックレス=Dây Chuyền Bạc
+宝石が美しい、銀製のネックレス。魔除けの効果もあるとされ、夜更けに出歩く際に身に着けるとよいとされる。=Dây chuyền bạc với trang sức đẹp. Người ta nói nó có tác dụng như một bùa hộ mệnh, và tốt nhất nên đeo khi đi ra ngoài muộn vào ban đêm.
+
+ウォーリアーバングル=Vòng Tay Chiến Binh
+実戦において、防具としての性能をもたせた腕輪。腕輪自体の堅牢さに加え、魔法によって着用者の頑強さも向上させることができる。=Một chiếc vòng tay mang lại hiệu quả như áo giáp trong trận chiến thực tế. Ngoài sự vững chắc của chính chiếc vòng, ma thuật cũng có thể tăng cường sự kiên cường của người đeo.
+
+ゴールドアンクレット=Xích Chân Vàng
+純金の腕輪に宝石をはめ込んだ贅沢なアクセサリー。これを持つことはステータスとされ、持ち主の胆力を高めてくれる。=Một phụ kiện xa xỉ với trang sức trên chiếc xích chân bằng vàng nguyên chất. Sở hữu nó là một địa vị và tăng cường "linh hồn" của chủ nhân.
+
+クラシカルドレス=Áo Dài Cổ Điển
+厳かな雰囲気のドレス。落ち着いた色合いであるため、どのような式典にも着用していける。=Một chiếc áo dài có không khí trang trọng. Vì là màu sắc trầm, nó có thể được mặc cho bất kỳ nghi lễ nào.
+
+シーカーズローブ=Áo Choàng Nhà Thám Hiểm
+研究者が身に着けているローブ。厚手の生地を採用しており、危険な薬品を取り扱う際に重宝される。=Áo choàng được các nhà nghiên cứu mặc. Nó sử dụng vải dày và hữu ích khi xử lý các loại thuốc nguy hiểm.
+
+純鉄の甲冑=Áo Giáp Sắt Thuần
+純粋な鉄を用いた鎧。安価でシンプルな構造ながら職人の技が光る逸品であり、軍隊からも発注がかかるほど評価は高い。=Áo giáp sử dụng sắt thuần. Đó là một viên ngọc với cấu trúc rẻ tiền và đơn giản, kỹ năng của người thợ đang tỏa sáng, và được đánh giá cao vì đơn đặt hàng từ quân đội.
+
+プレートアーマー=Áo Giáp Tấm
+皮と鉄板を組み合わせた鎧。傭兵の間では人気のある装備で、十分な強度を持ちながら動きやすいと評判である。=Áo giáp kết hợp da và tấm sắt. Đó là trang bị phổ biến trong số lính đánh thuê và có tiếng là dễ di chuyển trong khi vẫn đủ sức mạnh.
+
+ヘビーアーマー=Áo Giáp Nặng
+全身を覆う鉄製の鎧。身動きは取りにくくなるが優れた耐久を誇り、半端な魔物では装備者に傷ひとつつけられない。=Áo giáp sắt che phủ toàn thân. Nó khó bị mắc kẹt nhưng sở hữu độ bền xuất sắc, và quái vật kỳ lạ không thể xước được bằng trang bị này.
+
+トーゴクの旅衣装=Vải Du Lịch Togok
+はるか東の国で、広く親しまれている旅装束。ゆったりとした着心地でいざという時に刀を振るいやすいと評判である。=Một bộ du lịch phổ biến ở một quốc gia Đông Phương xa xôi. Nó có tiếng là thoải mái khi vung kiếm trong trường hợp cần thiết.
+
+シーフクローク=Áo Choàng Kẻ Trộm
+深い闇夜に溶け込むことを目的とした外套。衣擦れ音がしないよう特殊な繊維を用いており、盗賊たちからの人気が高い。=Một chiếc áo choàng với mục đích hòa vào đêm tối sâu thẳm. Chúng tôi sử dụng sợi đặc biệt để không chùi xước quần áo, và chúng rất được ưa chuộng bởi bọn cướp.
+
+若葉の外套=Áo Choàng Wakaba
+明るい緑色が目を引く外套。雨天でも着用できるほど撥水性に優れ、手入れも簡単だと幅広い層から人気がある。=Một chiếc áo choàng với màu xanh lục tươi sáng. Nó có khả năng chống nước đến mức có thể mặc được ngay cả trong thời tiết mưa, và nó phổ biến trong một phạm vi người rộng nếu dễ vệ sinh.
+
+ヒーラーズバイブル=Kinh Thánh của Healer
+主に回復魔法について記されている書物。市民の間でも広く親しまれている書物で、簡単なケガや病であればこの一冊で対応できる。=Một cuốn sách chủ yếu mô tả phép thuật hồi phục. Cuốn sách này được biết rộng rãi trong giới dân thường, và có thể sử dụng với một cuốn sách này nếu là chấn thương hoặc bệnh đơn giản.
+
+ハンドガード=Găng Tay Bảo Vệ Tay
+主に兵士や騎士が着用する手甲。職人の丁寧な仕上げもあり、指の動きを阻害することなく武器を振ることができる。=Chủ yếu được binh lính và hiệp sĩ mặc. Có cả sự hoàn thiện cẩn thận của người thợ, vì vậy bạn có thể vũ khí mà không cản trở chuyển động ngón tay.
+
+アイアンクロスボウ=Nỏ Xích
+軍隊向けに大量生産されている鉄製のクロスボウ。安定して狙いをつけられるため、新兵から熟練者まで広く愛用される。=Nỏ xích, được sản xuất hàng loạt cho quân đội. Nó được sử dụng rộng rãi từ người tuyển mới đến người lành nghề vì nó ngắm bắn ổn định.
+
+コンポジットボウ=Cung Tổng Hợp
+獣の骨と鉄を組み合わせた合成弓。その剛性と弾性は弓として最適なバランスを持ち、使い手を選ばず安定した性能を発揮できる。=Cung tổng hợp kết hợp xương thú và sắt. Sự cứng chắc và đàn hồi của nó có sự cân bằng tối ưu như một chiếc cung, và có thể thể hiện hiệu suất ổn định bất kể người dùng.
+
+合金の片手斧=Rìu Một Tay Hợp Kim
+特殊な合金を用いて、軽さと強度を両立した片手斧。敵にめがけて投擲するといった使い方も可能で、活躍の場を選ばない。=Một chiếc rìu 1T kết hợp sự nhẹ nhàng và sức mạnh bằng cách sử dụng hợp kim đặc biệt. Bạn cũng có thể ném nó vào kẻ thù, vì vậy bạn không chọn nơi để chơi.
+
+ヘビーアックス=Rìu Nặng
+非常に重量のある鉄製の大斧。小回りは利かないが、それと引き換えに敵を鎧ごと叩き斬ることに特化している。=Một chiếc rìu sắt rất nặng. Mặc dù nó không xoay nhỏ, nó chuyên về chém kẻ thù có áo giáp để đổi lấy nó.
+
+ウォーリアーアックス=Rìu Chiến Binh
+戦場で使用されている両手斧。シンプルな作りゆえに扱いやすく、頑丈な刃を生かして相手を薙ぎ払うことができる。=Một chiếc rìu 2T được sử dụng trên chiến trường. Vì nó đơn giản, nó dễ xử lý, và bạn có thể sử dụng lưỡi rìu chắc chắn để loại bỏ đối thủ.
+
+バンディッドナイフ=Dao Gắn Dây
+裏社会で大量に流通している小剣。安価でありながら品質は悪くなく、新興の盗賊団などが数を揃える際に多く採用している。=Một thanh kiếm nhỏ được phân phối số lượng lớn trong xã hội ngầm. Mặc dù nó rẻ tiền, chất lượng không tệ, và những kẻ cướp mới nổi và những người khác được áp dụng nhiều khi họ có số lượng.
+
+シルバーナイフ=Dao Bạc
+銀を用いて作られた小剣。強度は高くないが、錆には非常に強いため、長旅の際はこれを携える旅人も少なくない。=Một thanh kiếm được chế tạo bằng bạc. Mặc dù nó không mạnh, nó rất bền gỉ, vì vậy nhiều người du lịch mang theo nó trong một chuyến đi dài.
+
+スチールスティレット=Dao Găm Thép
+戦場で兵士たちが用いる、鋼鉄製の短剣。鎖帷子を貫くことを目的としており、鋭い刺突は十分致命傷になりうる。=Một con dao thép được binh lính sử dụng trên chiến trường. Mục đích là xuyên qua áo giáp xích, và những đường đâm sắc nhọn có thể gây thương tích chết người.
+
+銀の儀礼剣=Kiếm Lễ Bạc
+式典の際に用いる銀製の直剣。実戦向けではないが、その厳かな雰囲気は携える者の気を引き締める。=Một thanh kiếm thẳng bằng bạc được sử dụng cho nghi lễ. Mặc dù nó không phải cho trận chiến thực tế, không khí trang trọng được thắt chặt bởi người liên quan.
+
+ソルジャーソード=Kiếm Bộ Binh
+軍隊で採用されている両刃の大剣。安価で大量に揃えることができ、素直な性能で使い手を選ばない。=Một thanh kiếm hai lưỡi được quân đội sử dụng. Nó rẻ tiền và có thể sản xuất hàng loạt, với hiệu suất tuân thủ không kỳ vị người dùng.
+
+---Bronze---------------------------------------------------------------------------------
+
+ガラス玉のオーブ=Quả Cầu Thủy Tinh
+ガラス製の安価なオーブ。微量だが魔力が込められており、駆け出しの魔法使いにとっては扱いやすい補助具となっている。=Quả cầu thủy tinh rẻ tiền. Mặc dù lượng nhỏ, nhưng là công cụ phụ trợ dễ sử dụng cho pháp sư đang học việc.
+
+ウッドソード=Kiếm Gỗ
+見習い騎士たちが訓練で使う木剣。まずはこれを使って、騎士たちは戦いの基本を学ぶ。=Một thanh kiếm gỗ được các hiệp sĩ tập sự sử dụng trong luyện tập. Trước hết, các hiệp sĩ học hỏi những kiến thức cơ bản về chiến đấu.
+
+ウッドスタッフ=Gậy Gỗ
+樫の木で作られた杖。どんなに偉大な魔法使いも、最初はこの杖で学ぶと言われるほど扱いやすい。=Một cây gậy làm từ sồi. Dù pháp sư giỏi đến đâu, ban đầu cũng dễ dàng sử dụng cây gậy này để học hỏi.
+
+ウッドシールド=Khiên Gỗ
+見習い騎士たちが訓練で使っている木盾。駆け出しの騎士は、この盾が壊れるまで訓練に励む。=Một tấm khiên gỗ được các hiệp sĩ tập sự sử dụng trong luyện tập. Hiệp sĩ bắt đầu tập luyện cho đến khi khiên vỡ.
+
+ストーンスピア=Giáo Đá
+尖った岩を先端にくくり付けた槍。信頼できる武器とは言い難いが、野生動物を狩る程度であれば十分な性能を持ち、作成も容易である。=Một cây giáo có đầu gắn đá sắc. Khó có thể nói đó là vũ khí đáng tin cậy, nhưng nó có hiệu suất đủ và dễ tạo ra để săn động vật hoang dã.
+
+ヒーラーローブ=Áo Choàng Phục Hồi
+祈祷師が下積みの間、身に着ける装束。魔力を高める効果があり、まだ未熟な祈祷師にとっては大切な装備となる。=Một bộ trang phục mà người cầu nguyện mặc trong khi thi hành nhiệm vụ. Nó có tác dụng tăng cường phép thuật và là trang bị quan trọng cho người cầu nguyện chưa thành thạo.
+
+ウッドイヤリング=Bông Tai Gỗ
+お土産物として親しまれているイヤリング。素朴ながらも温かみのあるデザインは、身に着ける人を選ばない。=Bông tai phổ biến như đồ lưu niệm. Thiết kế đơn giản nhưng ấm áp, không kỳ vị người đeo.
+
+木皮のネックレス=Dây Chuyền Gỗ
+木の皮で編まれたネックレス。お守りとしても人気があり、初めて長旅に出る旅人への贈り物としてもよく知られている。=Một dây chuyền đan từ vỏ cây. Nó cũng phổ biến như một bùa hộ mệnh, và được biết đến như là món quà cho những người du lịch lần đầu ra đường xa.
+
+ウッドバンクル=Vòng Tay Gỗ
+ガラス玉で装飾された木製の腕輪。無病息災の願いが込められており、市民の間でも人気のある贈り物である。=Vòng tay gỗ trang trí bằng quả cầu thủy tinh. Đây là món quà phổ biến trong công dân, với lời chúc không bệnh tật.
+
+木彫りの指輪=Nhẫn Gỗ Khắc
+職人の丁寧な仕上げが人気の指輪。どんな服装にも無難にあわせられると、幅広い層から人気がある。=Một chiếc nhẫn phổ biến cho sự hoàn thiện tỉ mỉ của thợ thủ công. Nó phổ biến trong đám đông vì phù hợp với mọi trang phục.
+
+ビギナーズローブ=Áo Choàng Người Mới Bắt Đầu
+勉学に励む魔法使いのための装束。魔力の制御を助ける効果があり、未熟な魔法使いが安全に魔法を研究するのに欠かせない装備である。=Một bộ trang phục cho pháp sư đang nỗ lực học tập. Nó có tác dụng hỗ trợ kiểm soát phép thuật, và là trang bị thiết yếu cho pháp sư chưa thành thạo để học phép thuật an toàn.
+
+レザーアーマー=Giáp Da
+一般的な革製の鎧。鉄製のものと比較するとやや防御力に劣るが、安価で軽量ゆえに、駆け出しの冒険者が身に着けることが多い。=Giáp da thông thường. Mặc dù sức phòng thủ hơi kém hơn giáp sắt, nhưng vì rẻ và nhẹ, các nhà mạo hiểm thường mặc.
+
+ポピュラーワンピース=Đầm Thông Thường
+明るい色合いが人気のワンピース。良くも悪くも普通の服だが、通気性や肌触りには定評がある。=Một chiếc đầm phổ biến với màu sắc tươi sáng. Dù tốt hay xấu, nó là quần áo thông thường, nhưng có tiếng tốt về khả năng thở và độ mềm mại.
+
+導きの教本=Sách Hướng Dẫn
+見習い魔法使いのための魔導書。基本的な魔法について記されており、入門書としては最適である。=Một quyển sách phép thuật cho pháp sư tập sự. Nó mô tả những phép thuật cơ bản và là cuốn sách lý tưởng cho người mới bắt đầu.
+
+ストーンナックル=Găng Đá
+鋭利な石を複数取り付けた、武闘用の手袋。元はならず者がけんかの際に用いていたもので、侮れない威力を誇る。=Găng tay làm việc có gắn nhiều viên đá sắc. Nó được người miễn cưỡng sử dụng trong các trận ẩu đả, và tự hào với sức mạnh không thể xem thường.
+
+ウッドボウ=Cung Gỗ
+木を削りだして作った簡易な弓。軽量で構えやすいことから、弓術の入門者には最適である。=Một cây cung đơn giản làm từ gỗ. Vì nhẹ và dễ cầm, nó lý tưởng cho người mới bắt đầu học nghề cung.
+
+がんせきのオノ=Ganseki Ono
+加工した岩を取り付けた斧。鉄製のものより壊れやすいが、簡単に作れる。複数用意して手投げ斧として活用する者もいる。=Một cái rìu với đá được chế tác. Nó dễ vỡ hơn sắt, nhưng có thể dễ dàng làm ra. Một số người chuẩn bị và sử dụng như một cái rìu ném tay.
+
+アイアンナイフ=Dao Sắt
+標準的な鉄を用いて作られた短剣。安価ゆえに性能は控えめだが、一般市民の護身用としては十分な強度がある。=Một con dao găm làm từ sắt tiêu chuẩn. Mặc dù hiệu suất khiêm tốn vì giá rẻ, nó có sức mạnh đủ cho việc bảo vệ của công chúng.
+
+ストーンソード=Kiếm Đá
+一般的な石材で制作された大剣。切れ味が鈍くほぼ鈍器に近いが、手入れが簡単で荒くれ者に好まれる。=Một thanh kiếm lớn sản xuất từ đá thông thường. Mặc dù độ sắc nhọn chậm và gần như là vũ khí cùn, nó dễ vệ sinh và được ưa chuộng bởi những người thô bạo.
+
+数多の罪人を裁いたという審問官の耳飾り。持ち主が戒律に忠実であれば、あらゆる悪意や混沌を退け、秩序と安寧を約束するという。=Bông tai của một Công Chất được cho là đã xét xử vô số tội nhân. Người ta nói rằng miễn là người đeo trung thành với giới luật, họ sẽ đẩy lùi mọi ác ý và hỗn loạn, và hứa hẹn trật tự và bình an.
+戦場で王を守り抜いたという、伝説の近衛兵の装束。激しい戦いを経てもほつれひとつなく高貴な威容を保ち、味方を大いに勇気づけた。=Trang phục huyền thoại của các vệ sĩ hoàng gia đã bảo vệ vua trên chiến trường. Bất chấp trận chiến khốc liệt, nó duy trì vẻ ngoài cao quý không một đường may sờn, truyền cảm hứng lớn cho đồng minh bằng lòng dũng cảm.
+人間が精霊と契約を交わす際に用いられたとされる指輪。精霊のために戦う限り、装備者は万難を排する力を得られたという。=Một chiếc nhẫn được tin là dùng khi con người kết ước với tinh linh. Miễn là người đeo chiến đấu vì tinh linh, họ sẽ có được sức mạnh vượt qua mọi khó khăn.
+海底から発掘された、世界最大級の宝石を用いている盾。非常に高価だが性能も相応で、生半可な攻撃では表面に傷ひとつつけられない。=Một tấm khiên trang trí bằng viên ngọc lớn nhất thế giới, khai quật từ độ sâu của biển. Nó có giá trị rất cao và hiệu suất tương xứng với giá, vì không thể trầy xước bởi những đòn tấn công thông thường.
+エルフの古代魔法の粋を集めて制作された魔法弓。風の精霊の力を借りることで、木々を薙ぎ払い、地面をえぐるほどの一矢を放つ。=Một cây cung phép được chế tác bằng tập hợp tinh hoa phép thuật cổ xưa của thần tiên. Bằng cách sử dụng sức mạnh của các tinh linh gió, nó phóng ra mũi tên chặt cây và cắt qua mặt đất.
+雷の化身である幻獣の角を用いた短剣。使い手は天を味方につけるとされ、掲げれば嵐が起き、振りぬけば雷を放ち、敵対者をうち滅ぼす。=Một con dao găm trang trí bằng sừng của sinh vật thần thoại hiện thân sấm sét. Người ta nói rằng người cầm sẽ được trời ưu ái, triệu hồi cơn bão và thả sấm sét để đánh bại kẻ thù.
+優れた治世によって歴史に名を刻んだ王の耳飾り。膨大な知識と明晰な判断力を得られ、高度な魔法の行使を実現する。=Bông tai của một vị vua nổi tiếng để lại dấu ấn trong lịch sử với sự trị vì xuất sắc. Chúng ban cho tri thức rộng lớn và phán đoán sắc bén, cho phép sử dụng thành thạo phép thuật cấp cao.
+虹色に輝く鉱石を、職人が丁寧に加工した耳飾り。誰かとの絆を守りたいと願うと、呼応するかのように自然の力を授けてくれる。=Bông tai được chế tác bởi các nghệ nhân lành nghề từ những viên ngọc màu cầu vồng lấp lánh. Khi một người muốn bảo vệ một mối quan hệ, chúng dường như đáp lại bằng cách ban cho người đeo sức mạnh của tự nhiên.
+遥か東の国から伝わった、巫女がまとう法衣。全身をおおう神聖な気が邪悪な魔力から着用者を守ってくれる。=Áo choàng được các nữ thần đền từ một đất nước phương xa mặc. Khí thế thiêng liêng bao phủ toàn thân bảo vệ người đeo khỏi phép thuật hắc ám xấu xa.
+中級の攻撃魔法が多数収録されている書物。実用的でありながら修得は難しくないため、多くの魔法使いに読まれている。=Một cuốn sách chứa đựng nhiều phép thuật tấn công cấp trung. Nó thực tế nhưng không quá khó làm chủ, khiến nó được đọc rộng rãi trong giới pháp sư.
+特殊な魔法が記された本。基本の系統からは外れるが、使用者の能力を高めるための専門的な魔法を多種学ぶことができる。=Một cuốn sách chứa các phép thuật chuyên ngành. Nó lệch hệ thống cơ bản nhưng cho phép người dùng học các phép thuật chuyên biệt khác nhau để tăng cường khả năng.
+複数の弦を持つ特殊な弓。矢を放つだけではなく音楽も奏でられ、その音色は耳にした者の戦意を高揚させる効果がある。=Một cung độc nhất với nhiều dây. Không chỉ bắn tên, nó còn tạo ra âm nhạc, những giai điệu đó tinh thần chiến đấu của những người nghe.

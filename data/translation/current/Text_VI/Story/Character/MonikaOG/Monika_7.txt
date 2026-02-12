@@ -1,0 +1,94 @@
+女性２=Phụ nữ 2
+男性客１=Khách hàng nam 1
+男性客２=Khách hàng nam 2
+ギャラリーたち=Mọi người trong Phòng Trưng bày
+
+モニカは街の女性たちから子供扱いを受けて憤り、「自分は{playername}の恋人だ」と出任せを言う。証明のためにキスしようとするが、注目を受けて恥ずかしくなり{playername}を殴り飛ばす。=Monika, tức giận vì bị phụ nữ trong thị trấn coi như trẻ con, đột ngột tuyên bố, "Ta là người yêu của {playername}." Để cố gắng chứng minh điều đó, cô ấy cố hôn {playername} nhưng lại xấu hổ vì sự chú ý và cuối cùng lại tát anh ta.
+
+モニカと食事に来た{playername}。={playername} đã đến ăn cùng Monika.
+
+{playername}、どこだ？\n席を確保しておくように頼んだが……\nこう人が多いと、探しようがないな。={playername}, cậu đang ở đâu? Tớ nhờ cô ấy giữ chỗ rồi, nhưng... Với nhiều người thế này, không thể tìm thấy cậu.
+
+ねぇ、いいでしょ？\n私たちといいコトしましょ～=Này, thích không?\nChúng ta cùng vui vẻ đi.
+ん？　なんだ……？\nやけに騒がしいな。=Hả? Chuyện gì vậy...?\nỒn ào bất thường.
+照れちゃってかわいい～\nね？　あたしたちと遊びましょうよ～=Cậu dễ thương khi xấu hổ thế. Chơi cùng tớ nhé, được không?
+なんだ、あの女たちは？\nこんな所でナンパとは……=Những người phụ nữ đó là ai? Cố tình bắt chuyện với ai ở chỗ như thế này chứ...
+って、声をかけられてるのは{playername}か！？=Khoan, họ đang bắt chuyện với {playername}!
+そこの女たち、待て！\nそいつは、私と食事をしに来たのだ。\n連れていかれては困る！=Khoan đã, các cô gái! Cô ấy đến đây để ăn cơm với tôi. Tôi không thể để các cô dẫn cô ấy đi!
+ええ～、なにこの子？=Ồ, thôi nào, đứa trẻ này sao vậy?
+子供は引っ込んでてくれる？\nこれは大人の話なのよ。=Các con có thể lùi lại được không? Đây là cuộc nói chuyện của người lớn.
+な！？\n私は子供ではない！=Gì!? Tôi không phải là đứa trẻ!
+
+{playername}、こいつらのことは無視しろ！\n見た目だけ大人で、中身が子供の連中など\n相手にする必要はないぞ！={playername}, đừng để ý đến những người này!\nKhông cần phải bận tâm với những kẻ trông như người lớn nhưng lại hành xử như trẻ con!
+
+あら？\nそれ、どういうこと？=Ồ? Ý cô là sao?
+あたしたちのことバカにしてるの？\n子供だからって、許さないわよ？=Cô đang chế giễu chúng tôi à?\nTôi sẽ không tha thứ chỉ vì cô là một đứa trẻ.
+お子様には、私たちの魅力がわからないんでしょうね。=Có vẻ như sức hút của chúng tôi không có tác dụng với cô, cô gái nhỏ.
+だから、子供ではないと言っている！=Vì vậy tôi mới nói tôi không phải là cô gái nhỏ!
+そんな見た目で言われてもね～\n子供にしか見えないわよ？=Dù cô có nói thế với vẻ ngoài của mình...\nđối với chúng tôi, cô vẫn trông như một đứa trẻ.
+
+ぐ、ぐぬぬ……\n私は立派な大人だ！\n{playername}とだって……こ、恋人同士だからなっ！=Grr... Tôi là một người lớn đáng kính!\nVà {playername} cùng tôi... chúng tôi... chúng tôi là tình nhân, biết chưa!
+ええ！？=Gì!?
+素直に謝ったら？=Sao cô không chịu xin lỗi chân thành một chút?
+しーっ！\n貴公は黙っていろ。=Suỵt! Cô, giữ yên lặng.
+ふぅ～ん、恋人ねぇ？\n本当かしら？\nちょっとウソっぽいわ。=Hừm, tình nhân, hả? Nghe có vẻ đáng ngờ với tôi.
+
+ウ、ウソではないぞ！\n私と{playername}は、付き合っている！=T-Tôi không nói dối!\n{playername} và tôi đang hẹn hò!
+へぇ～\nじゃあ、キスしてみなさいよ？=Ồ, thật sao? Vậy sao cô không chứng minh bằng một nụ hôn?
+キ、キ、キ、キス……だと！？=N-N-N-Nụ hôn... cô nói gì!?
+そうよ。\n本当に恋人なら、簡単でしょ？=Đúng vậy. Nếu các cô thực sự là tình nhân, việc đó sẽ dễ dàng, phải không?
+ほら、どうしたの？\n早くキスしてみなさいよ。=Thôi nào, sao vậy? Hôn đi.
+う、うぅ……どうすれば……\nキ、キスなんて……そんな恥ずかしいこと……！=Ơ, ừ... Tôi nên làm sao... một nụ hôn... thứ xấu hổ như vậy...!
+しかし、やらなければウソがバレてしまう。\nそれでは、私の名誉が……！=Nhưng nếu tôi không làm, sự dối trá sẽ bị lộ. Và rồi, danh dự của tôi...
+よし、キスしよう。=Được rồi, hôn thôi.
+なぜ乗り気になっている！？\nそんなことできるわけが……！\nし、しかし……ここで引くわけにはっ！=Sao cô lại hăng hái thế!? Tôi không thể làm được chuyện như vậy...! N-Nhưng... tôi không thể lùi bước ở đây!
+
+子供扱いをされたままでは、\n私の名誉が保てない！\n{playername}……キ、キ、キスッ、するぞ！=Với tất cả mọi người đối xử với tôi như một đứa trẻ, tôi không thể giữ được danh dự! {playername}... T-Tôi sẽ hôn cậu!
+
+{playername}、目をつぶれ……\nいいか、絶対に開けるなよ？={playername}, nhắm mắt lại...\nNghe đây, đừng dám mở chúng ra!
+お、落ちつけ……\nこれは本心からのキスではない！\n名誉を守るため……軍人の使命としてのキスだ！=B-Bình tĩnh... Đây không phải là một nụ hôn từ tận đáy lòng! Để bảo vệ danh dự của tôi... Đây là một nụ hôn như một nhiệm vụ của người lính!
+ん？　なんだなんだ？\n何かやってるのか？=Này, chuyện gì đang xảy ra ở đó? Họ đang làm gì vậy?
+あそこのカップルがキスするんだと。=Cặp đôi ở kia sắp hôn nhau rồi.
+おお、いいぞー！\nやれやれー！=Ồ, tuyệt vời! Cố lên!
+な！？\nい、いつの間に、こんなにギャラリーが……！？=Gì!? Từ bao giờ tất cả những người này trở thành khán giả...!?
+それっ、キース！\nキース！　キース！=Này, Hôn nhau!\nHôn nhau! Hôn nhau!
+あ、う……うぅ……！=À, ừ... Ư...
+うわぁあああ！！\n見るな～～～～！！！=Uaaaaa!!\nĐừng nhìn tôiiii!!
+照れたモニカに殴り飛ばされ、\n星になる{playername}であった……=Đó là {playername}, bị Monika đỏ mặt thổi bay và biến thành một ngôi sao...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

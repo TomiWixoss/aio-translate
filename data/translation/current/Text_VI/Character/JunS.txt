@@ -1,0 +1,35 @@
+##Profile##
+【物理】前衛で、業火を従え悪を討つ真夏の騎士団長。敵単体にダメージを与えつつ、攻撃力を高めるユニオンバーストや、火傷を与えるスキルを操り敵を焼き尽くす。=[Vật lý] Đội trưởng của Midsummer Knights, người tiên phong và đánh bại cái ác bằng ngọn lửa địa ngục. Cô sử dụng Union Burst, gây sát thương lên một kẻ địch đơn, tăng sức tấn công, và dùng kỹ năng gây trạng thái Bỏng lên kẻ địch.
+
+##UB##
+サマーインフェルノ=Hè Hỏa Ngục
+目の前の敵１キャラに物理特大ダメージを与え、さらに自分の物理攻撃力と行動速度を大アップさせる。=Gây sát thương vật lý cực lớn lên kẻ địch phía trước, và tăng mạnh sức tấn công vật lý và tốc độ hành động (160%) của bản thân trong 18s.
+## Same as Tomo UB
+
+##S1##
+ヒートスパイク=Đỉnh Nhiệt
+目の前の敵１キャラに物理中ダメージを与え、さらに火傷状態にする。火傷のダメージは、このキャラの物理攻撃力に応じて増加する。=Gây sát thương vật lý trung bình lên kẻ địch phía trước, và đồng thời gây trạng thái Bỏng. Sát thương Bỏng tăng theo sức tấn công vật lý.
+r:"^敵単体に(\d+)の物理ダメージ(\d+)ダメージを与える火傷状態にする$"=►Gây $1 sát thương vật lý lên một kẻ địch.\n►Gây trạng thái Bỏng lên kẻ địch, gây $2/s trong 7s.
+
+##S2##
+サンライトブレイク=Phá Vỡ Ánh Sáng
+
+##EX##
+サマージャスティス=Hè Công Lý
+サマージャスティス+=Hè Công Lý+
+
+##S1+##
+ヒートスパイク+=Đỉnh Nhiệt+
+自分の物理攻撃力を小アップさせ、目の前の敵１キャラに物理大ダメージを与え、さらに火傷状態にする。火傷のダメージは、このキャラの物理攻撃力に応じて増加する。=Tăng nhẹ sức tấn công vật lý của bản thân, gây sát thương vật lý lớn lên kẻ địch phía trước, và đồng thời gây trạng thái Bỏng. Sát thương Bỏng tăng theo sức tấn công vật lý.
+r:"^自分の物理攻撃力を(\d+)アップ敵単体に(\d+)の物理ダメージ(\d+)ダメージを与える火傷状態にする$"=►Tăng sức tấn công vật lý của bản thân lên $1 trong 180s.\n►Gây $2 sát thương vật lý lên một kẻ địch.\n►Gây trạng thái Bỏng lên kẻ địch, gây $3/s trong 7s.
+
+##UE##
+サマーシュバリエソード=Kiếm Hè Kỵ Sĩ
+
+##S2+##
+サマーシュバリエスーツ=Áo Giáp Hè Kỵ Sĩ
+サンライトブレイク+=Phá Vỡ Ánh Sáng+
+
+自分の物理攻撃力を特大アップし、目の前の敵１キャラに物理特大ダメージを与え、スタンさせる。対象の敵が火傷状態だった場合、さらにそのキャラの最大ＨＰに応じて最大200万の物理割合ダメージを与える。=Tăng cực mạnh sức tấn công vật lý của bản thân, gây sát thương vật lý cực lớn lên kẻ địch phía trước và làm choáng chúng. Nếu kẻ địch mục tiêu đang trong trạng thái Bỏng, thêm vào đó gây sát thương vật lý tỷ lệ lên tối đa 2.000.000 dựa trên HP tối đa của nhân vật đó.
+
+r:"^自分の物理攻撃力を(\d+)アップ敵単体に(\d+)の物理ダメージ敵単体を一定時間行動不能にする敵が火傷状態の時、敵単体に最大200万の物理割合ダメージを与える$"=►Tăng sức tấn công vật lý của bản thân lên $1.\n►Gây $2 sát thương vật lý lên một kẻ địch.\n►Gây choáng lên một kẻ địch.\n►Nếu kẻ địch đang [Bỏng]: Gây sát thương vật lý tỷ lệ lên tối đa 2.000.000 lên một kẻ địch.

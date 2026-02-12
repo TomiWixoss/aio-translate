@@ -1,0 +1,67 @@
+全ロール\\nまとめて強化=Nâng cấp nhiều\nTất cả vai trò
+全ロール\nまとめて強化=Nâng cấp nhiều\nTất cả vai trò
+強化設定=Cài đặt nâng cấp
+このマスタリーの強化段階は最大です。=Mastery này đã đạt cấp độ tối đa của việc nâng cấp.
+ロールマスタリー=Mastery Vai trò
+今後のアップデートで解放予定です。=Tính năng này sẽ được phát hành trong bản cập nhật tương lai.
+
+必要なアイテムを所持していません。=Bạn không có vật phẩm cần thiết.
+オールマスタリーを使用する=Sử dụng Tất cả Mastery
+強化の条件を設定します。=Đặt điều kiện nâng cấp.
+強化条件設定=Cài đặt điều kiện nâng cấp
+マスタリーを強化していません。=Mastery chưa được nâng cấp
+必要なアイテムを所持していません。=Bạn không có vật phẩm cần thiết.
+マスタリー強化詳細=Chi tiết Nâng cấp Mastery
+
+
+ガイド役=Hướng dẫn vai trò
+アタッカー=Đấu sĩ
+ブレイカー=Phá hủy
+バッファー=Hỗ trợ
+デバッファー=Phá debuff
+ブースター=Tăng cường
+ヒーラー=Hồi phục
+タンク=Đỡ đòn
+ジャマー=Nhiễu loạn
+
+【アタッカー】=[Đấu sĩ]
+【ブレイカー】=[Phá hủy]
+【バッファー】=[Hỗ trợ]
+【デバッファー】=[Phá debuff]
+【ブースター】=[Tăng cường]
+【ヒーラー】=[Hồi phục]
+【タンク】=[Đỡ đòn]
+【ジャマー】=[Nhiễu loạn]
+
+マスタリー=Mastery
+クリダメ=Sát thương chí mạng
+クリティカル=Tỷ lệ chí mạng
+通常攻撃強化=Tấn công thường
+与ダメージ=Sát thương gây ra
+与ダメ=Sát thương gây ra
+バフ強化=Buff
+デバフ強化=Debuff
+ＴＰチャージ=TP Charge
+TPチャージ=TP Charge
+HPチャージ=HP Charge
+回復強化=Hồi phục
+状態異常抵抗=Kháng hiệu ứng xấu
+状態異常命中=Độ chính xác hiệu ứng xấu
+与ダメアップ=Tăng sát thương
+クリダメアップ=Tăng sát thương chí mạng
+r:"^オールマスタリーLv(\d+)$"=All-Mastery Cấp $1
+sr:"^【(.+)】(.+?)(?:アップ)?(マスタリー)?Lv(\d+)$"=[$1] $2 Tăng $3 Cấp $4
+r:"^(\d+)\(\+変換可能数 (\d+)\)$"=$1 (+Có thể chuyển đổi $2)
+
+r:"^(\d+)\(うち変換可能数 (\d+)\)$"=$1 (+Có thể chuyển đổi $2)
+累計強化=Tổng nâng cấp
+
+
+以下のアイテムを消費して強化しますか？=Bạn có muốn sử dụng các vật phẩm sau để tăng cường nó không?
+
+Kokkoro Tutorial
+キャラ全員に、バトル中の特徴を表すロールが解放されましたよ。\nロールはアタッカー・ブレイカー・バッファー・デバッファー・\nブースター・ヒーラー・タンク・ジャマーの８つがございます。=Tất cả nhân vật hiện có thể truy cập các vai trò đại diện cho đặc điểm của họ trong trận đấu. Các vai trò là: Đòn Tấn Công, Phá Thủ, Hỗ Trợ, Hạ Gục, Tăng Cường, Hồi Phục, Trụ Đỡ và Cản Trở.
+各ロールにはステータス上昇に繋がる「マスタリー」が備わっておりま\nす。ロールマスタリーでは専用アイテムを用いてマスタリーの強化が行\nえますよ。低レベルアイテムは集めて高レベルに変換できるのだとか。=Mỗi vai trò có một "Sự Thành Thạo" (Mastery) làm tăng chỉ số. Sự Thành Thạo Vai Trò có thể được củng cố bằng các vật phẩm độc quyền. Các vật phẩm cấp thấp có thể thu thập và chuyển đổi thành vật phẩm cấp cao hơn.
+マスタリー強化アイテムは、様々なコンテンツから獲得できるマスタリー\nチケットを消費して、マスタリーガチャから入手できます。全てのマスタ\nリーの強化に使える「オールマスタリー」もこちらから入手できますよ。=Vật phẩm củng cố Sự Thành Thạo có thể nhận được từ Máy Gacha Thành Thạo bằng cách dùng Vé Thành Thạo, được kiếm từ nhiều nội dung khác nhau. "Tất Cả Thành Thạo" (All Mastery), có thể dùng để củng cố mọi thành thạo, cũng có sẵn tại đây.
+
+はい、お疲れさま。\nここではマスタリーチケットを\n使って、マスタリー強化素材を\n手に入れることができるわよ。=Làm tốt lắm.\nBạn có thể dùng Vé Thành Thạo của mình ở đây để nhận vật liệu tăng cường Thành Thạo.

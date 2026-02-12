@@ -1,0 +1,128 @@
+常連客=Khách Quen
+『アクシツ商会連合』打倒のため、二人は調査を進めるも突破口が見つからない。だが二人で見た夢の中で、町中のたい焼きを食べて研究する自分を見たタマキは、『アクシツ商会連合』打倒の作戦を思いつく。=Để đánh bại "Croock'd & Inc.", hai người tiếp tục điều tra, nhưng không tìm được điểm bùng phát. Nhưng Tamaki, người thấy trong giấc mơ mình ăn và nghiên cứu taiyaki khắp thành phố, đã nảy ra một kế hoạch để đánh bại "Croock'd & Inc."
+──『アクシツ商会連合』に戦いを挑む決意をした、\nタマキと{playername}。\n調査を進めながらも、たい焼き屋で働くのであった。=──Tamaki và {playername}, người đã quyết định thách thức "Croock'd & Inc." bằng một trận chiến. Họ tiếp tục điều tra trong khi làm việc ở một cửa hàng taiyaki.
+うーん、\n今日はお客さんがあんまり来ないにゃ……=Hừm, hôm nay ít khách vào~nya...
+あ！　あそこにいつもの常連さんがいるにゃ！\nおーい！　たい焼きいかがかにゃー！=À! Khách quen của chúng ta ở kia~nya!\nNày! Ăn vài cái taiyaki không~nya?
+……すまねえ、タマキちゃん。\n今はちょっと節約中でな。=...Xin lỗi, Tamaki-chan.\nBọn tôi đang thắt chặt ngân sách lúc này.
+そ、それは残念にゃ……\nまた来てにゃー！！=Thật tệ~nya...\nHẹn gặp lại~nya!!
+……早くなんとかしないと！=...Chúng ta phải làm gì đó sớm thôi!
+分かってるにゃ！\nでも、そう簡単にはいかないのにゃあ……=Biết rồi~nya!\nNhưng không dễ vậy~nya...
+アクシツ商会連合に所属している商会の調査は済んだにゃ。\nでも、数が多すぎるのにゃあ……=Chúng ta đã điều tra xong các công ty thuộc Croock'd & Inc.~nya. Nhưng có quá nhiều~nya...
+一つ一つ商会を懲らしめて、\n警戒を強められたら、潜り込めなくなるにゃ……=Nếu chúng ta trừng phạt từng công ty một, chúng sẽ cảnh giác hơn và chúng ta không thể xâm nhập được~nya...
+あ～もう！\nどうしたらいいのにゃ～～！！=Ài, nên làm sao đây~nya~~!!
+あ、なんか光が見えるにゃ……\n頭を使いすぎて、いよいよ幻覚が……って、{playername}！！\nなんか体が光って……にゃああああああっ！？=Ồ, tôi thấy có ánh sáng~nya... Tôi dùng não quá nhiều và bắt đầu ảo giác... Khoan, {playername}!! Có thứ gì đó đang phát sáng trên người cậu...~nyaaaaaaaah!?
+生地の艶……甘い香り……きれいな形……まさにお宝にゃ。\nこんなたい焼きを作るなんて、さすがは超有名店。\nうちの店じゃ、歯が立ちそうにないにゃ……=Bóng láng của phần bột... Mùi ngọt...\nHình dạng đẹp... Đó là kho báu~nya.\nĐể làm ra taiyaki như vậy, phải là một cửa hàng siêu nổi tiếng. Cửa hàng của chúng ta không cạnh tranh được với họ~nya...
+でも、大きなミスをしてしまったようだにゃ。\nなんの警戒もせず、このあたしにたい焼きを売るにゃんて……=Nhưng họ đã mắc sai lầm lớn~nya.\nHọ bán taiyaki cho ta mà không có chút cảnh giác nào~nya...
+後で驚くがいいにゃ！　町中のたい焼き屋の味を盗む、\n『味の秘密までおいしくいただくにゃ作戦』で、\n自分の味が盗まれてるということに！=Họ sẽ ngạc nhiên sau~nya! Với "Chiến dịch Đánh cắp Món Ngon Bí mật Của Hương vị" của ta, họ sẽ phát hiện ra hương vị của họ đã bị đánh cắp!
+こんな完璧な作戦を考えつくなんて、自分が恐ろしいにゃ～♪\n世が世なら、怪盗とか義賊として、\n世界にその名をとどろかせていたかもしれないにゃ！=Để nghĩ ra kế hoạch hoàn hảo như vậy, ta sợ chính mình~nya♪ Nếu đây là một thế giới khác, có lẽ ta đã là một đạo tặc ảo ảo hay một đạo tặc chính nghĩa, làm tên tuổi được cả thế giới biết đến~nya!
+義賊の方がよさそう。=Đạo tặc chính nghĩa nghe hay hơn.
+怪盗の方がよさそう。=Đạo tặc ảo ảo sẽ hay hơn.
+お、本当かにゃ？\n実はちょっと、貧しい人のために戦う義賊に憧れてたのにゃ～♪=Ồ, thật ư~nya?\nThực ra, ta luôn ngưỡng mộ Đạo tặc chính nghĩa chiến đấu vì người nghèo~nya♪
+はい、{playername}！\nあたしが食べさせてあげるから、あ～んするにゃ～♪=Đây, {playername}!\nTa sẽ đút cho, meow~
+さて、ではさっそく、\n手に入れたお宝を山分けしようかにゃ～♪=Vậy thì,\nchia kho báu ta có được~nya♪
+お、その顔はもしかして照れてるのかにゃ？\nまあ、こんなにきれいなお姉さんに\n食べさせてもらえるんだから、しかたないかもにゃ～♪=Ồ, đỏ mặt rồi~nya? Thôi cũng đành, vì cậu được một Onee-san xinh đẹp như ta đút ăn mà~nya♪
+お姉さん？=Onee-san?
+……ほほう、なぜそこで疑問に思ったか、\n詳しく聞かせてもらおうじゃないかにゃ～♪=...Hohoho, sao cập hỏi lại vậy?\nKể cho ta nghe chi tiết~nya♪
+ちなみに！　体が小さいとか、\n年相応に見えないとか、そういう言葉一つにつき一回引っかくから、\n言葉は慎重に選ぶことをお勧めしとくにゃ！=Nhân tiện! Vì mỗi lời như "cơ thể nhỏ" hay "trông không phải tuổi", ta sẽ cào cậu một lần, nên khuyên cậu nên chọn lời cẩn thận~nya!
+さて、あたしも一口……ん～！\nこれ、すっごくおいしいにゃ～♪\n特にあんこが絶妙にゃ～♪=Vậy thì, ta cũng ăn một miếng... Mmm! Ngon quá~nya♪\nĐặc biệt là đậu đỏ tuyệt hảo~nya♪
+ここのたい焼きは、あんこを重視しているようにゃ。\n絶品のあんこを邪魔しないように、生地を調整している……\nまさに職人の技にゃ！=Cửa hàng taiyaki này tập trung vào đậu đỏ~nya.\nHọ điều chỉnh phần bột để không ảnh hưởng đến đậu đỏ tuyệt hảo... Thật là tay nghề của nghệ nhân~nya!
+この技術はうちのたい焼きにも……ん？\nどうかしたのかにゃ？=Kỹ thuật này có thể dùng cho taiyaki của chúng ta nữa... Hm? Sao vậy~nya?
+あ、もしかして、\nあたしが熱心に研究するなんて、らしくないかにゃ？=Ồ, có lẽ cậu nghĩ không giống ta khi nhiệt tình nghiên cứu~nya?
+そ、そんなことは……=K-Không, không phải...
+にゃははは！\n自分でもそう思ってるから、気にしなくていいにゃ～♪=Nyahaha!\nTa cũng nghĩ vậy, đừng lo~nya♪
+こんなことしてもバイト代が上がるわけじゃないし、\nバイトがここまでする必要ないってのも、\n十分に分かってるにゃ。=Lương của ta cũng không tăng lên vì làm vậy, và ta rất rõ rằng không cần một nhân viên bán thời gian làm nhiều đến thế.
+……ただ、あたしが焼いたたい焼きを食べて、\nお客さんが笑ってくれるのが……誰かの笑顔のために\nなにかできるって思ったら、頑張ろうって思っちゃったのにゃ。=...Nhưng khi họ ăn chiếc taiyaki ta nướng và khách hàng cười, ta cảm thấy mình có thể làm gì đó cho nụ cười của ai đó... Nên cuối cùng ta nghĩ, hãy cố gắng hết sức~nya.
+にゃ、にゃはは～♪\n柄にもないこと言っちゃったにゃ～♪=Nyahaha~♪\nTa nói ra điều không hợp tính cách~nya♪
+ほら、早く食べて、次の店に行くのにゃ！\n今日は、とことんたい焼きを味わうのにゃ～～♪=Nào, ăn nhanh lên để chúng ta đi đến cửa hàng tiếp theo~nya!\nHôm nay, hãy thưởng thức kỹ hương vị của taiyaki~nya♪
+ん？\nなんか言いたそうだけど、どうかしたかにゃ？=Hm? Cậu có vẻ muốn nói gì, sao vậy~nya?
+協力できてうれしい。=Tôi mừng là có thể giúp được.
+……………………にゃぁっ～～～～！？=...Nyaa~!!
+だ、だだ、だから{playername}は！\nここぞってタイミングで、\nそういうこと言うのは反則だからやめるにゃ～！！=T-Ta đã bảo rồi, {playername}! Cậu nói điều đó ở lúc quan trọng thật bất công, nên dừng lại~nya!!
+ま、まあでも……\nその、あ、ありがとにゃ…………=K-Không, dù sao thì...\nC-Cảm ơn~nya...
+……あ、あのにゃ？\nこの後も他のたい焼き屋を回るんだけど、\nたい焼きを食べると喉が渇くにゃ……=...À, nhắc mới nhớ... À, phải rồi!\nSau cái này, chúng ta sẽ đến các cửa hàng taiyaki khác, và ăn taiyaki làm ta khát~nya...
+だ、だから……その、\nお、おお、お茶ぐらいは出すから、\nうちでたい焼きを食べないかにゃ！？=S-So... Ưm, t-Ta sẽ ít nhất phục vụ cậu một ít trà, nên sao cậu không ăn vài cái taiyaki ở chỗ ta?!
+喉乾いたなら、お茶を買ってこようか？=Nếu khát, tôi mua trà cho cậu nhé?
+…………ねえ、{playername}。\nちょっとそこに正座するにゃ。=...Này, {playername}.\nCậu có thể quỳ xuống ngay đó~nya không?.
+なんで？=Tại sao?
+…………いいから、さっさとやれにゃ♪=...Làm đi rồi~nya♪
+……は、はい。=...D-Dạ.
+うんうん、人間素直が一番にゃ～♪\nじゃあさっそく…………=Vâng, vâng lời là tốt nhất~nya♪\nGiờ thì, bắt đầu thôi...
+…………この鈍感バカ～～！\n乙女の引っかきをくらうにゃ～～！！=...Đồ ngốc vô tâm~!\nHãy nếm mùi cào cấu của một thiếu nữ~!!
+……はい、そこ正座♪=...Được rồi, quỳ xuống ngay đó~nya♪
+うん、素直なのはいいことよ♪\nま、それはそれとして……=Vâng, vâng lời là điều tốt♪\nNhưng mà, bên cạnh đó...
+あんたね……\nさすがにあれはどうかと思うわよ。=Cậu, ừm...\nTớ nghĩ cậu hơi quá đáng rồi, biết không.
+タマキが一生懸命誘っていたのに、\n『喉乾いたなら、お茶を買ってこようか？』って……=Mặc dù Tamaki đã cố gắng mời cậu, cậu lại trả lời, "Nếu khát, tôi mua trà cho cậu nhé?"
+まあ、意識してなかったみたいだけど、\nタマキの頑張りを応援したのはよかったと思うわ。\nあんたもやるようになったじゃない♪=Nhưng mà, dù cậu không ý thức, tớ nghĩ việc cậu ủng hộ nỗ lực của Tamaki là tốt. Cậu cũng chủ động hơn rồi, phải không?
+ほら、もういいから、\nタマキのところに戻ってあげなさい。=Giờ thì, thôi đủ rồi.\nQuay về bên cạnh Tamaki đi.
+あ、あれ、確かあたしは……はっ！\n火元は……ふう、\n気を失ってから全然たってないみたいにゃ～=H-Hả? Nếu nhớ không lầm, tớ...\nÀ! Bếp...!\nChà, có vẻ như chúng ta ngất không lâu lắm, nya~
+それにしても、客足が悪くて助かったにゃ～\nもしたい焼きを焼いてたら、焦げ焦げのガリガリにゃ。\nそんなものをお客さんに出したら……=May mắn là chúng ta không có nhiều khách, nya~, vì nếu tớ nướng taiyaki, nó sẽ bị cháy và giòn~nya. Không nên phục vụ món như vậy cho khách...
+お客さんに笑ってもらえないね。=Họ sẽ không thể cười được, phải không?
+……な、なな、なんでそのことを知ってるにゃ？\nも、もしかして、\nさっきの夢を{playername}も見てたのかにゃ！？=...Sao cậu biết chuyện đó~nya?\nP-Phải chăng cậu đã cùng tớ mơ giấc mơ đó, {playername}?!
+い、今すぐ忘れるにゃ～！！\n研究のためとはいえ、町中のたい焼きを食べようとしたり、\n柄にもないこと言ってるあたしを……=Q-Quên ngay đi~!!\nMặc dù là cho mục đích nghiên cứu, ăn taiyaki khắp thành phố và nói những điều không hợp tính cách... Tớ...
+え、『町中』のたい焼きを『食べる』…………？=Ăn taiyaki khắp thành phố...?
+こ、これにゃ～～～～！！=Đ-Đúng rồi~!!
+一つ一つ懲らしめていって相手が警戒するなら、\n一度に全員を懲らしめてやればいいのにゃ！=Nếu đối thủ cảnh giác khi chúng ta trừng phạt từng người,\nthì sao không trừng phạt tất cả cùng lúc~nya!
+名付けて！\n『悪い奴らはまとめて猫パンチ作戦』だにゃ～！=Đặt tên cho nó! Chiến dịch "Đấm Mèo Kẻ Xấu"~nya!
+すごい！=Tuyệt vời!
+こんな作戦を思い付けたのも、夢のあたしのおかげにゃ！\n夢を通してヒントをくれるなんて……\nいや～夢の中でもあたしは優秀だにゃ～♪=Tớ có thể nghĩ ra chiến lược như vậy nhờ bản thân trong giấc mơ! Nhận được gợi ý qua giấc mơ... Ồ, ngay cả trong giấc mơ, , tớ cũng xuất sắc~nya♪
+それにしても、改めて思い出すと面白い夢だったにゃ～\n町中のたい焼きを研究して、\n途中で{playername}を………………=Nhân tiện, khi nghĩ lại, giấc mơ đó thú vị~ Nghiên cứu taiyaki khắp thành phố và giữa chừng, và {playername} dọc theo đường.........
+…………ねえ{playername}。\nちょっとそこに正座…………=...Này, {playername}. Làm ơn quỳ xuống ngay đó...
+用事を思い出した。=Tớ nhớ ra một điều quan trọng.
+──迫るアクシツ商会連合との決戦。\nタマキは闘志を燃やしつつ、\n{playername}に、乙女の怒りをぶつけるのであった。=──Trận chiến sắp tới chống lại Croock'd & Inc. Tamaki bùng cháy với tinh thần chiến đấu khi cô ấy giải phóng cơn giận của một thiếu nữ lên {playername}.
+あ～！\nこら待つにゃ～！\nちょっと引っかかせろにゃ～！=À~! Chờ~nya! Để tớ bắt cậu~nya!
+──迫るアクシツ商会連合との決戦。\nタマキは闘志を燃やしつつ、\n{playername}に、乙女の怒りをぶつけるのであった。=──Trận chiến sắp tới chống lại Croock'd & Inc. Tamaki bùng cháy với tinh thần chiến đấu khi cô ấy giải phóng cơn giận của một thiếu nữ lên {playername}.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+……いただきます。=...Itadakimasu.
+
+
