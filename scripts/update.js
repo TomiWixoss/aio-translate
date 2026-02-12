@@ -69,10 +69,11 @@ async function main() {
   
   // Hỏi user có muốn chạy full workflow không
   console.log('\n📝 Workflow:');
-  console.log('  1. Phát hiện thay đổi');
-  console.log('  2. Dịch nội dung mới');
-  console.log('  3. Merge bản dịch');
-  console.log('  4. Export Text files');
+  console.log('  1. Import source (Text → XML)');
+  console.log('  2. Phát hiện thay đổi');
+  console.log('  3. Dịch nội dung mới');
+  console.log('  4. Merge bản dịch');
+  console.log('  5. Export Text files');
   
   const readline = require('readline').createInterface({
     input: process.stdin,
@@ -87,10 +88,18 @@ async function main() {
       process.exit(0);
     }
     
-    // Bước 1: Phát hiện thay đổi
+    // Bước 1: Import source
+    if (!runScript(
+      path.join(PATHS.ROOT, 'scripts', '1-import-source.js'),
+      'Bước 1: Import source (Text → XML)'
+    )) {
+      process.exit(1);
+    }
+    
+    // Bước 2: Phát hiện thay đổi
     if (!runScript(
       path.join(PATHS.ROOT, 'scripts', '2-detect-changes.js'),
-      'Bước 1: Phát hiện thay đổi'
+      'Bước 2: Phát hiện thay đổi'
     )) {
       process.exit(1);
     }
@@ -111,26 +120,26 @@ async function main() {
     
     console.log(`\n📊 Tìm thấy ${entryCount} entries mới cần dịch`);
     
-    // Bước 2: Dịch tự động
+    // Bước 3: Dịch tự động
     if (!runScript(
       path.join(PATHS.ROOT, 'scripts', '3-translate.js'),
-      'Bước 2: Dịch tự động'
+      'Bước 3: Dịch tự động'
     )) {
       process.exit(1);
     }
     
-    // Bước 3: Merge
+    // Bước 4: Merge
     if (!runScript(
       path.join(PATHS.ROOT, 'scripts', '4-merge.js'),
-      'Bước 3: Merge bản dịch'
+      'Bước 4: Merge bản dịch'
     )) {
       process.exit(1);
     }
     
-    // Bước 4: Export
+    // Bước 5: Export
     if (!runScript(
       path.join(PATHS.ROOT, 'scripts', '5-export.js'),
-      'Bước 4: Export Text files'
+      'Bước 5: Export Text files'
     )) {
       process.exit(1);
     }
