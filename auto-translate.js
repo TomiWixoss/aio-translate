@@ -228,11 +228,55 @@ QUY TẮC BẮT BUỘC:
 
 
 async function main() {
-    console.log('🚀 Dịch Princess Connect! Re:Dive XML (Song song x10)\n');
+    // Kiểm tra mode từ argument
+    const mode = process.argv[2] || 'normal';
     
-    const xmlContent = fs.readFileSync(INPUT_FILE, 'utf-8');
-    const entries = parseXMLEntries(xmlContent);
-    const totalBatches = Math.ceil(entries.length / BATCH_SIZE);
+    let entries;
+    let totalBatches;
+    
+    if (mode === 'fix-empty') {
+        console.log('🔧 Sửa thẻ trống trong file dịch\n');
+        
+        // Đọc cả 2 file
+        const enContent = fs.readFileSync(INPUT_FILE, 'utf-8');
+        const viContent = fs.readFileSync(OUTPUT_FILE, 'utf-8');
+        
+        const enEntries = parseXMLEntries(enContent);
+        const viEntries = parseXMLEntries(viContent);
+        
+        // Tạo map
+        const enMap = new Map();
+        enEntries.forEach(e => enMap.set(e.key, e.text));
+        
+        const viMap = new Map();
+        viEntries.forEach(e => viMap.set(e.key, e.text));
+        
+        // Tìm thẻ trống trong VI
+        const emptyKeys = viEntries.filter(e => !e.text || e.text.trim() === '').map(e => e.key);
+        
+        console.log(`📊 Tìm thấy ${emptyKeys.length} thẻ trống\n`);
+        
+        if (emptyKeys.length === 0) {
+            console.log('✅ Không có thẻ trống cần sửa!');
+            return;
+        }
+        
+        // Tạo entries chỉ với thẻ trống (lấy text từ EN)
+        entries = emptyKeys.map(key => ({
+            key: key,
+            text: enMap.get(key) || ''
+        }));
+        
+        totalBatches = Math.ceil(entries.length / BATCH_SIZE);
+        
+        console.log(`📋 Sẽ dịch ${entries.length} thẻ trống, ${totalBatches} batch\n`);
+    } else {
+        console.log('🚀 Dịch Princess Connect! Re:Dive XML (Song song x10)\n');
+        
+        const xmlContent = fs.readFileSync(INPUT_FILE, 'utf-8');
+        entries = parseXMLEntries(xmlContent);
+        totalBatches = Math.ceil(entries.length / BATCH_SIZE);
+    }
     
     console.log(`📊 ${entries.length} thẻ XML, ${totalBatches} batch\n`);
     
@@ -382,22 +426,59 @@ async function main() {
     
     // Ghép file XML
     console.log('\n📝 Tạo file XML...');
-    let xmlOutput = '<?xml version="1.0" encoding="UTF-8" standalone="yes"?>\n<STBLKeyStringList>\n';
     
-    for (let i = 0; i < totalBatches; i++) {
-        const tempFile = path.join(TEMP_DIR, `batch-${String(i).padStart(6, '0')}.xml`);
-        if (fs.existsSync(tempFile)) {
-            xmlOutput += fs.readFileSync(tempFile, 'utf-8');
+    if (mode === 'fix-empty') {
+        // Mode fix-empty: Cập nhật file hiện tại
+        const viContent = fs.readFileSync(OUTPUT_FILE, 'utf-8');
+        let updatedContent = viContent;
+        
+        // Đọc các thẻ đã dịch từ temp files
+        const fixedEntries = new Map();
+        for (let i = 0; i < totalBatches; i++) {
+            const tempFile = path.join(TEMP_DIR, `batch-${String(i).padStart(6, '0')}.xml`);
+            if (fs.existsSync(tempFile)) {
+                const batchContent = fs.readFileSync(tempFile, 'utf-8');
+                const batchEntries = parseXMLEntries(batchContent);
+                batchEntries.forEach(e => fixedEntries.set(e.key, e.text));
+            }
         }
+        
+        // Thay thế thẻ trống
+        for (const [key, text] of fixedEntries) {
+            const emptyPattern = new RegExp(`<Text Key="${key.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}"></Text>`, 'g');
+            const replacement = `<Text Key="${key}">${text}</Text>`;
+            updatedContent = updatedContent.replace(emptyPattern, replacement);
+        }
+        
+        // Backup
+        fs.copyFileSync(OUTPUT_FILE, OUTPUT_FILE + '.backup');
+        console.log(`💾 Đã backup → ${OUTPUT_FILE}.backup`);
+        
+        // Lưu file mới
+        fs.writeFileSync(OUTPUT_FILE, updatedContent, 'utf-8');
+        
+        console.log('\n🎉 HOÀN THÀNH!');
+        console.log(`✅ ${OUTPUT_FILE}`);
+        console.log(`📊 Đã sửa ${fixedEntries.size} thẻ trống`);
+    } else {
+        // Mode normal: Tạo file mới
+        let xmlOutput = '<?xml version="1.0" encoding="UTF-8" standalone="yes"?>\n<STBLKeyStringList>\n';
+        
+        for (let i = 0; i < totalBatches; i++) {
+            const tempFile = path.join(TEMP_DIR, `batch-${String(i).padStart(6, '0')}.xml`);
+            if (fs.existsSync(tempFile)) {
+                xmlOutput += fs.readFileSync(tempFile, 'utf-8');
+            }
+        }
+        
+        xmlOutput += '</STBLKeyStringList>';
+        
+        fs.writeFileSync(OUTPUT_FILE, xmlOutput, 'utf-8');
+        
+        console.log('\n🎉 HOÀN THÀNH!');
+        console.log(`✅ ${OUTPUT_FILE}`);
+        console.log(`📊 Đã dịch ${entries.length} thẻ`);
     }
-    
-    xmlOutput += '</STBLKeyStringList>';
-    
-    fs.writeFileSync(OUTPUT_FILE, xmlOutput, 'utf-8');
-    
-    console.log('\n🎉 HOÀN THÀNH!');
-    console.log(`✅ ${OUTPUT_FILE}`);
-    console.log(`📊 Đã dịch ${entries.length} thẻ`);
     
     if (fs.existsSync(PROGRESS_FILE)) {
         fs.unlinkSync(PROGRESS_FILE);
