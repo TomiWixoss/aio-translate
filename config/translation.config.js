@@ -3,7 +3,7 @@ module.exports = {
   api: {
     provider: 'nvidia',
     model: 'stepfun-ai/step-3.5-flash',
-    temperature: 0.3,
+    temperature: 0.7,
     top_p: 0.9,
     max_tokens: 16384,
   },
@@ -35,8 +35,18 @@ QUY TẮC BẮT BUỘC:
    - Phong cách game anime Nhật
    - Giữ cảm xúc và ngữ điệu nhân vật
    - Dịch sát nghĩa, không thêm bớt
+   - Dịch như người Việt nói chuyện thật, không máy móc
+   - Linh hoạt trong cách diễn đạt, không dịch từng từ
+   - PHẢI dịch đúng nghĩa gốc, không bịa đặt hoặc thêm nội dung không có
+   - Xưng hô phù hợp: tránh "mày/tao", dùng "cậu/mình/bạn" hoặc phù hợp tính cách nhân vật
 
-4. Cấu trúc XML:
+4. Đặc biệt cho cốt truyện:
+   - Bắt giữ tính cách nhân vật (Pecorine năng động, Kyaru tsundere, Kokkoro lịch sự...)
+   - Giữ nguyên hậu tố tên (-chan, -sama, -san...)
+   - Dịch đại từ nhân xưng tự nhiên (watashi, boku, ore → em, mình, tôi phù hợp ngữ cảnh)
+   - Giữ tone cảm xúc: vui, buồn, căng thẳng, hài hước
+
+5. Cấu trúc XML:
    - CHỈ dịch nội dung trong thẻ <Text>
    - Giữ nguyên Key
    - Giữ nguyên số lượng và thứ tự thẻ`,
