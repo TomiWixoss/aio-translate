@@ -25,7 +25,7 @@
 疲れてるなら無理しなくていいのよ！\n見張りって結構疲れるし！=Cậu không cần ép bản thân nếu mệt!\nCanh giữ có thể khá mệt đấy!
 そうです。私はチラシ作りしかやってないし、私が見張りを……=Đúng vậy. Tôi chỉ làm tờ rơi thôi, nên tôi có thể lo việc canh giữ...
 そんなに気を使ってくれなくても大丈夫だよ。\nあたしがやるよ、チーズの見張り。=Cậu không cần phải quan tâm đến tôi đến thế.\nTôi sẽ bảo vệ phô mai.
-ほんとだべか！？=Thật ư?!
+ほんとだべか！？=Thật sao?!
 うん。見張りって言っても相手はねずみでしょ？\nそのくらいなら平気平気。=Ừ, được chứ.\nDù tôi nói là "bảo vệ", nhưng chỉ là chuột thôi, đúng không?\nTôi sẽ ổn, đừng lo.
 本当に大丈夫？\n無理しなくていいんだからね。=Cậu chắc chứ? Có ổn thật không?\nCậu không cần phải cố quá, biết đâu.
 そうだよ。\nリンちゃんずっと歩き回って疲れてるだろうし。=Đúng rồi, Rin-chan, cậu đã đi lại nhiều và chắc mệt rồi.
@@ -154,7 +154,7 @@ sr:"^累計(.+)獲得で\n「(.+)」ゲット$"=Đã nhận $1!\nĐạt danh hi�
 
 熟成=Trưởng Thành
 麗しき青=Xanh Tuyệt Đẹp
-誘惑=Sự Cám Dỗ
+誘惑=Sự cám dỗ
 謎は謎のままに=Bí Ẩn Chưa Giải
 
 ---Result screen---

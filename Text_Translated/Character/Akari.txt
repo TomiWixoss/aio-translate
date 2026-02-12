@@ -10,13 +10,13 @@
 一番かわいくなるために=Để trở nên dễ thương nhất
 
 お兄ちゃんじゃなきゃダメ=Phải là cậu
-お兄ちゃんと初めての……=Lần đầu tiên của chúng ta...
+お兄ちゃんと初めての……=Lần Đầu Tiên Cùng Nhau...
 好みに合わせますよ♪=Bất cứ thứ cậu thích nhất♪
 お兄ちゃん、たくましい♪=Lớn và mạnh mẽ vậy♪
 教えるの上手ですね♪=Cậu đã dạy tôi nhiều thứ♪
 お願いします、コーチ！=Xin hãy huấn luyện tôi, huấn luyện viên!
 もう限界ですぅ=Tôi đã đến giới hạn rồi!
-アカリ、落ちちゃうよぉ！=Hãy ôm tôi trong vòng tay!
+アカリ、落ちちゃうよぉ！=Bắt Được Tôi Trong Vòng Tay!
 
 ##UB##
 スイートデビルエール=Lời cổ vũ của tiểu quỷ
@@ -26,7 +26,7 @@ r:"^味方全体の魔法攻撃力を(\d+)アップ$"=►Tăng M.ATK cho tất c
 
 ##S1##
 シャドウボルト=Shadow Bolt
-目の前の敵１キャラに魔法中ダメージを与える。=Gây sát thương phép thuật trung bình cho kẻ thù phía trước trực tiếp.
+目の前の敵１キャラに魔法中ダメージを与える。=Gây sát thương phép trung bình lên kẻ địch phía trước.
 r:"^敵単体に(\d+)の魔法ダメージ$"=►Gây $1 sát thương phép thuật cho một kẻ thù.
 
 ##S2##

@@ -104,7 +104,7 @@ Lima Event Opening
 もしよろしければ、わが主が主催する舞踏会に参加してみませんか？=Nếu cậu đồng ý, ngài có thể cân nhắc việc tham dự buổi khiêu vũ do chủ nhân tôi tổ chức không?
 え、ぶと……？　やだ、冗談がお上手ね。=Hả? Buổi khiêu vũ-...? Ôi không, cậu thật là một tên đùa.
 冗談などではございません。この通り招待状も用意してあります。=Tôi đảm bảo với cậu, đây không phải trò đùa. Như bằng chứng, tôi có thiệp mời ngay đây.
-本当です。=Thật sao.
+本当です。=Thật.
 こんな……こんなことって本当にあるのー！？=Một thứ như thế này... Một thứ như thế này thực sự có thể xảy ra?!
 唐突に開いた夢の扉を前に、\nリマは驚きの声をあげるのだった。=Lima thốt lên kinh ngạc khi cánh cửa giấc mơ của cô bỗng nhiên mở ra.
 
@@ -214,7 +214,7 @@ Chapter 2
 いえ、そのようなことはありません。\n制限を設けず見込みのある方には舞踏会に出ていただきます。=Không, không phải vậy. Không có bất kỳ hạn chế nào và bất kỳ ai thể hiện được tiềm năng đều được phép tham dự buổi khiêu vũ.
 よかった、一緒に頑張ったみんなと舞踏会に出られるのね。\nそれを聞いて一安心だわ。=Thật may quá, vậy em sẽ được tham dự buổi khiêu vũ cùng với mọi người ở đây, những người sẽ phải nỗ lực rất nhiều. Nghe thấy vậy em thấy nhẹ nhõm quá.
 ただ、ここに集まった方々があなたと同じ志とは限りませんよ。=Dù sao thì... không phải mọi người ở đây đều có cùng khát vọng như cô.
-え？　それはどういう……=Hả? Ý cô là sao?
+え？　それはどういう……=Hả? Ý cậu là sao?
 さあ、どうぞお入りください。=Giờ thì, mời vào đi.
 お、おじゃましまーす……わ、わあ！\nす、すごい、ダンスホールね！=X-Xin lỗi vì đã xâm phạm... À! Uwaaaah! T-Tuyệt vời quá, đây là một phòng khiêu vũ thật sự!
 レッスンをクリアできれば、ここで踊れるのね！\nんー、これは頑張らなくっちゃ！=Nếu em có thể vượt qua tất cả các bài học, em sẽ được nhảy ở đây! Hừm! Em thực sự phải cố gắng hết sức!
@@ -798,11 +798,11 @@ Cutscene
 言ったでしょ、あなたの気持ち、理解できるって=Như ta vừa nói, ta hiểu cảm giác của ngươi
 もう止めて！=Dừng lại đi!
 まずはお話ししましょうよ=Hãy thảo luận trước đã
-黙れっ！=Im đi!
+黙れっ！=Câm miệng lại!
 今さら話し合いなどできるか！=Giờ thảo luận thì đã quá muộn rồi!
 もうっ！　この分からず屋さん=Trời ơi! Đồ ngốc!
 お願い、力を貸して！=Làm ơn {playername}, hãy cho tôi mượn sức mạnh của bạn!
-任せて！=Cứ để tôi!
+任せて！=Để tôi!
 そんなものが通用するとでもっ！=Như thể chuyện đó sẽ có tác dụng vậy!
 リマー！=LimaAA!
 リマリマリマリマリマー！=Lima Lima Lima Lima LimAAAAAAA!
@@ -900,7 +900,7 @@ Finale
 では、堂々とせんか。ロイド、こやつは面白いぞ。\n問答無用で倒せば済むものを最後まで話し合うことを諦めんかった、\n心の美しき者だ。=Vậy thì, hôm nay chúng ta hãy táo bạo một chút. Lloyd, cô gái này là duy nhất. Cô ấy đã không bỏ cuộc trong việc nói chuyện với tôi cho đến tận cùng, mặc dù cô ấy hoàn toàn có thể đánh bại tôi. Cô ấy sở hữu một trái tim đẹp đẽ.
 そうどすな～。ロイドはん、こちらうちの大事なお友達のリマはんどす。\n見た目も中身もえらいかいらしい、マホマホ王国の住民やで～\nよろしゅうな～=Đúng rồi. Lloyd-han. Đây là bạn thân quý của tôi, Lima-han. Cô ấy là cư dân mạnh mẽ của Vương quốc Maho Maho, và cũng là một người rất tốt cả bên trong lẫn bên ngoài. Xin giới thiệu cô ấy.
 ああ、おまけに腕っぷしも強けりゃ肝も座ってる。\nあたしも出会ってから日が浅いけど、間違いなく極上のお嬢さんだぜ。=Ừ, và hơn nữa, cô ấy còn mạnh mẽ và có bản lĩnh thép. Tôi mới gặp cô ấy thôi, nhưng không nghi ngờ gì là cô ấy là một cô gái rất đáng mực.
-み、みんな……=E-Everyone...
+み、みんな……=M-Mọi người...
 ……マーサ、晩餐の人数の追加を頼む。\n美しい大切なお客様だ、盛大にもてなしてくれ。=...Martha, tôi tin cậy cô sẽ thêm thêm chỗ ngồi cho bữa tối. Chúng ta có một vị khách quan trọng và xinh đẹp nữa. Hãy đối xử với cô ấy với sự hiếu khách tối đa.
 かしこまりました。最高の淑女に相応しいディナーをご用意いたします。=Đã rõ. Chúng tôi sẽ chuẩn bị một bữa tối xứng đáng với quý cô.
 ロイドさん、マーサさんまで……=Lloyd-san, Martha-san nữa...

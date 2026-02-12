@@ -11,7 +11,7 @@
 男子生徒=Nam sinh
 いらないわよっ！！=Tôi không cần thứ đó!!
 あはははは！！=Ahahaha!!
-あんたたち……=Các ngươi...
+あんたたち……=Các cậu...
 キャール！　キャール！=Kyaru! Kyaru!
 キャール！　キャール！　キャール！=Kyaru! Kyaru! Kyaru!
 決めよう！=Hãy kết thúc đi!
@@ -31,20 +31,20 @@
 クソメガネー！=Bốn mắt
 クソメガネー！！=Bốn mắt!!
 はああああ！！=Haaaaah!!
-オオオオオ！！=Ooooooooh!!
+オオオオオ！！=Ôôôôôô!!
 イインチョちゃん！？=Lớp trưởng-chan?!
 でやああ！！=Deyaaaa!!
 ふう……集中して。\nはああああ……=*thở phào*... Tập trung.\nHaaaaah...
 やあああ！！=Yaaaaah!!
-はあ……はあ……はあ……=*thở dốc thở dốc*...
+はあ……はあ……はあ……=*thở dốc*...
 弱い！=Yếu!
 まだまだぁ！！=Tôi chưa xong yet!!
 なっ……！！=Cái...!!
 あたしを信じて！=Tin tôi đi!
-まじか！？=Thật sự!?
+まじか！？=Thật sao!?
 …………オオ。=.........À.
 キャルちゃんすごい！=Kyaru-chan, cậu tuyệt vời!
-えええ～～！？=Cái gì?!
+えええ～～！？=Sao cơ?!
 はあああ！！！=Haahhhh!!!
 キャルっち……！=Kyaru-chi...!
 おおおおお！！！=Ôi trời ơi!!!
@@ -53,7 +53,7 @@
 やったーーー！！=Làm được rồi!!!
 キャルちゃん頑張れ！=Chúc may mắn nhé, Kyaru-chan!
 キャルたちが編入したクラスは通称・ダメ組。初歩の魔法さえ扱えない劣等生の集まりに驚愕するキャルだが、特進クラスの委員長に{playername}たちをバカにされ、怒りを露にするのだった。=Lớp mà Kyaru và những người khác chuyển đến thường được gọi là Lớp Không Đôi. Kyaru sốc trước đám học sinh yếu kém đến mức không thể thi triển phép thuật cơ bản, nhưng chủ tịch lớp đặc biệt lại chế giễu {playername} và nhóm họ, khiến họ tức giận.
-よろしくね！=Rất vui được gặp mọi người!
+よろしくね！=Rất vui được gặp cô!
 一人目はもう入って来てくれてんな！\nよし{playername}！　挨拶してくれ！=Người đầu tiên đã tới rồi!\nĐược rồi, {playername}! Chào hỏi đi!
 ほらー席着け、ざわざわすんなー！\n今日から一緒に学ぶことになる編入生を紹介するぞ！=Nào, ngồi xuống đi, đừng làm ồn! Tôi sẽ giới thiệu học sinh chuyển sinh mà chúng ta sẽ học cùng từ hôm nay!
 担任の案内で教室へとやってきたキャルたち。\nついに編入生としての学園生活が幕を開ける──=Kyaru và những người khác theo giáo viên chủ nhiệm đến lớp học. Cuối cùng, màn đã mở ra cho cuộc sống của họ với tư cách học sinh chuyển sinh.
@@ -246,7 +246,7 @@
 あーキャルちゃんだっけ？　ごめんねこいつ、超惚れっぽくてさ。\n多分今まで100人くらいに告ってんだ。で、全フラれ。=Ồ, Kyaru-chan, phải không? Xin lỗi, thằng này dễ phải lòng lắm. Nó có lẽ đã tỏ tình với khoảng trăm cô gái rồi. Và, nó bị từ chối mọi lần.
 はあ……今回も駄目だったか～\nつかまあ流石に今日は、100パー無理ってわかっちまったけど。=Thở dài... Lần này cũng không thành, hả?\nThôi, tớ biết hôm nay khả năng thành công là 0%, nhưng vẫn thế.
 真っ赤な顔で屋上まで走ってきて、\n{playername}の名前を呼んだキャルちゃんを見たら、\nどんだけ鈍感な奴でも気づいちまうよ……君の好きな人。=Nhìn Kyaru-chan chạy xốc lên mái nhà với khuôn mặt đỏ ửng, hét tên {playername}, ngay cả kẻ chậm hiểu nhất như kim cương cũng sẽ nhận ra... người cậu thực sự thích là ai.
-どういうこと？=Ý cậu là sao?
+どういうこと？=Ý cậu là gì?
 いい！！　聞かなくていいから！！=Đủ rồi!! Cậu không cần hỏi!!
 さ、触ってんじゃないわよ！！\nもうほんとこれ以上は……！！=Đ-đừng chạm vào tôi!\nThật sự, tôi không chịu nổi nữa...!
 これ以上は……=Quá mức rồi...
@@ -604,7 +604,7 @@
 はーーはっはっはっはっは！！=Ha-ha-ha-ha-ha!!
 執事=Quản gia
 はーーはっはっはっはっは！！\nとんでもねえ飛び級だ！　学園初の快挙だぜキャル！\nみんなでキャルを胴上げだー！！=Hahaha! Thật là bước nhảy vượt cấp kinh khủng! Đây là thành tựu vĩ đại đầu tiên của trường, Kyaru! Chúng ta cùng nhau nâng Kyaru lên cao nào!
-わーっしょい！　わーっしょい！=Hoan hô! Hoan hô!
+わーっしょい！　わーっしょい！=Yay! Yay!
 ちょ、騒ぐんじゃないわよ！\nそれにあたし、まだ卒業なんか……=Này, đừng làm ồn! Hơn nữa, tôi chưa tốt nghiệp mà...
 いま、変な声が聞こえたような……\nってもう胴上げはいいのよー！　降ろせー！=Giờ tôi nghĩ tôi nghe thấy một giọng nói lạ... \nĐủ rồi với bữa tiệc! Hạ tôi xuống!
 …………憎い、憎いぞ、……この鐘の音。=...Tôi ghét, tôi ghét... âm thanh của chiếc chuông này.
@@ -656,7 +656,7 @@
 バーサーカーって呼ばれても！=Ngay cả khi người ta gọi tôi là Berserker!
 何度バカって言われても！=Dù người ta có gọi tôi là kẻ đần lên bao nhiêu lần!
 ベタベタすんなって怒られても！=Ngay cả khi người ta chửi chúng ta là đôi tình nhân dính nhau!
-僕たちは、そんなキャルちゃんが！=Đó chính là Kyaru của chúng ta!
+僕たちは、そんなキャルちゃんが！=Đó là Kyaru của chúng ta!
 え、あ……あんたも？=Hả? C-Cả cậu nữa sao?
 ……っ。\n……ホントにいい感じにすんな……=Ugh... Thật sự, đừng quá thân mật...
 えへへ、キャルっち、泣いてもいいんだよ♪\n……ううう～～～っ！=Hehe, Kyarucchi, được khóc đấy ♪ ...Uuuu~
@@ -701,7 +701,7 @@
 ひいっ！！　だ、旦那様！\nいい、いかがなさいますか！？=Eek!! M-Master! Ngài muốn tôi làm gì!?
 し……洒落にならん……！\nこんな大ごとになるなんて聞いてないぞ！？\n私はキャルの卒業式が邪魔されるだけで良かったんだ……！=Đây... không phải trò đùa! Tôi không đăng ký để tham gia chuyện lớn thế này! Tôi chỉ cần gây trở ngại cho lễ tốt nghiệp của Kyaru...!
 奴の悲痛な顔を拝みに来ただけなのに巻き込まれてたまるか！\n……知らん！！　私はこの件に一切関与していない！！\n今すぐ逃げるぞ！！=Tôi sẽ không để bị kéo vào chuyện này chỉ vì tôi đến xem bộ mặt đáng thương của họ! Tôi không biết gì!! Tôi hoàn toàn không liên quan!! Tôi đi đây!!
-逃がしません！！=Tôi sẽ không để ngươi chạy!!
+逃がしません！！=Ta sẽ không để ngươi chạy trốn!!
 壁に耳アリ、障子に目アリ……！\n今の話は全て聞きましたよ、この腐レゲドー……！！=Tường có tai, và shoji có mắt...! Tôi nghe hết mọi thứ ngươi vừa nói, tên Regedo thối nát kia...!!
 クスクス……よくもあのおかたの晴れの舞台を汚しましたね？\n覚悟しなさいこのゴミくずめが！！=Tehehe... Ngươi đã dám làm bẩn khoảnh khắc tỏa sáng của người đó, phải không? Sẵn sàng đi, mảnh rác!!
 ひい～～～っ！！=Eeeeek!!
@@ -764,7 +764,7 @@
 旦那様と私で……\nきちんと罪を償います……=Chủ nhân và tôi... sẽ chuộc lỗi thật tốt cho tội lỗi của mình...
 各々ガタ！　キャルさんが魔物を退治したそーデス！！\nさすがは天下無双の魔法使いデース！！=Mỗi lần! Kyaru-san đã đánh bại con quái vật!! Như mong đợi từ pháp sư vô song trên thế giới!!
 ひとまずこっちは一件落着ですね！\nじゃあ私たちも屋上に戻りましょう！=Một sự cố đã tạm thời được giải quyết! Trở về mái nhà thôi!
-合点承知デース！=Rõ!
+合点承知デース！=Hiểu rồi!
 キャルさんの卒業式へ！=Đến lễ tốt nghiệp của Kyaru!
 ……さーてと、\nクタクタだし帰りましょうかー=…Thôi, về nhà thôi. Mệt quá.
 うん！　まだ式の途中！\n最後のキャルっちの挨拶が残ってるし！=Ồ, phải rồi! Lễ còn chưa kết thúc. Chúng ta còn phải nghe bài phát biểu cuối cùng của Kyarucchi nữa!
@@ -775,7 +775,7 @@
 ここで過ごした期間は長くなかったけど、\n楽しい思い出がたくさんできました。\nこれもすべて、みんなのおかげです。=Thời gian tôi ở đây có lẽ không dài, nhưng tôi đã có nhiều kỷ niệm tuyệt vời. Và tất cả đều là nhờ có tất cả mọi người.
 アンブローズ魔法学園を卒業した後も、\nここで学んだことを胸に……=Ngay cả sau khi tốt nghiệp Học viện Ma thuật Ambrose, tôi vẫn sẽ mang theo mọi thứ tôi học được ở đây trong trái tim.
 ……ケッ！\nなんだそれ気持ち悪ィ！=...Khặc! Tôi chán cái trò đó lắm rồi!
-は、はあ！？=Sao cơ!?
+は、はあ！？=C-Cái gì?!
 そこの君、静かにしなさい！\nキャルさんの挨拶の邪魔だ！=Xin im lặng ở đó! Các người đang làm phiền bài phát biểu của Kyaru!
 大人は黙っててくれ……！\nおいキャル！　最後に猫被んじゃねーよ！\n俺たちが聞きたいのはそんな行儀のいい言葉じゃねー！=Các người lớn, xin giữ trật tự! Này, Kyaru! Đừng cố tỏ vẻ đứng đắn lúc cuối! Chúng tôi không muốn nghe những lời đạo đức giả đó!
 俺は……俺たちはお前の生の声が聞きてーんだ！\nそうだろみんな！？=Tôi... Chúng tôi muốn nghe giọng nói thật của cậu! Phải không mọi người!?

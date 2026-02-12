@@ -2,7 +2,7 @@
 黎明界ラビリンスβ=Mê Cung Vùng Bình Minh β
 黎明界ラビリンスβに挑戦しよう=Hãy thử thách Mê Cung Vùng Bình Minh β
 
-所持パスポート=Hộ Chiếu
+所持パスポート=Hộ chiếu
 挑戦中=Đang Tiến Hành
 出発=Khởi Hành
 アルファ強化=Nâng Cấp Alpha
@@ -18,7 +18,7 @@
 
 挑戦を終了してラビリンスTOPに戻りますか？\n\n※「撤退する」を選択すると、報酬が獲得できない\n代わりにラビリンスパスポートが返却されます。=Bạn có muốn kết thúc thử thách và quay về Mê Cung TOP?\n\n※Nếu chọn "Rút Lui", bạn sẽ không nhận được phần thưởng nào.\nThay vào đó, Hộ Chiếu Mê Cung của bạn sẽ được hoàn trả.
 
-有効効果=Hiệu Ứng
+有効効果=Hiệu ứng
 ボスへの\n有効効果=Hiệu Ứng\nlên Boss
 バリア=Rào Cản
 対象のキャラがいません。=Không có nhân vật mục tiêu.

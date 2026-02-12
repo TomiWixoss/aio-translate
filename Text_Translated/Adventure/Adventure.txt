@@ -3,22 +3,22 @@
 遺跡調査=Điều Tra Di Tích
 まとめて\n帰還確認=Trả Lại\nHàng Loạt
 まとめて\n出発=Xuất Phát\nHàng Loạt
-パーティ上限=Giới Hạn Đội
+パーティ上限=Giới hạn Đội
 r:"^冒険中PT\n\(([0-9/]+)\)$"=Đội\nPhiêu Lưu\n($1)
 冒険中=Đang Phiêu Lưu
 sr:"^(.+)が現れた！$"=$1 đã xuất hiện!
 メモピ数=#Ghi Chú
 メモピ=Ghi Chú
 メモリーピース対象=Mục Tiêu Mảnh
-人数=Người
-人数:=Người
+人数=People
+人数:=People
 10キャラ=10 Nhân Vật
 おまかせ=Ngẫu Nhiên
 全選択解除=Hủy Tất Cả
 必要戦力=Yêu Cầu
 時間短縮=Giảm thời gian
 繰り返し出発=Đi lại
-出発する=Xuất phát
+出発する=Khởi Hành
 
 成功報酬=Phần thưởng thành công
 以下のクエストが進行中です。\n状態を確認しますか？=Các nhiệm vụ sau đang tiến hành.\nKiểm tra trạng thái?
@@ -79,7 +79,7 @@ r:"^本日の残り撤退可能回数  ([0-9/]+)$"=Lượt rút lui hôm nay: $1
 帰還していないアドベンチャーの報酬は獲得できず、\n必要時間もリセットされます。\n\nよろしいですか？=Bạn sẽ không nhận được phần thưởng nào khi rút lui và thời gian cần thiết sẽ được đặt lại.\nCó chứ?
 
 報酬詳細=Chi tiết phần thưởng
-キャンペーン=Chiến dịch
+キャンペーン=Chiến Dịch
 終了日時=Ngày hoàn thành
 戦力が不足しています。=Tổng sức mạnh không đủ.
 人数が不足しています。=Số người không đủ.
@@ -102,7 +102,7 @@ r:"^本日のチケットでの時間短縮可能回数 ([0-9/]+)$"=Lượt dùn
 ファストチケットとジュエルを消費して\n時間短縮を行います。よろしいですか？=Dùng Vé Tăng Tốc và Jewel\để rút ngắn thời gian. Có chứ?
 
 
-再出発しない=Quay về
+再出発しない=Quay lại
 再出発する=Bắt đầu lại
 レースの神様=Thần Đua
 ファントムキャッツ登場！=Mèo Ảo Hiện Hình!

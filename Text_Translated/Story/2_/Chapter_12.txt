@@ -54,7 +54,7 @@
 おとおおとくぅぅっぅぅうぅううんっ！！！=Otoooooooooooooooooooooooooooooooooooooo!!!
 扉が吹っ飛んだべーーーっ！？=Cửa đã bị thổi bay ra khỏi bản lề!
 お姉ちゃんだよ！\nお姉ちゃんだよ！！\nお姉ちゃんだよぉぉぉ～～っ！！！=Đó là onii-chan! Onii-chaaan!! Oniii-chan!!!
-わっ！！？=Ối!!?
+わっ！！？=Ối dẹp!!?
 怖かったね大変だったね辛くてしんどくて心細かったね！！\n弟くんがピンチなときに助けてあげられなかった\nダメダメなお姉ちゃんでごめんねごめんねごめんねぇ～～っっ！！！=Đáng sợ, phải không? Thật khó khăn, đau đớn và cô độc!! Tớ xin lỗi vì là một chị gái vô dụng đến mức không thể giúp cậu khi cậu gặp nguy hiểm!!!
 シズル……さま。\nやはり、いらっしゃったのですか……=Lady...Shizuru. Vậy cuối cùng cô cũng ở đây...
 あ～～っ！！\nお姉ちゃん、またまたまたまた抜け駆けですよ～っ！\nズルいです、私もお兄ちゃんにヘッドロックします～っ！=Aaaah!! Chị, chị lại không biết tin rồi! Vậy không công bằng, tớ cũng sẽ ôm chặt onii-chan của tớ~!
@@ -80,8 +80,8 @@
 リザベスパーク=Elizbeth Park
 エ=Hả?
 よっと=Được rồi.
-じゃーんっ！=Tadaa!
-わぁぁ～～～！=Ồ~!
+じゃーんっ！=Ta-dah!
+わぁぁ～～～！=Wow~!
 わぁーっ！=Ồ!
 はい、弟くん♪=Vâng, em trai♪
 お姉ちゃん、弟くんのために愛情いっぱい込めちゃった♪=Chị gái đã đổ rất nhiều tình yêu thương dành cho em trai vào đó rồi♪
@@ -294,7 +294,7 @@
 ……まさか、オーエドのときみたいに敵が仕掛けてきてる……？\nあのときは、ランファの魔法の歌のせいで\nあなたが無理やり眠らされてしまって……=...Đừng nói với em kẻ thù lại đang bẫy anh như họ đã làm ở Oedo...? Lúc đó, anh bị buộc phải ngủ vì bài hát ma thuật của Ranpha...
 ランファさんは、もう敵じゃないけど……=Ranpha-san không còn là kẻ thù nữa, nhưng...
 そ、そうなの？\nそれは良かったけど……じゃあ、どうして……=Th-Thật ư? Tốt quá, nhưng... Vậy tại sao...?
-わからない。=Em không biết.
+わからない。=Tôi không biết.
 ……これが、本当にあなたの夢の中なら。\nもしそうだとしたら……本当に、ごめんなさい。=......nếu đây thực sự là trong giấc mơ của anh. Nếu đúng là vậy......thật xin lỗi anh.
 迷い込んだ私が……泣きわめいて、湿っぽくしてしまって。\nあなただってきっと、大変な思いをしているはずなのに……=Khi em lang thang vào đây, em... đã khóc, gào khóc và... đái quần. Chắc hẳn anh cũng đang gặp khó khăn...
 ……ありがとう。\nみんなの前ではできるだけ、\n普段通りに振る舞いたいのだけど。……でも……=...Cảm ơn anh. Em muốn hành xử bình thường nhất có thể trước mặt mọi người. ...Nhưng...
@@ -319,7 +319,7 @@
 ……？\nぇ……=...? Hả...
 な、何？\nこの感じ……=C-Cảm giác này là sao...?
 誰かが……近づいてきてる……？\n夢の中の、はずなのに……=Có ai đó... đang đến gần...? Đây là trong giấc mơ mà...
-きゃっ……！=Ái chà...!
+きゃっ……！=Eek...!
 ミネルヴァさん……！？=Minerva?!
 ……ご無沙汰をしていました。\nあなたが赤子のようだったとき以来ですね、\n{playername}。=Lâu rồi. Lần cuối cùng thấy con là khi con còn nhỏ, {playername}.
 コッコロちゃん、どうしたの。\n少年たちは？=Kokkoro, cậu bé sao vậy?
@@ -365,7 +365,7 @@
 ええ。\nはじめまして。=Vâng. Rất vui được gặp bạn.
 それに、{playername}……\n私の頼みを聞いて、ソルオーブを集めてくれているようですね。\n感謝いたします。=Ngoài ra, {playername}... Có vẻ như bạn đã chấp nhận yêu cầu của tôi và đang thu thập Quả Cầu Mặt Trời. Cảm ơn.
 どういたしまして。=Không có gì.
-ソルオーブを……？=Quả cầu mặt trời...?
+ソルオーブを……？=Quả Cầu Mặt Trời...?
 ええ。\nあの宝玉は、アストルムの管理者権限の外にある\n重要なアイテムですから。=Vâng. Quả cầu đó là một vật phẩm quan trọng nằm ngoài quyền quản trị của Astrum.
 ですが……あなた方は。\nその探索に、七冠たちの手を借りているようですね。=Nhưng...có vẻ như tất cả các bạn đang giúp Bảy Vương Miện trong cuộc tìm kiếm của họ.
 警告しておきますが。\n七冠たちに、心を許してはなりません。=Để tôi cảnh báo bạn. Bạn không được tin tưởng Bảy Vương Miện.
@@ -480,7 +480,7 @@
 ……どこか、かなり遠い場所に洗脳魔法の装置を隠して。\nしかも、こっちに発生源を辿らせないようにジャミングまでしてる\n……いやあ、とんでもないなぁ。=...Cô ấy đang giấu một thiết bị ma thuật brainwashing ở đâu đó khá xa. Và cô ấy thậm chí còn gây nhiễu để chúng ta không thể truy tìm nguồn... Chà, thật điên rồ.
 ちゃんと準備すれば、\n魔力の流れを断つ罠とかも仕掛けられそうだけど──=Nếu tôi chuẩn bị kỹ, tôi có thể thiết lập bẫy để phá vỡ dòng chảy năng lượng ma thuật, nhưng...
 小細工はいけませんよ。晶。=Cậu không được làm trò mánh khóe, Akira.
-わわっと……！=Ồ...!
+わわっと……！=Ối dời...!
 も～\nそんな仮面してるのに、ネネカは目端が利くんだから～=Chà~ Mặc dù đang đeo mặt nạ, Neneka có thị lực tốt~
 本当なら、今すぐ外してしまいたいところです。\nよければ、貴方に差し上げますよ。=Nếu đúng vậy, tôi sẽ tháo nó ngay bây giờ. Nếu cậu muốn, tôi có thể tặng nó cho cậu.
 いや～、それはちょっと。\nほら、アタシじゃネネカほどは、似合わないと思うしさ？=Ừ, thì hơi... Không, tôi không nghĩ vậy. Tôi không nghĩ mình phù hợp như Neneka, cậu biết đấy?
@@ -601,7 +601,7 @@
 そうでもしないと、キミは彼と結ばれないからね。\n今のアストルムは『草野優衣ちゃんの願いが叶った世界』で。\nミネルヴァと一つになったキミは、その世界の運営装置なわけだから。=Bởi vì nếu không, cô sẽ không thể gắn bó với cậu ấy. Ngay bây giờ, Astrum đang ở trong thế giới nơi ước nguyện của Yui Kusano-chan đã được đáp ứng. Cô, người đã trở thành một với Minerva, là thiết bị vận hành của thế giới đó.
 世界の破滅なんかを、望んだりはしないはずだ。=Cô ấy sẽ không muốn sự phá hủy thế giới xảy ra.
 ──でも。\n七冠が作り上げた超AIは。\nコッコロちゃんが情緒を育て上げたあの子は。=Nhưng siêu AI được tạo ra bởi Bảy Vương Miện. Đứa trẻ mà Kokkoro nuôi dưỡng về mặt cảm xúc.
-にしても──=Nhưng dù sao...
+にしても──=Nhưng vẫn...
 やー、まさかね。\nミネルヴァが、キミに取り込まれてたなんて。エリス。=Ồ, không thể nào. Nghĩ rằng Minerva lại bị Eris lừa được.
 アタシやネネカが一生懸命ミネルヴァを捜しても、\nそりゃあ見つからないはずだよねー=Dù Neneka và tôi có tìm kiếm Minerva kiểu nào, chúng ta cũng không nên tìm thấy cô ấy.
 そちらこそ──\n虚言を弄するのはやめなさい。\n迷宮女王。=Cũng vậy thôi, Queen Labyrinth. Dừng việc chơi đùa với những điều giả dối lại.
@@ -638,7 +638,7 @@
 ──『D型検体0005b』。=Loài D mẫu 0005b.
 あ、ああああああっ！！！=A-Aaaaahhh!!!
 よっ=Ê!
-お邪魔しまーす、っと=Xin lỗi vì đã xông vào
+お邪魔しまーす、っと=Xin lỗi vì đã xen vào
 ……模索路、晶……=...Akira...
 やあミネルヴァ。久しぶりー=Này, Minerva. Lâu rồi không gặp
 って言いたいところだけど……=Đáng lẽ tôi muốn nói thế, nhưng...
@@ -765,7 +765,7 @@
 ……それじゃ。\n後、お願いします……=...Được rồi. Tôi sẽ giao phần còn lại cho cô...
 ……！？\n絶対攻撃を、躱した──いや、『消えた』！？=...?! Cô ấy tránh được đòn tấn công? Không, cô ấy 'biến mất' ư?!
 空間跳躍──まさか、=Spacial leap Không thể nào,
-──ぬぐっ！？=Ực!?
+──ぬぐっ！？=Ngh!?
 失敬。\nあなたの絶対防御を破るには、不意打ちが最も有効ですからね。\n誓約女君。=Xin lỗi. Những đòn tấn công bất ngờ là cách hiệu quả nhất để phá vỡ phòng thủ tuyệt đối của cô, Regina Geas.
 跳躍王。\nそれに──=Vua Nhảy. Và...
 我が主ぃぃぃいいっ！！！\nとおぉぉぉっ！！=Chủ nhân của tôi!!! Quá...!!
@@ -801,7 +801,7 @@
 ふっ、こんなもの──=Heh, đây là...
 風の精霊よ──！=Linh hồn của gió.
 やった！=Em làm được rồi!
-まだです！=Chưa xong!
+まだです！=Chưa!
 仮面を外しただけでは、洗脳は解けないはず……！=Tháo mặt nạ chưa chắc đã xóa được tẩy não...!
 ええ！　対策は講じています！=Đúng rồi! Chúng ta đã có biện pháp phòng ngừa!
 今です！　ダイゴ！=Bây giờ! Daigo!
@@ -839,7 +839,7 @@ D型検体は、わたしの中のミネルヴァの権能で作成したモノ�
 D型は、失敗した。\nリセット発生の最大要因──覇瞳皇帝の抹消が、できなかった。=Loại D thất bại. Yếu tố lớn nhất trong lần reset là việc loại bỏ Kaiser Insight.
 けれど、廃棄予定だった0005bを。\nミソラの助言で、あなたたちに近づけた。\n以降、0005bは、わたしが目覚めた時だけ機能する『瞳』となった。=Nhưng 0005b được cho là sẽ bị loại bỏ. Nhờ lời khuyên của Misora, tôi đã có thể đến gần cô ấy hơn. Kể từ đó, 0500b đã trở thành một "mắt" chức năng chỉ khi tôi thức tỉnh.
 そんな……=Không thể nào...
-そんな、ことよりも……=Quan trọng hơn là...
+そんな、ことよりも……=Quan trọng hơn...
 ──騎士クン。=Kishi-kun.
 あぁ……騎士クン。=À... Kishi-kun.
 たとえ、集合無意識での邂逅だとしても……こうして。\nあなたと、言葉を交わせる。\nあなたに、触れることが……=Dù là một cuộc gặp gỡ vô thức... tôi vẫn có thể trao đổi lời với cậu như thế này. Chạm vào cậu...
@@ -967,7 +967,7 @@ D型は、失敗した。\nリセット発生の最大要因──覇瞳皇帝�
 あれっ？　シオリちゃん？=Hả? Shiori-chan?
 シオシオ、どうしたべ！？=Shio-shio, sao vậy?!
 それが……寝室で休んでいたはずの\nシェフィさんの姿が、無くなってしまって！\nどこにも、見つからないんです……！=Nhưng... Sheffy, người lẽ ra đang nghỉ ngơi trong phòng ngủ, đã biến mất! Tôi không tìm thấy cô ấy ở đâu cả...!
-ええっ！？=Gì cơ?!
+ええっ！？=Gì?!
 まさか、今度はあいつが狙われてっ……！？=Đừng nói là lần này cô ấy cũng bị nhắm đến chứ...!?
 ──違うよ。=Không.
 マスターっ？=Thưa chủ nhân?

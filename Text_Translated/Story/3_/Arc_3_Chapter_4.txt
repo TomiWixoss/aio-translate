@@ -94,7 +94,7 @@ Summary:
 さっき借りたクルルの魔宝石、調べ終わったけどね。\nランドソルじゃかなりレアだけど……\nでも、似たようなものがないってワケじゃないわ。=Tôi đã kiểm tra xong những viên đá ma thuật mà tôi mượn của Kururu trước đó. Chúng khá hiếm ở Landosol, nhưng... điều đó không có nghĩa là không có những viên tương tự.
 ──人間の魂を封じ込めたり、\nロストした人が結晶化したようなモンじゃないってこと。\n残念ながらね。=─Những thứ này không phải thứ gì để bẫy linh hồn con người, cũng không phải dạng tinh thể của người Lost. Thật đáng tiếc.
 では……わたくしたちの目当てとは、\n直接的にはかかわりがなさそう……なのですね。=Vậy... Có vẻ chúng không có liên hệ trực tiếp với thứ chúng ta đang tìm...
-ざんねん。=Đáng tiếc.
+ざんねん。=Thật đáng tiếc.
 ぷぅ……=Puu...
 『前のアストルム』だと、条件を満たすとリセットが発生しちゃって。\n決められた地点にまで時間が巻き戻って──=Trong "Astrum trước đây", một lần reset sẽ xảy ra nếu đáp ứng các điều kiện nhất định.\nThời gian quay ngược lại về một điểm đã định sẵn─
 その、『巻き戻りの終点から復帰する地点』のあいだに\n死んじゃったひとも、\n新しいループでは元通りになってた……らしいんですよね。=Và những người "chết giữa điểm quay về và kết thúc một vòng lặp" cũng sẽ được đưa trở lại trạng thái bình thường trong vòng lặp mới... có vẻ như vậy.
@@ -591,7 +591,7 @@ Summary:
 でも、そうしたらきっと、\n怖い方の姫さまに怒られると思うんですけどっ……=Nhưng nếu tôi làm vậy, tôi chắc chắn Công chúa "đáng sợ" sẽ tức giận với tôi...
 だっ、だからっ……そのっ！\nヘンなお願いかもしれないですけど！\nみなさんも……！=T-Vì vậy... Ơm! Đây có thể là một yêu cầu kỳ lạ, nhưng...!\nMọi người...!
 どうかみなさんも、私と一緒に戦って……怒られてくれませんかっ！？=Tất cả các cậu sẽ chiến đấu cùng tôi và... không tức giận với tôi?!
-おおーーーっ！！=Ôi trời ơi!!
+おおーーーっ！！=ÔI TRỜI!!
 そうね、リンドちゃん……！\n大したことはできないけれど、私たちも戦うわ！=Đúng rồi, Lind-chan...!\nChúng ta có thể không làm được nhiều, nhưng chúng ta cũng sẽ chiến đấu!
 ああ！\n俺たちの国で、俺たちの姫さんなんだからな。\nちっと怖ぇときもあるが、俺たちで守んなきゃな！=Ừ! Nó là công chúa của đất nước chúng ta mà.\nDù đôi lúc có hơi đáng sợ, chúng ta vẫn phải bảo vệ nàng!
 がっはっは！\nワシの研究が役に立つ時が来たようじゃな！\nスペッシャルな秘密兵器、ぶつけてやるぞい！=Gahaha! Có vẻ nghiên cứu của ta đã đến lúc hữu dụng rồi!\nTa sẽ thả vũ khí bí mật đặc biệt của mình ra!
@@ -1169,7 +1169,7 @@ Cutscene:
 オニギリちゃんっ！？=Onigiri-chan!?
 ひとりで逃げてんじゃないわよあんたっ！？=Mày đừng hòng chạy một mình!
 お待ちくださいっ！=Xin hãy đợi!
-わあああ！！=Waaaaah!!
+わあああ！！=Ốaaa!!
 バギャッオオッー=Bagyaohhhh!
 ぴいぃっ～！？=Piiii～?!
 あああっ～！？=Á á á á á á á á?!
@@ -1192,7 +1192,7 @@ Summary:
 ぺコリーヌたちは希留耶たちを捜すが未だに見つけられずにいた。そんな折、二人は国際警察に包囲されてしまう。一方、希留耶は自宅で目を覚まし、目の前で声を荒げる母を見て自分の現実を再認識する……=Pecorine đang tìm Kiruya và người kia, nhưng họ không tìm thấy và thay vào đó lại bị cảnh sát quốc tế vây quanh. Trong khi đó Kiruya tỉnh dậy ở nhà và nhận ra mình đã trở về thực tại khi thấy chính mẹ mình đang lên tiếng trước mặt.
 
 男=Nam
-不良=Du đãng
+不良=Thằng du đãng
 グルーヌイ=Grenouille
 部下１=Tay sai 1
 部下２=Tay sai 2
@@ -1262,7 +1262,7 @@ mimiのメッセージも、既読にならないし…=Tin nhắn 'mimi' của 
 ごちゃごちゃ言ってんじゃねーよっ！\n俺ぁマジなんだよ！\n譲ってくれねぇってんなら……ぶん殴ってでもっ！=Đừng có mà đùa với ta!\nNếu ngươi không đưa nó cho ta... thì ta sẽ lấy nó bằng vũ lực!
 『メリケンサック！？』=「Găng đấm!?」
 うおおっ、食らえ！\n魔物退治で鍛えた一撃～っ！！=Uooogh, hãy nhận lấy đây! Tấn công Sát Quái!
-ペコさん、危ないっ！！=Peco-san, cẩn thận!
+ペコさん、危ないっ！！=Peco-san, coi chừng!
 お……？=Hả...?
 い、いてぇ～っ！\n俺の手のほうがいてぇっ！？\nなんだこいつ、鉄でできてんのかよっ！？=N-Nó đau quá!! Tay tôi đau như địa ngục!\nNgươi làm bằng thép chắc!?
 ……ここは、ゲームの中じゃない。\nそんなもんつけて殴ったら、ケガじゃすまないだろうが。=...Ngươi không còn ở trong trò chơi nữa.\nNếu ngươi cố gắng tấn công ai đó, ngươi sẽ hối tiếc.
@@ -1459,7 +1459,7 @@ mimiが……ない？\nあたしの、すっごい大事な……大事なも�
 『キャルちゃあ～んっ♪』=『Kyaru-chaaan♪』
 『えへへへ☆\nリアルのキャルちゃんです～♪\nぎゅ～～～～！！』=『Ehehehe☆ Thật là Kyaru-chan đích thân～♪\nÔm!!』
 ふがっ！\nちょっ……ひっつくなアホリーヌッ！=Fugah!\nNày... Đừng bám vào tôi, Đồ ngốc Peco!
-……って、いいたいとこだけど……=...Dù tôi rất muốn nói thế, nhưng...
+……って、いいたいとこだけど……=...Hoặc là tôi muốn nói thế, nhưng...
 今日は特別に……\nちょっとだけ、ゆるしてあげる。\n助けてもらったぶんくらいは……=Hôm nay là đặc biệt...\nNên tôi sẽ tha thứ cho cậu, chỉ một chút thôi.\nĐổi lại những gì cậu đã làm cho tôi...
 『うーん……？\nやっぱりこっちじゃ、いつものケモミミはないんですね……』=『Hmm...?\nTôi đoán cậu thực sự không có đôi tai lông thường thấy ở đây...』
 『しょうがないので、こっちのもっちりした耳たぶでガマンします！\nはーむ☆』=『Không thể làm gì khác, nên tôi sẽ tạm dùng chiếc vành tai dày này!\nHaaーaumf☆』*cắn nhẹ*
@@ -1545,7 +1545,7 @@ Teaser:
 
 プリンセス・バスタイム=Giờ Tắm Công Chúa
 マホとカオリは、リンドとヴルムから依頼を受け\n『ジオ・テオゴニア』の平原にて魔物退治にいそしんでいた。=Maho và Kaori nhận được yêu cầu từ Lind và Wurm, và đang miệt mài trừ khử quái vật trên đồng bằng của 'Gio Teogonia.'
-──てやああぁぁっ！！=──Teyaaaahhhh!!
+──てやああぁぁっ！！=──Teyaahhhh!!
 みらくるまほりん、くるりんぱ～☆=Miracle Mahorin, Kururinpa~☆
 よ～し、川辺に集まってた魔物は\n一通り退治できたね～！=Được rồi!\nChúng ta đã xử lý được lũ quái vật tụ tập bên bờ sông!
 これで、みんなもひと安心やね。\n後はゆっくり、マカロンのお花を眺めながらピクニックでも……=Với thế này, mọi người có thể yên tâm rồi.\nGiờ thì, chúng ta có thể thư giãn ngắm hoa macaron trong khi picnic...
@@ -1568,7 +1568,7 @@ Teaser:
 
 その後、『キャッスル・オブ・パルフェ』の大浴場を訪れた二人。\n頭と体を洗い湯船へ向かうと、そこには先客がいた。=Sau đó, hai người đến phòng tắm lớn ở 'Lâu Đài Parfait.' \nKhi họ rửa đầu và cơ thể,\nhọ gặp một người đã ở đó rồi.
 ……あら？\nあなた方は……=...Ồ? \nNgươi là ai...?
-あ、先に入ってる人いたんだ～=À, có người ở đây rồi~
+あ、先に入ってる人いたんだ～=À, đã có người ở đây rồi~
 お邪魔しますえ。\nはじめましてやなぁ、うちら遠くから来てましてん……=Xin lỗi vì đã làm phiền. \nRất vui được gặp, chúng tôi đến từ xa xôi...
 ええ、はじめまして。\n遠くから……\nでは、あなた方も騎士のお仲間なのですね。=Vâng, rất vui được gặp. \nTừ xa xôi... \nVậy, các ngươi cũng là hiệp sĩ.
 そうだよ！\nねーねー、ハイターイ♪　私はカオリ、よろしくね～=Đúng rồi! \nNày, Haitai♪ Tớ là Kaori, rất vui được gặp~
@@ -1580,7 +1580,7 @@ Teaser:
 わぁっ、ほんとだ～！\nお風呂のお湯、とろとろであまあまさ～！=Ồ, đúng thật~! \nNước tắm mịn và ngọt quá!
 それじゃあ、お言葉に甘えさせてもらいます。\nおおきにな、お姉さん♪=Vậy, tớ sẽ lấy lời chị nói. \nCảm ơn, chị♪
 ねーねー……お姉さん……=Ne-ne... chị...
-うん？　お姉さん、どないしたん？=Hả? Chị, có chuyện gì vậy?
+うん？　お姉さん、どないしたん？=Hm? Chị, có chuyện gì vậy?
 い、いいえ、お気になさらず！\nそれよりも、いかがでしょうか\nキャッスル・オブ・パルフェの大浴場は？=Không, đừng lo về chuyện đó! \nQuan trọng hơn, phòng tắm lớn 'Lâu Đài Parfait' thế nào?
 イチゴジャムのシャンプーとかもあって、でーじ面白いよね～！\n髪を洗う時、自分がパンにでもなった気分だったさ～♪=Có cả dầu gội mứt dâu, thật là thú vị! \nKhi rửa tóc, tớ cảm thấy như mình đang biến thành một chiếc bánh mì~♪
 ふふっ、面白いたとえをするのですね。\nやはり異邦の方にとって、\nこの世界のお風呂は奇異に映るのでしょうか。=Hehe, chị nói những ẩn dụ thú vị thật. \nTớ đoán với người từ thế giới khác, \nphòng tắm này có vẻ lạ.
@@ -1608,14 +1608,14 @@ Teaser:
 お姫様に私の故郷の料理を食べてほしいと思って！\nチャンプルーっていう炒め料理さ～っ！=Tôi muốn công chúa thử món ăn đặc sản quê hương tôi! \nĐó là một món xào tên là champuru~!
 チャンプルー？\n聞いたこともない料理ですけど……=Champuru? \nTôi chưa từng nghe về món ăn đó...
 『ジオ・テオゴニア』以外の料理……どんな料理なんだろう？\n気になるかも……=Thức ăn từ bên ngoài 'Gio Teogonia'... \nTôi tò mò là món ăn gì nhỉ? Thật hấp dẫn...
-……ふ～ん……=…Hừm…
+……ふ～ん……=…Hm…
 ──カオリさん、でしたっけ。\nよければ料理してるとこ、見せてもらっていいですか。=──Là Kaori-san phải không? \nCó được để tôi xem cô nấu ăn không?
 もちろん、いいに決まってるさ～！\n気になるなら、作り方とかも教えてあげるよ～=Tất nhiên, được chứ~! \nNếu cô quan tâm, tôi có thể chỉ cho cô cách làm nữa~
 ちょっとヴルム？\nそんなこといきなり頼んでも、迷惑でしょっ。=Khoan đã, Wurm? \nĐột ngột hỏi chuyện như vậy, có phiền phức không?
 いやいや、これも勉強ですって。\n異世界の料理を見る機会なんてなかなかないし。\nメイドのお仕事にも役立つんじゃない？　姉さん。=Không, không, đây là cơ hội để học hỏi. \nHiếm khi được thấy thức ăn từ thế giới khác. \nCó thể hữu ích cho việc hầu gái, cô không nghĩ vậy sao? Chị.
 そうだよ～\n初めて立つキッチンだし、見ててくれたら私も安心さ～\nリンドも、興味あったら見てってね～=Đúng rồi~ Vì lần đầu tôi vào căn bếp này,\ntôi sẽ thấy thoải mái hơn nếu có cô xem~\nLind, cô cũng được mời tham gia nữa~
 た、確かにそうですね……\nわかりました、ぜひお手伝いさせてください！=Thật vậy, có lý... \nVậy, xin được giúp đỡ!
-……よーし、掃除サボる口実ゲット。=…Được rồi, cái cớ hoàn hảo để trốn dọn.
+……よーし、掃除サボる口実ゲット。=...Được rồi, cái cớ hoàn hảo để trốn dọn dẹp.
 一方、その頃。マホとライラエルは、\n大浴場にて歓談を続けていた。=Trong khi đó, Maho và Lyrael tiếp tục trò chuyện trong bồn tắm lớn.
 なぁ、ライラエルはん。\nうちな、『ジオ・テオゴニア』に来れて本当に幸せなんよ♪=Này, Lyrael. Tôi thực sự rất vui vì được đến 'Gio Teogonia.'
 だって、ここはうちの理想にとっても近い世界やもの。\n昔から夢見てた、おとぎ話みたいな景色で……=Bởi vì, thế giới này rất gần với lý tưởng của tôi. \nMột cảnh quan kỳ ảo mà tôi mơ ước từ thuở nhỏ...
@@ -1624,7 +1624,7 @@ Teaser:
 まあ……ありがとうございます。\nですがそう面と向かって好きと言われると……\n少し、照れてしまいますね。=Ồ... Cảm ơn. \nNhưng nói yêu tôi một cách cởi mở như vậy... Khiến tôi hơi ngại.
 ふふっ、堪忍なぁ♪\nせやけど、これがうちの正直な気持ちやさかい。=Hehe, xin lỗi nhé♪ \nNhưng đó chỉ là cảm xúc chân thành của tôi.
 『ジオ・テオゴニア』も、ライラエルはんも大好きや。\n……せやからこそ、うちらが何とかせなって思うんよ～=Tôi yêu cả 'Gio Teogonia' và Lyrael. \n...Chính vì vậy, tôi cảm thấy chúng ta cần làm gì đó~
-それは……現在この世界を荒らしている、魔物たちのことでしょうか。=Đó là về những con quái vật hiện đang phá phách trong thế giới này chứ?
+それは……現在この世界を荒らしている、魔物たちのことでしょうか。=Liệu có phải về đám quái vật hiện đang phá phách khắp thế giới này?
 そうや。\nうちの世界の魔物たちが、こっち来て暴れとる。\nこの平和な世界に、争いなんてちっとも似合わへんのに……=Đúng vậy. \nQuái vật từ thế giới của tôi đến đây và gây rối. \nXung đột không phù hợp với thế giới hòa bình này...
 せやからうちも、みんなのことを精いっぱい守りたい。\nつまり、うちとライラエルはんは、姫ってだけやなくて……\n同じ宝物を大切に思う、友達同士なんよ♪=Chính vì vậy, tôi muốn bảo vệ mọi người bằng khả năng tốt nhất. \nNghĩa là, Lyrael và tôi không chỉ là công chúa...\nChúng ta là những người bạn trân trọng kho báu chung♪
 ……なんと頼もしく、ありがたい言葉でしょう。\n感謝いたします、異邦の友人。=…Những lời đáng tin cậy và biết ơn. \nCảm ơn cô, bạn từ thế giới khác.
@@ -1632,7 +1632,7 @@ Teaser:
 だから、あなたの力を貸してください。\nわたしもきっと、あなたの力になりますから。=Vậy, xin hãy giúp tôi với sức mạnh của cô. \nTôi chắc chắn cũng có thể giúp được cô.
 せやな。お互い、助け合いながら頑張ろうなぁ。\n今後とも、よろしゅう頼んます、ライラエルはん……♪=Tuyệt đối. Hãy giúp đỡ nhau và cố gắng hết sức. \nTừ giờ trở đi, hãy cùng nhau làm việc, Lyrael…♪
 えぇ、こちらこそ。\nこうして同じ湯に浸かり、同じ思いを分かち合うことができて……\nとても幸せなひとときとなりました♪=Vâng, và tôi cũng vậy. \nBằng cách cùng tắm và chia sẻ cảm xúc...\nĐó là một khoảnh khắc rất hạnh phúc♪
-あー……そういえば、話は変わるけど一つええどすか？=À... Nói mới nhớ, tôi có thể hỏi cô một chuyện được không?
+あー……そういえば、話は変わるけど一つええどすか？=À... Nói mới nhớ, em có thể hỏi em một chuyện được không?
 ええ、もちろん。どうかしましたか？=Vâng, tất nhiên. Có chuyện gì sao?
 さっきからずぅーっとお湯に浸かってたからなぁ。\nもうそろそろ、のぼせてしまいそうやわぁ……=Tôi đã ngâm mình trong bồn tắm khá lâu rồi, cô biết đấy. \nTôi cảm thấy sắp chóng mặt rồi...
 ああっ……！？　すみません、わたし、長風呂だそうで……！\nずいぶんと付き合わせてしまいましたね……！=À...!? \nXin lỗi, tôi nổi tiếng là người tắm lâu...! \nTôi đã giữ cô lâu quá...!
@@ -1647,7 +1647,7 @@ Teaser:
 い、いえ……苦いのはある程度、平気なのですが……！\nけほっ、けほっ……=Không, vị đắng không phải vấn đề...!\n*ho khan ho khan*...
 なら、うちも……\nうん。やっぱりおいしいなぁ、カオリはんの料理は♪\n野菜のコクの中に、ほんのり体が熱くなるような味も……=Được, để tôi thử một miếng... Ừ. Như dự đoán, món ăn của Kaori ngon quá♪ \nNó có vị ấm áp giữa độ sâu của các loại rau...
 あ、分かった？　実は、ちょっぴり隠し味もいれたさ～！\n故郷のピリ辛調味料、食欲が出るよ～♪=À, cậu có để ý sao? Thực ra, tớ đã thêm một chút nguyên liệu bí mật nho nhỏ~ \nGia vị cay từ quê hương tớ, nó sẽ kích thích vị giác của cậu~♪
-その料理、私もいただきます！\n……んんっ、少し苦いですけど……=Tớ cũng xin một chút! ...Ừm, hơi đắng một chút, nhưng...
+その料理、私もいただきます！\n……んんっ、少し苦いですけど……=Em cũng ăn một chút! ...Ừm, hơi đắng, nhưng...
 ピリ辛ってかんじですね。\nこっちでは、あんまり味わえない刺激かもです。=Nó có một vị cay nhẹ đặc trưng.\nMột hương vị độc đáo không thường thấy ở đây.
 ……こ、これほどまでに辛い料理だというのに……\nマホ姫も、ヴルムたちも平然と……？=...Nghĩ lại đây là một món ăn cay đến thế... \nMaho và Wurm lại ăn một cách bình thản...?
 あれっ！？　もしかしてねーねー、辛いのダメな人？\nごめんね、作り直してくるさ～！=Ô!? Có phải Ne-ne khó ăn đồ cay không? \nXin lỗi nha, để tớ làm lại cho cậu~!
@@ -1659,12 +1659,12 @@ Teaser:
 
 
 
-魔改造！　魔物対策講習会=Hội Thảo Phòng Chống Quái Vật Kỳ Diệu!
+魔改造！　魔物対策講習会=Hóa Ma Thuật! Hội Thảo Giải Quyết Quái Vật
 ある日、ジオ・テオゴニアでの\n魔物退治を終えた【フォレスティエ】の３人は、\nポポじいさんのもとを訪れていた。=Một ngày nọ, sau khi hoàn thành nhiệm vụ tiêu diệt quái vật ở Gio Teogonia,\nba thành viên của 【Forestier】 đã đến thăm Ông Popo.
 依頼されていた魔物退治、無事に終わりました。\n魔物避けの仕掛けも置いておいたので、\nしばらくは安全なはずです……♪=Nhiệm vụ tiêu diệt quái vật đã hoàn thành tốt đẹp.\nTớ cũng đã bẫy các con đường để xua quái vật đi, nên có lẽ sẽ an toàn một thời gian...♪
 いや～、助かった！\nこれでメカの開発に専念できるようになったわい！\n感謝感謝じゃの！　うむ、礼は何が良いかのう？=Phew, cậu đã cứu ta! Giờ ta có thể tập trung phát triển mecha của mình!\nCảm ơn nhiều! Vậy, cậu muốn phần thưởng gì?
 そっちの緑の子は弓使いのようじゃの。\nならば報酬は新型超弩級弩弓か、弦を超強く引けるパワーアームか……\nそうじゃ！　いっそのこと目ン玉を超スコープに──！=Đứa nhỏ xanh kia có vẻ là một tên cung thủ.\nLàm phần thưởng, sao không một chiếc cung siêu mật mã mới hoặc một cánh tay máy có thể kéo dây cung siêu mạnh... À đúng rồi! Hay là biến mắt cậu thành kính hiển vi siêu cấp──!
-ふひゃぁ！？　ななな、なんで私に近寄ってくるんです！？=Ái chà!? T-t-t-tại sao cậu lại tiến về phía tôi!?
+ふひゃぁ！？　ななな、なんで私に近寄ってくるんです！？=Á á á!? S-s-sao cậu lại tiến về phía tôi!?
 あらあら～。とっても強そうだけど、アオイちゃんは改造できませんよ。\nでも……一つお願いを聞いてもらえませんか？=Thôi nào~. Mặc dù trông rất mạnh, nhưng Aoi-chan không thể được cải tạo đâu.\nTuy nhiên... cậu có thể cho tôi một yêu cầu được không?
 数日前……=Vài ngày trước...
 ミサト先生～！　こっちの魔物は全部片づけたよーっ！\nアオイちゃんも一緒なのだ～！=Cô Mitsato~! Chúng em đã xử lý hết quái vật ở đây rồi!\nAoi-chan cũng giúp đỡ nữa~!
@@ -1676,7 +1676,7 @@ Teaser:
 みんな魔物さんが怖いのね。\nエルフの森の子どもたちにしてるみたいに、\n上手に逃げる方法を教えてあげられたら……=Mọi người đều sợ quái vật. Nếu chúng ta có thể dạy họ cách trốn tránh khéo léo như chúng ta dạy trẻ con trong Rừng Elf...
 そっか！　魔物から身を守る方法を教わる、講習会だね☆\n前にアオイちゃんがやったキャンプ講習と同じだよね。\nこっちの世界でもできそうかも！=Tớ hiểu rồi! Đó là một buổi hội thảo để học cách tự bảo vệ khỏi quái vật☆\nGiống như buổi hội thảo cắm trại Aoi-chan đã làm trước đây. Có lẽ chúng ta cũng có thể làm ở thế giới này!
 ミサト先生ナイスアイデア♪　早速準備しようよ！\nみんなのお昼寝タイムのために、れっつごー☆=Ý tưởng hay đấy, cô Mitsato♪ Chúng ta bắt đầu chuẩn bị đi!\nVì giấc ngủ trưa của mọi người, đi thôi~☆
-ってことでライラエルさんに相談して、\n街のみんなのためにイベントを開くことになったんだー=Vì vậy, chúng tôi đã tham khảo ý kiến của Lyrael-san và quyết định tổ chức một sự kiện cho người dân trong thị trấn.
+ってことでライラエルさんに相談して、\n街のみんなのためにイベントを開くことになったんだー=Vậy là, chúng tôi đã tham khảo ý kiến Lyrael-san và quyết định tổ chức một sự kiện cho người dân trong thị trấn.
 魔物さんから身を守れるよう、いろいろな方法を教えてあげたいんです。\nそうすれば、不安も和らぐと思いますから。=Tớ muốn dạy họ nhiều cách khác nhau để tự vệ khỏi quái vật.\nĐiều đó sẽ làm giảm lo lắng của họ.
 なるほど、うまいことを考えるのう。\nそこでワシの発明品の出番というわけじゃな！\nよし、一肌脱いでやるぞ！=Tớ hiểu, cậu đã suy nghĩ kỹ rồi.\nĐến lúc trưng bày phát minh của tớ rồi!\nĐược rồi, tớ sẽ giúp một tay!
 ありがとうございます、ポポおじいさん。\nポポおじいさんには、魔物さん役のお人形を作──=Cảm ơn ông, Popo.\nTớ muốn ông Popo làm một con rối để đóng vai quái vật──
@@ -1693,7 +1693,7 @@ Teaser:
 とはいえ一体どうしたものでしょう……\nポポおじいさんが魔物を完成させるまでは\n準備といってもできることは限られてるし。ね、マイフレンドくん。=Nhưng chúng ta nên làm gì...\nCho đến khi ông Popo hoàn thành con quái vật, các lựa chọn chuẩn bị của chúng ta bị hạn chế.\nNày, My Friend-kun.
 マイフレンドくんを魔物に見立てて、みんなに危険を知らせる\n練習でもするとか……ちゃんと台詞を考えておかないと\n頭がフットーしていざって時に声が出ないと困りますよね……=Có lẽ luyện tập báo động cho mọi người về nguy hiểm bằng cách giả vờ My Friend-kun là một con quái vật...\nTớ cần phải nghĩ kỹ lời thoại, nếu không lúc đó đầu tớ có thể trống rỗng và không nói được gì...
 ほう？　なんじゃその小型ロボは。オマエが作ったのかの？\nなんと素晴らしい造形美じゃ。素朴な素材にこだわりのディテール！\n而してあふれ出すオーラ！　作り手の熱意が伝わってくるようじゃ！=Hả?\nCái robot nhỏ đó là gì vậy? Cậu làm à?\nThật là một ý tưởng thiết kế tuyệt vời! Sự tận tâm vào chi tiết từ một vật liệu đơn giản!\nVà khí chất phát ra! Nhiệt huyết của người sáng tạo được truyền tải!
-どれ、もっとよく見せておくれ。=Để tớ xem gần hơn một chút.
+どれ、もっとよく見せておくれ。=Để tôi xem kỹ hơn một chút.
 ちょっと待ったの松太郎！！　じゃなくてちょっと待ってください！\nいきなりなんなんですっ！？　唐突な至近距離と友達の誘拐の\nダブルパンチはさすがに酷ですったら！=Khoan đã nào, Pine Tree Boy!!\nHay là nói đúng hơn, khoan đã!\nCậu đang làm gì vậy!? Khoảng cách gần bất ngờ và cú đấm kép bắt cóc bạn tôi là quá sức chịu đựng rồi!
 おお、すまんの、驚かせたか。\nその人形が気になってしまってのう。\nこれはオマエの友達なんじゃな？=Ồ, xin lỗi, tớ có làm cậu ngạc nhiên không?\nTớ tò mò về con rối đó.\nNó là bạn của cậu à?
 えっと、そうですけど……\n何がそんなに気になったんですか？=Ưm, vâng, nhưng...\nĐiều gì khiến nó thú vị với cậu vậy?
@@ -1708,13 +1708,13 @@ Teaser:
 
 耳を澄ましてみるんじゃ。聞こえるじゃろう、そいつの声が。\nもっと強力に、強靭に、強大になりたいと……\nパゥワァーが欲しい！　と！=Hãy lắng nghe kỹ. Bạn có nghe thấy không? Tiếng nói của nó.\nMuốn trở nên mạnh mẽ hơn,\nbền bỉ hơn, vĩ đại hơn... Nó muốn sức mạnh!
 
-ぱ、パゥァ……？=S-Sức mạnh...?
+ぱ、パゥァ……？=S-sức mạnh...?
 
 声が小さいぞいっ！\nさあもっと大きい声で！　パゥワァー！！！=Giọng bạn quá nhỏ!\nNói to lên! SỨC MẠNH!!!
 
 っ……パゥワァー！！！=S... SỨC MẠNH!!!
 
-そうじゃ、もう一回！！=Đúng vậy, lại lần nữa!!
+そうじゃ、もう一回！！=Đúng vậy, lần nữa!!
 
 パゥワァー！！！\n……こ、これがマイフレンドくんの望み……=SỨC MẠNH!!!...\nĐ-Đây là điều Bạn-Năm-Kun muốn...
 
@@ -1742,13 +1742,13 @@ Teaser:
 
 まっ、魔物です、魔物ですよ……っ！\nみなさん、目を合わせないように逃げてくださーいっ！=C-Có quái vật, có quái vật...! \nMọi người, hãy chắc chắn không chạm mắt với nó và chạy đi!
 
-ポポおじいさん、お願いしますっ！=Ông Nội Popo, làm ơn!
+ポポおじいさん、お願いしますっ！=Ông Popo, làm ơn!
 
 うむ、ようやっとお披露目じゃな。\n待ちくたびれたわい。=Được rồi, cuối cùng cũng đến lúc trình diễn. \nTôi đã chờ lâu rồi.
 
 見るがいい、ワシの発明で生まれ変わった雄姿を！\n名付けて──=Hãy chiêm ngưỡng bóng dáng huy hoàng tái sinh được tạo nên từ phát minh của tôi! \nTên của nó là──
 
-超絶究極破壊兵器、ギガンティックウルトラスーパーアルティメット\nデストロイヤーくんマークファイナル・最終決戦仕様じゃ！=Vũ Khí Phá Hủy Tối Thượng Siêu Cấp, Gigantic Ultra Super Ultimate Destroyer-kun Mark Final - Phiên Bản Trận Chiến Cuối Cùng!
+超絶究極破壊兵器、ギガンティックウルトラスーパーアルティメット\nデストロイヤーくんマークファイナル・最終決戦仕様じゃ！=Vũ khí Hủy diệt Tối thượng Siêu cấp, Kẻ Hủy diệt Khổng lồ Cực quang Siêu cấp Tối thượng-kun - Phiên bản Trận chiến Cuối cùng!
 
 うええええぇぇぇぇぇぇっ！？\nマイフレンドくーーーーん！？=Uwaaaahhhhhh!! \nBạn-Năm-Kun!!!
 
@@ -1756,7 +1756,7 @@ Teaser:
 
 あらあらあら～……\nずいぶん大きな魔物さん人形ね～=Ôi trời ôi... \nCon búp bê quái vật khá lớn, nhỉ~
 
-ポポおじいさん、ほんとにすごいのを作ってくれたのだ！=Ông Nội Popo thật sự đã làm ra thứ tuyệt vời!
+ポポおじいさん、ほんとにすごいのを作ってくれたのだ！=Ông Popo thật sự đã làm ra thứ tuyệt vời!
 
 あ、あああ……これは……\nこれが……パゥワァ……？　マイフレンドくんの、夢……？=Ahh... Đây là... \nđây có phải là sức mạnh...? \nGiấc mơ của Bạn-Năm-Kun...?
 
@@ -1776,7 +1776,7 @@ Teaser:
 
 一体に決まっとろうが。\nこんな渾身の傑作、そうそう簡単に作れるわけがなかろう！=Tất nhiên, chỉ một. \nBạn nghĩ tôi có thể dễ dàng sản xuất thêm một kiệt tác như thế này sao!?
 
-ってことは、これは本物の魔物……ってことー！？=Vậy thì đây là quái vật thật...!?
+ってことは、これは本物の魔物……ってことー！？=Điều đó có nghĩa đây là một con quái vật thật...!?
 
 うわあああ！　こっちにも魔物が来た！！=Aaaaaa! \nQuái vật cũng đang đến đây!!
 えっ？　これも人形じゃないの？=Hả? \nĐây cũng không phải búp bê sao?
@@ -1793,7 +1793,7 @@ Teaser:
 
 ガガガガガッ！！！=Gagagagaga!!!
 
-わあ……魔物、消し飛んじゃった……=Ồ... con quái vừa bị thổi bay đi...
+わあ……魔物、消し飛んじゃった……=Ồ... con quái vật vừa bị thổi bay...
 
 あわ、あわわわわ……\nこれが……パゥワァー……=À, àaaaa... \nĐây là... Sức mạnh...
 
@@ -1819,14 +1819,14 @@ Teaser:
 
 立派にパイロットを務めてくれたんじゃ。\n存分にねぎらってやってくれ。=Nó đã làm rất tốt vai trò phi công. \nKhen nó thoải mái đi.
 
-おかえりマイフレンドくうぅぅぅぅん！！！=Chào mừng trở về, Bạn-kun quý quý quý quý ơiiii!!!
+おかえりマイフレンドくうぅぅぅぅん！！！=Chào mừng trở về, Bạn tớ ơiiiiii!!!
 
 えーっと……これにて一件落着、だねっ！=À, thì... \nVà thế là mọi chuyện đã được giải quyết, phải không!
 
 ふむ……じゃがやはり、いざというときは\n脱出したコアだけで戦うのがロマンというものじゃのう。\nよぉーし今度こそマイフレンドくんを改造して機関砲と自爆装置を……=Hừm... Nhưng đúng như dự đoán, trong khoảnh khắc nguy hiểm,\nchỉ có phần lõi thoát được chiến đấu thì lãng mạn hơn.\nGiờ hãy biến đổi Bạn-kun với một khẩu súng máy và cơ chế tự hủy...
 
 
-裏世界に幻の楽譜を求めて=Tìm kiếm Bản Nhạc Ảo Ảnh trong Địa Ngục
+裏世界に幻の楽譜を求めて=Tìm Kiếm Bản Nhạc Ảo Ảnh trong Địa Ngục
 ──グランドリームパーク。\nかつて『ジオ・テオゴニア』の遊園地として人気を博したその地に、\nカーバンクルの少女の悲鳴が響いていた。=Công viên Mơ Vàng. \nTiếng hét của cô gái Carbuncle vang vọng trong công viên giải trí Gio Teogonia từng đông người.
 
 ぴいいいぃっ！！？\nどうしてこんなことに～っ！！？=Piiiiiii?! \nSao lại thế này?!
@@ -1878,7 +1878,7 @@ Teaser:
 
 ちょっとした……ですか？\nうーんうーん……あっそうですっ♪\nならばわたし自身でいかがでしょうかっ！　なんなりと調理を！=Một chút...? Hừm... \nỒ, đúng rồi♪ \nVậy sao em không tự nấu nó?! Bất cứ thứ gì!
 
-なんでそんな強火のファンみたいなプレゼントばっかりなんですかっ！？=Sao tất cả những món quà này đều như người hâm mộ của một ngọn lửa mạnh mẽ?!
+なんでそんな強火のファンみたいなプレゼントばっかりなんですかっ！？=Tại sao tất cả những món quà này đều như người hâm mộ của một ngọn lửa mạnh mẽ?!
 
 ……では、こういうのはどうでしょう、クルルさん。\nもしなにか、『特別な楽譜』について心当たりがあれば、\n私に教えてもらえませんか？=...Vậy thì, thế này được không, Kururu? \nNếu cậu có ý tưởng gì về 'bản nhạc đặc biệt', cậu có thể cho tôi biết không?
 
@@ -1890,7 +1890,7 @@ Teaser:
 
 ですけど、チカさんがあれだけ探し回っているのに、\nなかなか見つからないんですよ？\nさすがに、こっちの世界で都合良く見つかったりは──=Nhưng sau tất cả những tìm kiếm Chika đã làm,\nthật khó để tìm thấy cô ấy, cậu biết đấy? \nTất nhiên, chúng ta không thể tìm thấy cô ấy một cách thuận tiện trong thế giới này~
 
-ありますですっ！=Vâng, em có!
+ありますですっ！=Vâng, tôi có!
 
 えっ！\n本当ですか、クルルさんっ……！？=Hả?! \nThật sao, Kururu...?!
 
@@ -1906,11 +1906,11 @@ Teaser:
 
 ええっ！？　どうしてそんなものまで……！？=Gì cơ?! \nSao cô lại làm chuyện như thế?!
 
-だってだって、みなさんのせっかくのキレイなお洋服、\n魔物退治のせいで汚れちゃってますですしっ！=Rốt cuộc thì quần áo đẹp của mọi người đều bị bẩn vì phải tiêu diệt quái vật!
+だってだって、みなさんのせっかくのキレイなお洋服、\n魔物退治のせいで汚れちゃってますですしっ！=Rốt cuộc, quần áo đẹp của mọi người đều bị bẩn vì việc tiêu diệt quái vật!
 
 ですので、スタッフさん用の正装を持ってきましたっ！\nささっ、遠慮せずにお着替えなさってくださいませませっ！=Vì vậy, em mang đến cho mọi người một bộ trang phục chính thức cho nhân viên! \nGiờ thì, đừng ngại ngùng mà thay đồ nhé!
 
-気持ちはうれしいのですが、\nさすがにこれは……=Em rất cảm ơn lời mời, nhưng đây là...
+気持ちはうれしいのですが、\nさすがにこれは……=Tôi cảm ơn lời đề nghị, nhưng đây là...
 
 ありがとう、クルルちゃんっ♪\n早速、着替えさせてもらうね！=Cảm ơn, Kururu! ♪ \nEm sẽ thay đồ ngay!
 
@@ -1920,8 +1920,8 @@ Teaser:
 
 うん、だってカワイイし♪\nそれに……=Ừ, vì cô ấy dễ thương♪ \nVà...
 
-チカさんの、大胆でカワイイバニー姿……！=Chika-san trong bộ đồ buny dễ thương, táo bạo...!
-そんなの見られるチャンス、めったにないもんねっ。=Không phải lúc nào cũng có cơ hội thấy được thứ như thế đâu.
+チカさんの、大胆でカワイイバニー姿……！=Chika-san trong bộ đồ thỏ ngọt ngào, táo bạo...!
+そんなの見られるチャンス、めったにないもんねっ。=Không phải lúc nào cũng có cơ hội thấy được thứ như vậy đâu.
 
 な、なんだかプレッシャーが……\n……分かりました。私も着替えさせてもらいます……=E-Em cảm thấy hơi áp lực... \nĐược rồi. Em cũng sẽ thay đồ...
 
@@ -1936,7 +1936,7 @@ Teaser:
 どうしてこんなことに……\n水着よりも恥ずかしいかもしれません……=Sao lại thành ra thế này...? \nCó lẽ còn khó xử hơn cả đồ bơi nữa...
 その恥じらい……それもまた、\nチカさんと衣装の魅力を引き立てていて、最高ですっ！=Sự khó xử đó... \nCũng toát lên vẻ quyến rũ của Chika-san và bộ trang phục. \nTuyệt vời nhất!
 気に入ってもらえたみたいでよかったですですっ♪\nあとあと、ヒーローさんの分もありますので！\nあとでちゃんと、届けに行きますですっ！=May quá cô thích♪ \nNgoài ra, còn đủ cho anh hùng nữa! \nEm sẽ chắc chắn gửi sau!
-彼の分のバニースーツを、ですか！？=Đồ buny cho anh ta?!
+彼の分のバニースーツを、ですか！？=Bộ đồ thỏ cho cả anh hùng ư?!
 なるほど……アリですね！=Ra vậy... Ý tưởng hay đấy!
 うん。そうだね。案外、着こなしてくれそうだし！=Ừ, đúng vậy. Trông như anh ta sẽ mặc vừa và đẹp một cách bất ngờ!
 え、ええと……それより。クルルさん、\n持ってきていただいた楽譜、拝見しますね……=Ơ-Ơ... Dù sao thì, Kururu, \nhãy xem bản nhạc cô mang đến...
@@ -1944,12 +1944,12 @@ Teaser:
 ……なるほど。これは……=...Ra vậy. Đây là...
 わあ～、これが楽譜なんだ？\nクッキーの上に、チョコで音符とかが書かれてるんだね。\nふふっ、おいしそう♪=Ồ, vậy đây là bản nhạc? \nCó vần điệu và thứ gì đó được viết lên trên các chiếc bánh quy. \nHehe, trông ngon lành quá♪
 食べちゃダメですよ？　倫理的にも、体重管理的にもっ！\n……で、どうでしたチカさん。探してたものでしたか？=Đừng ăn nó nhé? Vừa là đạo đức vừa là kiểm soát cân nặng! \n...Vậy, thế nào, Chika? Đó có phải thứ cô tìm kiếm không?
-……結論から言えば、\nこの譜面は唱喚士として求めていたものではありませんね。=...Tóm lại, bản nhạc này không phải thứ em tìm kiếm với tư cách là một Ca sĩ.
+……結論から言えば、\nこの譜面は唱喚士として求めていたものではありませんね。=...Tóm lại, bản nhạc này không phải thứ em tìm kiếm với tư cách là Ca sĩ.
 これらはパークのテーマ曲やパレード曲の楽譜……\n唱喚士とは関係のないものです。=Đây là các bài hát chủ đề từ công viên và bản nhạc từ cuộc diễu hành... \nNó không liên quan đến ca sĩ.
 えええっ！？　そうなんですかっ！？\nパークの曲を聞くと、みんな笑顔になってくれるんですっ！\nだから、てっきりそれが『特別な楽譜』だとばかり……=Gì chứ?! Thật sao?! \nMọi người đều cười khi nghe bài hát trong công viên! \nChính vì vậy em nghĩ đó là một bản nhạc đặc biệt...
 わぁぁあああんっ！\nすみません申し訳ありませんごめんなさいですます～！！\nクルル、またもやなんのお役にも立てませんでした～っ！=Uiii! \nXin lỗi, em xin lỗi nhiều lắm!! \nKururu, em lại không giúp được gì!
 いいえ、クルルさん。そんなことはありません。\nサイダーのように刺激的な曲もあれば、\nキャンディのように甘く優しい味わいの曲もあって……=Không, Kururu. Điều đó không đúng. \nMột số bài hát sảng khoái như cô ca, trong khi những bài khác có hương vị ngọt ngào, dịu dàng như kẹo...
-どの曲も全て、グランドリームパークを訪れたお客さんを\n幸せにしたいという想いにあふれていますね。=Mỗi bài hát đều chứa đựng khao khát làm cho khách mời hạnh phúc khi họ đến Công viên Giấc mơ Lớn.
+どの曲も全て、グランドリームパークを訪れたお客さんを\n幸せにしたいという想いにあふれていますね。=Mỗi bài hát đều chứa đựng khao khát làm khách hàng vui vẻ khi họ đến Công viên Giấc mơ Lớn.
 はっ、はいですっ！\nわたし、お客さんみんなに喜んでほしくて！\nお客さんが笑顔だと、わたしも幸せなのでっ！=P-Phải! \nEm muốn tất cả khách hàng đều hạnh phúc! \nEm hạnh phúc khi khách hàng đang cười!
 この楽譜たちを眺めているだけで、心がポカポカしてきます。\nふふっ。素晴らしいものを見せてくれて、ありがとうございます。=Chỉ nhìn vào những bản nhạc này thôi cũng đủ làm ấm lòng. \nHehe. Cảm ơn vì đã cho em xem những thứ tuyệt vời như vậy.
 ええと、探してたものじゃないみたいですけど……\nでもでも、チカさんを笑顔にできて、\nわたしもすっごくうれしいですっ♪=Ơ, có vẻ như không phải thứ cô tìm kiếm... \nNhưng, nhưng, em thực sự rất vui vì có thể làm Chika cười♪
@@ -1968,9 +1968,9 @@ Teaser:
 はいですっ！　きっとお客さんたちみんな、\n笑顔になってくれるはずなのでっ♪=Vâng! \nTớ chắc chắn mọi khách hàng sẽ cười!♪
 あの……パレードに参加することは、\nもちろん私も賛成なのですが……\nいつものステージ衣装ではいけませんか……？=Ưm... \nTất nhiên tớ đồng ý tham gia diễu hành, nhưng... \nChẳng lẽ tớ không nên mặc trang phục sân khấu thông thường...?
 なにを言ってるんですか、チカさん！\n郷に入っては郷に従え、ですよ！=Chika đang nói cái gì vậy?! \nKhi vào làng, phải tuân theo làng!
-ツムギは私たちのバニー姿が見たいだけじゃ……？=Tsumugi chỉ đơn giản muốn thấy chúng ta dạng thỏ thôi...?
+ツムギは私たちのバニー姿が見たいだけじゃ……？=Có phải Tsumugi chỉ muốn thấy chúng ta trong hình dạng thỏ không...?
 ええ、そうですけど？\n自分の欲望に素直になってなにが悪いんです！=Đúng vậy. \nViệc trung thực với ham muốn của bản thân có gì sai chứ?!
-そういうわけなので、\nパレード用のバニースーツを作るのは私に任せてくださいっ！=Vậy nên, cứ để tớ may bộ đồ thỏ cho buổi diễu hành!
+そういうわけなので、\nパレード用のバニースーツを作るのは私に任せてくださいっ！=Vậy là thế, cứ để em làm bộ đồ thỏ cho cuộc diễu hành!
 えへへっ、ツムギの衣装楽しみだな♪\n……あ、いいこと思いついたかも？=Hehe, tớ háo hức xem trang phục của Tsumugi♪ \n...Ồ, tớ nghĩ ra ý hay rồi
 どうせならパレードにMCを取り入れるのはどうかな？\nそして語尾にはぴょんをつけるの♪　せっかくのバニー衣装なんだし！=Sao chúng ta không mời một MC cho buổi diễu hành? \nVà chúng ta sẽ thêm 'pyon' vào cuối câu♪ \nVì chúng ta đang mặc đồ thỏ mà!
 確かにインパクトはばっちりですね。\n『ジオ・テオゴニア』のみんなもきっと喜ぶぴょん！=Nó chắc chắn có tác động. \nTớ chắc chắn mọi người ở Gio Teogonia sẽ vui khi nghe điều đó!
@@ -1981,119 +1981,119 @@ Teaser:
 その後……カルミナ一同とクルルは語尾にぴょんをつけながら、\nどんなパレードにしようかと話しあい、盛り上がるのだった。=Sau đó... \nCarmina và Kururu nhảy (pyon) ở cuối câu, thảo luận về loại diễu hành nào, và trở nên hào hứng.
 ダメですっ！　ダメったらダメですーーー！！！=Không! \nTuyệt đối không!!!
 あらあら。落ち着いて、アオイちゃん。=Ôi trời. \nBình tĩnh lại, Aoi-chan.
-無事に安全講習を終えたジオ・テオゴニアの広場に、\nアオイの叫びが響き渡るのだった。=Và thế là, tiếng hét của Aoi vang vọng khắp quảng trường Gio Teogonia vào ngày hoàn thành buổi hội thảo an toàn.
+無事に安全講習を終えたジオ・テオゴニアの広場に、\nアオイの叫びが響き渡るのだった。=Và thế là, tiếng hét của Aoi vang vọng khắp quảng trường Gio Teogonia vào ngày hội thảo an toàn hoàn thành.
 デストロイヤーくん=Destroyer-kun
 
 
 双子ドラゴンご奉仕デート=Twin Dragon Service Date
 晴れわたる『ジオ・テオゴニア』の青い空。\nその空の下でリンドとヴルムは\nポポじいさんからある依頼を受けていた。=Bầu trời xanh của 'Gio Teogonia' trong xanh.\nDưới bầu trời đó, Lind và Wurm đã nhận một yêu cầu nào đó từ Ông Popo.
-──この通りじゃっ、頼むっ！！\n新型マシーンの実験に付き合ってはくれんか！=──Tôi xin cậu!!\nCậu sẽ giúp tôi với thí nghiệm trên cỗ máy mới chứ!
+──この通りじゃっ、頼むっ！！\n新型マシーンの実験に付き合ってはくれんか！=──Tôi xin cậu!!\nCậu sẽ giúp tôi với một thí nghiệm trên cỗ máy mới chứ!
 あたしら、腕を取ったり付けたりできないんで。\nドリルとかロケットパンチとかの実験なら、他をあたってもらえません？=Chúng tôi không thể cứ tháo và lắp tay được.\nNếu là thí nghiệm với khoan hay nắm đấm tên lửa,\nthử người khác không hơn sao?
-いやいやいや、今日は違うんじゃっ！\n今回ワシが作ったのはマリンスポーツ用のマシーン！=Không, không, không, hôm nay khác!\nLần này, thứ tôi làm là máy cho thể thao dưới nước!
+いやいやいや、今日は違うんじゃっ！\n今回ワシが作ったのはマリンスポーツ用のマシーン！=Không, không, không, hôm nay thì khác!\nLần này, thứ tôi làm là một cỗ máy cho thể thao dưới nước!
 その乗り心地についてのレビューが欲しくてのぉ。\n若いオマエたちの正直な感想を聞いてみたいんじゃっ！=Tôi muốn nhận đánh giá về cảm giác khi lái nó.\nTôi muốn nghe cảm nhận chân thật của các bạn trẻ!
-なるほど、そういうことでしたか。\nそれなら私たちでも役に立てるかも……？=Ra vậy, là vậy sao.\nNếu vậy, có lẽ chúng tôi có thể giúp được...?
-……ま。ポポじいには\n恩を売っておいていいかなって思いますし。\n付き合いますよ。面倒くさくないことなら。=...Hừm. Tôi nghĩ làm ơn cho Ông Popo không phải ý tệ.\nChúng tôi sẽ giúp. Miễn là không quá phiền phức.
-おおっ、引き受けてくれるかっ！　感謝するぞい！\nワシは湖で準備しとるから、あと一人を見つけて連れてきてくれ！=Ồ, cậu nhận rồi! Tôi biết ơn!\nTôi sẽ chuẩn bị ở hồ, nên tìm thêm một người nữa và đưa họ theo!
-えっ？\nあと一人って？=Hả? \nThêm một người nữa?
-ああ、今回のマシンは３人乗りなんじゃ！\n人選はオマエたちに任せるからな、頼んだぞっ！！=À, cỗ máy này cho ba người!\nTôi để cậu chọn, nên tôi trông cậy vào cậu!
+なるほど、そういうことでしたか。\nそれなら私たちでも役に立てるかも……？=Ra vậy, đúng thế.\nNếu vậy, có lẽ chúng tôi có thể giúp được...?
+……ま。ポポじいには\n恩を売っておいていいかなって思いますし。\n付き合いますよ。面倒くさくないことなら。=…Hừm. Tôi nghĩ không phải ý tưởng tồi để làm ơn cho Ông Popo.\nChúng tôi sẽ giúp. Miễn là không quá phiền phức.
+おおっ、引き受けてくれるかっ！　感謝するぞい！\nワシは湖で準備しとるから、あと一人を見つけて連れてきてくれ！=Ồ, các cậu sẽ nhận! Tôi biết ơn!\nTôi sẽ chuẩn bị ở hồ, nên tìm thêm một người nữa và mang theo!
+えっ？\nあと一人って？=Hả?\nThêm một người nữa?
+ああ、今回のマシンは３人乗りなんじゃ！\n人選はオマエたちに任せるからな、頼んだぞっ！！=À, cỗ máy này dành cho ba người!\nTôi sẽ giao quyết định cho các cậu, nên tôi tin tưởng các cậu!
 こっちで人を集めろって……\n急に面倒になってきたなぁ……\n帰っていい？　姉さん。=Tự mình đi tập hợp người...\nĐiều này đột ngột trở nên phiền phức...\nTôi có thể về nhà không? Chị.
-ダメに決まってるでしょっ。\n一回引き受けたんだから、ちゃんとやり遂げないとっ！=Tất nhiên là không.\nVì chúng ta đã nhận, phải hoàn thành cho thật đàng hoàng!
-はいはい……\nけど、こんなことに付き合ってくれる物好きな人、いるかな。\n……ん？　あの人は……=Ừ, ừ...\nNhưng tôi tự hỏi có ai điên đến mức đi theo cái này không...\n...Hả? Người đó là...
+ダメに決まってるでしょっ。\n一回引き受けたんだから、ちゃんとやり遂げないとっ！=Tất nhiên là không.\nVì đã nhận, chúng ta phải hoàn thành cho thật đàng hoàng!
+はいはい……\nけど、こんなことに付き合ってくれる物好きな人、いるかな。\n……ん？　あの人は……=Ừ, ừ...\nNhưng tôi tự hỏi liệu có ai điên đến mức đi theo cái này không...\n...Hả? Người đó là...
 報告に来てくれたんですね、いつもお疲れさまです。\nどうかゆっくり、城でお休みに……=Cậu đến báo cáo rồi, phải không?\nCảm ơn vì đã làm việc vất vả.\nXin hãy nghỉ ngơi ở lâu đài...
-いや。ちょうどよかったです。\nこの後ヒマなら、ちょっと付き合ってもらえません？=Không. Vừa đúng lúc.\nNếu cậu rảnh sau này, cậu có thể đi theo một chút không?
+いや。ちょうどよかったです。\nこの後ヒマなら、ちょっと付き合ってもらえません？=Không. Vừa đúng.\nNếu cậu rảnh sau này, cậu có thể đi theo một chút được không?
 ちょ、ちょっとヴルムっ！？\n一仕事してくれたばかりのひとに頼み事なんて、迷惑でしょっ！=Khoan đã, Wurm!?\nCậu không thể nhờ ơn từ người vừa mới xong nhiệm vụ!
-えっ……いいんですか？\nその……あ、ありがとうございます。騎士さん……=Hả... Được chứ?\nThôi... À, cảm ơn. Kishi-san...
+えっ……いいんですか？\nその……あ、ありがとうございます。騎士さん……=Hả... Được chứ?\nThôi... À, cảm ơn. Chị Kishi...
 優しいっていうか、チョロいっていうか。\nなんか姉貴みたい。=Dù là lòng tốt của cậu, hay việc cậu dễ điều khiển. \nCậu giống chị tôi quá.
 ヴールームー！！=Wyyyrm!!
 わかったわかった、チョロくないチョロくない。\n……んじゃ、行きましょうか騎士のひと。=Được rồi, được rồi, cậu không dễ, cậu không dễ.\n...Thôi, chúng ta đi thôi, Kishi-Person?
-そして一同は\nポポじいさんの待つ湖へと向かい──=Và thế là mọi người hướng đến hồ nơi Ông Popo đang chờ──
-わぁっ……♪=Wow...♪
+そして一同は\nポポじいさんの待つ湖へと向かい──=Và thế là mọi người hướng về hồ nơi Ông Popo đang chờ──
+わぁっ……♪=Ồ...♪
 へぇ……これはなかなか。=Heh... Cái này khá đấy.
 がははっ！\nどうじゃ、このスピード感！　解放感！　爽快感っ！\n新感覚じゃろうっ！=Gahaha!\nTốc độ này sao! Cảm giác tự do!\nSự sảng khoái! Đây là cảm giác mới, phải không!
-はいっ♪　こんな楽しい乗り物、初めてですっ！\n……けど、ちょっとバランスが心配ですね。=Vâng!♪ Tớ chưa bao giờ lái thứ vui vẻ như thế này!\n...Nhưng tớ hơi lo về sự cân bằng.
+はいっ♪　こんな楽しい乗り物、初めてですっ！\n……けど、ちょっとバランスが心配ですね。=Vâng!♪ Tôi chưa từng lái một chuyến đi vui vẻ như thế này!\n...Nhưng tôi hơi lo lắng về sự cân bằng.
 騎士さんって確か、泳げないんでしたよね。\n落ちないよう気をつけてくださいね？=Nhớ lại thì, cậu không giỏi bơi lội, phải không, Kishi-san?\nCẩn thận đừng rơi xuống nước, được chứ?
 いや、気合だけでなんとかなりゃわけないですよ。\nちゃんとつかまっといてください。\n姉貴に。=Không, không thể chỉ dựa vào ý chí để sống sót được.\nNắm chặt lấy.\nVì chị tôi.
 ちょっとヴルムっ！？\nわ、私も結構恥ずかしいんだからねっ……！？\n水着なんて、久しぶりだし……=Ê, Wurm!?\nT-Tôi cũng thấy xấu hổ lắm, biết chứ...!?\nĐã lâu rồi tôi mới mặc đồ bơi...
-ま、騎士さんが落ちたらめんどくさがらずに助けますよ。\n一応は大事な客人ですし？=Nếu cô ngã, tôi sẽ giúp mà không ồn ào.\nDù sao cô cũng là khách quan trọng, phải không?
-……ん。\n礼なんていらないですよ。\n仕事の一環なんで。=......\nKhông cần cảm ơn đâu.\nĐó là phần việc của tôi.
-それにしても……遠隔操縦できるボートなんて、すごいですね。\n遊ぶ以外に、物を運んだりするのにも使えそうですし。=Vẫn còn... một chiếc thuyền điều khiển từ xa thật tuyệt.\nCó vẻ nó có thể dùng cho nhiều việc hơn là chỉ chơi đùa.
-ポポおじいさんがこんな発明品を作るの、ちょっと意外です。\nいつもは、えっと……もっと変わったものばかりだから……=Hơi bất ngờ khi ông Popo lại chế tạo được phát minh như vậy.\nThường thì ông ấy làm, ừm... những thứ kỳ lạ hơn...
+ま、騎士さんが落ちたらめんどくさがらずに助けますよ。\n一応は大事な客人ですし？=Thôi, nếu cậu rơi, tôi sẽ giúp cậu mà không ồn ào.\nDù sao cậu cũng là một vị khách quan trọng?
+……ん。\n礼なんていらないですよ。\n仕事の一環なんで。=......\nKhông cần cảm ơn.\nĐó là một phần công việc.
+それにしても……遠隔操縦できるボートなんて、すごいですね。\n遊ぶ以外に、物を運んだりするのにも使えそうですし。=Dù vậy... một chiếc thuyền điều khiển từ xa thật tuyệt vời.\nCó vẻ nó có thể dùng cho nhiều hơn là chỉ chơi đùa.
+ポポおじいさんがこんな発明品を作るの、ちょっと意外です。\nいつもは、えっと……もっと変わったものばかりだから……=Hơi bất ngờ rằng Ông Popo lại tạo ra một phát minh như thế này.\nThông thường ông ấy làm, ừm... những thứ kỳ lạ hơn...
 マッドサイエンティストだもんね。\nポポじい。=Ông ấy là một nhà khoa học điên.\nÔng Popo.
-そこまでは言ってないけど！？=Tôi không nói đến mức đó đâu!?
-がっはっは！　そんな褒められると照れるわいっ！=Gahaha! Tôi đang thấy ngượng với những lời khen này!
-どういたしまして。\n……で、なんでこんな発明を？=Không có chi.\n...Vậy, tại sao lại có phát minh này?
-なあに。単純な話じゃ。かつての超文明について調べとったら、\nソイツの作り方が分かってのう。=Ồ, câu chuyện đơn giản thôi. Trong khi nghiên cứu về siêu văn minh cổ đại,\ntôi đã tìm ra cách làm cái này.
-それで、ただ好奇心のままに作ってみただけじゃよ。\n技術屋として作れるものは作る。\n改良できる部分は改良する。それだけのことじゃ。=Vì tò mò, tôi cứ thế mà làm nên.\nLà một nghệ nhân, tôi làm những gì tôi có thể.\nTôi cải tiến những gì có thể cải tiến. Chỉ vậy thôi.
-技術はすごいですけど、\nただのレジャー用のボートでしかないような気が……\n超文明って、いったい……？=Công nghệ thật tuyệt, nhưng...\nCó vẻ nó chỉ là một chiếc thuyền giải trí...\nLoại siêu văn minh nào mà...?
-…………\nそりゃ、戦いの道具だけが文明じゃないってことでしょ。\n当たり前だけど。=......\nVăn minh không chỉ là công cụ cho chiến tranh.\nĐiều đó là hiển nhiên.
+そこまでは言ってないけど！？=Tôi đã không nói đến mức đó!?
+がっはっは！　そんな褒められると照れるわいっ！=Gahaha! Tôi đang đỏ mặt vì tất cả lời khen này!
+どういたしまして。\n……で、なんでこんな発明を？=Không có gì.\n...Vậy, tại sao lại có phát minh này?
+なあに。単純な話じゃ。かつての超文明について調べとったら、\nソイツの作り方が分かってのう。=Ồ, đó là một câu chuyện đơn giản. Trong khi nghiên cứu các siêu nền văn minh cổ đại,\ntôi đã tìm ra cách làm cái này.
+それで、ただ好奇心のままに作ってみただけじゃよ。\n技術屋として作れるものは作る。\n改良できる部分は改良する。それだけのことじゃ。=Vì vậy, bị thúc đẩy bởi sự tò mò, tôi chỉ đơn giản là làm nó.\nVới tư cách một nghệ nhân, tôi làm những gì tôi có thể.\nTôi cải tiến những gì có thể cải tiến. Chỉ có vậy thôi.
+技術はすごいですけど、\nただのレジャー用のボートでしかないような気が……\n超文明って、いったい……？=Công nghệ thật tuyệt vời, nhưng...\nCó vẻ nó chỉ là một chiếc thuyền giải trí...\nLoại siêu nền văn minh nào...?
+…………\nそりゃ、戦いの道具だけが文明じゃないってことでしょ。\n当たり前だけど。=......\nHừm, văn minh không chỉ là về công cụ cho chiến tranh.\nĐiều đó là hiển nhiên.
 そうかもしれないけど……\nヴルムは気にならないの？\nこの世界の遥か昔に、よくわからない文明があったなんて……=Có thể đúng...\nNhưng Wurm, cô không thấy phiền à?\nRằng đã có một nền văn minh chưa biết từ lâu đời trong thế giới này...
-別にー\nそんなの考えたって、ほんとのことがわかるわけじゃないし。\nめんどいし。それよりか、水がきれいだなーって。=Không thực sự.\nSuy nghĩ về nó cũng không thể làm sáng tỏ sự thật.\nBất tiểu lắm. Quan trọng hơn, nước trong quá.
-……まぁ、確かに……\n涼しい風と水しぶきを、肌で感じながら……♪\n気持ちいいですね、騎士さんっ。=...Ừ, đúng rồi...\nTrong khi cảm nhận làn gió mát và sự phun nước lên da...♪\nThật dễ chịu, phải không, Kishi-san?
-……はしゃいじゃって。\nそんなに水着デートが楽しいですか、お姉さま。=.... Cô hào hứng quá.\nCô thích buổi hẹn cùng đồ bơi đến thế sao, Ehrm...?
-なっ……！？　そ、そういうんじゃないっ！\n別にデートとかじゃないしっ！！=Gì...!? Đó... đó không phải ý tôi!\nĐó không phải buổi hẹn hay gì cả!!
-はいはい。\nで、ポポじい。もっと速度上げられたりとかできません？=Ừ, ừ.\nNày, ông Popo. Ông làm cho nó nhanh hơn được không?
-当然、できるに決まっとるじゃろうがっ！\nスピードこそ正義ィ！　ブーストボタン、ポチっとな。=Tất nhiên là được rồi!\nTốc độ là công lý! Nhấn nút tăng tốc.
+別にー\nそんなの考えたって、ほんとのことがわかるわけじゃないし。\nめんどいし。それよりか、水がきれいだなーって。=Không thực sự.\nSuyy nghĩ về nó cũng không sẽ tiết lộ sự thật, dù sao.\nPhiền phức lắm. Quan trọng hơn, nước trong quá.
+……まぁ、確かに……\n涼しい風と水しぶきを、肌で感じながら……♪\n気持ちいいですね、騎士さんっ。=Ừ, thì...\nCảm giác gió mát và bọt nước bắn lên da...♪\nCảm giác tốt, phải không, Kishi-san?
+……はしゃいじゃって。\nそんなに水着デートが楽しいですか、お姉さま。=.... Cậu hào hứng quá.\nCậu thích hẹn hò cùng đồ bơi đến thế sao, Ehrm...?
+なっ……！？　そ、そういうんじゃないっ！\n別にデートとかじゃないしっ！！=Gì...!? Đó... đó không phải ý tôi!\nĐó không phải hẹn hò hay gì cả!!
+はいはい。\nで、ポポじい。もっと速度上げられたりとかできません？=Ừ, ừ.\nNày, Ông Popo. Có thể cho nó nhanh hơn được không?
+当然、できるに決まっとるじゃろうがっ！\nスピードこそ正義ィ！　ブーストボタン、ポチっとな。=Tất nhiên là được rồi!\nTốc độ chính là công lý! Nhấn nút tăng tốc đi.
 きゃああああっ！？　は、速すぎませんかっ！？\n水の上、跳ねてますよっ！？=Kyaa!? Có phải quá nhanh rồi không!?\nChúng ta đang nhảy trên mặt nước!!
 あはっ。\n姉貴ってばおおげさすぎー=Ahaha.\nChị, cô phóng đại quá.
 まさか。あたしは妹の鑑ですよ？\n尊敬する姉さんが怖がってる姿を見て楽しむなんて、\nあるわけないじゃないですか。=Không đâu. Tôi là hình mẫu của một người chị tốt, biết chứ?\nKhông thể nào tôi lại thích thấy chị mà tôi kính trọng sợ hãi.
-絶対ウソっ！！\n面白がってるでしょっ！？=Cô đang nói dối chắc chắn!!\nCô đang vui, phải không!?
+絶対ウソっ！！\n面白がってるでしょっ！？=Cậu đang nói dối chắc chắn!!\nCậu đang vui, phải không!?
 がははっ！　仲がええのうオマエたち！\n……むっ？　ワシ宛の通信魔法……？=Gahaha! Hai người hợp nhau thật!\n...Hmm? Một phép thuật liên lạc cho tôi...?
 ……ふむ。なるほど。\nこちらもちょうどいい頃合いじゃな。伝えとくわい。=...Ra vậy. Tôi hiểu rồi.\nLúc này cũng vừa đúng thời điểm ở đây. Tôi sẽ truyền đạt.
 ポポおじいさん？　どうかしましたか？=Ông Popo? Có chuyện gì vậy?
-オマエたち、航行性能の試験はそろそろ終わりじゃ。\nおかげでいいデータが取れたわい。感謝するぞ。=Thử nghiệm về hiệu năng định vị sắp kết thúc.\nNhờ có các cô, tôi có được dữ liệu tốt. Tôi biết ơn.
-そりゃどうも。\nじゃあ水着デートはもうお開きですね。\n姉さん、ドンマイ。=Không có chi.\nVậy buổi hẹn cùng đồ bơi kết thúc rồi.\nXin lỗi, chị.
+オマエたち、航行性能の試験はそろそろ終わりじゃ。\nおかげでいいデータが取れたわい。感謝するぞ。=Thử nghiệm hiệu năng định vị sắp kết thúc rồi.\nNhờ cậu, tôi có được dữ liệu tốt. Tôi biết ơn.
+そりゃどうも。\nじゃあ水着デートはもうお開きですね。\n姉さん、ドンマイ。=Không có gì.\nVậy cuộc hẹn hò cùng đồ bơi kết thúc rồi.\nXin lỗi, chị.
 だから別に、残念とか思ってないってば！=Tôi đã nói rồi, tôi không buồn về chuyện đó!
-いや、次は安定性の試験じゃ。\nしばらくボートを湖に浮かべとくから、オマエたちは自由にくつろげ。\n飲み物も用意してあるからのう。=Không, tiếp theo là bài kiểm tra ổn định.\nTôi sẽ giữ chiếc thuyền nổi trên hồ một lúc, vậy các cô cứ thư giãn.\nTôi cũng đã chuẩn bị đồ uống.
+いや、次は安定性の試験じゃ。\nしばらくボートを湖に浮かべとくから、オマエたちは自由にくつろげ。\n飲み物も用意してあるからのう。=Không, tiếp theo là thử nghiệm ổn định.\nTôi sẽ giữ chiếc thuyền nổi trên hồ một lúc, mấy cậu cứ thư giãn.\nTôi cũng đã chuẩn bị đồ uống rồi.
 え……？\nそれって、このまま騎士さんと一緒に、ですか？=Hả...? Vậy, điều này có nghĩa là tôi sẽ ngồi không với Kishi-san?
 うむ。さっきちょうど、ライラエルさまから連絡があってな。\nオマエたちに伝言じゃ。=Đúng vậy. Vừa nãy, cô Lyrael đã liên hệ với tôi.\nTôi có một tin nhắn cho cô.
 『騎士に実験を手伝ってもらっているのです。\n快適な時間を過ごしてもらえるよう、\n今はわたしの代わりに騎士を主だと思って仕えなさい』……じゃと。=[Hiệp sĩ đang giúp với các thí nghiệm.\nHãy chắc chắn phục vụ và đảm bảo họ có thời gian vui vẻ,\nxem ông ấy là chủ nhân thay thế tôi]... Đó là những gì cô ấy nói.
 魔物退治、終わったよ！=Đã tiêu diệt xong quái vật!
 つまり、騎士さんの面倒を見ろと？\n……はぁ。なんでそんなことに。=Vậy, chúng ta phải chăm sóc Kishi-san?\n...Thôi nào, sao lúc nào cũng thế.
 ちょっと、ヴルム？\nライラエルさまの命なんだから、面倒くさがっちゃダメっ！=Này, Wurm?\nĐây là mệnh lệnh từ cô Lyrael, nên cô không được phàn nàn!
-……そりゃ、私だって。\n騎士さんをご主人様と思うだなんて、いきなりそんなこと……=Vâng, tôi hiểu.\nĐột ngột nghĩ đến Kishi-san như chủ nhân của tôi thì...
+……そりゃ、私だって。\n騎士さんをご主人様と思うだなんて、いきなりそんなこと……=Thôi, tôi hiểu.\nĐột ngột nghĩ đến Kishi-san như chủ nhân thì...
 全然オッケー！=Hoàn toàn được!
 はいはい、わかってるって……=Ừ, ừ, tôi hiểu rồi...
 リンドとヴルムは{playername}の世話のため、\n一度、ボートから降りて準備をし、そして──=Lind và Wurm chuẩn bị xuống thuyền để chăm sóc {playername}, và rồi──
-……どうぞ。召し上がれ。=...Đây ạ. Xin mời dùng.
-えーっと……\nお口にあったようで、なによりです。\nご主人様……=Ưm...\nTôi mừng là nó hợp khẩu vị của người.\nChủ nhân...
+……どうぞ。召し上がれ。=...Đây. Mời dùng.
+えーっと……\nお口にあったようで、なによりです。\nご主人様……=Ưm...\nTôi mừng là nó hợp khẩu vị cậu.\nChủ nhân...
 うちわのお加減はどうですか？\nもっと強めに扇いだ方がよければ、遠慮なさらず仰ってください。=Quạt thế nào? Nếu người muốn gió mạnh hơn,\nđừng ngần ngại cho tôi biết.
 そりゃ、よかったですね。\nご主人サマ。=Thật tuyệt khi nghe thế.\nChủ nhân.
-……ご主人サマっていうか。\n子どもの世話をしているような気になってきたかも……=...Tôi cảm thấy như đang chăm sóc một đứa trẻ hơn là gọi người là Chủ nhân...
+……ご主人サマっていうか。\n子どもの世話をしているような気になってきたかも……=...Tôi cảm thấy mình đang chăm sóc một đứa trẻ hơn là gọi cậu là Chủ nhân...
 もう、ヴルムっ。ぶつくさ言わないの。=Ồ Wurm. Dừng việc càm ràm lại.
 それに……たまにはこんな日があってもいいでしょ？\nこうして、穏やかでゆっくりとした日があっても。=Hơn nữa... đôi khi có những ngày như thế này cũng tốt, phải không?\nNhững ngày bình yên, yên tĩnh như thế này.
 頑張るね！=Tôi sẽ cố gắng hết sức!
-……ま、確かに。\n最近、魔物騒動だとかで慌ただしかったし。=...Đúng vậy.\nBởi gần đây có nhiều náo động với các khủng hoảng quái vật.
-でしょ？\nだからこそ、こうしてのんびりできる時間は大事にしないと。ね？=Đúng chứ?\nChính vì vậy chúng ta phải trân trọng những khoảng thời gian bình yên như thế này. Được chứ?
+……ま、確かに。\n最近、魔物騒動だとかで慌ただしかったし。=...Đúng vậy.\nVì gần đây có nhiều hỗn loạn vì các cuộc khủng hoảng quái vật.
+でしょ？\nだからこそ、こうしてのんびりできる時間は大事にしないと。ね？=Phải không?\nChính vì vậy chúng ta phải trân trọng những thời gian bình yên như thế này. Được chứ?
 ありがとう、ヴルムちゃん！=Cảm ơn cô, Wurm-chan!
-自分の時間を、のんびりと、ね……\nあたしは常にそうありたいけど。\n騎士さん的にはどうです？=Thư giãn và tận hưởng thời gian của bản thân, hửm...\nTớ luôn muốn được như vậy.\nCòn cô thì sao, Kishi-san?
-そうですね……私もそう思います。\n争いのない、平和で幸せな時間がずっと続いてほしいと……=Vâng... Tớ cũng cảm thấy y hệt.\nTớ hy vọng những thời gian bình yên, hạnh phúc không có xung đột sẽ kéo dài mãi mãi...
+自分の時間を、のんびりと、ね……\nあたしは常にそうありたいけど。\n騎士さん的にはどうです？=Thư giãn và tận hưởng thời gian của riêng mình, hử...\nTôi luôn muốn điều đó.\nCòn cậu thì sao, Kishi-san?
+そうですね……私もそう思います。\n争いのない、平和で幸せな時間がずっと続いてほしいと……=Vâng... Tôi cũng cảm thấy như vậy.\nTôi hy vọng những thời gian bình yên, hạnh phúc không có xung đột sẽ kéo dài mãi mãi...
 えっ。ずっとって……\n姉貴まさか、ライラエルさまから騎士さんに\nご主人サマの鞍替えする気？=Hả? Mãi mãi...\nChị, chị đang định chuyển trung thành\nkhỏi Cô Lyrael sang Kishi-san sao?
 な、ななななっ……ちょっとヴルム何言ってるの！？\nそんなことするわけないでしょう！？\n私のご主人様は、ずーっとライラエルさまですからっ！=K-k-k-không có đâu... Wurm, cô nói gì vậy!?\nLàm sao tôi có thể làm chuyện đó chứ!\nNgười chủ của tôi sẽ mãi là Cô Lyrael!
 き、騎士さんまで何言ってるんですかっ！？\n騎士さんにはコッコロさんっていう\n立派な従者さんがいるじゃないですか！=Ngay cả Kishi-san cũng nói những điều kỳ quặc!?\nCô có Kokkoro-san, một người hầu tuyệt vời, phải không!?
 何人でもって……！\nふ、不潔です、不潔っ！\n見損ないましたよ騎士さん！=Nhiều người...?\nĐiều đó... thật không đẹp mắt, không đẹp mắt chút nào!\nTôi thất vọng về cô, Kishi-san!
-や。\n騎士さんのその表情からして……\nどう見てもからかわれてるだけですよ。姉さん。=Ừ.\nDựa vào vẻ mặt của Kishi-san...\nCó vẻ như cô chỉ bị trêu đùa thôi, chị.
-……えっ？\n……そうなんですか？=...Hả?\n...Vậy sao?
-～～～っ！！\nもっ……もうっ、ばかっ！　ばかぁっ！\n騎士さんのことなんてもう知りませんっ！！=～～～! Đồ ngốc! Đồ ngốc!\nTôi không quan tâm đến cô nữa đâu, Kishi-san!!
+や。\n騎士さんのその表情からして……\nどう見てもからかわれてるだけですよ。姉さん。=Ya.\nDựa vào biểu cảm của Kishi-san...\nCó vẻ như chị chỉ bị trêu đùa thôi.
+……えっ？\n……そうなんですか？=...Hả?\n...Thật vậy sao?
+～～～っ！！\nもっ……もうっ、ばかっ！　ばかぁっ！\n騎士さんのことなんてもう知りませんっ！！=～～～! Đồ ngốc! Đồ ngốc!\nTôi không quan tâm đến cậu nữa, Kishi-san!!
 なんだか楽しそうだね。=Mọi người dường như đều vui vẻ.
 ──ちょっとリンド？\nご主人様にそんな態度、取っちゃダメなんですからね？=──Này Lind?\nĐừng có thái độ như vậy với Chủ nhân, được chứ?
 もぉぉおヴルムっ！？！\nそれっていつも私があなたに言っていることでしょうがぁっ！=Ồ Wurm!?\nChẳng phải đó là điều tôi luôn nói với cô sao!?
-わかりましたわかりましたっ！\nこのボートにいる間は騎士さんがご主人様ですっ！\n風で吹き飛んじゃうくらいまで、扇ぎ倒してあげますからぁっ！=Được rồi, được rồi! Trên chiếc thuyền này, Kishi-san là Chủ nhân!\nTôi sẽ quạt cho cô đến mức bay đi được, nhé!
-……\nあー\n……おもしろ。=... Ừ.\n...Vui thật.
+わかりましたわかりましたっ！\nこのボートにいる間は騎士さんがご主人様ですっ！\n風で吹き飛んじゃうくらいまで、扇ぎ倒してあげますからぁっ！=Được rồi, được rồi! Trên chiếc thuyền này, Kishi-san là Chủ nhân!\nTôi sẽ quạt cho cậu đến mức bay đi, nhé!
+……\nあー\n……おもしろ。=... Vâng.\n...Vui thật đấy.
 そうしてリンドとヴルムにご奉仕されながら、\nのんびりとしたひとときは過ぎていくのだった。=Và thế là, trong khi được Lind và Wurm phục vụ,\nthời gian thư giãn cứ thế trôi qua.
-……えっと。\n……今日はありがとうございました、騎士さん。\nポポおじいさんも、とっても喜んでましたよ。=... Ướm.\n...Cảm ơn cô vì hôm nay, Kishi-san.\nÔng Popo cũng rất vui.
+……えっと。\n……今日はありがとうございました、騎士さん。\nポポおじいさんも、とっても喜んでましたよ。=... Ưm.\n...Cảm ơn hôm nay nhé, Kishi-san.\nÔng Popo cũng rất vui.
 ええ、ぜひ！=Ồ, tất nhiên rồi!
-ふぅん。また水着デートがしたい……と。\n大胆ですね姉さん。=Hừm. Cô muốn có một buổi hẹn mặc đồ bơi nữa...?\nThật là liều lĩnh, chị ơi.
+ふぅん。また水着デートがしたい……と。\n大胆ですね姉さん。=Hừm. Muốn đi hẹn hò với đồ bơi nữa à...?\nThật là táo bạo, chị.
 ち、違っ……！？\nそういう意味じゃないからっ！！=K-không...?!\nÝ tôi không phải vậy!
-なら、そういうことにしておくか……=Thế thì, cứ coi như là vậy đi...
-これ、おいしいね！=Món này ngon quá!
+なら、そういうことにしておくか……=Thế thì, cứ coi là vậy đi...
+これ、おいしいね！=Ngon quá!
 まったく……ヴルムってば！\nいっつもこうなんだからっ！=Thật sự... Wurm!\nCô lúc nào cũng như vậy!
-……実際。\n今日は……楽しかった、かも。=...Thực ra thì.\nHôm nay... có lẽ vui thật.
-いい匂いがするし気持ちいい！=Nó thơm và dễ chịu quá!
+……実際。\n今日は……楽しかった、かも。=...Thực tế thì.\nHôm nay... có lẽ vui thật.
+いい匂いがするし気持ちいい！=Mùi thơm thảo và sờ vào thấy dễ chịu!
 姉さんたちが言ってたみたいに。\nこんな日がずっと続いたらいいのに。=Như chị nói.\nTôi ước những ngày như thế này sẽ tiếp diễn.
 まあ現実は……そうもいかないけれど。=Thôi, thực tế...\nKhông phải lúc nào cũng như vậy.
 ヴルムの内心のつぶやきは誰にも伝わらず。\n一同は帰路へとつくのだった。=Những suy nghĩ trong lòng Wurm vẫn không được ai nghe thấy.\nMọi người lên đường trở về.
-ずっとこういう時間が続いてほしい。=Tôi ước những khoảnh khắc như thế này sẽ kéo dài mãi mãi.
-そうなの？　残念……=Vậy sao? Thật đáng tiếc...
+ずっとこういう時間が続いてほしい。=Mong rằng những khoảnh khắc như thế này sẽ kéo dài mãi.
+そうなの？　残念……=Thật sao? Thật đáng tiếc...
 メイドや従者は何人いても大丈夫だよ！=Có bao nhiêu hầu gái và người hầu cũng không thành vấn đề!
-からかって、ごめんね。=Xin lỗi vì đã trêu chọc.
-またみんなで遊びたいね！=Chúng ta cùng chơi lại vào lúc nào đó nhé!
+からかって、ごめんね。=Xin lỗi vì đã trêu.
+またみんなで遊びたいね！=Tụi mình cùng chơi lại vào lúc nào đó nhé!

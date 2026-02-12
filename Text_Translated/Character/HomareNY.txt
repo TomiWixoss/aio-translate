@@ -9,7 +9,7 @@
 ##UB##
 ドラゴンズティアー=Dragon's Tear
 敵全体に魔法中ダメージを与え、さらに魔法防御力を小ダウンさせる。敵の数に応じて、ダメージと防御力の減少量が増加する。=Gây sát thương ma thuật vừa phải cho tất cả kẻ thù và giảm nhẹ M.DEF của chúng. Sát thương ma thuật gây ra và M.DEF bị giảm tăng theo số kẻ thù.\nM.DMG: (+M.DMG × 0.65 × Số kẻ thù)\nM.DEF: (+M.DEF × Số kẻ thù)
-r:"^敵全体に(\d+)の魔法ダメージ敵全体の魔法防御力を(\d+)ダウン$"=►Gây $1 M.DMG cho tất cả kẻ thù.\n►Giảm M.DEF của tất cả kẻ thù đi $2.
+r:"^敵全体に(\d+)の魔法ダメージ敵全体の魔法防御力を(\d+)ダウン$"=►Gây $1 sát thương Phép thuật cho tất cả kẻ địch.\n►Giảm phòng thủ Phép thuật của tất cả kẻ địch $2.
 
 ##S1##
 スティッキーバイト=Sticky Bite

@@ -25,7 +25,7 @@ Lv強化=Lên cấp
 そのまま作成=Tạo như vậy
 そのまま強化=Tiếp tục tăng cường
 アイテム、装備、もしくはマナが不足しているため強化できません。=Không đủ vật phẩm, trang bị hoặc mana.
-おまかせ強化=Tối ưu hóa
+おまかせ強化=Optimize
 まとめて装備=Trang bị Tất cả
 装備する=Trang bị
 入手方法=Cách\nnhận
@@ -40,12 +40,12 @@ Lv強化=Lên cấp
 メモリーピースが不足しています。=Không đủ Mảnh Ký ức.
 メモリーピースとマナが不足しています。=Không đủ Mảnh Ký ức và Mana.
 ャラ強化=Tăng cường Nhân vật
-強化する=Tinh luyện
+強化する=Tinh Chế
 専用装備グロウスフィアを使用するにはRANK7にする必要があります。=Nhân vật cần đạt ít nhất RANK 7 để trang bị UE Growsphere.
 専用装備１グロウスフィアを使用するにはRANK7にする必要があります。=Nhân vật cần đạt ít nhất RANK 7 để trang bị UE-1 Growsphere.
 ランクアップ=Nâng cấp
 装備ステータス=Chỉ số Trang bị
-使う=Sử dụng
+使う=Sử Dụng
 強化ポーションを所持していません=Hết Đơn vị Phép!
 あと=Còn lại:
 この装備は今後登場予定です。=Trang bị này sẽ được phát hành sau.
@@ -71,7 +71,7 @@ Lv強化=Lên cấp
 強化素材選択=Chọn\nNguyên liệu Tinh luyện
 まとめてリセット=Đặt lại Tất cả
 獲得強化Pt=Điểm Tinh luyện
-強化=Tinh luyện
+強化=Tinh Chế
 最大まで強化=Để tối đa hóa
 合計Pt=Tổng Điểm
 強化確認=Tinh luyện Trang bị
@@ -83,14 +83,14 @@ RANK2で解放されます。=Sẽ được mở khóa ở RANK 2.
 この装備の強化段階は最大です。=Trang bị này không thể tinh luyện thêm nữa.
 強化素材を選択してください。=Vui lòng chọn một nguyên liệu tinh luyện.
 装備可能なスロットがありません。=Không có ô nào có thể trang bị.
-以下のアイテムを消費しておまかせ強化しますか？=Sử dụng các vật phẩm sau để nâng cấp\nnhân vật như đề xuất?
+以下のアイテムを消費しておまかせ強化しますか？=Sử dụng các vật phẩm sau để nâng cấp\nnhân vật theo khuyến nghị?
 おまかせ無料強化対象キャラ=Nhân vật đủ điều kiện nâng cấp miễn phí
 キャラLvとスキルLvのみ強化のため、原鉱は消費できません。=Chỉ Cấp nhân vật và Cấp kỹ năng được nâng cấp, nên không thể tiêu hao Quặng.
 r:"^\[3C404E\]アイテムを消費して、強化Lv上限を\[-\]\[FFBB00,CE4F00\]([0-9,]+)\[-\]\[3C404E\]に解放します。\nよろしいですか？\[-\]$"=[3C404E]Tiêu hao vật phẩm để tăng giới hạn cấp lên [FFBB00,CE4F00]$1[-].\nTiếp tục? [-]
 おまかせ装備強化確認=Xác nhận Tinh luyện Trang bị
 以下のアイテムを消費しておまかせ装備強化します。\nよろしいですか？=Chi các vật phẩm sau\nto cường hóa trang bị của bạn?
 キャラ解放確認=Mở khóa Nhân vật
-解放する=Mở khóa
+解放する=Mở Khóa
 アイテムが不足しています。=Vật phẩm không đủ.
 メモリーピース入手方法=Cách nhận Mảnh Ký ức
 入手場所=Tìm kiếm
@@ -119,7 +119,7 @@ r:"^\[3C404E\]アイテムを消費して、強化Lv上限を\[-\]\[FFBB00,CE4F0
 ---Equip---
 以下のアイテムを消費して装備しますか？=Bạn có muốn tiêu hao và trang bị các vật phẩm sau không?
 まとめて装備確認=Trang bị Tất cả?
-原晶を消費する=Tiêu hao
+原晶を消費する=Tiêu Dùng
 原鉱を\n消費する=Tiêu hao\nQuặng
 装備確認=Xác thực
 [FF7C4E,D62146]Lv不足[-]=[FF7C4E,D62146]Cấp không đủ[-]
@@ -129,7 +129,7 @@ r:"^\[3C404E\]アイテムを消費して、強化Lv上限を\[-\]\[FFBB00,CE4F0
 この装備は素材から作成できません。=Bạn không thể chế tạo trang bị này.
 ---ORE---
 原鉱を使えば作成できます。=Có thể tạo bằng cách sử dụng Quặng.
-今後このメッセージを表示しない\n※設定から変更可=Không hiện thông báo này trong tương lai.\n※Có thể thay đổi sau từ [Cài đặt].
+今後このメッセージを表示しない\n※設定から変更可=Không hiển thị thông báo này trong tương lai.\n※Có thể thay đổi sau từ [Cài đặt].
 原鉱消費確認=Xác nhận Tiêu hao Quặng
 以下の原鉱が消費されます。\nよろしいですか？=Quặng sau sẽ bị tiêu hao.\nCó được không?
 消費装備が十分のため、原鉱を消費できません。=Không cần, bạn đã có đủ trang bị.
@@ -137,7 +137,7 @@ r:"^\[3C404E\]アイテムを消費して、強化Lv上限を\[-\]\[FFBB00,CE4F0
 ---Rank up---
 にランクアップしますか？=Bạn có muốn nâng hạng?
 獲得スキル=Kỹ năng Đã Nhận
-ランク=Hạng
+ランク=Xếp hạng
 ランクアップ完了=Nâng Hạng Hoàn Tất
 必要素材が不足しています=Nguyên liệu không đủ
 ランクアップ後の 所持数/必要数 です。=Số lượng cần sau khi nâng hạng.
@@ -146,7 +146,7 @@ sr:"^ (\[[0-9a-fA-F,]{6,14}\])RANK(\d+)\[-\] \[3C404E\]の装備一覧\[-\]$"=" 
 上限に達しているため限界突破できません。=Không thể mở giới hạn thêm nữa.
 EXスキルスロット=Khe kỹ năng EX
 ランク ブロンズで開放=Mở ở Hạng Đồng
-セット=Đặt
+セット=Thiết lập
 
 ★6解放クエストに必要なアイテムをセットします。よろしいですか？=Đặt các vật phẩm cần thiết cho nhiệm vụ Mở khóa ★6. Được chứ?
 
@@ -154,7 +154,7 @@ EXスキルスロット=Khe kỹ năng EX
 
 装備品・強化アイテムは\\nクエストで入手することができます=Trang bị và vật phẩm tinh luyện có thể\\nnhận được trong nhiệm vụ
 使用できる素材がありません=Không có nguyên liệu nào
-この装備はこれ以上強化できません。=Trang bị này không thể tinh luyện thêm.
+この装備はこれ以上強化できません。=Trang bị này không thể tinh luyện thêm nữa.
 この装備は強化できません。=Trang bị này không thể tinh luyện.
 ---Rank Up Detail---
 未装備のステータス=Chỉ số khi chưa trang bị
@@ -191,7 +191,7 @@ EXスキルスロット=Khe kỹ năng EX
 
 キャラLv限界突破確認=Xác nhận Phá giới hạn
 [3C404E]アイテムを消費して、キャラのLv上限を[-][FFBB00,CE4F00]10[-][3C404E]突破します。\nよろしいですか？[-]=[3C404E]Tiêu hao mảnh để phá vỡ giới hạn cấp độ nhân vật thêm[FFBB00,CE4F00] 10[-]?[-]
-限界突破する=Phá giới hạn
+限界突破する=Vượt giới hạn
 このキャラは編成から外せません。=Nhân vật này không thể được loại khỏi đội hình.
 
 ---6star---
@@ -205,10 +205,10 @@ EXスキルスロット=Khe kỹ năng EX
 絆ランク上限=Mối quan hệ Tối đa
 
 セット確認=Xác nhận Bố trí
-以下のアイテムを消費してセットします。=Các vật phẩm sau đã được tiêu hao.
+以下のアイテムを消費してセットします。=Các vật phẩm sau sẽ bị tiêu hao.
 セットボーナス=Bonus Chỉ số
 
-アイテムを消費して、セット/強化します。=Các vật phẩm sau đã được tiêu hao.
+アイテムを消費して、セット/強化します。=Các vật phẩm sau sẽ bị tiêu hao.
 アイテム強化確認=Xác nhận Tinh luyện
 
 ステータスアップ=Tăng Chỉ số
@@ -227,11 +227,11 @@ EXスキルスロット=Khe kỹ năng EX
 専用装備へ=Đến trang bị Vũ khí Độc nhất
 ---Recommended Enhancement---
 おすすめ強化メニュー=Tinh chế khuyến nghị
-装備強化=Tinh chế
+装備強化=Tinh Chế
 装備強化でステータスアップ！=Tinh chế trang bị để tăng chỉ số!
 消費Pt=Chi phí PT
 装備を手に入れてランクアップしよう！=Nhận trang bị để nâng cấp!
-おすすめクエスト=Nhiệm vụ
+おすすめクエスト=Nhiệm Vụ
 ------
 強化ボーナス=Thưởng chỉ số
 プリンセスオーブ詳細=Chi tiết Vòng nguyệt quế Công chúa
@@ -273,7 +273,7 @@ RANKボーナス詳細のステータス=Chi tiết Trạng thái
 専用装備１を装備/強化します。よろしいですか？=Trang bị Vũ khí Độc nhất 1?
 専用装備２を装備/強化します。よろしいですか？=Trang bị Vũ khí Độc nhất 2?
 
-作成に必要なマナ=Chi phí Mana
+作成に必要なマナ=Chi Phí Mana
 作成に必要な素材=Vật phẩm yêu cầu
 強化に必要なマナ=Chi phí Mana cho Nâng cấp
 強化に必要なプリンセスオーブ=Chi phí Vòng nguyệt quế Công chúa cho Nâng cấp
@@ -288,8 +288,8 @@ RANKボーナス詳細のステータス=Chi tiết Trạng thái
 以下のアイテムを消費して専用装備１を強化しますか？=Bạn có muốn dùng các vật phẩm sau để nâng cấp Trang Bị Độc Nhất 1 không?
 以下のアイテムを消費して専用装備２を強化しますか？=Bạn có muốn dùng các vật phẩm sau để nâng cấp Trang Bị Độc Nhất 2 không?
 上限解放に必要なマナ=Chi Phí Mana
-消費数=Chi Phí
-上限解放に必要な素材=Vật phẩm cần thiết
+消費数=Chi phí
+上限解放に必要な素材=Vật phẩm yêu cầu
 素材が不足しています。=Nguyên liệu không đủ
 この装備は最大まで強化されています。=Trang bị này không thể tinh luyện thêm nữa.
 これ以上上限を解放できません。=Trang bị này không thể giải phong ấn thêm nữa.
@@ -322,7 +322,7 @@ RANKボーナス詳細のステータス=Chi tiết Trạng thái
 ランクアップへ=Để Thăng Hạng
 ★6才能開花=★6 Thăng Cấp
 原鉱=Quặng
-グロウスフィア=Quả Cầu Tăng Trưởng
+グロウスフィア=Hình cầu tăng trưởng
 作成確認=Xác nhận chế tạo
 装備やメモリーピースを消費して、\n専用装備１を作成します。=Dùng vật phẩm và Mảnh Ký Ức để chế tạo Trang Bị Độc Nhất 1.
 [FF7C4E,D62146]作成した専用装備１を元に戻すことはできません。[-]=[FF7C4E,D62146]Sau khi chế tạo, bạn không thể tháo UE 1.[-]
@@ -337,7 +337,7 @@ RANKボーナス詳細のステータス=Chi tiết Trạng thái
 専用装備Lv=Cấp độ UE
 専用装備１Lv=Cấp độ UE 1
 専用装備２Lv=Cấp độ UE 2
-未登場=Không
+未登場=N/A
 登場=Đã thực hiện
 専用装備グロウスフィア=Quả cầu UE
 専用装備１グロウスフィア=Quả cầu UE 1

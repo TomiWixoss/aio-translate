@@ -7,7 +7,7 @@
 お忍びプリンセスのひと夏=Mùa Hè Công Chúa Giấu Mặt
 
 ウォータープリンセス=Công Chúa Nước
-浜辺でシエスタ=Giấc Ngủ Trưa Bên Bãi Biển
+浜辺でシエスタ=Ngủ Trưa Dọc Bãi Biển
 初めてのバカンス=Kỳ Nghỉ Đầu Tiên Của Chúng Ta
 南国ツアーに思いをはせて=Nóng Giữ Chuyến Du Lịch
 
@@ -20,7 +20,7 @@
 r:"^自分の物理攻撃力を(\d+)アップ自分の魔法防御力を初期値の20%ダウン$"=►Tăng tấn công vật lý của bản thân lên $1.\n►Giảm phòng thủ phép của bản thân đi 20%.
 
 ##S2##
-パラソルアサルト=Parasol Assault
+パラソルアサルト=Tấn Công Ô Dù
 前方範囲内の敵すべてに物理小ダメージを与え、さらに目の前の敵１キャラを小さく吹き飛ばす。=Gây sát thương vật lý nhỏ cho tất cả kẻ địch trong phạm vi và đẩy lùi nhẹ kẻ địch đang ở ngay phía trước.
 
 ##EX##

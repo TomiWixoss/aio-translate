@@ -30,9 +30,9 @@ r:"^敵単体の物理攻撃力を(\d+)ダウン敵単体の魔法攻撃力を(\
 敵単体を遮絶の操糸状態にする=Khiến một kẻ địch trạng thái chuỗi Sợi Chỉ Cô Lập.
 
 Story Title Cards
-逃れられない過去=Quá Khứ Không Thể Thoát
+逃れられない過去=Quá khứ không thể trốn chạy
 脱出、あるいは運命の再会=Đồng Hành hay Đoàn Tụ
 小さな従者と大きな従者=Tớ Lớn và Cậu Nhỏ
-わたしの光=Ánh Sáng Của Tớ
+わたしの光=Ánh sáng của tôi
 
 

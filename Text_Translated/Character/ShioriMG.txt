@@ -27,5 +27,5 @@ r:"^範囲内の味方の物理攻撃力を(\d+)アップ(\d+)ダメージ分の
 r:"^範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理クリティカルを(\d+)アップ範囲内の味方の物理攻撃クリティカル時のダメージを(\d+)％アップ$"=►Tăng tấn công vật lý của đồng đội lên $1 trong 18s.\n►Tăng tỷ lệ chí mạng vật lý của đồng đội lên $2 trong 18s.\n►Tăng sát thương chí mạng vật lý của đồng đội lên $3% trong 18s.
 
 ##UE##
-マジカルピュアリーボウ=Cung Thuần Khiết Ma Thuật
+マジカルピュアリーボウ=Cung ma thuật thuần khiết
 マジカルピュアリーリボン=Ruy Băng Thuần Khiết Ma Thuật

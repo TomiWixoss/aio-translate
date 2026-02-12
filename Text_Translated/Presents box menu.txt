@@ -58,6 +58,7 @@ sr:"^(\d+月)クランバトルランキング(\d+位)の報酬です。$"="Ph�
 期限を過ぎていたため、一部のプレゼントは受け取れませんでした。=Một số quà tặng đã không được nhận vì đã hết hạn.
 所持上限を超えて獲得したスタミナです。=Đây là thể lực nhận được vượt quá giới hạn tối đa.
 スタミナ受取対象外にチェックしているため受け取れません。=Thể lực hiện đang bị loại trừ. Vui lòng bỏ chọn "Loại trừ Thể lực" để nhận.
+ウマ娘「The Game Awards 2025」受賞記念★3確定ガチャチケット=Vé Gacha Đảm Bảo ★3 Kỷ Niệm Giải Thưởng "The Game Awards 2025" Của Uma Musume =
 ---Login Bonus---
 
 クリスマス=Giáng sinh
@@ -84,6 +85,8 @@ sr:"^「(.+)ログインボーナス」(\d+日)目で獲得したアイテムで
 
 
 r:"^([0-9.]+) Year Anniversary カウントダウン$"=$1 Năm Kỷ Niệm Đếm Ngược
+r:"^([0-9.]+)th Anniversary カウントダウンログインボーナス$"=$1th Anniversary Countdown Log-in Bonus
+
 r:"^([0-9.]+) Year Anniversary スペシャル$"=$1 Năm Kỷ Niệm Đặc Biệt
 期間限定ストーリーの通知=Thông báo Cốt truyện Giới hạn thời gian
 r:"^([0-9.]+) Year Anniversary カウントダウンログインボーナスの開催期間中、通知を表示するか設定します。$"=$1 Năm Kỷ Niệm Được thiết lập để hiển thị thông báo trong sự kiện đăng nhập thưởng đếm ngược.

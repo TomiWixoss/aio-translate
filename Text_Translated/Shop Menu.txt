@@ -2,7 +2,7 @@
 Pアリーナ=P.Arena
 Bアリーナ=B Arena
 アリーナ=Arena
-マスター=Master
+マスター=Thầy
 限定=Thưởng
 購入する=Mua
 r:"^所持数：(\d+)$"=Đang giữ: $1
@@ -96,7 +96,7 @@ sr:"^購入に必要な(.{4,20})が不足しています。$"=Không đủ $1 đ
 ---npc---
 主さま、マスターコインをマスターショップで入手困難なアイテムと\n交換できるようです。プレイヤーLvを上限まで上げた後、スタミナを消費\nすることでマスターコインが手に入るようです。=My Lord, trông có vẻ như ngài có thể đổi Xu Chủ Nhân lấy những vật phẩm khó có được tại Cửa Hàng Chủ Nhân. Khi đã đạt cấp tối đa, ngài có thể nhận Xu Chủ Nhân từ việc tiêu hao thể lực khi đạt giới hạn EXP.
 ---Divine Amulet---
-在のメモリーピース1個あたりの単価=Giá trên Mảnh:
+在のメモリーピース1個あたりの単価=Giá mỗi Mảnh:
 現在のメモリーピース1個あたりの単価=Giá mỗi Mảnh:
 対象アイテムのメモリーピース個あたりの単価が=Giá mỗi Mảnh Ký Ức:
 

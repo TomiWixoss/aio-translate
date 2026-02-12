@@ -14,7 +14,7 @@ r:"^敵単体に(\d+)の物理ダメージ敵全体に(\d+)の物理ダメージ
 
 ##S2##
 ホロウサイズ=Hollow Scythe
-自分を中心とした範囲内の敵すべてに物理中ダメージを与える。=Deals moderate P.DMG to all enemies in range.
+自分を中心とした範囲内の敵すべてに物理中ダメージを与える。=Gây sát thương vật lý trung bình lên tất cả kẻ địch trong phạm vi.
 ## r:"^範囲内の敵に(\d+)の物理ダメージ$"=►Deals $1 P.DMG to enemies in range.
 ## Same as Aoi UB
 

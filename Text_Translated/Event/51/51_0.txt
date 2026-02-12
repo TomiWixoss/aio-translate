@@ -60,11 +60,11 @@
 
 女生徒たち=Nữ Sinh
 
-はい。=Dạ.
+はい。=Vâng.
 
 ああーっ！　今日もいきなり間違えてしまいましたー！\nごきげんよう、と麗しく発音しなければいけないところを、\nまるでぼっち卒業の所信表明会みたいな堅苦しさが出ちゃいました！=Ái chà! Hôm nay tớ lại lỗi rồi! Chúc một ngày tốt lành... ý tôi là, tôi nên phát âm thật đẹp, nhưng lại ra thành cứng nhắc, như một tuyên ngôn tốt nghiệp của một kẻ cô độc!
 
-講座を始める挨拶なんだし、起立を促すのは間違ってないのでは……？\nだったら、この流れで……！=...Không, chờ đã. Vì đây là lời chào để bắt đầu bài giảng, chẳng phải nên khuyến khích mọi người đứng dậy...? Nếu vậy, hãy tiếp tục theo hướng này...!
+講座を始める挨拶なんだし、起立を促すのは間違ってないのでは……？\nだったら、この流れで……！=...Không, chờ đã. Vì đây là lời chào để bắt đầu bài giảng, chẳng phải nên khuyến khích mọi người đứng lên...? Trong trường hợp đó, hãy tiếp tục với dòng suy nghĩ này...!
 
 ごきげんよう。=Chúc một ngày tốt lành.
 
@@ -75,7 +75,7 @@
 
 ほっ……なんとか挽回できましたね。\nというか、もしかして私、ちゃんと挨拶できるようになってきた……？=Phew... Tớ cuối cùng cũng kịp phục hồi. Hay là... có thể tớ đã giỏi lời chào hơn rồi...?
 
-女生徒１=Học sinh nữ 1
+女生徒１=Nữ Sinh 1
 
 …………………………ふふっ。\nふふっ、ふふふふふふっ……！=............Heheh. Heheh, heheheheh...!
 
@@ -85,15 +85,15 @@
 
 ランドソルに仮住まいを構えたことで、慣れてきたようですね！\nでは、挨拶に続く次のステップ、雑談に挑戦してみましょう！=Bằng cách an cư ở Landosol, dường như tôi đã quen hơn! Giờ thì, hãy chuyển sang chuyện khác ngoài lời chào và thử làm quen một chút!
 
-女生徒２=Học sinh nữ 2
+女生徒２=Nữ Sinh 2
 
 ごきげんよう、アオイ先生。=Chúc một ngày tốt lành, Aoi-sensei.
 
 ごきげんよう、ところでいい天気ですね、今日は晴れですが明後日からど\nうやら天気が崩れるそうです、いや天気が悪いと気分も上がらないですよ\nね、だからといって遅刻は厳禁ですよ、でも足元には注意してください。=Chúc một ngày tốt lành, nhân tiện, hôm nay trời đẹp, nhưng dường như sẽ thay đổi từ ngày kia. Này, thời tiết xấu có thể làm mất hứng, phải không? Nhưng điều đó không có nghĩa là cậu có thể đến trễ, và cũng phải cẩn thận nơi bước chân.
 
-女生徒３=Học sinh nữ 3
+女生徒３=Nữ Sinh 3
 
-えっと……？=Ưm...?
+えっと……？=Ừm...?
 
 そ、そうですね……？=Thôi thì... tôi nghĩ vậy...?
 
@@ -140,7 +140,7 @@
 
 久しぶりだね。=Lâu rồi không gặp.
 
-ひゃいいいっ！？=Á á á á!?
+ひゃいいいっ！？=Eeeek!?
 
 あっ、団長さんでしたか！　お久しぶりです！=Ồ, là cậu chứ, Đội trưởng! Lâu quá rồi không gặp!
 
@@ -176,7 +176,7 @@
 
 それでは！　全てはＢＢ団のためにっ！=Vậy thì! Mọi thứ đều vì lợi ích của Đội BB!
 
-……心配だ。=...Mình lo quá.
+……心配だ。=...Tôi lo lắng.
 
 ただいま～、っと。\n……なんて、私以外に誰もいませんから、\n返事が聞こえたらびっくりですけど。はははっ。=Về nhà rồi~ ...À, không có ai khác ở đây cả, nên tớ sẽ ngạc nhiên nếu nghe thấy tiếng trả lời. Ha ha ha.
 
@@ -302,7 +302,7 @@
 
 ご……\nごご、ごっ……ごきっ……！=Đi......đi đi\n đi......ực......!
 ご起立くださいーー！！=Đứng lên ngay bây giờ!!
-はい。=Dạ.
+はい。=Vâng.
 ああーっ！　今日もいきなり間違えてしまいましたー！\nごきげんよう、と麗しく発音しなければいけないところを、\nまるでぼっち卒業の所信表明会みたいな堅苦しさが出ちゃいました！=Ái chà! Hôm nay tớ lại lỗi rồi! Chúc một ngày tốt lành... ý tôi là, tôi nên phát âm thật đẹp, nhưng lại ra thành cứng nhắc, như một tuyên ngôn tốt nghiệp của một kẻ cô độc!
 
 ……いや、待ってください。いえ、誰に待ってもらうかはさておき。\n講座を始める挨拶なんだし、起立を促すのは間違ってないのでは……？\nだったら、この流れで……！=...Không, chờ đã. Vì đây là lời chào để bắt đầu bài giảng, chẳng phải nên khuyến khích mọi người đứng lên...? Trong trường hợp đó, hãy tiếp tục với dòng suy nghĩ này...!
@@ -325,7 +325,7 @@
 
 ごきげんよう、ところでいい天気ですね、今日は晴れですが明後日からど\nうやら天気が崩れるそうです、いや天気が悪いと気分も上がらないですよ\nね、だからといって遅刻は厳禁ですよ、でも足元には注意してください。=Chúc một ngày tốt lành, nhân tiện, hôm nay trời đẹp, nhưng dường như sẽ thay đổi từ ngày kia. Này, thời tiết xấu có thể làm mất hứng, phải không? Nhưng điều đó không có nghĩa là cậu có thể đến trễ, và cũng phải cẩn thận nơi bước chân.
 
-えっと……？=Ưm...?
+えっと……？=Ừm...?
 
 そ、そうですね……？=Thôi thì... tôi nghĩ vậy...?
 
@@ -367,7 +367,7 @@
 
 友達って……やっぱり遠い存在なんだなぁ……=Bạn bè... Dù sao thì họ vẫn còn xa cách mà...
 
-ひゃいいいっ！？=Á á á á!?
+ひゃいいいっ！？=Eeeek!?
 
 あっ、団長さんでしたか！　お久しぶりです！=Ồ, là cậu chứ, Đội trưởng! Lâu quá rồi không gặp!
 

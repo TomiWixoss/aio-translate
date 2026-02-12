@@ -48,7 +48,7 @@ r:"^現在、スキップチケットの消費枚数が\n(\d+)枚に設定され
 チケットを使って、ゲームをショートカット!=Dùng vé bỏ qua để tiết kiệm thời gian!
 クリアパーティ=Đội Trước Đây
 報酬=Phần Thưởng
-モンスター=Quái Vật
+モンスター=Quái vật
 獲得アイテム=Vật Phẩm Nhận Được
 フレンド以外のサポートキャラは、\nステータスが補正されている場合があります。=Nhân vật hỗ trợ bên ngoài Danh Bạn\ncó thể bị điều chỉnh chỉ số.
 設定できるサポートキャラがいません。=Không thể đặt nhân vật cho thuê.

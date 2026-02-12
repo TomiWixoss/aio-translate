@@ -34,7 +34,7 @@ Opening
 サツキ姉しゃまは、優ちい方でちた。\nユキノ姉しゃまとあたちが、話術で悩んでいた時のお話でしゅ……──=Đại Chị Satsuki là một người tốt bụng. Đây là câu chuyện khi Đại Chị Yukino và tôi đang vật lộn với cách chúng tôi giao tiếp...
 おしょれ入りやしゅ。手前、生国はジオ・ニヴルヘル、巨鯨城から南。\nしゃらに夜叉峠を越えて、触手と胞子は『深い庭』の出で御座いましゅ。\n名はルルィ。稼業、小姓。まだまだ未熟者でございましゅ。=Tôi hơi khác biệt một chút. Nơi sinh của tôi là ở Gio Nivlhel này, nhưng phía nam Lâu Đài Cá voi Khổng lồ. Sau khi vượt qua Đèo Yasha, các xúc tu và mực của tôi đã xuất hiện từ "Vườn Sâu". Tên tôi là Lului. Nghề nghiệp của tôi là làm trang. Dù tôi vẫn còn non nớt.
 あ、有難う御座んす……手前、ジオ・ニヴルヘル、北の外れの田舎者。\n久遠氷河は屠路滅亜の出で、ご、御座います……\n名はユキノ。稼業、三魔姫属です。よ、よろしくお願いします……=C-Cảm ơn rất nhiều... T-Tôi là người nông thôn từ phía bắc Gio Nivlhel này. T-Từ Đồi Băng Kuon... Tên tôi là Yukino. Tôi là thành viên của Ba Công Chúa Ma Quỷ. R-Rất vui được gặp...
-……なにやってんでぇ？=...Cậu đang làm gì vậy?
+……なにやってんでぇ？=...Cô đang làm gì vậy?
 サ、サツキちゃ……！？\nき、聞いでだ……？=S-Satsuki-chan...?! C-Cậu có đang nghe...?
 サ、サツキ姉しゃまみたいに、仁義を切る練習をしてたんでしゅ。\nどうでちたか……？=Ch-Chúng tôi đã luyện tập bài phát biểu trang trọng để giống như Đại Chị Satsuki. Cậu nghĩ sao...?
 手が逆だ。突き出すのは左じゃねェ。右だ。\n……何でまた仁義なんだ？=Tay cậu hoàn toàn sai. Không phải bên trái đưa ra. Là bên phải. ...Và tại sao cậu lại cố gắng trở nên trang trọng?
@@ -46,7 +46,7 @@ Opening
 「ぜ、全然ダメ…………」\n「じぇ、じぇんじぇんダメでしゅ…………」="T-Tôi không thể làm được chút nào..." "K-Không được..."
 へこたれんのが早ぇって。\nしゃきっとしな。=Cậu bỏ cuộc quá nhanh. Có chút can đảm đi.
 だ、だども。\n行き詰まっちゃって……=B-Nhưng... chúng tôi bí...
-ったく……=Chà chà...
+ったく……=Ôi trời...
 ……なら考え方を変えてみな。\n『目は口ほどに物を言う』っていうだろ。=...Vậy hãy thử thay đổi cách suy nghĩ của cậu. Như câu nói, "Ánh mắt cũng nói to như lời".
 しゃべりは何も口だけじゃあねェ。\n胸張って目合わすだけで、伝わるもんもある。=Nói chuyện không chỉ là tuôn ra những từ ngữ hoa mỹ. Một số điều có thể truyền tải chỉ bằng cách đứng thẳng và giao tiếp bằng ánh mắt.
 顔上げて、背筋伸ばして、胸張ってみな。\nまず、そっからだ。=Ngẩng cao đầu, thẳng lưng, và đẩy ngực ra. Hãy thử bắt đầu từ đó.
@@ -57,7 +57,7 @@ Opening
 は、はぅ……\nサツキちゃ、すっげ……=H-Hau... Satsuki-chan, cô thật tuyệt vời...
 しゅっごく勉強になりまちたね……！\n今なら、できる気がしてきまちた……=Cái đó thật giác ngộ...! Giờ tôi cảm thấy như mình có thể làm được...
 ええっと、胸を張って……\nう、うじゅっ。ぶぶっー……！=Để xem, tôi phải phồn ngực để đứng thẳng... S-Slurp. Bubububu...!
-うぉ！？=Ối!?
+うぉ！？=Ôi!?
 い、勢いあまって、墨が出ちゃいまちた……\nはっ、サツキ姉しゃま？=T-Tôi xúc động quá đến mực nước mực chảy ra... Hah, Chị Satsuki?
 サツキちゃ、真っ黒くろ……\nふふ……=Satsuki-chan, cô toàn đen thui... Hehe...
 おいルルィ……ユキノも。\n笑ってねェで、懐紙の一枚でも持ってきやがれ。=Này, Lului... Yukino, dừng cười và mang cho tôi vài tờ giấy ăn đi.
@@ -112,7 +112,7 @@ Player Prompts
 New Titlecards
 鬼族の族長=Thủ lĩnh bộ tộc Oni
 ユキノ・ルルィ=Yukino Lului
-参列者たち=Các cận thần
+参列者たち=Người Phục Vụ
 
 Chapter 1
 サツキの遺体を捜し、会場を右往左往する参列者たち。\nその中で、{playername}だけが、\n透けた姿のサツキと相対していた。=Những người tham dự hoảng loạn chạy khắp đại sảnh, tìm kiếm thi thể của Satsuki. Trong số họ, chỉ có {playername} đứng yên, đối mặt với hình bóng ma quái của Satsuki.
@@ -190,7 +190,7 @@ Chapter 1
 助かった。\nデュランたちを壁にして裏から逃げるぞ、ついて来な。=Thật là cứu tinh. Chúng ta sẽ dùng Duran và những người khác như một bức tường và trốn thoát từ phía sau. Theo tôi.
 き、騎士さ……！？\nま、待って～……=K-Kishi-sama?! W-Waaaaaaaaait...
 なっ！？\n首無し騎士よ、異界人を捕らえよ！=Cái gì...! Hiệp sĩ không đầu, bắt người ngoài thế giới kia!
-行っちまったな……=Họ đã đi mất...
+行っちまったな……=Chúng đi rồi...
 な、何が起きて──うっ！\n急いで駆けつけたせいで、腰がっ……=C-Chuyện gì đang xảy ra ở đây?! UGH! Tôi vội vã chạy đến, nhưng... LƯNGNG TÔI...!
 デュラ爺しゃん、大丈夫でしゅか！？\nあ、あたちのタコ足マッサージで……！=Ông già Duransh, ông ổn chứ?! T-Tớ sẽ cho ôngish một liệu pháp massage xúc tu mực...!
 んほおぉ……！\nタコ足が体のいたるところに……！　効くぅ……！=Nhooo...! Xúc tu mực đang ở khắp mọi nơi trên cơ thể tôi...! Nó đang có tác dụng...!
@@ -287,7 +287,7 @@ Chapter 2
 無駄な抵抗すんな！\nええか、異界人は逮捕や！=Đừng cố gắng chống cự vô ích! Các cậu nghe rõ chưa? Chúng tôi đang bắt giữ ngươi, dị giới.
 こ、このままじゃ、騎士さが……\nや、やるしかねぇ、今からあては、鬼族……=N-Nếu tiếp tục thế này, Kishi-sa sẽ... T-Tôi không còn lựa chọn nào khác. Tôi là một oni lúc này...
 ち、ちげぇ！\nそれは異界人でねえ、ゾンビだ！=K-Không, cậu hiểu nhầm! Đó không phải người ngoài, đó là zombie!
-はぁ……？=Hả...?
+はぁ……？=Hở...?
 ど、どー見てもゾンビだ！\n頭がぼっこれてる……！=K-Không nhìn thế nào cũng là zombie! Đầu bị nát...!
 か、噛まれると伝染る系のゾンビだ！\nここはあてに任せて、先に行け～……！=Đ-Đó là loại zombie lây nhiễm khi bị cắn! Để việc này cho tôi...! Các cậu nên đi trước điiii...
 いや、急に「先に行け」言われてもなあ……\nほんまにゾンビなんか？=Không, ngay cả khi cậu bảo tôi đi trước đột ngột... Đó thực sự là zombie sao?
@@ -324,7 +324,7 @@ Player Prompts
 ──って言ってます。僕ゾンビやります。=...Theo lời cô ấy nói. Tôi sẽ là một xác sống
 ……う、ううぅ～……=...U-Uuuu...
 力を使って、ユキノを強化する。=*Tôi dùng sức mạnh để tăng cường cho Yukino*
-ああぁ～……=Aaaaa...
+ああぁ～……=Aaaa...
 ユキノさんの迫力のおかげだよ。=Sức mạnh của cô vừa nãy thật kinh ngạc, Yukino
 
 New Titlecards
@@ -877,7 +877,7 @@ Finale
 どういう意味だ……=Ý ngài là sao...
 信用がなけりゃ、社会じゃ生きていけねェだろ。\n汚ねェマネしたなら、そのケジメはつけろ。=Không có lòng tin, ngài không thể sống sót trong thế giới này. Nếu ngài đã làm một trò bẩn thỉu, thì tốt hơn nên nhận lỗi.
 だが水に流そうにも、この辺りは川がねェからな。\n湿地帯まで移動は手を貸してやる……歯ぁ食いしばれ。=Nhưng vì ở đây không có con sông nào để rửa sạch tất cả, tôi sẽ giúp ngài đến vùng đầm phía kia thay vì vậy... Giờ, cắn chặt răng.
-へっ……=Ờ...?
+へっ……=Hả...?
 ケジメだ、おらぁ……！=ĐẾN LÚC CHỊU TRÁCH NHIỆM RỒI, ORAAAA...!
 どひーっ……！？=DOGYEEEEEeeehhh...!?
 ……軽い奴ぁ、よく飛ぶ。=...Một gã khá nhẹ nhàng. Bay xa thật.

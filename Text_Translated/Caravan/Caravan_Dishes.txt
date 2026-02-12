@@ -62,7 +62,7 @@ r:"^このターンに振るダイスの目が必ず「(\d+)」になる。$"=L�
 ユイの栄養満点まごころ弁当=Cơm Trưa Dinh Dưỡng Tràn Đầy Tấm Lòng của Yui
 リンのナッツ入りぐうたらあんパン=Anpan Lười Biếng Có Hạt của Rin
 シェフィの氷晶煌めく手作りアイス=Kem Tinh Thể Băng Tuyết Lấp Lánh Tự Tay Làm của Sheffy
-次に振るダイスの目が「1・2」のみになる\n代わりに、その場で福引券を3枚獲得する。=Lần này xúc xắc sẽ ra 1 hoặc 2.\nĐổi lại, bạn sẽ nhận ngay 3 vé số.
+次に振るダイスの目が「1・2」のみになる\n代わりに、その場で福引券を3枚獲得する。=Lần này bạn sẽ rút ra 1 hoặc 2. Đổi lại, nhận ngay 3 vé số.
 
 イリヤの†ブラッディ†トマトジュース=Nước Cà Chua Máu của Illya
 アリサがお届け♪リノセウスの包み焼き=Arisa giao hàng ♪ Tê giác bọc và nướng

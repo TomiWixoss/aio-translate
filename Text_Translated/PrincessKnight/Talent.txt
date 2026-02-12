@@ -9,8 +9,8 @@ r:"^珀天の深域(.{0,5})$"=Vực Bầu Trời Hổ Phách $1
 Deep Questへ=Đến Nhiệm Vụ Vực Sâu
 深域クエストへ=Đến Nhiệm Vụ Vực Sâu
 Talent Questへ=Đến Nhiệm Vụ Vực Sâu
-闇属性=Bóng Tối
-光属性=Ánh Sáng
+闇属性=Bóng tối
+光属性=Ánh sáng
 風属性=Gió
 水属性=Nước
 火属性=Lửa
@@ -18,7 +18,7 @@ sr:"^(.+)をクリアで解放されます。$"=Hoàn thành $1 để mở khóa
 
 カスタム設定=Cài đặt tùy chỉnh
 属性ボーナスがOFFに設定されています。=Phần thưởng nguyên tố được đặt thành tắt.
-属性ボーナス=Lợi Thế Nguyên Tố
+属性ボーナス=Thưởng nguyên tố
 属性弱点=Điểm Yếu Nguyên Tố
 
 火属性キャラ=Toàn Bộ Nhân Vật Lửa

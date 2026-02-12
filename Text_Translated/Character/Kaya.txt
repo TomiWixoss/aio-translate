@@ -10,7 +10,7 @@ r:"^敵単体に(\d+)の物理ダメージ初使用時、敵単体に(\d+)の物
 
 ##S1##
 ドラゴニックスマッシュ=Quyền Rồng Nghiền Nát
-目の前の敵１キャラに物理中ダメージを与える。=Gây sát thương vật lý vừa phải lên kẻ thù ngay phía trước.
+目の前の敵１キャラに物理中ダメージを与える。=Gây sát thương V.ATK vừa phải lên kẻ địch ngay phía trước.
 
 ##S2##
 ドラゴライズスタンス=Thế Đứng Rồng Hóa

@@ -17,7 +17,7 @@ r:"^バリアが展開されていない時、敵単体に(\d+)の魔法ダメ�
 r:"^自分と召喚体以外の残りＨＰの25％を消費味方全体の魔法攻撃力を(\d+)アップ(\d+)ダメージ分の物理魔法無効バリアを展開する自分の魔法攻撃力を(\d+)アップ自分のＴＰを100回復$"=►Tiêu thụ 25% HP của tất cả đồng minh khác.\n►Tăng M.ATK cho tất cả đồng minh lên $1 trong 12s.\n►Triển khai Rào cản lên tất cả đồng minh, chống lại $2 P/M.DMG trong 180s.\n►Tăng M.ATK của bản thân lên $3 trong 12s.\n►Hồi phục TP của bản thân thêm 100.
 
 ##EX##
-ラブ＆パニッシュメント=Love & Punishment
+ラブ＆パニッシュメント=Tình Yêu & Trừng Phạt
 ラブ＆パニッシュメント+=Love & Punishment+
 
 

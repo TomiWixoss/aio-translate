@@ -65,8 +65,8 @@
 [Omitted Kiri pause line - ]
 [Omitted player line – 僕に任せて。]
 へぇ、人捜しをしてるのかい？\n探偵さんにそっくりな女の子？\nいや、う～ん……悪いけど見てないねぇ。=Ồ, cậu đang tìm người?\nMột cô gái trông giống hệt thám tử?\nHả, không... Xin lỗi, tôi chưa thấy họ.
-そうだ探偵さん、驚かせちまったお詫びだ。\n串焼き一本、持っていきな！=À, phải rồi. Thám tử, để tôi xin lỗi vì đã làm cậu sợ,\nHãy lấy một que thịt nướng của tôi!
-『ありがとう、ございます』\n『……はむ』="Cảm ơn, xin lỗi nhé."\n"... *nhai*"
+そうだ探偵さん、驚かせちまったお詫びだ。\n串焼き一本、持っていきな！=À, phải rồi. Thám tử, như một lời xin lỗi vì đã làm cậu sợ,\nHãy lấy một que thịt nướng của tôi!
+『ありがとう、ございます』\n『……はむ』=”Cảm ơn, xin lỗi.”\n”... *cắn*”
 [Omitted Kiri line - ……♪]
 『すみません、先輩』\n『先程はお役に立てませんでした』="Xin lỗi, senpai."\n"Lần trước tôi không giúp được gì."
 『次は頑張ります』="Lần sau tôi sẽ cố gắng hơn."
@@ -75,7 +75,7 @@
 ほら！\nあそこの建物の上にいるの！\nあんな高いところ、どうしたら──=Nhìn kìa!\nNó ở trên tòa nhà kia!\nSao nó lại lên cao vậy..?
 『猫の体より重たいですけど』\n『これくらいなら簡単です』="Con này nặng hơn thân mèo,\nnhưng lượng này thì dễ thôi."
 えっ？　探偵さんっ！？=Hả? Thám tử!
-『にゃん』="Meow."
+『にゃん』=”Meow.”
 にゃあっ！？=Meow!?
 『犯人、確保しました』="Tội phạm đã bị khống chế."
 す、すごかったわね……\nまさか……猫みたいに四つ足で追いかけるなんて……=T-tuyệt vời...\nKhông thể tin... cậu đuổi theo nó bằng bốn chân, như một con mèo...!
@@ -105,7 +105,7 @@
 ハイタ～イ♪\nキミ～、どうかしたの～？=Này! ♪\nSao vậy?
 なんだか困った顔をしてるけど～\nそういう時は【自警団（カォン）】にお任せさ～♪=Cậu trông có vẻ đang bận tâm gì đó.\nLúc như vậy, cứ giao cho Caon! ～♪
 カスミちゃんを見なかった？=Cậu có thấy Kasumi không?
-ん～……？=Hả...?
+ん～……？=Ừm...?
 カスミならキミの隣にいるさ～？\nおかしなことを言うね～？=Cô ấy không đang ở ngay bên cạnh cậu ～？\nNói thế thật lạ nhỉ, phải không ～？
 [Omitted Kiri line - ……っ。]
 あれっ？\nカスミ、どうして隠れちゃうさ～？\n私さ～、カオリだよ～！=Hả?\nKasumi, sao cậu trốn ～？\nLà tôi ～, Kaori ～!

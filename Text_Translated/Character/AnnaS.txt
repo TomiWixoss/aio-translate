@@ -21,7 +21,7 @@ r:"^自分以外の味方全体の魔法攻撃力を初期値の90%ダウン自�
 
 ##S1+##
 羅刹涅槃・海獄泉+=Demonic Salvation: Sea Prison+
-目の前の敵１キャラに魔法大ダメージを与え、さらに魔法防御力を特大ダウンさせる。=Gây sát thương phép lớn lên kẻ địch phía trước và giảm phòng thủ phép của chúng rất nhiều.
+目の前の敵１キャラに魔法大ダメージを与え、さらに魔法防御力を特大ダウンさせる。=Gây sát thương phép lớn lên kẻ địch phía trước và giảm mạnh kháng phép của nó.
 
 ##UE##
 海魔獄滅縛鎖錨=Sea Demon Prison Chain Anchor

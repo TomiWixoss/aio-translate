@@ -9,7 +9,7 @@
 ──る！？=-tôi!?
 聞こえる！？\nねぇ！=Cô có nghe thấy tôi không!? Này!
 これは……声……？\n頭の中に、直接響いてくるみたいな……=Đây là... một giọng nói...?\nGiống như nó đang vang vọng ngay trong đầu mình...
-この、声は……=Giọng nói này là...
+この、声は……=Tiếng nói này...
 あたしの声、聞こえてるのね！？\nよかった～……=Cô có thể nghe thấy giọng nói của tôi, phải không!? Thật là một sự an ủi...
 まさか、ここまで影響が出ちゃうなんてね……\n声すら届かなくなるなんて、滅茶苦茶よ、もう。=Tôi không thể tin được nó có tác động nhiều như vậy...\nThật là phi lý khi ngay cả giọng nói của tôi cũng không thể đi qua.
 あの、あなたはもしかして……アメスさま、ですか？=Ưm, không biết cô có phải là...\nCông nương Ameth?
@@ -71,7 +71,7 @@
 ぺコリーヌちゃん？\nどうかしたの？=Pecorine-chan?\nSao vậy?
 ひゃああっ！？\nユ、ユイちゃん……いつの間に戻ってきたんですか！？=Hyaah!?\nY-Yui-chan... Khi nào bạn quay lại vậy!?
 え？　いつの間にって、わたしはずっとここにいたよ？\nぺコリーヌちゃんこそ、いつの間に……？=Hả? Khi nào...?\nTôi luôn ở đây. Còn bạn thì sao, khi nào bạn đến đây...?
-なるほど……そうなっちゃうんですか。=Ra vậy... Vậy là đã xảy ra chuyện đó.
+なるほど……そうなっちゃうんですか。=Ra vậy... Vậy là đã có chuyện đó.
 な、なんでもありませんっ！\nえへへ……☆=K-Không có gì đâu! He he... ☆
 ……わたしたち、これからどうしたらいいんでしょうか……=...Từ giờ chúng ta phải làm sao đây...?
 アメスの声によって、\n{playername}の身に起きている事態を知ったぺコリーヌたち。\nしかしどうしたらいいか分からず、夕暮れの教室で立ち尽くすのだった。=Hai người biết được chuyện gì đang xảy ra với {playername} qua giọng nói của Ameth. Họ rời khỏi lớp học buổi tối, không một manh mối về việc nên làm gì tiếp theo.

@@ -48,7 +48,7 @@ r:"^【仲間】出目が(\d)のダイスを同時に振ってどちらか選択
 【仲間】最大2000マイルを入手する=[Đồng minh] Nhận được tối đa 2.000 dặm
 
 画面の左右をクリックか左右の矢印キー移動できますよ！\nおジャマに当たると、少しの間、動けなくなるので要注意です！\n上手に避けて、フルーツをたくさん集めましょう！=Bạn có thể dùng phím mũi tên trái/phải hoặc giữ hai bên màn hình! Nếu bị đánh trúng, bạn sẽ bị choáng trong một lúc, vì vậy hãy cẩn thận! Né tránh tốt và thu thập thật nhiều trái cây!
-練習する=Thực hành
+練習する=Luyện Tập
 練習中=Đang thực hành
 
 r:"^\[3C404E\]ダイスの目を(\d)回振りなおせる\n\（あと\[D13250\](\d)\[-\]回\）\[-\]$"=[3C404E]Có thể lăn lại xúc xắc $1 lần ([D13250]thêm $2[-])

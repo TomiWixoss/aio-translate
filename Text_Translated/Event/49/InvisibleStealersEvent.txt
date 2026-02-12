@@ -86,7 +86,7 @@ Opening
 この会場にいる皆様は運がいい！\n世界にただ一つの宝石……\n『龍の卵』の、その能力の一端を見られるんだからな！=Mọi người ở đây đều may mắn! Các người sẽ được chứng kiến sức mạnh của một viên ngọc độc nhất vô nhị trên toàn thế giới... "Trứng Rồng"!
 あの宝石……\nきれいだけど、なんだか変な感じがする……=Viên ngọc đó... Đẹp thật, nhưng cũng thấy kỳ quặc...
 テメエ！　カジノ王だかなんだか知らねえが、\n金を返さねえってんならぶっ飛ばしてやるよ！　死ねぇっ！=Đồ khốn! Tôi không quan tâm ngươi là Vua Casino hay gì, nếu không trả tiền tôi lại, tôi sẽ đá đít ngươi! CHẾT ĐIỀU!
-フッ……=Heh...
+フッ……=Hừ...
 なっ！？　一体何が……！？=CÁI GÌ THẾ!? Chuyện quái gì đang xảy ra...!?
 この『龍の卵』には不思議な特性があってな。\nありとあらゆる攻撃を吸収することができるのさ。="Trứng Rồng" này có một tính chất bí ẩn, biết không... nó có thể hấp thụ mọi loại tấn công.
 そして、その吸収したエネルギーは！\n自由自在に放出することができる！　こんな風になぁ！=Hơn nữa... năng lượng đã hấp thụ! Nó có thể giải phóng tự do! NHƯ THẾ NÀY!
@@ -113,7 +113,7 @@ Player Prompts
 New Titlecards
 カジノ王=Vua Sòng Bạc
 手下=Tay sai
-用心棒=Vệ sĩ
+用心棒=Bodyguard
 
 Chapter 1
 無事にカジノのアルバイトの初日を終えた、その帰り道。\nアユミは顔を真っ赤にしながら、\n{playername}のそばを歩いていた。=Trên đường về nhà sau khi hoàn thành an toàn ngày đầu tiên làm việc ở sòng bạc, Ayumi bước cạnh {playername}, khuôn mặt đỏ bừng.
@@ -130,7 +130,7 @@ Chapter 1
 謝んなくていいって。\nそれより……キミたちに伝えたいことがあってさ。\nで、ここで待ってたんだ。=Cô không cần xin lỗi. Quan trọng hơn... có chuyện chúng tôi muốn nói với hai người. Đó là lý do chúng tôi đợi ở đây.
 私たちに伝えたいこと……？=Chuyện muốn nói với chúng tôi...?
 ああ。\n……二人とも、あそこのバイトはもう辞めた方がいい。=Ừ. ...Hai người nên nghỉ việc part-time đó. Càng sớm càng tốt.
-それって、どういう……=Ý anh là sao...?
+それって、どういう……=Ý em là gì vậy...?
 理由なんて、カタギが知る必要はないですよ。=Không cần cho người bình thường như các người biết.
 えっ、でも……=Hả? Nhưng...
 質問とかは受け付けねえです。\nギャングの忠告は、ちゃんと受け取っておくもんですよ！=Không hỏi. Khi một băng đảng cảnh báo bạn, bạn nên nghiêm túc với nó!
@@ -274,7 +274,7 @@ Chapter 2
 ……二人、と言ったが、\n昨日からバイトに入ってもらった彼しか見当たらないけど？=Hm... Anh nói "hai người này", nhưng... tôi chỉ thấy cậu bé đã làm việc với chúng tôi từ hôm qua.
 あ、あ……あの……\nわ、私も一応、ここにいます……=À, à... Ơ... T-Tôi cũng ở đây, thực ra...
 おっと。これは失礼。気付かなかったよ。で、どうしたんだい？\n今日はキミたちのシフトはなかったはずだけど。=Ồ, xin lỗi. Tôi không để ý đến cô. Vậy, có chuyện gì? Tôi nghĩ hai người không có ca làm việc hôm nay.
-その……えっと……=Ơ... Ơ...
+その……えっと……=K-Không...
 勇気出すですよ、アユアユ！=Cố lên, AyuAyu!
 えっと、そのぅ……\nわ、私たち、バイト、辞めたいんでしゅ！\n……か、噛んだけど、言えた！=Ơ, thì... H-Hai chúng tôi muốn nghỉ công việc! ...T-Tôi vấn lưỡi cuối câu, nhưng tôi đã nói được rồi!
 そうか。うん、わかった。\n残念だけど、無理強いはできないからね。\n一日だけだけど、一緒にお仕事できてよかったよ。お疲れさま。=Tôi hiểu. Được, tôi hiểu rồi. Thật đáng tiếc, nhưng tôi không thể ép cô ở lại. Chỉ một ngày thôi, nhưng tôi rất vui được làm việc cùng cô. Bảo trọng.
@@ -703,7 +703,7 @@ Chapter 4
 最速最強で決めるぜ！　くらいやがれ！=Người nhanh nhất và mạnh nhất sẽ quyết định trận đấu này! SẴN SÀNG ĐÓN NHẬN ĐÂY...!
 ──ドラゴンズエンドフィストォ！=QUYỀN ĐỒNG LONG KẾT THÚC!
 カウンターが、間に合わな……！=Phản đòn của tôi...! Tôi không thể thực hiện nó được...!
-はぁっ、はぁっ、はぁっ……=*Thở dốc thở dốc*...
+はぁっ、はぁっ、はぁっ……=*thở dốc*...
 ……やる……じゃねえか……=Anh... không tệ chút nào...
 ……ダチの期待は裏切れないからな。=Ừ... tôi không thể phản bội kỳ vọng của bạn bè.
 ふっ……そうか……\nありがとよ……満足、だ……=Heh... Ra vậy... Cảm ơn... Tôi hài lòng rồi...
@@ -887,7 +887,7 @@ Chapter 6
 魔力が急激に増大していっている……\n自らの生命エネルギー……寿命を『龍の卵』へと吸収させて、\nそれを魔力へと変換しているみたいだね。=Sức mạnh phép thuật của hắn đang tăng vọt... Có vẻ như điểm sống của chính hắn... tuổi thọ đang bị hút vào "Dragon Egg", và được chuyển hóa thành sức mạnh phép thuật.
 そんな使い方もあったなんて、知らなかったな。\n……イノリちゃん。このままだと、全滅だよ。=Ta không biết có cách sử dụng như vậy. ...Inori-chan. Cứ tiếp tục thế này, tất cả các cậu sẽ bị tiêu diệt!
 くううっ……！　ひ、ひとまず、アユアユ！　姿を隠すですよ！\nそして、様子を見て誰かがカヤぴぃを回収して、\nみんなで逃げる……！　それしかないです！=Ugh...! Đ-Đầu tiên, AyuAyu! Trốn đi! Rồi, khi chúng ta thấy cơ hội, ai đó bắt Kayapii và tất cả chúng ta chạy, cùng nhau! Đó là lựa chọn duy nhất!
-わ、分かった……！=Đ-Dược rồi...!
+わ、分かった……！=D-Dạ...!
 クックック……いい気分だぜ！\n力が湧き出してきやがる！！\nこれこそが『龍の卵』、本来の使い方だ！！=Ehehehe... Tôi cảm thấy tuyệt vời! Sức mạnh đang trào dâng bên trong tôi!! Đây mới là cách "Dragon Egg" nên được sử dụng!!
 アユミは再び姿を隠したようだが……\n今のオレにとっちゃあ関係ねえなあッ！=Có vẻ như Ayumi lại trốn đi rồi... Nhưng điều đó không quan trọng với ta lúc này!
 ……あいつ、コインなんて取り出して、\n何をしようとしてやがるですか！？=Tên đó... hắn rút ra một đồng xu, hắn đang tính toán gì vậy?!
@@ -923,7 +923,7 @@ Chapter 6
 ハハハハハッ！　当カジノからコインのプレゼントだッ！\nありがたく受け取りやがれッ！=Hahahaha! Đây là món quà đồng xu từ sòng bạc của chúng ta! Hãy nhận nó với lòng biết ơn!
 ぐううっ……！？=Ugh...!?
 アユミ！　なぜこんなことになっているか、わかるか！\n貴様に力がないからだッ！=AYUMI! Cô có biết tại sao điều này xảy ra với cô ấy không? BỞI VÌ CÔ THIẾU MỌI LOẠI SỨC MẠNH!
-あ……ああ……=Á... Á...
+あ……ああ……=À... À...
 私は……私は、無力だ……\nただ、見ていることしかできないなんて……=Tôi... Tôi bất lực... Tất cả những gì tôi có thể làm là đứng nhìn...
 いつだってそうだ……私はいつも、見ているだけ……\nいつも……その場に居合わせているだけ……=Lúc nào cũng vậy... Tôi lúc nào cũng chỉ đứng nhìn... Tôi lúc nào... cũng chỉ đứng đó...
 私はモブだから……何もできない……=Tôi là một nhân vật phụ... nên chẳng thể làm được gì...
@@ -984,7 +984,7 @@ Player Prompts
 Cutscene
 ぅぅううぉぉおお！！=UUUUOOOOOAAAAHHHH!!!
 だりゃああああああああああっ！！=DORYAAAAAAAAAH!
-ぐうっ！！=Guuu!!
+ぐうっ！！=Gaaa!!
 イノリ……=Inori...
 覚醒したのか=Cô đã thức tỉnh
 なるほど=Ồ, tôi hiểu rồi
@@ -993,7 +993,7 @@ Cutscene
 イノリちゃん！=Inori-chan!
 なめんじゃねーですよ！=Đừng coi thường TAO!
 ははは！=Hahaha!
-感謝するぜ！=Cảm ơn cậu rất nhiều!
+感謝するぜ！=Cảm ơn cô rất nhiều!
 ここんとこ刺激に飢えてたとこだ！=Dạo này tôi đã chết đói vì thiếu kích thích rồi!
 もっとオレを楽しませろ！=Cứ tiếp tục cho tôi thêm niềm vui đi!
 黙りやがれですよっ=Im đi đi!
@@ -1004,7 +1004,7 @@ Cutscene
 私にできることは……=Tất cả những gì tôi có thể làm là...
 おいおいもうへばったか？=Này, này... đừng bảo là cậu đã hết sức rồi chứ?
 ま、まだまだですよ=T-Tôi vẫn còn nhiều lắm
-そうかい=Vậy sao?
+そうかい=Vậy ư?
 あたしのとっておき見せてやるですよ！=Tôi sẽ cho cậu xem tôi có gì!
 面白い=Thú vị...!
 来い！=CỨ ĐÁNH ĐI!
@@ -1015,7 +1015,7 @@ Cutscene
 貴様どうやって……！=Mày khốn... khi nào thì!?
 怪盗ですから=BỞI VÌ TAO LÀ MỘT THIẾU NỮ TRUYỀN THUYẾT!
 どこへ行きゃがったあ！=MÀY ĐÃ ĐI ĐÂU?!
-（くっ……）=(Ugh...)
+（くっ……）=(Ục...)
 （下手に攻撃すりゃ『龍の卵』に吸収されかねねぇ……！）=(Nếu tôi tấn công bừa bãi, nó có thể bị hấp thụ vào "Trứng Rồng"...!)
 （やはり一番危険なのはアイツだったか）=(Vậy thì cô ấy mới là người nguy hiểm nhất sau tất cả)
 どこ探してやがるですか？=Đang nhìn chỗ nào thế?
@@ -1024,7 +1024,7 @@ Cutscene
 ぐおおおおおおおお……=GUOOOOOOHHHHHHHH...
 ハァハァ……=*thở dốc*...
 や、やったですか？=C-Chúng ta làm được chứ?
-う、うん=Ừ-Ừ!
+う、うん=D-Dạ!
 私たちやったんだよ！=Chúng ta thực sự làm được rồi!
 
 Ending

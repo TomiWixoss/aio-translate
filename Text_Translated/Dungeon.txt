@@ -1,5 +1,5 @@
 帰還する=Quay lại
-現在の階数=Tiến độ
+現在の階数=Tiến Độ
 プレイヤー名=Tên người chơi
 対戦相手=Đối thủ
 戦闘可能キャラ=Nhân vật khả dụng
@@ -77,7 +77,7 @@ r:"^([0-9/]+)階( EX)?$"=$1F$2
 スペシャルダンジョン=Dungeon Đặc biệt
 まだ挑戦できません。=Chưa thể thử thách.
 全体マップ=Toàn Bản đồ
-登頂回数=Tiến độ
+登頂回数=Tiến Độ
 累計踏破階数=T. Tầng
 イベント情報=Thông tin sự kiện
 プレイ状況=Trạng thái chơi

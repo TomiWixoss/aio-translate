@@ -1,5 +1,5 @@
-男性１=Male 1
-男性２=Male 2
+男性１=Nam 1
+男性２=Nam 2
 秘書１号=Secretary No. 1
 海の水は抜かれた。海底にひしめく秘密魔物を持ち主に返却し、浄化が進められる。だが、返却者には秘密の内容が分かってしまうという難点が。秘密を知られた者たちは一様に動揺し、秘密返却パニックとなる。=Nước biển đã được thoát bớt. Những quái vật bí mật từng ùn ụt dưới đáy biển đang được trả về cho chủ nhân của chúng, và quá trình thanh lọc đang tiến triển. Tuy nhiên, nhược điểm là người trả lại chúng sẽ biết nội dung của bí mật. Những người đã bị lộ bí mật đều đang hoảng loạn.
 無事に復活を果たしたデンジャラス・オクトパスの活躍で、\n海の水はものすごい勢いで抜かれていった。=Nhờ việc sửa chữa thành công Con Bạch Tuộc Nguy Hiểm, nước biển nhanh chóng được rút cạn.
@@ -16,7 +16,7 @@
 ……あれ。びくともしない。=...Hả. Nó chẳng hề động đậy.
 ええいっ！！=Eeei!!
 加勢します！=Tôi sẽ hỗ trợ cậu!
-僕も！=Tôi nữa!
+僕も！=Em cũng vậy!
 ──はぁっ！=──Haa!
 ──！？\n攻撃が、まったく効いていない！？=──!? Các đòn tấn công của chúng ta hoàn toàn vô hiệu!?
 私たちの攻撃はさておき、\nネネカさんの力もはねのけるなんて……そんな魔物いるかしら？=Bỏ qua các đòn tấn công của chúng ta, chúng thậm chí còn đẩy lùi sức mạnh của Neneka-san... Chúng thực sự tồn tại sao?
@@ -99,7 +99,7 @@
 ……絶対に、ですか？=...Cô chắc chứ?
 ええ。\n墓場まで、なんなら来世までもっていきますわ。=Vâng. Đến mồ mả, hay thậm chí kiếp sau.
 来世では忘れてほしいですけど～！\nでも、そう言うなら……じゃあ、アキノさんに……=Hy vọng cô quên nó ở kiếp sau! Nhưng nếu cô nói vậy... thì, Akino-san...
-承知いたしました。=Đã hiểu.
+承知いたしました。=Hiểu rồi.
 では、私からお返ししますわね。\n誰にも見えないように、と……=Vậy, tôi sẽ trả nó lại cho cô. Để không ai nhìn thấy được...
 ──ちょっと、待ってください！！=-Khoan đã!!
 すみません、私……\nこのかたになら知られてもいい、けど、\nこのかたにだけは知られたくない……そう言いました。=Xin lỗi, ý tôi là... tôi không ngại nếu hắn biết, nhưng tôi không muốn chỉ mình hắn biết...
@@ -150,7 +150,7 @@
 悩み……ですか。\nん～、ないことはないですが……=Khiến tôi lo lắng...? Hừm, tôi có vài chuyện, nhưng...
 でも、遠慮しておきます。\nマコトちゃんが、あ、親友が、いつも相談にのってくれるから。\n人には言いにくいことも、なんでも、聞いてくれて。=Nhưng, tôi từ chối. Makoto-chan, à, bạn thân của tôi, luôn lắng nghe những vấn đề của tôi. Cô ấy lắng nghe tất cả, kể cả những chuyện khó nói với người khác.
 あ～……なるほど……\n人に言えないことも……=À... tôi hiểu rồi... Ngay cả những chuyện cô không thể nói với người khác...
-はい。\nお互いに、なんでも話せる大親友なんです♪=Vâng. Chúng tôi là bạn thân có thể nói về mọi thứ♪
+はい。\nお互いに、なんでも話せる大親友なんです♪=Vâng. Chúng tôi là bạn thân có thể nói về mọi chuyện♪
 ………………うん、そっか！=............Ừ, tôi hiểu rồi!
 ごめん引き留め大失敗！\nこれ以上は無理よ～！=Xin lỗi vì giữ cô ở đây! Thất bại lớn! Tôi không thể làm thêm được nữa~!
 これまで、ですか……！=Vậy là... thế thôi ư...?
@@ -168,7 +168,7 @@
 こ、これはその……「告白ゲーム」ってやつよ。\nゲームにのっかって告白しちゃおう、みたいなこと、らしいわ……\nべっ、別に、アンタとやろうだなんて思ってないんだからね！？=Đ-đây là... một trò "thú tâm sự". Là trò chơi thú tâm sự với ai đó như một trò đùa. T-tôi không muốn chơi trò này với cậu hay bất cứ điều gì!
 こ、これは……\n「巨大・マトリョーシカ型たい焼き器」の試作品にゃ。\nインパクトあるたい焼きが作りたくて、発注したにゃ……=Đ-đây là... một mẫu "máy làm bánh taiyaki hình lò xo Nga" cỡ lớn. Tôi muốn làm vài chiếc taiyaki gây ấn tượng, nên đã đặt hàng...
 でもよく考えたらマトリョーシカ型って、\nたい焼き器として構造的に破綻してて……\n高かったのに、失敗作にゃ。見つかったらアキノに叱られると思って……=Nhưng khi nghĩ kỹ hơn, hình dáng lò xo Nga không hợp với máy làm bánh taiyaki chút nào... Nó đắt tiền và kết quả là một thất bại. Tôi nghĩ Akino sẽ mắng tôi nếu cô ấy biết...
-これは……大量の麦しゅわの空き瓶！？\nみんな用心して！　この辺に恐ろしいウワバミが潜んでるわ！\n………………ごめんなさい私です……=Đây là... một đống chai lọ rỗng của soda lúa mạch!? Mọi người cẩn thận! Có một con quái vật tham ăn đáng sợ đang ẩn náu quanh đây!\n............Xin lỗi, là tôi...
+これは……大量の麦しゅわの空き瓶！？\nみんな用心して！　この辺に恐ろしいウワバミが潜んでるわ！\n………………ごめんなさい私です……=Đây là... nhiều chai bia mạch nha trống!? Mọi người cẩn thận! Có một kẻ thèm ăn đáng sợ ẩn quanh đây!\n............Xin lỗi đó là tôi...
 密廃サービスって聞いてなんとなくよぎったんだけど……\nまさか自分が利用したあれだったとは……=Tôi nghe nói về Dịch Vụ Tiêu Hủy Bí Mật và có một ý nghĩa mơ hồ... Nhưng tôi không nghĩ đó chính là thứ tôi đã dùng...
 はっ……恥ずかしい……！=À... Thật xấu hổ...!
 秘密ブツの返却は、\n波乱とパニックを引き起こしながらも、なんとかかんとか続けられた──=Sự trả về các vật phẩm bí mật tiếp tục với một chút hỗn loạn và hoảng loạn──

@@ -11,7 +11,7 @@
 逃れられない愛=An Inescapable Love
 
 エリコの愛情テスト=Eriko's Test Of Affection
-本物の想い=True Feelings
+本物の想い=Cảm Xúc Thật Sự
 壊し屋の錬金術=The Destroyer's Alchemy
 最高の誕生日プレゼント=The Best Birthday Present
 狂気的な彼女=Crazy Lady
@@ -25,7 +25,7 @@
 r:"^敵単体に(\d+)の物理ダメージとどめを刺した時、自分の物理攻撃力を(\d+)アップ$"=►Gây $1 sát thương vật lý lên một kẻ địch.\n►Tăng P.ATK của bản thân lên $2 khi đánh bại một kẻ địch.
 
 ##S1##
-オブセッション=Obsession
+オブセッション=Ám Ảnh
 自分の物理攻撃力を小アップさせる。=Tăng nhỏ P.ATK của bản thân.
 
 ##S2##

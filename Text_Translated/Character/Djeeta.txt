@@ -11,19 +11,19 @@
 
 とっておきの場所=Một Nơi Đặc Biệt
 秘めたる力=Sức Mạnh Tiềm Ẩn
-団長の悩み=Nỗi Lo Của Một Người Lãnh Đạo
+団長の悩み=Nỗi Lo Của Người Lãnh Đạo
 噂の騎空団=Đội Ngũ Được Đồn Đại
 空を越えて来た少女=Cô Gái Từ Phía Bầu Trời
 仲間のいる喜び=Niềm Vui Của Tình Đồng Đội
 黄昏の空に思いを馳せて=Ký Ức Về Bầu Trời Hoàng Hôn
-騎空士見習いの少女=Người Phi Hành Non Nớt
+騎空士見習いの少女=Phi Hành Gia Tân Binh
 
 ##UB##
 テンペストブレード=Tempest Blade
 
 ##S1##
 ワイドブレード=Wide Blade
-目の前の敵１キャラに物理中ダメージを与える。=Gây sát thương vật lý vừa lên kẻ địch phía trước trực tiếp.
+目の前の敵１キャラに物理中ダメージを与える。=Gây sát thương V.ATK vừa phải lên kẻ địch ngay phía trước.
 
 ##S2##
 ウェポンバースト=Weapon Burst

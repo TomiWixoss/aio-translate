@@ -1,6 +1,6 @@
 ---Arena---
 
-リプレイ=Phát Lại
+リプレイ=Xem lại
 マイパーティ保存=Lưu Đội
 ダメージレポート=Báo Cáo Sát Thương
 r:"^(\d+)/時間$"=$1/giờ
@@ -8,9 +8,9 @@ r:"^(\d+)日前$"=$1 ngày trước
 r:"^(\d+)時間前$"=$1 giờ trước
 r:"^(\d+)分前$"=$1 phút trước
 チャット=Trò Chuyện
-更新まで=Còn Lại
+更新まで=Còn lại
 対戦相手を\n選択してください。=Chọn một đối thủ.
-総戦力=Sức Mạnh
+総戦力=Sức mạnh
 プレイヤーLv=Cấp Người Chơi
 受取可能な報酬=Có Thể Nhận
 タイム報酬=Phần Thưởng Thời Gian
@@ -28,7 +28,7 @@ r:"^(\d+)分前$"=$1 phút trước
 r:"^グループ (\d+)$"=Nhóm $1
 所属グループ=Thành Viên Nhóm
 r:"^パーティ(\d+)$"=Đội $1
-r:"^プリセット(\d+)$"=Preset $1
+r:"^プリセット(\d+)$"=Cài Đặt Sẵn $1
 対戦相手のパーティ1=Đối thủ Đội 1
 対戦相手のパーティ2=Đối thủ Đội 2
 対戦相手のパーティ3=Đối thủ Đội 3
@@ -82,8 +82,8 @@ r:"^\[3B3F4D\]ランキングが\[-\]\[FFBB00\,CE4F00\](\d+)\[-\]\[3B3F4D\]位�
 [FF7C4E,D62146]メッセージは必須ではありません。[-]=[FF7C4E,D62146]Tin nhắn không bắt buộc.[-]
 ※80文字以下=※Ít hơn 80 ký tự
 バトルログをクランチャットに投稿しますか？=Bạn có muốn đăng bản ghi trận đấu lên Clan chat không?
-投稿する=Bài đăng
-バトルログ投稿確認=Xác nhận bài đăng trận đấu
+投稿する=Đăng
+バトルログ投稿確認=Xác nhận đăng nhật ký trận đấu
 
 [3C404E]現在対戦中です。\nしばらくお待ちください。[-]=[3C404E]Hiện đang trong một trận đấu.\nVui lòng chờ một chút.[-]
 [3C404E]現在他のプレイヤーと対戦中です。\nしばらくしてから再度挑戦するか、別の対戦相手を\n探してください。[-]=[3C404E]Hiện đang trong một trận đấu với người chơi khác.\nThử lại sau một lúc hoặc tìm đối thủ khác.[-]

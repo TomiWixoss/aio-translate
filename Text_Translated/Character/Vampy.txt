@@ -40,7 +40,7 @@ r:"^敵単体に(\d+)の魔法ダメージ敵単体のＴＰを75失わせる自
 ##SP1##
 このスキルのスキルレベルは「エターナル・フレンドシップ」と連動しています=Cấp độ kỹ năng này được liên kết với "Eternal Friendship"
 スカーレット・リンク=Scarlet Link
-目の前の敵１キャラに魔法大ダメージを与え、さらに魔法防御力を大ダウンさせる。=Gây sát thương phép thuật lớn lên kẻ địch phía trước và giảm mạnh M.DEF của chúng.
+目の前の敵１キャラに魔法大ダメージを与え、さらに魔法防御力を大ダウンさせる。=Gây sát thương phép lớn lên kẻ địch phía trước và giảm mạnh kháng phép của nó.
 ## Share with NKuuka UB
 
 ##SP2##

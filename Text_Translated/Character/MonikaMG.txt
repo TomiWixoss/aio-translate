@@ -25,4 +25,4 @@ r:"^敵単体に(\d+)の物理ダメージ味方単体のＨＰを(\d+)回復$"=
 r:"^範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理クリティカルを(\d+)アップ$"=►Tăng P.ATK của đồng minh trong phạm vi lên $1.\n►Tăng tỷ lệ P.CRIT của đồng minh trong phạm vi lên $2.
 
 ##UE##
-マジカルラブリーソード=Magical Lovely Sword
+マジカルラブリーソード=Kiếm ma thuật đáng yêu

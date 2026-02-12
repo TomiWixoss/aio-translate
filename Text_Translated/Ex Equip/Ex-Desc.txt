@@ -390,7 +390,7 @@ The apron
 アイアンシールド=Khiên Sắt
 オーソドックスな性能の大盾。値段と使い勝手の良さから、幅広い冒険者の間で長く愛用されている。=Một tấm khiên lớn với hiệu năng chính thống. Nhờ giá cả và dễ sử dụng, nó đã được sử dụng lâu dài trong số một loạt các mạo hiểm giả.
 
-クリティカルリング=Nhẫn Chí Mạng
+クリティカルリング=Critical Ring
 施された魔法によって、正確な攻撃を可能にする指輪。その性質から弓兵たちに重宝されている。=Một chiếc nhẫn cho phép tấn công chính xác nhờ ma thuật được áp dụng. Do bản chất của nó, nó hữu ích cho các tay cung.
 
 パールドレス=Váy Ngọc Trai
@@ -442,7 +442,7 @@ The apron
 マジカルドレス=Trang Phục Ma Thuật
 装備した者の魔力を高めることに重点を置いたドレス。あしらわれた宝石によって魔法が強化され、より強力な一撃を放つことができる。=Một chiếc váy tập trung vào tăng cường ma thuật của người trang bị. Ma thuật được tăng cường bởi viên ngọc đã được xử lý, và có thể giải phóng một cú đánh mạnh hơn.
 
-パワーリング=Nhẫn Sức Mạnh
+パワーリング=Power Ring
 施された魔法によって、筋力を強化できる指輪。戦士のために作られた装備だが、力仕事に勤しむ市民からも需要がある。=Một chiếc nhẫn có thể tăng cường sức mạnh cơ bắp nhờ ma thuật áp dụng. Mặc dù là trang bị được chế tạo cho chiến binh, nhưng cũng có nhu cầu từ người dân làm công việc vất vả.
 
 ファングイヤリング=Hoa Tai Nanh Thú

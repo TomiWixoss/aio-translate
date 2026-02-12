@@ -1,5 +1,5 @@
 ラウンド=Vòng
-進行度=Chặng
+進行度=Giai đoạn
 未達成ラウンド=Các vòng chưa hoàn thành
 未達成のラウンドがありません。=Không có vòng nào chưa hoàn thành.
 バトル効果=Hiệu ứng chiến đấu

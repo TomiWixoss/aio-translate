@@ -1,5 +1,5 @@
 ##Profile##
-拳で語る喧嘩屋ドラゴン少女=Một cô gái rồng đấm bộc bạch nói bằng nắm đấm
+拳で語る喧嘩屋ドラゴン少女=Một cô gái rồng đấu sĩ nói bằng nắm đấm
 
 【物理】前衛で範囲攻撃が得意な口達者のドラゴン娘。ユニオンバーストで範囲内の敵をまとめて吹き飛ばし、陣形を乱したところで、敵を一気に焼き尽くす。=[Vật lý] Một cô gái rồng ăn nói lịch sự chuyên về các đòn tấn công tầm xa ở mặt trận. Cô ấy thổi bay kẻ thù trong phạm vi với UB của mình, thiêu rụi tất cả kẻ thù trong một lần khi đội hình bị xáo trộn.
 
@@ -14,9 +14,9 @@ r:"^範囲内の敵に(\d+)の物理ダメージ(\d+)ダメージを与える火
 
 ##S2##
 ドラゴンファイア=Lửa Rồng
-前方範囲内の敵すべてに物理中ダメージを与える。=Gây sát thương vật lý vừa phải lên kẻ thù trong phạm vi.
+前方範囲内の敵すべてに物理中ダメージを与える。=Gây sát thương vật lý vừa phải lên kẻ địch trong phạm vi.
 ## Blame Cygames for invisible space symbol
-前方範囲内の敵すべてに物理中ダメージを与える。=Gây sát thương vật lý vừa phải lên kẻ thù trong phạm vi.
+前方範囲内の敵すべてに物理中ダメージを与える。=Gây sát thương vật lý vừa phải lên kẻ địch trong phạm vi.
 
 ##EX##
 やってやるですよ=Tôi Sẽ Làm

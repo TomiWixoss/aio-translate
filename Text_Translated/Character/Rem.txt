@@ -28,7 +28,7 @@ r:"^範囲内の行動不能の敵すべてに(\d+)の物理ダメージ範囲�
 ##S1+##
 エル・ヒューマ+=El Huma+
 目の前の敵１キャラを中心とした範囲内の敵すべてに物理中ダメージを与え、さらに凍結させる。=Gây sát thương vật lý vừa phải cho kẻ địch trong phạm vi, và gây hiệu ứng Đóng băng.
-r:"^範囲内の敵すべてに(\d+)の物理ダメージ範囲内の敵を一定時間行動不能にする$"=►Gây $1 sát thương vật lý cho kẻ địch trong phạm vi.\n►Làm kẻ địch trong phạm vi bất động trong một khoảng thời gian.
+r:"^範囲内の敵すべてに(\d+)の物理ダメージ範囲内の敵を一定時間行動不能にする$"=►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi.\n►Làm kẻ địch trong phạm vi bất động trong một khoảng thời gian.
 
 ##UE##
 レムの髪飾り=Rem's Hair Ornament

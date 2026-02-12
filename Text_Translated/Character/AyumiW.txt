@@ -13,8 +13,8 @@ r:"^敵全体の行動速度を一定時間低下させる敵全体の物理攻�
 
 ##S2##
 クロックエンド=Kết Thúc Đồng Hồ
-最も物理攻撃力が高い敵１キャラの行動時間を停止させる。=Gây Dừng Thời Gian lên kẻ địch có sát thương thể chất cao nhất.
-r:"^敵単体を一定時間行動不能にする$"=►Gây Dừng Thời Gian lên kẻ địch trong 1.75s.
+最も物理攻撃力が高い敵１キャラの行動時間を停止させる。=Áp dụng Dừng Thời lên kẻ địch có sát thương vật lý cao nhất.
+r:"^敵単体を一定時間行動不能にする$"=►Áp dụng Dừng Thời lên kẻ địch trong 1.75s.
 
 ##EX##
 ラビットソウル=Hồn Thỏ

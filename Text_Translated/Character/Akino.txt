@@ -21,10 +21,10 @@ r:"^敵単体に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理ダメ
 r:"^毎秒ＨＰを(\d+)回復するフィールドを展開する$"=►Tạo một vùng hiệu ứng phục hồi HP đồng đội $1/giây trong 8s.
 
 ##EX## 
-フレイムソウル=Burning Soul
-フレイムソウル+=Burning Soul+
+フレイムソウル=Lin Hồn Cháy Bỏng
+フレイムソウル+=Lin Hồn Cháy Bỏng+
 バトル開始時に自分の物理攻撃力を中アップさせる。=Tăng vừa phải tấn công vật lý của bản thân khi bắt đầu trận đấu.
-r:"^自分の物理攻撃力を(\d+)アップ$"=►Tăng P.ATK của bản thân lên $1.
+r:"^自分の物理攻撃力を(\d+)アップ$"=►Boosts own P.ATK by $1.
 バトル開始時に自分の物理攻撃力を中アップさせ、さらに自分の物理防御力を小アップさせる。=Tăng vừa phải tấn công vật lý của bản thân khi bắt đầu trận đấu.\nTăng nhỏ phòng thủ vật lý của bản thân khi bắt đầu trận đấu.
 r:"^自分の物理攻撃力を(\d+)アップ自分の物理防御力を(\d+)アップ$"=►Tăng P.ATK của bản thân lên $1.\n►Tăng P.DEF của bản thân lên $2.
 

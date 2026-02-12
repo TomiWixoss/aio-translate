@@ -7,12 +7,12 @@
 空花大回転=Half flower large rotation
 体が刺激を求めています=Cơ thể muốn được kích thích
 クウカ、変態の時=Phần thưởng tối thượng của Kuuka
-ないとダメなんです…=Một sự nghiện nguy hiểm
-大衆の目にさらされて=Khuynh hướng phô trương
+ないとダメなんです…=Một Nghịch Tử Nguy Hiểm
+大衆の目にさらされて=Khuynh Hướng Khoe Mình
 クウカの処女作！？=Sự ra mắt lớn của Kuuka?!
-クウカの秘密の花園=Vườn bí mật
+クウカの秘密の花園=Vườn Của Bí Mật
 まずはおつきあいから=Giration Blues
-遭遇！妄想爆発少女=Mộng tưởng hoang dã!
+遭遇！妄想爆発少女=Giấc Mơ Phóng Khoáng!
 
 ##UB##
 エクスタシートリップ=Cơn điên cuồng của khoái cảm
@@ -27,14 +27,14 @@ r:"^敵全体を挑発する自分の物理防御力を(\d+)アップ$"=►Khiê
 ##S2##
 激しいの歓迎ですう！=Tôi thích thô bạo!
 自分の魔法防御力を大アップする。=Tăng vừa phải M.DEF của bản thân.
-r:"^自分の魔法防御力を(\d+)アップ$"=►Tăng $1 M.DEF của bản thân.
+r:"^自分の魔法防御力を(\d+)アップ$"=►Tăng M.DEF của bản thân bằng $1.
 
 ##EX##
 妄想プロテクション=Được che chở bởi ảo tưởng
 妄想プロテクション+=Được che chở bởi ảo tưởng+
-バトル開始時に自分の魔法防御力を大アップさせる。=Tăng lớn M.DEF của bản thân ở đầu trận.
-バトル開始時に自分の魔法防御力を中アップさせる。=Tăng vừa phải M.DEF của bản thân ở đầu trận.
-r:"^自分の魔法防御力を(\d+)アップ$"=►Tăng $1 M.DEF của bản thân.
+バトル開始時に自分の魔法防御力を大アップさせる。=Tăng phòng thủ ma thuật lớn cho bản thân khi bắt đầu trận đấu.
+バトル開始時に自分の魔法防御力を中アップさせる。=Tăng M.DEF của bản thân một lượng vừa phải ở đầu trận.
+r:"^自分の魔法防御力を(\d+)アップ$"=►Tăng M.DEF của bản thân bằng $1.
 
 ##UB+##
 エクスタシートランス=Trance của khoái cảm

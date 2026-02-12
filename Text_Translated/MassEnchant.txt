@@ -9,7 +9,7 @@
 
 おまかせ強化条件=Điều Kiện Tự Động Nâng Cấp
 キャラLv/スキルLv強化=Cấp Nhân Vật/Cấp Kỹ Năng
-装備を装着=Trang Bị
+装備を装着=Trang bị
 原鉱を消費=Sử dụng Quặng
 装備Lv強化=Tinh Chế
 ランクアップ条件=Điều Kiện Thăng Hạng
@@ -21,7 +21,7 @@
 おまかせ強化対象キャラ=Nhân vật cần nâng cấp
 まとめておまかせ強化確認=Xác nhận Phép thuật
 
-最大強化=Tối đa
+最大強化=Tối Đa
 未装備スロットに装備=Trang bị vào\nô trống
 キャラLvとスキルLv強化=Cấp nhân vật và cấp kỹ năng
 装備を最大強化=Tối đa độ tinh luyện trang bị

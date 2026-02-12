@@ -4,14 +4,14 @@
 「おともだち」を探すこと=Tìm kiếm "bạn bè"
 おともだちを探す死霊術師の少女=Một cô gái thuật sĩ gọi hồn đang tìm kiếm một người bạn
 
-おともだちになってよ！=Come On My Adventure
+おともだちになってよ！=Đi Thôi, Cùng Ta Vào Cuộc Phiêu Lưu
 かくれんぼ=Hide and Seek
-サンドイッチ=Sandwich
+サンドイッチ=Bánh Mì Kẹp
 夢とデート=Dreams Date
-罪のありか=The Weight of Sin
-さみしさを、約束と=Loneliness and a Promise
-それは命と死の母=Family in Life and Death
-心を込めて=With All Your Heart
+罪のありか=Trọng Tâm Của Tội Lỗi
+さみしさを、約束と=Sự Cô Đơn và Một Lời Hứa
+それは命と死の母=Gia đình trong sinh tử
+心を込めて=Toàn tâm toàn ý
 
 ##UB##
 ファントムハウル=Phantom Howl
@@ -33,7 +33,7 @@ r:"^味方単体に(\d+)の魔法ダメージ味方単体のＴＰを(\d+)回復
 r:"^おともだちが２人以上いない時敵単体に(\d+)の魔法ダメージおともだちが２人以上いる時敵単体に(\d+)の魔法ダメージおともだちが２人以上いる時おともだちを２人減らす$"=Nếu số bạn < 2:\n►Gây $1 sát thương phép lên kẻ địch.\n\nNếu số bạn ≥ 2:\n►Gây $2 sát thương phép lên kẻ địch.\n►Mất 2 bạn.
 
 ##SP1##
-ルナのおともだちになってくれる？=Come On My Adventure
+ルナのおともだちになってくれる？=Đi Thôi, Cùng Ta Vào Cuộc Phiêu Lưu
 ルナがダメージを与える度に、おともだちが１つ増えるようになる。=Khiến Luna nhận thêm 1 bạn mỗi khi cô gây sát thương lên mục tiêu.
 
 ##EX##

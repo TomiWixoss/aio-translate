@@ -1,7 +1,7 @@
 【美食殿】vs三魔姫属=Gourmets vs Ba Công Chúa Quỷ
 「「「「チェンジ！　プリンセスフォーム！」」」」="THAY ĐỔI! PRINCESS FORM!!!!"
 ──フレイヤが待つとも知らず、独り巨鯨城へ向かったヴァイオレット。\n彼女を助けるために急ぐ{playername}たちの前に、\n三魔姫属のリーザ・ユキノ・サツキが立ちはだかる。=...Không hay biết Freya đang đợi mình ở đó, Violet lặng lẽ rời đi một mình hướng về Lâu Đài Cá voi Khổng lồ. Khi {playername} và bạn bè vội vàng đi cứu, họ đã đối mặt với Ba Công Chúa Ma Quỷ Lisa, Yukino và Satsuki.
-──ふんっ！=Hừ!
+──ふんっ！=Hmph!
 っ……！\nなんという力……！=...! Sức mạnh...!
 ……ヘェ。\nンな細っせぇ腕で、俺の棒っ切れを受けるたァな。=...Ồ. Chị bắt được gậy của tôi... bằng cánh tay mảnh mai như vậy sao.
 細腕はそちらも同じ。\nであるなら……\n主さまの庇護を受けるわたくしに、負ける理由はございません……！=Cánh tay của chị không khác gì của tôi. Và nếu là vậy... Tôi, người được Chúa tôi ban phước, KHÔNG THỂ THUA Ở ĐÂY...!
@@ -45,7 +45,7 @@
 たのもーう。\n…………=Về nhà rồiiii. Hm......
 奇麗なところですね。\nまるで、おとぎ話に出てくる海の中のお城みたいです。\nでも……=Một nơi đẹp đẽ. Giống như một lâu đài dưới biển trong truyện cổ tích. Nhưng...
 キャルちゃんたち。\n大丈夫でしょうか……=Tôi không thể không lo lắng liệu Kyaru-chan và những người khác có ổn không...
-……はい、{playername}くん。=...Đúng vậy, {playername}-kun.
+……はい、{playername}くん。=...Cậu nói đúng, {playername}-kun.
 騎士氏、ペコリーヌ姫……警戒を。\nルルィの言う通り、城に人気がありません。\nこれは……=Kishi-shi, Princess Pecorine... Cẩn thận. Như Lului nói, lâu đài dường như bỏ hoang. Điều này...
 ！\n{playername}くん！　危ない！=...! {playername}-kun! Cẩn thận!
 女に庇われるとは。\n情けない騎士もあったものだな。=Được một người phụ nữ bảo vệ. Và còn dám tự xưng là Kỵ sĩ.
@@ -128,7 +128,7 @@
 おや？\n姫を迎えに行くと言って、城を後にしたきりですが。\n入れ違いになってしまったのでしょうか？=Ồ? Họ ra đi nói rằng họ sẽ đi đón Nữ thư và quay lại. Các người đã lạc nhau sao?
 一度は、顔を合わせましたわ。\nでも、その……口論になってしまって。=Chúng tôi đã gặp mặt một lần. Nhưng, ừm... cuối cùng chúng tôi đã cãi nhau.
 特に、わたくしが勝手に異世界へと旅立ってしまったことで\nとても怒っているようだから。\nきちんと謝罪をしたかったのだけれど……=Đặc biệt là về việc tôi đã rời khỏi lâu đài và đi đến một thế giới khác mà không hỏi bất kỳ ai trong số họ. Họ rất tức giận. Tôi muốn xin lỗi thích đáng, nhưng...
-姫……=Nữ thư...
+姫……=Công Chúa...
 ……無礼を承知で、申し上げますが。\n王たるもの、やすやすと頭を下げるような振る舞いをしてはなりませぬ。\nだからリーザめらは、姫のことを軽んじるのです。=...Tôi biết điều này có thể thô lỗ, nhưng với tư cách là một người cai trị, cô không nên cư xử theo cách khiến cô dễ dàng cúi đầu. Chính vì vậy mà Lisa và những cô gái đó coi thường cô, Nữ thư.
 姫が王家の装備を掌握し、霊炎の壁を越え。\nこのジオ・ニヴルヘルの中心である『黒曜宮』をも治めるようになれば\nむしろ彼女たちから頭を垂れ、恭順の意を示すようになりましょう。=Nữ thư, nếu cô có thể thể hiện sự thành thạo với trang bị hoàng gia và vượt qua Tường Lửa Linh Hồn. Nếu cô có thể cai trị chính Cung Đen, trung tâm của Gio Niflell, thì bất kỳ ai cũng sẽ cúi đầu trước cô và tuân theo mọi mệnh lệnh của cô.
 ……ですが。\nわたくしは、そのような関係は……=...Nhưng ngay cả vậy. Đó không phải loại mối quan hệ tôi muốn...
@@ -220,7 +220,7 @@
 シェフィがミネルヴァと融合してたエリスの端末で……\n最初に空から落ちてきたとき{playername}とぶつかって、\nそんときに力に目覚めたってのが可能性としちゃ一番だったわよね。=Sheffy đã được Eris sử dụng như một đầu nối khi cô ấy kết hợp với Minerva... Kịch bản có khả năng cao nhất là khi cô ấy lần đầu rơi từ trên trời, cô ấy đã va đầu vào {playername}, và lúc đó sức mạnh của anh ấy đã thức tỉnh, tôi đoán vậy.
 そ、そんな切っ掛けだったんですか？=Đ-Đó là cái gì đó?
 で。コロ助のさっきの疑問だけど……\n変身させられる人数に、実は限度があったとかかもね。\nシェフィのやつは、最初から人数に入ってたとかで。=Vậy, nếu tôi cố gắng trả lời câu hỏi của Korosuke vừa nãy... Có thể thực ra có giới hạn về số người có thể biến hình. Có thể Sheffy đã nằm trong số đó vì cô ấy đã va đầu với anh ấy.
-ふむ……？=Hmm...?
+ふむ……？=Ừm...?
 そうなんですか？\nシェフィちゃん。=Vậy sao, Sheffy-chan?
 ど、どうかしら。\n自分じゃちょっと、わからないわ。=T-Tôi tự hỏi về điều đó. Tôi không có cách nào tự xác nhận nó.
 えっと……でも、それじゃあ。\nわたしたちは……=Um... Nhưng vậy, còn chúng tôi...
@@ -329,7 +329,7 @@
 あるよ。=Chúng có
 ナレーション=Lời truyện
 ……ッ！=...Mm!
-……むう。=...Hmm.
+……むう。=...Hừm.
 っ……！=...!
 キャル、コッコロ、シェフィと三魔姫属、一進一退の攻防が続く。キャル\nとコッコロが身を挺して隙を作り、ドラゴン族の覚醒とプリンセスフォー\nムを同時発動したシェフィが必殺技を叩き込むのだった。=Cal, Kokkoro, Sheffy và các thành viên khác của Ba Công Chúa Quỷ tiếp tục cuộc đấu tranh qua lại. Cal và Koccoro dùng thân thể tạo khe hở, và khi cả người rồn thức tỉnh và Hình Thái Công Chúa kích hoạt cùng lúc, cô tung ra đòn đặc biệt.
 ……ありがとうございます。=...Cảm ơn rất nhiều.
@@ -459,13 +459,13 @@
 違います！=Không phải vậy!
 剣を振り回さないでください！=Xin đừng vung kiếm một cách liều lĩnh!
 ……この人、糸で操られてる……！？=...Anh ta đang bị điều khiển bằng sợi chỉ...!?
-民衆=Người
-うわっ！？=Ôi chao!?
+民衆=People
+うわっ！？=Ôi!?
 剣が……！=Thanh kiếm của tôi...!
 糸が、消えてる……=Sợi chỉ đã biến mất...
 ……そうだ、ヴァイオレットさん！=...Đúng vậy, Violet!
 先に行きます！=Tôi sẽ đi trước!
-そこにいるんですか？=VIOLET?! Cô có ở đó không?!
+そこにいるんですか？=VIOLET?! Cô có đó không?!
 はっ、はっ……！=Hah, hah...!
 息まいたところで、その程度=Nếu cô đang cố gắng lấy lại hơi thở, thì được thôi
 ならば──これでっ=Trong lúc đó--với cái này...
@@ -583,7 +583,7 @@
 『あー、あー\n緊急ですまない局長、バッド・ニュースだ。\n現実認識レベル2以下の元プレイヤーたちに、異常が発生している──』="À, xin lỗi vì cuộc gọi khẩn cấp, thủ trưởng, nhưng chúng tôi có một TIN TỨC XẤU. Một bất thường đang xảy ra ở những cựu người chơi có mức độ nhận thức thực tế dưới 2."
 待て、グルーヌイ。\n変貌大妃が耳をそばだてている。=Khoan đã, Grenouille. Metamorph Regnant có thể nghe thấy cô.
 今そちらに戻る、続きはその後だ。\n──行くぞ、狂真咲捜査官。=Tôi sẽ trở lại với cô ngay. Chúng ta sẽ tiếp tục sau đó. ...Đi thôi, Đặc vụ Kuramazaki.
-はっ……=Hừ...
+はっ……=Hah...
 ……現士実似々花さん。\nまた、すぐに──=...Utsushimi Neneka-san. Hẹn gặp lại sớm thôi~
 またすぐに来て、私と雑談でもしたいと？\nはぁ……=Cô đi rồi và đưa ra những lời hứa suông để quay lại nói chuyện với tôi? Hừ...
 お断りです。\n確かにさっきは退屈だと言いましたが──\nただの犬が来ても、話し相手にすらなりません。=Tôi từ chối một cách tôn trọng. Tôi đã nói tôi chán trước đó, nhưng... Nếu một con chó chỉ có xích đến sủa tôi, tôi sẽ không chút nào quan tâm.
@@ -645,7 +645,7 @@
 ペコさんは、そんなことしない。=Peco-san sẽ không bao giờ làm vậy
 助っ人？=Người giúp đỡ...?
 中年男性=Đàn ông trung niên
-売人=Người bán
+売人=Dealer
 希留也=Kiruya
 僕も……！=Tôi cũng...!
 ……ペコさん、大丈夫？=...Cô ổn chứ, Peco-san?

@@ -7,10 +7,10 @@ const BATCH_SIZE = 50;
 const PARALLEL_BATCHES = 10;
 const MAX_RETRIES = 3; // Sau 3 lần retry sẽ gọi API mới
 const RETRY_DELAY = 2000;
-const PROGRESS_FILE = 'translation-progress-pricone.json';
-const INPUT_FILE = 'merged_translations.xml';
-const OUTPUT_FILE = 'merged_translations_vi.xml';
-const TEMP_DIR = 'temp-batches-pricone';
+const PROGRESS_FILE = 'translation-progress-new-content.json';
+const INPUT_FILE = 'new_content_to_translate.xml';
+const OUTPUT_FILE = 'new_content_translated_vi.xml';
+const TEMP_DIR = 'temp-batches-new-content';
 
 // Tạo thư mục temp
 if (!fs.existsSync(TEMP_DIR)) {
@@ -297,125 +297,47 @@ async function main() {
     const runningPromises = new Set();
     const completedBatches = new Set(progress.completedBatches);
     
-    // Chế độ thông minh: Tự động chuyển sang phụ giúp khi còn < 10 batch
-    {
-        // Chế độ bình thường: Chạy PARALLEL_BATCHES batch khác nhau
-        let currentIndex = 0;
-        const activeBatches = new Map(); // Track các batch đang xử lý
+    // Chạy đơn giản: PARALLEL_BATCHES batch song song
+    let currentIndex = 0;
+    
+    async function processNextBatch() {
+        if (currentIndex >= pendingBatches.length) return;
         
-        async function processNextBatch() {
-            if (currentIndex >= pendingBatches.length) return;
-            
-            const batchIndex = pendingBatches[currentIndex];
-            currentIndex++;
-            
-            // Nếu batch này đã hoàn thành (do duplicate request), bỏ qua
-            if (completedBatches.has(batchIndex)) {
-                if (currentIndex < pendingBatches.length) {
-                    const promise = processNextBatch();
-                    runningPromises.add(promise);
-                    promise.finally(() => runningPromises.delete(promise));
-                }
-                return;
-            }
-            
-            console.log(`⚡ Batch ${batchIndex + 1}/${totalBatches}`);
-            
-            // Đánh dấu batch đang xử lý
-            if (!activeBatches.has(batchIndex)) {
-                activeBatches.set(batchIndex, 1);
-            } else {
-                activeBatches.set(batchIndex, activeBatches.get(batchIndex) + 1);
-            }
-            
-            const result = await translateBatch(entries, batchIndex, 0, null, 0, completedBatches);
-            
-            // Xóa khỏi danh sách đang xử lý
-            const count = activeBatches.get(batchIndex) - 1;
-            if (count <= 0) {
-                activeBatches.delete(batchIndex);
-            } else {
-                activeBatches.set(batchIndex, count);
-            }
-            
-            // Đánh dấu batch đã hoàn thành
-            if (!result.alreadyCompleted && !completedBatches.has(result.batchIndex)) {
-                completedBatches.add(result.batchIndex);
-                progress.completedBatches.push(result.batchIndex);
-                saveProgress(progress);
-                
-                console.log(`✅ Batch ${result.batchIndex + 1} → temp-batches/batch-${String(result.batchIndex).padStart(6, '0')}.xml`);
-            }
-            
-            // Kiểm tra còn bao nhiêu batch chưa xử lý
-            const remainingBatches = pendingBatches.length - completedBatches.size;
-            
+        const batchIndex = pendingBatches[currentIndex];
+        currentIndex++;
+        
+        // Nếu batch này đã hoàn thành, bỏ qua
+        if (completedBatches.has(batchIndex)) {
             if (currentIndex < pendingBatches.length) {
-                // Còn batch mới chưa bắt đầu
-                const promise = processNextBatch();
-                runningPromises.add(promise);
-                promise.finally(() => runningPromises.delete(promise));
-            } else if (remainingBatches > 0 && remainingBatches < PARALLEL_BATCHES) {
-                // Hết batch mới, nhưng còn < 10 batch đang xử lý → Phụ giúp
-                const activeBatchList = Array.from(activeBatches.keys()).filter(b => !completedBatches.has(b));
-                if (activeBatchList.length > 0) {
-                    // Chọn batch đang xử lý ít worker nhất
-                    const targetBatch = activeBatchList.reduce((min, b) => 
-                        activeBatches.get(b) < activeBatches.get(min) ? b : min
-                    );
-                    
-                    console.log(`🔥 Worker rảnh → Phụ Batch ${targetBatch + 1} (${activeBatches.get(targetBatch)} workers)`);
-                    
-                    const promise = (async () => {
-                        if (!activeBatches.has(targetBatch)) {
-                            activeBatches.set(targetBatch, 1);
-                        } else {
-                            activeBatches.set(targetBatch, activeBatches.get(targetBatch) + 1);
-                        }
-                        
-                        const result = await translateBatch(entries, targetBatch, 0, null, 0, completedBatches);
-                        
-                        const count = activeBatches.get(targetBatch) - 1;
-                        if (count <= 0) {
-                            activeBatches.delete(targetBatch);
-                        } else {
-                            activeBatches.set(targetBatch, count);
-                        }
-                        
-                        if (!result.alreadyCompleted && !completedBatches.has(result.batchIndex)) {
-                            completedBatches.add(result.batchIndex);
-                            progress.completedBatches.push(result.batchIndex);
-                            saveProgress(progress);
-                            
-                            console.log(`✅ Batch ${result.batchIndex + 1} → temp-batches/batch-${String(result.batchIndex).padStart(6, '0')}.xml`);
-                        }
-                        
-                        // Tiếp tục phụ giúp nếu còn batch
-                        const remaining = pendingBatches.length - completedBatches.size;
-                        if (remaining > 0 && remaining < PARALLEL_BATCHES) {
-                            const stillActive = Array.from(activeBatches.keys()).filter(b => !completedBatches.has(b));
-                            if (stillActive.length > 0) {
-                                const nextTarget = stillActive.reduce((min, b) => 
-                                    activeBatches.get(b) < activeBatches.get(min) ? b : min
-                                );
-                                const p = processNextBatch();
-                                runningPromises.add(p);
-                                p.finally(() => runningPromises.delete(p));
-                            }
-                        }
-                    })();
-                    
-                    runningPromises.add(promise);
-                    promise.finally(() => runningPromises.delete(promise));
-                }
+                return processNextBatch();
             }
+            return;
         }
         
-        for (let i = 0; i < Math.min(PARALLEL_BATCHES, pendingBatches.length); i++) {
-            const promise = processNextBatch();
-            runningPromises.add(promise);
-            promise.finally(() => runningPromises.delete(promise));
+        console.log(`⚡ Batch ${batchIndex + 1}/${totalBatches}`);
+        
+        const result = await translateBatch(entries, batchIndex, 0, null, 0, completedBatches);
+        
+        // Đánh dấu batch đã hoàn thành
+        if (!result.alreadyCompleted && !completedBatches.has(result.batchIndex)) {
+            completedBatches.add(result.batchIndex);
+            progress.completedBatches.push(result.batchIndex);
+            saveProgress(progress);
+            
+            console.log(`✅ Batch ${result.batchIndex + 1} → temp-batches-new-content/batch-${String(result.batchIndex).padStart(6, '0')}.xml`);
         }
+        
+        // Xử lý batch tiếp theo
+        if (currentIndex < pendingBatches.length) {
+            return processNextBatch();
+        }
+    }
+    
+    // Khởi động PARALLEL_BATCHES workers
+    for (let i = 0; i < Math.min(PARALLEL_BATCHES, pendingBatches.length); i++) {
+        const promise = processNextBatch();
+        runningPromises.add(promise);
+        promise.finally(() => runningPromises.delete(promise));
     }
     
     // Chờ xong

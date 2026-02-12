@@ -10,21 +10,21 @@ r:"^(\d+)階$"=F$1
 クエスト達成数=Nhiệm Vụ
 IDコピー=Sao Chép ID
 自己紹介=Mở Đầu
-所属クラン=Guild
+所属クラン=Bang hội
 sr:"^(\d{4})年(\d+月)合計スコア$"=Tổng Điểm $2, $1
 sr:"^(\d{4})年(\d+月)$"=$2, $1
 プレイヤー名を変更しました。=Tên người chơi đã được thay đổi.
 
 全キャラ戦力=Tổng Sức Mạnh
-プロフ作成=Hồ Sơ
+プロフ作成=Hồ sơ
 進行状況=Tiến Độ
 作成日=Bắt Đầu Vào
-キャラ変更=Thay Đổi
+キャラ変更=Thay đổi
 ランキング=Bảng Xếp Hạng
 
 お気に入り設定=Đặt Yêu Thích
 お気に入りキャラ=Nhân Vật Yêu Thích
-差を表示する=Hiển Thị
+差を表示する=Hiển thị
 sr:"^(\d+月)(\d{1,2})日$"=$1 $2
 ---Profile Card---
 保存=Lưu

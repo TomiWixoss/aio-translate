@@ -1,5 +1,5 @@
 
-ナレーション=Lời dẫn
+ナレーション=Lời truyện
 ミロク=Miroc
 テンタパス=Tentapus
 ファントムバロン=Phantom Baron
@@ -89,10 +89,10 @@ sr:"^(.+)ダウン(\d+)秒$"=$1 giảm: $2s
 sr:"^(.+)アップ(\d+)秒$"=$1 tăng: $2s
 r:"^「スタン(\d+)秒」$"=Choáng $1s
 r:"^スタン(\d+)秒$"=Choáng $1s
-物理攻撃=P.ATK
-物理防御=P.DEF
-魔法攻撃=M.ATK
-魔法防御=M.DEF
+物理攻撃=Tấn công vật lý
+物理防御=Phòng thủ vật lý
+魔法攻撃=Tấn công ma thuật
+魔法防御=Phòng thủ ma thuật
 
 完全討伐報酬について=Về Phần thưởng Đánh bại Hoàn toàn
 ボスを完全討伐すると、\n参加者全員が以下の報酬を獲得できます。=Bằng cách đánh bại hoàn toàn boss, tất cả người tham gia có thể nhận được các phần thưởng sau.
@@ -105,9 +105,9 @@ r:"^スタン(\d+)秒$"=Choáng $1s
 難易度変更=Độ khó
 
 発生中のバーストはありません。=Không có burst xảy ra lúc này
-発生中のバーストダウン=Burst down
+発生中のバーストダウン=Giảm Burst
 難易度=Độ khó
-発生中のバーストエンド=Burst end
+発生中のバーストエンド=Kết thúc Burst
 敵=kẻ địch
 味方=đồng đội
 アドバンス=Ưu thế
@@ -123,7 +123,7 @@ r:"^スタン(\d+)秒$"=Choáng $1s
 
 sr:"^バトル開始から(\d+)秒間、(.+)の(.+)が(.+)$"=Trong $1s kể từ đầu trận, $3 của $2 là $4.
 sr:"^(.+)のバースト効果確認$"=Hiệu ứng Burst của $1
-残り有効時間=Thời gian duy trì
+残り有効時間=Thời Gian
 バーストエンド=Kết thúc Burst
 バーストダウン=Giảm Burst
 同時発生上限数=Giới hạn ngăn xếp

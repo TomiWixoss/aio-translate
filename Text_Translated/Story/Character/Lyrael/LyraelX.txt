@@ -33,7 +33,7 @@
 残念ですが、恐らく……\nまさか、ここまで被害が広がっているとは……=Thật không may, có vẻ như có khả năng...\nNghĩ rằng thiệt hại đã lan rộng đến mức này...
 しかし、このパーティーは、\n二カ国間の連携を深めるためにも、必ず成功させなければなりません。=Tuy nhiên, chúng ta phải đảm bảo thành công của buổi tiệc này\nđể làm sâu sắc kết nối giữa hai quốc gia.
 ローズメンはわたしが眠らせて対処します。\nパーティーは、二人で切り抜けましょう……！=Tôi sẽ khiến Rosamen ngủ để xử lý vấn đề.\nChúng ta sẽ vượt qua buổi tiệc cùng nhau...!
-分かりました……！=Đã rõ!
+分かりました……！=Hiểu rồi!
 はい、解散解散。\nクリスマス会は終りょ──=Vâng, mọi người, thời gian để giải tán.\nBuổi tụ họp Giáng sinh kết thúc—
 クリスマスの悪魔の力、フローエ・ヴァイナハテン……！=Sức mạnh của quỷ Giáng sinh, Flowe Weihnachten...!
 ふにゃ……\nすぅ……すぅ……=Nya...\nngủ gật... ngủ gật...
@@ -252,7 +252,7 @@
 クリスマスイブの夜。\nライラエルの宿泊先で、彼女と一緒に\n過ごすことになった{playername}。=Đêm Giáng sinh V eve,\n{playername} đang dành thời gian\ncùng Lyrael tại nơi ở của cô.
 騎士、どうぞ座ってください。\nあっ、今、お茶を用意しますね……！={playername}, mời ngồi đi.\nÀ, để em pha trà...!
 ええっと、ポットでお湯を沸かして……\nお茶は、確かこのあたりに……=Ưm, em sẽ đun nước trong ấm và...\nTrà chắc ở đây này...
-手伝います。=Để em giúp.
+手伝います。=Tôi sẽ giúp.
 騎士、ありがとうございます。\nですが、結構ですよ。あなたはゆっくり休んでいてください。=Cảm ơn, {playername}.\nNhưng được rồi. Mời ngồi nghỉ ngơi một chút đi.
 ええっと……\nたしか、お菓子は……=Ờ, đồ ngọt thì, để xem...
 あぁ……自分で誘っておきながら、\nわたしは何を動揺しているのでしょうか……=Ôi trời... chính em mời cậu ấy,\nthế mà tại sao em lại bối rối thế này...
@@ -327,7 +327,7 @@
 ふむ、心というものは不思議だにゃ……\n無益な時間を何用にも彩ってしまう……=Hmm, trái tim là một bí ẩn, nya...\nNó tô màu cả những lúc rảnh rỗi theo nhiều cách...
 最後に問う。\n心は何のためにあると、お前は慮る？=Một câu hỏi cuối cùng.\nTheo anh, trái tim là để làm gì?
 みんなとおいしいご飯を食べるため。=Để ăn những bữa ăn ngon với mọi người.
-……どういう意味だ？=...Anh muốn nói gì?
+……どういう意味だ？=...Ý cô là sao?
 一緒に食べると、よりおいしくなるから。=Vì ăn cùng nhau sẽ ngon hơn.
 ……仲間と共に、\nより美味な食事を味わうために、心はあるというのか？=...Để thưởng thức những bữa ăn ngon hơn với bạn bè,\nđó là mục đích của trái tim sao?
 ふむ……まさに、お前らしい答えだ。\nその地に足のついた回答、気に入った。=Hmm... cũng giống phong cách của anh khi trả lời thế.\nTôi thích phản ứng thiết thực của anh.
@@ -372,7 +372,7 @@
 クリスマス視察を終え、ジオ・テオゴニアへ帰国したライラエル。\n彼女の思い出の地を巡るため、{playername}も同行していた。=Theo sau cuộc kiểm tra Giáng sinh, Lyrael trở về Gio-Teogonia.\n{playername} đi cùng cô ấy để tham quan những nơi đáng nhớ.
 ──ジオ・テオゴニアに帰ってきました……！\nやはり、慣れた場所は落ち着きますね。=──Chúng ta đã trở về Gio-Teogonia...!\nNhư mong đợi, những nơi quen thuộc khiến lòng thư thái.
 今日はもうお疲れでしょうから、騎士も城でお休みください。\n思い出の地を巡るのは、明日にしましょう。=Ngươi chắc đã mệt rồi hôm nay, nên hãy nghỉ ngơi ở lâu đài đi, hiệp sĩ.\nNgày mai chúng ta sẽ tham quan những nơi đáng nhớ.
-分かりました。=Được rồi.
+分かりました。=Hiểu rồi.
 では、城に向かいましょ──=Hãy tiến về phía lâu đài──
 ライラエルさま、その姿は……！？\nどうしたんですか……！？=Lyrael-sama, bộ dạng đó...!?\nChuyện gì vậy...?
 まるで悪魔みたいです……！\nクリスマスって、怖いお祭りなんですか……！？=Ngươi trông giống như một quỷ...!\nLễ Giáng sinh có phải là lễ hội đáng sợ không...?
@@ -452,7 +452,7 @@
 ナベを囲んで、まさに家族団らん。\nわたしたち、ラブラブな夫婦らしくなってきたのではないでしょうか？=Quây quần bên nồi lẩu, giống như một gia đình hạnh phúc.\nChúng ta đã trở thành một cặp đôi rất mặn nồng rồi, phải không?
 そう思う。=Tớ nghĩ vậy.
 ふふ。そうですよね、そうですよね。\nあなたも、そう思いますか♪=Ha ha. Đúng rồi, đúng rồi.\nCậu cũng nghĩ vậy♪
-そうは思わない。=Tớ không nghĩ vậy.
+そうは思わない。=Tôi không nghĩ vậy.
 では今度は、わたしに、\n『あ～ん』してください。あ・な・た♪=Vậy thì lần sau, hãy nói\n"A~..." với tớ. Người iu của tớ♪
 まぁ、ひどい……\nどうやら、まだ『あ～ん』したりないようですね。=Ôi trời, thật tàn nhẫn...\nCó vẻ tôi chưa được đủ mức "A~..." đây.
 夫婦らしくなれるまで、\nお腹いっぱい『あーん』して、イチャイチャしてあげますから。\n覚悟してくださいね？=Cho đến khi chúng ta trở thành một cặp vợ chồng,\nTôi sẽ đảm bảo cho cậu được "A~..." thỏa thích, nên hãy chuẩn bị tinh thần đi.

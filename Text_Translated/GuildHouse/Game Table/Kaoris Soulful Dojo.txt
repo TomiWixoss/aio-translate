@@ -6,11 +6,11 @@
 ---Tips---
 戦いに備えて、カオリさまとイメージトレーニングをいたしましょう。\n左右から押し寄せる魔物をクリックか左右キーで撃退してくださいまし。\n色違いの魔物は、尻尾の炎の数だけ攻撃する必要がございます。=Hãy cùng Kaori tập luyện để chuẩn bị cho trận chiến!\nNhấp vào quái vật đến từ trái và phải, hoặc sử dụng các mũi tên Left← và Right→ để đẩy lùi chúng. Quái vật có màu khác nhau cần bị tấn công nhiều lần tương ứng với số ngọn lửa trên đuôi của chúng.
 足もとが光っている魔物を倒すと、フィーバーゲージが上昇します。\nゲージが最大まで溜まるとフィーバーモードが発動しますよ。\n時間の許す限り連打して、魔物たちを一網打尽にいたしましょう。=Đánh bại đối thủ có ánh sáng lấp ló bên dưới sẽ làm tăng Thanh Fever của bạn. Khi Thanh đạt tối đa, Chế độ Fever sẽ kích hoạt! Hãy tiếp tục đánh chúng càng nhiều càng tốt trong thời gian này!
-合計スコアに応じて、報酬を獲得することができます。\nどの難易度でトレーニングをしてもスコアは共通ですので\nご自分に合った難易度をお選びください。=Bạn sẽ nhận được phần thưởng dựa trên tổng điểm của mình.\nĐiểm tích lũy qua tất cả các độ khó, vì vậy hãy thoải mái chọn độ khó phù hợp nhất với bạn!
+合計スコアに応じて、報酬を獲得することができます。\nどの難易度でトレーニングをしてもスコアは共通ですので\nご自分に合った難易度をお選びください。=Bạn sẽ nhận phần thưởng dựa trên tổng điểm.\nĐiểm tích lũy qua mọi độ khó, vì vậy hãy tự do chọn độ khó phù hợp nhất với bạn!
 
 ---Result screen---
 ハイスコア=Điểm cao
-撃破数=Đã đánh bại
+撃破数=Đã bị đánh bại
 過去最高スコア=Điểm Cao
 撃破スコア=Điểm Đánh bại
 匹=X
@@ -54,7 +54,7 @@
 え、出てこない～？\n集中力が足りないさ～、もっと強くイメージするさ～！=Hả? Cậu không thấy chúng sao?\nCó vẻ cậu thiếu tập trung.\nCậu cần phải cố gắng hơn!
 難しい？　う～ん、仕方ないさ～！\nじゃあ、そこで応援しててほしいさ～！=Quá khó? Hừm, không thể giúp được thì thôi!\nCổ vũ cho tôi trong khi tôi cho cậu xem!
 {playername}の応援だけは、\nイメージじゃ満足できないからね～♪=Có vẻ {playername} không thể hài lòng chỉ với trí tưởng tượng~♪
-じゃあ、いっくさ～！=Được rồi, cùng làm đi!
+じゃあ、いっくさ～！=Được rồi, cùng làm thôi!
 
 礼に始まり礼に終わる=Bắt đầu và kết thúc bằng lòng biết ơn!
 

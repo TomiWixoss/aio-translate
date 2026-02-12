@@ -8,7 +8,7 @@ r:"^自分のＨＰを(\d+)回復範囲内の味方の物理防御力を(\d+)ア
 
 ##S1##
 みんな昂りますよぉ！=Hãy Cùng Nhiệt Huyết!
-味方全体の魔法攻撃力を中アップさせる。=Tăng vừa phải M.ATK của đồng minh.
+味方全体の魔法攻撃力を中アップさせる。=Tăng vừa phải M.ATK cho đồng minh.
 
 ##S2##
 妖しい桃色吐息ですぅ！=Hơi Thở Của Ta Quyến Rũ Quá!

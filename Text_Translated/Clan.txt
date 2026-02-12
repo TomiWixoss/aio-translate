@@ -205,22 +205,22 @@ r:"^トレーニング (\d)段階目$"=Tầng huấn luyện $1
 模擬戦=Tập luyện
 本戦=Chiến đấu
 討伐情報=Hoàn thànhⓘ
-確認=Kiểm tra
-残り挑戦回数=Số lần thử
+確認=Check
+残り挑戦回数=Lượt Thử
 戦績=Thành tựu
 周回=Vòng
 ヘルプ=Trợ giúp
 クラン内=Xếp hạng
-ランバトル=Trận chiến Clan
+ランバトル=Trận Đoàn
 [FF7C4E,D62146]本日の上限です[-]=[FF7C4E,D62146]Cao nhất hôm nay[-]
 現在のCP=CP hiện tại
-残り持越し回数=Còn lại
+残り持越し回数=Còn Lại
 トレーニング=Lần thử
 r:"^(\d)段階目$"=Hạng $1
 sr:"^(.+) (\d)段階目$"=Hạng $2 $1
 表示段階=Chọn Hạng
 絞り込み=Tìm kiếm
-レポート=Báo cáo
+レポート=Report
 全て=Tất cả
 討伐情報がありません。=Không có thông tin hoàn thành.
 討伐情報がありません=Không có thông tin hoàn thành.
@@ -266,8 +266,8 @@ r:"^1分30秒以内に\n(\d+)人が本戦を開始しました。$"=$1 Người 
 
 サポートキャラ確認=Xác Nhận Nhân Vật Thuê
 このキャラを借ります、よろしいですか？=Thuê nhân vật này?
-獲得スコア=Điểm Số
-受けたダメージ=Sát Thương Gây Ra
+獲得スコア=Điểm
+受けたダメージ=Sát thương gây ra
 サポートキャラの★変更=Thay Đổi ★ Của Nhân Vật Hỗ Trợ
 サポートキャラの★を変更しました。\nクランメンバーのサポートキャラのため\n変更した★はタイトルに戻るとリセットされます。=★ của nhân vật hỗ trợ đã được thay đổi.\n★ đã thay đổi sẽ được đặt lại khi bạn quay về màn hình tiêu đề vì đây là nhân vật hỗ trợ của thành viên clan.
 このパーティを編成した時と★が異なるキャラがいます。\n以下は★の設定も含めて編成が保存されています。=Có nhân vật có ★ khác với khi đội này được tổ chức. Bên dưới, đội hình sẽ được lưu bao gồm cả cài đặt ★.
@@ -277,7 +277,7 @@ r:"^1分30秒以内に\n(\d+)人が本戦を開始しました。$"=$1 Người 
 挑戦回数を消費してクランバトルを開始しますか？=Sử dụng lượt thử của bạn để bắt đầu trận đấu?
 [FF7C4E,D62146]バトルを開始した時点で挑戦回数が消費されます。\n通信環境の良い場所でプレイして下さい。[-]=[FF7C4E,D62146]Số lượt thử sẽ\nđược tiêu hao khi bắt đầu.\nVui lòng chơi ở nơi có kết nối ổn định.[-]
 
-[FF7C4E,D62146]模擬戦のバトル結果はクランバトルの成績に反映されません。[-]=[FF7C4E,D62146]Kết quả trận đấu tập luyện không được phản ánh trong kết quả clan battle.[-]
+[FF7C4E,D62146]模擬戦のバトル結果はクランバトルの成績に反映されません。[-]=[FF7C4E,D62146]Kết quả trận tập luyện không được tính vào kết quả chiến đấu đoàn.[-]
 
 開催期間終了まで=Kết thúc trong:
 
@@ -286,7 +286,7 @@ CPが300たまるごとに挑戦可能数がアップします。\nCPはメイ�
 残り挑戦可能数=Lượt Thử
 クエストへ=Đến Nhiệm Vụ
 
-模擬戦リタイア=Thoát Tập Luyện
+模擬戦リタイア=Thoát huấn luyện
 [3C404E]模擬戦をリタイアしますか？[-]=[3C404E]Bạn có muốn thoát khỏi trận đấu tập luyện?[-]
 
 [FDFFF8,CCFFEF]集計中[-]=[FDFFF8,CCFFEF]Đang Tổng Hợp[-]
@@ -329,7 +329,7 @@ r:"^(\d)戦目\n本戦参加済$"=Used at\nParty $1
 クランバトル開始確認=Start Confirmation
 持越し時間を消費してクランバトルを開始しますか？=Use left over time?
 使用制限対象キャラ=Restricted characters
-使用制限対象詳細=Details
+使用制限対象詳細=Chi tiết
 [FF7C4E,D62146]バトルを開始した時点で上記のキャラに使用制限が\nかかり、次回本戦は編成不可となります。[-]=[FF7C4E,D62146]Once started, the above characters\nwill be restricted and cannot be used.[-]
 [FF7C4E,D62146]同時に、現在所持している持越し時間が消費されます。[-]=[FF7C4E,D62146]Any left over time will be consumed.[-]
 このバトルでは選択できません。=Cannot retire at main battle.
@@ -346,9 +346,9 @@ r:"^(\d)戦目\n本戦参加済$"=Used at\nParty $1
 ---recommended party---
 上級=Advanced
 中級=Intermediate
-初級=Beginner
+初級=Người mới bắt đầu
 予想ダメージ=Damage±
-討伐時間=Time
+討伐時間=Thời gian
 参考ダメージ=Damage±
 使用可能キャラ数=Characters can be use
 「使用」ボタンからおすすめのパーティ編成を選べます。フィルタで非表示にするキャラを設定できます。="Use" button to select a recommended party, and set a filter to hide characters.
@@ -361,11 +361,11 @@ r:"^\[3C404E\]このおすすめ編成は、\n持越し時間\[FFBB00,CE4F00\]([
 
 持越し時間について=About Left-Over Time.
 
-使用=Use
-パーティ保存=Save Party
+使用=Sử Dụng
+パーティ保存=Lưu Đội
 コピー=Copy
-閲覧=Watch
-選択中キャラ=Selected
+閲覧=Xem
+選択中キャラ=Đã chọn
 表示更新=Update
 リプレイ確認=Replay Confirmation
 [FF7C4E,D62146]リプレイで確認できるバトルは\n該当編成を使用した場合の一例です。[-]=[FF7C4E,D62146]The battles in replay are examples of meta comps.[-].
@@ -414,7 +414,7 @@ sr:"^(.+)　Lv.(\d+)$"=$1 cấp.$2
 5体目=Boss 5
 
 
-与えたダメージ=Sát Thương Gây Ra
+与えたダメージ=Sát thương gây ra
 全段階合計=Tổng Điểm Tất Cả Tầng
 バトルTL=Thời Gian Trận Đấu
 お気に入り=Yêu Thích

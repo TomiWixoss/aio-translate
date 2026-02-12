@@ -42,7 +42,7 @@
 やあっ！=Haaahh!
 大丈夫！？=Cô có ổn không?!
 ぜんぜん平気だよ。=Em hoàn toàn ổn.
-主さまー！=Thưa Chúa tể!
+主さまー！=Chủ nhân!
 真の立場を取り戻したペコリーヌことユースティアナは、ランドソルのため貴族たちとともに王族としての職務を全うする。その一方{playername}は、不思議な夢の中で世界の危機を告げられる。=Pecorine, người đã giành lại vị trí thực sự của mình, được biết đến với tên Eustiana, thực hiện nhiệm vụ hoàng gia bên cạnh các quý tộc cho Landosol. Trong khi đó, {playername} được thông báo về một cuộc khủng hoảng thế giới trong một giấc mơ bí ẩn.
 ペコリーヌはその頃、\nランドソルのプリンセスとして\n貴族たちの会議に出席していた。=Trong khi đó ở trong thành phố,\nPecorine đang bận rộn họp với các quý tộc của Landosol\nnhư một phần của nhiệm vụ hoàng gia của cô ấy với tư cách Công chúa.
 ……んっ……？=...Hm...?
@@ -70,7 +70,7 @@
 ……騎士クン、騎士クン……=...Kishi-kun. Kishi-kun...
 ……あれ……？=...Hả...?
 ……あ、やっと起きたんだね。\nもう、みんな帰っちゃったよ。=...Ồ! Cuối cùng cũng tỉnh rồi.\nMọi người đã về hết rồi.
-キミは……=Ngươi là...
+キミは……=Cô là...
 わたし？　わたしはね、あなたの寝顔を見てたんだ。\nふふっ、可愛かったな。\nいつまで見てても、飽きないくらい。=Ồ, tôi ư? Tôi chỉ đang nhìn người khi người ngủ thôi.\nHeheh. Người dễ thương quá!\nTôi có thể ngắm người cả ngày được.
 だって……わたしは。\nわたしはね。\nずっと前から、あなたのことが……=Rốt cuộc thì, tôi đã...\nThật ra là... từ lâu lắm rồi, tôi đã ở trong l...
 ふふっ。\nふふふ……=Eheh...\nEheheh...
@@ -137,8 +137,8 @@
 ちょちょちょ=Khoan, khoan, khoan...
 ちょっちょっちょっ=Khoan... khoan... khoan...!
 ちょー=Khoan...
-ちょぅわぁー！！=Khoaaaaan!
-う……？=Ơ...?
+ちょぅわぁー！！=Uuuuu!
+う……？=Ờ...?
 うぇぇぇ……！\nヨダレべっとり……！\nもう、なにすんのよ{playername}っ～！=Ueeeee...!\nTôi dính đầy nước miếng!\nChà, [i]chuyện gì[/i] vậy, {playername}?!
 きゃっきゃ！=*cười khúc khích*
 ね、ねぇ……！\n騎士クンの様子……\nもしかしてっ、これって……！=Ơ-ừm...\nCách cậu ấy hành động...\nCó vẻ hơi giống như cậu ấy...
@@ -340,7 +340,7 @@
 【リッチモンド商工会】の、クレジッタさま……\nずいぶんと、歯に衣着せぬ方のようですね……=Cô Creditta của Richmond Corporation...\nCô ấy đúng là một cá nhân rất có ý kiến...
 あーいうのは、イヤミったらしいっていうのよ。\nったく、ムカつくわね……！=Tôi gọi đó là chỉ là một tên kiêu ngạo khó chịu.\nTrời ơi, cô ta làm tôi tức!
 それとなく、ペコリーヌちゃんを連れて……\nここを離れたほうがいいかもね。\n……あれ？　騎士クン？　どこいっちゃったのっ？=Có lẽ nên đưa Pecorine\nđi một nơi kín đáo hơn một chút lúc này.\n...Hả? Anh Kishi-kun? Anh đi đâu rồi?
-だー=Ục ục...
+だー=Uuu...
 あっ……主さまが、クレジッタさまの方に向かって……？=À... Chúa tôi đang tiến về phía Cô Creditta...?
 ……あら？\nあらあら？\nなんですのこの子？=Hả?\nÔi trời.\nGiờ đây, ai là cậu bé kỳ lạ này?
 ぺたぺた。=*lau lau*
@@ -355,8 +355,8 @@
 なんとでも言って下さい！\nわたしを馬鹿にするのは構いませんが……彼のことは譲りませんから！=Tao không quan tâm mày nói gì!\nMày cứ chế giễu tao bao nhiêu cũng được...\nnhưng tao sẽ không để mày làm hại nó!
 ぬぬぬ……！=Hừmm...!
 むむむーっ！=Grgrgr...!
-傭兵１=Lính đánh thuê 1
-傭兵２=Lính đánh thuê 2
+傭兵１=Lính Đánh Thuê 1
+傭兵２=Lính Đánh Thuê 2
 ……いいこと！？\nお姫さまといえど、あまりナメないで頂戴！=Này, nhìn đây này!\nDù có là công chúa, cô cũng không nên coi thường tôi!
 資材の管理も！　工事の段取りも！\n人足たちの手配も！　彼らの食事の用意も！\nなにひとつ、あなたには出来ないでしょう！=Quản lý tài chính! Tổ chức xây dựng!\nChuẩn bị lực lượng lao động! Giữ cho họ được no ấm!\nCô làm được điều nào trong số đó mà không cần tôi giúp đỡ?!
 わたくしの【リッチモンド商工会】が復興事業を止めたら、\n困るのはこの国の人々なのよ！？\nそのことを、忘れないでおいてほしいわね……！=Nếu tôi và Tập đoàn Richmond rút lui,\nngười dân của cô sẽ là kẻ chịu khổ!\nCô nên nhớ cho kỹ điều đó, công chúa.
@@ -447,7 +447,7 @@
 でもでも……この魔物たち、ほとんど攻撃が効かないんだよ！\nどうやって倒せばいいのかな……\n……あっ！？=Nhưng... nhưng... dường như không có gì làm tổn thương được những con quái vật này!\nLàm sao chúng ta đánh bại chúng...?\n...À?!
 そこのキミっ！\n危ない、逃げてっ……！=Cậu bé!\nCẩn thận! Chạy đi...
 少年が魔物をけしかける中、王家所蔵の水晶玉を{playername}が飲み込んでしまう。それを取り出そうとしたユイが謎の光を発し、魔物と少年を撃退したものの、一行は凶悪犯として逮捕されてしまう。=Khi cậu bé khiêu khích quái vật, {playername} vô tình nuốt viên thủy tinh của hoàng gia. Yui, người cố gắng lấy lại nó, phát ra ánh sáng bí ẩn và đẩy lùi quái vật cùng cậu bé. Tuy nhiên, cả nhóm cuối cùng lại bị bắt giữ như những tội phạm nguy hiểm.
-……ハ。=...Hah.
+……ハ。=...Hừ.
 魔力のムチ……？\n魔物と戦ってるの、あの子……？=Một chiếc roi làm bằng ma thuật...?\nCậu bé đang chiến đấu với quái vật ư?
 いや……違うっ！=Không... Không phải vậy!
 きゃう！=Waahhh!
@@ -493,7 +493,7 @@
 目の前に、何かが転がってきた……=Một thứ gì đó lăn dọc theo mặt đất ngay phía trước...
 ……んっ？\n{playername}が拾ったソレって……=...Hm?\n{playername} vừa nhặt thứ gì vậy...?
 さっきぺコさんが置いて行った、魔法のアイテム？=Có phải là một trong những món đồ ma thuật Peco để lại không?
-……ぱくん。=...*nuốt nước bọt*
+……ぱくん。=...*ợn*
 えええええっ！？　騎士クンーっ！？=Kishi-kun?!
 騎士くんが、水晶玉を飲み込んじゃったぁ！=Kishi-kun... nuốt quả cầu phép!
 いけません主さま！\nぺっしてくださいませ！\nぺって！=Không được, Chủ nhân của ta!\nXin hãy nhổ nó ra!\nĐi thôi, nhổ!
@@ -830,7 +830,7 @@
 あァ。まあ、あとは……\nクソ猫からチビだのガキだの呼ばれるのが\nウルセーってのもあるけどな？=Ừ. À, với cả...\nta cũng chán cái thằng mèo hoang gọi ta là "thằng nhóc" và "đồ nhãi"!
 誰がクソ猫よっ！\nこっちは閉じ込められた上に三下貴族から殺されかけて、\nめちゃくちゃイライラしてたんだから！=Ai gọi ai là mèo hoang?! Tôi đã bị nhốt trong phòng giam nơi một tên quý tộc mới lên suýt giết chúng tôi,\nnên tôi [i]không[/i] có tâm trạng để nghe mồm ngươi bây giờ!
 このクソチビ！\nクソガキっ！\n今度こそ、絶対ぶっ殺すわ！=Đồ thằng nhóc ngu ngốc!\nĐồ nhãi ranh!\nLần này, ta sẽ giết chết ngươi!
-──ハ。=...Hah.
+──ハ。=...Hừ.
 ──ブチ殺せ。クソ魔獣ども。\nその檻ごと、ヤツらのハラワタを食い破れ。=Giết hết chúng, lũ quái vật rác rưởi.\nNghiền nát cái lồng và xay nhỏ bộ gan bọn ngu ngốc này!
 脱獄対策の防御魔法がかかった頑丈な檻でも……\nあの勢いで攻撃を続けられたら、長くは持ちません……！=Ngay cả một phòng giam an ninh cao được gia cố bằng phép thuật\ncũng sẽ không tồn tại lâu dưới sự tấn công quy mô này!
 みんな、下がって！\n人間相手じゃ使いにくかったけど、\nこいつらなら攻撃魔法でっ……！=Mọi người, lùi lại!\nTa không muốn dùng cái này vào người,\nnhưng nếu là quái vật, ta có thể nổ tung chúng...!
@@ -895,7 +895,7 @@
 ユイちゃんっ！？=Yui?!
 ユイ、危ない！\n前に出るな……！=Yui, cẩn thận!\nCô không được đến gần quá...!
 カリザくん！\nあなた、さっき……わたしを狙ってるって言ったよね。=Kariza!\nVừa nãy, ngươi nói mục tiêu của ngươi là ta, phải không?
-……アア？=...Hở?
+……アア？=...Hả?
 なら、騎士クンたちは……\nみんなのことは、見逃してあげてっ！\nわたしはどうなってもいいから！=Vậy hãy để Kishi-kun...\nĐể mọi người khác ra khỏi chuyện này, Được chứ?!\nNgươi muốn làm gì với ta thì làm!
 ダメだよユイちゃん、そんなことっ……！\n絶対ダメだから！=Đừng nói vậy, Yui! Cô không được...!\nĐiều đó không ổn chút nào!
 ああ！\nユイだけを犠牲になど、絶対にさせない……！=Đồng ý!\nChúng tôi không thể để cô hy sinh bản thân!
@@ -990,6 +990,6 @@
 なんなのよもー！=Cái quái gì vậy?!
 第二部二章　禍のレギオン=Arc 2, Chương 2: Quân đoạn Kinh dị
 食ってる場合じゃないでしょ、バカ王女ー！=Đây không phải lúc để nhét đầy mặt, nàng công chúa ngốc nghếch!
-そうですね。\nまずは単刀直入に、こうお伝えしましょう。=Vâng, được.\nTôi nghĩ mình nên bắt đầu bằng cách đi thẳng vào vấn đề.
-えっと……それで、御用件はなんですか？\nわざわざ警備の目をごまかして来たってことは、\nわたしになにか、大事な話があるってことですよね？=Vậy, ừm... Cậu đến đây để làm gì?\nNếu cậu lén lút qua mọi hệ thống an ninh cung điện,\ntôi đoán cậu có điều quan trọng muốn nói với tôi?
+そうですね。\nまずは単刀直入に、こうお伝えしましょう。=Ừ, đúng vậy.\nTôi nghĩ mình nên bắt đầu bằng cách đi thẳng vào vấn đề.
+えっと……それで、御用件はなんですか？\nわざわざ警備の目をごまかして来たってことは、\nわたしになにか、大事な話があるってことですよね？=Vậy, ừm... Cậu đến đây chính xác là vì chuyện gì?\nNếu cậu lén qua toàn bộ an ninh cung điện,\ntôi đoán cậu có chuyện quan trọng cần nói với tôi?
 はっ、バカが=Hah, đồ ngốc

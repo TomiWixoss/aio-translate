@@ -30,7 +30,7 @@
 ですが……魔物がこちらの世界に来てしまった理由などは\nまだ何もわかっておりません。\n引き続き、わたくしたちに調査をさせていただければと……=Nhưng...chúng tôi vẫn chưa biết tại sao quái vật lại đến thế giới này. Chúng tôi muốn tiếp tục điều tra...
 ええ、もちろん構いません。\n……コッコロは小さいのに、とてもしっかりしていますね。\n騎士も頼もしいことでしょう。=Vâng, tất nhiên tôi không ngại. ...Kokkoro nhỏ bé, nhưng cô rất đáng tin cậy. Tôi chắc Knight cũng là người đáng tin cậy.
 自慢の従者です。=Tôi tự hào về người hướng dẫn của mình.
-主さま…♪=Chủ nhân của em...♪
+主さま…♪=Chủ nhân...♪
 ……ところで、ライラエルさま。\nそろそろ、今日来てもらった理由をお伝えしては？=...Nhân tiện, Lady Lyrael. Tại sao cô không nói cho tôi biết lý do cô đến hôm nay?
 まぁ、そうでした。\nありがとう、ヴルム。=Ừ, đúng rồi. Cảm ơn, Wurm.
 ……騎士。それにみなさま。\n魔物討伐の報酬として、何か欲しいものはありませんか？=...Knight. Và mọi người. Có điều gì các bạn muốn làm phần thưởng cho việc trấn áp quái vật không?
@@ -342,7 +342,7 @@ Cutscene:
 よぅ、チビちゃん！\n毛布とソファとカマドはここに置いときゃいいかい？=Này, cậu lùn! Tôi có thể để chăn, ghế sofa và lò sưởi ở đây không?
 はい。\nあとはヴォルガーノさまに設置いただこうかと思います。\nすみません、それから調理器具に余りがあれば……=Vâng. Tôi nghĩ sẽ để Volgano-san lắp đặt. Xin lỗi, nếu cô có bất kỳ dụng cụ nấu ăn thừa nào...
 ……ダメだわ。\n{playername}がいないせいで、\n完全にお世話欲が暴走しちゃってる……=...Tôi không thể. Nhờ sự vắng mặt của {playername}, mong muốn chăm sóc cậu ấy của Korosuke đã hoàn toàn mất kiểm soát...
-……えっと。=...Ừm.
+……えっと。=...Ưm.
 ……？\nヴルムちゃん……\n何か、ご用事ですか？=...? Wurm-chan... Cô cần gì sao?
 クリアさん、ですっけ。\nさっきのクジの交換……あなた的には、あれでいいんです？=Quria, phải không? Việc đổi vé số... Cô ổn với việc đó chứ?
 ……はい。\nだって、リリちゃんは……お兄さんのこと、大好きですし。=...Vâng. Rốt cuộc thì, Riri-chan... yêu Onii-san.
@@ -366,7 +366,7 @@ Summary:
 
 ふぁんふぁんファームの外れにて、巨大おにぎりに扮する\nハムスター？　と遭遇した{playername}たち。\nペコリーヌとプレシアは、それを捕食しようと躍起になっていた。={playername} và những người khác đã gặp một con hamster cải trang thành onigiri khổng lồ ở ngoại ô Fun-Fun Farm. Pecorine và Precia háo hức săn bắt nó.
 まてー=Khoan--
-待てぇ～！！=Khoan!!
+待てぇ～！！=Chờ đã!!
 あははっ♪\n待ってくださ～いっ♪=Ahaha♪ Khoan nào~♪
 ぴぎゅううう～っ！=Pigyuuu~!
 ……う、う～ん……=ư-ưuh...
@@ -417,7 +417,7 @@ Summary:
 リンドちゃん、今です！\nドラゴン族の覚醒で、リリちゃんに加勢を！=Lind, đây là cơ hội của cô! Dùng Dragonkin’s Awakening để hỗ trợ Riri!
 か、かくせいっ！？\nできませんよそんなこと！="Awakening"!? Tôi không thể làm được!
 ぴーーーーぎゅううーーーっ！=Piiiigyuuuu!
-あっ──=À~
+あっ──=Ah~
 きゃあああ～っ！？=Háaaaaaa!?
 ……な、なかなか捕まえられないですね……\nもう、すっごく警戒されちゃってますし。=...N-Nó khó bắt thật... Hơn nữa nó còn trở nên rất cảnh giác với chúng ta.
 ……そうですね。\n捕獲用のマジックアイテムとかがあれば良かったんですけど……=...Đúng. Giá như chúng ta có một món đồ ma thuật hay thứ gì đó để bắt nó...
@@ -661,10 +661,10 @@ Cutscene:
 オーライオーライ=Tiếp tục, tiếp tục.
 ぴぎゅっ？=Heo heo?
 ぴぎゅぴぎゅ？=Heo heo heo heo heo?
-ぴぎゅ～！=Heo~!
+ぴぎゅ～！=Ục Ục~!
 ほれ、けっぱれ！=Được rồi, thử xem nào!
-ぴぎゅ！=Pigyu!
-ぴぎゅ～っ！=Heo heo!
+ぴぎゅ！=Ụt!
+ぴぎゅ～っ！=Pigyuu!
 わあああ～っ=Uaaah~!
 
 みなさん、大丈夫ですか～っ？=Mọi người, có sao không?
@@ -682,7 +682,7 @@ Cutscene:
 ま、確かにウェイトになるっちゃなるが。\n大丈夫なんじゃねーの。\nさっきのシャーリー１世のスピードならよ。=Được rồi, chắc chắn sẽ là thêm vài cân nặng, nhưng với tốc độ của Shirley I từ lúc trước thì không thành vấn đề.
 それより、箱を引くのに慣れてもらって。\nお願いどおりに走ってもらわなくちゃですね。=Quan trọng hơn, con hamster cần phải quen với việc kéo cabin. Nó cần có thể chạy nhanh như yêu cầu của cô.
 そうですね！\nそれじゃあ、一緒に特訓しましょう！\nオニギリちゃん☆=Đúng rồi! Vậy chúng ta cùng luyện tập đặc biệt nhé! Onigiri-chan☆
-ぴぎゅー！=Pigyu!
+ぴぎゅー！=Ụt!
 あっ。\nみなさんが特訓しているあいだ……\nわたしたちは、何か作戦を考えてみたいと思います。=À. Trong khi mọi người đang tập luyện... Tôi muốn chúng ta cùng nghĩ ra một chiến lược.
 作戦？=Chiến lược?
 はい。\n【バンディ・シスターズ】よりも機先を制することができれば、\n街への被害も減らすことができるかと思いますから。=Đúng vậy. Nếu chúng ta có thể chủ động so với [Bandy Sisters], chúng ta sẽ có thể giảm thiểu thiệt hại cho thành phố.
@@ -884,7 +884,7 @@ Summary:
 あっ！　あはは……\nは、はい～=À! Ahaha... V-Vâng~
 あ、あの子のアレは、その……\nええと、なんていうか……=C-Cô gái đó, ừm... thì, nên nói thế nào nhỉ...
 ごめんなさいっ！！=Con xin lỗi!!
-へ？　何がだ？=Hả? Ý cô là sao?
+へ？　何がだ？=Hả? Ý cậu là sao?
 何がって……そ、それはもちろん、\nうちのプリン馬鹿な幽霊が街じゅうを食べ散らかしてるから……！='Ý là sao' cái gì...? Ư-Ước, tất nhiên là vì con ma pudding ngốc của chúng ta đang ăn khắp thành phố...!
 あー\nま、別にかまわないぜ。\n古くなってきた場所は街のヤツらも食べてるしよ。=À. Không sao cả. Dân thành phố vẫn ăn những chỗ cũ thôi mà.
 え……？　街のみなさんも、食べるのですか？\n街の壁や、家の屋根を……？=Hả...? Cậu cũng ăn những thứ đó sao? Tường thành, mái nhà...?
@@ -1077,7 +1077,7 @@ Summary:
 こんな退屈な世界にゃァ──\nちっとばかり刺激をくれてやらなくっちゃね。=Tôi sẽ phải cho thế giới nhàm chán này một chút kích thích.
 ぉ？\nついにヤマ姉、へぼ王女たちブッちめに行く？　行っちゃうー？=Hả? Yama-nee, cuối cùng cũng định đánh đập các công chúa rồi hả? Đi thôi?
 まてまて待てーい！=Khoan, khoan, khoan!
-そうはさせませんよーっ！=Tôi sẽ không để cô làm vậy!
+そうはさせませんよーっ！=Tớ sẽ không để cậu làm thế đâu!
 あっ……\nあの人たちって……=À... Những người đó...
 なんだい？\nこの前の猫にポンコツじゃないか。=Gì? Chẳng phải con mèo rác rưởi lần trước sao?
 ま～た轢かれに来たワケ～？\n今度はおせんべいみたいにひらべったに潰して～\nおしょうゆ塗ってパリパリ焼いちゃうよ～？=Đến đây để bị cán lần nữa hả? Lần này, tôi sẽ nghiền nát các ngươi như bánh đậu, rắc xì dầu lên rồi nướng khô!
@@ -1141,7 +1141,7 @@ Summary:
 Cutscene:
 主さま、お願いします！=Thưa ngài, xin ngài!
 はあああー！=Haaaaah!
-ぴぎゅ！=Pigyu!
+ぴぎゅ！=Ụt!
 ぴぎゅぴぎゅぴぎゅぴぎゅ=Pigyupigyupigyupigyu
 ぴぎゅーっ！=Pigyuu!
 ぴぎゅ～っ！！=Pigyuuu!!
@@ -1388,7 +1388,7 @@ Summary:
 まあ……！　このチョコレート、すっごくおいしいですわ♪\nどんなパティシエが調合なさっているんでしょう？=Ôi chà...! Loại sô-cô-la này thật ngon quá♪ Tôi tự hỏi họ làm loại bánh kẹo gì vậy?
 この技術があったら、\n麦しゅわの噴水も作れそうよね～……ごくり。=Với công nghệ này, tôi chắc chắn có thể làm một đài phun nước dùng mạch nha... *nuốt nước*
 ユ、ユカリさん？　顔が本気よ……？=Y-Yukari-san? Khuôn mặt trông cô nghiêm túc quá...?
-……ふ～む……=...Hừm...
+……ふ～む……=...Hmm...
 あら？　タマキさん、どうしましたの？=Ồ? Sao vậy, Tamaki?
 へ？　別に……なんでもないにゃ。\n……ん～……=Hả? Không, là... không có gì...
 そうはおっしゃいましても。\nなんだか上の空ですわよね？=Cô nói vậy nhưng trông cô hơi mất tập trung, phải không?
@@ -1422,7 +1422,7 @@ Summary:
 そうよ、タマキさん。\n一緒においしいたい焼きを作って、元気出しましょ？=Đúng vậy, Tamaki-san. Hãy cùng nhau làm những chiếc taiyaki ngon và vui lên, được chứ?
 ──！　それにゃ！\nたい焼きがあれば……=Chính vậy, nya! Chỉ cần có taiyaki...
 この世界で一儲けできるのにゃーーーっ！=Tôi có thể làm nên một gia tài ở thế giới này!
-へ……？=Hả...?
+へ……？=Hở...?
 ん？　何を呆けてるにゃ？\nアキノたちのアイディアにゃ。=Hm? Sao cô nhìn tôi như thế? Đây là ý tưởng của Akino mà.
 え、ええ。\n私たちが作るって言い出したのはたしかだけど……=D-Dạ. Đúng là chúng tôi là người đề xuất làm, nhưng...
 それで一儲け……ですの？=Vậy cô định kinh doanh ở đây?
@@ -1571,6 +1571,6 @@ Summary:
 あの夜──\nあたし、いつも通り料理の仕込みしてたら\nいきなり辺りがピカーってして！=Đêm đó, tôi đang chuẩn bị thức ăn như thường lệ thì bỗng nhiên xung quanh sáng bừng!
 気付いたらこの、へんな世界の病院にいて！\nもう、わけわかんなくって……\n知らないひとばっかりで、怖くて！=Khi tôi tỉnh lại, tôi đã ở trong một bệnh viện ở thế giới lạ này! Tôi không còn biết chuyện gì đang xảy ra nữa... Tôi hoảng loạn vì có quá nhiều người tôi không quen!
 一緒に帰りましょ！\nあたしたちの国……ランドソルに！\nユースティアナ王女様！！=Hãy cùng nhau về nhà! Về đất nước của chúng ta... Landosol! Công chúa Eustiana!!
-キャッスル・オブ・パルフェ～王座の間～=Castle of Parfait
-キャッスル・オブ・パルフェ～城下町～=Castle of Parfait
+キャッスル・オブ・パルフェ～王座の間～=Lâu đài Parfait
+キャッスル・オブ・パルフェ～城下町～=Lâu đài Parfait
 小動物たち=Động vật nhỏ

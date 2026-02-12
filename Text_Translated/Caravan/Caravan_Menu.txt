@@ -131,8 +131,8 @@ r:"^\[3B3F4D\]以下の料理を売却して\[-\]\[FFBB00,CE4F00\]([0-9,]+)\[-\]
 現在マイルショップが開いています。\nダイスまたは料理を使用した後は利用できません。\n\nよろしいですか？=Cửa Hàng Mile hiện đang mở.\nNó sẽ không khả dụng\nsau khi sử dụng Xúc Xắc hoặc Món Ăn.\nTiếp tục?
 
 料理=Món Ăn
-特殊系=Đặc Biệt
-補助系=Hỗ Trợ
+特殊系=Đặc biệt
+補助系=Hỗ trợ
 移動系=Di Chuyển
 サブ=Phụ
 サブ効果=Hiệu Ứng Phụ
@@ -180,7 +180,7 @@ r:"^キャラバンコイン(?:（シーズン(\d)）)?ｘ(\d+)$"=Đồng Xu Car
 シーズン切り替わり=Mùa Caravan Mới
 新シーズンが始まったため、\n所持していたトレジャーをコインに変換しました。=Vì mùa mới đã bắt đầu,\ntất cả kho báu của bạn đã được đổi thành đồng xu.
 ------
-所持ダイス=Xúc Xắc
+所持ダイス=Xúc xắc
 r:"^ボーナスレベル(\d+)$"=Cấp thưởng $1
 区間スキップを実行した場合、出現中の仲間効果、\nおよび発動中の料理効果、マス効果は消失します。\nまた、ライバル出現時は勝敗が無効となります。=Nếu bạn bỏ qua di chuyển, mọi hiệu ứng đồng minh đang hoạt động, hiệu ứng món ăn và hiệu ứng ô đất sẽ biến mất. \nNgoài ra, nếu một đối thủ xuất hiện,\nkết quả trận đấu sẽ bị hủy bỏ.
 r:"^(?:\[3C404E\])?ダイスを\[FFBB00\,CE4F00\](\d+)個\[-\]使って区間スキップを実行しますか？(?:\[3C404E\])?(?:\[-\])?$"=[3C404E]Sử dụng [FFBB00,CE4F00]$1 xúc xắc[-] để bỏ qua di chuyển?

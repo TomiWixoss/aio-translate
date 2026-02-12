@@ -1,10 +1,11 @@
 みんな=Mọi người
-魔物=Quái vật
+魔物=Quái Vật
 
 【物理】盗賊ギルド、バンディ=[Vật lý] Đạo tặc, thành viên của Hội Đạo tức.\n
 シスターズ次女。戦闘中後方でおびえているワカナを助けるために、スパイク=Người thứ hai của các Chị em. Cô hỗ trợ cho Wakana đang hoảng sợ ở hậu phương trong trận chiến, trong khi các Anh em Gai chặn đường của các nhà thám hiểm.\n
 
 獲物を求め水辺を猛毒で満たす、サンショウウオの魔物。漏れるほどに溜め込んだ猛毒は、近づくだけで意識を奪う危険物。=Một quái vật salamander lấp đầy vùng nước với chất độc chết người để săn mồi. Chất độc chết người đã tích tụ đến mức rò rỉ là một chất nguy hiểm khiến mất ý thức chỉ bằng cách tiếp cận.\n
+ＨＰ吸収ダウン回復量ダウン=Hấp thụ HP Giảm & Hồi phục Giảm
 
 
 敵全体に物理中ダメージを与え、自分の行動速度を上げる。=Gây sát thương vật lý vừa phải cho tất cả kẻ thù và tăng tốc độ hành động của bản thân.\n
@@ -159,7 +160,7 @@
 
 ノイジーオーク=Noisy Orc
 塔の魔力を吸収した、暴食の巨大鮫鱏。音波で感覚を狂わせ、鈍った獲物を喰らい尽くす。=Một con cá sấu cá mập khổng lồ tham ăn hút cạn sức mạnh của tháp. Nó làm biến dạng cảm giác bằng sóng âm và nuốt chửng mồi ngây thơ đã bị tê liệt hoàn toàn.\n
-敵全体に物理特大ダメージを与え、物理防御力と魔法攻撃力をダウンさせる。=Gây sát thương vật lý khổng lồ cho tất cả kẻ địch và giảm phòng thủ vật lý và sức mạnh ma thuật của chúng.\n
+敵全体に物理特大ダメージを与え、物理防御力と魔法攻撃力をダウンさせる。=Gây sát thương vật lý lớn cho tất cả kẻ địch và giảm P.DEF và M.ATK của chúng.\n
 最もＴＰの高い敵１キャラに魔法中ダメージを与え、麻痺させる。さらに挑発状態にする。=Gây sát thương ma thuật trung bình và gây tê liệt cho nhân vật địch có TP cao nhất. Ngoài ra, khiêu khích chúng.\n
 挑発を無視して、最もＨＰの高い敵１キャラに毎秒増加する継続ダメージを与える。=Bỏ qua khiêu khích và gây sát thương liên tục tăng dần mỗi giây cho nhân vật địch có HP cao nhất.\n
 
@@ -452,7 +453,7 @@
 
 
 
-ユニオンバーストは、敵全体に魔法大ダメージを与える。=Union Burst: Gây sát thương ma thuật khổng lồ cho tất cả kẻ thù.\n
+ユニオンバーストは、敵全体に魔法大ダメージを与える。=Union Burst: Gây sát thương ma thuật khổng lồ (M.DMG) cho tất cả kẻ thù.\n
 最も遠い敵２キャラに魔法中ダメージを与える。=Gây sát thương ma thuật trung bình cho hai kẻ thù xa nhất.\n
 
 星穹の神殿を守護する射手座の魔星獣。万象を射抜く一閃は、紫電煌めく神域の絶技。=Một con thú sao quỷ cung Nhân Mã bảo vệ Đền Sao. Một tia chớp duy nhất xuyên qua tất cả sinh vật là một kỹ thuật thần thánh lấp lánh với điện tử tím.\n
@@ -768,7 +769,7 @@
 
 アンハッピートレントは環境効果によるダメージを受けない。=Unhappy Trent không nhận sát thương từ hiệu ứng môi trường.\n
 魔物を召喚し、敵全体をノックバックさせる。=Triệu hồi quái vật, đẩy lùi tất cả kẻ địch.\n
-召喚された魔物を１体倒すたびに、残りターゲット数が１減少する。その後、魔物が再度召喚され、敵全体をノックバックさせる。=Với mỗi quái vật triệu hồi bị đánh bại, số lượng mục tiêu còn lại giảm 1. Sau đó, quái vật bị đánh bại được triệu hồi lại, đẩy lùi tất cả kẻ địch.\n
+召喚された魔物を１体倒すたびに、残りターゲット数が１減少する。その後、魔物が再度召喚され、敵全体をノックバックさせる。=Với mỗi quái vật triệu hồi bị đánh bại, số lượng mục tiêu còn lại giảm 1. Sau đó, quái vật bị đánh bại được triệu hồi lại, đẩy lùi toàn bộ kẻ địch.\n
 
 姉妹の不和が生んだ怪物が、聖夜の幸せを願う人々の前に立ち塞がる。今こそ姉妹の絆で取り戻せ、ウルトラハッピークリスマス！=Quái vật sinh ra từ sự bất đồng giữa hai chị em chặn đường những người mong muốn hạnh phúc trong Giáng sinh. Đã đến lúc giành lại nó bằng sự gắn bó giữa hai chị em, một Giáng sinh Siêu Hạnh Phúc!
 
@@ -975,7 +976,7 @@
 ユニオンバーストは、敵全体に物理大ダメージを与え、物理防御力を大ダウンさせる。=Union Burst: Gây sát thương vật lý lớn cho tất cả kẻ địch và giảm mạnh P.DEF.\n
 ランダムな１キャラに物理中ダメージを与える。=Gây sát thương vật lý trung bình cho một nhân vật ngẫu nhiên.\n
 カメレオプスが一定時間背景に擬態し、回避を極大アップ、行動速度を特大アップ、物理防御力が大ダウンする。=Camaleops ngụy trang trong nền trong một khoảng thời gian nhất định, tăng mạnh khả năng né tránh, tăng mạnh tốc độ hành động và giảm mạnh P.DEF.\n
-前方３キャラに物理中ダメージを与える。=Gây sát thương vật lý trung bình cho 3 nhân vật phía trước.\n
+前方３キャラに物理中ダメージを与える。=Gây sát thương vật lý vừa phải lên 3 nhân vật phía trước.\n
 カメレオプス=Camaleops
 湿林に潜み獲物を付け狙うカメレオンの魔物。臆病で狡猾な気性だが、怒るとツノを向け猛突進。=Ẩn nấp trong đầm lầy, một quái vật giống thằn lằn, rình rập con mồi. Bản tính nhút nhát và xảo quyệt, nhưng khi tức giận, nó hùng hổ xung phong với sừng.\n
 海蝕洞の支配者として君臨する、サメエイの魔物。凶猛な欲望を全て捕食に注ぐ海の大悪党。=Cai quản hang động bị xói mòn biển, một quái vật giống cá mập. Một tội phạm khét tiếng của biển, nuốt chửng tất cả với ham muốn hung bạo.\n
@@ -1993,7 +1994,7 @@ HP吸収ダウン回復量ダウン=Hấp thụ HP Giảm Hồi phục Giảm
 ゴブリングレートから受けるすべての状態異常は、ダメージを無効化しても付与される。=Tất cả hiệu ứng trạng thái từ Goblin Grate đều được áp dụng ngay cả khi sát thương bị phản.
 
 前から１番目の敵と周囲に物理／魔法攻撃力ダウン（必中）=Giảm P.ATK/M.ATK của kẻ địch phía trước nhất và kẻ địch xung quanh (không thể tránh)
-対象数が少ないほど：ダウン量上昇=Số mục tiêu bị trúng càng ít, lượng giảm càng lớn
+対象数が少ないほど：ダウン量上昇=Số mục tiêu trúng càng ít, lượng giảm càng lớn
 物理攻撃をする敵全体に火傷=Áp dụng Burn lên tất cả kẻ địch sử dụng tấn công vật lý
 魔法攻撃をする敵全体に火傷=Áp dụng Burn lên tất cả kẻ địch sử dụng tấn công phép thuật
 敵全体をノックバック（飛行効果無視=Đẩy lùi tất cả kẻ địch (bỏ qua hiệu ứng Bay)
@@ -2027,7 +2028,7 @@ HP吸収ダウン回復量ダウン=Hấp thụ HP Giảm Hồi phục Giảm
 後ろから１番目の敵と周囲にＴＰダウン、呪い\n　（挑発無視）=Giảm TP và áp dụng Nguyền lên kẻ địch phía sau cùng và vùng xung quanh (bỏ qua hiệu ứng Khiêu Khích)
 カースドメイル・ロクス=Cursed Mail Roqs
 尽き果てぬ動力で、命令を遂行する魔鎧。\n剛毅たる双肩は、領域を侵す者を拒み圧砕する。=Một bức thư nguyền rủa thực hiện mệnh lệnh không ngừng.\nVai áo kiên cố đẩy lùi và nghiền nát kẻ xâm nhập.
-前から１番目の敵に物理ダメージ=Gây Sát Thương Vật Lý lên kẻ địch phía trước nhất
+前から１番目の敵に物理ダメージ=Gây sát thương vật lý cho kẻ địch phía trước
 
 前から敵３体に魔法固定ダメージ=Gây sát thương phép thuật cố định lên 3 kẻ địch phía trước
 物理か魔法攻撃力が最も高い敵１体にステータ\n　スアップ解除、魔法ダメージ=Loại bỏ hiệu ứng tăng trạng thái và gây Sát Thương Phép Thuật lên kẻ địch có P.ATK hoặc M.ATK cao nhất
@@ -2036,7 +2037,7 @@ HP吸収ダウン回復量ダウン=Hấp thụ HP Giảm Hồi phục Giảm
 後ろから１番目の敵と周囲にＴＰダウン、呪い\n　（挑発無視）=Giảm TP và áp dụng Nguyền lên kẻ địch phía sau cùng và vùng xung quanh (bỏ qua hiệu ứng Khiêu Khích)
 カースドメイル・ロクス=Cursed Mail Roqs
 尽き果てぬ動力で、命令を遂行する魔鎧。\n剛毅たる双肩は、領域を侵す者を拒み圧砕する。=Một bức thư nguyền rủa thực hiện mệnh lệnh không ngừng.\nVai áo kiên cố đẩy lùi và nghiền nát kẻ xâm nhập.
-前から１番目の敵に物理ダメージ=Gây Sát Thương Vật Lý lên kẻ địch phía trước nhất
+前から１番目の敵に物理ダメージ=Gây sát thương vật lý cho kẻ địch phía trước
 
 魔蜘から生まれ、かの乱を生き延びた魁傑の子蜘蛛。同胞を喰らい宿した魔力を糧に、再び煉獄の地へと糸を張り巡らせる。=Sinh ra từ nhện quỷ, hậu duệ của một đại tướng tai ương đã sống sót qua cuộc nổi loạn lớn. Nuốt chửng đồng tộc và được thúc đẩy bởi ma lực dự trữ, nó giăng mạng qua vùng đất ngục lần nữa.
 『六凶』=Sáu Tai Ương
@@ -2242,7 +2243,7 @@ EXTREMEバトル時に一定確率で強敵が出現する。=Một kẻ địch
 自身を中心に物理／魔法防御力アップフィールド=Triển khai một vùng hiệu ứng xung quanh bản thân, tăng Phòng thủ vật lý và Phòng thủ ma thuật.
 【召喚体通常攻撃】=[Tấn công thường của Đơn vị được triệu hồi]
 対象のＨＰ50％未満：ノックバック=Nếu HP mục tiêu dưới 50%: Đẩy lùi.
-子分を４体召喚=Triệu hồi 4 tên thuộc hạ.
+子分を４体召喚=Triệu hồi 4 tay sai.
 子分の数が多いほど：回復量アップ=Càng có nhiều thuộc hạ, lượng hồi phục càng lớn.
 自身にＨＰ回復=Hồi phục HP của bản thân.
 味方全体に物理攻撃力アップ=Tăng Tấn công vật lý của tất cả đồng minh.

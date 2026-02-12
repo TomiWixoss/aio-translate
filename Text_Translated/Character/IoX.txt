@@ -21,7 +21,7 @@ r:"^対象の味方のＨＰを(\d+)回復対象の味方のＴＰを100回復�
 r:"^自分以外の最も魔法攻撃力が高い味方１キャラに悪魔の口づけを付与する対象の味方のＨＰを(\d+)回復対象の味方のＴＰを100回復範囲内の味方のＨＰを(\d+)回復範囲内の味方のＴＰを50回復$"=►Ban trạng thái [Nụ Hôn Quỷ] cho đồng đội khác có sát thương ma thuật cao nhất.\n►Hồi $1 máu cho đồng đội.\n►Hồi 100 TP cho đồng đội.\n►Hồi $2 máu cho đồng đội trong phạm vi.\n►Hồi 50 TP cho đồng đội trong phạm vi.
 
 ##EX##
-シークレットレッスン=Secret Lessons
+シークレットレッスン=Bài học bí mật
 シークレットレッスン+=Secret Lessons+
 
 ##Io Xmas##

@@ -95,11 +95,11 @@ Summary:
 おいしい？=Ngon không?
 ぎゅ！\nぴぎゅーぎゅ♪=Gyu! Pigyu-gyu♪
 たくさん食べてね。=Vậy ăn nhiều lên.
-ぴぎゅ！=Pigyu!
+ぴぎゅ！=Ụt!
 
 Cutscene:
 ぜぃぜぃ、はぁはぁ……=*thở dốc*, *hổn hển*...
-ぜぇはぁ……=*hổn hển*...
+ぜぇはぁ……=*thở dốc*...
 ぴぎゅぴぎゅ……ぴぎゅぴぎゅ……ぴぎゅぴぎゅ……=Pyugyupigyugyu...pigyupigyu... pigyupigyu...
 ぜぇはぁ……うぅ……=*hổn hển*... Ugh...
 ……あぁっ=Aah
@@ -113,7 +113,7 @@ Cutscene:
 んぐ、んぐ、んぐ、んぐ、んぐ=Ngu, ngh, ngu, ngh, nngu
 あぁっ、生き返りました～♪=Aa~ Tớ sống lại rồi~♪
 見ず知らずのわたしにこんなに親切にしてくれるなんて……=Tớ không ngờ cậu lại tốt bụng với người lạ như tớ...
-ひょっとしてもしかして=Không lẽ...?
+ひょっとしてもしかして=Có thể chăng...?
 あなたは神様なんですか！？=Cậu là thần thánh sao?!
 
 
@@ -306,7 +306,7 @@ Summary:
 その……ハーフリングの方は他にもいらっしゃるでしょうし。\n人違い、ということはないのでしょうか？=Ừm... Chắc chắn còn những thứ lai khác trong lâu đài nữa.\nCó lẽ cô nhầm người rồi.
 ん……\nにおい、おなじ。=Mm... Không, mùi giống hệt.
 でも。\nんー……=Nhưng... Hmm...
-どうしたんですか？\nプレシアちゃん。=Sao thế, Precia?
+どうしたんですか？\nプレシアちゃん。=Sao vậy, Precia?
 おなじ、なのに、ちがう……？\nわかんない。=Mùi giống hệt, nhưng cũng khác...?\nTớ không biết.
 ……えっと……\nライラエルさん、世の中には洗脳や変身の魔法などもあると聞きます。\nもしかしたらペコリーヌさんたちは、誰かに陥れられたんじゃ……=...Ừm...\nLyrael-san, tớ nghe nói còn có ma thuật thôi miên và biến hình trong thế giới này nữa.\nCó lẽ Pecorine và Precia đã bị ai đó lừa...
 あのさ、仲間庇ってるだけっぽく聞こえるかもだけど。\nこいつら食い意地張ってるけど、そんな悪いことするやつじゃないのよ！\n食い意地はほんとやばいけど！=Anh biết đấy, có thể nghe như tôi chỉ đang cố bảo vệ bạn bè.\nNhưng, dù những người này có thể rất tham ăn,\nchúng không phải loại người sẽ làm chuyện tồi tệ như vậy chỉ vì đói!\nDù chúng cực kỳ tham ăn, thì vẫn vậy!
@@ -340,7 +340,7 @@ Summary:
 ……すみません。\n言えないんです。=...Tôi xin lỗi. \nChúng tôi không thể nói.
 言えないって……\nこの状況じゃ、立場を悪くするだけってことくらい\nわからないわけじゃないですよねっ！？="Không thể nói"...?\nCậu có hiểu rằng câu trả lời kiểu đó sẽ chỉ khiến cậu rơi vào thế khó hơn sao?!
 姉貴。=Chị...
-なっ、なによ？=S-Sao cơ?
+なっ、なによ？=Sao- Sao vậy?
 ちょい、うるさい。=Làm ơn, im đi.
 ちょっ……！\nどっちの味方なのよヴルムはっ！=Này...!\nWurm, cậu đứng về phe nào vậy?!
 リンド。\nあなたの言うことはもっともですが……少し落ち着きましょう。=Lind, điều cậu nói đúng, nhưng... làm ơn bình tĩnh một chút.
@@ -468,7 +468,7 @@ Cutscene:
 はっ=Hah.
 ひょえぇぇえええっ～！！=Hyoeeeeeeeh!!
 あぶないっ=Cẩn thận!
-大丈夫ですか？=Các cô có sao không?
+大丈夫ですか？=Cậu ổn chứ?
 はい！　ありがとうござい……=Vâng! Cảm ơn rất nhiều-...
 ぅううっ……=Awawawawa...
 あ……あっ！=À... À!
@@ -497,7 +497,7 @@ Summary:
 ──どぉおん！=Uầy!
 おーい！\n大丈夫か～？\n怪我はないか～？=Này!\nCậu ổn chứ? Có bị thương không?
 はーいっ！\nわたしは大丈夫でーすっ！=Vâng!\nTôi ổn!
-わ、私も……=T-Tôi cũng...
+わ、私も……=T-Ta cũng...
 ああ、それがな……=Ừ, được rồi...
 何かあったんですか？=Chuyện gì vậy?
 あっ、ナイトさんっ♪\nこんにちはー！\nお散歩ですかっ？=À, Naito-san♪\nChào! Đi dạo à?
@@ -689,7 +689,7 @@ Summary:
 確かにすごいけど……\nこ、これって『仲良くなる』の範疇なのかしら……？=Thật sự khá ấn tượng, nhưng...\nC-Cái này có thực sự thuộc về hạng mục 'thân thiện'...?
 ……ええっ！？\nお嬢さま、あっちっ！\nクルミちゃんの方を見てくださいっ。=...H-Hả?!\nMy Lady, ở kia kìa!\nNhìn Kurumi-chan đi!
 『みんなお待たせっ、\nわたしは魔法少女ベルルちゃん☆』="Xin lỗi vì để mọi người chờ lâu,\nTôi là phù thủy thiếu nữ Bellula☆"
-ぽふぽふぽふ♪=*vỗ tay*♪
+ぽふぽふぽふ♪=*vỗ tay vỗ tay*♪
 『大きな拍手ありがとうっ！\n今日は応援してくれるみんなのために\n祝福の音を鳴らすからね！』="Cảm ơn vì những tràng pháo tay vang dội!\nTôi sẽ tạo ra âm thanh chúc phúc cho tất cả mọi người đang cổ vũ cho tôi hôm nay!"
 ぽふぽふぽふぽふ～♪=*vỗ tay vỗ tay*♪
 拍手……\nスズメ、あれ動物たちが拍手してるわよね？\nあたしの見間違いじゃないわよねっ？=Vỗ tay...\nSuzume, những con vật kia đang vỗ tay, phải không?\nTôi không nhầm chứ?"
@@ -698,7 +698,7 @@ Summary:
 う～ん……\nやっぱり裏世界だからですかねぇ。\n世界が変わると、いろんなことが変わるものなんですよ～=Hmm... Có lẽ vì chúng ta đang ở Thế Giới Đảo Ngược.\nRất nhiều thứ thay đổi khi chính thế giới thay đổi.
 違う世界だから……\nそうね、確かにそうなんだけど……=Đúng là một thế giới khác, nên...\nCó lẽ vậy, nhưng..."
 その言葉で片付けていいのかしら。\nいくらなんでも、懐くことへの抵抗がなさすぎるような……ううん。\nまるで、『懐くように生まれてる』みたいな──=Tôi tự hỏi liệu có thể dừng lại ở đó được không.\nDù nhìn thế nào, chúng cũng dường như không có sự đề phòng khi gắn bó...\nKhông. Giống như chúng 'sinh ra để gắn bó' vậy.
-どうかしたの？=Sao thế?
+どうかしたの？=Sao vậy?
 えっ？\nあ……ううん、なんでもないわ。\nまた、ちょっと考えすぎちゃったみたい。=Hả?\nỒ... Không, không có gì.\nCó lẽ tôi lại suy nghĩ quá nhiều.
 思ってるよりも、この世界に緊張してるのかもね、あたしったら。\nこういうの悪いところよ、サレン？=Có vẻ tôi cảnh giác với thế giới này hơn tôi nghĩ.\nSaren, còn cô thì sao?
 それからしばらくの間、動物たちと触れ合っていると──\nランドソルへ帰還する時間がやってきた。=Sau khi chơi đùa với những con vật một lúc, đã đến lúc trở về Landosol.
@@ -763,7 +763,7 @@ Summary:
 『わひゃあああっ！\n蜘蛛がこっちにも～っ！！』=Ôi trời!\nỞ đây cũng có nhện nữa~!!
 姫さま？=Princess?
 ……そ、その。\nな、なんでもありません。=...K-Không...\nK-Không có gì.
-そうですかっ？=Vậy sao?
+そうですかっ？=Vậy ư?
 ……とにかく。何度も言っているとおり、今は騎士たちに\n身の潔白を証明するための行動をしていただかなくてはなりません。\nあなたが手伝ってしまっては、御破算というものですよ。=...Nói chung, như tôi đã nói nhiều lần trước đây, Sir Knight bây giờ phải hành động để chứng minh sự vô tội của họ.\nNếu cậu giúp họ, mọi chuyện sẽ thành công cốc.
 う～んっ、それはわかってるんですけど～っ！=Ừm, tôi biết, nhưng...!
 クローチェさん。\n心配なのはわからないでもないですけど、だいじょうぶですよ。\n騎士さんたちヘンですけど、結構強いですから。=Croce, tôi không phải không hiểu tại sao cậu lo lắng, nhưng họ sẽ ổn thôi.\nKishi-san và những người khác có thể lạ, nhưng họ khá mạnh đấy.
@@ -1327,7 +1327,7 @@ Summary:
 なんだ、慰めに来てくれたのか？　ありがとうな。\nだが嬢ちゃんが謝ることじゃねぇさ。\nもともとリマさんは俺には高嶺の花だったんだ──=Sao, cô đến an ủi tôi? Cảm ơn. Nhưng cô không cần xin lỗi đâu, cô gái trẻ. Rima luôn là một đóa hoa tinh khiết nhất với tôi~
 いえ、その……きっとアプローチがよくなかったと思うんです！\n順序というか、段取りというか……！=Không, ừm... Tôi không nghĩ cách tiếp cận đó hay đâu!\nTôi không biết là thứ tự hay cách bố trí...!
 実際リマさんは喜んでくれましたし……\nこうやって段階を踏んでいけば、きっとヴォルガーノさんの\n気持ちに気づいてくれるはずです！=Thực tế, Rima rất vui...\nTôi chắc chắn cô ấy sẽ nhận ra Volgano-san cảm thấy thế nào nếu chúng ta làm theo các bước như thế này!
-お、おう……=V-Vâng...
+お、おう……=D-Dạ...
 だから私、これからもヴォルガーノさんに協力します。\n二人の恋路を、きっと成就させてみせますから！=Chính vì vậy tôi sẽ tiếp tục hợp tác với anh từ bây giờ, Volgano.\nTôi chắc chắn chúng ta sẽ có thể thực hiện tình yêu của anh dành cho cô ấy!
 任せてください。私、恋愛小説とか詳しいので……\nきっとお力になれると思います！　がんばりましょう！=Giao cho tôi. Tôi biết rất nhiều từ việc đọc tiểu thuyết lãng mạn...\nTôi chắc chắn có thể giúp! Hãy cố gắng hết sức!
 そ、そうか……ありがとな。=T-Tôi hiểu rồi... Cảm ơn.
@@ -1351,7 +1351,7 @@ Summary:
 あんたもよーく知ってるやつよ。\nクイズなんかにするまでもなく、ね。=Là một người bạn biết rất rõ.\nBạn thậm chí không cần phải làm một câu đố về điều đó.
 あんたがトクベツなのも、そいつのナイトって理由が大きいわけだし。\nロボ娘に充填できんのだって、そのせーなんじゃない？\n規格が近いからーとか。知んないけど。=Lý do bạn đặc biệt như vậy, phần lớn là vì bạn cũng là một 'Knight'.\nLý do bạn có thể đâm vào cô gái robot đó, chẳng phải vì vậy sao?\nĐặc tả có thể giống nhau, có lẽ? Không chắc lắm.
 まー\nモノホンのチーターの話は置いとくとして……=Ừ, bỏ qua chủ đề về kẻ gian lận chính hãng này đi...
-んー=Hmm...
+んー=Hừm...
 あんたたちの、ジオ・テオゴニアでの冒険も。\nそろそろターニング・ポイントってカンジかもねー=Tất cả các bạn, và những cuộc phiêu lưu của các bạn ở Gio Teogonia, nữa.\nCó vẻ như sắp đến lúc đạt đến Điểm Chuyển Biến rồi.
 あはっ。\nいーわねーその豆鉄砲ガオー=Aha. Đúng rồi.\nKhuôn mặt 'người bắn đậu' bối rối đóー
 そりゃあ？\nまだ探索してない場所はたくさんあるでしょーけど。=Nhưng mà?\nCòn nhiều nơi các bạn chưa khám phá.

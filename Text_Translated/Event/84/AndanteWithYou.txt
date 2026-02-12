@@ -31,7 +31,7 @@ Chapter 1
 というわけで、早速調査をしたいんですけど……=Và rồi chúng ta có mặt ở đây, chúng tôi quyết định điều tra ngay...
 そのためには、一旦この魔物たちをなんとかしなきゃね。\nかなり気が立ってるみたいだし……=Trước khi làm việc đó, chúng ta phải giải quyết đám quái vật này trước. Chúng có vẻ khá kích động...
 なら私が、唱喚術で魔物たちを眠らせます。\nみなさんは援護をお願いします！=Trong trường hợp đó, tôi sẽ dùng kỹ thuật niệm chú để cho những con quái vật đó ngủ. Mọi người, che chở cho tôi!
-ええ、お任せください。=Vâng, giao cho chúng tôi.
+ええ、お任せください。=Vâng, cứ để chúng tôi.
 この魔物たちの様子、私が前に見たのとよく似てる……\nもしかして、ここでもあの歌が聞こえるんじゃ──=Những con quái vật này trông giống hệt những con tôi thấy trước đây... Có lẽ tôi cũng có thể nghe thấy bài hát đó ở đây...
 ……？\nあの精霊は……？=...? Linh hồn đó là...?
 ……！\n待ってください！=...! Xin hãy đợi!
@@ -150,7 +150,7 @@ Chapter 2
 例えば唱喚をしているとき。\n自然の息吹と、精霊たちを通して──\n自分がこの世界と繋がっているんだと感じるんです。=Ví dụ, khi tôi thần chú, tôi cảm thấy mình kết nối với thế giới này qua hơi thở của thiên nhiên và các tinh linh.
 唱喚士にとって歌は、自然や共に生きる存在と想いを交わすもの。\nだからこそ、時間をかけてちゃんと向き合う必要があります。=Đối với một Người Gọi Bài Hát, một bài hát... là một cách để trao đổi những tâm tư sâu kín nhất của mình với thiên nhiên và những sinh vật sống trong đó. Chính vì lý do đó, một người cần dành thời gian để soạn một bài hát mới một cách thích hợp.
 解決には時間がかかるかもしれませんが……\n安心してくださいね、ランファさん。\n同じ唱喚士として、私も精いっぱいサポートしますから！=Có thể sẽ mất một chút thời gian để chúng ta giải quyết vấn đề này, nhưng... Đừng lo, Ranpha-san. Với tư cách là một đồng nghiệp Người Gọi Bài Hát, tôi sẽ cố gắng hết sức để hỗ trợ cô!
-え、ええ……=V-Vâng...
+え、ええ……=Đ-Được...
 歌は、自然や共に生きる存在と想いを交わすもの……\n……そんなこと、考えたことなかったわ……="Hát là một cách để trao đổi những tâm tư sâu kín nhất của mình với thiên nhiên và những sinh vật sống trong đó"... Tôi chưa bao giờ nghĩ về nó như vậy...
 それに、精霊と契約なんて……\nわたし、したことあったかしら……？=Hơn nữa, một hợp đồng với một tinh linh... Tôi đã từng làm điều gì như vậy trước đây chưa...?
 でも、歌を作る特訓なんて何をすればいいのかしら？\n心の中を形に、っていうのも難しいわよね……=Nhưng, điều đó đặt ra một câu hỏi... cô ấy nên tập luyện thế nào để soạn một bài hát thích hợp? Thật khó để định hình những gì trong trái tim...
@@ -528,7 +528,7 @@ Chapter 6
 じゃ、じゃあ……\nやっぱり、わたしのせい、なのね……\nごめん、なさい……=V-Vậy thì, tôi biết rồi... thật sự là lỗi của tôi... Xin lỗi...
 わたしが昨日、起きたことをちゃんと伝えてたら……\nそうしたら、こんなことには──=Giá như tôi đã kể cho ngài nghe chuyện xảy ra hôm qua một cách rõ ràng... thì chuyện này đã không xảy ra...
 それは違いますよ、ランファさん。=Ngài sai về điều đó, Ranpha-san.
-え……？=Hả...?
+え……？=Hở...?
 そうですよ。\n声のことを言ってもらいたかったのは確かですし、\nこうなったきっかけはランファさんにありますけど。=Đúng vậy. Thật là ngài nên đã kể cho chúng tôi về giọng nói đó, và đây là kết quả của những gì ngài nói, Ranpha-san.
 でもこれって、正直予測できなくないですか？\nだって精霊がおかしくなってるなんて、\n今まで誰も知らなかったんですよ？=Nhưng, đây không phải là kết quả có thể đoán trước sao? Ý tôi là, cho đến giờ không ai biết rằng các linh hồn đang hành xử lạ, đúng chứ?
 それに、ランファさんは精霊に止めてほしくて\n「やめて」って言ったわけじゃないんでしょう？\nなら、私たちが責めるのは違うと思うわ。=Hơn nữa, Ranpha-san... ngài nói "dừng" không phải vì muốn chuyện này xảy ra, đúng chứ? Trong trường hợp đó, tôi không nghĩ chúng ta có lý do để trách ngài.
@@ -563,7 +563,7 @@ Player Prompts
 管理者がいないから……？=Bởi vì không có "Quản trị viên"...?
 このままだとどうなるの？=Tình hình có thể sẽ tệ hơn nếu cứ tiếp tục như vậy chứ?
 どうやったら止められるの？=Chúng ta phải làm sao để dừng chuyện này đây?
-任せて！=Giao cho tôi!
+任せて！=Để tôi!
 ランファさんなら、きっとできるよ。=Ranpha-san, tôi tin cô
 
 Chapter 7
@@ -742,7 +742,7 @@ Player Prompts
 New Titlecards
 歪んだ音寵の精霊？=Linh Hồn Âm Thanh Biến Dạng?
 エルフの子どもたち=Trẻ Con Loài Người Tộc Tiên
-おばあさん=Bà Nội
+おばあさん=Bà
 ツムギ・シェフィ・チカ=Tsumugi Sheffy Chika
 
 Scenario Boss Fight

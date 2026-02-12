@@ -56,7 +56,7 @@
 すごい賑わいね……お客も、お店も。=Đông người quá... Khách hàng, các cửa hàng...
 あちらのお店は、開店セールのようですね。\nふむ……ふむ……？=Có vẻ như cửa hàng kia đang có đợt khai trương. Hừm... Hừm?
 コッコロ、さん？=Kokkoro-san?
-何か、気になる？=Có chuyện gì khiến cô bận tâm sao?
+何か、気になる？=Có chuyện gì khiến anh bận tâm sao?
 あ、その……\n新しいお店はどれも、\n尋常ではないほど安いうえ、品質も大変良いのです。=À, ừm... Tất cả các cửa hàng mới đều rẻ bất thường và chất lượng rất tốt.
 ええと……\n安く買い物をするぶんには、良いことじゃないの？=Ưm... Liệu có phải là ý kiến tốt để mua đồ giảm giá không?
 はい、ですが……\nこれではとても、利益が出るとは思えません。\n仕入れの値段がいくらまでかは、存じ上げませんが……=Vâng, nhưng.. Tôi không nghĩ việc này sẽ có lợi nhuận cao. tuy nhiên, tôi không biết giá thị trường là bao nhiêu.
@@ -71,7 +71,7 @@
 ああ！\nオーナーの問屋ギルドが、気前良くってね！\nおかげでお客さんにも、たくさんサービスできるってもんさ！=Ồ! Guild bán buôn rất hào phóng! Nhờ họ, chúng tôi có thể cung cấp nhiều dịch vụ cho khách hàng!
 問屋……ふむ。\nこのあたりで一番大きな問屋はたしか、【メルクリウス財団】でしたか。=Các nhà bán buôn...... hmmm. Tôi đoán nhà bán buôn lớn nhất quan đây là [Tổ chức Mercurius], đúng không?
 【メルクリウス財団】？\nいやいや。\nウチのオーナーは、【アマルガム貿易】だよ！=[Tổ chức Mercurius]? Không, không. Chủ của chúng tôi là Amalgam Trade!
-【アマルガム貿易】……？=[Amalgam Trade]...?
+【アマルガム貿易】……？=[Thương mại Amalgam]...?
 キャルちゃん。=Kyaru-chan.
 う～ん……=Hừm...
 にゃあ、やっぱりあたしは焼き魚定食で決まりにゃ！=Nyaa, đã quyết định rằng tôi sẽ gọi set cá nướng!
@@ -106,7 +106,7 @@
 あたしの屋台も、味でなら負けないけど……\nでもこの値段じゃ、商売あがったりにゃ！=Quầy của tôi có thể cạnh tranh về hương vị, nhưng với giá này, tôi sẽ phá sản.
 オヤジさん！\nこんな売値で、いったいどーやって利益を出してるのにゃ！？=Ông già! Làm sao có thể có lợi nhuận với giá bán như vậy chứ, nya!?
 いやー、利益なんて全然だけどね。\nでも、材料は【アマルガム貿易】が用意してくれるし……\nそれにおじさんは、美味しいものを食べて喜ぶみんなの顔が見たいから！=Ồ không, lợi nhuận không quan trọng lắm. Nhưng Amalgam Trade đã cung cấp nguyên liệu cho chúng tôi... Hơn nữa, tôi muốn thấy nụ cười của mọi người khi ăn đồ ngon!
-う～～～～～ん……=Hmm...
+う～～～～～ん……=Hừm...
 ひととおり市場を回ってみましたけれど……\n明確な悪事の証拠は、\nこれっぽっちも見つけられませんでしたわね。=Tôi đi khắp chợ, nhưng... không tìm thấy bằng chứng rõ ràng về hành vi sai trái.
 見て回るだけのつもりが……\nあまりの安さに、つい買い込みすぎちゃった……=Tôi tưởng chỉ đi xem, nhưng cuối cùng lại mua quá nhiều thứ. Mọi thứ đều quá rẻ!
 うぅ……\n私もついつい、飲みすぎちゃった……\nようやく酔いが抜けてきたわ……=Ugh... Tôi phấn khích quá và uống quá nhiều... Cuối cùng tôi cũng bắt đầu tỉnh lại...
@@ -146,7 +146,7 @@
 アキノさん？\nどこか具合でも悪いの？=Akino? Cậu có cảm thấy không khỏe không?
 たしかに……先ほどお話させていただいた\n【アマルガム貿易】の方々も、市場で大安売りをする方々も……\n悪人ではないようでしたが。=Đúng vậy... Thương mại Amalgam tôi đề cập trước đó, và những người bán ở chợ... Họ dường như không phải người xấu.
 私は……正直なところ、彼らに反感を持っているようなのです。\n商売敵という関係を抜きにしても、ですわ。=Tôi... Thành thật mà nói, tôi cảm thấy ác cảm với họ. Ngay cả khi không có mối quan hệ đối thủ trong kinh doanh.
-っていうと？=Ý cậu là sao?
+っていうと？=Ý cô là sao?
 そうですわね……\n私の好きな商人のメソッドに、\n『三方よし』という言葉がありますの。=Để xem... Một trong những ý tưởng yêu thích của tôi về việc làm thương nhân là "sampo yoshi" - Lợi ích ba bên.
 三方とは顧客、商人、そして社会。\n買い手よし、売り手よし、世間よし──\nそれぞれが満足できてこそ、はじめて良き商いであるという考えですわ。=Ba bên trong đó là, khách hàng, thương nhân và xã hội. Một người mua tốt, một người bán tốt và một xã hội tốt. Chỉ khi cả ba đều hài lòng bạn mới trở thành một thương nhân tốt.
 【アマルガム貿易】の方々のような、顧客を満足させるために\n己が身を削るが如き商法は……一見して素晴らしいもののようですが。\n長期的に見れば、巡り巡って顧客の側も損をする可能性もあるのです。=Các doanh nghiệp như thương mại Amalgam, hy sinh bản thân để đáp ứng khách hàng... Ấn tượng đầu tiên, dường như là một điều tuyệt vời. Về lâu dài, có thể khách hàng cũng sẽ bị thiệt hại.
@@ -158,7 +158,7 @@
 今度はどうしたにゃ！？=Lần này là sao vậy, nya!?
 【アマルガム貿易】直営のフランチャイズが……\n今度は、百店舗同時オープンするんですって！=Một chuỗi nhượng quyền trực tiếp do Amalgam Trade quản lý... sắp mở... lần này.... Họ sẽ mở một trăm cửa hàng cùng một lúc!
 ええええっー！？=Cái gì?!
-どういうことぉーっ！？=Ý cậu là sao?
+どういうことぉーっ！？=Ý cậu là gì?
 あむっ=Amph!
 ごちそうさまでした=Cảm ơn bữa ăn
 ではでは、本日のデザート……=Vậy thì, món tráng miệng hôm nay...
@@ -272,7 +272,7 @@
 召喚魔法ですっ！？=Ma thuật triệu hồi?!
 う〜ん、違うね。\n歌を媒介にした唱喚術と、宝石魔法のミックスかな～？\nどっちにしても、あんまり良い趣味とは言えないね。=Hừm, không phải. Có lẽ là hỗn hợp giữa hát và ma thuật triệu hồi? Dù sao thì, cũng không phải gu thật sự.
 ……行きます。=...đi.
-……っと！=...Ui chà!
+……っと！=...Ôi chà!
 ボスッ！=Sếp!
 ふふふっ……うんっ、合格〜☆\nよくできましたっ☆　これなら少しは楽しめそう……♪=Hehehe... Đúng rồi, cậu vượt qua rồi~☆ Giỏi lắm☆ Tôi nghĩ tôi sẽ có thể tận hưởng chút nữa...♪
 ご褒美に……\nちょっとだけ私の奥の手、見せてあげようかな～♪=Như một phần thưởng... Tôi nghĩ tôi sẽ cho cậu xem một chút về bí kíp của tôi~♪
@@ -305,7 +305,7 @@
 あ、ど、ども……=À, xin chào...
 ……じゃなくって！\nあんた、あたしのこと知ってるの！？=...Không, khoan! Cô biết tớ sao?!
 うん、知ってるよ～\nもうちょっと、自分が有名人だっていう\n自覚を持ったほうがいいよ？　キャルちゃん？=Ừ, tớ biết. Cô nên ý thức hơn một chút rằng mình là một người nổi tiếng, Kyaru.
-へっ……？=Hả...?
+へっ……？=Hở...?
 だってあなたは、覇瞳皇帝の元側近で〜\n今の王女さまとも仲良しで。\nそれに、{playername}くんの仲間なんだもん♪=Rốt cuộc, cô là trợ lý cũ của Kaiser Insight, và là bạn của công chúa hiện tại. Hơn nữa, cô còn là bạn của {playername}-kun♪
 歪んだ坩堝みたいなこの世界、その中心……\nん～、正確には中心から限りなく近いところに、\nあなたはいるんだから。=Thế giới uốn ván, như một cái nồi này, trung tâm của nó... Hmm, cho chính xác, cô đang ở một nơi vô cùng gần với trung tâm.
 キャルちゃんたちに興味を持つひとは、\nキャルちゃんたちの想像以上に多いと思っておいたほうが\nいいんじゃないかな？=Tớ nghĩ tốt nhất là nên cho rằng có nhiều người quan tâm đến Kyaru-chan và những người khác hơn cô tưởng tượng được.
@@ -333,7 +333,7 @@
 私たちのギルド、【ドラゴンズネスト】に入ってくれたら、\n食事も寝床も、もちろん身の安全も保証するよ。\nちょっとしたお仕事はあるけどね♪=Nếu cô gia nhập guild của tớ, Dragonsnest, tớ đảm bảo cô có thức ăn, chỗ ngủ, và tất nhiên, an toàn. Tớ có một chút việc cần làm, tuy nhiên♪
 悪いけれど……お断りするわ。=Xin lỗi, nhưng... Tớ từ chối.
 誘ってくれるのはうれしいけれど……\n今の私には、記憶はなくても……帰る家があるから。=Tớ rất vui vì cô mời tớ, nhưng... ngay cả khi tớ không có ký ức... Tớ vẫn còn một ngôi nhà để trở về.
-……ん～……=...Ừm...
+……ん～……=...Hmm...
 そっかぁ～……ふぅ～ん。=Ra vậy... Ừm...
 ざ〜んねん☆\nフラれちゃった。=Tiếc quá ☆ Tớ bị từ chối rồi.
 でも、何か困りごとがあったら、いつでも私たちを頼ってきて。\nギルド管理協会で私の名前を出せば、\nすぐ連絡がつくようにしておくから。=Nhưng nếu các cậu cần giúp đỡ bất cứ điều gì, cứ tới tìm chúng tớ. Nếu nhắc tên tớ ở hiệp hội quản lý guild, chúng tớ sẽ liên hệ ngay.
@@ -343,7 +343,7 @@
 ……行っちゃった……\nなんか、嵐みたいなやつだったわね。=...Nó đi rồi... Giống như một cơn bão.
 そうね……驚いたわ。=Đúng vậy... Tớ ngạc nhiên.
 ──あ、そうだ☆=À, đúng rồi☆
-ひゃああっ？！=Hự?!
+ひゃああっ？！=Á?!
 ごめんね、ひとつ言い忘れ☆=Xin lỗi, tớ quên chưa nói một điều☆
 なななによっ！？=C-C-Cái gì?!
 七冠の一人──覇瞳皇帝がいなくなったことによる、世界への影響。\nそれはキャルちゃんたちが考えているよりも、ず〜っと大きいよ。\nまるで世界に見えない穴が開いたみたいにね。=Việc mất mát một trong Bảy Vương Miện, Kaiser Insight, có tác động đến thế giới. Nó lớn hơn nhiều so với những gì Kyaru-chan và những người khác nghĩ. Giống như một lỗ hổng vô hình đã mở ra trong thế giới.
@@ -452,7 +452,7 @@
 で、でも……っ！\nもしかしたら、キャルちゃんが捕まってるかもなのに……！=Nh-Nhưng...! Có thể Kyaru-chan đã bị bắt cóc...!
 ところで、騎士の少年。\n以前、お別れの際に、こう申し上げたのを覚えておいでですかな？=Nhân tiện, chàng hiệp sĩ trẻ, ngươi có nhớ điều tôi nói khi chúng ta chia tay không?
 「次に会う時は、別の趣向でお相手いたしましょう」、と。=Lần gặp mặt tiếp theo, tôi sẽ phải xử lý ngươi theo một cách khác.
-そういえば……=Nghĩ lại thì...
+そういえば……=Nhớ lại thì...
 別の趣向……？=Một kế hoạch khác...?
 何も剣や魔法でのみの力比べが、戦いのすべてではありますまい。\nそもそもワタクシ、切った張ったは苦手なものですし。=Trận chiến chỉ là cuộc tranh tài sức mạnh bằng kiếm và phép thuật. Hơn nữa, tôi không giỏi chém chém lắm.
 というわけで……そちらの王女さま。=Và vì vậy... Thưa Ngài.
@@ -535,7 +535,7 @@
 プリンセス・ユースティアナ、圧倒的にリードしてやがります！\nもはや勝負は見えたです！？=Công chúa Eustiana, cô đang dẫn đầu áp đảo! Cô đã thắng cuộc thi rồi hả?!
 ったく、あのオッサンも\nもうちょっと張り切ってくれないと。\n実況しがいがないんだけどなぁ。=Ý tôi là, cậu ta cần nâng cấp trình độ một chút. Tuy nhiên, tôi không nghĩ cậu ta đáng để tôi bình luận trực tiếp đâu.
 はい、追加の鳥つくね50本！　ねぎま50本！\nおまちどうさまー！=Thêm 50 con chim nữa! 50 củ hành xanh! Cảm ơn vì đã chờ đợi!
-あ、ありがとうございますっ……=C-Cảm ơn rất nhiều...
+あ、ありがとうございますっ……=T-T cảm ơn rất nhiều...
 うぐっ……\nさ、流石にちょっと、苦しくなってきちゃいました……=Ugh... N-Nó bắt đầu đau một chút...
 でも……絶対負けません！\nキャルちゃんを助け出すために！=Nhưng... Tôi sẽ không thua! Để cứu Kyaru!
 また一方──\n気絶から目覚めたキャルは、予想外の相手と対峙していた。=Mặt khác, Kyaru, người vừa tỉnh lại từ trạng thái bất tỉnh, đang đối mặt với một đối thủ bất ngờ.
@@ -543,7 +543,7 @@
 見ない間に、ずいぶんと毛艶が良くなったじゃないの。\n{playername}くんのところで、\nよほど美味しいエサをもらっているのかしら。=Lông của cô đã đẹp hơn nhiều trong khi tôi không để ý. Tôi tự hỏi liệu cô có được ăn những món ngon ở chỗ của {playername} không.
 へ、陛下……、どうしてっ……？\n城の地下に、幽閉されているはずじゃ……！？=M-Majesty... Tại sao...? Người không phải đang bị giam cầm trong tầng hầm lâu đài sao?!
 ふん……\nどうやら、その愚かさには変わりがないようね。\nこの私がいつまでも、虜囚の辱めに甘んじると思って？=Hmph... Có vẻ như sự ngốc nghếch đó chưa thay đổi. Người có nghĩ rằng tôi sẽ có thể chịu đựng sự nhục nhã của một tù nhân mãi mãi không?
-……ッ……=...Ngh...
+……ッ……=...Ư...
 とぼけるんじゃないわ。\n{playername}くんを助けるために\nあの女がウロウロしているのはわかっているんだから。=Đừng giả vờ ngốc. Tôi biết người phụ nữ đó đang lảng vảng để giúp {playername}.
 さて……\nいつまで我慢できるかしらね、キャル。\n魔法を使うのも久しぶりだから、加減を誤ってしまいそうだわ……♪=Vậy thì... Tôi tự hỏi cô sẽ kìm nén được bao lâu, Kyaru. Đã lâu rồi tôi không dùng ma thuật, nên tôi sợ mình sẽ mắc lỗi...♪
 や、あっ……あああーーっ！！！！=Yah, ah... ahhhh!!!!
@@ -633,7 +633,7 @@
 魔物っ……！？=Quái vật...!?
 金貨に偽装していた……ってこと！？=Vậy là hắn cải trang thành một đồng vàng...?!
 応にゃっ！\nそこの店員、ごめんにゃ！=Nya! Xin lỗi, anh phục vụ!
-ひぃっ！？=Ái chà!?
+ひぃっ！？=Eek!?
 タマキの短剣が\n【アマルガム貿易】の店員のガマグチを切り裂き、\n周囲に何枚もの金貨が散らばる。=Dao găm của Tamaki đã cắt túi của một nhân viên trong Amalgam Trade, và một số đồng vàng vương vãi xung quanh cô ấy.
 ふっ……！=Hừ...
 ギチギチギチッ！=Rắc rắc, răng rắc!
@@ -650,7 +650,7 @@
 た、他人の空似というものじゃありませんか？=C-Chẳng phải chỉ là trí tưởng tượng của ngươi sao?
 あっ！\nそういえばそっちの店員さんも、\n【アマルガム貿易】のギルドハウスで同じ顔を見たわ……！=Ồ! Nhớ lại thì, nhân viên kia cũng thấy khuôn mặt giống hệt ở nhà guild trong Amalgam Trade...!
 ええっ？\n……ほら、世の中には自分と似た顔のひとが、\n３人いるって言いますしっ……=Hả? ...Ngươi biết không, người ta nói có ba người trên đời này có khuôn mặt giống như ngươi...
-ボスっ？=Sếp?
+ボスっ？=Boss?
 だから、誤解ですって──\n……っ！？=Như ta đã nói, đây là hiểu lầm thôi~...!?
 い、いきなり頭が爆発したわよっ？=Đ-Dầu ngươi bỗng nhiên nổ tung hết rồi!
 攻撃魔法にゃっ！？\nっていうか……！=Ma pháp tấn công nya?! Khoan đã...!
@@ -700,7 +700,7 @@
 ペコリーヌさん、しっかり……！=Pecorine, cố lên!
 争いにも、商売にも。\n決して踏み越えてはならない一線というものがあります。\nそれを破ったあなたを、許してはおけません！=Trong xung đột và làm ăn, có một đường ranh không được vượt qua. Ta không thể tha thứ cho ngươi đã phá vỡ nó!
 仁義や法を盾にした綺麗事は、生まれに恵まれた者の常套句。\n持たざる者がのし上がるには、このように裏を掻くしかありますまいて。=Những kẻ được sinh ra trong may mắn thường dùng công lý và luật pháp như lá chắn. Cách duy nhất cho kẻ không có gì để leo lên là gãi đầu như thế này.
-……っ……=...Ư...!
+……っ……=...Ư...
 事情はどうあれ。\nあなたが敵ってことは、よくわかったわ……！=Dù hoàn cảnh thế nào. Ta biết rõ ngươi là kẻ thù...!
 ど、どうするにゃっ？\n街のひとたち、助けにゃきゃ……！=M-Mình phải làm sao đây, nè? Phải cứu dân thành...!
 でも、あのアゾールドってひとを放っておくわけには……！=Nhưng mình không thể bỏ mặc tên Azold kia...!
@@ -719,7 +719,7 @@
 おやおや。\nでは、帰りは徒歩ということになりますか。\nまぁ腹ごなしとしては悪くないでしょう。=Ôi chao. Vậy các ngươi đi bộ về? Cũng không tệ cho dạ dày đâu.
 そう思い通りには、させません！\n【アマルガム貿易】──いえ、【レイジ・レギオン】！=Ta sẽ không để điều đó xảy ra! Guild Amalgam Trade—không, Bộ tộc Rage!
 ミフユさん、【メルクリウス財団】ギルドハウスに連絡を！　手すきの\n構成員で、隊伍を編成！　【王宮騎士団（NIGHTMARE）】と\n連携し、街の人たちを助けるように！=Mifuyu, liên lạc với Guildhouse [Mercurius Foundation]! Tạo đội với thành viên có sẵn! Phối hợp với [NIGHTMARE] giúp dân thành!
-わ、わかったわ！=Đ-Dạ!
+わ、わかったわ！=O-Okay!
 タマキさん！　ギルド管理協会へ緊急依頼の発行申請！\n【アマルガム貿易】のゴーレムを破壊した冒険者には、\n一体につき100万ルピを支払うとしてくださいませ！=Tamaki! Yêu cầu khẩn cấp từ Guild Quản lý Guild! Trả một triệu rupee cho mỗi mạo hiểm giả phá hủy Golem trong guild Amalgam Trade!
 オッケーにゃ！=Được, nè!
 私たちはどうするの、アキノさん！？=Giờ làm sao, Akino?!
@@ -732,7 +732,7 @@
 ──みんな！\n待たせて済まない！=Mọi người! Xin lỗi để các người chờ!
 【トゥインクルウィッシュ】のみなさま……！\n来てくださったのですね！=Mọi người [Twinkle Wish]...! Các người đến rồi!
 うん！\nコッコロちゃんが通信魔法で知らせてくれたおかげだよ！=Ừ! Đều nhờ Kokkoro dùng ma thuật liên lạc!
-騎士クンを、騎士クンを返してっ！！=
+騎士クンを、騎士クンを返してっ！！=Trả Kishi-kun của tôi lại đây!
 これはこれは、剣士のお嬢様がた。\nいつぞや以来ですな。=Ồ, chào cô Kiếm sĩ. Đã lâu rồi không gặp.
 ──やったっ♪\n来た来た～♪=Tôi biết rồi!♪
 ボス？　どうしたんだよ？=Boss? Có chuyện gì vậy?
@@ -768,7 +768,7 @@
 おらぁっ！=Oraah!
 やあーっ！=Yaaaa!
 ん……にゃあ！=Mm... nya!
-うわっ！=Khoan!
+うわっ！=Ôi trời!
 ハッ！　フッ！=Hah! Heh!
 ン…ニャ！=Nn... nya!
 やぁあーー=Yaaaaah!
@@ -785,7 +785,7 @@
 デェヤァァアアアアア=Deyaaaaahhhh
 お粗末ですぞ=Mày đang thô lỗ
 かはっ！=Kaha!
-くっ！=Ực!
+くっ！=Ugh!
 2部 第5章 第9話=Phần 2 Chương 5 Tập 9
 ラビリスタの居所を吐かせるため、尋問を受けていたキャル。そこへ万能人形にさらわれたはずの{playername}が現れる。必死に自分を守ろうとする彼の姿に、キャルはついに新たな力を覚醒させる。=Kyaru đã bị thẩm vấn để ép cô ta tiết lộ Labyrista ở đâu. Đó là lúc con rối toàn năng bắt cóc {playername}. Cảnh tượng cậu ấy tuyệt vọng cố gắng tự bảo vệ mình cuối cùng đã đánh thức sức mạnh mới của cậu ấy.
 同刻──\n誘拐されたキャルは、\nラビリスタの情報を聞き出すための尋問を受けていた。=Cùng lúc đó, Kyaru, người đã bị bắt cóc, đang bị thẩm vấn để lấy thông tin về Labyrista.
@@ -811,7 +811,7 @@
 なっ──！=Cái--!?
 騎士の少年……！？\n何故ここにっ……=Một hiệp sĩ trẻ?! Cậu đang làm gì ở đây?!
 まさか──『あいつ』が、妨害をっ……？=Đừng nói là cô ta đang can thiệp...?
-よくわからないけど……=Mình không hiểu lắm, nhưng...
+よくわからないけど……=Tôi không hiểu lắm, nhưng...
 キャルちゃんを、いじめるな！=Đừng bắt nạt Kyaru-chan!
 あ、あんた……どうして……！=C-Cậu... Tại sao...?!
 あはっ、あはは……あたし、とうとう壊れちゃったのね。\n{playername}が、天井から湧いて落ちてきて、\n助けてくれるとか、そんなバカな、幻……=Aha, ahaha... Mình cuối cùng cũng gãy rồi, phải không? Đó là một ảo giác ngớ ngẩn, như thể {playername} nhảy từ trần nhà xuống để cứu mình...
@@ -823,7 +823,7 @@
 もうダメだって、思ってたのに。\nあきらめようって、思ってたのに。\nこんなことされちゃ……=Mình nghĩ mình xong rồi. Mình muốn từ bỏ. Mình không muốn chuyện này xảy ra...
 好きになっちゃうじゃないのよぉっ！！=MÌNH SẼ YÊU CẬU HƠN NỮA!
 ……今までよりも。\nもっと、もっと──……=...Hơn trước. Nhiều hơn, nhiều hơn~...
-そうは、させない……！=Mình sẽ không để chuyện đó xảy ra...!
+そうは、させない……！=Tôi sẽ không để chuyện đó xảy ra...!
 歯向かうつもり？\nけれど……あなたたち二人が、力を合わせたところで。\nこの私に、敵うわけが無いでしょう……！？=Cậu đang cố đánh trả lại? Nhưng......ngay cả khi hai người hợp lực, cũng không có cách nào các ngươi đánh bại được ta......!
 ……ねぇ、{playername}。\n手を……握ってほしいの。\nほんの少しでいいから。=...Này, {playername}. Mình muốn cậu... nắm lấy tay mình. Chỉ một chút thôi cũng được.
 ……ありがとう。\n今なら……できる気がするわ。=...Cảm ơn. Bây giờ... mình cảm thấy như có thể làm được.
@@ -887,7 +887,7 @@
 なんでって……ここでやっつけるのが目的じゃないし♪\nユイちゃんも、ウソはついてないみたいだし。=Tại sao...? Mục tiêu của tôi đâu phải là đánh bại họ ở đây♪ Dường như Yui-chan cũng không nói dối.
 ……アカウントも正規のものっぽいし。\nミネルヴァが改竄した形跡もない。\nということは……=...Tài khoản có vẻ hợp pháp. Không có dấu hiệu Minerva can thiệp. Điều đó có nghĩa là...
 うん♪　あなたはただ、何も知らないだけなんだね～☆\nそれとも……知らされてないのかな？　もしそうなら、同情するなぁ。\n本当のことを誰にも教えてもらえないなんて、本当にかわいそう。=Đúng rồi♪ Cậu chẳng biết gì cả, phải không~? Hay là... cậu chưa được thông báo? Nếu vậy thì tôi thấy tội cho cậu. Thật đáng thương khi không ai nói cho cậu biết sự thật.
-え、えっと……？=Ơ-Ơ...?
+え、えっと……？=U-Umm...?
 よく言うぜボス……=Nói hay lắm, thưa chủ nhân...
 あたしたちにだってヒミツだらけの全身内緒ババアが、\nどの口でほざいてやがるですか……=Con mụ già đó đang giấu chúng ta điều gì..?
 ……あー、しんどかった……=...À, vất vả thật...
@@ -931,7 +931,7 @@
 うん！\n建物を壊さないように、狙いを絞って……！=Ừ! Tôi đã thu hẹn phạm vi bắn để không phá hủy tòa nhà...!
 ディバインレイーーーーンッ！=Divine Rain!
 ──やれやれ。\n身体能力を向上させる薬は、翌朝がつらいのですが──=Thôi đi. Thuốc cải thiện thể chất thì sáng hôm sau rất khó chịu, nhưng thôi!
-フンッ！=Hừ!
+フンッ！=Hmph!
 やった、直撃っ……！=Hoan hô, trúng đích rồi...!
 ……！\n待って、ユイちゃん！=...! Chờ đã, Yui-chan!
 ……ほっほっほ。\n結構なお手前ですな……！=...Hohoho. Cô khá mạnh đấy...!
@@ -1002,7 +1002,7 @@
 思いつめたっていうか……\nまぁ……そうね。\n色々大変なのは、別に変わってないけど……=Thực ra... ừm... cậu nói đúng. Nó chưa thay đổi được mức độ khó khăn...
 ……でも。\nもやもやしてたコト、言葉にして、吐き出して……=......nhưng... tớ đã nói ra thành lời, và thốt ra......
 今は……うん。\nちょっとだけ、スッキリした気持ちよ。=Ngay bây giờ... Ừ. Tớ cảm thấy khá hơn rồi.
-そう。\n良かった……=Ra vậy. May quá...
+そう。\n良かった……=Vậy à. Thật tốt quá...
 心配かけて、悪かったわね。\nでも、もう大丈夫だから──=Xin lỗi vì làm cậu lo lắng. Nhưng tớ ổn rồi~
 帰りましょ。\nあたしたちの家に。=Đi về nhà thôi. Về nhà của chúng ta.
 ええ。\n私たちの家に……！=Vâng. Về nhà của chúng ta...!
@@ -1028,7 +1028,7 @@
 ……その、議長。\n同感ではありますけれど……\nそう事を急く必要は、ないのではありませんこと？=...Ơ, Chủ tịch. Tôi đồng ý, nhưng... Không cần phải vội vàng chứ?
 ……あぁん？=...Hả?
 わたくしたちにかかれば、あの甘ったるいお姫さまを孤立させ、\n体の良い傀儡にすることは難しくありません。\n……手荒な方法は、むしろランドソルに混乱を引き起こすだけでは──=Với chúng tôi, sẽ không khó để cô lập công chúa ngây thơ đó và biến cô ấy thành con rối có hình thể đẹp. ...Nếu có gì, phương pháp thô bạo chỉ gây hỗn loạn ở Landosol
-黙れッ！！=Im đi!!
+黙れッ！！=Câm miệng!!
 良いか！\nこれまではただ、貴様が少しばかり融通の利く仕事をしてきたからこそ\n便宜を図ってやったまでのこと……！=Nghe đây! Cho đến bây giờ, tôi chỉ cố gắng làm mọi thứ thuận tiện hơn cho cô vì cô đã làm một chút việc linh hoạt...!
 吾輩の言葉の裏も、忖度することができぬ無能であるというのなら──\n貴様の如き木っ端商人、いつでも吹き飛ばせるということを教えてやる！\n貴族議会の権力は、吾輩の手の内なのだからなッ！=Nếu cô vô dụng đến mức không thể tin nổi, thì tôi sẽ dạy cô rằng một thương nhân bình thường như cô có thể bị thổi bay bất cứ lúc nào! Dù sao đi nữa, quyền lực của hội đồng quý tộc nằm trong tay tôi!
 ……それはもう。\n肝に銘じておきますわ、ゴウシン議長殿。=...Tôi sẽ ghi nhớ điều đó, Chủ tịch Gorschin.
@@ -1106,7 +1106,7 @@
 だっ、だからっ！\nプリンセスフォームになる前にあんたに言った、アレ……=T-Tôi đang nói với cô! Cái thứ tôi nói với cô trước khi tôi trở thành công chúa...
 アレって？=Cái thứ gì?
 あ……あのねっ。\nいちおう……言っておくと、さ。\nさっきのアレ……ウソじゃないから。=Ư-Ưm... Nói thật thì... Tôi không nói dối về chuyện xảy ra trước đó.
-ん……=Ừm...
+ん……=Mm...
 ま……前途は多難だけど。\nいつか……本物の陛下にも……\nニセモノに言ったみたいなコト、言えるようにならなくっちゃね……=Thôi nào... Con đường phía trước còn dài. Nhưng một ngày nào đó... Tôi sẽ phải có thể nói với Nữ hoàng thật sự... một điều gì đó giống như tôi đã nói với một bản giả...
 何から誰を、どう守るか。\n今はあたし自身が、自由に決められるんだもん。\n前とは、違うわよね。=Tôi tự do quyết định ai được bảo vệ và bảo vệ khỏi cái gì. Nó khác với trước.
 ……そうね。\nそうよね。=...Đúng rồi. Cô nói đúng.
@@ -1124,5 +1124,5 @@
 うっさいわねばか。ばか。\nばーか。=Câm miệng lại, đồ ngốc. Ngốc. Đồ ngốc!
 ……ふふっ。\nばぁーーか♪=...Hehe. Ngốc♪
 キャルちゃん？=Kyaru?
-第ニ部六章　オーエド漫遊湯煙旅情=Chương 6: Hành trình tại Odedo Hơi Nước
+第ニ部六章　オーエド漫遊湯煙旅情=Chương 6: Hành trình trong Steam Odedo
 だっ、ダイエットしなきゃ～っ！？=T-Tôi phải ăn kiệc?!n a diet?!

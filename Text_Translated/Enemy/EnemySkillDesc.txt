@@ -31,13 +31,13 @@
 最も遠い敵３キャラ=3 nhân vật xa nhất
 最も遠い敵４キャラ=4 nhân vật xa nhất
 最も遠い敵５キャラ=4 nhân vật xa nhất
-前方１キャラ=nhân vật phía trước nhất
+前方１キャラ=Nhân vật ở phía trước nhất
 前方２キャラ=2 nhân vật ở phía trước
 前方３キャラ=3 nhân vật ở phía trước
 前方４キャラ=4 nhân vật ở phía trước
 前方５キャラ=5 nhân vật ở phía trước
-前から２キャラ=nhân vật thứ 2 từ phía trước
-前から３キャラ=nhân vật thứ 3 từ phía trước
+前から２キャラ=Nhân vật thứ 2 từ phía trước
+前から３キャラ=Nhân vật thứ 3 từ phía trước
 前から４キャラ=Nhân vật thứ 4 từ phía trước
 前から５キャラ=Nhân vật thứ 5 từ phía trước
 ランダムな１キャラ=1 nhân vật ngẫu nhiên

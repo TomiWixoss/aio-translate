@@ -1,11 +1,11 @@
 ◆ボスバトル（NORMAL）クリアで解放=◆Mở Khóa Bằng Cách Vượt Trận Đấu Boss (THƯỜNG)
 ジェネラルホーン=Bò Cạp Chung
-黒風の精霊=Hắc Phong Linh
+黒風の精霊=Black Wind Spirit
 r:"^エルフの里　清らかな森([0-9\-\(\)\w （）]*)$"=Làng Elf Rừng Thuần Khiết $1
 聖学祭\\nプログラム=Lễ Hội Thánh Gaku \\ N Chương Trình
 その輪の中へ=vào vòng tròn
 ダイアリー=Nhật Ký
-絆=Mối Ràng Buộc
+絆=Kết nối
 目次に戻る=Quay lại
 その手に触れたくて=Tôi muốn chạm vào bàn tay đó
 完璧な連携=Hợp tác hoàn hảo

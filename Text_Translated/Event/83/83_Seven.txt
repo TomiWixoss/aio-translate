@@ -1,6 +1,6 @@
 イベントクエスト・ボス=Sự Kiện & Trùm Cuối
 報酬券=Vé
-報酬交換=Đổi
+報酬交換=Trao đổi
 前編ボスへ=Đến Trùm (Phần Đầu)
 後編ボスへ=Đến Trùm (Phần Cuối)
 r:"^イベント前編クエスト([ A-Za-z\-0-9]+)$"=Nhiệm Vụ Sự Kiện Phần Đầu$1
@@ -12,7 +12,7 @@ r:"^イベント中編クエスト([ A-Za-z\-0-9]+)$"=Nhiệm Vụ Sự Kiện P
 イベントストーリー 第4話（変貌大妃）を閲覧しよう=Xem Tập Chương Sự Kiện 4 (Metamorph Regnant)
 イベントストーリー 第4話（覇瞳皇帝）を閲覧しよう=Xem Tập Chương Sự Kiện 4 (Kaiser Insight)
 イベントストーリー 第4話（嚮導老君）を閲覧しよう=Xem Tập Chương Sự Kiện 4 (Great Guidance)
-イベントストーリー エンディングを閲覧しよう=Xem Kết Thúc Sự Kiện
+イベントストーリー エンディングを閲覧しよう=Xem Kết Thúc Câu Chuyện Sự Kiện
 イベントストーリー エピローグを閲覧しよう=Xem Phần Phụ Sự Kiện
 
 

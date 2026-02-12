@@ -24,4 +24,4 @@ r:"^自分の物理攻撃力を(\d+)アップ自身の行動速度を一定時�
 r:"^自分の物理攻撃力を(\d+)アップ自分の魔法クリティカルを(\d+)アップ敵単体に(\d+)の魔法ダメージ$"=►Tăng P.ATK của bản thân lên $1 trong 9s.\n►Tăng M.ATK của bản thân lên $2 trong 9s.\n►Gây $3 sát thương vật lý lên một kẻ địch.
 
 ##UE##
-マジカルシャイニーレイピア=Kiếm Rapier Ma pháp Ánh Kim
+マジカルシャイニーレイピア=Kiếm nhọn ma thuật lấp lánh

@@ -7,14 +7,14 @@
 勝利の風を掴むためには=Để nắm bắt làn gió chiến thắng
 絆の力で放つ奥義=Bí kích được giải phóng bởi sức mạnh của tình bạn
 努力の先に求める強さ=Sức mạnh được tìm kiếm vượt qua nỗ lực
-甘い甘いお礼の証=Lòng biết ấy ngọt ngào
-目をつぶれ、貴公=Đôi mắt khép lại trên tôi
-穴の中に隠された真実=Diễn biến bất ngờ
-モニカの秘密小隊=Trung đội bí mật của Monika
-スイミング・バディ=Bạn bè cùng bơi
-求める強さは志のために=Về lòng tự hào của một người
-白き翼で空を舞う=Đôi cánh trắng vươn cao
-体は小さく誇りは高く=Một chỉ huy nhỏ bé, nhỏ bé, đáng kính
+甘い甘いお礼の証=Lòng Biết Ơn Ngọt Ngào
+目をつぶれ、貴公=Đôi Mắt Nhắm Để Nhìn Tôi
+穴の中に隠された真実=Những Diễn Biến Không Ngờ Tới
+モニカの秘密小隊=Trung Đội Bí Mật Của Monika
+スイミング・バディ=Bạn Bè Cùng Bơi
+求める強さは志のために=Về Lòng Tự Hào Của Bản Thân
+白き翼で空を舞う=Đôi Cánh Trắng Vươn Cao
+体は小さく誇りは高く=Một Chỉ Huy Nhỏ Nhỏ, Nhưng Đáng Kính
 
 ##UB##
 紫電一閃=Violetshock Flare
@@ -40,7 +40,7 @@ r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵を一定時間�
 
 ##S1+##
 フリューゲルエール+=Flügel Fanfare+
-味方全体の物理攻撃力と魔法攻撃力を大アップさせ、さらに行動速度を大アップさせる。=Làm tăng lớn Tấn công Vật lý, Tấn công Ma thuật và tốc độ hành động của tất cả đồng minh.
+味方全体の物理攻撃力と魔法攻撃力を大アップさせ、さらに行動速度を大アップさせる。=Tăng lớn Tấn công vật lý, Tấn công phép và Tốc độ hành động cho toàn đồng đội.
 r:"^敵単体に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理防御力を(\d+)ダウン$"=►Gây $1 Sát thương Vật lý cho một kẻ địch đơn.\n►Gây $2 Sát thương Vật lý cho kẻ địch trong phạm vi.\n►Giảm Phòng thủ Vật lý của kẻ địch trong phạm vi đi $3.
 
 ##UE##

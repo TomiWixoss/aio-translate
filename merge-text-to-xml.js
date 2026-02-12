@@ -2,11 +2,11 @@ const fs = require('fs');
 const path = require('path');
 const crypto = require('crypto');
 
-// Hàm tạo hash key từ đường dẫn file và nội dung Japanese
-function generateKey(filePath, japanese, english) {
-  // Sử dụng cả 3 yếu tố để tạo key unique
-  const combined = `${filePath}::${japanese}::${english}`;
-  return crypto.createHash('md5').update(combined).digest('hex').substring(0, 8).toUpperCase();
+// Hàm tạo hash key từ đường dẫn file, line number và nội dung
+function generateKey(filePath, lineNum, japanese, english) {
+  // Sử dụng file path, line number và nội dung để tạo key unique và stable
+  const combined = `${filePath}::LINE${lineNum}::${japanese}::${english}`;
+  return crypto.createHash('md5').update(combined).digest('hex').substring(0, 12).toUpperCase();
 }
 
 // Hàm escape XML entities
@@ -107,10 +107,32 @@ function parseTextFile(filePath) {
   return entries;
 }
 
+// Hàm backup file nếu đã tồn tại
+function backupFileIfExists(filePath) {
+  if (fs.existsSync(filePath)) {
+    const timestamp = new Date().toISOString().replace(/[:.]/g, '-').replace('T', '_').split('Z')[0];
+    const ext = path.extname(filePath);
+    const baseName = path.basename(filePath, ext);
+    const dirName = path.dirname(filePath);
+    const backupPath = path.join(dirName, `${baseName}.backup_${timestamp}${ext}`);
+    
+    fs.copyFileSync(filePath, backupPath);
+    console.log(`Đã backup file cũ: ${backupPath}`);
+    return backupPath;
+  }
+  return null;
+}
+
 // Hàm chính
 function mergeTextToXml() {
   const textDir = './Text';
   const outputFile = './merged_translations.xml';
+  const mappingFile = './key_mapping.json';
+  
+  // Backup các file cũ nếu tồn tại
+  console.log('Kiểm tra và backup file cũ...');
+  backupFileIfExists(outputFile);
+  backupFileIfExists(mappingFile);
   
   console.log('Đang quét thư mục Text...');
   const textFiles = getAllTextFiles(textDir);
@@ -118,7 +140,6 @@ function mergeTextToXml() {
   
   const xmlEntries = [];
   const keyMap = new Map();
-  let globalIndex = 0; // Thêm index toàn cục
   
   textFiles.forEach(filePath => {
     console.log(`Đang xử lý: ${filePath}`);
@@ -127,17 +148,15 @@ function mergeTextToXml() {
     
     entries.forEach((entry) => {
       if (entry.type === 'entry') {
-        const { japanese, english } = entry;
-        // Tạo key duy nhất: hash + index
-        const baseKey = generateKey(relativePath, japanese, english);
-        const key = `${baseKey}_${globalIndex}`;
-        globalIndex++;
+        const { japanese, english, lineNum } = entry;
+        // Tạo key dựa trên file path, line number và nội dung (stable key)
+        const key = generateKey(relativePath, lineNum, japanese, english);
         
         keyMap.set(key, { 
           filePath: relativePath, 
           japanese, 
           english,
-          lineNum: entry.lineNum,
+          lineNum: lineNum,
           type: 'entry'
         });
         xmlEntries.push({
@@ -181,7 +200,6 @@ function mergeTextToXml() {
   console.log(`Đã tạo file: ${outputFile}`);
   
   // Tạo file mapping để tra cứu (bao gồm cả empty lines và comments)
-  const mappingFile = './key_mapping.json';
   const mapping = {};
   
   // Thêm entries từ XML

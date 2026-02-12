@@ -37,7 +37,7 @@ Opening
 死刑はただちに、このコロッセオにて執り行う！\n執行人をここへ！=Việc thi hành án sẽ được thực hiện ngay lập tức tại đây trong Đấu Trường! Gọi đao phủ!
 うおおおおおおおお！　殺せえええええええええええ！！=UOOOOOOOOHHHHHHHHH! GIẾT CHÚNG NÀY!!!!!
 や、やだぁ～っ！\nナーナまだ死に゛だぐな゛い゛よ゛ぉ゛～っ！！=K-KHÔÔÔÔÔÔÔÔ! NANA CHƯA SẴN SÀNG ĐỂ CHẾT ĐÂU!!!!
-その死刑──異議ありっ！=Án tử hình đó... TA PHẢN ĐỐI!
+その死刑──異議ありっ！=Án tử hình đó... TỐI PHẢN ĐỐI!
 さあ、助手くん。\n今まさに、アラクネさんとナーナさんが断罪され、\n処刑されようとしているわけだけれど──=Đến đây, Trợ Lý. Ngay bây giờ, Arachne-san và Nana-san đã bị lên án và sắp bị xử tử, nhưng...
 このジオ・ゲヘナを揺るがしている連続殺人事件の犯人。\n本当は誰だと思う？=Các ngươi nghĩ ai là thủ phạm thực sự đằng sau loạt vụ giết người đang làm rung chuyển Gio Gehenna?
 いいや。アラクネさんはもう、かつてのレディ・アラクネじゃない。\nそれは君が一番よく分かっているだろう？=Không. Arachne-san không còn là 'Nữ Chủ Arachne' như xưa nữa. Các ngươi biết điều đó rõ hơn ai hết, phải không?
@@ -127,7 +127,7 @@ New Titlecards
 傍聴人１=Khán giả 1
 傍聴人２=Khán giả 2
 傍聴人３=Khán giả 3
-裁判長=Judge
+裁判長=Thẩm phán
 会長=Chairman
 
 Player Prompts
@@ -137,7 +137,7 @@ Player Prompts
 助手仲間が増えてうれしいな。=Tôi rất vui nếu có một trợ lý là kouhai.
 清楚で神聖な感じがするね。=Bây giờ cô cảm thấy trong sạch và thiêng liêng rồi.
 いいよ、もう一ついる？=Không sao, muốn thêm một cái nữa không?
-うん、行こう！=Được, đi thôi!
+うん、行こう！=Được rồi, đi thôi!
 ……まさか、あの人？=Không thể nào... đó là người đó?!
 
 Menu Line
@@ -285,9 +285,9 @@ Player Prompts
 感じの良い人だね。=Có vẻ là một người tốt
 ナーナちゃん！　どうしたの？=Nana! Có chuyện gì vậy?
 あなたは……アラクネさん……=Cô là... Arachne...
-いこういこう！=Đi thôi, chúng ta đi!
+いこういこう！=Nào, đi thôi!
 一緒に背伸びする。=...*Đứng trên đầu ngón chân để giúp đỡ*
-まかせろー！=Giao cho tôi!
+まかせろー！=Để tôi!
 アラクネさんが笑った……=Arachne cười...
 ほーちゃん！！=HO-CHAN!!!
 
@@ -759,7 +759,7 @@ Chapter 5
 この方たちの怒りは……もっともなもの……\n前世のわたしが起こしたという戦によって、傷ついて……失って。=Sự tức giận của họ là đúng... họ đã bị tổn thương... và mất đi thứ gì đó vì cuộc chiến mà tôi khởi xướng ở kiếp trước.
 ……受け入れましょう……ここで終わりにしましょう……\nどのみち、生きていたところで……わたしの居場所なんて……\nこの世界のどこにも……=...Tôi chấp nhận sự phán xét này... Cuộc đời tôi sẽ kết thúc ở đây... Dù sao đi nữa, ngay cả khi tôi còn sống... cũng không có nơi nào cho tôi thuộc về... ở bất cứ đâu trên thế gian này...
 うわあああああああああああ！=...aaaaaaAAAAAAAAAAAAHHHHHHHHHHHHHH!
-あ？　なんだ、この声？=Hả? Giọng nói gì vậy?
+あ？　なんだ、この声？=Hả? Giọng nói đó là sao?
 うわあああああああああああああああああああああああんっ！！=UWAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!!
 なっ、なんだいなんだい！？\nあのアルミラージは！？　まっすぐこっちに突っ込んでくる！=C-Cái gì vậy?! Cái Al-miraj đó giờ sao thế?! Nó đang lao thẳng về phía chúng ta!
 あーちゃんを……\nあーちゃんを、いぢめるなああああああああ！=A-CHAN... A-CHAN... DỪNG LẠI ĐỂ ĐỒNG CHẾT CỦA CÔ ẤYYYYYYY!!!!
@@ -852,7 +852,7 @@ Chapter 6
 むうっ！？　何奴っ！=Mmm?! Ai vậy?!
 カスミ殿。何を言うかと思えば……私が犯人ですと？\nカノン殿を焚きつけた？　リンチを容認？\n言いがかりはよしていただきたいですな！=Tiểu thư Kasumi. Tôi đang tự hỏi ngài định nói gì... ngài khẳng định tôi là thủ phạm? Rằng tôi đã khuấy động Tiểu thư Kanon? Chấp thuận đám đông này? Những cáo buộc phi lý!
 この鏡の前でも、同じことが言えますか？=Trước tấm gương huyền thoại này... liệu ngươi có dám nói điều tương tự?
-ぬうっ！？=Hả!?
+ぬうっ！？=NGH!?
 あなたが蜘蛛の巣を使って張り巡らせた陰謀は、すでにお見通しです。\nその証拠をこれからご覧にいれましょう。=Ta đã biết về âm mưu ngươi giăng ra như mạng nhện rồi. Còn về bằng chứng... ta sẽ trình bày ngay tại đây và bây giờ.
 証拠などと、そんなものあるはずが──=Bằng chứng, ngươi nói... không thể nào ngươi có--
 ヲ～ッホッホッホッホッホッホ！\nそ・れ・がっ！　こちらにございますですわ～！=Ô HÔ HÔ HÔ HÔ HÔ! NÓ. LÀ. TA! Đây là bằng chứng của ngươi, còn sống và khỏe mạnh!
@@ -899,7 +899,7 @@ Chapter 6
 あ、あわわわ……！　早く逃げなきゃ！=A-Awawawa...! Chúng ta phải nhanh lên và rời khỏi đây!
 お、お兄ちゃん待ってよおお！=O-ONII-CHAN, CHỜ EM NHA!
 片っ端から喰らってくれるわァァァ！！=TA SẼ THỔI ĂN TỪNG KẺ ĐƯỢC NGƯỜI TRONG SỐ CÁC NGƯỜI!!!
-うっ……う……=Ugh... ugh...
+うっ……う……=Ục... ức...
 おけがは……ありませんか？=Ngươi... bị thương à?
 ならば……アラクネぇぇぇっ！\n貴様を喰らって、我はこのジオ・ゲヘナの王にぃぃぃっ！=Trong vụ này... A-RACH-NEEEEEEEE! Ta sẽ nuốt chửng ngươi và trở thành vua của Gio Gehennaaaa!
 させるか！　助手くん！　見習いくん！=Đừng hòng! Trợ lý! Phụ tá Trợ lý!
@@ -967,7 +967,7 @@ Player Prompts
 宝石蜘蛛の生き残りが、合体……！？=Những con nhện đá quý còn sống sót... đã hợp nhất!?
 彼のぶんまで、生きよう。=Ngươi nên sống, vì lẽ đó nữa
 無言で魔札を見せる。=*Lặng lẽ rút ra và đưa cho cô một tấm bảng ma thuật*
-任せてよ！=Giao cho ta!
+任せてよ！=Để tôi!
 ヒントほしいな？=Tôi có thể xin một gợi ý được không?
 
 New Titlecards

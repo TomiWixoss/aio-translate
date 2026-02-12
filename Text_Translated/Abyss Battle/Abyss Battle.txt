@@ -20,7 +20,7 @@ r:"^\[3C404E\]初回クリアでスコア\[-\]\[FFBB00,CE4F00\]([0-9,]+)pt\[-\]\
 リタイアすると報酬を\n獲得することができません。\n討伐依頼証は消費されません。\n\nよろしいですか？\n=Nếu bạn thoát, bạn sẽ không nhận được phần thưởng nào. Phiếu Yêu Cầu Chinh Phạt sẽ không bị tiêu hao.\n\nBạn có chắc không?
 
 難易度HARD=Khó
-難易度NORMAL=Bình Thường
+難易度NORMAL=Bình thường
 スキップ可能な前哨クエストがありません。=Không có nhiệm vụ tiền đồn nào để bỏ qua.
 r:"^\[FFBB00,CE4F00\]([0-9,]+)\[-\]\[3C404E\]枚で挑戦\[-\]$"=[3C404E]Thử thách với [FFBB00,CE4F00]$1[-] Biểu Mẫu[-]
 

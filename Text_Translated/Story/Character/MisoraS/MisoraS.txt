@@ -12,7 +12,7 @@
 ……うん。\nそれに……{playername}くんも、一緒で……=...Ừ. Và...{playername}-kun ở cùng tớ...
 「ふふっ★」\n「ふふっ……」="Hehe★」「Hehe..."
 あっ、そーですそーです。\nランファさんも、イイコトクラブ入っちゃいます？\n良かったら♪=Ồ, đúng rồi, đúng vậy. Cậu có muốn tham gia một câu lạc bộ hay không, Ranpha-san? Nếu muốn♪
-えっ？\nいいの……？=Hả? Cậu chắc chứ...?
+えっ？\nいいの……？=Hả? Cô chắc chứ...?
 いいですよー★\nもともと、入部資格なんてナイですし？=Được mà. ★ Tớ xưa nay chưa bao giờ đủ điều kiện để gia nhập câu lạc bộ
 ……ふふ。\nじゃあ……わたし、新入部員……ね。\nまずは、何をしたらいいかしら……？=...Hehe. Vậy... tớ là thành viên mới... đúng chứ? Tớ nên làm gì trước đây...?
 はい★\nまずは──=Vâng ★ Trước tiên...
@@ -246,7 +246,7 @@ Player Choice menu Text:
 シェアしてがんばろう……！=Chúng ta cùng chia sẻ và cố gắng hết sức nhé...!
 遠慮しないで。=Đừng ngại.
 寝てる人をいじっちゃダメだよ。=Đừng làm phiền người đang ngủ.
-何が？=Ý cô là sao?
+何が？=Ý cậu là gì?
 もっとたくさん、良いことをしよう。=Hãy làm thêm nhiều việc tốt nữa.
 何をすればいいの？=Tôi phải làm gì đây?
 どんな質問？=Loại câu hỏi gì?
@@ -360,7 +360,7 @@ Player Choice menu Text:
 ……けど、すごいですね。\nこれだけの人数で、もう何日も追いかけてんのに。\nほとんど超能力使わずで、ガキ二人で逃げ続けるなんて……=...Nhưng thật đáng kinh ngạc. Chúng ta đã truy đuổi chúng suốt vài ngày với nhiều người như vậy. Chúng ta hầu như không dùng năng lực psi, mà hai đứa trẻ vẫn liên tục chạy trốn...
 ……感心してんじゃねえ、\nもっと危機感を持て、バカ。\nただでさえ、上はイライラしてるってのに……=...Đừng ngạc nhiên. Cậu nên cảnh giác hơn về mức độ nguy hiểm chứ, đồ ngốc. Cậu đã bực bội vì cấp trên rồi...
 万一Ｍ３号が他の組織に持っていかれるとか、\nどっかでくたばるようなことになったら。\nオレたちは消されるぞ……！=Nếu may mắn M3 bị một tổ chức khác chiếm, hoặc nó rơi vào địa ngục nào đó, chúng ta sẽ bị tiêu diệt sạch...!
-ひぇえっ……！=Eeek...!
+ひぇえっ……！=Eek...!
 騎士さ～ん、大丈夫ですか～？=Kishi-san, cậu ổn chứ~?
 謎の組織に追われる少女・流魅空と、\n彼女に巻き込まれた少年{playername}。\n二人は手を取り合い、逃避行を続けていた。=Cô gái bị một tổ chức bí ẩn truy đuổi, Ryuu Misora, và cậu bé bị kéo vào cuộc, {playername}. Hai người nắm tay nhau và tiếp tục chạy trốn.
 ふふっ、がんばってくださ～い★\n向こうにぼんやり見える橋のトコまで着いたら、交代してあげますよ♪=Hehe, cố lên nhé! ★ Tôi sẽ đổi chỗ với cậu khi tới cây cầu mờ mờ kia nhé♪

@@ -85,7 +85,7 @@
 ふふっ、リリちゃん。\nやってみなくちゃ、わからないですよ？=Hehe, Riri, cô sẽ không biết trừ khi cô thử, phải không?
 みんなでちからをあわせれば、ムリじゃない。\nよ。=Nếu tất cả chúng ta cùng làm việc, thì không phải là không thể.
 あと。\nおいしいし。（もぐもぐ）=Hơn nữa, nó ngon. *munch*
-それは、そうですが……=Ừ, đúng vậy, nhưng...
+それは、そうですが……=Đúng vậy, nhưng...
 ほらほらリリちゃん、早く食べちゃいましょう？\nピザは熱いうちのほうがおいしいですよ。=Nào, Riri, chúng ta ăn nhanh lên! Pizza ngon hơn khi còn nóng.
 ……ん。（もぐもぐ）=Được. *munch*
 ……ですがこれから、あの方がいらっしゃるのに……=Nhưng... người chúng ta đang chờ sắp đến rồi...
@@ -207,7 +207,7 @@
 色々買い込みましたね。\n一つ一つは携行しやすいものを吟味しましたが……=Cậu đã mua nhiều thứ.\nChúng tôi đã cẩn thận lựa chọn những món dễ mang theo...
 重くない？=Có nặng không?
 ま、まだ大丈夫です。\n次はどのお店に行くのでしょうか？=Ừ, vẫn ổn. Vậy, chúng ta sẽ đến cửa hàng nào tiếp theo?
-それじゃあ……=Vậy thì...
+それじゃあ……=Trong trường hợp đó...
 いらっしゃーい！\nスペシャルたこ焼き、あつあつだよー！=Chào mừng!\nTakoyaki đặc biệt của chúng tôi còn nóng hổi!
 ……（ごくり）=...*ợn*
 行きたいの？=Cậu muốn ăn chứ?
@@ -222,7 +222,7 @@
 気にしなくていいよ。=Không cần lo về chuyện đó.
 ん……♪\nじゃあ、お兄。\nって、よぶね。=Ừm...♪\nVậy, tôi sẽ gọi cậu là Anh.
 よ、よくある……ことなのですか？=Đ-Đó có phải là điều... phổ biến?
-お兄ちゃん！=Anh-chan!
+お兄ちゃん！=Anh trai!
 にいちゃん！=Anh ơi!
 おにーたーん！=Anh ơi!
 薬屋の店員=Dược sĩ
@@ -243,7 +243,7 @@
 気にしないで。=Đừng lo về chuyện đó.
 どんな呼び方でも大丈夫。=Bất cứ cách nào cũng được.
 っ……\nで、では……\n僭越ながら……=V-Vậy thì...\nnhược bằng...
-兄様……=Anh lớn...
+兄様……=Anh trai...
 ……ふふっ♪=...Hehe♪
 あっ！\nみなさーんっ！！=Ái chà!\nMọi người ơi!!
 ちょっとあんたたち！\nノンキにたこ焼きなんか食ってる場合じゃないわよーっ！=Này các cậu!\nBây giờ không phải lúc để thong thả ăn takoyaki!
@@ -252,7 +252,7 @@
 それがですねっ！\nちょっと説得に失敗しちゃいまして……！=Vấn đề là, chúng tôi đã thuyết phục không thành công...
 陛下ーーーっ！=Thưa Bệ Hạ-----!!!
 あれっ？\nどなたか呼んでますけど……=Hả? Có ai đang gọi...
-遠くからの声=Giọng nói từ xa
+遠くからの声=Tiếng nói xa
 そいつから逃げてるの！\nいいから走りなさいあんたたちっ！=Chạy khỏi người đó!\nChạy đi thôi!
 りょ。=Rog--
 もしや、ペコリーヌ様の\nご政務の都合がつかなかったのでしょうか……！？=Chẳng lẽ công việc chính trị của Cô Pecorine không thuận lợi cho cô ấy?!
@@ -298,7 +298,7 @@
 ふぅっ。\nあっちは片付いたわよペコリーヌ！=Phew.\nMọi chuyện đã ổn ở phía này rồi, Pecorine!
 こちらも、どうにかなったご様子ですね。\nご無事ですか、【アルターメイデン】のみなさま。=Có vẻ mọi thứ cũng ổn ở phía này. Tất cả các cậu có an toàn không, mọi người từ "Alter Maidens"?
 ……は、はい。\nなんとか……=...V-Vâng.\nMột cách nào đó...
-へーき。=Tôi ổn.
+へーき。=Mình ổn.
 すみませんみなさん。\n思ったより魔物の数が多くて……=Xin lỗi mọi người.\nCó nhiều quái vật hơn tôi tưởng...
 それに、いきなり襲ってきましたもんね。\nびっくりしました……=Và chúng tấn công bất ngờ thế.\nThật sự rất bất ngờ...
 っていうか、あんたたち。\n{playername}からの強化もらっても、\n身体がぜんぜんついてってないっぽいわね。=Ý tôi là các cậu. Ngay cả với sức mạnh từ {playername}, có vẻ như các cậu cũng chưa theo kịp về thể chất.
@@ -360,7 +360,7 @@
 ん……でも、まだまだ。\nちゃんと使えるわけじゃない。の。\nおなか、すくし。=Hừm... nhưng mà, vẫn,\ntôi vẫn chưa thạo lắm.\nVà tôi đói rồi.
 誰かに教えを請うたり、\n書物などで理論を学んだわけではないそうなので。\nかなり、力の発現に「むら」があるようなのですが……=Một người chưa từng tìm kiếm sự chỉ dạy từ ai hay học lý thuyết từ sách. Có vẻ sự biểu hiện của sức mạnh khá là không nhất quán...
 でも。\nゆめで見た。\nにおいも、かいだよ。=Nhưng.\nTôi đã ngửi thấy nó trong giấc mơ.\nMùi hương đó.
-夢……？=Giấc mơ...?
+夢……？=Một giấc mơ...?
 制御しきれない千里眼……予知夢とか、そういうのかしら。\n魔法の適正ってやつは、結構個人差があるものだけど……\n依頼を受けるには、ちょっとあやふやな根拠ね。=Khả năng tiên tri không thể kiểm soát... có lẽ như một giấc mơ tiên tri. Năng lực ma thuật khác biệt rất lớn giữa các cá nhân... nhưng nhận một nhiệm vụ dựa trên tiền đề mơ hồ này cảm thấy rủi ro.
 そうでしょうか。\n夢のお告げというのは、\n当てにしても良いものだとわたくしは思いますが……=Vậy sao?\nTôi tin rằng những giấc mơ tiên tri có thể đáng tin cậy...
 ペコさんはどう思う？=Pecorine, cậu nghĩ sao?
@@ -438,7 +438,7 @@
 【アルターメイデン】のみなさん！\nみなさんは下がっていてください！=Mọi người từ Alter Maiden,\nvui lòng lùi lại!
 かなり強力な魔物たちでございます。\n手出しをしてはなりません……！=Những quái vật này khá mạnh.\nCác người không được can thiệp!
 そーよ！\n護衛に雇ったんだから、あたしらに任せときなさい！\nグリムバーーーーストッ！！=Đúng vậy!\nChúng tôi là lính canh được thuê, nên cứ để chúng tôi!\nGrim Burst!
-どうしたの、プレシアちゃんっ？=Sao thế, Precia?
+どうしたの、プレシアちゃんっ？=Sao vậy, Precia?
 もうすぐ。\nじめん、くずれるよ。=Mặt đất....\nsắp sập.
 ええぇ～っ！？=Cái gì cơ!?
 もしやキャルさまの攻撃魔法が！？=Phải do ma thuật của tiểu thư Kyaru chứ!?
@@ -485,7 +485,7 @@
 ですが、その北西の地は\n大陸中から魔物が集まり、ひしめきあって\n大変な混乱が起きているのでは……？=Tuy nhiên, khu vực phía tây bắc đã trở thành nơi tụ tập hỗn loạn của quái vật từ khắp nơi trên lục địa...
 それがですね……飛空艇で上空から調査を手伝ってくれた\n【メルクリウス財団】からの情報では、フリガ雪原や\nテミス銀嶺のあたりは、魔物の姿がまったく見られないそうなんです。=Ừm... Theo thông tin từ Tổ chức Mercurius, người đã giúp chúng tôi điều tra từ trên cao bằng khinh khí cầu, chúng tôi không thể thấy bất kỳ quái vật nào xung quanh Themis Snowpeaks cả.
 えっ？\nそれじゃあ、魔物たちはどこにいったんですか？=Hả? Vậy thì quái vật đi đâu rồi?
-……それは……=Ừm...
+……それは……=Thì...
 ……ねぇ、カリン。あんたさっき、\n「ついで、と言ってはなんですが」とかぬかしてたわよね。\nまさか……=Này, Karin. Trước đó, cô có nhắc đến một điều gì đó kiểu "nhân tiện", đúng không? Đừng nói là...
 はい♪\n【アルターメイデン】のみなさんの護衛のついでに、\n魔物たちの動向を調べていただけないかと思いまして……♪=Đúng rồi! Tôi nghĩ rằng, trong khi mọi người đang hộ tống chúng tôi, các cô cũng có thể điều tra cử động của quái vật...
 ええっ？=Hả?
@@ -530,7 +530,7 @@
 【アルターメイデン】は謎の力を開放し、\n{playername}とペコリーヌを捕えていた魔物たちを撃破した。\nだが、その姿は……=Các Alter Maidens giải phóng một sức mạnh bí ẩn và đánh bại những quái vật đã bắt giữ {playername} và Pecorine. Tuy nhiên, hình dạng của họ...
 ……兄様。\nお待たせして、申し訳ありません……\n只今、縄をお切りいたします。=...Anh trai, xin lỗi vì để anh chờ...\nTôi sẽ cắt dây ngay bây giờ.
 ペコリーヌさんも。\n危ないですから、動かないでくださいね。=Pecorine cũng vậy. Xin đừng cử động, nguy hiểm lắm.
-ありがとうございますっ。=Cảm ơn các vị rất nhiều!
+ありがとうございますっ。=Cảm ơn cô rất nhiều!
 【アルターメイデン】のみなさま……\nその。\nわたくしからも、お礼を申し上げます。=Các Alter Maidens... Ưm\nTôi cũng muốn bày tỏ lòng biết ơn.
 主さまとペコリーヌさまを助けてくださり、\nありがとうございました。\n……ですが……=Cảm ơn vì đã cứu Chủ Nhân và tiểu thư Pecorine.\nTuy nhiên...
 ……説明、してもらっていい？\n色々とさ。=...Các vị có thể giải thích một số chuyện không?\nRất nhiều chuyện....
@@ -576,7 +576,7 @@
 ええ！　急ぎましょっ=⁇ Vâng! Nhanh lên~
 ──ふぎゃっ！？=⁇ Hựya!?
 ひゃあああっ！？=Hựaaaa!?
-うわああああーっ！=Uaaaaahhhh!
+うわああああーっ！=Oaaaaaahhhh!
 ぁあああー=Aaaaah!
 ここは……！？=Đây là...?!
 くんくん……=*Hít*, *hít*...
@@ -585,7 +585,7 @@
 落ちてます！　落ちてますよわたくしたち！=Nó rơi! Chúng ta đang rơi!
 大丈夫です！=Không sao đâu!
 キャルちゃん、飛行魔法をっ！=Kyaru, dùng ma thuật bay!
-ええ！=Vâng!
+ええ！=Dạ!
 ──って……魔力切れよあたし！？=-Khoan... Ma lực của ta hết rồi!?
 あ=À
 キャルちゃあ～ん！？=Kyaru-chan?!
@@ -595,7 +595,7 @@
 ご無事ですか、主さま=Mọi người ổn chứ, chủ nhân?
 ここはいったい……=Đây rốt cuộc là nơi nào...?
 だれか、くるよ=Có người đến
-こんにちはーっ！=Xin chào!
+こんにちはーっ！=Xin chààoo!
 わたし、クローチェです！=Tôi là Croce!
 みなさんは？=Còn mọi người?
 『裏世界』にたどり着いた一同はクローチェという少女と出会った。互いのことを話す折、突如上空に出現した穴から魔物が降ってくる。クローチェと共に戦う中、一同は彼女の放った攻撃に巻き込まれてしまう。=Nhóm người đã đến "Thế Giới Dự Phòng" gặp một cô gái tên Croce. Khi nói về bản thân, quái vật bỗng rơi xuống từ một lỗ trên trời. Trong lúc chiến đấu cùng Croce, nhóm bị cuốn vào các đòn tấn công của cô.
@@ -695,7 +695,7 @@
 えへっ♪=Eheh♪
 よーし！=Được rồi!
 それじゃあ、もっとすごいところを見せちゃいますよーっ！=Vậy thì, để ta cho các ngươi thấy thứ còn tuyệt vời hơn nữa!
-おおっ！=Ồ ô!
+おおっ！=Ồ!
 気絶してしまったようです……！=Có vẻ như cô ấy đã ngất!
 グオオォー！=Grrraaaaah!
 ハァー=Haaaa─
@@ -962,7 +962,7 @@
 わぁ～！\nとってもとっても助かりますっ！\n正直、どうしよ～って困ってたんですよっ！=Ồ, thật là một sự an ủi lớn!\nThành thật mà nói, chúng tôi thực sự lo lắng không biết phải làm gì!
 ちょっとクローチェさんっ、そんな勝手に受けちゃ……！=Khoan đã, Croce, đừng dễ dàng đồng ý như vậy!
 ……どうする？　姫さんよ。\n疑っちまったら、キリがねーけど。=...Chúng ta nên làm sao đây, Công chúa?\nNếu nghi ngờ cô ấy, sẽ không có hồi kết.
-そうですね……=Anh nói đúng...
+そうですね……=Cậu nói đúng...
 ……クローチェ。\n城の外での、みなさまの案内を頼みます。\nまだ、右も左もわからないでしょうから。=Được rồi, Croce.\nHãy dẫn họ ra ngoài lâu đài.\nHọ có lẽ không biết trái phải ở đây.
 はいっ、姫さまっ♪=Vâng, Công chúa♪
 えっと、それじゃ……=Vậy, ừm...
@@ -970,7 +970,7 @@
 ええ、頼りにさせていただきます。=Ừ, chúng tôi sẽ trông cậy vào mọi người.
 それからリンド。ヴルム。\nみなさまの、世話をしてさしあげなさい。=Ngoài ra, Lind và Wurm,\nhãy chăm sóc mọi người nhé.
 きゃ、客間は空いてますけど、でも……=Mặc dù có phòng khách sẵn có, nhưng mà...
-畏まりました。=Đã rõ.
+畏まりました。=Hiểu rồi.
 滞在の手配まで……\nお心遣い、ありがとうございます。=Cảm ơn sự hiếu khách và đã sắp xếp chỗ ở cho chúng tôi.
 ふふっ。\n当然のことですよ。\nきっとこれから、長いお付き合いになるでしょうし。=Fufun, đó là điều đương nhiên.\nChúng ta có lẽ sẽ ở cùng nhau khá lâu.
 でも……ちょっとだけ、不安ですね。\n魔物はアストライア大陸中から集まってきているのに、\nわたしたちだけじゃ……=Nhưng... tôi hơi lo.\nMặc dù quái vật đang tụ tập từ khắp nơi trên Astraea, với chỉ có chúng ta...
@@ -1209,7 +1209,7 @@
 さあ、次はどんな訓練をするんだ、\n【王宮騎士団（NIGHTMARE）】！\nそれとも次もこちらの訓練でいいか！？=Vậy, loại tập luyện nào tiếp theo, Nightmare? Hay nên tiếp tục cái này?
 だ、ダメッス！\n腹筋2万……いや3万回ッス！=K-Không! 20.000... không, 30.000 lần tập bụng!
 ぬぬぬぬぬぬぬ～\nじゃあこっちは……10万回ッス～～～っ！！=Grrrr... Được, vậy thì chúng ta làm... 100.000!
-は、はひぃ…………=Ực...
+は、はひぃ…………=Ugh...
 みなさーんっ！\nそんなことより、こっちへどうぞ！=Mọi người!\nThay vào đó, qua đây!
 あら……？\nリア、さん……？　手に持っているのは……？=Ara... Ria? và cô mang theo là gì?
 ふふっ。わたしとマコトさんで作ったお菓子です♪\nクッキーにホットケーキにフルーツサンド、\nキャラメルポップコーンにチョコバナナもありますよ。=Hehe. Bánh kẹo mà Makoto và tôi làm. Có cookie, bánh pancake, bánh mì trái cây, bỏng ngô caramel và chuối chocolate.

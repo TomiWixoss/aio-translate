@@ -22,7 +22,7 @@ Chapter 1
 ええ、ペコリーヌ姫。\n……わたしは天使にして姫という立場上、人の子の愛というものには\n見識が足りません。この機会に、ぜひ学ばせていただければと──=Vâng, Công chúa Pecorine. ...Là một thiên thần và cũng là một công chúa, tôi thiếu hiểu biết về cách tình yêu giữa con người hoạt động. Tôi muốn lấy cơ hội này để tìm hiểu thêm về nó...
 ユースティアナ陛下、失礼します。\n実は──=Xin lỗi, Bệ hạ. Thực ra...
 え、ランドソルの人々に異変……？\nまた、楽しみ～っていうときに異常事態なんですか？\n夏のときみたいに……=Hả? Có gì đó không ổn với người dân Landosol...? Lại có chuyện kỳ quặc xảy ra ngay khi chúng ta sắp có chút vui vẻ...? Giống hệt như hồi mùa hè...
-ペコリーヌ姫……？=Công chúa Pecorine...?
+ペコリーヌ姫……？=Công Chúa Pecorine...?
 騎士、イオ。\n今日はよろしくお願いしますね。=Kỵ sĩ, Io. Tôi rất mong được làm việc với bạn hôm nay.
 公務の合間の、少ない自由時間ではありますが\n友人たちと過ごす観光を、とても楽しみにしていました。=Mặc dù tôi có ít thời gian rảnh giữa các nhiệm vụ chính thức, tôi vẫn mong được đi tham quan cùng các bạn, những người bạn của tôi.
 ふふ、私たちもライラエルさんと会えてうれしいです。\nでも……=Hehe. Chúng tôi cũng rất vui khi thấy bạn ở đây, Lyrael. Nhưng...
@@ -144,7 +144,7 @@ Player Prompts
 こんなイオちゃん嫌だ……=Tôi không thích Io-chan như vậy...
 イオちゃん、待って……！=Io, đợi đã...!
 あっ、リボンが解けて……=À, chiếc ruy-băng đã tuột...
-まてー！=Đợi đã!
+まてー！=Khoan!
 フローエちゃん、ここは私たちに任せて！=Floe, để chúng tôi lo!
 ええ、クリスマスは必ず守ってみせます！=Vâng, tôi chắc chắn sẽ bảo vệ Giáng Sinh!
 クリスマスの悪魔として……！=Với tư cách một Quỷ Giáng Sinh...!
@@ -167,7 +167,7 @@ Boss?
 なるほど……？　食パンを、くわえて……\nおまじないか何かでしょうか。いったいどんな効果が……？=Tôi hiểu rồi...? Với bánh mì trong miệng... tôi tự hỏi đó có phải là một vật may mắn hay gì đó. Nó có tác dụng gì...
 いえ、少女漫画のお約束です！\n行きますよ、「遅刻遅刻～！」=Không, đó là một lời hứa từ một manga shoujo! Đi thôi, 'Trễ, trễ, trễ~!'
 え？　あっ、イオ待ってください……！=Hả? Ôi, đợi đã, Io...!
-ああ、行っちゃったわね……=Ồ, cậu ta đi mất...
+ああ、行っちゃったわね……=Ồ, anh ấy đi mất...
 …………し、仕方ありません。わたしたちも続きましょう！\n「遅刻遅刻～！」=............K-Không còn cách nào khác. Chúng ta tiếp tục thôi! 'Trễ, trễ, trễ~!'
 あぁん、いった～いっ！=Ái chà, đau quá!
 ほ、本当に曲がり角でベロリーとぶつかるとは……！？\nイオ、あなたのおまじないの効果は絶大なのですね……=T-Tôi không ngờ lại đụng phải Beryl ở góc phố như vậy...! Io, vật may mắn của cô thật sự hiệu nghiệm quá...
@@ -194,7 +194,7 @@ Chapter 2
 それで、フローエ。\nクリスマスを守るには、どうすればよいでしょうか？=Vậy, Floe. Để bảo vệ Giáng sinh, chúng ta cụ thể nên làm gì?
 やるべきことは、主に二つよ。\nベロリーを止めること。\nそして、愛を破壊された人を元に戻すことよ。=Chúng ta có hai mục tiêu cần đạt được trước mắt. Thứ nhất, ngăn Bellory. Sau đó, trả lại tình yêu cho những người bị anh ta hủy diệt tình yêu.
 でも、問題は山積みだわ。\nまずベロリーって、悪霊で神出鬼没だし、\n見つけるのに、すっごい骨が折れるのよね……=Tuy nhiên, cả hai con đường đó đều đầy rẫy vấn đề. Trước hết, Bellory là một ác linh xuất hiện và biến mất theo ý muốn, nên tìm thấy anh ta sẽ thực sự vất vả...
-えっ？\nどういうこと？=Hả? Ý cô là sao?
+えっ？\nどういうこと？=Hả? Ý cậu là sao?
 『崩雷夜天』──王家の装備を使った雷撃は、\n敵味方を識別することができます。その範囲を最大に広げれば\n街のどこにいても攻撃できるかと思いますが……="Bầu trời đêm sấm sét" - Một cú sét sử dụng trang bị hoàng gia của tôi có thể phân biệt bạn và thù. Nếu mở rộng phạm vi tối đa, tôi có thể tấn công bất cứ đâu trong thành phố, nhưng...
 ライラエルさん、つよっ！？\nベロリーなんて一発KOじゃない！\n今すぐ使いましょう♪=Lyrael-san, cô mạnh quá! Cô sẽ có thể hạ gục Bellory trong một đòn với thứ đó! Hãy dùng ngay bây giờ♪
 いえ、ですが、\n他国の街中では簡単には使用できません。\n無機物には、敵味方がありませんから……=Không, nhưng... không đơn giản như vậy để dùng trong thành phố của một quốc gia khác. Hơn nữa, đối với vật vô sinh, khái niệm bạn hay thù không thực sự áp dụng được...
@@ -237,7 +237,7 @@ Chapter 2
 でも、先生がやるべきことなら分かるわ……！\n教師の仕事は、生徒たちに教えること！=Nhưng nói với tư cách là một giáo viên, tôi biết mình phải làm gì...! Nhiệm vụ của giáo viên là dạy học sinh!
 愛を破壊されちゃったなら、先生が愛を教えます！=Nếu tình yêu của các em đã bị phá vỡ, thì Sensei sẽ dạy các em về tình yêu!
 さあ、みんな。愛の授業を始めるわよ～\n学問や将来のドキドキを思い出させてあげるわ。=Được rồi, mọi người. Đã đến giờ bắt đầu bài học về tình yêu. Cô sẽ nhắc lại sự phấn khích mà việc học và ước muốn tương lai mang lại.
-えぇ～=Eeehhh...?
+えぇ～=Ốiii...?
 もう、そんなこと言わないの……！\nその紙はしまって、早く席に着きなさ～い。=Trời đất, đừng thể hiện những bộ mặt không thiết tha như vậy...! Cất những tờ giấy đi! Mau vào chỗ ngồi.
 それじゃあ、ライラエルさんたちも\n一緒に授業を受けちゃってください♪=Vậy thì, Lyrael-san và {playername}, hai người cũng vào chỗ ngồi và tham gia cùng chúng ta♪
 わ、わかりました……！\nそうですね、今できることをやりましょう。=Em... em hiểu rồi...! Đúng vậy, hãy làm những gì chúng ta có thể ngay bây giờ.
@@ -597,7 +597,7 @@ New Player Prompts
 二人とも、何をしているの？=Hai người đang làm gì vậy?
 集合的無意識……？=Vô thức tập thể...?
 ……やってみよう、僕が眠るよ。=...Thử xem. Tôi sẽ ngủ
-失礼します。=Xin lỗi
+失礼します。=Xin phép
 
 New Titlecards
 美し過ぎるボクが嫌い=Bị Ghét Vì Quá Đẹp
@@ -616,7 +616,7 @@ Chapter 5
 クリスマスプレゼントは私よ～\n……はぁ、君が無視するから、自分で出てきちゃったじゃない。=Tôi là món quà Giáng sinh của cậu... *thở dài*. Cậu đã bỏ qua tôi, nên tôi tự ra đây.
 あれ……私ったら、どうしちゃったのかしら？\nプレゼントは私だなんて……=Hở...? Có chuyện gì với tôi, cậu hỏi? Tôi là món quà của cậu...
 ……これは、もしかすると、\n無意識の仕業かもしれませんね。=...Có lẽ đây là một hành động của vô thức.
-どういうことですか？=Ý cậu là sao?
+どういうことですか？=Ý cô là sao?
 本来、無意識とはコントロールできないものです。\nそして、ここは集合的無意識でできた夢の世界……=Vô thức là thứ không thể kiểm soát. Và nếu đây là một thế giới giấc mơ được tạo nên từ vô thức tập thể...
 はっきりと意識を持っていなければ、\n無意識が顕在化してしまうのかもしれません。=Nếu cậu không có ý thức rõ ràng, tiềm thức của cậu có thể hiện thực hóa.
 なるほど……\nなんだか、丸裸にされたみたいで恥ずかしいです。\nその、さっきのは……=Ra vậy... Tại sao cứ thấy ngượng ngùng quá, cứ như những ham muốn của mình đã bị lộ ra ngoài. Ưm, cái đó là...
@@ -708,7 +708,7 @@ Player Prompts
 みんな好きだもんね。=Có vẻ đây là tình huống phổ biến trong giới nữ sinh
 あります。=Tôi có
 クリスマスならではのシチュエーション？=Một tình huống đặc thù cho Giáng sinh?
-あ～ん……=Ôi...
+あ～ん……=Àaaa...
 何でデートしてるんだっけ、イオハニー？=Honey Io của tôi, tại sao chúng ta lại hẹn hò?
 分かったよ、ライラハニー=Tôi đồng ý, Lyrael Honey của tôi
 でも、ステージには誰もいないよ……=Nhưng trên sân khấu không có ai cả...
@@ -745,7 +745,7 @@ Chapter 6
 わたしが、二人同時に存在していることですね……\nあの姿は、王家の装備を使用した際に現れる\n別人格そのものでした……=Có hai "tôi" cùng tồn tại ở đây... Cái "tôi" đó là nhân cách khác xuất hiện mỗi khi tôi sử dụng thiết bị của hoàng gia...
 はい……\nでも、ちょっと引っかかっているんです。=Đúng... Nhưng có điều gì đó khiến ta băn khoăn.
 見た目はすっごい似ていたんですけど、\n雰囲気が違うような気もして……=Về bên ngoài, hai phiên bản của ngươi trông thực sự giống hệt nhau, nhưng ta cũng cảm thấy có gì đó khác biệt...
-どういうことです……？=Ý ngươi là sao...?
+どういうことです……？=Ý em là gì vậy...?
 私たちが知ってるキリッとしたライラエルさんは、\nもっと親しみやすいというか……=Lyrael kiêu ngạo, cay nghiệt mà chúng ta biết, thân thiện hơn nhiều so với cô ấy mà chúng ta thấy ở đây...
 傲慢な人格がですか……？\nあっ………………=Ý là cô ấy không phải tính cách kiêu ngạo của ta...? À...
 ……思い出しました……=...Ta nhớ ra rồi...
@@ -858,7 +858,7 @@ Chapter 6
 うるさい！\nあんたなんか、この武器で突っついて、\n悪夢見せて反省させてやるんだから！=Câm miệng! Ta sẽ đâm ngươi bằng vũ khí này, cho ngươi ác mộng và khiến ngươi hối hận hành động của mình!
 ……悪夢？\nそっか、いいこと思いついたぞ～！=...Một ác mộng? Tôi hiểu rồi, tôi vừa có một ý tưởng hay!
 ちょっと、何するの！？\nきゃああ～……！=Này, cô đang làm gì vậy?! Kyaaaa...!
-どうしよう……=Chúng ta nên làm gì...?
+どうしよう……=Phải làm sao đây...?
 すぅ～、はぁ～、すぅ～、はぁ～=*thở dốc* *thở hổn hển*
 まだ集合的無意識の夢の中。=Chúng ta vẫn đang trong giấc mơ tập thể vô thức.
 僕もそんな気がした。=Tôi cũng cảm thấy như vậy
@@ -887,7 +887,7 @@ Chapter 7
 た、助けてくれー……！=C-Cứu tôi KHIẾN TÔI KHÔNG THỂ ĐƯỢC...!
 この声は……\nサンタクロース？=Có phải...Ông già Noel không?
 プレゼントを寄こせー！=Cho tôi một món quà!
-ひぃ～……！=Eeek...!
+ひぃ～……！=Eek...!
 ちょっと、私はサンタさんじゃないわよ～\n助けてー！=Này, tôi không phải ông già Noel chút nào! Cứu tôi!
 おらぁ、プレゼントの追加だ！\n宿題やらなきゃ、お前は退学だぞー！=Này, đây là món quà khác cho ngươi! Nếu ngươi không làm bài tập, ngươi sẽ bị đuổi học!
 嘘、いやよ……\nクリスマスプレゼントが宿題だなんて……\nこんなの悪夢だわ！=Không thể nào... Điều đó không thể... Tôi không thể tin rằng món quà Giáng sinh lại còn là bài tập thêm... Đây là một cơn ác mộng!
@@ -937,7 +937,7 @@ Chapter 7
 Player Prompts
 あれ、僕たち牢屋の中にいたはず……？=Hả? Chúng ta không phải đang trong buồng giam...?
 プリンセスナイトの力を発動する。=Tôi kích hoạt sức mạnh Princess Knight của tôi
-うわぁっ！？=Ối dà!?
+うわぁっ！？=Ôi!?
 別に。=Không hẳn
 大丈夫って何が？=Cô quan tâm làm gì?
 それくらい自分で考えて。=Cô có thể lãng phí thời gian suy nghĩ một mình
@@ -1050,7 +1050,7 @@ Finale
 ええ、仲直りしましょ？\n私たち、拳で語り合った仲じゃない♪=Vâng, hãy làm lành, được chứ? Chúng tôi không phải loại người chỉ nói chuyện bằng nắm đấm, bạn biết đấy♪
 イオちゃん、間違ってないけど、\nそのセリフはどうなのかしら……？=Io-chan, em không sai, nhưng phần cuối có thực sự cần thiết...?
 まあ、とにかく。\n食べないと、この後体力切れしちゃうわよ？=Thôi, anyway. Nếu ngươi không ăn, sau này ngươi sẽ hết năng lượng, bạn biết đấy?
-え？\nどういうこと？=Hả? Ý ngươi là gì?
+え？\nどういうこと？=Hả? Ý cậu là sao?
 プレゼントもケーキも受け取ったからには、\nクリスマス的には、あんたもいい子ってことになるわ。\nだから、絶対に改心しなきゃいけないの。=Vì ngươi đã nhận được món quà dưới dạng chiếc bánh đó, điều đó có nghĩa là ngươi là một đứa trẻ ngoan... ít nhất là về mặt Giáng sinh. Vì vậy ngươi thực sự cần ăn năn và thay đổi cách làm.
 まず、この後みんなに謝りに行って、ちゃんと償うの。\nそしたら、次のクリスマスも一緒に祝えるでしょ？=Trước tiên, cậu phải đi xin lỗi mọi người và sửa chữa lỗi lầm. Sau đó chúng ta có thể cùng nhau bảo vệ mùa Giáng Sinh tiếp theo, được chứ?
 それが、あんたへの罰よ。\nこれからは、あたしと一緒にクリスマスを守るの。=Đó là hình phạt của cậu. Từ giờ trở đi, cậu sẽ bảo vệ Giáng Sinh cùng tôi.

@@ -4,5 +4,5 @@
 ---アA---
 キャラクター図鑑=Thông Tin Nhân Vật
 思い出アルバム=Album Kỷ Niệm
-イテム図鑑=Thông Tin Vật Phẩm
+イテム図鑑=Thông tin vật phẩm
 sr:"^([べ-ヺー＆＝]+)(（.+）)? 第(\d+)話を見ると確認できます。$"=Có thể xem sau khi xem Tập $3 của $1$2.

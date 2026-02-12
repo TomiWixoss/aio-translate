@@ -15,7 +15,7 @@ r:"^敵単体に(\d+)の物理ダメージ(\d+)ダメージ分の物理吸収バ
 最もＨＰの割合が低い味方１\nキャラのＨＰを中回復させる。=Phục hồi một lượng HP vừa phải cho thành viên đội có HP thấp nhất.
 
 ##S2##
-プロテクション=Bảo Vệ
+プロテクション=Bảo vệ
 自分の周りの味方に物理無効バリアを展開する。=Triển khai Khiên trên đồng đội trong phạm vi 150, phản toàn bộ sát thương vật lý (P.DMG) trong 12s.
 自分を中心とした範囲内の味方すべてに物理無効バリアを展開する。=Triển khai Khiên trên đồng đội trong phạm vi 150, phản toàn bộ sát thương vật lý (P.DMG) trong 12s.
 r:"^(\d+)ダメージ分の物理無効バリアを展開する$"=►Triển khai Khiên trên tất cả đồng đội phản $1 P.DMG.

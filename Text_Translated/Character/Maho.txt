@@ -1,6 +1,6 @@
 ##Profile##
 空想、ぬいぐるみ集め=Thích sưu tập thú nhồi bông.
-マホマホ王国のプリンセス=Công chúa của Vương quốc Maho-Maho
+マホマホ王国のプリンセス=Công Chúa Vương Quốc Maho-Maho
 
 【魔法】後衛で味方のサポートを担当するメルヘン少女。味方全体を強化してＴＰを回復するユニオンバーストや、ＨＰ回復、敵を暗闇にするスキルで戦況を好転させる。=[Ma thuật] Một cô gái như trong truyện cổ tích, hỗ trợ đội từ tuyến sau. Lật ngược tình thế trận chiến với Union Burst (kỹ năng liên kết) tăng buff cho tất cả đồng đội và hồi TP, cùng với kỹ năng hồi HP và làm mù kẻ địch.
 
@@ -28,8 +28,8 @@ r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体の物理防御�
 
 ##S1##
 マホマホヒール=Maho-Maho Healing
-ＨＰが１番低い味方１キャラのＨＰを中回復する。=Hồi HP cho thành viên đội có HP thấp nhất một lượng vừa phải.
-最もＨＰの割合が低い味方１キャラのＨＰを中回復する。=Hồi HP cho thành viên đội có tỷ lệ HP thấp nhất một lượng vừa phải.
+ＨＰが１番低い味方１キャラのＨＰを中回復する。=Phục hồi một lượng HP vừa phải cho thành viên đội có HP thấp nhất.
+最もＨＰの割合が低い味方１キャラのＨＰを中回復する。=Hồi HP của thành viên đội có tỷ lệ HP thấp nhất một lượng vừa phải.
 
 ##S2##
 マホマホダークネス=Maho-Maho Darkness

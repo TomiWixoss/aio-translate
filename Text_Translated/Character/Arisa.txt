@@ -7,12 +7,12 @@
 
 自然の導き=Sự Dẫn Dắt Của Thiên Nhiên
 深緑の守護者=Người Quản Lý Xanh Tươi
-収穫祭=Lễ Hội Thu Hoạch
-妖精のいたずら=Thích Phá Đồ Chơi Tiên
-エルフの弓術=Elven Archery
+収穫祭=Lễ Hội Mùa Gặt
+妖精のいたずら=Sự Phá Phách Của Tiên Nữ
+エルフの弓術=Tên Bắn Cung Của Loài Người Elf
 まどろみの森=Rừng Giấc Mơ
-放浪するエルフ=Kẻ Lang Thang Elf
-妖精の楽園=Thiên Đường Tiên
+放浪するエルフ=Kẻ Lang Thang Của Loài Người Elf
+妖精の楽園=Thiên Đường Của Tiên Nữ
 フォレストムーブ=Chuyển Động Trong Rừng
 森の意志=Ý Chí Của Rừng
 妖精の調べ=Điều Tra Tiên
@@ -37,7 +37,7 @@ r:"^自分のＴＰを(\d+)回復ユニオンバースト使用後、自分の�
 r:"^自分のＴＰを(\d+)回復ユニオンバースト使用後、自分のＴＰを(\d+)回復自分の物理攻撃力を(\d+)アップ$"=►Hồi $1 TP cho bản thân.\n►Sau khi dùng UB, hồi $2 TP cho bản thân.\n►Tăng P.ATK cho bản thân lên $3.
 
 ##EX##
-エルフの弓術=Elven Archery
+エルフの弓術=Tên Bắn Cung Của Loài Người Elf
 エルフの弓術+=Elven Archery+
 バトル開始時に自分の物理攻撃力を大アップさせる。=Tăng lớn tấn công vật lý cho bản thân ở đầu trận.
 

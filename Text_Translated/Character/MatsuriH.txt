@@ -3,7 +3,7 @@
 
 ##UB##
 ハロウィンタイガーヒーロー=Anh Hùng Hổ Halloween
-目の前の敵１キャラに物理大ダメージを与え、さらに自分の行動速度を大アップさせる。このスキルのダメージと行動速度の上昇量は、ユニオンバーストを使用するたび増加する。（最大４回）=Gây sát thương vật lý khổng lồ lên kẻ địch phía trước và tăng tốc độ hành động của bản thân rất lớn. Sát thương và tăng tốc độ hành động của kỹ năng này tích lũy với mỗi lần sử dụng Union Burst. (Tối đa 4 lần)
+目の前の敵１キャラに物理大ダメージを与え、さらに自分の行動速度を大アップさせる。このスキルのダメージと行動速度の上昇量は、ユニオンバーストを使用するたび増加する。（最大４回）=Gây lượng lớn sát thương vật lý lên kẻ địch phía trước và tăng cường mạnh mẽ tốc độ hành động của bản thân. Sát thương và tăng tốc độ hành động của kỹ năng này tích lũy với mỗi lần Union Burst sử dụng. (Tối đa 4 lần)
 r:"^敵単体に(\d+)の物理ダメージ自分の行動速度アップ$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Tăng tốc độ hành động của bản thân lên 150% trong 12s.
 
 ##S1##

@@ -56,7 +56,7 @@ r:"^(\d+)ターン以内に到着$"=Đến trong $1 lượt
 平凡なトレジャー。ギルド管理協会出張所まで持ち込むと、少額のキャラバンコインに換金できる。=Kho báu thông thường. Nếu bạn mang nó đến chi nhánh của Hiệp Hội Quản Lý Guild, bạn có thể đổi nó lấy vài Đồng Caravan.
 
 落ちてくるリンゴや宝箱をキャッチしましょう！\n画面の左右をタッチすると移動できますよ！=Hãy bắt những quả táo rơi và hộp kho báu! Vì bạn chơi trên PC, bạn có thể sử dụng phím mũi tên Trái← và Phải→ trên bàn phím hoặc một cần điều khiển.
-スタート=Bắt Đầu
+スタート=Bắt đầu
 集めたリンゴはマイルと交換させていただきます。\n金リンゴはなんと、赤リンゴ5個分の価値がありますよ♪\nさらに宝箱をキャッチすると、トレジャーがGETできます！=Những quả táo thu thập được sẽ được đổi lấy Miles. Và bạn biết không, một quả táo vàng đáng giá bằng năm quả táo đỏ! Hơn nữa, nếu bạn bắt được hộp kho báu, bạn sẽ nhận được một Kho Báu!
 トゲトゲにぶつかると、少しの間動けなくなるので注意してください。\nマグネットをキャッチすると、範囲内のフルーツや宝箱を一定時間\n引き寄せることができますよ♪=Hãy cẩn thận không va chạm với chướng ngại vật có gai, vì nó sẽ làm bạn tạm thời bất động. Nếu bạn bắt được nam châm, nó sẽ hút trái cây và hộp kho báu trong phạm vi của nó trong một khoảng thời gian nhất định♪
 トゲトゲにぶつかると、少しの間動けなくなるので注意です！\nマグネットをキャッチすると、範囲内のリンゴや宝箱を一定時間\n引き寄せることができますよ♪=Hãy cẩn thận không va chạm với chướng ngại vật có gai, vì nó sẽ làm bạn tạm thời bất động. Nếu bạn bắt được nam châm, nó sẽ hút trái cây và hộp kho báu trong phạm vi của nó trong một khoảng thời gian nhất định♪

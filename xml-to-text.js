@@ -139,7 +139,7 @@ function getAllTextFiles(dir, fileList = []) {
 
 // Chạy script
 try {
-  const xmlFile = './merged_translations_vi.xml'; // Dùng file EN để test
+  const xmlFile = './merged_translations_vi_updated.xml'; // Dùng file EN để test
   const mappingFile = './key_mapping.json';
   const templateDir = './Text_Templates';
   const outputDir = './Text_Translated';

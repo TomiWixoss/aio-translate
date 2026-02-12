@@ -3,21 +3,21 @@
 
 【物理】最後衛から状態異常の矢を放つ、ぼっちの射手。ダメージと共に付与する毒や麻痺の追加効果により、防御力の高い敵であっても、確実にＨＰを削りとる。=[Vật lý] Một cung thủ cô độc bắn những mũi tên độc từ hậu phương. Độc tố và tê liệt mà cô gây ra có thể rút máu từ ngay cả những chiến binh vững chắc nhất.
 
-結成！ＢＢ団=Chúng ta là Đội BB!
-つかみはOK！？=Ấn tượng đầu tiên
-友達づくりは命がけ=Mọi thứ công bằng trong tình bạn và chiến tranh
+結成！ＢＢ団=Chúng Là BB Brigade!
+つかみはOK！？=Ấn Tượng Đầu Tiên
+友達づくりは命がけ=Tất cả đều công bằng trong tình bạn và chiến tranh
 真のぼっち対決！？=Cô độc đối đầu cô độc!
-テーマソング完成！=Thời gian nhạc chủ đề!
-あなたがそばにいてほしい=Em cần anh ở bên cạnh
-星降る夜の奇跡=Phép lạ dưới ánh sao
-私の、一番の友達=Người bạn tốt nhất của em
+テーマソング完成！=Thời gian cho bài hát chủ đề!
+あなたがそばにいてほしい=Cần có bạn bên cạnh
+星降る夜の奇跡=Kỳ tích dưới ánh sao
+私の、一番の友達=Người bạn thân nhất của tôi
 
 「友達」に憧れる、エルフの森の女の子=Một cô gái từ rừng tiên khao khát sự đồng hành.
 
 ##UB##
 ツイストヴァイン=Dây leo xoắn ốc
-r:"^範囲内の敵に(\d+)の物理ダメージ$"=►Gây $1 Sát thương vật lý cho kẻ địch trong phạm vi.
-目の前の敵１キャラを中心とした範囲内の敵に物理中ダメージを与える。=Gây sát thương vật lý trung bình cho kẻ địch trong phạm vi.
+r:"^範囲内の敵に(\d+)の物理ダメージ$"=►Deals $1 P.DMG to enemies in range.
+目の前の敵１キャラを中心とした範囲内の敵に物理中ダメージを与える。=Gây sát thương vật lý vừa phải lên kẻ địch trong phạm vi.
 
 ##S1##
 ポイズンアロー=Mũi tên độc

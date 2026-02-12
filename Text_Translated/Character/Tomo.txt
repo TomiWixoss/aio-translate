@@ -22,7 +22,7 @@ r:"^敵単体に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アッ
 
 ##S1##
 ミクマ流剣術・陣風=Mikuma style: Gale Strike
-前方範囲内の敵すべてに物理小ダメージを与える。=Gây P.DMG vừa phải lên toàn kẻ địch trong phạm vi.
+前方範囲内の敵すべてに物理小ダメージを与える。=Gây sát thương vật lý trung bình lên tất cả kẻ địch trong phạm vi.
 
 ##S2##
 ミクマ流剣術・燕返し=Mikuma style: Returning Swallow

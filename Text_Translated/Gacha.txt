@@ -13,7 +13,7 @@ Sダッシュ=S:Dash
 ★3確定（光）=3★ Ánh sáng
 ★3確定（闇）=3★ Bóng tối
 
-プラチナ=Premium
+プラチナ=Cao cấp
 ピックアップ=Tập trung
 プラチナガチャ=Gacha Premium
 ノーマルガチャ=Gacha Thường
@@ -83,11 +83,11 @@ r:"^ストーリー (\d+)話$"=Chương Truyện $1
 このメッセージを自動表示しない※メニューから設定が可能です=Không tự động hiển thị tin nhắn này ※Có thể đặt từ menu
 r:"^(\d+)Ptで $"=$1 Điểm
 
-キャラ交換=Đổi
+キャラ交換=Trao đổi
 
 キャラ交換Ptを200Pt消費して、\n対象のラインナップから1キャラ仲間にできます。=Bạn có thể sử dụng 200 Điểm Trao Đổi Nhân Vật để tuyển dụng một nhân vật từ danh sách.
 
-おまけ:=Lượt tặng thêm
+おまけ:=Thưởng
 秘石交換=Đổi lấy Bùa
 
 もう一度引く=Thử lại
@@ -364,7 +364,7 @@ r:"^([0-9.]+)th Anniv. SPキャラ交換ガチャセット$"=Trao Đổi Đặc 
 選択可能キャラ一覧=Chọn một nhân vật
 キャラ一覧から仲間にしたいキャラを選択してください。=Chọn nhân vật bạn muốn.
 未解放=Đã khóa
-解放済み=Đã mở khóa
+解放済み=Đã Mở Khóa
 限定キャラ=Giới hạn
 スペシャル キャラ交換ガチャセットについて=Về Trao Đổi Nhân Vật Đặc Biệt
 [3C404E]外部ブラウザを開きますがよろしいですか？[-]=[3C404E]Bạn có chắc muốn mở trình duyệt bên ngoài không?[-]

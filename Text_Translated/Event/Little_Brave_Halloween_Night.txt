@@ -41,7 +41,7 @@
 怪我は……うん、平気かな。\nミミー、走ったりしたら危ないよー？=Để chị xem... Tốt, không bị thương đâu.\nMimi, con không được chạy trên đường đâu.
 ごめんねー。ミミ、はやくハロウィンしたくて急いじゃった。=Xin lỗi... Em chỉ không thể chờ Halloween bắt đầu thôi!
 よーし、３人揃ったし、みんなでお菓子を集めに行くぞー！=Được rồi! Giờ mọi người đã ở đây rồi, thôi nào đi lấy kẹo thôi!
-トリックオアトリート～！=Trick or treat!
+トリックオアトリート～！=Bánh hay lừa!
 はーい、お菓子ですよ～=Đây, lấy chút kẹo đi!
 わーいチョコレートだ～。おねえちゃん、ありがとう。=Yaaay, sô-cô-la! Cảm ơn chị, Chị Tốt Bụng!
 うーん……お菓子はうれしいけど、イタズラもしたいなぁ……=Ugh... Kẹo thì ngon thật, nhưng em muốn chơi khăm hơn...
@@ -193,7 +193,7 @@
 ひゃうっ！　こ、こんな時まで邪魔しないでください！=Ái chà! Em... em đã chịu đủ trò quỷ quái của cô rồi!
 っ！？　え？　きゅ、急に力が……どうして……\nううん、いまは理由なんて気にしてる場合じゃない……行くよ、ミソギ！=...?! Hả? Em... em được tăng cường sức mạnh... Sao lại thế...?\nKhông, lý do lúc này không quan trọng. \nLàm thôi, Misogi!
 やーーーーーー！！！=Yaaahhhhhhh!
-こほっ、こほっ！=*ho*... *ho*...!
+こほっ、こほっ！=*hừm*... *hừm*...!
 キョウカ！=Kyouka!
 ……ミソギ……{playername}さん。=Misogi... {playername}...
 ……うわーん！　キョウカー！　よかった、よかったよー！！=...Uaaahhh! Kyoukaaaa! Thật may mắn! \nCô ấy thực sự ổn!
@@ -296,7 +296,7 @@
 ……ここは私たちにまかせて、ミミはあの子を追って。=...Việc này cậu có thể giao cho chúng tôi. Đi tìm cô ấy đi, Mimi.
 キョウカちゃん？=Kyouka-chan?
 ミミは私を助けてくれた……だから、今度は私が助けるって決めたの！\n早く行ってあげて！=Cậu đã cứu tôi trước đó... \nVì vậy lần này đến lượt tôi giúp cậu!\nBây giờ đi tìm bạn của cậu đi!
-……うん！=...Được!
+……うん！=...Vâng!
 ここは通しません……\nミソギ、{playername}さん！=Các người không qua được chúng tôi đâu.\nMisogi! {playername}!
 おっけー！　とっととやっつけちゃおう！=Được rồi! Hãy xử lý mấy tên xấu xa này!
 言ったもん……どこにもいかないって……\nハナちゃんに約束したもん！=Mình đã hứa... Mình nói sẽ không rời bỏ cô ấy...\nMình đã hứa với Hana là sẽ ở lại!
@@ -338,7 +338,7 @@
 だって……ミミだったらいやだもん……\nミミの前で、みんなが消えちゃったら、いやだもん……=Nhưng... nếu là em thì em sẽ rất buồn...\nNếu bạn bè em biến mất như của chị, em biết em sẽ khóc...
 ハナちゃん……ずっと、一人でがまんしてたんだよね？\nもう平気だから……ミミたちがいるから……だから……=Hana... Chị đã cố gắng một mình rất lâu rồi, phải không?\nNhưng giờ không sao rồi... Chị có chúng em rồi... nên...!
 お外に出て、楽しいハロウィンしよ？\nもう……だれもいなくなったりしないから。=Cùng ra ngoài và tận hưởng Halloween cùng nhau nào!\nKhông ai phải rời đi nữa...!
-……ぐすっ……=Ối...
+……ぐすっ……=Àaaa...
 きゃーーーっ！=Kyaaa!
 逃げるチャンスはあったはずだ……\nそんなに幽霊の仲間入りをしたいなら──=Các ngươi đã có cơ hội chạy trốn.\nNếu các ngươi muốn gia nhập linh hồn đến thế...
 もうやめてー！！=Xin dừng lại!
@@ -361,7 +361,7 @@
 えへへ……ミソギちゃんもキョウカちゃんもおにいちゃんも、\nみーんながんばってるから……ミミだけ仲間はずれはやだよ……=Ehehe... Misogi... Kyouka... Onii-chan...\nTất cả đang cố gắng nhiều thế... Em không muốn bị bỏ lại...
 それにミミ、おねえちゃんだもん……ね？=Hơn nữa, em... là cô gái lớn ở đây... Đúng chứ?
 ……うん……ミミおねえちゃん、\nみんなを、パパを……たすけてあげて！！=...Vâng... Mimi Onee-chan...\nCứu mọi người... Cứu Papa... Giúp ông ấy!
-んっ！=Hự!
+んっ！=Ngh!
 はあああああああ！=Hựaaaa!
 わわわわっ！　あ、あぶないなー！\nこれでも、くらえー！=Gaaaa! C-có thể dừng lại được không?!\nNhận đây!
 ダメだよミソギ！\nまわりの霊魂を引き剥がさないと、攻撃が通らないよ！=Lùi lại, Misogi!\nNhững đòn tấn công của chúng ta sẽ không bao giờ chạm được ông ấy qua những linh hồn đó!
@@ -397,9 +397,9 @@
 ミ、ミソギもボロボロだよぉ。にいちゃんおんぶー=T-tôi cũng kiệt sức rồi! Cõng em đi, Nii-chan!
 そんなこと言ってる場合じゃ──=Đây không phải lúc để—
 周囲は、不思議な光で包まれるのだった。=Bỗng nhiên, nhóm người thấy mình được bao quanh bởi ánh sáng...
-にぃちゃん！=Nii-chan!
+にぃちゃん！=Anh ơi!
 こっちだ！=Bên này!
-うぬ～っ！=Nghhh...!
+うぬ～っ！=Uhm...
 はぁ～っ！=Ái!
 そのままひきつけて ！=Giữ chặt hắn lại!
 そぉ──=Lấy...
@@ -408,7 +408,7 @@
 キョウカ！　お願い！=Kyouka! Đến lượt em rồi!
 外しません！=Tôi sẽ không trượt!
 はぁぁ～っ！=Haaahhhh!
-一体何のつもり……=Các người là ai...?
+一体何のつもり……=Cô là ai vậy...?
 ぬお？=Guohh?!
 お菓子だ　お菓子だ　お菓子だ　お菓子だ=Bánh! Bánh! Bánh! Bánh!
 お菓子だーーっ！=Bánh ngon!
@@ -426,7 +426,7 @@
 ミミたちは子どもたちの幽霊の助けで屋敷から脱出する。{playername}の提案でハナをサレンに預け、救護院のパーティーに参加する。苦難を乗り越え、少しだけ大人になった【リトルリリカル】だった。=Mimi và những người khác trốn thoát khỏi biệt thự với sự giúp đỡ của linh hồn trẻ con. Theo gợi ý của {playername}, họ để Hana ở lại chăm sóc của Saren và gia nhập nhóm tại trại mồ côi. Cô bé Lyrical nhỏ nhẹn vượt qua khó khăn và trưởng thành hơn một chút.
 出れた……やったーーー！　みんなで脱出できたんだー！=Chúng ta làm được rồi! Vui quá! Tất cả chúng ta cùng trốn thoát!
 ……あ、れ？　ここ、外……それじゃあ……=H-hả? Chúng ta... đang ở bên ngoài... Điều đó có nghĩa là...?
-……んっ。=...Ngh.
+……んっ。=...Ực.
 不思議な光が収束した、その後──=Như vừa xuất hiện, ánh sáng chói lóa biến mất...
 で、でもどうして？　私たち、霊界にいたはずじゃ──=N-nhưng làm sao được? Chúng ta không phải đang ở trong vương quốc linh hồn sao?
 わ～！　みてみて～！=Ái chà! Nhìn những cái này kìa!

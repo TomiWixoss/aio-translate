@@ -8,8 +8,8 @@
 
 ##UB##
 超全力全開☆プリンセスストライク=Đòn Đánh Tối Thượng☆Công Chúa
-目の前の敵１キャラに物理特大ダメージを与える。ぺコリーヌのＨＰが高い程ダメージがアップ。残りＨＰが50%未満で自分に騎士の加護を付与する。騎士の加護付与時にＨＰが0になると、倒れずに加護を消費してＨＰを回復する。=
-r:"^敵単体に(\d+)の物理ダメージ騎士の加護付与中にＨＰが0になった場合、戦闘不能になる前に加護を消費してＨＰを(\d+)回復する$"=
+目の前の敵１キャラに物理特大ダメージを与える。ぺコリーヌのＨＰが高い程ダメージがアップ。残りＨＰが50%未満で自分に騎士の加護を付与する。騎士の加護付与時にＨＰが0になると、倒れずに加護を消費してＨＰを回復する。=Gây sát thương vật lý cực lớn lên kẻ địch phía trước. Sát thương vật lý càng cao khi HP của bản thân càng nhiều. Khi HP còn lại < 50%, tự kích hoạt Lời Chúc Hiệp Sĩ cho bản thân. Lời Chúc Hiệp Sĩ sẽ hồi sinh bản thân khi nhận sát thương lớn hơn HP còn lại.
+r:"^敵単体に(\d+)の物理ダメージ騎士の加護付与中にＨＰが0になった場合、戦闘不能になる前に加護を消費してＨＰを(\d+)回復する$"=►Gây $1 (+2.7×HP) sát thương vật lý lên kẻ địch.\n►Nếu HP của bản thân < 50%, tự tặng Lời Chúc Hiệp Sĩ, hồi phục $2 HP khi sắp chết trong 12s.
 
 ##S1##
 オニギリタイム=Thời Gian Onigiri

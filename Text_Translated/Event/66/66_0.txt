@@ -1,10 +1,10 @@
-学生たち=Học Sinh
+学生たち=Học sinh
 学生１=Học Sinh 1
 学生２=Học Sinh 2
 学生３=Học Sinh 3
 学園長=Hiệu Trưởng
 担任=Giáo Viên Chủ Nhiệm
-貴族=Quý Tộc
+貴族=Quý tộc
 セイシュンを求めて…！=Tìm Kiếm Tuổi Trẻ...!
 放課後の学生に密かに憧れるキャルの元へ、とある魔法学園から編入の案内状が届く。共に編入が許可された{playername}と、かわいい制服着たさにやってきたスズナと共に、キャルの学園生活が始まった。=Đối với Kyaru, người thầm ngưỡng mộ học sinh sau giờ học, một lời mời chuyển trường từ một học viện phép thuật nào đó đã đến. Cùng với {playername}, người cũng nhận được sự cho phép chuyển trường, và Suzuna, người đến trong bộ đồng phục dễ thương, cuộc sống học đường của Kyaru bắt đầu.
 夕刻のランドソル。\n依頼を終えたキャルと{playername}が帰り道を歩いていた。=Buổi chiều ở Landosol. Kyaru và {playername}, người đã hoàn thành một yêu cầu, đang đi bộ trên đường về.
@@ -33,7 +33,7 @@
 しかもあの娘、\n学業すらまともに修めていないという話じゃないですか！！=Và cô gái đó, chẳng phải người ta nói rằng cô ấy thậm chí còn không thể tham gia học tập đúng cách!?
 ……陛下、今一度お考えを！\n側近に置くのはあのような教養のない下賤の娘ではなく、\nもっと高貴な人間にこそ相応しい……そう、この私のような──=...Bệ Hạ, xin người hãy suy nghĩ lại! Thích hợp hơn là có một người quý tộc như tôi, thiếu bản lĩnh của cô gái đó, làm người hầu của người... giống như tôi──
 この大福お返しします。\n食べちゃった分はちゃんと買ってお返しを。=Đây là một chiếc daifuku cho cậu để đáp lễ.\nTôi sẽ mua một cái thay thế cho cái tôi đã ăn.
-な……！？=Gì...!?
+な……！？=Cái...!?
 学業だけで、一緒に活動してくれる人を選んでるわけじゃありません。\nそれに、キャルちゃんとわたしは友達以上の絆で結ばれています。\n何を言われようがわたしはキャルちゃんとずっと一緒です。=Tôi không chọn người chỉ dựa trên việc học của họ. Ngoài ra, Kyaru-chan và tôi chia sẻ một mối liên kết hơn cả tình bạn. Dù cậu nói gì, tôi sẽ luôn ở bên Kyaru-chan.
 大福をもらったって、変えられることじゃないですよ。\nだから、今日はもう帰ってくださ……あ！=Ngay cả khi cậu cho tôi một chiếc daifuku, nó cũng sẽ không thay đổi bất cứ điều gì.\nVì vậy, xin hãy về nhà ngay bây giờ... À!
 キャルちゃん……！\nどこから聞いてました！？=Kyaru-chan...!\nCô ấy nghe được bao xa!?
@@ -68,7 +68,7 @@
 編入のご案内！？！？！？！？！？=Lời mời chuyển trường!?!!?
 ようこそキャルさん。\nアンブローズ魔法学園へ！\n私はこの学園の学園長です。=Chào mừng, Kyaru-san.\nChào mừng đến Học viện Ma thuật Ambrose!\nTôi là hiệu trưởng của học viện này.
 キャルさんがうちに編入してくれてとってもうれしいわ♪\n……もちろん、{playername}君もね。\n陛下からキャルさんに同行する旨の書簡は受け取ってるわ。=Chúng tôi rất vui khi được chào đón cậu chuyển đến trường, Kyaru-chan♪...\nTất nhiên, cả {playername}-kun nữa. Chúng tôi đã nhận được thư từ Her Majesty nói rằng cậu sẽ đi cùng Kyaru-san.
-よろしくお願いします！=Rất vui được gặp!
+よろしくお願いします！=Rất vui được gặp cô!
 ……あの学園長さん。なんであたしに編入の案内を？=...Hiệu trưởng, tại sao người lại gửi cho tớ lời mời chuyển trường?
 ふふ、誤解を恐れずに言うと……話題性です。\n優秀で影響力の強い人材に編入していただき、\n広くこの学園をアピールしていただければと。=Fufu, nói thẳng ra thì... đó là để quảng bá. Nếu chúng tôi có một người tài năng và có ảnh hưởng chuyển đến trường, đó sẽ là quảng cáo tuyệt vời cho học viện chúng tôi.
 そこで真っ先に白羽の矢が立ったのがキャルさんです。\nあなたの魔法使いとしての実力は、\n遠く我々の耳にも轟いておりましたから♪=Và người đầu tiên chúng tôi nghĩ đến chính là cậu, Kyaru-san. Khả năng ma thuật của cậu đã đến tai chúng tôi từ xa♪
@@ -107,7 +107,7 @@
 ……あの、盛り上がってるところごめんなさい。\n手違いで昨年の学園案内を送ってしまったみたいね……\n実は今年から、その制服は廃止して、服装は自由になったのよ。=...Ưm, xin lỗi vì đã ngắt lời sự hào hứng của các cậu. Có vẻ như mình đã vô tình gửi nhầm sổ tay trường năm ngoái... Thực ra, bắt đầu từ năm nay, chúng tôi đã ngừng sử dụng những đồng phục đó và áp dụng quy định tự do về trang phục.
 えええ～～～！！？\nじゃあこの制服はもう着れない的な～！？\nそんな～～……=Gì cơ!? Vậy là cậu không thể mặc đồng phục này nữa?! Thật là...
 服装自由なら、別に制服でも構わんでしょう学園長？=Nếu quy định trang phục là tự do, thì đồng phục hay không cũng không quan trọng, đúng không, Hiệu trưởng?
-……誰よあんた？=...Cậu là ai?
+……誰よあんた？=...Bạn là ai?
 おう。私はお前らのクラスの担任・サカモトだ！\nよろしくな！=Ừ, mình là giáo viên lớp các cậu, Sakamoto! Rất vui được gặp các cậu!
 センセーヨロ～\n……はあ、制服。=Sensei, rất vui được gặp... À, đồng phục.
 ……ちょっと待ちなさいよ。ここ魔法学園よね？\nってことはあんた魔法教えなきゃいけない人よね？=...Khoan đã. Đây là học viện ma thuật, đúng không? Vậy, cậu là người phải dạy ma thuật, đúng không?
@@ -132,7 +132,7 @@
 ケホ……うん、うちは平気……=*ho*.. Ừ, mình ổn ...
 ってか別に痛くなくない？=Có phải là cậu không bị thương chút nào?
 わぁ……ヤバい♪=Ồ... Tuyệt vời♪
-……なによ？=……Gì cơ?
+……なによ？=……Cái gì?
 これ……=Cái này……
 きゃは♪　チョー着たかったもにカワ制服！=Kyaha♪ Mình thực sự muốn mặc một bộ đồng phục dễ thương!
 キャルっちもヒデサイも似合いすぎでわろ～♪=Kyaru-chi và Hidesai trông cũng rất hợp nhau♪

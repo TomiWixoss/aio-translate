@@ -52,7 +52,7 @@ Chapter 1
 どうだい、お嬢ちゃん。\n買うんだったら安くしとくぜ？=Sao, cô gái trẻ? Nếu cô định mua nó, tôi cũng sẽ cho cô một mức giảm giá.
 …………\nか──=............Hm~~
 買ったぁーーーーっ！！=TÔI SẼ MUA NÓ...!!
-まいどありぃーーーーっ！！=Cảm ơn rất nhiều!!
+まいどありぃーーーーっ！！="Cảm ơn các bạn rất nhiều!!"
 さあさあ、遠慮しないで！\nほら、試しにつけてごらん？=Nào, đừng ngại! Đây, thử nó lên xem
 ええっ？\nわ、私にはかわいすぎないかな……=Hả? C-Có phải quá dễ thương cho tôi không...?
 大丈夫！　よく似合うこと間違いなしさ！\nそれにこのネズ耳はただのオシャレアイテムじゃないんだ。\nとっても霊験あらたかな縁起物中の縁起物なのさ♪=Đừng lo! Chắc chắn chúng sẽ hợp với cô! Hơn nữa, đôi tai chuột này không chỉ là món đồ trang trí. Chúng là một vật may mắn trong số tất cả các vật may mắn mang lại những phép màu tuyệt vời♪
@@ -139,7 +139,7 @@ Cutscene
 
 New Titlecards
 陰鬱な少女=Cô Gái Buồn Bã
-露店の店主=Người Bán Hàng Trong Chợ Đêm
+露店の店主=Người bán hàng rong
 
 Chapter 2
 フリーマーケットで{playername}とジータは、飛空艇の在り処が書かれていると\n思しき宝の地図を手に入れる。さらに二人は、トーゴクからやってきたと\nいう陽気な少女、ビカラと出会うのだった。=Trong chợ đêm, {playername} và Jeeta đã có được một bản đồ kho báu dường như có ghi vị trí của chiếc khinh khí cầu. Hơn nữa, hai người họ cũng gặp Vikala, cô gái vui tươi được cho là đến từ Togoku.
@@ -173,7 +173,7 @@ Chapter 2
 今のは……鳥、ですよね？\n人の方に向かって飛んでくるなんて……\n珍しいですね。=Đó là... một con chim, đúng không? Hiếm khi nó lao thẳng về phía người như vậy.
 …………ぁ……\nあ、あ……\nあああああ…………！=...À... à, à... àaaaa...!
 ビカラさん……？\nどうされました？\nもしかして怪我でも……=Vikala...? Có chuyện gì vậy? Cô có bị thương không...?
-ないんです………=Chúng không có ở đây...
+ないんです………=Họ không có ở đây...
 ネ、ネネ、ネズ耳が……！=C-C-Cái tai chuột... tai chuột của tôi...!
 あたしのネズ耳が……\nないんですぅ～……！=Cái tai chuột của tôi... không có ở đây...!
 ……ということがあったんです。=...Đó là chuyện đã xảy ra.
@@ -225,7 +225,7 @@ Chapter 2
 今回の件は、信頼のおける方にしか頼めないんです。\n正式な依頼ではありませんし、それに……\n少しお伝えしにくいのですが、報酬もありませんので。=Tôi chỉ có thể nhờ những người tôi tin tưởng xử lý vụ này. Đây không phải yêu cầu chính thức, và... điều này có thể sẽ hơi thất vọng khi nghe, nhưng không có phần thưởng nào.
 ビカラさんはアストライア大陸にいらっしゃったばかりです。\n今ギルド管理協会に依頼を出しては、これからの活動に影響する\n可能性もありますから……=Vikala vừa mới đến lục địa Astraea. Nếu giờ cô ấy nộp đơn yêu cầu cho Hiệp hội Quản lý Guild, điều đó có thể ảnh hưởng đến các hoạt động tương lai của cô ấy...
 き、来たばっかりで、こんなスキャンダルがバレたら……\n鼠神宮のご利益も信じてもらえません……\nああ……鬱さが押し寄せてくる……！=T-Tôi mới vừa đến thôi, và nếu họ biết về vụ bê bối này... họ sẽ không tin vào vận may tốt lành của Đền Chuột... À... Tôi lại trầm cảm rồi...!
-一緒にがんばろうね。=Cố gắng cùng nhau thôi.
+一緒にがんばろうね。=Cùng cố gắng nhé.
 そういうことなら大丈夫だよ！\n事情も分かったし、報酬もいらないから！\nね？　{playername}！=Vậy thì được rồi! Chúng ta đã biết rõ tình hình rồi, và chúng ta không cần phần thưởng của cô! Đúng không, {playername}?!
 ないの？=Thật ư?
 ジータ・カリン=Djeeta Karin
@@ -283,7 +283,7 @@ Chapter 3
 えっと……\nあ、ここです……\nこの森の辺りに、ネズ耳の気配が……=Ơ... À, đây rồi... Có dấu hiệu của tai chuột gần khu rừng này...
 どれどれ？\nえっと、森の名前は……叡智の森、だね。=Để xem... Tên của khu rừng là... Rừng Trí Tuệ.
 ……叡智の森？=...Rừng Trí Tuệ?
-なるほど……\nやはり、そうでしたか。=Ra vậy... Thì ra là thế.
+なるほど……\nやはり、そうでしたか。=Ra vậy... Vậy là như thế.
 ちょ、ちょっと待ってください！\nもしかしたら私、その森の地図を持ってるかもしれません！\nちょっと古いものなんですけど……=K-Khoan đã! Tôi có thể có bản đồ của khu rừng đó! Tuy nhiên nó hơi cũ...
 はい、これです！\n同じ名前の森ですよね？=Vâng, đúng rồi! Đây là cùng một khu rừng khi nhìn vào tên ở đây, phải không?
 確かに……同じ場所のようですね。\nジータさん、どちらで手に入れたんですか？=Anh nói đúng... Có vẻ như nó đang đề cập đến cùng một địa điểm chính xác. Chị lấy bản đồ này ở đâu vậy, Djeeta?
@@ -320,7 +320,7 @@ Chapter 3
 もう、ビカラさんったら……\nあはは。=Thôi nào, Vikala... A ha ha.
 あ、あは、あははは……=A-Ha, a ha ha ha...
 {playername}っ！？\nもう！　言わないようにしてたのにっ！={playername}?! Thôi nào! Tôi đang cố gắng không nói ra!
-あははは……=A ha ha ha...
+あははは……=Ahahaha...
 ランドソルを出発してから数時間後──\nジータたちは馬車を降りて休憩をとっていた。=Vài giờ sau khi họ rời Landosol, Djeeta và những người khác rời xe để nghỉ ngơi.
 う～ん……ふう。\nランドソルから、もう随分と離れましたね。\nこの調子で行けば、今夜は野宿せずにすみそうです。=Hmm... *thở dài* Chúng ta đã khá xa Landosol rồi. Nếu tiếp tục như thế này, tối nay chúng ta sẽ không phải dựng trại.
 お疲れさまでした、カリンさん。\n次は私が御者になりますね！=Cảm ơn vì đã làm việc vất vả, cô Karin. Tôi sẽ là người dẫn đầu xe tiếp theo!
@@ -421,7 +421,7 @@ Chapter 4
 もしかしたら、あれが錬金術師が住んでたっていう館なのかな。\n普通の館っていうには、ちょっと怪しすぎるし……=Có lẽ đó là biệt thự nơi nhà giả kim thuộc về? Nó hơi đáng ngờ để là một biệt thự bình thường...
 じゃ、じゃあ、やっぱり……\n錬金術師さんが生きてて……\nその人がネズ耳を……？=V-Vậy thì, rốt cuộc... nhà giả kim đó vẫn còn sống... và có đôi tai chuột của tớ...?
 ……どちらにしても、入ってみるしかないようですね。\nみなさん、行きましょう。=...Dù sao đi nữa, dường như chúng ta không còn lựa chọn nào khác ngoài việc vào trong. Mọi người, đi thôi.
-お邪魔しま～す……=Xin lỗi vì đột ngột vào...
+お邪魔しま～す……=Xin phép xông vào...
 ……見たところ、廃墟というわけではありませんね。\n幽霊が住んでいるにしては生活感がありすぎます。=...Nhìn thì có vẻ không giống một di tích. Rõ ràng có dấu hiệu sự sống xung quanh để một con ma sống ở đây.
 ど、どど、どうしますか……？=P-P-P phải làm gì đây...?
 本来であれば、館の住人に目的などを問いただしたいところですが……\n状況が状況です。すぐにネズ耳を捜してしまいましょう。=Trong hoàn cảnh bình thường, tớ muốn hỏi cư dân của biệt thự mục đích của họ là gì, nhưng... Tình hình khẩn cấp. Hãy tìm đôi tai chuột ngay.
@@ -430,7 +430,7 @@ Chapter 4
 気にしない気にしない！\nその代わり、今度は私の宝探しを手伝ってくれるとうれしいな。\nトラップとこの館のおかげで、地図の信ぴょう性が出てきたし！=Đừng lo, đừng lo! Đổi lại, tớ hy vọng lần sau cậu sẽ giúp tớ tìm kho báu tớ đang tìm. Nhờ những bẫy chúng ta tìm thấy và biệt thự này, tớ đã có thêm niềm tin vào bản đồ này!
 ジータさん……！\nあ、はは、はぃ──=Djeeta...! À, haha, *đụng*...
 ──おや、お客さまでしょうか。=...Ồ, tôi có khách sao?
-いひぃいいいっ！？=Eeeeeek!?
+いひぃいいいっ！？=Aaaaaa!?
 高い所から失礼。\n私の館へ、ようこそいらっしゃいました。=Xin lỗi vì xuất hiện từ trên cao. Chào mừng đến với lâu đài của tôi.
 見つかった……！=Chúng ta bị phát hiện rồi!
 はて……私の記憶に間違いがなければ、\nお客さまをお招きする予定はなかったと思うのですが……\n道にでも迷われましたか？=Hừm... Nếu trí nhớ tôi không lầm, tôi nghĩ là mình chưa từng mời ai cả... Các người có lẽ lạc đường rồi chăng?
@@ -464,7 +464,7 @@ Chapter 4
 どうしたの、ドーちゃん……\nひっ？=Sao vậy, Do-chan... Eek?
 驚かせてしまったようですね。\nご安心ください。そこに並んでいる鎧はただの飾りですよ。=Có vẻ thứ đó đã làm cô sợ. Đừng lo. Bộ áo giáp được xếp ở kia chỉ là đồ trang trí.
 あ……\nドーちゃん、そういうこと……？\nこの壁の向こうに……=Ồ... Do-chan, có phải đây là nơi cô đang dẫn tôi...? Qua bức tường này...
-あの、えっと──=Ơ, ừm...
+あの、えっと──=Ừm, ừm...
 ──ふむ。隠し扉の存在に気がつきましたか。\nなかなか侮れませんね……\n神通力というものは。=...Hừm. Vậy là các người đã chú ý đến sự tồn tại của cánh cửa ẩn. Tôi không thể coi thường khả năng đặc biệt đó chút nào...
 その発言……\n今回の件に関係しているという意味で受け取ってもよろしいですか？=Lời bình luận vừa rồi... Tôi hiểu rằng thực ra các người liên quan đến lý do chúng tôi ở đây rồi phải không?
 お好きなように受け取ってくださって結構ですよ……\nギルド管理協会のカリンさん。=Cứ tự nhiên hiểu theo cách các người muốn, Karin của Hiệp hội Quản lý Guild.
@@ -578,7 +578,7 @@ Chapter 5
 ええ、本当に。\nおかげで万全な状態で、ビカラさんの実力を確認できます。\n戦士たちの一部を地下に向かわせましょう。=Vâng, thật sự vậy. Nhờ sự phát triển này, tôi sẽ có thể xác nhận khả năng của Vikala trong điều kiện nguyên vẹn và hoàn hảo nhất. Đã đến lúc gửi một số chiến binh xuống tầng hầm cho mục đích đó.
 さて、それではこちらも決着をつけてしまいましょうか。\nもちろん会話を切り上げるという意味ではありませんよ。悪しからず。=Vậy thì, hãy giải quyết xong chuyện ở phía này nữa. Tất nhiên, tôi không định kết thúc cuộc trò chuyện một cách đột ngột như vậy. Tôi xin lỗi vì sự thiếu lịch sự của mình.
 それは……\n困りましたね。=Điều đó... sẽ là vấn đề.
-一方その頃──=Trong khi đó...
+一方その頃──=Trong lúc đó...
 ラッキー！=May mắn quá!
 クッキー！=Bánh quy!
 ビッキィ！！=Vickyyy!!
@@ -670,7 +670,7 @@ Chapter 6
 あっ……う、うん！\nえっと、飛空艇があるってことは……ここは地下じゃないのかな。\n天井に出入り口があるわけでもないみたいだし。=À... Ừ-Ừ! Àm, nếu có một chiếc khí cầu ở đây... Tôi đoán đây không phải là dưới lòng đất. Nó cũng không trông giống có cửa vào hay lối ra ở trần nhà.
 となると……\nああ、そこにある扉から出入りしていたのかな。\n飛空艇が出るにはちょうどいい大きさだ。よし、開けてみよう。=Trong trường hợp đó... À, tôi tự hỏi liệu họ có ra vào qua cánh cửa đó không. Nó vừa đủ lớn để một chiếc khí cầu có thể rời đi. Được rồi, mở nó thôi.
 じゃあ、開けるよー？\nせーのっ！=Vậy, chúng ta mở nó cùng nhau nhé...? Sẵn sàng chưa!
-ふんっ！=Hừ!
+ふんっ！=Hmph!
 ……空だね。=...Chỉ là bầu trời trong xanh.
 ……ああ、断崖絶壁だね。=...Ừ, và bên dưới chúng ta là một vách đá dựng đứng.
 一旦……閉じよっか。=Chúng ta hãy... đóng nó lại đã.
@@ -713,7 +713,7 @@ Chapter 6
 確かに古いけど、モーヴが手入れをしてたみたいだから大丈夫！\nきっと飛べるよ！=Chắc chắn nó cũ, nhưng Mauve rõ ràng đã chăm sóc nó, nên tôi chắc là ổn! Tôi chắc nó sẽ bay được!
 まあ、研究材料の一つだろうから手入れはしてるよね？\nただね、ここはもうちょっと慎重に……\nって、ああいつの間にか乗り込んじゃってるね！=À, có lẽ đây là một trong những vật liệu nghiên cứu của ông ấy, nên chắc chắn ông ấy đã chăm sóc nó, phải không? Chỉ là, bạn biết đấy, chúng ta nên khôn ngoan hơn là thử vận may và... Khoan, cô ấy đã lên rồi!
 ……ビカラちゃん！\nううん、ビッキィ！=...Vikala! Không, Vicky!
-な、なんだい？=Gì vậy?
+な、なんだい？=Sao- Sao vậy?
 飛空艇に乗って、私と握手！=Lên chiếc khinh khí cầu này và bắt tay tôi!
 ……ハハッ！\nジータ、それは握手じゃなくて引っ張り込むって言うんだよ？=...Haha! Djeeta, đó không phải là bắt tay thực sự, mà giống như cậu đang kéo tôi vào.
 きみと初めて会った日のぼくみたいにね。=Giống hệt như ngày tôi gặp hai cậu lần đầu.
@@ -746,7 +746,7 @@ Cutscene
 なんだか急に魔石の調子が……？=Có gì đó không ổn với viên đá ma thuật đột ngột...?
 ジ、ジジジータ！=D-Djeetaaaaa!
 プロペラ！　プロペラが止まってるよ！=Các cánh quạt! Các cánh quạt đã dừng lại!
-うわあああああああああああ=Waaaaahhhh!
+うわあああああああああああ=Oaaaaaahhhh!
 ぐぬぬ……！　だめ、もうよけ切れない……！=Grrr...! Không, chúng ta không thể tránh được lâu đài nữa rồi...!
 ごめん！　二人ともかがんで！=Xin lỗi! Hai người chuẩn bị đi!
 う、うげえぇ……=U-Ugh...
@@ -776,7 +776,7 @@ Chapter 7
 そして現在に至る……と。\nみんなの話をまとめると、モーヴはこの階にいたということになるね。\nしかし姿は見えない。となると……=Và đó là tình hình hiện tại. Tóm tắt câu chuyện của mọi người, Mauve đã ở tầng này. Nhưng tôi không thấy anh ta. Điều đó có nghĩa là...
 えええっ！？\nそ、そんなピンポイントに……！\nじゃじゃじゃあ、私……やっちゃった？=Eeehhhh?! Ở-Ở-Ở chính xác chỗ chúng ta hạ cánh...! Vậy... vậy tôi... đã giết hắn sao?
 ジータ、落ち着いて！\nそういうときには深呼吸だよ！\nはい、スー……ハー……スー……=Djeeta, bình tĩnh! Khi như vậy, bạn cần hít thở sâu! Như thế này, *hít vào*... *thở ra*... *hít vào*...
-ハァーーーーッ！？=Haaaaah!?
+ハァーーーーッ！？=Hả?!
 あ、ああ……\nま、またネズ耳が……\nせせせ、せっかく取り返したのにぃ……=A-Aaaahhh... T-Tai chuột của tôi lại bị lấy đi... V-V-Vừa mới lấy lại được...
 ふむ。\nやはり、ネズ耳がないとビカラさんは何もできないようですね。\n──我が愛鳥よ、こちらに来なさい。=Hmm. Rốt cuộc thì dường như Vikala không thể làm gì nếu không có tai chuột. ...Chú chim yêu quý của tôi, đến đây.
 この声は……モーヴ！=Giọng nói này... Mauve!
@@ -830,7 +830,7 @@ Chapter 7
 そ、それ、は…………=Đ-Đó là t-tôi.........
 ～～っ！=...!
 少年……忌々しい精神論者ですね。\nやはり、最初に取引をしようとした私の考えが正しかった──\n何ッ！？=Chàng trai trẻ... Bạn là một bác sĩ tâm lý đáng ghê sợ thật. Như mong đợi, tôi đã đúng khi quyết định giao dịch với bạn ngay từ đầu-... Cái gì!?
-……ッ。=...Ugh.
+……ッ。=...Ực.
 ド、ドーちゃんが鳥に……！=Đ-Do-chan đột nhiên bay lên...!
 噛みついた！？=Hắn cắn hắn?!
 ビカラちゃん、ネズ耳も鳥と一緒にあるよ！\nドーちゃんと合流して！=Vikala, đôi tai chuột ở trên con chim vừa bị hắn cắn! Gặp Do-chan đi!
@@ -942,7 +942,7 @@ Final Chapter
 ハハッ！　そうだったね！\nだったら大船に乗ったつもりでいさせてもらうよ！\nいや、ここは大船じゃなくて大型騎空艇かな？=Haha! Đúng vậy! Trong trường hợp đó, tôi sẽ coi nó như một con tàu lớn! Không, có lẽ một chiếc thuyền không phù hợp, thì sao nếu là một chiếc khinh khí cầu của người du hành trời, được chứ?
 あはは！\nそれなら私も乗り込んじゃおっと！=Ahaha! Trong trường hợp đó, tôi cũng sẽ tham gia!
 よーし！　じゃあ帰ろっか！\n私たちの街、私たちのゆ～とぴあ！\n私たちの──ランドソルへ！=Được rồi! Vậy chúng ta về nhà thôi! Đến thành phố của chúng ta, Yangtopia của chúng ta! Đến Landosol của chúng ta!
-おーっ！！=Ôiii!!
+おーっ！！=Ồhh!!
 一つの冒険を終え、更なる絆を深めた{playername}たち。\nそんな彼らの真上には、果てしなく蒼い空が広がっていた。\nどこまでも、どこまでも──={playername} và những người khác đã kết thúc cuộc phiêu lưu và củng cố mối quan hệ. Và ngay phía trên họ, một bầu trời xanh vô tận trải rộng. Xa tít tắp...
 
 Player Prompts

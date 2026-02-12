@@ -90,13 +90,13 @@
 ぎゅう？=Ục ục?
 悪いわね！　あんた走れる！？=Xin lỗi vì đã làm phiền! Cậu có thể chạy được không?!
 がんば。ギリー=Cố lên nhé, 'Giri.
-ぴぎゅーーー！！=Ục ục!!
+ぴぎゅーーー！！=Heo heo heo!!
 ま、待ってけれ……！=H-Hãy dừng lại ngay...!
 ご、ご、ごはんっ──=B-Bữa sáng của c-c-cậu~
 ぴっぎゅぎゅぎゅ～っ！！=Ục ục!!!!
 ふふんっ！　じゃ～ね～っ♪=Hehe! Hẹn gặp lại nhé~♪
 めんご=Xin lỗi
-ぅぅ……=Ực...
+ぅぅ……=Ugh...
 
 
 夢から覚めたキャルはユキノによってプレシア共々拘束され、馬車に乗せ\nられていることに気づく。キャルたちはユキノが二人のご飯を取りに行っ\nている間に脱出し、{playername}の元へ急ぐのだった。=Sau khi tỉnh giấc từ giấc mơ, Cal nhận ra rằng Yukino đã trói cô ấy và Precia cùng nhau, và họ đang ở trong một chiếc xe ngựa. Cal và những người khác đã trốn thoát khi Yukino đi lấy thức ăn, và họ vội vã đến bên {playername}.
@@ -221,7 +221,7 @@
 ルルィ=Lului
 もちろん、約束します。=Tất nhiên, đó là lời hứa
 ゾンビ化が、進んでしまう……=Sự zombie hóa của cô ấy sẽ tiến triển...
-……どうもありがとう。=...Cảm ơn các người rất nhiều.
+……どうもありがとう。=...Cảm ơn rất nhiều.
 ヴシュヴーズル=Vušvður
 ジオ・二ヴルヘル～廃村～=Gio Nivlhel ～Làng Bỏ Hoang～
 ソノの温泉アダルト㊙作戦=Chiến thuật Suối Nước Nóng Người Lớn của Sono
@@ -237,7 +237,7 @@
 ぎゃああああっ！！=TRỰC ẶC ẶC ẶC!!
 『──排除。──排除。──排除。──排除。\n──排除。排除。排除。排除。排除。排除。排除。\n排除排除排除排除排除排除排除排除排除排除排除排除排除排除排除──』="...Triệt tiêu. ...Triệt tiêu. ...Triệt tiêu. ...Triệt tiêu. \nTriệt tiêu. Triệt tiêu. Triệt tiêu. Triệt tiêu. Triệt tiêu. Triệt tiêu. Triệt tiêu. \nTriệt tiêuTriệt tiêuTriệt tiêuTriệt tiêuTriệt tiêu..."
 リリちゃん、リリちゃんっ……！=Riri-chan, Riri-chan...!
-……っ……\nはぁ、はぁ…………=...Hụ, hụ...
+……っ……\nはぁ、はぁ…………=...Hah, hah...
 ……ペコリーヌ、様……？\nっ……！=...Bà Pecorine... Hả?!
 腕が、縛られて……\nここは……=Tay tôi bị trói rồi... Đây là...
 サツキさんの、馬車の中ですよ。\nわたしたち、捕まっちゃったので……=Có vẻ như chúng ta đang trong xe ngựa của Satsuki-san. Hình như, chúng ta đã bị bắt...
@@ -420,7 +420,7 @@
 リマっ？\n（まひるちゃんと一緒に行動してもいいっ？）=Lima? (Mahiru-chan, tôi có thể đến sống với cậu được không?)
 ……ん？　なんだって？=...Hm? Cậu vừa nói gì?
 リマリマ──\n（だから、私もまひるちゃんと一緒に──）=Limarima~ (Ý tôi là, nếu là với cậu, Mahiru-chan, tôi chắc chắn...~)
-えーと……？=Ơ...
+えーと……？=Ừm...?
 ……あ、あれか？　あっちに見えてんのはな、動物園だべ。\n──ああ、そうか！\nおめぇ、動物園で保護してもらおうって、今、そう提案したべか？=...À, ra vậy? Cái cậu thấy ở kia là một sở thú--À, tôi hiểu rồi! Có phải cậu đề xuất rằng ở lại một sở thú như vậy sẽ bảo vệ được cậu không?
 リマ！？　リ、リマ──\n（え！？　そ、そうじゃなくて──）=Lima?! Lima~ (Hả?! T-Đó không phải ý tôi~)
 ……そうだな、世の中も不安定だし、またどんな目に遭うかわかんねぇ。\nその点、あそこは藤堂家の──秋乃さんの持ってる動物園だ。\n安心だし、安全だべ。うん、それがいい……そうすっぺ。=...Đúng rồi, thế giới bất ổn, và ai biết được chuyện gì sẽ xảy ra tiếp theo. Về điểm đó, nơi đó là sở thú thuộc sở hữu của gia tộc Toudou - của Akino-san. Nó an toàn và đáng tin cậy. Ừ, điều đó sẽ tốt... Đúng vậy.
@@ -532,5 +532,5 @@
 マッサージ師=Người massage
 中身が大人であることを隠して温泉施設を楽しむソノ。だが健康オタクが\nゆえにマッサージで野太いリアクションをしてしまい、ユカリとルカから\n中身は『おじさん』ではと、斜め上の疑いをかけられてしまう。=Sono giấu việc bên trong cô ấy là người lớn và tận hưởng các khu nghỉ dưỡng suối nước nóng. Nhưng vì cô ấy là một otaku khỏe mạnh, cô ấy phản ứng dữ dội với massage, và Yukari cùng Ruka nghi ngờ cô ấy là một "chú" bên ngoài.
 うおおぉぉー=Whoooooaaa!
-ぴ……ぎゅ……=*siết chặt*...
+ぴ……ぎゅ……=*ôm chặt*...
 やばい……わね……=Cái này... tệ rồi...

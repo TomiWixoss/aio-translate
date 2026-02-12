@@ -11,7 +11,7 @@
 
 
 ガチャの★3キャラ獲得時の演出設定=Hiển thị thanh tải xuống cho nhân vật ★3 từ Gacha
-★3キャラを獲得した際の演出設定です。\n※「リッチ版」を選択すると、再生前にデータダウンロードを行います。="Hoạt hình" sẽ hiển thị thanh tải dữ liệu trước khi phát nó.
+★3キャラを獲得した際の演出設定です。\n※「リッチ版」を選択すると、再生前にデータダウンロードを行います。="Animated" sẽ hiển thị thanh tải dữ liệu trước khi phát.
 ★3キャラを獲得した際の演出設定です。\\n\n※「リッチ版」を選択すると、再生前にデータダウンロードを行います。="Animated" sẽ hiển thị thanh tải dữ liệu trước khi phát.
 リッチ版=Animated
 

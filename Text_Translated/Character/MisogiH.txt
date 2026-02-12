@@ -9,7 +9,7 @@ r:"^敵全体に(\d+)の物理ダメージ$"=►Gây $1 sát thương vật lý 
 ##S1##
 ペインティングキック=Painting Kick
 目の前の敵１キャラを中心とした範囲内の敵すべてに物理中ダメージを与える。=Gây sát thương vật lý vừa phải lên kẻ địch trong phạm vi.
-r:"^範囲内の敵すべてに(\d+)の物理ダメージ$"=►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi.
+r:"^範囲内の敵すべてに(\d+)の物理ダメージ$"=►Deals $1 P.DMG to enemies in range.
 
 ##S2##
 びっくりパンプキン=Pumpkin Surprise

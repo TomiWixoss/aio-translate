@@ -206,7 +206,7 @@ Chapter 1
 サイズもぴったりですね。\n調整した甲斐がありました。=Kích cỡ cũng hoàn hảo. Thật đáng giá khi điều chỉnh cẩn thận.
 え、そうですか……じゃなくて！\nあの、クローチェさんは無事なんですか……！？=Hả? Thật sao... Khoan, không! Ơm, còn Croce-san thì sao? Cô ấy ổn chứ?
 その件についてだが……\n諸々の説明は省き、端的に言おう。=Về vấn đề đó... Tôi sẽ bỏ qua các giải thích và đi thẳng vào vấn đề.
-アオイ──クローチェに乗れ。=Aoi, lên Croce đi.
+アオイ──クローチェに乗れ。=Aoi, lên người Croce.
 …………はい？=............Xin lỗi?
 次回予告っ！=Xem trước tập tiếp theo!
 クローチェさんに呼ばれて\nジオ・テオゴニアにやってきた私は\n一緒にお出かけ中に巨大な魔物と鉢合わせて大ピンチ！=Tôi đến Gio Teogonia theo yêu cầu của Croce, và khi chúng tôi đi chơi cùng nhau thì gặp một con quái vật khổng lồ và rơi vào nguy hiểm lớn!
@@ -387,7 +387,7 @@ Chapter 3
 『魔物が……』=Quái vật...
 ポポじい、無事っ！？=Ông Popo, ông ổn chứ?!
 ……やれやれ。\n腰が抜けたわい……=...Thôi đời. Quá nhiều kích thích với tuổi tác của tôi rồi...
-よかったぁ……=May quá...
+よかったぁ……=Thật may mắn...
 もっと大きな魔物だったら危なかったわね。=Nếu là quái vật to hơn, chuyện sẽ nguy hiểm thật.
 『あ、あなたは……？』="V-Và ngươi là...?"
 ちょっと待ってて。先に貴方をそこから出すわ。\n機体に近づくけど、問題ないわよね？=Khoan đã. Tôi sẽ lấy người ra khỏi đó trước. Tôi định tiếp cận cỗ máy của cô. Được chứ?
@@ -503,7 +503,7 @@ Chapter 4
 今起きている異常の数々は、彼女が言う未来に関わっている？\n信用できる根拠はないとはいえ……\n国が危機に晒されている以上、わたしの取るべき行動は──=Liệu những bất thường khác nhau đang xảy ra hiện nay có liên quan đến tương lai mà cô ấy nói đến không? Mặc dù không có cơ sở để tin tưởng cô ấy... Vì cả đất nước đang gặp nguy hiểm, hành động tôi phải lúc này là--
 『……クライ、と仰いましたね。\nあなたの申し出、ありがたく受けさせていただきます。』="...Cry, tên cô là vậy. Ta sẽ vui lòng chấp nhận lời đề nghị của cô."
 『ということで、話は聞いてたわね？　二人とも。』="Vậy, hai người vừa nghe thấy cô ấy rồi đúng không?"
-はっ、はいっ。=T-Tất nhiên!
+はっ、はいっ。=V-Vâng!
 要は、クライさんの情報をもとにあの魔物……\n怪獣さん？　を倒しちゃえばいいんですよねっ！=Vấn đề là, chúng ta phải dùng thông tin mà Cry-san cho để tiêu diệt những quái vật đó... Kaiju-san?
 『ええ、これ以上被害が拡大しないよう、速やかに撃破しましょう。』="Vâng, hãy tiêu diệt chúng nhanh trước khi thiệt hại lan rộng thêm."
 『まず──ロボリマ型は近距離用のロボリマソードと\n中遠距離用の誘導弾を装備した、バランスのとれた機械獣よ。』="Trước tiên--Loại Robo-Lima là một con thú cơ khí cân bằng, được trang bị Kiếm Robo-Lima cho tầm gần và tên lửa dẫn đường cho tầm trung đến xa."
@@ -530,7 +530,7 @@ Chapter 4
 『ここは危険ですっ、早くパークの外に！』="Ở đây nguy hiểm! Mau ra khỏi công viên!"
 まだパークの中に他にも人が……=Trong công viên vẫn còn người khác...
 『皆の避難経路を確保しないと……\n二体とも、敵をなるべく人の居ない所──パーク奥地に押し込んで！』="Chúng ta cần mở đường thoát hiểm cho mọi người... Hai người, đẩy kẻ địch vào nơi ít người nhất - phần sâu bên trong công viên!"
-了解ですっ！=Rõ rồi!
+了解ですっ！=Hiểu rồi!
 敵機体、確認。\nおしゃべり機能による精神攻撃を実行。\n目標、クローチェ。=Xác nhận máy địch. Thực thi tấn công tinh thần bằng chức năng nói liên tục. Mục tiêu: Croce.
 オイオイオイオイ。\nただでさえスレスレなトンチキ機械人族が、巨大ロボはねーだろ。\n世界観の限度超えてんじゃね。=Ê, ê, ê! Có một con robot ngốc nghếch đã gần như ngốc rồi, huống chi là robot khổng lồ. Điều đó vượt quá giới hạn của thế giới này.
 えっ？　せ、世界観……ですかっ？=Hả? T-Thế giới này...?
@@ -631,7 +631,7 @@ Player Prompts
 リンドちゃんから、急いで来てって。=Lind thực sự kiên quyết bảo tôi phải vội đến đây
 
 New Titlecards
-来園者たち=Khách mời
+来園者たち=Khách Mời
 ホウオウらしき声=Một Giọng Nói Giống Như Ho-oh
 なかよしＸ？=Nakayoshi X?
 
@@ -851,7 +851,7 @@ Chapter 6
 別に犠牲にはなってないと思いますよ。=Tôi không nghĩ rằng có bất kỳ sự hy sinh nào thực sự liên quan.
 ……へ？\nヴルムさん？=...Hả? Wyrm-san?
 ……避難勧告が間に合ってよかったわ。=...Tôi mừng là thông báo sơ tán đã đến kịp thời.
-どういうことですか？=Cậu muốn nói gì vậy?
+どういうことですか？=Ý cô là sao?
 毎度毎度、よく壊される街ですね本当にっ！\nこんな事ならもっと辺境に屋敷を構えておくべきでしたっ……！=Thị trấn này thực sự bị phá hủy mỗi tháng một lần! Nếu sống ở đây là như vậy, tôi đáng lẽ nên xây biệt thự của mình xa hơn ở vùng ngoại ô...!
 ええ！　自慢のドレスが埃で汚れてしまいましたわ！\nどう責任を取ってくださいますの！？=Đúng vậy! Chiếc váy quý giá của tôi đã bị bụi bẩn làm ô uế! Cậu sẽ chịu trách nhiệm như thế nào cho việc này?!
 おい、この報告……間違ってないのか？\nこれだけの被害にも関わらず、死者ゼロとは……=Này, báo cáo này... Cậu chắc chắn nó không sai chứ? Bất chấp mọi thiệt hại, lại không có thương vong nào...
@@ -914,12 +914,12 @@ Cutscene
 すごいパワーですっ……！=Sức mạnh đáng sợ như vậy...!
 アオイさん=Aoi-san
 アオイさんっ……！=Aoi-san!
-はぁっ……はぁっ……=Haah... haah...
-師匠……=Chủ nhân...
+はぁっ……はぁっ……=Haa... haa...
+師匠……=Master...
 （やっぱり、私じゃ……）=(Tôi biết rồi. Nếu chỉ là tôi...)
 ……イさ……アオイさん……！=Aoi-san... Aoi-san...!
 （──だけどっ！）=(Tuy nhiên...!)
-ああ！！=Aaah!!
+ああ！！=Aaaah!!
 はいっ！　わたしたち、二人ならっ！=Đúng! Nếu là hai chúng ta cùng nhau!
 ダメダメぼっちな私でも！=Ngay cả khi tôi là một kẻ cô độc vô dụng!
 ともだっ……=Với bạn bè của tôi-...
@@ -930,7 +930,7 @@ Cutscene
 ナイトさんっ！♪=Knight-san♪
 はあああぁぁぁぁっ！=AAAAHHHHHHHH!
 すごいっ！　三人分の友情パワーですっ！=Tuyệt vời! Đó là sức mạnh tình bạn của ba người!
-これならっ！=Với cái này...!
+これならっ！=Với thứ này...!
 どっせーーーーい！=Tuyệt vời!
 いっけええぇぇぇーーっ！=GOOOOOOOOOOO!
 あああああああっ！=AAAAAAHHHHHHHHH!
@@ -945,7 +945,7 @@ Finale
 騎士やクローチェたちからは……まだ、連絡はないのですか？=Về {playername}, Croce và những người khác... vẫn chưa có dấu hiệu liên lạc nào?
 みたいですね。\nもし戻って来るなら、今日は凱旋パーティーだったと思いますし。=Có vẻ như vậy. Nếu họ định quay lại hôm nay, tôi nghĩ họ đã chuẩn bị một bữa tiệc chiến thắng.
 ならば、修理したギガンティックローチェを送った時の通信が最後か。\n万全のコンディションで送り届けたはいいものの……\n向こうの世界の状況までは分からんからのう。=Nếu vậy thì lần truyền tín cuối cùng chúng ta nhận được là khi chúng ta gửi Gigantic Croce đã được sửa chữa. May là nó được gửi đi trong tình trạng hoàn hảo, nhưng... Chúng ta không biết tình hình ở thế giới kia ra sao.
-みなさん、無事だといいんですけど……=Mong là mọi người vẫn ổn...
+みなさん、無事だといいんですけど……=Tôi hy vọng mọi người đều ổn...
 ……出立の時、約束したのです。\n必ず、全員でこちらの世界に帰ってくるように、と。=...Khi họ rời đi, họ đã đưa ra một lời hứa với tôi. Đảm bảo rằng tất cả bọn họ sẽ cùng nhau trở về thế giới này.
 ……だから、早く帰ってきなさい。騎士……\nそれにクローチェ、わたしのシュヴァリエ……=...Vì vậy, hãy nhanh lên và trở về. {playername}... và cả Croce, Chevalier của ta...
 いやー！　今日も勝てましたっ！\nみなさんにもお見せしたかったですね～！\nエアリアルなクローチェさんの大火力な空中殺法をっ！=Ồ! Có vẻ hôm nay chúng ta lại thắng rồi! Tôi muốn khoe với mọi người! Sức mạnh hỏa lực thực sự của Aerial Croce mạnh đến mức nào!

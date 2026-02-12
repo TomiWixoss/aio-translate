@@ -35,7 +35,7 @@ Like情報=Thông tin thích
 ルピが不足しています。=Rupie không đủ.
 プレイヤーLvが不足しています。=Cấp người chơi không đủ.
 
-設置=Đặt
+設置=Địa điểm
 売却不可=Không thể bán
 設置済み=Đã\ndặt
 設置中売却不可=Không thể bán\nKhi đã đặt
@@ -64,7 +64,7 @@ Likeする=Thích!
 ギフトアイテムを贈るキャラをタップしてください=Chạm vào nhân vật bạn muốn tặng quà.
 以下のギフトアイテムを贈ります。よろしいですか？=Gửi món quà sau đây?
 ギフト消費後の絆ランク=Cấp độ kết nối sau khi tặng quà
-消費ギフト=Tiêu hao
+消費ギフト=Tiêu Dùng
 贈る=Tặng
 すべて=tất cả
 演出を全てスキップ=Bỏ qua tất cả cảnh cắt bond rank
@@ -158,7 +158,7 @@ Like済み=THÍCH
 Like人数=Được thích bởi
 訪問者にLikeされました。=Một người truy cập đã thích Nhà bang hội của bạn
 
-Like報酬=Phần thưởng
+Like報酬=Phần Thưởng
 Like日時=Ngày
 [FFBB00,CE4F00]5ルピ獲得[-]=[FFBB00,CE4F00]Kiếm 5 Rupies[-]
 クランメンバーがいません。=Không có thành viên bang hội.
@@ -167,8 +167,8 @@ Like日時=Ngày
 ---upgrade notification---
 r:"^プレイヤーLv(\d+)以上 / ([0-9,]+)ルピ$"=Lv người chơi $1 trở lên & $2 Rupies
 
-ルピ=Rupies
-消費ルピ=Sử dụng
+ルピ=Rupie
+消費ルピ=Sử Dụng
 Lvアップ条件=Tăng cấp tiếp theo
 Lvアップする=Tăng cấp
 Lvアップ確認=Xác nhận tăng cấp

@@ -342,7 +342,7 @@ Chapter 3
 えっと……君たちもカブトムシを捕まえに来たんだよね？\nこの先はそれじゃすまないレベルで危ないんだけど……=Ơ... Mọi người cũng đến đây để bắt bọ, phải không? Đi xa hơn điểm đó rất nguy hiểm...
 マジですか……りょ、了解であります！=Thật sao...? R-Roger that!
 邪魔だよ！=Cô đang cản đường!
-消えなさい。=Biến đi.
+消えなさい。=Biến mất.
 まったく……\n私が狙っているのはこのような小物ではないというのに……=Thật sự... tôi không theo đuổi thứ nhỏ bé như thế này...
 これより強いカブトムシを捕まえられれば弟くんは無敵だよね！=Nếu chúng ta bắt được con bọ mạnh hơn thế này, em trai tôi sẽ bất khả chiến bại!
 もう一回確認なんだけど……\nカブトムシを捕まえようとしてるんだよね？=Chỉ để xác nhận lần nữa... Các cô đến đây để bắt bọ, đúng không?
@@ -456,7 +456,7 @@ Chapter 4
 作り物とはいえあなた様に穴をあけることなどできなかったので、\nあなた様の前に貨幣を置き、奉納する形式となります。=Em không nỡ đục một lỗ trên cậu, ngay cả ở dạng mô hình... Vì vậy, thay vào đó, những đồng xu sẽ được bỏ ngay trước cậu -- như một lễ cúng khiêm nhường.
 そんなことないよ！\n確かに箱じゃないけど、お金は貯まるよ！=Không phải vậy! Đúng là nó không phải "hộp", nhưng cậu vẫn có thể tiết kiệm tiền với nó!
 えぇ、貯めるだけで使うことができなくなってしまいますが、\nそれ以上のご利益があるはずですわ。=Đúng vậy, cậu sẽ thề sẽ tiết kiệm số tiền đó và không dùng nó, và nghĩ đến những lợi ích bổ sung...
-そんな！？=Không thể nào...!
+そんな！？=Điều đó không thể...!
 弟くん！？=EM TRAI?!
 賑やかで楽しい夏休みが続いたある日。\n{playername}はエリコとシズルに呼び出されていた。=Một ngày trong kỳ nghỉ hè vui vẻ và sôi động, {playername} đã được Eriko và Shizuru gọi.
 お待ちしておりました。=Chúng tôi đã chờ cậu mãi rồi.
@@ -559,7 +559,7 @@ Chapter 4
 そう？　で、でもアタシは……=Thật sao? N-Nhưng tớ...
 た～まや～！　あら、本当に楽しいわね。\nほら、ミサキちゃんも一緒にやってみましょう。=TÁ-MÁ-YAAH! Ôi trời, cái này thật sự vui. Thôi nào, Misaki-chan, thử cùng tớ đi.
 しょうがないわね……イオちゃんが言うなら、付き合ってあげるわ。=Không còn cách nào... Nếu Io-chan nói vậy, tớ sẽ đi cùng.
-た～まや～=TÁ-MÁ-YAAH~
+た～まや～=TÁA-MA-YAAH~
 エリコちゃん？　ボーっとしてどうしたの？=Eriko-chan? Cậu đang ngẩn người ra vì sao vậy?
 い、いえ。\nただ花火を楽しむ{playername}様に\n見惚れていただけですわ。=K-Không. Tớ chỉ bị cuốn hút bởi cảnh tượng {playername} yêu quý của tớ đang tận hưởng pháo hoa.
 ……？　そう？=...? Vậy sao?
@@ -601,7 +601,7 @@ Chapter 5
 今日は弟くんに、=Hôm nay, vì em trai của tớ...
 サプライズをお届けしますわ。=Chúng tớ đã có một điều bất ngờ sẵn sàng.
 さぁ、エリコちゃん！\nあとは打ち合わせ通りに！=Lên nào, Eriko-chan! Làm theo kế hoạch chúng ta đã lập như thế nào!
-えぇ！=Vâng!
+えぇ！=Dạ!
 あなた様は私たちに身を任せてくだされば大丈夫ですわ……=Người yêu dấu của tớ, cậu sẽ ổn thôi miễn là giao phó bản thân cho chúng tớ...
 楽しみにしててね！=Cậu sẽ thích món này mà!
 その後も{playername}は目隠しをされたまま\nエリコとシズルに運ばれ──=Sau đó, {playername} được Eriko và Shizuru dắt đi, vẫn còn bị bịt mắt...
@@ -667,7 +667,7 @@ Chapter 5
 今日は無人島に来ました。\nみんなでおうちを作り始めました。\n誰もいない島の夜は──=Hôm nay chúng ta đến một hòn đảo hoang. Chúng ta đều bắt đầu xây nhà. Trong đêm trên hòn đảo hoang này...
 
 Player Prompts
-何も見えないよ？=Tôi không thấy gì cả...
+何も見えないよ？=Em không thể nhìn thấy gì cả...
 ここは、どこ……？=Chúng ta đang ở đâu...?
 急がないと。=Phải nhanh lên.
 すぐに冷やさないと臭くなるんだ。=Nếu anh không làm nó nhanh chóng, nó sẽ bắt đầu có mùi
@@ -766,12 +766,12 @@ Player Prompts
 二人の番だよ。=Đến lượt cậu
 はい、あ～ん。=Ừ! Nói "Aaaa" đi
 みんなも一緒だったらもっと楽しいよね。=Nếu mọi người ở cùng chúng ta, sẽ vui hơn nhiều
-な、なに！？=S-Sao cơ?!
+な、なに！？=C-Cái gì?!
 家で寝てたはずじゃ……？=Tớ không phải đang ngủ trong nhà mình sao...?
 なにをしてるの……？=Các cậu đang làm gì vậy...?
 いかだ？=Một chiếc bè?
 とう、ちゃく……？=Chúng ta đã đến nơi...?
-忘れてた……=Tớ quên mất...
+忘れてた……=Em quên rồi...
 
 Cutscene
 エリコちゃんも眠れないの？=Cũng không ngủ được sao, Eriko-chan?
@@ -894,7 +894,7 @@ Finale
 えっと、それじゃあただいまより宿題お疲れさまと……=À, vậy thì... trước tiên, xin cảm ơn mọi người vì đã cố gắng hết sức với bài tập về nhà...
 【王宮騎士団（NIGHTMARE）】の皆さまごめんなさいを兼ねた\nバーベキューパーティーを開催したいと思います。=...và để xin lỗi chân thành đến các Hiệp sĩ Hoàng gia của NIGHTMARE, chúng tôi tổ chức bữa tiệc nướng này!
 それでは……=Vậy thì...
-かんぱ～い！=Một ly!
+かんぱ～い！=Cạn ly!
 エリコに呼ばれるまま来て乾杯までしてしまったが、\nそもそもこの集まりはなんなのだ？\n宿題お疲れさま？　ごめんなさい？=Tớ chỉ đến vì Eriko gọi, giờ lại đang nâng ly... nhưng sự kiện này là về cái gì vậy? "Làm bài tập tốt"? "Tiệc xin lỗi"?
 事情を知ってるアタシたちのほうがよくわからないわよ。\nなんであんなことやらかして……=Ngay cả bọn tôi, những người biết chuyện đã xảy ra, cũng không hiểu lắm. Tại sao hai người lại đi xa đến thế...?
 え？　ひょっとしてエリコ様またなんかやっちゃいました？=Ơ...? C-Chẳng lẽ, Lady Eriko lại làm chuyện gì chưa tốt rồi sao?

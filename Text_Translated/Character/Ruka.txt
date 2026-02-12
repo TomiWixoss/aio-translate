@@ -30,7 +30,7 @@ r:"^自分のＨＰを(\d+)回復自分の物理防御力を(\d+)アップ$"=►
 明鏡止水の境地=True Enlightenment
 明鏡止水の境地+=True Enlightenment+
 バトル開始時に自分の魔法防御力を大アップさせる。=Tăng phòng thủ ma thuật lớn cho bản thân khi bắt đầu trận đấu.
-r:"^自分の魔法防御力を(\d+)アップ$"=►Tăng phòng thủ ma thuật của bản thân lên $1.
+r:"^自分の魔法防御力を(\d+)アップ$"=►Tăng M.DEF của bản thân bằng $1.
 
 ##UB+##
 極の太刀・止水龍吟の哮り=Ultimate Strike: Water Dragon Roar

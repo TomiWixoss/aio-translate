@@ -13,10 +13,10 @@
 勝利を君に=A Victory For You
 休みたいのに休めない！=I Can't Help It, I Can't Rest!
 しっぽは反則？=Is The Tail Off-Limits?
-ストレイキャットガール=The Stray Cat Girl
+ストレイキャットガール=Cô Gái Mèo Lang Thang
 願いは笑顔のために=An Earnest Wish for Happiness
-誓いのゆびきり=A Promise Worth Keeping
-困った時はお互いさまさま=I Scratch Your Back, You Scratch Mine
+誓いのゆびきり=Một Lời Hứa Đáng Giá Để Giữ
+困った時はお互いさまさま=Mình Gãi Lưng Cho Bạn, Bạn Gãi Lưng Cho Mình
 
 ##UB##
 ヒヨリラッシュ=Hiyori Rush
@@ -25,7 +25,7 @@ r:"^敵単体に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理ダメ
 
 ##S1##
 キャットストライク=Kitty Kapow
-目の前の敵１キャラに物理中ダメー\nジを与える。=Gây sát thương vật lý vừa phải cho kẻ địch đứng trước mặt.
+目の前の敵１キャラに物理中ダメー\nジを与える。=Gây sát thương V.ATK vừa phải lên kẻ địch ngay phía trước.
 ## r:"^敵単体に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理ダメージ$"=Giá trị này bị bỏ qua vì nó giống với UB. Thời gian niệm chú không thể bao gồm.
 
 ##S2##

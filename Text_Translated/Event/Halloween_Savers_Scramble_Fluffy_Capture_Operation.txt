@@ -158,7 +158,7 @@
 妖魔たちに関する研究が進んだら、\n霊界とのゲートを開ける方法を確立し、送り返すつもりではいる。\nずっとかくまっておくには、ここは手狭だから……=Một khi nghiên cứu về Linh Hồn tiến triển, chúng tôi dự định xây dựng phương pháp mở cổng đến thế giới linh hồn và gửi chúng trở về. Tuy nhiên, ở ẩn ở đây quá lâu sẽ chật chội...
 なら、私も博士の研究を手伝うさー！\nわたあめちゃんのために、なにかしてあげたいさー！=Nếu vậy, thì tôi cũng sẽ giúp nghiên cứu của bác sĩ! \nTôi muốn làm gì đó cho Kẹo Bông-chan!
 それに、研究が早く終われば、\n{playername}もハロウィンを楽しめるでしょ〜？=Và, nếu nghiên cứu kết thúc sớm,\n{playername} cũng có thể tận hưởng Halloween, đúng không~?
-任せてください！=Giao cho tôi!
+任せてください！=Để tôi!
 ハロウィンは一緒に遊ぼうと思ってたから、\n早く済むに越したことはないさ～！=Vì tôi đang nghĩ đến việc chơi cùng nhau trong Halloween,\nnên tốt nhất là hoàn thành nhanh~! \n
 なら、うちも手伝うし！\nぱぱーっと終わらせて、うちもヒデサイと遊びたーい！=Nếu vậy, tôi cũng sẽ giúp! Hãy hoàn thành nhanh và sau đó tôi cũng muốn chơi với Hidesai!
 楽しいことは、宿題終わらせてからのほうがいいっしょ！\nニノっちはどーする？=Vui vẻ hơn sau khi hoàn thành bài tập về nhà, đúng không? \nCòn cô, Ninochi?
@@ -302,7 +302,7 @@
 {playername}、お待たせ～！\nたっくさん捕まえてきたさ～！={playername}, xin lỗi vì để cậu chờ lâu~!\nTôi đã bắt được rất nhiều~!
 両手に抱えきれなくなってきたから、戻ってきたさ～\nはい、回収よろしくね～！=Vì tôi không thể giữ chúng hết trong tay nữa,\ntôi quay về~ \nĐược rồi, xin hãy thu thập chúng giúp tôi~!
 スズナたちはまだ戻ってきてないみたいだね～？=Có vẻ như Suzuna và mọi người\nchưa quay về, nhỉ~?
-おっまたせー！=Xin lỗi vì để cậu chờ!
+おっまたせー！=Xin lỗi để bạn chờ lâu!
 スズナちゃん、この人たちが撮影スタッフ？\nお兄さんが背負ってるので撮るの？=Suzuna, những người này là ekip quay phim à? \nHọ quay phim vì Onii-san đang mang theo thứ gì đó sao?
 ん～、そんなとこ……かな！=Ừm, có lẽ... đúng vậy!
 スズナ、この人たちはどうしたさ～？=Suzuna, chuyện gì xảy ra với những người này~?
@@ -464,7 +464,7 @@
 大丈夫だよ、落ち着くさ～？\n怖くないから安心してね～=Đừng lo, bình tĩnh~?\nKhông có gì đáng sợ, vì vậy hãy thư giãn và cảm thấy thoải mái~
 わおおおおーーーーーーん！！=Wowwwwwwwwwwwwwww!!
 遠吠え……？　もしかして、さっきのおっきな声に反応したのかな〜？\nそれに、なんだかちょっと寂しそうに鳴いてるさ〜=Tiếng tru...? Có phải nó đang phản ứng với tiếng hét lớn lúc nãy~? Hơn nữa, dường như nó đang rên rỉ một chút buồn bã~
-そなの？=Vậy sao?
+そなの？=Vậy ư?
 なんだかそんな感じがするんだよね～\nこの世に来てからしばらく経ってるし、\n故郷が恋しくなってるのかもしれないさ～=Tớ có cảm giác này, biết không~ \nĐã lâu rồi kể từ khi tớ đến thế giới này, \nCó lẽ tớ bắt đầu nhớ quê nhà~
 わたあめちゃんはあとどれくらいいるんだろうね～？\nみんな集めて、早く故郷に帰してあげたいさ～……=Tớ tự hỏi Bông Kẹo-chan sẽ ở đây thêm bao lâu~? \nTớ muốn tập hợp mọi người và đưa cô ấy về quê nhà nhanh lên~...
 謎の叫び声が轟いた晩、\nわたあめちゃんたちの遠吠えは、明け方まで続くのだった。=Đêm mà một tiếng kêu bí ẩn vang lên, \ntiếng tru của Bông Kẹo-chan và những người khác kéo dài đến bình minh.
@@ -505,7 +505,7 @@
 おおー！=Ôー!
 ……？　わたあめちゃん、どうしたさ～？\nもしかして、一緒に行きたいの～？=...? Sao vậy, Kẹo Bông-chan~? \nChẳng lẽ cũng muốn đi cùng~?
 うちら散歩するわけじゃないけど、ちょうどいいかも！\nわたあめちゃんも連れてこ！　役に立つと思う！=Chúng ta cũng không phải đi dạo đâu, nhưng có lẽ rất phù hợp! Hãy đưa Kẹo Bông-chan đi cùng nữa! Tôi nghĩ nó sẽ hữu ích!
-どういうことデスか？=Ý bạn là sao?
+どういうことデスか？=Ý cậu là gì?
 だって、これが元の姿なんでしょ？=Bởi vì, đây không phải là dạng thật của nó sao?
 ジャックみたいに、霊界から来てる他のよーまの中に、\nわたあめちゃんのこと知ってる子がいるかもじゃね？=Giống như Jack, trong số các linh hồn khác đến từ thế giới linh hồn, có thể sẽ có người biết về Kẹo Bông-chan, phải không?
 前まではちっちゃくてすばしっこかったけど、\n今はめっちゃ大きくなったから、いい感じにアピれると思うんだよね。=Trước đây, nó nhỏ và nhanh nhẹn, nhưng giờ nó đã trở nên thật to, nên tôi nghĩ nó có thể gây ấn tượng tốt.
@@ -518,7 +518,7 @@
 大丈夫デスよ！　きっと新しい情報が手に入るはずデス！=Đừng lo! Tôi chắc chắn chúng ta sẽ tìm được thông tin mới!
 そだよ！　だってこんなに目立つんだもん！\nなんか知ってるよーまの子が、わーって駆け寄ってくるっしょ！=Đúng rồi! Vì nó nổi bật quá! \nTôi biết nó, nó chạy đến tôi với vẻ phấn khích!
 わたあめちゃん！？　ちっちゃいほうの！？\nまだ街に残ってたの〜！？=Kẹo bông-chan!? Cái nhỏ!? \nNó vẫn còn ở thị trấn~!?
-わーーーんっ！=Uaaaa!
+わーーーんっ！=Waaaah!
 ムムっ！　おっきいほうのわたあめちゃんに、突進しまシタよ！？\nもふもふな毛の中に入って潜っていったデス！=Ồ! Cô ấy xông thẳng vào chú Kẹo Bông to bự! Rồi cô ấy lao đầu vào bộ lông mềm mại của nó!
 ぷるぷるぷるぷる……！=Puru puru puru puru...!
 なんか震えだしたんですけどー！\nねねね、合体する前に震えてたって博士が言ってなかった？=Chuyện gì vậy? Nó bắt đầu rung rung rồi! Này, này, này, bác sĩ không bảo chúng rung trước khi hợp nhất sao?
@@ -592,13 +592,13 @@
 ちょっす！\nどしたの？　博士、元気なくね？=Yo! \nCó chuyện gì vậy? Giáo sư, trông ngài có vẻ buồn, phải không?
 もしや、研究に行き詰まったんデスか？=Chẳng lẽ nghiên cứu của ngài gặp bế tắc rồi sao?
 その通りなんだ……\n実は……わたあめちゃんが消えた。=Đúng vậy... \nThực ra... Bông Kẹo-chan đã biến mất.
-どういうことさー！？=Ý là sao?!
+どういうことさー！？=Ý ngài là sao?!
 君たちがここに送り届けてくれたあと、一晩外で寝かしていたんだ。\n昨日、街でまた大きくなっただろう？　もう研究所には入らなくてね。=Sau khi các cậu chuyển nó đến đây, nó đã ngủ bên ngoài một đêm. Hôm qua, nó có lại lớn lên trong thị trấn không? Nó không chịu quay về phòng thí nghiệm nữa.
 そしたら今朝起きて餌をあげようと外に出たら、\nどこにも姿がなくて……=Rồi, khi tôi thức dậy sáng nay và ra ngoài để cho nó ăn, nó đã không còn ở đâu nữa...
 カオリ君が置いていってくれたサーターアンダギーを持って、\n研究所の周りをあちこち探したが……=Với những Sata Andagi mà Kaori để lại cho tôi, tôi đã tìm kiếm quanh khu nghiên cứu, nhưng...
 そっか～……わたあめちゃん……=Ra vậy... Bông Kẹo-chan...
 カオリさん、落ち込まないでクダサイ。\nきっと霊界に戻る方法を見つけて、自力で帰っていったんデスよ。=Kaori, đừng buồn. Tôi chắc chắn nó sẽ tìm cách trở về thế giới tinh linh và tự mình quay về.
-王宮騎士隊長=Tướng quân Đội Kiếm sĩ Hoàng gia
+王宮騎士隊長=Đội trưởng Hiệp sĩ Hoàng gia
 そそ。うちらが帰してあげられなかったのは残念だけど、\nわたあめちゃんにとってはいいことっしょ……？=Ồ, ra vậy. Thật đáng tiếc vì chúng ta không thể để nó đi, nhưng đối với Bông Kẹo-chan thì đây là chuyện tốt, phải không...?
 二人とも慰めてくれてありがとうね～\nけど、私は落ち込んでないよ～！=Cảm ơn hai người đã an ủi tôi~ \nNhưng mà, tôi không buồn~!
 スズナの言う通り、いいことだからね～！\nそれに、きっと野生の勘が戻ったんだろうね～！=Như Suzuna nói, đây là chuyện tốt mà~! \nHơn nữa, tôi chắc chắn bản năng hoang dã của nó đã trở lại~!
@@ -771,7 +771,7 @@
 でも誰も怪我させてないさ～！\nや、屋台は壊されちゃったけど……=Nhưng không ai bị thương cả~! \nChỉ là mấy quầng đồ ăn bị phá hủy thôi...
 それを実害だというのだ。\n今は出ていなくても、野放しにしていたら怪我人もすぐに……=Đó vẫn được coi là thiệt hại thực sự.\nDù chưa xảy ra ngay bây giờ, nếu để mặc,\nchẳng mấy chốc sẽ có người bị thương...
 私とて本意ではない……\nなにせ、ふわふわでかわいいからな……こほん。=Tôi phải thừa nhận, đây không phải ý định của tôi... \nRốt cuộc, nó mềm mại và dễ thương quá... xấu hổ.
-騎士団隊長=Đội trưởng Hiệp sĩ
+騎士団隊長=Knight Captain
 しかし！\n優先すべきは職務！　すなわち、市民の安全である！=Tuy nhiên! \nƯu tiên hàng đầu là nhiệm vụ của chúng ta!\nNói cách khác, an toàn của người dân!
 全隊に通達！　なんとしても討伐しろ！\n逃げ足は速いが、地の果てまで追うんだ！　これ以上、被害を出すな！=Tất cả các đội nghe đây! Chúng ta phải trấn áp nó bằng mọi giá! Nó có thể nhanh, nhưng chúng ta sẽ đuổi theo đến tận cùng trời đất! Không được để nó gây thêm thiệt hại nào nữa!
 了解っ！！！=Rõ ràng!!!
@@ -785,7 +785,7 @@
 いっつもスイーツばっか食べてて、\nわたあめに似てるから、ってカオりんがそんなあだ名つけて……=Nó luôn ăn đồ ngọt, và vì trông giống bông kẹo, Kaorin đã đặt cho nó biệt danh đó...
 いいや、あれが正体さ……=Không, đó mới là hình dạng thật...
 あっ、そだ……\nそうだよ！　やっぱわたあめちゃんは、わたあめちゃんだよ！=À, đúng rồi... \nĐúng rồi!\nNó chắc chắn là Bông Kẹo-chan, Bông Kẹo-chan!
-どういうことだ？=Ý cô là sao?
+どういうことだ？=Ý cậu là gì?
 だって、スイーツばっか食べてるもん。\n街の人に怪我させてないし、屋台を襲ったのは食べるためっしょ？=Vì nó chỉ ăn đồ ngọt. \nNó chưa từng làm ai bị thương trong thị trấn,\nvà nó tấn công mấy quầng đồ ăn chỉ vì muốn ăn, đúng không?
 ってことは、怒っててもやることは一緒じゃん！\nだったら、前みたいにスイーツあげれば、言うこと聞いてくれんじゃね？=Vậy, dù cô tức giận, việc chúng ta làm cũng giống nhau, đúng không? Trong trường hợp đó, nếu tôi đưa cô đồ ngọt như trước, cô sẽ nghe lời tôi, phải không?
 ジャックさんの顔、かぼちゃデスよね？\nかぼちゃケーキみたいに、クリーム塗ったりするのはどうデスか？=Khuôn mặt của Jack, giống như quả bí ngô, phải không? \nThử bôi kem lên như bánh bí ngô thì sao?
@@ -837,7 +837,7 @@
 走りながら自分語りしているからデス……\n口は災いの元……墓穴を掘るタイプデスね。=Trong khi chạy, ta tự nói một mình...\nNói nhiều quá có thể gây rắc rối...\nHẳn ta là kiểu người tự đào hố chôn mình.
 なんかエリート精霊みたいだし、大丈夫じゃね？\nまあ、あとで追いついてくるっしょ！=Ngươi trông như một linh hồn tinh hoa, chắc sẽ ổn thôi, đúng không? \nĐược rồi, ta sẽ đuổi kịp ngươi sau!
 それより、{playername}のペースが落ちてきたさー！\nもう限界かも……追いつかれちゃうよー！=Không tốt rồi, tốc độ của {playername} đã chậm lại! \nCó lẽ ta cũng đến giới hạn rồi... Có thể bị đuổi kịp mất!
-バウーッ！=Baaah!
+バウーッ！=Hừ!
 うわああーー！！=Uwaaaahhh!!
 ショーグン！　お怪我は！？=Shogun! Ngươi bị thương rồi sao?!
 大丈夫……=Không sao...
@@ -984,7 +984,7 @@
 カオりんにすっごい懐いてたんだよ！\n手作りのサーターアンダギーってお菓子をずっとあげてたし！=Cô ấy thực sự gắn bó với Kaorin! \nCô ấy luôn tặng cô ấy bánh sata andagi tự làm!
 おお！\nそれは大変手間をかけさせたな。=Ồ! \nChắc hẳn đã khá vất vả.
 サーターアンダギーというのは、現実界のすうぃーつか？\nよかったらそれの作り方を教えてはもらえぬか？=Sata Andagi là món ngọt từ thế giới thực phải không? \nNếu được, cô có thể dạy ta cách làm không?
-もちろんさ～！=Tất nhiên!
+もちろんさ～！=Tất nhiên rồi!
 では、ジャックに伝えておいてくれ。\nお主は、もう少しこちらに留まるのであろう？=Vậy, hãy nói với Jack giúp ta. \nNgươi sẽ ở đây lâu hơn một chút chứ?
 はい！\nオイラは、毎年人間の友達と約束がありますので。=Vâng! \nTôi có một lời hứa với bạn người mỗi năm, nên.
 そうか。では任せたぞ。\nさて、ワシは一足先に戻るとしよう。=Ra vậy. Vậy để ta lo. \nBây giờ, ta sẽ về trước ngươi.

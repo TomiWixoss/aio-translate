@@ -5,7 +5,7 @@ PHASE\nクリア報酬=Phần thưởng\nPhá giải Giai đoạn
 出現中！=Xuất hiện!
 出現中!=Xuất hiện!
 
-クエスト詳細=Chi tiết nhiệm vụ
+クエスト詳細=Chi Tiết Nhiệm Vụ
 このバトルではキャラ制限は発生しません。=Không giới hạn số lượng nhân vật trong trận này.
 ボスのHPは敗北時にリセットされます。=HP của boss sẽ được reset khi bị đánh bại.
 模擬戦設定になっています。=Đặt chế độ tập luyện.

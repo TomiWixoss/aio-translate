@@ -14,7 +14,7 @@
 いや……\n流石に、あんなに遠くまで泳げないよ……\n残念だけど諦めよう……=Ưm...\nTôi nghĩ mình không bơi được xa đến thế...\nXin lỗi, nhưng chúng ta phải từ bỏ nó thôi...
 どうやら、お困りごとのようですね。\n僭越ではありますが、\nそのトラブル、わたくしたちにお任せください……！=Có vẻ như các bạn đang gặp khó khăn.\nCó thể hỏi một cách thiếu lịch sự, nhưng xin hãy giao nhiệm vụ này cho chúng tôi...!
 あなたたちはいったい……？=Các người là ai...?
-僕たちはイイコトクラブです。=Chúng tôi là Câu lạc bộ Làm Điều Tốt.
+僕たちはイイコトクラブです。=Chúng tôi là Câu lạc bộ Những Điều Tốt Đẹp.
 イイコトクラブ……？\n突然なに……怖いわ……=Câu lạc bộ Làm Điều Tốt...?\nĐó là cái gì đột ngột vậy...? Nghe hơi đáng sợ...
 決して怪しい者ではありません。\nイイコトクラブは、イイコトを通じて\n無辜の人々の暮らしを守り、皆様を笑顔にするクラブ活動です。=Chúng tôi tuyệt đối không phải người đáng ngờ.\nCâu lạc bộ Làm Điều Tốt là một câu lạc bộ nhằm bảo vệ mạng sống của người khác và mang nụ cười đến cho mọi người, thông qua những hành động tốt.
 なんか余計怪しくないか……？=Nghe còn đáng ngờ hơn, phải không...?
@@ -86,7 +86,7 @@ cutscene dialogue
 
 えいっ……！=Eii...!
 わわわっ……=Hawawa...
-きゃあ！=Ái chà!
+きゃあ！=Kyaa!
 ネアさん、強いですね……=Chơi khá đấy, Nea-san...
 ンフフ～ショタしか勝たんっ♡=Hehe~ Chiến thắng này thuộc về Shota Club♡
 やり～♪=Hoan hô~♪
@@ -97,7 +97,7 @@ cutscene dialogue
 落ちる寸前に、空へテレポートしました=Ngay trước khi chạm nước, tôi đã dịch chuyển lên trời.
 あと、水しぶきはー……=Còn những vụt nước kia là...
 魔力弾です★=Đạn ma thuật★
-きゃあ=Ái chà!
+きゃあ=Kyaa!
 ずる～=Gian lận~
 てへぺろ♪=Tehe♪
 end of cutscene
@@ -108,7 +108,7 @@ end of cutscene
 カリザきゅんも、トランポリン楽しんでたじゃん？\nインガオーホーっしょ？=Kariza-kyun cũng thích nhảy trên tấm lò xo mà, phải không?\nNhân quả xảy ra theo cách kỳ lạ nhỉ?
 どっちにしろ、地獄じゃねェか……！\nつか別に楽しんでねェし！=Dù ai thắng, tôi cũng hỏng rồi...!\nVà tôi chẳng thích chút nào!
 ……そもそも。\nミソラ、テメーは……=...Dù sao thì.\nMisora, cô...
-あ、あのっ……！=Ơ-Ơ...!
+あ、あのっ……！=Ơ-Ơ...
 あっ、さっきのビーチボールのご家族じゃないですかー\nどうしました？=Ồ, là gia đình có quả bóng bãi biển lúc nãy~\nSao vậy?
 実は、改めて感謝を伝えたくて。\n水上トランポリンを用意してくれたんですよね？=Thực ra, chúng tôi muốn cảm ơn các bạn lần nữa.\nLà các bạn đã chuẩn bị tấm lò xo nước đó, phải không?
 あれのおかげで、\n海を怖がっていた娘も、楽しく遊べたみたいで……\nありがとうございました。=Con gái tôi, vốn sợ biển, cuối cùng cũng vui vẻ được nhờ nó... Chúng tôi thực sự biết ơn.

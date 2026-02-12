@@ -7,14 +7,14 @@
 ショック・ザ・キャット！=Sốc Mèo!
 猫の心配、相棒知らず=Nỗi Lo Của Mèo, Không Biết Đồng Đội
 
-ドギマギ☆ダイエット=Niềm Vui Ăn Kiêng
+ドギマギ☆ダイエット=Niềm Vui Trong Chế Độ Ăn Kiêng
 発見せよビッグキャット=Tìm Kiếm Bigcat
 ファントムキャッツ再び=Sự Trở Lại Của Mèo Ma
-仕組まれていた陰謀=Âm Mưu Của Krook
+仕組まれていた陰謀=Âm Mưu Bị Cướp
 タマキの奇策！=Chiến Thuật Của Tamaki!
-ファントムキャッツ現る=Mèo Ma Xuất Hiện
-真夜中の大捜査線=Bản Sao Nhỏ Mất Tích
-猫のちゃっかり恩返し=Mèo Tinh Nghịch Trở Về
+ファントムキャッツ現る=Con Mèo Ma Quái Xuất Hiện
+真夜中の大捜査線=Phiên Bản Nhỏ Mất Tích
+猫のちゃっかり恩返し=Con Mèo Ganh Tỵ Trở Về
 
 ##UB##
 ねこねこファイナルブレイク=Thảm Họa Mèo
@@ -30,7 +30,7 @@ r:"^敵単体に(\d+)の物理ダメージ敵単体の魔法攻撃力を(\d+)ダ
 猫の気まぐれ=Mèo Khó Tính
 魔法攻撃力が最も高い敵１キャラのＴＰを小ダウンさせ、さらに自分のＴＰを小回復する。=Giảm TP của kẻ địch có M.ATK cao nhất một chút và đồng thời phục hồi TP của bản thân một chút.
 魔法攻撃力が最も高い敵１キャラのＴＰを小ダウンさせ、さらに自分のＴＰを小回復し、物理攻撃力を小アップさせる。=Giảm TP của kẻ địch có M.ATK cao nhất một chút. Phục hồi TP của bản thân một chút. Tăng P.ATK của bản thân một chút.
-r:"^敵単体のＴＰを(\d+)失わせる自分のＴＰを(\d+)回復自分の物理攻撃力を(\d+)アップ$"=►Giảm TP của kẻ địch $1.\n►Phục hồi TP của bản thân $2.\n►Tăng P.ATK của bản thân $3.
+r:"^敵単体のＴＰを(\d+)失わせる自分のＴＰを(\d+)回復自分の物理攻撃力を(\d+)アップ$"=►Giảm TP của kẻ địch bằng $1.\n►Hồi lại TP của bản thân bằng $2.\n►Tăng P.ATK của bản thân bằng $3.
 ## Same as STamaki S1
 
 ##EX##

@@ -62,7 +62,7 @@ r:"^\[3C404E\]\[3C404E\]\[FFBB00\,CE4F00\](.+)\[-\]への\n申請を取り消し
 
 [FF7C4E,D62146]検索結果に一致するクランが見つかりませんでした。[-]=[FF7C4E,D62146]Không tìm thấy clan nào phù hợp với tìm kiếm của bạn.[-]
 
-交代=Chuyển
+交代=Chuyển đổi
 サブリーダー=Phó lãnh đạo
 任命=Bổ nhiệm
 勧誘や、加入申請の管理=Tuyển dụng, quản lý đơn ứng tuyển
@@ -99,7 +99,7 @@ r:"^プレイヤーLv ： ([0-9 ～]+)$"=Cấp người chơi : $1
 勧誘を解除=Hủy lời mời
 除名する=Xóa
 クラン勧誘=Lời mời bang hội
-よろしくお願いします。=Rất vui được gặp bạn.
+よろしくお願いします。=Rất vui được gặp cậu.
 シングルモード参加=Tham gia chế độ đơn
 r:"^(.+)をクランに勧誘しますか？$"=Mời $1 tham gia bang hội?
 勧誘コメント=Nội dung lời mời
@@ -135,7 +135,7 @@ r:"^(\d+)時間(\d+)分後にクラン加入が可能です。$"=Bạn có thể
 r:"^(\d+)分後にクラン加入が可能です。$"=Bạn có thể tham gia bang hội sau $1m.
 初心者応援クラン=Bang hội hỗ trợ người mới
 まったりやりましょう=Hãy cứ thoải mái.
-サーバーエラー=Lỗi máy chủ
+サーバーエラー=Lỗi Máy Chủ
 前回、このプレイヤーから勧誘を拒否されました。\n勧誘拒否から24時間以内は勧誘できません。=Lần trước bạn đã từ chối lời mời từ người chơi này. Bạn không thể
 Invite within 24 hours after the Invitation is rejected.
 NPC

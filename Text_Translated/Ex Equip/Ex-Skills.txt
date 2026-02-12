@@ -74,7 +74,7 @@ r:"^バトル開始後(\d+)秒間自分の魔法防御力を(\d+)％アッ\nプ�
 バトル開始後90秒間自分の物理攻撃力と物理クリティカルを３％アップさせる。=Tăng P.ATK và P.CRIT RATE của bản thân lên 3% trong 90s sau khi trận đấu bắt đầu.
 
 
-魔法攻撃力=Tấn công phép thuật
+魔法攻撃力=Tấn công ma thuật
 
 火属性攻撃力アップ=Tăng sức mạnh tấn công thuộc tính Lửa
 装備者が火属性の場合、バトル開始後90秒間自分の物理攻撃力を40％アップさせる。=Nếu người trang bị có thuộc tính Lửa, tăng sức mạnh tấn công vật lý của người đó lên 40% trong 90 giây sau khi trận đấu bắt đầu.

@@ -226,7 +226,7 @@ Chapter 3
 {playername}さん？　どうしてここに……={playername}? Cậu đang làm gì ở đây...?
 え、ええ、もちろん。\n平気です。あんなことくらい、慣れてますから。=D-Dạ, tất nhiên rồi. Không sao. Tôi đã quen với chuyện như vậy rồi.
 ……あの、ランファさんは？=...À, Ranpha-san đâu rồi?
-そうでしたか……=Ra vậy...
+そうでしたか……=Ra là vậy...
 私、嫌な態度取っちゃったな……\nランファさんに謝らなくちゃ。{playername}さんにも。=Thái độ của mình với họ thật đáng ghét... Mình phải xin lỗi Ranpha-san. Và cả {playername}-san nữa.
 でも、今は。\n冷静に顔を合わせるなんて、できそうにない。=Nhưng, ngay bây giờ... Mình nghi là không thể gặp họ mà giữ được bình tĩnh.
 この人の、顔を見てるのも──\n本当は、つらいんだもの。\nどうしてこんなに、素直になれないんだろう……=Nhìn thẳng vào mặt họ như thế này, thật sự rất đau lòng. Tại sao mình không thể thành thật với chính mình...?
@@ -398,7 +398,7 @@ Player Prompts
 もちろん、一番前で見守ってる。=Tất nhiên... Tôi sẽ ở ngay phía trước nhất, xem
 待って。僕が伴奏するよ。=Khoan. Để tôi đi cùng cậu
 上手くいくかどうか分からないけど……=Không chắc là có thành công, nhưng hãy lắng nghe tôi...
-これでいい？=Như vậy được chứ?
+これでいい？=Như thế này được chứ?
 生まれた……=Nó đã ra đời...
 みんなすごくかわいいね。=Chúng đều dễ thương quá
 がんばらないといけないね。=Có vẻ chúng ta sẽ phải cố gắng

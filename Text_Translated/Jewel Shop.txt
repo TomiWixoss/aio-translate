@@ -11,7 +11,7 @@
 
 
 
-ジュエルショップ=Cửa hàng Jewels
+ジュエルショップ=Cửa hàng ngọc
 ジュエル・その他購入=Jewels/Các mua hàng khác
 所持ジュエル確認=Kiểm tra Jewels đang có
 マナ購入=Trao đổi Mana
@@ -50,7 +50,7 @@ r:"^([2-9])回限定$"="Giới hạn!\nChỉ $1 lần"
 コラボ記念 専用装備１グロウスフィアパック=Gói 1 Growsphere Sự kiện Hợp tác UE
 コラボ記念 専用装備２グロウスフィアパック=Gói 2 Growsphere Sự kiện Hợp tác UE
 専用装備グロウスフィアパック=Gói Growsphere UE
-専用装備１グロウスフィアパック=Gói 1 Growsphere UE
+専用装備１グロウスフィアパック=UE 1 Growsphere Pack
 専用装備２グロウスフィアパック=Gói UE 2 Growsphere
 Anniversary グロウスフィアパック=Gói Growsphere Kỷ Niệm
 Anniversary 専用装備グロウスフィアパック=Gói Growsphere UE Kỷ Niệm
@@ -83,6 +83,7 @@ pack
 30日間探索挑戦回数+3回期間通知=Thông Báo Thời Hạn Gói Động +3 30 ngày
 購入Lv制限あり=Giới Hạn Mua Theo Cấp
 マンスリーテーマパック=Gói Chủ Đề Hàng Tháng
+スタミナパック=Gói Thể Lực
 --- Anniv---
 r:"^([0-9.a-zA-Z ]*)プリンセスフェスSPキャラ交換ガチャセット$"=Bộ Gacha Đổi Nhân Vật $1 Princess Fes SP
 r:"^([0-9.a-zA-Z ]*)スペシャルキャラ交換ガチャセット$"=Bộ Gacha Đổi Nhân Vật Đặc Biệt $1

@@ -9,14 +9,14 @@
 王女様の騎士=Princess's Knight
 旅の準備はデートのように=Chuẩn bị cho chuyến đi giống hệt một cuộc hẹn hò
 
-あなたが教えてくれた幸せ=Hạnh Phúc Mày Cho Tôi
+あなたが教えてくれた幸せ=Hạnh Phúc Mày Đã Cho Tao
 今日の味、忘れません♪=Một Hương Vị Không Thể Quên
-ギルド設立レッツゴー！=Hoan Nghênh Hành Chính!
-旅立ちの焼肉=Cuộc Gặp Gỡ Đầy Thịt
-私ノコト、ワカリマスカ？=Mày, Tao, Hiểu Chứ?
+ギルド設立レッツゴー！=Hoan Hô Bureaucracy!
+旅立ちの焼肉=Một Cuộc Gặp Gỡ Đầy Thịt
+私ノコト、ワカリマスカ？=Mình Hiểu Nhau Chứ?
 幸せを釣る針と糸=Câu Câu Hạnh Phúc
 おいしい持ち込み大歓迎！=Đang Tiếp Nhận Nguyên Liệu!
-再会はごはんの匂い=Một Cuộc Tái Ngộ Ngon Ishh
+再会はごはんの匂い=Một Cuộc Gặp Gỡ Ngon Ishh
 
 ##UB##
 プリンセスストライク=Princess Strike
@@ -24,7 +24,7 @@
 r:"^敵単体に(\d+)の物理ダメージ自分の物理防御力を(\d+)アップ自分の魔法防御力を(\d+)アップ$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Tăng phòng thủ vật lý của bản thân lên $2 trong 18s.\n►Tăng phòng thủ ma thuật của bản thân lên $3 trong 18s.
 
 ##S1##
-ランチタイム=Giờ Ăn Trưa
+ランチタイム=Giờ nghỉ trưa
 自分の魔法防御力を中アップさせ、さらにＨＰを中回復する。=Tăng phòng thủ ma thuật của bản thân một chút và hồi phục HP của bản thân một chút.
 r:"^自分の魔法防御力を(\d+)アップ自分のＨＰを(\d+)回復$"=Thời gian niệm: 0.21s\n►Tăng phòng thủ ma thuật của bản thân lên $1 trong 12s.\n►Hồi phục HP của bản thân lên $2.
 

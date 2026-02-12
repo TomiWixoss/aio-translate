@@ -22,3 +22,12 @@ r:"^フィールド展開中、自分の魔法攻撃力を(\d+)アップフィ�
 
 アームズクリエイション=Arms Creation
 アームズクリエイション+=Arms Creation+
+
+
+
+##S1+##
+デコーデッドスナイプ+=Decoded Snipe+
+
+クイーンズガンビット=Queen’s Gambit
+目の前の敵１キャラに魔法中ダメージを与え、魔法防御力を小ダウンさせる。これを３回行い、１回ごとにダメージと魔法防御力ダウンの効果量がアップする。さらに、自分の魔法攻撃力を中アップする。=Gây sát thương ma thuật trung bình cho kẻ địch phía trước và giảm nhẹ M.DEF của chúng. Lặp lại hiệu ứng này ba lần, với sát thương và hiệu ứng giảm M.DEF tăng lên sau mỗi lần. Ngoài ra, tăng M.ATK của bản thân một cách vừa phải.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン自分の魔法攻撃力を(\d+)アップ$"=►Gây $1 sát thương ma thuật cho một kẻ địch đơn.\n►Giảm M.DEF của một kẻ địch đơn đi $2.\n►Gây $3 sát thương ma thuật cho một kẻ địch đơn.\n►Giảm M.DEF của một kẻ địch đơn đi $4.\n►Gây $5 sát thương ma thuật cho một kẻ địch đơn.\n►Giảm M.DEF của một kẻ địch đơn đi $6.\n►Tăng M.ATK của bản thân lên $7.

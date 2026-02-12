@@ -55,7 +55,7 @@
 安全装置……=Cơ chế an toàn...
 うん。『前』のアストルムでは仕組み上、\nガイド妖精は攻撃対象にならず、\nダメージによる破壊もされない設定だったんだけど。=Ừ. Trong Astrum trước, các tiên hướng dẫn không được xem là mục tiêu tấn công do hệ thống, và chúng cũng không được thiết lập để bị phá hủy bởi sát thương.
 そんなガイド妖精が壊れるような、例外的処理が発生した場合。\n中枢にエラーの影響が伝播しないよう、インタラプトするはずで……\nほんと、なんで作動しなかったのかな～。あの時あれさえ動いてたら……=Nếu một tiên hướng dẫn như vậy bị hỏng, trong một tình huống ngoại lệ. Để ngăn ảnh hưởng của lỗi lan rộng đến hệ thống trung tâm, nó được cho là sẽ ngắt quãng... Tại sao nó lại không hoạt động nhỉ~ Giá mà nó di chuyển lúc đó...
-え、えーっと……？=Ư-Ướm...
+え、えーっと……？=U-Umm...?
 んっ、ごめんごめん。\n『今』は、そんなこと考えてる場合じゃなかったね。\n……『前』のログも手元にないから、解析できないし……=Xin lỗi, xin lỗi. Bây giờ không phải lúc nghĩ về chuyện đó. ...Mình không có nhật ký trước ở tay, nên không thể phân tích nó...
 てなワケだからさ。\n少年たちが頑張ってくれてるこの時間を無駄にしないために、\nアタシたちも色々と仕込みをしておこっか。=Vì vậy mà. Để không lãng phí thời gian mà cậu bé đang nỗ lực, \nchúng ta cũng sẽ chuẩn bị nhiều thứ.
 『エリスさま』がこっちの動きを予想して、焦ってくれるのはいいけど。\nあまり大人しくしてたら、そのうち見透かされちゃうし。\nそれなら──="Eris" dự đoán các động thái của mình và hoảng loạn thì được, nhưng nếu mình ở yên quá lâu, họ rồi sẽ cũng sẽ nhìn thấu mình. Trong trường hợp đó...
@@ -81,10 +81,10 @@
 だ、だよなぁ！\nとっとと逃げりゃいいのに、姫さんなんであんな必死に……\nなんで……？=Đ-Đúng đó! Cô ấy nên chạy đi, nhưng sao công chúa lại cố gắng đến thế... Tại sao...?
 あたしらのために決まってるじゃないか！\nバカやろうども！=Chẳng phải rõ ràng là vì chúng ta sao?! Mấy đứa ngốc!
 ったく、図体ばっかりデカくなっちまって！\nあの姫さんたちはね、自分の身を犠牲にして、弱っちいあたしらを\n守ろうとしてくれてるんだよ！　そんなこともわからないのかい！=Trời ơi, các người to con thật! Công chúa đang hy sinh bản thân để bảo vệ chúng ta khi chúng ta yếu đuối! Các người không biết sao!?
-ゴロツキたち=Côn đồ
+ゴロツキたち=Bọn găng-tô
 ほら、あんたたち！\nあそこで倒れてる爺さん担いで、とっとと逃げるんだよ！=Đi thôi, các cậu! Khiêng ông lão kia lên và rời khỏi đây!
 おい！\n掴まれ、じじい！=Này!\nGiữ chặt, ông lão!
-あ、あいたた……=Ô-Ôi đau quá...
+あ、あいたた……=Ô-Ái chà chà...
 す、すまんのぅ、若いの……=T-Tôi xin lỗi, chàng trai trẻ...
 姫さんの足手まといになってんじゃねえぞぉ！？=Đừng cản đường công chúa!
 ほらチビども！\nお前たちもさっさと逃げるんだよ、ついてきな！=Đi thôi, lũ nhỏ! \nCác ngươi cũng chạy đi, đừng để tôi phải chờ!
@@ -134,7 +134,7 @@
 陛下がどのような話を、\n迷宮女王から聞いてきたのかは気になりますが……\n今は。=Tôi tò mò về điều gì Nữ hoàng đã nghe từ Queen Labyrinth, nhưng... trước mắt thì.
 はい！\n力を貸してください、みなさん！=Vâng! Xin mọi người hãy cho tôi mượn sức mạnh của các bạn!
 このシャドウの群れを、\nとっちめてやらなきゃいけないみたいだね……！=Có vẻ tôi sẽ phải hạ gục đàn Shadow này...!
-プリンセス……=Công chúa...
+プリンセス……=Công Chúa...
 ストラーイクッ！=Tấn công!
 んんっ！=Mmmm!
 ──陛下ッ！！！=Nữ hoàng!!!
@@ -162,7 +162,7 @@
 『レジェンドオブアストルムのプレイヤーなら、みーんな知ってるよ。\nソルオーブっていうアイテムが、\n空間と空間を「繋ぐ」ものだってことはね。』=Nếu bạn là người chơi Legend of Astrum, bạn nên biết điều này: Vật phẩm gọi là Sol Orb là thứ 'kết nối' các không gian với nhau.
 なるほど……！=Ra vậy...!
 『ま、そんなワケだから。\nユイちゃん、少年のことよろしくねー』=Vâng, đúng vậy. Yui-chan, chăm sóc cậu bé
-は、はい！=V-Vâng!
+は、はい！=D-Dạ!
 騎士クン、こっちへ！\nラジラジさんのサポートを借りて、空間跳躍するから……！=Đến đây, Kishi-kun! Tôi sẽ mượn sự hỗ trợ của Rajiraji-san và sử dụng bước không gian...!
 ……逃がさない。\nお前と、騎士クンを捕らえれば……わたしの、勝ち。=......Tôi sẽ không để các bạn trốn thoát. \nNếu tôi bắt được các bạn và Kishi-kun......\nTôi thắng.
 ……あなたに、どんな事情があっても。\nどれだけ力が強くても……=...Bất kể hoàn cảnh của bạn ra sao.\nBất kể sức mạnh của bạn mạnh đến đâu...
@@ -298,7 +298,7 @@
 ……チッ。\nしょーがねぇ。=...Tch. Được.
 カヤぴぃ！？=Kaya-pii?!
 キミたちも！\nボスの戦いに巻き込まれるのがイヤなら、\nとっとと逃げたほうがよさそうだぜ！=Các cô cũng vậy! Nếu không muốn bị cuốn vào trận chiến của sếp, có vẻ như nên chạy đi nhanh hơn là tốt!
-だ、だが……=N-Nhưng...
+だ、だが……=Nh-Nhưng...
 そうだね～\nそうしてもらったほうが、私的にもありがたいかな～=Đúng vậy~ Cá nhân tôi, tôi sẽ biết ơn nếu các cô làm thế~
 だって。\n慣れない力だから、コントロールに自信ないしー？=Ý tôi là, đó là một sức mạnh tôi chưa quen, nên tôi không có tự tin khả năng kiểm soát nó
 行きましょう、みなさま！\n主さまの元へ、急がなくては！=Đi thôi, mọi người! \nChúng ta phải vội đến bên Chúa tôi!
@@ -317,7 +317,7 @@
 んほおおおおっ！？\nなんじゃあの爆発はっ！？\nきたねぇ花火でありますか～っ！！？=Cái quái gì vậy với vụ nổ đó!?\nĐó là pháo hoa chết tiệt nào!?
 とてつもない威力の攻撃魔法ね……！\nいったい何があったの……！？=Ma thuật tấn công cực kỳ mạnh mẽ...! \nChuyện gì đã xảy ra vậy...!?
 ああぁっ！！\nキャルちゃん、今あの中にいるはずなのにっ！=Aaahh!! \nKyaru-chan, cô ấy lẽ ra đang ở trong đó!
-えぇっ！？=Cái gì?!
+えぇっ！？=Gì?!
 キャルちゃんが……！？\nっ！=Kyaru-chan...?!
 落下してくる瓦礫と城が、まるごと消えちまった……\nいったい、どういう手品なんだい……？=Các mảnh vỡ rơi xuống và lâu đài đã hoàn toàn biến mất... Đó là phép màu gì vậy...?
 そんなぁっ！\nじゃあ、キャルちゃんも……！？=Không thể nào! Vậy thì, Kyaru-chan cũng...!?
@@ -354,7 +354,7 @@
 ──戦闘・継続。=- Trận chiến tiếp diễn.
 ──標的・捕縛。=──Mục Tiêu: Bắt Giữ.
 ……！\nまさか、少年のことを狙っているのか？=......! \nChẳng lẽ chúng nhắm vào thằng bé?
-そうはさせないわよ！=Tôi sẽ không để các người làm thế!
+そうはさせないわよ！=Tớ sẽ không để cậu làm thế đâu!
 みんなも戦えるなら、一緒に戦って！\nそのほうが効率的だわ！=Nếu mọi người có thể chiến đấu, hãy cùng nhau chiến đấu! \nNhư vậy sẽ hiệu quả hơn!
 やーれやれだぜ。\nボスのほうに比べれば、だいぶ小粒な相手だが……\nケンカしてやんぜ、オラァ！=Thôi đi. So với boss, đối thủ này khá nhỏ bé, nhưng... Chiến thôi, ora!
 そんなヘンな仮面した連中に、イノリさまが負けるはずねーですよ！\nだってコイツら、前が見えてねーですからね！=Không thể nào Inori-sama thua mấy tên đeo mặt nạ kỳ quặc này! Vì mấy tên này không nhìn thấy được thứ gì trước mặt chúng!
@@ -420,7 +420,7 @@
 油断はしないでくれよ、ユカリちゃん……！=Đừng để cảnh giác, Yukari...!
 ははっ、ケンカだケンカァ！\nシャドウの本体のアイツらは、オレが食わせてもらうぜ！=Ha ha, là trận chiến, trận chiến!\nNhững tên Bóng Đen kia, tôi sẽ lo chúng!
 カヤぴぃ、手柄を独り占めする気ですか！？\nそうはさせねーですよっ！\nてえーーい！！=Kaya-pii, cậu có ý định lấy toàn bộ công lao cho bản thân sao!? \nTôi sẽ không để cậu thoát khỏi điều đó! Teeeeeeeei!!
-──っ……=Ực
+──っ……=Ugh
 {playername}くん、コッコロちゃん！\nわたしたちも行きましょう！={playername}-kun, Kokkoro! \nCùng đi thôi!
 あ、あたしもっ……！=T-Tôi nữa...!
 ヒヨリさま、ご無理をなさらず……！\nまだミロクとの戦いで負った負傷が、完治しておりません……=Thưa Lady Hiyori, xin đừng cố quá sức...! \nNhững vết thương từ trận chiến với Miroku vẫn chưa lành hẳn...
@@ -463,7 +463,7 @@
 『純粋な眼差し！\nふにふにのほっぺ！　可愛いお手手！\nはぁもぉ、一生お世話された～～～いっ！！！』="Ánh mắt trong trẻo! \nĐôi má mềm mại! Bàn tay nhỏ xinh! \nAhh, tớ muốn được cậu chăm sóc mãi mãi!!!"
 『──システム・停止……』=『 Hệ thống tắt......』
 あ、あれっ！？\nこの子たち、いきなり動きがおかしくなっちゃったよ！？=H-Hả?! Những cô gái này đột nhiên bắt đầu di chuyển kỳ quặc!
-いったい、何がっ……？=Cái gì vậy trời...?
+いったい、何がっ……？=Rốt cuộc là chuyện gì...?
 ふふんっ♪\nあいつらがコソコソやってた情報交換、ジャマしてやったのよ！\nあたしの頭ん中、思いっきりぶつけてね！=Hehe ♪ \nTôi đã ngắt quãng việc trao đổi thông tin lén lút của chúng! \nTôi đã tấn công chúng bằng toàn bộ sức mạnh bên trong đầu chúng!
 フィオちゃん、すごい……！=Fio, cậu tuyệt vời!
 アメスさまの、頭の中……\nそれはいったい……？=Bên trong đầu Lady Ameth...\nĐó là gì...?
@@ -544,7 +544,7 @@
 「──ドラゴンズエンドフィストォッ！」\n「──ヒヨリブレイジングインパクトッ！」="──Nắm đấm Tận cùng Rồng!"\n"──Cú đập Hiyori Rực lửa!"
 『──任務・失敗』=『──Nhiệm vụ Thất bại』
 残った全力、出し切ります！\nプリンセスストラーーーーイク！！=Tôi sẽ dùng hết sức, với toàn bộ sức mạnh còn lại!\n──ĐÒN ĐÁM CÔNG CHÚA!!
-はぁ、はぁっ……=*thở dốc thở dốc*...
+はぁ、はぁっ……=*thở dốc*...
 た、倒せたの……？\nギリギリだったっぽいけど……=C-Các cậu có đánh bại nó được không...?\nThực sự rất nguy hiểm...
 はんっ、イノリさまにかかれば\nざっとこんなもんですよ！\n……あいたたた……=Hmph, đây là tất cả những gì tôi có thể làm cho Inori-sama! ...Ái chà chà chà...
 ユイとコッコロからの防御魔法がなければ、\nやられていたのはこちらだったね……=Nếu không có ma thuật hồi phục của Yui và Kokkoro, chúng ta đã thua rồi...
@@ -567,7 +567,7 @@
 来る……！=Nó tới rồi...!
 ……いくら呼びかけても。\n完全に『端末』にされちゃってるんじゃ、答えようがないかっ……=... Dù tôi có gọi thế nào. \nNếu cô ấy đã hoàn toàn bị biến thành "terminal", không có cách nào để cô ấy trả lời...
 これ以上、やらせない……！=Tôi sẽ không để cô làm thế nữa...!
-主さま！？=Chúa tôi!?
+主さま！？=Chủ nhân!?
 きっと、こんなことしたくないはず……！=Tôi chắc chắn cô ấy không muốn làm thế này...!
 {playername}！\nあいつらを救って……倒してあげて！\nそうすれば、仮のアバターに閉じ込められた魂も解放されるはずだから！={playername}! Cứu họ... Đánh bại chúng giúp tôi!\nNếu cậu làm được, những linh hồn bị mắc kẹt trong hình ảnh tạm thời sẽ được giải thoát!
 っとぉ！\nジャマなんかさせねーですよ……！=Ôi chao! Tôi sẽ không để cậu cản đường tôi!
@@ -773,7 +773,7 @@
 そんな答え、聞きたくない──！=Tớ không muốn nghe loại câu trả lời đó──!
 騎士クンッ！？\n騎士クンッ……！！=Kishi-kun!? \nKishi-kun...!!
 ああっ……\nこ、こんなに血が……！\n騎士クン、しっかり……！！=Ối... \nMáu... Máu quá nhiều...! Máu vương khắp nơi...! \nKishi-kun, hãy tỉnh lại...!!
-ぁ……=Ối...
+ぁ……=À...
 ち、違う……違う……\nわたし……こんなこと、するつもりじゃ……=Không... Không... Tôi... Tôi chưa bao giờ... Tôi không cố ý làm điều này...
 ──光の精よ！\nお願い、騎士クンを癒して……！=Thần ánh sáng!\nXin hãy chữa lành cho Kishi-kun...!
 騎士クン、お願い……！\n目を、目を開けてっ！=Kishi-kun, làm ơn...! \nMở mắt ra đi, mở mắt ra đi!
@@ -871,8 +871,8 @@
 またいつか。\n今度はフツーに楽しく、一緒に遊べたらいいですね。\nランファさん……♪=Tớ hy vọng một ngày nào đó chúng ta có thể vui vẻ cùng nhau nữa.\nRanpha-san...♪
 ……わたし……\nわたしも、諦めないわ。\nミソラちゃんも……{playername}くんのことも……=...Tớ... \nTớ cũng sẽ không bỏ cuộc. \nMisora-chan... và cả {playername}-kun...
 ──そして。\nホマレによって空間跳躍させられた、\n『黒き薔薇の城』の残骸では……=──Và.\nTrong tàn tích của "Lâu Đài Hoa Hồng Đen" đã được Homare dịch chuyển...
-……ぅ、う～ん……=...K-Khụt...
-あいったた……=Ối ối ối ối...
+……ぅ、う～ん……=...H-Hừm...
+あいったた……=Owowowow...
 ………………あたし、生きてるの……？=...Tôi... còn sống...?
 ……そ、そうだわ。\nなんか、薔薇の城みたいな建物の中に潜入したのよね。\nさっき……=...V-Vậy đúng rồi.\nTôi đã lẻn vào một tòa nhà trông như lâu đài hồng.\nChỉ cách đây không lâu...
 そしたらいきなり、\n下からとんでもない攻撃魔法がぶちこまれて、城がぶっ壊されて。\nそれで……=Rồi bỗng nhiên, một phép thuật tấn công khủng khiếp được phóng từ bên dưới, và lâu đài đã bị phá hủy.\nVà rồi...

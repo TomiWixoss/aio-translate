@@ -12,7 +12,7 @@ r:"^敵単体に(\d+)の物理ダメージ自分のＨＰを(\d+)消費$"=►Gâ
 
 ##S2##
 ぷうきちラッシュ=Pukichi Rush
-目の前の敵１キャラに物理中ダメージを与え、さらに小さく吹き飛ばす。=Gây sát thương vật lý vừa phải cho kẻ địch ngay phía trước và đẩy lùi chúng một chút.
+目の前の敵１キャラに物理中ダメージを与え、さらに小さく吹き飛ばす。=Gây sát thương vật lý vừa lên kẻ địch phía trực tiếp và đẩy lùi chúng một chút.
 
 ##EX##
 ホーリーナイトスラッガー=Holy Night Slugger
@@ -21,7 +21,7 @@ r:"^敵単体に(\d+)の物理ダメージ自分のＨＰを(\d+)消費$"=►Gâ
 ##S1+##
 ぷうきちエール+=Pukichi Cheering+
 自分の物理攻撃力を特大アップさせ、さらに行動速度を大アップさせる。=Tăng cực lớn P.ATK của bản thân và tăng rất nhiều tốc độ hành động.
-r:"^自分の物理攻撃力を(\d+)アップ自分の行動速度アップ$"=►Tăng P.ATK của bản thân lên $1. ►Tăng tốc độ hành động của bản thân.
+r:"^自分の物理攻撃力を(\d+)アップ自分の行動速度アップ$"=►Tăng P.ATK của bản thân bằng $1.\n►Tăng tốc độ hành động của bản thân.
 
 ##S2+##
 ぷうきちラッシュ+=Pukichi Rush+

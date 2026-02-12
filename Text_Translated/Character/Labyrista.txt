@@ -22,7 +22,7 @@ r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリティカル�
 r:"^敵全体に(\d+)の物理ダメージ自分のＴＰを1000失わせる七冠の権能を解除する$"=►Gây $1 sát thương vật lý lên tất cả kẻ địch.\n►Giảm 1000 TP của bản thân.\n►Khóa quyền năng của Bảy Vương Miện (Chuyển sang Mẫu Tấn Công 1).
 
 ##SP2##
-アクセラレーション=Acceleration
+アクセラレーション=Tăng Tốc
 味方全体の物理攻撃力を特大アップさせ、物理クリティカルを中アップさせ、行動速度を大アップさせる。=Tăng cường mạnh mẽ sức tấn công vật lý cho tất cả đồng minh, tăng trung bình tỷ lệ chí mạng vật lý, và tăng rất mạnh tốc độ hành động của tất cả đồng minh.
 r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の物理クリティカルを75アップ味方全体の行動速度をアップ$"=Thời gian niệm: 0.00s\n►Tăng P.ATK của đồng minh lên $1 trong 12s.\n►Tăng Tỷ lệ P.CRIT của đồng minh lên 75 trong 12s.\n►Tăng tốc độ hành động của đồng minh lên 150% trong 12s.
 

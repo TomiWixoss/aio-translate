@@ -37,5 +37,5 @@ r:"^範囲内の敵の魔法防御力を(\d+)ダウン範囲内の敵に(\d+)の
 r:"^敵単体のＴＰを(\d+)失わせる敵単体の物理攻撃力を(\d+)ダウン敵単体の魔法攻撃力を(\d+)ダウン敵単体の物理クリティカルを(\d+)ダウン敵単体の魔法クリティカルを(\d+)ダウン$"=►Giảm TP của một kẻ địch bằng $1.\n►Giảm P.ATK của một kẻ địch bằng $2.\n►Giảm M.ATK của một kẻ địch bằng $3.\n►Giảm Tỷ Lệ P.CRIT của một kẻ địch bằng $4.\n►Giảm Tỷ Lệ M.CRIT của một kẻ địch bằng $5.
 
 ##UE##
-マジカルミスティロッド=Gậy Sương Mù Phép Thuật
+マジカルミスティロッド=Gậy ma thuật sương mù
 マジカルミスティリボン=Ruy Băng Sương Mù Phép Thuật

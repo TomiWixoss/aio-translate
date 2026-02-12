@@ -101,7 +101,7 @@ Opening
 いえ、準備とは一体？\n騎士クン、何をするつもりなの……？=Khoan, cô ấy muốn nói gì khi nói "chuẩn bị"? Kishi-kun, anh đang định làm gì...?
 ぶっぶー！=Bubuuu!
 それじゃあ、よーい……\nどん！=Vậy thì, bắt đầu nào... Đập!
-なっ……！？=Gì...!?
+なっ……！？=Cái...!?
 ダメ、そっちは沖。\nD型検体、今すぐ騎士クンを止めなさい……！=Không, chúng ở xa ngoài khơi! Quái vật loại D, hãy dừng Kishi-kun lại ngay bây giờ...!
 ぷはぁ、ぷはぁ……！=Pwah, pwah...!
 え……、泳いで、いる……？=Hả...? Anh ấy... đang bơi...?
@@ -123,7 +123,7 @@ Player Prompts
 あれ、本当だ……僕、泳げてる……？=Hả? Cậu nói đúng... Tôi có thể bơi...?
 
 New Titlecards
-イカの魔物=Squid Monster
+イカの魔物=Quái vật Mực
 
 Chapter 1
 願いが叶うと噂の海岸に願掛けに訪れるプレシアたち。噂はただの宣伝文\n句と判明したはずが、突如{playername}はカナヅチを克服する。他方エリスは\nシェフィを通じて、不思議がる一同を監視していた。=Precia và những người khác đến bãi biển để cầu nguyện rằng ước muốn của họ sẽ thành hiện thực. Lời đồn chỉ là một chiêu trò quảng cáo, nhưng {playername} đột ngột vượt qua Kanazuchi. Eris, ngược lại, quan sát nhóm người tò mò thông qua Sheffield.
@@ -319,7 +319,7 @@ D型検体による願いが実行された結果、\n騎士クンまでもが�
 はっ……これは…………？=HÀ... Cái gì thế này...?
 あの、エリスさん。\nこれは、その……=Ưm, Eris-san? Đây là, ưm...
 ボクにも、大きなハッピーが伝わってきたぶぅ♪\nエリスさん、ものすごくハッピーだったぶぅ♪=Tớ vừa cảm thấy một cảm giác cực kỳ hạnh phúc~buu♪ Eris-san thật sự rất vui~buu♪
-……うぅっ……！=...Ugh...!
+……うぅっ……！=...Ư...!
 あぁ、行っちゃった……後で、しっかり謝ろう。\n話も聞かないとだし……=À, cô ấy đi rồi... Tớ sẽ xin lỗi sau. Tớ cần nghe cô ấy nói chuyện...
 無事、ビーチの人々を赤ちゃん化から戻した{playername}たち。\nシェフィは彼らに騒動の経緯を説明して、謝罪をするのだった。={playername} và bạn bè của cậu ấy đã an toàn và thành công trong việc đưa mọi người trên bãi biển trở lại trạng thái bình thường. Sheffy giải thích chi tiết về sự cố và xin lỗi mọi người.
 ──本当に、すみませんでした。\nまだこの現象は調査中で謎も多いんですけど、恐らく……=...Tớ thực sự xin lỗi về chuyện này. Hiện tượng này vẫn đang được điều tra và còn nhiều bí ẩn, nhưng có lẽ...
@@ -419,7 +419,7 @@ Chapter 3
 ふふ、よかった。\n一応、みんなちゃんと滑れてるわね。=Ha ha, tuyệt vời. Mình vui khi thấy mọi người trượt băng đều đặn.
 シェフィ。\nすべるの。すき？\nどして？=Sheffy. Trượt băng. Thích không? Tại sao?
 それは……ええっと……楽しいから？\n……あと体を通して、感情を表現できる気がするから、かな？=Đó là bởi... ừm... vui chứ? ...Ngoài ra, có lẽ vì nó khiến mình cảm thấy có thể thể hiện cảm xúc qua cơ thể mình?
-なる、ほど……？=Mình hiểu rồi...?
+なる、ほど……？=Ra vậy...?
 うーん……どう説明しようかしら……\nあ、でもこれも言葉で整理するいい練習ね……=Hừm... Mình không biết liệu có cách giải thích chính xác không... À, nhưng đây là bài tập tốt để diễn đạt suy nghĩ bằng lời...
 シェフィ。\nがんば。=Sheffy. Cố lên.
 ふふ。\n実は、言葉で整理する練習は、どうすれば美しく滑れるか\n試行錯誤している時に、気づいたことなの。=Hehe. Thực ra, em đã nhận ra tầm quan trọng của việc đặt suy nghĩ thành lời trong khi đang thử nghiệm cách trượt băng thật đẹp.
@@ -545,14 +545,14 @@ Chapter 4
 もう。むり……\nえんぷてぃ……=Trời ạ. Tôi không thể... Bụng đói...
 ……エネルギー切れ？\nありえない。\n荷物の中に、食料があったでしょう。=...Hết năng lượng? Không thể. Chắc chắn phải có đồ ăn trong hành lý của cô.
 たべた。\nぜんぶ。=Tôi ăn rồi. Hết.
-いつの間に……=Lúc nào...
+いつの間に……=Khi nào mà...
 もう。\nうごけ、ない……=Tôi không... Được...
 ……ここで待っていなさい。\n果物か何か、採ってくる。=...Chờ ở đây. Tôi sẽ đi hái vài quả hay thứ gì đó.
 うま、うま？\nんー……？=Ngon, ngon? Hmm...?
 むかむか。する……？\nのど。とおらない……=Tôi thấy. Buồn nôn...? Cổ họng. Không hoạt động...
 ……どうしたの？=...Giờ làm sao?
 ……\nなんでも。ない。=......Không có gì.
-そう……=Tôi hiểu rồi...
+そう……=Ra là vậy...
 ……\nたべない、の？=...Cô sẽ không. Ăn?
 必要ないわ。\nわたしは魔力があれば、飢えも渇きもないから。=Tôi không cần phải. Miễn là tôi có năng lượng ma thuật, tôi sẽ không cảm thấy đói hay khát.
 うそ……？=Nói dối...?
@@ -604,7 +604,7 @@ Chapter 4
 エリス。\nぎり。がたい。=Eris. Khó. Đọc.
 でも。\nだうと。=Nhưng. Nghi ngờ.
 …………話はお終い。\nさあ、上陸の準備をしましょう。=......Chúng ta đã nói xong. Giờ, hãy chuẩn bị hạ cánh.
-まって……=Chờ đã...
+まって……=Khoan đã...
 プレシア……手が震えている？=Precia... Tay cô đang run?
 ……ありがと。\nござい、ます。\nついてきて。くれて。=...Cảm ơn. Rất nhiều. Vì... đã theo tôi.
 ……『ありがとう』、か……="Cảm ơn", hử...?
@@ -626,7 +626,7 @@ Chapter 5
 ……あなた、何者なの……=...Cô là ai...?
 見ての通り……\nわたしは、『わたし』の夢の残影。=Như cô thấy... Tôi chỉ là một Bóng ma (Shadow) bị bỏ lại bởi "giấc mơ" của chính mình.
 戦いに敗れ消滅しかけた時、\n『わたし』の未練が『理想郷』の残骸に宿った。それが、わたし。=Khi trận chiến thất bại và "tôi" sắp biến mất, "nỗi hối tiếc" của tôi được đặt trong phần còn lại của "Elysium (Utopia)" của tôi. Đó là con người tôi.
-まさか──=Lẽ nào...
+まさか──=Có thể chăng...
 ありえない……\n理想郷は、完成しなかったはず……=Điều đó là bất khả... Utopia đó chưa bao giờ được hoàn thành...
 隔絶された空間、それが理想郷。\nわたしが宿ることで、辛うじて存在し続けていたの。\n未完成の残骸として。=Một không gian cô lập, đây là "thiên đường" (Utopia) của tôi. Nó bám víu vào sự tồn tại chỉ vì tôi vẫn còn trong đó... như một phần còn lại chưa hoàn thành.
 とはいっても残骸は残骸。\n再々構築の影響で、海岸に埋もれてしまって不具合ばかりだけど。=Dù sao, một phần còn lại vẫn chỉ là... một phần còn lại. Do tác động của việc xây dựng lại lặp đi lặp lại, nó đã bị chôn vùi dưới bãi biển này với đủ loại lỗi (glitches).
@@ -660,7 +660,7 @@ Chapter 5
 そっち。いけば。\nあえる？=Phía đó. Nếu tôi đi. Có thể. Gặp được chứ?
 でも……いくと。\nもどれない。きがする。=Nhưng... Nếu tôi đi. Không. Có thể quay lại.
 ……そしたら。\nエリス。ひとりぼっち？=...Và còn... Eris. Một mình?
-どうしよ……=Tôi nên làm gì...?
+どうしよ……=Tôi nên làm gì đây...?
 ん……\nことばで。せいり。=Ừm... Đặt. Thành lời.
 ……あのね。\nパパ。=...Này, Papa.
 ……\nわたし。むかむかして。\nエリスに。かみついた。=......Tôi cảm thấy ghê ghê bên trong. Vì vậy, tôi cắn Eris.
@@ -707,7 +707,7 @@ Chapter 5
 「はっ……」\n「はぁ、はぁ……」="Hah..." "Haa, haa..."
 よかった……\n二人とも、無事だったのね……=May mắn quá... Hai người an toàn...
 ここは危険……わたしのシャドウが現れた。\nこの海岸から脱出する必要がある。=Nơi này nguy hiểm... Shadow của tôi đã xuất hiện. Chúng ta cần phải thoát khỏi bãi biển này ngay lập tức.
-どういうことぶぅ……？=Chuyện gì đang xảy ra...?
+どういうことぶぅ……？=Chuyện gì đang xảy ra vậy...?
 みんな。\nにげる。よ。=Mọi người. Chạy đi.
 わたしが、逃がすわけがないでしょう……\n既に、ミネルヴァの力の残滓、その一部を手にした。\nハッキングコードによる不具合を修復し、理想郷を顕在化させてみせる。=Tôi sẽ không bao giờ để các bạn chạy trốn... Tôi đã có được một phần di tích của Minerva. Tôi sẽ sửa các lỗi do code hacking của cô gái đó gây ra và biến utopia của tôi thành hiện thực.
 

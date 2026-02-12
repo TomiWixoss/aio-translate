@@ -1,4 +1,4 @@
-{playername}です。=Mình là {playername}.
+{playername}です。=Tôi là {playername}.
 
 美食殿の面々は日常を取り戻しつつあった。そんな中、ペコリーヌは公務として、市民との交流をすることになったという。彼女の護衛役として、一同はルーセント学院へと期限付きの転入をすることに。=Các thành viên của Hội Ẩm Thực đang trở lại cuộc sống hàng ngày của họ. Với tư cách là nhiệm vụ chính thức, Pecorine đã quyết định tương tác với người dân. Với tư cách là vệ sĩ của cô ấy, mọi người đã quyết định chuyển đến Học Viện Lucent trong một khoảng thời gian giới hạn.
 カリザ、アゾールドらの襲撃を退けてから、しばらく経ったある日……=Một ngày, một thời gian sau khi Kariza, Azold, và những người khác đã đẩy lùi cuộc tấn công...
@@ -70,7 +70,7 @@
 …………\nクラスメート……？=.........Bạn học......?
 クラスメート……クラスメート……\n{playername}が、クラスメート……\n…………あたしの……っ？=Bạn học... bạn học... {playername} là bạn học của tôi... Bạn học... của tôi...?
 あ？\nなに、うれしいの？=Hả? Sao, vui hả?
-──はっ！？=Hả!?
+──はっ！？=Huh!?
 いまちょっとうれしそうだったわよね？\n{playername}とクラスメートになったとこ想像して\nうれしそうだったわよね？=Lúc nãy trông cô có vẻ hơi vui mà, phải không? Trông vui khi tưởng tượng mình sẽ trở thành bạn học với {playername}, đúng không?
 そ、そそんなこと……、あるわけないじゃないっ……？=K-K-Không thể... có chuyện đó...!
 机をくっつけて勉強！　とか一緒にお弁当！　とか\n美術の時間にお互いをスケッチ！　とか想像しちゃったのぉ！？\nやだ～～キャルったら～～アオハルってやつ～～？=Có tưởng tượng chuyện như “Học chung với bàn học!” hay “Đi ăn cơm bento cùng nhau!” không? Hay “Vẽ tranh cùng nhau trong tiết mỹ thuật!”!? Ối dàaaaaaa, Kyaru~ Đó là Aoharu~?
@@ -118,7 +118,7 @@
 ひっ……=Eek...
 …………あ…………=.........ah.........
 み、みなさん！\n今のは違うんです、その……！=E-Mọi người! Không phải vậy, ừm...!
-で、でも……=Nhưng...
+で、でも……=Nh-Nhưng...
 さん付けなんていらないですよ！\n呼び捨てでぜんぜんオッケーです♪=Cậu không cần gọi tôi bằng "san"! Tôi hoàn toàn không phiền nếu cậu gọi tôi bằng tên riêng♪
 うーんと、それじゃあ『ミソラちゃん』って呼ばせてくださいね。\nわたしは……ペコリーヌって呼んでもらえるとうれしいです！=Để tôi gọi cậu là "Misora" vậy. Tôi sẽ rất vui nếu cậu có thể gọi tôi là... Pecorine!
 あははっ、へんなのー！\nウケるー！=Ahaha, kỳ quá! Buồn cười quá!
@@ -217,7 +217,7 @@
 あ～楽しかった～♪\nヒデサイも一緒に教室でプチパーティーとか、\nペコっちゴチ！　ってかんじ？=À~ Vui quá~♪ Hidesai, cậu sẽ đi đến một buổi tiệc nhỏ trong lớp học với mình, phải không?
 ……うーん、うーん……=...Hừm, hừm...
 キャルっちもシェフィっちも面白いし、\nテンションおにアガるんですけど～……ってミサきち？\nさっきからどしたの？　お悩みちう？=Kyarucchi và Sheficchi đều vui tính quá, mình không thể không hào hứng. ...Khoan đã, Misakichi? Sao thế? Cậu lo lắng à?
-へ？\nなに、どゆこと？=Hả? Cậu đang nói gì vậy?
+へ？\nなに、どゆこと？=Hả? Anh đang nói gì vậy?
 ……チャンスだわ。\nかつてないチャンスよ、スズナ！=...Đây là cơ hội của tớ. Một cơ hội mà tớ chưa từng có, Suzuna!
 考えてみて。\nアタシたちが一年以内に、ランドソルでトップの成績にならなきゃ\nこのルーセント学院は廃校なわけだけど……=Hãy suy nghĩ đi. Nếu chúng ta không đạt điểm cao nhất ở Landosol trong vòng một năm, trường này sẽ bị đóng cửa...
 それがうまくいく可能性、どれくらいあると思う？=Cậu nghĩ khả năng đó là bao nhiêu?
@@ -343,7 +343,7 @@
 ははーん。恥ずかしいってワケ？=Haha. Vậy là xấu hổ?
 ち、ちがうっ……=K-Không phải vậy...
 へぇ～？=Hả~?
-そぉ～れっ！=Đúng rồi!
+そぉ～れっ！=Được rồi!
 もぉ～っ！=Thở dài!
 油断してるからよ=Đó là vì cậu bất cẩn
 待ちなさい！=Khoan!
@@ -353,10 +353,10 @@
 あっ=À!
 ……もぉ。そんなに見ちゃだめですよ★=...Thôi đi. Đừng nhìn tớ như vậy. ★
 キャルっちもミサきちも～\nもっとしっかり謝ったほうがよくなくない？=Kyarucchi, Misakichi, hai cậu nên xin lỗi cho đúng cách hơn
-……うっ……=...Ugh...
+……うっ……=...Ực...
 二人とも、プールが楽しくてはしゃぎすぎちゃったのね。\nでもダメよ、イヤがっている子をむりやり泳がせたりしちゃ。=Hai cậu chắc đã vui quá ở hồ bơi. Nhưng các cậu không thể ép một cô gái không thích bơi phải bơi.
 ほらほら、ゴメンナサイは～？=Này, xin lỗi về chuyện đó~?
-ご、ごめんなさい……=T-Tớ xin lỗi...
+ご、ごめんなさい……=T-Tôi xin lỗi...
 ……はぁ。\n別に、怒ってないわ。\n本当よ。=...Hah. Tớ không giận. Thật đấy.
 というか……私をからかうことで、\nキャルがクラスのみんなと話すきっかけを持てて。\nそれで仲良くなれるなら……まあ、いいかなって思ってたし……=Thực ra... Bằng cách trêu tớ, Kyaru đã có cơ hội nói chuyện với mọi người trong lớp. Nếu điều đó đủ để họ thân thiết... Tớ nghĩ là ổn...
 ずいぶん大人びた考え方するのねアンタ……！=Cậu nghĩ như người lớn thật đấy, phải không?!
@@ -367,7 +367,7 @@
 自分の気持ちとは関係なく、さっきみたいに、\n赤ちゃんみたいな言葉遣いになっちゃうってことですか……=Vậy là điều đó không liên quan đến cảm xúc của tớ, nhưng tớ sẽ kết thúc bằng cách nói như em bé, giống như trước...?
 なにそれー！\nギャップ萌えってやつ？　超ラブリーじゃん！=Ý đó là gì?! Đó không phải là gì gọi là gap moe sao? Siêu dễ thương luôn!
 ……はぅ。\n記憶を取り戻すよりも先に、\nまずはこっちを解決しなくちゃいけないかもしれないわね……=...Hau. Chúng ta có thể phải giải quyết vấn đề này trước khi lấy lại ký ức...
-そうなんですか？=Thật sao?
+そうなんですか？=Vậy ư?
 ええ。\nだってこのままじゃ……恥ずかしすぎて私、\n死んでしまいそうなんだもの……=Vâng. Cứ thế này... Tôi sẽ chết vì xấu hổ mất...
 2部 第4章 第5話=Phần 2 Chương 4 Tập 5
 楽しい日々はあっという間に過ぎていき、ついにペコリーヌたちのルーセント学院での交流も最終日を迎えることとなった。ところがホームルームの最中、突如クラスメイトたちが理性を失い暴徒と化してしまう。=Những ngày vui vẻ trôi qua trong chớp mắt, và Pecorine cùng các bạn đã chính thức bước vào ngày cuối cùng của kỳ giao lưu tại Học Viện Lucent. Tuy nhiên, giữa giờ chào, các bạn học sinh bỗng nhiên mất lý trí và biến thành những kẻ gây rối.
@@ -411,7 +411,7 @@
 そうですね。\n……でも、あなたの隣は\n空いていることってほとんどないですし。=Cậu nói đúng. ...Nhưng bên cạnh cậu chẳng còn chỗ nào rộng rãi.
 だから……えへへ。\n今できることを、いっぱいしなくっちゃ。=Vậy nên... Ehehe. Tôi phải làm mọi thứ có thể ngay bây giờ.
 というわけで、お邪魔します♪\nぎゅうぎゅう……☆=Vậy, xin phép làm phiền♪ Ép chặt...☆
-るんるるーん……♪=*uống ực ực*♪
+るんるるーん……♪=*tung tung*♪
 先生、さようならー☆=Tạm biệt, Sensei☆
 はい、さよならー♪=Được rồi, tạm biệt♪
 さようなら！=Tạm biệt!
@@ -445,7 +445,7 @@
 わぁー♪\nキャルっち、デレたー♪=Ồ♪ Kyarucchi, cậu đã thích tớ rồi♪
 うっさいっ！\nデレてないっつーの！=Câm miệng! Tớ không "dere"!
 うふふ。\nしんみりしちゃうのは、わかるけど……まだ、丸一日残ってるんだし。\n最後まで、素敵な学院生活にしましょうね。=Uhuhu. Tớ biết cậu đang buồn, nhưng... vẫn còn cả một ngày trước mặt. Hãy biến nó thành một cuộc sống học đường tuyệt vời cho đến tận cùng.
-ええ、こちらこそ♪=Vâng, cảm ơn nhiều lắm♪
+ええ、こちらこそ♪=Vâng, cảm ơn rất nhiều♪
 はい、イオ先生☆\n今日もよろしくお願いします♪=Vâng, Io-sensei☆ Tớ rất mong được làm việc với cậu một lần nữa hôm nay♪
 それじゃあみんな、ホームルームを始めるわよ。\nきりーつ！=Được rồi, mọi người, tiết học chính sắp bắt đầu. Đi thôi!
 ……あ、あらっ？\nみんな、どうしたのかしら？\nほら、起立よ。立って立って！=...H-Hả? Chuyện gì vậy, mọi người? Nào, đứng lên. Đứng lên!
@@ -572,7 +572,7 @@
 みんな、きりーつ★=Mọi người, Kiritsu★
 ……う、うぅぅぅっ……！=...U-Uuuu...!
 うおぉぉぉっ……！=Uwaaaaah...!
-ひゃああっ！？=Hyaaah?!
+ひゃああっ！？=Á?!
 机と椅子が、枯れ葉みたいに吹っ飛んだわ……！=Bàn và ghế của tôi bị thổi bay như lá khô...!
 教室、直ったばかりなのに～っ！=Tôi vừa mới sửa xong lớp học!
 こいつっ……\nクソふざけた見た目のくせに、とんでもない力よ……！=Tên này... Trông như rác rưởi nhưng mạnh kinh khủng...!
@@ -617,7 +617,7 @@
 そ、そうよ！\n大人のレディは、焦らないものでしょ！\nスズナはともかく、イオちゃんらしくないっ！=Đ-Đúng rồi! Phụ nữ trưởng thành không cần vội vàng! Suzuna thì khỏi nói, đây không phải phong cách của Io-chan!
 で、でも、早くしないとみんなが！\n{playername}くんたちだって、戦ってるんだし……！=N-Nhưng nếu không vội, mọi người sẽ! {playername} và những người khác cũng đang chiến đấu...!
 落ち着いて、先生……\n隠し場所、きっともう少し絞り込めるはずだから。=Bình tĩnh lại, Sensei... Tôi chắc chắn chúng ta sẽ thu hẹp được nơi ẩn náu thêm chút nữa.
-うーん、うーん……=Ừm, ừm...
+うーん、うーん……=Hừm, hừm...
 えっと、えーっと……=À, à...
 ああ、もうっ……！\n隠し場所なんて、ぜんぜん思いつかないわ！\nこういうとき、もっと頭が良かったらって思っちゃうわね……！=Ái chà, chết tiệt...! Mình không tìm được chỗ trốn chút nào! Lúc này mình ước gì mình thông minh hơn...!
 ……ねぇねぇ、ミソラっちって\nどうしてこんなことしたーって言ってたっけ？=...Này, này, Misoracchi, sao cậu làm vậy?
@@ -686,7 +686,7 @@
 キャルちゃんも、プリンセスフォームになってください！=Kyaru-chan, xin hãy hóa thành công chúa đi!
 しょうがないわね──ってはぁ！？\nいきなり何言ってんのよアホリーヌ！？=Thôi kệ! Mày đang nói cái gì vậy, thằng ngốc!?
 あの弾は、一方向にしか飛ばせないみたいですから！\nキャルちゃんもパワーアップして、\n左右から挟み撃ちにしちゃいましょう！=Những viên đạn đó chỉ bay được một hướng! Kyaru-chan, hãy tăng cường sức mạnh và bắt chúng trong cuộc tấn công kép từ trái và phải!
-で、でもっ……！=N-Nhưng...!
+で、でもっ……！=Nh-Nhưng...!
 わぁ★\nそれ面白そうですね！\n見てみたいです♪=Wow ★ Nghe hay quá! Tớ muốn xem! ♪
 うっさいわ！\n敵のくせにこっちのパワーアップ煽るんじゃないわよっ！=Câm miệng! Mày là kẻ thù, đừng thổi bùng lên sức mạnh tăng cường của tao!
 ……ていうか、そのっ……\n「なってください」って言われても……=...Thực ra, ừm... Ngay cả khi mày bảo tao trở thành công chúa...
@@ -695,7 +695,7 @@
 そうです！\nとりあえず、{playername}くんに\nぎゅーっと抱き付いてください！=Đúng rồi! Trước tiên, xin hãy ôm chặt {playername}!
 はああっ！？\nそ、そんなことできるわけないじゃない！=Hả?! Kh-Không có đời nào tao làm được chứ!
 じゃあ、{playername}くんから\nぎゅーっと？=Vậy, mày sẽ bắt đầu với {playername}?
-ぎゅーっ。=Ôm chặt.
+ぎゅーっ。=Bóp.
 ……ほ、ほら……\nこいつも、迷惑そうだしさ……？=...N-Này... Cô ấy trông có vẻ cũng đang làm phiền mày mà...
 もうっ！\nそんなこと言ってる場合じゃないですよ二人とも！=Trời đất! Đây không phải lúc để làm chuyện đó, hai người!
 こうなったら、二人まとめて……\nええーいっ☆\nぎゅぎゅぎゅー=Bây giờ đã đến nước này, hãy kết hợp hai chúng ta lại... Yaaaay☆Ôm chặt, ôm chặt, ôm chặt!
@@ -715,7 +715,7 @@
 そ、そうですね！\nもう１回ですよキャルちゃん！=Đ-Đúng rồi! Một lần nữa, Kyaru!
 もう１回♪\nハイもう１回♪=Một lần nữa. Được rồi, lần nữa
 う、うぅぅぅ……っ！=U-Uuuu...!
-チェンジ・プリンセスフォーーーーム！=Hóa thành Princess Form!
+チェンジ・プリンセスフォーーーーム！=Chuyển đổi Princess Form!
 やっぱりダメじゃないーーーっ！！！=Vẫn không được!!
 えええっ……！\nな、なにがだめなんでしょう……！？=Sao thế?! C-Có chuyện gì vậy?!
 あはっ、あはははっ！　あ～なるほどね！\nあたしの存在がダメってことね！\nはぁ～知ってた知ってた！　あはははははっ！=Aha, ahahaha! À, hiểu rồi! Vậy là cậu đang nói sự tồn tại của mình không đủ tốt! Haaah, tớ biết ngay mà! Ahahahah!
@@ -767,7 +767,7 @@
 ──からのォッ！=Vậy thì!
 超々々々々全力全開ッ！！\nプリンセスヴァリアントォ──ッッ！！！！=Mình sẽ dốc toàn lực!! Công chúa Dũng cảm!!!!
 わわっ★=Wawah★
-……はぁ、はぁ……っ！=...Hụ, hụ...!
+……はぁ、はぁ……っ！=...Haa, haa...!
 ぬいぐるみ、動かなくなったね……=Thú bông đã ngừng cử động rồi...
 今度こそ、倒した……のかしら？=Lần này, mình đã thực sự đánh bại hắn... hay sao?
 ミソラの奴も、ぬいぐるみの下敷きになって潰れたわよね。\nあのタイミングじゃ、避けられなかったと思うし……=Misora cũng bị dưới thú bông đè bẹp. Mình nghĩ lúc đó cô ấy không thể tránh được...
@@ -832,13 +832,13 @@
 ……い、一応……\n最後だし、言っておくわ。=...L-Lần cuối... nên tớ sẽ nói.
 ……短い間だったけど……=...Chỉ là một thời gian ngắn thôi, nhưng...
 あ、ありがとね！=C-Cảm ơn!
-……！\nええ！=...! Được!
+……！\nええ！=...! Vâng!
 元気でねー！=Bảo trọng nhé!
 ……行っちゃったねー=...Anh ấy đi rồi
 行っちゃったわねー=Anh ấy đi rồi!
 あっ！　っていう間だったけど、ちょー楽しかったね！\nミサキっち♪=À! Dù chỉ một chút, nhưng vui thật! Misakicchi♪
 そーね。\n……でも、なんか忘れてるような……=Ừ... Tớ chắc là cậu quên mất thứ gì đó rồi...
-へっ？\nナニを？=Hả? Cậu đang làm gì vậy?
+へっ？\nナニを？=Hả? Anh đang làm gì vậy?
 うーん、うーん……\n……あ。=Hừm, hừm... À.
 ……は、廃校の話……=...V-Về trường học bỏ hoang...
 あ。\n……ペコっちに、お願いするの……=À... Tớ xin cậu, Pecocchi...
@@ -907,7 +907,7 @@
 そうですか……\nお一人にしてしまって、大丈夫でしょうか……？=Vậy à... Để mặc cô ấy có ổn không...?
 まぁ……平気でしょ。\n今のあいつって、ペコリーヌや{playername}より\nしっかりしてると思うし。=Thì... Tôi chắc cô ấy sẽ ổn thôi. Tôi nghĩ cô ấy đáng tin cậy hơn Pecorine hay {playername} nói thật.
 ……たしかに、赤子同然だったときよりも\n振る舞いや言葉遣いは、\nしっかりなさっているとは思うのですが……その……=...Đúng là cô ấy cư xử và nói năng tốt hơn khi còn như một đứa trẻ, nhưng... ừm...
-その……？=Ưm...?
+その……？=Ừm...?
 シェフィさま……時折、どこか塞ぎ込んでいるご様子でもありました。\n記憶が戻らないのですから、当然かもしれませんが。\n……それに……=Cô Sheffy... Thỉnh thoảng, cô ấy dường như đang che giấu điều gì đó. Tôi cho rằng cũng đương nhiên thôi, vì cô ấy không nhớ được. ...Và...
 ……それに？=...Và?
 ……何やら、胸騒ぎがするのです。\nシェフィさまが、わたくしたちの元からいなくなってしまうような……=...Tôi cảm thấy bất an vì một lý do nào đó. Giống như cô Sheffy sắp biến mất khỏi phía chúng ta...
@@ -943,14 +943,14 @@
 遅かったじゃないの。\n忘れ物、あったの？=Cậu đến muộn. Cậu quên gì sao?
 ……うん。\n大事なもの、見つけたわ。=...Ừ. Tôi đã tìm thấy thứ mình đang tìm.
 それは、何よりでしたね。=Tôi rất vui khi nghe điều đó.
-……\n……\n……えっと……=...Ưm...
+……\n……\n……えっと……=...Ư ừm...
 みんな。\n実は、お願いがあるんだけど……=Mọi người. Thực ra, tôi có một yêu cầu...
 何よあらたまって。=Chờ gì nữa?
 えっと……そのね。=Ưm... Thì...
 そのぅ……=Ưm...
 わ、私も、このギルドに……\n【美食殿】に、入れてもらえないかしらっ……？=T-Tôi tự hỏi liệu tôi có thể gia nhập guild này... ...Gourmet...?
 今の私は、空っぽで、何もないけど……\nその代わり、これから……みんなと、思い出を作っていきたくて。\nだ、だから……！　お願い……！=Ngay bây giờ, tôi trống rỗng, và tôi chẳng có gì... Nhưng để đổi lại... Tôi muốn tạo ra ký ức với mọi người từ bây giờ. V-Vậy...! Làm ơn...!
-……えーっと……=...Ưm...
+……えーっと……=...Ư ừm...
 ……あっ……\nご、ごめんなさい。\n……ダメだったら……それで……=...À... T-Tôi xin lỗi. ...Nếu các bạn không thể... thì...
 だめだなんて、そんなことないですよ！\nただ、ちょっとだけ驚いちゃって……！=Không, không phải vậy! Tôi chỉ hơi ngạc nhiên...!
 てゆーか、まだ入ってなかったの？\nそっちのほうが意外なんだけど。=Nhân tiện, cậu chưa nộp đơn xin gia nhập sao? Điều đó còn ngạc nhiên hơn.
@@ -963,13 +963,13 @@
 ふふっ……それではさっそく、\nシェフィさまの歓迎会と参りましょうか。=Heehee... Vậy thì, chúng ta bắt đầu tiệc chào mừng cho cô Sheffy nhé?
 みなさまで、楽しい食卓を囲むことこそ……\nわたくしたちの、ギルド活動でございますから。=Mọi người cùng vui vẻ bên bàn ăn... là hoạt động guild tốt nhất của chúng tôi.
 わーいっ☆=Yaaay☆
-ただいま。=Tôi về rồi.
+ただいま。=Mình về nhà rồi.
 うう、私だって一生懸命やってたのよ……？=Ugh, tôi cũng đã cố gắng hết sức...
 それなのに……それなのにぃぃ～！　無職はいや～！=Vậy mà... vậy mà...! Tôi không muốn thất nghiệp!
 第ニ部五章　竜たちと金貨の坩堝=Chương 2: Rồng và nồi vàng
 こうなりゃもう、ヤケシュワよ～！=Đến lúc này thì coi như xong rồi!
 
-ふあぁ～……=*Ngáp*...
+ふあぁ～……=*ngáp*...
 みんな、どうしたの？\nさっきからあくびばっかりしているけど……=Sao vậy cả nhà? Các cô cứ ngáp không ngừng từ nãy giờ...
 えへへ、すみません……\n森がぽかぽか陽気すぎて、つい眠くなっちゃうんですよね～=Hehehe, xin lỗi nha... Rừng này ấm áp và tràn ngập ánh nắng quá, em không thể không buồn ngủ~
 陽気のせいだけじゃなくて、\nお昼におなかいっぱい食べすぎたのも原因よ……\nペコリーヌ、あんたが人の皿にどんどん載せてくから……！=Không chỉ vì không khí vui vẻ đâu, còn vì trưa nay em ăn quá no... Pecorine, cô cứ đổ đồ ăn vào chén người ta hoài mà!
@@ -977,7 +977,7 @@
 うぅっ！　だ、だって……！\nこの森の魚も果物も、その……\nすっごく……おいしかったんだもん……=Ugh! Nh-Nhưng...! Cá và trái cây trong rừng này là, ừm... thật sự rất... ngon...
 そうですね。わたくしもおいしそうに食べる主さまにつられて、\nたくさん食べてしまいました……\nこれほど実り豊かな森は、とても希少です。=Đúng rồi. Bản thân ta cũng ăn khá nhiều, theo gương chủ nhân... Rất hiếm khi tìm được một khu rừng trù phú như vậy.
 エルピス島の開拓民も、よく食料調達しにくるって話だものね。\nだからこそ、この森を占拠してしまった魔物を\n撃退しなくちゃいけないんだけど……=Nghe nói những người định cư trên Đảo Elpis cũng thường đến đây lấy thức ăn. Chính vì vậy chúng ta phải đánh bại những quái vật chiếm đóng khu rừng này, nhưng...
-ふあぁ～あ……=*Ngáp*...
+ふあぁ～あ……=*ngáp*...
 今は少し、休んだほうがよさそうね……\n……あら？　{playername}、どうしたの？\n突然、地面に座り込んで……眠くなっちゃったのかしら？=Tôi nghĩ chúng ta nên nghỉ ngơi đã... Hả? Sao vậy, {playername}? Cậu đột nhiên ngồi xuống đất...và thấy buồn ngủ à?
 そのようですね。それに、ここは……\nちょうど木漏れ日が差し込んでいるのですね。\n主さまのお隣、ぽかぽかして心地よいです……=Có vẻ là vậy. Và ở đây... ánh nắng xuyên qua tán cây. Ấm áp và dễ chịu bên cạnh chủ nhân...
 本当ですか？　わたしも入れてくださいっ。\nむぎゅ～……☆=Thật sao? Cho em vào với. Mừ~......☆
@@ -1033,7 +1033,7 @@
 う、うん。\n……まだ、半分かぁ……=Ừ-Ừ... Bây giờ mới được một nửa thôi...
 う、うん……\nこうしているあいだにも、【レイジ・レギオン】の人たちが、\nまた騎士クンを襲ってくるかもしれないし……=Ừ-Ừ... Trong khi chúng ta làm việc này, người của Rage Legion có thể tấn công cậu lần nữa...
 気がかりなのはわかるけど……\n旅立つ前にいろいろと用意はしてもらったし。\n片道だけど、帰還するだけなら魔法で一瞬のはずだよ。=Tôi biết cậu lo lắng, nhưng... cậu đã chuẩn bị rất nhiều thứ cho chúng tôi trước khi rời đi. Đây là chuyến đi một chiều, nhưng nếu chúng ta chỉ về nhà, chúng ta nên có thể dùng ma thuật trong tích tắc.
-そ、そうだよね……=Ừ-Ừ... Cậu nói đúng...
+そ、そうだよね……=Đ-Đúng vậy...
 ひとまずは、ソルオーブ集めに専念しよう？\nそれがあたしたち【トゥインクルウィッシュ】の、\n目的のひとつなんだもん。=Trước mắt, hãy tập trung thu thập Sol Orb. Đó là một trong những mục tiêu của Twinkle Wish.
 う、うん。\nそうだね。\nソルの塔の一番上に登って、確かめるためにも……=Ừ-Ừ. Cậu nói đúng. Chúng ta cần leo lên đỉnh Tháp của Sol để tìm ra...
 レイさ～ん……！\nなんだか、胸が痛いよぉ～っ！=Rei...! Tại sao ngực tôi lại đau?
@@ -1051,7 +1051,7 @@
 ね、ねぇ……二人とも、どうしたの？\nなんだか最近、様子がおかしいような……=N-Này... Hai người sao vậy? Dạo này hai người hành động lạ...
 ……ご、ごめんね。\n準備ができたら、ちゃんとお話しするから……=...T-Tôi xin lỗi. Tôi sẽ nói khi tôi sẵn sàng...
 少しの間は、私たちのことを信じてほしい。\n頼むよ……=Tôi muốn hai người tin tưởng chúng tôi một chút. Làm ơn...
-う、うん……=Ừ-Ừ...
+う、うん……=D-Dạ...
 とにかく今は、少しでも早く……ソルオーブを集めなくっちゃね。=Dù sao, chúng ta cần thu thập Sol Orb càng nhanh càng tốt.
 でも……あと６個かぁ。\n時間がかかりそうだね。=Nhưng... còn sáu cái nữa, hả? Có vẻ sẽ mất một thời gian.
 ああ。\nこの先で接触する『彼女』に……\nすんなりと、協力してもらえるといいんだが。=Ừ. Mong là cô ấy có thể giúp chúng ta...
@@ -1086,7 +1086,7 @@
 じゃあじゃあ……ペコさんを倒して、\n覇瞳皇帝さんを取り返そう！　とかは？=Vậy thì... hãy đánh bại Pecorine và giành lại Kaiser Insight! Hay gì đó tương tự?
 それは安直にもほどがあろうよ。\nよく考えてみろ。\nもしワタシがペコリーヌを倒してしまえば、そのときは……=Đâu có rẻ như vậy. Hãy suy nghĩ kỹ đi. Nếu ta đánh bại Pecorine, thì...
 このワタシが、プリンセス・クリスティーナに。\nランドソルという国の、王になってしまうんだぞ？=Ta, Công chúa Christina, sẽ trở thành vua của vùng đất The Landosol, ngươi biết chứ?
-そ、そうなの……？=T-Thật sao...?
+そ、そうなの……？=Th-Thật sao...?
 そうだとも。陛下は力ずくでプリンセスの座を奪い、\nペコリーヌは力ずくで陛下を倒し、それを取り返した。\nならばワタシがペコリーヌを倒したら、今度はワタシがプリンセスだ。=Đúng vậy. Bệ hạ đã chiếm lấy vị trí công chúa bằng vũ lực, và Pecorine đã lấy lại bằng vũ lực. Nếu ta đánh bại Pecorine, ta sẽ là công chúa.
 そ、そういうものか……？=V-Vậy là vậy sao...?
 強壮な兵隊や、歌って踊る少女たちの集団ならともかく……\n数えきれんほどの老若男女の上に立ち、導かねばならん義務を負うなど、\nワタシ向きでないにもほどがある。まっぴらごめんだよ。=Đó sẽ là một chuyện nếu là một nhóm quân đội mạnh mẽ hay những cô gái ca hát nhảy múa, nhưng... Đứng trên vô số người đàn ông và phụ nữ mọi lứa tuổi, mang trên mình trách nhiệm phải lãnh đạo họ, có một giới hạn về mức độ không phù hợp của ta. Ta rất xin lỗi.
@@ -1129,7 +1129,7 @@
 え、えーっと……\nクリスさんと戦ったのって、\nこれが初めてなはずだよね……？=Ư-Ưm... Đây mới là lần đầu tiên tôi chiến đấu với Chris, phải không...?
 「ふーむ……？」\n「うーん……？」="Hmm...?"「Hmm?」
 やあああああ！！　とりゃっ！=Yaaaaah!! Toryah!
-おわっ？！=Whoa?!
+おわっ？！=Ối dạ?!
 当たらない～！！=Tôi không đánh trúng cô ấy được!!
 これが、『誓約女君』の力か……=Vậy đây là sức mạnh của Regina Geas...
 フンッ、さすがに手の内は透けているか=Hmph, tôi nghĩ tôi có thể nhìn thấu mưu mẹo của cô.
@@ -1137,7 +1137,7 @@
 ふむ……例えば……=Hmm... Ví dụ...
 はあああ！=Haaaaah!
 いや、まだだよ♪=Không, chưa được♪
-えええええ～！！=Cái gì cơ?!
+えええええ～！！=Sao cơ?!
 私の魔法を利用して！？=Dùng ma thuật của tôi?!
 なんて戦いのセンスだ……=Cảm giác chiến đấu thật đỉnh cao...
 なんの。センスというのはな……='Cảm giác' là sao?
@@ -1149,7 +1149,7 @@
 説得材料……クリスティーナさんのお目当ての、覇瞳皇帝さんは……\nもちろん悪いひとで、強いひとだから。\n本当に釈放しちゃうわけにはいかないと思うけど……=Vật liệu thuyết phục... Kaiser Insight mà Christina tìm kiếm... tất nhiên là một kẻ xấu và một người mạnh. Tôi thực sự không thể để cô ấy đi, nhưng...
 ……っていう感じで……\n大変だったんだ、クリスティーナさんの説得。\nううん、まだ大変な最中かなぁ。=...Cảm giác như thế... Thật sự rất khó để thuyết phục Christina-san. Không, tôi nghĩ cô ấy vẫn đang ở giữa chừng.
 {playername}は、\n通信魔法のネックレスを介してユイからここ数日の顛末を聞いていた。={playername} đã nghe chi tiết về vài ngày qua từ Yui thông qua chiếc vòng cổ ma thuật liên lạc.
-……そうだね。=...Đúng vậy.
+……そうだね。=...Cô nói đúng.
 あっ、クリスティーナさんのことだったよね。\nわたしたちのソルオーブ集めには、\nなんとか協力してもらえそうかなって。=Ồ, cậu đang nói về Christina, phải không? Tôi đang tự hỏi liệu cô ấy có thể giúp chúng ta thu thập Sol Orbs được không.
 本当の目的は、協力してもらうこと自体じゃなくて、\nクリスティーナさんを、ランドソルから遠ざけておくことだけど……=Mục tiêu thực sự của tôi không phải là để cô ấy giúp tôi, mà là để giữ Christina-san xa khỏi The Landosol, nhưng...
 だって【レイジ・レギオン】が、ランドソルと七冠を狙ってるなら。\nネネカさんの言う通り、狙いのものが全部同じ場所にあるより、\nばらけさせておいたほうが、いいと思うし。=Ý tôi là, nếu [Rage Legion] nhắm vào The Landosol và Seven Crowns, thì tôi nghĩ sẽ tốt hơn nếu để chúng tan tác mọi thứ chúng theo đuổi, thay vì để tất cả cùng một chỗ, như Neneka đã nói.
@@ -1157,7 +1157,7 @@
 それにクリスティーナさんが、手ごわい敵の存在を知ったら、\n独りで突っ込んでいっちゃいそうだもんね。=Hơn nữa, nếu Christina phát hiện ra một kẻ thù đáng gờm, cô ấy có lẽ sẽ chỉ một mình xông vào thôi.
 ユイたちが、アイドル……？=Yui và những người khác là idol...?
 えっ？\nちゃ、ちゃんと断ってるよ？\nクリスティーナさん、ぜんぜん諦めてくれないけど……=Hả? T-Tôi đang từ chối. Christina không chịu bỏ cuộc chút nào, nhưng...
-……\n……\nで、でも……=...Nh-Nhưng...
+……\n……\nで、でも……=...N-Nhưng...
 騎士クンが、見たいっていうなら……\n騎士クンだけのアイドルだったら、なってもいいかも、\n……なんて……=Nếu cô muốn xem... Nếu chỉ là cô trở thành idol, thì có lẽ sẽ ổn...
 ……ふふ。なんだか、おかしいね。\nこうして顔が見えない距離でお話してると、\nいつもは言えないことまで言えちゃいそうだよ……=...Heheh. Có chút kỳ lạ thật. Khi chúng ta nói chuyện ở khoảng cách mà tôi không thể nhìn thấy mặt cô như thế này, tôi cảm thấy như mình sẽ có thể nói ra điều gì đó mà tôi chưa bao giờ có thể nói bình thường...
 えっ！？\nそ、それは……そのっ……=Hả?! Ư-Ưm... ừm...

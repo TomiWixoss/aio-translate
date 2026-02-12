@@ -12,7 +12,7 @@ r:"^プレイヤーID:([0-9 ]+)$"=ID người chơi: $1
 サポートキャラにはLv10以上のキャラを設定できます。=Bạn có thể đặt nhân vật cấp 10 trở lên làm Nhân vật Hỗ trợ.
 サポートキャラを設定しておくと、マナを獲得できます。=Thêm Nhân vật Hỗ trợ để bắt đầu kiếm Mana!
 フレンド申請しているプレイヤーです。=Đã gửi yêu cầu kết bạn.
-サポート時間=Thời gian
+サポート時間=Thời Gian
 獲得マナ=Mana
 
 

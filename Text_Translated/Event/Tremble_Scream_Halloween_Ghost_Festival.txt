@@ -39,7 +39,7 @@
 いいですね！　二人で仮装してハロウィンを楽しみましょう！=Tuyệt vời! Hãy mặc đồ và cùng nhau tận hưởng Halloween!
 あ、いや、私はそういうのは……普通に見るだけじゃダメかな？=Ồ, không, còn tôi thì... chỉ xem bình thường có đủ không?
 え〜っ、レイ様に似合う衣装が何通りも思い浮かんでいるのに。\nどうしても……ダメですか？=Ồ không, mặc dù tôi có thể nghĩ ra rất nhiều bộ trang phục phù hợp với Miss Rei. \nThật sự là không thể...?
-い、いやぁ……=Ừ-ừm...
+い、いやぁ……=K-Không...
 あれ？　{playername}さんじゃないッスか。\nこんなところで会うなんて奇遇ッスね！=Hả? Không phải {playername} đấy sao? Thật là trùng hợp khi gặp cậu ở đây!
 あなたは……【王宮騎士団（NIGHTMARE）】の\nマツリさん、でしたっけ？=Cô là... Matsuri từ [NIGHTMARE], đúng không?
 わわっ！？　カルミナのツムギさんじゃないッスか！\nカルミナの出演予定はなかったはずですけど……あ！\nひょっとしてシークレットゲストッスか！？=Ồ! Đó là Tsumugi từ Carmina phải không?! Carmina không được xuất hiện mới phải... À! Có thể cô ấy là khách mời bí mật?!
@@ -204,7 +204,7 @@
 このお化け屋敷も悲鳴を食べるためにがんばってるんだぜ！=Ngôi nhà ma này cũng đang cố gắng 'nuốt chửng' tiếng hết đấy, các cậu biết không!
 全然怖くないお化け屋敷でしたけどね。=Đó là một ngôi nhà ma chẳng đáng sợ chút nào, các cậu biết không.
 うん……毎年毎年全然怖がってもらえなくて。\nだからボクたちずーっと一人前になれないんだ……\nどこがいけないのかな……？=Hừm... Mỗi năm, chúng tôi chẳng bao giờ sợ cả. \nChính vì vậy, chúng tôi chưa bao giờ có thể trở thành ma trưởng thành... \nTôi tự hỏi chuyện gì đã xảy ra...?
-そう言われても……=Dù cậu có nói thế...
+そう言われても……=Ngay cả khi cô nói thế...
 もう他のお化けたちに馬鹿にされるのは嫌なんだ！\nお願い！　ボクたちのどこがダメなのか教えて！=Tôi chán bị các quái vật khác chế giễu rồi! \nLàm ơn, hãy nói cho chúng tôi biết chúng tôi có gì sai!
 いいんですか？\nそういうことはお客さんに聞くものじゃないと思いますよ。\n少しは自分たちで考えたらどうなんですか？=Cậu chắc chứ? Tôi không nghĩ đó là thứ cậu nên hỏi khách hàng. Sao không tự mình suy nghĩ xem?
 考えた結果が……=Kết quả của những suy nghĩ của tôi là...
@@ -219,14 +219,14 @@
 そして、イタズラ悪魔のエディさん。\nあなたはワケの分からないいたずらをしないで、\nきちんと怖い道を用意してください。=Và, quỷ con nghịch ngợm của tôi, Eddie. \nHãy kiềm chế việc đùa nghịch không có lý do, \nvà chuẩn bị một con đường đủ đáng sợ.
 おう、分かったぜ！=Ồ, tôi hiểu rồi!
 最後にマシューさん。=Cuối cùng, Matthew.
-ゴクリ……=*Nuốt nước bọt*...
+ゴクリ……=*nuốt nước bọt*...
 あなたは姿を現す演出を工夫してください。\n活きる見せ方はいくらでもあると思いますよ。=Hãy nghĩ ra những cách sáng tạo để bản thân nổi bật. Có vô số cách để tạo ấn tượng sống động.
 はい、以上です。=Vâng, được rồi.
 それじゃあ、私たちはこれで……=Vậy thì, với cái này...
 ま、待って！！=K-Khoan!!
 なんですか？　言えって言われたから言っただけですよ。=Sao thế? Tôi chỉ nói vì cậu bảo tôi nói.
 あの、さ……ボクたちを怖くするの、手伝ってくれないかな？=Ưm, này... Cậu có thể giúp chúng tôi không bị sợ không?
-はい……？=Vâng...?
+はい……？=Dạ...?
 おねえちゃん、すごくいいアドバイスをくれたでしょ！\nボクたちだけじゃ全然気付けなかったよ……=Chị, chị đã cho chúng em những lời khuyên tuyệt vời như vậy, phải không?! \nChúng em sẽ không bao giờ tự mình nhận ra...
 そこは自分で気付きましょうよ。\nだいたいなんで私がそんなこと……=Cậu nên tự mình nhận ra. \nTại sao tôi lại...
 ボクたち悲鳴を食べて一人前のお化けになりたいんだ！\nそのためには怖くならなきゃいけないんだ！=Chúng tôi muốn ăn tiếng hét và trở thành ma trưởng thành! \nĐể làm được điều đó, chúng tôi phải trở nên đáng sợ!
@@ -276,7 +276,7 @@
 ヒューズ=Hughes
 キミたち霊界から来たの？=Cậu đến từ thế giới tinh linh à?
 ビクター=Victor
-お化けたち=Ma quỷ
+お化けたち=Ma
 どうですか、騎士さん=Cậu nghĩ sao, Kishi-san?
 私の衣装のコンセプトは吸血鬼です=Trang phục của tôi mang concept là ma cà rồng.
 ところどころにレイ様みたいなモチーフをあしらってみたんです=Tôi đã cố trang trí nó với họa tiết giống cô Rei ở nhiều nơi.
@@ -310,7 +310,7 @@
 騎士さんもそう思いますよねっ！？=Cậu cũng nghĩ vậy sao, Kishi-san?!
 あ、やっぱりあなたの感想はいいです=À, như mong đợi, phản hồi của cậu tốt.
 待ってくれ。彼の感想も聞いてみたい=Chờ tôi. Tôi cũng muốn nghe ý kiến của anh ấy.
-ど、どうだろうか？=Sao... cậu nghĩ sao?
+ど、どうだろうか？=K-Không biết ý bạn thế nào?
 おかしくはないかい？=Cậu không thấy kỳ lạ sao?
 似合ってる=Nó phù hợp với cậu.
 そうか……ありがとう=Thế à... Cảm ơn.
@@ -536,7 +536,7 @@
 怖いならボクの近くに来なよ。明るいよ？=Nếu sợ, sao không đến gần tôi hơn? Ở đây sáng lắm, biết không?
 気持ちはありがたいけど、その、遠慮しておくよ。=Tôi cảm ơn ý tốt, nhưng, ừm, tôi từ chối.
 静かに。獲物が来たみたいですよ。=Im lặng. Dường như con mồi đã đến.
-えもの……？=Đây là cái gì vậy...?
+えもの……？=Đây là chuyện gì vậy...?
 いったいどんな仕事を受けたんだ……=Cậu nhận loại công việc gì vậy...
 がははは！　お化けが怖くて悪事が働けるかってんだ！\nおい、墓石の一つでも持って帰るぞ！=Hahaha! Cô nghĩ tôi có thể làm chuyện ác vì sợ ma sao! Này, tôi sẽ mang một tấm bia mộ này về nhà!
 ちょ、ちょっと親分！　呑み過ぎですって！\nそんなことしたら罰があたりやす！　帰りやしょうぜ！=Này, boss! Uống nhiều quá rồi! Uống thế này sẽ bị trừng phạt đấy! Về nhà thôi!
@@ -564,7 +564,7 @@
 あっ、ちょちょっと待て！　わ、悪かった！\n二度と、二度とこんなことしないから～～～～～～！！=Khoan, khoan một chút! T-Tôi xin lỗi! Tôi hứa, tôi hứa sẽ không làm chuyện như thế nữa~~~~~~!!
 実は俺もおばあちゃんっこなんだよ～～～！=Thực ra, tôi cũng là con trai bà ngoại~~~!
 あ！　悲鳴だ！　食べよう、ヒューズ！　はむっ！=Á! Một tiếng hét! Đi ăn thôi, Hughes! *cắn*
-あむ！=Ực!
+あむ！=Amph!
 もぐもぐもぐ……=*Cắn cắn cắn*...
 悲鳴ってあんな風に食べるんですね。=Chúng ăn tiếng hét như vậy, hả?
 霞を食んでるようにしか見えないね。\n確かに、あれなら人に危害は及ばなさそうだ。=Có vẻ như chúng đang ăn sương mù. Thật sự không có vẻ gì là sẽ gây hại.
@@ -723,7 +723,7 @@
 あはは、いいね。雰囲気出てるよ。=A ha ha, tuyệt thật. Thật tạo không khí.
 あなたはいつもそう……私を置いて他の人とばかり……\n私だって一緒に遊びたいのに……=Anh luôn... bỏ tôi lại và chỉ chơi với người khác... Ngay cả tôi cũng muốn chơi cùng...
 ん？　待てよ？\nその人、たち……？=Hm? Khoan đã. Những người đó là ai...?
-お待たせ！=Xin lỗi vì để anh chờ lâu!
+お待たせ！=Xin lỗi để bạn chờ lâu!
 わあっ！？=Ồ!
 なんで怖がるの？　ここまで一緒に来たじゃないか！\nほら、キミたちも遊ぼう！　みんなで遊べば楽しいよ！\nず～～っと、永遠に、ね。=Tại sao lại sợ? Chúng ta đã đi cùng nhau đến tận đây rồi mà, phải không? Nhìn kìa, cùng chơi nào! Chơi cùng nhau vui lắm! Mãi mãi, mãi mãi.
 わ、わあぁあああああ！！　なんだこれ！？\nくるな！　こっちにくるなぁあああ！！=Ố-Ốaaaaaaa!! Cái gì vậy!? \nĐừng lại gần! Đừng đến đâyyyy!!
@@ -861,7 +861,7 @@
 エディとビクターがお昼を買いに行って帰ってきてないんだ。\nゴーストファーザー、二人を見なかった？=Eddie và Victor đi mua cơm trưa rồi chưa về. Ghost Father, ngài có thấy chúng không?
 ん？　いや、見てねぇなぁ。\n見かけたら声を掛けておこう。=Hả? Không, tôi không thấy chúng đâu.\nNếu thấy, tôi sẽ gọi chúng lại.
 すみませんが、よろしくお願いします。=Xin lỗi, nhưng cảm ơn trước.
-任せときな。=Giao cho tôi.
+任せときな。=Để tôi.
 すみません、すみません。\n事情によりお化け屋敷は臨時休業中なんです……=Xin lỗi, xin lỗi. Do hoàn cảnh,\nnhà ma sẽ tạm thời đóng cửa...
 えぇ、楽しみにしてたのにー=Ôi không, tôi đang mong được vào lắm...
 仕方ないよ。もう一つのお化け屋敷に行こう。\nあっちの方がもともと有名じゃないか。=Không thể nào khác được. Chúng ta đi nhà ma khác thôi.\nNhà ma đó vốn nổi tiếng hơn mà?
@@ -976,7 +976,7 @@
 あ、ああ……=À, à...
 どうしたんです？　まだ具合が悪いんですか？=Sao thế? Các cậu vẫn còn thấy khó chịu à?
 ボクたち、迷惑かけちゃったから……\nもうお化け屋敷、できない、よね……=Chúng tôi gây rắc rối rồi...\nChúng tôi không thể làm nhà ma nữa, phải không...
-そんなことない！=Hoàn toàn không phải vậy!
+そんなことない！=Hoàn toàn không đúng!
 キミたちは……=Tất cả các ngươi...
 私たち見てたよ！\nあなた、あの怖いお化けに向かっていったでしょ！=Chúng tôi đã xem các cậu!\nCác cậu đã đi về phía con ma đáng sợ đó, đúng không?
 すっげぇかっこよかったぜ！=Nó cực kỳ ngầu, man ơi!
@@ -1051,7 +1051,7 @@
 こら、最後まで油断しないでください！=Này, xin đừng rời sự cảnh giác cho đến tận phút cuối!
 後でみっちりレッスンしなきゃですね！=Để ta có một bài học kỹ lưỡng sau này!
 今です！　レイ様=Bây giờ! Cô Rei
-任せろ！=Giao cho ta!
+任せろ！=Để tôi!
 はぁああああああああ！=Haaaaahhh!
 お化け屋敷も最後の営業を終え、お化けたちも霊界に帰るときが来た。また来年、絶対に会いに来ると言うお化けたちと約束を交わし、ツムギたちは立派に成長した彼らを見送るのだった。=Ngôi nhà ma đã hoàn thành nhiệm vụ cuối cùng và đã đến lúc những bóng ma trở về thế giới tinh linh. Họ đã hứa với những bóng ma rằng chắc chắn sẽ quay lại năm sau, và Tsumugi cùng những người khác tiễn biệt những người đã trưởng thành rực rỡ.
 楽しい世界へ案内するッスよ～♪=Ta sẽ dẫn ngươi đến một thế giới vui vẻ~♪
@@ -1105,7 +1105,7 @@
 そこは、ほら……=Thế đấy, cậu thấy đấy...
 困ったときはツムギちゃんにお願いするね！=Khi gặp khó khăn, hãy nhờ Tsumugi giúp đỡ, nhé!
 いやです。=Tớ không muốn
-え～～～！=Ôiii!
+え～～～！=Ôi trời!
 ほんとは手伝う気満々ッスよね？=Cậu thực sự nhiệt tình giúp đỡ vậy sao?
 でないと来年の心配なんかしないよね。=Nếu không, chúng ta sẽ không phải lo lắng về năm sau, phải không?
 はぁ……そんなこと言ったら\nこの子たちがサボっちゃうかもしれないじゃないですか。=Ha... Nếu cô nói thế, cô Rei, những đứa trẻ này có thể sẽ bắt đầu lười biếng đấy, cô biết không.
@@ -1128,7 +1128,7 @@
 来なかったら化けてでるッスよ！=Nếu các cậu không đến, tớ sẽ biến hình và xuất hiện, bạn ơi!
 また会いましょう。=Hãy để chúng ta gặp lại nhau.
 絶対会いに来るよ！　それじゃあ……=Tớ chắc chắn sẽ đến thăm các cậu! Vậy thì...
-またね～！=Hẹn gặp lại sau~!
+またね～！=Hẹn gặp lại~!
 はい、また……=Vâng, một lần nữa...
 行っちゃったッスね。=Các cậu đã đi rồi, phải không?
 ふぅ……ようやく終わってせいせいしますよ。\nまったく、今年のハロウィンはいろいろ大忙しでした。=Phew... Cuối cùng cũng xong và cảm thấy nhẹ nhõm. \nÔi trời, lễ Halloween năm nay khá là hỗn loạn.
