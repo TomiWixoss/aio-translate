@@ -1,1 +1,0 @@
-r:"^(\[[0-9A-F]{6}\])?次元断層のPHASE (\d+)をクリアしよう(\[-\])?$"=$1 đã hoàn thành Phase $2 trong Dimension Fault $3

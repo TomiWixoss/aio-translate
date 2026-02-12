@@ -1,8 +1,0 @@
-r:"^サマーゲームリゾート([0-9\-\(\)\w （）]*)$"=Resort Trò chơi Mùa hè $1
-海将タツノココマンダー=Đại tướng Tatsunoko
-はじけるバカンスガール=Cô gái Kỳ nghỉ Chiến đấu
-オープニング=Mở đầu
-集うゲーム参加者達=Người tham gia trò chơi tập hợp
-気持ち、解き放って=Cảm xúc, giải phóng
-支配人=Huấn luyện viên
-必勝法は耳にあり=Phương pháp chiến thắng nằm ở tai

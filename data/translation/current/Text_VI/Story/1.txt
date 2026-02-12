@@ -1,4 +1,0 @@
-sr:"^([べ-ヺー＆＝]+)(（.{2,10}）)?のステータスアップボーナス$"=Bonus tăng trạng thái của $1$2
-初回閲覧報酬=Phần thưởng xem lần đầu
-ストーリー閲覧報酬として下記を受け取りました。=Nhận được phần thưởng sau khi xem câu chuyện.
-ストーリー閲覧報酬として下記を受け取りました=Nhận được phần thưởng sau khi xem câu chuyện.
