@@ -1,0 +1,266 @@
+必ず（かならず）保護者（ほごしゃ）の許可（きょか）をもらってから購入（こうにゅう）してください。保護者（ほごしゃ）の許可（きょか）をもらいましたか？=Please be sure to get permission from your guardian before purchasing.\nHave you got permission from your guardian?
+未成年（みせいねん）の方（かた）へ=To a minor
+
+今回のクランバトルの調子はどうかしら？戦績を見れば、次のバトルに活かせるかもしれないわ=How is this Clan Battle going so far? If we look at the results, we might be able to use them to our advantage in the next battle.
+保護者（ほごしゃ）の許可（きょか）について=About parental permission
+ジュエルを購入（こうにゅう）するときには保護者（ほごしゃ）の許可（きょか）をもらってください。=When purchasing Jewels, please obtain permission from a parent or guardian.
+コラボ商品販売のお知らせ=Notice of collaboration merchandise sales
+詳細はこちら=Click here for details
+ぐふ、ぐふふ…あ、妄想してるだけなのでお気になさらず…でゅふふふ…=Guh, guhuhu... Ah, I'm just daydreaming, so please don't mind me... dyuhuhuhu...
+ハイターイ！　これからよろしく！私と一緒に歌って踊るさ～！=Haitai! Nice to meet you! Let's sing and dance together~!
+
+
+
+ジュエルショップ=Jewel Shop
+ジュエル・その他購入=Jewels/Other Purchases
+所持ジュエル確認=Check Jewels Held
+マナ購入=Mana Exchange
+所持マナ確認=Check Mana Held
+収納BOX拡張=Expand Storage
+スタミナ回復=Recharge Stamina
+価格=Price
+商品内容の詳細=Details
+r:"^毎日更新 ジュエル ([0-9]+)個$"=Daily Update Jewel $1
+r:"^([1-9])回限定 ジュエル ([0-9]+)個$"="Limited Jewels $2 ($1 left)"
+r:"^([2-9])回限定$"="Limited!\n$1 times only"
+1回限定=Limited!\n1 time only
+
+収納BOX拡張=Expand Storage
+ギルドハウスの収納BOXを拡張します。=Expand the storage of your Guildhouse.
+収納数=Storage Limit
+拡張する数=Expand by
+消費ジュエル=Jewel Cost
+
+スタミナ回復量=Stamina Heal
+スタミナ回復=Recharge Stamina
+スタミナを回復します。よろしいですか？=Heal Stamina?
+
+---Storage---
+収納数：=Storage:
+[3C404E]収納BOXの収納数を拡張しました。[-]=[3C404E]The capacity of the Storage was expanded.[-]
+収納BOX拡張結果=Expand Storage Results
+
+---actual jewel shop---
+[FF7C4E,D62146]未購入の商品はありません。[-]=[FF7C4E,D62146]There is nothing available to purchase.[-]
+スペシャルショップ=Special Shop
+購入済み=Purchased
+資金決済法に基づく表示=Fund Settlement Law
+スフィアパック=Sphere Pack
+コラボ記念 専用装備グロウスフィアパック=Collab-Event UE Growsphere Pack
+コラボ記念 専用装備１グロウスフィアパック=Collab-Event UE 1Growsphere Pack
+コラボ記念 専用装備２グロウスフィアパック=Collab-Event UE 2 Growsphere Pack
+専用装備グロウスフィアパック=UE Growsphere Pack
+専用装備１グロウスフィアパック=UE 1Growsphere Pack
+専用装備２グロウスフィアパック=UE 2 Growsphere Pack
+Anniversary グロウスフィアパック=Anniversary Growsphere Pack
+Anniversary 専用装備グロウスフィアパック=Anniversary UE Growsphere Pack
+パックについて=About the Pack
+Anniversaryパックについて=About the anniversary pack
+探索挑戦回数 +3回=Grotto +3
+探索挑戦回数 +3回購入=Buy Grotto +3
+探索挑戦回数 +3回について=About Grotto +3 Attempts
+特定商取引法に基づく表示=Commercial Transactions Law
+デイリージュエルパック=Daily Jewel Pack
+デイリージュエルパック購入=Buy Daily Jewel Packs
+デイリージュエルパックについて=About Daily Jewel Packs
+デイリージュエルパック期間通知=Daily Jewel Pack Period Notification
+7日間スタミナ応援パック=7 Days Stamina Pack
+7日間スタミナ応援パック購入=Buy 7 Days Stamina Pack
+7日間スタミナ応援パックについて=About 7 Days Stamina Pack
+7日間スタミナ応援パッ期間通知=7 Days Stamina Pack Period Notification
+30日間スタミナ応援パック=30 Days Stamina Pack
+30日間スタミナ応援パック購入=Buy 30-Days Stamina Pack
+30日間スタミナ応援パックについて=About 30 Days Stamina Pack
+30日間スタミナ応援パッ期間通知=30 Days Stamina Pack Period Notification
+pack
+7日間探索挑戦回数+3回=7 days Grotto +3 pack
+7日間探索挑戦回数+3回購入=Buy 7 days Grotto +3 pack
+7日間探索挑戦回数+3回について=About 7 days Grotto +3 pack
+7日間探索挑戦回数+3回期間通知=7 days Grotto +3 pack Period Notification
+30日間探索挑戦回数+3回=30 days Grotto +3 pack
+30日間探索挑戦回数+3回購入=Buy 30 days Grotto +3 pack
+30日間探索挑戦回数+3回について=About 30 days Grotto +3 pack
+30日間探索挑戦回数+3回期間通知=30 days Grotto +3 pack Period Notification
+購入Lv制限あり=Purchase Lv Limit
+マンスリーテーマパック=Monthly Theme Package
+--- Anniv---
+r:"^([0-9.a-zA-Z ]*)プリンセスフェスSPキャラ交換ガチャセット$"=$1 Princess Fes SP Chara Exchange Gacha Set
+r:"^([0-9.a-zA-Z ]*)スペシャルキャラ交換ガチャセット$"=$1 Special Chara Exchange Gacha Set
+r:"^([0-9.a-zA-Z ]*)専用装備１グロウスフィアパック$"=$1 UE-1 Growsphere Pack
+r:"^([0-9.a-zA-Z ]*)キャンペーンパック$"=$1 Campaign Package
+毎月更新 ロールマスタリーパック=Monthly Updated Role Mastery Pack
+7th Anniversary プリンセスナイト強化パック=7th Anniversary Princess Knight Enhancement Pack
+プリンセスナイト強化パック=Princess Knight Enhancement Pack
+r:"^([0-9.a-zA-Z ]*)★6キャラ育成パック$"=$1 ★6 Character Materials Pack
+r:"^([0-9.a-zA-Z ]*)ピュアメモリーピースパック$"=$1 Pure Memory Shard Pack
+毎月更新 アストライアリングパック=Monthly Updated Astraea Ring Pack
+r:"^([0-9.a-zA-Z ]*)EX★4装備パック 服・鎧$"=$1 EX★4 Equipment Pack: Clothes & Armor
+r:"^([0-9.a-zA-Z ]*)EX★4装備パック 白ローブ・黒ローブ$"=$1 EX★4 Equipment Pack: White Robe & Black Robe
+r:"^([0-9.a-zA-Z ]*)EX★4装備パック 両手剣・斧$"=$1 EX★4 Equipment Pack: Claymore & Axes
+r:"^([0-9.a-zA-Z ]*)EX★4装備パック アクセサリー$"=$1 EX★4 Equipment Pack: Accessories
+r:"^([0-9.a-zA-Z ]*)EX★4装備パック 短剣・拳$"=$1 EX★4 Equipment Pack: Daggers & Fists
+r:"^([0-9.a-zA-Z ]*)EX★4装備パック 弓・本$"=$1 EX★4 Equipment Pack: Bows & Books
+r:"^([0-9.a-zA-Z ]*)EX★4装備パック 盾・杖$"=$1 EX★4 Equipment Pack: Shields & Wand
+r:"^([0-9.a-zA-Z ]*)EX★4装備パック 片手剣・槍$"=$1 EX★4 Equipment Pack: Swords & Spears
+r:"^([0-9.a-zA-Z ]*)属性強化パック$"=$1 Element Enhancement Pack
+2024 年末年始 属性強化パック=2024 New Year's Attribute Enhancement Pack
+
+装備ショップ=Equipment Shop
+EX★4装備パック=EX★4 Equipment Package
+r:"^([0-9.]+)周年 プリンセスナイト強化パック$"=$1th Anniversary Princess Knight Enhancement Package
+r:"^([0-9.]+)周年 SPキャラ交換ガチャセット$"=$1th Anniversary SP Chara Exchange Gacha Set
+r:"^([0-9.]+)周年 ★6キャラ育成パック$"=$1th Anniversary★6 Character Raising Package
+r:"^([0-9.]+)周年 専用装備１グロウスフィアパック$"=$1th Anniversary Unique Equipment 1 Growsphere Package
+r:"^([0-9.]+)周年 ピュアメモリーピースパック$"=$1th Anniversary Pure Memory Shard Package
+r:"^([0-9.]+)周年 属性強化パック$"=$1th Anniversary Elemental Enhancement Package
+sr:"^([0-9.]+)周年 EX★4装備パック\((片手剣|槍|弓|本|両手剣|斧|盾|杖|短剣|拳)・(片手剣|槍|弓|本|両手剣|斧|盾|杖|短剣|拳)\)$"=$1th Anniversary EX★4 Equipment Package ($2 and $3)
+
+(片手剣|槍|弓|本|両手剣|斧|盾|杖|短剣|拳)
+
+GW スペシャルキャラ交換ガチャセット=GW Special Chara Exchange Gacha Set
+2025 GW ビギナー&カムバック強化パック=2025 GW Beginner & Comeback Enhancement Pack
+GW 錬成スフィアパック=GW Refining Sphere Pack
+GW 専用装備１グロウスフィアパック=GW Unique Equipment 1 Growth Sphere Pack
+GW EX★4装備パック (服・鎧)=GW EX★4 Equipment Pack (Clothes & Armor)
+GW EX★4装備パック (白ローブ・黒ローブ)=GW EX★4 Equipment Pack (White Robe & Black Robe)
+GW EX★4装備パック (アクセサリー)=GW EX★4 Equipment Pack (Accessories)
+GW EX★4装備パック (片手剣・槍)=GW EX★4 Equipment Pack (One-Handed Sword & Spear)
+GW EX★4装備パック (弓・本)=GW EX★4 Equipment Pack (Bow & Book)
+GW EX★4装備パック (短剣・拳)=GW EX★4 Equipment Pack (Dagger & Fist)
+GW EX★4装備パック (盾・杖)=GW EX★4 Equipment Pack (Shield & Staff)
+GW EX★4装備パック (両手剣・斧)=GW EX★4 Equipment Pack (Two-Handed Sword & Axe)
+
+
+
+
+
+sr:"^\[FFBB00,CE4F00\]([0-9,]+)pt\[-\]\[3C404E\]で\[-\]\[FFBB00,CE4F00\](.+)\[-\]\[3C404E\]を\n１セット購入しますか？\[-\]$"=[3C404E]Would you like to purchase 1 set of\n[FFBB00,CE4F00]$2[-] for [FFBB00,CE4F00]$1 pts[-]?[-]
+
+r:"^探索挑戦回数+(\d+)回の期間が追加となります。\n(\d+)日間スタミナ応援パックを購入しますか？?$"=Grotto attempts +$1 for the selected period.\nWould you like to purchase \nthe $2-Day Stamina Support Pack?
+
+sr:"^(?:\[3C404E\])?探索挑戦回数\+(\d+)回の期間が追加となります。\n\[-\]\[FFBB00,CE4F00\]([0-9,]+)pt\[-\]\[3C404E\]で\[-\]\[FFBB00,CE4F00\](.+)\[-\]\[3C404E\]を購入しますか？(?:\[-\])?$"=[3C404E]Grotto attempts +$1 for the selected period.\nWould you like to purchase \n[FFBB00,CE4F00]$3[-] for [FFBB00,CE4F00]$2 pts[-]?[-]
+
+r:"^\[3C404E\]探索挑戦回数\+(\d+)回の期間が追加となります。\n\[-\]\[FFBB00,CE4F00\](\d+)pt\[-\]\[3C404E\]で\[-\]\[FFBB00,CE4F00\](\d+)日間スタミナ応援パック\[-\]\[3C404E\]を購入しますか？\[-\]$"=[3C404E]Grotto attempts +$1 for the selected period.\nWould you like to purchase the\n $3-Day Stamina Support Pack for [FFBB00,CE4F00]$2 pts[-]?[-]
+
+[3C404E]探索挑戦回数+3回の期間が追加となります。\n[-][FFBB00,CE4F00]480pt[-][3C404E]で[-][FFBB00,CE4F00]7日間探索挑戦回数+3回[-][3C404E]を購入しますか？[-]
+r:"^(\[3C404E\]\[FFBB00,CE4F00\])(\d+)日(\[-\]\[-\])$"=$1$2 Days $3
+
+残り有効期間=Duration
+
+
+sr:"^(\d+)年(\d+月)(\d+)日まで$"=Until $2 $3, $1
+r:"^ジュエル ([0-9,]+)個$"=$1 Jewels
+
+毎月更新 ジュエル 7500個=7,500 jewels (Monthly deal)
+3回限定 ジュエル 7500個=7,500 Jewels (Three-time deal)
+
+r:"^アイテム装備パック([Ⅰ-Ⅻ])?（(\d+)周年）が購入可能になりました！$"=Equipment Pack $1 ($2th Anniv)\nis now available!
+アイテム装備パックについて=About Item Equipment Packs
+sr:"^(.+)が購入可能になりました！$"=$1 is now available!
+
+sr:"^アイテム装備パック([Ⅰ-Ⅻ])?(（再販）)?$"=Equipment Pack $1 $2
+r:"^アイテム装備パック(.+)?（([\d]+)周年）$"="Equipment Pack $1 ($2th Anniv)"
+ショップへ=To the shop
+
+r:"^販売期間([0-9: /]+)まで$"=Sales period until$1
+
+ジュエル購入=Buy Jewels
+[3C404E]DMMポイントが不足しています。\nチャージしますか？[-]=[3C404E]Insufficient DMM points, would you like to recharge them?[-].
+
+r:"^あと(\d+)日有効$"=$1 Day(s) Left
+r:"^あと(\d+)時間有効$"=$1 Hours Left
+
+r:"^探索挑戦回数\+(\d+)回の期間が\n追加されました。$"=Grotto Attempt count +$1\nhas been added for a limited time.
+購入成功=Purchase Successful
+---Age registration---
+入力する=input
+年齢確認=Age Confirmation
+16歳未満=under 16yo
+1か月=per month
+16歳～19歳=16-19yo
+20歳以上=20yo or older
+制限なし=No limit
+5,000ptまで=Up to 5,000PT
+10,000ptまで=Up to 10,000PT
+生年月は後から変更することはできません。=You cannot change your date of birth later.
+年齢は誕生月の翌月1日に1歳加算されます。\n未成年の方は購入に法定代理人（両親等）の同意が必要です。=One year will be added to the age on the first day\nof the month following the month of birth.\nMinors need the consent of a legal representative to purchase.
+r:"^（記入例）(\d+)$"=(Filling example) $1
+
+あなたは20歳以上です。\n1か月の購入上限はありません。=You are over 20.\nThere is no monthly purchase limit.
+sr:"^(\d{4})年(\d+月)$"=$2 $1
+あなたは16歳未満です。\n1か月の購入上限は5,000ptまでです。=You are under 16.\nmonth purchase limit is up to 5,000PT.
+あなたは16歳～19歳です。\n1か月の購入上限は10,000ptまでです。=You are 16-19 years old.\nmonth purchase limit is up to 10,000PT.
+
+よろしければ、左のチェックボックスをONにして\nOKボタンをタップしてください。=Click on the left check box and click the OK button to confirm.
+あなたの生年月を以下で登録します。=Register your date of birth below.
+
+あなたの生年月を登録しました。=Your birth date has been registered.
+登録完了=Completion of Registration
+---View Jewel---
+無償ジュエル=Free Jewels
+有償ジュエル=Paid Jewels
+合計ジュエル=Total Jewels
+無償ジュエルから先に消費され、=Free Jewels will be used first.
+詳細表示=Detail View
+購入商品の区分・所持数=Purchased List
+有償ジュエル内訳詳細=Paid Jewel Breakdown Details
+有償ジュエルを所持していません。=You do not have Paid Jewels.
+---View Mana---
+合計マナ=Total Mana
+現在のストックマナ=Stock Mana
+無償マナ=Free Mana
+有償マナ=Paid Mana
+無償マナから先に消費され、=Free Mana will be used first.
+有償マナ内訳詳細=Paid Mana Breakdown Details
+有償マナを所持していません。=You do not have any Paid Mana.
+[FF7C4E,D62146]有償マナは購入順に消費されます。[-]=[FFF7C4E,D621466] The paid mana will be consumed in order of purchase. [-]
+
+---NPC---
+ジュエルはよく考えて\n使うことね\n無駄遣い厳禁！=Think carefully\nwhen spending Jewels.\nDon't waste them!
+ジュエルを食べ物…\nいえ、貴重品と交換できます！=Here you can exchange jewels for fo- I mean for valuables!
+主さまのジュエルで\n貴重な品々を購入できます\nですが、無駄遣いは\n『めっ』でございますよ=My Lord, you can purchase valuable items with your jewels here. However, please be sure to not waste them.
+ジュエルがあれば\n貴重品と交換できるみたい\n大事に使いましょうね=It seems you can exchange jewels for valuable items here. Let's use them wisely.
+マナ購入で、「マナ」と「スキップチケット」が手に入ります。\nさらにオマケで「メモリーピース」「女神の秘石」「探索挑戦回数増加」\nが手に入るかもしれませんよ。=Buying Mana will give you both Mana and Skip Tickets.\nYou may also receive bonuses such as Memory Shards,\nDivine Amulets and additional Grotto attempts.
+
+決済手続=Payment Procedure
+r:"^(?:\[3C404E\])?\[3C404E\]DMMポイントを消費して、\n購入手続きを完了しますか？\n所持DMMポイント:(\d+)\n\[-\]\[FFBB00,CE4F00\]ここで購入したジュエルやマナは\nDMM版でご利用いただけます。\[-\](?:\[-\])?$"=[3C404E]Do you want to use your DMM points to complete the purchase?\nYou currently have $1 DMM points.\n[FFBB00,CE4F00]The Jewels and Mana purchased here\ncan only be used on the DMM version[-].[-]
+
+sr:"^\[3C404E\](.+)の\n期間があと\[-\]\[FF7C4E,D62146\](\d+)日\[-\]\[3C404E\]で終了します。\n購入ページへ移動しますか\?\[-\]$"=[3C404E]The period of the $1\nwill end in [-][FF7C4E,D62146]$2 day(s)[-].\nWould you like to go to the Purchase Page?[-]
+
+
+購入ページへ=To the Purchase Page
+
+r:"^プレイヤーLv(\d+)まで購入可能$"=Under Lv$1 Only!
+r:"^([0-9/]+) に追加購入可能$"=Available on $1
+
+デイリージュエルパック終了通知=Daily Jewel Package Ending Notice
+デイリージュエルパックの\n期間が終了しました。\n購入ページへ移動しますか?=Daily Jewel Package period has ended. Would you like to go to the purchase page?
+
+スペシャル交換チケット期限通知=Special Exchange Ticket Due Date Notice
+
+r:"^交換期間が(\d+)月(\d+)日 (\d+)時(\d+)分に終了します。\n\(残り(\d+)日と(\d+)時間(\d+)分\)$"=The exchange period will end on $2/$1 at $3:$4.\n($5d $6h$7m remaining)
+r:"^交換期間が(\d+)月(\d+)日 (\d+)時(\d+)分に終了します。\n\(残り(\d+)時間(\d+)分\)$"=The exchange period will end on $2/$1 at $3:$4.\n($5h$6m remaining)
+r:"^交換期間が(\d+)月(\d+)日 (\d+)時(\d+)分に終了します。\n\(残り(\d+)分\)$"=The exchange period will end on $2/$1 at $3:$4.\n($5m remaining)
+
+
+sr:"^(.{2,20})未受け取り分の(.{2,6})$"=$1: Unclaimed $2
+
+
+交換ページへ移動しますか？=Would you like to go to the exchange page?
+
+
+
+新春記念=New Year's Commemorative
+2026 新春記念=2026 New Year's Commemorative
+r:"^(\d+) 新春記念$"=$1 New Year's Commemorative
+sr:"^(.+?) お得なジュエル(\d+)個$"=$1 $2 Jewels Pack
+sr:"^(.+?) 専用装備１グロウスフィアパック$"=$1 Unique Equipment 1 Spheres
+毎日1回限定 スタミナパック=Once Daily Limited Stamina Pack
+sr:"^(.+?) 属性強化パック$"=$1 Elemental Enhancement Pack
+sr:"^(.+?) キャラ育成パック$"=$1 Character Enhancement Pack
+sr:"^(.+?) ピュアメモリーピースパック$"=$1 Pure Memory Shards Pack
+
+sr:"^(.+?) ピュアメモリーピース交換チケット$"=$1 Pure Memory Piece Exchange Ticket
+sr:"^(.+?) メモリーピース交換チケット$"=$1 Memory Piece Exchange Ticket
+スペシャル交換チケット（限定+）=Special Exchange Ticket (Limited+)
+10回ガチャチケット=10-Pull Gacha Ticket

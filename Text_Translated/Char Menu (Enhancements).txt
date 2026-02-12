@@ -1,0 +1,368 @@
+専用装備=Unique
+専用装備２=UE 2
+専用装備１=UE 1
+才能開花=Ascension
+スキル強化=Skills
+強化スキル1=Enhance Skill 1
+強化スキル2=Enhance Skill 2
+Lv強化=Level Up
+装備=Equip
+絆ストーリー=Story
+★変更=★Change
+使用する素材が変更されました。=The materials used have been changed.
+作成Ptが不足しています。=Insufficient creation Pts.
+専用装備をまだ装備していません。=Haven't equipped Unique Equipment yet.
+専用装備１をまだ装備していません。=Haven't equipped Unique Equipment 1 yet.
+専用装備２をまだ装備していません。=Haven't equipped Unique Equipment 2 yet.
+強化できる箇所がありません。=There are no areas to strengthen.
+自分のキャラではないので★変更できません。=You can't change the ★ level of someone else's character.
+無料で装備強化できる上限です。=This is the maximum you can equip for free.
+無料強化対象キャラは無料強化分のみ強化されました。=Free enhancement characters were\nonly enhanced with the free portion.
+強化Ptが不足しています。=Insufficient Pts.
+必要強化Pt=Pts Required
+複数種類のピュアメモリーピースが消費されます。\nそのまま強化しますか？=Multiple types of pure Memory Shards will be consumed.\nDo you want to create it as is?
+複数種類のピュアメモリーピースが消費されます。\nそのまま作成しますか？=Multiple types of pure Memory Shards will be consumed.\nDo you want to create it as is?
+そのまま作成=Make it as it is
+そのまま強化=Keep strengthening
+アイテム、装備、もしくはマナが不足しているため強化できません。=Insufficient Items, equipment, or mana.
+おまかせ強化=Optimize
+まとめて装備=Equip All
+装備する=Equip
+入手方法=How to\nobtain
+装備入手方法=How to\nobtain
+解放OK！=Ready to\nUnlock!
+未開放ユニット=Locked unit
+限定キャラのため解放できません。=Limited characters cannot be unlocked.
+限界突破するための素材が足りません。=You don't have enough materials to Limit Break.
+降順=DESC
+昇順=ASC
+未解放キャラ=Locked Characters
+メモリーピースが不足しています。=Insufficient Memory Shards.
+メモリーピースとマナが不足しています。=Insufficient Memory Shards and Manas.
+ャラ強化=Enhance Characters
+強化する=Refine
+専用装備グロウスフィアを使用するにはRANK7にする必要があります。=Character must be atleast RANK 7 to equip a UE Growsphere.
+専用装備１グロウスフィアを使用するにはRANK7にする必要があります。=Character must be atleast RANK 7 to equip the UE-1 Growsphere.
+ランクアップ=Rank Up
+装備ステータス=Equipment Stats
+使う=Use
+強化ポーションを所持していません=No EXP Potions left!
+あと=Left:
+この装備は今後登場予定です。=This equipment will be released at a later date.
+マイパーティ=My Parties
+エクストラキャラ=Extra Character
+[FF7C4E,D62146]必要素材が不足しています。[-]=[FF7C4E,D62146]Insufficient required materials.[-]
+表示切替=Appearance
+おまかせ強化確認=Enhance Character
+消費マナ=Cost
+消費アイテム=Item Cost
+消費装備=Equipment Consumed
+キャラLvとスキルLvのみ強化=Ignore equips
+上限解放する=Uncap
+無料対象のLv強化を行ってください。=Please upgrade your level for free.
+強化、上限解放済みを含める=Includes enhanced and uncapped items
+
+装備/作成確認=Equipment/Confirm Creation
+必要作成Pt=Required creation Pt
+専用装備２を装備/作成します。よろしいですか？=2nd Unique Equipment 2 will be equipped/created. Is that all right?
+
+マイセレクトを解除しました。=My Fav has been deselected.
+以下のアイテムを装備してランクアップしますか？=Equip the following items to rank up?
+強化素材選択=Select\nRefinement Materials
+まとめてリセット=Reset All
+獲得強化Pt=Refinement Pts
+強化=Refine
+最大まで強化=To maximize
+合計Pt=Total Pts
+強化確認=Refine Equipment
+Lv上限に達しているため強化できません。=Cannot be refined because it has reached the Max Level.
+キャラLv以上にスキルLvは上げられません。=Skill Lv cannot be raised higher than Character Lv.
+RANK7で解放されます。=Will be unlocked at RANK 7.
+RANK4で解放されます。=Will be unlocked at RANK 4.
+RANK2で解放されます。=Will be unlocked at RANK 2.
+この装備の強化段階は最大です。=This equipment cannot be refined any further.
+強化素材を選択してください。=Please select a refinement material.
+装備可能なスロットがありません。=There is no slot that can be equipped.
+以下のアイテムを消費しておまかせ強化しますか？=Use the following items to enhance\ncharacter as recommended?
+おまかせ無料強化対象キャラ=Character(s) eligible for free enhancement
+キャラLvとスキルLvのみ強化のため、原鉱は消費できません。=Only Character Lv and Skill Lv are enhanced, so no Ore can be consumed.
+r:"^\[3C404E\]アイテムを消費して、強化Lv上限を\[-\]\[FFBB00,CE4F00\]([0-9,]+)\[-\]\[3C404E\]に解放します。\nよろしいですか？\[-\]$"=[3C404E]Consume items to increase Lv limit to [FFBB00,CE4F00]$1[-].\nIs this OK? [-]
+おまかせ装備強化確認=Confirm Equipment Refinement
+以下のアイテムを消費しておまかせ装備強化します。\nよろしいですか？=Spend the following items\nto strengthen your equipment?
+キャラ解放確認=Unlock Character
+解放する=Unlock
+アイテムが不足しています。=Insufficient Items.
+メモリーピース入手方法=How to Obtain Memory Shards
+入手場所=Search
+現在、このアイテムは\nメインクエスト等では入手できません。=This item cannot be obtained in the Main Quest.
+以下のアイテムの入手場所を確認できます。=Find out where to get the following items.
+
+専用装備１を装備した状態のキャラが装備できます。=Can only equip after equipping UE 1.
+
+キャラのRANKが7以上で装備できます。=Can be equipped at RANK 7.
+[FF7C4E,D62146]キャラのRANKが7以上で装備できます。[-]=[FF7C4E,D62146]Equipable at RANK 7.[-]
+
+このキャラの★6は今後登場予定です。=This character's 6★ ascension \nwill be introduced at a later date.
+パーティ情報がありません。=There is no party information.
+[FF7C4E,D62146]専用装備グロウスフィアを使用できます。[-]=[FF7C4E,D62146]UE Growsphere can be used.[-]
+[FF7C4E,D62146]専用装備１グロウスフィアを使用できます。[-]=[FF7C4E,D62146]UE-1 Growsphere can be used.[-]
+[FF7C4E,D62146]専用装備２グロウスフィアを使用できます。[-]=[FF7C4E,D62146]UE-2 Growsphere can be used.[-]
+
+アイテム入手方法=How To Get Items
+★6解放クエストに必要なアイテムの一部をセットします。よろしいですか？=Equipping items required for the 6* Unlock quest. Are you sure?
+まとめてセット確認=Batch Fuse Confirmation
+
+今の私にできることが\n解放可能になりました。=What I can do now has become liberating.
+あるけな=Somehow
+生産者の顔=Producer's face
+上限解放に必要なキャラLvを満たしていません。\n「まとめて強化」ではEXPポーションを使用して\n上限解放を行えます。=The character Lv required to unlock the upper limit is not met. You can unlock the upper limit by using EXP potions in "Uncap + Lv".
+---Equip---
+以下のアイテムを消費して装備しますか？=Do you want to consume and equip the following items?
+まとめて装備確認=Equip All?
+原晶を消費する=Consume
+原鉱を\n消費する=Consume\nOre
+装備確認=Verification
+[FF7C4E,D62146]Lv不足[-]=[FF7C4E,D62146]Lv Insufficient[-]
+入手する=Obtain
+装備をリクエスト=Equipment Request
+この装備はリクエストできません=You cannot request this equipment.
+この装備は素材から作成できません。=You cannot craft this equipment.
+---ORE---
+原鉱を使えば作成できます。=Can be created by using Ore.
+今後このメッセージを表示しない\n※設定から変更可=Do not show this message in the future.\n※Can be changed later from [Settings].
+原鉱消費確認=Ore Consumption Confirmation
+以下の原鉱が消費されます。\nよろしいですか？=The following ore will be consumed.\nIs this OK?
+消費装備が十分のため、原鉱を消費できません。=No need, you have enough equipment.
+原鉱を消費しなければ装備を作成できません。=You can't make equipment without consuming ore.
+---Rank up---
+にランクアップしますか？=Do you want to rank up?
+獲得スキル=Acquired Skills
+ランク=Rank
+ランクアップ完了=Rank Up Completed
+必要素材が不足しています=Insufficient materials
+ランクアップ後の 所持数/必要数 です。=Amount required after rank-up.
+sr:"^ (\[[0-9a-fA-F,]{6,14}\])RANK(\d+)\[-\] \[3C404E\]の装備一覧\[-\]$"=" $1RANK$2[-] [3C404E]Equipment List[-]"
+
+上限に達しているため限界突破できません。=Cannot be uncapped any further.
+EXスキルスロット=EX skill slot
+ランク ブロンズで開放=Open at Rank Bronze
+セット=Set
+
+★6解放クエストに必要なアイテムをセットします。よろしいですか？=Set the items required for the Unlocking ★6 quest. Is it OK?
+
+素材を購入=Buy Material
+
+装備品・強化アイテムは\\nクエストで入手することができます=Equipment and refine items can be\\nobtained in the quest
+使用できる素材がありません=No material available
+この装備はこれ以上強化できません。=This equipment cannot be refined any further.
+この装備は強化できません。=This equipment cannot be refined.
+---Rank Up Detail---
+未装備のステータス=Unequipped Stats
+装備強化MAX=MAX Refinement
+未装備=Unequip
+ランクアップ詳細=Rank Up Detail
+装備強化MAXのステータス=MAX Refinement Stats
+上限に達したアイテムは\\nプレゼントに送られます。=Items that reach the limit\\nwill be sent as gifts.
+所持上限を超えたアイテムは、プレゼントに送られます。=Items that exceed the limit of your possession will be sent to your present.
+
+以下のアイテムが返還されました。=The following items were returned.
+装備強化アイテム返還=Equipment Refine item Return
+消費装備一覧=Equipment Consumed
+
+---star change---
+★変更確認=Change ★ Confirmation
+下記キャラの★の数を変更します。=Change the character's "★".
+差を非表示にする=Hide the difference
+変更する=Change
+★5になると★変更を利用できます。=Only available once character is 5★
+変更する★の数を選択してください。=Please select the character's new ★ level.
+現在の★=Current ★
+★変更中は才能開花できません。=Cannot ascend when ★ has been changed.
+---LB---
+アストライアリング一覧=List of Astraea Rings
+限界突破内容=Contents of Limit Break
+所持アストライアリング一覧=List of owned Astraea rings
+キャラLv上限=Char Lv Limit
+スキルLv上限=Skill Lv Limit
+限界突破=LB
+なし=None
+使用するアストライアリングを選択してください。=Select the Astrea Ring to use.
+使用するアストライアリングを選択してください。キャラの最大Lv上限を上昇できます。=Choose the Astraea Ring you wish to use\nit will increase your character's maximum level
+
+キャラLv限界突破確認=Limit Break Confirmation
+[3C404E]アイテムを消費して、キャラのLv上限を[-][FFBB00,CE4F00]10[-][3C404E]突破します。\nよろしいですか？[-]=[3C404E]Consume shards to break through character's level limit by[FFBB00,CE4F00] 10[-]?[-]
+限界突破する=Limit Break
+このキャラは編成から外せません。=This character cannot be removed from the formation.
+
+---6star---
+合計ボーナス=Total bonus
+まとめてセット=Combine All
+才能開花確認=Ascension Confirmation
+才能開花完了=Ascension Complete
+強化前=Before
+強化後=After
+
+絆ランク上限=Maximum Bond
+
+セット確認=Placement Confirmation
+以下のアイテムを消費してセットします。=The following items are consumed.
+セットボーナス=Stats Bonus
+
+アイテムを消費して、セット/強化します。=The following items are consumed.
+アイテム強化確認=Refine Confirmation
+
+ステータスアップ=Status Up
+以下のセットボーナスを獲得しました！=You've earned the following stat bonuses!
+最大まで強化しています。=Maxed refinement already
+すでにセットしています。=It's already placed
+必要なメモリーピースの上限に達しています。=Required the number of Memory Shards reached.
+★6才能開花に必要なアイテムをセットするには\n専用装備が必要です。\n\nまた、専用装備を装備するには\nRANK7にする必要があります。\n\nランクアップしますか？=To set the items needed for 6★ ascension, Unique Equipment is required.\n\nTo equip the Unique Equipment,\nthe character needs to be raised to RANK7.\n\n Rank up now?
+★6才能開花に必要なアイテムをセットするには\n専用装備１が必要です。\n\nまた、専用装備１を装備するには\nRANK7にする必要があります。\n\nランクアップしますか？=To set the items needed for 6★ ascension, Unique Equipment 1 is required.\n\nTo equip Unique Equipment 1,\nthe character needs to be raised to RANK7.\n\n Rank up now?
+
+
+★6才能開花に必要なアイテムをセットするには\n専用装備が必要です。\n\n専用装備を作成しますか？=To set the items needed for 6★ ascension, Unique Equipment is required. Would you like to make Unique Equipment?
+★6才能開花に必要なアイテムをセットするには\n専用装備１が必要です。\n\n専用装備１を作成しますか？=To set the items needed for 6★ ascension, Unique Equipment 1 is required. Would you like to make Unique Equipment 1?
+専用装備作成確認=Craft Unique Equipment Confirmation
+専用装備１作成確認=Craft Unique Equipment 1 Confirmation
+専用装備へ=To Unique Equipment Gear
+---Recommended Enhancement---
+おすすめ強化メニュー=Recommended Refinement
+装備強化=Refine
+装備強化でステータスアップ！=Refine items to boost their stats!
+消費Pt=PT Cost
+装備を手に入れてランクアップしよう！=Get the equipment to raise rank!
+おすすめクエスト=Quest
+------
+強化ボーナス=Stat Bonus
+プリンセスオーブ詳細=Princess Orb details
+強化段階=Stage
+必要数=Req
+購入数=Price
+
+セットに必要なプリンセスオーブ=Princess orb required for the fusion
+セットに必要なプリンセスオーブ=Princess orb required for the fusion
+プリンセスオーブは最大まで強化する必要があります。\n各段階で必要数が異なります。=You need Princess Orbs to enhance. \nThe required number is different for each stage.
+このクエストは勝利するまで何度でも挑戦可能です。=This quest can be challenged\nas many times until you win.
+編成固定キャラ=Required
+
+編成固定=Fixed
+編成済=Organized
+UB予約を有効にする=Enable UB reservation
+[3C404E]リタイアすると報酬は獲得できませんが、\nクリアするまで何度でも再挑戦できます。[-]=[3C404E]If you retire, you won't get any rewards,\nYou can try again until you clear it.[-]
+r:"^(\d+)文字以上(\d+)文字以下で入力してください。$"=Please enter between $1-$2 character.
+強化上限に達しています。上限解放を行ってください。="You have reached the enhancement limit.\nYou can enhance by select "Uncap"."
+---rank up---
+ランクアップ確認=Rank Up Character
+以下のアイテムを装備してランクアップします。\nよろしいですか？=Equip the following items?
+キャラLvとスキルLvはこれ以上強化できません。=Cannot be enhanced any further.
+おまかせ強化します。よろしいですか？=Use the following items to enhance\ncharacter as recommended?
+RANKボーナス詳細=RANK Bonus Details
+RANKボーナス詳細のステータス=Status Details
+下のアイテムを装備してランクアップしますか？=Raise rank by equipping the\nfollowing items?
+
+消費なし=Free
+
+現在の最高ランクです。=Already at highest rank.
+
+消費する装備、マナはありません。=There is no equipment or mana to consume.
+消費する装備やマナがない場合は、\nこのダイアログを表示しない。=If you have nothing to spend,\nthis dialog will not appear.
+
+---UE---
+装備/強化確認=Equip Character
+専用装備を装備/強化します。よろしいですか？=Equip Unique Equipment?
+専用装備１を装備/強化します。よろしいですか？=Equip Unique Equipment 1?
+専用装備２を装備/強化します。よろしいですか？=Equip Unique Equipment 2?
+
+作成に必要なマナ=Mana Cost
+作成に必要な素材=Required Items
+強化に必要なマナ=Mana Cost For Enhancement
+強化に必要なプリンセスオーブ=Princess orb Cost For Enhancement
+強化に必要な素材=Required Items For Enhancement
+強化Lv上限までLvアップする=Lv to the max
+強化Lv上限確認=Enhancement Confirmation
+選択した強化Lv上限まで上限解放できます。=Available levels for enhancement
+必要合計数=Req.
+上限解放確認=Confirm Uncap
+まとめて強化確認=Enhancement Confirmation
+以下のアイテムを消費して専用装備を強化しますか？=Would you like to spend the following items\nto enhance Unique Equipment?
+以下のアイテムを消費して専用装備１を強化しますか？=Would you like to spend the following items\nto enhance Unique Equipment 1?
+以下のアイテムを消費して専用装備２を強化しますか？=Would you like to spend the following items\nto enhance Unique Equipment 2?
+上限解放に必要なマナ=Mana Cost
+消費数=Cost
+上限解放に必要な素材=Required Items
+素材が不足しています。=Insufficient Materials
+この装備は最大まで強化されています。=This equipment cannot be refined any further.
+これ以上上限を解放できません。=This equipment cannot uncap any further.
+必要な装備を所持していません。=You do not have the necessary equipment.
+装備入手=Obtain Equipment
+作成=Craft
+まとめてクエストスキップ=Search Quests to Skip
+女神の秘石ショップ=Divine Amulet Shop
+バトルアリーナショップ=Battle Arena shop
+プリンセスアリーナショップ=Princess Arena shop
+まとめて強化へ=Auto\nEnhance
+キャラ名から検索=Search Characters
+アイテム名を入力してください=Please enter the item name
+
+まとめておまかせランクアップ確認=Auto Enhance: Rank-up Confirmation
+まとめておまかせランクアップ完了=Auto Enhance: Rank-up Complete
+以下のアイテムを消費してランクアップしますか？=Spend the following items to rank up?
+ランクアップ対象キャラ=Rank-up target character(s)
+無料ランクアップ対象キャラ=Free Rank-Up Eligible Characters
+まとめておまかせランクアップキャラ詳細=Detailed Information on Characters for Bulk Rank-Up
+無料強化可能なキャラが選択されています。=Characters that can be upgraded for free have been selected.
+
+消費する強化素材=Refine materials consumed
+以下のアイテムを消費して専用装備を強化します。\nよろしいですか？=Consumes the following items to refine the Unique Equipment.\nIs it OK?
+以下のアイテムを消費して専用装備１を強化します。\nよろしいですか？=Consume the following items to refine Unique Equipment 1.\nIs this OK?
+以下のアイテムを消費して専用装備２を強化します。\nよろしいですか？=Consume the following items to refine Unique Equipment 2.\nIs this OK?
+
+強化の素材が不足しています。=Insufficient refinement material.
+
+ランクアップへ=To Rank Up
+★6才能開花=★6 Ascension
+原鉱=Ore
+グロウスフィア=Growsphere
+作成確認=Creation confirmation
+装備やメモリーピースを消費して、\n専用装備１を作成します。=Consume items and Memory Shards to create Unique Equipment 1.
+[FF7C4E,D62146]作成した専用装備１を元に戻すことはできません。[-]=[FF7C4E,D62146]You cannot un-equip UE 1 once crafted.[-]
+キャラ専用装備の所持最大数に達しています。=This character already has UE equipped.
+作成確認=Creation confirmation
+
+専用装備スフィア=Unique Equipment Spheres
+キャラスフィア=Character Spheres
+専用装備上限Lv=UE max Level
+専用装備１上限Lv=UE 1 max Level
+専用装備２上限Lv=UE 2 max Level
+専用装備Lv=UE Level
+専用装備１Lv=UE 1 Level
+専用装備２Lv=UE 2 Level
+未登場=N/A
+登場=Implemented
+専用装備グロウスフィア=UE Spheres
+専用装備１グロウスフィア=UE 1 Spheres
+専用装備２グロウスフィア=UE 2 Spheres
+
+（キャラ）=(Character)
+
+専用装備をまだ装備していません。\n作成するにはRANK7にする必要があります。\n\nランクアップしますか？=You can't equip Unique Equipment yet\nMust be RANK7 or higher to create Unique Equipment.\n\nWould you like to rank up?
+専用装備１をまだ装備していません。\n作成するにはRANK7にする必要があります。\n\nランクアップしますか？=You can't equip Unique Equipment 1 yet\nMust be RANK7 or higher to create Unique Equipment 2.\n\nWould you like to rank up?
+---NPC---
+「キャラLv限界突破」によりプレイヤーLvを超えてキャラLvを強化できます。ステータスアップやスキルLvの強化上限が解放されるので各キャラのメモリーピースとマナを集め、限界突破を目指しましょう。=You can increase the Character Level beyond the Player Level via "Character Lv Limit Break". The Stats and Skill Lv will be uncapped, so collect Memory Shards and Mana for each character and aim to break their limits.
+
+プレイヤーLvが、キャラクターLvの上限になります。\nメインクエストやミッション達成で、プレイヤーEXPをGETし\nLvアップを目指しましょう。=Character Levels can only go as high as your Player Level. Complete Main Quests and missions to earn Player EXP and raise your Level.
+装備の欠片・設計図が足りない場合は、\n原鉱を代用して装備の作成が可能になりました。\n皆さまの強化に役立ててくださいまし。=If you are missing equipment fragments or blueprints, you can now use Ore as a substitute for them. Please use it to strengthen your characters.
+メモリーピースとは、キャラの記憶の欠片が封印されたアイテムです。\nたくさん集めると、対象キャラを「才能開花」することができます。\nキャラをパワーアップできるので頑張って集めましょう。=Memory Shards are crystals with forgotten memories sealed within. You will need to collect them to Ascend characters, so try to gather as many as you can to power up your roster.
+
+マナを使ってスキルLv、ユニオンバーストのLvを強化できます。冒険で立ちはだかる強敵も、スキル強化で撃退しましょう。=You can use Mana to enhance skills and Union Bursts.\nEnhance your skills and fell even the most powerful foes encountered on your adventures!
+
+装備には、強化できるものがあります。装備を強化すると、ステータスがアップします。強敵に備え、装備を強化しておきましょう。=Some equipment can be refined in order to power up its stats. Refine your equipment to prepare for dangerous opponents.
+
+キャラは、最大★６まで才能開花できます。★５まで才能開花すると、ＥＸスキルがＥＸスキル＋となり、さらにパワーアップしますよ。=Characters can be ascended up to ★6.\nReaching ★5 will transform the character's EX skill to an EX+ skill, making them even more powerful.
+
+専用装備１を装備したら★6才能開花に必要なアイテムを集めましょう。\n「ピュアメモリーピース」はメインクエストのVERY HARD、\n「プリンセスオーブ」は神殿調査から入手できますよ。=After equipping their UE 1, gather the necessary items to upgrade a character to ★6. Pure Memory Shards can be obtained from VERY HARD stages, and Princess Orbs from Temple Trek.
+
+最後に、解放クエストをクリアすると才能開花ができます。ステータスに加え、ユニオンバーストもパワーアップしますよ。みなさまの真の力の解放を目指して頑張りましょう。=Finally, upon completing the character's Ascension Quest, they can ascend to new heights. In addition to their stats, their Union Burst will also be powered up. Let's all do our best to unlock our true power!
+
+
+ミッションをクリアすると報酬が\n受け取れるわ。ジャンジャン\nクリアしてバリバリ強化して\nあげなさい♪=Clear the missions to receive rewards. Clear them quickly and strengthen your character♪

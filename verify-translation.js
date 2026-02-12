@@ -1,7 +1,7 @@
 const fs = require('fs');
 
-const EN_FILE = 'en/Strings_ENG_US/Strings_ENG_US.xml';
-const VI_FILE = 'vi/Strings_ENG_US/Strings_VIE_VI.xml';
+const EN_FILE = 'merged_translations.xml';
+const VI_FILE = 'merged_translations_vi.xml';
 
 function parseXMLEntries(xmlContent) {
     const entries = [];
