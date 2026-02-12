@@ -115,3 +115,4 @@ sr:"^対戦相手のランキングが(\d+位)に変更されました。\n勝�
 対戦相手に勝利すると、対戦相手と順位が入れ替わります。\n対戦相手は、自分と同等の強さか、格上の相手が登場します。\nランキングを上げてアリーナコインやジュエルを獲得しましょう。=Defeat an opponent and you will take their place in the rankings. You will face opponents of similar or higher rank than your own. Work your way up the ranking, and win Arena Coins and Jewels!
 
 最大15キャラ対15キャラのバトルです。\nバトルを勝ち抜いて、ランキングの頂点を目指しましょう。\n上位ランクインするほど、Pアリーナコインが多く手に入ります。=Princess Arena Battles are fought between teams of up to 15 characters each. Keep winning battles to climb to the top of the rankings. At higher
+テストエントリー 2=Test Entry for Workflow 2
