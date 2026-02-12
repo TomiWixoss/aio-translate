@@ -1,4 +1,0 @@
-sr:"^([べ-ヺー＆＝]+)からお返しをもらいました\n([べ-ヺー＆＝]+)のメモリーピース×10$"=Nhận 10 Mảnh Ký ức của $2\ntừ Sự kiện Chúc mừng của $1
-sr:"^([べ-ヺー＆＝]+)「バースデーストーリー」のお返しでもらったアイテムです。$"="Vật phẩm bạn nhận được khi chúc mừng "Birthday Story" của $1. "
-
-わあ……ありがとうございます。\nあなたとカルミナのみんなに\nお祝いしてもらえるなんて……\nとても嬉しいです♪=Ồ ... Cảm ơn.\nCó bạn và mọi người trong Carmina chúc mừng ...\nTớ rất vui♪

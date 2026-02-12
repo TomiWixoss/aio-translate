@@ -1,7 +1,0 @@
-アドベンチャーで、同じ名前のキャラを同一パーティ内に編成できるようにするかの設定です。=Cài đặt xem có cho phép các nhân vật cùng tên trong cùng một đội ở chế độ Phiêu lưu hay không.
-アドベンチャー同名キャラ編成=Thêm nhân vật cùng tên ở chế độ Phiêu lưu
-
-アドベンチャー完了通知=Thông báo hoàn thành Phiêu lưu
-アドベンチャーが完了したときに通知します。=Thông báo khi Phiêu lưu được hoàn thành.
-アドベンチャー周回完了通知=Thông báo hoàn thành vòng Phiêu lưu
-繰り返し設定をしたアドベンチャーが完了したときに通知します。=Thông báo khi Phiêu lưu lặp lại được hoàn thành.

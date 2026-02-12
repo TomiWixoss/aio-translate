@@ -1,50 +1,11 @@
 const fs = require('fs');
 const path = require('path');
-
-// Parse XML
-function parseXml(xmlContent) {
-  const entries = new Map();
-  const regex = /<Text Key="([^"]+)">([^<]*)<\/Text>/g;
-  let match;
-  
-  while ((match = regex.exec(xmlContent)) !== null) {
-    entries.set(match[1], match[2]);
-  }
-  
-  return entries;
-}
-
-// Escape XML
-function escapeXml(text) {
-  return text
-    .replace(/&/g, '&amp;')
-    .replace(/</g, '&lt;')
-    .replace(/>/g, '&gt;')
-    .replace(/"/g, '&quot;')
-    .replace(/'/g, '&apos;');
-}
-
-// Tìm file backup mới nhất
-function findLatestBackup(baseName) {
-  const dir = path.dirname(baseName) || '.';
-  const ext = path.extname(baseName);
-  const name = path.basename(baseName, ext);
-  
-  const files = fs.readdirSync(dir);
-  const backupFiles = files.filter(f => 
-    f.startsWith(`${name}.backup_`) && f.endsWith(ext)
-  ).sort().reverse();
-  
-  if (backupFiles.length > 0) {
-    return path.join(dir, backupFiles[0]);
-  }
-  
-  return null;
-}
-
 const PATHS = require('../config/paths.config');
-const { parseXMLToMap, createXML } = require('./utils/xml-parser');
+const { parseXMLToMap, createXML, escapeXml } = require('./utils/xml-parser');
 const { findLatestBackup, backupFile } = require('./utils/backup');
+
+// Parse XML (alias)
+const parseXml = parseXMLToMap;
 
 // Main
 function extractNewContent(newFile, oldFile, outputFile) {

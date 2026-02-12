@@ -5,7 +5,7 @@ require('dotenv').config();
 
 const PATHS = require('../config/paths.config');
 const CONFIG = require('../config/translation.config');
-const { parseXMLEntries } = require('./utils/xml-parser');
+const { parseXMLEntries, escapeXml } = require('./utils/xml-parser');
 
 const BATCH_SIZE = CONFIG.translation.batchSize;
 const PARALLEL_BATCHES = CONFIG.translation.parallelBatches;
@@ -37,40 +37,6 @@ const aio = new AIO({
     maxRetries: CONFIG.translation.maxRetries,
     retryDelay: CONFIG.translation.retryDelay,
 });
-
-function parseXMLEntries(xmlContent) {
-    const entries = [];
-    const lines = xmlContent.split('\n');
-    
-    for (let i = 0; i < lines.length; i++) {
-        const line = lines[i].trim();
-        
-        if (line.includes('<Text Key=')) {
-            let fullLine = line;
-            let currentIndex = i;
-            
-            // Nối các dòng nếu thẻ XML bị ngắt dòng
-            while (!fullLine.includes('</Text>') && currentIndex < lines.length - 1) {
-                currentIndex++;
-                fullLine += ' ' + lines[currentIndex].trim();
-            }
-            
-            const keyMatch = fullLine.match(/Key="([^"]+)"/);
-            const textMatch = fullLine.match(/>([^<]*)<\/Text>/);
-            
-            if (keyMatch) {
-                entries.push({
-                    key: keyMatch[1],
-                    text: textMatch ? textMatch[1] : ''
-                });
-            }
-            
-            i = currentIndex;
-        }
-    }
-    
-    return entries;
-}
 
 function loadProgress() {
     if (fs.existsSync(PROGRESS_FILE)) {

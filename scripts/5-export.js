@@ -1,15 +1,7 @@
 const fs = require('fs');
 const path = require('path');
-
-// Hàm unescape XML entities
-function unescapeXml(text) {
-  return text
-    .replace(/&amp;/g, '&')
-    .replace(/&lt;/g, '<')
-    .replace(/&gt;/g, '>')
-    .replace(/&quot;/g, '"')
-    .replace(/&apos;/g, "'");
-}
+const PATHS = require('../config/paths.config');
+const { unescapeXml } = require('./utils/xml-parser');
 
 // Đọc file XML đã dịch
 function parseXmlToText(xmlFile, mappingFile, templateDir, outputDir) {
@@ -136,11 +128,6 @@ function getAllTextFiles(dir, fileList = []) {
   
   return fileList;
 }
-
-const fs = require('fs');
-const path = require('path');
-const PATHS = require('../config/paths.config');
-const { unescapeXml } = require('./utils/xml-parser');
 
 // Chạy script
 try {
