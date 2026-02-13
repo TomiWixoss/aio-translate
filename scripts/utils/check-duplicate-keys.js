@@ -2,8 +2,18 @@ const fs = require('fs');
 
 console.log('Đang kiểm tra duplicate keys...');
 
+// Lấy file path từ argument hoặc dùng default
+const filePath = process.argv[2] || './merged_translations.xml';
+
+if (!fs.existsSync(filePath)) {
+  console.error(`❌ File không tồn tại: ${filePath}`);
+  process.exit(1);
+}
+
+console.log(`File: ${filePath}\n`);
+
 // Đọc file XML
-const xmlContent = fs.readFileSync('./merged_translations.xml', 'utf8');
+const xmlContent = fs.readFileSync(filePath, 'utf8');
 
 // Extract tất cả keys bằng regex
 const keyRegex = /<Text Key="([A-F0-9]+)">/g;
