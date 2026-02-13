@@ -118,14 +118,21 @@ const args = process.argv.slice(2);
 
 if (args.length === 0) {
   const newFile = PATHS.SOURCE.CURRENT_XML;
-  const oldFile = findLatestBackup('merged.xml', PATHS.SOURCE.VERSIONS);
+  let oldFile = findLatestBackup('merged.xml', PATHS.SOURCE.VERSIONS);
   
+  // Nếu không tìm thấy backup, dùng file empty
   if (!oldFile) {
-    console.error('❌ Không tìm thấy file backup.');
-    console.log('\nCách dùng:');
-    console.log('  node 2-detect-changes.js');
-    console.log('  node 2-detect-changes.js <file-mới> <file-cũ> [output]');
-    process.exit(1);
+    const emptyFile = path.join(PATHS.SOURCE.VERSIONS, 'merged.empty.xml');
+    if (fs.existsSync(emptyFile)) {
+      oldFile = emptyFile;
+      console.log('ℹ️  Không tìm thấy backup, sử dụng file empty (dịch toàn bộ)');
+    } else {
+      console.error('❌ Không tìm thấy file backup hoặc file empty.');
+      console.log('\nCách dùng:');
+      console.log('  node 2-detect-changes.js');
+      console.log('  node 2-detect-changes.js <file-mới> <file-cũ> [output]');
+      process.exit(1);
+    }
   }
   
   const outputFile = PATHS.TEMP.NEW_CONTENT;

@@ -69,16 +69,12 @@ async function translateBatch(entries, batchIndex, retryCount = 0, messages = nu
         keyMapping = JSON.parse(fs.readFileSync(PATHS.MAPPING.KEY_MAPPING, 'utf-8'));
     }
     
-    // Tạo danh sách JP để tham khảo (text thuần)
-    const jpList = batch.map((e, idx) => {
+    // Tạo XML input xen kẽ với JP (text thuần)
+    const xmlInput = batch.map(e => {
         const jpText = keyMapping[e.key]?.japanese || '';
-        return jpText ? `"${jpText}"` : '';
-    }).filter(t => t).join(', ');
-    
-    // Tạo XML input (chỉ EN)
-    const xmlInput = batch.map(e => 
-        `  <Text Key="${e.key}">${e.text}</Text>`
-    ).join('\n');
+        const jpLine = jpText ? `JP: ${jpText}\n` : '';
+        return `${jpLine}  <Text Key="${e.key}">${e.text}</Text>`;
+    }).join('\n');
     
     // Nếu retry quá 3 lần, tạo conversation mới (gọi API mới) cho cùng batch
     if (retryCount > MAX_RETRIES) {
@@ -89,15 +85,16 @@ async function translateBatch(entries, batchIndex, retryCount = 0, messages = nu
     
     // Conversation history để retry
     if (!messages) {
-        const referenceText = jpList ? `\nBản Nhật gốc để tham khảo: ${jpList}\n` : '';
-        
         messages = [
             { 
                 role: "user", 
-                content: `Dịch ${batch.length} thẻ XML tiếng Anh sang tiếng Việt.${referenceText}
+                content: `Dịch ${batch.length} thẻ XML tiếng Anh sang tiếng Việt.
+
+Mỗi thẻ có dòng "JP: ..." phía trên là bản Nhật gốc để tham khảo ngữ cảnh.
+
 ${xmlInput}
 
-GIỮ NGUYÊN cấu trúc XML và Key, CHỈ dịch nội dung trong thẻ <Text>. Trả về ĐÚNG ${batch.length} thẻ.` 
+GIỮ NGUYÊN cấu trúc XML và Key, CHỈ dịch nội dung trong thẻ <Text>. KHÔNG ghi dòng JP vào output. Trả về ĐÚNG ${batch.length} thẻ <Text>.` 
             }
         ];
     }

@@ -82,6 +82,7 @@ if (fs.existsSync(PATHS.SOURCE.VERSIONS)) {
   const files = fs.readdirSync(PATHS.SOURCE.VERSIONS);
   let count = 0;
   files.forEach(file => {
+    // Giữ lại .gitkeep và merged.empty.xml
     if (file !== '.gitkeep' && file !== 'merged.empty.xml') {
       const filePath = path.join(PATHS.SOURCE.VERSIONS, file);
       const stat = fs.statSync(filePath);
