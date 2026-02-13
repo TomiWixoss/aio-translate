@@ -4,21 +4,40 @@ const path = require('path');
 require('dotenv').config();
 
 const PATHS = require('../config/paths.config');
-const CONFIG = require('../config/translation.config');
+
+// Kiểm tra mode từ argument
+const mode = process.argv[2] || 'normal';
+const isUnityMode = mode === 'unity';
+
+// Load config phù hợp
+const CONFIG = isUnityMode 
+    ? require('../config/unity-translation.config')
+    : require('../config/translation.config');
+
 const { parseXMLEntries, escapeXml } = require('./utils/xml-parser');
 
 const BATCH_SIZE = CONFIG.translation.batchSize;
 const PARALLEL_BATCHES = CONFIG.translation.parallelBatches;
 const MAX_RETRIES = CONFIG.translation.maxRetries;
 const RETRY_DELAY = CONFIG.translation.retryDelay;
-const PROGRESS_FILE = PATHS.TEMP.PROGRESS;
-const INPUT_FILE = PATHS.TEMP.NEW_CONTENT;
-const OUTPUT_FILE = PATHS.TEMP.TRANSLATED;
-const TEMP_DIR = PATHS.TEMP.BATCHES;
+
+// Paths phụ thuộc vào mode
+const PROGRESS_FILE = isUnityMode 
+    ? path.join(PATHS.TEMP.DIR, 'unity-progress.json')
+    : PATHS.TEMP.PROGRESS;
+const INPUT_FILE = isUnityMode 
+    ? PATHS.UNITY.TEMP_NEW
+    : PATHS.TEMP.NEW_CONTENT;
+const OUTPUT_FILE = isUnityMode 
+    ? PATHS.UNITY.TEMP_TRANSLATED
+    : PATHS.TEMP.TRANSLATED;
+const TEMP_DIR = isUnityMode 
+    ? path.join(PATHS.TEMP.DIR, 'temp-batches-unity')
+    : PATHS.TEMP.BATCHES;
 
 // Tạo thư mục temp
 if (!fs.existsSync(TEMP_DIR)) {
-    fs.mkdirSync(TEMP_DIR);
+    fs.mkdirSync(TEMP_DIR, { recursive: true });
 }
 if (!fs.existsSync(path.dirname(OUTPUT_FILE))) {
     fs.mkdirSync(path.dirname(OUTPUT_FILE), { recursive: true });
@@ -63,18 +82,28 @@ async function translateBatch(entries, batchIndex, retryCount = 0, messages = nu
     const batch = entries.slice(startIndex, startIndex + BATCH_SIZE);
     const expectedKeys = batch.map(e => e.key);
     
-    // Load key mapping để lấy JP
-    let keyMapping = {};
-    if (fs.existsSync(PATHS.MAPPING.KEY_MAPPING)) {
-        keyMapping = JSON.parse(fs.readFileSync(PATHS.MAPPING.KEY_MAPPING, 'utf-8'));
-    }
+    // Tạo XML input
+    let xmlInput;
     
-    // Tạo XML input xen kẽ với JP (text thuần)
-    const xmlInput = batch.map(e => {
-        const jpText = keyMapping[e.key]?.japanese || '';
-        const jpLine = jpText ? `JP: ${jpText}\n` : '';
-        return `${jpLine}  <Text Key="${e.key}">${e.text}</Text>`;
-    }).join('\n');
+    if (isUnityMode) {
+        // Unity mode: Dịch trực tiếp từ JP, không cần text EN tham khảo
+        xmlInput = batch.map(e => {
+            return `  <Text Key="${e.key}">${e.text}</Text>`;
+        }).join('\n');
+    } else {
+        // Normal mode: Load key mapping để lấy JP
+        let keyMapping = {};
+        if (fs.existsSync(PATHS.MAPPING.KEY_MAPPING)) {
+            keyMapping = JSON.parse(fs.readFileSync(PATHS.MAPPING.KEY_MAPPING, 'utf-8'));
+        }
+        
+        // Tạo XML input xen kẽ với JP (text thuần)
+        xmlInput = batch.map(e => {
+            const jpText = keyMapping[e.key]?.japanese || '';
+            const jpLine = jpText ? `JP: ${jpText}\n` : '';
+            return `${jpLine}  <Text Key="${e.key}">${e.text}</Text>`;
+        }).join('\n');
+    }
     
     // Nếu retry quá 3 lần, tạo conversation mới (gọi API mới) cho cùng batch
     if (retryCount > MAX_RETRIES) {
@@ -85,18 +114,27 @@ async function translateBatch(entries, batchIndex, retryCount = 0, messages = nu
     
     // Conversation history để retry
     if (!messages) {
-        messages = [
-            { 
-                role: "user", 
-                content: `Dịch ${batch.length} thẻ XML tiếng Anh sang tiếng Việt.
+        let userPrompt;
+        
+        if (isUnityMode) {
+            // Unity mode: Dịch từ JP sang VI
+            userPrompt = `Dịch ${batch.length} thẻ XML tiếng Nhật sang tiếng Việt.
+
+${xmlInput}
+
+GIỮ NGUYÊN cấu trúc XML và Key, CHỈ dịch nội dung trong thẻ <Text>. Trả về ĐÚNG ${batch.length} thẻ <Text>.`;
+        } else {
+            // Normal mode: Dịch từ EN sang VI với JP tham khảo
+            userPrompt = `Dịch ${batch.length} thẻ XML tiếng Anh sang tiếng Việt.
 
 Mỗi thẻ có dòng "JP: ..." phía trên là bản Nhật gốc để tham khảo ngữ cảnh.
 
 ${xmlInput}
 
-GIỮ NGUYÊN cấu trúc XML và Key, CHỈ dịch nội dung trong thẻ <Text>. KHÔNG ghi dòng JP vào output. Trả về ĐÚNG ${batch.length} thẻ <Text>.` 
-            }
-        ];
+GIỮ NGUYÊN cấu trúc XML và Key, CHỈ dịch nội dung trong thẻ <Text>. KHÔNG ghi dòng JP vào output. Trả về ĐÚNG ${batch.length} thẻ <Text>.`;
+        }
+        
+        messages = [{ role: "user", content: userPrompt }];
     }
 
     try {
@@ -196,7 +234,9 @@ async function main() {
     let entries;
     let totalBatches;
     
-    if (mode === 'fix-empty') {
+    if (mode === 'unity') {
+        console.log('🚀 Dịch Unity JSON (Nhật → Việt)\n');
+    } else if (mode === 'fix-empty') {
         console.log('🔧 Sửa thẻ trống trong file dịch\n');
         
         // Load key mapping

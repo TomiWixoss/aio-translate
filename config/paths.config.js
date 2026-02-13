@@ -29,11 +29,22 @@ module.exports = {
   
   // Temp
   TEMP: {
-    ROOT: path.join(ROOT, 'data', 'temp'),
+    DIR: path.join(ROOT, 'data', 'temp'),
     NEW_CONTENT: path.join(ROOT, 'data', 'temp', 'new_content.xml'),
     TRANSLATED: path.join(ROOT, 'data', 'temp', 'translated.xml'),
-    BATCHES: path.join(ROOT, 'data', 'temp', 'batches'),
+    BATCHES: path.join(ROOT, 'data', 'temp', 'temp-batches-new-content'),
     PROGRESS: path.join(ROOT, 'data', 'temp', 'progress.json'),
+  },
+  
+  // Unity JSON workflow
+  UNITY: {
+    INPUT: path.join(ROOT, 'unity', 'input.json'),
+    OUTPUT: path.join(ROOT, 'unity', 'output.json'),
+    TEMP_EN_XML: path.join(ROOT, 'data', 'temp', 'unity-en.xml'),
+    TEMP_VI_XML: path.join(ROOT, 'data', 'temp', 'unity-vi.xml'),
+    TEMP_NEW: path.join(ROOT, 'data', 'temp', 'unity-new.xml'),
+    TEMP_TRANSLATED: path.join(ROOT, 'data', 'temp', 'unity-translated.xml'),
+    TEMP_MERGED: path.join(ROOT, 'data', 'temp', 'unity-merged.xml'),
   },
   
   // Mapping
