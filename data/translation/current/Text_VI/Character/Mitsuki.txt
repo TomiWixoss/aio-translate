@@ -1,0 +1,38 @@
+##Profile##
+【物理】中衛で、敵弱体化フィールドを操る隻眼の悪魔。フィールドの持続時間は短いが、範囲内の敵の物理防御力を大幅に減らす効果を持つ。=[Thể xác] Quỷ một mắt sử dụng trường suy yếu kẻ thù từ vị trí giữa. Các trường của cô ấy không tồn tại lâu, nhưng kẻ địch trong chúng sẽ có phòng thủ thể xác bị giảm mạnh.
+
+研究、実験=Nghiên cứu, thí nghiệm
+実験が趣味の危険な科学者=Một bà tiến sĩ điên\nthích thí nghiệm
+
+##UB##
+ブラッディローズ=Bloody Rose
+前方範囲内の敵すべてに物理中ダメージを与える。このスキルでとどめを刺した敵の数に応じて、自分のＨＰを回復する。=Gây sát thương thể xác vừa phải cho tất cả kẻ địch trong phạm vi. Hồi phục HP của bản thân cho mỗi kẻ thù bị hạ gục bởi kỹ năng này.
+r:"^範囲内の敵に(\d+)の物理ダメージ敵を倒した数×20%のＨＰを回復$"=►Gây $1 P.DMG cho kẻ địch trong phạm vi.\n►Hồi HP dựa trên số kẻ địch bị hạ gục ×20%.
+
+##S1##
+カースブルーム=Curse Bloom
+
+前方範囲内の敵すべてを呪い状態にする。=Gây nguyền rủa cho tất cả kẻ địch trong phạm vi.
+r:"^(\d+)ダメージを与える呪い状態にする$"=Thời gian niệm: 1.41s\n►Gây nguyền rủa trong phạm vi 620, sát thương $1 P.DMG/giây.
+
+##S2##
+ローズフィールド=Field of Thorns
+自分の前の一定範囲に、物理防御力を大ダウンさせるフィールドを展開する。=Triển khai một trường giảm P.DEF của tất cả kẻ địch trong phạm vi.
+r:"^フィールド内の敵の物理防御力(\d+)ダウン$"=Thời gian niệm: 0.28s\n►Triển khai trường bán kính 250 giảm P.DEF của kẻ địch trong phạm vi lên $1 trong 8s.
+
+##EX##
+隻眼の悪魔=One-Eyed Devil
+隻眼の悪魔+=One-Eyed Devil+
+
+##UB+##
+ブルータルローズ=Brutal Rose
+前方の敵すべての物理防御力を大ダウンさせ、物理大ダメージを与える。このスキルでとどめを刺した敵の数に応じて、自分のＨＰを回復する。=Giảm mạnh P.DEF của tất cả kẻ địch phía trước và gây sát thương thể xác lớn. Hồi phục HP theo số kẻ thù bị giết bởi kỹ năng này.
+r:"^範囲内の敵の物理防御力を(\d+)ダウン範囲内の敵に(\d+)の物理ダメージ敵を倒した数×20%のＨＰを回復$"=►Giảm P.DEF của tất cả kẻ địch lên $1 trong 18s.\n►Gây $2 P.DMG cho tất cả kẻ địch trong phạm vi.\n►Hồi HP dựa trên số kẻ địch bị hạ gục ×20%.
+
+##S1+##
+カースブルーム+=Curse Bloom+
+前方範囲内の敵すべてを呪い状態にし、さらに行動速度を小ダウンさせる。=Gây nguyền rủa cho tất cả kẻ địch trong phạm vi và giảm nhẹ tốc độ hành động của chúng.
+r:"^(\d+)ダメージを与える呪い状態にする範囲内の敵の行動速度を一定時間低下させる$"=Thời gian niệm: 1.41s\n►Gây nguyền rủa trong phạm vi 620, sát thương $1 P.DMG/giây.\n►Giảm tốc độ hành động của kẻ địch trong phạm vi 620 còn 95% trong 12s.
+
+##UE##
+ローズオブカース=Rose of Curses

@@ -1,0 +1,42 @@
+##Profile## 
+一人前の商人を目指すパワフルお嬢様=Một tiểu thư mạnh mẽ hướng tới việc trở thành một thương gia thực thụ
+
+【物理】前衛で大暴れして攻める、令嬢剣士。自分の周りに、味方を回復するフィールドを作り出し、自ら前線を支え導く姿も、名家を背負う者のあるべき姿。=[Vật lý] Một kiếm sĩ trẻ chiến đấu dữ dội ở tuyến đầu. Tạo một trường phục hồi máu cho đồng minh xung quanh, cho phép cô ấy giữ vị trí tiền tuyến như người thừa kế của một gia tộc quý tộc.
+
+慈善事業=Charitable Business Ventures
+
+##UB##
+ノーブルアサルト=Noble Assault
+目の前の敵１キャラに物理特大ダメージを与える。=Gây sát thương vật lý khủng khiếp lên kẻ địch phía trước trực tiếp.
+r:"^敵単体に(\d+)の物理ダメージ$"=►Gây $1 sát thương vật lý lên kẻ địch.
+
+##S1##
+プラウドスラッシュ=Haughty Slash
+目の前の敵１キャラに物理中ダメージを与え、自分の物理攻撃力を小アップさせる。その後笑っている間に攻撃されると、前方範囲内の敵に反撃する。=Gây sát thương vật lý vừa phải lên kẻ địch phía trước trực tiếp. Tăng nhẹ sức tấn công vật lý của bản thân. Nếu bị tấn công khi đang cười, sẽ phản công kẻ địch trong phạm vi.
+r:"^敵単体に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップ$"=Thời gian niệm chú: 1.3575s\n►Gây $1 sát thương vật lý lên kẻ địch.\n►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi 280 khi phản công trong 2s tiếp theo.\n►Tăng P.ATK của bản thân lên $1 trong 12s.
+
+##S2##
+ヒーリングジュエル=Ngọc Tái Tạo
+自分の周囲に、範囲内の味方すべてを小回復するフィールドを展開する。=Triển khai một vùng phạm vi 150, hồi phục một lượng HP nhỏ cho tất cả đồng minh lân cận.
+r:"^毎秒ＨＰを(\d+)回復するフィールドを展開する$"=►Triển khai một vùng hồi phục $1 HP/giây cho đồng minh trong 8 giây.
+
+##EX## 
+フレイムソウル=Linh Hồn Bừng Cháy
+フレイムソウル+=Linh Hồn Bừng Cháy+
+バトル開始時に自分の物理攻撃力を中アップさせる。=Tăng sát thương vật lý của bản thân một chút ngay từ đầu trận.
+r:"^自分の物理攻撃力を(\d+)アップ$"=►Tăng P.ATK của bản thân lên $1.
+バトル開始時に自分の物理攻撃力を中アップさせ、さらに自分の物理防御力を小アップさせる。=Tăng sát thương vật lý của bản thân một chút ngay từ đầu trận.\nTăng phòng thủ vật lý của bản thân một chút ngay từ đầu trận.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理防御力を(\d+)アップ$"=►Tăng P.ATK của bản thân lên $1.\n►Tăng P.DEF của bản thân lên $2.
+
+##UB+##
+ノーブルプロミネンス=Vinh Quang Quý Tộc
+目の前の敵１キャラに物理特大ダメージを与え、その敵を中心として物理ダメージフィールドを展開し、自分の物理攻撃力を特大アップさせ、さらに物理/魔法吸収バリアを展開する。=Gây sát thương vật lý khổng lồ cho kẻ địch ngay phía trước và tạo ra một vùng cháy xung quanh chúng, gây sát thương vật lý mỗi giây cho mọi kẻ địch trong phạm vi. Tăng sát thương vật lý của bản thân rất lớn và tạo một khiên xung quanh bản thân, hấp thụ sát thương vật lý và ma thuật.
+r:"^敵単体に(\d+)の物理ダメージ毎秒(\d+)の物理ダメージを与えるフィールドを展開する自分の物理攻撃力を(\d+)アップ(\d+)ダメージ分の物理魔法吸収バリアを展開する$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Triển khai vùng phạm vi 400 gây $2 sát thương vật lý/giây trong 15.5 giây.\n►Tăng P.ATK của bản thân lên $3 trong 12 giây.\n►Triển khai Khiên trên bản thân, hấp thụ $4 sát thương vật lý/ma thuật trong 18 giây.
+
+##S1+## 
+プラウドスラッシュ+=Chém Kiêu Ngạo+
+目の前の敵１キャラに物理中ダメージを与え、自分の物理攻撃力を中アップ、ＴＰ上昇を小アップさせ挑発する。笑っている間に攻撃されると、前方範囲内の敵に反撃する。=Gây sát thương vật lý trung bình cho kẻ địch ngay phía trước. Tăng sát thương vật lý và TP Boost của bản thân một chút. Khiêu khích kẻ địch. Nếu bị tấn công khi đang cười, phản công vào kẻ địch trong phạm vi.
+r:"^敵単体に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップ自分のＴＰ上昇を(\d+)アップ$"=Thời gian niệm: 1.3575s\n►Khiêu khích tất cả kẻ địch trong 5 giây.\n►Gây $1 sát thương vật lý lên kẻ địch.\n►Gây $2 sát thương vật lý lên tất cả kẻ địch trong phạm vi 320 khi phản công trong 2 giây tiếp theo.\n►Tăng P.ATK của bản thân lên $3 trong 12 giây.\n►Tăng TP Boost của bản thân lên $4 trong 12 giây.
+
+##UE##
+紅輝石ウィスタリア=Rực Rỡ Hoa Tử Đằng

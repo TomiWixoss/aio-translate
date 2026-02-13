@@ -1,0 +1,35 @@
+##Profile##
+【物理】中衛で粘液を振りまくキイロいスライムギャル。スキルで敵全体の物理攻撃能力やＴＰ上昇を低下させ、ＵＢでスライム化し全敵を攻撃しつつ無敵ボディを得る。=[Vật lý] Một slime vàng (kogal) phát tán dịch nhầy ở hàng giữa. Sử dụng kỹ năng để giảm tấn công vật lý và Tăng TP của tất cả kẻ địch, có được thân thể bất khả xâm phạm, khiêu khích tất cả kẻ địch và tấn công tất cả kẻ địch với UB của mình.
+
+可愛いショタと遊ぶ、買い物=Chơi với shota dễ thương, mua sắm
+
+魔族？=Bộ lạc quỷ?
+スライム・ミーツ・ボーイ=Slime Gặp Cậu Bé
+ランドソルであ・そ・ぼ♪=Cùng chơi ở Ra.n.do.sol♪
+ショタ大好き♪　ギャル系スライム娘=Yêu Shota♪ Slime Gyaru.
+
+##UB##
+スライミィストリーム=Dòng Slime
+敵全体に物理大ダメージを与え、短時間無敵状態になり敵全体を挑発する。=Gây lượng sát thương vật lý lớn lên tất cả kẻ thù, trở nên bất khả xâm phạm trong thời gian ngắn, và khiêu khích tất cả kẻ thù.
+r:"^敵全体に(\d+)の物理ダメージ一定時間無敵状態になる敵全体を挑発する$"=►Gây $1 sát thương vật lý lên tất cả kẻ thù ►Trở nên miễn nhiễm với mọi sát thương trong 3s. ►Khiêu khích tất cả kẻ thù trong 3s.
+
+##S1##
+カムカムスライム=Camu-Camu Slime
+最もＴＰが多い敵１キャラに物理中ダメージを与え、ＴＰを中ダウンさせる。ＴＰが最大値に達しているキャラを除く。=Gây sát thương vật lý vừa phải lên kẻ thù có TP cao nhất (trừ TP tối đa), và giảm vừa phải TP của mục tiêu.
+r:"^敵単体に(\d+)の物理ダメージ敵単体のＴＰを(\d+)失わせる$"=Thời gian niệm: 0.59s ►Gây $1 sát thương vật lý lên kẻ thù có TP cao nhất. ►Giảm TP của kẻ thù bằng $2.
+
+##S2##
+ジャムジャムスライム=Jam-Jam Slime
+敵全体の物理攻撃力を大ダウンさせ、物理クリティカルとＴＰ上昇を中ダウンさせる。=Làm giảm mạnh P.ATK của tất cả kẻ thù, và giảm vừa phải P.CRIT Rate và TP Boost của chúng.
+r:"^敵全体の物理攻撃力を(\d+)ダウン敵全体の物理クリティカルを(\d+)ダウン敵全体のＴＰ上昇を(\d+)ダウン$"=Thời gian niệm: 0.59s ►Giảm P.ATK của tất cả kẻ thù bằng $1 trong 12s. ►Giảm P.CRIT Rate của tất cả kẻ thù bằng $2 trong 12s. ►Giảm TP Boost của tất cả kẻ thù bằng $3 trong 12s.
+
+##EX##
+イエロージェル=Yellow Gel
+イエロージェル+=Yellow Gel+
+
+##S1+##
+カムカムスライム+=Camu-Camu Slime+
+ＴＰが最大値に達しているキャラを除く最もＴＰが多い敵１キャラを中心とした範囲内の敵すべてに物理大ダメージを与え、ＴＰを中ダウンさせ、行動速度を大ダウンさせる。このスキルによるダメージでは敵のＴＰは回復しない。=Gây lượng sát thương vật lý khổng lồ lên kẻ thù trong phạm vi xung quanh kẻ thù có TP cao nhất (trừ TP tối đa), giảm vừa phải TP của chúng, và làm giảm mạnh tốc độ hành động của chúng (60%). Sát thương của kỹ năng này không phục hồi TP của kẻ thù.
+
+##UE##
+スライミィフェザーローブ=Slimy Feather Robe

@@ -1,0 +1,39 @@
+##Profile##
+【物理】前衛で連続攻撃を放つ、海辺の気まぐれ猫娘。ランダムな相手への単体攻撃を計４度行うユニオンバーストは、対象がランダムだが威力は抜群。=[Vật lý] Một cô mèo tự do trên bãi biển, tấn công điên cuồng từ tuyến đầu. Union Burst của cô ấy, phóng ra bốn đòn tấn công ngẫu nhiên lên mục tiêu, khó lường nhưng mạnh mẽ.
+
+##UB##
+ねこねこサマーレイブ=Kitty-Cat Summer Rave
+前方範囲内のランダムな敵キャラに、単体物理中ダメージを計４回与える。=Gây sát thương vật lý vừa phải lên một kẻ thù ngẫu nhiên trong phạm vi 4 lần.
+r:"^敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ$"=►Gây $1 P.DMG lên một kẻ thù.\n►Gây $2 P.DMG lên một kẻ thù.\n►Gây $3 P.DMG lên một kẻ thù.\n►Gây $4 P.DMG lên một kẻ thù.
+
+##S1##
+サマービーチアブソーブ=Summer Sun Absorption
+目の前の敵１キャラのＴＰを小ダウンさせ、さらに自分のＴＰを小回復する。=Giảm TP của kẻ thù ngay phía trước một lượng nhỏ và hồi TP của bản thân một lượng nhỏ.
+## r:"^敵単体のＴＰを(\d+)失わせる自分のＴＰを(\d+)回復自分の物理攻撃力を(\d+)アップ$"=►Giảm TP của một kẻ thù đi $1.\n►Hồi TP của bản thân đi $2.\n►Tăng P.ATK của bản thân đi $3.
+## Same as Tamaki S2
+## 260lvl
+目の前の敵１キャラのＴＰを小ダウンさせ、自分のＴＰを小回復する。さらに、自分の物理攻撃力を小アップさせる。=Giảm TP của kẻ thù ngay phía trước một lượng nhỏ và hồi TP của bản thân một lượng nhỏ. Đồng thời tăng P.ATK của bản thân một chút.
+
+##S2##
+アイスブレイク=Ice Breaker
+自分の物理攻撃力を中アップさせ、さらに行動速度を大アップさせる。=Tăng P.ATK và tốc độ hành động của bản thân rất lớn.
+## r:"^自分の物理攻撃力を(\d+)アップ自分の行動速度アップ$"=►Tăng P.ATK của bản thân bằng $1.\n►Tăng tốc độ hành động của bản thân.
+## Same as XAyane S1+
+
+##EX##
+キャッツインパラダイス=Kitty in Paradise
+キャッツインパラダイス+=Kitty in Paradise+
+
+##S1+##
+サマービーチアブソーブ+=Summer Sun Absorption+
+目の前の敵１キャラのＴＰを小ダウンさせ、自分のＴＰを小回復する。さらに目の前の敵１キャラの物理攻撃力を大ダウンさせ、自分の物理攻撃力を特大アップさせる。=Giảm TP của kẻ thù ngay phía trước một lượng nhỏ và hồi TP của bản thân một lượng nhỏ. Giảm P.ATK của kẻ thù ngay phía trước một lượng lớn, và tăng P.ATK của bản thân rất lớn.
+r:"^敵単体のＴＰを(\d+)失わせる自分のＴＰを(\d+)回復敵単体の物理攻撃力を(\d+)ダウン自分の物理攻撃力を(\d+)アップ$"=Thời gian niệm: 0.5s\n►Giảm TP của một kẻ thù đi $1.\n►Hồi TP của bản thân đi $2.\n►Giảm P.ATK của một kẻ thù đi $3 trong 12s.\n►Tăng P.ATK của bản thân đi $4 trong 12s.
+
+##S2+##
+アイスブレイク+=Ice Breaker+
+自分の物理攻撃力を特大アップ、物理攻撃クリティカル時のダメージを小アップさせ、さらに行動速度を大アップさせる。=Tăng P.ATK của bản thân rất lớn, tăng sát thương khi đánh chí mạng vật lý một chút, và tăng tốc độ hành động của bản thân thêm nữa rất lớn.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理攻撃クリティカル時のダメージを10％アップ自分の行動速度アップ$"=Thời gian niệm: 1.1s\n►Tăng P.ATK của bản thân bằng $1 trong 180s.\n►Tăng P.CRIT DMG của bản thân thêm 10% trong 180s.\n►Tăng tốc độ hành động của bản thân lên 200% trong 18s.
+
+##UE##
+氷鯛アイスダガー=Ice-Bream Dagger
+ねこねこフェザーローブ=Cat Feather Robe

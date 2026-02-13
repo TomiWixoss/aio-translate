@@ -1,0 +1,110 @@
+スフィア=Quả cầu
+注意事項=Chi tiết
+所持グロウスフィア一覧=Growsphere Đang Sở Hữu
+選択中のグロウスフィアの効果=Hiệu Ứng Growsphere Đã Chọn
+各Lv=Lên Cấp
+現在の無料分=Phút miễn phí hiện tại
+使用する=Sử dụng
+閉じる=Đóng
+グロウスフィア一覧=Danh sách Growsphere
+強化内容に記載されているRANKになった時、装備はついていない状態になります。=Nó sẽ không cho bất kỳ trang bị nào khi đạt đến RANK tối đa có thể.
+使用可能なグロウスフィアを所持していません。=Không có Growsphere nào.
+使用するグロウスフィアを選択してください。キャラ強化に必要なアイテムを消費せずにキャラを強化できます。=Chọn Growsphere để sử dụng\nBạn có thể nâng cấp nhân vật miễn phí mà không dùng bất kỳ vật phẩm cần thiết nào
+キャラ専用=Chuyên dụng
+グロウスフィア使用確認=Xác nhận Sử dụng Growsphere
+以下のアイテムを消費します。=Các vật phẩm sau sẽ bị tiêu hao.
+使用するグロウスフィアを選択してください。=Chọn Growsphere để sử dụng.
+無料対象が残っています。=Vẫn còn đồ miễn phí.
+専用装備を強化します。よろしいですか？=Nâng cấp Trang Bị Độc Nhất?
+専用装備１を強化します。よろしいですか？=Nâng cấp Trang Bị Độc Nhất thứ 1?
+専用装備２を強化します。よろしいですか？=Nâng cấp Trang Bị Độc Nhất thứ 2?
+[FF7C4E,D62146]無料対象のためアイテムやマナは消費しません。[-]=[FF7C4E,D62146]Vật phẩm hoặc mana không bị tiêu hao.[-]
+強化内容=Tăng cấp
+育成玉を所持していません。=Không có bóng tập.
+現在のステータスのほうが高いため、使用できません。=Không thể sử dụng vì trạng thái hiện tại cao hơn.
+強化するにはキャラLvを上げる必要があります。=Để nâng cấp, bạn cần tăng Lv. nhân vật.
+専用装備レベルを強化するにはキャラLvを上げる必要があります。=Để nâng cấp cấp độ UE, bạn cần tăng Lv. nhân vật.
+各グロウスフィアの無料強化値について=Về giá trị nâng cấp miễn phí của Growsphere
+グロウスフィアの使用について=Về Cách Sử dụng Growsphere
+グロウスフィアを使用後に、キャラを無料強化した場合も、デイリーミッションの加算対象です。\n例：グロウスフィアを使用したキャラのスキルを無料強化した場合、デイリーミッションの「キャラのスキルを{{A}}回強化しよう」が達成されます。=Ngay cả khi bạn tăng cường nhân vật miễn phí sau khi sử dụng Growsphere, bạn vẫn đủ điều kiện cho nhiệm vụ hàng ngày. Ví dụ: Nếu bạn tăng cường kỹ năng của một nhân vật bằng Growsphere, nhiệm vụ hàng ngày "Tăng cường Kỹ năng nhân vật 1 lần" sẽ được hoàn thành.
+デイリーミッションについて=Về Nhiệm vụ Hàng ngày
+キャラの大いなる力を呼び醒ますア\nイテム。=Một vật phẩm triệu hồi sức mạnh lớn của nhân vật.
+r:"^グロウスフィア /\n? Lv(\d+)$"=Cầu Trồng / Cấp $1
+r:"^専用装備(.)グロウスフィア\n? \/ Lv(\d+)$"=Trang Bị Độc Bản-$1 Cầu Trồng / Cấp $2
+強化できるLvまでLvアップする=Nâng cấp đến giới hạn cấp.
+
+
+r:"^すべてのキャラに使用できるグロウスフィア。キャラのステータスをLv(\d+)/RANK(\d+)まで強化できる。$"=Cầu Trồng dùng được cho mọi nhân vật. Nâng chỉ số nhân vật lên CẤP $1 / HẠNG $2.
+
+r:"^すべてのキャラに使用できる専用装備(.)のグロウスフィア。専用装備(.)を作成し、Lv(\d+)まで強化できる。$"=UE-$1 Cầu Trồng dùng được cho mọi nhân vật. Tạo UE-$1 và Nâng cấp lên Cấp $3.
+
+
+現在使用中のスフィアよりも、Lvアップができないアイテムです。=Chỉ có thể dùng nếu Cấp nhân vật thấp hơn Cấp của Cầu Trồng
+sr:"^([べ-ヺー＆＝]+)(（.{2,10}）)?\n?専用スフィア \/ Lv(\d+)$"=$1$2\nCầu Trồng Đặc Biệt / Cấp $3
+sr:"^([べ-ヺー＆＝]+)(（.{2,10}）)?専用のグロウスフィア。キャラのステータスをLv(\d+)/RANK(\d+)まで強化できる。$"=Cầu Trồng dành riêng cho $1$2.\n Nâng chỉ số nhân vật lên CẤP $3 / HẠNG $4.
+
+r:"^専用装備(.)グロウスフィア \/ Lv(\d+)\nを使用しました。\n設定値まで、無料で強化できます。$"=Bạn đã dùng UE-$1 Cầu Trồng / Cấp $2.\nBây giờ có thể nâng cấp giá trị thiết lập miễn phí.
+
+r:"^グロウスフィア \/ Lv(\d+)\nを使用しました。\n設定値まで、無料で強化できます。$"=Bạn đã dùng Cầu Trồng / Cấp $1.\nBây giờ có thể nâng cấp giá trị thiết lập miễn phí.
+sr:"^([べ-ヺー＆＝]+)(（.+）)?専用スフィア \/ Lv(\d+)\nを使用しました。\n設定値まで、無料で強化できます。$"=Bạn đã dùng $1$2 dành riêng\nCầu Trồng / Cấp $3.\nBây giờ có thể nâng cấp giá trị thiết lập miễn phí.
+グロウスフィアセット完了=Hoàn Thành Bộ Cầu Trồng
+
+ランクとレベルを一括で強化します。=Nâng hạng và cấp cùng lúc.
+一括強化=Tăng Cường Hàng Loạt
+無料でレベルアップ！=Nâng cấp miễn phí!
+ランクアップします。よろしいですか？=Bạn có muốn Nâng Hạng?
+r:"^無料で強化できるのは\nLv(\d+)までです。$"=Có thể nâng cấp miễn phí lên Cấp $1.
+レベルは現在のプレイヤーLv以下まで上げられます。=Cấp có thể được nâng lên bằng cấp người chơi hiện tại.
+無料対象のためアイテムや装備は消費しません。=Không tiêu hao vật phẩm và trang bị nào.
+スキル①=Kỹ Năng ①
+スキル②=Kỹ Năng ②
+r:"^\[3C404E\]無料で強化できるのは\[-\]\[FF7C4E,D62146\]Lv(\d+)\[-\]\[3C404E\]までです。\[-\]$"=[3C404E]Nâng Cấp Miễn Phí Đến[FF7C4E,D62146] Cấp $1[-].[-]
+[3C404E]無料で強化できるのは[-][FF7C4E,D62146]
+・ランクアップ\n・装備装着\n・装備強化=·Nâng hạng\n·Trang bị Trang bị\n·Tinh luyện Trang bị
+・専用装備作成\n・専用装備上限解放\n・専用装備レベルアップ=・ Chế tạo Trang Bị Độc Bản\n・ Mở khóa Giới hạn Cấp của Trang Bị Độc Bản\n・ Nâng Cấp Trang Bị Độc Bản
+・専用装備１作成\n・専用装備１上限解放\n・専用装備１レベルアップ=・ Chế tạo Trang Bị Độc Bản Thứ 1\n・ Mở khóa Giới hạn Cấp của Trang Bị Độc Bản Thứ 1\n・ Nâng Cấp Trang Bị Độc Bản Thứ 1
+・専用装備２作成\n・専用装備２上限解放\n・専用装備２レベルアップ=・ Chế tạo Trang Bị Độc Bản Thứ 2\n・ Mở khóa Giới hạn Cấp của Trang Bị Độc Bản Thứ 2\n・ Nâng Cấp Trang Bị Độc Bản Thứ 2
+
+・専用装備作成\n・専用装備上限解放=・ Chế tạo Trang Bị Độc Bản\n・ Mở khóa Giới hạn Cấp của Trang Bị Độc Bản
+・専用装備１作成\n・専用装備１上限解放=・ Chế tạo Trang Bị Độc Bản Thứ 1\n・ Mở khóa Giới hạn Cấp của Trang Bị Độc Bản Thứ 1
+・専用装備２作成\n・専用装備２上限解放=・ Chế tạo Trang Bị Độc Bản Thứ 2\n・ Mở khóa Giới hạn Cấp của Trang Bị Độc Bản Thứ 2
+
+・専用装備上限解放\n・専用装備レベルアップ=・ Mở khóa Giới hạn Cấp của Trang Bị Độc Bản\n・ Nâng Cấp Trang Bị Độc Bản
+・専用装備１上限解放\n・専用装備１レベルアップ=・ Mở khóa Giới hạn Cấp của Trang Bị Độc Bản Thứ 1\n・ Nâng Cấp Trang Bị Độc Bản Thứ 1
+・専用装備２上限解放\n・専用装備２レベルアップ=・ Mở khóa Giới hạn Cấp của Trang Bị Độc Bản Thứ 2\n・ Nâng Cấp Trang Bị Độc Bản Thứ 2
+・専用装備上限解放=・ Mở khóa Giới hạn Cấp của Trang Bị Độc Bản
+・専用装備１上限解放=・ Mở khóa Giới hạn Cấp của Trang Bị Độc Bản Thứ 1
+・専用装備２上限解放=・ Mở khá Giới hạn Cấp của Trang Bị Độc Bản Thứ 2
+・専用装備レベルアップ=・ Nâng Cấp Trang Bị Độc Bản
+・専用装備１レベルアップ=・ Nâng Cấp Trang Bị Độc Bản Thứ 1
+・専用装備２レベルアップ=・ Nâng Cấp Trang Bị Độc Bản Thứ 2
+専用装備レベルアップ=Nâng Cấp Trang Bị Độc Bản
+専用装備１レベルアップ=Nâng Cấp Trang Bị Độc Bản Thứ 1
+専用装備２レベルアップ=Nâng Cấp Trang Bị Độc Bản Thứ 2
+無料強化分が完了したものがあります。=Một số nâng cấp miễn phí đã hoàn thành.
+無料強化完了=Nâng Cấp Miễn Phí Hoàn Thành
+一括強化完了=Hoàn Thành Tăng Cường Hàng Loạt
+・ランクアップ\n・レベルアップ\n・装備装着\n・装備強化=・Nâng hạng\n・Nâng cấp\n・Đã trang bị trang bị\n・Tăng cường trang bị
+---npc---
+マナや装備が足りない場合でも、グロウスフィアを使用すれば\nお仲間を一気に強化ができるようです。\nグロウスフィアを手に入れたらすぐに使ってみましょう。=Ngay cả khi bạn không có đủ mana hay trang bị, bạn vẫn có thể dùng Cầu Trồng để tăng cường đồng đội một lúc. Hãy dùng nó ngay khi có Cầu Trồng.
+
+主さま、今手に入れたのがグロウスフィアになります。\nマナや装備を使わずに一気に強化できるアイテムですので\nさっそく使ってみましょう。=Chủ nhân, chúng ta có Cầu Trồng rồi. Đây là vật phẩm có thể tăng cường ngay lập tức mà không dùng mana hay trang bị, nên hãy dùng ngay.
+---Help---
+キャラ専用のグロウスフィアは、指定のキャラ以外で使用することはできません。\n※グロウスフィアは、メインクエスト 2-3(NORMAL)をクリアした後に使用できます。\n\n現在のキャラのステータスが、グロウスフィアの全ての無料強化値を上回る場合、グロウスフィアは使用できません。\nグロウスフィアでは、プレイヤーLvを上回る強化はできません。\n\nグロウスフィアの所持上限はそれぞれ「999」です。\n所持上限を超えて獲得したグロウスフィアは、プレゼントボックスに送られます。=Cầu Trồng dành riêng cho nhân vật chỉ có thể dùng bởi nhân vật được chỉ định.\n※Cầu Trồng có thể dùng sau khi hoàn thành Chính Truyện 2-3 (BÌNH THƯỜNG).\nNếu chỉ số nhân vật hiện tại vượt quá tất cả các nâng cấp miễn phí của Cầu Trồng, Cầu Trồng không thể dùng.\nCầu Trồng không thể nâng cấp vượt quá Cấp Người Chơi.\n\nSố lượng Cầu Trồng tối đa có thể sở hữu là "999".\n\nCầu Trồng nhận được vượt quá giới hạn sở hữu sẽ được gửi vào hộp quà.
+
+グロウスフィアを使用後に、キャラを無料強化した場合も、デイリーミッションの加算対象です。\n例：グロウスフィアを使用したキャラのスキルを無料強化した場合、デイリーミッションの「キャラのスキルを1回強化しよう」が達成されます。=Ngay cả khi bạn tăng cường nhân vật miễn phí sau khi dùng Cầu Trồng, bạn vẫn đủ điều kiện cho nhiệm vụ hàng ngày.\nVí dụ: Nếu bạn nâng cấp kỹ năng của nhân vật bằng Cầu Trồng miễn phí, nhiệm vụ hàng ngày "Nâng cấp Kỹ năng của nhân vật 1 lần" sẽ được hoàn thành.
+グロウスフィアによって、アイテムや装備を消費せずに無料で強化できる値が異なります。\n無料で強化できる値は、グロウスフィアの［グロウスフィア一覧］から確認できます。\n\n■キャラLvとスキルLv\n「各Lv」に記載されている値まで強化できます。\n※各スキルが未解放の場合、解放後に無料で強化できます。\n※現在のキャラLvとスキルLvがグロウスフィアのLvを上回る場合、グロウスフィアを使ってLvを下げることはできません。\n\n■キャラの装備\n「RANK」に記載されている値の1つ下のRANKまで、装備アイテムを消費せずに無料で装備できます。\nまた、アイテムを消費せずに無料で最大まで装備強化ができます。\n※キャラの装備の強化はメインクエスト 3-5(NORMAL)をクリアした後に使用できます。\n※ランクアップ時、無料で装備強化している分の装備強化アイテム返還はされません。\n※現在のキャラのRANKがグロウスフィアのRANKを上回る場合、グロウスフィアを使ってRANKを下げることはできません。=Tùy theo Cầu Trồng, giá trị có thể nâng cấp miễn phí mà không tiêu hao vật phẩm hay trang bị sẽ khác nhau.\nBạn có thể kiểm tra các giá trị có thể nâng cấp miễn phí từ [Danh Sách Cầu Trồng] của Cầu Trồng.\n\n■ Cấp Nhân vật và Cấp Kỹ năng\nCó thể tăng cường đến giá trị được mô tả trong "Mỗi Cấp".\n※ Nếu mỗi kỹ năng chưa được mở khóa, nó có thể được tăng cường miễn phí sau khi mở khóa.\n※ Nếu cấp nhân vật hiện tại và cấp kỹ năng vượt quá Cấp Cầu Trồng, bạn không thể dùng Cầu Trồng để hạ Cấp.\n\n■ Trang bị nhân vật\nBạn có thể trang bị lên HẠNG, là một giá trị thấp hơn giá trị liệt kê trong "HẠNG", miễn phí mà không tiêu hao vật phẩm trang bị.\nBạn cũng có thể nâng cấp trang bị lên tối đa miễn phí mà không tiêu hao vật phẩm.\n※ Tăng cường trang bị nhân vật có thể dùng sau khi hoàn thành Chính Truyện 3-5 (BÌNH THƯỜNG).\n※ Thời điểm nâng hạng, các vật phẩm tăng cường trang bị đã được tăng cường miễn phí sẽ không được hoàn lại.\n※ Nếu HẠNG nhân vật hiện tại vượt quá HẠNG Cầu Trồng, bạn không thể dùng Cầu Trồng để hạ HẠNG.
+
+各専用装備１グロウスフィアの無料強化値について=Về giá trị tăng cường miễn phí của Trang Bị Độc Nhất lần 1
+各専用装備２グロウスフィアの無料強化値について=Về giá trị tăng cường miễn phí của Trang Bị Độc Nhất lần 2
+
+専用装備１グロウスフィアによって、アイテムやマナを消費せずに無料で強化できる値が異なります。\n無料で強化できる値は、グロウスフィアの\n［グロウスフィア一覧］から確認できます。\n\n■専用装備１強化Lv上限\n「専用装備１上限Lv」に記載されている値まで解放されます。\n※専用装備１グロウスフィアを使用後、専用装備１を装備すると、自動的に無料上限分まで解放されます。\n※専用装備１Lvは自動で強化されません。\n\n■専用装備１Lv\n「専用装備１Lv」に記載されている値まで\n強化できます。\n※無料強化分の強化を完了するまで、専用装備１のLv上限解放はできません。\n※キャラの装備の強化はメインクエスト 3-5(NORMAL)をクリアした後に使用できます。=Tùy theo UE Growsphere, giá trị có thể tăng cường miễn phí mà không tiêu hao vật phẩm hay mana sẽ khác nhau. Bạn có thể kiểm tra giá trị có thể tăng cường miễn phí từ [Danh sách Growsphere] trong Growsphere.\n\n■ Mức tối đa cấp độ tăng cường Trang Bị Độc Nhất\nNó sẽ được mở khóa đến giá trị được mô tả trong "Mức tối đa cấp độ Trang Bị Độc Nhất".\n※ Sau khi sử dụng UE Growsphere, nếu bạn trang bị Trang Bị Độc Nhất, giới hạn miễn phí sẽ được tự động mở khóa.\n※ Cấp độ Trang Bị Độc Nhất không được tự động tăng cường.\n\n■ Cấp độ Trang Bị Độc Nhất\nBạn có thể tăng cường đến giá trị được liệt kê trong "Cấp độ Trang Bị Độc Nhất".\n※Bạn không thể mở khóa mức tối đa cấp độ của Trang Bị Độc Nhất cho đến khi hoàn thành việc tăng cường miễn phí.\n※Tăng cường trang bị nhân vật có thể được sử dụng sau khi hoàn thành Nhiệm vụ Chính 3-5 (BÌNH THƯỜNG).
+専用装備１グロウスフィアの使用について=Về việc sử dụng Growsphere Trang Bị Độc Nhất lần 1
+専用装備２グロウスフィアの使用について=Về việc sử dụng Growsphere Trang Bị Độc Nhất lần 1
+
+専用装備１グロウスフィアは、メインクエスト 2-3(NORMAL)をクリアした後に使用できます。\n\n下記のいずれかに当てはまる場合、\n専用装備１グロウスフィアを使用できません。\n・現在のキャラの専用装備１強化Lv上限が、専用装備１グロウスフィアの無料強化値を上回る場合\n・キャラの専用装備１が登場していない場合\n・キャラのRankが6以下の場合\n\nまた、無料強化値が残っている場合でも、専用装備１は現在のキャラLvに対応した専用装備１強化Lv上限までしか強化できません。\n例：キャラのLvが200の場合、専用装備１を強化できるのはLv210までです。\n※キャラLvを上げれば、続きから無料強化上限のLvまで無料で強化できます。\n\n専用装備１グロウスフィアの所持上限は「999」です。\n所持上限を超えて獲得した\n専用装備１グロウスフィアは、プレゼントボックスに送られます。\n\n専用装備１グロウスフィアを使用しても専用装備２の作成、強化に必要なマナやピュアメモリーピースは無料になりません。=Growsphere UE lần 1 có thể được sử dụng sau khi hoàn thành Nhiệm vụ Chính 2-3 (BÌNH THƯỜNG).\n\nNếu bất kỳ điều kiện nào sau đây áp dụng, bạn không thể sử dụng Growsphere UE lần 1.\n・Nếu mức tối đa cấp độ tăng cường Trang Bị Độc Nhất hiện tại của nhân vật vượt quá giá trị tăng cường miễn phí của Growsphere UE lần 1.\n・Nếu Trang Bị Độc Nhất của nhân vật không xuất hiện\n・Nếu Hạng của nhân vật là 6 hoặc thấp hơn\n\nNgoài ra, ngay cả khi giá trị tăng cường miễn phí còn lại, Trang Bị Độc Nhất lần 1 chỉ có thể được tăng cường đến mức tối đa cấp độ tăng cường Trang Bị Độc Nhất tương ứng với cấp độ nhân vật hiện tại.\nVí dụ: Nếu nhân vật của bạn là cấp 200, bạn chỉ có thể nâng cấp Trang Bị Độc Nhất lên cấp 210.\n* Nếu bạn tăng cấp độ nhân vật, bạn có thể tăng cường nó miễn phí từ phần tiếp theo đến cấp độ của giới hạn tăng cường miễn phí.\n\nGiới hạn sở hữu tối đa cho Growsphere UE lần 1 là 999.\nCác Growsphere UE thu được vượt quá giới hạn sở hữu sẽ được gửi đến hộp quà.
+
+
+専用装備１グロウスフィアを使用すれば、素材を消費せずに専用装備を作成、一気に強化ができるようです。ぜひご活用くださいませ。=Nếu bạn sử dụng Growsphere Trang Bị Độc Nhất lần 1, bạn có thể tạo Trang Bị Độc Nhất lần 1 mà không tiêu hao vật liệu và tăng cường ngay lập tức. Hãy tận dụng nó.
+
+専用装備１グロウスフィアを使用すれば、素材を消費せずに専用装備１を作成、一気に強化ができるようです。ぜひご活用くださいませ。=Nếu bạn sử dụng Growsphere Trang Bị Độc Nhất lần 1, bạn có thể tạo Trang Bị Độc Nhất lần 1 mà không tiêu hao vật liệu và tăng cường ngay lập tức. Hãy tận dụng nó.
