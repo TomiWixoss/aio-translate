@@ -4,7 +4,7 @@
 ##UB##
 箭雷夜天=Bầu Trời Đêm Sấm Chớp Cung
 目の前の敵１キャラに魔法特大ダメージを２回与え、魔法防御力を中ダウンさせる。=Gây sát thương phép lớn lên kẻ địch phía trước hai lần, và hạ nhẹ phòng ngự phép của chúng.
-r:"^敵単体に(\d+)の魔法ダメージ敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン$"=►Gây $1 sát thương phép lên một kẻ địch.\n►Gây $2 sát thương phép lên một kẻ địch.\n►Hạ phòng ngự phép của một kẻ địch đi $3.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン$"=►Deals $1 M.DMG to a single enemy.\n►Deals $2 M.DMG to a single enemy.\n►Lowers a single enemy's M.DEF by $3.
 
 ##S1##
 神聖なる機翼=Cánh Thiên Cơ Thần Thánh
@@ -12,19 +12,21 @@ r:"^敵単体に(\d+)の魔法ダメージ敵単体に(\d+)の魔法ダメージ
 r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリダメを12％アップステータスアップ効果を受けるたびに自分にエクスマキナを１つ追加する状態になる$"=►Tăng tấn công phép của đồng minh lên $1.\n►Tăng sát thương phép chí mạng của đồng minh lên 12%.\n►Trao trạng thái: mỗi lần bản thân nhận hiệu ứng tăng chỉ số, nhận 1 [Ex Machina].
 
 ##S2##
-天鳴の疾奏=Giai Điệu Sấm Sét Trời
-目の前の敵１キャラに魔法大ダメージを２回与え、魔法防御力を小ダウンさせる。発動時既に【エクスマキナ】が60の場合、行動パターンが変化する。=Gây sát thương phép lớn lên kẻ địch phía trước hai lần và nhẹ nhàng hạ phòng ngự phép của chúng. Nếu [Ex Machina] đã đạt 60 khi kích hoạt, mẫu hành động thay đổi.
-r:"^敵単体に(\d+)の魔法ダメージ敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン$"=►Gây $1 sát thương phép lên một kẻ địch.\n►Gây $2 sát thương phép lên một kẻ địch.\n►Hạ phòng ngự phép của một kẻ địch đi $3.
+このスキルのスキルレベルは「天鳴の疾奏」と連動しています=Cấp độ kỹ năng của kỹ năng này liên kết với kỹ năng "Thiên Lạc Tật Tấu".
+
+天鳴の疾奏=Heavenly Thunder Allegro
+天鳴の疾奏+=Thiên Lạc Tật Tấu+
+目の前の敵１キャラに魔法大ダメージを２回与え、魔法防御力を小ダウンさせる。発動時既に【エクスマキナ】が60の場合、行動パターンが変化する。=Deals large M.DMG to an enemy in front twice and slightly lowers their M.DEF. If [Ex Machina] is already at 60 at activation, the action pattern changes.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン$"=►Deals $1 M.DMG to a single enemy.\n►Deals $2 M.DMG to a single enemy.\n►Lowers a single enemy's M.DEF by $3.
 
 ##EX##
-聖装、起動=Vũ Khí Thiêng: Kích Hoạt
-聖装、起動+=Vũ Khí Thiêng: Kích Hoạt+
-
+聖装、起動=Sacred Armament: Activate
+聖装、起動+=Sacred Armament: Activate+
 
 
 ---Pattern Change---
-【エクスマキナ】を10消費するが、味方全体の魔法攻撃クリティカル時のダメージと魔法攻撃のダメージを小アップさせ、さらに自分の魔法攻撃力を大アップし、ＴＰを小回復する。【エクスマキナ】が10以下の場合、行動パターン変化を解除する。=Tiêu hao 10 lớp [Ex Machina] để nhẹ nhàng tăng sát thương phép chí mạng và sát thương phép gây ra cho tất cả đồng minh. Ngoài ra, tăng mạnh tấn công phép của bản thân và nhẹ nhàng hồi TP cho bản thân. Nếu [Ex Machina] bằng hoặc thấp hơn 10, hiệu ứng thay đổi mẫu hành động bị hủy.
-r:"^エクスマキナを10消費する味方全体が与える魔法ダメージを6％アップ味方全体の魔法クリダメを12％アップ自分の魔法攻撃力を(\d+)アップ自分のＴＰを125回復$"=►Tiêu hao 10 [Ex Machina].\n►Tăng sát thương phép gây ra của đồng minh lên 6%.\n►Tăng sát thương phép chí mạng của đồng minh lên 12%.\n►Tăng tấn công phép của bản thân lên $1.\n►Hồi TP cho bản thân lên 125.
-【エクスマキナ】を10消費するが、目の前の敵１キャラに魔法大ダメージを２回与え、魔法防御力を小ダウンさせ、さらに自分の魔法攻撃力を大アップし、ＴＰを小回復する。【エクスマキナ】が10以下の場合、行動パターン変化を解除する。=Tiêu hao 10 lớp [Ex Machina] để gây sát thương phép lớn lên kẻ địch phía trước hai lần và nhẹ nhàng hạ phòng ngự phép của chúng. Ngoài ra, tăng mạnh tấn công phép của bản thân và nhẹ nhàng hồi TP cho bản thân. Nếu [Ex Machina] bằng hoặc thấp hơn 10, hiệu ứng thay đổi mẫu hành động bị hủy.
+【エクスマキナ】を10消費するが、味方全体の魔法攻撃クリティカル時のダメージと魔法攻撃のダメージを小アップさせ、さらに自分の魔法攻撃力を大アップし、ＴＰを小回復する。【エクスマキナ】が10以下の場合、行動パターン変化を解除する。=Consumes 10 stacks of [Ex Machina] to slightly boost all allies’ M.CRIT DMG and M.DMG. Additionally, greatly boosts own M.ATK and slightly recovers own TP. If [Ex Machina] is 10 or lower, the action pattern change is canceled.
+r:"^エクスマキナを10消費する味方全体が与える魔法ダメージを6％アップ味方全体の魔法クリダメを12％アップ自分の魔法攻撃力を(\d+)アップ自分のＴＰを125回復$"=►Consumes 10 [Ex Machina].\n►Boosts allies' M.DMG dealt by 6％.\n►Boosts allies' M.CRIT DMG by 12％.\n►Boosts own M.ATK by $1.\n►Recovers own TP by 125.
+【エクスマキナ】を10消費するが、目の前の敵１キャラに魔法大ダメージを２回与え、魔法防御力を小ダウンさせ、さらに自分の魔法攻撃力を大アップし、ＴＰを小回復する。【エクスマキナ】が10以下の場合、行動パターン変化を解除する。=Consumes 10 stacks of [Ex Machina] to deal large M.DMG to an enemy in front twice and slightly lower their M.DEF. Additionally, greatly boosts own M.ATK and slightly recovers own TP. If [Ex Machina] is 10 or lower, the action pattern change is canceled.
 
-r:"^エクスマキナを10消費する敵単体に(\d+)の魔法ダメージ敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン自分の魔法攻撃力を(\d+)アップ自分のＴＰを125回復$"=►Tiêu hao 10 [Ex Machina].\n►Gây $1 sát thương phép lên một kẻ địch.\n►Gây $2 sát thương phép lên một kẻ địch.\n►Hạ phòng ngự phép của một kẻ địch đi $3.\n►Tăng tấn công phép của bản thân lên $4.\n►Hồi TP cho bản thân lên 125.
+r:"^エクスマキナを10消費する敵単体に(\d+)の魔法ダメージ敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン自分の魔法攻撃力を(\d+)アップ自分のＴＰを125回復$"=►Consumes 10 [Ex Machina].\n►Deals $1 M.DMG to a single enemy.\n►Deals $2 M.DMG to a single enemy.\n►Lowers a single enemy's M.DEF by $3.\n►Boosts own M.ATK by $4.\n►Recovers own TP by 125.

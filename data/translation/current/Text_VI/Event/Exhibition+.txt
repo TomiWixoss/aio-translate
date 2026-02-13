@@ -76,3 +76,5 @@ EXHIBITIONでは、SPECIALのボスと何度も戦えます。\nまた、バト�
 
 バトル開始後90秒間味方全体の行動速度大アップ（重複可能）=Trong 90 giây đầu tiên sau khi trận đấu bắt đầu, tăng cường đáng kể tốc độ hành động của toàn đồng đội (có thể chồng lên nhau).
 バトル開始後90秒間味方全体のＴＰ上昇中アップ=Trong 90 giây đầu trận, tăng cường đáng kể hiệu quả tăng TP của toàn đồng đội.
+
+バトル開始後90秒間敵全体を挑発=Khiêu khích toàn bộ kẻ địch trong 90 giây sau khi trận đấu bắt đầu

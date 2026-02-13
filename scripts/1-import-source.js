@@ -212,9 +212,13 @@ function mergeTextToXml(textDir = null, outputFile = null, mappingFile = null) {
   
   // Lưu template files (toàn bộ cấu trúc gốc)
   const templateDir = path.join(PATHS.SOURCE.CURRENT, 'Text_Templates');
-  if (!fs.existsSync(templateDir)) {
-    fs.mkdirSync(templateDir, { recursive: true });
+  
+  // Xóa thư mục cũ nếu có
+  if (fs.existsSync(templateDir)) {
+    fs.rmSync(templateDir, { recursive: true, force: true });
   }
+  
+  fs.mkdirSync(templateDir, { recursive: true });
   
   console.log('\nĐang lưu template files...');
   textFiles.forEach(filePath => {

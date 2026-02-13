@@ -1,5 +1,6 @@
 const fs = require('fs');
 const path = require('path');
+const PATHS = require('../../config/paths.config');
 
 // Hàm lấy tất cả file .txt trong thư mục
 function getAllTextFiles(dir, baseDir = dir) {
@@ -61,10 +62,10 @@ function parseEntries(filePath) {
 
 // Main
 function compareStructure() {
-  const textDir = './Text';
-  const translatedDir = './Text_Translated';
+  const textDir = PATHS.SOURCE.CURRENT_TEXT;
+  const translatedDir = PATHS.TRANSLATION.CURRENT_TEXT;
   
-  console.log('🔍 So sánh cấu trúc Text vs Text_Translated\n');
+  console.log('🔍 So sánh cấu trúc Text vs Text_VI\n');
   
   // Kiểm tra thư mục tồn tại
   if (!fs.existsSync(textDir)) {
@@ -101,7 +102,7 @@ function compareStructure() {
   }
   
   if (extraInTranslated.length > 0) {
-    console.log(`⚠️  Thừa ${extraInTranslated.length} file trong Text_Translated:`);
+    console.log(`⚠️  Thừa ${extraInTranslated.length} file trong Text_VI (cần xóa):`);
     extraInTranslated.forEach(f => console.log(`   - ${f}`));
     console.log();
   }

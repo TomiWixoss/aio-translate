@@ -42,6 +42,27 @@ function parseXmlToText(xmlFile, mappingFile, templateDir, outputDir) {
   const templateFiles = getAllTextFiles(templateDir);
   console.log(`Đang tạo ${templateFiles.length} files từ template...`);
   
+  // Lấy danh sách file hiện có trong output
+  const existingFiles = fs.existsSync(outputDir) ? getAllTextFiles(outputDir) : [];
+  const templateRelativePaths = new Set(
+    templateFiles.map(f => path.relative(templateDir, f))
+  );
+  
+  // Xóa file không còn trong template
+  let deletedCount = 0;
+  existingFiles.forEach(existingPath => {
+    const relativePath = path.relative(outputDir, existingPath);
+    if (!templateRelativePaths.has(relativePath)) {
+      fs.unlinkSync(existingPath);
+      console.log(`🗑️  Đã xóa: ${relativePath}`);
+      deletedCount++;
+    }
+  });
+  
+  if (deletedCount > 0) {
+    console.log(`\n🗑️  Đã xóa ${deletedCount} file không còn trong source\n`);
+  }
+  
   templateFiles.forEach(templatePath => {
     const relativePath = path.relative(templateDir, templatePath);
     const outputPath = path.join(outputDir, relativePath);
