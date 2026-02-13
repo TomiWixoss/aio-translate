@@ -1,2 +1,0 @@
-サイドストーリーをプレイするには追加データのダウンロードが必要です。\nダウンロードしたサイドストーリーの追加データを端末に保存するか設定します。\n※「保存しない」を選択すると、データがアプリ起動の度に削除され、\n端末のデータ容量を削減できる代わりに、毎回ダウンロードし直す必要があります。=Bạn sẽ cần tải dữ liệu bổ sung để chơi cốt truyện phụ.\nThiết lập có lưu dữ liệu bổ sung của cốt truyện phụ đã tải về vào bộ nhớ không.\n※Nếu bạn chọn "Không lưu", dữ liệu sẽ bị xóa mỗi khi khởi động app,\nvà bạn sẽ phải tải lại mỗi lần vào Cốt truyện phụ.
-サイドストーリーのデータ保存設定=Cài đặt lưu trữ dữ liệu cốt truyện phụ

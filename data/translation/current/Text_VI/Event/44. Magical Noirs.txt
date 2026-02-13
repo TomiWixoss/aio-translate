@@ -1,9 +1,0 @@
-アンチビースト・トリニティ=Chống Thú: Ba Người
-アンチビースト=Chống Thú
-シズル・ノワール=Shizuru Noir
-３人=3 Người
-
-
-ドMうっとりヒートアップ=Làm M Đam Mê Nóng Lên
-
-r:"^ランドソル近郊([0-9\-\(\)\w （）]*)$"=Gần Landosol $1

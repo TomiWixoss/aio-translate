@@ -63,7 +63,19 @@ async function translateBatch(entries, batchIndex, retryCount = 0, messages = nu
     const batch = entries.slice(startIndex, startIndex + BATCH_SIZE);
     const expectedKeys = batch.map(e => e.key);
     
-    // Tạo XML input
+    // Load key mapping để lấy JP
+    let keyMapping = {};
+    if (fs.existsSync(PATHS.MAPPING.KEY_MAPPING)) {
+        keyMapping = JSON.parse(fs.readFileSync(PATHS.MAPPING.KEY_MAPPING, 'utf-8'));
+    }
+    
+    // Tạo danh sách JP để tham khảo (text thuần)
+    const jpList = batch.map((e, idx) => {
+        const jpText = keyMapping[e.key]?.japanese || '';
+        return jpText ? `"${jpText}"` : '';
+    }).filter(t => t).join(', ');
+    
+    // Tạo XML input (chỉ EN)
     const xmlInput = batch.map(e => 
         `  <Text Key="${e.key}">${e.text}</Text>`
     ).join('\n');
@@ -77,10 +89,15 @@ async function translateBatch(entries, batchIndex, retryCount = 0, messages = nu
     
     // Conversation history để retry
     if (!messages) {
+        const referenceText = jpList ? `\nBản Nhật gốc để tham khảo: ${jpList}\n` : '';
+        
         messages = [
             { 
                 role: "user", 
-                content: `Dịch ${batch.length} thẻ XML sau sang tiếng Việt. GIỮ NGUYÊN Key và cấu trúc XML. CHỈ dịch nội dung bên trong thẻ <Text>. Trả về ĐÚNG ${batch.length} thẻ với đúng Key.\n\n${xmlInput}` 
+                content: `Dịch ${batch.length} thẻ XML tiếng Anh sang tiếng Việt.${referenceText}
+${xmlInput}
+
+GIỮ NGUYÊN cấu trúc XML và Key, CHỈ dịch nội dung trong thẻ <Text>. Trả về ĐÚNG ${batch.length} thẻ.` 
             }
         ];
     }
@@ -185,6 +202,9 @@ async function main() {
     if (mode === 'fix-empty') {
         console.log('🔧 Sửa thẻ trống trong file dịch\n');
         
+        // Load key mapping
+        const keyMapping = JSON.parse(fs.readFileSync(PATHS.MAPPING.KEY_MAPPING, 'utf-8'));
+        
         // Đọc cả 2 file (EN gốc và VI hiện tại)
         const enContent = fs.readFileSync(PATHS.SOURCE.CURRENT_XML, 'utf-8');
         const viContent = fs.readFileSync(PATHS.TRANSLATION.CURRENT_XML, 'utf-8');
@@ -212,7 +232,8 @@ async function main() {
         // Tạo entries chỉ với thẻ trống (lấy text từ EN)
         entries = emptyKeys.map(key => ({
             key: key,
-            text: enMap.get(key) || ''
+            text: enMap.get(key) || '',
+            japanese: keyMapping[key]?.japanese || ''
         }));
         
         totalBatches = Math.ceil(entries.length / BATCH_SIZE);

@@ -1,5 +1,0 @@
-r:"^サレンディア救護院内([0-9\-\(\)\w （）]*)$"=Trại Mồ Côi Sarendia (Bên trong) $1
-r:"^エリザベスパーク　牧場温泉([0-9\-\(\)\w （）]*)$"=Công Viên Elizabeth (Onsen) $1
-
-讐鼠・ステゴロのチュウザ=Chuột Trả Thù, Stegoro Chuuza
-讐鼠・怒髪天のチュウジ=Chuột Trả Thù, Dorohaten Chuji
