@@ -38,13 +38,15 @@ module.exports = {
   
   // Unity JSON workflow
   UNITY: {
-    INPUT: path.join(ROOT, 'unity', 'input.json'),
-    OUTPUT: path.join(ROOT, 'unity', 'output.json'),
-    TEMP_EN_XML: path.join(ROOT, 'data', 'temp', 'unity-en.xml'),
-    TEMP_VI_XML: path.join(ROOT, 'data', 'temp', 'unity-vi.xml'),
-    TEMP_NEW: path.join(ROOT, 'data', 'temp', 'unity-new.xml'),
-    TEMP_TRANSLATED: path.join(ROOT, 'data', 'temp', 'unity-translated.xml'),
-    TEMP_MERGED: path.join(ROOT, 'data', 'temp', 'unity-merged.xml'),
+    // Input/Output JSON files
+    INPUT_JSON: path.join(ROOT, 'unity', 'input.json'),
+    OUTPUT_JSON: path.join(ROOT, 'unity', 'output.json'),
+    
+    // Temp XML files (EN = Japanese source)
+    TEMP_EN_XML: path.join(ROOT, 'data', 'temp', 'unity-ja.xml'),      // Japanese source
+    TEMP_NEW: path.join(ROOT, 'data', 'temp', 'unity-new.xml'),        // New entries to translate
+    TEMP_TRANSLATED: path.join(ROOT, 'data', 'temp', 'unity-translated.xml'),  // Translated entries
+    TEMP_MERGED: path.join(ROOT, 'data', 'temp', 'unity-merged.xml'),  // Final merged VI
   },
   
   // Mapping

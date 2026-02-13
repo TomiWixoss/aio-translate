@@ -34,14 +34,14 @@ async function main() {
   const startTime = Date.now();
   
   // Kiểm tra file input
-  if (!fs.existsSync(PATHS.UNITY.INPUT)) {
-    console.error(`❌ File không tồn tại: ${PATHS.UNITY.INPUT}`);
+  if (!fs.existsSync(PATHS.UNITY.INPUT_JSON)) {
+    console.error(`❌ File không tồn tại: ${PATHS.UNITY.INPUT_JSON}`);
     console.log('\nĐặt file JSON Unity vào: unity/input.json');
     process.exit(1);
   }
   
-  console.log(`\n📂 Input: ${PATHS.UNITY.INPUT}`);
-  console.log(`📂 Output: ${PATHS.UNITY.OUTPUT}`);
+  console.log(`\n📂 Input: ${PATHS.UNITY.INPUT_JSON}`);
+  console.log(`📂 Output: ${PATHS.UNITY.OUTPUT_JSON}`);
   
   console.log('\n📝 Workflow:');
   console.log('  1. Import JSON → XML + Mapping');
@@ -125,7 +125,7 @@ async function main() {
     console.log('🎉 HOÀN THÀNH TẤT CẢ!');
     console.log('='.repeat(60));
     console.log(`⏱️  Thời gian: ${elapsed}s`);
-    console.log(`📁 Kết quả: ${PATHS.UNITY.OUTPUT}`);
+    console.log(`📁 Kết quả: ${PATHS.UNITY.OUTPUT_JSON}`);
   });
 }
 

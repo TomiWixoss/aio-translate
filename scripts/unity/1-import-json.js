@@ -10,7 +10,7 @@ const { backupFile } = require('../utils/backup');
  */
 
 function importUnityJson(inputJson = null, outputXml = null, mappingFile = null) {
-  inputJson = inputJson || PATHS.UNITY.INPUT;
+  inputJson = inputJson || PATHS.UNITY.INPUT_JSON;
   outputXml = outputXml || PATHS.UNITY.TEMP_EN_XML;
   mappingFile = mappingFile || PATHS.MAPPING.KEY_MAPPING;
   

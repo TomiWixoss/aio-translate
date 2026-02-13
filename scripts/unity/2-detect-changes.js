@@ -11,7 +11,7 @@ const { jsonToXml } = require('../utils/json-xml-converter');
 
 function detectChanges(newXmlFile = null, oldJsonFile = null, outputFile = null) {
   newXmlFile = newXmlFile || PATHS.UNITY.TEMP_EN_XML;
-  oldJsonFile = oldJsonFile || PATHS.UNITY.OUTPUT;
+  oldJsonFile = oldJsonFile || PATHS.UNITY.OUTPUT_JSON;
   outputFile = outputFile || PATHS.UNITY.TEMP_NEW;
   
   console.log('\n=== [Unity 2] Phát hiện thay đổi ===');

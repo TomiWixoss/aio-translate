@@ -10,7 +10,7 @@ const { xmlToJson } = require('../utils/json-xml-converter');
 
 function exportToJson(inputXml = null, outputJson = null, title = 'vi') {
   inputXml = inputXml || PATHS.UNITY.TEMP_MERGED;
-  outputJson = outputJson || PATHS.UNITY.OUTPUT;
+  outputJson = outputJson || PATHS.UNITY.OUTPUT_JSON;
   
   console.log('\n=== [Unity 5] Export XML → JSON ===');
   console.log(`Input: ${inputXml}`);

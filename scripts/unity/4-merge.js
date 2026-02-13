@@ -10,7 +10,7 @@ const { parseXMLToMap } = require('../utils/xml-parser');
 
 function mergeTranslations(enXml = null, viOldJson = null, viNewXml = null, outputXml = null) {
   enXml = enXml || PATHS.UNITY.TEMP_EN_XML;
-  viOldJson = viOldJson || PATHS.UNITY.OUTPUT;
+  viOldJson = viOldJson || PATHS.UNITY.OUTPUT_JSON;
   viNewXml = viNewXml || PATHS.UNITY.TEMP_TRANSLATED;
   outputXml = outputXml || PATHS.UNITY.TEMP_MERGED;
   
