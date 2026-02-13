@@ -130,6 +130,39 @@ function parseXmlToText(xmlFile, mappingFile, templateDir, outputDir) {
   
   console.log('\nHoàn thành!');
   console.log(`Đã tạo ${templateFiles.length} files trong thư mục: ${outputDir}`);
+  
+  // Apply fixes từ thư mục fix/
+  const fixDir = path.join(path.dirname(PATHS.TRANSLATION.CURRENT), 'fix');
+  console.log(`\n📝 Kiểm tra thư mục fix: ${fixDir}`);
+  
+  if (fs.existsSync(fixDir)) {
+    const fixFiles = getAllTextFiles(fixDir);
+    
+    if (fixFiles.length > 0) {
+      console.log(`Tìm thấy ${fixFiles.length} file fix, đang apply...`);
+      let appliedCount = 0;
+      
+      fixFiles.forEach(fixPath => {
+        const relativePath = path.relative(fixDir, fixPath);
+        const targetPath = path.join(outputDir, relativePath);
+        
+        // Copy file fix ghi đè lên file đã export
+        if (fs.existsSync(targetPath)) {
+          fs.copyFileSync(fixPath, targetPath);
+          console.log(`   ✅ ${relativePath}`);
+          appliedCount++;
+        } else {
+          console.log(`   ⚠️  ${relativePath} (file không tồn tại, bỏ qua)`);
+        }
+      });
+      
+      console.log(`\n✅ Đã apply ${appliedCount}/${fixFiles.length} fixes`);
+    } else {
+      console.log('   ℹ️  Không có file fix nào');
+    }
+  } else {
+    console.log(`   ℹ️  Thư mục fix không tồn tại: ${fixDir}`);
+  }
 }
 
 // Hàm lấy tất cả file .txt
