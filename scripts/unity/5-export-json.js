@@ -5,7 +5,7 @@ const { xmlToJson } = require('../utils/json-xml-converter');
 
 /**
  * Unity Script 5: Export XML → JSON
- * Tương đương với 5-export.js của workflow gốc
+ * Chuyển hash keys về original keys
  */
 
 function exportToJson(inputXml = null, outputJson = null, title = 'vi') {
@@ -22,13 +22,58 @@ function exportToJson(inputXml = null, outputJson = null, title = 'vi') {
     process.exit(1);
   }
   
+  // Đọc reverse mapping (hashKey -> originalKey)
+  const reverseMappingFile = path.join(path.dirname(PATHS.MAPPING.KEY_MAPPING), 'unity_reverse_mapping.json');
+  
+  if (!fs.existsSync(reverseMappingFile)) {
+    console.error(`❌ Không tìm thấy reverse mapping: ${reverseMappingFile}`);
+    console.log('\nChạy script 1-import-json.js trước!');
+    process.exit(1);
+  }
+  
+  console.log('\nĐang đọc reverse mapping...');
+  const reverseMapping = JSON.parse(fs.readFileSync(reverseMappingFile, 'utf8'));
+  console.log(`✅ ${Object.keys(reverseMapping).length} mappings`);
+  
   console.log('\nĐang đọc XML...');
   const xmlContent = fs.readFileSync(inputXml, 'utf8');
   
-  console.log('Đang chuyển đổi...');
-  const jsonData = xmlToJson(xmlContent, title);
+  // Parse XML thủ công để giữ hash keys
+  const keyRegex = /<Text Key="([A-F0-9]+)">(.*?)<\/Text>/gs;
+  const translations = [];
+  let match;
   
-  console.log(`✅ ${jsonData.Translations.length} entries`);
+  while ((match = keyRegex.exec(xmlContent)) !== null) {
+    const hashKey = match[1];
+    const translatedText = match[2]
+      .replace(/&lt;/g, '<')
+      .replace(/&gt;/g, '>')
+      .replace(/&quot;/g, '"')
+      .replace(/&apos;/g, "'")
+      .replace(/&amp;/g, '&');
+    
+    // Chuyển hash key về original key
+    const originalKey = reverseMapping[hashKey];
+    
+    if (!originalKey) {
+      console.warn(`⚠️  Không tìm thấy original key cho hash: ${hashKey}`);
+      continue;
+    }
+    
+    translations.push({
+      Key: originalKey,
+      Version: 1,
+      Value: translatedText
+    });
+  }
+  
+  console.log(`✅ ${translations.length} entries`);
+  
+  // Tạo JSON
+  const jsonData = {
+    Title: title,
+    Translations: translations
+  };
   
   // Tạo thư mục output nếu chưa có
   const outputDir = path.dirname(outputJson);
