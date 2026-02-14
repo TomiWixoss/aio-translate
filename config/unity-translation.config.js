@@ -10,8 +10,8 @@ module.exports = {
   
   // Translation settings
   translation: {
-    batchSize: 50,
-    parallelBatches: 15,
+    batchSize: 10,
+    parallelBatches: 10,
     maxRetries: 3,
     retryDelay: 2000,
   },

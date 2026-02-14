@@ -1,7 +1,7 @@
 
 === PHÂN TÍCH CHI TIẾT CÁC LOẠI LỖI STYLE TAGS ===
 
-❌ HTML TAG ERRORS (438 total, showing 438):
+❌ HTML TAG ERRORS (352 total, showing 352):
 
 1. Key: $$Achievement.BuyBeach.Description$$
    Input tags:  [</style>, <style=Major>]
@@ -267,2382 +267,1859 @@
    Input:  <style="Major">最上級魚飼料製造機</style>の作り方を習得する。<style=Major>寄せ餌</style>、<style=Major>魚飼料</style>、<style=M...
    Output: <style=Major>Máy chế tạo thức ăn cá cao cấp nhất</style>. Có thể chế tạo được <style=Major>mồi câu</...
 
-45. Key: $$Formula.Machine.Juicer_Lv1.Description$$
-   Input tags:  []
-   Output tags: [</style>, <style=Major>]
-   Input:  ドリンクメーカーを作る
-   Output: Làm <style=Major>máy pha đồ uống</style>
-
-46. Key: $$FormulaBook.Machine.Brew.Description$$
+45. Key: $$FormulaBook.Machine.Brew.Description$$
    Input tags:  [</style>, </style>, </style>, <style="Major">, <style=Major>, <style=Major>]
    Output tags: [</style>, </style>, </style>, <style=Major>, <style=Major>, <style=Major>]
    Input:  <style="Major">醸造樽</style>の作り方を習得できる。<style=Major>一部の作物</style>を<style=Major>調味料</style>に加工できる。
    Output: <style=Major>Thùng ủ</style> có thể học được cách chế tạo. Có thể chế biến <style=Major>một số loại ...
 
-47. Key: $$FormulaBook.Machine.FishFeed_Lv1.Description$$
+46. Key: $$FormulaBook.Machine.FishFeed_Lv1.Description$$
    Input tags:  [</style>, </style>, <style="Major">, <style=Major>]
    Output tags: [</style>, </style>, <style=Major>, <style=Major>]
    Input:  <style="Major">下級魚飼料製造機</style>の作り方を習得できる。基本的な機能を備えた魚エサ製造機。<style=Major>寄せ餌</style>を作ることができる。
    Output: Có thể học được cách chế tạo <style=Major>máy chế tạo thức ăn cá cấp thấp</style>. Máy chế tạo thức ...
 
-48. Key: $$FormulaBook.Machine.FishFeed_Lv2.Description$$
+47. Key: $$FormulaBook.Machine.FishFeed_Lv2.Description$$
    Input tags:  [</style>, </style>, </style>, <style="Major">, <style=Major>, <style=Major>]
    Output tags: [</style>, </style>, </style>, <style=Major>, <style=Major>, <style=Major>]
    Input:  <style="Major">上級魚飼料製造機</style>の作り方を習得できる。普通の魚飼料製造機。<style=Major>寄せ餌</style>と<style=Major>魚の飼料</styl...
    Output: Có thể học được cách chế tạo <style=Major>máy chế tạo thức ăn cá cấp cao</style>. Máy chế tạo thức ă...
 
-49. Key: $$FormulaBook.Machine.FishFeed_Lv3.Description$$
+48. Key: $$FormulaBook.Machine.FishFeed_Lv3.Description$$
    Input tags:  [</style>, </style>, </style>, </style>, <style="Major">, <style=Major>, <style=Major>, <style=Major>]
    Output tags: [</style>, </style>, </style>, </style>, <style=Major>, <style=Major>, <style=Major>, <style=Major>]
    Input:  <style="Major">最上級魚飼料製造機</style>の作り方を習得できる。機能が充実したプロ向けの魚飼料製造機。<style=Major>寄せ餌</style>、<style=Major>...
    Output: Có thể học được cách chế tạo <style=Major>máy chế tạo thức ăn cá cấp cao nhất</style>. Máy chế tạo t...
 
-50. Key: $$FormulaBook.Machine.FishIncubate_Lv1.Description$$
+49. Key: $$FormulaBook.Machine.FishIncubate_Lv1.Description$$
    Input tags:  [</style>, </style>, <style="Major">, <style=Major>]
    Output tags: [</style>, </style>, <style=Major>, <style=Major>]
    Input:  <style="Major">魚卵孵化機</style>の作り方を習得できる。<style=Major>魚卵</style>を孵化させることができる。
    Output: Có thể học được cách chế tạo <style=Major>máy ấp trứng cá</style>. Có thể ấp <style=Major>trứng cá</...
 
-51. Key: $$FormulaBook.Machine.JamJar.Description$$
+50. Key: $$FormulaBook.Machine.JamJar.Description$$
    Input tags:  [</style>, </style>, </style>, <style="Major">, <style=Major>, <style=Major>]
    Output tags: [</style>, </style>, </style>, <style=Major>, <style=Major>, <style=Major>]
    Input:  <style="Major">ジャムメーカー</style>の作り方を習得できる。<style=Major>果物</style>を加工して、<style=Major>ジャム</style>を作ることが...
    Output: <style=Major>Máy làm mứt</style> có thể học cách chế tạo. Có thể chế biến <style=Major>trái cây</sty...
 
-52. Key: $$FormulaBook.Machine.ManureBin_Lv1.Description$$
+51. Key: $$FormulaBook.Machine.ManureBin_Lv1.Description$$
    Input tags:  [</style>, </style>, <style="Major">, <style=Major>]
    Output tags: [</style>, </style>, <style=Major>, <style=Major>]
    Input:  <style="Major">初心者用コンポスター</style>の作り方を習得できる。畑に使える<style=Major>成長促進肥料</style>を作ることができる。
    Output: <style=Major>Máy ủ phân dành cho người mới</style> có thể học cách chế tạo. Có thể tạo ra <style=Maj...
 
-53. Key: $$FormulaBook.Machine.ManureBin_Lv2.Description$$
+52. Key: $$FormulaBook.Machine.ManureBin_Lv2.Description$$
    Input tags:  [</style>, </style>, <style="Major">, <style=Major>]
    Output tags: [</style>, </style>, <style=Major>, <style=Major>]
    Input:  <style="Major">下級コンポスター</style>の作り方を習得できる。より多くの<style=Major>肥料</style>を作ることができる。
    Output: <style=Major>Máy ủ phân cấp thấp</style> có thể học cách chế tạo. Có thể tạo ra nhiều <style=Major>p...
 
-54. Key: $$FormulaBook.Machine.ManureBin_Lv3.Description$$
+53. Key: $$FormulaBook.Machine.ManureBin_Lv3.Description$$
    Input tags:  [</style>, </style>, <style="Major">, <style=Major>]
    Output tags: [</style>, </style>, <style=Major>, <style=Major>]
    Input:  <style="Major">上級コンポスター</style>の作り方を習得できる。もっと多くの<style=Major>肥料</style>を作ることができる。
    Output: <style=Major>Máy ủ phân cấp cao</style> có thể học cách chế tạo. Có thể tạo ra còn nhiều <style=Majo...
 
-55. Key: $$FormulaBook.Machine.ManureBin_Lv4.Description$$
+54. Key: $$FormulaBook.Machine.ManureBin_Lv4.Description$$
    Input tags:  [</style>, </style>, <style="Major">, <style=Major>]
    Output tags: [</style>, </style>, <style=Major>, <style=Major>]
    Input:  <style="Major">最上級コンポスター</style>の作り方を習得できる。さらに多くの<style=Major>肥料</style>を作ることができる。
    Output: <style=Major>Máy ủ phân đỉnh cao</style> có thể học cách chế tạo. Có thể tạo ra lượng <style=Major>p...
 
-56. Key: $$FormulaBook.Machine.ManureBin_Lv5.Description$$
+55. Key: $$FormulaBook.Machine.ManureBin_Lv5.Description$$
    Input tags:  [</style>, </style>, <style="Major">, <style=Major>]
    Output tags: [</style>, </style>, <style=Major>, <style=Major>]
    Input:  <style="Major">特級コンポスター</style>の作り方を習得できる。<style=Major>極上の肥料</style>を作ることができる。
    Output: <style=Major>Máy ủ phân đặc cấp</style> có thể học được cách chế tạo. Có thể tạo ra <style=Major>Phâ...
 
-57. Key: $$FormulaBook.Machine.PickleBarrel.Description$$
+56. Key: $$FormulaBook.Machine.PickleBarrel.Description$$
    Input tags:  [</style>, </style>, </style>, <style="Major">, <style=Major>, <style=Major>]
    Output tags: [</style>, </style>, </style>, <style=Major>, <style=Major>, <style=Major>]
    Input:  <style="Major">漬物樽</style>の作り方を習得できる。漬物用の漬け樽。<style=Major>野菜</style>を入れると、<style=Major>漬物</style>に加工...
    Output: Có thể học được cách chế tạo <style=Major>Thùng dưa</style>. Thùng ủ dưa. Khi cho <style=Major>rau c...
 
-58. Key: $$FormulaBook.Machine.Sprinkler_Lv1.Description$$
+57. Key: $$FormulaBook.Machine.Sprinkler_Lv1.Description$$
    Input tags:  [</style>, </style>, <style="Major">, <style=Major>]
    Output tags: [</style>, </style>, <style=Major>, <style=Major>]
    Input:  <style="Major">スプリンクラー(S)</style>の作り方を習得できる。まわり<style=Major>小さい範囲内</style>の作物に自動で水やりしてくれるスプリンクラー。
    Output: <style=Major>Máy tưới (S)</style> có thể học được cách chế tạo. Máy tưới tự động tưới nước cho xung ...
 
-59. Key: $$FormulaBook.Machine.Sprinkler_Lv2.Description$$
+58. Key: $$FormulaBook.Machine.Sprinkler_Lv2.Description$$
    Input tags:  [</style>, </style>, <style="Major">, <style=Major>]
    Output tags: [</style>, </style>, <style=Major>, <style=Major>]
    Input:  <style="Major">スプリンクラー(M)</style>の作り方を習得できる。まわり<style=Major>大きい範囲内</style>の作物に自動で水やりしてくれるスプリンクラー。
    Output: <style=Major>Máy tưới (M)</style> có thể học được cách chế tạo. Máy tưới tự động tưới nước cho xung ...
 
-60. Key: $$FormulaBook.Machine.Sprinkler_Lv3.Description$$
+59. Key: $$FormulaBook.Machine.Sprinkler_Lv3.Description$$
    Input tags:  [</style>, </style>, <style="Major">, <style=Major>]
    Output tags: [</style>, </style>, <style=Major>, <style=Major>]
    Input:  <style="Major">スプリンクラー(L)</style>の作り方を習得できる。まわり<style=Major>超大きい範囲内</style>の作物に自動で水やりしてくれる広範囲スプリンクラー...
    Output: <style=Major>Máy tưới (L)</style> có thể học được cách chế tạo. Máy tưới tự động tưới nước cho xung ...
 
-61. Key: $$Interact.Livestock.Brush_Tips_AllAnimal.Extensions.AvailableCheck.CheckEntries[0].CheckFailText$$
+60. Key: $$Interact.Livestock.Brush_Tips_AllAnimal.Extensions.AvailableCheck.CheckEntries[0].CheckFailText$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Input:  <style="Major">清掃が必要</style>の<style="Major">動物</style>のみ使える
    Output: <style="Major">Chỉ có</style> <style="Major">động vật</style> cần<style="Major">dọn dẹp</style> mới ...
 
-62. Key: $$Interact.Livestock.ChangeToMount_AllAnimal.displayName$$
-   Input tags:  []
-   Output tags: [</style>, <style="Major">]
-   Input:  乗用動物として登録
-   Output: Đăng ký làm<style="Major">thú cưỡi</style>
-
-63. Key: $$Interact.Livestock.Cutting_Tips_BigAnimal.Extensions.AvailableCheck.CheckEntries[0].CheckFailText$$
+61. Key: $$Interact.Livestock.Cutting_Tips_BigAnimal.Extensions.AvailableCheck.CheckEntries[0].CheckFailText$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Input:  <style="Major">毛刈りが必要</style>の<style="Major">羊</style>のみ使える
    Output: <style="Major">Chỉ có</style> <style="Major">cừu</style> cần <style="Major">cắt lông</style> mới dùn...
 
-64. Key: $$Interact.PickUpManure.Extensions.AvailableCheck.CheckEntries[1].CheckFailText$$
+62. Key: $$Interact.PickUpManure.Extensions.AvailableCheck.CheckEntries[1].CheckFailText$$
    Input tags:  [</Style>, <Style=Major>]
    Output tags: []
    Input:  <Style=Major>見習い栽培者</Style>になってから使いましょう。
    Output: Hãy dùng sau khi trở thành thực tập sinh nông trại.
 
-65. Key: $$IslandStage.3003.NormalStageCondition[0].Text$$
+63. Key: $$IslandStage.3003.NormalStageCondition[0].Text$$
    Input tags:  [</style>, <sprite name="Haogan">, <sprite name="Haogan">, <sprite name="Haogan">, <sprite name="Haogan">, <style="Major">]
    Output tags: [</style>, </style>, <sprite name="Haogan">, <sprite name="Haogan">, <sprite name="Haogan">, <sprite name="Haogan">, <style="Major">, <style="Major">]
    Input:  合計2人の<style="Major">絆</style>特性を持つ島民の好感度が<sprite name="Haogan"><sprite name="Haogan"><sprite name="H...
    Output: Lượng thân thiện của tổng cộng <style="Major">2 người</style> dân đảo có đặc điểm <style="Major">Mối...
 
-66. Key: $$Item.Collection.GoldenFruit_PineApple.Description$$
+64. Key: $$Item.Collection.GoldenFruit_PineApple.Description$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, <style="Major">]
    Input:  巨大パイナップルからとれる金色の実。<style="Major">飾り</style>として自宅に置いたり、店に<style="Major">売却</style>して換金したりできる。
    Output: Quả vàng từ quả dứa khổng lồ. <style="Major">Trang trí</style> trong nhà hoặc bán ở cửa hàng để đổi ...
 
-67. Key: $$Item.Collection.GoldenFruit_Pumpkin.Description$$
+65. Key: $$Item.Collection.GoldenFruit_Pumpkin.Description$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, <style="Major">]
    Input:  巨大カボチャからとれる金色の実。<style="Major">飾り</style>として自宅に置いたり、店に<style="Major">売却</style>して換金したりできる。
    Output: Quả vàng từ quả bí khổng lồ. <style="Major">Trang trí</style> trong nhà hoặc bán ở cửa hàng để đổi t...
 
-68. Key: $$Item.Collection.GoldenFruit_Watermelon.Description$$
+66. Key: $$Item.Collection.GoldenFruit_Watermelon.Description$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, <style="Major">]
    Input:  巨大スイカからとれる金色の実。<style="Major">飾り</style>として自宅に置いたり、店に<style="Major">売却</style>して換金したりできる。
    Output: Quả vàng từ quả dưa hấu khổng lồ. <style="Major">Trang trí</style> trong nhà hoặc bán ở cửa hàng để ...
 
-69. Key: $$Item.Collection.GoldenFruit_Wintermelon.Description$$
+67. Key: $$Item.Collection.GoldenFruit_Wintermelon.Description$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, <style="Major">]
    Input:  巨大トウガンからとれる金色の実。<style="Major">飾り</style>として自宅に置いたり、店に<style="Major">売却</style>して換金したりできる。
    Output: Quả vàng từ quả bầu khổng lồ. <style="Major">Trang trí</style> trong nhà hoặc bán ở cửa hàng để đổi ...
 
-70. Key: $$Item.Collection_DebrisLingFang.Description$$
+68. Key: $$Item.Collection_DebrisLingFang.Description$$
    Input tags:  [</style>, <style="Major">, <貴重アイテム>]
    Output tags: [</style>, <Vật phẩm quý>, <style="Major">]
    Input:  <style="Major"><貴重アイテム></style>謎の上級鉱石や謎の中級鉱石を解析すると、稀に手に入ることがある。霊方を作るための重要な素材。
    Output: <style="Major"><Vật phẩm quý></style> Khi phân tích quặng bí ẩn cấp cao và quặng bí ẩn cấp trung bìn...
 
-71. Key: $$Item.Crop.Flower_Moonrise_YellowSeed.Description$$
+69. Key: $$Item.Crop.Flower_Moonrise_YellowSeed.Description$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Input:  <style="Major">畑</style>で<style="Major">１マスを空けて植える</style>ことで、別の色のツキミソウが生まれることがある。
    Output: <style="Major">Vườn trồng</style> để <style="Major">trồng với khoảng trống 1 ô</style>, đôi khi có t...
 
-72. Key: $$Item.Crop.Flower_Moonrise_YellowSeed_Eternity.Description$$
+70. Key: $$Item.Crop.Flower_Moonrise_YellowSeed_Eternity.Description$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Input:  <style="Major">畑</style>で<style="Major">１マスを空けて植える</style>ことで、別の色のツキミソウが生まれることがある。
    Output: <style="Major">Vườn trồng</style> để <style="Major">trồng với khoảng trống 1 ô</style>, đôi khi có t...
 
-73. Key: $$Item.Crop.Flower_Orchid_BlackSeed.Description$$
+71. Key: $$Item.Crop.Flower_Orchid_BlackSeed.Description$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Input:  <style="Major">畑</style>で<style="Major">１マスを空けて植える</style>ことで、別の色のランが生まれることがある。
    Output: <style="Major">Vườn trồng</style> để <style="Major">trồng với khoảng trống 1 ô</style>, đôi khi có t...
 
-74. Key: $$Item.Crop.Flower_Orchid_BlackSeed_Eternity.Description$$
+72. Key: $$Item.Crop.Flower_Orchid_BlackSeed_Eternity.Description$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Input:  <style="Major">畑</style>で<style="Major">１マスを空けて植える</style>ことで、別の色のランが生まれることがある。
    Output: <style="Major">Vườn trồng</style> để <style="Major">trồng với khoảng trống 1 ô</style>, đôi khi có t...
 
-75. Key: $$Item.Crop.Flower_Orchid_BlueSeed.Description$$
+73. Key: $$Item.Crop.Flower_Orchid_BlueSeed.Description$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Input:  <style="Major">畑</style>で<style="Major">１マスを空けて植える</style>ことで、別の色のランが生まれることがある。
    Output: <style="Major">Vườn trồng</style> để <style="Major">trồng với khoảng trống 1 ô</style>, đôi khi có t...
 
-76. Key: $$Item.Crop.Flower_Orchid_BlueSeed_Eternity.Description$$
+74. Key: $$Item.Crop.Flower_Orchid_BlueSeed_Eternity.Description$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Input:  <style="Major">畑</style>で<style="Major">１マスを空けて植える</style>ことで、別の色のランが生まれることがある。
    Output: <style="Major">Vườn trồng</style> để <style="Major">trồng với khoảng trống 1 ô</style>, đôi khi có t...
 
-77. Key: $$Item.Crop.Flower_Orchid_BrownSeed.Description$$
+75. Key: $$Item.Crop.Flower_Orchid_BrownSeed.Description$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Input:  <style="Major">畑</style>で<style="Major">１マスを空けて植える</style>ことで、別の色のランが生まれることがある。
    Output: <style="Major">Vườn trồng</style> để <style="Major">trồng với khoảng trống 1 ô</style>, đôi khi có t...
 
-78. Key: $$Item.Crop.Flower_Orchid_BrownSeed_Eternity.Description$$
+76. Key: $$Item.Crop.Flower_Orchid_BrownSeed_Eternity.Description$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Input:  <style="Major">畑</style>で<style="Major">１マスを空けて植える</style>ことで、別の色のランが生まれることがある。
    Output: <style="Major">Vườn trồng</style> để <style="Major">trồng với khoảng trống 1 ô</style>, đôi khi có t...
 
-79. Key: $$Item.Crop.Flower_Orchid_GreenSeed.Description$$
+77. Key: $$Item.Crop.Flower_Orchid_GreenSeed.Description$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Input:  <style="Major">畑</style>で<style="Major">１マスを空けて植える</style>ことで、別の色のランが生まれることがある。
    Output: <style="Major">Vườn trồng</style> để <style="Major">trồng với khoảng trống 1 ô</style>, đôi khi có t...
 
-80. Key: $$Item.Crop.Flower_Rose_GreenSeed.Description$$
+78. Key: $$Item.Crop.Flower_Rose_GreenSeed.Description$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, <style="Major">]
    Input:  <style="Major">畑</style>で<style="Major">１マスを空けて植える</style>ことで、別の色のバラが生まれることがある。
    Output: <style="Major">Ở nơi cày xới, để trống 1 ô</style> khi trồng, đôi khi sẽ mọc lên bông hồng màu khác.
 
-81. Key: $$Item.Crop.Flower_Rose_GreenSeed_Eternity.Description$$
+79. Key: $$Item.Crop.Flower_Rose_GreenSeed_Eternity.Description$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, <style="Major">]
    Input:  <style="Major">畑</style>で<style="Major">１マスを空けて植える</style>ことで、別の色のバラが生まれることがある。
    Output: <style="Major">Ở nơi cày xới, để trống 1 ô</style> khi trồng, đôi khi sẽ mọc lên bông hồng màu khác.
 
-82. Key: $$Item.Crop.Flower_Rose_OrangeSeed.Description$$
+80. Key: $$Item.Crop.Flower_Rose_OrangeSeed.Description$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, <style="Major">]
    Input:  <style="Major">畑</style>で<style="Major">１マスを空けて植える</style>ことで、別の色のバラが生まれることがある。
    Output: <style="Major">Ở nơi cày xới, để trống 1 ô</style> khi trồng, đôi khi sẽ mọc lên bông hồng màu khác.
 
-83. Key: $$Item.Crop.Flower_Rose_OrangeSeed_Eternity.Description$$
+81. Key: $$Item.Crop.Flower_Rose_OrangeSeed_Eternity.Description$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, <style="Major">]
    Input:  <style="Major">畑</style>で<style="Major">１マスを空けて植える</style>ことで、別の色のバラが生まれることがある。
    Output: <style="Major">Ở nơi cày xới, để trống 1 ô</style> khi trồng, đôi khi sẽ mọc lên bông hồng màu khác.
 
-84. Key: $$Item.Crop.Flower_Rose_PinkSeed.Description$$
+82. Key: $$Item.Crop.Flower_Rose_PinkSeed.Description$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, <style="Major">]
    Input:  <style="Major">畑</style>で<style="Major">１マスを空けて植える</style>ことで、別の色のバラが生まれることがある。
    Output: <style="Major">Ở nơi cày xới, để trống 1 ô</style> khi trồng, đôi khi sẽ mọc lên bông hồng màu khác.
 
-85. Key: $$Item.Crop.Flower_Rose_PinkSeed_Eternity.Description$$
+83. Key: $$Item.Crop.Flower_Rose_PinkSeed_Eternity.Description$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, <style="Major">]
    Input:  <style="Major">畑</style>で<style="Major">１マスを空けて植える</style>ことで、別の色のバラが生まれることがある。
    Output: <style="Major">Ở nơi cày xới, để trống 1 ô</style> khi trồng, đôi khi sẽ mọc lên bông hồng màu khác.
 
-86. Key: $$Item.Crop.Flower_Rose_PurpleSeed.Description$$
+84. Key: $$Item.Crop.Flower_Rose_PurpleSeed.Description$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, <style="Major">]
    Input:  <style="Major">畑</style>で<style="Major">１マスを空けて植える</style>ことで、別の色のバラが生まれることがある。
    Output: <style="Major">Ở nơi cày xới, để trống 1 ô</style> khi trồng, đôi khi sẽ mọc lên bông hồng màu khác.
 
-87. Key: $$Item.Crop.Flower_Rose_PurpleSeed_Eternity.Description$$
+85. Key: $$Item.Crop.Flower_Rose_PurpleSeed_Eternity.Description$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, <style="Major">]
    Input:  <style="Major">畑</style>で<style="Major">１マスを空けて植える</style>ことで、別の色のバラが生まれることがある。
    Output: <style="Major">Ở nơi cày xới, để trống 1 ô</style> khi trồng, đôi khi sẽ mọc lên bông hồng màu khác.
 
-88. Key: $$Item.Crop.PearSeed.Description$$
+86. Key: $$Item.Crop.PearSeed.Description$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, <style="Major">]
    Input:  苗木は<style="Major">どの季節</style>にも植えられるが、<style="Major">夏と秋</style>にだけ実を結ぶ。
    Output: Cây con có thể trồng vào bất kỳ mùa nào, nhưng chỉ ra quả vào <style="Major">mùa hè và thu</style>.
 
-89. Key: $$Item.Crop.PersimmonSeed.Description$$
+87. Key: $$Item.Crop.PersimmonSeed.Description$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, <style="Major">]
    Input:  苗木は<style="Major">どの季節</style>にも植えられるが、<style="Major">夏と秋</style>にだけ実を結ぶ。
    Output: Cây con có thể trồng vào bất kỳ mùa nào, nhưng chỉ ra quả vào <style="Major">mùa hè và thu</style>.
 
-90. Key: $$Item.Crop.WatermelonSeed.Description$$
+88. Key: $$Item.Crop.WatermelonSeed.Description$$
    Input tags:  [</style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Input:  <style="Major">3×3</style>の配置で<style="Major">畑</style>に植えて、そしてすべてのスイカが成熟した際、<style="Major">一定の確率</st...
    Output: <style="Major">3×3</style> cấu hình trồng ở <style="Major">ruộng</style>, khi tất cả <style="Major">...
 
-91. Key: $$Item.Crop.WinterMelonSeed.Description$$
+89. Key: $$Item.Crop.WinterMelonSeed.Description$$
    Input tags:  [</style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Input:  <style="Major">3×3</style>の配置で<style="Major">畑</style>に植えると、すべて成熟した際、<style="Major">一定の確率</style>で<s...
    Output: <style="Major">3×3</style> cấu hình trồng ở <style="Major">ruộng</style>, khi tất cả <style="Major">...
 
-92. Key: $$KUIRegionBuildInfo.AllCompleted$$
+90. Key: $$KUIRegionBuildInfo.AllCompleted$$
    Input tags:  [</style>, <style=Major>]
    Output tags: [<style=Major>]
    Input:  <style=Major>「{0}」</style>の土地拡張が全部完了しました！おめでとうございます！
    Output: <style=Major>Mở rộng đất "{0}" đã hoàn tất toàn bộ! Chúc mừng!
 
-93. Key: $$KUIRegionBuildInfo.ConfirmUnlock1$$
+91. Key: $$KUIRegionBuildInfo.ConfirmUnlock1$$
    Input tags:  [</style>, <style="Major">]
    Output tags: [<style="Major">]
    Input:  <style="Major">{0}</style>を対象にする工事を始めます。よろしいですか？
    Output: <style="Major">Bắt đầu thi công nhắm vào {0}. Được chứ?
 
-94. Key: $$LivestockGene.3001_Horse.LevelGenes[2].Description$$
+92. Key: $$LivestockGene.3001_Horse.LevelGenes[2].Description$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, <style="Major">]
    Input:  異性の動物を<style="Major">惹きつけやすく</style>、繁殖の<style="Major">優先権</style>を持っている
    Output: Dễ thu hút động vật khác giới và có <style="Major">ưu tiên</style> trong việc sinh sản
 
-95. Key: $$LivestockGene.3001_Musk.LevelGenes[0].Description$$
+93. Key: $$LivestockGene.3001_Musk.LevelGenes[0].Description$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, <style="Major">]
    Input:  異性の動物を<style="Major">惹きつけやすく</style>、繁殖の<style="Major">優先権</style>を持っている
    Output: Dễ thu hút động vật khác giới và có <style="Major">ưu tiên</style> trong việc sinh sản
 
-96. Key: $$LivestockGene.3001_Musk.LevelGenes[1].Description$$
+94. Key: $$LivestockGene.3001_Musk.LevelGenes[1].Description$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, <style="Major">]
    Input:  異性の動物を<style="Major">惹きつけやすく</style>、繁殖の<style="Major">優先権</style>を持っている
    Output: Dễ thu hút động vật khác giới và có <style="Major">ưu tiên</style> trong việc sinh sản
 
-97. Key: $$LivestockGene.3001_Musk.LevelGenes[2].Description$$
+95. Key: $$LivestockGene.3001_Musk.LevelGenes[2].Description$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, <style="Major">]
    Input:  異性の動物を<style="Major">惹きつけやすく</style>、繁殖の<style="Major">優先権</style>を持っている
    Output: Dễ thu hút động vật khác giới và có <style="Major">ưu tiên</style> trong việc sinh sản
 
-98. Key: $$LivestockGene.3001_Ostrich.LevelGenes[0].Description$$
+96. Key: $$LivestockGene.3001_Ostrich.LevelGenes[0].Description$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, <style="Major">]
    Input:  異性の動物を<style="Major">惹きつけやすく</style>、繁殖の<style="Major">優先権</style>を持っている
    Output: Dễ thu hút động vật khác giới và có <style="Major">ưu tiên</style> trong việc sinh sản
 
-99. Key: $$LivestockGene.3001_Ostrich.LevelGenes[1].Description$$
+97. Key: $$LivestockGene.3001_Ostrich.LevelGenes[1].Description$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, <style="Major">]
    Input:  異性の動物を<style="Major">惹きつけやすく</style>、繁殖の<style="Major">優先権</style>を持っている
    Output: Dễ thu hút động vật khác giới và có <style="Major">ưu tiên</style> trong việc sinh sản
 
-100. Key: $$LivestockGene.3001_Ostrich.LevelGenes[2].Description$$
+98. Key: $$LivestockGene.3001_Ostrich.LevelGenes[2].Description$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, <style="Major">]
    Input:  異性の動物を<style="Major">惹きつけやすく</style>、繁殖の<style="Major">優先権</style>を持っている
    Output: Dễ thu hút động vật khác giới và có <style="Major">ưu tiên</style> trong việc sinh sản
 
-101. Key: $$LivestockGene.3001_Pig.LevelGenes[0].Description$$
+99. Key: $$LivestockGene.3001_Pig.LevelGenes[0].Description$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, <style="Major">]
    Input:  異性の動物を<style="Major">惹きつけやすく</style>、繁殖の<style="Major">優先権</style>を持っている
    Output: Dễ thu hút động vật khác giới và có <style="Major">ưu tiên</style> trong việc sinh sản
 
-102. Key: $$LivestockGene.3001_Pig.LevelGenes[1].Description$$
+100. Key: $$LivestockGene.3001_Pig.LevelGenes[1].Description$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, <style="Major">]
    Input:  異性の動物を<style="Major">惹きつけやすく</style>、繁殖の<style="Major">優先権</style>を持っている
    Output: Dễ thu hút động vật khác giới và có <style="Major">ưu tiên</style> trong việc sinh sản
 
-103. Key: $$LivestockGene.3001_Pig.LevelGenes[2].Description$$
+101. Key: $$LivestockGene.3001_Pig.LevelGenes[2].Description$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, <style="Major">]
    Input:  異性の動物を<style="Major">惹きつけやすく</style>、繁殖の<style="Major">優先権</style>を持っている
    Output: Dễ thu hút động vật khác giới và có <style="Major">ưu tiên</style> trong việc sinh sản
 
-104. Key: $$LivestockGene.3001_Rabbit.LevelGenes[0].Description$$
+102. Key: $$LivestockGene.3001_Rabbit.LevelGenes[0].Description$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, <style="Major">]
    Input:  異性の動物を<style="Major">惹きつけやすく</style>、繁殖の<style="Major">優先権</style>を持っている
    Output: Dễ thu hút động vật khác giới và có <style="Major">ưu tiên</style> trong việc sinh sản
 
-105. Key: $$LivestockGene.3001_Rabbit.LevelGenes[1].Description$$
+103. Key: $$LivestockGene.3001_Rabbit.LevelGenes[1].Description$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, <style="Major">]
    Input:  異性の動物を<style="Major">惹きつけやすく</style>、繁殖の<style="Major">優先権</style>を持っている
    Output: Dễ thu hút động vật khác giới và có <style="Major">ưu tiên</style> trong việc sinh sản
 
-106. Key: $$LivestockGene.3001_Rabbit.LevelGenes[2].Description$$
+104. Key: $$LivestockGene.3001_Rabbit.LevelGenes[2].Description$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, <style="Major">]
    Input:  異性の動物を<style="Major">惹きつけやすく</style>、繁殖の<style="Major">優先権</style>を持っている
    Output: Dễ thu hút động vật khác giới và có <style="Major">ưu tiên</style> trong việc sinh sản
 
-107. Key: $$LivestockGene.3001_Sheep.LevelGenes[0].Description$$
+105. Key: $$LivestockGene.3001_Sheep.LevelGenes[0].Description$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, <style="Major">]
    Input:  異性の動物を<style="Major">惹きつけやすく</style>、繁殖の<style="Major">優先権</style>を持っている
    Output: Dễ thu hút động vật khác giới và có <style="Major">ưu tiên</style> trong việc sinh sản
 
-108. Key: $$LivestockGene.3001_Sheep.LevelGenes[1].Description$$
+106. Key: $$LivestockGene.3001_Sheep.LevelGenes[1].Description$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, <style="Major">]
    Input:  異性の動物を<style="Major">惹きつけやすく</style>、繁殖の<style="Major">優先権</style>を持っている
    Output: Dễ thu hút động vật khác giới và có <style="Major">ưu tiên</style> trong việc sinh sản
 
-109. Key: $$LivestockGene.3001_Sheep.LevelGenes[2].Description$$
+107. Key: $$LivestockGene.3001_Sheep.LevelGenes[2].Description$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, <style="Major">]
    Input:  異性の動物を<style="Major">惹きつけやすく</style>、繁殖の<style="Major">優先権</style>を持っている
    Output: Dễ thu hút động vật khác giới và có <style="Major">ưu tiên</style> trong việc sinh sản
 
-110. Key: $$LivestockGene.4003_CNM.LevelGenes[0].Description$$
+108. Key: $$LivestockGene.4003_CNM.LevelGenes[0].Description$$
    Input tags:  [</style>, </style>, <style="MajorRed">, <style="MajorRed">]
    Output tags: [</style>, <style="MajorRed">]
    Input:  この動物を<style="MajorRed">撫でる</style>ことは<style="MajorRed">できない</style>
    Output: Không thể <style="MajorRed">vuốt ve</style> con vật này.
 
-111. Key: $$LivestockGene.4003_Cow.LevelGenes[0].Description$$
+109. Key: $$LivestockGene.4003_Cow.LevelGenes[0].Description$$
    Input tags:  [</style>, </style>, <style="MajorRed">, <style="MajorRed">]
    Output tags: [</style>, <style="MajorRed">]
    Input:  この動物を<style="MajorRed">撫でる</style>ことは<style="MajorRed">できない</style>
    Output: Không thể <style="MajorRed">vuốt ve</style> con vật này.
 
-112. Key: $$LivestockGene.4003_Deer.LevelGenes[0].Description$$
+110. Key: $$LivestockGene.4003_Deer.LevelGenes[0].Description$$
    Input tags:  [</style>, </style>, <style="MajorRed">, <style="MajorRed">]
    Output tags: [</style>, <style="MajorRed">]
    Input:  この動物を<style="MajorRed">撫でる</style>ことは<style="MajorRed">できない</style>
    Output: Không thể <style="MajorRed">vuốt ve</style> con vật này.
 
-113. Key: $$LivestockGene.4003_Duck.LevelGenes[0].Description$$
+111. Key: $$LivestockGene.4003_Duck.LevelGenes[0].Description$$
    Input tags:  [</style>, </style>, <style="MajorRed">, <style="MajorRed">]
    Output tags: [</style>, <style="MajorRed">]
    Input:  この動物を<style="MajorRed">撫でる</style>ことは<style="MajorRed">できない</style>
    Output: Không thể <style="MajorRed">vuốt ve</style> con vật này.
 
-114. Key: $$LivestockGene.4003_Hen.LevelGenes[0].Description$$
+112. Key: $$LivestockGene.4003_Hen.LevelGenes[0].Description$$
    Input tags:  [</style>, </style>, <style="MajorRed">, <style="MajorRed">]
    Output tags: [</style>, <style="MajorRed">]
    Input:  この動物を<style="MajorRed">撫でる</style>ことは<style="MajorRed">できない</style>
    Output: Không thể <style="MajorRed">vuốt ve</style> con vật này.
 
-115. Key: $$LivestockGene.4003_Horse.LevelGenes[0].Description$$
+113. Key: $$LivestockGene.4003_Horse.LevelGenes[0].Description$$
    Input tags:  [</style>, </style>, <style="MajorRed">, <style="MajorRed">]
    Output tags: [</style>, <style="MajorRed">]
    Input:  この動物を<style="MajorRed">撫でる</style>ことは<style="MajorRed">できない</style>
    Output: Không thể <style="MajorRed">vuốt ve</style> con vật này.
 
-116. Key: $$LivestockGene.4003_Musk.LevelGenes[0].Description$$
+114. Key: $$LivestockGene.4003_Musk.LevelGenes[0].Description$$
    Input tags:  [</style>, </style>, <style="MajorRed">, <style="MajorRed">]
    Output tags: [</style>, <style="MajorRed">]
    Input:  この動物を<style="MajorRed">撫でる</style>ことは<style="MajorRed">できない</style>
    Output: Không thể <style="MajorRed">vuốt ve</style> con vật này.
 
-117. Key: $$LivestockGene.4003_Ostrich.LevelGenes[0].Description$$
+115. Key: $$LivestockGene.4003_Ostrich.LevelGenes[0].Description$$
    Input tags:  [</style>, </style>, <style="MajorRed">, <style="MajorRed">]
    Output tags: [</style>, <style="MajorRed">]
    Input:  この動物を<style="MajorRed">撫でる</style>ことは<style="MajorRed">できない</style>
    Output: Không thể <style="MajorRed">vuốt ve</style> con vật này.
 
-118. Key: $$LivestockGene.4003_Pig.LevelGenes[0].Description$$
+116. Key: $$LivestockGene.4003_Pig.LevelGenes[0].Description$$
    Input tags:  [</style>, </style>, <style="MajorRed">, <style="MajorRed">]
    Output tags: [</style>, <style="MajorRed">]
    Input:  この動物を<style="MajorRed">撫でる</style>ことは<style="MajorRed">できない</style>
    Output: Không thể <style="MajorRed">vuốt ve</style> con vật này.
 
-119. Key: $$LivestockGene.4003_Rabbit.LevelGenes[0].Description$$
+117. Key: $$LivestockGene.4003_Rabbit.LevelGenes[0].Description$$
    Input tags:  [</style>, </style>, <style="MajorRed">, <style="MajorRed">]
    Output tags: [</style>, <style="MajorRed">]
    Input:  この動物を<style="MajorRed">撫でる</style>ことは<style="MajorRed">できない</style>
    Output: Không thể <style="MajorRed">vuốt ve</style> con vật này.
 
-120. Key: $$Location.MainLand.GateWay02.Description$$
+118. Key: $$Location.MainLand.GateWay02.Description$$
    Input tags:  [</style>, </style>, </style>, <style=Major>, <style=Major>, <style=Major>]
    Output tags: [</style>, </style>, <style=Major>, <style=Major>]
    Input:  <style=Major>生命の門</style>:密林の奥にこんなに古い門があるなんて。あまり人と接触していないか、ここに生息している<style=Major>ホタル</style>は、全く人を怖が...
    Output: <style=Major>Cổng Seimei</style>: Trong khu rừng rậm lại có một cánh cổng cổ kính như thế. Có lẽ vì ...
 
-121. Key: $$Location.MainLand.GateWay07.Description$$
+119. Key: $$Location.MainLand.GateWay07.Description$$
    Input tags:  [</style>, </style>, <style="Major">, <style=Major>]
    Output tags: [</style>, </style>, <style="Major">, <style="Major">]
    Input:  <style=Major>豊穣の畑</style>：巨大な水車が建てられていたここは、かつて広大な畑が広がり、多くの<style="Major">星砂ハナミョウガ</style>が栽培されていた。しか...
    Output: <style="Major">Ruộng Hōjō</style>: Nơi này từng được xây dựng một chiếc cối xay nước khổng lồ, và tr...
 
-122. Key: $$Mail.BeachFestival_Start.Content$$
-   Input tags:  []
-   Output tags: [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
-   Input:  夏ももうすぐ終わりですね……でも、しんみりするのはまだ早い！この夏の最高の思い出、みんなで形に残しちゃいましょう！
-夏の27日から、島では「ビーチフェスティバル」が開催されます！この一年間、私たちを見...
-   Output: Mùa hè cũng sắp kết thúc rồi... Nhưng chưa phải lúc để cảm thấy buồn bã! Hãy cùng nhau lưu giữ kỷ ni...
-
-123. Key: $$Mail.BeachFestival_TreasureMap.Content$$
-   Input tags:  []
-   Output tags: [</style>, <style="Major">]
-   Input:  よぉ！もうすぐ始まるビーチフェスのワクワクする空気、お前も感じてるだろう？フェスをさらに盛り上げるために、漁女様の伝説にちなんで、特別な宝箱を隠しておいたぞ。
-選ばれし勇者よ！25日から27日の間、ビ...
-   Output: Này! Không khí háo hức trước lễ hội bãi biển sắp bắt đầu, cậu cũng cảm nhận được chứ? Để làm lễ hội ...
-
-124. Key: $$Mail.Fish_Skill_Intro.Content$$
+120. Key: $$Mail.Fish_Skill_Intro.Content$$
    Input tags:  [</style>, <style="Major">]
    Output tags: [</style>, </style>, <style="Major">, <style="Major">]
    Input:  聞いたぜ、お前、外から戻ってきたんだってな。
 俺だ、カイトだ。俺のこと、まだ覚えてるだろう？最後にあったのはもう十年前だ。顔ぐらい出してくれよ。俺は今星砂島の釣りメンターをやっているんだが、もし<st...
    Output: Nghe nói cậu về từ bên ngoài rồi. Tớ đây, Kaito. Cậu còn nhớ tớ chứ? Lần cuối gặp nhau đã mười năm t...
 
-125. Key: $$Mail.Relation.SendGift.LuoHeGuang.Lv5.Content$$
+121. Key: $$Mail.Relation.SendGift.LuoHeGuang.Lv5.Content$$
    Input tags:  [</style>, <style="Major">]
    Output tags: []
    Input:  この<style="Major">{#ITEM}</style>をずっとあげたいと思っていたんだ。
 君に似合いそうなものを見るたびに、無意識にとっておいてしまう——これはもう習慣のようなものだ。あるい...
    Output: Tôi đã muốn tặng cậu món này từ lâu rồi. Mỗi lần thấy thứ gì đó phù hợp với cậu, tôi lại vô thức giữ...
 
-126. Key: $$Mail.Season_ChuXia_Summer.Content$$
-   Input tags:  []
-   Output tags: [</style>, <style="Major">]
-   Input:  夏がやって来た！外はどこでも太陽と海風の匂いがいっぱいだね。
-私もビーチフェスティバルの準備を始めたよ！そのせいで、最近はいつも港や屋台、そして案内所を行ったり来たりをしているんだ。ちょっと疲れるけど...
-   Output: Mùa hè đã tới! Bên ngoài đâu cũng đầy mùi nắng và gió biển. Mình cũng bắt đầu chuẩn bị cho lễ hội bã...
-
-127. Key: $$Mail.Test.Content$$
-   Input tags:  []
-   Output tags: [</style>, <style="Major">]
-   Input:  星砂島へようこそ！ここは魔法と可能性に満ちた場所です。ここであなたは素晴らしい田園生活を始め、他にはない日々を経験することになります。この島の土地と住民は、みんな自分だけの物語を持っていて、そしてあな...
-   Output: Chào mừng tới đảo Sao sa! Nơi đây tràn ngập phép thuật và khả năng. Tại đây, cậu sẽ bắt đầu một cuộc...
-
-128. Key: $$Mail.Vehicle_Skill_Intro.Content$$
-   Input tags:  []
-   Output tags: [</style>, <style="Major">]
-   Input:  やっ、新入り君。
-あんたが使っている乗り物はちょっと時代遅れのようだな。本物のスビートを試してみないか？
-その気になったら、あたいの「スーパーバリキ」に来るといい。思い立ったが吉日、今すぐ来てもいいん...
-   Output: Ê, bạn mới. Xem ra phương tiện cậu đang dùng hơi lỗi thời rồi. Thử lái chiếc <style="Major">Sbeat</s...
-
-129. Key: $$Mission.DLC_PrimeDlc01.Description$$
+122. Key: $$Mission.DLC_PrimeDlc01.Description$$
    Input tags:  [</style>, <style="Major">]
    Output tags: [</style>, </style>, <style="Major">, <style="Major">]
    Input:  <style="Major">ヨーロピアン家具、服装と乗り物DLC</style>をご購入いただき誠にありがとうございます。案内所のセルフサービス端末でお受け取りください。
    Output: <style="Major">Nội thất, trang phục và phương tiện châu Âu DLC</style> đã được mua, xin chân thành c...
 
-130. Key: $$Mission.DLC_StandardDlc01.Description$$
+123. Key: $$Mission.DLC_StandardDlc01.Description$$
    Input tags:  [</style>, <style="Major">]
    Output tags: [</style>, </style>, <style="Major">, <style="Major">]
    Input:  <style="Major">中華風家具と服装DLC</style>をご購入いただき誠にありがとうございます。案内所のセルフサービス端末でお受け取りください。
    Output: <style="Major">DLC nội thất và trang phục phong cách Trung Hoa</style> đã được mua, xin chân thành c...
 
-131. Key: $$Mission.FBL.BeachFestival_Prepare_ChuXia_02.Graph.N[0].Data.Description$$
+124. Key: $$Mission.FBL.BeachFestival_Prepare_ChuXia_02.Graph.N[0].Data.Description$$
    Input tags:  [</style>, </style>, <style=Major>, <style=Major>]
    Output tags: [</style>, <style=Major>]
    Input:  <style=Major>硬い木の板</style>を<style=Major>4</style>個集める。
    Output: Thu thập <style=Major>4 tấm gỗ cứng</style>.
 
-132. Key: $$Mission.FBL.BeachFestival_Prepare_FengXi_01.Graph.N[1].Data.Goals[0].Text$$
-   Input tags:  []
-   Output tags: [</style>, <style=Major>]
-   Input:  ビーチフェスティバル期間中【カイト】の準備ミッションが発動する
-   Output: Trong thời gian Lễ hội Bãi biển, nhiệm vụ chuẩn bị của <style=Major>Kaito</style> sẽ được kích hoạt.
-
-133. Key: $$Mission.FBL.BeachFestival_Prepare_LinYuHua_01.Graph.N[1].Data.Goals[0].Text$$
-   Input tags:  []
-   Output tags: [</style>, <style=Major>]
-   Input:  ビーチフェスティバル期間中【シオリ】の準備ミッションが発動する
-   Output: Trong thời gian Lễ hội Bãi biển, nhiệm vụ chuẩn bị của <style=Major>Shiori</style> sẽ được kích hoạt...
-
-134. Key: $$Mission.FBL.BeachFestival_Prepare_LuoTaoTao_01.Graph.N[1].Data.Goals[0].Text$$
-   Input tags:  []
-   Output tags: [</style>, <style=Major>]
-   Input:  ビーチフェスティバル期間中【モモ】の準備ミッションが発動する
-   Output: Trong thời gian diễn ra Lễ hội Bãi biển, nhiệm vụ chuẩn bị cho <style=Major>Momo</style> sẽ được kíc...
-
-135. Key: $$Mission.FBL.BeachFestival_Prepare_YeXingLan_01.Graph.N[1].Data.Goals[0].Text$$
-   Input tags:  []
-   Output tags: [</style>, <style=Major>]
-   Input:  ビーチフェスティバル期間中【ショウ】の準備ミッションが発動する
-   Output: Trong thời gian diễn ra Lễ hội Bãi biển, nhiệm vụ chuẩn bị cho <style=Major>Shou</style> sẽ được kíc...
-
-136. Key: $$Mission.FBL.BeachFestival_Prepare_YuTangTang_01.Graph.N[1].Data.Goals[0].Text$$
-   Input tags:  []
-   Output tags: [</style>, <style=Major>]
-   Input:  ビーチフェスティバル期間中【しずく】の準備ミッションが発動する
-   Output: Trong thời gian Lễ hội Bãi biển, nhiệm vụ chuẩn bị của <style=Major>Shizuku</style> sẽ được kích hoạ...
-
-137. Key: $$Mission.FBL.Clue.Aircraft02.Graph.N[1].Data.Goals[0].Text$$
-   Input tags:  []
-   Output tags: [</style>, </style>, <style=Major>, <style=Major>]
-   Input:  星砂ワタと星砂ハンゲを採取する。
-   Output: Thu thập <style=Major>Cát sao</style> và <style=Major>Bông cát sao</style>.
-
-138. Key: $$Mission.FBL.FishTank01.Graph.N[0].Data.Description$$
+125. Key: $$Mission.FBL.FishTank01.Graph.N[0].Data.Description$$
    Input tags:  [</style>, </style>, <style=Major>, <style=Major>]
    Output tags: [</style>, <style=Major>]
    Input:  <style=Major>カイトの店</style>で<style=Major>水槽（ミニ）の設計図</style>を購入しよう
    Output: <style=Major>Hãy mua Bản vẽ thiết kế Bể cá (mini) tại cửa hàng của Kaito.</style>
 
-139. Key: $$Mission.FBL.FishTank01.Graph.N[1].Data.Goals[0].Text$$
+126. Key: $$Mission.FBL.FishTank01.Graph.N[1].Data.Goals[0].Text$$
    Input tags:  [</style>, </style>, <style=Major>, <style=Major>]
    Output tags: [</style>, <style=Major>]
    Input:  <style=Major>水槽</style>に<style=Major>魚1匹</style>を入れよう
    Output: <style=Major>Cho 1 con cá vào bể cá</style>
 
-140. Key: $$Mission.FBL.Livestock01.Graph.N[0].Data.Description$$
+127. Key: $$Mission.FBL.Livestock01.Graph.N[0].Data.Description$$
    Input tags:  [</style>, <style="Major">]
    Output tags: [</style>, </style>, <style="Major">, <style="Major">]
    Input:  ふわふわ布を作るには<style="Major">ふわふわの毛</style>がたくさん必要だ。
    Output: Để làm ra <style="Major">vải mềm mại</style>, cần rất nhiều <style="Major">lông mềm mại</style>.
 
-141. Key: $$Mission.FBL.Livestock01.Graph.N[3].Data.Goals[0].Text$$
+128. Key: $$Mission.FBL.Livestock01.Graph.N[3].Data.Goals[0].Text$$
    Input tags:  [</style>, </style>, <style="Major">, <style=Major>]
    Output tags: [</style>, </style>, <style="Major">, <style="Major">]
    Input:  <style=Major>織機</style>で<style="Major">ふわふわ布</style>を作る
    Output: Làm <style="Major">vải mềm mại</style> tại <style="Major">khung dệt</style>
 
-142. Key: $$Mission.FBL.Livestock01.Graph.N[4].Data.Goals[0].Text$$
+129. Key: $$Mission.FBL.Livestock01.Graph.N[4].Data.Goals[0].Text$$
    Input tags:  [</style>, <style="Major">]
    Output tags: [</style>, </style>, <style="Major">, <style="Major">]
    Input:  ふわふわ布を<style="Major">{Name@TARGET}</style>に渡す
    Output: Đưa <style="Major">vải mềm mại</style> cho <style="Major">{Name@TARGET}</style>
 
-143. Key: $$Mission.FBL.Plant01.Graph.N[3].Data.Goals[0].Text$$
+130. Key: $$Mission.FBL.Plant01.Graph.N[3].Data.Goals[0].Text$$
    Input tags:  [</style>, </style>, </style>, <style="Major">, <style=Major>, <style=Major>]
    Output tags: [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Input:  <style=Major>焚き火</style>または<style=Major>ガスコンロ</style>使って<style="Major">青菜麺</style>を作ろう
    Output: Dùng <style="Major">lửa trại</style> hoặc <style="Major">bếp ga</style> để làm <style="Major">mì rau...
 
-144. Key: $$Mission.FML.Adventure03.Graph.N[10].Data.Description$$
-   Input tags:  []
-   Output tags: [</style>, <style=Major>]
-   Input:  青銅の扉を見つけよう。
-   Output: Hãy tìm <style=Major>cánh cửa đồng</style>.
-
-145. Key: $$Mission.FML.Fish01_2.Graph.N[3].Data.Description$$
+131. Key: $$Mission.FML.Fish01_2.Graph.N[3].Data.Description$$
    Input tags:  [</style>, </style>, </style>, </style>, <style=Major>, <style=Major>, <style=Major>, <style=Major>]
    Output tags: [</style>, </style>, </style>, </style>, </style>, <style=Major>, <style=Major>, <style=Major>, <style=Major>, <style=Major>]
    Input:  水辺で<style=Major>魚影</style>を見つけたら、<style=Major>釣り竿を投げて</style>みよう。魚がかかったら、すぐにリールを巻こう。ただし、<style=Major...
    Output: Khi thấy <style=Major>bóng cá</style> ở nước, hãy thử <style=Major>quăng cần câu</style>. Khi cá cắn...
 
-146. Key: $$Mission.FML.Fish02.Graph.N[6].Data.Description$$
-   Input tags:  []
-   Output tags: [</style>, <style=Major>]
-   Input:  星待ち港でオウム号に乗り込み、海へ出よう。
-   Output: Tại <style=Major>Hoshi Machi Minato</style>, lên tàu Oumu và ra biển thôi.
-
-147. Key: $$Mission.FML.Fish03.CompleteDescription$$
-   Input tags:  []
-   Output tags: [</style>, <style="Major">]
-   Input:  魚類への理解が徐々に深まり、今こそ稚魚の育成に挑戦し、プロ釣り人になる時だ！海を永遠に生命力で満たしましょう！
-   Output: Hiểu biết về cá ngày càng sâu sắc. Đã đến lúc thử thách nuôi cá con và trở thành <style="Major">ngườ...
-
-148. Key: $$Mission.FML.Livestock01_2.Graph.N[14].Data.Goals[0].Text$$
+132. Key: $$Mission.FML.Livestock01_2.Graph.N[14].Data.Goals[0].Text$$
    Input tags:  [</style>, </style>, </style>, <style="Major">, <style="Major">, <style=Major>]
    Output tags: [</style>, </style>, </style>, <style=Major>, <style=Major>, <style=Major>]
    Input:  <style="Major">バッグ</style>の<style="Major">設備カテゴリ</style>から<style=Major>ウサギ小屋</style>を適当な位置に設置する
    Output: Từ <style=Major>Túi đồ</style> ở <style=Major>Danh mục Thiết bị</style>, đặt <style=Major>chuồng thỏ...
 
-149. Key: $$Mission.FML.Livestock01_2.Graph.N[17].Data.Description$$
+133. Key: $$Mission.FML.Livestock01_2.Graph.N[17].Data.Description$$
    Input tags:  [</style>, <style="Major">]
    Output tags: [</style>, </style>, <style="Major">, <style="Major">]
    Input:  ふわふわの毛のサンプルを<style="Major">シオリ</style>に届ける。
    Output: Gửi mẫu <style="Major">lông mềm mại</style> cho <style="Major">Shiori</style>.
 
-150. Key: $$Mission.FML.Livestock01_2.Graph.N[6].Data.Goals[0].Text$$
+134. Key: $$Mission.FML.Livestock01_2.Graph.N[6].Data.Goals[0].Text$$
    Input tags:  [</style>, <style=Major>]
    Output tags: []
    Input:  ウサギは満腹すると<style=Major>副産物</style>が出ます、。それぞれのウサギは一日一回しか出ません。
    Output: Thỏ sẽ cho sản phẩm phụ khi no. Mỗi con thỏ chỉ cho một lần mỗi ngày.
 
-151. Key: $$Mission.FML.LivestockGuide02_Interim.CompleteDescription$$
-   Input tags:  []
-   Output tags: [</style>, </style>, </style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
-   Input:  アオイの指導により、あずさからの依頼である希少な「大きなタマゴ」の収集を引き受ける。ニワトリの気分値を最高状態に維持することで、高タンパクな「大きなタマゴ」を入手した。あずさはこのタマゴを用いて、栄養...
-   Output: Dưới sự hướng dẫn của <style="Major">Aoi</style>, nhận nhiệm vụ thu thập trứng quý hiếm <style="Majo...
-
-152. Key: $$Mission.FML.LivestockGuide02_Interim.Graph.N[0].Data.Description$$
-   Input tags:  []
-   Output tags: [</style>, </style>, <style="Major">, <style="Major">]
-   Input:  十分な大きなタマゴを獲得した。あずさに届けよう
-   Output: Đã thu thập đủ <style="Major">trứng to</style>. Hãy giao cho <style="Major">Azusa</style>.
-
-153. Key: $$Mission.FML.LivestockGuide02_Interim.Graph.N[0].Data.Goals[0].Text$$
-   Input tags:  []
-   Output tags: [</style>, </style>, <style="Major">, <style="Major">]
-   Input:  大きなタマゴをあずさに渡す
-   Output: Giao <style="Major">trứng to</style> cho <style="Major">Azusa</style>.
-
-154. Key: $$Mission.FML.LivestockGuide02_Interim.Graph.N[1].Data.Description$$
-   Input tags:  []
-   Output tags: [</style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
-   Input:  気分値が150を超えた成熟期のメスのニワトリとアヒルをなでると、時に大きなタマゴを産むことがある。
-   Output: Khi vuốt ve <style="Major">gà mái</style> và <style="Major">vịt</style> đã trưởng thành có <style="M...
-
-155. Key: $$Mission.FML.LivestockGuide02_Interim.Graph.N[1].Data.Goals[0].Text$$
+135. Key: $$Mission.FML.LivestockGuide02_Interim.Graph.N[1].Data.Goals[0].Text$$
    Input tags:  [</style>, </style>, <style=Major>, <style=Major>]
    Output tags: [</style>, </style>, </style>, </style>, </style>, <style=Major>, <style=Major>, <style=Major>, <style=Major>, <style=Major>]
    Input:  気分値が150を超えた成熟期の<style=Major>メスのニワトリやアヒル</style>を<style=Major>なでる</style>ことで、十分な大きなタマゴを手に入れる。
    Output: Bằng cách <style=Major>vuốt ve</style> <style=Major>gà mái</style> và <style=Major>vịt</style> đã tr...
 
-156. Key: $$Mission.FML.LivestockGuide02_Interim.Graph.N[2].Data.Description$$
+136. Key: $$Mission.FML.LivestockGuide02_Interim.Graph.N[2].Data.Description$$
    Input tags:  [</style>, <style="Major">]
    Output tags: [</style>, </style>, <style="Major">, <style="Major">]
    Input:  あずさの依頼を完成したことを<style="Major">アオイ</style>に伝えよう
    Output: Hãy thông báo cho <style="Major">Aoi</style> biết rằng nhiệm vụ của <style="Major">Azusa</style> đã ...
 
-157. Key: $$Mission.FML.LivestockGuide03_Interim.CompleteDescription$$
-   Input tags:  []
-   Output tags: [</style>, </style>, </style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
-   Input:  アオイに協力し、しずくのために「虹色のウールラグ」を制作することとなる。多彩な羊を飼育することで四色の羊毛を収集し、アオイはそれらを用いて温かなウールラグを手ずから織り上げ、しずくの店「サロン花島」へ...
-   Output: Hợp tác với <style="Major">Aoi</style> để chế tạo <style="Major">"thảm len cầu vồng"</style> cho <st...
-
-158. Key: $$Mission.FML.LivestockGuide03_Interim.Graph.N[2].Data.Description$$
+137. Key: $$Mission.FML.LivestockGuide03_Interim.Graph.N[2].Data.Description$$
    Input tags:  [</style>, <style="Major">]
    Output tags: [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Input:  <style="Major">アオイ</style>に虹色のウールラグをカオルに渡したことを伝える
    Output: Thông báo cho <style="Major">Aoi</style> biết rằng đã giao <style="Major">thảm len cầu vồng</style> ...
 
-159. Key: $$Mission.FML.LivestockGuide03_Interim.Graph.N[3].Data.Description$$
-   Input tags:  []
-   Output tags: [</style>, <style="Major">]
-   Input:  アオイを探す
-   Output: Tìm <style="Major">Aoi</style>.
-
-160. Key: $$Mission.FML.LivestockGuide03_Interim.Graph.N[3].Data.Goals[0].Text$$
+138. Key: $$Mission.FML.LivestockGuide03_Interim.Graph.N[3].Data.Goals[0].Text$$
    Input tags:  [</style>, <style="Major">]
    Output tags: [</style>, </style>, <style="Major">, <style="Major">]
    Input:  <style="Major">4色</style>の布をアオイに渡す
    Output: Giao <style="Major">4 màu</style> vải cho <style="Major">Aoi</style>.
 
-161. Key: $$Mission.FML.LivestockGuide03_Interim.Graph.N[4].Data.Description$$
-   Input tags:  []
-   Output tags: [</style>, </style>, <style="Major">, <style="Major">]
-   Input:  1日待ってからアオイのところに完成したラグを受け取りしに行く
-   Output: Chờ 1 ngày rồi đi nhận <style="Major">thảm</style> đã hoàn thành từ chỗ <style="Major">Aoi</style>.
-
-162. Key: $$Mission.FML.LivestockGuide03_Interim.Graph.N[5].Data.Description$$
-   Input tags:  []
-   Output tags: [</style>, </style>, <style="Major">, <style="Major">]
-   Input:  しずくに渡す虹色のウールラグが完成した。受け取りに行こう。
-   Output: <style="Major">Thảm len cầu vồng</style> để tặng <style="Major">Shizuku</style> đã hoàn thành. Hãy đ...
-
-163. Key: $$Mission.FML.LivestockGuide03_Interim.Graph.N[6].Data.Description$$
-   Input tags:  []
-   Output tags: [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
-   Input:  アオイからもらった虹色のウールラグをしずくに届ける。
-   Output: Giao <style="Major">thảm len cầu vồng</style> nhận từ <style="Major">Aoi</style> cho <style="Major">...
-
-164. Key: $$Mission.FML.LivestockGuide04_Interim.CompleteDescription$$
-   Input tags:  []
-   Output tags: [</style>, </style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
-   Input:  アオイの指導を受け、ハヤトの依頼で過酷な旅に耐える「名馬」の育成に挑む。遺伝学の知識を駆使することで、能力抜群の馬を育て上げ、ハヤトに認められた。大型動物に対する高度な繁殖技術を確立したことで、牧場か...
-   Output: Nhận sự hướng dẫn từ <style="Major">Aoi</style>, thử thách nuôi dưỡng <style="Major">"ngựa hay"</sty...
-
-165. Key: $$Mission.FML.LivestockGuide04_Interim.Graph.N[0].Data.Description$$
+139. Key: $$Mission.FML.LivestockGuide04_Interim.Graph.N[0].Data.Description$$
    Input tags:  [</style>, <style="Major">]
    Output tags: [</style>, </style>, <style="Major">, <style="Major">]
    Input:  乗り物ペットについて<style="Major">ハヤト</style>と話してみよう
    Output: Hãy nói chuyện với <style="Major">Hayato</style> về <style="Major">thú cưng di chuyển</style>.
 
-166. Key: $$Mission.FML.LivestockGuide04_Interim.Graph.N[2].Data.Description$$
+140. Key: $$Mission.FML.LivestockGuide04_Interim.Graph.N[2].Data.Description$$
    Input tags:  [</style>, <style="Major">]
    Output tags: [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Input:  白い馬をハヤトに渡したことを<style="Major">アオイ</style>に伝えよう
    Output: Thông báo cho <style="Major">Aoi</style> biết rằng đã giao <style="Major">con ngựa trắng</style> cho...
 
-167. Key: $$Mission.FML.LivestockGuide04_Interim.Graph.N[4].Data.Description$$
+141. Key: $$Mission.FML.LivestockGuide04_Interim.Graph.N[4].Data.Description$$
    Input tags:  [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Input:  乗り物ペットとして登録するには<style="Major">成熟期の動物</style>の<style="Major">気分値</style>が<style="Major">150以上</style>...
    Output: Để đăng ký làm <style="Major">thú cưng di chuyển</style>, <style="Major">độ tâm trạng</style> của <s...
 
-168. Key: $$Mission.FML.LivestockGuide04_Interim.Graph.N[5].Data.Description$$
+142. Key: $$Mission.FML.LivestockGuide04_Interim.Graph.N[5].Data.Description$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Input:  馬小屋で白い馬を選択し、<style="Major">詳しい情報を確認</style>を選択する。そして<style="Major">乗り物ペットページ</style>に切り替えると乗り物ペット登録で...
    Output: Trong chuồng ngựa, chọn <style="Major">ngựa trắng</style>, sau đó chọn <style="Major">xem thông tin ...
 
-169. Key: $$Mission.FML.LivestockGuide04_Interim.Graph.N[7].Data.Description$$
+143. Key: $$Mission.FML.LivestockGuide04_Interim.Graph.N[7].Data.Description$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Input:  乗り物ペットの登録には仲良しリングを１つ消費する必要がある。<style="Major">最上級作業台</style>を使って<style="Major">仲良しリング</style>を作ろう。
    Output: Để đăng ký thú cưng di chuyển, cần tiêu hao 1 <style="Major">Nhẫn bạn bè</style>. Hãy dùng <style="M...
 
-170. Key: $$Mission.FML.Manufacture01_2.CompleteDescription$$
-   Input tags:  []
-   Output tags: [</style>, </style>, </style>, </style>, <style=Major>, <style=Major>, <style=Major>, <style=Major>]
-   Input:  すべては、人見知りな天才メカニック・ミオとの出会いから始まる。彼女のぎこちなくも丁寧な指導のおかげで、あなたは「スケートボード」の試作に無事成功。その出来栄えは、乗り物屋のレイナをも唸らせるほどだった...
-   Output: Tất cả bắt đầu từ cuộc gặp gỡ với <style=Major>Mio</style>, một kỹ thuật viên thiên tài hướng nội. N...
-
-171. Key: $$Mission.FML.Manufacture01_2.Graph.N[0].Data.Description$$
+144. Key: $$Mission.FML.Manufacture01_2.Graph.N[0].Data.Description$$
    Input tags:  [</style>, </style>, <style=Major>, <style=Major>]
    Output tags: [</style>, </style>, </style>, <style=Major>, <style=Major>, <style=Major>]
    Input:  石のツルハシを作るために、<style=Major>石</style>と<style=Major>柔らかい木材</style>を準備しよう。
    Output: Để làm <style=Major>cuốc đá</style>, hãy chuẩn bị <style=Major>đá</style> và <style=Major>gỗ mềm</st...
 
-172. Key: $$Mission.FML.Manufacture01_2.Graph.N[10].Data.Description$$
-   Input tags:  []
-   Output tags: [</style>, <style=Major>]
-   Input:  設備の設計図パックを購入すると、基本設備の作り方を習得できる。
-素材を加工するのに必要な設備が揃っている。
-   Output: Khi mua <style=Major>gói bản vẽ thiết kế thiết bị</style>, bạn có thể học cách chế tạo thiết bị cơ b...
-
-173. Key: $$Mission.FML.Manufacture01_2.Graph.N[12].Data.Description$$
+145. Key: $$Mission.FML.Manufacture01_2.Graph.N[12].Data.Description$$
    Input tags:  [</style>, <style="Major">]
    Output tags: [</style>, </style>, <style="Major">, <style="Major">]
    Input:  鉱石を採掘するには、<style="Major">ツルハシ</style>が必要だ。
 まずはツルハシを作ろう。
    Output: Để khai thác <style="Major">quặng</style>, cần có <style="Major">cuốc</style>. Trước tiên, hãy làm m...
 
-174. Key: $$Mission.FML.Manufacture01_2.Graph.N[13].Data.Description$$
-   Input tags:  []
-   Output tags: [</style>, </style>, <style=Major>, <style=Major>]
-   Input:  無料レンタルカードを使えばレイナのゴールデンシフゾウをレンタルすることができる。
-   Output: Nếu dùng <style=Major>thẻ cho thuê miễn phí</style>, bạn có thể thuê <style=Major>chó Shih Tzu vàng<...
-
-175. Key: $$Mission.FML.Manufacture01_2.Graph.N[13].Data.Goals[0].Text$$
-   Input tags:  []
-   Output tags: [</style>, <style=Major>]
-   Input:  レイナのゴールデンシフゾウを確認する。
-   Output: Kiểm tra <style=Major>chó Shih Tzu vàng</style> của Reina.
-
-176. Key: $$Mission.FML.Manufacture01_2.Graph.N[14].Data.Goals[0].Text$$
+146. Key: $$Mission.FML.Manufacture01_2.Graph.N[14].Data.Goals[0].Text$$
    Input tags:  [</style>, </style>, </style>, <style="Major">, <style="Major">, <style=Major>]
    Output tags: [</style>, </style>, </style>, <style=Major>, <style=Major>, <style=Major>]
    Input:  <style="Major">バッグ</style>の<style="Major">設備カテゴリ</style>から<style=Major>レンガ窯、熔鉱炉、切断機</style>を設置する。
    Output: Từ <style=Major>túi</style>, vào <style=Major>danh mục thiết bị</style> để đặt <style=Major>lò gạch,...
 
-177. Key: $$Mission.FML.Manufacture01_2.Graph.N[17].Data.Description$$
-   Input tags:  []
-   Output tags: [</style>, <style=Major>]
-   Input:  ツールで石を採掘したり、木を伐採したりすると、もっと効率的に資源を手に入れることができる。
-   Output: Khi dùng <style=Major>công cụ</style> để khai thác đá hoặc đốn gỗ, bạn có thể thu được tài nguyên hi...
-
-178. Key: $$Mission.FML.Manufacture01_2.Graph.N[1].Data.Description$$
-   Input tags:  []
-   Output tags: [</style>, <style=Major>]
-   Input:  マイホームの後ろには銅鉱石があって、ツルハシで採掘することができる。
-   Output: Phía sau <style=Major>nhà của bạn</style> có quặng đồng, có thể khai thác bằng cuốc.
-
-179. Key: $$Mission.FML.Manufacture01_2.Graph.N[2].Data.Description$$
+147. Key: $$Mission.FML.Manufacture01_2.Graph.N[2].Data.Description$$
    Input tags:  [</style>, <style=Major>]
    Output tags: [</style>, </style>, </style>, <style=Major>, <style=Major>, <style=Major>]
    Input:  溶鉱炉で銅鉱石を溶かして、<style=Major>銅インゴット</style>を作り出す。
    Output: Nấu chảy <style=Major>quặng đồng</style> trong <style=Major>lò nấu quặng</style> để tạo ra <style=Ma...
 
-180. Key: $$Mission.FML.Manufacture01_2.Graph.N[2].Data.Goals[0].Text$$
+148. Key: $$Mission.FML.Manufacture01_2.Graph.N[2].Data.Goals[0].Text$$
    Input tags:  [</style>, <style=Major>]
    Output tags: [</style>, </style>, <style=Major>, <style=Major>]
    Input:  <style=Major>溶鉱炉</style>で銅インゴットを作る。
    Output: Làm <style=Major>thỏi đồng</style> bằng <style=Major>lò nấu quặng</style>.
 
-181. Key: $$Mission.FML.Manufacture01_2.Graph.N[3].Data.Description$$
+149. Key: $$Mission.FML.Manufacture01_2.Graph.N[3].Data.Description$$
    Input tags:  [</style>, <style=Major>]
    Output tags: [</style>, </style>, </style>, <style=Major>, <style=Major>, <style=Major>]
    Input:  柔らかい木材を切断機で加工して、<style=Major>柔らかい木の板</style>を作ろう。
    Output: Dùng <style=Major>máy cắt</style> để gia công <style=Major>gỗ mềm</style> thành <style=Major>tấm gỗ ...
 
-182. Key: $$Mission.FML.Manufacture01_2.Graph.N[3].Data.Goals[0].Text$$
+150. Key: $$Mission.FML.Manufacture01_2.Graph.N[3].Data.Goals[0].Text$$
    Input tags:  [</style>, </style>, <style="Major">, <style=Major>]
    Output tags: [</style>, </style>, <style="Major">, <style="Major">]
    Input:  <style=Major>切断機</style>で<style="Major">柔らかい木の板</style>を作る。
    Output: Làm <style="Major">tấm gỗ mềm</style> bằng <style="Major">máy cắt</style>.
 
-183. Key: $$Mission.FML.Manufacture01_2.Graph.N[5].Data.Description$$
+151. Key: $$Mission.FML.Manufacture01_2.Graph.N[5].Data.Description$$
    Input tags:  [</style>, <style=Major>]
    Output tags: [</style>, </style>, <style=Major>, <style=Major>]
    Input:  レンガ窯で<style=Major>木炭</style>を作ろう。
 鉱石を精錬するときに欠かせない燃料だ。
    Output: Dùng <style=Major>lò gạch</style> để làm <style=Major>than củi</style>. Đây là nhiên liệu không thể ...
 
-184. Key: $$Mission.FML.Manufacture01_2.Graph.N[5].Data.Goals[0].Text$$
+152. Key: $$Mission.FML.Manufacture01_2.Graph.N[5].Data.Goals[0].Text$$
    Input tags:  [</style>, <style=Major>]
    Output tags: [</style>, </style>, <style=Major>, <style=Major>]
    Input:  <style=Major>レンガ窯</style>で木炭を入手する
    Output: Nhận <style=Major>than củi</style> từ <style=Major>lò gạch</style>.
 
-185. Key: $$Mission.FML.Manufacture02.Graph.N[0].Data.Description$$
-   Input tags:  []
-   Output tags: [</style>, <style=Major>]
-   Input:  素材を集めて、鉱石解析機を作る。
-   Output: Thu thập nguyên liệu và chế tạo <style=Major>Máy phân tích khoáng sắc</style>.
-
-186. Key: $$Mission.FML.Manufacture02.Graph.N[11].Data.Description$$
-   Input tags:  []
-   Output tags: [</style>, <style=Major>]
-   Input:  素材を集めて、鉱石解析機を作る。
-   Output: Thu thập nguyên liệu và chế tạo <style=Major>Máy phân tích khoáng sắc</style>.
-
-187. Key: $$Mission.FML.Manufacture02.Graph.N[1].Data.Goals[0].Text$$
+153. Key: $$Mission.FML.Manufacture02.Graph.N[1].Data.Goals[0].Text$$
    Input tags:  [</style>, <style=Major>]
    Output tags: [</style>, </style>, <style=Major>, <style=Major>]
    Input:  溶鉱炉を使って<style=Major>青銅</style>を作る。
    Output: Sử dụng <style=Major>Lò nung</style> để chế tạo <style=Major>Đồng thau</style>.
 
-188. Key: $$Mission.FML.Manufacture02.Graph.N[1].Data.Goals[1].Text$$
+154. Key: $$Mission.FML.Manufacture02.Graph.N[1].Data.Goals[1].Text$$
    Input tags:  [</style>, <style=Major>]
    Output tags: [</style>, </style>, <style=Major>, <style=Major>]
    Input:  溶鉱炉を使って<style=Major>グロリスコア</style>を作る。
    Output: Sử dụng <style=Major>Lò nung</style> để chế tạo <style=Major>Lõi Glori</style>.
 
-189. Key: $$Mission.FML.Manufacture02.Graph.N[2].Data.Description$$
+155. Key: $$Mission.FML.Manufacture02.Graph.N[2].Data.Description$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Input:  蛍月の森で謎の鉱石を集めて、鉱石解析機で解析を行う。謎の鉱石は<style="Major">土の山を掘る</style>ことで手に入れることができる。また、鉱石を採掘する時にも<style="Majo...
    Output: Tại <style="Major">Rừng Hoshizuki</style>, thu thập <style="Major">khoáng sắc bí ẩn</style> và sử dụ...
 
-190. Key: $$Mission.FML.Manufacture02.Graph.N[5].Data.Description$$
+156. Key: $$Mission.FML.Manufacture02.Graph.N[5].Data.Description$$
    Input tags:  [</style>, <style=Major>]
    Output tags: [</style>, </style>, </style>, <style=Major>, <style=Major>, <style=Major>]
    Input:  碧影を完成した！ミオのところに行って、<style=Major>新米製造者</style>認定を完了させよう
    Output: Hoàn thành <style=Major>Bích Ảnh</style> rồi! Hãy đến chỗ <style=Major>Mio</style> để hoàn tất chứng...
 
-191. Key: $$Mission.FML.Manufacture02.Graph.N[6].Data.Description$$
+157. Key: $$Mission.FML.Manufacture02.Graph.N[6].Data.Description$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Input:  蛍月の森で謎の鉱石を集めて、鉱石解析機で解析を行う。謎の鉱石は<style="Major">土の山を掘る</style>ことで手に入れることができる。また、鉱石を採掘する時にも<style="Majo...
    Output: Tại <style="Major">Rừng Hoshizuki</style>, thu thập <style="Major">khoáng sắc bí ẩn</style> và sử dụ...
 
-192. Key: $$Mission.FML.Manufacture02.Graph.N[6].Data.Goals[0].Text$$
+158. Key: $$Mission.FML.Manufacture02.Graph.N[6].Data.Goals[0].Text$$
    Input tags:  [</style>, <style=Major>]
    Output tags: [</style>, </style>, <style=Major>, <style=Major>]
    Input:  引き続き<style=Major>謎の初級鉱石</style>を集めるか、星砂島へ帰るかを決めよう。
    Output: Quyết định tiếp tục thu thập <style=Major>khoáng sắc mới bí ẩn sơ cấp</style> hay trở về <style=Majo...
 
-193. Key: $$Mission.FML.Manufacture02.Graph.N[7].Data.Description$$
+159. Key: $$Mission.FML.Manufacture02.Graph.N[7].Data.Description$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Input:  蛍月の森で謎の鉱石を集めて、鉱石解析機で解析を行う。謎の鉱石は<style="Major">土の山を掘る</style>ことで手に入れることができる。また、鉱石を採掘する時にも<style="Majo...
    Output: Tại <style="Major">Rừng Hoshizuki</style>, thu thập <style="Major">khoáng sắc bí ẩn</style> và sử dụ...
 
-194. Key: $$Mission.FML.Manufacture02.Graph.N[8].Data.Description$$
-   Input tags:  []
-   Output tags: [</style>, </style>, </style>, </style>, </style>, <style=Major>, <style=Major>, <style=Major>, <style=Major>, <style=Major>]
-   Input:  銅の薄片を作るにはまず溶鉱炉で銅鉱石を加工して、銅インゴットを手に入れてから、切断機で銅インゴットを加工することで手に入れる。
-   Output: Để làm <style=Major>lá đồng</style>, trước tiên dùng <style=Major>Lò nung</style> gia công <style=Ma...
-
-195. Key: $$Mission.FML.Manufacture03.CompleteDescription$$
-   Input tags:  []
-   Output tags: [</style>, </style>, </style>, <style=Major>, <style=Major>, <style=Major>]
-   Input:  「プロ製造者」への昇格試験に挑むあなたは、蛍月の森の奥深くで新素材「霊方」を手に入れた。ミオの分析によれば、霊方には、「平面の限界」を突破する可能性を秘めているらしい。その後、あなたは無事に昇格に成功...
-   Output: Trong kỳ thi thăng hạng lên 'Nhà sản xuất chuyên nghiệp', bạn đã thử sức và thu được nguyên liệu mới...
-
-196. Key: $$Mission.FML.ManufactureGuide02_Interim.Graph.N[0].Data.Description$$
+160. Key: $$Mission.FML.ManufactureGuide02_Interim.Graph.N[0].Data.Description$$
    Input tags:  [</style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style=Major>, <style=Major>]
    Output tags: [</style>, </style>, </style>, </style>, <style=Major>, <style=Major>, <style=Major>, <style=Major>]
    Input:  雑貨屋で<style="Major">ブーストツルハシの設計図</style>、<style="Major">精密加工機の設計図</style>、<style=Major>上級作業台の設計図</sty...
    Output: Mua và học cách chế tạo từ bản thiết kế <style=Major>Búa xẻng tăng tốc</style>, <style=Major>Máy gia...
 
-197. Key: $$Mission.FML.ManufactureGuide02_Interim.Graph.N[1].Data.Description$$
+161. Key: $$Mission.FML.ManufactureGuide02_Interim.Graph.N[1].Data.Description$$
    Input tags:  [</style>, <style="Major">]
    Output tags: [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Input:  スケートボードと幻彩の砂を<style="Major">ミオ</style>に渡す
    Output: Đưa <style="Major">Ván trượt</style> và <style="Major">Cát ảo ảnh</style> cho <style="Major">Mio</st...
 
-198. Key: $$Mission.FML.ManufactureGuide02_Interim.Graph.N[3].Data.Goals[0].Text$$
+162. Key: $$Mission.FML.ManufactureGuide02_Interim.Graph.N[3].Data.Goals[0].Text$$
    Input tags:  [</style>, <style="Major">]
    Output tags: [</style>, </style>, <style="Major">, <style="Major">]
    Input:  セパレーターを<style="Major">レイナ</style>に届ける。
    Output: Gửi <style="Major">Máy phân tách</style> cho <style="Major">Reina</style>.
 
-199. Key: $$Mission.FML.ManufactureGuide02_Interim.Graph.N[7].Data.Goals[0].Text$$
+163. Key: $$Mission.FML.ManufactureGuide02_Interim.Graph.N[7].Data.Goals[0].Text$$
    Input tags:  [</style>, <style="Major">]
    Output tags: [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Input:  スケートボードと幻彩の砂を<style="Major">ミオ</style>に渡す
    Output: Đưa <style="Major">Ván trượt</style> và <style="Major">Cát ảo ảnh</style> cho <style="Major">Mio</st...
 
-200. Key: $$Mission.FML.ManufactureGuide04_Interim.Graph.N[4].Data.Goals[0].Text$$
+164. Key: $$Mission.FML.ManufactureGuide04_Interim.Graph.N[4].Data.Goals[0].Text$$
    Input tags:  [</style>, <style="Major">]
    Output tags: [</style>, </style>, <style="Major">, <style="Major">]
    Input:  ヴォイドボックスを<style="Major">イツキ</style>に届ける
    Output: Gửi <style="Major">Hộp hư không</style> cho <style="Major">Itsuki</style>.
 
-201. Key: $$Mission.FML.Plant01_2.Graph.N[9].Data.Description$$
+165. Key: $$Mission.FML.Plant01_2.Graph.N[9].Data.Description$$
    Input tags:  [</style>, </style>, <style="Major">, <style=Major>]
    Output tags: [</style>, </style>, <style=Major>, <style=Major>]
    Input:  <style="Major">ベリーハート大福</style>は、食べるとしばらくの間、ペットを呼び寄せるようになる。さらにこの状態でペットと遊ぶと、もっと多くの好感度をあげられる。でもこの効果は<s...
    Output: Khi ăn <style=Major>Bánh da lợn trái tim dâu</style>, trong một thời gian, bạn sẽ có khả năng triệu ...
 
-202. Key: $$Mission.FML.Plant02.Graph.N[20].Data.Goals[0].Text$$
+166. Key: $$Mission.FML.Plant02.Graph.N[20].Data.Goals[0].Text$$
    Input tags:  [</style>, </style>, </style>, <style="Major">, <style="Major">, <style=Major>]
    Output tags: [</style>, </style>, </style>, <style=Major>, <style=Major>, <style=Major>]
    Input:  <style="Major">バッグ</style>の<style="Major">設備カテゴリ</style>から<style=Major>下級切断機</style>を設置する。
    Output: Từ <style=Major>túi</style> của bạn, chọn <style=Major>danh mục thiết bị</style> rồi chọn <style=Maj...
 
-203. Key: $$Mission.FML.Plant02.Graph.N[21].Data.Goals[0].Text$$
+167. Key: $$Mission.FML.Plant02.Graph.N[21].Data.Goals[0].Text$$
    Input tags:  [</style>, </style>, </style>, <style="Major">, <style="Major">, <style=Major>]
    Output tags: [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Input:  キュウリの種を<style=Major>植えて</style>、収穫する時を待つ。栽培棚にて育つ作物は<style="Major">何度も収穫できる</style>。成熟するたびに実を<style="...
    Output: Gieo hạt <style="Major">dưa leo</style> và chờ thời điểm thu hoạch. Các loại cây trồng trên giàn trồ...
 
-204. Key: $$Mission.FML.Plant03.CompleteDescription$$
-   Input tags:  []
-   Output tags: [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
-   Input:  プロ栽培者になるために、イツキの指導のもとに、確率に左右される「巨大化作物」の栽培に挑んだ。試験に合格するには季節に応じて特定の「シーズンキング」の種を、3×3の畑にまいて、できた巨大化作物のかけらを...
-   Output: Để trở thành người trồng chuyên nghiệp, dưới sự hướng dẫn của Itsuki, bạn đã thử thách bản thân với ...
-
-205. Key: $$Mission.FML.PlantGuide04_Interim.CompleteDescription$$
-   Input tags:  []
-   Output tags: [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
-   Input:  イツキの依頼で、ミノルのプレゼント調達の協力をした。土地を広げて、花のハイブリッド実験を行うことで(赤と黄色、青と黄色そして赤と青の花を一緒に育つ)、オレンジ色、緑色そして紫色の三色の花の栽培に成功し...
-   Output: Nhờ yêu cầu của <style="Major">Itsuki</style>, tôi đã giúp đỡ mua sắm quà cho <style="Major">Minoru<...
-
-206. Key: $$Mission.FML.SandBuild02.CompleteDescription$$
+168. Key: $$Mission.FML.SandBuild02.CompleteDescription$$
    Input tags:  [</style>, <style=Major>]
    Output tags: [</style>, </style>, <style=Major>, <style=Major>]
    Input:  あずさの材料集めを手伝い、ついに<style=Major>駅</style>が完成した！
    Output: Giúp <style=Major>Azusa</style> thu thập vật liệu, cuối cùng <style=Major>nhà ga</style> cũng đã hoà...
 
-207. Key: $$Mission.FML.ShaShiZhen.CompleteDescription$$
-   Input tags:  []
-   Output tags: [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
-   Input:  無事に駅でニアとドクター・ファンと合流できた。静かで穏やかな星砂島での時間が、ここから始まる。
-   Output: Đã gặp được <style="Major">Nia</style> và <style="Major">Doctor Fan</style> tại nhà ga một cách an t...
-
-208. Key: $$Mission.FML.ShaShiZhen.Description$$
-   Input tags:  []
-   Output tags: [</style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
-   Input:  サンドロックからのお客様たちが到着した。ニヤは噂の植物学者に会いたくてたまらない一方で、ドクター・ファンはXの健康状態をとても心配しているようだ。それでもガイドとして、頑張ってお客様たちの要望を応えよ...
-   Output: Các vị khách từ <style="Major">Sandrock</style> đã đến. Trong khi <style="Major">Nya</style> không t...
-
-209. Key: $$Mission.FML.ShaShiZhen.Graph.N[0].Data.Description$$
-   Input tags:  []
-   Output tags: [</style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
-   Input:  サンドロックからのお客様たちが到着した。ニヤは噂の植物学者に会いたくてたまらない一方で、ドクター・ファンはXの健康状態をとても心配しているようだ。それでもガイドとして、頑張ってお客様たちの要望を応えよ...
-   Output: Các vị khách từ <style="Major">Sandrock</style> đã đến. Trong khi <style="Major">Nya</style> không t...
-
-210. Key: $$Mission.FML.ShaShiZhen.Graph.N[1].Data.Description$$
-   Input tags:  []
-   Output tags: [</style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
-   Input:  サンドロックからのお客様たちが到着した。ニヤは噂の植物学者に会いたくてたまらない一方で、ドクター・ファンはXの健康状態をとても心配しているようだ。それでもガイドとして、頑張ってお客様たちの要望を応えよ...
-   Output: Các vị khách từ <style="Major">Sandrock</style> đã đến. Trong khi <style="Major">Nya</style> không t...
-
-211. Key: $$Mission.FML.ShaShiZhen.Graph.N[1].Data.Goals[0].Text$$
-   Input tags:  []
-   Output tags: [</style>, </style>, <style="Major">, <style="Major">]
-   Input:  ニアとドクター・ファンと会話する。
-   Output: Trò chuyện với <style="Major">Nia</style> và <style="Major">Doctor Fan</style>.
-
-212. Key: $$Mission.FML.ShaShiZhen.Graph.N[2].Data.Description$$
-   Input tags:  []
-   Output tags: [</style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
-   Input:  サンドロックからのお客様たちが到着した。ニヤは噂の植物学者に会いたくてたまらない一方で、ドクター・ファンはXの健康状態をとても心配しているようだ。それでもガイドとして、頑張ってお客様たちの要望を応えよ...
-   Output: Các vị khách từ <style="Major">Sandrock</style> đã đến. Trong khi <style="Major">Nya</style> không t...
-
-213. Key: $$Mission.FML.ShaShiZhen.Graph.N[2].Data.Goals[0].Text$$
-   Input tags:  []
-   Output tags: [</style>, </style>, <style="Major">, <style="Major">]
-   Input:  ニアとドクター・ファンと会話する。
-   Output: Trò chuyện với <style="Major">Nia</style> và <style="Major">Doctor Fan</style>.
-
-214. Key: $$Mission.FML.ShaShiZhen.Graph.N[4].Data.Description$$
-   Input tags:  []
-   Output tags: [</style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
-   Input:  サンドロックからのお客様たちが到着した。ニヤは噂の植物学者に会いたくてたまらない一方で、ドクター・ファンはXの健康状態をとても心配しているようだ。それでもガイドとして、頑張ってお客様たちの要望を応えよ...
-   Output: Các vị khách từ <style="Major">Sandrock</style> đã đến. Trong khi <style="Major">Nya</style> không t...
-
-215. Key: $$Mission.FML.ShaShiZhen.Graph.N[4].Data.Goals[0].Text$$
-   Input tags:  []
-   Output tags: [</style>, </style>, <style="Major">, <style="Major">]
-   Input:  ニアとドクター・ファンと会話する。
-   Output: Trò chuyện với <style="Major">Nia</style> và <style="Major">Doctor Fan</style>.
-
-216. Key: $$Mission.FML.ShaShiZhen_RefreshFangShiMiao.Graph.N[0].Data.Description$$
-   Input tags:  []
-   Output tags: [</style>, </style>, </style>, </style>, </style>, </style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">, <style="Major">, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
-   Input:  あずさから緊急の依頼が届いた！ポルティアからやって来るガストとジンジャー兄妹はまもなく星砂島に到着する。彼らの目的は、妹のジンジャーの療養だそうだ。しかしあずさはヘイゾウの補佐で忙しいため、「ガイド」...
-   Output: Nhận được một yêu cầu khẩn cấp từ <style="Major">Azusa</style>! Các anh chị <style="Major">Gast</sty...
-
-217. Key: $$Mission.FML.ShaShiZhen_RefreshNiYa.Graph.N[0].Data.Description$$
-   Input tags:  []
-   Output tags: [</style>, </style>, </style>, </style>, </style>, </style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">, <style="Major">, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
-   Input:  あずさから緊急の依頼が届いた！ポルティアからやって来るガストとジンジャー兄妹はまもなく星砂島に到着する。彼らの目的は、妹のジンジャーの療養だそうだ。しかしあずさはヘイゾウの補佐で忙しいため、「ガイド」...
-   Output: Nhận được một yêu cầu khẩn cấp từ <style="Major">Azusa</style>! Các anh chị <style="Major">Gast</sty...
-
-218. Key: $$Mission.FML.Stop_01.Graph.N[1].Data.Description$$
+169. Key: $$Mission.FML.Stop_01.Graph.N[1].Data.Description$$
    Input tags:  [</style>, <style="Major">]
    Output tags: [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Input:  インテリアを設置し、星砂ライフの<style="Major">初めての飾り付け</style>を完了させる。
    Output: Lắp đặt <style="Major">nội thất</style> và hoàn thành <style="Major">lần trang trí đầu tiên</style> ...
 
-219. Key: $$Mission.FML.Stop_01.Graph.N[2].Data.Description$$
-   Input tags:  []
-   Output tags: [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
-   Input:  あずさからインテリアの70%割引券をもらった。家具屋に行ってみよう。
-   Output: Nhận được <style="Major">phiếu giảm giá 70% nội thất</style> từ <style="Major">Azusa</style>. Hãy đế...
-
-220. Key: $$Mission.FML.Stop_01.Graph.N[3].Data.Description$$
+170. Key: $$Mission.FML.Stop_01.Graph.N[3].Data.Description$$
    Input tags:  [</style>, <style="Major">]
    Output tags: []
    Input:  インテリアを設置し、星砂ライフの<style="Major">初めての飾り付け</style>を完了させる。
    Output: Lắp đặt nội thất và hoàn thành lần trang trí đầu tiên cho cuộc sống Starsand.
 
-221. Key: $$Mission.FML.Stop_01.Graph.N[4].Data.Description$$
-   Input tags:  []
-   Output tags: [</style>, <style="Major">]
-   Input:  ホームにインテリアを添えた。あずさに報告しよう。
-   Output: Đã thêm nội thất cho ngôi nhà. Hãy báo cáo với <style="Major">Azusa</style>.
-
-222. Key: $$Mission.FML.Stop_02.Graph.N[1].Data.Goals[0].Text$$
+171. Key: $$Mission.FML.Stop_02.Graph.N[1].Data.Goals[0].Text$$
    Input tags:  [</style>, <style="Major">]
    Output tags: []
    Input:  家具屋へ行ってあずさが言っていた<style="Major">下級ホーム図面セット</style>を確認しに行く。
    Output: Đến cửa hàng đồ nội thất để xem bộ bản vẽ nhà cấp thấp mà Azusa đã nhắc đến.
 
-223. Key: $$Mission.FML.Stop_02.Graph.N[5].Data.Goals[0].Text$$
+172. Key: $$Mission.FML.Stop_02.Graph.N[5].Data.Goals[0].Text$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, <style="Major">]
    Input:  <style="Major">星砂ライフ</style>の<style="Major">経済自立への道</style>に昇格し、昇格報酬を受け取る。
    Output: Nâng cấp danh hiệu Starsand Life lên <style="Major">Con đường tự chủ kinh tế</style> và nhận phần th...
 
-224. Key: $$Mission.FML.Stop_02.Graph.N[6].Data.Goals[0].Text$$
+173. Key: $$Mission.FML.Stop_02.Graph.N[6].Data.Goals[0].Text$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, <style="Major">]
    Input:  <style="Major">星砂ライフ</style>の<style="Major">一人前の腕前</style>に昇格し、昇格報酬を受け取る。
    Output: Nâng cấp danh hiệu Starsand Life lên <style="Major">Trình độ một tay</style> và nhận phần thưởng nân...
 
-225. Key: $$Mission.Indent_FML_Fish01_Interim_1.Graph.N[2].Data.Goals[0].Text$$
+174. Key: $$Mission.Indent_FML_Fish01_Interim_1.Graph.N[2].Data.Goals[0].Text$$
    Input tags:  [</style>, </style>, <style="Major">, <style=Major>]
    Output tags: [</style>, </style>, <style="Major">, <style="Major">]
    Input:  <style=Major>切断機</style>で<style="Major">柔らかい木の板</style>を作る。
    Output: Dùng <style="Major">máy cắt</style> để làm <style="Major">tấm gỗ mềm</style>.
 
-226. Key: $$Mission.Indent_FML_Manufacture01_Interim_1.Graph.N[11].Data.Goals[0].Text$$
+175. Key: $$Mission.Indent_FML_Manufacture01_Interim_1.Graph.N[11].Data.Goals[0].Text$$
    Input tags:  [</style>, </style>, </style>, <style="Major">, <style=Major>, <style=Major>]
    Output tags: [</style>, </style>, </style>, <style=Major>, <style=Major>, <style=Major>]
    Input:  <style="Major">蛍月の森</style>へ向かい、<style=Major>石英鉱</style>と<style=Major>グロリス鉱石</style>を集める。
    Output: Đi đến <style=Major>rừng Hotaru Gatsu</style> và tập hợp <style=Major>quả thạch anh</style> và <styl...
 
-227. Key: $$Mission.Relation.JinJiEr_Lv3_Main_Gift.Graph.N[15].Data.Goals[0].Text$$
+176. Key: $$Mission.Relation.JinJiEr_Lv3_Main_Gift.Graph.N[15].Data.Goals[0].Text$$
    Input tags:  [</style>, <style=Major>, <style=Major>]
    Output tags: [</style>, </style>, <style=Major>, <style=Major>]
    Input:  <style=Major>作業台</style>で夜光珠<style=Major>を作ろう。
    Output: Tại <style=Major>bàn thợ</style>, <style=Major>hãy chế tạo</style> Ngọc Phát Quang.
 
-228. Key: $$Mission.Relation.ShenNi_Lv3_Main_ReBurn.Graph.N[0].Data.Description$$
+177. Key: $$Mission.Relation.ShenNi_Lv3_Main_ReBurn.Graph.N[0].Data.Description$$
    Input tags:  [</style>, </style>, </style>, <style=Major>, <style=Major>, <style=Major>]
    Output tags: [</style>, </style>, </style>, </style>, <style=Major>, <style=Major>, <style=Major>, <style=Major>]
    Input:  <style=Major>バイクタイヤ素材1</style>、<style=Major>バイクタイヤ素材2</style>、<style=Major>バイクタイヤ素材3</style>を集めて、バイク...
    Output: <style=Major>Vật liệu lốp xe máy 1</style>, <style=Major>Vật liệu lốp xe máy 2</style>, <style=Major...
 
-229. Key: $$MissionDialog.FBL.BeachFestival_Prepare_ChuXia_02.Graph.N[3].Data.Components.Sentence.Data[3].Text$$
+178. Key: $$MissionDialog.FBL.BeachFestival_Prepare_ChuXia_02.Graph.N[3].Data.Components.Sentence.Data[3].Text$$
    Input tags:  [</style>, <style=major>]
    Output tags: [</style>, <style=Major>]
    Input:  <style=major>明日</style>も手伝ってもらえるかな、一緒に輝くビーチフェスの舞台を作り上げよう！
    Output: <style=Major>Ngày mai</style> cậu có thể giúp tôi nữa không? Cùng nhau xây dựng sân khấu lễ hội biển...
 
-230. Key: $$MissionDialog.FBL.Plant_M1.1.Graph.N[7].Data.Components.Sentence.Data[1].Text$$
+179. Key: $$MissionDialog.FBL.Plant_M1.1.Graph.N[7].Data.Components.Sentence.Data[1].Text$$
    Input tags:  [<ani:@M3_Speak06/>]
    Output tags: [</style>, <ani:@M3_Speak06/>, <style=Major>]
    Input:  <ani:@M3_Speak06/>青菜麺ってのう、わしらが若い頃の思い出の味なんじゃ…あの頃はな…
    Output: <ani:@M3_Speak06/>Món <style=Major>Mì Xanh</style> đấy, là món ăn kỷ niệm thời thanh xuân của ta... ...
 
-231. Key: $$MissionDialog.FBL.Plant_M1.2.Graph.N[0].Data.Components.Sentence.Data[0].Text$$
+180. Key: $$MissionDialog.FBL.Plant_M1.2.Graph.N[0].Data.Components.Sentence.Data[0].Text$$
    Input tags:  [<ani:@M1_Speak04/>]
    Output tags: [</style>, <ani:@M1_Speak04/>, <style=Major>]
    Input:  <ani:@M1_Speak04/>料理とは、わずかな変化にも心を配ることが大切です。あなたなら、きっとおいしい青菜麺を作り上げられるはずです。
    Output: <ani:@M1_Speak04/>Nấu ăn là phải chú ý đến những thay đổi nhỏ. Với tư cách của cậu, chắc chắn sẽ tạo...
 
-232. Key: $$MissionDialog.FBL.Plant_M1.2.Graph.N[11].Data.Components.Sentence.Data[0].Text$$
+181. Key: $$MissionDialog.FBL.Plant_M1.2.Graph.N[11].Data.Components.Sentence.Data[0].Text$$
    Input tags:  [<ani:@@M1_Smile/>]
    Output tags: [</style>, <ani:@@M1_Smile/>, <style=Major>]
    Input:  <ani:@@M1_Smile/>確かに。青菜麺はごく基本的な食材の組み合わせですが、調理の技量はそうした基礎にこそ表れるものです。
    Output: <ani:@@M1_Smile/>Đúng vậy. <style=Major>Mì Xanh</style> là sự kết hợp của những nguyên liệu rất cơ b...
 
-233. Key: $$MissionDialog.FBL.Plant_M1.2.Graph.N[14].Data.Components.Sentence.Data[1].Text$$
+182. Key: $$MissionDialog.FBL.Plant_M1.2.Graph.N[14].Data.Components.Sentence.Data[1].Text$$
    Input tags:  [</style>, </style>, </style>, <style=Major>, <style=Major>, <style=Major>]
    Output tags: [</style>, </style>, </style>, </style>, <style=Major>, <style=Major>, <style=Major>, <style=Major>]
    Input:  青菜麺の主な材料は<style=Major>小麦粉</style>です。これは<style=Major>セパレーター</style>を使って<style=Major>小麦</style>から加工して得...
    Output: Nguyên liệu chính của <style=Major>Mì Xanh</style> là <style=Major>bột mì</style>. Nó được chế tạo t...
 
-234. Key: $$MissionDialog.FML.Adventure_M1.2.Graph.N[1].Data.Components.Sentence.Data[2].Text$$
-   Input tags:  []
-   Output tags: [</style>, <style=Major>]
-   Input:  はい、これでよし。後は星砂ポイントさえたまれば、これを使って冒険スキルの解放や、レベルアップをすることができるぞ！
-   Output: Được rồi, như vậy là ổn. Còn lại chỉ cần tích lũy <style=Major>Điểm Tinh Sa</style>, cậu có thể dùng...
-
-235. Key: $$MissionDialog.FML.Adventure_M1.2.Graph.N[1].Data.Components.Sentence.Data[3].Text$$
-   Input tags:  []
-   Output tags: [</style>, </style>, </style>, <style=Major>, <style=Major>, <style=Major>]
-   Input:  それから、もし星砂ポイントを稼ぎなら、星砂手帳の課題をこなしてみるといい。そして、星砂ライフが新しい段階に昇格するたびに、報酬として大量の星砂ポイントを手に入れることができるぞ！
-   Output: Ngoài ra, nếu muốn kiếm <style=Major>Điểm Tinh Sa</style>, hãy thử hoàn thành các nhiệm vụ trong <st...
-
-236. Key: $$MissionDialog.FML.Adventure_M3.1.Graph.N[6].Data.Components.Sentence.Data[1].Text$$
+183. Key: $$MissionDialog.FML.Adventure_M3.1.Graph.N[6].Data.Components.Sentence.Data[1].Text$$
    Input tags:  [</style>, <style="Major">]
    Output tags: [</style>, </style>, <style="Major">, <style="Major">]
    Input:  その課題はズバリ、蛍月の森のさらに奥に進み、<style="Major">豊穣の畑</style>へ続く道を解放することだ。
    Output: Nhiệm vụ đó chính là tiến sâu hơn vào <style="Major">Hozuki no Mori</style> và mở đường đi đến <styl...
 
-237. Key: $$MissionDialog.FML.Adventure_M3.1.Graph.N[6].Data.Components.Sentence.Data[6].Text$$
+184. Key: $$MissionDialog.FML.Adventure_M3.1.Graph.N[6].Data.Components.Sentence.Data[6].Text$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Input:  だから蛍月の森に入る前は、しっかりとした<style="Major">弓</style>と<style="Major">爆弾矢</style>を準備しておいた方がいい。
    Output: Vì vậy, trước khi vào <style="Major">Hozuki no Mori</style>, cậu nên chuẩn bị một <style="Major">cây...
 
-238. Key: $$MissionDialog.FML.Adventure_M3.2.Graph.N[11].Data.Components.Sentence.Data[1].Text$$
-   Input tags:  []
-   Output tags: [</style>, <style="Major">]
-   Input:  蛍月の森はどんな場所なのかオレもよく知っている。お前にとってはまだ早すぎたのではないかと心配していたが…
-   Output: Tôi cũng biết rõ <style="Major">Hozuki no Mori</style> là nơi như thế nào. Tôi lo rằng nó còn quá sớ...
-
-239. Key: $$MissionDialog.FML.Adventure_M3.2.Graph.N[1].Data.Components.Sentence.Data[0].Text$$
-   Input tags:  []
-   Output tags: [</style>, <style="Major">]
-   Input:  これは…光の弓ではないか？！これが豊穣の畑の敵を倒して得た戦利品か？
-   Output: Đây... không phải cung ánh sáng sao?! Đây là chiến lợi phẩm từ việc đánh bại kẻ thù ở <style="Major"...
-
-240. Key: $$MissionDialog.FML.Adventure_M3.2.Graph.N[1].Data.Components.Sentence.Data[1].Text$$
-   Input tags:  []
-   Output tags: [</style>, <style="Major">]
-   Input:  まさか豊穣の畑への道を切り開いただけではなく、こんな戦利品まで持って帰ったとは……素晴らしい！
-   Output: Không ngờ không chỉ mở đường đến <style="Major">Hojou no Hatake</style>, mà còn mang về cả chiến lợi...
-
-241. Key: $$MissionDialog.FML.Adventure_M4.2.Graph.N[26].Data.Components.Sentence.Data[1].Text$$
+185. Key: $$MissionDialog.FML.Adventure_M4.2.Graph.N[26].Data.Components.Sentence.Data[1].Text$$
    Input tags:  [</style>, <style="Major">]
    Output tags: [</style>, </style>, <style="Major">, <style="Major">]
    Input:  ボートのほかに、<style="Major">説明書の切れ端</style>暗号本も見つかったのか？どうやらこれが古代文明の秘密を暴く鍵だな。そして蛍月の森の最深部には多分まだなに何か未知なる秘密が眠...
    Output: Ngoài thuyền, còn tìm thấy <style="Major">mảnh hướng dẫn</style> và sách mật mã nữa sao? Hóa ra đây ...
 
-242. Key: $$MissionDialog.FML.Adventure_M4.3_Interim.Graph.N[0].Data.Components.Sentence.Data[0].Text$$
-   Input tags:  []
-   Output tags: [</style>, </style>, <style="Major">, <style="Major">]
-   Input:  うむ……集めた星砂ライマメも星砂ハナミョウガも、香ばしくて見た目も申し分なし。治療薬の作り方を学びたいという気持ちは噓ではないようだ。
-   Output: Ừm... cả <style="Major">đậu lima sao cát</style> và <style="Major">hoa miêu giang sao cát</style> đã...
-
-243. Key: $$MissionDialog.FML.Car_M1.3.Graph.N[2].Data.Components.Sentence.Data[1].Text$$
+186. Key: $$MissionDialog.FML.Car_M1.3.Graph.N[2].Data.Components.Sentence.Data[1].Text$$
    Input tags:  [<ani:@F3_GiveObject/>, <style="Major">]
    Output tags: [</style>, <ani:@F3_GiveObject/>, <style="Major">]
    Input:  <ani:@F3_GiveObject/>口うまいし、走るのも速い。
 ほんと、できたヤツだね。そんなあんたにこれをあげるよ。<style="Major">会員カードだ。
    Output: <ani:@F3_GiveObject/>Miệng lưỡi khéo, chạy cũng nhanh. Thật đúng là người giỏi. Tặng cậu cái này. Đâ...
 
-244. Key: $$MissionDialog.FML.Fish_M1.2.Graph.N[8].Data.Components.Sentence.Data[5].Text$$
+187. Key: $$MissionDialog.FML.Fish_M1.2.Graph.N[8].Data.Components.Sentence.Data[5].Text$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Input:  それとな、お前はもう見習い釣り人だ。<style="Major">星砂ライフアプリ</style>から<style="Major">見習い人材手当</style>を受け取るのを忘れるなよ。島からのちょ...
    Output: Và nữa, cậu đã là <style="Major">học việc câu cá</style> rồi. Đừng quên nhận <style="Major">trợ cấp ...
 
-245. Key: $$MissionDialog.FML.Fish_M2.1.Graph.N[11].Data.Components.Sentence.Data[0].Text$$
+188. Key: $$MissionDialog.FML.Fish_M2.1.Graph.N[11].Data.Components.Sentence.Data[0].Text$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Input:  今回の「新米釣り人」になるための課題は、ハレナ海域へ向かい、<style="Major">マグロ</style>と<style="Major">ツノダシ</style>を捕獲することだ。
    Output: Nhiệm vụ lần này để trở thành 'người câu cá mới' là đi đến <style="Major">vùng biển Harena</style> v...
 
-246. Key: $$MissionDialog.FML.Fish_M2.4.Graph.N[0].Data.Components.Sentence.Data[1].Text$$
+189. Key: $$MissionDialog.FML.Fish_M2.4.Graph.N[0].Data.Components.Sentence.Data[1].Text$$
    Input tags:  [</style>, <style="Major">]
    Output tags: [</style>, </style>, <style="Major">, <style="Major">]
    Input:  じゃあ<style="Major">新米釣り人</style>として認定してやる。
    Output: Vậy tao <style="Major">chứng nhận</style> cậu làm <style="Major">người câu cá mới</style>.
 
-247. Key: $$MissionDialog.FML.Fish_M2.4.Graph.N[14].Data.Components.Sentence.Data[1].Text$$
+190. Key: $$MissionDialog.FML.Fish_M2.4.Graph.N[14].Data.Components.Sentence.Data[1].Text$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Input:  それと同時に、<style="Major">新米釣り人</style>になったことから、「深海観測所」も新しいアイテムの<style="Major">購入権限</style>を解放してあげる。役に立つ...
    Output: Đồng thời, vì đã trở thành <style="Major">người câu cá mới</style>, <style="Major">Trạm quan sát biể...
 
-248. Key: $$MissionDialog.FML.Fish_M3.1.Graph.N[5].Data.Components.Sentence.Data[1].Text$$
+191. Key: $$MissionDialog.FML.Fish_M3.1.Graph.N[5].Data.Components.Sentence.Data[1].Text$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Input:  繁殖を始める前に、<style="Major">小型養魚池</style>と<style="Major">魚卵孵化器のレシピ</style>のレシピを覚えろ。どっちのレシピも「深海観測所」で売っている...
    Output: Trước khi bắt đầu nhân giống, hãy ghi nhớ công thức của <style="Major">ao nuôi cá nhỏ</style> và <st...
 
-249. Key: $$MissionDialog.FML.Livestock_M1.1_Interim.Graph.N[5].Data.Components.Sentence.Data[0].Text$$
-   Input tags:  []
-   Output tags: [</style>, <style=Major>]
-   Input:  案内所の掲示板に、見習い飼育者にぴったりの依頼が出ておりましたよ。りんぼく工房のリンさんからのご依頼で、「柔らかいふわふわの布」をたくさん集めたいそうです。もしご興味がおありでしたら、掲示板を見てみて...
-   Output: Trên bảng thông báo ở trạm hướng dẫn, có một yêu cầu rất phù hợp với thực tập sinh chăn nuôi đấy. Đó...
-
-250. Key: $$MissionDialog.FML.Livestock_M1.2_Interim.Graph.N[7].Data.Components.Sentence.Data[0].Text$$
-   Input tags:  []
-   Output tags: [</style>, <style="Major">]
-   Input:  {Name@@MainRole}さんなら、きっと素敵な飼育者になれます！次の段階、「新米飼育者」への認定準備が整いましたら、わたくしのところへいらしてくださいね。
-   Output: Nếu là {Name@@MainRole}, cậu chắc chắn sẽ trở thành một người chăn nuôi tuyệt vời! Khi chuẩn bị xong...
-
-251. Key: $$MissionDialog.FML.Livestock_M1.3.Graph.N[0].Data.Components.Sentence.Data[0].Text$$
-   Input tags:  []
-   Output tags: [</style>, <style=Major>]
-   Input:  葵ちゃんから聞いたわ。あなたは今、牧場主としての学びを深めているそうね。……その手に持っているのは、収穫した「ふわふわの毛」かしら？少し、見せていただける？
-   Output: Tôi nghe từ Aoi-chan rồi. Cậu đang học hỏi sâu hơn về nghề nông trại... Phải không? Cái cậu đang cầm...
-
-252. Key: $$MissionDialog.FML.Livestock_M1.3.Graph.N[8].Data.Components.Sentence.Data[0].Text$$
+192. Key: $$MissionDialog.FML.Livestock_M1.3.Graph.N[8].Data.Components.Sentence.Data[0].Text$$
    Input tags:  [</style>, <style="Major">]
    Output tags: [</style>, </style>, <style="Major">, <style="Major">]
    Input:  ささやかなお礼だけれど、この服をあなたに。私の「ミスティスタイル」では<style="Major">不定期に</style>新しい服装を販売するから、興味があるならいつでも私の店にいらして。
    Output: Làm quà cảm ơn nhỏ thôi, nhưng hãy nhận bộ áo này từ tôi. Tại <style="Major">Misty Style</style> của...
 
-253. Key: $$MissionDialog.FML.Livestock_M1.4.Graph.N[3].Data.Components.Sentence.Data[0].Text$$
-   Input tags:  []
-   Output tags: [</style>, <style="Major">]
-   Input:  {Name@@MainRole}さんはもう、立派な見習い飼育者です。牧場のショップにも、見習い飼育者様向けの特別な品物が並ぶようになりましたので、ぜひご覧になってみてくださいね。
-   Output: {Name@@MainRole} đã là một <style="Major">thực tập sinh chăn nuôi</style> xuất sắc rồi. Cửa hàng tro...
-
-254. Key: $$MissionDialog.FML.Livestock_M1.4.Graph.N[4].Data.Components.Sentence.Data[0].Text$$
+193. Key: $$MissionDialog.FML.Livestock_M1.4.Graph.N[4].Data.Components.Sentence.Data[0].Text$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Input:  星砂ポイントを稼ぎたいでしたら、<style="Major">星砂手帳</style>の課題をこなしてみるといいですよ。そして、<style="Major">星砂ライフ</style>が新しい段階に昇...
    Output: Nếu muốn kiếm nhiều <style="Major">điểm sao cát</style>, hãy thử hoàn thành các nhiệm vụ trong <styl...
 
-255. Key: $$MissionDialog.FML.Livestock_M2.1.Graph.N[0].Data.Components.Sentence.Data[0].Text$$
-   Input tags:  []
-   Output tags: [</style>, <style="Major">]
-   Input:  あら？「新米飼育者」の認定試験を受ける準備ができたのでしょうか？
-   Output: Ồ? Cậu đã sẵn sàng cho kỳ thi chứng nhận <style="Major">Chăn nuôi mới</style> rồi sao?
-
-256. Key: $$MissionDialog.FML.Manufacture_M1.1_Interim.Graph.N[7].Data.Components.Sentence.Data[0].Text$$
-   Input tags:  []
-   Output tags: [</style>, <style="Major">]
-   Input:  まだ……蛍月の森には行ってないですよね……。そこは、星砂島で一番謎の多い場所、なので……。
-   Output: Chưa……đi đến <style="Major">Hoshizuki no Mori</style> chứ……? Nơi đó là nơi có nhiều bí ẩn nhất trên ...
-
-257. Key: $$MissionDialog.FML.Manufacture_M1.1_Interim.Graph.N[9].Data.Components.Sentence.Data[0].Text$$
-   Input tags:  []
-   Output tags: [</style>, <style="Major">]
-   Input:  ……ま、まずは掲示板でキララさんの依頼を受けて……材料を集めて、街灯を直してあげてください……。
-   Output: ……Đầu tiên là nhận nhiệm vụ của <style="Major">Kirara-san</style> trên bảng tin……thu thập nguyên liệ...
-
-258. Key: $$MissionDialog.FML.Manufacture_M1.3.Graph.N[10].Data.Components.Sentence.Data[1].Text$$
+194. Key: $$MissionDialog.FML.Manufacture_M1.3.Graph.N[10].Data.Components.Sentence.Data[1].Text$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Input:  えっと……あの、実は「見習い製造者」になると、<style="Major">星砂ライフ</style>アプリで<style="Major">見習い人材手当</style>を受け取ることができます……や...
    Output: À……thực ra khi trở thành <style="Major">học nghề chế tạo</style>, cậu có thể nhận được <style="Major...
 
-259. Key: $$MissionDialog.FML.Manufacture_M1.3.Graph.N[17].Data.Components.Sentence.Data[0].Text$$
-   Input tags:  []
-   Output tags: [<Name@@MainRole>]
-   Input:  製造は、{Name@@MainRole}さんが最初に選んだ職業だって？あ、ありがとう……。
-   Output: Chế tạo là nghề nghiệp đầu tiên <Name@@MainRole> chọn ư? À, cảm ơn……
-
-260. Key: $$MissionDialog.FML.Manufacture_M1.3.Graph.N[17].Data.Components.Sentence.Data[2].Text$$
-   Input tags:  []
-   Output tags: [</style>, </style>, <style="Major">, <style="Major">]
-   Input:  この「職業アプリ」で、星砂ポイントを使えばスキルの解放やレベルアップができます…
-   Output: Với <style="Major">ứng dụng nghề nghiệp</style> này, dùng <style="Major">điểm Hoshizuna</style> có t...
-
-261. Key: $$MissionDialog.FML.Manufacture_M1.3.Graph.N[17].Data.Components.Sentence.Data[3].Text$$
+195. Key: $$MissionDialog.FML.Manufacture_M1.3.Graph.N[17].Data.Components.Sentence.Data[3].Text$$
    Input tags:  [</style>, <style="Major">]
    Output tags: [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Input:  星砂ポイントは……「星砂手帳」や「星砂ライフ」のミッションで手に入ります……こちらの<style="Major">星砂ポイント</style>をあげます……スキルのレベルをあげてみてください……
    Output: Điểm Hoshizuna……có được từ nhiệm vụ trong <style="Major">sổ tay Hoshizuna</style> và <style="Major">...
 
-262. Key: $$MissionDialog.FML.Manufacture_M1.3.Graph.N[2].Data.Components.Sentence.Data[0].Text$$
-   Input tags:  []
-   Output tags: [</style>, <Name@@MainRole>, <style=Major>]
-   Input:  認定完了、です。……ふぅ。お、おめでとうございます……これで、{Name@@MainRole}さんは見習い製造者になりました。
-   Output: Công nhận hoàn tất.……Phhh. Ch-chúc mừng……Từ giờ, <Name@@MainRole> đã trở thành <style=Major>học nghề...
-
-263. Key: $$MissionDialog.FML.Manufacture_M2.1.Graph.N[16].Data.Components.Sentence.Data[0].Text$$
-   Input tags:  []
-   Output tags: [</style>, <style=Major>]
-   Input:  ……あ、あの、新米製造者への昇格申請、ですね……。わ、わかりました。こ、今回の試験は……もう少し構造が複雑なものを……作ってもらいます。
-   Output: ……Ặ, ạ, đây là đơn xét thăng hạng lên <style=Major>người chế tạo mới</style> nhỉ…….T-tôi hiểu rồi. L...
-
-264. Key: $$MissionDialog.FML.Manufacture_M2.1.Graph.N[17].Data.Components.Sentence.Data[0].Text$$
-   Input tags:  []
-   Output tags: [</style>, <style="Major">]
-   Input:  インラインスケートを作るには古のパーツが必要で……その素材は鉱石解析機で謎の鉱石を解析すると、手に入れます……
-   Output: Để làm giày trượt in-line cần linh kiện cổ……nguyên liệu đó sẽ có được khi dùng <style="Major">máy ph...
-
-265. Key: $$MissionDialog.FML.Manufacture_M2.1.Graph.N[17].Data.Components.Sentence.Data[3].Text$$
-   Input tags:  []
-   Output tags: [</style>, <Name@@MainRole>, <style="Major">]
-   Input:  今回の依頼は、ちょっと複雑ですが……手順は{Name@@MainRole}さんの携帯のミッションアプリに転送してあるから……それに従っていれば……大丈夫です
-   Output: Nhiệm vụ lần này hơi phức tạp, nhưng……các bước đã được chuyển đến <style="Major">ứng dụng nhiệm vụ</...
-
-266. Key: $$MissionDialog.FML.Manufacture_M2.1_Interim.Graph.N[0].Data.Components.Sentence.Data[1].Text$$
-   Input tags:  []
-   Output tags: [</style>, <style="Major">]
-   Input:  ……レイナさんが、改造パーツを作るための素材が必要だそう、です……。あ、あの……受けてみませんか？
-   Output: ……Nghe nói <style="Major">Reina-san</style> cần nguyên liệu để làm linh kiện cải tạo…….C-cậu có nhận...
-
-267. Key: $$MissionDialog.FML.Manufacture_M2.2.Graph.N[1].Data.Components.Sentence.Data[0].Text$$
+196. Key: $$MissionDialog.FML.Manufacture_M2.2.Graph.N[1].Data.Components.Sentence.Data[0].Text$$
    Input tags:  [</style>, <style="Major">]
    Output tags: [</style>, <Name@@MainRole>, <style="Major">]
    Input:  認定完了、です。……これで、{Name@@MainRole}さんは<style="Major">新米製造者</style>になりました。
    Output: Công nhận hoàn tất.……Từ giờ, <Name@@MainRole> đã trở thành <style="Major">người chế tạo mới</style>.
 
-268. Key: $$MissionDialog.FML.Manufacture_M2.3_Interim.Graph.N[5].Data.Components.Sentence.Data[0].Text$$
-   Input tags:  []
-   Output tags: [</style>, <style="Major">]
-   Input:  うーん……そうですね。精密加工機を使って……幻彩の砂を作れば、それを塗料にして……DIYできるはず……です。
-   Output: Ừm... phải rồi. Dùng máy gia công chính xác... để tạo ra <style="Major">Cát phong cảnh</style>, sau ...
-
-269. Key: $$MissionDialog.FML.Manufacture_M2.4_Interim.Graph.N[0].Data.Components.Sentence.Data[0].Text$$
-   Input tags:  []
-   Output tags: [</style>, <style="Major">]
-   Input:  これは、幻彩の砂……。あ、あのう、スケボーをちょっと借りますね。簡単な改造をしておきたいので……。
-   Output: Đây là... <style="Major">Cát phong cảnh</style>... À, xin lỗi, cho tôi mượn chiếc ván trượt chút. Tô...
-
-270. Key: $$MissionDialog.FML.Manufacture_M3.1.Graph.N[4].Data.Components.Sentence.Data[0].Text$$
-   Input tags:  []
-   Output tags: [</style>, <style="Major">]
-   Input:  ぷ、プロ製造者への昇格申請、ですか？
-   Output: Đăng ký thăng hạng lên <style="Major">Nhà sản xuất chuyên nghiệp</style> ư?
-
-271. Key: $$MissionDialog.FML.Plant_M1.4.Graph.N[4].Data.Components.Sentence.Data[0].Text$$
+197. Key: $$MissionDialog.FML.Plant_M1.4.Graph.N[4].Data.Components.Sentence.Data[0].Text$$
    Input tags:  [</style>, <style=Major>]
    Output tags: [</style>, </style>, <style=Major>, <style=Major>]
    Input:  <style=Major>肥料</style>を使えば作物の成長を加速されることができる。ショップでコンポスターを購入するか、設計図を購入してコンポスターを作ると、自分で肥料を作ることができる。
    Output: Dùng <style=Major>phân bón</style> có thể tăng tốc độ sinh trưởng của cây trồng. Có thể mua <style=M...
 
-272. Key: $$MissionDialog.FML.Plant_M1.4.Graph.N[4].Data.Components.Sentence.Data[2].Text$$
+198. Key: $$MissionDialog.FML.Plant_M1.4.Graph.N[4].Data.Components.Sentence.Data[2].Text$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Input:  おめでとう、これで君は立派な見習い栽培者だ。そして<style="Major">星砂ライフ</style>アプリで<style="Major">見習い人材手当</style>を受けることもできる。
    Output: Chúc mừng, từ giờ cậu là một <style="Major">thực tập sinh trồng trọt</style> tuyệt vời. Và cậu cũng ...
 
-273. Key: $$MissionDialog.FML.Plant_M1.4.Graph.N[7].Data.Components.Sentence.Data[0].Text$$
-   Input tags:  []
-   Output tags: [</style>, </style>, <style=Major>, <style=Major>]
-   Input:  ショウさんに認めてもらうことから、始めとしては上々といったところか。では新米栽培者の認定を行おう。
-   Output: Bắt đầu bằng việc được <style=Major>Sho-san</style> công nhận, có vẻ là một khởi đầu khá tốt đẹp. Vậ...
-
-274. Key: $$MissionDialog.FML.Plant_M2.1.Graph.N[8].Data.Components.Sentence.Data[3].Text$$
-   Input tags:  []
-   Output tags: [</style>, <style=Major>]
-   Input:  そういえば、この前にペットショップのキララさんが、動物たちに健康的なおやつを準備してあげたいと言っていた。例えば…新鮮なキュウリ。
-   Output: À phải rồi, trước đó chị <style=Major>Kirara</style> ở cửa hàng thú cưng có nói muốn chuẩn bị món ăn...
-
-275. Key: $$MissionDialog.FML.Plant_M2.1_Interim.Graph.N[0].Data.Components.Sentence.Data[1].Text$$
-   Input tags:  []
-   Output tags: [</style>, <style=Major>]
-   Input:  自然の摂理に従うことの本質は、作物の特性を利用して、最善の結果を出すことだ。星砂島は昼夜の温度差が激しいため、ブドウの糖質蓄積に役立つ。
-   Output: Bản chất của việc tuân theo tự nhiên là tận dụng đặc điểm cây trồng để đạt kết quả tốt nhất. Đảo <st...
-
-276. Key: $$MissionDialog.FML.Plant_M2.1_Interim.Graph.N[7].Data.Components.Sentence.Data[0].Text$$
+199. Key: $$MissionDialog.FML.Plant_M2.1_Interim.Graph.N[7].Data.Components.Sentence.Data[0].Text$$
    Input tags:  [</style>, <style="Major">]
    Output tags: [</style>, </style>, <style="Major">, <style="Major">]
    Input:  そうだ、<style="Major">掲示板</style>にカイトの依頼が出ていた。遠洋航海の準備に、保存性の高いブドウジュースを買い取っているらしい。できたなら、直接渡してやるといい。
    Output: Đúng rồi, trên <style="Major">bảng thông báo</style> có yêu cầu từ <style="Major">Kaito</style>. Ngh...
 
-277. Key: $$MissionDialog.FML.Plant_M2.2.Graph.N[2].Data.Components.Sentence.Data[2].Text$$
-   Input tags:  []
-   Output tags: [</style>, <style=Major>]
-   Input:  ありがとう、優しいおやつ配達員さん！お礼としてこのペット飼料を受け取ってね。
-   Output: Cảm ơn, chú chuyển phát ăn vặt tốt bụng! Hãy nhận <style=Major>thức ăn cho thú cưng</style> này làm ...
-
-278. Key: $$MissionDialog.FML.Plant_M2.2_Interim.Graph.N[0].Data.Components.Sentence.Data[1].Text$$
-   Input tags:  []
-   Output tags: [</style>, <style=Major>]
-   Input:  何より、君は天の時に従って栽培することの大切さを知った。『中庸』には、"天地の化育を賛く"という言葉がある。栽培の真髄は、自然を征服することではなく、自然を知り、その変化に合わせて栽培方法を変えること...
-   Output: Quan trọng hơn cả, cậu đã hiểu được tầm quan trọng của việc trồng trọt theo thiên thời. Trong <style...
-
-279. Key: $$MissionDialog.FML.Plant_M3.1.Graph.N[22].Data.Components.Sentence.Data[0].Text$$
-   Input tags:  []
-   Output tags: [</style>, <style="Major">]
-   Input:  巨大化作物を育てるには運が必要だ。時には巨大化作物のかけらも手に入れることができる。
-   Output: Để trồng cây khổng lồ cần may mắn. Đôi khi bạn cũng có thể nhận được <style="Major">mảnh cây khổng l...
-
-280. Key: $$MissionDialog.FML.Plant_M3.1.Graph.N[4].Data.Components.Sentence.Data[0].Text$$
+200. Key: $$MissionDialog.FML.Plant_M3.1.Graph.N[4].Data.Components.Sentence.Data[0].Text$$
    Input tags:  [</style>, <style="Major">]
    Output tags: [</style>, </style>, <style="Major">, <style="Major">]
    Input:  現在の君の技術をもってすれば、「巨大化作物」の栽培に挑戦できるはずだ。<style="Major">巨大化作物</style>はオレの最新の研究成果だ。
    Output: Với kỹ thuật hiện tại của cậu, cậu hoàn toàn có thể thử sức với việc trồng <style="Major">cây khổng ...
 
-281. Key: $$MissionDialog.FML.Plant_M3.1_Interim.Graph.N[7].Data.Components.Sentence.Data[3].Text$$
-   Input tags:  []
-   Output tags: [</style>, <style="Major">]
-   Input:  これらは巨大化作物の種を使って、できるだけ多くのかけらの集めるといい。具体的にはどの家具をつくるか、どれだけのかけらが必要なのかは、あずさに直接聞くといい。
-   Output: Nên thu thập càng nhiều <style="Major">mảnh cây khổng lồ</style> càng tốt bằng cách sử dụng hạt giốn...
-
-282. Key: $$MissionDialog.FML.Plant_M3.2.Graph.N[14].Data.Components.Sentence.Data[1].Text$$
+201. Key: $$MissionDialog.FML.Plant_M3.2.Graph.N[14].Data.Components.Sentence.Data[1].Text$$
    Input tags:  [</style>, <style="Major">]
    Output tags: [</style>, </style>, <style="Major">, <style="Major">]
    Input:  これからは、上級肥料の制作に携わっていいだろう。<style="Major">上級コンポスターの設計図</style>ならオレの店で買える。
    Output: Từ giờ, cậu có thể tham gia vào việc sản xuất <style="Major">phân bón cao cấp</style>. <style="Major...
 
-283. Key: $$MissionDialog.FML.Plant_M3.2.Graph.N[14].Data.Components.Sentence.Data[2].Text$$
+202. Key: $$MissionDialog.FML.Plant_M3.2.Graph.N[14].Data.Components.Sentence.Data[2].Text$$
    Input tags:  [</style>, <style="Major">]
    Output tags: [</style>, </style>, <style="Major">, <style="Major">]
    Input:  上級コンポスターを使えば、<style="Major">上級肥料</style>を生産することができる。上級肥料を使えば巨大化が発生する確率が上がる。
    Output: Nếu dùng <style="Major">máy ủ phân cao cấp</style>, có thể sản xuất được <style="Major">phân bón cao...
 
-284. Key: $$MissionDialog.FML.Plant_M3.2_Interim.Graph.N[0].Data.Components.Sentence.Data[1].Text$$
-   Input tags:  []
-   Output tags: [</style>, <style="Major">]
-   Input:  でも、こういうデザインを形にするには、巨大作物の「かけら」が必要なんだ。{Name@@MainRole}、巨大作物のかけらを集めて、それでお揃いのテーマのデスクとソファを作ってくれないかな？
-   Output: Nhưng để hiện thực hóa thiết kế này, cần có <style="Major">"mảnh cây khổng lồ"</style>. {Name@@MainR...
-
-285. Key: $$MissionDialog.FML.Plant_M3.3_2_Interim.Graph.N[2].Data.Components.Sentence.Data[1].Text$$
-   Input tags:  []
-   Output tags: [</style>, <style="Major">]
-   Input:  でもこれらの設計を形にするには巨大化作物のかけらが必要なの。{Name@@MainRole}、巨大化作物のかけらを集めて、同じフルーツをテーマにしたオフィスデスクとソファを作ってくれないかな？
-   Output: Nhưng để biến những thiết kế này thành hiện thực, cần có <style="Major">mảnh cây khổng lồ</style>. {...
-
-286. Key: $$MissionDialog.Festival_SpringFestival_CaiDengMi.Graph.N[10].Data.Components.Sentence.Data[1].Text$$
+203. Key: $$MissionDialog.Festival_SpringFestival_CaiDengMi.Graph.N[10].Data.Components.Sentence.Data[1].Text$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, <style="Major">]
    Input:  問題:鬼が食べるゾウが入ったお正月の<style="Major">食べ物</style>はなんでしょうか？答え:<style="Major">お雑煮</style>。
    Output: Câu hỏi: Món ăn Tết có chứa con voi mà quỷ ăn là gì? Trả lời: <style="Major">Cháo Tết</style>.
 
-287. Key: $$MissionDialog.Festival_SpringFestival_CaiDengMi.Graph.N[12].Data.Components.Sentence.Data[1].Text$$
+204. Key: $$MissionDialog.Festival_SpringFestival_CaiDengMi.Graph.N[12].Data.Components.Sentence.Data[1].Text$$
    Input tags:  [</style>, <style="Major">]
    Output tags: []
    Input:  お正月で大人も子供も関係なくあげる<style="Major">もの</style>はなんでしょうか？
    Output: Trong dịp Tết, thứ được cho bất kể người lớn hay trẻ em là gì?
 
-288. Key: $$MissionDialog.Festival_SpringFestival_CaiDengMi.Graph.N[13].Data.Components.Sentence.Data[1].Text$$
+205. Key: $$MissionDialog.Festival_SpringFestival_CaiDengMi.Graph.N[13].Data.Components.Sentence.Data[1].Text$$
    Input tags:  [</style>, <style="Major">]
    Output tags: []
    Input:  A君はお爺ちゃんが何かを落としたことで大喜びしました。その<style="Major">何か</style>はなんでしょうか？
    Output: Cậu A đã vui mừng khi ông nội làm rơi một thứ gì đó. Thứ đó là gì?
 
-289. Key: $$MissionDialog.Festival_SpringFestival_CaiDengMi.Graph.N[14].Data.Components.Sentence.Data[1].Text$$
+206. Key: $$MissionDialog.Festival_SpringFestival_CaiDengMi.Graph.N[14].Data.Components.Sentence.Data[1].Text$$
    Input tags:  [</style>, <style="Major">]
    Output tags: []
    Input:  お正月になると和尚さんがやってきました。<style="Major">何人</style>来たでしょうか？
    Output: Khi đến Tết, các nhà sư đã đến. Bao nhiêu người đã đến vậy?
 
-290. Key: $$MissionDialog.Festival_SpringFestival_CaiDengMi.Graph.N[34].Data.Components.Sentence.Data[1].Text$$
+207. Key: $$MissionDialog.Festival_SpringFestival_CaiDengMi.Graph.N[34].Data.Components.Sentence.Data[1].Text$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Input:  問題:A君はお爺ちゃんが何かを落としたことで大喜びしました。その<style="Major">何か</style>はなんでしょうか？答え:<style="Major">お年玉</style>
    Output: Câu hỏi: A-kun rất vui vì ông nội đã làm rơi <style="Major">thứ gì</style>. <style="Major">Thứ đó</s...
 
-291. Key: $$MissionDialog.Festival_SpringFestival_CaiDengMi.Graph.N[44].Data.Components.Sentence.Data[1].Text$$
+208. Key: $$MissionDialog.Festival_SpringFestival_CaiDengMi.Graph.N[44].Data.Components.Sentence.Data[1].Text$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, <style="Major">]
    Input:  問題:腹黒い人が初売りで買って来た<style="Major">もの</style>はなんでしょうか？答え:<style="Major">福袋</style>
    Output: Câu hỏi: Người bụng đen (gian xảo) mua gì trong ngày bán đầu năm? Đáp án: <style="Major">túi may mắn...
 
-292. Key: $$MissionDialog.ML.BackIsland_FixFurniture.Graph.N[12].Data.Components.Sentence.Data[0].Text$$
+209. Key: $$MissionDialog.ML.BackIsland_FixFurniture.Graph.N[12].Data.Components.Sentence.Data[0].Text$$
    Input tags:  [<ani:@F1_Speak04/>]
    Output tags: [</style>, <ani:@F1_Speak04/>, <style="Major">]
    Input:  <ani:@F1_Speak04/>じゃじゃーん、{Name@@MainRole}のおうちへようこそ！
    Output: <ani:@F1_Speak04/>Ta-da, chào mừng đến với <style="Major">ngôi nhà của {Name@@MainRole}</style>!
 
-293. Key: $$MissionDialog.ML.BackIsland_SandBox.Graph.N[5].Data.Components.Sentence.Data[1].Text$$
+210. Key: $$MissionDialog.ML.BackIsland_SandBox.Graph.N[5].Data.Components.Sentence.Data[1].Text$$
    Input tags:  [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Input:  そうだ！<style="Major">りんぼく工房</style>にはたくさんの<style="Major">ホーム図面セット</style>を取り扱っていて、ビーチ風から田園風まで色んなスタイルの図...
    Output: Nhớ rồi! <style="Major">Xưởng Linh Bạc</style> có bán rất nhiều <style="Major">Bộ bản vẽ nhà</style>...
 
-294. Key: $$MissionDialog.ML.GotoTown_Plot_PlayWithDog_Kid.Graph.N[0].Data.Components.Sentence.Data[0].Text$$
+211. Key: $$MissionDialog.ML.GotoTown_Plot_PlayWithDog_Kid.Graph.N[0].Data.Components.Sentence.Data[0].Text$$
    Input tags:  [<ani:@F1_Upset/>]
    Output tags: [</style>, <ani:@F1_Upset/>, <style="Major">]
    Input:  <ani:@F1_Upset/>地べたに座っている{NickName[0]@@MainRole}にドッグフードをあげたいんだ。そうすれば、なでさせてもらえると思うんだけど…お金がなくて…
    Output: <ani:@F1_Upset/>Tôi muốn cho chó ăn <style="Major">thức ăn cho chó</style> cho {NickName[0]@@MainRol...
 
-295. Key: $$MissionDialog.ML.GotoTown_Plot_PlayWithDog_Kid.Graph.N[0].Data.Components.Sentence.Data[1].Text$$
+212. Key: $$MissionDialog.ML.GotoTown_Plot_PlayWithDog_Kid.Graph.N[0].Data.Components.Sentence.Data[1].Text$$
    Input tags:  [<ani:@F1_Speak02/>]
    Output tags: [</style>, </style>, <ani:@F1_Speak02/>, <style="Major">, <style="Major">]
    Input:  <ani:@F1_Speak02/>{NickName[0]@@MainRole}、ドッグフードを1袋買ってくれない？初級のものでいいんだ！お金は払えないけど、ボクの風車をあげるよ！
    Output: <ani:@F1_Speak02/>{NickName[0]@@MainRole}, cậu mua cho tôi một túi <style="Major">thức ăn cho chó</s...
 
-296. Key: $$MissionDialog.ML.GotoTown_Plot_PlayWithDog_Kid.Graph.N[1].Data.Components.Sentence.Data[1].Text$$
-   Input tags:  []
-   Output tags: [</style>, <style="Major">]
-   Input:  初級ドッグフードは自販機か雑貨屋で売ってると思うよ。ボクはここで待ってるね！
-   Output: <style="Major">Thức ăn cho chó cấp thấp</style> tôi nghĩ là bán ở máy bán hàng tự động hoặc cửa hàng...
-
-297. Key: $$MissionDialog.ML.GotoTown_Plot_PlayWithDog_Kid.Graph.N[6].Data.Components.Sentence.Data[0].Text$$
+213. Key: $$MissionDialog.ML.GotoTown_Plot_PlayWithDog_Kid.Graph.N[6].Data.Components.Sentence.Data[0].Text$$
    Input tags:  [<ani:@F2_Happy_Swing/>]
    Output tags: [</style>, <ani:@F2_Happy_Swing/>, <style="Major">]
    Input:  <ani:@F2_Happy_Swing/>あっ、{NickName[0]@@MainRole}！ドッグフードを買ってくれるのか？
    Output: <ani:@F2_Happy_Swing/>À, {NickName[0]@@MainRole}! Cậu mua <style="Major">thức ăn cho chó</style> rồi...
 
-298. Key: $$MissionDialog.ML.GotoTown_Plot_PlayWithDog_Mainrole.Graph.N[10].Data.Components.Sentence.Data[0].Text$$
+214. Key: $$MissionDialog.ML.GotoTown_Plot_PlayWithDog_Mainrole.Graph.N[10].Data.Components.Sentence.Data[0].Text$$
    Input tags:  [<ani:@F2_Shy/>]
    Output tags: [</style>, <ani:@F2_Shy/>, <style="Major">]
    Input:  <ani:@F2_Shy/>わかった！じゃあボクはここで{NickName[0]@@MainRole}のことを待ってるね！初級ドッグフードは雑貨屋と自販機で買えるよ
    Output: <ani:@F2_Shy/>Được rồi! Vậy tôi sẽ đợi {NickName[0]@@MainRole} ở đây! <style="Major">Thức ăn cho chó...
 
-299. Key: $$MissionDialog.ML.GotoTown_Plot_PlayWithDog_Mainrole.Graph.N[4].Data.Components.Sentence.Data[0].Text$$
-   Input tags:  []
-   Output tags: [</style>, <style="Major">]
-   Input:  あっ！{NickName[0]@@MainRole}だ！どう、初級ドッグフードは買えた？
-   Output: À! Là {NickName[0]@@MainRole}! Thế nào, mua được <style="Major">thức ăn cho chó cấp thấp</style> chư...
-
-300. Key: $$MissionDialog.ML.GotoTown_Plot_PlayWithDog_Mainrole.Graph.N[7].Data.Components.Sentence.Data[0].Text$$
+215. Key: $$MissionDialog.ML.GotoTown_Plot_PlayWithDog_Mainrole.Graph.N[7].Data.Components.Sentence.Data[0].Text$$
    Input tags:  [<ani:@F1_Clap/>]
    Output tags: [</style>, <ani:@F1_Clap/>, <style="Major">]
    Input:  <ani:@F1_Clap/>わあ！やったー！ドッグフードだ！これで地べたにいる子犬をなでられる！
    Output: <ani:@F1_Clap/>Ồ! Thành công rồi! <style="Major">Thức ăn cho chó</style>! Vậy là có thể nựng chó con...
 
-301. Key: $$MissionDialog.ML.GotoTown_Plot_PlayWithDog_Mainrole.Graph.N[9].Data.Components.Sentence.Data[0].Text$$
+216. Key: $$MissionDialog.ML.GotoTown_Plot_PlayWithDog_Mainrole.Graph.N[9].Data.Components.Sentence.Data[0].Text$$
    Input tags:  [<ani:@F1_Speak04_SendGift/>]
    Output tags: [</style>, <ani:@F1_Speak04_SendGift/>, <style="Major">]
    Input:  <ani:@F1_Speak04_SendGift/>はい！約束通り、風車をあげるよ！ありがとう、{NickName[0]@@MainRole}！
    Output: <ani:@F1_Speak04_SendGift/>Vâng! Như đã hứa, tôi tặng cậu <style="Major">quạt gió</style>! Cảm ơn cậ...
 
-302. Key: $$MissionDialog.Plot.MainLine_Day2@Plaza_7.Graph.N[0].Data.Components.Sentence.Data[0].Text$$
+217. Key: $$MissionDialog.Plot.MainLine_Day2@Plaza_7.Graph.N[0].Data.Components.Sentence.Data[0].Text$$
    Input tags:  [<wait:3/>]
    Output tags: []
    Input:  あ、その猫は小さなシャム猫です。もし見つけたら、このキャットフードをあげてください！マンゴー猫神の善行を無駄にしてはいけませんよ！<wait:3/>
    Output: À, con mèo đó là một chú mèo tam thể nhỏ. Nếu gặp được, hãy cho nó ăn những quả thức ăn cho mèo này ...
 
-303. Key: $$MissionDialog.Plot.MainLine_Day2@Plaza_7.Graph.N[10].Data.Components.Sentence.Data[0].Text$$
+218. Key: $$MissionDialog.Plot.MainLine_Day2@Plaza_7.Graph.N[10].Data.Components.Sentence.Data[0].Text$$
    Input tags:  [<wait:3/>]
    Output tags: []
    Input:  了解です！これが前回約束したキャットフードです。もしあの小さなシャム猫に出会ったら、これらのキャットフードをあげてくださいね！<wait:3/>
    Output: Được rồi! Đây là thức ăn cho mèo như tôi đã hứa lần trước. Nếu gặp chú mèo tam thể nhỏ đó, hãy cho n...
 
-304. Key: $$MissionDialog.Relation.ChenXing_Lv5_Cycle_Collect_02.Graph.N[4].Data.Components.Sentence.Data[1].Text$$
+219. Key: $$MissionDialog.Relation.ChenXing_Lv5_Cycle_Collect_02.Graph.N[4].Data.Components.Sentence.Data[1].Text$$
    Input tags:  [<sprite name="TextEmojy/TextEmojy_59">]
    Output tags: []
    Input:  アオイちゃんはいつも黙ってみんなの世話をしてて、プリンの面倒も見てくれてる。もしこれが成功したら、アオイちゃんの牧場の新しい人気商品にならないか試してみたいんだ！<sprite name="TextE...
    Output: Aoi-chan lúc nào cũng thầm lặng chăm sóc mọi người và chăm sóc cả Pudding nữa. Nếu cái này thành côn...
 
-305. Key: $$MissionDialog.Relation.ChenXing_Lv5_Cycle_Collect_02.Graph.N[5].Data.Components.Sentence.Data[0].Text$$
+220. Key: $$MissionDialog.Relation.ChenXing_Lv5_Cycle_Collect_02.Graph.N[5].Data.Components.Sentence.Data[0].Text$$
    Input tags:  [<sprite name="TextEmojy/TextEmojy_63">]
    Output tags: []
    Input:  大丈夫、他の方法を考えてみるよ！<sprite name="TextEmojy/TextEmojy_63">
    Output: Đừng lo, tớ sẽ nghĩ cách khác!
 
-306. Key: $$MissionDialog.TitleApply.Fishing_Lv2.Graph.N[1].Data.Components.Sentence.Data[0].Text$$
+221. Key: $$MissionDialog.TitleApply.Fishing_Lv2.Graph.N[1].Data.Components.Sentence.Data[0].Text$$
    Input tags:  [</style>, </style>, <br>, <style="Major">, <style=Major">]
    Output tags: [</style>, </style>, <br>, <style="Major">, <style="Major">]
    Input:  <style=Major">{#TitleDisplayName}</style>を申請するには、以下の条件を満たす必要があります：<br><style="Major">{#TitleNotice}<...
    Output: <style="Major">{#TitleDisplayName}</style> cần đáp ứng các điều kiện sau:<br><style="Major">{#TitleN...
 
-307. Key: $$MissionDialog.TitleApply.Fishing_Lv3.Graph.N[1].Data.Components.Sentence.Data[0].Text$$
+222. Key: $$MissionDialog.TitleApply.Fishing_Lv3.Graph.N[1].Data.Components.Sentence.Data[0].Text$$
    Input tags:  [</style>, </style>, <br>, <style="Major">, <style=Major">]
    Output tags: [</style>, </style>, <br>, <style="Major">, <style="Major">]
    Input:  <style=Major">{#TitleDisplayName}</style>の申請には以下の条件が必要です：<br><style="Major">{#TitleNotice}</style>
    Output: <style="Major">{#TitleDisplayName}</style> cần các điều kiện sau:<br><style="Major">{#TitleNotice}</...
 
-308. Key: $$MissionDialog.TitleApply.Fishing_Lv4.Graph.N[1].Data.Components.Sentence.Data[0].Text$$
+223. Key: $$MissionDialog.TitleApply.Fishing_Lv4.Graph.N[1].Data.Components.Sentence.Data[0].Text$$
    Input tags:  [</style>, </style>, <br>, <style="Major">, <style=Major">]
    Output tags: [</style>, </style>, <br>, <style="Major">, <style="Major">]
    Input:  <style=Major">{#TitleDisplayName}</style>を申請するには、以下の条件を満たす必要があります：<br><style="Major">{#TitleNotice}<...
    Output: <style="Major">{#TitleDisplayName}</style> cần đáp ứng các điều kiện sau:<br><style="Major">{#TitleN...
 
-309. Key: $$Mounts.LlamaShamate.CDisplayableTitle.MapDescription$$
+224. Key: $$Mounts.LlamaShamate.CDisplayableTitle.MapDescription$$
    Input tags:  [</style>, <style="Major">]
    Output tags: [</style>, </style>, <style="Major">, <style="Major">]
    Input:  アルパカの亜種。<style="Major">乗る</style>ことができる。
 その個性的なヘアスタイルこそが、彼らがツッパリということの証だ！
    Output: Loài alpaca con. Có thể <style="Major">cưỡi</style>. Phong cách tóc độc đáo của chính chúng chính là...
 
-310. Key: $$Mounts.LlamaShamate_Rent.CDisplayableTitle.MapDescription$$
+225. Key: $$Mounts.LlamaShamate_Rent.CDisplayableTitle.MapDescription$$
    Input tags:  [</style>, <style="Major">]
    Output tags: [</style>, </style>, <style="Major">, <style="Major">]
    Input:  アルパカの亜種。<style="Major">乗る</style>ことができる。
 その個性的なヘアスタイルこそが、彼らがツッパリということの証だ！
    Output: Loài alpaca con. Có thể <style="Major">cưỡi</style>. Phong cách tóc độc đáo của chính chúng chính là...
 
-311. Key: $$Mounts.Template.DeerNineColor.Description$$
-   Input tags:  []
-   Output tags: [</style>, <style="Major">]
-   Input:  花と草を身に纏り、神聖なオーラを放つ自然の精霊と呼ばれる存在。
-二人乗りができる。
-   Output: Một sinh vật được gọi là tinh linh thiên nhiên, khoác trên mình hoa và cỏ, phát ra khí thế thiêng li...
-
-312. Key: $$Part.BigFruit_Pumpkin.Description$$
+226. Key: $$Part.BigFruit_Pumpkin.Description$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, <style="Major">]
    Input:  巨大カボチャから手に入る果実の模造品。<style="Major">飾り</style>として自宅に置いたり、店に<style="Major">売却</style>して換金したりできる。
    Output: Mô hình trái cây thu được từ bí ngô khổng lồ. Có thể đặt làm<style="Major">trang trí</style>trong nh...
 
-313. Key: $$Part.BigFruit_Wintermelon.Description$$
+227. Key: $$Part.BigFruit_Wintermelon.Description$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, <style="Major">]
    Input:  巨大トウガンから手に入る果実の模造品。<style="Major">飾り</style>として自宅に置いたり、店に<style="Major">売却</style>して換金したりできる。
    Output: Mô hình trái cây thu được từ bí đao khổng lồ. Có thể đặt làm<style="Major">trang trí</style>trong nh...
 
-314. Key: $$Role.CoralTown_AFei.CDisplayableTitle.Description$$
+228. Key: $$Role.CoralTown_AFei.CDisplayableTitle.Description$$
    Input tags:  [</style>, <style="Major">]
    Output tags: []
    Input:  ナギトは星砂島で育った<style="Major">釣りの達人</style>、もはや伝説になっている唯一無二の釣り人。
 島で漁具店を営み、店内に並ぶ精巧に作られた様々な水槽こそが彼が戦った証。外見は...
    Output: Nagito lớn lên trên Starsand Island, là một người câu cá độc nhất vô nhị, nay đã trở thành huyền tho...
 
-315. Key: $$Role.CoralTown_AFei.CDisplayableTitle.MapDescription$$
+229. Key: $$Role.CoralTown_AFei.CDisplayableTitle.MapDescription$$
    Input tags:  [</style>, <style="Major">]
    Output tags: []
    Input:  ナギトは星砂島で育った<style="Major">釣りの達人</style>、もはや伝説になっている唯一無二の釣り人。
 島で漁具店を営み、店内に並ぶ精巧に作られた様々な水槽こそが彼が戦った証。外見は...
    Output: Nagito lớn lên trên Starsand Island, là một người câu cá độc nhất vô nhị, nay đã trở thành huyền tho...
 
-316. Key: $$SeparatorMakeTip.ProcessAll$$
+230. Key: $$SeparatorMakeTip.ProcessAll$$
    Input tags:  [<#81b217>, </color>]
    Output tags: [</color>, <color=#81b217>]
    Input:  全ての材料を使用すると<#81b217>{0}個の{1}</color>が作れます
    Output: Khi sử dụng tất cả nguyên liệu, có thể chế tạo được <color=#81b217>{0} {1}</color>
 
-317. Key: $$TeachingPoint.BrokenGate.Contents[0].Desc$$
+231. Key: $$TeachingPoint.BrokenGate.Contents[0].Desc$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Input:  パチンコを使ってドアの上の黄色の<style="Major">弱点</style>を撃ち、すべての<style="Major">弱点</style>が破壊されると、ドアが開きます。
    Output: Dùng <style="Major">pachinko</style> bắn vào <style="Major">điểm yếu</style> màu vàng trên cửa. Khi ...
 
-318. Key: $$TeachingPoint.BrokenGate.Contents[0].PSDesc$$
+232. Key: $$TeachingPoint.BrokenGate.Contents[0].PSDesc$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Input:  パチンコを使ってドアの上の黄色の<style="Major">弱点</style>を撃ち、すべての<style="Major">弱点</style>が破壊されると、ドアが開きます。
    Output: Dùng <style="Major">pachinko</style> bắn vào <style="Major">điểm yếu</style> màu vàng trên cửa. Khi ...
 
-319. Key: $$TeachingPoint.BrokenGate.Contents[0].SwitchDesc$$
+233. Key: $$TeachingPoint.BrokenGate.Contents[0].SwitchDesc$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Input:  パチンコを使ってドアの上の黄色の<style="Major">弱点</style>を撃ち、すべての<style="Major">弱点</style>が破壊されると、ドアが開きます。
    Output: Dùng <style="Major">pachinko</style> bắn vào <style="Major">điểm yếu</style> màu vàng trên cửa. Khi ...
 
-320. Key: $$TeachingPoint.BrokenGate.Contents[0].XboxDesc$$
+234. Key: $$TeachingPoint.BrokenGate.Contents[0].XboxDesc$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Input:  パチンコを使ってドアの上の黄色の<style="Major">弱点</style>を撃ち、すべての<style="Major">弱点</style>が破壊されると、ドアが開きます。
    Output: Dùng <style="Major">pachinko</style> bắn vào <style="Major">điểm yếu</style> màu vàng trên cửa. Khi ...
 
-321. Key: $$TeachingPoint.CampSite.Contents[0].Desc$$
+235. Key: $$TeachingPoint.CampSite.Contents[0].Desc$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Input:  蛍月の森に探索する時、危ない状態になった場合、キャンプに戻って<style="Major">休憩</style>や<style="Major">製造</style>を行うことができます。
    Output: Khi khám phá <style="Major">Rừng Hotaru</style>, nếu gặp nguy hiểm, bạn có thể quay về <style="Major...
 
-322. Key: $$TeachingPoint.CampSite.Contents[0].PSDesc$$
+236. Key: $$TeachingPoint.CampSite.Contents[0].PSDesc$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Input:  蛍月の森に探索する時、危ない状態になった場合、キャンプに戻って<style="Major">休憩</style>や<style="Major">製造</style>を行うことができます。
    Output: Khi khám phá <style="Major">Rừng Hotaru</style>, nếu gặp nguy hiểm, bạn có thể quay về <style="Major...
 
-323. Key: $$TeachingPoint.CampSite.Contents[0].SwitchDesc$$
+237. Key: $$TeachingPoint.CampSite.Contents[0].SwitchDesc$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Input:  蛍月の森に探索する時、危ない状態になった場合、キャンプに戻って<style="Major">休憩</style>や<style="Major">製造</style>を行うことができます。
    Output: Khi khám phá <style="Major">Rừng Hotaru</style>, nếu gặp nguy hiểm, bạn có thể quay về <style="Major...
 
-324. Key: $$TeachingPoint.CampSite.Contents[0].XboxDesc$$
+238. Key: $$TeachingPoint.CampSite.Contents[0].XboxDesc$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Input:  蛍月の森に探索する時、危ない状態になった場合、キャンプに戻って<style="Major">休憩</style>や<style="Major">製造</style>を行うことができます。
    Output: Khi khám phá <style="Major">Rừng Hotaru</style>, nếu gặp nguy hiểm, bạn có thể quay về <style="Major...
 
-325. Key: $$TeachingPoint.Construction_Grid.Contents[0].Desc$$
+239. Key: $$TeachingPoint.Construction_Grid.Contents[0].Desc$$
    Input tags:  [</style>, <style="Major">]
    Output tags: [</style>, </style>, <style="Major">, <style="Major">]
    Input:  <style="Major">グリッド機能</style>をオンにすると、位置合わせ用の1mグリッド線が表示されます。十分に近づくと、さらに細かい0.1mグリッド線も表示されます。オブジェクトを配置す...
    Output: Khi bật <style="Major">chức năng lưới</style>, các đường lưới căn chỉnh 1m sẽ được hiển thị. Khi đủ ...
 
-326. Key: $$TeachingPoint.Construction_Grid.Contents[0].PSDesc$$
+240. Key: $$TeachingPoint.Construction_Grid.Contents[0].PSDesc$$
    Input tags:  [</style>, <style="Major">]
    Output tags: [</style>, </style>, <style="Major">, <style="Major">]
    Input:  <style="Major">グリッド機能</style>をオンにすると、位置合わせ用の1mグリッド線が表示されます。十分に近づくと、さらに細かい0.1mグリッド線も表示されます。オブジェクトを配置す...
    Output: Khi bật <style="Major">chức năng lưới</style>, các đường lưới căn chỉnh 1m sẽ được hiển thị. Khi đủ ...
 
-327. Key: $$TeachingPoint.Construction_Grid.Contents[0].SwitchDesc$$
+241. Key: $$TeachingPoint.Construction_Grid.Contents[0].SwitchDesc$$
    Input tags:  [</style>, <style="Major">]
    Output tags: [</style>, </style>, <style="Major">, <style="Major">]
    Input:  <style="Major">グリッド機能</style>をオンにすると、位置合わせ用の1mグリッド線が表示されます。十分に近づくと、さらに細かい0.1mグリッド線も表示されます。オブジェクトを配置す...
    Output: Khi bật <style="Major">chức năng lưới</style>, các đường lưới căn chỉnh 1m sẽ được hiển thị. Khi đủ ...
 
-328. Key: $$TeachingPoint.Construction_Grid.Contents[0].XboxDesc$$
+242. Key: $$TeachingPoint.Construction_Grid.Contents[0].XboxDesc$$
    Input tags:  [</style>, <style="Major">]
    Output tags: [</style>, </style>, <style="Major">, <style="Major">]
    Input:  <style="Major">グリッド機能</style>をオンにすると、位置合わせ用の1mグリッド線が表示されます。十分に近づくと、さらに細かい0.1mグリッド線も表示されます。オブジェクトを配置す...
    Output: <style="Major">Chức năng lưới</style> khi được bật sẽ hiển thị các đường lưới 1m để căn chỉnh vị trí...
 
-329. Key: $$TeachingPoint.Craft_Machine_Upgrade.Contents[0].Desc$$
+243. Key: $$TeachingPoint.Craft_Machine_Upgrade.Contents[0].Desc$$
    Input tags:  [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, <style="Major">, <style="Major">]
    Input:  上級な設備の設計図を習得した後、<style="Major">設備名横</style>の<style="Major">アップグレード</style>を選択して設備の<style="Major">アップ...
    Output: Sau khi học được bản vẽ thiết kế cho thiết bị cấp cao, bạn có thể chọn <style="Major">Nâng cấp</styl...
 
-330. Key: $$TeachingPoint.Craft_Machine_Upgrade.Contents[0].PSDesc$$
+244. Key: $$TeachingPoint.Craft_Machine_Upgrade.Contents[0].PSDesc$$
    Input tags:  [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, <style="Major">, <style="Major">]
    Input:  上級な設備の設計図を習得した後、<style="Major">設備名横</style>の<style="Major">アップグレード</style>を選択して設備の<style="Major">アップ...
    Output: Sau khi học được bản vẽ thiết kế cho thiết bị cấp cao, bạn có thể chọn <style="Major">Nâng cấp</styl...
 
-331. Key: $$TeachingPoint.Craft_Machine_Upgrade.Contents[0].SwitchDesc$$
+245. Key: $$TeachingPoint.Craft_Machine_Upgrade.Contents[0].SwitchDesc$$
    Input tags:  [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, <style="Major">, <style="Major">]
    Input:  上級な設備の設計図を習得した後、<style="Major">設備名横</style>の<style="Major">アップグレード</style>を選択して設備の<style="Major">アップ...
    Output: Sau khi học được bản vẽ thiết kế cho thiết bị cấp cao, bạn có thể chọn <style="Major">Nâng cấp</styl...
 
-332. Key: $$TeachingPoint.Craft_Machine_Upgrade.Contents[0].XboxDesc$$
+246. Key: $$TeachingPoint.Craft_Machine_Upgrade.Contents[0].XboxDesc$$
    Input tags:  [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, <style="Major">, <style="Major">]
    Input:  上級な設備の設計図を習得した後、<style="Major">設備名横</style>の<style="Major">アップグレード</style>を選択して設備の<style="Major">アップ...
    Output: Sau khi học được bản vẽ thiết kế cho thiết bị cấp cao, bạn có thể chọn <style="Major">Nâng cấp</styl...
 
-333. Key: $$TeachingPoint.Elf_01.Contents[1].Desc$$
+247. Key: $$TeachingPoint.Elf_01.Contents[1].Desc$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Input:  <style="Major">セルル</style>の後追して行くと、蛍月の森の奥へ行ける<style="Major">星の導路</style>が現れます。
    Output: Khi <style="Major">theo sau Seruru</style>, <style="Major">Đường dẫn sao</style> dẫn đến sâu trong <...
 
-334. Key: $$TeachingPoint.Elf_01.Contents[1].PSDesc$$
+248. Key: $$TeachingPoint.Elf_01.Contents[1].PSDesc$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Input:  <style="Major">セルル</style>の後追して行くと、蛍月の森の奥へ行ける<style="Major">星の導路</style>が現れます。
    Output: Khi <style="Major">theo sau Seruru</style>, <style="Major">Đường dẫn sao</style> dẫn đến sâu trong <...
 
-335. Key: $$TeachingPoint.Elf_01.Contents[1].SwitchDesc$$
+249. Key: $$TeachingPoint.Elf_01.Contents[1].SwitchDesc$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Input:  <style="Major">セルル</style>の後追して行くと、蛍月の森の奥へ行ける<style="Major">星の導路</style>が現れます。
    Output: Khi <style="Major">theo sau Seruru</style>, <style="Major">Đường dẫn sao</style> dẫn đến sâu trong <...
 
-336. Key: $$TeachingPoint.Elf_01.Contents[1].XboxDesc$$
+250. Key: $$TeachingPoint.Elf_01.Contents[1].XboxDesc$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Input:  <style="Major">セルル</style>の後追して行くと、蛍月の森の奥へ行ける<style="Major">星の導路</style>が現れます。
    Output: Khi <style="Major">theo sau Seruru</style>, <style="Major">Đường dẫn sao</style> dẫn đến sâu trong <...
 
-337. Key: $$TeachingPoint.Elf_01.Contents[2].Desc$$
+251. Key: $$TeachingPoint.Elf_01.Contents[2].Desc$$
    Input tags:  [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Input:  すべての<style="Major">セルル</style>を見つけ出して、<style="Major">星の導路</style>まで送り届けると、<style="Major">星の導路</style...
    Output: Khi tìm thấy tất cả <style="Major">Seruru</style> và đưa chúng đến <style="Major">Đường dẫn sao</sty...
 
-338. Key: $$TeachingPoint.Elf_01.Contents[2].PSDesc$$
+252. Key: $$TeachingPoint.Elf_01.Contents[2].PSDesc$$
    Input tags:  [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Input:  すべての<style="Major">セルル</style>を見つけ出して、<style="Major">星の導路</style>まで送り届けると、<style="Major">星の導路</style...
    Output: Khi tìm thấy tất cả <style="Major">Seruru</style> và đưa chúng đến <style="Major">Đường dẫn sao</sty...
 
-339. Key: $$TeachingPoint.Elf_01.Contents[2].SwitchDesc$$
+253. Key: $$TeachingPoint.Elf_01.Contents[2].SwitchDesc$$
    Input tags:  [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Input:  すべての<style="Major">セルル</style>を見つけ出して、<style="Major">星の導路</style>まで送り届けると、<style="Major">星の導路</style...
    Output: Khi tìm thấy tất cả <style="Major">Seruru</style> và đưa chúng đến <style="Major">Đường dẫn sao</sty...
 
-340. Key: $$TeachingPoint.Elf_01.Contents[2].XboxDesc$$
+254. Key: $$TeachingPoint.Elf_01.Contents[2].XboxDesc$$
    Input tags:  [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Input:  すべての<style="Major">セルル</style>を見つけ出して、<style="Major">星の導路</style>まで送り届けると、<style="Major">星の導路</style...
    Output: Khi tìm thấy tất cả <style="Major">Seruru</style> và đưa chúng đến <style="Major">Đường dẫn sao</sty...
 
-341. Key: $$TeachingPoint.EnergyLow.Contents[0].Desc$$
+255. Key: $$TeachingPoint.EnergyLow.Contents[0].Desc$$
    Input tags:  [</style>, <style="Major">]
    Output tags: [</style>, </style>, <style="Major">, <style="Major">]
    Input:  スタミナが少なくなったときは、椅子に座って休むと、<style="Major">スタミナを回復する</style>ことができます。
    Output: Khi <style="Major">thể lực</style> giảm, bạn có thể <style="Major">phục hồi thể lực</style> bằng các...
 
-342. Key: $$TeachingPoint.EnergyLow.Contents[0].PSDesc$$
+256. Key: $$TeachingPoint.EnergyLow.Contents[0].PSDesc$$
    Input tags:  [</style>, <style="Major">]
    Output tags: [</style>, </style>, <style="Major">, <style="Major">]
    Input:  スタミナが少なくなったときは、椅子に座って休むと、<style="Major">スタミナを回復する</style>ことができます。
    Output: Khi <style="Major">thể lực</style> giảm, bạn có thể <style="Major">phục hồi thể lực</style> bằng các...
 
-343. Key: $$TeachingPoint.EnergyLow.Contents[0].SwitchDesc$$
+257. Key: $$TeachingPoint.EnergyLow.Contents[0].SwitchDesc$$
    Input tags:  [</style>, <style="Major">]
    Output tags: [</style>, </style>, <style="Major">, <style="Major">]
    Input:  スタミナが少なくなったときは、椅子に座って休むと、<style="Major">スタミナを回復する</style>ことができます。
    Output: Khi <style="Major">thể lực</style> giảm, bạn có thể <style="Major">phục hồi thể lực</style> bằng các...
 
-344. Key: $$TeachingPoint.EnergyLow.Contents[0].XboxDesc$$
+258. Key: $$TeachingPoint.EnergyLow.Contents[0].XboxDesc$$
    Input tags:  [</style>, <style="Major">]
    Output tags: [</style>, </style>, <style="Major">, <style="Major">]
    Input:  スタミナが少なくなったときは、椅子に座って休むと、<style="Major">スタミナを回復する</style>ことができます。
    Output: Khi <style="Major">thể lực</style> giảm, bạn có thể <style="Major">phục hồi thể lực</style> bằng các...
 
-345. Key: $$TeachingPoint.EnergyLow.Contents[1].Desc$$
+259. Key: $$TeachingPoint.EnergyLow.Contents[1].Desc$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Input:  <style="Major">食べ物</style>を食べてスタミナを回復することもできます。果物やおやつはそのまま食べられますが、<style="Major">料理</style>しないと食べられな...
    Output: Bạn cũng có thể <style="Major">ăn đồ ăn</style> để phục hồi thể lực. Trái cây và đồ ăn nhẹ có thể ăn...
 
-346. Key: $$TeachingPoint.EnergyLow.Contents[1].PSDesc$$
+260. Key: $$TeachingPoint.EnergyLow.Contents[1].PSDesc$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Input:  <style="Major">食べ物</style>を食べてスタミナを回復することもできます。果物やおやつはそのまま食べられますが、<style="Major">料理</style>しないと食べられな...
    Output: Bạn cũng có thể <style="Major">ăn đồ ăn</style> để phục hồi thể lực. Trái cây và đồ ăn nhẹ có thể ăn...
 
-347. Key: $$TeachingPoint.EnergyLow.Contents[1].SwitchDesc$$
+261. Key: $$TeachingPoint.EnergyLow.Contents[1].SwitchDesc$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Input:  <style="Major">食べ物</style>を食べてスタミナを回復することもできます。果物やおやつはそのまま食べられますが、<style="Major">料理</style>しないと食べられな...
    Output: Bạn cũng có thể <style="Major">ăn đồ ăn</style> để phục hồi thể lực. Trái cây và đồ ăn nhẹ có thể ăn...
 
-348. Key: $$TeachingPoint.EnergyLow.Contents[1].XboxDesc$$
+262. Key: $$TeachingPoint.EnergyLow.Contents[1].XboxDesc$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Input:  <style="Major">食べ物</style>を食べてスタミナを回復することもできます。果物やおやつはそのまま食べられますが、<style="Major">料理</style>しないと食べられな...
    Output: Bạn cũng có thể <style="Major">ăn đồ ăn</style> để phục hồi thể lực. Trái cây và đồ ăn nhẹ có thể ăn...
 
-349. Key: $$TeachingPoint.FindNPCbyMap.Contents[0].Desc$$
+263. Key: $$TeachingPoint.FindNPCbyMap.Contents[0].Desc$$
    Input tags:  [</style>, <style="Major">]
    Output tags: [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Input:  <style="Major">マップの左側</style>で職業メンターやほかの島民の現在位置を確認することができます。
    Output: Bạn có thể xác định vị trí hiện tại của <style="Major">cố vấn nghề nghiệp</style> và các <style="Maj...
 
-350. Key: $$TeachingPoint.FindNPCbyMap.Contents[0].PSDesc$$
+264. Key: $$TeachingPoint.FindNPCbyMap.Contents[0].PSDesc$$
    Input tags:  [</style>, <sprite name="L">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <sprite name="L">, <style="Major">, <style="Major">, <style="Major">]
    Input:  <style="Major">マップ</style>を開くと、<sprite name="L">で職業メンターやほかの島民の現在位置を確認することができます。
    Output: Khi mở <style="Major">bản đồ</style>, bạn có thể xác định vị trí hiện tại của <style="Major">cố vấn ...
 
-351. Key: $$TeachingPoint.FindNPCbyMap.Contents[0].SwitchDesc$$
+265. Key: $$TeachingPoint.FindNPCbyMap.Contents[0].SwitchDesc$$
    Input tags:  [</style>, <sprite name="L">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <sprite name="L">, <style="Major">, <style="Major">, <style="Major">]
    Input:  <style="Major">マップ</style>を開くと、<sprite name="L">で職業メンターやほかの島民の現在位置を確認することができます。
    Output: Khi mở <style="Major">bản đồ</style>, bạn có thể xác định vị trí hiện tại của <style="Major">cố vấn ...
 
-352. Key: $$TeachingPoint.FindNPCbyMap.Contents[0].XboxDesc$$
+266. Key: $$TeachingPoint.FindNPCbyMap.Contents[0].XboxDesc$$
    Input tags:  [</style>, <sprite name="L">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <sprite name="L">, <style="Major">, <style="Major">, <style="Major">]
    Input:  <style="Major">マップ</style>を開くと、<sprite name="L">で職業メンターやほかの島民の現在位置を確認することができます。
    Output: Khi mở <style="Major">bản đồ</style>, bạn có thể xác định vị trí hiện tại của <style="Major">cố vấn ...
 
-353. Key: $$TeachingPoint.FishingCage.Contents[0].Desc$$
+267. Key: $$TeachingPoint.FishingCage.Contents[0].Desc$$
    Input tags:  [</style>, </style>, </style>, <sprite name="PC_F">, <sprite name="PC_MouseLeft">, <style="Major">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, </style>, </style>, <sprite name="PC_MouseLeft">, <sprite name="PC_MouseLeft">, <style="Major">, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Input:  魚取りカゴを適した位置に設置した後、魚捕りカゴに近づき、<sprite name="PC_F">で魚捕りカゴの情報を確認することができます。さらに<sprite name="PC_MouseLeft"...
    Output: Sau khi đặt <style="Major">lồng bắt cá</style> ở vị trí phù hợp, tiếp cận <style="Major">lồng bắt cá...
 
-354. Key: $$TeachingPoint.FishingCage.Contents[0].PSDesc$$
+268. Key: $$TeachingPoint.FishingCage.Contents[0].PSDesc$$
    Input tags:  [</style>, </style>, </style>, <sprite name="PS_Cha">, <sprite name="PS_Cha">, <style="Major">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, </style>, </style>, <sprite name="PS_Cha">, <sprite name="PS_Cha">, <style="Major">, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Input:  魚取りカゴを適した位置に設置した後、魚捕りカゴに近づき、<sprite name="PS_Cha">で魚捕りカゴの情報を確認することができます。さらに<sprite name="PS_Cha">で<s...
    Output: Sau khi đặt <style="Major">lồng bắt cá</style> ở vị trí phù hợp, tiếp cận <style="Major">lồng bắt cá...
 
-355. Key: $$TeachingPoint.FishingCage.Contents[0].SwitchDesc$$
+269. Key: $$TeachingPoint.FishingCage.Contents[0].SwitchDesc$$
    Input tags:  [</style>, </style>, </style>, <sprite name="NS_A">, <sprite name="NS_A">, <style="Major">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, </style>, </style>, <sprite name="NS_A">, <sprite name="NS_A">, <style="Major">, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Input:  魚取りカゴを適した位置に設置した後、魚捕りカゴに近づき、<sprite name="NS_A">で魚捕りカゴの情報を確認することができます。さらに<sprite name="NS_A">で<style...
    Output: Sau khi đặt <style="Major">lồng bắt cá</style> ở vị trí phù hợp, tiếp cận <style="Major">lồng bắt cá...
 
-356. Key: $$TeachingPoint.FishingCage.Contents[0].XboxDesc$$
+270. Key: $$TeachingPoint.FishingCage.Contents[0].XboxDesc$$
    Input tags:  [</style>, </style>, </style>, <sprite name="Xbox_A">, <sprite name="Xbox_A">, <style="Major">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, </style>, </style>, <sprite name="Xbox_A">, <sprite name="Xbox_A">, <style="Major">, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Input:  魚取りカゴを適した位置に設置した後、魚捕りカゴに近づき、<sprite name="Xbox_A">で魚捕りカゴの情報を確認することができます。さらに<sprite name="Xbox_A">で<s...
    Output: Sau khi đặt <style="Major">lồng bắt cá</style> ở vị trí phù hợp, tiếp cận <style="Major">lồng bắt cá...
 
-357. Key: $$TeachingPoint.Fishing_Bait.Contents[0].Desc$$
+271. Key: $$TeachingPoint.Fishing_Bait.Contents[0].Desc$$
    Input tags:  [</style>, </style>, <sprite name="PC_MouseLeft">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <sprite name="PC_MouseLeft">, <style="Major">, <style="Major">, <style="Major">]
    Input:  寄せ餌を手に持ち、<style="Major">公開水域</style>で<sprite name="PC_MouseLeft">をクリックして寄せ餌を撒くと、新しい<style="Major">魚影...
    Output: Cầm <style="Major">mồi câu</style> trong tay, nhấp chuột <sprite name="PC_MouseLeft"> ở <style="Majo...
 
-358. Key: $$TeachingPoint.Fishing_Bait.Contents[0].PSDesc$$
+272. Key: $$TeachingPoint.Fishing_Bait.Contents[0].PSDesc$$
    Input tags:  [</style>, </style>, <sprite name="PS_Jiao">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <sprite name="PS_Jiao">, <style="Major">, <style="Major">, <style="Major">]
    Input:  寄せ餌を手に持ち、<style="Major">公開水域</style>で<sprite name="PS_Jiao">を押して寄せ餌を撒くと、新しい<style="Major">魚影</style>...
    Output: Cầm <style="Major">mồi câu</style> trong tay, nhấn <sprite name="PS_Jiao"> ở <style="Major">vùng nướ...
 
-359. Key: $$TeachingPoint.Fishing_Bait.Contents[0].SwitchDesc$$
+273. Key: $$TeachingPoint.Fishing_Bait.Contents[0].SwitchDesc$$
    Input tags:  [</style>, </style>, <sprite name="NS_Y">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <sprite name="NS_Y">, <style="Major">, <style="Major">, <style="Major">]
    Input:  寄せ餌を手に持ち、<style="Major">公開水域</style>で<sprite name="NS_Y">を押して寄せ餌を撒くと、新しい<style="Major">魚影</style>が現れ...
    Output: Cầm <style="Major">mồi câu</style> trong tay, nhấn <sprite name="NS_Y"> ở <style="Major">vùng nước c...
 
-360. Key: $$TeachingPoint.Fishing_Bait.Contents[0].XboxDesc$$
+274. Key: $$TeachingPoint.Fishing_Bait.Contents[0].XboxDesc$$
    Input tags:  [</style>, </style>, <sprite name="Xbox_X">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <sprite name="Xbox_X">, <style="Major">, <style="Major">, <style="Major">]
    Input:  寄せ餌を手に持ち、<style="Major">公開水域</style>で<sprite name="Xbox_X">を押して寄せ餌を撒くと、新しい<style="Major">魚影</style>が...
    Output: Cầm <style="Major">mồi câu</style> trong tay, nhấn <sprite name="Xbox_X"> ở <style="Major">vùng nước...
 
-361. Key: $$TeachingPoint.Fishing_Bait.Contents[1].Desc$$
+275. Key: $$TeachingPoint.Fishing_Bait.Contents[1].Desc$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Input:  <style="Major">図鑑</style>の<style="Major">生物研究</style>カテゴリーでは、発見済みの魚が好む寄せ餌を確認できます。
    Output: Trong <style="Major">danh mục nghiên cứu sinh vật</style> của <style="Major">sổ tay</style>, bạn có ...
 
-362. Key: $$TeachingPoint.Fishing_Bait.Contents[1].PSDesc$$
+276. Key: $$TeachingPoint.Fishing_Bait.Contents[1].PSDesc$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Input:  <style="Major">図鑑</style>の<style="Major">生物研究</style>カテゴリーでは、発見済みの魚が好む寄せ餌を確認できます。
    Output: Trong <style="Major">danh mục nghiên cứu sinh vật</style> của <style="Major">sổ tay</style>, bạn có ...
 
-363. Key: $$TeachingPoint.Fishing_Bait.Contents[1].SwitchDesc$$
+277. Key: $$TeachingPoint.Fishing_Bait.Contents[1].SwitchDesc$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Input:  <style="Major">図鑑</style>の<style="Major">生物研究</style>カテゴリーでは、発見済みの魚が好む寄せ餌を確認できます。
    Output: Trong <style="Major">danh mục nghiên cứu sinh vật</style> của <style="Major">sổ tay</style>, bạn có ...
 
-364. Key: $$TeachingPoint.Fishing_Bait.Contents[1].XboxDesc$$
+278. Key: $$TeachingPoint.Fishing_Bait.Contents[1].XboxDesc$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Input:  <style="Major">図鑑</style>の<style="Major">生物研究</style>カテゴリーでは、発見済みの魚が好む寄せ餌を確認できます。
    Output: Trong <style="Major">danh mục nghiên cứu sinh vật</style> của <style="Major">sổ tay</style>, bạn có ...
 
-365. Key: $$TeachingPoint.Fishing_Base.Contents[0].Desc$$
+279. Key: $$TeachingPoint.Fishing_Base.Contents[0].Desc$$
    Input tags:  [</style>, </style>, </style>, </style>, <sprite name="PC_Mouse">, <sprite name="PC_MouseLeft">, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <sprite name="PC_Mouse">, <sprite name="PC_MouseLeft">, <style="Major">, <style="Major">, <style="Major">]
    Input:  <style="Major">魚影</style>に近づいたら、<sprite name="PC_MouseLeft">を<style="Major">長押し</style>して、<sprite na...
    Output: Khi tiếp cận <style="Major">bóng cá</style>, nhấn giữ <sprite name="PC_MouseLeft"> và di chuyển <spr...
 
-366. Key: $$TeachingPoint.Fishing_Base.Contents[0].PSDesc$$
+280. Key: $$TeachingPoint.Fishing_Base.Contents[0].PSDesc$$
    Input tags:  [</style>, </style>, </style>, </style>, <sprite name="PS_R2">, <sprite name="R">, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <sprite name="PS_R2">, <sprite name="R">, <style="Major">, <style="Major">, <style="Major">]
    Input:  <style="Major">魚影</style>に近づいたら、<sprite name="PS_R2">を<style="Major">長押し</style>して、<sprite name="R">...
    Output: Khi tiếp cận <style="Major">bóng cá</style>, nhấn giữ <sprite name="PS_R2"> và di chuyển <sprite nam...
 
-367. Key: $$TeachingPoint.Fishing_Base.Contents[0].SwitchDesc$$
+281. Key: $$TeachingPoint.Fishing_Base.Contents[0].SwitchDesc$$
    Input tags:  [</style>, </style>, </style>, </style>, <sprite name="NS_ZR">, <sprite name="R">, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <sprite name="NS_ZR">, <sprite name="R">, <style="Major">, <style="Major">, <style="Major">]
    Input:  <style="Major">魚影</style>に近づいたら、<sprite name="NS_ZR">を<style="Major">長押し</style>して、<sprite name="R">...
    Output: <style="Major">Bóng cá</style> rồi, giữ <sprite name="NS_ZR"> để <style="Major">nhấn giữ</style> và ...
 
-368. Key: $$TeachingPoint.Fishing_Base.Contents[0].XboxDesc$$
+282. Key: $$TeachingPoint.Fishing_Base.Contents[0].XboxDesc$$
    Input tags:  [</style>, </style>, </style>, </style>, <sprite name="R">, <sprite name="Xbox_RT">, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <sprite name="R">, <sprite name="Xbox_RT">, <style="Major">, <style="Major">, <style="Major">]
    Input:  <style="Major">魚影</style>に近づいたら、<sprite name="Xbox_RT">を<style="Major">長押し</style>して、<sprite name="R...
    Output: <style="Major">Bóng cá</style> rồi, giữ <sprite name="Xbox_RT"> để <style="Major">nhấn giữ</style> v...
 
-369. Key: $$TeachingPoint.HomeBluePrint.Contents[1].Desc$$
+283. Key: $$TeachingPoint.HomeBluePrint.Contents[1].Desc$$
    Input tags:  [</style>, </style>, </style>, </style>, </style>, <sprite name="PC_C">, <sprite name="PC_MouseLeft">, <style="Major">, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, </style>, </style>, </style>, <sprite name="PC_C">, <sprite name="PC_MouseLeft">, <style="Major">, <style="Major">, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Input:  図面セットを<style="Major">バッグ</style>に入れた状態で<style="Major">指定なエリア内</style>にて<sprite name="PC_C">で建築モードに入る...
    Output: Khi đã có <style="Major">bộ bản vẽ</style> trong <style="Major">túi</style> và ở <style="Major">khu ...
 
-370. Key: $$TeachingPoint.HomeBluePrint.Contents[1].PSDesc$$
+284. Key: $$TeachingPoint.HomeBluePrint.Contents[1].PSDesc$$
    Input tags:  [</style>, </style>, </style>, </style>, <sprite name="PS_Right">, <sprite name="PS_TipRight">, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, </style>, </style>, <sprite name="PS_Right">, <sprite name="PS_TipRight">, <style="Major">, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Input:  図面セットを<style="Major">バッグ</style>に入れた状態で<style="Major">指定なエリア内</style>にて<sprite name="PS_Right">で建築モー...
    Output: Khi đã có <style="Major">bộ bản vẽ</style> trong <style="Major">túi</style> và ở <style="Major">khu ...
 
-371. Key: $$TeachingPoint.HomeBluePrint.Contents[1].SwitchDesc$$
+285. Key: $$TeachingPoint.HomeBluePrint.Contents[1].SwitchDesc$$
    Input tags:  [</style>, </style>, </style>, </style>, <sprite name="NS_Right">, <sprite name="NS_TipRight">, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, </style>, </style>, <sprite name="NS_Right">, <sprite name="NS_TipRight">, <style="Major">, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Input:  図面セットを<style="Major">バッグ</style>に入れた状態で<style="Major">指定なエリア内</style>にて<sprite name="NS_Right">で建築モー...
    Output: Khi đã có <style="Major">bộ bản vẽ</style> trong <style="Major">túi</style> và ở <style="Major">khu ...
 
-372. Key: $$TeachingPoint.HomeBluePrint.Contents[1].XboxDesc$$
+286. Key: $$TeachingPoint.HomeBluePrint.Contents[1].XboxDesc$$
    Input tags:  [</style>, </style>, </style>, </style>, <sprite name="Xbox_Right">, <sprite name="Xbox_TipRight">, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, </style>, </style>, <sprite name="Xbox_Right">, <sprite name="Xbox_TipRight">, <style="Major">, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Input:  図面セットを<style="Major">バッグ</style>に入れた状態で<style="Major">指定なエリア内</style>にて<sprite name="Xbox_Right">で建築...
    Output: Khi đã có <style="Major">bộ bản vẽ</style> trong <style="Major">túi</style> và ở <style="Major">khu ...
 
-373. Key: $$TeachingPoint.HomeBluePrint.Contents[2].Desc$$
+287. Key: $$TeachingPoint.HomeBluePrint.Contents[2].Desc$$
    Input tags:  [</style>, </style>, </style>, </style>, <sprite name="PC_MouseRight">, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <sprite name="PC_MouseRight">, <style="Major">, <style="Major">, <style="Major">]
    Input:  なお、<style="Major">指定なエリア内</style>にて<style="Major">バッグ</style>内にある図面セットを<style="Major">選択</style>して、<...
    Output: Ngoài ra, trong <style="Major">khu vực được chỉ định</style>, bạn cũng có thể <style="Major">chọn</s...
 
-374. Key: $$TeachingPoint.HomeBluePrint.Contents[2].PSDesc$$
+288. Key: $$TeachingPoint.HomeBluePrint.Contents[2].PSDesc$$
    Input tags:  [</style>, </style>, </style>, </style>, <sprite name="PS_Fang">, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <sprite name="PS_Fang">, <style="Major">, <style="Major">, <style="Major">]
    Input:  なお、<style="Major">指定なエリア内</style>にて<style="Major">バッグ</style>内にある図面セットを<style="Major">選択</style>して、<...
    Output: Ngoài ra, trong <style="Major">khu vực được chỉ định</style>, bạn cũng có thể <style="Major">chọn</s...
 
-375. Key: $$TeachingPoint.HomeBluePrint.Contents[2].SwitchDesc$$
+289. Key: $$TeachingPoint.HomeBluePrint.Contents[2].SwitchDesc$$
    Input tags:  [</style>, </style>, </style>, </style>, <sprite name="NS_Y">, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <sprite name="NS_Y">, <style="Major">, <style="Major">, <style="Major">]
    Input:  なお、<style="Major">指定なエリア内</style>にて<style="Major">バッグ</style>内にある図面セットを<style="Major">選択</style>して、<...
    Output: Ngoài ra, trong <style="Major">khu vực được chỉ định</style>, bạn cũng có thể <style="Major">chọn</s...
 
-376. Key: $$TeachingPoint.HomeBluePrint.Contents[2].XboxDesc$$
+290. Key: $$TeachingPoint.HomeBluePrint.Contents[2].XboxDesc$$
    Input tags:  [</style>, </style>, </style>, </style>, <sprite name="Xbox_X">, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <sprite name="Xbox_X">, <style="Major">, <style="Major">, <style="Major">]
    Input:  なお、<style="Major">指定なエリア内</style>にて<style="Major">バッグ</style>内にある図面セットを<style="Major">選択</style>して、<...
    Output: Ngoài ra, trong <style="Major">khu vực được chỉ định</style>, bạn cũng có thể <style="Major">chọn</s...
 
-377. Key: $$TeachingPoint.Livestock_Base.Contents[1].Desc$$
+291. Key: $$TeachingPoint.Livestock_Base.Contents[1].Desc$$
    Input tags:  [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Input:  建築モードに入り、<style="Major">倉庫</style>または<style="Major">生産カテゴリの飼育</style>タブから、<style="Major">動物の小屋</styl...
    Output: Vào <style="Major">chế độ xây dựng</style>, từ tab <style="Major">kho</style> hoặc tab <style="Major...
 
-378. Key: $$TeachingPoint.Livestock_Base.Contents[1].PSDesc$$
+292. Key: $$TeachingPoint.Livestock_Base.Contents[1].PSDesc$$
    Input tags:  [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Input:  建築モードに入り、<style="Major">倉庫</style>または<style="Major">生産カテゴリの飼育</style>タブから、<style="Major">動物の小屋</styl...
    Output: Vào <style="Major">chế độ xây dựng</style>, từ tab <style="Major">kho</style> hoặc tab <style="Major...
 
-379. Key: $$TeachingPoint.Livestock_Base.Contents[1].SwitchDesc$$
+293. Key: $$TeachingPoint.Livestock_Base.Contents[1].SwitchDesc$$
    Input tags:  [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Input:  建築モードに入り、<style="Major">倉庫</style>または<style="Major">生産カテゴリの飼育</style>タブから、<style="Major">動物の小屋</styl...
    Output: Vào <style="Major">chế độ xây dựng</style>, từ tab <style="Major">kho</style> hoặc tab <style="Major...
 
-380. Key: $$TeachingPoint.Livestock_Base.Contents[1].XboxDesc$$
+294. Key: $$TeachingPoint.Livestock_Base.Contents[1].XboxDesc$$
    Input tags:  [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Input:  建築モードに入り、<style="Major">倉庫</style>または<style="Major">生産カテゴリの飼育</style>タブから、<style="Major">動物の小屋</styl...
    Output: Vào <style="Major">chế độ xây dựng</style>, từ tab <style="Major">kho</style> hoặc tab <style="Major...
 
-381. Key: $$TeachingPoint.Manufacture_VoidBox.Contents[0].Desc$$
+295. Key: $$TeachingPoint.Manufacture_VoidBox.Contents[0].Desc$$
    Input tags:  [</style>, <style="Major">]
    Output tags: [</style>, </style>, <style="Major">, <style="Major">]
    Input:  バッグでヴォイドボックスを開くと、<style="Major">ヴォイドスペース</style>が使えます。アイテムをいつでも収納することができます。
    Output: Khi mở<style="Major">Void Box</style> trong túi, bạn có thể sử dụng<style="Major">Void Space</style>...
 
-382. Key: $$TeachingPoint.Manufacture_VoidBox.Contents[0].PSDesc$$
+296. Key: $$TeachingPoint.Manufacture_VoidBox.Contents[0].PSDesc$$
    Input tags:  [</style>, <style="Major">]
    Output tags: [</style>, </style>, <style="Major">, <style="Major">]
    Input:  バッグでヴォイドボックスを開くと、<style="Major">ヴォイドスペース</style>が使えます。アイテムをいつでも収納することができます。
    Output: Khi mở<style="Major">Void Box</style> trong túi, bạn có thể sử dụng<style="Major">Void Space</style>...
 
-383. Key: $$TeachingPoint.Manufacture_VoidBox.Contents[0].SwitchDesc$$
+297. Key: $$TeachingPoint.Manufacture_VoidBox.Contents[0].SwitchDesc$$
    Input tags:  [</style>, <style="Major">]
    Output tags: [</style>, </style>, <style="Major">, <style="Major">]
    Input:  バッグでヴォイドボックスを開くと、<style="Major">ヴォイドスペース</style>が使えます。アイテムをいつでも収納することができます。
    Output: Khi mở<style="Major">Void Box</style> trong túi, bạn có thể sử dụng<style="Major">Void Space</style>...
 
-384. Key: $$TeachingPoint.Manufacture_VoidBox.Contents[0].XboxDesc$$
+298. Key: $$TeachingPoint.Manufacture_VoidBox.Contents[0].XboxDesc$$
    Input tags:  [</style>, <style="Major">]
    Output tags: [</style>, </style>, <style="Major">, <style="Major">]
    Input:  バッグでヴォイドボックスを開くと、<style="Major">ヴォイドスペース</style>が使えます。アイテムをいつでも収納することができます。
    Output: Khi mở<style="Major">Void Box</style> trong túi, bạn có thể sử dụng<style="Major">Void Space</style>...
 
-385. Key: $$TeachingPoint.Photograph_SpringFestival.Contents[0].Desc$$
+299. Key: $$TeachingPoint.Photograph_SpringFestival.Contents[0].Desc$$
    Input tags:  [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Input:  <style="Major">春節イベント</style>期間中、カメラを使って<style="Major">春節と関連するオブジェクトを撮影</style>しましょう。<style="Major">...
    Output: Trong thời gian <style="Major">sự kiện Tết Nguyên Đán</style>, hãy dùng máy ảnh để chụp các <style="...
 
-386. Key: $$TeachingPoint.Photograph_SpringFestival.Contents[0].PSDesc$$
+300. Key: $$TeachingPoint.Photograph_SpringFestival.Contents[0].PSDesc$$
    Input tags:  [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Input:  <style="Major">春節イベント</style>期間中、カメラを使って<style="Major">春節と関連するオブジェクトを撮影</style>しましょう。<style="Major">...
    Output: Trong thời gian <style="Major">sự kiện Tết Nguyên Đán</style>, hãy dùng máy ảnh để chụp các <style="...
 
-387. Key: $$TeachingPoint.Photograph_SpringFestival.Contents[0].SwitchDesc$$
+301. Key: $$TeachingPoint.Photograph_SpringFestival.Contents[0].SwitchDesc$$
    Input tags:  [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Input:  <style="Major">春節イベント</style>期間中、カメラを使って<style="Major">春節と関連するオブジェクトを撮影</style>しましょう。<style="Major">...
    Output: Trong thời gian <style="Major">sự kiện Tết Nguyên Đán</style>, hãy dùng máy ảnh để chụp các <style="...
 
-388. Key: $$TeachingPoint.Photograph_SpringFestival.Contents[0].XboxDesc$$
+302. Key: $$TeachingPoint.Photograph_SpringFestival.Contents[0].XboxDesc$$
    Input tags:  [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Input:  <style="Major">春節イベント</style>期間中、カメラを使って<style="Major">春節と関連するオブジェクトを撮影</style>しましょう。<style="Major">...
    Output: Trong thời gian <style="Major">sự kiện Tết Nguyên Đán</style>, hãy dùng máy ảnh để chụp các <style="...
 
-389. Key: $$TeachingPoint.Plant_KingCrop.Contents[1].Desc$$
+303. Key: $$TeachingPoint.Plant_KingCrop.Contents[1].Desc$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, <style="Major">]
    Input:  <style="Major">巨大化作物</style>は<style="Major">伐採用</style>のツールで収穫することができます。
    Output: Cây khổng lồ có thể thu hoạch bằng công cụ <style="Major">chặt cây</style>.
 
-390. Key: $$TeachingPoint.Plant_KingCrop.Contents[1].PSDesc$$
+304. Key: $$TeachingPoint.Plant_KingCrop.Contents[1].PSDesc$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, <style="Major">]
    Input:  <style="Major">巨大化作物</style>は<style="Major">伐採用</style>のツールで収穫することができます。
    Output: Cây khổng lồ có thể thu hoạch bằng công cụ <style="Major">chặt cây</style>.
 
-391. Key: $$TeachingPoint.Plant_KingCrop.Contents[1].SwitchDesc$$
+305. Key: $$TeachingPoint.Plant_KingCrop.Contents[1].SwitchDesc$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, <style="Major">]
    Input:  <style="Major">巨大化作物</style>は<style="Major">伐採用</style>のツールで収穫することができます。
    Output: Cây khổng lồ có thể thu hoạch bằng công cụ <style="Major">chặt cây</style>.
 
-392. Key: $$TeachingPoint.Plant_KingCrop.Contents[1].XboxDesc$$
+306. Key: $$TeachingPoint.Plant_KingCrop.Contents[1].XboxDesc$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, <style="Major">]
    Input:  <style="Major">巨大化作物</style>は<style="Major">伐採用</style>のツールで収穫することができます。
    Output: Cây khổng lồ có thể thu hoạch bằng công cụ <style="Major">chặt cây</style>.
 
-393. Key: $$TeachingPoint.Plant_PlanterBox.Contents[0].Desc$$
+307. Key: $$TeachingPoint.Plant_PlanterBox.Contents[0].Desc$$
    Input tags:  [</style>, </style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Input:  <style="Major">バッグ</style>の<style="Major">設備タブ</style>から<style="Major">栽培ボックス</style>を選び、操作メニューで<sty...
    Output: Từ <style="Major">túi</style> chuyển sang tab <style="Major">thiết bị</style>, chọn <style="Major">h...
 
-394. Key: $$TeachingPoint.Plant_PlanterBox.Contents[0].PSDesc$$
+308. Key: $$TeachingPoint.Plant_PlanterBox.Contents[0].PSDesc$$
    Input tags:  [</style>, </style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Input:  <style="Major">バッグ</style>の<style="Major">設備タブ</style>から<style="Major">栽培ボックス</style>を選び、操作メニューで<sty...
    Output: Từ <style="Major">túi</style> chuyển sang tab <style="Major">thiết bị</style>, chọn <style="Major">h...
 
-395. Key: $$TeachingPoint.Plant_PlanterBox.Contents[0].SwitchDesc$$
+309. Key: $$TeachingPoint.Plant_PlanterBox.Contents[0].SwitchDesc$$
    Input tags:  [</style>, </style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Input:  <style="Major">バッグ</style>の<style="Major">設備タブ</style>から<style="Major">栽培ボックス</style>を選び、操作メニューで<sty...
    Output: Từ <style="Major">túi</style> chuyển sang tab <style="Major">thiết bị</style>, chọn <style="Major">h...
 
-396. Key: $$TeachingPoint.Plant_PlanterBox.Contents[0].XboxDesc$$
+310. Key: $$TeachingPoint.Plant_PlanterBox.Contents[0].XboxDesc$$
    Input tags:  [</style>, </style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Input:  <style="Major">バッグ</style>の<style="Major">設備タブ</style>から<style="Major">栽培ボックス</style>を選び、操作メニューで<sty...
    Output: Từ <style="Major">túi</style> chuyển sang tab <style="Major">thiết bị</style>, chọn <style="Major">h...
 
-397. Key: $$TeachingPoint.Plant_PlanterBox.Contents[1].Desc$$
+311. Key: $$TeachingPoint.Plant_PlanterBox.Contents[1].Desc$$
    Input tags:  [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Input:  建築モードに入り、<style="Major">生産カテゴリ</style>の<style="Major">栽培</style>タブから、<style="Major">栽培ボックス</style>を選...
    Output: Vào <style="Major">chế độ xây dựng</style>, từ tab <style="Major">sản xuất</style> chọn mục <style="...
 
-398. Key: $$TeachingPoint.Plant_PlanterBox.Contents[1].PSDesc$$
+312. Key: $$TeachingPoint.Plant_PlanterBox.Contents[1].PSDesc$$
    Input tags:  [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Input:  建築モードに入り、<style="Major">生産カテゴリ</style>の<style="Major">栽培</style>タブから、<style="Major">栽培ボックス</style>を選...
    Output: Vào <style="Major">chế độ xây dựng</style>, từ tab <style="Major">sản xuất</style> chọn mục <style="...
 
-399. Key: $$TeachingPoint.Plant_PlanterBox.Contents[1].SwitchDesc$$
+313. Key: $$TeachingPoint.Plant_PlanterBox.Contents[1].SwitchDesc$$
    Input tags:  [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Input:  建築モードに入り、<style="Major">生産カテゴリ</style>の<style="Major">栽培</style>タブから、<style="Major">栽培ボックス</style>を選...
    Output: Vào <style="Major">chế độ xây dựng</style>, từ tab <style="Major">sản xuất</style> chọn mục <style="...
 
-400. Key: $$TeachingPoint.Plant_PlanterBox.Contents[1].XboxDesc$$
+314. Key: $$TeachingPoint.Plant_PlanterBox.Contents[1].XboxDesc$$
    Input tags:  [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Input:  建築モードに入り、<style="Major">生産カテゴリ</style>の<style="Major">栽培</style>タブから、<style="Major">栽培ボックス</style>を選...
    Output: Vào <style="Major">chế độ xây dựng</style>, từ tab <style="Major">sản xuất</style> chọn mục <style="...
 
-401. Key: $$TeachingPoint.Plant_Tree.Contents[0].Desc$$
+315. Key: $$TeachingPoint.Plant_Tree.Contents[0].Desc$$
    Input tags:  [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Input:  <style="Major">苗木</style>を装備して畑に植えましょう。<style="Major">果樹</style>は一年中植えることができ、枯れることもないが、<style="Major...
    Output: Hãy <style="Major">trang bị</style> <style="Major">cây con</style> và trồng trên mảnh đất. <style="M...
 
-402. Key: $$TeachingPoint.Plant_Tree.Contents[0].PSDesc$$
+316. Key: $$TeachingPoint.Plant_Tree.Contents[0].PSDesc$$
    Input tags:  [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Input:  <style="Major">苗木</style>を装備して畑に植えましょう。<style="Major">果樹</style>は一年中植えることができ、枯れることもないが、<style="Major...
    Output: Hãy <style="Major">trang bị</style> <style="Major">cây con</style> và trồng trên mảnh đất. <style="M...
 
-403. Key: $$TeachingPoint.Plant_Tree.Contents[0].SwitchDesc$$
+317. Key: $$TeachingPoint.Plant_Tree.Contents[0].SwitchDesc$$
    Input tags:  [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Input:  <style="Major">苗木</style>を装備して畑に植えましょう。<style="Major">果樹</style>は一年中植えることができ、枯れることもないが、<style="Major...
    Output: Hãy <style="Major">trang bị</style> <style="Major">cây con</style> và trồng trên mảnh đất. <style="M...
 
-404. Key: $$TeachingPoint.Plant_Tree.Contents[0].XboxDesc$$
+318. Key: $$TeachingPoint.Plant_Tree.Contents[0].XboxDesc$$
    Input tags:  [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Input:  <style="Major">苗木</style>を装備して畑に植えましょう。<style="Major">果樹</style>は一年中植えることができ、枯れることもないが、<style="Major...
    Output: Hãy <style="Major">trang bị</style> <style="Major">cây con</style> và trồng trên mảnh đất. <style="M...
 
-405. Key: $$TeachingPoint.Plant_Tree.Contents[1].Desc$$
+319. Key: $$TeachingPoint.Plant_Tree.Contents[1].Desc$$
    Input tags:  [</style>, <style="Major">]
    Output tags: [</style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Input:  成熟した果樹は、果実を収穫した後、適した季節で一定期間経過すると<style="Major">再び実を結び</style>ます。
    Output: Cây ăn quả <style="Major">đã trưởng thành</style>, sau khi <style="Major">thu hoạch quả</style>, nếu...
 
-406. Key: $$TeachingPoint.Plant_Tree.Contents[1].PSDesc$$
+320. Key: $$TeachingPoint.Plant_Tree.Contents[1].PSDesc$$
    Input tags:  [</style>, <style="Major">]
    Output tags: [</style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Input:  成熟した果樹は、果実を収穫した後、適した季節で一定期間経過すると<style="Major">再び実を結び</style>ます。
    Output: Cây ăn quả <style="Major">đã trưởng thành</style>, sau khi <style="Major">thu hoạch quả</style>, nếu...
 
-407. Key: $$TeachingPoint.Plant_Tree.Contents[1].SwitchDesc$$
+321. Key: $$TeachingPoint.Plant_Tree.Contents[1].SwitchDesc$$
    Input tags:  [</style>, <style="Major">]
    Output tags: [</style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Input:  成熟した果樹は、果実を収穫した後、適した季節で一定期間経過すると<style="Major">再び実を結び</style>ます。
    Output: Cây ăn quả <style="Major">đã trưởng thành</style>, sau khi <style="Major">thu hoạch quả</style>, nếu...
 
-408. Key: $$TeachingPoint.Plant_Tree.Contents[1].XboxDesc$$
+322. Key: $$TeachingPoint.Plant_Tree.Contents[1].XboxDesc$$
    Input tags:  [</style>, <style="Major">]
    Output tags: [</style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Input:  成熟した果樹は、果実を収穫した後、適した季節で一定期間経過すると<style="Major">再び実を結び</style>ます。
    Output: Cây ăn quả <style="Major">đã trưởng thành</style>, sau khi <style="Major">thu hoạch quả</style>, nếu...
 
-409. Key: $$TeachingPoint.StorageBox.Contents[0].Desc$$
+323. Key: $$TeachingPoint.StorageBox.Contents[0].Desc$$
    Input tags:  [</style>, <sprite name="PC_G">, <style="Major">]
    Output tags: [</style>, </style>, <sprite name="PC_G">, <style="Major">, <style="Major">]
    Input:  <style="Major">収納箱</style>は生活の必要品です。レベルが高いほど収納できる量も増えていきます。既存アイテムをまとめて収納したいときは、収納箱に向かって<sprite name=...
    Output: <style="Major">Hộp đựng đồ</style> là đồ cần thiết cho cuộc sống. Cấp độ càng cao, khả năng chứa càn...
 
-410. Key: $$TeachingPoint.StorageBox.Contents[0].PSDesc$$
+324. Key: $$TeachingPoint.StorageBox.Contents[0].PSDesc$$
    Input tags:  [</style>, <sprite name="PS_Jiao">, <style="Major">]
    Output tags: [</style>, </style>, <sprite name="PS_Jiao">, <style="Major">, <style="Major">]
    Input:  <style="Major">収納箱</style>は生活の必要品です。レベルが高いほど収納できる量も増えていきます。既存アイテムをまとめて収納したいときは、収納箱に向かって<sprite name=...
    Output: <style="Major">Hộp đựng đồ</style> là đồ cần thiết cho cuộc sống. Cấp độ càng cao, khả năng chứa càn...
 
-411. Key: $$TeachingPoint.StorageBox.Contents[0].SwitchDesc$$
+325. Key: $$TeachingPoint.StorageBox.Contents[0].SwitchDesc$$
    Input tags:  [</style>, <sprite name="NS_X">, <style="Major">]
    Output tags: [</style>, </style>, <sprite name="NS_X">, <style="Major">, <style="Major">]
    Input:  <style="Major">収納箱</style>は生活の必要品です。レベルが高いほど収納できる量も増えていきます。既存アイテムをまとめて収納したいときは、収納箱に向かって<sprite name=...
    Output: <style="Major">Hộp đựng đồ</style> là đồ cần thiết cho cuộc sống. Cấp độ càng cao, khả năng chứa càn...
 
-412. Key: $$TeachingPoint.StorageBox.Contents[0].XboxDesc$$
+326. Key: $$TeachingPoint.StorageBox.Contents[0].XboxDesc$$
    Input tags:  [</style>, <sprite name="Xbox_Y">, <style="Major">]
    Output tags: [</style>, </style>, <sprite name="Xbox_Y">, <style="Major">, <style="Major">]
    Input:  <style="Major">収納箱</style>は生活の必要品です。レベルが高いほど収納できる量も増えていきます。既存アイテムをまとめて収納したいときは、収納箱に向かって<sprite name=...
    Output: <style="Major">Hộp đựng đồ</style> là đồ cần thiết cho cuộc sống. Cấp độ càng cao, khả năng chứa càn...
 
-413. Key: $$TeachingPoint.UseEmoji.Contents[1].Desc$$
+327. Key: $$TeachingPoint.UseEmoji.Contents[1].Desc$$
    Input tags:  [</style>, </style>, <sprite name="PC_E">, <style="Major">, <style="Major">]
    Output tags: [</style>, <sprite name="PC_E">, <style="Major">]
    Input:  <style="Major"><sprite name="PC_E"></style>で<style="Major">エモーションホイール</style>を開いて、登録したエモーションを使うことができ...
    Output: Bạn có thể mở <style="Major">Bánh xe Biểu cảm</style> bằng <sprite name="PC_E"> để sử dụng các biểu ...
 
-414. Key: $$TeachingPoint.UseEmoji.Contents[1].PSDesc$$
+328. Key: $$TeachingPoint.UseEmoji.Contents[1].PSDesc$$
    Input tags:  [</style>, </style>, <sprite name="PS_L2">, <style="Major">, <style="Major">]
    Output tags: [</style>, <sprite name="PS_L2">, <style="Major">]
    Input:  <style="Major"><sprite name="PS_L2"></style>で<style="Major">エモーションホイール</style>を開いて、登録したエモーションを使うことがで...
    Output: Bạn có thể mở <style="Major">Bánh xe Biểu cảm</style> bằng <sprite name="PS_L2"> để sử dụng các biểu...
 
-415. Key: $$TeachingPoint.UseEmoji.Contents[1].SwitchDesc$$
+329. Key: $$TeachingPoint.UseEmoji.Contents[1].SwitchDesc$$
    Input tags:  [</style>, </style>, <sprite name="NS_ZL">, <style="Major">, <style="Major">]
    Output tags: [</style>, <sprite name="NS_ZL">, <style="Major">]
    Input:  <style="Major"><sprite name="NS_ZL"></style>で<style="Major">エモーションホイール</style>を開いて、登録したエモーションを使うことがで...
    Output: Bạn có thể mở <style="Major">Bánh xe Biểu cảm</style> bằng <sprite name="NS_ZL"> để sử dụng các biểu...
 
-416. Key: $$TeachingPoint.UseEmoji.Contents[1].XboxDesc$$
+330. Key: $$TeachingPoint.UseEmoji.Contents[1].XboxDesc$$
    Input tags:  [</style>, </style>, <sprite name="Xbox_LT">, <style="Major">, <style="Major">]
    Output tags: [</style>, <sprite name="Xbox_LT">, <style="Major">]
    Input:  <style="Major"><sprite name="Xbox_LT"></style>で<style="Major">エモーションホイール</style>を開いて、登録したエモーションを使うこと...
    Output: Bạn có thể mở <style="Major">Bánh xe Biểu cảm</style> bằng <sprite name="Xbox_LT"> để sử dụng các bi...
 
-417. Key: $$TeachingPoint.UseTool.Contents[0].Desc$$
+331. Key: $$TeachingPoint.UseTool.Contents[0].Desc$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Input:  <style="Major">バッグ</style>中のツールを<style="Major">ツールバー</style>に入れます。
    Output: Đặt <style="Major">công cụ</style> từ trong <style="Major">túi</style> của bạn vào <style="Major">th...
 
-418. Key: $$TeachingPoint.UseTool.Contents[0].PSDesc$$
+332. Key: $$TeachingPoint.UseTool.Contents[0].PSDesc$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Input:  <style="Major">バッグ</style>中のツールを<style="Major">ツールバー</style>に入れます。
    Output: Đặt <style="Major">công cụ</style> từ trong <style="Major">túi</style> của bạn vào <style="Major">th...
 
-419. Key: $$TeachingPoint.UseTool.Contents[0].SwitchDesc$$
+333. Key: $$TeachingPoint.UseTool.Contents[0].SwitchDesc$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Input:  <style="Major">バッグ</style>中のツールを<style="Major">ツールバー</style>に入れます。
    Output: Đặt <style="Major">công cụ</style> từ trong <style="Major">túi</style> của bạn vào <style="Major">th...
 
-420. Key: $$TeachingPoint.UseTool.Contents[0].XboxDesc$$
+334. Key: $$TeachingPoint.UseTool.Contents[0].XboxDesc$$
    Input tags:  [</style>, </style>, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">]
    Input:  <style="Major">バッグ</style>中のツールを<style="Major">ツールバー</style>に入れます。
    Output: Đặt <style="Major">công cụ</style> từ trong <style="Major">túi</style> của bạn vào <style="Major">th...
 
-421. Key: $$TeachingPoint.UseTool.Contents[1].Desc$$
+335. Key: $$TeachingPoint.UseTool.Contents[1].Desc$$
    Input tags:  [</style>, </style>, <sprite name="PC_MouseUpDown">, <style="Major">, <style="Major">]
    Output tags: [</style>, <sprite name="PC_MouseUpDown">, <style="Major">]
    Input:  <style="Major">ツール</style>に対応する<style="Major">数字キー</style>を押すと、そのツールを手に持つことができます。または<sprite name="PC...
    Output: Nhấn <style="Major">phím số</style> tương ứng với công cụ để cầm công cụ đó. Hoặc sử dụng <sprite na...
 
-422. Key: $$TeachingPoint.Vehicle_SkateBoard.Contents[0].Desc$$
+336. Key: $$TeachingPoint.Vehicle_SkateBoard.Contents[0].Desc$$
    Input tags:  [</style>, </style>, <sprite name="PC_MouseLeft">, <sprite name="PC_Space">, <sprite name="PC_WASD">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <sprite name="PC_MouseLeft">, <sprite name="PC_Space">, <sprite name="PC_WASD">, <style="Major">, <style="Major">, <style="Major">]
    Input:  スケートボードを装備すると、<sprite name="PC_MouseLeft">で取り出して、<sprite name="PC_WASD">で<style="Major">方向を操作しながら移動<...
    Output: Khi trang bị <style="Major">ván trượt</style>, bạn có thể lấy ra bằng <sprite name="PC_MouseLeft"> v...
 
-423. Key: $$TeachingPoint.Vehicle_SkateBoard.Contents[0].PSDesc$$
+337. Key: $$TeachingPoint.Vehicle_SkateBoard.Contents[0].PSDesc$$
    Input tags:  [</style>, </style>, <sprite name="L">, <sprite name="PS_R2">, <sprite name="PS_Yuan">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <sprite name="L">, <sprite name="PS_R2">, <sprite name="PS_Yuan">, <style="Major">, <style="Major">, <style="Major">]
    Input:  スケートボードを装備すると、<sprite name="PS_R2">で取り出して、<sprite name="L">で<style="Major">方向を操作しながら移動</style>することがで...
    Output: Khi trang bị <style="Major">ván trượt</style>, bạn có thể lấy ra bằng <sprite name="PS_R2"> và <styl...
 
-424. Key: $$TeachingPoint.Vehicle_SkateBoard.Contents[0].SwitchDesc$$
+338. Key: $$TeachingPoint.Vehicle_SkateBoard.Contents[0].SwitchDesc$$
    Input tags:  [</style>, </style>, <sprite name="L">, <sprite name="NS_B">, <sprite name="NS_ZR">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <sprite name="L">, <sprite name="NS_B">, <sprite name="NS_ZR">, <style="Major">, <style="Major">, <style="Major">]
    Input:  スケートボードを装備すると、<sprite name="NS_ZR">で取り出して、<sprite name="L">で<style="Major">方向を操作しながら移動</style>することがで...
    Output: Khi trang bị <style="Major">ván trượt</style>, bạn có thể lấy ra bằng <sprite name="NS_ZR"> và <styl...
 
-425. Key: $$TeachingPoint.Vehicle_SkateBoard.Contents[0].XboxDesc$$
+339. Key: $$TeachingPoint.Vehicle_SkateBoard.Contents[0].XboxDesc$$
    Input tags:  [</style>, </style>, <sprite name="L">, <sprite name="Xbox_B">, <sprite name="Xbox_RT">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, <sprite name="L">, <sprite name="Xbox_B">, <sprite name="Xbox_RT">, <style="Major">, <style="Major">, <style="Major">]
    Input:  スケートボードを装備すると、<sprite name="Xbox_RT">で取り出して、<sprite name="L">で<style="Major">方向を操作しながら移動</style>すること...
    Output: Khi trang bị <style="Major">ván trượt</style>, bạn có thể lấy ra bằng <sprite name="Xbox_RT"> và <st...
 
-426. Key: $$TeachingPoint.Vine.Contents[0].Desc$$
+340. Key: $$TeachingPoint.Vine.Contents[0].Desc$$
    Input tags:  [</style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Input:  <style="Major">ツタ</style>：<style="Major">ツタの根元</style>に水や火を作用させることで、<style="Major">成長</style>や<style...
    Output: <style="Major">Dây leo</style>: Bằng cách tác động <style="Major">nước hoặc lửa</style> vào <style="...
 
-427. Key: $$TeachingPoint.Vine.Contents[0].PSDesc$$
+341. Key: $$TeachingPoint.Vine.Contents[0].PSDesc$$
    Input tags:  [</style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Input:  <style="Major">ツタ</style>：<style="Major">ツタの根元</style>に水や火を作用させることで、<style="Major">成長</style>や<style...
    Output: <style="Major">Dây leo</style>: Bằng cách tác động <style="Major">nước hoặc lửa</style> vào <style="...
 
-428. Key: $$TeachingPoint.Vine.Contents[0].SwitchDesc$$
+342. Key: $$TeachingPoint.Vine.Contents[0].SwitchDesc$$
    Input tags:  [</style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Input:  <style="Major">ツタ</style>：<style="Major">ツタの根元</style>に水や火を作用させることで、<style="Major">成長</style>や<style...
    Output: <style="Major">Dây leo</style>: Bằng cách tác động <style="Major">nước hoặc lửa</style> vào <style="...
 
-429. Key: $$TeachingPoint.Vine.Contents[0].XboxDesc$$
+343. Key: $$TeachingPoint.Vine.Contents[0].XboxDesc$$
    Input tags:  [</style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Output tags: [</style>, </style>, </style>, </style>, </style>, <style="Major">, <style="Major">, <style="Major">, <style="Major">, <style="Major">]
    Input:  <style="Major">ツタ</style>：<style="Major">ツタの根元</style>に水や火を作用させることで、<style="Major">成長</style>や<style...
    Output: <style="Major">Dây leo</style>: Bằng cách tác động <style="Major">nước hoặc lửa</style> vào <style="...
 
-430. Key: $$UI:CommonAskBlueprintConstructTips/7961774234148132025$$
+344. Key: $$UI:CommonAskBlueprintConstructTips/7961774234148132025$$
    Input tags:  [</color>, <color=#e45d57>]
    Output tags: []
    Input:  新しい図面を導入すると<color=#e45d57>この土地にあるすべてのオブジェクトを倉庫に戻し、耕し済みの畑もリセットされます</color>、よろしいですか？
    Output: Khi nhập bản vẽ mới, tất cả đối tượng trên mảnh đất này sẽ được đưa về kho và cánh đồng đã cày cũng ...
 
-431. Key: $$UI:Lottery/2083295577576234445$$
+345. Key: $$UI:Lottery/2083295577576234445$$
    Input tags:  [</color>, </color>, </color>, </color>, <color=#81b217>, <color=#81b217>, <color=#81b217>, <color=#81b217>]
    Output tags: [</color>, </color>, </color>, <color=#81b217>, <color=#81b217>, <color=#81b217>]
    Input:  1枚のスクラッチくじには、<color=#81b217>3</color>つの番号が書かれています。
 <color=#81b217>いずれか1つ</color>でも当日のラッキーナンバーと<color...
    Output: Mỗi tờ vé scratch có ghi <color=#81b217>3</color> số. Nếu <color=#81b217>bất kỳ 1 số nào</color> khớ...
 
-432. Key: $$UI:Lottery/3280741467675311054$$
+346. Key: $$UI:Lottery/3280741467675311054$$
    Input tags:  [</color>, </color>, </color>, <color=#81b217>, <color=#81b217>, <color=#81b217>]
    Output tags: [</color>, </color>, <color=#81b217>, <color=#81b217>]
    Input:  2.<color=#81b217>複数の数字</color>が「今日のラッキーナンバー」と<color=#81b217>一致</color>する場合、もらえるコインも<color=#81b217>倍増...
    Output: 2. Nếu <color=#81b217>nhiều số</color> trùng với 'Số may mắn hôm nay', số xu nhận được sẽ <color=#81...
 
-433. Key: $$UI:UIDiaryBLLbook/871590493606702585$$
+347. Key: $$UI:UIDiaryBLLbook/871590493606702585$$
    Input tags:  [</color>, <color=#e68a40>]
    Output tags: [</b>, </color>, <b>, <color=#e68a40>]
    Input:  タロウが今日、柵の一部を啄いて壊しちゃったみたい。タツヤくんが「あいつ、<color=#e68a40>カンフー</color>やってるぜ！」って、大はしゃぎしてた。
    Output: Hôm nay Taro dường như đã <b>mổ phá</b> một phần hàng rào. Tatsuya hét lên: 'Thằng đó đang <color=#e...
 
-434. Key: $$UI:UIDiaryView/5898688442821965855$$
+348. Key: $$UI:UIDiaryView/5898688442821965855$$
    Input tags:  [</color>, <color=#e77b90>]
    Output tags: [</b>, </color>, <b>, <color=#e77b90>]
    Input:  タロウって、どうやらハナコに<color=#e77b90>惚れちゃった</color>みたい。でも、ハナコはちっとも相手にしてくれない。タロウ、ちょっと落ち込んでるかも…。よし、明日はエサのトウモロコ...
    Output: Taro dường như đã <color=#e77b90>phải lòng</color> Hanako rồi. Nhưng Hanako hoàn toàn không thèm để ...
 
-435. Key: $$UI:UINPCInfoView/4817426681937589037$$
+349. Key: $$UI:UINPCInfoView/4817426681937589037$$
    Input tags:  [<sprite name="Haogan">, <sprite name="Haogan">, <sprite name="Haogan">]
    Output tags: [<sprite name="Haogan">, <sprite name="Haogan">]
    Input:  好感度が<sprite name="Haogan"><sprite name="Haogan"><sprite name="Haogan">になると、友だちの部屋に入れる。
    Output: Khi độ thân thiện đạt <sprite name="Haogan"><sprite name="Haogan">>, có thể vào phòng của bạn bè.
 
-436. Key: $$UI:UIScratchcardGameEntranceView/7886772652001775682$$
+350. Key: $$UI:UIScratchcardGameEntranceView/7886772652001775682$$
    Input tags:  [</color>, </color>, </color>, </color>, <color=#81b217>, <color=#81b217>, <color=#81b217>, <color=#81b217>]
    Output tags: [</color>, </color>, </color>, <color=#81b217>, <color=#81b217>, <color=#81b217>]
    Input:  1.1枚のスクラッチくじには、<color=#81b217>3</color>つの番号が書かれています。<color=#81b217>いずれか1つ</color>でも当日のラッキーナンバーと<colo...
    Output: 1. Mỗi tờ vé scratch có ghi <color=#81b217>3</color> số. Nếu <color=#81b217>bất kỳ số nào</color> tr...
 
-437. Key: $$UIGameRankingView.AskDelContent$$
+351. Key: $$UIGameRankingView.AskDelContent$$
    Input tags:  [</color>, </color>, <color=#81b217>, <color=#81b217>]
    Output tags: [</color>, <color=#81b217>]
    Input:  <color=#81b217>{0}</color>のレコード<color=#81b217>(一回のプレイで獲得した点数:{1}点)</color>をランキングから消去しますか？
    Output: <color=#81b217>{0}</color> (điểm đạt được trong một lần chơi: {1} điểm) khỏi bảng xếp hạng?
 
-438. Key: $$UIMusicTempoView.HitNum$$
+352. Key: $$UIMusicTempoView.HitNum$$
    Input tags:  [</color>, </color>, <color=#CEFF64>, <color=#CEFF64>]
    Output tags: [</color>, <color=#CEFF64>]
    Input:  オート演奏：<color=#CEFF64>Perfect</color>評価を達成<color=#CEFF64>{0}</color>個を開く ({1}/{2})
