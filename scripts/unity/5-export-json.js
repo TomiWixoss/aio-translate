@@ -46,11 +46,11 @@ function exportToJson(inputXml = null, outputJson = null, title = 'vi') {
   while ((match = keyRegex.exec(xmlContent)) !== null) {
     const hashKey = match[1];
     const translatedText = match[2]
+      .replace(/&amp;/g, '&')      // Phải unescape & TRƯỚC
       .replace(/&lt;/g, '<')
       .replace(/&gt;/g, '>')
       .replace(/&quot;/g, '"')
-      .replace(/&apos;/g, "'")
-      .replace(/&amp;/g, '&');
+      .replace(/&apos;/g, "'");
     
     // Chuyển hash key về original key
     const originalKey = reverseMapping[hashKey];

@@ -40,14 +40,12 @@ function parseXMLEntries(xmlContent) {
 
 // Parse XML to Map
 function parseXMLToMap(xmlContent) {
+  const entries = parseXMLEntries(xmlContent);
   const map = new Map();
-  // Match text content including escaped HTML tags
-  const regex = /<Text Key="([^"]+)">(.+?)<\/Text>/g;
-  let match;
   
-  while ((match = regex.exec(xmlContent)) !== null) {
-    map.set(match[1], match[2]);
-  }
+  entries.forEach(entry => {
+    map.set(entry.key, entry.text);
+  });
   
   return map;
 }

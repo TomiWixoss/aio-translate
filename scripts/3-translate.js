@@ -161,33 +161,112 @@ GIỮ NGUYÊN cấu trúc XML và Key, CHỈ dịch nội dung trong thẻ <Text
         const wrongKeys = expectedKeys.length === translatedKeys.length && 
                         expectedKeys.some((key, i) => key !== translatedKeys[i]);
         
-        const hasError = wrongCount || missingKeys.length > 0 || extraKeys.length > 0 || wrongKeys;
+        // Kiểm tra HTML tags (chỉ cho Unity mode)
+        const tagRegex = /<[^>]+>/g;
+        const tagErrors = [];
+        const japaneseErrors = [];
+        
+        if (isUnityMode) {
+            for (let i = 0; i < batch.length; i++) {
+                const originalEntry = batch[i];
+                const translatedEntry = translatedEntries.find(e => e.key === originalEntry.key);
+                
+                if (translatedEntry) {
+                    // Kiểm tra HTML tags
+                    const originalTags = (originalEntry.text.match(tagRegex) || []).sort();
+                    const translatedTags = (translatedEntry.text.match(tagRegex) || []).sort();
+                    
+                    if (JSON.stringify(originalTags) !== JSON.stringify(translatedTags)) {
+                        tagErrors.push({
+                            key: originalEntry.key,
+                            expected: originalTags,
+                            got: translatedTags
+                        });
+                    }
+                    
+                    // Kiểm tra còn tiếng Nhật không (Hiragana, Katakana, Kanji)
+                    const hasJapanese = /[\u3040-\u309F\u30A0-\u30FF\u4E00-\u9FAF]/.test(translatedEntry.text);
+                    if (hasJapanese) {
+                        japaneseErrors.push({
+                            key: originalEntry.key,
+                            text: translatedEntry.text
+                        });
+                    }
+                }
+            }
+        }
+        
+        const hasError = wrongCount || missingKeys.length > 0 || extraKeys.length > 0 || wrongKeys || tagErrors.length > 0 || japaneseErrors.length > 0;
         
         if (hasError) {
-            console.log(`⚠️  Batch ${batchIndex + 1}: Sai Key (Retry ${retryCount}/${MAX_RETRIES}, Tổng lần ${totalAttempts + 1})`);
+            console.log(`⚠️  Batch ${batchIndex + 1}: ${japaneseErrors.length > 0 ? 'Còn tiếng Nhật' : tagErrors.length > 0 ? 'Sai HTML tags' : 'Sai Key'} (Retry ${retryCount}/${MAX_RETRIES}, Tổng lần ${totalAttempts + 1})`);
             
             messages.push({
                 role: "assistant",
                 content: translatedContent
             });
             
-            let errorMsg = `LỖI: Key không đúng!\n`;
-            errorMsg += `Cần: ${expectedKeys.length} thẻ, Nhận: ${translatedKeys.length} thẻ\n\n`;
+            let errorMsg = '';
             
-            if (missingKeys.length > 0) {
-                errorMsg += `❌ THIẾU các Key:\n${missingKeys.join('\n')}\n\n`;
-            }
-            if (extraKeys.length > 0) {
-                errorMsg += `❌ THỪA các Key:\n${extraKeys.join('\n')}\n\n`;
-            }
-            if (wrongKeys && missingKeys.length === 0 && extraKeys.length === 0) {
-                errorMsg += `❌ SAI THỨ TỰ!\n\n`;
+            // Lỗi Key
+            if (wrongCount || missingKeys.length > 0 || extraKeys.length > 0 || wrongKeys) {
+                errorMsg += `LỖI: Key không đúng!\n`;
+                errorMsg += `Cần: ${expectedKeys.length} thẻ, Nhận: ${translatedKeys.length} thẻ\n\n`;
+                
+                if (missingKeys.length > 0) {
+                    errorMsg += `❌ THIẾU các Key:\n${missingKeys.join('\n')}\n\n`;
+                }
+                if (extraKeys.length > 0) {
+                    errorMsg += `❌ THỪA các Key:\n${extraKeys.join('\n')}\n\n`;
+                }
+                if (wrongKeys && missingKeys.length === 0 && extraKeys.length === 0) {
+                    errorMsg += `❌ SAI THỨ TỰ!\n\n`;
+                }
+                
+                errorMsg += `✅ Trả về ĐÚNG ${expectedKeys.length} thẻ theo THỨ TỰ này:\n`;
+                expectedKeys.forEach((key, i) => {
+                    errorMsg += `${i + 1}. Key="${key}"\n`;
+                });
             }
             
-            errorMsg += `✅ Trả về ĐÚNG ${expectedKeys.length} thẻ theo THỨ TỰ này:\n`;
-            expectedKeys.forEach((key, i) => {
-                errorMsg += `${i + 1}. Key="${key}"\n`;
-            });
+            // Lỗi tiếng Nhật
+            if (japaneseErrors.length > 0) {
+                if (errorMsg) errorMsg += '\n\n';
+                errorMsg += `LỖI NGHIÊM TRỌNG: Còn ký tự tiếng Nhật!\n\n`;
+                errorMsg += `Bạn đã để lại ký tự Hiragana/Katakana/Kanji trong ${japaneseErrors.length} thẻ:\n\n`;
+                
+                japaneseErrors.forEach((err, i) => {
+                    errorMsg += `${i + 1}. Key="${err.key}"\n`;
+                    errorMsg += `   Text: ${err.text.substring(0, 100)}${err.text.length > 100 ? '...' : ''}\n\n`;
+                });
+                
+                errorMsg += `QUY TẮC:\n`;
+                errorMsg += `- TUYỆT ĐỐI KHÔNG được có ký tự tiếng Nhật trong kết quả\n`;
+                errorMsg += `- Tên riêng: Chuyển sang chữ La-tinh (romanization)\n`;
+                errorMsg += `- Từ thông dụng: Dịch nghĩa sang tiếng Việt\n`;
+                errorMsg += `- 100% kết quả phải là tiếng Việt hoặc chữ La-tinh\n\n`;
+                errorMsg += `Vui lòng dịch lại các thẻ bị lỗi, loại bỏ HOÀN TOÀN tiếng Nhật.`;
+            }
+            
+            // Lỗi HTML tags
+            if (tagErrors.length > 0) {
+                if (errorMsg) errorMsg += '\n\n';
+                errorMsg += `LỖI: HTML tags không khớp với bản gốc!\n\n`;
+                errorMsg += `Bạn đã thay đổi/xóa/thêm HTML tags trong ${tagErrors.length} thẻ:\n\n`;
+                
+                tagErrors.forEach((err, i) => {
+                    errorMsg += `${i + 1}. Key="${err.key}"\n`;
+                    errorMsg += `   Gốc có: [${err.expected.join(', ')}]\n`;
+                    errorMsg += `   Bạn trả: [${err.got.join(', ')}]\n\n`;
+                });
+                
+                errorMsg += `QUY TẮC:\n`;
+                errorMsg += `- GIỮ NGUYÊN 100% các HTML tags từ bản gốc\n`;
+                errorMsg += `- KHÔNG thay đổi format: <style="Major"> khác với <style=Major>\n`;
+                errorMsg += `- KHÔNG xóa tags, KHÔNG thêm tags\n`;
+                errorMsg += `- CHỈ dịch text bên ngoài và giữa các tags\n\n`;
+                errorMsg += `Vui lòng dịch lại các thẻ bị lỗi với HTML tags CHÍNH XÁC như bản gốc.`;
+            }
             
             messages.push({
                 role: "user",
