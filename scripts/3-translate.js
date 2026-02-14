@@ -236,6 +236,18 @@ async function main() {
     
     if (mode === 'unity') {
         console.log('🚀 Dịch Unity JSON (Nhật → Việt)\n');
+        
+        // Đọc Unity XML (Japanese source)
+        const xmlContent = fs.readFileSync(PATHS.UNITY.TEMP_NEW, 'utf-8');
+        entries = parseXMLEntries(xmlContent);
+        totalBatches = Math.ceil(entries.length / BATCH_SIZE);
+        
+        // Unity mode không cần JP reference vì source đã là JP
+        entries = entries.map(e => ({
+            key: e.key,
+            text: e.text,
+            japanese: '' // Không cần vì đang dịch từ JP
+        }));
     } else if (mode === 'fix-empty') {
         console.log('🔧 Sửa thẻ trống trong file dịch\n');
         
