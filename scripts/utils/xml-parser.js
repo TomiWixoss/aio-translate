@@ -21,7 +21,8 @@ function parseXMLEntries(xmlContent) {
       }
       
       const keyMatch = fullLine.match(/Key="([^"]+)"/);
-      const textMatch = fullLine.match(/>([^<]*)<\/Text>/);
+      // Match text content, bao gồm cả escaped HTML tags
+      const textMatch = fullLine.match(/>(.+?)<\/Text>/);
       
       if (keyMatch) {
         entries.push({
@@ -40,7 +41,8 @@ function parseXMLEntries(xmlContent) {
 // Parse XML to Map
 function parseXMLToMap(xmlContent) {
   const map = new Map();
-  const regex = /<Text Key="([^"]+)">([^<]*)<\/Text>/g;
+  // Match text content including escaped HTML tags
+  const regex = /<Text Key="([^"]+)">(.+?)<\/Text>/g;
   let match;
   
   while ((match = regex.exec(xmlContent)) !== null) {
