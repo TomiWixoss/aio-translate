@@ -161,13 +161,10 @@ GIỮ NGUYÊN cấu trúc XML và Key, CHỈ dịch nội dung trong thẻ <Text
         const wrongKeys = expectedKeys.length === translatedKeys.length && 
                         expectedKeys.some((key, i) => key !== translatedKeys[i]);
         
-        // Kiểm tra HTML tags và placeholders (chỉ cho Unity mode)
+        // Kiểm tra HTML tags (chỉ cho Unity mode)
         const tagRegex = /<[^>]+>/g;
-        const placeholderRegex = /\$\d+|\{\d+\}|%[sd]|\{[^}]+\}/g;
         const tagErrors = [];
-        const placeholderErrors = [];
         const japaneseErrors = [];
-        const brokenTagErrors = [];
         
         if (isUnityMode) {
             for (let i = 0; i < batch.length; i++) {
@@ -187,27 +184,6 @@ GIỮ NGUYÊN cấu trúc XML và Key, CHỈ dịch nội dung trong thẻ <Text
                         });
                     }
                     
-                    // Kiểm tra lỗi cú pháp HTML entities
-                    const hasBrokenTags = /&gt;|&lt;|&quot(?!;)|<\/[^>]*&/.test(translatedEntry.text);
-                    if (hasBrokenTags) {
-                        brokenTagErrors.push({
-                            key: originalEntry.key,
-                            text: translatedEntry.text
-                        });
-                    }
-                    
-                    // Kiểm tra placeholders và variables
-                    const originalPlaceholders = (originalEntry.text.match(placeholderRegex) || []).sort();
-                    const translatedPlaceholders = (translatedEntry.text.match(placeholderRegex) || []).sort();
-                    
-                    if (JSON.stringify(originalPlaceholders) !== JSON.stringify(translatedPlaceholders)) {
-                        placeholderErrors.push({
-                            key: originalEntry.key,
-                            expected: originalPlaceholders,
-                            got: translatedPlaceholders
-                        });
-                    }
-                    
                     // Kiểm tra còn tiếng Nhật không (Hiragana, Katakana, Kanji)
                     const hasJapanese = /[\u3040-\u309F\u30A0-\u30FF\u4E00-\u9FAF]/.test(translatedEntry.text);
                     if (hasJapanese) {
@@ -220,18 +196,10 @@ GIỮ NGUYÊN cấu trúc XML và Key, CHỈ dịch nội dung trong thẻ <Text
             }
         }
         
-        const hasError = wrongCount || missingKeys.length > 0 || extraKeys.length > 0 || wrongKeys || 
-                        tagErrors.length > 0 || placeholderErrors.length > 0 || japaneseErrors.length > 0 || 
-                        brokenTagErrors.length > 0;
+        const hasError = wrongCount || missingKeys.length > 0 || extraKeys.length > 0 || wrongKeys || tagErrors.length > 0 || japaneseErrors.length > 0;
         
         if (hasError) {
-            console.log(`⚠️  Batch ${batchIndex + 1}: ${
-                brokenTagErrors.length > 0 ? 'Lỗi cú pháp HTML' : 
-                japaneseErrors.length > 0 ? 'Còn tiếng Nhật' : 
-                placeholderErrors.length > 0 ? 'Sai Placeholders/Variables' :
-                tagErrors.length > 0 ? 'Sai HTML tags' : 
-                'Sai Key'
-            } (Retry ${retryCount}/${MAX_RETRIES}, Tổng lần ${totalAttempts + 1})`);
+            console.log(`⚠️  Batch ${batchIndex + 1}: ${japaneseErrors.length > 0 ? 'Còn tiếng Nhật' : tagErrors.length > 0 ? 'Sai HTML tags' : 'Sai Key'} (Retry ${retryCount}/${MAX_RETRIES}, Tổng lần ${totalAttempts + 1})`);
             
             messages.push({
                 role: "assistant",
@@ -261,25 +229,6 @@ GIỮ NGUYÊN cấu trúc XML và Key, CHỈ dịch nội dung trong thẻ <Text
                 });
             }
             
-            // Lỗi cú pháp HTML entities
-            if (brokenTagErrors.length > 0) {
-                if (errorMsg) errorMsg += '\n\n';
-                errorMsg += `LỖI NGHIÊM TRỌNG: Lỗi cú pháp HTML entities!\n\n`;
-                errorMsg += `Bạn đã dùng sai ký tự HTML entities trong ${brokenTagErrors.length} thẻ:\n\n`;
-                
-                brokenTagErrors.forEach((err, i) => {
-                    errorMsg += `${i + 1}. Key="${err.key}"\n`;
-                    errorMsg += `   Text: ${err.text.substring(0, 100)}${err.text.length > 100 ? '...' : ''}\n\n`;
-                });
-                
-                errorMsg += `QUY TẮC:\n`;
-                errorMsg += `- KHÔNG được dùng &gt; &lt; &quot (phải dùng > < ")\n`;
-                errorMsg += `- Thẻ đóng phải là </style> KHÔNG PHẢI </style&gt;\n`;
-                errorMsg += `- Thuộc tính phải là name="value" KHÔNG PHẢI name=&quot;value&quot;\n`;
-                errorMsg += `- Viết đúng cú pháp HTML/Rich Text thuần túy\n\n`;
-                errorMsg += `Vui lòng dịch lại các thẻ bị lỗi với cú pháp CHÍNH XÁC.`;
-            }
-            
             // Lỗi tiếng Nhật
             if (japaneseErrors.length > 0) {
                 if (errorMsg) errorMsg += '\n\n';
@@ -297,26 +246,6 @@ GIỮ NGUYÊN cấu trúc XML và Key, CHỈ dịch nội dung trong thẻ <Text
                 errorMsg += `- Từ thông dụng: Dịch nghĩa sang tiếng Việt\n`;
                 errorMsg += `- 100% kết quả phải là tiếng Việt hoặc chữ La-tinh\n\n`;
                 errorMsg += `Vui lòng dịch lại các thẻ bị lỗi, loại bỏ HOÀN TOÀN tiếng Nhật.`;
-            }
-            
-            // Lỗi Placeholders/Variables
-            if (placeholderErrors.length > 0) {
-                if (errorMsg) errorMsg += '\n\n';
-                errorMsg += `LỖI NGHIÊM TRỌNG: Placeholders/Variables không khớp!\n\n`;
-                errorMsg += `Bạn đã xóa hoặc thay đổi các biến hệ thống trong ${placeholderErrors.length} thẻ:\n\n`;
-                
-                placeholderErrors.forEach((err, i) => {
-                    errorMsg += `${i + 1}. Key="${err.key}"\n`;
-                    errorMsg += `   Gốc có: [${err.expected.join(', ')}]\n`;
-                    errorMsg += `   Bạn trả: [${err.got.join(', ')}]\n\n`;
-                });
-                
-                errorMsg += `QUY TẮC:\n`;
-                errorMsg += `- GIỮ NGUYÊN 100% các biến: {#ITEM}, {Name@@MainRole}, {0}, $1, %s, %d\n`;
-                errorMsg += `- KHÔNG xóa, KHÔNG thay đổi tên biến\n`;
-                errorMsg += `- CHỈ dịch text xung quanh, giữ nguyên biến\n`;
-                errorMsg += `- Biến có thể đổi vị trí trong câu nhưng PHẢI giữ nguyên format\n\n`;
-                errorMsg += `Vui lòng dịch lại các thẻ bị lỗi với ĐẦY ĐỦ biến như bản gốc.`;
             }
             
             // Lỗi HTML tags

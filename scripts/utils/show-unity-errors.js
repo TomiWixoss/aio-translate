@@ -5,7 +5,7 @@ const fs = require('fs');
  */
 
 function showErrors(inputFile, outputFile, limit = 20) {
-  console.log('\n=== PHÂN TÍCH CHI TIẾT CÁC LOẠI LỖI STYLE TAGS ===\n');
+  console.log('\n=== Chi tiết lỗi Unity JSON ===\n');
   
   const inputData = JSON.parse(fs.readFileSync(inputFile, 'utf8'));
   const outputData = JSON.parse(fs.readFileSync(outputFile, 'utf8'));
@@ -137,39 +137,17 @@ if (require.main === module) {
   
   if (args.length < 2) {
     console.log('Cách dùng:');
-    console.log('  node scripts/utils/show-unity-errors.js <input.json> <output.json> [limit] [log-file.txt]');
+    console.log('  node scripts/utils/show-unity-errors.js <input.json> <output.json> [limit]');
     console.log('\nVí dụ:');
     console.log('  node scripts/utils/show-unity-errors.js unity/input.json unity/output.json 10');
-    console.log('  node scripts/utils/show-unity-errors.js unity/input.json unity/output.json 10 unity/errors-log.txt');
     process.exit(1);
   }
   
   const inputFile = args[0];
   const outputFile = args[1];
   const limit = parseInt(args[2]) || 20;
-  const logFile = args[3];
-  
-  // Capture console output nếu có logFile
-  let originalLog;
-  let logs = [];
-  
-  if (logFile) {
-    originalLog = console.log;
-    console.log = (...args) => {
-      const msg = args.join(' ');
-      logs.push(msg);
-      originalLog(msg);
-    };
-  }
   
   showErrors(inputFile, outputFile, limit);
-  
-  // Restore console.log và ghi file
-  if (logFile) {
-    console.log = originalLog;
-    fs.writeFileSync(logFile, logs.join('\n'), 'utf8');
-    console.log(`\n📄 Log đã được lưu vào: ${logFile}`);
-  }
 }
 
 module.exports = { showErrors };
