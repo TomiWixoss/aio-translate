@@ -270,16 +270,38 @@ if (require.main === module) {
   
   if (args.length < 2) {
     console.log('Cách dùng:');
-    console.log('  node scripts/utils/compare-unity-json.js <input.json> <output.json>');
+    console.log('  node scripts/utils/compare-unity-json.js <input.json> <output.json> [log-file.txt]');
     console.log('\nVí dụ:');
     console.log('  node scripts/utils/compare-unity-json.js unity/input.json unity/output.json');
+    console.log('  node scripts/utils/compare-unity-json.js unity/input.json unity/output.json unity/compare-log.txt');
     process.exit(1);
   }
   
   const inputFile = args[0];
   const outputFile = args[1];
+  const logFile = args[2];
+  
+  // Capture console output nếu có logFile
+  let originalLog;
+  let logs = [];
+  
+  if (logFile) {
+    originalLog = console.log;
+    console.log = (...args) => {
+      const msg = args.join(' ');
+      logs.push(msg);
+      originalLog(msg);
+    };
+  }
   
   const result = compareUnityJSON(inputFile, outputFile);
+  
+  // Restore console.log và ghi file
+  if (logFile) {
+    console.log = originalLog;
+    fs.writeFileSync(logFile, logs.join('\n'), 'utf8');
+    console.log(`\n📄 Log đã được lưu vào: ${logFile}`);
+  }
   
   // Exit code: 0 nếu không có lỗi, 1 nếu có lỗi
   process.exit(result.errors > 0 ? 1 : 0);
