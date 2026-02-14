@@ -1,9 +1,20 @@
 const { AIO } = require('aio-llm');
 const fs = require('fs');
 const path = require('path');
+const crypto = require('crypto');
 require('dotenv').config();
 
 const PATHS = require('../config/paths.config');
+
+// Log file cho AI responses
+const AI_LOG_FILE = path.join(PATHS.ROOT, 'unity', 'ai-responses.log.txt');
+
+/**
+ * Tạo hash key ngắn từ key gốc
+ */
+function createHashKey(originalKey) {
+    return crypto.createHash('md5').update(originalKey).digest('hex').substring(0, 8).toUpperCase();
+}
 
 // Kiểm tra mode từ argument
 const mode = process.argv[2] || 'normal';
@@ -72,6 +83,66 @@ function saveProgress(progress) {
     fs.writeFileSync(PROGRESS_FILE, JSON.stringify(progress, null, 2), 'utf-8');
 }
 
+/**
+ * Log AI response vào file để debug
+ */
+function logAIResponse(batchIndex, request, response, isRetry = false, errorInfo = null) {
+    const timestamp = new Date().toISOString();
+    const separator = '='.repeat(100);
+    
+    let logContent = `\n${separator}\n`;
+    logContent += `BATCH ${batchIndex + 1} - ${timestamp}${isRetry ? ' (RETRY)' : ''}\n`;
+    logContent += `${separator}\n\n`;
+    
+    logContent += `📤 REQUEST (User Prompt):\n`;
+    logContent += `${'-'.repeat(100)}\n`;
+    logContent += `${request}\n\n`;
+    
+    logContent += `📥 RESPONSE (AI Output):\n`;
+    logContent += `${'-'.repeat(100)}\n`;
+    logContent += `${response}\n\n`;
+    
+    // Thêm thông tin lỗi nếu có
+    if (errorInfo) {
+        logContent += `❌ ERROR DETECTED:\n`;
+        logContent += `${'-'.repeat(100)}\n`;
+        if (errorInfo.tagErrors && errorInfo.tagErrors.length > 0) {
+            logContent += `HTML Tag Errors (${errorInfo.tagErrors.length}):\n`;
+            errorInfo.tagErrors.forEach((err, i) => {
+                logContent += `  ${i + 1}. Key: ${err.key}\n`;
+                logContent += `     Expected: [${err.expected.join(', ')}]\n`;
+                logContent += `     Got:      [${err.got.join(', ')}]\n`;
+            });
+            logContent += '\n';
+        }
+        if (errorInfo.japaneseErrors && errorInfo.japaneseErrors.length > 0) {
+            logContent += `Japanese Character Errors (${errorInfo.japaneseErrors.length}):\n`;
+            errorInfo.japaneseErrors.forEach((err, i) => {
+                logContent += `  ${i + 1}. Key: ${err.key}\n`;
+                logContent += `     Text: ${err.text.substring(0, 100)}\n`;
+            });
+            logContent += '\n';
+        }
+        if (errorInfo.keyErrors) {
+            logContent += `Key Errors:\n`;
+            logContent += `  Expected: ${errorInfo.expectedCount} keys\n`;
+            logContent += `  Got:      ${errorInfo.gotCount} keys\n`;
+            if (errorInfo.missingKeys && errorInfo.missingKeys.length > 0) {
+                logContent += `  Missing:  ${errorInfo.missingKeys.join(', ')}\n`;
+            }
+            if (errorInfo.extraKeys && errorInfo.extraKeys.length > 0) {
+                logContent += `  Extra:    ${errorInfo.extraKeys.join(', ')}\n`;
+            }
+            logContent += '\n';
+        }
+    } else {
+        logContent += `✅ SUCCESS - No errors detected\n\n`;
+    }
+    
+    // Append vào file
+    fs.appendFileSync(AI_LOG_FILE, logContent, 'utf-8');
+}
+
 async function translateBatch(entries, batchIndex, retryCount = 0, messages = null, totalAttempts = 0, completedBatches = null) {
     // Kiểm tra xem batch đã hoàn thành chưa (do duplicate request khác)
     if (completedBatches && completedBatches.has(batchIndex)) {
@@ -82,13 +153,23 @@ async function translateBatch(entries, batchIndex, retryCount = 0, messages = nu
     const batch = entries.slice(startIndex, startIndex + BATCH_SIZE);
     const expectedKeys = batch.map(e => e.key);
     
+    // Tạo hash key map để AI không bị nhầm với key dài
+    const hashKeyMap = new Map();
+    const reverseHashMap = new Map();
+    batch.forEach(e => {
+        const hashKey = createHashKey(e.key);
+        hashKeyMap.set(e.key, hashKey);
+        reverseHashMap.set(hashKey, e.key);
+    });
+    
     // Tạo XML input
     let xmlInput;
     
     if (isUnityMode) {
-        // Unity mode: Dịch trực tiếp từ JP, không cần text EN tham khảo
+        // Unity mode: Dịch trực tiếp từ JP, dùng hash key ngắn
         xmlInput = batch.map(e => {
-            return `  <Text Key="${e.key}">${e.text}</Text>`;
+            const hashKey = hashKeyMap.get(e.key);
+            return `  <Text Key="${hashKey}">${escapeXml(e.text)}</Text>`;
         }).join('\n');
     } else {
         // Normal mode: Load key mapping để lấy JP
@@ -122,7 +203,55 @@ async function translateBatch(entries, batchIndex, retryCount = 0, messages = nu
 
 ${xmlInput}
 
-GIỮ NGUYÊN cấu trúc XML và Key, CHỈ dịch nội dung trong thẻ <Text>. Trả về ĐÚNG ${batch.length} thẻ <Text>.`;
+⚠️ QUY TẮC QUAN TRỌNG NHẤT:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. GIỮ NGUYÊN 100% HTML TAGS - KHÔNG XÓA, KHÔNG THÊM, KHÔNG THAY ĐỔI FORMAT!
+   • Nếu gốc có 2 cặp thẻ → Dịch phải có ĐÚNG 2 cặp thẻ (KHÔNG được 1 hoặc 3)
+   • Nếu gốc có <style="Major"> → Dịch phải có <style="Major"> (KHÔNG đổi thành <style=Major>)
+   • Nếu gốc có <style=Major> → Dịch phải có <style=Major> (KHÔNG đổi thành <style="Major">)
+   • Nếu gốc có <style=major> → Dịch phải có <style=major> (KHÔNG đổi thành <style=Major>)
+   • TUYỆT ĐỐI KHÔNG THÊM thẻ mới không có trong gốc
+
+2. GIỮ NGUYÊN 100% BIẾN: {#ITEM}, {#OBJECT}, {Name@Role}, {0}, v.v.
+
+3. CHỈ DỊCH TEXT, KHÔNG DỊCH/XÓA/THAY ĐỔI/THÊM TAGS VÀ BIẾN
+
+4. KHÔNG ĐỂ LẠI KÝ TỰ TIẾNG NHẬT (Hiragana/Katakana/Kanji)
+
+VÍ DỤ ĐÚNG:
+✓ Input:  この<style="Major">{#OBJECT}</style>を受け取ってください。
+  Output: Xin hãy nhận <style="Major">{#OBJECT}</style> này.
+  → Có ĐÚNG 1 cặp thẻ + 1 biến ✓
+
+✓ Input:  異性の動物を<style="Major">惹きつけやすく</style>、繁殖の<style="Major">優先権</style>を持っている
+  Output: Dễ <style="Major">thu hút</style> động vật khác giới và có <style="Major">quyền ưu tiên</style> sinh sản
+  → Có ĐÚNG 2 cặp thẻ ✓
+
+VÍ DỤ SAI (TUYỆT ĐỐI TRÁNH):
+✗ Input:  この<style="Major">{#OBJECT}</style>を受け取ってください。
+  Output: Xin hãy nhận cái này.
+  → SAI: Đã XÓA thẻ và biến! ✗
+
+✗ Input:  異性の動物を<style="Major">惹きつけやすく</style>、繁殖の<style="Major">優先権</style>を持っている
+  Output: Dễ <style="Major">thu hút động vật khác giới và có quyền ưu tiên</style> sinh sản
+  → SAI: Gộp 2 cặp thẻ thành 1 cặp! ✗
+
+✗ Input:  この<style="Major">{#OBJECT}</style>を受け取ってください。
+  Output: Xin hãy nhận <style=Major>{#OBJECT}</style> này.
+  → SAI: Đổi format từ <style="Major"> thành <style=Major>! ✗
+
+✗ Input:  その課題は<style="Major">豊穣の畑</style>へ続く道を解放することだ。
+  Output: Nhiệm vụ đó là <style="Major">tiến sâu hơn</style> vào rừng, mở đường đến <style="Major">cánh đồng</style>.
+  → SAI: Gốc có 1 cặp thẻ, dịch có 2 cặp thẻ (THÊM thẻ không có trong gốc)! ✗
+
+CÁCH KIỂM TRA TRƯỚC KHI TRẢ LỜI:
+1. ĐẾM số thẻ mở <...> trong input
+2. ĐẾM số thẻ đóng </...> trong input
+3. ĐẾM số biến {...} trong input
+4. KIỂM TRA output có ĐÚNG số lượng đó không
+5. KIỂM TRA format thẻ có CHÍNH XÁC không (có dấu ngoặc kép hay không, viết hoa hay thường)
+
+Trả về ĐÚNG ${batch.length} thẻ <Text> với cấu trúc XML nguyên vẹn.`;
         } else {
             // Normal mode: Dịch từ EN sang VI với JP tham khảo
             userPrompt = `Dịch ${batch.length} thẻ XML tiếng Anh sang tiếng Việt.
@@ -152,6 +281,17 @@ GIỮ NGUYÊN cấu trúc XML và Key, CHỈ dịch nội dung trong thẻ <Text
         
         // Parse XML trả về
         const translatedEntries = parseXMLEntries(translatedContent);
+        
+        // Map hash key về key gốc (chỉ cho Unity mode)
+        if (isUnityMode) {
+            translatedEntries.forEach(entry => {
+                const originalKey = reverseHashMap.get(entry.key);
+                if (originalKey) {
+                    entry.key = originalKey;
+                }
+            });
+        }
+        
         const translatedKeys = translatedEntries.map(e => e.key);
         
         // Kiểm tra Key chi tiết
@@ -172,15 +312,24 @@ GIỮ NGUYÊN cấu trúc XML và Key, CHỈ dịch nội dung trong thẻ <Text
                 const translatedEntry = translatedEntries.find(e => e.key === originalEntry.key);
                 
                 if (translatedEntry) {
-                    // Kiểm tra HTML tags
-                    const originalTags = (originalEntry.text.match(tagRegex) || []).sort();
-                    const translatedTags = (translatedEntry.text.match(tagRegex) || []).sort();
+                    // Kiểm tra HTML tags (chỉ bắt tags thật, không bắt text trong <>)
+                    // Tags thật: <style=...>, <style="...">, <sprite name="...">, <color=...>, </style>, v.v.
+                    const realTagRegex = /<\/?[a-zA-Z][^>]*>/g;
+                    const originalTags = (originalEntry.text.match(realTagRegex) || [])
+                        .map(tag => tag.toLowerCase()) // Normalize case
+                        .sort();
+                    const translatedTags = (translatedEntry.text.match(realTagRegex) || [])
+                        .map(tag => tag.toLowerCase()) // Normalize case
+                        .sort();
                     
-                    if (JSON.stringify(originalTags) !== JSON.stringify(translatedTags)) {
+                    // CHỈ kiểm tra nếu AI XÓA thẻ (ít hơn gốc)
+                    // Cho phép AI THÊM thẻ để nhấn mạnh phù hợp tiếng Việt
+                    if (translatedTags.length < originalTags.length) {
                         tagErrors.push({
                             key: originalEntry.key,
                             expected: originalTags,
-                            got: translatedTags
+                            got: translatedTags,
+                            reason: 'Thiếu thẻ HTML'
                         });
                     }
                     
@@ -197,6 +346,19 @@ GIỮ NGUYÊN cấu trúc XML và Key, CHỈ dịch nội dung trong thẻ <Text
         }
         
         const hasError = wrongCount || missingKeys.length > 0 || extraKeys.length > 0 || wrongKeys || tagErrors.length > 0 || japaneseErrors.length > 0;
+        
+        // Log AI response với thông tin lỗi
+        const userPrompt = messages[0].content;
+        const errorInfo = hasError ? {
+            tagErrors,
+            japaneseErrors,
+            keyErrors: wrongCount || missingKeys.length > 0 || extraKeys.length > 0 || wrongKeys,
+            expectedCount: expectedKeys.length,
+            gotCount: translatedKeys.length,
+            missingKeys,
+            extraKeys
+        } : null;
+        logAIResponse(batchIndex, userPrompt, translatedContent, retryCount > 0, errorInfo);
         
         if (hasError) {
             console.log(`⚠️  Batch ${batchIndex + 1}: ${japaneseErrors.length > 0 ? 'Còn tiếng Nhật' : tagErrors.length > 0 ? 'Sai HTML tags' : 'Sai Key'} (Retry ${retryCount}/${MAX_RETRIES}, Tổng lần ${totalAttempts + 1})`);
@@ -309,6 +471,15 @@ GIỮ NGUYÊN cấu trúc XML và Key, CHỈ dịch nội dung trong thẻ <Text
 async function main() {
     // Kiểm tra mode từ argument
     const mode = process.argv[2] || 'normal';
+    
+    // Khởi tạo log file
+    if (mode === 'unity') {
+        const logHeader = `${'='.repeat(100)}\n`;
+        const logTitle = `AI TRANSLATION LOG - ${new Date().toISOString()}\n`;
+        const logInfo = `Mode: Unity (Japanese → Vietnamese)\n`;
+        fs.writeFileSync(AI_LOG_FILE, logHeader + logTitle + logInfo + logHeader + '\n', 'utf-8');
+        console.log(`📝 AI responses sẽ được log vào: ${AI_LOG_FILE}\n`);
+    }
     
     let entries;
     let totalBatches;

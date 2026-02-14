@@ -1,0 +1,90 @@
+====================================================================================================
+AI TRANSLATION LOG - 2026-02-14T10:36:43.385Z
+Mode: Unity (Japanese → Vietnamese)
+====================================================================================================
+
+
+====================================================================================================
+BATCH 19 - 2026-02-14T10:37:20.656Z
+====================================================================================================
+
+📤 REQUEST (User Prompt):
+----------------------------------------------------------------------------------------------------
+Dịch 10 thẻ XML tiếng Nhật sang tiếng Việt.
+
+  <Text Key="ED592BA3">&lt;style=&quot;Major&quot;&gt;蛍月の森&lt;/style&gt;へ向かい、&lt;style=Major&gt;石英鉱&lt;/style&gt;と&lt;style=Major&gt;グロリス鉱石&lt;/style&gt;を集める。</Text>
+  <Text Key="16B8C15E">&lt;style=Major&gt;作業台&lt;/style&gt;で夜光珠&lt;style=Major&gt;を作ろう。</Text>
+  <Text Key="45A870E0">&lt;style=Major&gt;バイクタイヤ素材1&lt;/style&gt;、&lt;style=Major&gt;バイクタイヤ素材2&lt;/style&gt;、&lt;style=Major&gt;バイクタイヤ素材3&lt;/style&gt;を集めて、バイクタイヤを作る。</Text>
+  <Text Key="0D1A66D0">&lt;style=major&gt;明日&lt;/style&gt;も手伝ってもらえるかな、一緒に輝くビーチフェスの舞台を作り上げよう！</Text>
+  <Text Key="91F5DAC2">&lt;ani:@M3_Speak06/&gt;青菜麺ってのう、わしらが若い頃の思い出の味なんじゃ…あの頃はな…</Text>
+  <Text Key="7B5D96FB">&lt;ani:@M1_Speak04/&gt;料理とは、わずかな変化にも心を配ることが大切です。あなたなら、きっとおいしい青菜麺を作り上げられるはずです。</Text>
+  <Text Key="F4155EEA">&lt;ani:@@M1_Smile/&gt;確かに。青菜麺はごく基本的な食材の組み合わせですが、調理の技量はそうした基礎にこそ表れるものです。</Text>
+  <Text Key="9821AAFB">青菜麺の主な材料は&lt;style=Major&gt;小麦粉&lt;/style&gt;です。これは&lt;style=Major&gt;セパレーター&lt;/style&gt;を使って&lt;style=Major&gt;小麦&lt;/style&gt;から加工して得られますが──セパレーターはお持ちですか？</Text>
+  <Text Key="6D1E1581">その課題はズバリ、蛍月の森のさらに奥に進み、&lt;style=&quot;Major&quot;&gt;豊穣の畑&lt;/style&gt;へ続く道を解放することだ。</Text>
+  <Text Key="E0AFF38C">だから蛍月の森に入る前は、しっかりとした&lt;style=&quot;Major&quot;&gt;弓&lt;/style&gt;と&lt;style=&quot;Major&quot;&gt;爆弾矢&lt;/style&gt;を準備しておいた方がいい。</Text>
+
+⚠️ QUY TẮC QUAN TRỌNG NHẤT:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. GIỮ NGUYÊN 100% HTML TAGS - KHÔNG XÓA, KHÔNG THÊM, KHÔNG THAY ĐỔI FORMAT!
+   • Nếu gốc có 2 cặp thẻ → Dịch phải có ĐÚNG 2 cặp thẻ (KHÔNG được 1 hoặc 3)
+   • Nếu gốc có <style="Major"> → Dịch phải có <style="Major"> (KHÔNG đổi thành <style=Major>)
+   • Nếu gốc có <style=Major> → Dịch phải có <style=Major> (KHÔNG đổi thành <style="Major">)
+   • Nếu gốc có <style=major> → Dịch phải có <style=major> (KHÔNG đổi thành <style=Major>)
+   • TUYỆT ĐỐI KHÔNG THÊM thẻ mới không có trong gốc
+
+2. GIỮ NGUYÊN 100% BIẾN: {#ITEM}, {#OBJECT}, {Name@Role}, {0}, v.v.
+
+3. CHỈ DỊCH TEXT, KHÔNG DỊCH/XÓA/THAY ĐỔI/THÊM TAGS VÀ BIẾN
+
+4. KHÔNG ĐỂ LẠI KÝ TỰ TIẾNG NHẬT (Hiragana/Katakana/Kanji)
+
+VÍ DỤ ĐÚNG:
+✓ Input:  この<style="Major">{#OBJECT}</style>を受け取ってください。
+  Output: Xin hãy nhận <style="Major">{#OBJECT}</style> này.
+  → Có ĐÚNG 1 cặp thẻ + 1 biến ✓
+
+✓ Input:  異性の動物を<style="Major">惹きつけやすく</style>、繁殖の<style="Major">優先権</style>を持っている
+  Output: Dễ <style="Major">thu hút</style> động vật khác giới và có <style="Major">quyền ưu tiên</style> sinh sản
+  → Có ĐÚNG 2 cặp thẻ ✓
+
+VÍ DỤ SAI (TUYỆT ĐỐI TRÁNH):
+✗ Input:  この<style="Major">{#OBJECT}</style>を受け取ってください。
+  Output: Xin hãy nhận cái này.
+  → SAI: Đã XÓA thẻ và biến! ✗
+
+✗ Input:  異性の動物を<style="Major">惹きつけやすく</style>、繁殖の<style="Major">優先権</style>を持っている
+  Output: Dễ <style="Major">thu hút động vật khác giới và có quyền ưu tiên</style> sinh sản
+  → SAI: Gộp 2 cặp thẻ thành 1 cặp! ✗
+
+✗ Input:  この<style="Major">{#OBJECT}</style>を受け取ってください。
+  Output: Xin hãy nhận <style=Major>{#OBJECT}</style> này.
+  → SAI: Đổi format từ <style="Major"> thành <style=Major>! ✗
+
+✗ Input:  その課題は<style="Major">豊穣の畑</style>へ続く道を解放することだ。
+  Output: Nhiệm vụ đó là <style="Major">tiến sâu hơn</style> vào rừng, mở đường đến <style="Major">cánh đồng</style>.
+  → SAI: Gốc có 1 cặp thẻ, dịch có 2 cặp thẻ (THÊM thẻ không có trong gốc)! ✗
+
+CÁCH KIỂM TRA TRƯỚC KHI TRẢ LỜI:
+1. ĐẾM số thẻ mở <...> trong input
+2. ĐẾM số thẻ đóng </...> trong input
+3. ĐẾM số biến {...} trong input
+4. KIỂM TRA output có ĐÚNG số lượng đó không
+5. KIỂM TRA format thẻ có CHÍNH XÁC không (có dấu ngoặc kép hay không, viết hoa hay thường)
+
+Trả về ĐÚNG 10 thẻ <Text> với cấu trúc XML nguyên vẹn.
+
+📥 RESPONSE (AI Output):
+----------------------------------------------------------------------------------------------------
+<Text Key="ED592BA3">Hãy đến <style="Major">Rừng Hồng Nguyệt</style>, thu thập <style=Major>Quặng thạch anh</style> và <style=Major>Quặng Gloris</style>.</Text>
+<Text Key="16B8C15E">Hãy chế tạo <style=Major>Viên ngọc đêm</style> tại <style=Major>bàn làm việc</style>.</Text>
+<Text Key="45A870E0">Thu thập <style=Major>Vật liệu lốp xe máy 1</style>, <style=Major>Vật liệu lốp xe máy 2</style>, <style=Major>Vật liệu lốp xe máy 3</style> để tạo ra lốp xe máy.</Text>
+<Text Key="0D1A66D0"><style=major>Ngày mai</style> cũng được giúp đỡ chứ? Cùng nhau tạo nên sân khấu lấp lánh cho Lễ hội Bãi biển thôi!</Text>
+<Text Key="91F5DAC2"><ani:@M3_Speak06/> Mì rau xanh này, là hương vị kỷ niệm thời trẻ của chúng ta đấy... ngày xưa thì...</Text>
+<Text Key="7B5D96FB"><ani:@M1_Speak04/> Nấu ăn là phải quan tâm đến cả những thay đổi nhỏ nhất. Với cậu, chắc chắn sẽ tạo ra được món mì rau xanh ngon lành.</Text>
+<Text Key="F4155EEA"><ani:@@M1_Smile/> Đúng rồi. Mì rau xanh tuy chỉ là sự kết hợp của nguyên liệu đơn giản, nhưng tài nghệ nấu nướng lại thể hiện rõ qua những điều cơ bản.</Text>
+<Text Key="9821AAFB">Nguyên liệu chính của mì rau xanh là <style=Major>bột mì</style>. Bột mì này được thu được từ <style=Major>lúa mì</style> bằng cách sử dụng <style=Major>máy tách</style>── cậu đã có máy tách chưa?</Text>
+<Text Key="6D1E1581">Nhiệm vụ đó chính là tiến sâu hơn vào <style="Major">Rừng Hồng Nguyệt</style>, mở đường đến <style="Major">Cánh đồng Trù phú</style>.</Text>
+<Text Key="E0AFF38C">Vì vậy, trước khi vào <style="Major">Rừng Hồng Nguyệt</style>, bạn nên chuẩn bị một <style="Major">cây cung</style> vững chắc và <style="Major">tên bom</style>.</Text>
+
+✅ SUCCESS - No errors detected
+

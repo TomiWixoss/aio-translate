@@ -7,7 +7,8 @@ const { parseXMLEntries, escapeXml } = require('../utils/xml-parser');
 /**
  * CONFIG
  */
-const TAG_REGEX = /<[^>]+>/g;
+// Regex bắt HTML tags thật (bắt đầu bằng chữ cái, không bắt text tiếng Nhật trong <>)
+const TAG_REGEX = /<\/?[a-zA-Z][^>]*>/g;
 // Regex bắt biến: {0}, $1, %s, {#ITEM}, {Name@Role}
 const PLACEHOLDER_REGEX = /(\{\s*[\w\d@#.]+\s*\}|\$\d+|%[sd])/g;
 

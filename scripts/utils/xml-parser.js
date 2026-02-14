@@ -27,7 +27,7 @@ function parseXMLEntries(xmlContent) {
       if (keyMatch) {
         entries.push({
           key: keyMatch[1],
-          text: textMatch ? textMatch[1] : ''
+          text: textMatch ? unescapeXml(textMatch[1]) : ''
         });
       }
       
